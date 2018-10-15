@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'EveryoneOn Digital Equity Champions Initiative: Bringing Angelenos Online'
 organization_id: '2018030'
 title: 'Connect to Compete, Inc (EveryoneOn)'
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=-aFvxFfQick'
 project_ids:
   - '8102030'
+project_titles:
+  - 'EveryoneOn Digital Equity Champions Initiative: Bringing Angelenos Online'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'

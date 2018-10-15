@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Month of Photography Los Angeles: Creating a destination photo festival to
-    connect, engage + inspire
 organization_id: '2016142'
 title: Lucie Foundation
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102149'
+project_titles:
+  - >-
+    Month of Photography Los Angeles: Creating a destination photo festival to
+    connect, engage + inspire
 aggregated:
   challenge_url:
     - >-

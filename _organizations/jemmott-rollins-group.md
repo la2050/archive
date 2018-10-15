@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: LA2050_JRG.jpg
-project_titles:
-  - 'The South LA Hub: Strengthening Nonprofits in South Los Angeles '
 maker_image_id: '16877'
 organization_id: '2013100'
 title: Jemmott Rollins Group
@@ -75,6 +73,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102063'
+project_titles:
+  - 'The South LA Hub: Strengthening Nonprofits in South Los Angeles '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SOUTHLAHUB.html'

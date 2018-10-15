@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: FCC_logo_master_jpeg.jpg
-project_titles:
-  - Virtual Mentor Program for Foster and At-risk Youth
-  - Virtual Mentor Program for Foster and Atrisk Youth
 maker_image_id: '16488'
 organization_id: '2013073'
 title: Foster Care Counts
@@ -61,6 +58,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102131'
+project_titles:
+  - Virtual Mentor Program for Foster and At-risk Youth
+  - Virtual Mentor Program for Foster and Atrisk Youth
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/virtualmentor.html'

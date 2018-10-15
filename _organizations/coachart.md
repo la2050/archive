@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - CoachArt
-  - >-
-    CoachArt Matching Platform: revolutionizing volunteerism in LA for those in
-    need through technology
-  - 'The CoachArt Student/Coach Matching App '
-  - The CoachArt Student/Coach Matching App
 organization_id: '2016043'
 title: CoachArt
 org_type: Nonprofit
@@ -30,6 +23,13 @@ project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30?rel=0&amp;showinfo=0'
 project_ids:
   - '6102043'
   - '5102070'
+project_titles:
+  - CoachArt
+  - >-
+    CoachArt Matching Platform: revolutionizing volunteerism in LA for those in
+    need through technology
+  - 'The CoachArt Student/Coach Matching App '
+  - The CoachArt Student/Coach Matching App
 aggregated:
   challenge_url:
     - >-

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'A Recipe for a Great City: Home Cooking'
 organization_id: '2018060'
 title: 'LA Commons, a project of Community Partners'
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=mNrTZHODsQI'
 project_ids:
   - '8102060'
+project_titles:
+  - 'A Recipe for a Great City: Home Cooking'
 aggregated:
   challenge_url:
     - >-

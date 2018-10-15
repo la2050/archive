@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: SXGVU13JPLU
-project_titles:
-  - 'LA''s Promise: Improving Schools, Empowering Neighborhoods'
-  - LA’s Promise Technology Academy
-  - 'LAs Promise: Improving Schools Empowering Neighborhoods'
 organization_id: '2015112'
 title: LA's Promise
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_video: ''
 project_ids:
   - '5102174'
   - '3102175'
+project_titles:
+  - 'LA''s Promise: Improving Schools, Empowering Neighborhoods'
+  - LA’s Promise Technology Academy
+  - 'LAs Promise: Improving Schools Empowering Neighborhoods'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LAsPromise.html'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: CAz_mkuDRno
-project_titles:
-  - 'Colossi: Crowd Gaming'
 organization_id: '2015041'
 title: Colossi
 org_type: Forprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102072'
+project_titles:
+  - 'Colossi: Crowd Gaming'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/colossi.html'

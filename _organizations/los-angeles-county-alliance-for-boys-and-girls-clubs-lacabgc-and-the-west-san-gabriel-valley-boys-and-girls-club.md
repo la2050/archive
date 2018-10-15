@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: JAZZ3YBKHzY
-project_titles:
-  - Seeding STEM at LA County Alliance for Boys and Girls Clubs
 organization_id: '2014167'
 title: >-
   Los Angeles County Alliance for Boys and Girls Clubs (LACABGC) and the West
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102127'
+project_titles:
+  - Seeding STEM at LA County Alliance for Boys and Girls Clubs
 aggregated:
   challenge_url: []
   year_submitted:

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: inC3OJbaTT4
-project_titles:
-  - 'L.A. Kitchen: Neither Food or People Should Ever Go to Waste'
 organization_id: '2013190'
 title: The L.A. Kitchen
 org_type: Nonprofit
@@ -59,6 +57,8 @@ project_image: 'https://img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102251'
+project_titles:
+  - 'L.A. Kitchen: Neither Food or People Should Ever Go to Waste'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/thelakitchen.html'

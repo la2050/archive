@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: BLOOM-NEWFINAL_LOGO_ccf_tag.jpg
-project_titles:
-  - 'Building a Lifetime of Options and Opportunities for Men (BLOOM) '
 maker_image_id: '16109'
 organization_id: '2013027'
 title: California Community Foundation (CCF)
@@ -58,6 +56,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102049'
+project_titles:
+  - 'Building a Lifetime of Options and Opportunities for Men (BLOOM) '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/BLOOM.html'

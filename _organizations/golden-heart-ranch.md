@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: 2014-08-12_11.41.58.jpg
-project_titles:
-  - Golden Heart Ranch... Creating Opportunities for Special Needs Young Adults.
 maker_image_id: '23906'
 organization_id: '2015072'
 title: Golden Heart Ranch
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102113'
+project_titles:
+  - Golden Heart Ranch... Creating Opportunities for Special Needs Young Adults.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'

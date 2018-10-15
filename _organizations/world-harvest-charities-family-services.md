@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    World Harvest Dream Village: Affordable Housing with Food, Jobs, Healthcare,
-    and Community.
 organization_id: '2018139'
 title: World Harvest Charities & Family Services
 org_type: Nonprofit
@@ -25,6 +21,10 @@ project_image: >-
 project_video: 'https://youtu.be/Jtc3hudRjRA'
 project_ids:
   - '8102139'
+project_titles:
+  - >-
+    World Harvest Dream Village: Affordable Housing with Food, Jobs, Healthcare,
+    and Community.
 aggregated:
   challenge_url:
     - >-

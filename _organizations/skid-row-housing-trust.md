@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: Photos_2013.JPG
-project_titles:
-  - Our Skid Row Community Design Studio
-  - Skid Row 2050
 maker_image_id: '21430'
 organization_id: '2014081'
 title: Skid Row Housing Trust
@@ -27,6 +24,9 @@ project_video: ''
 project_ids:
   - '4102192'
   - '3102232'
+project_titles:
+  - Our Skid Row Community Design Studio
+  - Skid Row 2050
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'

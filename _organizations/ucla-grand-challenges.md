@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: DITouRhKW80
-project_titles:
-  - Thriving in a Hotter Los Angeles—100% Sustainability by 2050
 organization_id: '2014217'
 title: UCLA Grand Challenges
 org_type: Government
@@ -19,6 +17,8 @@ project_image: 'https://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102185'
+project_titles:
+  - Thriving in a Hotter Los Angeles—100% Sustainability by 2050
 aggregated:
   challenge_url: []
   year_submitted:

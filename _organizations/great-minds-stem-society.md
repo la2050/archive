@@ -1,12 +1,5 @@
 ---
 maker_image_file_name: IMG_9595_(5).jpg
-project_titles:
-  - >-
-    Providing minority students opportunities in science, technology,
-    engineering, and mathematics. 
-  - >-
-    Providing minority students opportunities in science technology engineering
-    and mathematics.
 maker_image_id: '23564'
 organization_id: '2015074'
 title: Great Minds STEM Society
@@ -31,6 +24,13 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102116'
+project_titles:
+  - >-
+    Providing minority students opportunities in science, technology,
+    engineering, and mathematics. 
+  - >-
+    Providing minority students opportunities in science technology engineering
+    and mathematics.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'

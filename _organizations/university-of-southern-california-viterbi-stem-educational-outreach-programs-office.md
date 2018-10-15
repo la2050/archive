@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - STEM Center for Innovation and Excellence (SCIE)
 organization_id: '2016247'
 title: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102274'
+project_titles:
+  - STEM Center for Innovation and Excellence (SCIE)
 aggregated:
   challenge_url:
     - >-

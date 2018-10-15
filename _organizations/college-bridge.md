@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - 'Future Focus: College and Career Pathways for LA County Students'
-  - >-
-    LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
-    Colleges in LA County
 organization_id: '2016047'
 title: College Bridge
 org_type: Nonprofit
@@ -27,6 +22,11 @@ project_video: 'https://www.youtube.com/embed/EVn09zI9fe4?rel=0&amp;showinfo=0'
 project_ids:
   - '6102046'
   - '4102041'
+project_titles:
+  - 'Future Focus: College and Career Pathways for LA County Students'
+  - >-
+    LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
+    Colleges in LA County
 aggregated:
   challenge_url:
     - >-

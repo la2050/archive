@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: ZErt5IiuEPA
-project_titles:
-  - 'daKAT House:  A Public Housing Project for musicians.'
 organization_id: '2013080'
 title: Geoff Gallegos/daKAH Hip Hop Orchestra
 org_type: For profit
@@ -66,6 +64,8 @@ project_image: 'https://img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102053'
+project_titles:
+  - 'daKAT House:  A Public Housing Project for musicians.'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/dakathouse.html'

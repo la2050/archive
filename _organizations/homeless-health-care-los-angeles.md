@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Save A Life
 organization_id: '2016103'
 title: Homeless Health Care Los Angeles
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/vJZsFAP-f-E?rel=0&amp;showinfo=0'
 project_ids:
   - '6102096'
+project_titles:
+  - Save A Life
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/save-a-life'

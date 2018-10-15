@@ -1,20 +1,4 @@
 ---
-project_titles:
-  - >-
-    Care.Connect.Change.:  UpLIFTing the (people) power of social and emotional
-    supports
-  - >-
-    Care.Connect.Change:  UpLIFTing the (people) power of social and emotional
-    supports
-  - >-
-    Invest in Parents & Connect Families Across Socioeconomic Barriers to Break
-    the Cycle of Poverty
-  - >-
-    Bridging Gaps: LIFT-Los Angeles and One Degree’s Partnership to Expand
-    Networks and Improve Lives
-  - >-
-    Care.Connect.Change: UpLIFTing the (people) power of social and emotional
-    supports
 organization_id: '2018068'
 title: LIFT-Los Angeles
 org_type: Nonprofit
@@ -42,6 +26,22 @@ project_ids:
   - '8102068'
   - '6102131'
   - '4102119'
+project_titles:
+  - >-
+    Care.Connect.Change.:  UpLIFTing the (people) power of social and emotional
+    supports
+  - >-
+    Care.Connect.Change:  UpLIFTing the (people) power of social and emotional
+    supports
+  - >-
+    Invest in Parents & Connect Families Across Socioeconomic Barriers to Break
+    the Cycle of Poverty
+  - >-
+    Bridging Gaps: LIFT-Los Angeles and One Degree’s Partnership to Expand
+    Networks and Improve Lives
+  - >-
+    Care.Connect.Change: UpLIFTing the (people) power of social and emotional
+    supports
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/lift-los-angeles/'

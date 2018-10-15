@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
-project_titles:
-  - Nutrition Education Program
 maker_image_id: '22174'
 organization_id: '2014189'
 title: Saban Community Clinic
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102028'
+project_titles:
+  - Nutrition Education Program
 aggregated:
   challenge_url: []
   year_submitted:

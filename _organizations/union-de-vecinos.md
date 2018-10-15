@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: Ih-cjiooJ3M
-project_titles:
-  - DIY Social Spaces
 organization_id: '2013204'
 title: Union de Vecinos
 org_type: Nonprofit
@@ -102,6 +100,8 @@ project_image: 'https://img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102264'
+project_titles:
+  - DIY Social Spaces
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/UVLA.html'

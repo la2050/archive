@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Los Angeles Family Playlist Program
 organization_id: '2016176'
 title: 'PowerMyLearning, Inc.'
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102188'
+project_titles:
+  - Los Angeles Family Playlist Program
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/los-angeles-family-playlist-program'

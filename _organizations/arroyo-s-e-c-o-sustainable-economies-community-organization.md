@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: ytlmnttRP70
-project_titles:
-  - ShareLA
 organization_id: '2014008'
 title: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102014'
+project_titles:
+  - ShareLA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'

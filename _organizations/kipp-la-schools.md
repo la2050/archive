@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: KIPPThroughCollege3.jpg
-project_titles:
-  - KIPP Through College
 maker_image_id: '17303'
 organization_id: '2013107'
 title: KIPP LA Schools
@@ -38,6 +36,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102166'
+project_titles:
+  - KIPP Through College
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'

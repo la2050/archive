@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Great Futures Start At Home
 organization_id: '2016051'
 title: Community Corporation of Santa Monica
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/cPfsZdgBbDk?rel=0&amp;showinfo=0'
 project_ids:
   - '6102050'
+project_titles:
+  - Great Futures Start At Home
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/great-futures-start-at-home'

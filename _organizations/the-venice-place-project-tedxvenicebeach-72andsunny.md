@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: IMG_9355.JPG
-project_titles:
-  - LA Pop Up Parks
 maker_image_id: '23850'
 organization_id: '2015209'
 title: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102314'
+project_titles:
+  - LA Pop Up Parks
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/PUPs.html'

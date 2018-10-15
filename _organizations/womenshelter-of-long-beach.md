@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: logo.png
-project_titles:
-  - 'Safe Networks, Active Communities'
-  - Safe Networks Active Communities
 maker_image_id: '20761'
 organization_id: '2014108'
 title: WomenShelter of Long Beach
@@ -28,6 +25,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102259'
+project_titles:
+  - 'Safe Networks, Active Communities'
+  - Safe Networks Active Communities
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/SNAC.html'

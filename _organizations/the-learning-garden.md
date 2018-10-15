@@ -1,9 +1,5 @@
 ---
 maker_image_file_name: Garden_Sign.png
-project_titles:
-  - 'Gardens, Gardens - Everywhere!'
-  - The Learning Garden
-  - Gardens Gardens  Everywhere!
 maker_image_id: '16360'
 organization_id: '2013192'
 title: The Learning Garden
@@ -45,6 +41,10 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102252'
+project_titles:
+  - 'Gardens, Gardens - Everywhere!'
+  - The Learning Garden
+  - Gardens Gardens  Everywhere!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Gardens.html'

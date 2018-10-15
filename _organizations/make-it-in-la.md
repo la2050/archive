@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    Make it in LA – help connect and celebrate LA’s entrepreneurial ecosystem
-    for making things
-  - >-
-    Maker Walk: Behind-the-scenes look at locally-made brands and factories
-    around LA
 organization_id: '2018079'
 title: MAKE IT IN LA
 org_type: Nonprofit
@@ -41,6 +34,13 @@ project_video: 'https://www.youtube.com/watch?v=x2Ty5rjHVyE'
 project_ids:
   - '8102079'
   - '5102201'
+project_titles:
+  - >-
+    Make it in LA – help connect and celebrate LA’s entrepreneurial ecosystem
+    for making things
+  - >-
+    Maker Walk: Behind-the-scenes look at locally-made brands and factories
+    around LA
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/make-it-in-la/'

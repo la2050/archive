@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: w8o0x9VRbvE
-project_titles:
-  - Creative Placemaking in Downtown L.A.
 organization_id: '2013014'
 title: Art Share L.A.
 org_type: Nonprofit
@@ -50,6 +48,8 @@ project_image: 'https://img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102026'
+project_titles:
+  - Creative Placemaking in Downtown L.A.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/artsharela.html'

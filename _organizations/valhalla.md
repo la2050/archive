@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: valhalla550.jpg
-project_titles:
-  - 'Self-Sustainable Artistic Community '
-  - 'SelfSustainable Artistic Community '
 maker_image_id: '17236'
 organization_id: '2013211'
 title: ValhalLA
@@ -39,6 +36,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102269'
+project_titles:
+  - 'Self-Sustainable Artistic Community '
+  - 'SelfSustainable Artistic Community '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ValhalLA.html'

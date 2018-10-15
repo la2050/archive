@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Jutout Parklets
 organization_id: '2016191'
 title: SCA-LARC
 org_type: Forprofit
@@ -21,6 +19,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102223'
+project_titles:
+  - Jutout Parklets
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/jutout-parklets'

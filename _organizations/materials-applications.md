@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: Uj3t-8frJ4Q
-project_titles:
-  - >-
-    START SEEING UGLY!  A social app to reveal and transform blighted parts of
-    Los Angeles
 organization_id: '2013131'
 title: Materials & Applications
 org_type: Nonprofit
@@ -68,6 +64,10 @@ project_image: 'https://img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102195'
+project_titles:
+  - >-
+    START SEEING UGLY!  A social app to reveal and transform blighted parts of
+    Los Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/UGLYAPP.html'

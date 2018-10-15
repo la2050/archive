@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: less.png
-project_titles:
-  - Lab Equipment Access for LA Science Teachers
 maker_image_id: '21591'
 organization_id: '2014160'
 title: Learning Equipment Supply Service
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102116'
+project_titles:
+  - Lab Equipment Access for LA Science Teachers
 aggregated:
   challenge_url: []
   year_submitted:

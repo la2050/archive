@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: sO2seHdnH3c
-project_titles:
-  - >-
-    Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
-    creative workforce in LA 
-  - >-
-    Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
-    creative workforce in LA
 organization_id: '2014059'
 title: Mobile Film Classroom
 org_type: Nonprofit
@@ -25,6 +18,13 @@ project_image: 'https://img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102148'
+project_titles:
+  - >-
+    Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
+    creative workforce in LA 
+  - >-
+    Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
+    creative workforce in LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'

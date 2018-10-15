@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: qBtFoJ-YYd0
-project_titles:
-  - >-
-    IamLA- Inspiring the future generation of Angelenos with a youth-led STEAM
-    Awareness Campaign 
-  - >-
-    IamLA- Inspiring the future generation of Angelenos with a youth-led STEAM
-    Awareness Campaign
 organization_id: '2014118'
 title: Boys & Girls Club of Hollywood
 org_type: Nonprofit
@@ -27,6 +20,13 @@ project_image: 'https://img.youtube.com/vi/qBtFoJ-YYd0/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102026'
+project_titles:
+  - >-
+    IamLA- Inspiring the future generation of Angelenos with a youth-led STEAM
+    Awareness Campaign 
+  - >-
+    IamLA- Inspiring the future generation of Angelenos with a youth-led STEAM
+    Awareness Campaign
 aggregated:
   challenge_url: []
   year_submitted:

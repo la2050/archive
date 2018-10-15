@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: rfk-logo.png
-project_titles:
-  - RFK-LA (Legacy in Action) Digital Archive
-  - RFKLA (Legacy in Action) Digital Archive
 maker_image_id: '17150'
 organization_id: '2013163'
 title: RFK-LA (Legacy in Action)
@@ -37,6 +34,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102229'
+project_titles:
+  - RFK-LA (Legacy in Action) Digital Archive
+  - RFKLA (Legacy in Action) Digital Archive
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/RFKLA.html'

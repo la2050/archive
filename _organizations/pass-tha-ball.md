@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: IscZOss0am8
-project_titles:
-  - Hoops Center for the Youth
 organization_id: '2015153'
 title: Pass Tha Ball
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102230'
+project_titles:
+  - Hoops Center for the Youth
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/passthaball.html'

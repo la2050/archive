@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: fMyc7c0Ylc4
-project_titles:
-  - 'LA Riverworks: A Vision to Engage LA Communities in River Revitalization'
 organization_id: '2015186'
 title: Southeast Asian Community Alliance (SEACA) and Public Counsel
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102195'
+project_titles:
+  - 'LA Riverworks: A Vision to Engage LA Communities in River Revitalization'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LARiverworks.html'

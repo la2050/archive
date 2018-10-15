@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Heathy_Teens__LA.png
-project_titles:
-  - Healthy Teens Los Angeles
 maker_image_id: '22268'
 organization_id: '2014177'
 title: MetroHealth Station - Jefferson Park
@@ -21,6 +19,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102015'
+project_titles:
+  - Healthy Teens Los Angeles
 aggregated:
   challenge_url: []
   year_submitted:

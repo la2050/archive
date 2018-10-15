@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'WOW on Wheels: Creating New Paradigms Through Intergenerational EDUPlay'
 organization_id: '2016259'
 title: 'WOW Imagined, Inc.'
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102286'
+project_titles:
+  - 'WOW on Wheels: Creating New Paradigms Through Intergenerational EDUPlay'
 aggregated:
   challenge_url:
     - >-

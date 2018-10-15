@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'SeedLA: Empowering Environmental Leadership'
-  - 'SeedLA: Empowering Environmental Nonprofits'
 organization_id: '2018107'
 title: SeedLA
 org_type: Nonprofit
@@ -26,6 +23,9 @@ project_video: 'https://www.youtube.com/watch?v=p0Ag2WK9kaw'
 project_ids:
   - '8102107'
   - '6102206'
+project_titles:
+  - 'SeedLA: Empowering Environmental Leadership'
+  - 'SeedLA: Empowering Environmental Nonprofits'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/seedla/'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Drought_Solutions_3.jpg
-project_titles:
-  - Effective Drought Solutions
 maker_image_id: '23280'
 organization_id: '2015091'
 title: Individual submitter
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102141'
+project_titles:
+  - Effective Drought Solutions
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/bringbackthebeaver.html'

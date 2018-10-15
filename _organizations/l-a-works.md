@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - 'L.A. Works: Volunteers for a Greater LA'
-  - >-
-    MusicWorks: connecting music-industry pros to underserved kids for social
-    transformation
 organization_id: '2016120'
 title: L.A. Works
 org_type: Nonprofit
@@ -30,6 +25,11 @@ project_video: 'https://www.youtube.com/embed/rDnYXMVy1xo?rel=0&amp;showinfo=0'
 project_ids:
   - '6102118'
   - '5102165'
+project_titles:
+  - 'L.A. Works: Volunteers for a Greater LA'
+  - >-
+    MusicWorks: connecting music-industry pros to underserved kids for social
+    transformation
 aggregated:
   challenge_url:
     - >-

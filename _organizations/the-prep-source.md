@@ -1,9 +1,5 @@
 ---
 maker_image_file_name: The_Prep_Source_Resume_Workshop.png
-project_titles:
-  - >-
-    Creating an equal opportunity to succeed by mentorship from someone that has
-    the career you want
 maker_image_id: '20755'
 organization_id: '2014208'
 title: The Prep Source
@@ -23,6 +19,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102227'
+project_titles:
+  - >-
+    Creating an equal opportunity to succeed by mentorship from someone that has
+    the career you want
 aggregated:
   challenge_url: []
   year_submitted:

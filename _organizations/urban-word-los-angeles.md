@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: WendT0Sm-Tk
-project_titles:
-  - LA Youth Poet Ambassadors
 organization_id: '2015221'
 title: Urban Word Los Angeles
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102336'
+project_titles:
+  - LA Youth Poet Ambassadors
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'

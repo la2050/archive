@@ -1,20 +1,4 @@
 ---
-project_titles:
-  - Building Strong Small Businesses through Microlending
-  - >-
-    Catalyzing Community Partnerships to create economic mobility for LA’s
-    underserved entrepreneurs
-  - >-
-    Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
-    Small Business Owners.
-  - Strengthening LA's Entrepreneurs through Responsible Microlending
-  - >-
-    Support LA’s celebrated food truck culture by helping food truck
-    entrepreneurs grow and create jobs 
-  - Strengthening LAs Entrepreneurs through Responsible Microlending
-  - >-
-    Support LA’s celebrated food truck culture by helping food truck
-    entrepreneurs grow and create jobs
 organization_id: '2018093'
 title: Opportunity Fund
 org_type: Nonprofit
@@ -71,6 +55,22 @@ project_ids:
   - '5102224'
   - '4102160'
   - '3102210'
+project_titles:
+  - Building Strong Small Businesses through Microlending
+  - >-
+    Catalyzing Community Partnerships to create economic mobility for LA’s
+    underserved entrepreneurs
+  - >-
+    Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
+    Small Business Owners.
+  - Strengthening LA's Entrepreneurs through Responsible Microlending
+  - >-
+    Support LA’s celebrated food truck culture by helping food truck
+    entrepreneurs grow and create jobs 
+  - Strengthening LAs Entrepreneurs through Responsible Microlending
+  - >-
+    Support LA’s celebrated food truck culture by helping food truck
+    entrepreneurs grow and create jobs
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/opportunity-fund/'

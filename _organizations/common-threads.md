@@ -1,14 +1,4 @@
 ---
-project_titles:
-  - >-
-    Common Threads’ Healthy Cooking and Nutrition Education for Kids and
-    Families 
-  - >-
-    Nutrition and Garden Education for Underserved Children - Common Threads
-    with The Kitchen Community
-  - >-
-    Common Threads’ Healthy Cooking and Nutrition Education for Kids and
-    Families
 organization_id: '2016050'
 title: Common Threads
 org_type: Nonprofit
@@ -35,6 +25,16 @@ project_video: 'https://www.youtube.com/embed/teuTGnS3vkM?rel=0&amp;showinfo=0'
 project_ids:
   - '6102049'
   - '5102073'
+project_titles:
+  - >-
+    Common Threads’ Healthy Cooking and Nutrition Education for Kids and
+    Families 
+  - >-
+    Nutrition and Garden Education for Underserved Children - Common Threads
+    with The Kitchen Community
+  - >-
+    Common Threads’ Healthy Cooking and Nutrition Education for Kids and
+    Families
 aggregated:
   challenge_url:
     - >-

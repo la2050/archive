@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: March_31_2014_at_5pm.jpeg
-project_titles:
-  - Spreading ChapCare's Retail Health Insurance Enrollment Shop Model
 maker_image_id: '21436'
 organization_id: '2014124'
 title: ChapCare
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102220'
+project_titles:
+  - Spreading ChapCare's Retail Health Insurance Enrollment Shop Model
 aggregated:
   challenge_url: []
   year_submitted:

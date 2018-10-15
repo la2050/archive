@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - The Big Draw LA
-  - The Big Draw LA Drawing Festival. Drawing Los Angeles together!
 organization_id: '2016186'
 title: Ryman Arts
 org_type: Nonprofit
@@ -28,6 +25,9 @@ project_video: 'https://www.youtube.com/embed/eWUHxpi7AOI?rel=0&amp;showinfo=0'
 project_ids:
   - '6102201'
   - '3102230'
+project_titles:
+  - The Big Draw LA
+  - The Big Draw LA Drawing Festival. Drawing Los Angeles together!
 aggregated:
   challenge_url:
     - >-

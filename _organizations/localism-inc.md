@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: TNz5Q0G-KAs
-project_titles:
-  - >-
-    MADE in Long Beach: Fostering independent entrepreneurship to accelerate the
-    local economy
 organization_id: '2015118'
 title: Localism Inc.
 org_type: Forprofit
@@ -25,6 +21,10 @@ project_image: 'https://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102181'
+project_titles:
+  - >-
+    MADE in Long Beach: Fostering independent entrepreneurship to accelerate the
+    local economy
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'

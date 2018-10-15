@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - PickUp PopUp Produce Station
 organization_id: '2013040'
 title: CIVIC PROJECTS
 org_type: Nonprofit
@@ -44,6 +42,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102074'
+project_titles:
+  - PickUp PopUp Produce Station
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/PickUpPopUpProduce.html'

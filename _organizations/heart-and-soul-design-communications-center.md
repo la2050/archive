@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: MIn1VBaIlrQ
-project_titles:
-  - CHIME - Changing Hearts and Images with Multimedia Empowerment
 organization_id: '2015084'
 title: Heart and Soul Design Communications Center
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102131'
+project_titles:
+  - CHIME - Changing Hearts and Images with Multimedia Empowerment
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/CHIMEtime.html'

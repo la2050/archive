@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Building LA’s underserved communities from the ground up!
 organization_id: '2016052'
 title: Community Healing Gardens
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/1iM7NOuaQGg?rel=0&amp;showinfo=0'
 project_ids:
   - '6102051'
+project_titles:
+  - Building LA’s underserved communities from the ground up!
 aggregated:
   challenge_url:
     - >-

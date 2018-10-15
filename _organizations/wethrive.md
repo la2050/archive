@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Youth Mentoring and Entrepreneurship Program for Middle School Students
 organization_id: '2016254'
 title: WeThrive
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102281'
+project_titles:
+  - Youth Mentoring and Entrepreneurship Program for Middle School Students
 aggregated:
   challenge_url:
     - >-

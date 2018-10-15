@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
-    Change Makers
 organization_id: '2016035'
 title: Capital & Main
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/_1nAIfTqGIc?rel=0&amp;showinfo=0'
 project_ids:
   - '6102031'
+project_titles:
+  - >-
+    To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
+    Change Makers
 aggregated:
   challenge_url:
     - >-

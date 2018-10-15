@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Empower Me, a digital tool for rape survivors & allies that fosters
-    community, justice & healing
 organization_id: '2016131'
 title: Light Sprout
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/17VrzStmqAs?rel=0&amp;showinfo=0'
 project_ids:
   - '6102133'
+project_titles:
+  - >-
+    Empower Me, a digital tool for rape survivors & allies that fosters
+    community, justice & healing
 aggregated:
   challenge_url:
     - >-

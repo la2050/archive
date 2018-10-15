@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - >-
-    Empowering Artists with Disabilities to Fill the Creative Industry
-    Employment Gap
-  - Pathways to Employment through Professional Volunteerism
 organization_id: '2016239'
 title: Tierra del Sol Foundation
 org_type: Nonprofit
@@ -30,6 +25,11 @@ project_video: 'https://www.youtube.com/embed/_REjMUMytYw?rel=0&amp;showinfo=0'
 project_ids:
   - '6102264'
   - '5102320'
+project_titles:
+  - >-
+    Empowering Artists with Disabilities to Fill the Creative Industry
+    Employment Gap
+  - Pathways to Employment through Professional Volunteerism
 aggregated:
   challenge_url:
     - >-

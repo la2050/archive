@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - Front Line Leaders Academy - Los Angeles Pilot Program
-  - Front Line Leaders Academy – Los Angeles
-  - 'Front Line Leaders Academy: Creating  Change that Lasts'
-  - 'Micah Leaders Engage Hip Hop Generation in Civic Participation '
 organization_id: '2016169'
 title: People For the American Way Foundation
 org_type: Nonprofit
@@ -31,6 +26,11 @@ project_ids:
   - '6102182'
   - '5102233'
   - '3102217'
+project_titles:
+  - Front Line Leaders Academy - Los Angeles Pilot Program
+  - Front Line Leaders Academy – Los Angeles
+  - 'Front Line Leaders Academy: Creating  Change that Lasts'
+  - 'Micah Leaders Engage Hip Hop Generation in Civic Participation '
 aggregated:
   challenge_url:
     - >-

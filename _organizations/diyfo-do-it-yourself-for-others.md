@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: cEATGWzLMiM
-project_titles:
-  - 'DIYFO: DIY For Others. An accessible space for cultivating creative talent'
 organization_id: '2013053'
 title: DIYFO (Do-It-Yourself. For Others.)
 org_type: For profit
@@ -37,6 +35,8 @@ project_image: 'https://img.youtube.com/vi/cEATGWzLMiM/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102024'
+project_titles:
+  - 'DIYFO: DIY For Others. An accessible space for cultivating creative talent'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/diyfo.html'

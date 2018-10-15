@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - LA Plays at King
 organization_id: '2016083'
 title: Friends of King
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/LO-jFIvksfc?rel=0&amp;showinfo=0'
 project_ids:
   - '6102074'
+project_titles:
+  - LA Plays at King
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-plays-at-king'

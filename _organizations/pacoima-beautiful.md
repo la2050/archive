@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - Celebrate Pacoima
-  - Extending the East San Fernando Valley Nature Parkway
-  - Pacoima Beautiful
-  - Van Nuys Blvd. Green Project
 organization_id: '2016161'
 title: Pacoima Beautiful
 org_type: Nonprofit
@@ -31,6 +26,11 @@ project_ids:
   - '6102173'
   - '4102087'
   - '3102212'
+project_titles:
+  - Celebrate Pacoima
+  - Extending the East San Fernando Valley Nature Parkway
+  - Pacoima Beautiful
+  - Van Nuys Blvd. Green Project
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/celebrate-pacoima'

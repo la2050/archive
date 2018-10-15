@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'LA Street Vendors: Building an Inclusive Economy for the Future City'
-  - 'LA Street Vendors: A Better Economy through LowIncome Entrepreneurs'
 organization_id: '2018035'
 title: East LA Community Corporation (ELACC)
 org_type: Nonprofit
@@ -42,6 +39,9 @@ project_video: 'https://youtu.be/xpzFikU5XZ0'
 project_ids:
   - '8102035'
   - '3102117'
+project_titles:
+  - 'LA Street Vendors: Building an Inclusive Economy for the Future City'
+  - 'LA Street Vendors: A Better Economy through LowIncome Entrepreneurs'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/east-la-community-corporation-elacc/'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Digitize LA
 organization_id: '2018121'
 title: 'The National Association of Latino Independent Producers, NALIP'
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://youtu.be/3uy1I03CPas'
 project_ids:
   - '4102225'
+project_titles:
+  - Digitize LA
 aggregated:
   challenge_url:
     - >-

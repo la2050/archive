@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: jGa5KEowRPM
-project_titles:
-  - Increasing Capacity for College Going
 organization_id: '2013158'
 title: Pullias Center for Higher Education
 org_type: Nonprofit
@@ -54,6 +52,8 @@ project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102224'
+project_titles:
+  - Increasing Capacity for College Going
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/collegecapacity.html'

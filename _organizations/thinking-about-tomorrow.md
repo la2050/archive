@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: ShannonTaTLA2050.jpeg
-project_titles:
-  - School is Cool initiative
-  - Thinking about Tomorrow is making School Cool!
 maker_image_id: '24144'
 organization_id: '2015211'
 title: Thinking about Tomorrow
@@ -22,6 +19,9 @@ project_video: ''
 project_ids:
   - '5102317'
   - '4102234'
+project_titles:
+  - School is Cool initiative
+  - Thinking about Tomorrow is making School Cool!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/SchoolisCool.html'

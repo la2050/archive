@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - 'Arts LANDed: Connecting Resources, Educators, Artists, Students, and You'
-  - Jose Dávila Public Art Project
-  - Wildflowering L.A.
-  - 'Arts LANDed: Connecting Resources Educators Artists Students and You'
 organization_id: '2016126'
 title: LAND (Los Angeles Nomadic Division)
 org_type: Nonprofit
@@ -28,6 +23,11 @@ project_video: ''
 project_ids:
   - '6102126'
   - '4102112'
+project_titles:
+  - 'Arts LANDed: Connecting Resources, Educators, Artists, Students, and You'
+  - Jose Dávila Public Art Project
+  - Wildflowering L.A.
+  - 'Arts LANDed: Connecting Resources Educators Artists Students and You'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'

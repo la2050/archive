@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: FLAA1.jpg
-project_titles:
-  - Shall We Dance in LA?
-  - Shall We Dance?
 maker_image_id: '17044'
 organization_id: '2013071'
 title: For Learners of All Ages
@@ -50,6 +47,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102130'
+project_titles:
+  - Shall We Dance in LA?
+  - Shall We Dance?
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'

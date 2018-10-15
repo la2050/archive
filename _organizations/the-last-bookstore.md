@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: LBSpan2med.jpg
-project_titles:
-  - An Rx for LA - Combining Art & Technology to ReBuild Los Angeles
-  - An Rx for LA  Combining Art & Technology to ReBuild Los Angeles
 maker_image_id: '16903'
 organization_id: '2013191'
 title: The Last Bookstore
@@ -45,6 +42,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102107'
+project_titles:
+  - An Rx for LA - Combining Art & Technology to ReBuild Los Angeles
+  - An Rx for LA  Combining Art & Technology to ReBuild Los Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/RXforLA.html'

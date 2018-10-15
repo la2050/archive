@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: la_biohackers__LA2050_570_345_copy2.jpg
-project_titles:
-  - An Open Biology Lab for Everyone
 maker_image_id: '22859'
 organization_id: '2014054'
 title: 'Los Angeles Biohackers, Inc'
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102124'
+project_titles:
+  - An Open Biology Lab for Everyone
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LAB.html'

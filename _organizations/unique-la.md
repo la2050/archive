@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: LA2050.jpg
-project_titles:
-  - 'Fuel LA''s Creative Economy, Help UNIQUE LA Build The Creative Lab!'
-  - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
 maker_image_id: '17068'
 organization_id: '2013205'
 title: UNIQUE LA
@@ -48,6 +45,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102111'
+project_titles:
+  - 'Fuel LA''s Creative Economy, Help UNIQUE LA Build The Creative Lab!'
+  - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'

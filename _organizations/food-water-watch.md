@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Turning Los Angeles into a Renewable Energy Leader
 organization_id: '2016079'
 title: Food & Water Watch
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102069'
+project_titles:
+  - Turning Los Angeles into a Renewable Energy Leader
 aggregated:
   challenge_url:
     - >-

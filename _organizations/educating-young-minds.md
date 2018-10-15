@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: eym_apple.JPG
-project_titles:
-  - EYM's ACCESS / NO EXCUSE
-  - EYMs ACCESS / NO EXCUSE
 maker_image_id: '16514'
 organization_id: '2013056'
 title: Educating Young Minds
@@ -74,6 +71,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102118'
+project_titles:
+  - EYM's ACCESS / NO EXCUSE
+  - EYMs ACCESS / NO EXCUSE
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/access.html'

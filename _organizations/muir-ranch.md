@@ -1,15 +1,5 @@
 ---
 maker_image_file_name: dahlia3queque.jpg
-project_titles:
-  - >-
-    Kids who sling kale eat kale: Launch 5 School Garden CSA's in LA's Food
-    Deserts
-  - 'LA Children''s Garden, an Eden Project for Los Angeles.'
-  - Muir Ranch
-  - LA Childrens Garden an Eden Project for Los Angeles.
-  - >-
-    Kids who sling kale eat kale: Launch 5 School Garden CSAs in LAs Food
-    Deserts
 maker_image_id: '20571'
 organization_id: '2014060'
 title: Muir Ranch
@@ -36,6 +26,16 @@ project_video: ''
 project_ids:
   - '4102150'
   - '3102200'
+project_titles:
+  - >-
+    Kids who sling kale eat kale: Launch 5 School Garden CSA's in LA's Food
+    Deserts
+  - 'LA Children''s Garden, an Eden Project for Los Angeles.'
+  - Muir Ranch
+  - LA Childrens Garden an Eden Project for Los Angeles.
+  - >-
+    Kids who sling kale eat kale: Launch 5 School Garden CSAs in LAs Food
+    Deserts
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'

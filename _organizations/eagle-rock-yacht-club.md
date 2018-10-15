@@ -1,10 +1,5 @@
 ---
 youtube_video_identifier: aKgBQ7XR-pg
-project_titles:
-  - ' Dodgeball, Community and the Common Good'
-  - 'Dodgeball, Prosperity and the Common Good'
-  - Dodgeball Community and the Common Good
-  - Dodgeball Prosperity and the Common Good
 organization_id: '2014029'
 title: Eagle Rock Yacht Club
 org_type: Nonprofit
@@ -29,6 +24,11 @@ project_video: ''
 project_ids:
   - '4102062'
   - '3102116'
+project_titles:
+  - ' Dodgeball, Community and the Common Good'
+  - 'Dodgeball, Prosperity and the Common Good'
+  - Dodgeball Community and the Common Good
+  - Dodgeball Prosperity and the Common Good
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/eryc.html'

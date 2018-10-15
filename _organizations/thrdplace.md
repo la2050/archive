@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: jUd4odIOyuc
-project_titles:
-  - >-
-    At thrdPlace, our idea for LA2050 is to provide the digital infrastructure
-    for community development
-  - >-
-    At thrdPlace our idea for LA2050 is to provide the digital infrastructure
-    for community development
 organization_id: '2013198'
 title: ThrdPlace
 org_type: For profit
@@ -30,6 +23,13 @@ project_image: 'https://img.youtube.com/vi/jUd4odIOyuc/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102110'
+project_titles:
+  - >-
+    At thrdPlace, our idea for LA2050 is to provide the digital infrastructure
+    for community development
+  - >-
+    At thrdPlace our idea for LA2050 is to provide the digital infrastructure
+    for community development
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/thrdPlace.html'

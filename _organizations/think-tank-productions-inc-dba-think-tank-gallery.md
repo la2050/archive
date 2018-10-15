@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Create Above the Radar Program – Think Tank Gallery Spotlight on Creative
-    Opportunity
 organization_id: '2018125'
 title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
 org_type: Forprofit
@@ -27,6 +23,10 @@ project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 project_video: 'https://youtu.be/msrLyYttTv8'
 project_ids: []
+project_titles:
+  - >-
+    Create Above the Radar Program – Think Tank Gallery Spotlight on Creative
+    Opportunity
 aggregated:
   challenge_url:
     - >-

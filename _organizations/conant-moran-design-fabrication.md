@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: IMAG0233.jpg
-project_titles:
-  - Neighborhood Art Provides Positive Local Focus
 maker_image_id: '20596'
 organization_id: '2014020'
 title: Conant Moran Design & Fabrication
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102047'
+project_titles:
+  - Neighborhood Art Provides Positive Local Focus
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'

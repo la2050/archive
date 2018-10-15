@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - >-
-    Supporting LA's foster youth by creating a dependable community built on
-    trust and consistency.
-  - The Academy Project--Helping Foster Youth THRIVE!!
 organization_id: '2016211'
 title: The Academy Project
 org_type: Nonprofit
@@ -28,6 +23,11 @@ project_video: 'https://www.youtube.com/embed/xbatmQQi_e4?rel=0&amp;showinfo=0'
 project_ids:
   - '6102235'
   - '5102295'
+project_titles:
+  - >-
+    Supporting LA's foster youth by creating a dependable community built on
+    trust and consistency.
+  - The Academy Project--Helping Foster Youth THRIVE!!
 aggregated:
   challenge_url:
     - >-

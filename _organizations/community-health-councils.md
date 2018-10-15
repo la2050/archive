@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - Save Spaces for Healthy Places
-  - >-
-    LA Open Acres: Transforming Empty Space Through Collaboration and
-    Empowerment
 organization_id: '2016053'
 title: Community Health Councils
 org_type: Nonprofit
@@ -28,6 +23,11 @@ project_video: 'https://www.youtube.com/embed/LW-vMpFhnl8?rel=0&amp;showinfo=0'
 project_ids:
   - '6102052'
   - '3102088'
+project_titles:
+  - Save Spaces for Healthy Places
+  - >-
+    LA Open Acres: Transforming Empty Space Through Collaboration and
+    Empowerment
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Save the Art Programs in the Art Capital's Schools!
 organization_id: '2016101'
 title: Hollywood Arts Council
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102093'
+project_titles:
+  - Save the Art Programs in the Art Capital's Schools!
 aggregated:
   challenge_url:
     - >-

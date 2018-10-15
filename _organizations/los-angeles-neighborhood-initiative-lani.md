@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Fixing the Cracks: Neighborhood Sidewalk Repair Program'
 organization_id: '2016138'
 title: Los Angeles Neighborhood Initiative (LANI)
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102143'
+project_titles:
+  - 'Fixing the Cracks: Neighborhood Sidewalk Repair Program'
 aggregated:
   challenge_url:
     - >-

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 0EQnXawnCQk
-project_titles:
-  - LitRemix
 organization_id: '2015015'
 title: Artists for Literacy / LitRemix
 org_type: Other
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102023'
+project_titles:
+  - LitRemix
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'

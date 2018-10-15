@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - SmartAirLA
-  - 'SmartAirLA '
 organization_id: '2018110'
 title: SmartAirLA
 org_type: Nonprofit
@@ -24,6 +21,9 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smart
 project_video: ''
 project_ids:
   - '8102110'
+project_titles:
+  - SmartAirLA
+  - 'SmartAirLA '
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/smartairla/'

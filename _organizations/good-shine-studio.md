@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Connect for LA Chinatown - WAPOW Community Media Project
 organization_id: '2018047'
 title: Good Shine Studio
 org_type: Social enterprise or Bcorps
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=03UxLqNGuvE'
 project_ids:
   - '8102047'
+project_titles:
+  - Connect for LA Chinatown - WAPOW Community Media Project
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/good-shine-studio/'

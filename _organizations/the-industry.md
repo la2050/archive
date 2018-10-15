@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 0SGeH9Mnt2k
-project_titles:
-  - 'HOPSCOTCH: A MOBILE OPERA AND POP-UP SPACE'
 organization_id: '2014091'
 title: The Industry
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102215'
+project_titles:
+  - 'HOPSCOTCH: A MOBILE OPERA AND POP-UP SPACE'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'

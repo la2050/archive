@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: LINCOLN_STATUE.jpg
-project_titles:
-  - 'LINCOLN HEIGHTS HEALTH INITIATIVE '
 maker_image_id: '22088'
 organization_id: '2014162'
 title: LINCOLN HEIGHTS HEALTH INITIATIVE
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102101'
+project_titles:
+  - 'LINCOLN HEIGHTS HEALTH INITIATIVE '
 aggregated:
   challenge_url: []
   year_submitted:

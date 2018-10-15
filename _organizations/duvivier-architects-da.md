@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: fAQOxqwuIHk
-project_titles:
-  - Los Angeles Beaches Forever
 organization_id: '2014135'
 title: Duvivier Architects (DA)
 org_type: Forprofit
@@ -22,6 +20,8 @@ project_image: 'https://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102196'
+project_titles:
+  - Los Angeles Beaches Forever
 aggregated:
   challenge_url: []
   year_submitted:

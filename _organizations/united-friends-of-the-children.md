@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - College IS for Foster Youth!
-  - >-
-    College Readiness Program - Helping Foster Youth Prepare to Succeed in
-    College and in Life
 organization_id: '2016244'
 title: United Friends of the Children
 org_type: Nonprofit
@@ -29,6 +24,11 @@ project_ids:
   - '6102270'
   - '5102332'
   - '4102244'
+project_titles:
+  - College IS for Foster Youth!
+  - >-
+    College Readiness Program - Helping Foster Youth Prepare to Succeed in
+    College and in Life
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'

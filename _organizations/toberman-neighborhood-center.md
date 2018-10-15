@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 7nJBFWm-mb0
-project_titles:
-  - Toyota Family Learning program
 organization_id: '2014212'
 title: Toberman Neighborhood Center
 org_type: Nonprofit
@@ -19,6 +17,8 @@ project_image: 'https://img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102236'
+project_titles:
+  - Toyota Family Learning program
 aggregated:
   challenge_url: []
   year_submitted:

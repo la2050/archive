@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Retail Workers “R” LA
 organization_id: '2018072'
 title: Los Angeles Alliance for a New Economy-Fair Workweek
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://youtu.be/7GHqVKrYCjM'
 project_ids:
   - '8102072'
+project_titles:
+  - Retail Workers “R” LA
 aggregated:
   challenge_url:
     - >-

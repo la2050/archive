@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: dCvzeDvQtLY
-project_titles:
-  - 'The Human Element Project: Play in LA'
 organization_id: '2014090'
 title: The Human Element Project
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102214'
+project_titles:
+  - 'The Human Element Project: Play in LA'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/Humanelement.html'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Sankofa City
 organization_id: '2016011'
 title: Annenberg Innovation Lab
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/Miif0LRI6Ls?rel=0&amp;showinfo=0'
 project_ids:
   - '6102008'
+project_titles:
+  - Sankofa City
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/sankofa-city'

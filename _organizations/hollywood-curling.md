@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: 3ceZFpvVVU0
-project_titles:
-  - >-
-    Hollywood Curling- Building the San Fernando Valley Curling Center in Los
-    Angeles
 organization_id: '2015086'
 title: Hollywood Curling
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: 'https://img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102134'
+project_titles:
+  - >-
+    Hollywood Curling- Building the San Fernando Valley Curling Center in Los
+    Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'

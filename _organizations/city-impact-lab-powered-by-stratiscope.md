@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - '“The BlockMobile”: Creating Connections Block by Block'
 organization_id: '2018024'
 title: 'City Impact Lab, powered by Stratiscope'
 org_type: Forprofit
@@ -32,6 +30,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102024'
+project_titles:
+  - '“The BlockMobile”: Creating Connections Block by Block'
 aggregated:
   challenge_url:
     - >-

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 20ErlmkuIfQ
-project_titles:
-  - ACCESS TO EDUCATION FOR ALL!!!!
 organization_id: '2015026'
 title: Casa Libre
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102042'
+project_titles:
+  - ACCESS TO EDUCATION FOR ALL!!!!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CasaLibre.html'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
 organization_id: '2016062'
 title: D.A.D Project
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102058'
+project_titles:
+  - 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
 aggregated:
   challenge_url:
     - >-

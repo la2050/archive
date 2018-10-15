@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: wmExJ7xdKYc
-project_titles:
-  - 'C3: Center for Connecting the Community '
 organization_id: '2015047'
 title: Culture Shock Los Angeles
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102079'
+project_titles:
+  - 'C3: Center for Connecting the Community '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/C3.html'

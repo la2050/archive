@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: ez1sypeq2hI
-project_titles:
-  - SLAM GUN VIOLENCE
-  - The TALK Project
 organization_id: '2014226'
 title: Women Against Gun Violence
 org_type: Nonprofit
@@ -21,6 +18,9 @@ project_video: ''
 project_ids:
   - '4102104'
   - '3102274'
+project_titles:
+  - SLAM GUN VIOLENCE
+  - The TALK Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SLAM.html'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Welcome, Neighbor: Making LA the most welcoming place in America'
 organization_id: '2018083'
 title: Miry’s List
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/mi
 project_video: 'https://youtu.be/6re3u9HlO-A'
 project_ids:
   - '8102083'
+project_titles:
+  - 'Welcome, Neighbor: Making LA the most welcoming place in America'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/mirys-list/'

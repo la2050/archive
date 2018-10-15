@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Community-Based Comprehensive Sex Education
-  - Helping Los Angeles Youth Make Healthy Decisions And Access Care
 organization_id: '2016172'
 title: Planned Parenthood Los Angeles (PPLA)
 org_type: Nonprofit
@@ -26,6 +23,9 @@ project_video: 'https://www.youtube.com/embed/wq7xVbwiQMA?rel=0&amp;showinfo=0'
 project_ids:
   - '6102184'
   - '5102237'
+project_titles:
+  - Community-Based Comprehensive Sex Education
+  - Helping Los Angeles Youth Make Healthy Decisions And Access Care
 aggregated:
   challenge_url:
     - >-

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: MY3TeVh867s
-project_titles:
-  - Play with Music
 organization_id: '2015155'
 title: >-
   Play with Music, The New History (parent organization of Play with Music,
@@ -27,6 +25,8 @@ project_image: 'https://img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102238'
+project_titles:
+  - Play with Music
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - Carl Boehm
-  - Karin McKemey
-  - 'LOLA: Demystifying local politics for young, busy residents in LA'
 organization_id: '2018069'
 title: LOLA
 org_type: Forprofit
@@ -23,6 +19,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102069'
+project_titles:
+  - Carl Boehm
+  - Karin McKemey
+  - 'LOLA: Demystifying local politics for young, busy residents in LA'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: CTFt7gFp6BY
-project_titles:
-  - 'Chicken & Egg: A Grocery Co-op along the LA RIver'
 organization_id: '2015168'
 title: River Wild LLC
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102254'
+project_titles:
+  - 'Chicken & Egg: A Grocery Co-op along the LA RIver'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'

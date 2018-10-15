@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: QaoTDnw-Xtw
-project_titles:
-  - >-
-    Sabio & Crossroads working together to incubate diverse tech talent in Los
-    Angeles.
 organization_id: '2014078'
 title: 'Sabio Enterprises, Inc.'
 org_type: Forprofit
@@ -27,6 +23,10 @@ project_image: 'https://img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102184'
+project_titles:
+  - >-
+    Sabio & Crossroads working together to incubate diverse tech talent in Los
+    Angeles.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Transformation.html'

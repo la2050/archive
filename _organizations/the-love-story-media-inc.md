@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - The Love Story Interactive Art Journal + Live Open Mic Show
 organization_id: '2016225'
 title: 'The Love Story Media, Inc.'
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://player.vimeo.com/video/168583145?rel=0&amp;showinfo=0'
 project_ids:
   - '6102249'
+project_titles:
+  - The Love Story Interactive Art Journal + Live Open Mic Show
 aggregated:
   challenge_url:
     - >-

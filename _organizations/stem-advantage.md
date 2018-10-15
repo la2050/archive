@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
 organization_id: '2016202'
 title: STEM Advantage
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/z2t5cRSBqQA?rel=0&amp;showinfo=0'
 project_ids:
   - '6102218'
+project_titles:
+  - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
 aggregated:
   challenge_url:
     - >-

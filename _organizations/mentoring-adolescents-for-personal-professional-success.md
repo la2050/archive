@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Educating & empowering high-school dropouts incarcerated youth+otherwise
-    disengaged 16-24yr humans.
 organization_id: '2018082'
 title: Mentoring Adolescents for Personal & Professional Success
 org_type: Forprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://youtu.be/hVF2r_6Q-Vw'
 project_ids:
   - '8102082'
+project_titles:
+  - >-
+    Educating & empowering high-school dropouts incarcerated youth+otherwise
+    disengaged 16-24yr humans.
 aggregated:
   challenge_url:
     - >-

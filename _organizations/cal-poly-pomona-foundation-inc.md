@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 0fH09h-Rx9o
-project_titles:
-  - Why is the grass always greener over the leach fields?
 organization_id: '2013025'
 title: 'Cal Poly Pomona Foundation, Inc.'
 org_type: Nonprofit
@@ -27,6 +25,8 @@ project_image: 'https://img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102047'
+project_titles:
+  - Why is the grass always greener over the leach fields?
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/GrassGreener.html'

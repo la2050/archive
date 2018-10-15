@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - '#HashtagLunchbag Feeds LA'
 organization_id: '2018002'
 title: >-
   #HashtagLunchbag - powered by Living Through Giving Foundation, 501(c)3
@@ -28,6 +26,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=3WjUJh2z0WE'
 project_ids:
   - '8102002'
+project_titles:
+  - '#HashtagLunchbag Feeds LA'
 aggregated:
   challenge_url:
     - >-

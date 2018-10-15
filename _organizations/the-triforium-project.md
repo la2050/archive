@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Restoring and reimagining the World's First 'Polyphonoptic' sculpture in
-    downtown Los Angeles
 organization_id: '2016233'
 title: The Triforium Project
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102258'
+project_titles:
+  - >-
+    Restoring and reimagining the World's First 'Polyphonoptic' sculpture in
+    downtown Los Angeles
 aggregated:
   challenge_url:
     - >-

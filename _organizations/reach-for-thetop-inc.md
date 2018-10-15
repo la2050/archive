@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: POSTCARD-1.jpg
-project_titles:
-  - Casa Amador
 maker_image_id: '16395'
 organization_id: '2013160'
 title: 'Reach For theTop, Inc.'
@@ -26,6 +24,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102226'
+project_titles:
+  - Casa Amador
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CasaAmador.html'

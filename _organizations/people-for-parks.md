@@ -1,10 +1,4 @@
 ---
-project_titles:
-  - >-
-    COMPAS for Park Equity: co-powering & mobilizing communities to expand
-    Community School Parks in LA
-  - People for Parks' Community School Parks Go Kid Healthy!
-  - People for Parks’ Community School Parks
 organization_id: '2018095'
 title: People for Parks
 org_type: Nonprofit
@@ -32,6 +26,12 @@ project_ids:
   - '8102095'
   - '6102181'
   - '5102232'
+project_titles:
+  - >-
+    COMPAS for Park Equity: co-powering & mobilizing communities to expand
+    Community School Parks in LA
+  - People for Parks' Community School Parks Go Kid Healthy!
+  - People for Parks’ Community School Parks
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/people-for-parks/'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: la2050.png
-project_titles:
-  - Ignite Teaching
 maker_image_id: '20940'
 organization_id: '2014153'
 title: Ignite Teaching
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102096'
+project_titles:
+  - Ignite Teaching
 aggregated:
   challenge_url: []
   year_submitted:

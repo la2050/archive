@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: PA-angel.jpg
-project_titles:
-  - 'Meet angel: Your friendly app and ally to all things "LA"'
-  - 'Meet angel: Your friendly app and ally to all things LA'
 maker_image_id: '22289'
 organization_id: '2014066'
 title: Peace Allies
@@ -28,6 +25,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102163'
+project_titles:
+  - 'Meet angel: Your friendly app and ally to all things "LA"'
+  - 'Meet angel: Your friendly app and ally to all things LA'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'

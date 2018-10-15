@@ -1,10 +1,5 @@
 ---
 youtube_video_identifier: EDmhXWDVs3M
-project_titles:
-  - Dropping Knowledge Project - Building a Water-Literate L.A.
-  - Dropping Knowledge Project – Building a Water-Literate L.A.
-  - 'Heal the Bay''s Healthy Neighborhoods, Healthy Environment Initiative'
-  - Heal the Bays Healthy Neighborhoods Healthy Environment Initiative
 organization_id: '2015083'
 title: Heal the Bay
 org_type: Nonprofit
@@ -28,6 +23,11 @@ project_video: ''
 project_ids:
   - '5102129'
   - '3102146'
+project_titles:
+  - Dropping Knowledge Project - Building a Water-Literate L.A.
+  - Dropping Knowledge Project – Building a Water-Literate L.A.
+  - 'Heal the Bay''s Healthy Neighborhoods, Healthy Environment Initiative'
+  - Heal the Bays Healthy Neighborhoods Healthy Environment Initiative
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'

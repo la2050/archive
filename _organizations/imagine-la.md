@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Intersections: The power of our common stories.'
-  - Volunteer and be a Part of the Solution to Family Homelessness
 organization_id: '2018054'
 title: Imagine LA
 org_type: Nonprofit
@@ -27,6 +24,9 @@ project_video: 'https://www.youtube.com/watch?v=RBbjWQRI1Lc'
 project_ids:
   - '8102054'
   - '6102102'
+project_titles:
+  - 'Intersections: The power of our common stories.'
+  - Volunteer and be a Part of the Solution to Family Homelessness
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/imagine-la/'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: index__element43.jpg
-project_titles:
-  - Imagination Workshop
 maker_image_id: '20927'
 organization_id: '2014155'
 title: Imagination Workshop
@@ -22,6 +20,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102085'
+project_titles:
+  - Imagination Workshop
 aggregated:
   challenge_url: []
   year_submitted:

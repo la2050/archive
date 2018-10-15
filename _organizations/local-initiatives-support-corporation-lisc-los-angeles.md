@@ -1,12 +1,5 @@
 ---
 maker_image_file_name: picture_1.jpg
-project_titles:
-  - >-
-    Creating culturally vibrant commercial corridors in LA's diverse
-    neighborhoods
-  - >-
-    Creating culturally vibrant commercial corridors in LAs diverse
-    neighborhoods
 maker_image_id: '23259'
 organization_id: '2015116'
 title: Local Initiatives Support Corporation (LISC) Los Angeles
@@ -32,6 +25,13 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102179'
+project_titles:
+  - >-
+    Creating culturally vibrant commercial corridors in LA's diverse
+    neighborhoods
+  - >-
+    Creating culturally vibrant commercial corridors in LAs diverse
+    neighborhoods
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/CreativepLAce.html'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: A9yf6DpgLSM
-project_titles:
-  - My Name My Story
 organization_id: '2014181'
 title: My Name My Story
 org_type: Forprofit
@@ -19,6 +17,8 @@ project_image: 'https://img.youtube.com/vi/A9yf6DpgLSM/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102153'
+project_titles:
+  - My Name My Story
 aggregated:
   challenge_url: []
   year_submitted:

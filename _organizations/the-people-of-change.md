@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    HIP Through Science: bringing quality and hip STEM Education to our urban
-    communities.
 organization_id: '2018122'
 title: The People of Change
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102122'
+project_titles:
+  - >-
+    HIP Through Science: bringing quality and hip STEM Education to our urban
+    communities.
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/the-people-of-change/'

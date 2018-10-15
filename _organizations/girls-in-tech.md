@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Coding Bootcamps and Conferences for Women in Tech
 organization_id: '2016089'
 title: Girls in Tech
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/BZXFTqAIG8U?rel=0&amp;showinfo=0'
 project_ids:
   - '6102081'
+project_titles:
+  - Coding Bootcamps and Conferences for Women in Tech
 aggregated:
   challenge_url:
     - >-

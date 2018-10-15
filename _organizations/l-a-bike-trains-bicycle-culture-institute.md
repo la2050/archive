@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: l2oE7AX8gtw
-project_titles:
-  - L.A. Bike Trains
 organization_id: '2014046'
 title: 'L.A. Bike Trains, Bicycle Culture Institute'
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102107'
+project_titles:
+  - L.A. Bike Trains
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'

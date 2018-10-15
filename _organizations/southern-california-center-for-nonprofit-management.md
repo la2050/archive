@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    SPARK!: CONNECT-CONVENE-COLLABORATE will promote LA’s culture of
-    interconnectedness
 organization_id: '2016198'
 title: Southern California Center for Nonprofit Management
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'http://bit.ly/2016-KP-CNM-Video?rel=0&amp;showinfo=0'
 project_ids:
   - '6102213'
+project_titles:
+  - >-
+    SPARK!: CONNECT-CONVENE-COLLABORATE will promote LA’s culture of
+    interconnectedness
 aggregated:
   challenge_url:
     - >-

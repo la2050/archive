@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: YCMb5z0EVGw
-project_titles:
-  - One Day in Los Angeles
 organization_id: '2013147'
 title: One Day on Earth
 org_type: Nonprofit
@@ -73,6 +71,8 @@ project_image: 'https://img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102209'
+project_titles:
+  - One Day in Los Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'

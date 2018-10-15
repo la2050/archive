@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Little by Little School Readiness Program
 organization_id: '2016180'
 title: Public Health Foundation Enterprises
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: 'http://www.lblreaders.org/videos/LittleByLittle.webm?rel=0&amp;showinfo=0'
 project_ids:
   - '6102193'
+project_titles:
+  - Little by Little School Readiness Program
 aggregated:
   challenge_url:
     - >-

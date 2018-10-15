@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Next Generation Science Standards: Empowering Teachers to Empower Students
-    for the Future of STEM
 organization_id: '2018016'
 title: Center for Innovation in STEM Education (CISE)
 org_type: Government
@@ -27,6 +23,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102016'
+project_titles:
+  - >-
+    Next Generation Science Standards: Empowering Teachers to Empower Students
+    for the Future of STEM
 aggregated:
   challenge_url:
     - >-

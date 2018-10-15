@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: gHdNsESWQgM
-project_titles:
-  - GLOBALGIRL MEDIA HIVE NETWORK
 organization_id: '2013081'
 title: GlobalGirl Media
 org_type: Nonprofit
@@ -90,6 +88,8 @@ project_image: 'https://img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102139'
+project_titles:
+  - GLOBALGIRL MEDIA HIVE NETWORK
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'

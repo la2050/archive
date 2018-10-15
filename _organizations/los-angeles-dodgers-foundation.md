@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
 organization_id: '2018074'
 title: Los Angeles Dodgers Foundation
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.mlb.com/dodgers/video/ladf-overview/c-1866876583?tid=80228278'
 project_ids:
   - '8102074'
+project_titles:
+  - 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'

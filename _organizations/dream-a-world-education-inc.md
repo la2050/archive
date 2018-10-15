@@ -1,12 +1,5 @@
 ---
 maker_image_file_name: Hearts9.jpg
-project_titles:
-  - >-
-    Bringing the arts back to public education one school at a time, one child
-    at a time
-  - >-
-    Bringing the arts back to public education one school at a time one child at
-    a time
 maker_image_id: '22600'
 organization_id: '2014133'
 title: 'Dream A World Education, Inc.'
@@ -29,6 +22,13 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102057'
+project_titles:
+  - >-
+    Bringing the arts back to public education one school at a time, one child
+    at a time
+  - >-
+    Bringing the arts back to public education one school at a time one child at
+    a time
 aggregated:
   challenge_url: []
   year_submitted:

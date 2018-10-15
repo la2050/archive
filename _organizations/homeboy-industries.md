@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - 'Global Homeboy Network: Connecting Through Kinship'
-  - 'Homeboy Industries: Hope Has An Address'
-  - 'Homeboy and LA Voice: Organizing formerly incarcerated Angelenos to vote'
 organization_id: '2018053'
 title: Homeboy Industries
 org_type: Nonprofit
@@ -30,6 +26,10 @@ project_ids:
   - '8102053'
   - '6102095'
   - '3102149'
+project_titles:
+  - 'Global Homeboy Network: Connecting Through Kinship'
+  - 'Homeboy Industries: Hope Has An Address'
+  - 'Homeboy and LA Voice: Organizing formerly incarcerated Angelenos to vote'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/homeboy-industries/'

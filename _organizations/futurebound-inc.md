@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: FutureBoundKids_w_Logo.jpg
-project_titles:
-  - Transforming College Access for Los Angeles’ Youth Through Gaming
 maker_image_id: '21609'
 organization_id: '2014143'
 title: 'FutureBound, Inc.'
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102080'
+project_titles:
+  - Transforming College Access for Los Angeles’ Youth Through Gaming
 aggregated:
   challenge_url: []
   year_submitted:

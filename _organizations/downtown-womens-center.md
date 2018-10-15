@@ -1,14 +1,5 @@
 ---
 youtube_video_identifier: 8GZELMERrSk
-project_titles:
-  - 'MADE by DWC: Education and Job Readiness for Homeless Women'
-  - 'She''s Got Skills: From Homelessness to Jobs '
-  - >-
-    We Are All LA: a socially conscious business network to end women's
-    homelessness through jobs
-  - >-
-    We Are All LA: a socially conscious business network to end womens
-    homelessness through jobs
 organization_id: '2015051'
 title: Downtown Women's Center
 org_type: Nonprofit
@@ -79,6 +70,15 @@ project_ids:
   - '5102084'
   - '4102056'
   - '3102109'
+project_titles:
+  - 'MADE by DWC: Education and Job Readiness for Homeless Women'
+  - 'She''s Got Skills: From Homelessness to Jobs '
+  - >-
+    We Are All LA: a socially conscious business network to end women's
+    homelessness through jobs
+  - >-
+    We Are All LA: a socially conscious business network to end womens
+    homelessness through jobs
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'

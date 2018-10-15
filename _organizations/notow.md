@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Mobile application to make parking easier
 organization_id: '2018091'
 title: NoTow
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow
 project_video: 'https://youtu.be/Vz9f3nvm5-Y'
 project_ids:
   - '8102091'
+project_titles:
+  - Mobile application to make parking easier
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/notow/'

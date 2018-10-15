@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
-    Creativity
 organization_id: '2016119'
 title: L.A. Theatre Works
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/N5d8kpPSzG4?rel=0&amp;showinfo=0'
 project_ids:
   - '6102117'
+project_titles:
+  - >-
+    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
+    Creativity
 aggregated:
   challenge_url:
     - >-

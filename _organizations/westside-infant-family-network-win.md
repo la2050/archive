@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: 4svMiNJ-HL0
-project_titles:
-  - >-
-    Happy kids, Healthy Families for a Better LA: bringing mental health into
-    families homes.
 organization_id: '2014225'
 title: Westside Infant-Family Network (WIN)
 org_type: Nonprofit
@@ -21,6 +17,10 @@ project_image: 'https://img.youtube.com/vi/4svMiNJ-HL0/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102203'
+project_titles:
+  - >-
+    Happy kids, Healthy Families for a Better LA: bringing mental health into
+    families homes.
 aggregated:
   challenge_url: []
   year_submitted:

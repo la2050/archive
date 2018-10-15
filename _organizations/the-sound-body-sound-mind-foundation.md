@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: IMG_0438.JPG
-project_titles:
-  - SBSM Healthy Tomorrow Initiative
 maker_image_id: '23214'
 organization_id: '2015206'
 title: The Sound Body Sound Mind Foundation
@@ -28,6 +26,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102311'
+project_titles:
+  - SBSM Healthy Tomorrow Initiative
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'

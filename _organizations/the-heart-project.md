@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: DSCF5143_eventbrite.jpg
-project_titles:
-  - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
 maker_image_id: '16966'
 organization_id: '2013188'
 title: The HeArt Project
@@ -78,6 +76,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102249'
+project_titles:
+  - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/theheartproject.html'

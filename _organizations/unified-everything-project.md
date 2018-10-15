@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Website of all LA's Arts & Science events / schedules
 organization_id: '2016241'
 title: Unified Everything Project
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/UJ_qFwDLFqQ?rel=0&amp;showinfo=0'
 project_ids:
   - '6102267'
+project_titles:
+  - Website of all LA's Arts & Science events / schedules
 aggregated:
   challenge_url:
     - >-

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: mcmenyellowandwhite_final.jpg
-project_titles:
-  - Sister Blocks
 maker_image_id: '16057'
 organization_id: '2013133'
 title: Mighty Companions
@@ -28,6 +26,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102196'
+project_titles:
+  - Sister Blocks
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/sisterblocks.html'

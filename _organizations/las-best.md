@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - Connecting for Success
-  - >-
-    LA’s BEST & AARP Foundation Experience Corps: Brighter Futures via Reading
-    Proficiency by 3rd Grade
-  - 'The KidBot Project: Expanding robotics programs to every community in LA!'
-  - 'The KidBot Project: Expanding robotics programs to every community in LA! '
 organization_id: '2018065'
 title: LA's BEST
 org_type: Nonprofit
@@ -31,6 +24,13 @@ project_ids:
   - '8102065'
   - '6102128'
   - '4102113'
+project_titles:
+  - Connecting for Success
+  - >-
+    LA’s BEST & AARP Foundation Experience Corps: Brighter Futures via Reading
+    Proficiency by 3rd Grade
+  - 'The KidBot Project: Expanding robotics programs to every community in LA!'
+  - 'The KidBot Project: Expanding robotics programs to every community in LA! '
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/las-best/'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: dsc00212.jpg
-project_titles:
-  - Technology for the Classroom
 maker_image_id: '23262'
 organization_id: '2015166'
 title: Redeemer Baptist Elementary School
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102250'
+project_titles:
+  - Technology for the Classroom
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'

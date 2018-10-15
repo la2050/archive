@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Skills development, creative expression and team building through classic
-    car restoration.
 organization_id: '2016141'
 title: Lost Angels Children's Project
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/RLWhGmroxoM?rel=0&amp;showinfo=0'
 project_ids:
   - '6102148'
+project_titles:
+  - >-
+    Skills development, creative expression and team building through classic
+    car restoration.
 aggregated:
   challenge_url:
     - >-

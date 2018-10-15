@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: Image_for_Good.jpg
-project_titles:
-  - 'Mobilize 10,000+ LA Residents Into Volunteerism Using DoGooder.LA'
-  - Mobilize 10000+ LA Residents Into Volunteerism Using DoGooder.LA
 maker_image_id: '22152'
 organization_id: '2014071'
 title: Positive Minded People
@@ -26,6 +23,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102171'
+project_titles:
+  - 'Mobilize 10,000+ LA Residents Into Volunteerism Using DoGooder.LA'
+  - Mobilize 10000+ LA Residents Into Volunteerism Using DoGooder.LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'

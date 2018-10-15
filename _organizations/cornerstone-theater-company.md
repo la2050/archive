@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - >-
-    National Advocacy and Training - Spreading the work of LA's Day Laborer
-    Theater Without Borders
-  - Shared Space for Community Engaged Creative Practice
 organization_id: '2016059'
 title: Cornerstone Theater Company
 org_type: Nonprofit
@@ -24,6 +19,11 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/I7lk13h9nJE?rel=0&amp;showinfo=0'
 project_ids:
   - '6102055'
+project_titles:
+  - >-
+    National Advocacy and Training - Spreading the work of LA's Day Laborer
+    Theater Without Borders
+  - Shared Space for Community Engaged Creative Practice
 aggregated:
   challenge_url:
     - >-

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: poster1.jpg
-project_titles:
-  - LA2050 Youth 4C Leaders
 maker_image_id: '16740'
 organization_id: '2013105'
 title: Keely Hopkins & Associates
@@ -46,6 +44,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102064'
+project_titles:
+  - LA2050 Youth 4C Leaders
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'

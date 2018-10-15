@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: ZBTmjmoABZE
-project_titles:
-  - Potluck Truck
 organization_id: '2013156'
 title: Project Food LA
 org_type: Nonprofit
@@ -76,6 +74,8 @@ project_image: 'https://img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102221'
+project_titles:
+  - Potluck Truck
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/potlucktruck.html'

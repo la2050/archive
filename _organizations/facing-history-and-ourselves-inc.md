@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: 2EbK6sblpo0
-project_titles:
-  - Facing History and Ourselves Partnership School Network
-  - Facing History's Partnership Schools Network
 organization_id: '2015061'
 title: 'Facing History and Ourselves, Inc.'
 org_type: Nonprofit
@@ -25,6 +22,9 @@ project_image: 'https://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102097'
+project_titles:
+  - Facing History and Ourselves Partnership School Network
+  - Facing History's Partnership Schools Network
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/facinghistoryla.html'

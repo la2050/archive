@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'LA: Easy Access'
 organization_id: '2016096'
 title: Habidatum
 org_type: Forprofit
@@ -21,6 +19,8 @@ project_image: >-
 project_video: 'https://player.vimeo.com/video/183623434?rel=0&amp;showinfo=0'
 project_ids:
   - '6102168'
+project_titles:
+  - 'LA: Easy Access'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-easy-access'

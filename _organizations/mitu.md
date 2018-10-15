@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    mitú Accelerate LA:  Diversifying digital content creation for regional
-    social impact
 organization_id: '2016149'
 title: mitu
 org_type: Forprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/I-2Ao80yxyQ?rel=0&amp;showinfo=0'
 project_ids:
   - '6102205'
+project_titles:
+  - >-
+    mitú Accelerate LA:  Diversifying digital content creation for regional
+    social impact
 aggregated:
   challenge_url:
     - >-

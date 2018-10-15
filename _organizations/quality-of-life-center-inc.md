@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: 2010-2011_Graduation_Picture.171103650_std.jpg
-project_titles:
-  - Improve The Quality of Life Through Education and Community Support
 maker_image_id: '16300'
 organization_id: '2013159'
 title: 'Quality of Life Center, Inc.'
@@ -33,6 +31,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102225'
+project_titles:
+  - Improve The Quality of Life Through Education and Community Support
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'

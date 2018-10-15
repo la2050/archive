@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: ironboxeducationLA2050.jpg
-project_titles:
-  - Giving Students Power Over Numbers and Power Over Learning
 maker_image_id: '23622'
 organization_id: '2015096'
 title: 'Ironbox Education, Inc.'
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102147'
+project_titles:
+  - Giving Students Power Over Numbers and Power Over Learning
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'

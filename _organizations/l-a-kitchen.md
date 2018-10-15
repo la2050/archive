@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Seed to Sky: building an economic bridge from LA’s community gardens to LAX'
-  - 'Seed to Sky:  building an economic bridge from LA''s community gardens to LAX'
 organization_id: '2018059'
 title: L.A. Kitchen
 org_type: Nonprofit
@@ -25,6 +22,9 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/l-a-k
 project_video: 'https://vimeo.com/262575721'
 project_ids:
   - '8102059'
+project_titles:
+  - 'Seed to Sky: building an economic bridge from LA’s community gardens to LAX'
+  - 'Seed to Sky:  building an economic bridge from LA''s community gardens to LAX'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/l-a-kitchen/'

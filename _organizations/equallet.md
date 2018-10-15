@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Achieving Gender Equality With Our Wallets
 organization_id: '2016073'
 title: Equallet
 org_type: Forprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/8nHQbGQ-t-E?rel=0&amp;showinfo=0'
 project_ids:
   - '6102141'
+project_titles:
+  - Achieving Gender Equality With Our Wallets
 aggregated:
   challenge_url:
     - >-

@@ -1,9 +1,5 @@
 ---
 maker_image_file_name: Photo_Collage_v6.jpg
-project_titles:
-  - >-
-    Project: SCHOLARS - empowering college and college bound students of all
-    ages to succeed
 maker_image_id: '22531'
 organization_id: '2014168'
 title: Los Angeles County Community Development Foundation
@@ -28,6 +24,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102128'
+project_titles:
+  - >-
+    Project: SCHOLARS - empowering college and college bound students of all
+    ages to succeed
 aggregated:
   challenge_url: []
   year_submitted:

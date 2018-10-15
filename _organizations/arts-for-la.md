@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Andrew_Colunga_whole_image_sm.jpg
-project_titles:
-  - 'Creative Capital: A campaign for a healthy & prosperous Los Angeles'
 maker_image_id: '16399'
 organization_id: '2013016'
 title: Arts for LA
@@ -52,6 +50,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102028'
+project_titles:
+  - 'Creative Capital: A campaign for a healthy & prosperous Los Angeles'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CreativeCapitalLA.html'

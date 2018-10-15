@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Mobile_Market_Mock-Up.png
-project_titles:
-  - Local Roots Mobile Farmers Markets
 maker_image_id: '23707'
 organization_id: '2015117'
 title: Local Roots
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102180'
+project_titles:
+  - Local Roots Mobile Farmers Markets
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'

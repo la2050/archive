@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
 organization_id: '2016001'
 title: '#Library'
 org_type: Forprofit
@@ -21,6 +19,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
 project_ids:
   - '6102071'
+project_titles:
+  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
 aggregated:
   challenge_url:
     - >-

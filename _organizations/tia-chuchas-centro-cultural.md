@@ -1,11 +1,5 @@
 ---
 youtube_video_identifier: gX3uzlinkXc
-project_titles:
-  - 'Poetry is Life, Poetry is Story'
-  - Poetry is Life Poetry is Story
-  - >-
-    Tia Chuchas Centro Culturals Arts Transforms Community  A Multimedia
-    Wellness Project
 organization_id: '2015212'
 title: Tia Chucha's Centro Cultural
 org_type: Nonprofit
@@ -30,6 +24,12 @@ project_video: ''
 project_ids:
   - '5102318'
   - '3102258'
+project_titles:
+  - 'Poetry is Life, Poetry is Story'
+  - Poetry is Life Poetry is Story
+  - >-
+    Tia Chuchas Centro Culturals Arts Transforms Community  A Multimedia
+    Wellness Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/poetry.html'

@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Break the Cycle
-  - 'The Zone: Mobile Spaces to Talk about Healthy Relationships'
 organization_id: '2016025'
 title: Break the Cycle
 org_type: Nonprofit
@@ -26,6 +23,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102021'
+project_titles:
+  - Break the Cycle
+  - 'The Zone: Mobile Spaces to Talk about Healthy Relationships'
 aggregated:
   challenge_url:
     - >-

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - The Precise Barber College
 organization_id: '2016061'
 title: Covenant House California
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102057'
+project_titles:
+  - The Precise Barber College
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/the-precise-barber-college'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Stella's Socks - Shelter for Your Feet
 organization_id: '2018112'
 title: Stella's Socks
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=ClzWZnnOiJA'
 project_ids:
   - '8102112'
+project_titles:
+  - Stella's Socks - Shelter for Your Feet
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/stellas-socks/'

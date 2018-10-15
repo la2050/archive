@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: Apptalk.JPG
-project_titles:
-  - 'LOLA, the Lifelong Organizational Learning App'
-  - LOLA the Lifelong Organizational Learning App
 maker_image_id: '16476'
 organization_id: '2013095'
 title: Individual Systems
@@ -55,6 +52,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102062'
+project_titles:
+  - 'LOLA, the Lifelong Organizational Learning App'
+  - LOLA the Lifelong Organizational Learning App
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/KCARUSO.html'

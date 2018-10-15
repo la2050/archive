@@ -1,10 +1,5 @@
 ---
 youtube_video_identifier: VtA2ubRDvAs
-project_titles:
-  - LA League of Imagination
-  - Play With Music Platform (PWMP)
-  - The Caine's Arcade Challenge
-  - The Caines Arcade Challenge
 organization_id: '2015089'
 title: Imagination Foundation
 org_type: Nonprofit
@@ -30,6 +25,11 @@ project_ids:
   - '5102138'
   - '4102226'
   - '3102154'
+project_titles:
+  - LA League of Imagination
+  - Play With Music Platform (PWMP)
+  - The Caine's Arcade Challenge
+  - The Caines Arcade Challenge
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/imagination.html'

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Cleantech 2 Edtech: LA schools save energy as students and startups
-    implement cleantech innovations
 organization_id: '2016030'
 title: California Institute of Technology
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102026'
+project_titles:
+  - >-
+    Cleantech 2 Edtech: LA schools save energy as students and startups
+    implement cleantech innovations
 aggregated:
   challenge_url:
     - >-

@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Connecting LA Tech Companies with Area STEM Organizations
-  - Tech LA Cares (TLC)
 organization_id: '2016210'
 title: Tech LA Cares
 org_type: Forprofit
@@ -28,6 +25,9 @@ project_video: ''
 project_ids:
   - '6102242'
   - '5102292'
+project_titles:
+  - Connecting LA Tech Companies with Area STEM Organizations
+  - Tech LA Cares (TLC)
 aggregated:
   challenge_url:
     - >-

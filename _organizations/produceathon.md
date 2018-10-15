@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    #StoryTeching: Delivering civic innovation via storytelling & technology
-    based incentive challenges
-  - >-
-    ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
-    Change in 72-Hours
 organization_id: '2018097'
 title: ProduceAthon
 org_type: Nonprofit
@@ -31,6 +24,13 @@ project_video: ''
 project_ids:
   - '8102097'
   - '6102190'
+project_titles:
+  - >-
+    #StoryTeching: Delivering civic innovation via storytelling & technology
+    based incentive challenges
+  - >-
+    ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
+    Change in 72-Hours
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/produceathon/'

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    #MeetSoCal: A KPCC In Person event series of in-community experiences to
-    better connect Angelenos
 organization_id: '2016199'
 title: Southern California Public Radio (KPCC)
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/lRjoDtwYF8s?rel=0&amp;showinfo=0'
 project_ids:
   - '6102214'
+project_titles:
+  - >-
+    #MeetSoCal: A KPCC In Person event series of in-community experiences to
+    better connect Angelenos
 aggregated:
   challenge_url:
     - >-

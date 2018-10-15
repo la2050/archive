@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    Crayon Collection: prevent waste in landfills; increase arts education in
-    low income schools.
-  - >-
-    Crayon Collection: prevent waste in landfills; increase arts education in
-    low income schools. 
 organization_id: '2018032'
 title: Crayon Collection
 org_type: Nonprofit
@@ -30,6 +23,13 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=oGbTN4Ysvfw'
 project_ids:
   - '8102032'
+project_titles:
+  - >-
+    Crayon Collection: prevent waste in landfills; increase arts education in
+    low income schools.
+  - >-
+    Crayon Collection: prevent waste in landfills; increase arts education in
+    low income schools. 
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/crayon-collection/'

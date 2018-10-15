@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Co/Lab (Co/Llaboration): Resident-Driven, Co-Created, Social Change'
 organization_id: '2016197'
 title: South Bay Center for Counseling (SBCC)
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/VqJoQqVJkWg?rel=0&amp;showinfo=0'
 project_ids:
   - '6102212'
+project_titles:
+  - 'Co/Lab (Co/Llaboration): Resident-Driven, Co-Created, Social Change'
 aggregated:
   challenge_url:
     - >-

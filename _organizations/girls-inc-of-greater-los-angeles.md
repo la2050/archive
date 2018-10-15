@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Girls in STEM Club Network
-  - Inspiring girls to become entrepreneurs of the Future
 organization_id: '2016090'
 title: Girls Inc. of Greater Los Angeles
 org_type: Nonprofit
@@ -27,6 +24,9 @@ project_video: 'https://www.youtube.com/embed/gLhJdBqKvVA?rel=0&amp;showinfo=0'
 project_ids:
   - '6102082'
   - '5102111'
+project_titles:
+  - Girls in STEM Club Network
+  - Inspiring girls to become entrepreneurs of the Future
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/girls-in-stem-club-network'

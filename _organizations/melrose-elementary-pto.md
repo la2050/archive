@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
 organization_id: '2016146'
 title: Melrose Elementary PTO
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/8nHD7qZG4S8?rel=0&amp;showinfo=0'
 project_ids:
   - '6102153'
+project_titles:
+  - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
 aggregated:
   challenge_url:
     - >-

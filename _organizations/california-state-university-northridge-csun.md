@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    CSUN’s Recruiting Boot Camp helps students gain the skills they need to get
-    their careers started.
 organization_id: '2016032'
 title: 'California State University, Northridge (CSUN)'
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102028'
+project_titles:
+  - >-
+    CSUN’s Recruiting Boot Camp helps students gain the skills they need to get
+    their careers started.
 aggregated:
   challenge_url:
     - >-

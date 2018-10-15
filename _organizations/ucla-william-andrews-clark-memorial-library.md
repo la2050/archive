@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: CLARK_The_Country_Wife__1.jpg
-project_titles:
-  - 'Arts on the Grounds: L.A. Escena Performance Series'
 maker_image_id: '16669'
 organization_id: '2013203'
 title: UCLA William Andrews Clark Memorial Library
@@ -33,6 +31,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102263'
+project_titles:
+  - 'Arts on the Grounds: L.A. Escena Performance Series'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Clark.html'

@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: TsuTBskJETc
-project_titles:
-  - 'Senior Star Power - Get Up, Get Out & Get a Life! - The Beat Goes On'
-  - Senior Star Power - Get Up Get Out & Get a Life! - The Beat Goes On
 organization_id: '2014080'
 title: Senior Star Power Productions
 org_type: Nonprofit
@@ -26,6 +23,9 @@ project_image: 'https://img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102190'
+project_titles:
+  - 'Senior Star Power - Get Up, Get Out & Get a Life! - The Beat Goes On'
+  - Senior Star Power - Get Up Get Out & Get a Life! - The Beat Goes On
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/seniorstarpower.html'

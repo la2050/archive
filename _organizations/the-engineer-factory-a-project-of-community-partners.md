@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    The Engineer Factory: Producing engineers in South Los Angeles...one student
-    at a time!
 organization_id: '2016217'
 title: 'The Engineer Factory, a project of Community Partners'
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/IgcIdSHSnMc?rel=0&amp;showinfo=0'
 project_ids:
   - '6102241'
+project_titles:
+  - >-
+    The Engineer Factory: Producing engineers in South Los Angeles...one student
+    at a time!
 aggregated:
   challenge_url:
     - >-

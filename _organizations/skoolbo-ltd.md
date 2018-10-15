@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: Jw8-KCURHUA
-project_titles:
-  - LA Kids Rock!
-  - LA Kids Rock!2
-  - LA Kids Rock!asd
 organization_id: '2013165'
 title: Skoolbo LTD
 org_type: For profit
@@ -49,6 +45,10 @@ project_image: 'https://img.youtube.com/vi/Jw8-KCURHUA/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102091'
+project_titles:
+  - LA Kids Rock!
+  - LA Kids Rock!2
+  - LA Kids Rock!asd
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/proveLAKidsRock.html'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Self-Sustaining Gardening Sensors
 organization_id: '2016009'
 title: ANDesign Lab
 org_type: Forprofit
@@ -21,6 +19,8 @@ project_image: >-
 project_video: 'https://player.vimeo.com/video/114298600?rel=0&amp;showinfo=0'
 project_ids:
   - '6102076'
+project_titles:
+  - Self-Sustaining Gardening Sensors
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'

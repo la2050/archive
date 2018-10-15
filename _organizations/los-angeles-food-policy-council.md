@@ -1,10 +1,4 @@
 ---
-project_titles:
-  - 'Food Democracy in LA: Creating Policy Ideas for a Healthy, Fair Food System'
-  - >-
-    The Good Food Purchasing Program: Building a Local and Sustainable Food
-    Economy for LA
-  - Healthy Neighborhood Market Network
 organization_id: '2016135'
 title: Los Angeles Food Policy Council
 org_type: Nonprofit
@@ -32,6 +26,12 @@ project_ids:
   - '6102140'
   - '4102131'
   - '3102185'
+project_titles:
+  - 'Food Democracy in LA: Creating Policy Ideas for a Healthy, Fair Food System'
+  - >-
+    The Good Food Purchasing Program: Building a Local and Sustainable Food
+    Economy for LA
+  - Healthy Neighborhood Market Network
 aggregated:
   challenge_url:
     - >-

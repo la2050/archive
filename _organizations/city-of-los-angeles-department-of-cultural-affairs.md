@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: ZobE5kX4dTc
-project_titles:
-  - LA Creates! Media Arts Learning Initiative
 organization_id: '2013034'
 title: City of Los Angeles Department of Cultural Affairs
 org_type: Nonprofit
@@ -47,6 +45,8 @@ project_image: 'https://img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102067'
+project_titles:
+  - LA Creates! Media Arts Learning Initiative
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LACreates.html'

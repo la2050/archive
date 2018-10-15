@@ -1,17 +1,5 @@
 ---
 maker_image_file_name: Carrie_15-00963.jpg
-project_titles:
-  - 'End Violence, Create Generation Empathy®'
-  - >-
-    spcaLA's ASN - Helping Domestic Violence Survivors and their Pets Live
-    Safer, Healthier Lives. 
-  - >-
-    spcaLA's ASN: Helping domestic violence survivors & their pets live safer,
-    healthier lives
-  - >-
-    spcaLAs ASN: Helping domestic violence survivors & their pets live safer
-    healthier lives
-  - End Violence Create Generation Empathy®
 maker_image_id: '23662'
 organization_id: '2015190'
 title: spcaLA
@@ -37,6 +25,18 @@ project_video: ''
 project_ids:
   - '5102279'
   - '4102197'
+project_titles:
+  - 'End Violence, Create Generation Empathy®'
+  - >-
+    spcaLA's ASN - Helping Domestic Violence Survivors and their Pets Live
+    Safer, Healthier Lives. 
+  - >-
+    spcaLA's ASN: Helping domestic violence survivors & their pets live safer,
+    healthier lives
+  - >-
+    spcaLAs ASN: Helping domestic violence survivors & their pets live safer
+    healthier lives
+  - End Violence Create Generation Empathy®
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ASN.html'

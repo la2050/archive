@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'People''s Planning School: Park Equity Project'
 organization_id: '2016028'
 title: 'Building Healthy Communities: Long Beach'
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/9dUfXn07Zvg?rel=0&amp;showinfo=0'
 project_ids:
   - '6102024'
+project_titles:
+  - 'People''s Planning School: Park Equity Project'
 aggregated:
   challenge_url:
     - >-

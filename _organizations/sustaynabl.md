@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: 5-66_Xqn0Cw
-project_titles:
-  - >-
-    The Art of Skid Row: Bringing awareness to the homelessness state of
-    emergency.
 organization_id: '2015193'
 title: Sustaynabl
 org_type: Forprofit
@@ -25,6 +21,10 @@ project_image: 'https://img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102284'
+project_titles:
+  - >-
+    The Art of Skid Row: Bringing awareness to the homelessness state of
+    emergency.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'

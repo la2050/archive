@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Connection through Council
 organization_id: '2018015'
 title: 'Center for Council, a project of Community Partners'
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=TAAc3xB3YTk'
 project_ids:
   - '8102015'
+project_titles:
+  - Connection through Council
 aggregated:
   challenge_url:
     - >-

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: sI0_dZ4TpAA
-project_titles:
-  - College Bound
 organization_id: '2014119'
 title: Boys & Girls Clubs of the Los Angeles Harbor
 org_type: Nonprofit
@@ -22,6 +20,8 @@ project_image: 'https://img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102027'
+project_titles:
+  - College Bound
 aggregated:
   challenge_url: []
   year_submitted:

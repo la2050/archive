@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Save sharks, fisheries, and keep L.A. weather nice!'
 organization_id: '2016069'
 title: El Porto Shark
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/nowgVpDsUNE?rel=0&amp;showinfo=0'
 project_ids:
   - '6102135'
+project_titles:
+  - 'Save sharks, fisheries, and keep L.A. weather nice!'
 aggregated:
   challenge_url:
     - >-

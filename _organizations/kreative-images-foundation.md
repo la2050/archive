@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: 360.png
-project_titles:
-  - Collaborative 360 – Creating Successful Pathways to 2050
-  - Collaborative 360 — Creating Successful Pathways to 2050
 maker_image_id: '17017'
 organization_id: '2013108'
 title: Kreative Images Foundation
@@ -55,6 +52,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102065'
+project_titles:
+  - Collaborative 360 – Creating Successful Pathways to 2050
+  - Collaborative 360 — Creating Successful Pathways to 2050
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/C-360.html'

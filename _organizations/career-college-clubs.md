@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: CCC_pic17_small.jpg
-project_titles:
-  - Middle School Career and College Preparation
 maker_image_id: '23182'
 organization_id: '2015025'
 title: Career & College clubs
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102041'
+project_titles:
+  - Middle School Career and College Preparation
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/careerandcollegeclub.html'

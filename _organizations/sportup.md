@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Empowering community organizations to grow through logistics and data
-    analytics
 organization_id: '2016201'
 title: SportUp
 org_type: Forprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/Dh_mEDo9vD8?rel=0&amp;showinfo=0'
 project_ids:
   - '6102233'
+project_titles:
+  - >-
+    Empowering community organizations to grow through logistics and data
+    analytics
 aggregated:
   challenge_url:
     - >-

@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: z__BDhvkp9Q
-project_titles:
-  - >-
-    Blind Children's Center to strengthen new Social Skills Program with
-    CREATIVE GROWTH CENTER
-  - >-
-    Blind Childrens Center to strengthen new Social Skills Program with CREATIVE
-    GROWTH CENTER
 organization_id: '2015017'
 title: Blind Children's Center
 org_type: Nonprofit
@@ -31,6 +24,13 @@ project_image: 'https://img.youtube.com/vi/z__BDhvkp9Q/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102030'
+project_titles:
+  - >-
+    Blind Children's Center to strengthen new Social Skills Program with
+    CREATIVE GROWTH CENTER
+  - >-
+    Blind Childrens Center to strengthen new Social Skills Program with CREATIVE
+    GROWTH CENTER
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/bcc.html'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Picture_5.jpg
-project_titles:
-  - College Bridge Program for Graduating High School Seniors
 maker_image_id: '23575'
 organization_id: '2015205'
 title: The Ripple Effect
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102309'
+project_titles:
+  - College Bridge Program for Graduating High School Seniors
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Robey_Brochure_Front1_(1).jpg
-project_titles:
-  - History Detectives 2.0
 maker_image_id: '23966'
 organization_id: '2015169'
 title: Robey Theatre Company
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102255'
+project_titles:
+  - History Detectives 2.0
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/history-mobile.html'

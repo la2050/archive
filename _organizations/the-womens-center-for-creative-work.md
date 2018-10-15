@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
-project_titles:
-  - 'A Physical Space for the WCCW '
-  - A Physical Space for the WCCW
 maker_image_id: '20805'
 organization_id: '2014098'
 title: The Women's Center for Creative Work
@@ -28,6 +25,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102232'
+project_titles:
+  - 'A Physical Space for the WCCW '
+  - A Physical Space for the WCCW
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/WCCW.html'

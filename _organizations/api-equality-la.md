@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: CIMG0246.jpg
-project_titles:
-  - API Equality-LA
-  - Eye to Eye LGBTQ Organizing Center
 maker_image_id: '16625'
 organization_id: '2013012'
 title: API Equality-LA
@@ -35,6 +32,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102023'
+project_titles:
+  - API Equality-LA
+  - Eye to Eye LGBTQ Organizing Center
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Future Scouts: 21st century survival skills for 21st century humans'
 organization_id: '2016085'
 title: Future Fields
 org_type: Forprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/opdLZ7mHMqw?rel=0&amp;showinfo=0'
 project_ids:
   - '6102159'
+project_titles:
+  - 'Future Scouts: 21st century survival skills for 21st century humans'
 aggregated:
   challenge_url:
     - >-

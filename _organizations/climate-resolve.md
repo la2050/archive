@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: jRPfyjiCjwg
-project_titles:
-  - Climate Ready Roofs
-  - 'Climate Resolve: Inspiring LA to Prosper in a Changing Climate'
 organization_id: '2015038'
 title: Climate Resolve
 org_type: Nonprofit
@@ -29,6 +26,9 @@ project_video: ''
 project_ids:
   - '5102067'
   - '3102076'
+project_titles:
+  - Climate Ready Roofs
+  - 'Climate Resolve: Inspiring LA to Prosper in a Changing Climate'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'

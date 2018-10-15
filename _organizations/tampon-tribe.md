@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    The Period Pack Project: Monthly Feminine Hygiene Packs for 2,000 Homeless
-    Women, for 10 Months.
 organization_id: '2016208'
 title: Tampon Tribe
 org_type: Forprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/sVisyYUs8U0?rel=0&amp;showinfo=0'
 project_ids:
   - '6102239'
+project_titles:
+  - >-
+    The Period Pack Project: Monthly Feminine Hygiene Packs for 2,000 Homeless
+    Women, for 10 Months.
 aggregated:
   challenge_url:
     - >-

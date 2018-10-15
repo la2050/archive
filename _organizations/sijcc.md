@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Locally Grown Art: a series featuring LA artists in performance, movement,
-    talk, music & family fun 
 organization_id: '2016192'
 title: SIJCC
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102207'
+project_titles:
+  - >-
+    Locally Grown Art: a series featuring LA artists in performance, movement,
+    talk, music & family fun 
 aggregated:
   challenge_url:
     - >-

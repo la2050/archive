@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Citywide billboard art show connecting emerging artists with mass audiences
-    on the streets of LA
 organization_id: '2016212'
 title: The Billboard Creative (TBC)
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102236'
+project_titles:
+  - >-
+    Citywide billboard art show connecting emerging artists with mass audiences
+    on the streets of LA
 aggregated:
   challenge_url:
     - >-

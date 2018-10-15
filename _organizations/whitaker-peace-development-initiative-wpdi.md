@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Domestic Harmonizer Program: resolving conflict, one middle school at a time'
 organization_id: '2016255'
 title: Whitaker Peace & Development Initiative (WPDI)
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102282'
+project_titles:
+  - 'Domestic Harmonizer Program: resolving conflict, one middle school at a time'
 aggregated:
   challenge_url:
     - >-

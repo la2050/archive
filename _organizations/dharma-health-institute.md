@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: yP9QgOVBaYA
-project_titles:
-  - >-
-    Own Your Health at Dharma Health Institute: Empowering communities to make
-    healthy choices 
 organization_id: '2015048'
 title: Dharma Health Institute
 org_type: Forprofit
@@ -27,6 +23,10 @@ project_image: 'https://img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102081'
+project_titles:
+  - >-
+    Own Your Health at Dharma Health Institute: Empowering communities to make
+    healthy choices 
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 0MYV-P-oK80
-project_titles:
-  - Engaging Parents to Reduce Truancy Rates
 organization_id: '2015151'
 title: Para Los Niños
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102228'
+project_titles:
+  - Engaging Parents to Reduce Truancy Rates
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/PLNSchools.html'

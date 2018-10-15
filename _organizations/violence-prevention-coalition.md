@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: RallyinLA.jpg
-project_titles:
-  - LA for Youth
 maker_image_id: '20605'
 organization_id: '2014105'
 title: Violence Prevention Coalition
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102252'
+project_titles:
+  - LA for Youth
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'

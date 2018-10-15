@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    LA CitySense: Citizen engagement in collection of air quality data for
-    improvement of public health
 organization_id: '2016248'
 title: >-
   University of Southern California, Mobile + Environmental Media Lab in the
@@ -30,6 +26,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/BUNdHYAuc-o?rel=0&amp;showinfo=0'
 project_ids:
   - '6102275'
+project_titles:
+  - >-
+    LA CitySense: Citizen engagement in collection of air quality data for
+    improvement of public health
 aggregated:
   challenge_url:
     - >-

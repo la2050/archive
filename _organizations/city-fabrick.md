@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - IN House - Collaborative Affordable Housing Design
 organization_id: '2018023'
 title: City Fabrick
 org_type: Nonprofit
@@ -22,6 +20,8 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/city-
 project_video: 'https://youtu.be/dUZCmEGdjvM'
 project_ids:
   - '8102023'
+project_titles:
+  - IN House - Collaborative Affordable Housing Design
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/city-fabrick/'

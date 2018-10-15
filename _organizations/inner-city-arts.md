@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Providing Access to the Arts and the Endless Possibilities They Offer
 organization_id: '2016110'
 title: Inner-City Arts
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/2n0ZbTcuqlo?rel=0&amp;showinfo=0'
 project_ids:
   - '6102103'
+project_titles:
+  - Providing Access to the Arts and the Endless Possibilities They Offer
 aggregated:
   challenge_url:
     - >-

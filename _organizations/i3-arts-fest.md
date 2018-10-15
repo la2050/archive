@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
 organization_id: '2016106'
 title: I3 Arts Fest
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/A702YxASJIo?rel=0&amp;showinfo=0'
 project_ids:
   - '6102099'
+project_titles:
+  - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
 aggregated:
   challenge_url:
     - >-

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Building a home that shifts interactions from pixels to people, from
-    loneliness to companionship.
 organization_id: '2016235'
 title: thecool
 org_type: Forprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/VIFv2XHX_l8?rel=0&amp;showinfo=0'
 project_ids:
   - '6102262'
+project_titles:
+  - >-
+    Building a home that shifts interactions from pixels to people, from
+    loneliness to companionship.
 aggregated:
   challenge_url:
     - >-

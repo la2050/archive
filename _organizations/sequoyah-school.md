@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: DSC_0342.jpg
-project_titles:
-  - 'Sequoyah High School '
-  - Sequoyah High School
 maker_image_id: '23515'
 organization_id: '2015178'
 title: Sequoyah School
@@ -27,6 +24,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102265'
+project_titles:
+  - 'Sequoyah High School '
+  - Sequoyah High School
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/seq.html'

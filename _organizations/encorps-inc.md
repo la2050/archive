@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program '
-  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program'
 organization_id: '2016071'
 title: 'EnCorps, Inc.'
 org_type: Nonprofit
@@ -25,6 +22,9 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/nKlf21GJLW8?rel=0&amp;showinfo=0'
 project_ids:
   - '6102064'
+project_titles:
+  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program '
+  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program'
 aggregated:
   challenge_url:
     - >-

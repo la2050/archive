@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    SCV Adventure Play + Eureka Villa: Self-Directed Play Spaces and Playwork
-    Initiative for All!
 organization_id: '2016189'
 title: Santa Clarita Valley Adventure Play
 org_type: Forprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/NzPGR-4eafI?rel=0&amp;showinfo=0'
 project_ids:
   - '6102222'
+project_titles:
+  - >-
+    SCV Adventure Play + Eureka Villa: Self-Directed Play Spaces and Playwork
+    Initiative for All!
 aggregated:
   challenge_url:
     - >-

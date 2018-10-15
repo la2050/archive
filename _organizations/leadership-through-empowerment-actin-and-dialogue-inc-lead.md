@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Ely_Flores.jpg
-project_titles:
-  - Re-Ignite Lincoln Heights
 maker_image_id: '20586'
 organization_id: '2014051'
 title: 'Leadership through Empowerment, Actin, and Dialogue Inc. (LEAD)'
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102115'
+project_titles:
+  - Re-Ignite Lincoln Heights
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ReigniteLH.html'

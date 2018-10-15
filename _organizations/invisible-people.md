@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: yUwt2n0jfsc
-project_titles:
-  - Los Angeles Invisible People Chapter and Film Festival
 organization_id: '2013099'
 title: Invisible People
 org_type: Nonprofit
@@ -108,6 +106,8 @@ project_image: 'https://img.youtube.com/vi/yUwt2n0jfsc/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102158'
+project_titles:
+  - Los Angeles Invisible People Chapter and Film Festival
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/invisiblepeople.html'

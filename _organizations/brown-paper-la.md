@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: IMG_20140406_135445.jpg
-project_titles:
-  - Mobile Cooking Classes To The Communities That Need Them Most
 maker_image_id: '21775'
 organization_id: '2014120'
 title: Brown Paper LA
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102176'
+project_titles:
+  - Mobile Cooking Classes To The Communities That Need Them Most
 aggregated:
   challenge_url: []
   year_submitted:

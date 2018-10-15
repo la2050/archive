@@ -1,10 +1,5 @@
 ---
 youtube_video_identifier: 7VGCk_c0VcU
-project_titles:
-  - 'Camp Hollywood HEART '
-  - 'Hollywood HEART: Arts in the Classroom'
-  - LA has HEART
-  - The CITYstage Arts Discovery Project
 organization_id: '2015087'
 title: Hollywood HEART
 org_type: Nonprofit
@@ -32,6 +27,11 @@ project_ids:
   - '4102090'
   - '3102148'
   - '3102073'
+project_titles:
+  - 'Camp Hollywood HEART '
+  - 'Hollywood HEART: Arts in the Classroom'
+  - LA has HEART
+  - The CITYstage Arts Discovery Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/hollywoodheart.html'

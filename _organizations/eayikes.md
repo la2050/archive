@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Back to Basics: Transforming How Angelenos Connect'
-  - Youth Building and Empowerment!
 organization_id: '2018036'
 title: Eayikes
 org_type: Nonprofit
@@ -25,6 +22,9 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ea
 project_video: 'https://youtu.be/PtA8wOP6XuM'
 project_ids:
   - '8102036'
+project_titles:
+  - 'Back to Basics: Transforming How Angelenos Connect'
+  - Youth Building and Empowerment!
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/eayikes/'

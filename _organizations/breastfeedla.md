@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Creating a First Food Friendly South Los Angeles
 organization_id: '2016026'
 title: BreastfeedLA
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/LPu2w2BufhE?rel=0&amp;showinfo=0'
 project_ids:
   - '6102022'
+project_titles:
+  - Creating a First Food Friendly South Los Angeles
 aggregated:
   challenge_url:
     - >-

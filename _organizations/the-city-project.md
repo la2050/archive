@@ -1,9 +1,5 @@
 ---
 maker_image_file_name: Image.jpg
-project_titles:
-  - >-
-    Discovering LA’s Forgotten Landmarks: Celebrating Our Diverse Cultural
-    History
 maker_image_id: '16667'
 organization_id: '2013185'
 title: The City Project
@@ -42,6 +38,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102246'
+project_titles:
+  - >-
+    Discovering LA’s Forgotten Landmarks: Celebrating Our Diverse Cultural
+    History
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/TheCityProject.html'

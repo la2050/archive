@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Wishing_Upon_A_Star.jpg
-project_titles:
-  - Digging Deeper/ Making Connections/ Doing Better
 maker_image_id: '17083'
 organization_id: '2013075'
 title: 'Friends, the Foundation of the California African American Museum'
@@ -53,6 +51,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102133'
+project_titles:
+  - Digging Deeper/ Making Connections/ Doing Better
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/MakingitHappen.html'

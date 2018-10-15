@@ -1,10 +1,4 @@
 ---
-project_titles:
-  - 'Abuse ≠Love: LA Youth Against Violence Initiative '
-  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
-  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
-  - 'Jeneration J: A New Generation of Healthy Relationships'
-  - 'Abuse ≠Love: LA Youth Against Violence Initiative'
 organization_id: '2016113'
 title: 'Jenesse Center, Inc.'
 org_type: Nonprofit
@@ -33,6 +27,12 @@ project_ids:
   - '5102149'
   - '4102103'
   - '3102159'
+project_titles:
+  - 'Abuse ≠Love: LA Youth Against Violence Initiative '
+  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
+  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
+  - 'Jeneration J: A New Generation of Healthy Relationships'
+  - 'Abuse ≠Love: LA Youth Against Violence Initiative'
 aggregated:
   challenge_url:
     - >-

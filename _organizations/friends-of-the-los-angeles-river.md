@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 5fr_Qf0ZQ7M
-project_titles:
-  - Connecting LA to its River
 organization_id: '2014037'
 title: Friends of the Los Angeles River
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102076'
+project_titles:
+  - Connecting LA to its River
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/rover.html'

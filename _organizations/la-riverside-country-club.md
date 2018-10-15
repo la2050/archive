@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: rt9TuksVaZU
-project_titles:
-  - PLUNGE into the waters of the LA River
 organization_id: '2013115'
 title: LA Riverside Country Club
 org_type: Nonprofit
@@ -41,6 +39,8 @@ project_image: 'https://img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102172'
+project_titles:
+  - PLUNGE into the waters of the LA River
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LARiversideCC.html'

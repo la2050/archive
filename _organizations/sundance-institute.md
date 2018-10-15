@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    NEXT FEST: A weekend of indie film & music bringing Angelenos together in
-    the heart of Downtown LA.
 organization_id: '2016203'
 title: Sundance Institute
 org_type: Nonprofit
@@ -25,6 +21,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/a-9Ki04WhRM?rel=0&amp;showinfo=0'
 project_ids:
   - '6102220'
+project_titles:
+  - >-
+    NEXT FEST: A weekend of indie film & music bringing Angelenos together in
+    the heart of Downtown LA.
 aggregated:
   challenge_url:
     - >-

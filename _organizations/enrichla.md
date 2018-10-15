@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: 3CNwJdOyIDQ
-project_titles:
-  - 75 School Gardens in Los Angeles Schools!
-  - EnrichLA- A Garden in EVERY School!
-  - EnrichLA A Garden in EVERY School!
 organization_id: '2014032'
 title: EnrichLA
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_video: ''
 project_ids:
   - '4102065'
   - '3102124'
+project_titles:
+  - 75 School Gardens in Los Angeles Schools!
+  - EnrichLA- A Garden in EVERY School!
+  - EnrichLA A Garden in EVERY School!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/enrichla.html'

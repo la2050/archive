@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    Changing Lives Through Jobs: Create a #SecondChance for L.A. through
-    employment 
-  - >-
-    Changing Lives Through Jobs: Create a #SecondChance for L.A. through
-    employment
 organization_id: '2016037'
 title: Chrysalis
 org_type: Nonprofit
@@ -31,6 +24,13 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/9fQj9v92GS4?rel=0&amp;showinfo=0'
 project_ids:
   - '6102036'
+project_titles:
+  - >-
+    Changing Lives Through Jobs: Create a #SecondChance for L.A. through
+    employment 
+  - >-
+    Changing Lives Through Jobs: Create a #SecondChance for L.A. through
+    employment
 aggregated:
   challenge_url:
     - >-

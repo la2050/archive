@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: n__7obsdA8E
-project_titles:
-  - >-
-    Deaf West Theatre Performing Arts Center and Educational Outreach Program
-    Residency 
-  - >-
-    Deaf West Theatre Performing Arts Center and Educational Outreach Program
-    Residency
 organization_id: '2014025'
 title: 'Deaf West Theatre, Inc.'
 org_type: Nonprofit
@@ -28,6 +21,13 @@ project_image: 'https://img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102053'
+project_titles:
+  - >-
+    Deaf West Theatre Performing Arts Center and Educational Outreach Program
+    Residency 
+  - >-
+    Deaf West Theatre Performing Arts Center and Educational Outreach Program
+    Residency
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/deafwest.html'

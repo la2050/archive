@@ -1,10 +1,4 @@
 ---
-project_titles:
-  - |-
-    A house for Tommy in my backyard! 
-     
-     If only LA knew the opportunity that lies in our backyards…
-  - "A house for Tommy in my backyard! \r\nIf only LA knew the opportunity that lies in our backyards…\r\n"
 organization_id: '2018086'
 title: Mutuo
 org_type: Forprofit
@@ -26,6 +20,12 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo
 project_video: 'https://www.youtube.com/watch?v=Xr8XGS427jo'
 project_ids:
   - '8102086'
+project_titles:
+  - |-
+    A house for Tommy in my backyard! 
+     
+     If only LA knew the opportunity that lies in our backyards…
+  - "A house for Tommy in my backyard! \r\nIf only LA knew the opportunity that lies in our backyards…\r\n"
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/mutuo/'

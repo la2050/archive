@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: n_itMCVl124
-project_titles:
-  - f2 FutureFest LA
 organization_id: '2013024'
 title: 'c3: Center for Conscious Creativity'
 org_type: Nonprofit
@@ -45,6 +43,8 @@ project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102045'
+project_titles:
+  - f2 FutureFest LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/f2futurefest.html'

@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Community: Where strong families are made'
-  - 'Community: Where strong families are made '
 organization_id: '2018018'
 title: Child360 (formerly Los Angeles Universal Preschool)
 org_type: Nonprofit
@@ -27,6 +24,9 @@ project_image: >-
 project_video: 'https://youtu.be/3lSBgCsP9Sg'
 project_ids:
   - '8102018'
+project_titles:
+  - 'Community: Where strong families are made'
+  - 'Community: Where strong families are made '
 aggregated:
   challenge_url:
     - >-

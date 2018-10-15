@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
-project_titles:
-  - ChallengeMaker
 maker_image_id: '24048'
 organization_id: '2015029'
 title: ChallengeMaker
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102050'
+project_titles:
+  - ChallengeMaker
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/ChallengeMaker.html'

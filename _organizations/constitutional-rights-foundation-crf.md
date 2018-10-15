@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: I85PHrZjakM
-project_titles:
-  - >-
-    Practicing Good CITYzenship: Today’s Civic Action Project Builds Prosocial
-    Connections for LA2050
 organization_id: '2014021'
 title: 'Constitutional Rights Foundation, CRF'
 org_type: Nonprofit
@@ -25,6 +21,10 @@ project_image: 'https://img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102048'
+project_titles:
+  - >-
+    Practicing Good CITYzenship: Today’s Civic Action Project Builds Prosocial
+    Connections for LA2050
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/CivicActionProject.html'

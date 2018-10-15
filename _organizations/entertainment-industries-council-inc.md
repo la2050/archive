@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: 5paOc34oG84
-project_titles:
-  - >-
-    Generation Next: Ready on the SET and Action - Science, Technology,
-    Engineering, Arts and Math
-  - >-
-    Generation Next: Ready on the SET and Action - Science Technology
-    Engineering Arts and Math
 organization_id: '2015058'
 title: 'Entertainment Industries Council, Inc.'
 org_type: Nonprofit
@@ -26,6 +19,13 @@ project_image: 'https://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102093'
+project_titles:
+  - >-
+    Generation Next: Ready on the SET and Action - Science, Technology,
+    Engineering, Arts and Math
+  - >-
+    Generation Next: Ready on the SET and Action - Science Technology
+    Engineering Arts and Math
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'

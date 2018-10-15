@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - Be a Voice for LA's Foster Care Children!
-  - Be the Voice of LA's Foster Care Children!
-  - College Collaborative for Foster Care Youth
-  - Speak up for the child – become an advocate for foster children in need!
-  - 'Youth to Youth: Helping Young Adults Exit Foster Care'
-  - Be a Voice for LAs Foster Care Children!
 organization_id: '2018014'
 title: CASA of Los Angeles
 org_type: Nonprofit
@@ -33,6 +26,13 @@ project_ids:
   - '6102032'
   - '5102043'
   - '4102031'
+project_titles:
+  - Be a Voice for LA's Foster Care Children!
+  - Be the Voice of LA's Foster Care Children!
+  - College Collaborative for Foster Care Youth
+  - Speak up for the child – become an advocate for foster children in need!
+  - 'Youth to Youth: Helping Young Adults Exit Foster Care'
+  - Be a Voice for LAs Foster Care Children!
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/casa-of-los-angeles/'

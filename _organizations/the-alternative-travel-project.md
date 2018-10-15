@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: u0DYRf98w-o
-project_titles:
-  - The Alternative Travel Project
-  - The Alternative Travel Project - Go car FREE for just ONE day!
 organization_id_2: '2014086'
 organization_id: '2015196'
 title: the Alternative Travel Project
@@ -30,6 +27,9 @@ project_video: ''
 project_ids:
   - '5102296'
   - '4102206'
+project_titles:
+  - The Alternative Travel Project
+  - The Alternative Travel Project - Go car FREE for just ONE day!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/altravelproject.html'

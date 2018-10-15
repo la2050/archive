@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    Early Childhood Education Options: Using Public Service Mini-Courses to
-    Educate and Empower Families
-  - >-
-    Parents Education League of LA: Creating Your Go-To School Resource & Parent
-    Network
 organization_id: '2016162'
 title: Parents Education League
 org_type: Nonprofit
@@ -30,6 +23,13 @@ project_video: 'https://www.youtube.com/embed/WWAqDf9vNEg?rel=0&amp;showinfo=0'
 project_ids:
   - '6102174'
   - '5102229'
+project_titles:
+  - >-
+    Early Childhood Education Options: Using Public Service Mini-Courses to
+    Educate and Empower Families
+  - >-
+    Parents Education League of LA: Creating Your Go-To School Resource & Parent
+    Network
 aggregated:
   challenge_url:
     - >-

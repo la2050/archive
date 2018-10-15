@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: In_Studio_Irvine_Mural.jpg
-project_titles:
-  - 'LA Mosaic Mecca Project:  An Urban Mosaic Intervention on Skid Row'
-  - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
 maker_image_id: '22131'
 organization_id: '2014068'
 title: Piece by Piece
@@ -28,6 +25,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102168'
+project_titles:
+  - 'LA Mosaic Mecca Project:  An Urban Mosaic Intervention on Skid Row'
+  - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'

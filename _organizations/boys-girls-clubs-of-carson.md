@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: College_Access_Initiative.jpg
-project_titles:
-  - College Access Initiative
 maker_image_id: '24078'
 organization_id: '2015020'
 title: Boys & Girls Clubs of Carson
@@ -28,6 +26,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102033'
+project_titles:
+  - College Access Initiative
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CollegeAccess.html'

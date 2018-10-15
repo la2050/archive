@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: AMBgroupPic.jpg
-project_titles:
-  - Music School for Blind Children
 maker_image_id: '23208'
 organization_id: '2015003'
 title: Academy of Music for the Blind
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102008'
+project_titles:
+  - Music School for Blind Children
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/ouramb.html'

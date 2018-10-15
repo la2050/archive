@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Creating a home is a bridge to creating community '
-  - Creating a home is a bridge to creating community
 organization_id: '2016004'
 title: A Sense of Home
 org_type: Nonprofit
@@ -24,6 +21,9 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/PXXuCduxggc?rel=0&amp;showinfo=0'
 project_ids:
   - '6102003'
+project_titles:
+  - 'Creating a home is a bridge to creating community '
+  - Creating a home is a bridge to creating community
 aggregated:
   challenge_url:
     - >-

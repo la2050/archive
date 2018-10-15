@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Open Sourced Smart City Collaborative
 organization_id: '2016040'
 title: City of West Hollywood
 org_type: Government
@@ -23,6 +21,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102039'
+project_titles:
+  - Open Sourced Smart City Collaborative
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'

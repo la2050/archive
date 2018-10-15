@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - To see well is to live well.
 organization_id: '2018130'
 title: UCLA Mobile Eye Clinic (UMEC)
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=XX7-agoIc2M'
 project_ids:
   - '8102130'
+project_titles:
+  - To see well is to live well.
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'

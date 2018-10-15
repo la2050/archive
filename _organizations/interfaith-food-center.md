@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: NEW_IFCLOGO.jpg
-project_titles:
-  - Four Seasons of Food
 maker_image_id: '20849'
 organization_id: '2014158'
 title: Interfaith Food Center
@@ -22,6 +20,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102145'
+project_titles:
+  - Four Seasons of Food
 aggregated:
   challenge_url: []
   year_submitted:

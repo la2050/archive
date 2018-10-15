@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - A digital green thumb for the urban-scape
 organization_id: '2016174'
 title: Plantaware
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/Mze22CqlIlE?rel=0&amp;showinfo=0'
 project_ids:
   - '6102217'
+project_titles:
+  - A digital green thumb for the urban-scape
 aggregated:
   challenge_url:
     - >-

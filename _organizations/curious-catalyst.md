@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: gatKpPjdUvo
-project_titles:
-  - Curious Catalyst
-  - 'Food Truck + Food Desert = Win Win Win! '
 organization_id: '2013049'
 title: Curious Catalyst
 org_type: For profit
@@ -47,6 +44,9 @@ project_image: 'https://img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102022'
+project_titles:
+  - Curious Catalyst
+  - 'Food Truck + Food Desert = Win Win Win! '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'

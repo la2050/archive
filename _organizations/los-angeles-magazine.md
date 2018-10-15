@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    GIVE Los Angeles: charitable giving that unites and connects us in the city
-    we love. 
-  - >-
-    GIVE Los Angeles: charitable giving that unites and connects us in the city
-    we love.
 organization_id: '2016137'
 title: Los Angeles Magazine
 org_type: Forprofit
@@ -29,6 +22,13 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102200'
+project_titles:
+  - >-
+    GIVE Los Angeles: charitable giving that unites and connects us in the city
+    we love. 
+  - >-
+    GIVE Los Angeles: charitable giving that unites and connects us in the city
+    we love.
 aggregated:
   challenge_url:
     - >-

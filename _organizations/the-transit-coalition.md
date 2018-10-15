@@ -1,9 +1,5 @@
 ---
 maker_image_file_name: Cars_Attribution_Biofriendly_Creative_Commons_license.jpeg
-project_titles:
-  - >-
-    Fix our Traffic: Getting people to rapid transit stations one neighborhood
-    at a time
 maker_image_id: '20691'
 organization_id: '2014097'
 title: The Transit Coalition
@@ -27,6 +23,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102230'
+project_titles:
+  - >-
+    Fix our Traffic: Getting people to rapid transit stations one neighborhood
+    at a time
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/Fix_our_traffic.html'

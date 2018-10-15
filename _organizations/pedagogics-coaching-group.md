@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
-    Instruction and Practice
 organization_id: '2016167'
 title: Pedagogics Coaching Group
 org_type: Forprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/0xgcqCC9nTM?rel=0&amp;showinfo=0'
 project_ids:
   - '6102210'
+project_titles:
+  - >-
+    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
+    Instruction and Practice
 aggregated:
   challenge_url:
     - >-

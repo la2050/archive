@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    The Help Group's STEM3 Academy Coding, Computer & Robotics Camps for Special
-    Learners! 
 organization_id: '2016220'
 title: The Help Group's STEM3 Academy
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/n9iSFsPt5ME?rel=0&amp;showinfo=0'
 project_ids:
   - '6102244'
+project_titles:
+  - >-
+    The Help Group's STEM3 Academy Coding, Computer & Robotics Camps for Special
+    Learners! 
 aggregated:
   challenge_url:
     - >-

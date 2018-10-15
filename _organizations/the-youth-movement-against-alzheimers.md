@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - YouthCare - Intergenerational Respite Care
 organization_id: '2018124'
 title: The Youth Movement Against Alzheimer’s
 org_type: Nonprofit
@@ -27,6 +25,8 @@ project_image: >-
 project_video: 'https://youtu.be/5fwflSIChBM'
 project_ids:
   - '8102124'
+project_titles:
+  - YouthCare - Intergenerational Respite Care
 aggregated:
   challenge_url:
     - >-

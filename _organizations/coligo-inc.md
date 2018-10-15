@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - The first social networking service for nonprofit organizations
 organization_id: '2016046'
 title: 'Coligo, Inc.'
 org_type: Forprofit
@@ -21,6 +19,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/fTkbmu7_ywc?rel=0&amp;showinfo=0'
 project_ids:
   - '6102105'
+project_titles:
+  - The first social networking service for nonprofit organizations
 aggregated:
   challenge_url:
     - >-

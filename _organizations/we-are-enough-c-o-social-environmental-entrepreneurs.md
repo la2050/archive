@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'We Are Enough: Women Investing $$$ in Women... the Way to Change the World!'
 organization_id: '2018136'
 title: We Are Enough c/o Social & Environmental Entrepreneurs
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://youtu.be/hYxxWm_J0Yc'
 project_ids:
   - '8102136'
+project_titles:
+  - 'We Are Enough: Women Investing $$$ in Women... the Way to Change the World!'
 aggregated:
   challenge_url:
     - >-

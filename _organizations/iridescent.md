@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: NTnzCDQ335U
-project_titles:
-  - Inspiring Girls in Technology Entrepreneurship
-  - Iridescent Curiosity Machine Program
 organization_id: '2015094'
 title: Iridescent
 org_type: Nonprofit
@@ -25,6 +22,9 @@ project_video: ''
 project_ids:
   - '5102146'
   - '5102145'
+project_titles:
+  - Inspiring Girls in Technology Entrepreneurship
+  - Iridescent Curiosity Machine Program
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CuriosityMachine.html'

@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Art from the Heart: an Art and Movement Therapy Program'
-  - 'Relational Medicine: National Movement Recognizes Compassionate Patient Care'
 organization_id: '2016182'
 title: Relational Medicine Foundation
 org_type: Nonprofit
@@ -28,6 +25,9 @@ project_video: 'https://www.youtube.com/embed/F0jAU8oFZyQ?rel=0&amp;showinfo=0'
 project_ids:
   - '6102196'
   - '5102252'
+project_titles:
+  - 'Art from the Heart: an Art and Movement Therapy Program'
+  - 'Relational Medicine: National Movement Recognizes Compassionate Patient Care'
 aggregated:
   challenge_url:
     - >-

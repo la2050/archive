@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: tgVu1wy15RQ
-project_titles:
-  - 'Mobile Forum: Architecture and Urbanism To-Go'
 organization_id: '2014205'
 title: The Los Angeles Forum for Architecture and Urban Design
 org_type: Nonprofit
@@ -19,6 +17,8 @@ project_image: 'https://img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102217'
+project_titles:
+  - 'Mobile Forum: Architecture and Urbanism To-Go'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/stimulateLA.html'

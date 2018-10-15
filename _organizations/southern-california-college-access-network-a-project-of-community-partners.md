@@ -1,12 +1,5 @@
 ---
 maker_image_file_name: _MG_9694.JPG
-project_titles:
-  - >-
-    Level Up: Students, Organizations, and Colleges Working Together For College
-    Success! 
-  - >-
-    Level Up: Students Organizations and Colleges Working Together For College
-    Success!
 maker_image_id: '23240'
 organization_id: '2015187'
 title: 'Southern California College Access Network, a Project of Community Partners'
@@ -31,6 +24,13 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102276'
+project_titles:
+  - >-
+    Level Up: Students, Organizations, and Colleges Working Together For College
+    Success! 
+  - >-
+    Level Up: Students Organizations and Colleges Working Together For College
+    Success!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'

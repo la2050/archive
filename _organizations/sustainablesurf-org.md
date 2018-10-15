@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 5-OvAiMBAFc
-project_titles:
-  - the EcoBoard Project
 organization_id: '2015192'
 title: Sustainablesurf.org
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102283'
+project_titles:
+  - the EcoBoard Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/ecoboardsLA.html'

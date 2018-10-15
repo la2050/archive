@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Tell Your True Tale Writer's Workshop
 organization_id: '2016060'
 title: County of Los Angeles Public Library
 org_type: Government
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102056'
+project_titles:
+  - Tell Your True Tale Writer's Workshop
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'

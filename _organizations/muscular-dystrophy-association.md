@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Live Unlimited with MDA's Summer Camp
 organization_id: '2016151'
 title: Muscular Dystrophy Association
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102158'
+project_titles:
+  - Live Unlimited with MDA's Summer Camp
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/live-unlimited-with-mdas-summer-camp'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 6pkTdEgSCvo
-project_titles:
-  - Learning Equipment Supply Service
 organization_id: '2013057'
 title: Education Consortium of Central Los Angeles / Project LESS
 org_type: Nonprofit
@@ -83,6 +81,8 @@ project_image: 'https://img.youtube.com/vi/6pkTdEgSCvo/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102119'
+project_titles:
+  - Learning Equipment Supply Service
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/morelearning.html'

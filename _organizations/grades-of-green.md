@@ -1,9 +1,5 @@
 ---
 maker_image_file_name: LA_YouthCorps_Logo-01.png
-project_titles:
-  - Grades of Green - Los Angeles Environmental Youth Corps
-  - Grades of Green - Los Angeles Youth Corps
-  - Grades of Green  Los Angeles Youth Corps
 maker_image_id: '16837'
 organization_id: '2013082'
 title: Grades of Green
@@ -61,6 +57,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102140'
+project_titles:
+  - Grades of Green - Los Angeles Environmental Youth Corps
+  - Grades of Green - Los Angeles Youth Corps
+  - Grades of Green  Los Angeles Youth Corps
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/goglayc.html'

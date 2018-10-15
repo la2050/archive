@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: 7so4eDfFRws
-project_titles:
-  - 'Roving Río Vista: A Park on the Move'
-  - 'Roving RÃ­o Vista: A Park on the Move'
 organization_id: '2013110'
 title: L.A. River Revitalization Corporation
 org_type: Nonprofit
@@ -80,6 +77,9 @@ project_image: 'https://img.youtube.com/vi/7so4eDfFRws/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102167'
+project_titles:
+  - 'Roving Río Vista: A Park on the Move'
+  - 'Roving RÃ­o Vista: A Park on the Move'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'

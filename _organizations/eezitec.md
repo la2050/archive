@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: uVgrIU_Bl9g
-project_titles:
-  - >-
-    Making the next generation of creativity accessible to anyone with a 3D
-    Printing Makerspace!
 organization_id: '2015056'
 title: EEZITEC
 org_type: Forprofit
@@ -25,6 +21,10 @@ project_image: 'https://img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102091'
+project_titles:
+  - >-
+    Making the next generation of creativity accessible to anyone with a 3D
+    Printing Makerspace!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/eezitec.html'

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    First Place: Providing at-risk foster youth with the skills they need to be
-    college and career ready
 organization_id: '2016078'
 title: First Place for Youth
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102068'
+project_titles:
+  - >-
+    First Place: Providing at-risk foster youth with the skills they need to be
+    college and career ready
 aggregated:
   challenge_url:
     - >-

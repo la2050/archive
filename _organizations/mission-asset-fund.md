@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: AXqYX0rfbys
-project_titles:
-  - 'Building on LA''s Social Capital '
-  - 'Building on LAs Social Capital '
 organization_id: '2013136'
 title: Mission Asset Fund
 org_type: Nonprofit
@@ -37,6 +34,9 @@ project_image: 'https://img.youtube.com/vi/AXqYX0rfbys/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102198'
+project_titles:
+  - 'Building on LA''s Social Capital '
+  - 'Building on LAs Social Capital '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LendingCircles.html'

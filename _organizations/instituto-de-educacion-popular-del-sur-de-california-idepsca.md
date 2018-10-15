@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: 3014224447_e908044cf3_o.jpg
-project_titles:
-  - Connecting Low Wage Immigrant Workers to the Internet
 maker_image_id: '23511'
 organization_id: '2015092'
 title: Instituto de Educacion Popular del Sur de California (IDEPSCA)
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102143'
+project_titles:
+  - Connecting Low Wage Immigrant Workers to the Internet
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LATrabajadoresConex.html'

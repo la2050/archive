@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: grALjLXwxgM
-project_titles:
-  - NewFilmmakers LA
 organization_id: '2014062'
 title: NewFilmmakers Los Angeles
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102157'
+project_titles:
+  - NewFilmmakers LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/NFMLA.html'

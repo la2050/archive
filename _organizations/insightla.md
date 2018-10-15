@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: lLS50WusJa4
-project_titles:
-  - 'LA, the capital of mindfulness in 2050'
-  - LA the capital of mindfulness in 2050
 organization_id: '2013097'
 title: InsightLA
 org_type: Nonprofit
@@ -35,6 +32,9 @@ project_image: 'https://img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102156'
+project_titles:
+  - 'LA, the capital of mindfulness in 2050'
+  - LA the capital of mindfulness in 2050
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/MindfulLA.html'

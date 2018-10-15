@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: 20121102_193319.jpg
-project_titles:
-  - CARECEN - LA College Head Start
-  - 'CARECEN - LA College Head Start '
 maker_image_id: '21279'
 organization_id: '2014122'
 title: Central American Resource Center - CARECEN - Los Angeles
@@ -21,6 +18,9 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '4102032'
+project_titles:
+  - CARECEN - LA College Head Start
+  - 'CARECEN - LA College Head Start '
 aggregated:
   challenge_url: []
   year_submitted:

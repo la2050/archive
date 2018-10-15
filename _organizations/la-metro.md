@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Off Peak Podcast
 organization_id: '2016122'
 title: LA Metro
 org_type: Government
@@ -23,6 +21,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102121'
+project_titles:
+  - Off Peak Podcast
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/off-peak-podcast'

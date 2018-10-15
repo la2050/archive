@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - FosterMore-Because No Child Makes It Alone
 organization_id: '2018020'
 title: Children's Action Network
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://youtu.be/JPeuzRmiI3w'
 project_ids:
   - '6102035'
+project_titles:
+  - FosterMore-Because No Child Makes It Alone
 aggregated:
   challenge_url:
     - >-

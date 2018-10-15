@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Building a Co-living Community for LA's Homeless Youth
-  - Safe Place for Youth by Podshare
 organization_id: '2018096'
 title: Podshare
 org_type: Forprofit
@@ -26,6 +23,9 @@ project_video: 'https://youtu.be/9T1sxwl670s'
 project_ids:
   - '8102096'
   - '6102219'
+project_titles:
+  - Building a Co-living Community for LA's Homeless Youth
+  - Safe Place for Youth by Podshare
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/podshare/'
