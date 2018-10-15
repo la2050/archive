@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: gTKhNc98GIc
-project_titles:
-  - 'Partnership for Black Workers Rising '
 organization_id: '2013041'
 title: 'Coalition of Mental Health Professionals, Inc.'
 org_type: Nonprofit
@@ -42,6 +40,8 @@ project_image: 'https://img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102078'
+project_titles:
+  - 'Partnership for Black Workers Rising '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/workersrising.html'

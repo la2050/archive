@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Arts Connect '
-  - Arts Connect
 organization_id: '2016013'
 title: Arts and Living Charitable Foundation
 org_type: Nonprofit
@@ -25,6 +22,9 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/UpeLWXJL0JI?rel=0&amp;showinfo=0'
 project_ids:
   - '6102010'
+project_titles:
+  - 'Arts Connect '
+  - Arts Connect
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/arts-connect'

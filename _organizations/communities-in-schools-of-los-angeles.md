@@ -1,11 +1,5 @@
 ---
 youtube_video_identifier: 8RfGcPRl--8
-project_titles:
-  - >-
-    Bringing the South LA community together to support the students at Santee
-    who need it
-  - 'Communities In Schools of Los Angeles: A Vision of 100% Graduation in LAUSD'
-  - 'Getting LA students to graduate: educating the whole child'
 organization_id: '2015043'
 title: Communities In Schools of Los Angeles
 org_type: Nonprofit
@@ -30,6 +24,12 @@ project_video: ''
 project_ids:
   - '5102074'
   - '3102085'
+project_titles:
+  - >-
+    Bringing the South LA community together to support the students at Santee
+    who need it
+  - 'Communities In Schools of Los Angeles: A Vision of 100% Graduation in LAUSD'
+  - 'Getting LA students to graduate: educating the whole child'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Leif_Community_Engagement_App.jpg
-project_titles:
-  - Localized Mobile News App Connecting You to Your Community
 maker_image_id: '23547'
 organization_id: '2015172'
 title: Ruckus Projects
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102258'
+project_titles:
+  - Localized Mobile News App Connecting You to Your Community
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Leif.html'

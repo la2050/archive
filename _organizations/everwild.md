@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - EverWild - Connect with Nature the EverWild Way
 organization_id: '2018038'
 title: EverWild
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/everw
 project_video: 'https://vimeo.com/262456324'
 project_ids:
   - '8102038'
+project_titles:
+  - EverWild - Connect with Nature the EverWild Way
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/everwild/'

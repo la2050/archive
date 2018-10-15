@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Connecting Children to Art in Nature: Provide a meaningful holistic link
-    between art and nature.
 organization_id: '2016010'
 title: Anna Bing Arnold Children's Center
 org_type: Nonprofit
@@ -25,6 +21,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/JHgZ6ApAYVQ?rel=0&amp;showinfo=0'
 project_ids:
   - '6102007'
+project_titles:
+  - >-
+    Connecting Children to Art in Nature: Provide a meaningful holistic link
+    between art and nature.
 aggregated:
   challenge_url:
     - >-

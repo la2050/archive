@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: _DSC5884.JPG
-project_titles:
-  - AGEnts for Change Initiative for Seniors in Los Angeles
 maker_image_id: '20167'
 organization_id: '2014085'
 title: St. Barnabas Senior Services aka St. Barnabas Senior Center
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102199'
+project_titles:
+  - AGEnts for Change Initiative for Seniors in Los Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'

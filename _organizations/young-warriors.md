@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: slider_gocarts2.jpg
-project_titles:
-  - Young Warriors
 maker_image_id: '16390'
 organization_id: '2013220'
 title: Young Warriors
@@ -33,6 +31,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102277'
+project_titles:
+  - Young Warriors
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/YoungWarriors.html'

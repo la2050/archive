@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: DMG32xJ5p-Q
-project_titles:
-  - Special Olympics World Games 2015
 organization_id: '2014084'
 title: Special Olympics World Games 2015
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102198'
+project_titles:
+  - Special Olympics World Games 2015
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/LA2015.html'

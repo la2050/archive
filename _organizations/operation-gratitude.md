@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Operation Gratitude -  Americans Saying “Thank You” To All Who Serve '
-  - Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
 organization_id: '2016160'
 title: Operation Gratitude
 org_type: Nonprofit
@@ -25,6 +22,9 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/wyKSTyquR-0?rel=0&amp;showinfo=0'
 project_ids:
   - '6102170'
+project_titles:
+  - 'Operation Gratitude -  Americans Saying “Thank You” To All Who Serve '
+  - Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
 aggregated:
   challenge_url:
     - >-

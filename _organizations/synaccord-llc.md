@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - Engage Your Neighborhood
-  - Engaging LA Online in Solutions that Unite Us
-  - Neighborhood Conversations
 organization_id: '2018115'
 title: 'Synaccord, LLC'
 org_type: Forprofit
@@ -29,6 +25,10 @@ project_ids:
   - '8102115'
   - '6102234'
   - '5102285'
+project_titles:
+  - Engage Your Neighborhood
+  - Engaging LA Online in Solutions that Unite Us
+  - Neighborhood Conversations
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/synaccord-llc/'

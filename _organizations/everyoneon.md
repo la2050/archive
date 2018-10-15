@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
-  - >-
-    Connect with Promise: Providing Internet Connectivity & Devices to Families
-    in Public Housing
 organization_id: '2016074'
 title: EveryoneOn
 org_type: Nonprofit
@@ -29,6 +24,11 @@ project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
 project_ids:
   - '6102065'
   - '4102067'
+project_titles:
+  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
+  - >-
+    Connect with Promise: Providing Internet Connectivity & Devices to Families
+    in Public Housing
 aggregated:
   challenge_url:
     - >-

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Food As Health Care: A Project to Engage Doctors in Providing Reliable
-    Access to Healthy Food
 organization_id: '2016065'
 title: Doctors for America
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102061'
+project_titles:
+  - >-
+    Food As Health Care: A Project to Engage Doctors in Providing Reliable
+    Access to Healthy Food
 aggregated:
   challenge_url:
     - >-

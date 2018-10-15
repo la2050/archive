@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: uVV1_WmFT9o
-project_titles:
-  - Paper Free Studio
-  - 'THE i.am.angel EAST L.A. INCUBATOR PROJECT '
-  - 'i.am Makerspace: Empowering Creators in Disadvantaged Communities'
 organization_id: '2014043'
 title: i.am.angel Foundation
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_ids:
   - '4102095'
   - '3102153'
   - '3102152'
+project_titles:
+  - Paper Free Studio
+  - 'THE i.am.angel EAST L.A. INCUBATOR PROJECT '
+  - 'i.am Makerspace: Empowering Creators in Disadvantaged Communities'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'

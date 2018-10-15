@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: nJPC81QoGyk
-project_titles:
-  - A Paradise of Artistic Innovation and Theatrical Celebration
 organization_id: '2014099'
 title: 'Theatrum Elysium, San Pedro Rep'
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102233'
+project_titles:
+  - A Paradise of Artistic Innovation and Theatrical Celebration
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'

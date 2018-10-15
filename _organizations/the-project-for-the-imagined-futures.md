@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: KofWk5qh3jE
-project_titles:
-  - The Imagined Futures
 organization_id: '2014096'
 title: The Project for The Imagined Futures
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102228'
+project_titles:
+  - The Imagined Futures
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'

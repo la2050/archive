@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: NNetdspYB4M
-project_titles:
-  - >-
-    The Cyber Insecurity Initiative of the Los Angeles Health Care Security
-    Systems Project
-  - >-
-    The Cyber Insecurity Initiative of the Los Angeles Healthcare Security
-    Systems Project
 organization_id: '2015197'
 title: The Center of Medical Multimedia Education and Technology (COMMET)
 org_type: Nonprofit
@@ -29,6 +22,13 @@ project_video: ''
 project_ids:
   - '5102297'
   - '4102247'
+project_titles:
+  - >-
+    The Cyber Insecurity Initiative of the Los Angeles Health Care Security
+    Systems Project
+  - >-
+    The Cyber Insecurity Initiative of the Los Angeles Healthcare Security
+    Systems Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/COMMET.html'

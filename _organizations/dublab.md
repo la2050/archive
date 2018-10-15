@@ -1,11 +1,5 @@
 ---
 youtube_video_identifier: xXMkk_S-UnU
-project_titles:
-  - DUBLAB's Open Studio Initiative
-  - SOUND SHARE LA
-  - Sound Sanctuary
-  - 'Wayfinder LA, a utility for car-free transit'
-  - DUBLABs Open Studio Initiative
 organization_id: '2015053'
 title: DUBLAB
 org_type: Nonprofit
@@ -28,6 +22,12 @@ project_video: ''
 project_ids:
   - '5102088'
   - '3102115'
+project_titles:
+  - DUBLAB's Open Studio Initiative
+  - SOUND SHARE LA
+  - Sound Sanctuary
+  - 'Wayfinder LA, a utility for car-free transit'
+  - DUBLABs Open Studio Initiative
 aggregated:
   challenge_url:
     - >-

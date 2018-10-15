@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: f_x1AGOuR7A
-project_titles:
-  - WestCal Career Pathways
 organization_id: '2015224'
 title: WestCal Academy
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102340'
+project_titles:
+  - WestCal Career Pathways
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/westcal.html'

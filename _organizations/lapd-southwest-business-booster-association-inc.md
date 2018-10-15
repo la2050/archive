@@ -1,9 +1,5 @@
 ---
 maker_image_file_name: Screen_Shot_2015-10-15_at_12.10.38_PM.png
-project_titles:
-  - >-
-    LAPD Southwest Area Youth Conference: Enhancing Community-Police Relations
-    through the Youth
 maker_image_id: '24149'
 organization_id: '2015111'
 title: LAPD Southwest Business Booster Association Inc.
@@ -29,6 +25,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102173'
+project_titles:
+  - >-
+    LAPD Southwest Area Youth Conference: Enhancing Community-Police Relations
+    through the Youth
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Lapdyouthconference.html'

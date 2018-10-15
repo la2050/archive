@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
 organization_id: '2016114'
 title: Jobs to Move America
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102109'
+project_titles:
+  - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
 aggregated:
   challenge_url:
     - >-

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    IGNITE22: A tech expo and collaborative experience celebrating innovations
-    shaping the 22nd century
 organization_id: '2016023'
 title: 'Braid Theory, Inc.'
 org_type: Forprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/XLWpDjYyDQI?rel=0&amp;showinfo=0'
 project_ids:
   - '6102086'
+project_titles:
+  - >-
+    IGNITE22: A tech expo and collaborative experience celebrating innovations
+    shaping the 22nd century
 aggregated:
   challenge_url:
     - >-

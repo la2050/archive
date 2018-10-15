@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: sKN2PQLjrps
-project_titles:
-  - >-
-    Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1,000
-    Children
-  - >-
-    Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1000
-    Children
 organization_id: '2015165'
 title: Reading Partners
 org_type: Nonprofit
@@ -32,6 +25,13 @@ project_image: 'https://img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102249'
+project_titles:
+  - >-
+    Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1,000
+    Children
+  - >-
+    Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1000
+    Children
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'

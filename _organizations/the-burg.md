@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Local civic engagement is hard. Let’s make it easier.  '
-  - Local civic engagement is hard. Let’s make it easier.
 organization_id: '2016213'
 title: The Burg
 org_type: Forprofit
@@ -22,6 +19,9 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/oaYNAjDLsxk?rel=0&amp;showinfo=0'
 project_ids:
   - '6102247'
+project_titles:
+  - 'Local civic engagement is hard. Let’s make it easier.  '
+  - Local civic engagement is hard. Let’s make it easier.
 aggregated:
   challenge_url:
     - >-

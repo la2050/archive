@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: CqF0Cn4dZJs
-project_titles:
-  - Greening 7th St. in Skid Row/DTLA
 organization_id: '2013096'
 title: Industrial District Green
 org_type: Nonprofit
@@ -35,6 +33,8 @@ project_image: 'https://img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102155'
+project_titles:
+  - Greening 7th St. in Skid Row/DTLA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'

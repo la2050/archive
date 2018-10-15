@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    NDY Health & Recreation Center: Creating a Healthier and Resilient Los
-    Angeles
 organization_id: '2016157'
 title: 'New Directions for Youth, Inc'
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/oUnzAqktemg?rel=0&amp;showinfo=0'
 project_ids:
   - '6102166'
+project_titles:
+  - >-
+    NDY Health & Recreation Center: Creating a Healthier and Resilient Los
+    Angeles
 aggregated:
   challenge_url:
     - >-

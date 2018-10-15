@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: vnfl_final.jpg
-project_titles:
-  - 36 Hours in L.A. 2050
 maker_image_id: '16352'
 organization_id: '2013072'
 title: ForYourArt
@@ -40,6 +38,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102052'
+project_titles:
+  - 36 Hours in L.A. 2050
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/36hoursinLA2050_FYA.html'

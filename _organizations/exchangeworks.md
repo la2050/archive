@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
-project_titles:
-  - 'EWLA: Creating a network for exchange between artists and the public'
 maker_image_id: '23585'
 organization_id: '2015060'
 title: ExchangeWorks
@@ -25,6 +23,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '5102095'
+project_titles:
+  - 'EWLA: Creating a network for exchange between artists and the public'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'

@@ -1,12 +1,5 @@
 ---
 maker_image_file_name: MECAY-Education-Proposal-2014.jpg
-project_titles:
-  - >-
-    Creating Community With L.A.'s Cultural Center for the Middle East/North
-    Africa
-  - >-
-    Creating Community With L.A.s Cultural Center for the Middle East/North
-    Africa
 maker_image_id: '22605'
 organization_id: '2014052'
 title: Levantine Cultural Center
@@ -30,6 +23,13 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102117'
+project_titles:
+  - >-
+    Creating Community With L.A.'s Cultural Center for the Middle East/North
+    Africa
+  - >-
+    Creating Community With L.A.s Cultural Center for the Middle East/North
+    Africa
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'

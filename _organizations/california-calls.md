@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: XyASgYDVS_Q
-project_titles:
-  - >-
-    Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in
-    Low-Income Neighborhoods
-  - >-
-    Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in
-    LowIncome Neighborhoods
 organization_id: '2013026'
 title: California Calls
 org_type: Nonprofit
@@ -70,6 +63,13 @@ project_image: 'https://img.youtube.com/vi/XyASgYDVS_Q/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102048'
+project_titles:
+  - >-
+    Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in
+    Low-Income Neighborhoods
+  - >-
+    Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in
+    LowIncome Neighborhoods
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'

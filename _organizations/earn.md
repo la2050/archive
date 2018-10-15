@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: Earnlogopage2.jpg
-project_titles:
-  - 'Turning Effort Into Opportunity Through Saving '
-  - Turning Effort Into Opportunity Through Saving
 maker_image_id: '23728'
 organization_id: '2015054'
 title: EARN
@@ -26,6 +23,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102089'
+project_titles:
+  - 'Turning Effort Into Opportunity Through Saving '
+  - Turning Effort Into Opportunity Through Saving
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/save.html'

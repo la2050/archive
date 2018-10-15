@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Explore Los Angeles's past, present, and future in augmented reality through
-    Perceptoscope
 organization_id: '2016170'
 title: Perceptoscope
 org_type: Forprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/GCBLHUIW9FI?rel=0&amp;showinfo=0'
 project_ids:
   - '6102215'
+project_titles:
+  - >-
+    Explore Los Angeles's past, present, and future in augmented reality through
+    Perceptoscope
 aggregated:
   challenge_url:
     - >-

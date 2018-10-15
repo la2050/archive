@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 5tvdNOJ7fCw
-project_titles:
-  - CREATE Project
 organization_id: '2015208'
 title: The University Corporation
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102313'
+project_titles:
+  - CREATE Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'

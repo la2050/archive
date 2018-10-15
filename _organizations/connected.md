@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Careers Come Alive Virtually  in the Classroom by Connecting Students,
-    Teachers & Workplace Experts
 organization_id: '2016056'
 title: ConnectEd
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102054'
+project_titles:
+  - >-
+    Careers Come Alive Virtually  in the Classroom by Connecting Students,
+    Teachers & Workplace Experts
 aggregated:
   challenge_url:
     - >-

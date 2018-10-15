@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Lounge_Rendering.jpg
-project_titles:
-  - 'Craft Meets Impact: Hub LA Media Lab'
 maker_image_id: '17015'
 organization_id: '2013092'
 title: Hub Los Angeles
@@ -50,6 +48,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102056'
+project_titles:
+  - 'Craft Meets Impact: Hub LA Media Lab'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/thehubla.html'

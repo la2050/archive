@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    NAMI Home Front  is people impacted by mental illness helping Veterans and
-    their families.
 organization_id: '2016152'
 title: NAMI San Fernando Valley
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/nIjlAQbq7q4?rel=0&amp;showinfo=0'
 project_ids:
   - '6102160'
+project_titles:
+  - >-
+    NAMI Home Front  is people impacted by mental illness helping Veterans and
+    their families.
 aggregated:
   challenge_url:
     - >-

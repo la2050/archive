@@ -1,12 +1,4 @@
 ---
-project_titles:
-  - >-
-    Bringing STEM to City Year After-School Programs in Boyle Heights and
-    Pico-Union
-  - Imagine. Recruit. Transform. Inspire.
-  - >-
-    City Year Los Angeles Expansion into two PLAS High Schools: Jordan and
-    Roosevelt
 organization_id: '2018027'
 title: City Year Los Angeles
 org_type: Nonprofit
@@ -32,6 +24,14 @@ project_ids:
   - '8102027'
   - '6102040'
   - '4102038'
+project_titles:
+  - >-
+    Bringing STEM to City Year After-School Programs in Boyle Heights and
+    Pico-Union
+  - Imagine. Recruit. Transform. Inspire.
+  - >-
+    City Year Los Angeles Expansion into two PLAS High Schools: Jordan and
+    Roosevelt
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/city-year-los-angeles/'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Cabrillo_High_School_Campus.JPG
-project_titles:
-  - Lifelong Mentoring for All
 maker_image_id: '23218'
 organization_id: '2015137'
 title: MentorMint
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102206'
+project_titles:
+  - Lifelong Mentoring for All
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/MentorMint.html'

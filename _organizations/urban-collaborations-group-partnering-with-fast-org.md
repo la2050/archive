@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: LA2050-Hero.jpg
-project_titles:
-  - 'CUT MY COMMUTE: CHANGING LA''S QUALITY OF LIFE THROUGH LOCAL HIRE'
 maker_image_id: '22419'
 organization_id: '2014220'
 title: Urban Collaborations Group (Partnering with FAST.org)
@@ -21,6 +19,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102255'
+project_titles:
+  - 'CUT MY COMMUTE: CHANGING LA''S QUALITY OF LIFE THROUGH LOCAL HIRE'
 aggregated:
   challenge_url: []
   year_submitted:

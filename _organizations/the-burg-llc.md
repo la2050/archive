@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'The Burg: LA''s Community Platform'
 organization_id: '2018118'
 title: 'The Burg, LLC'
 org_type: Social enterprise or Bcorps
@@ -22,6 +20,8 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/th
 project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
 project_ids:
   - '8102118'
+project_titles:
+  - 'The Burg: LA''s Community Platform'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/the-burg-llc/'

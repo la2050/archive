@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    ELIMINATING THE GRAY: LEVERAGING THEATER TO END SEXUAL VIOLENCE ON COLLEGE
-    CAMPUSES
 organization_id: '2016224'
 title: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
 org_type: Forprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/sGB-wEyY8Ic?rel=0&amp;showinfo=0'
 project_ids:
   - '6102260'
+project_titles:
+  - >-
+    ELIMINATING THE GRAY: LEVERAGING THEATER TO END SEXUAL VIOLENCE ON COLLEGE
+    CAMPUSES
 aggregated:
   challenge_url:
     - >-

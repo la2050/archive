@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Camino to College: Paving the Way To and Through College for Urban Youth'
-  - Candice Ryu
 organization_id: '2016034'
 title: Camino Nuevo Charter Academy
 org_type: Nonprofit
@@ -25,6 +22,9 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/iDCnFxfgu1o?rel=0&amp;showinfo=0'
 project_ids:
   - '6102030'
+project_titles:
+  - 'Camino to College: Paving the Way To and Through College for Urban Youth'
+  - Candice Ryu
 aggregated:
   challenge_url:
     - >-

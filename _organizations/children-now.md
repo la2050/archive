@@ -1,12 +1,4 @@
 ---
-project_titles:
-  - 'A Pro-Kid LA: Building The Children’s Movement in Los Angeles'
-  - 'Leveraging The Children’s Movement to Make LA the Best Place to Learn '
-  - Lifting Up LA’s Voice for Kids to Live Trauma-Free by 2050
-  - >-
-    Making LA the Best Place to Connect Angelenos to Support a Strong Start for
-    Niñitos
-  - Leveraging The Children’s Movement to Make LA the Best Place to Learn
 organization_id: '2018019'
 title: Children Now
 org_type: Nonprofit
@@ -34,6 +26,14 @@ project_ids:
   - '6102034'
   - '5102052'
   - '4102035'
+project_titles:
+  - 'A Pro-Kid LA: Building The Children’s Movement in Los Angeles'
+  - 'Leveraging The Children’s Movement to Make LA the Best Place to Learn '
+  - Lifting Up LA’s Voice for Kids to Live Trauma-Free by 2050
+  - >-
+    Making LA the Best Place to Connect Angelenos to Support a Strong Start for
+    Niñitos
+  - Leveraging The Children’s Movement to Make LA the Best Place to Learn
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/children-now/'

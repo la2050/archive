@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    VolunteerLA will mobilize Angelenos to volunteer and create long-lasting
-    change.
 organization_id: '2018081'
 title: Mayor’s Fund for Los Angeles
 org_type: Nonprofit
@@ -32,6 +28,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102081'
+project_titles:
+  - >-
+    VolunteerLA will mobilize Angelenos to volunteer and create long-lasting
+    change.
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'

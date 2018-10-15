@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Support the annual Hollywood Fringe Festival including expanding the Fringe
-    Scholarships program
 organization_id: '2016102'
 title: Hollywood Fringe Festival (Hatchery Arts)
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/zSYYJz2FUBw?rel=0&amp;showinfo=0'
 project_ids:
   - '6102094'
+project_titles:
+  - >-
+    Support the annual Hollywood Fringe Festival including expanding the Fringe
+    Scholarships program
 aggregated:
   challenge_url:
     - >-

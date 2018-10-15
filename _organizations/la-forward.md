@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
-    Sustainable Los Angeles
-  - >-
-    Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
-    Sustainable Los Angeles 
 organization_id: '2018062'
 title: LA Forward
 org_type: Nonprofit
@@ -28,6 +21,13 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la
 project_video: 'https://youtu.be/iK1p6nJf5bg'
 project_ids:
   - '8102062'
+project_titles:
+  - >-
+    Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
+    Sustainable Los Angeles
+  - >-
+    Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
+    Sustainable Los Angeles 
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/la-forward/'

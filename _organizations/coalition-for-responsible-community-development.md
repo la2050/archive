@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Community Uniting for Resolution and Empowerment (CURE)
 organization_id: '2016044'
 title: Coalition for Responsible Community Development
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/oHWTV6mzQbg?rel=0&amp;showinfo=0'
 project_ids:
   - '6102044'
+project_titles:
+  - Community Uniting for Resolution and Empowerment (CURE)
 aggregated:
   challenge_url:
     - >-

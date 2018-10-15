@@ -1,9 +1,5 @@
 ---
 maker_image_file_name: vidaenequilibrio.png
-project_titles:
-  - >-
-    Vida en equilibrio:Aplicación móvil para el bienestar/Life in Balance: A
-    Mobile Wellness Application
 maker_image_id: '23673'
 organization_id: '2015157'
 title: Polar Tech Ed and Consulting LLC/Patrick Leon
@@ -28,6 +24,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102240'
+project_titles:
+  - >-
+    Vida en equilibrio:Aplicación móvil para el bienestar/Life in Balance: A
+    Mobile Wellness Application
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'

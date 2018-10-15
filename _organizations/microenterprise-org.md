@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 0qhd1kRJ698
-project_titles:
-  - The Microenterprise Program
 organization_id: '2015138'
 title: Microenterprise.org
 org_type: Forprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102207'
+project_titles:
+  - The Microenterprise Program
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'

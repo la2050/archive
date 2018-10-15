@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: _BC4Wfw6Gb4
-project_titles:
-  - Leimert Park Village Studios
 organization_id: '2014038'
 title: Friends of the VisionTheater
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/_BC4Wfw6Gb4/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102078'
+project_titles:
+  - Leimert Park Village Studios
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'

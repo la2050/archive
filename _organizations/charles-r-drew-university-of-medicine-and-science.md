@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Saturday Science Academy II: Preparing the Next Generation of STEM & Health
-    Care Leaders
 organization_id: '2018017'
 title: Charles R. Drew University of Medicine and Science
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=9xHS8SSMejQ'
 project_ids:
   - '8102017'
+project_titles:
+  - >-
+    Saturday Science Academy II: Preparing the Next Generation of STEM & Health
+    Care Leaders
 aggregated:
   challenge_url:
     - >-

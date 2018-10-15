@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: BtUB4Ycebms
-project_titles:
-  - >-
-    Poesia Para La Gente & Writ Large Press Present: The Neighborhood
-    Literary-scape Project
 organization_id: '2014011'
 title: Avenue 50 Studio
 org_type: Nonprofit
@@ -25,6 +21,10 @@ project_image: 'https://img.youtube.com/vi/BtUB4Ycebms/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102018'
+project_titles:
+  - >-
+    Poesia Para La Gente & Writ Large Press Present: The Neighborhood
+    Literary-scape Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/NEIGHBORHOODLITSCAPE.html'

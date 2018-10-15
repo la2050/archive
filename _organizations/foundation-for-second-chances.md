@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: c9y0Bp8kgT4
-project_titles:
-  - Creating Brighter Futures through Second Chances
 organization_id: '2015066'
 title: Foundation for Second Chances
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102104'
+project_titles:
+  - Creating Brighter Futures through Second Chances
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/SecondChances.html'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: gyQdQTAWs0U
-project_titles:
-  - Fandango Obon Project / Proyecto Fandango Obon
 organization_id: '2013084'
 title: 'Great Leap, Inc.'
 org_type: Nonprofit
@@ -57,6 +55,8 @@ project_image: 'https://img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102142'
+project_titles:
+  - Fandango Obon Project / Proyecto Fandango Obon
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FandangObon2050.html'

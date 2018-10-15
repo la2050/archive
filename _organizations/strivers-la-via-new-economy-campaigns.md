@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: lz8FDz2KN0s
-project_titles:
-  - Strivers.LA - digital tools for student success
 organization_id: '2014194'
 title: Strivers.LA via New Economy Campaigns
 org_type: Forprofit
@@ -19,6 +17,8 @@ project_image: 'https://img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102202'
+project_titles:
+  - Strivers.LA - digital tools for student success
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/striversLA.html'

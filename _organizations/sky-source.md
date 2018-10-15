@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
-    Water to the Community 
-  - >-
-    Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
-    Water to the Community
 organization_id: '2016194'
 title: Sky Source
 org_type: Forprofit
@@ -28,6 +21,13 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/d0EPG2F9qzk?rel=0&amp;showinfo=0'
 project_ids:
   - '6102229'
+project_titles:
+  - >-
+    Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
+    Water to the Community 
+  - >-
+    Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
+    Water to the Community
 aggregated:
   challenge_url:
     - >-

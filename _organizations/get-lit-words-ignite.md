@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    Get Lit Players go on a 'Lit for Literacy' Tour in Los Angeles' first Poetry
-    Bus!
-  - >-
-    Literary Riot Creative Collective: A Radically Inclusive Youth-Led Content
-    Studio
 organization_id: '2018044'
 title: Get Lit - Words Ignite
 org_type: Nonprofit
@@ -30,6 +23,13 @@ project_video: 'https://youtu.be/ioZuMb9vLz8'
 project_ids:
   - '8102044'
   - '6102080'
+project_titles:
+  - >-
+    Get Lit Players go on a 'Lit for Literacy' Tour in Los Angeles' first Poetry
+    Bus!
+  - >-
+    Literary Riot Creative Collective: A Radically Inclusive Youth-Led Content
+    Studio
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/get-lit-words-ignite/'

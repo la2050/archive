@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Gracias Music Foundation: Cultivating and empowering musicians that give
-    back to the community
 organization_id: '2018048'
 title: Gracias Music Foundation
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=EeCBqVA5f_g'
 project_ids:
   - '8102048'
+project_titles:
+  - >-
+    Gracias Music Foundation: Cultivating and empowering musicians that give
+    back to the community
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/gracias-music-foundation/'

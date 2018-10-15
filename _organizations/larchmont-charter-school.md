@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Larchmont Social Justice Alliance allows youth to speak up for social
-    justice with a literary voice.
 organization_id: '2018064'
 title: Larchmont Charter School
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
 project_ids:
   - '8102064'
+project_titles:
+  - >-
+    Larchmont Social Justice Alliance allows youth to speak up for social
+    justice with a literary voice.
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/larchmont-charter-school/'

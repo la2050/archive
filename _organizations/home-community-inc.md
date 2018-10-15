@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: zs2Oe9X1llQ
-project_titles:
-  - Original Green Community Food Hub
 organization_id: '2014151'
 title: home&community inc
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102144'
+project_titles:
+  - Original Green Community Food Hub
 aggregated:
   challenge_url: []
   year_submitted:

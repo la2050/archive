@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - SK8 4 Education
 organization_id: '2016218'
 title: The Garage Board Shop
 org_type: Forprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://youtu.be/HSe2pclx0MU?rel=0&amp;showinfo=0'
 project_ids:
   - '6102248'
+project_titles:
+  - SK8 4 Education
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/sk8-4-education'

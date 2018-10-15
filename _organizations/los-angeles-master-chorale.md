@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Big Sing LA
 organization_id: '2018076'
 title: Los Angeles Master Chorale
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=hYsa-tWNTm8'
 project_ids:
   - '8102076'
+project_titles:
+  - Big Sing LA
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/los-angeles-master-chorale/'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: GFS_PHOTO_1.png
-project_titles:
-  - Ghetto Film School -- Los Angeles
 maker_image_id: '21361'
 organization_id: '2014040'
 title: Ghetto Film School
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102083'
+project_titles:
+  - Ghetto Film School -- Los Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/GFSLA.html'

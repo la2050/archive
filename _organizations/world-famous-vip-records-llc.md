@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - World Famous VIP Records Business Incubator and Multi Media Center
 organization_id: '2018138'
 title: World Famous VIP Records LLC
 org_type: Social enterprise or Bcorps
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102138'
+project_titles:
+  - World Famous VIP Records Business Incubator and Multi Media Center
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/world-famous-vip-records-llc/'

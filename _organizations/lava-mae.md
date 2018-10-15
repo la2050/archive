@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Shower Power: Rekindling Dignity & Unlocking Opportunity for our Houseless
-    Neighbors
 organization_id: '2018066'
 title: Lava Mae
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la
 project_video: 'https://www.youtube.com/watch?v=Uxp2LencnXs'
 project_ids:
   - '8102066'
+project_titles:
+  - >-
+    Shower Power: Rekindling Dignity & Unlocking Opportunity for our Houseless
+    Neighbors
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/lava-mae/'

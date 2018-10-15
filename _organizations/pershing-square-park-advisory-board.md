@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
-project_titles:
-  - Kids Play at Pershing Square
 maker_image_id: '20546'
 organization_id: '2014067'
 title: Pershing Square Park Advisory Board
@@ -26,6 +24,8 @@ project_video: ''
 project_ids:
   - '4102167'
   - '3102218'
+project_titles:
+  - Kids Play at Pershing Square
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'

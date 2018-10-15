@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
-    through Electronic Music
 organization_id: '2016070'
 title: EMX Los Angeles
 org_type: Forprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/wTWVo0OKkL8?rel=0&amp;showinfo=0'
 project_ids:
   - '6102138'
+project_titles:
+  - >-
+    EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
+    through Electronic Music
 aggregated:
   challenge_url:
     - >-

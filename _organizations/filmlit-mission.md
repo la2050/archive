@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - FILMLIT BARTER SKILLS CURRICULUM™ w/JOB CORPS LA!
 organization_id: '2016077'
 title: FILMLIT MISSION
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102067'
+project_titles:
+  - FILMLIT BARTER SKILLS CURRICULUM™ w/JOB CORPS LA!
 aggregated:
   challenge_url:
     - >-

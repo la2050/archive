@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: t_fQo1Z6VSg
-project_titles:
-  - Hollywood Central Park proves that LA is the Best Place to Play
 organization_id: '2015068'
 title: Friends of the Hollywood Central Park (FHCP)
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102106'
+project_titles:
+  - Hollywood Central Park proves that LA is the Best Place to Play
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'

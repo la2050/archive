@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Los Angeles is a Puzzle; Together We Make Sense of It
-  - Students Engaging Los Angeles
 organization_id: '2018077'
 title: Los Angeles Service Academy (LASA)
 org_type: Nonprofit
@@ -28,6 +25,9 @@ project_video: 'https://youtu.be/uGjAQ4LYDr8'
 project_ids:
   - '8102077'
   - '6102145'
+project_titles:
+  - Los Angeles is a Puzzle; Together We Make Sense of It
+  - Students Engaging Los Angeles
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Healing City Soils and Sowing Seeds for Tomorrow
 organization_id: '2018099'
 title: 'Proyecto Jardin: A Project of Hunger Action LA'
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.facebook.com/269671146378710/videos/476537755692047/'
 project_ids:
   - '8102099'
+project_titles:
+  - Healing City Soils and Sowing Seeds for Tomorrow
 aggregated:
   challenge_url:
     - >-

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 0CZIOxlCozk
-project_titles:
-  - Visual Arts Education at Heart of Los Angeles
 organization_id: '2013089'
 title: Heart of Los Angeles (HOLA)
 org_type: Nonprofit
@@ -90,6 +88,8 @@ project_image: 'https://img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102147'
+project_titles:
+  - Visual Arts Education at Heart of Los Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/heartofla.html'

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    EcoMapLA is todays roadmap for a tomorrow that is social, economic and
-    environmental sustainable
 organization_id: '2016249'
 title: US Green Building Council-LA
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: 'https://myatlascms.com/map/?id=901?rel=0&amp;showinfo=0'
 project_ids:
   - '6102276'
+project_titles:
+  - >-
+    EcoMapLA is todays roadmap for a tomorrow that is social, economic and
+    environmental sustainable
 aggregated:
   challenge_url:
     - >-

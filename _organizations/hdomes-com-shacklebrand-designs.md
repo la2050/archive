@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: large_domes-134_crop.jpg
-project_titles:
-  - Dome4aHome A revolutionary idea for low-income housing
 maker_image_id: '23466'
 organization_id: '2015082'
 title: 'HDomes.com, Shacklebrand Designs'
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102128'
+project_titles:
+  - Dome4aHome A revolutionary idea for low-income housing
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'

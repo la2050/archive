@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Screen_shot_2013-03-28_at_2.40.43_PM.png
-project_titles:
-  - Mentoring through Education Movement
 maker_image_id: '17103'
 organization_id: '2013042'
 title: Collaborative Tutoring
@@ -45,6 +43,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102020'
+project_titles:
+  - Mentoring through Education Movement
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'

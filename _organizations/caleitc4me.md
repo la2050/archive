@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Financial Security for Low-Income Angelenos
 organization_id: '2018012'
 title: CalEITC4Me
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/calei
 project_video: 'https://www.youtube.com/watch?v=55FW0fd5Mh4'
 project_ids:
   - '8102012'
+project_titles:
+  - Financial Security for Low-Income Angelenos
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/caleitc4me/'

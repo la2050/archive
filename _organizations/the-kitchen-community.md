@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Happy_Greens.jpg
-project_titles:
-  - Every Kid Deserves a Learning Garden
 maker_image_id: '21882'
 organization_id: '2014203'
 title: The Kitchen Community
@@ -21,6 +19,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102156'
+project_titles:
+  - Every Kid Deserves a Learning Garden
 aggregated:
   challenge_url: []
   year_submitted:

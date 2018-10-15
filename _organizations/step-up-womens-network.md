@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: 130126-0191.jpg
-project_titles:
-  - Professional women Step Up to help underserved teen girls graduate
 maker_image_id: '17003'
 organization_id: '2013172'
 title: Step Up Women's Network
@@ -72,6 +70,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102238'
+project_titles:
+  - Professional women Step Up to help underserved teen girls graduate
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/StepUp.html'

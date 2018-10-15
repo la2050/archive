@@ -1,12 +1,4 @@
 ---
-project_titles:
-  - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
-  - LA Landfill Harmonic Orchestra
-  - Robin Hoods of Rubbish for the LA LandfillHarmonics
-  - T4T.org’s Mobile Makers' Space with ReImagined Resources
-  - T4T.org’s ReImagined Resource Center STEAM Labs
-  - The Robin Hoods of Rubbish are building STEAM Labs!
-  - T4T.org’s Mobile Makers Space with ReImagined Resources
 organization_id: '2016205'
 title: T4T.org
 org_type: Nonprofit
@@ -35,6 +27,14 @@ project_ids:
   - '5102289'
   - '5102288'
   - '5102287'
+project_titles:
+  - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
+  - LA Landfill Harmonic Orchestra
+  - Robin Hoods of Rubbish for the LA LandfillHarmonics
+  - T4T.org’s Mobile Makers' Space with ReImagined Resources
+  - T4T.org’s ReImagined Resource Center STEAM Labs
+  - The Robin Hoods of Rubbish are building STEAM Labs!
+  - T4T.org’s Mobile Makers Space with ReImagined Resources
 aggregated:
   challenge_url:
     - >-

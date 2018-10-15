@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: LACGC_Community_Photo.jpg
-project_titles:
-  - Grow Healthy Food in Your Neighborhood!
-  - Growing a Healthy Los Angeles
 maker_image_id: '20229'
 organization_id: '2014165'
 title: Los Angeles Community Garden Council
@@ -27,6 +24,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102126'
+project_titles:
+  - Grow Healthy Food in Your Neighborhood!
+  - Growing a Healthy Los Angeles
 aggregated:
   challenge_url: []
   year_submitted:

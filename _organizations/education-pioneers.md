@@ -1,11 +1,5 @@
 ---
 maker_image_file_name: FB_Cover_photo.jpg
-project_titles:
-  - >-
-    MyARC: A digital social network that solves educational challenges one
-    project at a time.
-  - 'The power in an hour: Putting time for teachers back in a principal''s day'
-  - 'The power in an hour: Putting time for teachers back in a principals day'
 maker_image_id: '16503'
 organization_id: '2013058'
 title: Education Pioneers
@@ -45,6 +39,12 @@ project_video: ''
 project_ids:
   - '3102120'
   - '3102006'
+project_titles:
+  - >-
+    MyARC: A digital social network that solves educational challenges one
+    project at a time.
+  - 'The power in an hour: Putting time for teachers back in a principal''s day'
+  - 'The power in an hour: Putting time for teachers back in a principals day'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/edpioneer.html'

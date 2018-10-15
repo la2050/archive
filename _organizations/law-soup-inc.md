@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: DRehRt5n68c
-project_titles:
-  - Law Soup LA
 organization_id: '2014050'
 title: 'Law Soup, Inc.'
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102114'
+project_titles:
+  - Law Soup LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'

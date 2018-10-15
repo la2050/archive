@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - Global Green’s Creative Reuse Coalition
-  - 'Global Green’s Creative Reuse Coalition '
-  - Los Angeles Resilience Hubs - Developing a Model for a Resilient City
 organization_id: '2018046'
 title: Global Green
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_video: 'https://www.youtube.com/watch?v=xtgKX6NE490'
 project_ids:
   - '8102046'
   - '6102083'
+project_titles:
+  - Global Green’s Creative Reuse Coalition
+  - 'Global Green’s Creative Reuse Coalition '
+  - Los Angeles Resilience Hubs - Developing a Model for a Resilient City
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/global-green/'

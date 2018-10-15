@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - LA Audubon - Urban Nature Explored
 organization_id: '2016133'
 title: Los Angeles Audubon Society (LAAS)
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
 project_ids:
   - '6102136'
+project_titles:
+  - LA Audubon - Urban Nature Explored
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'

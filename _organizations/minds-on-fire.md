@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: Slide1.jpg
-project_titles:
-  - 'Building A Community of Leaders, One Middle School Student at a Time'
-  - Building A Community of Leaders One Middle School Student at a Time
 maker_image_id: '16654'
 organization_id: '2013135'
 title: Minds on Fire
@@ -37,6 +34,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102075'
+project_titles:
+  - 'Building A Community of Leaders, One Middle School Student at a Time'
+  - Building A Community of Leaders One Middle School Student at a Time
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/mindsonfire.html'

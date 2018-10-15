@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    The PLACE: building an infrastructure of support for emerging artists and
-    their mentors.
 organization_id: '2016067'
 title: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/v3ftc0qxlwI?rel=0?rel=0&amp;showinfo=0'
 project_ids:
   - '6102062'
+project_titles:
+  - >-
+    The PLACE: building an infrastructure of support for emerging artists and
+    their mentors.
 aggregated:
   challenge_url:
     - >-

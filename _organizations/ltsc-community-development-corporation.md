@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: LTSC_LA2050.jpg
-project_titles:
-  - Re-Connecting L.A. Neighborhoods through Music & History
-  - ReConnecting L.A. Neighborhoods through Music & History
 maker_image_id: '16930'
 organization_id: '2013128'
 title: LTSC Community Development Corporation
@@ -73,6 +70,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102192'
+project_titles:
+  - Re-Connecting L.A. Neighborhoods through Music & History
+  - ReConnecting L.A. Neighborhoods through Music & History
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LTSC.html'

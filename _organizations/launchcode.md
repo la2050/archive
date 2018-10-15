@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Get Los Angeles Back to Work!
 organization_id: '2016129'
 title: LaunchCode
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/pZ7s6I73bNU?rel=0&amp;showinfo=0'
 project_ids:
   - '6102130'
+project_titles:
+  - Get Los Angeles Back to Work!
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/get-los-angeles-back-to-work!'

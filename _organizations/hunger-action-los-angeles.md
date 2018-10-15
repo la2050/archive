@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Market_Match_Booth_Adams.Vermont_1.jpg
-project_titles:
-  - 'Market Match Program : Making Healthy Food Affordable'
 maker_image_id: '22352'
 organization_id: '2014152'
 title: Hunger Action Los Angeles
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102208'
+project_titles:
+  - 'Market Match Program : Making Healthy Food Affordable'
 aggregated:
   challenge_url: []
   year_submitted:

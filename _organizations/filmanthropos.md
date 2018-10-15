@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: '--BnysezHK0'
-project_titles:
-  - Empowering LAUSD with a Transmedia Education Platform for Change
-  - Leading Change with PrdouceAthons
-  - Leading Change with ProducAthons
 organization_id: '2013066'
 title: Filmanthropos
 org_type: For profit
@@ -29,6 +25,10 @@ project_image: 'https://img.youtube.com/vi/--BnysezHK0/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102044'
+project_titles:
+  - Empowering LAUSD with a Transmedia Education Platform for Change
+  - Leading Change with PrdouceAthons
+  - Leading Change with ProducAthons
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/filmanthropos.html'

@@ -1,14 +1,4 @@
 ---
-project_titles:
-  - >-
-    La Paletera de los Angeles - Fruit Bars, Cold Drinks, Healthy Delicious
-    Snacks.
-  - 'Paint to Succeed '
-  - 'Telenovelas in the Park, a new way of learning!'
-  - >-
-    La Paletera de los Angeles - Fruit Bars Cold Drinks Healthy Delicious
-    Snacks.
-  - Buy a paleta and secure a womans future.
 organization_id: '2016150'
 title: Mujeres de la Tierra
 org_type: Nonprofit
@@ -35,6 +25,16 @@ project_ids:
   - '5102268'
   - '5102214'
   - '4102151'
+project_titles:
+  - >-
+    La Paletera de los Angeles - Fruit Bars, Cold Drinks, Healthy Delicious
+    Snacks.
+  - 'Paint to Succeed '
+  - 'Telenovelas in the Park, a new way of learning!'
+  - >-
+    La Paletera de los Angeles - Fruit Bars Cold Drinks Healthy Delicious
+    Snacks.
+  - Buy a paleta and secure a womans future.
 aggregated:
   challenge_url:
     - >-

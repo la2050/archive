@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: ghRsAe0AExM
-project_titles:
-  - Youth for Environmental Justice and Community Revitalization
 organization_id: '2015042'
 title: Communities for a Better Environment
 org_type: Nonprofit
@@ -33,6 +31,8 @@ project_image: 'https://img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102084'
+project_titles:
+  - Youth for Environmental Justice and Community Revitalization
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'

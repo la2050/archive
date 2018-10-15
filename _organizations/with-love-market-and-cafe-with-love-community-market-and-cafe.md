@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: HVOvMO9t6Gk
-project_titles:
-  - >-
-    With Love Market and Cafe: bringing healthy food, jobs, and community to
-    Southwest LA
-  - >-
-    With Love Market and Cafe: bringing healthy food jobs and community to
-    Southwest LA
 organization_id: '2014107'
 title: 'With Love Market and Cafe, With Love Community Market and Cafe'
 org_type: Forprofit
@@ -28,6 +21,13 @@ project_image: 'https://img.youtube.com/vi/HVOvMO9t6Gk/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102257'
+project_titles:
+  - >-
+    With Love Market and Cafe: bringing healthy food, jobs, and community to
+    Southwest LA
+  - >-
+    With Love Market and Cafe: bringing healthy food jobs and community to
+    Southwest LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'

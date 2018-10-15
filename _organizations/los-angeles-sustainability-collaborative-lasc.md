@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: 5971_LASC_Poster_07_(1).jpg
-project_titles:
-  - Securing a Sustainable and Empowered Los Angeles
 maker_image_id: '22723'
 organization_id: '2014171'
 title: Los Angeles Sustainability Collaborative (LASC)
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102240'
+project_titles:
+  - Securing a Sustainable and Empowered Los Angeles
 aggregated:
   challenge_url: []
   year_submitted:

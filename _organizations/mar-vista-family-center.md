@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - The Youth New A.G.E Initiative
 organization_id: '2018080'
 title: Mar Vista Family Center
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://youtu.be/4ejRwTEFlUg'
 project_ids:
   - '8102080'
+project_titles:
+  - The Youth New A.G.E Initiative
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/mar-vista-family-center/'

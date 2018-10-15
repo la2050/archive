@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Laying the Groundwork for a Park on the LA River
 organization_id: '2016042'
 title: Clockshop & California State Parks
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/9rEbX6VgLaA?rel=0&amp;showinfo=0'
 project_ids:
   - '6102042'
+project_titles:
+  - Laying the Groundwork for a Park on the LA River
 aggregated:
   challenge_url:
     - >-

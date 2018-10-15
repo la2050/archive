@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Empowering You to Create Your Legacy
 organization_id: '2016116'
 title: Just As You Are Legacy
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/MPnJxlMhByQ?rel=0&amp;showinfo=0'
 project_ids:
   - '6102112'
+project_titles:
+  - Empowering You to Create Your Legacy
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'

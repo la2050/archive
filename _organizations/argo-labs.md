@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Street Quality Identification Device aka SQUID
 organization_id: '2016012'
 title: ARGO Labs
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/QzMCTIdxpoc?rel=0&amp;showinfo=0'
 project_ids:
   - '6102009'
+project_titles:
+  - Street Quality Identification Device aka SQUID
 aggregated:
   challenge_url:
     - >-

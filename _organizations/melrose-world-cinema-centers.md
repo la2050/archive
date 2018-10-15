@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: OWW_logo_and_logline.jpg
-project_titles:
-  - ONE LIFE LOS ANGELES
 maker_image_id: '23763'
 organization_id: '2015136'
 title: Melrose World Cinema Centers
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102205'
+project_titles:
+  - ONE LIFE LOS ANGELES
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/ONELIFELOSANGELES.html'

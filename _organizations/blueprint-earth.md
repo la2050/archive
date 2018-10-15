@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: H-S2LiQcO00
-project_titles:
-  - >-
-    Blueprint Earth is Making Los Angeles the Environmental Science Capital of
-    the World
 organization_id: '2015018'
 title: Blueprint Earth
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: 'https://img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102031'
+project_titles:
+  - >-
+    Blueprint Earth is Making Los Angeles the Environmental Science Capital of
+    the World
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'

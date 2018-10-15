@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Shank_130920_453.jpg
-project_titles:
-  - 'Los Angeles Performance Practice: Innovative Performance in DTLA'
 maker_image_id: '21753'
 organization_id: '2014056'
 title: Los Angeles Performance Practice
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102133'
+project_titles:
+  - 'Los Angeles Performance Practice: Innovative Performance in DTLA'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'

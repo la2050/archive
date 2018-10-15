@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: LA2050_Cover_image_flattened2.jpg
-project_titles:
-  - Ballona Creek Pedestrian/Bike Connector Bridge
 maker_image_id: '23805'
 organization_id: '2015194'
 title: Tagliaferri Howard Architecture
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102290'
+project_titles:
+  - Ballona Creek Pedestrian/Bike Connector Bridge
 aggregated:
   challenge_url:
     - >-

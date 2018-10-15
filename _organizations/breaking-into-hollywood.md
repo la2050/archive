@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: GLojtCpWaz4
-project_titles:
-  - >-
-    STARS (Super Talented Artists' Resource Studio) Fosters Artistic
-    Entrepreneurship in L.A. 
-  - >-
-    STARS (Super Talented Artists Resource Studio) Fosters Artistic
-    Entrepreneurship in L.A.
 organization_id: '2015021'
 title: Breaking into Hollywood
 org_type: Nonprofit
@@ -30,6 +23,13 @@ project_image: 'https://img.youtube.com/vi/GLojtCpWaz4/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102035'
+project_titles:
+  - >-
+    STARS (Super Talented Artists' Resource Studio) Fosters Artistic
+    Entrepreneurship in L.A. 
+  - >-
+    STARS (Super Talented Artists Resource Studio) Fosters Artistic
+    Entrepreneurship in L.A.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/STARS.html'

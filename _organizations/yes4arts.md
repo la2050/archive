@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: Yes4arts_picture_image.jpeg
-project_titles:
-  - ' Bringing sewing, crochet, and knitting back to schools and communities'
-  - Bringing sewing crochet and knitting back to schools and communities
 maker_image_id: '23223'
 organization_id: '2015227'
 title: Yes4arts
@@ -27,6 +24,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102343'
+project_titles:
+  - ' Bringing sewing, crochet, and knitting back to schools and communities'
+  - Bringing sewing crochet and knitting back to schools and communities
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'

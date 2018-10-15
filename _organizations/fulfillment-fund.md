@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Destination_College_Photo.jpg
-project_titles:
-  - Destination College
 maker_image_id: '16910'
 organization_id: '2013077'
 title: Fulfillment Fund
@@ -58,6 +56,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102136'
+project_titles:
+  - Destination College
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: vertical_AP_kit_3.jpg
-project_titles:
-  - 25 Aquaponic Farms in 25 Schools
 maker_image_id: '16774'
 organization_id: '2013064'
 title: Evo Farm
@@ -55,6 +53,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102040'
+project_titles:
+  - 25 Aquaponic Farms in 25 Schools
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/aquaponics.html'

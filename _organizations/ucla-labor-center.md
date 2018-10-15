@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: Yogg_bV8Dew
-project_titles:
-  - Dream Resource Center
 organization_id: '2013202'
 title: UCLA Labor Center
 org_type: Nonprofit
@@ -49,6 +47,8 @@ project_image: 'https://img.youtube.com/vi/Yogg_bV8Dew/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102262'
+project_titles:
+  - Dream Resource Center
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Dream.html'

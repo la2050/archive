@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: FLOW-image-2.jpg
-project_titles:
-  - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
 maker_image_id: '16416'
 organization_id: '2013067'
 title: First Look West
@@ -80,6 +78,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102127'
+project_titles:
+  - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FLOW.html'

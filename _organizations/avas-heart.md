@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - The Transplant Journey
 organization_id: '2016017'
 title: Ava's Heart
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/-pcpeiJq118?rel=0&amp;showinfo=0'
 project_ids:
   - '6102014'
+project_titles:
+  - The Transplant Journey
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/the-transplant-journey'

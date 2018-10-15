@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: good.jpg
-project_titles:
-  - Mobile applications to connect volunteers & supporters to nonprofits
 maker_image_id: '20899'
 organization_id: '2014074'
 title: PwrdBy
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102178'
+project_titles:
+  - Mobile applications to connect volunteers & supporters to nonprofits
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'

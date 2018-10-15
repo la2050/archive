@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - A Way Home for Women & Children
-  - Building a Better LA - Helping to End Skid Row through Jobs
 organization_id: '2016242'
 title: Union Rescue Mission
 org_type: Nonprofit
@@ -28,6 +25,9 @@ project_video: 'https://www.youtube.com/embed/dtKGgHD0VHE?rel=0&amp;showinfo=0'
 project_ids:
   - '6102268'
   - '5102331'
+project_titles:
+  - A Way Home for Women & Children
+  - Building a Better LA - Helping to End Skid Row through Jobs
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/a-way-home-for-women-children'

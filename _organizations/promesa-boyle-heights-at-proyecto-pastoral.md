@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    Neighbor to neighbor: Empower Boyle Heights residents to help each other
-    access wellness resources.
-  - Promesa Boyle Heights
-  - 'Promesa Boyle Heights: Transforming our Community, Together.'
-  - 'Promesa Boyle Heights: Transforming our Community Together.'
 organization_id: '2018098'
 title: Promesa Boyle Heights at Proyecto Pastoral
 org_type: Nonprofit
@@ -32,6 +25,13 @@ project_ids:
   - '8102098'
   - '5102245'
   - '4102173'
+project_titles:
+  - >-
+    Neighbor to neighbor: Empower Boyle Heights residents to help each other
+    access wellness resources.
+  - Promesa Boyle Heights
+  - 'Promesa Boyle Heights: Transforming our Community, Together.'
+  - 'Promesa Boyle Heights: Transforming our Community Together.'
 aggregated:
   challenge_url:
     - >-

@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - A Healthy & Sustainable Environment to Play for Families in South LA
-  - Tickleberry Place Indoor Play Gym
-  - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
-  - Tickleberry Place
 organization_id: '2016238'
 title: Tickleberry Place
 org_type: Forprofit
@@ -30,6 +25,11 @@ project_ids:
   - '6102265'
   - '5102319'
   - '4102235'
+project_titles:
+  - A Healthy & Sustainable Environment to Play for Families in South LA
+  - Tickleberry Place Indoor Play Gym
+  - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
+  - Tickleberry Place
 aggregated:
   challenge_url:
     - >-

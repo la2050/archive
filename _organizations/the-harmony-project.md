@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Give Music Change Lives: The expansion of Harmony Project’s transformative
-    program into South LA
 organization_id: '2016219'
 title: The Harmony Project
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/Kep3gB10R3I?rel=0&amp;showinfo=0'
 project_ids:
   - '6102243'
+project_titles:
+  - >-
+    Give Music Change Lives: The expansion of Harmony Project’s transformative
+    program into South LA
 aggregated:
   challenge_url:
     - >-

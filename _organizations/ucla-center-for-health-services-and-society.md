@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    B-RESILIENT: An Engaging Text Messaging and Mobile App Created by the
-    Community for the Community
 organization_id: '2018129'
 title: UCLA Center for Health Services and Society
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=CDgr7CxOHfA'
 project_ids:
   - '8102129'
+project_titles:
+  - >-
+    B-RESILIENT: An Engaging Text Messaging and Mobile App Created by the
+    Community for the Community
 aggregated:
   challenge_url:
     - >-

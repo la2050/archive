@@ -1,10 +1,4 @@
 ---
-project_titles:
-  - 'The Digital District: A 21st Century Neighborhood of Los Angeles '
-  - >-
-    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
-    communities in LA.
-  - 'The Digital District: A 21st Century Neighborhood of Los Angeles'
 organization_id: '2016109'
 title: Impact Hub Los Angeles
 org_type: Forprofit
@@ -30,6 +24,12 @@ project_video: ''
 project_ids:
   - '6102179'
   - '5102139'
+project_titles:
+  - 'The Digital District: A 21st Century Neighborhood of Los Angeles '
+  - >-
+    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
+    communities in LA.
+  - 'The Digital District: A 21st Century Neighborhood of Los Angeles'
 aggregated:
   challenge_url:
     - >-

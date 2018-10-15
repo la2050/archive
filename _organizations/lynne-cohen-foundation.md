@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
-    Risk for Cancer
 organization_id: '2016143'
 title: Lynne Cohen Foundation
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://player.vimeo.com/video/123870044?rel=0&amp;showinfo=0'
 project_ids:
   - '6102150'
+project_titles:
+  - >-
+    Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
+    Risk for Cancer
 aggregated:
   challenge_url:
     - >-

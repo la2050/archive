@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: BSvlFmSuKyw
-project_titles:
-  - Human Resources L.A. Artist Residency Program!
 organization_id: '2013093'
 title: Human Resources L.A.
 org_type: Nonprofit
@@ -40,6 +38,8 @@ project_image: 'https://img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102151'
+project_titles:
+  - Human Resources L.A. Artist Residency Program!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/hrlaartresidency.html'

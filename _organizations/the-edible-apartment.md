@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Planting Gardens of Urban Delight!
-  - The Edible Apartment
 organization_id: '2016216'
 title: The Edible Apartment
 org_type: Nonprofit
@@ -27,6 +24,9 @@ project_video: 'https://www.youtube.com/embed/tdnjWY1fGj0?rel=0&amp;showinfo=0'
 project_ids:
   - '6102240'
   - '5102301'
+project_titles:
+  - Planting Gardens of Urban Delight!
+  - The Edible Apartment
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: k-SpD948tJc
-project_titles:
-  - TMPST Action Parks provide creative movement to LA through play and fitness
 organization_id: '2015195'
 title: Tempest Action Parks
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102293'
+project_titles:
+  - TMPST Action Parks provide creative movement to LA through play and fitness
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'

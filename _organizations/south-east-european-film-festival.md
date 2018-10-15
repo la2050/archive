@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: qtJ5XumU1Gw
-project_titles:
-  - BALKAN - L.A. CULTURAL CROSSROADS
 organization_id: '2014083'
 title: South East European Film Festival
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102194'
+project_titles:
+  - BALKAN - L.A. CULTURAL CROSSROADS
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'

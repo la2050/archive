@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
-project_titles:
-  - LA Mobilized
 maker_image_id: '23743'
 organization_id: '2015220'
 title: >-
@@ -30,6 +28,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102335'
+project_titles:
+  - LA Mobilized
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'

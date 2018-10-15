@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - STEAM Carnival in South Los Angeles
 organization_id: '2018128'
 title: Two Bit Circus Foundation
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=6ZaOSqWls54'
 project_ids:
   - '8102128'
+project_titles:
+  - STEAM Carnival in South Los Angeles
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/two-bit-circus-foundation/'

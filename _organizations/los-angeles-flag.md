@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Sky_Pic.png
-project_titles:
-  - L.A. Flag Redesign
 maker_image_id: '23596'
 organization_id: '2015124'
 title: Los Angeles Flag
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102189'
+project_titles:
+  - L.A. Flag Redesign
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'

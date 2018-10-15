@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: IMG_5905.JPG
-project_titles:
-  - 'Padres Creando Exito: Effective educators in every classroom, every school  '
-  - 'Padres Creando Exito: Effective educators in every classroom every school  '
 maker_image_id: '16427'
 organization_id: '2013006'
 title: Alliance for a Better Community
@@ -53,6 +50,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102012'
+project_titles:
+  - 'Padres Creando Exito: Effective educators in every classroom, every school  '
+  - 'Padres Creando Exito: Effective educators in every classroom every school  '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'

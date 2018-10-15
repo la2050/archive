@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: 1JDr-eMpJX4
-project_titles:
-  - This is the Moment!
 organization_id: '2014076'
 title: Rangoli Foundation for Art & Culture
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102181'
+project_titles:
+  - This is the Moment!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/moment.html'

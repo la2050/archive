@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - ENDLESS ORCHARD
-  - 'The Endless Orchard: Phase Two'
-  - Urban Fruit Trails
 organization_id: '2016076'
 title: Fallen Fruit
 org_type: Forprofit
@@ -29,6 +25,10 @@ project_video: 'https://www.youtube.com/embed/KA9t95cpVZs?rel=0&amp;showinfo=0'
 project_ids:
   - '6102146'
   - '3102043'
+project_titles:
+  - ENDLESS ORCHARD
+  - 'The Endless Orchard: Phase Two'
+  - Urban Fruit Trails
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/the-endless-orchard-phase-two'

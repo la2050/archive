@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: DSC02097-2.jpg
-project_titles:
-  - The Shed Pasadena
 maker_image_id: '21199'
 organization_id: '2014230'
 title: 'Zanja Madre, The Shed Pasadena, La Loma Development'
@@ -21,6 +19,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102093'
+project_titles:
+  - The Shed Pasadena
 aggregated:
   challenge_url: []
   year_submitted:

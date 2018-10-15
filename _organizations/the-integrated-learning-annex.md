@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Putting the human back into business.
 organization_id: '2016221'
 title: The integrated Learning Annex
 org_type: Forprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://player.vimeo.com/video/176509438?rel=0&amp;showinfo=0'
 project_ids:
   - '6102254'
+project_titles:
+  - Putting the human back into business.
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/putting-the-human-back-into-business'

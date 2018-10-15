@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: evolvela2.png
-project_titles:
-  - evolve.la
 maker_image_id: '16195'
 organization_id: '2013069'
 title: FLARB LLC
@@ -48,6 +46,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102046'
+project_titles:
+  - evolve.la
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/evolvela.html'

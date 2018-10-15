@@ -1,12 +1,5 @@
 ---
 maker_image_file_name: BRAINCANCERLA2050.jpg
-project_titles:
-  - >-
-    Development of a Multidisciplinary Los Angeles County-Based Brain Cancer
-    Program 
-  - >-
-    Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer
-    Program 
 maker_image_id: '16042'
 organization_id: '2013022'
 title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
@@ -57,6 +50,13 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102041'
+project_titles:
+  - >-
+    Development of a Multidisciplinary Los Angeles County-Based Brain Cancer
+    Program 
+  - >-
+    Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer
+    Program 
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'

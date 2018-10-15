@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: KHtt2okRChU
-project_titles:
-  - >-
-    Intersection Repair - Using art to create safer streets and stronger
-    communities
 organization_id: '2015044'
 title: 'Compiler LA, Utopiad.org'
 org_type: Forprofit
@@ -29,6 +25,10 @@ project_image: 'https://img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102075'
+project_titles:
+  - >-
+    Intersection Repair - Using art to create safer streets and stronger
+    communities
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'

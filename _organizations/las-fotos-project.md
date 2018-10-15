@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Connecting Communities through Fotos
-  - Las Fotos Project
 organization_id: '2016128'
 title: Las Fotos Project
 org_type: Nonprofit
@@ -26,6 +23,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102129'
+project_titles:
+  - Connecting Communities through Fotos
+  - Las Fotos Project
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'

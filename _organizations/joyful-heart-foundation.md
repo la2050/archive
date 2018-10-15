@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Joyful Heart Foundation’s Survivor Retreat Model
 organization_id: '2016115'
 title: Joyful Heart Foundation
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_video: ''
 project_ids:
   - '6102110'
   - '5102151'
+project_titles:
+  - Joyful Heart Foundation’s Survivor Retreat Model
 aggregated:
   challenge_url:
     - >-

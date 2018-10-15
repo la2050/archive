@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: a-3Yo_Yz5Vc
-project_titles:
-  - >-
-    Jumpstart: Delivering Quality Early Education To Close the Achievement Gap
-    *Before* it Begins
 organization_id: '2015099'
 title: 'Jumpstart For Young Children, Inc.'
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: 'https://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102153'
+project_titles:
+  - >-
+    Jumpstart: Delivering Quality Early Education To Close the Achievement Gap
+    *Before* it Begins
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/jstart.html'

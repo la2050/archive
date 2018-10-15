@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: JrkPrBnN4UI
-project_titles:
-  - >-
-    Have fun, exercise, and spend quality time with the family in a safe and
-    clean environment
-  - >-
-    Have fun exercise and spend quality time with the family in a safe and clean
-    environment
 organization_id: '2015004'
 title: Adventure Playhouse Indoor Activity Center
 org_type: Forprofit
@@ -31,6 +24,13 @@ project_image: 'https://img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102009'
+project_titles:
+  - >-
+    Have fun, exercise, and spend quality time with the family in a safe and
+    clean environment
+  - >-
+    Have fun exercise and spend quality time with the family in a safe and clean
+    environment
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/adventureplayhouse.html'

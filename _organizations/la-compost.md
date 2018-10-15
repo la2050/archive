@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - >-
-    Building Community and reducing organic waste via Community Compost Hubs
-    throughout LA County
-  - Connect to Soil and People
 organization_id: '2018061'
 title: LA Compost
 org_type: Nonprofit
@@ -29,6 +24,11 @@ project_video: 'https://youtu.be/QeunrIbUzt0'
 project_ids:
   - '8102061'
   - '6102119'
+project_titles:
+  - >-
+    Building Community and reducing organic waste via Community Compost Hubs
+    throughout LA County
+  - Connect to Soil and People
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/la-compost/'

@@ -1,10 +1,4 @@
 ---
-project_titles:
-  - >-
-    #Vision2020: An Achievable Plan to Save Us All from Air Toxins, Diesel
-    Pollution & Climate Change!
-  - Student Eco Riders
-  - Universal Student Transit Passes for LA Community Colleges
 organization_id: '2018084'
 title: 'Move LA, a project of Community Partners'
 org_type: Nonprofit
@@ -31,6 +25,12 @@ project_video: 'https://youtu.be/4JnqpY0nP4s'
 project_ids:
   - '5102213'
   - '3102199'
+project_titles:
+  - >-
+    #Vision2020: An Achievable Plan to Save Us All from Air Toxins, Diesel
+    Pollution & Climate Change!
+  - Student Eco Riders
+  - Universal Student Transit Passes for LA Community Colleges
 aggregated:
   challenge_url:
     - >-

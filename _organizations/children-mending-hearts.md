@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: d166fbxFWas
-project_titles:
-  - 'Children Mending Hearts: Kids Helping Kids'
 organization_id: '2013032'
 title: Children Mending Hearts
 org_type: Nonprofit
@@ -52,6 +50,8 @@ project_image: 'https://img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102059'
+project_titles:
+  - 'Children Mending Hearts: Kids Helping Kids'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Leroy.JPG
-project_titles:
-  - The Million Reusable Bag Giveaway
 maker_image_id: '17141'
 organization_id: '2013028'
 title: California Greenworks
@@ -61,6 +59,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102050'
+project_titles:
+  - The Million Reusable Bag Giveaway
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'

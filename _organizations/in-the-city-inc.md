@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: DSC01431.jpg
-project_titles:
-  - 'Mission 3.0: Empowering Leaders on the Field and In the Classroom'
 maker_image_id: '22530'
 organization_id: '2014156'
 title: 'IN THE CITY, INC.'
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102099'
+project_titles:
+  - 'Mission 3.0: Empowering Leaders on the Field and In the Classroom'
 aggregated:
   challenge_url: []
   year_submitted:

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: UCLA_Connect.jpg
-project_titles:
-  - 'Foster Families: The Other First Responders'
 maker_image_id: '23745'
 organization_id: '2015217'
 title: UCLA Luskin School of Public Affairs
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102330'
+project_titles:
+  - 'Foster Families: The Other First Responders'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: _5icxWSNJFw
-project_titles:
-  - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
 organization_id: '2013146'
 title: Oasis USA
 org_type: Nonprofit
@@ -60,6 +58,8 @@ project_image: 'https://img.youtube.com/vi/_5icxWSNJFw/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102208'
+project_titles:
+  - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/oasisusa.html'

@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: Patch_2.jpg
-project_titles:
-  - 'The Junior Fellows & The Soft Studio '
-  - The Junior Fellows & The Soft Studio
 maker_image_id: '21934'
 organization_id: '2014227'
 title: Woodbury University
@@ -22,6 +19,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102260'
+project_titles:
+  - 'The Junior Fellows & The Soft Studio '
+  - The Junior Fellows & The Soft Studio
 aggregated:
   challenge_url: []
   year_submitted:

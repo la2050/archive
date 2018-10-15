@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: zmZJYC2WFVk
-project_titles:
-  - Rebuilding LA’s port communities one business at a time
 organization_id: '2015158'
 title: >-
   PortTech Los Angeles, International Trade Education Programs (ITEP), Port of
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102170'
+project_titles:
+  - Rebuilding LA’s port communities one business at a time
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/PortTech.html'

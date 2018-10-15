@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    A youth-led public health program involving health professionals, students,
-    & our communities.
 organization_id: '2018004'
 title: A Healthier Community Starts with YOUth
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: 'https://vimeo.com/241727342'
 project_ids:
   - '8102004'
+project_titles:
+  - >-
+    A youth-led public health program involving health professionals, students,
+    & our communities.
 aggregated:
   challenge_url:
     - >-

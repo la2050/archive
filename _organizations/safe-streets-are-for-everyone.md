@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - SAFE Support -- Helping for Those Affected by Traumatic Traffic Collisions
 organization_id: '2016187'
 title: SAFE (Streets Are For Everyone)
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102202'
+project_titles:
+  - SAFE Support -- Helping for Those Affected by Traumatic Traffic Collisions
 aggregated:
   challenge_url:
     - >-

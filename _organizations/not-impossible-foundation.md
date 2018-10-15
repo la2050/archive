@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Connecting the food secure to nearby, ready-to-eat meals using SMS'
 organization_id: '2018090'
 title: Not Impossible Foundation
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102090'
+project_titles:
+  - 'Connecting the food secure to nearby, ready-to-eat meals using SMS'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/not-impossible-foundation/'

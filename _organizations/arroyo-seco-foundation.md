@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: ffK1mzyzUPE
-project_titles:
-  - 'Bring Back the River: Restoring the Los Angeles River Watershed '
-  - 'Bring Back the River: Restoring the Los Angeles River Watershed'
 organization_id: '2015013'
 title: Arroyo Seco Foundation
 org_type: Nonprofit
@@ -26,6 +23,9 @@ project_image: 'https://img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102020'
+project_titles:
+  - 'Bring Back the River: Restoring the Los Angeles River Watershed '
+  - 'Bring Back the River: Restoring the Los Angeles River Watershed'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'

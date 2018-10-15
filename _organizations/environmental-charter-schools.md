@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Good_Image_Change_the_World.jpg
-project_titles:
-  - ECS Serves LA
 maker_image_id: '23859'
 organization_id: '2015059'
 title: Environmental Charter Schools
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102094'
+project_titles:
+  - ECS Serves LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/ecsservesla.html'

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Nation of Vibration’s L.A.vation Project: Bringing Healing, and Connection
-    to Communities Across L.A
 organization_id: '2016154'
 title: Nation of Vibration
 org_type: Forprofit
@@ -23,6 +19,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/jzZRGNGG5LA?rel=0&amp;showinfo=0'
 project_ids:
   - '6102209'
+project_titles:
+  - >-
+    Nation of Vibration’s L.A.vation Project: Bringing Healing, and Connection
+    to Communities Across L.A
 aggregated:
   challenge_url:
     - >-

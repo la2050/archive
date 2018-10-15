@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    A conference inspiring LA professionals toward a net zero future; hosted at
-    a nonprofit  facility
 organization_id: '2016252'
 title: Verdical Group
 org_type: Forprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/XaTMp9Bu1AY?rel=0&amp;showinfo=0'
 project_ids:
   - '6102272'
+project_titles:
+  - >-
+    A conference inspiring LA professionals toward a net zero future; hosted at
+    a nonprofit  facility
 aggregated:
   challenge_url:
     - >-

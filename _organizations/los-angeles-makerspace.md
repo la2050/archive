@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: LAM_Robots.jpg
-project_titles:
-  - Central Educational Network Based On The Apprenticeship Model
 maker_image_id: '16174'
 organization_id: '2013125'
 title: Los Angeles Makerspace
@@ -61,6 +59,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102187'
+project_titles:
+  - Central Educational Network Based On The Apprenticeship Model
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/lamakerspace.html'

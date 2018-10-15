@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: placita_nueva.jpg
-project_titles:
-  - 'Narrative Replacement Therapy: Reimagining the Heart of Los Angeles'
 maker_image_id: '16818'
 organization_id: '2013209'
 title: Urban Macrosystems
@@ -55,6 +53,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102113'
+project_titles:
+  - 'Narrative Replacement Therapy: Reimagining the Heart of Los Angeles'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/NRT.html'

@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Brioxy Builds Los Angeles’ Creative Cerebro for Artists of Color
-  - Brioxy Builds Los Angeles' Creative Cerebro for Artists of Color
 organization_id: '2018011'
 title: Brioxy
 org_type: Social enterprise or Bcorps
@@ -25,6 +22,9 @@ project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/bri
 project_video: 'https://www.youtube.com/watch?v=AC3S73SvRy0'
 project_ids:
   - '8102011'
+project_titles:
+  - Brioxy Builds Los Angeles’ Creative Cerebro for Artists of Color
+  - Brioxy Builds Los Angeles' Creative Cerebro for Artists of Color
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/brioxy/'

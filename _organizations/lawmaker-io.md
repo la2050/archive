@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
-    Solve Homelessness in LA
 organization_id: '2018067'
 title: LawMaker.io
 org_type: Social enterprise or Bcorps
@@ -27,6 +23,10 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la
 project_video: 'https://www.youtube.com/watch?v=mH8x6av0XTA'
 project_ids:
   - '8102067'
+project_titles:
+  - >-
+    LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
+    Solve Homelessness in LA
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/lawmaker-io/'

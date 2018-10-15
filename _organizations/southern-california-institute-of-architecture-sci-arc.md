@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: SCI-Arc-HFH_FINAL.jpg
-project_titles:
-  - SCI-Arc/Habitat LA Housing Project
 maker_image_id: '21961'
 organization_id: '2014191'
 title: Southern California Institute of Architecture (SCI-Arc)
@@ -21,6 +19,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102175'
+project_titles:
+  - SCI-Arc/Habitat LA Housing Project
 aggregated:
   challenge_url: []
   year_submitted:

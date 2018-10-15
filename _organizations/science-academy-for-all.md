@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    New Obesity War (NOW) led by mentor trained kids to change the lifestyle of
-    their families.
 organization_id: '2018106'
 title: Science Academy For All
 org_type: Nonprofit
@@ -25,6 +21,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102106'
+project_titles:
+  - >-
+    New Obesity War (NOW) led by mentor trained kids to change the lifestyle of
+    their families.
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/science-academy-for-all/'

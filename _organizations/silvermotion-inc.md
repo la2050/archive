@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'eQuiz: Fun and Free Trivia App'
 organization_id: '2016193'
 title: 'SilverMotion, Inc.'
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/TA13D1sFcIU?rel=0&amp;showinfo=0'
 project_ids:
   - '6102228'
+project_titles:
+  - 'eQuiz: Fun and Free Trivia App'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: IMG_8112_web.jpg
-project_titles:
-  - Creating a Space for the Creative Class
 maker_image_id: '23544'
 organization_id: '2015146'
 title: Off The Saw
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102222'
+project_titles:
+  - Creating a Space for the Creative Class
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'

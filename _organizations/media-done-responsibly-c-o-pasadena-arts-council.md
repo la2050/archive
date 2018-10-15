@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: H107Gy4bTFs
-project_titles:
-  - >-
-    Linking Middle, High School, & College Students through Humanity Centered
-    Media
-  - >-
-    Linking Middle High School & College Students through Humanity Centered
-    Media
 organization_id: '2015135'
 title: Media Done Responsibly c/o Pasadena Arts Council
 org_type: Nonprofit
@@ -29,6 +22,13 @@ project_image: 'https://img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102204'
+project_titles:
+  - >-
+    Linking Middle, High School, & College Students through Humanity Centered
+    Media
+  - >-
+    Linking Middle High School & College Students through Humanity Centered
+    Media
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'

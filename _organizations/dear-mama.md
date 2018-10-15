@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Helping L.A. Live Healthier One Taco at a Time!
 organization_id: '2016063'
 title: Dear Mama
 org_type: Forprofit
@@ -21,6 +19,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102116'
+project_titles:
+  - Helping L.A. Live Healthier One Taco at a Time!
 aggregated:
   challenge_url:
     - >-

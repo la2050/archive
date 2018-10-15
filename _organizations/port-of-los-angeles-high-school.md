@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    COLLEGE, CAREER, and COMMUNITY: POLAHS Career Technical Education (CTE)
-    Program 
 organization_id: '2016175'
 title: Port of Los Angeles High School
 org_type: Nonprofit
@@ -25,6 +21,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/UclMuVfefwA?rel=0&amp;showinfo=0'
 project_ids:
   - '6102187'
+project_titles:
+  - >-
+    COLLEGE, CAREER, and COMMUNITY: POLAHS Career Technical Education (CTE)
+    Program 
 aggregated:
   challenge_url:
     - >-

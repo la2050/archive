@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Connection Pointe – Technology Education Tools for Blind Teachers and
-    Students
 organization_id: '2016024'
 title: Braille Institute of America
 org_type: Nonprofit
@@ -25,6 +21,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102020'
+project_titles:
+  - >-
+    Connection Pointe – Technology Education Tools for Blind Teachers and
+    Students
 aggregated:
   challenge_url:
     - >-

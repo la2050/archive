@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'The Intern Project: SLATE-Z Expansion'
 organization_id: '2016124'
 title: LA Promise Fund
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/cVxDjQi1ofo?rel=0&amp;showinfo=0'
 project_ids:
   - '6102123'
+project_titles:
+  - 'The Intern Project: SLATE-Z Expansion'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'

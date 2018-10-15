@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: Xoof6-2YZ_U
-project_titles:
-  - 'Speak Up When You''re Down: Maternal Mental Health Improvement Project'
-  - 'Speak Up When Youre Down: Maternal Mental Health Improvement Project'
 organization_id: '2013123'
 title: Los Angeles County Perinatal Mental Health Task Force
 org_type: Nonprofit
@@ -68,6 +65,9 @@ project_image: 'https://img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102184'
+project_titles:
+  - 'Speak Up When You''re Down: Maternal Mental Health Improvement Project'
+  - 'Speak Up When Youre Down: Maternal Mental Health Improvement Project'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SpeakUp.html'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: creative_capital_img.jpg
-project_titles:
-  - CREATIVE CAPITAL FEST
 maker_image_id: '22856'
 organization_id: '2014001'
 title: 24Connect
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102001'
+project_titles:
+  - CREATIVE CAPITAL FEST
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'

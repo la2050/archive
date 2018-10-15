@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: kNqNTSXVqsI
-project_titles:
-  - FORT (Resident Makers Program to help creatives start their own companies).
 organization_id: '2014035'
 title: FORT
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/kNqNTSXVqsI/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102072'
+project_titles:
+  - FORT (Resident Makers Program to help creatives start their own companies).
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/FORT.html'

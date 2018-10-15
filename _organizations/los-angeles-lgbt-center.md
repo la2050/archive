@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Resistance Squad: Amplifying the Power of Angelenos to Affect National
-    Change
 organization_id: '2018075'
 title: Los Angeles LGBT Center
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_image: >-
 project_video: 'https://youtu.be/63SBgjUNWxA'
 project_ids:
   - '8102075'
+project_titles:
+  - >-
+    Resistance Squad: Amplifying the Power of Angelenos to Affect National
+    Change
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'

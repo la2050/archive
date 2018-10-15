@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: gzqE0ygfM8Y
-project_titles:
-  - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
 organization_id: '2014093'
 title: The La Brea Tar Pits Museum
 org_type: Nonprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102219'
+project_titles:
+  - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/newdigs.html'

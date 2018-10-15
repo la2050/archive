@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: XNxfMssLYzc
-project_titles:
-  - >-
-    College Summit: Equipping 4,800 Low-Income Student For Success in College
-    and Career
-  - >-
-    College Summit: Equipping 4800 Low-Income Student For Success in College and
-    Career
 organization_id: '2014130'
 title: College Summit Southern California
 org_type: Nonprofit
@@ -27,6 +20,13 @@ project_image: 'https://img.youtube.com/vi/XNxfMssLYzc/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102042'
+project_titles:
+  - >-
+    College Summit: Equipping 4,800 Low-Income Student For Success in College
+    and Career
+  - >-
+    College Summit: Equipping 4800 Low-Income Student For Success in College and
+    Career
 aggregated:
   challenge_url: []
   year_submitted:

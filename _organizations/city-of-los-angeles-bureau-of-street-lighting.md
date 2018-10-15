@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'AirCareLA, an Air Quality Education Pilot'
 organization_id: '2018026'
 title: 'City of Los Angeles, Bureau of Street Lighting'
 org_type: Government
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://youtu.be/tVCxc_xD6Xo'
 project_ids:
   - '8102026'
+project_titles:
+  - 'AirCareLA, an Air Quality Education Pilot'
 aggregated:
   challenge_url:
     - >-

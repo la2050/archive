@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: cljP5pJVVbE
-project_titles:
-  - Politics in 8 Seconds
 organization_id: '2015223'
 title: 'Voter, LLC'
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102339'
+project_titles:
+  - Politics in 8 Seconds
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/voter.html'

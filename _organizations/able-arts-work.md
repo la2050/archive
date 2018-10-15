@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Artbeat Radio '
-  - Artbeat Radio
 organization_id: '2016005'
 title: Able Arts Work
 org_type: Nonprofit
@@ -27,6 +24,9 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/yjPtx6xf7jI?rel=0&amp;showinfo=0'
 project_ids:
   - '6102004'
+project_titles:
+  - 'Artbeat Radio '
+  - Artbeat Radio
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/artbeat-radio'

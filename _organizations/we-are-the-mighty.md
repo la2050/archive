@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Los Angeles Veterans Orientation (LAVO)
 organization_id: '2018137'
 title: We Are the Mighty
 org_type: Forprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102137'
+project_titles:
+  - Los Angeles Veterans Orientation (LAVO)
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/we-are-the-mighty/'

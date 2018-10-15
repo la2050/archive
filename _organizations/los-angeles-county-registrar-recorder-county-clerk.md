@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Voting Solutions for All People: Engaging Voters Through a Mock Election'
 organization_id: '2018073'
 title: Los Angeles County Registrar-Recorder/County Clerk
 org_type: Government
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://youtu.be/Z8m9oU7eBqc'
 project_ids:
   - '8102073'
+project_titles:
+  - 'Voting Solutions for All People: Engaging Voters Through a Mock Election'
 aggregated:
   challenge_url:
     - >-

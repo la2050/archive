@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - 'Grid110: Idea to Prototype'
-  - We're creating an ecosystem of entrepreneurs and growing new businesses.
-  - Were creating an ecosystem of entrepreneurs and growing new businesses.
 organization_id: '2018049'
 title: 'Grid110, Inc.'
 org_type: Nonprofit
@@ -27,6 +23,10 @@ project_video: ''
 project_ids:
   - '8102049'
   - '5102122'
+project_titles:
+  - 'Grid110: Idea to Prototype'
+  - We're creating an ecosystem of entrepreneurs and growing new businesses.
+  - Were creating an ecosystem of entrepreneurs and growing new businesses.
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/grid110-inc/'

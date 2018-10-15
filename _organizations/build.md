@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.  '
-  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.'
 organization_id: '2016027'
 title: BUILD
 org_type: Nonprofit
@@ -27,6 +24,9 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/zf4cRLVe4Co?rel=0&amp;showinfo=0'
 project_ids:
   - '6102023'
+project_titles:
+  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.  '
+  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.'
 aggregated:
   challenge_url:
     - >-

@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - >-
-    Diversifying LA’s manufacturing ownership by empowering workers to buy their
-    company   
-  - '#Re-Make It LA'
 organization_id: '2016055'
 title: Concerned Capital
 org_type: Forprofit
@@ -29,6 +24,11 @@ project_video: ''
 project_ids:
   - '6102111'
   - '5102076'
+project_titles:
+  - >-
+    Diversifying LA’s manufacturing ownership by empowering workers to buy their
+    company   
+  - '#Re-Make It LA'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/re-make-it-la'

@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Get Lit with Red Hen Press: Bringing Fresh Voices to the LA Literary Scene'
-  - Red Hen Press Community Center for the Arts
 organization_id: '2018101'
 title: Red Hen Press
 org_type: Nonprofit
@@ -26,6 +23,9 @@ project_video: ''
 project_ids:
   - '8102101'
   - '6102194'
+project_titles:
+  - 'Get Lit with Red Hen Press: Bringing Fresh Voices to the LA Literary Scene'
+  - Red Hen Press Community Center for the Arts
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/red-hen-press/'

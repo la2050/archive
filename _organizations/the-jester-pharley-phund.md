@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'Reading Makes A Difference: Inspiring Kids to Read & Care About Others'
-  - Reading Makes a Difference
 organization_id: '2016223'
 title: The Jester & Pharley Phund
 org_type: Nonprofit
@@ -26,6 +23,9 @@ project_video: ''
 project_ids:
   - '6102246'
   - '4102216'
+project_titles:
+  - 'Reading Makes A Difference: Inspiring Kids to Read & Care About Others'
+  - Reading Makes a Difference
 aggregated:
   challenge_url:
     - >-

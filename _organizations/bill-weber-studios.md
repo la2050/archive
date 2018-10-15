@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: TWOAB.jpg
-project_titles:
-  - Ambassador Bird - L.A.'s Diversity Ambassador
-  - Ambassador Bird - L.A.s Diversity Ambassador
 maker_image_id: '23146'
 organization_id: '2015016'
 title: Bill Weber Studios
@@ -27,6 +24,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102028'
+project_titles:
+  - Ambassador Bird - L.A.'s Diversity Ambassador
+  - Ambassador Bird - L.A.s Diversity Ambassador
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'

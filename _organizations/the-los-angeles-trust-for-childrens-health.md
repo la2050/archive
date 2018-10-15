@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: sN5SCezYZTM
-project_titles:
-  - >-
-    Student Health = Student Success. Improving student health and readiness to
-    learn in LA 
 organization_id: '2013195'
 title: The Los Angeles Trust for Children's Health
 org_type: Nonprofit
@@ -58,6 +54,10 @@ project_image: 'https://img.youtube.com/vi/sN5SCezYZTM/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102255'
+project_titles:
+  - >-
+    Student Health = Student Success. Improving student health and readiness to
+    learn in LA 
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/thelatrust.html'

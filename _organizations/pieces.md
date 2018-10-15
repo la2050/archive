@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - >-
-    CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
-    ARTS
-  - Empowering Young L.A. Adults Through the Visual & Performing Arts
 organization_id: '2016171'
 title: PIECES
 org_type: Nonprofit
@@ -28,6 +23,11 @@ project_video: 'https://www.youtube.com/embed/5fIYqcCuCuw?rel=0&amp;showinfo=0'
 project_ids:
   - '6102183'
   - '5102236'
+project_titles:
+  - >-
+    CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
+    ARTS
+  - Empowering Young L.A. Adults Through the Visual & Performing Arts
 aggregated:
   challenge_url:
     - >-

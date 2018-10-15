@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Inspiring Community Action to End Gun Violence in L.A. by Stopping “Bad
-    Apple” Gun Dealers
 organization_id: '2018117'
 title: The Brady Center to Prevent Gun Violence
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=GpI8redM2To'
 project_ids:
   - '8102117'
+project_titles:
+  - >-
+    Inspiring Community Action to End Gun Violence in L.A. by Stopping “Bad
+    Apple” Gun Dealers
 aggregated:
   challenge_url:
     - >-

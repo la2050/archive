@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: LASA_2012.jpg
-project_titles:
-  - The Los Angeles Service Academy
 maker_image_id: '16261'
 organization_id: '2013189'
 title: The Huntington-USC Institute on California and the West
@@ -55,6 +53,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102250'
+project_titles:
+  - The Los Angeles Service Academy
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LASA.html'

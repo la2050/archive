@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: T17vBV41x0g
-project_titles:
-  - Do Good Bus
-  - 'Do Good Bus | Free Rides '
 organization_id: '2014026'
 title: Do Good Bus
 org_type: Forprofit
@@ -25,6 +22,9 @@ project_video: ''
 project_ids:
   - '4102055'
   - '3102025'
+project_titles:
+  - Do Good Bus
+  - 'Do Good Bus | Free Rides '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'

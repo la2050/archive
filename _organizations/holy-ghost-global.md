@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: interfaithsize.png
-project_titles:
-  - 'It''s About Good Interfaith Block Parties: Where Playing Becomes Praying'
-  - 'Its About Good Interfaith Block Parties: Where Playing Becomes Praying'
 maker_image_id: '21276'
 organization_id: '2014042'
 title: Holy Ghost Global
@@ -26,6 +23,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102091'
+project_titles:
+  - 'It''s About Good Interfaith Block Parties: Where Playing Becomes Praying'
+  - 'Its About Good Interfaith Block Parties: Where Playing Becomes Praying'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'

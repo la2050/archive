@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: q0_2OnUiDiU
-project_titles:
-  - 'Sustainable Works Presents Dr. Keeling’s Curve '
 organization_id: '2013177'
 title: Sustainable Works a Project of Community Partners
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: 'https://img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102240'
+project_titles:
+  - 'Sustainable Works Presents Dr. Keeling’s Curve '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/sustainableworks.html'

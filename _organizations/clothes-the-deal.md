@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: myUKgR-PO4c
-project_titles:
-  - 'Clothes The Deal: Dismantling Barriers to Employment'
-  - Employment Enhancement Project
 organization_id: '2015040'
 title: Clothes The Deal
 org_type: Nonprofit
@@ -23,6 +20,9 @@ project_video: ''
 project_ids:
   - '5102069'
   - '4102142'
+project_titles:
+  - 'Clothes The Deal: Dismantling Barriers to Employment'
+  - Employment Enhancement Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'

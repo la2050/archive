@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: 12000148473_482ef012b5_k.jpg
-project_titles:
-  - Ending Wage Theft in Los Angeles
 maker_image_id: '23889'
 organization_id: '2015106'
 title: Koreatown Immigrant Worker Alliance
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102163'
+project_titles:
+  - Ending Wage Theft in Los Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'

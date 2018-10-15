@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    MERGE: LA youth collaborating through spoken word & dance to build empathy,
-    literacy and confidence.
 organization_id: '2016190'
 title: Say Word and 4C LAB
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/Bg6i6yos2pU?rel=0&amp;showinfo=0'
 project_ids:
   - '6102204'
+project_titles:
+  - >-
+    MERGE: LA youth collaborating through spoken word & dance to build empathy,
+    literacy and confidence.
 aggregated:
   challenge_url:
     - >-

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    The coParenter Project: building a healthier Los Angeles two coParents at a
-    time
 organization_id: '2016104'
 title: 'HyphenUs, Inc.'
 org_type: Forprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102172'
+project_titles:
+  - >-
+    The coParenter Project: building a healthier Los Angeles two coParents at a
+    time
 aggregated:
   challenge_url:
     - >-

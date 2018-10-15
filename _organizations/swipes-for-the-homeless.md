@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: h1GATPgLPxQ
-project_titles:
-  - >-
-    Students Working Together to Combat Homelessness and Reduce Food Waste on
-    Campus
 organization_id: '2013178'
 title: Swipes for the Homeless
 org_type: Nonprofit
@@ -49,6 +45,10 @@ project_image: 'https://img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102241'
+project_titles:
+  - >-
+    Students Working Together to Combat Homelessness and Reduce Food Waste on
+    Campus
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'

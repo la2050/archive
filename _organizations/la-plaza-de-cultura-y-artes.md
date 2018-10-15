@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
-    pathway!
 organization_id: '2016123'
 title: LA Plaza de Cultura y Artes
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/KlbjX6GafyI?rel=0&amp;showinfo=0'
 project_ids:
   - '6102122'
+project_titles:
+  - >-
+    LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
+    pathway!
 aggregated:
   challenge_url:
     - >-

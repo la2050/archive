@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: IsWasWillBe_SmartGals.jpg
-project_titles:
-  - 'Is.Was.Will Be. '
-  - Is.Was.Will Be.
 maker_image_id: '23815'
 organization_id: '2015182'
 title: Smart Gals Productions
@@ -28,6 +25,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102269'
+project_titles:
+  - 'Is.Was.Will Be. '
+  - Is.Was.Will Be.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: o1W8HEqylCg
-project_titles:
-  - Play With Music Platform (PWMP)
 organization_id: '2014095'
 title: The New History
 org_type: Forprofit
@@ -20,6 +18,8 @@ project_image: 'https://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102226'
+project_titles:
+  - Play With Music Platform (PWMP)
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'

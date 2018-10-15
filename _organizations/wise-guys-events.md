@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: XYkDHo1jJ1c
-project_titles:
-  - 'Watts Ball: A Fun New Playground Sport for Kids and Cops to Play Together'
 organization_id: '2015226'
 title: Wise Guys Events
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/XYkDHo1jJ1c/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102342'
+project_titles:
+  - 'Watts Ball: A Fun New Playground Sport for Kids and Cops to Play Together'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'

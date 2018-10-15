@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Four Rings: Giving LA a Home to Recharge'
 organization_id: '2016081'
 title: Four Rings
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/31Cl_cWYbgY?rel=0&amp;showinfo=0'
 project_ids:
   - '6102156'
+project_titles:
+  - 'Four Rings: Giving LA a Home to Recharge'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'

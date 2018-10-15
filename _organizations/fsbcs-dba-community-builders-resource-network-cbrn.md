@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: collaboration_statement.jpg
-project_titles:
-  - Community Builders Resource Network (CBRN)
 maker_image_id: '17060'
 organization_id: '2013076'
 title: FSBCS dba Community Builders Resource Network (CBRN)
@@ -40,6 +38,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102135'
+project_titles:
+  - Community Builders Resource Network (CBRN)
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CBRN.html'

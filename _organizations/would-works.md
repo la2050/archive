@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: xlsYqBrzY4k
-project_titles:
-  - Permanent Workshop for Would-Works
-  - Would-Works
 organization_id: '2014110'
 title: Would-Works
 org_type: Nonprofit
@@ -26,6 +23,9 @@ project_image: 'https://img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102262'
+project_titles:
+  - Permanent Workshop for Would-Works
+  - Would-Works
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/would-works.html'

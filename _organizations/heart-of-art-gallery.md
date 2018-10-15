@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: jpQSRVlR_XM
-project_titles:
-  - 'City with a Heart of Art: 1000 New Artworks made in & by LA in 2016'
 organization_id: '2015085'
 title: Heart of Art Gallery
 org_type: Forprofit
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102132'
+project_titles:
+  - 'City with a Heart of Art: 1000 New Artworks made in & by LA in 2016'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'

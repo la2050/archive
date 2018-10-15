@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: studio1.jpg
-project_titles:
-  - 'Los Angeles Vital Arts : LAVA: COMMUNITY ART AND PRINTING LAB'
 maker_image_id: '21917'
 organization_id: '2014064'
 title: Nomadlosangeles
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102159'
+project_titles:
+  - 'Los Angeles Vital Arts : LAVA: COMMUNITY ART AND PRINTING LAB'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAVA.html'

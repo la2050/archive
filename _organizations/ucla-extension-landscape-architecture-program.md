@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: safari.jpg
-project_titles:
-  - EXPO Line Safari!
 maker_image_id: '21750'
 organization_id: '2014101'
 title: UCLA Extension Landscape Architecture Program
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102242'
+project_titles:
+  - EXPO Line Safari!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Agency of Assets
 organization_id: '2016111'
 title: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/Jmdk4Z5cMIc?rel=0&amp;showinfo=0'
 project_ids:
   - '6102104'
+project_titles:
+  - Agency of Assets
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/agency-of-assets'

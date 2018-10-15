@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Providing Quality Job Access to Untapped Teens and Young Adults
 organization_id: '2016118'
 title: Knit Marketing
 org_type: Forprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/TsbsuQ8zdgM?rel=0&amp;showinfo=0'
 project_ids:
   - '6102186'
+project_titles:
+  - Providing Quality Job Access to Untapped Teens and Young Adults
 aggregated:
   challenge_url:
     - >-

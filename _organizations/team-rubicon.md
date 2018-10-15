@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Localizing Disaster Response to Meet the Challenges of the 21st Century
-  - Los Angelenos Resilient in the Face of Natural Disasters
 organization_id: '2018116'
 title: Team Rubicon
 org_type: Nonprofit
@@ -27,6 +24,9 @@ project_video: 'https://www.youtube.com/watch?v=5BOUm4PBeUc'
 project_ids:
   - '8102116'
   - '6102232'
+project_titles:
+  - Localizing Disaster Response to Meet the Challenges of the 21st Century
+  - Los Angelenos Resilient in the Face of Natural Disasters
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/team-rubicon/'

@@ -70,6 +70,7 @@ const attributes = [
   'project_image',
   'project_video',
   'project_ids',
+  'project_titles',
   'aggregated',
   'original_project_ids',
   'original_project_titles',

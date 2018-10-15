@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: g5AgtC0G5ec
-project_titles:
-  - 'Making for Good: Empowering Girls to Improve Air Quality in Their Community'
 organization_id: '2015049'
 title: DIY Girls
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: 'https://img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102082'
+project_titles:
+  - 'Making for Good: Empowering Girls to Improve Air Quality in Their Community'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'

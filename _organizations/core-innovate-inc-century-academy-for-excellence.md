@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Inglewood Speaks: Young Podcasters Discover LA2050’s Homegrown Heroes'
 organization_id: '2016058'
 title: 'Core Innovate, Inc. & Century Academy for Excellence'
 org_type: Forprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102115'
+project_titles:
+  - 'Inglewood Speaks: Young Podcasters Discover LA2050’s Homegrown Heroes'
 aggregated:
   challenge_url:
     - >-

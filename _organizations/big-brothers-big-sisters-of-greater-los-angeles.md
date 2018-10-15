@@ -1,13 +1,4 @@
 ---
-project_titles:
-  - 'College, Work, & Life Ready Through BBBSLA''s Workplace Mentoring Program'
-  - >-
-    Linked Learning: College, Work, & Life Ready Through BBBSLA's Workplace
-    Mentoring Program
-  - Mentoring College Success with Big Brothers Big Sisters of Greater LA
-  - >-
-    Linked Learning: College Work & Life Ready Through BBBSLAs Workplace
-    Mentoring Program
 organization_id: '2018007'
 title: Big Brothers Big Sisters of Greater Los Angeles
 org_type: Nonprofit
@@ -33,6 +24,15 @@ project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
 project_ids:
   - '8102007'
   - '5102025'
+project_titles:
+  - 'College, Work, & Life Ready Through BBBSLA''s Workplace Mentoring Program'
+  - >-
+    Linked Learning: College, Work, & Life Ready Through BBBSLA's Workplace
+    Mentoring Program
+  - Mentoring College Success with Big Brothers Big Sisters of Greater LA
+  - >-
+    Linked Learning: College Work & Life Ready Through BBBSLAs Workplace
+    Mentoring Program
 aggregated:
   challenge_url:
     - >-

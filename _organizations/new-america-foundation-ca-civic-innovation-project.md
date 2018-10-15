@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: ca_civic_innovation_project_logo.png
-project_titles:
-  - LA Civic Engagement Lab
 maker_image_id: '16898'
 organization_id: '2013144'
 title: New America Foundation - CA Civic Innovation Project
@@ -54,6 +52,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102206'
+project_titles:
+  - LA Civic Engagement Lab
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LACivicLab.html'

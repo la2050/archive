@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - California Native Plant Public Education Project
 organization_id: '2016127'
 title: Landscape Integrity Films and Education (LIFE)
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/LxJHEQHCP5c?rel=0&amp;showinfo=0'
 project_ids:
   - '6102127'
+project_titles:
+  - California Native Plant Public Education Project
 aggregated:
   challenge_url:
     - >-

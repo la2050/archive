@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Community Collaboration For Low Cost Creative Summer Art Camps In Long Beach
 organization_id: '2016049'
 title: Come Alive Long Beach
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/SCPg1hapsGE?rel=0&amp;showinfo=0'
 project_ids:
   - '6102048'
+project_titles:
+  - Community Collaboration For Low Cost Creative Summer Art Camps In Long Beach
 aggregated:
   challenge_url:
     - >-

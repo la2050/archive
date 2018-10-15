@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Free Showers for the Homeless in Downtown, Los Angeles'
 organization_id: '2016132'
 title: Living Spring Foundation
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/FvhRr2XfcvQ?rel=0&amp;showinfo=0'
 project_ids:
   - '6102134'
+project_titles:
+  - 'Free Showers for the Homeless in Downtown, Los Angeles'
 aggregated:
   challenge_url:
     - >-

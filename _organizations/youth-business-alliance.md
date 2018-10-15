@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - Empower low income youth to break out of the poverty cycle!
-  - YOUTH BUSINESS ALLIANCE
 organization_id: '2016261'
 title: Youth Business Alliance
 org_type: Nonprofit
@@ -27,6 +24,9 @@ project_video: ''
 project_ids:
   - '6102287'
   - '5102344'
+project_titles:
+  - Empower low income youth to break out of the poverty cycle!
+  - YOUTH BUSINESS ALLIANCE
 aggregated:
   challenge_url:
     - >-

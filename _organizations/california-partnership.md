@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - '#WeThePeople'
-  - >-
-    LA Civic Power: Shaping Policy and Building Relationships with All
-    Stakeholders
 organization_id: '2016031'
 title: California Partnership
 org_type: Nonprofit
@@ -28,6 +23,11 @@ project_video: ''
 project_ids:
   - '6102027'
   - '4102030'
+project_titles:
+  - '#WeThePeople'
+  - >-
+    LA Civic Power: Shaping Policy and Building Relationships with All
+    Stakeholders
 aggregated:
   challenge_url:
     - >-

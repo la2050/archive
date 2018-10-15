@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: bikes.jpg
-project_titles:
-  - Making LA
 maker_image_id: '16457'
 organization_id: '2013052'
 title: design east of La Brea
@@ -62,6 +60,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102105'
+project_titles:
+  - Making LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/delab.html'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: '-8HpYaBGc4I'
-project_titles:
-  - Health Care for 1 Million Uninsured Los Angeles Residents
 organization_id: '2014223'
 title: Western Center on Law & Poverty (WCLP)
 org_type: Nonprofit
@@ -19,6 +17,8 @@ project_image: 'https://img.youtube.com/vi/-8HpYaBGc4I/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102121'
+project_titles:
+  - Health Care for 1 Million Uninsured Los Angeles Residents
 aggregated:
   challenge_url: []
   year_submitted:

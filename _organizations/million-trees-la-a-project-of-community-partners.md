@@ -1,12 +1,5 @@
 ---
 youtube_video_identifier: IMUZKtO4vOw
-project_titles:
-  - >-
-    Million Trees LA - Plant Toward a Sustainable Urban Forest That Supports
-    Healthy Families .
-  - >-
-    Million Trees LA  Plant Toward a Sustainable Urban Forest That Supports
-    Healthy Families .
 organization_id: '2013134'
 title: 'Million Trees LA, a project of Community Partners'
 org_type: Nonprofit
@@ -77,6 +70,13 @@ project_image: 'https://img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102197'
+project_titles:
+  - >-
+    Million Trees LA - Plant Toward a Sustainable Urban Forest That Supports
+    Healthy Families .
+  - >-
+    Million Trees LA  Plant Toward a Sustainable Urban Forest That Supports
+    Healthy Families .
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'

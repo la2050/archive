@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: LA2050.png
-project_titles:
-  - LA Conversation Meals
 maker_image_id: '22481'
 organization_id: '2014061'
 title: NationBuilder
@@ -25,6 +23,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102154'
+project_titles:
+  - LA Conversation Meals
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: jAOkF8UAOLI
-project_titles:
-  - Revitalizing La Tierra de la Culebra community art park
 organization_id: '2014116'
 title: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: 'https://img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '4102094'
+project_titles:
+  - Revitalizing La Tierra de la Culebra community art park
 aggregated:
   challenge_url: []
   year_submitted:

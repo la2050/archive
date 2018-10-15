@@ -1,7 +1,4 @@
 ---
-project_titles:
-  - 'DUBLAB FM in Los Angeles: Connecting LA Residents Through Freeform Radio'
-  - SOUND SHARE LA
 organization_id: '2016086'
 title: Future Roots Inc.
 org_type: Nonprofit
@@ -22,6 +19,9 @@ project_video: 'https://www.youtube.com/embed/whDuQqva3a8?rel=0&amp;showinfo=0'
 project_ids:
   - '6102077'
   - '3102115'
+project_titles:
+  - 'DUBLAB FM in Los Angeles: Connecting LA Residents Through Freeform Radio'
+  - SOUND SHARE LA
 aggregated:
   challenge_url:
     - >-

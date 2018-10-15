@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - >-
-    Building police - community trust in Compton through reform and
-    accountability
-  - Turning Out Voters Through Local Relationships
 organization_id: '2016125'
 title: LA Voice
 org_type: Nonprofit
@@ -28,6 +23,11 @@ project_video: ''
 project_ids:
   - '6102125'
   - '5102169'
+project_titles:
+  - >-
+    Building police - community trust in Compton through reform and
+    accountability
+  - Turning Out Voters Through Local Relationships
 aggregated:
   challenge_url:
     - >-

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - TINY CITIES FOR L.A.’S HOMELESS
 organization_id: '2018039'
 title: Family Promise of the South Bay
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=5y2nTF_hrSE'
 project_ids:
   - '8102039'
+project_titles:
+  - TINY CITIES FOR L.A.’S HOMELESS
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'

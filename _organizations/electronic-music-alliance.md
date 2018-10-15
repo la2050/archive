@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: EMAHeader.jpg
-project_titles:
-  - 'EMA PLAY:  Dance, Create, Think, Make the Future'
-  - 'EMA PLAY:  Dance Create Think Make the Future'
 maker_image_id: '16296'
 organization_id: '2013060'
 title: Electronic Music Alliance
@@ -65,6 +62,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102123'
+project_titles:
+  - 'EMA PLAY:  Dance, Create, Think, Make the Future'
+  - 'EMA PLAY:  Dance Create Think Make the Future'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/EMAPLAY.html'

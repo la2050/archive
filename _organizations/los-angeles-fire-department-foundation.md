@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: lilCVZW2Ggk
-project_titles:
-  - High School CPR Training
 organization_id: '2015123'
 title: Los Angeles Fire Department Foundation
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: 'https://img.youtube.com/vi/lilCVZW2Ggk/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102188'
+project_titles:
+  - High School CPR Training
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'

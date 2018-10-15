@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Slide1.JPG
-project_titles:
-  - SoundWorks L.A.
 maker_image_id: '23245'
 organization_id: '2015160'
 title: Project MuszEd
@@ -27,6 +25,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102244'
+project_titles:
+  - SoundWorks L.A.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'

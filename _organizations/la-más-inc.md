@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: iGjxg6yI_og
-project_titles:
-  - Farm on Wheels
 organization_id: '2013116'
 title: 'LA-Más, Inc.'
 org_type: For profit
@@ -51,6 +49,8 @@ project_image: 'https://img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102071'
+project_titles:
+  - Farm on Wheels
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/farmonwheels.html'

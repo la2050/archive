@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
 organization_id: '2018078'
 title: Lumos Transforms
 org_type: Social enterprise or Bcorps
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102078'
+project_titles:
+  - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/lumos-transforms/'

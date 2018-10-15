@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Conservation Pathways: Environmental Education and Careers for Tomorrow's
-    Leaders
 organization_id: '2016098'
 title: Helpline Youth Counseling (HYC)
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/5fPP7vcVjlM?rel=0&amp;showinfo=0'
 project_ids:
   - '6102090'
+project_titles:
+  - >-
+    Conservation Pathways: Environmental Education and Careers for Tomorrow's
+    Leaders
 aggregated:
   challenge_url:
     - >-

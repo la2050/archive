@@ -1,8 +1,5 @@
 ---
 maker_image_file_name: Boy_reading_to_younger_kids.jpg
-project_titles:
-  - Educating LA's Youth for a Better Future
-  - Educating LAs Youth for a Better Future
 maker_image_id: '17025'
 organization_id: '2013142'
 title: Neighborhood Youth Association (NYA)
@@ -44,6 +41,9 @@ project_image: >-
 project_video: ''
 project_ids:
   - '3102203'
+project_titles:
+  - Educating LA's Youth for a Better Future
+  - Educating LAs Youth for a Better Future
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/NYAforLA.html'

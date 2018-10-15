@@ -1,9 +1,5 @@
 ---
 maker_image_file_name: alg-babybuggy-jpg.jpg
-project_titles:
-  - >-
-    Breaking the Poverty Cycle in Los Angeles & Creating Better Childhoods for
-    Kids in Need 
 maker_image_id: '20955'
 organization_id: '2014117'
 title: Baby Buggy
@@ -26,6 +22,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102137'
+project_titles:
+  - >-
+    Breaking the Poverty Cycle in Los Angeles & Creating Better Childhoods for
+    Kids in Need 
 aggregated:
   challenge_url: []
   year_submitted:

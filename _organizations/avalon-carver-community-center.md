@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Mobile STEM Project is a school based initiative designed to eliminate
-    disparities in STEM education
 organization_id: '2016016'
 title: Avalon Carver Community Center
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/rGOQvQ3eOJk?rel=0&amp;showinfo=0'
 project_ids:
   - '6102013'
+project_titles:
+  - >-
+    Mobile STEM Project is a school based initiative designed to eliminate
+    disparities in STEM education
 aggregated:
   challenge_url:
     - >-

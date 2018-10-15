@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: LOGO.png
-project_titles:
-  - FEAL.LA - A sanctuary for the arts.
 maker_image_id: '23967'
 organization_id: '2015064'
 title: FEAL.LA
@@ -26,6 +24,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102101'
+project_titles:
+  - FEAL.LA - A sanctuary for the arts.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'

@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: la2050-pic-2.png
-project_titles:
-  - We Teach Kids Code
 maker_image_id: '21687'
 organization_id: '2014180'
 title: Mushroom Learning
@@ -19,6 +17,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102152'
+project_titles:
+  - We Teach Kids Code
 aggregated:
   challenge_url: []
   year_submitted:

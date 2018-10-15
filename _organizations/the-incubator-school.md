@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: SHjS92F_BK8
-project_titles:
-  - 'The Incubator School: Designing the High School of Tomorrow, Today'
-  - 'The Incubator School: Designing the High School of Tomorrow Today'
 organization_id: '2015200'
 title: The Incubator School
 org_type: Government
@@ -27,6 +24,9 @@ project_image: 'https://img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102302'
+project_titles:
+  - 'The Incubator School: Designing the High School of Tomorrow, Today'
+  - 'The Incubator School: Designing the High School of Tomorrow Today'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'

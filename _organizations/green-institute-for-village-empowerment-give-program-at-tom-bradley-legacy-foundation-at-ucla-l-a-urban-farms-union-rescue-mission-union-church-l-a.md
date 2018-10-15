@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: towergarden.jpg
-project_titles:
-  - Sustainable Community Urban Farms Initiative
 maker_image_id: '23569'
 organization_id: '2015076'
 title: >-
@@ -28,6 +26,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102118'
+project_titles:
+  - Sustainable Community Urban Farms Initiative
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/GIVEUrbanfarms.html'

@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Carry Forward
 organization_id: '2018088'
 title: 'National Veterans Transition Services, Inc. AKA REBOOT'
 org_type: Nonprofit
@@ -26,6 +24,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=IVHAVDZAcFk'
 project_ids:
   - '8102088'
+project_titles:
+  - Carry Forward
 aggregated:
   challenge_url:
     - >-

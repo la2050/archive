@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Healthy Food and Healthy Lives in South Los Angeles
 organization_id: '2018087'
 title: 'My Friends House, Inc.'
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://youtu.be/Bt5RMStlQxI?t=90'
 project_ids:
   - '8102087'
+project_titles:
+  - Healthy Food and Healthy Lives in South Los Angeles
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/my-friends-house-inc/'

@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: zVwm_GRMSHw
-project_titles:
-  - 'Harmony Project '
 organization_id: '2013088'
 title: Harmony Project
 org_type: Nonprofit
@@ -42,6 +40,8 @@ project_image: 'https://img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102145'
+project_titles:
+  - 'Harmony Project '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'

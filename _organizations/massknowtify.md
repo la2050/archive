@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: ql6hxsjKMCQ
-project_titles:
-  - >-
-    MassKnowtify: Connecting local governments to citizens and communities
-    everywhere
 organization_id: '2014057'
 title: MassKnowtify
 org_type: Forprofit
@@ -27,6 +23,10 @@ project_image: 'https://img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102141'
+project_titles:
+  - >-
+    MassKnowtify: Connecting local governments to citizens and communities
+    everywhere
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'

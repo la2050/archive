@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    Every Angeleno is an all star on our team. Help HL - LA build our home field
-    advantage!
 organization_id: '2018051'
 title: Harlem Lacrosse - Los Angeles
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=3WVD26iAwmw'
 project_ids:
   - '8102051'
+project_titles:
+  - >-
+    Every Angeleno is an all star on our team. Help HL - LA build our home field
+    advantage!
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'

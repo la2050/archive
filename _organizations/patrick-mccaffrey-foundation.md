@@ -1,11 +1,4 @@
 ---
-project_titles:
-  - >-
-    How we can use tiny houses to make a big impact on housing affordability in
-    Los Angeles! 
-  - >-
-    How we can use tiny houses to make a big impact on housing affordability in
-    Los Angeles!
 organization_id: '2016165'
 title: Patrick McCaffrey Foundation
 org_type: Nonprofit
@@ -29,6 +22,13 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/sKs_VJT3Xr0?rel=0&amp;showinfo=0'
 project_ids:
   - '6102177'
+project_titles:
+  - >-
+    How we can use tiny houses to make a big impact on housing affordability in
+    Los Angeles! 
+  - >-
+    How we can use tiny houses to make a big impact on housing affordability in
+    Los Angeles!
 aggregated:
   challenge_url:
     - >-

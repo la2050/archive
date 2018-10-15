@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    #VoteTogether: Let's Use Music, Food, and Art to Make Voting a Moment of
-    Community Celebration
 organization_id: '2016041'
 title: Civic Nation
 org_type: Nonprofit
@@ -26,6 +22,10 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102041'
+project_titles:
+  - >-
+    #VoteTogether: Let's Use Music, Food, and Art to Make Voting a Moment of
+    Community Celebration
 aggregated:
   challenge_url:
     - >-

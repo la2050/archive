@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Foster Youth and Families: Joining Voices for Change'
 organization_id: '2016156'
 title: National Foster Youth Institute
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '6102163'
+project_titles:
+  - 'Foster Youth and Families: Joining Voices for Change'
 aggregated:
   challenge_url:
     - >-

@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: '-cj1vPWlAdo'
-project_titles:
-  - 'Los Angeles World''s Fair Collaboration, 2014-2015'
-  - Sustainable Future LA
-  - Los Angeles Worlds Fair Collaboration 2014-2015
 organization_id: '2015132'
 title: 'Los Angeles World''s Fair, FPC'
 org_type: Other
@@ -26,6 +22,10 @@ project_video: ''
 project_ids:
   - '5102199'
   - '4102139'
+project_titles:
+  - 'Los Angeles World''s Fair Collaboration, 2014-2015'
+  - Sustainable Future LA
+  - Los Angeles Worlds Fair Collaboration 2014-2015
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/SustainableFutureLA.html'

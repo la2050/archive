@@ -1,13 +1,4 @@
 ---
-project_titles:
-  - >-
-    Camp4All takes homeless families to beautiful LA beaches for surfing,
-    recharging & play!
-  - Coding is Cool Workshop & Initiative!
-  - Help Us Create and Inspire the Future Tech Leaders of LA!
-  - >-
-    Camp4All takes homeless families to beautiful LA beaches for surfing
-    recharging & play!
 organization_id: '2016215'
 title: The Children's Lifesaving Foundation
 org_type: Nonprofit
@@ -34,6 +25,15 @@ project_ids:
   - '6102238'
   - '5102298'
   - '4102209'
+project_titles:
+  - >-
+    Camp4All takes homeless families to beautiful LA beaches for surfing,
+    recharging & play!
+  - Coding is Cool Workshop & Initiative!
+  - Help Us Create and Inspire the Future Tech Leaders of LA!
+  - >-
+    Camp4All takes homeless families to beautiful LA beaches for surfing
+    recharging & play!
 aggregated:
   challenge_url:
     - >-

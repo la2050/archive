@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - Help Open A Youth Center for LGBT Homeless Youth Like No Other!
 organization_id: '2016214'
 title: The C.I.T.Y. x1 Youth Group
 org_type: Nonprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/xrBYk1R2gXQ?rel=0&amp;showinfo=0'
 project_ids:
   - '6102237'
+project_titles:
+  - Help Open A Youth Center for LGBT Homeless Youth Like No Other!
 aggregated:
   challenge_url:
     - >-

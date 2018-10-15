@@ -1,9 +1,5 @@
 ---
 youtube_video_identifier: KAJrrW9SOdA
-project_titles:
-  - >-
-    MyARC: A digital social network that solves educational challenges one
-    project at a time.
 organization_id: '2013013'
 title: arc
 org_type: For profit
@@ -78,6 +74,10 @@ project_image: 'https://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '3102006'
+project_titles:
+  - >-
+    MyARC: A digital social network that solves educational challenges one
+    project at a time.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/arcexperience.html'

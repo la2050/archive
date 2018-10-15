@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Supporting Homeless Youth Beyond the School Year, Are You All-In?'
 organization_id: '2018006'
 title: All-In Urban Summer Academy
 org_type: Forprofit
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '8102006'
+project_titles:
+  - 'Supporting Homeless Youth Beyond the School Year, Are You All-In?'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'

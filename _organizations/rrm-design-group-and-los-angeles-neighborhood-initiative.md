@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: IMG_0112.JPG
-project_titles:
-  - LA Outside The Box
 maker_image_id: '23558'
 organization_id: '2015171'
 title: RRM Design Group and Los Angeles Neighborhood Initiative
@@ -23,6 +21,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '5102257'
+project_titles:
+  - LA Outside The Box
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LAOutsideTheBox.html'

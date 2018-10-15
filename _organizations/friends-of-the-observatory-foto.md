@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: 405.jpg
-project_titles:
-  - Griffith Observatory--A pLAnetarium for 2050 now!
 maker_image_id: '20477'
 organization_id: '2014142'
 title: Friends Of The Observatory (FOTO)
@@ -24,6 +22,8 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102077'
+project_titles:
+  - Griffith Observatory--A pLAnetarium for 2050 now!
 aggregated:
   challenge_url: []
   year_submitted:

@@ -1,8 +1,4 @@
 ---
-project_titles:
-  - >-
-    The Talk Project – Teens leading workshops on sexual violence & culture
-    change
 organization_id: '2016155'
 title: National Council of Jewish Women | Los Angeles
 org_type: Nonprofit
@@ -28,6 +24,10 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/yYikBEjX8p0?rel=0&amp;showinfo=0'
 project_ids:
   - '6102162'
+project_titles:
+  - >-
+    The Talk Project – Teens leading workshops on sexual violence & culture
+    change
 aggregated:
   challenge_url:
     - >-

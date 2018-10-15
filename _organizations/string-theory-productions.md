@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: pUrKNHKdDLA
-project_titles:
-  - The Los Angeles Giant Harp Project
 organization_id: '2013175'
 title: String Theory Productions
 org_type: For profit
@@ -67,6 +65,8 @@ project_image: 'https://img.youtube.com/vi/pUrKNHKdDLA/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102099'
+project_titles:
+  - The Los Angeles Giant Harp Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/giantharpproject.html'

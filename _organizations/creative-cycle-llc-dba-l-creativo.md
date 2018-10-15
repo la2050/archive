@@ -1,7 +1,5 @@
 ---
 youtube_video_identifier: XFrn3G05ZVc
-project_titles:
-  - L Creativo - A Latin Indie Music Community
 organization_id: '2014022'
 title: 'Creative Cycle, LLC, dba. L Creativo'
 org_type: Forprofit
@@ -23,6 +21,8 @@ project_image: 'https://img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '4102049'
+project_titles:
+  - L Creativo - A Latin Indie Music Community
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LCreativo.html'

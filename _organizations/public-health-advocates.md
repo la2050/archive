@@ -1,5 +1,4 @@
 ---
-project_titles: []
 organization_id: '2015162'
 title: Public Health Advocates
 org_type: Nonprofit
@@ -20,6 +19,7 @@ zip: '#N/A'
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids: []
+project_titles: []
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/EatWellLiveBetter.html'

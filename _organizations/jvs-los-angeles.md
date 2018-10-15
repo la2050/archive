@@ -1,8 +1,5 @@
 ---
 youtube_video_identifier: iQpQqqot8AQ
-project_titles:
-  - 'JVS Works:  Creating Hope and Opportunity'
-  - 'JVS Works: Creating Hope and Opportunity'
 organization_id: '2015102'
 title: JVS Los Angeles
 org_type: Nonprofit
@@ -27,6 +24,9 @@ project_video: ''
 project_ids:
   - '5102157'
   - '5102156'
+project_titles:
+  - 'JVS Works:  Creating Hope and Opportunity'
+  - 'JVS Works: Creating Hope and Opportunity'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'

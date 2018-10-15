@@ -1,9 +1,4 @@
 ---
-project_titles:
-  - >-
-    A Peaceful Los Angeles: Developing the Hearts and Minds of Our Future
-    Leaders
-  - 'CWC LA: building communities that embrace equity and address injustice'
 organization_id: '2016038'
 title: 'Citizens of the World Charter Schools, Los Angeles'
 org_type: Nonprofit
@@ -27,6 +22,11 @@ project_video: ''
 project_ids:
   - '6102037'
   - '5102057'
+project_titles:
+  - >-
+    A Peaceful Los Angeles: Developing the Hearts and Minds of Our Future
+    Leaders
+  - 'CWC LA: building communities that embrace equity and address injustice'
 aggregated:
   challenge_url:
     - >-

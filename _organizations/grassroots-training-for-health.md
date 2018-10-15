@@ -1,6 +1,4 @@
 ---
-project_titles:
-  - 'Grassroots Training for Health: Combating Obesity One Community at a Time'
 organization_id: '2016092'
 title: Grassroots Training for Health
 org_type: Nonprofit
@@ -25,6 +23,8 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/6dLgurysIlo?rel=0&amp;showinfo=0'
 project_ids:
   - '6102084'
+project_titles:
+  - 'Grassroots Training for Health: Combating Obesity One Community at a Time'
 aggregated:
   challenge_url:
     - >-

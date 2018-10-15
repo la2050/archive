@@ -1,12 +1,5 @@
 ---
 maker_image_file_name: SPIFF-Youth-Intensive.jpg
-project_titles:
-  - >-
-    Educating  traditionally underserved youth about working in the
-    entertainment industry
-  - >-
-    Educating traditionally underserved youth about working in the entertainment
-    industry
 maker_image_id: '21797'
 organization_id: '2014009'
 title: 'Art In Motion, Inc.'
@@ -28,6 +21,13 @@ project_image: >-
 project_video: ''
 project_ids:
   - '4102016'
+project_titles:
+  - >-
+    Educating  traditionally underserved youth about working in the
+    entertainment industry
+  - >-
+    Educating traditionally underserved youth about working in the entertainment
+    industry
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/AIM.html'

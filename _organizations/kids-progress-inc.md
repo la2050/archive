@@ -1,7 +1,5 @@
 ---
 maker_image_file_name: Stem_pic.jpg
-project_titles:
-  - Building Future Leaders through STEM Education
 maker_image_id: '16366'
 organization_id: '2013106'
 title: Kids Progress Inc.
@@ -53,6 +51,8 @@ project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids:
   - '3102165'
+project_titles:
+  - Building Future Leaders through STEM Education
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/kpi.html'
