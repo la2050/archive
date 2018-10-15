@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: BRAINCANCERLA2050.jpg
+maker_image_id: '16042'
 organization_id: '2013022'
-organization_website:
-  - 'http://www.lacusc.org/'
-ein: '956000927'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000927'
-tags_indicators:
-  - Community health
-  - Health
-twitter: ''
-instagram: ''
-facebook: ''
+title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   The multidisciplinary Neuro-Oncology program at LAC+USC is one of the few in
   all of Southern California to provide multidisciplinary care to complex brain
@@ -45,6 +35,19 @@ org_summary: >-
   to novel treatments for brain tumors (such as inhaled therapies and vaccine
   trials), healthcare disparities and trends relating to brain tumors, and brain
   tumor genomics studies.
+tags_indicators:
+  - Community health
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000927'
+organization_website:
+  - 'http://www.lacusc.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '956000927'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102041'
@@ -52,19 +55,16 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
   year_submitted:
     - '2013'
-title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
-extrapolated_project_ids:
-  - '3102041'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer
-    Program 
+original_project_ids: []
 original_project_titles:
   - >-
     Development of a Multidisciplinary Los Angeles County-Based Brain Cancer
     Program 
-original_project_ids: []
-maker_image_id: '16042'
-maker_image_file_name: BRAINCANCERLA2050.jpg
+extrapolated_project_ids:
+  - '3102041'
+extrapolated_project_titles:
+  - >-
+    Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer
+    Program 
 
 ---

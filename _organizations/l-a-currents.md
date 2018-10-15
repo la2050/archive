@@ -1,17 +1,9 @@
 ---
+maker_image_file_name: lasmartmap3.jpg
+maker_image_id: '16991'
 organization_id: '2013109'
-organization_website:
-  - www.lacurrents.com
-ein: '454320808'
-zip: ''
-charity_navigator_url: ''
-twitter: ''
-instagram: ''
-facebook: ''
+title: L.A. Currents
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385
-project_video: ''
 org_summary: >-
   <p>L.A. Currents is a digital news publication about life in Los Angeles. Our
   aim is to to chart the changing face of Los Angeles by melding technology and
@@ -30,6 +22,17 @@ org_summary: >-
    
    
    <p>Additionally, L.A. Currents is currently the only West Coast partner of The Guardian’s n0tice technology, which allows us to engage our readers in new and innovative ways. We have cast a wide net to our area’s creative community, and our stable of professional writers includes traditional reporters, bloggers, screenwriters, essayists, and fiction writers.</p>
+charity_navigator_url: ''
+organization_website:
+  - www.lacurrents.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '454320808'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102066'
@@ -37,16 +40,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/lasmartmap.html'
   year_submitted:
     - '2013'
-title: L.A. Currents
-extrapolated_project_ids:
-  - '3102066'
-project_titles_from_extrapolated_project_ids:
-  - Connecting Angelenos Through Smart Engaging Neighborhood Maps
-original_project_titles:
-  - 'Connecting Angelenos Through Smart, Engaging Neighborhood Maps'
 original_project_ids:
   - '3102066'
-maker_image_id: '16991'
-maker_image_file_name: lasmartmap3.jpg
+original_project_titles:
+  - 'Connecting Angelenos Through Smart, Engaging Neighborhood Maps'
+extrapolated_project_ids:
+  - '3102066'
+extrapolated_project_titles:
+  - Connecting Angelenos Through Smart Engaging Neighborhood Maps
 
 ---

@@ -1,23 +1,25 @@
 ---
+youtube_video_identifier: 1_UXQ2fFeSU
 organization_id: '2015115'
-organization_website:
-  - www.LivingAdvantageInc.org
-ein: '954447561'
-zip: '90028'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954447561'
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: www.twitter.com/LivAdvInc
-instagram: www.instagram.com/livingadvantagebenefit
-facebook: www.facebook.com/livingadvantage
+title: 'Living Advantage, Inc.'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   LA, Inc. brings a more innovative approach by utilizing a technological and
   media platform in servicing at risk youth targeting the foster care/probation
   population through collaboration while leveraging services and resources.
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954447561'
+organization_website:
+  - www.LivingAdvantageInc.org
+twitter: www.twitter.com/LivAdvInc
+instagram: www.instagram.com/livingadvantagebenefit
+facebook: www.facebook.com/livingadvantage
+ein: '954447561'
+zip: '90028'
+project_image: 'https://img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102178'
@@ -25,19 +27,17 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
   year_submitted:
     - '2015'
-title: 'Living Advantage, Inc.'
-extrapolated_project_ids:
+original_project_ids:
   - '5102178'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Living Advantage Connecting Foster Youth in LA to a Sustainable Future:
-    Identity Equals Opportunity
 original_project_titles:
   - >-
     Living Advantage Connecting Foster Youth in LA to a Sustainable Future:
     Identity Equals Opportunity 
-original_project_ids:
+extrapolated_project_ids:
   - '5102178'
-youtube_video_identifier: 1_UXQ2fFeSU
+extrapolated_project_titles:
+  - >-
+    Living Advantage Connecting Foster Youth in LA to a Sustainable Future:
+    Identity Equals Opportunity
 
 ---

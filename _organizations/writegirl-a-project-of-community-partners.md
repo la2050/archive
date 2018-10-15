@@ -1,18 +1,20 @@
 ---
+youtube_video_identifier: FmHmFIlfA4A
 organization_id: '2014228'
-organization_website: ''
-ein: '954302067'
-zip: '90013'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'WriteGirl, a project of Community Partners'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/FmHmFIlfA4A/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   WriteGirl is a creative writing and mentoring program in LA that pairs
   underserved teen girls with professional women writers.
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+organization_website: ''
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954302067'
+zip: '90013'
+project_image: 'https://img.youtube.com/vi/FmHmFIlfA4A/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '4102188'
@@ -22,15 +24,13 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
-title: 'WriteGirl, a project of Community Partners'
-extrapolated_project_ids:
-  - '4102263'
-project_titles_from_extrapolated_project_ids:
-  - 'WriteGirl: The Write Place for Girls'
-original_project_titles:
-  - 'WriteGirl: The Write Place for Girls'
 original_project_ids:
   - '4102263'
-youtube_video_identifier: FmHmFIlfA4A
+original_project_titles:
+  - 'WriteGirl: The Write Place for Girls'
+extrapolated_project_ids:
+  - '4102263'
+extrapolated_project_titles:
+  - 'WriteGirl: The Write Place for Girls'
 
 ---

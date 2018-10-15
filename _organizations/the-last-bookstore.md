@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: LBSpan2med.jpg
+maker_image_id: '16903'
 organization_id: '2013191'
-organization_website:
-  - 'http://lastbookstorela.com/'
-ein: '208970937'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Community gatherings
-  - Art
-  - Social connectedness
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: The Last Bookstore
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16903%252Fdisplay%252FLBSpan2med.jpg=c570x385
-project_video: ''
 org_summary: >-
   The RXforLA program is an expansion Brady Wastewater’s long work with a wide
   variety of stakeholders in DTLA. Since moving there full time, he was a
@@ -37,6 +24,22 @@ org_summary: >-
    
    
    When he read the Company of Angels lost its lease and was having a garage sale of all their equipment - he found them a new space 24 hours later and over the years, he helped over 50 homeless individuals find their way off the streets.
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - 'http://lastbookstorela.com/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '208970937'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16903%252Fdisplay%252FLBSpan2med.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102107'
@@ -44,16 +47,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/RXforLA.html'
   year_submitted:
     - '2013'
-title: The Last Bookstore
-extrapolated_project_ids:
-  - '3102107'
-project_titles_from_extrapolated_project_ids:
-  - An Rx for LA  Combining Art & Technology to ReBuild Los Angeles
-original_project_titles:
-  - An Rx for LA - Combining Art & Technology to ReBuild Los Angeles
 original_project_ids:
   - '3102107'
-maker_image_id: '16903'
-maker_image_file_name: LBSpan2med.jpg
+original_project_titles:
+  - An Rx for LA - Combining Art & Technology to ReBuild Los Angeles
+extrapolated_project_ids:
+  - '3102107'
+extrapolated_project_titles:
+  - An Rx for LA  Combining Art & Technology to ReBuild Los Angeles
 
 ---

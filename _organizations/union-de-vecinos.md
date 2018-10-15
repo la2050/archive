@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: Ih-cjiooJ3M
 organization_id: '2013204'
-organization_website:
-  - www.uniondevecinos.net
-ein: '522076978'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522076978'
-tags_indicators:
-  - Voting & civic engagement
-  - Affordable housing
-  - Social connectedness
-  - Housing & homelessness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Union de Vecinos
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   In 2000 we won a Best Practice award for our community organizing from the
   United Nations’ Huairou Commission. In our model, solutions to a problem are
@@ -96,6 +83,21 @@ org_summary: >-
    
    
    o Organized, drafted, and passed Just Cause Ordinance in the City
+tags_indicators:
+  - Voting & civic engagement
+  - Affordable housing
+  - Social connectedness
+  - Housing & homelessness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522076978'
+organization_website:
+  - www.uniondevecinos.net
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '522076978'
+zip: ''
+project_image: 'https://img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102264'
@@ -103,15 +105,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/UVLA.html'
   year_submitted:
     - '2013'
-title: Union de Vecinos
-extrapolated_project_ids:
-  - '3102264'
-project_titles_from_extrapolated_project_ids:
-  - DIY Social Spaces
-original_project_titles:
-  - DIY Social Spaces
 original_project_ids:
   - '3102264'
-youtube_video_identifier: Ih-cjiooJ3M
+original_project_titles:
+  - DIY Social Spaces
+extrapolated_project_ids:
+  - '3102264'
+extrapolated_project_titles:
+  - DIY Social Spaces
 
 ---

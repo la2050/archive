@@ -463,7 +463,7 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     // For the data-titles attribute
     let projects = getProjects(data)
     data.extrapolated_project_ids = []
-    data.project_titles_from_extrapolated_project_ids = []
+    data.extrapolated_project_titles = []
     if (projects && projects.length > 0) {
       data.project_titles = projects.map(project => fixDataCharactersInString(project.title))
       projects.forEach(project => {
@@ -490,7 +490,7 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
 
         if (isSimilar) {
           data.extrapolated_project_ids.push(project.project_id)
-          data.project_titles_from_extrapolated_project_ids.push(fixDataCharactersInString(project.title))
+          data.extrapolated_project_titles.push(fixDataCharactersInString(project.title))
         }
       })
     }

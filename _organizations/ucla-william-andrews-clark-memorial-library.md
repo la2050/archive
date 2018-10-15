@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: CLARK_The_Country_Wife__1.jpg
+maker_image_id: '16669'
 organization_id: '2013203'
-organization_website:
-  - 'http://www.clarklibrary.ucla.edu/'
-ein: '952250801'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952250801'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: UCLA William Andrews Clark Memorial Library
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   The Library has offered a range of public programs and theater productions,
   taking advantage of the collection’s focus on the 17th- and 18th-century, one
@@ -26,6 +16,19 @@ org_summary: >-
   Theater performances build on the tremendous success of the Clark’s Chamber
   Music Series, now entering its 20th year, which draws over 700 people each
   year.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952250801'
+organization_website:
+  - 'http://www.clarklibrary.ucla.edu/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '952250801'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102263'
@@ -33,16 +36,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Clark.html'
   year_submitted:
     - '2013'
-title: UCLA William Andrews Clark Memorial Library
-extrapolated_project_ids:
-  - '3102263'
-project_titles_from_extrapolated_project_ids:
-  - 'Arts on the Grounds: L.A. Escena Performance Series'
-original_project_titles:
-  - 'Arts on the Grounds: L.A. Escena Performance Series'
 original_project_ids:
   - '3102263'
-maker_image_id: '16669'
-maker_image_file_name: CLARK_The_Country_Wife__1.jpg
+original_project_titles:
+  - 'Arts on the Grounds: L.A. Escena Performance Series'
+extrapolated_project_ids:
+  - '3102263'
+extrapolated_project_titles:
+  - 'Arts on the Grounds: L.A. Escena Performance Series'
 
 ---

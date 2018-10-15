@@ -1,25 +1,27 @@
 ---
+youtube_video_identifier: g5AgtC0G5ec
 organization_id: '2015049'
-organization_website:
-  - www.diygirls.org
-ein: '270575032'
-zip: '90013'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270575032'
-tags_indicators:
-  - Teaching & mentorship
-  - STEM & Digital literacy
-  - Education & youth
-twitter: www.twitter.com/diygirls
-instagram: www.instagram.com/diygirlsorg
-facebook: www.facebook.com/diygirlsLA
+title: DIY Girls
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   We foster community economic development through programs like the 2nd
   Thursday of every month Art Walk Our daily Mission is to improve the local
   community and to create economic opportunities for artists, galleries, small
   businesses, and youth
+tags_indicators:
+  - Teaching & mentorship
+  - STEM & Digital literacy
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270575032'
+organization_website:
+  - www.diygirls.org
+twitter: www.twitter.com/diygirls
+instagram: www.instagram.com/diygirlsorg
+facebook: www.facebook.com/diygirlsLA
+ein: '270575032'
+zip: '90013'
+project_image: 'https://img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102083'
@@ -27,13 +29,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
   year_submitted:
     - '2015'
-title: DIY Girls
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-original_project_titles:
-  - 'Making for Good: Empowering Girls to Improve Air Quality in Their Community'
 original_project_ids:
   - '5102082'
-youtube_video_identifier: g5AgtC0G5ec
+original_project_titles:
+  - 'Making for Good: Empowering Girls to Improve Air Quality in Their Community'
+extrapolated_project_ids: []
+extrapolated_project_titles: []
 
 ---

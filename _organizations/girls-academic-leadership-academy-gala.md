@@ -1,25 +1,26 @@
 ---
 organization_id: '2018045'
-organization_website:
-  - www.fogala.org
-ein: '812014188'
-zip: '90291'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812014188'
-tags_indicators:
-  - STEM & Digital literacy
-  - Teaching & mentorship
-  - Education & youth
-twitter: GALAcademy
-instagram: girls_academic_leadership_acad
-facebook: GALAcademy
+title: Girls Academic Leadership Academy (GALA)
 org_type: Nonprofit
-project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
-project_video: 'https://youtu.be/PTteThgae3o'
 org_summary: >-
   Through a rigorous college preparatory curriculum, Girls Academic Leadership
   Academy (GALA) provides girls with a clear pathway to college in the fields of
   science, technology, engineering and math.
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812014188'
+organization_website:
+  - www.fogala.org
+twitter: GALAcademy
+instagram: girls_academic_leadership_acad
+facebook: GALAcademy
+ein: '812014188'
+zip: '90291'
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
+project_video: 'https://youtu.be/PTteThgae3o'
 aggregated:
   project_ids:
     - '8102045'
@@ -31,12 +32,11 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
-title: Girls Academic Leadership Academy (GALA)
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-original_project_titles:
-  - 'Launch Her Future: Empowering Los Angeles Girls'
 original_project_ids:
   - '8102045'
+original_project_titles:
+  - 'Launch Her Future: Empowering Los Angeles Girls'
+extrapolated_project_ids: []
+extrapolated_project_titles: []
 
 ---

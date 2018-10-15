@@ -1,25 +1,26 @@
 ---
 organization_id: '2018115'
-organization_website:
-  - synaccord.com
-  - synaccord.com/citydemo
-ein: '47448496'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: '@synaccord'
-instagram: engageyourneighborhood
-facebook: 'https://www.facebook.com/synaccord'
+title: 'Synaccord, LLC'
 org_type: Forprofit
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
-project_video: ''
 org_summary: >-
   We build web apps for civil & constructive large scale conversations based on
   proven practices in face to face deliberative discussion so people can
   assemble in pursuit of making their world AWESOME
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - synaccord.com
+  - synaccord.com/citydemo
+twitter: '@synaccord'
+instagram: engageyourneighborhood
+facebook: 'https://www.facebook.com/synaccord'
+ein: '47448496'
+zip: ''
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
+project_video: ''
 aggregated:
   project_ids:
     - '5102293'
@@ -33,20 +34,19 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
-title: 'Synaccord, LLC'
-extrapolated_project_ids:
-  - '6102234'
-  - '5102285'
-project_titles_from_extrapolated_project_ids:
-  - Engage Your Neighborhood
-  - Engaging LA Online in Solutions that Unite Us
-original_project_titles:
-  - Engage Your Neighborhood
-  - Engaging LA Online in Solutions that Unite Us
-  - Neighborhood Conversations
 original_project_ids:
   - '5102285'
   - '6102234'
   - '8102115'
+original_project_titles:
+  - Engage Your Neighborhood
+  - Engaging LA Online in Solutions that Unite Us
+  - Neighborhood Conversations
+extrapolated_project_ids:
+  - '6102234'
+  - '5102285'
+extrapolated_project_titles:
+  - Engage Your Neighborhood
+  - Engaging LA Online in Solutions that Unite Us
 
 ---

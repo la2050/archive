@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: LASA_2012.jpg
+maker_image_id: '16261'
 organization_id: '2013189'
-organization_website:
-  - 'http://www.usc.edu/icw'
-ein: '951644589'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: The Huntington-USC Institute on California and the West
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   <p>LASA has been active since the summer of 2012. Our inaugural class of 20
   high school juniors, one high school intern, two college interns, and seven
@@ -48,6 +38,19 @@ org_summary: >-
    
    
    <p>We believe our LASA students are getting to know the region, getting to know one another, and beginning to build lasting ties to their home and one another through LASA's commitment to fostering engaged civic participation and civic education. We believe that we are off to a great start.</p>
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
+organization_website:
+  - 'http://www.usc.edu/icw'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '951644589'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102250'
@@ -55,16 +58,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LASA.html'
   year_submitted:
     - '2013'
-title: The Huntington-USC Institute on California and the West
-extrapolated_project_ids:
-  - '3102250'
-project_titles_from_extrapolated_project_ids:
-  - The Los Angeles Service Academy
-original_project_titles:
-  - The Los Angeles Service Academy
 original_project_ids:
   - '3102250'
-maker_image_id: '16261'
-maker_image_file_name: LASA_2012.jpg
+original_project_titles:
+  - The Los Angeles Service Academy
+extrapolated_project_ids:
+  - '3102250'
+extrapolated_project_titles:
+  - The Los Angeles Service Academy
 
 ---

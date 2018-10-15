@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: IMG_5905.JPG
+maker_image_id: '16427'
 organization_id: '2013006'
-organization_website:
-  - 'http://www.afabc.org'
-ein: '311760082'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311760082'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Alliance for a Better Community
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16427%252Fdisplay%252FIMG_5905.JPG=c570x385
-project_video: ''
 org_summary: >-
   College Preparatory Curriculum: ABC co-convened the Communities for
   Educational Equity, a network of more than 20 organizations that mobilized
@@ -45,6 +34,20 @@ org_summary: >-
    
    
    Don’t Hold Us Back Coalition: ABC was a leading member of this partnership comprised of a group of civil rights, parent and community organizations that believe every child deserves a quality public school education that prepares them for college and 21st century careers.. Our key demands to the LAUSD and the local teachers union included lifting the cap on teacher-led school structures; providing multiple measure evaluations to teachers; and assigning teachers to schools based on student need and not "must-place" hiring practices. As the spokesperson for the coalition, ABC used its platform in interviews with every major LA Spanish and English language newspaper and local media outlets, to describe how together, 100 parents and community members were mobilized, 26 organizations signed on to our efforts, close to 1,000 signed our petition, and as a result LAUSD-UTLA passed the Local Schools Stabilization and Empowerment Initiative of 2011. Since the coalition’s efforts wrapped up in December 2011, ABC shared its efforts with teacher groups, community organizations, parent groups and researchers nationwide to promote the replication of this type of effort.
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311760082'
+organization_website:
+  - 'http://www.afabc.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '311760082'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16427%252Fdisplay%252FIMG_5905.JPG=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102012'
@@ -52,16 +55,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'
   year_submitted:
     - '2013'
-title: Alliance for a Better Community
-extrapolated_project_ids:
-  - '3102012'
-project_titles_from_extrapolated_project_ids:
-  - 'Padres Creando Exito: Effective educators in every classroom every school  '
-original_project_titles:
-  - 'Padres Creando Exito: Effective educators in every classroom, every school  '
 original_project_ids:
   - '3102012'
-maker_image_id: '16427'
-maker_image_file_name: IMG_5905.JPG
+original_project_titles:
+  - 'Padres Creando Exito: Effective educators in every classroom, every school  '
+extrapolated_project_ids:
+  - '3102012'
+extrapolated_project_titles:
+  - 'Padres Creando Exito: Effective educators in every classroom every school  '
 
 ---

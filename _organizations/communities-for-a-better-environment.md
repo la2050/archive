@@ -1,15 +1,21 @@
 ---
+youtube_video_identifier: ghRsAe0AExM
 organization_id: '2015042'
+title: Communities for a Better Environment
+org_type: Nonprofit
+org_summary: >-
+  By working directly in underserved public schools in Los Angeles Unified
+  School District (LAUSD), Communities In Schools of Los Angeles (CISLA)
+  surrounds students with a community of support, empowering them to stay in
+  school and achieve in life.
+tags_indicators:
+  - Transportation
+  - Mobility
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260404220'
 organization_website:
   - >-
     www.cbecal.org / www.trustsouthla.org / www.nrdc.org/solutions /
     www.sharedusemobilitycenter.org/
-ein: '260404220'
-zip: '90067'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260404220'
-tags_indicators:
-  - Transportation
-  - Mobility
 twitter: >-
   https://twitter.com/CBEcal / https://twitter.com/trustsouthla1 /
   https://twitter.com/nrdcsolutions / https://twitter.com/sharedUseCntr
@@ -19,14 +25,10 @@ facebook: >-
   www.facebook.com/trustsouthla?fref=ts /
   www.facebook.com/nrdclosangeles?fref=ts /
   www.facebook.com/sharedusecenter?fref=ts
-org_type: Nonprofit
+ein: '260404220'
+zip: '90067'
 project_image: 'https://img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg'
 project_video: ''
-org_summary: >-
-  By working directly in underserved public schools in Los Angeles Unified
-  School District (LAUSD), Communities In Schools of Los Angeles (CISLA)
-  surrounds students with a community of support, empowering them to stay in
-  school and achieve in life.
 aggregated:
   project_ids:
     - '5102074'
@@ -37,15 +39,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
-title: Communities for a Better Environment
-extrapolated_project_ids:
-  - '3102084'
-project_titles_from_extrapolated_project_ids:
-  - Youth for Environmental Justice and Community Revitalization
-original_project_titles:
-  - Youth for Environmental Justice and Community Revitalization
 original_project_ids:
   - '3102084'
-youtube_video_identifier: ghRsAe0AExM
+original_project_titles:
+  - Youth for Environmental Justice and Community Revitalization
+extrapolated_project_ids:
+  - '3102084'
+extrapolated_project_titles:
+  - Youth for Environmental Justice and Community Revitalization
 
 ---

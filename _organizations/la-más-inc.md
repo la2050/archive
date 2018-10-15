@@ -1,20 +1,8 @@
 ---
+youtube_video_identifier: iGjxg6yI_og
 organization_id: '2013116'
-organization_website:
-  - mas.la
-ein: '383886677'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Creative economy
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'LA-Más, Inc.'
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Farm on Wheels is a product of the partnership between LA-MÃ¡s and Mia
   Lehrer + Associates. Since its inception, the partnership between MÃ¡s and MLA
@@ -45,6 +33,20 @@ org_summary: >-
    
    
    ML+A designed Vista Hermosa Park as an urban watershed demonstration project that accommodates community and school recreational programs, integrated with an extensive network of introduced natural features and ecosystems. Located at the edge of a dense residential zone, the park incorporates active recreation including a synthetic turf soccer field, trails, water features, a children’s adventure area and picnic areas in native habitat landscapes.</p>
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - mas.la
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '383886677'
+zip: ''
+project_image: 'https://img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102071'
@@ -52,15 +54,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/farmonwheels.html'
   year_submitted:
     - '2013'
-title: 'LA-Más, Inc.'
-extrapolated_project_ids:
-  - '3102071'
-project_titles_from_extrapolated_project_ids:
-  - Farm on Wheels
-original_project_titles:
-  - Farm on Wheels
 original_project_ids:
   - '3102071'
-youtube_video_identifier: iGjxg6yI_og
+original_project_titles:
+  - Farm on Wheels
+extrapolated_project_ids:
+  - '3102071'
+extrapolated_project_titles:
+  - Farm on Wheels
 
 ---

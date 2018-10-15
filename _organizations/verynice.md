@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: verynice.jpeg
+maker_image_id: '17230'
 organization_id: '2013214'
-organization_website:
-  - verynice.co
-ein: '455282740'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Creative economy
-  - Income & employment
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: verynice
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385
-project_video: ''
 org_summary: >-
   verynice started in my apartment at UCLA when I was 19 years old. To date, I
   have grown the organization to be home to over 170 people around the globe. We
@@ -42,6 +29,22 @@ org_summary: >-
    
    
    Over the past 3 years, I have personally delivered over 50 talks / panel discussions / workshops at venues across the United States including TEDx, UCLA, Art Center, and the Art Directors Club.
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Creative economy
+  - Income & employment
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - verynice.co
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '455282740'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102114'
@@ -49,22 +52,19 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/beverynice.html'
   year_submitted:
     - '2013'
-title: verynice
-extrapolated_project_ids:
+original_project_ids:
   - '3102114'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Helping Small Businesses and Independent Contractors in Los Angeles Be Very
-    Nice.
 original_project_titles:
   - >-
     Helping Small Businesses and Independent Contractors in Los Angeles Be Very
     Nice.
   - verynice
   - verynice gives half of its work away for free to nonprofits
-original_project_ids:
+extrapolated_project_ids:
   - '3102114'
-maker_image_id: '17230'
-maker_image_file_name: verynice.jpeg
+extrapolated_project_titles:
+  - >-
+    Helping Small Businesses and Independent Contractors in Los Angeles Be Very
+    Nice.
 
 ---

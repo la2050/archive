@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: LDkB_pxZu2k
 organization_id: '2013174'
-organization_website:
-  - www.streetcraftla.com
-ein: '237360521'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237360521'
-tags_indicators:
-  - Transportation
-  - Mobility
-twitter: ''
-instagram: ''
-facebook: ''
+title: Streetcraft LA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Streetcraft LA is a new social venture of the South Bay Center for Community
   Development (SBCC). SBCC is a long-standing non-profit organization that has
@@ -38,6 +27,19 @@ org_summary: >-
    
    
    Streetcraft is currently testing its core components and theory of change in a proof of concept pilot state funded the James Irvine Foundation. Guided by our board of directors, the focus of this planning stage was to test three assumptions critical to our model: marginalized youth engaged in graffiti culture or other illicit entrepreneur activities have talents that can be re-directed; a process of engagement can be created including partnerships with public systems and community based social networks; and youth’s talents can be monetized and professionalized. Streetcraft has piloted its model with 50 Streetcraft fellows, referred through probation and other community-based networks, who went through a work based contextualized learning experience and developed products for a retail store located on main street, Santa Monica. During this pilot period 100% of participants completed the pilot and 85% percent increased their annual income by 50%.
+tags_indicators:
+  - Transportation
+  - Mobility
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237360521'
+organization_website:
+  - www.streetcraftla.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '237360521'
+zip: ''
+project_image: 'https://img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102239'
@@ -45,19 +47,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/streetcraft.html'
   year_submitted:
     - '2013'
-title: Streetcraft LA
-extrapolated_project_ids:
+original_project_ids:
   - '3102239'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Streetcraft: where street hustlers and tag bangers become creative economy
-    entrepreneurs
 original_project_titles:
   - >-
     Streetcraft: where street hustlers and tag bangers become creative economy
     entrepreneurs
-original_project_ids:
+extrapolated_project_ids:
   - '3102239'
-youtube_video_identifier: LDkB_pxZu2k
+extrapolated_project_titles:
+  - >-
+    Streetcraft: where street hustlers and tag bangers become creative economy
+    entrepreneurs
 
 ---

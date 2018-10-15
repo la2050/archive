@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: VpqSppE8ppo
 organization_id: '2013161'
-organization_website:
-  - 'http://www.redcat.org'
-ein: '956102146'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956102146'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: REDCAT (The Roy and Edna Disney CalArts Theater)
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   REDCAT is currently celebrating ten years of bringing experimental and
   interdisciplinary performing and visual art to Los Angeles audiences. Each
@@ -28,6 +17,19 @@ org_summary: >-
   multi-ethnic, multi-lingual, and economically diverse audience, welcoming more
   than 60,000 audience members annually to concerts, dance performances,
   theatrical productions and exhibitions.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956102146'
+organization_website:
+  - 'http://www.redcat.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '956102146'
+zip: ''
+project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102227'
@@ -35,19 +37,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
   year_submitted:
     - '2013'
-title: REDCAT (The Roy and Edna Disney CalArts Theater)
-extrapolated_project_ids:
+original_project_ids:
   - '3102227'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    RADAR L.A. International Theater Festival; A vital investment in L.A.Theater
-    Artists
 original_project_titles:
   - >-
     RADAR L.A. International Theater Festival; A vital investment in L.A.Theater
     Artists
-original_project_ids:
+extrapolated_project_ids:
   - '3102227'
-youtube_video_identifier: VpqSppE8ppo
+extrapolated_project_titles:
+  - >-
+    RADAR L.A. International Theater Festival; A vital investment in L.A.Theater
+    Artists
 
 ---

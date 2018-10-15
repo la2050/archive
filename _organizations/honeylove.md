@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: TkvIb74D38g
 organization_id: '2013091'
-organization_website:
-  - 'http://www.honeylove.org/'
-ein: '452863213'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452863213'
-tags_indicators:
-  - Air & water
-  - Community health
-  - Environmental quality & sustainability
-  - Health
-twitter: ''
-instagram: ''
-facebook: ''
+title: HoneyLove
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Since being founded in April 2011, HoneyLove has been leading the grassroots
   effort to legalize urban beekeeping in Los Angeles, beginning with an
@@ -35,6 +22,21 @@ org_summary: >-
    
    
    Our most important achievements are not measured in legislative changes but in the number of people we reach, teach, and impact. In that respect we have been enormously successful. In a short time we've connected with people all over the world through monthly workshops, mentoring sessions, honey bee rescues, education outreach, neighborhood council involvement and social media connections. Our proudest single achievement is creating a global community of conscientious, active urban beekeepers who now share HoneyLove's mission with an ever-growing audience. In 2050, we hope to look back on our work and be proud to say that we helped lead the change toward a pesticide-free Los Angeles.
+tags_indicators:
+  - Air & water
+  - Community health
+  - Environmental quality & sustainability
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452863213'
+organization_website:
+  - 'http://www.honeylove.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '452863213'
+zip: ''
+project_image: 'https://img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102150'
@@ -42,14 +44,12 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/HoneyLove.html'
   year_submitted:
     - '2013'
-title: HoneyLove
-extrapolated_project_ids:
-  - '3102150'
-project_titles_from_extrapolated_project_ids:
-  - PesticideFree Los Angeles 2050
+original_project_ids: []
 original_project_titles:
   - Pesticide-Free Los Angeles 2050
-original_project_ids: []
-youtube_video_identifier: TkvIb74D38g
+extrapolated_project_ids:
+  - '3102150'
+extrapolated_project_titles:
+  - PesticideFree Los Angeles 2050
 
 ---

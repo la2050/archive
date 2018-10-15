@@ -1,25 +1,26 @@
 ---
 organization_id: '2016261'
-organization_website:
-  - www.youthbizalliance.com
-ein: '462067337'
-zip: '90245'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462067337'
+title: Youth Business Alliance
+org_type: Nonprofit
+org_summary: >-
+  We connect at risk and disadvantaged youth to life skills, local
+  professionals, and businesses.
 tags_indicators:
   - Teaching & mentorship
   - Workforce development
   - Education & youth
   - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462067337'
+organization_website:
+  - www.youthbizalliance.com
 twitter: therealyba
 instagram: youthbusinessalliance
 facebook: youthbusinessalliance
-org_type: Nonprofit
+ein: '462067337'
+zip: '90245'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 project_video: ''
-org_summary: >-
-  We connect at risk and disadvantaged youth to life skills, local
-  professionals, and businesses.
 aggregated:
   project_ids:
     - '6102287'
@@ -31,18 +32,17 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-title: Youth Business Alliance
-extrapolated_project_ids:
-  - '6102287'
-  - '5102344'
-project_titles_from_extrapolated_project_ids:
-  - Empower low income youth to break out of the poverty cycle!
-  - YOUTH BUSINESS ALLIANCE
-original_project_titles:
-  - Empower low income youth to break out of the poverty cycle!
-  - YOUTH BUSINESS ALLIANCE
 original_project_ids:
   - '5102344'
   - '6102287'
+original_project_titles:
+  - Empower low income youth to break out of the poverty cycle!
+  - YOUTH BUSINESS ALLIANCE
+extrapolated_project_ids:
+  - '6102287'
+  - '5102344'
+extrapolated_project_titles:
+  - Empower low income youth to break out of the poverty cycle!
+  - YOUTH BUSINESS ALLIANCE
 
 ---

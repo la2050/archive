@@ -1,24 +1,26 @@
 ---
+youtube_video_identifier: m_0WUOFanyM
 organization_id: '2015125'
-organization_website:
-  - www.LAMITopSail.org
-ein: '330515416'
-zip: '90731'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330515416'
-tags_indicators:
-  - Fitness & sports
-  - Health
-twitter: www.twitter.com/lami_topsail
-instagram: www.instagram.com/tallshipschool
-facebook: www.facebook.com/lami.topsail
+title: Los Angeles Maritime Institute
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   We empower youth to discover their greater potential through extraordinary
   “learning by doing” experiences at sea aboard our tall ships, instilling the
   academic skills needed to graduate from high school and fostering a love for
   lifelong learning.
+tags_indicators:
+  - Fitness & sports
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330515416'
+organization_website:
+  - www.LAMITopSail.org
+twitter: www.twitter.com/lami_topsail
+instagram: www.instagram.com/tallshipschool
+facebook: www.facebook.com/lami.topsail
+ein: '330515416'
+zip: '90731'
+project_image: 'https://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102190'
@@ -26,15 +28,13 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
   year_submitted:
     - '2015'
-title: Los Angeles Maritime Institute
-extrapolated_project_ids:
-  - '5102190'
-project_titles_from_extrapolated_project_ids:
-  - Adventure Education Aboard L.A.s Official Tall Ships
-original_project_titles:
-  - Adventure Education Aboard L.A.'s Official Tall Ships
 original_project_ids:
   - '5102190'
-youtube_video_identifier: m_0WUOFanyM
+original_project_titles:
+  - Adventure Education Aboard L.A.'s Official Tall Ships
+extrapolated_project_ids:
+  - '5102190'
+extrapolated_project_titles:
+  - Adventure Education Aboard L.A.s Official Tall Ships
 
 ---

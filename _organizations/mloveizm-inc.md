@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: Q4dC-OX4vTw
 organization_id: '2013137'
-organization_website:
-  - 'http://www.mloveizm.com'
-ein: '452495405'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: MLoveizm Inc.
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   From working, guiding, promoting, encouraging and teaching artists, we have
   seen them go on to attain more jobs as entrepreneurs, build their own brands,
@@ -23,6 +12,19 @@ org_summary: >-
   meaning in art as well as create depth in their own work. We are pleased to
   see our imprint on individuals as they go on to transform the world in
   positive sustainable ways.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.mloveizm.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '452495405'
+zip: ''
+project_image: 'https://img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102077'
@@ -30,17 +32,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/mloveizm.html'
   year_submitted:
     - '2013'
-title: MLoveizm Inc.
-extrapolated_project_ids:
-  - '3102077'
-project_titles_from_extrapolated_project_ids:
-  - MLoveizm Supports Empowers and Inspires Los Angeles Artists
-original_project_titles:
-  - 'MLoveizm Supports, Empowers and Inspires Los Angeles Artists'
-  - 'MLoveizm Supports, Empowers and Inspires Los Angeles Artists'
 original_project_ids:
   - '3102077'
   - '3102077'
-youtube_video_identifier: Q4dC-OX4vTw
+original_project_titles:
+  - 'MLoveizm Supports, Empowers and Inspires Los Angeles Artists'
+  - 'MLoveizm Supports, Empowers and Inspires Los Angeles Artists'
+extrapolated_project_ids:
+  - '3102077'
+extrapolated_project_titles:
+  - MLoveizm Supports Empowers and Inspires Los Angeles Artists
 
 ---

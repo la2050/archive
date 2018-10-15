@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: BLOOM-NEWFINAL_LOGO_ccf_tag.jpg
+maker_image_id: '16109'
 organization_id: '2013027'
-organization_website:
-  - www.calfund.org/bloom
-ein: '953510055'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953510055'
-tags_indicators:
-  - Teaching & mentorship
-  - College prep
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: California Community Foundation (CCF)
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   Since implementation in May 2012, our five service partners have enrolled 105
   BLOOM youth into their respective programs. We are planning to add at least
@@ -51,6 +40,20 @@ org_summary: >-
    
    
    In conjunction with LAGRANT COMMUNICATIONS, CCF has produced print and radio media placements and materials to expand BLOOM’s messaging. Examples of such placements include: KJLH radio (radio spots by BLOOM spokesperson Larenz Tate), The Huffington Post, California Crusader, and coverage on KABC7 Eyewitness News at 6 pm. BLOOM is also one of five philanthropic initiatives featured in Where Do We Go from Here?: Philanthropic Support for Black Men and Boys, a report published in October 2012 by The Foundation Center. The report examines U.S. foundation giving explicitly in support of Black males by issue area, type of support, and geographic area served. The analyses explore patterns of giving by larger U.S. foundations over the past eight years, with a focus on giving from 2008 to 2010.
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953510055'
+organization_website:
+  - www.calfund.org/bloom
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '953510055'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102049'
@@ -58,16 +61,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/BLOOM.html'
   year_submitted:
     - '2013'
-title: California Community Foundation (CCF)
-extrapolated_project_ids:
-  - '3102049'
-project_titles_from_extrapolated_project_ids:
-  - 'Building a Lifetime of Options and Opportunities for Men (BLOOM) '
-original_project_titles:
-  - 'Building a Lifetime of Options and Opportunities for Men (BLOOM) '
 original_project_ids:
   - '3102049'
-maker_image_id: '16109'
-maker_image_file_name: BLOOM-NEWFINAL_LOGO_ccf_tag.jpg
+original_project_titles:
+  - 'Building a Lifetime of Options and Opportunities for Men (BLOOM) '
+extrapolated_project_ids:
+  - '3102049'
+extrapolated_project_titles:
+  - 'Building a Lifetime of Options and Opportunities for Men (BLOOM) '
 
 ---

@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: 8N5kv8ddErc
 organization_id: '2013048'
-organization_website:
-  - 'http://www.creativevisions.org'
-ein: 39190 2814
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=39190 2814'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Creative Visions Foundation
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/8N5kv8ddErc/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>To date Creative Visions Foundation has incubated over 150 creative
   activist projects and productions, reaching over 90 million people.
@@ -50,6 +39,19 @@ org_summary: >-
    
    
    <p>Living on One: A documentary about 4 LA-based college students who spent their summer living on $1 a day in rural Guatemala to better understand extreme poverty, Living on One has screened in 25 cities to 52,000 people & launched a Student Microfinance Movement with participation from 55 universities. A resource for students to take microfinance classes, find internships, and attend conferences, the Student Microfinance Movement builds the skill set necessary to become successful social entrepreneurs.</p>
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=39190 2814'
+organization_website:
+  - 'http://www.creativevisions.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: 39190 2814
+zip: ''
+project_image: 'https://img.youtube.com/vi/8N5kv8ddErc/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102097'
@@ -57,15 +59,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/creativeactivists.html'
   year_submitted:
     - '2013'
-title: Creative Visions Foundation
-extrapolated_project_ids:
-  - '3102097'
-project_titles_from_extrapolated_project_ids:
-  - Creative Activist Program
-original_project_titles:
-  - Creative Activist Program
 original_project_ids:
   - '3102097'
-youtube_video_identifier: 8N5kv8ddErc
+original_project_titles:
+  - Creative Activist Program
+extrapolated_project_ids:
+  - '3102097'
+extrapolated_project_titles:
+  - Creative Activist Program
 
 ---

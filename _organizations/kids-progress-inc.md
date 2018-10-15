@@ -1,21 +1,9 @@
 ---
+maker_image_file_name: Stem_pic.jpg
+maker_image_id: '16366'
 organization_id: '2013106'
-organization_website:
-  - 'http://kidsprogressinc.org'
-ein: '651169693'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=651169693'
-tags_indicators:
-  - Affordable housing
-  - Early childhood
-  - Housing & homelessness
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Kids Progress Inc.
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   KPI received the following grants and has leveraged in-kind funding to offset
   programmatic costs.
@@ -46,6 +34,21 @@ org_summary: >-
    
    
    * A comprehensive education initiative was launched in 2012 to provide resources/programs for youth residing in public housing communities.
+tags_indicators:
+  - Affordable housing
+  - Early childhood
+  - Housing & homelessness
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=651169693'
+organization_website:
+  - 'http://kidsprogressinc.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '651169693'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102165'
@@ -53,16 +56,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/kpi.html'
   year_submitted:
     - '2013'
-title: Kids Progress Inc.
-extrapolated_project_ids:
-  - '3102165'
-project_titles_from_extrapolated_project_ids:
-  - Building Future Leaders through STEM Education
-original_project_titles:
-  - Building Future Leaders through STEM Education
 original_project_ids:
   - '3102165'
-maker_image_id: '16366'
-maker_image_file_name: Stem_pic.jpg
+original_project_titles:
+  - Building Future Leaders through STEM Education
+extrapolated_project_ids:
+  - '3102165'
+extrapolated_project_titles:
+  - Building Future Leaders through STEM Education
 
 ---

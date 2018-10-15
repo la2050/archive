@@ -1,21 +1,9 @@
 ---
+maker_image_file_name: USE.jpg
+maker_image_id: '17024'
 organization_id: '2013180'
-organization_website:
-  - 'http://www.artmageddonla.com'
-ein: '462219140'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Creative economy
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Team Friday
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17024%252Fdisplay%252FUSE.jpg=c570x385
-project_video: ''
 org_summary: >-
   Our brightest achievement was our central mission at the founding of
   ARTmageddon, to redefine Carmageddon II as ARTmageddon. And it worked! We
@@ -30,6 +18,21 @@ org_summary: >-
   ARTmageddon weekend. Hundreds of thousands of people encountered our simple
   idea, and many of them took the opportunity to walk, bike and metro to art
   nearby!
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.artmageddonla.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '462219140'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17024%252Fdisplay%252FUSE.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102104'
@@ -37,16 +40,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/artmageddon.html'
   year_submitted:
     - '2013'
-title: Team Friday
-extrapolated_project_ids:
-  - '3102104'
-project_titles_from_extrapolated_project_ids:
-  - ARTmageddon
-original_project_titles:
-  - ARTmageddon
 original_project_ids:
   - '3102104'
-maker_image_id: '17024'
-maker_image_file_name: USE.jpg
+original_project_titles:
+  - ARTmageddon
+extrapolated_project_ids:
+  - '3102104'
+extrapolated_project_titles:
+  - ARTmageddon
 
 ---

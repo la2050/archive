@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: FB9aNSfVARA
 organization_id: '2013193'
-organization_website:
-  - lafund.org
-ein: '452443162'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452443162'
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: The Los Angeles Fund for Public Education
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Since our inception in 2011, The LA Fund for Public Education worked with
   LAUSD to achieve several noteworthy accomplishments. In addition to School
@@ -39,6 +28,19 @@ org_summary: >-
    
    
    BLENDED LEARNING: We have established three different exemplar “blended learning” programs that integrate online curriculum with traditional teacher-led classroom instruction. Our programs are pilots to create new instructional models to support LAUSD in its bold initiative to cross the digital divide for every student through the use of tablet computers. Each program leverages technology as part of a rotation model where students circulate between classroom instruction, online learn
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452443162'
+organization_website:
+  - lafund.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '452443162'
+zip: ''
+project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102253'
@@ -46,19 +48,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/school_fuel.html'
   year_submitted:
     - '2013'
-title: The Los Angeles Fund for Public Education
-extrapolated_project_ids:
+original_project_ids:
   - '3102253'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    School Fuel  Tackling Childhood Obesity in the Los Angeles Unified School
-    District
 original_project_titles:
   - >-
     School Fuel - Tackling Childhood Obesity in the Los Angeles Unified School
     District
-original_project_ids:
+extrapolated_project_ids:
   - '3102253'
-youtube_video_identifier: FB9aNSfVARA
+extrapolated_project_titles:
+  - >-
+    School Fuel  Tackling Childhood Obesity in the Los Angeles Unified School
+    District
 
 ---

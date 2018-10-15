@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: 6pkTdEgSCvo
 organization_id: '2013057'
-organization_website:
-  - 'http://learnmorewithless.org'
-ein: '954230350'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954230350'
-tags_indicators:
-  - STEM & Digital literacy
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Education Consortium of Central Los Angeles / Project LESS
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/6pkTdEgSCvo/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>In March of 2013, we began lending lab equipment to the science teacher at
   YouthBuild Charter School in Pacoima. </p>
@@ -77,6 +66,19 @@ org_summary: >-
    
    
    <p>In October of 2011, we opened as a private, profit-seeking business.</p>
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954230350'
+organization_website:
+  - 'http://learnmorewithless.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954230350'
+zip: ''
+project_image: 'https://img.youtube.com/vi/6pkTdEgSCvo/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102119'
@@ -84,15 +86,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/morelearning.html'
   year_submitted:
     - '2013'
-title: Education Consortium of Central Los Angeles / Project LESS
-extrapolated_project_ids:
-  - '3102119'
-project_titles_from_extrapolated_project_ids:
-  - Learning Equipment Supply Service
-original_project_titles:
-  - Learning Equipment Supply Service
 original_project_ids:
   - '3102119'
-youtube_video_identifier: 6pkTdEgSCvo
+original_project_titles:
+  - Learning Equipment Supply Service
+extrapolated_project_ids:
+  - '3102119'
+extrapolated_project_titles:
+  - Learning Equipment Supply Service
 
 ---

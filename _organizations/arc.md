@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: KAJrrW9SOdA
 organization_id: '2013013'
-organization_website:
-  - www.arc-experience.com
-ein: '260042961'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: arc
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   ARC provides comprehensive, afterschool programming for over 23,000 student
   participants annually: 6 Elementary Schools, 6 Middle Schools, 21 High Schools
@@ -70,6 +59,19 @@ org_summary: >-
    
    
    -ARC's partnership with CORE Educational Services has brought significant private sector money to our ASSETS sites from companies such as Home Depot, State Farm, Bain Capital, Leichtag Foundation, Sound Body Sound Mind, Parsi Accounting, Whole Foods, and many more.
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - www.arc-experience.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '260042961'
+zip: ''
+project_image: 'https://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102006'
@@ -77,19 +79,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/arcexperience.html'
   year_submitted:
     - '2013'
-title: arc
-extrapolated_project_ids:
+original_project_ids:
   - '3102006'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    MyARC: A digital social network that solves educational challenges one
-    project at a time.
 original_project_titles:
   - >-
     MyARC: A digital social network that solves educational challenges one
     project at a time.
-original_project_ids:
+extrapolated_project_ids:
   - '3102006'
-youtube_video_identifier: KAJrrW9SOdA
+extrapolated_project_titles:
+  - >-
+    MyARC: A digital social network that solves educational challenges one
+    project at a time.
 
 ---

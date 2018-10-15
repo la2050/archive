@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: FVOqZ9sWi8k
 organization_id: '2013004'
-organization_website:
-  - 'http://www.alaseniorliving.org'
-ein: '953301874'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953301874'
-tags_indicators:
-  - Disability & aging
-  - Affordable housing
-  - Mobility
-  - Housing & homelessness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Affordable Living for the Aging
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/FVOqZ9sWi8k/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   In the 35 years since ALA was founded, we have helped more than 30,000 seniors
   in their search for safe, stable housing that preserves their dignity and
@@ -65,6 +52,21 @@ org_summary: >-
    
    
    http://nationalsharedhousing.org/shared-housing-symposium-in-los-angeles/
+tags_indicators:
+  - Disability & aging
+  - Affordable housing
+  - Mobility
+  - Housing & homelessness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953301874'
+organization_website:
+  - 'http://www.alaseniorliving.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '953301874'
+zip: ''
+project_image: 'https://img.youtube.com/vi/FVOqZ9sWi8k/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102009'
@@ -72,15 +74,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/SharedHousing.html'
   year_submitted:
     - '2013'
-title: Affordable Living for the Aging
-extrapolated_project_ids:
-  - '3102009'
-project_titles_from_extrapolated_project_ids:
-  - Shared Housing Helps Los Angeles Become a National Model!
-original_project_titles:
-  - Shared Housing Helps Los Angeles Become a National Model!
 original_project_ids:
   - '3102009'
-youtube_video_identifier: FVOqZ9sWi8k
+original_project_titles:
+  - Shared Housing Helps Los Angeles Become a National Model!
+extrapolated_project_ids:
+  - '3102009'
+extrapolated_project_titles:
+  - Shared Housing Helps Los Angeles Become a National Model!
 
 ---

@@ -1,21 +1,10 @@
 ---
+youtube_video_identifier: DXcrNhhe5V0
 organization_id: '2013170'
-organization_website:
-  - www.apiopa.org
-ein: '951716914'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951716914'
-tags_indicators:
-  - Community health
-  - Voting & civic engagement
-  - Health
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: >-
+  Special Service for Groups/Asian and Pacific Islander Obesity Prevention
+  Alliance (APIOPA)
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg'
-project_video: ''
 org_summary: |-
   SSG/APIOPA
    
@@ -54,6 +43,21 @@ org_summary: |-
    
    
    * Worked with youth and policy experts to craft a community development policy described as "A Model of LA Planning," which will set strong environmental and equity protections for local residents
+tags_indicators:
+  - Community health
+  - Voting & civic engagement
+  - Health
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951716914'
+organization_website:
+  - www.apiopa.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '951716914'
+zip: ''
+project_image: 'https://img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102236'
@@ -61,17 +65,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
   year_submitted:
     - '2013'
-title: >-
-  Special Service for Groups/Asian and Pacific Islander Obesity Prevention
-  Alliance (APIOPA)
-extrapolated_project_ids:
-  - '3102236'
-project_titles_from_extrapolated_project_ids:
-  - Chinatown Food Hub
-original_project_titles:
-  - Chinatown Food Hub
 original_project_ids:
   - '3102236'
-youtube_video_identifier: DXcrNhhe5V0
+original_project_titles:
+  - Chinatown Food Hub
+extrapolated_project_ids:
+  - '3102236'
+extrapolated_project_titles:
+  - Chinatown Food Hub
 
 ---

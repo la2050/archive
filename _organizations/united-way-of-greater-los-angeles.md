@@ -1,17 +1,20 @@
 ---
 organization_id: '2018132'
-organization_website:
-  - 'http://everyoneinla.org/'
-  - 'http://www.abundanthousingla.org/'
-  - 'http://www.innercitylaw.org/'
-ein: '952274801'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952274801'
+title: United Way of Greater Los Angeles
+org_type: Nonprofit
+org_summary: >-
+  EVERYONE IN, powered by United Way, is a coalition that is keeping the focus
+  on permanent solutions to homelessness.
 tags_indicators:
   - Homelessness
   - Voting & civic engagement
   - Housing & homelessness
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952274801'
+organization_website:
+  - 'http://everyoneinla.org/'
+  - 'http://www.abundanthousingla.org/'
+  - 'http://www.innercitylaw.org/'
 twitter:
   - '@EveryoneIn_LA'
   - '@InnerCityLaw'
@@ -23,13 +26,11 @@ facebook:
   - '@EveryoneInLA'
   - '@InnerCityLawCenter'
   - '@abundanthousingla'
-org_type: Nonprofit
+ein: '952274801'
+zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
 project_video: 'https://youtu.be/omjbiTiHXxU'
-org_summary: >-
-  EVERYONE IN, powered by United Way, is a coalition that is keeping the focus
-  on permanent solutions to homelessness.
 aggregated:
   project_ids:
     - '8102132'
@@ -40,12 +41,11 @@ aggregated:
   year_submitted:
     - '2018'
     - '2013'
-title: United Way of Greater Los Angeles
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-original_project_titles:
-  - 'EVERYONE IN: Preventing 30,000 Angelenos from Becoming Homeless'
 original_project_ids:
   - '8102132'
+original_project_titles:
+  - 'EVERYONE IN: Preventing 30,000 Angelenos from Becoming Homeless'
+extrapolated_project_ids: []
+extrapolated_project_titles: []
 
 ---

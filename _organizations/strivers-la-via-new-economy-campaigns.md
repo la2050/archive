@@ -1,18 +1,20 @@
 ---
+youtube_video_identifier: lz8FDz2KN0s
 organization_id: '2014194'
-organization_website: ''
-ein: '452991222'
-zip: '90026'
-charity_navigator_url: ''
-twitter: ''
-instagram: ''
-facebook: ''
+title: Strivers.LA via New Economy Campaigns
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   New Economy Campaigns drives social impact through multiplatform campaigns,
   and incubates new social venture projects like Strivers.LA.
+charity_navigator_url: ''
+organization_website: ''
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '452991222'
+zip: '90026'
+project_image: 'https://img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102095'
@@ -22,15 +24,13 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
-title: Strivers.LA via New Economy Campaigns
-extrapolated_project_ids:
-  - '4102202'
-project_titles_from_extrapolated_project_ids:
-  - Strivers.LA - digital tools for student success
-original_project_titles:
-  - Strivers.LA - digital tools for student success
 original_project_ids:
   - '4102202'
-youtube_video_identifier: lz8FDz2KN0s
+original_project_titles:
+  - Strivers.LA - digital tools for student success
+extrapolated_project_ids:
+  - '4102202'
+extrapolated_project_titles:
+  - Strivers.LA - digital tools for student success
 
 ---

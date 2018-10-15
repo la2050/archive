@@ -1,16 +1,8 @@
 ---
+youtube_video_identifier: tnpBsy1mGwQ
 organization_id: '2013010'
-organization_website:
-  - 'http://www.endinggridlock.org'
-ein: '943179772'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943179772'
-twitter: ''
-instagram: ''
-facebook: ''
+title: Angelenos Against Gridlock
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Before we tout our own horn, we should note you don't have to take our word
   for it about our achievements. Some of Los Angeles' most prominent leaders and
@@ -92,6 +84,16 @@ org_summary: >-
    
    
    (Our efforts under the names Angelenos Against Gridlock, and our predecessor efforts under the name Building LA's Future are covered herein.)
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943179772'
+organization_website:
+  - 'http://www.endinggridlock.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '943179772'
+zip: ''
+project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102021'
@@ -99,15 +101,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/fundthisproject.html'
   year_submitted:
     - '2013'
-title: Angelenos Against Gridlock
-extrapolated_project_ids:
-  - '3102021'
-project_titles_from_extrapolated_project_ids:
-  - 'LA v2.0: Transforming LA into a World Class Place to Live'
-original_project_titles:
-  - 'LA v2.0: Transforming LA into a World Class Place to Live'
 original_project_ids:
   - '3102021'
-youtube_video_identifier: tnpBsy1mGwQ
+original_project_titles:
+  - 'LA v2.0: Transforming LA into a World Class Place to Live'
+extrapolated_project_ids:
+  - '3102021'
+extrapolated_project_titles:
+  - 'LA v2.0: Transforming LA into a World Class Place to Live'
 
 ---

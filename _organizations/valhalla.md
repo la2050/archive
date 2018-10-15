@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: valhalla550.jpg
+maker_image_id: '17236'
 organization_id: '2013211'
-organization_website:
-  - 'http://valhallamovement.com/'
-ein: '462359445'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462359445'
-tags_indicators:
-  - Climate change
-  - Environmental quality & sustainability
-twitter: ''
-instagram: ''
-facebook: ''
+title: ValhalLA
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17236%252Fdisplay%252Fvalhalla550.jpg=c570x385
-project_video: ''
 org_summary: >-
   ValhaLA being founded. The establishment of partnerships within a short time
   frame; solidifying a heavy interest in making this idea a reality. The
@@ -31,6 +20,20 @@ org_summary: >-
    
    
    Valhalla Washington has also started taking its first steps toward spreading awareness so that it may also sprout into a sister site.
+tags_indicators:
+  - Climate change
+  - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462359445'
+organization_website:
+  - 'http://valhallamovement.com/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '462359445'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17236%252Fdisplay%252Fvalhalla550.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102269'
@@ -38,15 +41,12 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/ValhalLA.html'
   year_submitted:
     - '2013'
-title: ValhalLA
-extrapolated_project_ids:
-  - '3102269'
-project_titles_from_extrapolated_project_ids:
-  - 'SelfSustainable Artistic Community '
+original_project_ids: []
 original_project_titles:
   - 'Self-Sustainable Artistic Community '
-original_project_ids: []
-maker_image_id: '17236'
-maker_image_file_name: valhalla550.jpg
+extrapolated_project_ids:
+  - '3102269'
+extrapolated_project_titles:
+  - 'SelfSustainable Artistic Community '
 
 ---

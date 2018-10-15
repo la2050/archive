@@ -1,16 +1,20 @@
 ---
 organization_id: '2018058'
-organization_website:
-  - 'http://kounkuey.org'
-  - 'http://lurnetwork.org'
-ein: '900599471'
-zip: '90048'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900599471'
+title: Kounkuey Design Initiative
+org_type: Nonprofit
+org_summary: >-
+  KDI is a design + community development nonprofit that partners with residents
+  in underserved neighborhoods to create public spaces that meet priority needs,
+  build equity + help communities thrive.
 tags_indicators:
   - Access to parks & green space
   - Fitness & sports
   - Public safety & public space
   - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900599471'
+organization_website:
+  - 'http://kounkuey.org'
+  - 'http://lurnetwork.org'
 twitter:
   - '@Kounkuey'
   - '@LURNetwork'
@@ -18,14 +22,11 @@ instagram:
   - '@kounkuey'
   - '@lurnetwork'
 facebook: www.facebook.com/Kounkuey/
-org_type: Nonprofit
+ein: '900599471'
+zip: '90048'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
 project_video: 'https://www.youtube.com/watch?v=50O1szspYcg'
-org_summary: >-
-  KDI is a design + community development nonprofit that partners with residents
-  in underserved neighborhoods to create public spaces that meet priority needs,
-  build equity + help communities thrive.
 aggregated:
   project_ids:
     - '8102058'
@@ -36,16 +37,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2014'
-title: Kounkuey Design Initiative
-extrapolated_project_ids:
-  - '4102106'
-project_titles_from_extrapolated_project_ids:
-  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
-original_project_titles:
-  - 'Play YOUR way, LA!'
-  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
 original_project_ids:
   - '4102106'
   - '8102058'
+original_project_titles:
+  - 'Play YOUR way, LA!'
+  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
+extrapolated_project_ids:
+  - '4102106'
+extrapolated_project_titles:
+  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
 
 ---

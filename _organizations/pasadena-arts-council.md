@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: AxSBrochure_Cover_v2.jpg
+maker_image_id: '16490'
 organization_id: '2013152'
-organization_website:
-  - www.pasadenaartscouncil.org
-ein: '95254059'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=95254059'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Pasadena Arts Council
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16490%252Fdisplay%252FAxSBrochure_Cover_v2.jpg=c570x385
-project_video: ''
 org_summary: >-
   AxS Festivals have examined the interplay of art and science since The
   Universe” (2001), which contemplated man’s place in the cosmos; “The Tender
@@ -42,6 +31,20 @@ org_summary: >-
    
    
    Pasadena Arts Council is the oldest arts service organization in California, established in 1964. In 2014 we will celebrate our 50th anniversary, which we think is a pretty good achievement in itself.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=95254059'
+organization_website:
+  - www.pasadenaartscouncil.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '95254059'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16490%252Fdisplay%252FAxSBrochure_Cover_v2.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102214'
@@ -49,15 +52,12 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/axsfestival.html'
   year_submitted:
     - '2013'
-title: Pasadena Arts Council
-extrapolated_project_ids:
-  - '3102214'
-project_titles_from_extrapolated_project_ids:
-  - AxS aksis Festival
+original_project_ids: []
 original_project_titles:
   - 'AxS [ak-sis] Festival'
-original_project_ids: []
-maker_image_id: '16490'
-maker_image_file_name: AxSBrochure_Cover_v2.jpg
+extrapolated_project_ids:
+  - '3102214'
+extrapolated_project_titles:
+  - AxS aksis Festival
 
 ---

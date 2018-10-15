@@ -1,24 +1,25 @@
 ---
 organization_id: '2016148'
-organization_website:
-  - milkandbookies.org
-ein: '263245228'
-zip: '90404'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263245228'
-tags_indicators:
-  - Early childhood
-  - Education & youth
-twitter: milkandbookies
-instagram: MilkandBookies
-facebook: milkandbookies
+title: Milk + Bookies
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
-project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk?rel=0&amp;showinfo=0'
 org_summary: >-
   Milk+Bookies, and our Leaders+Readers program, is about spreading the love of
   reading to those who can’t afford books and teaching kids the importance of
   giving back to others.
+tags_indicators:
+  - Early childhood
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263245228'
+organization_website:
+  - milkandbookies.org
+twitter: milkandbookies
+instagram: MilkandBookies
+facebook: milkandbookies
+ein: '263245228'
+zip: '90404'
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
+project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102155'
@@ -32,22 +33,21 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
-title: Milk + Bookies
-extrapolated_project_ids:
-  - '6102155'
-  - '5102208'
-  - '4102146'
-project_titles_from_extrapolated_project_ids:
-  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
-  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond'
-  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
-original_project_titles:
-  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond '
-  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
-  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
 original_project_ids:
   - '4102146'
   - '5102208'
   - '6102155'
+original_project_titles:
+  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond '
+  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
+  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
+extrapolated_project_ids:
+  - '6102155'
+  - '5102208'
+  - '4102146'
+extrapolated_project_titles:
+  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
+  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond'
+  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
 
 ---

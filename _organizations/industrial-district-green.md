@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: CqF0Cn4dZJs
 organization_id: '2013096'
-organization_website:
-  - 'http://www.scribd.com/doc/114301906/IDG-Preview'
-ein: '460946310'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460946310'
-tags_indicators:
-  - Access to parks & green space
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: Industrial District Green
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Well before founding Industrial District Green, Katherine McNenny had begun
   laying the groundwork for future non-profit greening activities. In December
@@ -29,6 +18,19 @@ org_summary: >-
    
    
    She is currently overseeing another tree planting also in Skid Row, with the LA Conservation Corps along Boyd & Omar Streets between 3rd and 4th. She has been working with property owners and sponsors on this project for several months now. The planting date will be March 23rd, 2013. Volunteers from Union Church (in Little Tokyo) and several local residents from the neighborhood will help plant the trees.
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460946310'
+organization_website:
+  - 'http://www.scribd.com/doc/114301906/IDG-Preview'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '460946310'
+zip: ''
+project_image: 'https://img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102155'
@@ -36,15 +38,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'
   year_submitted:
     - '2013'
-title: Industrial District Green
-extrapolated_project_ids:
-  - '3102155'
-project_titles_from_extrapolated_project_ids:
-  - Greening 7th St. in Skid Row/DTLA
-original_project_titles:
-  - Greening 7th St. in Skid Row/DTLA
 original_project_ids:
   - '3102155'
-youtube_video_identifier: CqF0Cn4dZJs
+original_project_titles:
+  - Greening 7th St. in Skid Row/DTLA
+extrapolated_project_ids:
+  - '3102155'
+extrapolated_project_titles:
+  - Greening 7th St. in Skid Row/DTLA
 
 ---

@@ -1,21 +1,9 @@
 ---
+maker_image_file_name: Screen_shot_2013-03-28_at_2.40.43_PM.png
+maker_image_id: '17103'
 organization_id: '2013042'
-organization_website:
-  - www.collaborativetutoring.com
-ein: '462388422'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Fitness & sports
-  - Community safety
-  - Health
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: Collaborative Tutoring
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   <p>Collaborative Tutoring is an organization driven by the ultimate goal of
   collaborating with businesses, organizations, agencies, the young people, and
@@ -38,6 +26,21 @@ org_summary: >-
    
    
    <p>It is our goal to continue to develop and implement a structured Mentoring and Internship program for our students.</p>
+tags_indicators:
+  - Fitness & sports
+  - Community safety
+  - Health
+  - Public safety & public space
+charity_navigator_url: ''
+organization_website:
+  - www.collaborativetutoring.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '462388422'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102020'
@@ -45,18 +48,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
   year_submitted:
     - '2013'
-title: Collaborative Tutoring
-extrapolated_project_ids:
-  - '3102020'
-project_titles_from_extrapolated_project_ids:
-  - Mentoring through Education Movement
-original_project_titles:
-  - Mentoring through Education Movement
-  - Mentoring through Education Movement
 original_project_ids:
   - '3102020'
   - '3102020'
-maker_image_id: '17103'
-maker_image_file_name: Screen_shot_2013-03-28_at_2.40.43_PM.png
+original_project_titles:
+  - Mentoring through Education Movement
+  - Mentoring through Education Movement
+extrapolated_project_ids:
+  - '3102020'
+extrapolated_project_titles:
+  - Mentoring through Education Movement
 
 ---

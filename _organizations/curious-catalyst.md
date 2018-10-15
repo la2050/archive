@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: gatKpPjdUvo
 organization_id: '2013049'
-organization_website:
-  - www.curiouscatalyst.com
-ein: TBC
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Curious Catalyst
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Curious Catalyst is a new consultancy that employs agile and lean
   methodologies typically associated with disruption in ICT to drive
@@ -40,6 +29,19 @@ org_summary: >-
    
    
    <p>The company has garnered support from some of the top architects and urban developers in the world, as we’re building our Advisory Board. And as passionate believers in user-centered design, we are committed to genuine collaboration with all constituencies when developing approaches to these solutions.</p>
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - www.curiouscatalyst.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: TBC
+zip: ''
+project_image: 'https://img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102022'
@@ -47,16 +49,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'
   year_submitted:
     - '2013'
-title: Curious Catalyst
-extrapolated_project_ids:
+original_project_ids:
   - '3102022'
-project_titles_from_extrapolated_project_ids:
-  - 'Food Truck + Food Desert = Win Win Win! '
 original_project_titles:
   - Curious Catalyst
   - 'Food Truck + Food Desert = Win Win Win! '
-original_project_ids:
+extrapolated_project_ids:
   - '3102022'
-youtube_video_identifier: gatKpPjdUvo
+extrapolated_project_titles:
+  - 'Food Truck + Food Desert = Win Win Win! '
 
 ---

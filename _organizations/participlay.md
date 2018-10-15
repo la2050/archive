@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: Diva_Mob_with_logo.jpeg
+maker_image_id: '17034'
 organization_id: '2013151'
-organization_website:
-  - www.participlay.com
-ein: '208482508'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Participlay
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17034%252Fdisplay%252FDiva_Mob_with_logo.jpeg=c570x385
-project_video: ''
 org_summary: >-
   A mobile arts and crafting unit that visits targeted community sites around LA
   County providing the opportunity to create hands on art projects and community
@@ -26,6 +15,20 @@ org_summary: >-
   know art has the power to elevate, enlighten, transform, and celebrate. We
   know our particular brand of interactive, experiential arts programming is
   transformative.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.participlay.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '208482508'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17034%252Fdisplay%252FDiva_Mob_with_logo.jpeg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102083'
@@ -33,16 +36,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/craftservices.html'
   year_submitted:
     - '2013'
-title: Participlay
-extrapolated_project_ids:
-  - '3102083'
-project_titles_from_extrapolated_project_ids:
-  - Craft Services
-original_project_titles:
-  - Craft Services
 original_project_ids:
   - '3102083'
-maker_image_id: '17034'
-maker_image_file_name: Diva_Mob_with_logo.jpeg
+original_project_titles:
+  - Craft Services
+extrapolated_project_ids:
+  - '3102083'
+extrapolated_project_titles:
+  - Craft Services
 
 ---

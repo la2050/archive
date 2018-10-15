@@ -1,23 +1,8 @@
 ---
+youtube_video_identifier: vZOFIeiYKwA
 organization_id: '2013187'
-organization_website:
-  - www.gwhfc.org
-ein: 951716914 (in the name of Special Service for Groups)
-zip: ''
-charity_navigator_url: >-
-  https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951716914
-  (in the name of Special Service for Groups)
-tags_indicators:
-  - Homelessness
-  - Access to healthy food
-  - Housing & homelessness
-  - Health
-twitter: ''
-instagram: ''
-facebook: ''
+title: The Greater West Hollywood Food Coalition
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Having been called into being as volunteers by the City of West Hollywood in
   1987, we suffered the awful realization just two years later that West
@@ -46,6 +31,23 @@ org_summary: >-
   at the takeoff point, in that every new volunteer who means it has a new idea
   as to how we can reach deeper into the community and how we can avail
   ourselves of its strength to do more for the weakest among us.
+tags_indicators:
+  - Homelessness
+  - Access to healthy food
+  - Housing & homelessness
+  - Health
+charity_navigator_url: >-
+  https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951716914
+  (in the name of Special Service for Groups)
+organization_website:
+  - www.gwhfc.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: 951716914 (in the name of Special Service for Groups)
+zip: ''
+project_image: 'https://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102248'
@@ -53,15 +55,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
   year_submitted:
     - '2013'
-title: The Greater West Hollywood Food Coalition
-extrapolated_project_ids:
-  - '3102248'
-project_titles_from_extrapolated_project_ids:
-  - volunteers housing the homeless
-original_project_titles:
-  - volunteers housing the homeless
 original_project_ids:
   - '3102248'
-youtube_video_identifier: vZOFIeiYKwA
+original_project_titles:
+  - volunteers housing the homeless
+extrapolated_project_ids:
+  - '3102248'
+extrapolated_project_titles:
+  - volunteers housing the homeless
 
 ---

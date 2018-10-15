@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: sN5SCezYZTM
 organization_id: '2013195'
-organization_website:
-  - www.thelatrust.org
-ein: '954262448'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954262448'
-tags_indicators:
-  - Community health
-  - Health
-twitter: ''
-instagram: ''
-facebook: ''
+title: The Los Angeles Trust for Children's Health
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/sN5SCezYZTM/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   One of the most significant achievements to date for The LA Trust has been the
   engagement of a broad cross-section of stakeholders to develop a strategic
@@ -50,6 +39,19 @@ org_summary: >-
    
    
    - Raised funds for and created a District Oral Health Nurse position
+tags_indicators:
+  - Community health
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954262448'
+organization_website:
+  - www.thelatrust.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954262448'
+zip: ''
+project_image: 'https://img.youtube.com/vi/sN5SCezYZTM/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102255'
@@ -57,19 +59,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/thelatrust.html'
   year_submitted:
     - '2013'
-title: The Los Angeles Trust for Children's Health
-extrapolated_project_ids:
+original_project_ids:
   - '3102255'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Student Health = Student Success. Improving student health and readiness to
-    learn in LA 
 original_project_titles:
   - >-
     Student Health = Student Success. Improving student health and readiness to
     learn in LA 
-original_project_ids:
+extrapolated_project_ids:
   - '3102255'
-youtube_video_identifier: sN5SCezYZTM
+extrapolated_project_titles:
+  - >-
+    Student Health = Student Success. Improving student health and readiness to
+    learn in LA 
 
 ---

@@ -1,17 +1,9 @@
 ---
+maker_image_file_name: Pacesetter.jpg
+maker_image_id: '16972'
 organization_id: '2013149'
-organization_website:
-  - www.leecondon.com
-ein: '461206998'
-zip: ''
-charity_navigator_url: ''
-twitter: ''
-instagram: ''
-facebook: ''
+title: Pacesetter Productions
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16972%252Fdisplay%252FPacesetter.jpg=c570x385
-project_video: ''
 org_summary: >-
   Pacesetter Productions is a new name for a consulting business Lee Condon has
   run from 2005 to the present. During that time, our project teams have
@@ -36,6 +28,17 @@ org_summary: >-
    
    
    http://www.leecondon.com/writing.html
+charity_navigator_url: ''
+organization_website:
+  - www.leecondon.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '461206998'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16972%252Fdisplay%252FPacesetter.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102081'
@@ -43,16 +46,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Passion.html'
   year_submitted:
     - '2013'
-title: Pacesetter Productions
-extrapolated_project_ids:
-  - '3102081'
-project_titles_from_extrapolated_project_ids:
-  - A Passion at Risk
-original_project_titles:
-  - A Passion at Risk
 original_project_ids:
   - '3102081'
-maker_image_id: '16972'
-maker_image_file_name: Pacesetter.jpg
+original_project_titles:
+  - A Passion at Risk
+extrapolated_project_ids:
+  - '3102081'
+extrapolated_project_titles:
+  - A Passion at Risk
 
 ---

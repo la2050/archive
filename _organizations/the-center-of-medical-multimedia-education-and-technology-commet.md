@@ -1,22 +1,24 @@
 ---
+youtube_video_identifier: NNetdspYB4M
 organization_id: '2015197'
-organization_website:
-  - www.COMMET.org
-ein: '954522806'
-zip: '90049'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954522806'
-tags_indicators:
-  - Community health
-  - Health
-twitter: 'https://twitter.com/epicenter_la'
-instagram: N/A
-facebook: 'https://www.facebook.com/pages/The-Epicenter/220315941470120'
+title: The Center of Medical Multimedia Education and Technology (COMMET)
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   COMMET promotes the widespread use of new medical technology, helping to
   bridge the gap between medicine and technology.
+tags_indicators:
+  - Community health
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954522806'
+organization_website:
+  - www.COMMET.org
+twitter: 'https://twitter.com/epicenter_la'
+instagram: N/A
+facebook: 'https://www.facebook.com/pages/The-Epicenter/220315941470120'
+ein: '954522806'
+zip: '90049'
+project_image: 'https://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102297'
@@ -26,13 +28,9 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-title: The Center of Medical Multimedia Education and Technology (COMMET)
-extrapolated_project_ids:
+original_project_ids:
+  - '4102247'
   - '5102297'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    The Cyber Insecurity Initiative of the Los Angeles Health Care Security
-    Systems Project
 original_project_titles:
   - >-
     The Cyber Insecurity Initiative of the Los Angeles Health Care Security
@@ -40,9 +38,11 @@ original_project_titles:
   - >-
     The Cyber Insecurity Initiative of the Los Angeles Healthcare Security
     Systems Project
-original_project_ids:
-  - '4102247'
+extrapolated_project_ids:
   - '5102297'
-youtube_video_identifier: NNetdspYB4M
+extrapolated_project_titles:
+  - >-
+    The Cyber Insecurity Initiative of the Los Angeles Health Care Security
+    Systems Project
 
 ---

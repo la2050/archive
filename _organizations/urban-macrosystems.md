@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: placita_nueva.jpg
+maker_image_id: '16818'
 organization_id: '2013209'
-organization_website:
-  - www.urbanmacrosystems.com
-ein: '565687413'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Urban Macrosystems
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16818%252Fdisplay%252Fplacita_nueva.jpg=c570x385
-project_video: ''
 org_summary: >-
   <p>Urban Macrosystems’ partners have collaborated on several projects prior to
   its inception:</p>
@@ -48,6 +37,20 @@ org_summary: >-
    
    
    <p>Birds Words — A series of structures for the North Embarcadero Visionary Plan, San Diego 2014</p>
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.urbanmacrosystems.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '565687413'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16818%252Fdisplay%252Fplacita_nueva.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102113'
@@ -55,16 +58,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/NRT.html'
   year_submitted:
     - '2013'
-title: Urban Macrosystems
-extrapolated_project_ids:
-  - '3102113'
-project_titles_from_extrapolated_project_ids:
-  - 'Narrative Replacement Therapy: Reimagining the Heart of Los Angeles'
-original_project_titles:
-  - 'Narrative Replacement Therapy: Reimagining the Heart of Los Angeles'
 original_project_ids:
   - '3102113'
-maker_image_id: '16818'
-maker_image_file_name: placita_nueva.jpg
+original_project_titles:
+  - 'Narrative Replacement Therapy: Reimagining the Heart of Los Angeles'
+extrapolated_project_ids:
+  - '3102113'
+extrapolated_project_titles:
+  - 'Narrative Replacement Therapy: Reimagining the Heart of Los Angeles'
 
 ---

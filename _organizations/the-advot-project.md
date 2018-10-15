@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: logo.png
+maker_image_id: '17036'
 organization_id: '2013183'
-organization_website:
-  - www.theadvotproject.org
-ein: '273084801'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273084801'
-tags_indicators:
-  - Art
-  - Teaching & mentorship
-  - Arts & cultural vitality
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: The Advot Project
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17036%252Fdisplay%252Flogo.png=c570x385
-project_video: ''
 org_summary: >-
   <p>Through our Healthy Community Program and performances of “Flowers Aren’t
   Enough” (see videos to see the show itself and interviews with the creators:
@@ -77,6 +64,22 @@ org_summary: >-
    
    
    <p>http://zev.lacounty.gov/spotlight-story/naomi-and-the-homeboys</p>
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273084801'
+organization_website:
+  - www.theadvotproject.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '273084801'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17036%252Fdisplay%252Flogo.png=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102244'
@@ -84,16 +87,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/advotproject.html'
   year_submitted:
     - '2013'
-title: The Advot Project
-extrapolated_project_ids:
-  - '3102244'
-project_titles_from_extrapolated_project_ids:
-  - 'Advot: Theater to Facilitate Change'
-original_project_titles:
-  - 'Advot: Theater to Facilitate Change'
 original_project_ids:
   - '3102244'
-maker_image_id: '17036'
-maker_image_file_name: logo.png
+original_project_titles:
+  - 'Advot: Theater to Facilitate Change'
+extrapolated_project_ids:
+  - '3102244'
+extrapolated_project_titles:
+  - 'Advot: Theater to Facilitate Change'
 
 ---

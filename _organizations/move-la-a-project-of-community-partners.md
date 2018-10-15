@@ -1,26 +1,27 @@
 ---
 organization_id: '2018084'
-organization_website:
-  - www.movela.org
-ein: '954302067'
-zip: '90015'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+title: 'Move LA, a project of Community Partners'
+org_type: Nonprofit
+org_summary: >-
+  We are coalition builders who instigated the Measure R and M campaigns that
+  won $160 billion for transit and now seek to reduce the impact of
+  transportation on air toxins and climate change.
 tags_indicators:
   - Transportation
   - Climate change
   - Mobility
   - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+organization_website:
+  - www.movela.org
 twitter: '@movelatransit'
 instagram: '@movelatransit'
 facebook: 'https://www.facebook.com/movelatransit/'
-org_type: Nonprofit
+ein: '954302067'
+zip: '90015'
 project_image: >-
   https://d3n8a8pro7vhmx.cloudfront.net/movela/pages/7205/attachments/original/1534828727/escooter.png?1534828727
 project_video: 'https://youtu.be/4JnqpY0nP4s'
-org_summary: >-
-  We are coalition builders who instigated the Measure R and M campaigns that
-  won $160 billion for transit and now seek to reduce the impact of
-  transportation on air toxins and climate change.
 aggregated:
   project_ids:
     - '8102084'
@@ -38,21 +39,20 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
-title: 'Move LA, a project of Community Partners'
-extrapolated_project_ids:
-  - '5102213'
+original_project_ids:
   - '3102199'
-project_titles_from_extrapolated_project_ids:
-  - Universal Student Transit Passes for LA Community Colleges
-  - Student Eco Riders
+  - '5102213'
 original_project_titles:
   - >-
     #Vision2020: An Achievable Plan to Save Us All from Air Toxins, Diesel
     Pollution & Climate Change!
   - Student Eco Riders
   - Universal Student Transit Passes for LA Community Colleges
-original_project_ids:
-  - '3102199'
+extrapolated_project_ids:
   - '5102213'
+  - '3102199'
+extrapolated_project_titles:
+  - Universal Student Transit Passes for LA Community Colleges
+  - Student Eco Riders
 
 ---

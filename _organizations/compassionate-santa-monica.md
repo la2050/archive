@@ -1,21 +1,22 @@
 ---
 organization_id: '2016054'
-organization_website:
-  - charterforcompassion.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: Compassionate Santa Monica
+org_type: Nonprofit
+org_summary: Building Compassionate cities since 2013
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - charterforcompassion.org
 twitter: CompassionSaMo
 instagram: compassionateSAMO
 facebook: compassionsamo
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 project_video: 'https://www.youtube.com/embed/7bCjkM0o31Y?rel=0&amp;showinfo=0'
-org_summary: Building Compassionate cities since 2013
 aggregated:
   project_ids:
     - '6102053'
@@ -24,14 +25,13 @@ aggregated:
       https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest
   year_submitted:
     - '2016'
-title: Compassionate Santa Monica
-extrapolated_project_ids:
-  - '6102053'
-project_titles_from_extrapolated_project_ids:
-  - 'Compassion Games, Survival of the Kindest'
-original_project_titles:
-  - 'Compassion Games, Survival of the Kindest'
 original_project_ids:
   - '6102053'
+original_project_titles:
+  - 'Compassion Games, Survival of the Kindest'
+extrapolated_project_ids:
+  - '6102053'
+extrapolated_project_titles:
+  - 'Compassion Games, Survival of the Kindest'
 
 ---

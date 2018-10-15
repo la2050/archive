@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: Apptalk.JPG
+maker_image_id: '16476'
 organization_id: '2013095'
-organization_website: ''
-ein: In process
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Individual Systems
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16476%252Fdisplay%252FApptalk.JPG=c570x385
-project_video: ''
 org_summary: >-
   <P>Achievements in Educational landscape: pragmatic, innovative,
   collaborative.<p>
@@ -47,6 +37,19 @@ org_summary: >-
    
    
    <P>The recent course Karen had taken, coupled with the perfect timing of having Lola as student along with the professional development she shared with other teachers made Karen realize just how many kids would in the future, benefit tremendously by a "work system" like she had informally developed for Lola, and an idea took root: an App version.<P>
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: ''
+organization_website: ''
+twitter: ''
+instagram: ''
+facebook: ''
+ein: In process
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16476%252Fdisplay%252FApptalk.JPG=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102062'
@@ -54,16 +57,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/KCARUSO.html'
   year_submitted:
     - '2013'
-title: Individual Systems
-extrapolated_project_ids:
-  - '3102062'
-project_titles_from_extrapolated_project_ids:
-  - LOLA the Lifelong Organizational Learning App
-original_project_titles:
-  - 'LOLA, the Lifelong Organizational Learning App'
 original_project_ids:
   - '3102062'
-maker_image_id: '16476'
-maker_image_file_name: Apptalk.JPG
+original_project_titles:
+  - 'LOLA, the Lifelong Organizational Learning App'
+extrapolated_project_ids:
+  - '3102062'
+extrapolated_project_titles:
+  - LOLA the Lifelong Organizational Learning App
 
 ---

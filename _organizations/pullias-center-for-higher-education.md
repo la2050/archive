@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: jGa5KEowRPM
 organization_id: '2013158'
-organization_website:
-  - 'http://pullias.usc.edu/'
-ein: '951642394'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
-tags_indicators:
-  - College prep
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Pullias Center for Higher Education
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   The Pullias Center for Higher Education is dedicated to improving access to
   college for low-income and historically under-represented students. The
@@ -48,6 +37,19 @@ org_summary: >-
   and careers. Our games were developed and pilot tested in Los Angeles and are
   now utilized nationally. My LA2050 funding would enable us to expand these
   programs and train practitioners on how to make use of the game-based tools.
+tags_indicators:
+  - College prep
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
+organization_website:
+  - 'http://pullias.usc.edu/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '951642394'
+zip: ''
+project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102224'
@@ -55,15 +57,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/collegecapacity.html'
   year_submitted:
     - '2013'
-title: Pullias Center for Higher Education
-extrapolated_project_ids:
-  - '3102224'
-project_titles_from_extrapolated_project_ids:
-  - Increasing Capacity for College Going
-original_project_titles:
-  - Increasing Capacity for College Going
 original_project_ids:
   - '3102224'
-youtube_video_identifier: jGa5KEowRPM
+original_project_titles:
+  - Increasing Capacity for College Going
+extrapolated_project_ids:
+  - '3102224'
+extrapolated_project_titles:
+  - Increasing Capacity for College Going
 
 ---

@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: 130126-0191.jpg
+maker_image_id: '17003'
 organization_id: '2013172'
-organization_website:
-  - www.suwn.org
-ein: '954701468'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954701468'
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Step Up Women's Network
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17003%252Fdisplay%252F130126-0191.jpg=c570x385
-project_video: ''
 org_summary: >-
   Step Up is proud that since beginning Teen Empowerment Programs in 2006 we
   have worked with nearly 700 underserved teen girls. For the past three years,
@@ -65,6 +54,20 @@ org_summary: >-
    
    
    Ja’Nai, Gettysburg College Class of 2016 “By participating in Step Up they taught me all about the business world and what I needed to do to be successful in it. In addition, it taught me exactly what my working style is and helped guide me in my search of what career I may want to pursue in the future by providing me with several exceptional mentors who are successful businesswoman. Through this program I was also able to obtain an internship at The JAR Group. I want to be a writer when I get older so my internship really helps me exercise my skills, since I spend most of my time finding content and sampling copies to go along with it. The Step Up program has given me the opportunity to have a voice.”
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954701468'
+organization_website:
+  - www.suwn.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954701468'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17003%252Fdisplay%252F130126-0191.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102238'
@@ -72,16 +75,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/StepUp.html'
   year_submitted:
     - '2013'
-title: Step Up Women's Network
-extrapolated_project_ids:
-  - '3102238'
-project_titles_from_extrapolated_project_ids:
-  - Professional women Step Up to help underserved teen girls graduate
-original_project_titles:
-  - Professional women Step Up to help underserved teen girls graduate
 original_project_ids:
   - '3102238'
-maker_image_id: '17003'
-maker_image_file_name: 130126-0191.jpg
+original_project_titles:
+  - Professional women Step Up to help underserved teen girls graduate
+extrapolated_project_ids:
+  - '3102238'
+extrapolated_project_titles:
+  - Professional women Step Up to help underserved teen girls graduate
 
 ---

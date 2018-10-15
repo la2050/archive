@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: mJP7rkVcRfo
 organization_id: '2013155'
-organization_website:
-  - www.playworks.org/socal
-ein: '943251867'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943251867'
-tags_indicators:
-  - Fitness & sports
-  - Access to parks & green space
-  - Health
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: Playworks Southern California
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   In 2012, Playworks was selected as one of the Social Impact Exchange's 100
   Index in the category of education. The S&I 100 Index consists of high-impact
@@ -35,6 +22,21 @@ org_summary: >-
    
    
    Playworks featured at the Clinton Global Initiative in 2009. The mission of the Clinton Global Initiative (CGI) is to turn ideas into action. Established in 2005 by President Bill Clinton, the Clinton Global Initiative (CGI) convenes global leaders to create and implement innovative solutions to the world's most pressing challenges.
+tags_indicators:
+  - Fitness & sports
+  - Access to parks & green space
+  - Health
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943251867'
+organization_website:
+  - www.playworks.org/socal
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '943251867'
+zip: ''
+project_image: 'https://img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102220'
@@ -42,15 +44,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Recess.html'
   year_submitted:
     - '2013'
-title: Playworks Southern California
-extrapolated_project_ids:
-  - '3102220'
-project_titles_from_extrapolated_project_ids:
-  - Creating a Positive Learning Environment
-original_project_titles:
-  - Creating a Positive Learning Environment
 original_project_ids:
   - '3102220'
-youtube_video_identifier: mJP7rkVcRfo
+original_project_titles:
+  - Creating a Positive Learning Environment
+extrapolated_project_ids:
+  - '3102220'
+extrapolated_project_titles:
+  - Creating a Positive Learning Environment
 
 ---

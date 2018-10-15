@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: XyASgYDVS_Q
 organization_id: '2013026'
-organization_website:
-  - 'http://cacalls.org'
-ein: '954635737'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954635737'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: California Calls
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/XyASgYDVS_Q/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   California Calls is a statewide alliance of community-based organizations
   working to win systemic public policy reforms to achieve progressive taxation,
@@ -59,6 +48,19 @@ org_summary: >-
    
    
    *Immigrant voters identified by California Calls as supporters participated at an average rate of 81%, compared to a statewide average of 68%--a 13% point increase
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954635737'
+organization_website:
+  - 'http://cacalls.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954635737'
+zip: ''
+project_image: 'https://img.youtube.com/vi/XyASgYDVS_Q/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102048'
@@ -66,18 +68,16 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
   year_submitted:
     - '2013'
-title: California Calls
-extrapolated_project_ids:
-  - '3102048'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in
-    LowIncome Neighborhoods
+original_project_ids: []
 original_project_titles:
   - >-
     Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in
     Low-Income Neighborhoods
-original_project_ids: []
-youtube_video_identifier: XyASgYDVS_Q
+extrapolated_project_ids:
+  - '3102048'
+extrapolated_project_titles:
+  - >-
+    Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in
+    LowIncome Neighborhoods
 
 ---

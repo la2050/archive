@@ -1,23 +1,26 @@
 ---
+maker_image_file_name: Change_Better_Profile.jpg
+maker_image_id: '23690'
 organization_id: '2015030'
-organization_website:
-  - www.changebetter.org
-ein: '954116679'
-zip: '91302'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: www.twitter.com/changebetterorg
-instagram: www.instagram.com/changebetterorg
-facebook: www.facebook.com/changebetter.org
+title: Change Better
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23690%252Fdisplay%252FChange_Better_Profile.jpg=c570x385
-project_video: ''
 org_summary: >-
   Change Better trains nonprofits in data, business, and collaboration
   strategies to turn big ideas into big impact.
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
+organization_website:
+  - www.changebetter.org
+twitter: www.twitter.com/changebetterorg
+instagram: www.instagram.com/changebetterorg
+facebook: www.facebook.com/changebetter.org
+ein: '954116679'
+zip: '91302'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23690%252Fdisplay%252FChange_Better_Profile.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '5102051'
@@ -25,16 +28,13 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
   year_submitted:
     - '2015'
-title: Change Better
-extrapolated_project_ids:
-  - '5102051'
-project_titles_from_extrapolated_project_ids:
-  - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
-original_project_titles:
-  - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
 original_project_ids:
   - '5102051'
-maker_image_id: '23690'
-maker_image_file_name: Change_Better_Profile.jpg
+original_project_titles:
+  - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
+extrapolated_project_ids:
+  - '5102051'
+extrapolated_project_titles:
+  - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
 
 ---

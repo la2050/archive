@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: Holiday_Venice_Apartments.jpg
+maker_image_id: '16677'
 organization_id: '2013157'
-organization_website:
-  - www.publiccounsel.org
-ein: '237105149'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237105149'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Public Counsel
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16677%252Fdisplay%252FHoliday_Venice_Apartments.jpg=c570x385
-project_video: ''
 org_summary: >-
   For the past two years, Public Counsel has worked with the Southeast Asian
   Community Alliance to develop a groundbreaking new land use plan for the
@@ -61,6 +50,20 @@ org_summary: >-
    
    
    Public Counsel is providing legal advocacy to preserve a 400-bed homeless shelter that is at risk of being shut down or forced to relocate by the 710 freeway expansion.
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237105149'
+organization_website:
+  - www.publiccounsel.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '237105149'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16677%252Fdisplay%252FHoliday_Venice_Apartments.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102223'
@@ -68,16 +71,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/PublicCounsel.html'
   year_submitted:
     - '2013'
-title: Public Counsel
-extrapolated_project_ids:
-  - '3102223'
-project_titles_from_extrapolated_project_ids:
-  - 'Smart Growth for All: Affordable Housing Near Public Transit'
-original_project_titles:
-  - 'Smart Growth for All: Affordable Housing Near Public Transit'
 original_project_ids:
   - '3102223'
-maker_image_id: '16677'
-maker_image_file_name: Holiday_Venice_Apartments.jpg
+original_project_titles:
+  - 'Smart Growth for All: Affordable Housing Near Public Transit'
+extrapolated_project_ids:
+  - '3102223'
+extrapolated_project_titles:
+  - 'Smart Growth for All: Affordable Housing Near Public Transit'
 
 ---

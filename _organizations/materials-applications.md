@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: Uj3t-8frJ4Q
 organization_id: '2013131'
-organization_website:
-  - 'http://urbanapplications.org/'
-ein: '262567190'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262567190'
-tags_indicators:
-  - Access to parks & green space
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: Materials & Applications
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Materials & Applications (M&A), shares and demystifying concepts in art,
   architecture, and sustainable design in an outdoor courtyard open to the
@@ -60,6 +49,19 @@ org_summary: >-
    
    
    Under its latest Urban Applications initiative which includes START SEEING UGLY!, M&A seeks to expand its activity into the larger Los Angeles area. Urban Applications is currently a finalist for an $350k ArtPlace grant from the NEA for the public art component of the Paseo and further development of its program.
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262567190'
+organization_website:
+  - 'http://urbanapplications.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '262567190'
+zip: ''
+project_image: 'https://img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102195'
@@ -67,19 +69,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
   year_submitted:
     - '2013'
-title: Materials & Applications
-extrapolated_project_ids:
+original_project_ids:
   - '3102195'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    START SEEING UGLY!  A social app to reveal and transform blighted parts of
-    Los Angeles
 original_project_titles:
   - >-
     START SEEING UGLY!  A social app to reveal and transform blighted parts of
     Los Angeles
-original_project_ids:
+extrapolated_project_ids:
   - '3102195'
-youtube_video_identifier: Uj3t-8frJ4Q
+extrapolated_project_titles:
+  - >-
+    START SEEING UGLY!  A social app to reveal and transform blighted parts of
+    Los Angeles
 
 ---

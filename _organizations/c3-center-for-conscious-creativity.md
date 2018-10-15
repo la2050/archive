@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: n_itMCVl124
 organization_id: '2013024'
-organization_website:
-  - www.consciouscreativity.org
-ein: '908738355'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=908738355'
-tags_indicators:
-  - Creative economy
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'c3: Center for Conscious Creativity'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   In 2009 the c3 created a partnership with The Millennium Project
   www.millennium-project.org, a global futurists think tank, and the founder of
@@ -39,6 +28,19 @@ org_summary: >-
   with a renowned 83 year old ballet dancer/choreographer. The piece, BLUE
   APPLE, was successfully premiered in September 2012 in the Vortex Dome to a
   very appreciative audience.
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=908738355'
+organization_website:
+  - www.consciouscreativity.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '908738355'
+zip: ''
+project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102045'
@@ -46,15 +48,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/f2futurefest.html'
   year_submitted:
     - '2013'
-title: 'c3: Center for Conscious Creativity'
-extrapolated_project_ids:
-  - '3102045'
-project_titles_from_extrapolated_project_ids:
-  - f2 FutureFest LA
-original_project_titles:
-  - f2 FutureFest LA
 original_project_ids:
   - '3102045'
-youtube_video_identifier: n_itMCVl124
+original_project_titles:
+  - f2 FutureFest LA
+extrapolated_project_ids:
+  - '3102045'
+extrapolated_project_titles:
+  - f2 FutureFest LA
 
 ---

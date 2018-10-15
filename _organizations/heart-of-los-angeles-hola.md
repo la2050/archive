@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: 0CZIOxlCozk
 organization_id: '2013089'
-organization_website:
-  - www.heartofla.org
-ein: '954397418'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954397418'
-tags_indicators:
-  - Teaching & mentorship
-  - Art
-  - Education & youth
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Heart of Los Angeles (HOLA)
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg'
-project_video: ''
 org_summary: |-
   HOLA’s recent achievements include:
    
@@ -84,6 +71,21 @@ org_summary: |-
    
    
    - HOLA has consistently facilitated community engagement and helped to beautify and activate the Rampart neighborhood. In 2003, families were too scared to enter into the local park, but since HOLA partnered with LA City Recreation and Parks to bring unprecedented financial and programmatic resources, thousands of families now utilize Lafayette Park on a regular basis.
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954397418'
+organization_website:
+  - www.heartofla.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954397418'
+zip: ''
+project_image: 'https://img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102147'
@@ -91,15 +93,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/heartofla.html'
   year_submitted:
     - '2013'
-title: Heart of Los Angeles (HOLA)
-extrapolated_project_ids:
-  - '3102147'
-project_titles_from_extrapolated_project_ids:
-  - Visual Arts Education at Heart of Los Angeles
-original_project_titles:
-  - Visual Arts Education at Heart of Los Angeles
 original_project_ids:
   - '3102147'
-youtube_video_identifier: 0CZIOxlCozk
+original_project_titles:
+  - Visual Arts Education at Heart of Los Angeles
+extrapolated_project_ids:
+  - '3102147'
+extrapolated_project_titles:
+  - Visual Arts Education at Heart of Los Angeles
 
 ---

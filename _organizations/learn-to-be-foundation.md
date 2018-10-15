@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: RuF86dH0Bag
 organization_id: '2013120'
-organization_website:
-  - 'http://www.learntobe.org'
-ein: '261919770'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261919770'
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Learn To Be Foundation
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/RuF86dH0Bag/maxresdefault.jpg'
-project_video: ''
 org_summary: |-
   <ul>
    
@@ -49,6 +38,19 @@ org_summary: |-
    
    
    </ul>
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261919770'
+organization_website:
+  - 'http://www.learntobe.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '261919770'
+zip: ''
+project_image: 'https://img.youtube.com/vi/RuF86dH0Bag/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102178'
@@ -56,18 +58,16 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/ltb.html'
   year_submitted:
     - '2013'
-title: Learn To Be Foundation
-extrapolated_project_ids:
-  - '3102178'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Crowdsourcing Education To Provide Free Oneonone Online Tutoring For
-    Underserved Communities 
+original_project_ids: []
 original_project_titles:
   - >-
     Crowdsourcing Education To Provide Free, One-on-one, Online Tutoring For
     Underserved Communities 
-original_project_ids: []
-youtube_video_identifier: RuF86dH0Bag
+extrapolated_project_ids:
+  - '3102178'
+extrapolated_project_titles:
+  - >-
+    Crowdsourcing Education To Provide Free Oneonone Online Tutoring For
+    Underserved Communities 
 
 ---

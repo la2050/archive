@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: evolvela2.png
+maker_image_id: '16195'
 organization_id: '2013069'
-organization_website:
-  - 'http://flarb.com'
-ein: '200142792'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Creative economy
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: FLARB LLC
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   <p>FLARB LLC is one of the earliest developers and publishers of mobile games
   and content in the West. In addition to consulting on mobile and social games
@@ -41,6 +31,19 @@ org_summary: >-
    
    
    </p>
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - 'http://flarb.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '200142792'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102046'
@@ -48,16 +51,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/evolvela.html'
   year_submitted:
     - '2013'
-title: FLARB LLC
-extrapolated_project_ids:
-  - '3102046'
-project_titles_from_extrapolated_project_ids:
-  - evolve.la
-original_project_titles:
-  - evolve.la
 original_project_ids:
   - '3102046'
-maker_image_id: '16195'
-maker_image_file_name: evolvela2.png
+original_project_titles:
+  - evolve.la
+extrapolated_project_ids:
+  - '3102046'
+extrapolated_project_titles:
+  - evolve.la
 
 ---

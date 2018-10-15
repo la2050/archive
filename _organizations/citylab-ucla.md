@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: T-_qt-Ah9-0
 organization_id: '2013035'
-organization_website:
-  - 'http://www.cityLAB.aud.ucla.edu'
-ein: '956006143'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: cityLAB-UCLA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   cityLAB, a research center at UCLA’s School of the Arts and Architecture, was
   founded in 2006 by Director Dana Cuff and Co-Director Roger Sherman. Since
@@ -37,6 +26,19 @@ org_summary: >-
    
    
    Daly Genik Architects is partnering with cityLAB to design and test the Backyard Homes prototype. Daly Genik, founded in 1990, is an award-winning design practice with a focus on craft, construction systems, and material research. The firm’s work highlights the interrelationship of research and fabrication, sustainability and livability, utility and form. Firm Principal Kevin Daly has designed some of the area’s most outstanding affordable housing for the Santa Monica Community Corporation, as well as widely recognized technological innovations that serve environmental goals, such as a model daylighting system at Art Center’s Pasadena campus.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
+organization_website:
+  - 'http://www.cityLAB.aud.ucla.edu'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '956006143'
+zip: ''
+project_image: 'https://img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102069'
@@ -44,15 +46,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/backyardhomes.html'
   year_submitted:
     - '2013'
-title: cityLAB-UCLA
-extrapolated_project_ids:
-  - '3102069'
-project_titles_from_extrapolated_project_ids:
-  - 'Backyard Homes: Sustainable Flexible Affordable Housing for LA'
-original_project_titles:
-  - 'Backyard Homes: Sustainable, Flexible, Affordable Housing for LA'
 original_project_ids:
   - '3102069'
-youtube_video_identifier: T-_qt-Ah9-0
+original_project_titles:
+  - 'Backyard Homes: Sustainable, Flexible, Affordable Housing for LA'
+extrapolated_project_ids:
+  - '3102069'
+extrapolated_project_titles:
+  - 'Backyard Homes: Sustainable Flexible Affordable Housing for LA'
 
 ---

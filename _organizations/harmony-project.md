@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: zVwm_GRMSHw
 organization_id: '2013088'
-organization_website:
-  - 'http://www.harmony-project.org/'
-ein: '954856236'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954856236'
-tags_indicators:
-  - Teaching & mentorship
-  - Art
-  - Education & youth
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Harmony Project
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   The Harmony Project has won numerous accolades, including the Coming Up Taller
   Award from the President’s Committee on the Arts & Humanities — the nation’s
@@ -36,6 +23,21 @@ org_summary: >-
    
    
    In January, Harmony Project’s YOLA/EXPO orchestra attended master classes with SÃ­mÃ³n BolÃ­var Youth Orchestra of Venezuela, and also performed together at Cathedral of Our Lady of the Angels in Downtown LA. In attendance was El Sistema founder JosÃ© Antonio Abreu — El Sistema is the hugely successful Venezuelan music program that Harmony Project is in part modeled after. In addition, the YOLA/EXPO orchestra has recently had the opportunity to perform with renowned conductor Sir Simon Rattle, Gustavo Dudamel, Stevie Wonder, and on the Tonight Show with Rickey Minor.
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954856236'
+organization_website:
+  - 'http://www.harmony-project.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954856236'
+zip: ''
+project_image: 'https://img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102145'
@@ -43,15 +45,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
   year_submitted:
     - '2013'
-title: Harmony Project
-extrapolated_project_ids:
-  - '3102145'
-project_titles_from_extrapolated_project_ids:
-  - 'Harmony Project '
-original_project_titles:
-  - 'Harmony Project '
 original_project_ids:
   - '3102145'
-youtube_video_identifier: zVwm_GRMSHw
+original_project_titles:
+  - 'Harmony Project '
+extrapolated_project_ids:
+  - '3102145'
+extrapolated_project_titles:
+  - 'Harmony Project '
 
 ---

@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: EMAHeader.jpg
+maker_image_id: '16296'
 organization_id: '2013060'
-organization_website:
-  - www.ema-global.org
-ein: '262025234'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262025234'
-tags_indicators:
-  - Art
-  - Community gatherings
-  - Arts & cultural vitality
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Electronic Music Alliance
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16296%252Fdisplay%252FEMAHeader.jpg=c570x385
-project_video: ''
 org_summary: >-
   We are still a young organization. We worked hard last year to get over 100
   founding industry and cultural veterans to come on board as our founding
@@ -57,6 +44,22 @@ org_summary: >-
    
    
    All event details for State of the Arts 2012 can be viewed here: http://www.c3so.com/soa-2012.html
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262025234'
+organization_website:
+  - www.ema-global.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '262025234'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16296%252Fdisplay%252FEMAHeader.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102123'
@@ -64,16 +67,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/EMAPLAY.html'
   year_submitted:
     - '2013'
-title: Electronic Music Alliance
-extrapolated_project_ids:
-  - '3102123'
-project_titles_from_extrapolated_project_ids:
-  - 'EMA PLAY:  Dance Create Think Make the Future'
-original_project_titles:
-  - 'EMA PLAY:  Dance, Create, Think, Make the Future'
 original_project_ids:
   - '3102123'
-maker_image_id: '16296'
-maker_image_file_name: EMAHeader.jpg
+original_project_titles:
+  - 'EMA PLAY:  Dance, Create, Think, Make the Future'
+extrapolated_project_ids:
+  - '3102123'
+extrapolated_project_titles:
+  - 'EMA PLAY:  Dance Create Think Make the Future'
 
 ---

@@ -1,24 +1,26 @@
 ---
+youtube_video_identifier: 3ceZFpvVVU0
 organization_id: '2015086'
-organization_website:
-  - www.hollywoodcurling.org
-ein: '262477682'
-zip: '91409'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262477682'
-tags_indicators:
-  - Fitness & sports
-  - Health
-twitter: 'https://twitter.com/HollywoodCurl'
-instagram: 'https://instagram.com/hollywoodcurl/'
-facebook: www.facebook.com/hollywoodcurling
+title: Hollywood Curling
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   We are the only place in Los Angeles to participate in the Olympic sport of
   curling, with a goal to offer the game to the local community, to foster the
   social and competitive spirit of curling, and develop competition at a local &
   national level.
+tags_indicators:
+  - Fitness & sports
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262477682'
+organization_website:
+  - www.hollywoodcurling.org
+twitter: 'https://twitter.com/HollywoodCurl'
+instagram: 'https://instagram.com/hollywoodcurl/'
+facebook: www.facebook.com/hollywoodcurling
+ein: '262477682'
+zip: '91409'
+project_image: 'https://img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102134'
@@ -26,19 +28,17 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
   year_submitted:
     - '2015'
-title: Hollywood Curling
-extrapolated_project_ids:
+original_project_ids:
   - '5102134'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Hollywood Curling- Building the San Fernando Valley Curling Center in Los
-    Angeles
 original_project_titles:
   - >-
     Hollywood Curling- Building the San Fernando Valley Curling Center in Los
     Angeles
-original_project_ids:
+extrapolated_project_ids:
   - '5102134'
-youtube_video_identifier: 3ceZFpvVVU0
+extrapolated_project_titles:
+  - >-
+    Hollywood Curling- Building the San Fernando Valley Curling Center in Los
+    Angeles
 
 ---

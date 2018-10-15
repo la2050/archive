@@ -1,26 +1,29 @@
 ---
 organization_id: '2016248'
-organization_website:
-  - mobilemedia.usc.edu
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: >-
+  University of Southern California, Mobile + Environmental Media Lab in the
+  School of Cinematic Arts
+org_type: Nonprofit
+org_summary: >-
+  The Mobile + Environmental Media Lab explores location-specific mobile
+  storytelling by developing & integrating context-aware interactions & access
+  to backstory about an environment & its citizens.
 tags_indicators:
   - Air & water
   - Community health
   - Environmental quality & sustainability
   - Health
+charity_navigator_url: ''
+organization_website:
+  - mobilemedia.usc.edu
 twitter: LAcitysense
 instagram: La-CitySense-348205538857872/
 facebook: LAcitysense
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0478134165741-team90.png
 project_video: 'https://www.youtube.com/embed/BUNdHYAuc-o?rel=0&amp;showinfo=0'
-org_summary: >-
-  The Mobile + Environmental Media Lab explores location-specific mobile
-  storytelling by developing & integrating context-aware interactions & access
-  to backstory about an environment & its citizens.
 aggregated:
   project_ids:
     - '6102275'
@@ -29,20 +32,17 @@ aggregated:
       https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
   year_submitted:
     - '2016'
-title: >-
-  University of Southern California, Mobile + Environmental Media Lab in the
-  School of Cinematic Arts
-extrapolated_project_ids:
+original_project_ids:
   - '6102275'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    LA CitySense: Citizen engagement in collection of air quality data for
-    improvement of public health
 original_project_titles:
   - >-
     LA CitySense: Citizen engagement in collection of air quality data for
     improvement of public health
-original_project_ids:
+extrapolated_project_ids:
   - '6102275'
+extrapolated_project_titles:
+  - >-
+    LA CitySense: Citizen engagement in collection of air quality data for
+    improvement of public health
 
 ---

@@ -1,21 +1,9 @@
 ---
+maker_image_file_name: openhealthcentral.png
+maker_image_id: '16271'
 organization_id: '2013129'
-organization_website:
-  - www.lybba.org
-ein: '383777236'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=383777236'
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Community health
-  - Income & employment
-  - Health
-twitter: ''
-instagram: ''
-facebook: ''
+title: Lybba
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   OPENHealth Central is being designed by Lybba, a 501(c)3 nonprofit based in
   Los Angeles that designs networks, tools, and events that help people better
@@ -85,6 +73,21 @@ org_summary: >-
    
    
    In addition to the programs above, Lybba has designed, constructed, and created content strategy for a dozen healthcare websites. Lybba has also produced two dozen films on science and healthcare with our film-making partner, Wondros.
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Community health
+  - Income & employment
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=383777236'
+organization_website:
+  - www.lybba.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '383777236'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102193'
@@ -92,18 +95,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/OPENHEALTHCentral.html'
   year_submitted:
     - '2013'
-title: Lybba
-extrapolated_project_ids:
-  - '3102193'
-project_titles_from_extrapolated_project_ids:
-  - OPENHealth Central  Putting the care back in healthcare
-original_project_titles:
-  - OPENHealth Central  Putting the "care" back in healthcare
-  - OPENHealth Central  Putting the "care" back in healthcare
 original_project_ids:
   - '3102193'
   - '3102193'
-maker_image_id: '16271'
-maker_image_file_name: openhealthcentral.png
+original_project_titles:
+  - OPENHealth Central  Putting the "care" back in healthcare
+  - OPENHealth Central  Putting the "care" back in healthcare
+extrapolated_project_ids:
+  - '3102193'
+extrapolated_project_titles:
+  - OPENHealth Central  Putting the care back in healthcare
 
 ---

@@ -1,23 +1,26 @@
 ---
+maker_image_file_name: StillVideoImage_(2).jpg
+maker_image_id: '23727'
 organization_id: '2015065'
-organization_website:
-  - www.flyyogaarts.com
-ein: '455259874'
-zip: '91601'
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: www.twitter.com/flyyogaarts
-instagram: www.instagram.com/FLYyogaarts
-facebook: www.facebook.com/FLYyogaarts
+title: FLY Yoga Arts
 org_type: Forprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385
-project_video: ''
 org_summary: >-
   FLY Yoga Arts brings balance to education through play- based classes designed
   to engage each child's body, mind, and spirit!
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.flyyogaarts.com
+twitter: www.twitter.com/flyyogaarts
+instagram: www.instagram.com/FLYyogaarts
+facebook: www.facebook.com/FLYyogaarts
+ein: '455259874'
+zip: '91601'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '5102206'
@@ -26,17 +29,8 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-title: FLY Yoga Arts
-extrapolated_project_ids:
+original_project_ids:
   - '5102102'
-  - '4102071'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    FLY Yoga Arts: Enhancing Academic Education Through Integrated Movement and
-    Creative Arts Play!
-  - >-
-    FLY Yoga Arts: Enhancing LAUSD Arts Education with Integrated Mindfulness
-    Movement & Creative Play
 original_project_titles:
   - >-
     FLY Yoga Arts: Enhancing & Growing LAUSD Arts Education with Movement,
@@ -44,9 +38,15 @@ original_project_titles:
   - >-
     FLY Yoga Arts: Enhancing Academic Education Through Integrated Movement and
     Creative Arts Play!
-original_project_ids:
+extrapolated_project_ids:
   - '5102102'
-maker_image_id: '23727'
-maker_image_file_name: StillVideoImage_(2).jpg
+  - '4102071'
+extrapolated_project_titles:
+  - >-
+    FLY Yoga Arts: Enhancing Academic Education Through Integrated Movement and
+    Creative Arts Play!
+  - >-
+    FLY Yoga Arts: Enhancing LAUSD Arts Education with Integrated Mindfulness
+    Movement & Creative Play
 
 ---

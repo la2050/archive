@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: Dq2cY1SKlFQ
 organization_id: '2013140'
-organization_website:
-  - www.nativla.com
-ein: '102649365'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Access to parks & green space
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: Nativ
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Though NativLA does not yet exist, it will coalesce my years of experience
   with nature and the environment. While earning a BA in Journalism at the
@@ -38,6 +27,19 @@ org_summary: >-
   the enrichment programs that Los Angeles United School District (LAUSD) no
   longer funds, including PE, library, music and art. We also ask, where field
   trips are concerned, that the parents carpool and pay for all admission fees.
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
+charity_navigator_url: ''
+organization_website:
+  - www.nativla.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '102649365'
+zip: ''
+project_image: 'https://img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102080'
@@ -45,15 +47,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Nativ.html'
   year_submitted:
     - '2013'
-title: Nativ
-extrapolated_project_ids:
-  - '3102080'
-project_titles_from_extrapolated_project_ids:
-  - 'NativLA: Discover the city you thought you knew '
-original_project_titles:
-  - 'NativLA: Discover the city you thought you knew '
 original_project_ids:
   - '3102080'
-youtube_video_identifier: Dq2cY1SKlFQ
+original_project_titles:
+  - 'NativLA: Discover the city you thought you knew '
+extrapolated_project_ids:
+  - '3102080'
+extrapolated_project_titles:
+  - 'NativLA: Discover the city you thought you knew '
 
 ---

@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: CIMG0246.jpg
+maker_image_id: '16625'
 organization_id: '2013012'
-organization_website:
-  - www.apiequalityla.org
-ein: '953854152'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953854152'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: API Equality-LA
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385
-project_video: ''
 org_summary: >-
   In 8 years, our organization has grown into one of the most well-established
   organizations dedicated to organizing and political engagement of LGBT people
@@ -27,6 +16,20 @@ org_summary: >-
   organization dedicated to political empowerment of API LGBT people. Along with
   our allies, we provide an important foundation for further organizing in LGBT
   communities of color.
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953854152'
+organization_website:
+  - www.apiequalityla.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '953854152'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102023'
@@ -34,17 +37,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'
   year_submitted:
     - '2013'
-title: API Equality-LA
-extrapolated_project_ids:
+original_project_ids:
   - '3102023'
-project_titles_from_extrapolated_project_ids:
-  - Eye to Eye LGBTQ Organizing Center
 original_project_titles:
   - API Equality-LA
   - Eye to Eye LGBTQ Organizing Center
-original_project_ids:
+extrapolated_project_ids:
   - '3102023'
-maker_image_id: '16625'
-maker_image_file_name: CIMG0246.jpg
+extrapolated_project_titles:
+  - Eye to Eye LGBTQ Organizing Center
 
 ---

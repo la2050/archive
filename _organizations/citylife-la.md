@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: EZJvYnujihw
 organization_id: '2013036'
-organization_website:
-  - 'http://citylife-la.org'
-ein: '461878739'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461878739'
-tags_indicators:
-  - Art
-  - Teaching & mentorship
-  - Arts & cultural vitality
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: CityLife-LA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/EZJvYnujihw/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>CityLife brings together young people from diverse backgrounds and offers
   them exposure to and experiences with the Arts, culture, history and politics
@@ -55,6 +42,21 @@ org_summary: >-
    
    
    <p>CityLife received a Rose Award from the Downtown Breakfast Club. And student projects have been featured in articles in the Los Angeles Downtown News and the Los Angeles Times.</p>
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461878739'
+organization_website:
+  - 'http://citylife-la.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '461878739'
+zip: ''
+project_image: 'https://img.youtube.com/vi/EZJvYnujihw/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102070'
@@ -62,15 +64,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/CityLife-LA.html'
   year_submitted:
     - '2013'
-title: CityLife-LA
-extrapolated_project_ids:
-  - '3102070'
-project_titles_from_extrapolated_project_ids:
-  - High School Students Shape the Future of Los Angeles
-original_project_titles:
-  - High School Students Shape the Future of Los Angeles
 original_project_ids:
   - '3102070'
-youtube_video_identifier: EZJvYnujihw
+original_project_titles:
+  - High School Students Shape the Future of Los Angeles
+extrapolated_project_ids:
+  - '3102070'
+extrapolated_project_titles:
+  - High School Students Shape the Future of Los Angeles
 
 ---

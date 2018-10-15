@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: MNDn6OWCjco
 organization_id: '2013141'
-organization_website:
-  - 'http://www.nhm.org/site/activities-programs/citizen-science'
-ein: '956132185'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956132185'
-tags_indicators:
-  - Air & water
-  - Environmental quality & sustainability
-twitter: ''
-instagram: ''
-facebook: ''
+title: Natural History Museum of Los Angeles County
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/MNDn6OWCjco/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   NHM is currently in the process of the most dramatic changes in its 100-year
   history. The guiding vision for the $135 million NHM Next Campaign is to bring
@@ -52,6 +41,19 @@ org_summary: >-
    
    
    With NHM Next we are setting a new example of how a museum can be a part of the life of a great 21st century city. We will serve as a nature, science and culture destination in the heard of Los Angeles County. It is a transformation unprecedented in our history and designed to set the course for the next hundred years.
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956132185'
+organization_website:
+  - 'http://www.nhm.org/site/activities-programs/citizen-science'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '956132185'
+zip: ''
+project_image: 'https://img.youtube.com/vi/MNDn6OWCjco/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102202'
@@ -59,17 +61,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/urbansafari.html'
   year_submitted:
     - '2013'
-title: Natural History Museum of Los Angeles County
-extrapolated_project_ids:
-  - '3102202'
-project_titles_from_extrapolated_project_ids:
-  - NHM Urban Safari
-original_project_titles:
-  - NHM Urban Safari
-  - NHM Urban Safari
 original_project_ids:
   - '3102202'
   - '3102202'
-youtube_video_identifier: MNDn6OWCjco
+original_project_titles:
+  - NHM Urban Safari
+  - NHM Urban Safari
+extrapolated_project_ids:
+  - '3102202'
+extrapolated_project_titles:
+  - NHM Urban Safari
 
 ---

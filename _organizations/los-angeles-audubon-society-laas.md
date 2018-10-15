@@ -1,25 +1,26 @@
 ---
 organization_id: '2016133'
-organization_website:
-  - www.laaudubon.org
-ein: '956093704'
-zip: 90041-8301
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956093704'
+title: Los Angeles Audubon Society (LAAS)
+org_type: Nonprofit
+org_summary: >-
+  LA Audubon promotes the enjoyment and protection of birds and other wildlife
+  through environmental education, conservation and habitat restoration.
 tags_indicators:
   - Access to parks & green space
   - Community gatherings
   - Public safety & public space
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956093704'
+organization_website:
+  - www.laaudubon.org
 twitter: LAAudubon
 instagram: LosAngelesAudubon
 facebook: la_audubon
-org_type: Nonprofit
+ein: '956093704'
+zip: 90041-8301
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
-org_summary: >-
-  LA Audubon promotes the enjoyment and protection of birds and other wildlife
-  through environmental education, conservation and habitat restoration.
 aggregated:
   project_ids:
     - '6102136'
@@ -30,14 +31,13 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-title: Los Angeles Audubon Society (LAAS)
-extrapolated_project_ids:
-  - '6102136'
-project_titles_from_extrapolated_project_ids:
-  - LA Audubon - Urban Nature Explored
-original_project_titles:
-  - LA Audubon - Urban Nature Explored
 original_project_ids:
   - '6102136'
+original_project_titles:
+  - LA Audubon - Urban Nature Explored
+extrapolated_project_ids:
+  - '6102136'
+extrapolated_project_titles:
+  - LA Audubon - Urban Nature Explored
 
 ---

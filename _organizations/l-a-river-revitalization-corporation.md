@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: 7so4eDfFRws
 organization_id: '2013110'
-organization_website:
-  - www.larivercorp.com
-ein: '272245545'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272245545'
-tags_indicators:
-  - Air & water
-  - Access to parks & green space
-  - Environmental quality & sustainability
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: L.A. River Revitalization Corporation
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/7so4eDfFRws/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>The L.A. River is at the heart of our vision is to make Los Angeles a
   cleaner, greener, and more connected community. We transform the LA River in
@@ -73,6 +60,21 @@ org_summary: >-
    
    
    <p> * Raised $10,000 on Kickstarter to host the first-ever L.A. River Bike-in Movie Theater in April<p>
+tags_indicators:
+  - Air & water
+  - Access to parks & green space
+  - Environmental quality & sustainability
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272245545'
+organization_website:
+  - www.larivercorp.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '272245545'
+zip: ''
+project_image: 'https://img.youtube.com/vi/7so4eDfFRws/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102167'
@@ -80,17 +82,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'
   year_submitted:
     - '2013'
-title: L.A. River Revitalization Corporation
-extrapolated_project_ids:
-  - '3102167'
-project_titles_from_extrapolated_project_ids:
-  - 'Roving RÃ­o Vista: A Park on the Move'
+original_project_ids: []
 original_project_titles:
   - 'Roving Río Vista: A Park on the Move'
   - 'Roving Río Vista: A Park on the Move'
   - 'Roving Río Vista: A Park on the Move'
   - 'Roving Río Vista: A Park on the Move'
-original_project_ids: []
-youtube_video_identifier: 7so4eDfFRws
+extrapolated_project_ids:
+  - '3102167'
+extrapolated_project_titles:
+  - 'Roving RÃ­o Vista: A Park on the Move'
 
 ---

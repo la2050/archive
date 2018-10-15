@@ -1,21 +1,9 @@
 ---
+maker_image_file_name: samsung_device_801.jpg
+maker_image_id: '16313'
 organization_id: '2013011'
-organization_website:
-  - www.facebook.com/antiguacoffeeroasters
-ein: '568691857'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Community gatherings
-  - Art
-  - Social connectedness
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Antigua Coffee House
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: |-
   Best Coffee Roaster 2007
    
@@ -39,6 +27,21 @@ org_summary: |-
    
    
    And many more to come in the future.....
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.facebook.com/antiguacoffeeroasters
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '568691857'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102005'
@@ -46,17 +49,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
   year_submitted:
     - '2013'
-title: Antigua Coffee House
-extrapolated_project_ids:
+original_project_ids:
   - '3102005'
-project_titles_from_extrapolated_project_ids:
-  - 'Cypress Village Underground Tunnel Art Walk Gallery and Economic Vitality '
 original_project_titles:
   - Antigua Coffee House
   - 'Cypress Village Underground Tunnel Art Walk Gallery and Economic Vitality '
-original_project_ids:
+extrapolated_project_ids:
   - '3102005'
-maker_image_id: '16313'
-maker_image_file_name: samsung_device_801.jpg
+extrapolated_project_titles:
+  - 'Cypress Village Underground Tunnel Art Walk Gallery and Economic Vitality '
 
 ---

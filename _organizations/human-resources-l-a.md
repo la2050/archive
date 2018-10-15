@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: BSvlFmSuKyw
 organization_id: '2013093'
-organization_website:
-  - 'http://humanresourcesla.com/'
-ein: '273429917'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273429917'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Human Resources L.A.
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   HRLA was a collaborator and grant receiver of Getty Museum for PST festival
   2012, We have collaborated with REDCAT Gallery, UC Riverside, CalArts, LAND,
@@ -34,6 +23,19 @@ org_summary: >-
    
    
    Human Resources serves as an important point of convergence for diverse and sometimes disparate art communities. We offer regular platforms for conversation and idea-sharing in order to promote the sustainability of non-traditional art forms. We nurture the kinds of artistic intelligence produced by working closely with different artistic communities - such as that of experimental music and performance art. We have also collaborated with other art spaces and events, including Pacific Standard Time, Silvershed's Collective show, fundraisers and events for Les Figues Press and Darin Klein's Box of Books, and the Chinatown Perform!Now! Festival. We continue to provide a substantial venue for large events, installations, video screenings, music performance, performance art and hybrid events in the Chinatown area of Los Angeles.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273429917'
+organization_website:
+  - 'http://humanresourcesla.com/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '273429917'
+zip: ''
+project_image: 'https://img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102151'
@@ -41,15 +43,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/hrlaartresidency.html'
   year_submitted:
     - '2013'
-title: Human Resources L.A.
-extrapolated_project_ids:
-  - '3102151'
-project_titles_from_extrapolated_project_ids:
-  - Human Resources L.A. Artist Residency Program!
-original_project_titles:
-  - Human Resources L.A. Artist Residency Program!
 original_project_ids:
   - '3102151'
-youtube_video_identifier: BSvlFmSuKyw
+original_project_titles:
+  - Human Resources L.A. Artist Residency Program!
+extrapolated_project_ids:
+  - '3102151'
+extrapolated_project_titles:
+  - Human Resources L.A. Artist Residency Program!
 
 ---

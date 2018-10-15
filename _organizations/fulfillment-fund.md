@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: Destination_College_Photo.jpg
+maker_image_id: '16910'
 organization_id: '2013077'
-organization_website:
-  - www.fulfillment.org
-ein: '953180934'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953180934'
-tags_indicators:
-  - College prep
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Fulfillment Fund
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16910%252Fdisplay%252FDestination_College_Photo.jpg=c570x385
-project_video: ''
 org_summary: >-
   The Fulfillment Fund has been able to gauge the need of the Los Angeles
   community and build a successful model that works for students. The
@@ -51,6 +40,20 @@ org_summary: >-
    
    
    We strive for the students in Los Angeles to have quality college access programs and have an experience similar to Nicole Harris Blackwell. Nicole shared that her family wanted her to be the first to go to a four-year college “but [they] didn’t know how to help [her] navigate through choosing a school or completing applications and financial aid forms. The Fulfillment Fund was invaluable in helping me to successfully enroll in Spelman College.” She is a proud graduate of Spelman College and Claremont Graduate University and is an English professor at Santa Monica College.
+tags_indicators:
+  - College prep
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953180934'
+organization_website:
+  - www.fulfillment.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '953180934'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16910%252Fdisplay%252FDestination_College_Photo.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102136'
@@ -58,16 +61,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
   year_submitted:
     - '2013'
-title: Fulfillment Fund
-extrapolated_project_ids:
-  - '3102136'
-project_titles_from_extrapolated_project_ids:
-  - Destination College
-original_project_titles:
-  - Destination College
 original_project_ids:
   - '3102136'
-maker_image_id: '16910'
-maker_image_file_name: Destination_College_Photo.jpg
+original_project_titles:
+  - Destination College
+extrapolated_project_ids:
+  - '3102136'
+extrapolated_project_titles:
+  - Destination College
 
 ---

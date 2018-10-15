@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: bikes.jpg
+maker_image_id: '16457'
 organization_id: '2013052'
-organization_website:
-  - 'http://www.designeastoflabrea.org'
-ein: '272832901'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272832901'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: design east of La Brea
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16457%252Fdisplay%252Fbikes.jpg=c570x385
-project_video: ''
 org_summary: >-
   We've built a community of committed design enthusiasts in Los Angeles in
   about 4 four years. We currently have over 1,000 followers on Facebook, nearly
@@ -55,6 +44,20 @@ org_summary: >-
    
    
    Highlights from de LaB’s 2011-2012 programming year include: A tour of the Subway Terminal Building in Downtown L.A. featuring the abandoned subway platform and tunnels that housed L.A.’s first subway system; A tour with the designers and public health officials behind L.A.’s first street-to-plaza conversion, Sunset Triangle, a new public space for the Silver Lake neighborhood; A private tour of the BWP EcoCampus in Burbank, a reclaimed substation which has been transformed into community green space by AHBE landscape architects; A presentation by FER Studio featuring their master plan for Inglewood’s downtown revitalization; A walking tour and published map of 31 locations in West Hollywood to honor de LaB’s late friend, urban designer John Chase, who was responsible for much of that city's great urban design; A tour of HOLA’s brand-new community center in Lafayette Park designed by Steven Kanner, which provides arts and athletic programming for underserved youth; A tour and fundraiser for Richland Farms, an agricultural community in the middle of Compton, where cowboys and horses co-exist with programs to bring farming to urban youth; A walking house tour featuring four Echo Park residences that use small footprints and sustainable design to create community-minded residences in a dense neighborhood; A bike tour of Long Beach, one of the most bicycle-friendly cities in the country, and its rapidly transforming infrastructure of parklets and roundabouts, with advocate Charlie Gandy.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272832901'
+organization_website:
+  - 'http://www.designeastoflabrea.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '272832901'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16457%252Fdisplay%252Fbikes.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102105'
@@ -62,16 +65,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/delab.html'
   year_submitted:
     - '2013'
-title: design east of La Brea
-extrapolated_project_ids:
-  - '3102105'
-project_titles_from_extrapolated_project_ids:
-  - Making LA
-original_project_titles:
-  - Making LA
 original_project_ids:
   - '3102105'
-maker_image_id: '16457'
-maker_image_file_name: bikes.jpg
+original_project_titles:
+  - Making LA
+extrapolated_project_ids:
+  - '3102105'
+extrapolated_project_titles:
+  - Making LA
 
 ---

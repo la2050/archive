@@ -1,24 +1,29 @@
 ---
+maker_image_file_name: wordcloud-thrivecenter.png
+maker_image_id: '23931'
 organization_id: '2015174'
-organization_website:
-  - www.santamonicacradletocareer.org
-ein: '956000790'
-zip: '90401'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000790'
-tags_indicators:
-  - Early childhood
-  - Education & youth
-twitter: www.twitter.com/cityofwellbeing
-instagram: ''
-facebook: www.facebook.com/SantaMonicaWellbeing
+title: >-
+  Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
+  SMMUSD
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385
-project_video: ''
 org_summary: >-
   Santa Monica Cradle to Career brings together educators, service providers,
   policy makers, and community members to implement coordinated strategies to
   help children and families in our community thrive.
+tags_indicators:
+  - Early childhood
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000790'
+organization_website:
+  - www.santamonicacradletocareer.org
+twitter: www.twitter.com/cityofwellbeing
+instagram: ''
+facebook: www.facebook.com/SantaMonicaWellbeing
+ein: '956000790'
+zip: '90401'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '5102261'
@@ -29,18 +34,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-title: >-
-  Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
-  SMMUSD
-extrapolated_project_ids:
-  - '5102261'
-project_titles_from_extrapolated_project_ids:
-  - The Thrive Center at Samohi
-original_project_titles:
-  - The Thrive Center at Samohi
 original_project_ids:
   - '5102261'
-maker_image_id: '23931'
-maker_image_file_name: wordcloud-thrivecenter.png
+original_project_titles:
+  - The Thrive Center at Samohi
+extrapolated_project_ids:
+  - '5102261'
+extrapolated_project_titles:
+  - The Thrive Center at Samohi
 
 ---

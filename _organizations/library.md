@@ -1,21 +1,22 @@
 ---
 organization_id: '2016001'
-organization_website:
-  - hashtaglibrary.com
-ein: ''
-zip: ''
-charity_navigator_url: ''
-twitter: hashtag_library
-instagram: Hashtag-Library-195742357523735/
-facebook: hashtag.library
+title: '#Library'
 org_type: Forprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
-project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
 org_summary: >-
   #Library is a platform that effectively sorts voices, information and content
   for relevance, quality and priority using the power of the crowd and machine
   learning.
+charity_navigator_url: ''
+organization_website:
+  - hashtaglibrary.com
+twitter: hashtag_library
+instagram: Hashtag-Library-195742357523735/
+facebook: hashtag.library
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
+project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102071'
@@ -24,14 +25,13 @@ aggregated:
       https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
   year_submitted:
     - '2016'
-title: '#Library'
-extrapolated_project_ids:
-  - '6102071'
-project_titles_from_extrapolated_project_ids:
-  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
-original_project_titles:
-  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
 original_project_ids:
   - '6102071'
+original_project_titles:
+  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
+extrapolated_project_ids:
+  - '6102071'
+extrapolated_project_titles:
+  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
 
 ---

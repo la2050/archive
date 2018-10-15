@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: YCMb5z0EVGw
 organization_id: '2013147'
-organization_website:
-  - www.onedayonearth.org
-ein: '453263196'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453263196'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: One Day on Earth
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg'
-project_video: ''
 org_summary: |-
   <p>DEVELOPMENT OF THE ONE DAY ON EARTH SOCIAL NETWORK:
    
@@ -67,6 +56,19 @@ org_summary: |-
    
    
    One Day on Earth has developed organizational partnerships with over 100 global NGOs and nonprofit organizations around the world, and we have helped many of those organizations work towards their missions by empowering widespread media-creation in support of their cause.</p>
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453263196'
+organization_website:
+  - www.onedayonearth.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '453263196'
+zip: ''
+project_image: 'https://img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102209'
@@ -74,15 +76,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
   year_submitted:
     - '2013'
-title: One Day on Earth
-extrapolated_project_ids:
-  - '3102209'
-project_titles_from_extrapolated_project_ids:
-  - One Day in Los Angeles
-original_project_titles:
-  - One Day in Los Angeles
 original_project_ids:
   - '3102209'
-youtube_video_identifier: YCMb5z0EVGw
+original_project_titles:
+  - One Day in Los Angeles
+extrapolated_project_ids:
+  - '3102209'
+extrapolated_project_titles:
+  - One Day in Los Angeles
 
 ---

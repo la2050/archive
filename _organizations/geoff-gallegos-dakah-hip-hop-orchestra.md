@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: ZErt5IiuEPA
 organization_id: '2013080'
-organization_website:
-  - 'https://soundcloud.com/stravingus'
-ein: '453193752'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Geoff Gallegos/daKAH Hip Hop Orchestra
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   I am applying as a composer with an idea about housing. I have no achievements
   in the housing sector. At this point, it’s an achievement to make my rent
@@ -60,6 +49,19 @@ org_summary: >-
    
    
    As a musician, I’ve learned how to make something out of nothing. The times I’ve been entrusted with resources have seen success more often than failure. My strength is knowing my weakness, and finding the right people to execute the task.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - 'https://soundcloud.com/stravingus'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '453193752'
+zip: ''
+project_image: 'https://img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102053'
@@ -67,15 +69,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/dakathouse.html'
   year_submitted:
     - '2013'
-title: Geoff Gallegos/daKAH Hip Hop Orchestra
-extrapolated_project_ids:
-  - '3102053'
-project_titles_from_extrapolated_project_ids:
-  - 'daKAT House:  A Public Housing Project for musicians.'
-original_project_titles:
-  - 'daKAT House:  A Public Housing Project for musicians.'
 original_project_ids:
   - '3102053'
-youtube_video_identifier: ZErt5IiuEPA
+original_project_titles:
+  - 'daKAT House:  A Public Housing Project for musicians.'
+extrapolated_project_ids:
+  - '3102053'
+extrapolated_project_titles:
+  - 'daKAT House:  A Public Housing Project for musicians.'
 
 ---

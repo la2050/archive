@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: HYPOPARK.jpg
+maker_image_id: '16612'
 organization_id: '2013201'
-organization_website:
-  - 'http://www.aud.ucla.edu'
-ein: '956006143'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: UCLA Dept. of Architecture and Urban Design
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16612%252Fdisplay%252FHYPOPARK.jpg=c570x385
-project_video: ''
 org_summary: >-
   </p>1. Toyota Auto Corporation-funded study exploring how emerging trends
   concerning automobile size and technology (alternative fuels, smaller
@@ -32,6 +21,20 @@ org_summary: >-
    
    
    </p>5. A Haynes Foundation-funded (cityLAB) study envisioning alternative urban scenarios that might transpire around the planned station stops of California's High Speed Rail system. Included “Sportsville”, a design plan for the financing and construction of an Olympic athletes’ training facility and extended stay housing adjacent to Anaheim’s soon-to-be completed station. Centered around Anaheim Stadium and proposing the reuse of its parking lot, it also envisioned the rubber damming of the nearby Santa Ana river channel to enable an Olympic-scaled sports venue (2011).<p>
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
+organization_website:
+  - 'http://www.aud.ucla.edu'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '956006143'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16612%252Fdisplay%252FHYPOPARK.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102261'
@@ -39,16 +42,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
   year_submitted:
     - '2013'
-title: UCLA Dept. of Architecture and Urban Design
-extrapolated_project_ids:
-  - '3102261'
-project_titles_from_extrapolated_project_ids:
-  - HYPOPARK
-original_project_titles:
-  - HYPO-PARK
 original_project_ids:
   - '3102261'
-maker_image_id: '16612'
-maker_image_file_name: HYPOPARK.jpg
+original_project_titles:
+  - HYPO-PARK
+extrapolated_project_ids:
+  - '3102261'
+extrapolated_project_titles:
+  - HYPOPARK
 
 ---

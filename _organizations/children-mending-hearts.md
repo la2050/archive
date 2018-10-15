@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: d166fbxFWas
 organization_id: '2013032'
-organization_website:
-  - 'http://www.childrenmendinghearts.org'
-ein: '264131176'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264131176'
-tags_indicators:
-  - Art
-  - Teaching & mentorship
-  - Arts & cultural vitality
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Children Mending Hearts
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Since its inception in 2009, Children Mending Hearts has helped over 12,000
   disadvantaged youth become involved in practicing Global Citizenship and
@@ -46,6 +33,21 @@ org_summary: >-
    
    
    - Successfully developing and implementing our Global Arts After School program, including publishing a formal curriculum that teaches middle school-aged youth the importance of acting with empathy and helping people in their own communities as well as the world at large.
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264131176'
+organization_website:
+  - 'http://www.childrenmendinghearts.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '264131176'
+zip: ''
+project_image: 'https://img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102059'
@@ -53,15 +55,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
   year_submitted:
     - '2013'
-title: Children Mending Hearts
-extrapolated_project_ids:
-  - '3102059'
-project_titles_from_extrapolated_project_ids:
-  - 'Children Mending Hearts: Kids Helping Kids'
-original_project_titles:
-  - 'Children Mending Hearts: Kids Helping Kids'
 original_project_ids:
   - '3102059'
-youtube_video_identifier: d166fbxFWas
+original_project_titles:
+  - 'Children Mending Hearts: Kids Helping Kids'
+extrapolated_project_ids:
+  - '3102059'
+extrapolated_project_titles:
+  - 'Children Mending Hearts: Kids Helping Kids'
 
 ---

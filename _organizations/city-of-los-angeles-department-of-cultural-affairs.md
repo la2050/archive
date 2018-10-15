@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: ZobE5kX4dTc
 organization_id: '2013034'
-organization_website:
-  - 'http://culturela.org'
-ein: '956000735'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
-tags_indicators:
-  - Art
-  - Community gatherings
-  - Arts & cultural vitality
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: City of Los Angeles Department of Cultural Affairs
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>DCA generates & supports high quality arts & cultural experiences for LA’s
   4 million residents & 26 million annual visitors. DCA supports artists &
@@ -41,6 +28,21 @@ org_summary: >-
    
    
    <p>The LA Fund, recently launched “Arts Matter,” an unprecedented campaign to revitalize arts education in LAUSD. Developed to drive public awareness for the critical role of arts education in public schools, the campaign includes leading contemporary artists, including Barbara Kruger and John Baldessari, as well as LA entertainment, civic, and education leaders.</p>
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
+organization_website:
+  - 'http://culturela.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '956000735'
+zip: ''
+project_image: 'https://img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102067'
@@ -48,15 +50,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LACreates.html'
   year_submitted:
     - '2013'
-title: City of Los Angeles Department of Cultural Affairs
-extrapolated_project_ids:
-  - '3102067'
-project_titles_from_extrapolated_project_ids:
-  - LA Creates! Media Arts Learning Initiative
-original_project_titles:
-  - LA Creates! Media Arts Learning Initiative
 original_project_ids:
   - '3102067'
-youtube_video_identifier: ZobE5kX4dTc
+original_project_titles:
+  - LA Creates! Media Arts Learning Initiative
+extrapolated_project_ids:
+  - '3102067'
+extrapolated_project_titles:
+  - LA Creates! Media Arts Learning Initiative
 
 ---

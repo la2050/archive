@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: hHXkL2SbXI8
 organization_id: '2013126'
-organization_website:
-  - 'http://www.losangeleswalks.org/'
-ein: '954845170'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954845170'
-tags_indicators:
-  - Transportation
-  - Mobility
-twitter: ''
-instagram: ''
-facebook: ''
+title: Los Angeles Walks
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Deborah Murphy, a native Angeleno, founded Los Angeles Walks in 1998 after
   a key appointment as the Chair of the City of Los Angeles Pedestrian Advisory
@@ -77,6 +66,19 @@ org_summary: >-
    
    
    <p>- Conducted pedestrian-related events during CicLAvia including a WalkLAvia in October 2012 on three miles of Figueroa Street</p>
+tags_indicators:
+  - Transportation
+  - Mobility
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954845170'
+organization_website:
+  - 'http://www.losangeleswalks.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954845170'
+zip: ''
+project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102190'
@@ -84,13 +86,9 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LAwalks.html'
   year_submitted:
     - '2013'
-title: Los Angeles Walks
-extrapolated_project_ids:
+original_project_ids:
   - '3102190'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    “Hey I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
-    Los Angeles 
+  - '3102190'
 original_project_titles:
   - >-
     “Hey, I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
@@ -98,9 +96,11 @@ original_project_titles:
   - >-
     “Hey, I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
     Los Angeles 
-original_project_ids:
+extrapolated_project_ids:
   - '3102190'
-  - '3102190'
-youtube_video_identifier: hHXkL2SbXI8
+extrapolated_project_titles:
+  - >-
+    “Hey I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
+    Los Angeles 
 
 ---

@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: FLAA1.jpg
+maker_image_id: '17044'
 organization_id: '2013071'
-organization_website:
-  - forlearnersofallages.com
-ein: '461226459'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461226459'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: For Learners of All Ages
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17044%252Fdisplay%252FFLAA1.jpg=c570x385
-project_video: ''
 org_summary: >-
   For Learners of All Ages was incorporated 6 months ago. We received our 501c3
   charitable status in February of this year. 
@@ -42,6 +31,20 @@ org_summary: >-
    
    
    Initially, our dance programming focuses on Bachata, however, the Island Touch Dance Academy has provided us free use of their choreographies, including Crunkchata, which is an individual-based dance more appropriate for younger dancers. We have other dance companies, ranging from Mexican Folklorico, hip-hop, and even the flow-arts who would like to work with us. However, we first need to set our initial programming successfully in motion.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461226459'
+organization_website:
+  - forlearnersofallages.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '461226459'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17044%252Fdisplay%252FFLAA1.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102130'
@@ -49,17 +52,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
   year_submitted:
     - '2013'
-title: For Learners of All Ages
-extrapolated_project_ids:
+original_project_ids:
   - '3102130'
-project_titles_from_extrapolated_project_ids:
-  - Shall We Dance in LA?
 original_project_titles:
   - Shall We Dance in LA?
   - Shall We Dance?
-original_project_ids:
+extrapolated_project_ids:
   - '3102130'
-maker_image_id: '17044'
-maker_image_file_name: FLAA1.jpg
+extrapolated_project_titles:
+  - Shall We Dance in LA?
 
 ---

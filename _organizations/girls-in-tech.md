@@ -1,25 +1,26 @@
 ---
 organization_id: '2016089'
-organization_website:
-  - girlsintech.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - STEM & Digital literacy
-  - Teaching & mentorship
-  - Education & youth
-twitter: '@girlsintech'
-instagram: GirlsInTech
-facebook: girlsintech.global
+title: Girls in Tech
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
-project_video: 'https://www.youtube.com/embed/BZXFTqAIG8U?rel=0&amp;showinfo=0'
 org_summary: >-
   Girls in Tech (GIT) is a global non-profit focused on the engagement,
   education and empowerment of girls and women who are passionate about
   technology.
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - girlsintech.org
+twitter: '@girlsintech'
+instagram: GirlsInTech
+facebook: girlsintech.global
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
+project_video: 'https://www.youtube.com/embed/BZXFTqAIG8U?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102081'
@@ -28,14 +29,13 @@ aggregated:
       https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
   year_submitted:
     - '2016'
-title: Girls in Tech
-extrapolated_project_ids:
-  - '6102081'
-project_titles_from_extrapolated_project_ids:
-  - Coding Bootcamps and Conferences for Women in Tech
-original_project_titles:
-  - Coding Bootcamps and Conferences for Women in Tech
 original_project_ids:
   - '6102081'
+original_project_titles:
+  - Coding Bootcamps and Conferences for Women in Tech
+extrapolated_project_ids:
+  - '6102081'
+extrapolated_project_titles:
+  - Coding Bootcamps and Conferences for Women in Tech
 
 ---

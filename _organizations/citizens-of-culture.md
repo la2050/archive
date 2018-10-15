@@ -1,24 +1,25 @@
 ---
 organization_id: '2018022'
-organization_website:
-  - citizensofculture.com
-ein: '821044989'
-zip: '91506'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821044989'
+title: Citizens Of Culture
+org_type: Nonprofit
+org_summary: >-
+  Citizens of Culture uses arts to develop critical thinking, emotional
+  intelligence, and combat resource inequality.
 tags_indicators:
   - Voting & civic engagement
   - Community gatherings
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821044989'
+organization_website:
+  - citizensofculture.com
 twitter: '@ctznsofculture'
 instagram: ctznsofculture
 facebook: 'https://www.facebook.com/CitizensOfCulture/'
-org_type: Nonprofit
+ein: '821044989'
+zip: '91506'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 project_video: 'https://vimeo.com/250192634'
-org_summary: >-
-  Citizens of Culture uses arts to develop critical thinking, emotional
-  intelligence, and combat resource inequality.
 aggregated:
   project_ids:
     - '8102022'
@@ -32,22 +33,21 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
-title: Citizens Of Culture
-extrapolated_project_ids:
-  - '6102097'
+original_project_ids:
   - '5102056'
-project_titles_from_extrapolated_project_ids:
-  - 'Nous Tous: A Gallery For All Of Us'
-  - Creating The Culture of Entrepreneurship
+  - '6102097'
+  - '8102022'
 original_project_titles:
   - Creating The Culture of Entrepreneurship
   - 'Nous Tous: A Gallery For All Of Us'
   - >-
     The View From Here: Conversations About The Most Important Issues Of Our
     Time
-original_project_ids:
-  - '5102056'
+extrapolated_project_ids:
   - '6102097'
-  - '8102022'
+  - '5102056'
+extrapolated_project_titles:
+  - 'Nous Tous: A Gallery For All Of Us'
+  - Creating The Culture of Entrepreneurship
 
 ---

@@ -1,20 +1,8 @@
 ---
+youtube_video_identifier: d8oxCVYqxhU
 organization_id: '2013003'
-organization_website: ''
-ein: '461862955'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Workforce development
-  - Community safety
-  - Income & employment
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: ADVANCE
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/d8oxCVYqxhU/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   ADVANCE is still in its idea stages; however, as mentioned, we have been
   selected as a semi-finalist for the Echoing Green Fellowship, which would fund
@@ -26,6 +14,20 @@ org_summary: >-
   trying to address the needs of a large population. This led her to see
   potential in creating a training program so legal professionals like her can
   help people the law is meant to serve.
+tags_indicators:
+  - Workforce development
+  - Community safety
+  - Income & employment
+  - Public safety & public space
+charity_navigator_url: ''
+organization_website: ''
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '461862955'
+zip: ''
+project_image: 'https://img.youtube.com/vi/d8oxCVYqxhU/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102001'
@@ -33,15 +35,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/AccessJustice.html'
   year_submitted:
     - '2013'
-title: ADVANCE
-extrapolated_project_ids:
-  - '3102001'
-project_titles_from_extrapolated_project_ids:
-  - Advancing Justice through Legal Social Enterprises
-original_project_titles:
-  - Advancing Justice through Legal Social Enterprises
 original_project_ids:
   - '3102001'
-youtube_video_identifier: d8oxCVYqxhU
+original_project_titles:
+  - Advancing Justice through Legal Social Enterprises
+extrapolated_project_ids:
+  - '3102001'
+extrapolated_project_titles:
+  - Advancing Justice through Legal Social Enterprises
 
 ---

@@ -1,21 +1,9 @@
 ---
+maker_image_file_name: kitchen2.jpg
+maker_image_id: '16835'
 organization_id: '2013181'
-organization_website:
-  - www.thankyouforcoming.la
-ein: '460661052'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Creative economy
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Thank You For Coming
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16835%252Fdisplay%252Fkitchen2.jpg=c570x385
-project_video: ''
 org_summary: >-
   The first milestone we reached was opening our doors December 5, 2012. After 9
   months of fundraising, drawing, re-drawing, building, permitting,
@@ -54,6 +42,21 @@ org_summary: >-
    
    
    Japanther/69Â¢ Only: "In our research, we found that a nickel in 1930 is valued, coincidentally, at 69Â¢ today. But while automats used to provide public dignity for pennies on the dollar, in 2013, questions about value, quality and service are still highly contended. Our intention in creating a 69Â¢ Only store is to provide a place where people can eat and hang out affordably in LA. We’re challenging ourselves to fully consider the costs and value of things that are too-often omitted in the conversation: labor, modern manufacturing processes, etc. It is without a doubt that we will need to rely on creative resource gathering, careful proportioning, DIY processes, and the generosity of friends and strangers to realize a 69Â¢ Only store."
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.thankyouforcoming.la
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '460661052'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16835%252Fdisplay%252Fkitchen2.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102106'
@@ -61,16 +64,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/thankyouforcoming.html'
   year_submitted:
     - '2013'
-title: Thank You For Coming
-extrapolated_project_ids:
-  - '3102106'
-project_titles_from_extrapolated_project_ids:
-  - 'We are an experimental food and art space in Los Angeles. '
-original_project_titles:
-  - 'We are an experimental food and art space in Los Angeles. '
 original_project_ids:
   - '3102106'
-maker_image_id: '16835'
-maker_image_file_name: kitchen2.jpg
+original_project_titles:
+  - 'We are an experimental food and art space in Los Angeles. '
+extrapolated_project_ids:
+  - '3102106'
+extrapolated_project_titles:
+  - 'We are an experimental food and art space in Los Angeles. '
 
 ---

@@ -1,25 +1,26 @@
 ---
 organization_id: '2016164'
-organization_website:
-  - www.patrickhenryfoundation.org
-ein: '471713238'
-zip: '90714'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471713238'
-tags_indicators:
-  - STEM & Digital literacy
-  - Early childhood
-  - Education & youth
-twitter: DualImmersion
-instagram: PatrickHenryDualImmersion
-facebook: PatrickHenryDualImmersion
+title: Patrick Henry Foundation
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
-project_video: ''
 org_summary: >-
   Our mission is to make Patrick Henry School an exciting place to learn through
   programs that promote personal growth, cultural connections, and creative
   learning experiences.
+tags_indicators:
+  - STEM & Digital literacy
+  - Early childhood
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471713238'
+organization_website:
+  - www.patrickhenryfoundation.org
+twitter: DualImmersion
+instagram: PatrickHenryDualImmersion
+facebook: PatrickHenryDualImmersion
+ein: '471713238'
+zip: '90714'
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
+project_video: ''
 aggregated:
   project_ids:
     - '6102176'
@@ -31,22 +32,21 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-title: Patrick Henry Foundation
-extrapolated_project_ids:
-  - '6102176'
+original_project_ids:
   - '5102231'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
-    Program
-  - Learning Through Dual Language Immersion
+  - '6102176'
 original_project_titles:
   - Learning Through Dual Language Immersion
   - >-
     The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
     Program
-original_project_ids:
-  - '5102231'
+extrapolated_project_ids:
   - '6102176'
+  - '5102231'
+extrapolated_project_titles:
+  - >-
+    The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
+    Program
+  - Learning Through Dual Language Immersion
 
 ---

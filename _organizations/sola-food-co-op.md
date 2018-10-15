@@ -1,23 +1,24 @@
 ---
 organization_id: '2016195'
-organization_website:
-  - www.solafoodcoop.com
-ein: '464872589'
-zip: '90062'
-charity_navigator_url: ''
-tags_indicators:
-  - Access to healthy food
-  - Health
-twitter: SoLAFoodCoop
-instagram: SoLAfoodcoop
-facebook: solafoodcoop
+title: SoLA Food Co-op
 org_type: Forprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
-project_video: 'https://www.youtube.com/embed/13VpJDoRnhg?rel=0&amp;showinfo=0'
 org_summary: >-
   SoLA Food Co-op is working to build a full service natural foods grocery store
   in South Los Angeles, owned by the community.
+tags_indicators:
+  - Access to healthy food
+  - Health
+charity_navigator_url: ''
+organization_website:
+  - www.solafoodcoop.com
+twitter: SoLAFoodCoop
+instagram: SoLAfoodcoop
+facebook: solafoodcoop
+ein: '464872589'
+zip: '90062'
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
+project_video: 'https://www.youtube.com/embed/13VpJDoRnhg?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102231'
@@ -28,17 +29,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-title: SoLA Food Co-op
-extrapolated_project_ids:
-  - '6102231'
+original_project_ids:
   - '5102273'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
-    Empowerment
-  - >-
-    SoLA Food Co-op a source for healthy food and community empowerment in South
-    LA
+  - '6102231'
 original_project_titles:
   - >-
     SoLA Food Co-op, a source for healthy food and community empowerment in
@@ -46,8 +39,15 @@ original_project_titles:
   - >-
     SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
     Empowerment
-original_project_ids:
-  - '5102273'
+extrapolated_project_ids:
   - '6102231'
+  - '5102273'
+extrapolated_project_titles:
+  - >-
+    SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
+    Empowerment
+  - >-
+    SoLA Food Co-op a source for healthy food and community empowerment in South
+    LA
 
 ---

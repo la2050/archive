@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: xF48V9enLaE
 organization_id: '2013184'
-organization_website:
-  - www.discoverybynature.org
-ein: '954320598'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954320598'
-tags_indicators:
-  - Teaching & mentorship
-  - Air & water
-  - Education & youth
-  - Environmental quality & sustainability
-twitter: ''
-instagram: ''
-facebook: ''
+title: The Children's Nature Institute
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   CNI’s mission is to educate children, families, and their communities through
   interactive experiences with nature and to cultivate respect and
@@ -35,6 +22,21 @@ org_summary: >-
    
    
    Joining MCI gave CNI the latitude and capability to embark on the leadership role for ExN:LA, a collaboration modeled on MCI and focused on bringing continuous, high-quality environmental education to schools throughout Los Angeles. Now in its second year, ExN:LA has grown to include the entire 2nd and 3rd grades at 2 schools, 6 partner organizations and the MCI network of collaborators and community. ExN:LA is part of national Education by Nature umbrella with iterations throughout California, Hawaii and Massachusetts, each of which is designed to meet the specific needs of its community, and to share best practices and ideas with each other
+tags_indicators:
+  - Teaching & mentorship
+  - Air & water
+  - Education & youth
+  - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954320598'
+organization_website:
+  - www.discoverybynature.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954320598'
+zip: ''
+project_image: 'https://img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102245'
@@ -42,17 +44,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/ExNLA.html'
   year_submitted:
     - '2013'
-title: The Children's Nature Institute
-extrapolated_project_ids:
-  - '3102245'
-project_titles_from_extrapolated_project_ids:
-  - 'Education by Nature: Los Angeles'
-original_project_titles:
-  - 'Education by Nature: Los Angeles'
-  - 'Education by Nature: Los Angeles'
 original_project_ids:
   - '3102245'
   - '3102245'
-youtube_video_identifier: xF48V9enLaE
+original_project_titles:
+  - 'Education by Nature: Los Angeles'
+  - 'Education by Nature: Los Angeles'
+extrapolated_project_ids:
+  - '3102245'
+extrapolated_project_titles:
+  - 'Education by Nature: Los Angeles'
 
 ---

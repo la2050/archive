@@ -1,25 +1,26 @@
 ---
 organization_id: '2016109'
-organization_website:
-  - impacthubla.com
-ein: '273558431'
-zip: '90013'
-charity_navigator_url: ''
+title: Impact Hub Los Angeles
+org_type: Forprofit
+org_summary: >-
+  Impact Hub Los Angeles is a community hub and co-working space for socially
+  conscious entrepreneurs, civic leaders, professionals and creatives.
 tags_indicators:
   - Entrepreneurship & innovation
   - Community gatherings
   - Income & employment
   - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - impacthubla.com
 twitter: ImpactHubLA
 instagram: impacthubla
 facebook: impacthub_la
-org_type: Forprofit
+ein: '273558431'
+zip: '90013'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
 project_video: ''
-org_summary: >-
-  Impact Hub Los Angeles is a community hub and co-working space for socially
-  conscious entrepreneurs, civic leaders, professionals and creatives.
 aggregated:
   project_ids:
     - '6102179'
@@ -31,22 +32,21 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-title: Impact Hub Los Angeles
-extrapolated_project_ids:
-  - '6102179'
+original_project_ids:
   - '5102139'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
-    communities in LA.
-  - 'The Digital District: A 21st Century Neighborhood of Los Angeles'
+  - '6102179'
 original_project_titles:
   - 'The Digital District: A 21st Century Neighborhood of Los Angeles '
   - >-
     Virtual Reality in Blue: Linking the Next Generation Police Officers to the
     communities in LA.
-original_project_ids:
-  - '5102139'
+extrapolated_project_ids:
   - '6102179'
+  - '5102139'
+extrapolated_project_titles:
+  - >-
+    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
+    communities in LA.
+  - 'The Digital District: A 21st Century Neighborhood of Los Angeles'
 
 ---

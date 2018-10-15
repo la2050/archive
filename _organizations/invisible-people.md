@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: yUwt2n0jfsc
 organization_id: '2013099'
-organization_website:
-  - 'http://invisiblepeople.tv'
-ein: '272079758'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272079758'
-tags_indicators:
-  - Homelessness
-  - Housing & homelessness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Invisible People
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/yUwt2n0jfsc/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>In 2011 the Canadian Government commissioned Invisible People to travel to
   24 cities in Canada to help champion the Canadian Alliance to End
@@ -102,6 +91,19 @@ org_summary: >-
    
    
    <p>There is a lot more, but our biggest achievement is is changing how millions of people around the word view homelessness </p>
+tags_indicators:
+  - Homelessness
+  - Housing & homelessness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272079758'
+organization_website:
+  - 'http://invisiblepeople.tv'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '272079758'
+zip: ''
+project_image: 'https://img.youtube.com/vi/yUwt2n0jfsc/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102158'
@@ -109,15 +111,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
   year_submitted:
     - '2013'
-title: Invisible People
-extrapolated_project_ids:
-  - '3102158'
-project_titles_from_extrapolated_project_ids:
-  - Los Angeles Invisible People Chapter and Film Festival
-original_project_titles:
-  - Los Angeles Invisible People Chapter and Film Festival
 original_project_ids:
   - '3102158'
-youtube_video_identifier: yUwt2n0jfsc
+original_project_titles:
+  - Los Angeles Invisible People Chapter and Film Festival
+extrapolated_project_ids:
+  - '3102158'
+extrapolated_project_titles:
+  - Los Angeles Invisible People Chapter and Film Festival
 
 ---

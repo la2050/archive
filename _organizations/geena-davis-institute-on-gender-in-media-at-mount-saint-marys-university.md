@@ -1,21 +1,22 @@
 ---
 organization_id: '2016087'
-organization_website:
-  - www.seejane.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-twitter: GDIGM
-instagram: GDIGM
-facebook: GDIGM
+title: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
-project_video: 'https://www.youtube.com/embed/BumIt2pIRuw?rel=0&amp;showinfo=0'
 org_summary: >-
   The Geena Davis Institute on Gender in Media is the only research-based
   organization working from within the entertainment industry to improve gender
   balance in media and empower women and girls.
+charity_navigator_url: ''
+organization_website:
+  - www.seejane.org
+twitter: GDIGM
+instagram: GDIGM
+facebook: GDIGM
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
+project_video: 'https://www.youtube.com/embed/BumIt2pIRuw?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102079'
@@ -28,17 +29,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2016'
-title: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
-extrapolated_project_ids:
+original_project_ids:
   - '6102078'
-  - '6102079'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    If She Can See It, She Can Be It: Empowering Girls & Creating a
-    Gender-Balanced Media Landscape 
-  - >-
-    If She Can See It, She Can Be It: Empowering Girls & Creating a
-    Gender-Balanced Media Landscape 
+  - '6102078'
 original_project_titles:
   - >-
     If She Can See It, She Can Be It: Empowering Girls & Creating a
@@ -46,8 +39,15 @@ original_project_titles:
   - >-
     If She Can See It, She Can Be It: Empowering Girls & Creating a
     Gender-Balanced Media Landscape 
-original_project_ids:
+extrapolated_project_ids:
   - '6102078'
-  - '6102078'
+  - '6102079'
+extrapolated_project_titles:
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
 
 ---

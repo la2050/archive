@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: pUrKNHKdDLA
 organization_id: '2013175'
-organization_website:
-  - 'http://www.stringtheoryproductions.com'
-ein: '710929869'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: String Theory Productions
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/pUrKNHKdDLA/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Grant from City of Los Angeles Department of Cultural Affairs and Los Angeles
   World Airports to create a site specific performance installation at the Van
@@ -61,6 +50,19 @@ org_summary: >-
    
    
    String Theory has performed at The Santa Barbara Museum of Art, and the Museum of Natural History.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.stringtheoryproductions.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '710929869'
+zip: ''
+project_image: 'https://img.youtube.com/vi/pUrKNHKdDLA/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102099'
@@ -68,15 +70,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/giantharpproject.html'
   year_submitted:
     - '2013'
-title: String Theory Productions
-extrapolated_project_ids:
-  - '3102099'
-project_titles_from_extrapolated_project_ids:
-  - The Los Angeles Giant Harp Project
-original_project_titles:
-  - The Los Angeles Giant Harp Project
 original_project_ids:
   - '3102099'
-youtube_video_identifier: pUrKNHKdDLA
+original_project_titles:
+  - The Los Angeles Giant Harp Project
+extrapolated_project_ids:
+  - '3102099'
+extrapolated_project_titles:
+  - The Los Angeles Giant Harp Project
 
 ---

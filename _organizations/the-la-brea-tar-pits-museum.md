@@ -1,22 +1,24 @@
 ---
+youtube_video_identifier: gzqE0ygfM8Y
 organization_id: '2014093'
-organization_website:
-  - tarpits.org
-ein: '956132185'
-zip: '90007'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956132185'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: '@LaBreaTarPits'
-instagram: 'http://instagram.com/nhmla'
-facebook: 'https://www.facebook.com/tarpits'
+title: The La Brea Tar Pits Museum
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   The La Brea Tar Pits Museum and park are where Angelenos discover, interpret
   and appreciate their shared natural history.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956132185'
+organization_website:
+  - tarpits.org
+twitter: '@LaBreaTarPits'
+instagram: 'http://instagram.com/nhmla'
+facebook: 'https://www.facebook.com/tarpits'
+ein: '956132185'
+zip: '90007'
+project_image: 'https://img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '4102093'
@@ -24,15 +26,13 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/newdigs.html'
   year_submitted:
     - '2014'
-title: The La Brea Tar Pits Museum
-extrapolated_project_ids:
-  - '4102219'
-project_titles_from_extrapolated_project_ids:
-  - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
-original_project_titles:
-  - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
 original_project_ids:
   - '4102219'
-youtube_video_identifier: gzqE0ygfM8Y
+original_project_titles:
+  - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
+extrapolated_project_ids:
+  - '4102219'
+extrapolated_project_titles:
+  - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
 
 ---

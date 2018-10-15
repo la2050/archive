@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: inC3OJbaTT4
 organization_id: '2013190'
-organization_website:
-  - www.lakitchen.org
-ein: '461639779'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461639779'
-tags_indicators:
-  - Access to healthy food
-  - Workforce development
-  - Health
-  - Income & employment
-twitter: ''
-instagram: ''
-facebook: ''
+title: The L.A. Kitchen
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   L.A. Kitchen is brand new. Many of its core ideas have been proven successful
   — though, never quite in this dynamic combination. L.A. Kitchen is the latest
@@ -53,6 +40,21 @@ org_summary: >-
    
    
    Now, Egger’s energy, experience, and entrepreneurial spirit are here in the region where he grew up in the 1960’s and 70’s, with an added focus on fighting the needless waste of fresh produce and strengthening our senior citizens. It’s time for change.
+tags_indicators:
+  - Access to healthy food
+  - Workforce development
+  - Health
+  - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461639779'
+organization_website:
+  - www.lakitchen.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '461639779'
+zip: ''
+project_image: 'https://img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102251'
@@ -60,15 +62,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/thelakitchen.html'
   year_submitted:
     - '2013'
-title: The L.A. Kitchen
-extrapolated_project_ids:
-  - '3102251'
-project_titles_from_extrapolated_project_ids:
-  - 'L.A. Kitchen: Neither Food or People Should Ever Go to Waste'
-original_project_titles:
-  - 'L.A. Kitchen: Neither Food or People Should Ever Go to Waste'
 original_project_ids:
   - '3102251'
-youtube_video_identifier: inC3OJbaTT4
+original_project_titles:
+  - 'L.A. Kitchen: Neither Food or People Should Ever Go to Waste'
+extrapolated_project_ids:
+  - '3102251'
+extrapolated_project_titles:
+  - 'L.A. Kitchen: Neither Food or People Should Ever Go to Waste'
 
 ---

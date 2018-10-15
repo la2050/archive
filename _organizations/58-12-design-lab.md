@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: la2050_title.jpg
+maker_image_id: '16859'
 organization_id: '2013001'
-organization_website:
-  - 'http://www.58-12.org'
-ein: '271538597'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271538597'
-tags_indicators:
-  - Art
-  - Workforce development
-  - Arts & cultural vitality
-  - Income & employment
-twitter: ''
-instagram: ''
-facebook: ''
+title: 58-12 Design Lab
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16859%252Fdisplay%252Fla2050_title.jpg=c570x385
-project_video: ''
 org_summary: >-
   58-12 Design Lab is a 501(c)(3) non-profit charitable organization formed and
   registered in the State of California. In 2009, three friends at UCLA who were
@@ -38,6 +25,22 @@ org_summary: >-
    
    
    We have also partnered with a number of individuals and institutions in order to achieve our goals, including designers, storytellers, researchers, and cool folks like the people at metaLAB at Harvard. They developed a web application called Zeega that we are currently working with to tell the story of Hmong communities in California, among other things.
+tags_indicators:
+  - Art
+  - Workforce development
+  - Arts & cultural vitality
+  - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271538597'
+organization_website:
+  - 'http://www.58-12.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '271538597'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16859%252Fdisplay%252Fla2050_title.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102002'
@@ -45,16 +48,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/lastories.html'
   year_submitted:
     - '2013'
-title: 58-12 Design Lab
-extrapolated_project_ids:
-  - '3102002'
-project_titles_from_extrapolated_project_ids:
-  - LA Stories — Writing on the Job
-original_project_titles:
-  - LA Stories — Writing on the Job
 original_project_ids:
   - '3102002'
-maker_image_id: '16859'
-maker_image_file_name: la2050_title.jpg
+original_project_titles:
+  - LA Stories — Writing on the Job
+extrapolated_project_ids:
+  - '3102002'
+extrapolated_project_titles:
+  - LA Stories — Writing on the Job
 
 ---

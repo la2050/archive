@@ -1,38 +1,38 @@
 ---
+youtube_video_identifier: IRXVbzVLXls
 organization_id: '2015011'
-organization_website:
-  - www.ApplicantLab.com
-ein: '473354380'
-zip: '90094'
-charity_navigator_url: ''
-tags_indicators:
-  - College prep
-  - Education & youth
-twitter: 'https://twitter.com/ApplicantLab'
-instagram: ''
-facebook: 'https://www.facebook.com/ApplicantLab/'
+title: ApplicantLab
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Leveling the admissions playing field via an online series of interactive
   tools that guides individual users through a customized path to write great
   college essays, get strong recommendations, etc.
+tags_indicators:
+  - College prep
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - www.ApplicantLab.com
+twitter: 'https://twitter.com/ApplicantLab'
+instagram: ''
+facebook: 'https://www.facebook.com/ApplicantLab/'
+ein: '473354380'
+zip: '90094'
+project_image: 'https://img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids: []
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CollegeEssay.html'
   year_submitted:
     - '2015'
-title: ApplicantLab
-extrapolated_project_ids:
-  - '5102018'
-project_titles_from_extrapolated_project_ids:
-  - Conquering the College Essay
-original_project_titles:
-  - Conquering the College Essay
 original_project_ids:
   - '5102018'
-youtube_video_identifier: IRXVbzVLXls
+original_project_titles:
+  - Conquering the College Essay
+extrapolated_project_ids:
+  - '5102018'
+extrapolated_project_titles:
+  - Conquering the College Essay
 
 ---

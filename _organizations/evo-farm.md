@@ -1,21 +1,9 @@
 ---
+maker_image_file_name: vertical_AP_kit_3.jpg
+maker_image_id: '16774'
 organization_id: '2013064'
-organization_website:
-  - www.evofarm.com
-ein: '460846401'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Access to healthy food
-  - Access to parks & green space
-  - Health
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: Evo Farm
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: |-
   * First commercial aquaponics farm in LA County (LA Times http://goo.gl/xmTck)
    
@@ -48,6 +36,21 @@ org_summary: |-
    
    
    * Re-introducing taste to living food (Edible Westside http://goo.gl/KydmV)
+tags_indicators:
+  - Access to healthy food
+  - Access to parks & green space
+  - Health
+  - Public safety & public space
+charity_navigator_url: ''
+organization_website:
+  - www.evofarm.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '460846401'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102040'
@@ -55,18 +58,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/aquaponics.html'
   year_submitted:
     - '2013'
-title: Evo Farm
-extrapolated_project_ids:
-  - '3102040'
-project_titles_from_extrapolated_project_ids:
-  - 25 Aquaponic Farms in 25 Schools
-original_project_titles:
-  - 25 Aquaponic Farms in 25 Schools
-  - 25 Aquaponic Farms in 25 Schools
 original_project_ids:
   - '3102040'
   - '3102040'
-maker_image_id: '16774'
-maker_image_file_name: vertical_AP_kit_3.jpg
+original_project_titles:
+  - 25 Aquaponic Farms in 25 Schools
+  - 25 Aquaponic Farms in 25 Schools
+extrapolated_project_ids:
+  - '3102040'
+extrapolated_project_titles:
+  - 25 Aquaponic Farms in 25 Schools
 
 ---
