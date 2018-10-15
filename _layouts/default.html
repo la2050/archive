@@ -73,7 +73,7 @@
     }
   </script>
 
-  {% capture canonical_url %}https://activation.la2050.org{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
+  {% capture canonical_url %}https://archive.la2050.org{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta property="og:url" content="{{ canonical_url }}" />
 
@@ -87,8 +87,8 @@
     <meta property="og:description" content="{{ description }}" />
   {% endif %}
 
-  {% if page.project_image and page.project_image != '' and page.category and page.category != '' %}
-  <meta property="og:image" content="https://activation.la2050.org/assets/images/{{ page.category }}/2048-wide/{{ page.project_image }}" />
+  {% if page.project_image and page.project_image != '' %}
+  <meta property="og:image" content="{{ page.project_image }}" />
   {% elsif page.image %}
   <meta property="og:image" content="{{ page.image }}" />
   {% elsif site.image %}

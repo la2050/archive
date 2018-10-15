@@ -1,60 +1,39 @@
 ---
+maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
+maker_image_id: '20805'
 organization_id: '2014098'
-year_submitted: 2014
-organization_name: The Women's Center for Creative Work
-organization_website:
-  - www.womenscenterforcreativework.com
-ein: '952540759'
-zip: '90031'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
-ntee_type: ''
+title: The Women's Center for Creative Work
+org_type: Nonprofit
+org_summary: >-
+  WCCW: Providing a network and project platform for female creatives in Los
+  Angeles. Proposing a shared workspace. Together we are powerful!
 tags_indicators:
   - Creative economy
   - Community gatherings
   - Arts & cultural vitality
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
+organization_website:
+  - www.womenscenterforcreativework.com
 twitter: '@WCCWLA'
 instagram: '@womenscenterforcreativework'
 facebook: 'https://www.facebook.com/womenscenterforcreativework'
-org_type: Nonprofit
+ein: '952540759'
+zip: '90031'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20805%252Fdisplay%252F1525354_1412741148965740_1670155225_n.jpg=c570x385
 project_video: ''
-org_summary: >-
-  WCCW: Providing a network and project platform for female creatives in Los
-  Angeles. Proposing a shared workspace. Together we are powerful!
-areas_impacted: >-
-  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
-  Bay,Westside
-project_ids: '4102098'
-challenge_url: 'http://maker.good.is/myLA2050create/projects/WCCW.html'
+project_ids:
+  - '4102232'
+project_titles:
+  - 'A Physical Space for the WCCW '
+  - A Physical Space for the WCCW
 aggregated:
-  project_ids:
-    - '4102098'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/WCCW.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      WCCW: Providing a network and project platform for female creatives in Los
-      Angeles. Proposing a shared workspace. Together we are powerful!
-title: The Women's Center for Creative Work
-uri: /organizations/the-womens-center-for-creative-work/
-extrapolated_project_ids:
-  - '4102232'
-project_titles_from_extrapolated_project_ids:
-  - A Physical Space for the WCCW
-project_titles:
-  - A Physical Space for the WCCW
-project_titles_from_project_ids:
-  - SFCLA - Serving Hope and Veggies where LA needs it most!
-original_project_titles:
-  - 'A Physical Space for the WCCW '
-original_project_ids:
-  - '4102232'
-project_titles_flagged: 1
-maker_image_id: '20805'
-maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
+  project_ids:
+    - '4102098'
 
 ---

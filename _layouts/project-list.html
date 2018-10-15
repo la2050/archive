@@ -279,7 +279,7 @@ align-self: stretch;
 
 
 {% comment %} Order alphabetically {% endcomment %}
-{% assign data_list = data_list | sort: "organization_name" %}
+{% assign data_list = data_list | sort: "title" %}
 
 
 {% include project-navigation.html %}
@@ -327,7 +327,7 @@ align-self: stretch;
     {% endfor %}
   {% endfor %}
 
-  <li data-project-titles="{{ data['original_project_titles'] | join: "," }},{{ data['project_titles_from_extrapolated_project_ids'] | join: "," }}">
+  <li data-project-titles="{{ data['project_titles'] | join: "," }}">
     <a href="{{ data.url }}">
       <span class="image">
         <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />
@@ -335,7 +335,7 @@ align-self: stretch;
         <span style="background-image: url({{ data['project_image'] }})"></span>
         {% endcomment %}
       </span>
-      <h3>{{ data['organization_name'] }}</h3>
+      <h3>{{ data['title'] }}</h3>
       <p class="description">{{ data['org_summary'] | strip_html | truncate: 250 }}</p>
       <p class="description" style="margin-top: 0.375rem;">
         <small {% if is_winner or is_finalist %} style="color: var(--primary-color); font-weight: 600;" {% else %} style="color: rgba(0, 0, 0, 0.5)" {% endif %}>

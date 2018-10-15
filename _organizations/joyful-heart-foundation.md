@@ -1,44 +1,32 @@
 ---
 organization_id: '2016115'
-year_submitted: 2016
-organization_name: Joyful Heart Foundation
-organization_website:
-  - joyfulheartfoundation.org
-ein: '721519537'
-zip: '91101'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=721519537'
-ntee_type: ''
-tags_indicators:
-  - Community health
-  - Mental & emotional health
-  - Health
-twitter: thejhf
-instagram: joyfulheart
-facebook: thejhf
+title: Joyful Heart Foundation
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
-project_video: ''
 org_summary: >-
   Our mission is to transform society's response to sexual assault, domestic
   violence, and child abuse, support survivors' healing, and end this violence
   forever.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
-project_ids: '6102110'
-challenge_url: >-
-  https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
+tags_indicators:
+  - Community health
+  - Mental & emotional health
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=721519537'
+organization_website:
+  - joyfulheartfoundation.org
+twitter: thejhf
+instagram: joyfulheart
+facebook: thejhf
+ein: '721519537'
+zip: '91101'
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
+project_video: ''
+project_ids:
+  - '6102110'
+  - '5102151'
+project_titles:
+  - Joyful Heart Foundation’s Survivor Retreat Model
 aggregated:
-  project_ids:
-    - '6102110'
-    - '5102151'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
@@ -46,34 +34,8 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      Our mission is to transform society's response to sexual assault, domestic
-      violence, and child abuse, support survivors' healing, and end this
-      violence forever.
-    - >-
-      The mission of the Joyful Heart Foundation is to heal, educate and empower
-      survivors of sexual assault, domestic violence and child abuse, and to
-      shed light into the darkness that surrounds these issues.
-title: Joyful Heart Foundation
-uri: /organizations/joyful-heart-foundation/
-extrapolated_project_ids:
-  - '6102110'
-  - '5102151'
-project_titles_from_extrapolated_project_ids:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-  - Joyful Heart Foundation’s Survivor Retreat Model
-project_titles:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-  - Joyful Heart Foundation’s Survivor Retreat Model
-project_titles_from_project_ids:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-original_project_titles:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-  - Joyful Heart Foundation’s Survivor Retreat Model
-original_project_ids:
-  - '5102151'
-  - '5102151'
-project_titles_flagged: 1
+  project_ids:
+    - '6102110'
+    - '5102151'
 
 ---

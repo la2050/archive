@@ -1,60 +1,38 @@
 ---
 organization_id: '2016112'
-year_submitted: 2016
-organization_name: International Trade Education Programs (ITEP)
-organization_website:
-  - www.itepinc.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
+title: International Trade Education Programs (ITEP)
+org_type: Nonprofit
+org_summary: >-
+  In partnership with industry, educators, and community organizations, ITEP
+  connects disadvantaged and diverse high school students to college and career
+  opportunities.
 tags_indicators:
   - Teaching & mentorship
   - Climate change
   - Education & youth
   - Environmental quality & sustainability
+charity_navigator_url: ''
+organization_website:
+  - www.itepinc.org
 twitter: ITEPinc
 instagram: ITEPInc
 facebook: N/A
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
 project_video: ''
-org_summary: >-
-  In partnership with industry, educators, and community organizations, ITEP
-  connects disadvantaged and diverse high school students to college and career
-  opportunities.
-areas_impacted:
-  - East LA
-project_ids: '6102106'
-challenge_url: >-
-  https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
+project_ids:
+  - '6102106'
+project_titles:
+  - East Los Angeles Youth Environmental Leadership Summit
 aggregated:
-  project_ids:
-    - '6102106'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      In partnership with industry, educators, and community organizations, ITEP
-      connects disadvantaged and diverse high school students to college and
-      career opportunities.
-title: International Trade Education Programs (ITEP)
-uri: /organizations/international-trade-education-programs-itep/
-extrapolated_project_ids:
-  - '6102106'
-project_titles_from_extrapolated_project_ids:
-  - East Los Angeles Youth Environmental Leadership Summit
-project_titles:
-  - East Los Angeles Youth Environmental Leadership Summit
-project_titles_from_project_ids:
-  - East Los Angeles Youth Environmental Leadership Summit
-original_project_titles:
-  - East Los Angeles Youth Environmental Leadership Summit
-original_project_ids:
-  - '6102106'
+  project_ids:
+    - '6102106'
 
 ---

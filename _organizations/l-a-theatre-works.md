@@ -1,67 +1,38 @@
 ---
 organization_id: '2016119'
-year_submitted: 2016
-organization_name: L.A. Theatre Works
-organization_website:
-  - www.latw.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: LATheatreWorks
-instagram: LATheatreWorks
-facebook: latheatreworks
+title: L.A. Theatre Works
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
-project_video: 'https://www.youtube.com/embed/N5d8kpPSzG4?rel=0&amp;showinfo=0'
 org_summary: >-
   LATW records great performances of important plays, using new technologies to
   make world-class theatre accessible to the widest possible audience and to
   expand the use of theatre as a teaching tool.
-areas_impacted:
-  - County of Los Angeles
-  - LAUSD
-project_ids: '6102117'
-challenge_url: >-
-  https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.latw.org
+twitter: LATheatreWorks
+instagram: LATheatreWorks
+facebook: latheatreworks
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
+project_video: 'https://www.youtube.com/embed/N5d8kpPSzG4?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102117'
+project_titles:
+  - >-
+    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
+    Creativity
 aggregated:
-  project_ids:
-    - '6102117'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      LATW records great performances of important plays, using new technologies
-      to make world-class theatre accessible to the widest possible audience and
-      to expand the use of theatre as a teaching tool.
-title: L.A. Theatre Works
-uri: /organizations/l-a-theatre-works/
-extrapolated_project_ids:
-  - '6102117'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
-    Creativity
-project_titles:
-  - >-
-    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
-    Creativity
-project_titles_from_project_ids:
-  - >-
-    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
-    Creativity
-original_project_titles:
-  - >-
-    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
-    Creativity
-original_project_ids:
-  - '6102117'
+  project_ids:
+    - '6102117'
 
 ---

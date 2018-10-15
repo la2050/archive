@@ -1,57 +1,37 @@
 ---
+maker_image_file_name: Sky_Pic.png
+maker_image_id: '23596'
 organization_id: '2015124'
-year_submitted: 2015
-organization_name: Los Angeles Flag
-organization_website:
-  - www.losangelesflag.org
-ein: '475236157'
-zip: '90066'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475236157'
-ntee_type: ''
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: www.twitter.com/LosAngelesFlag
-instagram: ''
-facebook: www.facebook.com/losangelesflag
+title: Los Angeles Flag
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385
-project_video: ''
 org_summary: >-
   Los Angeles Flag is a non-profit organization dedicated to uniting our city by
   establishing a strong civic identity and fostering a sense of civic pride
   amongst Angelenos throughout the city and around the world.
-areas_impacted: City of Los Angeles (citywide)
-project_ids: '5102189'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475236157'
+organization_website:
+  - www.losangelesflag.org
+twitter: www.twitter.com/LosAngelesFlag
+instagram: ''
+facebook: www.facebook.com/losangelesflag
+ein: '475236157'
+zip: '90066'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385
+project_video: ''
+project_ids:
+  - '5102189'
+project_titles:
+  - L.A. Flag Redesign
 aggregated:
-  project_ids:
-    - '5102189'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Los Angeles Flag is a non-profit organization dedicated to uniting our
-      city by establishing a strong civic identity and fostering a sense of
-      civic pride amongst Angelenos throughout the city and around the world.
-title: Los Angeles Flag
-uri: /organizations/los-angeles-flag/
-extrapolated_project_ids:
-  - '5102189'
-project_titles_from_extrapolated_project_ids:
-  - L.A. Flag Redesign
-project_titles:
-  - L.A. Flag Redesign
-project_titles_from_project_ids:
-  - L.A. Flag Redesign
-original_project_titles:
-  - L.A. Flag Redesign
-original_project_ids:
-  - '5102189'
-maker_image_id: '23596'
-maker_image_file_name: Sky_Pic.png
+  project_ids:
+    - '5102189'
 
 ---

@@ -1,75 +1,43 @@
 ---
 organization_id: '2016055'
-year_submitted: 2016
-organization_name: Concerned Capital
-organization_website:
-  - www.concernedcapital.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Access to capital & benefits
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: ConcernCapital
-instagram: concernedcapital
-facebook: N/A
+title: Concerned Capital
 org_type: Forprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
-project_video: ''
 org_summary: >-
   Concerned Capital is a social impact investment firm that leverages economic
   development tools to save/create family wage jobs in distressed communities by
   re-energizing existing, operating companies.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Gateway Cities
-project_ids: '6102111'
-challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'
+tags_indicators:
+  - Access to capital & benefits
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - www.concernedcapital.org
+twitter: ConcernCapital
+instagram: concernedcapital
+facebook: N/A
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
+project_video: ''
+project_ids:
+  - '6102111'
+  - '5102076'
+project_titles:
+  - >-
+    Diversifying LA’s manufacturing ownership by empowering workers to buy their
+    company   
+  - '#Re-Make It LA'
 aggregated:
-  project_ids:
-    - '6102111'
-    - '5102077'
   challenge_url:
     - 'https://challenge.la2050.org/entry/re-make-it-la'
     - 'http://maker.good.is/myla2050create2015/projects/buyoutyourboss.html'
   year_submitted:
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      Concerned Capital is a social impact investment firm that leverages
-      economic development tools to save/create family wage jobs in distressed
-      communities by re-energizing existing, operating companies.
-    - >-
-      Connect the Dots design workshops provide the tools for Los Angelenos to
-      reimagine LA’s Great Streets (and crummy streets) performing at their
-      fullest potential, as engaging public spaces and strategic groundwater
-      recharge assets.
-title: Concerned Capital
-uri: /organizations/concerned-capital/
-extrapolated_project_ids:
-  - '6102111'
-project_titles_from_extrapolated_project_ids:
-  - '#Re-Make It LA'
-project_titles:
-  - '#Re-Make It LA'
-  - >-
-    Connect the Dots LA: Public Design Workshops for Realizing a Resilient
-    Future
-project_titles_from_project_ids:
-  - '#Re-Make It LA'
-original_project_titles:
-  - >-
-    Diversifying LA’s manufacturing ownership by empowering workers to buy their
-    company   
-original_project_ids:
-  - '5102076'
-project_titles_flagged: 1
+  project_ids:
+    - '6102111'
+    - '5102077'
 
 ---

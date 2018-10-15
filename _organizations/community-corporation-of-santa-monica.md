@@ -1,54 +1,34 @@
 ---
 organization_id: '2016051'
-year_submitted: 2016
-organization_name: Community Corporation of Santa Monica
-organization_website:
-  - www.communitycorp.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Affordable housing
-  - Housing & homelessness
-twitter: smbgc
-instagram: smbgcfan
-facebook: smbgc
+title: Community Corporation of Santa Monica
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
-project_video: 'https://www.youtube.com/embed/cPfsZdgBbDk?rel=0&amp;showinfo=0'
 org_summary: >-
   We are a Santa Monica based non-profit that restores, builds and manages
   affordable housing for people of modest means.
-areas_impacted:
-  - Westside
-project_ids: '6102050'
-challenge_url: 'https://challenge.la2050.org/entry/great-futures-start-at-home'
+tags_indicators:
+  - Affordable housing
+  - Housing & homelessness
+charity_navigator_url: ''
+organization_website:
+  - www.communitycorp.org
+twitter: smbgc
+instagram: smbgcfan
+facebook: smbgc
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
+project_video: 'https://www.youtube.com/embed/cPfsZdgBbDk?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102050'
+project_titles:
+  - Great Futures Start At Home
 aggregated:
-  project_ids:
-    - '6102050'
   challenge_url:
     - 'https://challenge.la2050.org/entry/great-futures-start-at-home'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      We are a Santa Monica based non-profit that restores, builds and manages
-      affordable housing for people of modest means.
-title: Community Corporation of Santa Monica
-uri: /organizations/community-corporation-of-santa-monica/
-extrapolated_project_ids:
-  - '6102050'
-project_titles_from_extrapolated_project_ids:
-  - Great Futures Start At Home
-project_titles:
-  - Great Futures Start At Home
-project_titles_from_project_ids:
-  - Great Futures Start At Home
-original_project_titles:
-  - Great Futures Start At Home
-original_project_ids:
-  - '6102050'
+  project_ids:
+    - '6102050'
 
 ---

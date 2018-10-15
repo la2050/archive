@@ -1,7 +1,17 @@
 ---
 organization_id: '2018037'
-year_submitted: 2018
-organization_name: Environment California Research & Policy Center
+title: Environment California Research & Policy Center
+org_type: Nonprofit
+org_summary: >-
+  Environment California Research & Policy Center is dedicated to protecting the
+  places we love, advancing the environmental values we share, and winning real
+  results for our environment.
+tags_indicators:
+  - Transportation
+  - Climate change
+  - Mobility
+  - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=680531882'
 organization_website:
   - www.environmentcaliforniacenter.org
   - www.sierraclubfoundation.org
@@ -9,15 +19,6 @@ organization_website:
   - www.jobstomoveamerica.org
   - www.foodandwaterwatch.org
   - www.ibew11.org
-ein: '680531882'
-zip: '90042'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=680531882'
-ntee_type: ''
-tags_indicators:
-  - Transportation
-  - Climate change
-  - Mobility
-  - Environmental quality & sustainability
 twitter:
   - '@LAElectricBus'
   - '@EnvCalifornia'
@@ -38,57 +39,22 @@ facebook:
   - 'https://www.facebook.com/JobstoMoveAmerica/'
   - 'https://www.facebook.com/FoodWaterWatchCalifornia/'
   - 'https://www.facebook.com/Earthjustice/'
-org_type: Nonprofit
+ein: '680531882'
+zip: '90042'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
 project_video: ''
-org_summary: >-
-  Environment California Research & Policy Center is dedicated to protecting the
-  places we love, advancing the environmental values we share, and winning real
-  results for our environment.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - Antelope Valley
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-  - LAUSD
-project_ids: '8102037'
-challenge_url: >-
-  https://activation.la2050.org/live/environment-california-research-policy-center/
+project_ids:
+  - '8102037'
+project_titles:
+  - '#NextStopCleanAir: Electric School Buses for LA’s Kids'
 aggregated:
-  project_ids:
-    - '8102037'
   challenge_url:
     - >-
       https://activation.la2050.org/live/environment-california-research-policy-center/
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      Environment California Research & Policy Center is dedicated to protecting
-      the places we love, advancing the environmental values we share, and
-      winning real results for our environment.
-title: Environment California Research & Policy Center
-uri: /organizations/environment-california-research-policy-center/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - '#NextStopCleanAir: Electric School Buses for LA''s Kids'
-project_titles_from_project_ids:
-  - '#NextStopCleanAir: Electric School Buses for LA''s Kids'
-original_project_titles:
-  - '#NextStopCleanAir: Electric School Buses for LA’s Kids'
-original_project_ids:
-  - '8102037'
-category: live
+  project_ids:
+    - '8102037'
 
 ---

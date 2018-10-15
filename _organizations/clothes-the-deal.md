@@ -1,67 +1,36 @@
 ---
+youtube_video_identifier: myUKgR-PO4c
 organization_id: '2015040'
-year_submitted: 2015
-organization_name: Clothes The Deal
-organization_website:
-  - www.clothesthedeal.org
-ein: '954592893'
-zip: '90242'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954592893'
-ntee_type: ''
+title: Clothes The Deal
+org_type: Nonprofit
+org_summary: Clothes The Deal provides pre-employment services to low-income individuals.
 tags_indicators:
   - Workforce development
   - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954592893'
+organization_website:
+  - www.clothesthedeal.org
 twitter: www.twitter.com/clothesthedeal
 instagram: www.instagram.com/clothesthedeal
 facebook: www.facebook.com/clothesthedeal
-org_type: Nonprofit
+ein: '954592893'
+zip: '90242'
 project_image: 'https://img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg'
 project_video: ''
-org_summary: Clothes The Deal provides pre-employment services to low-income individuals.
-areas_impacted: >-
-  Central LA,East LA,San Gabriel Valley,San Fernando Valley,South LA,South
-  Bay,County of Los Angeles (countywide),City of Los Angeles
-  (citywide),LAUSD,Other (please specify below):
-project_ids: '5102069'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
+project_ids:
+  - '5102069'
+  - '4102142'
+project_titles:
+  - 'Clothes The Deal: Dismantling Barriers to Employment'
+  - Employment Enhancement Project
 aggregated:
-  project_ids:
-    - '5102069'
-    - '4102195'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
   year_submitted:
     - '2015'
     - '2014'
-  org_summary:
-    - >-
-      Clothes The Deal provides pre-employment services to low-income
-      individuals.
-    - >-
-      Clothes The Deal empowers individuals to achieve economic self-sufficiency
-      by collaborating with employment programs and providing resources
-title: Clothes The Deal
-uri: /organizations/clothes-the-deal/
-extrapolated_project_ids:
-  - '5102069'
-project_titles_from_extrapolated_project_ids:
-  - Employment Enhancement Project
-project_titles:
-  - Employment Enhancement Project
-  - >-
-    Solar in the Sunshine Capital: LA is known for its abundant sun. Let’s put
-    it to use.
-project_titles_from_project_ids:
-  - Employment Enhancement Project
-original_project_titles:
-  - 'Clothes The Deal: Dismantling Barriers to Employment'
-  - 'Clothes The Deal: Dismantling Barriers to Employment'
-  - Employment Enhancement Project
-original_project_ids:
-  - '4102142'
-  - '4102142'
-  - '5102069'
-project_titles_flagged: 1
-youtube_video_identifier: myUKgR-PO4c
+  project_ids:
+    - '5102069'
+    - '4102195'
 
 ---

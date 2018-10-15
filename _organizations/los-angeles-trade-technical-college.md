@@ -1,90 +1,50 @@
 ---
+maker_image_file_name: connect_SLATEZsigners.jpg
+maker_image_id: '24040'
 organization_id: '2015130'
-year_submitted: 2015
-organization_name: Los Angeles Trade-Technical College
-organization_website:
-  - 'http://slatez.org/'
-ein: '952587353'
-zip: '90015'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952587353'
-ntee_type: ''
-tags_indicators:
-  - Workforce development
-  - Transportation
-  - Income & employment
-  - Mobility
-twitter: www.twitter.com/slate_z
-instagram: we do not have an instagram account
-facebook: www.facebook.com/slate_z
+title: Los Angeles Trade-Technical College
 org_type: Other
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385
-project_video: ''
 org_summary: >-
   LATTC’s SLATE-Z is a partnership among community organizations, education
   institutions & government that centers on transit, education, enterprise, &
   redevelopment. The vision is to connect SLA through transportation, education
   & economic mobility.
-areas_impacted: South LA
-project_ids: '5102197'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
+tags_indicators:
+  - Workforce development
+  - Transportation
+  - Income & employment
+  - Mobility
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952587353'
+organization_website:
+  - 'http://slatez.org/'
+twitter: www.twitter.com/slate_z
+instagram: we do not have an instagram account
+facebook: www.facebook.com/slate_z
+ein: '952587353'
+zip: '90015'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385
+project_video: ''
+project_ids:
+  - '5102197'
+  - '4102138'
+project_titles:
+  - >-
+    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
+    (SLATE-Z)
+  - >-
+    Architecture and Environmental Design: Serving Community with Open
+    Educational Resource
 aggregated:
-  project_ids:
-    - '5102197'
-    - '4102203'
-    - '4102204'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
   year_submitted:
     - '2015'
     - '2014'
     - '2014'
-  org_summary:
-    - >-
-      LATTC’s SLATE-Z is a partnership among community organizations, education
-      institutions & government that centers on transit, education, enterprise,
-      & redevelopment. The vision is to connect SLA through transportation,
-      education & economic mobility.
-    - >-
-      We provide affordable college education in sustainable landscaping,
-      construction, plumbing, and culinary arts with project-based curriculum.
-    - >-
-      We provide affordable college education in sustainable landscaping,
-      construction, plumbing, and culinary arts with project-based curriculum.
-title: Los Angeles Trade-Technical College
-uri: /organizations/los-angeles-trade-technical-college/
-extrapolated_project_ids:
-  - '5102197'
-  - '4102138'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
-    (SLATE-Z)
-  - >-
-    Architecture and Environmental Design: Serving Community with Open
-    Educational Resource
-project_titles:
-  - >-
-    Architecture and Environmental Design: Serving Community with Open
-    Educational Resource
-  - >-
-    Breaking the Poverty Cycle in Los Angeles & Creating Better Childhoods for
-    Kids in Need
-  - >-
-    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
-    (SLATE-Z)
-project_titles_from_project_ids:
-  - >-
-    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
-    (SLATE-Z)
-original_project_titles:
-  - >-
-    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
-    (SLATE-Z)
-original_project_ids:
-  - '5102197'
-project_titles_flagged: 1
-maker_image_id: '24040'
-maker_image_file_name: connect_SLATEZsigners.jpg
+  project_ids:
+    - '5102197'
+    - '4102203'
+    - '4102204'
 
 ---

@@ -1,40 +1,41 @@
 ---
 organization_id: '2018008'
-year_submitted: 2018
-organization_name: Big Citizen HUB
-organization_website:
-  - www.investinyouthco.com
-ein: '954302067'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-ntee_type: ''
+title: Big Citizen HUB
+org_type: Nonprofit
+org_summary: >-
+  The Invest in Youth Coalition is urging our city’s policymakers to create a
+  Youth Development Department, focusing on funding an equitable strategy to our
+  improve youth outcomes and opportunities.
 tags_indicators:
   - Voting & civic engagement
   - Early childhood
   - Social connectedness
   - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+organization_website:
+  - www.investinyouthco.com
 twitter: 'https://twitter.com/Investinyouthco'
 instagram: 'https://www.instagram.com/investinyouth_/'
 facebook: 'https://www.facebook.com/InvestinYouthCo/'
-org_type: Nonprofit
+ein: '954302067'
+zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg'
 project_video: ''
-org_summary: >-
-  The Invest in Youth Coalition is urging our city’s policymakers to create a
-  Youth Development Department, focusing on funding an equitable strategy to our
-  improve youth outcomes and opportunities.
-areas_impacted:
+project_ids:
+  - '8102008'
+  - '6102017'
+  - '5102027'
+  - '4102025'
+project_titles:
+  - Big Citizen HUB – A new organization for new leaders
   - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_ids: '8102008'
-challenge_url: 'https://activation.la2050.org/live/big-citizen-hub/'
+    Big Citizen HUB: Building a pipeline of social change makers via leadership
+    and community service
+  - Building a community of Big Citizens
+  - >-
+    Invest in Youth Coalition: Advocating for a Los Angeles that prioritizes
+    young people
 aggregated:
-  project_ids:
-    - '8102008'
-    - '6102017'
-    - '5102027'
-    - '4102246'
   challenge_url:
     - 'https://activation.la2050.org/live/big-citizen-hub/'
     - >-
@@ -46,63 +47,10 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
-  org_summary:
-    - >-
-      The Invest in Youth Coalition is urging our city’s policymakers to create
-      a Youth Development Department, focusing on funding an equitable strategy
-      to our improve youth outcomes and opportunities.
-    - >-
-      Big Citizen HUB connects youth from across LA, empowering them to be
-      contributing members of society by cultivating leadership skills and
-      creating an environment to tackle pressing civic challenges.
-    - >-
-      We are a little league for civic action, uniting middle school and high
-      school youth from across L.A. to address pressing social issues while
-      gaining valuable leadership skills through significant service experiences
-      with local organizations.
-    - >-
-      We bring together middle school students from across L.A. to address
-      pressing social issues while gaining valuable leadership skills.
-title: Big Citizen HUB
-uri: /organizations/big-citizen-hub/
-extrapolated_project_ids:
-  - '6102017'
-  - '5102027'
-  - '4102025'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Big Citizen HUB: Building a pipeline of social change makers via leadership
-    and community service
-  - Building a community of Big Citizens
-  - Big Citizen HUB – A new organization for new leaders
-project_titles:
-  - Big Citizen HUB – A new organization for new leaders
-  - >-
-    Big Citizen HUB: Building a pipeline of social change makers via leadership
-    and community service
-  - Building a community of Big Citizens
-  - >-
-    Invest in Youth Coalition: Advocating for a Los Angeles that prioritizes
-    young people 
-project_titles_from_project_ids:
-  - >-
-    Invest in Youth Coalition: Advocating for a Los Angeles that prioritizes
-    young people 
-original_project_titles:
-  - Big Citizen HUB – A new organization for new leaders
-  - >-
-    Big Citizen HUB: Building a pipeline of social change makers via leadership
-    and community service
-  - Building a community of Big Citizens
-  - >-
-    Invest in Youth Coalition: Advocating for a Los Angeles that prioritizes
-    young people
-original_project_ids:
-  - '4102025'
-  - '5102027'
-  - '6102017'
-  - '8102008'
-project_titles_flagged: 1
-category: live
+  project_ids:
+    - '8102008'
+    - '6102017'
+    - '5102027'
+    - '4102246'
 
 ---

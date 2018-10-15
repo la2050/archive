@@ -1,47 +1,35 @@
 ---
 organization_id: '2018115'
-year_submitted: 2018
-organization_name: 'Synaccord, LLC'
-organization_website:
-  - synaccord.com
-  - synaccord.com/citydemo
-ein: '47448496'
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: '@synaccord'
-instagram: engageyourneighborhood
-facebook: 'https://www.facebook.com/synaccord'
+title: 'Synaccord, LLC'
 org_type: Forprofit
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
-project_video: ''
 org_summary: >-
   We build web apps for civil & constructive large scale conversations based on
   proven practices in face to face deliberative discussion so people can
   assemble in pursuit of making their world AWESOME
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_ids: '5102293'
-challenge_url: 'https://activation.la2050.org/connect/synaccord-llc/'
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - synaccord.com
+  - synaccord.com/citydemo
+twitter: '@synaccord'
+instagram: engageyourneighborhood
+facebook: 'https://www.facebook.com/synaccord'
+ein: '47448496'
+zip: ''
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
+project_video: ''
+project_ids:
+  - '8102115'
+  - '6102234'
+  - '5102285'
+project_titles:
+  - Engage Your Neighborhood
+  - Engaging LA Online in Solutions that Unite Us
+  - Neighborhood Conversations
 aggregated:
-  project_ids:
-    - '5102293'
-    - '6102234'
-    - '4102205'
   challenge_url:
     - 'https://activation.la2050.org/connect/synaccord-llc/'
     - 'https://challenge.la2050.org/entry/engage-your-neighborhood'
@@ -50,43 +38,9 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      We build web apps for civil & constructive large scale conversations based
-      on proven practices in face to face deliberative discussion so people can
-      assemble in pursuit of making their world AWESOME
-    - >-
-      Synaccord is building a platform for productive online discussion of
-      polarizing issues. We do online what is done at in-person deliberative
-      events so we can find the solutions to what divides us.
-    - >-
-      We are building the online platform that engages everyone in finding
-      solutions that unite us while keeping it fair, balanced and civil and
-      distilling it down to a small, high-quality, and representative set for
-      our elected leaders.
-title: 'Synaccord, LLC'
-uri: /organizations/synaccord-llc/
-extrapolated_project_ids:
-  - '6102234'
-  - '5102285'
-project_titles_from_extrapolated_project_ids:
-  - Engage Your Neighborhood
-  - Engaging LA Online in Solutions that Unite Us
-project_titles:
-  - Engage Your Neighborhood
-  - Engaging LA Online in Solutions that Unite Us
-  - Neighborhood Conversations
-project_titles_from_project_ids:
-  - TMPST Action Parks provide creative movement to LA through play and fitness
-original_project_titles:
-  - Engage Your Neighborhood
-  - Engaging LA Online in Solutions that Unite Us
-  - Neighborhood Conversations
-original_project_ids:
-  - '5102285'
-  - '6102234'
-  - '8102115'
-project_titles_flagged: 1
-category: connect
+  project_ids:
+    - '5102293'
+    - '6102234'
+    - '4102205'
 
 ---

@@ -1,61 +1,38 @@
 ---
 organization_id: '2016110'
-year_submitted: 2016
-organization_name: Inner-City Arts
-organization_website:
-  - www.inner-cityarts.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
+title: Inner-City Arts
+org_type: Nonprofit
+org_summary: >-
+  Inner-City Arts—a leading provider of quality arts education for underserved
+  children—is a creative oasis and a vital partner in enriching the social,
+  cultural and economic landscape of Los Angeles.
 tags_indicators:
   - Teaching & mentorship
   - Art
   - Education & youth
   - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.inner-cityarts.org
 twitter: InnerCityArts
 instagram: innercityartsLA
 facebook: innercityarts
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
 project_video: 'https://www.youtube.com/embed/2n0ZbTcuqlo?rel=0&amp;showinfo=0'
-org_summary: >-
-  Inner-City Arts—a leading provider of quality arts education for underserved
-  children—is a creative oasis and a vital partner in enriching the social,
-  cultural and economic landscape of Los Angeles.
-areas_impacted:
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102103'
-challenge_url: >-
-  https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
+project_ids:
+  - '6102103'
+project_titles:
+  - Providing Access to the Arts and the Endless Possibilities They Offer
 aggregated:
-  project_ids:
-    - '6102103'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Inner-City Arts—a leading provider of quality arts education for
-      underserved children—is a creative oasis and a vital partner in enriching
-      the social, cultural and economic landscape of Los Angeles.
-title: Inner-City Arts
-uri: /organizations/inner-city-arts/
-extrapolated_project_ids:
-  - '6102103'
-project_titles_from_extrapolated_project_ids:
-  - Providing Access to the Arts and the Endless Possibilities They Offer
-project_titles:
-  - Providing Access to the Arts and the Endless Possibilities They Offer
-project_titles_from_project_ids:
-  - Providing Access to the Arts and the Endless Possibilities They Offer
-original_project_titles:
-  - Providing Access to the Arts and the Endless Possibilities They Offer
-original_project_ids:
-  - '6102103'
+  project_ids:
+    - '6102103'
 
 ---

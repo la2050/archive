@@ -1,311 +1,44 @@
 ---
+maker_image_file_name: slide-image-1.jpg
+maker_image_id: '21245'
 organization_id: '2014027'
-year_submitted: 2014
-organization_name: Droplabs
-organization_website:
-  - 'http://droplabs.net'
-ein: '262467065'
-zip: '90031'
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: droplabs
-instagram: ''
-facebook: 'https://www.facebook.com/DroplabsLA'
+title: Droplabs
 org_type: Forprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21245%252Fdisplay%252Fslide-image-1.jpg=c570x385
-project_video: ''
 org_summary: >-
   Droplabs is an open source focused, community led, Innovation Laboratory and
   teaching space.
-areas_impacted: >-
-  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
-  Bay,Westside,Other:
-project_ids: ''
-challenge_url: 'http://maker.good.is/myLA2050create/projects/droplabs.html'
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - 'http://droplabs.net'
+twitter: droplabs
+instagram: ''
+facebook: 'https://www.facebook.com/DroplabsLA'
+ein: '262467065'
+zip: '90031'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21245%252Fdisplay%252Fslide-image-1.jpg=c570x385
+project_video: ''
+project_ids:
+  - '4102058'
+  - '3102031'
+project_titles:
+  - >-
+    Coworking Platform for Micro-Filmmakers with Locations, Legal Tools and
+    World-wide Distribution
+  - Droplabs
+  - 'The Moebius Incubator: A New Step for L.A.''s Entrepeneurs'
+  - 'The Moebius Incubator: A New Step for L.A.s Entrepeneurs'
 aggregated:
-  project_ids:
-    - '3102031'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/droplabs.html'
     - 'http://maker.good.is/myla2050/projects/Moebius5000.html'
   year_submitted:
     - '2014'
     - '2013'
-  org_summary:
-    - >-
-      Droplabs is an open source focused, community led, Innovation Laboratory
-      and teaching space.
-    - >-
-      <p>Droplabs succesfully provided a community-based education center to the
-      community with all services being at no or low cost. Our prime
-      acheievements have been:</p>
-       
-       
-       
-       
-       
-       
-       
-       
-       <p>* Barn-raisings: We have hosted barn-raisings where 15 âˆ’ 20 community members get together to provide a day of web development for a non-profit or community member. See http://droplabs.net/news/barn-raising-and-code-sprint-at-droplabs-uniting-the-drupal-and-time-banking-communities</p>
-       
-       
-       
-       
-       
-       
-       
-       
-       <p>* Low-cost co-working space: We offer fulltime access to our space at $150 / month, a quarter of the price of competing spaces. This is one contribution to creating a diverse socioeconomic tech community.</p>
-       
-       
-       
-       
-       
-       
-       
-       
-       <p>* Consensus-based organizing: We operate by allowing all full members to have a voice in the direction and organization of Droplabs.</p>
-       
-       
-       
-       
-       
-       
-       
-       
-       <p>* Community-access education: All our classes are low or no cost and have ranged from a focus on web and technology to classes about cooking and Korean culture.</p>
-title: Droplabs
-uri: /organizations/droplabs/
-extrapolated_project_ids:
-  - '4102058'
-  - '3102031'
-project_titles_from_extrapolated_project_ids:
-  - Droplabs
-  - 'The Moebius Incubator: A New Step for L.A.s Entrepeneurs'
-project_titles:
-  - Droplabs
-  - 'The Moebius Incubator: A New Step for L.A.s Entrepeneurs'
-project_titles_from_project_ids:
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - A Community-Oriented Platform for Co-Creation
-  - A Community-Oriented Platform for Co-Creation
-  - A social movement about how we finish this sentence.
-  - A social movement about how we finish this sentence.
-  - Access to Health Resources for Young People
-  - >-
-    At Brick we make it fun to take a vacation from our phones for a little
-    every day.
-  - >-
-    At Brick we make it fun to take a vacation from our phones for a little
-    every day.
-  - >-
-    Bridging social enterprise, technology, and local government to accelerate
-    civic innovators.
-  - >-
-    Crayon Collection: prevent waste in landfills; increase arts education in
-    low income schools. 
-  - DIY 3D Printers for 2Âº School Science Departments
-  - DIY 3D Printers for 2Âº School Science Departments
-  - Direct Assault on Threat
-  - Direct Assault on Threat
-  - Emerging Content Creators Inclusion Initiative (ECC Inclusion Initiative)
-  - >-
-    Every Angeleno is an all star on our team. Help HL - LA build our home field
-    advantage! 
-  - 'Gravity transit to transform LA commute '
-  - 'Gravity transit to transform LA commute '
-  - 'Grow LA''s creative economy with ARTWORK. '
-  - 'Grow LA''s creative economy with ARTWORK. '
-  - HOLIGENT RECONSTRUCT EDUCATION
-  - HOLIGENT RECONSTRUCT EDUCATION
-  - Happiness
-  - Happiness
-  - "Hip Hop & Walls For All\r\nWhere paint, beats, words & moves, collide with pride!"
-  - "Hip Hop & Walls For All\r\nWhere paint, beats, words & moves, collide with pride!"
-  - LA Power Plant
-  - LA Power Plant
-  - Los Angeles Folk Art Festival
-  - Los Angeles Folk Art Festival
-  - >-
-    Meet The Youngs, a community center for young creatives that aims to
-    self-empower communities.
-  - >-
-    Meet The Youngs, a community center for young creatives that aims to
-    self-empower communities.
-  - 'MoonBus is a traveling art installation and research lab hybrid '
-  - 'MoonBus is a traveling art installation and research lab hybrid '
-  - >-
-    Outside the Box - open-sourced solutions for the world's most evasive
-    problems.  
-  - >-
-    Outside the Box - open-sourced solutions for the world's most evasive
-    problems.  
-  - "PEACE WALKWAY\r\nHollywood walk of fame for peacemakers & App giving historical bio of each peacemaker"
-  - "PEACE WALKWAY\r\nHollywood walk of fame for peacemakers & App giving historical bio of each peacemaker"
-  - 'Ucivity App - Crowdsourced Public Spaces '
-  - 'Ucivity App - Crowdsourced Public Spaces '
-  - "Unity in Diversity~ UN International Day of Peace\r\nConcert Supporting Youth Empowerment & Charity!"
-  - "Unity in Diversity~ UN International Day of Peace\r\nConcert Supporting Youth Empowerment & Charity!"
-  - 'We''re reading to #activatela!'
-  - 'We''re reading to #activatela!'
-original_project_titles:
-  - >-
-    Coworking Platform for Micro-Filmmakers with Locations, Legal Tools and
-    World-wide Distribution
-  - Droplabs
-  - 'The Moebius Incubator: A New Step for L.A.''s Entrepeneurs'
-  - 'The Moebius Incubator: A New Step for L.A.''s Entrepeneurs'
-original_project_ids:
-  - '3102031'
-  - '3102031'
-  - '4102058'
-project_titles_flagged: 1
-maker_image_id: '21245'
-maker_image_file_name: slide-image-1.jpg
+  project_ids:
+    - '3102031'
 
 ---

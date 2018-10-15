@@ -1,36 +1,34 @@
 ---
 organization_id: '2016125'
-year_submitted: 2016
-organization_name: LA Voice
-organization_website:
-  - www.lavoice.org
-ein: '954781974'
-zip: '90005'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954781974'
-ntee_type: ''
-tags_indicators:
-  - Community safety
-  - Public safety & public space
-twitter: LA_Voice
-instagram: LA-Voice-PICO-105379576176527/?fref=ts
-facebook: l.a._voice
+title: LA Voice
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8576563265741-team91.jpg
-project_video: ''
 org_summary: >-
   LA Voice is an interfaith, multi-racial community organization with a mission
   to transform Los Angeles into a County that reflects the human dignity of all
   people, especially those in greatest need.
-areas_impacted:
-  - Compton
-project_ids: '6102125'
-challenge_url: >-
-  https://challenge.la2050.org/entry/building-police-community-trust-in-compton-through-reform-and-accountability
+tags_indicators:
+  - Community safety
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954781974'
+organization_website:
+  - www.lavoice.org
+twitter: LA_Voice
+instagram: LA-Voice-PICO-105379576176527/?fref=ts
+facebook: l.a._voice
+ein: '954781974'
+zip: '90005'
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8576563265741-team91.jpg
+project_video: ''
+project_ids:
+  - '6102125'
+  - '5102169'
+project_titles:
+  - >-
+    Building police - community trust in Compton through reform and
+    accountability
+  - Turning Out Voters Through Local Relationships
 aggregated:
-  project_ids:
-    - '6102125'
-    - '5102169'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/building-police-community-trust-in-compton-through-reform-and-accountability
@@ -38,43 +36,8 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      LA Voice is an interfaith, multi-racial community organization with a
-      mission to transform Los Angeles into a County that reflects the human
-      dignity of all people, especially those in greatest need.
-    - >-
-      LA Voice is an interfaith, multi-racial community organization that
-      awakens people to their own power, training them to speak, act and work
-      together to transform our city into one that reflects the dignity of all
-      people.
-title: LA Voice
-uri: /organizations/la-voice/
-extrapolated_project_ids:
-  - '6102125'
-  - '5102169'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Building police - community trust in Compton through reform and
-    accountability
-  - Turning Out Voters Through Local Relationships
-project_titles:
-  - >-
-    Building police - community trust in Compton through reform and
-    accountability
-  - Turning Out Voters Through Local Relationships
-project_titles_from_project_ids:
-  - >-
-    Building police - community trust in Compton through reform and
-    accountability
-original_project_titles:
-  - >-
-    Building police - community trust in Compton through reform and
-    accountability
-  - Turning Out Voters Through Local Relationships
-original_project_ids:
-  - '5102169'
-  - '6102125'
-project_titles_flagged: 1
+  project_ids:
+    - '6102125'
+    - '5102169'
 
 ---

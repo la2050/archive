@@ -1,67 +1,36 @@
 ---
 organization_id: '2016156'
-year_submitted: 2016
-organization_name: National Foster Youth Institute
-organization_website:
-  - www.nfyi.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: NFYInstitute
-instagram: NationalFosterYouthInstitute
-facebook: NFYInstitute
+title: National Foster Youth Institute
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
-project_video: ''
 org_summary: >-
   NFYI/LA recruits and trains grassroots leaders, works to create new
   understanding of foster families, and educates policymakers to change how
   society supports its most vulnerable citizens.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102163'
-challenge_url: >-
-  https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - www.nfyi.org
+twitter: NFYInstitute
+instagram: NationalFosterYouthInstitute
+facebook: NFYInstitute
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
+project_video: ''
+project_ids:
+  - '6102163'
+project_titles:
+  - 'Foster Youth and Families: Joining Voices for Change'
 aggregated:
-  project_ids:
-    - '6102163'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      NFYI/LA recruits and trains grassroots leaders, works to create new
-      understanding of foster families, and educates policymakers to change how
-      society supports its most vulnerable citizens.
-title: National Foster Youth Institute
-uri: /organizations/national-foster-youth-institute/
-extrapolated_project_ids:
-  - '6102163'
-project_titles_from_extrapolated_project_ids:
-  - 'Foster Youth and Families: Joining Voices for Change'
-project_titles:
-  - 'Foster Youth and Families: Joining Voices for Change'
-project_titles_from_project_ids:
-  - 'Foster Youth and Families: Joining Voices for Change'
-original_project_titles:
-  - 'Foster Youth and Families: Joining Voices for Change'
-original_project_ids:
-  - '6102163'
+  project_ids:
+    - '6102163'
 
 ---

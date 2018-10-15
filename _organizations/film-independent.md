@@ -1,59 +1,35 @@
 ---
 organization_id: '2018040'
-year_submitted: 2018
-organization_name: Film Independent
-organization_website:
-  - 'https://www.filmindependent.org/'
-ein: '953943485'
-zip: '90012'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953943485'
-ntee_type: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: '@filmindependent'
-instagram: '@filmindependent'
-facebook: 'https://www.facebook.com/filmindependent/'
+title: Film Independent
 org_type: Nonprofit
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
-project_video: 'https://youtu.be/-PSOJBGkQ-Y'
 org_summary: >-
   Film Independent is dedicated to helping filmmakers get their films made,
   building the audience for independent film and increasing diversity in the
   film industry.
-areas_impacted:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-project_ids: '8102040'
-challenge_url: 'https://activation.la2050.org/connect/film-independent/'
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953943485'
+organization_website:
+  - 'https://www.filmindependent.org/'
+twitter: '@filmindependent'
+instagram: '@filmindependent'
+facebook: 'https://www.facebook.com/filmindependent/'
+ein: '953943485'
+zip: '90012'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
+project_video: 'https://youtu.be/-PSOJBGkQ-Y'
+project_ids:
+  - '8102040'
+project_titles:
+  - 'Made in LA: Show us your LA and your vision for the future'
 aggregated:
-  project_ids:
-    - '8102040'
   challenge_url:
     - 'https://activation.la2050.org/connect/film-independent/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      Film Independent is dedicated to helping filmmakers get their films made,
-      building the audience for independent film and increasing diversity in the
-      film industry.
-title: Film Independent
-uri: /organizations/film-independent/
-extrapolated_project_ids:
-  - '8102040'
-project_titles_from_extrapolated_project_ids:
-  - 'Made in LA: Show us your LA and your vision for the future'
-project_titles:
-  - 'Made in LA: Show us your LA and your vision for the future'
-project_titles_from_project_ids:
-  - 'Made in LA: Show us your LA and your vision for the future'
-original_project_titles:
-  - 'Made in LA: Show us your LA and your vision for the future'
-original_project_ids:
-  - '8102040'
-category: connect
+  project_ids:
+    - '8102040'
 
 ---
