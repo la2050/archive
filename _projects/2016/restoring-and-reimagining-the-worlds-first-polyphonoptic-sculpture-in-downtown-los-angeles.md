@@ -15,7 +15,7 @@ organization_activity: >-
   transforming it from a forgotten piece of public art to a dynamic,
   interactive, creative site for Angelenos of all ages.
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7344404654741-team91.jpg
+  https://scontent-sjc3-1.cdninstagram.com/vp/4a62f65538090842362663dad77db055/5C62A9F5/t51.2885-15/e35/20482077_1500261080035522_7220567506136596480_n.jpg
 project_video: ''
 project_summary: >-
   The Triforium is a piece of “polyphonoptic” public art in DTLA that was 40
