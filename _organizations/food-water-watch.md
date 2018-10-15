@@ -1,54 +1,35 @@
 ---
 organization_id: '2016079'
-year_submitted: 2016
-organization_name: Food & Water Watch
-organization_website:
-  - foodandwaterwatch.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
+title: Food & Water Watch
+org_type: Nonprofit
+org_summary: Food & Water Watch champions healthy food and clean water for all.
 tags_indicators:
   - Access to healthy food
   - Climate change
   - Health
   - Environmental quality & sustainability
+charity_navigator_url: ''
+organization_website:
+  - foodandwaterwatch.org
 twitter: foodandwater
 instagram: foodandwaterwatch
 facebook: foodandwaterwatch
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 project_video: ''
-org_summary: Food & Water Watch champions healthy food and clean water for all.
-areas_impacted:
-  - County of Los Angeles
-project_ids: '6102069'
-challenge_url: >-
-  https://challenge.la2050.org/entry/turning-los-angeles-into-a-renewable-energy-leader
+project_ids:
+  - '6102069'
+project_titles:
+  - Turning Los Angeles into a Renewable Energy Leader
 aggregated:
-  project_ids:
-    - '6102069'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/turning-los-angeles-into-a-renewable-energy-leader
   year_submitted:
     - '2016'
-  org_summary:
-    - Food & Water Watch champions healthy food and clean water for all.
-title: Food & Water Watch
-uri: /organizations/food-water-watch/
-extrapolated_project_ids:
-  - '6102069'
-project_titles_from_extrapolated_project_ids:
-  - Turning Los Angeles into a Renewable Energy Leader
-project_titles:
-  - Turning Los Angeles into a Renewable Energy Leader
-project_titles_from_project_ids:
-  - Turning Los Angeles into a Renewable Energy Leader
-original_project_titles:
-  - Turning Los Angeles into a Renewable Energy Leader
-original_project_ids:
-  - '6102069'
+  project_ids:
+    - '6102069'
 
 ---

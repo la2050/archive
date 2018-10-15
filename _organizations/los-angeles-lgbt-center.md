@@ -1,74 +1,40 @@
 ---
 organization_id: '2018075'
-year_submitted: 2018
-organization_name: Los Angeles LGBT Center
-organization_website:
-  - lalgbtcenter.org
-ein: '953567895'
-zip: '94114'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953567895'
-ntee_type: ''
+title: Los Angeles LGBT Center
+org_type: Nonprofit
+org_summary: >-
+  The Los Angeles LGBT Center is building a world where LGBT people thrive as
+  healthy, equal and complete members of society.
 tags_indicators:
   - Mental & emotional health
   - Voting & civic engagement
   - Health
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953567895'
+organization_website:
+  - lalgbtcenter.org
 twitter: '@lalgbtcenter'
 instagram: '@lalgbtcenter'
 facebook: '@lalgbtcenter'
-org_type: Nonprofit
+ein: '953567895'
+zip: '94114'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
 project_video: 'https://youtu.be/63SBgjUNWxA'
-org_summary: >-
-  The Los Angeles LGBT Center is building a world where LGBT people thrive as
-  healthy, equal and complete members of society.
-areas_impacted:
-  - Central LA
-  - East LA
-  - South LA
+project_ids:
+  - '8102075'
+project_titles:
   - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_ids: '8102075'
-challenge_url: 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
+    Resistance Squad: Amplifying the Power of Angelenos to Affect National
+    Change
 aggregated:
-  project_ids:
-    - '8102075'
-    - '4102174'
   challenge_url:
     - 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
   year_submitted:
     - '2018'
     - '2014'
-  org_summary:
-    - >-
-      The Los Angeles LGBT Center is building a world where LGBT people thrive
-      as healthy, equal and complete members of society.
-    - >-
-      The Los Angeles LGBT Center is the world's largest provider of programs
-      and services for LGBT people.
-title: Los Angeles LGBT Center
-uri: /organizations/los-angeles-lgbt-center/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    Resistance Squad: Amplifying the Power of Angelenos to Affect National
-    Change
-project_titles_from_project_ids:
-  - >-
-    Resistance Squad: Amplifying the Power of Angelenos to Affect National
-    Change
-original_project_titles:
-  - >-
-    Resistance Squad: Amplifying the Power of Angelenos to Affect National
-    Change
-original_project_ids:
-  - '8102075'
-category: connect
+  project_ids:
+    - '8102075'
+    - '4102174'
 
 ---

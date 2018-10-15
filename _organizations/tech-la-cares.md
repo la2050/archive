@@ -1,46 +1,34 @@
 ---
 organization_id: '2016210'
-year_submitted: 2016
-organization_name: Tech LA Cares
-organization_website:
-  - techlacares.com
-ein: '841631105'
-zip: '90403'
-charity_navigator_url: ''
-ntee_type: ''
+title: Tech LA Cares
+org_type: Forprofit
+org_summary: >-
+  We aim to connect LA-area tech firms with volunteer opportunities at local
+  STEM-based organizations via events, web, and weekly emails -- and lots of
+  one-on-one real-world engagement.
 tags_indicators:
   - STEM & Digital literacy
   - Volunteerism
   - Education & youth
   - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - techlacares.com
 twitter: techlacares
 instagram: latechdigest
 facebook: scottperry
-org_type: Forprofit
+ein: '841631105'
+zip: '90403'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 project_video: ''
-org_summary: >-
-  We aim to connect LA-area tech firms with volunteer opportunities at local
-  STEM-based organizations via events, web, and weekly emails -- and lots of
-  one-on-one real-world engagement.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Gateway Cities
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102242'
-challenge_url: >-
-  https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
+project_ids:
+  - '6102242'
+  - '5102292'
+project_titles:
+  - Connecting LA Tech Companies with Area STEM Organizations
+  - Tech LA Cares (TLC)
 aggregated:
-  project_ids:
-    - '6102242'
-    - '8102119'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
@@ -48,33 +36,8 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      We aim to connect LA-area tech firms with volunteer opportunities at local
-      STEM-based organizations via events, web, and weekly emails -- and lots of
-      one-on-one real-world engagement.
-    - >-
-      Tech LA Cares (TLC) connects LA's growing technology companies with
-      volunteer opportunities within their communities.
-title: Tech LA Cares
-uri: /organizations/tech-la-cares/
-extrapolated_project_ids:
-  - '6102242'
-  - '5102292'
-project_titles_from_extrapolated_project_ids:
-  - Connecting LA Tech Companies with Area STEM Organizations
-  - Tech LA Cares (TLC)
-project_titles:
-  - Connecting LA Tech Companies with Area STEM Organizations
-  - Tech LA Cares (TLC)
-project_titles_from_project_ids:
-  - Connecting LA Tech Companies with Area STEM Organizations
-original_project_titles:
-  - Connecting LA Tech Companies with Area STEM Organizations
-  - Tech LA Cares (TLC)
-original_project_ids:
-  - '5102292'
-  - '6102242'
-project_titles_flagged: 1
+  project_ids:
+    - '6102242'
+    - '8102119'
 
 ---

@@ -1,55 +1,36 @@
 ---
+maker_image_file_name: Wheels_graduation_ceremony.jpg
+maker_image_id: '23250'
 organization_id: '2015225'
-year_submitted: 2015
-organization_name: 'Wheels of Hope LA, Fred Jordan Mission'
-organization_website:
-  - www.wheelsofhopeLA.com
-ein: '956000110'
-zip: '91722'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000110'
-ntee_type: ''
-tags_indicators:
-  - Workforce development
-  - Income & employment
-twitter: NA
-instagram: NA
-facebook: 'https://www.facebook.com/wheelsofhopelosangeles?fref=ts'
+title: 'Wheels of Hope LA, Fred Jordan Mission'
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
-project_video: ''
 org_summary: >-
   Train and certify in welding hard to employ people, such as former gang
   members, homeless, ex-convicts and low income minorities.
-areas_impacted: 'Other (please specify below):'
-project_ids: '5102341'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
+tags_indicators:
+  - Workforce development
+  - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000110'
+organization_website:
+  - www.wheelsofhopeLA.com
+twitter: NA
+instagram: NA
+facebook: 'https://www.facebook.com/wheelsofhopelosangeles?fref=ts'
+ein: '956000110'
+zip: '91722'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
+project_video: ''
+project_ids:
+  - '5102341'
+project_titles:
+  - Wheels of Hope LA Welding School
 aggregated:
-  project_ids:
-    - '5102341'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Train and certify in welding hard to employ people, such as former gang
-      members, homeless, ex-convicts and low income minorities.
-title: 'Wheels of Hope LA, Fred Jordan Mission'
-uri: /organizations/wheels-of-hope-la-fred-jordan-mission/
-extrapolated_project_ids:
-  - '5102341'
-project_titles_from_extrapolated_project_ids:
-  - Wheels of Hope LA Welding School
-project_titles:
-  - Wheels of Hope LA Welding School
-project_titles_from_project_ids:
-  - Wheels of Hope LA Welding School
-original_project_titles:
-  - Wheels of Hope LA Welding School
-original_project_ids:
-  - '5102341'
-maker_image_id: '23250'
-maker_image_file_name: Wheels_graduation_ceremony.jpg
+  project_ids:
+    - '5102341'
 
 ---

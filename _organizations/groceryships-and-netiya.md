@@ -1,37 +1,32 @@
 ---
 organization_id: '2016094'
-year_submitted: 2016
-organization_name: Groceryships and Netiya
-organization_website:
-  - groceryships.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Access to healthy food
-  - Health
-twitter: Groceryships
-instagram: groceryships
-facebook: groceryships
+title: Groceryships and Netiya
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
-project_video: 'https://www.youtube.com/embed/xHT7xEa5fQs?rel=0&amp;showinfo=0'
 org_summary: >-
   The Trellis Project will make LA the healthiest place to live by creating
   church hubs that offer community building, nutrition education and kitchen
   gardens in low-income communities most in need.
-areas_impacted:
-  - South LA
-project_ids: '6102087'
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
+tags_indicators:
+  - Access to healthy food
+  - Health
+charity_navigator_url: ''
+organization_website:
+  - groceryships.org
+twitter: Groceryships
+instagram: groceryships
+facebook: groceryships
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
+project_video: 'https://www.youtube.com/embed/xHT7xEa5fQs?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102087'
+project_titles:
+  - >-
+    The Trellis Project: Growing health through gardening, nutritional support,
+    and food access
 aggregated:
-  project_ids:
-    - '6102087'
-    - '5102123'
-    - '4102229'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
@@ -40,42 +35,9 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
-  org_summary:
-    - >-
-      The Trellis Project will make LA the healthiest place to live by creating
-      church hubs that offer community building, nutrition education and kitchen
-      gardens in low-income communities most in need.
-    - >-
-      Groceryships improves long-term health and wellness in low-income
-      communities by creating a network of educational support groups and
-      enhancing access to healthy, unprocessed foods.
-    - >-
-      Comprehensive health program for low-income families struggling with
-      obesity--nutrition education, healthy cooking, and emotional support.
-title: Groceryships and Netiya
-uri: /organizations/groceryships-and-netiya/
-extrapolated_project_ids:
-  - '6102087'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    The Trellis Project: Growing health through gardening, nutritional support,
-    and food access
-project_titles:
-  - Comprehensive Nutrition Education Programs
-  - >-
-    The Trellis Project: Growing health through gardening, nutritional support,
-    and food access
-  - 'TreeMapLA: Crowd-Sourcing a Healthy Watershed sponsored by TreePeople'
-project_titles_from_project_ids:
-  - >-
-    The Trellis Project: Growing health through gardening, nutritional support,
-    and food access
-original_project_titles:
-  - >-
-    The Trellis Project: Growing health through gardening, nutritional support,
-    and food access
-original_project_ids:
-  - '6102087'
-project_titles_flagged: 1
+  project_ids:
+    - '6102087'
+    - '5102123'
+    - '4102229'
 
 ---

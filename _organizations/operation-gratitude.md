@@ -1,60 +1,37 @@
 ---
 organization_id: '2016160'
-year_submitted: 2016
-organization_name: Operation Gratitude
-organization_website:
-  - OperationGratitude.com
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Volunteerism
-  - Social connectedness
-twitter: OpGratitude
-instagram: OperationGratitude
-facebook: OpGratitude
+title: Operation Gratitude
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
-project_video: 'https://www.youtube.com/embed/wyKSTyquR-0?rel=0&amp;showinfo=0'
 org_summary: >-
   Operation Gratitude volunteers nationwide donate items, write letters and
   assemble Care Packages to express their appreciation to, and lift the spirits
   of, the Military & First Responder communities.
-areas_impacted:
-  - San Fernando Valley
-  - County of Los Angeles
-  - LAUSD
-project_ids: '6102170'
-challenge_url: >-
-  https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - OperationGratitude.com
+twitter: OpGratitude
+instagram: OperationGratitude
+facebook: OpGratitude
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
+project_video: 'https://www.youtube.com/embed/wyKSTyquR-0?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102170'
+project_titles:
+  - 'Operation Gratitude -  Americans Saying “Thank You” To All Who Serve '
+  - Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
 aggregated:
-  project_ids:
-    - '6102170'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Operation Gratitude volunteers nationwide donate items, write letters and
-      assemble Care Packages to express their appreciation to, and lift the
-      spirits of, the Military & First Responder communities.
-title: Operation Gratitude
-uri: /organizations/operation-gratitude/
-extrapolated_project_ids:
-  - '6102170'
-project_titles_from_extrapolated_project_ids:
-  - Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
-project_titles:
-  - Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
-project_titles_from_project_ids:
-  - Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
-original_project_titles:
-  - 'Operation Gratitude -  Americans Saying “Thank You” To All Who Serve '
-original_project_ids:
-  - '6102170'
+  project_ids:
+    - '6102170'
 
 ---

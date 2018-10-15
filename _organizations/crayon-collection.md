@@ -1,82 +1,41 @@
 ---
 organization_id: '2018032'
-year_submitted: 2018
-organization_name: Crayon Collection
-organization_website:
-  - www.crayoncollection.org
-ein: '463314343'
-zip: '91711'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463314343'
-ntee_type: ''
+title: Crayon Collection
+org_type: Nonprofit
+org_summary: >-
+  The Crayon Collection mission is to inspire a commitment to environmental
+  consciousness and the infusion of art education in underfunded schools.
 tags_indicators:
   - Early childhood
   - Climate change
   - Education & youth
   - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463314343'
+organization_website:
+  - www.crayoncollection.org
 twitter: '@crayoncollection'
 instagram: '@crayoncollection'
 facebook: facebook.com/crayoncollection
-org_type: Nonprofit
+ein: '463314343'
+zip: '91711'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
 project_video: 'https://www.youtube.com/watch?v=oGbTN4Ysvfw'
-org_summary: >-
-  The Crayon Collection mission is to inspire a commitment to environmental
-  consciousness and the infusion of art education in underfunded schools.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
+project_ids:
+  - '8102032'
+project_titles:
   - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
+    Crayon Collection: prevent waste in landfills; increase arts education in
+    low income schools.
   - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_ids: '8102032'
-challenge_url: 'https://activation.la2050.org/learn/crayon-collection/'
+    Crayon Collection: prevent waste in landfills; increase arts education in
+    low income schools. 
 aggregated:
-  project_ids:
-    - '8102032'
   challenge_url:
     - 'https://activation.la2050.org/learn/crayon-collection/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      The Crayon Collection mission is to inspire a commitment to environmental
-      consciousness and the infusion of art education in underfunded schools.
-title: Crayon Collection
-uri: /organizations/crayon-collection/
-extrapolated_project_ids:
-  - '8102032'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Crayon Collection: prevent waste in landfills; increase arts education in
-    low income schools. 
-project_titles:
-  - >-
-    Crayon Collection: prevent waste in landfills; increase arts education in
-    low income schools. 
-project_titles_from_project_ids:
-  - >-
-    Crayon Collection: prevent waste in landfills; increase arts education in
-    low income schools. 
-  - >-
-    Crayon Collection: prevent waste in landfills; increase arts education in
-    low income schools. 
-original_project_titles:
-  - >-
-    Crayon Collection: prevent waste in landfills; increase arts education in
-    low income schools.
-original_project_ids:
-  - '8102032'
-project_titles_flagged: 1
-category: learn
+  project_ids:
+    - '8102032'
 
 ---

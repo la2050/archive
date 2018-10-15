@@ -10,17 +10,17 @@ stylesheets:
 
 {% for item in data_collection.docs %}
 
-  {% for project_id in item.original_project_ids %}
+  {% for project_id in item.project_ids %}
     {% if page.project_id == project_id %}
       {% assign organization = item %}
     {% endif %}
   {% endfor %}
 
-  {% for project_id in item.extrapolated_project_ids %}
-    {% if page.project_id == project_id %}
-      {% assign organization = item %}
-    {% endif %}
-  {% endfor %}
+
+
+
+
+
 
   {% assign project_id_list = page.aggregated.project_ids %}
   {% for project_id in project_id_list %}
@@ -220,7 +220,7 @@ http://maker.good.is/myla2050{{ page.category }}2015.html
 
 <div class="proposal-description">
 
-<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">Idea submitted in the <a href="{{ challenge_url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ challenge_title }}</a> by <a href="{{ organization.url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ organization.organization_name }}</a></p>
+<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">Idea submitted in the <a href="{{ challenge_url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ challenge_title }}</a> by <a href="{{ organization.url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ organization.title }}</a></p>
 
 <p style="margin-bottom: 0">
   {{ page.project_summary }}

@@ -1,75 +1,42 @@
 ---
 organization_id: '2016126'
-year_submitted: 2016
-organization_name: LAND (Los Angeles Nomadic Division)
-organization_website:
-  - www.nomadicdivision.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: nomadicdivision
-instagram: NomadicDivision
-facebook: nomadicdivision
+title: LAND (Los Angeles Nomadic Division)
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
-project_video: ''
 org_summary: >-
   LAND presents museum-quality contemporary art for broad audiences to encounter
   in their everyday lives, enabling artists to work in nontraditional sites,
   expanding their creative practice & audience.
-areas_impacted:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102126'
-challenge_url: 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.nomadicdivision.org
+twitter: nomadicdivision
+instagram: NomadicDivision
+facebook: nomadicdivision
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
+project_video: ''
+project_ids:
+  - '6102126'
+  - '4102112'
+project_titles:
+  - 'Arts LANDed: Connecting Resources, Educators, Artists, Students, and You'
+  - Jose Dávila Public Art Project
+  - Wildflowering L.A.
+  - 'Arts LANDed: Connecting Resources Educators Artists Students and You'
 aggregated:
-  project_ids:
-    - '6102126'
-    - '4102231'
   challenge_url:
     - 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
     - 'http://maker.good.is/myLA2050connect/projects/ArtsLANDed.html'
   year_submitted:
     - '2016'
     - '2014'
-  org_summary:
-    - >-
-      LAND presents museum-quality contemporary art for broad audiences to
-      encounter in their everyday lives, enabling artists to work in
-      nontraditional sites, expanding their creative practice & audience.
-    - >-
-      LAND (Los Angeles Nomadic Division) is a non-profit committed to curating
-      site-specific contemporary public art accessible to all.
-title: LAND (Los Angeles Nomadic Division)
-uri: /organizations/land-los-angeles-nomadic-division/
-extrapolated_project_ids:
-  - '6102126'
-  - '4102112'
-project_titles_from_extrapolated_project_ids:
-  - Jose Dávila Public Art Project
-  - 'Arts LANDed: Connecting Resources Educators Artists Students and You'
-project_titles:
-  - 'Arts LANDed: Connecting Resources Educators Artists Students and You'
-  - Jose Dávila Public Art Project
-project_titles_from_project_ids:
-  - Jose Dávila Public Art Project
-original_project_titles:
-  - 'Arts LANDed: Connecting Resources, Educators, Artists, Students, and You'
-  - Jose Dávila Public Art Project
-  - Wildflowering L.A.
-original_project_ids:
-  - '4102112'
-  - '6102126'
-project_titles_flagged: 1
+  project_ids:
+    - '6102126'
+    - '4102231'
 
 ---

@@ -1,52 +1,34 @@
 ---
+youtube_video_identifier: jAOkF8UAOLI
 organization_id: '2014116'
-year_submitted: 2014
-organization_name: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
-organization_website: ''
-ein: '954592961'
-zip: '90042'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954592961'
-ntee_type: ''
+title: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
+org_type: Nonprofit
+org_summary: >-
+  We facilitate access to a public park by developing creative and cultural
+  programming to engage the community.
 tags_indicators:
   - Art
   - Access to parks & green space
   - Arts & cultural vitality
   - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954592961'
+organization_website: ''
 twitter: ''
 instagram: ''
 facebook: ''
-org_type: Nonprofit
+ein: '954592961'
+zip: '90042'
 project_image: 'https://img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg'
 project_video: ''
-org_summary: >-
-  We facilitate access to a public park by developing creative and cultural
-  programming to engage the community.
-areas_impacted: ''
-project_ids: '4102114'
-challenge_url: ''
+project_ids:
+  - '4102094'
+project_titles:
+  - Revitalizing La Tierra de la Culebra community art park
 aggregated:
-  project_ids:
-    - '4102114'
   challenge_url: []
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      We facilitate access to a public park by developing creative and cultural
-      programming to engage the community.
-title: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
-uri: /organizations/art-community-land-activism-aclas-la-tierra-de-la-culebra/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Healthy Teens Los Angeles
-project_titles_from_project_ids:
-  - Law Soup LA
-original_project_titles:
-  - Revitalizing La Tierra de la Culebra community art park
-original_project_ids:
-  - '4102094'
-project_titles_flagged: 1
-youtube_video_identifier: jAOkF8UAOLI
+  project_ids:
+    - '4102114'
 
 ---

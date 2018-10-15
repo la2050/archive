@@ -1,61 +1,39 @@
 ---
+maker_image_file_name: StratPlanProg_Cover.jpg
+maker_image_id: '23271'
 organization_id: '2015122'
-year_submitted: 2015
-organization_name: Los Angeles County Economic Development Corporation
-organization_website:
-  - 'http://laedc.org/'
-ein: '953643339'
-zip: '90071'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953643339'
-ntee_type: ''
-tags_indicators:
-  - Workforce development
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: 'https://twitter.com/laedc'
-instagram: www.instagram.com/
-facebook: 'https://www.facebook.com/LAEDC'
+title: Los Angeles County Economic Development Corporation
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23271%252Fdisplay%252FStratPlanProg_Cover.jpg=c570x385
-project_video: ''
 org_summary: >-
   As LA County’s designated economic development leadership organization for
   over 34 years, the LAEDC’s purpose is to improve standards of living for LA
   County’s residents by growing overall economic prosperity.
-areas_impacted: >-
-  Central LA,East LA,San Gabriel Valley,San Fernando Valey,South
-  LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
-  of Los Angeles (citywide),Other (please specify below):
-project_ids: '5102187'
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
+tags_indicators:
+  - Workforce development
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953643339'
+organization_website:
+  - 'http://laedc.org/'
+twitter: 'https://twitter.com/laedc'
+instagram: www.instagram.com/
+facebook: 'https://www.facebook.com/LAEDC'
+ein: '953643339'
+zip: '90071'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23271%252Fdisplay%252FStratPlanProg_Cover.jpg=c570x385
+project_video: ''
+project_ids:
+  - '5102187'
+project_titles:
+  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020 '
+  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
 aggregated:
-  project_ids:
-    - '5102187'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      As LA County’s designated economic development leadership organization for
-      over 34 years, the LAEDC’s purpose is to improve standards of living for
-      LA County’s residents by growing overall economic prosperity.
-title: Los Angeles County Economic Development Corporation
-uri: /organizations/los-angeles-county-economic-development-corporation/
-extrapolated_project_ids:
-  - '5102187'
-project_titles_from_extrapolated_project_ids:
-  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
-project_titles:
-  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
-project_titles_from_project_ids:
-  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
-original_project_titles:
-  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020 '
-original_project_ids:
-  - '5102187'
-maker_image_id: '23271'
-maker_image_file_name: StratPlanProg_Cover.jpg
+  project_ids:
+    - '5102187'
 
 ---

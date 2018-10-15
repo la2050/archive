@@ -1,47 +1,29 @@
 ---
+youtube_video_identifier: A3zOCbnCHLg
 organization_id: '2014175'
-year_submitted: 2014
-organization_name: Meet Each Need with Dignity
-organization_website: ''
-ein: '237306337'
-zip: '91331'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237306337'
-ntee_type: ''
-twitter: ''
-instagram: ''
-facebook: ''
+title: Meet Each Need with Dignity
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   MEND provides services that meet the basic human needs of poverty-level
   individuals who reside in the northeast San Fernando Valley.
-areas_impacted: ''
-project_ids: '4102153'
-challenge_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237306337'
+organization_website: ''
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '237306337'
+zip: '91331'
+project_image: 'https://img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg'
+project_video: ''
+project_ids:
+  - '4102020'
+project_titles:
+  - The Pathway
 aggregated:
-  project_ids:
-    - '4102153'
   challenge_url: []
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      MEND provides services that meet the basic human needs of poverty-level
-      individuals who reside in the northeast San Fernando Valley.
-title: Meet Each Need with Dignity
-uri: /organizations/meet-each-need-with-dignity/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - 'Clothes The Deal: Dismantling Barriers to Employment'
-project_titles_from_project_ids:
-  - My Name My Story
-original_project_titles:
-  - The Pathway
-original_project_ids:
-  - '4102020'
-project_titles_flagged: 1
-youtube_video_identifier: A3zOCbnCHLg
+  project_ids:
+    - '4102153'
 
 ---

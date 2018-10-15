@@ -1,54 +1,34 @@
 ---
 organization_id: '2016193'
-year_submitted: 2016
-organization_name: 'SilverMotion, Inc.'
-organization_website:
-  - equiz.com
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: equiz
-instagram: eQuizTrivia
-facebook: equiztrivia
+title: 'SilverMotion, Inc.'
 org_type: Forprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7270013455741-team88.jpg
-project_video: 'https://www.youtube.com/embed/TA13D1sFcIU?rel=0&amp;showinfo=0'
 org_summary: >-
   eQuiz is a fun and free trivia app that brings the world together through
   their passion for knowledge.
-areas_impacted:
-  - San Fernando Valley
-project_ids: '6102228'
-challenge_url: 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - equiz.com
+twitter: equiz
+instagram: eQuizTrivia
+facebook: equiztrivia
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7270013455741-team88.jpg
+project_video: 'https://www.youtube.com/embed/TA13D1sFcIU?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102228'
+project_titles:
+  - 'eQuiz: Fun and Free Trivia App'
 aggregated:
-  project_ids:
-    - '6102228'
   challenge_url:
     - 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      eQuiz is a fun and free trivia app that brings the world together through
-      their passion for knowledge.
-title: 'SilverMotion, Inc.'
-uri: /organizations/silvermotion-inc/
-extrapolated_project_ids:
-  - '6102228'
-project_titles_from_extrapolated_project_ids:
-  - 'eQuiz: Fun and Free Trivia App'
-project_titles:
-  - 'eQuiz: Fun and Free Trivia App'
-project_titles_from_project_ids:
-  - 'eQuiz: Fun and Free Trivia App'
-original_project_titles:
-  - 'eQuiz: Fun and Free Trivia App'
-original_project_ids:
-  - '6102228'
+  project_ids:
+    - '6102228'
 
 ---

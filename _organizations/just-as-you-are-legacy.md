@@ -1,64 +1,36 @@
 ---
 organization_id: '2016116'
-year_submitted: 2016
-organization_name: Just As You Are Legacy
-organization_website:
-  - n/a
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
+title: Just As You Are Legacy
+org_type: Nonprofit
+org_summary: >-
+  We provide resources to artists and the community in the areas of professional
+  development, empowerment, self awareness, and entrepreneurship.
 tags_indicators:
   - Art
   - Entrepreneurship & innovation
   - Arts & cultural vitality
   - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - n/a
 twitter: jayalegacy
 instagram: Jaya-Legacy-1744895492449502/?fref=ts
 facebook: jayalegacy
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6383208955741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/MPnJxlMhByQ?rel=0&amp;showinfo=0'
-org_summary: >-
-  We provide resources to artists and the community in the areas of professional
-  development, empowerment, self awareness, and entrepreneurship.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - LAUSD
-project_ids: '6102112'
-challenge_url: 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
+project_ids:
+  - '6102112'
+project_titles:
+  - Empowering You to Create Your Legacy
 aggregated:
-  project_ids:
-    - '6102112'
   challenge_url:
     - 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      We provide resources to artists and the community in the areas of
-      professional development, empowerment, self awareness, and
-      entrepreneurship.
-title: Just As You Are Legacy
-uri: /organizations/just-as-you-are-legacy/
-extrapolated_project_ids:
-  - '6102112'
-project_titles_from_extrapolated_project_ids:
-  - Empowering You to Create Your Legacy
-project_titles:
-  - Empowering You to Create Your Legacy
-project_titles_from_project_ids:
-  - Empowering You to Create Your Legacy
-original_project_titles:
-  - Empowering You to Create Your Legacy
-original_project_ids:
-  - '6102112'
+  project_ids:
+    - '6102112'
 
 ---

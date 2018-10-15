@@ -1,68 +1,40 @@
 ---
 organization_id: '2016167'
-year_submitted: 2016
-organization_name: Pedagogics Coaching Group
-organization_website:
-  - pedagogicscg.com
-ein: ''
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
+title: Pedagogics Coaching Group
+org_type: Forprofit
+org_summary: >-
+  An instructional coaching service for educators in the Greater LA area
+  providing support to those striving to create a successful school culture and
+  desiring to grow in instructional effectiveness.
 tags_indicators:
   - Teaching & mentorship
   - Mental & emotional health
   - Education & youth
   - Health
+charity_navigator_url: ''
+organization_website:
+  - pedagogicscg.com
 twitter: pedagogicscg
 instagram: pedagogicscg
 facebook: pedagogicscg
-org_type: Forprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
 project_video: 'https://www.youtube.com/embed/0xgcqCC9nTM?rel=0&amp;showinfo=0'
-org_summary: >-
-  An instructional coaching service for educators in the Greater LA area
-  providing support to those striving to create a successful school culture and
-  desiring to grow in instructional effectiveness.
-areas_impacted:
-  - County of Los Angeles
-project_ids: '6102210'
-challenge_url: >-
-  https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
+project_ids:
+  - '6102210'
+project_titles:
+  - >-
+    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
+    Instruction and Practice
 aggregated:
-  project_ids:
-    - '6102210'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      An instructional coaching service for educators in the Greater LA area
-      providing support to those striving to create a successful school culture
-      and desiring to grow in instructional effectiveness.
-title: Pedagogics Coaching Group
-uri: /organizations/pedagogics-coaching-group/
-extrapolated_project_ids:
-  - '6102210'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
-    Instruction and Practice
-project_titles:
-  - >-
-    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
-    Instruction and Practice
-project_titles_from_project_ids:
-  - >-
-    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
-    Instruction and Practice
-original_project_titles:
-  - >-
-    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
-    Instruction and Practice
-original_project_ids:
-  - '6102210'
+  project_ids:
+    - '6102210'
 
 ---

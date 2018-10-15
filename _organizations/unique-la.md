@@ -1,23 +1,9 @@
 ---
+maker_image_file_name: LA2050.jpg
+maker_image_id: '17068'
 organization_id: '2013205'
-year_submitted: 2013
-organization_name: UNIQUE LA
-organization_website:
-  - 'http://www.uniqueusa.com'
-ein: '10973080'
-zip: ''
-charity_navigator_url: ''
-ntee_type: ''
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: ''
-instagram: ''
-facebook: ''
+title: UNIQUE LA
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17068%252Fdisplay%252FLA2050.jpg=c570x385
-project_video: ''
 org_summary: >-
   UNIQUE LA has created the largest buy local design show in the country - and
   is the only show to curate and show-off local-made talent. We have brought
@@ -43,57 +29,31 @@ org_summary: >-
    
    
    - An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)
-areas_impacted: ''
-project_ids: '3102111'
-challenge_url: 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.uniqueusa.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '10973080'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17068%252Fdisplay%252FLA2050.jpg=c570x385
+project_video: ''
+project_ids:
+  - '3102111'
+project_titles:
+  - 'Fuel LA''s Creative Economy, Help UNIQUE LA Build The Creative Lab!'
+  - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
 aggregated:
-  project_ids:
-    - '3102111'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'
   year_submitted:
     - '2013'
-  org_summary:
-    - >-
-      UNIQUE LA has created the largest buy local design show in the country -
-      and is the only show to curate and show-off local-made talent. We have
-      brought international attention to LA and its great makers (press mentions
-      have included Details Magazine, Elle France, Uppercase). In four years
-      we've had amazing successes and have expanded in many ways, but I think
-      these numbers illustrate the great impact we've had.
-       
-       
-       
-       
-       
-       - 232,000 people have attended UNIQUE shows
-       
-       
-       - We've provided a platform for sales and exposure for over 8000 independent designers + artists
-       
-       
-       - Occupied a total of 424,000 square feet! 
-       
-       
-       - Produced shows in 3 cities, LA/NYC/SF 
-       
-       
-       - An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)
-title: UNIQUE LA
-uri: /organizations/unique-la/
-extrapolated_project_ids:
-  - '3102111'
-project_titles_from_extrapolated_project_ids:
-  - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
-project_titles:
-  - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
-project_titles_from_project_ids:
-  - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
-original_project_titles:
-  - 'Fuel LA''s Creative Economy, Help UNIQUE LA Build The Creative Lab!'
-original_project_ids:
-  - '3102111'
-maker_image_id: '17068'
-maker_image_file_name: LA2050.jpg
+  project_ids:
+    - '3102111'
 
 ---
