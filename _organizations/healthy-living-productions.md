@@ -1,13 +1,10 @@
 ---
 organization_id: '2016097'
-year_submitted: 2016
-organization_name: Healthy Living Productions
 organization_website:
   - www.healthylivingprod.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Community health
   - Health
@@ -22,19 +19,6 @@ org_summary: >-
   We believe proactive health care education can save lives. We deliver
   resources for the prevention, detection and management of the major health
   conditions that people of Los Angeles face.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102089'
-challenge_url: >-
-  https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
 aggregated:
   project_ids:
     - '6102089'
@@ -43,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      We believe proactive health care education can save lives. We deliver
-      resources for the prevention, detection and management of the major health
-      conditions that people of Los Angeles face.
 title: Healthy Living Productions
-uri: /organizations/healthy-living-productions/
 extrapolated_project_ids:
   - '6102089'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    We're creating Doctors' Orders, a video series to help LA become proactive
-    about health and wellness
-project_titles:
-  - >-
-    We're creating Doctors' Orders, a video series to help LA become proactive
-    about health and wellness
-project_titles_from_project_ids:
   - >-
     We're creating Doctors' Orders, a video series to help LA become proactive
     about health and wellness

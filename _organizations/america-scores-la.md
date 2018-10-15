@@ -1,13 +1,10 @@
 ---
 organization_id: '2016008'
-year_submitted: 2016
-organization_name: America Scores LA
 organization_website:
   - www.americascoresla.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Fitness & sports
@@ -24,11 +21,6 @@ org_summary: >-
   ASLA partners with urban schools to provide a unique team-based program that
   integrates soccer, poetry, and service-learning, improving students’ health,
   academic achievement and civic engagement.
-areas_impacted:
-  - LAUSD
-project_ids: '6102006'
-challenge_url: >-
-  https://challenge.la2050.org/entry/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play
 aggregated:
   project_ids:
     - '6102006'
@@ -37,24 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      ASLA partners with urban schools to provide a unique team-based program
-      that integrates soccer, poetry, and service-learning, improving students’
-      health, academic achievement and civic engagement.
 title: America Scores LA
-uri: /organizations/america-scores-la/
 extrapolated_project_ids:
   - '6102006'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
-    play)
-project_titles:
-  - >-
-    LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
-    play)
-project_titles_from_project_ids:
   - >-
     LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
     play)

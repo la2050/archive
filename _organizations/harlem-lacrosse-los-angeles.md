@@ -1,13 +1,10 @@
 ---
 organization_id: '2018051'
-year_submitted: 2018
-organization_name: Harlem Lacrosse - Los Angeles
 organization_website:
   - www.harlemlacrosse.org
 ein: '451634118'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451634118'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Fitness & sports
@@ -24,13 +21,6 @@ org_summary: >-
   HL-LA empowers students who are most at risk for academic decline and dropout
   to rise above their challenges, and dream about tomorrow while working hard on
   the field and in the classroom today.
-areas_impacted:
-  - Central LA
-  - East LA
-  - South LA
-  - LAUSD
-project_ids: '8102051'
-challenge_url: 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
 aggregated:
   project_ids:
     - '8102051'
@@ -38,33 +28,14 @@ aggregated:
     - 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      HL-LA empowers students who are most at risk for academic decline and
-      dropout to rise above their challenges, and dream about tomorrow while
-      working hard on the field and in the classroom today.
 title: Harlem Lacrosse - Los Angeles
-uri: /organizations/harlem-lacrosse-los-angeles/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    Every Angeleno is an all star on our team. Help HL - LA build our home field
-    advantage! 
-project_titles_from_project_ids:
-  - >-
-    Every Angeleno is an all star on our team. Help HL - LA build our home field
-    advantage! 
-  - >-
-    Every Angeleno is an all star on our team. Help HL - LA build our home field
-    advantage! 
 original_project_titles:
   - >-
     Every Angeleno is an all star on our team. Help HL - LA build our home field
     advantage!
 original_project_ids:
   - '8102051'
-project_titles_flagged: 1
-category: learn
 
 ---

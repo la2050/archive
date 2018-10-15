@@ -1,13 +1,10 @@
 ---
 organization_id: '2016157'
-year_submitted: 2016
-organization_name: 'New Directions for Youth, Inc'
 organization_website:
   - www.ndfy.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Fitness & sports
   - Workforce development
@@ -24,11 +21,6 @@ org_summary: >-
   New Directions for Youth (NDY) provides counseling, academic, gang prevention,
   health, fitness and job training programs to over 3,000 youth and families
   annually.
-areas_impacted:
-  - San Fernando Valley
-project_ids: '6102166'
-challenge_url: >-
-  https://challenge.la2050.org/entry/ndy-health-recreation-center-creating-a-healthier-and-resilient-los-angeles
 aggregated:
   project_ids:
     - '6102166'
@@ -37,24 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/ndy-health-recreation-center-creating-a-healthier-and-resilient-los-angeles
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      New Directions for Youth (NDY) provides counseling, academic, gang
-      prevention, health, fitness and job training programs to over 3,000 youth
-      and families annually.
 title: 'New Directions for Youth, Inc'
-uri: /organizations/new-directions-for-youth-inc/
 extrapolated_project_ids:
   - '6102166'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    NDY Health & Recreation Center: Creating a Healthier and Resilient Los
-    Angeles
-project_titles:
-  - >-
-    NDY Health & Recreation Center: Creating a Healthier and Resilient Los
-    Angeles
-project_titles_from_project_ids:
   - >-
     NDY Health & Recreation Center: Creating a Healthier and Resilient Los
     Angeles

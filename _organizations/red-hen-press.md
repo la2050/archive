@@ -1,13 +1,10 @@
 ---
 organization_id: '2018101'
-year_submitted: 2018
-organization_name: Red Hen Press
 organization_website:
   - www.redhen.org
 ein: '954754598'
 zip: '91401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954754598'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Creative economy
@@ -22,10 +19,6 @@ project_video: ''
 org_summary: >-
   Red Hen Press is committed to discovering and publishing works of literary
   excellence, supporting diversity, and promoting literacy in our local schools.
-areas_impacted:
-  - San Gabriel Valley
-project_ids: '8102101'
-challenge_url: 'https://activation.la2050.org/play/red-hen-press/'
 aggregated:
   project_ids:
     - '8102101'
@@ -37,34 +30,18 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
-  org_summary:
-    - >-
-      Red Hen Press is committed to discovering and publishing works of literary
-      excellence, supporting diversity, and promoting literacy in our local
-      schools.
-    - >-
-      Red Hen Press is committed to publishing works of literary excellence,
-      supporting diversity, and promoting literacy in our local schools.
 title: Red Hen Press
-uri: /organizations/red-hen-press/
 extrapolated_project_ids:
   - '8102101'
   - '6102194'
 project_titles_from_extrapolated_project_ids:
   - Red Hen Press Community Center for the Arts
   - 'Get Lit with Red Hen Press: Bringing Fresh Voices to the LA Literary Scene'
-project_titles:
-  - 'Get Lit with Red Hen Press: Bringing Fresh Voices to the LA Literary Scene'
-  - Red Hen Press Community Center for the Arts
-project_titles_from_project_ids:
-  - Red Hen Press Community Center for the Arts
 original_project_titles:
   - 'Get Lit with Red Hen Press: Bringing Fresh Voices to the LA Literary Scene'
   - Red Hen Press Community Center for the Arts
 original_project_ids:
   - '6102194'
   - '8102101'
-project_titles_flagged: 1
-category: play
 
 ---

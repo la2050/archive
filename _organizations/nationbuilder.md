@@ -1,13 +1,10 @@
 ---
 organization_id: '2014061'
-year_submitted: 2014
-organization_name: NationBuilder
 organization_website:
   - nationbuilder.com
 ein: '352315659'
 zip: '90048'
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
@@ -21,11 +18,6 @@ project_video: ''
 org_summary: >-
   NationBuilder gives people the tools to build a community around whatever they
   were meant to do.
-areas_impacted: >-
-  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
-  Bay,Westside
-project_ids: '5102180'
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
 aggregated:
   project_ids:
     - '5102180'
@@ -33,25 +25,15 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      NationBuilder gives people the tools to build a community around whatever
-      they were meant to do.
 title: NationBuilder
-uri: /organizations/nationbuilder/
 extrapolated_project_ids:
   - '4102154'
 project_titles_from_extrapolated_project_ids:
   - LA Conversation Meals
-project_titles:
-  - LA Conversation Meals
-project_titles_from_project_ids:
-  - Local Roots Mobile Farmers Markets
 original_project_titles:
   - LA Conversation Meals
 original_project_ids:
   - '4102154'
-project_titles_flagged: 1
 maker_image_id: '22481'
 maker_image_file_name: LA2050.png
 

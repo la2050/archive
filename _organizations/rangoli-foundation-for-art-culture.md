@@ -1,13 +1,10 @@
 ---
 organization_id: '2014076'
-year_submitted: 2014
-organization_name: Rangoli Foundation for Art & Culture
 organization_website:
   - rangoli.org
 ein: '954443724'
 zip: '91403'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954443724'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -20,11 +17,6 @@ project_video: ''
 org_summary: >-
   We create, teach, present, and produce Indian classical dance, music, and
   visual arts
-areas_impacted: >-
-  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
-  Bay,Westside,Other:
-project_ids: '4102077'
-challenge_url: 'http://maker.good.is/myLA2050create/projects/moment.html'
 aggregated:
   project_ids:
     - '4102077'
@@ -32,25 +24,15 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/moment.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      We create, teach, present, and produce Indian classical dance, music, and
-      visual arts
 title: Rangoli Foundation for Art & Culture
-uri: /organizations/rangoli-foundation-for-art-culture/
 extrapolated_project_ids:
   - '4102181'
 project_titles_from_extrapolated_project_ids:
   - This is the Moment!
-project_titles:
-  - This is the Moment!
-project_titles_from_project_ids:
-  - Griffith Observatory--A pLAnetarium for 2050 now!
 original_project_titles:
   - This is the Moment!
 original_project_ids:
   - '4102181'
-project_titles_flagged: 1
 youtube_video_identifier: 1JDr-eMpJX4
 
 ---

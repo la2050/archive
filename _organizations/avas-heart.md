@@ -1,13 +1,10 @@
 ---
 organization_id: '2016017'
-year_submitted: 2016
-organization_name: Ava's Heart
 organization_website:
   - avasheart.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Community health
   - Health
@@ -21,10 +18,6 @@ project_video: 'https://www.youtube.com/embed/-pcpeiJq118?rel=0&amp;showinfo=0'
 org_summary: >-
   We provide assistance to transplant patients who would otherwise not be able
   to afford treatment and care.
-areas_impacted:
-  - County of Los Angeles
-project_ids: '6102014'
-challenge_url: 'https://challenge.la2050.org/entry/the-transplant-journey'
 aggregated:
   project_ids:
     - '6102014'
@@ -32,19 +25,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/the-transplant-journey'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      We provide assistance to transplant patients who would otherwise not be
-      able to afford treatment and care.
 title: Ava's Heart
-uri: /organizations/avas-heart/
 extrapolated_project_ids:
   - '6102014'
 project_titles_from_extrapolated_project_ids:
-  - The Transplant Journey
-project_titles:
-  - The Transplant Journey
-project_titles_from_project_ids:
   - The Transplant Journey
 original_project_titles:
   - The Transplant Journey

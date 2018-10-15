@@ -1,13 +1,10 @@
 ---
 organization_id: '2016126'
-year_submitted: 2016
-organization_name: LAND (Los Angeles Nomadic Division)
 organization_website:
   - www.nomadicdivision.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -22,16 +19,6 @@ org_summary: >-
   LAND presents museum-quality contemporary art for broad audiences to encounter
   in their everyday lives, enabling artists to work in nontraditional sites,
   expanding their creative practice & audience.
-areas_impacted:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102126'
-challenge_url: 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
 aggregated:
   project_ids:
     - '6102126'
@@ -42,27 +29,13 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
-  org_summary:
-    - >-
-      LAND presents museum-quality contemporary art for broad audiences to
-      encounter in their everyday lives, enabling artists to work in
-      nontraditional sites, expanding their creative practice & audience.
-    - >-
-      LAND (Los Angeles Nomadic Division) is a non-profit committed to curating
-      site-specific contemporary public art accessible to all.
 title: LAND (Los Angeles Nomadic Division)
-uri: /organizations/land-los-angeles-nomadic-division/
 extrapolated_project_ids:
   - '6102126'
   - '4102112'
 project_titles_from_extrapolated_project_ids:
   - Jose Dávila Public Art Project
   - 'Arts LANDed: Connecting Resources Educators Artists Students and You'
-project_titles:
-  - 'Arts LANDed: Connecting Resources Educators Artists Students and You'
-  - Jose Dávila Public Art Project
-project_titles_from_project_ids:
-  - Jose Dávila Public Art Project
 original_project_titles:
   - 'Arts LANDed: Connecting Resources, Educators, Artists, Students, and You'
   - Jose Dávila Public Art Project
@@ -70,6 +43,5 @@ original_project_titles:
 original_project_ids:
   - '4102112'
   - '6102126'
-project_titles_flagged: 1
 
 ---

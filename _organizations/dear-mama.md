@@ -1,13 +1,10 @@
 ---
 organization_id: '2016063'
-year_submitted: 2016
-organization_name: Dear Mama
 organization_website:
   - dearmamala.wixsite.com/dearmama
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 twitter: DearMamaLA
 instagram: dearmamala
 facebook: dearmamala
@@ -19,22 +16,6 @@ org_summary: >-
   Dear Mama provides the L.A. community with affordable, healthy alternatives to
   animal-based products, while providing education and empowerment on healthy
   living and aid to the community.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102116'
-challenge_url: >-
-  https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
 aggregated:
   project_ids:
     - '6102116'
@@ -43,20 +24,10 @@ aggregated:
       https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Dear Mama provides the L.A. community with affordable, healthy
-      alternatives to animal-based products, while providing education and
-      empowerment on healthy living and aid to the community.
 title: Dear Mama
-uri: /organizations/dear-mama/
 extrapolated_project_ids:
   - '6102116'
 project_titles_from_extrapolated_project_ids:
-  - Helping L.A. Live Healthier One Taco at a Time!
-project_titles:
-  - Helping L.A. Live Healthier One Taco at a Time!
-project_titles_from_project_ids:
   - Helping L.A. Live Healthier One Taco at a Time!
 original_project_titles:
   - Helping L.A. Live Healthier One Taco at a Time!

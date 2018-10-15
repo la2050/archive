@@ -1,13 +1,10 @@
 ---
 organization_id: '2016141'
-year_submitted: 2016
-organization_name: Lost Angels Children's Project
 organization_website:
   - www.lostangelscp.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - STEM & Digital literacy
   - Teaching & mentorship
@@ -23,11 +20,6 @@ org_summary: >-
   Lost Angels Children's Project LACP provides low-income and at-risk youth with
   a safe, educational after-school mentorship program that promotes critical
   thinking and teaches vocational skills.
-areas_impacted:
-  - Antelope Valley
-project_ids: '6102148'
-challenge_url: >-
-  https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration
 aggregated:
   project_ids:
     - '6102148'
@@ -36,24 +28,10 @@ aggregated:
       https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Lost Angels Children's Project LACP provides low-income and at-risk youth
-      with a safe, educational after-school mentorship program that promotes
-      critical thinking and teaches vocational skills.
 title: Lost Angels Children's Project
-uri: /organizations/lost-angels-childrens-project/
 extrapolated_project_ids:
   - '6102148'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Skills development, creative expression and team building through classic
-    car restoration.
-project_titles:
-  - >-
-    Skills development, creative expression and team building through classic
-    car restoration.
-project_titles_from_project_ids:
   - >-
     Skills development, creative expression and team building through classic
     car restoration.

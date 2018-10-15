@@ -1,13 +1,10 @@
 ---
 organization_id: '2016252'
-year_submitted: 2016
-organization_name: Verdical Group
 organization_website:
   - www.verdicalgroup.com
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Climate change
   - Resiliency
@@ -24,13 +21,6 @@ org_summary: >-
   Verdical Group is a full-service green building consulting firm located in
   L.A. that is dedicated to advancing a more sustainable and healthy built
   environment for our community.
-areas_impacted:
-  - East LA
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102272'
-challenge_url: >-
-  https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
 aggregated:
   project_ids:
     - '6102272'
@@ -39,24 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Verdical Group is a full-service green building consulting firm located in
-      L.A. that is dedicated to advancing a more sustainable and healthy built
-      environment for our community.
 title: Verdical Group
-uri: /organizations/verdical-group/
 extrapolated_project_ids:
   - '6102272'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    A conference inspiring LA professionals toward a net zero future; hosted at
-    a nonprofit  facility
-project_titles:
-  - >-
-    A conference inspiring LA professionals toward a net zero future; hosted at
-    a nonprofit  facility
-project_titles_from_project_ids:
   - >-
     A conference inspiring LA professionals toward a net zero future; hosted at
     a nonprofit  facility

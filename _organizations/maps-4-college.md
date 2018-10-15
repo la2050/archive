@@ -1,13 +1,10 @@
 ---
 organization_id: '2015133'
-year_submitted: 2015
-organization_name: MAPS 4 College
 organization_website:
   - www.maps4college.org
 ein: '262915543'
 zip: '90703'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262915543'
-ntee_type: ''
 tags_indicators:
   - College prep
   - Education & youth
@@ -22,9 +19,6 @@ org_summary: >-
   This organization maps the transitional process of students’ from college to
   the workforce by considering factors of college preparation, volunteerism,
   internships, and networking.
-areas_impacted: 'San Gabriel Valley,County of Los Angeles (countywide)'
-project_ids: '5102202'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/BridgeCOLLEGEandWORK.html'
 aggregated:
   project_ids:
     - '5102202'
@@ -35,16 +29,7 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-  org_summary:
-    - >-
-      This organization maps the transitional process of students’ from college
-      to the workforce by considering factors of college preparation,
-      volunteerism, internships, and networking.
-    - >-
-      We close the skills gap by giving people the academic and professional
-      tools needed to graduate from college and succeed in the workforce.
 title: MAPS 4 College
-uri: /organizations/maps-4-college/
 extrapolated_project_ids:
   - '5102202'
   - '4102140'
@@ -55,17 +40,6 @@ project_titles_from_extrapolated_project_ids:
   - >-
     Bridge Skilled Workers & Businesses to Have LA Become the First Certified
     Work Ready Community in CA
-project_titles:
-  - >-
-    Bridge Skilled Workers & Businesses to Have LA Become the First Certified
-    Work Ready Community in CA
-  - >-
-    Mapping the Transition Process: Bridging the Gap Between College and the
-    Workforce
-project_titles_from_project_ids:
-  - >-
-    Mapping the Transition Process: Bridging the Gap Between College and the
-    Workforce
 original_project_titles:
   - >-
     Bridge Skilled Workers & Businesses to Have LA Become the First Certified
@@ -76,7 +50,6 @@ original_project_titles:
 original_project_ids:
   - '4102140'
   - '5102202'
-project_titles_flagged: 1
 maker_image_id: '23390'
 maker_image_file_name: fair.jpg
 

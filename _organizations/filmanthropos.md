@@ -1,13 +1,10 @@
 ---
 organization_id: '2013066'
-year_submitted: 2013
-organization_name: Filmanthropos
 organization_website:
   - www.filmanthropos.com
 ein: '462443400'
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -24,9 +21,6 @@ org_summary: >-
   we have provided USD 10,000.00 in pro-bono services to non-profits to date - a
   number that is rapidly and continuously growing, as we are now
   institutionalizing our pro-bono service offerings.
-areas_impacted: ''
-project_ids: '3102044'
-challenge_url: 'http://maker.good.is/myla2050/projects/filmanthropos.html'
 aggregated:
   project_ids:
     - '3102044'
@@ -34,23 +28,10 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/filmanthropos.html'
   year_submitted:
     - '2013'
-  org_summary:
-    - >-
-      While Filmanthropos is a fairly new social enterprise that was founded in
-      Q4 2012, we are proud to have connected with several social enterprises to
-      create powerful stories that engage their audiences to elicit change. On
-      top of this, we have provided USD 10,000.00 in pro-bono services to
-      non-profits to date - a number that is rapidly and continuously growing,
-      as we are now institutionalizing our pro-bono service offerings.
 title: Filmanthropos
-uri: /organizations/filmanthropos/
 extrapolated_project_ids:
   - '3102044'
 project_titles_from_extrapolated_project_ids:
-  - Empowering LAUSD with a Transmedia Education Platform for Change
-project_titles:
-  - Empowering LAUSD with a Transmedia Education Platform for Change
-project_titles_from_project_ids:
   - Empowering LAUSD with a Transmedia Education Platform for Change
 original_project_titles:
   - Empowering LAUSD with a Transmedia Education Platform for Change
@@ -59,7 +40,6 @@ original_project_titles:
   - Leading Change with ProducAthons
 original_project_ids:
   - '3102044'
-project_titles_flagged: 1
 youtube_video_identifier: '--BnysezHK0'
 
 ---

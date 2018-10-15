@@ -1,13 +1,10 @@
 ---
 organization_id: '2014049'
-year_submitted: 2014
-organization_name: LACE Center
 organization_website:
   - www.LACECenter.tumblr.com
 ein: '954230350'
 zip: '90018'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954230350'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -20,9 +17,6 @@ project_video: ''
 org_summary: >-
   The LACE Center is a community-led organization invested in arts for
   transforming local conditions towards sustainable collective liberation
-areas_impacted: 'Central LA,East LA,South LA,San Fernando Valley,South Bay,Westside,Other:'
-project_ids: '4102050'
-challenge_url: 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
 aggregated:
   project_ids:
     - '4102050'
@@ -30,31 +24,19 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      The LACE Center is a community-led organization invested in arts for
-      transforming local conditions towards sustainable collective liberation
 title: LACE Center
-uri: /organizations/lace-center/
 extrapolated_project_ids:
   - '4102111'
 project_titles_from_extrapolated_project_ids:
   - >-
     Liberate Arts! Intersect Our Communities! Create a Liberation Arts Institute
     to make our own stories
-project_titles:
-  - >-
-    Liberate Arts! Intersect Our Communities! Create a Liberation Arts Institute
-    to make our own stories
-project_titles_from_project_ids:
-  - Dance Leadership Program for Women
 original_project_titles:
   - >-
     Liberate Arts! Intersect Our Communities! Create a Liberation Arts Institute
     to make our own stories
 original_project_ids:
   - '4102111'
-project_titles_flagged: 1
 youtube_video_identifier: V_x6dj_Fa9M
 
 ---

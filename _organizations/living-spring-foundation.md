@@ -1,13 +1,10 @@
 ---
 organization_id: '2016132'
-year_submitted: 2016
-organization_name: Living Spring Foundation
 organization_website:
   - www.livingspringfoundation.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Homelessness
   - Community health
@@ -24,13 +21,6 @@ org_summary: >-
   Living Spring Foundation promotes health and wellness by bringing hope to the
   less-privileged of the society through health education and distribution of
   aids to put smiles on their faces.
-areas_impacted:
-  - Central LA
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102134'
-challenge_url: >-
-  https://challenge.la2050.org/entry/free-showers-for-the-homeless-in-downtown-los-angeles
 aggregated:
   project_ids:
     - '6102134'
@@ -39,20 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/free-showers-for-the-homeless-in-downtown-los-angeles
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Living Spring Foundation promotes health and wellness by bringing hope to
-      the less-privileged of the society through health education and
-      distribution of aids to put smiles on their faces.
 title: Living Spring Foundation
-uri: /organizations/living-spring-foundation/
 extrapolated_project_ids:
   - '6102134'
 project_titles_from_extrapolated_project_ids:
-  - 'Free Showers for the Homeless in Downtown, Los Angeles'
-project_titles:
-  - 'Free Showers for the Homeless in Downtown, Los Angeles'
-project_titles_from_project_ids:
   - 'Free Showers for the Homeless in Downtown, Los Angeles'
 original_project_titles:
   - 'Free Showers for the Homeless in Downtown, Los Angeles'

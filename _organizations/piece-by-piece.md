@@ -1,13 +1,10 @@
 ---
 organization_id: '2014068'
-year_submitted: 2014
-organization_name: Piece by Piece
 organization_website:
   - www.piecebypiece.org
 ein: '208348198'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208348198'
-ntee_type: ''
 tags_indicators:
   - Homelessness
   - Art
@@ -23,9 +20,6 @@ project_video: ''
 org_summary: >-
   Arts-Based Social-Enterprise centered on training in mosaic skill directed to
   persons vulnerable to homelessness
-areas_impacted: 'Central LA,East LA,South LA,San Gabriel Valley,Other:'
-project_ids: '4102069'
-challenge_url: 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
 aggregated:
   project_ids:
     - '4102069'
@@ -33,27 +27,15 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      Arts-Based Social-Enterprise centered on training in mosaic skill directed
-      to persons vulnerable to homelessness
 title: Piece by Piece
-uri: /organizations/piece-by-piece/
 extrapolated_project_ids:
   - '4102168'
 project_titles_from_extrapolated_project_ids:
   - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
-project_titles:
-  - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
-project_titles_from_project_ids:
-  - >-
-    Creating Safe Engaged Schools: Facing History and Ourselves Los Angeles
-    Expansion
 original_project_titles:
   - 'LA Mosaic Mecca Project:  An Urban Mosaic Intervention on Skid Row'
 original_project_ids:
   - '4102168'
-project_titles_flagged: 1
 maker_image_id: '22131'
 maker_image_file_name: In_Studio_Irvine_Mural.jpg
 

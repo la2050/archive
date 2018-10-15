@@ -1,13 +1,10 @@
 ---
 organization_id: '2018074'
-year_submitted: 2018
-organization_name: Los Angeles Dodgers Foundation
 organization_website:
   - 'http://losangeles.dodgers.mlb.com/la/community/dodgers-foundation/'
 ein: '954623022'
 zip: '92618'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954623022'
-ntee_type: ''
 tags_indicators:
   - Fitness & sports
   - Health
@@ -22,12 +19,6 @@ org_summary: >-
   LADF works to significantly impact underserved youth in economically
   challenged areas of Los Angeles through pillars of Sports+Recreation,
   Education+Literacy, and Health+Wellness.
-areas_impacted:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-project_ids: '8102074'
-challenge_url: 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
 aggregated:
   project_ids:
     - '8102074'
@@ -35,23 +26,12 @@ aggregated:
     - 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      LADF works to significantly impact underserved youth in economically
-      challenged areas of Los Angeles through pillars of Sports+Recreation,
-      Education+Literacy, and Health+Wellness.
 title: Los Angeles Dodgers Foundation
-uri: /organizations/los-angeles-dodgers-foundation/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
-project_titles_from_project_ids:
-  - 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
 original_project_titles:
   - 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
 original_project_ids:
   - '8102074'
-category: play
 
 ---

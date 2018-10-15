@@ -1,13 +1,10 @@
 ---
 organization_id: '2014031'
-year_submitted: 2014
-organization_name: Elusive Minds Productions
 organization_website:
   - www.elusiveminds.com
 ein: '470919488'
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -21,11 +18,6 @@ project_video: ''
 org_summary: >-
   Elusive Minds Productions is a multimedia production company focused on
   creating content across various digital platforms
-areas_impacted: >-
-  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
-  Bay,Westside
-project_ids: '5102339'
-challenge_url: 'http://maker.good.is/myLA2050create/projects/tianguis.html'
 aggregated:
   project_ids:
     - '5102339'
@@ -33,25 +25,15 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/tianguis.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      Elusive Minds Productions is a multimedia production company focused on
-      creating content across various digital platforms
 title: Elusive Minds Productions
-uri: /organizations/elusive-minds-productions/
 extrapolated_project_ids:
   - '4102064'
 project_titles_from_extrapolated_project_ids:
   - 'Tianguis: A Digital Exchange of Goods Ideas and Cultura'
-project_titles:
-  - 'Tianguis: A Digital Exchange of Goods Ideas and Cultura'
-project_titles_from_project_ids:
-  - Politics in 8 Seconds
 original_project_titles:
   - 'Tianguis: A Digital Exchange of Goods, Ideas, and Cultura'
 original_project_ids:
   - '4102064'
-project_titles_flagged: 1
 maker_image_id: '22393'
 maker_image_file_name: Tianguis.jpg
 

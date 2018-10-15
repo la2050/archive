@@ -1,13 +1,10 @@
 ---
 organization_id: '2016062'
-year_submitted: 2016
-organization_name: D.A.D Project
 organization_website:
   - www.dadproject.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Early childhood
   - Education & youth
@@ -22,14 +19,6 @@ org_summary: >-
   Provide Workshops, Training and Events to help fathers understand the value of
   supporting their child's academic development, and provide resources that
   support fathers' and their families!
-areas_impacted:
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - Inglewood
-project_ids: '6102058'
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-d-a-d-project-we-are-empowering-communities-one-d-a-d-at-a-time!
 aggregated:
   project_ids:
     - '6102058'
@@ -38,20 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/the-d-a-d-project-we-are-empowering-communities-one-d-a-d-at-a-time!
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Provide Workshops, Training and Events to help fathers understand the
-      value of supporting their child's academic development, and provide
-      resources that support fathers' and their families!
 title: D.A.D Project
-uri: /organizations/d-a-d-project/
 extrapolated_project_ids:
   - '6102058'
 project_titles_from_extrapolated_project_ids:
-  - 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
-project_titles:
-  - 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
-project_titles_from_project_ids:
   - 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
 original_project_titles:
   - 'The D.A.D Project we are empowering communities, one D.A.D at a time!'

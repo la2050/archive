@@ -1,12 +1,9 @@
 ---
 organization_id: '2018122'
-year_submitted: 2018
-organization_name: The People of Change
 organization_website: ''
 ein: ''
 zip: '90014'
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Workforce development
   - Community health
@@ -23,10 +20,6 @@ org_summary: >-
   The People of Change programs promote advancement opportunities through
   community based initiatives in the fields of education, income, cultural
   awareness and health.
-areas_impacted:
-  - South LA
-project_ids: '8102122'
-challenge_url: 'https://activation.la2050.org/learn/the-people-of-change/'
 aggregated:
   project_ids:
     - '8102122'
@@ -34,29 +27,14 @@ aggregated:
     - 'https://activation.la2050.org/learn/the-people-of-change/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      The People of Change programs promote advancement opportunities through
-      community based initiatives in the fields of education, income, cultural
-      awareness and health.
 title: The People of Change
-uri: /organizations/the-people-of-change/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    HIP Through Science: bringing quality and hip STEM Education to our urban
-    communities.
-project_titles_from_project_ids:
-  - >-
-    HIP Through Science: bringing quality and hip STEM Education to our urban
-    communities.
 original_project_titles:
   - >-
     HIP Through Science: bringing quality and hip STEM Education to our urban
     communities.
 original_project_ids:
   - '8102122'
-category: learn
 
 ---

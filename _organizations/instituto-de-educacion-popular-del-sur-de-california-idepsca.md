@@ -1,13 +1,10 @@
 ---
 organization_id: '2015092'
-year_submitted: 2015
-organization_name: Instituto de Educacion Popular del Sur de California (IDEPSCA)
 organization_website:
   - www.idepsca.org
 ein: '954431992'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954431992'
-ntee_type: ''
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
@@ -22,11 +19,6 @@ org_summary: >-
   IDEPSCA organizes and educates low immigrant workers concerned with solving
   problems in their own communities in the areas of workforce and economic
   development and worker health and safety.
-areas_impacted: >-
-  San Fernando Valley,City of Los Angeles (citywide),Other (please specify
-  below):
-project_ids: '5102143'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LATrabajadoresConex.html'
 aggregated:
   project_ids:
     - '5102143'
@@ -34,20 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/LATrabajadoresConex.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      IDEPSCA organizes and educates low immigrant workers concerned with
-      solving problems in their own communities in the areas of workforce and
-      economic development and worker health and safety.
 title: Instituto de Educacion Popular del Sur de California (IDEPSCA)
-uri: /organizations/instituto-de-educacion-popular-del-sur-de-california-idepsca/
 extrapolated_project_ids:
   - '5102143'
 project_titles_from_extrapolated_project_ids:
-  - Connecting Low Wage Immigrant Workers to the Internet
-project_titles:
-  - Connecting Low Wage Immigrant Workers to the Internet
-project_titles_from_project_ids:
   - Connecting Low Wage Immigrant Workers to the Internet
 original_project_titles:
   - Connecting Low Wage Immigrant Workers to the Internet

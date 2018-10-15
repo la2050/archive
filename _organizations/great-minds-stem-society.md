@@ -1,13 +1,10 @@
 ---
 organization_id: '2015074'
-year_submitted: 2015
-organization_name: Great Minds STEM Society
 organization_website:
   - www.facebook.com/GreatMindsSTEMSociety
 ein: '475247130'
 zip: '90003'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475247130'
-ntee_type: ''
 tags_indicators:
   - STEM & Digital literacy
   - Education & youth
@@ -22,9 +19,6 @@ org_summary: >-
   We influence underrepresented minority students and women in grades K-12, to
   have an active interest in pursuing a STEM field by providing them with
   hands-on research experience.
-areas_impacted: 'South LA,Other (please specify below):'
-project_ids: '5102116'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
 aggregated:
   project_ids:
     - '5102116'
@@ -32,24 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      We influence underrepresented minority students and women in grades K-12,
-      to have an active interest in pursuing a STEM field by providing them with
-      hands-on research experience.
 title: Great Minds STEM Society
-uri: /organizations/great-minds-stem-society/
 extrapolated_project_ids:
   - '5102116'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Providing minority students opportunities in science technology engineering
-    and mathematics.
-project_titles:
-  - >-
-    Providing minority students opportunities in science technology engineering
-    and mathematics.
-project_titles_from_project_ids:
   - >-
     Providing minority students opportunities in science technology engineering
     and mathematics.

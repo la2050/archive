@@ -1,13 +1,10 @@
 ---
 organization_id: '2015166'
-year_submitted: 2015
-organization_name: Redeemer Baptist Elementary School
 organization_website:
   - www.Redeemerelementary.org
 ein: '951816037'
 zip: '90064'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951816037'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
@@ -21,9 +18,6 @@ project_video: ''
 org_summary: >-
   Redeemer Elementary would like to introduce technology in all classrooms to
   enhance student learning.
-areas_impacted: Westside
-project_ids: '5102250'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'
 aggregated:
   project_ids:
     - '5102250'
@@ -31,19 +25,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Redeemer Elementary would like to introduce technology in all classrooms
-      to enhance student learning.
 title: Redeemer Baptist Elementary School
-uri: /organizations/redeemer-baptist-elementary-school/
 extrapolated_project_ids:
   - '5102250'
 project_titles_from_extrapolated_project_ids:
-  - Technology for the Classroom
-project_titles:
-  - Technology for the Classroom
-project_titles_from_project_ids:
   - Technology for the Classroom
 original_project_titles:
   - Technology for the Classroom

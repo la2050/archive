@@ -1,13 +1,10 @@
 ---
 organization_id: '2015126'
-year_submitted: 2015
-organization_name: Los Angeles Mayor Eric Garcetti Great Streets Initiative
 organization_website:
   - www.lagreatstreets.tumblr.com
 ein: '956000735'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
-ntee_type: ''
 tags_indicators:
   - Transportation
   - Mobility
@@ -22,9 +19,6 @@ org_summary: >-
   Los Angeles Mayor Eric Garcetti created the Great Streets Initiative to
   harness the power of local communities in fundamentally re-imagining streets
   as safe, creative, playful, economically thriving public spaces.
-areas_impacted: City of Los Angeles (citywide)
-project_ids: '5102191'
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
 aggregated:
   project_ids:
     - '5102191'
@@ -32,20 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Los Angeles Mayor Eric Garcetti created the Great Streets Initiative to
-      harness the power of local communities in fundamentally re-imagining
-      streets as safe, creative, playful, economically thriving public spaces.
 title: Los Angeles Mayor Eric Garcetti Great Streets Initiative
-uri: /organizations/los-angeles-mayor-eric-garcetti-great-streets-initiative/
 extrapolated_project_ids:
   - '5102191'
 project_titles_from_extrapolated_project_ids:
-  - 'The Great Streets Challenge: Making Streets Playful Public Places'
-project_titles:
-  - 'The Great Streets Challenge: Making Streets Playful Public Places'
-project_titles_from_project_ids:
   - 'The Great Streets Challenge: Making Streets Playful Public Places'
 original_project_titles:
   - 'The Great Streets Challenge: Making Streets Playful Public Places'

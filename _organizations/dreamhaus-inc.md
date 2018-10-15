@@ -1,13 +1,10 @@
 ---
 organization_id: '2015052'
-year_submitted: 2015
-organization_name: Dreamhaus Inc.
 organization_website:
   - www.dreamhausla.org
 ein: '471275709'
 zip: '90301'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471275709'
-ntee_type: ''
 tags_indicators:
   - Art
   - Creative economy
@@ -22,9 +19,6 @@ org_summary: >-
   Dreamhaus is both an educational and economic catalyst for urban youth in
   South Los Angeles to creatively empower themselves through art and amplify the
   future vision and their own community's growth.
-areas_impacted: 'South LA,City of Los Angeles (citywide),LAUSD'
-project_ids: '5102085'
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
 aggregated:
   project_ids:
     - '5102085'
@@ -32,20 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Dreamhaus is both an educational and economic catalyst for urban youth in
-      South Los Angeles to creatively empower themselves through art and amplify
-      the future vision and their own community's growth.
 title: Dreamhaus Inc.
-uri: /organizations/dreamhaus-inc/
 extrapolated_project_ids:
   - '5102085'
 project_titles_from_extrapolated_project_ids:
-  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
-project_titles:
-  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
-project_titles_from_project_ids:
   - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
 original_project_titles:
   - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles

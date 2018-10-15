@@ -1,13 +1,10 @@
 ---
 organization_id: '2018114'
-year_submitted: 2018
-organization_name: Surf Bus Foundation
 organization_website:
   - www.surfbusfoundation.org
 ein: '463169840'
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463169840'
-ntee_type: ''
 tags_indicators:
   - Community health
   - Fitness & sports
@@ -30,24 +27,6 @@ org_summary: >-
   Surf Bus empowers people to foster a healing connection with the sea. Through
   play, we teach ocean safety, wave readiness, science, and surfing. Our methods
   make the ocean a welcoming place for all.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-  - LAUSD
-project_ids: '8102114'
-challenge_url: 'https://activation.la2050.org/play/surf-bus-foundation/'
 aggregated:
   project_ids:
     - '8102114'
@@ -59,30 +38,11 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
-  org_summary:
-    - >-
-      Surf Bus empowers people to foster a healing connection with the sea.
-      Through play, we teach ocean safety, wave readiness, science, and surfing.
-      Our methods make the ocean a welcoming place for all.
-    - >-
-      The Surf Bus Foundation empowers people to have a healing connection to
-      the sea by engaging in ocean sports like surfing, swimming, and beach
-      games, while exploring the wondrous beauty of the sea.
 title: Surf Bus Foundation
-uri: /organizations/surf-bus-foundation/
 extrapolated_project_ids:
   - '6102221'
 project_titles_from_extrapolated_project_ids:
   - 'Theraputic Ocean Engagement: Surfing (T.O.E.S. as in, on the nose!)'
-project_titles:
-  - >-
-    Surf Bus and partners present: Splash Force LA, a comprehensive guide to
-    beach access and ocean play
-  - 'Theraputic Ocean Engagement: Surfing (T.O.E.S. as in, on the nose!)'
-project_titles_from_project_ids:
-  - >-
-    Surf Bus and partners present: Splash Force LA, a comprehensive guide to
-    beach access and ocean play
 original_project_titles:
   - >-
     Surf Bus and partners present: Splash Force LA, a comprehensive guide to
@@ -91,7 +51,5 @@ original_project_titles:
 original_project_ids:
   - '6102221'
   - '8102114'
-project_titles_flagged: 1
-category: play
 
 ---

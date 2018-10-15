@@ -1,13 +1,10 @@
 ---
 organization_id: '2015217'
-year_submitted: 2015
-organization_name: UCLA Luskin School of Public Affairs
 organization_website:
   - www.luskin.ucla.edu
 ein: '956006143'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-ntee_type: ''
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
@@ -22,9 +19,6 @@ org_summary: >-
   Social Welfare at UCLA Luskin School of Public Affairs identifies and develops
   emerging areas of research and teaching and cultivates leaders and change
   agents who advance solutions to society's most pressing problems
-areas_impacted: County of Los Angeles (countywide)
-project_ids: '5102330'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'
 aggregated:
   project_ids:
     - '5102330'
@@ -32,21 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Social Welfare at UCLA Luskin School of Public Affairs identifies and
-      develops emerging areas of research and teaching and cultivates leaders
-      and change agents who advance solutions to society's most pressing
-      problems
 title: UCLA Luskin School of Public Affairs
-uri: /organizations/ucla-luskin-school-of-public-affairs/
 extrapolated_project_ids:
   - '5102330'
 project_titles_from_extrapolated_project_ids:
-  - 'Foster Families: The Other First Responders'
-project_titles:
-  - 'Foster Families: The Other First Responders'
-project_titles_from_project_ids:
   - 'Foster Families: The Other First Responders'
 original_project_titles:
   - 'Foster Families: The Other First Responders'

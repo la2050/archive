@@ -1,13 +1,10 @@
 ---
 organization_id: '2015019'
-year_submitted: 2015
-organization_name: BookArtsLA
 organization_website:
   - www.bookartsla.org
 ein: '465242055'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465242055'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -21,9 +18,6 @@ project_video: ''
 org_summary: >-
   BookArtsLA brings the experience of making handmade books to people of all
   ages.
-areas_impacted: Westside
-project_ids: '5102032'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
 aggregated:
   project_ids:
     - '5102032'
@@ -31,19 +25,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      BookArtsLA brings the experience of making handmade books to people of all
-      ages.
 title: BookArtsLA
-uri: /organizations/bookartsla/
 extrapolated_project_ids:
   - '5102032'
 project_titles_from_extrapolated_project_ids:
-  - Make a Book Read a Book
-project_titles:
-  - Make a Book Read a Book
-project_titles_from_project_ids:
   - Make a Book Read a Book
 original_project_titles:
   - 'Make a Book, Read a Book'

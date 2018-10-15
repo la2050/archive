@@ -1,13 +1,10 @@
 ---
 organization_id: '2016185'
-year_submitted: 2016
-organization_name: River LA (formerly LA River Revitalization Corporation)
 organization_website:
   - www.riverla.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Air & water
   - Environmental quality & sustainability
@@ -22,17 +19,6 @@ org_summary: >-
   River LA is a nonprofit organization with a mission to ensure the 51-mile LA
   River integrates design and infrastructure to bring people, water, and public
   space together.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Gateway Cities
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102199'
-challenge_url: >-
-  https://challenge.la2050.org/entry/la-river-stories-public-engagement-through-creative-storytelling
 aggregated:
   project_ids:
     - '6102199'
@@ -41,20 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/la-river-stories-public-engagement-through-creative-storytelling
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      River LA is a nonprofit organization with a mission to ensure the 51-mile
-      LA River integrates design and infrastructure to bring people, water, and
-      public space together.
 title: River LA (formerly LA River Revitalization Corporation)
-uri: /organizations/river-la-formerly-la-river-revitalization-corporation/
 extrapolated_project_ids:
   - '6102199'
 project_titles_from_extrapolated_project_ids:
-  - 'LA River Stories: Public Engagement through Creative Storytelling'
-project_titles:
-  - 'LA River Stories: Public Engagement through Creative Storytelling'
-project_titles_from_project_ids:
   - 'LA River Stories: Public Engagement through Creative Storytelling'
 original_project_titles:
   - 'LA River Stories: Public Engagement through Creative Storytelling'

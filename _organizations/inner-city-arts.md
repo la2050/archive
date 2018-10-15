@@ -1,13 +1,10 @@
 ---
 organization_id: '2016110'
-year_submitted: 2016
-organization_name: Inner-City Arts
 organization_website:
   - www.inner-cityarts.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Art
@@ -24,12 +21,6 @@ org_summary: >-
   Inner-City Arts—a leading provider of quality arts education for underserved
   children—is a creative oasis and a vital partner in enriching the social,
   cultural and economic landscape of Los Angeles.
-areas_impacted:
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102103'
-challenge_url: >-
-  https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
 aggregated:
   project_ids:
     - '6102103'
@@ -38,20 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Inner-City Arts—a leading provider of quality arts education for
-      underserved children—is a creative oasis and a vital partner in enriching
-      the social, cultural and economic landscape of Los Angeles.
 title: Inner-City Arts
-uri: /organizations/inner-city-arts/
 extrapolated_project_ids:
   - '6102103'
 project_titles_from_extrapolated_project_ids:
-  - Providing Access to the Arts and the Endless Possibilities They Offer
-project_titles:
-  - Providing Access to the Arts and the Endless Possibilities They Offer
-project_titles_from_project_ids:
   - Providing Access to the Arts and the Endless Possibilities They Offer
 original_project_titles:
   - Providing Access to the Arts and the Endless Possibilities They Offer

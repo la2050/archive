@@ -1,13 +1,10 @@
 ---
 organization_id: '2016143'
-year_submitted: 2016
-organization_name: Lynne Cohen Foundation
 organization_website:
   - lynnecohenfoundation.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Community health
   - Health
@@ -22,11 +19,6 @@ org_summary: >-
   The Lynne Cohen Foundation supports four Preventive Care Clinics for women at
   increased risk for breast or ovarian cancer by providing them with access to
   comprehensive care in one place on one day.
-areas_impacted:
-  - City of Los Angeles
-project_ids: '6102150'
-challenge_url: >-
-  https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
 aggregated:
   project_ids:
     - '6102150'
@@ -35,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      The Lynne Cohen Foundation supports four Preventive Care Clinics for women
-      at increased risk for breast or ovarian cancer by providing them with
-      access to comprehensive care in one place on one day.
 title: Lynne Cohen Foundation
-uri: /organizations/lynne-cohen-foundation/
 extrapolated_project_ids:
   - '6102150'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
-    Risk for Cancer
-project_titles:
-  - >-
-    Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
-    Risk for Cancer
-project_titles_from_project_ids:
   - >-
     Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
     Risk for Cancer

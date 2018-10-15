@@ -1,13 +1,10 @@
 ---
 organization_id: '2015153'
-year_submitted: 2015
-organization_name: Pass Tha Ball
 organization_website:
   - www.passthaball.com
 ein: '463878728'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463878728'
-ntee_type: ''
 tags_indicators:
   - Fitness & sports
   - Health
@@ -20,9 +17,6 @@ project_video: ''
 org_summary: >-
   We offer basketball skills training to youth and help them obtain an athletic
   college scholarships through our video service.
-areas_impacted: 'San Fernando Valley,County of Los Angeles (countywide)'
-project_ids: '5102230'
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
 aggregated:
   project_ids:
     - '5102230'
@@ -30,19 +24,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      We offer basketball skills training to youth and help them obtain an
-      athletic college scholarships through our video service.
 title: Pass Tha Ball
-uri: /organizations/pass-tha-ball/
 extrapolated_project_ids:
   - '5102230'
 project_titles_from_extrapolated_project_ids:
-  - Hoops Center for the Youth
-project_titles:
-  - Hoops Center for the Youth
-project_titles_from_project_ids:
   - Hoops Center for the Youth
 original_project_titles:
   - Hoops Center for the Youth

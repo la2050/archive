@@ -1,13 +1,10 @@
 ---
 organization_id: '2015182'
-year_submitted: 2015
-organization_name: Smart Gals Productions
 organization_website:
   - www.smartgalsproductions.org
 ein: '202157944'
 zip: '90031'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202157944'
-ntee_type: ''
 tags_indicators:
   - Community gatherings
   - Social connectedness
@@ -23,9 +20,6 @@ org_summary: >-
   Smart Gals seeks to connect those who would otherwise not meet, by taking
   literature, performance and the arts out of their traditional venues, removing
   exclusivity, and op
-areas_impacted: 'City of Los Angeles (citywide),LAUSD,Other (please specify below):'
-project_ids: '5102269'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
 aggregated:
   project_ids:
     - '5102269'
@@ -33,21 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Dedicated to building community and supporting dialog throughout Los
-      Angeles, Smart Gals seeks to connect those who would otherwise not meet,
-      by taking literature, performance and the arts out of their traditional
-      venues, removing exclusivity, and op
 title: Smart Gals Productions
-uri: /organizations/smart-gals-productions/
 extrapolated_project_ids:
   - '5102269'
 project_titles_from_extrapolated_project_ids:
-  - Is.Was.Will Be.
-project_titles:
-  - Is.Was.Will Be.
-project_titles_from_project_ids:
   - Is.Was.Will Be.
 original_project_titles:
   - 'Is.Was.Will Be. '

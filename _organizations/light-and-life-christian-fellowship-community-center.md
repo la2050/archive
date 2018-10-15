@@ -1,13 +1,10 @@
 ---
 organization_id: '2016130'
-year_submitted: 2016
-organization_name: Light and Life Christian Fellowship Community Center
 organization_website:
   - www.llcf.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Mental & emotional health
   - Community gatherings
@@ -24,11 +21,6 @@ org_summary: >-
   Our focus is to embrace, equip, and empower individuals to make a change in
   their lives as well as others through a variety of outreach programs geared to
   harness one’s gifts and passions.
-areas_impacted:
-  - District 9 of Long Beach - Los Angeles County
-project_ids: '6102132'
-challenge_url: >-
-  https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
 aggregated:
   project_ids:
     - '6102132'
@@ -37,24 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Our focus is to embrace, equip, and empower individuals to make a change
-      in their lives as well as others through a variety of outreach programs
-      geared to harness one’s gifts and passions.
 title: Light and Life Christian Fellowship Community Center
-uri: /organizations/light-and-life-christian-fellowship-community-center/
 extrapolated_project_ids:
   - '6102132'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    LLCF Adventure Playground: Embracing play, discovering passions, and
-    creating community!
-project_titles:
-  - >-
-    LLCF Adventure Playground: Embracing play, discovering passions, and
-    creating community!
-project_titles_from_project_ids:
   - >-
     LLCF Adventure Playground: Embracing play, discovering passions, and
     creating community!

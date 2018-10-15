@@ -1,13 +1,10 @@
 ---
 organization_id: '2016026'
-year_submitted: 2016
-organization_name: BreastfeedLA
 organization_website:
   - breastfeedla.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Community health
   - Early childhood
@@ -24,11 +21,6 @@ org_summary: >-
   BreastfeedLA is dedicated to improving the health and wellbeing of infants and
   families through education, outreach, and advocacy to promote and support
   breastfeeding.
-areas_impacted:
-  - South LA
-project_ids: '6102022'
-challenge_url: >-
-  https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
 aggregated:
   project_ids:
     - '6102022'
@@ -37,20 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      BreastfeedLA is dedicated to improving the health and wellbeing of infants
-      and families through education, outreach, and advocacy to promote and
-      support breastfeeding.
 title: BreastfeedLA
-uri: /organizations/breastfeedla/
 extrapolated_project_ids:
   - '6102022'
 project_titles_from_extrapolated_project_ids:
-  - Creating a First Food Friendly South Los Angeles
-project_titles:
-  - Creating a First Food Friendly South Los Angeles
-project_titles_from_project_ids:
   - Creating a First Food Friendly South Los Angeles
 original_project_titles:
   - Creating a First Food Friendly South Los Angeles

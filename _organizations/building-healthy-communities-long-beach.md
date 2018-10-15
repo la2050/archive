@@ -1,13 +1,10 @@
 ---
 organization_id: '2016028'
-year_submitted: 2016
-organization_name: 'Building Healthy Communities: Long Beach'
 organization_website:
   - bhclongbeach.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Community health
   - Health
@@ -22,10 +19,6 @@ org_summary: >-
   BHCLB aims to reduce health disparities and improve community health through
   systemic changes fueled by resident engagement, resource sharing,
   partnerships, and strategic communications.
-areas_impacted:
-  - South Bay
-project_ids: '6102024'
-challenge_url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'
 aggregated:
   project_ids:
     - '6102024'
@@ -34,20 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      BHCLB aims to reduce health disparities and improve community health
-      through systemic changes fueled by resident engagement, resource sharing,
-      partnerships, and strategic communications.
 title: 'Building Healthy Communities: Long Beach'
-uri: /organizations/building-healthy-communities-long-beach/
 extrapolated_project_ids:
   - '6102024'
 project_titles_from_extrapolated_project_ids:
-  - 'People''s Planning School: Park Equity Project'
-project_titles:
-  - 'People''s Planning School: Park Equity Project'
-project_titles_from_project_ids:
   - 'People''s Planning School: Park Equity Project'
 original_project_titles:
   - 'People''s Planning School: Park Equity Project'

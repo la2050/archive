@@ -1,13 +1,10 @@
 ---
 organization_id: '2018004'
-year_submitted: 2018
-organization_name: A Healthier Community Starts with YOUth
 organization_website:
   - 'https://hcsyucla.wixsite.com/health'
 ein: '824719690'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824719690'
-ntee_type: ''
 tags_indicators:
   - Access to healthy food
   - Fitness & sports
@@ -23,10 +20,6 @@ org_summary: >-
   The HCSY program provides an opportunity for students to receive mentorship
   and experience within the public health field as they build and conduct
   community health programming with professionals.
-areas_impacted:
-  - South LA
-project_ids: '8102004'
-challenge_url: 'https://activation.la2050.org/live/a-healthier-community-starts-with-youth/'
 aggregated:
   project_ids:
     - '8102004'
@@ -35,24 +28,10 @@ aggregated:
       https://activation.la2050.org/live/a-healthier-community-starts-with-youth/
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      The HCSY program provides an opportunity for students to receive
-      mentorship and experience within the public health field as they build and
-      conduct community health programming with professionals.
 title: A Healthier Community Starts with YOUth
-uri: /organizations/a-healthier-community-starts-with-youth/
 extrapolated_project_ids:
   - '8102004'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    A youth-led public health program involving health professionals, students,
-    & our communities.
-project_titles:
-  - >-
-    A youth-led public health program involving health professionals, students,
-    & our communities.
-project_titles_from_project_ids:
   - >-
     A youth-led public health program involving health professionals, students,
     & our communities.
@@ -62,6 +41,5 @@ original_project_titles:
     & our communities.
 original_project_ids:
   - '8102004'
-category: live
 
 ---

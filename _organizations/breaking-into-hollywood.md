@@ -1,13 +1,10 @@
 ---
 organization_id: '2015021'
-year_submitted: 2015
-organization_name: Breaking into Hollywood
 organization_website:
   - www.breakingintohollywood.org
 ein: '611500533'
 zip: '90212'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=611500533'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -22,9 +19,6 @@ org_summary: >-
   professionals in the entertainment industry pursue their careers by hosting
   educational networking events and offering unique resources focused on the
   arts and media.
-areas_impacted: San Fernando Valey
-project_ids: '5102035'
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/STARS.html'
 aggregated:
   project_ids:
     - '5102035'
@@ -32,25 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/STARS.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Founded in 2005, BReaKiNG iNTo HoLLyooD (BiH) helps creative and business
-      professionals in the entertainment industry pursue their careers by
-      hosting educational networking events and offering unique resources
-      focused on the arts and media.
 title: Breaking into Hollywood
-uri: /organizations/breaking-into-hollywood/
 extrapolated_project_ids:
   - '5102035'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    STARS (Super Talented Artists Resource Studio) Fosters Artistic
-    Entrepreneurship in L.A.
-project_titles:
-  - >-
-    STARS (Super Talented Artists Resource Studio) Fosters Artistic
-    Entrepreneurship in L.A.
-project_titles_from_project_ids:
   - >-
     STARS (Super Talented Artists Resource Studio) Fosters Artistic
     Entrepreneurship in L.A.

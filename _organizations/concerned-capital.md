@@ -1,13 +1,10 @@
 ---
 organization_id: '2016055'
-year_submitted: 2016
-organization_name: Concerned Capital
 organization_website:
   - www.concernedcapital.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Access to capital & benefits
   - Entrepreneurship & innovation
@@ -23,14 +20,6 @@ org_summary: >-
   Concerned Capital is a social impact investment firm that leverages economic
   development tools to save/create family wage jobs in distressed communities by
   re-energizing existing, operating companies.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Gateway Cities
-project_ids: '6102111'
-challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'
 aggregated:
   project_ids:
     - '6102111'
@@ -41,28 +30,10 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      Concerned Capital is a social impact investment firm that leverages
-      economic development tools to save/create family wage jobs in distressed
-      communities by re-energizing existing, operating companies.
-    - >-
-      Connect the Dots design workshops provide the tools for Los Angelenos to
-      reimagine LA’s Great Streets (and crummy streets) performing at their
-      fullest potential, as engaging public spaces and strategic groundwater
-      recharge assets.
 title: Concerned Capital
-uri: /organizations/concerned-capital/
 extrapolated_project_ids:
   - '6102111'
 project_titles_from_extrapolated_project_ids:
-  - '#Re-Make It LA'
-project_titles:
-  - '#Re-Make It LA'
-  - >-
-    Connect the Dots LA: Public Design Workshops for Realizing a Resilient
-    Future
-project_titles_from_project_ids:
   - '#Re-Make It LA'
 original_project_titles:
   - >-
@@ -70,6 +41,5 @@ original_project_titles:
     company   
 original_project_ids:
   - '5102076'
-project_titles_flagged: 1
 
 ---

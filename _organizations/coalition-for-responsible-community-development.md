@@ -1,13 +1,10 @@
 ---
 organization_id: '2016044'
-year_submitted: 2016
-organization_name: Coalition for Responsible Community Development
 organization_website:
   - coalitionrcd.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Affordable housing
   - Voting & civic engagement
@@ -24,13 +21,6 @@ org_summary: >-
   CRCD engages in comprehensive community development through community
   beautification, workforce development, education, affordable housing, support
   services, and economic development.
-areas_impacted:
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102044'
-challenge_url: >-
-  https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
 aggregated:
   project_ids:
     - '6102044'
@@ -39,20 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      CRCD engages in comprehensive community development through community
-      beautification, workforce development, education, affordable housing,
-      support services, and economic development.
 title: Coalition for Responsible Community Development
-uri: /organizations/coalition-for-responsible-community-development/
 extrapolated_project_ids:
   - '6102044'
 project_titles_from_extrapolated_project_ids:
-  - Community Uniting for Resolution and Empowerment (CURE)
-project_titles:
-  - Community Uniting for Resolution and Empowerment (CURE)
-project_titles_from_project_ids:
   - Community Uniting for Resolution and Empowerment (CURE)
 original_project_titles:
   - Community Uniting for Resolution and Empowerment (CURE)

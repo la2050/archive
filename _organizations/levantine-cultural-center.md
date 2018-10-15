@@ -1,13 +1,10 @@
 ---
 organization_id: '2014052'
-year_submitted: 2014
-organization_name: Levantine Cultural Center
 organization_website:
   - 'http://levantinecenter.org'
 ein: '912156607'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912156607'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -21,11 +18,6 @@ project_video: ''
 org_summary: >-
   We champion a greater understanding of the Middle East/North Africa by
   presenting arts and education programs that bridge divides.
-areas_impacted: >-
-  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
-  Bay,Westside
-project_ids: '4102053'
-challenge_url: 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
 aggregated:
   project_ids:
     - '4102053'
@@ -33,33 +25,19 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      We champion a greater understanding of the Middle East/North Africa by
-      presenting arts and education programs that bridge divides.
 title: Levantine Cultural Center
-uri: /organizations/levantine-cultural-center/
 extrapolated_project_ids:
   - '4102117'
 project_titles_from_extrapolated_project_ids:
   - >-
     Creating Community With L.A.s Cultural Center for the Middle East/North
     Africa
-project_titles:
-  - >-
-    Creating Community With L.A.s Cultural Center for the Middle East/North
-    Africa
-project_titles_from_project_ids:
-  - >-
-    Deaf West Theatre Performing Arts Center and Educational Outreach Program
-    Residency
 original_project_titles:
   - >-
     Creating Community With L.A.'s Cultural Center for the Middle East/North
     Africa
 original_project_ids:
   - '4102117'
-project_titles_flagged: 1
 maker_image_id: '22605'
 maker_image_file_name: MECAY-Education-Proposal-2014.jpg
 

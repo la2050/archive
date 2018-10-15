@@ -1,13 +1,10 @@
 ---
 organization_id: '2015101'
-year_submitted: 2015
-organization_name: Justice Lab
 organization_website:
   - www.justicelab.net
 ein: EIN Pending
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=EIN Pending'
-ntee_type: ''
 tags_indicators:
   - Community safety
   - Public safety & public space
@@ -21,9 +18,6 @@ project_video: ''
 org_summary: >-
   Justice Lab is making California's criminal justice system more compassionate,
   efficient, and cost-effective.
-areas_impacted: County of Los Angeles (countywide)
-project_ids: '5102155'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'
 aggregated:
   project_ids:
     - '5102155'
@@ -31,19 +25,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Justice Lab is making California's criminal justice system more
-      compassionate, efficient, and cost-effective.
 title: Justice Lab
-uri: /organizations/justice-lab/
 extrapolated_project_ids:
   - '5102155'
 project_titles_from_extrapolated_project_ids:
-  - ReConnect.la (RCLA)
-project_titles:
-  - ReConnect.la (RCLA)
-project_titles_from_project_ids:
   - ReConnect.la (RCLA)
 original_project_titles:
   - ReConnect.la (RCLA)

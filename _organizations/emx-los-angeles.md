@@ -1,13 +1,10 @@
 ---
 organization_id: '2016070'
-year_submitted: 2016
-organization_name: EMX Los Angeles
 organization_website:
   - www.facebook.com/emx.la
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Community gatherings
@@ -24,17 +21,6 @@ org_summary: >-
   EMX is a LA-based electronic music community providing upcoming artists a
   platform for artistic development, cross-generational educational programs,
   safe event practices, and community engagement.
-areas_impacted:
-  - Central LA
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102138'
-challenge_url: >-
-  https://challenge.la2050.org/entry/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music
 aggregated:
   project_ids:
     - '6102138'
@@ -43,24 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      EMX is a LA-based electronic music community providing upcoming artists a
-      platform for artistic development, cross-generational educational
-      programs, safe event practices, and community engagement.
 title: EMX Los Angeles
-uri: /organizations/emx-los-angeles/
 extrapolated_project_ids:
   - '6102138'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
-    through Electronic Music
-project_titles:
-  - >-
-    EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
-    through Electronic Music
-project_titles_from_project_ids:
   - >-
     EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
     through Electronic Music

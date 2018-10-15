@@ -1,13 +1,10 @@
 ---
 organization_id: '2016066'
-year_submitted: 2016
-organization_name: Drizzle Connect
 organization_website:
   - blog.getdrizzle.com/la2050-challenge
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - STEM & Digital literacy
   - Education & youth
@@ -22,12 +19,6 @@ org_summary: >-
   Drizzle enables low-income families to stay connected to their community and
   the world by allowing them to receive free mobile phone service and high-speed
   internet at home.
-areas_impacted:
-  - San Gabriel Valley
-  - County of Los Angeles
-project_ids: '6102124'
-challenge_url: >-
-  https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
 aggregated:
   project_ids:
     - '6102124'
@@ -36,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Drizzle enables low-income families to stay connected to their community
-      and the world by allowing them to receive free mobile phone service and
-      high-speed internet at home.
 title: Drizzle Connect
-uri: /organizations/drizzle-connect/
 extrapolated_project_ids:
   - '6102124'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Bringing free high-speed internet and mobile phone service to low-income
-    families in Los Angeles
-project_titles:
-  - >-
-    Bringing free high-speed internet and mobile phone service to low-income
-    families in Los Angeles
-project_titles_from_project_ids:
   - >-
     Bringing free high-speed internet and mobile phone service to low-income
     families in Los Angeles

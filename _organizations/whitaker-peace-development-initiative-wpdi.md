@@ -1,13 +1,10 @@
 ---
 organization_id: '2016255'
-year_submitted: 2016
-organization_name: Whitaker Peace & Development Initiative (WPDI)
 organization_website:
   - www.wpdi.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Mental & emotional health
@@ -23,12 +20,6 @@ project_video: ''
 org_summary: >-
   Our mission is to help societies impacted by destructive conflicts transform
   into safer and more prosperous communities.
-areas_impacted:
-  - Gateway Cities
-  - LAUSD
-project_ids: '6102282'
-challenge_url: >-
-  https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
 aggregated:
   project_ids:
     - '6102282'
@@ -37,19 +28,10 @@ aggregated:
       https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Our mission is to help societies impacted by destructive conflicts
-      transform into safer and more prosperous communities.
 title: Whitaker Peace & Development Initiative (WPDI)
-uri: /organizations/whitaker-peace-development-initiative-wpdi/
 extrapolated_project_ids:
   - '6102282'
 project_titles_from_extrapolated_project_ids:
-  - 'Domestic Harmonizer Program: resolving conflict, one middle school at a time'
-project_titles:
-  - 'Domestic Harmonizer Program: resolving conflict, one middle school at a time'
-project_titles_from_project_ids:
   - 'Domestic Harmonizer Program: resolving conflict, one middle school at a time'
 original_project_titles:
   - 'Domestic Harmonizer Program: resolving conflict, one middle school at a time'

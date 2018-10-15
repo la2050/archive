@@ -1,13 +1,10 @@
 ---
 organization_id: '2015063'
-year_submitted: 2015
-organization_name: Farm LA
 organization_website:
   - www.farmla.org
 ein: '473050128'
 zip: '90039'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473050128'
-ntee_type: ''
 tags_indicators:
   - Access to healthy food
   - Community health
@@ -22,9 +19,6 @@ project_video: ''
 org_summary: >-
   Farm LA is a 501(c)3 non-profit organization dedicated to rescuing unbuildable
   land in Los Angeles for solar and agricultural drought-tolerant farming.
-areas_impacted: 'East LA,City of Los Angeles (citywide),Other (please specify below):'
-project_ids: '5102100'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
 aggregated:
   project_ids:
     - '5102100'
@@ -32,20 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Farm LA is a 501(c)3 non-profit organization dedicated to rescuing
-      unbuildable land in Los Angeles for solar and agricultural
-      drought-tolerant farming.
 title: Farm LA
-uri: /organizations/farm-la/
 extrapolated_project_ids:
   - '5102100'
 project_titles_from_extrapolated_project_ids:
-  - Help Save The LAnd with Farm LA
-project_titles:
-  - Help Save The LAnd with Farm LA
-project_titles_from_project_ids:
   - Help Save The LAnd with Farm LA
 original_project_titles:
   - Help Save The LAnd with Farm LA

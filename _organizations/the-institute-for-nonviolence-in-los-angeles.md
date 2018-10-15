@@ -1,13 +1,10 @@
 ---
 organization_id: '2015201'
-year_submitted: 2015
-organization_name: The Institute for Nonviolence in Los Angeles
 organization_website:
   - www.invla.org
 ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-ntee_type: ''
 tags_indicators:
   - Mental & emotional health
   - Health
@@ -22,9 +19,6 @@ org_summary: >-
   resolution training, & program implementation for people aged 8-80, as well as
   Days of Dialogue, facilitated community dialogue sessions on controversial
   public issues.
-areas_impacted: 'City of Los Angeles (citywide),LAUSD'
-project_ids: '5102303'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/peermediationnetwork.html'
 aggregated:
   project_ids:
     - '5102303'
@@ -35,27 +29,10 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
-  org_summary:
-    - >-
-      INVLA staff and trained volunteer mediators provide peer mediation,
-      conflict resolution training, & program implementation for people aged
-      8-80, as well as Days of Dialogue, facilitated community dialogue sessions
-      on controversial public issues.
-    - >-
-      More than 2,000 members of the public were trained by Avis Ridley-Thomas
-      in the years that I oversaw the Los Angeles City Attorney's Dispute
-      Resolution Program of the Office of the Los Angeles City Attorney.
-      Emeritus UCLA Professor Buzz Wilms initiated a class at UCLA in 2001, and
-      hundreds of undergraduates have been trained as a result of that class.
 title: The Institute for Nonviolence in Los Angeles
-uri: /organizations/the-institute-for-nonviolence-in-los-angeles/
 extrapolated_project_ids:
   - '5102303'
 project_titles_from_extrapolated_project_ids:
-  - The Peer Mediation Network
-project_titles:
-  - The Peer Mediation Network
-project_titles_from_project_ids:
   - The Peer Mediation Network
 original_project_titles:
   - The Peer Mediation Network

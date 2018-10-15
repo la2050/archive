@@ -1,13 +1,10 @@
 ---
 organization_id: '2016168'
-year_submitted: 2016
-organization_name: 'PEN Center USA, ''PEN USA'''
 organization_website:
   - penusa.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Art
@@ -24,11 +21,6 @@ org_summary: >-
   PEN Center USA advocates for imprisoned, censored, and persecuted writers
   throughout the world, while cultivating and expanding a diverse and engaged
   literary community in the western United States.
-areas_impacted:
-  - City of Los Angeles
-project_ids: '6102180'
-challenge_url: >-
-  https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
 aggregated:
   project_ids:
     - '6102180'
@@ -40,28 +32,10 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
-  org_summary:
-    - >-
-      PEN Center USA advocates for imprisoned, censored, and persecuted writers
-      throughout the world, while cultivating and expanding a diverse and
-      engaged literary community in the western United States.
-    - >-
-      We provide platforms and writing workshops to cultivate and celebrate the
-      powerful voices of Los Angeles youth.
 title: 'PEN Center USA, ''PEN USA'''
-uri: /organizations/pen-center-usa-pen-usa/
 extrapolated_project_ids:
   - '6102180'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Emerging Voices Fellowship: Creating Diverse Literary Artists Through
-    Mentorship
-project_titles:
-  - >-
-    Emerging Voices Fellowship: Creating Diverse Literary Artists Through
-    Mentorship
-  - Los Angeles Youth Poet Laureate Program
-project_titles_from_project_ids:
   - >-
     Emerging Voices Fellowship: Creating Diverse Literary Artists Through
     Mentorship
@@ -71,6 +45,5 @@ original_project_titles:
     Mentorship
 original_project_ids:
   - '6102180'
-project_titles_flagged: 1
 
 ---

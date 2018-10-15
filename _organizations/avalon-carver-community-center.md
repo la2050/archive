@@ -1,13 +1,10 @@
 ---
 organization_id: '2016016'
-year_submitted: 2016
-organization_name: Avalon Carver Community Center
 organization_website:
   - avalon-carver.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - STEM & Digital literacy
   - Education & youth
@@ -22,12 +19,6 @@ org_summary: >-
   We aim to promote economic self-sufficiency, strengthen families & build a
   strong sense of community by providing services for the physical, mental,
   educational & spiritual needs of South LA residents
-areas_impacted:
-  - South LA
-  - LAUSD
-project_ids: '6102013'
-challenge_url: >-
-  https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
 aggregated:
   project_ids:
     - '6102013'
@@ -36,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      We aim to promote economic self-sufficiency, strengthen families & build a
-      strong sense of community by providing services for the physical, mental,
-      educational & spiritual needs of South LA residents
 title: Avalon Carver Community Center
-uri: /organizations/avalon-carver-community-center/
 extrapolated_project_ids:
   - '6102013'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Mobile STEM Project is a school based initiative designed to eliminate
-    disparities in STEM education
-project_titles:
-  - >-
-    Mobile STEM Project is a school based initiative designed to eliminate
-    disparities in STEM education
-project_titles_from_project_ids:
   - >-
     Mobile STEM Project is a school based initiative designed to eliminate
     disparities in STEM education

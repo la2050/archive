@@ -1,13 +1,10 @@
 ---
 organization_id: '2015005'
-year_submitted: 2015
-organization_name: 'After-School All-Stars, Los Angeles'
 organization_website:
   - www.la-allstars.org
 ein: '912162719'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912162719'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Mental & emotional health
@@ -24,11 +21,6 @@ org_summary: >-
   people by providing dynamic and exciting opportunities for success, while
   cultivating self-esteem, leadership and respect to help build healthier
   communities.
-areas_impacted: >-
-  Central LA,East LA,San Fernando Valley,South LA,County of Los Angeles
-  (countywide),LAUSD
-project_ids: '5102010'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
 aggregated:
   project_ids:
     - '5102010'
@@ -36,21 +28,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      After-School All-Stars, Los Angeles educates, enlightens and inspires
-      young people by providing dynamic and exciting opportunities for success,
-      while cultivating self-esteem, leadership and respect to help build
-      healthier communities.
 title: 'After-School All-Stars, Los Angeles'
-uri: /organizations/after-school-all-stars-los-angeles/
 extrapolated_project_ids:
   - '5102010'
 project_titles_from_extrapolated_project_ids:
-  - 'W.A.R.: The Battle Starts With You... We Are Ready Are You?'
-project_titles:
-  - 'W.A.R.: The Battle Starts With You... We Are Ready Are You?'
-project_titles_from_project_ids:
   - 'W.A.R.: The Battle Starts With You... We Are Ready Are You?'
 original_project_titles:
   - 'W.A.R.: The Battle Starts With You... We Are Ready, Are You?'

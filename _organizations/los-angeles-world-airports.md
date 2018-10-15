@@ -1,13 +1,10 @@
 ---
 organization_id: '2016140'
-year_submitted: 2016
-organization_name: Los Angeles World Airports
 organization_website:
   - www.lawa.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - College prep
   - Workforce development
@@ -23,17 +20,6 @@ project_video: 'https://www.youtube.com/embed/GURgU8nO6rM?rel=0&amp;showinfo=0'
 org_summary: >-
   Los Angeles World Airports Internship Program provides students opportunities
   to develop the skills to work in the aviation industry.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - LAUSD
-  - County wide; but targetting local students
-project_ids: '6102147'
-challenge_url: >-
-  https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
 aggregated:
   project_ids:
     - '6102147'
@@ -42,19 +28,10 @@ aggregated:
       https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Los Angeles World Airports Internship Program provides students
-      opportunities to develop the skills to work in the aviation industry.
 title: Los Angeles World Airports
-uri: /organizations/los-angeles-world-airports/
 extrapolated_project_ids:
   - '6102147'
 project_titles_from_extrapolated_project_ids:
-  - LOS ANGELES WORLD AIRPORTS INTRODUCES LA STUDENTS TO LIFES POSSIBILITIES.
-project_titles:
-  - LOS ANGELES WORLD AIRPORTS INTRODUCES LA STUDENTS TO LIFES POSSIBILITIES.
-project_titles_from_project_ids:
   - LOS ANGELES WORLD AIRPORTS INTRODUCES LA STUDENTS TO LIFES POSSIBILITIES.
 original_project_titles:
   - LOS ANGELES WORLD AIRPORTS INTRODUCES LA STUDENTS TO LIFES POSSIBILITIES.

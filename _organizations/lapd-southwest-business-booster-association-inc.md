@@ -1,13 +1,10 @@
 ---
 organization_id: '2015111'
-year_submitted: 2015
-organization_name: LAPD Southwest Business Booster Association Inc.
 organization_website:
   - 'http://www.southwestyouthprograms.org/index.html'
 ein: '270889800'
 zip: '90062'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270889800'
-ntee_type: ''
 tags_indicators:
   - Community safety
   - Public safety & public space
@@ -23,9 +20,6 @@ org_summary: >-
   The Southwest Area Police Youth Board is comprised of Board-elected community
   youth, and elected youth and adult advisers, with the goal of increasing youth
   involvement in community safety and quality of life issues in Southwest Area.
-areas_impacted: 'South LA,City of Los Angeles (citywide),LAUSD,Other (please specify below):'
-project_ids: '5102173'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Lapdyouthconference.html'
 aggregated:
   project_ids:
     - '5102173'
@@ -33,25 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/Lapdyouthconference.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      The Southwest Area Police Youth Board is comprised of Board-elected
-      community youth, and elected youth and adult advisers, with the goal of
-      increasing youth involvement in community safety and quality of life
-      issues in Southwest Area.
 title: LAPD Southwest Business Booster Association Inc.
-uri: /organizations/lapd-southwest-business-booster-association-inc/
 extrapolated_project_ids:
   - '5102173'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    LAPD Southwest Area Youth Conference: Enhancing Community-Police Relations
-    through the Youth
-project_titles:
-  - >-
-    LAPD Southwest Area Youth Conference: Enhancing Community-Police Relations
-    through the Youth
-project_titles_from_project_ids:
   - >-
     LAPD Southwest Area Youth Conference: Enhancing Community-Police Relations
     through the Youth

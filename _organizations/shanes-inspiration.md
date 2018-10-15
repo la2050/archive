@@ -1,13 +1,10 @@
 ---
 organization_id: '2015179'
-year_submitted: 2015
-organization_name: Shane's Inspiration
 organization_website:
   - www.shanesinspiration.org
 ein: '954760497'
 zip: '91411'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954760497'
-ntee_type: ''
 tags_indicators:
   - Disability & aging
   - Access to parks & green space
@@ -22,11 +19,6 @@ project_video: ''
 org_summary: >-
   Shane's Inspiration creates inclusive playgrounds and education programs that
   unite children of all abilities.
-areas_impacted: >-
-  South LA,County of Los Angeles (countywide),City of Los Angeles
-  (citywide),LAUSD
-project_ids: '5102266'
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
 aggregated:
   project_ids:
     - '5102266'
@@ -37,25 +29,12 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-  org_summary:
-    - >-
-      Shane's Inspiration creates inclusive playgrounds and education programs
-      that unite children of all abilities.
-    - >-
-      Shane's Inspiration unites people of all abilities through the creation of
-      inclusive playgrounds and school-based education programs.
 title: Shane's Inspiration
-uri: /organizations/shanes-inspiration/
 extrapolated_project_ids:
   - '5102266'
   - '4102191'
 project_titles_from_extrapolated_project_ids:
   - Together We Play L.A.!
-  - Together We Play L.A.!
-project_titles:
-  - Together We Play L.A.!
-  - Together We Play L.A.!
-project_titles_from_project_ids:
   - Together We Play L.A.!
 original_project_titles:
   - Together We Play L.A.!
@@ -63,7 +42,6 @@ original_project_titles:
 original_project_ids:
   - '4102191'
   - '4102191'
-project_titles_flagged: 1
 youtube_video_identifier: yUDKtK6Gfls
 
 ---

@@ -1,13 +1,10 @@
 ---
 organization_id: '2018078'
-year_submitted: 2018
-organization_name: Lumos Transforms
 organization_website:
   - 'http://lumostransforms.com/'
 ein: '814833035'
 zip: '20002'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=814833035'
-ntee_type: ''
 tags_indicators:
   - Resiliency
   - Public safety & public space
@@ -22,12 +19,6 @@ org_summary: >-
   We develop, implement, and disseminate frameworks and tools that build
   resilience in individuals, organizations, and communities in service of
   liberatory and holistic transformation.
-areas_impacted:
-  - South LA
-  - South Bay
-  - Antelope Valley
-project_ids: '8102078'
-challenge_url: 'https://activation.la2050.org/live/lumos-transforms/'
 aggregated:
   project_ids:
     - '8102078'
@@ -35,25 +26,14 @@ aggregated:
     - 'https://activation.la2050.org/live/lumos-transforms/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      We develop, implement, and disseminate frameworks and tools that build
-      resilience in individuals, organizations, and communities in service of
-      liberatory and holistic transformation.
 title: Lumos Transforms
-uri: /organizations/lumos-transforms/
 extrapolated_project_ids:
   - '8102078'
 project_titles_from_extrapolated_project_ids:
-  - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
-project_titles:
-  - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
-project_titles_from_project_ids:
   - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
 original_project_titles:
   - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
 original_project_ids:
   - '8102078'
-category: live
 
 ---

@@ -1,13 +1,10 @@
 ---
 organization_id: '2016249'
-year_submitted: 2016
-organization_name: US Green Building Council-LA
 organization_website:
   - usgbc-la.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Resiliency
   - Climate change
@@ -23,13 +20,6 @@ project_video: 'https://myatlascms.com/map/?id=901?rel=0&amp;showinfo=0'
 org_summary: >-
   Promote sustainability in the built environment by providing access to
   resources, knowledge, recognition, and networking opportunities.
-areas_impacted:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102276'
-challenge_url: >-
-  https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
 aggregated:
   project_ids:
     - '6102276'
@@ -40,26 +30,10 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
-  org_summary:
-    - >-
-      Promote sustainability in the built environment by providing access to
-      resources, knowledge, recognition, and networking opportunities.
-    - >-
-      USGBC-LA is transforming LA's built environment by supporting
-      sustainability, resiliency, and environmental justice for all.
 title: US Green Building Council-LA
-uri: /organizations/us-green-building-council-la/
 extrapolated_project_ids:
   - '6102276'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    EcoMapLA is todays roadmap for a tomorrow that is social, economic and
-    environmental sustainable
-project_titles:
-  - >-
-    EcoMapLA is todays roadmap for a tomorrow that is social, economic and
-    environmental sustainable
-project_titles_from_project_ids:
   - >-
     EcoMapLA is todays roadmap for a tomorrow that is social, economic and
     environmental sustainable

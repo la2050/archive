@@ -1,13 +1,10 @@
 ---
 organization_id: '2015106'
-year_submitted: 2015
-organization_name: Koreatown Immigrant Worker Alliance
 organization_website:
   - 'http://kiwa.org/'
 ein: '954392004'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954392004'
-ntee_type: ''
 tags_indicators:
   - Access to capital & benefits
   - Workforce development
@@ -23,9 +20,6 @@ org_summary: >-
   KIWA organizes low-wage immigrant workers, tenants, and their families to
   promote workplace justice, housing rights, immigrants’ rights, democratic and
   sustainable community development and civic participation.
-areas_impacted: City of Los Angeles (citywide)
-project_ids: '5102163'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
 aggregated:
   project_ids:
     - '5102163'
@@ -33,20 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      KIWA organizes low-wage immigrant workers, tenants, and their families to
-      promote workplace justice, housing rights, immigrants’ rights, democratic
-      and sustainable community development and civic participation.
 title: Koreatown Immigrant Worker Alliance
-uri: /organizations/koreatown-immigrant-worker-alliance/
 extrapolated_project_ids:
   - '5102163'
 project_titles_from_extrapolated_project_ids:
-  - Ending Wage Theft in Los Angeles
-project_titles:
-  - Ending Wage Theft in Los Angeles
-project_titles_from_project_ids:
   - Ending Wage Theft in Los Angeles
 original_project_titles:
   - Ending Wage Theft in Los Angeles

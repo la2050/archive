@@ -1,13 +1,10 @@
 ---
 organization_id: '2016014'
-year_submitted: 2016
-organization_name: Arts Bridging the Gap
 organization_website:
   - www.artsbridgingthegap.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Teaching & mentorship
@@ -24,12 +21,6 @@ org_summary: >-
   Arts Bridging the Gap creates Arts-educational experiences and programs to
   bridge the achievement gap for underserved youth and ensure a better future
   for all children
-areas_impacted:
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102011'
-challenge_url: >-
-  https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
 aggregated:
   project_ids:
     - '6102011'
@@ -38,20 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Arts Bridging the Gap creates Arts-educational experiences and programs to
-      bridge the achievement gap for underserved youth and ensure a better
-      future for all children
 title: Arts Bridging the Gap
-uri: /organizations/arts-bridging-the-gap/
 extrapolated_project_ids:
   - '6102011'
 project_titles_from_extrapolated_project_ids:
-  - 'Girls Make VR: Teach underserved girls how to make VR and AR content'
-project_titles:
-  - 'Girls Make VR: Teach underserved girls how to make VR and AR content'
-project_titles_from_project_ids:
   - 'Girls Make VR: Teach underserved girls how to make VR and AR content'
 original_project_titles:
   - 'Girls Make VR: Teach underserved girls how to make VR and AR content'

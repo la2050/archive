@@ -1,13 +1,10 @@
 ---
 organization_id: '2014093'
-year_submitted: 2014
-organization_name: The La Brea Tar Pits Museum
 organization_website:
   - tarpits.org
 ein: '956132185'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956132185'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -20,11 +17,6 @@ project_video: ''
 org_summary: >-
   The La Brea Tar Pits Museum and park are where Angelenos discover, interpret
   and appreciate their shared natural history.
-areas_impacted: >-
-  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
-  Bay,Westside
-project_ids: '4102093'
-challenge_url: 'http://maker.good.is/myLA2050play/projects/newdigs.html'
 aggregated:
   project_ids:
     - '4102093'
@@ -32,25 +24,15 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/newdigs.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      The La Brea Tar Pits Museum and park are where Angelenos discover,
-      interpret and appreciate their shared natural history.
 title: The La Brea Tar Pits Museum
-uri: /organizations/the-la-brea-tar-pits-museum/
 extrapolated_project_ids:
   - '4102219'
 project_titles_from_extrapolated_project_ids:
   - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
-project_titles:
-  - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
-project_titles_from_project_ids:
-  - The Shed Pasadena
 original_project_titles:
   - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
 original_project_ids:
   - '4102219'
-project_titles_flagged: 1
 youtube_video_identifier: gzqE0ygfM8Y
 
 ---

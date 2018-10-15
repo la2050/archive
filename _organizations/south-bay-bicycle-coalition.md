@@ -1,13 +1,10 @@
 ---
 organization_id: '2018111'
-year_submitted: 2018
-organization_name: South Bay Bicycle Coalition
 organization_website:
   - 'http://www.southbaybicyclecoalition.org/'
 ein: ''
 zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein='
-ntee_type: ''
 tags_indicators:
   - Transportation
   - Community gatherings
@@ -24,10 +21,6 @@ org_summary: >-
   SBBC, now >400 members, was founded in 2009 by South Bay cyclists determined
   to connect local riders on a mission to unite the South Bay Cities in safe,
   easily accessible, fun active transportation.
-areas_impacted:
-  - South Bay
-project_ids: '8102111'
-challenge_url: 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
 aggregated:
   project_ids:
     - '8102111'
@@ -35,23 +28,12 @@ aggregated:
     - 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      SBBC, now >400 members, was founded in 2009 by South Bay cyclists
-      determined to connect local riders on a mission to unite the South Bay
-      Cities in safe, easily accessible, fun active transportation.
 title: South Bay Bicycle Coalition
-uri: /organizations/south-bay-bicycle-coalition/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Activate South Bay LA Trails!
-project_titles_from_project_ids:
-  - Activate South Bay LA Trails!
 original_project_titles:
   - Activate South Bay LA Trails!
 original_project_ids:
   - '8102111'
-category: play
 
 ---

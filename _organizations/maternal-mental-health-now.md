@@ -1,13 +1,10 @@
 ---
 organization_id: '2015134'
-year_submitted: 2015
-organization_name: Maternal Mental Health NOW
 organization_website:
   - www.maternalmentalhealthnow.org
 ein: '934302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=934302067'
-ntee_type: ''
 tags_indicators:
   - Mental & emotional health
   - Community health
@@ -23,9 +20,6 @@ org_summary: >-
   We remove the barriers to the identification and treatment of postpartum
   depression and other perinatal mood and anxiety disorders so that new moms,
   their babies and families can have optimal beginnings.
-areas_impacted: County of Los Angeles (countywide)
-project_ids: '5102203'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
 aggregated:
   project_ids:
     - '5102203'
@@ -33,20 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      We remove the barriers to the identification and treatment of postpartum
-      depression and other perinatal mood and anxiety disorders so that new
-      moms, their babies and families can have optimal beginnings.
 title: Maternal Mental Health NOW
-uri: /organizations/maternal-mental-health-now/
 extrapolated_project_ids:
   - '5102203'
 project_titles_from_extrapolated_project_ids:
-  - Maternal Mental Health NOW
-project_titles:
-  - Maternal Mental Health NOW
-project_titles_from_project_ids:
   - Maternal Mental Health NOW
 original_project_titles:
   - Maternal Mental Health NOW

@@ -1,13 +1,10 @@
 ---
 organization_id: '2015204'
-year_submitted: 2015
-organization_name: The Moving Museum
 organization_website:
   - www.themovingmuseum.com
 ein: '474255808'
 zip: '10018'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474255808'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -20,9 +17,6 @@ project_video: ''
 org_summary: >-
   The Moving Museum runs a nomadic contemporary art program in significant
   locations across the world.
-areas_impacted: City of Los Angeles (citywide)
-project_ids: '5102307'
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
 aggregated:
   project_ids:
     - '5102307'
@@ -30,19 +24,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      The Moving Museum runs a nomadic contemporary art program in significant
-      locations across the world.
 title: The Moving Museum
-uri: /organizations/the-moving-museum/
 extrapolated_project_ids:
   - '5102307'
 project_titles_from_extrapolated_project_ids:
-  - The Moving Museum Los Angeles
-project_titles:
-  - The Moving Museum Los Angeles
-project_titles_from_project_ids:
   - The Moving Museum Los Angeles
 original_project_titles:
   - The Moving Museum Los Angeles

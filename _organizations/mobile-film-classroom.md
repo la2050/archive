@@ -1,13 +1,10 @@
 ---
 organization_id: '2014059'
-year_submitted: 2014
-organization_name: Mobile Film Classroom
 organization_website:
   - www.mobilefilmclassroom.org
 ein: '461053961'
 zip: '90004'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461053961'
-ntee_type: ''
 twitter: www.twitter.com/mobilefilmclass
 instagram: instagram.com/mobilefilmclassroom
 facebook: www.facebook.com/mobilefilmclassroom
@@ -17,11 +14,6 @@ project_video: ''
 org_summary: >-
   Mobile Film Classroom equips the next generation of creative leaders with
   digital media storytelling skills in under-resourced communities.
-areas_impacted: >-
-  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
-  Bay,Westside,Other:
-project_ids: '4102060'
-challenge_url: 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
 aggregated:
   project_ids:
     - '4102060'
@@ -29,31 +21,19 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      Mobile Film Classroom equips the next generation of creative leaders with
-      digital media storytelling skills in under-resourced communities.
 title: Mobile Film Classroom
-uri: /organizations/mobile-film-classroom/
 extrapolated_project_ids:
   - '4102148'
 project_titles_from_extrapolated_project_ids:
   - >-
     Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
     creative workforce in LA
-project_titles:
-  - >-
-    Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
-    creative workforce in LA
-project_titles_from_project_ids:
-  - MY CITY
 original_project_titles:
   - >-
     Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
     creative workforce in LA 
 original_project_ids:
   - '4102148'
-project_titles_flagged: 1
 youtube_video_identifier: sO2seHdnH3c
 
 ---

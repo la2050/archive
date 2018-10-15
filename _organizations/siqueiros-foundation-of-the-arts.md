@@ -1,13 +1,10 @@
 ---
 organization_id: '2015181'
-year_submitted: 2015
-organization_name: Siqueiros Foundation of the Arts
 organization_website:
   - 'siqueirosfoundatio.wix.com/sfota#!join/cihc'
 ein: '55777888'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=55777888'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -20,9 +17,6 @@ project_video: ''
 org_summary: >-
   To promote peace and good will in the world by helping those in need through
   the arts.
-areas_impacted: County of Los Angeles (countywide)
-project_ids: '5102268'
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
 aggregated:
   project_ids:
     - '5102268'
@@ -30,19 +24,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      To promote peace and good will in the world by helping those in need
-      through the arts.
 title: Siqueiros Foundation of the Arts
-uri: /organizations/siqueiros-foundation-of-the-arts/
 extrapolated_project_ids:
   - '5102268'
 project_titles_from_extrapolated_project_ids:
-  - Paint to Succeed
-project_titles:
-  - Paint to Succeed
-project_titles_from_project_ids:
   - Paint to Succeed
 original_project_titles:
   - 'Paint to Succeed '

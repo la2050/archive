@@ -1,13 +1,10 @@
 ---
 organization_id: '2015221'
-year_submitted: 2015
-organization_name: Urban Word Los Angeles
 organization_website:
   - www.urbanword.org
 ein: '922748922'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=922748922'
-ntee_type: ''
 tags_indicators:
   - Art
   - Teaching & mentorship
@@ -22,9 +19,6 @@ project_video: ''
 org_summary: >-
   Urban Word LA provided diverse platforms for youth to cultivate and share
   their powerful voices.
-areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
-project_ids: '5102336'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
 aggregated:
   project_ids:
     - '5102336'
@@ -32,19 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Urban Word LA provided diverse platforms for youth to cultivate and share
-      their powerful voices.
 title: Urban Word Los Angeles
-uri: /organizations/urban-word-los-angeles/
 extrapolated_project_ids:
   - '5102336'
 project_titles_from_extrapolated_project_ids:
-  - LA Youth Poet Ambassadors
-project_titles:
-  - LA Youth Poet Ambassadors
-project_titles_from_project_ids:
   - LA Youth Poet Ambassadors
 original_project_titles:
   - LA Youth Poet Ambassadors

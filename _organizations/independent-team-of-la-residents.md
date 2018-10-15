@@ -1,13 +1,10 @@
 ---
 organization_id: '2015090'
-year_submitted: 2015
-organization_name: Independent Team of LA Residents
 organization_website:
   - n/a
 ein: '954302067'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-ntee_type: ''
 twitter: n/a
 instagram: n/a
 facebook: n/a
@@ -18,9 +15,6 @@ project_video: ''
 org_summary: >-
   We design community solutions using human-centered design through IDEO.org and
   Acumen.
-areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
-project_ids: '5102140'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/mybucketlistLA.html'
 aggregated:
   project_ids:
     - '5102140'
@@ -28,19 +22,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/mybucketlistLA.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      We design community solutions using human-centered design through IDEO.org
-      and Acumen.
 title: Independent Team of LA Residents
-uri: /organizations/independent-team-of-la-residents/
 extrapolated_project_ids:
   - '5102140'
 project_titles_from_extrapolated_project_ids:
-  - My Bucket List LA
-project_titles:
-  - My Bucket List LA
-project_titles_from_project_ids:
   - My Bucket List LA
 original_project_titles:
   - My Bucket List LA

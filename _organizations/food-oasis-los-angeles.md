@@ -1,13 +1,10 @@
 ---
 organization_id: '2016080'
-year_submitted: 2016
-organization_name: Food Oasis Los Angeles
 organization_website:
   - foodoasis.la
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Access to healthy food
   - Voting & civic engagement
@@ -24,11 +21,6 @@ org_summary: >-
   Food Oasis LA was created to assist local advocacy and increase local
   awareness in solving LA’s food inequality by building a platform to leverage a
   bevy of resources and current web technologies.
-areas_impacted:
-  - County of Los Angeles
-project_ids: '6102070'
-challenge_url: >-
-  https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
 aggregated:
   project_ids:
     - '6102070'
@@ -37,20 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Food Oasis LA was created to assist local advocacy and increase local
-      awareness in solving LA’s food inequality by building a platform to
-      leverage a bevy of resources and current web technologies.
 title: Food Oasis Los Angeles
-uri: /organizations/food-oasis-los-angeles/
 extrapolated_project_ids:
   - '6102070'
 project_titles_from_extrapolated_project_ids:
-  - Connecting People to Healthy Food in Los Angeles
-project_titles:
-  - Connecting People to Healthy Food in Los Angeles
-project_titles_from_project_ids:
   - Connecting People to Healthy Food in Los Angeles
 original_project_titles:
   - Connecting People to Healthy Food in Los Angeles

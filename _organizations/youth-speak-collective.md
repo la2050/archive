@@ -1,13 +1,10 @@
 ---
 organization_id: '2014111'
-year_submitted: 2014
-organization_name: Youth Speak Collective
 organization_website:
   - www.youthspeakmediasolutions.org
 ein: '270126980'
 zip: '91340'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270126980'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
@@ -20,9 +17,6 @@ project_video: ''
 org_summary: >-
   We pair up High School students with freelance working professionals to create
   great videos for nonprofits and businesses.
-areas_impacted: 'Central LA,East LA,South LA,San Fernando Valley,South Bay,Westside'
-project_ids: '4102110'
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
 aggregated:
   project_ids:
     - '4102110'
@@ -33,57 +27,13 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
-  org_summary:
-    - >-
-      We pair up High School students with freelance working professionals to
-      create great videos for nonprofits and businesses.
-    - >-
-      <p>YSC's greatest achievement is actually following through on our
-      youth-driven philosophy. We listen carefully to what the youth want and
-      need and work with them to implement their ideas. This youth/adult
-      collaboration has created effective programs that youth gravitate toward
-      and has brought about the following achievements in just seven short
-      years.</p>
-       
-       
-       
-       
-       
-       <p>â€¢ Project Kawazoe - A drought-tolerant, Japanese-inspired pocket park in Pacoima, designed and built by students in the community. </p>
-       
-       
-       <p>â€¢ Club Futbolito - A free club soccer program for at-risk youth, serving over 1000 players </p>
-       
-       
-       <p>â€¢ Pacoima Neighborhood Partnership â€“ A founding member of a community led forum of over 50 community members, nonprofits, for-profits, elected offices, law enforcement, educators and students who meet monthly to discuss community issues and come up with viable solutions</p>
-       
-       
-       <p>â€¢ Creation of ten murals and developing more in the Northeast San Fernando Valley</p>
-       
-       
-       <p>â€¢ Project Youth Green - a four-acre community garden and activity space in the heart of Pacoima</p>
-       
-       
-       <p>â€¢ Youth Speak Media Solutions - A social enterprise that provides youth with jobs in the digital arts and film industry</p>
-       
-       
-       <p>â€¢ Creation of over twenty marketing films for local businesses and Los Angeles based nonprofits</p>
-       
-       
-       <p>â€¢ Creative Tech Center - An arts center and open computer lab in the Northeast San Fernando Valley</p>
 title: Youth Speak Collective
-uri: /organizations/youth-speak-collective/
 extrapolated_project_ids:
   - '4102266'
   - '3102279'
 project_titles_from_extrapolated_project_ids:
   - SPEAK UP ACROSS LA!
   - 'Future Leaders Initiative  Listen to the Leaders of Tomorrow. '
-project_titles:
-  - 'Future Leaders Initiative  Listen to the Leaders of Tomorrow. '
-  - SPEAK UP ACROSS LA!
-project_titles_from_project_ids:
-  - Lets Build a Life Science Incubator in Los Angeles!
 original_project_titles:
   - 'Future Leaders Initiative - Listen to the Leaders of Tomorrow. '
   - SPEAK UP ACROSS LA!
@@ -91,7 +41,6 @@ original_project_titles:
 original_project_ids:
   - '3102279'
   - '4102266'
-project_titles_flagged: 1
 youtube_video_identifier: poREvQfFFL4
 
 ---

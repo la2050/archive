@@ -1,13 +1,10 @@
 ---
 organization_id: '2016183'
-year_submitted: 2016
-organization_name: Represent
 organization_website:
   - werepresent.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -22,11 +19,6 @@ org_summary: >-
   Represent works to reach equal media representation for marginalized groups by
   training the next generation of media makers at our LA-based Acting & Media
   Arts School free of charge.
-areas_impacted:
-  - County of Los Angeles
-project_ids: '6102197'
-challenge_url: >-
-  https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
 aggregated:
   project_ids:
     - '6102197'
@@ -35,20 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Represent works to reach equal media representation for marginalized
-      groups by training the next generation of media makers at our LA-based
-      Acting & Media Arts School free of charge.
 title: Represent
-uri: /organizations/represent/
 extrapolated_project_ids:
   - '6102197'
 project_titles_from_extrapolated_project_ids:
-  - 'Represent: FREE acting & media arts school for diverse media makers!'
-project_titles:
-  - 'Represent: FREE acting & media arts school for diverse media makers!'
-project_titles_from_project_ids:
   - 'Represent: FREE acting & media arts school for diverse media makers!'
 original_project_titles:
   - 'Represent: FREE acting & media arts school for diverse media makers!'

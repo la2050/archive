@@ -1,13 +1,10 @@
 ---
 organization_id: '2016047'
-year_submitted: 2016
-organization_name: College Bridge
 organization_website:
   - www.college-bridge.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - College prep
   - Education & youth
@@ -21,22 +18,6 @@ project_video: 'https://www.youtube.com/embed/EVn09zI9fe4?rel=0&amp;showinfo=0'
 org_summary: >-
   College Bridge's mission is to increase college access and success for
   underrepresented students in Los Angeles County.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102046'
-challenge_url: >-
-  https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
 aggregated:
   project_ids:
     - '6102046'
@@ -47,15 +28,7 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
-  org_summary:
-    - >-
-      College Bridge's mission is to increase college access and success for
-      underrepresented students in Los Angeles County.
-    - >-
-      The mission of College Bridge is to increase college access and success
-      for under-represented students in Los Angeles County.
 title: College Bridge
-uri: /organizations/college-bridge/
 extrapolated_project_ids:
   - '6102046'
   - '4102041'
@@ -64,13 +37,6 @@ project_titles_from_extrapolated_project_ids:
   - >-
     LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
     Colleges in LA County
-project_titles:
-  - 'Future Focus: College and Career Pathways for LA County Students'
-  - >-
-    LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
-    Colleges in LA County
-project_titles_from_project_ids:
-  - 'Future Focus: College and Career Pathways for LA County Students'
 original_project_titles:
   - 'Future Focus: College and Career Pathways for LA County Students'
   - >-
@@ -79,6 +45,5 @@ original_project_titles:
 original_project_ids:
   - '4102041'
   - '6102046'
-project_titles_flagged: 1
 
 ---

@@ -1,13 +1,10 @@
 ---
 organization_id: '2018083'
-year_submitted: 2018
-organization_name: Miry’s List
 organization_website:
   - www.miryslist.org
 ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
-ntee_type: ''
 tags_indicators:
   - Community gatherings
   - Voting & civic engagement
@@ -22,12 +19,6 @@ org_summary: >-
   Miry’s List is a nonprofit that helps families and individuals resettling in
   the U.S. as refugees by connecting them to the people, things, and services
   they need as they begin their new lives.
-areas_impacted:
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_ids: '8102083'
-challenge_url: 'https://activation.la2050.org/connect/mirys-list/'
 aggregated:
   project_ids:
     - '8102083'
@@ -35,25 +26,14 @@ aggregated:
     - 'https://activation.la2050.org/connect/mirys-list/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      Miry’s List is a nonprofit that helps families and individuals resettling
-      in the U.S. as refugees by connecting them to the people, things, and
-      services they need as they begin their new lives.
 title: Miry’s List
-uri: /organizations/mirys-list/
 extrapolated_project_ids:
   - '8102083'
 project_titles_from_extrapolated_project_ids:
-  - 'Welcome, Neighbor: Making LA the most welcoming place in America'
-project_titles:
-  - 'Welcome, Neighbor: Making LA the most welcoming place in America'
-project_titles_from_project_ids:
   - 'Welcome, Neighbor: Making LA the most welcoming place in America'
 original_project_titles:
   - 'Welcome, Neighbor: Making LA the most welcoming place in America'
 original_project_ids:
   - '8102083'
-category: connect
 
 ---

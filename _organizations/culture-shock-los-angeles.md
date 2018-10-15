@@ -1,13 +1,10 @@
 ---
 organization_id: '2015047'
-year_submitted: 2015
-organization_name: Culture Shock Los Angeles
 organization_website:
   - www.CultureShockLA.org
 ein: '311796801'
 zip: '94611'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -21,11 +18,6 @@ org_summary: >-
   Data Roads Foundation expands access to interconnected networks (or Internets
   for short) by promoting community network ownership, free as in liberty
   software, and free documentation (including legal templates).
-areas_impacted: >-
-  South Bay,County of Los Angeles (countywide),City of Los Angeles
-  (citywide),LAUSD
-project_ids: '5102080'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/C3.html'
 aggregated:
   project_ids:
     - '5102080'
@@ -33,24 +25,13 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/C3.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Data Roads Foundation expands access to interconnected networks (or
-      Internets for short) by promoting community network ownership, free as in
-      liberty software, and free documentation (including legal templates).
 title: Culture Shock Los Angeles
-uri: /organizations/culture-shock-los-angeles/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Community at Home Box
-project_titles_from_project_ids:
-  - Community at Home Box
 original_project_titles:
   - 'C3: Center for Connecting the Community '
 original_project_ids:
   - '5102079'
-project_titles_flagged: 1
 youtube_video_identifier: wmExJ7xdKYc
 
 ---

@@ -1,13 +1,10 @@
 ---
 organization_id: '2016024'
-year_submitted: 2016
-organization_name: Braille Institute of America
 organization_website:
   - www.brailleinstitute.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Disability & aging
   - Mobility
@@ -21,12 +18,6 @@ project_video: ''
 org_summary: >-
   Braille Institute is a nonprofit organization whose mission is to eliminate
   barriers to a fulfilling life caused by blindness and severe sight loss.
-areas_impacted:
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102020'
-challenge_url: >-
-  https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
 aggregated:
   project_ids:
     - '6102020'
@@ -35,24 +26,10 @@ aggregated:
       https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Braille Institute is a nonprofit organization whose mission is to
-      eliminate barriers to a fulfilling life caused by blindness and severe
-      sight loss.
 title: Braille Institute of America
-uri: /organizations/braille-institute-of-america/
 extrapolated_project_ids:
   - '6102020'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Connection Pointe – Technology Education Tools for Blind Teachers and
-    Students
-project_titles:
-  - >-
-    Connection Pointe – Technology Education Tools for Blind Teachers and
-    Students
-project_titles_from_project_ids:
   - >-
     Connection Pointe – Technology Education Tools for Blind Teachers and
     Students

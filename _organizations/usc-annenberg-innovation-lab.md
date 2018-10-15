@@ -1,13 +1,10 @@
 ---
 organization_id: '2016250'
-year_submitted: 2016
-organization_name: USC Annenberg Innovation Lab
 organization_website:
   - annenberglab.com
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Access to parks & green space
   - Community health
@@ -24,12 +21,6 @@ org_summary: >-
   Annenberg Innovation Lab at University of Southern California is a research
   and development hub fostering real-world innovation at the dynamic
   intersection of media and culture.
-areas_impacted:
-  - East LA
-  - Westside
-project_ids: '6102277'
-challenge_url: >-
-  https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
 aggregated:
   project_ids:
     - '6102277'
@@ -38,24 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Annenberg Innovation Lab at University of Southern California is a
-      research and development hub fostering real-world innovation at the
-      dynamic intersection of media and culture.
 title: USC Annenberg Innovation Lab
-uri: /organizations/usc-annenberg-innovation-lab/
 extrapolated_project_ids:
   - '6102277'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    CARPE LA: collaborative augmented reality play experience for families of
-    Los Angeles
-project_titles:
-  - >-
-    CARPE LA: collaborative augmented reality play experience for families of
-    Los Angeles
-project_titles_from_project_ids:
   - >-
     CARPE LA: collaborative augmented reality play experience for families of
     Los Angeles

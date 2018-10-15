@@ -1,13 +1,10 @@
 ---
 organization_id: '2015039'
-year_submitted: 2015
-organization_name: Clinica Msr. Oscar A. Romero
 organization_website:
   - www.clinicaromero.com
 ein: '953881333'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953881333'
-ntee_type: ''
 tags_indicators:
   - Community health
   - Health
@@ -22,9 +19,6 @@ org_summary: >-
   Clinica Romero is a community health center that provides primary care and
   disease prevention services to underserved and underinsured individuals in Los
   Angeles.
-areas_impacted: ''
-project_ids: '5102068'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
 aggregated:
   project_ids:
     - '5102068'
@@ -32,20 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Clinica Romero is a community health center that provides primary care and
-      disease prevention services to underserved and underinsured individuals in
-      Los Angeles.
 title: Clinica Msr. Oscar A. Romero
-uri: /organizations/clinica-msr-oscar-a-romero/
 extrapolated_project_ids:
   - '5102068'
 project_titles_from_extrapolated_project_ids:
-  - Live Well Pico Union
-project_titles:
-  - Live Well Pico Union
-project_titles_from_project_ids:
   - Live Well Pico Union
 original_project_titles:
   - Live Well Pico Union

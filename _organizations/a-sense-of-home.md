@@ -1,13 +1,10 @@
 ---
 organization_id: '2016004'
-year_submitted: 2016
-organization_name: A Sense of Home
 organization_website:
   - asenseofhome.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Affordable housing
   - Housing & homelessness
@@ -21,18 +18,6 @@ project_video: 'https://www.youtube.com/embed/PXXuCduxggc?rel=0&amp;showinfo=0'
 org_summary: >-
   Create homes for foster youth aging out of the system & connect them with a
   loving community who can advance their education, careers & well being.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102003'
-challenge_url: >-
-  https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
 aggregated:
   project_ids:
     - '6102003'
@@ -41,19 +26,10 @@ aggregated:
       https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Create homes for foster youth aging out of the system & connect them with
-      a loving community who can advance their education, careers & well being.
 title: A Sense of Home
-uri: /organizations/a-sense-of-home/
 extrapolated_project_ids:
   - '6102003'
 project_titles_from_extrapolated_project_ids:
-  - Creating a home is a bridge to creating community
-project_titles:
-  - Creating a home is a bridge to creating community
-project_titles_from_project_ids:
   - Creating a home is a bridge to creating community
 original_project_titles:
   - 'Creating a home is a bridge to creating community '
