@@ -1,7 +1,5 @@
 ---
 organization_id: '2018079'
-year_submitted: 2018
-organization_name: MAKE IT IN LA
 organization_website:
   - 'http://makerwalk.com'
   - 'http://lafoodfest.com'
@@ -9,7 +7,6 @@ organization_website:
 ein: '811715988'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=811715988'
-ntee_type: ''
 tags_indicators:
   - Art
   - Creative economy
@@ -33,18 +30,6 @@ org_summary: >-
   MAKE IT IN LA is a community of diverse creators who turn their passions into
   products in L.A.; our content, connections and programming help entrepreneurs
   create products and brands that matter.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-  - 'Long Beach, Pasadena, and other neighborhoods TBD'
-project_ids: '8102079'
-challenge_url: 'https://activation.la2050.org/create/make-it-in-la/'
 aggregated:
   project_ids:
     - '8102079'
@@ -55,33 +40,13 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
-  org_summary:
-    - >-
-      MAKE IT IN LA is a community of diverse creators who turn their passions
-      into products in L.A.; our content, connections and programming help
-      entrepreneurs create products and brands that matter.
-    - >-
-      Make it in LA connects and celebrates the entrepreneurial ecosystem for
-      making things in LA.
 title: MAKE IT IN LA
-uri: /organizations/make-it-in-la/
 extrapolated_project_ids:
   - '5102201'
 project_titles_from_extrapolated_project_ids:
   - >-
     Make it in LA – help connect and celebrate LA’s entrepreneurial ecosystem
     for making things
-project_titles:
-  - >-
-    Make it in LA – help connect and celebrate LA’s entrepreneurial ecosystem
-    for making things
-  - >-
-    Maker Walk: behind-the-scenes look at locally-made brands and factories
-    around LA
-project_titles_from_project_ids:
-  - >-
-    Maker Walk: behind-the-scenes look at locally-made brands and factories
-    around LA
 original_project_titles:
   - >-
     Make it in LA – help connect and celebrate LA’s entrepreneurial ecosystem
@@ -92,7 +57,5 @@ original_project_titles:
 original_project_ids:
   - '5102201'
   - '8102079'
-project_titles_flagged: 1
-category: create
 
 ---

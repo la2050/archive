@@ -1,13 +1,10 @@
 ---
 organization_id: '2013028'
-year_submitted: 2013
-organization_name: California Greenworks
 organization_website:
   - www.californiagreenworks.org
 ein: '10574486'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=10574486'
-ntee_type: ''
 tags_indicators:
   - Access to parks & green space
   - Air & water
@@ -57,9 +54,6 @@ org_summary: >-
    
    
    - Water Links! Urban Youth Watershed Education Program — An environmental education program that links the urban watershed to the ocean, targeted to the 5th grade student. This 4-week pilot program raises awareness for environmental stewardship, pollution prevention, and water conservation within the urban communities.
-areas_impacted: ''
-project_ids: '3102050'
-challenge_url: 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
 aggregated:
   project_ids:
     - '3102050'
@@ -67,17 +61,10 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
   year_submitted:
     - '2013'
-  org_summary:
-    - "California Greenworks has established itself as one of the premier environmental groups within South Los Angeles. California Greenworks directs its efforts to the at-risk communities in South Los Angeles. Our projects revolve around environmental education programs, revitalization of urban open spaces to reduce blight, promotion of water quality and advocacy for green jobs. \n \n \n \n \n \n The following are a few of California Greenworks programs and initiatives:\n \n \n \n \n \n - EarthFestLA â€“ Annual Concert for the Environment & Expo â€“ Beginning in 2006, California Greenworks produced its first environmental fair in the City of Watts, then called â€œSouth LA Earth Day Festival.â€\x9D Since then, EarthFestLA has become an annual, family-oriented event focusing on environmental education and community health awareness. Website for EarthFest LA 2012: www.EarthFestLA.org.\n \n \n \n \n \n - Community-based Energy Efficiency Water Outreach Program (through the Los Angeles Department of Water & Power) - California Greenworks received a 2013 $45,000 grant to do an extensive grassroots outreach effort to spread information about energy efficiency and water conservation to LADWP customers in South Los Angeles.\n \n \n \n \n \n - Compton Creek Watershed Pollution Prevention Partnership Program â€“ This first-of-its-kind watershed pollution prevention partnership is a two-year project sponsored by the Regional Water Quality Control Board, geared to raise community awareness of watershed pollution prevention. Polluted water and trash flowing into storm drains is the greatest danger to the well-being of birds and animals that live in the coastal wetlands drained by Compton Creek Watershed. The partnership provides a low impact solution by installing storm drain catch basins and screens preventing trash from entering the waterways.\n \n \n \n \n \n - Water Links! Urban Youth Watershed Education Program â€“ An environmental education program that links the urban watershed to the ocean, targeted to the 5th grade student. This 4-week pilot program raises awareness for environmental stewardship, pollution prevention, and water conservation within the urban communities."
 title: California Greenworks
-uri: /organizations/california-greenworks/
 extrapolated_project_ids:
   - '3102050'
 project_titles_from_extrapolated_project_ids:
-  - The Million Reusable Bag Giveaway
-project_titles:
-  - The Million Reusable Bag Giveaway
-project_titles_from_project_ids:
   - The Million Reusable Bag Giveaway
 original_project_titles:
   - The Million Reusable Bag Giveaway

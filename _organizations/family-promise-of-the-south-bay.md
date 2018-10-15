@@ -1,13 +1,10 @@
 ---
 organization_id: '2018039'
-year_submitted: 2018
-organization_name: Family Promise of the South Bay
 organization_website:
   - www.TinyCitiesLA.com
 ein: '452812002'
 zip: '90018'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452812002'
-ntee_type: ''
 tags_indicators:
   - Homelessness
   - Housing & homelessness
@@ -22,12 +19,6 @@ org_summary: >-
   We are working to build tiny cities for the homeless through our partners: a
   refurbisher of cargo containers, the architecture group at LATTC, and the
   director of an agency that serves the homeless.
-areas_impacted:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-project_ids: '8102039'
-challenge_url: 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
 aggregated:
   project_ids:
     - '8102039'
@@ -35,23 +26,12 @@ aggregated:
     - 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      We are working to build tiny cities for the homeless through our partners:
-      a refurbisher of cargo containers, the architecture group at LATTC, and
-      the director of an agency that serves the homeless.
 title: Family Promise of the South Bay
-uri: /organizations/family-promise-of-the-south-bay/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - TINY CITIES FOR L.A.’S HOMELESS
-project_titles_from_project_ids:
-  - TINY CITIES FOR L.A.â€™S HOMELESS
 original_project_titles:
   - TINY CITIES FOR L.A.’S HOMELESS
 original_project_ids:
   - '8102039'
-category: live
 
 ---

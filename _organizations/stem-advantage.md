@@ -1,13 +1,10 @@
 ---
 organization_id: '2016202'
-year_submitted: 2016
-organization_name: STEM Advantage
 organization_website:
   - www.stemadvantage.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - STEM & Digital literacy
   - Teaching & mentorship
@@ -23,16 +20,6 @@ org_summary: >-
   STEM Advantage mentors, prepares and inspires young women and underserved
   communities to pursue careers in science, technology, engineering and math
   through paid internships, mentors and scholarships.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - County of Los Angeles
-project_ids: '6102218'
-challenge_url: >-
-  https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
 aggregated:
   project_ids:
     - '6102218'
@@ -41,20 +28,10 @@ aggregated:
       https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      STEM Advantage mentors, prepares and inspires young women and underserved
-      communities to pursue careers in science, technology, engineering and math
-      through paid internships, mentors and scholarships.
 title: STEM Advantage
-uri: /organizations/stem-advantage/
 extrapolated_project_ids:
   - '6102218'
 project_titles_from_extrapolated_project_ids:
-  - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
-project_titles:
-  - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
-project_titles_from_project_ids:
   - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
 original_project_titles:
   - 'STEM Advantage: Today''s students, tomorrow''s innovators!'

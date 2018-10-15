@@ -1,13 +1,10 @@
 ---
 organization_id: '2015210'
-year_submitted: 2015
-organization_name: 'TheLab, Inc'
 organization_website:
   - 'http://www.thel4b.com/'
 ein: '452390782'
 zip: '91101'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452390782'
-ntee_type: ''
 tags_indicators:
   - STEM & Digital literacy
   - Education & youth
@@ -23,9 +20,6 @@ org_summary: >-
   Caltech PhD biologist, is to make science accessible to all of LA by providing
   lab equipment and workspace, offering classes and organizing events to
   exchange ideas.
-areas_impacted: 'San Gabriel Valley,City of Los Angeles (citywide)'
-project_ids: '5102315'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/thelab.html'
 aggregated:
   project_ids:
     - '5102315'
@@ -33,21 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/thelab.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      The mission of the TheLab, founded by university scientists and now lead
-      by a Caltech PhD biologist, is to make science accessible to all of LA by
-      providing lab equipment and workspace, offering classes and organizing
-      events to exchange ideas.
 title: 'TheLab, Inc'
-uri: /organizations/thelab-inc/
 extrapolated_project_ids:
   - '5102315'
 project_titles_from_extrapolated_project_ids:
-  - 'TheLab: LA’s Place for Scientific Exploration'
-project_titles:
-  - 'TheLab: LA’s Place for Scientific Exploration'
-project_titles_from_project_ids:
   - 'TheLab: LA’s Place for Scientific Exploration'
 original_project_titles:
   - 'TheLab: LA’s Place for Scientific Exploration'

@@ -1,13 +1,10 @@
 ---
 organization_id: '2015102'
-year_submitted: 2015
-organization_name: JVS Los Angeles
 organization_website:
   - www.jvsla.org
 ein: '951691012'
 zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951691012'
-ntee_type: ''
 tags_indicators:
   - Workforce development
   - Income & employment
@@ -22,9 +19,6 @@ org_summary: >-
   job training, mentoring and education, combined with expert career guidance
   and employer partnerships, transforming lives and lifting families out of
   poverty.
-areas_impacted: County of Los Angeles (countywide)
-project_ids: '5102156'
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'
 aggregated:
   project_ids:
     - '5102156'
@@ -32,24 +26,12 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      JVS Los Angeles offers hope and opportunity to our diverse community
-      through job training, mentoring and education, combined with expert career
-      guidance and employer partnerships, transforming lives and lifting
-      families out of poverty.
 title: JVS Los Angeles
-uri: /organizations/jvs-los-angeles/
 extrapolated_project_ids:
   - '5102156'
   - '5102157'
 project_titles_from_extrapolated_project_ids:
   - 'JVS Works: Creating Hope and Opportunity'
-  - 'JVS Works: Creating Hope and Opportunity'
-project_titles:
-  - 'JVS Works: Creating Hope and Opportunity'
-  - 'JVS Works: Creating Hope and Opportunity'
-project_titles_from_project_ids:
   - 'JVS Works: Creating Hope and Opportunity'
 original_project_titles:
   - 'JVS Works:  Creating Hope and Opportunity'
@@ -57,7 +39,6 @@ original_project_titles:
 original_project_ids:
   - '5102156'
   - '5102156'
-project_titles_flagged: 1
 youtube_video_identifier: iQpQqqot8AQ
 
 ---

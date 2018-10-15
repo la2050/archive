@@ -1,13 +1,10 @@
 ---
 organization_id: '2015167'
-year_submitted: 2015
-organization_name: Reframe Labs
 organization_website:
   - www.reframelabs.org
 ein: pending from IRS
 zip: '90403'
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - STEM & Digital literacy
@@ -22,9 +19,6 @@ project_video: ''
 org_summary: >-
   Reframe is a nonprofit that trains leaders to launch new and redesigned next
   generation school models in Los Angeles.
-areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
-project_ids: '5102251'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
 aggregated:
   project_ids:
     - '5102251'
@@ -32,23 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Reframe is a nonprofit that trains leaders to launch new and redesigned
-      next generation school models in Los Angeles.
 title: Reframe Labs
-uri: /organizations/reframe-labs/
 extrapolated_project_ids:
   - '5102251'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Training leaders to launch new and redesigned next generation schools in Los
-    Angeles
-project_titles:
-  - >-
-    Training leaders to launch new and redesigned next generation schools in Los
-    Angeles
-project_titles_from_project_ids:
   - >-
     Training leaders to launch new and redesigned next generation schools in Los
     Angeles

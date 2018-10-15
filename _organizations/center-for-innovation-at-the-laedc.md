@@ -1,13 +1,10 @@
 ---
 organization_id: '2015028'
-year_submitted: 2015
-organization_name: Center for Innovation at the LAEDC
 organization_website:
   - www.innovate.la
 ein: '953643339'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953643339'
-ntee_type: ''
 tags_indicators:
   - Entrepreneurship & innovation
   - Access to capital & benefits
@@ -24,9 +21,6 @@ org_summary: >-
   Center for Innovation showcases and promotes LA County as a leading global
   center for innovation and entrepreneurship rooted in boundless creativity and
   diversity.
-areas_impacted: County of Los Angeles (countywide)
-project_ids: '5102048'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/InnovateLA.html'
 aggregated:
   project_ids:
     - '5102048'
@@ -34,25 +28,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/InnovateLA.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Headquartered at the Los Angeles County Economic Development Corporation,
-      the Center for Innovation showcases and promotes LA County as a leading
-      global center for innovation and entrepreneurship rooted in boundless
-      creativity and diversity.
 title: Center for Innovation at the LAEDC
-uri: /organizations/center-for-innovation-at-the-laedc/
 extrapolated_project_ids:
   - '5102048'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Lets Build Bridges Between Communities And Our Dream LA By Celebrating LA
-    County Innovation Broadly
-project_titles:
-  - >-
-    Lets Build Bridges Between Communities And Our Dream LA By Celebrating LA
-    County Innovation Broadly
-project_titles_from_project_ids:
   - >-
     Lets Build Bridges Between Communities And Our Dream LA By Celebrating LA
     County Innovation Broadly

@@ -1,13 +1,10 @@
 ---
 organization_id: '2018067'
-year_submitted: 2018
-organization_name: LawMaker.io
 organization_website:
   - 'https://lawmaker.io/'
 ein: '472178446'
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472178446'
-ntee_type: ''
 tags_indicators:
   - Homelessness
   - Voting & civic engagement
@@ -23,12 +20,6 @@ org_summary: >-
   LawMaker.io gives voters the power to crowdsource new policies that are
   important to them and build coalitions of support to effectively engaged their
   elected officials to turn good ideas into laws.
-areas_impacted:
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_ids: '8102067'
-challenge_url: 'https://activation.la2050.org/connect/lawmaker-io/'
 aggregated:
   project_ids:
     - '8102067'
@@ -36,24 +27,10 @@ aggregated:
     - 'https://activation.la2050.org/connect/lawmaker-io/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      LawMaker.io gives voters the power to crowdsource new policies that are
-      important to them and build coalitions of support to effectively engaged
-      their elected officials to turn good ideas into laws.
 title: LawMaker.io
-uri: /organizations/lawmaker-io/
 extrapolated_project_ids:
   - '8102067'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
-    Solve Homelessness in LA
-project_titles:
-  - >-
-    LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
-    Solve Homelessness in LA
-project_titles_from_project_ids:
   - >-
     LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
     Solve Homelessness in LA
@@ -63,6 +40,5 @@ original_project_titles:
     Solve Homelessness in LA
 original_project_ids:
   - '8102067'
-category: connect
 
 ---

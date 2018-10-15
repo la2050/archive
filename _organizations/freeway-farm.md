@@ -1,13 +1,10 @@
 ---
 organization_id: '2015067'
-year_submitted: 2015
-organization_name: Freeway Farm
 organization_website:
   - www.freewayfarm.com
 ein: '475285481'
 zip: '91103'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475285481'
-ntee_type: ''
 tags_indicators:
   - Access to parks & green space
   - Public safety & public space
@@ -22,9 +19,6 @@ org_summary: >-
   Freeway Farm is interested in transforming the under-utilised peri-freeway
   spaces into a visible and visceral way for Angelenos to connect to their food
   source.
-areas_impacted: County of Los Angeles (countywide)
-project_ids: '5102105'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/FreewayFarm.html'
 aggregated:
   project_ids:
     - '5102105'
@@ -32,20 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/FreewayFarm.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Freeway Farm is interested in transforming the under-utilised peri-freeway
-      spaces into a visible and visceral way for Angelenos to connect to their
-      food source.
 title: Freeway Farm
-uri: /organizations/freeway-farm/
 extrapolated_project_ids:
   - '5102105'
 project_titles_from_extrapolated_project_ids:
-  - Freeway Farm Green Infrastructure Pilot Project
-project_titles:
-  - Freeway Farm Green Infrastructure Pilot Project
-project_titles_from_project_ids:
   - Freeway Farm Green Infrastructure Pilot Project
 original_project_titles:
   - Freeway Farm Green Infrastructure Pilot Project

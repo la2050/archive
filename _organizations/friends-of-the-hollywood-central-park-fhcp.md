@@ -1,13 +1,10 @@
 ---
 organization_id: '2015068'
-year_submitted: 2015
-organization_name: Friends of the Hollywood Central Park (FHCP)
 organization_website:
   - hollywoodcentralpark.org
 ein: '264236328'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264236328'
-ntee_type: ''
 tags_indicators:
   - Access to parks & green space
   - Public safety & public space
@@ -22,9 +19,6 @@ org_summary: >-
   (creating a tunnel for freeway traffic). The Park will promote active
   lifestyles and improve health with its environmental, recreational and
   aesthetic benefits.
-areas_impacted: 'Central LA,Other (please specify below):'
-project_ids: '5102106'
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'
 aggregated:
   project_ids:
     - '5102106'
@@ -32,21 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      FHCP will build a 38-acre Hollywood Central Park by decking one mile of US
-      101 (creating a tunnel for freeway traffic). The Park will promote active
-      lifestyles and improve health with its environmental, recreational and
-      aesthetic benefits.
 title: Friends of the Hollywood Central Park (FHCP)
-uri: /organizations/friends-of-the-hollywood-central-park-fhcp/
 extrapolated_project_ids:
   - '5102106'
 project_titles_from_extrapolated_project_ids:
-  - Hollywood Central Park proves that LA is the Best Place to Play
-project_titles:
-  - Hollywood Central Park proves that LA is the Best Place to Play
-project_titles_from_project_ids:
   - Hollywood Central Park proves that LA is the Best Place to Play
 original_project_titles:
   - Hollywood Central Park proves that LA is the Best Place to Play

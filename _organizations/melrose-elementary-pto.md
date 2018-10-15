@@ -1,13 +1,10 @@
 ---
 organization_id: '2016146'
-year_submitted: 2016
-organization_name: Melrose Elementary PTO
 organization_website:
   - www.melrosestars.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Early childhood
   - STEM & Digital literacy
@@ -23,11 +20,6 @@ org_summary: >-
   Through community engagement, volunteer support, and fundraising we create a
   supportive, technologically-rich environment where diverse students work
   collaboratively with creativity and innovation.
-areas_impacted:
-  - LAUSD
-project_ids: '6102153'
-challenge_url: >-
-  https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
 aggregated:
   project_ids:
     - '6102153'
@@ -36,20 +28,10 @@ aggregated:
       https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Through community engagement, volunteer support, and fundraising we create
-      a supportive, technologically-rich environment where diverse students work
-      collaboratively with creativity and innovation.
 title: Melrose Elementary PTO
-uri: /organizations/melrose-elementary-pto/
 extrapolated_project_ids:
   - '6102153'
 project_titles_from_extrapolated_project_ids:
-  - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
-project_titles:
-  - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
-project_titles_from_project_ids:
   - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
 original_project_titles:
   - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'

@@ -1,13 +1,10 @@
 ---
 organization_id: '2016114'
-year_submitted: 2016
-organization_name: Jobs to Move America
 organization_website:
   - jobstomoveamerica.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Entrepreneurship & innovation
   - Climate change
@@ -24,17 +21,6 @@ org_summary: >-
   Jobs to Move America (JMA) is a national organization- headquartered in
   LA-dedicated to re-invigorating our manufacturing economy through good jobs &
   opportunities for all
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102109'
-challenge_url: >-
-  https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
 aggregated:
   project_ids:
     - '6102109'
@@ -43,20 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Jobs to Move America (JMA) is a national organization- headquartered in
-      LA-dedicated to re-invigorating our manufacturing economy through good
-      jobs & opportunities for all
 title: Jobs to Move America
-uri: /organizations/jobs-to-move-america/
 extrapolated_project_ids:
   - '6102109'
 project_titles_from_extrapolated_project_ids:
-  - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
-project_titles:
-  - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
-project_titles_from_project_ids:
   - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
 original_project_titles:
   - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'

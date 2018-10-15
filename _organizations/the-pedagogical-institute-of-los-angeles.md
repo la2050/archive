@@ -1,13 +1,10 @@
 ---
 organization_id: '2016229'
-year_submitted: 2016
-organization_name: The Pedagogical Institute of Los Angeles
 organization_website:
   - www.thinkwithus.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
@@ -22,14 +19,6 @@ org_summary: >-
   The Pedagogical Institute promotes the exchange of ideas, research and
   inspiration amongst early childhood educators throughout the world with the
   goal of providing quality education to ALL children.
-areas_impacted:
-  - Central LA
-  - East LA
-  - South LA
-  - LAUSD
-project_ids: '6102253'
-challenge_url: >-
-  https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
 aggregated:
   project_ids:
     - '6102253'
@@ -38,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      The Pedagogical Institute promotes the exchange of ideas, research and
-      inspiration amongst early childhood educators throughout the world with
-      the goal of providing quality education to ALL children.
 title: The Pedagogical Institute of Los Angeles
-uri: /organizations/the-pedagogical-institute-of-los-angeles/
 extrapolated_project_ids:
   - '6102253'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Collaborative Teacher Project: igniting curiosity through innovative
-    classrooms & teacher mentoring
-project_titles:
-  - >-
-    Collaborative Teacher Project: igniting curiosity through innovative
-    classrooms & teacher mentoring
-project_titles_from_project_ids:
   - >-
     Collaborative Teacher Project: igniting curiosity through innovative
     classrooms & teacher mentoring

@@ -1,13 +1,10 @@
 ---
 organization_id: '2018042'
-year_submitted: 2018
-organization_name: Future America
 organization_website:
   - www.futureamerica.com
 ein: '954425671'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954425671'
-ntee_type: ''
 tags_indicators:
   - Art
   - Teaching & mentorship
@@ -23,15 +20,6 @@ project_video: 'https://youtu.be/bbNl_ikc93g'
 org_summary: >-
   The LJYE.com provides ensemble and performance training FREE for musicians
   10-17 and records original music is expanding to Los Angeles.
-areas_impacted:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_ids: '8102042'
-challenge_url: 'https://activation.la2050.org/learn/future-america/'
 aggregated:
   project_ids:
     - '8102042'
@@ -39,28 +27,14 @@ aggregated:
     - 'https://activation.la2050.org/learn/future-america/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      The LJYE.com provides ensemble and performance training FREE for musicians
-      10-17 and records original music is expanding to Los Angeles.
 title: Future America
-uri: /organizations/future-america/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
-    Ensemble of SF. LJYE.com
-project_titles_from_project_ids:
-  - >-
-    The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
-    Ensemble of SF. LJYE.com
 original_project_titles:
   - >-
     The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
     Ensemble of SF. LJYE.com
 original_project_ids:
   - '8102042'
-category: learn
 
 ---

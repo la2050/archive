@@ -1,13 +1,10 @@
 ---
 organization_id: '2015142'
-year_submitted: 2015
-organization_name: National Park Foundation
 organization_website:
   - www.nationalparks.org
 ein: '521086761'
 zip: '20005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521086761'
-ntee_type: ''
 tags_indicators:
   - Access to parks & green space
   - Public safety & public space
@@ -23,9 +20,6 @@ org_summary: >-
   protect natural and cultural resources; connect all Americans with their
   national parks; and inspire lifelong engagement with the next generation of
   national park stewards.
-areas_impacted: 'County of Los Angeles (countywide),LAUSD'
-project_ids: '5102217'
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/everykidinapark.html'
 aggregated:
   project_ids:
     - '5102217'
@@ -33,21 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/everykidinapark.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      NPF directly supports America’s 408 national parks through projects that
-      protect natural and cultural resources; connect all Americans with their
-      national parks; and inspire lifelong engagement with the next generation
-      of national park stewards.
 title: National Park Foundation
-uri: /organizations/national-park-foundation/
 extrapolated_project_ids:
   - '5102217'
 project_titles_from_extrapolated_project_ids:
-  - Every Kid in a Park in Los Angeles
-project_titles:
-  - Every Kid in a Park in Los Angeles
-project_titles_from_project_ids:
   - Every Kid in a Park in Los Angeles
 original_project_titles:
   - Every Kid in a Park in Los Angeles

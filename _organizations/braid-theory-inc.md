@@ -1,13 +1,10 @@
 ---
 organization_id: '2016023'
-year_submitted: 2016
-organization_name: 'Braid Theory, Inc.'
 organization_website:
   - www.braidtheory.com
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Entrepreneurship & innovation
   - Income & employment
@@ -22,12 +19,6 @@ org_summary: >-
   Braid Theory weaves together entrepreneurs, investors and industry influencers
   to accelerate adoption of transformative technologies, drive market growth and
   create profitable collaborations.
-areas_impacted:
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102086'
-challenge_url: >-
-  https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
 aggregated:
   project_ids:
     - '6102086'
@@ -36,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Braid Theory weaves together entrepreneurs, investors and industry
-      influencers to accelerate adoption of transformative technologies, drive
-      market growth and create profitable collaborations.
 title: 'Braid Theory, Inc.'
-uri: /organizations/braid-theory-inc/
 extrapolated_project_ids:
   - '6102086'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    IGNITE22: A tech expo and collaborative experience celebrating innovations
-    shaping the 22nd century
-project_titles:
-  - >-
-    IGNITE22: A tech expo and collaborative experience celebrating innovations
-    shaping the 22nd century
-project_titles_from_project_ids:
   - >-
     IGNITE22: A tech expo and collaborative experience celebrating innovations
     shaping the 22nd century

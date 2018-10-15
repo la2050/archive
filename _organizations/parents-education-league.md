@@ -1,13 +1,10 @@
 ---
 organization_id: '2016162'
-year_submitted: 2016
-organization_name: Parents Education League
 organization_website:
   - www.parentseducationleague.org
 ein: '264510950'
 zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264510950'
-ntee_type: ''
 tags_indicators:
   - Early childhood
   - Education & youth
@@ -22,11 +19,6 @@ org_summary: >-
   PEL is a grassroots non-profit and non-political organization whose mission is
   to help educate families about their school choices, from preschool through
   12th grade.
-areas_impacted:
-  - City of Los Angeles
-project_ids: '6102174'
-challenge_url: >-
-  https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
 aggregated:
   project_ids:
     - '6102174'
@@ -38,17 +30,7 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      PEL is a grassroots non-profit and non-political organization whose
-      mission is to help educate families about their school choices, from
-      preschool through 12th grade.
-    - >-
-      PEL provides objective, current, and comprehensive access and
-      opportunities for families to discover the most fitting schools and
-      learning environments for their children—from preschool to grade 12.
 title: Parents Education League
-uri: /organizations/parents-education-league/
 extrapolated_project_ids:
   - '6102174'
   - '5102229'
@@ -59,23 +41,11 @@ project_titles_from_extrapolated_project_ids:
   - >-
     Parents Education League of LA: Creating Your Go-To School Resource & Parent
     Network
-project_titles:
-  - >-
-    Early Childhood Education Options: Using Public Service Mini-Courses to
-    Educate and Empower Families
-  - >-
-    Parents Education League of LA: Creating Your Go-To School Resource & Parent
-    Network
-project_titles_from_project_ids:
-  - >-
-    Early Childhood Education Options: Using Public Service Mini-Courses to
-    Educate and Empower Families
 original_project_titles:
   - >-
     Early Childhood Education Options: Using Public Service Mini-Courses to
     Educate and Empower Families
 original_project_ids:
   - '6102174'
-project_titles_flagged: 1
 
 ---

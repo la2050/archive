@@ -1,13 +1,10 @@
 ---
 organization_id: '2015122'
-year_submitted: 2015
-organization_name: Los Angeles County Economic Development Corporation
 organization_website:
   - 'http://laedc.org/'
 ein: '953643339'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953643339'
-ntee_type: ''
 tags_indicators:
   - Workforce development
   - Entrepreneurship & innovation
@@ -23,12 +20,6 @@ org_summary: >-
   As LA County’s designated economic development leadership organization for
   over 34 years, the LAEDC’s purpose is to improve standards of living for LA
   County’s residents by growing overall economic prosperity.
-areas_impacted: >-
-  Central LA,East LA,San Gabriel Valley,San Fernando Valey,South
-  LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
-  of Los Angeles (citywide),Other (please specify below):
-project_ids: '5102187'
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
 aggregated:
   project_ids:
     - '5102187'
@@ -36,20 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      As LA County’s designated economic development leadership organization for
-      over 34 years, the LAEDC’s purpose is to improve standards of living for
-      LA County’s residents by growing overall economic prosperity.
 title: Los Angeles County Economic Development Corporation
-uri: /organizations/los-angeles-county-economic-development-corporation/
 extrapolated_project_ids:
   - '5102187'
 project_titles_from_extrapolated_project_ids:
-  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
-project_titles:
-  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
-project_titles_from_project_ids:
   - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
 original_project_titles:
   - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020 '

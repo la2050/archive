@@ -1,13 +1,10 @@
 ---
 organization_id: '2016144'
-year_submitted: 2016
-organization_name: Maiden LA
 organization_website:
   - maiden.la
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Creative economy
   - Community gatherings
@@ -23,21 +20,6 @@ project_video: 'https://www.youtube.com/embed/Qy7qio56M78?rel=0&amp;showinfo=0'
 org_summary: >-
   Maiden LA is a decentralized county-wide program that encourages, maps and
   connects art-related events annually.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102151'
-challenge_url: >-
-  https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
 aggregated:
   project_ids:
     - '6102151'
@@ -46,19 +28,10 @@ aggregated:
       https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Maiden LA is a decentralized county-wide program that encourages, maps and
-      connects art-related events annually.
 title: Maiden LA
-uri: /organizations/maiden-la/
 extrapolated_project_ids:
   - '6102151'
 project_titles_from_extrapolated_project_ids:
-  - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
-project_titles:
-  - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
-project_titles_from_project_ids:
   - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
 original_project_titles:
   - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'

@@ -1,13 +1,10 @@
 ---
 organization_id: '2015125'
-year_submitted: 2015
-organization_name: Los Angeles Maritime Institute
 organization_website:
   - www.LAMITopSail.org
 ein: '330515416'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330515416'
-ntee_type: ''
 tags_indicators:
   - Fitness & sports
   - Health
@@ -22,9 +19,6 @@ org_summary: >-
   “learning by doing” experiences at sea aboard our tall ships, instilling the
   academic skills needed to graduate from high school and fostering a love for
   lifelong learning.
-areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
-project_ids: '5102190'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
 aggregated:
   project_ids:
     - '5102190'
@@ -32,21 +26,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      We empower youth to discover their greater potential through extraordinary
-      “learning by doing” experiences at sea aboard our tall ships, instilling
-      the academic skills needed to graduate from high school and fostering a
-      love for lifelong learning.
 title: Los Angeles Maritime Institute
-uri: /organizations/los-angeles-maritime-institute/
 extrapolated_project_ids:
   - '5102190'
 project_titles_from_extrapolated_project_ids:
-  - Adventure Education Aboard L.A.s Official Tall Ships
-project_titles:
-  - Adventure Education Aboard L.A.s Official Tall Ships
-project_titles_from_project_ids:
   - Adventure Education Aboard L.A.s Official Tall Ships
 original_project_titles:
   - Adventure Education Aboard L.A.'s Official Tall Ships

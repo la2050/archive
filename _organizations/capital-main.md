@@ -1,13 +1,10 @@
 ---
 organization_id: '2016035'
-year_submitted: 2016
-organization_name: Capital & Main
 organization_website:
   - capitalandmain.com
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
@@ -22,22 +19,6 @@ org_summary: >-
   Capital & Main is an award-winning online publication that reports from
   California on the most pressing economic, environmental and social issues of
   our time.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102031'
-challenge_url: >-
-  https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
 aggregated:
   project_ids:
     - '6102031'
@@ -46,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Capital & Main is an award-winning online publication that reports from
-      California on the most pressing economic, environmental and social issues
-      of our time.
 title: Capital & Main
-uri: /organizations/capital-main/
 extrapolated_project_ids:
   - '6102031'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
-    Change Makers
-project_titles:
-  - >-
-    To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
-    Change Makers
-project_titles_from_project_ids:
   - >-
     To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
     Change Makers

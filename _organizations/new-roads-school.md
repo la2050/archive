@@ -1,13 +1,10 @@
 ---
 organization_id: '2016158'
-year_submitted: 2016
-organization_name: New Roads School
 organization_website:
   - newroads.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Voting & civic engagement
@@ -24,13 +21,6 @@ org_summary: >-
   New Roads School is a college prep program with a unique focus on social
   justice and the arts, from which a richly diverse student population develops
   independent thinking and expanding curiosity.
-areas_impacted:
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-project_ids: '6102167'
-challenge_url: >-
-  https://challenge.la2050.org/entry/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future
 aggregated:
   project_ids:
     - '6102167'
@@ -39,24 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      New Roads School is a college prep program with a unique focus on social
-      justice and the arts, from which a richly diverse student population
-      develops independent thinking and expanding curiosity.
 title: New Roads School
-uri: /organizations/new-roads-school/
 extrapolated_project_ids:
   - '6102167'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
-    collective future
-project_titles:
-  - >-
-    UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
-    collective future
-project_titles_from_project_ids:
   - >-
     UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
     collective future

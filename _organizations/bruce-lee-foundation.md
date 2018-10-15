@@ -1,13 +1,10 @@
 ---
 organization_id: '2015022'
-year_submitted: 2015
-organization_name: Bruce Lee Foundation
 organization_website:
   - www.bruceleefoundation.org
 ein: '43657544'
 zip: '90049'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=43657544'
-ntee_type: ''
 tags_indicators:
   - Fitness & sports
   - Health
@@ -21,9 +18,6 @@ org_summary: >-
   We are the only not-for-profit organization dedicated to sharing Bruce Lee’s
   insights with the world by creating opportunities for individuals and applying
   his message as a personal call to action.
-areas_impacted: County of Los Angeles (countywide)
-project_ids: '5102036'
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
 aggregated:
   project_ids:
     - '5102036'
@@ -31,20 +25,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      We are the only not-for-profit organization dedicated to sharing Bruce
-      Lee’s insights with the world by creating opportunities for individuals
-      and applying his message as a personal call to action.
 title: Bruce Lee Foundation
-uri: /organizations/bruce-lee-foundation/
 extrapolated_project_ids:
   - '5102036'
 project_titles_from_extrapolated_project_ids:
-  - Bruce Lees Little Dragons
-project_titles:
-  - Bruce Lees Little Dragons
-project_titles_from_project_ids:
   - Bruce Lees Little Dragons
 original_project_titles:
   - Bruce Lee's Little Dragons

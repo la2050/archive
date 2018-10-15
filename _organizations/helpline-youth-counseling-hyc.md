@@ -1,13 +1,10 @@
 ---
 organization_id: '2016098'
-year_submitted: 2016
-organization_name: Helpline Youth Counseling (HYC)
 organization_website:
   - hycinc.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Access to parks & green space
   - Climate change
@@ -24,11 +21,6 @@ org_summary: >-
   HYC helps at-risk, low-income children, youth, and families develop their
   strengths and build skills and support networks through education, counseling,
   advocacy, and the utilization of resources.
-areas_impacted:
-  - Gateway Cities
-project_ids: '6102090'
-challenge_url: >-
-  https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
 aggregated:
   project_ids:
     - '6102090'
@@ -37,24 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      HYC helps at-risk, low-income children, youth, and families develop their
-      strengths and build skills and support networks through education,
-      counseling, advocacy, and the utilization of resources.
 title: Helpline Youth Counseling (HYC)
-uri: /organizations/helpline-youth-counseling-hyc/
 extrapolated_project_ids:
   - '6102090'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Conservation Pathways: Environmental Education and Careers for Tomorrow's
-    Leaders
-project_titles:
-  - >-
-    Conservation Pathways: Environmental Education and Careers for Tomorrow's
-    Leaders
-project_titles_from_project_ids:
   - >-
     Conservation Pathways: Environmental Education and Careers for Tomorrow's
     Leaders

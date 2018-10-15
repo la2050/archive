@@ -1,13 +1,10 @@
 ---
 organization_id: '2016205'
-year_submitted: 2016
-organization_name: T4T.org
 organization_website:
   - www.t4t.org
 ein: '562464067'
 zip: '90249'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562464067'
-ntee_type: ''
 tags_indicators:
   - STEM & Digital literacy
   - Education & youth
@@ -22,18 +19,6 @@ org_summary: >-
   T4T.org inspires the next generation of Scientists, Technology experts,
   Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste
   - nurturing environmental stewardship.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - South LA
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102227'
-challenge_url: >-
-  https://challenge.la2050.org/entry/robin-hoods-of-rubbish-for-the-la-landfillharmonics
 aggregated:
   project_ids:
     - '6102227'
@@ -62,36 +47,7 @@ aggregated:
     - '2015'
     - '2015'
     - '2014'
-  org_summary:
-    - >-
-      T4T.org inspires the next generation of Scientists, Technology experts,
-      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
-      waste - nurturing environmental stewardship.
-    - >-
-      T4T.org inspires the next generation of Scientists, Technology experts,
-      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
-      waste and in doing this we nurture environmental stewar
-    - >-
-      T4T.org inspires the next generation of Scientists, Technology experts,
-      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
-      waste and in doing this we nurture environmental stewar
-    - >-
-      T4T.org inspires the next generation of Scientists, Technology experts,
-      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
-      waste and in doing this we nurture environmental stewardship.
-    - >-
-      T4T.org inspires the next generation of Scientists, Technology experts,
-      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
-      waste and in doing this we nurture environmental stewardship.
-    - >-
-      T4T.org inspires the next generation of Scientists, Technology experts,
-      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
-      waste and in doing this we nurture environmental stewardship.
-    - >-
-      We rescue clean, safe, manufacturers waste and turn it into project based
-      learning opportunities for STEAM Education.
 title: T4T.org
-uri: /organizations/t4t-org/
 extrapolated_project_ids:
   - '6102225'
   - '6102226'
@@ -106,16 +62,6 @@ project_titles_from_extrapolated_project_ids:
   - LA Landfill Harmonic Orchestra
   - T4T.org’s Mobile Makers Space with ReImagined Resources
   - T4T.org’s ReImagined Resource Center STEAM Labs
-project_titles:
-  - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
-  - LA Landfill Harmonic Orchestra
-  - Reimagined Resources
-  - Robin Hoods of Rubbish for the LA LandfillHarmonics
-  - T4T.org’s Mobile Makers Space with ReImagined Resources
-  - T4T.org’s ReImagined Resource Center STEAM Labs
-  - The Robin Hoods of Rubbish are building STEAM Labs!
-project_titles_from_project_ids:
-  - Robin Hoods of Rubbish for the LA LandfillHarmonics
 original_project_titles:
   - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
   - LA Landfill Harmonic Orchestra
@@ -130,6 +76,5 @@ original_project_ids:
   - '6102225'
   - '6102226'
   - '6102227'
-project_titles_flagged: 1
 
 ---

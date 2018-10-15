@@ -1,13 +1,10 @@
 ---
 organization_id: '2016015'
-year_submitted: 2016
-organization_name: Arts For Incarcerated Youth Network
 organization_website:
   - www.aiynetwork.org
 ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-ntee_type: ''
 tags_indicators:
   - Art
   - Community safety
@@ -24,11 +21,6 @@ org_summary: >-
   AIYN is a collaborative providing support/coordination for ten community-based
   arts organizations in order to build resiliency/wellness, eliminate
   recidivism, and transform the juvenile justice system
-areas_impacted:
-  - County of Los Angeles
-project_ids: '6102012'
-challenge_url: >-
-  https://challenge.la2050.org/entry/arts-for-incarcerated-youth-network-using-arts-to-build-camptocareer-pipeline-for-youth
 aggregated:
   project_ids:
     - '6102012'
@@ -40,18 +32,7 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      AIYN is a collaborative providing support/coordination for ten
-      community-based arts organizations in order to build resiliency/wellness,
-      eliminate recidivism, and transform the juvenile justice system
-    - >-
-      The Arts for Incarcerated Youth Network (AIYN) is an interdisciplinary
-      collaborative that provides exceptional arts programming in order to build
-      resiliency and wellness, eliminate recidivism, and transform the juvenile
-      justice system.
 title: Arts For Incarcerated Youth Network
-uri: /organizations/arts-for-incarcerated-youth-network/
 extrapolated_project_ids:
   - '6102012'
   - '5102024'
@@ -60,21 +41,11 @@ project_titles_from_extrapolated_project_ids:
     Arts for Incarcerated Youth Network: using arts to build #camptocareer
     pipeline for youth
   - Arts for Incarcerated Youth Network
-project_titles:
-  - Arts for Incarcerated Youth Network
-  - >-
-    Arts for Incarcerated Youth Network: using arts to build #camptocareer
-    pipeline for youth
-project_titles_from_project_ids:
-  - >-
-    Arts for Incarcerated Youth Network: using arts to build #camptocareer
-    pipeline for youth
 original_project_titles:
   - >-
     Arts for Incarcerated Youth Network: using arts to build #camptocareer
     pipeline for youth
 original_project_ids:
   - '6102012'
-project_titles_flagged: 1
 
 ---

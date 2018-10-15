@@ -1,12 +1,9 @@
 ---
 organization_id: '2014142'
-year_submitted: 2014
-organization_name: Friends Of The Observatory (FOTO)
 organization_website: ''
 ein: '953374645'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953374645'
-ntee_type: ''
 tags_indicators:
   - Air & water
   - Environmental quality & sustainability
@@ -20,36 +17,21 @@ project_video: ''
 org_summary: >-
   FOTO is responsible for ensuring excellence in informal science education
   programs at Griffith Observatory.
-areas_impacted: ''
-project_ids: '4102128'
-challenge_url: ''
 aggregated:
   project_ids:
     - '4102128'
   challenge_url: []
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      FOTO is responsible for ensuring excellence in informal science education
-      programs at Griffith Observatory.
 title: Friends Of The Observatory (FOTO)
-uri: /organizations/friends-of-the-observatory-foto/
 extrapolated_project_ids:
   - '4102077'
 project_titles_from_extrapolated_project_ids:
   - Griffith Observatory--A pLAnetarium for 2050 now!
-project_titles:
-  - Griffith Observatory--A pLAnetarium for 2050 now!
-project_titles_from_project_ids:
-  - >-
-    Project: SCHOLARS - empowering college and college bound students of all
-    ages to succeed
 original_project_titles:
   - Griffith Observatory--A pLAnetarium for 2050 now!
 original_project_ids:
   - '4102077'
-project_titles_flagged: 1
 maker_image_id: '20477'
 maker_image_file_name: 405.jpg
 

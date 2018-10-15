@@ -1,13 +1,10 @@
 ---
 organization_id: '2016109'
-year_submitted: 2016
-organization_name: Impact Hub Los Angeles
 organization_website:
   - impacthubla.com
 ein: '273558431'
 zip: '90013'
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Entrepreneurship & innovation
   - Community gatherings
@@ -23,11 +20,6 @@ project_video: ''
 org_summary: >-
   Impact Hub Los Angeles is a community hub and co-working space for socially
   conscious entrepreneurs, civic leaders, professionals and creatives.
-areas_impacted:
-  - City of Los Angeles
-project_ids: '6102179'
-challenge_url: >-
-  https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
 aggregated:
   project_ids:
     - '6102179'
@@ -39,17 +31,7 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      Impact Hub Los Angeles is a community hub and co-working space for
-      socially conscious entrepreneurs, civic leaders, professionals and
-      creatives.
-    - >-
-      Impact Hub Los Angeles is a local incubator/community center part of a
-      global network of 11,000 social entrepreneurs in 82 Impact Hubs spread
-      across five continents.
 title: Impact Hub Los Angeles
-uri: /organizations/impact-hub-los-angeles/
 extrapolated_project_ids:
   - '6102179'
   - '5102139'
@@ -58,15 +40,6 @@ project_titles_from_extrapolated_project_ids:
     Virtual Reality in Blue: Linking the Next Generation Police Officers to the
     communities in LA.
   - 'The Digital District: A 21st Century Neighborhood of Los Angeles'
-project_titles:
-  - 'The Digital District: A 21st Century Neighborhood of Los Angeles'
-  - >-
-    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
-    communities in LA.
-project_titles_from_project_ids:
-  - >-
-    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
-    communities in LA.
 original_project_titles:
   - 'The Digital District: A 21st Century Neighborhood of Los Angeles '
   - >-
@@ -75,6 +48,5 @@ original_project_titles:
 original_project_ids:
   - '5102139'
   - '6102179'
-project_titles_flagged: 1
 
 ---

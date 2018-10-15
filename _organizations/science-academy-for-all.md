@@ -1,13 +1,10 @@
 ---
 organization_id: '2018106'
-year_submitted: 2018
-organization_name: Science Academy For All
 organization_website:
   - 'https://www.scienceacademyforall.org'
 ein: '811437141'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=811437141'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
@@ -21,12 +18,6 @@ project_video: ''
 org_summary: >-
   Science Academy For All provides opportunity for science through
   contextualized learning for all backgrounds and all ages.
-areas_impacted:
-  - East LA
-  - San Fernando Valley
-  - LAUSD
-project_ids: '8102106'
-challenge_url: 'https://activation.la2050.org/live/science-academy-for-all/'
 aggregated:
   project_ids:
     - '8102106'
@@ -34,28 +25,14 @@ aggregated:
     - 'https://activation.la2050.org/live/science-academy-for-all/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      Science Academy For All provides opportunity for science through
-      contextualized learning for all backgrounds and all ages.
 title: Science Academy For All
-uri: /organizations/science-academy-for-all/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    New Obesity War (NOW) led by mentor trained kids to change the lifestyle of
-    their families.
-project_titles_from_project_ids:
-  - >-
-    New Obesity War (NOW) led by mentor trained kids to change the lifestyle of
-    their families.
 original_project_titles:
   - >-
     New Obesity War (NOW) led by mentor trained kids to change the lifestyle of
     their families.
 original_project_ids:
   - '8102106'
-category: live
 
 ---

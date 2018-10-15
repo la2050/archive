@@ -1,13 +1,10 @@
 ---
 organization_id: '2013179'
-year_submitted: 2013
-organization_name: Take Back the Grid
 organization_website:
   - www.takebackthegrid.com
 ein: '383887267'
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Climate change
   - Environmental quality & sustainability
@@ -25,9 +22,6 @@ org_summary: >-
   CA. The support we had in developing a crowdfunding model for solar finance
   was absolutely humbling, and to see what happens when a good idea's time has
   come was inspiring.
-areas_impacted: ''
-project_ids: '3102101'
-challenge_url: 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
 aggregated:
   project_ids:
     - '3102101'
@@ -35,24 +29,10 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
   year_submitted:
     - '2013'
-  org_summary:
-    - >-
-      Working with Dan Rosen, Billy Parish, and Arthur Coulston at SolarMosaic
-      (www.joinmosaic.com) to develop the financial model for the "Oakland Solar
-      Mosaic" was an incredible time for me. Through that effort, $400,000 was
-      raised from "the crowd" to develop solar projects for non-profits in
-      Oakland, CA. The support we had in developing a crowdfunding model for
-      solar finance was absolutely humbling, and to see what happens when a good
-      idea's time has come was inspiring.
 title: Take Back the Grid
-uri: /organizations/take-back-the-grid/
 extrapolated_project_ids:
   - '3102101'
 project_titles_from_extrapolated_project_ids:
-  - Renewable Financing for Renewable Energy
-project_titles:
-  - Renewable Financing for Renewable Energy
-project_titles_from_project_ids:
   - Renewable Financing for Renewable Energy
 original_project_titles:
   - Renewable Financing for Renewable Energy

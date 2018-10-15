@@ -1,13 +1,10 @@
 ---
 organization_id: '2016021'
-year_submitted: 2016
-organization_name: BlacklistLA
 organization_website:
   - www.blacklistla.city
 ein: '954440752'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954440752'
-ntee_type: ''
 tags_indicators:
   - Fitness & sports
   - Access to parks & green space
@@ -24,14 +21,6 @@ org_summary: >-
   BlacklistLA Run Organization (BlacklistLA) provides access to Angelenos of
   diverse backgrounds to connect with each other through a shared love of
   running, street art, culture and the City of LA.
-areas_impacted:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-project_ids: '6102019'
-challenge_url: >-
-  https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
 aggregated:
   project_ids:
     - '6102019'
@@ -43,31 +32,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-  org_summary:
-    - >-
-      BlacklistLA Run Organization (BlacklistLA) provides access to Angelenos of
-      diverse backgrounds to connect with each other through a shared love of
-      running, street art, culture and the City of LA.
-    - >-
-      BlacklistLA inspires Angelenos of diverse backgrounds to connect around a
-      shared love for running, street art and the City of LA.
 title: BlacklistLA
-uri: /organizations/blacklistla/
 extrapolated_project_ids:
   - '6102019'
   - '5102029'
 project_titles_from_extrapolated_project_ids:
   - 'BlacklistLA: On the Playground Where We Spent Most of Our Days'
   - BlacklistLA Moves Toward The Future
-project_titles:
-  - BlacklistLA Moves Toward The Future
-  - 'BlacklistLA: On the Playground Where We Spent Most of Our Days'
-project_titles_from_project_ids:
-  - 'BlacklistLA: On the Playground Where We Spent Most of Our Days'
 original_project_titles:
   - BlacklistLA Moves Toward The Future
 original_project_ids:
   - '5102029'
-project_titles_flagged: 1
 
 ---

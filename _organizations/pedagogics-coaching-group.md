@@ -1,13 +1,10 @@
 ---
 organization_id: '2016167'
-year_submitted: 2016
-organization_name: Pedagogics Coaching Group
 organization_website:
   - pedagogicscg.com
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Mental & emotional health
@@ -24,11 +21,6 @@ org_summary: >-
   An instructional coaching service for educators in the Greater LA area
   providing support to those striving to create a successful school culture and
   desiring to grow in instructional effectiveness.
-areas_impacted:
-  - County of Los Angeles
-project_ids: '6102210'
-challenge_url: >-
-  https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
 aggregated:
   project_ids:
     - '6102210'
@@ -37,24 +29,10 @@ aggregated:
       https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      An instructional coaching service for educators in the Greater LA area
-      providing support to those striving to create a successful school culture
-      and desiring to grow in instructional effectiveness.
 title: Pedagogics Coaching Group
-uri: /organizations/pedagogics-coaching-group/
 extrapolated_project_ids:
   - '6102210'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
-    Instruction and Practice
-project_titles:
-  - >-
-    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
-    Instruction and Practice
-project_titles_from_project_ids:
   - >-
     MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
     Instruction and Practice

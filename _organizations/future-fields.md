@@ -1,13 +1,10 @@
 ---
 organization_id: '2016085'
-year_submitted: 2016
-organization_name: Future Fields
 organization_website:
   - futurescouts.co
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - College prep
   - Education & youth
@@ -22,16 +19,6 @@ org_summary: >-
   Future Scouts is a series of urban creative laboratories that prepare
   youngsters, teens and adults with tools, frameworks and models helpful to
   navigate an increasingly complex world.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-project_ids: '6102159'
-challenge_url: >-
-  https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
 aggregated:
   project_ids:
     - '6102159'
@@ -40,20 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Future Scouts is a series of urban creative laboratories that prepare
-      youngsters, teens and adults with tools, frameworks and models helpful to
-      navigate an increasingly complex world.
 title: Future Fields
-uri: /organizations/future-fields/
 extrapolated_project_ids:
   - '6102159'
 project_titles_from_extrapolated_project_ids:
-  - 'Future Scouts: 21st century survival skills for 21st century humans'
-project_titles:
-  - 'Future Scouts: 21st century survival skills for 21st century humans'
-project_titles_from_project_ids:
   - 'Future Scouts: 21st century survival skills for 21st century humans'
 original_project_titles:
   - 'Future Scouts: 21st century survival skills for 21st century humans'

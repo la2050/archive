@@ -1,13 +1,10 @@
 ---
 organization_id: '2015190'
-year_submitted: 2015
-organization_name: spcaLA
 organization_website:
   - www.spcaLA.com
 ein: '951738153'
 zip: '90016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951738153'
-ntee_type: ''
 tags_indicators:
   - Air & water
   - Environmental quality & sustainability
@@ -22,12 +19,6 @@ org_summary: >-
   Society for the Prevention of Cruelty to Animals Los Angeles (spcaLA) is
   dedicated to the prevention of cruelty to animals through Education, Law
   Enforcement, Intervention, and Advocacy.
-areas_impacted: >-
-  Central LA,East LA,San Gabriel Valley,San Fernando Valley,South
-  LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
-  of Los Angeles (citywide)
-project_ids: '5102279'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/ASN.html'
 aggregated:
   project_ids:
     - '5102279'
@@ -38,16 +29,7 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-  org_summary:
-    - >-
-      Society for the Prevention of Cruelty to Animals Los Angeles (spcaLA) is
-      dedicated to the prevention of cruelty to animals through Education, Law
-      Enforcement, Intervention, and Advocacy.
-    - >-
-      spcaLA prevents cruelty to animals through Education, Law Enforcement,
-      Intervention, and Advocacy.
 title: spcaLA
-uri: /organizations/spcala/
 extrapolated_project_ids:
   - '5102279'
   - '4102197'
@@ -56,15 +38,6 @@ project_titles_from_extrapolated_project_ids:
     spcaLAs ASN: Helping domestic violence survivors & their pets live safer
     healthier lives
   - End Violence Create Generation Empathy®
-project_titles:
-  - End Violence Create Generation Empathy®
-  - >-
-    spcaLAs ASN: Helping domestic violence survivors & their pets live safer
-    healthier lives
-project_titles_from_project_ids:
-  - >-
-    spcaLAs ASN: Helping domestic violence survivors & their pets live safer
-    healthier lives
 original_project_titles:
   - 'End Violence, Create Generation Empathy®'
   - >-
@@ -76,7 +49,6 @@ original_project_titles:
 original_project_ids:
   - '4102197'
   - '5102279'
-project_titles_flagged: 1
 maker_image_id: '23662'
 maker_image_file_name: Carrie_15-00963.jpg
 

@@ -1,13 +1,10 @@
 ---
 organization_id: '2013073'
-year_submitted: 2013
-organization_name: Foster Care Counts
 organization_website:
   - www.fostercarecounts.org
 ein: '454619493'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454619493'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
@@ -56,9 +53,6 @@ org_summary: |-
    
    
    Clothing & Household Item Recycling Exchange Site
-areas_impacted: ''
-project_ids: '3102131'
-challenge_url: 'http://maker.good.is/myla2050/projects/virtualmentor.html'
 aggregated:
   project_ids:
     - '3102131'
@@ -66,22 +60,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/virtualmentor.html'
   year_submitted:
     - '2013'
-  org_summary:
-    - "Interviewing Skills Workshops for Foster Teens\n \n \n \n \n \n Foster Motherâ€™s Day (Gala Celebration for Foster Families)\n \n \n \n \n \n No Foster Child Left Behind: One Laptop Per Foster Youth\n \n \n \n \n \n Guardian Scholars College Program support\n \n \n \n \n \n Educational Scholarship â€œFriendâ€\x9D - raisers\n \n \n \n \n \n Interactive Independent Living Skills Training Website collaboration\n \n \n \n \n \n Clothing & Household Item Recycling Exchange Site"
 title: Foster Care Counts
-uri: /organizations/foster-care-counts/
 extrapolated_project_ids:
   - '3102131'
 project_titles_from_extrapolated_project_ids:
   - Virtual Mentor Program for Foster and Atrisk Youth
-project_titles:
-  - Virtual Mentor Program for Foster and Atrisk Youth
-project_titles_from_project_ids:
-  - Virtual Mentor Program for Foster and Atrisk Youth
 original_project_titles:
   - Virtual Mentor Program for Foster and At-risk Youth
 original_project_ids: []
-project_titles_flagged: 1
 maker_image_id: '16488'
 maker_image_file_name: FCC_logo_master_jpeg.jpg
 

@@ -1,13 +1,10 @@
 ---
 organization_id: '2016180'
-year_submitted: 2016
-organization_name: Public Health Foundation Enterprises
 organization_website:
   - www.lblreaders.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Early childhood
   - Education & youth
@@ -21,10 +18,6 @@ project_video: 'http://www.lblreaders.org/videos/LittleByLittle.webm?rel=0&amp;s
 org_summary: >-
   PHFE is the nation’s premier catalyst for advancing program and support
   services to optimize population health
-areas_impacted:
-  - County of Los Angeles
-project_ids: '6102193'
-challenge_url: 'https://challenge.la2050.org/entry/little-by-little-school-readiness-program'
 aggregated:
   project_ids:
     - '6102193'
@@ -33,19 +26,10 @@ aggregated:
       https://challenge.la2050.org/entry/little-by-little-school-readiness-program
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      PHFE is the nation’s premier catalyst for advancing program and support
-      services to optimize population health
 title: Public Health Foundation Enterprises
-uri: /organizations/public-health-foundation-enterprises/
 extrapolated_project_ids:
   - '6102193'
 project_titles_from_extrapolated_project_ids:
-  - Little by Little School Readiness Program
-project_titles:
-  - Little by Little School Readiness Program
-project_titles_from_project_ids:
   - Little by Little School Readiness Program
 original_project_titles:
   - Little by Little School Readiness Program

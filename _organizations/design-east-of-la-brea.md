@@ -1,13 +1,10 @@
 ---
 organization_id: '2013052'
-year_submitted: 2013
-organization_name: design east of La Brea
 organization_website:
   - 'http://www.designeastoflabrea.org'
 ein: '272832901'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272832901'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -58,9 +55,6 @@ org_summary: >-
    
    
    Highlights from de LaB’s 2011-2012 programming year include: A tour of the Subway Terminal Building in Downtown L.A. featuring the abandoned subway platform and tunnels that housed L.A.’s first subway system; A tour with the designers and public health officials behind L.A.’s first street-to-plaza conversion, Sunset Triangle, a new public space for the Silver Lake neighborhood; A private tour of the BWP EcoCampus in Burbank, a reclaimed substation which has been transformed into community green space by AHBE landscape architects; A presentation by FER Studio featuring their master plan for Inglewood’s downtown revitalization; A walking tour and published map of 31 locations in West Hollywood to honor de LaB’s late friend, urban designer John Chase, who was responsible for much of that city's great urban design; A tour of HOLA’s brand-new community center in Lafayette Park designed by Steven Kanner, which provides arts and athletic programming for underserved youth; A tour and fundraiser for Richland Farms, an agricultural community in the middle of Compton, where cowboys and horses co-exist with programs to bring farming to urban youth; A walking house tour featuring four Echo Park residences that use small footprints and sustainable design to create community-minded residences in a dense neighborhood; A bike tour of Long Beach, one of the most bicycle-friendly cities in the country, and its rapidly transforming infrastructure of parklets and roundabouts, with advocate Charlie Gandy.
-areas_impacted: ''
-project_ids: '3102105'
-challenge_url: 'http://maker.good.is/myla2050/projects/delab.html'
 aggregated:
   project_ids:
     - '3102105'
@@ -68,56 +62,10 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/delab.html'
   year_submitted:
     - '2013'
-  org_summary:
-    - >-
-      We've built a community of committed design enthusiasts in Los Angeles in
-      about 4 four years. We currently have over 1,000 followers on Facebook,
-      nearly 700 followers on Twitter and 3,000+ email subscribers. 
-       
-       
-       <br><br>
-       
-       
-       
-       
-       
-       Our events consistently reach capacity within hours of announcing them, and typically have waitlists. We plan, program and host about 2 events per month, and expose new audiences to innovation and creativity in LA. We also aim to bring people into spaces and neighborhoods they may not visit otherwise. We've experienced consistent growth for our recurring events, such as the design-n-dim sum bike tour and Palm Springs Modernism Week. 
-       
-       
-       <br><br>
-       
-       
-       
-       
-       
-       In 2012, we hosted our first home tour, bringing people into four outstanding examples of urban infill and sustainability in Echo Park, all within walking distance of one another. Two of the homes on the tour were then included in Dwell's home tour two months later. 
-       
-       
-       
-       
-       
-       <br><br>
-       
-       
-       In December 2012, we also received our non-profit status and are currently applying for grants for the first time. 
-       
-       
-       
-       
-       
-       <br><br>
-       
-       
-       Highlights from de LaBâ€™s 2011-2012 programming year include: A tour of the Subway Terminal Building in Downtown L.A. featuring the abandoned subway platform and tunnels that housed L.A.â€™s first subway system; A tour with the designers and public health officials behind L.A.â€™s first street-to-plaza conversion, Sunset Triangle, a new public space for the Silver Lake neighborhood; A private tour of the BWP EcoCampus in Burbank, a reclaimed substation which has been transformed into community green space by AHBE landscape architects; A presentation by FER Studio featuring their master plan for Inglewoodâ€™s downtown revitalization; A walking tour and published map of 31 locations in West Hollywood to honor de LaBâ€™s late friend, urban designer John Chase, who was responsible for much of that city's great urban design; A tour of HOLAâ€™s brand-new community center in Lafayette Park designed by Steven Kanner, which provides arts and athletic programming for underserved youth; A tour and fundraiser for Richland Farms, an agricultural community in the middle of Compton, where cowboys and horses co-exist with programs to bring farming to urban youth; A walking house tour featuring four Echo Park residences that use small footprints and sustainable design to create community-minded residences in a dense neighborhood; A bike tour of Long Beach, one of the most bicycle-friendly cities in the country, and its rapidly transforming infrastructure of parklets and roundabouts, with advocate Charlie Gandy.
 title: design east of La Brea
-uri: /organizations/design-east-of-la-brea/
 extrapolated_project_ids:
   - '3102105'
 project_titles_from_extrapolated_project_ids:
-  - Making LA
-project_titles:
-  - Making LA
-project_titles_from_project_ids:
   - Making LA
 original_project_titles:
   - Making LA

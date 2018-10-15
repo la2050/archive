@@ -1,13 +1,10 @@
 ---
 organization_id: '2015172'
-year_submitted: 2015
-organization_name: Ruckus Projects
 organization_website:
   - www.ruckusprojects.com/
 ein: '474688368'
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
@@ -21,9 +18,6 @@ project_video: ''
 org_summary: >-
   Ruckus projects is a community of future makers coming together to launch
   projects that matter.
-areas_impacted: City of Los Angeles (citywide)
-project_ids: '8102115'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Leif.html'
 aggregated:
   project_ids:
     - '8102115'
@@ -31,25 +25,15 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/Leif.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Ruckus projects is a community of future makers coming together to launch
-      projects that matter.
 title: Ruckus Projects
-uri: /organizations/ruckus-projects/
 extrapolated_project_ids:
   - '5102258'
 project_titles_from_extrapolated_project_ids:
   - Localized Mobile News App Connecting You to Your Community
-project_titles:
-  - Localized Mobile News App Connecting You to Your Community
-project_titles_from_project_ids:
-  - Neighborhood Conversations
 original_project_titles:
   - Localized Mobile News App Connecting You to Your Community
 original_project_ids:
   - '5102258'
-project_titles_flagged: 1
 maker_image_id: '23547'
 maker_image_file_name: Leif_Community_Engagement_App.jpg
 

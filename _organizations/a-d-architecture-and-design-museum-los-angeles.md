@@ -1,13 +1,10 @@
 ---
 organization_id: '2013002'
-year_submitted: 2013
-organization_name: A+D Architecture and Design Museum > Los Angeles
 organization_website:
   - 'http://aplusd.org/exhibitions-future/neverbuilt'
 ein: '481269978'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=481269978'
-ntee_type: ''
 tags_indicators:
   - Art
   - Community gatherings
@@ -45,9 +42,6 @@ org_summary: >-
    
    
    <p> A+D hosts exhibit openings and events that are well-attended and garner attention and good will. These events are an integral part of the Museum’s purpose: comprehensive programming that incorporates academic and professional development with public outreach that is social and educational: Exhibitions of progressive architecture and design; topical lectures and seminars; student and professional design charrettes; education programs; architecture, design, urban tours; film screenings; book launches; internship opportunities; collaborations with community foundations focusing on at-risk youth; collaborations with cultural and educational institutions, locally and worldwide. <p/>
-areas_impacted: ''
-project_ids: '3102004'
-challenge_url: 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
 aggregated:
   project_ids:
     - '3102004'
@@ -55,17 +49,10 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
   year_submitted:
     - '2013'
-  org_summary:
-    - "<p> The A+D Architecture and Design Museum > Los Angeles was founded in 2001. A+D is the only cultural institution in the United States showcasing continuous programs on architecture and design. Through exhibits, symposia, multi-disciplinary projects, educational and community programming, A+D is a showcase for the work of important regional, national and international designers, providing a forum for contemporary issues in architecture, urbanism, and design. <p/>\n \n \n \n \n \n <p> A+D has collaborated with important institutions such as the The Getty Center, AIA, SCI-Arc, the LA Forum as well as emerging and established architects. The museum has produced over 30 world class exhibits and received Awards of Merit for education programming from The American Architectural Foundation. It's also received multi-year grants from the Department of Cultural Affairs; explored the frontiers of design through concerts incorporating cutting edge computer graphics and electronic sound; and hosted panels moderated by a diverse group including L.A. Times Architecture Critic Christopher Hawthorne, City Planner Gail Goldberg, journalist Frances Anderton, actor/pundit Harry Shearer and Councilman Bernard Parks. <p/>\n \n \n \n \n \n <p> A+D has been awarded back to back grants from the Getty Foundation for Pacific Standard Time (2011) and Pacfiic Standard Time Presents: Modern Architecture in L.A. (2012). For PST, the museum presented â€œEames Words,â€\x9D an exhibition that highlighted the ideas, rather than the creations, of the pioneering designers Charles and Ray Eames. For Pacific Standard Time Presents, the upcoming 2013 show, the museum has created â€œWindshield Perspective,â€\x9D an examination of the Los Angeles urban landscape as seen through the cityâ€™s unexplored and unrepresented boulevards. <p/>\n \n \n \n \n \n <p> A+D hosts exhibit openings and events that are well-attended and garner attention and good will. These events are an integral part of the Museumâ€™s purpose: comprehensive programming that incorporates academic and professional development with public outreach that is social and educational: Exhibitions of progressive architecture and design; topical lectures and seminars; student and professional design charrettes; education programs; architecture, design, urban tours; film screenings; book launches; internship opportunities; collaborations with community foundations focusing on at-risk youth; collaborations with cultural and educational institutions, locally and worldwide. <p/>"
 title: A+D Architecture and Design Museum > Los Angeles
-uri: /organizations/a-d-architecture-and-design-museum-los-angeles/
 extrapolated_project_ids:
   - '3102004'
 project_titles_from_extrapolated_project_ids:
-  - 'Never Built: Los Angeles'
-project_titles:
-  - 'Never Built: Los Angeles'
-project_titles_from_project_ids:
   - 'Never Built: Los Angeles'
 original_project_titles:
   - 'Never Built: Los Angeles'

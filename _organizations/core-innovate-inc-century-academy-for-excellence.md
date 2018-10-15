@@ -1,13 +1,10 @@
 ---
 organization_id: '2016058'
-year_submitted: 2016
-organization_name: 'Core Innovate, Inc. & Century Academy for Excellence'
 organization_website:
   - www.coreinnovate.com
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Entrepreneurship & innovation
   - Income & employment
@@ -22,12 +19,6 @@ org_summary: >-
   Core Innovate is an education technology and support services business that
   supports educators in strategic instructional planning aimed at removing
   barriers to powerful communication for students.
-areas_impacted:
-  - South LA
-  - County of Los Angeles
-project_ids: '6102115'
-challenge_url: >-
-  https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
 aggregated:
   project_ids:
     - '6102115'
@@ -36,20 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Core Innovate is an education technology and support services business
-      that supports educators in strategic instructional planning aimed at
-      removing barriers to powerful communication for students.
 title: 'Core Innovate, Inc. & Century Academy for Excellence'
-uri: /organizations/core-innovate-inc-century-academy-for-excellence/
 extrapolated_project_ids:
   - '6102115'
 project_titles_from_extrapolated_project_ids:
-  - 'Inglewood Speaks: Young Podcasters Discover LA2050’s Homegrown Heroes'
-project_titles:
-  - 'Inglewood Speaks: Young Podcasters Discover LA2050’s Homegrown Heroes'
-project_titles_from_project_ids:
   - 'Inglewood Speaks: Young Podcasters Discover LA2050’s Homegrown Heroes'
 original_project_titles:
   - 'Inglewood Speaks: Young Podcasters Discover LA2050’s Homegrown Heroes'

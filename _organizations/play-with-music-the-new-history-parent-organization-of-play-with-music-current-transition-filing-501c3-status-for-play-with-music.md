@@ -1,15 +1,10 @@
 ---
 organization_id: '2015155'
-year_submitted: 2015
-organization_name: >-
-  Play with Music, The New History (parent organization of Play with Music,
-  current transition filing 501c3 status for Play with Music)
 organization_website:
   - www.playwithmusic.org
 ein: '471474363'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471474363'
-ntee_type: ''
 tags_indicators:
   - Art
   - Teaching & mentorship
@@ -24,9 +19,6 @@ project_video: ''
 org_summary: >-
   We are a modern music education program that brings at-risk students, music
   industry professionals, creativity & technology, into the same classroom.
-areas_impacted: 'Central LA,East LA,South LA,Other (please specify below):'
-project_ids: '5102238'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
 aggregated:
   project_ids:
     - '5102238'
@@ -34,23 +26,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      We are a modern music education program that brings at-risk students,
-      music industry professionals, creativity & technology, into the same
-      classroom.
 title: >-
   Play with Music, The New History (parent organization of Play with Music,
   current transition filing 501c3 status for Play with Music)
-uri: >-
-  /organizations/play-with-music-the-new-history-parent-organization-of-play-with-music-current-transition-filing-501c3-status-for-play-with-music/
 extrapolated_project_ids:
   - '5102238'
 project_titles_from_extrapolated_project_ids:
-  - Play with Music
-project_titles:
-  - Play with Music
-project_titles_from_project_ids:
   - Play with Music
 original_project_titles:
   - Play with Music

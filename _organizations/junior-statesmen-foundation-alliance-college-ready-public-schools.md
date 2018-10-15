@@ -1,13 +1,10 @@
 ---
 organization_id: '2015100'
-year_submitted: 2015
-organization_name: Junior Statesmen Foundation; Alliance College-Ready Public Schools
 organization_website:
   - www.jsa.org
 ein: '946050452'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=946050452'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Voting & civic engagement
@@ -25,9 +22,6 @@ org_summary: >-
   activities, debate, regional conferences, and summer residential programming
   to help high school students develop academic skills, leadership skills, and
   social capital.
-areas_impacted: 'Central LA,East LA,San Fernando Valley,South LA,City of Los Angeles (citywide)'
-project_ids: '5102154'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
 aggregated:
   project_ids:
     - '5102154'
@@ -35,22 +29,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      JSA is a civic education organization that uses student-led on-campus
-      activities, debate, regional conferences, and summer residential
-      programming to help high school students develop academic skills,
-      leadership skills, and social capital.
 title: Junior Statesmen Foundation; Alliance College-Ready Public Schools
-uri: >-
-  /organizations/junior-statesmen-foundation-alliance-college-ready-public-schools/
 extrapolated_project_ids:
   - '5102154'
 project_titles_from_extrapolated_project_ids:
-  - Vote for civic-minded students and college success!
-project_titles:
-  - Vote for civic-minded students and college success!
-project_titles_from_project_ids:
   - Vote for civic-minded students and college success!
 original_project_titles:
   - Vote for civic-minded students and college success!

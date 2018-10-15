@@ -1,13 +1,10 @@
 ---
 organization_id: '2016013'
-year_submitted: 2016
-organization_name: Arts and Living Charitable Foundation
 organization_website:
   - www.aalcf.com/index.php/what-the/80-article-eight14
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -22,12 +19,6 @@ org_summary: >-
   Arts Connect takes successful, well-known relevant people and produces their
   real-life stories in a digital multimedia curriculum, integrating the arts to
   enhance pupils learning experiences.
-areas_impacted:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102010'
-challenge_url: 'https://challenge.la2050.org/entry/arts-connect'
 aggregated:
   project_ids:
     - '6102010'
@@ -35,20 +26,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/arts-connect'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Arts Connect takes successful, well-known relevant people and produces
-      their real-life stories in a digital multimedia curriculum, integrating
-      the arts to enhance pupils learning experiences.
 title: Arts and Living Charitable Foundation
-uri: /organizations/arts-and-living-charitable-foundation/
 extrapolated_project_ids:
   - '6102010'
 project_titles_from_extrapolated_project_ids:
-  - Arts Connect
-project_titles:
-  - Arts Connect
-project_titles_from_project_ids:
   - Arts Connect
 original_project_titles:
   - 'Arts Connect '

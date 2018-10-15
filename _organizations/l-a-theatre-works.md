@@ -1,13 +1,10 @@
 ---
 organization_id: '2016119'
-year_submitted: 2016
-organization_name: L.A. Theatre Works
 organization_website:
   - www.latw.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -22,12 +19,6 @@ org_summary: >-
   LATW records great performances of important plays, using new technologies to
   make world-class theatre accessible to the widest possible audience and to
   expand the use of theatre as a teaching tool.
-areas_impacted:
-  - County of Los Angeles
-  - LAUSD
-project_ids: '6102117'
-challenge_url: >-
-  https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
 aggregated:
   project_ids:
     - '6102117'
@@ -36,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      LATW records great performances of important plays, using new technologies
-      to make world-class theatre accessible to the widest possible audience and
-      to expand the use of theatre as a teaching tool.
 title: L.A. Theatre Works
-uri: /organizations/l-a-theatre-works/
 extrapolated_project_ids:
   - '6102117'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
-    Creativity
-project_titles:
-  - >-
-    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
-    Creativity
-project_titles_from_project_ids:
   - >-
     Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
     Creativity

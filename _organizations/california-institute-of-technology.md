@@ -1,13 +1,10 @@
 ---
 organization_id: '2016030'
-year_submitted: 2016
-organization_name: California Institute of Technology
 organization_website:
   - www.caltech.edu
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - STEM & Digital literacy
   - Education & youth
@@ -22,14 +19,6 @@ org_summary: >-
   The Resnick Sustainability Institute at Caltech supports research in
   sustainability, and runs FLoW: a program to help young innovators start
   cleantech companies and learn how to become entrepreneurs.
-areas_impacted:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-  - LADWP and SCE's rate paying territories
-project_ids: '6102026'
-challenge_url: >-
-  https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations
 aggregated:
   project_ids:
     - '6102026'
@@ -38,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      The Resnick Sustainability Institute at Caltech supports research in
-      sustainability, and runs FLoW: a program to help young innovators start
-      cleantech companies and learn how to become entrepreneurs.
 title: California Institute of Technology
-uri: /organizations/california-institute-of-technology/
 extrapolated_project_ids:
   - '6102026'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Cleantech 2 Edtech: LA schools save energy as students and startups
-    implement cleantech innovations
-project_titles:
-  - >-
-    Cleantech 2 Edtech: LA schools save energy as students and startups
-    implement cleantech innovations
-project_titles_from_project_ids:
   - >-
     Cleantech 2 Edtech: LA schools save energy as students and startups
     implement cleantech innovations

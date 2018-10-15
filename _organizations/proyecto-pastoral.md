@@ -1,13 +1,10 @@
 ---
 organization_id: '2016178'
-year_submitted: 2016
-organization_name: Proyecto Pastoral
 organization_website:
   - proyectopastoral.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - College prep
@@ -23,11 +20,6 @@ org_summary: >-
   Proyecto is the backbone org. for Promesa Boyle Heights (PBH), a collaboration
   of families, educators & orgs working to ensure all children in BH have access
   to strong schools & support systems.
-areas_impacted:
-  - East LA
-project_ids: '6102191'
-challenge_url: >-
-  https://challenge.la2050.org/entry/collegesquad-promesa-boyle-heights-peer-mentor-program
 aggregated:
   project_ids:
     - '6102191'
@@ -36,20 +28,10 @@ aggregated:
       https://challenge.la2050.org/entry/collegesquad-promesa-boyle-heights-peer-mentor-program
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      Proyecto is the backbone org. for Promesa Boyle Heights (PBH), a
-      collaboration of families, educators & orgs working to ensure all children
-      in BH have access to strong schools & support systems.
 title: Proyecto Pastoral
-uri: /organizations/proyecto-pastoral/
 extrapolated_project_ids:
   - '6102191'
 project_titles_from_extrapolated_project_ids:
-  - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
-project_titles:
-  - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
-project_titles_from_project_ids:
   - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
 original_project_titles:
   - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'

@@ -1,13 +1,10 @@
 ---
 organization_id: '2015183'
-year_submitted: 2015
-organization_name: Social & Environmental Entrepreneurs
 organization_website:
   - 'http://www.homefrontrising.org/'
 ein: '954116679'
 zip: '91302'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
-ntee_type: ''
 tags_indicators:
   - Art
   - Workforce development
@@ -23,9 +20,6 @@ project_video: ''
 org_summary: >-
   HomeFront Rising, a program of Social & Environmental Entrepreneurs, develops
   food, housing and career solutions for military veterans.
-areas_impacted: County of Los Angeles (countywide)
-project_ids: '5102270'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/veteransgardensla.html'
 aggregated:
   project_ids:
     - '5102270'
@@ -33,19 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/veteransgardensla.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      HomeFront Rising, a program of Social & Environmental Entrepreneurs,
-      develops food, housing and career solutions for military veterans.
 title: Social & Environmental Entrepreneurs
-uri: /organizations/social-environmental-entrepreneurs/
 extrapolated_project_ids:
   - '5102270'
 project_titles_from_extrapolated_project_ids:
-  - Veterans Gardens LA
-project_titles:
-  - Veterans Gardens LA
-project_titles_from_project_ids:
   - Veterans Gardens LA
 original_project_titles:
   - Veterans Gardens LA

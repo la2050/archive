@@ -1,13 +1,10 @@
 ---
 organization_id: '2015160'
-year_submitted: 2015
-organization_name: Project MuszEd
 organization_website:
   - www.projectmuszed.org
 ein: '203037195'
 zip: '91601'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203037195'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Art
@@ -23,9 +20,6 @@ project_video: ''
 org_summary: >-
   Project MuszEd provides resources and opportunities in the arts that encourage
   creativity, community, personal and academic growth.
-areas_impacted: 'South LA,City of Los Angeles (citywide)'
-project_ids: '5102244'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
 aggregated:
   project_ids:
     - '5102244'
@@ -33,19 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Project MuszEd provides resources and opportunities in the arts that
-      encourage creativity, community, personal and academic growth.
 title: Project MuszEd
-uri: /organizations/project-muszed/
 extrapolated_project_ids:
   - '5102244'
 project_titles_from_extrapolated_project_ids:
-  - SoundWorks L.A.
-project_titles:
-  - SoundWorks L.A.
-project_titles_from_project_ids:
   - SoundWorks L.A.
 original_project_titles:
   - SoundWorks L.A.

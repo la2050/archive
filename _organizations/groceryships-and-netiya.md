@@ -1,13 +1,10 @@
 ---
 organization_id: '2016094'
-year_submitted: 2016
-organization_name: Groceryships and Netiya
 organization_website:
   - groceryships.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Access to healthy food
   - Health
@@ -22,11 +19,6 @@ org_summary: >-
   The Trellis Project will make LA the healthiest place to live by creating
   church hubs that offer community building, nutrition education and kitchen
   gardens in low-income communities most in need.
-areas_impacted:
-  - South LA
-project_ids: '6102087'
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
 aggregated:
   project_ids:
     - '6102087'
@@ -40,33 +32,10 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
-  org_summary:
-    - >-
-      The Trellis Project will make LA the healthiest place to live by creating
-      church hubs that offer community building, nutrition education and kitchen
-      gardens in low-income communities most in need.
-    - >-
-      Groceryships improves long-term health and wellness in low-income
-      communities by creating a network of educational support groups and
-      enhancing access to healthy, unprocessed foods.
-    - >-
-      Comprehensive health program for low-income families struggling with
-      obesity--nutrition education, healthy cooking, and emotional support.
 title: Groceryships and Netiya
-uri: /organizations/groceryships-and-netiya/
 extrapolated_project_ids:
   - '6102087'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    The Trellis Project: Growing health through gardening, nutritional support,
-    and food access
-project_titles:
-  - Comprehensive Nutrition Education Programs
-  - >-
-    The Trellis Project: Growing health through gardening, nutritional support,
-    and food access
-  - 'TreeMapLA: Crowd-Sourcing a Healthy Watershed sponsored by TreePeople'
-project_titles_from_project_ids:
   - >-
     The Trellis Project: Growing health through gardening, nutritional support,
     and food access
@@ -76,6 +45,5 @@ original_project_titles:
     and food access
 original_project_ids:
   - '6102087'
-project_titles_flagged: 1
 
 ---

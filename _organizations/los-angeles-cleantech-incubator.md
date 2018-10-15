@@ -1,13 +1,10 @@
 ---
 organization_id: '2016134'
-year_submitted: 2016
-organization_name: Los Angeles Cleantech Incubator
 organization_website:
   - laincubator.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Entrepreneurship & innovation
   - STEM & Digital literacy
@@ -24,16 +21,6 @@ org_summary: >-
   LACI incubates early stage cleantech companies and helps bring their products
   and services to market by convening investors, corporations, and customers to
   drive innovation throughout our economy.
-areas_impacted:
-  - Central LA
-  - East LA
-  - South LA
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_ids: '6102137'
-challenge_url: 'https://challenge.la2050.org/entry/youth-cleantech-training-program'
 aggregated:
   project_ids:
     - '6102137'
@@ -41,20 +28,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/youth-cleantech-training-program'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      LACI incubates early stage cleantech companies and helps bring their
-      products and services to market by convening investors, corporations, and
-      customers to drive innovation throughout our economy.
 title: Los Angeles Cleantech Incubator
-uri: /organizations/los-angeles-cleantech-incubator/
 extrapolated_project_ids:
   - '6102137'
 project_titles_from_extrapolated_project_ids:
-  - Youth Cleantech Training Program
-project_titles:
-  - Youth Cleantech Training Program
-project_titles_from_project_ids:
   - Youth Cleantech Training Program
 original_project_titles:
   - Youth Cleantech Training Program

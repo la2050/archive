@@ -1,13 +1,10 @@
 ---
 organization_id: '2015077'
-year_submitted: 2015
-organization_name: GREENBOXFARMS
 organization_website:
   - www.greenboxfarms.com
 ein: '475224113'
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Access to healthy food
   - Health
@@ -21,9 +18,6 @@ project_video: ''
 org_summary: >-
   GREENBOXFARMS grows organic produce in food deserts using hydroponic
   technologies.
-areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
-project_ids: '5102090'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'
 aggregated:
   project_ids:
     - '5102090'
@@ -31,27 +25,17 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      GREENBOXFARMS grows organic produce in food deserts using hydroponic
-      technologies.
 title: GREENBOXFARMS
-uri: /organizations/greenboxfarms/
 extrapolated_project_ids:
   - '5102119'
 project_titles_from_extrapolated_project_ids:
   - Revitalizing the way Los Angeles grows mentally physically and economically.
-project_titles:
-  - Revitalizing the way Los Angeles grows mentally physically and economically.
-project_titles_from_project_ids:
-  - Free Music Studio Access for Students of Los Angeles
 original_project_titles:
   - >-
     Revitalizing the way Los Angeles grows mentally, physically, and
     economically.
 original_project_ids:
   - '5102119'
-project_titles_flagged: 1
 maker_image_id: '23755'
 maker_image_file_name: Hydroponickids1.jpg
 

@@ -1,13 +1,10 @@
 ---
 organization_id: '2016116'
-year_submitted: 2016
-organization_name: Just As You Are Legacy
 organization_website:
   - n/a
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Entrepreneurship & innovation
@@ -23,17 +20,6 @@ project_video: 'https://www.youtube.com/embed/MPnJxlMhByQ?rel=0&amp;showinfo=0'
 org_summary: >-
   We provide resources to artists and the community in the areas of professional
   development, empowerment, self awareness, and entrepreneurship.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - LAUSD
-project_ids: '6102112'
-challenge_url: 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
 aggregated:
   project_ids:
     - '6102112'
@@ -41,20 +27,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      We provide resources to artists and the community in the areas of
-      professional development, empowerment, self awareness, and
-      entrepreneurship.
 title: Just As You Are Legacy
-uri: /organizations/just-as-you-are-legacy/
 extrapolated_project_ids:
   - '6102112'
 project_titles_from_extrapolated_project_ids:
-  - Empowering You to Create Your Legacy
-project_titles:
-  - Empowering You to Create Your Legacy
-project_titles_from_project_ids:
   - Empowering You to Create Your Legacy
 original_project_titles:
   - Empowering You to Create Your Legacy

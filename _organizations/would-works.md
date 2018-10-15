@@ -1,13 +1,10 @@
 ---
 organization_id: '2014110'
-year_submitted: 2014
-organization_name: Would-Works
 organization_website:
   - www.would-works.com
 ein: '455552196'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455552196'
-ntee_type: ''
 tags_indicators:
   - Creative economy
   - Workforce development
@@ -22,9 +19,6 @@ project_video: ''
 org_summary: >-
   Would-Works CREATES opportunities for men and women living in poverty in Los
   Angeles to work for specific goals by CREATING quality products
-areas_impacted: 'Central LA,East LA,South LA,Westside'
-project_ids: '4102109'
-challenge_url: 'http://maker.good.is/myLA2050create/projects/would-works.html'
 aggregated:
   project_ids:
     - '4102109'
@@ -32,27 +26,17 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/would-works.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      Would-Works CREATES opportunities for men and women living in poverty in
-      Los Angeles to work for specific goals by CREATING quality products
 title: Would-Works
-uri: /organizations/would-works/
 extrapolated_project_ids:
   - '4102262'
 project_titles_from_extrapolated_project_ids:
   - Permanent Workshop for Would-Works
-project_titles:
-  - Permanent Workshop for Would-Works
-project_titles_from_project_ids:
-  - Arts & Culture Infrastructure Initiative
 original_project_titles:
   - Permanent Workshop for Would-Works
   - Would-Works
   - Would-Works
 original_project_ids:
   - '4102262'
-project_titles_flagged: 1
 youtube_video_identifier: xlsYqBrzY4k
 
 ---

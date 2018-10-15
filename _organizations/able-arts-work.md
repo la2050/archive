@@ -1,13 +1,10 @@
 ---
 organization_id: '2016005'
-year_submitted: 2016
-organization_name: Able Arts Work
 organization_website:
   - www.ableartswork.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Art
   - Disability & aging
@@ -24,12 +21,6 @@ org_summary: >-
   The mission of Able ARTS Work aka Arts & Services for Disabled is to provide
   life long learning, community services, and vocational opportunities through
   the creative arts for people with inte
-areas_impacted:
-  - South Bay
-  - County of Los Angeles
-  - LAUSD
-project_ids: '6102004'
-challenge_url: 'https://challenge.la2050.org/entry/artbeat-radio'
 aggregated:
   project_ids:
     - '6102004'
@@ -37,20 +28,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/artbeat-radio'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      The mission of Able ARTS Work aka Arts & Services for Disabled is to
-      provide life long learning, community services, and vocational
-      opportunities through the creative arts for people with inte
 title: Able Arts Work
-uri: /organizations/able-arts-work/
 extrapolated_project_ids:
   - '6102004'
 project_titles_from_extrapolated_project_ids:
-  - Artbeat Radio
-project_titles:
-  - Artbeat Radio
-project_titles_from_project_ids:
   - Artbeat Radio
 original_project_titles:
   - 'Artbeat Radio '

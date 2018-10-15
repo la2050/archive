@@ -1,13 +1,10 @@
 ---
 organization_id: '2016149'
-year_submitted: 2016
-organization_name: mitu
 organization_website:
   - mitunetwork.com
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
@@ -22,16 +19,6 @@ org_summary: >-
   mitú is the leading digital media and data-driven company focused on
   representing and elevating Latino millennial stories through content that is
   unapologetically Latino.
-areas_impacted:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Gateway Cities
-project_ids: '6102205'
-challenge_url: >-
-  https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
 aggregated:
   project_ids:
     - '6102205'
@@ -40,24 +27,10 @@ aggregated:
       https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      mitú is the leading digital media and data-driven company focused on
-      representing and elevating Latino millennial stories through content that
-      is unapologetically Latino.
 title: mitu
-uri: /organizations/mitu/
 extrapolated_project_ids:
   - '6102205'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    mitú Accelerate LA:  Diversifying digital content creation for regional
-    social impact
-project_titles:
-  - >-
-    mitú Accelerate LA:  Diversifying digital content creation for regional
-    social impact
-project_titles_from_project_ids:
   - >-
     mitú Accelerate LA:  Diversifying digital content creation for regional
     social impact

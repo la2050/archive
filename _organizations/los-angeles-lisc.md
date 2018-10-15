@@ -1,13 +1,10 @@
 ---
 organization_id: '2016136'
-year_submitted: 2016
-organization_name: Los Angeles LISC
 organization_website:
   - www.lisc.org/los_angeles
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
@@ -21,12 +18,6 @@ project_video: 'https://www.youtube.com/embed/xJxjON6kbbU?rel=0&amp;showinfo=0'
 org_summary: >-
   LISC equips struggling communities with the capital, strategy and know-how to
   become places where people and businesses can thrive.
-areas_impacted:
-  - Central LA
-  - East LA
-  - South LA
-project_ids: '6102142'
-challenge_url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
 aggregated:
   project_ids:
     - '6102142'
@@ -34,19 +25,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      LISC equips struggling communities with the capital, strategy and know-how
-      to become places where people and businesses can thrive.
 title: Los Angeles LISC
-uri: /organizations/los-angeles-lisc/
 extrapolated_project_ids:
   - '6102142'
 project_titles_from_extrapolated_project_ids:
-  - Preserving LA's Cultural Diversity
-project_titles:
-  - Preserving LA's Cultural Diversity
-project_titles_from_project_ids:
   - Preserving LA's Cultural Diversity
 original_project_titles:
   - Preserving LA's Cultural Diversity

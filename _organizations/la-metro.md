@@ -1,13 +1,10 @@
 ---
 organization_id: '2016122'
-year_submitted: 2016
-organization_name: LA Metro
 organization_website:
   - www.metro.net
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Transportation
   - Mobility
@@ -21,10 +18,6 @@ project_video: ''
 org_summary: >-
   LA Metro is a multimodal mobility agency that transports 1.4 million
   passengers daily on bus, light rail, heavy rail, bus rapid transit.
-areas_impacted:
-  - County of Los Angeles
-project_ids: '6102121'
-challenge_url: 'https://challenge.la2050.org/entry/off-peak-podcast'
 aggregated:
   project_ids:
     - '6102121'
@@ -32,19 +25,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/off-peak-podcast'
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      LA Metro is a multimodal mobility agency that transports 1.4 million
-      passengers daily on bus, light rail, heavy rail, bus rapid transit.
 title: LA Metro
-uri: /organizations/la-metro/
 extrapolated_project_ids:
   - '6102121'
 project_titles_from_extrapolated_project_ids:
-  - Off Peak Podcast
-project_titles:
-  - Off Peak Podcast
-project_titles_from_project_ids:
   - Off Peak Podcast
 original_project_titles:
   - Off Peak Podcast

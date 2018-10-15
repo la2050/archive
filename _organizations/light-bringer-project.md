@@ -1,12 +1,9 @@
 ---
 organization_id: '2014161'
-year_submitted: 2014
-organization_name: Light Bringer Project
 organization_website: ''
 ein: '954287043'
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954287043'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -20,34 +17,21 @@ project_video: ''
 org_summary: >-
   Light Bringer Project builds communities through the power of the arts and
   education
-areas_impacted: ''
-project_ids: '4102144'
-challenge_url: ''
 aggregated:
   project_ids:
     - '4102144'
   challenge_url: []
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      Light Bringer Project builds communities through the power of the arts and
-      education
 title: Light Bringer Project
-uri: /organizations/light-bringer-project/
 extrapolated_project_ids:
   - '4102120'
 project_titles_from_extrapolated_project_ids:
   - L.A. Futures
-project_titles:
-  - L.A. Futures
-project_titles_from_project_ids:
-  - Original Green Community Food Hub
 original_project_titles:
   - L.A. Futures
 original_project_ids:
   - '4102120'
-project_titles_flagged: 1
 maker_image_id: '22179'
 maker_image_file_name: IMG_2944.JPG
 

@@ -1,13 +1,10 @@
 ---
 organization_id: '2015143'
-year_submitted: 2015
-organization_name: Neighborhood Council Sustainability Alliance
 organization_website:
   - 'http://ncsa.nationbuilder.com/'
 ein: '475283695'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475283695'
-ntee_type: ''
 tags_indicators:
   - Climate change
   - Resiliency
@@ -24,9 +21,6 @@ org_summary: >-
   The Neighborhood Council Sustainability Alliance (NCSA) advances
   sustainability and resilience across Los Angeles through advocacy, sharing of
   best practices, and community action.
-areas_impacted: City of Los Angeles (citywide)
-project_ids: '5102218'
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/coolblocksla.html'
 aggregated:
   project_ids:
     - '5102218'
@@ -34,20 +28,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/coolblocksla.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      The Neighborhood Council Sustainability Alliance (NCSA) advances
-      sustainability and resilience across Los Angeles through advocacy, sharing
-      of best practices, and community action.
 title: Neighborhood Council Sustainability Alliance
-uri: /organizations/neighborhood-council-sustainability-alliance/
 extrapolated_project_ids:
   - '5102218'
 project_titles_from_extrapolated_project_ids:
-  - Cool Blocks LA
-project_titles:
-  - Cool Blocks LA
-project_titles_from_project_ids:
   - Cool Blocks LA
 original_project_titles:
   - Cool Blocks LA

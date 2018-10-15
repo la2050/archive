@@ -1,13 +1,10 @@
 ---
 organization_id: '2018103'
-year_submitted: 2018
-organization_name: Revolutionize Hollywood
 organization_website:
   - 'https://www.revolutionizehollywood.com/'
 ein: '812011003'
 zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812011003'
-ntee_type: ''
 tags_indicators:
   - Art
   - Entrepreneurship & innovation
@@ -24,18 +21,6 @@ org_summary: >-
   We help LA artists approach their career with an entrepreneur mindset, we host
   events and have created an online market place so that LA artist gain
   visibility, make money and sustain longevity.
-areas_impacted:
-  - Central LA
-  - South LA
-  - South Bay
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_ids: '8102103'
-challenge_url: 'https://activation.la2050.org/create/revolutionize-hollywood/'
 aggregated:
   project_ids:
     - '8102103'
@@ -43,24 +28,10 @@ aggregated:
     - 'https://activation.la2050.org/create/revolutionize-hollywood/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      We help LA artists approach their career with an entrepreneur mindset, we
-      host events and have created an online market place so that LA artist gain
-      visibility, make money and sustain longevity.
 title: Revolutionize Hollywood
-uri: /organizations/revolutionize-hollywood/
 extrapolated_project_ids:
   - '8102103'
 project_titles_from_extrapolated_project_ids:
-  - >-
-    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
-    Place for creatives.
-project_titles:
-  - >-
-    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
-    Place for creatives.
-project_titles_from_project_ids:
   - >-
     Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
     Place for creatives.
@@ -70,6 +41,5 @@ original_project_titles:
     Place for creatives.
 original_project_ids:
   - '8102103'
-category: create
 
 ---

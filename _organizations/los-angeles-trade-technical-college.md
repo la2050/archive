@@ -1,13 +1,10 @@
 ---
 organization_id: '2015130'
-year_submitted: 2015
-organization_name: Los Angeles Trade-Technical College
 organization_website:
   - 'http://slatez.org/'
 ein: '952587353'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952587353'
-ntee_type: ''
 tags_indicators:
   - Workforce development
   - Transportation
@@ -25,9 +22,6 @@ org_summary: >-
   institutions & government that centers on transit, education, enterprise, &
   redevelopment. The vision is to connect SLA through transportation, education
   & economic mobility.
-areas_impacted: South LA
-project_ids: '5102197'
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
 aggregated:
   project_ids:
     - '5102197'
@@ -39,20 +33,7 @@ aggregated:
     - '2015'
     - '2014'
     - '2014'
-  org_summary:
-    - >-
-      LATTC’s SLATE-Z is a partnership among community organizations, education
-      institutions & government that centers on transit, education, enterprise,
-      & redevelopment. The vision is to connect SLA through transportation,
-      education & economic mobility.
-    - >-
-      We provide affordable college education in sustainable landscaping,
-      construction, plumbing, and culinary arts with project-based curriculum.
-    - >-
-      We provide affordable college education in sustainable landscaping,
-      construction, plumbing, and culinary arts with project-based curriculum.
 title: Los Angeles Trade-Technical College
-uri: /organizations/los-angeles-trade-technical-college/
 extrapolated_project_ids:
   - '5102197'
   - '4102138'
@@ -63,27 +44,12 @@ project_titles_from_extrapolated_project_ids:
   - >-
     Architecture and Environmental Design: Serving Community with Open
     Educational Resource
-project_titles:
-  - >-
-    Architecture and Environmental Design: Serving Community with Open
-    Educational Resource
-  - >-
-    Breaking the Poverty Cycle in Los Angeles & Creating Better Childhoods for
-    Kids in Need
-  - >-
-    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
-    (SLATE-Z)
-project_titles_from_project_ids:
-  - >-
-    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
-    (SLATE-Z)
 original_project_titles:
   - >-
     Los Angeles Trade-Technical College South LA Transit Empowerment Zone
     (SLATE-Z)
 original_project_ids:
   - '5102197'
-project_titles_flagged: 1
 maker_image_id: '24040'
 maker_image_file_name: connect_SLATEZsigners.jpg
 

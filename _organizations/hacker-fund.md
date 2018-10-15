@@ -1,13 +1,10 @@
 ---
 organization_id: '2018050'
-year_submitted: 2018
-organization_name: Hacker Fund
 organization_website:
   - www.hacker.fund
 ein: '472485464'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472485464'
-ntee_type: ''
 tags_indicators:
   - STEM & Digital literacy
   - Workforce development
@@ -22,12 +19,6 @@ project_video: 'https://vimeo.com/231126321'
 org_summary: >-
   Hacker Fund empowers technologists to create social change through educational
   resources, capacity-building services, and fiscal sponsorship.
-areas_impacted:
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_ids: '8102050'
-challenge_url: 'https://activation.la2050.org/create/hacker-fund/'
 aggregated:
   project_ids:
     - '8102050'
@@ -35,24 +26,14 @@ aggregated:
     - 'https://activation.la2050.org/create/hacker-fund/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      Hacker Fund empowers technologists to create social change through
-      educational resources, capacity-building services, and fiscal sponsorship.
 title: Hacker Fund
-uri: /organizations/hacker-fund/
 extrapolated_project_ids:
   - '8102050'
 project_titles_from_extrapolated_project_ids:
-  - Hacker Fund Civic Innovation Center
-project_titles:
-  - Hacker Fund Civic Innovation Center
-project_titles_from_project_ids:
   - Hacker Fund Civic Innovation Center
 original_project_titles:
   - Hacker Fund Civic Innovation Center
 original_project_ids:
   - '8102050'
-category: create
 
 ---

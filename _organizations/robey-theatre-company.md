@@ -1,13 +1,10 @@
 ---
 organization_id: '2015169'
-year_submitted: 2015
-organization_name: Robey Theatre Company
 organization_website:
   - www.robeytheatrecompany.org
 ein: '954564423'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954564423'
-ntee_type: ''
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -21,9 +18,6 @@ project_video: ''
 org_summary: >-
   Robey shares stories, written and conceived with a POV that filters through a
   Black lens.
-areas_impacted: South LA
-project_ids: '5102255'
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/history-mobile.html'
 aggregated:
   project_ids:
     - '5102255'
@@ -31,19 +25,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/history-mobile.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      Robey shares stories, written and conceived with a POV that filters
-      through a Black lens.
 title: Robey Theatre Company
-uri: /organizations/robey-theatre-company/
 extrapolated_project_ids:
   - '5102255'
 project_titles_from_extrapolated_project_ids:
-  - History Detectives 2.0
-project_titles:
-  - History Detectives 2.0
-project_titles_from_project_ids:
   - History Detectives 2.0
 original_project_titles:
   - History Detectives 2.0

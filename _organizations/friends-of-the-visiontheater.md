@@ -1,13 +1,10 @@
 ---
 organization_id: '2014038'
-year_submitted: 2014
-organization_name: Friends of the VisionTheater
 organization_website:
   - 'http://www.leimertparkvillage.org/'
 ein: '954439557'
 zip: '90008'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954439557'
-ntee_type: ''
 tags_indicators:
   - Community gatherings
   - Access to healthy food
@@ -22,9 +19,6 @@ project_video: ''
 org_summary: >-
   We are committed to making a renovated Vision Theater the driving principle in
   shaping local development around a shared cultural legacy.
-areas_impacted: 'East LA,South LA,South Bay,Other:'
-project_ids: '4102039'
-challenge_url: 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
 aggregated:
   project_ids:
     - '4102039'
@@ -32,27 +26,15 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      We are committed to making a renovated Vision Theater the driving
-      principle in shaping local development around a shared cultural legacy.
 title: Friends of the VisionTheater
-uri: /organizations/friends-of-the-visiontheater/
 extrapolated_project_ids:
   - '4102078'
 project_titles_from_extrapolated_project_ids:
   - Leimert Park Village Studios
-project_titles:
-  - Leimert Park Village Studios
-project_titles_from_project_ids:
-  - >-
-    Making Los Angeles the most technologically progressive and healthy city in
-    the country
 original_project_titles:
   - Leimert Park Village Studios
 original_project_ids:
   - '4102078'
-project_titles_flagged: 1
 youtube_video_identifier: _BC4Wfw6Gb4
 
 ---

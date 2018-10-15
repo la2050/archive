@@ -1,13 +1,10 @@
 ---
 organization_id: '2014094'
-year_submitted: 2014
-organization_name: 'The Mirror, Mirror Project'
 organization_website:
   - www.themirrormirrorproject.com
 ein: '952540759'
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
-ntee_type: ''
 tags_indicators:
   - Homelessness
   - Housing & homelessness
@@ -20,9 +17,6 @@ project_video: ''
 org_summary: >-
   Pairs artists with homeless youth to create portraits of each other allowing
   both to inspire, empower, and see one another on a human level.
-areas_impacted: 'Central LA,East LA,South LA,South Bay,Westside'
-project_ids: '4102094'
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
 aggregated:
   project_ids:
     - '4102094'
@@ -30,25 +24,15 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
   year_submitted:
     - '2014'
-  org_summary:
-    - >-
-      Pairs artists with homeless youth to create portraits of each other
-      allowing both to inspire, empower, and see one another on a human level.
 title: 'The Mirror, Mirror Project'
-uri: /organizations/the-mirror-mirror-project/
 extrapolated_project_ids:
   - '4102224'
 project_titles_from_extrapolated_project_ids:
   - The Mirror Mirror Project
-project_titles:
-  - The Mirror Mirror Project
-project_titles_from_project_ids:
-  - Revitalizing La Tierra de la Culebra community art park
 original_project_titles:
   - 'The Mirror, Mirror Project'
 original_project_ids:
   - '4102224'
-project_titles_flagged: 1
 youtube_video_identifier: awJQoJqGL-o
 
 ---

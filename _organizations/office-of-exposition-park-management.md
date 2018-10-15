@@ -1,13 +1,10 @@
 ---
 organization_id: '2016159'
-year_submitted: 2016
-organization_name: Office of Exposition Park Management
 organization_website:
   - expositionpark.ca.gov
 ein: ''
 zip: ''
 charity_navigator_url: ''
-ntee_type: ''
 tags_indicators:
   - Access to parks & green space
   - Transportation
@@ -23,10 +20,6 @@ project_video: 'https://www.youtube.com/embed/xLSpVnV_dyk?rel=0&amp;showinfo=0'
 org_summary: >-
   The Office of Exposition Park Management coordinates park activities and
   infrastructure improvements in the Expo Park neighborhood.
-areas_impacted:
-  - South LA
-project_ids: '6102169'
-challenge_url: 'https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination'
 aggregated:
   project_ids:
     - '6102169'
@@ -35,19 +28,10 @@ aggregated:
       https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination
   year_submitted:
     - '2016'
-  org_summary:
-    - >-
-      The Office of Exposition Park Management coordinates park activities and
-      infrastructure improvements in the Expo Park neighborhood.
 title: Office of Exposition Park Management
-uri: /organizations/office-of-exposition-park-management/
 extrapolated_project_ids:
   - '6102169'
 project_titles_from_extrapolated_project_ids:
-  - 'Exposition Park: A Gateway and a Destination'
-project_titles:
-  - 'Exposition Park: A Gateway and a Destination'
-project_titles_from_project_ids:
   - 'Exposition Park: A Gateway and a Destination'
 original_project_titles:
   - 'Exposition Park: A Gateway and a Destination'

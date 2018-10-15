@@ -1,13 +1,10 @@
 ---
 organization_id: '2015003'
-year_submitted: 2015
-organization_name: Academy of Music for the Blind
 organization_website:
   - www.ouramb.org
 ein: '201148737'
 zip: '91016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=201148737'
-ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
   - Disability & aging
@@ -23,9 +20,6 @@ project_video: ''
 org_summary: >-
   We teach musically gifted blind children ages 4-18 to play piano, guitar,
   drums, sax, flute, voice, composition and more!
-areas_impacted: 'San Fernando Valley,County of Los Angeles (countywide)'
-project_ids: '5102008'
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
 aggregated:
   project_ids:
     - '5102008'
@@ -33,19 +27,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
   year_submitted:
     - '2015'
-  org_summary:
-    - >-
-      We teach musically gifted blind children ages 4-18 to play piano, guitar,
-      drums, sax, flute, voice, composition and more!
 title: Academy of Music for the Blind
-uri: /organizations/academy-of-music-for-the-blind/
 extrapolated_project_ids:
   - '5102008'
 project_titles_from_extrapolated_project_ids:
-  - Music School for Blind Children
-project_titles:
-  - Music School for Blind Children
-project_titles_from_project_ids:
   - Music School for Blind Children
 original_project_titles:
   - Music School for Blind Children

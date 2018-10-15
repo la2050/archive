@@ -1,13 +1,10 @@
 ---
 organization_id: '2018113'
-year_submitted: 2018
-organization_name: 'SÜPRSEED, Inc.'
 organization_website:
   - www.suprmarkt.la
 ein: '823768348'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=823768348'
-ntee_type: ''
 tags_indicators:
   - Access to healthy food
   - Community health
@@ -22,15 +19,6 @@ org_summary: >-
   SÜPRMARKT brings affordable organic produce to the people and places that need
   it most in a weekly pop-up grocery + subscription service which accepts EBT
   and educates to create a culture of health.
-areas_impacted:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - South Bay
-  - LAUSD
-project_ids: '8102113'
-challenge_url: 'https://activation.la2050.org/live/süprseed/'
 aggregated:
   project_ids:
     - '8102113'
@@ -38,23 +26,12 @@ aggregated:
     - 'https://activation.la2050.org/live/süprseed/'
   year_submitted:
     - '2018'
-  org_summary:
-    - >-
-      SÜPRMARKT brings affordable organic produce to the people and places that
-      need it most in a weekly pop-up grocery + subscription service which
-      accepts EBT and educates to create a culture of health.
 title: 'SÜPRSEED, Inc.'
-uri: /organizations/süprseed-inc/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Bring Fresh Food Where it's Needed with Education + Access via SÜPRMARKT
-project_titles_from_project_ids:
-  - Bring Fresh Food Where it's Needed with Education + Access via SÃœPRMARKT
 original_project_titles:
   - Bring Fresh Food Where it's Needed with Education + Access via SÜPRMARKT
 original_project_ids:
   - '8102113'
-category: live
 
 ---
