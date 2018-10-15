@@ -608,5 +608,6 @@ maker_answers_list:
     answer: "We are designed to scale! This new technology for engaging people in structured discussion in small diverse groups is designed to facilitate the participation of millions of people. The platform is built on hosted servers, Node.js and MongoDB which means increasing participation is a simple matter of turning on more servers. Our marketing though social media scales with each new person we bring on. \r\n\r\nAs this succeeds we will reach out to more neighborhoods and cities, building up the participation  to entire states, and of course the national government. Later, the world. \r\n"
 body_class: banana
 organization_name: 'Synaccord, LLC'
+published: true
 
 ---

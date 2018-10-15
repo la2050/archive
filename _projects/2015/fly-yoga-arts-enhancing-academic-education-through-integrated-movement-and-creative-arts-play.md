@@ -607,5 +607,6 @@ maker_answers_list:
     answer: "FLY will send our FLY Teaching Artists to lead large staff and teacher trainings for LAUSD schools as well as provide ongoing staff support.  Teachers will be trained to implement the play and movement based curriculum independently in their classrooms.\r\n\r\nWe will create surveys & communication plans that monitor each staff member's understanding and ability to implement lessons in an authentic way, as well as each student's academic progress, level of happiness, and ability to communicate & connect.\r\n\r\nTo keep true to its vision, FLY will create video/ audio recordings to aid in introducing exercises and provide clear curriculum materials: lesson plans, intentions, teacher handbooks, and student worksheets to every participating school.\r\n\r\nFLY will also provide all necessary materials and equipment including in class tools and curriculum elements such as flash cards, handouts, yoga mats, art supplies, to support our program for a full calendar year. "
 body_class: strawberry
 organization_name: FLY Yoga Arts
+published: true
 
 ---

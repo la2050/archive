@@ -487,5 +487,6 @@ project_summary: >-
   it from a 2 person 4 week program that is an integral part of our program
   today employing, training and educating 30 high school youth year round for
   their personal and professional career development.
+published: true
 
 ---

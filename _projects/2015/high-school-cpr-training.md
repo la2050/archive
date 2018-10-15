@@ -660,5 +660,6 @@ maker_answers_list:
     answer: "With the success of this program, we envision working with other regional and city fire departments and non-profit organizations such as the Red Cross and National HART Foundation to expand the program into additional municipalities in the L.A. region. Moreover, the program could be replicated anywhere in the State of California or the United States, using our curriculum and materials. It is worth noting that the California legislature is reintroducing a bill that was defeated last session requiring CPR training in all high schools throughout the state. We are certain that every community would want this level of training, and we know that every firefighter and paramedic has the skills to do the training. Joining with fire departments and other public health organizations in California, we support legislation to mandate training throughout California and hope the High School CPR Training Program will serve as a cost-effective, efficient model for this anticipated new law.\r\n\r\nSaving lives is important. Giving teenagers the tools to save lives is empowering for them and good for the health of the community."
 body_class: lime
 organization_name: Los Angeles Fire Department Foundation
+published: true
 
 ---

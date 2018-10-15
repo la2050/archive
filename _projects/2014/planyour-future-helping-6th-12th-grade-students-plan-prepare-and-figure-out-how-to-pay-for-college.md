@@ -478,5 +478,6 @@ maker_answers_list:
       CCGI helps 6th-12th grade students develop well-informed plans for their
       education and careers after high school.
 body_class: blueberry
+published: true
 
 ---

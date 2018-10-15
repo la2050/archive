@@ -581,5 +581,6 @@ maker_answers_list:
     answer: "To scale the success, there would be a constant iteration of feedback from students using the product -- we can learn what works & what doesn't.  The product will therefore get better and better over time.  \r\n\r\nIn terms of scaling the business itself, as mentioned above, getting this product into the hands of LAUSD will be a huge signal to other school systems that the product really works. I could then charge them to use it, and use those funds to continue growing the business. \r\n\r\n*NOTE ABOUT THE YOUTUBE VIDEO below! This was a pitch I gave last year; I have since (summer of 2015) completely re-done my UX (for the better!). The fundamental product is the same, but the look-n-feel is much better now. Please let me know if you'd like a tour of the current product (which I am just now getting ready to unveil). Thank you!"
 body_class: blueberry
 organization_name: ApplicantLab
+published: true
 
 ---

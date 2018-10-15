@@ -608,5 +608,6 @@ maker_answers_list:
     answer: "We plan on taking a wrap-around approach to scale the success of this proposal.  Through this approach we will 1) work on building our network and strengthening our infrastructure; 2) remain realistic about our objectives and our capacity; 3) take a practical approach in considering what we can provide and what we will need to outsource; 4) follow a structure of pre-planning for our budget so that we are clear on our most critical expenditures, avoiding overspending and are able to make sure we maintain long-term fiscal health; 5) value professional development opportunities and will participate in those that will support our staff and the sustainability of the program; and 6) Maintain alignment with curricular guidelines of institutions in which our students may be matriculate in to.\r\n\r\nWe also anticipate being able to engage our students on the processes of building and running a business, associated ethics and any fiscal training available.  With the support of our Board of Directors and through building an Advisory Committee for this project, we will have the expertise and guidance needed to ensure we are exploring every possible angle and making practical and effective decisions in scaling our success."
 body_class: strawberry
 organization_name: Project MuszEd
+published: true
 
 ---

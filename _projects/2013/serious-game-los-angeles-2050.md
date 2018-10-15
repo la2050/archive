@@ -288,5 +288,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>The River Project organized the Coalition for a State Park at Taylor Yard and led the successful fight to establish the first state park on the Los Angeles River - Rio de Los Angeles State Park. </p>\r\n\r\n<p>We produced a comprehensive watershed management plan for the Tujunga Wash subwatershed, and are actively engaged in partnership with the City of Los Angeles and the Department of Water & Power in it's implementation. The plan received an award for Innovation in Green Community Planning from the American Planning Association.</p. \r\n\r\n<p>Our educational program has been named in the state board of education's California Guide to Environmental Literacy as one of the best environmental education projects in the state. </p>\r\n\r\n<p>We are currently partnered with the State and the City on bringing Low Impact Development strategies to residential homeowners throughout the City through our Water LA program.  </p>\r\n\r\n<p>We are active in the development of water and land use policy at the local and statewide level.</p>\r\n"
+published: true
 
 ---

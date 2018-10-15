@@ -714,5 +714,6 @@ maker_answers_list:
       scalable model.
 body_class: blueberry
 organization_name: 'City Year LA, Partnership for Los Angeles Schools'
+published: true
 
 ---

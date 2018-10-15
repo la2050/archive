@@ -159,5 +159,6 @@ project_summary: >-
   agency’s dedicated efforts of engaging the youth in pro-social activities,
   assisting youth in becoming more responsible and completing high school,
   saving lives, and ensuring public safety.  
+published: true
 
 ---

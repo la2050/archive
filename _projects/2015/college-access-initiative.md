@@ -698,5 +698,6 @@ maker_answers_list:
       Carson and South Los Angeles.
 body_class: strawberry
 organization_name: Boys & Girls Clubs of Carson
+published: true
 
 ---

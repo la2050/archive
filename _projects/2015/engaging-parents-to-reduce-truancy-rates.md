@@ -593,5 +593,6 @@ maker_answers_list:
     answer: "This proposal will help us build a critical foundation to reducing truancy rates across all of our education sites. \r\nBeyond our Para Los Ninos education sites, best practices of our approach can be shared with other schools in Los Angeles.\r\n\r\nBecause Attorney General Kamala D. Harris has made truancy a priority issue since her time as San Francisco’s District Attorney, and the mandate to address pupil engagement is a key state priority that must be included in all Local Control Accountability Plans (LCAPs), we can share our best practices of this approach with schools outside of our Para Los Ninos education sites. The parent engagement and leadership networks that will be developed throughout the neighborhoods where our families live will facilitate broad communication of success stories that can be accessed at other schools in those communities. "
 body_class: blueberry
 organization_name: Para Los Niños
+published: true
 
 ---

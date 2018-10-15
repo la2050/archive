@@ -595,5 +595,6 @@ maker_answers_list:
     answer: "As a growing movement of Angelenos, BlacklistLA always has scaling at the front of our mind. We believe that a one-year, $100,000  investment in BlacklistLA will allow the organization to effectively keep pace with the high demand, as well as determine how to promote future growth. We believe that our scalability lies in our ability to offer more runs throughout the city, as well as our ability to connect people in-person and online. \r\n"
 body_class: strawberry
 organization_name: BlacklistLA
+published: true
 
 ---

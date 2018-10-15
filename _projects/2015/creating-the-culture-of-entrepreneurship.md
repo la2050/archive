@@ -592,5 +592,6 @@ maker_answers_list:
     answer: "Through the use and design of the web platform we will publish valuable content that is shareable and useful.\r\n\r\nThis program is a catalyst. We hope to use the grant to initiate the first year of program but to not let it end at the end of the grant. With funds from the first year helping launch the first year sales from events and exposure establishing a base for following years of the program.\r\n\r\nThrough the use of web, social media, and strategic marketing it is likely that the second year of the program could be even bigger than the first.\r\n\r\nOur goal is to reach 10,000 people in one year through event attendance and print, utilizing web and social medial to scale the impact across the web."
 body_class: blueberry
 organization_name: 'Citizens Of Culture, '
+published: true
 
 ---

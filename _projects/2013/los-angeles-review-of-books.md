@@ -775,5 +775,6 @@ project_summary: >-
   Our pieces are reprinted by Salon, Daily Beast, & publications in Brazil,
   Germany & elsewhere. And we have managed to begin working toward
   sustainability, increasing our income significantly. 
+published: true
 
 ---

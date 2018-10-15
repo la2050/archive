@@ -646,5 +646,6 @@ maker_answers_list:
       their ideas around the world like we have. 
 body_class: blueberry
 organization_name: Eastside Rehearsal
+published: true
 
 ---

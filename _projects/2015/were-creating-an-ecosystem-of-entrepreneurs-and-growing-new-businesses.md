@@ -650,5 +650,6 @@ maker_answers_list:
     answer: "The overarching aim at the moment is to activate the ecosystem, promote DTLA as a startup hub, and fill gaps in the business development pipeline.\r\n\r\nAs we continue to expand, we believe we can be the driving force to connect the dots on the entire LA startup ecosystem. \r\n\r\nThrough providing mentorship and resources to our current five startup companies with in our pilot program, they are receiving the support and connections necessary to position them for venture funding, or revenue growth, and thus job creation.\r\n\r\nWith each space we open, we'll be able to help more and more startups on-on-one. We'll continue to curate each advisory board relevant to the industry focus, and continue to grow organically through building sub-communities within each vertical and by providing relevant public programming.\r\n\r\nFor us, our partners, and our startups this effort has been a win-win-win.\r\n\r\nHiring staff for Grid110 will be vital in order for us to grow beyond our first space and continue to scale in growing the starting ecosystem."
 body_class: blueberry
 organization_name: 'Grid110, Inc.'
+published: true
 
 ---

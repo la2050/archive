@@ -608,5 +608,6 @@ maker_answers_list:
     answer: "ECS intends to make ECS Serves LA a permanent program offered within its charter school network, and scale the success of it on a yearly basis. Its central administrative leadership – ECS’ executive director and development staff - will take on fundraising for this effort. We have a strong track record with LA funders such as the Weingart Foundation, the Annenberg Foundation, the Ralph M. Parsons Foundation, the Ahmanson Foundation, the Riordan Foundation and the Green Foundation, so we estimate that we’ll be successful on that front. \r\n\r\nShould ECS receive the LA2050 LEARN competition, ECS will also leverage the prestige of a Goldhirsch Foundation grant to engage other new, potential funders in the LA region. \r\n"
 body_class: strawberry
 organization_name: Environmental Charter Schools
+published: true
 
 ---

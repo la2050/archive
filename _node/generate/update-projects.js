@@ -171,7 +171,7 @@ function processFile(filename) {
   // delete data.yaml.original_project_titles
   // delete data.yaml.extrapolated_project_titles
 
-  // data.yaml.published = true
+  data.yaml.published = true
 
   saveMarkdown(filename, data)
 }

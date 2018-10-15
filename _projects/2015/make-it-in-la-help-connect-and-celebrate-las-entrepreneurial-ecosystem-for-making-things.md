@@ -622,5 +622,6 @@ maker_answers_list:
       connect diverse players across different industries and geographies.
 body_class: blueberry
 organization_name: Make it in LA
+published: true
 
 ---

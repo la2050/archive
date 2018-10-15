@@ -276,5 +276,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Currently R4TT has one lot with three households. On average we work with 30 individuals per month. This our biggest achievement. Every time one of our residents moves into stable permanent housing we have accomplished our goal.  Successful reintegration into society is our top priority. \r\n\r\n"
+published: true
 
 ---

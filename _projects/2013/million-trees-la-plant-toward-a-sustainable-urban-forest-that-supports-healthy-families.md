@@ -244,5 +244,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "400,000 Trees by July 2013\r\nMillion Trees LA’s public-private collaboration has planted over 380,000 trees and is on track to plant 400,000 trees by July 2013. \r\n\r\nRate of Planting-6X the last two administrations\r\n\r\nAccording to the City of Los Angeles Urban Forest Division, Los Angles (including the City, NGOs and developers) planted an average of 10,000 trees annually during the previous two administrations. With limited resources and no direct funding from the City’s General Fund, MTLA has increased the annual tree planting six-fold (average 60,000/year).\r\n\r\nRate of Survival -Double the National Average\r\nResearch conducted by the US Forest Service, the national new tree mortality rate is between 10% and 12%. MTLA’s mortality rate is half the national average at 4% and 5%. \r\n\r\nA National Model\r\nThe US Forest Service conducted a national study of large municipal tree planting programs in 2010/11 and found Million Trees LA to be a top model. \r\n\r\nAwards Received\r\n2012-“Best Urban Forestry Program” Award received from California urban Council\r\n\r\n2009-“Outstanding Achievement Award” from the Environmental Protection Agency. \r\n"
+published: true
 
 ---

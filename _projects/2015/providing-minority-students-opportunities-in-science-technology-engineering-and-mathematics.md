@@ -698,5 +698,6 @@ maker_answers_list:
     answer: "Our plan to scale the success is simple. We would like to obtain enough money through grants and other avenues to build our own facility that can hold an influx of students. GMSS would like to build something similar to that of a Boys and Girls Club but strictly dedicated to the profession of STEM. GMSS will be the after school STEM program you will find all the students in the neighborhood spending their time and honing their STEM skills. Our goal is to build four professional, fully equipped science labs comprising of a Biology lab, Analytical Chemistry lab, Organic Chemistry lab, and a Marine Biology lab that will provide students with a wide variety of hands-on opportunities in which students practice technique, gather data, and draw conclusions from those data. GMSS would also like to create an innovative technology and robotics Lab aimed at providing students with the breadth of knowledge that is required for specialization in STEM fields. \r\n"
 body_class: blueberry
 organization_name: 'Great Minds STEM Society '
+published: true
 
 ---

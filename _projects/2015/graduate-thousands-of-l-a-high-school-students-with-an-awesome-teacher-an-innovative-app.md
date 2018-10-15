@@ -655,5 +655,6 @@ maker_answers_list:
       it one step at a time. 
 body_class: blueberry
 organization_name: ClassNube (Nube means Cloud in Spanish)
+published: true
 
 ---

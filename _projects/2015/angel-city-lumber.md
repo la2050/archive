@@ -616,5 +616,6 @@ maker_answers_list:
     answer: "We did not start Angel City Lumber simply to sell wood.  We were seduced by the opportunity to salvage the trees of Los Angeles, otherwise doomed to be buried or chipped, and put them in the hands of artists.  By using local trees and doing the work here in Los Angeles we also saw a way to lower prices - allowing artists and builders to pass on savings to their clients.\r\n\r\nOur long term plan involves scaling up production - there are thousands of usable trees coming down in Los Angeles annually, we want to salvage as many as possible.  This future will require more infrastructure -  vehicles with greater hauling capacity, the hiring of employees and expanding locations. \r\n\r\nThe beauty of urban lumber is the simplicity of it’s message, re-use local resources that are otherwise being wasted.  It is also a sound business plan, as we’ve seen with the success of urban lumber companies elsewhere.  Angel City Lumber hopes to expand it’s operation - while at the same time expanding the awareness of Angelenos of the value of our local resources. "
 body_class: lime
 organization_name: Angel City Lumber
+published: true
 
 ---

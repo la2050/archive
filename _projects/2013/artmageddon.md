@@ -292,5 +292,6 @@ project_summary: >-
   ARTmageddon weekend. Hundreds of thousands of people encountered our simple
   idea, and many of them took the opportunity to walk, bike and metro to art
   nearby!
+published: true
 
 ---

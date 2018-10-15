@@ -590,5 +590,6 @@ maker_answers_list:
     answer: "Our work is, by its nature, self-propagating. As we train and mentor educators who become practitioners and facilitators of council, and as more young people participate in councils in their schools, the numbers of council carriers grows and the practice spreads.\r\nWe are also at a time in our cultural development when the power and value of circle practices are being remembered. With the growth of the restorative justice movement, there is growing demand for the work we do. We expect the success of this project will create more demand for our services. The Bright Star organization is doing amazing work with severely underserved populations in some of LA's most difficult communities, and council is playing a big part in their success. Opportunities to work with other charter schools are and will continue emerging from our work with Bright Star. \r\nThe council space we are building at Gardner will bring additional attention to our work and additional opportunities to work with other schools, and to collaborate with other artists and architects interested in creating spaces for circle conversations. "
 body_class: strawberry
 organization_name: The Ojai Foundation's Council in Schools
+published: true
 
 ---

@@ -236,5 +236,6 @@ project_summary: >-
   encourage change in our gun regulations.  We were included in Vice President
   Biden's meetings in January 2013 where our Speakers Bureau format was
   considered part of a national solution. 
+published: true
 
 ---

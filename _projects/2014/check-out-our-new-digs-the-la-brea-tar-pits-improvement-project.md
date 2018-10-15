@@ -546,5 +546,6 @@ maker_answers_list:
     explanation: ''
     answer: '1'
 body_class: strawberry
+published: true
 
 ---

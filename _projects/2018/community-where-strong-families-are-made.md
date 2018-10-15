@@ -169,5 +169,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
 body_class: tangerine
+published: true
 
 ---

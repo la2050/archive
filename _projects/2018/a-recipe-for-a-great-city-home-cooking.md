@@ -193,5 +193,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/
 body_class: tangerine
+published: true
 
 ---

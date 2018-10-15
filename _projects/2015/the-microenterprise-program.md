@@ -677,5 +677,6 @@ maker_answers_list:
       nation
 body_class: blueberry
 organization_name: Microenterprise.org
+published: true
 
 ---

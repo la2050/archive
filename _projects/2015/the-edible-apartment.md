@@ -610,5 +610,6 @@ maker_answers_list:
       residents, building owners, community members and civic leaders.
 body_class: strawberry
 organization_name: The Edible Apartment
+published: true
 
 ---

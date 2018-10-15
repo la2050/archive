@@ -190,5 +190,6 @@ category_other:
   - LA is the best place to CONNECT
 challenge_url: 'https://activation.la2050.org/play/people-for-parks/'
 body_class: strawberry
+published: true
 
 ---

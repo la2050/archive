@@ -116,5 +116,6 @@ project_proposal_impact:
   - Student education pipeline
 category: learn
 body_class: blueberry
+published: true
 
 ---

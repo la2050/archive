@@ -154,5 +154,6 @@ category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
 body_class: tangerine
+published: true
 
 ---

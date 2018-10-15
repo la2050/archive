@@ -621,5 +621,6 @@ maker_answers_list:
     answer: "We will produce a prototype civic art garden, document the process, and develop a program expanding this opportunity to other schools along the river, serving students from elementary though grad school. The program includes events connecting communities at the site(s).\r\n\r\nWe've identified 8 high schools along the river as pilot sites, from public schools specializing in the arts, to parochial schools for catholics and muslims. The other 2 two schools we plan to work with are Inner City Arts to reach elementary school children and Sci-Arc to offer college and graduate students opportunities to engage in real world applications of civic design studies.\r\n\r\nWinning the LA2050 grant will provide seed money for the coordination of partners with this program and producing the prototype garden. In addition to the treasure, winning the LA2050 grant offers opportunities for counsel and potential partnerships with your advisors and their time, talents and resources as well. It would be an honor to work with you to help make LA a better place to play in the most livable, educational, connecting and creative senses of the word! Thanks for the opportunity to share our project and ideas with the public!"
 body_class: strawberry
 organization_name: Unycyn Civic Arts
+published: true
 
 ---

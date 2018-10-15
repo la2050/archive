@@ -95,5 +95,6 @@ project_proposal_impact:
   - Mental illness
 category: live
 body_class: lime
+published: true
 
 ---

@@ -191,5 +191,6 @@ project_summary: >-
   also advised over 400 businesses so they now operate more sustainably. 
   Specifically, they conserve water and energy, produce less waste, use less
   toxic chemicals and purchase greener products.
+published: true
 
 ---

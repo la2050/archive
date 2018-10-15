@@ -123,5 +123,6 @@ category_other:
   - LA is the best place to CONNECT
 challenge_url: 'https://activation.la2050.org/learn/crayon-collection/'
 body_class: blueberry
+published: true
 
 ---

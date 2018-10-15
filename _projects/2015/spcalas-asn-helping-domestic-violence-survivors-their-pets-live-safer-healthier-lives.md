@@ -625,5 +625,6 @@ maker_answers_list:
     answer: "The success of our proposal will ultimately be measured by the number of animals and survivors we support, as well as whether or not we are successful in replicating the program. Regardless of how many foster parents we’ve acquired, staff hired, or facilities we’ve repurposed, what is fundamentally important, is the number of lives we’ve improved. The number of men, women, and children we help escape the reign of their abuser and seek refuge. The number of survivors we give hope and peace of mind knowing their cherished pet is in good hands. The number of families we reunite and keep intact. This is how we measure success. \r\n\r\nLast year, we helped 62 men, women, and children in 30 families by caring for their pets. A total of 32 dogs, 5 cats, 1 rabbit and 1 hamster were housed in safe, loving homes while their human families received much needed emotional support from domestic violence shelters across Los Angeles County. This year, we want to help more. \r\nIf expanding the ASN program helps save the lives of more people and pets and catches like wildfire – spreading to other humane organizations and communities - our project will be deemed successful. \r\n"
 body_class: strawberry
 organization_name: spcaLA
+published: true
 
 ---

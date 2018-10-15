@@ -275,5 +275,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Best Coffee Roaster 2007\r\nBest Coffeehouse 2012\r\nEconomic Development and successful business consulting.\r\nHigh ratings on Yelp\r\nGreat facebook Page\r\nCommunity involvement and volunteerism \r\nA great community role model for the 1,600 school children, who attend the two LAUSD across the street from us.\r\nAnd many more to come in the future..... "
+published: true
 
 ---

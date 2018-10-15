@@ -630,5 +630,6 @@ organization_name: >-
   Arts for Incarcerated Youth Network: includes AIYN members Armory Center for
   the Arts, Bold Ink/WriteGirl, Coalition for Engaged Education, InsideOut
   Writers, Rhythm Arts Alliance, Street Poets Inc., Unusual Suspects 
+published: true
 
 ---

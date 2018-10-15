@@ -531,5 +531,6 @@ maker_answers_list:
     answer: "Our Clean Air project is both scalable and replicable. After completing the project with girls in the San Fernando Valley we plan to expand it to other areas of Los Angeles with poor air quality using the same equipment which includes air quality sensors and smart phones. We will accomplish this by training educators, community organizers, volunteers and environmental justice organizations on our process as well as on the technical project skills required to design and build solutions. We will make our equipment available via a lending library so that scaling the project can be cost effective.\r\n\r\nAdditionally, our ‘Making for Good’ process is flexible enough to be individualized and implemented with different themes, including health, air quality, and other quality of life issues. DIY Girls is interested in continuing to develop our project around issues that directly affect Los Angeles, including access to healthy food, drought alleviation, and clean energy.  We are working to share our process and provide materials online for anyone to use. We also will help other interested parties replicate our model. "
 body_class: lime
 organization_name: DIY Girls
+published: true
 
 ---

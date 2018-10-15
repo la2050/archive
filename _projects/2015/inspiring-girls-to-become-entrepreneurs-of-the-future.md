@@ -637,5 +637,6 @@ maker_answers_list:
       impact of the program allowing for more girls to participate. 
 body_class: blueberry
 organization_name: 'Girls Inc. of Greater Los Angeles, WhizGirls'
+published: true
 
 ---

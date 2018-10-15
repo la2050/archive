@@ -390,5 +390,6 @@ project_summary: >-
   with a renowned 83 year old ballet dancer/choreographer.  The piece, BLUE
   APPLE, was successfully premiered in September 2012 in the Vortex Dome to a
   very appreciative audience.  
+published: true
 
 ---

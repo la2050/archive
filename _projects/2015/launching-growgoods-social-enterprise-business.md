@@ -620,5 +620,6 @@ maker_answers_list:
     answer: "The GrowGood model can be replicated at other sites, especially other Salvation Army sites across LA County, a plan which has already been discussed with Army senior officials.  On the commercial front, GrowGood’s long term goal is to create a brand with a range of products like Homeboys or Newman’s Own, which creates great products and contributes to the greater good.  Once our brand name has been established, we see many potential areas for expansion from growing California native plants for drought-stricken California gardens to value-add food products such as craft coleslaw and sauces. \r\n"
 body_class: blueberry
 organization_name: 'GrowGood, Inc. '
+published: true
 
 ---

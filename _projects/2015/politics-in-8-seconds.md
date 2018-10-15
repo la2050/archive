@@ -637,5 +637,6 @@ maker_answers_list:
     answer: "Our outreach team will be curating data for the first several elections; however, our long term goal for sustained growth, is to attract enough users that candidates for local office are incentivized to build their own profile, or risk missing a large percentage of the voting population.\r\n\r\nWe are also building an outreach program for social science and government classes at high schools and colleges. Aside from helping inform young voters, this accomplishes two important goals for the scalability of our proposal:\r\n1. It guarantees a strong group of local users in new municipalities.\r\n2. It builds the foundation for an outreach team to contact local candidates in that area.\r\n\r\nWe will focus on Los Angeles County and it’s 88 municipalities before scaling to other areas in Southern California. With proven success in Los Angeles, we plan to duplicate our program in neighboring areas, including Orange County and Ventura County."
 body_class: strawberry
 organization_name: 'Voter, LLC'
+published: true
 
 ---

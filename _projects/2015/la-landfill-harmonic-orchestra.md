@@ -679,5 +679,6 @@ maker_answers_list:
       group approaching him for help in duplicating his efforts in Paraguay.
 body_class: blueberry
 organization_name: T4T.org
+published: true
 
 ---

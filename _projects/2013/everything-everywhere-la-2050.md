@@ -151,5 +151,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>Since 2003, Machine Project has built a national reputation for nurturing innovative, experimental modes of arts engagement by framing challenging arts and educational opportunities as fun, approachable, and occasionally bizarre community events.  And together all of our interrelated activities create active participants in culture where everyone sees themselves as producers and every place as a site for cultural exchange. Our most important achievements to date include:<p>\r\n<p>\r\n•\tHosted over 1,000 free events on everything from lectures on the sex life of sea slugs, butter-making aerobics, poetry readings, and mind-reading workshops. <p>\r\n•\tChanged how museums relate to their publics.  In the past 4 years we have partnered with major cultural institutions (LACMA, Hammer Museum, Walker Art Center) to develop and execute a replicable model for how artists and small organizations can work with larger institutions to break down participation barriers.<p>\r\n•\tSupported the creation of new work by hundreds of artists.  This includes direct financial support, often presenting their first solo show or first museum show and providing professional video documentation of their work.  <p>"
+published: true
 
 ---

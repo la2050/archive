@@ -672,5 +672,6 @@ maker_answers_list:
     answer: "Success will be measured by achieving the following outcomes: \r\n1) Participating children will have the opportunity to strengthen their parental bonds, helping to alleviate their fears and uncertainties around their parent's absence.\r\n2) Parents receiving a visit are 13-25% less likely to re-offend following re-entry (longitudinal studies in Minnesota and Florida document decreased recidivism rates as a result of even one visit from a family member, mentor or clergy).\r\n3) Volunteers and the general public will have a greater appreciation for the plight of children with a parent in prison and may be more receptive to restorative justice-based reforms.\r\n4) Camp Suzanne’s successful pilot implementation will grow to impact the lives of a greater number of children and their incarcerated parents through program expansion. \r\n"
 body_class: blueberry
 organization_name: 'Get On The Bus a program of the Center for Restorative Justice Works '
+published: true
 
 ---

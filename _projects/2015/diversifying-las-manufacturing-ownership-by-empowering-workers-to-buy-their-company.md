@@ -646,5 +646,6 @@ maker_answers_list:
     answer: "We plan to scale this project first to the Southern California Region and then to the rest of the Country.  Our work has been identified by the Los Angeles providers of Workforce Services as a  Best Practice for saving Jobs. We plan to launch this initiative with these providers as a ‘demonstration program’ and based on our local success share it with the Federal Government.  \r\n\r\nOur plan is to start by deploying this program in 25 Major US Cities through the Department of Labor.\r\n\r\nWe also hope to introduce this concept to Economic Development Professionals in cities throughout California and eventually the rest of the nation.  Every city has an Office of Economic Development who we will reach through social media as we currently do on Linkedin.\r\n\r\nThe National Association of Workforce Providers is a trade group with 14,300 members nationwide that we routinely share innovations with.  This group will also scale the program nationally.  \r\n\r\nWe feel that the idea of long term employees buying the company they work for will be seen as a solution to the issue of income inequality and preserving manufacturing jobs.  These issues have already been highlighted in our nation's upcoming presidential election.\r\n"
 body_class: strawberry
 organization_name: Concerned Capital
+published: true
 
 ---

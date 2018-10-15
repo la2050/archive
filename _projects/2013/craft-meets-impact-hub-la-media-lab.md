@@ -661,5 +661,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>Hub LA has building the social enterprise community in Los Angeles since 2009 and had a physical gathering place since September 2012.  Since then we have built a community of 175 members...and growing!</p>\r\n\r\n<p>These members fall across 12 Change Sectors including: Art and Design, Clean Tech/Renewable Energy, Community Development, Education, Environmental Sustainability, Impact Investing, International Development, Local Food, Media and Entertainment, Public Health and Tech Services for Change; Roughly 70% of members categorizing themselves as social entrepreneurs; the largest sector represented is Media and Entertainment followed by Community Development and Education.</p>\r\n\r\n<p>We have constructed and created 4500 square feet of creative work, meeting, and event space.</p>\r\n\r\n<p>We have built out an additional 3200 square feet to create the Media Lab</p>\r\n    \r\n<p>Sponsorship and partnership of over 50 events to date supporting organizations such as GOOD, Acumen Fund, AIGA, Praxis Labs, Dell Women’s Network for Entrepreneurship, Green Festival, Social Justice Institute to name a few.</p>"
+published: true
 
 ---

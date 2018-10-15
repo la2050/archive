@@ -66,5 +66,6 @@ project_proposal_impact:
   - Proficiency in English and Language Arts and Math
 category: learn
 body_class: blueberry
+published: true
 
 ---

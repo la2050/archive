@@ -580,5 +580,6 @@ maker_answers_list:
     answer: "GREENBOXFARMS have a small environmental footprint and are modular, mobile, and stackable. Because of this design, we will be able to easily scale up by leveraging venture capital funds and income from produce sales.\r\n\r\nIn the future we would like to create pop up grocery stores. These grocery stores would be made out of recycled shipping containers and would employ local residents."
 body_class: strawberry
 organization_name: GREENBOXFARMS
+published: true
 
 ---

@@ -130,5 +130,6 @@ category_other:
   - LA is the best place to PLAY
 challenge_url: 'https://activation.la2050.org/learn/las-best/'
 body_class: blueberry
+published: true
 
 ---

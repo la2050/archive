@@ -628,5 +628,6 @@ maker_answers_list:
     answer: "UFC has ambitious long-term growth plans for its education programs, and there is certainly no lack of foster youth who would benefit from program expansion.  We have held preliminary talks with a number of agencies (DCFS, school districts) exploring opportunities for program expansion, which could help us to scale the programs further should funding become available.  To this end, we have been in discussion with a number of funders about supporting program growth, and launched a new initiatives campaign to secure additional individual and corporate support for these programs.  Should funding become available through these efforts, we are poised to scale up to achieve growth (as we have done with our supportive housing program in 2015, which has achieved <40% growth in the current year).\r\n\r\nMeanwhile, we expect that the external evaluation of our program that is currently underway will help us to validate our relationship-based service model, and identify opportunities to improve our program delivery, so that not only can we scale the program locally, but encourage its replication in communities nationwide. \r\n"
 body_class: blueberry
 organization_name: United Friends of the Children
+published: true
 
 ---

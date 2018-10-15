@@ -292,5 +292,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "10,000+ veterans served since we opened our doors in 1993.\r\nOur Supportive Services for Veteran Families program became a national model within its first year of operation in 2012.\r\nWe consistently maintain an 80% positive transition rate from our transitional programs and a 75% sobriety rate. \r\nWe are the largest veteran community in the U.S.A. with the capacity to house 660 veterans.\r\nOpened a 196-bed permanent housing in 2011 specifically to address the need for affordable housing for low and very-low income veterans"
+published: true
 
 ---

@@ -658,5 +658,6 @@ maker_answers_list:
       of textbooks and other print resources.
 body_class: blueberry
 organization_name: The University Corporation
+published: true
 
 ---

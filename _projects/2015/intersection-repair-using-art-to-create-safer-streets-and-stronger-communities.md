@@ -493,5 +493,6 @@ maker_answers_list:
     answer: "In the near term, all of our plazas will contain easily accessible information (both online and off) encouraging people to get involved and bring similar treatments to their own communities. We will partner with existing organizations such as LACBC, LA Walks, CicLAvia, Frogspot, and LA Más to develop a mailing list and curate an ecosystem of dialog with interested people.\r\n\r\nSimilar to what was done in Portland, we want to create a formalized process within the city so that neighborhoods across Los Angeles can initiate their own implementations and strengthen community in their neighborhoods. We’ll use the compelling data we collect to present the increased traffic safety, decreased crime, and increased pedestrian activity to the city, and work with local council members to make intersection repair fast and easy for any communities that want to try it."
 body_class: strawberry
 organization_name: 'Compiler LA, Utopiad.org'
+published: true
 
 ---

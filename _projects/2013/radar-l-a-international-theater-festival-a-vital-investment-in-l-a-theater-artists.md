@@ -418,5 +418,6 @@ project_summary: >-
   multi-ethnic, multi-lingual, and economically diverse audience, welcoming more
   than 60,000 audience members annually to concerts, dance performances,
   theatrical productions and exhibitions.
+published: true
 
 ---

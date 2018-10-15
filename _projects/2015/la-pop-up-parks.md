@@ -685,5 +685,6 @@ maker_answers_list:
       volunteers.  
 body_class: strawberry
 organization_name: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
+published: true
 
 ---

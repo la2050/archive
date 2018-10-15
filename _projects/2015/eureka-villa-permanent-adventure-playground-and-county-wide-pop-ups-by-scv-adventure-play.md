@@ -599,5 +599,6 @@ maker_answers_list:
     answer: "We feel we have met our goals if the following is true:  \r\n\r\nIf the communities we visit are still enjoying their public spaces this time next year. \r\n\r\nIf Eureka Villa is regularly opening its gates to the public and holding play sessions. \r\n\r\nIf kids are socially connecting with each other as well as neighbors in the community.\r\n\r\nIf we are able to educate and or train other individuals for implementing open ended and or loose parts play.\r\n\r\nIf families have found a new love in playing together.\r\n\r\nIf a culture of respecting our young people's rights to play has been nourished.\r\n\r\nWe continue to develop and support Los Angeles communities to become safer and more connected."
 body_class: strawberry
 organization_name: SCV Adventure Play
+published: true
 
 ---

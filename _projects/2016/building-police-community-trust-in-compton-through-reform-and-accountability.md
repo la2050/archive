@@ -82,5 +82,6 @@ project_proposal_impact:
   - Government responsiveness to residents’ needs
 category: connect
 body_class: tangerine
+published: true
 
 ---

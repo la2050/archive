@@ -157,5 +157,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/
 body_class: tangerine
+published: true
 
 ---

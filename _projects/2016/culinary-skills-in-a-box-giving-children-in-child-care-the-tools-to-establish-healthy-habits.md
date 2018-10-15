@@ -129,5 +129,6 @@ project_proposal_impact:
   - Obesity
 category: live
 body_class: lime
+published: true
 
 ---

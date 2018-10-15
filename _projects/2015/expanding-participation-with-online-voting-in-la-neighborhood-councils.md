@@ -626,5 +626,6 @@ maker_answers_list:
       future years. 
 body_class: strawberry
 organization_name: Civic Tech USC
+published: true
 
 ---

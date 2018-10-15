@@ -318,5 +318,6 @@ project_summary: >-
   festivals in Southern California, the only LGBT people of color film festival,
   three filmmaking programs using mentors, and we have over 400 volunteers who
   participate in our programs. 
+published: true
 
 ---

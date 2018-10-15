@@ -169,5 +169,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/
 body_class: tangerine
+published: true
 
 ---

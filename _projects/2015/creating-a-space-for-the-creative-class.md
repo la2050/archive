@@ -639,5 +639,6 @@ maker_answers_list:
     answer: "This proposal will create a speaker series and business toolkit. Capturing the thoughts, experiences, and resources shared by our experts in the business toolkit will create a scalable resource that we can share with craft furniture makers throughout Los Angeles, California, and the US. In addition to promoting the resources through our own network, we will work with partner organizations to leverage their networks as well. While the content of the business toolkit will be geared toward craft furniture makers, we fully expect that the salient points can be extrapolated and applied by artists and artisans more generally. \r\n\r\nOur secondary goals are to grow our existing workshop and apprenticeship programs. We would like to formalize a curriculum for both programs that can be shared with other collective wood shops. \r\n\r\nMore generally, interest in collective shops is growing rapidly as a way to leverage resources and create community. We have already shared our ideas and experiences with similar ventures in Austin, Minneapolis, Northern California, and North Carolina. We will continue to share our perspective and offer our curriculum and toolkit as resources for these new ventures. \r\n"
 body_class: blueberry
 organization_name: Off The Saw
+published: true
 
 ---

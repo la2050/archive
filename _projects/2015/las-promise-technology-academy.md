@@ -685,5 +685,6 @@ maker_answers_list:
     answer: "The LA’s Promise Technology Academy has the potential to expand in the following areas:\r\n\r\nSchool-Wide – Grow programing elements to include all students at each school site.\r\n\r\nDiversification of Content – Offer a greater variety of STEM activities in subject areas such as Video Game Design, Computer Animation, and Robotics.\r\n\r\nMultiyear/Multilevel Programing – Create an advanced curriculum for returning participants and to serve more students.\r\n\r\nOff-Site Expansion – Expand program to other schools within the Los Angeles Unified School District."
 body_class: banana
 organization_name: LA's Promise
+published: true
 
 ---

@@ -160,5 +160,6 @@ category_other:
   - LA is the best place to LEARN
 challenge_url: 'https://activation.la2050.org/create/roadtrip-nation/'
 body_class: banana
+published: true
 
 ---

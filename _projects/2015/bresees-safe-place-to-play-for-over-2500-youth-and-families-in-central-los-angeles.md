@@ -578,5 +578,6 @@ maker_answers_list:
     answer: "Bresee plans to scale the success of its Safe Place to Play Multi-Sport Court by serving as a model for KaBoom! and the US Soccer Foundation’s Lets Play Initiative, which seeks to transform underutilized spaces in underserved neighborhoods into designated places to play. This will allow Bresee to lead the way in creating safe places where youth and families have access to healthy physical activity, safe alternatives to gang involvement, and positive youth development activities.\r\n\r\nAdditionally, Bresee is currently seeking to partner with the new Major League Soccer Team LAFC to replicating its sports programming in other high need areas of Los Angeles including East Los Angeles, West Los Angeles, South Los Angeles, Pacoima, Mar Vista, and Venice. Lastly, Bresee envisions current program participants returning as college graduates to expand services to other areas in Los Angeles and to continue Bresee’s track record of creating the next generation of community leaders.\r\n"
 body_class: blueberry
 organization_name: P.F. Bresee Foundation
+published: true
 
 ---

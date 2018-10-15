@@ -653,5 +653,6 @@ maker_answers_list:
     answer: "To scale the success of the event Tiny Rebellion would take a two pronged approach to not only increase local engagement with #FeedtheDolphins, but also expand the program to other areas of Los Angeles. In conjunction with the city, Tiny Rebellion would tap into the thriving art community in Santa Monica to host competitions for local artists to decorate the four dolphins. Similar to how other cities have iconic animal statues, such as the Chicago cows, the Santa Monica dolphins would become celebrated icons of the West Side community. The agency would also work with the city to update the statue plaques to provide more information on the donation programs, and the #FeedtheDolphins campaign. \r\n\tAfter the initial success of the #FeedtheDolphins campaign in Santa Monica, Tiny Rebellion would like to expand the program across greater Los Angeles. The agency would use this campaign as a case study to partner with other city governments and business hubs to build donation statues in other commercial areas. By giving neighborhoods across the city ‘dolphins’ of their own, the #FeedtheDolphins campaign will not only bring together the West Side community, but has the potential to connect all of Los Angeles to the homeless situation. \r\n"
 body_class: lime
 organization_name: Tiny Rebellion
+published: true
 
 ---

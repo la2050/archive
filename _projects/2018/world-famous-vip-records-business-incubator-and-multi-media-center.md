@@ -162,5 +162,6 @@ category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
 body_class: banana
+published: true
 
 ---

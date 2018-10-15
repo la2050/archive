@@ -83,5 +83,6 @@ project_proposal_impact:
   - Arts establishments
 category: create
 body_class: banana
+published: true
 
 ---

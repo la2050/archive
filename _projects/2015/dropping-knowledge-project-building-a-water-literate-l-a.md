@@ -612,5 +612,6 @@ maker_answers_list:
     answer: "Heal the Bay has three decades of experience spearheading effective educational and advocacy campaigns in Los Angeles. In fact, Heal the Bay’s first major victory was the citizen-driven initiative that resulted in critical infrastructure upgrades at the Hyperion Treatment Plant in 1987– still to this day, one of most important environmental wins to benefit the Santa Monica Bay. \r\n\r\nHeal the Bay is confident that its proposed Dropping Knowledge Project will make a great impact due in large part to the organization’s capacity to develop meaningful, call-to-action messaging, broad network of contacts in the Greater Los Angeles area and reputation as a reliable educational resource for the greater community– the project also has the potential of being successfully replicated in other large urban cities with water security issues and ethnically diverse populations.\r\n"
 body_class: banana
 organization_name: Heal the Bay
+published: true
 
 ---

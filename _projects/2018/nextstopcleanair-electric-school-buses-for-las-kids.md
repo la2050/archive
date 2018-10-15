@@ -165,5 +165,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/live/environment-california-research-policy-center/
 body_class: lime
+published: true
 
 ---

@@ -625,5 +625,6 @@ maker_answers_list:
     answer: "The first step will be to produce the campaign video and advertising materials.\r\n\r\nThen, we will review all upcoming events and advertising opportunities in Los Angeles throughout the next 6 to 8 months and budget for those.\r\n\r\nThe rest of the funds will be allocated on a month-to-month basis based on the conversion rates we get through the various advertising outlets. We’ll start small in advertising pockets, and determine which markets and platforms are most successful and scale our budget accordingly. \r\n\r\nShould the city accept our proposal before our entire budget is spent, the remainder of the funds will go towards increasing enthusiasm and support for the new, redesigned LA flag!\r\n"
 body_class: strawberry
 organization_name: Los Angeles Flag
+published: true
 
 ---

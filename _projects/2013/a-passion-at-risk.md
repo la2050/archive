@@ -259,5 +259,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Pacesetter Productions is a new name for a consulting business Lee Condon has run from 2005 to the present. During that time, our project teams have produced more than 30 videos honoring teachers, principals and schools that have won awards from the California Charter Schools Association. Please see examples here: \r\nhttp://www.leecondon.com/video-production.html\r\nIn addition, Lee Condon served as the producer of the California Charter Schools Conference from 2007 to 2012, creating extensive programming for teachers, including a Teacher Expo. The event grew from 1,600 to 3,300 attendees in this time period. Our teams have also produced promotions and videos to support the growth of the charter school movement. Please see details here. \r\nhttp://www.leecondon.com/portfolio.html\r\nLee Condon, the director and producer of the film, was a founding staff member at the California Charter Schools Association and served as chief of staff to LAUSD School Board President Caprice Young. \r\nBefore becoming involved in education reform, Lee Condon worked as a journalist for 11 years. Selected writing is linked below: \r\nhttp://www.leecondon.com/writing.html"
+published: true
 
 ---

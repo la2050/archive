@@ -128,5 +128,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/live/neighborhood-housing-services-of-los-angeles-county/
 body_class: lime
+published: true
 
 ---

@@ -271,5 +271,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "The David Lynch Foundation has instructed over 250,000 at-risk populations worldwide in the Transcendental Meditation program. \r\n\r\nPrograms focus on at-risk students, veterans with PTSD, homeless and retraining programs, women and girls initiatives\r\n\r\nPlease view some of the program successes at:\r\n\r\nwww.davidlynchfoundation.org\r\n"
+published: true
 
 ---

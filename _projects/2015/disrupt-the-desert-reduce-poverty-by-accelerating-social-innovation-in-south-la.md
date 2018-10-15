@@ -549,5 +549,6 @@ maker_answers_list:
     answer: "To ensure that other communities can benefit from this model of place-based, locally-grounded, multi-stakeholder revival, we would also produce a playbook that catalogs guiding principles, methods, and approach, and distills key success factors for replication. Documenting learnings and communicating both successes and learning opportunities will enable others to adapt this model to their local context.\r\n"
 body_class: blueberry
 organization_name: Social Action Partners (SoACT)
+published: true
 
 ---

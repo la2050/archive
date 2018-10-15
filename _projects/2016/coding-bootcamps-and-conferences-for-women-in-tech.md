@@ -129,5 +129,6 @@ project_proposal_impact:
   - High growth startups
 category: create
 body_class: banana
+published: true
 
 ---

@@ -512,5 +512,6 @@ project_summary: >-
   college, and with this example, their families, neighborhoods, schools, and
   peers adopt a mindset that a college degree is the expectation, not the
   exception. 
+published: true
 
 ---

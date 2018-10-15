@@ -321,5 +321,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "City Earthworm was started with a single mission: to make composting a household activity.  We designed and built the City Bin, a modern and compact indoor composter that will allow EVERYONE to compost, regardless of the size of their living space or yard.  The City Bin will soon be in production locally in Los Angeles County and will be manufactured using recycled plastic.  \r\n\r\nBoth City Earthworm and the City Bin have been featured in blogs, newspapers, as well as in television news programs.  \r\n\r\nCity Earthworm realizes that, while it would be great to allow more people to compost at home, there will also be some people who do not want to or are unable to do so.  The easiest way to truly popularize composting is to make it easy for people.  Therefore, we started offering a food service pick-up program to apartment dwellers in Santa Monica.  We now hope to expand our service to the entire Los Angeles County.\r\n"
+published: true
 
 ---

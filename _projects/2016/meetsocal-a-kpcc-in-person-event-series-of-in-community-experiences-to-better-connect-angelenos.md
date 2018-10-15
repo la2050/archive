@@ -137,5 +137,6 @@ project_proposal_impact:
   - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
+published: true
 
 ---

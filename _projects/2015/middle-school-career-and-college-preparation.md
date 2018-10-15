@@ -554,5 +554,6 @@ maker_answers_list:
       want it but are unable to afford even $1,667 per year in fees.
 body_class: blueberry
 organization_name: Career & College clubs
+published: true
 
 ---

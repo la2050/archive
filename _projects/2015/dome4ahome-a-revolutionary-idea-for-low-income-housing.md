@@ -617,5 +617,6 @@ maker_answers_list:
       sponsorship to contribute a number of Dome homes.
 body_class: strawberry
 organization_name: 'HDomes.com, Shacklebrand Designs'
+published: true
 
 ---

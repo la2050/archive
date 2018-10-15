@@ -148,5 +148,6 @@ project_proposal_impact:
   - Early education
 category: learn
 body_class: blueberry
+published: true
 
 ---

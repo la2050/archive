@@ -660,5 +660,6 @@ maker_answers_list:
       of the communities in which new centers may open.
 body_class: strawberry
 organization_name: Culture Shock Los Angeles
+published: true
 
 ---

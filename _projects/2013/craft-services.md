@@ -284,5 +284,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "-TEDxUSC at The Stevens School of Innovation, University of Southern California\r\n-Department of World Arts and Culture, University of California Los Angeles (UCLA)\r\n-The Murphy Sculpture Garden, University of California Los Angeles (UCLA)\r\n-Beyond the BA, Department of Art History, University of Michigan, Ann Arbor, Michigan\r\n-The Art+Play Neighborhood Project, Venice, California\r\n-The Representational Art Conference, California Lutheran College, Ventura, CA\r\n-Play Space, Bleicher/Golightly Gallery, Santa Monica, CA\r\n-Art+Play with Cristobal Valecillos, LA Art Show, Los Angeles, CA\r\n"
+published: true
 
 ---

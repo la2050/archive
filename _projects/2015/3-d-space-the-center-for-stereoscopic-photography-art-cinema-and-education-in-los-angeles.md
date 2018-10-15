@@ -651,5 +651,6 @@ maker_answers_list:
     answer: "The proposed plan can be scaled to include increased frequency and availability of presentations, classes and workshops citywide and countywide in order to provide creative opportunities to larger portions of the community. Specific topics and techniques can be expanded upon and programs can be individually tailored to meet the needs of specific populations. Our programs will also be able to supplement a broader STEAM curriculum in partnership with other arts and science organizations and local school districts and colleges. \r\n\r\n"
 body_class: blueberry
 organization_name: 3-D SPACE
+published: true
 
 ---

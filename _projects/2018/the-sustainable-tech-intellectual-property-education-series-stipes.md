@@ -217,5 +217,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/create/long-beach-downtown-development-corporation/
 body_class: banana
+published: true
 
 ---

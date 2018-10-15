@@ -297,5 +297,6 @@ project_summary: >-
   CA. The support we had in developing a crowdfunding model for solar finance
   was absolutely humbling, and to see what happens when a good idea's time has
   come was inspiring. 
+published: true
 
 ---

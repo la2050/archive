@@ -675,5 +675,6 @@ maker_answers_list:
       Inglewood, San Gabriel Valley, San Fernando, Lancaster, and Palmdale).
 body_class: lime
 organization_name: Clothes The Deal
+published: true
 
 ---

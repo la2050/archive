@@ -268,5 +268,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "None.  \r\n\r\nOur organization has not published anything public yet.  I conceived this idea about three months ago after talking with the CEO of Dekit Magazine.  If I were to receive this grant, I could have the website and social media channels up and running in less than a month, and weekly episodes for all 3 brands out in less than two months. \r\n\r\nI can tell you that as an individual, I have line produced two feature films, one of which was acquired and released by Lionsgate (you can view my resume on IMDB at http://www.imdb.com/name/nm1336027/).  I have become a member of the Producer's Guild of America, and I partnered with others on two separate internet media companies, and while they fell short of expectations, I have learned from their mistakes.\r\n"
+published: true
 
 ---

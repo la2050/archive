@@ -333,5 +333,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>Urban Macrosystems’ partners have collaborated on several projects prior to its inception:</p>\r\n\r\n<p>MultipliCity – A public art demonstration project for the Los Angeles County MTA, 2000-2003</p>\r\n<p>Canal du Rhone au Rhin, a Masterplan for Art, Saint Symphorien, France, 2004 </p>\r\n<p>Mission Central Market, South Pasadena 2004</p>\r\n<p>Bug Screen – A Sculpture in Celebrezze Plaza, Cleveland, 2007</p>\r\n<p>After the city, this (is how we live). – A Pamphlet published by the Los Angeles Forum for Architecture and Urban Design, 2008</p>\r\n<p>Toluca Lake Executive Building, Burbank, 2009</p>\r\n<p>Wind Thing – A Sculpture at the W-Hollywood, 2011</p>\r\n<p>Woven Walk – A sculpture for LAX Tom Bradley International Terminal, 2013</p>\r\n<p>Birds Words – A series of structures for the North Embarcadero Visionary Plan, San Diego 2014</p>"
+published: true
 
 ---

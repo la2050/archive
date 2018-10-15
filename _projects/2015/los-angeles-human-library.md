@@ -653,5 +653,6 @@ maker_answers_list:
       experiences with one another. 
 body_class: blueberry
 organization_name: Silverlake Independent Jewish Community Center
+published: true
 
 ---

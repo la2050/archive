@@ -169,5 +169,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/
 body_class: blueberry
+published: true
 
 ---

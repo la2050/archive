@@ -298,5 +298,6 @@ project_summary: >-
   Theater performances build on the tremendous success of the Clark’s Chamber
   Music Series, now entering its 20th year, which draws over 700 people each
   year. 
+published: true
 
 ---

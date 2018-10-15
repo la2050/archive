@@ -234,5 +234,6 @@ project_summary: >-
   Marc has also worked with some of the leading companies in the automotive,
   architecture and engineering fields on urban mobility projects, including the
   launch of electric vehicles and charging infrastructure.
+published: true
 
 ---

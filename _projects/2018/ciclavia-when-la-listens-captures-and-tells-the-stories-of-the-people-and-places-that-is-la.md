@@ -153,5 +153,6 @@ category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/connect/ciclavia/'
 body_class: tangerine
+published: true
 
 ---

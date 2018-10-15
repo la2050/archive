@@ -62,5 +62,6 @@ project_proposal_impact:
   - Measures of cultural and global economic influence (“soft power”)
 category: create
 body_class: banana
+published: true
 
 ---

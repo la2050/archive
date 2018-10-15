@@ -152,5 +152,6 @@ category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/create/east-la-community-corporation-elacc/'
 body_class: banana
+published: true
 
 ---

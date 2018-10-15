@@ -642,5 +642,6 @@ maker_answers_list:
       allow us to train additional trainers to meet the demand for our work.  
 body_class: lime
 organization_name: Center for Council
+published: true
 
 ---

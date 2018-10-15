@@ -655,5 +655,6 @@ maker_answers_list:
       projects.  
 body_class: strawberry
 organization_name: Project Backboard
+published: true
 
 ---

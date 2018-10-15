@@ -771,5 +771,6 @@ maker_answers_list:
       our projection and program
 body_class: blueberry
 organization_name: Ambulante
+published: true
 
 ---

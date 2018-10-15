@@ -615,5 +615,6 @@ maker_answers_list:
     answer: "As mentioned earlier, this proposal is about taking a unique math fluency system that has proven to be successful in Los Angeles and starting to bring it to scale throughout LA, thereby making LA the best place to learn.  \r\n\r\nWhat is most important about this proposal is not just that six lead schools will initially benefit from this grant. The important part is that these six schools will serve as models for building math fluency that many other schools will then feel comfortable following. \r\n\r\nThat is the true value of this grant –\_it creates proof points and raises student expectations for all of Los Angeles.\r\n\r\nAll the classroom materials, teacher trainings, and parent workshops described in this proposal have already been designed and created, so it is a turnkey solution ready for immediate use.\r\n\r\nOnce more schools see the value of building math fluency and start to adopt the system, additional staff will be hired to assist with marketing, fulfillment, training, on-campus support, and administrative tasks. "
 body_class: blueberry
 organization_name: 'Ironbox Education, Inc.'
+published: true
 
 ---

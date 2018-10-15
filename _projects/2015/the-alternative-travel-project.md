@@ -597,5 +597,6 @@ maker_answers_list:
       by ATP & to network with likeminded individuals.
 body_class: strawberry
 organization_name: the Alternative Travel Project
+published: true
 
 ---

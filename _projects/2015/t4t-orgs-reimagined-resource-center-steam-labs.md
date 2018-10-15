@@ -633,5 +633,6 @@ maker_answers_list:
     answer: "We have been building these RRC STEAM Labs for the last two years. The first year we built two, last year we built nine, five of those through a grant from Metabolic Studios as a result of our 2014 application to LA2050. \r\n\r\nIt is our intention to continue to look for grants and to continue to offer these inspiring programs in as many of the 400+ high-poverty schools as possible. We have dozen’s of request and they continue to arrive through our web site, phone calls and email. The demand is there. \r\n\r\nOur long range goal would be to see RRC STEAM Labs in schools all over the country. Where there is manufacturing, there should be a T4T.org outlet building RRC STEAM Labs.\r\n"
 body_class: blueberry
 organization_name: T4T.org
+published: true
 
 ---

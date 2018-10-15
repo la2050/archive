@@ -318,5 +318,6 @@ project_summary: >-
   “Heroes’ Stories” – a performing arts residency that gives a voice to our
   nations brave service members helping to honor and empower them through
   theatre.
+published: true
 
 ---

@@ -621,5 +621,6 @@ maker_answers_list:
     answer: By replicating this project in similar communities!
 body_class: strawberry
 organization_name: From Lot to Spot
+published: true
 
 ---

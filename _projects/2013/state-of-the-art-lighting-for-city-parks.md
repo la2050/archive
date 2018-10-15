@@ -309,5 +309,6 @@ project_summary: >-
   and installation company for high output energy efficient fixtures.  Hive is
   part of the Mayor’s Los Angeles CleanTech Incubator, bringing clean technology
   companies to the City of Los Angeles.
+published: true
 
 ---

@@ -587,5 +587,6 @@ maker_answers_list:
     answer: "Establishing the first SeePolitical Institute in Los Angeles is just the beginning. We are creating a model for other states to adopt our program to provide nonpartisan information on state and local issues and elections. \r\n\r\nSeePolitical will establish similar relationships with universities in all 50 states, by which their students enter our program or fellowship to research and explain the issues confronting their states' voters.  \r\n\r\nA gift from the Goldhirsh Foundation this year will establish a reputation for improving civic literacy across the city, state and soon the nation!"
 body_class: blueberry
 organization_name: SeePolitical
+published: true
 
 ---

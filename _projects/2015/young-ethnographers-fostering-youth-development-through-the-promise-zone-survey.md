@@ -677,5 +677,6 @@ body_class: blueberry
 organization_name: >-
   Los Angeles Promise Zone Initiative | LA Mayor's Office of Economic
   Development c/o Mayor's Fund for Los Angeles
+published: true
 
 ---

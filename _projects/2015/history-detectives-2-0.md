@@ -616,5 +616,6 @@ maker_answers_list:
     answer: "One van/truck/bus will increase in size and its capacity to accommodate more student/participants on each Project.\r\n\r\nOne vehicle will then grow to two and those two again increase until each of the school's wishing to participate can have that chance.\r\n\r\nLA is a city with actors in between professional work, ex-teachers waiting for the call to teach.\r\n\r\nOur infra-structure will accommodate and use all of those other-wise idle hours to grow our ability to deliver to more each year. \r\n"
 body_class: banana
 organization_name: Robey Theatre Company
+published: true
 
 ---

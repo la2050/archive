@@ -601,5 +601,6 @@ maker_answers_list:
       programs to begin.
 body_class: strawberry
 organization_name: 'City of Los Angeles, Department of Recreation and Parks'
+published: true
 
 ---

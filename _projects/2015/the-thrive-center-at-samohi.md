@@ -669,5 +669,6 @@ body_class: strawberry
 organization_name: >-
   Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
   SMMUSD
+published: true
 
 ---

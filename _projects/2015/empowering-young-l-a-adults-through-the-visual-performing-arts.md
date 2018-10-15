@@ -618,5 +618,6 @@ maker_answers_list:
     answer: "We will scale the success of our proposal by matching our current membership and attendance numbers to the following year's. We will also match the number of events we organized and participated in, the number of new workshops, classes and professional opportunities we were able to provide for our members, compared to previous years. \r\n\r\nSocial media follows and likes, newsletter subscriptions will also tell whether or not we were able to reach more people in our community than before. \r\n\r\nFurthermore, the results from surveys will tell how effective our attempts of reaching and serving our community have been. "
 body_class: strawberry
 organization_name: PIECES Teens Arts
+published: true
 
 ---

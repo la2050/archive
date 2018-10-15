@@ -84,5 +84,6 @@ project_proposal_impact:
   - Manufacturing activity
 category: create
 body_class: banana
+published: true
 
 ---

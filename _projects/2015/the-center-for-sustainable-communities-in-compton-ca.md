@@ -558,5 +558,6 @@ maker_answers_list:
     explanation: ''
     answer: '0'
 body_class: strawberry
+published: true
 
 ---

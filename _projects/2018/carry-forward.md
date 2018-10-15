@@ -144,5 +144,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/
 body_class: lime
+published: true
 
 ---

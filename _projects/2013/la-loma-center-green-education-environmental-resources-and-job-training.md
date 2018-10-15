@@ -455,5 +455,6 @@ project_summary: >-
   are a registered Small Business, Minority Business Enterprise, and
   pre-qualified for projects with LAUSD, MWD, among other major institutions. 
   We have created jobs and income during a recession, what more can you ask?
+published: true
 
 ---

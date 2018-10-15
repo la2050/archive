@@ -168,5 +168,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/connect/los-angeles-alliance-for-a-new-economy-fair-workweek/
 body_class: tangerine
+published: true
 
 ---

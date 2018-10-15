@@ -683,5 +683,6 @@ maker_answers_list:
       demonstration projects.
 body_class: strawberry
 organization_name: Connect the Dots LA
+published: true
 
 ---

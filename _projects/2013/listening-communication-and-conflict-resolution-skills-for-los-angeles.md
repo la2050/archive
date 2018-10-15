@@ -203,5 +203,6 @@ project_summary: >-
   Program of the Office of the Los Angeles City Attorney.  Emeritus UCLA
   Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
   undergraduates have been trained as a result of that class.
+published: true
 
 ---

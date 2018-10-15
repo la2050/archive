@@ -735,5 +735,6 @@ maker_answers_list:
     answer: "The MRCA will put into motion a desire and need for more multiple benefit parks in an already park poor Los Angeles. An obvious measure of the park’s success will be its frequent use by the public and the fact that this currently vacant and deteriorated site will become an active and beautiful place for people to enjoy. There is currently a large desire and need to increase open space by transforming vacant lots throughout Los Angeles into spaces that the public can utilize and activate. The mere creation and use of this park will be a major success and a step in the right direction to live in a clean Los Angeles.  \r\nEl Dorado Park will not only improve the quality of life in the surrounding community but will have a greater impact through the improvement of it’s water quality. Once El Dorado Park is finished it will be maintained by the City of Los Angeles Department of Recreation and Parks. We hope that by building this resilient multiple benefit park it will influence the City of Los Angeles to continue the effort in creating more similar parks that can improve the quality of life all over Los Angeles.\r\n"
 body_class: strawberry
 organization_name: Mountains Recreation and Conservation Authority
+published: true
 
 ---

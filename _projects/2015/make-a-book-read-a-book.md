@@ -574,5 +574,6 @@ maker_answers_list:
     answer: "We are currently focusing on underserved elementary schools in our immediate area.  This program can be expand by:\r\n1.\tIdentify schools out of our immediate area and implement the program with the assistance of new participating schools.  The program would concentrate on grades 3-5.\r\n2.\tPrototype the program in a middle school grades 6-8.  Adjust and expand into the local schools as a start.\r\n3.\tReach out to the wider school system and invite schools to apply to the program.\r\n4.\tPublish the results of the program so other schools are aware of the program.\r\n"
 body_class: strawberry
 organization_name: BookArtsLA
+published: true
 
 ---

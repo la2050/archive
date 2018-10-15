@@ -312,5 +312,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "CitySourced has developed a suite of award winning mobile and web civic engagement applications deployed in over 30 cities worldwide. Our mobile applications have been downloaded over 50,000 times and have brought better service and data to the residents and cities we serve. \r\n\r\nCitySourced is the official civic engagement platform for cities such as San Jose, Honolulu, Omaha and LAUSD. Our solution directly benefits over 13.2 million citizens worldwide, and we're deployed in six countries spread out across the globe. \r\n\r\nAs a leader in the civic engagement space, CitySourced has received numerous awards. Below are just a few:\r\n\r\n2009 TechCrunch50 Conference: 3rd Place (of 700 entries)\r\n  \r\n2009 OnDC Winner\r\n\r\n2010 San Francisco Magazine's \"Best Urban-Action App\"\r\n\r\n2011 e.Republic Center for Digital Government's \"Best of the Web\" \r\n\r\n2011 GovFresh's \"Best Civic Startup\" and \"App of the Year\"\r\n \r\n2012 e.Republic Center for Digital Government's \"Best of California award for Best Application Serving the Public\"\r\n \r\n2012 California Helen Putnam Award for Excellence\r\n\r\n2013 IBM's Beacon Award Finalist for Smarter Cities\r\n"
+published: true
 
 ---

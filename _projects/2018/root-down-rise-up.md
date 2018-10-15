@@ -164,5 +164,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
 body_class: tangerine
+published: true
 
 ---

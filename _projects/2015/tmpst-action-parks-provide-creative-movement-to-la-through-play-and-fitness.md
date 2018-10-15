@@ -600,5 +600,6 @@ maker_answers_list:
       fun through fitness!
 body_class: blueberry
 organization_name: Tempest Action Parks
+published: true
 
 ---

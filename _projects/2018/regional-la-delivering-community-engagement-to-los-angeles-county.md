@@ -177,5 +177,6 @@ category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/connect/regional-la/'
 body_class: tangerine
+published: true
 
 ---

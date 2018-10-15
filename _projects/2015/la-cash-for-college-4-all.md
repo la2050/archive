@@ -625,5 +625,6 @@ maker_answers_list:
     answer: "The LA Cash for College program recently launched its new website. With the new website, the program is developing better ways of reaching students, including: blogs from staff members and experts about college access issues, an integrated social media strategy, text messaging to students, and intentional emailing.\r\n\r\nIn addition to the website, the LA Cash for College team plans to develop the California Student Aid Commission's smart phone app by linking to the LA Cash for College Campaign. Understanding the ways in which students consume information today, the app will attract more students, give us the ability to measure which resources are most useful to them, and guide our future information and assistance strategies. The application will also allow our program to attract, organize and coordinate volunteers."
 body_class: blueberry
 organization_name: UNITE-LA
+published: true
 
 ---

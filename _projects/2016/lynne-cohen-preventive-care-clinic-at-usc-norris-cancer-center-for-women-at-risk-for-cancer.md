@@ -128,5 +128,6 @@ project_proposal_impact:
   - Healthcare access
 category: live
 body_class: lime
+published: true
 
 ---

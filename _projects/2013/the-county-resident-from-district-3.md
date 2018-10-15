@@ -329,5 +329,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>-Attended the last two years of Los Angeles County Board of Supervisors meetings</p>\r\n<p>-Identified as the \"Target\" of a failed effort to limit public comment.\r\n-Fought successfully to get Citizens Commission on Jail Violence \r\nTranscripts.</p>\r\n<p>-Pressed for Jail reform meetings on Tuesdays, despite Supervisorial \r\nresistance.</p>\r\n<p>-Brought KCET's Socal Connected the \"Family Ties\" story about undue Lobbying influence.</p>\r\n<p>-Exposed Sheriff Baca as out-of-town during jail crisis, in \r\nLA Weekly.</p>\r\n<p>-Heightened awareness about Board of Supervisors tooling around DC in limos.</p>\r\n<p>-Exposed conflict-of-interest for fundraiser, Erin Pak, to serve as \r\nCity Ethics Commissioner.</p>\r\n"
+published: true
 
 ---

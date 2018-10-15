@@ -130,5 +130,6 @@ project_proposal_impact:
   - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
+published: true
 
 ---

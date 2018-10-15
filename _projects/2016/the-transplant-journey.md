@@ -76,5 +76,6 @@ project_proposal_impact:
   - Residents receiving coordinated healthcare services
 category: live
 body_class: lime
+published: true
 
 ---

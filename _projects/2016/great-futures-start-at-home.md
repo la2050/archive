@@ -109,5 +109,6 @@ project_proposal_impact:
   - Number of children enrolled in afterschool programs
 category: play
 body_class: strawberry
+published: true
 
 ---

@@ -612,5 +612,6 @@ maker_answers_list:
     answer: "As part of the proposal, HFF believes that a successful pop up venue in 2016 will act as a catalyst for an additional 1-3 pop up venues to be established by artists or producers in 2017.  \r\n\r\nHFF will share findings and best practices with interested parties who wish to establish a pop up venue.  Using these tools, producers and artists will be able to help lift up the dwindling theatrical spaces in the Hollywood area and revitalize the area."
 body_class: strawberry
 organization_name: Hatchery Arts dba Hollywood Fringe Festival
+published: true
 
 ---

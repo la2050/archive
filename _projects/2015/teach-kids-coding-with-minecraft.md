@@ -613,5 +613,6 @@ maker_answers_list:
     answer: "Ability to scale is built in to the basic premise of the proposal. With years of experience and a hotline to the network of connected learning proponents nationwide, the curriculum will be made in a collaborative process with representatives from end user groups, integrating feedback as we proceed with development. We will be partnering with after-school organizations to deliver the camps, which will include professional development for their staff so they can repeat the camps independently. Additionally, through our partnership with Connected Camps we have another opportunity to scale. Connected Camps offers year-round learning experiences in Minecraft where kids log-in from home, and the curriculum that is developed as part of this proposal could be easily integrated into their core model. Last summer, they served 2,000 kids and have plans to double this number next summer. \r\n"
 body_class: blueberry
 organization_name: LA Makerspace
+published: true
 
 ---

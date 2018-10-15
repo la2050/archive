@@ -620,5 +620,6 @@ maker_answers_list:
       Pavilions for each of the tracts.
 body_class: strawberry
 organization_name: Center for Innovation at the LAEDC
+published: true
 
 ---

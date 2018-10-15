@@ -262,5 +262,6 @@ project_summary: >-
   meaning in art as well as create depth in their own work.  We are pleased to
   see our imprint on individuals as they go on to transform the world in
   positive sustainable ways.
+published: true
 
 ---

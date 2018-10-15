@@ -122,5 +122,6 @@ category_other:
   - LA is the best place to CREATE
 challenge_url: 'https://activation.la2050.org/play/red-hen-press/'
 body_class: strawberry
+published: true
 
 ---

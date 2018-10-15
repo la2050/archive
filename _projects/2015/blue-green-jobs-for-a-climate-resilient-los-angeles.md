@@ -604,5 +604,6 @@ maker_answers_list:
     answer: "Throughout the program development, we will be working closely with the Trustees and Chancellors of the LA Community College District to lay the groundwork for a plan to scale the program up to be offered at the other Community Colleges throughout the region: Mission, Valley, Pierce, City, East, West, Southwest and Harbor.  \r\n\r\nAs Angelenos interest in adopting urban acupuncture strategies grows, students in the first three years of classes will have opportunities to serve requisite field apprenticeships with Water LA small business partners, and with our NGO partners as we retrofit 100 more homes and 1,000 parkway basins through the Water LA Phase 2 pilot.\r\n\r\nOur ultimate aim is to design a curriculum that can be transferred to colleges throughout the California Community College System and ultimately, the west."
 body_class: lime
 organization_name: The River Project
+published: true
 
 ---

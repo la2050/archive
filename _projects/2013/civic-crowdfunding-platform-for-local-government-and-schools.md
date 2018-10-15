@@ -218,5 +218,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>As a leader in the civic engagement space, CitySourced has received numerous awards. Below are just a few:</p>\r\n\r\n <p> 2009 TechCrunch50 Conference: 3rd Place (of 700 entries)</p>\r\n  <p>2009 OnDC Winner</p>\r\n  <p>2010 San Francisco Magazine's \"Best Urban-Action App\"</p>\r\n  <p>2011 e.Republic Center for Digital Government's \"Best of the Web\"</p> \r\n <p> 2011 GovFresh's \"Best Civic Startup\" and \"App of the Year\"</p>\r\n <p> 2012 e.Republic Center for Digital Government's \"Best of California award for Best Application Serving the Public\"</p>\r\n  <p>2012 California Helen Putnam Award for Excellence</p>\r\n  <p>2013 IBM's Beacon Award Finalist for Smarter Cities</p>\r\n\r\n<p>We also have some great reference customers. CitySourced is the official civic engagement platform for cities such as San Jose, San Diego, Honolulu, Omaha and the LAUSD. Our solution directly benefits over 13.2 million citizens worldwide, and we're deployed in six countries spread out across the globe.</p>"
+published: true
 
 ---
