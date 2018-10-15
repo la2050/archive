@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
+project_titles:
+  - Play the LA River
 maker_image_id: '21550'
 organization_id: '2014069'
 title: Play the LA River
@@ -21,6 +23,8 @@ zip: '90065'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21550%252Fdisplay%252FPlaytheLARiver_LA2050_ImageCropped.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102169'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102070'
-original_project_ids:
-  - '4102169'
-original_project_titles:
-  - Play the LA River
-extrapolated_project_ids:
-  - '4102169'
-extrapolated_project_titles:
-  - Play the LA River
 
 ---

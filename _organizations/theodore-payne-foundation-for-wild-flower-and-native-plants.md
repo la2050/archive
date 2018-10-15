@@ -1,4 +1,11 @@
 ---
+project_titles:
+  - >-
+    Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
+    Public Housing 
+  - >-
+    Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
+    Public Housing
 organization_id: '2016236'
 title: Theodore Payne Foundation for Wild Flower and Native Plants
 org_type: Nonprofit
@@ -20,6 +27,8 @@ zip: '91352'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 project_video: ''
+project_ids:
+  - '6102261'
 aggregated:
   challenge_url:
     - >-
@@ -31,17 +40,5 @@ aggregated:
   project_ids:
     - '6102261'
     - '5102316'
-original_project_ids:
-  - '6102261'
-original_project_titles:
-  - >-
-    Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
-    Public Housing 
-extrapolated_project_ids:
-  - '6102261'
-extrapolated_project_titles:
-  - >-
-    Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
-    Public Housing
 
 ---

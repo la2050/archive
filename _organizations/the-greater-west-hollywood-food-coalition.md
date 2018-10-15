@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: vZOFIeiYKwA
+project_titles:
+  - volunteers housing the homeless
 organization_id: '2013187'
 title: The Greater West Hollywood Food Coalition
 org_type: Nonprofit
@@ -48,6 +50,8 @@ ein: 951716914 (in the name of Special Service for Groups)
 zip: ''
 project_image: 'https://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102248'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
@@ -55,13 +59,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102248'
-original_project_ids:
-  - '3102248'
-original_project_titles:
-  - volunteers housing the homeless
-extrapolated_project_ids:
-  - '3102248'
-extrapolated_project_titles:
-  - volunteers housing the homeless
 
 ---

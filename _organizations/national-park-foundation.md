@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: EKIPkidswithwalkingsticks.png
+project_titles:
+  - Every Kid in a Park in Los Angeles
 maker_image_id: '23519'
 organization_id: '2015142'
 title: National Park Foundation
@@ -23,6 +25,8 @@ zip: '20005'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23519%252Fdisplay%252FEKIPkidswithwalkingsticks.png=c570x385
 project_video: ''
+project_ids:
+  - '5102217'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/everykidinapark.html'
@@ -30,13 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102217'
-original_project_ids:
-  - '5102217'
-original_project_titles:
-  - Every Kid in a Park in Los Angeles
-extrapolated_project_ids:
-  - '5102217'
-extrapolated_project_titles:
-  - Every Kid in a Park in Los Angeles
 
 ---

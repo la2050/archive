@@ -1,5 +1,11 @@
 ---
 maker_image_file_name: community_ambassdor_graphic_button_graphic.jpg
+project_titles:
+  - 'Connected + Engaged = Resilient Communities '
+  - PrepareLA – Building Resilience through Community and Volunteer Engagement
+  - Connected Communities – Resilient LA!
+  - Connected + Engaged = Resilient Communities
+  - PrepareLA — Building Resilience through Community and Volunteer Engagement
 maker_image_id: '21941'
 organization_id: '2015008'
 title: American Red Cross Los Angeles Region
@@ -22,6 +28,10 @@ zip: '90025'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21941%252Fdisplay%252Fcommunity_ambassdor_graphic_button_graphic.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102015'
+  - '4102008'
+  - '3102018'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'
@@ -35,19 +45,5 @@ aggregated:
     - '5102015'
     - '4102192'
     - '3102018'
-original_project_ids:
-  - '3102018'
-  - '4102008'
-original_project_titles:
-  - 'Connected + Engaged = Resilient Communities '
-  - PrepareLA – Building Resilience through Community and Volunteer Engagement
-extrapolated_project_ids:
-  - '5102015'
-  - '4102008'
-  - '3102018'
-extrapolated_project_titles:
-  - Connected Communities – Resilient LA!
-  - Connected + Engaged = Resilient Communities
-  - PrepareLA — Building Resilience through Community and Volunteer Engagement
 
 ---

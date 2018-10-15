@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Pop-Up Sites for Overnight Temporary Shelter: Serving our homeless neighbors
+    with dignity first
 organization_id: '2018013'
 title: Cardborigami Inc
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=w47i_b8U5-0&feature=youtu.be'
+project_ids:
+  - '8102013'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/cardborigami-inc/'
@@ -27,13 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102013'
-original_project_ids:
-  - '8102013'
-original_project_titles:
-  - >-
-    Pop-Up Sites for Overnight Temporary Shelter: Serving our homeless neighbors
-    with dignity first
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

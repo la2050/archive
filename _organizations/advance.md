@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: d8oxCVYqxhU
+project_titles:
+  - Advancing Justice through Legal Social Enterprises
 organization_id: '2013003'
 title: ADVANCE
 org_type: For profit
@@ -28,6 +30,8 @@ ein: '461862955'
 zip: ''
 project_image: 'https://img.youtube.com/vi/d8oxCVYqxhU/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102001'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/AccessJustice.html'
@@ -35,13 +39,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102001'
-original_project_ids:
-  - '3102001'
-original_project_titles:
-  - Advancing Justice through Legal Social Enterprises
-extrapolated_project_ids:
-  - '3102001'
-extrapolated_project_titles:
-  - Advancing Justice through Legal Social Enterprises
 
 ---

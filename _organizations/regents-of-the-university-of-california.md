@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'AMP! Virtual: Sexual Health Education for a Digital Generation'
 organization_id: '2016181'
 title: Regents of the University of California
 org_type: Nonprofit
@@ -21,6 +23,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
 project_video: 'https://www.youtube.com/embed/PV_FxBFP2hA?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102195'
 aggregated:
   challenge_url:
     - >-
@@ -29,13 +33,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102195'
-original_project_ids:
-  - '6102195'
-original_project_titles:
-  - 'AMP! Virtual: Sexual Health Education for a Digital Generation'
-extrapolated_project_ids:
-  - '6102195'
-extrapolated_project_titles:
-  - 'AMP! Virtual: Sexual Health Education for a Digital Generation'
 
 ---

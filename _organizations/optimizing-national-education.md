@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: z7QaUClznXM
+project_titles:
+  - Welcome to Our Neighborhood
 organization_id: '2014065'
 title: Optimizing National Education
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '330744619'
 zip: '90640'
 project_image: 'https://img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102161'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Welcome.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102066'
-original_project_ids:
-  - '4102161'
-original_project_titles:
-  - Welcome to Our Neighborhood
-extrapolated_project_ids:
-  - '4102161'
-extrapolated_project_titles:
-  - Welcome to Our Neighborhood
 
 ---

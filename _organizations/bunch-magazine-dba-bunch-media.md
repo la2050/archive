@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: ByhCcHjp3FQ
+project_titles:
+  - 'BUNCHFEST is Music, Art + Innovation for the masses'
 organization_id: '2015023'
 title: BUNCH Magazine dba BUNCH Media
 org_type: Forprofit
@@ -17,6 +19,8 @@ ein: '465448101'
 zip: '90016'
 project_image: 'https://img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102037'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
@@ -24,11 +28,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102127'
-original_project_ids:
-  - '5102037'
-original_project_titles:
-  - 'BUNCHFEST is Music, Art + Innovation for the masses'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

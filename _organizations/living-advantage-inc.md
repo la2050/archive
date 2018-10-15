@@ -1,5 +1,12 @@
 ---
 youtube_video_identifier: 1_UXQ2fFeSU
+project_titles:
+  - >-
+    Living Advantage Connecting Foster Youth in LA to a Sustainable Future:
+    Identity Equals Opportunity 
+  - >-
+    Living Advantage Connecting Foster Youth in LA to a Sustainable Future:
+    Identity Equals Opportunity
 organization_id: '2015115'
 title: 'Living Advantage, Inc.'
 org_type: Nonprofit
@@ -20,6 +27,8 @@ ein: '954447561'
 zip: '90028'
 project_image: 'https://img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102178'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
@@ -27,17 +36,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102178'
-original_project_ids:
-  - '5102178'
-original_project_titles:
-  - >-
-    Living Advantage Connecting Foster Youth in LA to a Sustainable Future:
-    Identity Equals Opportunity 
-extrapolated_project_ids:
-  - '5102178'
-extrapolated_project_titles:
-  - >-
-    Living Advantage Connecting Foster Youth in LA to a Sustainable Future:
-    Identity Equals Opportunity
 
 ---

@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: jobstour.png
+project_titles:
+  - 'CA Youth Jobs Tour: Los Angeles Stops'
+  - Young Leaders For A Healthy LA
 maker_image_id: '21770'
 organization_id: '2014229'
 title: Young Invincibles
@@ -17,6 +20,9 @@ zip: '90014'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21770%252Fdisplay%252Fjobstour.png=c570x385
 project_video: ''
+project_ids:
+  - '4102264'
+  - '3102276'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/YI_Care.html'
@@ -26,17 +32,5 @@ aggregated:
   project_ids:
     - '4102189'
     - '3102276'
-original_project_ids:
-  - '3102276'
-  - '4102264'
-original_project_titles:
-  - 'CA Youth Jobs Tour: Los Angeles Stops'
-  - Young Leaders For A Healthy LA
-extrapolated_project_ids:
-  - '4102264'
-  - '3102276'
-extrapolated_project_titles:
-  - 'CA Youth Jobs Tour: Los Angeles Stops'
-  - Young Leaders For A Healthy LA
 
 ---

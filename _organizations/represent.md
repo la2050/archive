@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Represent: FREE acting & media arts school for diverse media makers!'
 organization_id: '2016183'
 title: Represent
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1725312484741-team89.jpg
 project_video: 'https://www.youtube.com/embed/vK-yBYBjdlA?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102197'
 aggregated:
   challenge_url:
     - >-
@@ -28,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102197'
-original_project_ids:
-  - '6102197'
-original_project_titles:
-  - 'Represent: FREE acting & media arts school for diverse media makers!'
-extrapolated_project_ids:
-  - '6102197'
-extrapolated_project_titles:
-  - 'Represent: FREE acting & media arts school for diverse media makers!'
 
 ---

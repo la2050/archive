@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: mei1C43QDXw
+project_titles:
+  - Schkapf Performing Arts Incubator
 organization_id: '2014079'
 title: Schkapf
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '464981201'
 zip: ''
 project_image: 'https://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102187'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/schkapf.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102080'
-original_project_ids:
-  - '4102187'
-original_project_titles:
-  - Schkapf Performing Arts Incubator
-extrapolated_project_ids:
-  - '4102187'
-extrapolated_project_titles:
-  - Schkapf Performing Arts Incubator
 
 ---

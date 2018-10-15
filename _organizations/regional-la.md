@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'REGIONAL.LA: Delivering Community Engagement to Los Angeles County'
 organization_id: '2018102'
 title: REGIONAL.LA
 org_type: Social enterprise or Bcorps
@@ -20,6 +22,8 @@ ein: '824799787'
 zip: '9005'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=rdB1z_4U_0A'
+project_ids:
+  - '8102102'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/regional-la/'
@@ -27,13 +31,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102102'
-original_project_ids:
-  - '8102102'
-original_project_titles:
-  - 'REGIONAL.LA: Delivering Community Engagement to Los Angeles County'
-extrapolated_project_ids:
-  - '8102102'
-extrapolated_project_titles:
-  - 'REGIONAL.LA: Delivering Community Engagement to Los Angeles County'
 
 ---

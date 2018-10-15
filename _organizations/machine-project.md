@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: c2e6ERN-dS8
+project_titles:
+  - 'Everything, Everywhere: LA 2050'
+  - 'Everything Everywhere: LA 2050'
 organization_id: '2013130'
 title: Machine Project
 org_type: Nonprofit
@@ -38,6 +41,8 @@ ein: '753193159'
 zip: ''
 project_image: 'https://img.youtube.com/vi/c2e6ERN-dS8/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102194'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/machineproject.html'
@@ -45,13 +50,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102194'
-original_project_ids:
-  - '3102194'
-original_project_titles:
-  - 'Everything, Everywhere: LA 2050'
-extrapolated_project_ids:
-  - '3102194'
-extrapolated_project_titles:
-  - 'Everything Everywhere: LA 2050'
 
 ---

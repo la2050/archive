@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: wGHuWyQEQIU
+project_titles:
+  - >-
+    Interactive Live Theatre where the audience moves through the story and
+    plays their part in the tale
 organization_id: '2015081'
 title: Haunted Play LLC
 org_type: Forprofit
@@ -21,6 +25,8 @@ ein: '943490342'
 zip: '90230'
 project_image: 'https://img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102127'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
@@ -28,17 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '4102158'
-original_project_ids:
-  - '5102127'
-original_project_titles:
-  - >-
-    Interactive Live Theatre where the audience moves through the story and
-    plays their part in the tale
-extrapolated_project_ids:
-  - '5102127'
-extrapolated_project_titles:
-  - >-
-    Interactive Live Theatre where the audience moves through the story and
-    plays their part in the tale
 
 ---

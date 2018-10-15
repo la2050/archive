@@ -1,4 +1,12 @@
 ---
+project_titles:
+  - College Track
+  - 'College Track: Creating a Pathway to College in Boyle Heights'
+  - 'College Track: Developing purpose-driven leaders to transform LA'
+  - >-
+    How To Increase The Percentage Of Underserved Youth Graduating From College
+    in Boyle Heights
+  - Ensuring Boyle Heights 12th Graders Graduate From College
 organization_id: '2016048'
 title: College Track
 org_type: Nonprofit
@@ -20,6 +28,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/3R34MzY6_dM?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102047'
+  - '5102071'
+  - '4102043'
+  - '3102082'
 aggregated:
   challenge_url:
     - >-
@@ -36,28 +49,5 @@ aggregated:
     - '5102071'
     - '4102224'
     - '3102082'
-original_project_ids:
-  - '3102082'
-  - '4102043'
-  - '6102047'
-original_project_titles:
-  - College Track
-  - 'College Track: Creating a Pathway to College in Boyle Heights'
-  - 'College Track: Developing purpose-driven leaders to transform LA'
-  - >-
-    How To Increase The Percentage Of Underserved Youth Graduating From College
-    in Boyle Heights
-extrapolated_project_ids:
-  - '6102047'
-  - '5102071'
-  - '4102043'
-  - '3102082'
-extrapolated_project_titles:
-  - 'College Track: Developing purpose-driven leaders to transform LA'
-  - Ensuring Boyle Heights 12th Graders Graduate From College
-  - >-
-    How To Increase The Percentage Of Underserved Youth Graduating From College
-    in Boyle Heights
-  - 'College Track: Creating a Pathway to College in Boyle Heights'
 
 ---

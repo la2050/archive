@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Destination_College_Photo.jpg
+project_titles:
+  - Destination College
 maker_image_id: '16910'
 organization_id: '2013077'
 title: Fulfillment Fund
@@ -54,6 +56,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16910%252Fdisplay%252FDestination_College_Photo.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102136'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
@@ -61,13 +65,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102136'
-original_project_ids:
-  - '3102136'
-original_project_titles:
-  - Destination College
-extrapolated_project_ids:
-  - '3102136'
-extrapolated_project_titles:
-  - Destination College
 
 ---

@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: School_Based_Mentoring.jpg
+project_titles:
+  - School Based Mentoring
 maker_image_id: '17043'
 organization_id: '2013018'
 title: 'Asian American Drug Abuse Program, Inc'
@@ -26,6 +28,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17043%252Fdisplay%252FSchool_Based_Mentoring.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102030'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
@@ -33,13 +37,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102030'
-original_project_ids:
-  - '3102030'
-original_project_titles:
-  - School Based Mentoring
-extrapolated_project_ids:
-  - '3102030'
-extrapolated_project_titles:
-  - School Based Mentoring
 
 ---

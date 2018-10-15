@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - The Whole School Approach to a Safer & Happier Community
 organization_id: '2018105'
 title: Roots & Wings
 org_type: Forprofit
@@ -22,6 +24,8 @@ ein: '821894269'
 zip: '90017'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
 project_video: 'https://www.youtube.com/watch?v=nNWKz4hwzOc'
+project_ids:
+  - '8102105'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/roots-wings/'
@@ -29,11 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '5102284'
-original_project_ids:
-  - '8102105'
-original_project_titles:
-  - The Whole School Approach to a Safer & Happier Community
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

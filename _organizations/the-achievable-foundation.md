@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: zTPVN1p3Lg8
+project_titles:
+  - >-
+    The Achievable Clinic: quality healthcare for families and people with
+    developmental disabilities
 organization_id: '2014197'
 title: The Achievable Foundation
 org_type: Nonprofit
@@ -15,19 +19,13 @@ ein: '954552419'
 zip: ''
 project_image: 'https://img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102183'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102167'
-original_project_ids:
-  - '4102183'
-original_project_titles:
-  - >-
-    The Achievable Clinic: quality healthcare for families and people with
-    developmental disabilities
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

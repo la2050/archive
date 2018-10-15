@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Bring Fresh Food Where it's Needed with Education + Access via SÜPRMARKT
 organization_id: '2018113'
 title: 'SÜPRSEED, Inc.'
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '823768348'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg'
 project_video: 'https://www.youtube.com/watch?v=KcRryxjBr-8'
+project_ids:
+  - '8102113'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/süprseed/'
@@ -27,11 +31,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102113'
-original_project_ids:
-  - '8102113'
-original_project_titles:
-  - Bring Fresh Food Where it's Needed with Education + Access via SÜPRMARKT
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

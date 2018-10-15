@@ -1,4 +1,11 @@
 ---
+project_titles:
+  - >-
+    WISH ACADEMY: THE FIRST HIGH SCHOOL IN THE LOS ANGELES AREA TO PROVIDE
+    INCLUSIVE EDUCATION 
+  - >-
+    WISH ACADEMY: THE FIRST HIGH SCHOOL IN THE LOS ANGELES AREA TO PROVIDE
+    INCLUSIVE EDUCATION
 organization_id: '2016257'
 title: WISH Academy High School
 org_type: Nonprofit
@@ -20,6 +27,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
 project_video: 'https://www.youtube.com/embed/zVjUr0gjKDE?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102284'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +37,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102284'
-original_project_ids:
-  - '6102284'
-original_project_titles:
-  - >-
-    WISH ACADEMY: THE FIRST HIGH SCHOOL IN THE LOS ANGELES AREA TO PROVIDE
-    INCLUSIVE EDUCATION 
-extrapolated_project_ids:
-  - '6102284'
-extrapolated_project_titles:
-  - >-
-    WISH ACADEMY: THE FIRST HIGH SCHOOL IN THE LOS ANGELES AREA TO PROVIDE
-    INCLUSIVE EDUCATION
 
 ---

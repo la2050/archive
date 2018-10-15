@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: wordcloud-thrivecenter.png
+project_titles:
+  - The Thrive Center at Samohi
 maker_image_id: '23931'
 organization_id: '2015174'
 title: >-
@@ -24,6 +26,8 @@ zip: '90401'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385
 project_video: ''
+project_ids:
+  - '5102261'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
@@ -34,13 +38,5 @@ aggregated:
   project_ids:
     - '5102261'
     - '4102017'
-original_project_ids:
-  - '5102261'
-original_project_titles:
-  - The Thrive Center at Samohi
-extrapolated_project_ids:
-  - '5102261'
-extrapolated_project_titles:
-  - The Thrive Center at Samohi
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: QV1lB2SqWos
+project_titles:
+  - 'IHADLA: Breaking the Cycle of Poverty by Educating and Empowering Youth.'
 organization_id: '2015001'
 title: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
 org_type: Nonprofit
@@ -22,6 +24,8 @@ ein: '954089758'
 zip: '90010'
 project_image: 'https://img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102001'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/ihaveadream.html'
@@ -32,13 +36,5 @@ aggregated:
   project_ids:
     - '5102001'
     - '3102243'
-original_project_ids:
-  - '5102001'
-original_project_titles:
-  - 'IHADLA: Breaking the Cycle of Poverty by Educating and Empowering Youth.'
-extrapolated_project_ids:
-  - '5102001'
-extrapolated_project_titles:
-  - 'IHADLA: Breaking the Cycle of Poverty by Educating and Empowering Youth.'
 
 ---

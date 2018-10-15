@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: q9wQFn0hPbk
+project_titles:
+  - >-
+    BRIDGE-ing Cultures and Cultivating Change in LA through Original Youth &
+    Community Theatre
 organization_id: '2014012'
 title: 'B.R.I.D.G.E Theatre Project (fiscal sponsor, The Attic Theatre)'
 org_type: Nonprofit
@@ -21,6 +25,8 @@ ein: '954473701'
 zip: '90027'
 project_image: 'https://img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102019'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
@@ -28,17 +34,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102013'
-original_project_ids:
-  - '4102019'
-original_project_titles:
-  - >-
-    BRIDGE-ing Cultures and Cultivating Change in LA through Original Youth &
-    Community Theatre
-extrapolated_project_ids:
-  - '4102019'
-extrapolated_project_titles:
-  - >-
-    BRIDGE-ing Cultures and Cultivating Change in LA through Original Youth &
-    Community Theatre
 
 ---

@@ -1,5 +1,12 @@
 ---
 youtube_video_identifier: v-5UnN1CD0E
+project_titles:
+  - >-
+    Kensington Presents: Free outdoor arts programming for all ages with
+    California State Parks 
+  - >-
+    Kensington Presents: Free outdoor arts programming for all ages with
+    California State Parks
 organization_id: '2015104'
 title: Kensington Presents
 org_type: Other
@@ -19,6 +26,8 @@ ein: '455635609'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102160'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
@@ -26,17 +35,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102160'
-original_project_ids:
-  - '5102160'
-original_project_titles:
-  - >-
-    Kensington Presents: Free outdoor arts programming for all ages with
-    California State Parks 
-extrapolated_project_ids:
-  - '5102160'
-extrapolated_project_titles:
-  - >-
-    Kensington Presents: Free outdoor arts programming for all ages with
-    California State Parks
 
 ---

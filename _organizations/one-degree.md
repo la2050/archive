@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Empowering Angelenos to build a path out of poverty and thrive with One
+    Degree
 organization_id: '2018092'
 title: One Degree
 org_type: Nonprofit
@@ -20,6 +24,8 @@ ein: '364729392'
 zip: '90029'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
 project_video: ''
+project_ids:
+  - '8102092'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/one-degree/'
@@ -27,13 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102092'
-original_project_ids:
-  - '8102092'
-original_project_titles:
-  - >-
-    Empowering Angelenos to build a path out of poverty and thrive with One
-    Degree
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

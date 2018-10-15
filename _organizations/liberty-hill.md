@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: kfEpQxhOtUk
+project_titles:
+  - Boot Camp 2050 for Change
+  - Housing Long Beach
+  - Khmer Girls in Action
 organization_id: '2013121'
 title: Liberty Hill
 org_type: Nonprofit
@@ -56,6 +60,8 @@ ein: '510181191'
 zip: ''
 project_image: 'https://img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102180'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
@@ -63,15 +69,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102180'
-original_project_ids:
-  - '3102180'
-original_project_titles:
-  - Boot Camp 2050 for Change
-  - Housing Long Beach
-  - Khmer Girls in Action
-extrapolated_project_ids:
-  - '3102180'
-extrapolated_project_titles:
-  - Boot Camp 2050 for Change
 
 ---

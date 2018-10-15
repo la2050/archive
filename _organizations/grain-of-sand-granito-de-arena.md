@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Debris_3.JPG
+project_titles:
+  - Think Before You Trash
 maker_image_id: '16238'
 organization_id: '2013083'
 title: Grain of Sand - Granito de Arena
@@ -36,6 +38,8 @@ ein: '460667294'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids:
+  - '3102141'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
@@ -43,13 +47,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102141'
-original_project_ids:
-  - '3102141'
-original_project_titles:
-  - Think Before You Trash
-extrapolated_project_ids:
-  - '3102141'
-extrapolated_project_titles:
-  - Think Before You Trash
 
 ---

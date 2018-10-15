@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: g0KxazcQnVA
+project_titles:
+  - Palms Sustainable Farmers Market and Urban Garden Network
 organization_id: '2015139'
 title: Motor Avenue Improvement Association
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '455405527'
 zip: '90034'
 project_image: 'https://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102210'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/MotorAvenueFood.html'
@@ -27,13 +31,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102210'
-original_project_ids:
-  - '5102210'
-original_project_titles:
-  - Palms Sustainable Farmers Market and Urban Garden Network
-extrapolated_project_ids:
-  - '5102210'
-extrapolated_project_titles:
-  - Palms Sustainable Farmers Market and Urban Garden Network
 
 ---

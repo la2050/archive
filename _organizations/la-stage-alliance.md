@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: Faces_Installation.jpg
+project_titles:
+  - Arts & Culture Infrastructure Initiative
+  - 'Arts & Culture Infrastructure Initiative '
 maker_image_id: '16935'
 organization_id: '2014048'
 title: LA STAGE Alliance
@@ -21,6 +24,9 @@ zip: '90039'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16935%252Fdisplay%252FFaces_Installation.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102109'
+  - '3102173'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
@@ -31,17 +37,5 @@ aggregated:
   project_ids:
     - '4102049'
     - '3102173'
-original_project_ids:
-  - '3102173'
-  - '3102173'
-original_project_titles:
-  - Arts & Culture Infrastructure Initiative
-  - 'Arts & Culture Infrastructure Initiative '
-extrapolated_project_ids:
-  - '4102109'
-  - '3102173'
-extrapolated_project_titles:
-  - Arts & Culture Infrastructure Initiative
-  - 'Arts & Culture Infrastructure Initiative '
 
 ---

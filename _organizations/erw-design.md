@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: fpGXBYHFZuE
+project_titles:
+  - The LA River Public Art Project
 organization_id: '2014033'
 title: ERW Design
 org_type: '#N/A'
@@ -16,6 +18,8 @@ ein: '364519595'
 zip: '90265'
 project_image: 'https://img.youtube.com/vi/fpGXBYHFZuE/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102066'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
@@ -23,13 +27,5 @@ aggregated:
     - '2014'
   project_ids:
     - '5102342'
-original_project_ids:
-  - '4102066'
-original_project_titles:
-  - The LA River Public Art Project
-extrapolated_project_ids:
-  - '4102066'
-extrapolated_project_titles:
-  - The LA River Public Art Project
 
 ---

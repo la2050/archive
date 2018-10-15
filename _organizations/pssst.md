@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - 'PSSST 2017: Artists Supporting Artists  '
+  - 'PSSST 2017: Artists Supporting Artists'
 organization_id: '2016179'
 title: PSSST
 org_type: Nonprofit
@@ -16,6 +19,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102192'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
@@ -23,13 +28,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102192'
-original_project_ids:
-  - '6102192'
-original_project_titles:
-  - 'PSSST 2017: Artists Supporting Artists  '
-extrapolated_project_ids:
-  - '6102192'
-extrapolated_project_titles:
-  - 'PSSST 2017: Artists Supporting Artists'
 
 ---

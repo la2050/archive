@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: lasmartmap3.jpg
+project_titles:
+  - 'Connecting Angelenos Through Smart, Engaging Neighborhood Maps'
+  - Connecting Angelenos Through Smart Engaging Neighborhood Maps
 maker_image_id: '16991'
 organization_id: '2013109'
 title: L.A. Currents
@@ -33,6 +36,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102066'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/lasmartmap.html'
@@ -40,13 +45,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102066'
-original_project_ids:
-  - '3102066'
-original_project_titles:
-  - 'Connecting Angelenos Through Smart, Engaging Neighborhood Maps'
-extrapolated_project_ids:
-  - '3102066'
-extrapolated_project_titles:
-  - Connecting Angelenos Through Smart Engaging Neighborhood Maps
 
 ---

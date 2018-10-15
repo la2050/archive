@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: q4McatdcN78
+project_titles:
+  - LA Cash for College 4 All
 organization_id: '2015218'
 title: UNITE-LA
 org_type: Nonprofit
@@ -23,6 +25,8 @@ ein: '820576380'
 zip: '90017'
 project_image: 'https://img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102333'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LACASHFORCOLLEGE.html'
@@ -30,13 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102333'
-original_project_ids:
-  - '5102333'
-original_project_titles:
-  - LA Cash for College 4 All
-extrapolated_project_ids:
-  - '5102333'
-extrapolated_project_titles:
-  - LA Cash for College 4 All
 
 ---

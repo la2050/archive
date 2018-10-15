@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: NtMAZqR4Tf4
+project_titles:
+  - Flight of the Angels - A Pervasive Audio Game About DTLA
 organization_id: '2014073'
 title: Psychic Bunny
 org_type: Forprofit
@@ -19,6 +21,8 @@ ein: '900406307'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102177'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '5102207'
-original_project_ids:
-  - '4102177'
-original_project_titles:
-  - Flight of the Angels - A Pervasive Audio Game About DTLA
-extrapolated_project_ids:
-  - '4102177'
-extrapolated_project_titles:
-  - Flight of the Angels - A Pervasive Audio Game About DTLA
 
 ---

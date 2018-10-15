@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Pools of Hope provides an after-school Swim & Achieve Homework Assistance
+    Lab for at-risk youth.
 organization_id: '2016029'
 title: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
 org_type: Nonprofit
@@ -22,6 +26,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102025'
 aggregated:
   challenge_url:
     - >-
@@ -30,17 +36,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102025'
-original_project_ids:
-  - '6102025'
-original_project_titles:
-  - >-
-    Pools of Hope provides an after-school Swim & Achieve Homework Assistance
-    Lab for at-risk youth.
-extrapolated_project_ids:
-  - '6102025'
-extrapolated_project_titles:
-  - >-
-    Pools of Hope provides an after-school Swim & Achieve Homework Assistance
-    Lab for at-risk youth.
 
 ---

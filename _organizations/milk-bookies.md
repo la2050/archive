@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond '
+  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
+  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
+  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond'
 organization_id: '2016148'
 title: Milk + Bookies
 org_type: Nonprofit
@@ -20,6 +25,10 @@ zip: '90404'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102155'
+  - '5102208'
+  - '4102146'
 aggregated:
   challenge_url:
     - >-
@@ -33,21 +42,5 @@ aggregated:
     - '6102155'
     - '5102208'
     - '4102234'
-original_project_ids:
-  - '4102146'
-  - '5102208'
-  - '6102155'
-original_project_titles:
-  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond '
-  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
-  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
-extrapolated_project_ids:
-  - '6102155'
-  - '5102208'
-  - '4102146'
-extrapolated_project_titles:
-  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
-  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond'
-  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
 
 ---

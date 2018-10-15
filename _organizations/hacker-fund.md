@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Hacker Fund Civic Innovation Center
 organization_id: '2018050'
 title: Hacker Fund
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '472485464'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg'
 project_video: 'https://vimeo.com/231126321'
+project_ids:
+  - '8102050'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/hacker-fund/'
@@ -27,13 +31,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102050'
-original_project_ids:
-  - '8102050'
-original_project_titles:
-  - Hacker Fund Civic Innovation Center
-extrapolated_project_ids:
-  - '8102050'
-extrapolated_project_titles:
-  - Hacker Fund Civic Innovation Center
 
 ---

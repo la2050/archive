@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: WjnYc_5sRG8
+project_titles:
+  - Climate Cents
 organization_id: '2015037'
 title: Climate Cents
 org_type: Nonprofit
@@ -23,6 +25,9 @@ ein: '954302067'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/WjnYc_5sRG8/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102066'
+  - '4102013'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
@@ -32,17 +37,5 @@ aggregated:
   project_ids:
     - '5102066'
     - '4102194'
-original_project_ids:
-  - '4102013'
-  - '4102013'
-  - '4102013'
-original_project_titles:
-  - Climate Cents
-  - Climate Cents
-  - Climate Cents
-extrapolated_project_ids:
-  - '5102066'
-extrapolated_project_titles:
-  - Climate Cents
 
 ---

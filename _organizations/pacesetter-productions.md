@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Pacesetter.jpg
+project_titles:
+  - A Passion at Risk
 maker_image_id: '16972'
 organization_id: '2013149'
 title: Pacesetter Productions
@@ -39,6 +41,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16972%252Fdisplay%252FPacesetter.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102081'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Passion.html'
@@ -46,13 +50,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102081'
-original_project_ids:
-  - '3102081'
-original_project_titles:
-  - A Passion at Risk
-extrapolated_project_ids:
-  - '3102081'
-extrapolated_project_titles:
-  - A Passion at Risk
 
 ---

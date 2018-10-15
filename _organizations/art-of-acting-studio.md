@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: 12113284_1058676700830263_4818412174925935968_o.jpg
+project_titles:
+  - Art of Acting Studio 1 Week Theatre Intensives for Incarcerated Citizens
 maker_image_id: '23700'
 organization_id: '2015014'
 title: Art of Acting Studio
@@ -24,6 +26,8 @@ zip: '90038'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102022'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'
@@ -31,13 +35,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102022'
-original_project_ids:
-  - '5102022'
-original_project_titles:
-  - Art of Acting Studio 1 Week Theatre Intensives for Incarcerated Citizens
-extrapolated_project_ids:
-  - '5102022'
-extrapolated_project_titles:
-  - Art of Acting Studio 1 Week Theatre Intensives for Incarcerated Citizens
 
 ---

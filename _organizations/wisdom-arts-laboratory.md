@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Cultivating Creative Students opens up creative fields to Los Angeles high
+    school students.
 organization_id: '2016256'
 title: Wisdom Arts Laboratory
 org_type: Nonprofit
@@ -22,6 +26,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102283'
 aggregated:
   challenge_url:
     - >-
@@ -30,17 +36,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102283'
-original_project_ids:
-  - '6102283'
-original_project_titles:
-  - >-
-    Cultivating Creative Students opens up creative fields to Los Angeles high
-    school students.
-extrapolated_project_ids:
-  - '6102283'
-extrapolated_project_titles:
-  - >-
-    Cultivating Creative Students opens up creative fields to Los Angeles high
-    school students.
 
 ---

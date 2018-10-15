@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: 100_Trees_3.jpg
+project_titles:
+  - Heal This City
 maker_image_id: '16690'
 organization_id: '2013197'
 title: 'The Waters Wheel, LLC'
@@ -39,6 +41,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16690%252Fdisplay%252F100_Trees_3.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102108'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Heal_This_City.html'
@@ -46,13 +50,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102108'
-original_project_ids:
-  - '3102108'
-original_project_titles:
-  - Heal This City
-extrapolated_project_ids:
-  - '3102108'
-extrapolated_project_titles:
-  - Heal This City
 
 ---

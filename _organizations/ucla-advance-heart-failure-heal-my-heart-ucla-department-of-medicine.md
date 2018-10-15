@@ -1,5 +1,9 @@
 ---
 maker_image_file_name: myla2.png
+project_titles:
+  - >-
+    Making Los Angeles the most technologically progressive and healthy city in
+    the country
 maker_image_id: '20504'
 organization_id: '2014216'
 title: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine'
@@ -17,19 +21,13 @@ zip: '90024'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20504%252Fdisplay%252Fmyla2.png=c570x385
 project_video: ''
+project_ids:
+  - '4102039'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102179'
-original_project_ids:
-  - '4102039'
-original_project_titles:
-  - >-
-    Making Los Angeles the most technologically progressive and healthy city in
-    the country
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

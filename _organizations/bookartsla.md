@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: IMG_8796_(2).JPG
+project_titles:
+  - 'Make a Book, Read a Book'
+  - Make a Book Read a Book
 maker_image_id: '23476'
 organization_id: '2015019'
 title: BookArtsLA
@@ -21,6 +24,8 @@ zip: '90066'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23476%252Fdisplay%252FIMG_8796_(2).JPG=c570x385
 project_video: ''
+project_ids:
+  - '5102032'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
@@ -28,13 +33,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102032'
-original_project_ids:
-  - '5102032'
-original_project_titles:
-  - 'Make a Book, Read a Book'
-extrapolated_project_ids:
-  - '5102032'
-extrapolated_project_titles:
-  - Make a Book Read a Book
 
 ---

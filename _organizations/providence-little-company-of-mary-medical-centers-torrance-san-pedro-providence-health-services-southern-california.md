@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: S_0nE1f2B1w
+project_titles:
+  - Creating Opportunities For Physical Activity (COPA) - Peer Coach PE Program
 organization_id: '2014187'
 title: >-
   Providence Little Company of Mary Medical Centers - Torrance & San Pedro,
@@ -17,17 +19,13 @@ ein: '510224944'
 zip: '90505'
 project_image: 'https://img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102174'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102160'
-original_project_ids:
-  - '4102174'
-original_project_titles:
-  - Creating Opportunities For Physical Activity (COPA) - Peer Coach PE Program
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

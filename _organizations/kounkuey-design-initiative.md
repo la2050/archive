@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - 'Play YOUR way, LA!'
+  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
 organization_id: '2018058'
 title: Kounkuey Design Initiative
 org_type: Nonprofit
@@ -27,6 +30,9 @@ zip: '90048'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
 project_video: 'https://www.youtube.com/watch?v=50O1szspYcg'
+project_ids:
+  - '8102058'
+  - '4102106'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/kounkuey-design-initiative/'
@@ -37,15 +43,5 @@ aggregated:
   project_ids:
     - '8102058'
     - '4102252'
-original_project_ids:
-  - '4102106'
-  - '8102058'
-original_project_titles:
-  - 'Play YOUR way, LA!'
-  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
-extrapolated_project_ids:
-  - '4102106'
-extrapolated_project_titles:
-  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
 
 ---

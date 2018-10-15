@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: 1HVZ3rX86M4
+project_titles:
+  - 'Market Makeovers: NextGen Leaders'
+  - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
 organization_id: '2015163'
 title: Public Matters
 org_type: Forprofit
@@ -21,6 +24,9 @@ ein: '208027133'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102247'
+  - '3102089'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'
@@ -30,17 +36,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102089'
-original_project_ids:
-  - '3102089'
-  - '5102247'
-original_project_titles:
-  - 'Market Makeovers: NextGen Leaders'
-  - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
-extrapolated_project_ids:
-  - '5102247'
-  - '3102089'
-extrapolated_project_titles:
-  - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
-  - 'Market Makeovers: NextGen Leaders'
 
 ---

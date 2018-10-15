@@ -10,17 +10,17 @@ stylesheets:
 
 {% for item in data_collection.docs %}
 
-  {% for project_id in item.original_project_ids %}
+  {% for project_id in item.project_ids %}
     {% if page.project_id == project_id %}
       {% assign organization = item %}
     {% endif %}
   {% endfor %}
 
-  {% for project_id in item.extrapolated_project_ids %}
-    {% if page.project_id == project_id %}
-      {% assign organization = item %}
-    {% endif %}
-  {% endfor %}
+
+
+
+
+
 
   {% assign project_id_list = page.aggregated.project_ids %}
   {% for project_id in project_id_list %}

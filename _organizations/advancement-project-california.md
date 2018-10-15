@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: nt_fnRYCyhI
+project_titles:
+  - 'Disrupt Violence: Hot Zones into Play Zones'
 organization_id: '2014003'
 title: Advancement Project California
 org_type: Nonprofit
@@ -21,6 +23,8 @@ ein: '954835230'
 zip: 90026-3291
 project_image: 'https://img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102003'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
@@ -31,13 +35,5 @@ aggregated:
   project_ids:
     - '4102005'
     - '3102007'
-original_project_ids:
-  - '4102003'
-original_project_titles:
-  - 'Disrupt Violence: Hot Zones into Play Zones'
-extrapolated_project_ids:
-  - '4102003'
-extrapolated_project_titles:
-  - 'Disrupt Violence: Hot Zones into Play Zones'
 
 ---

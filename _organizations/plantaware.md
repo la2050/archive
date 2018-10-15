@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - A digital green thumb for the urban-scape
 organization_id: '2016174'
 title: Plantaware
 org_type: Forprofit
@@ -19,6 +21,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
 project_video: 'https://www.youtube.com/embed/Mze22CqlIlE?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102217'
 aggregated:
   challenge_url:
     - >-
@@ -27,13 +31,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102217'
-original_project_ids:
-  - '6102217'
-original_project_titles:
-  - A digital green thumb for the urban-scape
-extrapolated_project_ids:
-  - '6102217'
-extrapolated_project_titles:
-  - A digital green thumb for the urban-scape
 
 ---

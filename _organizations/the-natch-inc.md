@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Farmers Market Delivery
 organization_id: '2018120'
 title: 'The Natch, INC.'
 org_type: Forprofit
@@ -20,6 +22,8 @@ ein: '813470225'
 zip: '90021'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
 project_video: ''
+project_ids:
+  - '8102120'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/the-natch-inc/'
@@ -30,11 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102208'
-original_project_ids:
-  - '8102120'
-original_project_titles:
-  - Farmers Market Delivery
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

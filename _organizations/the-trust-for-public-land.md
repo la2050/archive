@@ -1,4 +1,10 @@
 ---
+project_titles:
+  - >-
+    Green Alleys Initiative – Transforming Polluted Alleys into Vibrant,
+    Water-Smart Green Space
+  - Play LA! Open Spaces for LA2050!
+  - The Trust for Public Land’s Avalon Green Alley Demonstration Project
 organization_id: '2018123'
 title: The Trust for Public Land
 org_type: Nonprofit
@@ -20,6 +26,10 @@ zip: '90029'
 project_image: >-
   https://www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg?itok=OHPrb8Ri
 project_video: ''
+project_ids:
+  - '8102123'
+  - '6102259'
+  - '4102245'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/the-trust-for-public-land/'
@@ -33,23 +43,5 @@ aggregated:
     - '8102123'
     - '6102259'
     - '4102176'
-original_project_ids:
-  - '4102245'
-  - '6102259'
-  - '8102123'
-original_project_titles:
-  - >-
-    Green Alleys Initiative – Transforming Polluted Alleys into Vibrant,
-    Water-Smart Green Space
-  - Play LA! Open Spaces for LA2050!
-  - The Trust for Public Land’s Avalon Green Alley Demonstration Project
-extrapolated_project_ids:
-  - '8102123'
-  - '6102259'
-extrapolated_project_titles:
-  - Play LA! Open Spaces for LA2050!
-  - >-
-    Green Alleys Initiative – Transforming Polluted Alleys into Vibrant,
-    Water-Smart Green Space
 
 ---

@@ -1,4 +1,20 @@
 ---
+project_titles:
+  - Building Strong Small Businesses through Microlending
+  - >-
+    Catalyzing Community Partnerships to create economic mobility for LA’s
+    underserved entrepreneurs
+  - >-
+    Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
+    Small Business Owners.
+  - Strengthening LA's Entrepreneurs through Responsible Microlending
+  - >-
+    Support LA’s celebrated food truck culture by helping food truck
+    entrepreneurs grow and create jobs 
+  - Strengthening LAs Entrepreneurs through Responsible Microlending
+  - >-
+    Support LA’s celebrated food truck culture by helping food truck
+    entrepreneurs grow and create jobs
 organization_id: '2018093'
 title: Opportunity Fund
 org_type: Nonprofit
@@ -49,6 +65,12 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/opportunity-fund.jpg
 project_video: 'https://youtu.be/KrGSS4OtP50'
+project_ids:
+  - '8102093'
+  - '6102171'
+  - '5102224'
+  - '4102160'
+  - '3102210'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/opportunity-fund/'
@@ -69,37 +91,5 @@ aggregated:
     - '5102224'
     - '4102259'
     - '3102210'
-original_project_ids:
-  - '3102210'
-  - '4102160'
-  - '5102224'
-  - '6102171'
-  - '8102093'
-original_project_titles:
-  - Building Strong Small Businesses through Microlending
-  - >-
-    Catalyzing Community Partnerships to create economic mobility for LA’s
-    underserved entrepreneurs
-  - >-
-    Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
-    Small Business Owners.
-  - Strengthening LA's Entrepreneurs through Responsible Microlending
-  - >-
-    Support LA’s celebrated food truck culture by helping food truck
-    entrepreneurs grow and create jobs 
-extrapolated_project_ids:
-  - '6102171'
-  - '5102224'
-  - '4102160'
-  - '3102210'
-extrapolated_project_titles:
-  - >-
-    Catalyzing Community Partnerships to create economic mobility for LA’s
-    underserved entrepreneurs
-  - Strengthening LAs Entrepreneurs through Responsible Microlending
-  - >-
-    Support LA’s celebrated food truck culture by helping food truck
-    entrepreneurs grow and create jobs
-  - Building Strong Small Businesses through Microlending
 
 ---

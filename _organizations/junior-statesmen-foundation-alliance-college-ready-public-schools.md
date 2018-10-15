@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: 73168.jpg
+project_titles:
+  - Vote for civic-minded students and college success!
 maker_image_id: '23346'
 organization_id: '2015100'
 title: Junior Statesmen Foundation; Alliance College-Ready Public Schools
@@ -25,6 +27,8 @@ zip: '90017'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23346%252Fdisplay%252F73168.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102154'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
@@ -32,13 +36,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102154'
-original_project_ids:
-  - '5102154'
-original_project_titles:
-  - Vote for civic-minded students and college success!
-extrapolated_project_ids:
-  - '5102154'
-extrapolated_project_titles:
-  - Vote for civic-minded students and college success!
 
 ---

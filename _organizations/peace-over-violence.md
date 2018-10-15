@@ -1,5 +1,10 @@
 ---
 youtube_video_identifier: nF2CnqS_6oQ
+project_titles:
+  - Children's Counseling Program at POV
+  - Make A Choice Campaign
+  - Peace Over Violence
+  - Childrens Counseling Program at POV
 organization_id: '2014184'
 title: Peace Over Violence
 org_type: Nonprofit
@@ -15,6 +20,9 @@ ein: '510179305'
 zip: '90017'
 project_image: 'https://img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102164'
+  - '3102215'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/POV.html'
@@ -24,19 +32,5 @@ aggregated:
   project_ids:
     - '4102159'
     - '3102215'
-original_project_ids:
-  - '3102215'
-  - '4102164'
-original_project_titles:
-  - Children's Counseling Program at POV
-  - Make A Choice Campaign
-  - Peace Over Violence
-  - Peace Over Violence
-extrapolated_project_ids:
-  - '4102164'
-  - '3102215'
-extrapolated_project_titles:
-  - Make A Choice Campaign
-  - Childrens Counseling Program at POV
 
 ---

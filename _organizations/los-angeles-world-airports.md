@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - LOS ANGELES WORLD AIRPORTS INTRODUCES LA STUDENTS TO LIFES POSSIBILITIES.
 organization_id: '2016140'
 title: Los Angeles World Airports
 org_type: Government
@@ -21,6 +23,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0987534165741-team90.png
 project_video: 'https://www.youtube.com/embed/GURgU8nO6rM?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102147'
 aggregated:
   challenge_url:
     - >-
@@ -29,13 +33,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102147'
-original_project_ids:
-  - '6102147'
-original_project_titles:
-  - LOS ANGELES WORLD AIRPORTS INTRODUCES LA STUDENTS TO LIFES POSSIBILITIES.
-extrapolated_project_ids:
-  - '6102147'
-extrapolated_project_titles:
-  - LOS ANGELES WORLD AIRPORTS INTRODUCES LA STUDENTS TO LIFES POSSIBILITIES.
 
 ---

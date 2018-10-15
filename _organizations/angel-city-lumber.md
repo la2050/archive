@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: 4Kt14HIJyiU
+project_titles:
+  - Angel City Lumber
 organization_id: '2015009'
 title: Angel City Lumber
 org_type: Forprofit
@@ -21,19 +23,13 @@ ein: '474574079'
 zip: '90039'
 project_image: 'https://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102016'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
   year_submitted:
     - '2015'
   project_ids: []
-original_project_ids:
-  - '5102016'
-original_project_titles:
-  - Angel City Lumber
-extrapolated_project_ids:
-  - '5102016'
-extrapolated_project_titles:
-  - Angel City Lumber
 
 ---

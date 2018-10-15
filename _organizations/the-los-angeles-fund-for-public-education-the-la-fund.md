@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: tMwKJIhKIAU
+project_titles:
+  - 'The Intern Project: The Transformative Power of Internships'
 organization_id: '2014206'
 title: The Los Angeles Fund For Public Education (The LA Fund)
 org_type: Nonprofit
@@ -18,19 +20,13 @@ ein: '452443162'
 zip: '67'
 project_image: 'https://img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102222'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102173'
-original_project_ids:
-  - '4102222'
-original_project_titles:
-  - 'The Intern Project: The Transformative Power of Internships'
-extrapolated_project_ids:
-  - '4102222'
-extrapolated_project_titles:
-  - 'The Intern Project: The Transformative Power of Internships'
 
 ---

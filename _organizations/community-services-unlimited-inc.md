@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: CQsypZUTmbo
+project_titles:
+  - Earth Day Every Day
 organization_id: '2014018'
 title: Community Services Unlimited inc.
 org_type: Nonprofit
@@ -21,6 +23,8 @@ ein: '953218396'
 zip: '90089'
 project_image: 'https://img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102045'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Earthdayeveryday.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102019'
-original_project_ids:
-  - '4102045'
-original_project_titles:
-  - Earth Day Every Day
-extrapolated_project_ids:
-  - '4102045'
-extrapolated_project_titles:
-  - Earth Day Every Day
 
 ---

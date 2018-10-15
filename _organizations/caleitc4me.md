@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Financial Security for Low-Income Angelenos
 organization_id: '2018012'
 title: CalEITC4Me
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '474325738'
 zip: '90066'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
 project_video: 'https://www.youtube.com/watch?v=55FW0fd5Mh4'
+project_ids:
+  - '8102012'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/caleitc4me/'
@@ -26,13 +30,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102012'
-original_project_ids:
-  - '8102012'
-original_project_titles:
-  - Financial Security for Low-Income Angelenos
-extrapolated_project_ids:
-  - '8102012'
-extrapolated_project_titles:
-  - Financial Security for Low-Income Angelenos
 
 ---

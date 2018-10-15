@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: 9l0UWGhKU-U
+project_titles:
+  - Game Changing Marketplace to Source Hourly Jobseekers
 organization_id: '2015097'
 title: JobCouch
 org_type: Forprofit
@@ -19,6 +21,8 @@ ein: '465572000'
 zip: '91362'
 project_image: 'https://img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102150'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102239'
-original_project_ids:
-  - '5102150'
-original_project_titles:
-  - Game Changing Marketplace to Source Hourly Jobseekers
-extrapolated_project_ids:
-  - '5102150'
-extrapolated_project_titles:
-  - Game Changing Marketplace to Source Hourly Jobseekers
 
 ---

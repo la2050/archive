@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Explore Los Angeles's past, present, and future in augmented reality through
+    Perceptoscope
 organization_id: '2016170'
 title: Perceptoscope
 org_type: Forprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
 project_video: 'https://www.youtube.com/embed/GCBLHUIW9FI?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102215'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102215'
-original_project_ids:
-  - '6102215'
-original_project_titles:
-  - >-
-    Explore Los Angeles's past, present, and future in augmented reality through
-    Perceptoscope
-extrapolated_project_ids:
-  - '6102215'
-extrapolated_project_titles:
-  - >-
-    Explore Los Angeles's past, present, and future in augmented reality through
-    Perceptoscope
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: 31zyNJHGmig
+project_titles:
+  - 'Education for Everyone: Alternative High School for Pushed-Out Youth'
 organization_id: '2015228'
 title: Youth Justice Coalition
 org_type: Nonprofit
@@ -23,6 +25,8 @@ ein: '830466818'
 zip: '90302'
 project_image: 'https://img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102345'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/freelahighschool.html'
@@ -30,13 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102345'
-original_project_ids:
-  - '5102345'
-original_project_titles:
-  - 'Education for Everyone: Alternative High School for Pushed-Out Youth'
-extrapolated_project_ids:
-  - '5102345'
-extrapolated_project_titles:
-  - 'Education for Everyone: Alternative High School for Pushed-Out Youth'
 
 ---

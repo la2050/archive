@@ -1,4 +1,12 @@
 ---
+project_titles:
+  - >-
+    Community Circle Space Initiative: Creating a place and sharing a process
+    for authentic connection 
+  - >-
+    Community Circle Space Initiative: Creating a place and sharing a process
+    for authentic connection
+  - 'Council in Schools: Building Council Cultures and Spaces at 6 LA Schools'
 organization_id: '2016228'
 title: The Ojai Foundation
 org_type: Nonprofit
@@ -22,6 +30,9 @@ zip: '93024'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 project_video: ''
+project_ids:
+  - '6102252'
+  - '5102308'
 aggregated:
   challenge_url:
     - >-
@@ -33,19 +44,5 @@ aggregated:
   project_ids:
     - '6102252'
     - '5102308'
-original_project_ids:
-  - '6102252'
-original_project_titles:
-  - >-
-    Community Circle Space Initiative: Creating a place and sharing a process
-    for authentic connection 
-extrapolated_project_ids:
-  - '6102252'
-  - '5102308'
-extrapolated_project_titles:
-  - >-
-    Community Circle Space Initiative: Creating a place and sharing a process
-    for authentic connection
-  - 'Council in Schools: Building Council Cultures and Spaces at 6 LA Schools'
 
 ---

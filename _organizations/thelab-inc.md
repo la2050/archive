@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: LA2050.png
+project_titles:
+  - 'TheLab: LA’s Place for Scientific Exploration'
 maker_image_id: '23379'
 organization_id: '2015210'
 title: 'TheLab, Inc'
@@ -23,6 +25,8 @@ zip: '91101'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23379%252Fdisplay%252FLA2050.png=c570x385
 project_video: ''
+project_ids:
+  - '5102315'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/thelab.html'
@@ -30,13 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102315'
-original_project_ids:
-  - '5102315'
-original_project_titles:
-  - 'TheLab: LA’s Place for Scientific Exploration'
-extrapolated_project_ids:
-  - '5102315'
-extrapolated_project_titles:
-  - 'TheLab: LA’s Place for Scientific Exploration'
 
 ---

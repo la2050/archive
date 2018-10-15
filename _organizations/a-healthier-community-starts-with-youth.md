@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    A youth-led public health program involving health professionals, students,
+    & our communities.
 organization_id: '2018004'
 title: A Healthier Community Starts with YOUth
 org_type: Nonprofit
@@ -21,6 +25,8 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
 project_video: 'https://vimeo.com/241727342'
+project_ids:
+  - '8102004'
 aggregated:
   challenge_url:
     - >-
@@ -29,17 +35,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102004'
-original_project_ids:
-  - '8102004'
-original_project_titles:
-  - >-
-    A youth-led public health program involving health professionals, students,
-    & our communities.
-extrapolated_project_ids:
-  - '8102004'
-extrapolated_project_titles:
-  - >-
-    A youth-led public health program involving health professionals, students,
-    & our communities.
 
 ---

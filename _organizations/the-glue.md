@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Crowd-Sourcing Sidewalk App
 organization_id: '2018119'
 title: The Glue
 org_type: Forprofit
@@ -21,6 +23,8 @@ ein: '462089483'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/the-glue.jpg'
 project_video: ''
+project_ids:
+  - '8102119'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/the-glue/'
@@ -28,11 +32,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102120'
-original_project_ids:
-  - '8102119'
-original_project_titles:
-  - Crowd-Sourcing Sidewalk App
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

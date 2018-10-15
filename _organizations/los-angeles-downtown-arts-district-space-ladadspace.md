@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: cVrWTvw8gFc
+project_titles:
+  - LADADSpace LA Murals & Mentorship Program
 organization_id: '2014055'
 title: Los Angeles Downtown Arts District Space (LADADSpace)
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '470939543'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102129'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
@@ -27,13 +31,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102056'
-original_project_ids:
-  - '4102129'
-original_project_titles:
-  - LADADSpace LA Murals & Mentorship Program
-extrapolated_project_ids:
-  - '4102129'
-extrapolated_project_titles:
-  - LADADSpace LA Murals & Mentorship Program
 
 ---

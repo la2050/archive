@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: MNDn6OWCjco
+project_titles:
+  - NHM Urban Safari
 organization_id: '2013141'
 title: Natural History Museum of Los Angeles County
 org_type: Nonprofit
@@ -54,6 +56,8 @@ ein: '956132185'
 zip: ''
 project_image: 'https://img.youtube.com/vi/MNDn6OWCjco/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102202'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/urbansafari.html'
@@ -61,15 +65,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102202'
-original_project_ids:
-  - '3102202'
-  - '3102202'
-original_project_titles:
-  - NHM Urban Safari
-  - NHM Urban Safari
-extrapolated_project_ids:
-  - '3102202'
-extrapolated_project_titles:
-  - NHM Urban Safari
 
 ---

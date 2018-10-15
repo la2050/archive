@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - Connecting LA Tech Companies with Area STEM Organizations
+  - Tech LA Cares (TLC)
 organization_id: '2016210'
 title: Tech LA Cares
 org_type: Forprofit
@@ -22,6 +25,9 @@ zip: '90403'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 project_video: ''
+project_ids:
+  - '6102242'
+  - '5102292'
 aggregated:
   challenge_url:
     - >-
@@ -33,17 +39,5 @@ aggregated:
   project_ids:
     - '6102242'
     - '8102119'
-original_project_ids:
-  - '5102292'
-  - '6102242'
-original_project_titles:
-  - Connecting LA Tech Companies with Area STEM Organizations
-  - Tech LA Cares (TLC)
-extrapolated_project_ids:
-  - '6102242'
-  - '5102292'
-extrapolated_project_titles:
-  - Connecting LA Tech Companies with Area STEM Organizations
-  - Tech LA Cares (TLC)
 
 ---

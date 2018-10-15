@@ -1,4 +1,12 @@
 ---
+project_titles:
+  - >-
+    Caregivers & Kids - License-Exempt & Child Inclusive Nutrition and Physical
+    Activity Education
+  - >-
+    Culinary Skills in a Box - Giving Children in Child Care the Tools to
+    Establish Healthy Habits
+  - 'Caregiver and Me: Get Healthy with Sesame Street'
 organization_id: '2016204'
 title: T&L Foundation for Child Care Information
 org_type: Nonprofit
@@ -21,6 +29,10 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 project_video: ''
+project_ids:
+  - '6102224'
+  - '5102286'
+  - '4102243'
 aggregated:
   challenge_url:
     - >-
@@ -34,23 +46,5 @@ aggregated:
     - '6102224'
     - '5102286'
     - '4102238'
-original_project_ids:
-  - '4102243'
-  - '6102224'
-original_project_titles:
-  - >-
-    Caregivers & Kids - License-Exempt & Child Inclusive Nutrition and Physical
-    Activity Education
-  - >-
-    Culinary Skills in a Box - Giving Children in Child Care the Tools to
-    Establish Healthy Habits
-extrapolated_project_ids:
-  - '6102224'
-  - '5102286'
-extrapolated_project_titles:
-  - >-
-    Culinary Skills in a Box - Giving Children in Child Care the Tools to
-    Establish Healthy Habits
-  - 'Caregiver and Me: Get Healthy with Sesame Street'
 
 ---

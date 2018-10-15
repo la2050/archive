@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - YouthCare - Intergenerational Respite Care
 organization_id: '2018124'
 title: The Youth Movement Against Alzheimer’s
 org_type: Nonprofit
@@ -23,6 +25,8 @@ zip: '90016'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
 project_video: 'https://youtu.be/5fwflSIChBM'
+project_ids:
+  - '8102124'
 aggregated:
   challenge_url:
     - >-
@@ -31,11 +35,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102124'
-original_project_ids:
-  - '8102124'
-original_project_titles:
-  - YouthCare - Intergenerational Respite Care
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

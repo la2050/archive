@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: Nate_Holden.jpg
+project_titles:
+  - AEP - Arts and Cultural Environmental Certification
+  - AEP  Arts and Cultural Environmental Certification
 maker_image_id: '17283'
 organization_id: '2013017'
 title: 'Arts:Earth Partnership'
@@ -38,6 +41,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17283%252Fdisplay%252FNate_Holden.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102029'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ArtsEarthPartnership.html'
@@ -45,13 +50,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102029'
-original_project_ids:
-  - '3102029'
-original_project_titles:
-  - AEP - Arts and Cultural Environmental Certification
-extrapolated_project_ids:
-  - '3102029'
-extrapolated_project_titles:
-  - AEP  Arts and Cultural Environmental Certification
 
 ---

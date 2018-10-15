@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: Image.jpg
+project_titles:
+  - 'LA Veterans in Need: IAVA’s Rapid Response Referral Program '
+  - 'LA Veterans in Need: IAVA’s Rapid Response Referral Program'
 maker_image_id: '23674'
 organization_id: '2015093'
 title: Iraq and Afghanistan Veterans of America (IAVA)
@@ -25,6 +28,8 @@ zip: '10036'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23674%252Fdisplay%252FImage.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102144'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
@@ -32,13 +37,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102144'
-original_project_ids:
-  - '5102144'
-original_project_titles:
-  - 'LA Veterans in Need: IAVA’s Rapid Response Referral Program '
-extrapolated_project_ids:
-  - '5102144'
-extrapolated_project_titles:
-  - 'LA Veterans in Need: IAVA’s Rapid Response Referral Program'
 
 ---

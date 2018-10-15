@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: laadW_CUhSY
+project_titles:
+  - 'The OCEAN is the best place to play in LA! But, we must keep her clean!'
+  - The OCEAN is the best place to play in LA! But we must keep her clean!
 organization_id: '2015131'
 title: Los Angeles Underwater Explorers; Ghost Fishing
 org_type: Nonprofit
@@ -20,6 +23,8 @@ ein: '465551374'
 zip: '90068'
 project_image: 'https://img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102198'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
@@ -27,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102198'
-original_project_ids:
-  - '5102198'
-original_project_titles:
-  - 'The OCEAN is the best place to play in LA! But, we must keep her clean!'
-extrapolated_project_ids:
-  - '5102198'
-extrapolated_project_titles:
-  - The OCEAN is the best place to play in LA! But we must keep her clean!
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: TjRq-S_gY9U
+project_titles:
+  - Green Commuter LA2050
 organization_id: '2015075'
 title: Green Commuter
 org_type: Forprofit
@@ -23,19 +25,13 @@ ein: '471211258'
 zip: '90401'
 project_image: 'https://img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102117'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/GreenCommuter.html'
   year_submitted:
     - '2015'
   project_ids: []
-original_project_ids:
-  - '5102117'
-original_project_titles:
-  - Green Commuter LA2050
-extrapolated_project_ids:
-  - '5102117'
-extrapolated_project_titles:
-  - Green Commuter LA2050
 
 ---

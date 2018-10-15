@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: atB8yIPXKCk
+project_titles:
+  - SeePolitical - Making Ballot Propositions Easy to Understand
+  - 'SeePolitical: Make Voting Fun and Easy for Everyone!'
 organization_id: '2015177'
 title: SeePolitical
 org_type: Nonprofit
@@ -21,6 +24,9 @@ ein: '452742032'
 zip: '90402'
 project_image: 'https://img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102264'
+  - '4102189'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SeePolitical.html'
@@ -31,17 +37,5 @@ aggregated:
   project_ids:
     - '5102264'
     - '4102211'
-original_project_ids:
-  - '4102189'
-  - '5102264'
-original_project_titles:
-  - SeePolitical - Making Ballot Propositions Easy to Understand
-  - 'SeePolitical: Make Voting Fun and Easy for Everyone!'
-extrapolated_project_ids:
-  - '5102264'
-  - '4102189'
-extrapolated_project_titles:
-  - 'SeePolitical: Make Voting Fun and Easy for Everyone!'
-  - SeePolitical - Making Ballot Propositions Easy to Understand
 
 ---

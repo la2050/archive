@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: _-Xf6dKy4no
+project_titles:
+  - 'Proktr LA is bringing art and design to everyday life. '
+  - Proktr LA is bringing art and design to everyday life.
 organization_id: '2014072'
 title: Proktr
 org_type: Forprofit
@@ -19,19 +22,13 @@ ein: '464405903'
 zip: '90027'
 project_image: 'https://img.youtube.com/vi/_-Xf6dKy4no/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102172'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'
   year_submitted:
     - '2014'
   project_ids: []
-original_project_ids:
-  - '4102172'
-original_project_titles:
-  - 'Proktr LA is bringing art and design to everyday life. '
-extrapolated_project_ids:
-  - '4102172'
-extrapolated_project_titles:
-  - Proktr LA is bringing art and design to everyday life.
 
 ---

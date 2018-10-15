@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: 3J2TSZ1AMHM
+project_titles:
+  - 'Camp reLAte: A Community Organizing Approach to Cultivating Connectedness'
 organization_id: '2013196'
 title: The Relational Center
 org_type: Nonprofit
@@ -31,6 +33,8 @@ ein: '260511164'
 zip: ''
 project_image: 'https://img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102256'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/relationalcenter.html'
@@ -38,13 +42,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102256'
-original_project_ids:
-  - '3102256'
-original_project_titles:
-  - 'Camp reLAte: A Community Organizing Approach to Cultivating Connectedness'
-extrapolated_project_ids:
-  - '3102256'
-extrapolated_project_titles:
-  - 'Camp reLAte: A Community Organizing Approach to Cultivating Connectedness'
 
 ---

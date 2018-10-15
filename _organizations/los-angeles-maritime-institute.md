@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: m_0WUOFanyM
+project_titles:
+  - Adventure Education Aboard L.A.'s Official Tall Ships
+  - Adventure Education Aboard L.A.s Official Tall Ships
 organization_id: '2015125'
 title: Los Angeles Maritime Institute
 org_type: Nonprofit
@@ -21,6 +24,8 @@ ein: '330515416'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102190'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
@@ -28,13 +33,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102190'
-original_project_ids:
-  - '5102190'
-original_project_titles:
-  - Adventure Education Aboard L.A.'s Official Tall Ships
-extrapolated_project_ids:
-  - '5102190'
-extrapolated_project_titles:
-  - Adventure Education Aboard L.A.s Official Tall Ships
 
 ---

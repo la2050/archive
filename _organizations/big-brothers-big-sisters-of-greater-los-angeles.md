@@ -1,4 +1,13 @@
 ---
+project_titles:
+  - 'College, Work, & Life Ready Through BBBSLA''s Workplace Mentoring Program'
+  - >-
+    Linked Learning: College, Work, & Life Ready Through BBBSLA's Workplace
+    Mentoring Program
+  - Mentoring College Success with Big Brothers Big Sisters of Greater LA
+  - >-
+    Linked Learning: College Work & Life Ready Through BBBSLAs Workplace
+    Mentoring Program
 organization_id: '2018007'
 title: Big Brothers Big Sisters of Greater Los Angeles
 org_type: Nonprofit
@@ -21,6 +30,9 @@ zip: 90039-2520
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
+project_ids:
+  - '8102007'
+  - '5102025'
 aggregated:
   challenge_url:
     - >-
@@ -32,20 +44,5 @@ aggregated:
   project_ids:
     - '8102007'
     - '5102025'
-original_project_ids:
-  - '5102025'
-  - '8102007'
-original_project_titles:
-  - 'College, Work, & Life Ready Through BBBSLA''s Workplace Mentoring Program'
-  - >-
-    Linked Learning: College, Work, & Life Ready Through BBBSLA's Workplace
-    Mentoring Program
-  - Mentoring College Success with Big Brothers Big Sisters of Greater LA
-extrapolated_project_ids:
-  - '5102025'
-extrapolated_project_titles:
-  - >-
-    Linked Learning: College Work & Life Ready Through BBBSLAs Workplace
-    Mentoring Program
 
 ---

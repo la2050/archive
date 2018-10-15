@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: 6BWp4B7O03I
+project_titles:
+  - Invisible to Invincible
+  - 'The Beacon Network, presented by Jovenes, Inc.'
+  - The Beacon Network presented by Jovenes Inc.
 organization_id: '2014159'
 title: 'Jovenes, Inc.'
 org_type: Nonprofit
@@ -19,6 +23,9 @@ ein: '954342434'
 zip: '90033'
 project_image: 'https://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102122'
+  - '3102160'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ehubb.html'
@@ -28,15 +35,5 @@ aggregated:
   project_ids:
     - '4102142'
     - '3102160'
-original_project_ids:
-  - '3102160'
-  - '4102122'
-original_project_titles:
-  - Invisible to Invincible
-  - 'The Beacon Network, presented by Jovenes, Inc.'
-extrapolated_project_ids:
-  - '3102160'
-extrapolated_project_titles:
-  - The Beacon Network presented by Jovenes Inc.
 
 ---

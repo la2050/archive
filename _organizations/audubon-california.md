@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: KRKqNflY-PU
+project_titles:
+  - WildLAParks
 organization_id: '2014010'
 title: Audubon California
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '131624102'
 zip: '90031'
 project_image: 'https://img.youtube.com/vi/KRKqNflY-PU/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102017'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/wildlaparks.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102011'
-original_project_ids:
-  - '4102017'
-original_project_titles:
-  - WildLAParks
-extrapolated_project_ids:
-  - '4102017'
-extrapolated_project_titles:
-  - WildLAParks
 
 ---

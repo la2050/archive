@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - East Los Angeles Youth Environmental Leadership Summit
 organization_id: '2016112'
 title: International Trade Education Programs (ITEP)
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102106'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102106'
-original_project_ids:
-  - '6102106'
-original_project_titles:
-  - East Los Angeles Youth Environmental Leadership Summit
-extrapolated_project_ids:
-  - '6102106'
-extrapolated_project_titles:
-  - East Los Angeles Youth Environmental Leadership Summit
 
 ---

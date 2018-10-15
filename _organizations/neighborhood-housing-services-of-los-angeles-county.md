@@ -1,4 +1,11 @@
 ---
+project_titles:
+  - 'Center for Sustainable Communities '
+  - Center for Sustainable Communities - Compton
+  - 'Center for Sustainable Communities in Compton, CA'
+  - Center for Sustainable Communities
+  - The Center for Sustainable Communities in Compton CA
+  - Center for Sustainable Communities in Compton CA
 organization_id: '2018089'
 title: Neighborhood Housing Services of Los Angeles County
 org_type: Nonprofit
@@ -20,6 +27,11 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/neighborhood-housing-services-of-los-angeles-county.jpg
 project_video: 'https://youtu.be/W_HksfcqY6U'
+project_ids:
+  - '8102089'
+  - '6102165'
+  - '5102219'
+  - '4102155'
 aggregated:
   challenge_url:
     - >-
@@ -37,23 +49,5 @@ aggregated:
     - '6102165'
     - '5102219'
     - '4102258'
-original_project_ids:
-  - '4102155'
-  - '6102165'
-  - '8102089'
-original_project_titles:
-  - 'Center for Sustainable Communities '
-  - Center for Sustainable Communities - Compton
-  - 'Center for Sustainable Communities in Compton, CA'
-extrapolated_project_ids:
-  - '8102089'
-  - '6102165'
-  - '5102219'
-  - '4102155'
-extrapolated_project_titles:
-  - Center for Sustainable Communities - Compton
-  - Center for Sustainable Communities
-  - The Center for Sustainable Communities in Compton CA
-  - Center for Sustainable Communities in Compton CA
 
 ---

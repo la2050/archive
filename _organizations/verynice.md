@@ -1,5 +1,11 @@
 ---
 maker_image_file_name: verynice.jpeg
+project_titles:
+  - >-
+    Helping Small Businesses and Independent Contractors in Los Angeles Be Very
+    Nice.
+  - verynice
+  - verynice gives half of its work away for free to nonprofits
 maker_image_id: '17230'
 organization_id: '2013214'
 title: verynice
@@ -45,6 +51,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385
 project_video: ''
+project_ids:
+  - '3102114'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/beverynice.html'
@@ -52,19 +60,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102114'
-original_project_ids:
-  - '3102114'
-original_project_titles:
-  - >-
-    Helping Small Businesses and Independent Contractors in Los Angeles Be Very
-    Nice.
-  - verynice
-  - verynice gives half of its work away for free to nonprofits
-extrapolated_project_ids:
-  - '3102114'
-extrapolated_project_titles:
-  - >-
-    Helping Small Businesses and Independent Contractors in Los Angeles Be Very
-    Nice.
 
 ---

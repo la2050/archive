@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
+    collective future
 organization_id: '2016158'
 title: New Roads School
 org_type: Nonprofit
@@ -22,6 +26,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5520243165741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102167'
 aggregated:
   challenge_url:
     - >-
@@ -30,17 +36,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102167'
-original_project_ids:
-  - '6102167'
-original_project_titles:
-  - >-
-    UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
-    collective future
-extrapolated_project_ids:
-  - '6102167'
-extrapolated_project_titles:
-  - >-
-    UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
-    collective future
 
 ---

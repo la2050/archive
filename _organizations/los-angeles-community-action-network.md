@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: d7u6LPKVtv4
+project_titles:
+  - The Skid Row Justice and Wellness Center and Pop-Up Produce Market
 organization_id: '2015121'
 title: Los Angeles Community Action Network
 org_type: Nonprofit
@@ -24,6 +26,8 @@ ein: '20661629'
 zip: '90021'
 project_image: 'https://img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102186'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/LACAN.html'
@@ -31,13 +35,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102186'
-original_project_ids:
-  - '5102186'
-original_project_titles:
-  - The Skid Row Justice and Wellness Center and Pop-Up Produce Market
-extrapolated_project_ids:
-  - '5102186'
-extrapolated_project_titles:
-  - The Skid Row Justice and Wellness Center and Pop-Up Produce Market
 
 ---

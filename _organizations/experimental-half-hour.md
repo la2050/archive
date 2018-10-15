@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: DiU_9RR7ZvY
+project_titles:
+  - Los Angeles Media Lab
 organization_id: '2014034'
 title: Experimental Half-Hour
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '952540759'
 zip: '91105'
 project_image: 'https://img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102068'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102035'
-original_project_ids:
-  - '4102068'
-original_project_titles:
-  - Los Angeles Media Lab
-extrapolated_project_ids:
-  - '4102068'
-extrapolated_project_titles:
-  - Los Angeles Media Lab
 
 ---

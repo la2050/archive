@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: obee-landscape.jpg
+project_titles:
+  - Toward a Carbon Neutral House
 maker_image_id: '22740'
 organization_id: '2014150'
 title: Home Front Build
@@ -20,15 +22,11 @@ zip: '90065'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22740%252Fdisplay%252Fobee-landscape.jpg=c570x385
 project_video: ''
+project_ids: []
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids: []
-original_project_ids: []
-original_project_titles:
-  - Toward a Carbon Neutral House
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - >-
+    Beyond the Red Carpet - Industries & Careers Shaping the Future of Los
+    Angeles
+  - "Beyond the Red Carpet - Industries & Careers Shaping the Future of Los Angeles\r\n"
 organization_id: '2018104'
 title: Roadtrip Nation
 org_type: Nonprofit
@@ -22,6 +27,8 @@ zip: '90033'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
 project_video: 'https://www.youtube.com/watch?v=jT5D2oFUbpQ'
+project_ids:
+  - '8102104'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/roadtrip-nation/'
@@ -29,15 +36,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102104'
-original_project_ids:
-  - '8102104'
-original_project_titles:
-  - >-
-    Beyond the Red Carpet - Industries & Careers Shaping the Future of Los
-    Angeles
-extrapolated_project_ids:
-  - '8102104'
-extrapolated_project_titles:
-  - "Beyond the Red Carpet - Industries & Careers Shaping the Future of Los Angeles\r\n"
 
 ---

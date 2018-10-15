@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: ajJ28FU4Wws
+project_titles:
+  - Transforming Los Angeles Schools Using the Parent Trigger Law
 organization_id: '2013150'
 title: Parent Revolution
 org_type: Nonprofit
@@ -116,6 +118,8 @@ ein: '202207418'
 zip: ''
 project_image: 'https://img.youtube.com/vi/ajJ28FU4Wws/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102213'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ParentTrigger.html'
@@ -123,13 +127,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102213'
-original_project_ids:
-  - '3102213'
-original_project_titles:
-  - Transforming Los Angeles Schools Using the Parent Trigger Law
-extrapolated_project_ids:
-  - '3102213'
-extrapolated_project_titles:
-  - Transforming Los Angeles Schools Using the Parent Trigger Law
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: rksqpbf13eo
+project_titles:
+  - Art Revitalization Movement
 organization_id: '2013212'
 title: Valle Artists
 org_type: Nonprofit
@@ -24,6 +26,8 @@ ein: '270126980'
 zip: ''
 project_image: 'https://img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102270'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Artistmovement.html'
@@ -31,13 +35,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102270'
-original_project_ids:
-  - '3102270'
-original_project_titles:
-  - Art Revitalization Movement
-extrapolated_project_ids:
-  - '3102270'
-extrapolated_project_titles:
-  - Art Revitalization Movement
 
 ---

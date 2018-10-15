@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'LA River Stories: Public Engagement through Creative Storytelling'
 organization_id: '2016185'
 title: River LA (formerly LA River Revitalization Corporation)
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/9ADs2v7U-Ro?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102199'
 aggregated:
   challenge_url:
     - >-
@@ -28,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102199'
-original_project_ids:
-  - '6102199'
-original_project_titles:
-  - 'LA River Stories: Public Engagement through Creative Storytelling'
-extrapolated_project_ids:
-  - '6102199'
-extrapolated_project_titles:
-  - 'LA River Stories: Public Engagement through Creative Storytelling'
 
 ---

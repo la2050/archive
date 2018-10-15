@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: Vv698CCwrt4
+project_titles:
+  - Apps4LA- Transitioning Los Angeles into a Smart City
 organization_id: '2014058'
 title: 'Millennial Magazine: Apps4LA'
 org_type: Forprofit
@@ -19,6 +21,8 @@ ein: '613480924'
 zip: '91504'
 project_image: 'https://img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102147'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102118'
-original_project_ids:
-  - '4102147'
-original_project_titles:
-  - Apps4LA- Transitioning Los Angeles into a Smart City
-extrapolated_project_ids:
-  - '4102147'
-extrapolated_project_titles:
-  - Apps4LA- Transitioning Los Angeles into a Smart City
 
 ---

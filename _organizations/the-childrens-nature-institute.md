@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: xF48V9enLaE
+project_titles:
+  - 'Education by Nature: Los Angeles'
 organization_id: '2013184'
 title: The Children's Nature Institute
 org_type: Nonprofit
@@ -37,6 +39,8 @@ ein: '954320598'
 zip: ''
 project_image: 'https://img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102245'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ExNLA.html'
@@ -44,15 +48,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102245'
-original_project_ids:
-  - '3102245'
-  - '3102245'
-original_project_titles:
-  - 'Education by Nature: Los Angeles'
-  - 'Education by Nature: Los Angeles'
-extrapolated_project_ids:
-  - '3102245'
-extrapolated_project_titles:
-  - 'Education by Nature: Los Angeles'
 
 ---

@@ -327,7 +327,7 @@ align-self: stretch;
     {% endfor %}
   {% endfor %}
 
-  <li data-project-titles="{{ data['original_project_titles'] | join: "," }},{{ data['extrapolated_project_titles'] | join: "," }}">
+  <li data-project-titles="{{ data['project_titles'] | join: "," }}">
     <a href="{{ data.url }}">
       <span class="image">
         <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />

@@ -1,4 +1,12 @@
 ---
+project_titles:
+  - >-
+    Enlisting our city’s most promising future leaders in the fight for
+    educational equity
+  - >-
+    Teach For America - Los Angeles: Transforming the Young Students of Today
+    into the Leaders of 2050
+  - Trauma-Informed Teaching Initiative; A Win For Teachers and Students
 organization_id: '2016209'
 title: Teach For America-Los Angeles
 org_type: Nonprofit
@@ -20,6 +28,10 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
 project_video: 'https://www.youtube.com/embed/T7BYSC7XXLk?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102230'
+  - '4102204'
+  - '3102242'
 aggregated:
   challenge_url:
     - >-
@@ -36,29 +48,5 @@ aggregated:
     - '5102291'
     - '4102240'
     - '3102242'
-original_project_ids:
-  - '3102242'
-  - '4102204'
-  - '6102230'
-original_project_titles:
-  - >-
-    Enlisting our city’s most promising future leaders in the fight for
-    educational equity
-  - >-
-    Teach For America - Los Angeles: Transforming the Young Students of Today
-    into the Leaders of 2050
-  - Trauma-Informed Teaching Initiative; A Win For Teachers and Students
-extrapolated_project_ids:
-  - '6102230'
-  - '4102204'
-  - '3102242'
-extrapolated_project_titles:
-  - Trauma-Informed Teaching Initiative; A Win For Teachers and Students
-  - >-
-    Teach For America - Los Angeles: Transforming the Young Students of Today
-    into the Leaders of 2050
-  - >-
-    Enlisting our city’s most promising future leaders in the fight for
-    educational equity
 
 ---

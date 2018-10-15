@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: Dq2cY1SKlFQ
+project_titles:
+  - 'NativLA: Discover the city you thought you knew '
 organization_id: '2013140'
 title: Nativ
 org_type: For profit
@@ -40,6 +42,8 @@ ein: '102649365'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102080'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Nativ.html'
@@ -47,13 +51,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102080'
-original_project_ids:
-  - '3102080'
-original_project_titles:
-  - 'NativLA: Discover the city you thought you knew '
-extrapolated_project_ids:
-  - '3102080'
-extrapolated_project_titles:
-  - 'NativLA: Discover the city you thought you knew '
 
 ---

@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Exposition Park: A Gateway and a Destination'
 organization_id: '2016159'
 title: Office of Exposition Park Management
 org_type: Government
@@ -21,6 +23,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2101126065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/xLSpVnV_dyk?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102169'
 aggregated:
   challenge_url:
     - >-
@@ -29,13 +33,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102169'
-original_project_ids:
-  - '6102169'
-original_project_titles:
-  - 'Exposition Park: A Gateway and a Destination'
-extrapolated_project_ids:
-  - '6102169'
-extrapolated_project_titles:
-  - 'Exposition Park: A Gateway and a Destination'
 
 ---

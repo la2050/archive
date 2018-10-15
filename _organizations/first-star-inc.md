@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: CZMjDcpz53c
+project_titles:
+  - First Star UCLA Bruin Guardian Scholars Academy
 organization_id: '2013068'
 title: 'First Star, Inc.'
 org_type: Nonprofit
@@ -33,6 +35,8 @@ ein: '311719436'
 zip: ''
 project_image: 'https://img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102128'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FirstStar.html'
@@ -40,13 +44,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102128'
-original_project_ids:
-  - '3102128'
-original_project_titles:
-  - First Star UCLA Bruin Guardian Scholars Academy
-extrapolated_project_ids:
-  - '3102128'
-extrapolated_project_titles:
-  - First Star UCLA Bruin Guardian Scholars Academy
 
 ---

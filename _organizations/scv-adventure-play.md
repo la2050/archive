@@ -1,5 +1,13 @@
 ---
 maker_image_file_name: SCV_ADvplay_table_logo.png
+project_titles:
+  - >-
+    "Eureka Villa" Permanent Adventure Playground and County Wide Pop-ups by SCV
+    Adventure Play
+  - SCV Adventure Play Pop-ups and Park Projects
+  - >-
+    Eureka Villa Permanent Adventure Playground and County Wide Pop-ups by SCV
+    Adventure Play
 maker_image_id: '24111'
 organization_id: '2015176'
 title: SCV Adventure Play
@@ -23,6 +31,9 @@ zip: '91384'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24111%252Fdisplay%252FSCV_ADvplay_table_logo.png=c570x385
 project_video: ''
+project_ids:
+  - '5102263'
+  - '4102188'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
@@ -33,21 +44,5 @@ aggregated:
   project_ids:
     - '5102290'
     - '8102137'
-original_project_ids:
-  - '4102188'
-  - '5102263'
-original_project_titles:
-  - >-
-    "Eureka Villa" Permanent Adventure Playground and County Wide Pop-ups by SCV
-    Adventure Play
-  - SCV Adventure Play Pop-ups and Park Projects
-extrapolated_project_ids:
-  - '5102263'
-  - '4102188'
-extrapolated_project_titles:
-  - >-
-    Eureka Villa Permanent Adventure Playground and County Wide Pop-ups by SCV
-    Adventure Play
-  - SCV Adventure Play Pop-ups and Park Projects
 
 ---

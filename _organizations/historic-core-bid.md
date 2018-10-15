@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Spring Street Parklets
 organization_id: '2016100'
 title: Historic Core BID
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
 project_video: 'https://www.youtube.com/embed/7q-meY3ysT4?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102092'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/spring-street-parklets'
@@ -27,13 +31,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102092'
-original_project_ids:
-  - '6102092'
-original_project_titles:
-  - Spring Street Parklets
-extrapolated_project_ids:
-  - '6102092'
-extrapolated_project_titles:
-  - Spring Street Parklets
 
 ---

@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'ANGELENOS: Bridging Generations Connecting Values (BGCV)'
 organization_id: '2018010'
 title: Boys & Girls Clubs of Venice
 org_type: Nonprofit
@@ -21,6 +23,8 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/boys-girls-clubs-of-venice-bgcv.jpg
 project_video: 'https://www.youtube.com/watch?v=EWUItoHZ1Hs&feature=youtu.be'
+project_ids:
+  - '8102010'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
@@ -31,11 +35,5 @@ aggregated:
   project_ids:
     - '8102010'
     - '3102038'
-original_project_ids: []
-original_project_titles: []
-extrapolated_project_ids:
-  - '8102010'
-extrapolated_project_titles:
-  - 'ANGELENOS: Bridging Generations Connecting Values (BGCV)'
 
 ---

@@ -1,5 +1,12 @@
 ---
 youtube_video_identifier: UYdxlEZVaNA
+project_titles:
+  - >-
+    Graduate thousands of L.A. High School Students with an Awesome Teacher & an
+    Innovative App 
+  - >-
+    Graduate thousands of L.A. High School Students with an Awesome Teacher & an
+    Innovative App
 organization_id: '2015036'
 title: ClassNube (Nube means Cloud in Spanish)
 org_type: Forprofit
@@ -22,6 +29,8 @@ ein: '474586012'
 zip: '91364'
 project_image: 'https://img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102065'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
@@ -29,17 +38,5 @@ aggregated:
     - '2015'
   project_ids:
     - '4102099'
-original_project_ids:
-  - '5102065'
-original_project_titles:
-  - >-
-    Graduate thousands of L.A. High School Students with an Awesome Teacher & an
-    Innovative App 
-extrapolated_project_ids:
-  - '5102065'
-extrapolated_project_titles:
-  - >-
-    Graduate thousands of L.A. High School Students with an Awesome Teacher & an
-    Innovative App
 
 ---

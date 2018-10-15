@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: R-T1Ud6JTNo
+project_titles:
+  - Renewable Financing for Renewable Energy
 organization_id: '2013179'
 title: Take Back the Grid
 org_type: For profit
@@ -24,6 +26,8 @@ ein: '383887267'
 zip: ''
 project_image: 'https://img.youtube.com/vi/R-T1Ud6JTNo/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102101'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
@@ -31,13 +35,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102101'
-original_project_ids:
-  - '3102101'
-original_project_titles:
-  - Renewable Financing for Renewable Energy
-extrapolated_project_ids:
-  - '3102101'
-extrapolated_project_titles:
-  - Renewable Financing for Renewable Energy
 
 ---

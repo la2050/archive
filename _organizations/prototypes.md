@@ -1,5 +1,11 @@
 ---
 maker_image_file_name: 2013_Pomona_0649.JPG
+project_titles:
+  - Inspiring Healthy Futures
+  - 'Prototypes: Integrated Health Care for Women and Their Children'
+  - >-
+    The Impact of a Second Chance: An Innovative Women’s Prison Diversion
+    Program
 maker_image_id: '23741'
 organization_id: '2015161'
 title: Prototypes
@@ -24,6 +30,10 @@ zip: '90012'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385
 project_video: ''
+project_ids:
+  - '5102246'
+  - '4102034'
+  - '3102222'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/SecondChance.html'
@@ -36,25 +46,5 @@ aggregated:
     - '5102246'
     - '4102208'
     - '3102222'
-original_project_ids:
-  - '3102222'
-  - '3102222'
-  - '4102034'
-  - '5102246'
-original_project_titles:
-  - Inspiring Healthy Futures
-  - Inspiring Healthy Futures
-  - 'Prototypes: Integrated Health Care for Women and Their Children'
-  - >-
-    The Impact of a Second Chance: An Innovative Women’s Prison Diversion
-    Program
-extrapolated_project_ids:
-  - '5102246'
-  - '3102222'
-extrapolated_project_titles:
-  - >-
-    The Impact of a Second Chance: An Innovative Women’s Prison Diversion
-    Program
-  - Inspiring Healthy Futures
 
 ---

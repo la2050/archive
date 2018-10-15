@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: OSdBClactgc
+project_titles:
+  - Los Angeles Youth Orchestra Community Building
 organization_id: '2013127'
 title: Los Angeles Youth Orchestra
 org_type: Nonprofit
@@ -35,6 +37,8 @@ ein: '244703063'
 zip: ''
 project_image: 'https://img.youtube.com/vi/OSdBClactgc/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102191'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Communitybuilding.html'
@@ -42,13 +46,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102191'
-original_project_ids:
-  - '3102191'
-original_project_titles:
-  - Los Angeles Youth Orchestra Community Building
-extrapolated_project_ids:
-  - '3102191'
-extrapolated_project_titles:
-  - Los Angeles Youth Orchestra Community Building
 
 ---

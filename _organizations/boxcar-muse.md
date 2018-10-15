@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Taking boxcar+muse from Pop-Up to Permanent: Making Space for LA Women to
+    Create, Connect, and Learn
 organization_id: '2016022'
 title: boxcar+muse
 org_type: Forprofit
@@ -19,6 +23,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
 project_video: 'https://youtube.com/embed/200FWNYbCNw?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102085'
 aggregated:
   challenge_url:
     - >-
@@ -27,17 +33,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102085'
-original_project_ids:
-  - '6102085'
-original_project_titles:
-  - >-
-    Taking boxcar+muse from Pop-Up to Permanent: Making Space for LA Women to
-    Create, Connect, and Learn
-extrapolated_project_ids:
-  - '6102085'
-extrapolated_project_titles:
-  - >-
-    Taking boxcar+muse from Pop-Up to Permanent: Making Space for LA Women to
-    Create, Connect, and Learn
 
 ---

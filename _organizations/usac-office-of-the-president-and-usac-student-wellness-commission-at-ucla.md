@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: YHlDfLtzSio
+project_titles:
+  - 'All of Us at UCLA: A Revitalization of Mental Health'
+  - 'All of Us: A Campaign to Rethink Mental Health'
 organization_id: '2015222'
 title: USAC Office of the President and USAC Student Wellness Commission at UCLA
 org_type: Nonprofit
@@ -20,6 +23,9 @@ ein: '951777979'
 zip: '90025'
 project_image: 'https://img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102337'
+  - '4102250'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ALLOFUSMENTALHEALTH.html'
@@ -29,17 +35,5 @@ aggregated:
   project_ids:
     - '5102337'
     - '4102219'
-original_project_ids:
-  - '4102250'
-  - '5102337'
-original_project_titles:
-  - 'All of Us at UCLA: A Revitalization of Mental Health'
-  - 'All of Us: A Campaign to Rethink Mental Health'
-extrapolated_project_ids:
-  - '5102337'
-  - '4102250'
-extrapolated_project_titles:
-  - 'All of Us: A Campaign to Rethink Mental Health'
-  - 'All of Us at UCLA: A Revitalization of Mental Health'
 
 ---

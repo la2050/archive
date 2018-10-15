@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - At Risk Youth Get Jobs in Local Communities
 organization_id: '2016105'
 title: I Have a Dream Foundation
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729983255741-team91.jpg
 project_video: 'https://www.youtube.com/embed/-6vW85daIkY?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102098'
 aggregated:
   challenge_url:
     - >-
@@ -28,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102098'
-original_project_ids:
-  - '6102098'
-original_project_titles:
-  - At Risk Youth Get Jobs in Local Communities
-extrapolated_project_ids:
-  - '6102098'
-extrapolated_project_titles:
-  - At Risk Youth Get Jobs in Local Communities
 
 ---

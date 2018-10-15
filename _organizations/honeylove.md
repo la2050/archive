@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: TkvIb74D38g
+project_titles:
+  - Pesticide-Free Los Angeles 2050
+  - PesticideFree Los Angeles 2050
 organization_id: '2013091'
 title: HoneyLove
 org_type: Nonprofit
@@ -37,6 +40,8 @@ ein: '452863213'
 zip: ''
 project_image: 'https://img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102150'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/HoneyLove.html'
@@ -44,12 +49,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102150'
-original_project_ids: []
-original_project_titles:
-  - Pesticide-Free Los Angeles 2050
-extrapolated_project_ids:
-  - '3102150'
-extrapolated_project_titles:
-  - PesticideFree Los Angeles 2050
 
 ---

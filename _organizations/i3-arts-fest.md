@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
 organization_id: '2016106'
 title: I3 Arts Fest
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
 project_video: 'https://www.youtube.com/embed/A702YxASJIo?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102099'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102099'
-original_project_ids:
-  - '6102099'
-original_project_titles:
-  - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
-extrapolated_project_ids:
-  - '6102099'
-extrapolated_project_titles:
-  - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
 
 ---

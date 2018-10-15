@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: _8WrWZXDKdQ
+project_titles:
+  - >-
+    RiverLAnding : An expedition to prototype a “landing” on the banks of the
+    Los Angeles River
 organization_id: '2013164'
 title: RiverLAnding Collective
 org_type: For profit
@@ -76,6 +80,8 @@ ein: '900627151'
 zip: ''
 project_image: 'https://img.youtube.com/vi/_8WrWZXDKdQ/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102090'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
@@ -83,13 +89,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102090'
-original_project_ids:
-  - '3102090'
-original_project_titles:
-  - >-
-    RiverLAnding : An expedition to prototype a “landing” on the banks of the
-    Los Angeles River
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

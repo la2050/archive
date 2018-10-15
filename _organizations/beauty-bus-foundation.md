@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: XoT_36T5K5E
+project_titles:
+  - Bringing Beauty Home
 organization_id: '2014014'
 title: Beauty Bus Foundation
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '263075655'
 zip: ''
 project_image: 'https://img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102022'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102015'
-original_project_ids:
-  - '4102022'
-original_project_titles:
-  - Bringing Beauty Home
-extrapolated_project_ids:
-  - '4102022'
-extrapolated_project_titles:
-  - Bringing Beauty Home
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: X9EpK48pYtY
+project_titles:
+  - The Moving Museum Los Angeles
 organization_id: '2015204'
 title: The Moving Museum
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '474255808'
 zip: '10018'
 project_image: 'https://img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102307'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102307'
-original_project_ids:
-  - '5102307'
-original_project_titles:
-  - The Moving Museum Los Angeles
-extrapolated_project_ids:
-  - '5102307'
-extrapolated_project_titles:
-  - The Moving Museum Los Angeles
 
 ---

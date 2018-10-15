@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: usGtj9dvrhA
+project_titles:
+  - 'Artists for Sustainability Hub '
+  - Artists for Sustainability Hub
 organization_id: '2014030'
 title: 'Earth Protect, Inc.'
 org_type: Forprofit
@@ -19,6 +22,8 @@ ein: '260612343'
 zip: ''
 project_image: 'https://img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102063'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
@@ -26,13 +31,5 @@ aggregated:
     - '2014'
   project_ids:
     - '5102132'
-original_project_ids:
-  - '4102063'
-original_project_titles:
-  - 'Artists for Sustainability Hub '
-extrapolated_project_ids:
-  - '4102063'
-extrapolated_project_titles:
-  - Artists for Sustainability Hub
 
 ---

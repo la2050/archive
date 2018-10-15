@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
+    Angeles
 organization_id: '2018126'
 title: Topanga Women's Circle
 org_type: Nonprofit
@@ -22,6 +26,8 @@ zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
 project_video: 'https://youtu.be/9lVdk4emJ-M'
+project_ids:
+  - '8102126'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/topanga-womens-circle/'
@@ -29,17 +35,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102126'
-original_project_ids:
-  - '8102126'
-original_project_titles:
-  - >-
-    Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
-    Angeles
-extrapolated_project_ids:
-  - '8102126'
-extrapolated_project_titles:
-  - >-
-    Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
-    Angeles
 
 ---

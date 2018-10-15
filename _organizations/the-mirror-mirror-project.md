@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: awJQoJqGL-o
+project_titles:
+  - 'The Mirror, Mirror Project'
+  - The Mirror Mirror Project
 organization_id: '2014094'
 title: 'The Mirror, Mirror Project'
 org_type: Nonprofit
@@ -19,6 +22,8 @@ ein: '952540759'
 zip: '91105'
 project_image: 'https://img.youtube.com/vi/awJQoJqGL-o/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102224'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
@@ -26,13 +31,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102094'
-original_project_ids:
-  - '4102224'
-original_project_titles:
-  - 'The Mirror, Mirror Project'
-extrapolated_project_ids:
-  - '4102224'
-extrapolated_project_titles:
-  - The Mirror Mirror Project
 
 ---

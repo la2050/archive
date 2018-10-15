@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Launch Her Future: Empowering Los Angeles Girls'
 organization_id: '2018045'
 title: Girls Academic Leadership Academy (GALA)
 org_type: Nonprofit
@@ -21,6 +23,8 @@ zip: '90291'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
 project_video: 'https://youtu.be/PTteThgae3o'
+project_ids:
+  - '8102045'
 aggregated:
   challenge_url:
     - >-
@@ -32,11 +36,5 @@ aggregated:
   project_ids:
     - '8102045'
     - '5102110'
-original_project_ids:
-  - '8102045'
-original_project_titles:
-  - 'Launch Her Future: Empowering Los Angeles Girls'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

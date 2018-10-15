@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: gp_la2050_570x345.jpg
+project_titles:
+  - Free concerts + community = change
 maker_image_id: '24070'
 organization_id: '2015073'
 title: Grand Performances
@@ -24,6 +26,8 @@ zip: '90071'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24070%252Fdisplay%252Fgp_la2050_570x345.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102115'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/GPCONNECTS.html'
@@ -31,13 +35,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102115'
-original_project_ids:
-  - '5102115'
-original_project_titles:
-  - Free concerts + community = change
-extrapolated_project_ids:
-  - '5102115'
-extrapolated_project_titles:
-  - Free concerts + community = change
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: g_OFCYLH7gw
+project_titles:
+  - '#EnvisionLA by coding and design with MINECRAFT'
 organization_id: '2014103'
 title: URBAN Teens Exploring Technology ( TXT )
 org_type: Nonprofit
@@ -17,6 +19,8 @@ ein: '954302067'
 zip: '90007'
 project_image: 'https://img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102248'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/EnvisionLA.html'
@@ -27,13 +31,5 @@ aggregated:
   project_ids:
     - '4102102'
     - '3102268'
-original_project_ids:
-  - '4102248'
-original_project_titles:
-  - '#EnvisionLA by coding and design with MINECRAFT'
-extrapolated_project_ids:
-  - '4102248'
-extrapolated_project_titles:
-  - '#EnvisionLA by coding and design with MINECRAFT'
 
 ---

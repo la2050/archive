@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: 2050_image.jpg
+project_titles:
+  - The CITYstage Arts Discovery Project
 maker_image_id: '16321'
 organization_id: '2013039'
 title: CITYstage
@@ -45,6 +47,8 @@ ein: '271684448'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids:
+  - '3102073'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LACITYstageDiscovery.html'
@@ -52,19 +56,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102073'
-original_project_ids:
-  - '3102073'
-  - '3102073'
-  - '3102073'
-  - '3102073'
-original_project_titles:
-  - The CITYstage Arts Discovery Project
-  - The CITYstage Arts Discovery Project
-  - The CITYstage Arts Discovery Project
-  - The CITYstage Arts Discovery Project
-extrapolated_project_ids:
-  - '3102073'
-extrapolated_project_titles:
-  - The CITYstage Arts Discovery Project
 
 ---

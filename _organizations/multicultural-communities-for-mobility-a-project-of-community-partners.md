@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Root down! Rise up!
 organization_id: '2018085'
 title: 'Multicultural Communities for Mobility, a project of Community Partners'
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 project_video: 'https://youtu.be/4gShI4Plo2I'
+project_ids:
+  - '8102085'
 aggregated:
   challenge_url:
     - >-
@@ -30,11 +34,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102085'
-original_project_ids:
-  - '8102085'
-original_project_titles:
-  - Root down! Rise up!
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

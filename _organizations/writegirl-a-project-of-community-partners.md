@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: FmHmFIlfA4A
+project_titles:
+  - 'WriteGirl: The Write Place for Girls'
 organization_id: '2014228'
 title: 'WriteGirl, a project of Community Partners'
 org_type: Nonprofit
@@ -15,6 +17,8 @@ ein: '954302067'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/FmHmFIlfA4A/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102263'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/powerofthepen.html'
@@ -24,13 +28,5 @@ aggregated:
   project_ids:
     - '4102188'
     - '3102275'
-original_project_ids:
-  - '4102263'
-original_project_titles:
-  - 'WriteGirl: The Write Place for Girls'
-extrapolated_project_ids:
-  - '4102263'
-extrapolated_project_titles:
-  - 'WriteGirl: The Write Place for Girls'
 
 ---

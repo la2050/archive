@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: logo3.jpg
+project_titles:
+  - Los Angeles Human Library
 maker_image_id: '23929'
 organization_id: '2015180'
 title: Silverlake Independent Jewish Community Center
@@ -25,6 +27,8 @@ zip: '90029'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23929%252Fdisplay%252Flogo3.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102267'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/HumanLibraryLA.html'
@@ -32,13 +36,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102267'
-original_project_ids:
-  - '5102267'
-original_project_titles:
-  - Los Angeles Human Library
-extrapolated_project_ids:
-  - '5102267'
-extrapolated_project_titles:
-  - Los Angeles Human Library
 
 ---

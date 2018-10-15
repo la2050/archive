@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: V0_Km6YYSbo
+project_titles:
+  - Teach Kids Coding with Minecraft
 organization_id: '2015108'
 title: LA Makerspace
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '954116679'
 zip: '91615'
 project_image: 'https://img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102168'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'
@@ -27,13 +31,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102168'
-original_project_ids:
-  - '5102168'
-original_project_titles:
-  - Teach Kids Coding with Minecraft
-extrapolated_project_ids:
-  - '5102168'
-extrapolated_project_titles:
-  - Teach Kids Coding with Minecraft
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: K83J6XaqQlM
+project_titles:
+  - Dance Leadership Program for Women
 organization_id: '2014023'
 title: Critical Mass Dance Company (CMDC)
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '954107449'
 zip: '90006'
 project_image: 'https://img.youtube.com/vi/K83J6XaqQlM/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102050'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
@@ -27,13 +31,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102024'
-original_project_ids:
-  - '4102050'
-original_project_titles:
-  - Dance Leadership Program for Women
-extrapolated_project_ids:
-  - '4102050'
-extrapolated_project_titles:
-  - Dance Leadership Program for Women
 
 ---

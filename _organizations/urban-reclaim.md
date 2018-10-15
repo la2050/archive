@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: rDZ9hY7J0xQ
+project_titles:
+  - Reclaimed Park Strand Project
 organization_id: '2013210'
 title: Urban Reclaim
 org_type: Nonprofit
@@ -24,6 +26,8 @@ ein: '272190657'
 zip: ''
 project_image: 'https://img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102267'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
@@ -31,13 +35,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102267'
-original_project_ids:
-  - '3102267'
-original_project_titles:
-  - Reclaimed Park Strand Project
-extrapolated_project_ids:
-  - '3102267'
-extrapolated_project_titles:
-  - Reclaimed Park Strand Project
 
 ---

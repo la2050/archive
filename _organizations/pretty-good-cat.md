@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - 'No More Suffering for LA''s Homeless Kittens '
+  - No More Suffering for LA's Homeless Kittens
 organization_id: '2016177'
 title: Pretty Good Cat
 org_type: Nonprofit
@@ -14,6 +17,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7781213474741-team90.JPG
 project_video: ''
+project_ids:
+  - '6102189'
 aggregated:
   challenge_url:
     - >-
@@ -22,13 +27,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102189'
-original_project_ids:
-  - '6102189'
-original_project_titles:
-  - 'No More Suffering for LA''s Homeless Kittens '
-extrapolated_project_ids:
-  - '6102189'
-extrapolated_project_titles:
-  - No More Suffering for LA's Homeless Kittens
 
 ---

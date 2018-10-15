@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
 organization_id: '2016144'
 title: Maiden LA
 org_type: Nonprofit
@@ -21,6 +23,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Qy7qio56M78?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102151'
 aggregated:
   challenge_url:
     - >-
@@ -29,13 +33,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102151'
-original_project_ids:
-  - '6102151'
-original_project_titles:
-  - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
-extrapolated_project_ids:
-  - '6102151'
-extrapolated_project_titles:
-  - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
 
 ---

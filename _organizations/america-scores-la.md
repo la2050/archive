@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
+    play)
 organization_id: '2016008'
 title: America Scores LA
 org_type: Nonprofit
@@ -22,6 +26,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
 project_video: 'https://www.youtube.com/embed/1WcN6j5lVCc?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102006'
 aggregated:
   challenge_url:
     - >-
@@ -30,17 +36,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102006'
-original_project_ids:
-  - '6102006'
-original_project_titles:
-  - >-
-    LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
-    play)
-extrapolated_project_ids:
-  - '6102006'
-extrapolated_project_titles:
-  - >-
-    LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
-    play)
 
 ---

@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: MbjQABq5iTI
+project_titles:
+  - >-
+    Young Ethnographers: fostering youth development through the Promise Zone
+    Survey
 organization_id: '2015128'
 title: >-
   Los Angeles Promise Zone Initiative, LA Mayor's Office of Economic Development
@@ -21,6 +25,8 @@ ein: '471084641'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102193'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
@@ -28,17 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102193'
-original_project_ids:
-  - '5102193'
-original_project_titles:
-  - >-
-    Young Ethnographers: fostering youth development through the Promise Zone
-    Survey
-extrapolated_project_ids:
-  - '5102193'
-extrapolated_project_titles:
-  - >-
-    Young Ethnographers: fostering youth development through the Promise Zone
-    Survey
 
 ---

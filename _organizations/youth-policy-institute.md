@@ -1,4 +1,12 @@
 ---
+project_titles:
+  - LA Schools to Parks
+  - 'Los Angeles Promise Neighborhood: Transforming Public Education'
+  - Nuestros Murales Unidos
+  - >-
+    Undermine College Undermatching: Using Technology to Select the Best College
+    Fit for LA's Students
+  - 'YPI’s COLLEGE PROMISE: College Matched Savings Accounts'
 organization_id: '2018140'
 title: Youth Policy Institute
 org_type: Nonprofit
@@ -22,6 +30,12 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 project_video: 'https://youtu.be/__37Jfcwzr8'
+project_ids:
+  - '8102140'
+  - '6102288'
+  - '5102347'
+  - '4102265'
+  - '3102278'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/youth-policy-institute/'
@@ -42,35 +56,5 @@ aggregated:
     - '5102347'
     - '4102267'
     - '3102278'
-original_project_ids:
-  - '3102278'
-  - '4102265'
-  - '4102265'
-  - '4102265'
-  - '5102347'
-  - '6102288'
-  - '8102140'
-original_project_titles:
-  - LA Schools to Parks
-  - LA Schools to Parks
-  - LA Schools to Parks
-  - 'Los Angeles Promise Neighborhood: Transforming Public Education'
-  - Nuestros Murales Unidos
-  - >-
-    Undermine College Undermatching: Using Technology to Select the Best College
-    Fit for LA's Students
-  - 'YPI’s COLLEGE PROMISE: College Matched Savings Accounts'
-extrapolated_project_ids:
-  - '6102288'
-  - '5102347'
-  - '4102265'
-  - '3102278'
-extrapolated_project_titles:
-  - >-
-    Undermine College Undermatching: Using Technology to Select the Best College
-    Fit for LA's Students
-  - 'YPI’s COLLEGE PROMISE: College Matched Savings Accounts'
-  - LA Schools to Parks
-  - 'Los Angeles Promise Neighborhood: Transforming Public Education'
 
 ---

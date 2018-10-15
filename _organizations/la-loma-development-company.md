@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: La_Loma_Development_Single_Picture.jpg
+project_titles:
+  - 'La Loma Center: Green Education, Environmental Resources, and Job Training '
+  - 'La Loma Center: Green Education Environmental Resources and Job Training '
 maker_image_id: '16974'
 organization_id: '2013114'
 title: La Loma Development Company
@@ -46,6 +49,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16974%252Fdisplay%252FLa_Loma_Development_Single_Picture.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102068'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LALOMA.html'
@@ -53,13 +58,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102068'
-original_project_ids:
-  - '3102068'
-original_project_titles:
-  - 'La Loma Center: Green Education, Environmental Resources, and Job Training '
-extrapolated_project_ids:
-  - '3102068'
-extrapolated_project_titles:
-  - 'La Loma Center: Green Education Environmental Resources and Job Training '
 
 ---

@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - Integrated Healing & Wellness Center
+  - Richstone Healing & Wellness Center
 organization_id: '2016184'
 title: Richstone Family Center
 org_type: Nonprofit
@@ -22,6 +25,9 @@ zip: '90250'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
 project_video: 'https://www.youtube.com/embed/4V4Ke8wtZgg?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102198'
+  - '5102253'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'
@@ -32,17 +38,5 @@ aggregated:
   project_ids:
     - '6102198'
     - '5102253'
-original_project_ids:
-  - '5102253'
-  - '6102198'
-original_project_titles:
-  - Integrated Healing & Wellness Center
-  - Richstone Healing & Wellness Center
-extrapolated_project_ids:
-  - '6102198'
-  - '5102253'
-extrapolated_project_titles:
-  - Integrated Healing & Wellness Center
-  - Richstone Healing & Wellness Center
 
 ---

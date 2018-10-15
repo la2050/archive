@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: BhO5jmXKosA
+project_titles:
+  - A shady oasis for everyone in Grand Park
 organization_id: '2015154'
 title: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 org_type: Nonprofit
@@ -21,6 +23,8 @@ ein: '952217011'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102234'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102234'
-original_project_ids:
-  - '5102234'
-original_project_titles:
-  - A shady oasis for everyone in Grand Park
-extrapolated_project_ids:
-  - '5102234'
-extrapolated_project_titles:
-  - A shady oasis for everyone in Grand Park
 
 ---

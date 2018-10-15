@@ -1,5 +1,12 @@
 ---
 maker_image_file_name: connect_SLATEZsigners.jpg
+project_titles:
+  - >-
+    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
+    (SLATE-Z)
+  - >-
+    Architecture and Environmental Design: Serving Community with Open
+    Educational Resource
 maker_image_id: '24040'
 organization_id: '2015130'
 title: Los Angeles Trade-Technical College
@@ -25,6 +32,9 @@ zip: '90015'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102197'
+  - '4102138'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
@@ -36,21 +46,5 @@ aggregated:
     - '5102197'
     - '4102203'
     - '4102204'
-original_project_ids:
-  - '5102197'
-original_project_titles:
-  - >-
-    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
-    (SLATE-Z)
-extrapolated_project_ids:
-  - '5102197'
-  - '4102138'
-extrapolated_project_titles:
-  - >-
-    Los Angeles Trade-Technical College South LA Transit Empowerment Zone
-    (SLATE-Z)
-  - >-
-    Architecture and Environmental Design: Serving Community with Open
-    Educational Resource
 
 ---

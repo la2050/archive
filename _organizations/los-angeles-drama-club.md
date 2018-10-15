@@ -1,5 +1,12 @@
 ---
 youtube_video_identifier: 79DqmMTV8-Y
+project_titles:
+  - >-
+    Los Angeles Drama Club: A Creative Home for Young Shakespearians to learn,
+    create and grow
+  - >-
+    Los Angeles Drama Club: A Creative Home for Young Shakespearians to learn
+    create and grow
 organization_id: '2014169'
 title: Los Angeles Drama Club
 org_type: Nonprofit
@@ -18,23 +25,13 @@ ein: '273546756'
 zip: '90019'
 project_image: 'https://img.youtube.com/vi/79DqmMTV8-Y/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102130'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102151'
-original_project_ids:
-  - '4102130'
-original_project_titles:
-  - >-
-    Los Angeles Drama Club: A Creative Home for Young Shakespearians to learn,
-    create and grow
-extrapolated_project_ids:
-  - '4102130'
-extrapolated_project_titles:
-  - >-
-    Los Angeles Drama Club: A Creative Home for Young Shakespearians to learn
-    create and grow
 
 ---

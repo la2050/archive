@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Joyful Heart Foundation’s Survivor Retreat Model
 organization_id: '2016115'
 title: Joyful Heart Foundation
 org_type: Nonprofit
@@ -21,6 +23,9 @@ zip: '91101'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 project_video: ''
+project_ids:
+  - '6102110'
+  - '5102151'
 aggregated:
   challenge_url:
     - >-
@@ -32,17 +37,5 @@ aggregated:
   project_ids:
     - '6102110'
     - '5102151'
-original_project_ids:
-  - '5102151'
-  - '5102151'
-original_project_titles:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-  - Joyful Heart Foundation’s Survivor Retreat Model
-extrapolated_project_ids:
-  - '6102110'
-  - '5102151'
-extrapolated_project_titles:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-  - Joyful Heart Foundation’s Survivor Retreat Model
 
 ---

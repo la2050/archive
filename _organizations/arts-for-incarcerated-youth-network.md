@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - >-
+    Arts for Incarcerated Youth Network: using arts to build #camptocareer
+    pipeline for youth
+  - Arts for Incarcerated Youth Network
 organization_id: '2016015'
 title: Arts For Incarcerated Youth Network
 org_type: Nonprofit
@@ -22,6 +27,9 @@ zip: '90012'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102012'
+  - '5102024'
 aggregated:
   challenge_url:
     - >-
@@ -33,19 +41,5 @@ aggregated:
   project_ids:
     - '6102012'
     - '5102024'
-original_project_ids:
-  - '6102012'
-original_project_titles:
-  - >-
-    Arts for Incarcerated Youth Network: using arts to build #camptocareer
-    pipeline for youth
-extrapolated_project_ids:
-  - '6102012'
-  - '5102024'
-extrapolated_project_titles:
-  - >-
-    Arts for Incarcerated Youth Network: using arts to build #camptocareer
-    pipeline for youth
-  - Arts for Incarcerated Youth Network
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: g8ndzuZ3kKM
+project_titles:
+  - Undevelopment One
 organization_id: '2014176'
 title: Metabolic Studio
 org_type: Nonprofit
@@ -15,17 +17,13 @@ ein: '261878892'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102229'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102154'
-original_project_ids:
-  - '4102229'
-original_project_titles:
-  - Undevelopment One
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

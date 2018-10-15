@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: QQpabiJ0uus
+project_titles:
+  - 'Sustainable Little Tokyo: A Cultural Ecodistrict'
 organization_id: '2014163'
 title: Little Tokyo Community Council
 org_type: Nonprofit
@@ -18,17 +20,13 @@ ein: '200258503'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/QQpabiJ0uus/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102253'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102146'
-original_project_ids:
-  - '4102253'
-original_project_titles:
-  - 'Sustainable Little Tokyo: A Cultural Ecodistrict'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
 organization_id: '2016108'
 title: I'm A Movement Not A Monument
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/m_s4N2esUKk?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102101'
 aggregated:
   challenge_url:
     - >-
@@ -28,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102101'
-original_project_ids:
-  - '6102101'
-original_project_titles:
-  - 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
-extrapolated_project_ids:
-  - '6102101'
-extrapolated_project_titles:
-  - 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
 
 ---

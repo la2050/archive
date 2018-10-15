@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Careers Come Alive Virtually  in the Classroom by Connecting Students,
+    Teachers & Workplace Experts
 organization_id: '2016056'
 title: ConnectEd
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
 project_video: ''
+project_ids:
+  - '6102054'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102054'
-original_project_ids:
-  - '6102054'
-original_project_titles:
-  - >-
-    Careers Come Alive Virtually  in the Classroom by Connecting Students,
-    Teachers & Workplace Experts
-extrapolated_project_ids:
-  - '6102054'
-extrapolated_project_titles:
-  - >-
-    Careers Come Alive Virtually  in the Classroom by Connecting Students,
-    Teachers & Workplace Experts
 
 ---

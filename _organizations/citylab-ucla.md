@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: T-_qt-Ah9-0
+project_titles:
+  - 'Backyard Homes: Sustainable, Flexible, Affordable Housing for LA'
+  - 'Backyard Homes: Sustainable Flexible Affordable Housing for LA'
 organization_id: '2013035'
 title: cityLAB-UCLA
 org_type: Nonprofit
@@ -39,6 +42,8 @@ ein: '956006143'
 zip: ''
 project_image: 'https://img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102069'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/backyardhomes.html'
@@ -46,13 +51,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102069'
-original_project_ids:
-  - '3102069'
-original_project_titles:
-  - 'Backyard Homes: Sustainable, Flexible, Affordable Housing for LA'
-extrapolated_project_ids:
-  - '3102069'
-extrapolated_project_titles:
-  - 'Backyard Homes: Sustainable Flexible Affordable Housing for LA'
 
 ---

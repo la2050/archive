@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'APP Academy: Mobile, Web and Game Development for High School Students'
 organization_id: '2016163'
 title: Pasadena Educational Foundation
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/gzso3MPN5og?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102175'
 aggregated:
   challenge_url:
     - >-
@@ -28,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102175'
-original_project_ids:
-  - '6102175'
-original_project_titles:
-  - 'APP Academy: Mobile, Web and Game Development for High School Students'
-extrapolated_project_ids:
-  - '6102175'
-extrapolated_project_titles:
-  - 'APP Academy: Mobile, Web and Game Development for High School Students'
 
 ---

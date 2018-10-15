@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: ReConnectLA_Logo_02.jpg
+project_titles:
+  - ReConnect.la (RCLA)
 maker_image_id: '23396'
 organization_id: '2015101'
 title: Justice Lab
@@ -21,6 +23,8 @@ zip: '90291'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23396%252Fdisplay%252FReConnectLA_Logo_02.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102155'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102155'
-original_project_ids:
-  - '5102155'
-original_project_titles:
-  - ReConnect.la (RCLA)
-extrapolated_project_ids:
-  - '5102155'
-extrapolated_project_titles:
-  - ReConnect.la (RCLA)
 
 ---

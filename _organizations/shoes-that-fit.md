@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Equal Footing LA: Providing New Shoes For Kids In Need'
 organization_id: '2018108'
 title: Shoes That Fit
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '954425565'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg'
 project_video: 'https://www.youtube.com/watch?v=OiWi0EoNxHc'
+project_ids:
+  - '8102108'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/shoes-that-fit/'
@@ -27,11 +31,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102108'
-original_project_ids:
-  - '8102108'
-original_project_titles:
-  - 'Equal Footing LA: Providing New Shoes For Kids In Need'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

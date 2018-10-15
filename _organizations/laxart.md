@@ -1,5 +1,9 @@
 ---
 maker_image_file_name: slanguage_facade_edit.jpg
+project_titles:
+  - >-
+    LA><ART’s public art initiatives take contemporary art to the streets
+    L.A.P.D. (LA Public Domain)
 maker_image_id: '17143'
 organization_id: '2013119'
 title: LAXART
@@ -41,6 +45,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17143%252Fdisplay%252Fslanguage_facade_edit.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102177'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LAXART.html'
@@ -48,17 +54,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102177'
-original_project_ids:
-  - '3102177'
-original_project_titles:
-  - >-
-    LA><ART’s public art initiatives take contemporary art to the streets
-    L.A.P.D. (LA Public Domain)
-extrapolated_project_ids:
-  - '3102177'
-extrapolated_project_titles:
-  - >-
-    LA><ART’s public art initiatives take contemporary art to the streets
-    L.A.P.D. (LA Public Domain)
 
 ---

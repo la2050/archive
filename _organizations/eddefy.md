@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: IYZkhNMTKrg
+project_titles:
+  - 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
 organization_id: '2013055'
 title: EDDEFY
 org_type: For profit
@@ -85,6 +87,8 @@ ein: '461912903'
 zip: ''
 project_image: 'https://img.youtube.com/vi/IYZkhNMTKrg/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102035'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/MASTERY.html'
@@ -92,13 +96,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102035'
-original_project_ids:
-  - '3102035'
-original_project_titles:
-  - 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
-extrapolated_project_ids:
-  - '3102035'
-extrapolated_project_titles:
-  - 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
 
 ---

@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Young creative entrepreneurs and small business internship program
 organization_id: '2016107'
 title: ICON CDC
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
 project_video: 'https://www.youtube.com/embed/JVvCvAmzsCA?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102100'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102100'
-original_project_ids:
-  - '6102100'
-original_project_titles:
-  - Young creative entrepreneurs and small business internship program
-extrapolated_project_ids:
-  - '6102100'
-extrapolated_project_titles:
-  - Young creative entrepreneurs and small business internship program
 
 ---

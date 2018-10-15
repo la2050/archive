@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: rachelschmid.elrio.jpg
+project_titles:
+  - 'Mindful Education for LAUSD '
 maker_image_id: '17107'
 organization_id: '2013059'
 title: 'El Rio Schools: MIND-FIT EDUCATION FOR THE 21ST CENTURY'
@@ -41,6 +43,8 @@ ein: '900705279'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids:
+  - '3102122'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
@@ -48,15 +52,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102122'
-original_project_ids:
-  - '3102122'
-  - '3102122'
-original_project_titles:
-  - 'Mindful Education for LAUSD '
-  - 'Mindful Education for LAUSD '
-extrapolated_project_ids:
-  - '3102122'
-extrapolated_project_titles:
-  - 'Mindful Education for LAUSD '
 
 ---

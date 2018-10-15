@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: JVyDVToMVoo
+project_titles:
+  - 'ART CITY LA: Citywide Showcase of Los Angeles Art, Creativity & Culture'
+  - 'ART CITY LA: Citywide Showcase of Los Angeles Art Creativity & Culture'
 organization_id: '2014063'
 title: NextStage Agency
 org_type: Forprofit
@@ -19,6 +22,8 @@ ein: '471442024'
 zip: '90066'
 project_image: 'https://img.youtube.com/vi/JVyDVToMVoo/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102158'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
@@ -26,13 +31,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102124'
-original_project_ids:
-  - '4102158'
-original_project_titles:
-  - 'ART CITY LA: Citywide Showcase of Los Angeles Art, Creativity & Culture'
-extrapolated_project_ids:
-  - '4102158'
-extrapolated_project_titles:
-  - 'ART CITY LA: Citywide Showcase of Los Angeles Art Creativity & Culture'
 
 ---

@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Educating & empowering high-school dropouts incarcerated youth+otherwise
+    disengaged 16-24yr humans.
 organization_id: '2018082'
 title: Mentoring Adolescents for Personal & Professional Success
 org_type: Forprofit
@@ -22,6 +26,8 @@ zip: '91105'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
 project_video: 'https://youtu.be/hVF2r_6Q-Vw'
+project_ids:
+  - '8102082'
 aggregated:
   challenge_url:
     - >-
@@ -29,13 +35,5 @@ aggregated:
   year_submitted:
     - '2018'
   project_ids: []
-original_project_ids:
-  - '8102082'
-original_project_titles:
-  - >-
-    Educating & empowering high-school dropouts incarcerated youth+otherwise
-    disengaged 16-24yr humans.
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

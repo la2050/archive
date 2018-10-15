@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - The Ron Finley Project presents Da FUNction - A Community Fun Fest
 organization_id: '2016231'
 title: The Ron Finley Project
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Y7hnhC54WqA?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102256'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102256'
-original_project_ids:
-  - '6102256'
-original_project_titles:
-  - The Ron Finley Project presents Da FUNction - A Community Fun Fest
-extrapolated_project_ids:
-  - '6102256'
-extrapolated_project_titles:
-  - The Ron Finley Project presents Da FUNction - A Community Fun Fest
 
 ---

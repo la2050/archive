@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Connection through Council
 organization_id: '2018015'
 title: 'Center for Council, a project of Community Partners'
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=TAAc3xB3YTk'
+project_ids:
+  - '8102015'
 aggregated:
   challenge_url:
     - >-
@@ -33,11 +37,5 @@ aggregated:
   project_ids:
     - '8102015'
     - '5102047'
-original_project_ids:
-  - '8102015'
-original_project_titles:
-  - Connection through Council
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Providing Access to the Arts and the Endless Possibilities They Offer
 organization_id: '2016110'
 title: Inner-City Arts
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
 project_video: 'https://www.youtube.com/embed/2n0ZbTcuqlo?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102103'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102103'
-original_project_ids:
-  - '6102103'
-original_project_titles:
-  - Providing Access to the Arts and the Endless Possibilities They Offer
-extrapolated_project_ids:
-  - '6102103'
-extrapolated_project_titles:
-  - Providing Access to the Arts and the Endless Possibilities They Offer
 
 ---

@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Made in LA: Show us your LA and your vision for the future'
 organization_id: '2018040'
 title: Film Independent
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
 project_video: 'https://youtu.be/-PSOJBGkQ-Y'
+project_ids:
+  - '8102040'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/film-independent/'
@@ -27,13 +31,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102040'
-original_project_ids:
-  - '8102040'
-original_project_titles:
-  - 'Made in LA: Show us your LA and your vision for the future'
-extrapolated_project_ids:
-  - '8102040'
-extrapolated_project_titles:
-  - 'Made in LA: Show us your LA and your vision for the future'
 
 ---

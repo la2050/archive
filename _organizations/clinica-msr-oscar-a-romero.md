@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: exercise.jpg
+project_titles:
+  - Live Well Pico Union
 maker_image_id: '24096'
 organization_id: '2015039'
 title: Clinica Msr. Oscar A. Romero
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102068'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
@@ -29,13 +33,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102068'
-original_project_ids:
-  - '5102068'
-original_project_titles:
-  - Live Well Pico Union
-extrapolated_project_ids:
-  - '5102068'
-extrapolated_project_titles:
-  - Live Well Pico Union
 
 ---

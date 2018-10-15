@@ -1,4 +1,5 @@
 ---
+project_titles: []
 organization_id: '2015152'
 title: Partnership for Los Angeles Schools
 org_type: Nonprofit
@@ -17,6 +18,7 @@ ein: '#N/A'
 zip: '#N/A'
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids: []
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
@@ -24,9 +26,5 @@ aggregated:
     - '2015'
   project_ids:
     - '#N/A'
-original_project_ids: []
-original_project_titles: []
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

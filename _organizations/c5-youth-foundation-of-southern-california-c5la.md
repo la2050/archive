@@ -1,5 +1,9 @@
 ---
 maker_image_file_name: class_of_2016_selfie.jpg
+project_titles:
+  - 'C5LA Alumni Support and College Persistence Program '
+  - C5LA’s Youth Leadership Development and College Preparatory Program
+  - C5LA Alumni Support and College Persistence Program
 maker_image_id: '24065'
 organization_id: '2015024'
 title: C5 Youth Foundation of Southern California (“C5LA”)
@@ -24,6 +28,9 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24065%252Fdisplay%252Fclass_of_2016_selfie.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102039'
+  - '4102029'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/C5LA.html'
@@ -33,17 +40,5 @@ aggregated:
   project_ids:
     - '5102039'
     - '4102193'
-original_project_ids:
-  - '4102029'
-  - '5102039'
-original_project_titles:
-  - 'C5LA Alumni Support and College Persistence Program '
-  - C5LA’s Youth Leadership Development and College Preparatory Program
-extrapolated_project_ids:
-  - '5102039'
-  - '4102029'
-extrapolated_project_titles:
-  - C5LA Alumni Support and College Persistence Program
-  - C5LA’s Youth Leadership Development and College Preparatory Program
 
 ---

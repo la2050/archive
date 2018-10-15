@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
 organization_id: '2016178'
 title: Proyecto Pastoral
 org_type: Nonprofit
@@ -21,6 +23,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102191'
 aggregated:
   challenge_url:
     - >-
@@ -29,13 +33,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102191'
-original_project_ids:
-  - '6102191'
-original_project_titles:
-  - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
-extrapolated_project_ids:
-  - '6102191'
-extrapolated_project_titles:
-  - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
 
 ---

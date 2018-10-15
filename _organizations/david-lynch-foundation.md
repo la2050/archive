@@ -1,5 +1,12 @@
 ---
 maker_image_file_name: DLFlogo.jpg
+project_titles:
+  - >-
+    The LA2050 "200" - Creating Enlightened Leadership for a Healthy, Thriving
+    Los Angeles
+  - >-
+    The LA2050 200  Creating Enlightened Leadership for a Healthy Thriving Los
+    Angeles
 maker_image_id: '16855'
 organization_id: '2013050'
 title: David Lynch Foundation
@@ -39,6 +46,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16855%252Fdisplay%252FDLFlogo.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102102'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/enlightened200.html'
@@ -46,17 +55,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102102'
-original_project_ids:
-  - '3102102'
-original_project_titles:
-  - >-
-    The LA2050 "200" - Creating Enlightened Leadership for a Healthy, Thriving
-    Los Angeles
-extrapolated_project_ids:
-  - '3102102'
-extrapolated_project_titles:
-  - >-
-    The LA2050 200  Creating Enlightened Leadership for a Healthy Thriving Los
-    Angeles
 
 ---

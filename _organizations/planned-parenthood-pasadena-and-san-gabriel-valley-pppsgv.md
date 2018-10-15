@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - 'Northeast Los Angeles and the San Gabriel Valley Get PreP''d and PEP''d!! '
+  - Northeast Los Angeles and the San Gabriel Valley Get PreP'd and PEP'd!!
 organization_id: '2016173'
 title: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
 org_type: Nonprofit
@@ -17,6 +20,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
 project_video: 'https://www.youtube.com/embed/x07ncVd8hWY?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102185'
 aggregated:
   challenge_url:
     - >-
@@ -25,13 +30,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102185'
-original_project_ids:
-  - '6102185'
-original_project_titles:
-  - 'Northeast Los Angeles and the San Gabriel Valley Get PreP''d and PEP''d!! '
-extrapolated_project_ids:
-  - '6102185'
-extrapolated_project_titles:
-  - Northeast Los Angeles and the San Gabriel Valley Get PreP'd and PEP'd!!
 
 ---

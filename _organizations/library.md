@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
 organization_id: '2016001'
 title: '#Library'
 org_type: Forprofit
@@ -17,6 +19,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102071'
 aggregated:
   challenge_url:
     - >-
@@ -25,13 +29,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102071'
-original_project_ids:
-  - '6102071'
-original_project_titles:
-  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
-extrapolated_project_ids:
-  - '6102071'
-extrapolated_project_titles:
-  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
 
 ---

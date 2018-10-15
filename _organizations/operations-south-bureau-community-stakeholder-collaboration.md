@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: aH5tvjvjOYE
+project_titles:
+  - 'The Community Engagement Initiative '
+  - The Community Engagement Initiative
 organization_id: '2015147'
 title: Operations-South Bureau Community Stakeholder Collaboration
 org_type: Nonprofit
@@ -20,6 +23,8 @@ ein: '270889800'
 zip: '90003'
 project_image: 'https://img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102223'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
@@ -27,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102223'
-original_project_ids:
-  - '5102223'
-original_project_titles:
-  - 'The Community Engagement Initiative '
-extrapolated_project_ids:
-  - '5102223'
-extrapolated_project_titles:
-  - The Community Engagement Initiative
 
 ---

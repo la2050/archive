@@ -1,5 +1,10 @@
 ---
 youtube_video_identifier: poREvQfFFL4
+project_titles:
+  - 'Future Leaders Initiative - Listen to the Leaders of Tomorrow. '
+  - SPEAK UP ACROSS LA!
+  - Youth Speak Collective
+  - 'Future Leaders Initiative  Listen to the Leaders of Tomorrow. '
 organization_id: '2014111'
 title: Youth Speak Collective
 org_type: Nonprofit
@@ -19,6 +24,9 @@ ein: '270126980'
 zip: '91340'
 project_image: 'https://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102266'
+  - '3102279'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
@@ -29,18 +37,5 @@ aggregated:
   project_ids:
     - '4102110'
     - '3102279'
-original_project_ids:
-  - '3102279'
-  - '4102266'
-original_project_titles:
-  - 'Future Leaders Initiative - Listen to the Leaders of Tomorrow. '
-  - SPEAK UP ACROSS LA!
-  - Youth Speak Collective
-extrapolated_project_ids:
-  - '4102266'
-  - '3102279'
-extrapolated_project_titles:
-  - SPEAK UP ACROSS LA!
-  - 'Future Leaders Initiative  Listen to the Leaders of Tomorrow. '
 
 ---

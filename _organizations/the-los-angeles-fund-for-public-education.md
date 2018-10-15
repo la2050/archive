@@ -1,5 +1,12 @@
 ---
 youtube_video_identifier: FB9aNSfVARA
+project_titles:
+  - >-
+    School Fuel - Tackling Childhood Obesity in the Los Angeles Unified School
+    District
+  - >-
+    School Fuel  Tackling Childhood Obesity in the Los Angeles Unified School
+    District
 organization_id: '2013193'
 title: The Los Angeles Fund for Public Education
 org_type: Nonprofit
@@ -41,6 +48,8 @@ ein: '452443162'
 zip: ''
 project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102253'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/school_fuel.html'
@@ -48,17 +57,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102253'
-original_project_ids:
-  - '3102253'
-original_project_titles:
-  - >-
-    School Fuel - Tackling Childhood Obesity in the Los Angeles Unified School
-    District
-extrapolated_project_ids:
-  - '3102253'
-extrapolated_project_titles:
-  - >-
-    School Fuel  Tackling Childhood Obesity in the Los Angeles Unified School
-    District
 
 ---

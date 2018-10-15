@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: Wayfinder.png
+project_titles:
+  - 'Wayfinder LA, a utility for car-free transit'
+  - Wayfinder LA a utility for carfree transit
 maker_image_id: '16815'
 organization_id: '2013216'
 title: Wayfinder LA
@@ -26,6 +29,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16815%252Fdisplay%252FWayfinder.png=c570x385
 project_video: ''
+project_ids:
+  - '3102273'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/wayfinderla.html'
@@ -33,12 +38,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102273'
-original_project_ids: []
-original_project_titles:
-  - 'Wayfinder LA, a utility for car-free transit'
-extrapolated_project_ids:
-  - '3102273'
-extrapolated_project_titles:
-  - Wayfinder LA a utility for carfree transit
 
 ---

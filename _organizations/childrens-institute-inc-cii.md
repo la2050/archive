@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: 3AOHXhfJeho
+project_titles:
+  - 'Building Healthy Futures for Children Who’ve Experienced Trauma '
+  - Building Healthy Futures for Children Who’ve Experienced Trauma
 organization_id: '2015031'
 title: 'Children’s Institute, Inc. (CII)'
 org_type: Nonprofit
@@ -23,6 +26,8 @@ ein: '951641424'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102053'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/CIIACES.html'
@@ -30,13 +35,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102053'
-original_project_ids:
-  - '5102053'
-original_project_titles:
-  - 'Building Healthy Futures for Children Who’ve Experienced Trauma '
-extrapolated_project_ids:
-  - '5102053'
-extrapolated_project_titles:
-  - Building Healthy Futures for Children Who’ve Experienced Trauma
 
 ---

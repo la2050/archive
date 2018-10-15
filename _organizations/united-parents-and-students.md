@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    United Parents and Students: Developing Cultures of Civic Engagement Across
+    Los Angeles
 organization_id: '2018131'
 title: United Parents and Students
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: '90057'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
 project_video: 'https://vimeo.com/205438757'
+project_ids:
+  - '8102131'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/united-parents-and-students/'
@@ -27,17 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102131'
-original_project_ids:
-  - '8102131'
-original_project_titles:
-  - >-
-    United Parents and Students: Developing Cultures of Civic Engagement Across
-    Los Angeles
-extrapolated_project_ids:
-  - '8102131'
-extrapolated_project_titles:
-  - >-
-    United Parents and Students: Developing Cultures of Civic Engagement Across
-    Los Angeles
 
 ---

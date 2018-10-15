@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Connecting communities of support with families who have a critically ill
+    young child or parent.
 organization_id: '2016099'
 title: 'Here to Serve, Inc'
 org_type: Nonprofit
@@ -21,6 +25,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
 project_video: 'https://www.youtube.com/embed/pMW7_cxOs1s?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102091'
 aggregated:
   challenge_url:
     - >-
@@ -29,17 +35,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102091'
-original_project_ids:
-  - '6102091'
-original_project_titles:
-  - >-
-    Connecting communities of support with families who have a critically ill
-    young child or parent.
-extrapolated_project_ids:
-  - '6102091'
-extrapolated_project_titles:
-  - >-
-    Connecting communities of support with families who have a critically ill
-    young child or parent.
 
 ---

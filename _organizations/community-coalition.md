@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: 8O5p-fqguRo
+project_titles:
+  - Community Coalition
+  - 'Safer ''Hoods Through Arts, Action, and Community'
+  - Safer Hoods Through Arts Action and Community
 organization_id: '2013044'
 title: Community Coalition
 org_type: Nonprofit
@@ -48,6 +52,8 @@ ein: '954298811'
 zip: ''
 project_image: 'https://img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102087'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SaferHoods.html'
@@ -55,14 +61,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102087'
-original_project_ids:
-  - '3102087'
-original_project_titles:
-  - Community Coalition
-  - 'Safer ''Hoods Through Arts, Action, and Community'
-extrapolated_project_ids:
-  - '3102087'
-extrapolated_project_titles:
-  - Safer Hoods Through Arts Action and Community
 
 ---

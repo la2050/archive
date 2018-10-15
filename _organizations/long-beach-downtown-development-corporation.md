@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - The Sustainable Tech Intellectual Property Education Series (STIPES)
 organization_id: '2018071'
 title: Long Beach Downtown Development Corporation
 org_type: Nonprofit
@@ -19,6 +21,8 @@ zip: '90013'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
 project_video: ''
+project_ids:
+  - '8102071'
 aggregated:
   challenge_url:
     - >-
@@ -27,11 +31,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102071'
-original_project_ids:
-  - '8102071'
-original_project_titles:
-  - The Sustainable Tech Intellectual Property Education Series (STIPES)
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Expanding Economic Empowerment at Safe Refuge
 organization_id: '2016188'
 title: Safe Refuge
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102203'
 aggregated:
   challenge_url:
     - >-
@@ -28,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102203'
-original_project_ids:
-  - '6102203'
-original_project_titles:
-  - Expanding Economic Empowerment at Safe Refuge
-extrapolated_project_ids:
-  - '6102203'
-extrapolated_project_titles:
-  - Expanding Economic Empowerment at Safe Refuge
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: a-kQryxgF4M
+project_titles:
+  - 'Re:Ciclos a movement by bicycle. A new project of the Bicycle Kitchen'
 organization_id: '2015164'
 title: 'Re:Ciclos and Bicycle Kitchen'
 org_type: Nonprofit
@@ -21,6 +23,8 @@ ein: '260454089'
 zip: '90029'
 project_image: 'https://img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102248'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102248'
-original_project_ids:
-  - '5102248'
-original_project_titles:
-  - 'Re:Ciclos a movement by bicycle. A new project of the Bicycle Kitchen'
-extrapolated_project_ids:
-  - '5102248'
-extrapolated_project_titles:
-  - 'Re:Ciclos a movement by bicycle. A new project of the Bicycle Kitchen'
 
 ---

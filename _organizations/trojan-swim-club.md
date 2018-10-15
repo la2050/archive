@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: SdL6NXZskjo
+project_titles:
+  - 'Swimming for Life: Water Safety and Competition for Inner-City Youth'
 organization_id: '2015215'
 title: Trojan Swim Club
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '330614644'
 zip: '90089'
 project_image: 'https://img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102323'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
@@ -27,13 +31,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102323'
-original_project_ids:
-  - '5102323'
-original_project_titles:
-  - 'Swimming for Life: Water Safety and Competition for Inner-City Youth'
-extrapolated_project_ids:
-  - '5102323'
-extrapolated_project_titles:
-  - 'Swimming for Life: Water Safety and Competition for Inner-City Youth'
 
 ---

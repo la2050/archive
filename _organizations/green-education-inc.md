@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: GEInc_Logo-brown_3-12.jpg
+project_titles:
+  - Green The Block
 maker_image_id: '22790'
 organization_id: '2014147'
 title: Green Education Inc.
@@ -20,17 +22,13 @@ zip: '90802'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22790%252Fdisplay%252FGEInc_Logo-brown_3-12.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102200'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102132'
-original_project_ids:
-  - '4102200'
-original_project_titles:
-  - Green The Block
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

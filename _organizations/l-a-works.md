@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - 'L.A. Works: Volunteers for a Greater LA'
+  - >-
+    MusicWorks: connecting music-industry pros to underserved kids for social
+    transformation
 organization_id: '2016120'
 title: L.A. Works
 org_type: Nonprofit
@@ -22,6 +27,9 @@ zip: '90065'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 project_video: 'https://www.youtube.com/embed/rDnYXMVy1xo?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102118'
+  - '5102165'
 aggregated:
   challenge_url:
     - >-
@@ -33,21 +41,5 @@ aggregated:
   project_ids:
     - '6102118'
     - '5102165'
-original_project_ids:
-  - '5102165'
-  - '6102118'
-original_project_titles:
-  - 'L.A. Works: Volunteers for a Greater LA'
-  - >-
-    MusicWorks: connecting music-industry pros to underserved kids for social
-    transformation
-extrapolated_project_ids:
-  - '6102118'
-  - '5102165'
-extrapolated_project_titles:
-  - >-
-    MusicWorks: connecting music-industry pros to underserved kids for social
-    transformation
-  - 'L.A. Works: Volunteers for a Greater LA'
 
 ---

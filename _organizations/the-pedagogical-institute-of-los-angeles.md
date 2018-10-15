@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Collaborative Teacher Project: igniting curiosity through innovative
+    classrooms & teacher mentoring
 organization_id: '2016229'
 title: The Pedagogical Institute of Los Angeles
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/3wrDCMSLScc?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102253'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102253'
-original_project_ids:
-  - '6102253'
-original_project_titles:
-  - >-
-    Collaborative Teacher Project: igniting curiosity through innovative
-    classrooms & teacher mentoring
-extrapolated_project_ids:
-  - '6102253'
-extrapolated_project_titles:
-  - >-
-    Collaborative Teacher Project: igniting curiosity through innovative
-    classrooms & teacher mentoring
 
 ---

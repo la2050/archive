@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: f2SXn1p3d4I
+project_titles:
+  - Establishing a Hub for Cleantech Innovation and Job Creation
 organization_id: '2013113'
 title: LA Cleantech Incubator / Clean Tech LA
 org_type: Nonprofit
@@ -31,6 +33,8 @@ ein: '454998717'
 zip: ''
 project_image: 'https://img.youtube.com/vi/f2SXn1p3d4I/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102170'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LACI.html'
@@ -38,13 +42,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102170'
-original_project_ids:
-  - '3102170'
-original_project_titles:
-  - Establishing a Hub for Cleantech Innovation and Job Creation
-extrapolated_project_ids:
-  - '3102170'
-extrapolated_project_titles:
-  - Establishing a Hub for Cleantech Innovation and Job Creation
 
 ---

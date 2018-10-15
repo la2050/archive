@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - A Healthy & Sustainable Environment to Play for Families in South LA
+  - Tickleberry Place Indoor Play Gym
+  - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
+  - Tickleberry Place
 organization_id: '2016238'
 title: Tickleberry Place
 org_type: Forprofit
@@ -21,6 +26,10 @@ zip: '90008'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
 project_video: 'https://www.youtube.com/embed/USaJI1-Ab8E?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102265'
+  - '5102319'
+  - '4102235'
 aggregated:
   challenge_url:
     - >-
@@ -35,20 +44,5 @@ aggregated:
     - '6102265'
     - '5102102'
     - '4102244'
-original_project_ids:
-  - '5102319'
-  - '6102265'
-original_project_titles:
-  - A Healthy & Sustainable Environment to Play for Families in South LA
-  - Tickleberry Place Indoor Play Gym
-  - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
-extrapolated_project_ids:
-  - '6102265'
-  - '5102319'
-  - '4102235'
-extrapolated_project_titles:
-  - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
-  - A Healthy & Sustainable Environment to Play for Families in South LA
-  - Tickleberry Place
 
 ---

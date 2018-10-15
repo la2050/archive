@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - FosterMore-Because No Child Makes It Alone
 organization_id: '2018020'
 title: Children's Action Network
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
 project_video: 'https://youtu.be/JPeuzRmiI3w'
+project_ids:
+  - '6102035'
 aggregated:
   challenge_url:
     - >-
@@ -34,11 +38,5 @@ aggregated:
     - '8102020'
     - '6102035'
     - '4102126'
-original_project_ids: []
-original_project_titles: []
-extrapolated_project_ids:
-  - '6102035'
-extrapolated_project_titles:
-  - FosterMore-Because No Child Makes It Alone
 
 ---

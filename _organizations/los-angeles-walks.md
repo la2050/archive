@@ -1,5 +1,15 @@
 ---
 youtube_video_identifier: hHXkL2SbXI8
+project_titles:
+  - >-
+    “Hey, I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
+    Los Angeles
+  - >-
+    “Hey, I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
+    Los Angeles 
+  - >-
+    “Hey I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
+    Los Angeles 
 organization_id: '2013126'
 title: Los Angeles Walks
 org_type: Nonprofit
@@ -79,6 +89,8 @@ ein: '954845170'
 zip: ''
 project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102190'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LAwalks.html'
@@ -86,21 +98,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102190'
-original_project_ids:
-  - '3102190'
-  - '3102190'
-original_project_titles:
-  - >-
-    “Hey, I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
-    Los Angeles
-  - >-
-    “Hey, I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
-    Los Angeles 
-extrapolated_project_ids:
-  - '3102190'
-extrapolated_project_titles:
-  - >-
-    “Hey I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
-    Los Angeles 
 
 ---

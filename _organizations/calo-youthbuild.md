@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - CALÓ YouthBuild's Mobile Community Solar Arts and STEM Project
 organization_id: '2016033'
 title: CALO YouthBuild
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102029'
 aggregated:
   challenge_url:
     - >-
@@ -28,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102029'
-original_project_ids:
-  - '6102029'
-original_project_titles:
-  - CALÓ YouthBuild's Mobile Community Solar Arts and STEM Project
-extrapolated_project_ids:
-  - '6102029'
-extrapolated_project_titles:
-  - CALÓ YouthBuild's Mobile Community Solar Arts and STEM Project
 
 ---

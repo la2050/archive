@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: 9PUd4G27uNk
+project_titles:
+  - Departures Youth Voices Mobile Classroom
 organization_id: '2013102'
 title: KCET Departures
 org_type: Nonprofit
@@ -62,6 +64,8 @@ ein: '952211661'
 zip: ''
 project_image: 'https://img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102162'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
@@ -69,13 +73,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102162'
-original_project_ids:
-  - '3102162'
-original_project_titles:
-  - Departures Youth Voices Mobile Classroom
-extrapolated_project_ids:
-  - '3102162'
-extrapolated_project_titles:
-  - Departures Youth Voices Mobile Classroom
 
 ---

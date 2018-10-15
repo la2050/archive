@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: dN0L0YMa39s
+project_titles:
+  - 'LAReality - a game that makes its players into makers, doers, and creators'
+  - LAReality - a game that makes its players into makers doers and creators
 organization_id: '2014104'
 title: USC Game Innovation Lab
 org_type: Nonprofit
@@ -19,6 +22,8 @@ ein: '951642394'
 zip: 90089-2211
 project_image: 'https://img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102251'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAReality.html'
@@ -26,13 +31,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102103'
-original_project_ids:
-  - '4102251'
-original_project_titles:
-  - 'LAReality - a game that makes its players into makers, doers, and creators'
-extrapolated_project_ids:
-  - '4102251'
-extrapolated_project_titles:
-  - LAReality - a game that makes its players into makers doers and creators
 
 ---

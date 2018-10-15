@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Make LA the first city where everyone can live free from abuse
 organization_id: '2018041'
 title: FreeFrom
 org_type: Nonprofit
@@ -21,6 +23,8 @@ ein: '475033123'
 zip: '90012'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg'
 project_video: 'https://www.youtube.com/watch?v=9tCDaZikwNQ'
+project_ids:
+  - '8102041'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/freefrom/'
@@ -28,13 +32,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102041'
-original_project_ids:
-  - '8102041'
-original_project_titles:
-  - Make LA the first city where everyone can live free from abuse
-extrapolated_project_ids:
-  - '8102041'
-extrapolated_project_titles:
-  - Make LA the first city where everyone can live free from abuse
 
 ---

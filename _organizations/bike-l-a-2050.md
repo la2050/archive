@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: 2019409068.jpg
+project_titles:
+  - Bike L.A. 2050 - Bike Safety Through Visibility
+  - Bike L.A. 2050  Bike Safety Through Visibility
 maker_image_id: '16963'
 organization_id: '2013019'
 title: Bike L.A. 2050
@@ -27,6 +30,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102034'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/bikela2050.html'
@@ -34,13 +39,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102034'
-original_project_ids:
-  - '3102034'
-original_project_titles:
-  - Bike L.A. 2050 - Bike Safety Through Visibility
-extrapolated_project_ids:
-  - '3102034'
-extrapolated_project_titles:
-  - Bike L.A. 2050  Bike Safety Through Visibility
 
 ---

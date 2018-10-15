@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - Block LA
+  - 'Learn, Share, Inspire'
+  - Leveraging Neighborhood Data to Activate Local Change
+  - Open Ballot LA
 organization_id: '2018133'
 title: University of Southern California
 org_type: Nonprofit
@@ -24,6 +29,10 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 project_video: 'https://www.youtube.com/watch?v=6iKW4H-17BA'
+project_ids:
+  - '8102133'
+  - '6102273'
+  - '4102125'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/university-of-southern-california/'
@@ -36,18 +45,5 @@ aggregated:
     - '8102133'
     - '6102273'
     - '4102266'
-original_project_ids:
-  - '4102125'
-  - '6102273'
-  - '8102133'
-original_project_titles:
-  - Block LA
-  - 'Learn, Share, Inspire'
-  - Leveraging Neighborhood Data to Activate Local Change
-  - Open Ballot LA
-extrapolated_project_ids:
-  - '6102273'
-extrapolated_project_titles:
-  - Open Ballot LA
 
 ---

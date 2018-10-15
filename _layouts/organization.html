@@ -28,7 +28,7 @@ stylesheets:
 {% endcomment %}
 
 
-{% for project_id in page.original_project_ids %}
+{% for project_id in page.project_ids %}
   {% for item in data_collection.docs %}
     {% if item.project_id == project_id %}
       {% assign project_list = project_list | push: item %}
@@ -36,13 +36,7 @@ stylesheets:
   {% endfor %}
 {% endfor %}
 
-{% for project_id in page.extrapolated_project_ids %}
-  {% for item in data_collection.docs %}
-    {% if item.project_id == project_id %}
-      {% assign project_list = project_list | push: item %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
+
 
 
 {% comment %} SHIM {% endcomment %}

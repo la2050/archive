@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Compassion Games, Survival of the Kindest'
 organization_id: '2016054'
 title: Compassionate Santa Monica
 org_type: Nonprofit
@@ -17,6 +19,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 project_video: 'https://www.youtube.com/embed/7bCjkM0o31Y?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102053'
 aggregated:
   challenge_url:
     - >-
@@ -25,13 +29,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102053'
-original_project_ids:
-  - '6102053'
-original_project_titles:
-  - 'Compassion Games, Survival of the Kindest'
-extrapolated_project_ids:
-  - '6102053'
-extrapolated_project_titles:
-  - 'Compassion Games, Survival of the Kindest'
 
 ---

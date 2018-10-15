@@ -1,5 +1,12 @@
 ---
 maker_image_file_name: Culture_gaps_for_la2050xsmall_copy.jpg
+project_titles:
+  - >-
+    SBC at CRAFTED:   Bridging the Cultural and Generation Gap through
+    Sustainable Art Education
+  - >-
+    SBC at CRAFTED: Bridging the Cultural and Generation Gap through Sustainable
+    Art Education
 maker_image_id: '24146'
 organization_id: '2015185'
 title: 'South Bay Contemporary, CRAFTED'
@@ -23,6 +30,8 @@ zip: '90731'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24146%252Fdisplay%252FCulture_gaps_for_la2050xsmall_copy.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102274'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SBC.html'
@@ -33,17 +42,5 @@ aggregated:
   project_ids:
     - '5102274'
     - '3102234'
-original_project_ids:
-  - '5102274'
-original_project_titles:
-  - >-
-    SBC at CRAFTED:   Bridging the Cultural and Generation Gap through
-    Sustainable Art Education
-extrapolated_project_ids:
-  - '5102274'
-extrapolated_project_titles:
-  - >-
-    SBC at CRAFTED: Bridging the Cultural and Generation Gap through Sustainable
-    Art Education
 
 ---

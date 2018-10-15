@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: samsung_device_801.jpg
+project_titles:
+  - Antigua Coffee House
+  - 'Cypress Village Underground Tunnel Art Walk Gallery and Economic Vitality '
 maker_image_id: '16313'
 organization_id: '2013011'
 title: Antigua Coffee House
@@ -42,6 +45,8 @@ ein: '568691857'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids:
+  - '3102005'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
@@ -49,14 +54,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102005'
-original_project_ids:
-  - '3102005'
-original_project_titles:
-  - Antigua Coffee House
-  - 'Cypress Village Underground Tunnel Art Walk Gallery and Economic Vitality '
-extrapolated_project_ids:
-  - '3102005'
-extrapolated_project_titles:
-  - 'Cypress Village Underground Tunnel Art Walk Gallery and Economic Vitality '
 
 ---

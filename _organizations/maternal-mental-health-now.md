@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: MMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg
+project_titles:
+  - Maternal Mental Health NOW
 maker_image_id: '23910'
 organization_id: '2015134'
 title: Maternal Mental Health NOW
@@ -23,6 +25,8 @@ zip: '90012'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102203'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
@@ -30,13 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102203'
-original_project_ids:
-  - '5102203'
-original_project_titles:
-  - Maternal Mental Health NOW
-extrapolated_project_ids:
-  - '5102203'
-extrapolated_project_titles:
-  - Maternal Mental Health NOW
 
 ---

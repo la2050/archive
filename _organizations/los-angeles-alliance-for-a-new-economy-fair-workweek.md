@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Retail Workers “R” LA
 organization_id: '2018072'
 title: Los Angeles Alliance for a New Economy-Fair Workweek
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: '90034'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 project_video: 'https://youtu.be/7GHqVKrYCjM'
+project_ids:
+  - '8102072'
 aggregated:
   challenge_url:
     - >-
@@ -38,11 +42,5 @@ aggregated:
     - '5102182'
     - '4102255'
     - '3102182'
-original_project_ids:
-  - '8102072'
-original_project_titles:
-  - Retail Workers “R” LA
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

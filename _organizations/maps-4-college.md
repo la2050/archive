@@ -1,5 +1,12 @@
 ---
 maker_image_file_name: fair.jpg
+project_titles:
+  - >-
+    Bridge Skilled Workers & Businesses to Have LA Become the First Certified
+    Work Ready Community in CA
+  - >-
+    Mapping the Transition Process: Bridging the Gap Between College and the
+    Workforce
 maker_image_id: '23390'
 organization_id: '2015133'
 title: MAPS 4 College
@@ -22,6 +29,9 @@ zip: '90703'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23390%252Fdisplay%252Ffair.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102202'
+  - '4102140'
 aggregated:
   challenge_url:
     - >-
@@ -32,25 +42,5 @@ aggregated:
   project_ids:
     - '5102202'
     - '4102206'
-original_project_ids:
-  - '4102140'
-  - '5102202'
-original_project_titles:
-  - >-
-    Bridge Skilled Workers & Businesses to Have LA Become the First Certified
-    Work Ready Community in CA
-  - >-
-    Mapping the Transition Process: Bridging the Gap Between College and the
-    Workforce
-extrapolated_project_ids:
-  - '5102202'
-  - '4102140'
-extrapolated_project_titles:
-  - >-
-    Mapping the Transition Process: Bridging the Gap Between College and the
-    Workforce
-  - >-
-    Bridge Skilled Workers & Businesses to Have LA Become the First Certified
-    Work Ready Community in CA
 
 ---

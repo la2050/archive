@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    A conference inspiring LA professionals toward a net zero future; hosted at
+    a nonprofit  facility
 organization_id: '2016252'
 title: Verdical Group
 org_type: Forprofit
@@ -22,6 +26,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
 project_video: 'https://www.youtube.com/embed/XaTMp9Bu1AY?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102272'
 aggregated:
   challenge_url:
     - >-
@@ -30,17 +36,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102272'
-original_project_ids:
-  - '6102272'
-original_project_titles:
-  - >-
-    A conference inspiring LA professionals toward a net zero future; hosted at
-    a nonprofit  facility
-extrapolated_project_ids:
-  - '6102272'
-extrapolated_project_titles:
-  - >-
-    A conference inspiring LA professionals toward a net zero future; hosted at
-    a nonprofit  facility
 
 ---

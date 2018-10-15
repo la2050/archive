@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: kitchen2.jpg
+project_titles:
+  - 'We are an experimental food and art space in Los Angeles. '
 maker_image_id: '16835'
 organization_id: '2013181'
 title: Thank You For Coming
@@ -57,6 +59,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16835%252Fdisplay%252Fkitchen2.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102106'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/thankyouforcoming.html'
@@ -64,13 +68,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102106'
-original_project_ids:
-  - '3102106'
-original_project_titles:
-  - 'We are an experimental food and art space in Los Angeles. '
-extrapolated_project_ids:
-  - '3102106'
-extrapolated_project_titles:
-  - 'We are an experimental food and art space in Los Angeles. '
 
 ---

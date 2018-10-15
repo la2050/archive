@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Cabrillo_High_School_Campus.JPG
+project_titles:
+  - Lifelong Mentoring for All
 maker_image_id: '23218'
 organization_id: '2015137'
 title: MentorMint
@@ -23,19 +25,13 @@ zip: '90089'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23218%252Fdisplay%252FCabrillo_High_School_Campus.JPG=c570x385
 project_video: ''
+project_ids:
+  - '5102206'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/MentorMint.html'
   year_submitted:
     - '2015'
   project_ids: []
-original_project_ids:
-  - '5102206'
-original_project_titles:
-  - Lifelong Mentoring for All
-extrapolated_project_ids:
-  - '5102206'
-extrapolated_project_titles:
-  - Lifelong Mentoring for All
 
 ---

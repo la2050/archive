@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - LA Audubon - Urban Nature Explored
 organization_id: '2016133'
 title: Los Angeles Audubon Society (LAAS)
 org_type: Nonprofit
@@ -21,6 +23,8 @@ zip: 90041-8301
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102136'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
@@ -31,13 +35,5 @@ aggregated:
   project_ids:
     - '6102136'
     - '5102183'
-original_project_ids:
-  - '6102136'
-original_project_titles:
-  - LA Audubon - Urban Nature Explored
-extrapolated_project_ids:
-  - '6102136'
-extrapolated_project_titles:
-  - LA Audubon - Urban Nature Explored
 
 ---

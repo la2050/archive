@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: CGatHN_by_Linda_570w.jpg
+project_titles:
+  - Change-Making Gardens
+  - ChangeMaking Gardens
 maker_image_id: '16319'
 organization_id: '2013061'
 title: Environmental Change-Makers
@@ -34,6 +37,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16319%252Fdisplay%252FCGatHN_by_Linda_570w.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102125'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ChangeMakingGardens.html'
@@ -41,12 +46,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102125'
-original_project_ids: []
-original_project_titles:
-  - Change-Making Gardens
-extrapolated_project_ids:
-  - '3102125'
-extrapolated_project_titles:
-  - ChangeMaking Gardens
 
 ---

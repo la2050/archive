@@ -1,4 +1,10 @@
 ---
+project_titles:
+  - >-
+    CicLAvia: "When LA Listens" captures and tells the stories of the people and
+    places that is LA.
+  - 'CicLAvia: Get Connected LA'
+  - 'CicLAvia: The Route to LA’s Future'
 organization_id: '2018021'
 title: CicLAvia
 org_type: Nonprofit
@@ -21,6 +27,10 @@ ein: '273428380'
 zip: '90013'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg'
 project_video: 'https://youtu.be/I7wQ8SasHfQ'
+project_ids:
+  - '8102021'
+  - '5102055'
+  - '3102061'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/ciclavia/'
@@ -34,25 +44,5 @@ aggregated:
     - '8102021'
     - '5102055'
     - '3102061'
-original_project_ids:
-  - '3102061'
-  - '5102055'
-  - '8102021'
-original_project_titles:
-  - >-
-    CicLAvia: "When LA Listens" captures and tells the stories of the people and
-    places that is LA.
-  - 'CicLAvia: Get Connected LA'
-  - 'CicLAvia: The Route to LA’s Future'
-extrapolated_project_ids:
-  - '8102021'
-  - '5102055'
-  - '3102061'
-extrapolated_project_titles:
-  - >-
-    CicLAvia: "When LA Listens" captures and tells the stories of the people and
-    places that is LA.
-  - 'CicLAvia: The Route to LA’s Future'
-  - 'CicLAvia: Get Connected LA'
 
 ---

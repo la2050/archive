@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    The Inner City Dance Project: Teaching professional dance and theater to
+    LA’s inner city youth
 organization_id: '2016263'
 title: Zeneith Performing Arts
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
 project_video: 'https://www.youtube.com/embed/AW4FRTnLfzw?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102289'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102289'
-original_project_ids:
-  - '6102289'
-original_project_titles:
-  - >-
-    The Inner City Dance Project: Teaching professional dance and theater to
-    LA’s inner city youth
-extrapolated_project_ids:
-  - '6102289'
-extrapolated_project_titles:
-  - >-
-    The Inner City Dance Project: Teaching professional dance and theater to
-    LA’s inner city youth
 
 ---

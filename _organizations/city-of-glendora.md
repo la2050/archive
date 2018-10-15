@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: LA2015_1.jpg
+project_titles:
+  - Volunteer Glendora!
 maker_image_id: '23980'
 organization_id: '2015033'
 title: City of Glendora
@@ -23,6 +25,8 @@ zip: '91741'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23980%252Fdisplay%252FLA2015_1.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102058'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/VolunteerGlendora.html'
@@ -30,13 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102058'
-original_project_ids:
-  - '5102058'
-original_project_titles:
-  - Volunteer Glendora!
-extrapolated_project_ids:
-  - '5102058'
-extrapolated_project_titles:
-  - Volunteer Glendora!
 
 ---

@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Bridging social enterprise, technology, and local government to accelerate
+    civic innovators.
 organization_id: '2018028'
 title: Civic Innovation Lab
 org_type: Nonprofit
@@ -22,6 +26,8 @@ zip: 90089-0034
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
 project_video: ''
+project_ids:
+  - '8102028'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/civic-innovation-lab/'
@@ -29,17 +35,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102028'
-original_project_ids:
-  - '8102028'
-original_project_titles:
-  - >-
-    Bridging social enterprise, technology, and local government to accelerate
-    civic innovators.
-extrapolated_project_ids:
-  - '8102028'
-extrapolated_project_titles:
-  - >-
-    Bridging social enterprise, technology, and local government to accelerate
-    civic innovators.
 
 ---
