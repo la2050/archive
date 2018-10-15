@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016233'
 title: The Triforium Project
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: MyBucketlistLA.png
-maker_image_id: '23304'
+published: true
 organization_id: '2015090'
 title: Independent Team of LA Residents
 org_type: Other
@@ -29,5 +28,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102140'
+maker_image_file_name: MyBucketlistLA.png
+maker_image_id: '23304'
 
 ---

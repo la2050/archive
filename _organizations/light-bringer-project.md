@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_2944.JPG
-maker_image_id: '22179'
+published: true
 organization_id: '2014161'
 title: Light Bringer Project
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102144'
+maker_image_file_name: IMG_2944.JPG
+maker_image_id: '22179'
 
 ---

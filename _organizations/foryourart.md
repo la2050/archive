@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: vnfl_final.jpg
-maker_image_id: '16352'
+published: true
 organization_id: '2013072'
 title: ForYourArt
 org_type: For profit
@@ -47,5 +46,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102052'
+maker_image_file_name: vnfl_final.jpg
+maker_image_id: '16352'
 
 ---

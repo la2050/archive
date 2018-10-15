@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016112'
 title: International Trade Education Programs (ITEP)
 org_type: Nonprofit

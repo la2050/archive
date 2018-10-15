@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg
-maker_image_id: '22512'
+published: true
 organization_id: '2014115'
 title: Arid Lands Institute
 org_type: Nonprofit
@@ -31,5 +30,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102113'
+maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg
+maker_image_id: '22512'
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016002'
 title: 3-D SPACE
 org_type: Nonprofit

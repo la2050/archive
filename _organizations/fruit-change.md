@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_7734.jpeg
-maker_image_id: '23782'
+published: true
 organization_id: '2015070'
 title: Fruit Change
 org_type: Forprofit
@@ -33,5 +32,7 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+maker_image_file_name: IMG_7734.jpeg
+maker_image_id: '23782'
 
 ---

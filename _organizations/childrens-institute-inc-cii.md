@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 3AOHXhfJeho
+published: true
 organization_id: '2015031'
 title: 'Children’s Institute, Inc. (CII)'
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102053'
+youtube_video_identifier: 3AOHXhfJeho
 
 ---

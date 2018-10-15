@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Garden_Sign.png
-maker_image_id: '16360'
+published: true
 organization_id: '2013192'
 title: The Learning Garden
 org_type: Nonprofit
@@ -52,5 +51,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102252'
+maker_image_file_name: Garden_Sign.png
+maker_image_id: '16360'
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 1HVZ3rX86M4
+published: true
 organization_id: '2015163'
 title: Public Matters
 org_type: Forprofit
@@ -36,5 +36,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102089'
+youtube_video_identifier: 1HVZ3rX86M4
 
 ---

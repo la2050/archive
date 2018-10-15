@@ -55,6 +55,7 @@ function loadMarkdown(filename) {
 
 
 const attributes = [
+  'published',
   'organization_id',
   'title',
   'org_type',
@@ -75,7 +76,10 @@ const attributes = [
   'original_project_ids',
   'original_project_titles',
   'extrapolated_project_ids',
-  'extrapolated_project_titles'
+  'extrapolated_project_titles',
+  'youtube_video_identifier',
+  'maker_image_file_name',
+  'maker_image_id'
 ]
 
 
@@ -158,6 +162,8 @@ function processFile(filename) {
   // data.yaml.project_titles = Array.from(new Set(combined_project_titles))
   // delete data.yaml.original_project_titles
   // delete data.yaml.extrapolated_project_titles
+
+  data.yaml.published = true
 
   saveMarkdown(filename, data)
 }

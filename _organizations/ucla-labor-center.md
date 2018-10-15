@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: Yogg_bV8Dew
+published: true
 organization_id: '2013202'
 title: UCLA Labor Center
 org_type: Nonprofit
@@ -56,5 +56,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102262'
+youtube_video_identifier: Yogg_bV8Dew
 
 ---

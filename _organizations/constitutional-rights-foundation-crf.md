@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: I85PHrZjakM
+published: true
 organization_id: '2014021'
 title: 'Constitutional Rights Foundation, CRF'
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102022'
+youtube_video_identifier: I85PHrZjakM
 
 ---

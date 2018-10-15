@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: DLFlogo.jpg
-maker_image_id: '16855'
+published: true
 organization_id: '2013050'
 title: David Lynch Foundation
 org_type: Nonprofit
@@ -55,5 +54,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102102'
+maker_image_file_name: DLFlogo.jpg
+maker_image_id: '16855'
 
 ---

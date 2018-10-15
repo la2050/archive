@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: MNDn6OWCjco
+published: true
 organization_id: '2013141'
 title: Natural History Museum of Los Angeles County
 org_type: Nonprofit
@@ -65,5 +65,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102202'
+youtube_video_identifier: MNDn6OWCjco
 
 ---

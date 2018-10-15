@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016154'
 title: Nation of Vibration
 org_type: Forprofit

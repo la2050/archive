@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: rDZ9hY7J0xQ
+published: true
 organization_id: '2013210'
 title: Urban Reclaim
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102267'
+youtube_video_identifier: rDZ9hY7J0xQ
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: TlilAMszJEs
+published: true
 organization_id: '2014201'
 title: The Gabriella Foundation
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
   project_ids:
     - '4102169'
     - '3102247'
+youtube_video_identifier: TlilAMszJEs
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018126'
 title: Topanga Women's Circle
 org_type: Nonprofit

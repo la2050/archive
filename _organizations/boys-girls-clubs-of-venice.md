@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018010'
 title: Boys & Girls Clubs of Venice
 org_type: Nonprofit

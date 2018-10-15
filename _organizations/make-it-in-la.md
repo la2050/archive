@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018079'
 title: MAKE IT IN LA
 org_type: Nonprofit

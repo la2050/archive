@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: logo.png
-maker_image_id: '20761'
+published: true
 organization_id: '2014108'
 title: WomenShelter of Long Beach
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102107'
+maker_image_file_name: logo.png
+maker_image_id: '20761'
 
 ---

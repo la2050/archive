@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016255'
 title: Whitaker Peace & Development Initiative (WPDI)
 org_type: Nonprofit

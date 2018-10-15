@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016059'
 title: Cornerstone Theater Company
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: SCV_ADvplay_table_logo.png
-maker_image_id: '24111'
+published: true
 organization_id: '2015176'
 title: SCV Adventure Play
 org_type: Forprofit
@@ -44,5 +43,7 @@ aggregated:
   project_ids:
     - '5102290'
     - '8102137'
+maker_image_file_name: SCV_ADvplay_table_logo.png
+maker_image_id: '24111'
 
 ---

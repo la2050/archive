@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 7VGCk_c0VcU
+published: true
 organization_id: '2015087'
 title: Hollywood HEART
 org_type: Nonprofit
@@ -45,5 +45,6 @@ aggregated:
     - '5102135'
     - '4102200'
     - '3102148'
+youtube_video_identifier: 7VGCk_c0VcU
 
 ---

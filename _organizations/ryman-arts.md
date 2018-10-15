@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016186'
 title: Ryman Arts
 org_type: Nonprofit

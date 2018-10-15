@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016156'
 title: National Foster Youth Institute
 org_type: Nonprofit

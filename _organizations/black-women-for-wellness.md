@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018009'
 title: Black Women for Wellness
 org_type: Nonprofit

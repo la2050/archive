@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: fmzJcYDzdUw
+published: true
 organization_id: '2013090'
 title: Hive Lighting
 org_type: For profit
@@ -32,5 +32,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102055'
+youtube_video_identifier: fmzJcYDzdUw
 
 ---

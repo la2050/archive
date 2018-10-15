@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Washington_Square.JPG
-maker_image_id: '21055'
+published: true
 organization_id: '2014002'
 title: 3Boulevards and West Adams Heritage Assocation (WAHA)
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102004'
+maker_image_file_name: Washington_Square.JPG
+maker_image_id: '21055'
 
 ---

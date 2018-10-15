@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018088'
 title: 'National Veterans Transition Services, Inc. AKA REBOOT'
 org_type: Nonprofit

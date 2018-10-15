@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
-maker_image_id: '20215'
+published: true
 organization_id: '2014204'
 title: The Laurel Foundation
 org_type: Nonprofit
@@ -27,5 +26,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102171'
+maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
+maker_image_id: '20215'
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: '-cj1vPWlAdo'
+published: true
 organization_id: '2015132'
 title: 'Los Angeles World''s Fair, FPC'
 org_type: Other
@@ -36,5 +36,6 @@ aggregated:
   project_ids:
     - '5102199'
     - '5102304'
+youtube_video_identifier: '-cj1vPWlAdo'
 
 ---

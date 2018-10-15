@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016077'
 title: FILMLIT MISSION
 org_type: Nonprofit

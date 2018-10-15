@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ApjqumUUgTI
+published: true
 organization_id: '2014077'
 title: Row Gallery Foundation
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102078'
+youtube_video_identifier: ApjqumUUgTI
 
 ---

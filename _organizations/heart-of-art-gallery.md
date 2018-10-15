@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: jpQSRVlR_XM
+published: true
 organization_id: '2015085'
 title: Heart of Art Gallery
 org_type: Forprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102222'
+youtube_video_identifier: jpQSRVlR_XM
 
 ---

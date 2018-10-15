@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016202'
 title: STEM Advantage
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018053'
 title: Homeboy Industries
 org_type: Nonprofit

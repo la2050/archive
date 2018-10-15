@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018001'
 title: '#HappyPeriod'
 org_type: Nonprofit

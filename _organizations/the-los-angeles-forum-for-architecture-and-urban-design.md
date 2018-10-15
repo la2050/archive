@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: tgVu1wy15RQ
+published: true
 organization_id: '2014205'
 title: The Los Angeles Forum for Architecture and Urban Design
 org_type: Nonprofit
@@ -28,5 +28,6 @@ aggregated:
   project_ids:
     - '4102172'
     - '3102186'
+youtube_video_identifier: tgVu1wy15RQ
 
 ---

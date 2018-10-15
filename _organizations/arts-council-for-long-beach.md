@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: nPa4Lu7CMPA
+published: true
 organization_id: '2013015'
 title: Arts Council for Long Beach
 org_type: Nonprofit
@@ -39,5 +39,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102027'
+youtube_video_identifier: nPa4Lu7CMPA
 
 ---

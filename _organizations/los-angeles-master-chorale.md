@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018076'
 title: Los Angeles Master Chorale
 org_type: Nonprofit

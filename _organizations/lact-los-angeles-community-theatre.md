@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: fRmzSDzuoRA
+published: true
 organization_id: '2015110'
 title: LACT - Los Angeles Community Theatre
 org_type: Nonprofit
@@ -28,5 +28,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102171'
+youtube_video_identifier: fRmzSDzuoRA
 
 ---

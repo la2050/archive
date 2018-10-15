@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 0EQnXawnCQk
+published: true
 organization_id: '2015015'
 title: Artists for Literacy / LitRemix
 org_type: Other
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102023'
+youtube_video_identifier: 0EQnXawnCQk
 
 ---

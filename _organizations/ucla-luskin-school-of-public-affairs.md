@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: UCLA_Connect.jpg
-maker_image_id: '23745'
+published: true
 organization_id: '2015217'
 title: UCLA Luskin School of Public Affairs
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102330'
+maker_image_file_name: UCLA_Connect.jpg
+maker_image_id: '23745'
 
 ---

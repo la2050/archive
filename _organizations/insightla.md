@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: lLS50WusJa4
+published: true
 organization_id: '2013097'
 title: InsightLA
 org_type: Nonprofit
@@ -42,5 +42,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102156'
+youtube_video_identifier: lLS50WusJa4
 
 ---

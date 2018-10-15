@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016181'
 title: Regents of the University of California
 org_type: Nonprofit

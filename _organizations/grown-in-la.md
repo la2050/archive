@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016095'
 title: Grown in LA
 org_type: Nonprofit

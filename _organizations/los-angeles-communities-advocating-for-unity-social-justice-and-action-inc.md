@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA_CAUSA.jpg
-maker_image_id: '16688'
+published: true
 organization_id: '2013122'
 title: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
 org_type: Nonprofit
@@ -44,5 +43,7 @@ aggregated:
     - '3102183'
     - '3102169'
     - '3102168'
+maker_image_file_name: LA_CAUSA.jpg
+maker_image_id: '16688'
 
 ---

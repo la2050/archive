@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: collaboration_statement.jpg
-maker_image_id: '17060'
+published: true
 organization_id: '2013076'
 title: FSBCS dba Community Builders Resource Network (CBRN)
 org_type: Nonprofit
@@ -47,5 +46,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102135'
+maker_image_file_name: collaboration_statement.jpg
+maker_image_id: '17060'
 
 ---

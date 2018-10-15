@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: z__BDhvkp9Q
+published: true
 organization_id: '2015017'
 title: Blind Children's Center
 org_type: Nonprofit
@@ -38,5 +38,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102030'
+youtube_video_identifier: z__BDhvkp9Q
 
 ---

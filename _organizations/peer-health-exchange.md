@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018094'
 title: Peer Health Exchange
 org_type: Nonprofit

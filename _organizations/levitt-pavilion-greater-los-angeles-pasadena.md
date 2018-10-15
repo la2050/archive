@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
-maker_image_id: '23665'
+published: true
 organization_id: '2015113'
 title: Levitt Pavilion Greater Los Angeles & Pasadena
 org_type: Nonprofit
@@ -40,5 +39,7 @@ aggregated:
   project_ids:
     - '5102175'
     - '3102179'
+maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
+maker_image_id: '23665'
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016119'
 title: L.A. Theatre Works
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LINCOLN_STATUE.jpg
-maker_image_id: '22088'
+published: true
 organization_id: '2014162'
 title: LINCOLN HEIGHTS HEALTH INITIATIVE
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102145'
+maker_image_file_name: LINCOLN_STATUE.jpg
+maker_image_id: '22088'
 
 ---

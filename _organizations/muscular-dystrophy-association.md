@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016151'
 title: Muscular Dystrophy Association
 org_type: Nonprofit

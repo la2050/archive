@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: S_0nE1f2B1w
+published: true
 organization_id: '2014187'
 title: >-
   Providence Little Company of Mary Medical Centers - Torrance & San Pedro,
@@ -27,5 +27,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102160'
+youtube_video_identifier: S_0nE1f2B1w
 
 ---

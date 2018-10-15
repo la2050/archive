@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018026'
 title: 'City of Los Angeles, Bureau of Street Lighting'
 org_type: Government

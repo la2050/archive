@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: NHaLkpe_jms
+published: true
 organization_id: '2014028'
 title: Dumlao Enterprises
 org_type: Forprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '8102052'
+youtube_video_identifier: NHaLkpe_jms
 
 ---

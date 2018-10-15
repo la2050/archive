@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: f2SXn1p3d4I
+published: true
 organization_id: '2013113'
 title: LA Cleantech Incubator / Clean Tech LA
 org_type: Nonprofit
@@ -42,5 +42,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102170'
+youtube_video_identifier: f2SXn1p3d4I
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: lz8FDz2KN0s
+published: true
 organization_id: '2014194'
 title: Strivers.LA via New Economy Campaigns
 org_type: Forprofit
@@ -28,5 +28,6 @@ aggregated:
   project_ids:
     - '5102095'
     - '3102100'
+youtube_video_identifier: lz8FDz2KN0s
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: pp9oh64x-9Y
+published: true
 organization_id: '2013046'
 title: CRE Outreach
 org_type: Nonprofit
@@ -47,5 +47,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102095'
+youtube_video_identifier: pp9oh64x-9Y
 
 ---

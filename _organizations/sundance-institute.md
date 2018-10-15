@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016203'
 title: Sundance Institute
 org_type: Nonprofit

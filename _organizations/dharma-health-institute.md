@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: yP9QgOVBaYA
+published: true
 organization_id: '2015048'
 title: Dharma Health Institute
 org_type: Forprofit
@@ -33,5 +33,6 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+youtube_video_identifier: yP9QgOVBaYA
 
 ---

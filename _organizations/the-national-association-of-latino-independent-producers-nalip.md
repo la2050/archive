@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018121'
 title: 'The National Association of Latino Independent Producers, NALIP'
 org_type: Nonprofit

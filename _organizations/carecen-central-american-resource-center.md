@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: collegeheadstart1.jpg
-maker_image_id: '16608'
+published: true
 organization_id: '2013029'
 title: CARECEN (Central American Resource Center)
 org_type: Nonprofit
@@ -48,5 +47,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102051'
+maker_image_file_name: collegeheadstart1.jpg
+maker_image_id: '16608'
 
 ---

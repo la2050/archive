@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: wordcloud-thrivecenter.png
-maker_image_id: '23931'
+published: true
 organization_id: '2015174'
 title: >-
   Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
@@ -38,5 +37,7 @@ aggregated:
   project_ids:
     - '5102261'
     - '4102017'
+maker_image_file_name: wordcloud-thrivecenter.png
+maker_image_id: '23931'
 
 ---

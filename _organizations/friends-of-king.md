@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016083'
 title: Friends of King
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 5tvdNOJ7fCw
+published: true
 organization_id: '2015208'
 title: The University Corporation
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102313'
+youtube_video_identifier: 5tvdNOJ7fCw
 
 ---

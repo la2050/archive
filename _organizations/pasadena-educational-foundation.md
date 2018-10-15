@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016163'
 title: Pasadena Educational Foundation
 org_type: Nonprofit

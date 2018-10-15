@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: lasmartmap3.jpg
-maker_image_id: '16991'
+published: true
 organization_id: '2013109'
 title: L.A. Currents
 org_type: For profit
@@ -45,5 +44,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102066'
+maker_image_file_name: lasmartmap3.jpg
+maker_image_id: '16991'
 
 ---

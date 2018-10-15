@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 100_Trees_3.jpg
-maker_image_id: '16690'
+published: true
 organization_id: '2013197'
 title: 'The Waters Wheel, LLC'
 org_type: For profit
@@ -50,5 +49,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102108'
+maker_image_file_name: 100_Trees_3.jpg
+maker_image_id: '16690'
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016179'
 title: PSSST
 org_type: Nonprofit

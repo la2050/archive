@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016204'
 title: T&L Foundation for Child Care Information
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ghRsAe0AExM
+published: true
 organization_id: '2015042'
 title: Communities for a Better Environment
 org_type: Nonprofit
@@ -43,5 +43,6 @@ aggregated:
   project_ids:
     - '5102074'
     - '3102084'
+youtube_video_identifier: ghRsAe0AExM
 
 ---

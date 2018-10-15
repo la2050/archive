@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: GENE_pic.jpg
-maker_image_id: '21319'
+published: true
 organization_id: '2014145'
 title: Global Education Network Exchange (GENE)
 org_type: Forprofit
@@ -34,5 +33,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: GENE_pic.jpg
+maker_image_id: '21319'
 
 ---

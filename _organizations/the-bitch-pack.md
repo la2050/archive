@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png
-maker_image_id: '20953'
+published: true
 organization_id: '2014087'
 title: The Bitch Pack
 org_type: Nonprofit
@@ -29,5 +28,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102087'
+maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png
+maker_image_id: '20953'
 
 ---

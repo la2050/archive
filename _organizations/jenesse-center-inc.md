@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016113'
 title: 'Jenesse Center, Inc.'
 org_type: Nonprofit

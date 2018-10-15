@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Hydroponickids1.jpg
-maker_image_id: '23755'
+published: true
 organization_id: '2015077'
 title: GREENBOXFARMS
 org_type: Forprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102090'
+maker_image_file_name: Hydroponickids1.jpg
+maker_image_id: '23755'
 
 ---

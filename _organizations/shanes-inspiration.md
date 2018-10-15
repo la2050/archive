@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: yUDKtK6Gfls
+published: true
 organization_id: '2015179'
 title: Shane's Inspiration
 org_type: Nonprofit
@@ -37,5 +37,6 @@ aggregated:
   project_ids:
     - '5102266'
     - '4102212'
+youtube_video_identifier: yUDKtK6Gfls
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Good_Image_Change_the_World.jpg
-maker_image_id: '23859'
+published: true
 organization_id: '2015059'
 title: Environmental Charter Schools
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102094'
+maker_image_file_name: Good_Image_Change_the_World.jpg
+maker_image_id: '23859'
 
 ---

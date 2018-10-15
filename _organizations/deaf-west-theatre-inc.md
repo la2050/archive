@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: n__7obsdA8E
+published: true
 organization_id: '2014025'
 title: 'Deaf West Theatre, Inc.'
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102026'
+youtube_video_identifier: n__7obsdA8E
 
 ---

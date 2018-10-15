@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 4svMiNJ-HL0
+published: true
 organization_id: '2014225'
 title: Westside Infant-Family Network (WIN)
 org_type: Nonprofit
@@ -27,5 +27,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102185'
+youtube_video_identifier: 4svMiNJ-HL0
 
 ---

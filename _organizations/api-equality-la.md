@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: CIMG0246.jpg
-maker_image_id: '16625'
+published: true
 organization_id: '2013012'
 title: API Equality-LA
 org_type: Nonprofit
@@ -42,5 +41,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102023'
+maker_image_file_name: CIMG0246.jpg
+maker_image_id: '16625'
 
 ---

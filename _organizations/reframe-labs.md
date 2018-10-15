@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Screen_Shot_2015-10-03_at_3.51.42_PM.png
-maker_image_id: '23338'
+published: true
 organization_id: '2015167'
 title: Reframe Labs
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102251'
+maker_image_file_name: Screen_Shot_2015-10-03_at_3.51.42_PM.png
+maker_image_id: '23338'
 
 ---

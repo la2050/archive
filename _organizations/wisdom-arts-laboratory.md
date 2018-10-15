@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016256'
 title: Wisdom Arts Laboratory
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: CAz_mkuDRno
+published: true
 organization_id: '2015041'
 title: Colossi
 org_type: Forprofit
@@ -31,5 +31,6 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+youtube_video_identifier: CAz_mkuDRno
 
 ---

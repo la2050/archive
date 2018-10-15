@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2050.png
-maker_image_id: '23379'
+published: true
 organization_id: '2015210'
 title: 'TheLab, Inc'
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102315'
+maker_image_file_name: LA2050.png
+maker_image_id: '23379'
 
 ---

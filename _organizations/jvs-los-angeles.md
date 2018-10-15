@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: iQpQqqot8AQ
+published: true
 organization_id: '2015102'
 title: JVS Los Angeles
 org_type: Nonprofit
@@ -34,5 +34,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102156'
+youtube_video_identifier: iQpQqqot8AQ
 
 ---

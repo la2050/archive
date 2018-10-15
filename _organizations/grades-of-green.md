@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA_YouthCorps_Logo-01.png
-maker_image_id: '16837'
+published: true
 organization_id: '2013082'
 title: Grades of Green
 org_type: Nonprofit
@@ -68,5 +67,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102140'
+maker_image_file_name: LA_YouthCorps_Logo-01.png
+maker_image_id: '16837'
 
 ---

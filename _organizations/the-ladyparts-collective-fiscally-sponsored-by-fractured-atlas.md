@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016224'
 title: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
 org_type: Forprofit

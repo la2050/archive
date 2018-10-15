@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 3014224447_e908044cf3_o.jpg
-maker_image_id: '23511'
+published: true
 organization_id: '2015092'
 title: Instituto de Educacion Popular del Sur de California (IDEPSCA)
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102143'
+maker_image_file_name: 3014224447_e908044cf3_o.jpg
+maker_image_id: '23511'
 
 ---

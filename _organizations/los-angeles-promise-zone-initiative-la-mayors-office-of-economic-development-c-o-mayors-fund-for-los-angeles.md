@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: MbjQABq5iTI
+published: true
 organization_id: '2015128'
 title: >-
   Los Angeles Promise Zone Initiative, LA Mayor's Office of Economic Development
@@ -34,5 +34,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102193'
+youtube_video_identifier: MbjQABq5iTI
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 2qWrLJakj5M
+published: true
 organization_id: '2014178'
 title: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
   project_ids:
     - '4102156'
     - '3102072'
+youtube_video_identifier: 2qWrLJakj5M
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: beans_on_clothes_H_small.jpg
-maker_image_id: '16977'
+published: true
 organization_id: '2013078'
 title: Garden School Foundation
 org_type: Nonprofit
@@ -61,5 +60,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102137'
+maker_image_file_name: beans_on_clothes_H_small.jpg
+maker_image_id: '16977'
 
 ---

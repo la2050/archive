@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: CqF0Cn4dZJs
+published: true
 organization_id: '2013096'
 title: Industrial District Green
 org_type: Nonprofit
@@ -42,5 +42,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102155'
+youtube_video_identifier: CqF0Cn4dZJs
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018051'
 title: Harlem Lacrosse - Los Angeles
 org_type: Nonprofit

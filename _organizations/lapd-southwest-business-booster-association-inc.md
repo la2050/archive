@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Screen_Shot_2015-10-15_at_12.10.38_PM.png
-maker_image_id: '24149'
+published: true
 organization_id: '2015111'
 title: LAPD Southwest Business Booster Association Inc.
 org_type: Other
@@ -36,5 +35,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102173'
+maker_image_file_name: Screen_Shot_2015-10-15_at_12.10.38_PM.png
+maker_image_id: '24149'
 
 ---

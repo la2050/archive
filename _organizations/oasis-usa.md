@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: _5icxWSNJFw
+published: true
 organization_id: '2013146'
 title: Oasis USA
 org_type: Nonprofit
@@ -67,5 +67,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102208'
+youtube_video_identifier: _5icxWSNJFw
 
 ---

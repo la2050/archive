@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018101'
 title: Red Hen Press
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: FutureBoundKids_w_Logo.jpg
-maker_image_id: '21609'
+published: true
 organization_id: '2014143'
 title: 'FutureBound, Inc.'
 org_type: Forprofit
@@ -29,5 +28,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: FutureBoundKids_w_Logo.jpg
+maker_image_id: '21609'
 
 ---

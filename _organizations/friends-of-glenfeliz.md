@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016082'
 title: Friends of Glenfeliz
 org_type: Nonprofit

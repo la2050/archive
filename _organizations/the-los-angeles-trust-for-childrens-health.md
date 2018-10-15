@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: sN5SCezYZTM
+published: true
 organization_id: '2013195'
 title: The Los Angeles Trust for Children's Health
 org_type: Nonprofit
@@ -65,5 +65,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102255'
+youtube_video_identifier: sN5SCezYZTM
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016242'
 title: Union Rescue Mission
 org_type: Nonprofit

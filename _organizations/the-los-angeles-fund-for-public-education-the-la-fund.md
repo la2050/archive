@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: tMwKJIhKIAU
+published: true
 organization_id: '2014206'
 title: The Los Angeles Fund For Public Education (The LA Fund)
 org_type: Nonprofit
@@ -28,5 +28,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102173'
+youtube_video_identifier: tMwKJIhKIAU
 
 ---

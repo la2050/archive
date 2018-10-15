@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ZErt5IiuEPA
+published: true
 organization_id: '2013080'
 title: Geoff Gallegos/daKAH Hip Hop Orchestra
 org_type: For profit
@@ -73,5 +73,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102053'
+youtube_video_identifier: ZErt5IiuEPA
 
 ---

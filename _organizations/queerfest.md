@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: QueerFest2014.jpg
-maker_image_id: '21336'
+published: true
 organization_id: '2014075'
 title: QueerFest
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102076'
+maker_image_file_name: QueerFest2014.jpg
+maker_image_id: '21336'
 
 ---

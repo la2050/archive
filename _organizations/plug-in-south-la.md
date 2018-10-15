@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: qooMUYecd1s
+published: true
 organization_id: '2015156'
 title: Plug In South LA
 org_type: Forprofit
@@ -31,5 +31,6 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+youtube_video_identifier: qooMUYecd1s
 
 ---

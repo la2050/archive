@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: I-2fvjBviRI
+published: true
 organization_id: '2014013'
 title: Beautify Earth
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102014'
+youtube_video_identifier: I-2fvjBviRI
 
 ---

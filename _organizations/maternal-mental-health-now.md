@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: MMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg
-maker_image_id: '23910'
+published: true
 organization_id: '2015134'
 title: Maternal Mental Health NOW
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102203'
+maker_image_file_name: MMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg
+maker_image_id: '23910'
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018113'
 title: 'SÜPRSEED, Inc.'
 org_type: Nonprofit

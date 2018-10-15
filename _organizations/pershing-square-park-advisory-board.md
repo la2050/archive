@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
-maker_image_id: '20546'
+published: true
 organization_id: '2014067'
 title: Pershing Square Park Advisory Board
 org_type: Nonprofit
@@ -36,5 +35,7 @@ aggregated:
   project_ids:
     - '4102068'
     - '3102218'
+maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
+maker_image_id: '20546'
 
 ---

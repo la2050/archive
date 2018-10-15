@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ZBTmjmoABZE
+published: true
 organization_id: '2013156'
 title: Project Food LA
 org_type: Nonprofit
@@ -83,5 +83,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102221'
+youtube_video_identifier: ZBTmjmoABZE
 
 ---

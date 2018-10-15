@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016174'
 title: Plantaware
 org_type: Forprofit

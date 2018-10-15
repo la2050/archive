@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Earnlogopage2.jpg
-maker_image_id: '23728'
+published: true
 organization_id: '2015054'
 title: EARN
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102089'
+maker_image_file_name: Earnlogopage2.jpg
+maker_image_id: '23728'
 
 ---

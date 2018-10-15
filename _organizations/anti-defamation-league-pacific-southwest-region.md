@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 3KyvlMJefR4
+published: true
 organization_id: '2014113'
 title: Anti-Defamation League - Pacific Southwest Region
 org_type: Nonprofit
@@ -29,5 +29,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102111'
+youtube_video_identifier: 3KyvlMJefR4
 
 ---

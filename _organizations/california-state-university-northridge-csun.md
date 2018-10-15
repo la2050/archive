@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016032'
 title: 'California State University, Northridge (CSUN)'
 org_type: Nonprofit

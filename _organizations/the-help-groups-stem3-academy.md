@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016220'
 title: The Help Group's STEM3 Academy
 org_type: Nonprofit

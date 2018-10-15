@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: EDmhXWDVs3M
+published: true
 organization_id: '2015083'
 title: Heal the Bay
 org_type: Nonprofit
@@ -38,5 +38,6 @@ aggregated:
   project_ids:
     - '5102129'
     - '3102146'
+youtube_video_identifier: EDmhXWDVs3M
 
 ---

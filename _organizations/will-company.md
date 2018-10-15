@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: GzEz6Q-9lWQ
+published: true
 organization_id: '2014106'
 title: Will & Company
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102105'
+youtube_video_identifier: GzEz6Q-9lWQ
 
 ---

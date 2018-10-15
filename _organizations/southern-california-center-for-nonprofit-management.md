@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016198'
 title: Southern California Center for Nonprofit Management
 org_type: Nonprofit

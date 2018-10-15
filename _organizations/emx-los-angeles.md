@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016070'
 title: EMX Los Angeles
 org_type: Forprofit

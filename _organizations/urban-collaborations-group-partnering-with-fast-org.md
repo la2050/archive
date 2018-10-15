@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2050-Hero.jpg
-maker_image_id: '22419'
+published: true
 organization_id: '2014220'
 title: Urban Collaborations Group (Partnering with FAST.org)
 org_type: Nonprofit
@@ -27,5 +26,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102181'
+maker_image_file_name: LA2050-Hero.jpg
+maker_image_id: '22419'
 
 ---

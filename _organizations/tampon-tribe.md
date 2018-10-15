@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016208'
 title: Tampon Tribe
 org_type: Forprofit

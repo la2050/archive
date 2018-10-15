@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018139'
 title: World Harvest Charities & Family Services
 org_type: Nonprofit

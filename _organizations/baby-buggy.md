@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: alg-babybuggy-jpg.jpg
-maker_image_id: '20955'
+published: true
 organization_id: '2014117'
 title: Baby Buggy
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102115'
+maker_image_file_name: alg-babybuggy-jpg.jpg
+maker_image_id: '20955'
 
 ---

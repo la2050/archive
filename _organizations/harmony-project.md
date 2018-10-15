@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: zVwm_GRMSHw
+published: true
 organization_id: '2013088'
 title: Harmony Project
 org_type: Nonprofit
@@ -49,5 +49,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102145'
+youtube_video_identifier: zVwm_GRMSHw
 
 ---

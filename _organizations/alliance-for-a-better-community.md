@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_5905.JPG
-maker_image_id: '16427'
+published: true
 organization_id: '2013006'
 title: Alliance for a Better Community
 org_type: Nonprofit
@@ -60,5 +59,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102012'
+maker_image_file_name: IMG_5905.JPG
+maker_image_id: '16427'
 
 ---

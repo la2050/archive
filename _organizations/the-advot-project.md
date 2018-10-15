@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: logo.png
-maker_image_id: '17036'
+published: true
 organization_id: '2013183'
 title: The Advot Project
 org_type: Nonprofit
@@ -91,5 +90,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102244'
+maker_image_file_name: logo.png
+maker_image_id: '17036'
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 8RfGcPRl--8
+published: true
 organization_id: '2015043'
 title: Communities In Schools of Los Angeles
 org_type: Nonprofit
@@ -40,5 +40,6 @@ aggregated:
   project_ids:
     - '5102075'
     - '3102085'
+youtube_video_identifier: 8RfGcPRl--8
 
 ---

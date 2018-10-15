@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018039'
 title: Family Promise of the South Bay
 org_type: Nonprofit

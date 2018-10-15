@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
-maker_image_id: '17051'
+published: true
 organization_id: '2013103'
 title: KCETLink
 org_type: Nonprofit
@@ -67,5 +66,7 @@ aggregated:
   project_ids:
     - '3102163'
     - '3102163'
+maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
+maker_image_id: '17051'
 
 ---

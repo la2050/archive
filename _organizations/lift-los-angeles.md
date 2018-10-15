@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018068'
 title: LIFT-Los Angeles
 org_type: Nonprofit

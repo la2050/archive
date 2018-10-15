@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016254'
 title: WeThrive
 org_type: Nonprofit

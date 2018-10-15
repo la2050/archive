@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 3J2TSZ1AMHM
+published: true
 organization_id: '2013196'
 title: The Relational Center
 org_type: Nonprofit
@@ -42,5 +42,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102256'
+youtube_video_identifier: 3J2TSZ1AMHM
 
 ---

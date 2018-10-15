@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: h1GATPgLPxQ
+published: true
 organization_id: '2013178'
 title: Swipes for the Homeless
 org_type: Nonprofit
@@ -56,5 +56,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102241'
+youtube_video_identifier: h1GATPgLPxQ
 
 ---

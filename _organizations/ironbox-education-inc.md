@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: ironboxeducationLA2050.jpg
-maker_image_id: '23622'
+published: true
 organization_id: '2015096'
 title: 'Ironbox Education, Inc.'
 org_type: Forprofit
@@ -33,5 +32,7 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+maker_image_file_name: ironboxeducationLA2050.jpg
+maker_image_id: '23622'
 
 ---

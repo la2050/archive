@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: iFODyc5eUjQ
+published: true
 organization_id: '2014053'
 title: Libros Schmibros
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102054'
+youtube_video_identifier: iFODyc5eUjQ
 
 ---

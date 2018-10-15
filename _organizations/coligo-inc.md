@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016046'
 title: 'Coligo, Inc.'
 org_type: Forprofit

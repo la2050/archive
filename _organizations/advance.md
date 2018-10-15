@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: d8oxCVYqxhU
+published: true
 organization_id: '2013003'
 title: ADVANCE
 org_type: For profit
@@ -39,5 +39,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102001'
+youtube_video_identifier: d8oxCVYqxhU
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2050_Freeway_Growth.jpg
-maker_image_id: '24023'
+published: true
 organization_id: '2015067'
 title: Freeway Farm
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102105'
+maker_image_file_name: LA2050_Freeway_Growth.jpg
+maker_image_id: '24023'
 
 ---

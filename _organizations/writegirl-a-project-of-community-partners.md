@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: FmHmFIlfA4A
+published: true
 organization_id: '2014228'
 title: 'WriteGirl, a project of Community Partners'
 org_type: Nonprofit
@@ -28,5 +28,6 @@ aggregated:
   project_ids:
     - '4102188'
     - '3102275'
+youtube_video_identifier: FmHmFIlfA4A
 
 ---

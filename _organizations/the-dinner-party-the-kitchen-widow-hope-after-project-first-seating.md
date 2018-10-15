@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: YijVi1ZG5EM
+published: true
 organization_id: '2015199'
 title: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
 org_type: Nonprofit
@@ -43,5 +43,6 @@ aggregated:
   project_ids:
     - '5102300'
     - '4102088'
+youtube_video_identifier: YijVi1ZG5EM
 
 ---

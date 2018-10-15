@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: awJQoJqGL-o
+published: true
 organization_id: '2014094'
 title: 'The Mirror, Mirror Project'
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102094'
+youtube_video_identifier: awJQoJqGL-o
 
 ---

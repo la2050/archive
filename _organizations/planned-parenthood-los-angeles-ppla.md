@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016172'
 title: Planned Parenthood Los Angeles (PPLA)
 org_type: Nonprofit

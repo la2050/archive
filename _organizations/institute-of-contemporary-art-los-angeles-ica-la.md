@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016111'
 title: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
 org_type: Nonprofit

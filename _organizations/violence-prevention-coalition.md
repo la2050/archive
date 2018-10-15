@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: RallyinLA.jpg
-maker_image_id: '20605'
+published: true
 organization_id: '2014105'
 title: Violence Prevention Coalition
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102104'
+maker_image_file_name: RallyinLA.jpg
+maker_image_id: '20605'
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
-maker_image_id: '23743'
+published: true
 organization_id: '2015220'
 title: >-
   Urban & Environmental Institute, Occidental College and East Yards Communities
@@ -43,5 +42,7 @@ aggregated:
     - '5102335'
     - '5102063'
     - '3102266'
+maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
+maker_image_id: '23743'
 
 ---

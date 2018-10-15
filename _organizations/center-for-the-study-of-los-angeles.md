@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016036'
 title: Center for the Study of Los Angeles
 org_type: Nonprofit

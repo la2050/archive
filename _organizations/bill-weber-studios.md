@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: TWOAB.jpg
-maker_image_id: '23146'
+published: true
 organization_id: '2015016'
 title: Bill Weber Studios
 org_type: Forprofit
@@ -33,5 +32,7 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+maker_image_file_name: TWOAB.jpg
+maker_image_id: '23146'
 
 ---

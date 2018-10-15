@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: EJWQ6cYZBCk
+published: true
 organization_id: '2015079'
 title: HappyCity Los Angeles
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102125'
+youtube_video_identifier: EJWQ6cYZBCk
 
 ---

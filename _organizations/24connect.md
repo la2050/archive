@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: creative_capital_img.jpg
-maker_image_id: '22856'
+published: true
 organization_id: '2014001'
 title: 24Connect
 org_type: Forprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102074'
+maker_image_file_name: creative_capital_img.jpg
+maker_image_id: '22856'
 
 ---

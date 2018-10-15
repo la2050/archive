@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: IMUZKtO4vOw
+published: true
 organization_id: '2013134'
 title: 'Million Trees LA, a project of Community Partners'
 org_type: Nonprofit
@@ -84,5 +84,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102197'
+youtube_video_identifier: IMUZKtO4vOw
 
 ---

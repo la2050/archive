@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: index__element43.jpg
-maker_image_id: '20927'
+published: true
 organization_id: '2014155'
 title: Imagination Workshop
 org_type: Nonprofit
@@ -28,5 +27,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102137'
+maker_image_file_name: index__element43.jpg
+maker_image_id: '20927'
 
 ---

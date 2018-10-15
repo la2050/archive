@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: PA-angel.jpg
-maker_image_id: '22289'
+published: true
 organization_id: '2014066'
 title: Peace Allies
 org_type: Forprofit
@@ -34,5 +33,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: PA-angel.jpg
+maker_image_id: '22289'
 
 ---

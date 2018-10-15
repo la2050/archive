@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Games_for_Peace.jpg
-maker_image_id: '16714'
+published: true
 organization_id: '2013043'
 title: 'Communities In Schools of San Fernando Valley, Inc.'
 org_type: Nonprofit
@@ -80,5 +79,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102086'
+maker_image_file_name: Games_for_Peace.jpg
+maker_image_id: '16714'
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: Hey6DKTLdw8
+published: true
 organization_id: '2015175'
 title: SBCC Thrive LA
 org_type: Nonprofit
@@ -37,5 +37,6 @@ aggregated:
   project_ids:
     - '5102262'
     - '4102209'
+youtube_video_identifier: Hey6DKTLdw8
 
 ---

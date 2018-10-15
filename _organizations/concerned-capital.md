@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016055'
 title: Concerned Capital
 org_type: Forprofit

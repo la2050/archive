@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016142'
 title: Lucie Foundation
 org_type: Nonprofit

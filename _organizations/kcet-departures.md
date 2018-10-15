@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 9PUd4G27uNk
+published: true
 organization_id: '2013102'
 title: KCET Departures
 org_type: Nonprofit
@@ -73,5 +73,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102162'
+youtube_video_identifier: 9PUd4G27uNk
 
 ---

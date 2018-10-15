@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016011'
 title: Annenberg Innovation Lab
 org_type: Nonprofit

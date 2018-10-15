@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
-maker_image_id: '24048'
+published: true
 organization_id: '2015029'
 title: ChallengeMaker
 org_type: Forprofit
@@ -32,5 +31,7 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
+maker_image_id: '24048'
 
 ---

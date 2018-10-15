@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: WP1_Logo_new.jpg
-maker_image_id: '22532'
+published: true
 organization_id: '2014109'
 title: World Peace One
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102108'
+maker_image_file_name: WP1_Logo_new.jpg
+maker_image_id: '22532'
 
 ---

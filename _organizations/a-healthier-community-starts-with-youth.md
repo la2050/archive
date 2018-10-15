@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018004'
 title: A Healthier Community Starts with YOUth
 org_type: Nonprofit

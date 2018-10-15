@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: CtD_2050_Image_2.jpg
-maker_image_id: '24151'
+published: true
 organization_id: '2015045'
 title: Connect the Dots LA
 org_type: Nonprofit
@@ -37,5 +36,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102078'
+maker_image_file_name: CtD_2050_Image_2.jpg
+maker_image_id: '24151'
 
 ---

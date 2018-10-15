@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: EpR6dHeaGIQ
+published: true
 organization_id: '2013070'
 title: Food Forward
 org_type: Nonprofit
@@ -46,5 +46,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102129'
+youtube_video_identifier: EpR6dHeaGIQ
 
 ---

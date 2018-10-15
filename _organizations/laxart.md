@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: slanguage_facade_edit.jpg
-maker_image_id: '17143'
+published: true
 organization_id: '2013119'
 title: LAXART
 org_type: Nonprofit
@@ -54,5 +53,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102177'
+maker_image_file_name: slanguage_facade_edit.jpg
+maker_image_id: '17143'
 
 ---

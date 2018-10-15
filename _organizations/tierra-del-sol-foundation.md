@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016239'
 title: Tierra del Sol Foundation
 org_type: Nonprofit

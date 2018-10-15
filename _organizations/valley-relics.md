@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016251'
 title: Valley Relics
 org_type: Nonprofit

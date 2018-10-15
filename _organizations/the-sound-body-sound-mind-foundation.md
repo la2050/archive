@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_0438.JPG
-maker_image_id: '23214'
+published: true
 organization_id: '2015206'
 title: The Sound Body Sound Mind Foundation
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102311'
+maker_image_file_name: IMG_0438.JPG
+maker_image_id: '23214'
 
 ---

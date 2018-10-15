@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: laadW_CUhSY
+published: true
 organization_id: '2015131'
 title: Los Angeles Underwater Explorers; Ghost Fishing
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102198'
+youtube_video_identifier: laadW_CUhSY
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: fAQOxqwuIHk
+published: true
 organization_id: '2014135'
 title: Duvivier Architects (DA)
 org_type: Forprofit
@@ -28,5 +28,6 @@ aggregated:
     - '2014'
   project_ids:
     - '5102091'
+youtube_video_identifier: fAQOxqwuIHk
 
 ---

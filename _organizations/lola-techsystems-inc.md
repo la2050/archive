@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018070'
 title: 'Lola Techsystems, Inc.'
 org_type: Forprofit

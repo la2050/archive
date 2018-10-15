@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018067'
 title: LawMaker.io
 org_type: Social enterprise or Bcorps

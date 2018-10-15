@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018114'
 title: Surf Bus Foundation
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016120'
 title: L.A. Works
 org_type: Nonprofit

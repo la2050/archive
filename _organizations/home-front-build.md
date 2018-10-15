@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: obee-landscape.jpg
-maker_image_id: '22740'
+published: true
 organization_id: '2014150'
 title: Home Front Build
 org_type: Forprofit
@@ -28,5 +27,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: obee-landscape.jpg
+maker_image_id: '22740'
 
 ---

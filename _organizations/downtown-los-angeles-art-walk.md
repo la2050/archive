@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
-maker_image_id: '23344'
+published: true
 organization_id: '2015050'
 title: Downtown Los Angeles Art Walk
 org_type: Nonprofit
@@ -37,5 +36,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102084'
+maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
+maker_image_id: '23344'
 
 ---

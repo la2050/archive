@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 130126-0191.jpg
-maker_image_id: '17003'
+published: true
 organization_id: '2013172'
 title: Step Up Women's Network
 org_type: Nonprofit
@@ -79,5 +78,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102238'
+maker_image_file_name: 130126-0191.jpg
+maker_image_id: '17003'
 
 ---

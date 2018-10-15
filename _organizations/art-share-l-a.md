@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: w8o0x9VRbvE
+published: true
 organization_id: '2013014'
 title: Art Share L.A.
 org_type: Nonprofit
@@ -57,5 +57,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102026'
+youtube_video_identifier: w8o0x9VRbvE
 
 ---

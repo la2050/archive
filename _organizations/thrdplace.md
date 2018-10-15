@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: jUd4odIOyuc
+published: true
 organization_id: '2013198'
 title: ThrdPlace
 org_type: For profit
@@ -37,5 +37,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102110'
+youtube_video_identifier: jUd4odIOyuc
 
 ---

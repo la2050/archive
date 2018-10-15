@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018123'
 title: The Trust for Public Land
 org_type: Nonprofit

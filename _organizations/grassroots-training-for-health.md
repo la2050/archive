@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016092'
 title: Grassroots Training for Health
 org_type: Nonprofit

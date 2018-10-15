@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: BSvlFmSuKyw
+published: true
 organization_id: '2013093'
 title: Human Resources L.A.
 org_type: Nonprofit
@@ -47,5 +47,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102151'
+youtube_video_identifier: BSvlFmSuKyw
 
 ---

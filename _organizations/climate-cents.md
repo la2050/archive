@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: WjnYc_5sRG8
+published: true
 organization_id: '2015037'
 title: Climate Cents
 org_type: Nonprofit
@@ -37,5 +37,6 @@ aggregated:
   project_ids:
     - '5102066'
     - '4102194'
+youtube_video_identifier: WjnYc_5sRG8
 
 ---

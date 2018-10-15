@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: g5AgtC0G5ec
+published: true
 organization_id: '2015049'
 title: DIY Girls
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102083'
+youtube_video_identifier: g5AgtC0G5ec
 
 ---

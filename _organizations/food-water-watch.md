@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016079'
 title: Food & Water Watch
 org_type: Nonprofit

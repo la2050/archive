@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: CGatHN_by_Linda_570w.jpg
-maker_image_id: '16319'
+published: true
 organization_id: '2013061'
 title: Environmental Change-Makers
 org_type: Nonprofit
@@ -46,5 +45,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102125'
+maker_image_file_name: CGatHN_by_Linda_570w.jpg
+maker_image_id: '16319'
 
 ---

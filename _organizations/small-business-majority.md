@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018109'
 title: Small Business Majority
 org_type: Nonprofit

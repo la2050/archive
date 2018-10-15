@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: grALjLXwxgM
+published: true
 organization_id: '2014062'
 title: NewFilmmakers Los Angeles
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102063'
+youtube_video_identifier: grALjLXwxgM
 
 ---

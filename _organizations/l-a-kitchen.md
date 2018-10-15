@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018059'
 title: L.A. Kitchen
 org_type: Nonprofit

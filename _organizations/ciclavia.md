@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018021'
 title: CicLAvia
 org_type: Nonprofit

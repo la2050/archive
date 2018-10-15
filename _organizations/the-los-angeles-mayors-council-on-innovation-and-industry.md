@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LAMCII_graphic.png
-maker_image_id: '16540'
+published: true
 organization_id: '2013194'
 title: The Los Angeles Mayor's Council on Innovation and Industry
 org_type: Nonprofit
@@ -119,5 +118,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102254'
+maker_image_file_name: LAMCII_graphic.png
+maker_image_id: '16540'
 
 ---

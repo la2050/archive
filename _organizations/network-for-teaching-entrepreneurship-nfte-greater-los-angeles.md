@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Crystal_Cropped_Big_Check.jpg
-maker_image_id: '24049'
+published: true
 organization_id: '2015145'
 title: Network for Teaching Entrepreneurship (NFTE) Greater Los Angeles
 org_type: Nonprofit
@@ -38,5 +37,7 @@ aggregated:
   project_ids:
     - '5102221'
     - '3102205'
+maker_image_file_name: Crystal_Cropped_Big_Check.jpg
+maker_image_id: '24049'
 
 ---

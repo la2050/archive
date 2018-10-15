@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: TsuTBskJETc
+published: true
 organization_id: '2014080'
 title: Senior Star Power Productions
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102081'
+youtube_video_identifier: TsuTBskJETc
 
 ---

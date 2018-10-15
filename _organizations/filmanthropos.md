@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: '--BnysezHK0'
+published: true
 organization_id: '2013066'
 title: Filmanthropos
 org_type: For profit
@@ -36,5 +36,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102044'
+youtube_video_identifier: '--BnysezHK0'
 
 ---

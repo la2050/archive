@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018074'
 title: Los Angeles Dodgers Foundation
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: homelessstreetscene.jpg
-maker_image_id: '24052'
+published: true
 organization_id: '2015183'
 title: Social & Environmental Entrepreneurs
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102270'
+maker_image_file_name: homelessstreetscene.jpg
+maker_image_id: '24052'
 
 ---

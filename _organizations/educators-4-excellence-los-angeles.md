@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016068'
 title: Educators 4 Excellence-Los Angeles
 org_type: Nonprofit

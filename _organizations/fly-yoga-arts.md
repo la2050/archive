@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: StillVideoImage_(2).jpg
-maker_image_id: '23727'
+published: true
 organization_id: '2015065'
 title: FLY Yoga Arts
 org_type: Forprofit
@@ -42,5 +41,7 @@ aggregated:
     - '2014'
   project_ids:
     - '5102206'
+maker_image_file_name: StillVideoImage_(2).jpg
+maker_image_id: '23727'
 
 ---

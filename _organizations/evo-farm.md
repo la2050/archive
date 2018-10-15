@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: vertical_AP_kit_3.jpg
-maker_image_id: '16774'
+published: true
 organization_id: '2013064'
 title: Evo Farm
 org_type: For profit
@@ -62,5 +61,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102040'
+maker_image_file_name: vertical_AP_kit_3.jpg
+maker_image_id: '16774'
 
 ---

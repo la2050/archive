@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016169'
 title: People For the American Way Foundation
 org_type: Nonprofit

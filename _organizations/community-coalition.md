@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 8O5p-fqguRo
+published: true
 organization_id: '2013044'
 title: Community Coalition
 org_type: Nonprofit
@@ -61,5 +61,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102087'
+youtube_video_identifier: 8O5p-fqguRo
 
 ---

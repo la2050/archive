@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 12113284_1058676700830263_4818412174925935968_o.jpg
-maker_image_id: '23700'
+published: true
 organization_id: '2015014'
 title: Art of Acting Studio
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102022'
+maker_image_file_name: 12113284_1058676700830263_4818412174925935968_o.jpg
+maker_image_id: '23700'
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016048'
 title: College Track
 org_type: Nonprofit

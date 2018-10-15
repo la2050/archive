@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: studio1.jpg
-maker_image_id: '21917'
+published: true
 organization_id: '2014064'
 title: Nomadlosangeles
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102065'
+maker_image_file_name: studio1.jpg
+maker_image_id: '21917'
 
 ---

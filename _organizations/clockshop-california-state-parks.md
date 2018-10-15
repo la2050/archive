@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016042'
 title: Clockshop & California State Parks
 org_type: Nonprofit

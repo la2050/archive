@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: logo3.jpg
-maker_image_id: '23929'
+published: true
 organization_id: '2015180'
 title: Silverlake Independent Jewish Community Center
 org_type: Nonprofit
@@ -36,5 +35,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102267'
+maker_image_file_name: logo3.jpg
+maker_image_id: '23929'
 
 ---

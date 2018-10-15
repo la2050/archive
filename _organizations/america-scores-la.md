@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016008'
 title: America Scores LA
 org_type: Nonprofit

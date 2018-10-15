@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016047'
 title: College Bridge
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 2EbK6sblpo0
+published: true
 organization_id: '2015061'
 title: 'Facing History and Ourselves, Inc.'
 org_type: Nonprofit
@@ -34,5 +34,6 @@ aggregated:
   project_ids:
     - '5102097'
     - '4102197'
+youtube_video_identifier: 2EbK6sblpo0
 
 ---

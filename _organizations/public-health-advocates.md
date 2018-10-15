@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2015162'
 title: Public Health Advocates
 org_type: Nonprofit

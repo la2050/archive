@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ZobE5kX4dTc
+published: true
 organization_id: '2013034'
 title: City of Los Angeles Department of Cultural Affairs
 org_type: Nonprofit
@@ -54,5 +54,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102067'
+youtube_video_identifier: ZobE5kX4dTc
 
 ---

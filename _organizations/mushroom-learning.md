@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: la2050-pic-2.png
-maker_image_id: '21687'
+published: true
 organization_id: '2014180'
 title: Mushroom Learning
 org_type: Forprofit
@@ -25,5 +24,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102067'
+maker_image_file_name: la2050-pic-2.png
+maker_image_id: '21687'
 
 ---

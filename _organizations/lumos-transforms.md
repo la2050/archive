@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018078'
 title: Lumos Transforms
 org_type: Social enterprise or Bcorps

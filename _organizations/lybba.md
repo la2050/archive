@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: openhealthcentral.png
-maker_image_id: '16271'
+published: true
 organization_id: '2013129'
 title: Lybba
 org_type: Nonprofit
@@ -100,5 +99,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102193'
+maker_image_file_name: openhealthcentral.png
+maker_image_id: '16271'
 
 ---

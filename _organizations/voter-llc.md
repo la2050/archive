@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: cljP5pJVVbE
+published: true
 organization_id: '2015223'
 title: 'Voter, LLC'
 org_type: Forprofit
@@ -29,5 +29,6 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+youtube_video_identifier: cljP5pJVVbE
 
 ---

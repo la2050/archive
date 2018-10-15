@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016051'
 title: Community Corporation of Santa Monica
 org_type: Nonprofit

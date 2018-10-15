@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018131'
 title: United Parents and Students
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016188'
 title: Safe Refuge
 org_type: Nonprofit

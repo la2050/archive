@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016253'
 title: Westside Urban Forum
 org_type: Nonprofit

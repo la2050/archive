@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016226'
 title: The National Wildlife Federation
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: SVzSpv8Dj74
+published: true
 organization_id: '2015198'
 title: The Council of Mexican Federations (COFEM)
 org_type: Nonprofit
@@ -34,5 +34,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102299'
+youtube_video_identifier: SVzSpv8Dj74
 
 ---

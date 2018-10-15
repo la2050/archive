@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Sequester_student_working1.jpg
-maker_image_id: '16942'
+published: true
 organization_id: '2013063'
 title: ESP Empowering Services Through Partnerships
 org_type: For profit
@@ -35,5 +34,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102039'
+maker_image_file_name: Sequester_student_working1.jpg
+maker_image_id: '16942'
 
 ---

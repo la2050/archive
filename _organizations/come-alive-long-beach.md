@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016049'
 title: Come Alive Long Beach
 org_type: Nonprofit

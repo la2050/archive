@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016189'
 title: Santa Clarita Valley Adventure Play
 org_type: Forprofit

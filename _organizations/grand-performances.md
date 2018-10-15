@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: gp_la2050_570x345.jpg
-maker_image_id: '24070'
+published: true
 organization_id: '2015073'
 title: Grand Performances
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102115'
+maker_image_file_name: gp_la2050_570x345.jpg
+maker_image_id: '24070'
 
 ---

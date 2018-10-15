@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ''
+published: true
 organization_id: '2015173'
 title: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102259'
+youtube_video_identifier: ''
 
 ---

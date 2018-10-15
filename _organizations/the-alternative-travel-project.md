@@ -1,6 +1,6 @@
 ---
-youtube_video_identifier: u0DYRf98w-o
 organization_id_2: '2014086'
+published: true
 organization_id: '2015196'
 title: the Alternative Travel Project
 org_type: Nonprofit
@@ -40,5 +40,6 @@ aggregated:
   project_ids:
     - '5102296'
     - '4102215'
+youtube_video_identifier: u0DYRf98w-o
 
 ---

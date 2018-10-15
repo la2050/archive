@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Image_for_Good.jpg
-maker_image_id: '22152'
+published: true
 organization_id: '2014071'
 title: Positive Minded People
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102072'
+maker_image_file_name: Image_for_Good.jpg
+maker_image_id: '22152'
 
 ---

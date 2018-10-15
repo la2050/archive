@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: jobstour.png
-maker_image_id: '21770'
+published: true
 organization_id: '2014229'
 title: Young Invincibles
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
   project_ids:
     - '4102189'
     - '3102276'
+maker_image_file_name: jobstour.png
+maker_image_id: '21770'
 
 ---

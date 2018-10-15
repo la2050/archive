@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016043'
 title: CoachArt
 org_type: Nonprofit

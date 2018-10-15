@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016031'
 title: California Partnership
 org_type: Nonprofit

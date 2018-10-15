@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016162'
 title: Parents Education League
 org_type: Nonprofit

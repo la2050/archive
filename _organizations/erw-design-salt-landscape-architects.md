@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Poster2_smaller.jpg
-maker_image_id: '17284'
+published: true
 organization_id: '2013062'
 title: ERW DESIGN + SALT Landscape Architects
 org_type: For profit
@@ -57,5 +56,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102036'
+maker_image_file_name: Poster2_smaller.jpg
+maker_image_id: '17284'
 
 ---

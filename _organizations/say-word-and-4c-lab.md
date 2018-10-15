@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016190'
 title: Say Word and 4C LAB
 org_type: Nonprofit

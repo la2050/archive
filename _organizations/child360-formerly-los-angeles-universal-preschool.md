@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018018'
 title: Child360 (formerly Los Angeles Universal Preschool)
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016021'
 title: BlacklistLA
 org_type: Nonprofit

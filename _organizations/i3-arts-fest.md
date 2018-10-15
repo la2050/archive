@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016106'
 title: I3 Arts Fest
 org_type: Nonprofit

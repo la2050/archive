@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018095'
 title: People for Parks
 org_type: Nonprofit

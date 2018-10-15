@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016090'
 title: Girls Inc. of Greater Los Angeles
 org_type: Nonprofit

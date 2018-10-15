@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: g_OFCYLH7gw
+published: true
 organization_id: '2014103'
 title: URBAN Teens Exploring Technology ( TXT )
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
   project_ids:
     - '4102102'
     - '3102268'
+youtube_video_identifier: g_OFCYLH7gw
 
 ---

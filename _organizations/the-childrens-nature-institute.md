@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: xF48V9enLaE
+published: true
 organization_id: '2013184'
 title: The Children's Nature Institute
 org_type: Nonprofit
@@ -48,5 +48,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102245'
+youtube_video_identifier: xF48V9enLaE
 
 ---

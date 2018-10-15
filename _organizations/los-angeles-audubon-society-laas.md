@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016133'
 title: Los Angeles Audubon Society (LAAS)
 org_type: Nonprofit

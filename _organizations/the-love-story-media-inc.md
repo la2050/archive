@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016225'
 title: 'The Love Story Media, Inc.'
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2050.jpg
-maker_image_id: '17068'
+published: true
 organization_id: '2013205'
 title: UNIQUE LA
 org_type: For profit
@@ -55,5 +54,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102111'
+maker_image_file_name: LA2050.jpg
+maker_image_id: '17068'
 
 ---

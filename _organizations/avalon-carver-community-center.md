@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016016'
 title: Avalon Carver Community Center
 org_type: Nonprofit

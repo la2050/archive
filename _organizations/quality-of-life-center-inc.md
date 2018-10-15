@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 2010-2011_Graduation_Picture.171103650_std.jpg
-maker_image_id: '16300'
+published: true
 organization_id: '2013159'
 title: 'Quality of Life Center, Inc.'
 org_type: Nonprofit
@@ -40,5 +39,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102225'
+maker_image_file_name: 2010-2011_Graduation_Picture.171103650_std.jpg
+maker_image_id: '16300'
 
 ---

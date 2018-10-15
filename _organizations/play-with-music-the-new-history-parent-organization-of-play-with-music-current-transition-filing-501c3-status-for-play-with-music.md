@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: MY3TeVh867s
+published: true
 organization_id: '2015155'
 title: >-
   Play with Music, The New History (parent organization of Play with Music,
@@ -34,5 +34,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102238'
+youtube_video_identifier: MY3TeVh867s
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: T-_qt-Ah9-0
+published: true
 organization_id: '2013035'
 title: cityLAB-UCLA
 org_type: Nonprofit
@@ -51,5 +51,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102069'
+youtube_video_identifier: T-_qt-Ah9-0
 
 ---

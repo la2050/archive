@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018060'
 title: 'LA Commons, a project of Community Partners'
 org_type: Nonprofit

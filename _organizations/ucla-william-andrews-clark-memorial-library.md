@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: CLARK_The_Country_Wife__1.jpg
-maker_image_id: '16669'
+published: true
 organization_id: '2013203'
 title: UCLA William Andrews Clark Memorial Library
 org_type: Nonprofit
@@ -40,5 +39,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102263'
+maker_image_file_name: CLARK_The_Country_Wife__1.jpg
+maker_image_id: '16669'
 
 ---

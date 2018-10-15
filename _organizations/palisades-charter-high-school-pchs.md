@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: XUlv1Zd4JZU
+published: true
 organization_id: '2015149'
 title: Palisades Charter High School (PCHS)
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102226'
+youtube_video_identifier: XUlv1Zd4JZU
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: jxDLaDNSLjo
+published: true
 organization_id: '2015010'
 title: Anti-Recidivism Coalition
 org_type: Nonprofit
@@ -34,5 +34,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102017'
+youtube_video_identifier: jxDLaDNSLjo
 
 ---

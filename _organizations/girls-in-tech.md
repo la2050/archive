@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016089'
 title: Girls in Tech
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016125'
 title: LA Voice
 org_type: Nonprofit

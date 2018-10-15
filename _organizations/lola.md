@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018069'
 title: LOLA
 org_type: Forprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: JVyDVToMVoo
+published: true
 organization_id: '2014063'
 title: NextStage Agency
 org_type: Forprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102124'
+youtube_video_identifier: JVyDVToMVoo
 
 ---

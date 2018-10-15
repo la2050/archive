@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 0qhd1kRJ698
+published: true
 organization_id: '2015138'
 title: Microenterprise.org
 org_type: Forprofit
@@ -31,5 +31,6 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+youtube_video_identifier: 0qhd1kRJ698
 
 ---

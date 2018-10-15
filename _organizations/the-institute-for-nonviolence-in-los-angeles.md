@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 69OXVYZ15kU
+published: true
 organization_id: '2015201'
 title: The Institute for Nonviolence in Los Angeles
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
   project_ids:
     - '5102303'
     - '3102157'
+youtube_video_identifier: 69OXVYZ15kU
 
 ---

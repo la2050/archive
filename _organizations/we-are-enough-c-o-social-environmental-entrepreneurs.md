@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018136'
 title: We Are Enough c/o Social & Environmental Entrepreneurs
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: XYkDHo1jJ1c
+published: true
 organization_id: '2015226'
 title: Wise Guys Events
 org_type: Forprofit
@@ -29,5 +29,6 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+youtube_video_identifier: XYkDHo1jJ1c
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: civictechusc_neighborhood_LA2050.png
-maker_image_id: '23887'
+published: true
 organization_id: '2015035'
 title: Civic Tech USC
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102064'
+maker_image_file_name: civictechusc_neighborhood_LA2050.png
+maker_image_id: '23887'
 
 ---

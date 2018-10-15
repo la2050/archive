@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Shank_130920_453.jpg
-maker_image_id: '21753'
+published: true
 organization_id: '2014056'
 title: Los Angeles Performance Practice
 org_type: Forprofit
@@ -31,5 +30,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: Shank_130920_453.jpg
+maker_image_id: '21753'
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Eco_Civ.png
-maker_image_id: '23521'
+published: true
 organization_id: '2015150'
 title: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
 org_type: Nonprofit
@@ -36,5 +35,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102227'
+maker_image_file_name: Eco_Civ.png
+maker_image_id: '23521'
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: NNetdspYB4M
+published: true
 organization_id: '2015197'
 title: The Center of Medical Multimedia Education and Technology (COMMET)
 org_type: Nonprofit
@@ -38,5 +38,6 @@ aggregated:
   project_ids:
     - '5102297'
     - '4102216'
+youtube_video_identifier: NNetdspYB4M
 
 ---

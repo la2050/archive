@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018092'
 title: One Degree
 org_type: Nonprofit

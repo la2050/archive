@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: LDkB_pxZu2k
+published: true
 organization_id: '2013174'
 title: Streetcraft LA
 org_type: Nonprofit
@@ -53,5 +53,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102239'
+youtube_video_identifier: LDkB_pxZu2k
 
 ---

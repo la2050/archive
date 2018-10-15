@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016146'
 title: Melrose Elementary PTO
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: EKIPkidswithwalkingsticks.png
-maker_image_id: '23519'
+published: true
 organization_id: '2015142'
 title: National Park Foundation
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102217'
+maker_image_file_name: EKIPkidswithwalkingsticks.png
+maker_image_id: '23519'
 
 ---

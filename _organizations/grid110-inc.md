@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018049'
 title: 'Grid110, Inc.'
 org_type: Nonprofit

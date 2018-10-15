@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: DRehRt5n68c
+published: true
 organization_id: '2014050'
 title: 'Law Soup, Inc.'
 org_type: Forprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '5102162'
+youtube_video_identifier: DRehRt5n68c
 
 ---

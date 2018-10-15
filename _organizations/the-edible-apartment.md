@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016216'
 title: The Edible Apartment
 org_type: Nonprofit

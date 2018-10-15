@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018045'
 title: Girls Academic Leadership Academy (GALA)
 org_type: Nonprofit

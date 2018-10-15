@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016137'
 title: Los Angeles Magazine
 org_type: Forprofit

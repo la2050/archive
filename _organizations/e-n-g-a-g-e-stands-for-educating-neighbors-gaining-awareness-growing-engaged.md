@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: HtWxHzKO0zY
+published: true
 organization_id: '2013054'
 title: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Engaged
 org_type: For profit
@@ -63,5 +63,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102032'
+youtube_video_identifier: HtWxHzKO0zY
 
 ---

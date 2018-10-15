@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018102'
 title: REGIONAL.LA
 org_type: Social enterprise or Bcorps

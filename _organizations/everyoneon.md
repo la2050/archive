@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016074'
 title: EveryoneOn
 org_type: Nonprofit

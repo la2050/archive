@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016057'
 title: Continuous Good
 org_type: Forprofit

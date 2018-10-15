@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: G4cMVQVTBkM
+published: true
 organization_id: '2014089'
 title: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102089'
+youtube_video_identifier: G4cMVQVTBkM
 
 ---

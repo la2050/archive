@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018061'
 title: LA Compost
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: AxSBrochure_Cover_v2.jpg
-maker_image_id: '16490'
+published: true
 organization_id: '2013152'
 title: Pasadena Arts Council
 org_type: Nonprofit
@@ -57,5 +56,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102214'
+maker_image_file_name: AxSBrochure_Cover_v2.jpg
+maker_image_id: '16490'
 
 ---

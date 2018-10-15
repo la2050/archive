@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: _MG_9694.JPG
-maker_image_id: '23240'
+published: true
 organization_id: '2015187'
 title: 'Southern California College Access Network, a Project of Community Partners'
 org_type: Nonprofit
@@ -38,5 +37,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102276'
+maker_image_file_name: _MG_9694.JPG
+maker_image_id: '23240'
 
 ---

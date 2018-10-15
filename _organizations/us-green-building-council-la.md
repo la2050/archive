@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016249'
 title: US Green Building Council-LA
 org_type: Nonprofit

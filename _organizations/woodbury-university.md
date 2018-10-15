@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Patch_2.jpg
-maker_image_id: '21934'
+published: true
 organization_id: '2014227'
 title: Woodbury University
 org_type: Nonprofit
@@ -28,5 +27,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102187'
+maker_image_file_name: Patch_2.jpg
+maker_image_id: '21934'
 
 ---

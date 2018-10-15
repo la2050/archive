@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: community_ambassdor_graphic_button_graphic.jpg
-maker_image_id: '21941'
+published: true
 organization_id: '2015008'
 title: American Red Cross Los Angeles Region
 org_type: Nonprofit
@@ -45,5 +44,7 @@ aggregated:
     - '5102015'
     - '4102192'
     - '3102018'
+maker_image_file_name: community_ambassdor_graphic_button_graphic.jpg
+maker_image_id: '21941'
 
 ---

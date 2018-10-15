@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016258'
 title: Worthy of Love
 org_type: Nonprofit

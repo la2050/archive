@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016126'
 title: LAND (Los Angeles Nomadic Division)
 org_type: Nonprofit

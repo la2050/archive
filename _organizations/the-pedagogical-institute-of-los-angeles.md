@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016229'
 title: The Pedagogical Institute of Los Angeles
 org_type: Nonprofit

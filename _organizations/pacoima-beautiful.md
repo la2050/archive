@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016161'
 title: Pacoima Beautiful
 org_type: Nonprofit

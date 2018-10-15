@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016054'
 title: Compassionate Santa Monica
 org_type: Nonprofit

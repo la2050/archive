@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016061'
 title: Covenant House California
 org_type: Nonprofit

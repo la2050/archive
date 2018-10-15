@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 1836681_290007847815931_949505580_o(1).jpg
-maker_image_id: '22797'
+published: true
 organization_id: '2014092'
 title: The L.A. Fort
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102092'
+maker_image_file_name: 1836681_290007847815931_949505580_o(1).jpg
+maker_image_id: '22797'
 
 ---

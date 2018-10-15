@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018038'
 title: EverWild
 org_type: Nonprofit

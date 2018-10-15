@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
-maker_image_id: '21550'
+published: true
 organization_id: '2014069'
 title: Play the LA River
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102070'
+maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
+maker_image_id: '21550'
 
 ---

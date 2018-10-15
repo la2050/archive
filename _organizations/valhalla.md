@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: valhalla550.jpg
-maker_image_id: '17236'
+published: true
 organization_id: '2013211'
 title: ValhalLA
 org_type: Nonprofit
@@ -46,5 +45,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102269'
+maker_image_file_name: valhalla550.jpg
+maker_image_id: '17236'
 
 ---

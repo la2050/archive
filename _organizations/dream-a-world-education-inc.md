@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Hearts9.jpg
-maker_image_id: '22600'
+published: true
 organization_id: '2014133'
 title: 'Dream A World Education, Inc.'
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102123'
+maker_image_file_name: Hearts9.jpg
+maker_image_id: '22600'
 
 ---

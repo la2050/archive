@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016147'
 title: METRO Charter Elementary School
 org_type: Nonprofit

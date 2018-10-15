@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: fMyc7c0Ylc4
+published: true
 organization_id: '2015186'
 title: Southeast Asian Community Alliance (SEACA) and Public Counsel
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
   project_ids:
     - '5102275'
     - '4102213'
+youtube_video_identifier: fMyc7c0Ylc4
 
 ---

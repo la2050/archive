@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: xzNGKe7E2iE
+published: true
 organization_id: '2014006'
 title: 'Anonymous Good [AG] is a project of Voices4Freedom'
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102007'
+youtube_video_identifier: xzNGKe7E2iE
 
 ---

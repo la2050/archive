@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018036'
 title: Eayikes
 org_type: Nonprofit

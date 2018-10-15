@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: FCC_logo_master_jpeg.jpg
-maker_image_id: '16488'
+published: true
 organization_id: '2013073'
 title: Foster Care Counts
 org_type: Nonprofit
@@ -68,5 +67,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102131'
+maker_image_file_name: FCC_logo_master_jpeg.jpg
+maker_image_id: '16488'
 
 ---

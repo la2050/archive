@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Access_LA_Rt_copy.jpg
-maker_image_id: '16858'
+published: true
 organization_id: '2013148'
 title: Outfest
 org_type: Nonprofit
@@ -41,5 +40,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102211'
+maker_image_file_name: Access_LA_Rt_copy.jpg
+maker_image_id: '16858'
 
 ---

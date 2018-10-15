@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: zwlibJLtPOE
+published: true
 organization_id: '2013199'
 title: TRUST South LA (Tenemos que Reclamar y Unidos Salvar la Tierra-South LA)
 org_type: Nonprofit
@@ -100,5 +100,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102259'
+youtube_video_identifier: zwlibJLtPOE
 
 ---

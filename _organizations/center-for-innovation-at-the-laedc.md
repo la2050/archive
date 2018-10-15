@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Screen_Shot_2015-10-08_at_4.09.45_PM.png
-maker_image_id: '24136'
+published: true
 organization_id: '2015028'
 title: Center for Innovation at the LAEDC
 org_type: Nonprofit
@@ -40,5 +39,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102048'
+maker_image_file_name: Screen_Shot_2015-10-08_at_4.09.45_PM.png
+maker_image_id: '24136'
 
 ---

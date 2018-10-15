@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016069'
 title: El Porto Shark
 org_type: Forprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: QQpabiJ0uus
+published: true
 organization_id: '2014163'
 title: Little Tokyo Community Council
 org_type: Nonprofit
@@ -28,5 +28,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102146'
+youtube_video_identifier: QQpabiJ0uus
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016159'
 title: Office of Exposition Park Management
 org_type: Government

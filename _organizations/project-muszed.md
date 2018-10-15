@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Slide1.JPG
-maker_image_id: '23245'
+published: true
 organization_id: '2015160'
 title: Project MuszEd
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102244'
+maker_image_file_name: Slide1.JPG
+maker_image_id: '23245'
 
 ---

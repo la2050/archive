@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: q9wQFn0hPbk
+published: true
 organization_id: '2014012'
 title: 'B.R.I.D.G.E Theatre Project (fiscal sponsor, The Attic Theatre)'
 org_type: Nonprofit
@@ -34,5 +34,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102013'
+youtube_video_identifier: q9wQFn0hPbk
 
 ---

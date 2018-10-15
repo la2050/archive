@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018055'
 title: Investing in Place
 org_type: Nonprofit

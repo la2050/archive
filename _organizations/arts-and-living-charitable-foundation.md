@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016013'
 title: Arts and Living Charitable Foundation
 org_type: Nonprofit

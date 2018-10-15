@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: less.png
-maker_image_id: '21591'
+published: true
 organization_id: '2014160'
 title: Learning Equipment Supply Service
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102143'
+maker_image_file_name: less.png
+maker_image_id: '21591'
 
 ---

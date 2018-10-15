@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 0SGeH9Mnt2k
+published: true
 organization_id: '2014091'
 title: The Industry
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102091'
+youtube_video_identifier: 0SGeH9Mnt2k
 
 ---

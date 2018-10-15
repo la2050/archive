@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA_2050__r.jpg
-maker_image_id: '16553'
+published: true
 organization_id: '2013207'
 title: UNITEDLAB
 org_type: For profit
@@ -53,5 +52,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102112'
+maker_image_file_name: LA_2050__r.jpg
+maker_image_id: '16553'
 
 ---

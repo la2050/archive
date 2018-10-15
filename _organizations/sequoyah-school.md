@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: DSC_0342.jpg
-maker_image_id: '23515'
+published: true
 organization_id: '2015178'
 title: Sequoyah School
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102265'
+maker_image_file_name: DSC_0342.jpg
+maker_image_id: '23515'
 
 ---

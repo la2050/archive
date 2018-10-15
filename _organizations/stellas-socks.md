@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018112'
 title: Stella's Socks
 org_type: Nonprofit

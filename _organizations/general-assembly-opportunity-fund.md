@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: CMmY955jD5A
+published: true
 organization_id: '2014144'
 title: General Assembly Opportunity Fund
 org_type: Forprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102064'
+youtube_video_identifier: CMmY955jD5A
 
 ---

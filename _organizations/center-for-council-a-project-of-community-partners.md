@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018015'
 title: 'Center for Council, a project of Community Partners'
 org_type: Nonprofit

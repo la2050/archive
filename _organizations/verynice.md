@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: verynice.jpeg
-maker_image_id: '17230'
+published: true
 organization_id: '2013214'
 title: verynice
 org_type: For profit
@@ -60,5 +59,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102114'
+maker_image_file_name: verynice.jpeg
+maker_image_id: '17230'
 
 ---

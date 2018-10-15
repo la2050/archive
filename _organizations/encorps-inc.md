@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016071'
 title: 'EnCorps, Inc.'
 org_type: Nonprofit

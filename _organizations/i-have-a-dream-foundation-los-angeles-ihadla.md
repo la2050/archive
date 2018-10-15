@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: QV1lB2SqWos
+published: true
 organization_id: '2015001'
 title: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
 org_type: Nonprofit
@@ -36,5 +36,6 @@ aggregated:
   project_ids:
     - '5102001'
     - '3102243'
+youtube_video_identifier: QV1lB2SqWos
 
 ---

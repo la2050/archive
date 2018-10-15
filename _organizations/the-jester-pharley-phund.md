@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016223'
 title: The Jester & Pharley Phund
 org_type: Nonprofit

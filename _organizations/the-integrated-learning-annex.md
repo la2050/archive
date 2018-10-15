@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016221'
 title: The integrated Learning Annex
 org_type: Forprofit

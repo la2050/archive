@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2050-image-4.jpg
-maker_image_id: '22052'
+published: true
 organization_id: '2014007'
 title: App of Life
 org_type: Forprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2014'
   project_ids:
     - '5102108'
+maker_image_file_name: LA2050-image-4.jpg
+maker_image_id: '22052'
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: SCI-Arc-HFH_FINAL.jpg
-maker_image_id: '21961'
+published: true
 organization_id: '2014191'
 title: Southern California Institute of Architecture (SCI-Arc)
 org_type: Nonprofit
@@ -27,5 +26,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102163'
+maker_image_file_name: SCI-Arc-HFH_FINAL.jpg
+maker_image_id: '21961'
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Proposed_Space_for_Venice_Arts_Commons.jpg
-maker_image_id: '22565'
+published: true
 organization_id: '2014015'
 title: Beyond Baroque Literary Arts Center
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102016'
+maker_image_file_name: Proposed_Space_for_Venice_Arts_Commons.jpg
+maker_image_id: '22565'
 
 ---

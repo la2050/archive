@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016073'
 title: Equallet
 org_type: Forprofit

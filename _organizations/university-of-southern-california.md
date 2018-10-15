@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018133'
 title: University of Southern California
 org_type: Nonprofit

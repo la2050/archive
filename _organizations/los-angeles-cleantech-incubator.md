@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016134'
 title: Los Angeles Cleantech Incubator
 org_type: Nonprofit

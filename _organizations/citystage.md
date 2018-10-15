@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 2050_image.jpg
-maker_image_id: '16321'
+published: true
 organization_id: '2013039'
 title: CITYstage
 org_type: Nonprofit
@@ -56,5 +55,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102073'
+maker_image_file_name: 2050_image.jpg
+maker_image_id: '16321'
 
 ---

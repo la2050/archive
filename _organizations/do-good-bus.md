@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: T17vBV41x0g
+published: true
 organization_id: '2014026'
 title: Do Good Bus
 org_type: Forprofit
@@ -34,5 +34,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102025'
+youtube_video_identifier: T17vBV41x0g
 
 ---

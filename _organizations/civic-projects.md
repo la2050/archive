@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2013040'
 title: CIVIC PROJECTS
 org_type: Nonprofit

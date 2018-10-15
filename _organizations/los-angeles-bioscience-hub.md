@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: UNbHPa1n2g4
+published: true
 organization_id: '2015119'
 title: Los Angeles Bioscience Hub
 org_type: Nonprofit
@@ -36,5 +36,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102184'
+youtube_video_identifier: UNbHPa1n2g4
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016014'
 title: Arts Bridging the Gap
 org_type: Nonprofit

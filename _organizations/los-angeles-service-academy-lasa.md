@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018077'
 title: Los Angeles Service Academy (LASA)
 org_type: Nonprofit

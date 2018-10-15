@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ytlmnttRP70
+published: true
 organization_id: '2014008'
 title: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102009'
+youtube_video_identifier: ytlmnttRP70
 
 ---

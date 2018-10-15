@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 2050_Lg.jpg
-maker_image_id: '23612'
+published: true
 organization_id: '2015063'
 title: Farm LA
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102100'
+maker_image_file_name: 2050_Lg.jpg
+maker_image_id: '23612'
 
 ---

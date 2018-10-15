@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: YufCYg-BYaY
+published: true
 organization_id: '2015022'
 title: Bruce Lee Foundation
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102036'
+youtube_video_identifier: YufCYg-BYaY
 
 ---

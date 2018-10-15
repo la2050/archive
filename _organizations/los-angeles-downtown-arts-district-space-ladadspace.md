@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: cVrWTvw8gFc
+published: true
 organization_id: '2014055'
 title: Los Angeles Downtown Arts District Space (LADADSpace)
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102056'
+youtube_video_identifier: cVrWTvw8gFc
 
 ---

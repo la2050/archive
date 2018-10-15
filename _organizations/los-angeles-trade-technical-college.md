@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: connect_SLATEZsigners.jpg
-maker_image_id: '24040'
+published: true
 organization_id: '2015130'
 title: Los Angeles Trade-Technical College
 org_type: Other
@@ -46,5 +45,7 @@ aggregated:
     - '5102197'
     - '4102203'
     - '4102204'
+maker_image_file_name: connect_SLATEZsigners.jpg
+maker_image_id: '24040'
 
 ---

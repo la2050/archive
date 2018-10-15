@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Drought_Solutions_3.jpg
-maker_image_id: '23280'
+published: true
 organization_id: '2015091'
 title: Individual submitter
 org_type: Other
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102141'
+maker_image_file_name: Drought_Solutions_3.jpg
+maker_image_id: '23280'
 
 ---

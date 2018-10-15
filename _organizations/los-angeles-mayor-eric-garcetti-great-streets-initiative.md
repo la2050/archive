@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Screen_Shot_2015-10-07_at_4.00.20_PM.png
-maker_image_id: '24129'
+published: true
 organization_id: '2015126'
 title: Los Angeles Mayor Eric Garcetti Great Streets Initiative
 org_type: Government
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102191'
+maker_image_file_name: Screen_Shot_2015-10-07_at_4.00.20_PM.png
+maker_image_id: '24129'
 
 ---

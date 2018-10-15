@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: OSdBClactgc
+published: true
 organization_id: '2013127'
 title: Los Angeles Youth Orchestra
 org_type: Nonprofit
@@ -46,5 +46,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102191'
+youtube_video_identifier: OSdBClactgc
 
 ---

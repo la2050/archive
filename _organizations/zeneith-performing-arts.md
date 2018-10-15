@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016263'
 title: Zeneith Performing Arts
 org_type: Nonprofit

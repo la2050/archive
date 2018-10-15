@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: scholarspic.jpg
-maker_image_id: '16254'
+published: true
 organization_id: '2013215'
 title: 'Walking Shield, Inc.'
 org_type: Nonprofit
@@ -49,5 +48,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102272'
+maker_image_file_name: scholarspic.jpg
+maker_image_id: '16254'
 
 ---

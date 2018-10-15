@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: DiU_9RR7ZvY
+published: true
 organization_id: '2014034'
 title: Experimental Half-Hour
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102035'
+youtube_video_identifier: DiU_9RR7ZvY
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: a-3Yo_Yz5Vc
+published: true
 organization_id: '2015099'
 title: 'Jumpstart For Young Children, Inc.'
 org_type: Nonprofit
@@ -37,5 +37,6 @@ aggregated:
   project_ids:
     - '5102153'
     - '3102161'
+youtube_video_identifier: a-3Yo_Yz5Vc
 
 ---

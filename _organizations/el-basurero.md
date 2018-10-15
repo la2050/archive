@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 20150904_101442.jpg
-maker_image_id: '23242'
+published: true
 organization_id: '2015057'
 title: El Basurero
 org_type: Other
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102092'
+maker_image_file_name: 20150904_101442.jpg
+maker_image_id: '23242'
 
 ---

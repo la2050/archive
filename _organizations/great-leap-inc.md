@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: gyQdQTAWs0U
+published: true
 organization_id: '2013084'
 title: 'Great Leap, Inc.'
 org_type: Nonprofit
@@ -64,5 +64,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102142'
+youtube_video_identifier: gyQdQTAWs0U
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 405.jpg
-maker_image_id: '20477'
+published: true
 organization_id: '2014142'
 title: Friends Of The Observatory (FOTO)
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102128'
+maker_image_file_name: 405.jpg
+maker_image_id: '20477'
 
 ---

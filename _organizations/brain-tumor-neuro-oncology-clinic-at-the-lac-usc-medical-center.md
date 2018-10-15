@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: BRAINCANCERLA2050.jpg
-maker_image_id: '16042'
+published: true
 organization_id: '2013022'
 title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
 org_type: Nonprofit
@@ -64,5 +63,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102041'
+maker_image_file_name: BRAINCANCERLA2050.jpg
+maker_image_id: '16042'
 
 ---

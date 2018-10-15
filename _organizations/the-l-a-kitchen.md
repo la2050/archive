@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: inC3OJbaTT4
+published: true
 organization_id: '2013190'
 title: The L.A. Kitchen
 org_type: Nonprofit
@@ -66,5 +66,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102251'
+youtube_video_identifier: inC3OJbaTT4
 
 ---

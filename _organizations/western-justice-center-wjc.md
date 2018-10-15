@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: FKuY_bTZzoM
+published: true
 organization_id: '2014224'
 title: Western Justice Center (WJC)
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102184'
+youtube_video_identifier: FKuY_bTZzoM
 
 ---

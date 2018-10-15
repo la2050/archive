@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016097'
 title: Healthy Living Productions
 org_type: Nonprofit

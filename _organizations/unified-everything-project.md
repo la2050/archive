@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016241'
 title: Unified Everything Project
 org_type: Nonprofit

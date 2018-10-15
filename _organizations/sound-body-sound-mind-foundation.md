@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016196'
 title: Sound Body Sound Mind Foundation
 org_type: Nonprofit

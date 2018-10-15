@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2050_JRG.jpg
-maker_image_id: '16877'
+published: true
 organization_id: '2013100'
 title: Jemmott Rollins Group
 org_type: For profit
@@ -82,5 +81,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102063'
+maker_image_file_name: LA2050_JRG.jpg
+maker_image_id: '16877'
 
 ---

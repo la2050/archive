@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016164'
 title: Patrick Henry Foundation
 org_type: Nonprofit

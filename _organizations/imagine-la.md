@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018054'
 title: Imagine LA
 org_type: Nonprofit

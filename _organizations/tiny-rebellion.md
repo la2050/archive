@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: nu53ttV7jQI
+published: true
 organization_id: '2015213'
 title: Tiny Rebellion
 org_type: Forprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '8102127'
+youtube_video_identifier: nu53ttV7jQI
 
 ---

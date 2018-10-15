@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: XoT_36T5K5E
+published: true
 organization_id: '2014014'
 title: Beauty Bus Foundation
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102015'
+youtube_video_identifier: XoT_36T5K5E
 
 ---

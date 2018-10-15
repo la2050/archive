@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: gzqE0ygfM8Y
+published: true
 organization_id: '2014093'
 title: The La Brea Tar Pits Museum
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102093'
+youtube_video_identifier: gzqE0ygfM8Y
 
 ---

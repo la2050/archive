@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Stem_pic.jpg
-maker_image_id: '16366'
+published: true
 organization_id: '2013106'
 title: Kids Progress Inc.
 org_type: Nonprofit
@@ -60,5 +59,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102165'
+maker_image_file_name: Stem_pic.jpg
+maker_image_id: '16366'
 
 ---

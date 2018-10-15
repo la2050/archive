@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016039'
 title: City of Los Angeles Department of Recreation and Parks
 org_type: Government

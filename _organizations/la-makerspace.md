@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: V0_Km6YYSbo
+published: true
 organization_id: '2015108'
 title: LA Makerspace
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102168'
+youtube_video_identifier: V0_Km6YYSbo
 
 ---

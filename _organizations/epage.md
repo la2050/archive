@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016072'
 title: EPage
 org_type: Forprofit

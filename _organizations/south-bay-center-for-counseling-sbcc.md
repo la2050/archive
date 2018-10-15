@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016197'
 title: South Bay Center for Counseling (SBCC)
 org_type: Nonprofit
