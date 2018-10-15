@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: c2e6ERN-dS8
 organization_id: '2013130'
-organization_website:
-  - 'http://machineproject.com/'
-ein: '753193159'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=753193159'
-tags_indicators:
-  - Art
-  - Community gatherings
-  - Arts & cultural vitality
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Machine Project
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/c2e6ERN-dS8/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Since 2003, Machine Project has built a national reputation for nurturing
   innovative, experimental modes of arts engagement by framing challenging arts
@@ -36,6 +23,21 @@ org_summary: >-
    
    
    * Supported the creation of new work by hundreds of artists. This includes direct financial support, often presenting their first solo show or first museum show and providing professional video documentation of their work. <p>
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=753193159'
+organization_website:
+  - 'http://machineproject.com/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '753193159'
+zip: ''
+project_image: 'https://img.youtube.com/vi/c2e6ERN-dS8/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102194'
@@ -43,15 +45,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/machineproject.html'
   year_submitted:
     - '2013'
-title: Machine Project
-extrapolated_project_ids:
-  - '3102194'
-project_titles_from_extrapolated_project_ids:
-  - 'Everything Everywhere: LA 2050'
-original_project_titles:
-  - 'Everything, Everywhere: LA 2050'
 original_project_ids:
   - '3102194'
-youtube_video_identifier: c2e6ERN-dS8
+original_project_titles:
+  - 'Everything, Everywhere: LA 2050'
+extrapolated_project_ids:
+  - '3102194'
+extrapolated_project_titles:
+  - 'Everything Everywhere: LA 2050'
 
 ---

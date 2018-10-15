@@ -1,24 +1,25 @@
 ---
 organization_id: '2018089'
-organization_website:
-  - www.nhslacounty.org
-ein: '953938955'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953938955'
-tags_indicators:
-  - Affordable housing
-  - Housing & homelessness
-twitter: nhslacounty
-instagram: nhslacounty
-facebook: NHSLAC
+title: Neighborhood Housing Services of Los Angeles County
 org_type: Nonprofit
-project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/neighborhood-housing-services-of-los-angeles-county.jpg
-project_video: 'https://youtu.be/W_HksfcqY6U'
 org_summary: >-
   NHS strengthens neighborhoods through the development of quality affordable
   housing, the creation of affordable homeownership opportunities, and by
   increasing the financial independence of families.
+tags_indicators:
+  - Affordable housing
+  - Housing & homelessness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953938955'
+organization_website:
+  - www.nhslacounty.org
+twitter: nhslacounty
+instagram: nhslacounty
+facebook: NHSLAC
+ein: '953938955'
+zip: ''
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/neighborhood-housing-services-of-los-angeles-county.jpg
+project_video: 'https://youtu.be/W_HksfcqY6U'
 aggregated:
   project_ids:
     - '8102089'
@@ -36,24 +37,23 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
-title: Neighborhood Housing Services of Los Angeles County
+original_project_ids:
+  - '4102155'
+  - '6102165'
+  - '8102089'
+original_project_titles:
+  - 'Center for Sustainable Communities '
+  - Center for Sustainable Communities - Compton
+  - 'Center for Sustainable Communities in Compton, CA'
 extrapolated_project_ids:
   - '8102089'
   - '6102165'
   - '5102219'
   - '4102155'
-project_titles_from_extrapolated_project_ids:
+extrapolated_project_titles:
   - Center for Sustainable Communities - Compton
   - Center for Sustainable Communities
   - The Center for Sustainable Communities in Compton CA
   - Center for Sustainable Communities in Compton CA
-original_project_titles:
-  - 'Center for Sustainable Communities '
-  - Center for Sustainable Communities - Compton
-  - 'Center for Sustainable Communities in Compton, CA'
-original_project_ids:
-  - '4102155'
-  - '6102165'
-  - '8102089'
 
 ---

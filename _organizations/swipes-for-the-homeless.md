@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: h1GATPgLPxQ
 organization_id: '2013178'
-organization_website:
-  - 'http://swipesforthehomeless.org/'
-ein: '452038035'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452038035'
-tags_indicators:
-  - Access to healthy food
-  - Homelessness
-  - Health
-  - Housing & homelessness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Swipes for the Homeless
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Since its humble beginnings, Swipes for the Homeless has donated over 35,000
   pounds of food just in Los Angeles and thousands of additional meals around
@@ -41,6 +28,21 @@ org_summary: >-
   various recognitions, we have been blessed with the opportunity to bring this
   important cause to further light on the national media scale, and would like
   to thank all of our supporters who have been with us every step of the way.
+tags_indicators:
+  - Access to healthy food
+  - Homelessness
+  - Health
+  - Housing & homelessness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452038035'
+organization_website:
+  - 'http://swipesforthehomeless.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '452038035'
+zip: ''
+project_image: 'https://img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102241'
@@ -48,19 +50,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
   year_submitted:
     - '2013'
-title: Swipes for the Homeless
-extrapolated_project_ids:
+original_project_ids:
   - '3102241'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Students Working Together to Combat Homelessness and Reduce Food Waste on
-    Campus
 original_project_titles:
   - >-
     Students Working Together to Combat Homelessness and Reduce Food Waste on
     Campus
-original_project_ids:
+extrapolated_project_ids:
   - '3102241'
-youtube_video_identifier: h1GATPgLPxQ
+extrapolated_project_titles:
+  - >-
+    Students Working Together to Combat Homelessness and Reduce Food Waste on
+    Campus
 
 ---

@@ -1,17 +1,9 @@
 ---
+maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
+maker_image_id: '17051'
 organization_id: '2013103'
-organization_website:
-  - www.kcet.org
-ein: '952211661'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952211661'
-twitter: ''
-instagram: ''
-facebook: ''
+title: KCETLink
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385
-project_video: ''
 org_summary: >-
   Since 1964, KCET has served Los Angeles and an 11-county region of Southern
   and Central California. We reach one of the most diverse market areas in the
@@ -47,6 +39,17 @@ org_summary: >-
    
    
    Since its launch in May 2012, our transmedia, cultural journalism program, Artbound, has been named “Best Arts & Culture Site” at the 2012 LA Weekly Web Awards; has won a National Entertainment Journalism Award for “Best Documentary or Special Program, Short” from the Los Angeles Press Club; and has received two Golden Mike Awards from the Radio & Television News Association of Southern California.
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952211661'
+organization_website:
+  - www.kcet.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '952211661'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102163'
@@ -57,19 +60,16 @@ aggregated:
   year_submitted:
     - '2013'
     - '2013'
-title: KCETLink
-extrapolated_project_ids:
+original_project_ids:
   - '3102163'
-  - '3102164'
-project_titles_from_extrapolated_project_ids:
-  - Ballot Brief  Ground Game
-  - Ballot Brief  Ground Game
 original_project_titles:
   - Artbound - Phase II
   - Ballot Brief - Ground Game
-original_project_ids:
+extrapolated_project_ids:
   - '3102163'
-maker_image_id: '17051'
-maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
+  - '3102164'
+extrapolated_project_titles:
+  - Ballot Brief  Ground Game
+  - Ballot Brief  Ground Game
 
 ---

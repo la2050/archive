@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: ZBTmjmoABZE
 organization_id: '2013156'
-organization_website:
-  - 'https://www.facebook.com/ProjectFoodLosAngeles?fref=ts'
-ein: '952803401'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952803401'
-tags_indicators:
-  - Access to healthy food
-  - Health
-twitter: ''
-instagram: ''
-facebook: ''
+title: Project Food LA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   When the City of Los Angeles passed a moratorium on new fast food restaurants
   in 2008, Project Food LA (PFLA) was formed to bring diverse, creative voices
@@ -70,6 +59,19 @@ org_summary: >-
    
    
    In addition to these past events, the Potluck Truck is something we have discussed for quite a while. Currently, events are being planned around the conflict between indigenous Mexican farmers and the Monsanto Corporation as big agriculture attempts to take over the Mexican production of corn.
+tags_indicators:
+  - Access to healthy food
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952803401'
+organization_website:
+  - 'https://www.facebook.com/ProjectFoodLosAngeles?fref=ts'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '952803401'
+zip: ''
+project_image: 'https://img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102221'
@@ -77,15 +79,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/potlucktruck.html'
   year_submitted:
     - '2013'
-title: Project Food LA
-extrapolated_project_ids:
-  - '3102221'
-project_titles_from_extrapolated_project_ids:
-  - Potluck Truck
-original_project_titles:
-  - Potluck Truck
 original_project_ids:
   - '3102221'
-youtube_video_identifier: ZBTmjmoABZE
+original_project_titles:
+  - Potluck Truck
+extrapolated_project_ids:
+  - '3102221'
+extrapolated_project_titles:
+  - Potluck Truck
 
 ---

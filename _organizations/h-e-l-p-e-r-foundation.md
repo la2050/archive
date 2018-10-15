@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: Helper_Logo.jpg
+maker_image_id: '17077'
 organization_id: '2013086'
-organization_website:
-  - www.helperfoundation.org
-ein: '954759013'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954759013'
-tags_indicators:
-  - Community safety
-  - Workforce development
-  - Public safety & public space
-  - Income & employment
-twitter: ''
-instagram: ''
-facebook: ''
+title: H.E.L.P.E.R. Foundation
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385
-project_video: ''
 org_summary: >-
   V2K HELPER Foundation’s overarching achievement is having won the trust of the
   community it serves. The organization has been a resource for families for
@@ -75,6 +62,22 @@ org_summary: >-
    
    
    We provide a myriad of services throughout Los Angeles County, with primary emphasis in Venice Beach and South Central Los Angeles. Our academic arm provides a professionally and socially enriched facility for graduate and undergraduate training. Venice 2000/ H.E.L.P.E.R. Foundation is considered to be a model at-risk youth service facility and therefore attracts interns and social work students from major universities, such as USC, Loyola Marymount University, and University of California Los Angeles. We subscribe to comprehensive, integrated, community-based collaborative approach providing services to youth that enhances community safety while strengthening and preserving families. Our guiding philosophy is that children and youth must be preserved if the integrity of our society at-large is to be preserved. If families are to be responsible units, they must have access to healthy living environments, adequate food, and education for all its members, employment, and access to health services and freedom from gang, domestic and civil violence.
+tags_indicators:
+  - Community safety
+  - Workforce development
+  - Public safety & public space
+  - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954759013'
+organization_website:
+  - www.helperfoundation.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954759013'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102143'
@@ -82,16 +85,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
   year_submitted:
     - '2013'
-title: H.E.L.P.E.R. Foundation
-extrapolated_project_ids:
-  - '3102143'
-project_titles_from_extrapolated_project_ids:
-  - Youth Outreach Unit Together We Create a Better Y.O.U.
-original_project_titles:
-  - Youth Outreach Unit "Together We Create a Better Y.O.U."
 original_project_ids:
   - '3102143'
-maker_image_id: '17077'
-maker_image_file_name: Helper_Logo.jpg
+original_project_titles:
+  - Youth Outreach Unit "Together We Create a Better Y.O.U."
+extrapolated_project_ids:
+  - '3102143'
+extrapolated_project_titles:
+  - Youth Outreach Unit Together We Create a Better Y.O.U.
 
 ---

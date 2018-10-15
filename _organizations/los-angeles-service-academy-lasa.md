@@ -1,26 +1,27 @@
 ---
 organization_id: '2018077'
-organization_website:
-  - 'http://laserviceacademy.org;'
-ein: '951644589'
-zip: '90019'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
+title: Los Angeles Service Academy (LASA)
+org_type: Nonprofit
+org_summary: >-
+  LASA combines fieldwork and student engagement to change the lives and career
+  paths of high school students in the region to become agents of change and
+  community building throughout LA.
 tags_indicators:
   - Teaching & mentorship
   - Voting & civic engagement
   - Education & youth
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
+organization_website:
+  - 'http://laserviceacademy.org;'
 twitter: LASA_ICW
 instagram: instagram.com/husc_icw
 facebook: facebook.com/husc.icw
-org_type: Nonprofit
+ein: '951644589'
+zip: '90019'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
 project_video: 'https://youtu.be/uGjAQ4LYDr8'
-org_summary: >-
-  LASA combines fieldwork and student engagement to change the lives and career
-  paths of high school students in the region to become agents of change and
-  community building throughout LA.
 aggregated:
   project_ids:
     - '8102077'
@@ -37,16 +38,15 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
-title: Los Angeles Service Academy (LASA)
-extrapolated_project_ids:
-  - '6102145'
-project_titles_from_extrapolated_project_ids:
-  - Los Angeles is a Puzzle; Together We Make Sense of It
-original_project_titles:
-  - Los Angeles is a Puzzle; Together We Make Sense of It
-  - Students Engaging Los Angeles
 original_project_ids:
   - '6102145'
   - '8102077'
+original_project_titles:
+  - Los Angeles is a Puzzle; Together We Make Sense of It
+  - Students Engaging Los Angeles
+extrapolated_project_ids:
+  - '6102145'
+extrapolated_project_titles:
+  - Los Angeles is a Puzzle; Together We Make Sense of It
 
 ---

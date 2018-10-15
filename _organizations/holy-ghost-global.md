@@ -1,23 +1,26 @@
 ---
+maker_image_file_name: interfaithsize.png
+maker_image_id: '21276'
 organization_id: '2014042'
-organization_website:
-  - holyghostglobal.com
-ein: '471412863'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471412863'
-tags_indicators:
-  - Community gatherings
-  - Social connectedness
-twitter: itsaboutgood
-instagram: itsaboutgood
-facebook: ''
+title: Holy Ghost Global
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21276%252Fdisplay%252Finterfaithsize.png=c570x385
-project_video: ''
 org_summary: >-
   Holy Ghost Global is a church without walls that celebrates diversity,
   healing, and empowerment through service, praise, and prayer.
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471412863'
+organization_website:
+  - holyghostglobal.com
+twitter: itsaboutgood
+instagram: itsaboutgood
+facebook: ''
+ein: '471412863'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21276%252Fdisplay%252Finterfaithsize.png=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '4102043'
@@ -25,16 +28,13 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
   year_submitted:
     - '2014'
-title: Holy Ghost Global
-extrapolated_project_ids:
-  - '4102091'
-project_titles_from_extrapolated_project_ids:
-  - 'Its About Good Interfaith Block Parties: Where Playing Becomes Praying'
-original_project_titles:
-  - 'It''s About Good Interfaith Block Parties: Where Playing Becomes Praying'
 original_project_ids:
   - '4102091'
-maker_image_id: '21276'
-maker_image_file_name: interfaithsize.png
+original_project_titles:
+  - 'It''s About Good Interfaith Block Parties: Where Playing Becomes Praying'
+extrapolated_project_ids:
+  - '4102091'
+extrapolated_project_titles:
+  - 'Its About Good Interfaith Block Parties: Where Playing Becomes Praying'
 
 ---

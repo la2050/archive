@@ -1,26 +1,27 @@
 ---
 organization_id: '2016027'
-organization_website:
-  - BUILD.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: BUILD
+org_type: Nonprofit
+org_summary: >-
+  BUILD uses entrepreneurship-based, experiential learning to engage students,
+  provide equitable educational opportunities and develop skills for high
+  school, college and career success.
 tags_indicators:
   - Teaching & mentorship
   - Entrepreneurship & innovation
   - Education & youth
   - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - BUILD.org
 twitter: BUILDinLA
 instagram: BUILD.org
 facebook: buildnational
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5864964105741-team90.jpg
 project_video: 'https://www.youtube.com/embed/zf4cRLVe4Co?rel=0&amp;showinfo=0'
-org_summary: >-
-  BUILD uses entrepreneurship-based, experiential learning to engage students,
-  provide equitable educational opportunities and develop skills for high
-  school, college and career success.
 aggregated:
   project_ids:
     - '6102023'
@@ -29,14 +30,13 @@ aggregated:
       https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
   year_submitted:
     - '2016'
-title: BUILD
-extrapolated_project_ids:
-  - '6102023'
-project_titles_from_extrapolated_project_ids:
-  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.'
-original_project_titles:
-  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.  '
 original_project_ids:
   - '6102023'
+original_project_titles:
+  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.  '
+extrapolated_project_ids:
+  - '6102023'
+extrapolated_project_titles:
+  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.'
 
 ---

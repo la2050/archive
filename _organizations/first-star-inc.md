@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: CZMjDcpz53c
 organization_id: '2013068'
-organization_website:
-  - www.firststar.org
-ein: '311719436'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719436'
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'First Star, Inc.'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Our series of groundbreaking Report Cards — which measure and compare how each
   state provides protection to maltreated children within the framework of its
@@ -31,6 +20,19 @@ org_summary: >-
    
    
    Our Foster Youth Academies, now operating in Los Angeles, CA, Rhode Island and the greater Washington, DC area, are inspiring, challenging and equipping foster youth in grades 8 through 10 for success in college and beyond. Students who remain in good standing are invited to continue in the Academy program — summer residential sessions, monthly workshop days, and our protected students’ social media site — each year through high school graduation. With the enthusiastic support of local public-private partnerships, including child welfare agencies and public schools, we have launched these three Academies in two years. To launch and operate Academies around the ï¿¼country, additional public-private partnerships are at work at six additional campuses across the nation.
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719436'
+organization_website:
+  - www.firststar.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '311719436'
+zip: ''
+project_image: 'https://img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102128'
@@ -38,15 +40,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/FirstStar.html'
   year_submitted:
     - '2013'
-title: 'First Star, Inc.'
-extrapolated_project_ids:
-  - '3102128'
-project_titles_from_extrapolated_project_ids:
-  - First Star UCLA Bruin Guardian Scholars Academy
-original_project_titles:
-  - First Star UCLA Bruin Guardian Scholars Academy
 original_project_ids:
   - '3102128'
-youtube_video_identifier: CZMjDcpz53c
+original_project_titles:
+  - First Star UCLA Bruin Guardian Scholars Academy
+extrapolated_project_ids:
+  - '3102128'
+extrapolated_project_titles:
+  - First Star UCLA Bruin Guardian Scholars Academy
 
 ---

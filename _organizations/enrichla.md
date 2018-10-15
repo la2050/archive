@@ -1,24 +1,26 @@
 ---
+youtube_video_identifier: 3CNwJdOyIDQ
 organization_id: '2014032'
-organization_website:
-  - 'http://www.enrichla.org'
-ein: '272797687'
-zip: '90027'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272797687'
+title: EnrichLA
+org_type: Nonprofit
+org_summary: >-
+  EnrichLA builds edible gardens and green spaces in local schools, and provides
+  garden based education in these schools!
 tags_indicators:
   - Access to healthy food
   - Access to parks & green space
   - Health
   - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272797687'
+organization_website:
+  - 'http://www.enrichla.org'
 twitter: www.twitter.com/enrichla
 instagram: www.instagram.com/enrichlagardens
 facebook: www.facebook.com/enrichla
-org_type: Nonprofit
+ein: '272797687'
+zip: '90027'
 project_image: 'http://enrichla.org/wp-content/uploads/2018/05/IMG_0804-1050x788.jpg'
 project_video: ''
-org_summary: >-
-  EnrichLA builds edible gardens and green spaces in local schools, and provides
-  garden based education in these schools!
 aggregated:
   project_ids:
     - '4102033'
@@ -29,19 +31,17 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
-title: EnrichLA
-extrapolated_project_ids:
-  - '4102065'
-  - '3102124'
-project_titles_from_extrapolated_project_ids:
-  - 75 School Gardens in Los Angeles Schools!
-  - EnrichLA A Garden in EVERY School!
-original_project_titles:
-  - 75 School Gardens in Los Angeles Schools!
-  - EnrichLA- A Garden in EVERY School!
 original_project_ids:
   - '3102124'
   - '4102065'
-youtube_video_identifier: 3CNwJdOyIDQ
+original_project_titles:
+  - 75 School Gardens in Los Angeles Schools!
+  - EnrichLA- A Garden in EVERY School!
+extrapolated_project_ids:
+  - '4102065'
+  - '3102124'
+extrapolated_project_titles:
+  - 75 School Gardens in Los Angeles Schools!
+  - EnrichLA A Garden in EVERY School!
 
 ---

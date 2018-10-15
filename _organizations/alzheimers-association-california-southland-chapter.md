@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: DVIx37igPg0
 organization_id: '2013009'
-organization_website:
-  - www.alz.org/socal
-ein: '953718119'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953718119'
-tags_indicators:
-  - Disability & aging
-  - Community health
-  - Mobility
-  - Health
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'Alzheimer''s Association, California Southland Chapter'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Founded by concerned family caregivers in 1980 and incorporated in 1981,
   the Alzheimer’s Association, California Southland Chapter is an independent
@@ -40,6 +27,21 @@ org_summary: >-
    
    
    <p>The challenge of delivering quality health care to people with dementia has also been addressed successfully by this chapter of the Association. These efforts have also led to national recognition. For example, a quality improvement project with Kaiser Permanente was awarded the American Society on Aging’s 2001 Award for Quality and Innovation in Managed Care and Aging. Our consumer activation project, Partnering with Your Doctor, was honored with the Archstone Foundation-American Public Health Association’s 2003 Award for Excellence in Program Innovation and adopted for national replication by the Alzheimer’s Association. It was also adopted in parts of Great Britain. The local chapter of the Alzheimer’s Association has led three statewide efforts to create and disseminate an evidence-based practice guideline that teaches primary care providers about quality post-diagnostic care for people with Alzheimer’s disease. This California Guideline for Alzheimer’s Disease Management became the stimulant for numerous quality improvement projects in health care organizations throughout California including Kaiser Permanente, Scripps Health Care, UC San Diego Health Care and SCAN Health Plan. This chapter also played a leadership role in the development of the State of California’s Alzheimer’s Disease Plan which was released in 2011.</p>
+tags_indicators:
+  - Disability & aging
+  - Community health
+  - Mobility
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953718119'
+organization_website:
+  - www.alz.org/socal
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '953718119'
+zip: ''
+project_image: 'https://img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102016'
@@ -47,19 +49,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
   year_submitted:
     - '2013'
-title: 'Alzheimer''s Association, California Southland Chapter'
-extrapolated_project_ids:
+original_project_ids:
   - '3102016'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Changing the Course of the Alzheimer’s Epidemic in L.A. County:  Early
-    Detection Counts Campaign
 original_project_titles:
   - >-
     Changing the Course of the Alzheimer’s Epidemic in L.A. County:  Early
     Detection Counts Campaign
-original_project_ids:
+extrapolated_project_ids:
   - '3102016'
-youtube_video_identifier: DVIx37igPg0
+extrapolated_project_titles:
+  - >-
+    Changing the Course of the Alzheimer’s Epidemic in L.A. County:  Early
+    Detection Counts Campaign
 
 ---

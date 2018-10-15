@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: poster1.jpg
+maker_image_id: '16740'
 organization_id: '2013105'
-organization_website:
-  - www.youth4c.com
-ein: '462375546'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Voting & civic engagement
-  - Teaching & mentorship
-  - Social connectedness
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Keely Hopkins & Associates
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16740%252Fdisplay%252Fposter1.jpg=c570x385
-project_video: ''
 org_summary: >-
   Youth 4C is a new project launched in 2013 by two young Los Angeles
   entrepreneurs. Having both grown up outside of Los Angeles, both Keely Hopkins
@@ -39,6 +26,22 @@ org_summary: >-
    
    
    Prior to launching Youth 4C, Keely Hopkins and Samuel Alleyne both came from non-profit and government relations backgrounds. Keely Hopkins, a government relations attorney and development specialist, has led statewide political campaigns, advocated on behalf of non-profits before state legislatures, and has led youth advocacy trainings in South Los Angeles. Samuel Alleyne, who specializes in project management and development strategy, comes from an extensive background in youth leadership and engagement. Samuel has served as a project coordinator the California Department of Public Health, has organized and led international youth campaigns, and has taught youth leadership and entrepreneurial classes at CSU and LACC.
+tags_indicators:
+  - Voting & civic engagement
+  - Teaching & mentorship
+  - Social connectedness
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - www.youth4c.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '462375546'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16740%252Fdisplay%252Fposter1.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102064'
@@ -46,16 +49,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'
   year_submitted:
     - '2013'
-title: Keely Hopkins & Associates
-extrapolated_project_ids:
-  - '3102064'
-project_titles_from_extrapolated_project_ids:
-  - LA2050 Youth 4C Leaders
-original_project_titles:
-  - LA2050 Youth 4C Leaders
 original_project_ids:
   - '3102064'
-maker_image_id: '16740'
-maker_image_file_name: poster1.jpg
+original_project_titles:
+  - LA2050 Youth 4C Leaders
+extrapolated_project_ids:
+  - '3102064'
+extrapolated_project_titles:
+  - LA2050 Youth 4C Leaders
 
 ---

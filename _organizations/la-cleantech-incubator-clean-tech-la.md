@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: f2SXn1p3d4I
 organization_id: '2013113'
-organization_website:
-  - 'http://laincubator.org'
-ein: '454998717'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454998717'
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Climate change
-  - Income & employment
-  - Environmental quality & sustainability
-twitter: ''
-instagram: ''
-facebook: ''
+title: LA Cleantech Incubator / Clean Tech LA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/f2SXn1p3d4I/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>CTLA: Created by the Mayor in 2009, CTLA is partnership of the region’s
   most important institutions dedicated to making Los Angles a huge green
@@ -29,6 +16,21 @@ org_summary: >-
    
    
    <p>LACI: In just 18 short months, LACI has created a vibrant cleantech innovation ecosystem that has spawned 14 new cleantech companies, attracted partnerships with industry/academia, and finalized the funding and planning for the $40M La Kretz Innovation Campus in the Cleantech Corridor.</p>
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Climate change
+  - Income & employment
+  - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454998717'
+organization_website:
+  - 'http://laincubator.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '454998717'
+zip: ''
+project_image: 'https://img.youtube.com/vi/f2SXn1p3d4I/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102170'
@@ -36,15 +38,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LACI.html'
   year_submitted:
     - '2013'
-title: LA Cleantech Incubator / Clean Tech LA
-extrapolated_project_ids:
-  - '3102170'
-project_titles_from_extrapolated_project_ids:
-  - Establishing a Hub for Cleantech Innovation and Job Creation
-original_project_titles:
-  - Establishing a Hub for Cleantech Innovation and Job Creation
 original_project_ids:
   - '3102170'
-youtube_video_identifier: f2SXn1p3d4I
+original_project_titles:
+  - Establishing a Hub for Cleantech Innovation and Job Creation
+extrapolated_project_ids:
+  - '3102170'
+extrapolated_project_titles:
+  - Establishing a Hub for Cleantech Innovation and Job Creation
 
 ---

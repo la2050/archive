@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: Poster2_smaller.jpg
+maker_image_id: '17284'
 organization_id: '2013062'
-organization_website:
-  - 'http://www.park-in-a-box.la'
-ein: 'ERW: 364519595 SALT: 271758961'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Access to parks & green space
-  - Arts & cultural vitality
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: ERW DESIGN + SALT Landscape Architects
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17284%252Fdisplay%252FPoster2_smaller.jpg=c570x385
-project_video: ''
 org_summary: >-
   ERW Design + SALT have partnered to develop the Park-in-a-Box concept. ERW
   Design (www.erwdesign.com) is an award-winning, multi-disciplinary
@@ -42,6 +29,22 @@ org_summary: >-
    
    
    Both SALT and ERW Design continue to seek unique opportunities to work closely with local constituencies to develop innovative approaches to remaking Los Angeles incrementally more humane and sustainable.
+tags_indicators:
+  - Art
+  - Access to parks & green space
+  - Arts & cultural vitality
+  - Public safety & public space
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.park-in-a-box.la'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: 'ERW: 364519595 SALT: 271758961'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17284%252Fdisplay%252FPoster2_smaller.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102036'
@@ -49,15 +52,12 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
   year_submitted:
     - '2013'
-title: ERW DESIGN + SALT Landscape Architects
-extrapolated_project_ids:
-  - '3102036'
-project_titles_from_extrapolated_project_ids:
-  - PARKINABOX
+original_project_ids: []
 original_project_titles:
   - PARK-IN-A-BOX
-original_project_ids: []
-maker_image_id: '17284'
-maker_image_file_name: Poster2_smaller.jpg
+extrapolated_project_ids:
+  - '3102036'
+extrapolated_project_titles:
+  - PARKINABOX
 
 ---

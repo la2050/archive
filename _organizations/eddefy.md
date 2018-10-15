@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: IYZkhNMTKrg
 organization_id: '2013055'
-organization_website:
-  - www.eddefy.com
-ein: '461912903'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: EDDEFY
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/IYZkhNMTKrg/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Ten years ago I was a schoolteacher for special education, focused on violent
   offenders age 12-21. 
@@ -83,6 +72,19 @@ org_summary: >-
    
    
    Our network collectively reaches over 100,000 experts in Los Angeles.
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - www.eddefy.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '461912903'
+zip: ''
+project_image: 'https://img.youtube.com/vi/IYZkhNMTKrg/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102035'
@@ -90,15 +92,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/MASTERY.html'
   year_submitted:
     - '2013'
-title: EDDEFY
-extrapolated_project_ids:
-  - '3102035'
-project_titles_from_extrapolated_project_ids:
-  - 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
-original_project_titles:
-  - 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
 original_project_ids:
   - '3102035'
-youtube_video_identifier: IYZkhNMTKrg
+original_project_titles:
+  - 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
+extrapolated_project_ids:
+  - '3102035'
+extrapolated_project_titles:
+  - 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
 
 ---

@@ -1,25 +1,26 @@
 ---
 organization_id: '2016124'
-organization_website:
-  - lapromisefund.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: LA Promise Fund
+org_type: Nonprofit
+org_summary: >-
+  The LA Promise Fund is a nonprofit organization dedicated to preparing Los
+  Angeles students for success in college, career, and life.
 tags_indicators:
   - Teaching & mentorship
   - Workforce development
   - Education & youth
   - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - lapromisefund.org
 twitter: LAPromiseFund
 instagram: LAFund
 facebook: lapromisefund
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4454572955741-team91.png
 project_video: 'https://www.youtube.com/embed/cVxDjQi1ofo?rel=0&amp;showinfo=0'
-org_summary: >-
-  The LA Promise Fund is a nonprofit organization dedicated to preparing Los
-  Angeles students for success in college, career, and life.
 aggregated:
   project_ids:
     - '6102123'
@@ -27,14 +28,13 @@ aggregated:
     - 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
   year_submitted:
     - '2016'
-title: LA Promise Fund
-extrapolated_project_ids:
-  - '6102123'
-project_titles_from_extrapolated_project_ids:
-  - 'The Intern Project: SLATE-Z Expansion'
-original_project_titles:
-  - 'The Intern Project: SLATE-Z Expansion'
 original_project_ids:
   - '6102123'
+original_project_titles:
+  - 'The Intern Project: SLATE-Z Expansion'
+extrapolated_project_ids:
+  - '6102123'
+extrapolated_project_titles:
+  - 'The Intern Project: SLATE-Z Expansion'
 
 ---

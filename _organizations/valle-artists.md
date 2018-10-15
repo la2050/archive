@@ -1,20 +1,8 @@
 ---
+youtube_video_identifier: rksqpbf13eo
 organization_id: '2013212'
-organization_website:
-  - >-
-    http://www.kcet.org/socal/departures/landofsunshine/writing-on-the-wall/the-muralist-mile-of-northeast-san-fernando-valley.html
-ein: '270126980'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270126980'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Valle Artists
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Mural Mile has become a necessary project for artists, community members, and
   art enthusiasts. There have been a dozen new murals added to Van Nuys Blvd. in
@@ -22,6 +10,20 @@ org_summary: >-
   forward by a core group of public artists who collaborate with local
   non-profits, but who can also lead a self-funded project with the community.
   The Pacoima Art Movement has restored pride in the community.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270126980'
+organization_website:
+  - >-
+    http://www.kcet.org/socal/departures/landofsunshine/writing-on-the-wall/the-muralist-mile-of-northeast-san-fernando-valley.html
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '270126980'
+zip: ''
+project_image: 'https://img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102270'
@@ -29,15 +31,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Artistmovement.html'
   year_submitted:
     - '2013'
-title: Valle Artists
-extrapolated_project_ids:
-  - '3102270'
-project_titles_from_extrapolated_project_ids:
-  - Art Revitalization Movement
-original_project_titles:
-  - Art Revitalization Movement
 original_project_ids:
   - '3102270'
-youtube_video_identifier: rksqpbf13eo
+original_project_titles:
+  - Art Revitalization Movement
+extrapolated_project_ids:
+  - '3102270'
+extrapolated_project_titles:
+  - Art Revitalization Movement
 
 ---

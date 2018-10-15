@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: LTSC_LA2050.jpg
+maker_image_id: '16930'
 organization_id: '2013128'
-organization_website:
-  - www.LTSC.org
-ein: '954444102'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954444102'
-tags_indicators:
-  - Voting & civic engagement
-  - Affordable housing
-  - Social connectedness
-  - Housing & homelessness
-twitter: ''
-instagram: ''
-facebook: ''
+title: LTSC Community Development Corporation
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16930%252Fdisplay%252FLTSC_LA2050.jpg=c570x385
-project_video: ''
 org_summary: >-
   For over 30 years LTSC has been serving the Japanese/Japanese American
   community in the Greater Los Angeles area as the only regional provider of
@@ -65,6 +52,22 @@ org_summary: >-
    
    
    Through LTSC’s community organizing efforts we have established relationships with Little Tokyo residents and have taught them to collectively and formally represent their concerns. Moreover, we have worked with residents to develop a model for community involvement in planning. With our support and guidance, the residents have lobbied for two crosswalks, a post office and helped successfully fight to preserve affordable housing at a 100-unit building. They have also lobbied against a proposed 500-bed jail and have fought to limit bail bonds businesses in the area.
+tags_indicators:
+  - Voting & civic engagement
+  - Affordable housing
+  - Social connectedness
+  - Housing & homelessness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954444102'
+organization_website:
+  - www.LTSC.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954444102'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16930%252Fdisplay%252FLTSC_LA2050.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102192'
@@ -72,15 +75,12 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LTSC.html'
   year_submitted:
     - '2013'
-title: LTSC Community Development Corporation
-extrapolated_project_ids:
-  - '3102192'
-project_titles_from_extrapolated_project_ids:
-  - ReConnecting L.A. Neighborhoods through Music & History
+original_project_ids: []
 original_project_titles:
   - Re-Connecting L.A. Neighborhoods through Music & History
-original_project_ids: []
-maker_image_id: '16930'
-maker_image_file_name: LTSC_LA2050.jpg
+extrapolated_project_ids:
+  - '3102192'
+extrapolated_project_titles:
+  - ReConnecting L.A. Neighborhoods through Music & History
 
 ---

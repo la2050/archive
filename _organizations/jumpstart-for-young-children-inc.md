@@ -1,24 +1,26 @@
 ---
+youtube_video_identifier: a-3Yo_Yz5Vc
 organization_id: '2015099'
-organization_website:
-  - www.jstart.org
-ein: '43262046'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=43262046'
-tags_indicators:
-  - Early childhood
-  - Education & youth
-twitter: www.twitter.com/jumpstartkids
-instagram: ''
-facebook: www.facebook.com/jumpstartkids
+title: 'Jumpstart For Young Children, Inc.'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Jumpstart provides high quality early education programming to preschools in
   low-income communities throughout Los Angeles, working towards the day every
   child, regardless of his or her zip code, enters kindergarten prepared to
   succeed.
+tags_indicators:
+  - Early childhood
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=43262046'
+organization_website:
+  - www.jstart.org
+twitter: www.twitter.com/jumpstartkids
+instagram: ''
+facebook: www.facebook.com/jumpstartkids
+ein: '43262046'
+zip: ''
+project_image: 'https://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102153'
@@ -29,19 +31,17 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
-title: 'Jumpstart For Young Children, Inc.'
-extrapolated_project_ids:
+original_project_ids:
   - '5102153'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Jumpstart: Delivering Quality Early Education To Close the Achievement Gap
-    *Before* it Begins
 original_project_titles:
   - >-
     Jumpstart: Delivering Quality Early Education To Close the Achievement Gap
     *Before* it Begins
-original_project_ids:
+extrapolated_project_ids:
   - '5102153'
-youtube_video_identifier: a-3Yo_Yz5Vc
+extrapolated_project_titles:
+  - >-
+    Jumpstart: Delivering Quality Early Education To Close the Achievement Gap
+    *Before* it Begins
 
 ---

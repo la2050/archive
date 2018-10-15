@@ -1,24 +1,25 @@
 ---
 organization_id: '2016071'
-organization_website:
-  - www.encorps.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - STEM & Digital literacy
-  - Education & youth
-twitter: encorps
-instagram: EnCorps
-facebook: encorpsstemteachers
+title: 'EnCorps, Inc.'
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3863693255741-team91.jpg
-project_video: 'https://www.youtube.com/embed/nKlf21GJLW8?rel=0&amp;showinfo=0'
 org_summary: >-
   EnCorps STEM Teachers addresses the conditions severely limiting low income,
   under-resourced, and minority student opportunities by transitioning
   outstanding STEM professionals into public education.
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - www.encorps.org
+twitter: encorps
+instagram: EnCorps
+facebook: encorpsstemteachers
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3863693255741-team91.jpg
+project_video: 'https://www.youtube.com/embed/nKlf21GJLW8?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102064'
@@ -27,14 +28,13 @@ aggregated:
       https://challenge.la2050.org/entry/stemdustry-in-motion-the-encorps-stem-teachers-fellowship-program
   year_submitted:
     - '2016'
-title: 'EnCorps, Inc.'
-extrapolated_project_ids:
-  - '6102064'
-project_titles_from_extrapolated_project_ids:
-  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program'
-original_project_titles:
-  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program '
 original_project_ids:
   - '6102064'
+original_project_titles:
+  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program '
+extrapolated_project_ids:
+  - '6102064'
+extrapolated_project_titles:
+  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program'
 
 ---

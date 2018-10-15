@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: OSdBClactgc
 organization_id: '2013127'
-organization_website:
-  - 'http://losangelesyouthorchestra.org/layo'
-ein: '244703063'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=244703063'
-tags_indicators:
-  - Teaching & mentorship
-  - Art
-  - Education & youth
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Los Angeles Youth Orchestra
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/OSdBClactgc/maxresdefault.jpg'
-project_video: ''
 org_summary: |-
   Concert at Carnegie Hall: February 2013
    
@@ -33,6 +20,21 @@ org_summary: |-
    
    
    Partnership with the Los Angeles Chamber Orchestra: In 2003-2007
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=244703063'
+organization_website:
+  - 'http://losangelesyouthorchestra.org/layo'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '244703063'
+zip: ''
+project_image: 'https://img.youtube.com/vi/OSdBClactgc/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102191'
@@ -40,15 +42,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Communitybuilding.html'
   year_submitted:
     - '2013'
-title: Los Angeles Youth Orchestra
-extrapolated_project_ids:
-  - '3102191'
-project_titles_from_extrapolated_project_ids:
-  - Los Angeles Youth Orchestra Community Building
-original_project_titles:
-  - Los Angeles Youth Orchestra Community Building
 original_project_ids:
   - '3102191'
-youtube_video_identifier: OSdBClactgc
+original_project_titles:
+  - Los Angeles Youth Orchestra Community Building
+extrapolated_project_ids:
+  - '3102191'
+extrapolated_project_titles:
+  - Los Angeles Youth Orchestra Community Building
 
 ---

@@ -1,20 +1,7 @@
 ---
 organization_id: '2013040'
-organization_website:
-  - www.civicprojects.org/pickuppopupproduce
-  - ' www.osborn320.com'
-ein: '274568770'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274568770'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: CIVIC PROJECTS
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   Civic Projects: Publication of The Car in 2035: Mobility Planning for the Near
   Future
@@ -39,6 +26,20 @@ org_summary: >-
    
    
    Project Food LA (PFLA) was formed to bring diverse, creative voices to issues of food and justice in Los Angeles. Since its founding, PFLA has staged a series of provocative events in diverse locations in the city from panel discussions to tree plantings. PFLA has been engaged with Mudtown Farms, holding events, tours, and advocating for the realization of this important project.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274568770'
+organization_website:
+  - www.civicprojects.org/pickuppopupproduce
+  - ' www.osborn320.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '274568770'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102074'
@@ -46,12 +47,11 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/PickUpPopUpProduce.html'
   year_submitted:
     - '2013'
-title: CIVIC PROJECTS
+original_project_ids: []
+original_project_titles: []
 extrapolated_project_ids:
   - '3102074'
-project_titles_from_extrapolated_project_ids:
+extrapolated_project_titles:
   - PickUp PopUp Produce Station
-original_project_titles: []
-original_project_ids: []
 
 ---

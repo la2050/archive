@@ -1,21 +1,22 @@
 ---
 organization_id: '2016213'
-organization_website:
-  - burg.io
-ein: ''
-zip: ''
-charity_navigator_url: ''
-twitter: theburgteam
-instagram: theburgteam/
-facebook: theburgteam
+title: The Burg
 org_type: Forprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
-project_video: 'https://www.youtube.com/embed/oaYNAjDLsxk?rel=0&amp;showinfo=0'
 org_summary: >-
   Our organization's mission is to improve local political and community based
   involvement by creating a user-friendly online platform that lowers the
   barriers to civic engagement.
+charity_navigator_url: ''
+organization_website:
+  - burg.io
+twitter: theburgteam
+instagram: theburgteam/
+facebook: theburgteam
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
+project_video: 'https://www.youtube.com/embed/oaYNAjDLsxk?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102247'
@@ -24,14 +25,13 @@ aggregated:
       https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
   year_submitted:
     - '2016'
-title: The Burg
-extrapolated_project_ids:
-  - '6102247'
-project_titles_from_extrapolated_project_ids:
-  - Local civic engagement is hard. Let’s make it easier.
-original_project_titles:
-  - 'Local civic engagement is hard. Let’s make it easier.  '
 original_project_ids:
   - '6102247'
+original_project_titles:
+  - 'Local civic engagement is hard. Let’s make it easier.  '
+extrapolated_project_ids:
+  - '6102247'
+extrapolated_project_titles:
+  - Local civic engagement is hard. Let’s make it easier.
 
 ---

@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: Jw8-KCURHUA
 organization_id: '2013165'
-organization_website:
-  - www.skoolbo.com
-ein: '421774453'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - STEM & Digital literacy
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Skoolbo LTD
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/Jw8-KCURHUA/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Our dream is that every child learns to read and gains confidence with
   numbers... these are life's essentials. We believe technology can dramatically
@@ -41,6 +30,19 @@ org_summary: >-
    
    
    In September 2013 Skoolbo will be hosting FriendOurWorld.org which is a collaboration with Peace One Day and Microsoft. Children from across the world will unite and play friendship games of geography, languages and culture on the Skoolbo platform. We anticipate this will be one of the largest educational events ever held.</p>
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - www.skoolbo.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '421774453'
+zip: ''
+project_image: 'https://img.youtube.com/vi/Jw8-KCURHUA/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102091'
@@ -48,21 +50,19 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/proveLAKidsRock.html'
   year_submitted:
     - '2013'
-title: Skoolbo LTD
-extrapolated_project_ids:
+original_project_ids:
   - '3102091'
-project_titles_from_extrapolated_project_ids:
-  - LA Kids Rock!
+  - '3102091'
+  - '3102091'
 original_project_titles:
   - LA Kids Rock!
   - LA Kids Rock!
   - LA Kids Rock!
   - LA Kids Rock!2
   - LA Kids Rock!asd
-original_project_ids:
+extrapolated_project_ids:
   - '3102091'
-  - '3102091'
-  - '3102091'
-youtube_video_identifier: Jw8-KCURHUA
+extrapolated_project_titles:
+  - LA Kids Rock!
 
 ---

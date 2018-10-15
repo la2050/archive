@@ -1,24 +1,26 @@
 ---
+youtube_video_identifier: gX3uzlinkXc
 organization_id: '2015212'
-organization_website:
-  - www.tiachucha.org
-ein: '470919488'
-zip: '91342'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=470919488'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: 'https://twitter.com/tiachucha'
-instagram: 'https://instagram.com/tiachuchas'
-facebook: 'https://www.facebook.com/TiaChuchasCentroCultural'
+title: Tia Chucha's Centro Cultural
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Tia Chucha’s cultural center and bookstore supports and promotes the growth,
   healing and holistic learning of our community through the arts and literacy,
   thereby activating creativity, imagination and expression to improve our
   quality of life.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=470919488'
+organization_website:
+  - www.tiachucha.org
+twitter: 'https://twitter.com/tiachucha'
+instagram: 'https://instagram.com/tiachuchas'
+facebook: 'https://www.facebook.com/TiaChuchasCentroCultural'
+ein: '470919488'
+zip: '91342'
+project_image: 'https://img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102318'
@@ -29,19 +31,17 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
-title: Tia Chucha's Centro Cultural
+original_project_ids:
+  - '5102318'
+original_project_titles:
+  - 'Poetry is Life, Poetry is Story'
 extrapolated_project_ids:
   - '5102318'
   - '3102258'
-project_titles_from_extrapolated_project_ids:
+extrapolated_project_titles:
   - Poetry is Life Poetry is Story
   - >-
     Tia Chuchas Centro Culturals Arts Transforms Community  A Multimedia
     Wellness Project
-original_project_titles:
-  - 'Poetry is Life, Poetry is Story'
-original_project_ids:
-  - '5102318'
-youtube_video_identifier: gX3uzlinkXc
 
 ---

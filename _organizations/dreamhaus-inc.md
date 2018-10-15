@@ -1,24 +1,26 @@
 ---
+youtube_video_identifier: yy9nnTHABlE
 organization_id: '2015052'
-organization_website:
-  - www.dreamhausla.org
-ein: '471275709'
-zip: '90301'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471275709'
-tags_indicators:
-  - Art
-  - Creative economy
-  - Arts & cultural vitality
-twitter: www.twitter.com/DREAMHAUS_LA
-instagram: www.instagram.com/DREAMHAUSLA
-facebook: www.facebook.com/DREAMHAUSLA
+title: Dreamhaus Inc.
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Dreamhaus is both an educational and economic catalyst for urban youth in
   South Los Angeles to creatively empower themselves through art and amplify the
   future vision and their own community's growth.
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471275709'
+organization_website:
+  - www.dreamhausla.org
+twitter: www.twitter.com/DREAMHAUS_LA
+instagram: www.instagram.com/DREAMHAUSLA
+facebook: www.facebook.com/DREAMHAUSLA
+ein: '471275709'
+zip: '90301'
+project_image: 'https://img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102085'
@@ -26,15 +28,13 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
   year_submitted:
     - '2015'
-title: Dreamhaus Inc.
-extrapolated_project_ids:
-  - '5102085'
-project_titles_from_extrapolated_project_ids:
-  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
-original_project_titles:
-  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
 original_project_ids:
   - '5102085'
-youtube_video_identifier: yy9nnTHABlE
+original_project_titles:
+  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
+extrapolated_project_ids:
+  - '5102085'
+extrapolated_project_titles:
+  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
 
 ---

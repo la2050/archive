@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: Nate_Holden.jpg
+maker_image_id: '17283'
 organization_id: '2013017'
-organization_website:
-  - www.ArtsEarthPartnership.org
-ein: '571151955'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571151955'
-tags_indicators:
-  - Air & water
-  - Creative economy
-  - Environmental quality & sustainability
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'Arts:Earth Partnership'
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17283%252Fdisplay%252FNate_Holden.jpg=c570x385
-project_video: ''
 org_summary: >-
   In February of 2010, after a couple years of developing the program, honing
   our business model and having our checklist vetted by various entities, AEP
@@ -35,6 +22,22 @@ org_summary: >-
    
    
    To date we have 40 members in Los Angeles. You can see a full list here. http://artsearthpartnership.org/members/
+tags_indicators:
+  - Air & water
+  - Creative economy
+  - Environmental quality & sustainability
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571151955'
+organization_website:
+  - www.ArtsEarthPartnership.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '571151955'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17283%252Fdisplay%252FNate_Holden.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102029'
@@ -42,16 +45,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/ArtsEarthPartnership.html'
   year_submitted:
     - '2013'
-title: 'Arts:Earth Partnership'
-extrapolated_project_ids:
-  - '3102029'
-project_titles_from_extrapolated_project_ids:
-  - AEP  Arts and Cultural Environmental Certification
-original_project_titles:
-  - AEP - Arts and Cultural Environmental Certification
 original_project_ids:
   - '3102029'
-maker_image_id: '17283'
-maker_image_file_name: Nate_Holden.jpg
+original_project_titles:
+  - AEP - Arts and Cultural Environmental Certification
+extrapolated_project_ids:
+  - '3102029'
+extrapolated_project_titles:
+  - AEP  Arts and Cultural Environmental Certification
 
 ---

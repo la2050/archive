@@ -1,24 +1,25 @@
 ---
 organization_id: '2016142'
-organization_website:
-  - www.monthofphotography.com
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: MOPLosAngeles
-instagram: MOPLA
-facebook: monthofphotola
+title: Lucie Foundation
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852558165741-team90.jpg
-project_video: ''
 org_summary: >-
   Lucie Foundation's mission is to honor master photographers, discover and
   cultivate emerging talent and promote the appreciation of photography through
   a variety of year-round programming.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.monthofphotography.com
+twitter: MOPLosAngeles
+instagram: MOPLA
+facebook: monthofphotola
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852558165741-team90.jpg
+project_video: ''
 aggregated:
   project_ids:
     - '6102149'
@@ -27,18 +28,17 @@ aggregated:
       https://challenge.la2050.org/entry/month-of-photography-los-angeles-creating-a-destination-photo-festival-to-connect-engage-inspire
   year_submitted:
     - '2016'
-title: Lucie Foundation
-extrapolated_project_ids:
+original_project_ids:
   - '6102149'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Month of Photography Los Angeles: Creating a destination photo festival to
-    connect, engage + inspire
 original_project_titles:
   - >-
     Month of Photography Los Angeles: Creating a destination photo festival to
     connect, engage + inspire
-original_project_ids:
+extrapolated_project_ids:
   - '6102149'
+extrapolated_project_titles:
+  - >-
+    Month of Photography Los Angeles: Creating a destination photo festival to
+    connect, engage + inspire
 
 ---

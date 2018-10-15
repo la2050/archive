@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: La_Loma_Development_Single_Picture.jpg
+maker_image_id: '16974'
 organization_id: '2013114'
-organization_website:
-  - www.lalomadevelopment.com
-ein: '260139462'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Air & water
-  - Access to parks & green space
-  - Environmental quality & sustainability
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: La Loma Development Company
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16974%252Fdisplay%252FLa_Loma_Development_Single_Picture.jpg=c570x385
-project_video: ''
 org_summary: >-
   Besides our latest project at our center.... La Loma is a critical partner in
   the creation of Arlington Gardens, a three acre, award-winning community
@@ -43,6 +30,22 @@ org_summary: >-
   are a registered Small Business, Minority Business Enterprise, and
   pre-qualified for projects with LAUSD, MWD, among other major institutions. We
   have created jobs and income during a recession, what more can you ask?
+tags_indicators:
+  - Air & water
+  - Access to parks & green space
+  - Environmental quality & sustainability
+  - Public safety & public space
+charity_navigator_url: ''
+organization_website:
+  - www.lalomadevelopment.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '260139462'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16974%252Fdisplay%252FLa_Loma_Development_Single_Picture.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102068'
@@ -50,16 +53,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LALOMA.html'
   year_submitted:
     - '2013'
-title: La Loma Development Company
-extrapolated_project_ids:
-  - '3102068'
-project_titles_from_extrapolated_project_ids:
-  - 'La Loma Center: Green Education Environmental Resources and Job Training '
-original_project_titles:
-  - 'La Loma Center: Green Education, Environmental Resources, and Job Training '
 original_project_ids:
   - '3102068'
-maker_image_id: '16974'
-maker_image_file_name: La_Loma_Development_Single_Picture.jpg
+original_project_titles:
+  - 'La Loma Center: Green Education, Environmental Resources, and Job Training '
+extrapolated_project_ids:
+  - '3102068'
+extrapolated_project_titles:
+  - 'La Loma Center: Green Education Environmental Resources and Job Training '
 
 ---

@@ -1,26 +1,27 @@
 ---
 organization_id: '2016190'
-organization_website:
-  - www.SayWordLA.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: Say Word and 4C LAB
+org_type: Nonprofit
+org_summary: >-
+  Say Word’s mission is to empower, enlighten, and activate young people through
+  writing and performance to improve literacy, and cultivate self-awareness,
+  social change and healing.
 tags_indicators:
   - Mental & emotional health
   - Art
   - Health
   - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.SayWordLA.org
 twitter: SaywordLA
 instagram: SayWordProject
 facebook: Saywordla
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5170666805741-team89.jpg
 project_video: 'https://www.youtube.com/embed/Bg6i6yos2pU?rel=0&amp;showinfo=0'
-org_summary: >-
-  Say Word’s mission is to empower, enlighten, and activate young people through
-  writing and performance to improve literacy, and cultivate self-awareness,
-  social change and healing.
 aggregated:
   project_ids:
     - '6102204'
@@ -29,18 +30,17 @@ aggregated:
       https://challenge.la2050.org/entry/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence
   year_submitted:
     - '2016'
-title: Say Word and 4C LAB
-extrapolated_project_ids:
+original_project_ids:
   - '6102204'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    MERGE: LA youth collaborating through spoken word & dance to build empathy,
-    literacy and confidence.
 original_project_titles:
   - >-
     MERGE: LA youth collaborating through spoken word & dance to build empathy,
     literacy and confidence.
-original_project_ids:
+extrapolated_project_ids:
   - '6102204'
+extrapolated_project_titles:
+  - >-
+    MERGE: LA youth collaborating through spoken word & dance to build empathy,
+    literacy and confidence.
 
 ---

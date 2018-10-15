@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: John_-_LA_Daily_News.jpg
+maker_image_id: '17239'
 organization_id: '2013169'
-organization_website:
-  - www.readysetgold.net
-ein: '951240083'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951240083'
-tags_indicators:
-  - Fitness & sports
-  - Voting & civic engagement
-  - Health
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Southern California Committee for the Olympic Games (SCCOG)
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17239%252Fdisplay%252FJohn_-_LA_Daily_News.jpg=c570x385
-project_video: ''
 org_summary: |-
   1) The only program of its kind in the country
    
@@ -73,6 +60,22 @@ org_summary: |-
    
    
    9) Nominated for the Governor's Council on Physical Fitness & Sports Award for Organizations
+tags_indicators:
+  - Fitness & sports
+  - Voting & civic engagement
+  - Health
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951240083'
+organization_website:
+  - www.readysetgold.net
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '951240083'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17239%252Fdisplay%252FJohn_-_LA_Daily_News.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102235'
@@ -80,16 +83,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
   year_submitted:
     - '2013'
-title: Southern California Committee for the Olympic Games (SCCOG)
-extrapolated_project_ids:
-  - '3102235'
-project_titles_from_extrapolated_project_ids:
-  - 'Ready Set Gold!: A Students Guide to a Lifetime of Fitness '
-original_project_titles:
-  - 'Ready, Set, Gold!: A Students'' Guide to a Lifetime of Fitness '
 original_project_ids:
   - '3102235'
-maker_image_id: '17239'
-maker_image_file_name: John_-_LA_Daily_News.jpg
+original_project_titles:
+  - 'Ready, Set, Gold!: A Students'' Guide to a Lifetime of Fitness '
+extrapolated_project_ids:
+  - '3102235'
+extrapolated_project_titles:
+  - 'Ready Set Gold!: A Students Guide to a Lifetime of Fitness '
 
 ---

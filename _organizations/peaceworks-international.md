@@ -1,23 +1,24 @@
 ---
 organization_id: '2016166'
-organization_website:
-  - www.iamla2017.com
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: Peaceworks International
+org_type: Nonprofit
+org_summary: 'Impacting future generations through art, education, and culture.'
 tags_indicators:
   - Art
   - Volunteerism
   - Arts & cultural vitality
   - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - www.iamla2017.com
 twitter: IAmLA2017
 instagram: IAmLA2017
 facebook: IAmLA2017
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9122157445741-team91.JPG
 project_video: 'https://www.youtube.com/embed/l9WIsFvpdpU?rel=0&amp;showinfo=0'
-org_summary: 'Impacting future generations through art, education, and culture.'
 aggregated:
   project_ids:
     - '6102178'
@@ -25,14 +26,13 @@ aggregated:
     - 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
   year_submitted:
     - '2016'
-title: Peaceworks International
-extrapolated_project_ids:
-  - '6102178'
-project_titles_from_extrapolated_project_ids:
-  - 'I Am LA: One minute can change the world'
-original_project_titles:
-  - 'I Am LA: One minute can change the world'
 original_project_ids:
   - '6102178'
+original_project_titles:
+  - 'I Am LA: One minute can change the world'
+extrapolated_project_ids:
+  - '6102178'
+extrapolated_project_titles:
+  - 'I Am LA: One minute can change the world'
 
 ---

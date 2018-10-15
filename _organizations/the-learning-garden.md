@@ -1,21 +1,9 @@
 ---
+maker_image_file_name: Garden_Sign.png
+maker_image_id: '16360'
 organization_id: '2013192'
-organization_website:
-  - www.thelearninggarden.org
-ein: '203602931'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203602931'
-tags_indicators:
-  - Access to healthy food
-  - Access to parks & green space
-  - Health
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: The Learning Garden
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   The most important achievement of The Learning Garden is the continual growth
   of programs and gardens it has inspired over the past ten years. With very
@@ -36,6 +24,21 @@ org_summary: >-
    
    
    Our community events, including the Spring Equinox Celebration, the July 4th Ice Cream Social (with ice cream made from the garden), Pesto Day (our garlic and basil whipped into a heavenly meal) and our Winter Solstice all bring together our community in celebration. We also sponsor, with Transition Mar Vista/Venice, a 100 Mile Meal, stressing the importance of eating locally. Most important, our weekly potlucks create a regular and safe place for people of all kinds to join together to share their garden foods.
+tags_indicators:
+  - Access to healthy food
+  - Access to parks & green space
+  - Health
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203602931'
+organization_website:
+  - www.thelearninggarden.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '203602931'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102252'
@@ -43,17 +46,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Gardens.html'
   year_submitted:
     - '2013'
-title: The Learning Garden
-extrapolated_project_ids:
+original_project_ids:
   - '3102252'
-project_titles_from_extrapolated_project_ids:
-  - Gardens Gardens  Everywhere!
 original_project_titles:
   - 'Gardens, Gardens - Everywhere!'
   - The Learning Garden
-original_project_ids:
+extrapolated_project_ids:
   - '3102252'
-maker_image_id: '16360'
-maker_image_file_name: Garden_Sign.png
+extrapolated_project_titles:
+  - Gardens Gardens  Everywhere!
 
 ---

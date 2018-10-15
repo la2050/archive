@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: slider_gocarts2.jpg
+maker_image_id: '16390'
 organization_id: '2013220'
-organization_website:
-  - 'http://www.youngwarriors.org/'
-ein: '800569820'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800569820'
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Young Warriors
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   YW started with a relationship between Jason Hill and one 10-year-old boy
   named Wonder. Along with other mentors, Jason was able to give Wonder the
@@ -26,6 +16,19 @@ org_summary: >-
    
    
    YW has expanded its program throughout the community. YW community members (such as Galpin Ford, Nestle, Wells Fargo, the city of Van Nuys, and many private investors) are excited to participate in the program. YW now has two programs: (1) the original YW group, and (2) two elementary schools consisting of 24 fatherless 5th grade boys. Other principals heard of YW and are expressing a strong interest in hosting the YW program at their schools. In addition, Jason has peaked the interest of various gang-prevention units. The waiting list for YW is growing with 100’s of kids waiting for the program to become available to them!
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800569820'
+organization_website:
+  - 'http://www.youngwarriors.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '800569820'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102277'
@@ -33,16 +36,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/YoungWarriors.html'
   year_submitted:
     - '2013'
-title: Young Warriors
-extrapolated_project_ids:
-  - '3102277'
-project_titles_from_extrapolated_project_ids:
-  - Young Warriors
-original_project_titles:
-  - Young Warriors
 original_project_ids:
   - '3102277'
-maker_image_id: '16390'
-maker_image_file_name: slider_gocarts2.jpg
+original_project_titles:
+  - Young Warriors
+extrapolated_project_ids:
+  - '3102277'
+extrapolated_project_titles:
+  - Young Warriors
 
 ---

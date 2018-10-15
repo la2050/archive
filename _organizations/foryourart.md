@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: vnfl_final.jpg
+maker_image_id: '16352'
 organization_id: '2013072'
-organization_website:
-  - www.ForYourArt.com
-ein: '421709725'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: ForYourArt
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   <p>ForYourArt creates new contexts for art on- and off-line and applies an
   entrepreneurial spirit to producing and distributing artists’ work. ForYourArt
@@ -33,6 +23,19 @@ org_summary: >-
    
    
    <p>ForYourArt also organized the public art component for <em>Arts Matter</em>, a first of its kind, citywide public art exhibition and fundraising campaign to support arts education in the nation’s second largest public school system. Presented by the Los Angeles Fund for Public Education (LA Fund) and the Los Angeles Unified School District (LAUSD), <em>Arts Matter</em> addresses the importance of arts education in Los Angeles public schools, the “creative capital of the world.” Artists Barbara Kruger and John Baldessari created public art works that were presented on city buses and other outdoor media all across the greater metro area.</p>
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.ForYourArt.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '421709725'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102052'
@@ -40,18 +43,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/36hoursinLA2050_FYA.html'
   year_submitted:
     - '2013'
-title: ForYourArt
-extrapolated_project_ids:
-  - '3102052'
-project_titles_from_extrapolated_project_ids:
-  - 36 Hours in L.A. 2050
-original_project_titles:
-  - 36 Hours in L.A. 2050
-  - 36 Hours in L.A. 2050
 original_project_ids:
   - '3102052'
   - '3102052'
-maker_image_id: '16352'
-maker_image_file_name: vnfl_final.jpg
+original_project_titles:
+  - 36 Hours in L.A. 2050
+  - 36 Hours in L.A. 2050
+extrapolated_project_ids:
+  - '3102052'
+extrapolated_project_titles:
+  - 36 Hours in L.A. 2050
 
 ---

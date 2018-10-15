@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: keoZhYn_XbI
 organization_id: '2013002'
-organization_website:
-  - 'http://aplusd.org/exhibitions-future/neverbuilt'
-ein: '481269978'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=481269978'
-tags_indicators:
-  - Art
-  - Community gatherings
-  - Arts & cultural vitality
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: A+D Architecture and Design Museum > Los Angeles
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p> The A+D Architecture and Design Museum > Los Angeles was founded in 2001.
   A+D is the only cultural institution in the United States showcasing
@@ -42,6 +29,21 @@ org_summary: >-
    
    
    <p> A+D hosts exhibit openings and events that are well-attended and garner attention and good will. These events are an integral part of the Museum’s purpose: comprehensive programming that incorporates academic and professional development with public outreach that is social and educational: Exhibitions of progressive architecture and design; topical lectures and seminars; student and professional design charrettes; education programs; architecture, design, urban tours; film screenings; book launches; internship opportunities; collaborations with community foundations focusing on at-risk youth; collaborations with cultural and educational institutions, locally and worldwide. <p/>
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=481269978'
+organization_website:
+  - 'http://aplusd.org/exhibitions-future/neverbuilt'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '481269978'
+zip: ''
+project_image: 'https://img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102004'
@@ -49,15 +51,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
   year_submitted:
     - '2013'
-title: A+D Architecture and Design Museum > Los Angeles
-extrapolated_project_ids:
-  - '3102004'
-project_titles_from_extrapolated_project_ids:
-  - 'Never Built: Los Angeles'
-original_project_titles:
-  - 'Never Built: Los Angeles'
 original_project_ids:
   - '3102004'
-youtube_video_identifier: keoZhYn_XbI
+original_project_titles:
+  - 'Never Built: Los Angeles'
+extrapolated_project_ids:
+  - '3102004'
+extrapolated_project_titles:
+  - 'Never Built: Los Angeles'
 
 ---

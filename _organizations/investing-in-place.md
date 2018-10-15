@@ -1,26 +1,27 @@
 ---
 organization_id: '2018055'
-organization_website:
-  - www.investinginplace.org
-ein: Community Partners
-zip: '#N/A'
-charity_navigator_url: ''
+title: Investing in Place
+org_type: Nonprofit
+org_summary: >-
+  We use research, advocacy, and capacity-building to align policies and public
+  dollars to support transportation investments that strengthen the Los Angeles
+  region.
 tags_indicators:
   - Transportation
   - Voting & civic engagement
   - Mobility
   - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - www.investinginplace.org
 twitter: '@investinplace'
 instagram: InvestinginPlace
 facebook: 'https://www.facebook.com/investinginplace/'
-org_type: Nonprofit
+ein: Community Partners
+zip: '#N/A'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
-org_summary: >-
-  We use research, advocacy, and capacity-building to align policies and public
-  dollars to support transportation investments that strengthen the Los Angeles
-  region.
 aggregated:
   project_ids:
     - '8102055'
@@ -32,20 +33,19 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
-title: Investing in Place
-extrapolated_project_ids:
+original_project_ids:
   - '6102107'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
-    #HowWeRoll
+  - '8102055'
 original_project_titles:
   - 'More than Minivans: the Female Future of Transportation'
   - >-
     You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
     #HowWeRoll
-original_project_ids:
+extrapolated_project_ids:
   - '6102107'
-  - '8102055'
+extrapolated_project_titles:
+  - >-
+    You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
+    #HowWeRoll
 
 ---

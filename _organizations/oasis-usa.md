@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: _5icxWSNJFw
 organization_id: '2013146'
-organization_website:
-  - 'http://www.oasisusa.org'
-ein: '954870779'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954870779'
-tags_indicators:
-  - Community gatherings
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Oasis USA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/_5icxWSNJFw/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   After several years of testing and developing the model, there are now 14 TFCs
   in various stages of development in California, Colorado, Ohio and Florida.
@@ -54,6 +43,19 @@ org_summary: >-
    
    
    * Partnered with Pasadena Unified School District enabling more than 250 high school students to receive anti-trafficking awareness and education through its ‘Summer Skillz’ program; this curriculum, currently being adapted for use by public schools in Florida, can also be adapted for younger students and is available upon request.
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954870779'
+organization_website:
+  - 'http://www.oasisusa.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954870779'
+zip: ''
+project_image: 'https://img.youtube.com/vi/_5icxWSNJFw/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102208'
@@ -61,15 +63,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/oasisusa.html'
   year_submitted:
     - '2013'
-title: Oasis USA
-extrapolated_project_ids:
-  - '3102208'
-project_titles_from_extrapolated_project_ids:
-  - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
-original_project_titles:
-  - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
 original_project_ids:
   - '3102208'
-youtube_video_identifier: _5icxWSNJFw
+original_project_titles:
+  - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
+extrapolated_project_ids:
+  - '3102208'
+extrapolated_project_titles:
+  - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
 
 ---

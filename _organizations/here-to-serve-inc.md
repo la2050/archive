@@ -1,25 +1,26 @@
 ---
 organization_id: '2016099'
-organization_website:
-  - www.heretoserve.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Mental & emotional health
-  - Community health
-  - Health
-twitter: H2S_NPO
-instagram: HeretoServe.Nonprofit/?pnref=lhc
-facebook: Here_to_Serve_NPO
+title: 'Here to Serve, Inc'
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
-project_video: 'https://www.youtube.com/embed/pMW7_cxOs1s?rel=0&amp;showinfo=0'
 org_summary: >-
   We CONNECT physical, financial & emotional care to parents to help manage
   their home life during a medical crisis providing meals; child, yard, house
   and pet care; fundraising; medical updates, etc.
+tags_indicators:
+  - Mental & emotional health
+  - Community health
+  - Health
+charity_navigator_url: ''
+organization_website:
+  - www.heretoserve.org
+twitter: H2S_NPO
+instagram: HeretoServe.Nonprofit/?pnref=lhc
+facebook: Here_to_Serve_NPO
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
+project_video: 'https://www.youtube.com/embed/pMW7_cxOs1s?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102091'
@@ -28,18 +29,17 @@ aggregated:
       https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
   year_submitted:
     - '2016'
-title: 'Here to Serve, Inc'
-extrapolated_project_ids:
+original_project_ids:
   - '6102091'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Connecting communities of support with families who have a critically ill
-    young child or parent.
 original_project_titles:
   - >-
     Connecting communities of support with families who have a critically ill
     young child or parent.
-original_project_ids:
+extrapolated_project_ids:
   - '6102091'
+extrapolated_project_titles:
+  - >-
+    Connecting communities of support with families who have a critically ill
+    young child or parent.
 
 ---

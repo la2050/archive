@@ -1,25 +1,28 @@
 ---
+maker_image_file_name: CCC_pic17_small.jpg
+maker_image_id: '23182'
 organization_id: '2015025'
-organization_website:
-  - www.careerandcollegeclubs.org
-ein: '954415401'
-zip: '90266'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954415401'
+title: Career & College clubs
+org_type: Nonprofit
+org_summary: >-
+  Career & College Clubs prepares middle students for success in high school,
+  college, and life.
 tags_indicators:
   - College prep
   - Workforce development
   - Education & youth
   - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954415401'
+organization_website:
+  - www.careerandcollegeclubs.org
 twitter: www.twitter.com/CCClubs
 instagram: ''
 facebook: www.facebook.com/careerandcollegeclubs
-org_type: Nonprofit
+ein: '954415401'
+zip: '90266'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
 project_video: ''
-org_summary: >-
-  Career & College Clubs prepares middle students for success in high school,
-  college, and life.
 aggregated:
   project_ids:
     - '5102041'
@@ -27,16 +30,13 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/careerandcollegeclub.html'
   year_submitted:
     - '2015'
-title: Career & College clubs
-extrapolated_project_ids:
-  - '5102041'
-project_titles_from_extrapolated_project_ids:
-  - Middle School Career and College Preparation
-original_project_titles:
-  - Middle School Career and College Preparation
 original_project_ids:
   - '5102041'
-maker_image_id: '23182'
-maker_image_file_name: CCC_pic17_small.jpg
+original_project_titles:
+  - Middle School Career and College Preparation
+extrapolated_project_ids:
+  - '5102041'
+extrapolated_project_titles:
+  - Middle School Career and College Preparation
 
 ---

@@ -1,34 +1,34 @@
 ---
+maker_image_file_name: NEW_IFCLOGO.jpg
+maker_image_id: '20849'
 organization_id: '2014158'
-organization_website: ''
-ein: '953889152'
-zip: '90670'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953889152'
+title: Interfaith Food Center
+org_type: Nonprofit
+org_summary: We feed the hungry.
 tags_indicators:
   - Access to healthy food
   - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953889152'
+organization_website: ''
 twitter: ''
 instagram: ''
 facebook: ''
-org_type: Nonprofit
+ein: '953889152'
+zip: '90670'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20849%252Fdisplay%252FNEW_IFCLOGO.jpg=c570x385
 project_video: ''
-org_summary: We feed the hungry.
 aggregated:
   project_ids:
     - '4102141'
   challenge_url: []
   year_submitted:
     - '2014'
-title: Interfaith Food Center
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-original_project_titles:
-  - Four Seasons of Food
 original_project_ids:
   - '4102145'
-maker_image_id: '20849'
-maker_image_file_name: NEW_IFCLOGO.jpg
+original_project_titles:
+  - Four Seasons of Food
+extrapolated_project_ids: []
+extrapolated_project_titles: []
 
 ---

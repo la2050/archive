@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: lLS50WusJa4
 organization_id: '2013097'
-organization_website:
-  - 'http://www.insightla.org/'
-ein: '841713927'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=841713927'
-tags_indicators:
-  - Mental & emotional health
-  - Health
-twitter: ''
-instagram: ''
-facebook: ''
+title: InsightLA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   We have trained more than 10,000 individual students in mindfulness. We have
   successfully maintained daily programs for which NO person is turned away for
@@ -28,6 +17,19 @@ org_summary: >-
   Valley and South Bay. We have brought in nationally renowned speakers and held
   large public forums to educate citizens about how mindfulness can improve
   their lives.
+tags_indicators:
+  - Mental & emotional health
+  - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=841713927'
+organization_website:
+  - 'http://www.insightla.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '841713927'
+zip: ''
+project_image: 'https://img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102156'
@@ -35,15 +37,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/MindfulLA.html'
   year_submitted:
     - '2013'
-title: InsightLA
-extrapolated_project_ids:
-  - '3102156'
-project_titles_from_extrapolated_project_ids:
-  - LA the capital of mindfulness in 2050
-original_project_titles:
-  - 'LA, the capital of mindfulness in 2050'
 original_project_ids:
   - '3102156'
-youtube_video_identifier: lLS50WusJa4
+original_project_titles:
+  - 'LA, the capital of mindfulness in 2050'
+extrapolated_project_ids:
+  - '3102156'
+extrapolated_project_titles:
+  - LA the capital of mindfulness in 2050
 
 ---

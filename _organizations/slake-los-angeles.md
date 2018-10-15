@@ -1,16 +1,8 @@
 ---
+youtube_video_identifier: CDJnJMrwko8
 organization_id: '2013166'
-organization_website:
-  - slake.la
-ein: '181608474'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=181608474'
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'Slake: Los Angeles'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Most importantly, Slake proved Los Angeles can produce a beautiful, exciting,
   smart journal of arts and letters that bridges the gap between stagnant
@@ -20,6 +12,16 @@ org_summary: >-
   We've raised expectations for both Los Angeles and for the world as to what we
   should expect from a Los Angeles journal. Meanwhile, we've provided much
   needed gravity around which this often diffused community.
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=181608474'
+organization_website:
+  - slake.la
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '181608474'
+zip: ''
+project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102233'
@@ -27,15 +29,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/slakelosangeles.html'
   year_submitted:
     - '2013'
-title: 'Slake: Los Angeles'
-extrapolated_project_ids:
-  - '3102233'
-project_titles_from_extrapolated_project_ids:
-  - 'Slake: Los Angeles'
-original_project_titles:
-  - 'Slake: Los Angeles'
 original_project_ids:
   - '3102233'
-youtube_video_identifier: CDJnJMrwko8
+original_project_titles:
+  - 'Slake: Los Angeles'
+extrapolated_project_ids:
+  - '3102233'
+extrapolated_project_titles:
+  - 'Slake: Los Angeles'
 
 ---

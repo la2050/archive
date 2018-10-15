@@ -1,18 +1,22 @@
 ---
 organization_id: '2018035'
-organization_website:
-  - www.elacc.org
-  - www.lurnetwork.org
-  - www.goodfoodla.org
-  - www.publiccounsel.org
-ein: '954531076'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954531076'
+title: East LA Community Corporation (ELACC)
+org_type: Nonprofit
+org_summary: >-
+  ELACC advocates for economic and social justice by developing grassroots
+  leadership, building affordable housing, and providing economic development
+  opportunities to low- and moderate-income families.
 tags_indicators:
   - Entrepreneurship & innovation
   - Voting & civic engagement
   - Income & employment
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954531076'
+organization_website:
+  - www.elacc.org
+  - www.lurnetwork.org
+  - www.goodfoodla.org
+  - www.publiccounsel.org
 twitter:
   - '@elaccorg'
   - '@lurnetwork'
@@ -27,14 +31,11 @@ facebook:
   - www.facebook.com/LURNetwork
   - www.facebook.com/losangelesfoodpolicycouncil
   - www.facebook.com/publiccounsel
-org_type: Nonprofit
+ein: '954531076'
+zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg
 project_video: 'https://youtu.be/xpzFikU5XZ0'
-org_summary: >-
-  ELACC advocates for economic and social justice by developing grassroots
-  leadership, building affordable housing, and providing economic development
-  opportunities to low- and moderate-income families.
 aggregated:
   project_ids:
     - '8102035'
@@ -45,14 +46,13 @@ aggregated:
   year_submitted:
     - '2018'
     - '2013'
-title: East LA Community Corporation (ELACC)
-extrapolated_project_ids:
-  - '3102117'
-project_titles_from_extrapolated_project_ids:
-  - 'LA Street Vendors: A Better Economy through LowIncome Entrepreneurs'
-original_project_titles:
-  - 'LA Street Vendors: Building an Inclusive Economy for the Future City'
 original_project_ids:
   - '8102035'
+original_project_titles:
+  - 'LA Street Vendors: Building an Inclusive Economy for the Future City'
+extrapolated_project_ids:
+  - '3102117'
+extrapolated_project_titles:
+  - 'LA Street Vendors: A Better Economy through LowIncome Entrepreneurs'
 
 ---

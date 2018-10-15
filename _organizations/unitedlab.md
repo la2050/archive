@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: LA_2050__r.jpg
+maker_image_id: '16553'
 organization_id: '2013207'
-organization_website:
-  - 'http://www.unitedlab.org'
-ein: '453306366'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: UNITEDLAB
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16553%252Fdisplay%252FLA_2050__r.jpg=c570x385
-project_video: ''
 org_summary: >-
   In many instances, professional practice may have constraints that could be
   client driven or simply pertaining to ordinances and budgetary constraints. In
@@ -39,6 +28,20 @@ org_summary: >-
    
    
    More recently, I developed a research project called ‘Los Angeles Affordable Apartments,’ a multi-unit residential prototype based on traditional village housing schemes. I proposed unit prototypes for the low-income which compels pedestrian activity in DTLA. For a mobile city like Los Angeles, I believe this could be new typology that encourages such activity.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.unitedlab.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '453306366'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16553%252Fdisplay%252FLA_2050__r.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102112'
@@ -46,16 +49,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/poroushousing.html'
   year_submitted:
     - '2013'
-title: UNITEDLAB
-extrapolated_project_ids:
-  - '3102112'
-project_titles_from_extrapolated_project_ids:
-  - 'Porous Housing 2050: Housing Typology for DTLA in 2050'
-original_project_titles:
-  - 'Porous Housing 2050: Housing Typology for DTLA in 2050'
 original_project_ids:
   - '3102112'
-maker_image_id: '16553'
-maker_image_file_name: LA_2050__r.jpg
+original_project_titles:
+  - 'Porous Housing 2050: Housing Typology for DTLA in 2050'
+extrapolated_project_ids:
+  - '3102112'
+extrapolated_project_titles:
+  - 'Porous Housing 2050: Housing Typology for DTLA in 2050'
 
 ---

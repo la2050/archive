@@ -1,21 +1,9 @@
 ---
+maker_image_file_name: eym_apple.JPG
+maker_image_id: '16514'
 organization_id: '2013056'
-organization_website:
-  - 'http://www.educatingyoungminds.org'
-ein: '954489511'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954489511'
-tags_indicators:
-  - Teaching & mentorship
-  - College prep
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Educating Young Minds
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16514%252Fdisplay%252Feym_apple.JPG=c570x385
-project_video: ''
 org_summary: >-
   EYM alumni are attending and graduating from colleges from around the nation
   like Stanford, Cal Tech, Cal Poly Pomona, Cal State Bakersfield, Cal State
@@ -66,6 +54,21 @@ org_summary: >-
    
    
    Needless to say, not only did I pass my Trigonometry class, I became one of the first students to receive a scholarship from EYM in 1999 and graduated from USC with honors in 2003. In 2007, I graduated with a Masters Degree in Counseling- Marriage & Family Child Therapy. Today I am a very humble and proud wife and mother, who is employed with the Los Angeles County Probation Department as a Deputy Probation Officer II. Last year I co-founded my own non-profit organization, "Enriching Communities", to be an advocate for inner city youth suffering from substance abuse.
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954489511'
+organization_website:
+  - 'http://www.educatingyoungminds.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954489511'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16514%252Fdisplay%252Feym_apple.JPG=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102118'
@@ -73,16 +76,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/access.html'
   year_submitted:
     - '2013'
-title: Educating Young Minds
-extrapolated_project_ids:
-  - '3102118'
-project_titles_from_extrapolated_project_ids:
-  - EYMs ACCESS / NO EXCUSE
-original_project_titles:
-  - EYM's ACCESS / NO EXCUSE
 original_project_ids:
   - '3102118'
-maker_image_id: '16514'
-maker_image_file_name: eym_apple.JPG
+original_project_titles:
+  - EYM's ACCESS / NO EXCUSE
+extrapolated_project_ids:
+  - '3102118'
+extrapolated_project_titles:
+  - EYMs ACCESS / NO EXCUSE
 
 ---

@@ -1,26 +1,27 @@
 ---
 organization_id: '2018121'
-organization_website:
-  - www.nalip.org
-ein: '134198479'
-zip: '90046'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134198479'
+title: 'The National Association of Latino Independent Producers, NALIP'
+org_type: Nonprofit
+org_summary: >-
+  For over 20 years, NALIP has provided resources & guidance to develop the next
+  generation of content creators by providing a pipeline of success between them
+  and the media workforce.
 tags_indicators:
   - Creative economy
   - Workforce development
   - Arts & cultural vitality
   - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134198479'
+organization_website:
+  - www.nalip.org
 twitter: '@nalip_org'
 instagram: '@nalip_org'
 facebook: '@nalip'
-org_type: Nonprofit
+ein: '134198479'
+zip: '90046'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 project_video: 'https://youtu.be/3uy1I03CPas'
-org_summary: >-
-  For over 20 years, NALIP has provided resources & guidance to develop the next
-  generation of content creators by providing a pipeline of success between them
-  and the media workforce.
 aggregated:
   project_ids:
     - '8102121'
@@ -32,14 +33,13 @@ aggregated:
   year_submitted:
     - '2018'
     - '2014'
-title: 'The National Association of Latino Independent Producers, NALIP'
-extrapolated_project_ids:
-  - '4102225'
-project_titles_from_extrapolated_project_ids:
-  - Digitize LA
-original_project_titles:
-  - Digitize LA
 original_project_ids:
   - '4102225'
+original_project_titles:
+  - Digitize LA
+extrapolated_project_ids:
+  - '4102225'
+extrapolated_project_titles:
+  - Digitize LA
 
 ---

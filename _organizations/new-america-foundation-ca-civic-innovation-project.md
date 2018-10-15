@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: ca_civic_innovation_project_logo.png
+maker_image_id: '16898'
 organization_id: '2013144'
-organization_website:
-  - ccip.newamerica.net
-ein: '522096845'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522096845'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: New America Foundation - CA Civic Innovation Project
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16898%252Fdisplay%252Fca_civic_innovation_project_logo.png=c570x385
-project_video: ''
 org_summary: >-
   <p>The CCIP aims to diffuse innovation in California local governments through
   researching and recommending organizational and emerging practices that enable
@@ -47,6 +36,20 @@ org_summary: >-
    
    
    <p>- In September 2012, CCIP began an exploration of how innovation spreads in local government, through a study of how local governmental leaders use formal and informal networks to share information. The project uses a diverse set of methodologies -- from conversations with experts on networks and city administration, to surveys and interviews with public servants and city government associations, to documentation of knowledge sharing practices in several innovative projects undertaken by cities and counties in California. Together, these methods will allow us to explain how city staffers currently receive and disseminate information related to innovation, the barriers to more effective diffusion of ideas and approaches, and the ways in which existing formal networks might be modified to promote better collaboration and communication. We hope that the study will build on successes in the civic innovation space by helping to institutionalize the spread of innovation within and between cities. We seek to provide a roadmap to formal networks for effective modification and replication of successful projects. Our findings report will be released the week of April 1st.</p>
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522096845'
+organization_website:
+  - ccip.newamerica.net
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '522096845'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16898%252Fdisplay%252Fca_civic_innovation_project_logo.png=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102206'
@@ -54,16 +57,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LACivicLab.html'
   year_submitted:
     - '2013'
-title: New America Foundation - CA Civic Innovation Project
-extrapolated_project_ids:
-  - '3102206'
-project_titles_from_extrapolated_project_ids:
-  - LA Civic Engagement Lab
-original_project_titles:
-  - LA Civic Engagement Lab
 original_project_ids:
   - '3102206'
-maker_image_id: '16898'
-maker_image_file_name: ca_civic_innovation_project_logo.png
+original_project_titles:
+  - LA Civic Engagement Lab
+extrapolated_project_ids:
+  - '3102206'
+extrapolated_project_titles:
+  - LA Civic Engagement Lab
 
 ---

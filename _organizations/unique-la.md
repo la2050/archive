@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: LA2050.jpg
+maker_image_id: '17068'
 organization_id: '2013205'
-organization_website:
-  - 'http://www.uniqueusa.com'
-ein: '10973080'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: ''
-instagram: ''
-facebook: ''
+title: UNIQUE LA
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17068%252Fdisplay%252FLA2050.jpg=c570x385
-project_video: ''
 org_summary: >-
   UNIQUE LA has created the largest buy local design show in the country - and
   is the only show to curate and show-off local-made talent. We have brought
@@ -40,6 +29,20 @@ org_summary: >-
    
    
    - An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.uniqueusa.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '10973080'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17068%252Fdisplay%252FLA2050.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102111'
@@ -47,16 +50,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'
   year_submitted:
     - '2013'
-title: UNIQUE LA
-extrapolated_project_ids:
-  - '3102111'
-project_titles_from_extrapolated_project_ids:
-  - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
-original_project_titles:
-  - 'Fuel LA''s Creative Economy, Help UNIQUE LA Build The Creative Lab!'
 original_project_ids:
   - '3102111'
-maker_image_id: '17068'
-maker_image_file_name: LA2050.jpg
+original_project_titles:
+  - 'Fuel LA''s Creative Economy, Help UNIQUE LA Build The Creative Lab!'
+extrapolated_project_ids:
+  - '3102111'
+extrapolated_project_titles:
+  - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
 
 ---

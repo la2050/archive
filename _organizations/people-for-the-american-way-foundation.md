@@ -1,26 +1,27 @@
 ---
 organization_id: '2016169'
-organization_website:
-  - yeonetwork.org/our-work/front-line-leaders-academy
-ein: '133065716'
-zip: '20005'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133065716'
+title: People For the American Way Foundation
+org_type: Nonprofit
+org_summary: >-
+  PFAW Foundation protects constitutional values under attack from the Right and
+  defends the values that honor free speech, religious liberty, equal
+  opportunity and equal justice for all.
 tags_indicators:
   - Teaching & mentorship
   - Voting & civic engagement
   - Education & youth
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133065716'
+organization_website:
+  - yeonetwork.org/our-work/front-line-leaders-academy
 twitter: (None)
 instagram: FrontLineLeadersAcademy
 facebook: (None)
-org_type: Nonprofit
+ein: '133065716'
+zip: '20005'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 project_video: 'https://www.youtube.com/embed/t9dVCR59w60?rel=0&amp;showinfo=0'
-org_summary: >-
-  PFAW Foundation protects constitutional values under attack from the Right and
-  defends the values that honor free speech, religious liberty, equal
-  opportunity and equal justice for all.
 aggregated:
   project_ids:
     - '6102182'
@@ -35,23 +36,22 @@ aggregated:
     - '2016'
     - '2015'
     - '2013'
-title: People For the American Way Foundation
-extrapolated_project_ids:
-  - '6102182'
-  - '5102233'
+original_project_ids:
   - '3102217'
-project_titles_from_extrapolated_project_ids:
-  - Front Line Leaders Academy – Los Angeles
-  - Front Line Leaders Academy - Los Angeles Pilot Program
-  - 'Front Line Leaders Academy: Creating  Change that Lasts'
+  - '5102233'
+  - '6102182'
 original_project_titles:
   - Front Line Leaders Academy - Los Angeles Pilot Program
   - Front Line Leaders Academy – Los Angeles
   - 'Front Line Leaders Academy: Creating  Change that Lasts'
   - 'Micah Leaders Engage Hip Hop Generation in Civic Participation '
-original_project_ids:
-  - '3102217'
-  - '5102233'
+extrapolated_project_ids:
   - '6102182'
+  - '5102233'
+  - '3102217'
+extrapolated_project_titles:
+  - Front Line Leaders Academy – Los Angeles
+  - Front Line Leaders Academy - Los Angeles Pilot Program
+  - 'Front Line Leaders Academy: Creating  Change that Lasts'
 
 ---

@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: FLOW-image-2.jpg
+maker_image_id: '16416'
 organization_id: '2013067'
-organization_website:
-  - 'http://flow.caltech.edu'
-ein: 951643307 (Caltech)
-zip: ''
-charity_navigator_url: >-
-  https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951643307
-  (Caltech)
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: ''
-instagram: ''
-facebook: ''
+title: First Look West
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16416%252Fdisplay%252FFLOW-image-2.jpg=c570x385
-project_video: ''
 org_summary: >-
   <p>FLoW was created in October of 2011, and the first mentorship program and
   competition took place in the spring of 2012. As a result of that first
@@ -73,6 +60,22 @@ org_summary: >-
    
    
    <p>- The program achieved a partnership with the Southern California utilities, who are looking for technologies and talent</p>
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: >-
+  https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951643307
+  (Caltech)
+organization_website:
+  - 'http://flow.caltech.edu'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: 951643307 (Caltech)
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16416%252Fdisplay%252FFLOW-image-2.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102127'
@@ -80,16 +83,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/FLOW.html'
   year_submitted:
     - '2013'
-title: First Look West
-extrapolated_project_ids:
-  - '3102127'
-project_titles_from_extrapolated_project_ids:
-  - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
-original_project_titles:
-  - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
 original_project_ids:
   - '3102127'
-maker_image_id: '16416'
-maker_image_file_name: FLOW-image-2.jpg
+original_project_titles:
+  - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
+extrapolated_project_ids:
+  - '3102127'
+extrapolated_project_titles:
+  - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
 
 ---

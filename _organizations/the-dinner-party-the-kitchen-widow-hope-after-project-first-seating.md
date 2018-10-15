@@ -1,16 +1,21 @@
 ---
+youtube_video_identifier: YijVi1ZG5EM
 organization_id: '2015199'
-organization_website:
-  - www.thedinnerparty.org
-  - ' www.thekitchenwidow.com'
-ein: '954302067'
-zip: '90026'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+title: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
+org_type: Nonprofit
+org_summary: >-
+  The Dinner Party is a community of mostly 20- and 30-somethings who’ve each
+  experienced significant loss, and get together over dinner parties to talk
+  about it and the ways in which it continues to affect our lives.
 tags_indicators:
   - Mental & emotional health
   - Community gatherings
   - Health
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+organization_website:
+  - www.thedinnerparty.org
+  - ' www.thekitchenwidow.com'
 twitter: >-
   www.twitter.com/DinnerPartiers, www.twitter.com/TheKitchenWidow,
   www.twitter.com/FindHopeAfter, www.twitter.com/firstseating
@@ -20,13 +25,10 @@ instagram: >-
 facebook: >-
   www.facebook.com/ThisIsTheDinnerParty, www.facebook.com/TheKitchenWidow,
   https://www.facebook.com/HopeAfterProject, www.facebook.com/firstseating
-org_type: Nonprofit
+ein: '954302067'
+zip: '90026'
 project_image: 'https://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
 project_video: ''
-org_summary: >-
-  The Dinner Party is a community of mostly 20- and 30-somethings who’ve each
-  experienced significant loss, and get together over dinner parties to talk
-  about it and the ways in which it continues to affect our lives.
 aggregated:
   project_ids:
     - '5102300'
@@ -37,15 +39,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-title: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
-extrapolated_project_ids:
-  - '5102300'
-project_titles_from_extrapolated_project_ids:
-  - The Good Grief Garden
-original_project_titles:
-  - The Good Grief Garden
 original_project_ids:
   - '5102300'
-youtube_video_identifier: YijVi1ZG5EM
+original_project_titles:
+  - The Good Grief Garden
+extrapolated_project_ids:
+  - '5102300'
+extrapolated_project_titles:
+  - The Good Grief Garden
 
 ---

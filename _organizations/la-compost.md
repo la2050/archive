@@ -1,25 +1,26 @@
 ---
 organization_id: '2018061'
-organization_website:
-  - lacompost.org
-ein: '461134852'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461134852'
+title: LA Compost
+org_type: Nonprofit
+org_summary: >-
+  LA Compost works alongside a growing network of community members and
+  stakeholders to develop social and physical infrastructure for cohesive
+  composting communities.
 tags_indicators:
   - Climate change
   - Access to parks & green space
   - Environmental quality & sustainability
   - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461134852'
+organization_website:
+  - lacompost.org
 twitter: '@lacompost'
 instagram: '@lacompost'
 facebook: '@l.a.compostCA'
-org_type: Nonprofit
+ein: '461134852'
+zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg'
 project_video: 'https://youtu.be/QeunrIbUzt0'
-org_summary: >-
-  LA Compost works alongside a growing network of community members and
-  stakeholders to develop social and physical infrastructure for cohesive
-  composting communities.
 aggregated:
   project_ids:
     - '8102061'
@@ -34,20 +35,19 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
-title: LA Compost
-extrapolated_project_ids:
+original_project_ids:
   - '6102119'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Building Community and reducing organic waste via Community Compost Hubs
-    throughout LA County
+  - '8102061'
 original_project_titles:
   - >-
     Building Community and reducing organic waste via Community Compost Hubs
     throughout LA County
   - Connect to Soil and People
-original_project_ids:
+extrapolated_project_ids:
   - '6102119'
-  - '8102061'
+extrapolated_project_titles:
+  - >-
+    Building Community and reducing organic waste via Community Compost Hubs
+    throughout LA County
 
 ---

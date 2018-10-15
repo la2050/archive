@@ -1,24 +1,26 @@
 ---
+youtube_video_identifier: atB8yIPXKCk
 organization_id: '2015177'
-organization_website:
-  - www.SeePolitical.com
-ein: '452742032'
-zip: '90402'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452742032'
+title: SeePolitical
+org_type: Nonprofit
+org_summary: >-
+  SeePolitical demystifies the issues on your ballot as well as the process of
+  how they get there.
 tags_indicators:
   - Workforce development
   - Community health
   - Income & employment
   - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452742032'
+organization_website:
+  - www.SeePolitical.com
 twitter: www.twitter.com/SeePolitical
 instagram: n/a
 facebook: www.facebook.com/SeePolitical
-org_type: Nonprofit
+ein: '452742032'
+zip: '90402'
 project_image: 'https://img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg'
 project_video: ''
-org_summary: >-
-  SeePolitical demystifies the issues on your ballot as well as the process of
-  how they get there.
 aggregated:
   project_ids:
     - '5102264'
@@ -29,19 +31,17 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-title: SeePolitical
-extrapolated_project_ids:
-  - '5102264'
-  - '4102189'
-project_titles_from_extrapolated_project_ids:
-  - 'SeePolitical: Make Voting Fun and Easy for Everyone!'
-  - SeePolitical - Making Ballot Propositions Easy to Understand
-original_project_titles:
-  - SeePolitical - Making Ballot Propositions Easy to Understand
-  - 'SeePolitical: Make Voting Fun and Easy for Everyone!'
 original_project_ids:
   - '4102189'
   - '5102264'
-youtube_video_identifier: atB8yIPXKCk
+original_project_titles:
+  - SeePolitical - Making Ballot Propositions Easy to Understand
+  - 'SeePolitical: Make Voting Fun and Easy for Everyone!'
+extrapolated_project_ids:
+  - '5102264'
+  - '4102189'
+extrapolated_project_titles:
+  - 'SeePolitical: Make Voting Fun and Easy for Everyone!'
+  - SeePolitical - Making Ballot Propositions Easy to Understand
 
 ---

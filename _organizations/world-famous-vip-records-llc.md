@@ -1,26 +1,27 @@
 ---
 organization_id: '2018138'
-organization_website:
-  - www.shopviprecords.com
-ein: '820873052'
-zip: '90008'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820873052'
+title: World Famous VIP Records LLC
+org_type: Social enterprise or Bcorps
+org_summary: >-
+  Fosters entrepreneurship and careers in creative arts, music, technology and
+  broadcasting by providing work space and support system to help launch and
+  maintain such careers.
 tags_indicators:
   - Entrepreneurship & innovation
   - Art
   - Income & employment
   - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820873052'
+organization_website:
+  - www.shopviprecords.com
 twitter: viplongbeach
 instagram: ''
 facebook: viplongbeach
-org_type: Social enterprise or Bcorps
+ein: '820873052'
+zip: '90008'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
 project_video: ''
-org_summary: >-
-  Fosters entrepreneurship and careers in creative arts, music, technology and
-  broadcasting by providing work space and support system to help launch and
-  maintain such careers.
 aggregated:
   project_ids:
     - '8102138'
@@ -28,12 +29,11 @@ aggregated:
     - 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
   year_submitted:
     - '2018'
-title: World Famous VIP Records LLC
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-original_project_titles:
-  - World Famous VIP Records Business Incubator and Multi Media Center
 original_project_ids:
   - '8102138'
+original_project_titles:
+  - World Famous VIP Records Business Incubator and Multi Media Center
+extrapolated_project_ids: []
+extrapolated_project_titles: []
 
 ---

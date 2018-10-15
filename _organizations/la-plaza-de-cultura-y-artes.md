@@ -1,24 +1,25 @@
 ---
 organization_id: '2016123'
-organization_website:
-  - www.lapca.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: LAPlazaLA
-instagram: LAPlazaLA
-facebook: LAPlazaLa
+title: LA Plaza de Cultura y Artes
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
-project_video: 'https://www.youtube.com/embed/KlbjX6GafyI?rel=0&amp;showinfo=0'
 org_summary: >-
   LA Plaza de Cultura y Artes celebrates and cultivates an appreciation for the
   enduring and evolving influence of Mexican-American and Latino history, art &
   culture in Southern California.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.lapca.org
+twitter: LAPlazaLA
+instagram: LAPlazaLA
+facebook: LAPlazaLa
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
+project_video: 'https://www.youtube.com/embed/KlbjX6GafyI?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102122'
@@ -27,18 +28,17 @@ aggregated:
       https://challenge.la2050.org/entry/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway!
   year_submitted:
     - '2016'
-title: LA Plaza de Cultura y Artes
-extrapolated_project_ids:
+original_project_ids:
   - '6102122'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
-    pathway!
 original_project_titles:
   - >-
     LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
     pathway!
-original_project_ids:
+extrapolated_project_ids:
   - '6102122'
+extrapolated_project_titles:
+  - >-
+    LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
+    pathway!
 
 ---

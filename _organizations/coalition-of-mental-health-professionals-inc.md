@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: gTKhNc98GIc
 organization_id: '2013041'
-organization_website:
-  - 'http://laBlackworkercenter.org/'
-ein: '954395737'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954395737'
-tags_indicators:
-  - Workforce development
-  - Voting & civic engagement
-  - Income & employment
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'Coalition of Mental Health Professionals, Inc.'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Los Angeles Metro (Metropolitan Transit Authority) Target Hiring Policy: In
   a coalition of local government agencies, trade unions and community
@@ -36,6 +23,21 @@ org_summary: >-
    
    
    <p>Community Monitoring System and Compliance Report Card: The LA Black Worker Center (BWC) developed and piloted a community monitoring tool to foster greater community and worker participation in decision-making processes and to increase access to information in the public contraction arena. The tool provides a mechanism for accountability to the community on public infrastructure investments and how jobs are created. The BWC worked with graduate students and undergraduate research interns to develop a community monitoring tool called the “Public Construction Report Card,” which allows local residents and workers to evaluate and grade contractors’ past practices of employing a representative workforce. The report card evaluated contractors by using indicators such as community outreach and relations, accessibility, civil rights compliance, and transparency. The BWC supervised a team of BWC members and students who tested the report card tool in the field. The tool focused on four bidding contractors on the $1.7 billion Crenshaw/LAX Transit Corridor Project. Though this was a test of the tool, the results proved the public construction report card was a powerful monitoring mechanism in the high-stakes conversations with the contractors. In the end, each contractor team pledged to improve their “grades” and invited the BWC to be directly involved in their workforce pipeline process. The results of the report card pilot became the subject of high-level discussions between the office of Congresswoman Karen Bass, construction team executives, BWC members, and LA Metro staff. </p>
+tags_indicators:
+  - Workforce development
+  - Voting & civic engagement
+  - Income & employment
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954395737'
+organization_website:
+  - 'http://laBlackworkercenter.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954395737'
+zip: ''
+project_image: 'https://img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102078'
@@ -43,15 +45,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/workersrising.html'
   year_submitted:
     - '2013'
-title: 'Coalition of Mental Health Professionals, Inc.'
-extrapolated_project_ids:
-  - '3102078'
-project_titles_from_extrapolated_project_ids:
-  - 'Partnership for Black Workers Rising '
-original_project_titles:
-  - 'Partnership for Black Workers Rising '
 original_project_ids:
   - '3102078'
-youtube_video_identifier: gTKhNc98GIc
+original_project_titles:
+  - 'Partnership for Black Workers Rising '
+extrapolated_project_ids:
+  - '3102078'
+extrapolated_project_titles:
+  - 'Partnership for Black Workers Rising '
 
 ---

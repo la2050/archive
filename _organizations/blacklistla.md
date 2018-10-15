@@ -1,26 +1,27 @@
 ---
 organization_id: '2016021'
-organization_website:
-  - www.blacklistla.city
-ein: '954440752'
-zip: '90006'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954440752'
+title: BlacklistLA
+org_type: Nonprofit
+org_summary: >-
+  BlacklistLA Run Organization (BlacklistLA) provides access to Angelenos of
+  diverse backgrounds to connect with each other through a shared love of
+  running, street art, culture and the City of LA.
 tags_indicators:
   - Fitness & sports
   - Access to parks & green space
   - Health
   - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954440752'
+organization_website:
+  - www.blacklistla.city
 twitter: _blacklistla
 instagram: runblacklistla
 facebook: BlacklistLA
-org_type: Nonprofit
+ein: '954440752'
+zip: '90006'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 project_video: 'https://www.youtube.com/embed/YcJFmTnHOeE?rel=0&amp;showinfo=0'
-org_summary: >-
-  BlacklistLA Run Organization (BlacklistLA) provides access to Angelenos of
-  diverse backgrounds to connect with each other through a shared love of
-  running, street art, culture and the City of LA.
 aggregated:
   project_ids:
     - '6102019'
@@ -32,16 +33,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
-title: BlacklistLA
+original_project_ids:
+  - '5102029'
+original_project_titles:
+  - BlacklistLA Moves Toward The Future
 extrapolated_project_ids:
   - '6102019'
   - '5102029'
-project_titles_from_extrapolated_project_ids:
+extrapolated_project_titles:
   - 'BlacklistLA: On the Playground Where We Spent Most of Our Days'
   - BlacklistLA Moves Toward The Future
-original_project_titles:
-  - BlacklistLA Moves Toward The Future
-original_project_ids:
-  - '5102029'
 
 ---

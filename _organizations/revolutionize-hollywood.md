@@ -1,26 +1,27 @@
 ---
 organization_id: '2018103'
-organization_website:
-  - 'https://www.revolutionizehollywood.com/'
-ein: '812011003'
-zip: '90024'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812011003'
+title: Revolutionize Hollywood
+org_type: Social enterprise or Bcorps
+org_summary: >-
+  We help LA artists approach their career with an entrepreneur mindset, we host
+  events and have created an online market place so that LA artist gain
+  visibility, make money and sustain longevity.
 tags_indicators:
   - Art
   - Entrepreneurship & innovation
   - Arts & cultural vitality
   - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812011003'
+organization_website:
+  - 'https://www.revolutionizehollywood.com/'
 twitter: '@REVOLUTIONIZEHW'
 instagram: '@revolutionizehollywood'
 facebook: 'https://www.facebook.com/revolutionizehollywood'
-org_type: Social enterprise or Bcorps
+ein: '812011003'
+zip: '90024'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
 project_video: ''
-org_summary: >-
-  We help LA artists approach their career with an entrepreneur mindset, we host
-  events and have created an online market place so that LA artist gain
-  visibility, make money and sustain longevity.
 aggregated:
   project_ids:
     - '8102103'
@@ -28,18 +29,17 @@ aggregated:
     - 'https://activation.la2050.org/create/revolutionize-hollywood/'
   year_submitted:
     - '2018'
-title: Revolutionize Hollywood
-extrapolated_project_ids:
+original_project_ids:
   - '8102103'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
-    Place for creatives.
 original_project_titles:
   - >-
     Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
     Place for creatives.
-original_project_ids:
+extrapolated_project_ids:
   - '8102103'
+extrapolated_project_titles:
+  - >-
+    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
+    Place for creatives.
 
 ---

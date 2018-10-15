@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: 100_Trees_3.jpg
+maker_image_id: '16690'
 organization_id: '2013197'
-organization_website:
-  - 'http://www.healthiscity.com'
-ein: '800831358'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Access to healthy food
-  - Health
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'The Waters Wheel, LLC'
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16690%252Fdisplay%252F100_Trees_3.jpg=c570x385
-project_video: ''
 org_summary: >-
   Aquaponic/Aeroponic farm design and implementation/supervision at Hollygrove
   Farms, New Orleans, 2011-12
@@ -36,6 +25,20 @@ org_summary: >-
    
    
    Presently designing Buena Park Gardens, multiple Aquaponic and Aeroponic greenhouses on 10 acres under power-line easement, Knott Ave., Buena Park
+tags_indicators:
+  - Access to healthy food
+  - Health
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.healthiscity.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '800831358'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16690%252Fdisplay%252F100_Trees_3.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102108'
@@ -43,16 +46,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Heal_This_City.html'
   year_submitted:
     - '2013'
-title: 'The Waters Wheel, LLC'
-extrapolated_project_ids:
-  - '3102108'
-project_titles_from_extrapolated_project_ids:
-  - Heal This City
-original_project_titles:
-  - Heal This City
 original_project_ids:
   - '3102108'
-maker_image_id: '16690'
-maker_image_file_name: 100_Trees_3.jpg
+original_project_titles:
+  - Heal This City
+extrapolated_project_ids:
+  - '3102108'
+extrapolated_project_titles:
+  - Heal This City
 
 ---

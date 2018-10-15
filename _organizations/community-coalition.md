@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: 8O5p-fqguRo
 organization_id: '2013044'
-organization_website:
-  - www.cocosouthla.org
-ein: '954298811'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954298811'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Community Coalition
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Community Coalition hopes to build on its major accomplishments from its
   20-year history to broaden the impact of its policies victories in the future.
@@ -46,6 +35,19 @@ org_summary: >-
    
    
    * The “Equal Access to College Prep” campaign achieved the landmark A-G Resolution in 2005, mandating that A-G college preparatory curriculum be made available in all schools in LAUSD. Coalition youth leaders recognized that the majority of South LA youth were not on track to graduate and were ineligible for college based on college pre-requirements. In this five-year effort, the Coalition trained student leaders to engage with elected officials and decision-makers. The Coalition also co-founded Communities for Educ</p>
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954298811'
+organization_website:
+  - www.cocosouthla.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954298811'
+zip: ''
+project_image: 'https://img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102087'
@@ -53,16 +55,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/SaferHoods.html'
   year_submitted:
     - '2013'
-title: Community Coalition
-extrapolated_project_ids:
+original_project_ids:
   - '3102087'
-project_titles_from_extrapolated_project_ids:
-  - Safer Hoods Through Arts Action and Community
 original_project_titles:
   - Community Coalition
   - 'Safer ''Hoods Through Arts, Action, and Community'
-original_project_ids:
+extrapolated_project_ids:
   - '3102087'
-youtube_video_identifier: 8O5p-fqguRo
+extrapolated_project_titles:
+  - Safer Hoods Through Arts Action and Community
 
 ---

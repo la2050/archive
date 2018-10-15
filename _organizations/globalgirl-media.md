@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: gHdNsESWQgM
 organization_id: '2013081'
-organization_website:
-  - www.globalgirlmedia.org
-ein: '912154834'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912154834'
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: GlobalGirl Media
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   As of June 2012, GGM has implemented initiatives in seven cities in South
   Africa, Morocco, Chicago and L.A., training more than 120 young women, who
@@ -84,6 +73,19 @@ org_summary: >-
    
    
    Fast Company named GlobalGirl Media one of the top 5 groups that should win Google’s Journalism Prize.
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912154834'
+organization_website:
+  - www.globalgirlmedia.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '912154834'
+zip: ''
+project_image: 'https://img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102139'
@@ -91,15 +93,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'
   year_submitted:
     - '2013'
-title: GlobalGirl Media
-extrapolated_project_ids:
-  - '3102139'
-project_titles_from_extrapolated_project_ids:
-  - GLOBALGIRL MEDIA HIVE NETWORK
-original_project_titles:
-  - GLOBALGIRL MEDIA HIVE NETWORK
 original_project_ids:
   - '3102139'
-youtube_video_identifier: gHdNsESWQgM
+original_project_titles:
+  - GLOBALGIRL MEDIA HIVE NETWORK
+extrapolated_project_ids:
+  - '3102139'
+extrapolated_project_titles:
+  - GLOBALGIRL MEDIA HIVE NETWORK
 
 ---

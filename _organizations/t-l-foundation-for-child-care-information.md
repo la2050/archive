@@ -1,25 +1,26 @@
 ---
 organization_id: '2016204'
-organization_website:
-  - www.tlfcci.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: T&L Foundation for Child Care Information
+org_type: Nonprofit
+org_summary: >-
+  Strengthen quality child care and early education through participation in and
+  education of health and wellness initiatives.
 tags_indicators:
   - Early childhood
   - Access to healthy food
   - Education & youth
   - Health
+charity_navigator_url: ''
+organization_website:
+  - www.tlfcci.org
 twitter: tlfcci
 instagram: tandlfoundationforchildcareinformation
 facebook: tlfcci
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 project_video: ''
-org_summary: >-
-  Strengthen quality child care and early education through participation in and
-  education of health and wellness initiatives.
 aggregated:
   project_ids:
     - '6102224'
@@ -33,15 +34,9 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
-title: T&L Foundation for Child Care Information
-extrapolated_project_ids:
+original_project_ids:
+  - '4102243'
   - '6102224'
-  - '5102286'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Culinary Skills in a Box - Giving Children in Child Care the Tools to
-    Establish Healthy Habits
-  - 'Caregiver and Me: Get Healthy with Sesame Street'
 original_project_titles:
   - >-
     Caregivers & Kids - License-Exempt & Child Inclusive Nutrition and Physical
@@ -49,8 +44,13 @@ original_project_titles:
   - >-
     Culinary Skills in a Box - Giving Children in Child Care the Tools to
     Establish Healthy Habits
-original_project_ids:
-  - '4102243'
+extrapolated_project_ids:
   - '6102224'
+  - '5102286'
+extrapolated_project_titles:
+  - >-
+    Culinary Skills in a Box - Giving Children in Child Care the Tools to
+    Establish Healthy Habits
+  - 'Caregiver and Me: Get Healthy with Sesame Street'
 
 ---

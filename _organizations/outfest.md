@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: Access_LA_Rt_copy.jpg
+maker_image_id: '16858'
 organization_id: '2013148'
-organization_website:
-  - Outfest.org
-ein: '954089601'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954089601'
-tags_indicators:
-  - Community gatherings
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Outfest
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385
-project_video: ''
 org_summary: >-
   Founded by UCLA students in 1982, Outfest is the leading organization that
   promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
@@ -27,6 +16,20 @@ org_summary: >-
   festivals in Southern California, the only LGBT people of color film festival,
   three filmmaking programs using mentors, and we have over 400 volunteers who
   participate in our programs.
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954089601'
+organization_website:
+  - Outfest.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954089601'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102211'
@@ -34,16 +37,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/neighbor.html'
   year_submitted:
     - '2013'
-title: Outfest
-extrapolated_project_ids:
-  - '3102211'
-project_titles_from_extrapolated_project_ids:
-  - 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
-original_project_titles:
-  - 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
 original_project_ids:
   - '3102211'
-maker_image_id: '16858'
-maker_image_file_name: Access_LA_Rt_copy.jpg
+original_project_titles:
+  - 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
+extrapolated_project_ids:
+  - '3102211'
+extrapolated_project_titles:
+  - 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
 
 ---

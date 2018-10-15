@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: LA_YouthCorps_Logo-01.png
+maker_image_id: '16837'
 organization_id: '2013082'
-organization_website:
-  - www.gradesofgreen.org
-ein: '270637837'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270637837'
-tags_indicators:
-  - Teaching & mentorship
-  - Air & water
-  - Education & youth
-  - Environmental quality & sustainability
-twitter: ''
-instagram: ''
-facebook: ''
+title: Grades of Green
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16837%252Fdisplay%252FLA_YouthCorps_Logo-01.png=c570x385
-project_video: ''
 org_summary: |-
   <p>EXPANSION & RECOGNITION</p>
    
@@ -52,6 +39,22 @@ org_summary: |-
    
    
    <p>Other Youth Corps and Grades of Green students are tackling environmental problems big and small at their schools and in their communities. For example, Yaeeun H is using Grades of Green 3R curriculum to teach kids at her school about how and why to protect the environment; Sydney H, a sixth grader, is organizing an e-waste collection drive at her school; Sam H is collecting used shoes to donate to Soles for Souls; and Lauren S and Jenna R, both sixth graders, are working to plant a native garden at their school. These kids are the future of Los Angeles and our best hope of making our vision for Los Angeles a reality in 2050. </p>
+tags_indicators:
+  - Teaching & mentorship
+  - Air & water
+  - Education & youth
+  - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270637837'
+organization_website:
+  - www.gradesofgreen.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '270637837'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16837%252Fdisplay%252FLA_YouthCorps_Logo-01.png=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102140'
@@ -59,17 +62,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/goglayc.html'
   year_submitted:
     - '2013'
-title: Grades of Green
-extrapolated_project_ids:
+original_project_ids:
   - '3102140'
-project_titles_from_extrapolated_project_ids:
-  - Grades of Green  Los Angeles Youth Corps
 original_project_titles:
   - Grades of Green - Los Angeles Environmental Youth Corps
   - Grades of Green - Los Angeles Youth Corps
-original_project_ids:
+extrapolated_project_ids:
   - '3102140'
-maker_image_id: '16837'
-maker_image_file_name: LA_YouthCorps_Logo-01.png
+extrapolated_project_titles:
+  - Grades of Green  Los Angeles Youth Corps
 
 ---

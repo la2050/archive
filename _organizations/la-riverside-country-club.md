@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: rt9TuksVaZU
 organization_id: '2013115'
-organization_website:
-  - lariversidecountryclub.com
-ein: '270983281'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270983281'
-tags_indicators:
-  - Air & water
-  - Environmental quality & sustainability
-twitter: ''
-instagram: ''
-facebook: ''
+title: LA Riverside Country Club
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>The individuals associated with the project have two avenues of connection
   and work together:</p>
@@ -35,6 +24,19 @@ org_summary: >-
    
    
    <p>This project would synthesize relationships developed over several years between the members of the team by giving focus to an on-the ground experimental project.</p>
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270983281'
+organization_website:
+  - lariversidecountryclub.com
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '270983281'
+zip: ''
+project_image: 'https://img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102172'
@@ -42,15 +44,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LARiversideCC.html'
   year_submitted:
     - '2013'
-title: LA Riverside Country Club
-extrapolated_project_ids:
-  - '3102172'
-project_titles_from_extrapolated_project_ids:
-  - PLUNGE into the waters of the LA River
-original_project_titles:
-  - PLUNGE into the waters of the LA River
 original_project_ids:
   - '3102172'
-youtube_video_identifier: rt9TuksVaZU
+original_project_titles:
+  - PLUNGE into the waters of the LA River
+extrapolated_project_ids:
+  - '3102172'
+extrapolated_project_titles:
+  - PLUNGE into the waters of the LA River
 
 ---

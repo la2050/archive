@@ -1,21 +1,22 @@
 ---
 organization_id: '2016018'
-organization_website:
-  - bicycleculture.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: Bicycle Culture Institute
+org_type: Nonprofit
+org_summary: 'We make bicycling awesome through events, programs and social innovation.'
 tags_indicators:
   - Transportation
   - Mobility
+charity_navigator_url: ''
+organization_website:
+  - bicycleculture.org
 twitter: LABikeTrains
 instagram: LABikeTrains/
 facebook: bicyclecultureinst/
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/l2oE7AX8gtw?rel=0&amp;showinfo=0'
-org_summary: 'We make bicycling awesome through events, programs and social innovation.'
 aggregated:
   project_ids:
     - '6102016'
@@ -29,23 +30,22 @@ aggregated:
     - '2016'
     - '2016'
     - '2014'
-title: Bicycle Culture Institute
-extrapolated_project_ids:
+original_project_ids:
+  - '4102024'
   - '6102015'
   - '6102016'
-  - '4102024'
-project_titles_from_extrapolated_project_ids:
-  - LA Bike Fest
-  - LA Bike Trains - APP + Wayfinding Signage
-  - 'R5Y7: bici destino'
 original_project_titles:
   - LA Bike Fest
   - LA Bike Trains - APP + Wayfinding Signage
   - 'Life is Better with Bicycles; learning, playing and inspiring change.'
   - 'R5Y7: bici destino'
-original_project_ids:
-  - '4102024'
+extrapolated_project_ids:
   - '6102015'
   - '6102016'
+  - '4102024'
+extrapolated_project_titles:
+  - LA Bike Fest
+  - LA Bike Trains - APP + Wayfinding Signage
+  - 'R5Y7: bici destino'
 
 ---

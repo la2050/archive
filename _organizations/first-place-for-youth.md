@@ -1,24 +1,25 @@
 ---
 organization_id: '2016078'
-organization_website:
-  - firstplaceforyouth.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: FPFY
-instagram: FirstPlaceforYouth
-facebook: firstplaceforyouth
+title: First Place for Youth
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
-project_video: ''
 org_summary: >-
   First Place provides foster youth with intensive support to complete their
   high school diploma or GED certificate, enroll in college, and obtain
   employment—while accessing safe, affordable housing.
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - firstplaceforyouth.org
+twitter: FPFY
+instagram: FirstPlaceforYouth
+facebook: firstplaceforyouth
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
+project_video: ''
 aggregated:
   project_ids:
     - '6102068'
@@ -27,18 +28,17 @@ aggregated:
       https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
   year_submitted:
     - '2016'
-title: First Place for Youth
-extrapolated_project_ids:
+original_project_ids:
   - '6102068'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    First Place: Providing at-risk foster youth with the skills they need to be
-    college and career ready
 original_project_titles:
   - >-
     First Place: Providing at-risk foster youth with the skills they need to be
     college and career ready
-original_project_ids:
+extrapolated_project_ids:
   - '6102068'
+extrapolated_project_titles:
+  - >-
+    First Place: Providing at-risk foster youth with the skills they need to be
+    college and career ready
 
 ---

@@ -1,23 +1,25 @@
 ---
+youtube_video_identifier: W6D_g6EB-QY
 organization_id: '2015007'
-organization_website:
-  - www.ambulanteusa.com
-ein: '465509683'
-zip: '90405'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465509683'
-tags_indicators:
-  - Community gatherings
-  - Social connectedness
-twitter: www.twitter.com/ambulanteca
-instagram: www.instagram.com/ambulanteca
-facebook: www.facebook.com/ambulantecalifornia
+title: Ambulante
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Generate dialogue, cultural exchange and revitalize public spaces through a
   mobile, curated documentary series, which travels directly into communities to
   offer it 100% for free.
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465509683'
+organization_website:
+  - www.ambulanteusa.com
+twitter: www.twitter.com/ambulanteca
+instagram: www.instagram.com/ambulanteca
+facebook: www.facebook.com/ambulantecalifornia
+ein: '465509683'
+zip: '90405'
+project_image: 'https://img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102014'
@@ -28,23 +30,21 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-title: Ambulante
+original_project_ids:
+  - '5102014'
+original_project_titles:
+  - >-
+    Let Ambulante connect new audiences to your nonprofit thru public
+    documentary screenings all year
 extrapolated_project_ids:
   - '5102014'
   - '4102007'
-project_titles_from_extrapolated_project_ids:
+extrapolated_project_titles:
   - >-
     Let Ambulante connect new audiences to your nonprofit thru public
     documentary screenings all year
   - >-
     A traveling documentary film festival revitalizing public spaces with free
     community events.
-original_project_titles:
-  - >-
-    Let Ambulante connect new audiences to your nonprofit thru public
-    documentary screenings all year
-original_project_ids:
-  - '5102014'
-youtube_video_identifier: W6D_g6EB-QY
 
 ---

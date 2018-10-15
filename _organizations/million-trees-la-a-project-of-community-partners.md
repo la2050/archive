@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: IMUZKtO4vOw
 organization_id: '2013134'
-organization_website:
-  - facebook.com/MillionTreesLA
-ein: '954302067'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-tags_indicators:
-  - Air & water
-  - Access to parks & green space
-  - Environmental quality & sustainability
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'Million Trees LA, a project of Community Partners'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg'
-project_video: ''
 org_summary: |-
   400,000 Trees by July 2013
    
@@ -66,6 +53,21 @@ org_summary: |-
    
    
    2009-“Outstanding Achievement Award” from the Environmental Protection Agency.
+tags_indicators:
+  - Air & water
+  - Access to parks & green space
+  - Environmental quality & sustainability
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+organization_website:
+  - facebook.com/MillionTreesLA
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954302067'
+zip: ''
+project_image: 'https://img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102197'
@@ -73,19 +75,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
   year_submitted:
     - '2013'
-title: 'Million Trees LA, a project of Community Partners'
-extrapolated_project_ids:
+original_project_ids:
   - '3102197'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Million Trees LA  Plant Toward a Sustainable Urban Forest That Supports
-    Healthy Families .
 original_project_titles:
   - >-
     Million Trees LA - Plant Toward a Sustainable Urban Forest That Supports
     Healthy Families .
-original_project_ids:
+extrapolated_project_ids:
   - '3102197'
-youtube_video_identifier: IMUZKtO4vOw
+extrapolated_project_titles:
+  - >-
+    Million Trees LA  Plant Toward a Sustainable Urban Forest That Supports
+    Healthy Families .
 
 ---

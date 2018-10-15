@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
+maker_image_id: '16706'
 organization_id: '2013162'
-organization_website:
-  - www.reDiscoverCenter.org
-ein: '200192617'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200192617'
-tags_indicators:
-  - Art
-  - Teaching & mentorship
-  - Arts & cultural vitality
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: reDiscover Center
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16706%252Fdisplay%252FreDiscover_Upcyle_Innovate.jpg=c570x385
-project_video: ''
 org_summary: >-
   Using everyday discards donated by local businesses reDiscover’s range of
   hands-on, educational programs and workshops has served 24,500 people. We are
@@ -33,6 +20,22 @@ org_summary: >-
    
    
    We are also very proud of the inspiration our center provides to children. As 9 year old Beatriz said during a field trip, “I could live at this place!”
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200192617'
+organization_website:
+  - www.reDiscoverCenter.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '200192617'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16706%252Fdisplay%252FreDiscover_Upcyle_Innovate.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102228'
@@ -40,16 +43,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Innovate.html'
   year_submitted:
     - '2013'
-title: reDiscover Center
-extrapolated_project_ids:
-  - '3102228'
-project_titles_from_extrapolated_project_ids:
-  - Upcycle Innovation
-original_project_titles:
-  - Upcycle Innovation
 original_project_ids:
   - '3102228'
-maker_image_id: '16706'
-maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
+original_project_titles:
+  - Upcycle Innovation
+extrapolated_project_ids:
+  - '3102228'
+extrapolated_project_titles:
+  - Upcycle Innovation
 
 ---

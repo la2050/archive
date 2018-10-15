@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: 360.png
+maker_image_id: '17017'
 organization_id: '2013108'
-organization_website:
-  - www.kifoundation.org
-ein: '954773494'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: ''
-instagram: ''
-facebook: ''
+title: Kreative Images Foundation
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17017%252Fdisplay%252F360.png=c570x385
-project_video: ''
 org_summary: >-
   The founder of C-360, Sherita J. Herring, and the Kreative Images Foundation
   (K.I.) is equipped with the experience, contacts and professional acumen to
@@ -47,6 +36,20 @@ org_summary: >-
    
    
    From creating programs for battered women and forming after school programs for youth in the U.S. to installing water towers in the Philippines, K.I. has touched lives all over the globe—China, Mexico, Australia, Russia, Canada, Sierra Leone, Nigeria, Ghana, India, South America, Belgium, Trinidad, Tobago, and so many others.
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - www.kifoundation.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954773494'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17017%252Fdisplay%252F360.png=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102065'
@@ -54,16 +57,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/C-360.html'
   year_submitted:
     - '2013'
-title: Kreative Images Foundation
-extrapolated_project_ids:
-  - '3102065'
-project_titles_from_extrapolated_project_ids:
-  - Collaborative 360 — Creating Successful Pathways to 2050
-original_project_titles:
-  - Collaborative 360 – Creating Successful Pathways to 2050
 original_project_ids:
   - '3102065'
-maker_image_id: '17017'
-maker_image_file_name: 360.png
+original_project_titles:
+  - Collaborative 360 – Creating Successful Pathways to 2050
+extrapolated_project_ids:
+  - '3102065'
+extrapolated_project_titles:
+  - Collaborative 360 — Creating Successful Pathways to 2050
 
 ---

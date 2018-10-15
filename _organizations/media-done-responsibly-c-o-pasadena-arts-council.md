@@ -1,23 +1,25 @@
 ---
+youtube_video_identifier: H107Gy4bTFs
 organization_id: '2015135'
-organization_website:
-  - www.mediadoneresponsibly.org
-ein: '952540759'
-zip: '90101'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: www.twitter.com/mediadoneresp
-instagram: ''
-facebook: www.facebook.com/mediadoneresponsibly
+title: Media Done Responsibly c/o Pasadena Arts Council
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Media Done Responsibly is a media leadership program providing healthy media
   and lifestyle alternatives to teens by training them to be critical thinkers,
   decision makers, conscious consumers and creators of media in the Digital Age.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
+organization_website:
+  - www.mediadoneresponsibly.org
+twitter: www.twitter.com/mediadoneresp
+instagram: ''
+facebook: www.facebook.com/mediadoneresponsibly
+ein: '952540759'
+zip: '90101'
+project_image: 'https://img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102204'
@@ -25,19 +27,17 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
   year_submitted:
     - '2015'
-title: Media Done Responsibly c/o Pasadena Arts Council
-extrapolated_project_ids:
+original_project_ids:
   - '5102204'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Linking Middle High School & College Students through Humanity Centered
-    Media
 original_project_titles:
   - >-
     Linking Middle, High School, & College Students through Humanity Centered
     Media
-original_project_ids:
+extrapolated_project_ids:
   - '5102204'
-youtube_video_identifier: H107Gy4bTFs
+extrapolated_project_titles:
+  - >-
+    Linking Middle High School & College Students through Humanity Centered
+    Media
 
 ---

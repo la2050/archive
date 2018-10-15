@@ -1,24 +1,25 @@
 ---
 organization_id: '2018020'
-organization_website:
-  - www.fostermore.org
-ein: '943213100'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943213100'
-tags_indicators:
-  - Early childhood
-  - Education & youth
-twitter: 'https://twitter.com/FosterMore'
-instagram: FosterMore
-facebook: 'https://www.facebook.com/FosterMore'
+title: Children's Action Network
 org_type: Nonprofit
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
-project_video: 'https://youtu.be/JPeuzRmiI3w'
 org_summary: >-
   FosterMore highlights the amazing potential of youth in the foster care system
   and encourages all of us to play a part in ensuring that they receive the
   support and guidance they need to thrive.
+tags_indicators:
+  - Early childhood
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943213100'
+organization_website:
+  - www.fostermore.org
+twitter: 'https://twitter.com/FosterMore'
+instagram: FosterMore
+facebook: 'https://www.facebook.com/FosterMore'
+ein: '943213100'
+zip: ''
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
+project_video: 'https://youtu.be/JPeuzRmiI3w'
 aggregated:
   project_ids:
     - '8102020'
@@ -33,12 +34,11 @@ aggregated:
     - '2018'
     - '2016'
     - '2014'
-title: Children's Action Network
+original_project_ids: []
+original_project_titles: []
 extrapolated_project_ids:
   - '6102035'
-project_titles_from_extrapolated_project_ids:
+extrapolated_project_titles:
   - FosterMore-Because No Child Makes It Alone
-original_project_titles: []
-original_project_ids: []
 
 ---

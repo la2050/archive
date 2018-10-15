@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: BoyleTalk.jpg
+maker_image_id: '16663'
 organization_id: '2013171'
-organization_website:
-  - www.sjsbp.org
-ein: '951897685'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951897685'
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: St. John the Baptist Social Services
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16663%252Fdisplay%252FBoyleTalk.jpg=c570x385
-project_video: ''
 org_summary: >-
   St. John the Baptist Social Service has a long history of involvement in the
   community, aiding those in need. The program has been meeting the many
@@ -56,6 +45,20 @@ org_summary: >-
    
    
    The Social Services program has been developing greater and deeper linkages in the community to provide better delivery of resources. This project will take this process even further to yield wonderful dividends. The foundation of social connectedness has been established; now, the program looks to grow the structure.
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951897685'
+organization_website:
+  - www.sjsbp.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '951897685'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16663%252Fdisplay%252FBoyleTalk.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102237'
@@ -63,16 +66,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/sjbsocialservices.html'
   year_submitted:
     - '2013'
-title: St. John the Baptist Social Services
-extrapolated_project_ids:
-  - '3102237'
-project_titles_from_extrapolated_project_ids:
-  - 'Building Bridges in the San Gabriel Valley: Social Connectedness in Action'
-original_project_titles:
-  - 'Building Bridges in the San Gabriel Valley: Social Connectedness in Action'
 original_project_ids:
   - '3102237'
-maker_image_id: '16663'
-maker_image_file_name: BoyleTalk.jpg
+original_project_titles:
+  - 'Building Bridges in the San Gabriel Valley: Social Connectedness in Action'
+extrapolated_project_ids:
+  - '3102237'
+extrapolated_project_titles:
+  - 'Building Bridges in the San Gabriel Valley: Social Connectedness in Action'
 
 ---

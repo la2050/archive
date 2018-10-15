@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: collaboration_statement.jpg
+maker_image_id: '17060'
 organization_id: '2013076'
-organization_website:
-  - 'http://www.fbcsylmar.com/ FYI'
-  - ' this (outdated) site will not be the representative page of this project. A website developer has already begun work on something for this specific project'
-  - ' it''s completion/purchasing the domain are yet undone due to the fact that they are presently tied to yet unfunded budget'
-ein: '930699645'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=930699645'
-tags_indicators:
-  - Community gatherings
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: FSBCS dba Community Builders Resource Network (CBRN)
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17060%252Fdisplay%252Fcollaboration_statement.jpg=c570x385
-project_video: ''
 org_summary: >-
   The First Southern Baptist Church of Sylmar (FSBCS), who is the sponsoring
   partner of this initiative, began a food pantry immediately after the
@@ -33,6 +20,22 @@ org_summary: >-
    
    
    This has been done by effectively collaborating with a host of other community organizations from withing the public and private sectors. As continued recipients of Federal resources, the boundaries between Church and State are clearly understood and respected.
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=930699645'
+organization_website:
+  - 'http://www.fbcsylmar.com/ FYI'
+  - ' this (outdated) site will not be the representative page of this project. A website developer has already begun work on something for this specific project'
+  - ' it''s completion/purchasing the domain are yet undone due to the fact that they are presently tied to yet unfunded budget'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '930699645'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17060%252Fdisplay%252Fcollaboration_statement.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102135'
@@ -40,16 +43,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/CBRN.html'
   year_submitted:
     - '2013'
-title: FSBCS dba Community Builders Resource Network (CBRN)
-extrapolated_project_ids:
-  - '3102135'
-project_titles_from_extrapolated_project_ids:
-  - Community Builders Resource Network (CBRN)
-original_project_titles:
-  - Community Builders Resource Network (CBRN)
 original_project_ids:
   - '3102135'
-maker_image_id: '17060'
-maker_image_file_name: collaboration_statement.jpg
+original_project_titles:
+  - Community Builders Resource Network (CBRN)
+extrapolated_project_ids:
+  - '3102135'
+extrapolated_project_titles:
+  - Community Builders Resource Network (CBRN)
 
 ---

@@ -1,26 +1,27 @@
 ---
 organization_id: '2018015'
-organization_website:
-  - www.centerforcouncil.org
-ein: '954302067'
-zip: '90015'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+title: 'Center for Council, a project of Community Partners'
+org_type: Nonprofit
+org_summary: >-
+  Center for Council trains individuals and communities to lead Council circles
+  that facilitate dialogue, deepen compassion and understanding, and support
+  social and restorative justice.
 tags_indicators:
   - Voting & civic engagement
   - Mental & emotional health
   - Social connectedness
   - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+organization_website:
+  - www.centerforcouncil.org
 twitter: '@ctrforcouncil'
 instagram: '@CenterforCouncil'
 facebook: CenterforCouncil
-org_type: Nonprofit
+ein: '954302067'
+zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=TAAc3xB3YTk'
-org_summary: >-
-  Center for Council trains individuals and communities to lead Council circles
-  that facilitate dialogue, deepen compassion and understanding, and support
-  social and restorative justice.
 aggregated:
   project_ids:
     - '8102015'
@@ -32,12 +33,11 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
-title: 'Center for Council, a project of Community Partners'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-original_project_titles:
-  - Connection through Council
 original_project_ids:
   - '8102015'
+original_project_titles:
+  - Connection through Council
+extrapolated_project_ids: []
+extrapolated_project_titles: []
 
 ---

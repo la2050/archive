@@ -1,26 +1,27 @@
 ---
 organization_id: '2016113'
-organization_website:
-  - www.jenesse.org
-ein: '953652529'
-zip: '90008'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953652529'
+title: 'Jenesse Center, Inc.'
+org_type: Nonprofit
+org_summary: >-
+  Jenesse Center provides victims of domestic violence and their children
+  support that is culturally responsive to help ensure their successful
+  transition from immediate crisis to self-sufficiency.
 tags_indicators:
   - Community gatherings
   - Community health
   - Social connectedness
   - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953652529'
+organization_website:
+  - www.jenesse.org
 twitter: JenesseCenter
 instagram: JenesseCenter/
 facebook: jenessecenter
-org_type: Nonprofit
+ein: '953652529'
+zip: '90008'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Rols-6I43HE?rel=0&amp;showinfo=0'
-org_summary: >-
-  Jenesse Center provides victims of domestic violence and their children
-  support that is culturally responsive to help ensure their successful
-  transition from immediate crisis to self-sufficiency.
 aggregated:
   project_ids:
     - '6102108'
@@ -38,26 +39,25 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
-title: 'Jenesse Center, Inc.'
-extrapolated_project_ids:
-  - '6102108'
-  - '5102149'
-  - '4102103'
-  - '3102159'
-project_titles_from_extrapolated_project_ids:
-  - 'Jeneration J: A New Generation of Healthy Relationships'
-  - 'Abuse ≠Love: LA Youth Against Violence Initiative'
-  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
-  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
-original_project_titles:
-  - 'Abuse ≠Love: LA Youth Against Violence Initiative '
-  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
-  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
-  - 'Jeneration J: A New Generation of Healthy Relationships'
 original_project_ids:
   - '3102159'
   - '4102103'
   - '5102149'
   - '6102108'
+original_project_titles:
+  - 'Abuse ≠Love: LA Youth Against Violence Initiative '
+  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
+  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
+  - 'Jeneration J: A New Generation of Healthy Relationships'
+extrapolated_project_ids:
+  - '6102108'
+  - '5102149'
+  - '4102103'
+  - '3102159'
+extrapolated_project_titles:
+  - 'Jeneration J: A New Generation of Healthy Relationships'
+  - 'Abuse ≠Love: LA Youth Against Violence Initiative'
+  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
+  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
 
 ---

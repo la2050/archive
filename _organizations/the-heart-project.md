@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: DSCF5143_eventbrite.jpg
+maker_image_id: '16966'
 organization_id: '2013188'
-organization_website:
-  - www.theheartproject.org
-ein: '954199692'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954199692'
-tags_indicators:
-  - Art
-  - Teaching & mentorship
-  - Arts & cultural vitality
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: The HeArt Project
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16966%252Fdisplay%252FDSCF5143_eventbrite.jpg=c570x385
-project_video: ''
 org_summary: >-
   Started in 1992 at one site with a budget of $2,000, HP now serves 650
   students in 25 school sites throughout three school districts with an
@@ -71,6 +58,22 @@ org_summary: >-
    
    
    Scholarships have traditionally taken place in the summers, but this past fall, HP has an unprecedented 8 students participating in advanced programs - 6 at Art Center’s Saturday High and their college-level program Art Center at Night; one at the Taper, one in Ryman Arts.
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954199692'
+organization_website:
+  - www.theheartproject.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954199692'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16966%252Fdisplay%252FDSCF5143_eventbrite.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102249'
@@ -78,16 +81,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/theheartproject.html'
   year_submitted:
     - '2013'
-title: The HeArt Project
-extrapolated_project_ids:
-  - '3102249'
-project_titles_from_extrapolated_project_ids:
-  - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
-original_project_titles:
-  - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
 original_project_ids:
   - '3102249'
-maker_image_id: '16966'
-maker_image_file_name: DSCF5143_eventbrite.jpg
+original_project_titles:
+  - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
+extrapolated_project_ids:
+  - '3102249'
+extrapolated_project_titles:
+  - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
 
 ---

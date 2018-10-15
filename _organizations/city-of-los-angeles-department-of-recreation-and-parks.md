@@ -1,24 +1,25 @@
 ---
 organization_id: '2016039'
-organization_website:
-  - www.laparks.org
-ein: '956000735'
-zip: '90046'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
-tags_indicators:
-  - Access to parks & green space
-  - Public safety & public space
-twitter: LACityParks
-instagram: LACityParks
-facebook: LACityParks
+title: City of Los Angeles Department of Recreation and Parks
 org_type: Government
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
-project_video: 'https://www.youtube.com/embed/3HIz022aUd4?rel=0&amp;showinfo=0'
 org_summary: >-
   The City of Los Angeles, Department of Recreation and Parks (RAP) provides
   healthy lifestyle opportunities and play experiences at easily accessible
   vibrant parks for families in Los Angeles.
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
+organization_website:
+  - www.laparks.org
+twitter: LACityParks
+instagram: LACityParks
+facebook: LACityParks
+ein: '956000735'
+zip: '90046'
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
+project_video: 'https://www.youtube.com/embed/3HIz022aUd4?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102038'
@@ -39,28 +40,27 @@ aggregated:
     - '2015'
     - '2015'
     - '2013'
-title: City of Los Angeles Department of Recreation and Parks
+original_project_ids:
+  - '3102014'
+  - '5102059'
+  - '5102061'
+  - '6102038'
+original_project_titles:
+  - 'Camp Educates Kids Forever '
+  - KIPP (Kids Indoor Play Park)
+  - LA Dance Immersion
+  - Ocean Heroes - Saving Lives Daily as a Water Rescuer
 extrapolated_project_ids:
   - '6102038'
   - '5102059'
   - '5102061'
   - '5102060'
   - '3102014'
-project_titles_from_extrapolated_project_ids:
+extrapolated_project_titles:
   - Ocean Heroes - Saving Lives Daily as a Water Rescuer
   - KIPP (Kids Indoor Play Park)
   - LA Dance Immersion
   - 'Learning to Save Lives: Training Future Lifeguards and Water Rescuers'
   - 'Camp Educates Kids Forever '
-original_project_titles:
-  - 'Camp Educates Kids Forever '
-  - KIPP (Kids Indoor Play Park)
-  - LA Dance Immersion
-  - Ocean Heroes - Saving Lives Daily as a Water Rescuer
-original_project_ids:
-  - '3102014'
-  - '5102059'
-  - '5102061'
-  - '6102038'
 
 ---

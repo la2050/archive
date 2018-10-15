@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: cEATGWzLMiM
 organization_id: '2013053'
-organization_website:
-  - 'http://www.diyfo.org'
-ein: '453753219'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Art
-  - Community gatherings
-  - Arts & cultural vitality
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: DIYFO (Do-It-Yourself. For Others.)
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/cEATGWzLMiM/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   In fewer than 18 months, DIYFO has grown from an arts and crafts-oriented
   meeting among friends at a bar, to an organization whose vision will change
@@ -31,6 +18,21 @@ org_summary: >-
    
    
     We plan to accomplish much more in 2013 and beyond, by instituting our pilot program in a physical space, while meanwhile expanding our multimedia content to extend our reach — using all available resources and outlets to provide artistic opportunities, advance appreciation and understanding, and unlock the creative potential in all of LA’s residents.
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.diyfo.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '453753219'
+zip: ''
+project_image: 'https://img.youtube.com/vi/cEATGWzLMiM/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102024'
@@ -38,15 +40,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/diyfo.html'
   year_submitted:
     - '2013'
-title: DIYFO (Do-It-Yourself. For Others.)
-extrapolated_project_ids:
-  - '3102024'
-project_titles_from_extrapolated_project_ids:
-  - 'DIYFO: DIY For Others. An accessible space for cultivating creative talent'
-original_project_titles:
-  - 'DIYFO: DIY For Others. An accessible space for cultivating creative talent'
 original_project_ids:
   - '3102024'
-youtube_video_identifier: cEATGWzLMiM
+original_project_titles:
+  - 'DIYFO: DIY For Others. An accessible space for cultivating creative talent'
+extrapolated_project_ids:
+  - '3102024'
+extrapolated_project_titles:
+  - 'DIYFO: DIY For Others. An accessible space for cultivating creative talent'
 
 ---

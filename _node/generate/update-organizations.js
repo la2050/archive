@@ -54,6 +54,29 @@ function loadMarkdown(filename) {
 }
 
 
+const attributes = [
+  'organization_id',
+  'title',
+  'org_type',
+  'org_summary',
+  'tags_indicators',
+  'charity_navigator_url',
+  'organization_website',
+  'twitter',
+  'instagram',
+  'facebook',
+  'ein',
+  'zip',
+  'project_image',
+  'project_video',
+  'aggregated',
+  'original_project_ids',
+  'original_project_titles',
+  'extrapolated_project_ids',
+  'extrapolated_project_titles'
+]
+
+
 function saveMarkdown(filename, data) {
   // console.log('filename')
   // console.log(filename)
@@ -63,7 +86,18 @@ function saveMarkdown(filename, data) {
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
 `---
-${yaml.safeDump(data.yaml)}
+${yaml.safeDump(data.yaml, {sortKeys: (a, b) => {
+  // a is less than b by some ordering criterion
+  if (attributes.indexOf(a) < attributes.indexOf(b)) {
+    return -1
+  }
+  // a is greater than b by the ordering criterion
+  if (attributes.indexOf(a) > attributes.indexOf(b)) {
+    return 1
+  }
+  // a must be equal to b
+  return 0
+}})}
 ---${data.content}`
 
 

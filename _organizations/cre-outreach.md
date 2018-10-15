@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: pp9oh64x-9Y
 organization_id: '2013046'
-organization_website:
-  - www.creoutreach.org
-ein: '261127320'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261127320'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: CRE Outreach
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   In the past two years, CRE Outreach has become a fixture within the Inglewood
   Unified School District serving over 100 at-risk youth with after-school
@@ -33,6 +22,19 @@ org_summary: >-
   “Heroes’ Stories” — a performing arts residency that gives a voice to our
   nations brave service members helping to honor and empower them through
   theatre.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261127320'
+organization_website:
+  - www.creoutreach.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '261127320'
+zip: ''
+project_image: 'https://img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102095'
@@ -40,15 +42,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/creoutreach.html'
   year_submitted:
     - '2013'
-title: CRE Outreach
-extrapolated_project_ids:
-  - '3102095'
-project_titles_from_extrapolated_project_ids:
-  - Transforming Lives One Show at a Time
-original_project_titles:
-  - 'Transforming Lives, One Show at a Time'
 original_project_ids:
   - '3102095'
-youtube_video_identifier: pp9oh64x-9Y
+original_project_titles:
+  - 'Transforming Lives, One Show at a Time'
+extrapolated_project_ids:
+  - '3102095'
+extrapolated_project_titles:
+  - Transforming Lives One Show at a Time
 
 ---

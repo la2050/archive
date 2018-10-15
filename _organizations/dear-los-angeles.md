@@ -1,18 +1,9 @@
 ---
+maker_image_file_name: IMG_1031.JPG
+maker_image_id: '16214'
 organization_id: '2013051'
-organization_website: ''
-ein: N/A
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=N/A'
-tags_indicators:
-  - Community gatherings
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Dear Los Angeles
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: |-
   None. 
    
@@ -27,6 +18,18 @@ org_summary: |-
    
    
    I can tell you that as an individual, I have line produced two feature films, one of which was acquired and released by Lionsgate (you can view my resume on IMDB at http://www.imdb.com/name/nm1336027/). I have become a member of the Producer's Guild of America, and I partnered with others on two separate internet media companies, and while they fell short of expectations, I have learned from their mistakes.
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=N/A'
+organization_website: ''
+twitter: ''
+instagram: ''
+facebook: ''
+ein: N/A
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102103'
@@ -34,16 +37,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'
   year_submitted:
     - '2013'
-title: Dear Los Angeles
-extrapolated_project_ids:
-  - '3102103'
-project_titles_from_extrapolated_project_ids:
-  - Dear Los Angeles
-original_project_titles:
-  - Dear Los Angeles
 original_project_ids:
   - '3102103'
-maker_image_id: '16214'
-maker_image_file_name: IMG_1031.JPG
+original_project_titles:
+  - Dear Los Angeles
+extrapolated_project_ids:
+  - '3102103'
+extrapolated_project_titles:
+  - Dear Los Angeles
 
 ---

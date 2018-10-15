@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: Diane_Gershuny.jpg
+maker_image_id: '16987'
 organization_id: '2013085'
-organization_website:
-  - 'http://www.greenoctopus.net/'
-ein: '270088781'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Air & water
-  - Environmental quality & sustainability
-twitter: ''
-instagram: ''
-facebook: ''
+title: Green Octopus Consulting
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16987%252Fdisplay%252FDiane_Gershuny.jpg=c570x385
-project_video: ''
 org_summary: >-
   &nbsp;</p>* Working with Business Improvement Districts and community groups
   in LA and around the U.S. since 1999 on sustainable urban transport and
@@ -31,6 +20,20 @@ org_summary: >-
    
    
    &nbsp;</p>* Being the subject of Copenhagen’s Bicycle Manager, Andreas Rohl’s grant to study our work in Long Beach and San Diego in an effort to implement our ideas in Copenhagen.
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.greenoctopus.net/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '270088781'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16987%252Fdisplay%252FDiane_Gershuny.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102054'
@@ -38,19 +41,16 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/BikeShopLocal.html'
   year_submitted:
     - '2013'
-title: Green Octopus Consulting
-extrapolated_project_ids:
-  - '3102054'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    What’s the BF(B)D? Connecting Neighborhoods through BicycleFriendly Business
-    Districts
+original_project_ids: []
 original_project_titles:
   - >-
     What’s the BF(B)D? Connecting Neighborhoods through Bicycle-Friendly
     Business Districts
-original_project_ids: []
-maker_image_id: '16987'
-maker_image_file_name: Diane_Gershuny.jpg
+extrapolated_project_ids:
+  - '3102054'
+extrapolated_project_titles:
+  - >-
+    What’s the BF(B)D? Connecting Neighborhoods through BicycleFriendly Business
+    Districts
 
 ---

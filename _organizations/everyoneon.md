@@ -1,25 +1,26 @@
 ---
 organization_id: '2016074'
-organization_website:
-  - everyoneon.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - STEM & Digital literacy
-  - College prep
-  - Education & youth
-twitter: Everyone_On
-instagram: EveryoneOn/
-facebook: N/A
+title: EveryoneOn
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
-project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
 org_summary: >-
   EveryoneOn is committed to eliminating the digital divide by making
   high-speed, low-cost Internet, computers, and free digital literacy training
   accessible to all unconnected people in the U.S.
+tags_indicators:
+  - STEM & Digital literacy
+  - College prep
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - everyoneon.org
+twitter: Everyone_On
+instagram: EveryoneOn/
+facebook: N/A
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
+project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102065'
@@ -30,22 +31,21 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
-title: EveryoneOn
-extrapolated_project_ids:
-  - '6102065'
+original_project_ids:
   - '4102067'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Connect with Promise: Providing Internet Connectivity & Devices to Families
-    in Public Housing
-  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
+  - '6102065'
 original_project_titles:
   - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
   - >-
     Connect with Promise: Providing Internet Connectivity & Devices to Families
     in Public Housing
-original_project_ids:
-  - '4102067'
+extrapolated_project_ids:
   - '6102065'
+  - '4102067'
+extrapolated_project_titles:
+  - >-
+    Connect with Promise: Providing Internet Connectivity & Devices to Families
+    in Public Housing
+  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
 
 ---

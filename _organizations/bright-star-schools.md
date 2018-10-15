@@ -1,20 +1,8 @@
 ---
+youtube_video_identifier: '-t89MRZW7G0'
 organization_id: '2013023'
-organization_website:
-  - www.brightstarschools.org
-ein: '550806673'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=550806673'
-tags_indicators:
-  - Teaching & mentorship
-  - College prep
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Bright Star Schools
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/-t89MRZW7G0/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Since opening, Bright Star's schools have earned some of the highest API
   scores in Los Angeles, making our organization one of the preeminent schools
@@ -93,6 +81,20 @@ org_summary: >-
    
    
    Connectors also built a “College Center” on the high school campus where students and families can access college resources such as financial aid and scholarship information and applications, admissions exams and study guides, and participate in college-bound workshops led by Connectors.
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=550806673'
+organization_website:
+  - www.brightstarschools.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '550806673'
+zip: ''
+project_image: 'https://img.youtube.com/vi/-t89MRZW7G0/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102042'
@@ -100,15 +102,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/connections.html'
   year_submitted:
     - '2013'
-title: Bright Star Schools
-extrapolated_project_ids:
-  - '3102042'
-project_titles_from_extrapolated_project_ids:
-  - The Connections Program
-original_project_titles:
-  - The Connections Program
 original_project_ids:
   - '3102042'
-youtube_video_identifier: '-t89MRZW7G0'
+original_project_titles:
+  - The Connections Program
+extrapolated_project_ids:
+  - '3102042'
+extrapolated_project_titles:
+  - The Connections Program
 
 ---

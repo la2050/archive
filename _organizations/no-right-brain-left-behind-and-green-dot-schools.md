@@ -1,16 +1,8 @@
 ---
+youtube_video_identifier: y3Gts_Aoxd8
 organization_id: '2013145'
-organization_website:
-  - www.rightbrainsare.us
-ein: '954679811'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954679811'
-twitter: ''
-instagram: ''
-facebook: ''
+title: No Right Brain Left Behind and Green Dot Schools
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Over the past 12 years, Green Dot has grown from a single 9th grade class
   of 140 students in Inglewood to serve 10,300 at-risk students in 18 schools
@@ -42,6 +34,16 @@ org_summary: >-
    
    
    <p>NRBLB has been awarded accolades by Core77Design and The Swedish-American Chamber of Commerce; presented at events such as TEDx, Art Directors Club, and LiveWire; and been featured in FastCompany, GOOD Magazine, Core77, BrainPickings, Design Mind, and Art Rebels. To date, NRBLB has built a strong coalition of companies, design schools, education networks, and creative professionals able to develop scalable, low-cost, and adoptable innovation tools that enhance creativity inside and outside of classrooms. </p>
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954679811'
+organization_website:
+  - www.rightbrainsare.us
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954679811'
+zip: ''
+project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102207'
@@ -49,14 +51,12 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/salamanderproject.html'
   year_submitted:
     - '2013'
-title: No Right Brain Left Behind and Green Dot Schools
-extrapolated_project_ids:
-  - '3102207'
-project_titles_from_extrapolated_project_ids:
-  - 'The Salamander Project: Redesigning Creativity in Education'
+original_project_ids: []
 original_project_titles:
   - 'The Salamander Project: Re-designing Creativity in Education'
-original_project_ids: []
-youtube_video_identifier: y3Gts_Aoxd8
+extrapolated_project_ids:
+  - '3102207'
+extrapolated_project_titles:
+  - 'The Salamander Project: Redesigning Creativity in Education'
 
 ---

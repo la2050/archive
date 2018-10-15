@@ -1,23 +1,26 @@
 ---
+maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
+maker_image_id: '20546'
 organization_id: '2014067'
-organization_website:
-  - www.laparks.org/pershingsquare
-ein: '954302067'
-zip: '90012'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-tags_indicators:
-  - Access to parks & green space
-  - Public safety & public space
-twitter: www.twitter.com/psdowntownla
-instagram: ''
-facebook: www.facebook.com/PershingSquareLA
+title: Pershing Square Park Advisory Board
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385
-project_video: ''
 org_summary: >-
   The Pershing Square Park Advisory Board (PAB) is a volunteer organization
   chartered by the City of LA to help support Pershing Square Park.
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+organization_website:
+  - www.laparks.org/pershingsquare
+twitter: www.twitter.com/psdowntownla
+instagram: ''
+facebook: www.facebook.com/PershingSquareLA
+ein: '954302067'
+zip: '90012'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '4102068'
@@ -28,18 +31,15 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
-title: Pershing Square Park Advisory Board
+original_project_ids:
+  - '3102218'
+original_project_titles:
+  - Kids Play at Pershing Square
 extrapolated_project_ids:
   - '4102167'
   - '3102218'
-project_titles_from_extrapolated_project_ids:
+extrapolated_project_titles:
   - Kids Play at Pershing Square
   - Kids Play at Pershing Square
-original_project_titles:
-  - Kids Play at Pershing Square
-original_project_ids:
-  - '3102218'
-maker_image_id: '20546'
-maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 
 ---

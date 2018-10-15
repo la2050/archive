@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: LA2050_JRG.jpg
+maker_image_id: '16877'
 organization_id: '2013100'
-organization_website:
-  - 'http://www.jemmottrollinsgroup.net'
-ein: '680530628'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Income & employment
-twitter: ''
-instagram: ''
-facebook: ''
+title: Jemmott Rollins Group
 org_type: For profit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16877%252Fdisplay%252FLA2050_JRG.jpg=c570x385
-project_video: ''
 org_summary: >-
   <p>As a management consulting firm, Jemmott Rollins Group has built a
   reputation for developing innovative concepts and providing leadership in
@@ -68,6 +57,20 @@ org_summary: >-
    
    
    <p>For additional background information, please visit our website at jemmottrollinsgroup.net.</p>
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.jemmottrollinsgroup.net'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '680530628'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16877%252Fdisplay%252FLA2050_JRG.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102063'
@@ -75,16 +78,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/SOUTHLAHUB.html'
   year_submitted:
     - '2013'
-title: Jemmott Rollins Group
-extrapolated_project_ids:
-  - '3102063'
-project_titles_from_extrapolated_project_ids:
-  - 'The South LA Hub: Strengthening Nonprofits in South Los Angeles '
-original_project_titles:
-  - 'The South LA Hub: Strengthening Nonprofits in South Los Angeles '
 original_project_ids:
   - '3102063'
-maker_image_id: '16877'
-maker_image_file_name: LA2050_JRG.jpg
+original_project_titles:
+  - 'The South LA Hub: Strengthening Nonprofits in South Los Angeles '
+extrapolated_project_ids:
+  - '3102063'
+extrapolated_project_titles:
+  - 'The South LA Hub: Strengthening Nonprofits in South Los Angeles '
 
 ---

@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: ajJ28FU4Wws
 organization_id: '2013150'
-organization_website:
-  - 'http://parentrevolution.org/'
-ein: '202207418'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202207418'
-tags_indicators:
-  - Teaching & mentorship
-  - Voting & civic engagement
-  - Education & youth
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Parent Revolution
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/ajJ28FU4Wws/maxresdefault.jpg'
-project_video: ''
 org_summary: |-
   LAUSD: Public School Choice
    
@@ -114,6 +101,21 @@ org_summary: |-
    
    
    In February, on a 7- 0 vote, the Board of Education unanimously approved the parents’ petition.
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202207418'
+organization_website:
+  - 'http://parentrevolution.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '202207418'
+zip: ''
+project_image: 'https://img.youtube.com/vi/ajJ28FU4Wws/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102213'
@@ -121,15 +123,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/ParentTrigger.html'
   year_submitted:
     - '2013'
-title: Parent Revolution
-extrapolated_project_ids:
-  - '3102213'
-project_titles_from_extrapolated_project_ids:
-  - Transforming Los Angeles Schools Using the Parent Trigger Law
-original_project_titles:
-  - Transforming Los Angeles Schools Using the Parent Trigger Law
 original_project_ids:
   - '3102213'
-youtube_video_identifier: ajJ28FU4Wws
+original_project_titles:
+  - Transforming Los Angeles Schools Using the Parent Trigger Law
+extrapolated_project_ids:
+  - '3102213'
+extrapolated_project_titles:
+  - Transforming Los Angeles Schools Using the Parent Trigger Law
 
 ---

@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: image.jpg
+maker_image_id: '16307'
 organization_id: '2013138'
-organization_website:
-  - Www.musek.org
-ein: '546674177'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - College prep
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: MUSEK
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   The program is fairly new and underfunded. However, all students who have been
   enrolled in the program for the 2012-2013 cycle- have been accepted to a 4
@@ -28,6 +18,19 @@ org_summary: >-
    
    
    This program has shown that it can help students improve their grades by empowering with tools that inspire critical thinking, focus, and organization. Implementing this curriculum has definitely motivated my students to pursue higher education. Not only are they thinking about college but they now understand the skills they must develop to get into college and to succeed in college.
+tags_indicators:
+  - College prep
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - Www.musek.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '546674177'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102079'
@@ -35,16 +38,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/MUSEK.html'
   year_submitted:
     - '2013'
-title: MUSEK
-extrapolated_project_ids:
-  - '3102079'
-project_titles_from_extrapolated_project_ids:
-  - Empowering students thru arts and education
-original_project_titles:
-  - Empowering students thru arts and education
 original_project_ids:
   - '3102079'
-maker_image_id: '16307'
-maker_image_file_name: image.jpg
+original_project_titles:
+  - Empowering students thru arts and education
+extrapolated_project_ids:
+  - '3102079'
+extrapolated_project_titles:
+  - Empowering students thru arts and education
 
 ---

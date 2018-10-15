@@ -1,20 +1,8 @@
 ---
+youtube_video_identifier: w8o0x9VRbvE
 organization_id: '2013014'
-organization_website:
-  - 'http://www.artsharela.org'
-ein: '954660373'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954660373'
-tags_indicators:
-  - Art
-  - Creative economy
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: Art Share L.A.
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   For over a decade, Art Share L.A. has provided 30-affordable live/work units
   in the booming Downtown Arts District, supporting hundreds of artists
@@ -44,6 +32,20 @@ org_summary: >-
    
    
    Currently, Art Share L.A. is pursuing the creation of on going immersive and interactive art experiences through digital augment reality platforms like Aurasma in partnership with ceramic street artist, Zenka. We will create interactive, augmented reality ceramic art installations in the Arts District.
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954660373'
+organization_website:
+  - 'http://www.artsharela.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '954660373'
+zip: ''
+project_image: 'https://img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102026'
@@ -51,15 +53,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/artsharela.html'
   year_submitted:
     - '2013'
-title: Art Share L.A.
-extrapolated_project_ids:
-  - '3102026'
-project_titles_from_extrapolated_project_ids:
-  - Creative Placemaking in Downtown L.A.
-original_project_titles:
-  - Creative Placemaking in Downtown L.A.
 original_project_ids:
   - '3102026'
-youtube_video_identifier: w8o0x9VRbvE
+original_project_titles:
+  - Creative Placemaking in Downtown L.A.
+extrapolated_project_ids:
+  - '3102026'
+extrapolated_project_titles:
+  - Creative Placemaking in Downtown L.A.
 
 ---

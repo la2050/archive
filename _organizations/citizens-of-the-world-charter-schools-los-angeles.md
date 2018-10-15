@@ -1,23 +1,24 @@
 ---
 organization_id: '2016038'
-organization_website:
-  - www.cwclosangeles.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: cwc_losangeles
-instagram: cwclosangeles
-facebook: cwc_losangeles
+title: 'Citizens of the World Charter Schools, Los Angeles'
 org_type: Nonprofit
-project_image: 'http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg'
-project_video: ''
 org_summary: >-
   Citizens of the World Los Angeles (CWC LA) operates three highly diverse,
   academically challenging, and community-based public charter schools currently
   serving 1,600 students in grades TK-7.
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - www.cwclosangeles.org
+twitter: cwc_losangeles
+instagram: cwclosangeles
+facebook: cwc_losangeles
+ein: ''
+zip: ''
+project_image: 'http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '6102037'
@@ -31,20 +32,19 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
-title: 'Citizens of the World Charter Schools, Los Angeles'
-extrapolated_project_ids:
-  - '6102037'
+original_project_ids:
   - '5102057'
-project_titles_from_extrapolated_project_ids:
-  - 'CWC LA: building communities that embrace equity and address injustice'
-  - >-
-    A Peaceful Los Angeles: Developing the Hearts and Minds of Our Future
-    Leaders
 original_project_titles:
   - >-
     A Peaceful Los Angeles: Developing the Hearts and Minds of Our Future
     Leaders
-original_project_ids:
+extrapolated_project_ids:
+  - '6102037'
   - '5102057'
+extrapolated_project_titles:
+  - 'CWC LA: building communities that embrace equity and address injustice'
+  - >-
+    A Peaceful Los Angeles: Developing the Hearts and Minds of Our Future
+    Leaders
 
 ---

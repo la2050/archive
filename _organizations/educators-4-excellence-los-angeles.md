@@ -1,25 +1,26 @@
 ---
 organization_id: '2016068'
-organization_website:
-  - www.educators4excellence.org
-ein: '273382030'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273382030'
+title: Educators 4 Excellence-Los Angeles
+org_type: Nonprofit
+org_summary: >-
+  An individual teacher can change what’s possible in her classroom, but a
+  movement of teachers can change what’s possible in our education system.
 tags_indicators:
   - Teaching & mentorship
   - Voting & civic engagement
   - Education & youth
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273382030'
+organization_website:
+  - www.educators4excellence.org
 twitter: Ed4Excellence
 instagram: Educators4Excellence
 facebook: ed4excellence
-org_type: Nonprofit
+ein: '273382030'
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
 project_video: 'https://www.youtube.com/embed/vk1BgrHSmZ0?rel=0&amp;showinfo=0'
-org_summary: >-
-  An individual teacher can change what’s possible in her classroom, but a
-  movement of teachers can change what’s possible in our education system.
 aggregated:
   project_ids:
     - '6102063'
@@ -31,18 +32,17 @@ aggregated:
   year_submitted:
     - '2016'
     - '2013'
-title: Educators 4 Excellence-Los Angeles
-extrapolated_project_ids:
-  - '6102063'
-  - '3102121'
-project_titles_from_extrapolated_project_ids:
-  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
-  - Teachers Leading from the Classroom
-original_project_titles:
-  - Teachers Leading from the Classroom
-  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
 original_project_ids:
   - '3102121'
   - '6102063'
+original_project_titles:
+  - Teachers Leading from the Classroom
+  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
+extrapolated_project_ids:
+  - '6102063'
+  - '3102121'
+extrapolated_project_titles:
+  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
+  - Teachers Leading from the Classroom
 
 ---

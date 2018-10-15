@@ -1,24 +1,27 @@
 ---
+maker_image_file_name: fair.jpg
+maker_image_id: '23390'
 organization_id: '2015133'
-organization_website:
-  - www.maps4college.org
-ein: '262915543'
-zip: '90703'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262915543'
-tags_indicators:
-  - College prep
-  - Education & youth
-twitter: 'https://twitter.com/hashtag/maps4college'
-instagram: ''
-facebook: 'https://www.facebook.com/MAPS4College'
+title: MAPS 4 College
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23390%252Fdisplay%252Ffair.jpg=c570x385
-project_video: ''
 org_summary: >-
   This organization maps the transitional process of students’ from college to
   the workforce by considering factors of college preparation, volunteerism,
   internships, and networking.
+tags_indicators:
+  - College prep
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262915543'
+organization_website:
+  - www.maps4college.org
+twitter: 'https://twitter.com/hashtag/maps4college'
+instagram: ''
+facebook: 'https://www.facebook.com/MAPS4College'
+ein: '262915543'
+zip: '90703'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23390%252Fdisplay%252Ffair.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '5102202'
@@ -29,17 +32,9 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-title: MAPS 4 College
-extrapolated_project_ids:
-  - '5102202'
+original_project_ids:
   - '4102140'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Mapping the Transition Process: Bridging the Gap Between College and the
-    Workforce
-  - >-
-    Bridge Skilled Workers & Businesses to Have LA Become the First Certified
-    Work Ready Community in CA
+  - '5102202'
 original_project_titles:
   - >-
     Bridge Skilled Workers & Businesses to Have LA Become the First Certified
@@ -47,10 +42,15 @@ original_project_titles:
   - >-
     Mapping the Transition Process: Bridging the Gap Between College and the
     Workforce
-original_project_ids:
-  - '4102140'
+extrapolated_project_ids:
   - '5102202'
-maker_image_id: '23390'
-maker_image_file_name: fair.jpg
+  - '4102140'
+extrapolated_project_titles:
+  - >-
+    Mapping the Transition Process: Bridging the Gap Between College and the
+    Workforce
+  - >-
+    Bridge Skilled Workers & Businesses to Have LA Become the First Certified
+    Work Ready Community in CA
 
 ---

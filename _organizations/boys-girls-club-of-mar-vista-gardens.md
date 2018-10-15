@@ -1,20 +1,8 @@
 ---
+youtube_video_identifier: xtg0o0s_GEU
 organization_id: '2013020'
-organization_website:
-  - 'http://www.smbgc.org'
-ein: '951890706'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951890706'
-tags_indicators:
-  - Teaching & mentorship
-  - College prep
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Boys & Girls Club of Mar Vista Gardens
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/xtg0o0s_GEU/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   The Boys & Girls Club of Mar Vista Gardens has only just recently opened on
   January 28th. To date, 264 young people from the housing community have
@@ -29,6 +17,20 @@ org_summary: >-
   tutoring our younger members. Two of our teens also had the opportunity to go
   to the Keystone Conference for their demonstrated leadership and community
   service.
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951890706'
+organization_website:
+  - 'http://www.smbgc.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '951890706'
+zip: ''
+project_image: 'https://img.youtube.com/vi/xtg0o0s_GEU/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102037'
@@ -36,15 +38,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/begreat.html'
   year_submitted:
     - '2013'
-title: Boys & Girls Club of Mar Vista Gardens
-extrapolated_project_ids:
-  - '3102037'
-project_titles_from_extrapolated_project_ids:
-  - 'BE GREAT Mentoring Program '
-original_project_titles:
-  - 'BE GREAT Mentoring Program '
 original_project_ids:
   - '3102037'
-youtube_video_identifier: xtg0o0s_GEU
+original_project_titles:
+  - 'BE GREAT Mentoring Program '
+extrapolated_project_ids:
+  - '3102037'
+extrapolated_project_titles:
+  - 'BE GREAT Mentoring Program '
 
 ---

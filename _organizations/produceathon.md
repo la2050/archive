@@ -1,25 +1,26 @@
 ---
 organization_id: '2018097'
-organization_website:
-  - www.produceAthon.org
-ein: '300945310'
-zip: '90071'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300945310'
+title: ProduceAthon
+org_type: Nonprofit
+org_summary: >-
+  ProduceAthon uses a HackAthon meets Incentive Challenge approach to catalyze
+  communities in creating compelling content about and technology solutions for
+  pressing social challenges.
 tags_indicators:
   - STEM & Digital literacy
   - Voting & civic engagement
   - Education & youth
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300945310'
+organization_website:
+  - www.produceAthon.org
 twitter: '@ProduceAthon'
 instagram: '@produceAthon'
 facebook: www.facebook.com/ProduceAthon
-org_type: Nonprofit
+ein: '300945310'
+zip: '90071'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg'
 project_video: ''
-org_summary: >-
-  ProduceAthon uses a HackAthon meets Incentive Challenge approach to catalyze
-  communities in creating compelling content about and technology solutions for
-  pressing social challenges.
 aggregated:
   project_ids:
     - '8102097'
@@ -31,17 +32,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
-title: ProduceAthon
-extrapolated_project_ids:
-  - '8102097'
+original_project_ids:
   - '6102190'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
-    Change in 72-Hours
-  - >-
-    #StoryTeching: Delivering civic innovation via storytelling & technology
-    based incentive challenges
+  - '8102097'
 original_project_titles:
   - >-
     #StoryTeching: Delivering civic innovation via storytelling & technology
@@ -49,8 +42,15 @@ original_project_titles:
   - >-
     ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
     Change in 72-Hours
-original_project_ids:
-  - '6102190'
+extrapolated_project_ids:
   - '8102097'
+  - '6102190'
+extrapolated_project_titles:
+  - >-
+    ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
+    Change in 72-Hours
+  - >-
+    #StoryTeching: Delivering civic innovation via storytelling & technology
+    based incentive challenges
 
 ---

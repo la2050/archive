@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: zenfunder-la2050.png
+maker_image_id: '16290'
 organization_id: '2013037'
-organization_website:
-  - 'http://www.citysourced.com'
-ein: '271272815'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'CitySourced, Inc.'
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   <p>As a leader in the civic engagement space, CitySourced has received
   numerous awards. Below are just a few:</p>
@@ -50,6 +40,19 @@ org_summary: >-
    
    
    <p>We also have some great reference customers. CitySourced is the official civic engagement platform for cities such as San Jose, San Diego, Honolulu, Omaha and the LAUSD. Our solution directly benefits over 13.2 million citizens worldwide, and we're deployed in six countries spread out across the globe.</p>
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.citysourced.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '271272815'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102017'
@@ -60,20 +63,17 @@ aggregated:
   year_submitted:
     - '2013'
     - '2013'
-title: 'CitySourced, Inc.'
-extrapolated_project_ids:
-  - '3102017'
-  - '3102019'
-project_titles_from_extrapolated_project_ids:
-  - Civic Crowdfunding Platform for Local Government and Schools
-  - Smartphone App for Civic Crime Reporting
-original_project_titles:
-  - Civic Crowdfunding Platform for Local Government and Schools
-  - Smartphone App for Civic Crime Reporting
 original_project_ids:
   - '3102017'
   - '3102019'
-maker_image_id: '16290'
-maker_image_file_name: zenfunder-la2050.png
+original_project_titles:
+  - Civic Crowdfunding Platform for Local Government and Schools
+  - Smartphone App for Civic Crime Reporting
+extrapolated_project_ids:
+  - '3102017'
+  - '3102019'
+extrapolated_project_titles:
+  - Civic Crowdfunding Platform for Local Government and Schools
+  - Smartphone App for Civic Crime Reporting
 
 ---

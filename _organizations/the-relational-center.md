@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: 3J2TSZ1AMHM
 organization_id: '2013196'
-organization_website:
-  - 'http://www.relationalcenter.org'
-ein: '260511164'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260511164'
-tags_indicators:
-  - Mental & emotional health
-  - Resiliency
-  - Health
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: The Relational Center
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>Funded by The Annenberg Foundation, The Relational Center launched a pilot
   anti-bullying campaign in select LAUSD campuses last year in partnership with
@@ -29,6 +16,21 @@ org_summary: >-
    
    
    <p>Since 2007, The Relational Center has reached over 3,000 residents of Greater Los Angeles with a broad-based social health strategy that includes mental health care, workforce development for service providers and community organizers, social action campaigns, public dialogue facilitation and capacity building support. </p>
+tags_indicators:
+  - Mental & emotional health
+  - Resiliency
+  - Health
+  - Public safety & public space
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260511164'
+organization_website:
+  - 'http://www.relationalcenter.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '260511164'
+zip: ''
+project_image: 'https://img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102256'
@@ -36,15 +38,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/relationalcenter.html'
   year_submitted:
     - '2013'
-title: The Relational Center
-extrapolated_project_ids:
-  - '3102256'
-project_titles_from_extrapolated_project_ids:
-  - 'Camp reLAte: A Community Organizing Approach to Cultivating Connectedness'
-original_project_titles:
-  - 'Camp reLAte: A Community Organizing Approach to Cultivating Connectedness'
 original_project_ids:
   - '3102256'
-youtube_video_identifier: 3J2TSZ1AMHM
+original_project_titles:
+  - 'Camp reLAte: A Community Organizing Approach to Cultivating Connectedness'
+extrapolated_project_ids:
+  - '3102256'
+extrapolated_project_titles:
+  - 'Camp reLAte: A Community Organizing Approach to Cultivating Connectedness'
 
 ---

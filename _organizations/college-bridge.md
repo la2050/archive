@@ -1,23 +1,24 @@
 ---
 organization_id: '2016047'
-organization_website:
-  - www.college-bridge.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - College prep
-  - Education & youth
-twitter: College_Bridge
-instagram: CollegeBridgeLA
-facebook: college.bridge
+title: College Bridge
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
-project_video: 'https://www.youtube.com/embed/EVn09zI9fe4?rel=0&amp;showinfo=0'
 org_summary: >-
   College Bridge's mission is to increase college access and success for
   underrepresented students in Los Angeles County.
+tags_indicators:
+  - College prep
+  - Education & youth
+charity_navigator_url: ''
+organization_website:
+  - www.college-bridge.org
+twitter: College_Bridge
+instagram: CollegeBridgeLA
+facebook: college.bridge
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
+project_video: 'https://www.youtube.com/embed/EVn09zI9fe4?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102046'
@@ -28,22 +29,21 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
-title: College Bridge
-extrapolated_project_ids:
-  - '6102046'
+original_project_ids:
   - '4102041'
-project_titles_from_extrapolated_project_ids:
-  - 'Future Focus: College and Career Pathways for LA County Students'
-  - >-
-    LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
-    Colleges in LA County
+  - '6102046'
 original_project_titles:
   - 'Future Focus: College and Career Pathways for LA County Students'
   - >-
     LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
     Colleges in LA County
-original_project_ids:
-  - '4102041'
+extrapolated_project_ids:
   - '6102046'
+  - '4102041'
+extrapolated_project_titles:
+  - 'Future Focus: College and Career Pathways for LA County Students'
+  - >-
+    LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
+    Colleges in LA County
 
 ---

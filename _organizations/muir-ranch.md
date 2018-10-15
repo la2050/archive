@@ -1,25 +1,28 @@
 ---
+maker_image_file_name: dahlia3queque.jpg
+maker_image_id: '20571'
 organization_id: '2014060'
-organization_website:
-  - 'https://www.facebook.com/muirranch'
-ein: '237149451'
-zip: '90103'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237149451'
+title: Muir Ranch
+org_type: Nonprofit
+org_summary: >-
+  We give kids the tools to navigate the universe using food, farming and social
+  enterprise with a farm as a classroom.
 tags_indicators:
   - Access to parks & green space
   - Community health
   - Public safety & public space
   - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237149451'
+organization_website:
+  - 'https://www.facebook.com/muirranch'
 twitter: '@muirranch'
 instagram: cocoxochitl
 facebook: 'https://www.facebook.com/muirranch'
-org_type: Nonprofit
+ein: '237149451'
+zip: '90103'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20571%252Fdisplay%252Fdahlia3queque.jpg=c570x385
 project_video: ''
-org_summary: >-
-  We give kids the tools to navigate the universe using food, farming and social
-  enterprise with a farm as a classroom.
 aggregated:
   project_ids:
     - '4102061'
@@ -30,25 +33,22 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
-title: Muir Ranch
-extrapolated_project_ids:
-  - '4102150'
+original_project_ids:
   - '3102200'
-project_titles_from_extrapolated_project_ids:
-  - LA Childrens Garden an Eden Project for Los Angeles.
-  - >-
-    Kids who sling kale eat kale: Launch 5 School Garden CSAs in LAs Food
-    Deserts
+  - '4102150'
 original_project_titles:
   - >-
     Kids who sling kale eat kale: Launch 5 School Garden CSA's in LA's Food
     Deserts
   - 'LA Children''s Garden, an Eden Project for Los Angeles.'
   - Muir Ranch
-original_project_ids:
-  - '3102200'
+extrapolated_project_ids:
   - '4102150'
-maker_image_id: '20571'
-maker_image_file_name: dahlia3queque.jpg
+  - '3102200'
+extrapolated_project_titles:
+  - LA Childrens Garden an Eden Project for Los Angeles.
+  - >-
+    Kids who sling kale eat kale: Launch 5 School Garden CSAs in LAs Food
+    Deserts
 
 ---

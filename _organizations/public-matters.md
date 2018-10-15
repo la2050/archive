@@ -1,24 +1,26 @@
 ---
+youtube_video_identifier: 1HVZ3rX86M4
 organization_id: '2015163'
-organization_website:
-  - www.publicmattersgroup.com
-ein: '208027133'
-zip: '90026'
-charity_navigator_url: ''
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: 'https://twitter.com/Pub_Matters'
-instagram: 'https://instagram.com/publicmatters/'
-facebook: www.facebook.com/publicmatters
+title: Public Matters
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Public Matters is a social enterprise—made up of artists, educators, media
   experts, cultural planners and Fellows—that designs and implements long-term,
   place-based, art, media, education, and civic engagement projects that advance
   social change.
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - www.publicmattersgroup.com
+twitter: 'https://twitter.com/Pub_Matters'
+instagram: 'https://instagram.com/publicmatters/'
+facebook: www.facebook.com/publicmatters
+ein: '208027133'
+zip: '90026'
+project_image: 'https://img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102089'
@@ -28,19 +30,17 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
-title: Public Matters
-extrapolated_project_ids:
-  - '5102247'
-  - '3102089'
-project_titles_from_extrapolated_project_ids:
-  - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
-  - 'Market Makeovers: NextGen Leaders'
-original_project_titles:
-  - 'Market Makeovers: NextGen Leaders'
-  - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
 original_project_ids:
   - '3102089'
   - '5102247'
-youtube_video_identifier: 1HVZ3rX86M4
+original_project_titles:
+  - 'Market Makeovers: NextGen Leaders'
+  - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
+extrapolated_project_ids:
+  - '5102247'
+  - '3102089'
+extrapolated_project_titles:
+  - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
+  - 'Market Makeovers: NextGen Leaders'
 
 ---

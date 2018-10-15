@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: kfEpQxhOtUk
 organization_id: '2013121'
-organization_website:
-  - 'http://www.libertyhill.org/'
-ein: '510181191'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510181191'
-tags_indicators:
-  - Voting & civic engagement
-  - Access to capital & benefits
-  - Social connectedness
-  - Income & employment
-twitter: ''
-instagram: ''
-facebook: ''
+title: Liberty Hill
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   Liberty Hill invests in community groups on the frontlines of change with
   critical resources that are needed to advance their work and win. We
@@ -54,6 +41,21 @@ org_summary: >-
    
    
    * 30,000 L.A. transgender persons with improved access to medical care
+tags_indicators:
+  - Voting & civic engagement
+  - Access to capital & benefits
+  - Social connectedness
+  - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510181191'
+organization_website:
+  - 'http://www.libertyhill.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '510181191'
+zip: ''
+project_image: 'https://img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102180'
@@ -61,17 +63,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
   year_submitted:
     - '2013'
-title: Liberty Hill
-extrapolated_project_ids:
+original_project_ids:
   - '3102180'
-project_titles_from_extrapolated_project_ids:
-  - Boot Camp 2050 for Change
 original_project_titles:
   - Boot Camp 2050 for Change
   - Housing Long Beach
   - Khmer Girls in Action
-original_project_ids:
+extrapolated_project_ids:
   - '3102180'
-youtube_video_identifier: kfEpQxhOtUk
+extrapolated_project_titles:
+  - Boot Camp 2050 for Change
 
 ---

@@ -1,24 +1,26 @@
 ---
+youtube_video_identifier: aKgBQ7XR-pg
 organization_id: '2014029'
-organization_website:
-  - theyachtclub.org
-ein: '272225420'
-zip: '90014'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272225420'
+title: Eagle Rock Yacht Club
+org_type: Nonprofit
+org_summary: >-
+  Through dodgeball, civic service, partnerships with rec centers and our youth,
+  The Yacht Club inspires Angelenos to pursue the common good.
 tags_indicators:
   - Community gatherings
   - Fitness & sports
   - Social connectedness
   - Health
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272225420'
+organization_website:
+  - theyachtclub.org
 twitter: www.twitter.com/theeryc
 instagram: www.instagram.com/theyachtclub
 facebook: www.facebook.com/theyachtclub
-org_type: Nonprofit
+ein: '272225420'
+zip: '90014'
 project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg'
 project_video: ''
-org_summary: >-
-  Through dodgeball, civic service, partnerships with rec centers and our youth,
-  The Yacht Club inspires Angelenos to pursue the common good.
 aggregated:
   project_ids:
     - '4102030'
@@ -29,19 +31,17 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
-title: Eagle Rock Yacht Club
-extrapolated_project_ids:
-  - '4102062'
-  - '3102116'
-project_titles_from_extrapolated_project_ids:
-  - Dodgeball Community and the Common Good
-  - Dodgeball Prosperity and the Common Good
-original_project_titles:
-  - ' Dodgeball, Community and the Common Good'
-  - 'Dodgeball, Prosperity and the Common Good'
 original_project_ids:
   - '3102116'
   - '4102062'
-youtube_video_identifier: aKgBQ7XR-pg
+original_project_titles:
+  - ' Dodgeball, Community and the Common Good'
+  - 'Dodgeball, Prosperity and the Common Good'
+extrapolated_project_ids:
+  - '4102062'
+  - '3102116'
+extrapolated_project_titles:
+  - Dodgeball Community and the Common Good
+  - Dodgeball Prosperity and the Common Good
 
 ---

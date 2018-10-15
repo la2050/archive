@@ -1,22 +1,9 @@
 ---
+maker_image_file_name: FB_Cover_photo.jpg
+maker_image_id: '16503'
 organization_id: '2013058'
-organization_website:
-  - www.educationpioneers.org
-ein: '770602311'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770602311'
-tags_indicators:
-  - Workforce development
-  - Teaching & mentorship
-  - Income & employment
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Education Pioneers
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16503%252Fdisplay%252FFB_Cover_photo.jpg=c570x385
-project_video: ''
 org_summary: >-
   Founded in 2003 in response to the acute shortage of leadership and management
   talent in the education sector, Education Pioneers attracts, prepares, and
@@ -33,6 +20,22 @@ org_summary: >-
   education by connecting our Alumni to high-impact careers in education and
   supporting them to succeed. More than 70 percent of our employed Alumni work
   full-time in education.
+tags_indicators:
+  - Workforce development
+  - Teaching & mentorship
+  - Income & employment
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770602311'
+organization_website:
+  - www.educationpioneers.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '770602311'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16503%252Fdisplay%252FFB_Cover_photo.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102120'
@@ -40,22 +43,19 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/edpioneer.html'
   year_submitted:
     - '2013'
-title: Education Pioneers
-extrapolated_project_ids:
+original_project_ids:
   - '3102120'
-project_titles_from_extrapolated_project_ids:
-  - 'The power in an hour: Putting time for teachers back in a principals day'
+  - '3102120'
+  - '3102006'
 original_project_titles:
   - >-
     MyARC: A digital social network that solves educational challenges one
     project at a time.
   - 'The power in an hour: Putting time for teachers back in a principal''s day'
   - 'The power in an hour: Putting time for teachers back in a principal''s day'
-original_project_ids:
+extrapolated_project_ids:
   - '3102120'
-  - '3102120'
-  - '3102006'
-maker_image_id: '16503'
-maker_image_file_name: FB_Cover_photo.jpg
+extrapolated_project_titles:
+  - 'The power in an hour: Putting time for teachers back in a principals day'
 
 ---

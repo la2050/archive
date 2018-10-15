@@ -1,21 +1,8 @@
 ---
+youtube_video_identifier: gyQdQTAWs0U
 organization_id: '2013084'
-organization_website:
-  - www.greatleap.org
-ein: '953337990'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953337990'
-tags_indicators:
-  - Community gatherings
-  - Art
-  - Social connectedness
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: 'Great Leap, Inc.'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   2013 is the 35th anniversary of Great Leap. We have consistently created
   productions, workshops and art programs that have grown from our engagement
@@ -51,6 +38,21 @@ org_summary: >-
    
    
    Now we are using our environmental music video series, “Eco-Vids” as an innovative way to engage communities of color with the critical issue of Climate Change and highlight the sustainable practices passed down the generations. The first, “B.Y.O. Chopstix,” promotes conservation by using disposable chopsticks; “Mottainai” tells the story of the Japanese tradition of “No Waste,” and “Cycles of Change,” a collaboration between Quetzal and Nobuko, encourages urban families to bicycle for their health and the environment. Since 2010 the Ecovids have received over 45,000 views on YouTube.
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953337990'
+organization_website:
+  - www.greatleap.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '953337990'
+zip: ''
+project_image: 'https://img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102142'
@@ -58,15 +60,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/FandangObon2050.html'
   year_submitted:
     - '2013'
-title: 'Great Leap, Inc.'
-extrapolated_project_ids:
-  - '3102142'
-project_titles_from_extrapolated_project_ids:
-  - Fandango Obon Project / Proyecto Fandango Obon
-original_project_titles:
-  - Fandango Obon Project / Proyecto Fandango Obon
 original_project_ids:
   - '3102142'
-youtube_video_identifier: gyQdQTAWs0U
+original_project_titles:
+  - Fandango Obon Project / Proyecto Fandango Obon
+extrapolated_project_ids:
+  - '3102142'
+extrapolated_project_titles:
+  - Fandango Obon Project / Proyecto Fandango Obon
 
 ---

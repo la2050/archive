@@ -1,20 +1,9 @@
 ---
+maker_image_file_name: KIPPThroughCollege3.jpg
+maker_image_id: '17303'
 organization_id: '2013107'
-organization_website:
-  - 'http://www.kippla.org'
-ein: '261607268'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261607268'
-tags_indicators:
-  - Teaching & mentorship
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: KIPP LA Schools
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385
-project_video: ''
 org_summary: >-
   If it were a district, KIPP LA would be the highest performing in Los Angeles
   County serving a majority of students from low-income communities. For nearly
@@ -31,6 +20,20 @@ org_summary: >-
   above the national average in English language arts. Finally, 96 percent of
   KIPP LA alumni are attending high-performing, college-prep high schools, and
   nearly 85 percent are currently enrolled in college.
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261607268'
+organization_website:
+  - 'http://www.kippla.org'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '261607268'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102166'
@@ -38,16 +41,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'
   year_submitted:
     - '2013'
-title: KIPP LA Schools
-extrapolated_project_ids:
-  - '3102166'
-project_titles_from_extrapolated_project_ids:
-  - KIPP Through College
-original_project_titles:
-  - KIPP Through College
 original_project_ids:
   - '3102166'
-maker_image_id: '17303'
-maker_image_file_name: KIPPThroughCollege3.jpg
+original_project_titles:
+  - KIPP Through College
+extrapolated_project_ids:
+  - '3102166'
+extrapolated_project_titles:
+  - KIPP Through College
 
 ---

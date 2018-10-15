@@ -1,24 +1,25 @@
 ---
 organization_id: '2016263'
-organization_website:
-  - www.zeneithperformingarts.com
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: Zeneith Performing Arts
+org_type: Nonprofit
+org_summary: >-
+  Zeneith Performing Arts provides excellent training, a dynamic community, and
+  professional development to youth and adults in the performing arts.
 tags_indicators:
   - Art
   - Creative economy
   - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.zeneithperformingarts.com
 twitter: wearezpa
 instagram: zeneithperformingarts
 facebook: wearezpa
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
 project_video: 'https://www.youtube.com/embed/AW4FRTnLfzw?rel=0&amp;showinfo=0'
-org_summary: >-
-  Zeneith Performing Arts provides excellent training, a dynamic community, and
-  professional development to youth and adults in the performing arts.
 aggregated:
   project_ids:
     - '6102289'
@@ -27,18 +28,17 @@ aggregated:
       https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
   year_submitted:
     - '2016'
-title: Zeneith Performing Arts
-extrapolated_project_ids:
+original_project_ids:
   - '6102289'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    The Inner City Dance Project: Teaching professional dance and theater to
-    LA’s inner city youth
 original_project_titles:
   - >-
     The Inner City Dance Project: Teaching professional dance and theater to
     LA’s inner city youth
-original_project_ids:
+extrapolated_project_ids:
   - '6102289'
+extrapolated_project_titles:
+  - >-
+    The Inner City Dance Project: Teaching professional dance and theater to
+    LA’s inner city youth
 
 ---

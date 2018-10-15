@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: HtWxHzKO0zY
 organization_id: '2013054'
-organization_website:
-  - 'http://www.facebook.com/CRD3LA'
-ein: '474528239'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Engaged
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <p>-Attended the last two years of Los Angeles County Board of Supervisors
   meetings</p>
@@ -50,6 +39,19 @@ org_summary: >-
    
    
    City Ethics Commissioner.</p>
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - 'http://www.facebook.com/CRD3LA'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '474528239'
+zip: ''
+project_image: 'https://img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102032'
@@ -57,15 +59,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/CRD3LA.html'
   year_submitted:
     - '2013'
-title: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Engaged
-extrapolated_project_ids:
-  - '3102032'
-project_titles_from_extrapolated_project_ids:
-  - The County Resident from District 3
-original_project_titles:
-  - The County Resident from District 3
 original_project_ids:
   - '3102032'
-youtube_video_identifier: HtWxHzKO0zY
+original_project_titles:
+  - The County Resident from District 3
+extrapolated_project_ids:
+  - '3102032'
+extrapolated_project_titles:
+  - The County Resident from District 3
 
 ---

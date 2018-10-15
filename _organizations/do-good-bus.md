@@ -1,22 +1,24 @@
 ---
+youtube_video_identifier: T17vBV41x0g
 organization_id: '2014026'
-organization_website:
-  - dogoodbus.com
-ein: '300694127'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Volunteerism
-  - Social connectedness
-twitter: www.twitter.com/DoGoodBus
-instagram: instagram.com/DoGoodBus
-facebook: www.facebook.com/DoGoodBus
+title: Do Good Bus
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Do Good Bus provides an interactive and engaging experience by taking people
   to a secret location to volunteer and have fun along the way!
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
+charity_navigator_url: ''
+organization_website:
+  - dogoodbus.com
+twitter: www.twitter.com/DoGoodBus
+instagram: instagram.com/DoGoodBus
+facebook: www.facebook.com/DoGoodBus
+ein: '300694127'
+zip: ''
+project_image: 'https://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102025'
@@ -26,19 +28,17 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
-title: Do Good Bus
-extrapolated_project_ids:
-  - '4102055'
-  - '3102025'
-project_titles_from_extrapolated_project_ids:
-  - Do Good Bus
-  - 'Do Good Bus | Free Rides '
-original_project_titles:
-  - Do Good Bus
-  - 'Do Good Bus | Free Rides '
 original_project_ids:
   - '3102025'
   - '4102055'
-youtube_video_identifier: T17vBV41x0g
+original_project_titles:
+  - Do Good Bus
+  - 'Do Good Bus | Free Rides '
+extrapolated_project_ids:
+  - '4102055'
+  - '3102025'
+extrapolated_project_titles:
+  - Do Good Bus
+  - 'Do Good Bus | Free Rides '
 
 ---

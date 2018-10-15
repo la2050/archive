@@ -1,27 +1,29 @@
 ---
+youtube_video_identifier: u0DYRf98w-o
+organization_id_2: '2014086'
 organization_id: '2015196'
-organization_website:
-  - www.alternativetravelproject.com
-ein: '464888726'
-zip: '90025'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=464888726'
-tags_indicators:
-  - Transportation
-  - Climate change
-  - Mobility
-  - Environmental quality & sustainability
-twitter: www.twitter.com/ALTravelProject
-instagram: www.instagram.com/altravelproject
-facebook: www.facebook.com/GOcarFREE
+title: the Alternative Travel Project
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   The Alternative Travel Project (ATP) is a non-profit organization that
   motivates individuals in LA to GOcarFREE by using alternative travel methods
   (pedestrian, public, bicycle & gas-free new tech) for social, health and
   environmental benefits.
-organization_id_2: '2014086'
+tags_indicators:
+  - Transportation
+  - Climate change
+  - Mobility
+  - Environmental quality & sustainability
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=464888726'
+organization_website:
+  - www.alternativetravelproject.com
+twitter: www.twitter.com/ALTravelProject
+instagram: www.instagram.com/altravelproject
+facebook: www.facebook.com/GOcarFREE
+ein: '464888726'
+zip: '90025'
+project_image: 'https://img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102296'
@@ -32,17 +34,15 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
-title: the Alternative Travel Project
-extrapolated_project_ids:
-  - '4102206'
-project_titles_from_extrapolated_project_ids:
-  - The Alternative Travel Project - Go car FREE for just ONE day!
-original_project_titles:
-  - The Alternative Travel Project
-  - The Alternative Travel Project - Go car FREE for just ONE day!
 original_project_ids:
   - '4102206'
   - '5102296'
-youtube_video_identifier: u0DYRf98w-o
+original_project_titles:
+  - The Alternative Travel Project
+  - The Alternative Travel Project - Go car FREE for just ONE day!
+extrapolated_project_ids:
+  - '4102206'
+extrapolated_project_titles:
+  - The Alternative Travel Project - Go car FREE for just ONE day!
 
 ---

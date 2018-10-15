@@ -1,23 +1,25 @@
 ---
+youtube_video_identifier: wmExJ7xdKYc
 organization_id: '2015047'
-organization_website:
-  - www.CultureShockLA.org
-ein: '311796801'
-zip: '94611'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: www.twitter.com/cultureshockla
-instagram: www.instagram.com/cultureshockla
-facebook: www.facebook.com/cultureshockla
+title: Culture Shock Los Angeles
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   Data Roads Foundation expands access to interconnected networks (or Internets
   for short) by promoting community network ownership, free as in liberty
   software, and free documentation (including legal templates).
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
+organization_website:
+  - www.CultureShockLA.org
+twitter: www.twitter.com/cultureshockla
+instagram: www.instagram.com/cultureshockla
+facebook: www.facebook.com/cultureshockla
+ein: '311796801'
+zip: '94611'
+project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102080'
@@ -25,13 +27,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/C3.html'
   year_submitted:
     - '2015'
-title: Culture Shock Los Angeles
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-original_project_titles:
-  - 'C3: Center for Connecting the Community '
 original_project_ids:
   - '5102079'
-youtube_video_identifier: wmExJ7xdKYc
+original_project_titles:
+  - 'C3: Center for Connecting the Community '
+extrapolated_project_ids: []
+extrapolated_project_titles: []
 
 ---

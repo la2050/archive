@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: LAM_Robots.jpg
+maker_image_id: '16174'
 organization_id: '2013125'
-organization_website:
-  - 'http://lamakerspace.com'
-ein: '522237551'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522237551'
-tags_indicators:
-  - STEM & Digital literacy
-  - Education & youth
-twitter: ''
-instagram: ''
-facebook: ''
+title: Los Angeles Makerspace
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
-project_video: ''
 org_summary: >-
   <p>We are incredibly proud of the achievements our organization has made in
   the past year. We could not have done it without a passionate board of
@@ -54,6 +44,19 @@ org_summary: >-
    
    
    <p>We have developed and have begun running a student research program whereby students are mentored in the development of their own research projects as well as getting them involved with current research projects. Our current partners are the environmental monitoring group Safecast, the American Physics Society, the West Side Science Club, the Natural History Museum of Los Angeles, University of Southern California, and the California Institute of Technology.</p>
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522237551'
+organization_website:
+  - 'http://lamakerspace.com'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '522237551'
+zip: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_video: ''
 aggregated:
   project_ids:
     - '3102187'
@@ -61,16 +64,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/lamakerspace.html'
   year_submitted:
     - '2013'
-title: Los Angeles Makerspace
-extrapolated_project_ids:
-  - '3102187'
-project_titles_from_extrapolated_project_ids:
-  - Central Educational Network Based On The Apprenticeship Model
-original_project_titles:
-  - Central Educational Network Based On The Apprenticeship Model
 original_project_ids:
   - '3102187'
-maker_image_id: '16174'
-maker_image_file_name: LAM_Robots.jpg
+original_project_titles:
+  - Central Educational Network Based On The Apprenticeship Model
+extrapolated_project_ids:
+  - '3102187'
+extrapolated_project_titles:
+  - Central Educational Network Based On The Apprenticeship Model
 
 ---

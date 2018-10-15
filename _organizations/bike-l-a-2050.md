@@ -1,19 +1,9 @@
 ---
+maker_image_file_name: 2019409068.jpg
+maker_image_id: '16963'
 organization_id: '2013019'
-organization_website: ''
-ein: '575061488'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=575061488'
-tags_indicators:
-  - Transportation
-  - Mobility
-twitter: ''
-instagram: ''
-facebook: ''
+title: Bike L.A. 2050
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
-project_video: ''
 org_summary: >-
   We have been involved in a number of projects focusing on urban mobility and
   the interface with cities and the built environment. Marc Alt was founding
@@ -24,6 +14,19 @@ org_summary: >-
   Marc has also worked with some of the leading companies in the automotive,
   architecture and engineering fields on urban mobility projects, including the
   launch of electric vehicles and charging infrastructure.
+tags_indicators:
+  - Transportation
+  - Mobility
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=575061488'
+organization_website: ''
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '575061488'
+zip: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
+project_video: ''
 aggregated:
   project_ids:
     - '3102034'
@@ -31,16 +34,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/bikela2050.html'
   year_submitted:
     - '2013'
-title: Bike L.A. 2050
-extrapolated_project_ids:
-  - '3102034'
-project_titles_from_extrapolated_project_ids:
-  - Bike L.A. 2050  Bike Safety Through Visibility
-original_project_titles:
-  - Bike L.A. 2050 - Bike Safety Through Visibility
 original_project_ids:
   - '3102034'
-maker_image_id: '16963'
-maker_image_file_name: 2019409068.jpg
+original_project_titles:
+  - Bike L.A. 2050 - Bike Safety Through Visibility
+extrapolated_project_ids:
+  - '3102034'
+extrapolated_project_titles:
+  - Bike L.A. 2050  Bike Safety Through Visibility
 
 ---

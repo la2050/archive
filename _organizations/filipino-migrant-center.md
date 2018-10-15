@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: nO6H3p5HpV4
 organization_id: '2013065'
-organization_website:
-  - 'http://filipinomigrantcenter.org/'
-ein: '320308477'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320308477'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: Filipino Migrant Center
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   <ol><li>Launched a successful campaign with trafficked migrant workers that
   helped them obtain T-visas and create a tactical coalition composed of
@@ -36,6 +25,19 @@ org_summary: >-
    
    
    </li></ol>
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320308477'
+organization_website:
+  - 'http://filipinomigrantcenter.org/'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '320308477'
+zip: ''
+project_image: 'https://img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102126'
@@ -43,15 +45,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/voices.html'
   year_submitted:
     - '2013'
-title: Filipino Migrant Center
-extrapolated_project_ids:
-  - '3102126'
-project_titles_from_extrapolated_project_ids:
-  - Moving Voices of Los Angeles
-original_project_titles:
-  - Moving Voices of Los Angeles
 original_project_ids:
   - '3102126'
-youtube_video_identifier: nO6H3p5HpV4
+original_project_titles:
+  - Moving Voices of Los Angeles
+extrapolated_project_ids:
+  - '3102126'
+extrapolated_project_titles:
+  - Moving Voices of Los Angeles
 
 ---

@@ -1,20 +1,8 @@
 ---
+youtube_video_identifier: _8WrWZXDKdQ
 organization_id: '2013164'
-organization_website: ''
-ein: '900627151'
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Air & water
-  - Access to parks & green space
-  - Environmental quality & sustainability
-  - Public safety & public space
-twitter: ''
-instagram: ''
-facebook: ''
+title: RiverLAnding Collective
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/_8WrWZXDKdQ/hqdefault.jpg'
-project_video: ''
 org_summary: |-
   - Worked on the Los Angeles Revitalization Master Plan <p>
    
@@ -74,6 +62,20 @@ org_summary: |-
    
    
    Lars Jan is writer, film-maker and the artistic director of Early Morning Opera, a genre-bending performance + art lab. He has made artworks about TED talks, Laika the Soviet space dog, land art, and suicide bombing. Lars’ work has been supported by many significant artistic institutions. He is also a 2013 TED Senior Fellow and is currently developing a public spectacle about flooding and the future of empathy.
+tags_indicators:
+  - Air & water
+  - Access to parks & green space
+  - Environmental quality & sustainability
+  - Public safety & public space
+charity_navigator_url: ''
+organization_website: ''
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '900627151'
+zip: ''
+project_image: 'https://img.youtube.com/vi/_8WrWZXDKdQ/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102090'
@@ -81,15 +83,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
   year_submitted:
     - '2013'
-title: RiverLAnding Collective
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
+original_project_ids:
+  - '3102090'
 original_project_titles:
   - >-
     RiverLAnding : An expedition to prototype a “landing” on the banks of the
     Los Angeles River
-original_project_ids:
-  - '3102090'
-youtube_video_identifier: _8WrWZXDKdQ
+extrapolated_project_ids: []
+extrapolated_project_titles: []
 
 ---

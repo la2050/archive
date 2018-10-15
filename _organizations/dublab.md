@@ -1,22 +1,24 @@
 ---
+youtube_video_identifier: xXMkk_S-UnU
 organization_id: '2015053'
-organization_website:
-  - www.dublab.com
-ein: '510665121'
-zip: '90029'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510665121'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: www.twitter.com/dublab
-instagram: 'https://instagram.com/dublab/'
-facebook: 'https://www.facebook.com/dublab'
+title: DUBLAB
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg'
-project_video: ''
 org_summary: >-
   DUBLAB is a non-profit internet radio station and community arts collective
   that has been broadcasting from Los Angeles, California since 1999.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510665121'
+organization_website:
+  - www.dublab.com
+twitter: www.twitter.com/dublab
+instagram: 'https://instagram.com/dublab/'
+facebook: 'https://www.facebook.com/dublab'
+ein: '510665121'
+zip: '90029'
+project_image: 'https://img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '5102088'
@@ -28,21 +30,19 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
-title: DUBLAB
-extrapolated_project_ids:
-  - '5102088'
+original_project_ids:
   - '3102115'
-project_titles_from_extrapolated_project_ids:
-  - DUBLABs Open Studio Initiative
-  - SOUND SHARE LA
+  - '5102088'
 original_project_titles:
   - DUBLAB's Open Studio Initiative
   - SOUND SHARE LA
   - Sound Sanctuary
   - 'Wayfinder LA, a utility for car-free transit'
-original_project_ids:
-  - '3102115'
+extrapolated_project_ids:
   - '5102088'
-youtube_video_identifier: xXMkk_S-UnU
+  - '3102115'
+extrapolated_project_titles:
+  - DUBLABs Open Studio Initiative
+  - SOUND SHARE LA
 
 ---

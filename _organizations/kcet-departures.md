@@ -1,19 +1,8 @@
 ---
+youtube_video_identifier: 9PUd4G27uNk
 organization_id: '2013102'
-organization_website:
-  - 'http://www.kcet.org/departures'
-ein: '952211661'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952211661'
-tags_indicators:
-  - Art
-  - Arts & cultural vitality
-twitter: ''
-instagram: ''
-facebook: ''
+title: KCET Departures
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg'
-project_video: ''
 org_summary: >-
   In the past five years Departures Youth Voices has worked with almost 200
   students in schools and organizations throughout Southern California. These
@@ -60,6 +49,19 @@ org_summary: >-
    
    
    In addition Departures Youth Voices has partnered with The HeArt Project, a non-profit arts organization that has been utilizing the Youth Voices curriculum to engage students at L.A.-area alternative and continuation schools through the arts.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952211661'
+organization_website:
+  - 'http://www.kcet.org/departures'
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '952211661'
+zip: ''
+project_image: 'https://img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg'
+project_video: ''
 aggregated:
   project_ids:
     - '3102162'
@@ -67,15 +69,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
   year_submitted:
     - '2013'
-title: KCET Departures
-extrapolated_project_ids:
-  - '3102162'
-project_titles_from_extrapolated_project_ids:
-  - Departures Youth Voices Mobile Classroom
-original_project_titles:
-  - Departures Youth Voices Mobile Classroom
 original_project_ids:
   - '3102162'
-youtube_video_identifier: 9PUd4G27uNk
+original_project_titles:
+  - Departures Youth Voices Mobile Classroom
+extrapolated_project_ids:
+  - '3102162'
+extrapolated_project_titles:
+  - Departures Youth Voices Mobile Classroom
 
 ---

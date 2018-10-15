@@ -1,24 +1,25 @@
 ---
 organization_id: '2016185'
-organization_website:
-  - www.riverla.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
-tags_indicators:
-  - Air & water
-  - Environmental quality & sustainability
-twitter: ourriverla
-instagram: ourriverla
-facebook: OurRiverLA
+title: River LA (formerly LA River Revitalization Corporation)
 org_type: Nonprofit
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
-project_video: 'https://www.youtube.com/embed/9ADs2v7U-Ro?rel=0&amp;showinfo=0'
 org_summary: >-
   River LA is a nonprofit organization with a mission to ensure the 51-mile LA
   River integrates design and infrastructure to bring people, water, and public
   space together.
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
+charity_navigator_url: ''
+organization_website:
+  - www.riverla.org
+twitter: ourriverla
+instagram: ourriverla
+facebook: OurRiverLA
+ein: ''
+zip: ''
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
+project_video: 'https://www.youtube.com/embed/9ADs2v7U-Ro?rel=0&amp;showinfo=0'
 aggregated:
   project_ids:
     - '6102199'
@@ -27,14 +28,13 @@ aggregated:
       https://challenge.la2050.org/entry/la-river-stories-public-engagement-through-creative-storytelling
   year_submitted:
     - '2016'
-title: River LA (formerly LA River Revitalization Corporation)
-extrapolated_project_ids:
-  - '6102199'
-project_titles_from_extrapolated_project_ids:
-  - 'LA River Stories: Public Engagement through Creative Storytelling'
-original_project_titles:
-  - 'LA River Stories: Public Engagement through Creative Storytelling'
 original_project_ids:
   - '6102199'
+original_project_titles:
+  - 'LA River Stories: Public Engagement through Creative Storytelling'
+extrapolated_project_ids:
+  - '6102199'
+extrapolated_project_titles:
+  - 'LA River Stories: Public Engagement through Creative Storytelling'
 
 ---

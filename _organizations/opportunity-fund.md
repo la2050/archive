@@ -1,5 +1,15 @@
 ---
 organization_id: '2018093'
+title: Opportunity Fund
+org_type: Nonprofit
+org_summary: >-
+  RBLC is a network of lenders and small business advocates in Los Angeles
+  committed to advancing policies that combat predatory lending, promote
+  responsible lending, and support small business owners.
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719434'
 organization_website:
   - 'http://www.borrowersbillofrights.org'
   - 'http://Opportunityfund.org'
@@ -10,12 +20,6 @@ organization_website:
   - 'https://www.lendingclub.com/'
   - 'https://www.fundingcircle.com/us/'
   - 'http://www.fundera.com'
-ein: '311719434'
-zip: '90012'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719434'
-tags_indicators:
-  - Entrepreneurship & innovation
-  - Income & employment
 twitter:
   - '@opportunityfund'
   - '@OFSmallBusiness'
@@ -40,14 +44,11 @@ facebook:
   - 'https://www.facebook.com/LendingClubTeam/'
   - 'https://www.facebook.com/FundingCircleUS/'
   - 'https://www.facebook.com/fundera/'
-org_type: Nonprofit
+ein: '311719434'
+zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/opportunity-fund.jpg
 project_video: 'https://youtu.be/KrGSS4OtP50'
-org_summary: >-
-  RBLC is a network of lenders and small business advocates in Los Angeles
-  committed to advancing policies that combat predatory lending, promote
-  responsible lending, and support small business owners.
 aggregated:
   project_ids:
     - '8102093'
@@ -68,21 +69,12 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
-title: Opportunity Fund
-extrapolated_project_ids:
-  - '6102171'
-  - '5102224'
-  - '4102160'
+original_project_ids:
   - '3102210'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Catalyzing Community Partnerships to create economic mobility for LA’s
-    underserved entrepreneurs
-  - Strengthening LAs Entrepreneurs through Responsible Microlending
-  - >-
-    Support LA’s celebrated food truck culture by helping food truck
-    entrepreneurs grow and create jobs
-  - Building Strong Small Businesses through Microlending
+  - '4102160'
+  - '5102224'
+  - '6102171'
+  - '8102093'
 original_project_titles:
   - Building Strong Small Businesses through Microlending
   - >-
@@ -95,11 +87,19 @@ original_project_titles:
   - >-
     Support LA’s celebrated food truck culture by helping food truck
     entrepreneurs grow and create jobs 
-original_project_ids:
-  - '3102210'
-  - '4102160'
-  - '5102224'
+extrapolated_project_ids:
   - '6102171'
-  - '8102093'
+  - '5102224'
+  - '4102160'
+  - '3102210'
+extrapolated_project_titles:
+  - >-
+    Catalyzing Community Partnerships to create economic mobility for LA’s
+    underserved entrepreneurs
+  - Strengthening LAs Entrepreneurs through Responsible Microlending
+  - >-
+    Support LA’s celebrated food truck culture by helping food truck
+    entrepreneurs grow and create jobs
+  - Building Strong Small Businesses through Microlending
 
 ---

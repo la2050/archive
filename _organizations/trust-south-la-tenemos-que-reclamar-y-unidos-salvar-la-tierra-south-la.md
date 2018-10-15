@@ -1,20 +1,8 @@
 ---
+youtube_video_identifier: zwlibJLtPOE
 organization_id: '2013199'
-organization_website:
-  - www.trustsouthla.org
-ein: '421687057'
-zip: ''
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=421687057'
-tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
-twitter: ''
-instagram: ''
-facebook: ''
+title: TRUST South LA (Tenemos que Reclamar y Unidos Salvar la Tierra-South LA)
 org_type: Nonprofit
-project_image: >-
-  https://scontent-lga3-1.cdninstagram.com/vp/9e2f7cf807ee3d828ce61e335b033f1a/5C4816E0/t51.2885-15/e35/14566729_1134408803308905_6445803479507140608_n.jpg
-project_video: ''
 org_summary: >-
   TRUST South LA works to establish community control over economic resources.
   We acquire land to be held collectively, and in perpetuity, by low-income
@@ -86,6 +74,20 @@ org_summary: >-
    
    
    Initiated Ride South LA mapping projects as community advocacy tools, to demand equitable bike/pedestrian infrastructure investment in South LA.
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=421687057'
+organization_website:
+  - www.trustsouthla.org
+twitter: ''
+instagram: ''
+facebook: ''
+ein: '421687057'
+zip: ''
+project_image: >-
+  https://scontent-lga3-1.cdninstagram.com/vp/9e2f7cf807ee3d828ce61e335b033f1a/5C4816E0/t51.2885-15/e35/14566729_1134408803308905_6445803479507140608_n.jpg
+project_video: ''
 aggregated:
   project_ids:
     - '3102259'
@@ -93,15 +95,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
   year_submitted:
     - '2013'
-title: TRUST South LA (Tenemos que Reclamar y Unidos Salvar la Tierra-South LA)
-extrapolated_project_ids:
-  - '3102259'
-project_titles_from_extrapolated_project_ids:
-  - 'TRUST South LA 2050: Affordable Homes Sustainable Neighborhoods'
-original_project_titles:
-  - 'TRUST South LA 2050: Affordable Homes, Sustainable Neighborhoods'
 original_project_ids:
   - '3102259'
-youtube_video_identifier: zwlibJLtPOE
+original_project_titles:
+  - 'TRUST South LA 2050: Affordable Homes, Sustainable Neighborhoods'
+extrapolated_project_ids:
+  - '3102259'
+extrapolated_project_titles:
+  - 'TRUST South LA 2050: Affordable Homes Sustainable Neighborhoods'
 
 ---

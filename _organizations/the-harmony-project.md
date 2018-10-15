@@ -1,26 +1,27 @@
 ---
 organization_id: '2016219'
-organization_website:
-  - www.harmony-project.org
-ein: ''
-zip: ''
-charity_navigator_url: ''
+title: The Harmony Project
+org_type: Nonprofit
+org_summary: >-
+  The Harmony Project offers an after-school music program that empowers and
+  fosters positive youth development in children from under-resourced
+  communities, throughout their entire childhood (k-12).
 tags_indicators:
   - Teaching & mentorship
   - Art
   - Education & youth
   - Arts & cultural vitality
+charity_navigator_url: ''
+organization_website:
+  - www.harmony-project.org
 twitter: HarmonyProject
 instagram: HarmonyProjectLA
 facebook: harmonyprojectla
-org_type: Nonprofit
+ein: ''
+zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
 project_video: 'https://www.youtube.com/embed/Kep3gB10R3I?rel=0&amp;showinfo=0'
-org_summary: >-
-  The Harmony Project offers an after-school music program that empowers and
-  fosters positive youth development in children from under-resourced
-  communities, throughout their entire childhood (k-12).
 aggregated:
   project_ids:
     - '6102243'
@@ -29,18 +30,17 @@ aggregated:
       https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
   year_submitted:
     - '2016'
-title: The Harmony Project
-extrapolated_project_ids:
+original_project_ids:
   - '6102243'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Give Music Change Lives: The expansion of Harmony Project’s transformative
-    program into South LA
 original_project_titles:
   - >-
     Give Music Change Lives: The expansion of Harmony Project’s transformative
     program into South LA
-original_project_ids:
+extrapolated_project_ids:
   - '6102243'
+extrapolated_project_titles:
+  - >-
+    Give Music Change Lives: The expansion of Harmony Project’s transformative
+    program into South LA
 
 ---

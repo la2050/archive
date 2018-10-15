@@ -1,25 +1,26 @@
 ---
 organization_id: '2018054'
-organization_website:
-  - www.imaginela.org
-ein: '204637089'
-zip: '90265'
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=204637089'
+title: Imagine LA
+org_type: Nonprofit
+org_summary: >-
+  Imagine LA recruits teams of volunteer mentors who are trained and guided by
+  professional social service staff to assist vulnerable families, ending their
+  cycle of homelessness and poverty.
 tags_indicators:
   - Homelessness
   - Volunteerism
   - Housing & homelessness
   - Social connectedness
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=204637089'
+organization_website:
+  - www.imaginela.org
 twitter: '@ImagineLA'
 instagram: '@Imagine.LA'
 facebook: '@ImagineLA'
-org_type: Nonprofit
+ein: '204637089'
+zip: '90265'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/imagine-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=RBbjWQRI1Lc'
-org_summary: >-
-  Imagine LA recruits teams of volunteer mentors who are trained and guided by
-  professional social service staff to assist vulnerable families, ending their
-  cycle of homelessness and poverty.
 aggregated:
   project_ids:
     - '8102054'
@@ -31,16 +32,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
-title: Imagine LA
-extrapolated_project_ids:
-  - '6102102'
-project_titles_from_extrapolated_project_ids:
-  - Volunteer and be a Part of the Solution to Family Homelessness
-original_project_titles:
-  - 'Intersections: The power of our common stories.'
-  - Volunteer and be a Part of the Solution to Family Homelessness
 original_project_ids:
   - '6102102'
   - '8102054'
+original_project_titles:
+  - 'Intersections: The power of our common stories.'
+  - Volunteer and be a Part of the Solution to Family Homelessness
+extrapolated_project_ids:
+  - '6102102'
+extrapolated_project_titles:
+  - Volunteer and be a Part of the Solution to Family Homelessness
 
 ---
