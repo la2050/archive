@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016108'
 title: I'm A Movement Not A Monument
 org_type: Nonprofit

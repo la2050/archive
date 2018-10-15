@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018066'
 title: Lava Mae
 org_type: Nonprofit

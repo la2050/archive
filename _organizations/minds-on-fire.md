@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Slide1.jpg
-maker_image_id: '16654'
+published: true
 organization_id: '2013135'
 title: Minds on Fire
 org_type: For profit
@@ -44,5 +43,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102075'
+maker_image_file_name: Slide1.jpg
+maker_image_id: '16654'
 
 ---

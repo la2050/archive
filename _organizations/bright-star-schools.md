@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: '-t89MRZW7G0'
+published: true
 organization_id: '2013023'
 title: Bright Star Schools
 org_type: Nonprofit
@@ -106,5 +106,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102042'
+youtube_video_identifier: '-t89MRZW7G0'
 
 ---

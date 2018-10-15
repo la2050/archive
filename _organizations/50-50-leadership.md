@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016003'
 title: 50/50 Leadership
 org_type: Nonprofit

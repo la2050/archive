@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016001'
 title: '#Library'
 org_type: Forprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016035'
 title: Capital & Main
 org_type: Nonprofit

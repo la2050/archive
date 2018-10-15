@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LACGC_Community_Photo.jpg
-maker_image_id: '20229'
+published: true
 organization_id: '2014165'
 title: Los Angeles Community Garden Council
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102147'
+maker_image_file_name: LACGC_Community_Photo.jpg
+maker_image_id: '20229'
 
 ---

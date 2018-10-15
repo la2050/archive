@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: XFrn3G05ZVc
+published: true
 organization_id: '2014022'
 title: 'Creative Cycle, LLC, dba. L Creativo'
 org_type: Forprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '5102117'
+youtube_video_identifier: XFrn3G05ZVc
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: towergarden.jpg
-maker_image_id: '23569'
+published: true
 organization_id: '2015076'
 title: >-
   Green Institute for Village Empowerment (GIVE) program at Tom Bradley Legacy
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102118'
+maker_image_file_name: towergarden.jpg
+maker_image_id: '23569'
 
 ---

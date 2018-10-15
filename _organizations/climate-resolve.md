@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: jRPfyjiCjwg
+published: true
 organization_id: '2015038'
 title: Climate Resolve
 org_type: Nonprofit
@@ -39,5 +39,6 @@ aggregated:
   project_ids:
     - '5102067'
     - '3102076'
+youtube_video_identifier: jRPfyjiCjwg
 
 ---

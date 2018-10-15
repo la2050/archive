@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 20ErlmkuIfQ
+published: true
 organization_id: '2015026'
 title: Casa Libre
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102042'
+youtube_video_identifier: 20ErlmkuIfQ
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
-maker_image_id: '16706'
+published: true
 organization_id: '2013162'
 title: reDiscover Center
 org_type: Nonprofit
@@ -47,5 +46,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102228'
+maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
+maker_image_id: '16706'
 
 ---

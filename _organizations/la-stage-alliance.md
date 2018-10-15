@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Faces_Installation.jpg
-maker_image_id: '16935'
+published: true
 organization_id: '2014048'
 title: LA STAGE Alliance
 org_type: Nonprofit
@@ -37,5 +36,7 @@ aggregated:
   project_ids:
     - '4102049'
     - '3102173'
+maker_image_file_name: Faces_Installation.jpg
+maker_image_id: '16935'
 
 ---

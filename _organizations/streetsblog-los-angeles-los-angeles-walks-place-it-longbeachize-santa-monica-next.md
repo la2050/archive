@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
-maker_image_id: '21490'
+published: true
 organization_id: '2014193'
 title: >-
   Streetsblog Los Angeles, Los Angeles Walks, Place It!, LongBeachize, Santa
@@ -29,5 +28,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102165'
+maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
+maker_image_id: '21490'
 
 ---

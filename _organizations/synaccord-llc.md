@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018115'
 title: 'Synaccord, LLC'
 org_type: Forprofit

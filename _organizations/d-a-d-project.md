@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016062'
 title: D.A.D Project
 org_type: Nonprofit

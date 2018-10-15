@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016123'
 title: LA Plaza de Cultura y Artes
 org_type: Nonprofit

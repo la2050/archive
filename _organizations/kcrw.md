@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016117'
 title: KCRW
 org_type: Nonprofit

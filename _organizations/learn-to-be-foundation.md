@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: RuF86dH0Bag
+published: true
 organization_id: '2013120'
 title: Learn To Be Foundation
 org_type: Nonprofit
@@ -67,5 +67,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102178'
+youtube_video_identifier: RuF86dH0Bag
 
 ---

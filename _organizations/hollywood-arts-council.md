@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016101'
 title: Hollywood Arts Council
 org_type: Nonprofit

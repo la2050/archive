@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: John_-_LA_Daily_News.jpg
-maker_image_id: '17239'
+published: true
 organization_id: '2013169'
 title: Southern California Committee for the Olympic Games (SCCOG)
 org_type: Nonprofit
@@ -88,5 +87,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102235'
+maker_image_file_name: John_-_LA_Daily_News.jpg
+maker_image_id: '17239'
 
 ---

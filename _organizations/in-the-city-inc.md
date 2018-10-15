@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: DSC01431.jpg
-maker_image_id: '22530'
+published: true
 organization_id: '2014156'
 title: 'IN THE CITY, INC.'
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102139'
+maker_image_file_name: DSC01431.jpg
+maker_image_id: '22530'
 
 ---

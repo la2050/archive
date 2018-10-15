@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: FVOqZ9sWi8k
+published: true
 organization_id: '2013004'
 title: Affordable Living for the Aging
 org_type: Nonprofit
@@ -78,5 +78,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102009'
+youtube_video_identifier: FVOqZ9sWi8k
 
 ---

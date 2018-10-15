@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: nF2CnqS_6oQ
+published: true
 organization_id: '2014184'
 title: Peace Over Violence
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
   project_ids:
     - '4102159'
     - '3102215'
+youtube_video_identifier: nF2CnqS_6oQ
 
 ---

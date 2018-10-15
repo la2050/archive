@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016065'
 title: Doctors for America
 org_type: Nonprofit

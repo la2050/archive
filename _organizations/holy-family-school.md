@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: FullSizeRender-2.jpg
-maker_image_id: '23605'
+published: true
 organization_id: '2015088'
 title: Holy Family School
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102136'
+maker_image_file_name: FullSizeRender-2.jpg
+maker_image_id: '23605'
 
 ---

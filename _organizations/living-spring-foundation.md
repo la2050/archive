@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016132'
 title: Living Spring Foundation
 org_type: Nonprofit

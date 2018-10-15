@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: codetechiq.jpg
-maker_image_id: '24010'
+published: true
 organization_id: '2015129'
 title: >-
   Los Angeles Southwest College Foundation, Innovate Globally and Los Angeles
@@ -38,5 +37,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102196'
+maker_image_file_name: codetechiq.jpg
+maker_image_id: '24010'
 
 ---

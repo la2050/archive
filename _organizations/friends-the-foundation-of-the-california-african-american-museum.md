@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Wishing_Upon_A_Star.jpg
-maker_image_id: '17083'
+published: true
 organization_id: '2013075'
 title: 'Friends, the Foundation of the California African American Museum'
 org_type: Nonprofit
@@ -60,5 +59,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102133'
+maker_image_file_name: Wishing_Upon_A_Star.jpg
+maker_image_id: '17083'
 
 ---

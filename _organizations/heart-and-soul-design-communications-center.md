@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: MIn1VBaIlrQ
+published: true
 organization_id: '2015084'
 title: Heart and Soul Design Communications Center
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102131'
+youtube_video_identifier: MIn1VBaIlrQ
 
 ---

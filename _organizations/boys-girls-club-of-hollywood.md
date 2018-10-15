@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: qBtFoJ-YYd0
+published: true
 organization_id: '2014118'
 title: Boys & Girls Club of Hollywood
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102116'
+youtube_video_identifier: qBtFoJ-YYd0
 
 ---

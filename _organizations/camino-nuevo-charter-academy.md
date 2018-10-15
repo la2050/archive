@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016034'
 title: Camino Nuevo Charter Academy
 org_type: Nonprofit

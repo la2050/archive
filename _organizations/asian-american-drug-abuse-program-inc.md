@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: School_Based_Mentoring.jpg
-maker_image_id: '17043'
+published: true
 organization_id: '2013018'
 title: 'Asian American Drug Abuse Program, Inc'
 org_type: Nonprofit
@@ -37,5 +36,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102030'
+maker_image_file_name: School_Based_Mentoring.jpg
+maker_image_id: '17043'
 
 ---

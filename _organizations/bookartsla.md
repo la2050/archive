@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_8796_(2).JPG
-maker_image_id: '23476'
+published: true
 organization_id: '2015019'
 title: BookArtsLA
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102032'
+maker_image_file_name: IMG_8796_(2).JPG
+maker_image_id: '23476'
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: y3Gts_Aoxd8
+published: true
 organization_id: '2013145'
 title: No Right Brain Left Behind and Green Dot Schools
 org_type: Nonprofit
@@ -56,5 +56,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102207'
+youtube_video_identifier: y3Gts_Aoxd8
 
 ---

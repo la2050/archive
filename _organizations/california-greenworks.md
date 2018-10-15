@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Leroy.JPG
-maker_image_id: '17141'
+published: true
 organization_id: '2013028'
 title: California Greenworks
 org_type: Nonprofit
@@ -68,5 +67,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102050'
+maker_image_file_name: Leroy.JPG
+maker_image_id: '17141'
 
 ---

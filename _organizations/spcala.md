@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Carrie_15-00963.jpg
-maker_image_id: '23662'
+published: true
 organization_id: '2015190'
 title: spcaLA
 org_type: Nonprofit
@@ -47,5 +46,7 @@ aggregated:
   project_ids:
     - '5102279'
     - '4102214'
+maker_image_file_name: Carrie_15-00963.jpg
+maker_image_id: '23662'
 
 ---

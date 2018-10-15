@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: March_31_2014_at_5pm.jpeg
-maker_image_id: '21436'
+published: true
 organization_id: '2014124'
 title: ChapCare
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102121'
+maker_image_file_name: March_31_2014_at_5pm.jpeg
+maker_image_id: '21436'
 
 ---

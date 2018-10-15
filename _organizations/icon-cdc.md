@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016107'
 title: ICON CDC
 org_type: Nonprofit

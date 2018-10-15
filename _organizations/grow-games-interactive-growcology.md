@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: volunteer-photo.jpg
-maker_image_id: '22335'
+published: true
 organization_id: '2014041'
 title: 'Grow Games Interactive, Growcology'
 org_type: Forprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2014'
   project_ids:
     - '5102147'
+maker_image_file_name: volunteer-photo.jpg
+maker_image_id: '22335'
 
 ---

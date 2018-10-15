@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Diane_Gershuny.jpg
-maker_image_id: '16987'
+published: true
 organization_id: '2013085'
 title: Green Octopus Consulting
 org_type: For profit
@@ -50,5 +49,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102054'
+maker_image_file_name: Diane_Gershuny.jpg
+maker_image_id: '16987'
 
 ---

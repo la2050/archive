@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: safari.jpg
-maker_image_id: '21750'
+published: true
 organization_id: '2014101'
 title: UCLA Extension Landscape Architecture Program
 org_type: Government
@@ -34,5 +33,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102100'
+maker_image_file_name: safari.jpg
+maker_image_id: '21750'
 
 ---

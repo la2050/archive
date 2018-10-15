@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016214'
 title: The C.I.T.Y. x1 Youth Group
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: yUwt2n0jfsc
+published: true
 organization_id: '2013099'
 title: Invisible People
 org_type: Nonprofit
@@ -115,5 +115,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102158'
+youtube_video_identifier: yUwt2n0jfsc
 
 ---

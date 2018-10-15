@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: '-MVQfBjaOS0'
+published: true
 organization_id: '2014019'
 title: Company of Angels (CoA)
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102020'
+youtube_video_identifier: '-MVQfBjaOS0'
 
 ---

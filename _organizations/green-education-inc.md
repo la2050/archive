@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: GEInc_Logo-brown_3-12.jpg
-maker_image_id: '22790'
+published: true
 organization_id: '2014147'
 title: Green Education Inc.
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102132'
+maker_image_file_name: GEInc_Logo-brown_3-12.jpg
+maker_image_id: '22790'
 
 ---

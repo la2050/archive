@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016232'
 title: The Sierra Club Foundation
 org_type: Nonprofit

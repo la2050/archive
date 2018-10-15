@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: atB8yIPXKCk
+published: true
 organization_id: '2015177'
 title: SeePolitical
 org_type: Nonprofit
@@ -37,5 +37,6 @@ aggregated:
   project_ids:
     - '5102264'
     - '4102211'
+youtube_video_identifier: atB8yIPXKCk
 
 ---

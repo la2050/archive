@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016175'
 title: Port of Los Angeles High School
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018063'
 title: LA River Public Art Project (c/o ERW Design)
 org_type: Forprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018048'
 title: Gracias Music Foundation
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: rt9TuksVaZU
+published: true
 organization_id: '2013115'
 title: LA Riverside Country Club
 org_type: Nonprofit
@@ -48,5 +48,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102172'
+youtube_video_identifier: rt9TuksVaZU
 
 ---

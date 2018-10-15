@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018110'
 title: SmartAirLA
 org_type: Nonprofit

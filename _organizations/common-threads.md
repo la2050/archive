@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016050'
 title: Common Threads
 org_type: Nonprofit

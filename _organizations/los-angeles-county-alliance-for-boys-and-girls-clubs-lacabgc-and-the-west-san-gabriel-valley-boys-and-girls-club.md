@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: JAZZ3YBKHzY
+published: true
 organization_id: '2014167'
 title: >-
   Los Angeles County Alliance for Boys and Girls Clubs (LACABGC) and the West
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102149'
+youtube_video_identifier: JAZZ3YBKHzY
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2015152'
 title: Partnership for Los Angeles Schools
 org_type: Nonprofit

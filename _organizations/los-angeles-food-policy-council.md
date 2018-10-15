@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016135'
 title: Los Angeles Food Policy Council
 org_type: Nonprofit

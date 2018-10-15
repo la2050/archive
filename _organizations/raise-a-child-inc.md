@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018100'
 title: 'Raise A Child, Inc.'
 org_type: Nonprofit

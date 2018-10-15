@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: good.jpg
-maker_image_id: '20899'
+published: true
 organization_id: '2014074'
 title: PwrdBy
 org_type: Forprofit
@@ -31,5 +30,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: good.jpg
+maker_image_id: '20899'
 
 ---

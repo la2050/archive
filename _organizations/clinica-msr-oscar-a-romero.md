@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: exercise.jpg
-maker_image_id: '24096'
+published: true
 organization_id: '2015039'
 title: Clinica Msr. Oscar A. Romero
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102068'
+maker_image_file_name: exercise.jpg
+maker_image_id: '24096'
 
 ---

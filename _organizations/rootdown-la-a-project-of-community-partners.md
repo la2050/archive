@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: RD_APCH_Training_Install_Mar_15_4web.jpg
-maker_image_id: '23812'
+published: true
 organization_id: '2015170'
 title: 'RootDown LA, A project of Community Partners'
 org_type: Nonprofit
@@ -37,5 +36,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102256'
+maker_image_file_name: RD_APCH_Training_Install_Mar_15_4web.jpg
+maker_image_id: '23812'
 
 ---

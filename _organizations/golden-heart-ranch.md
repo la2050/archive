@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 2014-08-12_11.41.58.jpg
-maker_image_id: '23906'
+published: true
 organization_id: '2015072'
 title: Golden Heart Ranch
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102113'
+maker_image_file_name: 2014-08-12_11.41.58.jpg
+maker_image_id: '23906'
 
 ---

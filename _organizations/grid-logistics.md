@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016093'
 title: GRID Logistics
 org_type: Forprofit

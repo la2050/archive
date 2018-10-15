@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: rfk-logo.png
-maker_image_id: '17150'
+published: true
 organization_id: '2013163'
 title: RFK-LA (Legacy in Action)
 org_type: Nonprofit
@@ -44,5 +43,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102229'
+maker_image_file_name: rfk-logo.png
+maker_image_id: '17150'
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018023'
 title: City Fabrick
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: OWW_logo_and_logline.jpg
-maker_image_id: '23763'
+published: true
 organization_id: '2015136'
 title: Melrose World Cinema Centers
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102205'
+maker_image_file_name: OWW_logo_and_logline.jpg
+maker_image_id: '23763'
 
 ---

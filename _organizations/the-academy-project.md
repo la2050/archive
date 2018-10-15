@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016211'
 title: The Academy Project
 org_type: Nonprofit

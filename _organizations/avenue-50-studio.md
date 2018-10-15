@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: BtUB4Ycebms
+published: true
 organization_id: '2014011'
 title: Avenue 50 Studio
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102012'
+youtube_video_identifier: BtUB4Ycebms
 
 ---

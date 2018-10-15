@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016152'
 title: NAMI San Fernando Valley
 org_type: Nonprofit

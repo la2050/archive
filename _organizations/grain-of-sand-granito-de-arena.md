@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Debris_3.JPG
-maker_image_id: '16238'
+published: true
 organization_id: '2013083'
 title: Grain of Sand - Granito de Arena
 org_type: Nonprofit
@@ -47,5 +46,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102141'
+maker_image_file_name: Debris_3.JPG
+maker_image_id: '16238'
 
 ---

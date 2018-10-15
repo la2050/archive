@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016056'
 title: ConnectEd
 org_type: Nonprofit

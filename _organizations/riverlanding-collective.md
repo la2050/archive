@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: _8WrWZXDKdQ
+published: true
 organization_id: '2013164'
 title: RiverLAnding Collective
 org_type: For profit
@@ -89,5 +89,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102090'
+youtube_video_identifier: _8WrWZXDKdQ
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016230'
 title: The River Project
 org_type: Nonprofit

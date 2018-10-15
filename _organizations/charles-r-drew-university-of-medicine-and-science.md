@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018017'
 title: Charles R. Drew University of Medicine and Science
 org_type: Nonprofit

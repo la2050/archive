@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: In_Studio_Irvine_Mural.jpg
-maker_image_id: '22131'
+published: true
 organization_id: '2014068'
 title: Piece by Piece
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102069'
+maker_image_file_name: In_Studio_Irvine_Mural.jpg
+maker_image_id: '22131'
 
 ---

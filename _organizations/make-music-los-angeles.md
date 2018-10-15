@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016145'
 title: Make Music Los Angeles
 org_type: Nonprofit

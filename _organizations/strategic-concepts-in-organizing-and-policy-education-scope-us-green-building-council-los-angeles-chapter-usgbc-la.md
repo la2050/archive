@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ERxmCic5y3o
+published: true
 organization_id: '2015191'
 title: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
@@ -35,5 +35,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102282'
+youtube_video_identifier: ERxmCic5y3o
 
 ---

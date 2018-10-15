@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016060'
 title: County of Los Angeles Public Library
 org_type: Government

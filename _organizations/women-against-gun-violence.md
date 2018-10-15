@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ez1sypeq2hI
+published: true
 organization_id: '2014226'
 title: Women Against Gun Violence
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
   project_ids:
     - '4102186'
     - '3102274'
+youtube_video_identifier: ez1sypeq2hI
 
 ---

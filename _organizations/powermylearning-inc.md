@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016176'
 title: 'PowerMyLearning, Inc.'
 org_type: Nonprofit

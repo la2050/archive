@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: c2e6ERN-dS8
+published: true
 organization_id: '2013130'
 title: Machine Project
 org_type: Nonprofit
@@ -50,5 +50,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102194'
+youtube_video_identifier: c2e6ERN-dS8
 
 ---

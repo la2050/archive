@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016100'
 title: Historic Core BID
 org_type: Nonprofit

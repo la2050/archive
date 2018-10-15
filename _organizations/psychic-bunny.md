@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: NtMAZqR4Tf4
+published: true
 organization_id: '2014073'
 title: Psychic Bunny
 org_type: Forprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '5102207'
+youtube_video_identifier: NtMAZqR4Tf4
 
 ---

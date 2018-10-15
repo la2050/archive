@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018047'
 title: Good Shine Studio
 org_type: Social enterprise or Bcorps

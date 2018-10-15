@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018111'
 title: South Bay Bicycle Coalition
 org_type: Nonprofit

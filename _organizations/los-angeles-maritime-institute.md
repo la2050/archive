@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: m_0WUOFanyM
+published: true
 organization_id: '2015125'
 title: Los Angeles Maritime Institute
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102190'
+youtube_video_identifier: m_0WUOFanyM
 
 ---

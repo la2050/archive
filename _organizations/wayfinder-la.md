@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Wayfinder.png
-maker_image_id: '16815'
+published: true
 organization_id: '2013216'
 title: Wayfinder LA
 org_type: Nonprofit
@@ -38,5 +37,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102273'
+maker_image_file_name: Wayfinder.png
+maker_image_id: '16815'
 
 ---

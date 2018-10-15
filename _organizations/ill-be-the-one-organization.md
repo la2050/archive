@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IBT1student.jpg
-maker_image_id: '21338'
+published: true
 organization_id: '2014154'
 title: I'll Be The One Organization
 org_type: Nonprofit
@@ -31,5 +30,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102137'
+maker_image_file_name: IBT1student.jpg
+maker_image_id: '21338'
 
 ---

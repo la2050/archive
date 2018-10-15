@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Wheels_graduation_ceremony.jpg
-maker_image_id: '23250'
+published: true
 organization_id: '2015225'
 title: 'Wheels of Hope LA, Fred Jordan Mission'
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102341'
+maker_image_file_name: Wheels_graduation_ceremony.jpg
+maker_image_id: '23250'
 
 ---

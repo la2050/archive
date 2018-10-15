@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: iHlwRhoV_78
+published: true
 organization_id: '2015184'
 title: Social Action Partners (SoACT)
 org_type: Nonprofit
@@ -38,5 +38,6 @@ aggregated:
   project_ids:
     - '5102271'
     - '4102083'
+youtube_video_identifier: iHlwRhoV_78
 
 ---

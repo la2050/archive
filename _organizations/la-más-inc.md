@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: iGjxg6yI_og
+published: true
 organization_id: '2013116'
 title: 'LA-Más, Inc.'
 org_type: For profit
@@ -58,5 +58,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102071'
+youtube_video_identifier: iGjxg6yI_og
 
 ---

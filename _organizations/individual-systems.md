@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Apptalk.JPG
-maker_image_id: '16476'
+published: true
 organization_id: '2013095'
 title: Individual Systems
 org_type: For profit
@@ -62,5 +61,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102062'
+maker_image_file_name: Apptalk.JPG
+maker_image_id: '16476'
 
 ---

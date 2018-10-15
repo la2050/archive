@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_4644.JPG
-maker_image_id: '24100'
+published: true
 organization_id: '2015069'
 title: From Lot to Spot
 org_type: Nonprofit
@@ -45,5 +44,7 @@ aggregated:
     - '5102107'
     - '4102199'
     - '3102134'
+maker_image_file_name: IMG_4644.JPG
+maker_image_id: '24100'
 
 ---

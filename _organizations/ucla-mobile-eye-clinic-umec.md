@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018130'
 title: UCLA Mobile Eye Clinic (UMEC)
 org_type: Nonprofit

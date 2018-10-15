@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: mvOTPkbwJJU
+published: true
 organization_id: '2015189'
 title: Southern California Water Committee
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102277'
+youtube_video_identifier: mvOTPkbwJJU
 
 ---

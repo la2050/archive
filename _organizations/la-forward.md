@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018062'
 title: LA Forward
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: f_x1AGOuR7A
+published: true
 organization_id: '2015224'
 title: WestCal Academy
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102340'
+youtube_video_identifier: f_x1AGOuR7A
 
 ---

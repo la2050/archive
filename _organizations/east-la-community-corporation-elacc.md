@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018035'
 title: East LA Community Corporation (ELACC)
 org_type: Nonprofit

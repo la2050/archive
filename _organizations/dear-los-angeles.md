@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_1031.JPG
-maker_image_id: '16214'
+published: true
 organization_id: '2013051'
 title: Dear Los Angeles
 org_type: Nonprofit
@@ -41,5 +40,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102103'
+maker_image_file_name: IMG_1031.JPG
+maker_image_id: '16214'
 
 ---

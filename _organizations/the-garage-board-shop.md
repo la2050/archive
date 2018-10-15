@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016218'
 title: The Garage Board Shop
 org_type: Forprofit

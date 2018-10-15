@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016130'
 title: Light and Life Christian Fellowship Community Center
 org_type: Nonprofit

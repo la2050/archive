@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: H-S2LiQcO00
+published: true
 organization_id: '2015018'
 title: Blueprint Earth
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102031'
+youtube_video_identifier: H-S2LiQcO00
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Cabrillo_High_School_Campus.JPG
-maker_image_id: '23218'
+published: true
 organization_id: '2015137'
 title: MentorMint
 org_type: Forprofit
@@ -33,5 +32,7 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+maker_image_file_name: Cabrillo_High_School_Campus.JPG
+maker_image_id: '23218'
 
 ---

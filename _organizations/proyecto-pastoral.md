@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016178'
 title: Proyecto Pastoral
 org_type: Nonprofit

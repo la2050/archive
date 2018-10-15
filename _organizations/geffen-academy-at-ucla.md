@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018043'
 title: Geffen Academy at UCLA
 org_type: Government

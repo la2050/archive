@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Logo_Color_Large2.png
-maker_image_id: '16812'
+published: true
 organization_id: '2013094'
 title: 'ImPact Farms, Inc.'
 org_type: For profit
@@ -46,5 +45,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102057'
+maker_image_file_name: Logo_Color_Large2.png
+maker_image_id: '16812'
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: MECAY-Education-Proposal-2014.jpg
-maker_image_id: '22605'
+published: true
 organization_id: '2014052'
 title: Levantine Cultural Center
 org_type: Nonprofit
@@ -37,5 +36,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102053'
+maker_image_file_name: MECAY-Education-Proposal-2014.jpg
+maker_image_id: '22605'
 
 ---

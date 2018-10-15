@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016141'
 title: Lost Angels Children's Project
 org_type: Nonprofit

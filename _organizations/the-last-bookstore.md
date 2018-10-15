@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LBSpan2med.jpg
-maker_image_id: '16903'
+published: true
 organization_id: '2013191'
 title: The Last Bookstore
 org_type: For profit
@@ -52,5 +51,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102107'
+maker_image_file_name: LBSpan2med.jpg
+maker_image_id: '16903'
 
 ---

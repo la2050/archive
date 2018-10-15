@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: XNxfMssLYzc
+published: true
 organization_id: '2014130'
 title: College Summit Southern California
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102122'
+youtube_video_identifier: XNxfMssLYzc
 
 ---

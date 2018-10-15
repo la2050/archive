@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: l2oE7AX8gtw
+published: true
 organization_id: '2014046'
 title: 'L.A. Bike Trains, Bicycle Culture Institute'
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102047'
+youtube_video_identifier: l2oE7AX8gtw
 
 ---

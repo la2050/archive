@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018108'
 title: Shoes That Fit
 org_type: Nonprofit

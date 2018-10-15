@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 6pkTdEgSCvo
+published: true
 organization_id: '2013057'
 title: Education Consortium of Central Los Angeles / Project LESS
 org_type: Nonprofit
@@ -90,5 +90,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102119'
+youtube_video_identifier: 6pkTdEgSCvo
 
 ---

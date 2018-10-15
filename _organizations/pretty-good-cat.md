@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016177'
 title: Pretty Good Cat
 org_type: Nonprofit

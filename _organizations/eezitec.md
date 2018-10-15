@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: uVgrIU_Bl9g
+published: true
 organization_id: '2015056'
 title: EEZITEC
 org_type: Forprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '8102069'
+youtube_video_identifier: uVgrIU_Bl9g
 
 ---

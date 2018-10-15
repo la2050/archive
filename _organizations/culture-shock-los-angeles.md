@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: wmExJ7xdKYc
+published: true
 organization_id: '2015047'
 title: Culture Shock Los Angeles
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102080'
+youtube_video_identifier: wmExJ7xdKYc
 
 ---

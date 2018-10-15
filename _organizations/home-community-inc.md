@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: zs2Oe9X1llQ
+published: true
 organization_id: '2014151'
 title: home&community inc
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
   project_ids:
     - '4102134'
     - '4102168'
+youtube_video_identifier: zs2Oe9X1llQ
 
 ---

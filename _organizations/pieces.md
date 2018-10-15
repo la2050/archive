@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016171'
 title: PIECES
 org_type: Nonprofit

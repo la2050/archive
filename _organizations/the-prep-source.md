@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: The_Prep_Source_Resume_Workshop.png
-maker_image_id: '20755'
+published: true
 organization_id: '2014208'
 title: The Prep Source
 org_type: Forprofit
@@ -28,5 +27,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: The_Prep_Source_Resume_Workshop.png
+maker_image_id: '20755'
 
 ---

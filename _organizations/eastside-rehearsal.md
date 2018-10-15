@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: ESRLogo.jpg
-maker_image_id: '23180'
+published: true
 organization_id: '2015055'
 title: Eastside Rehearsal
 org_type: Forprofit
@@ -36,5 +35,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102181'
+maker_image_file_name: ESRLogo.jpg
+maker_image_id: '23180'
 
 ---

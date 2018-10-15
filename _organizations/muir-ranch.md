@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: dahlia3queque.jpg
-maker_image_id: '20571'
+published: true
 organization_id: '2014060'
 title: Muir Ranch
 org_type: Nonprofit
@@ -46,5 +45,7 @@ aggregated:
   project_ids:
     - '4102061'
     - '3102200'
+maker_image_file_name: dahlia3queque.jpg
+maker_image_id: '20571'
 
 ---

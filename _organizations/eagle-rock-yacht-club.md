@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: aKgBQ7XR-pg
+published: true
 organization_id: '2014029'
 title: Eagle Rock Yacht Club
 org_type: Nonprofit
@@ -39,5 +39,6 @@ aggregated:
   project_ids:
     - '4102030'
     - '3102116'
+youtube_video_identifier: aKgBQ7XR-pg
 
 ---

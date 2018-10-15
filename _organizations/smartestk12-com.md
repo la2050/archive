@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: smartestk12.homepage.student.v1.000.svg.png
-maker_image_id: '16780'
+published: true
 organization_id: '2013167'
 title: smartestk12.com
 org_type: For profit
@@ -47,5 +46,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102092'
+maker_image_file_name: smartestk12.homepage.student.v1.000.svg.png
+maker_image_id: '16780'
 
 ---

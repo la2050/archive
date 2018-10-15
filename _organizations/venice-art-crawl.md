@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: U3BkXd4ano4
+published: true
 organization_id: '2013213'
 title: Venice Art Crawl
 org_type: Nonprofit
@@ -43,5 +43,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102271'
+youtube_video_identifier: U3BkXd4ano4
 
 ---

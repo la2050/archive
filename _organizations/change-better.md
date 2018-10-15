@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Change_Better_Profile.jpg
-maker_image_id: '23690'
+published: true
 organization_id: '2015030'
 title: Change Better
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102051'
+maker_image_file_name: Change_Better_Profile.jpg
+maker_image_id: '23690'
 
 ---

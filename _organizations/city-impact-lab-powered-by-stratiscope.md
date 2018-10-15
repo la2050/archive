@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018024'
 title: 'City Impact Lab, powered by Stratiscope'
 org_type: Forprofit

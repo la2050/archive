@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018064'
 title: Larchmont Charter School
 org_type: Nonprofit

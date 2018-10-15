@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: g8ndzuZ3kKM
+published: true
 organization_id: '2014176'
 title: Metabolic Studio
 org_type: Nonprofit
@@ -25,5 +25,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102154'
+youtube_video_identifier: g8ndzuZ3kKM
 
 ---

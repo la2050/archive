@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: Ht0-3dSjCew
+published: true
 organization_id: '2015062'
 title: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
 org_type: Nonprofit
@@ -39,5 +39,6 @@ aggregated:
   project_ids:
     - '5102099'
     - '4102025'
+youtube_video_identifier: Ht0-3dSjCew
 
 ---

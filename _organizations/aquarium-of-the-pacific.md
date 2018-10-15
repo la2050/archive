@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: AquariumPacific.jpg
-maker_image_id: '22849'
+published: true
 organization_id: '2014114'
 title: Aquarium of the Pacific
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102112'
+maker_image_file_name: AquariumPacific.jpg
+maker_image_id: '22849'
 
 ---

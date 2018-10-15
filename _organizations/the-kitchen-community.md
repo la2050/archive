@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Happy_Greens.jpg
-maker_image_id: '21882'
+published: true
 organization_id: '2014203'
 title: The Kitchen Community
 org_type: Nonprofit
@@ -27,5 +26,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102170'
+maker_image_file_name: Happy_Greens.jpg
+maker_image_id: '21882'
 
 ---

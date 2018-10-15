@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: rachelschmid.elrio.jpg
-maker_image_id: '17107'
+published: true
 organization_id: '2013059'
 title: 'El Rio Schools: MIND-FIT EDUCATION FOR THE 21ST CENTURY'
 org_type: Nonprofit
@@ -52,5 +51,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102122'
+maker_image_file_name: rachelschmid.elrio.jpg
+maker_image_id: '17107'
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: interfaithsize.png
-maker_image_id: '21276'
+published: true
 organization_id: '2014042'
 title: Holy Ghost Global
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102043'
+maker_image_file_name: interfaithsize.png
+maker_image_id: '21276'
 
 ---

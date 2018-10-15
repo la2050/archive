@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: yy9nnTHABlE
+published: true
 organization_id: '2015052'
 title: Dreamhaus Inc.
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102085'
+youtube_video_identifier: yy9nnTHABlE
 
 ---

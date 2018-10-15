@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018011'
 title: Brioxy
 org_type: Social enterprise or Bcorps

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016231'
 title: The Ron Finley Project
 org_type: Nonprofit

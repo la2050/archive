@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018073'
 title: Los Angeles County Registrar-Recorder/County Clerk
 org_type: Government

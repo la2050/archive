@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018084'
 title: 'Move LA, a project of Community Partners'
 org_type: Nonprofit

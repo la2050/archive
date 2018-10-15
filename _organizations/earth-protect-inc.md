@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: usGtj9dvrhA
+published: true
 organization_id: '2014030'
 title: 'Earth Protect, Inc.'
 org_type: Forprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '5102132'
+youtube_video_identifier: usGtj9dvrhA
 
 ---

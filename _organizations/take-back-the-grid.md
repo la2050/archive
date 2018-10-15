@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: R-T1Ud6JTNo
+published: true
 organization_id: '2013179'
 title: Take Back the Grid
 org_type: For profit
@@ -35,5 +35,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102101'
+youtube_video_identifier: R-T1Ud6JTNo
 
 ---

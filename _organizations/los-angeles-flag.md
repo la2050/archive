@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Sky_Pic.png
-maker_image_id: '23596'
+published: true
 organization_id: '2015124'
 title: Los Angeles Flag
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102189'
+maker_image_file_name: Sky_Pic.png
+maker_image_id: '23596'
 
 ---

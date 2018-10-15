@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: _BC4Wfw6Gb4
+published: true
 organization_id: '2014038'
 title: Friends of the VisionTheater
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102039'
+youtube_video_identifier: _BC4Wfw6Gb4
 
 ---

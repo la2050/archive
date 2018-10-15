@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: _DSC5884.JPG
-maker_image_id: '20167'
+published: true
 organization_id: '2014085'
 title: St. Barnabas Senior Services aka St. Barnabas Senior Center
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102086'
+maker_image_file_name: _DSC5884.JPG
+maker_image_id: '20167'
 
 ---

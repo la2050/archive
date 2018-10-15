@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: t_fQo1Z6VSg
+published: true
 organization_id: '2015068'
 title: Friends of the Hollywood Central Park (FHCP)
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102106'
+youtube_video_identifier: t_fQo1Z6VSg
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: zenfunder-la2050.png
-maker_image_id: '16290'
+published: true
 organization_id: '2013037'
 title: 'CitySourced, Inc.'
 org_type: For profit
@@ -69,5 +68,7 @@ aggregated:
   project_ids:
     - '3102017'
     - '3102017'
+maker_image_file_name: zenfunder-la2050.png
+maker_image_id: '16290'
 
 ---

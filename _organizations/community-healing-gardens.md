@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016052'
 title: Community Healing Gardens
 org_type: Nonprofit

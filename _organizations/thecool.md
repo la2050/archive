@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016235'
 title: thecool
 org_type: Forprofit

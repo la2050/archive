@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_0112.JPG
-maker_image_id: '23558'
+published: true
 organization_id: '2015171'
 title: RRM Design Group and Los Angeles Neighborhood Initiative
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102257'
+maker_image_file_name: IMG_0112.JPG
+maker_image_id: '23558'
 
 ---

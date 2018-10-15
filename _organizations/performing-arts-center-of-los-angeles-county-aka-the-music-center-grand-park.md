@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: BhO5jmXKosA
+published: true
 organization_id: '2015154'
 title: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102234'
+youtube_video_identifier: BhO5jmXKosA
 
 ---

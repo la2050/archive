@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: ca_civic_innovation_project_logo.png
-maker_image_id: '16898'
+published: true
 organization_id: '2013144'
 title: New America Foundation - CA Civic Innovation Project
 org_type: Nonprofit
@@ -61,5 +60,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102206'
+maker_image_file_name: ca_civic_innovation_project_logo.png
+maker_image_id: '16898'
 
 ---

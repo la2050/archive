@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 3ceZFpvVVU0
+published: true
 organization_id: '2015086'
 title: Hollywood Curling
 org_type: Nonprofit
@@ -34,5 +34,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102134'
+youtube_video_identifier: 3ceZFpvVVU0
 
 ---

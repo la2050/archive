@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016127'
 title: Landscape Integrity Films and Education (LIFE)
 org_type: Nonprofit

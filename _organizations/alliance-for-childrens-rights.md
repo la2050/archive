@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Page_6_Behind_the_scenes.JPG
-maker_image_id: '24082'
+published: true
 organization_id: '2015006'
 title: Alliance for Children's Rights
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102012'
+maker_image_file_name: Page_6_Behind_the_scenes.JPG
+maker_image_id: '24082'
 
 ---

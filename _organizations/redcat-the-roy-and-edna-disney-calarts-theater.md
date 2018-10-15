@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: VpqSppE8ppo
+published: true
 organization_id: '2013161'
 title: REDCAT (The Roy and Edna Disney CalArts Theater)
 org_type: Nonprofit
@@ -43,5 +43,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102227'
+youtube_video_identifier: VpqSppE8ppo
 
 ---

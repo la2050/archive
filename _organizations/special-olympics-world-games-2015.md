@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: DMG32xJ5p-Q
+published: true
 organization_id: '2014084'
 title: Special Olympics World Games 2015
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102085'
+youtube_video_identifier: DMG32xJ5p-Q
 
 ---

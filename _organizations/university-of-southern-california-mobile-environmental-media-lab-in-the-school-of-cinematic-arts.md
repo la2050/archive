@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016248'
 title: >-
   University of Southern California, Mobile + Environmental Media Lab in the

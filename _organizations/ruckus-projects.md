@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Leif_Community_Engagement_App.jpg
-maker_image_id: '23547'
+published: true
 organization_id: '2015172'
 title: Ruckus Projects
 org_type: Forprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2015'
   project_ids:
     - '8102115'
+maker_image_file_name: Leif_Community_Engagement_App.jpg
+maker_image_id: '23547'
 
 ---

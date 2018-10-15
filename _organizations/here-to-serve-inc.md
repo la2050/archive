@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016099'
 title: 'Here to Serve, Inc'
 org_type: Nonprofit

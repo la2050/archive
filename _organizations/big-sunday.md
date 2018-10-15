@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016020'
 title: Big Sunday
 org_type: Nonprofit

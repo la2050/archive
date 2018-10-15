@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: rksqpbf13eo
+published: true
 organization_id: '2013212'
 title: Valle Artists
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102270'
+youtube_video_identifier: rksqpbf13eo
 
 ---

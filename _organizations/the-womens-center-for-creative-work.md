@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
-maker_image_id: '20805'
+published: true
 organization_id: '2014098'
 title: The Women's Center for Creative Work
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102098'
+maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
+maker_image_id: '20805'
 
 ---

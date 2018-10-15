@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_9355.JPG
-maker_image_id: '23850'
+published: true
 organization_id: '2015209'
 title: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102314'
+maker_image_file_name: IMG_9355.JPG
+maker_image_id: '23850'
 
 ---

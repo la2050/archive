@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018125'
 title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
 org_type: Forprofit

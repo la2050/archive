@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016026'
 title: BreastfeedLA
 org_type: Nonprofit

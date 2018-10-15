@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016028'
 title: 'Building Healthy Communities: Long Beach'
 org_type: Nonprofit

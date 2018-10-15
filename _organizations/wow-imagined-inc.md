@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016259'
 title: 'WOW Imagined, Inc.'
 org_type: Nonprofit

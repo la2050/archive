@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: wZGBfT2_pi4
+published: true
 organization_id: '2015109'
 title: Lab Launch
 org_type: Nonprofit
@@ -39,5 +39,6 @@ aggregated:
   project_ids:
     - '5102170'
     - '4102201'
+youtube_video_identifier: wZGBfT2_pi4
 
 ---

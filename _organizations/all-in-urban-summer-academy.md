@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018006'
 title: All-In Urban Summer Academy
 org_type: Forprofit

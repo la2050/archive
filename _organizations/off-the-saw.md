@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMG_8112_web.jpg
-maker_image_id: '23544'
+published: true
 organization_id: '2015146'
 title: Off The Saw
 org_type: Forprofit
@@ -32,5 +31,7 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+maker_image_file_name: IMG_8112_web.jpg
+maker_image_id: '23544'
 
 ---

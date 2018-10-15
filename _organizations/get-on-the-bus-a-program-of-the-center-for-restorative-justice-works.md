@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: CRJW_Goodmaker.jpg
-maker_image_id: '23562'
+published: true
 organization_id: '2015071'
 title: Get On The Bus a program of the Center for Restorative Justice Works
 org_type: Nonprofit
@@ -38,5 +37,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102109'
+maker_image_file_name: CRJW_Goodmaker.jpg
+maker_image_id: '23562'
 
 ---

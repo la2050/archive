@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018117'
 title: The Brady Center to Prevent Gun Violence
 org_type: Nonprofit

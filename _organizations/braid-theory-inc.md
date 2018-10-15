@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016023'
 title: 'Braid Theory, Inc.'
 org_type: Forprofit

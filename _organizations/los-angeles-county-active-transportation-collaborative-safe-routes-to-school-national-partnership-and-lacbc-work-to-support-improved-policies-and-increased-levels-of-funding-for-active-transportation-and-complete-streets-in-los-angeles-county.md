@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2050-pic-1_copy.jpg
-maker_image_id: '22795'
+published: true
 organization_id: '2014166'
 title: >-
   Los Angeles County Active Transportation Collaborative (Safe Routes to School
@@ -36,5 +35,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102148'
+maker_image_file_name: LA2050-pic-1_copy.jpg
+maker_image_id: '22795'
 
 ---

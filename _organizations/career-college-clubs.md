@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: CCC_pic17_small.jpg
-maker_image_id: '23182'
+published: true
 organization_id: '2015025'
 title: Career & College clubs
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102041'
+maker_image_file_name: CCC_pic17_small.jpg
+maker_image_id: '23182'
 
 ---

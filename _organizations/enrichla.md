@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 3CNwJdOyIDQ
+published: true
 organization_id: '2014032'
 title: EnrichLA
 org_type: Nonprofit
@@ -38,5 +38,6 @@ aggregated:
   project_ids:
     - '4102033'
     - '3102124'
+youtube_video_identifier: 3CNwJdOyIDQ
 
 ---

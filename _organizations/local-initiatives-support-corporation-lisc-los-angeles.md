@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: picture_1.jpg
-maker_image_id: '23259'
+published: true
 organization_id: '2015116'
 title: Local Initiatives Support Corporation (LISC) Los Angeles
 org_type: Nonprofit
@@ -39,5 +38,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102179'
+maker_image_file_name: picture_1.jpg
+maker_image_id: '23259'
 
 ---

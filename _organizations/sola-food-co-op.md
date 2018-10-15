@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016195'
 title: SoLA Food Co-op
 org_type: Forprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018083'
 title: Miry’s List
 org_type: Nonprofit

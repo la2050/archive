@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: gHdNsESWQgM
+published: true
 organization_id: '2013081'
 title: GlobalGirl Media
 org_type: Nonprofit
@@ -97,5 +97,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102139'
+youtube_video_identifier: gHdNsESWQgM
 
 ---

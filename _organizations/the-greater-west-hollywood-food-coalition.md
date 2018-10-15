@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: vZOFIeiYKwA
+published: true
 organization_id: '2013187'
 title: The Greater West Hollywood Food Coalition
 org_type: Nonprofit
@@ -59,5 +59,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102248'
+youtube_video_identifier: vZOFIeiYKwA
 
 ---

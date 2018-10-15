@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016260'
 title: 'Wyota Workshop, Inc.'
 org_type: Forprofit

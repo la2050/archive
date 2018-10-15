@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016222'
 title: the Jane Goodall Institute
 org_type: Nonprofit

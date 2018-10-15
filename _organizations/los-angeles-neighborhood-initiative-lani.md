@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016138'
 title: Los Angeles Neighborhood Initiative (LANI)
 org_type: Nonprofit

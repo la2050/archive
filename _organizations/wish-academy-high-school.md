@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016257'
 title: WISH Academy High School
 org_type: Nonprofit

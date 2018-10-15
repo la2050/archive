@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016075'
 title: Evolve LA (project of LA-Más)
 org_type: Nonprofit

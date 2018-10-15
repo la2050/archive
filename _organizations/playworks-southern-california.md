@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: mJP7rkVcRfo
+published: true
 organization_id: '2013155'
 title: Playworks Southern California
 org_type: Nonprofit
@@ -48,5 +48,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102220'
+youtube_video_identifier: mJP7rkVcRfo
 
 ---

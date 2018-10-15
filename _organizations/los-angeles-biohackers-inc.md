@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: la_biohackers__LA2050_570_345_copy2.jpg
-maker_image_id: '22859'
+published: true
 organization_id: '2014054'
 title: 'Los Angeles Biohackers, Inc'
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102055'
+maker_image_file_name: la_biohackers__LA2050_570_345_copy2.jpg
+maker_image_id: '22859'
 
 ---

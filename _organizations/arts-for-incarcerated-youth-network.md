@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016015'
 title: Arts For Incarcerated Youth Network
 org_type: Nonprofit

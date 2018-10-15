@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: College_Access_Initiative.jpg
-maker_image_id: '24078'
+published: true
 organization_id: '2015020'
 title: Boys & Girls Clubs of Carson
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102033'
+maker_image_file_name: College_Access_Initiative.jpg
+maker_image_id: '24078'
 
 ---

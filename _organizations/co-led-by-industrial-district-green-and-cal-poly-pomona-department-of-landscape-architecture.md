@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016045'
 title: >-
   Co-led by Industrial District Green and Cal Poly Pomona Department of

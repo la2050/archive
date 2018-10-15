@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Cool_block_9.png
-maker_image_id: '23843'
+published: true
 organization_id: '2015143'
 title: Neighborhood Council Sustainability Alliance
 org_type: Other
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102218'
+maker_image_file_name: Cool_block_9.png
+maker_image_id: '23843'
 
 ---

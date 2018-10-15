@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 4zAG6xu-HQM
+published: true
 organization_id: '2013030'
 title: 'cARTel: Collaborative Arts LA'
 org_type: For profit
@@ -41,5 +41,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102008'
+youtube_video_identifier: 4zAG6xu-HQM
 
 ---

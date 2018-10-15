@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LAM_Robots.jpg
-maker_image_id: '16174'
+published: true
 organization_id: '2013125'
 title: Los Angeles Makerspace
 org_type: Nonprofit
@@ -68,5 +67,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102187'
+maker_image_file_name: LAM_Robots.jpg
+maker_image_id: '16174'
 
 ---

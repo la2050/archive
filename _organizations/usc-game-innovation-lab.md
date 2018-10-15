@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: dN0L0YMa39s
+published: true
 organization_id: '2014104'
 title: USC Game Innovation Lab
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102103'
+youtube_video_identifier: dN0L0YMa39s
 
 ---

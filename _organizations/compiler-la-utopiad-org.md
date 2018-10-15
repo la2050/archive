@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: KHtt2okRChU
+published: true
 organization_id: '2015044'
 title: 'Compiler LA, Utopiad.org'
 org_type: Forprofit
@@ -36,5 +36,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102150'
+youtube_video_identifier: KHtt2okRChU
 
 ---

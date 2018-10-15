@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: SPIFF-Youth-Intensive.jpg
-maker_image_id: '21797'
+published: true
 organization_id: '2014009'
 title: 'Art In Motion, Inc.'
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102010'
+maker_image_file_name: SPIFF-Youth-Intensive.jpg
+maker_image_id: '21797'
 
 ---

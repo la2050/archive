@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: mf0l7ocARFM
+published: true
 organization_id: '2013031'
 title: Cheshire Moon Inc
 org_type: Nonprofit
@@ -77,5 +77,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102058'
+youtube_video_identifier: mf0l7ocARFM
 
 ---

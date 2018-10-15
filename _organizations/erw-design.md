@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: fpGXBYHFZuE
+published: true
 organization_id: '2014033'
 title: ERW Design
 org_type: '#N/A'
@@ -27,5 +27,6 @@ aggregated:
     - '2014'
   project_ids:
     - '5102342'
+youtube_video_identifier: fpGXBYHFZuE
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 5fr_Qf0ZQ7M
+published: true
 organization_id: '2014037'
 title: Friends of the Los Angeles River
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102038'
+youtube_video_identifier: 5fr_Qf0ZQ7M
 
 ---

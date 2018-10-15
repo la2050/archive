@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: AplusD-ReveaLALA.jpg
-maker_image_id: '23861'
+published: true
 organization_id: '2015012'
 title: Architecture and Design Museum (A+D)
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102019'
+maker_image_file_name: AplusD-ReveaLALA.jpg
+maker_image_id: '23861'
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018081'
 title: Mayor’s Fund for Los Angeles
 org_type: Nonprofit

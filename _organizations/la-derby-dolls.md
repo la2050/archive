@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016121'
 title: LA Derby Dolls
 org_type: Nonprofit

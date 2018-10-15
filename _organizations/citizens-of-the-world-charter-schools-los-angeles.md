@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016038'
 title: 'Citizens of the World Charter Schools, Los Angeles'
 org_type: Nonprofit

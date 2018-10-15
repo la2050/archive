@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: placita_nueva.jpg
-maker_image_id: '16818'
+published: true
 organization_id: '2013209'
 title: Urban Macrosystems
 org_type: For profit
@@ -62,5 +61,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102113'
+maker_image_file_name: placita_nueva.jpg
+maker_image_id: '16818'
 
 ---

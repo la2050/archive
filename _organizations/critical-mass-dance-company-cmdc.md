@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: K83J6XaqQlM
+published: true
 organization_id: '2014023'
 title: Critical Mass Dance Company (CMDC)
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102024'
+youtube_video_identifier: K83J6XaqQlM
 
 ---

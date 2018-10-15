@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016228'
 title: The Ojai Foundation
 org_type: Nonprofit

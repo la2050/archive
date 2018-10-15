@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: dsc00212.jpg
-maker_image_id: '23262'
+published: true
 organization_id: '2015166'
 title: Redeemer Baptist Elementary School
 org_type: Other
@@ -32,5 +31,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102250'
+maker_image_file_name: dsc00212.jpg
+maker_image_id: '23262'
 
 ---

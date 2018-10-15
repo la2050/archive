@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: TNz5Q0G-KAs
+published: true
 organization_id: '2015118'
 title: Localism Inc.
 org_type: Forprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102254'
+youtube_video_identifier: TNz5Q0G-KAs
 
 ---

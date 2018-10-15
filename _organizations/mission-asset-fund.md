@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: AXqYX0rfbys
+published: true
 organization_id: '2013136'
 title: Mission Asset Fund
 org_type: Nonprofit
@@ -44,5 +44,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102198'
+youtube_video_identifier: AXqYX0rfbys
 
 ---

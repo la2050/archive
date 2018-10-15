@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016184'
 title: Richstone Family Center
 org_type: Nonprofit

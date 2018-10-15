@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: DSCF5143_eventbrite.jpg
-maker_image_id: '16966'
+published: true
 organization_id: '2013188'
 title: The HeArt Project
 org_type: Nonprofit
@@ -85,5 +84,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102249'
+maker_image_file_name: DSCF5143_eventbrite.jpg
+maker_image_id: '16966'
 
 ---

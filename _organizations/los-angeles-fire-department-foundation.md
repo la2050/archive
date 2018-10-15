@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: lilCVZW2Ggk
+published: true
 organization_id: '2015123'
 title: Los Angeles Fire Department Foundation
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102188'
+youtube_video_identifier: lilCVZW2Ggk
 
 ---

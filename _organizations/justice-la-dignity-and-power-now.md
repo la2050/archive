@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018056'
 title: Justice LA | Dignity and Power Now
 org_type: Nonprofit

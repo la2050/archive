@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018071'
 title: Long Beach Downtown Development Corporation
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: mcmenyellowandwhite_final.jpg
-maker_image_id: '16057'
+published: true
 organization_id: '2013133'
 title: Mighty Companions
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102196'
+maker_image_file_name: mcmenyellowandwhite_final.jpg
+maker_image_id: '16057'
 
 ---

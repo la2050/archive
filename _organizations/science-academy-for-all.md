@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018106'
 title: Science Academy For All
 org_type: Nonprofit

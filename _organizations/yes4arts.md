@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Yes4arts_picture_image.jpeg
-maker_image_id: '23223'
+published: true
 organization_id: '2015227'
 title: Yes4arts
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102343'
+maker_image_file_name: Yes4arts_picture_image.jpeg
+maker_image_id: '23223'
 
 ---

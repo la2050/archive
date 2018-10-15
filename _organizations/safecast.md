@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: Cb6MAN2lVkg
+published: true
 organization_id: '2014190'
 title: Safecast
 org_type: Nonprofit
@@ -25,5 +25,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102162'
+youtube_video_identifier: Cb6MAN2lVkg
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016029'
 title: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
 org_type: Nonprofit

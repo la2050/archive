@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: zqrk27Md2Bo
+published: true
 organization_id: '2015078'
 title: 'GrowGood, Inc.'
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102124'
+youtube_video_identifier: zqrk27Md2Bo
 
 ---

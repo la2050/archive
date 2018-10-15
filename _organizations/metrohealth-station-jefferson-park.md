@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Heathy_Teens__LA.png
-maker_image_id: '22268'
+published: true
 organization_id: '2014177'
 title: MetroHealth Station - Jefferson Park
 org_type: Forprofit
@@ -26,5 +25,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: Heathy_Teens__LA.png
+maker_image_id: '22268'
 
 ---

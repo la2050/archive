@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: CB_Logo.jpg
-maker_image_id: '23775'
+published: true
 organization_id: '2015032'
 title: Children's Bureau of Southern California
 org_type: Nonprofit
@@ -38,5 +37,7 @@ aggregated:
   project_ids:
     - '5102054'
     - '3102060'
+maker_image_file_name: CB_Logo.jpg
+maker_image_id: '23775'
 
 ---

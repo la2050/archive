@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: imagxxe.jpg
-maker_image_id: '22050'
+published: true
 organization_id: '2014036'
 title: Fox Hills Ladera Healthy Family Association Inc.
 org_type: Nonprofit
@@ -29,5 +28,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102037'
+maker_image_file_name: imagxxe.jpg
+maker_image_id: '22050'
 
 ---

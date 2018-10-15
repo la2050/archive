@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: BoyleTalk.jpg
-maker_image_id: '16663'
+published: true
 organization_id: '2013171'
 title: St. John the Baptist Social Services
 org_type: Nonprofit
@@ -70,5 +69,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102237'
+maker_image_file_name: BoyleTalk.jpg
+maker_image_id: '16663'
 
 ---

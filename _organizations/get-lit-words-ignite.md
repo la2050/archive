@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018044'
 title: Get Lit - Words Ignite
 org_type: Nonprofit

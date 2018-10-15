@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016139'
 title: Los Angeles Review of Books
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Image.jpg
-maker_image_id: '23674'
+published: true
 organization_id: '2015093'
 title: Iraq and Afghanistan Veterans of America (IAVA)
 org_type: Nonprofit
@@ -37,5 +36,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102144'
+maker_image_file_name: Image.jpg
+maker_image_id: '23674'
 
 ---

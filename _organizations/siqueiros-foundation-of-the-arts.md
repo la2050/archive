@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: s-SSOCwgWEs
+published: true
 organization_id: '2015181'
 title: Siqueiros Foundation of the Arts
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102268'
+youtube_video_identifier: s-SSOCwgWEs
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: BnbLK2sxsXI
+published: true
 organization_id: '2015207'
 title: The Story Project
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102312'
+youtube_video_identifier: BnbLK2sxsXI
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 2013_Pomona_0649.JPG
-maker_image_id: '23741'
+published: true
 organization_id: '2015161'
 title: Prototypes
 org_type: Nonprofit
@@ -46,5 +45,7 @@ aggregated:
     - '5102246'
     - '4102208'
     - '3102222'
+maker_image_file_name: 2013_Pomona_0649.JPG
+maker_image_id: '23741'
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 12_Stills_from_videos.jpg
-maker_image_id: '21306'
+published: true
 organization_id: '2014047'
 title: L.A. Freewaves
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
   project_ids:
     - '4102048'
     - '3102132'
+maker_image_file_name: 12_Stills_from_videos.jpg
+maker_image_id: '21306'
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Tianguis.jpg
-maker_image_id: '22393'
+published: true
 organization_id: '2014031'
 title: Elusive Minds Productions
 org_type: Individual
@@ -33,5 +32,7 @@ aggregated:
     - '2014'
   project_ids:
     - '5102339'
+maker_image_file_name: Tianguis.jpg
+maker_image_id: '22393'
 
 ---

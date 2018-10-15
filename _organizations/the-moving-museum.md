@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: X9EpK48pYtY
+published: true
 organization_id: '2015204'
 title: The Moving Museum
 org_type: Nonprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102307'
+youtube_video_identifier: X9EpK48pYtY
 
 ---

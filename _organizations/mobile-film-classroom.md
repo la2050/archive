@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: sO2seHdnH3c
+published: true
 organization_id: '2014059'
 title: Mobile Film Classroom
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102060'
+youtube_video_identifier: sO2seHdnH3c
 
 ---

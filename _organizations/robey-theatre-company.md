@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Robey_Brochure_Front1_(1).jpg
-maker_image_id: '23966'
+published: true
 organization_id: '2015169'
 title: Robey Theatre Company
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102255'
+maker_image_file_name: Robey_Brochure_Front1_(1).jpg
+maker_image_id: '23966'
 
 ---

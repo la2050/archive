@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016128'
 title: Las Fotos Project
 org_type: Nonprofit

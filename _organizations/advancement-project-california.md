@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: nt_fnRYCyhI
+published: true
 organization_id: '2014003'
 title: Advancement Project California
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
   project_ids:
     - '4102005'
     - '3102007'
+youtube_video_identifier: nt_fnRYCyhI
 
 ---

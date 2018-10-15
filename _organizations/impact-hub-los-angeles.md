@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016109'
 title: Impact Hub Los Angeles
 org_type: Forprofit

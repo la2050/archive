@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018032'
 title: Crayon Collection
 org_type: Nonprofit

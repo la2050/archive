@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018097'
 title: ProduceAthon
 org_type: Nonprofit

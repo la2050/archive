@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016185'
 title: River LA (formerly LA River Revitalization Corporation)
 org_type: Nonprofit

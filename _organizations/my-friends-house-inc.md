@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018087'
 title: 'My Friends House, Inc.'
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016217'
 title: 'The Engineer Factory, a project of Community Partners'
 org_type: Nonprofit

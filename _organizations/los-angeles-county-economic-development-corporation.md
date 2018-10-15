@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: StratPlanProg_Cover.jpg
-maker_image_id: '23271'
+published: true
 organization_id: '2015122'
 title: Los Angeles County Economic Development Corporation
 org_type: Nonprofit
@@ -35,5 +34,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102187'
+maker_image_file_name: StratPlanProg_Cover.jpg
+maker_image_id: '23271'
 
 ---

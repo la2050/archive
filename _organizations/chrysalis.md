@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016037'
 title: Chrysalis
 org_type: Nonprofit

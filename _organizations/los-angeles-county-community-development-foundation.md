@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Photo_Collage_v6.jpg
-maker_image_id: '22531'
+published: true
 organization_id: '2014168'
 title: Los Angeles County Community Development Foundation
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102150'
+maker_image_file_name: Photo_Collage_v6.jpg
+maker_image_id: '22531'
 
 ---

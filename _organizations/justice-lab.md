@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: ReConnectLA_Logo_02.jpg
-maker_image_id: '23396'
+published: true
 organization_id: '2015101'
 title: Justice Lab
 org_type: Other
@@ -32,5 +31,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102155'
+maker_image_file_name: ReConnectLA_Logo_02.jpg
+maker_image_id: '23396'
 
 ---

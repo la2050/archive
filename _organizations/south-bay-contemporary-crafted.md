@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Culture_gaps_for_la2050xsmall_copy.jpg
-maker_image_id: '24146'
+published: true
 organization_id: '2015185'
 title: 'South Bay Contemporary, CRAFTED'
 org_type: Nonprofit
@@ -42,5 +41,7 @@ aggregated:
   project_ids:
     - '5102274'
     - '3102234'
+maker_image_file_name: Culture_gaps_for_la2050xsmall_copy.jpg
+maker_image_id: '24146'
 
 ---

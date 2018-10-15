@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 0fH09h-Rx9o
+published: true
 organization_id: '2013025'
 title: 'Cal Poly Pomona Foundation, Inc.'
 org_type: Nonprofit
@@ -34,5 +34,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102047'
+youtube_video_identifier: 0fH09h-Rx9o
 
 ---

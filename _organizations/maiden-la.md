@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016144'
 title: Maiden LA
 org_type: Nonprofit

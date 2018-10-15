@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016131'
 title: Light Sprout
 org_type: Nonprofit

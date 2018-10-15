@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018075'
 title: Los Angeles LGBT Center
 org_type: Nonprofit

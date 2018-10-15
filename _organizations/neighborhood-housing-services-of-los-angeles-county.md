@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018089'
 title: Neighborhood Housing Services of Los Angeles County
 org_type: Nonprofit

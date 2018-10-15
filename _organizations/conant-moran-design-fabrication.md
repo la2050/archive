@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: IMAG0233.jpg
-maker_image_id: '20596'
+published: true
 organization_id: '2014020'
 title: Conant Moran Design & Fabrication
 org_type: Forprofit
@@ -31,5 +30,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: IMAG0233.jpg
+maker_image_id: '20596'
 
 ---

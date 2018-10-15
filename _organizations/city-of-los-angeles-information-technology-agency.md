@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018025'
 title: City of Los Angeles Information Technology Agency
 org_type: Government

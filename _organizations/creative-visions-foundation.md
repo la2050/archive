@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 8N5kv8ddErc
+published: true
 organization_id: '2013048'
 title: Creative Visions Foundation
 org_type: Nonprofit
@@ -63,5 +63,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102097'
+youtube_video_identifier: 8N5kv8ddErc
 
 ---

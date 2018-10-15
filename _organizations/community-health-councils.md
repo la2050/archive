@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016053'
 title: Community Health Councils
 org_type: Nonprofit

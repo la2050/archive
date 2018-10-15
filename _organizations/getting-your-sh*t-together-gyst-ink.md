@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: GYSTInksoftware_artworktracking.png
-maker_image_id: '21305'
+published: true
 organization_id: '2014039'
 title: Getting Your Sh*t Together (GYST-INK)
 org_type: Forprofit
@@ -31,5 +30,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: GYSTInksoftware_artworktracking.png
+maker_image_id: '21305'
 
 ---

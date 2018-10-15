@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: sI0_dZ4TpAA
+published: true
 organization_id: '2014119'
 title: Boys & Girls Clubs of the Los Angeles Harbor
 org_type: Nonprofit
@@ -28,5 +28,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102117'
+youtube_video_identifier: sI0_dZ4TpAA
 
 ---

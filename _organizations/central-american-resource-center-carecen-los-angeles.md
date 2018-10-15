@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 20121102_193319.jpg
-maker_image_id: '21279'
+published: true
 organization_id: '2014122'
 title: Central American Resource Center - CARECEN - Los Angeles
 org_type: Nonprofit
@@ -27,5 +26,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102119'
+maker_image_file_name: 20121102_193319.jpg
+maker_image_id: '21279'
 
 ---

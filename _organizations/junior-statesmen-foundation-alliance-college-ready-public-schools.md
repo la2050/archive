@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 73168.jpg
-maker_image_id: '23346'
+published: true
 organization_id: '2015100'
 title: Junior Statesmen Foundation; Alliance College-Ready Public Schools
 org_type: Nonprofit
@@ -36,5 +35,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102154'
+maker_image_file_name: 73168.jpg
+maker_image_id: '23346'
 
 ---

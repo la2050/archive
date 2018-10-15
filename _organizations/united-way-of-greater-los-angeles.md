@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018132'
 title: United Way of Greater Los Angeles
 org_type: Nonprofit

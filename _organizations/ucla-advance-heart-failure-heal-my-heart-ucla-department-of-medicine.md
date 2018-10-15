@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: myla2.png
-maker_image_id: '20504'
+published: true
 organization_id: '2014216'
 title: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine'
 org_type: Nonprofit
@@ -29,5 +28,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102179'
+maker_image_file_name: myla2.png
+maker_image_id: '20504'
 
 ---

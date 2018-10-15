@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: gTKhNc98GIc
+published: true
 organization_id: '2013041'
 title: 'Coalition of Mental Health Professionals, Inc.'
 org_type: Nonprofit
@@ -49,5 +49,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102078'
+youtube_video_identifier: gTKhNc98GIc
 
 ---

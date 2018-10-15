@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
-maker_image_id: '22174'
+published: true
 organization_id: '2014189'
 title: Saban Community Clinic
 org_type: Nonprofit
@@ -30,5 +29,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102161'
+maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
+maker_image_id: '22174'
 
 ---

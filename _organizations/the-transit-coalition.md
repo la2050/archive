@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Cars_Attribution_Biofriendly_Creative_Commons_license.jpeg
-maker_image_id: '20691'
+published: true
 organization_id: '2014097'
 title: The Transit Coalition
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102097'
+maker_image_file_name: Cars_Attribution_Biofriendly_Creative_Commons_license.jpeg
+maker_image_id: '20691'
 
 ---

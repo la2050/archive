@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016173'
 title: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
 org_type: Nonprofit

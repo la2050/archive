@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 5971_LASC_Poster_07_(1).jpg
-maker_image_id: '22723'
+published: true
 organization_id: '2014171'
 title: Los Angeles Sustainability Collaborative (LASC)
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102152'
+maker_image_file_name: 5971_LASC_Poster_07_(1).jpg
+maker_image_id: '22723'
 
 ---

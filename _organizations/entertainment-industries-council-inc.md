@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 5paOc34oG84
+published: true
 organization_id: '2015058'
 title: 'Entertainment Industries Council, Inc.'
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102093'
+youtube_video_identifier: 5paOc34oG84
 
 ---

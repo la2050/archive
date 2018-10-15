@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016012'
 title: ARGO Labs
 org_type: Nonprofit

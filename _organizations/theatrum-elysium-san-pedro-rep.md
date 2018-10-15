@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: nJPC81QoGyk
+published: true
 organization_id: '2014099'
 title: 'Theatrum Elysium, San Pedro Rep'
 org_type: Forprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102166'
+youtube_video_identifier: nJPC81QoGyk
 
 ---

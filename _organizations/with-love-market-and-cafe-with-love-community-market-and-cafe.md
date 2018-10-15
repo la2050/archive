@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: HVOvMO9t6Gk
+published: true
 organization_id: '2014107'
 title: 'With Love Market and Cafe, With Love Community Market and Cafe'
 org_type: Forprofit
@@ -35,5 +35,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102175'
+youtube_video_identifier: HVOvMO9t6Gk
 
 ---

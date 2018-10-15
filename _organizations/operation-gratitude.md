@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016160'
 title: Operation Gratitude
 org_type: Nonprofit

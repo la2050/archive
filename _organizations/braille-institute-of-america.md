@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016024'
 title: Braille Institute of America
 org_type: Nonprofit

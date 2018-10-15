@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016005'
 title: Able Arts Work
 org_type: Nonprofit

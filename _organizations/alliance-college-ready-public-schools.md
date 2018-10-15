@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 2013_Graduation_Luskin_Academy_(54).jpg
-maker_image_id: '20500'
+published: true
 organization_id: '2013005'
 title: Alliance College-Ready Public Schools
 org_type: Nonprofit
@@ -38,5 +37,7 @@ aggregated:
   project_ids:
     - '3102011'
     - '3102011'
+maker_image_file_name: 2013_Graduation_Luskin_Academy_(54).jpg
+maker_image_id: '20500'
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ByhCcHjp3FQ
+published: true
 organization_id: '2015023'
 title: BUNCH Magazine dba BUNCH Media
 org_type: Forprofit
@@ -28,5 +28,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102127'
+youtube_video_identifier: ByhCcHjp3FQ
 
 ---

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: aH5tvjvjOYE
+published: true
 organization_id: '2015147'
 title: Operations-South Bureau Community Stakeholder Collaboration
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102223'
+youtube_video_identifier: aH5tvjvjOYE
 
 ---

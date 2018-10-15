@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: '-8HpYaBGc4I'
+published: true
 organization_id: '2014223'
 title: Western Center on Law & Poverty (WCLP)
 org_type: Nonprofit
@@ -25,5 +25,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102183'
+youtube_video_identifier: '-8HpYaBGc4I'
 
 ---

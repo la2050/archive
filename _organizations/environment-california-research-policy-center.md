@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018037'
 title: Environment California Research & Policy Center
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018031'
 title: Coro Southern California
 org_type: Nonprofit

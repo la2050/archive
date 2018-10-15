@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: SXGVU13JPLU
+published: true
 organization_id: '2015112'
 title: LA's Promise
 org_type: Nonprofit
@@ -37,5 +37,6 @@ aggregated:
   project_ids:
     - '5102174'
     - '3102175'
+youtube_video_identifier: SXGVU13JPLU
 
 ---

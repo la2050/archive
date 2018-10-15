@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016166'
 title: Peaceworks International
 org_type: Nonprofit

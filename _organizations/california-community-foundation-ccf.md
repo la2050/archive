@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: BLOOM-NEWFINAL_LOGO_ccf_tag.jpg
-maker_image_id: '16109'
+published: true
 organization_id: '2013027'
 title: California Community Foundation (CCF)
 org_type: Nonprofit
@@ -65,5 +64,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102049'
+maker_image_file_name: BLOOM-NEWFINAL_LOGO_ccf_tag.jpg
+maker_image_id: '16109'
 
 ---

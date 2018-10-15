@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016018'
 title: Bicycle Culture Institute
 org_type: Nonprofit

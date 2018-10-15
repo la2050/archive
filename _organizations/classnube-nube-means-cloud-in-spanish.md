@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: UYdxlEZVaNA
+published: true
 organization_id: '2015036'
 title: ClassNube (Nube means Cloud in Spanish)
 org_type: Forprofit
@@ -38,5 +38,6 @@ aggregated:
     - '2015'
   project_ids:
     - '4102099'
+youtube_video_identifier: UYdxlEZVaNA
 
 ---

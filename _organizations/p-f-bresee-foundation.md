@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: yeyzmCpYfFk
+published: true
 organization_id: '2015148'
 title: P.F. Bresee Foundation
 org_type: Nonprofit
@@ -41,5 +41,6 @@ aggregated:
   project_ids:
     - '5102225'
     - '3102219'
+youtube_video_identifier: yeyzmCpYfFk
 
 ---

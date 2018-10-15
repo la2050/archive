@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: YCMb5z0EVGw
+published: true
 organization_id: '2013147'
 title: One Day on Earth
 org_type: Nonprofit
@@ -80,5 +80,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102209'
+youtube_video_identifier: YCMb5z0EVGw
 
 ---

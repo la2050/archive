@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018030'
 title: 'Connect to Compete, Inc (EveryoneOn)'
 org_type: Nonprofit

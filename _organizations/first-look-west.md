@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: FLOW-image-2.jpg
-maker_image_id: '16416'
+published: true
 organization_id: '2013067'
 title: First Look West
 org_type: Nonprofit
@@ -87,5 +86,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102127'
+maker_image_file_name: FLOW-image-2.jpg
+maker_image_id: '16416'
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018022'
 title: Citizens Of Culture
 org_type: Nonprofit

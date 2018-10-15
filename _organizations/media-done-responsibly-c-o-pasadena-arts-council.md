@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: H107Gy4bTFs
+published: true
 organization_id: '2015135'
 title: Media Done Responsibly c/o Pasadena Arts Council
 org_type: Nonprofit
@@ -36,5 +36,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102204'
+youtube_video_identifier: H107Gy4bTFs
 
 ---

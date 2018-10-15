@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: A3zOCbnCHLg
+published: true
 organization_id: '2014175'
 title: Meet Each Need with Dignity
 org_type: Nonprofit
@@ -25,5 +25,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102153'
+youtube_video_identifier: A3zOCbnCHLg
 
 ---

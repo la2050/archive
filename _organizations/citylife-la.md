@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: EZJvYnujihw
+published: true
 organization_id: '2013036'
 title: CityLife-LA
 org_type: Nonprofit
@@ -68,5 +68,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102070'
+youtube_video_identifier: EZJvYnujihw
 
 ---

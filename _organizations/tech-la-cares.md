@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016210'
 title: Tech LA Cares
 org_type: Forprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016247'
 title: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs

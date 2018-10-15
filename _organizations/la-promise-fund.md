@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016124'
 title: LA Promise Fund
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: xtg0o0s_GEU
+published: true
 organization_id: '2013020'
 title: Boys & Girls Club of Mar Vista Gardens
 org_type: Nonprofit
@@ -42,5 +42,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102037'
+youtube_video_identifier: xtg0o0s_GEU
 
 ---

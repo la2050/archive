@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016067'
 title: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
 org_type: Nonprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: poster1.jpg
-maker_image_id: '16740'
+published: true
 organization_id: '2013105'
 title: Keely Hopkins & Associates
 org_type: For profit
@@ -53,5 +52,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102064'
+maker_image_file_name: poster1.jpg
+maker_image_id: '16740'
 
 ---

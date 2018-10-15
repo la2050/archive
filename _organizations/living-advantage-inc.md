@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 1_UXQ2fFeSU
+published: true
 organization_id: '2015115'
 title: 'Living Advantage, Inc.'
 org_type: Nonprofit
@@ -36,5 +36,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102178'
+youtube_video_identifier: 1_UXQ2fFeSU
 
 ---

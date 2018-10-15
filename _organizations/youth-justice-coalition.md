@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 31zyNJHGmig
+published: true
 organization_id: '2015228'
 title: Youth Justice Coalition
 org_type: Nonprofit
@@ -34,5 +34,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102345'
+youtube_video_identifier: 31zyNJHGmig
 
 ---

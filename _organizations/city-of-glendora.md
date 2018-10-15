@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2015_1.jpg
-maker_image_id: '23980'
+published: true
 organization_id: '2015033'
 title: City of Glendora
 org_type: Government
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102058'
+maker_image_file_name: LA2015_1.jpg
+maker_image_id: '23980'
 
 ---

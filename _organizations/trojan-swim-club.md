@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: SdL6NXZskjo
+published: true
 organization_id: '2015215'
 title: Trojan Swim Club
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102323'
+youtube_video_identifier: SdL6NXZskjo
 
 ---

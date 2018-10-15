@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: large_domes-134_crop.jpg
-maker_image_id: '23466'
+published: true
 organization_id: '2015082'
 title: 'HDomes.com, Shacklebrand Designs'
 org_type: Other
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102128'
+maker_image_file_name: large_domes-134_crop.jpg
+maker_image_id: '23466'
 
 ---

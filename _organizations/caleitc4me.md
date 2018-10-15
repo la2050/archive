@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018012'
 title: CalEITC4Me
 org_type: Nonprofit

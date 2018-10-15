@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: poREvQfFFL4
+published: true
 organization_id: '2014111'
 title: Youth Speak Collective
 org_type: Nonprofit
@@ -37,5 +37,6 @@ aggregated:
   project_ids:
     - '4102110'
     - '3102279'
+youtube_video_identifier: poREvQfFFL4
 
 ---

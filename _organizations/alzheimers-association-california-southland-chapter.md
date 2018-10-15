@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: DVIx37igPg0
+published: true
 organization_id: '2013009'
 title: 'Alzheimer''s Association, California Southland Chapter'
 org_type: Nonprofit
@@ -55,5 +55,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102016'
+youtube_video_identifier: DVIx37igPg0
 
 ---

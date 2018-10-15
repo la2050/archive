@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: la2050.png
-maker_image_id: '20940'
+published: true
 organization_id: '2014153'
 title: Ignite Teaching
 org_type: Forprofit
@@ -29,5 +28,7 @@ aggregated:
   year_submitted:
     - '2014'
   project_ids: []
+maker_image_file_name: la2050.png
+maker_image_id: '20940'
 
 ---

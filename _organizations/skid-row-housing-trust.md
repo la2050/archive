@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Photos_2013.JPG
-maker_image_id: '21430'
+published: true
 organization_id: '2014081'
 title: Skid Row Housing Trust
 org_type: Nonprofit
@@ -37,5 +36,7 @@ aggregated:
   project_ids:
     - '4102082'
     - '3102232'
+maker_image_file_name: Photos_2013.JPG
+maker_image_id: '21430'
 
 ---

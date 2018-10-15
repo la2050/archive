@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016058'
 title: 'Core Innovate, Inc. & Century Academy for Excellence'
 org_type: Forprofit

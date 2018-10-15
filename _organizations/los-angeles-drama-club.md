@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 79DqmMTV8-Y
+published: true
 organization_id: '2014169'
 title: Los Angeles Drama Club
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102151'
+youtube_video_identifier: 79DqmMTV8-Y
 
 ---

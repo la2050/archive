@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: GFS_PHOTO_1.png
-maker_image_id: '21361'
+published: true
 organization_id: '2014040'
 title: Ghetto Film School
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102041'
+maker_image_file_name: GFS_PHOTO_1.png
+maker_image_id: '21361'
 
 ---

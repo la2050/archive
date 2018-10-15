@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: fair.jpg
-maker_image_id: '23390'
+published: true
 organization_id: '2015133'
 title: MAPS 4 College
 org_type: Nonprofit
@@ -42,5 +41,7 @@ aggregated:
   project_ids:
     - '5102202'
     - '4102206'
+maker_image_file_name: fair.jpg
+maker_image_id: '23390'
 
 ---

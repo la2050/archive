@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: AMBgroupPic.jpg
-maker_image_id: '23208'
+published: true
 organization_id: '2015003'
 title: Academy of Music for the Blind
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102008'
+maker_image_file_name: AMBgroupPic.jpg
+maker_image_id: '23208'
 
 ---

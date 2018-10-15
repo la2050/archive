@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: photo-33.JPG
-maker_image_id: '16587'
+published: true
 organization_id: '2013117'
 title: 'Lambda Theta Nu Sorority, Incorporated'
 org_type: Nonprofit
@@ -42,5 +41,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102174'
+maker_image_file_name: photo-33.JPG
+maker_image_id: '16587'
 
 ---

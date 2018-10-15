@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: ShannonTaTLA2050.jpeg
-maker_image_id: '24144'
+published: true
 organization_id: '2015211'
 title: Thinking about Tomorrow
 org_type: Nonprofit
@@ -31,5 +30,7 @@ aggregated:
   project_ids:
     - '5102317'
     - '4102217'
+maker_image_file_name: ShannonTaTLA2050.jpeg
+maker_image_id: '24144'
 
 ---

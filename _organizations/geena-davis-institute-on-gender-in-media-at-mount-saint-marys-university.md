@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016087'
 title: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 org_type: Nonprofit

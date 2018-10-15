@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018093'
 title: Opportunity Fund
 org_type: Nonprofit

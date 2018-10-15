@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018072'
 title: Los Angeles Alliance for a New Economy-Fair Workweek
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: gatKpPjdUvo
+published: true
 organization_id: '2013049'
 title: Curious Catalyst
 org_type: For profit
@@ -54,5 +54,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102022'
+youtube_video_identifier: gatKpPjdUvo
 
 ---

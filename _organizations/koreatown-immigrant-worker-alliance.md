@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: 12000148473_482ef012b5_k.jpg
-maker_image_id: '23889'
+published: true
 organization_id: '2015106'
 title: Koreatown Immigrant Worker Alliance
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102163'
+maker_image_file_name: 12000148473_482ef012b5_k.jpg
+maker_image_id: '23889'
 
 ---

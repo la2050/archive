@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: JrkPrBnN4UI
+published: true
 organization_id: '2015004'
 title: Adventure Playhouse Indoor Activity Center
 org_type: Forprofit
@@ -37,5 +37,6 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+youtube_video_identifier: JrkPrBnN4UI
 
 ---

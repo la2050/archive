@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016098'
 title: Helpline Youth Counseling (HYC)
 org_type: Nonprofit

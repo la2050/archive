@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016155'
 title: National Council of Jewish Women | Los Angeles
 org_type: Nonprofit

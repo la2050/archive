@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Ely_Flores.jpg
-maker_image_id: '20586'
+published: true
 organization_id: '2014051'
 title: 'Leadership through Empowerment, Actin, and Dialogue Inc. (LEAD)'
 org_type: Nonprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102052'
+maker_image_file_name: Ely_Flores.jpg
+maker_image_id: '20586'
 
 ---

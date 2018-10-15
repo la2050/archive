@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016252'
 title: Verdical Group
 org_type: Forprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Holiday_Venice_Apartments.jpg
-maker_image_id: '16677'
+published: true
 organization_id: '2013157'
 title: Public Counsel
 org_type: Nonprofit
@@ -75,5 +74,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102223'
+maker_image_file_name: Holiday_Venice_Apartments.jpg
+maker_image_id: '16677'
 
 ---

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: civicla.png
-maker_image_id: '21146'
+published: true
 organization_id: '2014017'
 title: Community Centered
 org_type: Nonprofit
@@ -33,5 +32,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102018'
+maker_image_file_name: civicla.png
+maker_image_id: '21146'
 
 ---

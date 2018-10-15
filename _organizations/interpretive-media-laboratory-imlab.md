@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: _1j9tLhT4z8
+published: true
 organization_id: '2014044'
 title: Interpretive Media Laboratory (IMLab)
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102045'
+youtube_video_identifier: _1j9tLhT4z8
 
 ---

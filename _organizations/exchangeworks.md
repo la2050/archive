@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: EW_Molly_EWLA_sm.jpg
-maker_image_id: '23585'
+published: true
 organization_id: '2015060'
 title: ExchangeWorks
 org_type: Forprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2015'
   project_ids:
     - '4102133'
+maker_image_file_name: EW_Molly_EWLA_sm.jpg
+maker_image_id: '23585'
 
 ---

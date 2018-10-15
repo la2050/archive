@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: uz4evo3B7qw
+published: true
 organization_id: '2014192'
 title: St. Francis Center
 org_type: Nonprofit
@@ -25,5 +25,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102164'
+youtube_video_identifier: uz4evo3B7qw
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016199'
 title: Southern California Public Radio (KPCC)
 org_type: Nonprofit

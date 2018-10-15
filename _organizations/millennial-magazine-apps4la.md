@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: Vv698CCwrt4
+published: true
 organization_id: '2014058'
 title: 'Millennial Magazine: Apps4LA'
 org_type: Forprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102118'
+youtube_video_identifier: Vv698CCwrt4
 
 ---

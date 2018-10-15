@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: g0KxazcQnVA
+published: true
 organization_id: '2015139'
 title: Motor Avenue Improvement Association
 org_type: Nonprofit
@@ -31,5 +31,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102210'
+youtube_video_identifier: g0KxazcQnVA
 
 ---

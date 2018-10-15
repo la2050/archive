@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: tFrudFZCeRY
+published: true
 organization_id: '2014045'
 title: Koreatown Youth and Community Center (KYCC)
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102046'
+youtube_video_identifier: tFrudFZCeRY
 
 ---

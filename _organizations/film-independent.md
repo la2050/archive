@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018040'
 title: Film Independent
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016122'
 title: LA Metro
 org_type: Government

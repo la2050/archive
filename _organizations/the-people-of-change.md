@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018122'
 title: The People of Change
 org_type: Nonprofit

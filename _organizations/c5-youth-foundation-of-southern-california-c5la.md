@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: class_of_2016_selfie.jpg
-maker_image_id: '24065'
+published: true
 organization_id: '2015024'
 title: C5 Youth Foundation of Southern California (“C5LA”)
 org_type: Nonprofit
@@ -40,5 +39,7 @@ aggregated:
   project_ids:
     - '5102039'
     - '4102193'
+maker_image_file_name: class_of_2016_selfie.jpg
+maker_image_id: '24065'
 
 ---

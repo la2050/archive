@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: YHlDfLtzSio
+published: true
 organization_id: '2015222'
 title: USAC Office of the President and USAC Student Wellness Commission at UCLA
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
   project_ids:
     - '5102337'
     - '4102219'
+youtube_video_identifier: YHlDfLtzSio
 
 ---

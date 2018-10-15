@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016227'
 title: The NOW Institute/UCLA
 org_type: Nonprofit

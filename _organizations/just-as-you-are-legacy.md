@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016116'
 title: Just As You Are Legacy
 org_type: Nonprofit

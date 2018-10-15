@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: KQnPSzqeZRk
+published: true
 organization_id: '2015127'
 title: >-
   Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
@@ -41,5 +41,6 @@ aggregated:
     - '5102192'
     - '4102202'
     - '3102188'
+youtube_video_identifier: KQnPSzqeZRk
 
 ---

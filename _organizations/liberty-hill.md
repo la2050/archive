@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: kfEpQxhOtUk
+published: true
 organization_id: '2013121'
 title: Liberty Hill
 org_type: Nonprofit
@@ -69,5 +69,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102180'
+youtube_video_identifier: kfEpQxhOtUk
 
 ---

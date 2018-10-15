@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: nO6H3p5HpV4
+published: true
 organization_id: '2013065'
 title: Filipino Migrant Center
 org_type: Nonprofit
@@ -49,5 +49,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102126'
+youtube_video_identifier: nO6H3p5HpV4
 
 ---

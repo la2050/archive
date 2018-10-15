@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
-maker_image_id: '21490'
+published: true
 organization_id: '2015188'
 title: Southern California Streets Initiative
 org_type: '#N/A'
@@ -31,5 +30,7 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
+maker_image_id: '21490'
 
 ---

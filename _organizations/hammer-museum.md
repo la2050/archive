@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 30f36j_o_wU
+published: true
 organization_id: '2013087'
 title: Hammer Museum
 org_type: Nonprofit
@@ -51,5 +51,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102144'
+youtube_video_identifier: 30f36j_o_wU
 
 ---

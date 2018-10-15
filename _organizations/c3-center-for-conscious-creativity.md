@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: n_itMCVl124
+published: true
 organization_id: '2013024'
 title: 'c3: Center for Conscious Creativity'
 org_type: Nonprofit
@@ -52,5 +52,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102045'
+youtube_video_identifier: n_itMCVl124
 
 ---

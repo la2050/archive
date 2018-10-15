@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: WendT0Sm-Tk
+published: true
 organization_id: '2015221'
 title: Urban Word Los Angeles
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102336'
+youtube_video_identifier: WendT0Sm-Tk
 
 ---

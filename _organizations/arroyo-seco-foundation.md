@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: ffK1mzyzUPE
+published: true
 organization_id: '2015013'
 title: Arroyo Seco Foundation
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102020'
+youtube_video_identifier: ffK1mzyzUPE
 
 ---

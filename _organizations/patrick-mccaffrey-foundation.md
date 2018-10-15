@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016165'
 title: Patrick McCaffrey Foundation
 org_type: Nonprofit

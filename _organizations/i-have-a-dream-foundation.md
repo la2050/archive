@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016105'
 title: I Have a Dream Foundation
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: CDJnJMrwko8
+published: true
 organization_id: '2013166'
 title: 'Slake: Los Angeles'
 org_type: Nonprofit
@@ -33,5 +33,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102233'
+youtube_video_identifier: CDJnJMrwko8
 
 ---

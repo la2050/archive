@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: la2050_title.jpg
-maker_image_id: '16859'
+published: true
 organization_id: '2013001'
 title: 58-12 Design Lab
 org_type: Nonprofit
@@ -52,5 +51,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102002'
+maker_image_file_name: la2050_title.jpg
+maker_image_id: '16859'
 
 ---

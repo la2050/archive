@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2050_Cover_image_flattened2.jpg
-maker_image_id: '23805'
+published: true
 organization_id: '2015194'
 title: Tagliaferri Howard Architecture
 org_type: Forprofit
@@ -34,5 +33,7 @@ aggregated:
   year_submitted:
     - '2015'
   project_ids: []
+maker_image_file_name: LA2050_Cover_image_flattened2.jpg
+maker_image_id: '23805'
 
 ---

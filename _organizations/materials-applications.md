@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: Uj3t-8frJ4Q
+published: true
 organization_id: '2013131'
 title: Materials & Applications
 org_type: Nonprofit
@@ -75,5 +75,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102195'
+youtube_video_identifier: Uj3t-8frJ4Q
 
 ---

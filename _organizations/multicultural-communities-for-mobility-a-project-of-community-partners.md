@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018085'
 title: 'Multicultural Communities for Mobility, a project of Community Partners'
 org_type: Nonprofit

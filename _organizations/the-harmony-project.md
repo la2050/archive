@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016219'
 title: The Harmony Project
 org_type: Nonprofit

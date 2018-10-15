@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: t3QQPi2pnEU
+published: true
 organization_id: '2015005'
 title: 'After-School All-Stars, Los Angeles'
 org_type: Nonprofit
@@ -35,5 +35,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102010'
+youtube_video_identifier: t3QQPi2pnEU
 
 ---

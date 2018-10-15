@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018098'
 title: Promesa Boyle Heights at Proyecto Pastoral
 org_type: Nonprofit

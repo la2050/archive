@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: keoZhYn_XbI
+published: true
 organization_id: '2013002'
 title: A+D Architecture and Design Museum > Los Angeles
 org_type: Nonprofit
@@ -55,5 +55,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102004'
+youtube_video_identifier: keoZhYn_XbI
 
 ---

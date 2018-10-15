@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016201'
 title: SportUp
 org_type: Forprofit

@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Screen_shot_2013-03-28_at_2.40.43_PM.png
-maker_image_id: '17103'
+published: true
 organization_id: '2013042'
 title: Collaborative Tutoring
 org_type: For profit
@@ -52,5 +51,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102020'
+maker_image_file_name: Screen_shot_2013-03-28_at_2.40.43_PM.png
+maker_image_id: '17103'
 
 ---

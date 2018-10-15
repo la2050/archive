@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018005'
 title: 'Action Civics LA, an initiative of Mikva Challenge'
 org_type: Nonprofit

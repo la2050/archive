@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 7so4eDfFRws
+published: true
 organization_id: '2013110'
 title: L.A. River Revitalization Corporation
 org_type: Nonprofit
@@ -87,5 +87,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102167'
+youtube_video_identifier: 7so4eDfFRws
 
 ---

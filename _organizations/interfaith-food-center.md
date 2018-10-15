@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: NEW_IFCLOGO.jpg
-maker_image_id: '20849'
+published: true
 organization_id: '2014158'
 title: Interfaith Food Center
 org_type: Nonprofit
@@ -28,5 +27,7 @@ aggregated:
     - '2014'
   project_ids:
     - '4102141'
+maker_image_file_name: NEW_IFCLOGO.jpg
+maker_image_id: '20849'
 
 ---

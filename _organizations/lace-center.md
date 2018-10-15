@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: V_x6dj_Fa9M
+published: true
 organization_id: '2014049'
 title: LACE Center
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
     - '2014'
   project_ids:
     - '4102050'
+youtube_video_identifier: V_x6dj_Fa9M
 
 ---

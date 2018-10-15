@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018128'
 title: Two Bit Circus Foundation
 org_type: Nonprofit

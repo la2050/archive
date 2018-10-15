@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LASA_2012.jpg
-maker_image_id: '16261'
+published: true
 organization_id: '2013189'
 title: The Huntington-USC Institute on California and the West
 org_type: Nonprofit
@@ -62,5 +61,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102250'
+maker_image_file_name: LASA_2012.jpg
+maker_image_id: '16261'
 
 ---

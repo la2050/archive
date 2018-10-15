@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Picture_5.jpg
-maker_image_id: '23575'
+published: true
 organization_id: '2015205'
 title: The Ripple Effect
 org_type: Nonprofit
@@ -34,5 +33,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102309'
+maker_image_file_name: Picture_5.jpg
+maker_image_id: '23575'
 
 ---

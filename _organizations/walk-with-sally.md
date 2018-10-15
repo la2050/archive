@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018135'
 title: Walk With Sally
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: CZMjDcpz53c
+published: true
 organization_id: '2013068'
 title: 'First Star, Inc.'
 org_type: Nonprofit
@@ -44,5 +44,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102128'
+youtube_video_identifier: CZMjDcpz53c
 
 ---

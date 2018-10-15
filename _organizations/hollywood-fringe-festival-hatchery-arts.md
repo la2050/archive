@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016102'
 title: Hollywood Fringe Festival (Hatchery Arts)
 org_type: Nonprofit

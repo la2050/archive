@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016187'
 title: SAFE (Streets Are For Everyone)
 org_type: Nonprofit

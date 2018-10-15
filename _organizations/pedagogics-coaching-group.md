@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016167'
 title: Pedagogics Coaching Group
 org_type: Forprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: wGHuWyQEQIU
+published: true
 organization_id: '2015081'
 title: Haunted Play LLC
 org_type: Forprofit
@@ -34,5 +34,6 @@ aggregated:
     - '2015'
   project_ids:
     - '4102158'
+youtube_video_identifier: wGHuWyQEQIU
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016040'
 title: City of West Hollywood
 org_type: Government

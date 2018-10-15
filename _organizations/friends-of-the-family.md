@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016084'
 title: Friends of the Family
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016243'
 title: 'Unite A Nation, Inc.'
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2018028'
 title: Civic Innovation Lab
 org_type: Nonprofit

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016115'
 title: Joyful Heart Foundation
 org_type: Nonprofit

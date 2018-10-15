@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: xcozMknxurc
+published: true
 organization_id: '2013007'
 title: >-
   Alliance for Community Transit - Los Angeles (Fiscal Sponsor LTSC Community
@@ -38,5 +38,6 @@ aggregated:
   project_ids:
     - '4102002'
     - '3102013'
+youtube_video_identifier: xcozMknxurc
 
 ---

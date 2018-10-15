@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: _AEWWNe6eQw
+published: true
 organization_id: '2015114'
 title: Life Change Up
 org_type: Other
@@ -32,5 +32,6 @@ aggregated:
     - '2015'
   project_ids:
     - '5102176'
+youtube_video_identifier: _AEWWNe6eQw
 
 ---

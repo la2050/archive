@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: cEATGWzLMiM
+published: true
 organization_id: '2013053'
 title: DIYFO (Do-It-Yourself. For Others.)
 org_type: For profit
@@ -44,5 +44,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102024'
+youtube_video_identifier: cEATGWzLMiM
 
 ---

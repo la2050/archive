@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016009'
 title: ANDesign Lab
 org_type: Forprofit

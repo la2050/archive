@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: 0CZIOxlCozk
+published: true
 organization_id: '2013089'
 title: Heart of Los Angeles (HOLA)
 org_type: Nonprofit
@@ -97,5 +97,6 @@ aggregated:
     - '2013'
   project_ids:
     - '3102147'
+youtube_video_identifier: 0CZIOxlCozk
 
 ---

@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016158'
 title: New Roads School
 org_type: Nonprofit

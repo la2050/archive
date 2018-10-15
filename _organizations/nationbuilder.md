@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: LA2050.png
-maker_image_id: '22481'
+published: true
 organization_id: '2014061'
 title: NationBuilder
 org_type: Forprofit
@@ -32,5 +31,7 @@ aggregated:
     - '2014'
   project_ids:
     - '5102180'
+maker_image_file_name: LA2050.png
+maker_image_id: '22481'
 
 ---

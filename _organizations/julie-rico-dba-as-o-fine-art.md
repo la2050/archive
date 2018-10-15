@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: pnwgZVtiDAA
+published: true
 organization_id: '2015098'
 title: Julie Rico DBA as O Fine Art
 org_type: Forprofit
@@ -30,5 +30,6 @@ aggregated:
     - '2015'
   project_ids:
     - '8102096'
+youtube_video_identifier: pnwgZVtiDAA
 
 ---

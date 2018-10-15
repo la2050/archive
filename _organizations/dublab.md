@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: xXMkk_S-UnU
+published: true
 organization_id: '2015053'
 title: DUBLAB
 org_type: Nonprofit
@@ -39,5 +39,6 @@ aggregated:
   project_ids:
     - '5102088'
     - '3102115'
+youtube_video_identifier: xXMkk_S-UnU
 
 ---

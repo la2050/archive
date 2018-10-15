@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016193'
 title: 'SilverMotion, Inc.'
 org_type: Forprofit

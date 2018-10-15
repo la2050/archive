@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: eym_apple.JPG
-maker_image_id: '16514'
+published: true
 organization_id: '2013056'
 title: Educating Young Minds
 org_type: Nonprofit
@@ -81,5 +80,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102118'
+maker_image_file_name: eym_apple.JPG
+maker_image_id: '16514'
 
 ---

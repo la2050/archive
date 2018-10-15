@@ -1,6 +1,5 @@
 ---
-maker_image_file_name: Logo.jpg
-maker_image_id: '16505'
+published: true
 organization_id: '2013079'
 title: Generation Green's Contra Costa County Climate Leaders Program
 org_type: Nonprofit
@@ -62,5 +61,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102138'
+maker_image_file_name: Logo.jpg
+maker_image_id: '16505'
 
 ---

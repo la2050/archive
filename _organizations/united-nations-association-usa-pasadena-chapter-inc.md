@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016245'
 title: United Nations Association-USA Pasadena Chapter Inc.
 org_type: Nonprofit

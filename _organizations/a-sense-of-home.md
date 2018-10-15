@@ -1,4 +1,5 @@
 ---
+published: true
 organization_id: '2016004'
 title: A Sense of Home
 org_type: Nonprofit

@@ -1,5 +1,5 @@
 ---
-youtube_video_identifier: myUKgR-PO4c
+published: true
 organization_id: '2015040'
 title: Clothes The Deal
 org_type: Nonprofit
@@ -32,5 +32,6 @@ aggregated:
   project_ids:
     - '5102069'
     - '4102195'
+youtube_video_identifier: myUKgR-PO4c
 
 ---
