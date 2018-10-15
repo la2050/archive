@@ -23,12 +23,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
 project_video: 'https://youtu.be/9lVdk4emJ-M'
 aggregated:
-  project_ids:
-    - '8102126'
   challenge_url:
     - 'https://activation.la2050.org/live/topanga-womens-circle/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102126'
 original_project_ids:
   - '8102126'
 original_project_titles:

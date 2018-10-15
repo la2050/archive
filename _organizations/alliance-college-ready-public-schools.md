@@ -23,14 +23,14 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20500%252Fdisplay%252F2013_Graduation_Luskin_Academy_(54).jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102011'
-    - '3102011'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/BLAST.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '3102011'
+    - '3102011'
 original_project_ids:
   - '4102004'
 original_project_titles:

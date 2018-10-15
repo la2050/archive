@@ -54,15 +54,15 @@ zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102017'
-    - '3102017'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
     - 'http://maker.good.is/myla2050/projects/ZenFunder.html'
   year_submitted:
     - '2013'
     - '2013'
+  project_ids:
+    - '3102017'
+    - '3102017'
 original_project_ids:
   - '3102017'
   - '3102019'

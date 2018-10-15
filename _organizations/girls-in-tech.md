@@ -22,13 +22,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
 project_video: 'https://www.youtube.com/embed/BZXFTqAIG8U?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102081'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102081'
 original_project_ids:
   - '6102081'
 original_project_titles:

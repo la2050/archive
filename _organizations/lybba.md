@@ -89,12 +89,12 @@ zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102193'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/OPENHEALTHCentral.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102193'
 original_project_ids:
   - '3102193'
   - '3102193'

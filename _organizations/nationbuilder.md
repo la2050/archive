@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22481%252Fdisplay%252FLA2050.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102180'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '5102180'
 original_project_ids:
   - '4102154'
 original_project_titles:

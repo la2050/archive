@@ -22,12 +22,12 @@ zip: '90069'
 project_image: 'https://img.youtube.com/vi/_AEWWNe6eQw/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102176'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/walking.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102176'
 original_project_ids:
   - '5102176'
 original_project_titles:

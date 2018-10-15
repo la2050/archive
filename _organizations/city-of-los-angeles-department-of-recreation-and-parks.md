@@ -21,12 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 project_video: 'https://www.youtube.com/embed/3HIz022aUd4?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102038'
-    - '5102059'
-    - '5102059'
-    - '5102059'
-    - '3102014'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/ocean-heroes-saving-lives-daily-as-a-water-rescuer
@@ -40,6 +34,12 @@ aggregated:
     - '2015'
     - '2015'
     - '2013'
+  project_ids:
+    - '6102038'
+    - '5102059'
+    - '5102059'
+    - '5102059'
+    - '3102014'
 original_project_ids:
   - '3102014'
   - '5102059'

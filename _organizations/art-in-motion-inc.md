@@ -20,12 +20,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21797%252Fdisplay%252FSPIFF-Youth-Intensive.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102010'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/AIM.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102010'
 original_project_ids:
   - '4102016'
 original_project_titles:

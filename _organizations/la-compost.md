@@ -22,10 +22,6 @@ zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg'
 project_video: 'https://youtu.be/QeunrIbUzt0'
 aggregated:
-  project_ids:
-    - '8102061'
-    - '6102119'
-    - '5102164'
   challenge_url:
     - 'https://activation.la2050.org/connect/la-compost/'
     - >-
@@ -35,6 +31,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
+  project_ids:
+    - '8102061'
+    - '6102119'
+    - '5102164'
 original_project_ids:
   - '6102119'
   - '8102061'

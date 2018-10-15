@@ -22,15 +22,15 @@ zip: '90012'
 project_image: 'https://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102303'
-    - '3102157'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/peermediationnetwork.html'
     - 'http://maker.good.is/myla2050/projects/conflictresolution.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102303'
+    - '3102157'
 original_project_ids:
   - '5102303'
 original_project_titles:

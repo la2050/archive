@@ -22,14 +22,14 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
 project_video: 'https://youtu.be/63SBgjUNWxA'
 aggregated:
-  project_ids:
-    - '8102075'
-    - '4102174'
   challenge_url:
     - 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
   year_submitted:
     - '2018'
     - '2014'
+  project_ids:
+    - '8102075'
+    - '4102174'
 original_project_ids:
   - '8102075'
 original_project_titles:

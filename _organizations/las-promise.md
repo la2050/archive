@@ -21,15 +21,15 @@ zip: '90012'
 project_image: 'https://img.youtube.com/vi/SXGVU13JPLU/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102174'
-    - '3102175'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LAsPromise.html'
     - 'http://maker.good.is/myla2050/projects/LASPROMISE.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102174'
+    - '3102175'
 original_project_ids:
   - '3102175'
   - '5102174'

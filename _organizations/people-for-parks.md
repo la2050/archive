@@ -23,10 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/people-for-parks.jpg
 project_video: 'https://www.youtube.com/watch?v=J2ZWX_tk4BU'
 aggregated:
-  project_ids:
-    - '8102095'
-    - '6102181'
-    - '5102232'
   challenge_url:
     - 'https://activation.la2050.org/play/people-for-parks/'
     - >-
@@ -36,6 +32,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
+  project_ids:
+    - '8102095'
+    - '6102181'
+    - '5102232'
 original_project_ids:
   - '5102232'
   - '6102181'

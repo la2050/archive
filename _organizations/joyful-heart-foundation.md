@@ -22,9 +22,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102110'
-    - '5102151'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
@@ -32,6 +29,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102110'
+    - '5102151'
 original_project_ids:
   - '5102151'
   - '5102151'

@@ -22,10 +22,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 project_video: 'https://www.youtube.com/embed/FGTFKKha0-Q?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102238'
-    - '5102298'
-    - '4102241'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
@@ -34,6 +30,10 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '6102238'
+    - '5102298'
+    - '4102241'
 original_project_ids:
   - '4102209'
   - '5102298'

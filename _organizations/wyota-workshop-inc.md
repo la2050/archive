@@ -22,13 +22,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
 project_video: 'https://www.youtube.com/embed/TqtNFWeLxeE?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102279'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/enhancing-the-schoolyard-to-promote-outdoor-learning
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102279'
 original_project_ids:
   - '6102279'
 original_project_titles:

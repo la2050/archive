@@ -21,12 +21,12 @@ zip: '90033'
 project_image: 'https://img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102054'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102054'
 original_project_ids:
   - '4102118'
 original_project_titles:

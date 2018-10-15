@@ -23,12 +23,12 @@ zip: '90017'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
 project_video: 'https://www.youtube.com/watch?v=nNWKz4hwzOc'
 aggregated:
-  project_ids:
-    - '5102284'
   challenge_url:
     - 'https://activation.la2050.org/live/roots-wings/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '5102284'
 original_project_ids:
   - '8102105'
 original_project_titles:

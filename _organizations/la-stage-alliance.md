@@ -22,15 +22,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16935%252Fdisplay%252FFaces_Installation.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102049'
-    - '3102173'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
     - 'http://maker.good.is/myla2050/projects/ArtsInfrastructure.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102049'
+    - '3102173'
 original_project_ids:
   - '3102173'
   - '3102173'

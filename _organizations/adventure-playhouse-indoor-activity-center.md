@@ -23,11 +23,11 @@ zip: '91340'
 project_image: 'https://img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/adventureplayhouse.html'
   year_submitted:
     - '2015'
+  project_ids: []
 original_project_ids:
   - '5102009'
 original_project_titles:

@@ -17,12 +17,12 @@ zip: '90004'
 project_image: 'https://img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102060'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102060'
 original_project_ids:
   - '4102148'
 original_project_titles:

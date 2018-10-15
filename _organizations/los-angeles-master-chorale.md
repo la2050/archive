@@ -21,12 +21,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg
 project_video: 'https://www.youtube.com/watch?v=hYsa-tWNTm8'
 aggregated:
-  project_ids:
-    - '8102076'
   challenge_url:
     - 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102076'
 original_project_ids:
   - '8102076'
 original_project_titles:

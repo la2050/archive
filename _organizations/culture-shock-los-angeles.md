@@ -21,12 +21,12 @@ zip: '94611'
 project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102080'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/C3.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102080'
 original_project_ids:
   - '5102079'
 original_project_titles:

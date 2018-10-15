@@ -22,15 +22,15 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
 project_video: 'https://myatlascms.com/map/?id=901?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102276'
-    - '4102182'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
   year_submitted:
     - '2016'
     - '2014'
+  project_ids:
+    - '6102276'
+    - '4102182'
 original_project_ids:
   - '6102276'
 original_project_titles:

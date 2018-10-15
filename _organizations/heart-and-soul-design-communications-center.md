@@ -21,12 +21,12 @@ zip: '90302'
 project_image: 'https://img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102131'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/CHIMEtime.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102131'
 original_project_ids:
   - '5102131'
 original_project_titles:

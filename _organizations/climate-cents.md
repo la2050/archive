@@ -24,14 +24,14 @@ zip: '90012'
 project_image: 'https://img.youtube.com/vi/WjnYc_5sRG8/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102066'
-    - '4102194'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102066'
+    - '4102194'
 original_project_ids:
   - '4102013'
   - '4102013'

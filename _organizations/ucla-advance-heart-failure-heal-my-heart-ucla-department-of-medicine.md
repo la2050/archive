@@ -18,11 +18,11 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20504%252Fdisplay%252Fmyla2.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102179'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102179'
 original_project_ids:
   - '4102039'
 original_project_titles:

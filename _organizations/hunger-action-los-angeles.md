@@ -21,11 +21,11 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22352%252Fdisplay%252FMarket_Match_Booth_Adams.Vermont_1.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102135'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102135'
 original_project_ids:
   - '4102208'
 original_project_titles:

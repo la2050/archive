@@ -41,12 +41,12 @@ zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102074'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/PickUpPopUpProduce.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102074'
 original_project_ids: []
 original_project_titles: []
 extrapolated_project_ids:

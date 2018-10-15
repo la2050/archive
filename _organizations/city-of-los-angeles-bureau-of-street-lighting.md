@@ -23,13 +23,13 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
 project_video: 'https://youtu.be/tVCxc_xD6Xo'
 aggregated:
-  project_ids:
-    - '8102026'
   challenge_url:
     - >-
       https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102026'
 original_project_ids:
   - '8102026'
 original_project_titles:

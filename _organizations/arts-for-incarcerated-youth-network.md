@@ -23,9 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102012'
-    - '5102024'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/arts-for-incarcerated-youth-network-using-arts-to-build-camptocareer-pipeline-for-youth
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102012'
+    - '5102024'
 original_project_ids:
   - '6102012'
 original_project_titles:

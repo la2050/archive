@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23547%252Fdisplay%252FLeif_Community_Engagement_App.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102115'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Leif.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '8102115'
 original_project_ids:
   - '5102258'
 original_project_titles:

@@ -22,12 +22,12 @@ zip: '90230'
 project_image: 'https://img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102158'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '4102158'
 original_project_ids:
   - '5102127'
 original_project_titles:

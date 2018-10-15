@@ -22,10 +22,6 @@ zip: '90013'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg'
 project_video: 'https://youtu.be/I7wQ8SasHfQ'
 aggregated:
-  project_ids:
-    - '8102021'
-    - '5102055'
-    - '3102061'
   challenge_url:
     - 'https://activation.la2050.org/connect/ciclavia/'
     - 'http://maker.good.is/myla2050connect2015/projects/CicLAvia.html'
@@ -34,6 +30,10 @@ aggregated:
     - '2018'
     - '2015'
     - '2013'
+  project_ids:
+    - '8102021'
+    - '5102055'
+    - '3102061'
 original_project_ids:
   - '3102061'
   - '5102055'

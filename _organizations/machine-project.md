@@ -39,12 +39,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/c2e6ERN-dS8/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102194'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/machineproject.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102194'
 original_project_ids:
   - '3102194'
 original_project_titles:

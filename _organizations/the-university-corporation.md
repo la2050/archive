@@ -21,12 +21,12 @@ zip: 91330-8309
 project_image: 'https://img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102313'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102313'
 original_project_ids:
   - '5102313'
 original_project_titles:

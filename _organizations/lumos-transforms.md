@@ -21,12 +21,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102078'
   challenge_url:
     - 'https://activation.la2050.org/live/lumos-transforms/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102078'
 original_project_ids:
   - '8102078'
 original_project_titles:

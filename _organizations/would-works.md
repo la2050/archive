@@ -22,12 +22,12 @@ zip: '90026'
 project_image: 'https://img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102109'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/would-works.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102109'
 original_project_ids:
   - '4102262'
 original_project_titles:

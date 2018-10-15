@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/I-2Ao80yxyQ?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102205'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102205'
 original_project_ids:
   - '6102205'
 original_project_titles:

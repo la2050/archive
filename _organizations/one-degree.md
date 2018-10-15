@@ -21,12 +21,12 @@ zip: '90029'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102092'
   challenge_url:
     - 'https://activation.la2050.org/live/one-degree/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102092'
 original_project_ids:
   - '8102092'
 original_project_titles:

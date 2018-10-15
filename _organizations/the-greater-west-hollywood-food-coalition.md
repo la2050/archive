@@ -49,12 +49,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102248'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102248'
 original_project_ids:
   - '3102248'
 original_project_titles:

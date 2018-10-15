@@ -24,11 +24,11 @@ zip: '90401'
 project_image: 'https://img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/GreenCommuter.html'
   year_submitted:
     - '2015'
+  project_ids: []
 original_project_ids:
   - '5102117'
 original_project_titles:

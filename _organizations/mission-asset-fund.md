@@ -33,12 +33,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/AXqYX0rfbys/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102198'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LendingCircles.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102198'
 original_project_ids:
   - '3102198'
 original_project_titles:

@@ -21,12 +21,12 @@ zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg'
 project_video: 'https://youtu.be/PtA8wOP6XuM'
 aggregated:
-  project_ids:
-    - '8102036'
   challenge_url:
     - 'https://activation.la2050.org/connect/eayikes/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102036'
 original_project_ids:
   - '8102036'
 original_project_titles:

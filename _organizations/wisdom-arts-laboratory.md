@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102283'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102283'
 original_project_ids:
   - '6102283'
 original_project_titles:

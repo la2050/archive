@@ -20,14 +20,14 @@ zip: '90049'
 project_image: 'https://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102297'
-    - '4102216'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102297'
+    - '4102216'
 original_project_ids:
   - '4102247'
   - '5102297'

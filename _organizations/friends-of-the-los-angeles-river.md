@@ -22,12 +22,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102038'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/rover.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102038'
 original_project_ids:
   - '4102076'
 original_project_titles:

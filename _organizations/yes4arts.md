@@ -23,12 +23,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23223%252Fdisplay%252FYes4arts_picture_image.jpeg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102343'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102343'
 original_project_ids:
   - '5102343'
 original_project_titles:

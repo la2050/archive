@@ -20,12 +20,12 @@ zip: '91105'
 project_image: 'https://img.youtube.com/vi/awJQoJqGL-o/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102094'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102094'
 original_project_ids:
   - '4102224'
 original_project_titles:

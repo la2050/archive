@@ -25,15 +25,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102054'
-    - '3102060'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'
     - 'http://maker.good.is/myla2050/projects/belong.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102054'
+    - '3102060'
 original_project_ids:
   - '5102054'
 original_project_titles:

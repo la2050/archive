@@ -23,15 +23,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23662%252Fdisplay%252FCarrie_15-00963.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102279'
-    - '4102214'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ASN.html'
     - 'http://maker.good.is/myLA2050play/projects/generationempathy.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102279'
+    - '4102214'
 original_project_ids:
   - '4102197'
   - '5102279'

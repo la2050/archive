@@ -24,15 +24,15 @@ zip: '90744'
 project_image: 'https://img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102262'
-    - '4102209'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'
     - 'http://maker.good.is/myLA2050create/projects/streetcraftla.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102262'
+    - '4102209'
 original_project_ids:
   - '5102262'
 original_project_titles:

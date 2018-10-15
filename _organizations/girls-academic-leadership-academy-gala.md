@@ -22,9 +22,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
 project_video: 'https://youtu.be/PTteThgae3o'
 aggregated:
-  project_ids:
-    - '8102045'
-    - '5102110'
   challenge_url:
     - >-
       https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/
@@ -32,6 +29,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
+  project_ids:
+    - '8102045'
+    - '5102110'
 original_project_ids:
   - '8102045'
 original_project_titles:

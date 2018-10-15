@@ -25,12 +25,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102267'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102267'
 original_project_ids:
   - '3102267'
 original_project_titles:

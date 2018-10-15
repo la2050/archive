@@ -23,10 +23,6 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102107'
-    - '4102199'
-    - '3102134'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
     - 'http://maker.good.is/myLA2050play/projects/fromlottospot.html'
@@ -35,6 +31,10 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '5102107'
+    - '4102199'
+    - '3102134'
 original_project_ids:
   - '3102134'
   - '4102079'

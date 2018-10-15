@@ -23,15 +23,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23390%252Fdisplay%252Ffair.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102202'
-    - '4102206'
   challenge_url:
     - >-
       http://maker.good.is/myla2050connect2015/projects/BridgeCOLLEGEandWORK.html
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102202'
+    - '4102206'
 original_project_ids:
   - '4102140'
   - '5102202'

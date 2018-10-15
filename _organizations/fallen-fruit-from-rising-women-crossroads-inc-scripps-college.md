@@ -24,15 +24,15 @@ zip: '91711'
 project_image: 'https://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102099'
-    - '4102025'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
     - 'http://maker.good.is/myLA2050create/projects/FFFRW.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102099'
+    - '4102025'
 original_project_ids:
   - '5102099'
 original_project_titles:

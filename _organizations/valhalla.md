@@ -35,12 +35,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17236%252Fdisplay%252Fvalhalla550.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102269'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ValhalLA.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102269'
 original_project_ids: []
 original_project_titles:
   - 'Self-Sustainable Artistic Community '

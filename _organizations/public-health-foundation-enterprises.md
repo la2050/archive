@@ -20,13 +20,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6004983715741-team91.jpg
 project_video: 'http://www.lblreaders.org/videos/LittleByLittle.webm?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102193'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/little-by-little-school-readiness-program
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102193'
 original_project_ids:
   - '6102193'
 original_project_titles:

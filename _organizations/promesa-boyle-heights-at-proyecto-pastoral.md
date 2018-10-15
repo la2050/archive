@@ -22,10 +22,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102098'
-    - '5102245'
-    - '4102261'
   challenge_url:
     - >-
       https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/
@@ -35,6 +31,10 @@ aggregated:
     - '2018'
     - '2015'
     - '2014'
+  project_ids:
+    - '8102098'
+    - '5102245'
+    - '4102261'
 original_project_ids:
   - '4102173'
   - '5102245'

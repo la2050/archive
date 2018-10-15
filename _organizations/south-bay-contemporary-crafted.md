@@ -24,15 +24,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24146%252Fdisplay%252FCulture_gaps_for_la2050xsmall_copy.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102274'
-    - '3102234'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SBC.html'
     - 'http://maker.good.is/myla2050/projects/act2connect.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102274'
+    - '3102234'
 original_project_ids:
   - '5102274'
 original_project_titles:

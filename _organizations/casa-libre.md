@@ -21,12 +21,12 @@ zip: '90057'
 project_image: 'https://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102042'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CasaLibre.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102042'
 original_project_ids:
   - '5102042'
 original_project_titles:

@@ -16,14 +16,14 @@ zip: '90034'
 project_image: 'https://img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102186'
-    - '3102274'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SLAM.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102186'
+    - '3102274'
 original_project_ids:
   - '3102274'
   - '4102104'

@@ -25,10 +25,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 project_video: 'https://www.youtube.com/watch?v=6iKW4H-17BA'
 aggregated:
-  project_ids:
-    - '8102133'
-    - '6102273'
-    - '4102266'
   challenge_url:
     - 'https://activation.la2050.org/connect/university-of-southern-california/'
     - 'https://challenge.la2050.org/entry/open-ballot-la'
@@ -36,6 +32,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2014'
+  project_ids:
+    - '8102133'
+    - '6102273'
+    - '4102266'
 original_project_ids:
   - '4102125'
   - '6102273'

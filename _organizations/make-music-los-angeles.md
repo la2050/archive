@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 project_video: 'https://youtube.com/embed/xSGbvkEdpJE?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102152'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102152'
 original_project_ids:
   - '6102152'
 original_project_titles:

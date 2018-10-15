@@ -20,10 +20,6 @@ zip: ''
 project_image: 'http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102037'
-    - '5102057'
-    - '4102222'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/cwc-la-building-communities-that-embrace-equity-and-address-injustice
@@ -32,6 +28,10 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '6102037'
+    - '5102057'
+    - '4102222'
 original_project_ids:
   - '5102057'
 original_project_titles:

@@ -21,12 +21,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
 project_video: 'https://youtu.be/Bt5RMStlQxI?t=90'
 aggregated:
-  project_ids:
-    - '8102087'
   challenge_url:
     - 'https://activation.la2050.org/live/my-friends-house-inc/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102087'
 original_project_ids:
   - '8102087'
 original_project_titles:

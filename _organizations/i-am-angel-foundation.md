@@ -20,10 +20,6 @@ zip: '90038'
 project_image: 'https://img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102044'
-    - '3102152'
-    - '3102152'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'
     - 'http://maker.good.is/myla2050/projects/iamangel_incubator.html'
@@ -32,6 +28,10 @@ aggregated:
     - '2014'
     - '2013'
     - '2013'
+  project_ids:
+    - '4102044'
+    - '3102152'
+    - '3102152'
 original_project_ids:
   - '3102152'
   - '4102095'

@@ -21,12 +21,12 @@ zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg'
 project_video: 'https://www.youtube.com/watch?v=KcRryxjBr-8'
 aggregated:
-  project_ids:
-    - '8102113'
   challenge_url:
     - 'https://activation.la2050.org/live/süprseed/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102113'
 original_project_ids:
   - '8102113'
 original_project_titles:

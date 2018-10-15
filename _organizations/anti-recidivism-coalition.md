@@ -24,12 +24,12 @@ zip: '90013'
 project_image: 'https://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102017'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102017'
 original_project_ids:
   - '5102017'
 original_project_titles:

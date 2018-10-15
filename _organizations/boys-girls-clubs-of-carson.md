@@ -25,12 +25,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24078%252Fdisplay%252FCollege_Access_Initiative.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102033'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CollegeAccess.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102033'
 original_project_ids:
   - '5102033'
 original_project_titles:

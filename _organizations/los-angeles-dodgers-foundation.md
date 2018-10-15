@@ -21,12 +21,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
 project_video: 'https://www.mlb.com/dodgers/video/ladf-overview/c-1866876583?tid=80228278'
 aggregated:
-  project_ids:
-    - '8102074'
   challenge_url:
     - 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102074'
 original_project_ids:
   - '8102074'
 original_project_titles:

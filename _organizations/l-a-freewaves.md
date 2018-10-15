@@ -22,15 +22,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21306%252Fdisplay%252F12_Stills_from_videos.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102048'
-    - '3102132'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
     - 'http://maker.good.is/myla2050/projects/Freewaves.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102048'
+    - '3102132'
 original_project_ids:
   - '4102108'
 original_project_titles:

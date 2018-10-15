@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
 project_video: 'https://www.youtube.com/embed/DLg3R9NTcNc?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102120'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102120'
 original_project_ids:
   - '6102120'
 original_project_titles:

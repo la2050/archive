@@ -50,12 +50,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/opportunity-fund.jpg
 project_video: 'https://youtu.be/KrGSS4OtP50'
 aggregated:
-  project_ids:
-    - '8102093'
-    - '6102171'
-    - '5102224'
-    - '4102259'
-    - '3102210'
   challenge_url:
     - 'https://activation.la2050.org/create/opportunity-fund/'
     - >-
@@ -69,6 +63,12 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '8102093'
+    - '6102171'
+    - '5102224'
+    - '4102259'
+    - '3102210'
 original_project_ids:
   - '3102210'
   - '4102160'

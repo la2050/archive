@@ -21,12 +21,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=w47i_b8U5-0&feature=youtu.be'
 aggregated:
-  project_ids:
-    - '8102013'
   challenge_url:
     - 'https://activation.la2050.org/live/cardborigami-inc/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102013'
 original_project_ids:
   - '8102013'
 original_project_titles:

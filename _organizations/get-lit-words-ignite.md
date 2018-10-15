@@ -21,9 +21,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
 project_video: 'https://youtu.be/ioZuMb9vLz8'
 aggregated:
-  project_ids:
-    - '8102044'
-    - '6102080'
   challenge_url:
     - 'https://activation.la2050.org/create/get-lit-words-ignite/'
     - >-
@@ -31,6 +28,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  project_ids:
+    - '8102044'
+    - '6102080'
 original_project_ids:
   - '6102080'
   - '8102044'

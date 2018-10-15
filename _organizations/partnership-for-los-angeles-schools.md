@@ -18,12 +18,12 @@ zip: '#N/A'
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 aggregated:
-  project_ids:
-    - '#N/A'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '#N/A'
 original_project_ids: []
 original_project_titles: []
 extrapolated_project_ids: []

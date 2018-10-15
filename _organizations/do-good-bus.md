@@ -20,14 +20,14 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102025'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'
     - 'http://maker.good.is/myla2050/projects/dogoodbus.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '3102025'
 original_project_ids:
   - '3102025'
   - '4102055'

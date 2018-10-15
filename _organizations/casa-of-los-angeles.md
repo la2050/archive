@@ -22,11 +22,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/casa-of-los-angeles.jpg
 project_video: 'https://youtu.be/nUykHHtLIHo'
 aggregated:
-  project_ids:
-    - '8102014'
-    - '6102032'
-    - '5102043'
-    - '4102247'
   challenge_url:
     - 'https://activation.la2050.org/connect/casa-of-los-angeles/'
     - >-
@@ -38,6 +33,11 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '8102014'
+    - '6102032'
+    - '5102043'
+    - '4102247'
 original_project_ids:
   - '4102031'
   - '5102043'

@@ -18,13 +18,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
 project_video: 'https://www.youtube.com/embed/jzZRGNGG5LA?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102209'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102209'
 original_project_ids:
   - '6102209'
 original_project_titles:

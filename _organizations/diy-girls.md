@@ -23,12 +23,12 @@ zip: '90013'
 project_image: 'https://img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102083'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102083'
 original_project_ids:
   - '5102082'
 original_project_titles:

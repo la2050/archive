@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22393%252Fdisplay%252FTianguis.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102339'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/tianguis.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '5102339'
 original_project_ids:
   - '4102064'
 original_project_titles:

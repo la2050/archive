@@ -23,12 +23,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102189'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102189'
 original_project_ids:
   - '5102189'
 original_project_titles:

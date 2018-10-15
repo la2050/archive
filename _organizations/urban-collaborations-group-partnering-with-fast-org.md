@@ -18,11 +18,11 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22419%252Fdisplay%252FLA2050-Hero.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102181'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102181'
 original_project_ids:
   - '4102255'
 original_project_titles:

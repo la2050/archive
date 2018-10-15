@@ -19,12 +19,12 @@ zip: '90015'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/city-fabrick.jpg'
 project_video: 'https://youtu.be/dUZCmEGdjvM'
 aggregated:
-  project_ids:
-    - '8102023'
   challenge_url:
     - 'https://activation.la2050.org/live/city-fabrick/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102023'
 original_project_ids:
   - '8102023'
 original_project_titles:

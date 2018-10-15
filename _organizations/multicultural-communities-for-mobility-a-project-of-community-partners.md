@@ -23,13 +23,13 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 project_video: 'https://youtu.be/4gShI4Plo2I'
 aggregated:
-  project_ids:
-    - '8102085'
   challenge_url:
     - >-
       https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102085'
 original_project_ids:
   - '8102085'
 original_project_titles:

@@ -22,12 +22,12 @@ zip: '90066'
 project_image: 'https://img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102125'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102125'
 original_project_ids:
   - '5102125'
 original_project_titles:

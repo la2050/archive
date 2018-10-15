@@ -20,13 +20,13 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
 project_video: 'https://youtu.be/Jtc3hudRjRA'
 aggregated:
-  project_ids:
-    - '8102139'
   challenge_url:
     - >-
       https://activation.la2050.org/live/world-harvest-charities-family-services/
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102139'
 original_project_ids:
   - '8102139'
 original_project_titles:

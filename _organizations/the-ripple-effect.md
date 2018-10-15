@@ -24,12 +24,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23575%252Fdisplay%252FPicture_5.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102309'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102309'
 original_project_ids:
   - '5102309'
 original_project_titles:

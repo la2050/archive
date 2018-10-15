@@ -38,12 +38,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102245'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ExNLA.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102245'
 original_project_ids:
   - '3102245'
   - '3102245'

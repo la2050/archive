@@ -20,12 +20,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102026'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/deafwest.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102026'
 original_project_ids:
   - '4102053'
 original_project_titles:

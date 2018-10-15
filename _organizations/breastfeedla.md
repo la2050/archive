@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
 project_video: 'https://www.youtube.com/embed/LPu2w2BufhE?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102022'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102022'
 original_project_ids:
   - '6102022'
 original_project_titles:

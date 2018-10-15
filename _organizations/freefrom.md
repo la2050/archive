@@ -22,12 +22,12 @@ zip: '90012'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg'
 project_video: 'https://www.youtube.com/watch?v=9tCDaZikwNQ'
 aggregated:
-  project_ids:
-    - '8102041'
   challenge_url:
     - 'https://activation.la2050.org/live/freefrom/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102041'
 original_project_ids:
   - '8102041'
 original_project_titles:

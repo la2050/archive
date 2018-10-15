@@ -21,12 +21,12 @@ zip: '90028'
 project_image: 'https://img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102178'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102178'
 original_project_ids:
   - '5102178'
 original_project_titles:

@@ -22,12 +22,12 @@ zip: '90020'
 project_image: 'https://img.youtube.com/vi/tFrudFZCeRY/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102046'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/FREETAXPREP.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102046'
 original_project_ids:
   - '4102105'
 original_project_titles:

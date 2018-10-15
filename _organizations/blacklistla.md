@@ -23,9 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 project_video: 'https://www.youtube.com/embed/YcJFmTnHOeE?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102019'
-    - '5102029'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102019'
+    - '5102029'
 original_project_ids:
   - '5102029'
 original_project_titles:

@@ -22,13 +22,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2650088355741-team91.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102236'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/citywide-billboard-art-show-connecting-emerging-artists-with-mass-audiences-on-the-streets-of-la
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102236'
 original_project_ids:
   - '6102236'
 original_project_titles:

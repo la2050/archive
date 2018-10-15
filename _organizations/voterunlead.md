@@ -20,12 +20,12 @@ zip: '990275'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/voterunlead.jpg'
 project_video: 'https://www.youtube.com/watch?v=UJlhdh9rWgs'
 aggregated:
-  project_ids:
-    - '8102134'
   challenge_url:
     - 'https://activation.la2050.org/connect/voterunlead/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102134'
 original_project_ids:
   - '8102134'
 original_project_titles:

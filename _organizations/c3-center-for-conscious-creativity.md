@@ -42,12 +42,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102045'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/f2futurefest.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102045'
 original_project_ids:
   - '3102045'
 original_project_titles:

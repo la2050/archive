@@ -24,12 +24,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102203'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102203'
 original_project_ids:
   - '5102203'
 original_project_titles:

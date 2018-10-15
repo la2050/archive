@@ -20,12 +20,12 @@ zip: '90066'
 project_image: 'https://img.youtube.com/vi/JVyDVToMVoo/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102124'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102124'
 original_project_ids:
   - '4102158'
 original_project_titles:

@@ -21,9 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102027'
-    - '4102221'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders
@@ -31,6 +28,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  project_ids:
+    - '6102027'
+    - '4102221'
 original_project_ids:
   - '4102030'
   - '6102027'

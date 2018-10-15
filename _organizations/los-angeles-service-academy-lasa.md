@@ -23,11 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
 project_video: 'https://youtu.be/uGjAQ4LYDr8'
 aggregated:
-  project_ids:
-    - '8102077'
-    - '6102145'
-    - '5102195'
-    - '4102256'
   challenge_url:
     - 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'
     - >-
@@ -38,6 +33,11 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '8102077'
+    - '6102145'
+    - '5102195'
+    - '4102256'
 original_project_ids:
   - '6102145'
   - '8102077'

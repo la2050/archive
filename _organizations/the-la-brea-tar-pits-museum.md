@@ -20,12 +20,12 @@ zip: '90007'
 project_image: 'https://img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102093'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/newdigs.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102093'
 original_project_ids:
   - '4102219'
 original_project_titles:

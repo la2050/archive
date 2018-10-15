@@ -31,12 +31,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
 project_video: 'https://youtu.be/m9NRl8lAdZY'
 aggregated:
-  project_ids:
-    - '8102043'
   challenge_url:
     - 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102043'
 original_project_ids:
   - '8102043'
 original_project_titles:

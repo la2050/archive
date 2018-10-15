@@ -32,12 +32,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102256'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/relationalcenter.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102256'
 original_project_ids:
   - '3102256'
 original_project_titles:

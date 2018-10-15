@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22797%252Fdisplay%252F1836681_290007847815931_949505580_o(1).jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102092'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/theLAFort.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102092'
 original_project_ids:
   - '4102218'
 original_project_titles:

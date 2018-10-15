@@ -22,11 +22,11 @@ zip: '90049'
 project_image: 'https://img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
   year_submitted:
     - '2014'
+  project_ids: []
 original_project_ids:
   - '4102141'
 original_project_titles:

@@ -35,12 +35,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102166'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102166'
 original_project_ids:
   - '3102166'
 original_project_titles:

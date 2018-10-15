@@ -21,11 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102144'
-    - '5102194'
-    - '4102233'
-    - '3102189'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop
@@ -37,6 +32,11 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '6102144'
+    - '5102194'
+    - '4102233'
+    - '3102189'
 original_project_ids:
   - '3102189'
   - '3102189'

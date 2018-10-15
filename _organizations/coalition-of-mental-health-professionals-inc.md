@@ -39,12 +39,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102078'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/workersrising.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102078'
 original_project_ids:
   - '3102078'
 original_project_titles:

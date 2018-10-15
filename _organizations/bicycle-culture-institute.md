@@ -18,10 +18,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/l2oE7AX8gtw?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102016'
-    - '6102015'
-    - '4102220'
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-bike-trains-app-wayfinding-signage'
     - 'https://challenge.la2050.org/entry/la-bike-fest'
@@ -30,6 +26,10 @@ aggregated:
     - '2016'
     - '2016'
     - '2014'
+  project_ids:
+    - '6102016'
+    - '6102015'
+    - '4102220'
 original_project_ids:
   - '4102024'
   - '6102015'

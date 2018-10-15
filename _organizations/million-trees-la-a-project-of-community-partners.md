@@ -69,12 +69,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102197'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102197'
 original_project_ids:
   - '3102197'
 original_project_titles:

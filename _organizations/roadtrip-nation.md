@@ -23,12 +23,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
 project_video: 'https://www.youtube.com/watch?v=jT5D2oFUbpQ'
 aggregated:
-  project_ids:
-    - '8102104'
   challenge_url:
     - 'https://activation.la2050.org/create/roadtrip-nation/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102104'
 original_project_ids:
   - '8102104'
 original_project_titles:

@@ -21,12 +21,12 @@ project_image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2d/2015_Special_Olympics_Closing_Ceremony_on_August_2%2C_2015.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102085'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/LA2015.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102085'
 original_project_ids:
   - '4102198'
 original_project_titles:

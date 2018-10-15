@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22052%252Fdisplay%252FLA2050-image-4.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102108'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/AppofLife.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '5102108'
 original_project_ids:
   - '4102011'
 original_project_titles:

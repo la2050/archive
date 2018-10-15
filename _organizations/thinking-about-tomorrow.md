@@ -17,14 +17,14 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24144%252Fdisplay%252FShannonTaTLA2050.jpeg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102317'
-    - '4102217'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/SchoolisCool.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102317'
+    - '4102217'
 original_project_ids:
   - '4102234'
   - '5102317'

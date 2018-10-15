@@ -20,11 +20,11 @@ zip: '90066'
 project_image: 'https://img.youtube.com/vi/XYkDHo1jJ1c/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'
   year_submitted:
     - '2015'
+  project_ids: []
 original_project_ids:
   - '5102342'
 original_project_titles:

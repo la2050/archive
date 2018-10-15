@@ -20,15 +20,15 @@ zip: '91340'
 project_image: 'https://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102110'
-    - '3102279'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
     - 'http://maker.good.is/myla2050/projects/youthspeak.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102110'
+    - '3102279'
 original_project_ids:
   - '3102279'
   - '4102266'

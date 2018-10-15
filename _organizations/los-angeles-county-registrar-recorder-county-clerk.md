@@ -21,13 +21,13 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
 project_video: 'https://youtu.be/Z8m9oU7eBqc'
 aggregated:
-  project_ids:
-    - '8102073'
   challenge_url:
     - >-
       https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102073'
 original_project_ids:
   - '8102073'
 original_project_titles:

@@ -21,10 +21,10 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21609%252Fdisplay%252FFutureBoundKids_w_Logo.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids: []
 original_project_ids:
   - '4102080'
 original_project_titles:

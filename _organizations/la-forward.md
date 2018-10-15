@@ -20,12 +20,12 @@ zip: '90747'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-forward.jpg'
 project_video: 'https://youtu.be/iK1p6nJf5bg'
 aggregated:
-  project_ids:
-    - '8102062'
   challenge_url:
     - 'https://activation.la2050.org/connect/la-forward/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102062'
 original_project_ids:
   - '8102062'
 original_project_titles:

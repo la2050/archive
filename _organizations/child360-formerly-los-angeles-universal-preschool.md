@@ -23,9 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
 project_video: 'https://youtu.be/3lSBgCsP9Sg'
 aggregated:
-  project_ids:
-    - '8102018'
-    - '3102176'
   challenge_url:
     - >-
       https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2013'
+  project_ids:
+    - '8102018'
+    - '3102176'
 original_project_ids:
   - '8102018'
 original_project_titles:

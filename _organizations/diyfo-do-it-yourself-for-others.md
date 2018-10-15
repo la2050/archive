@@ -34,12 +34,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/cEATGWzLMiM/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102024'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/diyfo.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102024'
 original_project_ids:
   - '3102024'
 original_project_titles:

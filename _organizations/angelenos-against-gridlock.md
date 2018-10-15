@@ -95,12 +95,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102021'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/fundthisproject.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102021'
 original_project_ids:
   - '3102021'
 original_project_titles:

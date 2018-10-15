@@ -22,14 +22,14 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21245%252Fdisplay%252Fslide-image-1.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102031'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/droplabs.html'
     - 'http://maker.good.is/myla2050/projects/Moebius5000.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '3102031'
 original_project_ids:
   - '3102031'
   - '3102031'

@@ -22,11 +22,6 @@ zip: '90027'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102019'
-    - '6102034'
-    - '5102052'
-    - '4102248'
   challenge_url:
     - 'https://activation.la2050.org/connect/children-now/'
     - >-
@@ -38,6 +33,11 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '8102019'
+    - '6102034'
+    - '5102052'
+    - '4102248'
 original_project_ids:
   - '4102035'
   - '5102052'

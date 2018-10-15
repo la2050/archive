@@ -23,11 +23,6 @@ project_image: >-
   https://d3n8a8pro7vhmx.cloudfront.net/movela/pages/7205/attachments/original/1534828727/escooter.png?1534828727
 project_video: 'https://youtu.be/4JnqpY0nP4s'
 aggregated:
-  project_ids:
-    - '8102084'
-    - '5102213'
-    - '4102257'
-    - '3102199'
   challenge_url:
     - >-
       https://activation.la2050.org/live/move-la-a-project-of-community-partners/
@@ -39,6 +34,11 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '8102084'
+    - '5102213'
+    - '4102257'
+    - '3102199'
 original_project_ids:
   - '3102199'
   - '5102213'

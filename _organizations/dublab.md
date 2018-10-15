@@ -20,9 +20,6 @@ zip: '90029'
 project_image: 'https://img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102088'
-    - '3102115'
   challenge_url:
     - >-
       http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html
@@ -30,6 +27,9 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102088'
+    - '3102115'
 original_project_ids:
   - '3102115'
   - '5102088'

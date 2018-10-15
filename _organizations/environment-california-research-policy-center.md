@@ -45,13 +45,13 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102037'
   challenge_url:
     - >-
       https://activation.la2050.org/live/environment-california-research-policy-center/
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102037'
 original_project_ids:
   - '8102037'
 original_project_titles:

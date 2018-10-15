@@ -20,12 +20,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102080'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/schkapf.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102080'
 original_project_ids:
   - '4102187'
 original_project_titles:

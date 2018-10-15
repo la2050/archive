@@ -23,12 +23,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 project_video: 'https://youtu.be/ZE0fqJVRj80'
 aggregated:
-  project_ids:
-    - '8102111'
   challenge_url:
     - 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102111'
 original_project_ids:
   - '8102111'
 original_project_titles:

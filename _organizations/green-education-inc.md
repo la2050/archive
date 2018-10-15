@@ -21,11 +21,11 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22790%252Fdisplay%252FGEInc_Logo-brown_3-12.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102132'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102132'
 original_project_ids:
   - '4102200'
 original_project_titles:

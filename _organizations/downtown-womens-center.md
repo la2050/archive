@@ -67,10 +67,6 @@ zip: '#N/A'
 project_image: 'https://img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '#N/A'
-    - '4102196'
-    - '3102109'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
     - 'http://maker.good.is/myLA2050create/projects/DTwomenscenter.html'
@@ -79,6 +75,10 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '#N/A'
+    - '4102196'
+    - '3102109'
 original_project_ids:
   - '3102109'
   - '4102056'

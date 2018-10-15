@@ -16,14 +16,14 @@ zip: '90017'
 project_image: 'https://img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102159'
-    - '3102215'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/POV.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102159'
+    - '3102215'
 original_project_ids:
   - '3102215'
   - '4102164'

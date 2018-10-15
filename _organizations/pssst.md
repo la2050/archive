@@ -17,12 +17,12 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102192'
   challenge_url:
     - 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102192'
 original_project_ids:
   - '6102192'
 original_project_titles:

@@ -22,10 +22,6 @@ zip: '90405'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/global-green.jpg'
 project_video: 'https://www.youtube.com/watch?v=xtgKX6NE490'
 aggregated:
-  project_ids:
-    - '8102046'
-    - '6102083'
-    - '4102251'
   challenge_url:
     - 'https://activation.la2050.org/live/global-green/'
     - >-
@@ -34,6 +30,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2014'
+  project_ids:
+    - '8102046'
+    - '6102083'
+    - '4102251'
 original_project_ids:
   - '8102046'
 original_project_titles:

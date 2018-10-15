@@ -23,12 +23,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102103'
   challenge_url:
     - 'https://activation.la2050.org/create/revolutionize-hollywood/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102103'
 original_project_ids:
   - '8102103'
 original_project_titles:

@@ -22,14 +22,14 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102098'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
     - 'http://maker.good.is/myla2050/projects/urbanair.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '3102098'
 original_project_ids:
   - '3102098'
 original_project_titles:

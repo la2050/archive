@@ -24,12 +24,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24082%252Fdisplay%252FPage_6_Behind_the_scenes.JPG=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102012'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/B4UGO.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102012'
 original_project_ids:
   - '5102012'
 original_project_titles:

@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
 project_video: 'https://www.youtube.com/embed/R1IuTSQQ9PY?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102089'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102089'
 original_project_ids:
   - '6102089'
 original_project_titles:

@@ -24,12 +24,12 @@ zip: '91030'
 project_image: 'https://img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102243'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102243'
 original_project_ids:
   - '5102243'
 original_project_titles:

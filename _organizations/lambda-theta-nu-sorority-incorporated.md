@@ -31,12 +31,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16587%252Fdisplay%252Fphoto-33.JPG=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102174'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FEM.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102174'
 original_project_ids: []
 original_project_titles:
   - Financial Enrichment and Management (collegiate class of 2018-2019)

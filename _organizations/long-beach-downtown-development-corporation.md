@@ -20,13 +20,13 @@ project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102071'
   challenge_url:
     - >-
       https://activation.la2050.org/create/long-beach-downtown-development-corporation/
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102071'
 original_project_ids:
   - '8102071'
 original_project_titles:

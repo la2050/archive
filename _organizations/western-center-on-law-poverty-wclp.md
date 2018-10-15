@@ -16,11 +16,11 @@ zip: '90010'
 project_image: 'https://img.youtube.com/vi/-8HpYaBGc4I/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102183'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102183'
 original_project_ids:
   - '4102121'
 original_project_titles:

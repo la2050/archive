@@ -27,10 +27,6 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102335'
-    - '5102063'
-    - '3102266'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
     - 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
@@ -39,6 +35,10 @@ aggregated:
     - '2015'
     - '2015'
     - '2013'
+  project_ids:
+    - '5102335'
+    - '5102063'
+    - '3102266'
 original_project_ids:
   - '5102335'
 original_project_titles:

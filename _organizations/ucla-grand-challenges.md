@@ -16,11 +16,11 @@ zip: 90095-1405
 project_image: 'https://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102180'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102180'
 original_project_ids:
   - '4102185'
 original_project_titles:

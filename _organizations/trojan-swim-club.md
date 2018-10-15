@@ -21,12 +21,12 @@ zip: '90089'
 project_image: 'https://img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102323'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102323'
 original_project_ids:
   - '5102323'
 original_project_titles:

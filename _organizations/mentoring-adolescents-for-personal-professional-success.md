@@ -23,12 +23,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
 project_video: 'https://youtu.be/hVF2r_6Q-Vw'
 aggregated:
-  project_ids: []
   challenge_url:
     - >-
       https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/
   year_submitted:
     - '2018'
+  project_ids: []
 original_project_ids:
   - '8102082'
 original_project_titles:

@@ -24,12 +24,12 @@ zip: '90017'
 project_image: 'https://img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102333'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LACASHFORCOLLEGE.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102333'
 original_project_ids:
   - '5102333'
 original_project_titles:

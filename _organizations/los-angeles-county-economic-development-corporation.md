@@ -24,12 +24,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23271%252Fdisplay%252FStratPlanProg_Cover.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102187'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102187'
 original_project_ids:
   - '5102187'
 original_project_titles:

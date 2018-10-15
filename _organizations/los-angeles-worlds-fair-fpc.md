@@ -20,15 +20,15 @@ zip: '90291'
 project_image: 'https://img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102199'
-    - '5102304'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/SustainableFutureLA.html'
     - 'http://maker.good.is/myLA2050connect/projects/LAWF.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102199'
+    - '5102304'
 original_project_ids:
   - '4102139'
   - '5102199'

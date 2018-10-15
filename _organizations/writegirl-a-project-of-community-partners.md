@@ -16,14 +16,14 @@ zip: '90013'
 project_image: 'https://img.youtube.com/vi/FmHmFIlfA4A/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102188'
-    - '3102275'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/powerofthepen.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102188'
+    - '3102275'
 original_project_ids:
   - '4102263'
 original_project_titles:

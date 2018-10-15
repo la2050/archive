@@ -22,12 +22,12 @@ zip: '91401'
 project_image: 'https://img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102105'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102105'
 original_project_ids:
   - '4102256'
 original_project_titles:

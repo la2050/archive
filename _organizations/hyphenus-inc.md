@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102172'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102172'
 original_project_ids:
   - '6102172'
 original_project_titles:

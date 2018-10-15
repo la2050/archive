@@ -27,12 +27,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102081'
   challenge_url:
     - 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102081'
 original_project_ids:
   - '8102081'
 original_project_titles:

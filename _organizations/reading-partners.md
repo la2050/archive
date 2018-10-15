@@ -24,12 +24,12 @@ zip: '91107'
 project_image: 'https://img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102249'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102249'
 original_project_ids:
   - '5102249'
 original_project_titles:

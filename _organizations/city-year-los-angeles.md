@@ -21,11 +21,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=oUBvw2A2YMI'
 aggregated:
-  project_ids:
-    - '8102027'
-    - '6102040'
-    - '5102062'
-    - '4102249'
   challenge_url:
     - 'https://activation.la2050.org/connect/city-year-los-angeles/'
     - >-
@@ -36,6 +31,11 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '8102027'
+    - '6102040'
+    - '5102062'
+    - '4102249'
 original_project_ids:
   - '6102040'
   - '8102027'

@@ -20,11 +20,11 @@ zip: '90027'
 project_image: 'https://img.youtube.com/vi/_-Xf6dKy4no/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'
   year_submitted:
     - '2014'
+  project_ids: []
 original_project_ids:
   - '4102172'
 original_project_titles:

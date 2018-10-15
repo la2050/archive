@@ -45,12 +45,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102207'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/salamanderproject.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102207'
 original_project_ids: []
 original_project_titles:
   - 'The Salamander Project: Re-designing Creativity in Education'

@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22859%252Fdisplay%252Fla_biohackers__LA2050_570_345_copy2.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102055'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LAB.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102055'
 original_project_ids:
   - '4102124'
 original_project_titles:

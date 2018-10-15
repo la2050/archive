@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
 project_video: 'https://www.youtube.com/embed/A702YxASJIo?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102099'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102099'
 original_project_ids:
   - '6102099'
 original_project_titles:

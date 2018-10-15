@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102054'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102054'
 original_project_ids:
   - '6102054'
 original_project_titles:

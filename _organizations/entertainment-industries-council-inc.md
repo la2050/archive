@@ -18,12 +18,12 @@ zip: '90069'
 project_image: 'https://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102093'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102093'
 original_project_ids:
   - '5102093'
 original_project_titles:

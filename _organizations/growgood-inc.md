@@ -24,12 +24,12 @@ zip: '90272'
 project_image: 'https://img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102124'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102124'
 original_project_ids:
   - '5102124'
 original_project_titles:

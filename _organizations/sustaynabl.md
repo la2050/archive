@@ -20,11 +20,11 @@ zip: '90017'
 project_image: 'https://img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'
   year_submitted:
     - '2015'
+  project_ids: []
 original_project_ids:
   - '5102284'
 original_project_titles:

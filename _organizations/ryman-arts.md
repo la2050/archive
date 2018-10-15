@@ -23,9 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/eWUHxpi7AOI?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102201'
-    - '3102230'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-big-draw-la-drawing-festival-drawing-los-angeles-together!
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2013'
+  project_ids:
+    - '6102201'
+    - '3102230'
 original_project_ids:
   - '3102230'
   - '6102201'

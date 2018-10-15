@@ -46,12 +46,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16490%252Fdisplay%252FAxSBrochure_Cover_v2.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102214'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/axsfestival.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102214'
 original_project_ids: []
 original_project_titles:
   - 'AxS [ak-sis] Festival'

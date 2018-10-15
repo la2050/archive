@@ -25,12 +25,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102022'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102022'
 original_project_ids:
   - '5102022'
 original_project_titles:

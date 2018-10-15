@@ -23,12 +23,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/ucla-mobile-eye-clinic-umec.jpg
 project_video: 'https://www.youtube.com/watch?v=XX7-agoIc2M'
 aggregated:
-  project_ids:
-    - '8102130'
   challenge_url:
     - 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102130'
 original_project_ids:
   - '8102130'
 original_project_titles:

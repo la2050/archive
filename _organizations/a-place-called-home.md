@@ -24,12 +24,12 @@ zip: '90011'
 project_image: 'https://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102006'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102006'
 original_project_ids:
   - '5102006'
 original_project_titles:

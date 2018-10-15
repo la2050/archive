@@ -22,12 +22,12 @@ zip: '90029'
 project_image: 'https://img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102248'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102248'
 original_project_ids:
   - '5102248'
 original_project_titles:

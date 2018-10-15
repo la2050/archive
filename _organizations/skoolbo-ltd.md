@@ -44,12 +44,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/Jw8-KCURHUA/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102091'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/proveLAKidsRock.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102091'
 original_project_ids:
   - '3102091'
   - '3102091'

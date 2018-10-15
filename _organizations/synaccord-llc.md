@@ -22,10 +22,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102293'
-    - '6102234'
-    - '4102205'
   challenge_url:
     - 'https://activation.la2050.org/connect/synaccord-llc/'
     - 'https://challenge.la2050.org/entry/engage-your-neighborhood'
@@ -34,6 +30,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
+  project_ids:
+    - '5102293'
+    - '6102234'
+    - '4102205'
 original_project_ids:
   - '5102285'
   - '6102234'

@@ -22,15 +22,15 @@ zip: '91342'
 project_image: 'https://img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102318'
-    - '3102258'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/poetry.html'
     - 'http://maker.good.is/myla2050/projects/tiachucha.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102318'
+    - '3102258'
 original_project_ids:
   - '5102318'
 original_project_titles:

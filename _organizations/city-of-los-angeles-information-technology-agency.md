@@ -21,13 +21,13 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 project_video: 'https://youtu.be/5eE1kF4xL2U'
 aggregated:
-  project_ids:
-    - '8102025'
   challenge_url:
     - >-
       https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102025'
 original_project_ids:
   - '8102025'
 original_project_titles:

@@ -21,12 +21,12 @@ zip: '90016'
 project_image: 'https://img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102222'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102222'
 original_project_ids:
   - '5102132'
   - '5102132'

@@ -24,12 +24,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24149%252Fdisplay%252FScreen_Shot_2015-10-15_at_12.10.38_PM.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102173'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Lapdyouthconference.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102173'
 original_project_ids:
   - '5102173'
 original_project_titles:

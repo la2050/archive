@@ -21,12 +21,12 @@ zip: '90036'
 project_image: 'https://img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102312'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/storyproject.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102312'
 original_project_ids:
   - '5102312'
 original_project_titles:

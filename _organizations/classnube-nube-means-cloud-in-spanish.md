@@ -23,12 +23,12 @@ zip: '91364'
 project_image: 'https://img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102099'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '4102099'
 original_project_ids:
   - '5102065'
 original_project_titles:

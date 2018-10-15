@@ -24,12 +24,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21750%252Fdisplay%252Fsafari.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102100'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102100'
 original_project_ids:
   - '4102242'
 original_project_titles:

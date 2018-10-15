@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
 project_video: 'https://www.youtube.com/embed/9fQj9v92GS4?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102036'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102036'
 original_project_ids:
   - '6102036'
 original_project_titles:

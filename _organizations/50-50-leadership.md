@@ -19,12 +19,12 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9273888445741-team90.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102002'
   challenge_url:
     - 'https://challenge.la2050.org/entry/fostering-safe-communities'
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102002'
 original_project_ids:
   - '6102002'
 original_project_titles:

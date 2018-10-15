@@ -20,12 +20,12 @@ zip: '90505'
 project_image: 'https://img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102007'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102007'
 original_project_ids:
   - '4102009'
 original_project_titles:

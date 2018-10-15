@@ -20,13 +20,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102020'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102020'
 original_project_ids:
   - '6102020'
 original_project_titles:

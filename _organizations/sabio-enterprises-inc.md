@@ -22,14 +22,14 @@ zip: '90094'
 project_image: 'https://img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102231'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Transformation.html'
     - 'http://maker.good.is/myla2050/projects/Sabio.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '3102231'
 original_project_ids:
   - '4102184'
 original_project_titles:

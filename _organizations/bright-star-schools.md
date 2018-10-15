@@ -96,12 +96,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/-t89MRZW7G0/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102042'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/connections.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102042'
 original_project_ids:
   - '3102042'
 original_project_titles:

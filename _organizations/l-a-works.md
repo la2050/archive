@@ -23,9 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 project_video: 'https://www.youtube.com/embed/rDnYXMVy1xo?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102118'
-    - '5102165'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102118'
+    - '5102165'
 original_project_ids:
   - '5102165'
   - '6102118'

@@ -22,13 +22,13 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
 project_video: 'https://vimeo.com/241727342'
 aggregated:
-  project_ids:
-    - '8102004'
   challenge_url:
     - >-
       https://activation.la2050.org/live/a-healthier-community-starts-with-youth/
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102004'
 original_project_ids:
   - '8102004'
 original_project_titles:

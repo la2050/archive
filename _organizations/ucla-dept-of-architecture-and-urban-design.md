@@ -36,12 +36,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16612%252Fdisplay%252FHYPOPARK.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102261'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102261'
 original_project_ids:
   - '3102261'
 original_project_titles:

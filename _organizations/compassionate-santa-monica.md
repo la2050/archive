@@ -18,13 +18,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 project_video: 'https://www.youtube.com/embed/7bCjkM0o31Y?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102053'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102053'
 original_project_ids:
   - '6102053'
 original_project_titles:

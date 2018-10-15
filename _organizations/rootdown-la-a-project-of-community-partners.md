@@ -26,12 +26,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23812%252Fdisplay%252FRD_APCH_Training_Install_Mar_15_4web.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102256'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/rootdownla.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102256'
 original_project_ids:
   - '5102256'
 original_project_titles:

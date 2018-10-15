@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23728%252Fdisplay%252FEarnlogopage2.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102089'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/save.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102089'
 original_project_ids:
   - '5102089'
 original_project_titles:

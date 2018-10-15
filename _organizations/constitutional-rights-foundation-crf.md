@@ -20,12 +20,12 @@ zip: '90005'
 project_image: 'https://img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102022'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/CivicActionProject.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102022'
 original_project_ids:
   - '4102048'
 original_project_titles:

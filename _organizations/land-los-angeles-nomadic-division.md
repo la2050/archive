@@ -21,15 +21,15 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102126'
-    - '4102231'
   challenge_url:
     - 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
     - 'http://maker.good.is/myLA2050connect/projects/ArtsLANDed.html'
   year_submitted:
     - '2016'
     - '2014'
+  project_ids:
+    - '6102126'
+    - '4102231'
 original_project_ids:
   - '4102112'
   - '6102126'
