@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Branding While Broke presents BRANDNEW YOUth, A Brand Development Program
+    for Male Teens of Color.
 organization_id: '2016057'
 title: Continuous Good
 org_type: Forprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102114'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102114'
-original_project_ids:
-  - '6102114'
-original_project_titles:
-  - >-
-    Branding While Broke presents BRANDNEW YOUth, A Brand Development Program
-    for Male Teens of Color.
-extrapolated_project_ids:
-  - '6102114'
-extrapolated_project_titles:
-  - >-
-    Branding While Broke presents BRANDNEW YOUth, A Brand Development Program
-    for Male Teens of Color.
 
 ---

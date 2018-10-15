@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: LA_CAUSA.jpg
+project_titles:
+  - Youth Take Their Lives Off The Streets And Into Gardens
 maker_image_id: '16688'
 organization_id: '2013122'
 title: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
@@ -26,6 +28,9 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16688%252Fdisplay%252FLA_CAUSA.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102183'
+  - '3102169'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
@@ -39,13 +44,5 @@ aggregated:
     - '3102183'
     - '3102169'
     - '3102168'
-original_project_ids:
-  - '3102169'
-original_project_titles:
-  - Youth Take Their Lives Off The Streets And Into Gardens
-extrapolated_project_ids:
-  - '3102183'
-extrapolated_project_titles:
-  - Youth Take Their Lives Off The Streets And Into Gardens
 
 ---

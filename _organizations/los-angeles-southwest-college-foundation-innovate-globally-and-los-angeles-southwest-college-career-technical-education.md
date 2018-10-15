@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: codetechiq.jpg
+project_titles:
+  - Innov8-Helping Other Create Opportunities.  South LA's Silicon Valley!
+  - Innov8-Helping Other Create Opportunities. South LAs Silicon Valley!
 maker_image_id: '24010'
 organization_id: '2015129'
 title: >-
@@ -26,6 +29,8 @@ zip: '90047'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24010%252Fdisplay%252Fcodetechiq.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102196'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/Innov8.html'
@@ -33,13 +38,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102196'
-original_project_ids:
-  - '5102196'
-original_project_titles:
-  - Innov8-Helping Other Create Opportunities.  South LA's Silicon Valley!
-extrapolated_project_ids:
-  - '5102196'
-extrapolated_project_titles:
-  - Innov8-Helping Other Create Opportunities. South LAs Silicon Valley!
 
 ---

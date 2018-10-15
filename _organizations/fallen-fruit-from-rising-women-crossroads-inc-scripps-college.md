@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: Ht0-3dSjCew
+project_titles:
+  - >-
+    Fallen Fruit from Rising Women: Empowering women through social enterprise
+    and food justice
 organization_id: '2015062'
 title: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
 org_type: Nonprofit
@@ -23,6 +27,8 @@ ein: '952925985'
 zip: '91711'
 project_image: 'https://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102099'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
@@ -33,17 +39,5 @@ aggregated:
   project_ids:
     - '5102099'
     - '4102025'
-original_project_ids:
-  - '5102099'
-original_project_titles:
-  - >-
-    Fallen Fruit from Rising Women: Empowering women through social enterprise
-    and food justice
-extrapolated_project_ids:
-  - '5102099'
-extrapolated_project_titles:
-  - >-
-    Fallen Fruit from Rising Women: Empowering women through social enterprise
-    and food justice
 
 ---

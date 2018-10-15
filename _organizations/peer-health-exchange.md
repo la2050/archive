@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - Access to Health Resources for Young People
+  - Empowering Teens to Make Healthy Decisions
+  - Empowering Teens with the Knowledge and Skills to Make Healthy Decisions
 organization_id: '2018094'
 title: Peer Health Exchange
 org_type: Nonprofit
@@ -21,6 +25,10 @@ zip: '90017'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 project_video: ''
+project_ids:
+  - '8102094'
+  - '4102086'
+  - '3102216'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/peer-health-exchange/'
@@ -33,15 +41,5 @@ aggregated:
     - '8102094'
     - '4102260'
     - '3102216'
-original_project_ids:
-  - '4102086'
-  - '8102094'
-original_project_titles:
-  - Access to Health Resources for Young People
-  - Empowering Teens to Make Healthy Decisions
-extrapolated_project_ids:
-  - '3102216'
-extrapolated_project_titles:
-  - Empowering Teens with the Knowledge and Skills to Make Healthy Decisions
 
 ---

@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: urban_air.jpg
+project_titles:
+  - URBAN AIR
 maker_image_id: '21229'
 organization_id: '2014102'
 title: URBAN AIR
@@ -21,6 +23,9 @@ zip: '90290'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102246'
+  - '3102098'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
@@ -30,13 +35,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102098'
-original_project_ids:
-  - '3102098'
-original_project_titles:
-  - URBAN AIR
-extrapolated_project_ids:
-  - '4102246'
-extrapolated_project_titles:
-  - URBAN AIR
 
 ---

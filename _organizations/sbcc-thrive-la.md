@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: Hey6DKTLdw8
+project_titles:
+  - Preschool Without Walls
 organization_id: '2015175'
 title: SBCC Thrive LA
 org_type: Nonprofit
@@ -23,6 +25,8 @@ ein: '237360521'
 zip: '90744'
 project_image: 'https://img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102262'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'
@@ -33,13 +37,5 @@ aggregated:
   project_ids:
     - '5102262'
     - '4102209'
-original_project_ids:
-  - '5102262'
-original_project_titles:
-  - Preschool Without Walls
-extrapolated_project_ids:
-  - '5102262'
-extrapolated_project_titles:
-  - Preschool Without Walls
 
 ---

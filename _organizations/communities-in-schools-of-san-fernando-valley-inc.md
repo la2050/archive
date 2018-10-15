@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Games_for_Peace.jpg
+project_titles:
+  - Peace to Prosperity
 maker_image_id: '16714'
 organization_id: '2013043'
 title: 'Communities In Schools of San Fernando Valley, Inc.'
@@ -69,6 +71,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16714%252Fdisplay%252FGames_for_Peace.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102086'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/PTP.html'
@@ -76,13 +80,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102086'
-original_project_ids:
-  - '3102086'
-original_project_titles:
-  - Peace to Prosperity
-extrapolated_project_ids:
-  - '3102086'
-extrapolated_project_titles:
-  - Peace to Prosperity
 
 ---

@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: xzNGKe7E2iE
+project_titles:
+  - 'AnonymousGood: LAGood posts 50,000 Acts of Good 4 LA2050  '
+  - 'AnonymousGood: LAGood posts 50000 Acts of Good 4 LA2050'
 organization_id: '2014006'
 title: 'Anonymous Good [AG] is a project of Voices4Freedom'
 org_type: Nonprofit
@@ -19,6 +22,8 @@ ein: '460876560'
 zip: '90505'
 project_image: 'https://img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102009'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
@@ -26,13 +31,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102007'
-original_project_ids:
-  - '4102009'
-original_project_titles:
-  - 'AnonymousGood: LAGood posts 50,000 Acts of Good 4 LA2050  '
-extrapolated_project_ids:
-  - '4102009'
-extrapolated_project_titles:
-  - 'AnonymousGood: LAGood posts 50000 Acts of Good 4 LA2050'
 
 ---

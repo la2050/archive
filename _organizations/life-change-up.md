@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: _AEWWNe6eQw
+project_titles:
+  - Walking to Wellness Program
 organization_id: '2015114'
 title: Life Change Up
 org_type: Other
@@ -21,6 +23,8 @@ ein: '475212304'
 zip: '90069'
 project_image: 'https://img.youtube.com/vi/_AEWWNe6eQw/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102176'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/walking.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102176'
-original_project_ids:
-  - '5102176'
-original_project_titles:
-  - Walking to Wellness Program
-extrapolated_project_ids:
-  - '5102176'
-extrapolated_project_titles:
-  - Walking to Wellness Program
 
 ---

@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - Empower low income youth to break out of the poverty cycle!
+  - YOUTH BUSINESS ALLIANCE
 organization_id: '2016261'
 title: Youth Business Alliance
 org_type: Nonprofit
@@ -21,6 +24,9 @@ zip: '90245'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 project_video: ''
+project_ids:
+  - '6102287'
+  - '5102344'
 aggregated:
   challenge_url:
     - >-
@@ -32,17 +38,5 @@ aggregated:
   project_ids:
     - '6102287'
     - '5102344'
-original_project_ids:
-  - '5102344'
-  - '6102287'
-original_project_titles:
-  - Empower low income youth to break out of the poverty cycle!
-  - YOUTH BUSINESS ALLIANCE
-extrapolated_project_ids:
-  - '6102287'
-  - '5102344'
-extrapolated_project_titles:
-  - Empower low income youth to break out of the poverty cycle!
-  - YOUTH BUSINESS ALLIANCE
 
 ---

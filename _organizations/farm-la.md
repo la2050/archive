@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: 2050_Lg.jpg
+project_titles:
+  - Help Save The LAnd with Farm LA
 maker_image_id: '23612'
 organization_id: '2015063'
 title: Farm LA
@@ -22,6 +24,8 @@ zip: '90039'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23612%252Fdisplay%252F2050_Lg.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102100'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
@@ -29,13 +33,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102100'
-original_project_ids:
-  - '5102100'
-original_project_titles:
-  - Help Save The LAnd with Farm LA
-extrapolated_project_ids:
-  - '5102100'
-extrapolated_project_titles:
-  - Help Save The LAnd with Farm LA
 
 ---

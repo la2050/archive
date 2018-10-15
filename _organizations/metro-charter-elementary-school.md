@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - '''PEOPLE IN ME'' Interactive Cyber Mural'
+  - PEOPLE IN ME' Interactive Cyber Mural
 organization_id: '2016147'
 title: METRO Charter Elementary School
 org_type: Nonprofit
@@ -20,6 +23,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0883163005741-team91.jpg
 project_video: 'https://www.youtube.com/embed/KLFAAlK8ZLI?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102154'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
@@ -27,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102154'
-original_project_ids:
-  - '6102154'
-original_project_titles:
-  - '''PEOPLE IN ME'' Interactive Cyber Mural'
-extrapolated_project_ids:
-  - '6102154'
-extrapolated_project_titles:
-  - PEOPLE IN ME' Interactive Cyber Mural
 
 ---

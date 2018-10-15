@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: Eg3e5xfocOk
+project_titles:
+  - 'Create LA: The Place Where No Space – or Life – is Wasted'
 organization_id: '2014005'
 title: Alma Backyard Farms
 org_type: Nonprofit
@@ -21,6 +23,8 @@ ein: '463516486'
 zip: '90063'
 project_image: 'https://img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102006'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102006'
-original_project_ids:
-  - '4102006'
-original_project_titles:
-  - 'Create LA: The Place Where No Space – or Life – is Wasted'
-extrapolated_project_ids:
-  - '4102006'
-extrapolated_project_titles:
-  - 'Create LA: The Place Where No Space – or Life – is Wasted'
 
 ---

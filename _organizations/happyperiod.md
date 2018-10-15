@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Normalize Periods by Giving Back!
 organization_id: '2018001'
 title: '#HappyPeriod'
 org_type: Nonprofit
@@ -21,6 +23,8 @@ ein: '474333055'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg'
 project_video: 'https://youtu.be/goBUjr5-dRA'
+project_ids:
+  - '8102001'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/happyperiod/'
@@ -28,13 +32,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102001'
-original_project_ids:
-  - '8102001'
-original_project_titles:
-  - Normalize Periods by Giving Back!
-extrapolated_project_ids:
-  - '8102001'
-extrapolated_project_titles:
-  - Normalize Periods by Giving Back!
 
 ---

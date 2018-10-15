@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Playascape: Transforming LA into an artistic playground that inspires
+    innovation with public art
 organization_id: '2016145'
 title: Make Music Los Angeles
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 project_video: 'https://youtube.com/embed/xSGbvkEdpJE?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102152'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102152'
-original_project_ids:
-  - '6102152'
-original_project_titles:
-  - >-
-    Playascape: Transforming LA into an artistic playground that inspires
-    innovation with public art
-extrapolated_project_ids:
-  - '6102152'
-extrapolated_project_titles:
-  - >-
-    Playascape: Transforming LA into an artistic playground that inspires
-    innovation with public art
 
 ---

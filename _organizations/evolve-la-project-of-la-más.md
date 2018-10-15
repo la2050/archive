@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Open House LA: making los angeles more open to more housing'
 organization_id: '2016075'
 title: Evolve LA (project of LA-Más)
 org_type: Nonprofit
@@ -19,6 +21,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
 project_video: ''
+project_ids:
+  - '6102066'
 aggregated:
   challenge_url:
     - >-
@@ -27,13 +31,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102066'
-original_project_ids:
-  - '6102066'
-original_project_titles:
-  - 'Open House LA: making los angeles more open to more housing'
-extrapolated_project_ids:
-  - '6102066'
-extrapolated_project_titles:
-  - 'Open House LA: making los angeles more open to more housing'
 
 ---

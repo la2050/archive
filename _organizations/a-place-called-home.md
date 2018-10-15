@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: wzFv5uV3pew
+project_titles:
+  - Play for Life in South LA
 organization_id: '2015002'
 title: A Place Called Home
 org_type: Nonprofit
@@ -23,6 +25,8 @@ ein: '954427291'
 zip: '90011'
 project_image: 'https://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102006'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
@@ -30,13 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102006'
-original_project_ids:
-  - '5102006'
-original_project_titles:
-  - Play for Life in South LA
-extrapolated_project_ids:
-  - '5102006'
-extrapolated_project_titles:
-  - Play for Life in South LA
 
 ---

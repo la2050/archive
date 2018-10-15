@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - STOP WREX! DRIVE WITHOUT TEXT/ALTO WREX! MANEJA SIN EL TEXT /
 organization_id: '2018052'
 title: Health Core Possibilities
 org_type: Forprofit
@@ -22,6 +24,8 @@ zip: '94113'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
 project_video: 'https://www.youtube.com/watch?v=2x_ao5Cxho8'
+project_ids:
+  - '8102052'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/health-core-possibilities/'
@@ -29,11 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102091'
-original_project_ids:
-  - '8102052'
-original_project_titles:
-  - STOP WREX! DRIVE WITHOUT TEXT/ALTO WREX! MANEJA SIN EL TEXT /
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

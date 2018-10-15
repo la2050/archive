@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: AplusD-ReveaLALA.jpg
+project_titles:
+  - ReveaLALA
 maker_image_id: '23861'
 organization_id: '2015012'
 title: Architecture and Design Museum (A+D)
@@ -22,6 +24,8 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23861%252Fdisplay%252FAplusD-ReveaLALA.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102019'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/AplusD.html'
@@ -29,13 +33,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102019'
-original_project_ids:
-  - '5102019'
-original_project_titles:
-  - ReveaLALA
-extrapolated_project_ids:
-  - '5102019'
-extrapolated_project_titles:
-  - ReveaLALA
 
 ---

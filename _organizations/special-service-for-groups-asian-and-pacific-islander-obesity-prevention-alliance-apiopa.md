@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: DXcrNhhe5V0
+project_titles:
+  - Chinatown Food Hub
 organization_id: '2013170'
 title: >-
   Special Service for Groups/Asian and Pacific Islander Obesity Prevention
@@ -58,6 +60,8 @@ ein: '951716914'
 zip: ''
 project_image: 'https://img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102236'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
@@ -65,13 +69,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102236'
-original_project_ids:
-  - '3102236'
-original_project_titles:
-  - Chinatown Food Hub
-extrapolated_project_ids:
-  - '3102236'
-extrapolated_project_titles:
-  - Chinatown Food Hub
 
 ---

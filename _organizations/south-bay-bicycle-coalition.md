@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Activate South Bay LA Trails!
 organization_id: '2018111'
 title: South Bay Bicycle Coalition
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: '90014'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 project_video: 'https://youtu.be/ZE0fqJVRj80'
+project_ids:
+  - '8102111'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
@@ -29,11 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102111'
-original_project_ids:
-  - '8102111'
-original_project_titles:
-  - Activate South Bay LA Trails!
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

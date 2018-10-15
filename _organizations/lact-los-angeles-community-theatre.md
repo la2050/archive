@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: fRmzSDzuoRA
+project_titles:
+  - LACT - Los Angeles Community Theatre
 organization_id: '2015110'
 title: LACT - Los Angeles Community Theatre
 org_type: Nonprofit
@@ -17,6 +19,8 @@ ein: '475244207'
 zip: '90031'
 project_image: 'https://img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102171'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/LACT.html'
@@ -24,13 +28,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102171'
-original_project_ids:
-  - '5102171'
-original_project_titles:
-  - LACT - Los Angeles Community Theatre
-extrapolated_project_ids:
-  - '5102171'
-extrapolated_project_titles:
-  - LACT - Los Angeles Community Theatre
 
 ---

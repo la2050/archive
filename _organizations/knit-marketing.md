@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Providing Quality Job Access to Untapped Teens and Young Adults
 organization_id: '2016118'
 title: Knit Marketing
 org_type: Forprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8216358055741-team91.jpg
 project_video: 'https://www.youtube.com/embed/TsbsuQ8zdgM?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102186'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102186'
-original_project_ids:
-  - '6102186'
-original_project_titles:
-  - Providing Quality Job Access to Untapped Teens and Young Adults
-extrapolated_project_ids:
-  - '6102186'
-extrapolated_project_titles:
-  - Providing Quality Job Access to Untapped Teens and Young Adults
 
 ---

@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'EVERYONE IN: Preventing 30,000 Angelenos from Becoming Homeless'
 organization_id: '2018132'
 title: United Way of Greater Los Angeles
 org_type: Nonprofit
@@ -31,6 +33,8 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
 project_video: 'https://youtu.be/omjbiTiHXxU'
+project_ids:
+  - '8102132'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
@@ -41,11 +45,5 @@ aggregated:
   project_ids:
     - '8102132'
     - '3102265'
-original_project_ids:
-  - '8102132'
-original_project_titles:
-  - 'EVERYONE IN: Preventing 30,000 Angelenos from Becoming Homeless'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

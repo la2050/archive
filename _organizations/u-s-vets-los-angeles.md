@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: WestsideONE.jpg
+project_titles:
+  - Veteran Housing Retention Initiative
 maker_image_id: '17006'
 organization_id: '2013200'
 title: U.S. VETS - Los Angeles
@@ -34,6 +36,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17006%252Fdisplay%252FWestsideONE.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102260'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/housevets.html'
@@ -41,13 +45,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102260'
-original_project_ids:
-  - '3102260'
-original_project_titles:
-  - Veteran Housing Retention Initiative
-extrapolated_project_ids:
-  - '3102260'
-extrapolated_project_titles:
-  - Veteran Housing Retention Initiative
 
 ---

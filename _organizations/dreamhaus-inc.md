@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: yy9nnTHABlE
+project_titles:
+  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
 organization_id: '2015052'
 title: Dreamhaus Inc.
 org_type: Nonprofit
@@ -21,6 +23,8 @@ ein: '471275709'
 zip: '90301'
 project_image: 'https://img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102085'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102085'
-original_project_ids:
-  - '5102085'
-original_project_titles:
-  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
-extrapolated_project_ids:
-  - '5102085'
-extrapolated_project_titles:
-  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
 
 ---

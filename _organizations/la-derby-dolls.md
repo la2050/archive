@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    LA Derby Dolls: Promoting Social and Emotional Support Through Women's Team
+    Sports
 organization_id: '2016121'
 title: LA Derby Dolls
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
 project_video: 'https://www.youtube.com/embed/DLg3R9NTcNc?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102120'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102120'
-original_project_ids:
-  - '6102120'
-original_project_titles:
-  - >-
-    LA Derby Dolls: Promoting Social and Emotional Support Through Women's Team
-    Sports
-extrapolated_project_ids:
-  - '6102120'
-extrapolated_project_titles:
-  - >-
-    LA Derby Dolls: Promoting Social and Emotional Support Through Women's Team
-    Sports
 
 ---

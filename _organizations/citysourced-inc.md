@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: zenfunder-la2050.png
+project_titles:
+  - Civic Crowdfunding Platform for Local Government and Schools
+  - Smartphone App for Civic Crime Reporting
 maker_image_id: '16290'
 organization_id: '2013037'
 title: 'CitySourced, Inc.'
@@ -53,6 +56,9 @@ ein: '271272815'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids:
+  - '3102019'
+  - '3102017'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
@@ -63,17 +69,5 @@ aggregated:
   project_ids:
     - '3102017'
     - '3102017'
-original_project_ids:
-  - '3102017'
-  - '3102019'
-original_project_titles:
-  - Civic Crowdfunding Platform for Local Government and Schools
-  - Smartphone App for Civic Crime Reporting
-extrapolated_project_ids:
-  - '3102017'
-  - '3102019'
-extrapolated_project_titles:
-  - Civic Crowdfunding Platform for Local Government and Schools
-  - Smartphone App for Civic Crime Reporting
 
 ---

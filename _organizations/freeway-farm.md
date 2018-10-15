@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: LA2050_Freeway_Growth.jpg
+project_titles:
+  - Freeway Farm Green Infrastructure Pilot Project
 maker_image_id: '24023'
 organization_id: '2015067'
 title: Freeway Farm
@@ -22,6 +24,8 @@ zip: '91103'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24023%252Fdisplay%252FLA2050_Freeway_Growth.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102105'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FreewayFarm.html'
@@ -29,13 +33,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102105'
-original_project_ids:
-  - '5102105'
-original_project_titles:
-  - Freeway Farm Green Infrastructure Pilot Project
-extrapolated_project_ids:
-  - '5102105'
-extrapolated_project_titles:
-  - Freeway Farm Green Infrastructure Pilot Project
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: nO6H3p5HpV4
+project_titles:
+  - Moving Voices of Los Angeles
 organization_id: '2013065'
 title: Filipino Migrant Center
 org_type: Nonprofit
@@ -38,6 +40,8 @@ ein: '320308477'
 zip: ''
 project_image: 'https://img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102126'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/voices.html'
@@ -45,13 +49,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102126'
-original_project_ids:
-  - '3102126'
-original_project_titles:
-  - Moving Voices of Los Angeles
-extrapolated_project_ids:
-  - '3102126'
-extrapolated_project_titles:
-  - Moving Voices of Los Angeles
 
 ---

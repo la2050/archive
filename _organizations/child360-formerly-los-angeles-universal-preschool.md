@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - 'Community: Where strong families are made'
+  - 'Community: Where strong families are made '
 organization_id: '2018018'
 title: Child360 (formerly Los Angeles Universal Preschool)
 org_type: Nonprofit
@@ -22,6 +25,8 @@ zip: '90024'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
 project_video: 'https://youtu.be/3lSBgCsP9Sg'
+project_ids:
+  - '8102018'
 aggregated:
   challenge_url:
     - >-
@@ -33,13 +38,5 @@ aggregated:
   project_ids:
     - '8102018'
     - '3102176'
-original_project_ids:
-  - '8102018'
-original_project_titles:
-  - 'Community: Where strong families are made'
-extrapolated_project_ids:
-  - '8102018'
-extrapolated_project_titles:
-  - 'Community: Where strong families are made '
 
 ---

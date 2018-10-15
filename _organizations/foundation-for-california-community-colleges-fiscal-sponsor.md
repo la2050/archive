@@ -1,5 +1,12 @@
 ---
 youtube_video_identifier: q2OELc_KuI4
+project_titles:
+  - >-
+    PlanYour Future: Helping 6th-12th grade students plan, prepare and figure
+    out how to pay for college
+  - >-
+    PlanYour Future: Helping 6th-12th grade students plan prepare and figure out
+    how to pay for college
 organization_id: '2014141'
 title: Foundation for California Community Colleges (Fiscal Sponsor)
 org_type: Nonprofit
@@ -18,23 +25,13 @@ ein: '680412350'
 zip: '95811'
 project_image: 'https://img.youtube.com/vi/q2OELc_KuI4/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102074'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102127'
-original_project_ids:
-  - '4102074'
-original_project_titles:
-  - >-
-    PlanYour Future: Helping 6th-12th grade students plan, prepare and figure
-    out how to pay for college
-extrapolated_project_ids:
-  - '4102074'
-extrapolated_project_titles:
-  - >-
-    PlanYour Future: Helping 6th-12th grade students plan prepare and figure out
-    how to pay for college
 
 ---

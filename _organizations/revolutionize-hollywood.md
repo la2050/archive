@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
+    Place for creatives.
 organization_id: '2018103'
 title: Revolutionize Hollywood
 org_type: Social enterprise or Bcorps
@@ -22,6 +26,8 @@ zip: '90024'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
 project_video: ''
+project_ids:
+  - '8102103'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/revolutionize-hollywood/'
@@ -29,17 +35,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102103'
-original_project_ids:
-  - '8102103'
-original_project_titles:
-  - >-
-    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
-    Place for creatives.
-extrapolated_project_ids:
-  - '8102103'
-extrapolated_project_titles:
-  - >-
-    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
-    Place for creatives.
 
 ---

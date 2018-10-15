@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: s-SSOCwgWEs
+project_titles:
+  - 'Paint to Succeed '
+  - Paint to Succeed
 organization_id: '2015181'
 title: Siqueiros Foundation of the Arts
 org_type: Nonprofit
@@ -19,6 +22,8 @@ ein: '55777888'
 zip: '90034'
 project_image: 'https://img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102268'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
@@ -26,13 +31,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102268'
-original_project_ids:
-  - '5102268'
-original_project_titles:
-  - 'Paint to Succeed '
-extrapolated_project_ids:
-  - '5102268'
-extrapolated_project_titles:
-  - Paint to Succeed
 
 ---

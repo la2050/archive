@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: kQnTJYkpO4A
+project_titles:
+  - Healthy Streams for Angelenos
+  - 'The Pulse of Los Angeles: Assessing the Watersheds'
+  - Why is the grass always greener over the leach fields?
 organization_id: '2015046'
 title: Council for Watershed Health
 org_type: Nonprofit
@@ -22,6 +26,10 @@ ein: '261198327'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102078'
+  - '3102093'
+  - '3102047'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
@@ -32,17 +40,5 @@ aggregated:
   project_ids:
     - '5102079'
     - '3102093'
-original_project_ids:
-  - '3102047'
-  - '3102093'
-  - '5102078'
-original_project_titles:
-  - Healthy Streams for Angelenos
-  - 'The Pulse of Los Angeles: Assessing the Watersheds'
-  - Why is the grass always greener over the leach fields?
-extrapolated_project_ids:
-  - '3102093'
-extrapolated_project_titles:
-  - 'The Pulse of Los Angeles: Assessing the Watersheds'
 
 ---

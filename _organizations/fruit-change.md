@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: IMG_7734.jpeg
+project_titles:
+  - Fruit Change
 maker_image_id: '23782'
 organization_id: '2015070'
 title: Fruit Change
@@ -23,19 +25,13 @@ zip: '90731'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23782%252Fdisplay%252FIMG_7734.jpeg=c570x385
 project_video: ''
+project_ids:
+  - '5102108'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
   year_submitted:
     - '2015'
   project_ids: []
-original_project_ids:
-  - '5102108'
-original_project_titles:
-  - Fruit Change
-extrapolated_project_ids:
-  - '5102108'
-extrapolated_project_titles:
-  - Fruit Change
 
 ---

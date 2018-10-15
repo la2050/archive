@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: V_x6dj_Fa9M
+project_titles:
+  - >-
+    Liberate Arts! Intersect Our Communities! Create a Liberation Arts Institute
+    to make our own stories
 organization_id: '2014049'
 title: LACE Center
 org_type: Nonprofit
@@ -19,6 +23,8 @@ ein: '954230350'
 zip: '90018'
 project_image: 'https://img.youtube.com/vi/V_x6dj_Fa9M/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102111'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
@@ -26,17 +32,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102050'
-original_project_ids:
-  - '4102111'
-original_project_titles:
-  - >-
-    Liberate Arts! Intersect Our Communities! Create a Liberation Arts Institute
-    to make our own stories
-extrapolated_project_ids:
-  - '4102111'
-extrapolated_project_titles:
-  - >-
-    Liberate Arts! Intersect Our Communities! Create a Liberation Arts Institute
-    to make our own stories
 
 ---

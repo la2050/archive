@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: Q4dC-OX4vTw
+project_titles:
+  - 'MLoveizm Supports, Empowers and Inspires Los Angeles Artists'
+  - MLoveizm Supports Empowers and Inspires Los Angeles Artists
 organization_id: '2013137'
 title: MLoveizm Inc.
 org_type: For profit
@@ -25,6 +28,8 @@ ein: '452495405'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102077'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/mloveizm.html'
@@ -32,15 +37,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102077'
-original_project_ids:
-  - '3102077'
-  - '3102077'
-original_project_titles:
-  - 'MLoveizm Supports, Empowers and Inspires Los Angeles Artists'
-  - 'MLoveizm Supports, Empowers and Inspires Los Angeles Artists'
-extrapolated_project_ids:
-  - '3102077'
-extrapolated_project_titles:
-  - MLoveizm Supports Empowers and Inspires Los Angeles Artists
 
 ---

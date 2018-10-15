@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - IN House - Collaborative Affordable Housing Design
 organization_id: '2018023'
 title: City Fabrick
 org_type: Nonprofit
@@ -18,6 +20,8 @@ ein: '451130362'
 zip: '90015'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/city-fabrick.jpg'
 project_video: 'https://youtu.be/dUZCmEGdjvM'
+project_ids:
+  - '8102023'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/city-fabrick/'
@@ -25,11 +29,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102023'
-original_project_ids:
-  - '8102023'
-original_project_titles:
-  - IN House - Collaborative Affordable Housing Design
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

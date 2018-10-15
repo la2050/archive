@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Activating Tech Talent in LA
 organization_id: '2018033'
 title: Data 360
 org_type: Forprofit
@@ -18,6 +20,8 @@ ein: '813780149'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg'
 project_video: ''
+project_ids:
+  - '8102033'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/data-360/'
@@ -25,11 +29,5 @@ aggregated:
     - '2018'
   project_ids:
     - '4102106'
-original_project_ids:
-  - '8102033'
-original_project_titles:
-  - Activating Tech Talent in LA
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: r9LtyQwYAks
+project_titles:
+  - Education Refugees - Make a huge impact halfway around the world!
+  - Models of Mobilization
+  - 'TreeMapLA:  Crowd-Sourcing a Healthy Watershed, sponsored by TreePeople'
 organization_id: '2015214'
 title: TreePeople
 org_type: Nonprofit
@@ -21,6 +25,9 @@ ein: '237314838'
 zip: '90210'
 project_image: 'https://img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102322'
+  - '4102088'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ModelsofMobilization.html'
@@ -30,16 +37,5 @@ aggregated:
   project_ids:
     - '5102322'
     - '4102178'
-original_project_ids:
-  - '4102088'
-  - '5102322'
-original_project_titles:
-  - Education Refugees - Make a huge impact halfway around the world!
-  - Models of Mobilization
-  - 'TreeMapLA:  Crowd-Sourcing a Healthy Watershed, sponsored by TreePeople'
-extrapolated_project_ids:
-  - '5102322'
-extrapolated_project_titles:
-  - Models of Mobilization
 
 ---

@@ -1,4 +1,14 @@
 ---
+project_titles:
+  - >-
+    SoLA Food Co-op, a source for healthy food and community empowerment in
+    South LA
+  - >-
+    SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
+    Empowerment
+  - >-
+    SoLA Food Co-op a source for healthy food and community empowerment in South
+    LA
 organization_id: '2016195'
 title: SoLA Food Co-op
 org_type: Forprofit
@@ -19,6 +29,9 @@ zip: '90062'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
 project_video: 'https://www.youtube.com/embed/13VpJDoRnhg?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102231'
+  - '5102273'
 aggregated:
   challenge_url:
     - >-
@@ -29,25 +42,5 @@ aggregated:
     - '2015'
   project_ids:
     - '6102231'
-original_project_ids:
-  - '5102273'
-  - '6102231'
-original_project_titles:
-  - >-
-    SoLA Food Co-op, a source for healthy food and community empowerment in
-    South LA
-  - >-
-    SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
-    Empowerment
-extrapolated_project_ids:
-  - '6102231'
-  - '5102273'
-extrapolated_project_titles:
-  - >-
-    SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
-    Empowerment
-  - >-
-    SoLA Food Co-op a source for healthy food and community empowerment in South
-    LA
 
 ---

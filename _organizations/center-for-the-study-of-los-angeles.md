@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - LA Votes
 organization_id: '2016036'
 title: Center for the Study of Los Angeles
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
 project_video: ''
+project_ids:
+  - '6102033'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-votes'
@@ -27,13 +31,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102033'
-original_project_ids:
-  - '6102033'
-original_project_titles:
-  - LA Votes
-extrapolated_project_ids:
-  - '6102033'
-extrapolated_project_titles:
-  - LA Votes
 
 ---

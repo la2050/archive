@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Gaggle uses a fun wearable beacon and mobile app to create a revolutionary
+    new child safety service
 organization_id: '2016072'
 title: EPage
 org_type: Forprofit
@@ -19,6 +23,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9587467355741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102139'
 aggregated:
   challenge_url:
     - >-
@@ -27,17 +33,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102139'
-original_project_ids:
-  - '6102139'
-original_project_titles:
-  - >-
-    Gaggle uses a fun wearable beacon and mobile app to create a revolutionary
-    new child safety service
-extrapolated_project_ids:
-  - '6102139'
-extrapolated_project_titles:
-  - >-
-    Gaggle uses a fun wearable beacon and mobile app to create a revolutionary
-    new child safety service
 
 ---

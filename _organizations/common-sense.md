@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Closing the Digital Equity Gap for Underserved Latino Families with Common
+    Sense
 organization_id: '2018029'
 title: Common Sense
 org_type: Nonprofit
@@ -20,6 +24,8 @@ ein: '412024986'
 zip: '90292'
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg'
 project_video: 'https://www.youtube.com/watch?v=0ZmDMvQPyoE'
+project_ids:
+  - '8102029'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/common-sense/'
@@ -27,17 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102029'
-original_project_ids:
-  - '8102029'
-original_project_titles:
-  - >-
-    Closing the Digital Equity Gap for Underserved Latino Families with Common
-    Sense
-extrapolated_project_ids:
-  - '8102029'
-extrapolated_project_titles:
-  - >-
-    Closing the Digital Equity Gap for Underserved Latino Families with Common
-    Sense
 
 ---

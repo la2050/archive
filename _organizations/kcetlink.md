@@ -1,5 +1,9 @@
 ---
 maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
+project_titles:
+  - Artbound - Phase II
+  - Ballot Brief - Ground Game
+  - Ballot Brief  Ground Game
 maker_image_id: '17051'
 organization_id: '2013103'
 title: KCETLink
@@ -50,6 +54,9 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385
 project_video: ''
+project_ids:
+  - '3102164'
+  - '3102163'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/GroundGame.html'
@@ -60,16 +67,5 @@ aggregated:
   project_ids:
     - '3102163'
     - '3102163'
-original_project_ids:
-  - '3102163'
-original_project_titles:
-  - Artbound - Phase II
-  - Ballot Brief - Ground Game
-extrapolated_project_ids:
-  - '3102163'
-  - '3102164'
-extrapolated_project_titles:
-  - Ballot Brief  Ground Game
-  - Ballot Brief  Ground Game
 
 ---

@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: 12_Stills_from_videos.jpg
+project_titles:
+  - Out the Window
 maker_image_id: '21306'
 organization_id: '2014047'
 title: L.A. Freewaves
@@ -21,6 +23,8 @@ zip: '90028'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21306%252Fdisplay%252F12_Stills_from_videos.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102108'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
@@ -31,13 +35,5 @@ aggregated:
   project_ids:
     - '4102048'
     - '3102132'
-original_project_ids:
-  - '4102108'
-original_project_titles:
-  - Out the Window
-extrapolated_project_ids:
-  - '4102108'
-extrapolated_project_titles:
-  - Out the Window
 
 ---

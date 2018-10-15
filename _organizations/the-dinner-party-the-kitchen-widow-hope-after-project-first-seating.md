@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: YijVi1ZG5EM
+project_titles:
+  - The Good Grief Garden
 organization_id: '2015199'
 title: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
 org_type: Nonprofit
@@ -29,6 +31,8 @@ ein: '954302067'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102300'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
@@ -39,13 +43,5 @@ aggregated:
   project_ids:
     - '5102300'
     - '4102088'
-original_project_ids:
-  - '5102300'
-original_project_titles:
-  - The Good Grief Garden
-extrapolated_project_ids:
-  - '5102300'
-extrapolated_project_titles:
-  - The Good Grief Garden
 
 ---

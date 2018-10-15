@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: YufCYg-BYaY
+project_titles:
+  - Bruce Lee's Little Dragons
+  - Bruce Lees Little Dragons
 organization_id: '2015022'
 title: Bruce Lee Foundation
 org_type: Nonprofit
@@ -20,6 +23,8 @@ ein: '43657544'
 zip: '90049'
 project_image: 'https://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102036'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
@@ -27,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102036'
-original_project_ids:
-  - '5102036'
-original_project_titles:
-  - Bruce Lee's Little Dragons
-extrapolated_project_ids:
-  - '5102036'
-extrapolated_project_titles:
-  - Bruce Lees Little Dragons
 
 ---

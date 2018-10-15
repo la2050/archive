@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
+project_titles:
+  - downtown art walk votes
 maker_image_id: '23344'
 organization_id: '2015050'
 title: Downtown Los Angeles Art Walk
@@ -25,6 +27,8 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102083'
 aggregated:
   challenge_url:
     - >-
@@ -33,11 +37,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102084'
-original_project_ids:
-  - '5102083'
-original_project_titles:
-  - downtown art walk votes
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

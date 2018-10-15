@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: IMG_2944.JPG
+project_titles:
+  - L.A. Futures
 maker_image_id: '22179'
 organization_id: '2014161'
 title: Light Bringer Project
@@ -20,19 +22,13 @@ zip: '91105'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385
 project_video: ''
+project_ids:
+  - '4102120'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102144'
-original_project_ids:
-  - '4102120'
-original_project_titles:
-  - L.A. Futures
-extrapolated_project_ids:
-  - '4102120'
-extrapolated_project_titles:
-  - L.A. Futures
 
 ---

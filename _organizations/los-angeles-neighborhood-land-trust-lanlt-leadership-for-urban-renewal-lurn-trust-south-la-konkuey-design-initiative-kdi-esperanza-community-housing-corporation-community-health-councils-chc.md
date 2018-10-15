@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: KQnPSzqeZRk
+project_titles:
+  - 'FREE LOTS ANGELES: Transforming Vacant Lots into Neighborhood Assets'
 organization_id: '2015127'
 title: >-
   Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
@@ -24,6 +26,8 @@ ein: '383687836'
 zip: '90037'
 project_image: 'https://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102192'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
@@ -37,13 +41,5 @@ aggregated:
     - '5102192'
     - '4102202'
     - '3102188'
-original_project_ids:
-  - '5102192'
-original_project_titles:
-  - 'FREE LOTS ANGELES: Transforming Vacant Lots into Neighborhood Assets'
-extrapolated_project_ids:
-  - '5102192'
-extrapolated_project_titles:
-  - 'FREE LOTS ANGELES: Transforming Vacant Lots into Neighborhood Assets'
 
 ---

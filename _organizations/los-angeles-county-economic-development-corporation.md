@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: StratPlanProg_Cover.jpg
+project_titles:
+  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020 '
+  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
 maker_image_id: '23271'
 organization_id: '2015122'
 title: Los Angeles County Economic Development Corporation
@@ -23,6 +26,8 @@ zip: '90071'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23271%252Fdisplay%252FStratPlanProg_Cover.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102187'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
@@ -30,13 +35,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102187'
-original_project_ids:
-  - '5102187'
-original_project_titles:
-  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020 '
-extrapolated_project_ids:
-  - '5102187'
-extrapolated_project_titles:
-  - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
 
 ---

@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: openhealthcentral.png
+project_titles:
+  - OPENHealth Central  Putting the "care" back in healthcare
+  - OPENHealth Central  Putting the care back in healthcare
 maker_image_id: '16271'
 organization_id: '2013129'
 title: Lybba
@@ -88,6 +91,8 @@ ein: '383777236'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids:
+  - '3102193'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/OPENHEALTHCentral.html'
@@ -95,15 +100,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102193'
-original_project_ids:
-  - '3102193'
-  - '3102193'
-original_project_titles:
-  - OPENHealth Central  Putting the "care" back in healthcare
-  - OPENHealth Central  Putting the "care" back in healthcare
-extrapolated_project_ids:
-  - '3102193'
-extrapolated_project_titles:
-  - OPENHealth Central  Putting the care back in healthcare
 
 ---

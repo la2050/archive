@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: mJP7rkVcRfo
+project_titles:
+  - Creating a Positive Learning Environment
 organization_id: '2013155'
 title: Playworks Southern California
 org_type: Nonprofit
@@ -37,6 +39,8 @@ ein: '943251867'
 zip: ''
 project_image: 'https://img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102220'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Recess.html'
@@ -44,13 +48,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102220'
-original_project_ids:
-  - '3102220'
-original_project_titles:
-  - Creating a Positive Learning Environment
-extrapolated_project_ids:
-  - '3102220'
-extrapolated_project_titles:
-  - Creating a Positive Learning Environment
 
 ---

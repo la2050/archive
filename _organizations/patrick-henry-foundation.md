@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - Learning Through Dual Language Immersion
+  - >-
+    The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
+    Program
 organization_id: '2016164'
 title: Patrick Henry Foundation
 org_type: Nonprofit
@@ -21,6 +26,9 @@ zip: '90714'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 project_video: ''
+project_ids:
+  - '6102176'
+  - '5102231'
 aggregated:
   challenge_url:
     - >-
@@ -32,21 +40,5 @@ aggregated:
   project_ids:
     - '6102176'
     - '5102231'
-original_project_ids:
-  - '5102231'
-  - '6102176'
-original_project_titles:
-  - Learning Through Dual Language Immersion
-  - >-
-    The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
-    Program
-extrapolated_project_ids:
-  - '6102176'
-  - '5102231'
-extrapolated_project_titles:
-  - >-
-    The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
-    Program
-  - Learning Through Dual Language Immersion
 
 ---

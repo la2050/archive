@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: xcozMknxurc
+project_titles:
+  - 'Connecting Voices, Building Power: Resident Led  Community Planning'
+  - 'Connecting Voices Building Power: Resident Led Community Planning'
 organization_id: '2013007'
 title: >-
   Alliance for Community Transit - Los Angeles (Fiscal Sponsor LTSC Community
@@ -23,6 +26,8 @@ ein: '263106566'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102005'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
@@ -33,13 +38,5 @@ aggregated:
   project_ids:
     - '4102002'
     - '3102013'
-original_project_ids:
-  - '4102005'
-original_project_titles:
-  - 'Connecting Voices, Building Power: Resident Led  Community Planning'
-extrapolated_project_ids:
-  - '4102005'
-extrapolated_project_titles:
-  - 'Connecting Voices Building Power: Resident Led Community Planning'
 
 ---

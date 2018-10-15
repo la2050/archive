@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - LA Review of Books
+  - LARB/USC Publishing Institute and Workshop
+  - Los Angeles Review of Books
+  - Los Angeles Review of Books Enabling LA Creativity
 organization_id: '2016139'
 title: Los Angeles Review of Books
 org_type: Nonprofit
@@ -20,6 +25,11 @@ zip: '90028'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102144'
+  - '5102194'
+  - '4102134'
+  - '3102189'
 aggregated:
   challenge_url:
     - >-
@@ -37,26 +47,5 @@ aggregated:
     - '5102194'
     - '4102233'
     - '3102189'
-original_project_ids:
-  - '3102189'
-  - '3102189'
-  - '5102194'
-  - '6102144'
-original_project_titles:
-  - LA Review of Books
-  - LARB/USC Publishing Institute and Workshop
-  - Los Angeles Review of Books
-  - Los Angeles Review of Books
-  - Los Angeles Review of Books Enabling LA Creativity
-extrapolated_project_ids:
-  - '6102144'
-  - '5102194'
-  - '4102134'
-  - '3102189'
-extrapolated_project_titles:
-  - LARB/USC Publishing Institute and Workshop
-  - Los Angeles Review of Books Enabling LA Creativity
-  - Los Angeles Review of Books
-  - Los Angeles Review of Books
 
 ---

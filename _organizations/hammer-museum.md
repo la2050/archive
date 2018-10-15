@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: 30f36j_o_wU
+project_titles:
+  - 'Arts ReSTORE LA: Westwood. An urban renewal project by the Hammer Museum'
 organization_id: '2013087'
 title: Hammer Museum
 org_type: Nonprofit
@@ -40,6 +42,8 @@ zip: ''
 project_image: >-
   https://hammer.ucla.edu/legacy/_processed_/csm_43551390702_376d278a6b_o_114764d65b.jpg
 project_video: ''
+project_ids:
+  - '3102144'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
@@ -47,13 +51,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102144'
-original_project_ids:
-  - '3102144'
-original_project_titles:
-  - 'Arts ReSTORE LA: Westwood. An urban renewal project by the Hammer Museum'
-extrapolated_project_ids:
-  - '3102144'
-extrapolated_project_titles:
-  - 'Arts ReSTORE LA: Westwood. An urban renewal project by the Hammer Museum'
 
 ---

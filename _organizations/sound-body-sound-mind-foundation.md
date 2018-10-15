@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Fighting Child Obesity Through the Transformation of Physical Education in
+    Los Angeles
 organization_id: '2016196'
 title: Sound Body Sound Mind Foundation
 org_type: Nonprofit
@@ -21,6 +25,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
 project_video: 'https://www.youtube.com/embed/wA3zYsq4f3I?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102211'
 aggregated:
   challenge_url:
     - >-
@@ -29,17 +35,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102211'
-original_project_ids:
-  - '6102211'
-original_project_titles:
-  - >-
-    Fighting Child Obesity Through the Transformation of Physical Education in
-    Los Angeles
-extrapolated_project_ids:
-  - '6102211'
-extrapolated_project_titles:
-  - >-
-    Fighting Child Obesity Through the Transformation of Physical Education in
-    Los Angeles
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: CDJnJMrwko8
+project_titles:
+  - 'Slake: Los Angeles'
 organization_id: '2013166'
 title: 'Slake: Los Angeles'
 org_type: Nonprofit
@@ -22,6 +24,8 @@ ein: '181608474'
 zip: ''
 project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102233'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/slakelosangeles.html'
@@ -29,13 +33,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102233'
-original_project_ids:
-  - '3102233'
-original_project_titles:
-  - 'Slake: Los Angeles'
-extrapolated_project_ids:
-  - '3102233'
-extrapolated_project_titles:
-  - 'Slake: Los Angeles'
 
 ---

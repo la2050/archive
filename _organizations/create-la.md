@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: y5Q3OTnTYC4
+project_titles:
+  - 'Create LA: Free Art Classes for Kids'
 organization_id: '2013047'
 title: Create LA
 org_type: Nonprofit
@@ -33,6 +35,8 @@ ein: '460815941'
 zip: ''
 project_image: 'https://img.youtube.com/vi/y5Q3OTnTYC4/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102096'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/createla.html'
@@ -40,13 +44,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102096'
-original_project_ids:
-  - '3102096'
-original_project_titles:
-  - 'Create LA: Free Art Classes for Kids'
-extrapolated_project_ids:
-  - '3102096'
-extrapolated_project_titles:
-  - 'Create LA: Free Art Classes for Kids'
 
 ---

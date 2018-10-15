@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: 20150904_101442.jpg
+project_titles:
+  - El Basurero
 maker_image_id: '23242'
 organization_id: '2015057'
 title: El Basurero
@@ -23,6 +25,8 @@ zip: '90006'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23242%252Fdisplay%252F20150904_101442.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102092'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/basurero.html'
@@ -30,13 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102092'
-original_project_ids:
-  - '5102092'
-original_project_titles:
-  - El Basurero
-extrapolated_project_ids:
-  - '5102092'
-extrapolated_project_titles:
-  - El Basurero
 
 ---

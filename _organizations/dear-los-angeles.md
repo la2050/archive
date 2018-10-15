@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: IMG_1031.JPG
+project_titles:
+  - Dear Los Angeles
 maker_image_id: '16214'
 organization_id: '2013051'
 title: Dear Los Angeles
@@ -30,6 +32,8 @@ ein: N/A
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids:
+  - '3102103'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'
@@ -37,13 +41,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102103'
-original_project_ids:
-  - '3102103'
-original_project_titles:
-  - Dear Los Angeles
-extrapolated_project_ids:
-  - '3102103'
-extrapolated_project_titles:
-  - Dear Los Angeles
 
 ---

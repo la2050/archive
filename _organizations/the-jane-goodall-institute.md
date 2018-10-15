@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Setting the Stage: Developing Young Angelenos as Community Volunteers for a
+    Lifetime
 organization_id: '2016222'
 title: the Jane Goodall Institute
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
 project_video: 'https://www.youtube.com/embed/80TAsrIU1O8?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102245'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102245'
-original_project_ids:
-  - '6102245'
-original_project_titles:
-  - >-
-    Setting the Stage: Developing Young Angelenos as Community Volunteers for a
-    Lifetime
-extrapolated_project_ids:
-  - '6102245'
-extrapolated_project_titles:
-  - >-
-    Setting the Stage: Developing Young Angelenos as Community Volunteers for a
-    Lifetime
 
 ---

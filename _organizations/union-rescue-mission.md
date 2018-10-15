@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - A Way Home for Women & Children
+  - Building a Better LA - Helping to End Skid Row through Jobs
 organization_id: '2016242'
 title: Union Rescue Mission
 org_type: Nonprofit
@@ -22,6 +25,9 @@ zip: '90013'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
 project_video: 'https://www.youtube.com/embed/dtKGgHD0VHE?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102268'
+  - '5102331'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/a-way-home-for-women-children'
@@ -32,17 +38,5 @@ aggregated:
   project_ids:
     - '6102268'
     - '5102331'
-original_project_ids:
-  - '5102331'
-  - '6102268'
-original_project_titles:
-  - A Way Home for Women & Children
-  - Building a Better LA - Helping to End Skid Row through Jobs
-extrapolated_project_ids:
-  - '6102268'
-  - '5102331'
-extrapolated_project_titles:
-  - A Way Home for Women & Children
-  - Building a Better LA - Helping to End Skid Row through Jobs
 
 ---

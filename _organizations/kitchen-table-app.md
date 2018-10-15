@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Kitchen Table App brings people together over a shared love of good food and
+    great company.
 organization_id: '2018057'
 title: Kitchen Table App
 org_type: Social enterprise or Bcorps
@@ -20,6 +24,8 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
 project_video: 'https://youtu.be/Rmqp7T8vQ0A'
+project_ids:
+  - '8102057'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/kitchen-table-app/'
@@ -27,17 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102057'
-original_project_ids:
-  - '8102057'
-original_project_titles:
-  - >-
-    Kitchen Table App brings people together over a shared love of good food and
-    great company.
-extrapolated_project_ids:
-  - '8102057'
-extrapolated_project_titles:
-  - >-
-    Kitchen Table App brings people together over a shared love of good food and
-    great company.
 
 ---

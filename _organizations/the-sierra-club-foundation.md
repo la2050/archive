@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - The Future is Bright! A Clean Energy Future for LA
 organization_id: '2016232'
 title: The Sierra Club Foundation
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
 project_video: 'https://www.youtube.com/embed/ZqcKcMqk1lM?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102257'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
   project_ids:
     - '6102257'
     - '4102243'
-original_project_ids:
-  - '6102257'
-original_project_titles:
-  - The Future is Bright! A Clean Energy Future for LA
-extrapolated_project_ids:
-  - '6102257'
-extrapolated_project_titles:
-  - The Future is Bright! A Clean Energy Future for LA
 
 ---

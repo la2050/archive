@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: C1uVBoRtQ74
+project_titles:
+  - Los Angeles Campaign for Grade Level Reading
 organization_id: '2014138'
 title: Families In Schools
 org_type: Nonprofit
@@ -18,19 +20,13 @@ ein: '954818894'
 zip: '90017'
 project_image: 'https://img.youtube.com/vi/C1uVBoRtQ74/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102070'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102125'
-original_project_ids:
-  - '4102070'
-original_project_titles:
-  - Los Angeles Campaign for Grade Level Reading
-extrapolated_project_ids:
-  - '4102070'
-extrapolated_project_titles:
-  - Los Angeles Campaign for Grade Level Reading
 
 ---

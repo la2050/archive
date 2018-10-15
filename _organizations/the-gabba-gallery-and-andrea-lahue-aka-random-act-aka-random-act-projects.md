@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: G4cMVQVTBkM
+project_titles:
+  - StreetArt Brokerage Firm
 organization_id: '2014089'
 title: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '273886515'
 zip: '90057'
 project_image: 'https://img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102212'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102089'
-original_project_ids:
-  - '4102212'
-original_project_titles:
-  - StreetArt Brokerage Firm
-extrapolated_project_ids:
-  - '4102212'
-extrapolated_project_titles:
-  - StreetArt Brokerage Firm
 
 ---

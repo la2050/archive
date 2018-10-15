@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: fmzJcYDzdUw
+project_titles:
+  - STATE OF THE ART LIGHTING FOR CITY PARKS!
 organization_id: '2013090'
 title: Hive Lighting
 org_type: For profit
@@ -21,6 +23,8 @@ ein: '800696339'
 zip: ''
 project_image: 'https://img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102055'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102055'
-original_project_ids:
-  - '3102055'
-original_project_titles:
-  - STATE OF THE ART LIGHTING FOR CITY PARKS!
-extrapolated_project_ids:
-  - '3102055'
-extrapolated_project_titles:
-  - STATE OF THE ART LIGHTING FOR CITY PARKS!
 
 ---

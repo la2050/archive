@@ -1,5 +1,12 @@
 ---
 maker_image_file_name: Logo.jpg
+project_titles:
+  - >-
+    Climate Leaders - reducing environmental impact by sharing best practices
+    among local leaders
+  - >-
+    Climate Leaders  reducing environmental impact by sharing best practices
+    among local leaders
 maker_image_id: '16505'
 organization_id: '2013079'
 title: Generation Green's Contra Costa County Climate Leaders Program
@@ -46,6 +53,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16505%252Fdisplay%252FLogo.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102138'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/climateleaders.html'
@@ -53,17 +62,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102138'
-original_project_ids:
-  - '3102138'
-original_project_titles:
-  - >-
-    Climate Leaders - reducing environmental impact by sharing best practices
-    among local leaders
-extrapolated_project_ids:
-  - '3102138'
-extrapolated_project_titles:
-  - >-
-    Climate Leaders  reducing environmental impact by sharing best practices
-    among local leaders
 
 ---

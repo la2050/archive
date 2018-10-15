@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Youth Mentoring and Entrepreneurship Program for Middle School Students
 organization_id: '2016254'
 title: WeThrive
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
 project_video: ''
+project_ids:
+  - '6102281'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102281'
-original_project_ids:
-  - '6102281'
-original_project_titles:
-  - Youth Mentoring and Entrepreneurship Program for Middle School Students
-extrapolated_project_ids:
-  - '6102281'
-extrapolated_project_titles:
-  - Youth Mentoring and Entrepreneurship Program for Middle School Students
 
 ---

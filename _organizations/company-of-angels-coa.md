@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: '-MVQfBjaOS0'
+project_titles:
+  - 'Meet Me @the Metro: Theater/In/Transit (M3TNT)  '
+  - 'Meet Me @the Metro: Theater/In/Transit (M3TNT)'
 organization_id: '2014019'
 title: Company of Angels (CoA)
 org_type: Nonprofit
@@ -19,6 +22,8 @@ ein: '237448515'
 zip: '90078'
 project_image: 'https://img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102046'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
@@ -26,13 +31,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102020'
-original_project_ids:
-  - '4102046'
-original_project_titles:
-  - 'Meet Me @the Metro: Theater/In/Transit (M3TNT)  '
-extrapolated_project_ids:
-  - '4102046'
-extrapolated_project_titles:
-  - 'Meet Me @the Metro: Theater/In/Transit (M3TNT)'
 
 ---

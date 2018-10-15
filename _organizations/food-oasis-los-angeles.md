@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Connecting People to Healthy Food in Los Angeles
 organization_id: '2016080'
 title: Food Oasis Los Angeles
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/31P5WKMZjqg?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102070'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102070'
-original_project_ids:
-  - '6102070'
-original_project_titles:
-  - Connecting People to Healthy Food in Los Angeles
-extrapolated_project_ids:
-  - '6102070'
-extrapolated_project_titles:
-  - Connecting People to Healthy Food in Los Angeles
 
 ---

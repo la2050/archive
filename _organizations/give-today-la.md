@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Give Today LA: An online community center connecting causes, commerce and
+    community to do good!
 organization_id: '2016091'
 title: Give Today LA
 org_type: Forprofit
@@ -17,6 +21,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4934410265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/-7-HrBCZPFo?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102161'
 aggregated:
   challenge_url:
     - >-
@@ -25,17 +31,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102161'
-original_project_ids:
-  - '6102161'
-original_project_titles:
-  - >-
-    Give Today LA: An online community center connecting causes, commerce and
-    community to do good!
-extrapolated_project_ids:
-  - '6102161'
-extrapolated_project_titles:
-  - >-
-    Give Today LA: An online community center connecting causes, commerce and
-    community to do good!
 
 ---

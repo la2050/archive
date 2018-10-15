@@ -1,5 +1,9 @@
 ---
 maker_image_file_name: Screen_Shot_2015-10-03_at_3.51.42_PM.png
+project_titles:
+  - >-
+    Training leaders to launch new and redesigned next generation schools in Los
+    Angeles
 maker_image_id: '23338'
 organization_id: '2015167'
 title: Reframe Labs
@@ -22,6 +26,8 @@ zip: '90403'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23338%252Fdisplay%252FScreen_Shot_2015-10-03_at_3.51.42_PM.png=c570x385
 project_video: ''
+project_ids:
+  - '5102251'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
@@ -29,17 +35,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102251'
-original_project_ids:
-  - '5102251'
-original_project_titles:
-  - >-
-    Training leaders to launch new and redesigned next generation schools in Los
-    Angeles
-extrapolated_project_ids:
-  - '5102251'
-extrapolated_project_titles:
-  - >-
-    Training leaders to launch new and redesigned next generation schools in Los
-    Angeles
 
 ---

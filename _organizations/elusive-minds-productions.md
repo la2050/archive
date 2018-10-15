@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: Tianguis.jpg
+project_titles:
+  - 'Tianguis: A Digital Exchange of Goods, Ideas, and Cultura'
+  - 'Tianguis: A Digital Exchange of Goods Ideas and Cultura'
 maker_image_id: '22393'
 organization_id: '2014031'
 title: Elusive Minds Productions
@@ -21,6 +24,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22393%252Fdisplay%252FTianguis.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102064'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/tianguis.html'
@@ -28,13 +33,5 @@ aggregated:
     - '2014'
   project_ids:
     - '5102339'
-original_project_ids:
-  - '4102064'
-original_project_titles:
-  - 'Tianguis: A Digital Exchange of Goods, Ideas, and Cultura'
-extrapolated_project_ids:
-  - '4102064'
-extrapolated_project_titles:
-  - 'Tianguis: A Digital Exchange of Goods Ideas and Cultura'
 
 ---

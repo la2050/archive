@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: tnpBsy1mGwQ
+project_titles:
+  - 'LA v2.0: Transforming LA into a World Class Place to Live'
 organization_id: '2013010'
 title: Angelenos Against Gridlock
 org_type: Nonprofit
@@ -94,6 +96,8 @@ ein: '943179772'
 zip: ''
 project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102021'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/fundthisproject.html'
@@ -101,13 +105,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102021'
-original_project_ids:
-  - '3102021'
-original_project_titles:
-  - 'LA v2.0: Transforming LA into a World Class Place to Live'
-extrapolated_project_ids:
-  - '3102021'
-extrapolated_project_titles:
-  - 'LA v2.0: Transforming LA into a World Class Place to Live'
 
 ---

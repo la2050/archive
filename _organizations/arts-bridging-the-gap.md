@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Girls Make VR: Teach underserved girls how to make VR and AR content'
 organization_id: '2016014'
 title: Arts Bridging the Gap
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
 project_video: 'https://www.youtube.com/embed/9rIjGtZLljo?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102011'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102011'
-original_project_ids:
-  - '6102011'
-original_project_titles:
-  - 'Girls Make VR: Teach underserved girls how to make VR and AR content'
-extrapolated_project_ids:
-  - '6102011'
-extrapolated_project_titles:
-  - 'Girls Make VR: Teach underserved girls how to make VR and AR content'
 
 ---

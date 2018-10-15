@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - Black Women for Wellness
+  - ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science
+  - "ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science \r\n"
 organization_id: '2018009'
 title: Black Women for Wellness
 org_type: Nonprofit
@@ -19,6 +23,8 @@ zip: '90089'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
 project_video: 'https://www.youtube.com/watch?v=M5Q0W1tCJVg'
+project_ids:
+  - '8102009'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/black-women-for-wellness/'
@@ -26,14 +32,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102009'
-original_project_ids:
-  - '8102009'
-original_project_titles:
-  - Black Women for Wellness
-  - ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science
-extrapolated_project_ids:
-  - '8102009'
-extrapolated_project_titles:
-  - "ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science \r\n"
 
 ---

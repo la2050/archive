@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'Four Rings: Giving LA a Home to Recharge'
 organization_id: '2016081'
 title: Four Rings
 org_type: Forprofit
@@ -19,6 +21,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/31Cl_cWYbgY?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102156'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
@@ -26,13 +30,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102156'
-original_project_ids:
-  - '6102156'
-original_project_titles:
-  - 'Four Rings: Giving LA a Home to Recharge'
-extrapolated_project_ids:
-  - '6102156'
-extrapolated_project_titles:
-  - 'Four Rings: Giving LA a Home to Recharge'
 
 ---

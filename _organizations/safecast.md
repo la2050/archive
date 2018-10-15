@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: Cb6MAN2lVkg
+project_titles:
+  - Help build a Realtime Environmental Sensor Network
 organization_id: '2014190'
 title: Safecast
 org_type: Nonprofit
@@ -15,17 +17,13 @@ ein: '770462154'
 zip: '90232'
 project_image: 'https://img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102092'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102162'
-original_project_ids:
-  - '4102092'
-original_project_titles:
-  - Help build a Realtime Environmental Sensor Network
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

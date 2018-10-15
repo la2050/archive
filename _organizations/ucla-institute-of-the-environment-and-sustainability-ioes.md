@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Using an app to increase awareness of air quality and empower individuals to
+    protect their health
 organization_id: '2016240'
 title: UCLA Institute of the Environment and Sustainability (IOES)
 org_type: Nonprofit
@@ -21,6 +25,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
 project_video: 'https://www.youtube.com/embed/MnStd_eLovQ?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102266'
 aggregated:
   challenge_url:
     - >-
@@ -29,17 +35,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102266'
-original_project_ids:
-  - '6102266'
-original_project_titles:
-  - >-
-    Using an app to increase awareness of air quality and empower individuals to
-    protect their health
-extrapolated_project_ids:
-  - '6102266'
-extrapolated_project_titles:
-  - >-
-    Using an app to increase awareness of air quality and empower individuals to
-    protect their health
 
 ---

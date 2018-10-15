@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Turning Los Angeles into a Renewable Energy Leader
 organization_id: '2016079'
 title: Food & Water Watch
 org_type: Nonprofit
@@ -19,6 +21,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 project_video: ''
+project_ids:
+  - '6102069'
 aggregated:
   challenge_url:
     - >-
@@ -27,13 +31,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102069'
-original_project_ids:
-  - '6102069'
-original_project_titles:
-  - Turning Los Angeles into a Renewable Energy Leader
-extrapolated_project_ids:
-  - '6102069'
-extrapolated_project_titles:
-  - Turning Los Angeles into a Renewable Energy Leader
 
 ---

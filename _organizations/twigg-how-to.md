@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - '51%: Our Reality'
 organization_id: '2018127'
 title: TWIGG How-To
 org_type: Forprofit
@@ -21,17 +23,13 @@ ein: '813851393'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg'
 project_video: ''
+project_ids:
+  - '8102127'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/twigg-how-to/'
   year_submitted:
     - '2018'
   project_ids: []
-original_project_ids:
-  - '8102127'
-original_project_titles:
-  - '51%: Our Reality'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

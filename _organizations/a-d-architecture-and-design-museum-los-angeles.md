@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: keoZhYn_XbI
+project_titles:
+  - 'Never Built: Los Angeles'
 organization_id: '2013002'
 title: A+D Architecture and Design Museum > Los Angeles
 org_type: Nonprofit
@@ -44,6 +46,8 @@ ein: '481269978'
 zip: ''
 project_image: 'https://img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102004'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
@@ -51,13 +55,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102004'
-original_project_ids:
-  - '3102004'
-original_project_titles:
-  - 'Never Built: Los Angeles'
-extrapolated_project_ids:
-  - '3102004'
-extrapolated_project_titles:
-  - 'Never Built: Los Angeles'
 
 ---

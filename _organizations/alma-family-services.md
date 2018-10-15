@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: logo_new.jpg
+project_titles:
+  - 'Parent and Child Training Program '
 maker_image_id: '17028'
 organization_id: '2013008'
 title: Alma Family Services
@@ -43,6 +45,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17028%252Fdisplay%252Flogo_new.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102015'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
@@ -50,13 +54,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102015'
-original_project_ids:
-  - '3102015'
-original_project_titles:
-  - 'Parent and Child Training Program '
-extrapolated_project_ids:
-  - '3102015'
-extrapolated_project_titles:
-  - 'Parent and Child Training Program '
 
 ---

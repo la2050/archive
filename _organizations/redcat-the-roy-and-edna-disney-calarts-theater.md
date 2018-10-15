@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: VpqSppE8ppo
+project_titles:
+  - >-
+    RADAR L.A. International Theater Festival; A vital investment in L.A.Theater
+    Artists
 organization_id: '2013161'
 title: REDCAT (The Roy and Edna Disney CalArts Theater)
 org_type: Nonprofit
@@ -30,6 +34,8 @@ ein: '956102146'
 zip: ''
 project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102227'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
@@ -37,17 +43,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102227'
-original_project_ids:
-  - '3102227'
-original_project_titles:
-  - >-
-    RADAR L.A. International Theater Festival; A vital investment in L.A.Theater
-    Artists
-extrapolated_project_ids:
-  - '3102227'
-extrapolated_project_titles:
-  - >-
-    RADAR L.A. International Theater Festival; A vital investment in L.A.Theater
-    Artists
 
 ---

@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png
+project_titles:
+  - Women of Color Short Film Fund
 maker_image_id: '20953'
 organization_id: '2014087'
 title: The Bitch Pack
@@ -18,6 +20,8 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20953%252Fdisplay%252FScreen_Shot_2014-07-30_at_5.51.26_PM.png=c570x385
 project_video: ''
+project_ids:
+  - '4102207'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/WOCMakeFilms.html'
@@ -25,13 +29,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102087'
-original_project_ids:
-  - '4102207'
-original_project_titles:
-  - Women of Color Short Film Fund
-extrapolated_project_ids:
-  - '4102207'
-extrapolated_project_titles:
-  - Women of Color Short Film Fund
 
 ---

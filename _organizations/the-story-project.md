@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: BnbLK2sxsXI
+project_titles:
+  - The Story Project
 organization_id: '2015207'
 title: The Story Project
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '954684376'
 zip: '90036'
 project_image: 'https://img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102312'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/storyproject.html'
@@ -27,13 +31,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102312'
-original_project_ids:
-  - '5102312'
-original_project_titles:
-  - The Story Project
-extrapolated_project_ids:
-  - '5102312'
-extrapolated_project_titles:
-  - The Story Project
 
 ---

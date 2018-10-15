@@ -1,5 +1,12 @@
 ---
 maker_image_file_name: Web_New_Com.jpg
+project_titles:
+  - >-
+    Enhancing the perspectives of today's youth, and equipping them with life
+    skills to help mankind.
+  - >-
+    Enhancing the perspectives of todays youth and equipping them with life
+    skills to help mankind.
 maker_image_id: '23179'
 organization_id: '2015103'
 title: Keith A. Somers International Foundation
@@ -22,6 +29,8 @@ zip: '90292'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23179%252Fdisplay%252FWeb_New_Com.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102159'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
@@ -29,17 +38,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102159'
-original_project_ids:
-  - '5102159'
-original_project_titles:
-  - >-
-    Enhancing the perspectives of today's youth, and equipping them with life
-    skills to help mankind.
-extrapolated_project_ids:
-  - '5102159'
-extrapolated_project_titles:
-  - >-
-    Enhancing the perspectives of todays youth and equipping them with life
-    skills to help mankind.
 
 ---

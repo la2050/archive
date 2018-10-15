@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - Connecting Community Through Color
+  - Engaging the Reluctant Volunteer
 organization_id: '2016020'
 title: Big Sunday
 org_type: Nonprofit
@@ -20,6 +23,9 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
 project_video: 'https://www.youtube.com/embed/mZrJcqrvSsM?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102018'
+  - '3102033'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/connecting-community-through-color'
@@ -30,17 +36,5 @@ aggregated:
   project_ids:
     - '6102018'
     - '3102033'
-original_project_ids:
-  - '3102033'
-  - '6102018'
-original_project_titles:
-  - Connecting Community Through Color
-  - Engaging the Reluctant Volunteer
-extrapolated_project_ids:
-  - '6102018'
-  - '3102033'
-extrapolated_project_titles:
-  - Connecting Community Through Color
-  - Engaging the Reluctant Volunteer
 
 ---

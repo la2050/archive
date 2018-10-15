@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Youth Cleantech Training Program
 organization_id: '2016134'
 title: Los Angeles Cleantech Incubator
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6504718986741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102137'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/youth-cleantech-training-program'
@@ -29,13 +33,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102137'
-original_project_ids:
-  - '6102137'
-original_project_titles:
-  - Youth Cleantech Training Program
-extrapolated_project_ids:
-  - '6102137'
-extrapolated_project_titles:
-  - Youth Cleantech Training Program
 
 ---

@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Wheels_graduation_ceremony.jpg
+project_titles:
+  - Wheels of Hope LA Welding School
 maker_image_id: '23250'
 organization_id: '2015225'
 title: 'Wheels of Hope LA, Fred Jordan Mission'
@@ -21,6 +23,8 @@ zip: '91722'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102341'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102341'
-original_project_ids:
-  - '5102341'
-original_project_titles:
-  - Wheels of Hope LA Welding School
-extrapolated_project_ids:
-  - '5102341'
-extrapolated_project_titles:
-  - Wheels of Hope LA Welding School
 
 ---

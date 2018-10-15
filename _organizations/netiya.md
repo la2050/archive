@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: z7nrpaONjUI
+project_titles:
+  - 'Fermenting Change: Connecting Los Angeles through food and faith'
+  - 'Project 10: Tithing Urban Harvests Growing Community Food Security'
 organization_id: '2015144'
 title: Netiya
 org_type: Nonprofit
@@ -22,6 +25,9 @@ ein: '951890769'
 zip: '91436'
 project_image: 'https://img.youtube.com/vi/z7nrpaONjUI/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102220'
+  - '3102204'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
@@ -34,15 +40,5 @@ aggregated:
     - '5102220'
     - '4102207'
     - '3102204'
-original_project_ids:
-  - '5102220'
-original_project_titles:
-  - 'Fermenting Change: Connecting Los Angeles through food and faith'
-extrapolated_project_ids:
-  - '5102220'
-  - '3102204'
-extrapolated_project_titles:
-  - 'Fermenting Change: Connecting Los Angeles through food and faith'
-  - 'Project 10: Tithing Urban Harvests Growing Community Food Security'
 
 ---

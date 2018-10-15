@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: photo-33.JPG
+project_titles:
+  - Financial Enrichment and Management (collegiate class of 2018-2019)
+  - Financial Enrichment and Management (collegiate class of 20182019)
 maker_image_id: '16587'
 organization_id: '2013117'
 title: 'Lambda Theta Nu Sorority, Incorporated'
@@ -30,6 +33,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16587%252Fdisplay%252Fphoto-33.JPG=c570x385
 project_video: ''
+project_ids:
+  - '3102174'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FEM.html'
@@ -37,12 +42,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102174'
-original_project_ids: []
-original_project_titles:
-  - Financial Enrichment and Management (collegiate class of 2018-2019)
-extrapolated_project_ids:
-  - '3102174'
-extrapolated_project_titles:
-  - Financial Enrichment and Management (collegiate class of 20182019)
 
 ---

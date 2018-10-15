@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - '#NextStopCleanAir: Electric School Buses for LA’s Kids'
 organization_id: '2018037'
 title: Environment California Research & Policy Center
 org_type: Nonprofit
@@ -44,6 +46,8 @@ zip: '90042'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
 project_video: ''
+project_ids:
+  - '8102037'
 aggregated:
   challenge_url:
     - >-
@@ -52,11 +56,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102037'
-original_project_ids:
-  - '8102037'
-original_project_titles:
-  - '#NextStopCleanAir: Electric School Buses for LA’s Kids'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

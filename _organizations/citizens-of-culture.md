@@ -1,4 +1,10 @@
 ---
+project_titles:
+  - Creating The Culture of Entrepreneurship
+  - 'Nous Tous: A Gallery For All Of Us'
+  - >-
+    The View From Here: Conversations About The Most Important Issues Of Our
+    Time
 organization_id: '2018022'
 title: Citizens Of Culture
 org_type: Nonprofit
@@ -20,6 +26,10 @@ zip: '91506'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 project_video: 'https://vimeo.com/250192634'
+project_ids:
+  - '8102022'
+  - '6102097'
+  - '5102056'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/citizens-of-culture/'
@@ -33,21 +43,5 @@ aggregated:
     - '8102022'
     - '6102097'
     - '4102095'
-original_project_ids:
-  - '5102056'
-  - '6102097'
-  - '8102022'
-original_project_titles:
-  - Creating The Culture of Entrepreneurship
-  - 'Nous Tous: A Gallery For All Of Us'
-  - >-
-    The View From Here: Conversations About The Most Important Issues Of Our
-    Time
-extrapolated_project_ids:
-  - '6102097'
-  - '5102056'
-extrapolated_project_titles:
-  - 'Nous Tous: A Gallery For All Of Us'
-  - Creating The Culture of Entrepreneurship
 
 ---

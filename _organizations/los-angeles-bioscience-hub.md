@@ -1,5 +1,12 @@
 ---
 youtube_video_identifier: UNbHPa1n2g4
+project_titles:
+  - >-
+    Biotech Leaders Academy: Growing diverse entrepreneurs in biotech via
+    hands-on work and mentorship 
+  - >-
+    Biotech Leaders Academy: Growing diverse entrepreneurs in biotech via
+    hands-on work and mentorship
 organization_id: '2015119'
 title: Los Angeles Bioscience Hub
 org_type: Nonprofit
@@ -20,6 +27,8 @@ ein: '472185490'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102184'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/BiotechLeaders.html'
@@ -27,17 +36,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102184'
-original_project_ids:
-  - '5102184'
-original_project_titles:
-  - >-
-    Biotech Leaders Academy: Growing diverse entrepreneurs in biotech via
-    hands-on work and mentorship 
-extrapolated_project_ids:
-  - '5102184'
-extrapolated_project_titles:
-  - >-
-    Biotech Leaders Academy: Growing diverse entrepreneurs in biotech via
-    hands-on work and mentorship
 
 ---

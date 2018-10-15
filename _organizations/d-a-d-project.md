@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
 organization_id: '2016062'
 title: D.A.D Project
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7019184355741-team90.jpg
 project_video: ''
+project_ids:
+  - '6102058'
 aggregated:
   challenge_url:
     - >-
@@ -28,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102058'
-original_project_ids:
-  - '6102058'
-original_project_titles:
-  - 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
-extrapolated_project_ids:
-  - '6102058'
-extrapolated_project_titles:
-  - 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
 
 ---

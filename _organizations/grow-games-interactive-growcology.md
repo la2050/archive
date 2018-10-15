@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: volunteer-photo.jpg
+project_titles:
+  - 'Seeds the Game: Community Jams'
 maker_image_id: '22335'
 organization_id: '2014041'
 title: 'Grow Games Interactive, Growcology'
@@ -22,6 +24,8 @@ zip: '92504'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22335%252Fdisplay%252Fvolunteer-photo.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102089'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/seeds.html'
@@ -29,13 +33,5 @@ aggregated:
     - '2014'
   project_ids:
     - '5102147'
-original_project_ids:
-  - '4102089'
-original_project_titles:
-  - 'Seeds the Game: Community Jams'
-extrapolated_project_ids:
-  - '4102089'
-extrapolated_project_titles:
-  - 'Seeds the Game: Community Jams'
 
 ---

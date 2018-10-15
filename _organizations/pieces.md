@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - >-
+    CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
+    ARTS
+  - Empowering Young L.A. Adults Through the Visual & Performing Arts
 organization_id: '2016171'
 title: PIECES
 org_type: Nonprofit
@@ -20,6 +25,9 @@ zip: '90066'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4928931823741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5fIYqcCuCuw?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102183'
+  - '5102236'
 aggregated:
   challenge_url:
     - >-
@@ -31,19 +39,5 @@ aggregated:
   project_ids:
     - '6102183'
     - '5102236'
-original_project_ids:
-  - '6102183'
-original_project_titles:
-  - >-
-    CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
-    ARTS
-extrapolated_project_ids:
-  - '6102183'
-  - '5102236'
-extrapolated_project_titles:
-  - >-
-    CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
-    ARTS
-  - Empowering Young L.A. Adults Through the Visual & Performing Arts
 
 ---

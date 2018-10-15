@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Sequester_student_working1.jpg
+project_titles:
+  - ESP Team Teacher Service Learning Project
 maker_image_id: '16942'
 organization_id: '2013063'
 title: ESP Empowering Services Through Partnerships
@@ -24,6 +26,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16942%252Fdisplay%252FSequester_student_working1.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102039'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'
@@ -31,13 +35,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102039'
-original_project_ids:
-  - '3102039'
-original_project_titles:
-  - ESP Team Teacher Service Learning Project
-extrapolated_project_ids:
-  - '3102039'
-extrapolated_project_titles:
-  - ESP Team Teacher Service Learning Project
 
 ---

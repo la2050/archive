@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - 100% of LA online faster!
+  - Community at Home Box
+  - 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
+  - Women@Home Networks
 organization_id: '2018034'
 title: Data Roads Foundation
 org_type: Nonprofit
@@ -20,6 +25,11 @@ zip: '90005'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 project_video: 'https://www.youtube.com/user/DataRoadsFoundation'
+project_ids:
+  - '8102034'
+  - '6102059'
+  - '5102080'
+  - '4102052'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/data-roads-foundation/'
@@ -37,21 +47,5 @@ aggregated:
     - '6102059'
     - '4102062'
     - '4102250'
-original_project_ids:
-  - '4102052'
-  - '5102080'
-  - '6102059'
-  - '8102034'
-original_project_titles:
-  - 100% of LA online faster!
-  - Community at Home Box
-  - 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
-  - Women@Home Networks
-extrapolated_project_ids:
-  - '6102059'
-  - '4102052'
-extrapolated_project_titles:
-  - 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
-  - 100% of LA online faster!
 
 ---

@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - ENDLESS ORCHARD
+  - 'The Endless Orchard: Phase Two'
+  - Urban Fruit Trails
 organization_id: '2016076'
 title: Fallen Fruit
 org_type: Forprofit
@@ -22,6 +26,9 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/KA9t95cpVZs?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102146'
+  - '3102043'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/the-endless-orchard-phase-two'
@@ -32,18 +39,5 @@ aggregated:
   project_ids:
     - '6102146'
     - '3102043'
-original_project_ids:
-  - '3102043'
-  - '6102146'
-original_project_titles:
-  - ENDLESS ORCHARD
-  - 'The Endless Orchard: Phase Two'
-  - Urban Fruit Trails
-extrapolated_project_ids:
-  - '6102146'
-  - '3102043'
-extrapolated_project_titles:
-  - 'The Endless Orchard: Phase Two'
-  - ENDLESS ORCHARD
 
 ---

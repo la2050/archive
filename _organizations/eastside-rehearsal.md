@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: ESRLogo.jpg
+project_titles:
+  - Free Music Studio Access for Students of Los Angeles
 maker_image_id: '23180'
 organization_id: '2015055'
 title: Eastside Rehearsal
@@ -25,6 +27,8 @@ zip: '90033'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23180%252Fdisplay%252FESRLogo.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102090'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/EastsideRehearsal.html'
@@ -32,13 +36,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102181'
-original_project_ids:
-  - '5102090'
-original_project_titles:
-  - Free Music Studio Access for Students of Los Angeles
-extrapolated_project_ids:
-  - '5102090'
-extrapolated_project_titles:
-  - Free Music Studio Access for Students of Los Angeles
 
 ---

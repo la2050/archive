@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    LIT is a community block party with curated lights and music featuring local
+    SFV talent
 organization_id: '2016251'
 title: Valley Relics
 org_type: Nonprofit
@@ -21,6 +25,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/rFJckDRj_3A?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102278'
 aggregated:
   challenge_url:
     - >-
@@ -29,17 +35,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102278'
-original_project_ids:
-  - '6102278'
-original_project_titles:
-  - >-
-    LIT is a community block party with curated lights and music featuring local
-    SFV talent
-extrapolated_project_ids:
-  - '6102278'
-extrapolated_project_titles:
-  - >-
-    LIT is a community block party with curated lights and music featuring local
-    SFV talent
 
 ---

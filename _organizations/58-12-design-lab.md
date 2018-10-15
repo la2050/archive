@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: la2050_title.jpg
+project_titles:
+  - LA Stories — Writing on the Job
 maker_image_id: '16859'
 organization_id: '2013001'
 title: 58-12 Design Lab
@@ -41,6 +43,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16859%252Fdisplay%252Fla2050_title.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102002'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/lastories.html'
@@ -48,13 +52,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102002'
-original_project_ids:
-  - '3102002'
-original_project_titles:
-  - LA Stories — Writing on the Job
-extrapolated_project_ids:
-  - '3102002'
-extrapolated_project_titles:
-  - LA Stories — Writing on the Job
 
 ---

@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Empowering community organizations to grow through logistics and data
+    analytics
 organization_id: '2016201'
 title: SportUp
 org_type: Forprofit
@@ -22,6 +26,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
 project_video: 'https://www.youtube.com/embed/Dh_mEDo9vD8?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102233'
 aggregated:
   challenge_url:
     - >-
@@ -30,17 +36,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102233'
-original_project_ids:
-  - '6102233'
-original_project_titles:
-  - >-
-    Empowering community organizations to grow through logistics and data
-    analytics
-extrapolated_project_ids:
-  - '6102233'
-extrapolated_project_titles:
-  - >-
-    Empowering community organizations to grow through logistics and data
-    analytics
 
 ---

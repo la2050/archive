@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - The 4Liter Classroom Challenge
+  - >-
+    The 4Liters Pop-Up Experience: Los Angeles Middle Schoolers Learn To Love &
+    Conserve Their Water
 organization_id: '2016064'
 title: DIGDEEP Water
 org_type: Nonprofit
@@ -19,6 +24,9 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
 project_video: ''
+project_ids:
+  - '6102060'
+  - '4102054'
 aggregated:
   challenge_url:
     - >-
@@ -29,21 +37,5 @@ aggregated:
   project_ids:
     - '6102060'
     - '4102225'
-original_project_ids:
-  - '4102054'
-  - '6102060'
-original_project_titles:
-  - The 4Liter Classroom Challenge
-  - >-
-    The 4Liters Pop-Up Experience: Los Angeles Middle Schoolers Learn To Love &
-    Conserve Their Water
-extrapolated_project_ids:
-  - '6102060'
-  - '4102054'
-extrapolated_project_titles:
-  - >-
-    The 4Liters Pop-Up Experience: Los Angeles Middle Schoolers Learn To Love &
-    Conserve Their Water
-  - The 4Liter Classroom Challenge
 
 ---

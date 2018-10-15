@@ -1,5 +1,11 @@
 ---
 maker_image_file_name: IMG_4644.JPG
+project_titles:
+  - Cypress Park Pocket Park
+  - >-
+    Network and Nature:Identification and Implementation of Community Green
+    Spaces within Los Angeles
+  - Watts Rain Gardens
 maker_image_id: '24100'
 organization_id: '2015069'
 title: From Lot to Spot
@@ -22,6 +28,10 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385
 project_video: ''
+project_ids:
+  - '5102107'
+  - '4102079'
+  - '3102134'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
@@ -35,25 +45,5 @@ aggregated:
     - '5102107'
     - '4102199'
     - '3102134'
-original_project_ids:
-  - '3102134'
-  - '4102079'
-  - '5102107'
-original_project_titles:
-  - Cypress Park Pocket Park
-  - >-
-    Network and Nature:Identification and Implementation of Community Green
-    Spaces within Los Angeles
-  - Watts Rain Gardens
-extrapolated_project_ids:
-  - '5102107'
-  - '4102079'
-  - '3102134'
-extrapolated_project_titles:
-  - Watts Rain Gardens
-  - Cypress Park Pocket Park
-  - >-
-    Network and Nature:Identification and Implementation of Community Green
-    Spaces within Los Angeles
 
 ---

@@ -1,5 +1,13 @@
 ---
 maker_image_file_name: DFO_retreat_rowdy_pic.jpg
+project_titles:
+  - General Message to Humanity.
+  - >-
+    Increase Voter Turnout, Neighbor to Neighbor Communication and Gov't
+    Responsiveness
+  - >-
+    Increase Voter Turnout Neighbor to Neighbor Communication and Govt
+    Responsiveness
 maker_image_id: '16571'
 organization_id: '2013045'
 title: Courage Campaign
@@ -59,6 +67,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16571%252Fdisplay%252FDFO_retreat_rowdy_pic.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102094'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
@@ -66,18 +76,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102094'
-original_project_ids:
-  - '3102094'
-original_project_titles:
-  - General Message to Humanity.
-  - >-
-    Increase Voter Turnout, Neighbor to Neighbor Communication and Gov't
-    Responsiveness
-extrapolated_project_ids:
-  - '3102094'
-extrapolated_project_titles:
-  - >-
-    Increase Voter Turnout Neighbor to Neighbor Communication and Govt
-    Responsiveness
 
 ---

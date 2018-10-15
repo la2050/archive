@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: CB_Logo.jpg
+project_titles:
+  - South Los Angeles Healthy Corner Store Conversion Program
 maker_image_id: '23775'
 organization_id: '2015032'
 title: Children's Bureau of Southern California
@@ -24,6 +26,8 @@ zip: '90007'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102054'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'
@@ -34,13 +38,5 @@ aggregated:
   project_ids:
     - '5102054'
     - '3102060'
-original_project_ids:
-  - '5102054'
-original_project_titles:
-  - South Los Angeles Healthy Corner Store Conversion Program
-extrapolated_project_ids:
-  - '5102054'
-extrapolated_project_titles:
-  - South Los Angeles Healthy Corner Store Conversion Program
 
 ---

@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: Poster2_smaller.jpg
+project_titles:
+  - PARK-IN-A-BOX
+  - PARKINABOX
 maker_image_id: '17284'
 organization_id: '2013062'
 title: ERW DESIGN + SALT Landscape Architects
@@ -45,6 +48,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17284%252Fdisplay%252FPoster2_smaller.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102036'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
@@ -52,12 +57,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102036'
-original_project_ids: []
-original_project_titles:
-  - PARK-IN-A-BOX
-extrapolated_project_ids:
-  - '3102036'
-extrapolated_project_titles:
-  - PARKINABOX
 
 ---

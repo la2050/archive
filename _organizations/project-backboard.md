@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: phXK2cX3WEk
+project_titles:
+  - >-
+    Basketball Courts and Public Art: Inspiring Inter-generational Play in
+    Public Parks
 organization_id: '2015159'
 title: Project Backboard
 org_type: Nonprofit
@@ -23,6 +27,8 @@ ein: '475245280'
 zip: '91030'
 project_image: 'https://img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102243'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
@@ -30,17 +36,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102243'
-original_project_ids:
-  - '5102243'
-original_project_titles:
-  - >-
-    Basketball Courts and Public Art: Inspiring Inter-generational Play in
-    Public Parks
-extrapolated_project_ids:
-  - '5102243'
-extrapolated_project_titles:
-  - >-
-    Basketball Courts and Public Art: Inspiring Inter-generational Play in
-    Public Parks
 
 ---

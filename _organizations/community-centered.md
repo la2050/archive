@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: civicla.png
+project_titles:
+  - 'CivicLA: Connecting You to the Best of LA'
 maker_image_id: '21146'
 organization_id: '2014017'
 title: Community Centered
@@ -22,6 +24,8 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21146%252Fdisplay%252Fcivicla.png=c570x385
 project_video: ''
+project_ids:
+  - '4102044'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/civicla.html'
@@ -29,13 +33,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102018'
-original_project_ids:
-  - '4102044'
-original_project_titles:
-  - 'CivicLA: Connecting You to the Best of LA'
-extrapolated_project_ids:
-  - '4102044'
-extrapolated_project_titles:
-  - 'CivicLA: Connecting You to the Best of LA'
 
 ---

@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: y3Gts_Aoxd8
+project_titles:
+  - 'The Salamander Project: Re-designing Creativity in Education'
+  - 'The Salamander Project: Redesigning Creativity in Education'
 organization_id: '2013145'
 title: No Right Brain Left Behind and Green Dot Schools
 org_type: Nonprofit
@@ -44,6 +47,8 @@ ein: '954679811'
 zip: ''
 project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102207'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/salamanderproject.html'
@@ -51,12 +56,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102207'
-original_project_ids: []
-original_project_titles:
-  - 'The Salamander Project: Re-designing Creativity in Education'
-extrapolated_project_ids:
-  - '3102207'
-extrapolated_project_titles:
-  - 'The Salamander Project: Redesigning Creativity in Education'
 
 ---

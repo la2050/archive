@@ -1,4 +1,12 @@
 ---
+project_titles:
+  - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
+  - LA Landfill Harmonic Orchestra
+  - Robin Hoods of Rubbish for the LA LandfillHarmonics
+  - T4T.org’s Mobile Makers' Space with ReImagined Resources
+  - T4T.org’s ReImagined Resource Center STEAM Labs
+  - The Robin Hoods of Rubbish are building STEAM Labs!
+  - T4T.org’s Mobile Makers Space with ReImagined Resources
 organization_id: '2016205'
 title: T4T.org
 org_type: Nonprofit
@@ -20,6 +28,13 @@ zip: '90249'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/p6jmc2uJAb0?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102227'
+  - '6102226'
+  - '6102225'
+  - '5102289'
+  - '5102288'
+  - '5102287'
 aggregated:
   challenge_url:
     - >-
@@ -48,33 +63,5 @@ aggregated:
     - '5102287'
     - '5102287'
     - '4102239'
-original_project_ids:
-  - '5102288'
-  - '5102289'
-  - '5102287'
-  - '6102225'
-  - '6102226'
-  - '6102227'
-original_project_titles:
-  - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
-  - LA Landfill Harmonic Orchestra
-  - Robin Hoods of Rubbish for the LA LandfillHarmonics
-  - T4T.org’s Mobile Makers' Space with ReImagined Resources
-  - T4T.org’s ReImagined Resource Center STEAM Labs
-  - The Robin Hoods of Rubbish are building STEAM Labs!
-extrapolated_project_ids:
-  - '6102225'
-  - '6102226'
-  - '6102227'
-  - '5102288'
-  - '5102287'
-  - '5102289'
-extrapolated_project_titles:
-  - The Robin Hoods of Rubbish are building STEAM Labs!
-  - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
-  - Robin Hoods of Rubbish for the LA LandfillHarmonics
-  - LA Landfill Harmonic Orchestra
-  - T4T.org’s Mobile Makers Space with ReImagined Resources
-  - T4T.org’s ReImagined Resource Center STEAM Labs
 
 ---

@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Helping L.A. Live Healthier One Taco at a Time!
 organization_id: '2016063'
 title: Dear Mama
 org_type: Forprofit
@@ -17,6 +19,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
 project_video: ''
+project_ids:
+  - '6102116'
 aggregated:
   challenge_url:
     - >-
@@ -25,13 +29,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102116'
-original_project_ids:
-  - '6102116'
-original_project_titles:
-  - Helping L.A. Live Healthier One Taco at a Time!
-extrapolated_project_ids:
-  - '6102116'
-extrapolated_project_titles:
-  - Helping L.A. Live Healthier One Taco at a Time!
 
 ---

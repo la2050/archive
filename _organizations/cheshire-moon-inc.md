@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: mf0l7ocARFM
+project_titles:
+  - Dancescape Ed
 organization_id: '2013031'
 title: Cheshire Moon Inc
 org_type: Nonprofit
@@ -66,6 +68,8 @@ ein: '80731426'
 zip: ''
 project_image: 'https://img.youtube.com/vi/mf0l7ocARFM/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102058'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/DancescapeLA.html'
@@ -73,13 +77,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102058'
-original_project_ids:
-  - '3102058'
-original_project_titles:
-  - Dancescape Ed
-extrapolated_project_ids:
-  - '3102058'
-extrapolated_project_titles:
-  - Dancescape Ed
 
 ---

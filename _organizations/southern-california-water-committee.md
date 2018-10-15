@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: mvOTPkbwJJU
+project_titles:
+  - >-
+    Making California Friendly Plants Mainstream to Drought Proof Southern
+    California
 organization_id: '2015189'
 title: Southern California Water Committee
 org_type: Nonprofit
@@ -20,6 +24,8 @@ ein: '330081886'
 zip: '91604'
 project_image: 'https://img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102277'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
@@ -27,17 +33,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102277'
-original_project_ids:
-  - '5102277'
-original_project_titles:
-  - >-
-    Making California Friendly Plants Mainstream to Drought Proof Southern
-    California
-extrapolated_project_ids:
-  - '5102277'
-extrapolated_project_titles:
-  - >-
-    Making California Friendly Plants Mainstream to Drought Proof Southern
-    California
 
 ---

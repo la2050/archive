@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Women Lead L.A.: Activating Women to Collaborate, Lead, and Make Positive
+    Change
 organization_id: '2018134'
 title: VoteRunLead
 org_type: Nonprofit
@@ -19,6 +23,8 @@ ein: '46'
 zip: '990275'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/voterunlead.jpg'
 project_video: 'https://www.youtube.com/watch?v=UJlhdh9rWgs'
+project_ids:
+  - '8102134'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/voterunlead/'
@@ -26,17 +32,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102134'
-original_project_ids:
-  - '8102134'
-original_project_titles:
-  - >-
-    Women Lead L.A.: Activating Women to Collaborate, Lead, and Make Positive
-    Change
-extrapolated_project_ids:
-  - '8102134'
-extrapolated_project_titles:
-  - >-
-    Women Lead L.A.: Activating Women to Collaborate, Lead, and Make Positive
-    Change
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: FAirDH4ROp0
+project_titles:
+  - Free pLAy for all L.A.
 organization_id: '2015105'
 title: Knucklebones
 org_type: Forprofit
@@ -21,6 +23,8 @@ ein: '473411058'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102162'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/playla.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102240'
-original_project_ids:
-  - '5102162'
-original_project_titles:
-  - Free pLAy for all L.A.
-extrapolated_project_ids:
-  - '5102162'
-extrapolated_project_titles:
-  - Free pLAy for all L.A.
 
 ---

@@ -1,4 +1,11 @@
 ---
+project_titles:
+  - >-
+    Connect to RaiseAChild: Engaging Angelenos to improve outcomes for foster
+    kids.
+  - >-
+    20000 KIDS PROJECT LA: Connecting LA’s foster children with loving homes in
+    our diverse communities
 organization_id: '2018100'
 title: 'Raise A Child, Inc.'
 org_type: Nonprofit
@@ -22,6 +29,9 @@ zip: '90013'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
 project_video: 'https://vimeo.com/261964830'
+project_ids:
+  - '8102100'
+  - '4102180'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/raise-a-child-inc/'
@@ -32,17 +42,5 @@ aggregated:
   project_ids:
     - '8102100'
     - '4102263'
-original_project_ids:
-  - '8102100'
-original_project_titles:
-  - >-
-    Connect to RaiseAChild: Engaging Angelenos to improve outcomes for foster
-    kids.
-extrapolated_project_ids:
-  - '4102180'
-extrapolated_project_titles:
-  - >-
-    20000 KIDS PROJECT LA: Connecting LA’s foster children with loving homes in
-    our diverse communities
 
 ---

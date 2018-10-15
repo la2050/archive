@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: '-t89MRZW7G0'
+project_titles:
+  - The Connections Program
 organization_id: '2013023'
 title: Bright Star Schools
 org_type: Nonprofit
@@ -95,6 +97,8 @@ ein: '550806673'
 zip: ''
 project_image: 'https://img.youtube.com/vi/-t89MRZW7G0/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102042'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/connections.html'
@@ -102,13 +106,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102042'
-original_project_ids:
-  - '3102042'
-original_project_titles:
-  - The Connections Program
-extrapolated_project_ids:
-  - '3102042'
-extrapolated_project_titles:
-  - The Connections Program
 
 ---

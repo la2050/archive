@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: U3BkXd4ano4
+project_titles:
+  - Beautiful Rain Barrels in Public Places
 organization_id: '2013213'
 title: Venice Art Crawl
 org_type: Nonprofit
@@ -32,6 +34,8 @@ ein: '956419214'
 zip: ''
 project_image: 'https://img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102271'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'
@@ -39,13 +43,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102271'
-original_project_ids:
-  - '3102271'
-original_project_titles:
-  - Beautiful Rain Barrels in Public Places
-extrapolated_project_ids:
-  - '3102271'
-extrapolated_project_titles:
-  - Beautiful Rain Barrels in Public Places
 
 ---

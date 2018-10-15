@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: Gx66ZyZaf90
+project_titles:
+  - Pavement to Parks
 organization_id: '2013139'
 title: National Park Service
 org_type: Nonprofit
@@ -39,6 +41,8 @@ ein: '841024566'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Gx66ZyZaf90/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102201'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/GreenKidsLA2050.html'
@@ -46,13 +50,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102201'
-original_project_ids:
-  - '3102201'
-original_project_titles:
-  - Pavement to Parks
-extrapolated_project_ids:
-  - '3102201'
-extrapolated_project_titles:
-  - Pavement to Parks
 
 ---

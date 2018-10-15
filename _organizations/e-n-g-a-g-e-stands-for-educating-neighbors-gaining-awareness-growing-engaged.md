@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: HtWxHzKO0zY
+project_titles:
+  - The County Resident from District 3
 organization_id: '2013054'
 title: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Engaged
 org_type: For profit
@@ -52,6 +54,8 @@ ein: '474528239'
 zip: ''
 project_image: 'https://img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102032'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CRD3LA.html'
@@ -59,13 +63,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102032'
-original_project_ids:
-  - '3102032'
-original_project_titles:
-  - The County Resident from District 3
-extrapolated_project_ids:
-  - '3102032'
-extrapolated_project_titles:
-  - The County Resident from District 3
 
 ---

@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: MyBucketlistLA.png
+project_titles:
+  - My Bucket List LA
 maker_image_id: '23304'
 organization_id: '2015090'
 title: Independent Team of LA Residents
@@ -18,6 +20,8 @@ zip: '90025'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23304%252Fdisplay%252FMyBucketlistLA.png=c570x385
 project_video: ''
+project_ids:
+  - '5102140'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/mybucketlistLA.html'
@@ -25,13 +29,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102140'
-original_project_ids:
-  - '5102140'
-original_project_titles:
-  - My Bucket List LA
-extrapolated_project_ids:
-  - '5102140'
-extrapolated_project_titles:
-  - My Bucket List LA
 
 ---

@@ -1,5 +1,12 @@
 ---
 maker_image_file_name: slide-image-1.jpg
+project_titles:
+  - >-
+    Coworking Platform for Micro-Filmmakers with Locations, Legal Tools and
+    World-wide Distribution
+  - Droplabs
+  - 'The Moebius Incubator: A New Step for L.A.''s Entrepeneurs'
+  - 'The Moebius Incubator: A New Step for L.A.s Entrepeneurs'
 maker_image_id: '21245'
 organization_id: '2014027'
 title: Droplabs
@@ -21,6 +28,9 @@ zip: '90031'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21245%252Fdisplay%252Fslide-image-1.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102058'
+  - '3102031'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/droplabs.html'
@@ -30,22 +40,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102031'
-original_project_ids:
-  - '3102031'
-  - '3102031'
-  - '4102058'
-original_project_titles:
-  - >-
-    Coworking Platform for Micro-Filmmakers with Locations, Legal Tools and
-    World-wide Distribution
-  - Droplabs
-  - 'The Moebius Incubator: A New Step for L.A.''s Entrepeneurs'
-  - 'The Moebius Incubator: A New Step for L.A.''s Entrepeneurs'
-extrapolated_project_ids:
-  - '4102058'
-  - '3102031'
-extrapolated_project_titles:
-  - Droplabs
-  - 'The Moebius Incubator: A New Step for L.A.s Entrepeneurs'
 
 ---

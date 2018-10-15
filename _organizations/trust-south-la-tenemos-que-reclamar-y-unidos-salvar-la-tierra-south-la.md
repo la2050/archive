@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: zwlibJLtPOE
+project_titles:
+  - 'TRUST South LA 2050: Affordable Homes, Sustainable Neighborhoods'
+  - 'TRUST South LA 2050: Affordable Homes Sustainable Neighborhoods'
 organization_id: '2013199'
 title: TRUST South LA (Tenemos que Reclamar y Unidos Salvar la Tierra-South LA)
 org_type: Nonprofit
@@ -88,6 +91,8 @@ zip: ''
 project_image: >-
   https://scontent-lga3-1.cdninstagram.com/vp/9e2f7cf807ee3d828ce61e335b033f1a/5C4816E0/t51.2885-15/e35/14566729_1134408803308905_6445803479507140608_n.jpg
 project_video: ''
+project_ids:
+  - '3102259'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
@@ -95,13 +100,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102259'
-original_project_ids:
-  - '3102259'
-original_project_titles:
-  - 'TRUST South LA 2050: Affordable Homes, Sustainable Neighborhoods'
-extrapolated_project_ids:
-  - '3102259'
-extrapolated_project_titles:
-  - 'TRUST South LA 2050: Affordable Homes Sustainable Neighborhoods'
 
 ---

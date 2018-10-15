@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    World Harvest Dream Village: Affordable Housing with Food, Jobs, Healthcare,
+    and Community.
 organization_id: '2018139'
 title: World Harvest Charities & Family Services
 org_type: Nonprofit
@@ -19,6 +23,8 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
 project_video: 'https://youtu.be/Jtc3hudRjRA'
+project_ids:
+  - '8102139'
 aggregated:
   challenge_url:
     - >-
@@ -27,13 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102139'
-original_project_ids:
-  - '8102139'
-original_project_titles:
-  - >-
-    World Harvest Dream Village: Affordable Housing with Food, Jobs, Healthcare,
-    and Community.
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

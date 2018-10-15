@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: ApjqumUUgTI
+project_titles:
+  - 'Row Gallery Foundation: Empowering Artists from All Walks of Life'
 organization_id: '2014077'
 title: Row Gallery Foundation
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '465706323'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102182'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/RowGallery.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102078'
-original_project_ids:
-  - '4102182'
-original_project_titles:
-  - 'Row Gallery Foundation: Empowering Artists from All Walks of Life'
-extrapolated_project_ids:
-  - '4102182'
-extrapolated_project_titles:
-  - 'Row Gallery Foundation: Empowering Artists from All Walks of Life'
 
 ---

@@ -1,4 +1,10 @@
 ---
+project_titles:
+  - 'Abuse ≠Love: LA Youth Against Violence Initiative '
+  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
+  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
+  - 'Jeneration J: A New Generation of Healthy Relationships'
+  - 'Abuse ≠Love: LA Youth Against Violence Initiative'
 organization_id: '2016113'
 title: 'Jenesse Center, Inc.'
 org_type: Nonprofit
@@ -22,6 +28,11 @@ zip: '90008'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Rols-6I43HE?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102108'
+  - '5102149'
+  - '4102103'
+  - '3102159'
 aggregated:
   challenge_url:
     - >-
@@ -39,25 +50,5 @@ aggregated:
     - '5102149'
     - '4102230'
     - '3102159'
-original_project_ids:
-  - '3102159'
-  - '4102103'
-  - '5102149'
-  - '6102108'
-original_project_titles:
-  - 'Abuse ≠Love: LA Youth Against Violence Initiative '
-  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
-  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
-  - 'Jeneration J: A New Generation of Healthy Relationships'
-extrapolated_project_ids:
-  - '6102108'
-  - '5102149'
-  - '4102103'
-  - '3102159'
-extrapolated_project_titles:
-  - 'Jeneration J: A New Generation of Healthy Relationships'
-  - 'Abuse ≠Love: LA Youth Against Violence Initiative'
-  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
-  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
 
 ---

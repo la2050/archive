@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Change_Better_Profile.jpg
+project_titles:
+  - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
 maker_image_id: '23690'
 organization_id: '2015030'
 title: Change Better
@@ -21,6 +23,8 @@ zip: '91302'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23690%252Fdisplay%252FChange_Better_Profile.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102051'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102051'
-original_project_ids:
-  - '5102051'
-original_project_titles:
-  - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
-extrapolated_project_ids:
-  - '5102051'
-extrapolated_project_titles:
-  - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
 
 ---

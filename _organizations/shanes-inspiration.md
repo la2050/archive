@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: yUDKtK6Gfls
+project_titles:
+  - Together We Play L.A.!
+  - 'Together We Play L.A.! '
 organization_id: '2015179'
 title: Shane's Inspiration
 org_type: Nonprofit
@@ -21,6 +24,9 @@ ein: '954760497'
 zip: '91411'
 project_image: 'https://img.youtube.com/vi/yUDKtK6Gfls/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102266'
+  - '4102191'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
@@ -31,17 +37,5 @@ aggregated:
   project_ids:
     - '5102266'
     - '4102212'
-original_project_ids:
-  - '4102191'
-  - '4102191'
-original_project_titles:
-  - Together We Play L.A.!
-  - 'Together We Play L.A.! '
-extrapolated_project_ids:
-  - '5102266'
-  - '4102191'
-extrapolated_project_titles:
-  - Together We Play L.A.!
-  - Together We Play L.A.!
 
 ---

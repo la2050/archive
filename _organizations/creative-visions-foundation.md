@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: 8N5kv8ddErc
+project_titles:
+  - Creative Activist Program
 organization_id: '2013048'
 title: Creative Visions Foundation
 org_type: Nonprofit
@@ -52,6 +54,8 @@ ein: 39190 2814
 zip: ''
 project_image: 'https://img.youtube.com/vi/8N5kv8ddErc/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102097'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/creativeactivists.html'
@@ -59,13 +63,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102097'
-original_project_ids:
-  - '3102097'
-original_project_titles:
-  - Creative Activist Program
-extrapolated_project_ids:
-  - '3102097'
-extrapolated_project_titles:
-  - Creative Activist Program
 
 ---

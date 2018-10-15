@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: civictechusc_neighborhood_LA2050.png
+project_titles:
+  - Expanding Participation with Online Voting in LA Neighborhood Councils
 maker_image_id: '23887'
 organization_id: '2015035'
 title: Civic Tech USC
@@ -22,6 +24,8 @@ zip: '90071'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23887%252Fdisplay%252Fcivictechusc_neighborhood_LA2050.png=c570x385
 project_video: ''
+project_ids:
+  - '5102064'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/neighborhoodelect.html'
@@ -29,13 +33,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102064'
-original_project_ids:
-  - '5102064'
-original_project_titles:
-  - Expanding Participation with Online Voting in LA Neighborhood Councils
-extrapolated_project_ids:
-  - '5102064'
-extrapolated_project_titles:
-  - Expanding Participation with Online Voting in LA Neighborhood Councils
 
 ---

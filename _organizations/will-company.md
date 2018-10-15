@@ -1,5 +1,10 @@
 ---
 youtube_video_identifier: GzEz6Q-9lWQ
+project_titles:
+  - >-
+    Arts & Fitness After School, for the Health of Young Minds, Bodies and
+    Spirits
+  - Arts & Fitness After School for the Health of Young Minds Bodies and Spirits
 organization_id: '2014106'
 title: Will & Company
 org_type: Nonprofit
@@ -21,6 +26,8 @@ ein: '954215225'
 zip: '91401'
 project_image: 'https://img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102256'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
@@ -28,15 +35,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102105'
-original_project_ids:
-  - '4102256'
-original_project_titles:
-  - >-
-    Arts & Fitness After School, for the Health of Young Minds, Bodies and
-    Spirits
-extrapolated_project_ids:
-  - '4102256'
-extrapolated_project_titles:
-  - Arts & Fitness After School for the Health of Young Minds Bodies and Spirits
 
 ---

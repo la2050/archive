@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Eco_Civ.png
+project_titles:
+  - PANDO HUBS
 maker_image_id: '23521'
 organization_id: '2015150'
 title: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
@@ -25,6 +27,8 @@ zip: '10014'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23521%252Fdisplay%252FEco_Civ.png=c570x385
 project_video: ''
+project_ids:
+  - '5102227'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
@@ -32,13 +36,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102227'
-original_project_ids:
-  - '5102227'
-original_project_titles:
-  - PANDO HUBS
-extrapolated_project_ids:
-  - '5102227'
-extrapolated_project_titles:
-  - PANDO HUBS
 
 ---

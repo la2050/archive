@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: 4zAG6xu-HQM
+project_titles:
+  - 'cARTel: Collaborative Arts LA''s To-Do List'
+  - 'cARTel: Collaborative Arts LAs ToDo List'
 organization_id: '2013030'
 title: 'cARTel: Collaborative Arts LA'
 org_type: For profit
@@ -29,6 +32,8 @@ ein: '270794887'
 zip: ''
 project_image: 'https://img.youtube.com/vi/4zAG6xu-HQM/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102008'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/cartel.html'
@@ -36,12 +41,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102008'
-original_project_ids: []
-original_project_titles:
-  - 'cARTel: Collaborative Arts LA''s To-Do List'
-extrapolated_project_ids:
-  - '3102008'
-extrapolated_project_titles:
-  - 'cARTel: Collaborative Arts LAs ToDo List'
 
 ---

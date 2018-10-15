@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Action Ambassadors for LA
 organization_id: '2016245'
 title: United Nations Association-USA Pasadena Chapter Inc.
 org_type: Nonprofit
@@ -21,6 +23,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6459268355741-team89.png
 project_video: 'https://www.youtube.com/embed/YKNosko-ufM?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102271'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
@@ -28,13 +32,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102271'
-original_project_ids:
-  - '6102271'
-original_project_titles:
-  - Action Ambassadors for LA
-extrapolated_project_ids:
-  - '6102271'
-extrapolated_project_titles:
-  - Action Ambassadors for LA
 
 ---

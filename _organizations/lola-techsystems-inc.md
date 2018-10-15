@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Lola software makes learning possible.
 organization_id: '2018070'
 title: 'Lola Techsystems, Inc.'
 org_type: Forprofit
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/lola-techsystems-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=pOdXvRDzj98'
+project_ids:
+  - '8102070'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/lola-techsystems-inc/'
@@ -27,11 +31,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102105'
-original_project_ids:
-  - '8102070'
-original_project_titles:
-  - Lola software makes learning possible.
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: AxSBrochure_Cover_v2.jpg
+project_titles:
+  - 'AxS [ak-sis] Festival'
+  - AxS aksis Festival
 maker_image_id: '16490'
 organization_id: '2013152'
 title: Pasadena Arts Council
@@ -45,6 +48,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16490%252Fdisplay%252FAxSBrochure_Cover_v2.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102214'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/axsfestival.html'
@@ -52,12 +57,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102214'
-original_project_ids: []
-original_project_titles:
-  - 'AxS [ak-sis] Festival'
-extrapolated_project_ids:
-  - '3102214'
-extrapolated_project_titles:
-  - AxS aksis Festival
 
 ---

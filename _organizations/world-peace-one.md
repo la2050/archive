@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: WP1_Logo_new.jpg
+project_titles:
+  - Transforming Communities for Peace
 maker_image_id: '22532'
 organization_id: '2014109'
 title: World Peace One
@@ -23,6 +25,8 @@ zip: '33062'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22532%252Fdisplay%252FWP1_Logo_new.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102261'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/peace.html'
@@ -30,13 +34,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102108'
-original_project_ids:
-  - '4102261'
-original_project_titles:
-  - Transforming Communities for Peace
-extrapolated_project_ids:
-  - '4102261'
-extrapolated_project_titles:
-  - Transforming Communities for Peace
 
 ---

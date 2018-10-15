@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: QueerFest2014.jpg
+project_titles:
+  - QueerFest LA
 maker_image_id: '21336'
 organization_id: '2014075'
 title: QueerFest
@@ -21,6 +23,8 @@ zip: '90039'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21336%252Fdisplay%252FQueerFest2014.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102179'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
@@ -28,13 +32,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102076'
-original_project_ids:
-  - '4102179'
-original_project_titles:
-  - QueerFest LA
-extrapolated_project_ids:
-  - '4102179'
-extrapolated_project_titles:
-  - QueerFest LA
 
 ---

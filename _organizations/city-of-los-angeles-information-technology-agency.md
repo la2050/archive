@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - GoDigital! LA’s Digital Literacy Program
 organization_id: '2018025'
 title: City of Los Angeles Information Technology Agency
 org_type: Government
@@ -20,6 +22,8 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 project_video: 'https://youtu.be/5eE1kF4xL2U'
+project_ids:
+  - '8102025'
 aggregated:
   challenge_url:
     - >-
@@ -28,11 +32,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102025'
-original_project_ids:
-  - '8102025'
-original_project_titles:
-  - GoDigital! LA’s Digital Literacy Program
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

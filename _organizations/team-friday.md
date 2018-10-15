@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: USE.jpg
+project_titles:
+  - ARTmageddon
 maker_image_id: '17024'
 organization_id: '2013180'
 title: Team Friday
@@ -33,6 +35,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17024%252Fdisplay%252FUSE.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102104'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/artmageddon.html'
@@ -40,13 +44,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102104'
-original_project_ids:
-  - '3102104'
-original_project_titles:
-  - ARTmageddon
-extrapolated_project_ids:
-  - '3102104'
-extrapolated_project_titles:
-  - ARTmageddon
 
 ---

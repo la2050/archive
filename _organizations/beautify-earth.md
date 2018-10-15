@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: I-2fvjBviRI
+project_titles:
+  - Beautify LA!
 organization_id: '2014013'
 title: Beautify Earth
 org_type: Nonprofit
@@ -19,6 +21,8 @@ ein: '464749422'
 zip: '90405'
 project_image: 'https://img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102021'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102014'
-original_project_ids:
-  - '4102021'
-original_project_titles:
-  - Beautify LA!
-extrapolated_project_ids:
-  - '4102021'
-extrapolated_project_titles:
-  - Beautify LA!
 
 ---

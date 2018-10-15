@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: NEW_IFCLOGO.jpg
+project_titles:
+  - Four Seasons of Food
 maker_image_id: '20849'
 organization_id: '2014158'
 title: Interfaith Food Center
@@ -18,17 +20,13 @@ zip: '90670'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20849%252Fdisplay%252FNEW_IFCLOGO.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102145'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102141'
-original_project_ids:
-  - '4102145'
-original_project_titles:
-  - Four Seasons of Food
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

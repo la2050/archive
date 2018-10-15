@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: image.jpg
+project_titles:
+  - Empowering students thru arts and education
 maker_image_id: '16307'
 organization_id: '2013138'
 title: MUSEK
@@ -31,6 +33,8 @@ ein: '546674177'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids:
+  - '3102079'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/MUSEK.html'
@@ -38,13 +42,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102079'
-original_project_ids:
-  - '3102079'
-original_project_titles:
-  - Empowering students thru arts and education
-extrapolated_project_ids:
-  - '3102079'
-extrapolated_project_titles:
-  - Empowering students thru arts and education
 
 ---

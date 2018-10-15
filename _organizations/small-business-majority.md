@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Supporting the entrepreneurs who create a vibrant Los Angeles
 organization_id: '2018109'
 title: Small Business Majority
 org_type: Nonprofit
@@ -21,6 +23,8 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg
 project_video: 'https://www.youtube.com/watch?v=ZgMxPYmoLgA'
+project_ids:
+  - '8102109'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/small-business-majority/'
@@ -28,11 +32,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102109'
-original_project_ids:
-  - '8102109'
-original_project_titles:
-  - Supporting the entrepreneurs who create a vibrant Los Angeles
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

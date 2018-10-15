@@ -1,4 +1,11 @@
 ---
+project_titles:
+  - >-
+    Ending generational cycles of poverty through urban youth and community
+    development programs 
+  - >-
+    Ending generational cycles of poverty through urban youth and community
+    development programs
 organization_id: '2016243'
 title: 'Unite A Nation, Inc.'
 org_type: Nonprofit
@@ -21,6 +28,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
 project_video: ''
+project_ids:
+  - '6102269'
 aggregated:
   challenge_url:
     - >-
@@ -29,17 +38,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102269'
-original_project_ids:
-  - '6102269'
-original_project_titles:
-  - >-
-    Ending generational cycles of poverty through urban youth and community
-    development programs 
-extrapolated_project_ids:
-  - '6102269'
-extrapolated_project_titles:
-  - >-
-    Ending generational cycles of poverty through urban youth and community
-    development programs
 
 ---

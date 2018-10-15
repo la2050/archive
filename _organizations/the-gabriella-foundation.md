@@ -1,5 +1,13 @@
 ---
 youtube_video_identifier: TlilAMszJEs
+project_titles:
+  - 'Everybody Dance!: Transforming Lives Through High-Quality Dance Education'
+  - >-
+    everybody dance:  Training LA’s Teachers to Bring Dance Education Back to
+    LA’s K-8 Schools
+  - >-
+    everybody dance:  Training LA’s Teachers to Bring Dance Education Back to
+    LA’s K8 Schools
 organization_id: '2014201'
 title: The Gabriella Foundation
 org_type: Nonprofit
@@ -15,6 +23,9 @@ ein: '954773654'
 zip: '90005'
 project_image: 'https://img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102213'
+  - '3102247'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/dance.html'
@@ -24,20 +35,5 @@ aggregated:
   project_ids:
     - '4102169'
     - '3102247'
-original_project_ids:
-  - '4102213'
-original_project_titles:
-  - 'Everybody Dance!: Transforming Lives Through High-Quality Dance Education'
-  - >-
-    everybody dance:  Training LA’s Teachers to Bring Dance Education Back to
-    LA’s K-8 Schools
-extrapolated_project_ids:
-  - '4102213'
-  - '3102247'
-extrapolated_project_titles:
-  - 'Everybody Dance!: Transforming Lives Through High-Quality Dance Education'
-  - >-
-    everybody dance:  Training LA’s Teachers to Bring Dance Education Back to
-    LA’s K8 Schools
 
 ---

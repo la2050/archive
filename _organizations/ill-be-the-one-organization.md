@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: IBT1student.jpg
+project_titles:
+  - 'I’LL BE THE 1 2 SEE THE LIGHT '
+  - I’LL BE THE 1 2 SEE THE LIGHT
 maker_image_id: '21338'
 organization_id: '2014154'
 title: I'll Be The One Organization
@@ -20,19 +23,13 @@ zip: '90291'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21338%252Fdisplay%252FIBT1student.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102097'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102137'
-original_project_ids:
-  - '4102097'
-original_project_titles:
-  - 'I’LL BE THE 1 2 SEE THE LIGHT '
-extrapolated_project_ids:
-  - '4102097'
-extrapolated_project_titles:
-  - I’LL BE THE 1 2 SEE THE LIGHT
 
 ---

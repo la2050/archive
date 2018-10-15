@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: A3zOCbnCHLg
+project_titles:
+  - The Pathway
 organization_id: '2014175'
 title: Meet Each Need with Dignity
 org_type: Nonprofit
@@ -15,17 +17,13 @@ ein: '237306337'
 zip: '91331'
 project_image: 'https://img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102020'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102153'
-original_project_ids:
-  - '4102020'
-original_project_titles:
-  - The Pathway
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

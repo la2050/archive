@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: beans_on_clothes_H_small.jpg
+project_titles:
+  - 'Asphalt to Apples: Sprouting Healthy Kids and Gardens'
 maker_image_id: '16977'
 organization_id: '2013078'
 title: Garden School Foundation
@@ -50,6 +52,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16977%252Fdisplay%252Fbeans_on_clothes_H_small.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102137'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/schoolgardensforall.html'
@@ -57,13 +61,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102137'
-original_project_ids:
-  - '3102137'
-original_project_titles:
-  - 'Asphalt to Apples: Sprouting Healthy Kids and Gardens'
-extrapolated_project_ids:
-  - '3102137'
-extrapolated_project_titles:
-  - 'Asphalt to Apples: Sprouting Healthy Kids and Gardens'
 
 ---

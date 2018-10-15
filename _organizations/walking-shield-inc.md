@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: scholarspic.jpg
+project_titles:
+  - 'LA American Indian College Education Initiative '
 maker_image_id: '16254'
 organization_id: '2013215'
 title: 'Walking Shield, Inc.'
@@ -38,6 +40,8 @@ ein: '330209754'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+project_ids:
+  - '3102272'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
@@ -45,13 +49,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102272'
-original_project_ids:
-  - '3102272'
-original_project_titles:
-  - 'LA American Indian College Education Initiative '
-extrapolated_project_ids:
-  - '3102272'
-extrapolated_project_titles:
-  - 'LA American Indian College Education Initiative '
 
 ---

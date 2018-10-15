@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: iHlwRhoV_78
+project_titles:
+  - >-
+    Disrupt the Desert: Reduce Poverty by Accelerating Social Innovation in
+    South LA
 organization_id: '2015184'
 title: Social Action Partners (SoACT)
 org_type: Nonprofit
@@ -22,6 +26,8 @@ ein: '271689584'
 zip: '90043'
 project_image: 'https://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102271'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
@@ -32,17 +38,5 @@ aggregated:
   project_ids:
     - '5102271'
     - '4102083'
-original_project_ids:
-  - '5102271'
-original_project_titles:
-  - >-
-    Disrupt the Desert: Reduce Poverty by Accelerating Social Innovation in
-    South LA
-extrapolated_project_ids:
-  - '5102271'
-extrapolated_project_titles:
-  - >-
-    Disrupt the Desert: Reduce Poverty by Accelerating Social Innovation in
-    South LA
 
 ---

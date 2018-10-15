@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
+project_titles:
+  - RUN FOR YOUR LIFE
 maker_image_id: '20215'
 organization_id: '2014204'
 title: The Laurel Foundation
@@ -17,17 +19,13 @@ zip: '91105'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20215%252Fdisplay%252FRUN_FOR_YOUR_LIFE.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102231'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102171'
-original_project_ids:
-  - '4102231'
-original_project_titles:
-  - RUN FOR YOUR LIFE
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

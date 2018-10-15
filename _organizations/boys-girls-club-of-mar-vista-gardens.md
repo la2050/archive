@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: xtg0o0s_GEU
+project_titles:
+  - 'BE GREAT Mentoring Program '
 organization_id: '2013020'
 title: Boys & Girls Club of Mar Vista Gardens
 org_type: Nonprofit
@@ -31,6 +33,8 @@ ein: '951890706'
 zip: ''
 project_image: 'https://img.youtube.com/vi/xtg0o0s_GEU/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102037'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/begreat.html'
@@ -38,13 +42,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102037'
-original_project_ids:
-  - '3102037'
-original_project_titles:
-  - 'BE GREAT Mentoring Program '
-extrapolated_project_ids:
-  - '3102037'
-extrapolated_project_titles:
-  - 'BE GREAT Mentoring Program '
 
 ---

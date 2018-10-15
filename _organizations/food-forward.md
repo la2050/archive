@@ -1,5 +1,10 @@
 ---
 youtube_video_identifier: EpR6dHeaGIQ
+project_titles:
+  - >-
+    Bringing Together Angelenos to Glean Local Food and Provide Fresh Produce to
+    Those in Need
+  - 'Food Forward: Connecting Angelenos Through Local Food Abundance'
 organization_id: '2013070'
 title: Food Forward
 org_type: Nonprofit
@@ -32,6 +37,8 @@ ein: '900678872'
 zip: ''
 project_image: 'https://img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102129'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FoodForwardLA.html'
@@ -39,16 +46,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102129'
-original_project_ids:
-  - '3102129'
-original_project_titles:
-  - >-
-    Bringing Together Angelenos to Glean Local Food and Provide Fresh Produce to
-    Those in Need
-  - 'Food Forward: Connecting Angelenos Through Local Food Abundance'
-extrapolated_project_ids:
-  - '3102129'
-extrapolated_project_titles:
-  - 'Food Forward: Connecting Angelenos Through Local Food Abundance'
 
 ---

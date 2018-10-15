@@ -1,4 +1,14 @@
 ---
+project_titles:
+  - >-
+    3-D SPACE: The Center For Stereoscopic Photography, Art, Cinema, and
+    Education in Los Angeles
+  - >-
+    3-D SPACE Teaches 3-D Image Creation: From Analog Photography to Digital
+    Virtual Reality
+  - >-
+    3-D SPACE: The Center For Stereoscopic Photography Art Cinema and Education
+    in Los Angeles
 organization_id: '2016002'
 title: 3-D SPACE
 org_type: Nonprofit
@@ -20,6 +30,9 @@ zip: '91601'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102001'
+  - '5102004'
 aggregated:
   challenge_url:
     - >-
@@ -31,21 +44,5 @@ aggregated:
   project_ids:
     - '6102001'
     - '5102004'
-original_project_ids:
-  - '5102004'
-original_project_titles:
-  - >-
-    3-D SPACE: The Center For Stereoscopic Photography, Art, Cinema, and
-    Education in Los Angeles
-extrapolated_project_ids:
-  - '6102001'
-  - '5102004'
-extrapolated_project_titles:
-  - >-
-    3-D SPACE Teaches 3-D Image Creation: From Analog Photography to Digital
-    Virtual Reality
-  - >-
-    3-D SPACE: The Center For Stereoscopic Photography Art Cinema and Education
-    in Los Angeles
 
 ---

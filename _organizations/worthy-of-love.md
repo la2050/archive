@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - 'Connecting Hearts To Children On Skid Row '
+  - Connecting Hearts To Children On Skid Row
 organization_id: '2016258'
 title: Worthy of Love
 org_type: Nonprofit
@@ -22,6 +25,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
 project_video: 'https://www.youtube.com/embed/auo58FNeynU?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102285'
 aggregated:
   challenge_url:
     - >-
@@ -30,13 +35,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102285'
-original_project_ids:
-  - '6102285'
-original_project_titles:
-  - 'Connecting Hearts To Children On Skid Row '
-extrapolated_project_ids:
-  - '6102285'
-extrapolated_project_titles:
-  - Connecting Hearts To Children On Skid Row
 
 ---

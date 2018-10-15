@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Youth Voice 2020
 organization_id: '2018005'
 title: 'Action Civics LA, an initiative of Mikva Challenge'
 org_type: Nonprofit
@@ -27,6 +29,8 @@ zip: '91383'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
 project_video: 'https://www.youtube.com/watch?v=DRyOMoxgsbE'
+project_ids:
+  - '8102005'
 aggregated:
   challenge_url:
     - >-
@@ -35,11 +39,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102005'
-original_project_ids:
-  - '8102005'
-original_project_titles:
-  - Youth Voice 2020
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
+project_titles:
+  - 'Ignite Imaginations, Access the World'
+  - Ignite Imaginations Access the World
 maker_image_id: '23665'
 organization_id: '2015113'
 title: Levitt Pavilion Greater Los Angeles & Pasadena
@@ -25,6 +28,8 @@ zip: '91030'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23665%252Fdisplay%252FLevitt_LA_Silk_Road-285-2080542528-O.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102175'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/IgniteImagination.html'
@@ -35,13 +40,5 @@ aggregated:
   project_ids:
     - '5102175'
     - '3102179'
-original_project_ids:
-  - '5102175'
-original_project_titles:
-  - 'Ignite Imaginations, Access the World'
-extrapolated_project_ids:
-  - '5102175'
-extrapolated_project_titles:
-  - Ignite Imaginations Access the World
 
 ---

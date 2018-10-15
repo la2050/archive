@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    The Art Barge: a traveling, interactive archive of art and culture
+    precedents along the LA River.
 organization_id: '2018063'
 title: LA River Public Art Project (c/o ERW Design)
 org_type: Forprofit
@@ -22,6 +26,8 @@ zip: '90065'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
 project_video: 'https://www.youtube.com/watch?v=Gr6O_ZaGMQo'
+project_ids:
+  - '8102063'
 aggregated:
   challenge_url:
     - >-
@@ -32,13 +38,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102247'
-original_project_ids:
-  - '8102063'
-original_project_titles:
-  - >-
-    The Art Barge: a traveling, interactive archive of art and culture
-    precedents along the LA River.
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

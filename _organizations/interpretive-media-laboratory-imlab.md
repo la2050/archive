@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: _1j9tLhT4z8
+project_titles:
+  - >-
+    Trail City LA: Connecting the city through a community authored network of
+    digitally enabled trails.
 organization_id: '2014044'
 title: Interpretive Media Laboratory (IMLab)
 org_type: Nonprofit
@@ -19,6 +23,8 @@ ein: '956006143'
 zip: 90095-1622
 project_image: 'https://img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102102'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/trailcity.html'
@@ -26,17 +32,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102045'
-original_project_ids:
-  - '4102102'
-original_project_titles:
-  - >-
-    Trail City LA: Connecting the city through a community authored network of
-    digitally enabled trails.
-extrapolated_project_ids:
-  - '4102102'
-extrapolated_project_titles:
-  - >-
-    Trail City LA: Connecting the city through a community authored network of
-    digitally enabled trails.
 
 ---

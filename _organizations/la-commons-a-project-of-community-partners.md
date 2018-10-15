@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'A Recipe for a Great City: Home Cooking'
 organization_id: '2018060'
 title: 'LA Commons, a project of Community Partners'
 org_type: Nonprofit
@@ -20,6 +22,8 @@ zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=mNrTZHODsQI'
+project_ids:
+  - '8102060'
 aggregated:
   challenge_url:
     - >-
@@ -31,11 +35,5 @@ aggregated:
   project_ids:
     - '8102060'
     - '3102171'
-original_project_ids:
-  - '8102060'
-original_project_titles:
-  - 'A Recipe for a Great City: Home Cooking'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

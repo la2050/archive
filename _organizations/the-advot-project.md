@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: logo.png
+project_titles:
+  - 'Advot: Theater to Facilitate Change'
 maker_image_id: '17036'
 organization_id: '2013183'
 title: The Advot Project
@@ -80,6 +82,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17036%252Fdisplay%252Flogo.png=c570x385
 project_video: ''
+project_ids:
+  - '3102244'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/advotproject.html'
@@ -87,13 +91,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102244'
-original_project_ids:
-  - '3102244'
-original_project_titles:
-  - 'Advot: Theater to Facilitate Change'
-extrapolated_project_ids:
-  - '3102244'
-extrapolated_project_titles:
-  - 'Advot: Theater to Facilitate Change'
 
 ---

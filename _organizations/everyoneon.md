@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
+  - >-
+    Connect with Promise: Providing Internet Connectivity & Devices to Families
+    in Public Housing
 organization_id: '2016074'
 title: EveryoneOn
 org_type: Nonprofit
@@ -21,6 +26,9 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102065'
+  - '4102067'
 aggregated:
   challenge_url:
     - >-
@@ -31,21 +39,5 @@ aggregated:
   project_ids:
     - '6102065'
     - '4102227'
-original_project_ids:
-  - '4102067'
-  - '6102065'
-original_project_titles:
-  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
-  - >-
-    Connect with Promise: Providing Internet Connectivity & Devices to Families
-    in Public Housing
-extrapolated_project_ids:
-  - '6102065'
-  - '4102067'
-extrapolated_project_titles:
-  - >-
-    Connect with Promise: Providing Internet Connectivity & Devices to Families
-    in Public Housing
-  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
 
 ---

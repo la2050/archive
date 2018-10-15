@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: collegeheadstart1.jpg
+project_titles:
+  - CARECEN's College Head Start
+  - CARECENs College Head Start
 maker_image_id: '16608'
 organization_id: '2013029'
 title: CARECEN (Central American Resource Center)
@@ -36,6 +39,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16608%252Fdisplay%252Fcollegeheadstart1.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102051'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/collegeheadstart.html'
@@ -43,13 +48,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102051'
-original_project_ids:
-  - '3102051'
-original_project_titles:
-  - CARECEN's College Head Start
-extrapolated_project_ids:
-  - '3102051'
-extrapolated_project_titles:
-  - CARECENs College Head Start
 
 ---

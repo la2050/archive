@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: ERxmCic5y3o
+project_titles:
+  - 'Communities Building Resilience: South LA'
 organization_id: '2015191'
 title: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
@@ -24,6 +26,8 @@ ein: '954635737'
 zip: '90047'
 project_image: 'https://img.youtube.com/vi/ERxmCic5y3o/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102282'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
@@ -31,13 +35,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102282'
-original_project_ids:
-  - '5102282'
-original_project_titles:
-  - 'Communities Building Resilience: South LA'
-extrapolated_project_ids:
-  - '5102282'
-extrapolated_project_titles:
-  - 'Communities Building Resilience: South LA'
 
 ---

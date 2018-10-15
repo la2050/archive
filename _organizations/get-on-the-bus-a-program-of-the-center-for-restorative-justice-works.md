@@ -1,5 +1,12 @@
 ---
 maker_image_file_name: CRJW_Goodmaker.jpg
+project_titles:
+  - >-
+    Reunifying children with their incarcerated parents in prisons throughout
+    California 
+  - >-
+    Reunifying children with their incarcerated parents in prisons throughout
+    California
 maker_image_id: '23562'
 organization_id: '2015071'
 title: Get On The Bus a program of the Center for Restorative Justice Works
@@ -22,6 +29,8 @@ zip: '91606'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23562%252Fdisplay%252FCRJW_Goodmaker.jpg=c570x385
 project_video: ''
+project_ids:
+  - '5102109'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/GetOnTheBus2015.html'
@@ -29,17 +38,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102109'
-original_project_ids:
-  - '5102109'
-original_project_titles:
-  - >-
-    Reunifying children with their incarcerated parents in prisons throughout
-    California 
-extrapolated_project_ids:
-  - '5102109'
-extrapolated_project_titles:
-  - >-
-    Reunifying children with their incarcerated parents in prisons throughout
-    California
 
 ---

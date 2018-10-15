@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: NHaLkpe_jms
+project_titles:
+  - MY CITY
 organization_id: '2014028'
 title: Dumlao Enterprises
 org_type: Forprofit
@@ -19,6 +21,8 @@ ein: '464108322'
 zip: '91406'
 project_image: 'https://img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102060'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
@@ -26,13 +30,5 @@ aggregated:
     - '2014'
   project_ids:
     - '8102052'
-original_project_ids:
-  - '4102060'
-original_project_titles:
-  - MY CITY
-extrapolated_project_ids:
-  - '4102060'
-extrapolated_project_titles:
-  - MY CITY
 
 ---

@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
 organization_id: '2016087'
 title: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 org_type: Nonprofit
@@ -17,6 +21,9 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/BumIt2pIRuw?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102079'
+  - '6102078'
 aggregated:
   challenge_url:
     - >-
@@ -29,25 +36,5 @@ aggregated:
   project_ids:
     - '6102079'
     - '6102078'
-original_project_ids:
-  - '6102078'
-  - '6102078'
-original_project_titles:
-  - >-
-    If She Can See It, She Can Be It: Empowering Girls & Creating a
-    Gender-Balanced Media Landscape 
-  - >-
-    If She Can See It, She Can Be It: Empowering Girls & Creating a
-    Gender-Balanced Media Landscape 
-extrapolated_project_ids:
-  - '6102078'
-  - '6102079'
-extrapolated_project_titles:
-  - >-
-    If She Can See It, She Can Be It: Empowering Girls & Creating a
-    Gender-Balanced Media Landscape 
-  - >-
-    If She Can See It, She Can Be It: Empowering Girls & Creating a
-    Gender-Balanced Media Landscape 
 
 ---

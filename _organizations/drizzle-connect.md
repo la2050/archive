@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Bringing free high-speed internet and mobile phone service to low-income
+    families in Los Angeles
 organization_id: '2016066'
 title: Drizzle Connect
 org_type: Forprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 project_video: ''
+project_ids:
+  - '6102124'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102124'
-original_project_ids:
-  - '6102124'
-original_project_titles:
-  - >-
-    Bringing free high-speed internet and mobile phone service to low-income
-    families in Los Angeles
-extrapolated_project_ids:
-  - '6102124'
-extrapolated_project_titles:
-  - >-
-    Bringing free high-speed internet and mobile phone service to low-income
-    families in Los Angeles
 
 ---

@@ -1,5 +1,12 @@
 ---
 youtube_video_identifier: FKuY_bTZzoM
+project_titles:
+  - >-
+    No More Bullying, Bias and Fights: Making Schools Safe for all Los Angeles
+    Kids & Teachers
+  - >-
+    No More Bullying Bias and Fights: Making Schools Safe for all Los Angeles
+    Kids & Teachers
 organization_id: '2014224'
 title: Western Justice Center (WJC)
 org_type: Nonprofit
@@ -15,23 +22,13 @@ ein: '954176583'
 zip: ''
 project_image: 'https://img.youtube.com/vi/FKuY_bTZzoM/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102254'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102184'
-original_project_ids:
-  - '4102254'
-original_project_titles:
-  - >-
-    No More Bullying, Bias and Fights: Making Schools Safe for all Los Angeles
-    Kids & Teachers
-extrapolated_project_ids:
-  - '4102254'
-extrapolated_project_titles:
-  - >-
-    No More Bullying Bias and Fights: Making Schools Safe for all Los Angeles
-    Kids & Teachers
 
 ---

@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: EZJvYnujihw
+project_titles:
+  - High School Students Shape the Future of Los Angeles
 organization_id: '2013036'
 title: CityLife-LA
 org_type: Nonprofit
@@ -57,6 +59,8 @@ ein: '461878739'
 zip: ''
 project_image: 'https://img.youtube.com/vi/EZJvYnujihw/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102070'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CityLife-LA.html'
@@ -64,13 +68,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102070'
-original_project_ids:
-  - '3102070'
-original_project_titles:
-  - High School Students Shape the Future of Los Angeles
-extrapolated_project_ids:
-  - '3102070'
-extrapolated_project_titles:
-  - High School Students Shape the Future of Los Angeles
 
 ---

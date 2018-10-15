@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: nPa4Lu7CMPA
+project_titles:
+  - 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
 organization_id: '2013015'
 title: Arts Council for Long Beach
 org_type: Nonprofit
@@ -28,6 +30,8 @@ ein: '953038398'
 zip: ''
 project_image: 'https://img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '3102027'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ALOT.html'
@@ -35,13 +39,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102027'
-original_project_ids:
-  - '3102027'
-original_project_titles:
-  - 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
-extrapolated_project_ids:
-  - '3102027'
-extrapolated_project_titles:
-  - 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
 
 ---

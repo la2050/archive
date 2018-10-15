@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
+    Ensemble of SF. LJYE.com
 organization_id: '2018042'
 title: Future America
 org_type: Nonprofit
@@ -21,6 +25,8 @@ ein: '954425671'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg'
 project_video: 'https://youtu.be/bbNl_ikc93g'
+project_ids:
+  - '8102042'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/future-america/'
@@ -28,13 +34,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102042'
-original_project_ids:
-  - '8102042'
-original_project_titles:
-  - >-
-    The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
-    Ensemble of SF. LJYE.com
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

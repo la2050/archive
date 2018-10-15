@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - LA Bike Fest
+  - LA Bike Trains - APP + Wayfinding Signage
+  - 'Life is Better with Bicycles; learning, playing and inspiring change.'
+  - 'R5Y7: bici destino'
 organization_id: '2016018'
 title: Bicycle Culture Institute
 org_type: Nonprofit
@@ -17,6 +22,10 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/l2oE7AX8gtw?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102016'
+  - '6102015'
+  - '4102024'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-bike-trains-app-wayfinding-signage'
@@ -30,22 +39,5 @@ aggregated:
     - '6102016'
     - '6102015'
     - '4102220'
-original_project_ids:
-  - '4102024'
-  - '6102015'
-  - '6102016'
-original_project_titles:
-  - LA Bike Fest
-  - LA Bike Trains - APP + Wayfinding Signage
-  - 'Life is Better with Bicycles; learning, playing and inspiring change.'
-  - 'R5Y7: bici destino'
-extrapolated_project_ids:
-  - '6102015'
-  - '6102016'
-  - '4102024'
-extrapolated_project_titles:
-  - LA Bike Fest
-  - LA Bike Trains - APP + Wayfinding Signage
-  - 'R5Y7: bici destino'
 
 ---

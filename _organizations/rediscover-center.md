@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
+project_titles:
+  - Upcycle Innovation
 maker_image_id: '16706'
 organization_id: '2013162'
 title: reDiscover Center
@@ -36,6 +38,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16706%252Fdisplay%252FreDiscover_Upcyle_Innovate.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102228'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Innovate.html'
@@ -43,13 +47,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102228'
-original_project_ids:
-  - '3102228'
-original_project_titles:
-  - Upcycle Innovation
-extrapolated_project_ids:
-  - '3102228'
-extrapolated_project_titles:
-  - Upcycle Innovation
 
 ---

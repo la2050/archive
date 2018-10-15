@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    The Trellis Project: Growing health through gardening, nutritional support,
+    and food access
 organization_id: '2016094'
 title: Groceryships and Netiya
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
 project_video: 'https://www.youtube.com/embed/xHT7xEa5fQs?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102087'
 aggregated:
   challenge_url:
     - >-
@@ -33,17 +39,5 @@ aggregated:
     - '6102087'
     - '5102123'
     - '4102229'
-original_project_ids:
-  - '6102087'
-original_project_titles:
-  - >-
-    The Trellis Project: Growing health through gardening, nutritional support,
-    and food access
-extrapolated_project_ids:
-  - '6102087'
-extrapolated_project_titles:
-  - >-
-    The Trellis Project: Growing health through gardening, nutritional support,
-    and food access
 
 ---

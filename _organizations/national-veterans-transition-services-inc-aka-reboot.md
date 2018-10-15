@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Carry Forward
 organization_id: '2018088'
 title: 'National Veterans Transition Services, Inc. AKA REBOOT'
 org_type: Nonprofit
@@ -22,6 +24,8 @@ zip: '90006'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
 project_video: 'https://www.youtube.com/watch?v=IVHAVDZAcFk'
+project_ids:
+  - '8102088'
 aggregated:
   challenge_url:
     - >-
@@ -30,11 +34,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102088'
-original_project_ids:
-  - '8102088'
-original_project_titles:
-  - Carry Forward
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

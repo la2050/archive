@@ -1,5 +1,9 @@
 ---
 maker_image_file_name: LA2050-image-4.jpg
+project_titles:
+  - >-
+    App of Life transforms people and communities by challenging us to play real
+    life as a game.
 maker_image_id: '22052'
 organization_id: '2014007'
 title: App of Life
@@ -21,6 +25,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22052%252Fdisplay%252FLA2050-image-4.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102011'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/AppofLife.html'
@@ -28,17 +34,5 @@ aggregated:
     - '2014'
   project_ids:
     - '5102108'
-original_project_ids:
-  - '4102011'
-original_project_titles:
-  - >-
-    App of Life transforms people and communities by challenging us to play real
-    life as a game.
-extrapolated_project_ids:
-  - '4102011'
-extrapolated_project_titles:
-  - >-
-    App of Life transforms people and communities by challenging us to play real
-    life as a game.
 
 ---

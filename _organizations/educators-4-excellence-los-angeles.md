@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - Teachers Leading from the Classroom
+  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
 organization_id: '2016068'
 title: Educators 4 Excellence-Los Angeles
 org_type: Nonprofit
@@ -21,6 +24,9 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
 project_video: 'https://www.youtube.com/embed/vk1BgrHSmZ0?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102063'
+  - '3102121'
 aggregated:
   challenge_url:
     - >-
@@ -32,17 +38,5 @@ aggregated:
   project_ids:
     - '6102063'
     - '3102121'
-original_project_ids:
-  - '3102121'
-  - '6102063'
-original_project_titles:
-  - Teachers Leading from the Classroom
-  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
-extrapolated_project_ids:
-  - '6102063'
-  - '3102121'
-extrapolated_project_titles:
-  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
-  - Teachers Leading from the Classroom
 
 ---

@@ -1,4 +1,7 @@
 ---
+project_titles:
+  - SmartAirLA
+  - 'SmartAirLA '
 organization_id: '2018110'
 title: SmartAirLA
 org_type: Nonprofit
@@ -19,6 +22,8 @@ ein: '954302067'
 zip: '90015'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
 project_video: ''
+project_ids:
+  - '8102110'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/smartairla/'
@@ -26,13 +31,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102110'
-original_project_ids:
-  - '8102110'
-original_project_titles:
-  - SmartAirLA
-extrapolated_project_ids:
-  - '8102110'
-extrapolated_project_titles:
-  - 'SmartAirLA '
 
 ---

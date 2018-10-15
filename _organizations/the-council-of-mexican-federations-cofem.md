@@ -1,5 +1,9 @@
 ---
 youtube_video_identifier: SVzSpv8Dj74
+project_titles:
+  - >-
+    San Gabriel Mountains Forever: Increasing Public Access to Our Local
+    Mountains
 organization_id: '2015198'
 title: The Council of Mexican Federations (COFEM)
 org_type: Nonprofit
@@ -21,6 +25,8 @@ ein: '320154043'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102299'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
@@ -28,17 +34,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102299'
-original_project_ids:
-  - '5102299'
-original_project_titles:
-  - >-
-    San Gabriel Mountains Forever: Increasing Public Access to Our Local
-    Mountains
-extrapolated_project_ids:
-  - '5102299'
-extrapolated_project_titles:
-  - >-
-    San Gabriel Mountains Forever: Increasing Public Access to Our Local
-    Mountains
 
 ---

@@ -1,4 +1,8 @@
 ---
+project_titles:
+  - >-
+    Let’s gather Westside stakeholders to connect and establish common ground
+    across city limits.
 organization_id: '2016253'
 title: Westside Urban Forum
 org_type: Nonprofit
@@ -20,6 +24,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
 project_video: ''
+project_ids:
+  - '6102280'
 aggregated:
   challenge_url:
     - >-
@@ -28,17 +34,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102280'
-original_project_ids:
-  - '6102280'
-original_project_titles:
-  - >-
-    Let’s gather Westside stakeholders to connect and establish common ground
-    across city limits.
-extrapolated_project_ids:
-  - '6102280'
-extrapolated_project_titles:
-  - >-
-    Let’s gather Westside stakeholders to connect and establish common ground
-    across city limits.
 
 ---

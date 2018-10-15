@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - Fostering Safe Communities
 organization_id: '2016003'
 title: 50/50 Leadership
 org_type: Nonprofit
@@ -18,6 +20,8 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9273888445741-team90.jpg
 project_video: ''
+project_ids:
+  - '6102002'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/fostering-safe-communities'
@@ -25,13 +29,5 @@ aggregated:
     - '2016'
   project_ids:
     - '6102002'
-original_project_ids:
-  - '6102002'
-original_project_titles:
-  - Fostering Safe Communities
-extrapolated_project_ids:
-  - '6102002'
-extrapolated_project_titles:
-  - Fostering Safe Communities
 
 ---

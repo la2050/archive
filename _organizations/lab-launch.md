@@ -1,5 +1,10 @@
 ---
 youtube_video_identifier: wZGBfT2_pi4
+project_titles:
+  - Let's Build a Life Science Incubator in Los Angeles!
+  - Let's Create Innovation Space for LA Biotech
+  - Lets Create Innovation Space for LA Biotech
+  - Lets Build a Life Science Incubator in Los Angeles!
 organization_id: '2015109'
 title: Lab Launch
 org_type: Nonprofit
@@ -21,6 +26,9 @@ ein: '471621472'
 zip: '91016'
 project_image: 'https://img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102170'
+  - '4102110'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/lablaunch.html'
@@ -31,19 +39,5 @@ aggregated:
   project_ids:
     - '5102170'
     - '4102201'
-original_project_ids:
-  - '4102110'
-  - '4102110'
-  - '5102170'
-original_project_titles:
-  - Let's Build a Life Science Incubator in Los Angeles!
-  - Let's Build a Life Science Incubator in Los Angeles!
-  - Let's Create Innovation Space for LA Biotech
-extrapolated_project_ids:
-  - '5102170'
-  - '4102110'
-extrapolated_project_titles:
-  - Lets Create Innovation Space for LA Biotech
-  - Lets Build a Life Science Incubator in Los Angeles!
 
 ---

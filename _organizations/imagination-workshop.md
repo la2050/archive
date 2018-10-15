@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: index__element43.jpg
+project_titles:
+  - Imagination Workshop
 maker_image_id: '20927'
 organization_id: '2014155'
 title: Imagination Workshop
@@ -18,17 +20,13 @@ zip: 90024-5055
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20927%252Fdisplay%252Findex__element43.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102085'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102137'
-original_project_ids:
-  - '4102085'
-original_project_titles:
-  - Imagination Workshop
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

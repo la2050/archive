@@ -1,5 +1,8 @@
 ---
 maker_image_file_name: John_-_LA_Daily_News.jpg
+project_titles:
+  - 'Ready, Set, Gold!: A Students'' Guide to a Lifetime of Fitness '
+  - 'Ready Set Gold!: A Students Guide to a Lifetime of Fitness '
 maker_image_id: '17239'
 organization_id: '2013169'
 title: Southern California Committee for the Olympic Games (SCCOG)
@@ -76,6 +79,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17239%252Fdisplay%252FJohn_-_LA_Daily_News.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102235'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
@@ -83,13 +88,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102235'
-original_project_ids:
-  - '3102235'
-original_project_titles:
-  - 'Ready, Set, Gold!: A Students'' Guide to a Lifetime of Fitness '
-extrapolated_project_ids:
-  - '3102235'
-extrapolated_project_titles:
-  - 'Ready Set Gold!: A Students Guide to a Lifetime of Fitness '
 
 ---

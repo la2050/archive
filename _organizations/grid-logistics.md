@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - >-
+    The GRID Project: Let's create 50K jobs building great things to reduce air
+    pollution & FWY gridlock
+  - Freight Underground in MYLA2050
 organization_id: '2016093'
 title: GRID Logistics
 org_type: Forprofit
@@ -22,6 +27,9 @@ zip: '90013'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
 project_video: 'https://www.youtube.com/embed/KmmJPqr_ObQ?rel=0&amp;showinfo=0'
+project_ids:
+  - '6102164'
+  - '5102121'
 aggregated:
   challenge_url:
     - >-
@@ -35,19 +43,5 @@ aggregated:
     - '6102164'
     - '4102155'
     - '8102125'
-original_project_ids:
-  - '6102164'
-original_project_titles:
-  - >-
-    The GRID Project: Let's create 50K jobs building great things to reduce air
-    pollution & FWY gridlock
-extrapolated_project_ids:
-  - '6102164'
-  - '5102121'
-extrapolated_project_titles:
-  - >-
-    The GRID Project: Let's create 50K jobs building great things to reduce air
-    pollution & FWY gridlock
-  - Freight Underground in MYLA2050
 
 ---

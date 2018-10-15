@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Access_LA_Rt_copy.jpg
+project_titles:
+  - 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
 maker_image_id: '16858'
 organization_id: '2013148'
 title: Outfest
@@ -30,6 +32,8 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385
 project_video: ''
+project_ids:
+  - '3102211'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/neighbor.html'
@@ -37,13 +41,5 @@ aggregated:
     - '2013'
   project_ids:
     - '3102211'
-original_project_ids:
-  - '3102211'
-original_project_titles:
-  - 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
-extrapolated_project_ids:
-  - '3102211'
-extrapolated_project_titles:
-  - 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
 
 ---

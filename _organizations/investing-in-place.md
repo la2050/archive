@@ -1,4 +1,9 @@
 ---
+project_titles:
+  - 'More than Minivans: the Female Future of Transportation'
+  - >-
+    You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
+    #HowWeRoll
 organization_id: '2018055'
 title: Investing in Place
 org_type: Nonprofit
@@ -22,6 +27,9 @@ zip: '#N/A'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
+project_ids:
+  - '8102055'
+  - '6102107'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/investing-in-place/'
@@ -33,19 +41,5 @@ aggregated:
   project_ids:
     - '8102055'
     - '6102107'
-original_project_ids:
-  - '6102107'
-  - '8102055'
-original_project_titles:
-  - 'More than Minivans: the Female Future of Transportation'
-  - >-
-    You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
-    #HowWeRoll
-extrapolated_project_ids:
-  - '6102107'
-extrapolated_project_titles:
-  - >-
-    You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
-    #HowWeRoll
 
 ---

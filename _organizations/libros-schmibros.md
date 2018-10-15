@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: iFODyc5eUjQ
+project_titles:
+  - 'Bicycle Libraries: The Class of 2050'
 organization_id: '2014053'
 title: Libros Schmibros
 org_type: Nonprofit
@@ -20,6 +22,8 @@ ein: '952540759'
 zip: '90033'
 project_image: 'https://img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102118'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
@@ -27,13 +31,5 @@ aggregated:
     - '2014'
   project_ids:
     - '4102054'
-original_project_ids:
-  - '4102118'
-original_project_titles:
-  - 'Bicycle Libraries: The Class of 2050'
-extrapolated_project_ids:
-  - '4102118'
-extrapolated_project_titles:
-  - 'Bicycle Libraries: The Class of 2050'
 
 ---

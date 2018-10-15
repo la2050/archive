@@ -1,5 +1,12 @@
 ---
 maker_image_file_name: GENE_pic.jpg
+project_titles:
+  - >-
+    Through education, communication & understanding we can make a difference in
+    LA...it's in our GENE!
+  - >-
+    Through education communication & understanding we can make a difference in
+    LA...its in our GENE!
 maker_image_id: '21319'
 organization_id: '2014145'
 title: Global Education Network Exchange (GENE)
@@ -20,22 +27,12 @@ zip: '16428'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21319%252Fdisplay%252FGENE_pic.jpg=c570x385
 project_video: ''
+project_ids:
+  - '4102084'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids: []
-original_project_ids:
-  - '4102084'
-original_project_titles:
-  - >-
-    Through education, communication & understanding we can make a difference in
-    LA...it's in our GENE!
-extrapolated_project_ids:
-  - '4102084'
-extrapolated_project_titles:
-  - >-
-    Through education communication & understanding we can make a difference in
-    LA...its in our GENE!
 
 ---

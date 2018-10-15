@@ -1,5 +1,8 @@
 ---
 youtube_video_identifier: EJWQ6cYZBCk
+project_titles:
+  - 'Los Angeles Well-Being Project '
+  - Los Angeles Well-Being Project
 organization_id: '2015079'
 title: HappyCity Los Angeles
 org_type: Nonprofit
@@ -21,6 +24,8 @@ ein: '472219458'
 zip: '90066'
 project_image: 'https://img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102125'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
@@ -28,13 +33,5 @@ aggregated:
     - '2015'
   project_ids:
     - '5102125'
-original_project_ids:
-  - '5102125'
-original_project_titles:
-  - 'Los Angeles Well-Being Project '
-extrapolated_project_ids:
-  - '5102125'
-extrapolated_project_titles:
-  - Los Angeles Well-Being Project
 
 ---

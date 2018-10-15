@@ -1,4 +1,6 @@
 ---
+project_titles:
+  - 'We Are Enough: Women Investing $$$ in Women... the Way to Change the World!'
 organization_id: '2018136'
 title: We Are Enough c/o Social & Environmental Entrepreneurs
 org_type: Nonprofit
@@ -21,6 +23,8 @@ zip: 90089-0034
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 project_video: 'https://youtu.be/hYxxWm_J0Yc'
+project_ids:
+  - '8102136'
 aggregated:
   challenge_url:
     - >-
@@ -29,11 +33,5 @@ aggregated:
     - '2018'
   project_ids:
     - '8102136'
-original_project_ids:
-  - '8102136'
-original_project_titles:
-  - 'We Are Enough: Women Investing $$$ in Women... the Way to Change the World!'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

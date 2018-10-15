@@ -1,5 +1,7 @@
 ---
 youtube_video_identifier: uz4evo3B7qw
+project_titles:
+  - SFCLA - Serving Hope and Veggies where LA needs it most!
 organization_id: '2014192'
 title: St. Francis Center
 org_type: Nonprofit
@@ -15,17 +17,13 @@ ein: '954479271'
 zip: '90015'
 project_image: 'https://img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg'
 project_video: ''
+project_ids:
+  - '4102098'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102164'
-original_project_ids:
-  - '4102098'
-original_project_titles:
-  - SFCLA - Serving Hope and Veggies where LA needs it most!
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

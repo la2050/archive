@@ -1,5 +1,7 @@
 ---
 maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg
+project_titles:
+  - 'Divining LA: Resilient City Design for the Next Hundred Years'
 maker_image_id: '22512'
 organization_id: '2014115'
 title: Arid Lands Institute
@@ -21,17 +23,13 @@ zip: '91510'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22512%252Fdisplay%252FBoom_Map_300dpi_1200px_wide.jpeg=c570x385
 project_video: ''
+project_ids:
+  - '4102205'
 aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
   project_ids:
     - '4102113'
-original_project_ids:
-  - '4102205'
-original_project_titles:
-  - 'Divining LA: Resilient City Design for the Next Hundred Years'
-extrapolated_project_ids: []
-extrapolated_project_titles: []
 
 ---

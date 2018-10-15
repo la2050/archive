@@ -1,5 +1,12 @@
 ---
 youtube_video_identifier: yeyzmCpYfFk
+project_titles:
+  - >-
+    Bresee’s Safe Place to Play for over 2,500 Youth and Families in Central Los
+    Angeles
+  - >-
+    Bresee’s Safe Place to Play for over 2500 Youth and Families in Central Los
+    Angeles
 organization_id: '2015148'
 title: P.F. Bresee Foundation
 org_type: Nonprofit
@@ -22,6 +29,8 @@ ein: '953797363'
 zip: '90004'
 project_image: 'https://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg'
 project_video: ''
+project_ids:
+  - '5102225'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'
@@ -32,17 +41,5 @@ aggregated:
   project_ids:
     - '5102225'
     - '3102219'
-original_project_ids:
-  - '5102225'
-original_project_titles:
-  - >-
-    Bresee’s Safe Place to Play for over 2,500 Youth and Families in Central Los
-    Angeles
-extrapolated_project_ids:
-  - '5102225'
-extrapolated_project_titles:
-  - >-
-    Bresee’s Safe Place to Play for over 2500 Youth and Families in Central Los
-    Angeles
 
 ---
