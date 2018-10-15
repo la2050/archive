@@ -76,7 +76,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    4. Black Girls Code - www.blackgirlscode.com/
    5. All Star Code - www.allstarcode.org/
     
-   ---
+   ***
     
    The collaboration between our Benefactors and Non Profits with the Opportunity Fund is essential. As part of the Opportunity Fund experience, our fellows need to be aware of and identify with the Benefactors purpose of providing the scholarship.
     

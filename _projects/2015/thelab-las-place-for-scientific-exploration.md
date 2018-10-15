@@ -70,7 +70,7 @@ Are there other organizations doing similar work (whether complementary or compe
    We will prioritize purchasing safety equipment to guarantee that we have a safe work environment. Beyond that, we will prioritize equipment purchases based on the number of students who will benefit. If we are not able to purchase all the equipment listed in the budget, we will run additional classes to generate the income necessary for acquiring those items.
 'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
   Equipment
-   ---------------
+   _______________
    Price Product
    11,450 Nano-Volume Spectrophotometer
    10,178 -80°C Freezer
@@ -90,7 +90,7 @@ Are there other organizations doing similar work (whether complementary or compe
    3450 Tabletop Centrifuge
    
    Services
-   ---------------
+   _______________
    Price Description
    6,790 Fume Hood Installation
    2,400 Eye Wash Plumbing & Installation
@@ -100,7 +100,7 @@ Are there other organizations doing similar work (whether complementary or compe
    300 Incubator Safety Certification
    
    Total
-   ---------------
+   _______________
    98,061
 How do you plan to scale the success of your proposal?: >-
   With the purchase of our new equipment our lab will have the opportunity to

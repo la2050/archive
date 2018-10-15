@@ -99,7 +99,7 @@ Are there other organizations doing similar work (whether complementary or compe
    $10,000 - facilities and classroom rentals
     $4,000 - promotion, advertising, outreach
    $10,000 - contingency for regular and ongoing operational expenses
-   -------------
+   _____________
    $100,000
 How do you plan to scale the success of your proposal?: >-
   The proposed plan can be scaled to include increased frequency and

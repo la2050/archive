@@ -103,7 +103,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
   Revenue
    LA2050  100,000
-   ---------------------------------------------------------------------------------
+   _________________________________________________________________________________
    Total  100,000
    
    Expenses
@@ -111,7 +111,7 @@ Are there other organizations doing similar work (whether complementary or compe
    Computer Equipment (IT & Media Production) 40,000
    Training (Urban Gardening, IT, Workforce) 25,000
    Outreach Materials/Media/Events 10,000
-   --------------------------------------------------------------------------------
+   _________________________________________________________________________________
    Total  100,000
 How do you plan to scale the success of your proposal?: >-
   Once completed in December 2015, the Center will leverage its partnerships to
