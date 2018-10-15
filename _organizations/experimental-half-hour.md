@@ -20,12 +20,12 @@ zip: '91105'
 project_image: 'https://img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102035'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102035'
 original_project_ids:
   - '4102068'
 original_project_titles:

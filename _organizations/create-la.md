@@ -34,12 +34,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/y5Q3OTnTYC4/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102096'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/createla.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102096'
 original_project_ids:
   - '3102096'
 original_project_titles:

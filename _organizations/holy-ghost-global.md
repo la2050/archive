@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21276%252Fdisplay%252Finterfaithsize.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102043'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102043'
 original_project_ids:
   - '4102091'
 original_project_titles:

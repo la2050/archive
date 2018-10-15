@@ -51,12 +51,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16476%252Fdisplay%252FApptalk.JPG=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102062'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/KCARUSO.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102062'
 original_project_ids:
   - '3102062'
 original_project_titles:

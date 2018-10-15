@@ -22,12 +22,12 @@ zip: '90731'
 project_image: 'https://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102190'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102190'
 original_project_ids:
   - '5102190'
 original_project_titles:

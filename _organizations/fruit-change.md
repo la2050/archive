@@ -24,11 +24,11 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23782%252Fdisplay%252FIMG_7734.jpeg=c570x385
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
   year_submitted:
     - '2015'
+  project_ids: []
 original_project_ids:
   - '5102108'
 original_project_titles:

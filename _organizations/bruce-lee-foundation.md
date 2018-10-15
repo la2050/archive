@@ -21,12 +21,12 @@ zip: '90049'
 project_image: 'https://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102036'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102036'
 original_project_ids:
   - '5102036'
 original_project_titles:

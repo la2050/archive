@@ -52,12 +52,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16818%252Fdisplay%252Fplacita_nueva.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102113'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/NRT.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102113'
 original_project_ids:
   - '3102113'
 original_project_titles:

@@ -22,13 +22,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102021'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-zone-mobile-spaces-to-talk-about-healthy-relationships
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102021'
 original_project_ids:
   - '6102021'
 original_project_titles:

@@ -21,11 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/3R34MzY6_dM?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102047'
-    - '5102071'
-    - '4102224'
-    - '3102082'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
@@ -36,6 +31,11 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '6102047'
+    - '5102071'
+    - '4102224'
+    - '3102082'
 original_project_ids:
   - '3102082'
   - '4102043'

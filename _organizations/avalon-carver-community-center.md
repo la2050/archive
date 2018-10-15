@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
 project_video: 'https://www.youtube.com/embed/rGOQvQ3eOJk?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102013'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102013'
 original_project_ids:
   - '6102013'
 original_project_titles:

@@ -23,10 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
 project_video: 'https://www.youtube.com/embed/_7_25X6aAm4?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102173'
-    - '4102236'
-    - '3102212'
   challenge_url:
     - 'https://challenge.la2050.org/entry/celebrate-pacoima'
     - 'http://maker.good.is/myla2050/projects/pacoimabeautiful.html'
@@ -34,6 +30,10 @@ aggregated:
     - '2016'
     - '2014'
     - '2013'
+  project_ids:
+    - '6102173'
+    - '4102236'
+    - '3102212'
 original_project_ids:
   - '3102212'
   - '4102087'

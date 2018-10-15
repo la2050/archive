@@ -23,10 +23,6 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21941%252Fdisplay%252Fcommunity_ambassdor_graphic_button_graphic.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102015'
-    - '4102192'
-    - '3102018'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'
     - 'http://maker.good.is/myLA2050connect/projects/communityambassadors.html'
@@ -35,6 +31,10 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '5102015'
+    - '4102192'
+    - '3102018'
 original_project_ids:
   - '3102018'
   - '4102008'

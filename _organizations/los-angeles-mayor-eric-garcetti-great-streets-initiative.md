@@ -23,12 +23,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102191'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102191'
 original_project_ids:
   - '5102191'
 original_project_titles:

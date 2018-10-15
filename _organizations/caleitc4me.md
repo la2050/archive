@@ -20,12 +20,12 @@ zip: '90066'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
 project_video: 'https://www.youtube.com/watch?v=55FW0fd5Mh4'
 aggregated:
-  project_ids:
-    - '8102012'
   challenge_url:
     - 'https://activation.la2050.org/live/caleitc4me/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102012'
 original_project_ids:
   - '8102012'
 original_project_titles:

@@ -21,11 +21,11 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22088%252Fdisplay%252FLINCOLN_STATUE.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102145'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102145'
 original_project_ids:
   - '4102101'
 original_project_titles:

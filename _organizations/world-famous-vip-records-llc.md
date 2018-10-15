@@ -23,12 +23,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102138'
   challenge_url:
     - 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102138'
 original_project_ids:
   - '8102138'
 original_project_titles:

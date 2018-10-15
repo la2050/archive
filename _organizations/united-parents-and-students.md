@@ -21,12 +21,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
 project_video: 'https://vimeo.com/205438757'
 aggregated:
-  project_ids:
-    - '8102131'
   challenge_url:
     - 'https://activation.la2050.org/connect/united-parents-and-students/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102131'
 original_project_ids:
   - '8102131'
 original_project_titles:

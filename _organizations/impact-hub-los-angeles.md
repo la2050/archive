@@ -22,9 +22,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102179'
-    - '5102139'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
@@ -32,6 +29,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102179'
+    - '5102139'
 original_project_ids:
   - '5102139'
   - '6102179'

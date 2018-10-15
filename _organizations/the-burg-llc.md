@@ -19,12 +19,12 @@ zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg'
 project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
 aggregated:
-  project_ids:
-    - '8102118'
   challenge_url:
     - 'https://activation.la2050.org/connect/the-burg-llc/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102118'
 original_project_ids:
   - '8102118'
 original_project_titles:

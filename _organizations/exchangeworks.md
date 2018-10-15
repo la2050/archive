@@ -22,12 +22,12 @@ zip: '90404'
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102133'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '4102133'
 original_project_ids:
   - '5102095'
   - '5102095'

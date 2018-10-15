@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7808945355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/SCPg1hapsGE?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102048'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/community-collaboration-for-low-cost-creative-summer-art-camps-in-long-beach
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102048'
 original_project_ids:
   - '6102048'
 original_project_titles:

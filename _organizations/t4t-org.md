@@ -21,14 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/p6jmc2uJAb0?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102227'
-    - '6102226'
-    - '6102225'
-    - '5102287'
-    - '5102287'
-    - '5102287'
-    - '4102239'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/robin-hoods-of-rubbish-for-the-la-landfillharmonics
@@ -48,6 +40,14 @@ aggregated:
     - '2015'
     - '2015'
     - '2014'
+  project_ids:
+    - '6102227'
+    - '6102226'
+    - '6102225'
+    - '5102287'
+    - '5102287'
+    - '5102287'
+    - '4102239'
 original_project_ids:
   - '5102288'
   - '5102289'

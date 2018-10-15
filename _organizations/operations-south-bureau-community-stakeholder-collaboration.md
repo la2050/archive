@@ -21,12 +21,12 @@ zip: '90003'
 project_image: 'https://img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102223'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102223'
 original_project_ids:
   - '5102223'
 original_project_titles:

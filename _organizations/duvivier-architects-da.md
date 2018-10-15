@@ -19,11 +19,11 @@ zip: '90291'
 project_image: 'https://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102091'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '5102091'
 original_project_ids:
   - '4102196'
 original_project_titles:

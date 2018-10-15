@@ -24,12 +24,12 @@ zip: '90028'
 project_image: 'https://img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102010'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102010'
 original_project_ids:
   - '5102010'
 original_project_titles:

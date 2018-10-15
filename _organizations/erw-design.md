@@ -17,12 +17,12 @@ zip: '90265'
 project_image: 'https://img.youtube.com/vi/fpGXBYHFZuE/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102342'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '5102342'
 original_project_ids:
   - '4102066'
 original_project_titles:

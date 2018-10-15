@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21550%252Fdisplay%252FPlaytheLARiver_LA2050_ImageCropped.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102070'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102070'
 original_project_ids:
   - '4102169'
 original_project_titles:

@@ -21,12 +21,12 @@ zip: '91615'
 project_image: 'https://img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102168'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102168'
 original_project_ids:
   - '5102168'
 original_project_titles:

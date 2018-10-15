@@ -22,15 +22,15 @@ zip: '90012'
 project_image: 'https://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102275'
-    - '4102213'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LARiverworks.html'
     - 'http://maker.good.is/myLA2050connect/projects/LosAngelesRiverworks.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102275'
+    - '4102213'
 original_project_ids:
   - '4102195'
 original_project_titles:

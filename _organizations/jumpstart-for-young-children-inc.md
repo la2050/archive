@@ -22,15 +22,15 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102153'
-    - '3102161'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
     - 'http://maker.good.is/myla2050/projects/Jumpstart.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102153'
+    - '3102161'
 original_project_ids:
   - '5102153'
 original_project_titles:

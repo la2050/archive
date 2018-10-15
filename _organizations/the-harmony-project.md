@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
 project_video: 'https://www.youtube.com/embed/Kep3gB10R3I?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102243'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102243'
 original_project_ids:
   - '6102243'
 original_project_titles:

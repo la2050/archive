@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5864964105741-team90.jpg
 project_video: 'https://www.youtube.com/embed/zf4cRLVe4Co?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102023'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102023'
 original_project_ids:
   - '6102023'
 original_project_titles:

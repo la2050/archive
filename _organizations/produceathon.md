@@ -22,9 +22,6 @@ zip: '90071'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102097'
-    - '6102190'
   challenge_url:
     - 'https://activation.la2050.org/create/produceathon/'
     - >-
@@ -32,6 +29,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  project_ids:
+    - '8102097'
+    - '6102190'
 original_project_ids:
   - '6102190'
   - '8102097'

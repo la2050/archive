@@ -22,14 +22,14 @@ zip: '90210'
 project_image: 'https://img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102322'
-    - '4102178'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ModelsofMobilization.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102322'
+    - '4102178'
 original_project_ids:
   - '4102088'
   - '5102322'

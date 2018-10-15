@@ -24,15 +24,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24111%252Fdisplay%252FSCV_ADvplay_table_logo.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102290'
-    - '8102137'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
     - 'http://maker.good.is/myLA2050play/projects/scvadventureplay.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102290'
+    - '8102137'
 original_project_ids:
   - '4102188'
   - '5102263'

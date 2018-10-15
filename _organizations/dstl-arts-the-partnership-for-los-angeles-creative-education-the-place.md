@@ -23,10 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4185192065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/v3ftc0qxlwI?rel=0?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102062'
-    - '5102087'
-    - '4102226'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-place-building-an-infrastructure-of-support-for-emerging-artists-and-their-mentors
@@ -35,6 +31,10 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '6102062'
+    - '5102087'
+    - '4102226'
 original_project_ids:
   - '6102062'
 original_project_titles:

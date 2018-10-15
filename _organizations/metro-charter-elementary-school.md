@@ -21,12 +21,12 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0883163005741-team91.jpg
 project_video: 'https://www.youtube.com/embed/KLFAAlK8ZLI?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102154'
   challenge_url:
     - 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102154'
 original_project_ids:
   - '6102154'
 original_project_titles:

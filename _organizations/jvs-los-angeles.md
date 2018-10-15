@@ -22,12 +22,12 @@ zip: '90048'
 project_image: 'https://img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102156'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102156'
 original_project_ids:
   - '5102156'
   - '5102156'

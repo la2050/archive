@@ -20,12 +20,12 @@ zip: '90026'
 project_image: 'https://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102009'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102009'
 original_project_ids:
   - '4102014'
 original_project_titles:

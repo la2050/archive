@@ -25,10 +25,6 @@ zip: '90037'
 project_image: 'https://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102192'
-    - '4102202'
-    - '3102188'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
     - 'http://maker.good.is/myLA2050connect/projects/MacArthurParkConnect.html'
@@ -37,6 +33,10 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '5102192'
+    - '4102202'
+    - '3102188'
 original_project_ids:
   - '5102192'
 original_project_titles:

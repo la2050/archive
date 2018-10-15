@@ -20,14 +20,14 @@ zip: '90033'
 project_image: 'https://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102142'
-    - '3102160'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ehubb.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102142'
+    - '3102160'
 original_project_ids:
   - '3102160'
   - '4102122'

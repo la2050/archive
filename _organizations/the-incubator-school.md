@@ -23,14 +23,14 @@ zip: '90045'
 project_image: 'https://img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102302'
-    - '4102140'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102302'
+    - '4102140'
 original_project_ids:
   - '5102302'
 original_project_titles:

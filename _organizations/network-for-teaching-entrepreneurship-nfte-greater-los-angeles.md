@@ -23,15 +23,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24049%252Fdisplay%252FCrystal_Cropped_Big_Check.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102221'
-    - '3102205'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/nftela.html'
     - 'http://maker.good.is/myla2050/projects/nftela.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102221'
+    - '3102205'
 original_project_ids:
   - '3102205'
   - '5102221'

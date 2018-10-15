@@ -16,11 +16,11 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102167'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102167'
 original_project_ids:
   - '4102183'
 original_project_titles:

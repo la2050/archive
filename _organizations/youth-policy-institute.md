@@ -23,12 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 project_video: 'https://youtu.be/__37Jfcwzr8'
 aggregated:
-  project_ids:
-    - '8102140'
-    - '6102288'
-    - '5102347'
-    - '4102267'
-    - '3102278'
   challenge_url:
     - 'https://activation.la2050.org/connect/youth-policy-institute/'
     - >-
@@ -42,6 +36,12 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '8102140'
+    - '6102288'
+    - '5102347'
+    - '4102267'
+    - '3102278'
 original_project_ids:
   - '3102278'
   - '4102265'

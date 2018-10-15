@@ -21,12 +21,12 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4532943913741-team90.JPG
 project_video: 'https://player.vimeo.com/video/176509438?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102254'
   challenge_url:
     - 'https://challenge.la2050.org/entry/putting-the-human-back-into-business'
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102254'
 original_project_ids:
   - '6102254'
 original_project_titles:

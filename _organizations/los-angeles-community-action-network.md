@@ -25,12 +25,12 @@ zip: '90021'
 project_image: 'https://img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102186'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/LACAN.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102186'
 original_project_ids:
   - '5102186'
 original_project_titles:

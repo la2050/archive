@@ -20,12 +20,12 @@ zip: '90013'
 project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102160'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102160'
 original_project_ids:
   - '5102160'
 original_project_titles:

@@ -24,12 +24,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102238'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102238'
 original_project_ids:
   - '5102238'
 original_project_titles:

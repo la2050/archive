@@ -23,9 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 project_video: 'https://youtu.be/3uy1I03CPas'
 aggregated:
-  project_ids:
-    - '8102121'
-    - '4102264'
   challenge_url:
     - >-
       https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2014'
+  project_ids:
+    - '8102121'
+    - '4102264'
 original_project_ids:
   - '4102225'
 original_project_titles:

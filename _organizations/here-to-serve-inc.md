@@ -22,13 +22,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
 project_video: 'https://www.youtube.com/embed/pMW7_cxOs1s?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102091'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102091'
 original_project_ids:
   - '6102091'
 original_project_titles:

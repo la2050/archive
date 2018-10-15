@@ -59,12 +59,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102236'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102236'
 original_project_ids:
   - '3102236'
 original_project_titles:

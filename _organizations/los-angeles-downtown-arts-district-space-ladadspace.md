@@ -21,12 +21,12 @@ zip: '90012'
 project_image: 'https://img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102056'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102056'
 original_project_ids:
   - '4102129'
 original_project_titles:

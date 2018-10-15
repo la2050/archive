@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6262793265741-team89.jpg
 project_video: 'https://www.youtube.com/embed/_1nAIfTqGIc?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102031'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102031'
 original_project_ids:
   - '6102031'
 original_project_titles:

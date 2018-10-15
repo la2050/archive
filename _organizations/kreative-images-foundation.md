@@ -51,12 +51,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17017%252Fdisplay%252F360.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102065'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/C-360.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102065'
 original_project_ids:
   - '3102065'
 original_project_titles:

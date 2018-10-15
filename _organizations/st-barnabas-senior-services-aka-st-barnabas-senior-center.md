@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102086'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102086'
 original_project_ids:
   - '4102199'
 original_project_titles:

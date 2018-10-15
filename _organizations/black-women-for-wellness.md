@@ -20,12 +20,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
 project_video: 'https://www.youtube.com/watch?v=M5Q0W1tCJVg'
 aggregated:
-  project_ids:
-    - '8102009'
   challenge_url:
     - 'https://activation.la2050.org/live/black-women-for-wellness/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102009'
 original_project_ids:
   - '8102009'
 original_project_titles:

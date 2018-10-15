@@ -20,12 +20,12 @@ zip: '90012'
 project_image: 'https://img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102096'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '8102096'
 original_project_ids:
   - '5102152'
 original_project_titles:

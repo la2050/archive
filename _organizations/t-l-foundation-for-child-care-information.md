@@ -22,10 +22,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102224'
-    - '5102286'
-    - '4102238'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
@@ -34,6 +30,10 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '6102224'
+    - '5102286'
+    - '4102238'
 original_project_ids:
   - '4102243'
   - '6102224'

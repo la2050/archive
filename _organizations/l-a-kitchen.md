@@ -21,12 +21,12 @@ zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg'
 project_video: 'https://vimeo.com/262575721'
 aggregated:
-  project_ids:
-    - '8102059'
   challenge_url:
     - 'https://activation.la2050.org/live/l-a-kitchen/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102059'
 original_project_ids:
   - '8102059'
 original_project_titles:

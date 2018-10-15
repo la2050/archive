@@ -21,11 +21,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 project_video: 'https://www.youtube.com/user/DataRoadsFoundation'
 aggregated:
-  project_ids:
-    - '8102034'
-    - '6102059'
-    - '4102062'
-    - '4102250'
   challenge_url:
     - 'https://activation.la2050.org/connect/data-roads-foundation/'
     - >-
@@ -37,6 +32,11 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '8102034'
+    - '6102059'
+    - '4102062'
+    - '4102250'
 original_project_ids:
   - '4102052'
   - '5102080'

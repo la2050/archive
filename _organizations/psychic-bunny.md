@@ -20,12 +20,12 @@ zip: '90013'
 project_image: 'https://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102207'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '5102207'
 original_project_ids:
   - '4102177'
 original_project_titles:

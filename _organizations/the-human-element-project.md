@@ -22,12 +22,12 @@ zip: '91362'
 project_image: 'https://img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102090'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/Humanelement.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102090'
 original_project_ids:
   - '4102214'
 original_project_titles:

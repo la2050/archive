@@ -22,12 +22,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
 project_video: 'https://www.youtube.com/watch?v=pnfEE7Dx14g'
 aggregated:
-  project_ids:
-    - '8102135'
   challenge_url:
     - 'https://activation.la2050.org/connect/walk-with-sally/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102135'
 original_project_ids:
   - '8102135'
 original_project_titles:

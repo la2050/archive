@@ -23,15 +23,15 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
 project_video: 'https://www.facebook.com/269671146378710/videos/476537755692047/'
 aggregated:
-  project_ids:
-    - '8102099'
-    - '4102262'
   challenge_url:
     - >-
       https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/
   year_submitted:
     - '2018'
     - '2014'
+  project_ids:
+    - '8102099'
+    - '4102262'
 original_project_ids:
   - '8102099'
 original_project_titles:

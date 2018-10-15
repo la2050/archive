@@ -21,9 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
 project_video: 'https://player.vimeo.com/video/168583145?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102249'
-    - '5102305'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-love-story-interactive-art-journal-live-open-mic-show
@@ -31,6 +28,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102249'
+    - '5102305'
 original_project_ids:
   - '6102249'
 original_project_titles:

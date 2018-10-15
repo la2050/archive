@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102143'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102143'
 original_project_ids:
   - '6102143'
 original_project_titles:

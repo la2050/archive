@@ -20,12 +20,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102117'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LCreativo.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '5102117'
 original_project_ids:
   - '4102049'
 original_project_titles:

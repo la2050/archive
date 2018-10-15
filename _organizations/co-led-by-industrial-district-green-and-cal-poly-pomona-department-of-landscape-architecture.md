@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
 project_video: 'https://www.youtube.com/embed/7ku12q5dd4k?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102045'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102045'
 original_project_ids:
   - '6102045'
 original_project_titles:

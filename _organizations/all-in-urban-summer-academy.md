@@ -21,12 +21,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102079'
   challenge_url:
     - 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '4102079'
 original_project_ids:
   - '8102006'
 original_project_titles:

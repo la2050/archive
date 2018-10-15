@@ -21,12 +21,12 @@ zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg'
 project_video: 'https://www.youtube.com/watch?v=OiWi0EoNxHc'
 aggregated:
-  project_ids:
-    - '8102108'
   challenge_url:
     - 'https://activation.la2050.org/live/shoes-that-fit/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102108'
 original_project_ids:
   - '8102108'
 original_project_titles:

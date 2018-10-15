@@ -22,9 +22,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102287'
-    - '5102344'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
@@ -32,6 +29,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102287'
+    - '5102344'
 original_project_ids:
   - '5102344'
   - '6102287'

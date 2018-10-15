@@ -31,12 +31,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102227'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102227'
 original_project_ids:
   - '3102227'
 original_project_titles:

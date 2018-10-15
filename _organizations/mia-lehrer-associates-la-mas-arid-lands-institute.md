@@ -16,14 +16,14 @@ zip: '90010'
 project_image: 'https://img.youtube.com/vi/2qWrLJakj5M/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102156'
-    - '3102072'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/urbanforest.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102156'
+    - '3102072'
 original_project_ids:
   - '4102143'
 original_project_titles:

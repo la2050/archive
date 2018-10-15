@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
 project_video: 'https://www.youtube.com/embed/zVjUr0gjKDE?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102284'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102284'
 original_project_ids:
   - '6102284'
 original_project_titles:

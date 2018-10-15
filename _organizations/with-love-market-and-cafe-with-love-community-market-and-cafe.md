@@ -20,12 +20,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/HVOvMO9t6Gk/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102175'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102175'
 original_project_ids:
   - '4102257'
 original_project_titles:

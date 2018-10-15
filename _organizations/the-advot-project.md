@@ -81,12 +81,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17036%252Fdisplay%252Flogo.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102244'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/advotproject.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102244'
 original_project_ids:
   - '3102244'
 original_project_titles:

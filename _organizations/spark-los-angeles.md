@@ -21,15 +21,15 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/ueKmJQlz92o?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102216'
-    - '5102278'
   challenge_url:
     - 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
     - 'http://maker.good.is/myla2050learn2015/projects/SparkLA.html'
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102216'
+    - '5102278'
 original_project_ids:
   - '6102216'
 original_project_titles:

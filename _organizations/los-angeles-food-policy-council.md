@@ -23,10 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
 project_video: 'https://www.youtube.com/embed/YhYQSknRMu8?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102140'
-    - '4102232'
-    - '3102185'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
@@ -36,6 +32,10 @@ aggregated:
     - '2016'
     - '2014'
     - '2013'
+  project_ids:
+    - '6102140'
+    - '4102232'
+    - '3102185'
 original_project_ids:
   - '3102185'
   - '6102140'

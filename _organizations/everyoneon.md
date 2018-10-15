@@ -22,15 +22,15 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102065'
-    - '4102227'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
   year_submitted:
     - '2016'
     - '2014'
+  project_ids:
+    - '6102065'
+    - '4102227'
 original_project_ids:
   - '4102067'
   - '6102065'

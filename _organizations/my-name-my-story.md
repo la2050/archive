@@ -16,10 +16,10 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/A9yf6DpgLSM/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids: []
 original_project_ids:
   - '4102153'
 original_project_titles:

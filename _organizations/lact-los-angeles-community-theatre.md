@@ -18,12 +18,12 @@ zip: '90031'
 project_image: 'https://img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102171'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/LACT.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102171'
 original_project_ids:
   - '5102171'
 original_project_titles:

@@ -21,12 +21,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/lola-techsystems-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=pOdXvRDzj98'
 aggregated:
-  project_ids:
-    - '8102105'
   challenge_url:
     - 'https://activation.la2050.org/learn/lola-techsystems-inc/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102105'
 original_project_ids:
   - '8102070'
 original_project_titles:

@@ -21,11 +21,11 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20477%252Fdisplay%252F405.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102128'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102128'
 original_project_ids:
   - '4102077'
 original_project_titles:

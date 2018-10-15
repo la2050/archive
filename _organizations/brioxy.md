@@ -21,12 +21,12 @@ zip: '90012'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/brioxy.jpg'
 project_video: 'https://www.youtube.com/watch?v=AC3S73SvRy0'
 aggregated:
-  project_ids:
-    - '8102011'
   challenge_url:
     - 'https://activation.la2050.org/create/brioxy/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102011'
 original_project_ids:
   - '8102011'
 original_project_titles:

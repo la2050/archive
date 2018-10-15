@@ -24,12 +24,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22532%252Fdisplay%252FWP1_Logo_new.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102108'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/peace.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102108'
 original_project_ids:
   - '4102261'
 original_project_titles:

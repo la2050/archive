@@ -21,9 +21,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=mNrTZHODsQI'
 aggregated:
-  project_ids:
-    - '8102060'
-    - '3102171'
   challenge_url:
     - >-
       https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/
@@ -31,6 +28,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2013'
+  project_ids:
+    - '8102060'
+    - '3102171'
 original_project_ids:
   - '8102060'
 original_project_titles:

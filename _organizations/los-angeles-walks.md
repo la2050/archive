@@ -80,12 +80,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102190'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LAwalks.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102190'
 original_project_ids:
   - '3102190'
   - '3102190'

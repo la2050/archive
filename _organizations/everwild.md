@@ -21,12 +21,12 @@ zip: '90014'
 project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/everwild.jpg'
 project_video: 'https://vimeo.com/262456324'
 aggregated:
-  project_ids:
-    - '8102038'
   challenge_url:
     - 'https://activation.la2050.org/play/everwild/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102038'
 original_project_ids:
   - '8102038'
 original_project_titles:

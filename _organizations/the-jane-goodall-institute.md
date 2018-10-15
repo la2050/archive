@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
 project_video: 'https://www.youtube.com/embed/80TAsrIU1O8?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102245'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/setting-the-stage-developing-young-angelenos-as-community-volunteers-for-a-lifetime
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102245'
 original_project_ids:
   - '6102245'
 original_project_titles:

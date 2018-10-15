@@ -21,12 +21,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg
 project_video: 'https://www.youtube.com/watch?v=ClzWZnnOiJA'
 aggregated:
-  project_ids:
-    - '8102112'
   challenge_url:
     - 'https://activation.la2050.org/connect/stellas-socks/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102112'
 original_project_ids:
   - '8102112'
 original_project_titles:

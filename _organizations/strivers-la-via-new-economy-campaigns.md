@@ -16,14 +16,14 @@ zip: '90026'
 project_image: 'https://img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102095'
-    - '3102100'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/striversLA.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '5102095'
+    - '3102100'
 original_project_ids:
   - '4102202'
 original_project_titles:

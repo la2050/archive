@@ -22,11 +22,11 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/colossi.html'
   year_submitted:
     - '2015'
+  project_ids: []
 original_project_ids:
   - '5102072'
 original_project_titles:

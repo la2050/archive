@@ -23,12 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=ms14tJAN0ls'
 aggregated:
-  project_ids:
-    - '8102068'
-    - '6102131'
-    - '5102177'
-    - '4102254'
-    - '3102181'
   challenge_url:
     - 'https://activation.la2050.org/live/lift-los-angeles/'
     - >-
@@ -42,6 +36,12 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '8102068'
+    - '6102131'
+    - '5102177'
+    - '4102254'
+    - '3102181'
 original_project_ids:
   - '4102119'
   - '4102119'

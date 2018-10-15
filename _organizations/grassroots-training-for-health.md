@@ -22,13 +22,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6818331265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/6dLgurysIlo?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102084'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/grassroots-training-for-health-combating-obesity-one-community-at-a-time
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102084'
 original_project_ids:
   - '6102084'
 original_project_titles:

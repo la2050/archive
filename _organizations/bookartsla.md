@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23476%252Fdisplay%252FIMG_8796_(2).JPG=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102032'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102032'
 original_project_ids:
   - '5102032'
 original_project_titles:

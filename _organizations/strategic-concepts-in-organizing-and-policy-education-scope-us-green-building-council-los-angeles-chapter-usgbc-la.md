@@ -25,12 +25,12 @@ zip: '90047'
 project_image: 'https://img.youtube.com/vi/ERxmCic5y3o/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102282'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102282'
 original_project_ids:
   - '5102282'
 original_project_titles:

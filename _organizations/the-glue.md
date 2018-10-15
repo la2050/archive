@@ -22,12 +22,12 @@ zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/the-glue.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102120'
   challenge_url:
     - 'https://activation.la2050.org/live/the-glue/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102120'
 original_project_ids:
   - '8102119'
 original_project_titles:

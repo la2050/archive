@@ -23,12 +23,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22335%252Fdisplay%252Fvolunteer-photo.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102147'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/seeds.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '5102147'
 original_project_ids:
   - '4102089'
 original_project_titles:

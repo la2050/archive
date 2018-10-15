@@ -22,12 +22,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
 project_video: 'https://www.youtube.com/watch?v=oGbTN4Ysvfw'
 aggregated:
-  project_ids:
-    - '8102032'
   challenge_url:
     - 'https://activation.la2050.org/learn/crayon-collection/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102032'
 original_project_ids:
   - '8102032'
 original_project_titles:

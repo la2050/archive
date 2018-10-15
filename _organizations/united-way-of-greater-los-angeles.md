@@ -32,15 +32,15 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
 project_video: 'https://youtu.be/omjbiTiHXxU'
 aggregated:
-  project_ids:
-    - '8102132'
-    - '3102265'
   challenge_url:
     - 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
     - 'http://maker.good.is/myla2050/projects/SkidRow100.html'
   year_submitted:
     - '2018'
     - '2013'
+  project_ids:
+    - '8102132'
+    - '3102265'
 original_project_ids:
   - '8102132'
 original_project_titles:

@@ -16,14 +16,14 @@ zip: '90029'
 project_image: 'https://img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102172'
-    - '3102186'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/stimulateLA.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102172'
+    - '3102186'
 original_project_ids:
   - '4102217'
 original_project_titles:

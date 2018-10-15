@@ -25,13 +25,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0478134165741-team90.png
 project_video: 'https://www.youtube.com/embed/BUNdHYAuc-o?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102275'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102275'
 original_project_ids:
   - '6102275'
 original_project_titles:

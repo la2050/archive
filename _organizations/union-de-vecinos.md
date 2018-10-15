@@ -99,12 +99,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102264'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/UVLA.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102264'
 original_project_ids:
   - '3102264'
 original_project_titles:

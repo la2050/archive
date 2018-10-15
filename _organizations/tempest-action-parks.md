@@ -20,11 +20,11 @@ zip: '90250'
 project_image: 'https://img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
   year_submitted:
     - '2015'
+  project_ids: []
 original_project_ids:
   - '5102293'
 original_project_titles:

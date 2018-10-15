@@ -21,10 +21,6 @@ project_image: >-
   https://www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg?itok=OHPrb8Ri
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102123'
-    - '6102259'
-    - '4102176'
   challenge_url:
     - 'https://activation.la2050.org/play/the-trust-for-public-land/'
     - >-
@@ -33,6 +29,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2014'
+  project_ids:
+    - '8102123'
+    - '6102259'
+    - '4102176'
 original_project_ids:
   - '4102245'
   - '6102259'

@@ -22,15 +22,15 @@ zip: '90014'
 project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102030'
-    - '3102116'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/eryc.html'
     - 'http://maker.good.is/myla2050/projects/theyachtclub.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102030'
+    - '3102116'
 original_project_ids:
   - '3102116'
   - '4102062'

@@ -21,8 +21,6 @@ zip: '90035'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/podshare.jpg'
 project_video: 'https://youtu.be/9T1sxwl670s'
 aggregated:
-  project_ids:
-    - '6102219'
   challenge_url:
     - 'https://activation.la2050.org/live/podshare/'
     - >-
@@ -30,6 +28,8 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  project_ids:
+    - '6102219'
 original_project_ids:
   - '6102219'
   - '8102096'

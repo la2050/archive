@@ -20,12 +20,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102015'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102015'
 original_project_ids:
   - '4102022'
 original_project_titles:

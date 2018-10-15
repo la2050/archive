@@ -19,11 +19,11 @@ zip: '90019'
 project_image: 'https://img.youtube.com/vi/79DqmMTV8-Y/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102151'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102151'
 original_project_ids:
   - '4102130'
 original_project_titles:

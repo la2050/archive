@@ -21,13 +21,13 @@ zip: 90065-0756
 project_image: 'https://img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102134'
-    - '4102168'
   challenge_url: []
   year_submitted:
     - '2014'
     - '2014'
+  project_ids:
+    - '4102134'
+    - '4102168'
 original_project_ids:
   - '4102144'
 original_project_titles:

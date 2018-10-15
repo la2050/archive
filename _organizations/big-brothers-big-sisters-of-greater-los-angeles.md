@@ -22,9 +22,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
 aggregated:
-  project_ids:
-    - '8102007'
-    - '5102025'
   challenge_url:
     - >-
       https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/
@@ -32,6 +29,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
+  project_ids:
+    - '8102007'
+    - '5102025'
 original_project_ids:
   - '5102025'
   - '8102007'

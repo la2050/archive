@@ -20,12 +20,12 @@ zip: '90018'
 project_image: 'https://img.youtube.com/vi/V_x6dj_Fa9M/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102050'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102050'
 original_project_ids:
   - '4102111'
 original_project_titles:

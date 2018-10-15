@@ -25,12 +25,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102078'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102078'
 original_project_ids:
   - '5102077'
 original_project_titles:

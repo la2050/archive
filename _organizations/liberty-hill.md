@@ -57,12 +57,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102180'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102180'
 original_project_ids:
   - '3102180'
 original_project_titles:

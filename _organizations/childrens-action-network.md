@@ -21,10 +21,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
 project_video: 'https://youtu.be/JPeuzRmiI3w'
 aggregated:
-  project_ids:
-    - '8102020'
-    - '6102035'
-    - '4102126'
   challenge_url:
     - >-
       https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
@@ -34,6 +30,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2014'
+  project_ids:
+    - '8102020'
+    - '6102035'
+    - '4102126'
 original_project_ids: []
 original_project_titles: []
 extrapolated_project_ids:

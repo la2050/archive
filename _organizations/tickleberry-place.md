@@ -22,10 +22,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
 project_video: 'https://www.youtube.com/embed/USaJI1-Ab8E?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102265'
-    - '5102102'
-    - '4102244'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/tickleberry-place-a-mobile-play-explore-and-learn-pop-up
@@ -35,6 +31,10 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '6102265'
+    - '5102102'
+    - '4102244'
 original_project_ids:
   - '5102319'
   - '6102265'

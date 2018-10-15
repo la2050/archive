@@ -21,11 +21,11 @@ zip: '91754'
 project_image: 'https://img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102149'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102149'
 original_project_ids:
   - '4102127'
 original_project_titles:

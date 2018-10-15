@@ -21,9 +21,6 @@ zip: '90065'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/seedla.jpg'
 project_video: 'https://www.youtube.com/watch?v=p0Ag2WK9kaw'
 aggregated:
-  project_ids:
-    - '8102107'
-    - '6102206'
   challenge_url:
     - 'https://activation.la2050.org/live/seedla/'
     - >-
@@ -31,6 +28,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  project_ids:
+    - '8102107'
+    - '6102206'
 original_project_ids:
   - '6102206'
   - '8102107'

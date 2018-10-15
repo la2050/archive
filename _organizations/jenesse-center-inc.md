@@ -23,11 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Rols-6I43HE?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102108'
-    - '5102149'
-    - '4102230'
-    - '3102159'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/jeneration-j-a-new-generation-of-healthy-relationships
@@ -39,6 +34,11 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '6102108'
+    - '5102149'
+    - '4102230'
+    - '3102159'
 original_project_ids:
   - '3102159'
   - '4102103'

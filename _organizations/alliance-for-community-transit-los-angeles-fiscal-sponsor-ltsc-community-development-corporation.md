@@ -24,15 +24,15 @@ zip: '90013'
 project_image: 'https://img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102002'
-    - '3102013'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
     - 'http://maker.good.is/myla2050/projects/lagreenteensummit.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102002'
+    - '3102013'
 original_project_ids:
   - '4102005'
 original_project_titles:

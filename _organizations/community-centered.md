@@ -23,12 +23,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21146%252Fdisplay%252Fcivicla.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102018'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/civicla.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102018'
 original_project_ids:
   - '4102044'
 original_project_titles:

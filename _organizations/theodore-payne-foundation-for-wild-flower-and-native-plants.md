@@ -21,9 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102261'
-    - '5102316'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
@@ -31,6 +28,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102261'
+    - '5102316'
 original_project_ids:
   - '6102261'
 original_project_titles:

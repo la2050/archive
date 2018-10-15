@@ -37,12 +37,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16503%252Fdisplay%252FFB_Cover_photo.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102120'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/edpioneer.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102120'
 original_project_ids:
   - '3102120'
   - '3102120'

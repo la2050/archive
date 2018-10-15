@@ -21,8 +21,6 @@ zip: '90021'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102208'
   challenge_url:
     - 'https://activation.la2050.org/create/the-natch-inc/'
     - >-
@@ -30,6 +28,8 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  project_ids:
+    - '6102208'
 original_project_ids:
   - '8102120'
 original_project_titles:

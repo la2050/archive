@@ -40,12 +40,12 @@ zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102252'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Gardens.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102252'
 original_project_ids:
   - '3102252'
 original_project_titles:

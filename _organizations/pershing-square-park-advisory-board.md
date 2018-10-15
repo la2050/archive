@@ -22,15 +22,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102068'
-    - '3102218'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'
     - 'http://maker.good.is/myla2050/projects/KidsPlayatPS.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102068'
+    - '3102218'
 original_project_ids:
   - '3102218'
 original_project_titles:

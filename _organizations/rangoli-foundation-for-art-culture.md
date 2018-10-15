@@ -20,12 +20,12 @@ zip: '91403'
 project_image: 'https://img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102077'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/moment.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102077'
 original_project_ids:
   - '4102181'
 original_project_titles:

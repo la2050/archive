@@ -20,12 +20,12 @@ zip: '90028'
 project_image: 'https://img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102063'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102063'
 original_project_ids:
   - '4102157'
 original_project_titles:

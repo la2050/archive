@@ -18,15 +18,15 @@ zip: '90007'
 project_image: 'https://img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102102'
-    - '3102268'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/EnvisionLA.html'
     - 'http://maker.good.is/myla2050/projects/URBANTxt.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102102'
+    - '3102268'
 original_project_ids:
   - '4102248'
 original_project_titles:

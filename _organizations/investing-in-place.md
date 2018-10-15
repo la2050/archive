@@ -23,9 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
 aggregated:
-  project_ids:
-    - '8102055'
-    - '6102107'
   challenge_url:
     - 'https://activation.la2050.org/connect/investing-in-place/'
     - >-
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  project_ids:
+    - '8102055'
+    - '6102107'
 original_project_ids:
   - '6102107'
   - '8102055'

@@ -21,9 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102043'
-    - '5102070'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology
@@ -31,6 +28,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102043'
+    - '5102070'
 original_project_ids:
   - '5102070'
   - '6102043'

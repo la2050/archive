@@ -22,13 +22,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/8nHD7qZG4S8?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102153'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102153'
 original_project_ids:
   - '6102153'
 original_project_titles:

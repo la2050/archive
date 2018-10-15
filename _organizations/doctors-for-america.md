@@ -22,13 +22,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102061'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102061'
 original_project_ids:
   - '6102061'
 original_project_titles:

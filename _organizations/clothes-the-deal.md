@@ -18,14 +18,14 @@ zip: '90242'
 project_image: 'https://img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102069'
-    - '4102195'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102069'
+    - '4102195'
 original_project_ids:
   - '4102142'
   - '4102142'

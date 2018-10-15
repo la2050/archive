@@ -22,15 +22,15 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/boys-girls-clubs-of-venice-bgcv.jpg
 project_video: 'https://www.youtube.com/watch?v=EWUItoHZ1Hs&feature=youtu.be'
 aggregated:
-  project_ids:
-    - '8102010'
-    - '3102038'
   challenge_url:
     - 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
     - 'http://maker.good.is/myla2050/projects/BGCVenice.html'
   year_submitted:
     - '2018'
     - '2013'
+  project_ids:
+    - '8102010'
+    - '3102038'
 original_project_ids: []
 original_project_titles: []
 extrapolated_project_ids:

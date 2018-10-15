@@ -22,13 +22,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0987534165741-team90.png
 project_video: 'https://www.youtube.com/embed/GURgU8nO6rM?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102147'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102147'
 original_project_ids:
   - '6102147'
 original_project_titles:

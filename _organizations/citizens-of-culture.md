@@ -21,10 +21,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 project_video: 'https://vimeo.com/250192634'
 aggregated:
-  project_ids:
-    - '8102022'
-    - '6102097'
-    - '4102095'
   challenge_url:
     - 'https://activation.la2050.org/connect/citizens-of-culture/'
     - 'https://challenge.la2050.org/entry/nous-tous-a-gallery-for-all-of-us'
@@ -33,6 +29,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
+  project_ids:
+    - '8102022'
+    - '6102097'
+    - '4102095'
 original_project_ids:
   - '5102056'
   - '6102097'

@@ -20,13 +20,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
 project_video: 'https://youtube.com/embed/200FWNYbCNw?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102085'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102085'
 original_project_ids:
   - '6102085'
 original_project_titles:

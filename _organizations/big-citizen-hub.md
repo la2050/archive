@@ -22,11 +22,6 @@ zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102008'
-    - '6102017'
-    - '5102027'
-    - '4102246'
   challenge_url:
     - 'https://activation.la2050.org/live/big-citizen-hub/'
     - >-
@@ -38,6 +33,11 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '8102008'
+    - '6102017'
+    - '5102027'
+    - '4102246'
 original_project_ids:
   - '4102025'
   - '5102027'

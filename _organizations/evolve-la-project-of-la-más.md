@@ -20,13 +20,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102066'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102066'
 original_project_ids:
   - '6102066'
 original_project_titles:

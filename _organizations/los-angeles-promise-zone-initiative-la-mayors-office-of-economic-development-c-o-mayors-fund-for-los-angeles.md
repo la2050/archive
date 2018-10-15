@@ -22,12 +22,12 @@ zip: '90012'
 project_image: 'https://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102193'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102193'
 original_project_ids:
   - '5102193'
 original_project_titles:

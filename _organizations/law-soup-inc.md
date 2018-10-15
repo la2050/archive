@@ -20,12 +20,12 @@ zip: '90039'
 project_image: 'https://img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102162'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '5102162'
 original_project_ids:
   - '4102114'
 original_project_titles:

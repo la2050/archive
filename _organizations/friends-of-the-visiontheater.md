@@ -22,12 +22,12 @@ zip: '90008'
 project_image: 'https://img.youtube.com/vi/_BC4Wfw6Gb4/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102039'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102039'
 original_project_ids:
   - '4102078'
 original_project_titles:

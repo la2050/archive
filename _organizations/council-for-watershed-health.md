@@ -23,15 +23,15 @@ zip: '90731'
 project_image: 'https://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102079'
-    - '3102093'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
     - 'http://maker.good.is/myla2050/projects/pulseoflosangeles.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102079'
+    - '3102093'
 original_project_ids:
   - '3102047'
   - '3102093'

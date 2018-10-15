@@ -23,10 +23,6 @@ zip: '90064'
 project_image: 'https://img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102135'
-    - '4102200'
-    - '3102148'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/hollywoodheart.html'
     - 'http://maker.good.is/myLA2050create/projects/LAhasHEART.html'
@@ -35,6 +31,10 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '5102135'
+    - '4102200'
+    - '3102148'
 original_project_ids:
   - '3102073'
   - '3102073'

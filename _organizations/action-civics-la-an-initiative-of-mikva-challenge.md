@@ -28,13 +28,13 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
 project_video: 'https://www.youtube.com/watch?v=DRyOMoxgsbE'
 aggregated:
-  project_ids:
-    - '8102005'
   challenge_url:
     - >-
       https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102005'
 original_project_ids:
   - '8102005'
 original_project_titles:

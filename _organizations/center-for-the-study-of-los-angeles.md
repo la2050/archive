@@ -21,12 +21,12 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102033'
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-votes'
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102033'
 original_project_ids:
   - '6102033'
 original_project_titles:

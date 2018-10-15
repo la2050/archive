@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102068'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102068'
 original_project_ids:
   - '6102068'
 original_project_titles:

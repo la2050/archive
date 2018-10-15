@@ -17,11 +17,11 @@ zip: '90021'
 project_image: 'https://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
   year_submitted:
     - '2014'
+  project_ids: []
 original_project_ids:
   - '4102226'
 original_project_titles:

@@ -18,12 +18,12 @@ zip: '90016'
 project_image: 'https://img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102127'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102127'
 original_project_ids:
   - '5102037'
 original_project_titles:

@@ -69,6 +69,7 @@ const attributes = [
   'zip',
   'project_image',
   'project_video',
+  'project_ids',
   'aggregated',
   'original_project_ids',
   'original_project_titles',
@@ -119,20 +120,43 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
-  delete data.yaml.project_titles_from_project_ids
-  delete data.yaml.project_titles
-  delete data.yaml.project_titles_flagged
-  delete data.yaml.year_submitted
-  delete data.yaml.organization_name
-  delete data.yaml.ntee_type
-  delete data.yaml.areas_impacted
-  delete data.yaml.project_ids
-  delete data.yaml.challenge_url
-  delete data.yaml.category
-  delete data.yaml.uri
-  if (data.yaml.aggregated) {
-    delete data.yaml.aggregated.org_summary
-  }
+  // delete data.yaml.project_titles_from_project_ids
+  // delete data.yaml.project_titles
+  // delete data.yaml.project_titles_flagged
+  // delete data.yaml.year_submitted
+  // delete data.yaml.organization_name
+  // delete data.yaml.ntee_type
+  // delete data.yaml.areas_impacted
+  // delete data.yaml.project_ids
+  // delete data.yaml.challenge_url
+  // delete data.yaml.category
+  // delete data.yaml.uri
+  // if (data.yaml.aggregated) {
+  //   delete data.yaml.aggregated.org_summary
+  // }
+
+  // let combined_project_ids = data.yaml.original_project_ids.concat(data.yaml.extrapolated_project_ids)
+  // data.yaml.project_ids = Array.from(new Set(combined_project_ids))
+  // delete data.yaml.original_project_ids
+  // delete data.yaml.extrapolated_project_ids
+
+  // data.yaml.project_ids = data.yaml.project_ids.sort((a, b) => {
+  //   // a is less than b by some ordering criterion
+  //   if (a > b) {
+  //     return -1
+  //   }
+  //   // a is greater than b by the ordering criterion
+  //   if (a < b) {
+  //     return 1
+  //   }
+  //   // a must be equal to b
+  //   return 0
+  // })
+
+  // let combined_project_titles = data.yaml.original_project_titles.concat(data.yaml.extrapolated_project_titles)
+  // data.yaml.project_titles = Array.from(new Set(combined_project_titles))
+  // delete data.yaml.original_project_titles
+  // delete data.yaml.extrapolated_project_titles
 
   saveMarkdown(filename, data)
 }

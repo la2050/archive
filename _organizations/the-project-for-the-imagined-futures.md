@@ -20,12 +20,12 @@ zip: '90027'
 project_image: 'https://img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102096'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102096'
 original_project_ids:
   - '4102228'
 original_project_titles:

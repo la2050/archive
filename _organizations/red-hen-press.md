@@ -21,9 +21,6 @@ zip: '91401'
 project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102101'
-    - '6102194'
   challenge_url:
     - 'https://activation.la2050.org/play/red-hen-press/'
     - >-
@@ -31,6 +28,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  project_ids:
+    - '8102101'
+    - '6102194'
 original_project_ids:
   - '6102194'
   - '8102101'

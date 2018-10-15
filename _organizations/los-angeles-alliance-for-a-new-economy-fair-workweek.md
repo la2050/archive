@@ -23,11 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 project_video: 'https://youtu.be/7GHqVKrYCjM'
 aggregated:
-  project_ids:
-    - '8102072'
-    - '5102182'
-    - '4102255'
-    - '3102182'
   challenge_url:
     - >-
       https://activation.la2050.org/connect/los-angeles-alliance-for-a-new-economy-fair-workweek/
@@ -38,6 +33,11 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  project_ids:
+    - '8102072'
+    - '5102182'
+    - '4102255'
+    - '3102182'
 original_project_ids:
   - '8102072'
 original_project_titles:

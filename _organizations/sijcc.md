@@ -23,13 +23,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102207'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/locally-grown-art-a-series-featuring-la-artists-in-performance-movement-talk-music-family-fun
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102207'
 original_project_ids:
   - '6102207'
 original_project_titles:

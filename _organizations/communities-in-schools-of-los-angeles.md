@@ -22,15 +22,15 @@ zip: '90012'
 project_image: 'https://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102075'
-    - '3102085'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
     - 'http://maker.good.is/myla2050/projects/cislosangeles.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '5102075'
+    - '3102085'
 original_project_ids:
   - '3102085'
   - '5102074'

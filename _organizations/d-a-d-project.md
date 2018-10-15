@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7019184355741-team90.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102058'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-d-a-d-project-we-are-empowering-communities-one-d-a-d-at-a-time!
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102058'
 original_project_ids:
   - '6102058'
 original_project_titles:

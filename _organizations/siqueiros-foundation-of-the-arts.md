@@ -20,12 +20,12 @@ zip: '90034'
 project_image: 'https://img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102268'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102268'
 original_project_ids:
   - '5102268'
 original_project_titles:

@@ -21,10 +21,6 @@ zip: '90035'
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102065'
-    - '6102128'
-    - '4102253'
   challenge_url:
     - 'https://activation.la2050.org/learn/las-best/'
     - >-
@@ -34,6 +30,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2014'
+  project_ids:
+    - '8102065'
+    - '6102128'
+    - '4102253'
 original_project_ids:
   - '4102113'
   - '6102128'

@@ -20,12 +20,12 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
 project_video: 'https://www.youtube.com/embed/xJxjON6kbbU?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102142'
   challenge_url:
     - 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102142'
 original_project_ids:
   - '6102142'
 original_project_titles:

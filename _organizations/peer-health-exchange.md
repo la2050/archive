@@ -22,10 +22,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102094'
-    - '4102260'
-    - '3102216'
   challenge_url:
     - 'https://activation.la2050.org/live/peer-health-exchange/'
     - 'http://maker.good.is/myla2050/projects/peerhealthexchange.html'
@@ -33,6 +29,10 @@ aggregated:
     - '2018'
     - '2014'
     - '2013'
+  project_ids:
+    - '8102094'
+    - '4102260'
+    - '3102216'
 original_project_ids:
   - '4102086'
   - '8102094'

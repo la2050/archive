@@ -20,12 +20,12 @@ zip: '90802'
 project_image: 'https://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102254'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102254'
 original_project_ids:
   - '5102181'
 original_project_titles:

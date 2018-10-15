@@ -21,14 +21,14 @@ zip: '90017'
 project_image: 'https://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102097'
-    - '4102197'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/facinghistoryla.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102097'
+    - '4102197'
 original_project_ids:
   - '5102097'
 original_project_titles:

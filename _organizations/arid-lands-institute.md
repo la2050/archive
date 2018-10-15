@@ -22,11 +22,11 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22512%252Fdisplay%252FBoom_Map_300dpi_1200px_wide.jpeg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102113'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102113'
 original_project_ids:
   - '4102205'
 original_project_titles:

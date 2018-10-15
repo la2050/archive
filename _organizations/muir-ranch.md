@@ -24,15 +24,15 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20571%252Fdisplay%252Fdahlia3queque.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102061'
-    - '3102200'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
     - 'http://maker.good.is/myla2050/projects/MuirRanch.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102061'
+    - '3102200'
 original_project_ids:
   - '3102200'
   - '4102150'

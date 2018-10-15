@@ -21,12 +21,12 @@ zip: '90292'
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg'
 project_video: 'https://www.youtube.com/watch?v=0ZmDMvQPyoE'
 aggregated:
-  project_ids:
-    - '8102029'
   challenge_url:
     - 'https://activation.la2050.org/learn/common-sense/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102029'
 original_project_ids:
   - '8102029'
 original_project_titles:

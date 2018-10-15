@@ -22,15 +22,15 @@ zip: '90402'
 project_image: 'https://img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102264'
-    - '4102211'
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SeePolitical.html'
     - 'http://maker.good.is/myLA2050connect/projects/SeePolitical.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102264'
+    - '4102211'
 original_project_ids:
   - '4102189'
   - '5102264'

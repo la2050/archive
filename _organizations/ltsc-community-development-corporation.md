@@ -69,12 +69,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16930%252Fdisplay%252FLTSC_LA2050.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102192'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LTSC.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102192'
 original_project_ids: []
 original_project_titles:
   - Re-Connecting L.A. Neighborhoods through Music & History

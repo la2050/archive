@@ -16,14 +16,14 @@ zip: '90005'
 project_image: 'https://img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102169'
-    - '3102247'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/dance.html'
   year_submitted:
     - '2014'
     - '2013'
+  project_ids:
+    - '4102169'
+    - '3102247'
 original_project_ids:
   - '4102213'
 original_project_titles:

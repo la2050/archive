@@ -21,12 +21,12 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
 project_video: 'https://www.youtube.com/embed/vJZsFAP-f-E?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102096'
   challenge_url:
     - 'https://challenge.la2050.org/entry/save-a-life'
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102096'
 original_project_ids:
   - '6102096'
 original_project_titles:

@@ -20,12 +20,12 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
 project_video: 'https://www.youtube.com/embed/622Zh36LYZ0?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102251'
   challenge_url:
     - 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102251'
 original_project_ids:
   - '6102251'
 original_project_titles:

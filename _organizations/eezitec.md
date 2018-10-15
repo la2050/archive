@@ -20,12 +20,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102069'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '8102069'
 original_project_ids:
   - '5102091'
 original_project_titles:

@@ -23,11 +23,11 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22531%252Fdisplay%252FPhoto_Collage_v6.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102150'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102150'
 original_project_ids:
   - '4102128'
 original_project_titles:

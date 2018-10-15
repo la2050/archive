@@ -23,12 +23,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24023%252Fdisplay%252FLA2050_Freeway_Growth.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102105'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FreewayFarm.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102105'
 original_project_ids:
   - '5102105'
 original_project_titles:

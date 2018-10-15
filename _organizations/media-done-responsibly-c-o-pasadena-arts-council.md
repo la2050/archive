@@ -21,12 +21,12 @@ zip: '90101'
 project_image: 'https://img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102204'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102204'
 original_project_ids:
   - '5102204'
 original_project_titles:

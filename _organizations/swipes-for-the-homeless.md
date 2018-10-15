@@ -44,12 +44,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102241'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102241'
 original_project_ids:
   - '3102241'
 original_project_titles:

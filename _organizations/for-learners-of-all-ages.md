@@ -46,12 +46,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17044%252Fdisplay%252FFLAA1.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102130'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102130'
 original_project_ids:
   - '3102130'
 original_project_titles:

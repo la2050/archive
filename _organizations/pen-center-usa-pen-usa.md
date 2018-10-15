@@ -23,9 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4957308744741-team88.jpg
 project_video: 'https://www.youtube.com/embed/L9QrXSUROQ0?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102180'
-    - '4102237'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  project_ids:
+    - '6102180'
+    - '4102237'
 original_project_ids:
   - '6102180'
 original_project_titles:

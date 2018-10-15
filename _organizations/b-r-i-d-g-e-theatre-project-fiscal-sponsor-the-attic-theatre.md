@@ -22,12 +22,12 @@ zip: '90027'
 project_image: 'https://img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102013'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102013'
 original_project_ids:
   - '4102019'
 original_project_titles:

@@ -21,13 +21,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102114'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102114'
 original_project_ids:
   - '6102114'
 original_project_titles:

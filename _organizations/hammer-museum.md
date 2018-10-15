@@ -41,12 +41,12 @@ project_image: >-
   https://hammer.ucla.edu/legacy/_processed_/csm_43551390702_376d278a6b_o_114764d65b.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102144'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102144'
 original_project_ids:
   - '3102144'
 original_project_titles:

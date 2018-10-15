@@ -21,15 +21,15 @@ zip: ''
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102049'
-    - '5102122'
   challenge_url:
     - 'https://activation.la2050.org/create/grid110-inc/'
     - 'http://maker.good.is/myla2050create2015/projects/GRID110.html'
   year_submitted:
     - '2018'
     - '2015'
+  project_ids:
+    - '8102049'
+    - '5102122'
 original_project_ids:
   - '5102122'
   - '8102049'

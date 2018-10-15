@@ -20,12 +20,12 @@ zip: '90029'
 project_image: 'https://img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102091'
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102091'
 original_project_ids:
   - '4102215'
 original_project_titles:

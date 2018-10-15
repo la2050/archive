@@ -23,10 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102053'
-    - '6102095'
-    - '3102149'
   challenge_url:
     - 'https://activation.la2050.org/connect/homeboy-industries/'
     - >-
@@ -36,6 +32,10 @@ aggregated:
     - '2018'
     - '2016'
     - '2013'
+  project_ids:
+    - '8102053'
+    - '6102095'
+    - '3102149'
 original_project_ids:
   - '3102149'
   - '6102095'

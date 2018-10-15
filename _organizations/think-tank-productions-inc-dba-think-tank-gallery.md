@@ -23,9 +23,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 project_video: 'https://youtu.be/msrLyYttTv8'
 aggregated:
-  project_ids:
-    - '5102319'
-    - '6102263'
   challenge_url:
     - >-
       https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/
@@ -34,6 +31,9 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  project_ids:
+    - '5102319'
+    - '6102263'
 original_project_ids: []
 original_project_titles:
   - >-

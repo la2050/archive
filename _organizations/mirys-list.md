@@ -21,12 +21,12 @@ zip: 90089-0034
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg'
 project_video: 'https://youtu.be/6re3u9HlO-A'
 aggregated:
-  project_ids:
-    - '8102083'
   challenge_url:
     - 'https://activation.la2050.org/connect/mirys-list/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102083'
 original_project_ids:
   - '8102083'
 original_project_titles:

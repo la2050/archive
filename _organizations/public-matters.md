@@ -22,14 +22,14 @@ zip: '90026'
 project_image: 'https://img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102089'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'
     - 'http://maker.good.is/myla2050/projects/MARKETMAKEOVERS.html'
   year_submitted:
     - '2015'
     - '2013'
+  project_ids:
+    - '3102089'
 original_project_ids:
   - '3102089'
   - '5102247'

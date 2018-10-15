@@ -25,15 +25,15 @@ zip: '90025'
 project_image: 'https://img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102296'
-    - '4102215'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/altravelproject.html'
     - 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102296'
+    - '4102215'
 original_project_ids:
   - '4102206'
   - '5102296'

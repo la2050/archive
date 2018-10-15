@@ -21,10 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156269625741-team90.jpg
 project_video: 'https://www.youtube.com/embed/0NEAOsciAWM?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102157'
-    - '5102214'
-    - '4102235'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/telenovelas-in-the-park-a-new-way-of-learning!
@@ -34,6 +30,10 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '6102157'
+    - '5102214'
+    - '4102235'
 original_project_ids:
   - '5102214'
   - '5102268'

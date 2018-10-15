@@ -42,12 +42,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17143%252Fdisplay%252Fslanguage_facade_edit.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102177'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LAXART.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102177'
 original_project_ids:
   - '3102177'
 original_project_titles:

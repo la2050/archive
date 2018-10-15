@@ -22,12 +22,12 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7316447986741-team91.JPG
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102056'
   challenge_url:
     - 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102056'
 original_project_ids:
   - '6102056'
 original_project_titles:

@@ -22,12 +22,12 @@ project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '8102122'
   challenge_url:
     - 'https://activation.la2050.org/learn/the-people-of-change/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102122'
 original_project_ids:
   - '8102122'
 original_project_titles:

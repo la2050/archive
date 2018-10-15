@@ -23,9 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4769182815741-team88.png
 project_video: 'https://www.youtube.com/embed/_REjMUMytYw?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102264'
-    - '5102320'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/pathways-to-employment-through-professional-volunteerism
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102264'
+    - '5102320'
 original_project_ids:
   - '5102320'
   - '6102264'

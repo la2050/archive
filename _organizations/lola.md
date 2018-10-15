@@ -18,11 +18,11 @@ project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
   year_submitted:
     - '2018'
+  project_ids: []
 original_project_ids:
   - '8102069'
 original_project_titles:

@@ -21,10 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102155'
-    - '5102208'
-    - '4102234'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time
@@ -33,6 +29,10 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '6102155'
+    - '5102208'
+    - '4102234'
 original_project_ids:
   - '4102146'
   - '5102208'

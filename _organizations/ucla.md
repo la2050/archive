@@ -24,14 +24,14 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102327'
-    - '4102218'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102327'
+    - '4102218'
 original_project_ids:
   - '4102039'
   - '4102241'

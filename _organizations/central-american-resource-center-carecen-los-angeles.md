@@ -17,11 +17,11 @@ zip: '90005'
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102119'
   challenge_url: []
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102119'
 original_project_ids:
   - '4102032'
   - '4102032'

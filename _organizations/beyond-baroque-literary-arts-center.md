@@ -22,12 +22,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22565%252Fdisplay%252FProposed_Space_for_Venice_Arts_Commons.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102016'
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102016'
 original_project_ids:
   - '4102023'
 original_project_titles:

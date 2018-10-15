@@ -21,12 +21,12 @@ zip: '90034'
 project_image: 'https://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102210'
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/MotorAvenueFood.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102210'
 original_project_ids:
   - '5102210'
 original_project_titles:

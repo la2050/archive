@@ -21,11 +21,11 @@ zip: '90094'
 project_image: 'https://img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids: []
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CollegeEssay.html'
   year_submitted:
     - '2015'
+  project_ids: []
 original_project_ids:
   - '5102018'
 original_project_titles:

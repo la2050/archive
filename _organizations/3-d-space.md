@@ -21,9 +21,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk?rel=0&amp;showinfo=0'
 aggregated:
-  project_ids:
-    - '6102001'
-    - '5102004'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
@@ -31,6 +28,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102001'
+    - '5102004'
 original_project_ids:
   - '5102004'
 original_project_titles:

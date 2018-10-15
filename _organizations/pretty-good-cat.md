@@ -15,13 +15,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7781213474741-team90.JPG
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102189'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102189'
 original_project_ids:
   - '6102189'
 original_project_titles:

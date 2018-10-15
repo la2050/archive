@@ -21,11 +21,6 @@ project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/neighborhood-housing-services-of-los-angeles-county.jpg
 project_video: 'https://youtu.be/W_HksfcqY6U'
 aggregated:
-  project_ids:
-    - '8102089'
-    - '6102165'
-    - '5102219'
-    - '4102258'
   challenge_url:
     - >-
       https://activation.la2050.org/live/neighborhood-housing-services-of-los-angeles-county/
@@ -37,6 +32,11 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  project_ids:
+    - '8102089'
+    - '6102165'
+    - '5102219'
+    - '4102258'
 original_project_ids:
   - '4102155'
   - '6102165'

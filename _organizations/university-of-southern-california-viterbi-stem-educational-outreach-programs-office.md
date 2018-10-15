@@ -24,13 +24,13 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102274'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
   year_submitted:
     - '2016'
+  project_ids:
+    - '6102274'
 original_project_ids:
   - '6102274'
 original_project_titles:

@@ -22,13 +22,13 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102206'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/FLYYogaArts.html'
   year_submitted:
     - '2015'
     - '2014'
+  project_ids:
+    - '5102206'
 original_project_ids:
   - '5102102'
 original_project_titles:

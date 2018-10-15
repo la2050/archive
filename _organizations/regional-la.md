@@ -21,12 +21,12 @@ zip: '9005'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=rdB1z_4U_0A'
 aggregated:
-  project_ids:
-    - '8102102'
   challenge_url:
     - 'https://activation.la2050.org/connect/regional-la/'
   year_submitted:
     - '2018'
+  project_ids:
+    - '8102102'
 original_project_ids:
   - '8102102'
 original_project_titles:

@@ -24,12 +24,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20761%252Fdisplay%252Flogo.png=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '4102107'
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/SNAC.html'
   year_submitted:
     - '2014'
+  project_ids:
+    - '4102107'
 original_project_ids:
   - '4102259'
 original_project_titles:

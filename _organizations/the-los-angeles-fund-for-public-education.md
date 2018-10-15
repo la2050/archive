@@ -42,12 +42,12 @@ zip: ''
 project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/hqdefault.jpg'
 project_video: ''
 aggregated:
-  project_ids:
-    - '3102253'
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/school_fuel.html'
   year_submitted:
     - '2013'
+  project_ids:
+    - '3102253'
 original_project_ids:
   - '3102253'
 original_project_titles:

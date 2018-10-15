@@ -27,12 +27,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24010%252Fdisplay%252Fcodetechiq.jpg=c570x385
 project_video: ''
 aggregated:
-  project_ids:
-    - '5102196'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/Innov8.html'
   year_submitted:
     - '2015'
+  project_ids:
+    - '5102196'
 original_project_ids:
   - '5102196'
 original_project_titles:

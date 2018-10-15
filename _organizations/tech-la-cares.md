@@ -23,9 +23,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102242'
-    - '8102119'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
@@ -33,6 +30,9 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102242'
+    - '8102119'
 original_project_ids:
   - '5102292'
   - '6102242'

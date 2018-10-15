@@ -22,15 +22,15 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
 project_video: ''
 aggregated:
-  project_ids:
-    - '6102111'
-    - '5102077'
   challenge_url:
     - 'https://challenge.la2050.org/entry/re-make-it-la'
     - 'http://maker.good.is/myla2050create2015/projects/buyoutyourboss.html'
   year_submitted:
     - '2016'
     - '2015'
+  project_ids:
+    - '6102111'
+    - '5102077'
 original_project_ids:
   - '5102076'
 original_project_titles:
