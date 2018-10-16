@@ -661,6 +661,7 @@ function createMarkdownFile(data) {
 
     let makerProject = getMakerProjectByName(data.title, data.year_submitted)
 
+    if (makerProject) {
       createMakerProjectAnswerLookup()
       if (makerProject.id && makerProjectAnswersLookup[makerProject.id]) {
         // console.log("*** found maker answers")
