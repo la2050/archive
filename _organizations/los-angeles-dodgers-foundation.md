@@ -18,8 +18,7 @@ instagram: '@DodgersFoundation'
 facebook: /LosAngelesDodgersFoundation/
 ein: '954623022'
 zip: '92618'
-project_image: >
-- 'https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg'
+project_image: https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
 project_video: 'https://www.mlb.com/dodgers/video/ladf-overview/c-1866876583?tid=80228278'
 project_ids:
   - '8102074'
