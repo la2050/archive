@@ -18,8 +18,8 @@ make_la_great: "Everyone needs to get somewhere. We need to get to work, to scho
 category: connect
 organization_id: '2018055'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
-project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/36837835_2026903937321029_1964636633827377152_n.jpg?_nc_cat=110&oh=ea6591101cda09e7903d873c04194542&oe=5C5A12A7
+project_video: 
 project_id_3: '8102055'
 year_submitted: 2018
 organization_name: Investing in Place

@@ -34,7 +34,7 @@ make_la_great: "When people think of Los Angeles, they think of the incredible m
 category: live
 organization_id: '2018037'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
+
 project_video: ''
 project_id_3: '8102037'
 year_submitted: 2018

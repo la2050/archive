@@ -1,6 +1,6 @@
 ---
 organization_id: '2016053'
-project_image: 'https://img.youtube.com/vi/LNEfCtvn51o/maxresdefault.jpg'
+project_image: 'https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/22221635_10155610080912435_2555456961725205190_n.jpg?_nc_cat=101&oh=b3fc8cd53d48b1a72a188c6b9241ac00&oe=5C3FC2EE'
 project_id: '3102088'
 title: 'LA Open Acres: Transforming Empty Space Through Collaboration and Empowerment'
 indicator: ' Environmental Quality'
@@ -387,7 +387,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   <p>This vision of the future begins by giving communities the information and
   tools they need to reclaim and repurpose these underutilized spaces.</p>
 year_submitted: 2013
-project_video: 'https://www.youtube.com/embed/LNEfCtvn51o'
+project_video: 
 youtube_video_identifier: LNEfCtvn51o
 maker_answers:
   Organization Name: 'Community Health Councils, C-Lab (Columbia University), 596 Acres'

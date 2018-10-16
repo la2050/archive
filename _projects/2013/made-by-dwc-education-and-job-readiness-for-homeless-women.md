@@ -1,6 +1,6 @@
 ---
 organization_id: '2015051'
-project_image: 'https://img.youtube.com/vi/2cxPVWr-5DY/maxresdefault.jpg'
+project_image: 'https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40584177_2185185251523453_1250257884579627008_n.jpg?_nc_cat=108&oh=c2596494a9f2d5aeaaa73335e641dfbe&oe=5C5690A7'
 project_id: '3102109'
 title: 'MADE by DWC: Education and Job Readiness for Homeless Women'
 indicator: ' Income & Employment'
@@ -453,7 +453,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   women, and as such, we envision that by 2050 our model and best practices will
   be leveraged by other communities across the nation.
 year_submitted: 2013
-project_video: 'https://www.youtube.com/embed/2cxPVWr-5DY'
+project_video: ''
 youtube_video_identifier: 2cxPVWr-5DY
 maker_answers:
   Organization Name: Downtown Women’s Center

@@ -10,12 +10,12 @@ org_summary: >-
 tags_indicators:
   - STEM & Digital literacy
   - Education & youth
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951643307'
 organization_website:
   - www.caltech.edu
 twitter: caltech
-instagram: californiainstituteoftechnology
-facebook: caltechedu/
+instagram: https://www.instagram.com/caltechedu/
+facebook: https://www.facebook.com/californiainstituteoftechnology
 ein: ''
 zip: ''
 project_image: >-
