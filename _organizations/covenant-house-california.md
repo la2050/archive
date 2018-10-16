@@ -10,7 +10,7 @@ org_summary: >-
 tags_indicators:
   - Homelessness
   - Housing & homelessness
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4982'
 organization_website:
   - www.covenanthousecalifornia.org
 twitter: CovenantHouseCA
