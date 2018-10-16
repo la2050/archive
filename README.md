@@ -32,10 +32,10 @@ jekyll build && jekyll serve --host=0.0.0.0 --incremental --skip-initial-build
 ## Handy guides
 
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Liquid](https://shopify.github.io/liquid/)
-* [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 * [YAML Checker](http://www.yamllint.com)
+* [Liquid](https://shopify.github.io/liquid/)
+* [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Jekyll](https://jekyllrb.com/docs/home/)
 * [GitHub Pages](https://pages.github.com)
 
