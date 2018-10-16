@@ -150,12 +150,13 @@ function subCompare (needle, haystack, min_substring_length) {
 
 
 
-function getMakerProjectByName(projectName) {
+function getMakerProjectByName(projectName, year) {
   let match
   makerProjects.forEach(project => {
     if (match) return;
 
-    if (getStringForComparison(project.name) == getStringForComparison(projectName)) {
+    if (getStringForComparison(project.name) == getStringForComparison(projectName) &&
+      project.created_at.indexOf(year) >= 0) {
       // console.log("************ found a match!")
       match = project
     }
@@ -658,8 +659,8 @@ function createMarkdownFile(data) {
              data.year_submitted == 2013) {
 
 
-    let makerProject = getMakerProjectByName(data.title)
-    if (makerProject) {
+    let makerProject = getMakerProjectByName(data.title, data.year_submitted)
+
       createMakerProjectAnswerLookup()
       if (makerProject.id && makerProjectAnswersLookup[makerProject.id]) {
         // console.log("*** found maker answers")
@@ -789,6 +790,8 @@ function createMarkdownFile(data) {
   // }
 
   // console.dir(data)
+
+  data.published = true
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
@@ -1218,8 +1221,8 @@ function createLookup(year) {
 
 }
 
-createLookup(2016)
-createLookup(2018)
+// createLookup(2016)
+// createLookup(2018)
 
 // console.log("********/*")
 // console.dir(markdownProjectsLookup["2018"]["play"]["Activate South Bay LA Trails!"])
@@ -1228,8 +1231,8 @@ createLookup(2018)
 
 
 
-generateAllCollections('projects-2018.csv', 2018)
-generateAllCollections('projects-2016.csv', 2016)
+// generateAllCollections('projects-2018.csv', 2018)
+// generateAllCollections('projects-2016.csv', 2016)
 generateAllCollections('projects-2015.csv', 2015)
 generateAllCollections('projects-2014.csv', 2014)
 generateAllCollections('projects-2013.csv', 2013)

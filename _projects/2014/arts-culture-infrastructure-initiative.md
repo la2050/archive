@@ -1,7 +1,9 @@
 ---
 project_id: '4102109'
 title: Arts & Culture Infrastructure Initiative
-project_summary: "<p>LA STAGE Alliance has provided dozens of services and short-to-long term initiatives over our 30 year history.  A few highlights include:</p>\r\n\r\n<p>1. The creation of the LA STAGE ARTS CENSUS, in partnership with TRG Arts, that is now the largest and most robust collective dataset of cultural patrons in LA’s history with over four million unique households currently included.</p>\r\n\r\nhttp://www.laimyours.com/40804/what-is-up-with-la2050/2.  The creation of the LA PatronManager CRM initiative, providing gold-standard corporate data technology services to arts organizations at zero cost, through a multi-pronged partnership with a for-profit technology firm (Patron Technology), a corporate foundation (Salesforce Foundation), private foundations (the James Irvine and Doris Duke Charitable Foundations), over 100 non-profit arts organizations, and a non-profit service organization (LA STAGE Alliance).</p>\r\n\r\n<p>3.  The creation of LA STAGE Magazine in 2001, which moved online to become the award-winning LASTAGETimes.com in 2009.  It is now guided by Editor-in-Chief Deborah Behrens and is the largest professional journalism outlet in Los Angeles dedicated specifically to in-depth, quality coverage of Los Angeles performing arts.</p>\r\n\r\n<p>4.  The founding of the LA STAGE Warehouse Co-op, a 10,000 square foot shared materials facility for the LA theater community, saving LA theaters thousands of dollars a year and preventing the loss of tons of reusable materials (sets, props, costumes, equipment) that would otherwise be sent to landfills.</p>\r\n\r\n<p>5.  The creation of the LA STAGE Ovation Awards, now in their 24th year, the highest-profile awards for excellence in theater on the West Coast.  The Ovation Awards consider over 400 productions each year; celebrate over 150 nominees and 35 Ovation recipients at an annual black-tie ceremony, which is attended by 1300 leaders of the LA cultural community.</p>\r\n\r\n<p>6.  Hosting the 2011 Theatre Communications Group Conference in Los Angeles – the first time it had been to LA in its 50 year history – bringing over 1,000 theater professionals from around the country to Downtown LA, in conjunction with the first ever RADAR LA international theater festival.</p>"
+project_summary: >-
+  Our Arts and Culture Infrastructure Initiative strengthens support for the
+  arts community with a focus on diversity, inclusion and access.
 category: create
 organization_id: '2014048'
 year_submitted: 2014
@@ -67,107 +69,526 @@ maker_image_file_name: Faces_Installation.jpg
 project_areas:
   - LA COUNTY
 maker_answers:
-  Organization Name: LA STAGE Alliance
-  website: www.LASTAGEAlliance.com
-  Indicator: Arts & Cultural Vitality
-  brief: "<p>Let’s Create LA … with a vibrant and thriving arts and culture infrastructure initiative. \r\n<p>Greater LA has a robust and active cultural scene, with more artists and arts organizations per capita than almost any other region in the country.  LA is also home to a powerful and productive economy that generates billions of dollars a year in a variety of industries, helping to make California the 8th-largest economy in the world. However, as the LA2050 Report indicates, financial support for the arts is weak compared to other major markets.  This deficiency is created by a low number of private culturally-focused foundations, low levels of corporate sponsorship, and most importantly, a gap that exists between business managers and executives who want to engage with the cultural life of LA.   In contrast to many other regions that have robust Board Placement programs, Arts & Business Councils, and United Arts Funds, LA has very limited programs to prepare for and match business/civic leaders for service on cultural arts non-profit boards.  LA STAGE Alliance hopes to address these concerns by becoming a robust cultural alliance, providing service to the entire arts, business, and philanthropy community. We have completed the initial research for the Arts & Culture Infrastructure Initiative. A LA2050 grant is needed as ‘seed money’ to allow us to fast track this initiative by piloting test cases, developing program/operations and fundraising plans and creating a network of invested stakeholders through a series of interviews, surveys, convenings and research reports. Our research indicates that the Initiative has the potential to be financially self-sustaining through both earned and contributed revenue after the two-year pilot phase. \r\n\r\n<p>The Initiative will include the following three components:\r\n<p>1.\tArts & Business Conduit:     \r\nWe want to serve as the conduit between the arts and business community. We will build relationships with the top 50 institutions with demonstrated arts board participation from our research.   We will interview key leadership and corporate social responsibility officers on their formal and informal board placement, leadership development and community outreach strategies. Our goal would be for the talented employees of top corporations in the region to be trained on arts board service and be placed with a cultural organization that both matches their interests and expands their understanding of the cultural infrastructure of Greater LA. \r\n<p>Engaging Los Angelinos with cultural board service by itself is not enough.  We will create ongoing Board Support Networks between board members at cultural organizations for mutual support, similar to support networks in other fields through surveys, communications, convenings and networking events.  Arts non-profits often run into challenges that their boards do not have knowledge in and may feel at a loss on how to effectively address.  By creating networks between board members - including mentor-mentee relationships and periodic gatherings of board members/board chairs, etc - major decision-making challenges can be addressed with the knowledge base and community support of leaders from across the region. We will consult with national thought leaders in leadership development and arts non-profit management to create the program design for the Arts & Business Conduit.\r\n\r\n<p>2. Region-wide Arts Fund:   \r\nWe will develop a plan to create a Region Wide Arts Fund through workplace giving, employee-driven corporate sponsorship support, individual donations from high-net-worth individuals and crowd sourced methodologies.   By engaging with the businesses of Greater LA through the Board Placement and Development process, we expect that many LA citizens will be identified who are interested in the cultural landscape of LA, but who are not in a place to engage immediately through Board service.   This component of the program will provide a pathway for those who want to support the LA cultural infrastructure without board service. The funds raised will be distributed through re-granting to support parts of LA’s cultural landscape that are often overlooked or underfunded. \r\n\r\n<p>3. Arts & Cultural Alliance Pilot\r\nWe will pilot the expansion of our programming, from serving the performing arts predominately to serving the entire arts and culture sector through the following channels: Current Program Outreach, Expansion of LASTAGETimes.com Arts Journalism coverage, and Research and Program Development. This will lead to a new mission, new name/branding and a more robust operation. We would conduct outreach to build awareness of these benefits to an expanded arts population while simultaneously working with the broader community to ascertain what community-specific services and programs are still needed.</p>"
-  budget explanation: "<p>The LA2050 time frame and grant award amount allows the fast tracking of our existing Arts and Culture Infrastructure Initiative. The budget for the launch of this Initiative will be used to build a financially self-sustaining program.  In 2013, the focus of the Initiative’s expenses would be on hiring initial Project-based staff with expertise in setting up the initial operations, building awareness of the campaign, and have knowledge of the Los Angeles arts, business and philanthropic communities. Other line items are tied directly to the deliverables mentioned in our project description. As we are committed to this work, we have included our in-kind contributions toward the total project budget.</p>\r\n\r\n<p>BUDGET:</p>\r\n\r\n<p>- Project Management (June 2013 – Dec 2013): $30,000 ($50K add’l in-kind by LA STAGE)</p>\r\n\r\n<p>- Outreach coordinator (June 2013 – Dec 2013):  $20,000</p>\r\n\r\n<p>- Journalists/Editors:  $17,000</p>\r\n\r\n<p>- Event coordination (June 2013 – Dec 2013): $10,000</p>\r\n\r\n<p>- Communications:  $6,000</p>\r\n\r\n<p>- Event Facilitation/Graphic Recording:  $6,000</p>\r\n\r\n<p>- Research:  $3,000</p>\r\n\r\n<p>- Marketing/Promotional Materials (Printed and Mailed materials, in addition to online):  $3,000</p>\r\n\r\n<p>- Technology (computers, internet, phone, etc):  $3,000 ($7,000 add’l in-kind by LA STAGE)</p>\r\n\r\n<p>- Legal Consultation:  $2,000</p>\r\n\r\n<p>- Office Space:  $20,000 (in-kind by LA STAGE)</p>\r\n\r\n<p>- Event Hospitality:  $10,000 (in-kind by LA STAGE)</p>\r\n\r\n<p>- Travel/Conference:  $10,000 (in-kind by LA STAGE)</p>\r\n\r\n<p>- Administration/Accounting:\t$5,000 (in-kind by LA STAGE)</p>\r\n\r\n<p>TOTAL BUDGET:  $202,000 ($102,000 provided as in-kind)</p>"
-  description: "<p>What is particularly exciting about this project is that it will not only impact the Arts & Cultural Vitality indicator, but also the Social Connectedness and Income and Employment indicators.  The core of the Initiative is to build an engaged and active web of relationships between Angelinos and arts and culture non-profits through arts participation, board volunteerism (Social Connectedness) and philanthropy.  In turn, these engaged citizens will bring more resources– financial and knowledge based– to non-profit cultural organizations and thus improve the success of those organizations. Ultimately, better-supported arts organizations will help increase compensation and standards of living for artists and arts administrators, which is a significant challenge in the LA cultural landscape.</p>\r\n\r\n<p>LA STAGE Alliance’s major strengths are building relationships and aggregating resources. This project is a great example of the work we do.  We have two sectors (for-profit corporate businesses and non-profit cultural institutions) that could greatly benefit from working together on many levels.   The for-profit employees will have the opportunity to gain skills, network with each other, and become personally invested in the cultural organizations and artists in their communities in a way that is tailored to their individual interests and needs.  The artists and cultural organizations will make huge strides in organizational stability, sharper mission focus and strategic planning by engaging with a new set of talented and trained board members and will thrive with an infusion of new services and funding streams. This Initiative will build a growing set of passionate professionals on both the for- and non-profit sides, who are excited about LA’s cultural landscape.  They will be given the necessary tools to take our current cultural assets and turn them into a powerhouse that will propel Los Angeles into truly being the Cultural Capital of the United States.</p>"
-  collaborators: >-
-    We’ll activate the 1000+ arts organizations we currently serve and develop
-    this initiative with our local, regional and national partners who work in
-    this connectivity-collaboration space, including the LA Chamber of Commerce,
-    Arts for LA, municipal cultural agencies, arts funders, service providers
-    and others.  We will also leverage individuals serving on cultural boards,
-    networks of philanthropists and business leaders who support the cultural
-    life of LA. We have strong relationships with national partners who have
-    encouraged us to pursue this Initiative including both Americans for the
-    Arts (their network of Arts & Business Councils, Business Committees for the
-    Arts and United Arts Funds) and National Arts Strategies.
-  success: "<p>Evaluation will include tracking the following on an annual basis, with the first data being derived from a comparison of the pre- and post- LA2050 activity period (June 2013 and December 2013).</p>\r\n\r\n<p>1. How many individuals, arts organizations, corporations and philanthropic entities are engaged with the Initiative?</p>\r\n\r\n<p>2. Have we increased the number of diverse, non-performing arts entities participating in current LA STAGE Alliance programs.</p>\r\n\r\n<p>3. Have we created Program/Operations/Fund Development Plans for all three aspects of the initiative.</p>\r\n\r\n<p>4. Have Advisory Councils and Task Force/Working Groups been established with work plans and timelines?</p>\r\n\r\n<p>5. What changes in satisfaction occur for non-profit Executive Directors regarding the participation and support of the Board?</p>\r\n\r\n<p>6. What changes in satisfaction occurred for current Board members regarding the participation and support of other Board members?</p>\r\n\r\n<p>7. How many Board members of non-profits met new colleagues (on their Board or on other Boards) through the Initiative?</p>\r\n\r\n<p>8. How much funding for cultural organizations was raised and distributed through the regional Arts fund program? How many individuals or organizations participated?</p>\r\n\r\n<p>9. What changes in compensation for artists and arts administrators have occurred since the beginning of the Initiative, both with-in individual organizations and across all participating cultural organizations?</p>"
-  description1: "<p>LA STAGE Alliance has provided dozens of services and short-to-long term initiatives over our 30 year history.  A few highlights include:</p>\r\n\r\n<p>1. The creation of the LA STAGE ARTS CENSUS, in partnership with TRG Arts, that is now the largest and most robust collective dataset of cultural patrons in LA’s history with over four million unique households currently included.</p>\r\n\r\nhttp://www.laimyours.com/40804/what-is-up-with-la2050/2.  The creation of the LA PatronManager CRM initiative, providing gold-standard corporate data technology services to arts organizations at zero cost, through a multi-pronged partnership with a for-profit technology firm (Patron Technology), a corporate foundation (Salesforce Foundation), private foundations (the James Irvine and Doris Duke Charitable Foundations), over 100 non-profit arts organizations, and a non-profit service organization (LA STAGE Alliance).</p>\r\n\r\n<p>3.  The creation of LA STAGE Magazine in 2001, which moved online to become the award-winning LASTAGETimes.com in 2009.  It is now guided by Editor-in-Chief Deborah Behrens and is the largest professional journalism outlet in Los Angeles dedicated specifically to in-depth, quality coverage of Los Angeles performing arts.</p>\r\n\r\n<p>4.  The founding of the LA STAGE Warehouse Co-op, a 10,000 square foot shared materials facility for the LA theater community, saving LA theaters thousands of dollars a year and preventing the loss of tons of reusable materials (sets, props, costumes, equipment) that would otherwise be sent to landfills.</p>\r\n\r\n<p>5.  The creation of the LA STAGE Ovation Awards, now in their 24th year, the highest-profile awards for excellence in theater on the West Coast.  The Ovation Awards consider over 400 productions each year; celebrate over 150 nominees and 35 Ovation recipients at an annual black-tie ceremony, which is attended by 1300 leaders of the LA cultural community.</p>\r\n\r\n<p>6.  Hosting the 2011 Theatre Communications Group Conference in Los Angeles – the first time it had been to LA in its 50 year history – bringing over 1,000 theater professionals from around the country to Downtown LA, in conjunction with the first ever RADAR LA international theater festival.</p>"
-  description3: "<p>Due to the lack of resources in the arts and culture sector in Los Angeles, LA STAGE Alliance makes a concerted effort to avoid duplicating efforts wherever possible.  If there is another organization or another business that is providing a service similar to one we provide or which we are considering, then that greatly reduces our interest in providing that service.  Instead, we would prefer to divert those resources elsewhere to address another need of the sector that is currently not being fulfilled.</p>\r\n\r\n<p>Due to this strategic philosophy, we work to transform ‘competitors’ into ‘partners.’  For example, when Goldstar Tickets entered the LA market, they took a large percentage of the online discount ticket market that we were currently participating in with our program, LASTAGETix.  Despite that ‘competition’ and the corresponding loss of revenue to LA STAGE, we chose to embrace Goldstar as a partner, adjusting LASTAGETix to become a niche ticket outlet for theater specific events, while Goldstar grew into providing a more  diverse host of entertainment options.  Goldstar also became a sponsor of LA STAGE and we have a mutually supportive relationship with them to this day.</p>\r\n\r\n<p>We have similar relationships with other entities that operate in the same area that we do, from the Center for Cultural Innovation, the LA County Arts Commission, Los Angeles Times, Footlights Publishing and Bitter-Lemons.com.  With limited available resources and many challenges to address, there is plenty of room for anyone who wants to help forward LA’s cultural landscape and support the profusion of artists and arts organizations.  Therefore, our goal is to interface in the most mutually supportive manner with these other organizations.</p>"
-  vision: "<p>Our CEO, Terence McFarland presented the following six components of a vibrant and thriving arts ecology in 2050 at the community meeting on the Arts & Culture Indicator:</p>\r\n\r\n<p>1. Multi-use community arts centers exist in every neighborhood with multi-lingual around the clock program composed of participatory, professionally produced or presented and commercial or purchasable product.</p>\r\n\r\n<p>2. The LA region enjoys the highest per capita investment in the arts from Government, Individuals AND the Corporate Sector.</p>\r\n\r\n<p>3. Business Leaders from every sector are clamoring to join Arts and Culture Non Profit Boards – Arts groups enjoy a waiting list for potential Board members.</p>\r\n\r\n<p>4. All artists are making a living wage.</p>\r\n\r\n<p>5. Artists of every discipline are in residence at the top 200 businesses in the region and every major municipal agency.</p>\r\n\r\n<p>6. Low income residents enjoy free access to and feel welcomed at any arts experience they choose at all arts organization in the region.</p>\r\n\r\n<p>The Board and Giving networks will become a core group of LA’s ecology and civic engagement that participation in them will be a given.  Once you reach a certain level of career progression in any field in Los Angeles, it will be socially presumed that you join your peers in Board service within LA’s cultural non-profit sector.</p>\r\n\r\n<p>After 30+ years of these mutually beneficial relationships taking root, it will be hard to see where ‘for profit’ businesses end and ‘non-profit’ organizations begin.   You will find more for- and non-profit businesses fusing into cooperative ventures beyond sharing board members.  For example, it will become a standard practice for art experiences to be incorporated into the business activities of a store or restaurant.</p>\r\n\r\n<p>Participation in our Regional Arts Fund will be so commonplace that it will feel like a tithing at church to all those above the poverty line in the region.</p>\r\n\r\n<p>Los Angeles will be known as the Cultural Capital of America - the ‘Creative Powerhouse’- where a vast economy is driven by creative activities at every level; where business acumen is tightly woven with art to reach higher levels of community impact and artistry.  New generations of cultural innovation will springboard from LA.   The best and brightest minds of Los Angeles will collaborate effortlessly, propel our region forward, and help the LA arts sector grow economically and culturally to inspire all of America and the world.</p>"
-  EIN: 51-0183348
-  Tax Status: ' Non-profit organization'
-  about_you: 'Los Angeles, CA'
-  Does your project impact Los Angeles County?: 'yes'
+  city_state: Los Angeles
+  org_name: LA STAGE Alliance
+  org_website: 'http://lastagealliance.com/'
+  org_twitter: '@lastagealliance'
+  org_facebook: facebook.com/lastagealliance
+  org_instagram: ''
+  org_mailingaddress: "4200 Chevy Chase Drive \r\nLos Angeles, CA 90039"
+  org_ein: '510183348'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    LA STAGE empowers artists and engages audiences by building awareness,
+    appreciation and support for the performing arts in Greater LA. 
+  one_sentence_project: >-
+    Our Arts and Culture Infrastructure Initiative strengthens support for the
+    arts community with a focus on diversity, inclusion and access.
+  describe_idea: >-
+    Keep LA a world-class #arts mecca! Let's build arts infrastructure by
+    supporting #diversity, inclusion and access. #LetsCreateLA
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '0'
+  area_eastLA: '0'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '1'
+  area_other_blank: All of LA County
+  more_detail: >-
+    Our Arts & Culture Infrastructure Initiative will strengthen the region’s
+    environment for art making by developing strong, diverse board leadership
+    and cultivating new philanthropic support for non-profit arts organizations,
+    ensuring broader access to arts experiences. Our Arts and Business conduit
+    will galvanize business leaders in support of the arts community through
+    leadership and advocacy training, networking, and mentorship. Our pilot
+    region-wide Arts Fund will focus on the feasibility and development of a
+    re-granting program similar to a “United Way” for the arts with the Alliance
+    raising money in support of our region’s arts organizations from new
+    individual or institutional donors, creating new money flowing into the
+    sector.
+  implement: "1. Arts & Business Conduit/Network\r\nWe will serve as the conduit between the arts and business community. Referencing our studies of cultural board participation, we will approach and build relationships with the top fifty institutions with demonstrated arts board participation. We will interview key leadership and corporate social responsibility officers on their formal and informal board placement, leadership development and community outreach strategies. Our goal is for the talented employees of top industries in the region to be trained about arts board service and to be placed with a cultural organization that matches their interests and expands their understanding of the cultural infrastructure of Greater Los Angeles. Engaging Angelenos with cultural board service by itself is not enough.  We will create ongoing networks between board members at cultural organizations for mutual support (similar to support networks in other fields) through surveys, communications, convenings and networking events.  Arts non-profits often run into challenges that their boards do not have knowledge to combat, and many feel at a loss on how to effectively address this issue.  By creating networks between board members — including mentor-mentee relationships and periodic gatherings of board members/board chairs, etc. — major decision-making challenges can be addressed with the knowledge base and community support of leaders from across the region. Additionally, we will contract Arts for LA to provide their nationally recognized advocacy-training academy for our Board network to amplify the reach of nonprofit arts organizations throughout the region.\r\n\r\n2. Region-wide Arts Fund \r\nWe will develop a plan to create a region-wide Arts Fund through workplace giving, employee-driven corporate sponsorship support, individual donations from high-net-worth individuals and crowd sourced methodologies.  By engaging with the businesses of Greater LA through the Board Placement and Development process, we expect that many LA citizens will be identified who are interested in the cultural landscape of LA, but who are not in a place to engage immediately through Board service.  This component of the program will provide a pathway for those who want to support the LA cultural infrastructure without board service. The funds raised will be distributed through an inclusive re-granting to support parts of LA’s cultural landscape that are often overlooked or underfunded."
+  impact_create: "In the short term, our project enables stronger and more connected boards of directors of arts nonprofits in the region. The United Arts Fund approach will identify and distribute new grants dollars into the arts ecosystem, allowing for a deepening of support for current working artists.\r\nIn terms of LA in 2050:\r\n1) Multi-use community arts centers exist in every neighborhood with multi-lingual, around-the-clock programs composed of participatory, professionally produced, or presented productions\r\n2) The LA region enjoys the highest per capita investment in the arts from Government, Individuals AND the Corporate Sector.\r\n3) Business leaders from every sector are clamoring to join Arts and Culture Nonprofit Boards – Arts groups enjoy a waiting list for potential Board members.\r\n4) All artists are making a living wage.\r\n5) Artists of every discipline are in residence at the top 200 businesses in the region and every major municipal agency.\r\n6) Low income residents enjoy free access to and feel welcomed at any arts experience they choose at all arts organization in the region.\r\n\r\nThe Board and Giving networks will become a core group of LA’s ecology and civic engagement that engagement will become a given.  Once you reach a certain level of career progression in any field in Los Angeles, it will be socially presumed that you join your peers in Board service within LA’s cultural nonprofit sector.\r\n\r\nAfter 30+ years of these mutually beneficial relationships taking root, it will be hard to see where ‘for profit’ businesses end and ‘nonprofit’ organizations begin. You will find more for- and non-profit businesses fusing into cooperative ventures beyond sharing board members.  For example, it will become a standard practice for arts experiences to be incorporated into the business activities of a store or restaurant.\r\n\r\nParticipation in our Regional Arts Fund will be so commonplace that it will feel like a tithing at church to all those above the poverty line in the region.\r\n\r\nLos Angeles will be known as the Cultural Capital of America — the ‘Creative Powerhouse’- where a vast economy is driven by creative activities at every level; where business acumen is tightly woven with art to reach higher levels of community impact and artistry.  New generations of cultural innovation will springboard from LA.  The best and brightest minds of Los Angeles will collaborate effortlessly, propel our region forward, and help the LA arts sector grow economically and culturally."
+  who_benefit: "Our project benefits all of Los Angeles by enabling a stronger, more robust arts and culture sector, contributing to the quality of life, economic vitality and social connectedness of the region; making LA the best play to CREATE, LEARN, PLAY and CONNECT. Specifically, our project will directly improve the lives of artists, volunteers and arts administrators by fortifying their foundation of support within the communities they serve.\r\n\r\nWe seek to ensure a robust and diverse constituent base with programs and services that meet their needs and allow them to further connect with their audiences. We see a gap between those performing arts organizations who are reaching underserved communities and/or communities of color and our current roster of programming. Our goal is to refocus our efforts to ensure greater access to the arts while enabling a more diverse and inclusive group of organizations benefitting from our services. To accomplish this we will leverage our Arts Census, which contains arts participation information on nearly four million unique households provided by nearly 400 local arts organizations.\r\n\r\nThis work will leverage our NEA and LA County Arts Commission grants focusing on training and networking the boards of our local companies around issues of diversity, inclusion and access while strengthening our tech infrastructure to support increased access to the arts. The technology focus will look at modeling the access initiative of Theater Development Fund as a model to extend our discount ticket program to underserved audiences throughout the region. The Inclusion aspect will look at services to the field provided by Culture Works in Philadelphia as a model for programmatic efficiencies and sustainability. We anticipate that this committee will also provide a blueprint with best practices and recommendations to the community to address issues of Diversity among boards, administration, artists and audiences throughout the region."
+  partners_collaboration: >-
+    As an alliance, we exist through partnership and collaboration.  We’ll
+    activate the 1000+ arts organizations we currently serve and develop this
+    initiative with our local, regional and national partner organizations who
+    work in this connectivity-collaboration space, including the LA Chamber of
+    Commerce, Arts for LA, municipal cultural agencies, arts funders, service
+    providers and others.  We will also leverage individuals serving on cultural
+    boards and the networks of philanthropists and business leaders who support
+    the cultural life of Los Angeles. We have strong relationships with national
+    partners who have encouraged us to pursue this Initiative including both
+    Americans for the Arts (their network of Arts & Business Councils, Business
+    Committees for the Arts and United Arts Funds) and National Arts Strategies,
+    which develops non-profit arts leaders. As previously mentioned, we have
+    confirmed with the staff of Arts for LA that, if funded, we would contract
+    with them to provide advocacy training over a six-month period with our
+    Board Network.
+  metrics_create_employment: '1'
+  metrics_create_arts: '1'
+  metrics_create_manufacturing: '0'
+  metrics_create_researchgrant: '0'
+  metrics_create_patents: '0'
+  metrics_create_jbs: '0'
+  metrics_create_minoritywomenowned: '0'
+  metrics_create_gini: '0'
+  metrics_create_startups: '0'
+  metrics_create_venturecapital: '0'
+  metrics_create_influencers: '0'
+  metrics_create_recruitingrates: '0'
+  metrics_create_graduates: '0'
+  metrics_create_unemployment: '0'
+  metrics_create_other: '1'
+  metrics_create_blank: ''
+  impact_metrics: >-
+    Our Arts Census tracks the arts participation behavior of over 4 million
+    unique households. We can track, over time, an increase in participation and
+    impact by zip code and neighborhood. We anticipate, for example, that the
+    Arts Census might highlight typically “underserved” areas and populations,
+    therefore enabling the Board network to better assess where arts programming
+    could be delivered. We acknowledge a field-wide shift toward questions
+    around definitions of arts engagement and suspect that our core
+    constituents, those who produce and present performing arts events, will
+    broaden their focus to create active arts experiences with their
+    stakeholders. The Arts Census tracks transactional data, not “survey”
+    responses and therefore will provide a valuable tool in tracking increasing
+    participation and engagement in the sector.
+  best_place_to_learn: '1'
+  best_place_to_connect: '1'
+  healthiest_place_to_live: '0'
+  best_place_to_play: '1'
+  evaluate: "Evaluation will include tracking the following on an annual basis, with the first data being derived from a comparison of the pre- and post- LA2050 activity period.\r\n-\tHow many individuals, arts organizations, corporations and philanthropic entities are engaged with the Initiative?\r\n-\tHave we increased the number of diverse, non-performing arts entities participating in current LA STAGE Alliance programs?\r\n-\tHave we created Program/Operations/Fund Development Plans for all three aspects of the initiative?\r\n-\tHave Advisory Councils and Task Force/Working Groups been established with work plans and timelines?\r\n-\tWhat changes in satisfaction occur for non-profit Executive Directors regarding the participation and support of the Board?\r\n-\tWhat changes in satisfaction occurred for current Board members regarding the participation and support of other Board members?\r\n-\tHow many Board members of nonprofits met new colleagues (on their Board or on other Boards) through the Initiative?\r\n-\tHow much funding for cultural organizations was raised and distributed through the regional Arts fund program? How many individuals or organizations participated?\r\n-\tWhat changes in compensation for artists and arts administrators have occurred since the beginning of the Initiative, both with-in individual organizations and across all participating cultural organizations?\r\n"
+  two_lessons: "We know from direct experience and conversation with arts non-profit board members that there exists little to no training for joining arts boards and no formal network for board members to exchange ideas, learn from peers or mentor newcomers. We have researched existing infrastructure and similar programs throughout the country and will bring industry best practices to our initiative.\r\n\r\nWe understand from talking to the philanthropic leaders in our sector that there is no aggregated effort to bring new money into the field. Many initiatives have been born out of funders coming together around a specific project or initiative, but no combined efforts to raise general operating support for the entire field exist today. We understand from the leaders at Americans for the Arts, which oversee the Arts & Business Councils and Business Committees for the Arts around the country that new hybrids of support are forming around the idea of the arts improving not only quality of life in their regions, but also creating economic impact and other measurable outcomes. We will leverage the great work of these national groups to ensure that we build a strong case for support and flatten our learning curve toward success."
+  achievable_goal: >-
+    As an Alliance, one of our strengths and core competencies is mobilizing our
+    network around new ideas and initiatives. Our board and staff stand by the
+    ready to launch this initiative. Once funded, we will activate the resources
+    necessary to convene the field, hire the appropriate personnel and deploy
+    our initiative. 
+  major_challenges: >-
+    One barrier will be overcoming the geographic challenge of networking and
+    convening a broad spectrum of stakeholders across the region. As an
+    Alliance, one of our strongest mechanisms of service delivery is our ability
+    to convene, but we know from experience that meeting times and meeting
+    location contribute significantly to turnout. As such, we will need to be
+    open to a longer lead time and having multiple meetings in a variety of
+    locations to ensure the widest possible participation.  Additionally, our
+    work on the diversity, inclusion and access aspect of the initiative might
+    lead to charged conversations. We know from similar conversations in the
+    field that these are hot button topics and we will work closely with
+    consultants and facilitators used to working in this “charged” space to
+    ensure a fair and equitable facilitation of dialogue around our program
+    development.
+  competition: "LA STAGE Alliance recognizes a shift in the arts service landscape as well as a growing desire for performing arts organizations to recognize the evolving regional demographic landscape and we seek to redefine our role in this environment and context. Between the Theatrical Producers League of LA, and other ad hoc groups, LA Theater Network and Latino Theater Alliance and the merging of Pentacle and Dance Resource Center (in addition to the numerous panels on the subject of “diversity” on our stages and amidst our directors) the time is apt for a clarification and solidification of our role in the community. \r\n\r\nDue to the lack of resources in the arts and culture sector in Los Angeles, LA STAGE Alliance makes a concerted effort to avoid duplicating efforts wherever possible.  If there is another organization or another business that is providing a service similar to one we provide or which we are considering, then that greatly reduces our interest in providing that service.  Instead, we would prefer to divert those resources elsewhere to address another need of the sector that is currently not being fulfilled.\r\n\r\nDue to this strategic philosophy, we work to transform ‘competitors’ into ‘partners.’  For example, when Goldstar Tickets entered the LA market, they took a large percentage of the online discount ticket market that we were currently participating in with our program, LA STAGE Tix.  Despite that ‘competition’ and the corresponding loss of revenue to LA STAGE, we chose to embrace Goldstar as a partner, adjusting LA STAGE Tix to become a niche ticket outlet for theater specific events, while Goldstar grew into providing a more diverse host of entertainment options.  Goldstar also became a sponsor of LA STAGE and we have a mutually supportive relationship with them to this day.\r\n\r\nWe have similar relationships with other entities that operate in the same area that we do, from the Center for Cultural Innovation, the LA County Arts Commission, Los Angeles Times, Footlights Publishing and Bitter-Lemons.com.  With limited available resources and many challenges to address, there is plenty of room for anyone who wants to help forward LA’s cultural landscape and support the profusion of artists and arts organizations.  Therefore, our goal is to interface in the most mutually supportive manner with these other organizations.\r\n"
+  cost: "This project will cost $217,000.\r\n\r\nThe additional costs will be covered by grants from our ongoing supporters or any of our numerous earned income generating programs.\r\n\r\nBecause this work is a natural extension of our ongoing programming, we can easily include this work as an outcome for any subsequent general operating support grants.\r\n"
+  budget: "BUDGET:\r\nProject Management \t\t\t\t\t$50,000 ($50K match by LA STAGE)\r\nAdvocacy Training (contracted to Arts for LA)\t\t$25,000\r\nOutreach coordinator \t\t\t\t\t$10,000\r\nEvent coordination:\t\t\t\t\t$10,000\r\nCommunications:\t\t\t\t\t$5,000\r\nEvent Facilitation/Graphic Recording\t\t\t$5,000 (match by LA STAGE)\r\nMarketing/Promotional Materials \r\n(Printed and Mailed materials, in addition to online):\t$3,000 (match by LA STAGE)\r\nTechnology (computers, internet, phone, etc):\t\t$12,000 (match by LA STAGE)\r\nLegal Consultation:\t\t\t\t\t$2,000 (match by LA STAGE)\r\nOffice Space:\t\t\t\t\t\t$20,000 (match by LA STAGE)\r\nEvent Hospitality\t\t\t\t\t$10,000 (match by LA STAGE)\r\nTravel/Conference\t\t\t\t\t$10,000 (match by LA STAGE)\r\nAdministration/Accounting:\t\t\t\t$5,000 (match by LA STAGE)\r\n\r\nTOTAL BUDGET:\t\t\t\t\t\t$217,000 ($117,000 provided as match)\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '0'
 maker_answers_list:
-  - name: Organization Name
-    label: ''
-    explanation: ''
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: Los Angeles
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
     answer: LA STAGE Alliance
-  - name: website
-    label: 'NULL'
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: 'http://lastagealliance.com/'
+  - name: org_twitter
+    label: Organization Twitter handle
     explanation: >-
-      Have a homepage or blog you'd like to link to? Put the URL here.
-      <br/>(Example: http://www.yoursite.com)
-    answer: www.LASTAGEAlliance.com
-  - name: Indicator
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: '@lastagealliance'
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: facebook.com/lastagealliance
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: ''
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "4200 Chevy Chase Drive \r\nLos Angeles, CA 90039"
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '510183348'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      LA STAGE empowers artists and engages audiences by building awareness,
+      appreciation and support for the performing arts in Greater LA. 
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Our Arts and Culture Infrastructure Initiative strengthens support for the
+      arts community with a focus on diversity, inclusion and access.
+  - name: describe_idea
     label: ''
     explanation: >-
-      Please select the one indicator that is most relevant to your project or
-      organization
-    answer: Arts & Cultural Vitality
-  - name: brief
-    label: ''
+      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
+      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
+      have such an awesome project! Please vote for @GoldhirshFdn here!'
+    answer: >-
+      Keep LA a world-class #arts mecca! Let's build arts infrastructure by
+      supporting #diversity, inclusion and access. #LetsCreateLA
+  - name: all_county
+    label: Yes (benefits all of LA County)
     explanation: ''
-    answer: "<p>Let’s Create LA … with a vibrant and thriving arts and culture infrastructure initiative. \r\n<p>Greater LA has a robust and active cultural scene, with more artists and arts organizations per capita than almost any other region in the country.  LA is also home to a powerful and productive economy that generates billions of dollars a year in a variety of industries, helping to make California the 8th-largest economy in the world. However, as the LA2050 Report indicates, financial support for the arts is weak compared to other major markets.  This deficiency is created by a low number of private culturally-focused foundations, low levels of corporate sponsorship, and most importantly, a gap that exists between business managers and executives who want to engage with the cultural life of LA.   In contrast to many other regions that have robust Board Placement programs, Arts & Business Councils, and United Arts Funds, LA has very limited programs to prepare for and match business/civic leaders for service on cultural arts non-profit boards.  LA STAGE Alliance hopes to address these concerns by becoming a robust cultural alliance, providing service to the entire arts, business, and philanthropy community. We have completed the initial research for the Arts & Culture Infrastructure Initiative. A LA2050 grant is needed as ‘seed money’ to allow us to fast track this initiative by piloting test cases, developing program/operations and fundraising plans and creating a network of invested stakeholders through a series of interviews, surveys, convenings and research reports. Our research indicates that the Initiative has the potential to be financially self-sustaining through both earned and contributed revenue after the two-year pilot phase. \r\n\r\n<p>The Initiative will include the following three components:\r\n<p>1.\tArts & Business Conduit:     \r\nWe want to serve as the conduit between the arts and business community. We will build relationships with the top 50 institutions with demonstrated arts board participation from our research.   We will interview key leadership and corporate social responsibility officers on their formal and informal board placement, leadership development and community outreach strategies. Our goal would be for the talented employees of top corporations in the region to be trained on arts board service and be placed with a cultural organization that both matches their interests and expands their understanding of the cultural infrastructure of Greater LA. \r\n<p>Engaging Los Angelinos with cultural board service by itself is not enough.  We will create ongoing Board Support Networks between board members at cultural organizations for mutual support, similar to support networks in other fields through surveys, communications, convenings and networking events.  Arts non-profits often run into challenges that their boards do not have knowledge in and may feel at a loss on how to effectively address.  By creating networks between board members - including mentor-mentee relationships and periodic gatherings of board members/board chairs, etc - major decision-making challenges can be addressed with the knowledge base and community support of leaders from across the region. We will consult with national thought leaders in leadership development and arts non-profit management to create the program design for the Arts & Business Conduit.\r\n\r\n<p>2. Region-wide Arts Fund:   \r\nWe will develop a plan to create a Region Wide Arts Fund through workplace giving, employee-driven corporate sponsorship support, individual donations from high-net-worth individuals and crowd sourced methodologies.   By engaging with the businesses of Greater LA through the Board Placement and Development process, we expect that many LA citizens will be identified who are interested in the cultural landscape of LA, but who are not in a place to engage immediately through Board service.   This component of the program will provide a pathway for those who want to support the LA cultural infrastructure without board service. The funds raised will be distributed through re-granting to support parts of LA’s cultural landscape that are often overlooked or underfunded. \r\n\r\n<p>3. Arts & Cultural Alliance Pilot\r\nWe will pilot the expansion of our programming, from serving the performing arts predominately to serving the entire arts and culture sector through the following channels: Current Program Outreach, Expansion of LASTAGETimes.com Arts Journalism coverage, and Research and Program Development. This will lead to a new mission, new name/branding and a more robust operation. We would conduct outreach to build awareness of these benefits to an expanded arts population while simultaneously working with the broader community to ascertain what community-specific services and programs are still needed.</p>"
-  - name: budget explanation
+    answer: '1'
+  - name: region_county
     label: ''
-    explanation: ''
-    answer: "<p>The LA2050 time frame and grant award amount allows the fast tracking of our existing Arts and Culture Infrastructure Initiative. The budget for the launch of this Initiative will be used to build a financially self-sustaining program.  In 2013, the focus of the Initiative’s expenses would be on hiring initial Project-based staff with expertise in setting up the initial operations, building awareness of the campaign, and have knowledge of the Los Angeles arts, business and philanthropic communities. Other line items are tied directly to the deliverables mentioned in our project description. As we are committed to this work, we have included our in-kind contributions toward the total project budget.</p>\r\n\r\n<p>BUDGET:</p>\r\n\r\n<p>- Project Management (June 2013 – Dec 2013): $30,000 ($50K add’l in-kind by LA STAGE)</p>\r\n\r\n<p>- Outreach coordinator (June 2013 – Dec 2013):  $20,000</p>\r\n\r\n<p>- Journalists/Editors:  $17,000</p>\r\n\r\n<p>- Event coordination (June 2013 – Dec 2013): $10,000</p>\r\n\r\n<p>- Communications:  $6,000</p>\r\n\r\n<p>- Event Facilitation/Graphic Recording:  $6,000</p>\r\n\r\n<p>- Research:  $3,000</p>\r\n\r\n<p>- Marketing/Promotional Materials (Printed and Mailed materials, in addition to online):  $3,000</p>\r\n\r\n<p>- Technology (computers, internet, phone, etc):  $3,000 ($7,000 add’l in-kind by LA STAGE)</p>\r\n\r\n<p>- Legal Consultation:  $2,000</p>\r\n\r\n<p>- Office Space:  $20,000 (in-kind by LA STAGE)</p>\r\n\r\n<p>- Event Hospitality:  $10,000 (in-kind by LA STAGE)</p>\r\n\r\n<p>- Travel/Conference:  $10,000 (in-kind by LA STAGE)</p>\r\n\r\n<p>- Administration/Accounting:\t$5,000 (in-kind by LA STAGE)</p>\r\n\r\n<p>TOTAL BUDGET:  $202,000 ($102,000 provided as in-kind)</p>"
-  - name: description
+    explanation: Yes (benefits a region of LA County)
+    answer: '0'
+  - name: population_county
     label: ''
+    explanation: Yes (benefits a population of LA County)
+    answer: '0'
+  - name: 'no'
+    label: 'No'
     explanation: ''
-    answer: "<p>What is particularly exciting about this project is that it will not only impact the Arts & Cultural Vitality indicator, but also the Social Connectedness and Income and Employment indicators.  The core of the Initiative is to build an engaged and active web of relationships between Angelinos and arts and culture non-profits through arts participation, board volunteerism (Social Connectedness) and philanthropy.  In turn, these engaged citizens will bring more resources– financial and knowledge based– to non-profit cultural organizations and thus improve the success of those organizations. Ultimately, better-supported arts organizations will help increase compensation and standards of living for artists and arts administrators, which is a significant challenge in the LA cultural landscape.</p>\r\n\r\n<p>LA STAGE Alliance’s major strengths are building relationships and aggregating resources. This project is a great example of the work we do.  We have two sectors (for-profit corporate businesses and non-profit cultural institutions) that could greatly benefit from working together on many levels.   The for-profit employees will have the opportunity to gain skills, network with each other, and become personally invested in the cultural organizations and artists in their communities in a way that is tailored to their individual interests and needs.  The artists and cultural organizations will make huge strides in organizational stability, sharper mission focus and strategic planning by engaging with a new set of talented and trained board members and will thrive with an infusion of new services and funding streams. This Initiative will build a growing set of passionate professionals on both the for- and non-profit sides, who are excited about LA’s cultural landscape.  They will be given the necessary tools to take our current cultural assets and turn them into a powerhouse that will propel Los Angeles into truly being the Cultural Capital of the United States.</p>"
-  - name: collaborators
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '0'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '0'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '0'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: All of LA County
+  - name: more_detail
     label: ''
     explanation: ''
     answer: >-
-      We’ll activate the 1000+ arts organizations we currently serve and develop
-      this initiative with our local, regional and national partners who work in
-      this connectivity-collaboration space, including the LA Chamber of
+      Our Arts & Culture Infrastructure Initiative will strengthen the region’s
+      environment for art making by developing strong, diverse board leadership
+      and cultivating new philanthropic support for non-profit arts
+      organizations, ensuring broader access to arts experiences. Our Arts and
+      Business conduit will galvanize business leaders in support of the arts
+      community through leadership and advocacy training, networking, and
+      mentorship. Our pilot region-wide Arts Fund will focus on the feasibility
+      and development of a re-granting program similar to a “United Way” for the
+      arts with the Alliance raising money in support of our region’s arts
+      organizations from new individual or institutional donors, creating new
+      money flowing into the sector.
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "1. Arts & Business Conduit/Network\r\nWe will serve as the conduit between the arts and business community. Referencing our studies of cultural board participation, we will approach and build relationships with the top fifty institutions with demonstrated arts board participation. We will interview key leadership and corporate social responsibility officers on their formal and informal board placement, leadership development and community outreach strategies. Our goal is for the talented employees of top industries in the region to be trained about arts board service and to be placed with a cultural organization that matches their interests and expands their understanding of the cultural infrastructure of Greater Los Angeles. Engaging Angelenos with cultural board service by itself is not enough.  We will create ongoing networks between board members at cultural organizations for mutual support (similar to support networks in other fields) through surveys, communications, convenings and networking events.  Arts non-profits often run into challenges that their boards do not have knowledge to combat, and many feel at a loss on how to effectively address this issue.  By creating networks between board members — including mentor-mentee relationships and periodic gatherings of board members/board chairs, etc. — major decision-making challenges can be addressed with the knowledge base and community support of leaders from across the region. Additionally, we will contract Arts for LA to provide their nationally recognized advocacy-training academy for our Board network to amplify the reach of nonprofit arts organizations throughout the region.\r\n\r\n2. Region-wide Arts Fund \r\nWe will develop a plan to create a region-wide Arts Fund through workplace giving, employee-driven corporate sponsorship support, individual donations from high-net-worth individuals and crowd sourced methodologies.  By engaging with the businesses of Greater LA through the Board Placement and Development process, we expect that many LA citizens will be identified who are interested in the cultural landscape of LA, but who are not in a place to engage immediately through Board service.  This component of the program will provide a pathway for those who want to support the LA cultural infrastructure without board service. The funds raised will be distributed through an inclusive re-granting to support parts of LA’s cultural landscape that are often overlooked or underfunded."
+  - name: impact_create
+    label: ''
+    explanation: ''
+    answer: "In the short term, our project enables stronger and more connected boards of directors of arts nonprofits in the region. The United Arts Fund approach will identify and distribute new grants dollars into the arts ecosystem, allowing for a deepening of support for current working artists.\r\nIn terms of LA in 2050:\r\n1) Multi-use community arts centers exist in every neighborhood with multi-lingual, around-the-clock programs composed of participatory, professionally produced, or presented productions\r\n2) The LA region enjoys the highest per capita investment in the arts from Government, Individuals AND the Corporate Sector.\r\n3) Business leaders from every sector are clamoring to join Arts and Culture Nonprofit Boards – Arts groups enjoy a waiting list for potential Board members.\r\n4) All artists are making a living wage.\r\n5) Artists of every discipline are in residence at the top 200 businesses in the region and every major municipal agency.\r\n6) Low income residents enjoy free access to and feel welcomed at any arts experience they choose at all arts organization in the region.\r\n\r\nThe Board and Giving networks will become a core group of LA’s ecology and civic engagement that engagement will become a given.  Once you reach a certain level of career progression in any field in Los Angeles, it will be socially presumed that you join your peers in Board service within LA’s cultural nonprofit sector.\r\n\r\nAfter 30+ years of these mutually beneficial relationships taking root, it will be hard to see where ‘for profit’ businesses end and ‘nonprofit’ organizations begin. You will find more for- and non-profit businesses fusing into cooperative ventures beyond sharing board members.  For example, it will become a standard practice for arts experiences to be incorporated into the business activities of a store or restaurant.\r\n\r\nParticipation in our Regional Arts Fund will be so commonplace that it will feel like a tithing at church to all those above the poverty line in the region.\r\n\r\nLos Angeles will be known as the Cultural Capital of America — the ‘Creative Powerhouse’- where a vast economy is driven by creative activities at every level; where business acumen is tightly woven with art to reach higher levels of community impact and artistry.  New generations of cultural innovation will springboard from LA.  The best and brightest minds of Los Angeles will collaborate effortlessly, propel our region forward, and help the LA arts sector grow economically and culturally."
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "Our project benefits all of Los Angeles by enabling a stronger, more robust arts and culture sector, contributing to the quality of life, economic vitality and social connectedness of the region; making LA the best play to CREATE, LEARN, PLAY and CONNECT. Specifically, our project will directly improve the lives of artists, volunteers and arts administrators by fortifying their foundation of support within the communities they serve.\r\n\r\nWe seek to ensure a robust and diverse constituent base with programs and services that meet their needs and allow them to further connect with their audiences. We see a gap between those performing arts organizations who are reaching underserved communities and/or communities of color and our current roster of programming. Our goal is to refocus our efforts to ensure greater access to the arts while enabling a more diverse and inclusive group of organizations benefitting from our services. To accomplish this we will leverage our Arts Census, which contains arts participation information on nearly four million unique households provided by nearly 400 local arts organizations.\r\n\r\nThis work will leverage our NEA and LA County Arts Commission grants focusing on training and networking the boards of our local companies around issues of diversity, inclusion and access while strengthening our tech infrastructure to support increased access to the arts. The technology focus will look at modeling the access initiative of Theater Development Fund as a model to extend our discount ticket program to underserved audiences throughout the region. The Inclusion aspect will look at services to the field provided by Culture Works in Philadelphia as a model for programmatic efficiencies and sustainability. We anticipate that this committee will also provide a blueprint with best practices and recommendations to the community to address issues of Diversity among boards, administration, artists and audiences throughout the region."
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: >-
+      As an alliance, we exist through partnership and collaboration.  We’ll
+      activate the 1000+ arts organizations we currently serve and develop this
+      initiative with our local, regional and national partner organizations who
+      work in this connectivity-collaboration space, including the LA Chamber of
       Commerce, Arts for LA, municipal cultural agencies, arts funders, service
       providers and others.  We will also leverage individuals serving on
-      cultural boards, networks of philanthropists and business leaders who
-      support the cultural life of LA. We have strong relationships with
-      national partners who have encouraged us to pursue this Initiative
+      cultural boards and the networks of philanthropists and business leaders
+      who support the cultural life of Los Angeles. We have strong relationships
+      with national partners who have encouraged us to pursue this Initiative
       including both Americans for the Arts (their network of Arts & Business
       Councils, Business Committees for the Arts and United Arts Funds) and
-      National Arts Strategies.
-  - name: success
+      National Arts Strategies, which develops non-profit arts leaders. As
+      previously mentioned, we have confirmed with the staff of Arts for LA
+      that, if funded, we would contract with them to provide advocacy training
+      over a six-month period with our Board Network.
+  - name: metrics_create_employment
+    label: Employment in creative industries
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_arts
+    label: Arts establishments per capita
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_manufacturing
+    label: Concentration of manufacturing activity in LA
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_researchgrant
+    label: Federal research grant funding
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_patents
+    label: Patents per capita
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_jbs
+    label: Jobs per capita
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_minoritywomenowned
+    label: Minority- and women-owned firms
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_gini
+    label: Gini coefficient
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_startups
+    label: Number of high-growth startups
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_venturecapital
+    label: Venture capital investment
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_influencers
+    label: >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_recruitingrates
+    label: >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_graduates
+    label: >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_unemployment
+    label: >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_other
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: >-
+      Our Arts Census tracks the arts participation behavior of over 4 million
+      unique households. We can track, over time, an increase in participation
+      and impact by zip code and neighborhood. We anticipate, for example, that
+      the Arts Census might highlight typically “underserved” areas and
+      populations, therefore enabling the Board network to better assess where
+      arts programming could be delivered. We acknowledge a field-wide shift
+      toward questions around definitions of arts engagement and suspect that
+      our core constituents, those who produce and present performing arts
+      events, will broaden their focus to create active arts experiences with
+      their stakeholders. The Arts Census tracks transactional data, not
+      “survey” responses and therefore will provide a valuable tool in tracking
+      increasing participation and engagement in the sector.
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: evaluate
     label: ''
     explanation: ''
-    answer: "<p>Evaluation will include tracking the following on an annual basis, with the first data being derived from a comparison of the pre- and post- LA2050 activity period (June 2013 and December 2013).</p>\r\n\r\n<p>1. How many individuals, arts organizations, corporations and philanthropic entities are engaged with the Initiative?</p>\r\n\r\n<p>2. Have we increased the number of diverse, non-performing arts entities participating in current LA STAGE Alliance programs.</p>\r\n\r\n<p>3. Have we created Program/Operations/Fund Development Plans for all three aspects of the initiative.</p>\r\n\r\n<p>4. Have Advisory Councils and Task Force/Working Groups been established with work plans and timelines?</p>\r\n\r\n<p>5. What changes in satisfaction occur for non-profit Executive Directors regarding the participation and support of the Board?</p>\r\n\r\n<p>6. What changes in satisfaction occurred for current Board members regarding the participation and support of other Board members?</p>\r\n\r\n<p>7. How many Board members of non-profits met new colleagues (on their Board or on other Boards) through the Initiative?</p>\r\n\r\n<p>8. How much funding for cultural organizations was raised and distributed through the regional Arts fund program? How many individuals or organizations participated?</p>\r\n\r\n<p>9. What changes in compensation for artists and arts administrators have occurred since the beginning of the Initiative, both with-in individual organizations and across all participating cultural organizations?</p>"
-  - name: description1
+    answer: "Evaluation will include tracking the following on an annual basis, with the first data being derived from a comparison of the pre- and post- LA2050 activity period.\r\n-\tHow many individuals, arts organizations, corporations and philanthropic entities are engaged with the Initiative?\r\n-\tHave we increased the number of diverse, non-performing arts entities participating in current LA STAGE Alliance programs?\r\n-\tHave we created Program/Operations/Fund Development Plans for all three aspects of the initiative?\r\n-\tHave Advisory Councils and Task Force/Working Groups been established with work plans and timelines?\r\n-\tWhat changes in satisfaction occur for non-profit Executive Directors regarding the participation and support of the Board?\r\n-\tWhat changes in satisfaction occurred for current Board members regarding the participation and support of other Board members?\r\n-\tHow many Board members of nonprofits met new colleagues (on their Board or on other Boards) through the Initiative?\r\n-\tHow much funding for cultural organizations was raised and distributed through the regional Arts fund program? How many individuals or organizations participated?\r\n-\tWhat changes in compensation for artists and arts administrators have occurred since the beginning of the Initiative, both with-in individual organizations and across all participating cultural organizations?\r\n"
+  - name: two_lessons
     label: ''
     explanation: ''
-    answer: "<p>LA STAGE Alliance has provided dozens of services and short-to-long term initiatives over our 30 year history.  A few highlights include:</p>\r\n\r\n<p>1. The creation of the LA STAGE ARTS CENSUS, in partnership with TRG Arts, that is now the largest and most robust collective dataset of cultural patrons in LA’s history with over four million unique households currently included.</p>\r\n\r\nhttp://www.laimyours.com/40804/what-is-up-with-la2050/2.  The creation of the LA PatronManager CRM initiative, providing gold-standard corporate data technology services to arts organizations at zero cost, through a multi-pronged partnership with a for-profit technology firm (Patron Technology), a corporate foundation (Salesforce Foundation), private foundations (the James Irvine and Doris Duke Charitable Foundations), over 100 non-profit arts organizations, and a non-profit service organization (LA STAGE Alliance).</p>\r\n\r\n<p>3.  The creation of LA STAGE Magazine in 2001, which moved online to become the award-winning LASTAGETimes.com in 2009.  It is now guided by Editor-in-Chief Deborah Behrens and is the largest professional journalism outlet in Los Angeles dedicated specifically to in-depth, quality coverage of Los Angeles performing arts.</p>\r\n\r\n<p>4.  The founding of the LA STAGE Warehouse Co-op, a 10,000 square foot shared materials facility for the LA theater community, saving LA theaters thousands of dollars a year and preventing the loss of tons of reusable materials (sets, props, costumes, equipment) that would otherwise be sent to landfills.</p>\r\n\r\n<p>5.  The creation of the LA STAGE Ovation Awards, now in their 24th year, the highest-profile awards for excellence in theater on the West Coast.  The Ovation Awards consider over 400 productions each year; celebrate over 150 nominees and 35 Ovation recipients at an annual black-tie ceremony, which is attended by 1300 leaders of the LA cultural community.</p>\r\n\r\n<p>6.  Hosting the 2011 Theatre Communications Group Conference in Los Angeles – the first time it had been to LA in its 50 year history – bringing over 1,000 theater professionals from around the country to Downtown LA, in conjunction with the first ever RADAR LA international theater festival.</p>"
-  - name: description3
+    answer: "We know from direct experience and conversation with arts non-profit board members that there exists little to no training for joining arts boards and no formal network for board members to exchange ideas, learn from peers or mentor newcomers. We have researched existing infrastructure and similar programs throughout the country and will bring industry best practices to our initiative.\r\n\r\nWe understand from talking to the philanthropic leaders in our sector that there is no aggregated effort to bring new money into the field. Many initiatives have been born out of funders coming together around a specific project or initiative, but no combined efforts to raise general operating support for the entire field exist today. We understand from the leaders at Americans for the Arts, which oversee the Arts & Business Councils and Business Committees for the Arts around the country that new hybrids of support are forming around the idea of the arts improving not only quality of life in their regions, but also creating economic impact and other measurable outcomes. We will leverage the great work of these national groups to ensure that we build a strong case for support and flatten our learning curve toward success."
+  - name: achievable_goal
     label: ''
     explanation: ''
-    answer: "<p>Due to the lack of resources in the arts and culture sector in Los Angeles, LA STAGE Alliance makes a concerted effort to avoid duplicating efforts wherever possible.  If there is another organization or another business that is providing a service similar to one we provide or which we are considering, then that greatly reduces our interest in providing that service.  Instead, we would prefer to divert those resources elsewhere to address another need of the sector that is currently not being fulfilled.</p>\r\n\r\n<p>Due to this strategic philosophy, we work to transform ‘competitors’ into ‘partners.’  For example, when Goldstar Tickets entered the LA market, they took a large percentage of the online discount ticket market that we were currently participating in with our program, LASTAGETix.  Despite that ‘competition’ and the corresponding loss of revenue to LA STAGE, we chose to embrace Goldstar as a partner, adjusting LASTAGETix to become a niche ticket outlet for theater specific events, while Goldstar grew into providing a more  diverse host of entertainment options.  Goldstar also became a sponsor of LA STAGE and we have a mutually supportive relationship with them to this day.</p>\r\n\r\n<p>We have similar relationships with other entities that operate in the same area that we do, from the Center for Cultural Innovation, the LA County Arts Commission, Los Angeles Times, Footlights Publishing and Bitter-Lemons.com.  With limited available resources and many challenges to address, there is plenty of room for anyone who wants to help forward LA’s cultural landscape and support the profusion of artists and arts organizations.  Therefore, our goal is to interface in the most mutually supportive manner with these other organizations.</p>"
-  - name: vision
+    answer: >-
+      As an Alliance, one of our strengths and core competencies is mobilizing
+      our network around new ideas and initiatives. Our board and staff stand by
+      the ready to launch this initiative. Once funded, we will activate the
+      resources necessary to convene the field, hire the appropriate personnel
+      and deploy our initiative. 
+  - name: major_challenges
     label: ''
     explanation: ''
-    answer: "<p>Our CEO, Terence McFarland presented the following six components of a vibrant and thriving arts ecology in 2050 at the community meeting on the Arts & Culture Indicator:</p>\r\n\r\n<p>1. Multi-use community arts centers exist in every neighborhood with multi-lingual around the clock program composed of participatory, professionally produced or presented and commercial or purchasable product.</p>\r\n\r\n<p>2. The LA region enjoys the highest per capita investment in the arts from Government, Individuals AND the Corporate Sector.</p>\r\n\r\n<p>3. Business Leaders from every sector are clamoring to join Arts and Culture Non Profit Boards – Arts groups enjoy a waiting list for potential Board members.</p>\r\n\r\n<p>4. All artists are making a living wage.</p>\r\n\r\n<p>5. Artists of every discipline are in residence at the top 200 businesses in the region and every major municipal agency.</p>\r\n\r\n<p>6. Low income residents enjoy free access to and feel welcomed at any arts experience they choose at all arts organization in the region.</p>\r\n\r\n<p>The Board and Giving networks will become a core group of LA’s ecology and civic engagement that participation in them will be a given.  Once you reach a certain level of career progression in any field in Los Angeles, it will be socially presumed that you join your peers in Board service within LA’s cultural non-profit sector.</p>\r\n\r\n<p>After 30+ years of these mutually beneficial relationships taking root, it will be hard to see where ‘for profit’ businesses end and ‘non-profit’ organizations begin.   You will find more for- and non-profit businesses fusing into cooperative ventures beyond sharing board members.  For example, it will become a standard practice for art experiences to be incorporated into the business activities of a store or restaurant.</p>\r\n\r\n<p>Participation in our Regional Arts Fund will be so commonplace that it will feel like a tithing at church to all those above the poverty line in the region.</p>\r\n\r\n<p>Los Angeles will be known as the Cultural Capital of America - the ‘Creative Powerhouse’- where a vast economy is driven by creative activities at every level; where business acumen is tightly woven with art to reach higher levels of community impact and artistry.  New generations of cultural innovation will springboard from LA.   The best and brightest minds of Los Angeles will collaborate effortlessly, propel our region forward, and help the LA arts sector grow economically and culturally to inspire all of America and the world.</p>"
-  - name: EIN
-    label: EIN
+    answer: >-
+      One barrier will be overcoming the geographic challenge of networking and
+      convening a broad spectrum of stakeholders across the region. As an
+      Alliance, one of our strongest mechanisms of service delivery is our
+      ability to convene, but we know from experience that meeting times and
+      meeting location contribute significantly to turnout. As such, we will
+      need to be open to a longer lead time and having multiple meetings in a
+      variety of locations to ensure the widest possible participation. 
+      Additionally, our work on the diversity, inclusion and access aspect of
+      the initiative might lead to charged conversations. We know from similar
+      conversations in the field that these are hot button topics and we will
+      work closely with consultants and facilitators used to working in this
+      “charged” space to ensure a fair and equitable facilitation of dialogue
+      around our program development.
+  - name: competition
+    label: ''
     explanation: ''
-    answer: 51-0183348
-  - name: Tax Status
-    label: Are you a for profit organization or non-profit organization?
+    answer: "LA STAGE Alliance recognizes a shift in the arts service landscape as well as a growing desire for performing arts organizations to recognize the evolving regional demographic landscape and we seek to redefine our role in this environment and context. Between the Theatrical Producers League of LA, and other ad hoc groups, LA Theater Network and Latino Theater Alliance and the merging of Pentacle and Dance Resource Center (in addition to the numerous panels on the subject of “diversity” on our stages and amidst our directors) the time is apt for a clarification and solidification of our role in the community. \r\n\r\nDue to the lack of resources in the arts and culture sector in Los Angeles, LA STAGE Alliance makes a concerted effort to avoid duplicating efforts wherever possible.  If there is another organization or another business that is providing a service similar to one we provide or which we are considering, then that greatly reduces our interest in providing that service.  Instead, we would prefer to divert those resources elsewhere to address another need of the sector that is currently not being fulfilled.\r\n\r\nDue to this strategic philosophy, we work to transform ‘competitors’ into ‘partners.’  For example, when Goldstar Tickets entered the LA market, they took a large percentage of the online discount ticket market that we were currently participating in with our program, LA STAGE Tix.  Despite that ‘competition’ and the corresponding loss of revenue to LA STAGE, we chose to embrace Goldstar as a partner, adjusting LA STAGE Tix to become a niche ticket outlet for theater specific events, while Goldstar grew into providing a more diverse host of entertainment options.  Goldstar also became a sponsor of LA STAGE and we have a mutually supportive relationship with them to this day.\r\n\r\nWe have similar relationships with other entities that operate in the same area that we do, from the Center for Cultural Innovation, the LA County Arts Commission, Los Angeles Times, Footlights Publishing and Bitter-Lemons.com.  With limited available resources and many challenges to address, there is plenty of room for anyone who wants to help forward LA’s cultural landscape and support the profusion of artists and arts organizations.  Therefore, our goal is to interface in the most mutually supportive manner with these other organizations.\r\n"
+  - name: cost
+    label: ''
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "This project will cost $217,000.\r\n\r\nThe additional costs will be covered by grants from our ongoing supporters or any of our numerous earned income generating programs.\r\n\r\nBecause this work is a natural extension of our ongoing programming, we can easily include this work as an outcome for any subsequent general operating support grants.\r\n"
+  - name: budget
+    label: ''
     explanation: ''
-    answer: ' Non-profit organization'
-  - name: about_you
-    label: 'City, State'
-    explanation: 'NULL'
-    answer: 'Los Angeles, CA'
-  - name: Does your project impact Los Angeles County?
-    label: Does your project impact Los Angeles County?
-    explanation: Does your project impact Los Angeles County?
-    answer: 'yes'
+    answer: "BUDGET:\r\nProject Management \t\t\t\t\t$50,000 ($50K match by LA STAGE)\r\nAdvocacy Training (contracted to Arts for LA)\t\t$25,000\r\nOutreach coordinator \t\t\t\t\t$10,000\r\nEvent coordination:\t\t\t\t\t$10,000\r\nCommunications:\t\t\t\t\t$5,000\r\nEvent Facilitation/Graphic Recording\t\t\t$5,000 (match by LA STAGE)\r\nMarketing/Promotional Materials \r\n(Printed and Mailed materials, in addition to online):\t$3,000 (match by LA STAGE)\r\nTechnology (computers, internet, phone, etc):\t\t$12,000 (match by LA STAGE)\r\nLegal Consultation:\t\t\t\t\t$2,000 (match by LA STAGE)\r\nOffice Space:\t\t\t\t\t\t$20,000 (match by LA STAGE)\r\nEvent Hospitality\t\t\t\t\t$10,000 (match by LA STAGE)\r\nTravel/Conference\t\t\t\t\t$10,000 (match by LA STAGE)\r\nAdministration/Accounting:\t\t\t\t$5,000 (match by LA STAGE)\r\n\r\nTOTAL BUDGET:\t\t\t\t\t\t$217,000 ($117,000 provided as match)\r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: banana
 published: true
 
