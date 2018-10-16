@@ -1222,8 +1222,8 @@ function createLookup(year) {
 
 }
 
-// createLookup(2016)
-// createLookup(2018)
+createLookup(2016)
+createLookup(2018)
 
 // console.log("********/*")
 // console.dir(markdownProjectsLookup["2018"]["play"]["Activate South Bay LA Trails!"])
@@ -1232,8 +1232,8 @@ function createLookup(year) {
 
 
 
-// generateAllCollections('projects-2018.csv', 2018)
-// generateAllCollections('projects-2016.csv', 2016)
+generateAllCollections('projects-2018.csv', 2018)
+generateAllCollections('projects-2016.csv', 2016)
 generateAllCollections('projects-2015.csv', 2015)
 generateAllCollections('projects-2014.csv', 2014)
 generateAllCollections('projects-2013.csv', 2013)
