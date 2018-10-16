@@ -8,7 +8,7 @@ category: live
 organization_id: '2018133'
 year_submitted: 2014
 project_image: >-
-https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43636083_10156201918159735_997760425149857792_n.jpg?_nc_cat=105&oh=97c670e26a9a708777352a654c8bd0b9&oe=5C486122
+'https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43636083_10156201918159735_997760425149857792_n.jpg?_nc_cat=105&oh=97c670e26a9a708777352a654c8bd0b9&oe=5C486122'
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already developed an initial prototype, as can be seen in the
