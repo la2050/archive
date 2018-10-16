@@ -18,7 +18,7 @@ make_la_great: "Entrepreneurship is vital to a thriving Los Angeles, but access 
 category: create
 organization_id: '2018093'
 project_image: >-
-https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/525878_10150740282514006_2044080207_n.jpg?_nc_cat=104&oh=aee948d6fc763d242c994d733f3f6001&oe=5C4D711A
+'https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/525878_10150740282514006_2044080207_n.jpg?_nc_cat=104&oh=aee948d6fc763d242c994d733f3f6001&oe=5C4D711A'
 project_video: ''
 project_id_3: '8102093'
 year_submitted: 2018
