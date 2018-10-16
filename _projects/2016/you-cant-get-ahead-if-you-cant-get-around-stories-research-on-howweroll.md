@@ -13,8 +13,8 @@ organization_activity: >-
   livable communities through better transportation policy and funding
   decisions.
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8642914065741-team90.jpg
-project_video: 'https://www.youtube.com/embed/gLaKB_W36pE?rel=0&amp;showinfo=0'
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/33962704_1968321119845978_1971477352793767936_n.png?_nc_cat=104&oh=2e94ad0162e05bb4d9af5a060a926c41&oe=5C4A2292
+project_video: ''
 project_summary: >-
   Access to greater opportunity depends on how you get there. Our team will
   document and amplify stories of how people get around — and leverage the
