@@ -453,7 +453,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   women, and as such, we envision that by 2050 our model and best practices will
   be leveraged by other communities across the nation.
 year_submitted: 2013
-project_video: 'https://www.youtube.com/embed/2cxPVWr-5DY'
+project_video: ''
 youtube_video_identifier: 2cxPVWr-5DY
 maker_answers:
   Organization Name: Downtown Women’s Center
