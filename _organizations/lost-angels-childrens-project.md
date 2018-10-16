@@ -11,7 +11,7 @@ tags_indicators:
   - STEM & Digital literacy
   - Teaching & mentorship
   - Education & youth
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473384907'
 organization_website:
   - www.lostangelscp.org
 twitter: N/A
