@@ -14,9 +14,9 @@ organization_activity: >-
   Friends of the Family works to lift children and their families out of
   poverty, protect them from abuse and neglect, and ensure their access to
   education, healthcare, and a resource-rich community.
-project_image: >-
+project_image: >- 'https://scontent-lax3-1.cdninstagram.com/vp/8eeee6963e780259dfd6477d6f2e86b6/5C55FCEF/t51.2885-15/e35/21984637_244426656081944_7828350230864068608_n.jpg'
   
-  project_video: 'https://www.youtube.com/watch?time_continue=6&v=2PabPmta-1g'
+  project_video: ''
 project_summary: >-
   The Man2Man Project will connect multiple generations of men and boys for the
   dual purpose of helping young dads to become great fathers and preventing
