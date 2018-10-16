@@ -1,0 +1,42 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+{% comment %}
+######### Pages #########
+{% endcomment %}
+
+  <url>
+    <loc>https://archive.la2050.org/</loc>
+  </url>
+  <url>
+    <loc>https://archive.la2050.org/about/</loc>
+  </url>
+
+{% comment %}
+######### Organizations #########
+{% endcomment %}
+
+{% assign data_collection = site.collections | where: "label", "organizations" | first %}
+{% assign data_list = data_collection.docs %}
+{% for organization in data_list %}
+  <url>
+    <loc>https://archive.la2050.org{{ organization.url }}</loc>
+  </url>
+{% endfor %}
+
+{% comment %}
+######### Projects #########
+{% endcomment %}
+
+{% assign data_collection = site.collections | where: "label", "projects" | first %}
+{% assign data_list = data_collection.docs %}
+{% for project in data_list %}
+  <url>
+    <loc>https://archive.la2050.org{{ project.url }}</loc>
+  </url>
+{% endfor %}
+
+</urlset>

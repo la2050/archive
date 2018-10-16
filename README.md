@@ -1,7 +1,7 @@
 
-# My LA2050 Ideas Library
+# My LA2050 Ideas Archive
 
-This is a website for the My LA2050 ideas library–a searchable database of organizations and projects from the grants and activation challenges from 2013-2018.
+This is a website for the My LA2050 ideas archive–a searchable database of organizations and projects from the grants and activation challenges from 2013-2018.
 
 https://archive.la2050.org
 
@@ -34,5 +34,8 @@ jekyll build && jekyll serve --host=0.0.0.0 --incremental --skip-initial-build
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Liquid](https://shopify.github.io/liquid/)
 * [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
+* [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+* [YAML Checker](http://www.yamllint.com)
 * [Jekyll](https://jekyllrb.com/docs/home/)
+* [GitHub Pages](https://pages.github.com)
 
