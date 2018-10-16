@@ -19,7 +19,7 @@ facebook: /LosAngelesDodgersFoundation/
 ein: '954623022'
 zip: '92618'
 project_image: >-
-'https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/20228658_560401384350239_4095048447405825757_n.jpg?_nc_cat=102&oh=48d2c1ac82c0d55ed973fe78d67f9052&oe=5C5A3719'
+'https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg'
 project_video: ''
 project_ids:
   - '8102074'
