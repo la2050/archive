@@ -23,7 +23,8 @@ zip: '92612'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 project_video: 'https://youtu.be/msrLyYttTv8'
-project_ids: []
+project_ids:
+  - '8102125'
 project_titles:
   - >-
     Create Above the Radar Program – Think Tank Gallery Spotlight on Creative
@@ -40,5 +41,6 @@ aggregated:
   project_ids:
     - '5102319'
     - '6102263'
+    - '8102125'
 
 ---
