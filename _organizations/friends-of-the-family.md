@@ -10,7 +10,7 @@ org_summary: >-
 tags_indicators:
   - Early childhood
   - Education & youth
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952765505'
 organization_website:
   - www.fofca.org
 twitter: fofca_org
