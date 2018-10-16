@@ -15,7 +15,7 @@ organization_activity: >-
   sustainability, and runs FLoW: a program to help young innovators start
   cleantech companies and learn how to become entrepreneurs.
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4863691455741-team91.jpg
+https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/11214192_935905586488107_4722615873049382596_n.jpg?_nc_cat=110&oh=02f45f49f54442c56940bfce84664260&oe=5C473C10
 project_video: ''
 project_summary: >-
   Cleantech 2 Edtech will speed energy saving innovations into LA schools,
