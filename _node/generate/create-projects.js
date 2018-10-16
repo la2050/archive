@@ -77,7 +77,7 @@ function stringToURI(str) {
 function getStringForComparison(string) {
   string = fixDataCharactersInString(string)
   string = string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
-  string = (stringToURI(string).replace(/\-/, ""))
+  string = (stringToURI(string).replace(/\-/g, ""))
   // if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
   //   console.log("BEFORE")
   //   console.log(string)
