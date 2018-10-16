@@ -10,12 +10,12 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452823612'
 organization_website:
   - www.cwclosangeles.org
 twitter: cwc_losangeles
-instagram: cwclosangeles
-facebook: cwc_losangeles
+instagram: 
+facebook: https://www.facebook.com/CitizensoftheWorldCharterSchools/
 ein: ''
 zip: ''
 project_image: 'http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg'
