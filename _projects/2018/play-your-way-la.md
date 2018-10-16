@@ -26,7 +26,7 @@ make_la_great: "If you’re one of the 51% of Angelenos living more than a half 
 category: play
 organization_id: '2018058'
 project_image: >-
-  https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
+https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/17361783_1567373769969662_3947225652620770936_n.jpg?_nc_cat=104&oh=ad3d2573b710ef2dbb87924b3fae33c2&oe=5C50860F
 project_video: 'https://www.youtube.com/watch?v=50O1szspYcg'
 project_id_3: '8102058'
 year_submitted: 2018
