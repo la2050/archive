@@ -14,10 +14,10 @@ tags_indicators:
   - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
-  - www.investinyouthco.com
-twitter: 'https://twitter.com/Investinyouthco'
-instagram: 'https://www.instagram.com/investinyouth_/'
-facebook: 'https://www.facebook.com/InvestinYouthCo/'
+  - http://www.bigcitizenhub.org/
+twitter: 'https://twitter.com/BigCitizenHUB'
+instagram: 'https://www.instagram.com/BigCitizenHub/'
+facebook: 'https://www.facebook.com/TheBigCitizenHub/'
 ein: '954302067'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg'

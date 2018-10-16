@@ -10,17 +10,17 @@ org_summary: >-
 tags_indicators:
   - Early childhood
   - Education & youth
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952765505'
 organization_website:
   - www.fofca.org
-twitter: fofca_org
-instagram: fofca
-facebook: friendsofthefamilyca
+twitter: 
+instagram: https://www.instagram.com/friendsofthefamilyca/
+facebook: https://www.facebook.com/fofca/
 ein: ''
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1711077255741-team90.JPG
-project_video: 'https://www.youtube.com/embed/DA24svvRWgw?rel=0&amp;showinfo=0'
+project_video: 'https://www.youtube.com/watch?time_continue=6&v=2PabPmta-1g'
 project_ids:
   - '6102075'
 project_titles:

@@ -12,8 +12,8 @@ tags_indicators:
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452853870'
 organization_website:
   - www.la2015.org
-twitter: 'https://twitter.com/LosAngeles2015'
-instagram: 'http://instagram.com/la2015worldgames'
+twitter: 'https://twitter.com/LA2015'
+instagram: 'https://www.instagram.com/la2015/'
 facebook: www.facebook.com/LA2015
 ein: '452853870'
 zip: '90071'
