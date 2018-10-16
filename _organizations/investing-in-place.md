@@ -12,7 +12,7 @@ tags_indicators:
   - Voting & civic engagement
   - Mobility
   - Social connectedness
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - www.investinginplace.org
 twitter: '@investinplace'
