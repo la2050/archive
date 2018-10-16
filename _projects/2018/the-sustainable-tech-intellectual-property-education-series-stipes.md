@@ -38,7 +38,7 @@ make_la_great: "STIPES is a partnership between the Downtown Long Beach Alliance
 category: create
 organization_id: '2018071'
 project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
+https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/29597781_1640577459313260_9189418618484938248_n.jpg?_nc_cat=111&oh=8bb5b34757348aed27d93521672e96e2&oe=5C4C9C56
 project_video: ''
 project_id_3: '8102071'
 year_submitted: 2018
