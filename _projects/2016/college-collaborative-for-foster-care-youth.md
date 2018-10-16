@@ -12,8 +12,8 @@ organization_activity: >-
   CASA recruits and trains volunteers to advocate for abused and neglected
   children in Los Angeles County's foster care system.
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7481336294741-team91.jpg
-project_video: 'https://www.youtube.com/embed/3qC3k8bY6A0?rel=0&amp;showinfo=0'
+https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/999729_10150336341389943_1643926386_n.jpg?_nc_cat=106&oh=b55868733d503ff1d9aa20ba14119629&oe=5C5D0F60
+project_video: ''
 project_summary: >-
   Help CASA build an organizational collaborative to help more youth in foster
   care attend college.
