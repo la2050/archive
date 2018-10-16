@@ -22,7 +22,7 @@ make_la_great: "In the state of California, individuals with a criminal record h
 category: connect
 organization_id: '2018053'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/30442701_10156124195623467_9212631848360869888_n.jpg?_nc_cat=100&oh=ff928fcb29d6c55386808d55da346783&oe=5C4A0D01
 project_video: ''
 project_id_3: '8102053'
 year_submitted: 2018
