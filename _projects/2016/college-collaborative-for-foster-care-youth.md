@@ -11,8 +11,7 @@ organization_name_2: CASA of Los Angeles
 organization_activity: >-
   CASA recruits and trains volunteers to advocate for abused and neglected
   children in Los Angeles County's foster care system.
-project_image: >-
-https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/999729_10150336341389943_1643926386_n.jpg?_nc_cat=106&oh=b55868733d503ff1d9aa20ba14119629&oe=5C5D0F60
+project_image: https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/999729_10150336341389943_1643926386_n.jpg?_nc_cat=106&oh=b55868733d503ff1d9aa20ba14119629&oe=5C5D0F60
 project_video: ''
 project_summary: >-
   Help CASA build an organizational collaborative to help more youth in foster
