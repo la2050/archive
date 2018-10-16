@@ -5,8 +5,13 @@ organization_id: '2015158'
 areas_impacted: ''
 partners: 'ITEP: 743161465, POLAHS: 161649277'
 project_summary: >-
-  PortTech’s entrepreneur program provides comprehensive outreach, education and
-  mentoring services to promising clean tech startups.
+  The PortTech Pitch program provides comprehensive outreach, education and
+  mentoring services to promising tech startups focused on solving global
+  challenges. Through dedicated one-on-one mentoring, we begin the process of
+  transforming these startup teams into thriving businesses. At the Pitch
+  Competition and PortTechEXPO, we provide an opportunity for entrepreneurs and
+  investors, industry and civic leaders, students and researchers to explore new
+  technologies and connect with innovators.
 Please specify below: Harbor area communities surrounding the Ports of Los Angeles and Long Beach
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -25,439 +30,526 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
-  city_state: 'San Pedro, CA'
-  org_name: PortTech Los Angeles
-  org_website: www.PortTechLA.org
-  org_twitter: www.twitter.com/PortTechLA
-  org_facebook: www.facebook.com/PortTechLosAngeles
-  org_instagram: ''
-  org_mailingaddress: '302 W. 5th Street, Suite 200, San Pedro, CA 90731'
-  org_ein: '800363808'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: >-
+  How did you hear about this challenge?: >-
+    We learned of the 2015 submittal dates through the LA2050 e-newsletter.
+    PortTech submitted a grant application in the 2014 LA2050 Challenge.
+  'City, State': 'San Pedro, CA'
+  Organization(s) name(s): >-
+    PortTech Los Angeles, International Trade Education Programs (ITEP), Port of
+    Los Angeles High School (POLAHS)
+  Organization(s) mailing address(es): "PortTech Los Angeles\r\n302 W. 5th Street, Suite 200, San Pedro, CA 90731\r\n\r\nInternational Trade Education Programs (ITEP)\r\n2417 E. Carson Street, Suite 200, Carson, CA 90810\r\n\r\nPort of Los Angeles High School (POLAHS)\r\n250 W. 5th Street, San Pedro, CA 90731"
+  Organization(s) website(s): www.porttechla.org
+  Organization(s) twitter handle(s): www.twitter.com/PortTechLA www.twitter.com/ITEPinc www.twitter.com/POLAHS
+  Organization(s) facebook handle(s): www.facebook.com/PortTechLosAngeles www.facebook.com/ITEPInc?ref=ts
+  Organization(s) instagram handle(s): ''
+  Please share the direct link for voters to sign up for your newsletter(s): >-
+    PortTech:
+    http://visitor.r20.constantcontact.com/d.jsp?llr=8e6cl9dab&p=oi&m=1103616898203&sit=7czkyakfb&f=a304daf5-7a58-489e-9f1f-dae9fb234f90 
+    ITEP: http://www.formstack.com/forms/?1547268-nGs6aFFkvp  POLAHS:
+    https://app.e2ma.net/app2/audience/signup/175
+  EIN (for each organization): 'PortTech: 80-0363808, ITEP: 74-3161465, POLAHS: 16-1649277'
+  'Describe your organization(s): Non-Profit': '1'
+  'Describe your organization(s): For-profit': '0'
+  'Describe your organization(s): Government': '0'
+  'Describe your organization(s): Other': '0'
+  'Describe your organization(s): Specifics': ''
+  'In one sentence, please describe what your organization does': >-
     PortTech connects entrepreneurs, industry and community to advance
     innovation, solve port/global environmental challenges, and create jobs.
-  one_sentence_project: >-
-    PortTech’s entrepreneur program provides comprehensive outreach, education
-    and mentoring services to promising clean tech startups.
-  describe_idea: >-
-    Our @LA2050 Vision: @PortTechLA transforms #innovators --> #entrepreneurs
-    --> leaders in #cleantech and #advancedmanufacturing.
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '0'
-  area_southLA: '0'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '1'
-  area_other_blank: Harbor area communities surrounding the Ports of Los Angeles and Long Beach
-  more_detail: >-
-    PortTech’s entrepreneur program provides comprehensive outreach, education
-    and mentoring services to promising tech startups focused on solving the
-    environmental challenges of port communities. First, we reach out to
-    university, technology and investment organizations to educate entrepreneurs
-    on the environmental challenges and economic opportunities in/around the
-    ports of Los Angeles and Long Beach. Second, PortTech vets entrepreneurs to
-    find qualified candidates. Through dedicated one-on-one mentoring, we then
-    begin the process of transforming these startup teams into thriving
-    businesses. By helping them take root and grow in the Harbor area, we’re
-    creating jobs and helping to rebuild Los Angeles’ port communities one
-    business at a time.
-  implement: "PortTech’s concentrated effort to identify, attract and retain qualified startups centers around the PortTech Pitch program. The first step of the program is attracting entrepreneurs. PortTech connects with Southern California’s research universities, investment groups, the clean tech entrepreneurial community, and industry organizations to seek out potential candidates. We participate in groups such as the Los Angeles Venture Association and Cleantech Open. \r\n\r\nThis outreach strategy allows PortTech advisors to broadcast the message of innovation and business opportunities in the Harbor area to more than 3,000 entrepreneurs annually. Through presentations and event networking, we highlight the benefits of participating in the PortTech Pitch. This tailored coaching program provides startups with one-on-one mentoring, constructive critiques and mock judging sessions. Pitch competition finalists have the chance to present to a panel comprised of investors, advisors and representatives of Southern California’s ports.\r\n\r\nPortTech Pitch draws upwards of 100 startup applicants each year. The program allows staff to evaluate entrepreneurs’ business plans, validate new technologies and assess each startup’s potential for advancing innovation and solving environmental challenges in and around the ports. Through the PortTech Pitch assessment process, PortTech identifies the best startups to participate in the finals and become PortTech clients.\r\n\r\nFinalists also participate in the PortTechEXPO, an annual event that provides technology companies and entrepreneurs the chance to connect with business prospects at Southern California’s ports. The EXPO features live demonstrations, interactive displays and the best technology advancements for ports worldwide. With more than 600 attendees and 60 exhibitors, the EXPO provides entrepreneurs the opportunity to showcase their technology advancements to an audience of port executives, industry leaders, and community members.\r\n\r\nBeyond the PortTech Pitch program, PortTech continues to support portfolio clients. PortTech hosts an array of forums and workshops to foster a collaborative working environment and provide entrepreneurs continued access to port executives, government agency representatives, mentors and investors, researchers and industry leaders."
-  impact_create: "In 2009, the business and community leaders of San Pedro and Wilmington envisioned a future where creative entrepreneurs would solve major environmental challenges facing port communities while at the same time create living-wage “green collar” jobs for area residents.  The path to realizing that vision began with PortTech. \r\n\r\nPortTech’s mission is to foster and grow startup companies that address the opportunities and challenges in and around the Ports of Los Angeles and Long Beach. These companies assist the ports in achieving their environment, energy, transportation and safety/security goals and in the process help make healthier communities.\r\n\r\nIn addition, as entrepreneurs succeed they contribute to the local economy by building thriving businesses. This creates jobs and improves economic growth activities in the marginalized communities adjacent to the ports, including San Pedro, Wilmington, Harbor City / Harbor Gateway and Long Beach. These jobs will elevate the types of employment positions available and provide residents the chance to become part of an advanced workforce and participate in the 21st Century’s technology economy.\r\n\r\nLooking forward to 2050, PortTech will be the nexus of a thriving technology and advanced manufacturing-based business cluster. Numerous businesses, large and small, will be focused on addressing the global challenges and opportunities of port and maritime-related industries. And the Harbor area will be an economic development engine in the Los Angeles region – creating jobs and generating wealth for these communities. \r\n\r\nIn our LA2050 Vision, PortTech helps transform:\r\n•  researchers/innovators into successful entrepreneurs\r\n•  clean technology entrepreneurs into advanced manufacturing leaders\r\n•  harbor area youth into career-focused skilled workforce\r\n•  demonstration/pilot projects into commercialized products/services\r\n•  port-focused innovations into environmental solutions distributed worldwide\r\n•  declining industrial neighborhoods into thriving “clean economy” regions"
-  who_benefit: "Entrepreneurs:\r\nThrough meetings, events and workshops we advise and support 80 to 100 start-ups each year. At any given time, PortTech provides one-on-one mentoring to approximately 20 portfolio clients in-house and virtually.\r\n\r\nHarbor Area Communities:\r\nAs entrepreneurs succeed they contribute to the local economy by building thriving businesses. As these growing companies hire their workforce from the Harbor area, communities such as San Pedro, Wilmington and Long Beach benefit. According to the 2013 LA City Council Districts Economic Report, residents of CD15, which connects South Los Angeles with the communities surrounding the Port of Los Angeles, earn average annual wages well below the City average. \r\n\r\nConversely, clean tech jobs offer more opportunities and better pay for low- and middle-skilled workers than the national economy as a whole. In “Sizing the Clean Economy,” The Brookings Institution noted that wages in the clean economy are 13% higher than the national median wage. Furthermore, 26% of these jobs are focused on manufacturing. With the loss of the shipbuilding industry, manufacturing has declined in LA’s port communities.  PortTech can help reverse that trend while helping to define LA as a leader in advance manufacturing, technology and innovation. \r\n\r\nThe youth of our Harbor area communities have the most to gain. With an average of 24 years of age, the Harbor community of Wilmington has one of the youngest populations in the county. They represent LA’s future workforce and they’re the ones PortTech’s clients will be looking to fill these new technology and advanced manufacturing jobs.\r\n\r\nGreater Los Angeles Region and Beyond:\r\nPortTech is a collaborative organization. We connect entrepreneurs, mentors and investors, industry professionals, academic visionaries, community leaders and students.\r\n\r\nIn 2013, our reach extended to:\r\n•  3,000+ entrepreneurs who learned about environmental and economic opportunities at Southern California ports \r\n•  2,000+ professionals who attended PortTechEXPO, forums, workshops and networking events\r\n•  200+ high school/college students who met entrepreneurs and industry leaders\r\n\r\nThe green/clean economy – producing goods and services with an environmental benefit – is the focus of PortTech clients’ innovations. As PortTech companies implement their products and services into the marketplace, we all enjoy the benefits of improved air and water quality, and more efficient use of Earth's resources.\r\n"
-  partners_collaboration: "Collaboration is critical – both to successfully supporting entrepreneurs and to our survival as an organization.  PortTech’s founding sponsors include the City of Los Angeles, The Port of Los Angeles and the Chambers of Commerce of San Pedro and Wilmington. However, as we began to implement our programs, PortTech quickly realized that the environmental challenges and opportunities did not stop at Los Angeles’ border. \r\n\r\nWe work with the Port of Los Angeles and the Port of Long Beach Technology Advancement Program (TAP), as well as numerous port tenant companies including terminal operators and trucking companies to implement technology pilot projects. We’re also building relationships with ports beyond Southern California to increase business opportunities for portfolio clients.\r\n\r\nThrough our partnerships with major Southern California universities, including USC, UCLA and Caltech, we connect student and faculty researchers with real-world business opportunities to support technology commercialization. And our outreach efforts to area colleges and high schools are establishing connections to future entrepreneurs and a skilled workforce.\r\n\r\nVolunteer mentors from service business professionals and investor organizations such as Los Angeles Venture Association and Pasadena Angels provide our entrepreneurs with expert advice across a wide range of topics from intellectual property to finance to marketing.\r\n\r\nRelationships with government agencies, elected officials, industry and community groups, and business incubator organizations all make up the ecosystem of resources that help our entrepreneurs thrive. With funding from agencies such as the California Energy Commission, U.S. Department of Energy and South Coast Air Quality Management District, our entrepreneurs advance R&D efforts and commercialize their technologies.  \r\n\r\nAnd finally, as a public-private partnership, PortTech can continue to further its mission through support from philanthropic and corporate sponsorships, and industry collaboration."
-  metrics_create_employment: '0'
-  metrics_create_arts: '0'
-  metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '1'
-  metrics_create_patents: '1'
-  metrics_create_jbs: '1'
-  metrics_create_minoritywomenowned: '1'
-  metrics_create_gini: '1'
-  metrics_create_startups: '1'
-  metrics_create_venturecapital: '1'
-  metrics_create_influencers: '1'
-  metrics_create_recruitingrates: '0'
-  metrics_create_graduates: '1'
-  metrics_create_unemployment: '0'
-  metrics_create_other: '1'
-  metrics_create_blank: Employment in advanced manufacturing/clean technology
-  impact_metrics: "According to the 2014 My LA2050 Report: “Incubators as a source of job creation” and “expanding employment opportunities around technology and increasing diversity in technology entrepreneurship” were top trends that emerged from the 2013 Challenge Grant submissions. “Technology and entrepreneurship education also emerged as a method to solve one of Los Angeles’ gravest issues… education.” PortTech’s entrepreneur outreach, education and mentoring program directly speaks to these top trends. \r\n\r\nFederal research grant funding & Venture capital investment:\r\nWe conduct workshops that educate entrepreneurs seeking funding. Last year, more than 200 entrepreneurs participated in SBIR grant funding workshops and investor networking events. And our portfolio clients were awarded more than $8 million in funding.\r\n\r\nPatents per capita & Number of high-growth startups:\r\nThese metrics are indicators of technology innovation. PortTech reaches out to a global community of clean tech entrepreneurs. As they develop products – from R&D phase through commercialization – we support their efforts to protect intellectual property and continue product development. Through our PortTech Pitch program, we attract startup teams with high growth potential.\r\n\r\nMinority- and women-owned firms & Gini Coefficient:\r\nThese metrics address diversity, inclusivity and equality across cultural, gender and socioeconomic spectrums. We reach out to entrepreneurs from our own backyard and across the globe. Thus participants in our programs reflect that inherent diversity. By focusing on the clean economy, jobs created through our efforts offer more opportunities and better pay for low- and middle-skilled workers than the national economy as a whole. \r\n\r\nConcentration of and employment in advanced manufacturing/clean technology & Percentage of graduates that remain in LA County 5 years after graduating:\r\nJob creation is critical to the economy of the Harbor area and Los Angeles. PortTech portfolio companies solve global environmental challenges while creating technology- and manufacturing-based jobs. As these high-quality jobs become available, graduates will stay to work in our communities.\r\n\r\nGlobal economic influence (“soft power”):\r\nPortTech is the ONLY clean tech incubator worldwide that focuses on the port and maritime industry sectors.  As our portfolio companies implement environment-changing solutions worldwide, we help define LA as a global leader in advanced manufacturing, technology and innovation."
-  best_place_to_learn: '1'
-  best_place_to_connect: '0'
-  healthiest_place_to_live: '1'
-  best_place_to_play: '0'
-  evaluate: "The PortTech Pitch program provides comprehensive outreach, education and mentoring services to clean tech entrepreneurs.  In the short term, we can quantifiably measure success in these three service categories:  \r\n1.  Outreach: We track the level of participation in social media, attendance at events, and ultimately the number of applicants to the PortTech Pitch program.\r\n2.  Education: We analyze the quality of our workshops and events through surveys, allowing us to continually refine and improve the presentations.\r\n3.  Mentoring: We track achievement milestones of our startup teams as they progress through the program to measure the efficacy of our mentoring services.\r\n\r\nAs an organization, we measure our overall progress through metrics such as:\r\n•  Jobs created, both professional and semi-skilled\r\n•  Dollars invested in the incubated businesses\r\n•  Revenue generated by the portfolio clients\r\n•  PortTech Pitch program participants that become portfolio clients\r\n•  Startup teams that establish businesses in the Harbor area\r\n•  Demonstration and pilot projects completed\r\n"
-  two_lessons: "Customer/market-centric approach is key:\r\nWhen it comes to helping entrepreneurs, PortTech has learned that incorporating a customer/market-centric approach is key to success. PortTech focuses on connecting entrepreneurs to potential customers during early stages of development to determine what clean technology needs exist within the broader port ecosystem. Instead of going through R&D in isolation, PortTech clients have access to port representatives, maritime executives, and industry experts through trainings, events and one-on-one meetings.\r\n\r\nEntrepreneurs benefit from PortTech’s unique location in the heart of the San Pedro Bay Port Complex. The Ports of Los Angeles and Long Beach are home to hundreds of port tenant companies – from cargo terminal operators to freight forwarders, trucking companies to refineries, marinas to ship repair. There are countless opportunities for clean tech solutions. Furthermore, government policies require these companies to invest in technologies that improve the environment.  \r\n\r\nEstablish a broad, diverse, collaborative network:\r\nThrough our experience in working with hundreds of startup teams, we have come to the same conclusion as the Kauffman Foundation regarding the importance of networking – “Strong ecosystems foster successful entrepreneurs.” It’s so simple to state, yet the reality of establishing a diverse, collaborative network focused on a clear outcome takes time and a lot of effort. It is one of PortTech’s strengths and guiding principles. \r\n\r\nDuring the last five years, PortTech has built a vital ecosystem to support our entrepreneurs. This network includes faculty researchers, volunteer mentors from service and professional businesses and investor organizations, government agencies, elected officials, industry and community groups, and other business incubator organizations."
-  achievable_goal: "Funding from the LA2050 Challenge Grant will support the continued development and enhancement of the already successful PortTech Pitch program. This program has attracted applicants from all over North America and is expanding globally through a network of partnerships. Each spring, PortTech begins outreach to the clean tech startup community, other incubators, accelerators and associations that work with or provide services to entrepreneurs. Simultaneously, the Cleantech Open launches their annual accelerator program and many of the entrepreneurs will participate in both the Pitch and the Cleantech Open – the two programs are complementary.\r\n\r\nPortTech also connects with startups and entrepreneurs at Southern California’s exceptional research universities (Caltech, UCI, UCLA, UCR and USC), investment groups and trade associations to find potential teams for the Pitch. The process has evolved to the point that these institutions and organizations are introducing PortTech to promising entrepreneurs and startups on a year-round basis. Once recruited, the startup teams are provided tools, techniques and resources to develop skills critical to leading and operating their business.\r\n\r\nThe program culminates with a final competition each September as the kick-off of the PortTech EXPO – the only maritime oriented clean tech exhibition on the West Coast. Participants in the Pitch are provided preferential exhibit space and winners are recognized during the EXPO luncheon.  Due to the intense level of coaching and support the startup teams receive through the months-long program, when selected finalists become PortTech portfolio clients, they are well on their way to implementing the strategies to continue building their businesses."
-  major_challenges: "One major challenge is recruiting entrepreneurs to participate in PortTech’s program. While there are many startups in the clean technology field, PortTech’s unique port/maritime focus is a market sector unfamiliar to many entrepreneurs. They underestimate the business opportunities associated with implementing their technology in this demanding, complex industrial environment.\r\n\r\nTo overcome this challenge, we go beyond outreach to educate entrepreneurs and the service professionals who work with startups on the challenges and opportunities in and around ports. In addition to presentations, PortTech staff members spend considerable time meeting with entrepreneurs one-on-one to help them understand the vast market potential their technologies have with port applications. The opportunities extend beyond Southern California to ports worldwide.\r\n\r\nAlso, the number of entrepreneurs with clean technologies that have direct port applications is limited. To overcome this, we strive to find technologies that can be repurposed and adapted to ports and are expanding our search to a worldwide audience of entrepreneurs.\r\n\r\nThe second major challenge is funding. PortTech itself is in an entrepreneurial stage of growth. We are building and expanding programs to better serve and support an increasing number of portfolio clients. The need for PortTech’s incubator services is growing and the opportunities associated with the startup businesses we serve are growing even faster.\r\n\r\nPortTech’s mentoring activities do not stop after the PortTech Pitch program. We support our clean tech portfolio companies through the long-term path of business building – from R&D to production to market acceptance.  Some of PortTech’s first recruits are now achieving success obtaining customers and creating jobs. \r\n\r\nTo support this expanding base of clients, PortTech’s staff continues to cultivate partners, build relationships and pursue sources of funding. As clients continue to achieve success, we will attract more supporters, partners and sponsors and move forward as an established organization with a proven track record."
-  competition: "According to the National Business Incubator Association, in October 2012 there were more than 1,250 incubators in the United States. In Los Angeles, there is a wide variety of startups, incubators, and innovation opportunities. This includes everything from Silicon Beach startups focused on developing IT solutions to the innovate!socal Conference for students to the L.A. Cleantech Incubator in downtown Los Angeles.\r\n\r\nPortTech is actively involved in this greater Los Angeles community fostering innovation and working together to build a network that supports entrepreneurs.\r\n\r\nYet, we are truly unique because PortTech is the ONLY clean tech incubator in the world focused on the port and maritime industry sectors. And we are the only tech incubator in Los Angeles using a customer/market-centric approach to connect entrepreneurs with business opportunities at ports worldwide."
-  cost: "PortTech operates on annual budget of approximately $1 million. Receipt of the LA2050 Grant Challenge award will cover the core staffing necessary to operate the PortTech Pitch program. Other expenses including overhead and administrative staff are supported through additional grants and sponsorships.  \r\n\r\nPortTech receives funding from the U.S. Department of Housing and Urban Development through the Community Development Block Grant (CDBG) awarded to the City of Los Angeles. A stated goal of the CDBG program is to create jobs through the expansion and retention of businesses. The program allocates grants to expand economic opportunities, principally for low- and moderate-income individuals.\r\n\r\nThe Port of Los Angeles and Port of Long Beach also sponsor PortTech programs and activities. Moving forward, we will continue seeking grant funding and sponsorships from philanthropic organizations and corporations to support our mission to create jobs and economic growth in the Harbor area.\r\n\r\nBuilding on the success of the PortTech Pitch program, we will seek additional support from corporate partners interested in participating in the program, both as volunteer advisors and economic contributors."
-  budget: "The LA2050 Challenge Grant award will fund critical staffing (human capital) needed to support the PortTech Pitch Program.\r\n\r\nPortTech employs a combination of face-to-face and social media activities designed to use limited resources as effectively as possible. With a budget of $28,000, PortTech can reach and educate 3,000+ entrepreneurs annually.\r\n\r\nOutreach/Education:\r\n•  Speaking/Presenting: outreach presentations to entrepreneurs - $6,000\r\n•  Marketing Communication: email and social media outreach, website content development, press release development - $13,000 \r\n•  Event Management: planning, scheduling and production - $10,000\r\n•  Technical Support: website maintenance, contact database management - $5,000\r\n\r\nBy engaging volunteer advisors, and building upon entrepreneur education programs like Cleantech Open, PortTech can provide in-depth mentoring services to a large pool of clean tech entrepreneurs. With a budget of $72,000, PortTech can mentor 80-100 startup teams annually.\r\n\r\nMentoring:\r\n•  Staff Advisors: one-on-one entrepreneur mentoring, pitch competition coaching - $68,000 (based on a 6-month program, an equivalent of ½ FTE)\r\n•  Technical Support: video recording and editing of entrepreneur presentations - $4,000\r\n"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_network: '1'
-  resources_research: '0'
+  'In one to three sentences, please describe your proposal.': >-
+    The PortTech Pitch program provides comprehensive outreach, education and
+    mentoring services to promising tech startups focused on solving global
+    challenges. Through dedicated one-on-one mentoring, we begin the process of
+    transforming these startup teams into thriving businesses. At the Pitch
+    Competition and PortTechEXPO, we provide an opportunity for entrepreneurs
+    and investors, industry and civic leaders, students and researchers to
+    explore new technologies and connect with innovators.
+  Please write a sample tweet to describe your submission.: >-
+    Our @LA2050 vision: @PortTechLA is growing an #entrepreneur ecosystem in
+    LA's #port communities
+  LA is the best place to LEARN: '1'
+  LA is the best place to CONNECT: '1'
+  LA is the best place to PLAY: '0'
+  LA is the healthiest place to LIVE: '1'
+  Where will you be working? Central LA: '0'
+  Where will you be working? East LA: '0'
+  Where will you be working? San Gabriel Valley: '0'
+  Where will you be working? San Fernando Valley: '0'
+  Where will you be working? South LA: '0'
+  Where will you be working? Westside: '0'
+  Where will you be working? South Bay: '0'
+  Where will you be working? Antelope Valley: '0'
+  Where will you be working? County of Los Angeles (countywide): '1'
+  Where will you be working? City of Los Angeles (citywide): '1'
+  Where will you be working? LAUSD: '0'
+  Where will you be working? Other: '0'
+  Where will you be working? Specifics: Harbor area communities surrounding the Ports of Los Angeles and Long Beach
+  How do you plan to use these resources to make change? Conduct research: '0'
+  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
+  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  How do you plan to use these resources to make change? Implement and track policy: '0'
+  How do you plan to use these resources to make change? Other: '0'
+  How do you plan to use these resources to make change? Specifics: Inspire the next generation of entrepreneurs
+  How will your proposal improve the following “Create” metrics? Employment in the creative industries: '0'
+  How will your proposal improve the following “Create” metrics? Arts establishments per capita: '0'
+  How will your proposal improve the following “Create” metrics? Concentration of manufacturing activity in LA: '1'
+  How will your proposal improve the following “Create” metrics? Federal research grant funding: '1'
+  How will your proposal improve the following “Create” metrics? Patents per capital: '1'
+  How will your proposal improve the following “Create” metrics? Jobs per capita: '1'
+  How will your proposal improve the following “Create” metrics? Minority- and women-owned firms: '1'
+  How will your proposal improve the following “Create” metrics? Gini coefficient: '1'
+  How will your proposal improve the following “Create” metrics? Number of high growth startups: '1'
+  How will your proposal improve the following “Create” metrics? Venture capital investment: '1'
+  How will your proposal improve the following “Create” metrics? Measures of cultural and global economic influence (“soft power”) (Dream Metric): '1'
+  How will your proposal improve the following “Create” metrics? Recruiting and retention rates for local higher education institutions (Dream Metric): '0'
+  How will your proposal improve the following “Create” metrics? Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric): '1'
+  How will your proposal improve the following “Create” metrics? Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric): '0'
+  Describe in greater detail how you will make LA the best place to create.: "PortTech helps entrepreneurs transform high-aspiration ideas into high-performance companies to solve pressing global challenges by supporting innovative technology startups linked to the ports/goods movement industry. \r\n\r\nThrough the PortTech Pitch program, PortTech identifies emerging technologies that address transportation, energy and environmental challenges. Many of these solutions address the impacts of port operations on local communities. The PortTech Pitch program is comprised of three phases – entrepreneur mentoring followed by the Pitch competition and EXPO.\r\n\r\nFirst, PortTech prepares startup companies for growth. The months-long Pitch program provides entrepreneurs with one-on-one coaching, constructive critiques and mock judging sessions to prepare them to vie for markets, audiences and resources to grow.\r\n\r\nSecond, PortTech’s Pitch Competition Finals readies startups for real-world competition. Finalists chosen from startups participating in the mentoring program present their companies to a panel of experts who judge their viability. The day-long contest draws hundreds of participants – entrepreneurs and investors, industry and civic leaders, students and researchers – who view the event live or via webcast. For many entrepreneurs, it’s the moment they pull the wraps off their idea and launch their company into the real world. \r\n\r\nThird, the PortTechEXPO engages Los Angeles-Long Beach port communities through top-notch speakers, tech demonstrations and industry panels. The EXPO attracts media attention and 600 professionals annually. Through the EXPO, PortTech provides meaningful education opportunities for local students and community members to learn about technology and innovation during panel discussions, guided tours, and conversations with entrepreneurs and port leaders.\r\n\r\nThis comprehensive three-pronged program is key to PortTech’s success and the growth of the entrepreneurial ecosystem in the region. It embodies the important work we do as we coach startup companies, showcase their good works publicly and explain to the broader community what our work is about.\r\n\r\nAs our entrepreneurs succeed they contribute to the local economy by creating jobs in marginalized communities adjacent to the Ports. By 2050, PortTech will be the nexus of a thriving technology and advanced manufacturing-based business cluster. The Ports will run cleaner, greener and more efficient. And the Harbor area will be an economic development engine in the L.A. region. "
+  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "One major challenge is recruiting entrepreneurs. PortTech’s unique port/maritime focus is a market sector unfamiliar to many tech startups. The entrepreneurs often underestimate the business opportunities in this demanding and complex industrial environment.\r\n\r\nTo overcome this challenge, we educate entrepreneurs about the challenges and opportunities in and around ports worldwide. We broadcast this message globally to attract and engage innovators.\r\n\r\nAs we succeed in overcoming the first challenge, the second challenge is funding. PortTech is in an entrepreneurial stage of growth. We are expanding programs to serve an increasing number of portfolio clients. And we support entrepreneurs through the long process of business-building – from R&D to production to market acceptance. \r\n\r\nWe continue to raise our organization's profile, forge strong relationships, and support entrepreneurs to attract supporters. The Pitch program embodies all of these efforts to support fundraising."
+  Please explain how you will evaluate your work.: "In the short term, we measure success as follows:  \r\n1.\tOutreach: We track the level of participation in social media, attendance at events (professionals and students) and the number of applicants to the PortTech Pitch program.\r\n2.\tEducation: We analyze the quality of our programs and events through surveys, allowing us to continually refine and improve our offerings.\r\n3.\tMentoring: We videotape the entrepreneur presentations and mentor comments so that presenters can review their performance and incorporate feedback. We also video the final competition presentations. The “before vs after” presentations verify the tremendous improvements of entrepreneurs and validate the efficacy of the program.\r\n4.\tStudent Participation: Follow-up interviews are conducted with teachers to solicit feedback for program improvement.\r\n\r\nOver the long term, we measure progress using the following metrics:\r\n-\tJobs created\r\n-\tDollars invested\r\n-\tPilot projects initiated\r\n-\tBusinesses established in the Harbor area"
+  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "According to the National Business Incubator Association, in 2012 there were more than 1,250 incubators in the U.S. In the Los Angeles area alone, there are countless accelerators, incubators, and innovation opportunities – everything from Silicon Beach startup communities to the co-working spaces across the region, to the L.A. Cleantech Incubator downtown. PortTech is actively involved in this tech community collaborating with these organizations to build a network that supports entrepreneurs.\r\n\r\nYet, we are unique because PortTech is the ONLY clean tech incubator in the world focused on the port and maritime industry sectors. And we are the only tech incubator in L.A. using a customer/market-centric approach to connect entrepreneurs with business opportunities at ports worldwide.\r\n\r\nMany pitch events are held each year throughout the region. These activities allow entrepreneurs a chance to present their ideas in front of an audience. At the same time, they help connect the tech community and give entrepreneurs much needed opportunities to practice their presentations. But they don't involve the in-depth coaching sessions provided by PortTech’s program, nor do they connect entrepreneurs with port executives and potential customers.\r\n\r\nThe PortTechEXPO also embodies our unique customer/market-centric approach. There are numerous networking and technology showcase events scattered around the region and throughout the year. Los Angeles is also host to countless trade shows and expos focused on every industry imaginable. But the PortTechEXPO brings the best of both of these activities together by attracting entrepreneurs and investors as well as potential customers and collaborators from the port/maritime industry. In our collaborative fashion, we actively encourage participation from incubators and entrepreneurs involved in other competitions such as the Cleantech Open and Ocean Exchange. Many of the Pitch applicants come to us through the research departments at Southern California’s leading universities.\r\n\r\nAnd last but not least, we seek out student participation. Through our connection with ITEP (International Trade Education Programs) and direct outreach to area high schools and community colleges such as POLAHS (Port of Los Angeles High School), LA Harbor College and Long Beach City College, we establish connections to the future tech-savvy skilled workforce. By bringing the Pitch program to students we hope to foster the next generation of entrepreneurs. "
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Collaboration is critical to successfully support entrepreneurs.  We work with the Ports of Los Angeles and Long Beach, as well as numerous port tenants including terminal operators and trucking companies to connect entrepreneurs to pilot project opportunities. Volunteer professional advisors provide entrepreneurs with expert advice across a wide range of topics from intellectual property to finance to marketing. Relationships with government agencies, elected officials, industry and community groups, and business incubator organizations all make up the ecosystem of resources that help entrepreneurs thrive. Through our partnerships with major Southern California universities, including USC, UCLA and Caltech, we connect student and faculty researchers with real-world business opportunities to support technology commercialization. \r\n\r\nIn addition to the existing collaborative efforts listed above, we will be partnering with two student organizations to increase youth participation in the PortTech Pitch events and plant seeds in developing future entrepreneurs and a skilled local workforce.\r\n•\tITEP – A nonprofit that develops innovative programs integrating internships and career mentoring with the curriculum of high schools throughout Southern California\r\n•\tPOLAHS – A college prep charter high school located in San Pedro with a strong environmental and port technology education program\r\n\r\nLA2050 Grants Challenge funding of $100,000 will be allocated as follows:\r\n•\tEntrepreneur Mentoring: $80,000 PortTech\r\n•\tStudent Activities: $20,000 Total; $17,000 ITEP, $3,000 POLAHS\r\n\r\nDue to budget limitations, in past years, students from three area schools were invited to participate in the PortTechEXPO. With funding from this grant, we will be able to double the number of schools participating, reaching more than 200 at-risk youth from the Harbor area. With ITEP’s assistance, we will develop activities and student guides aimed at increasing students’ understanding of entrepreneurism and the technologies that will help solve the challenges they face every day living in the shadow of the country’s largest port complex.\r\n\r\nStudent participation goals include: \r\n•\tDeveloping Los Angeles and Harbor area students on a path of entrepreneurial thinking\r\n•\tExpanding on school STEM curricula to connect students to real world problems \r\n•\tEncouraging students to connect to a broad entrepreneurial community \r\n•\tInspiring curiosity and awareness of challenges worth solving "
+  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total budget for the PortTech Pitch program is as follows:\r\n\r\nProfessional Services:  $134,000\r\n•\tMentors/entrepreneur advisors:  $76,000\r\n•\tCommunity outreach:  $36,000\r\n•\tPitch volunteer coaches:  $10,000 (in-kind support)\r\n•\tProgram coordination:  $12,000\r\n\r\nEvent Production (Pitch Finals & EXPO):  $153,000\r\n•\tVenues:  $12,000\r\n•\tCatering:  $42,000\r\n•\tA/V equipment / services:  $22,000\r\n•\tProduction services:  $16,000\r\n•\tAdvertising / design / printing:  $9,000\r\n•\tCommunity outreach:  $20,000\r\n•\tVolunteer docents / judges:  $4,000 (in-kind support)\r\n\r\nStudent Participation at EXPO:  $20,000\r\n•\tSchool coordination:  $4,000\r\n•\tActivities planning:  $8,000\r\n•\tStudent transportation:  $5,000\r\n•\tLunch, materials:  $3,000\t\r\n\r\nPortTech’s total Pitch program budget is just over $300,000. \r\nThis budget supports:\r\n•\t3,000+ entrepreneurs learning about opportunities at Southern California ports\r\n•\t80-100 startup applications reviewed and pitch feedback received\r\n•\t20-25 entrepreneur teams provided in-depth mentoring services\r\n•\t150 attendees at the Pitch Competition Finals and Awards Celebration\r\n•\tCountless attendees (professionals and students) viewed Pitch presentations via webcast\r\n•\t600 professionals attend EXPO\r\n•\t200 high school students participate in EXPO\r\n\r\nFunding from the Ports of Los Angeles and Long Beach, along with additional corporate sponsorships and ticket sales help support the two events (Pitch Competition Finals and the PortTechEXPO) associated with the Pitch program. LA2050 grant funding will support the professional service needs of the program. Grant funding is critical to provide the caliber of entrepreneur support that the Pitch program is known for. If fundraising falls short of the budget, the choices are to support fewer entrepreneur teams, provide fewer mentorship hours to each team, or eliminate the student outreach expansion efforts.\r\n"
+  'Please include a detailed budget of how you will use $100,000 to implement this project.': "LA2050 Grants Challenge funding of $100,000 will be used as follows:\r\nProfessional Services:  $80,000\r\n•\tMentors/entrepreneur advisor:  $56,000\r\n    o\tpresentation review entrepreneur pitches\r\n    o\tone-on-one entrepreneur mentoring \r\n    o\ttechnical support: video recording and editing\r\n•\tCommunity outreach:  $18,000\r\n    o\tspeaking engagements: outreach presentations to entrepreneurs\r\n    o\tcommunication: email, social media, website content, press release development \r\n•\tProgram coordination:  $6,000\r\n\r\nStudent Participation at EXPO:  $20,000\r\n•\tSchool coordination:  $4,000\r\n•\tActivities planning:  $8,000\r\n•\tStudent transportation:  $5,000\r\n•\tLunch, materials:  $3,000\r\n"
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How do you plan to scale the success of your proposal?: "In the past three years, PortTech has continuously improved and expanded the Pitch program to reach more entrepreneurs, provide better and more in-depth coaching to the entrepreneurs, and attract the right audience to hear the presentations and attend the EXPO. \r\n\r\nWe can scale the program’s success in the following ways:\r\n\r\n•\tIncrease the number of entrepreneur applicants \r\n    o\tExpand outreach globally using more remote video coaching sessions and presentations\r\n    o\tBroaden applicant focus to include more digital entrepreneurs focused in the transportation and goods movement sector\r\n    o\tIncrease collaborative efforts with organizations such as Cleantech Open and Ocean Exchange to provide an opportunity for entrepreneurs to participate in multiple competitions\r\n\t\r\n•\tIncrease the number of attendees (at events and virtually)\r\n    o\tLeverage our network of incubators, universities and industry professionals to attract more attendees, particularly those outside of the LA area\r\n    o\tBuild relationships beyond Southern California, first along the West Coast and then nationally and internationally to attract a broader geographical audience\r\n\r\n•\tExpand student participation in the Pitch program\r\n    o\tLeverage the video webcast to expand outreach to schools in the greater Los Angeles area to increase student viewing of entrepreneur pitches\r\n    o\tWork with additional partners to introduce the entrepreneurial development process to high school students\r\n    o\tExpand the Pitch program to include a student entrepreneur pitch competition"
 maker_answers_list:
-  - name: city_state
+  - name: How did you hear about this challenge?
+    label: How did you hear about this challenge?
+    explanation: >-
+      Please tell us how you found about the challenge (eg. Facebook/Twitter,
+      newsletter, friend, etc).
+    answer: >-
+      We learned of the 2015 submittal dates through the LA2050 e-newsletter.
+      PortTech submitted a grant application in the 2014 LA2050 Challenge.
+  - name: 'City, State'
     label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
+    explanation: 'Please follow this format: Los Angeles, CA'
     answer: 'San Pedro, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: PortTech Los Angeles
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
-    answer: www.PortTechLA.org
-  - name: org_twitter
-    label: Organization Twitter handle
+  - name: Organization(s) name(s)
+    label: Organization(s) name(s)
     explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: www.twitter.com/PortTechLA
-  - name: org_facebook
-    label: Organization Facebook page
+      Please list the names of all organizations if there are more than one
+      organization involved.
+    answer: >-
+      PortTech Los Angeles, International Trade Education Programs (ITEP), Port
+      of Los Angeles High School (POLAHS)
+  - name: Organization(s) mailing address(es)
+    label: Organization(s) mailing address(es)
     explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: www.facebook.com/PortTechLosAngeles
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
+      Please list all mailing addresses if there are more than one organization
+      involved. Please follow the format: 1234 Wilshire Blvd, Los Angeles, CA
+      90048
+    answer: "PortTech Los Angeles\r\n302 W. 5th Street, Suite 200, San Pedro, CA 90731\r\n\r\nInternational Trade Education Programs (ITEP)\r\n2417 E. Carson Street, Suite 200, Carson, CA 90810\r\n\r\nPort of Los Angeles High School (POLAHS)\r\n250 W. 5th Street, San Pedro, CA 90731"
+  - name: Organization(s) website(s)
+    label: Organization(s) website(s)
+    explanation: 'Please follow this format: www.LA2050.org'
+    answer: www.porttechla.org
+  - name: Organization(s) twitter handle(s)
+    label: Organization(s) twitter handle(s)
+    explanation: 'Please follow this format: www.twitter.com/LA2050'
+    answer: www.twitter.com/PortTechLA www.twitter.com/ITEPinc www.twitter.com/POLAHS
+  - name: Organization(s) facebook handle(s)
+    label: Organization(s) facebook handle(s)
+    explanation: 'Please follow this format: www.facebook.com/LA2050'
+    answer: www.facebook.com/PortTechLosAngeles www.facebook.com/ITEPInc?ref=ts
+  - name: Organization(s) instagram handle(s)
+    label: Organization(s) instagram handle(s)
+    explanation: 'Please follow this format: www.instagram.com/LA2050'
     answer: ''
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: '302 W. 5th Street, Suite 200, San Pedro, CA 90731'
-  - name: org_ein
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '800363808'
-  - name: org_nonprofit
-    label: Nonprofit organization
+  - name: Please share the direct link for voters to sign up for your newsletter(s)
+    label: Please share the direct link for voters to sign up for your newsletter(s)
+    explanation: ''
+    answer: >-
+      PortTech:
+      http://visitor.r20.constantcontact.com/d.jsp?llr=8e6cl9dab&p=oi&m=1103616898203&sit=7czkyakfb&f=a304daf5-7a58-489e-9f1f-dae9fb234f90 
+      ITEP: http://www.formstack.com/forms/?1547268-nGs6aFFkvp  POLAHS:
+      https://app.e2ma.net/app2/audience/signup/175
+  - name: EIN (for each organization)
+    label: EIN (for each organization)
+    explanation: 'Please follow this format: xx-xxxxxxx'
+    answer: 'PortTech: 80-0363808, ITEP: 74-3161465, POLAHS: 16-1649277'
+  - name: 'Describe your organization(s): Non-Profit'
+    label: Non-profit organization
     explanation: ''
     answer: '1'
-  - name: org_forprofit
+  - name: 'Describe your organization(s): For-profit'
     label: For-profit organization
     explanation: ''
     answer: '0'
-  - name: org_government
+  - name: 'Describe your organization(s): Government'
     label: Government
     explanation: ''
     answer: '0'
-  - name: org_individual
-    label: Individual
+  - name: 'Describe your organization(s): Other'
+    label: 'Other (please specify below):'
     explanation: ''
     answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '0'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '1'
-  - name: describe_organization
+  - name: 'Describe your organization(s): Specifics'
     label: ''
-    explanation: 140 character maximum
+    explanation: ''
+    answer: ''
+  - name: 'In one sentence, please describe what your organization does'
+    label: ''
+    explanation: ''
     answer: >-
       PortTech connects entrepreneurs, industry and community to advance
       innovation, solve port/global environmental challenges, and create jobs.
-  - name: one_sentence_project
+  - name: 'In one to three sentences, please describe your proposal.'
     label: ''
-    explanation: 140 character maximum
-    answer: >-
-      PortTech’s entrepreneur program provides comprehensive outreach, education
-      and mentoring services to promising clean tech startups.
-  - name: describe_idea
-    label: ''
-    explanation: >-
-      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
-      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
-      have such an awesome project! Please vote for @GoldhirshFdn here!'
-    answer: >-
-      Our @LA2050 Vision: @PortTechLA transforms #innovators --> #entrepreneurs
-      --> leaders in #cleantech and #advancedmanufacturing.
-  - name: all_county
-    label: Yes (benefits all of LA County)
     explanation: ''
-    answer: '0'
-  - name: region_county
+    answer: >-
+      The PortTech Pitch program provides comprehensive outreach, education and
+      mentoring services to promising tech startups focused on solving global
+      challenges. Through dedicated one-on-one mentoring, we begin the process
+      of transforming these startup teams into thriving businesses. At the Pitch
+      Competition and PortTechEXPO, we provide an opportunity for entrepreneurs
+      and investors, industry and civic leaders, students and researchers to
+      explore new technologies and connect with innovators.
+  - name: Please write a sample tweet to describe your submission.
     label: ''
-    explanation: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: >-
+      Our @LA2050 vision: @PortTechLA is growing an #entrepreneur ecosystem in
+      LA's #port communities
+  - name: LA is the best place to LEARN
+    label: LA is the best place to LEARN
+    explanation: ''
     answer: '1'
-  - name: population_county
-    label: ''
-    explanation: Yes (benefits a population of LA County)
-    answer: '0'
-  - name: 'no'
-    label: 'No'
+  - name: LA is the best place to CONNECT
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: LA is the best place to PLAY
+    label: LA is the best place to PLAY
     explanation: ''
     answer: '0'
-  - name: area_centralLA
+  - name: LA is the healthiest place to LIVE
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? Central LA
     label: Central LA
     explanation: ''
     answer: '0'
-  - name: area_eastLA
+  - name: Where will you be working? East LA
     label: East LA
     explanation: ''
     answer: '0'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '0'
-  - name: area_sangabrielvalley
+  - name: Where will you be working? San Gabriel Valley
     label: San Gabriel Valley
     explanation: ''
     answer: '0'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
+  - name: Where will you be working? San Fernando Valley
+    label: San Fernando Valey
     explanation: ''
     answer: '0'
-  - name: area_southbay
-    label: South Bay
+  - name: Where will you be working? South LA
+    label: South LA
     explanation: ''
     answer: '0'
-  - name: area_westside
+  - name: Where will you be working? Westside
     label: Westside
     explanation: ''
     answer: '0'
-  - name: 'area_other:'
-    label: 'Other:'
+  - name: Where will you be working? South Bay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Antelope Valley
+    label: Antelope Valley
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? County of Los Angeles (countywide)
+    label: County of Los Angeles (countywide)
     explanation: ''
     answer: '1'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
+  - name: Where will you be working? City of Los Angeles (citywide)
+    label: City of Los Angeles (citywide)
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? LAUSD
+    label: LAUSD
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Specifics
+    label: e.g. Third Street Middle School; Boyle Heights; LA County
+    explanation: ''
     answer: >-
       Harbor area communities surrounding the Ports of Los Angeles and Long
       Beach
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: >-
-      PortTech’s entrepreneur program provides comprehensive outreach, education
-      and mentoring services to promising tech startups focused on solving the
-      environmental challenges of port communities. First, we reach out to
-      university, technology and investment organizations to educate
-      entrepreneurs on the environmental challenges and economic opportunities
-      in/around the ports of Los Angeles and Long Beach. Second, PortTech vets
-      entrepreneurs to find qualified candidates. Through dedicated one-on-one
-      mentoring, we then begin the process of transforming these startup teams
-      into thriving businesses. By helping them take root and grow in the Harbor
-      area, we’re creating jobs and helping to rebuild Los Angeles’ port
-      communities one business at a time.
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "PortTech’s concentrated effort to identify, attract and retain qualified startups centers around the PortTech Pitch program. The first step of the program is attracting entrepreneurs. PortTech connects with Southern California’s research universities, investment groups, the clean tech entrepreneurial community, and industry organizations to seek out potential candidates. We participate in groups such as the Los Angeles Venture Association and Cleantech Open. \r\n\r\nThis outreach strategy allows PortTech advisors to broadcast the message of innovation and business opportunities in the Harbor area to more than 3,000 entrepreneurs annually. Through presentations and event networking, we highlight the benefits of participating in the PortTech Pitch. This tailored coaching program provides startups with one-on-one mentoring, constructive critiques and mock judging sessions. Pitch competition finalists have the chance to present to a panel comprised of investors, advisors and representatives of Southern California’s ports.\r\n\r\nPortTech Pitch draws upwards of 100 startup applicants each year. The program allows staff to evaluate entrepreneurs’ business plans, validate new technologies and assess each startup’s potential for advancing innovation and solving environmental challenges in and around the ports. Through the PortTech Pitch assessment process, PortTech identifies the best startups to participate in the finals and become PortTech clients.\r\n\r\nFinalists also participate in the PortTechEXPO, an annual event that provides technology companies and entrepreneurs the chance to connect with business prospects at Southern California’s ports. The EXPO features live demonstrations, interactive displays and the best technology advancements for ports worldwide. With more than 600 attendees and 60 exhibitors, the EXPO provides entrepreneurs the opportunity to showcase their technology advancements to an audience of port executives, industry leaders, and community members.\r\n\r\nBeyond the PortTech Pitch program, PortTech continues to support portfolio clients. PortTech hosts an array of forums and workshops to foster a collaborative working environment and provide entrepreneurs continued access to port executives, government agency representatives, mentors and investors, researchers and industry leaders."
-  - name: impact_create
-    label: ''
-    explanation: ''
-    answer: "In 2009, the business and community leaders of San Pedro and Wilmington envisioned a future where creative entrepreneurs would solve major environmental challenges facing port communities while at the same time create living-wage “green collar” jobs for area residents.  The path to realizing that vision began with PortTech. \r\n\r\nPortTech’s mission is to foster and grow startup companies that address the opportunities and challenges in and around the Ports of Los Angeles and Long Beach. These companies assist the ports in achieving their environment, energy, transportation and safety/security goals and in the process help make healthier communities.\r\n\r\nIn addition, as entrepreneurs succeed they contribute to the local economy by building thriving businesses. This creates jobs and improves economic growth activities in the marginalized communities adjacent to the ports, including San Pedro, Wilmington, Harbor City / Harbor Gateway and Long Beach. These jobs will elevate the types of employment positions available and provide residents the chance to become part of an advanced workforce and participate in the 21st Century’s technology economy.\r\n\r\nLooking forward to 2050, PortTech will be the nexus of a thriving technology and advanced manufacturing-based business cluster. Numerous businesses, large and small, will be focused on addressing the global challenges and opportunities of port and maritime-related industries. And the Harbor area will be an economic development engine in the Los Angeles region – creating jobs and generating wealth for these communities. \r\n\r\nIn our LA2050 Vision, PortTech helps transform:\r\n•  researchers/innovators into successful entrepreneurs\r\n•  clean technology entrepreneurs into advanced manufacturing leaders\r\n•  harbor area youth into career-focused skilled workforce\r\n•  demonstration/pilot projects into commercialized products/services\r\n•  port-focused innovations into environmental solutions distributed worldwide\r\n•  declining industrial neighborhoods into thriving “clean economy” regions"
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "Entrepreneurs:\r\nThrough meetings, events and workshops we advise and support 80 to 100 start-ups each year. At any given time, PortTech provides one-on-one mentoring to approximately 20 portfolio clients in-house and virtually.\r\n\r\nHarbor Area Communities:\r\nAs entrepreneurs succeed they contribute to the local economy by building thriving businesses. As these growing companies hire their workforce from the Harbor area, communities such as San Pedro, Wilmington and Long Beach benefit. According to the 2013 LA City Council Districts Economic Report, residents of CD15, which connects South Los Angeles with the communities surrounding the Port of Los Angeles, earn average annual wages well below the City average. \r\n\r\nConversely, clean tech jobs offer more opportunities and better pay for low- and middle-skilled workers than the national economy as a whole. In “Sizing the Clean Economy,” The Brookings Institution noted that wages in the clean economy are 13% higher than the national median wage. Furthermore, 26% of these jobs are focused on manufacturing. With the loss of the shipbuilding industry, manufacturing has declined in LA’s port communities.  PortTech can help reverse that trend while helping to define LA as a leader in advance manufacturing, technology and innovation. \r\n\r\nThe youth of our Harbor area communities have the most to gain. With an average of 24 years of age, the Harbor community of Wilmington has one of the youngest populations in the county. They represent LA’s future workforce and they’re the ones PortTech’s clients will be looking to fill these new technology and advanced manufacturing jobs.\r\n\r\nGreater Los Angeles Region and Beyond:\r\nPortTech is a collaborative organization. We connect entrepreneurs, mentors and investors, industry professionals, academic visionaries, community leaders and students.\r\n\r\nIn 2013, our reach extended to:\r\n•  3,000+ entrepreneurs who learned about environmental and economic opportunities at Southern California ports \r\n•  2,000+ professionals who attended PortTechEXPO, forums, workshops and networking events\r\n•  200+ high school/college students who met entrepreneurs and industry leaders\r\n\r\nThe green/clean economy – producing goods and services with an environmental benefit – is the focus of PortTech clients’ innovations. As PortTech companies implement their products and services into the marketplace, we all enjoy the benefits of improved air and water quality, and more efficient use of Earth's resources.\r\n"
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "Collaboration is critical – both to successfully supporting entrepreneurs and to our survival as an organization.  PortTech’s founding sponsors include the City of Los Angeles, The Port of Los Angeles and the Chambers of Commerce of San Pedro and Wilmington. However, as we began to implement our programs, PortTech quickly realized that the environmental challenges and opportunities did not stop at Los Angeles’ border. \r\n\r\nWe work with the Port of Los Angeles and the Port of Long Beach Technology Advancement Program (TAP), as well as numerous port tenant companies including terminal operators and trucking companies to implement technology pilot projects. We’re also building relationships with ports beyond Southern California to increase business opportunities for portfolio clients.\r\n\r\nThrough our partnerships with major Southern California universities, including USC, UCLA and Caltech, we connect student and faculty researchers with real-world business opportunities to support technology commercialization. And our outreach efforts to area colleges and high schools are establishing connections to future entrepreneurs and a skilled workforce.\r\n\r\nVolunteer mentors from service business professionals and investor organizations such as Los Angeles Venture Association and Pasadena Angels provide our entrepreneurs with expert advice across a wide range of topics from intellectual property to finance to marketing.\r\n\r\nRelationships with government agencies, elected officials, industry and community groups, and business incubator organizations all make up the ecosystem of resources that help our entrepreneurs thrive. With funding from agencies such as the California Energy Commission, U.S. Department of Energy and South Coast Air Quality Management District, our entrepreneurs advance R&D efforts and commercialize their technologies.  \r\n\r\nAnd finally, as a public-private partnership, PortTech can continue to further its mission through support from philanthropic and corporate sponsorships, and industry collaboration."
-  - name: metrics_create_employment
-    label: Employment in creative industries
+  - name: How do you plan to use these resources to make change? Conduct research
+    label: Conduct research
     explanation: ''
     answer: '0'
-  - name: metrics_create_arts
+  - name: >-
+      How do you plan to use these resources to make change? Engage residents
+      and stakeholders
+    label: Engage residents and stakeholders
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Implement a pilot
+      or new project
+    label: Implement a pilot or new project
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How do you plan to use these resources to make change? Expand a pilot or a
+      program
+    label: Expand a pilot or program
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Mobilize for
+      systems change
+    label: Mobilize for systems change
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How do you plan to use these resources to make change? Advocate with
+      policymakers and leaders
+    label: Advocate with policymakers and leaders
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How do you plan to use these resources to make change? Implement and track
+      policy
+    label: Implement and track policy
+    explanation: ''
+    answer: '0'
+  - name: How do you plan to use these resources to make change? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: How do you plan to use these resources to make change? Specifics
+    label: ''
+    explanation: ''
+    answer: Inspire the next generation of entrepreneurs
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Employment
+      in the creative industries
+    label: Employment in the creative industries
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Arts
+      establishments per capita
     label: Arts establishments per capita
     explanation: ''
     answer: '0'
-  - name: metrics_create_manufacturing
+  - name: >-
+      How will your proposal improve the following “Create” metrics?
+      Concentration of manufacturing activity in LA
     label: Concentration of manufacturing activity in LA
     explanation: ''
     answer: '1'
-  - name: metrics_create_researchgrant
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Federal
+      research grant funding
     label: Federal research grant funding
     explanation: ''
     answer: '1'
-  - name: metrics_create_patents
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Patents per
+      capital
     label: Patents per capita
     explanation: ''
     answer: '1'
-  - name: metrics_create_jbs
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Jobs per
+      capita
     label: Jobs per capita
     explanation: ''
     answer: '1'
-  - name: metrics_create_minoritywomenowned
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Minority-
+      and women-owned firms
     label: Minority- and women-owned firms
     explanation: ''
     answer: '1'
-  - name: metrics_create_gini
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Gini
+      coefficient
     label: Gini coefficient
     explanation: ''
     answer: '1'
-  - name: metrics_create_startups
-    label: Number of high-growth startups
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Number of
+      high growth startups
+    label: Number of high growth startups
     explanation: ''
     answer: '1'
-  - name: metrics_create_venturecapital
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Venture
+      capital investment
     label: Venture capital investment
     explanation: ''
     answer: '1'
-  - name: metrics_create_influencers
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Measures of
+      cultural and global economic influence (“soft power”) (Dream Metric)
     label: >-
       Measures of cultural and global economic influence (“soft power”) (Dream
       Metric)
     explanation: ''
     answer: '1'
-  - name: metrics_create_recruitingrates
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Recruiting
+      and retention rates for local higher education institutions (Dream Metric)
     label: >-
-      Recruiting and retention rates at local higher education institutions
+      Recruiting and retention rates for local higher education institutions
       (Dream Metric)
     explanation: ''
     answer: '0'
-  - name: metrics_create_graduates
+  - name: >-
+      How will your proposal improve the following “Create” metrics? Percentage
+      of graduates from local higher education institutions that remain in LA
+      County 5 years after graduating (Dream Metric)
     label: >-
       Percentage of graduates from local higher education institutions that
       remain in LA County 5 years after graduating (Dream Metric)
     explanation: ''
     answer: '1'
-  - name: metrics_create_unemployment
+  - name: >-
+      How will your proposal improve the following “Create” metrics?
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
     label: >-
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
     explanation: ''
     answer: '0'
-  - name: metrics_create_other
-    label: 'Other:'
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: Employment in advanced manufacturing/clean technology
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "According to the 2014 My LA2050 Report: “Incubators as a source of job creation” and “expanding employment opportunities around technology and increasing diversity in technology entrepreneurship” were top trends that emerged from the 2013 Challenge Grant submissions. “Technology and entrepreneurship education also emerged as a method to solve one of Los Angeles’ gravest issues… education.” PortTech’s entrepreneur outreach, education and mentoring program directly speaks to these top trends. \r\n\r\nFederal research grant funding & Venture capital investment:\r\nWe conduct workshops that educate entrepreneurs seeking funding. Last year, more than 200 entrepreneurs participated in SBIR grant funding workshops and investor networking events. And our portfolio clients were awarded more than $8 million in funding.\r\n\r\nPatents per capita & Number of high-growth startups:\r\nThese metrics are indicators of technology innovation. PortTech reaches out to a global community of clean tech entrepreneurs. As they develop products – from R&D phase through commercialization – we support their efforts to protect intellectual property and continue product development. Through our PortTech Pitch program, we attract startup teams with high growth potential.\r\n\r\nMinority- and women-owned firms & Gini Coefficient:\r\nThese metrics address diversity, inclusivity and equality across cultural, gender and socioeconomic spectrums. We reach out to entrepreneurs from our own backyard and across the globe. Thus participants in our programs reflect that inherent diversity. By focusing on the clean economy, jobs created through our efforts offer more opportunities and better pay for low- and middle-skilled workers than the national economy as a whole. \r\n\r\nConcentration of and employment in advanced manufacturing/clean technology & Percentage of graduates that remain in LA County 5 years after graduating:\r\nJob creation is critical to the economy of the Harbor area and Los Angeles. PortTech portfolio companies solve global environmental challenges while creating technology- and manufacturing-based jobs. As these high-quality jobs become available, graduates will stay to work in our communities.\r\n\r\nGlobal economic influence (“soft power”):\r\nPortTech is the ONLY clean tech incubator worldwide that focuses on the port and maritime industry sectors.  As our portfolio companies implement environment-changing solutions worldwide, we help define LA as a global leader in advanced manufacturing, technology and innovation."
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '0'
-  - name: healthiest_place_to_live
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '0'
-  - name: evaluate
+  - name: Describe in greater detail how you will make LA the best place to create.
     label: ''
     explanation: ''
-    answer: "The PortTech Pitch program provides comprehensive outreach, education and mentoring services to clean tech entrepreneurs.  In the short term, we can quantifiably measure success in these three service categories:  \r\n1.  Outreach: We track the level of participation in social media, attendance at events, and ultimately the number of applicants to the PortTech Pitch program.\r\n2.  Education: We analyze the quality of our workshops and events through surveys, allowing us to continually refine and improve the presentations.\r\n3.  Mentoring: We track achievement milestones of our startup teams as they progress through the program to measure the efficacy of our mentoring services.\r\n\r\nAs an organization, we measure our overall progress through metrics such as:\r\n•  Jobs created, both professional and semi-skilled\r\n•  Dollars invested in the incubated businesses\r\n•  Revenue generated by the portfolio clients\r\n•  PortTech Pitch program participants that become portfolio clients\r\n•  Startup teams that establish businesses in the Harbor area\r\n•  Demonstration and pilot projects completed\r\n"
-  - name: two_lessons
+    answer: "PortTech helps entrepreneurs transform high-aspiration ideas into high-performance companies to solve pressing global challenges by supporting innovative technology startups linked to the ports/goods movement industry. \r\n\r\nThrough the PortTech Pitch program, PortTech identifies emerging technologies that address transportation, energy and environmental challenges. Many of these solutions address the impacts of port operations on local communities. The PortTech Pitch program is comprised of three phases – entrepreneur mentoring followed by the Pitch competition and EXPO.\r\n\r\nFirst, PortTech prepares startup companies for growth. The months-long Pitch program provides entrepreneurs with one-on-one coaching, constructive critiques and mock judging sessions to prepare them to vie for markets, audiences and resources to grow.\r\n\r\nSecond, PortTech’s Pitch Competition Finals readies startups for real-world competition. Finalists chosen from startups participating in the mentoring program present their companies to a panel of experts who judge their viability. The day-long contest draws hundreds of participants – entrepreneurs and investors, industry and civic leaders, students and researchers – who view the event live or via webcast. For many entrepreneurs, it’s the moment they pull the wraps off their idea and launch their company into the real world. \r\n\r\nThird, the PortTechEXPO engages Los Angeles-Long Beach port communities through top-notch speakers, tech demonstrations and industry panels. The EXPO attracts media attention and 600 professionals annually. Through the EXPO, PortTech provides meaningful education opportunities for local students and community members to learn about technology and innovation during panel discussions, guided tours, and conversations with entrepreneurs and port leaders.\r\n\r\nThis comprehensive three-pronged program is key to PortTech’s success and the growth of the entrepreneurial ecosystem in the region. It embodies the important work we do as we coach startup companies, showcase their good works publicly and explain to the broader community what our work is about.\r\n\r\nAs our entrepreneurs succeed they contribute to the local economy by creating jobs in marginalized communities adjacent to the Ports. By 2050, PortTech will be the nexus of a thriving technology and advanced manufacturing-based business cluster. The Ports will run cleaner, greener and more efficient. And the Harbor area will be an economic development engine in the L.A. region. "
+  - name: >-
+      Please list at least one major barrier/challenge you anticipate. What is
+      your strategy for overcoming these obstacles?
     label: ''
     explanation: ''
-    answer: "Customer/market-centric approach is key:\r\nWhen it comes to helping entrepreneurs, PortTech has learned that incorporating a customer/market-centric approach is key to success. PortTech focuses on connecting entrepreneurs to potential customers during early stages of development to determine what clean technology needs exist within the broader port ecosystem. Instead of going through R&D in isolation, PortTech clients have access to port representatives, maritime executives, and industry experts through trainings, events and one-on-one meetings.\r\n\r\nEntrepreneurs benefit from PortTech’s unique location in the heart of the San Pedro Bay Port Complex. The Ports of Los Angeles and Long Beach are home to hundreds of port tenant companies – from cargo terminal operators to freight forwarders, trucking companies to refineries, marinas to ship repair. There are countless opportunities for clean tech solutions. Furthermore, government policies require these companies to invest in technologies that improve the environment.  \r\n\r\nEstablish a broad, diverse, collaborative network:\r\nThrough our experience in working with hundreds of startup teams, we have come to the same conclusion as the Kauffman Foundation regarding the importance of networking – “Strong ecosystems foster successful entrepreneurs.” It’s so simple to state, yet the reality of establishing a diverse, collaborative network focused on a clear outcome takes time and a lot of effort. It is one of PortTech’s strengths and guiding principles. \r\n\r\nDuring the last five years, PortTech has built a vital ecosystem to support our entrepreneurs. This network includes faculty researchers, volunteer mentors from service and professional businesses and investor organizations, government agencies, elected officials, industry and community groups, and other business incubator organizations."
-  - name: achievable_goal
+    answer: "One major challenge is recruiting entrepreneurs. PortTech’s unique port/maritime focus is a market sector unfamiliar to many tech startups. The entrepreneurs often underestimate the business opportunities in this demanding and complex industrial environment.\r\n\r\nTo overcome this challenge, we educate entrepreneurs about the challenges and opportunities in and around ports worldwide. We broadcast this message globally to attract and engage innovators.\r\n\r\nAs we succeed in overcoming the first challenge, the second challenge is funding. PortTech is in an entrepreneurial stage of growth. We are expanding programs to serve an increasing number of portfolio clients. And we support entrepreneurs through the long process of business-building – from R&D to production to market acceptance. \r\n\r\nWe continue to raise our organization's profile, forge strong relationships, and support entrepreneurs to attract supporters. The Pitch program embodies all of these efforts to support fundraising."
+  - name: Please explain how you will evaluate your work.
     label: ''
     explanation: ''
-    answer: "Funding from the LA2050 Challenge Grant will support the continued development and enhancement of the already successful PortTech Pitch program. This program has attracted applicants from all over North America and is expanding globally through a network of partnerships. Each spring, PortTech begins outreach to the clean tech startup community, other incubators, accelerators and associations that work with or provide services to entrepreneurs. Simultaneously, the Cleantech Open launches their annual accelerator program and many of the entrepreneurs will participate in both the Pitch and the Cleantech Open – the two programs are complementary.\r\n\r\nPortTech also connects with startups and entrepreneurs at Southern California’s exceptional research universities (Caltech, UCI, UCLA, UCR and USC), investment groups and trade associations to find potential teams for the Pitch. The process has evolved to the point that these institutions and organizations are introducing PortTech to promising entrepreneurs and startups on a year-round basis. Once recruited, the startup teams are provided tools, techniques and resources to develop skills critical to leading and operating their business.\r\n\r\nThe program culminates with a final competition each September as the kick-off of the PortTech EXPO – the only maritime oriented clean tech exhibition on the West Coast. Participants in the Pitch are provided preferential exhibit space and winners are recognized during the EXPO luncheon.  Due to the intense level of coaching and support the startup teams receive through the months-long program, when selected finalists become PortTech portfolio clients, they are well on their way to implementing the strategies to continue building their businesses."
-  - name: major_challenges
+    answer: "In the short term, we measure success as follows:  \r\n1.\tOutreach: We track the level of participation in social media, attendance at events (professionals and students) and the number of applicants to the PortTech Pitch program.\r\n2.\tEducation: We analyze the quality of our programs and events through surveys, allowing us to continually refine and improve our offerings.\r\n3.\tMentoring: We videotape the entrepreneur presentations and mentor comments so that presenters can review their performance and incorporate feedback. We also video the final competition presentations. The “before vs after” presentations verify the tremendous improvements of entrepreneurs and validate the efficacy of the program.\r\n4.\tStudent Participation: Follow-up interviews are conducted with teachers to solicit feedback for program improvement.\r\n\r\nOver the long term, we measure progress using the following metrics:\r\n-\tJobs created\r\n-\tDollars invested\r\n-\tPilot projects initiated\r\n-\tBusinesses established in the Harbor area"
+  - name: >-
+      Are there other organizations doing similar work (whether complementary or
+      competitive)? What is unique about your proposed approach?
     label: ''
     explanation: ''
-    answer: "One major challenge is recruiting entrepreneurs to participate in PortTech’s program. While there are many startups in the clean technology field, PortTech’s unique port/maritime focus is a market sector unfamiliar to many entrepreneurs. They underestimate the business opportunities associated with implementing their technology in this demanding, complex industrial environment.\r\n\r\nTo overcome this challenge, we go beyond outreach to educate entrepreneurs and the service professionals who work with startups on the challenges and opportunities in and around ports. In addition to presentations, PortTech staff members spend considerable time meeting with entrepreneurs one-on-one to help them understand the vast market potential their technologies have with port applications. The opportunities extend beyond Southern California to ports worldwide.\r\n\r\nAlso, the number of entrepreneurs with clean technologies that have direct port applications is limited. To overcome this, we strive to find technologies that can be repurposed and adapted to ports and are expanding our search to a worldwide audience of entrepreneurs.\r\n\r\nThe second major challenge is funding. PortTech itself is in an entrepreneurial stage of growth. We are building and expanding programs to better serve and support an increasing number of portfolio clients. The need for PortTech’s incubator services is growing and the opportunities associated with the startup businesses we serve are growing even faster.\r\n\r\nPortTech’s mentoring activities do not stop after the PortTech Pitch program. We support our clean tech portfolio companies through the long-term path of business building – from R&D to production to market acceptance.  Some of PortTech’s first recruits are now achieving success obtaining customers and creating jobs. \r\n\r\nTo support this expanding base of clients, PortTech’s staff continues to cultivate partners, build relationships and pursue sources of funding. As clients continue to achieve success, we will attract more supporters, partners and sponsors and move forward as an established organization with a proven track record."
-  - name: competition
+    answer: "According to the National Business Incubator Association, in 2012 there were more than 1,250 incubators in the U.S. In the Los Angeles area alone, there are countless accelerators, incubators, and innovation opportunities – everything from Silicon Beach startup communities to the co-working spaces across the region, to the L.A. Cleantech Incubator downtown. PortTech is actively involved in this tech community collaborating with these organizations to build a network that supports entrepreneurs.\r\n\r\nYet, we are unique because PortTech is the ONLY clean tech incubator in the world focused on the port and maritime industry sectors. And we are the only tech incubator in L.A. using a customer/market-centric approach to connect entrepreneurs with business opportunities at ports worldwide.\r\n\r\nMany pitch events are held each year throughout the region. These activities allow entrepreneurs a chance to present their ideas in front of an audience. At the same time, they help connect the tech community and give entrepreneurs much needed opportunities to practice their presentations. But they don't involve the in-depth coaching sessions provided by PortTech’s program, nor do they connect entrepreneurs with port executives and potential customers.\r\n\r\nThe PortTechEXPO also embodies our unique customer/market-centric approach. There are numerous networking and technology showcase events scattered around the region and throughout the year. Los Angeles is also host to countless trade shows and expos focused on every industry imaginable. But the PortTechEXPO brings the best of both of these activities together by attracting entrepreneurs and investors as well as potential customers and collaborators from the port/maritime industry. In our collaborative fashion, we actively encourage participation from incubators and entrepreneurs involved in other competitions such as the Cleantech Open and Ocean Exchange. Many of the Pitch applicants come to us through the research departments at Southern California’s leading universities.\r\n\r\nAnd last but not least, we seek out student participation. Through our connection with ITEP (International Trade Education Programs) and direct outreach to area high schools and community colleges such as POLAHS (Port of Los Angeles High School), LA Harbor College and Long Beach City College, we establish connections to the future tech-savvy skilled workforce. By bringing the Pitch program to students we hope to foster the next generation of entrepreneurs. "
+  - name: >-
+      Please identify any partners or collaborators who will work with you on
+      this project. How much of the $100,000 grant award will each partner
+      receive?
     label: ''
     explanation: ''
-    answer: "According to the National Business Incubator Association, in October 2012 there were more than 1,250 incubators in the United States. In Los Angeles, there is a wide variety of startups, incubators, and innovation opportunities. This includes everything from Silicon Beach startups focused on developing IT solutions to the innovate!socal Conference for students to the L.A. Cleantech Incubator in downtown Los Angeles.\r\n\r\nPortTech is actively involved in this greater Los Angeles community fostering innovation and working together to build a network that supports entrepreneurs.\r\n\r\nYet, we are truly unique because PortTech is the ONLY clean tech incubator in the world focused on the port and maritime industry sectors. And we are the only tech incubator in Los Angeles using a customer/market-centric approach to connect entrepreneurs with business opportunities at ports worldwide."
-  - name: cost
-    label: ''
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: "PortTech operates on annual budget of approximately $1 million. Receipt of the LA2050 Grant Challenge award will cover the core staffing necessary to operate the PortTech Pitch program. Other expenses including overhead and administrative staff are supported through additional grants and sponsorships.  \r\n\r\nPortTech receives funding from the U.S. Department of Housing and Urban Development through the Community Development Block Grant (CDBG) awarded to the City of Los Angeles. A stated goal of the CDBG program is to create jobs through the expansion and retention of businesses. The program allocates grants to expand economic opportunities, principally for low- and moderate-income individuals.\r\n\r\nThe Port of Los Angeles and Port of Long Beach also sponsor PortTech programs and activities. Moving forward, we will continue seeking grant funding and sponsorships from philanthropic organizations and corporations to support our mission to create jobs and economic growth in the Harbor area.\r\n\r\nBuilding on the success of the PortTech Pitch program, we will seek additional support from corporate partners interested in participating in the program, both as volunteer advisors and economic contributors."
-  - name: budget
+    answer: "Collaboration is critical to successfully support entrepreneurs.  We work with the Ports of Los Angeles and Long Beach, as well as numerous port tenants including terminal operators and trucking companies to connect entrepreneurs to pilot project opportunities. Volunteer professional advisors provide entrepreneurs with expert advice across a wide range of topics from intellectual property to finance to marketing. Relationships with government agencies, elected officials, industry and community groups, and business incubator organizations all make up the ecosystem of resources that help entrepreneurs thrive. Through our partnerships with major Southern California universities, including USC, UCLA and Caltech, we connect student and faculty researchers with real-world business opportunities to support technology commercialization. \r\n\r\nIn addition to the existing collaborative efforts listed above, we will be partnering with two student organizations to increase youth participation in the PortTech Pitch events and plant seeds in developing future entrepreneurs and a skilled local workforce.\r\n•\tITEP – A nonprofit that develops innovative programs integrating internships and career mentoring with the curriculum of high schools throughout Southern California\r\n•\tPOLAHS – A college prep charter high school located in San Pedro with a strong environmental and port technology education program\r\n\r\nLA2050 Grants Challenge funding of $100,000 will be allocated as follows:\r\n•\tEntrepreneur Mentoring: $80,000 PortTech\r\n•\tStudent Activities: $20,000 Total; $17,000 ITEP, $3,000 POLAHS\r\n\r\nDue to budget limitations, in past years, students from three area schools were invited to participate in the PortTechEXPO. With funding from this grant, we will be able to double the number of schools participating, reaching more than 200 at-risk youth from the Harbor area. With ITEP’s assistance, we will develop activities and student guides aimed at increasing students’ understanding of entrepreneurism and the technologies that will help solve the challenges they face every day living in the shadow of the country’s largest port complex.\r\n\r\nStudent participation goals include: \r\n•\tDeveloping Los Angeles and Harbor area students on a path of entrepreneurial thinking\r\n•\tExpanding on school STEM curricula to connect students to real world problems \r\n•\tEncouraging students to connect to a broad entrepreneurial community \r\n•\tInspiring curiosity and awareness of challenges worth solving "
+  - name: >-
+      How much do you think this will cost? If more than $100,000 – how will you
+      cover the additional costs?
     label: ''
     explanation: ''
-    answer: "The LA2050 Challenge Grant award will fund critical staffing (human capital) needed to support the PortTech Pitch Program.\r\n\r\nPortTech employs a combination of face-to-face and social media activities designed to use limited resources as effectively as possible. With a budget of $28,000, PortTech can reach and educate 3,000+ entrepreneurs annually.\r\n\r\nOutreach/Education:\r\n•  Speaking/Presenting: outreach presentations to entrepreneurs - $6,000\r\n•  Marketing Communication: email and social media outreach, website content development, press release development - $13,000 \r\n•  Event Management: planning, scheduling and production - $10,000\r\n•  Technical Support: website maintenance, contact database management - $5,000\r\n\r\nBy engaging volunteer advisors, and building upon entrepreneur education programs like Cleantech Open, PortTech can provide in-depth mentoring services to a large pool of clean tech entrepreneurs. With a budget of $72,000, PortTech can mentor 80-100 startup teams annually.\r\n\r\nMentoring:\r\n•  Staff Advisors: one-on-one entrepreneur mentoring, pitch competition coaching - $68,000 (based on a 6-month program, an equivalent of ½ FTE)\r\n•  Technical Support: video recording and editing of entrepreneur presentations - $4,000\r\n"
-  - name: resources_money
+    answer: "The total budget for the PortTech Pitch program is as follows:\r\n\r\nProfessional Services:  $134,000\r\n•\tMentors/entrepreneur advisors:  $76,000\r\n•\tCommunity outreach:  $36,000\r\n•\tPitch volunteer coaches:  $10,000 (in-kind support)\r\n•\tProgram coordination:  $12,000\r\n\r\nEvent Production (Pitch Finals & EXPO):  $153,000\r\n•\tVenues:  $12,000\r\n•\tCatering:  $42,000\r\n•\tA/V equipment / services:  $22,000\r\n•\tProduction services:  $16,000\r\n•\tAdvertising / design / printing:  $9,000\r\n•\tCommunity outreach:  $20,000\r\n•\tVolunteer docents / judges:  $4,000 (in-kind support)\r\n\r\nStudent Participation at EXPO:  $20,000\r\n•\tSchool coordination:  $4,000\r\n•\tActivities planning:  $8,000\r\n•\tStudent transportation:  $5,000\r\n•\tLunch, materials:  $3,000\t\r\n\r\nPortTech’s total Pitch program budget is just over $300,000. \r\nThis budget supports:\r\n•\t3,000+ entrepreneurs learning about opportunities at Southern California ports\r\n•\t80-100 startup applications reviewed and pitch feedback received\r\n•\t20-25 entrepreneur teams provided in-depth mentoring services\r\n•\t150 attendees at the Pitch Competition Finals and Awards Celebration\r\n•\tCountless attendees (professionals and students) viewed Pitch presentations via webcast\r\n•\t600 professionals attend EXPO\r\n•\t200 high school students participate in EXPO\r\n\r\nFunding from the Ports of Los Angeles and Long Beach, along with additional corporate sponsorships and ticket sales help support the two events (Pitch Competition Finals and the PortTechEXPO) associated with the Pitch program. LA2050 grant funding will support the professional service needs of the program. Grant funding is critical to provide the caliber of entrepreneur support that the Pitch program is known for. If fundraising falls short of the budget, the choices are to support fewer entrepreneur teams, provide fewer mentorship hours to each team, or eliminate the student outreach expansion efforts.\r\n"
+  - name: >-
+      Please include a detailed budget of how you will use $100,000 to implement
+      this project.
+    label: ''
+    explanation: ''
+    answer: "LA2050 Grants Challenge funding of $100,000 will be used as follows:\r\nProfessional Services:  $80,000\r\n•\tMentors/entrepreneur advisor:  $56,000\r\n    o\tpresentation review entrepreneur pitches\r\n    o\tone-on-one entrepreneur mentoring \r\n    o\ttechnical support: video recording and editing\r\n•\tCommunity outreach:  $18,000\r\n    o\tspeaking engagements: outreach presentations to entrepreneurs\r\n    o\tcommunication: email, social media, website content, press release development \r\n•\tProgram coordination:  $6,000\r\n\r\nStudent Participation at EXPO:  $20,000\r\n•\tSchool coordination:  $4,000\r\n•\tActivities planning:  $8,000\r\n•\tStudent transportation:  $5,000\r\n•\tLunch, materials:  $3,000\r\n"
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Money (financial capital)
     label: Money (financial capital)
     explanation: ''
     answer: '1'
-  - name: resources_staff
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Volunteers/staff (human capital)
     label: Volunteers/staff (human capital)
     explanation: ''
     answer: '1'
-  - name: resources_publicity
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Publicity/awareness (social capital)
     label: Publicity/awareness (social capital)
     explanation: ''
     answer: '1'
-  - name: resources_infrastructure
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Infrastructure (building/space/vehicles, etc.)
     label: 'Infrastructure (building/space/vehicles, etc.)'
     explanation: ''
     answer: '0'
-  - name: resources_education
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Education/training
     label: Education/training
     explanation: ''
     answer: '0'
-  - name: resources_technical
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Technical infrastructure (computers, etc.)
     label: 'Technical infrastructure (computers, etc.)'
     explanation: ''
     answer: '0'
-  - name: resources_communityoutreach
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Community outreach
     label: Community outreach
     explanation: ''
     answer: '1'
-  - name: resources_network
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Network/relationship support
     label: Network/relationship support
     explanation: ''
     answer: '1'
-  - name: resources_research
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Quality improvement research
     label: Quality improvement research
     explanation: ''
     answer: '0'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Specifics
+    label: ''
+    explanation: ''
+    answer: ''
+  - name: How do you plan to scale the success of your proposal?
+    label: ''
+    explanation: ''
+    answer: "In the past three years, PortTech has continuously improved and expanded the Pitch program to reach more entrepreneurs, provide better and more in-depth coaching to the entrepreneurs, and attract the right audience to hear the presentations and attend the EXPO. \r\n\r\nWe can scale the program’s success in the following ways:\r\n\r\n•\tIncrease the number of entrepreneur applicants \r\n    o\tExpand outreach globally using more remote video coaching sessions and presentations\r\n    o\tBroaden applicant focus to include more digital entrepreneurs focused in the transportation and goods movement sector\r\n    o\tIncrease collaborative efforts with organizations such as Cleantech Open and Ocean Exchange to provide an opportunity for entrepreneurs to participate in multiple competitions\r\n\t\r\n•\tIncrease the number of attendees (at events and virtually)\r\n    o\tLeverage our network of incubators, universities and industry professionals to attract more attendees, particularly those outside of the LA area\r\n    o\tBuild relationships beyond Southern California, first along the West Coast and then nationally and internationally to attract a broader geographical audience\r\n\r\n•\tExpand student participation in the Pitch program\r\n    o\tLeverage the video webcast to expand outreach to schools in the greater Los Angeles area to increase student viewing of entrepreneur pitches\r\n    o\tWork with additional partners to introduce the entrepreneurial development process to high school students\r\n    o\tExpand the Pitch program to include a student entrepreneur pitch competition"
 body_class: blueberry
+organization_name: >-
+  PortTech Los Angeles, International Trade Education Programs (ITEP), Port of
+  Los Angeles High School (POLAHS)
 published: true
 
 ---

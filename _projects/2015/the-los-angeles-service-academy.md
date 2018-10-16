@@ -4,7 +4,14 @@ title: The Los Angeles Service Academy
 organization_id: '2018077'
 areas_impacted: ''
 partners: ''
-project_summary: "<p>LASA has been active since the summer of 2012. Our inaugural class of 20 high school juniors, one high school intern, two college interns, and seven high school teachers has met in a summer intensive Los Angeles history and culture seminar at The Huntington Library, and we've met one Saturday a month since then. Each Saturday session is focused on a different \"node\" of regional infrastructure. The day usually begins with a speaker and discussion, and then the LASA group goes into the field and to various sites which fit that day's themes. Our investigation of water started with a history overview of regional water development -- with rare documents -- and we then went to the dispersal facility for Colorado River water coming into the Metropolitan Water District system. Our business investigation took us to a private aerospace manufacturing facility, in business for 57 years, in Glendale, and a tour with that company's chief technologist. We ended that day with a discussion with Idealab executives and entrepreneurs. Our law enforcement day featured a morning with Connie Rice of the Advancement Project (we all read her book on the LAPD), and an afternoon tour with LAPD leaders of the new station and the regional 911 call center; we ended the day with a tour of SWAT team equipment and vehicles.  For our investigation of regional transit and transit history, we began our day with seminars by experts from The Getty and the Automobile Club of Southern California on the history of automobiles, freeways, and railroads in the region.  Following an on-foot journey from LAPL to Union Station, we met with the lead architectural design team tasked with re-imagining Union Station in the urban fabric of downtown (a stop at the Bradbury Building completed that day).  A more recent investigation of the entertainment landscape of Los Angeles took us to AEG's Staples Center, the GRAMMY Museum, the Disney Concert Hall, and an end-of-the-day Bunker Hill discussion with the architecture critic of the Los Angeles Times.  </p>\r\n\r\n<p>We believe our LASA students are getting to know the region, getting to know one another, and beginning to build lasting ties to their home and one another through LASA's commitment to fostering   engaged civic participation and civic education.  We believe that we are off to a great start.</p>"
+project_summary: >-
+  We seek philanthropic support to fund LASA's ongoing operations and next
+  cohort of student participants in the 2016-2017 programmatic year. 
+  Specifically, LASA brings together high school juniors from all over Los
+  Angeles County for an intensive week in the summer, plus one Saturday per
+  month during the school year. Each meeting combines experts with field trips
+  tied to themes critical to civic life in LA: transit, governance, water, the
+  LA River, the harbor, law enforcement, food/housing, etc.
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': |-
@@ -89,93 +96,528 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
-  Organization Name: The Huntington-USC Institute on California and the West
-  website: 'http://www.usc.edu/icw'
-  Indicator: ' Social Connectedness'
-  brief: "<p>The Los Angeles Service Academy (LASA) begins with questions. How does a city run? How does a vast metropolitan region like Los Angeles work? Which institutions are responsible for moving water, people, food, and power from points A to points Z? How are such agencies funded? Who runs them? How can neighborhoods be made more livable? What does an elected official do all day? What role do cultural institutions play in the life of Los Angeles? What about businesses and non-profits? What are the potential career paths for young people interested in civic, civil, and public service in the Los Angeles Basin? These are among the thousands of questions that students have about the city and region in which they live. There are a million more that they would have if they knew more about place, region, and history. </p>\r\n\r\n<p>Designed as a supplement to the regular school year, LASA provides an intensive introduction to the infrastructure and institutions of greater Los Angeles for high school juniors who have expressed an interest in public, civic, and civil service. Participants gain the experience and knowledge necessary to better understand the intricacies – infrastructural, historical, political, economic, and otherwise – of the region in which they live, and build lasting bonds of friendship, camaraderie, and work experience with a diverse group of peers. Students who successfully complete the program during the junior year are placed in internships during their senior year, and will receive assistance and mentoring in the college application process. </p>\r\n\r\n<p>Social connectedness is at the very heart of LASA’s mission. Our hope is that LASA will change the lives and career paths of hundreds of high school students in the region and will become an agent of change and community building across the Los Angeles basin. Throughout the year, LASA places particular emphasis on making certain that participants get to know one another personally, become familiar with one another’s region and/or neighborhood, and gain an appreciation for one another’s goals while participating in LASA (and beyond).</p>\r\n\r\n<p>Currently in its first full year of operation, LASA brings together a diverse and select group of 20-25 students and 6-8 high school teachers from across the Los Angeles basin; 80% of the student participants are from public schools. The students begin their examination of Los Angeles during an intense four-day Summer Institute (scheduled for July 29th- August 1 in 2013). The summer program will be followed by once-a-month sessions on Saturdays from September through May. Depending on the topic on a given day, students will gather in the morning at the Huntington Library or at the Central Branch of the Los Angeles Public Library. Each session will focus on a particular theme or module and will be guided by experts on the given topic. In 2013-2014, the topics will include water, transportation, business, local and county governance, business, museums and cultural institutions, sports and entertainment, downtown, the LA River, police and criminal justice, food and housing, and the harbor complex. </p>\r\n\r\n<p>Utilizing the astonishing archival resources of the Huntington Library and the Los Angeles Public Library, LASA will teach students about the historical growth of Los Angeles from the mid-nineteenth century forward. We will work from shared seminar readings (“homework” will be kept to a minimum), draw archival resources and personnel into our discussions, and build a collaborative working knowledge of Los Angeles history.</p>\r\n\r\n<p>Our seminars will be but step one of a two-step process as our work “in the classroom” will be supplemented by fieldwork. For example, our investigation of the history of Los Angeles water resources and water engineering will start from in-depth study of regional water history, hydrology, and the many interfaces between water history and water politics. On that same afternoon, LASA will visit one or more key water facilities in order to have first-hand and practical knowledge as to contemporary water issues in the greater Los Angeles Basin. During the past year, for instance, and again with reference to water, LASA visited the Metropolitan Water District’s Weymouth Treatment Plant in Azusa and the San Gabriel Dam. Future site visits might include Hansen Dam or the LADWP’s Hyperion Wastewater Treatment Plant. In all site visits, LASA participants meet with key personnel who are in a position to contribute to our discussions and investigations.</p>\r\n\r\n<p>The academic and investigative part of LASA takes place during the junior year. For those students who faithfully attend and take part in the required number of monthly meetings, LASA will facilitate internships during the senior year in collaboration with Leadership LA, the non-profit arm of the Los Angeles Chamber of Commerce, whose alumni work in agencies and institutions across the entire region.</p>"
-  budget explanation: "LASA Annual Budget\r\n\r\nLASA Summer Institute (four days)\r\n\r\nSpeaker Stipends\t\t\t\t                   $ 3,000\r\nTransportation\t\t\t\t\t           $ 3,000\r\nFood\t\t\t\t\t\t                   $ 3,000\t\r\nAdmissions Fees/Tickets for Site Visits\t   $ 3,000\r\nBooks for Participants\t\t\t\t           $ 2,000\r\n  \r\nLASA Thematic Modules (eight Saturdays)\r\n\r\nSpeaker Stipends\t\t\t\t                   $ 6,000\r\nTransportation\t\t\t\t\t           $ 5,000\r\nFood\t\t\t\t\t\t                   $ 6,000\t\r\nAdmissions Fees/Tickets for Site Visits\t   $ 5,000\r\nBooks for Participants\t\t\t\t           $ 3,500\t\t\t\r\n\r\nAdministrative Expenses\t\t\t\t\t\t\r\n\r\nLASA Web Design and Maintenance\t\t   $ 3,000\r\nPrinting Brochures and Other Materials\t   $ 2,000\r\nMiscellaneous Office Expenses\t\t\t   $ 1,500\r\n\r\nStipends for Undergraduate Interns\t\t   $ 3,000\r\nStipends for High School Teachers\t\t   $ 9,000\r\n             \r\nExecutive Director Stipend\r\nDouglas Smith\r\nTwelve months at $2500 per month\t\t   $ 30,000\r\n\r\nFounding Director Stipend\r\nProfessor William Deverell\r\nTwelve months at $1000 per month\t\t   $ 12,000\r\n\r\n\r\nTotal\t\t\t\t\t\t                   $100,000\r\n"
-  description: "<p>LASA inspires young people to think about their region and their future and how these are intertwined.  We aim to foster ties of community and connection between diverse groups of teenagers as we collectively explore how greater Los Angeles works.  Along the way, we will offer assistance to those students by way of collegiate counseling and mentoring internships across the basin.  Our LASA graduates will have foundational understanding of Los Angeles history and institutions as they move on in their education and into career paths.  By maintaining connections to one another and to what we learn together, LASA students and graduates will create new and lasting ties across region and background, ties which we hope will grow as LASA grows and as our student participants move into positions of public service in their lives and careers.</p>\r\n\r\n<p>LASA aims to change the lives of its student participants and, in so doing, change the future of Los Angeles for the better.</p>"
-  collaborators: "<p>LASA is directly partnered with the Huntington Library and the Los Angeles Public Library.  Leadership LA, the non-profit arm of the Los Angeles Chamber of Commerce, provides assistance in coordinating internship placements for LASA students during the senior year.</p>\r\n\r\n<p>In addition, LASA works closely with institutions helping facilitate our exploration of regional infrastructure.  In 2012-2013, LASA has visited, or will visit, Los Angeles City Hall, Warner Brothers Studios, the Metropolitan Water District's Weymouth Treatment Plant, the Glenair Corporation, LAPD headquarters, Union Station, Mudtown Farms in Watts, the Staples Center, the GRAMMY Museum, Disney Hall, the harbor complex, and LACMA.</p>"
-  success: "Our metrics for success will include both simple and complex measures.  In the short term, can we show that LASA expands its service year to year?  Can we build more partnerships with more schools, more teachers, more students, and more institutions?  Can we facilitate student interest in moving on to collegiate education, and can we bring important college-success tools and strategies to the students?  We can, and will, track these issues by reference to each student and each student's post-LASA trajectory.\r\n\r\nOn a more complicated level, can we foster bonds of commonality, community, and connectedness between and among our diverse group(s) of students and teachers?  Will friendships develop across region, background, or socio-economic status which help bridge the distances and differences in Los Angeles?  Although tracking such issues or such progress will be difficult, we expect to monitor these aspects of LASA success by way of careful attention paid to student goals, student progress, and student evaluations.\r\n\r\nMuch farther out, can we say -- eventually -- that LASA has fostered bonds of connection and community which serve to make Los Angeles more efficient and more humane when LASA graduates enter the workforce in civil, civil, and other service to our region?"
-  description1: "<p>LASA has been active since the summer of 2012. Our inaugural class of 20 high school juniors, one high school intern, two college interns, and seven high school teachers has met in a summer intensive Los Angeles history and culture seminar at The Huntington Library, and we've met one Saturday a month since then. Each Saturday session is focused on a different \"node\" of regional infrastructure. The day usually begins with a speaker and discussion, and then the LASA group goes into the field and to various sites which fit that day's themes. Our investigation of water started with a history overview of regional water development -- with rare documents -- and we then went to the dispersal facility for Colorado River water coming into the Metropolitan Water District system. Our business investigation took us to a private aerospace manufacturing facility, in business for 57 years, in Glendale, and a tour with that company's chief technologist. We ended that day with a discussion with Idealab executives and entrepreneurs. Our law enforcement day featured a morning with Connie Rice of the Advancement Project (we all read her book on the LAPD), and an afternoon tour with LAPD leaders of the new station and the regional 911 call center; we ended the day with a tour of SWAT team equipment and vehicles.  For our investigation of regional transit and transit history, we began our day with seminars by experts from The Getty and the Automobile Club of Southern California on the history of automobiles, freeways, and railroads in the region.  Following an on-foot journey from LAPL to Union Station, we met with the lead architectural design team tasked with re-imagining Union Station in the urban fabric of downtown (a stop at the Bradbury Building completed that day).  A more recent investigation of the entertainment landscape of Los Angeles took us to AEG's Staples Center, the GRAMMY Museum, the Disney Concert Hall, and an end-of-the-day Bunker Hill discussion with the architecture critic of the Los Angeles Times.  </p>\r\n\r\n<p>We believe our LASA students are getting to know the region, getting to know one another, and beginning to build lasting ties to their home and one another through LASA's commitment to fostering   engaged civic participation and civic education.  We believe that we are off to a great start.</p>"
-  description3: >-
-    While there are a number of mid-career programs aimed at educating
-    professionals about greater Los Angeles, its institutions and history, we
-    have found no comparable programs which aim to serve high school students.
-  vision: "<p>2050 is a long ways away.  But LASA is, in part, aimed precisely at that future.  37 years from now, can we point to a large body of LASA graduates?  More schools, more students, more teachers, more partnerships -- all serving to draw together regional ties of connection, education, and community?  </p>\r\n\r\n<p>Most exciting, can we look to a Los Angeles of 2050 in which LASA students have entered the realms of civil and civic service (professionally or otherwise) and can they, through the bonds established when they were much younger, find innovative ways to work together and to communicate beyond the challenges of size and metropolitan complexity?  Can LASA help pull our region together in common pursuit of the public good?</p>"
-  EIN: 95-1644589
-  Tax Status: ' Non-profit organization'
-  about_you: 'Los Angeles, CA'
-  Does your project impact Los Angeles County?: 'yes'
+  How did you hear about this challenge?: Previous applicant/newsletter
+  'City, State': 'Los Angeles, CA'
+  Organization(s) name(s): Los Angeles Service Academy
+  Organization(s) mailing address(es): "c/o The Huntington Library\r\n1151 Oxford Road\r\nSan Marino, CA  91108"
+  Organization(s) website(s): www.LAServiceAcademy.org
+  Organization(s) twitter handle(s): 'https://twitter.com/HUSC_ICW'
+  Organization(s) facebook handle(s): 'https://www.facebook.com/husc.icw'
+  Organization(s) instagram handle(s): ''
+  Please share the direct link for voters to sign up for your newsletter(s): LASA@Huntington.org
+  EIN (for each organization): 95-1644589
+  'Describe your organization(s): Non-profit': '1'
+  'Describe your organization(s): For-profit': '0'
+  'Describe your organization(s): Government': '0'
+  'Describe your organization(s): Other': '0'
+  'Describe your organization(s): Specifics': ''
+  'In one sentence, please describe what your organization does': >-
+    The Los Angeles Service Academy provides an intensive introduction to the
+    infrastructure and institutions of greater Los Angeles for high school
+    juniors who have expressed an interest in public service and civic
+    engagement.  
+  'In one to three sentences, please describe your proposal.': >-
+    We seek philanthropic support to fund LASA's ongoing operations and next
+    cohort of student participants in the 2016-2017 programmatic year. 
+    Specifically, LASA brings together high school juniors from all over Los
+    Angeles County for an intensive week in the summer, plus one Saturday per
+    month during the school year. Each meeting combines experts with field trips
+    tied to themes critical to civic life in LA: transit, governance, water, the
+    LA River, the harbor, law enforcement, food/housing, etc.
+  Please write a sample tweet to describe your submission.: >-
+    LASA empowers young people to become the city and region's problem solvers
+    of the future.
+  LA is the best place to LEARN: '1'
+  LA is the best place to CREATE: '1'
+  LA is the best place to PLAY: '1'
+  LA is the healthiest place to LIVE: '1'
+  Where will you be working? Central LA: '1'
+  Where will you be working? East LA: '1'
+  Where will you be working? San Gabriel Valley: '1'
+  Where will you be working? San Fernando Valley: '1'
+  Where will you be working? South LA: '1'
+  Where will you be working? Westside: '1'
+  Where will you be working? South Bay: '1'
+  Where will you be working? Antelope Valley: '0'
+  Where will you be working? County of Los Angeles (countywide): '1'
+  Where will you be working? City of Los Angeles: '1'
+  Where will you be working? LAUSD: '1'
+  Where will you be working? Other: '0'
+  Where will you be working? Specifics: ''
+  How do you plan to use these resources to make change? Conduct research: '1'
+  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
+  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  How do you plan to use these resources to make change? Implement and track policy: '0'
+  How do you plan to use these resources to make change? Other: '0'
+  How do you plan to use these resources to make change? Specifics: 'Make connections across regions, neighborhoods, schools, backgrounds.'
+  How will your proposal improve the following “Connect” metrics? Rates of volunteerism: '1'
+  How will your proposal improve the following “Connect” metrics? Voting rates by race: '0'
+  How will your proposal improve the following “Connect” metrics? Adults getting sufficient social & emotional support: '0'
+  How will your proposal improve the following “Connect” metrics? Median travel time to work: '0'
+  How will your proposal improve the following “Connect” metrics? Attendance at cultural events: '1'
+  How will your proposal improve the following “Connect” metrics? Number of public transit riders: '1'
+  How will your proposal improve the following “Connect” metrics? Participation in neighborhood councils: '1'
+  How will your proposal improve the following “Connect” metrics? Percentage of Angelenos that volunteer informally (Dream Metric): '0'
+  How will your proposal improve the following “Connect” metrics?  Government responsiveness to residents’ needs (Dream Metric): '1'
+  How will your proposal improve the following “Connect” metrics? Transit-accessible housing and employment (the share of housing units and percentage of jobs that are located near transit): '0'
+  How will your proposal improve the following “Connect” metrics? Total number of local social media friends and connections (Dream Metric): '0'
+  How will your proposal improve the following “Connect” metrics? Attendance at public/open streets gatherings (Dream Metric): '1'
+  How will your proposal improve the following “Connect” metrics? Residential segregation (Dream Metric): '0'
+  How will your proposal improve the following “Connect” metrics? Access to free wifi (Dream Metric): '0'
+  Describe in greater detail how you will make LA the best place to connect.: "LASA BEGINS WITH QUESTIONS. \r\n\r\nHow does a city run?  How does a vast metropolitan region like Los Angeles work?  Which institutions are responsible for moving water, people, food, and power from points A to points Z?  How are such agencies funded?  Who runs them?  How can neighborhoods be made more livable?  What does an elected official do all day?  What role do cultural institutions play in the life of greater Los Angeles?  What about businesses and non-profits?  What are the potential career paths for young people interested in civic, civil, and public service in the Los Angeles Basin?  These are among the thousands of questions that students have about the city and region in which they live. There are a million more that they would have if they knew more about place, region, and history.\r\n\r\nLASA participants (all high school juniors) will gain the experience and knowledge necessary to better understand the intricacies – infrastructural, historical, political, economic, and otherwise – of the region in which they live, and will build lasting bonds of friendship, camaraderie, and work experience with a diverse group of peers they connect with over the course of  a year.  Over time, LASA will change the lives and career paths of hundreds of high school students in the region and will become an agent of change, community building, and connection throughout Los Angeles.\r\n\r\nFor example, a perennial LASA theme is water: where does it come from? Who buys and sells it? How is it delivered to cities, regions, neighborhoods, homes?  In answering these questions, LASA's students meet with officials from agencies such as MWD and DWP and then visit water treatment and delivery facilities to see firsthand the complex processes at work in watering such a vast region.\r\n\r\nGarnering such knowledge will allow the students to become more civic minded and engaged with a critical aspect of life in the Los Angeles Basin.  Over the year, LASA grapples with other issues equally important to the future of the region and to every Southern California resident.  These include investigations of law enforcement and police oversight, business and entrepreneurialism, sports and entertainment, technology, governance and electoral politics, the harbor and the basin's rivers, food security, housing access, museums and cultural institutions.\r\n\r\nIn studying these issues, young people from across the entire basin will connect with one another and gain confidence in their roles as agents of change."
+  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "As we move into year five of our project, we recognize even more clearly that LASA works best when it reaches across the entire basin and when its student cohorts are reflective of the diversity of the region in all metrics.  Sustaining that breadth is a challenge, and we address it by way of rigorous outreach and face-to-face recruitment of young people.  Simultaneously, we work hard to develop and nurture LASA's relationships with a network of teachers, counselors, and school administrators who assist us in identifying young people who can become part of the program.\r\n\r\n\r\n\r\n"
+  Please explain how you will evaluate your work.: "We approach evaluation in two ways.  One, we monitor the program by way of annual evaluations from participants.  This process is a way of seeking ongoing feedback in order to make regular, modest adjustments to the program.  \r\n\r\nSecond, and more important, we have always maintained that the best measure of LASA's effectiveness will be evident in years ahead.  As our students graduate from high school, move on to college (which we track), and return to Los Angeles to begin careers, we believe that their time with LASA will enable them to become effective agents of change.  As they become increasingly engaged in civic life, our hope is that they will draw upon productive connections to one another, connections initially fostered when they were sixteen years old."
+  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "To our knowledge, there is no such program aimed at the region's young people.  The Los Angeles Chamber of Commerce, in its non-profit capacity, sponsors Leadership LA.  This is a program with LASA-like structure and aims, but it is entirely reserved for mid-career professionals (who pay to participate).\r\n\r\nLASA is offered at no cost to all participants."
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
+    LASA's two institutional partners -- The Huntington Library and the Los
+    Angeles Public Library -- offer in-kind support to the program (primarily
+    meeting spaces).  If successful with LA2050, LASA will utilize the entirety
+    of the $100,000 grant for programmatic use in 2016-2017 and 2017-2018.
+  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "LASA currently operates on an $85,000 budget annually.  LA2050 funds would be utilized at $50,000 for 2016-2017 and the same for the following year.\r\n\r\nWith LA2050 support, we feel confident that the additional $35,000 per year could be raised from other philanthropic sources -- several of which have indicated a willingness to help with such shortfalls if LA2050 funds are provided.\r\n\r\n"
+  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$80,000 total:\r\n\r\n$7000 expert stipends\r\n$6000 teacher participant stipends\r\n$6000 tickets (harbor, kayaking LA River, various admission fees)\r\n$7000 bus transportation\r\n$10,000 food/snacks/water\r\n$4000 book purchases\r\n$2500 website design/maintenance and communication\r\n$ 500  misc\r\n$42,000 director stipends (2)"
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How do you plan to scale the success of your proposal?: >-
+    LASA has grown.  From an initial class of 20 students in 2011-2012, we now
+    have a class of 35 students.  We would like to increase the size of a given
+    class to between 40 and 50 students per year. More than that on an annual
+    basis would inhibit the connections and lines of engagement fostered
+    throughout the year.  However, we would like to continue to grow the program
+    beyond the aggregation of "students served."  We are considering
+    programmatic "wings" to LASA's central, student-participant model, but we
+    have made no firm decisions in this regard as yet.
 maker_answers_list:
-  - name: Organization Name
-    label: ''
-    explanation: ''
-    answer: The Huntington-USC Institute on California and the West
-  - name: website
-    label: 'NULL'
+  - name: How did you hear about this challenge?
+    label: How did you hear about this challenge?
     explanation: >-
-      Have a homepage or blog you'd like to link to? Put the URL here.
-      <br/>(Example: http://www.yoursite.com)
-    answer: 'http://www.usc.edu/icw'
-  - name: Indicator
-    label: ''
+      Please tell us how you found about the challenge (eg. Facebook/Twitter,
+      newsletter, friend, etc).
+    answer: Previous applicant/newsletter
+  - name: 'City, State'
+    label: 'City, State'
+    explanation: 'Please follow this format: Los Angeles, CA'
+    answer: 'Los Angeles, CA'
+  - name: Organization(s) name(s)
+    label: Organization(s) name(s)
     explanation: >-
-      Please select the one indicator that is most relevant to your project or
-      organization
-    answer: ' Social Connectedness'
-  - name: brief
+      Please list the names of all organizations if there are more than one
+      organization involved.
+    answer: Los Angeles Service Academy
+  - name: Organization(s) mailing address(es)
+    label: Organization(s) mailing address(es)
+    explanation: >-
+      Please list all mailing addresses if there are more than one organization
+      involved. Please follow the format: 1234 Wilshire Blvd, Los Angeles, CA
+      90048
+    answer: "c/o The Huntington Library\r\n1151 Oxford Road\r\nSan Marino, CA  91108"
+  - name: Organization(s) website(s)
+    label: Organization(s) website(s)
+    explanation: 'Please follow this format: www.LA2050.org'
+    answer: www.LAServiceAcademy.org
+  - name: Organization(s) twitter handle(s)
+    label: Organization(s) twitter handle(s)
+    explanation: 'Please follow this format: www.twitter.com/LA2050'
+    answer: 'https://twitter.com/HUSC_ICW'
+  - name: Organization(s) facebook handle(s)
+    label: Organization(s) facebook handle(s)
+    explanation: 'Please follow this format: www.facebook.com/LA2050'
+    answer: 'https://www.facebook.com/husc.icw'
+  - name: Organization(s) instagram handle(s)
+    label: Organization(s) instagram handle(s)
+    explanation: 'Please follow this format: www.instagram.com/LA2050'
+    answer: ''
+  - name: Please share the direct link for voters to sign up for your newsletter(s)
+    label: Please share the direct link for voters to sign up for your newsletter(s)
+    explanation: ''
+    answer: LASA@Huntington.org
+  - name: EIN (for each organization)
+    label: EIN (for each organization)
+    explanation: 'Please follow this format: xx-xxxxxxx'
+    answer: 95-1644589
+  - name: 'Describe your organization(s): Non-profit'
+    label: Non-profit organization
+    explanation: ''
+    answer: '1'
+  - name: 'Describe your organization(s): For-profit'
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: 'Describe your organization(s): Government'
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: 'Describe your organization(s): Other'
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: 'Describe your organization(s): Specifics'
     label: ''
     explanation: ''
-    answer: "<p>The Los Angeles Service Academy (LASA) begins with questions. How does a city run? How does a vast metropolitan region like Los Angeles work? Which institutions are responsible for moving water, people, food, and power from points A to points Z? How are such agencies funded? Who runs them? How can neighborhoods be made more livable? What does an elected official do all day? What role do cultural institutions play in the life of Los Angeles? What about businesses and non-profits? What are the potential career paths for young people interested in civic, civil, and public service in the Los Angeles Basin? These are among the thousands of questions that students have about the city and region in which they live. There are a million more that they would have if they knew more about place, region, and history. </p>\r\n\r\n<p>Designed as a supplement to the regular school year, LASA provides an intensive introduction to the infrastructure and institutions of greater Los Angeles for high school juniors who have expressed an interest in public, civic, and civil service. Participants gain the experience and knowledge necessary to better understand the intricacies – infrastructural, historical, political, economic, and otherwise – of the region in which they live, and build lasting bonds of friendship, camaraderie, and work experience with a diverse group of peers. Students who successfully complete the program during the junior year are placed in internships during their senior year, and will receive assistance and mentoring in the college application process. </p>\r\n\r\n<p>Social connectedness is at the very heart of LASA’s mission. Our hope is that LASA will change the lives and career paths of hundreds of high school students in the region and will become an agent of change and community building across the Los Angeles basin. Throughout the year, LASA places particular emphasis on making certain that participants get to know one another personally, become familiar with one another’s region and/or neighborhood, and gain an appreciation for one another’s goals while participating in LASA (and beyond).</p>\r\n\r\n<p>Currently in its first full year of operation, LASA brings together a diverse and select group of 20-25 students and 6-8 high school teachers from across the Los Angeles basin; 80% of the student participants are from public schools. The students begin their examination of Los Angeles during an intense four-day Summer Institute (scheduled for July 29th- August 1 in 2013). The summer program will be followed by once-a-month sessions on Saturdays from September through May. Depending on the topic on a given day, students will gather in the morning at the Huntington Library or at the Central Branch of the Los Angeles Public Library. Each session will focus on a particular theme or module and will be guided by experts on the given topic. In 2013-2014, the topics will include water, transportation, business, local and county governance, business, museums and cultural institutions, sports and entertainment, downtown, the LA River, police and criminal justice, food and housing, and the harbor complex. </p>\r\n\r\n<p>Utilizing the astonishing archival resources of the Huntington Library and the Los Angeles Public Library, LASA will teach students about the historical growth of Los Angeles from the mid-nineteenth century forward. We will work from shared seminar readings (“homework” will be kept to a minimum), draw archival resources and personnel into our discussions, and build a collaborative working knowledge of Los Angeles history.</p>\r\n\r\n<p>Our seminars will be but step one of a two-step process as our work “in the classroom” will be supplemented by fieldwork. For example, our investigation of the history of Los Angeles water resources and water engineering will start from in-depth study of regional water history, hydrology, and the many interfaces between water history and water politics. On that same afternoon, LASA will visit one or more key water facilities in order to have first-hand and practical knowledge as to contemporary water issues in the greater Los Angeles Basin. During the past year, for instance, and again with reference to water, LASA visited the Metropolitan Water District’s Weymouth Treatment Plant in Azusa and the San Gabriel Dam. Future site visits might include Hansen Dam or the LADWP’s Hyperion Wastewater Treatment Plant. In all site visits, LASA participants meet with key personnel who are in a position to contribute to our discussions and investigations.</p>\r\n\r\n<p>The academic and investigative part of LASA takes place during the junior year. For those students who faithfully attend and take part in the required number of monthly meetings, LASA will facilitate internships during the senior year in collaboration with Leadership LA, the non-profit arm of the Los Angeles Chamber of Commerce, whose alumni work in agencies and institutions across the entire region.</p>"
-  - name: budget explanation
-    label: ''
-    explanation: ''
-    answer: "LASA Annual Budget\r\n\r\nLASA Summer Institute (four days)\r\n\r\nSpeaker Stipends\t\t\t\t                   $ 3,000\r\nTransportation\t\t\t\t\t           $ 3,000\r\nFood\t\t\t\t\t\t                   $ 3,000\t\r\nAdmissions Fees/Tickets for Site Visits\t   $ 3,000\r\nBooks for Participants\t\t\t\t           $ 2,000\r\n  \r\nLASA Thematic Modules (eight Saturdays)\r\n\r\nSpeaker Stipends\t\t\t\t                   $ 6,000\r\nTransportation\t\t\t\t\t           $ 5,000\r\nFood\t\t\t\t\t\t                   $ 6,000\t\r\nAdmissions Fees/Tickets for Site Visits\t   $ 5,000\r\nBooks for Participants\t\t\t\t           $ 3,500\t\t\t\r\n\r\nAdministrative Expenses\t\t\t\t\t\t\r\n\r\nLASA Web Design and Maintenance\t\t   $ 3,000\r\nPrinting Brochures and Other Materials\t   $ 2,000\r\nMiscellaneous Office Expenses\t\t\t   $ 1,500\r\n\r\nStipends for Undergraduate Interns\t\t   $ 3,000\r\nStipends for High School Teachers\t\t   $ 9,000\r\n             \r\nExecutive Director Stipend\r\nDouglas Smith\r\nTwelve months at $2500 per month\t\t   $ 30,000\r\n\r\nFounding Director Stipend\r\nProfessor William Deverell\r\nTwelve months at $1000 per month\t\t   $ 12,000\r\n\r\n\r\nTotal\t\t\t\t\t\t                   $100,000\r\n"
-  - name: description
-    label: ''
-    explanation: ''
-    answer: "<p>LASA inspires young people to think about their region and their future and how these are intertwined.  We aim to foster ties of community and connection between diverse groups of teenagers as we collectively explore how greater Los Angeles works.  Along the way, we will offer assistance to those students by way of collegiate counseling and mentoring internships across the basin.  Our LASA graduates will have foundational understanding of Los Angeles history and institutions as they move on in their education and into career paths.  By maintaining connections to one another and to what we learn together, LASA students and graduates will create new and lasting ties across region and background, ties which we hope will grow as LASA grows and as our student participants move into positions of public service in their lives and careers.</p>\r\n\r\n<p>LASA aims to change the lives of its student participants and, in so doing, change the future of Los Angeles for the better.</p>"
-  - name: collaborators
-    label: ''
-    explanation: ''
-    answer: "<p>LASA is directly partnered with the Huntington Library and the Los Angeles Public Library.  Leadership LA, the non-profit arm of the Los Angeles Chamber of Commerce, provides assistance in coordinating internship placements for LASA students during the senior year.</p>\r\n\r\n<p>In addition, LASA works closely with institutions helping facilitate our exploration of regional infrastructure.  In 2012-2013, LASA has visited, or will visit, Los Angeles City Hall, Warner Brothers Studios, the Metropolitan Water District's Weymouth Treatment Plant, the Glenair Corporation, LAPD headquarters, Union Station, Mudtown Farms in Watts, the Staples Center, the GRAMMY Museum, Disney Hall, the harbor complex, and LACMA.</p>"
-  - name: success
-    label: ''
-    explanation: ''
-    answer: "Our metrics for success will include both simple and complex measures.  In the short term, can we show that LASA expands its service year to year?  Can we build more partnerships with more schools, more teachers, more students, and more institutions?  Can we facilitate student interest in moving on to collegiate education, and can we bring important college-success tools and strategies to the students?  We can, and will, track these issues by reference to each student and each student's post-LASA trajectory.\r\n\r\nOn a more complicated level, can we foster bonds of commonality, community, and connectedness between and among our diverse group(s) of students and teachers?  Will friendships develop across region, background, or socio-economic status which help bridge the distances and differences in Los Angeles?  Although tracking such issues or such progress will be difficult, we expect to monitor these aspects of LASA success by way of careful attention paid to student goals, student progress, and student evaluations.\r\n\r\nMuch farther out, can we say -- eventually -- that LASA has fostered bonds of connection and community which serve to make Los Angeles more efficient and more humane when LASA graduates enter the workforce in civil, civil, and other service to our region?"
-  - name: description1
-    label: ''
-    explanation: ''
-    answer: "<p>LASA has been active since the summer of 2012. Our inaugural class of 20 high school juniors, one high school intern, two college interns, and seven high school teachers has met in a summer intensive Los Angeles history and culture seminar at The Huntington Library, and we've met one Saturday a month since then. Each Saturday session is focused on a different \"node\" of regional infrastructure. The day usually begins with a speaker and discussion, and then the LASA group goes into the field and to various sites which fit that day's themes. Our investigation of water started with a history overview of regional water development -- with rare documents -- and we then went to the dispersal facility for Colorado River water coming into the Metropolitan Water District system. Our business investigation took us to a private aerospace manufacturing facility, in business for 57 years, in Glendale, and a tour with that company's chief technologist. We ended that day with a discussion with Idealab executives and entrepreneurs. Our law enforcement day featured a morning with Connie Rice of the Advancement Project (we all read her book on the LAPD), and an afternoon tour with LAPD leaders of the new station and the regional 911 call center; we ended the day with a tour of SWAT team equipment and vehicles.  For our investigation of regional transit and transit history, we began our day with seminars by experts from The Getty and the Automobile Club of Southern California on the history of automobiles, freeways, and railroads in the region.  Following an on-foot journey from LAPL to Union Station, we met with the lead architectural design team tasked with re-imagining Union Station in the urban fabric of downtown (a stop at the Bradbury Building completed that day).  A more recent investigation of the entertainment landscape of Los Angeles took us to AEG's Staples Center, the GRAMMY Museum, the Disney Concert Hall, and an end-of-the-day Bunker Hill discussion with the architecture critic of the Los Angeles Times.  </p>\r\n\r\n<p>We believe our LASA students are getting to know the region, getting to know one another, and beginning to build lasting ties to their home and one another through LASA's commitment to fostering   engaged civic participation and civic education.  We believe that we are off to a great start.</p>"
-  - name: description3
+    answer: ''
+  - name: 'In one sentence, please describe what your organization does'
     label: ''
     explanation: ''
     answer: >-
-      While there are a number of mid-career programs aimed at educating
-      professionals about greater Los Angeles, its institutions and history, we
-      have found no comparable programs which aim to serve high school students.
-  - name: vision
+      The Los Angeles Service Academy provides an intensive introduction to the
+      infrastructure and institutions of greater Los Angeles for high school
+      juniors who have expressed an interest in public service and civic
+      engagement.  
+  - name: 'In one to three sentences, please describe your proposal.'
     label: ''
     explanation: ''
-    answer: "<p>2050 is a long ways away.  But LASA is, in part, aimed precisely at that future.  37 years from now, can we point to a large body of LASA graduates?  More schools, more students, more teachers, more partnerships -- all serving to draw together regional ties of connection, education, and community?  </p>\r\n\r\n<p>Most exciting, can we look to a Los Angeles of 2050 in which LASA students have entered the realms of civil and civic service (professionally or otherwise) and can they, through the bonds established when they were much younger, find innovative ways to work together and to communicate beyond the challenges of size and metropolitan complexity?  Can LASA help pull our region together in common pursuit of the public good?</p>"
-  - name: EIN
-    label: EIN
+    answer: >-
+      We seek philanthropic support to fund LASA's ongoing operations and next
+      cohort of student participants in the 2016-2017 programmatic year. 
+      Specifically, LASA brings together high school juniors from all over Los
+      Angeles County for an intensive week in the summer, plus one Saturday per
+      month during the school year. Each meeting combines experts with field
+      trips tied to themes critical to civic life in LA: transit, governance,
+      water, the LA River, the harbor, law enforcement, food/housing, etc.
+  - name: Please write a sample tweet to describe your submission.
+    label: ''
     explanation: ''
-    answer: 95-1644589
-  - name: Tax Status
-    label: Are you a for profit organization or non-profit organization?
+    answer: >-
+      LASA empowers young people to become the city and region's problem solvers
+      of the future.
+  - name: LA is the best place to LEARN
+    label: LA is the best place to LEARN
     explanation: ''
-    answer: ' Non-profit organization'
-  - name: about_you
-    label: 'City, State'
-    explanation: 'NULL'
-    answer: 'Los Angeles, CA'
-  - name: Does your project impact Los Angeles County?
-    label: Does your project impact Los Angeles County?
-    explanation: Does your project impact Los Angeles County?
-    answer: 'yes'
+    answer: '1'
+  - name: LA is the best place to CREATE
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '1'
+  - name: LA is the best place to PLAY
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: LA is the healthiest place to LIVE
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? Central LA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? East LA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? San Gabriel Valley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? San Fernando Valley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? South LA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? Westside
+    label: Westside
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? South Bay
+    label: South Bay
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? Antelope Valley
+    label: Antelope Valley
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? County of Los Angeles (countywide)
+    label: County of Los Angeles (countywide)
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? City of Los Angeles
+    label: City of Los Angeles (citywide)
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? LAUSD
+    label: LAUSD
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Specifics
+    label: e.g. Third Street Middle School; Boyle Heights; LA County
+    explanation: ''
+    answer: ''
+  - name: How do you plan to use these resources to make change? Conduct research
+    label: Conduct research
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Engage residents
+      and stakeholders
+    label: Engage residents and stakeholders
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Implement a pilot
+      or new project
+    label: Implement a pilot or new project
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How do you plan to use these resources to make change? Expand a pilot or
+      program
+    label: Expand a pilot or program
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Mobilize for
+      systems change
+    label: Mobilize for systems change
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How do you plan to use these resources to make change?  Advocate with
+      policymakers and leaders
+    label: Advocate with policymakers and leaders
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Implement and track
+      policy
+    label: Implement and track policy
+    explanation: ''
+    answer: '0'
+  - name: How do you plan to use these resources to make change? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: How do you plan to use these resources to make change? Specifics
+    label: ''
+    explanation: ''
+    answer: 'Make connections across regions, neighborhoods, schools, backgrounds.'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Rates of
+      volunteerism
+    label: Rates of volunteerism
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Voting
+      rates by race
+    label: Voting rates by race
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Adults
+      getting sufficient social & emotional support
+    label: Adults getting sufficient social & emotional support
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Median
+      travel time to work
+    label: Median travel time to work
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Attendance
+      at cultural events
+    label: Attendance at cultural events
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Number of
+      public transit riders
+    label: Number of public transit riders
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics?
+      Participation in neighborhood councils
+    label: Participation in neighborhood councils
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Percentage
+      of Angelenos that volunteer informally (Dream Metric)
+    label: Percentage of Angelenos that volunteer informally (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? 
+      Government responsiveness to residents’ needs (Dream Metric)
+    label: Government responsiveness to residents’ needs (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics?
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    label: >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Total
+      number of local social media friends and connections (Dream Metric)
+    label: Total number of local social media friends and connections (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Attendance
+      at public/open streets gatherings (Dream Metric)
+    label: Attendance at public/open streets gatherings (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics?
+      Residential segregation (Dream Metric)
+    label: Residential segregation (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How will your proposal improve the following “Connect” metrics? Access to
+      free wifi (Dream Metric)
+    label: Access to free wifi (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: Describe in greater detail how you will make LA the best place to connect.
+    label: ''
+    explanation: ''
+    answer: "LASA BEGINS WITH QUESTIONS. \r\n\r\nHow does a city run?  How does a vast metropolitan region like Los Angeles work?  Which institutions are responsible for moving water, people, food, and power from points A to points Z?  How are such agencies funded?  Who runs them?  How can neighborhoods be made more livable?  What does an elected official do all day?  What role do cultural institutions play in the life of greater Los Angeles?  What about businesses and non-profits?  What are the potential career paths for young people interested in civic, civil, and public service in the Los Angeles Basin?  These are among the thousands of questions that students have about the city and region in which they live. There are a million more that they would have if they knew more about place, region, and history.\r\n\r\nLASA participants (all high school juniors) will gain the experience and knowledge necessary to better understand the intricacies – infrastructural, historical, political, economic, and otherwise – of the region in which they live, and will build lasting bonds of friendship, camaraderie, and work experience with a diverse group of peers they connect with over the course of  a year.  Over time, LASA will change the lives and career paths of hundreds of high school students in the region and will become an agent of change, community building, and connection throughout Los Angeles.\r\n\r\nFor example, a perennial LASA theme is water: where does it come from? Who buys and sells it? How is it delivered to cities, regions, neighborhoods, homes?  In answering these questions, LASA's students meet with officials from agencies such as MWD and DWP and then visit water treatment and delivery facilities to see firsthand the complex processes at work in watering such a vast region.\r\n\r\nGarnering such knowledge will allow the students to become more civic minded and engaged with a critical aspect of life in the Los Angeles Basin.  Over the year, LASA grapples with other issues equally important to the future of the region and to every Southern California resident.  These include investigations of law enforcement and police oversight, business and entrepreneurialism, sports and entertainment, technology, governance and electoral politics, the harbor and the basin's rivers, food security, housing access, museums and cultural institutions.\r\n\r\nIn studying these issues, young people from across the entire basin will connect with one another and gain confidence in their roles as agents of change."
+  - name: >-
+      Please list at least one major barrier/challenge you anticipate. What is
+      your strategy for overcoming these obstacles?
+    label: ''
+    explanation: ''
+    answer: "As we move into year five of our project, we recognize even more clearly that LASA works best when it reaches across the entire basin and when its student cohorts are reflective of the diversity of the region in all metrics.  Sustaining that breadth is a challenge, and we address it by way of rigorous outreach and face-to-face recruitment of young people.  Simultaneously, we work hard to develop and nurture LASA's relationships with a network of teachers, counselors, and school administrators who assist us in identifying young people who can become part of the program.\r\n\r\n\r\n\r\n"
+  - name: Please explain how you will evaluate your work.
+    label: ''
+    explanation: ''
+    answer: "We approach evaluation in two ways.  One, we monitor the program by way of annual evaluations from participants.  This process is a way of seeking ongoing feedback in order to make regular, modest adjustments to the program.  \r\n\r\nSecond, and more important, we have always maintained that the best measure of LASA's effectiveness will be evident in years ahead.  As our students graduate from high school, move on to college (which we track), and return to Los Angeles to begin careers, we believe that their time with LASA will enable them to become effective agents of change.  As they become increasingly engaged in civic life, our hope is that they will draw upon productive connections to one another, connections initially fostered when they were sixteen years old."
+  - name: >-
+      Are there other organizations doing similar work (whether complementary or
+      competitive)? What is unique about your proposed approach?
+    label: ''
+    explanation: ''
+    answer: "To our knowledge, there is no such program aimed at the region's young people.  The Los Angeles Chamber of Commerce, in its non-profit capacity, sponsors Leadership LA.  This is a program with LASA-like structure and aims, but it is entirely reserved for mid-career professionals (who pay to participate).\r\n\r\nLASA is offered at no cost to all participants."
+  - name: >-
+      Please identify any partners or collaborators who will work with you on
+      this project. How much of the $100,000 grant award will each partner
+      receive?
+    label: ''
+    explanation: ''
+    answer: >-
+      LASA's two institutional partners -- The Huntington Library and the Los
+      Angeles Public Library -- offer in-kind support to the program (primarily
+      meeting spaces).  If successful with LA2050, LASA will utilize the
+      entirety of the $100,000 grant for programmatic use in 2016-2017 and
+      2017-2018.
+  - name: >-
+      How much do you think this will cost? If more than $100,000 – how will you
+      cover the additional costs?
+    label: ''
+    explanation: ''
+    answer: "LASA currently operates on an $85,000 budget annually.  LA2050 funds would be utilized at $50,000 for 2016-2017 and the same for the following year.\r\n\r\nWith LA2050 support, we feel confident that the additional $35,000 per year could be raised from other philanthropic sources -- several of which have indicated a willingness to help with such shortfalls if LA2050 funds are provided.\r\n\r\n"
+  - name: >-
+      Please include a detailed budget of how you will use $100,000 to implement
+      this project.
+    label: ''
+    explanation: ''
+    answer: "$80,000 total:\r\n\r\n$7000 expert stipends\r\n$6000 teacher participant stipends\r\n$6000 tickets (harbor, kayaking LA River, various admission fees)\r\n$7000 bus transportation\r\n$10,000 food/snacks/water\r\n$4000 book purchases\r\n$2500 website design/maintenance and communication\r\n$ 500  misc\r\n$42,000 director stipends (2)"
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Money (financial capital)
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Volunteers/staff (human capital)
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Publicity/awareness (social capital)
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Infrastructure (building/space/vehicles, etc.)
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Education/training
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Technical infrastructure (computers, etc.)
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Community outreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Network/relationship support
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Quality improvement research
+    label: Quality improvement research
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Specifics
+    label: ''
+    explanation: ''
+    answer: ''
+  - name: How do you plan to scale the success of your proposal?
+    label: ''
+    explanation: ''
+    answer: >-
+      LASA has grown.  From an initial class of 20 students in 2011-2012, we now
+      have a class of 35 students.  We would like to increase the size of a
+      given class to between 40 and 50 students per year. More than that on an
+      annual basis would inhibit the connections and lines of engagement
+      fostered throughout the year.  However, we would like to continue to grow
+      the program beyond the aggregation of "students served."  We are
+      considering programmatic "wings" to LASA's central, student-participant
+      model, but we have made no firm decisions in this regard as yet.
 body_class: strawberry
+organization_name: Los Angeles Service Academy
 published: true
 
 ---
