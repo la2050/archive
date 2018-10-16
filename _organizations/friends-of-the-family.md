@@ -20,7 +20,7 @@ ein: ''
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1711077255741-team90.JPG
-project_video: 'https://www.youtube.com/embed/DA24svvRWgw?rel=0&amp;showinfo=0'
+project_video: 'https://www.youtube.com/watch?time_continue=6&v=2PabPmta-1g'
 project_ids:
   - '6102075'
 project_titles:
