@@ -387,7 +387,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   <p>This vision of the future begins by giving communities the information and
   tools they need to reclaim and repurpose these underutilized spaces.</p>
 year_submitted: 2013
-project_video: 'https://www.youtube.com/embed/LNEfCtvn51o'
+project_video: 
 youtube_video_identifier: LNEfCtvn51o
 maker_answers:
   Organization Name: 'Community Health Councils, C-Lab (Columbia University), 596 Acres'
