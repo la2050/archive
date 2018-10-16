@@ -13,7 +13,7 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 organization_website:
   - www.la2015.org
 twitter: 'https://twitter.com/LosAngeles2015'
-instagram: 'http://instagram.com/la2015worldgames'
+instagram: 'https://www.instagram.com/la2015/'
 facebook: www.facebook.com/LA2015
 ein: '452853870'
 zip: '90071'
