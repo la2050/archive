@@ -15,8 +15,8 @@ organization_activity: >-
   poverty, protect them from abuse and neglect, and ensure their access to
   education, healthcare, and a resource-rich community.
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1711077255741-team90.JPG
-project_video: 'https://www.youtube.com/embed/DA24svvRWgw?rel=0&amp;showinfo=0'
+  https://pbs.twimg.com/media/CG_-kYbUYAAlzi6.jpg:large
+  project_video: ''
 project_summary: >-
   The Man2Man Project will connect multiple generations of men and boys for the
   dual purpose of helping young dads to become great fathers and preventing
