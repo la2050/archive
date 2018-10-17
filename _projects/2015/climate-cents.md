@@ -5,8 +5,13 @@ organization_id: '2015037'
 areas_impacted: ''
 partners: ''
 project_summary: >-
-  Climate Cents is an online platform that connects Angelenos to local projects
-  that improve LA’s environment and reduce greenhouse gases.
+  In a divided, distracted, disconnected city, Climate Cents brings people
+  together by showcasing local environmental initiatives, and making it easy to
+  get involved. When you donate your money or time, you’ll instantly receive the
+  gratification of knowing the difference you’re making – a stream of
+  personalized metrics like CO2 reductions, plus inspiring photos and data
+  visualizations. It’s simple to share these on social media, motivate your
+  friends to take action and maximize your impact.
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -25,426 +30,514 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
-  city_state: 'Los Angeles, CA'
-  org_name: Climate Cents
-  org_website: www.ClimateCents.org
-  org_twitter: www.twitter.com/ClimateCents
-  org_facebook: ''
-  org_instagram: ''
-  org_mailingaddress: "908 California Ave.\r\nVenice, CA 90291"
-  EIN: '237186016'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  one_sentence_org: >-
-    Climate Cents is an online platform that connects Angelenos to local
-    projects that improve LA’s environment and reduce greenhouse gases.
-  describe_idea: >-
-    Climate Cents is an online platform that connects Angelenos to local
-    projects that improve LA’s environment and reduce greenhouse gases.
-  describe_organization: >-
-    Time to save the world! @ClimateCents connects you to LA projects and tracks
-    carbon data. #reallife #superheroes #climatechange
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    Climate Cents provides a way for Angelenos to improve LA’s environment and
-    connect with their neighbors across the city while helping to prevent
-    climate change. When Angelenos go to the CC website, they sign up to support
-    environmental projects of their choosing with a small monthly contribution.
-    These projects, run by partner organizations, include restoring kelp
-    forests, planting trees and urban gardens, and upgrading the
-    energy-efficiency of low-income houses. CC collects data on the amount of
-    carbon-reduction impact of each project per dollar spent. CC then presents
-    supporters with that information in user-friendly form, including a stream
-    of photos, videos, and data visualizations that show the impact of their
-    contribution.
-  implement: "Climate Cents is in the process of launching. We are in the beta-phase now, creating a website and testing the user-experience of it with a group of beta-users, while also experimenting with organizational partnerships and data-collection. During the beta phase, the test group will be donating to the Kelp Restoration Project at The Bay Foundation. Since nearly 40% of the CO2 in our atmosphere is absorbed by our oceans, kelp forests have been identified as effective carbon sinks that can sequester carbon and mitigate the effects of climate change. Climate Cents has already formed a relationship with the Bay Foundation for this purpose. As users follow the project they have funded, we will track how they experience the interactive process. \r\n\r\nOnce the beta phase ends in September, we will take what we have learned and refine the concept and execution. We will hire a digital designer to create a full-fledged, robust website by December. We will also sign partnership agreements with three additional environmental groups, including TreePeople, LAANE’s Repower LA (a partnership with LADWP’s Utility Pre-Craft Trainee (UPCT) program), and Harbor Community Benefit Foundation. We will refine data and photo-gathering procedures, and iron out organizational kinks. In preparation for a January 2015 public launch, we will hire a marketing team and work with them to garner significant publicity. We also plan to hold a series of Climate Cents parties across LA in January, February, and March 2014 to build support and secure a large number of initial sign-ups. Through 2015, we will be conducting extensive outreach to neighborhood councils, religious institutions, schools, housing associations, environmental symposiums and events, and other community-based groups to gain new supporters. \r\n\r\nClimate Cents will allow individuals to broadcast their carbon reduction notifications to their friends and networks.  Through the power of social media, we will constantly demonstrate that we are not powerless in our fight against climate change, and that something can be done. This positive feedback feature is crucial to Climate Cents. Many of the strategies to combat climate change do not engage people on a personal level. We will encourage residents to take pride and invest in their city, while also cleaning our air and bringing people together for a common cause. "
-  impact_live: "The most measurable pay-off from Climate Cents, both now and in 2050, is increased funding for tree planting, urban farms, ocean revitalization, and energy efficiency projects that will make LA a healthier, more pleasant, and more connected place to live. These will contribute to a city in which people don’t face environmental health hazards, where they can breathe clean air, drink clean water, relax and exercise among ample greenery and in the oceans, and eat good local food. \r\n\r\nBut the truth is that no single project can make LA the healthiest place to live — it will take a collective effort. So Climate Cents works to improve L.A.’s environment and to counter climate change in ways that complement existing efforts. We amplify funding for effective local environmental initiatives and helps them to more carefully measure, track, and broadcast their outcomes.\r\n\r\nLA has long been a city seemingly separate and definitely unequal, especially on matters of health, environment, and livability. What makes Climate Cents unique is to catalyze a city-wide collaboration to tackle the problems we ultimately all share. We will drive funding from more affluent areas toward remedies for some of the city’s worst environmental hotspots. Residents from across LA will be able to invest in tree-planting and energy efficiency projects in their own neighborhoods. The result is a renewed sense of civic pride and purpose.\r\n\r\nNo place, especially LA, will be able to remain even as healthy and livable as they are today without tackling climate change. Rapid climate change has already begun to harm ecosystems globally. It’s contributing to rising sea levels, intensifying droughts, and rapidly melting snowpacks across California. In LA, rising temperatures will lead to “adverse effects on human health, including increases in heat stress, respiratory diseases, and infectious diseases.” (C-Change.LA.)\r\n\r\nIt’s important to take on this challenge locally. So many of the efforts to fight climate change are distant from people’s ordinary lives and will start working only over the long-term. Before policy reforms and technological transformation become a reality, we need to make incremental efforts that get regular people engaged. While there are programs that fight climate change, there’s no comprehensive organization that groups these efforts, develops a central hub to fund them and to track progress in reducing carbon emissions. That’s the special role Climate Cents can and will play."
-  who_benefit: "Climate Cents will help people and neighborhoods all over Los Angeles, with specific benefits in low-income and disadvantaged communities that have suffered the worst effects of environmental injustice. LA’s environmental problems are severe. Our area has some of the worst air quality in the nation, which results from a combination of industrial production and automobile exhaust, especially from the port/trucking sector. And the brunt of pollution falls disproportionately on low-income neighborhoods, in predominantly Latino and Black communities. Since these communities are three times more likely to live close to hazardous facilities, their exposure to air toxins is fifty percent greater than other Angelenos.\r\n\r\nWe aim to concentrate our partnerships and environmental projects will be concentrated in low-income neighborhoods. Planting trees across South LA, the Eastside, and the Northeast Valley will be vital to making those places healthier and more livable. The removal of particulate matter and toxins from the air is vital. Urban gardens can help provide quality food. And increasing the percentage of tree canopy cover can make the city more beautiful and more walkable, leading to fitter, more resilient communities, with more opportunities to reduce the mental and physical stresses of urban living. \r\n\r\nThe project will benefit those in other neighborhoods because pollution doesn’t stop the boundaries of zip codes. Trees in South LA help clean the air of toxins, particulate matter, and carbon that would soon spread elsewhere. Kelp forests in the Santa Monica Bay clean the water that circulates among all the region’s beaches. Energy efficiency upgrades reduce costs and free up capacity for everyone on the network. \r\n\r\nThe city as whole will benefit from Climate Cents too. Mitigating climate change is important on its own and by galvanizing the city’s population into cross-neighborhood collaboration, we will create a sense of civic purpose and pride. Residents from across LA will be investing in one another and their shared future. And Climate Cents members will gain personally too, as they gain a sense of agency and connection, seeing the benefits their projects all around the city they live in, creating a virtuous cycle of publicity, excitement, and greater investment. "
-  partners_collaboration: "We have confirmed a partnership with the Bay Foundation to fund their Kelp Restoration Project as part of our beta-test. We are in talks with three more groups, listed below, for the January 2015 launch of Climate Cents. There’s a standard relationship between Climate Cents and its partners. We provide funding for the partners to amplify the impact of their environmental projects and in return, the partners facilitate CC’s calculation of carbon reduction per dollar invested and the visual documentation of the project’s impact.\r\n\r\n1. The Bay Foundation will expand its work of restoring kelp forests in waters off of LA. Reversing the 75% decline in these forests over the past century will help our local ecosystems, clean the water, and sequester a significant amount of carbon from the ocean, which absorbs nearly 30-40% of the atmosphere’s carbon dioxide.\r\n\r\n2. TreePeople will expand its work of planting tens of thousands of trees across LA, sequestering many tons of carbon and creating better environment for Angelenos. \r\n\r\n3. LAANE’s Repower LA program, in partnership with LADWP’s Utility Pre-Craft Trainee (UPCT) program, will expand its work, which offers free home energy-efficiency retrofits and trains low-income Angelenos in electrical work. \r\n\r\n4. Harbor Community Benefit Foundation will expand its tree planting initiatives to counter abysmal air quality for communities near the Port of LA.\r\n\r\nWe are exploring partnerships with other groups for the future: Urban Food Gardens, the National Forest Foundation, Tree Musketeers, and Northeast Trees.\r\n\r\nThe success of our collaborations will depend on a trusting relationship and clear expectations about each party’s responsibilities and deliverables. We are creating a standard memorandum of understanding, which will minimize the risk of miscommunication and divergent expectations. For Climate Cents, we must have guarantees that our funding contributions will flow directly and completely to the pre-set projects, and not be diverted to other programs or administrative costs. We must also regularly receive updated information about the results of the funding, with specific metrics such as trees planted and pounds of carbon reduced. We will also need to access to the partner’s project sites so we can document them with photo and videos. In return, partners should have a clear expectation of how roughly much funding they can expect from Climate Cents and on what basis and conceivable schedule it will be provided. "
-  metrics_live_healthyfood: '1'
-  metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
-  metrics_live_importedwater: '1'
-  metrics_live_obesity: '1'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '1'
-  metrics_live_pollutedwaterways: '1'
-  metrics_live_mentalillness: '1'
-  metrics_live_childhood: '1'
-  metrics_live_communities: '1'
-  metrics_live_healthcareservice: '0'
-  metrics_live_treecanopy: '1'
-  metrics_live_other: '1'
-  metrics_live_blank: Carbon dioxide emissions per capita
-  impact_metrics: "Climate Cents works by collaborating with environmental groups that are already making a difference on these metrics and using its platform to supercharge their impact through data transparency, public awareness, and crowdsourced funding. \r\n\r\nPlanting more trees is the only way to achieve the dream metric of greater tree canopy cover, and it also is vital to accomplishing other metrics as well. According to a research study published this week, “trees help people live longer, healthier, happier lives—to the tune of $6.8 billion in averted health costs annually in the U.S.” Trees clean the air of toxins, remove carbon, cool surrounding areas, conserve energy, save water, prevent water pollution, reduce UV exposure, provide food, alleviate mental and physical fatigue, bring people together, provide a space for wildlife, beautify neighborhoods, and increase local business traffic. \r\n\r\nTrees very effectively scrub air toxins and remove particulate matter from the air. Energy efficiency upgrades and the installation of solar panels reduce negative emissions at the source. \r\n\r\nTrees slow the evaporation of water, making sure that what rains in LA, stay in LA. Trees help prevent water pollution by reducing erosion and stormwater run-off. Kelp forests help to filter ocean water. The presence of more trees has been documented to increase the walkability of neighborhoods. The shade and beauty they furnish lead people to feel more comfortable moving through the streets on foot.\r\n\r\nBy increasing walkability and providing more hospitable outdoors spaces for exercise and other physical activity, trees have been shown to help lower obesity rates.\r\n\r\nLikewise, multiple studies have demonstrated that the powerful psychological benefits of proximity to trees. Being in a tree-filled environment relieves stress and mental fatigue, helping people to concentrate and even to heal faster from surgeries and illnesses.\r\n\r\nTrees can play a part in improving childhood experiences through their positive effects on mental and physical health. Children find space and inspiration under the cover of trees. Events to plant trees offer opportunities for fun, accessible community projects.\r\n\r\nTrees are crucial to community resilience through better air quality, improved mental and physical health, more connections among the community, and increased local business traffic. Energy efficiency upgrades economically advance disadvantaged communities by saving money and creating good jobs. "
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  best_place_to_connect: '1'
-  best_place_to_learn: '0'
-  evaluate: "Evaluation and measurement are central to the concept of Climate Cents. We intend for Climate Cents to become the premier public clearinghouse for local, crowd-sourced investment in local carbon reduction projects through careful tracking and transparent broadcasting of data. We will be scientifically measuring the carbon reduction achieved by each project we invest in, calculating the payoff per dollar, and reporting the results, with a high level of granularity, back to the Climate Cents members. For that reason, there are many metrics we will be able to use as we evaluate the success of Climate Cents. \r\n\r\n1. We believe that engaging people with practical, constructive solutions will help build momentum for far-reaching approaches to climate change and civic mobilization. To achieve overall reduction and to engage the most people possible, we will pay close attention to the number of individuals who commit to monthly membership in Climate Cents. The more people we can involve, the more we will galvanize a civic conversation and a movement. Our goal is a cumulative total of 8,800 monthly members by September 2015, with a cumulative investment of $1,125,000.\r\n\r\n2. We seek to efficiently converting financial support into carbon reduction. To that end, we will carefully track and strive to maximize the number of pounds of carbon reduced per dollar. Our current estimate is that every dollar removes 100 pounds of carbon from the atmosphere over the life of the project. To put it differently, it will cost us $20 to remove one ton of carbon from the atmosphere. \r\n\r\n3. We thus expect to achieve a cumulative reduction of 56,250 tons of carbon from the atmosphere with the year’s investment of $1,125,000, which is the equivalent of negating the emissions of nearly 4,700 households.\r\n\r\n4. We aim to convert 100% of online membership support into carbon reduction projects, with all overhead and administrative costs covered by major donor gifts and grants from foundations, corporations and government agencies. \r\n\r\n5. We seek to maximize the benefits of Climate Cents’ projects in disadvantaged communities. Our aim is to have at least 65 percent of project dollars go to work in these areas."
-  two_lessons: "Climate Cents starts from the premise that people would like to take action on critical environmental problems like LA’s poor air quality and the rising tide of global climate change, but feel too overwhelmed and powerless to actually do something. It can be difficult to engage people about a seemingly insurmountable problem, especially when their lives are busy and most strategies don’t engage them personally.\r\n\r\nThe lesson behind Climate Cents is that if we make it local, easy, fun, and social enough, people will gladly take a little bit of action to make a difference. We’ve seen time and again how the Internet has facilitated participation and lowered barriers to involvement. You can get a lot of people to “Like,” “Share,” “Favorite” and “Retweet” on social media if a post is catchy enough. And you can even get people to hand over real money to play games with strangers. \r\n\r\nAt the same time, we’ve learned about successful local environmental projects which improve the lives of ordinary Angelenos and contribute to the fight against climate change, but which haven’t been curated in one place for non-experts to compare and support.\r\n\r\nAnd we know that solutions to environmental problems require collective action and yet Angelenos are especially disconnected from each other \r\n\r\nSo the key is to marry the ease and fun of digital participation with real-world projects. \r\n\r\nThe Climate Cents platform is the culmination of these insights into the nature of collective action in today’s digital yet disconnected Los Angeles.\r\n\r\nBy establishing the world’s first responsive and transparent system for investing in, tracking, and viewing the impact of leading climate change mitigation projects, we will create a new form of collective action for the unique collective challenges we face in this time and this place. We think there is a good possibility of creating the go-to clearinghouse for local-to-local funding of carbon reduction and climate change mitigation projects."
-  achievable_goal: "It is feasible to implement the Climate Cents project within the next twelve months. Nick Karno, the founder of Climate Cents has extensively thought through the project’s execution. He has received enthusiastic responses among a wide range of potential stakeholders and constituents when he’s raised the idea. Partner organizations are very interested. One is committed for the beta phase and several want to join for the full launch. Part of the reason Climate Cents is well-positioned to launch is that Karno has a long record of community involvement and environmental activism. He brings the relationships, knowledge, and skills necessary for Climate Cents’ partnerships and community outreach. \r\n\r\nTo get a quick start and to avoid “building castles in the sky,” Climate Cents is already moving to implement the essentials of the project in a beta phase launching August 2014. It will be overseen by Dylan Fergus, an experienced designer and technologist. For the beta, we are creating a website as a user-facing platform, gauging beta-testers’ experience of using it, and experimenting with organizational partnership by engaging the Kelp Restoration Project at The Bay Foundation. The beta will operate as a microcosm of the fully-fledged final product. It will be a responsive website, where users can interact with the Kelp Restoration Project, contribute financially and receive updates on the environmental good they’re accomplishing, with scientific data on carbon reduction, appealing visualizations, and powerful images. The quickly created beta implementation of Climate Cents will be a powerful proof of concept for potential supporters of all kinds, including major donors. Also, crucially, it will enable us to surface significant problems related to the user experience, organizational partnership, data collection, and other critical aspects of the Climate Cents project, so that we can create better solutions for the full public launch. The refined public site will go live in January 2015.\r\n \r\nFor the public launch, we already have other environmental partners. For the January launch, we will hire a marketing team and work with them to garner significant publicity. We also plan to hold a series of Climates Cents parties across LA, January-April 2015, to build support and secure a large number of sign-ups. Through 2015, we will then conduct extensive outreach to neighborhood councils, schools, housing associations, and environmental events to gain supporters."
-  major_challenges: "The central challenge of Climate Cents is to engage supporters in such a powerful way that they donate monthly. We have a three-part strategy to succeed.\r\n\r\n1. An online interface that’s elegant, easy-to-use and emotionally compelling is central to Climate Cents. We’ll provide stunning photography to make every visit a treat. With the help of gamification experts, we’ll make it fun to compete and connect with other members on their carbon-cutting successes. People spend millions on games like FarmVille—imagine if they decided to play CC and improve the real-world in the process. It’s possible with the right design.\r\n\r\n2. We have a community-based strategy for getting people involved, unlike web-only platforms such as Kiva. We know that people give to other people and to causes where they can see a tangible impact. Our leadership is very involved in the community. As a local organization, we’ll do outreach in person. We’ll start with easy prospects: environmentalists, local businesses interested in being green, and groups with budgets for neighborhood improvement. Supporters will be able to see the benefits of their projects around our city, creating a cycle of excitement, publicity, and investment.\r\n\r\n3. Third, we’ll tap into the appeal of connecting communities.  Our aim is also to connect Angelenos and to educate on our shared challenges. Los Angeles is  divided, especially on environmental issues. Westsiders talk of “sustainability,” Eastsiders talk of “environmental justice.” The bulk of money donated to environmental causes comes from the Westside and often stays there, while communities in the Eastside decry the fact that suffer the most severe consequences of industrial pollution, poor air quality, and lack of green space. Climate Cents seeks to bridge this gap. It will direct funding and attention to LA’s environmental hotspots from more affluent areas with the promise of both local improvement and impact on global climate change.\r\n\r\nThe need to raise funds to cover the expense of building the Climate Cents’ world-class digital interface is another major challenge. We are reaching out now to our friends and contacts for seed funding. We intend to gain support from foundations which want to get on the ground floor of a project that has both a huge local impact potential and the possibility of being scaled up and replicated in many other cities. We have a skilled development professional working on these options.\r\n"
-  competition: "Climate Cents is unique. To other, no other organization functions as a transparent, public clearinghouse for local, crowd-sourced investment in local environmental projects. There are many environmental nonprofits and agencies which are doing great  work however and our method is to collaborate with them, supercharging their impact through data transparency, public awareness, and crowdsourced funding. We seek to help environmental organizations improve and expand their work, not compete with them. The relationship is inherently complementary.\r\n\r\nHowever, crowdfunding is a rapidly growing field and we will compete for donations. The closest “competitor” in the field is Mosaic, a for-profit business, which allows individuals to invest for profit in solar energy installation projects. As a nonprofit, CC seeks only to cover its costs, not to pay any shareholders. The value proposition to our supporters is intrinsic, not extrinsic. They get a sense of purpose, pride, and connection in exchange for their charitable contribution, not financial gain. Not all carbon reduction projects are as easy to monetize as solar panel installations for middle-class family homes (Mosaic’s focus), but they are still worth financial support because of their numerous environmental, social and economic benefits.\r\n\r\nAttracting people to Climate Cents rather than general funding platforms like Kickstarter and IndieGoGo also poses a challenge. Fortunately for CC, its reason for existence and mode of operating are distinct. Those sites tend to fund one-time projects in the realms of art, culture, and technology. They don't fund on-going environmental or community-based development work. Unlike these platforms, CC benefits from a local approach. One of the key tenets of philanthropy is that people give to other people, folks they trust, rather than causes in the abstract. Because it is local and its leadership is heavily involved in the community, CC has the ability to succeed as an interactive donation platform where more abstract, less grounded sites such as DonorsChoose and Kiva have struggled. Climate Cents outreach will be in-person and its supporters will be able to see the benefits of their projects all around the city they live in, creating a virtuous cycle of publicity, excitement, and greater investment. This kind of positive feedback loop is not possible in the same way with funding platforms that are national in scope. "
-  cost: "We expect that our administrative and development costs for the first year will be approximately $250,000. We expect to bring in significant funds from individual online donors dedicated exclusively to environmental projects.\r\n\r\nWe will cover our costs through a robust, multi-pronged fundraising strategy that targets foundations, individuals, corporations, and government agencies. David Levitus, a development professional with a successful record of grant-writing and donor development is a key member of our team and will be leading this effort. We have identified a large number of relevant foundations  and we are submitting proposals to many of them. These foundations include the Nathan Cummings, Sculpt the Future Foundation, ClimateWorks, Kresge, William & Flora Hewlett, David & Lucille Packard, Energy Foundation, V. Kann Rasmussen, Mertz Gilmore, Rockefeller, Tomkat Charitable Trust, Clif Bar Family, and Global Green USA.\r\n\r\nThe CC team personally know a large number of individuals who have the capacity to donate between $2,500 and $15,000 each.  We have begun to approach such people to ask for seed funding. We are also beginning to cultivate relationships with friends of friend and other second-hand contacts to lay the groundwork for future solicitations.\r\n\r\nWe are open to partnerships with corporations and government agencies. While we imagine that these entities would most likely funnel support to us for carbon reduction projects, we believe that some of these may be interested in supporting capacity building and core operating costs. We believe government agencies will fund us because they’ll appreciate the efficiency of our model and the way in which it provides transparent tracking of results, enabling them to engage their constituents in solid data and illustrations of their investment. Corporations will lend their support to burnish their public image, both as off-setting their own carbon emissions and showing a general interest in the public good and the health of disadvantaged communities. As with individual members, government agencies and donors of all sorts, we are betting that our unique selling proposition, our “value add” as the world’s first responsive and transparent system for investing in and tracking climate change mitigation will establish Climate Cents as the go-to clearinghouse for local-to-local funding of carbon reduction and climate change mitigation projects."
-  budget: "Climate Cents’ model is predicated on converting 100% of online membership support into environmental improvement and carbon reduction projects. This feature is a major selling point to individual donors who are assured of the immediate impact of their investment. Thus we seek funding from foundations, major individual donors, and institutional supporters such as corporations and government agencies to cover the cost of administration, overhead and capacity building. It’s necessary to have organizational infrastructure in place to make it possible to for small donors to seamlessly fund high-quality local projects.\r\n\r\nAn LA2050 grant of $100,000 would fund the major start-up costs of Climate Cents—the salaries and consulting expenses necessary to build a world-class web platform, forge partnerships with other environmental groups, do extensive community outreach, execute a dynamic and powerful marketing campaign, and do development to find other sources of sustainable revenue.\r\n\r\nThe LA2050 grant would fund specifically:\r\n\r\nPart-Time Grant Writer \t\t\t$12,000\r\nMarketing Campaign Contract \t\t$11,000\r\nExecutive VP Product & Operations\t\t$47,000 (partial funding of $72,000 salary)\r\nOutreach, Communications and Administrative Coordinator  30,000 (partial funding of $52,000 salary)\r\n\r\nThe CEO and founder, Nick Karno, will be uncompensated or compensated at a very low-level.  He will focus his efforts on fundraising from major donors, being the public face of the organization as it conducts community outreach, and forging partnership agreements.\r\n\r\nThe Executive VP of Product and Operations, Dylan Fergus, will be personally responsible for the development of the CC online platform and for the operational details of obtaining data and visuals from the project sites and integrating that feedback into the user experience. He will also handle day-to-day relations with the environmental partners, as well as graphic design and social media strategy.\r\n\r\nThe Grant Writer, David Levitus, will shape development strategy and craft funding proposals to foundations on a part-time basis.\r\n\r\nThe Outreach, Communications and Administrative Coordinator will provide day-to-day support for researching and setting up community outreach opportunities, initiating CC parties around the city, coordinating meetings, maintaining a calendar, and doing regular social media work.\r\n\r\nClimate Cents will hire a marketing firm for the January 2015 public launch to garner significant publicity."
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '1'
-  resources_education: '1'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_network: '1'
-  resources_research: '1'
+  How did you hear about this challenge?: >-
+    We collaborate with some of last year’s winners. We're on the LA2050 mailing
+    list.
+  'City, State': 'Los Angeles, CA'
+  Organization(s) name(s): Climate Cents
+  Organization(s) mailing address(es): "c/o Community Partners\r\n1000 N. Alameda Street, Suite 240\r\nLos Angeles, CA 90012"
+  Organization(s) website(s): www.ClimateCents.org
+  Organization(s) twitter handle(s): www.twitter.com/ClimateCents
+  Organization(s) facebook handle(s): www.facebook.com/ClimateCents
+  Organization(s) instagram handle(s): ''
+  Please share the direct link for voters to sign up for your newsletter(s): ''
+  EIN (for each organization): 95-4302067
+  'Describe your organization(s): Non-profit': '1'
+  'Describe your organization(s): For-profit': '0'
+  'Describe your organization(s): Government': '0'
+  'Describe your organization(s): Other': '1'
+  'Describe your organization(s): Specifics': >-
+    Climate Cents is a fiscally-sponsored project of Community Partners, a
+    nonprofit incubator
+  'In one sentence, please describe what your organization does.': >-
+    Climate Cents is an online platform that makes it easy and exciting to fight
+    global warming by supporting local initiatives that are making Los Angeles a
+    better place to live right now, especially for its most disadvantaged
+    communities.
+  'In one to three sentences, please describe your proposal.': >-
+    In a divided, distracted, disconnected city, Climate Cents brings people
+    together by showcasing local environmental initiatives, and making it easy
+    to get involved. When you donate your money or time, you’ll instantly
+    receive the gratification of knowing the difference you’re making – a stream
+    of personalized metrics like CO2 reductions, plus inspiring photos and data
+    visualizations. It’s simple to share these on social media, motivate your
+    friends to take action and maximize your impact.
+  Please write a sample tweet to describe your submission.: >-
+    .@ClimateCents connects you to local projects that fight #globalwarming &
+    make #LA a better place to live
+  LA is the best place to CREATE: '1'
+  LA is the best place to CONNECT: '1'
+  LA is the best place to PLAY: '1'
+  LA is the best place to LEARN: '0'
+  Where will you be working? Central LA: '0'
+  Where will you be working? East LA: '0'
+  Where will you be working? San Gabriel Valley: '0'
+  Where will you be working? San Fernando Valley: '0'
+  Where will you be working? South LA: '0'
+  Where will you be working? Westside: '0'
+  Where will you be working? South Bay: '0'
+  Where will you be working? Antelope Valley: '0'
+  Where will you be working? County of Los Angeles: '1'
+  Where will you be working? City of Los Angeles: '0'
+  Where will you be working? LAUSD: '0'
+  Where will you be working? Other: '0'
+  Where will you be working? Specifics: ''
+  How do you plan to use these resources to make change? Conduct research: '0'
+  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
+  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  How do you plan to use these resources to make change? Implement and track policy: '0'
+  How do you plan to use these resources to make change? Other: '0'
+  How do you plan to use these resources to make change? Specifics: ''
+  How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare access: '0'
+  How will your proposal improve the following “Live” metrics? Exposure to air toxins: '1'
+  How will your proposal improve the following “Live” metrics? Number of households below the self-sufficiency index: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of imported water: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing affordability: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of homelessness: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Walk/bike/transit score: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and miles of polluted waterways: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of mental illness: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of adverse childhood experiences (Dream Metric): '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of LA communities that are resilient (Dream Metric): '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of residents receiving coordinated healthcare services (Dream Metric): '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of tree canopy cover (Dream Metric): '1'
+  'DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE: ': "The most measurable pay-off from Climate Cents is increased funding, volunteers and publicity for local environmental initiatives like tree planting, urban gardens, ocean revitalization, community green space creation, sustainable waste recycling, and solar panel installation that will make L.A. a healthier, more pleasant, and more connected place to live. These will contribute to a city in which people don’t face environmental health hazards, where they can breathe clean air, drink clean water, relax and exercise among ample greenery and in the oceans, and eat good local food. \r\n\r\nBut the truth is that no single project can make L.A. the healthiest place to live — it will take a collective effort. So Climate Cents works to improve L.A.’s environment and to counter climate change in ways that complement existing efforts. We amplify support for effective local initiatives and help them to more carefully measure, track, and broadcast their outcomes, supercharging the movement for a more livable city.\r\n\r\nL.A. has long been a divided and inequitable city, especially in terms of health, environment, and livability. What makes Climate Cents unique is its ability to catalyze a city-wide collaboration to tackle the problems we ultimately all share. We will drive funding from more affluent areas toward remedies for some of the city’s worst environmental hotspots. Angelenos will be able to invest in projects in their own neighborhoods and across town. The result will be a renewed sense of civic pride and purpose.\r\n\r\nNo place, especially L.A., will be able to make gains in public health and livability without tackling global warming. Rapid climate change has already begun to harm ecosystems globally. It’s contributing to rising sea levels, intensifying droughts, and melting snowpacks across California. In L.A., rising temperatures lead to negative health effects like heat stress and respiratory diseases.\r\n\r\nIt’s important to tackle this challenge locally. So many efforts to fight climate change are distant from people’s ordinary lives and will start working only over the long-term. Before policy reforms and technological transformation become a reality, we need to make incremental efforts that get regular people engaged. While there are programs that fight climate change, there’s been no effort that groups these efforts, develops a central hub to fund them and track progress in reducing carbon emissions. That’s why we created Climate Cents."
+  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "Climate Cents’ success depends on breaking through the “chatter” and the innumerable distractions, digital and otherwise, that pull people’s attention in many different places all at once.\r\n\r\nTo do that, we need to make the Climate Cents user experience so compelling that people return to it frequently and tell all their friends about it.\r\n\r\nWe’ve implemented a platform prototype, which is easy to use and visually elegant. We’ve taking user experience feedback into account as we design the next iteration of the website and email / social media notification features. \r\n\r\nFor our marketing strategy, we’ve developed “use cases” for several target demographics. Tactics include earned media through press contacts, digital marketing campaigns, and community organizing, where we’re strong thanks to our leadership’s civic involvement. We’ll experiment to determine which yield the greatest ROI. We'll recruit a volunteer corps to run digital campaigns and help organize in-person outreach."
+  Please explain how you will evaluate your work.: "CC aims to bring money, volunteers, and attention to local environmental projects by tapping into a large population who haven’t been major donors or activists. We’ll direct these new resources to innovative initiatives, especially those emerging from disadvantaged communities. The sense of hope and accomplishment that users gain will motivate them to persevere in the fight against climate change and environmental injustice.\r\n\r\nWe’ll evaluate our progress toward goals by tracking key metrics.\r\n\r\n1) Monthly # of people who are website visitors/users/donors\r\n2) Annual # of money, volunteer hours and social media impressions\r\n3) Proportion of donations to disadvantaged communities\r\n\r\nWithin a year of the full-platform’s public launch, we want to be bringing in at least 500 donors a month, with an average donation of $50. Within three years, we want to be at scale in L.A., with $2 million in annual donations from at least 15,000 users, and beginning to scale the platform to other cities."
+  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Climate Cents is uniquely positioned at the intersection of online crowdfunding sites and local environmental nonprofits. \r\n\r\nWe have a complementary relationship with nonprofits in Los Angeles that are doing on-the-ground work to improve the environment. We collaborate with them, supercharging their impact through data transparency, public awareness, and crowd-sourced funding and volunteers. Our goal is improve and expand their work, bringing in previously untapped resources, not competing. Our relationship to climate advocacy groups such as NRDC, NextGen Climate, and Climate Resolve is also complementary.  We have friendly relationships with them and the ED of Climate Resolve serves on our Advisory Board.\r\n\r\nAmong crowdfunding platforms, Climate Cents is exceptional in its local-to-local model, its climate-exclusive focus, and the sense of tangible impact and instant gratification provided by the stream of personalized metrics and beautiful media that all donors receive. Our environmental emphasis sets us apart from DonorsChoose.org, which raises money for K-12 schools. Our climate and local-to-local emphasis distinguish us from environmental sites like World Wildlife Fund and the Rainforest Foundation, which are international in scope. Civic crowdfunding platforms like Ioby, which emphasize support for local projects, are probably the most similar to Climate Cents.  But Climate Cents’ tighter focus makes it easier to understand. Its simplicity is a virtue, according to user feedback. And the stream of personalized metrics and beautiful media uniquely provides a jolt of instant gratification through a sense of tangible positive impact. It’s gratifying to do your part to save the world and then see the results immediately, in your own city, to boot. Only Climate Cents makes it possible to see how many tons of carbon dioxide you’re reducing, the number of trees you’ve planted, the kilowatts of electricity you’ve generated from solar panels. This is the kind of tailored, immediate feedback that Angelenos expect now and which fits with the digital experiences they enjoy through on-demand platforms like Uber and Spotify.\r\n\r\nFinally, our leadership is deeply grounded in L.A.’s local communities which is a major advantage, because it’s clear that lesson of philanthropy that people individuals they know and trust, rather than causes in the abstract. We will do in-person, community organizing-style outreach in addition to digital marketing."
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Climate Cents’ success is inextricably intertwined with the relationships we are forging with trusted local nonprofits like GRID Alternatives, the Bay Foundation, and Isidore Recycling as well as several groups that are bringing trees, gardens and green space to underserved neighborhoods. Our goal is to amplify their work, supercharging their impact with additional funding, volunteers, and publicity. Most of these groups are anchored in local communities, especially those most affected by climate change. GRID trains people from disadvantaged populations in solar panel installations through work on projects that serve low-income communities. Isidore employs formerly incarcerated individuals. Our gardening partnernships empower low-income families to grow their own food in the most sustainable, climate-friendly way possible.\r\n\r\nHowever, our LA 2050 proposal is dedicated exclusively to the process of finishing the build-out of the Climate Cents platform and putting on a powerful public launch and marketing campaign to bring in platform users. Our organizational partners will benefit indirectly from the $100,000 as ordinary Angelenos begin to crowdfund their work in the upcoming year and beyond. \r\n\r\nA LA 2050 grant to Climate Cents will have a major multiplier effect. The $100,000 for finishing and launching the platform will help bring far more resources to worthwhile local causes. In particular, Climate Cents will provide the kind of nimble resources that can catalyze the growth of grassroots projects, fostering ingenuity among impacted communities, and positioning them to secure support from larger funding programs. How? Because Climate Cents is for the average person who wants to save the word, locally, but who doesn’t know where to get started and doesn’t necessarily have much time or money to donate. Climate Cents bring new resources to the cause by tapping into populations who haven’t been hardcore activists or donors: 20-something digital natives; 30-something professionals who want to make a difference, but don’t have time for due diligence; 40-something parents looking for a simple tool to crowdfund projects down the block. These are people who have largely been disengaged from the city’s civic and environmental challenges. \r\n\r\nThe Climate Cents platform will make it easy and exciting for tens of thousands of Angelenos to support local projects that fight climate change and make L.A. a better place, especially for its most disadvantaged communities."
+  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Climate Cents’ projected organizational budget for 2016 is $200,000. A $100,000 grant will be dedicated to upgrading our platform from the prototype to a full-fledged realization of our vision, and gaining users through outreach efforts, while funding from other sources will support on-going efforts to forge partnerships, research the science of greenhouse reduction for each local environmental project, develop future revenue sources, oversee web development, spearhead outreach and manage overall operations.\r\n\r\nTo cover our expenses, we have a comprehensive a fundraising plan that includes:\r\n\r\n1. Building a board and advisory council of people who can write checks and raise money from their networks. Our Advisory Board already includes tech and entertainment executives, scientists, and environmental and civic leaders. Through this group, we have the connections necessary to raise the funds necessary to bridge the time until we are self-sustaining.\r\n\r\n2. Applying for grants from more than twenty local and national foundations, especially those focused on climate change, digital innovation, start-ups and young social entrepreneurs. These include Durfee Springboard, Halcyon Incubator Fellowship, SVP Fast Pitch, SocEnt Venture Challenge, Echoing Green Climate Fellowship, Knight Prototype Fund, Draper Richards Kaplan Fellowship, Rainer Arnhold Fellowship, RSF Seed Fund, Google Grant, Mertz Gilmore Foundation, Max Factor Family Foundation, Roth Family Fund, Sidney Stern Memorial Trust, William & Flora Hewlett Foundation, Rockefeller Foundation, Lisa & Douglas Goldman Fund, David & Lucille Packard Foundation, MacArthur Foundation, and the Nathan Cummings Foundation, \r\n\r\n3. Soliciting major donors and businesses in the networks of the organization’s leaders. We are working with a fundraising consultant, pro bono, to do this effectively. We have already raised $10,000 and are cultivating several dozen other donors.\r\n\r\n4. Deepening our existing relationships with climate groups like Tom Steyer’s NextGen Climate and following up on discussions about the possibility of them funding our work."
+  'Please include a detailed budget of how you will use $100,000 to implement this project.': "We would use $100,000 to upgrade our platform from a “minimum viable product” (MVP) to a full-fledged realization of our vision, and to gain users through extensive community outreach efforts and a robust marketing campaign. These growth efforts will include hiring an Outreach/Marketing Director for the final 8 months of 2016. That person will manage a public launch event; work with Swell Creative Group to run digital communications campaigns, including advertising, with the help of volunteers; and to coordinate in-person outreach with the help of volunteers and by organizing key community leaders and influencers.\r\n\r\nWebsite Development – Heroic Studios  |  $20,000 \r\n\r\nDigital Communications Strategy – Swell Creative Group  |  $13,500\r\n\r\nAdvertising (web, social media)  | $16,500\r\n\r\nPublic Launch Event  | $10,000\r\n\r\nOrganizing & Marketing Director (8 months salary) | $40,000"
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How do you plan to scale the success of your proposal?: "Climate Cents is designed to scale up and then become self-sustaining. As a digital platform, the cost of every additional user is small. And as we grow, we plan to take a small cut of crowdfunding revenue to ensure our financial sustainability. Our plan anticipates that we’ll be at scale in L.A., with 25,000 regular users, within four years, and near financial self-sufficiency. We’ll then start preparing for expansion of the local-to-local model to other cities. The marginal costs of expansion will be low – we can use the underlying technology and marketing campaigns we’ve honed in L.A. \r\n\r\nThe proof of our potential is that in less than 6 months and with less than $20,000, we transformed CC from an idea on paper to a website that's already crowdfunding projects. In that time, we vetted partners and researched the science of GHG reduction for each project; mapped outreach strategies; built a platform prototype; initiated a “beta test” with fifty users and gathered extensive feedback to design the platform’s next iteration.\r\n\t\r\nThe next iteration will build on the prototype’s success to create the kind of visually elegant, easy-to-use, and emotionally compelling experience that keeps users returning frequently and telling their friends about it. We’re building in more advanced social media features, crowdfunding deadline notifications, and gamification elements. Social sharing will be baked into the platform. When you sign up, you’ll be prompted to share this fact and the carbon reduction you’re making possible on Facebook and Twitter. Giving to projects will make you look good personally and motivate your friends to take action. This positive feedback feature is crucial to the success of Climate Cents – people will respond once they see the good their efforts are producing, and it will make them feel like they can achieve something real, if we all do our part.\r\n\r\nInitial research suggests that there’s a large population of people who would be interested in a platform like Climate Cents. People care about climate change, but they feel overwhelmed by the enormity of the problem and too busy to figure out the best way to make a difference. If they learn about Climate Cents we’re confident they’ll use it to take action. \r\n\t\r\nAfter the platform’s launch, we’ll execute a multi-pronged outreach strategy that involves community organizing, guerilla marketing, digital marketing, and earned media. We'll evaluate the ROI for each tactic, adjusting as necessary."
 maker_answers_list:
-  - name: city_state
+  - name: How did you hear about this challenge?
+    label: How did you hear about this challenge?
+    explanation: >-
+      Please tell us how you found about the challenge (eg. Facebook/Twitter,
+      newsletter, friend, etc).
+    answer: >-
+      We collaborate with some of last year’s winners. We're on the LA2050
+      mailing list.
+  - name: 'City, State'
     label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
+    explanation: 'Please follow this format: Los Angeles, CA'
     answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
+  - name: Organization(s) name(s)
+    label: Organization(s) name(s)
+    explanation: >-
+      Please list the names of all organizations if there are more than one
+      organization involved.
     answer: Climate Cents
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
+  - name: Organization(s) mailing address(es)
+    label: Organization(s) mailing address(es)
+    explanation: 'Please follow the format: 1234 Wilshire Blvd, Los Angeles, CA 90048'
+    answer: "c/o Community Partners\r\n1000 N. Alameda Street, Suite 240\r\nLos Angeles, CA 90012"
+  - name: Organization(s) website(s)
+    label: Organization(s) website(s)
+    explanation: 'Please follow this format: www.LA2050.org'
     answer: www.ClimateCents.org
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
+  - name: Organization(s) twitter handle(s)
+    label: Organization(s) twitter handle(s)
+    explanation: 'Please follow this format: www.twitter.com/LA2050'
     answer: www.twitter.com/ClimateCents
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
+  - name: Organization(s) facebook handle(s)
+    label: Organization(s) facebook handle(s)
+    explanation: 'Please follow this format: www.facebook.com/LA2050'
+    answer: www.facebook.com/ClimateCents
+  - name: Organization(s) instagram handle(s)
+    label: Organization(s) instagram handle(s)
+    explanation: 'Please follow this format: www.instagram.com/LA2050'
     answer: ''
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
+  - name: Please share the direct link for voters to sign up for your newsletter(s)
+    label: Please share the direct link for voters to sign up for your newsletter(s)
+    explanation: ''
     answer: ''
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: "908 California Ave.\r\nVenice, CA 90291"
-  - name: EIN
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '237186016'
-  - name: org_nonprofit
-    label: Nonprofit organization
+  - name: EIN (for each organization)
+    label: EIN (for each organization)
+    explanation: 'Please follow this format: xx-xxxxxxx'
+    answer: 95-4302067
+  - name: 'Describe your organization(s): Non-profit'
+    label: Non-profit organization
     explanation: ''
     answer: '1'
-  - name: org_forprofit
+  - name: 'Describe your organization(s): For-profit'
     label: For-profit organization
     explanation: ''
     answer: '0'
-  - name: org_government
+  - name: 'Describe your organization(s): Government'
     label: Government
     explanation: ''
     answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '0'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
+  - name: 'Describe your organization(s): Other'
+    label: 'Other (please specify below):'
     explanation: ''
     answer: '1'
-  - name: one_sentence_org
+  - name: 'Describe your organization(s): Specifics'
     label: ''
-    explanation: 140 character maximum
+    explanation: ''
     answer: >-
-      Climate Cents is an online platform that connects Angelenos to local
-      projects that improve LA’s environment and reduce greenhouse gases.
-  - name: describe_idea
+      Climate Cents is a fiscally-sponsored project of Community Partners, a
+      nonprofit incubator
+  - name: 'In one sentence, please describe what your organization does.'
     label: ''
-    explanation: 140 character maximum
+    explanation: ''
     answer: >-
-      Climate Cents is an online platform that connects Angelenos to local
-      projects that improve LA’s environment and reduce greenhouse gases.
-  - name: describe_organization
+      Climate Cents is an online platform that makes it easy and exciting to
+      fight global warming by supporting local initiatives that are making Los
+      Angeles a better place to live right now, especially for its most
+      disadvantaged communities.
+  - name: 'In one to three sentences, please describe your proposal.'
     label: ''
-    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    explanation: ''
     answer: >-
-      Time to save the world! @ClimateCents connects you to LA projects and
-      tracks carbon data. #reallife #superheroes #climatechange
-  - name: all_county
-    label: Yes (benefits all of LA County)
+      In a divided, distracted, disconnected city, Climate Cents brings people
+      together by showcasing local environmental initiatives, and making it easy
+      to get involved. When you donate your money or time, you’ll instantly
+      receive the gratification of knowing the difference you’re making – a
+      stream of personalized metrics like CO2 reductions, plus inspiring photos
+      and data visualizations. It’s simple to share these on social media,
+      motivate your friends to take action and maximize your impact.
+  - name: Please write a sample tweet to describe your submission.
+    label: ''
+    explanation: ''
+    answer: >-
+      .@ClimateCents connects you to local projects that fight #globalwarming &
+      make #LA a better place to live
+  - name: LA is the best place to CREATE
+    label: LA is the best place to CREATE
     explanation: ''
     answer: '1'
-  - name: region_county
-    label: Yes (benefits a region of LA County)
+  - name: LA is the best place to CONNECT
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: LA is the best place to PLAY
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: LA is the best place to LEARN
+    label: LA is the best place to LEARN
     explanation: ''
     answer: '0'
-  - name: population_county
-    label: Yes (benefits a population of LA County)
-    explanation: ''
-    answer: '0'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
+  - name: Where will you be working? Central LA
     label: Central LA
     explanation: ''
-    answer: '1'
-  - name: area_eastLA
+    answer: '0'
+  - name: Where will you be working? East LA
     label: East LA
     explanation: ''
-    answer: '1'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: area_sangabrielvalley
+    answer: '0'
+  - name: Where will you be working? San Gabriel Valley
     label: San Gabriel Valley
     explanation: ''
-    answer: '1'
-  - name: area_sanfernandovalley
+    answer: '0'
+  - name: Where will you be working? San Fernando Valley
     label: San Fernando Valley
     explanation: ''
-    answer: '1'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '1'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: 'area_other:'
-    label: 'Other:'
+    answer: '0'
+  - name: Where will you be working? South LA
+    label: South LA
     explanation: ''
     answer: '0'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
+  - name: Where will you be working? Westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? South Bay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Antelope Valley
+    label: Antelope Valley
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? County of Los Angeles
+    label: County of Los Angeles (countywide)
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? City of Los Angeles
+    label: City of Los Angeles (citywide)
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? LAUSD
+    label: LAUSD
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Specifics
+    label: (e.g. Third Street Middle School; Boyle Heights; LA County)
+    explanation: ''
     answer: ''
-  - name: more_detail
+  - name: How do you plan to use these resources to make change? Conduct research
+    label: Conduct research
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How do you plan to use these resources to make change? Engage residents
+      and stakeholders
+    label: Engage residents and stakeholders
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Implement a pilot
+      or new project
+    label: Implement a pilot or new project
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How do you plan to use these resources to make change? Expand a pilot or
+      program
+    label: Expand a pilot or program
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Mobilize for
+      systems change
+    label: Mobilize for systems change
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Advocate with
+      policymakers and leaders
+    label: Advocate with policymakers and leaders
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How do you plan to use these resources to make change? Implement and track
+      policy
+    label: Implement and track policy
+    explanation: ''
+    answer: '0'
+  - name: How do you plan to use these resources to make change? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: How do you plan to use these resources to make change? Specifics
     label: ''
     explanation: ''
-    answer: >-
-      Climate Cents provides a way for Angelenos to improve LA’s environment and
-      connect with their neighbors across the city while helping to prevent
-      climate change. When Angelenos go to the CC website, they sign up to
-      support environmental projects of their choosing with a small monthly
-      contribution. These projects, run by partner organizations, include
-      restoring kelp forests, planting trees and urban gardens, and upgrading
-      the energy-efficiency of low-income houses. CC collects data on the amount
-      of carbon-reduction impact of each project per dollar spent. CC then
-      presents supporters with that information in user-friendly form, including
-      a stream of photos, videos, and data visualizations that show the impact
-      of their contribution.
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "Climate Cents is in the process of launching. We are in the beta-phase now, creating a website and testing the user-experience of it with a group of beta-users, while also experimenting with organizational partnerships and data-collection. During the beta phase, the test group will be donating to the Kelp Restoration Project at The Bay Foundation. Since nearly 40% of the CO2 in our atmosphere is absorbed by our oceans, kelp forests have been identified as effective carbon sinks that can sequester carbon and mitigate the effects of climate change. Climate Cents has already formed a relationship with the Bay Foundation for this purpose. As users follow the project they have funded, we will track how they experience the interactive process. \r\n\r\nOnce the beta phase ends in September, we will take what we have learned and refine the concept and execution. We will hire a digital designer to create a full-fledged, robust website by December. We will also sign partnership agreements with three additional environmental groups, including TreePeople, LAANE’s Repower LA (a partnership with LADWP’s Utility Pre-Craft Trainee (UPCT) program), and Harbor Community Benefit Foundation. We will refine data and photo-gathering procedures, and iron out organizational kinks. In preparation for a January 2015 public launch, we will hire a marketing team and work with them to garner significant publicity. We also plan to hold a series of Climate Cents parties across LA in January, February, and March 2014 to build support and secure a large number of initial sign-ups. Through 2015, we will be conducting extensive outreach to neighborhood councils, religious institutions, schools, housing associations, environmental symposiums and events, and other community-based groups to gain new supporters. \r\n\r\nClimate Cents will allow individuals to broadcast their carbon reduction notifications to their friends and networks.  Through the power of social media, we will constantly demonstrate that we are not powerless in our fight against climate change, and that something can be done. This positive feedback feature is crucial to Climate Cents. Many of the strategies to combat climate change do not engage people on a personal level. We will encourage residents to take pride and invest in their city, while also cleaning our air and bringing people together for a common cause. "
-  - name: impact_live
-    label: ''
-    explanation: ''
-    answer: "The most measurable pay-off from Climate Cents, both now and in 2050, is increased funding for tree planting, urban farms, ocean revitalization, and energy efficiency projects that will make LA a healthier, more pleasant, and more connected place to live. These will contribute to a city in which people don’t face environmental health hazards, where they can breathe clean air, drink clean water, relax and exercise among ample greenery and in the oceans, and eat good local food. \r\n\r\nBut the truth is that no single project can make LA the healthiest place to live — it will take a collective effort. So Climate Cents works to improve L.A.’s environment and to counter climate change in ways that complement existing efforts. We amplify funding for effective local environmental initiatives and helps them to more carefully measure, track, and broadcast their outcomes.\r\n\r\nLA has long been a city seemingly separate and definitely unequal, especially on matters of health, environment, and livability. What makes Climate Cents unique is to catalyze a city-wide collaboration to tackle the problems we ultimately all share. We will drive funding from more affluent areas toward remedies for some of the city’s worst environmental hotspots. Residents from across LA will be able to invest in tree-planting and energy efficiency projects in their own neighborhoods. The result is a renewed sense of civic pride and purpose.\r\n\r\nNo place, especially LA, will be able to remain even as healthy and livable as they are today without tackling climate change. Rapid climate change has already begun to harm ecosystems globally. It’s contributing to rising sea levels, intensifying droughts, and rapidly melting snowpacks across California. In LA, rising temperatures will lead to “adverse effects on human health, including increases in heat stress, respiratory diseases, and infectious diseases.” (C-Change.LA.)\r\n\r\nIt’s important to take on this challenge locally. So many of the efforts to fight climate change are distant from people’s ordinary lives and will start working only over the long-term. Before policy reforms and technological transformation become a reality, we need to make incremental efforts that get regular people engaged. While there are programs that fight climate change, there’s no comprehensive organization that groups these efforts, develops a central hub to fund them and to track progress in reducing carbon emissions. That’s the special role Climate Cents can and will play."
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "Climate Cents will help people and neighborhoods all over Los Angeles, with specific benefits in low-income and disadvantaged communities that have suffered the worst effects of environmental injustice. LA’s environmental problems are severe. Our area has some of the worst air quality in the nation, which results from a combination of industrial production and automobile exhaust, especially from the port/trucking sector. And the brunt of pollution falls disproportionately on low-income neighborhoods, in predominantly Latino and Black communities. Since these communities are three times more likely to live close to hazardous facilities, their exposure to air toxins is fifty percent greater than other Angelenos.\r\n\r\nWe aim to concentrate our partnerships and environmental projects will be concentrated in low-income neighborhoods. Planting trees across South LA, the Eastside, and the Northeast Valley will be vital to making those places healthier and more livable. The removal of particulate matter and toxins from the air is vital. Urban gardens can help provide quality food. And increasing the percentage of tree canopy cover can make the city more beautiful and more walkable, leading to fitter, more resilient communities, with more opportunities to reduce the mental and physical stresses of urban living. \r\n\r\nThe project will benefit those in other neighborhoods because pollution doesn’t stop the boundaries of zip codes. Trees in South LA help clean the air of toxins, particulate matter, and carbon that would soon spread elsewhere. Kelp forests in the Santa Monica Bay clean the water that circulates among all the region’s beaches. Energy efficiency upgrades reduce costs and free up capacity for everyone on the network. \r\n\r\nThe city as whole will benefit from Climate Cents too. Mitigating climate change is important on its own and by galvanizing the city’s population into cross-neighborhood collaboration, we will create a sense of civic purpose and pride. Residents from across LA will be investing in one another and their shared future. And Climate Cents members will gain personally too, as they gain a sense of agency and connection, seeing the benefits their projects all around the city they live in, creating a virtuous cycle of publicity, excitement, and greater investment. "
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "We have confirmed a partnership with the Bay Foundation to fund their Kelp Restoration Project as part of our beta-test. We are in talks with three more groups, listed below, for the January 2015 launch of Climate Cents. There’s a standard relationship between Climate Cents and its partners. We provide funding for the partners to amplify the impact of their environmental projects and in return, the partners facilitate CC’s calculation of carbon reduction per dollar invested and the visual documentation of the project’s impact.\r\n\r\n1. The Bay Foundation will expand its work of restoring kelp forests in waters off of LA. Reversing the 75% decline in these forests over the past century will help our local ecosystems, clean the water, and sequester a significant amount of carbon from the ocean, which absorbs nearly 30-40% of the atmosphere’s carbon dioxide.\r\n\r\n2. TreePeople will expand its work of planting tens of thousands of trees across LA, sequestering many tons of carbon and creating better environment for Angelenos. \r\n\r\n3. LAANE’s Repower LA program, in partnership with LADWP’s Utility Pre-Craft Trainee (UPCT) program, will expand its work, which offers free home energy-efficiency retrofits and trains low-income Angelenos in electrical work. \r\n\r\n4. Harbor Community Benefit Foundation will expand its tree planting initiatives to counter abysmal air quality for communities near the Port of LA.\r\n\r\nWe are exploring partnerships with other groups for the future: Urban Food Gardens, the National Forest Foundation, Tree Musketeers, and Northeast Trees.\r\n\r\nThe success of our collaborations will depend on a trusting relationship and clear expectations about each party’s responsibilities and deliverables. We are creating a standard memorandum of understanding, which will minimize the risk of miscommunication and divergent expectations. For Climate Cents, we must have guarantees that our funding contributions will flow directly and completely to the pre-set projects, and not be diverted to other programs or administrative costs. We must also regularly receive updated information about the results of the funding, with specific metrics such as trees planted and pounds of carbon reduced. We will also need to access to the partner’s project sites so we can document them with photo and videos. In return, partners should have a clear expectation of how roughly much funding they can expect from Climate Cents and on what basis and conceivable schedule it will be provided. "
-  - name: metrics_live_healthyfood
+    answer: ''
+  - name: >-
+      How will your proposal improve the following “Live” metrics?  Access to
+      healthy food
     label: Access to healthy food
     explanation: ''
     answer: '1'
-  - name: metrics_live_healthcare
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare
+      access
     label: Healthcare access
     explanation: ''
     answer: '0'
-  - name: metrics_live_airtoxins
+  - name: >-
+      How will your proposal improve the following “Live” metrics? Exposure to
+      air toxins
     label: Exposure to air toxins
     explanation: ''
     answer: '1'
-  - name: metrics_live_selfsufficiency
-    label: Number of households below the self-sufficiency standard
+  - name: >-
+      How will your proposal improve the following “Live” metrics? Number of
+      households below the self-sufficiency index
+    label: Number of households below the self-sufficiency index
     explanation: ''
-    answer: '0'
-  - name: metrics_live_importedwater
+    answer: '1'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of
+      imported water
     label: Percent of imported water
     explanation: ''
     answer: '1'
-  - name: metrics_live_obesity
+  - name: HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates
     label: Obesity rates
     explanation: ''
     answer: '1'
-  - name: metrics_live_homelessness
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing
+      affordability
+    label: Housing affordability
+    explanation: ''
+    answer: '0'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of
+      homelessness
     label: Rates of homelessness
     explanation: ''
     answer: '0'
-  - name: metrics_live_walkscore
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS?
+      Walk/bike/transit score
     label: Walk/bike/transit score
     explanation: ''
-    answer: '1'
-  - name: metrics_live_pollutedwaterways
+    answer: '0'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and
+      miles of polluted waterways
     label: Acres and miles of polluted waterways
     explanation: ''
     answer: '1'
-  - name: metrics_live_mentalillness
-    label: Rates of mental illnesses
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of
+      mental illness
+    label: Rates of mental illness
     explanation: ''
-    answer: '1'
-  - name: metrics_live_childhood
-    label: Prevalence of adverse childhood experience (Dream Metric)
+    answer: '0'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of
+      adverse childhood experiences (Dream Metric)
+    label: Prevalence of adverse childhood experiences (Dream Metric)
     explanation: ''
-    answer: '1'
-  - name: metrics_live_communities
+    answer: '0'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of
+      LA communities that are resilient (Dream Metric)
     label: Percentage of LA communities that are resilient (Dream Metric)
     explanation: ''
     answer: '1'
-  - name: metrics_live_healthcareservice
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of
+      residents receiving coordinated healthcare services (Dream Metric)
     label: >-
       Percentage of residents receiving coordinated healthcare services (Dream
       Metric)
     explanation: ''
     answer: '0'
-  - name: metrics_live_treecanopy
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of
+      tree canopy cover (Dream Metric)
     label: Percentage of tree canopy cover (Dream Metric)
     explanation: ''
     answer: '1'
-  - name: metrics_live_other
-    label: 'Other:'
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: Carbon dioxide emissions per capita
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "Climate Cents works by collaborating with environmental groups that are already making a difference on these metrics and using its platform to supercharge their impact through data transparency, public awareness, and crowdsourced funding. \r\n\r\nPlanting more trees is the only way to achieve the dream metric of greater tree canopy cover, and it also is vital to accomplishing other metrics as well. According to a research study published this week, “trees help people live longer, healthier, happier lives—to the tune of $6.8 billion in averted health costs annually in the U.S.” Trees clean the air of toxins, remove carbon, cool surrounding areas, conserve energy, save water, prevent water pollution, reduce UV exposure, provide food, alleviate mental and physical fatigue, bring people together, provide a space for wildlife, beautify neighborhoods, and increase local business traffic. \r\n\r\nTrees very effectively scrub air toxins and remove particulate matter from the air. Energy efficiency upgrades and the installation of solar panels reduce negative emissions at the source. \r\n\r\nTrees slow the evaporation of water, making sure that what rains in LA, stay in LA. Trees help prevent water pollution by reducing erosion and stormwater run-off. Kelp forests help to filter ocean water. The presence of more trees has been documented to increase the walkability of neighborhoods. The shade and beauty they furnish lead people to feel more comfortable moving through the streets on foot.\r\n\r\nBy increasing walkability and providing more hospitable outdoors spaces for exercise and other physical activity, trees have been shown to help lower obesity rates.\r\n\r\nLikewise, multiple studies have demonstrated that the powerful psychological benefits of proximity to trees. Being in a tree-filled environment relieves stress and mental fatigue, helping people to concentrate and even to heal faster from surgeries and illnesses.\r\n\r\nTrees can play a part in improving childhood experiences through their positive effects on mental and physical health. Children find space and inspiration under the cover of trees. Events to plant trees offer opportunities for fun, accessible community projects.\r\n\r\nTrees are crucial to community resilience through better air quality, improved mental and physical health, more connections among the community, and increased local business traffic. Energy efficiency upgrades economically advance disadvantaged communities by saving money and creating good jobs. "
-  - name: best_place_to_create
-    label: LA is the best place to CREATE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '0'
-  - name: evaluate
+  - name: >-
+      DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO
+      LIVE: 
     label: ''
     explanation: ''
-    answer: "Evaluation and measurement are central to the concept of Climate Cents. We intend for Climate Cents to become the premier public clearinghouse for local, crowd-sourced investment in local carbon reduction projects through careful tracking and transparent broadcasting of data. We will be scientifically measuring the carbon reduction achieved by each project we invest in, calculating the payoff per dollar, and reporting the results, with a high level of granularity, back to the Climate Cents members. For that reason, there are many metrics we will be able to use as we evaluate the success of Climate Cents. \r\n\r\n1. We believe that engaging people with practical, constructive solutions will help build momentum for far-reaching approaches to climate change and civic mobilization. To achieve overall reduction and to engage the most people possible, we will pay close attention to the number of individuals who commit to monthly membership in Climate Cents. The more people we can involve, the more we will galvanize a civic conversation and a movement. Our goal is a cumulative total of 8,800 monthly members by September 2015, with a cumulative investment of $1,125,000.\r\n\r\n2. We seek to efficiently converting financial support into carbon reduction. To that end, we will carefully track and strive to maximize the number of pounds of carbon reduced per dollar. Our current estimate is that every dollar removes 100 pounds of carbon from the atmosphere over the life of the project. To put it differently, it will cost us $20 to remove one ton of carbon from the atmosphere. \r\n\r\n3. We thus expect to achieve a cumulative reduction of 56,250 tons of carbon from the atmosphere with the year’s investment of $1,125,000, which is the equivalent of negating the emissions of nearly 4,700 households.\r\n\r\n4. We aim to convert 100% of online membership support into carbon reduction projects, with all overhead and administrative costs covered by major donor gifts and grants from foundations, corporations and government agencies. \r\n\r\n5. We seek to maximize the benefits of Climate Cents’ projects in disadvantaged communities. Our aim is to have at least 65 percent of project dollars go to work in these areas."
-  - name: two_lessons
+    answer: "The most measurable pay-off from Climate Cents is increased funding, volunteers and publicity for local environmental initiatives like tree planting, urban gardens, ocean revitalization, community green space creation, sustainable waste recycling, and solar panel installation that will make L.A. a healthier, more pleasant, and more connected place to live. These will contribute to a city in which people don’t face environmental health hazards, where they can breathe clean air, drink clean water, relax and exercise among ample greenery and in the oceans, and eat good local food. \r\n\r\nBut the truth is that no single project can make L.A. the healthiest place to live — it will take a collective effort. So Climate Cents works to improve L.A.’s environment and to counter climate change in ways that complement existing efforts. We amplify support for effective local initiatives and help them to more carefully measure, track, and broadcast their outcomes, supercharging the movement for a more livable city.\r\n\r\nL.A. has long been a divided and inequitable city, especially in terms of health, environment, and livability. What makes Climate Cents unique is its ability to catalyze a city-wide collaboration to tackle the problems we ultimately all share. We will drive funding from more affluent areas toward remedies for some of the city’s worst environmental hotspots. Angelenos will be able to invest in projects in their own neighborhoods and across town. The result will be a renewed sense of civic pride and purpose.\r\n\r\nNo place, especially L.A., will be able to make gains in public health and livability without tackling global warming. Rapid climate change has already begun to harm ecosystems globally. It’s contributing to rising sea levels, intensifying droughts, and melting snowpacks across California. In L.A., rising temperatures lead to negative health effects like heat stress and respiratory diseases.\r\n\r\nIt’s important to tackle this challenge locally. So many efforts to fight climate change are distant from people’s ordinary lives and will start working only over the long-term. Before policy reforms and technological transformation become a reality, we need to make incremental efforts that get regular people engaged. While there are programs that fight climate change, there’s been no effort that groups these efforts, develops a central hub to fund them and track progress in reducing carbon emissions. That’s why we created Climate Cents."
+  - name: >-
+      Please list at least one major barrier/challenge you anticipate. What is
+      your strategy for overcoming these obstacles?
     label: ''
     explanation: ''
-    answer: "Climate Cents starts from the premise that people would like to take action on critical environmental problems like LA’s poor air quality and the rising tide of global climate change, but feel too overwhelmed and powerless to actually do something. It can be difficult to engage people about a seemingly insurmountable problem, especially when their lives are busy and most strategies don’t engage them personally.\r\n\r\nThe lesson behind Climate Cents is that if we make it local, easy, fun, and social enough, people will gladly take a little bit of action to make a difference. We’ve seen time and again how the Internet has facilitated participation and lowered barriers to involvement. You can get a lot of people to “Like,” “Share,” “Favorite” and “Retweet” on social media if a post is catchy enough. And you can even get people to hand over real money to play games with strangers. \r\n\r\nAt the same time, we’ve learned about successful local environmental projects which improve the lives of ordinary Angelenos and contribute to the fight against climate change, but which haven’t been curated in one place for non-experts to compare and support.\r\n\r\nAnd we know that solutions to environmental problems require collective action and yet Angelenos are especially disconnected from each other \r\n\r\nSo the key is to marry the ease and fun of digital participation with real-world projects. \r\n\r\nThe Climate Cents platform is the culmination of these insights into the nature of collective action in today’s digital yet disconnected Los Angeles.\r\n\r\nBy establishing the world’s first responsive and transparent system for investing in, tracking, and viewing the impact of leading climate change mitigation projects, we will create a new form of collective action for the unique collective challenges we face in this time and this place. We think there is a good possibility of creating the go-to clearinghouse for local-to-local funding of carbon reduction and climate change mitigation projects."
-  - name: achievable_goal
+    answer: "Climate Cents’ success depends on breaking through the “chatter” and the innumerable distractions, digital and otherwise, that pull people’s attention in many different places all at once.\r\n\r\nTo do that, we need to make the Climate Cents user experience so compelling that people return to it frequently and tell all their friends about it.\r\n\r\nWe’ve implemented a platform prototype, which is easy to use and visually elegant. We’ve taking user experience feedback into account as we design the next iteration of the website and email / social media notification features. \r\n\r\nFor our marketing strategy, we’ve developed “use cases” for several target demographics. Tactics include earned media through press contacts, digital marketing campaigns, and community organizing, where we’re strong thanks to our leadership’s civic involvement. We’ll experiment to determine which yield the greatest ROI. We'll recruit a volunteer corps to run digital campaigns and help organize in-person outreach."
+  - name: Please explain how you will evaluate your work.
     label: ''
     explanation: ''
-    answer: "It is feasible to implement the Climate Cents project within the next twelve months. Nick Karno, the founder of Climate Cents has extensively thought through the project’s execution. He has received enthusiastic responses among a wide range of potential stakeholders and constituents when he’s raised the idea. Partner organizations are very interested. One is committed for the beta phase and several want to join for the full launch. Part of the reason Climate Cents is well-positioned to launch is that Karno has a long record of community involvement and environmental activism. He brings the relationships, knowledge, and skills necessary for Climate Cents’ partnerships and community outreach. \r\n\r\nTo get a quick start and to avoid “building castles in the sky,” Climate Cents is already moving to implement the essentials of the project in a beta phase launching August 2014. It will be overseen by Dylan Fergus, an experienced designer and technologist. For the beta, we are creating a website as a user-facing platform, gauging beta-testers’ experience of using it, and experimenting with organizational partnership by engaging the Kelp Restoration Project at The Bay Foundation. The beta will operate as a microcosm of the fully-fledged final product. It will be a responsive website, where users can interact with the Kelp Restoration Project, contribute financially and receive updates on the environmental good they’re accomplishing, with scientific data on carbon reduction, appealing visualizations, and powerful images. The quickly created beta implementation of Climate Cents will be a powerful proof of concept for potential supporters of all kinds, including major donors. Also, crucially, it will enable us to surface significant problems related to the user experience, organizational partnership, data collection, and other critical aspects of the Climate Cents project, so that we can create better solutions for the full public launch. The refined public site will go live in January 2015.\r\n \r\nFor the public launch, we already have other environmental partners. For the January launch, we will hire a marketing team and work with them to garner significant publicity. We also plan to hold a series of Climates Cents parties across LA, January-April 2015, to build support and secure a large number of sign-ups. Through 2015, we will then conduct extensive outreach to neighborhood councils, schools, housing associations, and environmental events to gain supporters."
-  - name: major_challenges
+    answer: "CC aims to bring money, volunteers, and attention to local environmental projects by tapping into a large population who haven’t been major donors or activists. We’ll direct these new resources to innovative initiatives, especially those emerging from disadvantaged communities. The sense of hope and accomplishment that users gain will motivate them to persevere in the fight against climate change and environmental injustice.\r\n\r\nWe’ll evaluate our progress toward goals by tracking key metrics.\r\n\r\n1) Monthly # of people who are website visitors/users/donors\r\n2) Annual # of money, volunteer hours and social media impressions\r\n3) Proportion of donations to disadvantaged communities\r\n\r\nWithin a year of the full-platform’s public launch, we want to be bringing in at least 500 donors a month, with an average donation of $50. Within three years, we want to be at scale in L.A., with $2 million in annual donations from at least 15,000 users, and beginning to scale the platform to other cities."
+  - name: >-
+      Are there other organizations doing similar work (whether complementary or
+      competitive)? What is unique about your proposed approach?
     label: ''
     explanation: ''
-    answer: "The central challenge of Climate Cents is to engage supporters in such a powerful way that they donate monthly. We have a three-part strategy to succeed.\r\n\r\n1. An online interface that’s elegant, easy-to-use and emotionally compelling is central to Climate Cents. We’ll provide stunning photography to make every visit a treat. With the help of gamification experts, we’ll make it fun to compete and connect with other members on their carbon-cutting successes. People spend millions on games like FarmVille—imagine if they decided to play CC and improve the real-world in the process. It’s possible with the right design.\r\n\r\n2. We have a community-based strategy for getting people involved, unlike web-only platforms such as Kiva. We know that people give to other people and to causes where they can see a tangible impact. Our leadership is very involved in the community. As a local organization, we’ll do outreach in person. We’ll start with easy prospects: environmentalists, local businesses interested in being green, and groups with budgets for neighborhood improvement. Supporters will be able to see the benefits of their projects around our city, creating a cycle of excitement, publicity, and investment.\r\n\r\n3. Third, we’ll tap into the appeal of connecting communities.  Our aim is also to connect Angelenos and to educate on our shared challenges. Los Angeles is  divided, especially on environmental issues. Westsiders talk of “sustainability,” Eastsiders talk of “environmental justice.” The bulk of money donated to environmental causes comes from the Westside and often stays there, while communities in the Eastside decry the fact that suffer the most severe consequences of industrial pollution, poor air quality, and lack of green space. Climate Cents seeks to bridge this gap. It will direct funding and attention to LA’s environmental hotspots from more affluent areas with the promise of both local improvement and impact on global climate change.\r\n\r\nThe need to raise funds to cover the expense of building the Climate Cents’ world-class digital interface is another major challenge. We are reaching out now to our friends and contacts for seed funding. We intend to gain support from foundations which want to get on the ground floor of a project that has both a huge local impact potential and the possibility of being scaled up and replicated in many other cities. We have a skilled development professional working on these options.\r\n"
-  - name: competition
+    answer: "Climate Cents is uniquely positioned at the intersection of online crowdfunding sites and local environmental nonprofits. \r\n\r\nWe have a complementary relationship with nonprofits in Los Angeles that are doing on-the-ground work to improve the environment. We collaborate with them, supercharging their impact through data transparency, public awareness, and crowd-sourced funding and volunteers. Our goal is improve and expand their work, bringing in previously untapped resources, not competing. Our relationship to climate advocacy groups such as NRDC, NextGen Climate, and Climate Resolve is also complementary.  We have friendly relationships with them and the ED of Climate Resolve serves on our Advisory Board.\r\n\r\nAmong crowdfunding platforms, Climate Cents is exceptional in its local-to-local model, its climate-exclusive focus, and the sense of tangible impact and instant gratification provided by the stream of personalized metrics and beautiful media that all donors receive. Our environmental emphasis sets us apart from DonorsChoose.org, which raises money for K-12 schools. Our climate and local-to-local emphasis distinguish us from environmental sites like World Wildlife Fund and the Rainforest Foundation, which are international in scope. Civic crowdfunding platforms like Ioby, which emphasize support for local projects, are probably the most similar to Climate Cents.  But Climate Cents’ tighter focus makes it easier to understand. Its simplicity is a virtue, according to user feedback. And the stream of personalized metrics and beautiful media uniquely provides a jolt of instant gratification through a sense of tangible positive impact. It’s gratifying to do your part to save the world and then see the results immediately, in your own city, to boot. Only Climate Cents makes it possible to see how many tons of carbon dioxide you’re reducing, the number of trees you’ve planted, the kilowatts of electricity you’ve generated from solar panels. This is the kind of tailored, immediate feedback that Angelenos expect now and which fits with the digital experiences they enjoy through on-demand platforms like Uber and Spotify.\r\n\r\nFinally, our leadership is deeply grounded in L.A.’s local communities which is a major advantage, because it’s clear that lesson of philanthropy that people individuals they know and trust, rather than causes in the abstract. We will do in-person, community organizing-style outreach in addition to digital marketing."
+  - name: >-
+      Please identify any partners or collaborators who will work with you on
+      this project. How much of the $100,000 grant award will each partner
+      receive?
     label: ''
     explanation: ''
-    answer: "Climate Cents is unique. To other, no other organization functions as a transparent, public clearinghouse for local, crowd-sourced investment in local environmental projects. There are many environmental nonprofits and agencies which are doing great  work however and our method is to collaborate with them, supercharging their impact through data transparency, public awareness, and crowdsourced funding. We seek to help environmental organizations improve and expand their work, not compete with them. The relationship is inherently complementary.\r\n\r\nHowever, crowdfunding is a rapidly growing field and we will compete for donations. The closest “competitor” in the field is Mosaic, a for-profit business, which allows individuals to invest for profit in solar energy installation projects. As a nonprofit, CC seeks only to cover its costs, not to pay any shareholders. The value proposition to our supporters is intrinsic, not extrinsic. They get a sense of purpose, pride, and connection in exchange for their charitable contribution, not financial gain. Not all carbon reduction projects are as easy to monetize as solar panel installations for middle-class family homes (Mosaic’s focus), but they are still worth financial support because of their numerous environmental, social and economic benefits.\r\n\r\nAttracting people to Climate Cents rather than general funding platforms like Kickstarter and IndieGoGo also poses a challenge. Fortunately for CC, its reason for existence and mode of operating are distinct. Those sites tend to fund one-time projects in the realms of art, culture, and technology. They don't fund on-going environmental or community-based development work. Unlike these platforms, CC benefits from a local approach. One of the key tenets of philanthropy is that people give to other people, folks they trust, rather than causes in the abstract. Because it is local and its leadership is heavily involved in the community, CC has the ability to succeed as an interactive donation platform where more abstract, less grounded sites such as DonorsChoose and Kiva have struggled. Climate Cents outreach will be in-person and its supporters will be able to see the benefits of their projects all around the city they live in, creating a virtuous cycle of publicity, excitement, and greater investment. This kind of positive feedback loop is not possible in the same way with funding platforms that are national in scope. "
-  - name: cost
+    answer: "Climate Cents’ success is inextricably intertwined with the relationships we are forging with trusted local nonprofits like GRID Alternatives, the Bay Foundation, and Isidore Recycling as well as several groups that are bringing trees, gardens and green space to underserved neighborhoods. Our goal is to amplify their work, supercharging their impact with additional funding, volunteers, and publicity. Most of these groups are anchored in local communities, especially those most affected by climate change. GRID trains people from disadvantaged populations in solar panel installations through work on projects that serve low-income communities. Isidore employs formerly incarcerated individuals. Our gardening partnernships empower low-income families to grow their own food in the most sustainable, climate-friendly way possible.\r\n\r\nHowever, our LA 2050 proposal is dedicated exclusively to the process of finishing the build-out of the Climate Cents platform and putting on a powerful public launch and marketing campaign to bring in platform users. Our organizational partners will benefit indirectly from the $100,000 as ordinary Angelenos begin to crowdfund their work in the upcoming year and beyond. \r\n\r\nA LA 2050 grant to Climate Cents will have a major multiplier effect. The $100,000 for finishing and launching the platform will help bring far more resources to worthwhile local causes. In particular, Climate Cents will provide the kind of nimble resources that can catalyze the growth of grassroots projects, fostering ingenuity among impacted communities, and positioning them to secure support from larger funding programs. How? Because Climate Cents is for the average person who wants to save the word, locally, but who doesn’t know where to get started and doesn’t necessarily have much time or money to donate. Climate Cents bring new resources to the cause by tapping into populations who haven’t been hardcore activists or donors: 20-something digital natives; 30-something professionals who want to make a difference, but don’t have time for due diligence; 40-something parents looking for a simple tool to crowdfund projects down the block. These are people who have largely been disengaged from the city’s civic and environmental challenges. \r\n\r\nThe Climate Cents platform will make it easy and exciting for tens of thousands of Angelenos to support local projects that fight climate change and make L.A. a better place, especially for its most disadvantaged communities."
+  - name: >-
+      How much do you think this will cost? If more than $100,000 – how will you
+      cover the additional costs?
     label: ''
     explanation: ''
-    answer: "We expect that our administrative and development costs for the first year will be approximately $250,000. We expect to bring in significant funds from individual online donors dedicated exclusively to environmental projects.\r\n\r\nWe will cover our costs through a robust, multi-pronged fundraising strategy that targets foundations, individuals, corporations, and government agencies. David Levitus, a development professional with a successful record of grant-writing and donor development is a key member of our team and will be leading this effort. We have identified a large number of relevant foundations  and we are submitting proposals to many of them. These foundations include the Nathan Cummings, Sculpt the Future Foundation, ClimateWorks, Kresge, William & Flora Hewlett, David & Lucille Packard, Energy Foundation, V. Kann Rasmussen, Mertz Gilmore, Rockefeller, Tomkat Charitable Trust, Clif Bar Family, and Global Green USA.\r\n\r\nThe CC team personally know a large number of individuals who have the capacity to donate between $2,500 and $15,000 each.  We have begun to approach such people to ask for seed funding. We are also beginning to cultivate relationships with friends of friend and other second-hand contacts to lay the groundwork for future solicitations.\r\n\r\nWe are open to partnerships with corporations and government agencies. While we imagine that these entities would most likely funnel support to us for carbon reduction projects, we believe that some of these may be interested in supporting capacity building and core operating costs. We believe government agencies will fund us because they’ll appreciate the efficiency of our model and the way in which it provides transparent tracking of results, enabling them to engage their constituents in solid data and illustrations of their investment. Corporations will lend their support to burnish their public image, both as off-setting their own carbon emissions and showing a general interest in the public good and the health of disadvantaged communities. As with individual members, government agencies and donors of all sorts, we are betting that our unique selling proposition, our “value add” as the world’s first responsive and transparent system for investing in and tracking climate change mitigation will establish Climate Cents as the go-to clearinghouse for local-to-local funding of carbon reduction and climate change mitigation projects."
-  - name: budget
+    answer: "Climate Cents’ projected organizational budget for 2016 is $200,000. A $100,000 grant will be dedicated to upgrading our platform from the prototype to a full-fledged realization of our vision, and gaining users through outreach efforts, while funding from other sources will support on-going efforts to forge partnerships, research the science of greenhouse reduction for each local environmental project, develop future revenue sources, oversee web development, spearhead outreach and manage overall operations.\r\n\r\nTo cover our expenses, we have a comprehensive a fundraising plan that includes:\r\n\r\n1. Building a board and advisory council of people who can write checks and raise money from their networks. Our Advisory Board already includes tech and entertainment executives, scientists, and environmental and civic leaders. Through this group, we have the connections necessary to raise the funds necessary to bridge the time until we are self-sustaining.\r\n\r\n2. Applying for grants from more than twenty local and national foundations, especially those focused on climate change, digital innovation, start-ups and young social entrepreneurs. These include Durfee Springboard, Halcyon Incubator Fellowship, SVP Fast Pitch, SocEnt Venture Challenge, Echoing Green Climate Fellowship, Knight Prototype Fund, Draper Richards Kaplan Fellowship, Rainer Arnhold Fellowship, RSF Seed Fund, Google Grant, Mertz Gilmore Foundation, Max Factor Family Foundation, Roth Family Fund, Sidney Stern Memorial Trust, William & Flora Hewlett Foundation, Rockefeller Foundation, Lisa & Douglas Goldman Fund, David & Lucille Packard Foundation, MacArthur Foundation, and the Nathan Cummings Foundation, \r\n\r\n3. Soliciting major donors and businesses in the networks of the organization’s leaders. We are working with a fundraising consultant, pro bono, to do this effectively. We have already raised $10,000 and are cultivating several dozen other donors.\r\n\r\n4. Deepening our existing relationships with climate groups like Tom Steyer’s NextGen Climate and following up on discussions about the possibility of them funding our work."
+  - name: >-
+      Please include a detailed budget of how you will use $100,000 to implement
+      this project.
     label: ''
     explanation: ''
-    answer: "Climate Cents’ model is predicated on converting 100% of online membership support into environmental improvement and carbon reduction projects. This feature is a major selling point to individual donors who are assured of the immediate impact of their investment. Thus we seek funding from foundations, major individual donors, and institutional supporters such as corporations and government agencies to cover the cost of administration, overhead and capacity building. It’s necessary to have organizational infrastructure in place to make it possible to for small donors to seamlessly fund high-quality local projects.\r\n\r\nAn LA2050 grant of $100,000 would fund the major start-up costs of Climate Cents—the salaries and consulting expenses necessary to build a world-class web platform, forge partnerships with other environmental groups, do extensive community outreach, execute a dynamic and powerful marketing campaign, and do development to find other sources of sustainable revenue.\r\n\r\nThe LA2050 grant would fund specifically:\r\n\r\nPart-Time Grant Writer \t\t\t$12,000\r\nMarketing Campaign Contract \t\t$11,000\r\nExecutive VP Product & Operations\t\t$47,000 (partial funding of $72,000 salary)\r\nOutreach, Communications and Administrative Coordinator  30,000 (partial funding of $52,000 salary)\r\n\r\nThe CEO and founder, Nick Karno, will be uncompensated or compensated at a very low-level.  He will focus his efforts on fundraising from major donors, being the public face of the organization as it conducts community outreach, and forging partnership agreements.\r\n\r\nThe Executive VP of Product and Operations, Dylan Fergus, will be personally responsible for the development of the CC online platform and for the operational details of obtaining data and visuals from the project sites and integrating that feedback into the user experience. He will also handle day-to-day relations with the environmental partners, as well as graphic design and social media strategy.\r\n\r\nThe Grant Writer, David Levitus, will shape development strategy and craft funding proposals to foundations on a part-time basis.\r\n\r\nThe Outreach, Communications and Administrative Coordinator will provide day-to-day support for researching and setting up community outreach opportunities, initiating CC parties around the city, coordinating meetings, maintaining a calendar, and doing regular social media work.\r\n\r\nClimate Cents will hire a marketing firm for the January 2015 public launch to garner significant publicity."
-  - name: resources_money
+    answer: "We would use $100,000 to upgrade our platform from a “minimum viable product” (MVP) to a full-fledged realization of our vision, and to gain users through extensive community outreach efforts and a robust marketing campaign. These growth efforts will include hiring an Outreach/Marketing Director for the final 8 months of 2016. That person will manage a public launch event; work with Swell Creative Group to run digital communications campaigns, including advertising, with the help of volunteers; and to coordinate in-person outreach with the help of volunteers and by organizing key community leaders and influencers.\r\n\r\nWebsite Development – Heroic Studios  |  $20,000 \r\n\r\nDigital Communications Strategy – Swell Creative Group  |  $13,500\r\n\r\nAdvertising (web, social media)  | $16,500\r\n\r\nPublic Launch Event  | $10,000\r\n\r\nOrganizing & Marketing Director (8 months salary) | $40,000"
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Money (financial capital)
     label: Money (financial capital)
     explanation: ''
     answer: '1'
-  - name: resources_staff
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Volunteers/staff (human capital)
     label: Volunteers/staff (human capital)
     explanation: ''
     answer: '1'
-  - name: resources_publicity
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Publicity/awareness (social capital)
     label: Publicity/awareness (social capital)
     explanation: ''
     answer: '1'
-  - name: resources_infrastructure
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Infrastructure (building/space/vehicles, etc.)
     label: 'Infrastructure (building/space/vehicles, etc.)'
     explanation: ''
-    answer: '1'
-  - name: resources_education
+    answer: '0'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Education/training
     label: Education/training
     explanation: ''
     answer: '1'
-  - name: resources_technical
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Technical infrastructure (computers, etc.)
     label: 'Technical infrastructure (computers, etc.)'
     explanation: ''
     answer: '1'
-  - name: resources_communityoutreach
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Community outreach
     label: Community outreach
     explanation: ''
     answer: '1'
-  - name: resources_network
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Network/relationship support
     label: Network/relationship support
     explanation: ''
     answer: '1'
-  - name: resources_research
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Quality improvement research
     label: Quality improvement research
     explanation: ''
     answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Specifics
+    label: ''
+    explanation: ''
+    answer: ''
+  - name: How do you plan to scale the success of your proposal?
+    label: ''
+    explanation: ''
+    answer: "Climate Cents is designed to scale up and then become self-sustaining. As a digital platform, the cost of every additional user is small. And as we grow, we plan to take a small cut of crowdfunding revenue to ensure our financial sustainability. Our plan anticipates that we’ll be at scale in L.A., with 25,000 regular users, within four years, and near financial self-sufficiency. We’ll then start preparing for expansion of the local-to-local model to other cities. The marginal costs of expansion will be low – we can use the underlying technology and marketing campaigns we’ve honed in L.A. \r\n\r\nThe proof of our potential is that in less than 6 months and with less than $20,000, we transformed CC from an idea on paper to a website that's already crowdfunding projects. In that time, we vetted partners and researched the science of GHG reduction for each project; mapped outreach strategies; built a platform prototype; initiated a “beta test” with fifty users and gathered extensive feedback to design the platform’s next iteration.\r\n\t\r\nThe next iteration will build on the prototype’s success to create the kind of visually elegant, easy-to-use, and emotionally compelling experience that keeps users returning frequently and telling their friends about it. We’re building in more advanced social media features, crowdfunding deadline notifications, and gamification elements. Social sharing will be baked into the platform. When you sign up, you’ll be prompted to share this fact and the carbon reduction you’re making possible on Facebook and Twitter. Giving to projects will make you look good personally and motivate your friends to take action. This positive feedback feature is crucial to the success of Climate Cents – people will respond once they see the good their efforts are producing, and it will make them feel like they can achieve something real, if we all do our part.\r\n\r\nInitial research suggests that there’s a large population of people who would be interested in a platform like Climate Cents. People care about climate change, but they feel overwhelmed by the enormity of the problem and too busy to figure out the best way to make a difference. If they learn about Climate Cents we’re confident they’ll use it to take action. \r\n\t\r\nAfter the platform’s launch, we’ll execute a multi-pronged outreach strategy that involves community organizing, guerilla marketing, digital marketing, and earned media. We'll evaluate the ROI for each tactic, adjusting as necessary."
 body_class: blueberry
+organization_name: Climate Cents
 published: true
 
 ---

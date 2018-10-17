@@ -5,8 +5,13 @@ organization_id: '2018089'
 areas_impacted: ''
 partners: ''
 project_summary: >-
-  Partners with @lanhs are turning an abandoned, blighted grocery store in
-  Compton into a Center for Sustainable Communities.
+  Utilizing the model of "What Makes Community?" as our focus, NHS is working
+  with the City of Compton, Pacific Coast Regional, and Metro CDC to create the
+  first of several Centers for Sustainable Communities in South LA. The CSC will
+  help low-to-middle income families in Compton deal with the impacts of
+  divestiture by serving as a hub to provide access to housing, transit,
+  employment, healthy living, and community food resources that make communities
+  stronger and more resilient.
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -136,428 +141,533 @@ project_areas:
   - South LA
   - County of Los Angeles
 maker_answers:
-  city_state: 'Los Angeles, CA'
-  org_name: Neighborhood Housing Services of Los Angeles County (NHS)
-  org_website: www.NHSLACounty.org
-  org_twitter: www.twitter.com/lanhs
-  org_facebook: www.facebook.com/NHSLAC
-  org_instagram: ''
-  org_mailingaddress: '3962 Wilshire Blvd, Suite 200, Los Angeles, CA 90010'
-  org_ein: '953938955'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: >-
-    NHS is a catalyst for local residents, business, and government to work
-    together to build stronger neighborhoods.
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '0'
-  area_southLA: '1'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '0'
-  area_other_blank: ''
-  describe_idea: >-
-    Partners with @lanhs are turning an abandoned, blighted grocery store in
-    Compton into a Center for Sustainable Communities.
-  more_detail: >-
-    Utilizing the community development model of "What Makes Community?" as our
-    planning paradigm, NHS is working with the City of Compton, Pacific Coast
-    Regional Small Business Development Corporation, and Metro CDC to create the
-    first of several Centers for Sustainable Communities in South LA. The CSC
-    will offer community resources for low-to-moderate income (LMI) families in
-    Compton deal with impacts of economic divestiture by serving as a hub to
-    provide information and access to resources that make communities stronger
-    and more resilient. Residents and businesses will tap a range of services
-    related to housing, transit, economic development, environmental
-    stewardship, job training, skills development, urban agriculture, and
-    healthy living. 
-  implement: "The vision driving the Center for Sustainable Communities involves addressing a broad spectrum of issues, and at the center of this focus is the commitment to promote sustainability and resiliency. The need to tie employment, housing, place, business, and lifestyle is critical to sustainable community life, and creating a CSC will serve as a catalyst for achieving broader community and personal empowerment goals that will help low-to-moderate income families in South LA most adversely impacted by economic volatility. \r\n\r\nAs CSC landowner, NHS will serve as lead partner with the City of Compton, METRO CDC, and the Pacific Coast Regional Small Business Development Corporation. NHS acquired the 28,283 sq ft building and surrounding parcel in March 2014 and we have entered the site planning and renovation phase of the project. Our main priority is to upgrade the CSC facility and provide highly needed economic development, healthy living, and job training services for the Compton community. NHS plans to house 5-8 initial tenants by fall 2014 with full tenancy by the end of 2014 if possible. As a part of that plan, immediate term (one year) goals and implementation timelines for the CSC include:\r\n\r\n• Upgrade the existing facility to accommodate 5-8 non-profit and commercial tenants (August - December 2014);\r\n• Subcontract to create Computer Training and Technology Center (August - October 2014);\r\n• Partner with Metro CDC to create office for youth job training/entrepreneurship programs (August - September 2014);\r\n• Partner with Pacific Coast Regional Small Business Development Corporation (PCR) to establish on-site Business Incubator Program (September – November 2014);\r\n• Phase in green technology upgrades (solar electric panels, low-water fixtures, solar hot water) and community garden plots as a part of the structural retrofits and property rehab (September 2014 – March 2015).\r\n\r\nShort term (1-2 years) goals and the implementation timeline for the CSC include:\r\n\r\n• Finalize a local land use plan with community partners and adjacent land owners (Fall 2014);\r\n• Establish Health & Fitness rooms, a Healthy Living Café, free library, child play area, and permanent organic gardens (Summer 2015).\r\n• Create a Community Green Education & Conservation Center (Summer 2015);\r\n• Create a farmer’s market enterprise to support the Center (Fall 2015);\r\n• Serve approximately 250 families (Sept – Dec 2014);\r\n• Serve approximately 5,000 families (Jan – Dec 2015).\r\n\r\n"
-  impact_create: "As low income communities in South LA continue to address ongoing blight and strive towards long-term post-foreclosure neighborhood stabilization, the focus for many neighborhoods becomes how to approach the broader environmental, social, health, and economic impacts of long term divestment on residents and families. Of primary concern is how to deal with the growing challenges among these neighborhoods regarding chronic unemployment/underemployment, reduced capital access for small business development, the ongoing threat of food insecurity, substandard transit options, skyrocketing housing costs, educational disparities, and youth disengagement. Decades of studies confirm that these problems disproportionately affect underserved and impoverished communities. For example, the current surge in home purchase and rental costs means housing now consumes over 65% of average median income on average in LMI communities. Add to that consistently high unemployment (15%), a nearly 3 to 1 ratio in loan denial rates, and limited access to mass transit and healthy food - which has been proven to impact employment and educational performance – and the need for greater resources to meet basic economic demands and achieve a moderate living standard  becomes evident.\r\n\r\nIn response, NHS' CSC will provide the Compton community in South LA a central hub that will serve as a network of resources to build and support a solid foundation for creating neighborhood sustainability. Specific impacts include 1) Improving the job readiness and overall skills base of local workforce; 2) Providing healthy living services and resources to residents; 3) Reaching and training residents in IT and tech skills; 4) Increasing lending access and originating loans for small business owners; 5) Engaging  youth (ages 5-24) in on-site green education and mentoring programs; 6) Assisting families through our CSC Homeownership Center; 7) Establishing community garden projects in surrounding neighborhoods; 8) Establishing home garden projects with youth workers. \r\n\r\nIn addition to meeting crucial resource access needs for LMI families, the CSC will allow NHS and its partners to utilize and share sustainability concepts that drive planning approaches in other impacted communities throughout the City and County.\r\n\r\n "
-  who_benefit: "The CSC will serve hundreds of LMI minority families in a community that has endured many of the worst impacts of the economic downturn and decades of blight. NHS has a long and very successful history of serving low-to-moderate income neighborhoods. For 30 years, 90% of our client base has been LMI minority families residing in the poorest and most neglected neighborhoods of Los Angeles County. In 2013, 95% of NHS clients were considered LMI and 84% of NHS’ clients were ethnic minorities. In addition to meeting crucial resource access needs for these LMI families, the CSC will allow NHS and its partners to utilize and share sustainability concepts that drive planning approaches in other impacted communities throughout the City and County.\r\n\r\nAs the facility grows, the CSC will expand to help hundreds of small business owners, neighborhood non-profit groups, and homeowners through on-site services and regional partnerships with community service groups, CDCs, green organizations, health providers, technology professionals, schools, and municipal entities. At least 50% of the tenants will be service-driven. By 2015 we expect to partner with the adjacent Los Angeles Conservation Corps Campus to magnify our regional impact, collaborate to attract a wide range of volunteers for our municipal water and green projects, and reach out to the educational community as the Compton Creek Project evolves.\r\n\r\nWith respect to our current outreach efforts, engaging the architectural, landscape design and municipal services community in the early stages of the planning process has already yielded a significant response by critical stakeholders and the community toward the development of a sustainable space.  As a part of this initial outreach plan, NHS is hosting a series of summer BBQs with its new neighbors as a means of engagement to meet, dialogue, assess community needs, and clarify the focus for the project from the community perspective.  The project and landscape architects are deeply involved with this process so that they can adapt community strategies into the program and facility design more effectively.  As this vision and campaign evolves, we believe that the outcome and value created by establishing the Center will greatly help the people and the City Compton as a Community of Choice while also creating sustainable jobs for residents.  "
-  partners_collaboration: "NHS has entered into agreements with the City of Compton, METRO CDC, and the Pacific Coast Regional Small Business Development Corporation (PCR) as primary partners and is formalizing arrangements with the Los Angeles Conservation Corps, the LA County Department of Health,  the LA Food Policy Council,  Community Services Unlimited, and the Los Angeles Department of Neighborhood Empowerment to provide expertise, customized services, training opportunities, and cross-collaborative projects through the CSC. \r\n\r\nCritical factors include: 1) a commitment to build sustainability in Compton/South LA, 2) eliminating “silo organizing” on common regional issues, and 3) applying skills gained from managing eight years of neighborhood revitalization consortia during the economic crisis to assist in better serving LMI communities. \r\n\r\nEach partner brings unique experience and value:\r\n• City of Compton – Compton contributed bond funds to acquire the property and will facilitate project approvals, general public outreach, and program advocacy. \r\n• METRO CDC – Providing neighborhood outreach, employment training, community engagement, and referral services for youth and young adults. \r\n• Pacific Coast Regional Small Business Development Corporation – A CSC tenant, PCR offers financial, educational and consulting services to small business owners and start-ups. \r\n• Los Angeles Conservation Corps – LACC will partner on environmental and urban reclamation projects in the Compton Creek watershed and surrounding area and will provide training, education, and mentoring for youth.\r\n• Community Services Unlimited – As one of the largest urban Community Supported Agriculture food distributors in South LA, CSU will offer urban gardening, green business resources, and cross training expertise.  \r\n• Los Angeles County Board of Supervisors – Supervisor Mark Ridley-Thomas’ office provides project level funding opportunities and overall support for NHS and the CSC. \r\n• LA Food Policy Council – The LAFPC has agreed to help coordinate events, outreach, and advocacy through the CSC in addition to serving as a partner in creating community gardens. \r\n• Los Angeles Department of Neighborhood Empowerment – As the oversight agency of neighborhood councils, LADNE will provide extensive outreach, special project coordination, and a grassroots connection to regional community groups. \r\n• LA County Department of Health – Committed to helping NHS create living projects and support our clinic plan."
-  metrics_create_employment: '1'
-  metrics_create_arts: '0'
-  metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '1'
-  metrics_create_patents: '0'
-  metrics_create_jbs: '1'
-  metrics_create_minoritywomenowned: '1'
-  metrics_create_gini: '1'
-  metrics_create_startups: '1'
-  metrics_create_venturecapital: '1'
-  metrics_create_influencers: '1'
-  metrics_create_recruitingrates: '1'
-  metrics_create_graduates: '1'
-  metrics_create_unemployment: '1'
-  metrics_create_other: '1'
-  metrics_create_blank: Create equity and affordable homeownership opportunities
-  impact_metrics: "Our expected outcomes will make a vital difference for LMI families and small businesses looking to create new job training options in multiple fields, improve personal and community health, and expand sustainable economic opportunity in South LA/Compton. Through the CSC, we will help rebuild neighborhoods with programs that keep teens active and healthy and where people coming out of prison can build marketable skills and avoid reincarceration. The CSC services will remove obstacles to accessing flexible capital for small business, expand affordable lending for families, and fund business incubators in our targeted neighborhoods. Over the first two years the CSC will strive to build the number of minority- and women-owned firms by ____%; provide training, credit education, and finance options to create and support the expansion of ____ local startups; and stimulate direct venture capital investment through lending partnerships by $_______. Our CSC Homeownership Center will create equity and build affordable homeownership opportunities for LMI families by ___%.\r\n\r\nLow income and African America/Latino young adults have the highest unemployment rates and fewest high school and college graduates among residents in South LA. In addition, With a 74% high school dropout rate (36% of the parents with no high school diploma and only 31% with some college), the tide has been going in the wrong direction for decades for at-risk youth. The Center’s youth programs will expand educational and peer support, function as a gateway for IT job training, and improve skills for healthier living, driving retention rates at local higher education institutions, creating employment opportunities, and increasing the jobs per capita rate to ___. As a tool for driving employment in creative industries and transitioning youth, the CSC will partner with a music/entertainment company to create a media production studio at the site. Empowering youth to pursue higher education, choose meaningful work, and remain in the County is a high priority. Giving youth and young adults incentive and personal investment to live, work, and give back in their communities when they return is critical for healthy and vibrant neighborhoods. Our federal partnerships with HUD and ongoing relationships with state and local government agencies will create options for extensive data tracking and research to guide the quality and rate of progress towards sustainability as well. "
-  best_place_to_learn: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '1'
-  best_place_to_play: '0'
-  evaluate: "Specific benchmarks for the CSC and its services include:\r\n• Annually improving job readiness and overall skills base of local workforce by 20 %;\r\n• Providing healthy living services and resources to 1,500 residents per year;\r\n• Reaching and training 250 residents annually in IT and tech skills;\r\n• Annually increasing lending access and originate loans for 50 small business owners;\r\n• Engaging  200 youth (ages 5-24) in on-site green education and mentoring programs; \r\n• Assisting 1,200 families annually through the Homeownership Center;\r\n• Establishing 3 community garden projects in surrounding neighborhoods annually;\r\n• Establishing 50 home garden projects with youth workers annually. \r\n\r\nFor primary CSC education and service delivery programs, NHS will work with service partners to adapt a series of specialized intake/survey forms and case management methods that NHS has utilized over the last ten years as a part of its ongoing Financial Education and Foreclosure Counseling programs to track and evaluate the impact and effectiveness of job training, homeowner education, senior and afterschool programming, and small business education programs.  In addition, our on-site interactive data tracking and evaluation models will help planners, businesses, residents, employees, and community groups access information and relevant data regarding regional housing, transit, and financial management options based upon geographic factors and other variables.  For example, a Location Affordability Portal would provide NHS with reliable, user-friendly data and resource estimates on combined housing and transportation costs to help residents, policymakers, and developers make more informed decisions about where to live, work, and invest in their community. A Smart Location and Sustainable Communities Database will provide additional detailed analysis to assist users where to best locate within a neighborhood based on affordability analyses, estimates of energy cost savings from green housing retrofits, and potential business profitability data rooted in transit cost factors for potential clients.\r\n\r\n"
-  two_lessons: "Achieving sustainability and building resilient neighborhoods in traditionally blighted and neglected communities requires creating and sharing tools that will help residents and business come together to fulfill their vision for the community. Resident buy-in and engaging beneficiaries and stakeholders in the planning and evolution of programs like the CSC is absolutely crucial.\r\n\r\nBringing community partnerships together and creating new support networks is critical to achieve sustainability and increase resilience. \r\n\r\n"
-  achievable_goal: "NHS secured the CSC property in March 2014 and has formalized agreements with six critical CSC partners (PCR, Metro CDC, LA Conservation Corps, the LA County Department of Health, HUD, and the City of Compton). All architectural documents and permits have been completed to move the project into the primary phase of repurposing the facility. We are now in the process of renovating and upgrading the facility to accommodate 5-8 non-profit and commercial tenants. Funding to complete the renovation and construction phase is in hand and it is expected the CSC will house initial tenants by late summer 2014 with full tenancy by the end of 2014 if possible. At least 50% of the tenants in the CSC facility will be service-driven. Given that the community has endured an abandoned and neglected 28,000 sq ft building for the past nine years, NHS feels obligated to open the facility and establish community services as soon as possible. \r\n\r\nOnce the core tenants and service providers have relocated offices to the facility, the Center will install large-scale community demonstration gardens and green technology upgrades on the property as a part of its on-site educational and community engagement focus. NHS will open an initial satellite office at the CSC in late summer 2014 and is able to administer the facility with minimal staff transition. NHS plans to utilize and reassign at least two existing staff to NHS offices at the CSC property and hire additional personnel to manage the property. \r\n\r\nNH is confident the CSC will continue to attract partners and support in the Compton/South LA community. For 30 years NHS has partnered with private and public investors,\r\nfinancial institutions, foundations, national non-profits, and municipalities to create and expand sustainable funding relationships\r\nto broaden access to capital. Our long history of serving populations\r\nin need with direct assistance and specialized housing programs has\r\nconsistently earned us high marks with our funders and supporters.\r\nBased on our project funding projections and overwhelmingly positive response NHS has received from residents and partners, we believe there is sufficient support among investors and residents to meet the resource needs of the CSC."
-  major_challenges: "Though we have adequate funds in hand to meet our initial costs for launching the CSC, securing an ongoing source of sustainable funding and investment commitments to maintain our CSC over the first five years of operation will be a challenge. Our primary focus over the first phase of our launch (September 2014 - December 2014) will include locking up the necessary number of non-profit service and commercial tenants for the Center as well as continuing to leverage funds through the City of Compton, CDCs, regional financing partners, and community lending organizations to ensure viability through 2015 and beyond. \r\n\r\n\r\n\r\n"
-  competition: "There are dozens of organizations in Los Angeles County that focus on encouraging and promoting sustainability programs for a wide array of stakeholders (Global Green, Sustainable LA, etc.) . And there are a vast number of green and environmentally-focused programs that assist the business community, schools, government agencies, and municipalities with transitioning to a more sustainable and green future. But the CSC is truly unique in that it will serve as a diverse, multi-use facility in South LA that will provide a broad range of critically needed specialized services, information, and access to resources that will make underserved and blighted communities stronger, more resilient, and sustainable. Specifically, the CSC will include a set of features and services not found elsewhere in the region in a single location. These include a business incubator, a Homeownership Center, health clinic services, fitness rooms, a Computer Training and Technology Center, free community meeting space, senior and afterschool programming, a free library, youth job training, a Community Green Education & Conservation Center, a Healthy Living Cafe, non-profit and select commercial tenants, and organic urban gardens. With the exception of the Eco-Village in Los Angeles, there isn't another property and partnership on the scale of what NHS is undertaking with the CSC plan. \r\n\r\nAlso, NHS is prepared to construct up to 36 units of affordable housing on the adjacent parking lot as may be needed to accommodate HUD eligible uses. The purchase agreement does not require housing as a part of its community needs assessment to make the project feasible, but it remains a viable option. We are excited about the level of flexibility to expand the project in this way, a feature that can serve as a model approach for applying sustainability concepts and strategies in an innovative capacity. "
-  cost: "The property was purchased for $2.6 million using HUD NSP2 funds and institutional lenders and we need to raise an additional $250,000 to meet our initial project projection. NHS has already entered into MOUs with several developers to initiate land bank, joint ventures, healthy schools initiative work, urban gardening and other community development strategic alignment agreements. A key goal is to further target New Markets Tax Credits, Housing Community and Investment Department (HCID) Funds in Los Angeles, faith-based institutions, Department of Transportation grants, METRO transit grants, and exploring as many community investment options as appropriate to leverage the project.  \r\n\r\nNHS and PCR will utilize revenues generated from these programmatic activities and CSC tenant rentals to help fund initial development and expansion and is pursuing foundation fundraising to cover financial gaps.  Because of commitments from local foundations, federal agencies, and a handful of donors, we are in a good position to leverage partnerships with local banks, servicers, and the City of Compton to move forward together in our commitment to serve Compton/South LA."
-  budget: "The CSC will be funded by a mix of public/private community partner and major donor support. The award will also allow us to leverage additional funds to help NHS and its partners meet initial production costs as we build on our vision to create sustainable economic and educational opportunities for the residents of Compton.\r\n\r\nNEED BUDGET"
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '1'
-  resources_infrastructure: '1'
-  resources_education: '0'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_network: '1'
-  resources_research: '0'
+  How did you hear about this challenge?: 'Email '
+  'City, State': 'Los Angeles, CA'
+  Organization(s) name(s): Neighborhood Housing Services of Los Angeles County (NHS)
+  Organization(s) mailing address(es): '3926 Wilshire Blvd, Suite 200, Los Angeles, CA  90010'
+  Organization(s) website(s): www.nhslacounty.org
+  Organization(s) twitter handle(s): www.twitter.com/nhsla
+  Organization(s) facebook handle(s): www.facebook.com/NHSLAC
+  Organization(s) instagram handle(s): www.instagram.com/nhslacounty
+  Please share the direct link for voters to sign up for your newsletter(s): >-
+    http://visitor.r20.constantcontact.com/manage/optin?v=001kkqO0FxDKZTZOY2rUR__OIoL_zHbgz-3EFKN9UBqWzE-VI89PF-5bZzjOlaC4zWkfOt9szD4VpMVAojKpwmF-KrHWm_p_IM_hzDlRbuVgZtlCoG2aTOjib5QaKqumnXxDq8rIYQ8ft1I2J2qf8lX6pqomAEE1HfR
+  EIN (for each organization): 95-3938955
+  'Describe your organization(s): Non-profit': '1'
+  'Describe your organization(s): For-profit': '0'
+  'Describe your organization(s): Government': '0'
+  'Describe your organization(s): Other': '0'
+  'Describe your organization(s): Specifics': ''
+  'In one sentence, please describe what your organization does.': >-
+    NHS strengthens neighborhoods through the development of quality affordable
+    housing, the creation of affordable homeownership opportunities, and
+    increasing the financial independence of families in need.
+  'In one to three sentences, please describe your proposal.': >-
+    Utilizing the model of "What Makes Community?" as our focus, NHS is working
+    with the City of Compton, Pacific Coast Regional, and Metro CDC to create
+    the first of several Centers for Sustainable Communities in South LA. The
+    CSC will help low-to-middle income families in Compton deal with the impacts
+    of divestiture by serving as a hub to provide access to housing, transit,
+    employment, healthy living, and community food resources that make
+    communities stronger and more resilient.
+  Please write a sample tweet to describe your submission.: >-
+    #NHS is transforming an abandoned grocery store in #Compton into the
+    #CenterforSustainableCommunities  
+  LA is the best place to CREATE: '0'
+  LA is the best place to CONNECT: '1'
+  LA is the best place to PLAY: '0'
+  LA is the best place to LEARN: '1'
+  Where will you be working? Central LA: '0'
+  Where will you be working? East LA: '0'
+  Where will you be working? San Gabriel Valley: '0'
+  Where will you be working? San Fernando Valley: '0'
+  Where will you be working? South LA: '1'
+  Where will you be working? Westside: '0'
+  Where will you be working? South Bay: '0'
+  Where will you be working? Antelope Valley: '0'
+  Where will you be working? County of Los Angeles: '1'
+  Where will you be working? City of Los Angeles: '0'
+  Where will you be working? LAUSD: '0'
+  Where will you be working? Other: '0'
+  Where will you be working? Specifics: ''
+  How do you plan to use these resources to make change? Conduct research: '0'
+  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
+  How do you plan to use these resources to make change? Implement a pilot or new project: '1'
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  How do you plan to use these resources to make change? Implement and track policy: '0'
+  How do you plan to use these resources to make change? Other: '0'
+  How do you plan to use these resources to make change? Specifics: ''
+  How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare access: '1'
+  How will your proposal improve the following “Live” metrics? Exposure to air toxins: '0'
+  How will your proposal improve the following “Live” metrics? Number of households below the self-sufficiency index: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of imported water: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing affordability: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of homelessness: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Walk/bike/transit score: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and miles of polluted waterways: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of mental illness: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of adverse childhood experiences (Dream Metric): '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of LA communities that are resilient (Dream Metric): '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of residents receiving coordinated healthcare services (Dream Metric): '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of tree canopy cover (Dream Metric): '0'
+  'DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE: ': "NHS' Center for Sustainable Communities will serve hundreds of low income families annually in a region that has endured many of the worst impacts of the economic downturn and decades of blight. Of primary concern is how to deal with the growing challenges among these neighborhoods regarding chronic unemployment and underemployment, reduced capital access for small business development, the ongoing threat of food insecurity, substandard transit options, skyrocketing housing costs, educational disparities, and youth disengagement. \r\n\r\nIn response, the Center for Sustainable Communities will provide the people of Compton and South Los Angeles County a facility that will serve as a hub to build a solid foundation for creating neighborhood sustainability over the next decades. Specific impacts include 1) Improving the job readiness and overall skills base of local workforce; 2) Providing healthy living resources and medical clinic services to residents; 3) Reaching and training residents through the CSC Neighborhood Revitalization Institute; 4) Increasing access to business incubator services and originating loans for small business owners; 5) Engaging  youth (ages 5-24) in on-site green education and mentoring programs; 6) Assisting families through our Financial Opportunity Center; 7) Establishing community garden projects on the property and in surrounding neighborhoods; 8) Providing valuable community meeting space. In addition to meeting crucial resource access needs for families, the Center will allow its partners to share sustainability concepts that drive planning approaches in other impacted communities throughout South Los Angeles and LA County.\r\n\r\nAs the facility grows, the Center will expand to help hundreds of small business owners, neighborhood non-profit groups, and homeowners through on-site services and regional partnerships with community service groups, community development agencies, green organizations, health providers, technology professionals, schools, and municipalities. At least 50% of our tenants will be service-driven. By winter 2016 we expect to partner with the adjacent Los Angeles Conservation Corps Campus to magnify our regional impact, collaborate to attract a wide range of volunteers for our municipal water and green projects, and reach out to the educational community as the Compton Creek Project evolves.\r\n"
+  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "Though we have adequate funds in hand to meet our initial costs for launching the Center, securing an ongoing source of sustainable funding and investment commitments to maintain the facility over the first five years of operation will be a challenge. Our primary focus over the first year of operation (Dec 2015 - Dec 2016) will include facilitating the necessary number of non-profit service and commercial tenants for the Center as well as continuing to leverage funds through the City of Compton, CDCs, regional financing partners, and community lending organizations to ensure viability through 2016 and beyond. \r\n\r\nAn additional challenge involves meeting the immediate needs of the community. Given that the community has endured an abandoned and neglected building since 1990, NHS feels obligated to open the facility and establish community services as soon as possible. Allocating staff to co-manage the Center will be a driving force behind staying on our planning schedule.\r\n"
+  Please explain how you will evaluate your work.: "Gauging the success and impact of the project will require tracking data among partners and service providers that utilize the facility. NHS will work with partners to consolidate and filter impact data of those taking courses, attending classes, and receiving training. Affiliated groups working through the Center will be asked to share all relevant statistics and deliverables data with NHS. NHS will serve as the central filter for evaluating the impacts and status of job training, homeowner education, senior and afterschool programming, and small business education programs. \r\n\r\nSpecific annual benchmarks include:\r\n• Providing healthy living services and resources to 1,500 residents;\r\n• Assisting 1,200 families through the Financial Opportunity Center; \r\n• Improving job readiness and overall skills base of local workforce by 20%;\r\n• Establishing 50 home and neighborhood gardens with youth workers; \r\n• Increasing lending access for 50 small business owners.\r\n"
+  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are dozens of organizations in Los Angeles County that focus on encouraging and promoting sustainability programs for a wide array of stakeholders (Global Green, Sustainable LA, etc). And there are a vast number of health and community support groups and programs that assist small businesses, schools, government agencies, and municipalities with transitioning to a more sustainable future. Some of these non-profits in the housing and neighborhood revitalization/community health field such as Habitat for Humanity and the Neighborhood Assistance Corporation of America operate in more specific areas of direct need such as stand-alone housing construction and exclusively foreclosure relief. There are smaller-scale community centers in surrounding cities that offer valuable neighborhood resources, but the Center for Sustainable Communities is truly unique in that it will serve as a diverse, multi-use 28,000 sq ft facility in South LA that will provide a broad range of critically needed specialized services, information, and access to resources that will make underserved and blighted neighborhoods in Compton and surrounding communities stronger and more resilient. \r\n\r\nSpecifically, the Center will include a set of features and services not found elsewhere in the region in a single location. These include a business incubator, health clinic services, fitness rooms, a Community Technology Center, free community meeting space, a Neighborhood Revitalization Institute, senior and afterschool programming, a free library, adult and youth job training, a Green Education & Conservation Center, a Healthy Living Cafe, non-profit and select commercial tenants, and organic urban gardens. With the exception of the Eco-Village in central Los Angeles, there isn't another property and partnership on the scale of what NHS is undertaking with the plan. With the first Center scheduled to open in Compton in December 2015, NHS will be exploring additional locations for new Centers in underserved communities and cities throughout Los Angeles County over the next decade.  \r\n"
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "NHS has entered into agreements with the City of Compton, Metro CDC, and the Pacific Coast Regional Small Business Development Corporation as primary partners and is formalizing arrangements with the Los Angeles Conservation Corps and Christian Health Centers to provide expertise, customized services, training opportunities, and cross-collaborative projects through the Center. The LA2050 award will be allocated to partners based on this formula: NHS - $40,000; each partner (4 total) - $15,000. \r\n\r\nEach core partner brings unique experience and value:\r\n• City of Compton – Compton contributed bond funds to acquire the property and will facilitate project approvals, general public outreach, and program advocacy. \r\n• METRO CDC – Providing neighborhood outreach, employment training, community engagement, community garden management, and referral services for youth and young adults. \r\n• Pacific Coast Regional Small Business Development Corporation – As a tenant, PCR offers financial, educational and consulting services to small business owners and start-ups. \r\n• Los Angeles Conservation Corps – LACC will partner on environmental and urban reclamation projects in the Compton Creek watershed and surrounding area and will provide training, education, and mentoring for youth.\r\n• Christian Health Centers  – Providing full service health clinic programs and services. \r\n\r\nAt least 50% of the tenants in the CSC facility will be service-driven. Critical factors for partnerships include: 1) a commitment to build sustainability in Compton/South Los Angeles County, 2) eliminating “silo organizing” on common regional issues, 3) diversity of services offered, and 4) history of delivering neighborhood revitalization programs in low income communities.\r\n"
+  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The Center will be funded by a mix of public/private community partner and major donor support. The total estimated cost of the acquisition and renovation of the facility is $7.3m. The property was purchased in 2014 for $2.6 million and we need to raise an additional $950,000 to meet our initial project projection. NHS has already entered into MOUs with several developers to finalize land bank, joint ventures, healthy schools initiative work, urban gardening and other community development strategic alignment agreements. The project is currently under construction. A key goal is to further target New Markets Tax Credits, local lender financing, faith-based institutions, foundation capital grants, and exploring as many community investment options as appropriate to leverage the project.  \r\n\r\nNHS will use CSC program activities and tenant rentals to help fund project costs and is securing additional foundation fundraising to cover financial gaps. Because of commitments from local foundations, federal agencies, and a handful of donors, we are in a good position to leverage partnerships with local banks, servicers, and the City of Compton to move forward together in our commitment to serve Compton/South Los Angeles County. LA2050 support will serve as a capstone award for the Center and will allow us to leverage additional funds to help NHS and its partners meet our launch date for the facility as we build on our vision to create sustainable economic and educational opportunities for the residents of Compton.\r\n"
+  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Revenue\r\nLA2050 \t\t\t\t\t\t\t                100,000\r\n---------------------------------------------------------------------------------\r\nTotal \t\t\t\t\t\t\t                100,000\r\n\r\nExpenses\r\nPersonnel (CSC Director X 50% FTE)\t\t\t25,000\r\nComputer Equipment (IT & Media Production)  40,000\r\nTraining (Urban Gardening, IT, Workforce)\t\t25,000\r\nOutreach Materials/Media/Events\t\t\t10,000\r\n--------------------------------------------------------------------------------\r\nTotal \t\t\t\t\t\t\t                100,000\t\r\n"
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How do you plan to scale the success of your proposal?: >-
+    Once completed in December 2015, the Center will leverage its partnerships
+    to expand support and delivery of its programs in the Compton community. 
+    The rehabilitated facility will serve as a model for establishing additional
+    Centers in surrounding cities throughout the region, including San Fernando
+    Valley, east Los Angeles County, and the South Bay. For 30 years NHS has
+    partnered with private and public investors, financial institutions,
+    foundations, national non-profits, and cities to create and expand
+    sustainable funding relationships to broaden access to capital. Based on our
+    project funding projections and overwhelmingly positive response NHS has
+    received from residents and partners, we believe there is sufficient support
+    among community leaders, local businesses, service groups, and residents to
+    both meet the resource needs of the Center and support the creation of new
+    Centers in underserved communities.
 maker_answers_list:
-  - name: city_state
+  - name: How did you hear about this challenge?
+    label: How did you hear about this challenge?
+    explanation: >-
+      Please tell us how you found about the challenge (eg. Facebook/Twitter,
+      newsletter, friend, etc).
+    answer: 'Email '
+  - name: 'City, State'
     label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
+    explanation: 'Please follow this format: Los Angeles, CA'
     answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
+  - name: Organization(s) name(s)
+    label: Organization(s) name(s)
+    explanation: >-
+      Please list the names of all organizations if there are more than one
+      organization involved.
     answer: Neighborhood Housing Services of Los Angeles County (NHS)
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
-    answer: www.NHSLACounty.org
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: www.twitter.com/lanhs
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
+  - name: Organization(s) mailing address(es)
+    label: Organization(s) mailing address(es)
+    explanation: 'Please follow the format: 1234 Wilshire Blvd, Los Angeles, CA 90048'
+    answer: '3926 Wilshire Blvd, Suite 200, Los Angeles, CA  90010'
+  - name: Organization(s) website(s)
+    label: Organization(s) website(s)
+    explanation: 'Please follow this format: www.LA2050.org'
+    answer: www.nhslacounty.org
+  - name: Organization(s) twitter handle(s)
+    label: Organization(s) twitter handle(s)
+    explanation: 'Please follow this format: www.twitter.com/LA2050'
+    answer: www.twitter.com/nhsla
+  - name: Organization(s) facebook handle(s)
+    label: Organization(s) facebook handle(s)
+    explanation: 'Please follow this format: www.facebook.com/LA2050'
     answer: www.facebook.com/NHSLAC
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: ''
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: '3962 Wilshire Blvd, Suite 200, Los Angeles, CA 90010'
-  - name: org_ein
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '953938955'
-  - name: org_nonprofit
-    label: Nonprofit organization
+  - name: Organization(s) instagram handle(s)
+    label: Organization(s) instagram handle(s)
+    explanation: 'Please follow this format: www.instagram.com/LA2050'
+    answer: www.instagram.com/nhslacounty
+  - name: Please share the direct link for voters to sign up for your newsletter(s)
+    label: Please share the direct link for voters to sign up for your newsletter(s)
+    explanation: ''
+    answer: >-
+      http://visitor.r20.constantcontact.com/manage/optin?v=001kkqO0FxDKZTZOY2rUR__OIoL_zHbgz-3EFKN9UBqWzE-VI89PF-5bZzjOlaC4zWkfOt9szD4VpMVAojKpwmF-KrHWm_p_IM_hzDlRbuVgZtlCoG2aTOjib5QaKqumnXxDq8rIYQ8ft1I2J2qf8lX6pqomAEE1HfR
+  - name: EIN (for each organization)
+    label: EIN (for each organization)
+    explanation: 'Please follow this format: xx-xxxxxxx'
+    answer: 95-3938955
+  - name: 'Describe your organization(s): Non-profit'
+    label: Non-profit organization
     explanation: ''
     answer: '1'
-  - name: org_forprofit
+  - name: 'Describe your organization(s): For-profit'
     label: For-profit organization
     explanation: ''
     answer: '0'
-  - name: org_government
+  - name: 'Describe your organization(s): Government'
     label: Government
     explanation: ''
     answer: '0'
-  - name: org_individual
-    label: Individual
+  - name: 'Describe your organization(s): Other'
+    label: 'Other (please specify below):'
     explanation: ''
     answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '0'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '1'
-  - name: describe_organization
+  - name: 'Describe your organization(s): Specifics'
     label: ''
-    explanation: 140 character maximum
-    answer: >-
-      NHS is a catalyst for local residents, business, and government to work
-      together to build stronger neighborhoods.
-  - name: all_county
-    label: Yes (benefits all of LA County)
     explanation: ''
-    answer: '0'
-  - name: region_county
-    label: ''
-    explanation: Yes (benefits a region of LA County)
-    answer: '1'
-  - name: population_county
-    label: ''
-    explanation: Yes (benefits a population of LA County)
-    answer: '0'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '0'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '0'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '0'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '0'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '0'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '0'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
     answer: ''
-  - name: describe_idea
-    label: ''
-    explanation: >-
-      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
-      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
-      have such an awesome project! Please vote for @GoldhirshFdn here!'
-    answer: >-
-      Partners with @lanhs are turning an abandoned, blighted grocery store in
-      Compton into a Center for Sustainable Communities.
-  - name: more_detail
+  - name: 'In one sentence, please describe what your organization does.'
     label: ''
     explanation: ''
     answer: >-
-      Utilizing the community development model of "What Makes Community?" as
-      our planning paradigm, NHS is working with the City of Compton, Pacific
-      Coast Regional Small Business Development Corporation, and Metro CDC to
+      NHS strengthens neighborhoods through the development of quality
+      affordable housing, the creation of affordable homeownership
+      opportunities, and increasing the financial independence of families in
+      need.
+  - name: 'In one to three sentences, please describe your proposal.'
+    label: ''
+    explanation: ''
+    answer: >-
+      Utilizing the model of "What Makes Community?" as our focus, NHS is
+      working with the City of Compton, Pacific Coast Regional, and Metro CDC to
       create the first of several Centers for Sustainable Communities in South
-      LA. The CSC will offer community resources for low-to-moderate income
-      (LMI) families in Compton deal with impacts of economic divestiture by
-      serving as a hub to provide information and access to resources that make
-      communities stronger and more resilient. Residents and businesses will tap
-      a range of services related to housing, transit, economic development,
-      environmental stewardship, job training, skills development, urban
-      agriculture, and healthy living. 
-  - name: implement
+      LA. The CSC will help low-to-middle income families in Compton deal with
+      the impacts of divestiture by serving as a hub to provide access to
+      housing, transit, employment, healthy living, and community food resources
+      that make communities stronger and more resilient.
+  - name: Please write a sample tweet to describe your submission.
     label: ''
     explanation: ''
-    answer: "The vision driving the Center for Sustainable Communities involves addressing a broad spectrum of issues, and at the center of this focus is the commitment to promote sustainability and resiliency. The need to tie employment, housing, place, business, and lifestyle is critical to sustainable community life, and creating a CSC will serve as a catalyst for achieving broader community and personal empowerment goals that will help low-to-moderate income families in South LA most adversely impacted by economic volatility. \r\n\r\nAs CSC landowner, NHS will serve as lead partner with the City of Compton, METRO CDC, and the Pacific Coast Regional Small Business Development Corporation. NHS acquired the 28,283 sq ft building and surrounding parcel in March 2014 and we have entered the site planning and renovation phase of the project. Our main priority is to upgrade the CSC facility and provide highly needed economic development, healthy living, and job training services for the Compton community. NHS plans to house 5-8 initial tenants by fall 2014 with full tenancy by the end of 2014 if possible. As a part of that plan, immediate term (one year) goals and implementation timelines for the CSC include:\r\n\r\n• Upgrade the existing facility to accommodate 5-8 non-profit and commercial tenants (August - December 2014);\r\n• Subcontract to create Computer Training and Technology Center (August - October 2014);\r\n• Partner with Metro CDC to create office for youth job training/entrepreneurship programs (August - September 2014);\r\n• Partner with Pacific Coast Regional Small Business Development Corporation (PCR) to establish on-site Business Incubator Program (September – November 2014);\r\n• Phase in green technology upgrades (solar electric panels, low-water fixtures, solar hot water) and community garden plots as a part of the structural retrofits and property rehab (September 2014 – March 2015).\r\n\r\nShort term (1-2 years) goals and the implementation timeline for the CSC include:\r\n\r\n• Finalize a local land use plan with community partners and adjacent land owners (Fall 2014);\r\n• Establish Health & Fitness rooms, a Healthy Living Café, free library, child play area, and permanent organic gardens (Summer 2015).\r\n• Create a Community Green Education & Conservation Center (Summer 2015);\r\n• Create a farmer’s market enterprise to support the Center (Fall 2015);\r\n• Serve approximately 250 families (Sept – Dec 2014);\r\n• Serve approximately 5,000 families (Jan – Dec 2015).\r\n\r\n"
-  - name: impact_create
-    label: ''
-    explanation: ''
-    answer: "As low income communities in South LA continue to address ongoing blight and strive towards long-term post-foreclosure neighborhood stabilization, the focus for many neighborhoods becomes how to approach the broader environmental, social, health, and economic impacts of long term divestment on residents and families. Of primary concern is how to deal with the growing challenges among these neighborhoods regarding chronic unemployment/underemployment, reduced capital access for small business development, the ongoing threat of food insecurity, substandard transit options, skyrocketing housing costs, educational disparities, and youth disengagement. Decades of studies confirm that these problems disproportionately affect underserved and impoverished communities. For example, the current surge in home purchase and rental costs means housing now consumes over 65% of average median income on average in LMI communities. Add to that consistently high unemployment (15%), a nearly 3 to 1 ratio in loan denial rates, and limited access to mass transit and healthy food - which has been proven to impact employment and educational performance – and the need for greater resources to meet basic economic demands and achieve a moderate living standard  becomes evident.\r\n\r\nIn response, NHS' CSC will provide the Compton community in South LA a central hub that will serve as a network of resources to build and support a solid foundation for creating neighborhood sustainability. Specific impacts include 1) Improving the job readiness and overall skills base of local workforce; 2) Providing healthy living services and resources to residents; 3) Reaching and training residents in IT and tech skills; 4) Increasing lending access and originating loans for small business owners; 5) Engaging  youth (ages 5-24) in on-site green education and mentoring programs; 6) Assisting families through our CSC Homeownership Center; 7) Establishing community garden projects in surrounding neighborhoods; 8) Establishing home garden projects with youth workers. \r\n\r\nIn addition to meeting crucial resource access needs for LMI families, the CSC will allow NHS and its partners to utilize and share sustainability concepts that drive planning approaches in other impacted communities throughout the City and County.\r\n\r\n "
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "The CSC will serve hundreds of LMI minority families in a community that has endured many of the worst impacts of the economic downturn and decades of blight. NHS has a long and very successful history of serving low-to-moderate income neighborhoods. For 30 years, 90% of our client base has been LMI minority families residing in the poorest and most neglected neighborhoods of Los Angeles County. In 2013, 95% of NHS clients were considered LMI and 84% of NHS’ clients were ethnic minorities. In addition to meeting crucial resource access needs for these LMI families, the CSC will allow NHS and its partners to utilize and share sustainability concepts that drive planning approaches in other impacted communities throughout the City and County.\r\n\r\nAs the facility grows, the CSC will expand to help hundreds of small business owners, neighborhood non-profit groups, and homeowners through on-site services and regional partnerships with community service groups, CDCs, green organizations, health providers, technology professionals, schools, and municipal entities. At least 50% of the tenants will be service-driven. By 2015 we expect to partner with the adjacent Los Angeles Conservation Corps Campus to magnify our regional impact, collaborate to attract a wide range of volunteers for our municipal water and green projects, and reach out to the educational community as the Compton Creek Project evolves.\r\n\r\nWith respect to our current outreach efforts, engaging the architectural, landscape design and municipal services community in the early stages of the planning process has already yielded a significant response by critical stakeholders and the community toward the development of a sustainable space.  As a part of this initial outreach plan, NHS is hosting a series of summer BBQs with its new neighbors as a means of engagement to meet, dialogue, assess community needs, and clarify the focus for the project from the community perspective.  The project and landscape architects are deeply involved with this process so that they can adapt community strategies into the program and facility design more effectively.  As this vision and campaign evolves, we believe that the outcome and value created by establishing the Center will greatly help the people and the City Compton as a Community of Choice while also creating sustainable jobs for residents.  "
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "NHS has entered into agreements with the City of Compton, METRO CDC, and the Pacific Coast Regional Small Business Development Corporation (PCR) as primary partners and is formalizing arrangements with the Los Angeles Conservation Corps, the LA County Department of Health,  the LA Food Policy Council,  Community Services Unlimited, and the Los Angeles Department of Neighborhood Empowerment to provide expertise, customized services, training opportunities, and cross-collaborative projects through the CSC. \r\n\r\nCritical factors include: 1) a commitment to build sustainability in Compton/South LA, 2) eliminating “silo organizing” on common regional issues, and 3) applying skills gained from managing eight years of neighborhood revitalization consortia during the economic crisis to assist in better serving LMI communities. \r\n\r\nEach partner brings unique experience and value:\r\n• City of Compton – Compton contributed bond funds to acquire the property and will facilitate project approvals, general public outreach, and program advocacy. \r\n• METRO CDC – Providing neighborhood outreach, employment training, community engagement, and referral services for youth and young adults. \r\n• Pacific Coast Regional Small Business Development Corporation – A CSC tenant, PCR offers financial, educational and consulting services to small business owners and start-ups. \r\n• Los Angeles Conservation Corps – LACC will partner on environmental and urban reclamation projects in the Compton Creek watershed and surrounding area and will provide training, education, and mentoring for youth.\r\n• Community Services Unlimited – As one of the largest urban Community Supported Agriculture food distributors in South LA, CSU will offer urban gardening, green business resources, and cross training expertise.  \r\n• Los Angeles County Board of Supervisors – Supervisor Mark Ridley-Thomas’ office provides project level funding opportunities and overall support for NHS and the CSC. \r\n• LA Food Policy Council – The LAFPC has agreed to help coordinate events, outreach, and advocacy through the CSC in addition to serving as a partner in creating community gardens. \r\n• Los Angeles Department of Neighborhood Empowerment – As the oversight agency of neighborhood councils, LADNE will provide extensive outreach, special project coordination, and a grassroots connection to regional community groups. \r\n• LA County Department of Health – Committed to helping NHS create living projects and support our clinic plan."
-  - name: metrics_create_employment
-    label: Employment in creative industries
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_arts
-    label: Arts establishments per capita
+    answer: >-
+      #NHS is transforming an abandoned grocery store in #Compton into the
+      #CenterforSustainableCommunities  
+  - name: LA is the best place to CREATE
+    label: LA is the best place to CREATE
     explanation: ''
     answer: '0'
-  - name: metrics_create_manufacturing
-    label: Concentration of manufacturing activity in LA
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_researchgrant
-    label: Federal research grant funding
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_patents
-    label: Patents per capita
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_jbs
-    label: Jobs per capita
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_minoritywomenowned
-    label: Minority- and women-owned firms
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_gini
-    label: Gini coefficient
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_startups
-    label: Number of high-growth startups
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_venturecapital
-    label: Venture capital investment
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_influencers
-    label: >-
-      Measures of cultural and global economic influence (“soft power”) (Dream
-      Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_recruitingrates
-    label: >-
-      Recruiting and retention rates at local higher education institutions
-      (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_graduates
-    label: >-
-      Percentage of graduates from local higher education institutions that
-      remain in LA County 5 years after graduating (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_unemployment
-    label: >-
-      Unemployment rates (and opportunities) for the formerly incarcerated
-      (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_other
-    label: 'Other:'
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: Create equity and affordable homeownership opportunities
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "Our expected outcomes will make a vital difference for LMI families and small businesses looking to create new job training options in multiple fields, improve personal and community health, and expand sustainable economic opportunity in South LA/Compton. Through the CSC, we will help rebuild neighborhoods with programs that keep teens active and healthy and where people coming out of prison can build marketable skills and avoid reincarceration. The CSC services will remove obstacles to accessing flexible capital for small business, expand affordable lending for families, and fund business incubators in our targeted neighborhoods. Over the first two years the CSC will strive to build the number of minority- and women-owned firms by ____%; provide training, credit education, and finance options to create and support the expansion of ____ local startups; and stimulate direct venture capital investment through lending partnerships by $_______. Our CSC Homeownership Center will create equity and build affordable homeownership opportunities for LMI families by ___%.\r\n\r\nLow income and African America/Latino young adults have the highest unemployment rates and fewest high school and college graduates among residents in South LA. In addition, With a 74% high school dropout rate (36% of the parents with no high school diploma and only 31% with some college), the tide has been going in the wrong direction for decades for at-risk youth. The Center’s youth programs will expand educational and peer support, function as a gateway for IT job training, and improve skills for healthier living, driving retention rates at local higher education institutions, creating employment opportunities, and increasing the jobs per capita rate to ___. As a tool for driving employment in creative industries and transitioning youth, the CSC will partner with a music/entertainment company to create a media production studio at the site. Empowering youth to pursue higher education, choose meaningful work, and remain in the County is a high priority. Giving youth and young adults incentive and personal investment to live, work, and give back in their communities when they return is critical for healthy and vibrant neighborhoods. Our federal partnerships with HUD and ongoing relationships with state and local government agencies will create options for extensive data tracking and research to guide the quality and rate of progress towards sustainability as well. "
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_connect
+  - name: LA is the best place to CONNECT
     label: LA is the best place to CONNECT
     explanation: ''
     answer: '1'
-  - name: healthiest_place_to_live
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_play
+  - name: LA is the best place to PLAY
     label: LA is the best place to PLAY
     explanation: ''
     answer: '0'
-  - name: evaluate
+  - name: LA is the best place to LEARN
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? Central LA
+    label: Central LA
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? East LA
+    label: East LA
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? San Gabriel Valley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? San Fernando Valley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? South LA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? Westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? South Bay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Antelope Valley
+    label: Antelope Valley
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? County of Los Angeles
+    label: County of Los Angeles (countywide)
+    explanation: ''
+    answer: '1'
+  - name: Where will you be working? City of Los Angeles
+    label: City of Los Angeles (citywide)
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? LAUSD
+    label: LAUSD
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: Where will you be working? Specifics
+    label: (e.g. Third Street Middle School; Boyle Heights; LA County)
+    explanation: ''
+    answer: ''
+  - name: How do you plan to use these resources to make change? Conduct research
+    label: Conduct research
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How do you plan to use these resources to make change? Engage residents
+      and stakeholders
+    label: Engage residents and stakeholders
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Implement a pilot
+      or new project
+    label: Implement a pilot or new project
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Expand a pilot or
+      program
+    label: Expand a pilot or program
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Mobilize for
+      systems change
+    label: Mobilize for systems change
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Advocate with
+      policymakers and leaders
+    label: Advocate with policymakers and leaders
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How do you plan to use these resources to make change? Implement and track
+      policy
+    label: Implement and track policy
+    explanation: ''
+    answer: '0'
+  - name: How do you plan to use these resources to make change? Other
+    label: 'Other (please specify below):'
+    explanation: ''
+    answer: '0'
+  - name: How do you plan to use these resources to make change? Specifics
     label: ''
     explanation: ''
-    answer: "Specific benchmarks for the CSC and its services include:\r\n• Annually improving job readiness and overall skills base of local workforce by 20 %;\r\n• Providing healthy living services and resources to 1,500 residents per year;\r\n• Reaching and training 250 residents annually in IT and tech skills;\r\n• Annually increasing lending access and originate loans for 50 small business owners;\r\n• Engaging  200 youth (ages 5-24) in on-site green education and mentoring programs; \r\n• Assisting 1,200 families annually through the Homeownership Center;\r\n• Establishing 3 community garden projects in surrounding neighborhoods annually;\r\n• Establishing 50 home garden projects with youth workers annually. \r\n\r\nFor primary CSC education and service delivery programs, NHS will work with service partners to adapt a series of specialized intake/survey forms and case management methods that NHS has utilized over the last ten years as a part of its ongoing Financial Education and Foreclosure Counseling programs to track and evaluate the impact and effectiveness of job training, homeowner education, senior and afterschool programming, and small business education programs.  In addition, our on-site interactive data tracking and evaluation models will help planners, businesses, residents, employees, and community groups access information and relevant data regarding regional housing, transit, and financial management options based upon geographic factors and other variables.  For example, a Location Affordability Portal would provide NHS with reliable, user-friendly data and resource estimates on combined housing and transportation costs to help residents, policymakers, and developers make more informed decisions about where to live, work, and invest in their community. A Smart Location and Sustainable Communities Database will provide additional detailed analysis to assist users where to best locate within a neighborhood based on affordability analyses, estimates of energy cost savings from green housing retrofits, and potential business profitability data rooted in transit cost factors for potential clients.\r\n\r\n"
-  - name: two_lessons
+    answer: ''
+  - name: >-
+      How will your proposal improve the following “Live” metrics?  Access to
+      healthy food
+    label: Access to healthy food
+    explanation: ''
+    answer: '1'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare
+      access
+    label: Healthcare access
+    explanation: ''
+    answer: '1'
+  - name: >-
+      How will your proposal improve the following “Live” metrics? Exposure to
+      air toxins
+    label: Exposure to air toxins
+    explanation: ''
+    answer: '0'
+  - name: >-
+      How will your proposal improve the following “Live” metrics? Number of
+      households below the self-sufficiency index
+    label: Number of households below the self-sufficiency index
+    explanation: ''
+    answer: '1'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of
+      imported water
+    label: Percent of imported water
+    explanation: ''
+    answer: '0'
+  - name: HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates
+    label: Obesity rates
+    explanation: ''
+    answer: '1'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing
+      affordability
+    label: Housing affordability
+    explanation: ''
+    answer: '1'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of
+      homelessness
+    label: Rates of homelessness
+    explanation: ''
+    answer: '0'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS?
+      Walk/bike/transit score
+    label: Walk/bike/transit score
+    explanation: ''
+    answer: '1'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and
+      miles of polluted waterways
+    label: Acres and miles of polluted waterways
+    explanation: ''
+    answer: '1'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of
+      mental illness
+    label: Rates of mental illness
+    explanation: ''
+    answer: '0'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of
+      adverse childhood experiences (Dream Metric)
+    label: Prevalence of adverse childhood experiences (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of
+      LA communities that are resilient (Dream Metric)
+    label: Percentage of LA communities that are resilient (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of
+      residents receiving coordinated healthcare services (Dream Metric)
+    label: >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    explanation: ''
+    answer: '1'
+  - name: >-
+      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of
+      tree canopy cover (Dream Metric)
+    label: Percentage of tree canopy cover (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: >-
+      DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO
+      LIVE: 
     label: ''
     explanation: ''
-    answer: "Achieving sustainability and building resilient neighborhoods in traditionally blighted and neglected communities requires creating and sharing tools that will help residents and business come together to fulfill their vision for the community. Resident buy-in and engaging beneficiaries and stakeholders in the planning and evolution of programs like the CSC is absolutely crucial.\r\n\r\nBringing community partnerships together and creating new support networks is critical to achieve sustainability and increase resilience. \r\n\r\n"
-  - name: achievable_goal
+    answer: "NHS' Center for Sustainable Communities will serve hundreds of low income families annually in a region that has endured many of the worst impacts of the economic downturn and decades of blight. Of primary concern is how to deal with the growing challenges among these neighborhoods regarding chronic unemployment and underemployment, reduced capital access for small business development, the ongoing threat of food insecurity, substandard transit options, skyrocketing housing costs, educational disparities, and youth disengagement. \r\n\r\nIn response, the Center for Sustainable Communities will provide the people of Compton and South Los Angeles County a facility that will serve as a hub to build a solid foundation for creating neighborhood sustainability over the next decades. Specific impacts include 1) Improving the job readiness and overall skills base of local workforce; 2) Providing healthy living resources and medical clinic services to residents; 3) Reaching and training residents through the CSC Neighborhood Revitalization Institute; 4) Increasing access to business incubator services and originating loans for small business owners; 5) Engaging  youth (ages 5-24) in on-site green education and mentoring programs; 6) Assisting families through our Financial Opportunity Center; 7) Establishing community garden projects on the property and in surrounding neighborhoods; 8) Providing valuable community meeting space. In addition to meeting crucial resource access needs for families, the Center will allow its partners to share sustainability concepts that drive planning approaches in other impacted communities throughout South Los Angeles and LA County.\r\n\r\nAs the facility grows, the Center will expand to help hundreds of small business owners, neighborhood non-profit groups, and homeowners through on-site services and regional partnerships with community service groups, community development agencies, green organizations, health providers, technology professionals, schools, and municipalities. At least 50% of our tenants will be service-driven. By winter 2016 we expect to partner with the adjacent Los Angeles Conservation Corps Campus to magnify our regional impact, collaborate to attract a wide range of volunteers for our municipal water and green projects, and reach out to the educational community as the Compton Creek Project evolves.\r\n"
+  - name: >-
+      Please list at least one major barrier/challenge you anticipate. What is
+      your strategy for overcoming these obstacles?
     label: ''
     explanation: ''
-    answer: "NHS secured the CSC property in March 2014 and has formalized agreements with six critical CSC partners (PCR, Metro CDC, LA Conservation Corps, the LA County Department of Health, HUD, and the City of Compton). All architectural documents and permits have been completed to move the project into the primary phase of repurposing the facility. We are now in the process of renovating and upgrading the facility to accommodate 5-8 non-profit and commercial tenants. Funding to complete the renovation and construction phase is in hand and it is expected the CSC will house initial tenants by late summer 2014 with full tenancy by the end of 2014 if possible. At least 50% of the tenants in the CSC facility will be service-driven. Given that the community has endured an abandoned and neglected 28,000 sq ft building for the past nine years, NHS feels obligated to open the facility and establish community services as soon as possible. \r\n\r\nOnce the core tenants and service providers have relocated offices to the facility, the Center will install large-scale community demonstration gardens and green technology upgrades on the property as a part of its on-site educational and community engagement focus. NHS will open an initial satellite office at the CSC in late summer 2014 and is able to administer the facility with minimal staff transition. NHS plans to utilize and reassign at least two existing staff to NHS offices at the CSC property and hire additional personnel to manage the property. \r\n\r\nNH is confident the CSC will continue to attract partners and support in the Compton/South LA community. For 30 years NHS has partnered with private and public investors,\r\nfinancial institutions, foundations, national non-profits, and municipalities to create and expand sustainable funding relationships\r\nto broaden access to capital. Our long history of serving populations\r\nin need with direct assistance and specialized housing programs has\r\nconsistently earned us high marks with our funders and supporters.\r\nBased on our project funding projections and overwhelmingly positive response NHS has received from residents and partners, we believe there is sufficient support among investors and residents to meet the resource needs of the CSC."
-  - name: major_challenges
+    answer: "Though we have adequate funds in hand to meet our initial costs for launching the Center, securing an ongoing source of sustainable funding and investment commitments to maintain the facility over the first five years of operation will be a challenge. Our primary focus over the first year of operation (Dec 2015 - Dec 2016) will include facilitating the necessary number of non-profit service and commercial tenants for the Center as well as continuing to leverage funds through the City of Compton, CDCs, regional financing partners, and community lending organizations to ensure viability through 2016 and beyond. \r\n\r\nAn additional challenge involves meeting the immediate needs of the community. Given that the community has endured an abandoned and neglected building since 1990, NHS feels obligated to open the facility and establish community services as soon as possible. Allocating staff to co-manage the Center will be a driving force behind staying on our planning schedule.\r\n"
+  - name: Please explain how you will evaluate your work.
     label: ''
     explanation: ''
-    answer: "Though we have adequate funds in hand to meet our initial costs for launching the CSC, securing an ongoing source of sustainable funding and investment commitments to maintain our CSC over the first five years of operation will be a challenge. Our primary focus over the first phase of our launch (September 2014 - December 2014) will include locking up the necessary number of non-profit service and commercial tenants for the Center as well as continuing to leverage funds through the City of Compton, CDCs, regional financing partners, and community lending organizations to ensure viability through 2015 and beyond. \r\n\r\n\r\n\r\n"
-  - name: competition
+    answer: "Gauging the success and impact of the project will require tracking data among partners and service providers that utilize the facility. NHS will work with partners to consolidate and filter impact data of those taking courses, attending classes, and receiving training. Affiliated groups working through the Center will be asked to share all relevant statistics and deliverables data with NHS. NHS will serve as the central filter for evaluating the impacts and status of job training, homeowner education, senior and afterschool programming, and small business education programs. \r\n\r\nSpecific annual benchmarks include:\r\n• Providing healthy living services and resources to 1,500 residents;\r\n• Assisting 1,200 families through the Financial Opportunity Center; \r\n• Improving job readiness and overall skills base of local workforce by 20%;\r\n• Establishing 50 home and neighborhood gardens with youth workers; \r\n• Increasing lending access for 50 small business owners.\r\n"
+  - name: >-
+      Are there other organizations doing similar work (whether complementary or
+      competitive)? What is unique about your proposed approach?
     label: ''
     explanation: ''
-    answer: "There are dozens of organizations in Los Angeles County that focus on encouraging and promoting sustainability programs for a wide array of stakeholders (Global Green, Sustainable LA, etc.) . And there are a vast number of green and environmentally-focused programs that assist the business community, schools, government agencies, and municipalities with transitioning to a more sustainable and green future. But the CSC is truly unique in that it will serve as a diverse, multi-use facility in South LA that will provide a broad range of critically needed specialized services, information, and access to resources that will make underserved and blighted communities stronger, more resilient, and sustainable. Specifically, the CSC will include a set of features and services not found elsewhere in the region in a single location. These include a business incubator, a Homeownership Center, health clinic services, fitness rooms, a Computer Training and Technology Center, free community meeting space, senior and afterschool programming, a free library, youth job training, a Community Green Education & Conservation Center, a Healthy Living Cafe, non-profit and select commercial tenants, and organic urban gardens. With the exception of the Eco-Village in Los Angeles, there isn't another property and partnership on the scale of what NHS is undertaking with the CSC plan. \r\n\r\nAlso, NHS is prepared to construct up to 36 units of affordable housing on the adjacent parking lot as may be needed to accommodate HUD eligible uses. The purchase agreement does not require housing as a part of its community needs assessment to make the project feasible, but it remains a viable option. We are excited about the level of flexibility to expand the project in this way, a feature that can serve as a model approach for applying sustainability concepts and strategies in an innovative capacity. "
-  - name: cost
-    label: ''
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: "The property was purchased for $2.6 million using HUD NSP2 funds and institutional lenders and we need to raise an additional $250,000 to meet our initial project projection. NHS has already entered into MOUs with several developers to initiate land bank, joint ventures, healthy schools initiative work, urban gardening and other community development strategic alignment agreements. A key goal is to further target New Markets Tax Credits, Housing Community and Investment Department (HCID) Funds in Los Angeles, faith-based institutions, Department of Transportation grants, METRO transit grants, and exploring as many community investment options as appropriate to leverage the project.  \r\n\r\nNHS and PCR will utilize revenues generated from these programmatic activities and CSC tenant rentals to help fund initial development and expansion and is pursuing foundation fundraising to cover financial gaps.  Because of commitments from local foundations, federal agencies, and a handful of donors, we are in a good position to leverage partnerships with local banks, servicers, and the City of Compton to move forward together in our commitment to serve Compton/South LA."
-  - name: budget
+    answer: "There are dozens of organizations in Los Angeles County that focus on encouraging and promoting sustainability programs for a wide array of stakeholders (Global Green, Sustainable LA, etc). And there are a vast number of health and community support groups and programs that assist small businesses, schools, government agencies, and municipalities with transitioning to a more sustainable future. Some of these non-profits in the housing and neighborhood revitalization/community health field such as Habitat for Humanity and the Neighborhood Assistance Corporation of America operate in more specific areas of direct need such as stand-alone housing construction and exclusively foreclosure relief. There are smaller-scale community centers in surrounding cities that offer valuable neighborhood resources, but the Center for Sustainable Communities is truly unique in that it will serve as a diverse, multi-use 28,000 sq ft facility in South LA that will provide a broad range of critically needed specialized services, information, and access to resources that will make underserved and blighted neighborhoods in Compton and surrounding communities stronger and more resilient. \r\n\r\nSpecifically, the Center will include a set of features and services not found elsewhere in the region in a single location. These include a business incubator, health clinic services, fitness rooms, a Community Technology Center, free community meeting space, a Neighborhood Revitalization Institute, senior and afterschool programming, a free library, adult and youth job training, a Green Education & Conservation Center, a Healthy Living Cafe, non-profit and select commercial tenants, and organic urban gardens. With the exception of the Eco-Village in central Los Angeles, there isn't another property and partnership on the scale of what NHS is undertaking with the plan. With the first Center scheduled to open in Compton in December 2015, NHS will be exploring additional locations for new Centers in underserved communities and cities throughout Los Angeles County over the next decade.  \r\n"
+  - name: >-
+      Please identify any partners or collaborators who will work with you on
+      this project. How much of the $100,000 grant award will each partner
+      receive?
     label: ''
     explanation: ''
-    answer: "The CSC will be funded by a mix of public/private community partner and major donor support. The award will also allow us to leverage additional funds to help NHS and its partners meet initial production costs as we build on our vision to create sustainable economic and educational opportunities for the residents of Compton.\r\n\r\nNEED BUDGET"
-  - name: resources_money
+    answer: "NHS has entered into agreements with the City of Compton, Metro CDC, and the Pacific Coast Regional Small Business Development Corporation as primary partners and is formalizing arrangements with the Los Angeles Conservation Corps and Christian Health Centers to provide expertise, customized services, training opportunities, and cross-collaborative projects through the Center. The LA2050 award will be allocated to partners based on this formula: NHS - $40,000; each partner (4 total) - $15,000. \r\n\r\nEach core partner brings unique experience and value:\r\n• City of Compton – Compton contributed bond funds to acquire the property and will facilitate project approvals, general public outreach, and program advocacy. \r\n• METRO CDC – Providing neighborhood outreach, employment training, community engagement, community garden management, and referral services for youth and young adults. \r\n• Pacific Coast Regional Small Business Development Corporation – As a tenant, PCR offers financial, educational and consulting services to small business owners and start-ups. \r\n• Los Angeles Conservation Corps – LACC will partner on environmental and urban reclamation projects in the Compton Creek watershed and surrounding area and will provide training, education, and mentoring for youth.\r\n• Christian Health Centers  – Providing full service health clinic programs and services. \r\n\r\nAt least 50% of the tenants in the CSC facility will be service-driven. Critical factors for partnerships include: 1) a commitment to build sustainability in Compton/South Los Angeles County, 2) eliminating “silo organizing” on common regional issues, 3) diversity of services offered, and 4) history of delivering neighborhood revitalization programs in low income communities.\r\n"
+  - name: >-
+      How much do you think this will cost? If more than $100,000 – how will you
+      cover the additional costs?
+    label: ''
+    explanation: ''
+    answer: "The Center will be funded by a mix of public/private community partner and major donor support. The total estimated cost of the acquisition and renovation of the facility is $7.3m. The property was purchased in 2014 for $2.6 million and we need to raise an additional $950,000 to meet our initial project projection. NHS has already entered into MOUs with several developers to finalize land bank, joint ventures, healthy schools initiative work, urban gardening and other community development strategic alignment agreements. The project is currently under construction. A key goal is to further target New Markets Tax Credits, local lender financing, faith-based institutions, foundation capital grants, and exploring as many community investment options as appropriate to leverage the project.  \r\n\r\nNHS will use CSC program activities and tenant rentals to help fund project costs and is securing additional foundation fundraising to cover financial gaps. Because of commitments from local foundations, federal agencies, and a handful of donors, we are in a good position to leverage partnerships with local banks, servicers, and the City of Compton to move forward together in our commitment to serve Compton/South Los Angeles County. LA2050 support will serve as a capstone award for the Center and will allow us to leverage additional funds to help NHS and its partners meet our launch date for the facility as we build on our vision to create sustainable economic and educational opportunities for the residents of Compton.\r\n"
+  - name: >-
+      Please include a detailed budget of how you will use $100,000 to implement
+      this project.
+    label: ''
+    explanation: ''
+    answer: "Revenue\r\nLA2050 \t\t\t\t\t\t\t                100,000\r\n---------------------------------------------------------------------------------\r\nTotal \t\t\t\t\t\t\t                100,000\r\n\r\nExpenses\r\nPersonnel (CSC Director X 50% FTE)\t\t\t25,000\r\nComputer Equipment (IT & Media Production)  40,000\r\nTraining (Urban Gardening, IT, Workforce)\t\t25,000\r\nOutreach Materials/Media/Events\t\t\t10,000\r\n--------------------------------------------------------------------------------\r\nTotal \t\t\t\t\t\t\t                100,000\t\r\n"
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Money (financial capital)
     label: Money (financial capital)
     explanation: ''
     answer: '1'
-  - name: resources_staff
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Volunteers/staff (human capital)
     label: Volunteers/staff (human capital)
     explanation: ''
-    answer: '0'
-  - name: resources_publicity
+    answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Publicity/awareness (social capital)
     label: Publicity/awareness (social capital)
     explanation: ''
     answer: '1'
-  - name: resources_infrastructure
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Infrastructure (building/space/vehicles, etc.)
     label: 'Infrastructure (building/space/vehicles, etc.)'
     explanation: ''
     answer: '1'
-  - name: resources_education
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Education/training
     label: Education/training
     explanation: ''
-    answer: '0'
-  - name: resources_technical
+    answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Technical infrastructure (computers, etc.)
     label: 'Technical infrastructure (computers, etc.)'
     explanation: ''
     answer: '1'
-  - name: resources_communityoutreach
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Community outreach
     label: Community outreach
     explanation: ''
     answer: '1'
-  - name: resources_network
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Network/relationship support
     label: Network/relationship support
     explanation: ''
     answer: '1'
-  - name: resources_research
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Quality improvement research
     label: Quality improvement research
     explanation: ''
+    answer: '1'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Other
+    label: 'Other (please specify below):'
+    explanation: ''
     answer: '0'
+  - name: >-
+      How can the LA2050 community and other stakeholders help your proposal
+      succeed? Specifics
+    label: ''
+    explanation: ''
+    answer: ''
+  - name: How do you plan to scale the success of your proposal?
+    label: ''
+    explanation: ''
+    answer: >-
+      Once completed in December 2015, the Center will leverage its partnerships
+      to expand support and delivery of its programs in the Compton community. 
+      The rehabilitated facility will serve as a model for establishing
+      additional Centers in surrounding cities throughout the region, including
+      San Fernando Valley, east Los Angeles County, and the South Bay. For 30
+      years NHS has partnered with private and public investors, financial
+      institutions, foundations, national non-profits, and cities to create and
+      expand sustainable funding relationships to broaden access to capital.
+      Based on our project funding projections and overwhelmingly positive
+      response NHS has received from residents and partners, we believe there is
+      sufficient support among community leaders, local businesses, service
+      groups, and residents to both meet the resource needs of the Center and
+      support the creation of new Centers in underserved communities.
 body_class: strawberry
+organization_name: Neighborhood Housing Services of Los Angeles County (NHS)
 published: true
 
 ---
