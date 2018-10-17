@@ -1,29 +1,22 @@
 ---
+published: true
 organization_id: '2016110'
 year_submitted: 2016
-organization_name: Inner-City Arts
-organization_website: www.inner-cityarts.org
-ein: ''
-project_image_2: 2052596015741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102103'
+challenge_url: >-
+  https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
 title: Providing Access to the Arts and the Endless Possibilities They Offer
-organization_name_2: Inner-City Arts
-organization_activity: >-
-  Inner-City Arts—a leading provider of quality arts education for underserved
-  children—is a creative oasis and a vital partner in enriching the social,
-  cultural and economic landscape of Los Angeles.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
-project_video: 'https://www.youtube.com/embed/2n0ZbTcuqlo?rel=0&amp;showinfo=0'
 project_summary: >-
   We use the arts to positively affect the lives of underserved L.A. children,
   improving their chances for success by developing creativity, improving
   learning skills and building self-confidence.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
+project_video: 'https://www.youtube.com/embed/2n0ZbTcuqlo?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   In 2015, Inner-City Arts announced the results of an evaluation of one of our
   program areas, funded by the U.S. Department of Education. Over the course of
@@ -79,6 +72,29 @@ project_impact: >-
   education","Student education pipeline","Students’ perceived sense of safety
   at and on the way to school","Truancy rates in elementary and middle
   schools","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  By creating a bridge between the studio and the classroom, our unique approach
+  to arts education measurably improves academic and personal outcomes for more
+  than 6,000 children and teenagers each year, including those students with
+  limited English proficiency, who are at risk of academic failure. 
+
+
+  Inner-City Arts programs are an investment in the youth of Los Angeles,
+  engaging them in the creative process to become creative, confident and
+  collaborative individuals.
+project_areas:
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Inner-City Arts will help make Los Angeles the best place to learn by engaging
   young people in the creative process through learner-centered, research-based
@@ -139,31 +155,15 @@ project_proposal_best_place: >-
   the end of each of our sessions. Complementing our arts learning programs, our
   Rosenthal Theater holds innovative and diverse performances, engagements which
   nurture and illuminate the creative spirit of the whole community.
-challenge_url: >-
-  https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
+project_image_2: 2052596015741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  By creating a bridge between the studio and the classroom, our unique approach
-  to arts education measurably improves academic and personal outcomes for more
-  than 6,000 children and teenagers each year, including those students with
-  limited English proficiency, who are at risk of academic failure. 
-
-
-  Inner-City Arts programs are an investment in the youth of Los Angeles,
-  engaging them in the creative process to become creative, confident and
-  collaborative individuals.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Student education pipeline
-  - Students’ perceived sense of safety at and on the way to school
-  - Truancy rates in elementary and middle schools
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Inner-City Arts
+organization_website: www.inner-cityarts.org
+organization_name_2: Inner-City Arts
+organization_activity: >-
+  Inner-City Arts—a leading provider of quality arts education for underserved
+  children—is a creative oasis and a vital partner in enriching the social,
+  cultural and economic landscape of Los Angeles.
+ein: ''
 
 ---

@@ -1,31 +1,23 @@
 ---
+published: true
 organization_id: '2016032'
 year_submitted: 2016
-organization_name: 'California State University, Northridge (CSUN)'
-organization_website: www.csun.edu
-ein: ''
-project_image_2: 7272231265741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102028'
+challenge_url: >-
+  https://challenge.la2050.org/entry/csuns-recruiting-boot-camp-helps-students-gain-the-skills-they-need-to-get-their-careers-started
 title: >-
   CSUN’s Recruiting Boot Camp helps students gain the skills they need to get
   their careers started.
-organization_name_2: 'California State University, Northridge (CSUN)'
-organization_activity: >-
-  Serving nearly 40,000 students, CSUN offers programs to help develop the
-  academic competencies, professional skills, critical/creative abilities, and
-  ethical values to reach their educational goals.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
-project_video: ''
 project_summary: >-
   California State University,Northridge wants to offer accounting students from
   underserved communities the job skills they need to launch their careers.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - San Fernando Valley
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   We will define success by increasing the number of traditionally underserved
   students who participate in career center activities, including the Recruiting
@@ -53,6 +45,24 @@ project_description: >-
   This grant will allow CSUN to include more students, add a one-day spring
   program and extend orientation to CSUN freshmen and sophomores.
 project_impact: '["Youth unemployment and underemployment"]'
+project_proposal_impact:
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  CSUN’s Accounting Career Center offers advisement/coaching, resume writing,
+  interviewing, job search training, and job and internship placement help. 
+
+
+  Our annual two-day Recruiting Boot Camp is held each summer for accounting
+  juniors/seniors. Industry professionals offer classes on interviewing,
+  business ethics, proper working attire, networking and more.
+
+
+  This grant will allow CSUN to include more students, add a one-day spring
+  program and extend orientation to CSUN freshmen and sophomores.
+project_areas:
+  - San Fernando Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   CSUN’s business education extends throughout the San Fernando Valley and well
   into the Los Angeles region and beyond. Since its founding in 1958, CSUN has
@@ -97,25 +107,15 @@ project_proposal_best_place: >-
   nation for its impact on the improved earning power and economic prospects of
   its graduates. With additional resources, the Career Center will be able to
   provide services to all those students who deserve them.
-challenge_url: >-
-  https://challenge.la2050.org/entry/csuns-recruiting-boot-camp-helps-students-gain-the-skills-they-need-to-get-their-careers-started
+project_image_2: 7272231265741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  CSUN’s Accounting Career Center offers advisement/coaching, resume writing,
-  interviewing, job search training, and job and internship placement help. 
-
-
-  Our annual two-day Recruiting Boot Camp is held each summer for accounting
-  juniors/seniors. Industry professionals offer classes on interviewing,
-  business ethics, proper working attire, networking and more.
-
-
-  This grant will allow CSUN to include more students, add a one-day spring
-  program and extend orientation to CSUN freshmen and sophomores.
-project_proposal_impact:
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: 'California State University, Northridge (CSUN)'
+organization_website: www.csun.edu
+organization_name_2: 'California State University, Northridge (CSUN)'
+organization_activity: >-
+  Serving nearly 40,000 students, CSUN offers programs to help develop the
+  academic competencies, professional skills, critical/creative abilities, and
+  ethical values to reach their educational goals.
+ein: ''
 
 ---

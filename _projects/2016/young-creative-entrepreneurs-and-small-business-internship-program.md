@@ -1,32 +1,21 @@
 ---
+published: true
 organization_id: '2016107'
 year_submitted: 2016
-organization_name: ICON CDC
-organization_website: iconcdc.org
-ein: ''
-project_image_2: 4102217015741-team90.jpg
+category: create
+body_class: banana
 project_id: '6102100'
+challenge_url: >-
+  https://challenge.la2050.org/entry/young-creative-entrepreneurs-and-small-business-internship-program
 title: Young creative entrepreneurs and small business internship program
-organization_name_2: ICON CDC
-organization_activity: >-
-  ICON is a Community Development Corporation who hosts the L.A. BusinessSource
-  Center, a no cost business assistance program to help start and grow
-  entrepreneurs and small businesses in Los Angeles.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
-project_video: 'https://www.youtube.com/embed/JVvCvAmzsCA?rel=0&amp;showinfo=0'
 project_summary: >-
   We provide a creative entrepreneur training program for youth and give them
   practical experience by placing them with a struggling local small business.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
+project_video: 'https://www.youtube.com/embed/JVvCvAmzsCA?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: Los Angeles Mayor's Office of Economic Development
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Our success will be determined by evaluating entrance and exit interviews for
   each participant. Also, confidential feedback surveys will be handed out after
@@ -58,6 +47,28 @@ project_impact: >-
   capita","Measures of cultural and global economic influence (“soft
   power”)","Minority- and women-owned firms","High growth startups","Recruiting
   and retention rates for local higher education institutions"]
+project_proposal_impact:
+  - Employment in the creative industries
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Recruiting and retention rates for local higher education institutions
+project_proposal_description: >-
+  The project begins with a world-class youth entrepreneur training program
+  encompassing activity-based leadership, marketing, financial, career
+  development workshops and youth mentoring. The second part of the project
+  places these highly trained youth at minority and women-owned small businesses
+  applying what they learned by giving creative, innovative and technology-based
+  business support: marketing, website, social media, and bookkeeping, etc.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   The training of youth entrepreneurs and exposing them to the city resources
   will be a long term asset to the economic development of Los Angeles. This may
@@ -110,26 +121,15 @@ project_proposal_best_place: >-
   respect - full of untapped potential. The HeArt of LA will help unleash this
   potential by connecting youth to resources and programs will create long-term
   Angeleno entrepreneurs in our great city.
-challenge_url: >-
-  https://challenge.la2050.org/entry/young-creative-entrepreneurs-and-small-business-internship-program
+project_image_2: 4102217015741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The project begins with a world-class youth entrepreneur training program
-  encompassing activity-based leadership, marketing, financial, career
-  development workshops and youth mentoring. The second part of the project
-  places these highly trained youth at minority and women-owned small businesses
-  applying what they learned by giving creative, innovative and technology-based
-  business support: marketing, website, social media, and bookkeeping, etc.
-project_proposal_impact:
-  - Employment in the creative industries
-  - Gini coefficient
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - High growth startups
-  - Recruiting and retention rates for local higher education institutions
-category: create
-body_class: banana
-published: true
+organization_name: ICON CDC
+organization_website: iconcdc.org
+organization_name_2: ICON CDC
+organization_activity: >-
+  ICON is a Community Development Corporation who hosts the L.A. BusinessSource
+  Center, a no cost business assistance program to help start and grow
+  entrepreneurs and small businesses in Los Angeles.
+ein: ''
 
 ---

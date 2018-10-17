@@ -1,48 +1,21 @@
 ---
+published: true
+organization_id: '2014124'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102034'
 title: 'Prototypes: Integrated Health Care for Women and Their Children'
 project_summary: >-
   The Pomona Women’s Center is a residential treatment program, serving as
   lifeline to women impacted by addiction, mental illness and trauma.
-category: live
-organization_id: '2014124'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/6AUZY8VvXXQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/6AUZY8VvXXQ'
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  ChapCare’s Marketing Manager will manage the project. The Manager is a member
-  of ChapCare's Senior Leadership Team.
-   Upon award, scouting of enrollment shop locations in the El Monte/South El Monte area will begin. Based on previous experience, we expect to locate the 2 shop spaces within 4 weeks, with an additional 2 weeks required to operationalize the sites.
-   To support marketing of the project in the community, ChapCare’s 11 member Outreach Department will launch an outreach and education campaign to generate leads that will be enrolled at the 2 shops. 
-   Specifically, based on the Consumer Tracking Survey that Covered California conducted (May 6, 2014), we know that the vast majority of people are aware of the Affordable Care Act (ACA) and their health insurance options, but what many have not chosen to do is enroll. What this means is that continued education is paramount to decrease barriers to enrollment. 
-   We will leverage local partners in El Monte/South El Monte to conduct the majority of outreach work (i.e. making flyers available at their locations). These include the El Monte/South El Monte Chamber of Commerce, Greater El Monte Community Hospital, local school districts, community based organizations, libraries, etc. Outreach conducted by ChapCare directly will focus on locations where the populations live, work, shop, and play; and local high volume locations and events.
-   Our main focus to get people to enroll in health insurance will be on planning an aggressive education campaign that will provide group presentations to capitalize on the awareness already created. Education presentations will provide general information about health insurance, and more targeted information that seeks to respond to consumer concerns.
-   Referral cards will be available at enrollment locations, whereby a consumer can write a note to a friend about their positive experience enrolling into health insurance, and to encourage them to enroll. These will be mailed at no cost to the client. 
-   The proposed strategy is cost-effective and reasonable based on our previous experience and lessons learned.
-   During the first open enrollment period, 42% of individuals who enrolled at our enrollment shop in Pasadena did so after a friend or family member enrolled and told them about it. As seen during the first open enrollment period, we expect the initial Outreach & Education to launch a multiplying effect that will leverage limited dollars into a sustained wave of activity.
-What is your idea/project in more detail?: >-
-  In the short-term, ChapCare’s proposed project will support increased health
-  care access by stripping down barriers to care (lack of health insurance).
-   By 2050, the proposed project will support improved healthcare outcomes, and healthcare as a key driver of economic viability. Studies have shown that many low-income individuals miss significant amounts of time at school and/or work because of poor health; in many instances, affecting their long-term financial viability. These affects can sometimes be so significant, as to be generational in impact.
-   In order to shift long-term health in communities, preventive health care is key. In order for people to pro-actively access health care, health insurance is essential. 
-   ChapCare’s enrollment shop model is a significant game-changer is this area since it promotes a culture of coverage in communities by normalizing the health insurance process. In most instances, for those who choose to enroll, they have to stand on long lines in a County office to enroll in Medi-Cal or call a phone bank in Sacramento to enroll in Covered California. For those who choose not to enroll there are many issues that need to be overcome such as: a lack of trust, cultural and linguistic barriers, and/or an inability to navigate the complicated health insurance system on their own.
-   The enrollment shop is a clean, visible space integrated into the fabric of the community, supported by people the community knows and trusts, that makes enrolling in health insurance feel no different than going to the post office or grocery store.
-What will you do to implement this idea/project?: >-
-  ChapCare will open 2 new retail health insurance enrollment shops in the El
-  Monte/South El Monte area in the San Gabriel Valley. 
-   There are over 120,000 people living in this area, with over 50,000 living at or below 200% of the Federal Poverty Level ($22,980 for a single person) who have not accessed health care services. As a result, the area has experienced some of the worst health indicators in Los Angeles County; specifically, the area’s obesity rate ranks 116 out of 117 cities in the County, with over 31% of adults being obese, which has led to high rates of hypertension and diabetes.
-   Many people in the El Monte/South El Monte area do not access primary health care services due to a lack of health insurance, which is one of the key barriers to people accessing needed medical services. In the proposed area, there are 39,438 low-income people (living at 400% or below of the Federal Poverty Level) that currently do not have health insurance; of which, 21,789 are eligible for Covered California, and 17,649 can access free insurance (Medi-Cal). 
-   The proposed area is predominantly Latino (75%) followed by Asian (20%), with the Asian population being predominantly Chinese and Vietnamese, making services that are culturally and linguistically competent of critical importance.
-   ChapCare’s proposed project will benefit the low-income populations of the El Monte/South El Monte region by providing easily accessible health insurance enrollment services. The project will provide services in a culturally and linguistically competent manner that is responsive to the needs of the community.
-How will your idea/project help make LA the best place to connect today? In LA2050?: Not applicable.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-youtube_video_identifier: 6AUZY8VvXXQ
 project_areas:
   - SGV
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: Prototypes
+  metrics_live_healthyfood: '0'
   org_website: www.prototypes.org
   org_twitter: 'https://twitter.com/PrototypesCare'
   org_facebook: 'https://www.facebook.com/PrototypesCare'
@@ -83,7 +56,7 @@ maker_answers:
   impact_live: "Among the 18.9 million adults with a substance use disorder in the past year, almost half had a co-occurring mental illness. However, only 7.4% of individuals receive treatment for both conditions and 55.8% receive no treatment at all. Due to the Affordable Care Act, 640,000 people in Los Angeles County are estimated to be eligible for Medi-Cal and 10% of them will need treatment for substance use disorders. This impacts Los Angeles as untreated addiction and mental illness can lead to unemployment, incarceration, child abuse or neglect, homelessness and a cycle of poverty for many families.\r\n\r\nWe can change that. Prototypes’ residential treatment is often the last hope for women with such complex issues because they have nowhere else to go. Through partnerships with local medical providers, social services agencies and the justice system, we remove barriers to access with a “whatever it takes” approach to ensure women receive addiction and mental health treatment. \r\n\r\nResearch has shown that women with substance use disorders also have high rates posttraumatic stress disorder; not surprising then is that more than 87% of the women in Prototypes’ residential treatment have been victims of sexual and/or physical abuse as well as domestic violence. Trauma is then a key focus as staff help clients understand the underlying causes of their addiction and provides them tools to successfully get through difficult situations without the use of drugs and alcohol. \r\n\r\nFurthermore, over two-thirds of women with co-occurring mental health and substance use disorders are mothers, yet most programs do not support a woman’s role as a mother or will not accommodate pregnant and postpartum women. We encourage women to bring their children with them, so they don’t have to choose between their health and their children. Keeping families together not only improves a mother’s success in her recovery, but also impacts future generations in Los Angeles.\r\n\r\nPrototypes’ residential treatment aims to fill the gap in service delivery by taking a holistic viewpoint on health and identifying everything from therapy to housing as necessary treatment for our most vulnerable. Not only to help families get access to healthcare, but we also provided the tools and resources to women become self-sufficient through housing, employment, parenting and education. The program also impacts a second generation who receive care and support to prevent future adverse experiences for children. "
   who_benefit: "Hundreds of women- those with children, those without, those who are expecting and those who have recently given birth- are brought down by addiction and its myriad challenges. Their issues are often so complex; they have nowhere else to go since many traditional programs may only offer one type of treatment. \r\n\r\nPrototypes’ Pomona Women’s Center will benefit low-income women and their children in Los Angeles County who face barriers in accessing vital behavioral treatment. We also include a client’s family in their recovery progress, providing family therapy and support. \r\n\r\nBased on our services over the years, the project is estimated to serve a client population that consists of the following:  43% Latina/o, 28% white, 27% African-American, 1% Asian/Pacific Islander and 1% American Indian. The project will serve women who struggle with the disease of addiction and may also be victims of domestic violence, have mental illness, be homeless and/or involved with the criminal justice system. They often face difficulties such as poverty due to insufficient skills and employment, language barriers, lack of access to public benefits and/or may have lost custody of their children. "
   partners_collaboration: "Over the years, Prototypes has developed a deep network of government and social services that help us meet the needs of our clients. This includes Los Angeles County agencies such as the Department of Mental Health and Department of Children and Family Services that provide referrals and resources to serve clients. We also collaborate with the criminal justice system including the Public Defender’s Office, California Department of Corrections and County Probation Department to ensure we can serve those who are incarcerated. Partnerships with local entities such as Pomona Unified School District and the Pomona Housing Authority ensure education and housing resources. We also work with East Valley Community Health Centers to provide medical care.\r\n\r\nThese partnerships are long-standing and contribute to the success of our residential program. Three critical factors that have help ensure our successful collaboration is open communication on project status through reports and meetings, effective partnership agreements and mutual support on projects. \r\n"
-  metrics_live_healthyfood: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '1'
@@ -99,7 +72,7 @@ maker_answers:
   metrics_live_treecanopy: '0'
   metrics_live_other: '0'
   metrics_live_blank: ''
-  impact_metrics: "• Number of households below the self-sufficiency standard: Prototypes provides comprehensive support services that set families up for success when they leave. This includes vocational training, employment support, and educational classes a to ensure women have their GED, can gain work experience and pursue higher education. In addition, women are provided life-skills that such as budgeting and nutrition to prepare them to create a stable household. Staff also help clients secure any public benefits and resources.\r\n• Rates of homelessness: First, Prototypes’ residential facility allows women to bring their children with them to live on campus in dorms with a length of stay ranging from 3 months to much longer depending on their treatment needs. Prototypes then works with partners in the community to find housing for families once they leave our residential facility. Prototypes also operates a 32-unit affordable housing complex for families who were homeless before accessing treatment. \r\n• Healthcare access and percentage of residents receiving coordinated healthcare services: Prototypes works with our community partners to identify individuals in need of treatment, including medical providers, to obtain mental health or other referrals. Our staff then works with families to assess their health needs and create an integrated treatment plan. We also assist families in obtaining health insurance or, more likely, help them sign up under Medi-Cal if they meet those requirements. Counselors and case managers work closely with other providers to make sure that care is coordinated and open communication exists.\r\n• Rates of mental illnesses: All women and children who come to the Pomona Women’s Center are assessed for mental health needs. Appropriate prevention and treatment is provided to ensure that both receive the care they need.  \r\n• Percentage of LA communities that are resilient: Prototypes’ comprehensive services help rebuild lives devastated by complex health issues. The treatment, skills and resources allow families to successfully reintegrate into their community. By addressing all of their needs, Prototypes indirectly impacts communities where the mothers and their children reside.\r\n• Prevalence of adverse childhood experience: By keeping mother and child together, Prototypes encourages parent-child bonding. Mothers receive parenting skills and learn about child development to better support their child’s growth. "
+  resources_network: '0'
   best_place_to_create: '1'
   best_place_to_play: '1'
   best_place_to_connect: '0'
@@ -124,8 +97,37 @@ maker_answers:
   resources_education: '0'
   resources_technical: '0'
   resources_communityoutreach: '0'
-  resources_network: '0'
   resources_research: '0'
+  impact_metrics: "• Number of households below the self-sufficiency standard: Prototypes provides comprehensive support services that set families up for success when they leave. This includes vocational training, employment support, and educational classes a to ensure women have their GED, can gain work experience and pursue higher education. In addition, women are provided life-skills that such as budgeting and nutrition to prepare them to create a stable household. Staff also help clients secure any public benefits and resources.\r\n• Rates of homelessness: First, Prototypes’ residential facility allows women to bring their children with them to live on campus in dorms with a length of stay ranging from 3 months to much longer depending on their treatment needs. Prototypes then works with partners in the community to find housing for families once they leave our residential facility. Prototypes also operates a 32-unit affordable housing complex for families who were homeless before accessing treatment. \r\n• Healthcare access and percentage of residents receiving coordinated healthcare services: Prototypes works with our community partners to identify individuals in need of treatment, including medical providers, to obtain mental health or other referrals. Our staff then works with families to assess their health needs and create an integrated treatment plan. We also assist families in obtaining health insurance or, more likely, help them sign up under Medi-Cal if they meet those requirements. Counselors and case managers work closely with other providers to make sure that care is coordinated and open communication exists.\r\n• Rates of mental illnesses: All women and children who come to the Pomona Women’s Center are assessed for mental health needs. Appropriate prevention and treatment is provided to ensure that both receive the care they need.  \r\n• Percentage of LA communities that are resilient: Prototypes’ comprehensive services help rebuild lives devastated by complex health issues. The treatment, skills and resources allow families to successfully reintegrate into their community. By addressing all of their needs, Prototypes indirectly impacts communities where the mothers and their children reside.\r\n• Prevalence of adverse childhood experience: By keeping mother and child together, Prototypes encourages parent-child bonding. Mothers receive parenting skills and learn about child development to better support their child’s growth. "
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  ChapCare’s Marketing Manager will manage the project. The Manager is a member
+  of ChapCare's Senior Leadership Team.
+   Upon award, scouting of enrollment shop locations in the El Monte/South El Monte area will begin. Based on previous experience, we expect to locate the 2 shop spaces within 4 weeks, with an additional 2 weeks required to operationalize the sites.
+   To support marketing of the project in the community, ChapCare’s 11 member Outreach Department will launch an outreach and education campaign to generate leads that will be enrolled at the 2 shops. 
+   Specifically, based on the Consumer Tracking Survey that Covered California conducted (May 6, 2014), we know that the vast majority of people are aware of the Affordable Care Act (ACA) and their health insurance options, but what many have not chosen to do is enroll. What this means is that continued education is paramount to decrease barriers to enrollment. 
+   We will leverage local partners in El Monte/South El Monte to conduct the majority of outreach work (i.e. making flyers available at their locations). These include the El Monte/South El Monte Chamber of Commerce, Greater El Monte Community Hospital, local school districts, community based organizations, libraries, etc. Outreach conducted by ChapCare directly will focus on locations where the populations live, work, shop, and play; and local high volume locations and events.
+   Our main focus to get people to enroll in health insurance will be on planning an aggressive education campaign that will provide group presentations to capitalize on the awareness already created. Education presentations will provide general information about health insurance, and more targeted information that seeks to respond to consumer concerns.
+   Referral cards will be available at enrollment locations, whereby a consumer can write a note to a friend about their positive experience enrolling into health insurance, and to encourage them to enroll. These will be mailed at no cost to the client. 
+   The proposed strategy is cost-effective and reasonable based on our previous experience and lessons learned.
+   During the first open enrollment period, 42% of individuals who enrolled at our enrollment shop in Pasadena did so after a friend or family member enrolled and told them about it. As seen during the first open enrollment period, we expect the initial Outreach & Education to launch a multiplying effect that will leverage limited dollars into a sustained wave of activity.
+What is your idea/project in more detail?: >-
+  In the short-term, ChapCare’s proposed project will support increased health
+  care access by stripping down barriers to care (lack of health insurance).
+   By 2050, the proposed project will support improved healthcare outcomes, and healthcare as a key driver of economic viability. Studies have shown that many low-income individuals miss significant amounts of time at school and/or work because of poor health; in many instances, affecting their long-term financial viability. These affects can sometimes be so significant, as to be generational in impact.
+   In order to shift long-term health in communities, preventive health care is key. In order for people to pro-actively access health care, health insurance is essential. 
+   ChapCare’s enrollment shop model is a significant game-changer is this area since it promotes a culture of coverage in communities by normalizing the health insurance process. In most instances, for those who choose to enroll, they have to stand on long lines in a County office to enroll in Medi-Cal or call a phone bank in Sacramento to enroll in Covered California. For those who choose not to enroll there are many issues that need to be overcome such as: a lack of trust, cultural and linguistic barriers, and/or an inability to navigate the complicated health insurance system on their own.
+   The enrollment shop is a clean, visible space integrated into the fabric of the community, supported by people the community knows and trusts, that makes enrolling in health insurance feel no different than going to the post office or grocery store.
+What will you do to implement this idea/project?: >-
+  ChapCare will open 2 new retail health insurance enrollment shops in the El
+  Monte/South El Monte area in the San Gabriel Valley. 
+   There are over 120,000 people living in this area, with over 50,000 living at or below 200% of the Federal Poverty Level ($22,980 for a single person) who have not accessed health care services. As a result, the area has experienced some of the worst health indicators in Los Angeles County; specifically, the area’s obesity rate ranks 116 out of 117 cities in the County, with over 31% of adults being obese, which has led to high rates of hypertension and diabetes.
+   Many people in the El Monte/South El Monte area do not access primary health care services due to a lack of health insurance, which is one of the key barriers to people accessing needed medical services. In the proposed area, there are 39,438 low-income people (living at 400% or below of the Federal Poverty Level) that currently do not have health insurance; of which, 21,789 are eligible for Covered California, and 17,649 can access free insurance (Medi-Cal). 
+   The proposed area is predominantly Latino (75%) followed by Asian (20%), with the Asian population being predominantly Chinese and Vietnamese, making services that are culturally and linguistically competent of critical importance.
+   ChapCare’s proposed project will benefit the low-income populations of the El Monte/South El Monte region by providing easily accessible health insurance enrollment services. The project will provide services in a culturally and linguistically competent manner that is responsive to the needs of the community.
+How will your idea/project help make LA the best place to connect today? In LA2050?: Not applicable.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
+youtube_video_identifier: 6AUZY8VvXXQ
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -450,7 +452,5 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: lime
-published: true
 
 ---

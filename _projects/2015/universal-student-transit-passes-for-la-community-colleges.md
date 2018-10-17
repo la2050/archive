@@ -1,9 +1,11 @@
 ---
+published: true
+organization_id: '2018084'
+year_submitted: 2015
+category: learn
+body_class: blueberry
 project_id: '5102213'
 title: Universal Student Transit Passes for LA Community Colleges
-organization_id: '2018084'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   With the cost of education going up and the economic fortunes of families
   going down, students need a break. We’re working with LA Metro and community
@@ -12,25 +14,13 @@ project_summary: >-
   jobs; 2) reduce traffic, driving and GHG emissions; 3) fill empty seats on
   transit and reduce the operating cost per ride; 4) encourage life-long
   ridership, and 5) make it easier to learn! 
-Please specify below: ''
-category: learn
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
 project_image: 'https://img.youtube.com/vi/uiAFCgZ6YRw/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/uiAFCgZ6YRw'
-youtube_video_identifier: uiAFCgZ6YRw
 project_areas:
   - County of Los Angeles
 maker_answers:
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Move LA, a project of Community Partners'
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   Organization(s) mailing address(es): "634 So. Spring Street, Suite 818\r\nLos Angeles, CA  90042"
   Organization(s) website(s): www.movela.org
   Organization(s) twitter handle(s): www.twitter.com/MoveLAtransit
@@ -80,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -97,6 +87,40 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics? Truancy rates in elementary and middle schools (Dream Metric): '0'
   How will your proposal improve the following “Learn” metrics? Students perceived sense of safety at and on the way to school (Dream Metric): '1'
   Describe in greater detail how you will make LA the best place to learn.: "LA is building transformational transit projects—an effort in which Move LA plays a significant role—and we are interested in creating a “transit-responsive” culture where people think about transit when deciding where to live, work, shop and play. Fertile ground for this lies with college students, so we are proposing a campaign to provide students with fare-free universal transit passes that are pre-paid from the state’s Greenhouse Gas Reduction Fund (GGRF), possibly air quality programs, and a very small increase in student registration fees.\r\n\r\nThis is a win-win-win-win! Programs like this across the US have demonstrated dramatic increases in student transit ridership and significant reductions in student driving, the need for campus parking, traffic congestion, air pollution and GHG emissions. Because students can fill empty seats on transit, these transit passes would boost overall ridership and reduce the cost per rider for the transit agency. With our transit expansion, a program like this now could create transit riders for life! \r\n\r\nWe’d like all 26 transit operators in LA County to offer universal transit passes to all college and university students. But community colleges may be the best place to start because most students commute, would likely use transit and stay local after graduation. More than 400,000 students attend 21 community colleges in LA County. Many come from the poorest neighborhoods and some commute as much as 30 hours a week to several campuses to get the classes they need. 75% work at least part-time and don’t carry a full load of classes, so they don’t qualify for LA Metro’s discounted student pass, which requires fulltime status. That leaves the students with the biggest financial challenges paying full fare ($1.75/ride or $100/month).\r\n\r\nOur project would address several LEARN metrics. By making it easier and cheaper to get to school and work, it could increase matriculation rates and the number of students who complete college in 6 years. For students who must choose between spending the little money they have on either bus fare or lunch, a transit pass could save them from getting a ticket and a big fine, which might lead to quitting school. By putting more jobs within geographic reach, it could address unemployment and under-employment. If more students walk in groups between school and transit stops, it could enhance safety. School is hard enough. Move LA believes getting to and from school shouldn’t make it harder. "
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Advocate for government agency (LA Metro) to launch a pilot project
+  Where will you be working?:
+    - County of Los Angeles
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     Convincing LA Metro to provide universal student passes will be difficult.
     First, Metro has a discounted transit pass program for full-time students
@@ -128,41 +152,19 @@ maker_answers:
     paper and video and other graphics for social media. Move LA will cover the
     $3,000 from our corporate contributions. 
   'Please include a detailed budget of how you will use $100,000 to implement this project.': "$  58,729  Move LA Staff\t \r\n$  11,746  Benefits & Taxes @ 20%\t \r\n$  12,000  Street Team Stipends\t \r\n$    7,150  Graphic design\t \r\n$    4,481  Rent, phones, computers, etc @ 5%\t \r\n$    8,963  Fiscal Sponsor (Community Partners )10%\t \r\n$103,069  Total\t \r\n"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Because of the scale and complexity of implementing a countywide program with LA Metro and other municipal transit providers, we will urge Metro to begin with a pilot program at 3-5 community colleges in order to figure out how to scale up — ideally to all community colleges first, then state universities, and eventually UCLA, USC and the private schools. We are recommending the pilot include one community college in each of the five county supervisorial districts, with a variety of urban, suburban and exurban locations,  a campus that would require Metro to coordinate with another municipal transit provider, and a campus where passes would also be provided to faculty and staff. We believe a pilot would help LA Metro understand how to scale-up by helping:\r\n•\tIdentify the best partners for a broader program;\r\n•\tNegotiate the right share of funding from the GGRF and/or student registration fees;\r\n•\tAssess the real program costs and the cost per rider;\r\n•\tDetermine if a program would require addition of more buses or trains and what this would cost;\r\n•\tDetermine how and whether to involve the municipal transit operators;\r\n•\tUnderstand how the use of TAP cards could help with data collection and monitoring;\r\n•\tModel reductions in VMT (vehicle miles traveled) and GHG emissions;\r\n•\tConsider if this program should be included in the next round of county wide transportation investments. \r\n\r\nThere’s a good chance that the 40% of the GHG Reduction Fund that has not yet been “continuously allocated” to other programs can provide additional funding for a bigger program in LA County as well as across the state. Last year we worked hard with a broad coalition of interests to make student transit passes an “eligible use” of this funding. Metro board has expressed interest in funding student passes to increase ridership and we’d like to see a program like this called out in the next round of transit investments. \r\n\r\nThis grant would allow us to: work with LA Metro, students and colleges on formulating the program using best practices; work with the colleges and students on organizing and demonstrating broad and enthusiastic support at Metro board meetings, and; reach out to engage students via social media including email, Facebook, Twitter and Instagram. "
-  Where will you be working?:
-    - County of Los Angeles
-  How do you plan to use these resources to make change?:
-    - Conduct research
-    - Engage residents and stakeholders
-    - Mobilize for systems change
-    - Advocate with policymakers and leaders
-    - Advocate for government agency (LA Metro) to launch a pilot project
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - Community outreach
-    - Network/relationship support
-  How will your proposal improve the following “Learn” metrics?:
-    - >-
-      Percent of community college students completing a certificate, degree, or
-      transfer-related program in six years
-    - Youth unemployment and underemployment
-    - District-wide graduation ratesCollege matriculation rates
-    - >-
-      Students perceived sense of safety at and on the way to school (Dream
-      Metric)
+areas_impacted: ''
+partners: ''
+Please specify below: ''
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
+youtube_video_identifier: uiAFCgZ6YRw
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -578,8 +580,6 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Because of the scale and complexity of implementing a countywide program with LA Metro and other municipal transit providers, we will urge Metro to begin with a pilot program at 3-5 community colleges in order to figure out how to scale up — ideally to all community colleges first, then state universities, and eventually UCLA, USC and the private schools. We are recommending the pilot include one community college in each of the five county supervisorial districts, with a variety of urban, suburban and exurban locations,  a campus that would require Metro to coordinate with another municipal transit provider, and a campus where passes would also be provided to faculty and staff. We believe a pilot would help LA Metro understand how to scale-up by helping:\r\n•\tIdentify the best partners for a broader program;\r\n•\tNegotiate the right share of funding from the GGRF and/or student registration fees;\r\n•\tAssess the real program costs and the cost per rider;\r\n•\tDetermine if a program would require addition of more buses or trains and what this would cost;\r\n•\tDetermine how and whether to involve the municipal transit operators;\r\n•\tUnderstand how the use of TAP cards could help with data collection and monitoring;\r\n•\tModel reductions in VMT (vehicle miles traveled) and GHG emissions;\r\n•\tConsider if this program should be included in the next round of county wide transportation investments. \r\n\r\nThere’s a good chance that the 40% of the GHG Reduction Fund that has not yet been “continuously allocated” to other programs can provide additional funding for a bigger program in LA County as well as across the state. Last year we worked hard with a broad coalition of interests to make student transit passes an “eligible use” of this funding. Metro board has expressed interest in funding student passes to increase ridership and we’d like to see a program like this called out in the next round of transit investments. \r\n\r\nThis grant would allow us to: work with LA Metro, students and colleges on formulating the program using best practices; work with the colleges and students on organizing and demonstrating broad and enthusiastic support at Metro board meetings, and; reach out to engage students via social media including email, Facebook, Twitter and Instagram. "
-body_class: blueberry
 organization_name: 'Move LA, a project of Community Partners'
-published: true
 
 ---

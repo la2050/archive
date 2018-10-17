@@ -1,41 +1,24 @@
 ---
+published: true
 organization_id: '2016201'
 year_submitted: 2016
-organization_name: SportUp
-organization_website: sportup.com
-ein: ''
-project_image_2: 3953804915741-team90.png
+category: learn
+body_class: blueberry
 project_id: '6102233'
+challenge_url: >-
+  https://challenge.la2050.org/entry/empowering-community-organizations-to-grow-through-logistics-and-data-analytics
 title: >-
   Empowering community organizations to grow through logistics and data
   analytics
-organization_name_2: SportUp
-organization_activity: >-
-  SportUp is a robust mobile and online activity management tool designed to
-  help teams and groups organize, communicate, and develop their programs by
-  empowering them to analyze and interpret data.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
-project_video: 'https://www.youtube.com/embed/Dh_mEDo9vD8?rel=0&amp;showinfo=0'
 project_summary: >-
   Supporting community & school based afterschool and athletic programs through
   logistics and advisory services that empower them to increase the number of
   children they serve in Los Angeles
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
+project_video: 'https://www.youtube.com/embed/Dh_mEDo9vD8?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: N/A
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Success for this project will be measured in terms of expanding the number of
   programs that use the SportUp platform to organize, communicate, and learn
@@ -89,6 +72,32 @@ project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Suspension and expulsion rates","Truancy rates in elementary and
   middle schools"]
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+project_proposal_description: >-
+  SportUp directly impacts kids in Los Angeles County by making the programs
+  that they participate in more sustainable. We work with afterschool,
+  community, and athletic programs to help build capacity and engagement by
+  giving them a tool to collect and interpreting attendance data. We will
+  outreach to local programs and provide them with a platform and advisory
+  services that will allow them to leverage their resources to impact more
+  children throughout Los Angeles.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   SportUp directly impacts children in Los Angeles County by making the programs
   that they participate in more sustainable. We are an activity management
@@ -117,24 +126,15 @@ project_proposal_best_place: >-
   pictures and short features that highlight them for our audience, as well as
   create free content that our partners can use to showcase themselves to
   philanthropic sources.
-challenge_url: >-
-  https://challenge.la2050.org/entry/empowering-community-organizations-to-grow-through-logistics-and-data-analytics
+project_image_2: 3953804915741-team90.png
 empty_column_1: ''
-project_proposal_description: >-
-  SportUp directly impacts kids in Los Angeles County by making the programs
-  that they participate in more sustainable. We work with afterschool,
-  community, and athletic programs to help build capacity and engagement by
-  giving them a tool to collect and interpreting attendance data. We will
-  outreach to local programs and provide them with a platform and advisory
-  services that will allow them to leverage their resources to impact more
-  children throughout Los Angeles.
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-category: learn
-body_class: blueberry
-published: true
+organization_name: SportUp
+organization_website: sportup.com
+organization_name_2: SportUp
+organization_activity: >-
+  SportUp is a robust mobile and online activity management tool designed to
+  help teams and groups organize, communicate, and develop their programs by
+  empowering them to analyze and interpret data.
+ein: ''
 
 ---

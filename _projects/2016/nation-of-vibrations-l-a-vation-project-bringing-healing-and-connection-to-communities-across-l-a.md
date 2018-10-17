@@ -1,35 +1,24 @@
 ---
+published: true
 organization_id: '2016154'
 year_submitted: 2016
-organization_name: Nation of Vibration
-organization_website: nationofvibration.com
-ein: ''
-project_image_2: 4762549545741-team90.jpg
+category: connect
+body_class: tangerine
 project_id: '6102209'
+challenge_url: >-
+  https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
 title: >-
   Nation of Vibration’s L.A.vation Project: Bringing Healing, and Connection to
   Communities Across L.A
-organization_name_2: Nation of Vibration
-organization_activity: >-
-  Nation of Vibration’s mission is to bring healing, connection, and empowerment
-  to individuals and communities throughout LA and to work together to bring
-  innovative and sustainable changes to our city
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
-project_video: 'https://www.youtube.com/embed/jzZRGNGG5LA?rel=0&amp;showinfo=0'
 project_summary: >-
   The L.A.vation Project brings healing circles, and other group-centered events
   to diverse schools, organizations, and communities throughout LA to encourage
   inspiration, engagement, and change.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
+project_video: 'https://www.youtube.com/embed/jzZRGNGG5LA?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Social & emotional support- After each event we give participants practices to
   do on their own to help them create and sustain their own methods for healing
@@ -78,6 +67,27 @@ project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism","Total number of local social media
   friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  The L.A.vation project will CONNECT communities (including schools,
+  businesses, activist organizations, non-profits, and other spaces) by
+  organizing and facilitating different events and gatherings uniquely tailored
+  to the community being served. The project creates unifying events designed
+  for people to join together to heal and elevate their minds, bodies and
+  spirits, while also promoting empowerment, engagement, and positive action
+  within and between communities.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   LA is one of the largest and most spread out cities in the country. It houses
   many diverse communities, but is also a place where many suffer from feeling
@@ -121,25 +131,15 @@ project_proposal_best_place: >-
   This is why the L.A.vation project is so crucial to Angelenos lives; it will
   help many people to connect to one another in ways that go far beyond the
   existing norms.
-challenge_url: >-
-  https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
+project_image_2: 4762549545741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The L.A.vation project will CONNECT communities (including schools,
-  businesses, activist organizations, non-profits, and other spaces) by
-  organizing and facilitating different events and gatherings uniquely tailored
-  to the community being served. The project creates unifying events designed
-  for people to join together to heal and elevate their minds, bodies and
-  spirits, while also promoting empowerment, engagement, and positive action
-  within and between communities.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Nation of Vibration
+organization_website: nationofvibration.com
+organization_name_2: Nation of Vibration
+organization_activity: >-
+  Nation of Vibration’s mission is to bring healing, connection, and empowerment
+  to individuals and communities throughout LA and to work together to bring
+  innovative and sustainable changes to our city
+ein: ''
 
 ---

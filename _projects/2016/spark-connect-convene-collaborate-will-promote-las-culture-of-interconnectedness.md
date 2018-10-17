@@ -1,38 +1,24 @@
 ---
+published: true
 organization_id: '2016198'
 year_submitted: 2016
-organization_name: Southern California Center for Nonprofit Management
-organization_website: www.cnmsocal.org
-ein: ''
-project_image_2: 0699377525741-team90.png
+category: connect
+body_class: tangerine
 project_id: '6102213'
+challenge_url: >-
+  https://challenge.la2050.org/entry/spark!-connect-convene-collaborate-will-promote-las-culture-of-interconnectedness
 title: >-
   SPARK!: CONNECT-CONVENE-COLLABORATE will promote LA’s culture of
   interconnectedness
-organization_name_2: Southern California Center for Nonprofit Management
-organization_activity: >-
-  Center for Nonprofit Management is the Southern California resource for
-  education, consulting and engagement across the nonprofit community enabling
-  nonprofits to achieve their goals
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
-project_video: 'http://bit.ly/2016-KP-CNM-Video?rel=0&amp;showinfo=0'
 project_summary: >-
   The Center for Nonprofit Management will strategically promote opportunities
   for connectivity, sharing and innovation for social innovators working for
   positive change across Los Angeles
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
+project_video: 'http://bit.ly/2016-KP-CNM-Video?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   The Center for Nonprofit Management aims to: 1) provide networking and
   collaborative opportunities for nonprofit leaders and social innovators across
@@ -88,6 +74,29 @@ project_impact: >-
   ["Social & emotional support","Government responsiveness to residents’
   needs","Rates of volunteerism","Total number of local social media friends and
   connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Government responsiveness to residents’ needs
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  Last spring, researchers at UCLA announced that giving in LA is down $1
+  billion a year.  That shocking finding means that annual galas and golf
+  tournaments are great but given the distress across our community, it isn’t
+  enough. So, in the words of frustrated partners, “it’s time to talk.”  SPARK!:
+  CONNECT-CONVENE-COLLABORATE will bring together leaders and innovators from
+  all sectors across LA to provide peer support and promote new collaborations
+  to solve LA’s biggest problems.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   As the leading nonprofit convener in Southern California, the Center for
   Nonprofit Management has over 35 years of experience working to assist
@@ -129,24 +138,15 @@ project_proposal_best_place: >-
   be successful.  Our goal is that these working groups will get people to talk
   about how to resolve some of the most pressing issues Los Angeles is facing,
   and continue to meet long after the grant is completed.
-challenge_url: >-
-  https://challenge.la2050.org/entry/spark!-connect-convene-collaborate-will-promote-las-culture-of-interconnectedness
+project_image_2: 0699377525741-team90.png
 empty_column_1: ''
-project_proposal_description: >-
-  Last spring, researchers at UCLA announced that giving in LA is down $1
-  billion a year.  That shocking finding means that annual galas and golf
-  tournaments are great but given the distress across our community, it isn’t
-  enough. So, in the words of frustrated partners, “it’s time to talk.”  SPARK!:
-  CONNECT-CONVENE-COLLABORATE will bring together leaders and innovators from
-  all sectors across LA to provide peer support and promote new collaborations
-  to solve LA’s biggest problems.
-project_proposal_impact:
-  - Social & emotional support
-  - Government responsiveness to residents’ needs
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Southern California Center for Nonprofit Management
+organization_website: www.cnmsocal.org
+organization_name_2: Southern California Center for Nonprofit Management
+organization_activity: >-
+  Center for Nonprofit Management is the Southern California resource for
+  education, consulting and engagement across the nonprofit community enabling
+  nonprofits to achieve their goals
+ein: ''
 
 ---

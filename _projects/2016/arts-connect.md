@@ -1,34 +1,25 @@
 ---
+published: true
 organization_id: '2016013'
 year_submitted: 2016
-organization_name: Arts and Living Charitable Foundation
-organization_website: www.aalcf.com/index.php/what-the/80-article-eight14
-ein: ''
-project_image_2: 0529159945741-team91.png
+category: learn
+body_class: blueberry
 project_id: '6102010'
+challenge_url: 'https://challenge.la2050.org/entry/arts-connect'
 title: 'Arts Connect '
-organization_name_2: Arts and Living Charitable Foundation
-organization_activity: >-
-  Arts Connect takes successful, well-known relevant people and produces their
-  real-life stories in a digital multimedia curriculum, integrating the arts to
-  enhance pupils learning experiences.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
-project_video: 'https://www.youtube.com/embed/UpeLWXJL0JI?rel=0&amp;showinfo=0'
 project_summary: >-
   Arts Connect is a progressive plan for Los Angeles learners to get a fresh
   real-life digital storyline and multimedia curriculum presented with LA’s
   legendary icons.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
+project_video: 'https://www.youtube.com/embed/UpeLWXJL0JI?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Metta World Peace (center) at Los Angeles High School and College Summit. 1763
   Columbia Road, NW, Second Floor, Washington, DC 20009; College Summit
   transforms the lives of low-income youth by connecting them to college and
   career, in collaboration with ARTS CONNECT.
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Arts Connect aspires to be the answer to most of the existing issues facing
   today’s educational system. This program has the ability to enrich, enlighten
@@ -67,6 +58,25 @@ project_impact: >-
   in English and Language Arts and Math","Student education
   pipeline","Suspension and expulsion rates","Truancy rates in elementary and
   middle schools"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+project_proposal_description: >-
+  Arts Connect displays the real-life achievement of well-respected and highly
+  regarded individuals, both historical and contemporary, through a digital
+  multi-media format specifically to enhance student learning experiences. The
+  format follows learning mandates and promotes the broad-ranging potential in
+  all children. This is a complimentary learning management system that offers
+  real world examples and the cosmopolitan language of Art in all its forms as
+  an all-important tool for joyful learning
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Around the world Los Angeles epitomizes glamour and is regarded as the
   international epicenter of creative industry and its foremost hub for
@@ -114,25 +124,15 @@ project_proposal_best_place: >-
   for learning, connect students with contemporary icons whose accomplishments
   can be seen as “relevant” for young scholars, and energize student interest
   and a desire to continue and succeed in school.
-challenge_url: 'https://challenge.la2050.org/entry/arts-connect'
+project_image_2: 0529159945741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  Arts Connect displays the real-life achievement of well-respected and highly
-  regarded individuals, both historical and contemporary, through a digital
-  multi-media format specifically to enhance student learning experiences. The
-  format follows learning mandates and promotes the broad-ranging potential in
-  all children. This is a complimentary learning management system that offers
-  real world examples and the cosmopolitan language of Art in all its forms as
-  an all-important tool for joyful learning
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-category: learn
-body_class: blueberry
-published: true
+organization_name: Arts and Living Charitable Foundation
+organization_website: www.aalcf.com/index.php/what-the/80-article-eight14
+organization_name_2: Arts and Living Charitable Foundation
+organization_activity: >-
+  Arts Connect takes successful, well-known relevant people and produces their
+  real-life stories in a digital multimedia curriculum, integrating the arts to
+  enhance pupils learning experiences.
+ein: ''
 
 ---

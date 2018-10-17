@@ -1,57 +1,22 @@
 ---
+published: true
+organization_id: '2016238'
+year_submitted: 2014
+category: play
+body_class: strawberry
 project_id: '4102235'
 title: Tickleberry Place Indoor Play Gym
 project_summary: >-
   @tickleberryfun wants to provide a fun, eco-friendly, and healthy play space
   for kids and families in #southla and #centralla area
-category: play
-organization_id: '2016238'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/rlrzrwiHA8I/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/rlrzrwiHA8I'
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  We will fundraise the funds and become certified as B Corporation. Once we
-  have the funds we can do the following:
-   Obtain a lease or purchase property
-   Purchase equipment
-   Design the space for the needs of the families
-   Marketing and awareness
-What is your idea/project in more detail?: >-
-  Currently, children in South LA experience many injustices related to play.
-  There are only a handful of indoor play facilities in the area. The play
-  facilities that do exist promote play but also promote unhealthful eating,
-  such as Chuck-E-Cheese and the play gyms at McDonalds. Lack of green space,
-  play space and healthy food choice options all contribute to the growing rate
-  of obesity among children in LA County. Tickleberry Place will combat the
-  trifold issues of lack of play space, lack of green space, and lack of healthy
-  food by providing a space where children and families can eat, play, and learn
-  about healthy living. 
-   Our children our exposed to a large number of harsh chemicals and toxic materials. Tickleberry Place will be a play space made from environmentally friendly materials. In addition, Tickleberry Place will use products and methods to keep the play space toxic free. This is particularly important as about 1 in 11 children have asthma in Los Angeles. 
-   
-   Children can play in the play gym or participate in community building games facilitated by the Tickleberry team. When children are done playing,they can eat healthy organic produce grown in Tickleberry’s garden. Food will be healthful but also culturally relevant to the majority black and Latino residents in the neighborhood near Tickleberry.
-   
-   What will distinguish Tickleberry from other indoor play gyms is its focus on education for families. Through a partnership with educational organizations, Tickleberry will offer classes, workshops, and events for parents on topics such as gardening, healthy eating, sustainable living, and healthy child development. 
-   
-   Our goal is for Tickleberry Place to be a community hub for health and wellness. With a local space that caters toward fun and well being, Tickleberry Place will help make LA the best place to learn in 2050.
-What will you do to implement this idea/project?: >-
-  This will benefit families in South and Central Los Angeles, but it is not
-  limited to other neighborhoods and communities.
-   
-   Tickleberry Place was designed to meet the unique needs of South LA. Historically, South LA has experienced violence, lack of access to safe play spaces to children, limited access to healthy foods. This limits opportunities for children to play and for parents to connect in a public space about values such as healthy living for families. Tickleberry caters to this demographic of Black and Latino families with children ages 6 months to 10 years old. Tickleberry begins in South LA as it is the highest need region for issues of food access and play space. However, the location of Tickleberry makes it accessible to the greater Los Angeles’ Community. Tickleberry welcomes participation from families across the city. Eventually, it is the goal of the founders to expand Tickleberry into other regions of the city, so that families will not have to travel far for safe, environmentally friendly, healthful play spaces for children.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  As of right now, we don’t have any partners or collaborators on the project.
-  Having a partner would be a great opportunity for collaborating on this cause
-  of creating healthy and sustainable play spaces in Los Angeles. We are open to
-  having partners and are looking for them.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-youtube_video_identifier: rlrzrwiHA8I
 project_areas:
   - CENTRAL LA
   - SOUTH LA
 maker_answers:
-  name: Tickleberry Place Indoor Play Gym
   handle: Tickleberryplace
+  implement: "We will fundraise the funds and become certified as B Corporation. Once we have the funds we can do the following:\r\nObtain a lease or purchase property\r\nPurchase equipment\r\nDesign the space for the needs of the families\r\nMarketing and awareness\r\n"
   **REMOVED**
   **REMOVED**
   City_State: 'Los Angeles, CA'
@@ -100,7 +65,7 @@ maker_answers:
     importantly, Tickleberry will provide support system for parents to connect
     them to other parents in the area. Tickleberry will create a community space
     for families in the area.
-  implement: "We will fundraise the funds and become certified as B Corporation. Once we have the funds we can do the following:\r\nObtain a lease or purchase property\r\nPurchase equipment\r\nDesign the space for the needs of the families\r\nMarketing and awareness\r\n"
+  name: Tickleberry Place Indoor Play Gym
   impact_play: "Currently, children in South LA experience many injustices related to play. There are only a handful of indoor play facilities in the area. The play facilities that do exist promote play but also promote unhealthful eating, such as Chuck-E-Cheese and the play gyms at McDonalds. Lack of green space, play space and healthy food choice options all contribute to the growing rate of obesity among children in LA County. Tickleberry Place will combat the trifold issues of lack of play space, lack of green space, and lack of healthy food by providing a space where children and families can eat, play, and learn about healthy living. \r\nOur children our exposed to a large number of harsh chemicals and toxic materials. Tickleberry Place will be a play space made from environmentally friendly materials. In addition, Tickleberry Place will use products and methods to keep the play space toxic free. This is particularly important as about 1 in 11 children have asthma in Los Angeles. \r\n\r\nChildren can play in the play gym or participate in community building games facilitated by the Tickleberry team. When children are done playing,they can eat healthy organic produce grown in Tickleberry’s garden. Food will be healthful but also culturally relevant to the majority black and Latino residents in the neighborhood near Tickleberry.\r\n\r\nWhat will distinguish Tickleberry from other indoor play gyms is its focus on education for families. Through a partnership with educational organizations, Tickleberry will offer classes, workshops, and events for parents on topics such as gardening, healthy eating, sustainable living, and healthy child development. \r\n\r\nOur goal is for Tickleberry Place to be a community hub for health and wellness. With a local space that caters toward fun and well being, Tickleberry Place will help make LA the best place to learn in 2050. \r\n\r\n"
   who_benefit: "This will benefit families in South and Central Los Angeles, but it is not limited to other neighborhoods and communities.\r\n\r\nTickleberry Place was designed to meet the unique needs of South LA. Historically, South LA has experienced violence, lack of access to safe play spaces to children, limited access to healthy foods. This limits opportunities for children to play and for parents to connect in a public space about values such as healthy living for families. Tickleberry caters to this demographic of Black and Latino families with children ages 6 months to 10 years old.  Tickleberry begins in South LA as it is the highest need region for issues of food access and play space. However, the location of Tickleberry makes it accessible to the greater Los Angeles’ Community. Tickleberry welcomes participation from families across the city. Eventually, it is the goal of the founders to expand Tickleberry into other regions of the city, so that families will not have to travel far for safe, environmentally friendly, healthful play spaces for children. "
   partners_collaboration: >-
@@ -119,7 +84,7 @@ maker_answers:
   metrics_play_informal: '1'
   metrics_play_other: '0'
   metrics_play_blank: ''
-  impact_metrics: "Be the top quality informal spaces for play in South and Central Los Angeles being accessible for open play to the public during the week and on weekends\r\n\r\nBe considered a safe and healthy place for kids and families to play by having staff available and managing the facility at all times. As a indoor place, it is easier to watch over children.\r\n\r\nProvide local residents after school programs, workshops, and actives, for learning about environment, science, art, and healthy eating. "
+  resources_network: '1'
   best_place_to_learn: '1'
   best_place_to_create: '0'
   best_place_to_connect: '0'
@@ -140,8 +105,45 @@ maker_answers:
   resources_education: '1'
   resources_technical: '1'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '0'
+  impact_metrics: "Be the top quality informal spaces for play in South and Central Los Angeles being accessible for open play to the public during the week and on weekends\r\n\r\nBe considered a safe and healthy place for kids and families to play by having staff available and managing the facility at all times. As a indoor place, it is easier to watch over children.\r\n\r\nProvide local residents after school programs, workshops, and actives, for learning about environment, science, art, and healthy eating. "
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  We will fundraise the funds and become certified as B Corporation. Once we
+  have the funds we can do the following:
+   Obtain a lease or purchase property
+   Purchase equipment
+   Design the space for the needs of the families
+   Marketing and awareness
+What is your idea/project in more detail?: >-
+  Currently, children in South LA experience many injustices related to play.
+  There are only a handful of indoor play facilities in the area. The play
+  facilities that do exist promote play but also promote unhealthful eating,
+  such as Chuck-E-Cheese and the play gyms at McDonalds. Lack of green space,
+  play space and healthy food choice options all contribute to the growing rate
+  of obesity among children in LA County. Tickleberry Place will combat the
+  trifold issues of lack of play space, lack of green space, and lack of healthy
+  food by providing a space where children and families can eat, play, and learn
+  about healthy living. 
+   Our children our exposed to a large number of harsh chemicals and toxic materials. Tickleberry Place will be a play space made from environmentally friendly materials. In addition, Tickleberry Place will use products and methods to keep the play space toxic free. This is particularly important as about 1 in 11 children have asthma in Los Angeles. 
+   
+   Children can play in the play gym or participate in community building games facilitated by the Tickleberry team. When children are done playing,they can eat healthy organic produce grown in Tickleberry’s garden. Food will be healthful but also culturally relevant to the majority black and Latino residents in the neighborhood near Tickleberry.
+   
+   What will distinguish Tickleberry from other indoor play gyms is its focus on education for families. Through a partnership with educational organizations, Tickleberry will offer classes, workshops, and events for parents on topics such as gardening, healthy eating, sustainable living, and healthy child development. 
+   
+   Our goal is for Tickleberry Place to be a community hub for health and wellness. With a local space that caters toward fun and well being, Tickleberry Place will help make LA the best place to learn in 2050.
+What will you do to implement this idea/project?: >-
+  This will benefit families in South and Central Los Angeles, but it is not
+  limited to other neighborhoods and communities.
+   
+   Tickleberry Place was designed to meet the unique needs of South LA. Historically, South LA has experienced violence, lack of access to safe play spaces to children, limited access to healthy foods. This limits opportunities for children to play and for parents to connect in a public space about values such as healthy living for families. Tickleberry caters to this demographic of Black and Latino families with children ages 6 months to 10 years old. Tickleberry begins in South LA as it is the highest need region for issues of food access and play space. However, the location of Tickleberry makes it accessible to the greater Los Angeles’ Community. Tickleberry welcomes participation from families across the city. Eventually, it is the goal of the founders to expand Tickleberry into other regions of the city, so that families will not have to travel far for safe, environmentally friendly, healthful play spaces for children.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  As of right now, we don’t have any partners or collaborators on the project.
+  Having a partner would be a great opportunity for collaborating on this cause
+  of creating healthy and sustainable play spaces in Los Angeles. We are open to
+  having partners and are looking for them.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
+youtube_video_identifier: rlrzrwiHA8I
 maker_answers_list:
   - name: name
     label: ''
@@ -474,7 +476,5 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: strawberry
-published: true
 
 ---

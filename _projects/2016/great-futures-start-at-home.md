@@ -1,26 +1,20 @@
 ---
+published: true
 organization_id: '2016051'
 year_submitted: 2016
-organization_name: Community Corporation of Santa Monica
-organization_website: www.communitycorp.org
-ein: ''
-project_image_2: 0265060265741-team91.jpg
+category: play
+body_class: strawberry
 project_id: '6102050'
+challenge_url: 'https://challenge.la2050.org/entry/great-futures-start-at-home'
 title: Great Futures Start At Home
-organization_name_2: Community Corporation of Santa Monica
-organization_activity: >-
-  We are a Santa Monica based non-profit that restores, builds and manages 
-  affordable housing for people of modest means.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
-project_video: 'https://www.youtube.com/embed/cPfsZdgBbDk?rel=0&amp;showinfo=0'
 project_summary: >-
   Our project brings the service and care of the Boys & Girls Club right to the
   doorsteps of our kids.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
+project_video: 'https://www.youtube.com/embed/cPfsZdgBbDk?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'Boys and Girls Clubs of Santa Monica, Community Corporation of Santa Monica'
-project_areas:
-  - Westside
 project_measure: >-
   Number of young people 6-18 years of age served by Boys & Girls Clubs of Santa
   Monica programs.
@@ -51,6 +45,18 @@ project_description: >-
   kids are directly served with programs they need, and the whole family
   benefits from using the family-centered space.
 project_impact: '["Number of children enrolled in afterschool programs"]'
+project_proposal_impact:
+  - Number of children enrolled in afterschool programs
+project_proposal_description: >-
+  Our project is a model that can be duplicated in other communities and help
+  others, too. We offer proven Boys & Girls Club youth-development activities in
+  affordable housing communities to kids 6-18 years of age. Programs yield
+  academic success, good character & citizenship, and healthy lifestyles. What’s
+  special here is that we are bringing the Club to the home community so that
+  kids are directly served with programs they need, and the whole family
+  benefits from using the family-centered space.
+project_areas:
+  - Westside
 project_proposal_best_place: >-
   Remember when you were a kid – some of your best friends were from your
   neighborhood. Families today tend to be scattered and busy with life, work,
@@ -95,20 +101,14 @@ project_proposal_best_place: >-
   professionals who serve as positive role models to the Club members, with
   important information for families at their fingertips as a valuable,
   accessible resource.
-challenge_url: 'https://challenge.la2050.org/entry/great-futures-start-at-home'
+project_image_2: 0265060265741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Our project is a model that can be duplicated in other communities and help
-  others, too. We offer proven Boys & Girls Club youth-development activities in
-  affordable housing communities to kids 6-18 years of age. Programs yield
-  academic success, good character & citizenship, and healthy lifestyles. What’s
-  special here is that we are bringing the Club to the home community so that
-  kids are directly served with programs they need, and the whole family
-  benefits from using the family-centered space.
-project_proposal_impact:
-  - Number of children enrolled in afterschool programs
-category: play
-body_class: strawberry
-published: true
+organization_name: Community Corporation of Santa Monica
+organization_website: www.communitycorp.org
+organization_name_2: Community Corporation of Santa Monica
+organization_activity: >-
+  We are a Santa Monica based non-profit that restores, builds and manages 
+  affordable housing for people of modest means.
+ein: ''
 
 ---

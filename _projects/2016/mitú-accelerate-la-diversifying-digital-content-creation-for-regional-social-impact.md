@@ -1,26 +1,22 @@
 ---
+published: true
 organization_id: '2016149'
 year_submitted: 2016
-organization_name: mitu
-organization_website: mitunetwork.com
-ein: ''
-project_image_2: 5654638165741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102205'
+challenge_url: >-
+  https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
 title: >-
   mitú Accelerate LA:  Diversifying digital content creation for regional social
   impact
-organization_name_2: mitu
-organization_activity: >-
-  mitú is the leading digital media and data-driven company focused on
-  representing and elevating Latino millennial stories through content that is
-  unapologetically Latino.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
-project_video: 'https://www.youtube.com/embed/I-2Ao80yxyQ?rel=0&amp;showinfo=0'
 project_summary: >-
   mitú Accelerate LA is a two track program focused on empowering aspiring
   Latino filmmakers and storytellers to share their powerful stories, and cover
   some of the most vital issues in the community.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
+project_video: 'https://www.youtube.com/embed/I-2Ao80yxyQ?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We will form collaborative partnerships with groups to elevate diverse voices,
@@ -30,13 +26,6 @@ project_collaborators: >-
   the Community College system,  Families in Schools, Californians for Safety
   and Justice, NDLON, Presente.org, CHIRLA, Community Coalition, and other
   possible partners
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Gateway Cities
 project_measure: >-
   Success will be defined and measured through how the program achieves key
   milestones in the areas of A) Quality Outreach and Level of Participation, B)
@@ -81,6 +70,26 @@ project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)","Minority- and
   women-owned firms"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+project_proposal_description: >-
+  mitú Accelerate LA not only discovers aspiring Latino digital filmmakers, but
+  connects them with key community organizations, educational institutions, and
+  industry partners, with the goal of training them on how to successfully
+  create digital content that speaks to the often overlooked, yet massive,
+  Latino millennial audience. As leaders in this field, mitú is focused on
+  giving back by teaching Latino filmmakers to authentically tell their own
+  stories in a way that speaks directly and effective
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Gateway Cities
 project_proposal_best_place: >-
   Latinos are the fastest growing demographic in the US, but only represent a
   fraction of the filmmaking community. As a result, they are underrepresented
@@ -129,24 +138,15 @@ project_proposal_best_place: >-
   opportunity to, taking into account the changing regional and national media
   consumption landscape, proactively work at expanding diverse digital creator
   talent and build opportunities for multicultural communities.
-challenge_url: >-
-  https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
+project_image_2: 5654638165741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  mitú Accelerate LA not only discovers aspiring Latino digital filmmakers, but
-  connects them with key community organizations, educational institutions, and
-  industry partners, with the goal of training them on how to successfully
-  create digital content that speaks to the often overlooked, yet massive,
-  Latino millennial audience. As leaders in this field, mitú is focused on
-  giving back by teaching Latino filmmakers to authentically tell their own
-  stories in a way that speaks directly and effective
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-category: create
-body_class: banana
-published: true
+organization_name: mitu
+organization_website: mitunetwork.com
+organization_name_2: mitu
+organization_activity: >-
+  mitú is the leading digital media and data-driven company focused on
+  representing and elevating Latino millennial stories through content that is
+  unapologetically Latino.
+ein: ''
 
 ---

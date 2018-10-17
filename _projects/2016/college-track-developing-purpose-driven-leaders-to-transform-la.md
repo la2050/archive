@@ -1,30 +1,22 @@
 ---
+published: true
 organization_id: '2016048'
 year_submitted: 2016
-organization_name: College Track
-organization_website: www.collegetrack.org
-ein: '943279613'
-project_image_2: 4013598065741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102047'
+challenge_url: >-
+  https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
 title: 'College Track: Developing purpose-driven leaders to transform LA'
-organization_name_2: College Track
-organization_activity: >-
-  From 9th grade through college graduation, College Track’s 10-year program
-  empowers students from low-income communities to transcend the limits of their
-  circumstance and earn a college degree.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
-project_video: 'https://www.youtube.com/embed/3R34MzY6_dM?rel=0&amp;showinfo=0'
 project_summary: >-
   College Track’s Dream LA project empowers students from Boyle Heights and
   Watts to identify their dreams and passions, and connect those interests in
   meaningful service to the LA community.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
+project_video: 'https://www.youtube.com/embed/3R34MzY6_dM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - East LA
-  - South LA
-  - LAUSD
 project_measure: >-
   College Track’s Dream LA project aims to 1) help students identify their
   dreams and passions, and 2) connect those interests in service to the LA
@@ -66,6 +58,24 @@ project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Student education
   pipeline","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  College Track’s Dream LA project will transform high school students from
+  Boyle Heights and Watts into leaders of change by helping them identify their
+  dreams, turn their passions into actions, and make a positive impact in the LA
+  community. Purpose-driven service projects will allow students to explore
+  leadership, activism, community development and entrepreneurship – creating
+  networks and developing interests that propel them through college and beyond.
+project_areas:
+  - East LA
+  - South LA
+  - LAUSD
 project_proposal_best_place: >-
   College Track will make LA the best place to learn by developing
   purpose-driven leaders of change through our Dream LA project, which provides
@@ -117,25 +127,15 @@ project_proposal_best_place: >-
   Club and Project DAD, as well as a campaign around food sovereignty. This
   year, we anticipate that students will partner with at least 15 organizations
   across LA to transform their passions into positive impact
-challenge_url: >-
-  https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
+project_image_2: 4013598065741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  College Track’s Dream LA project will transform high school students from
-  Boyle Heights and Watts into leaders of change by helping them identify their
-  dreams, turn their passions into actions, and make a positive impact in the LA
-  community. Purpose-driven service projects will allow students to explore
-  leadership, activism, community development and entrepreneurship – creating
-  networks and developing interests that propel them through college and beyond.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: College Track
+organization_website: www.collegetrack.org
+organization_name_2: College Track
+organization_activity: >-
+  From 9th grade through college graduation, College Track’s 10-year program
+  empowers students from low-income communities to transcend the limits of their
+  circumstance and earn a college degree.
+ein: '943279613'
 
 ---

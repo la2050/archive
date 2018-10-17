@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016084'
 year_submitted: 2016
-organization_name: Friends of the Family
-organization_website: www.fofca.org
-ein: ''
-project_image_2: 1711077255741-team90.JPG
+category: connect
+body_class: tangerine
 project_id: '6102075'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up!
 title: >-
   The Man2Man Project: Preventing boys from becoming dads too early and helping
   teen dads to step up!
-organization_name_2: Friends of the Family
-organization_activity: >-
-  Friends of the Family works to lift children and their families out of
-  poverty, protect them from abuse and neglect, and ensure their access to
-  education, healthcare, and a resource-rich community.
-project_image: >-
-  https://scontent-lax3-1.cdninstagram.com/vp/8eeee6963e780259dfd6477d6f2e86b6/5C55FCEF/t51.2885-15/e35/21984637_244426656081944_7828350230864068608_n.jpg
-project_video: ''
 project_summary: >-
   The Man2Man Project will connect multiple generations of men and boys for the
   dual purpose of helping young dads to become great fathers and preventing
   at-risk boys from becoming fathers too soon.
+project_image: >-
+  https://scontent-lax3-1.cdninstagram.com/vp/8eeee6963e780259dfd6477d6f2e86b6/5C55FCEF/t51.2885-15/e35/21984637_244426656081944_7828350230864068608_n.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - San Fernando Valley
 project_measure: >-
   The proposed activities for the Man2Man Project are designed to give at-risk
   young males hope, goals, purpose, a positive attitude, and the knowledge and
@@ -75,6 +69,19 @@ project_description: >-
   high school at-risk boys in an effort to prevent them from also becoming
   fathers too soon.
 project_impact: '["Social & emotional support","Rates of volunteerism"]'
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+project_proposal_description: >-
+  The Man2Man Project will expand the lauded Young Dads program at Friends of
+  the Family in two ways.  Adult male volunteers will be recruited and trained
+  to provide one-to-one mentorship for Young Dads participants, a majority of
+  whom did not have a father or male role model as they grew up.  The Project
+  will simultaneously train the Young Dads participants to work with middle and
+  high school at-risk boys in an effort to prevent them from also becoming
+  fathers too soon.
+project_areas:
+  - San Fernando Valley
 project_proposal_best_place: >-
   The Man2Man Project (M2M) will help make LA the best place to connect by
   creating a network of support for boys and young men from disadvantaged
@@ -124,22 +131,15 @@ project_proposal_best_place: >-
   each other “man to man” around the importance of responsible fatherhood, the
   M2M Project will impact future generations and help make LA the best place to
   connect.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up!
+project_image_2: 1711077255741-team90.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  The Man2Man Project will expand the lauded Young Dads program at Friends of
-  the Family in two ways.  Adult male volunteers will be recruited and trained
-  to provide one-to-one mentorship for Young Dads participants, a majority of
-  whom did not have a father or male role model as they grew up.  The Project
-  will simultaneously train the Young Dads participants to work with middle and
-  high school at-risk boys in an effort to prevent them from also becoming
-  fathers too soon.
-project_proposal_impact:
-  - Social & emotional support
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: Friends of the Family
+organization_website: www.fofca.org
+organization_name_2: Friends of the Family
+organization_activity: >-
+  Friends of the Family works to lift children and their families out of
+  poverty, protect them from abuse and neglect, and ensure their access to
+  education, healthcare, and a resource-rich community.
+ein: ''
 
 ---

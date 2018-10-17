@@ -1,39 +1,20 @@
 ---
+published: true
 organization_id: '2016020'
 year_submitted: 2016
-organization_name: Big Sunday
-organization_website: www.bigsunday.org
-ein: '421765317'
-project_image_2: 4405823065741-team91.JPG
+category: connect
+body_class: tangerine
 project_id: '6102018'
+challenge_url: 'https://challenge.la2050.org/entry/connecting-community-through-color'
 title: Connecting Community Through Color
-organization_name_2: Big Sunday
-organization_activity: >-
-  Big Sunday connects people through helping; we provide a wide variety of
-  opportunities and projects that bring people together to improve lives, build
-  community and give people a sense of belonging
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
-project_video: 'https://www.youtube.com/embed/mZrJcqrvSsM?rel=0&amp;showinfo=0'
 project_summary: >-
   Color Your School: Big Sunday is Creating Awesome Murals for (and with)
   Amazing Kids at Incredible Schools
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
+project_video: 'https://www.youtube.com/embed/mZrJcqrvSsM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-  - We are open to working anywhere in greater L.A.
 project_measure: >-
   One of our goals is to introduce children to the impact that color and imagery
   has on their environment and their life. Also, how important murals and civic
@@ -72,6 +53,34 @@ project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism","Total number of local social media
   friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  We want to change the face of schools by bringing a massive burst of color.
+  We'll bring students, faculty, parents and neighbors together to transform
+  blank structures to ones filled with vibrancy and lively characters while
+  learning the fundamentals of color therapy. We believe that by enhancing their
+  environment, kids of any age will be more engaged and committed to their
+  educational journey, schools will be more welcoming, and every community can
+  enjoy and appreciate beautiful art.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
+  - We are open to working anywhere in greater L.A.
 project_proposal_best_place: >-
   Big Sunday has been bringing people of all ages and backgrounds together for
   nearly twenty years. Our mission statement embodies the spirit of
@@ -130,24 +139,15 @@ project_proposal_best_place: >-
 
   Creating these murals will connect people in a classic Big Sunday way:
   impactful and fun.
-challenge_url: 'https://challenge.la2050.org/entry/connecting-community-through-color'
+project_image_2: 4405823065741-team91.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  We want to change the face of schools by bringing a massive burst of color.
-  We'll bring students, faculty, parents and neighbors together to transform
-  blank structures to ones filled with vibrancy and lively characters while
-  learning the fundamentals of color therapy. We believe that by enhancing their
-  environment, kids of any age will be more engaged and committed to their
-  educational journey, schools will be more welcoming, and every community can
-  enjoy and appreciate beautiful art.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Big Sunday
+organization_website: www.bigsunday.org
+organization_name_2: Big Sunday
+organization_activity: >-
+  Big Sunday connects people through helping; we provide a wide variety of
+  opportunities and projects that bring people together to improve lives, build
+  community and give people a sense of belonging
+ein: '421765317'
 
 ---

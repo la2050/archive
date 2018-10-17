@@ -1,23 +1,18 @@
 ---
+published: true
 organization_id: '2016096'
 year_submitted: 2016
-organization_name: Habidatum
-organization_website: habidatum.com
-ein: ''
-project_image_2: 8010774165741-team91.png
+category: connect
+body_class: tangerine
 project_id: '6102168'
+challenge_url: 'https://challenge.la2050.org/entry/la-easy-access'
 title: 'LA: Easy Access'
-organization_name_2: Habidatum
-organization_activity: Open data-driven analysis of public transport accessibility in space-time
+project_summary: Open data-driven analysis of public transport accessibility in space-time
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8010774165741-team91.png
 project_video: 'https://player.vimeo.com/video/183623434?rel=0&amp;showinfo=0'
-project_summary: Open data-driven analysis of public transport accessibility in space-time
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Expected impacts
 
@@ -45,6 +40,23 @@ project_description: >-
 project_impact: >-
   ["Government responsiveness to residents’ needs","Travel time to work","Public
   transit riders"]
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+project_proposal_description: >-
+  By using Habidatum Platform we help identify the priority public transport
+  development areas. We highlight places where public transport is unavailable,
+  and people have to wait or walk longer than in other locations.
+
+  We also analyze where public transport is inefficient. In some cases, getting
+  somewhere by foot is faster than using public transport. 
+
+  Automated spatio-temporal analysis performed in our platform supports
+  improvement of public transit’s reputation and quality of life in the city.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Rationale
 
@@ -113,24 +125,12 @@ project_proposal_best_place: >-
   The public transport application of the platform has been used in 5+ cities.
   Among them is the city of Pune, India, which serves to showcase the
   feasibility of the current proposal (see the video).
-challenge_url: 'https://challenge.la2050.org/entry/la-easy-access'
+project_image_2: 8010774165741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  By using Habidatum Platform we help identify the priority public transport
-  development areas. We highlight places where public transport is unavailable,
-  and people have to wait or walk longer than in other locations.
-
-  We also analyze where public transport is inefficient. In some cases, getting
-  somewhere by foot is faster than using public transport. 
-
-  Automated spatio-temporal analysis performed in our platform supports
-  improvement of public transit’s reputation and quality of life in the city.
-project_proposal_impact:
-  - Government responsiveness to residents’ needs
-  - Travel time to work
-  - Public transit riders
-category: connect
-body_class: tangerine
-published: true
+organization_name: Habidatum
+organization_website: habidatum.com
+organization_name_2: Habidatum
+organization_activity: Open data-driven analysis of public transport accessibility in space-time
+ein: ''
 
 ---

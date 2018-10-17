@@ -1,34 +1,26 @@
 ---
+published: true
 organization_id: '2016078'
 year_submitted: 2016
-organization_name: First Place for Youth
-organization_website: firstplaceforyouth.org
-ein: ''
-project_image_2: 3278819955741-team89.jpg
+category: learn
+body_class: blueberry
 project_id: '6102068'
+challenge_url: >-
+  https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
 title: >-
   First Place: Providing at-risk foster youth with the skills they need to be
   college and career ready
-organization_name_2: First Place for Youth
-organization_activity: >-
-  First Place provides foster youth with intensive support to complete their
-  high school diploma or GED certificate, enroll in college, and obtain
-  employment—while accessing safe, affordable housing.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
-project_video: ''
 project_summary: >-
   First Place for Youth provides at-risk foster youth, ages 18 to 24, with
   intensive education and employment support so that they can improve their
   lives and become self-sufficient.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Art + Practice Foundation (A+P) is an arts and education private operating
   foundation based in Leimert Park.
-project_areas:
-  - Central LA
-  - South LA
-  - South Bay
 project_measure: >-
   First Place demonstrates that with the right guidance and support, at the
   right time, foster youth can defy the odds that are so stacked against them
@@ -74,6 +66,23 @@ project_description: >-
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Student
   education pipeline","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  First Place provides at-risk foster youth, ages 18 to 24, with intensive
+  education and employment support so that they can become self-sufficient.
+  First Place will expand our program operations, currently located in
+  Koreatown, and launch a new satellite office within the A+P Campus. By
+  providing outcomes-driven services to more youth in need, First Place can push
+  for higher standards through our leadership in the field and change the way
+  that youth are treated within the foster care system.
+project_areas:
+  - Central LA
+  - South LA
+  - South Bay
 project_proposal_best_place: >-
   First Place will help make LA the best place to learn by providing foster
   youth with the skills they need to be college and career ready. The First
@@ -126,24 +135,15 @@ project_proposal_best_place: >-
   Administration, and Media Arts), all of which offer youth the opportunity to
   receive an industry-recognized certificate and can lead to a living-wage
   career.
-challenge_url: >-
-  https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
+project_image_2: 3278819955741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  First Place provides at-risk foster youth, ages 18 to 24, with intensive
-  education and employment support so that they can become self-sufficient.
-  First Place will expand our program operations, currently located in
-  Koreatown, and launch a new satellite office within the A+P Campus. By
-  providing outcomes-driven services to more youth in need, First Place can push
-  for higher standards through our leadership in the field and change the way
-  that youth are treated within the foster care system.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: First Place for Youth
+organization_website: firstplaceforyouth.org
+organization_name_2: First Place for Youth
+organization_activity: >-
+  First Place provides foster youth with intensive support to complete their
+  high school diploma or GED certificate, enroll in college, and obtain
+  employment—while accessing safe, affordable housing.
+ein: ''
 
 ---

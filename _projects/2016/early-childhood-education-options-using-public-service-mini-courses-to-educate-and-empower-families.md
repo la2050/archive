@@ -1,33 +1,27 @@
 ---
+published: true
 organization_id: '2016162'
 year_submitted: 2016
-organization_name: Parents Education League
-organization_website: www.parentseducationleague.org
-ein: '264510950'
-project_image_2: 7904799065741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102174'
+challenge_url: >-
+  https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
 title: >-
   Early Childhood Education Options: Using Public Service Mini-Courses to
   Educate and Empower Families
-organization_name_2: Parents Education League
-organization_activity: >-
-  PEL is a grassroots non-profit and non-political organization whose mission is
-  to help educate families about their school choices, from preschool through
-  12th grade.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
-project_video: 'https://www.youtube.com/embed/WWAqDf9vNEg?rel=0&amp;showinfo=0'
 project_summary: >-
   PEL will launch a series of accessible, content-rich, dynamic and purposeful
   “Public Service Mini-Courses ” for families to educate, empower, and provide
   access to early childhood education choices.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
+project_video: 'https://www.youtube.com/embed/WWAqDf9vNEg?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Child Care Alliance of LA, LAUSD Early Childhood Education Division, Westside
   Directors Group, Los Angeles Area Preschools Consortium, National Association
   of the Education of the Young Child (NAEYC)
-project_areas:
-  - City of Los Angeles
 project_measure: "PEL aims to 1) reach 20,000 families, in at least 15 zip codes, within the next 12 months and 2) increase parent confidence, understanding, accessibility and satisfaction with their early childhood school choices. \n\nWe will use Google Analytics and tracking to gather data on our reach, and adjust our marketing and dissemination of materials accordingly throughout the year. We will also survey our users (before and after using the Mini-Courses) to gather the following quantitative and qualitative closed and open-ended data:\n\n-Number of families participating in the programs (viewing the Mini-Courses)\n-Increase in families discovery of new early childhood programs and schools \n-Increase in student success in chosen school or program\n-Increase in parental confidence with educational decisions and placement\n-Understanding factors that improved parental confidence\n-Families’ satisfaction with the content of the Mini-Courses, including ease of accessibility\n-Families' satisfaction with enrolled school\n-Collaborator satisfaction with the final Mini-Courses\n-Percent of families that seek additional resources and education about their school choices\n\t\t\t\t\t\nIn addition, we will gather feedback through small focus groups and one-on-one follow up."
 project_proposal_help:
   - 'Money '
@@ -50,6 +44,22 @@ project_description: >-
   childhood education AND the methodology and criteria to find the best fitting
   early childhood environments.
 project_impact: '["Early education","Student education pipeline"]'
+project_proposal_impact:
+  - Early education
+  - Student education pipeline
+project_proposal_description: >-
+  LA families struggle to access comprehensive, objective information on  school
+  choices.
+
+
+  With the support of LA2050, and in collaboration with leading childhood
+  experts and area preschools, PEL will create a series of accessible, dynamic,
+  purposeful and content-rich “Public Service Mini-Courses on Early Childhood
+  Education” to educate families on the importance and purpose of early
+  childhood education AND the methodology and criteria to find the best fitting
+  early childhood environments.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   While, fortunately, there are many educational options (private, public,
   magnet, charter, etc.) in Los Angeles, families struggle to find the best
@@ -105,25 +115,15 @@ project_proposal_best_place: >-
   kids thrive, and schools have increased buy-in and participation from their
   families WHEN children begin their education in the BEST fitting school
   environments.
-challenge_url: >-
-  https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
+project_image_2: 7904799065741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  LA families struggle to access comprehensive, objective information on  school
-  choices.
-
-
-  With the support of LA2050, and in collaboration with leading childhood
-  experts and area preschools, PEL will create a series of accessible, dynamic,
-  purposeful and content-rich “Public Service Mini-Courses on Early Childhood
-  Education” to educate families on the importance and purpose of early
-  childhood education AND the methodology and criteria to find the best fitting
-  early childhood environments.
-project_proposal_impact:
-  - Early education
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: Parents Education League
+organization_website: www.parentseducationleague.org
+organization_name_2: Parents Education League
+organization_activity: >-
+  PEL is a grassroots non-profit and non-political organization whose mission is
+  to help educate families about their school choices, from preschool through
+  12th grade.
+ein: '264510950'
 
 ---

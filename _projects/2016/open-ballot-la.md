@@ -1,31 +1,23 @@
 ---
+published: true
 organization_id: '2018133'
 year_submitted: 2016
-organization_name: University of Southern California
-organization_website: civictechusc.org
-ein: '951642394'
-project_image_2: 9698284165741-team91.png
+category: connect
+body_class: tangerine
 project_id: '6102273'
+challenge_url: 'https://challenge.la2050.org/entry/open-ballot-la'
 title: Open Ballot LA
-organization_name_2: University of Southern California
-organization_activity: >-
-  The USC Annenberg Center’s Civic Tech USC initiative is a nonprofit that
-  studies and develops new technologies to promote inclusion, fairness,
-  transparency, civic responsibility and participation.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9698284165741-team91.png
-project_video: ''
 project_summary: >-
   Helping Los Angeles develop the most accessible and inclusive process of
   running for office anywhere in the nation.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9698284165741-team91.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   RunForOffice.org. Going forward we expect to draw on strong working
   relationships with a range of contributors and potential users across
   government, nonprofits, tech, and academia.
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Our primary measure of success will be designing an open and accessible
   platform that is adopted by election officials in Los Angeles and widely used
@@ -66,6 +58,22 @@ project_description: >-
 project_impact: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism","Voting rates"]
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Voting rates
+project_proposal_description: >-
+  We’re building a new data platform that will make LA the most accessible and
+  inclusive place to run for office anywhere in the nation. With support and
+  guidance from local election officials, our team at USC will work to
+  transition LA’s elected office data into a streamlined and open platform. This
+  new database will allow users to see all available elected offices based on
+  their address and provide crucial details such as filing windows, salaries,
+  requirements, and competitors.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Over the last decade, 28 cities in Los Angeles County have cancelled elections
   for mayor or city council “because no one bothered making a challenge.” A
@@ -103,23 +111,15 @@ project_proposal_best_place: >-
   candidates. The database will also be used by technology companies like
   Facebook and Nationbuilder, which is already designing solutions that make it
   easier for their users to run for office.
-challenge_url: 'https://challenge.la2050.org/entry/open-ballot-la'
+project_image_2: 9698284165741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  We’re building a new data platform that will make LA the most accessible and
-  inclusive place to run for office anywhere in the nation. With support and
-  guidance from local election officials, our team at USC will work to
-  transition LA’s elected office data into a streamlined and open platform. This
-  new database will allow users to see all available elected offices based on
-  their address and provide crucial details such as filing windows, salaries,
-  requirements, and competitors.
-project_proposal_impact:
-  - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Voting rates
-category: connect
-body_class: tangerine
-published: true
+organization_name: University of Southern California
+organization_website: civictechusc.org
+organization_name_2: University of Southern California
+organization_activity: >-
+  The USC Annenberg Center’s Civic Tech USC initiative is a nonprofit that
+  studies and develops new technologies to promote inclusion, fairness,
+  transparency, civic responsibility and participation.
+ein: '951642394'
 
 ---

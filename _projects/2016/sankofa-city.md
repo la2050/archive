@@ -1,30 +1,23 @@
 ---
+published: true
 organization_id: '2016011'
 year_submitted: 2016
-organization_name: Annenberg Innovation Lab
-organization_website: www.annenberglab.com
-ein: ''
-project_image_2: 5836115265741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102008'
+challenge_url: 'https://challenge.la2050.org/entry/sankofa-city'
 title: Sankofa City
-organization_name_2: Annenberg Innovation Lab
-organization_activity: >-
-  The AIL is a high-energy research lab that combines theory and practice to
-  understand the ongoing evolution of media and its impact on governments,
-  businesses, education, creators and consumers.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
-project_video: 'https://www.youtube.com/embed/Miif0LRI6Ls?rel=0&amp;showinfo=0'
 project_summary: >-
   Sankofa City will explore the nexus of emerging technology, art, and
   community-based urban design, to provide visions for the future of local
   innovation and cultural development in Los Angeles.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
+project_video: 'https://www.youtube.com/embed/Miif0LRI6Ls?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Kaos Network, Los Angeles, CA (Leimert Park), Urban Systems Laboratory,
   Torrance, CA
-project_areas:
-  - South LA
 project_measure: >-
   The level of success is determined by 1.) community input, 2.) complexity of
   our final design videos and prototypes, and the 3.) public impact. 
@@ -68,6 +61,20 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Minority- and women-owned
   firms"]
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Minority- and women-owned firms
+project_proposal_description: >-
+  The advent of new urban-based technologies means that the future form of Los
+  Angeles will be unlike anything one can now imagine.  For example, how might
+  self-driving vehicles and augmented reality be used to change our relationship
+  to the city - to even change the city itself? We will conduct a series of
+  collaborative workshops with artists, students, technical experts, and local
+  Leimert Park residents, to create vivid scenarios of the possibilities to
+  share with the public and spark debate.
+project_areas:
+  - South LA
 project_proposal_best_place: >-
   The future of LA depends on collaboration. “Sankofa City” proves that large
   research universities, nonprofits, and local communities can work together to
@@ -120,22 +127,15 @@ project_proposal_best_place: >-
   to the community, exhibited publicly, and shared online to deepen
   conversations about future alternatives for local innovation and everyday
   technologies.
-challenge_url: 'https://challenge.la2050.org/entry/sankofa-city'
+project_image_2: 5836115265741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The advent of new urban-based technologies means that the future form of Los
-  Angeles will be unlike anything one can now imagine.  For example, how might
-  self-driving vehicles and augmented reality be used to change our relationship
-  to the city - to even change the city itself? We will conduct a series of
-  collaborative workshops with artists, students, technical experts, and local
-  Leimert Park residents, to create vivid scenarios of the possibilities to
-  share with the public and spark debate.
-project_proposal_impact:
-  - Arts establishments
-  - Manufacturing activity
-  - Minority- and women-owned firms
-category: create
-body_class: banana
-published: true
+organization_name: Annenberg Innovation Lab
+organization_website: www.annenberglab.com
+organization_name_2: Annenberg Innovation Lab
+organization_activity: >-
+  The AIL is a high-energy research lab that combines theory and practice to
+  understand the ongoing evolution of media and its impact on governments,
+  businesses, education, creators and consumers.
+ein: ''
 
 ---

@@ -1,37 +1,22 @@
 ---
+published: true
 organization_id: '2016197'
 year_submitted: 2016
-organization_name: South Bay Center for Counseling (SBCC)
-organization_website: www.sbccthrivela.org
-ein: ''
-project_image_2: 5174397094741-team88.jpg
+category: connect
+body_class: tangerine
 project_id: '6102212'
+challenge_url: >-
+  https://challenge.la2050.org/entry/co-lab-co-llaboration-resident-driven-co-created-social-change
 title: 'Co/Lab (Co/Llaboration): Resident-Driven, Co-Created, Social Change'
-organization_name_2: South Bay Center for Counseling (SBCC)
-organization_activity: >-
-  By harnessing the power of the existing gifts and talents of the local
-  community, we are changing lives by building stronger communities from the
-  inside out.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
-project_video: 'https://www.youtube.com/embed/VqJoQqVJkWg?rel=0&amp;showinfo=0'
 project_summary: >-
   Co/Lab will empower 10,000 Angelenos to co-create social impact innovations
   that improve civic engagement & social connection; putting the power of social
   change back into the hands of residents.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
+project_video: 'https://www.youtube.com/embed/VqJoQqVJkWg?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - LAUSD
 project_measure: >-
   SBCC is partnered with the UCLA Luskin School of Public Affairs for
   evaluation, utilizing a tool known as the Protective Factors Survey. This tool
@@ -92,6 +77,36 @@ project_impact: >-
   gatherings","Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism","Total number of local social
   media friends and connections Angelenos have","Voting rates"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
+project_proposal_description: >-
+  Co/Lab is an innovative response to the prevalence of top-down,
+  institutionally-led social service programs. 
+
+  As the first initiative of its kind in LA County, & perhaps the country,
+  Co/Lab is designed to put power back into the hands of residents. By
+  leveraging SBCC’s capacity to mobilize Relationship-Based Organizing
+  strategies, Co/Lab will empower residents to work alongside institutions to
+  create & implement a county-wide projects mirroring the success of SBCC’s CFSK
+  & iHeart Models.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Low-income LA County residents are marginalized by top-down, “expert”
   consultants & institutionally-led programs. Traditional approaches to social
@@ -150,30 +165,15 @@ project_proposal_best_place: >-
   county to be effective change agents. By placing Angelenos at the center of
   the solution design process, Co/Lab’s  approach will make LA a premier place
   to connect & live.
-challenge_url: >-
-  https://challenge.la2050.org/entry/co-lab-co-llaboration-resident-driven-co-created-social-change
+project_image_2: 5174397094741-team88.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Co/Lab is an innovative response to the prevalence of top-down,
-  institutionally-led social service programs. 
-
-  As the first initiative of its kind in LA County, & perhaps the country,
-  Co/Lab is designed to put power back into the hands of residents. By
-  leveraging SBCC’s capacity to mobilize Relationship-Based Organizing
-  strategies, Co/Lab will empower residents to work alongside institutions to
-  create & implement a county-wide projects mirroring the success of SBCC’s CFSK
-  & iHeart Models.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-  - Voting rates
-category: connect
-body_class: tangerine
-published: true
+organization_name: South Bay Center for Counseling (SBCC)
+organization_website: www.sbccthrivela.org
+organization_name_2: South Bay Center for Counseling (SBCC)
+organization_activity: >-
+  By harnessing the power of the existing gifts and talents of the local
+  community, we are changing lives by building stronger communities from the
+  inside out.
+ein: ''
 
 ---

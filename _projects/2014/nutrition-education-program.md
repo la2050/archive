@@ -1,57 +1,17 @@
 ---
+published: true
+organization_id: '2014120'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102028'
 title: Nutrition Education Program
 project_summary: >-
   The Nutrition Education Program provides preventive nutrition services to
   individuals at risk for or suffering from chronic diseases.
-category: live
-organization_id: '2014120'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22174%252Fdisplay%252FBeverly_Site_New_Logo_on_Building_2013.jpg=c570x385
 project_video: ''
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  First, we would retrofit a food truck in consultation with cooking
-  instructors. This requires not only a functional kitchen but also small groups
-  of people to participate in cooking and larger groups to view the process at
-  work. 
-   
-   Second, we would partner with community organizations to find locations and events where our lessons could be practical. These could include parks, schools, farmers markets, and community festivals. We would also seek partnerships with public health organizations, so our demonstrations could complement the work that they do.
-   
-   Third, we would take the truck into the community. At events like those specified above, we would provide two types of classes: hands-on classes with small groups that would allow community members to participate in creation of recipes, and demonstrations for larger groups that would showcase recipes. 
-   
-   Fourth, once the success of this project has been validated, we would seek sponsors for ongoing support. We anticipate that local supermarkets, for example, could be interested in the social goals of the project in exchange for logo recognition or as part of a corporate social responsibility campaign.
-What is your idea/project in more detail?: >-
-  Many people do not prepare healthy meals at home because they believe it is
-  expensive and time-consuming. Brown Paper LA wants to show low-income and
-  working families that neither is the case. Making healthy food at home is
-  easier and cheaper than they expect. 
-   
-   Teaching these families how to create healthy recipes at home will make LA a healthy place to live today. Our recipes will be simple and easy enough to demonstrate directly from a truck, using inexpensive ingredients that can be found at a local supermarket. Further, through our partnerships with public health organizations and local vendors, communities would have access to healthy foods and health awareness that they might not otherwise have. 
-   
-   Giving Los Angeles a broader appreciation for fresh food and cooking will make it one of the healthiest places to live in 2050. Food insecurity and lack of access are two major problems facing the city. This shouldn’t be the case, since California has some of the freshest ingredients in the world. We believe that by teaching citizens about how to prepare their food, they have a closer relationship to it and the world around them.
-What will you do to implement this idea/project?: >-
-  These cooking classes will benefit low-income and working families who may
-  believe that they do not have the time nor the skills to cook healthy meals
-  for their families. 
-   
-   We would provide these demonstrations in areas that face food insecurity, including high concentrations of WIC and EBT usage, high rates of dietary conditions including diabetes and obesity, as well as limited access to healthy foods.
-   
-   Brown Paper LA wants to encourage these families to make healthier choices and show that cooking healthy meals does not have to be an expensive nor time-consuming process. Further, we want to increase availability of healthy foods by encouraging partnerships with local farmers and food vendors who could sell their goods alongside our demonstrations. 
-   
-   By the same token, this project would also benefit local farmers and food vendors. We anticipate that our classes and demonstrations would attract captive audiences that could be potential consumers of fresh produce and other foods. This would create new markets that they may not have anticipated and provide them an incentive to serve low-income areas.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  We anticipate that Brown Paper could integrate as an add-on feature to a wide
-  range of events and community services. This project would only be as
-  successful as the partnerships we create. 
-   
-   Strong potential partners could include: public health outreach campaigns, low-income health clinics, local grocery stores, community gardens, food truck events, farmers markets, and community festivals. Additionally, we could provide specific programming to incorporate into nonprofit events around nutrition, such as school education series. 
-   
-   We would also partner with healthy food vendors -- e.g. community-supported agriculture and organic farmers -- to sell their wares alongside our demonstrations. Our demonstrations would likely generate business for these vendors and, in doing so, create a means for low-income neighborhoods to access healthy foods.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-maker_image_id: '22174'
-maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA
@@ -61,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: Saban Community Clinic
+  metrics_live_healthyfood: '0'
   org_website: 'http://sabancommunityclinic.org/'
   org_twitter: www.twitter.com/sabancommunity
   org_facebook: 'https://www.facebook.com/pages/Saban-Community-Clinic/198837835060?ref=ts '
@@ -111,7 +71,7 @@ maker_answers:
   impact_live: "The NEP will make LA the healthiest place to live by providing access to quality and affordable health care, health education, and fitness classes to those most in need. According to the County of Los Angeles’s Key Indicators of Health by Service Planning Area report (2013), 19% of adults in SPA 4 live in neighborhoods that do not have walking paths, parks, playgrounds, or sports fields, thus limiting spaces to exercise. Further, 25% of adults reported their health to be fair or poor, and only 17% of adults say they consume five or more servings of fruits and vegetables a day. These statistics are amongst the highest of the eight LA County SPAs and shows the potential impact the NEP’s services can make. \r\n\r\nOne-on-one and group education sessions and the Pre-Diabetic class will teach individuals how to eat healthier, how to maximize their limited funds to purchase healthy foods, appropriate portion control, and much more. Fitness classes will provide individuals a free space to exercise as well as lessons on proper fitness regimens and exercise routines. \r\n\r\nAs participants gain more knowledge about nutrition and fitness through the NEP, they will be able to utilize and share them with their friends and family to promote a healthier and more active lifestyle. By 2050, SCC hopes that the network of persons reached will be great enough to have a significant impact on the Los Angeles community. SCC is confident that the NEP will have a positive effect on the communities it serves. SCC has already received positive remarks from patients on how the current NEP and its services have transformed different areas of their health including weight loss, eating habits, blood pressure, and medication intake."
   who_benefit: "The NEP will benefit both SCC’s current patients and individuals in SPA 4 who are at risk for or suffering from chronic disease.\r\n\r\nOver 7,000 patients at SCC are currently at risk for and or suffering from chronic disease. In Fiscal Year 2012-2013, 27,188 patient visits were related to chronic disease, accounting for more than a quarter (27%) of SCC’s total number of patient visits. SCC saw 5,653 patients for hypertension and 3,039 for diabetes. Most if not all of these patient can greatly benefit from the NEP and its free services.\r\n\r\nChronic disease is also prevalent within SPA 4. According to the County of Los Angeles’s Key Indicators of Health by Service Planning Area report (2013), major chronic health concerns prevalent among SPA 4 residents include hypertension and high cholesterol. The percentage of hypertension in SPA 4 has increased from 14% in 1997 to 20% in 2011, and the percentage of high cholesterol has increased from 15% in 1999 to 24% in 2011 according to the same report. Diabetes in SPA 4 is also a health concern according to Kaiser Foundation Hospital - Los Angeles’s 2013 Community Health Needs Assessment. In SPA 4, the prevalence of diabetes is 17% and the hospitalization rate is 186 per 100,000 persons. Furthermore, uncontrolled hospitalizations is 22 per 100,000 persons. These statistics are amongst the highest of the eight SPAs. As such, it is clear that many individuals in SCC’s service area can benefit from the NEP. "
   partners_collaboration: "Yes. The Nutritionist is currently researching and contacting local food banks and researching local grocery stores to provide a list of healthy and affordable food. Local food banks in SCC’s service area include the Greater West Hollywood Food Coalition, World Harvest Food Bank, Los Angeles Regional Food Bank, Project Angel Food, and more. \r\n\r\nThree factors critical to a successful collaboration are the following:\r\n1. Large Capacity. SCC and local food banks and local grocery stores must have reasonably sized resources to accommodate the need for healthy food.\r\n2. Trustworthiness. SCC and local food banks will need the trust of the community, including those serves, for retaining patients in the NEP. \r\n3. Locality. All partnerships and collaborations must be local and accessible and in proximity of patients.\r\n"
-  metrics_live_healthyfood: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'
@@ -127,7 +87,7 @@ maker_answers:
   metrics_live_treecanopy: '0'
   metrics_live_other: '0'
   metrics_live_blank: ''
-  impact_metrics: "Health care access: SCC is committed to serving anyone in need of health care regardless of their insurance or income status. SCC offers services at three sites, namely the Beverly Health Center, S. Mark Taper Foundation Health Center, and Wallis Annenberg Children and Family Health Center at Hollywood Wilshire Health Center. Multiple entry points across Los Angeles allows patients to access health care easier and more conveniently.\r\n\r\nSCC will engage in outreach and enrollment activities to ensure its patients and the surrounding communities are knowledgeable of its services. Overseen by the Managed Care Manager and Chief Operations Officer, SCC will engage in multiple in-reach and outreach efforts including signage throughout all three sites, health fairs, schools, and more information about SCC’s services, including the NEP.\r\n\r\nObesity rates: As mentioned earlier, the NEP will encourage patients to have a change in lifestyle through education sessions and Pre-Diabetic and Fitness classes. Key changes include healthier eating and regular exercise. The knowledge gained from participating in the NEP will benefit participants as well as their families and friends. \r\n\r\nPercentage of residents receiving coordinated health care services: SCC utilizes a Care Team Coordination Model, allowing cross-department referrals during a patients visit. SCC offers medical, dental, behavioral health, and non-primary care, including the NEP. Patients are able to be treated appropriately for any health ailments and referred to appropriate services to best fit their health needs. The Care Team Coordination Model enables all-inclusive, integrative care that allows for problems to be addressed quickly and efficiently. This also brings SCC closer to a Patient Centered Medical Home, giving residents more coordinated health care services."
+  resources_network: '1'
   best_place_to_create: '0'
   best_place_to_play: '0'
   best_place_to_connect: '0'
@@ -146,8 +106,48 @@ maker_answers:
   resources_education: '0'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '0'
+  impact_metrics: "Health care access: SCC is committed to serving anyone in need of health care regardless of their insurance or income status. SCC offers services at three sites, namely the Beverly Health Center, S. Mark Taper Foundation Health Center, and Wallis Annenberg Children and Family Health Center at Hollywood Wilshire Health Center. Multiple entry points across Los Angeles allows patients to access health care easier and more conveniently.\r\n\r\nSCC will engage in outreach and enrollment activities to ensure its patients and the surrounding communities are knowledgeable of its services. Overseen by the Managed Care Manager and Chief Operations Officer, SCC will engage in multiple in-reach and outreach efforts including signage throughout all three sites, health fairs, schools, and more information about SCC’s services, including the NEP.\r\n\r\nObesity rates: As mentioned earlier, the NEP will encourage patients to have a change in lifestyle through education sessions and Pre-Diabetic and Fitness classes. Key changes include healthier eating and regular exercise. The knowledge gained from participating in the NEP will benefit participants as well as their families and friends. \r\n\r\nPercentage of residents receiving coordinated health care services: SCC utilizes a Care Team Coordination Model, allowing cross-department referrals during a patients visit. SCC offers medical, dental, behavioral health, and non-primary care, including the NEP. Patients are able to be treated appropriately for any health ailments and referred to appropriate services to best fit their health needs. The Care Team Coordination Model enables all-inclusive, integrative care that allows for problems to be addressed quickly and efficiently. This also brings SCC closer to a Patient Centered Medical Home, giving residents more coordinated health care services."
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  First, we would retrofit a food truck in consultation with cooking
+  instructors. This requires not only a functional kitchen but also small groups
+  of people to participate in cooking and larger groups to view the process at
+  work. 
+   
+   Second, we would partner with community organizations to find locations and events where our lessons could be practical. These could include parks, schools, farmers markets, and community festivals. We would also seek partnerships with public health organizations, so our demonstrations could complement the work that they do.
+   
+   Third, we would take the truck into the community. At events like those specified above, we would provide two types of classes: hands-on classes with small groups that would allow community members to participate in creation of recipes, and demonstrations for larger groups that would showcase recipes. 
+   
+   Fourth, once the success of this project has been validated, we would seek sponsors for ongoing support. We anticipate that local supermarkets, for example, could be interested in the social goals of the project in exchange for logo recognition or as part of a corporate social responsibility campaign.
+What is your idea/project in more detail?: >-
+  Many people do not prepare healthy meals at home because they believe it is
+  expensive and time-consuming. Brown Paper LA wants to show low-income and
+  working families that neither is the case. Making healthy food at home is
+  easier and cheaper than they expect. 
+   
+   Teaching these families how to create healthy recipes at home will make LA a healthy place to live today. Our recipes will be simple and easy enough to demonstrate directly from a truck, using inexpensive ingredients that can be found at a local supermarket. Further, through our partnerships with public health organizations and local vendors, communities would have access to healthy foods and health awareness that they might not otherwise have. 
+   
+   Giving Los Angeles a broader appreciation for fresh food and cooking will make it one of the healthiest places to live in 2050. Food insecurity and lack of access are two major problems facing the city. This shouldn’t be the case, since California has some of the freshest ingredients in the world. We believe that by teaching citizens about how to prepare their food, they have a closer relationship to it and the world around them.
+What will you do to implement this idea/project?: >-
+  These cooking classes will benefit low-income and working families who may
+  believe that they do not have the time nor the skills to cook healthy meals
+  for their families. 
+   
+   We would provide these demonstrations in areas that face food insecurity, including high concentrations of WIC and EBT usage, high rates of dietary conditions including diabetes and obesity, as well as limited access to healthy foods.
+   
+   Brown Paper LA wants to encourage these families to make healthier choices and show that cooking healthy meals does not have to be an expensive nor time-consuming process. Further, we want to increase availability of healthy foods by encouraging partnerships with local farmers and food vendors who could sell their goods alongside our demonstrations. 
+   
+   By the same token, this project would also benefit local farmers and food vendors. We anticipate that our classes and demonstrations would attract captive audiences that could be potential consumers of fresh produce and other foods. This would create new markets that they may not have anticipated and provide them an incentive to serve low-income areas.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  We anticipate that Brown Paper could integrate as an add-on feature to a wide
+  range of events and community services. This project would only be as
+  successful as the partnerships we create. 
+   
+   Strong potential partners could include: public health outreach campaigns, low-income health clinics, local grocery stores, community gardens, food truck events, farmers markets, and community festivals. Additionally, we could provide specific programming to incorporate into nonprofit events around nutrition, such as school education series. 
+   
+   We would also partner with healthy food vendors -- e.g. community-supported agriculture and organic farmers -- to sell their wares alongside our demonstrations. Our demonstrations would likely generate business for these vendors and, in doing so, create a means for low-income neighborhoods to access healthy foods.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -475,7 +475,7 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: lime
-published: true
+maker_image_id: '22174'
+maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
 
 ---

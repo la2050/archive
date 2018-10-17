@@ -1,48 +1,17 @@
 ---
+published: true
+organization_id: '2014052'
+year_submitted: 2014
+category: create
+body_class: banana
 project_id: '4102117'
 title: Creating Community With L.A.s Cultural Center for the Middle East/North Africa
 project_summary: >-
   MECAY—Bringing new arts, cultural diversity training and educational
   opportunities to the youth of Southern California.
-category: create
-organization_id: '2014052'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22605%252Fdisplay%252FMECAY-Education-Proposal-2014.jpg=c570x385
 project_video: ''
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  MECAY will provide kids with hands-on learning experiences that will open
-  their minds to the Middle East and North Africa. We will serve Kindergarten
-  through High School. Elementary students will greatly benefit from programs of
-  this nature and it is necessary to cultivate this understanding at early
-  stages of child development. This will also gain the interest of a larger
-  number of educators and families.
-What is your idea/project in more detail?: >-
-  The Los Angeles public school system is in dire need of this program.
-  Inadequate resources and information to educate youth on the culture and the
-  history of the Middle East serve to perpetuate a cycle of misunderstanding
-  that is a key component of many of the problems that America and the world at
-  large face today.
-   
-   The contemporary Arab and Muslim world is generally associated with the selective images of war, terrorism or oil fields. The majority of Los Angeles youth grow up with negative, and often false, images and stereotypes of Arabs/Muslims. These stereotypes are perpetuated through films and television, creating an environment of distrust towards Middle Eastern American communities. After the terrorist attacks of September 11, 2001 Los Angeles County experienced a fifteen-fold increase in anti-Arab/Muslim hate crimes. Racial profiling and acts of violence are generally perpetrated by individuals ignorant of Arab and Muslim heritage, who often mistake other Americans for Middle Easterners (ie Sikh community).
-   
-   In order to promote a deeper understanding of the Middle Eastern American community, schools need to educate youth on the positive cultural contributions people from the Middle East bring to the world. In order for harmful negative stereotypes to be eradicated, Middle Easterners themselves need to take initiative, but also Americans need to see the world situation with clear and educated eyes in order to not perpetuate an endless cycle of distrust. Education is the key.
-   
-   The Arab/Middle East is in fact a diverse region that includes for example Iranian Bahais, Palestinian Christians and Arab Jews, along with a wide range of other minority communities.The greater Middle East isa complex quilt of cultures and ethnicities (Berbers, Kurds, Armenians, Assyrians, Chaldeans, Druze etc.), each with a unique history and contribution to the host society.
-   
-   
-   Through our programs, this mosaic quilt will be unfolded for Los Angeles youth through face-to-face encounters with guest speakers/performers from the region and hands-on workshops and classes.
-   
-   The wars and occupations of Iraq and Afghanistan have sparked a public interest
-   in the Middle East, prompting more questions about Arabs and the Muslim world. Building bridges between disparate communities is an essential component of harvesting understanding in Los Angeles. The development of cultural enrichment programs like MECAY is necessary for today’s youth.
-What will you do to implement this idea/project?: 'UP to 10,000 K-12 youth and their parents in Los Angeles County.'
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  We will partner with multiple community organizations, such as Muslims for
-  Progressive Values, and the Craft and Folk Art Museum, as well as LAUSD.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-maker_image_id: '22605'
-maker_image_file_name: MECAY-Education-Proposal-2014.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA
@@ -52,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  city_state: Los Angeles
   org_name: Levantine Cultural Center
+  metrics_create_employment: '1'
   org_website: 'http://levantinecenter.org'
   org_twitter: '@LevantineCenter'
   org_facebook: 'https://www.facebook.com/levantine.c.center'
@@ -104,7 +73,7 @@ maker_answers:
   partners_collaboration: >-
     We will partner with multiple community organizations, such as Muslims for
     Progressive Values, and the Craft and Folk Art Museum, as well as LAUSD.
-  metrics_create_employment: '1'
+  city_state: Los Angeles
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -120,7 +89,7 @@ maker_answers:
   metrics_create_unemployment: '0'
   metrics_create_other: '0'
   metrics_create_blank: ''
-  impact_metrics: "The immediate results of the program include youth gaining skills taught by adept instructors along with learning about and developing awareness of another culture. The long-term results include the development of youth that are compassionate, open-minded, and conscientious representatives of the Los Angeles community and of America.\r\n\r\nExposing Los Angeles youth to Middle Eastern culture will cultivate a positive relationship from an early age. These youth will grow up with Middle Eastern American role models who will be seen as fellow Americans working to improve the conditions of their home in Los Angeles.\r\n\r\na.\tYouth of Middle Eastern and North African descent develop a positive self-image that reflects understanding, cultural awareness and an appreciation of their many contributions to society.\r\nb.\tWe build leaders and peacemakers that share an invested interest in celebrating their Middle Eastern and North African culture and rich contribution to the Arts.\r\nc.\tPrograms of this nature allow youth and their families to feel supported and understood through a creative and peaceful channel.\r\nd.\tThe Arts serve as a catalyst for change and promotes an understanding that is both global and speaks many languages.\r\ne.\tWe find more in our shared interest where the Middle East and North Africa possess many rich cross-cultural commonalities. The essence of the human spirit is in being more alike than different.\r\n"
+  resources_network: '1'
   best_place_to_learn: '0'
   best_place_to_connect: '1'
   healthiest_place_to_live: '0'
@@ -150,8 +119,39 @@ maker_answers:
   resources_education: '0'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '0'
+  impact_metrics: "The immediate results of the program include youth gaining skills taught by adept instructors along with learning about and developing awareness of another culture. The long-term results include the development of youth that are compassionate, open-minded, and conscientious representatives of the Los Angeles community and of America.\r\n\r\nExposing Los Angeles youth to Middle Eastern culture will cultivate a positive relationship from an early age. These youth will grow up with Middle Eastern American role models who will be seen as fellow Americans working to improve the conditions of their home in Los Angeles.\r\n\r\na.\tYouth of Middle Eastern and North African descent develop a positive self-image that reflects understanding, cultural awareness and an appreciation of their many contributions to society.\r\nb.\tWe build leaders and peacemakers that share an invested interest in celebrating their Middle Eastern and North African culture and rich contribution to the Arts.\r\nc.\tPrograms of this nature allow youth and their families to feel supported and understood through a creative and peaceful channel.\r\nd.\tThe Arts serve as a catalyst for change and promotes an understanding that is both global and speaks many languages.\r\ne.\tWe find more in our shared interest where the Middle East and North Africa possess many rich cross-cultural commonalities. The essence of the human spirit is in being more alike than different.\r\n"
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  MECAY will provide kids with hands-on learning experiences that will open
+  their minds to the Middle East and North Africa. We will serve Kindergarten
+  through High School. Elementary students will greatly benefit from programs of
+  this nature and it is necessary to cultivate this understanding at early
+  stages of child development. This will also gain the interest of a larger
+  number of educators and families.
+What is your idea/project in more detail?: >-
+  The Los Angeles public school system is in dire need of this program.
+  Inadequate resources and information to educate youth on the culture and the
+  history of the Middle East serve to perpetuate a cycle of misunderstanding
+  that is a key component of many of the problems that America and the world at
+  large face today.
+   
+   The contemporary Arab and Muslim world is generally associated with the selective images of war, terrorism or oil fields. The majority of Los Angeles youth grow up with negative, and often false, images and stereotypes of Arabs/Muslims. These stereotypes are perpetuated through films and television, creating an environment of distrust towards Middle Eastern American communities. After the terrorist attacks of September 11, 2001 Los Angeles County experienced a fifteen-fold increase in anti-Arab/Muslim hate crimes. Racial profiling and acts of violence are generally perpetrated by individuals ignorant of Arab and Muslim heritage, who often mistake other Americans for Middle Easterners (ie Sikh community).
+   
+   In order to promote a deeper understanding of the Middle Eastern American community, schools need to educate youth on the positive cultural contributions people from the Middle East bring to the world. In order for harmful negative stereotypes to be eradicated, Middle Easterners themselves need to take initiative, but also Americans need to see the world situation with clear and educated eyes in order to not perpetuate an endless cycle of distrust. Education is the key.
+   
+   The Arab/Middle East is in fact a diverse region that includes for example Iranian Bahais, Palestinian Christians and Arab Jews, along with a wide range of other minority communities.The greater Middle East isa complex quilt of cultures and ethnicities (Berbers, Kurds, Armenians, Assyrians, Chaldeans, Druze etc.), each with a unique history and contribution to the host society.
+   
+   
+   Through our programs, this mosaic quilt will be unfolded for Los Angeles youth through face-to-face encounters with guest speakers/performers from the region and hands-on workshops and classes.
+   
+   The wars and occupations of Iraq and Afghanistan have sparked a public interest
+   in the Middle East, prompting more questions about Arabs and the Muslim world. Building bridges between disparate communities is an essential component of harvesting understanding in Los Angeles. The development of cultural enrichment programs like MECAY is necessary for today’s youth.
+What will you do to implement this idea/project?: 'UP to 10,000 K-12 youth and their parents in Los Angeles County.'
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  We will partner with multiple community organizations, such as Muslims for
+  Progressive Values, and the Craft and Folk Art Museum, as well as LAUSD.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -502,7 +502,7 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: banana
-published: true
+maker_image_id: '22605'
+maker_image_file_name: MECAY-Education-Proposal-2014.jpg
 
 ---

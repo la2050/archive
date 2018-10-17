@@ -1,32 +1,22 @@
 ---
+published: true
 organization_id: '2016223'
 year_submitted: 2016
-organization_name: The Jester & Pharley Phund
-organization_website: www.thejester.org
-ein: ''
-project_image_2: 2726365725741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102246'
+challenge_url: >-
+  https://challenge.la2050.org/entry/reading-makes-a-difference-inspiring-kids-to-read-care-about-others
 title: 'Reading Makes A Difference: Inspiring Kids to Read & Care About Others'
-organization_name_2: The Jester & Pharley Phund
-organization_activity: >-
-  We donate inspiring “Jester Has Lost His Jingle” books & dolls to ill children
-  & help low-income students become engaged  in charitable activities through
-  read-a-thons that spark a love of reading.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
-project_video: ''
 project_summary: >-
   We will ignite a love for reading while developing compassion among
   low-income  elementary students who will join a read-a-thon to give ill kids
   in their community uplifting “Jester” books & dolls.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - South LA
-  - South Bay
-  - Gateway Cities
-  - LAUSD
-  - Inglewood
 project_measure: >-
   We expect to see: 
 
@@ -83,6 +73,27 @@ project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Early education","Student education pipeline","Suspension and
   expulsion rates","Truancy rates in elementary and middle schools"]
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+project_proposal_description: >-
+  We will bring our Reading Makes A Difference program to 5 low-income
+  elementary schools to develop a love of reading and kindness through
+  read-a-thons benefiting ill kids. Student reading results in “Jester” books &
+  dolls given to local hospitals in the name of the school & LA2050. Following
+  inspiring Introductory Assemblies, all classrooms receive a “Jester” book &
+  set of 3 educator enrichment manuals, with a final Recognition Assembly
+  showcasing student reading achievements and compassion.
+project_areas:
+  - South LA
+  - South Bay
+  - Gateway Cities
+  - LAUSD
+  - Inglewood
 project_proposal_best_place: >-
   L.A. will become the best place to LEARN when more low-income elementary
   students discover the joy & importance of reading & giving. The RMD
@@ -130,26 +141,15 @@ project_proposal_best_place: >-
   to do. You have no idea how much you will be helping our young patients who
   have been injured in accidents and need smiles. Your thoughtfulness is beyond
   measure.'
-challenge_url: >-
-  https://challenge.la2050.org/entry/reading-makes-a-difference-inspiring-kids-to-read-care-about-others
+project_image_2: 2726365725741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  We will bring our Reading Makes A Difference program to 5 low-income
-  elementary schools to develop a love of reading and kindness through
-  read-a-thons benefiting ill kids. Student reading results in “Jester” books &
-  dolls given to local hospitals in the name of the school & LA2050. Following
-  inspiring Introductory Assemblies, all classrooms receive a “Jester” book &
-  set of 3 educator enrichment manuals, with a final Recognition Assembly
-  showcasing student reading achievements and compassion.
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-category: learn
-body_class: blueberry
-published: true
+organization_name: The Jester & Pharley Phund
+organization_website: www.thejester.org
+organization_name_2: The Jester & Pharley Phund
+organization_activity: >-
+  We donate inspiring “Jester Has Lost His Jingle” books & dolls to ill children
+  & help low-income students become engaged  in charitable activities through
+  read-a-thons that spark a love of reading.
+ein: ''
 
 ---

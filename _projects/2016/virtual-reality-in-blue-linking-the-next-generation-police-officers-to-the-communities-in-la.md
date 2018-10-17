@@ -1,31 +1,26 @@
 ---
+published: true
 organization_id: '2016109'
 year_submitted: 2016
-organization_name: Impact Hub Los Angeles
-organization_website: impacthubla.com
-ein: '273558431'
-project_image_2: 0296500655741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102179'
+challenge_url: >-
+  https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
 title: >-
   Virtual Reality in Blue: Linking the Next Generation Police Officers to the
   communities in LA.
-organization_name_2: Impact Hub Los Angeles
-organization_activity: >-
-  Impact Hub Los Angeles is a community hub and co-working space for socially
-  conscious entrepreneurs, civic leaders, professionals and creatives.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
-project_video: ''
 project_summary: >-
   This virtual reality pilot program will attempt to change the perception of
   policing in LA by serving as community-based recruitment tool that provides a
   glimpse into the day in the life of a officer.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   1. City of Los Angeles Personnel Department (Public Safety), 2. Woodbury
   University, 3. FutureSculpt
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   Currently, there are 16 recruitment officers in the Recruitment and Education
   Division of the Los Angeles Police Department that work with the City of Los
@@ -59,6 +54,21 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Jobs per
   capita","Measures of cultural and global economic influence (“soft power”)"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+project_proposal_description: >-
+  Impact Hub Los Angeles is serving as a convener for a collaborative project
+  between the City of Los Angeles Personnel Department, Woodbury University's
+  Interdisciplinary Studies Department and immersive technologies consultancy,
+  FutureSculpt focused on activating a wider base of constituents to participate
+  in public safety. The intent of this project is to change public perception
+  and help create law enforcement that is reflective of the community it
+  protects.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   Today, Los Angeles is one of the most ethnically and geographically diverse
   cities in the country. Its residents speak 224 languages and live in diverse
@@ -98,24 +108,14 @@ project_proposal_best_place: >-
   FutureSculpt are set to explore how we can recruit the next generation of
   police officers who reflect the value of their communities and can become an
   advocate for all Angelenos.
-challenge_url: >-
-  https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
+project_image_2: 0296500655741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Impact Hub Los Angeles is serving as a convener for a collaborative project
-  between the City of Los Angeles Personnel Department, Woodbury University's
-  Interdisciplinary Studies Department and immersive technologies consultancy,
-  FutureSculpt focused on activating a wider base of constituents to participate
-  in public safety. The intent of this project is to change public perception
-  and help create law enforcement that is reflective of the community it
-  protects.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-category: create
-body_class: banana
-published: true
+organization_name: Impact Hub Los Angeles
+organization_website: impacthubla.com
+organization_name_2: Impact Hub Los Angeles
+organization_activity: >-
+  Impact Hub Los Angeles is a community hub and co-working space for socially
+  conscious entrepreneurs, civic leaders, professionals and creatives.
+ein: '273558431'
 
 ---

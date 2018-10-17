@@ -1,34 +1,24 @@
 ---
+published: true
 organization_id: '2016133'
 year_submitted: 2016
-organization_name: Los Angeles Audubon Society (LAAS)
-organization_website: www.laaudubon.org
-ein: '956093704'
-project_image_2: 7081548543741-team89.jpg
+category: play
+body_class: strawberry
 project_id: '6102136'
+challenge_url: 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
 title: LA Audubon - Urban Nature Explored
-organization_name_2: Los Angeles Audubon Society (LAAS)
-organization_activity: >-
-  LA Audubon promotes the enjoyment and protection of birds and other wildlife
-  through environmental education, conservation and habitat restoration.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
-project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
 project_summary: >-
   LA Audubon Urban Nature Explored connects people of all ages to nature
   activities, provides field trips and after-school programs for LAUSD students,
   and student internships for under-served youth.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
+project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Ballona Creek Renaissance, Baldwin Hills Scenic Overlook State Park, Kenneth
   Hahn State Recreation Area, Ballona Wetlands, Esperanza Elementary School,
   Politi Elementary School
-project_areas:
-  - Central LA
-  - South LA
-  - Westside
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   We will define our success by the number of people we connect to nature in LA.
 
@@ -76,6 +66,26 @@ project_impact: >-
   spaces for play","Number of children enrolled in afterschool programs","Number
   of parks with intergenerational play opportunities","Number of residents with
   easy access to a “vibrant” park"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+project_proposal_description: >-
+  LA Audubon Urban Nature Explored connects people of all ages to outdoor
+  experiences at parks, beaches and open spaces. We provide thousands of public
+  school students from under-served communities with nature-based field trips
+  and after-school programs. High school and college students receive
+  stewardship training as part of paid internship programs, leading habitat
+  restoration events that engage their communities and improve the quality of
+  open space for people and wildlife.
+project_areas:
+  - Central LA
+  - South LA
+  - Westside
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Urban Nature Explored will help make LA the best place to play through
   educational nature walks, park and schoolyard restorations, school field
@@ -147,24 +157,14 @@ project_proposal_best_place: >-
   secured separate grant funding for design work and curricula development. The
   Esperanza Habitat will serve 800+ students and is modeled on our successful
   Habitat at Politi Elementary.
-challenge_url: 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
+project_image_2: 7081548543741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  LA Audubon Urban Nature Explored connects people of all ages to outdoor
-  experiences at parks, beaches and open spaces. We provide thousands of public
-  school students from under-served communities with nature-based field trips
-  and after-school programs. High school and college students receive
-  stewardship training as part of paid internship programs, leading habitat
-  restoration events that engage their communities and improve the quality of
-  open space for people and wildlife.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of children enrolled in afterschool programs
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-category: play
-body_class: strawberry
-published: true
+organization_name: Los Angeles Audubon Society (LAAS)
+organization_website: www.laaudubon.org
+organization_name_2: Los Angeles Audubon Society (LAAS)
+organization_activity: >-
+  LA Audubon promotes the enjoyment and protection of birds and other wildlife
+  through environmental education, conservation and habitat restoration.
+ein: '956093704'
 
 ---

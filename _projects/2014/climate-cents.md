@@ -1,59 +1,17 @@
 ---
+published: true
+organization_id: '2014115'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102013'
 title: Climate Cents
 project_summary: >-
   Climate Cents is an online platform that connects Angelenos to local projects
   that improve LA’s environment and reduce greenhouse gases.
-category: live
-organization_id: '2014115'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23638%252Fdisplay%252Fnew_site3.png=c570x385
 project_video: ''
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  Divining LA will convert cutting-edge research on stormwater resources,
-  groundwater augmentation, water recycling, and water conservation into
-  planning and design strategies for neighborhoods across Los Angeles. Divining
-  LA will pair economically and culturally diverse community-based organizations
-  with teams of university and professional designers. Each team will be
-  challenged and supported to invent a water-smart future for specific
-  neighborhoods. Teams will generate design visions and policy recommendations
-  for their own small-scale, distributed approaches to a localized water future,
-  appropriate to the scale, tempo, and flavor of their neighborhood, and the
-  greater hydrologic function of the LA basin. 
-   
-   Divining LA provides an opportunity not only to residents and business owners to visualize climate adaptation and mitigation strategies; it also provides a much-needed, real-time opportunity for Los Angeles’ rich design culture to advance water-smart planning policy and building systems for a resilient future.
-   
-   Divining LA will bring together faculty, graduate and undergraduate researchers from Woodbury, asmall, private Hispanic-serving university, and collaborator design programs from around the region. Teams will have the support and involvement of engineers from public water agencies and leading global firms; NGOs with long track records of service to the communities of Los Angeles; and multidisciplinary research and design teams from universities and the design professions. In year one, Divining LA partners will build on existing relationships throughout its collaborator network to identify specific neighborhoods and community-based organizations for partnerships. Divining LA will partner with a range of communities facing specific hydrologic, economic, and cultural challenges that would most benefit from being paired with Divining LA planning and design teams. The goal is to generate a set of visionary water-management strategies for each of the disparate communities engaged, and to propose and advocate for new policies suggested by the design challenge. From these, a small number of projects will be selected as possible demonstration projects. Divining LA will widely publicize, encourage debate, document and disseminate the results of all projects.
-What is your idea/project in more detail?: >-
-  LA benefits today in engaging citizens to design their own destiny. LA
-  benefits tomorrow with water, energy, and carbon savings. Los Angeles River
-  Watershed area, at 864 square miles and 65% impermeability, generates 350,000
-  acre feet of storm water runoff per year, enough for 2,100,000 people per year
-  at current usage rates or with conservation measures in place, enough for
-  2,625,000 people. That translates to a gross energy savings of 700 gigawatt
-  hours or the equivalent of taking 130,000 passenger vehicles off the road.
-What will you do to implement this idea/project?: >-
-  Divining LA outreach has the potential to bring advanced geospatial research
-  to public benefit rapidly. It has the potential to optimize the hydrologic
-  function of the arid built environment; uncouple the water-energy nexus;
-  produce hydrologic planning, zoning, building code reforms; encourage small
-  scale distributed water infrastructures as design opportunities that respect
-  the cultural and biophysical attributes of communities and watersheds; promote
-  building-integrated water systems innovation for the global marketplace;
-  retool science and design curricula to creatively engage the challenges of
-  climate adaptation; and increase participation of underrepresented
-  communities. Divining LA outputs are scaleable and transferable to
-  water-stressed environments affecting 30 million people in the US West, and
-  1.2 billion people worldwide.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  Partners who have confirmed their participation and support include
-  TreePeople, ARUP
-   City of LA Bureau of Engineering, City of LA Bureau of Sanitation/Watershed Protection Program, County of LA Flood Control/Watershed Management program, LADWP Stormwater Management, UCLA Water Resources Group, American Institute of Architects | Los Angeles, Perkins + Will Architects, AC Martin Architects, and Mia Lehrer + Associates. ALI has secured the preliminary interest of design leaders at USC, UCLA, CalPoly Pomona, Art Center College of Design, SCI-Arc, and of course Woodbury School of Architecture.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-maker_image_id: '23638'
-maker_image_file_name: new_site3.png
 project_areas:
   - CENTRAL LA
   - EAST LA
@@ -63,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: Climate Cents
+  metrics_live_healthyfood: '1'
   org_website: www.ClimateCents.org
   org_twitter: www.twitter.com/ClimateCents
   org_facebook: ''
@@ -116,7 +74,7 @@ maker_answers:
   impact_live: "The most measurable pay-off from Climate Cents, both now and in 2050, is increased funding for tree planting, urban farms, ocean revitalization, and energy efficiency projects that will make LA a healthier, more pleasant, and more connected place to live. These will contribute to a city in which people don’t face environmental health hazards, where they can breathe clean air, drink clean water, relax and exercise among ample greenery and in the oceans, and eat good local food. \r\n\r\nBut the truth is that no single project can make LA the healthiest place to live — it will take a collective effort. So Climate Cents works to improve L.A.’s environment and to counter climate change in ways that complement existing efforts. We amplify funding for effective local environmental initiatives and helps them to more carefully measure, track, and broadcast their outcomes.\r\n\r\nLA has long been a city seemingly separate and definitely unequal, especially on matters of health, environment, and livability. What makes Climate Cents unique is to catalyze a city-wide collaboration to tackle the problems we ultimately all share. We will drive funding from more affluent areas toward remedies for some of the city’s worst environmental hotspots. Residents from across LA will be able to invest in tree-planting and energy efficiency projects in their own neighborhoods. The result is a renewed sense of civic pride and purpose.\r\n\r\nNo place, especially LA, will be able to remain even as healthy and livable as they are today without tackling climate change. Rapid climate change has already begun to harm ecosystems globally. It’s contributing to rising sea levels, intensifying droughts, and rapidly melting snowpacks across California. In LA, rising temperatures will lead to “adverse effects on human health, including increases in heat stress, respiratory diseases, and infectious diseases.” (C-Change.LA.)\r\n\r\nIt’s important to take on this challenge locally. So many of the efforts to fight climate change are distant from people’s ordinary lives and will start working only over the long-term. Before policy reforms and technological transformation become a reality, we need to make incremental efforts that get regular people engaged. While there are programs that fight climate change, there’s no comprehensive organization that groups these efforts, develops a central hub to fund them and to track progress in reducing carbon emissions. That’s the special role Climate Cents can and will play."
   who_benefit: "Climate Cents will help people and neighborhoods all over Los Angeles, with specific benefits in low-income and disadvantaged communities that have suffered the worst effects of environmental injustice. LA’s environmental problems are severe. Our area has some of the worst air quality in the nation, which results from a combination of industrial production and automobile exhaust, especially from the port/trucking sector. And the brunt of pollution falls disproportionately on low-income neighborhoods, in predominantly Latino and Black communities. Since these communities are three times more likely to live close to hazardous facilities, their exposure to air toxins is fifty percent greater than other Angelenos.\r\n\r\nWe aim to concentrate our partnerships and environmental projects will be concentrated in low-income neighborhoods. Planting trees across South LA, the Eastside, and the Northeast Valley will be vital to making those places healthier and more livable. The removal of particulate matter and toxins from the air is vital. Urban gardens can help provide quality food. And increasing the percentage of tree canopy cover can make the city more beautiful and more walkable, leading to fitter, more resilient communities, with more opportunities to reduce the mental and physical stresses of urban living. \r\n\r\nThe project will benefit those in other neighborhoods because pollution doesn’t stop the boundaries of zip codes. Trees in South LA help clean the air of toxins, particulate matter, and carbon that would soon spread elsewhere. Kelp forests in the Santa Monica Bay clean the water that circulates among all the region’s beaches. Energy efficiency upgrades reduce costs and free up capacity for everyone on the network. \r\n\r\nThe city as whole will benefit from Climate Cents too. Mitigating climate change is important on its own and by galvanizing the city’s population into cross-neighborhood collaboration, we will create a sense of civic purpose and pride. Residents from across LA will be investing in one another and their shared future. And Climate Cents members will gain personally too, as they gain a sense of agency and connection, seeing the benefits their projects all around the city they live in, creating a virtuous cycle of publicity, excitement, and greater investment. "
   partners_collaboration: "We have confirmed a partnership with the Bay Foundation to fund their Kelp Restoration Project as part of our beta-test. We are in talks with three more groups, listed below, for the January 2015 launch of Climate Cents. There’s a standard relationship between Climate Cents and its partners. We provide funding for the partners to amplify the impact of their environmental projects and in return, the partners facilitate CC’s calculation of carbon reduction per dollar invested and the visual documentation of the project’s impact.\r\n\r\n1. The Bay Foundation will expand its work of restoring kelp forests in waters off of LA. Reversing the 75% decline in these forests over the past century will help our local ecosystems, clean the water, and sequester a significant amount of carbon from the ocean, which absorbs nearly 30-40% of the atmosphere’s carbon dioxide.\r\n\r\n2. TreePeople will expand its work of planting tens of thousands of trees across LA, sequestering many tons of carbon and creating better environment for Angelenos. \r\n\r\n3. LAANE’s Repower LA program, in partnership with LADWP’s Utility Pre-Craft Trainee (UPCT) program, will expand its work, which offers free home energy-efficiency retrofits and trains low-income Angelenos in electrical work. \r\n\r\n4. Harbor Community Benefit Foundation will expand its tree planting initiatives to counter abysmal air quality for communities near the Port of LA.\r\n\r\nWe are exploring partnerships with other groups for the future: Urban Food Gardens, the National Forest Foundation, Tree Musketeers, and Northeast Trees.\r\n\r\nThe success of our collaborations will depend on a trusting relationship and clear expectations about each party’s responsibilities and deliverables. We are creating a standard memorandum of understanding, which will minimize the risk of miscommunication and divergent expectations. For Climate Cents, we must have guarantees that our funding contributions will flow directly and completely to the pre-set projects, and not be diverted to other programs or administrative costs. We must also regularly receive updated information about the results of the funding, with specific metrics such as trees planted and pounds of carbon reduced. We will also need to access to the partner’s project sites so we can document them with photo and videos. In return, partners should have a clear expectation of how roughly much funding they can expect from Climate Cents and on what basis and conceivable schedule it will be provided. "
-  metrics_live_healthyfood: '1'
+  city_state: 'Los Angeles, CA'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'
@@ -132,7 +90,7 @@ maker_answers:
   metrics_live_treecanopy: '1'
   metrics_live_other: '1'
   metrics_live_blank: Carbon dioxide emissions per capita
-  impact_metrics: "Climate Cents works by collaborating with environmental groups that are already making a difference on these metrics and using its platform to supercharge their impact through data transparency, public awareness, and crowdsourced funding. \r\n\r\nPlanting more trees is the only way to achieve the dream metric of greater tree canopy cover, and it also is vital to accomplishing other metrics as well. According to a research study published this week, “trees help people live longer, healthier, happier lives—to the tune of $6.8 billion in averted health costs annually in the U.S.” Trees clean the air of toxins, remove carbon, cool surrounding areas, conserve energy, save water, prevent water pollution, reduce UV exposure, provide food, alleviate mental and physical fatigue, bring people together, provide a space for wildlife, beautify neighborhoods, and increase local business traffic. \r\n\r\nTrees very effectively scrub air toxins and remove particulate matter from the air. Energy efficiency upgrades and the installation of solar panels reduce negative emissions at the source. \r\n\r\nTrees slow the evaporation of water, making sure that what rains in LA, stay in LA. Trees help prevent water pollution by reducing erosion and stormwater run-off. Kelp forests help to filter ocean water. The presence of more trees has been documented to increase the walkability of neighborhoods. The shade and beauty they furnish lead people to feel more comfortable moving through the streets on foot.\r\n\r\nBy increasing walkability and providing more hospitable outdoors spaces for exercise and other physical activity, trees have been shown to help lower obesity rates.\r\n\r\nLikewise, multiple studies have demonstrated that the powerful psychological benefits of proximity to trees. Being in a tree-filled environment relieves stress and mental fatigue, helping people to concentrate and even to heal faster from surgeries and illnesses.\r\n\r\nTrees can play a part in improving childhood experiences through their positive effects on mental and physical health. Children find space and inspiration under the cover of trees. Events to plant trees offer opportunities for fun, accessible community projects.\r\n\r\nTrees are crucial to community resilience through better air quality, improved mental and physical health, more connections among the community, and increased local business traffic. Energy efficiency upgrades economically advance disadvantaged communities by saving money and creating good jobs. "
+  resources_network: '1'
   best_place_to_create: '1'
   best_place_to_play: '1'
   best_place_to_connect: '1'
@@ -151,8 +109,50 @@ maker_answers:
   resources_education: '1'
   resources_technical: '1'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '1'
+  impact_metrics: "Climate Cents works by collaborating with environmental groups that are already making a difference on these metrics and using its platform to supercharge their impact through data transparency, public awareness, and crowdsourced funding. \r\n\r\nPlanting more trees is the only way to achieve the dream metric of greater tree canopy cover, and it also is vital to accomplishing other metrics as well. According to a research study published this week, “trees help people live longer, healthier, happier lives—to the tune of $6.8 billion in averted health costs annually in the U.S.” Trees clean the air of toxins, remove carbon, cool surrounding areas, conserve energy, save water, prevent water pollution, reduce UV exposure, provide food, alleviate mental and physical fatigue, bring people together, provide a space for wildlife, beautify neighborhoods, and increase local business traffic. \r\n\r\nTrees very effectively scrub air toxins and remove particulate matter from the air. Energy efficiency upgrades and the installation of solar panels reduce negative emissions at the source. \r\n\r\nTrees slow the evaporation of water, making sure that what rains in LA, stay in LA. Trees help prevent water pollution by reducing erosion and stormwater run-off. Kelp forests help to filter ocean water. The presence of more trees has been documented to increase the walkability of neighborhoods. The shade and beauty they furnish lead people to feel more comfortable moving through the streets on foot.\r\n\r\nBy increasing walkability and providing more hospitable outdoors spaces for exercise and other physical activity, trees have been shown to help lower obesity rates.\r\n\r\nLikewise, multiple studies have demonstrated that the powerful psychological benefits of proximity to trees. Being in a tree-filled environment relieves stress and mental fatigue, helping people to concentrate and even to heal faster from surgeries and illnesses.\r\n\r\nTrees can play a part in improving childhood experiences through their positive effects on mental and physical health. Children find space and inspiration under the cover of trees. Events to plant trees offer opportunities for fun, accessible community projects.\r\n\r\nTrees are crucial to community resilience through better air quality, improved mental and physical health, more connections among the community, and increased local business traffic. Energy efficiency upgrades economically advance disadvantaged communities by saving money and creating good jobs. "
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  Divining LA will convert cutting-edge research on stormwater resources,
+  groundwater augmentation, water recycling, and water conservation into
+  planning and design strategies for neighborhoods across Los Angeles. Divining
+  LA will pair economically and culturally diverse community-based organizations
+  with teams of university and professional designers. Each team will be
+  challenged and supported to invent a water-smart future for specific
+  neighborhoods. Teams will generate design visions and policy recommendations
+  for their own small-scale, distributed approaches to a localized water future,
+  appropriate to the scale, tempo, and flavor of their neighborhood, and the
+  greater hydrologic function of the LA basin. 
+   
+   Divining LA provides an opportunity not only to residents and business owners to visualize climate adaptation and mitigation strategies; it also provides a much-needed, real-time opportunity for Los Angeles’ rich design culture to advance water-smart planning policy and building systems for a resilient future.
+   
+   Divining LA will bring together faculty, graduate and undergraduate researchers from Woodbury, asmall, private Hispanic-serving university, and collaborator design programs from around the region. Teams will have the support and involvement of engineers from public water agencies and leading global firms; NGOs with long track records of service to the communities of Los Angeles; and multidisciplinary research and design teams from universities and the design professions. In year one, Divining LA partners will build on existing relationships throughout its collaborator network to identify specific neighborhoods and community-based organizations for partnerships. Divining LA will partner with a range of communities facing specific hydrologic, economic, and cultural challenges that would most benefit from being paired with Divining LA planning and design teams. The goal is to generate a set of visionary water-management strategies for each of the disparate communities engaged, and to propose and advocate for new policies suggested by the design challenge. From these, a small number of projects will be selected as possible demonstration projects. Divining LA will widely publicize, encourage debate, document and disseminate the results of all projects.
+What is your idea/project in more detail?: >-
+  LA benefits today in engaging citizens to design their own destiny. LA
+  benefits tomorrow with water, energy, and carbon savings. Los Angeles River
+  Watershed area, at 864 square miles and 65% impermeability, generates 350,000
+  acre feet of storm water runoff per year, enough for 2,100,000 people per year
+  at current usage rates or with conservation measures in place, enough for
+  2,625,000 people. That translates to a gross energy savings of 700 gigawatt
+  hours or the equivalent of taking 130,000 passenger vehicles off the road.
+What will you do to implement this idea/project?: >-
+  Divining LA outreach has the potential to bring advanced geospatial research
+  to public benefit rapidly. It has the potential to optimize the hydrologic
+  function of the arid built environment; uncouple the water-energy nexus;
+  produce hydrologic planning, zoning, building code reforms; encourage small
+  scale distributed water infrastructures as design opportunities that respect
+  the cultural and biophysical attributes of communities and watersheds; promote
+  building-integrated water systems innovation for the global marketplace;
+  retool science and design curricula to creatively engage the challenges of
+  climate adaptation; and increase participation of underrepresented
+  communities. Divining LA outputs are scaleable and transferable to
+  water-stressed environments affecting 30 million people in the US West, and
+  1.2 billion people worldwide.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  Partners who have confirmed their participation and support include
+  TreePeople, ARUP
+   City of LA Bureau of Engineering, City of LA Bureau of Sanitation/Watershed Protection Program, County of LA Flood Control/Watershed Management program, LADWP Stormwater Management, UCLA Water Resources Group, American Institute of Architects | Los Angeles, Perkins + Will Architects, AC Martin Architects, and Mia Lehrer + Associates. ALI has secured the preliminary interest of design leaders at USC, UCLA, CalPoly Pomona, Art Center College of Design, SCI-Arc, and of course Woodbury School of Architecture.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -482,7 +482,7 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '1'
-body_class: lime
-published: true
+maker_image_id: '23638'
+maker_image_file_name: new_site3.png
 
 ---

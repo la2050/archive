@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016235'
 year_submitted: 2016
-organization_name: thecool
-organization_website: thecool.la
-ein: ''
-project_image_2: 1265013144741-team90.png
+category: create
+body_class: banana
 project_id: '6102262'
+challenge_url: >-
+  https://challenge.la2050.org/entry/building-a-home-that-shifts-interactions-from-pixels-to-people-from-loneliness-to-companionship
 title: >-
   Building a home that shifts interactions from pixels to people, from
   loneliness to companionship.
-organization_name_2: thecool
-organization_activity: >-
-  thecool is a physical space that encourages safe, organic sharing of ideas &
-  opinions, unique gifts & hidden talents - centered around humanity’s age-old
-  pastime of congregating over food and drink.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1265013144741-team90.png
-project_video: 'https://www.youtube.com/embed/VIFv2XHX_l8?rel=0&amp;showinfo=0'
 project_summary: >-
   We plan to create a space that encourages you to use all five senses in public
   - savor our menu, witness people’s gifts, play in the space, listen to
   conversations and music.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1265013144741-team90.png
+project_video: 'https://www.youtube.com/embed/VIFv2XHX_l8?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   thecool will increase Arts Establishments per Capita by inviting concepts,
   groups, and individuals to host events within the space.  This type of
@@ -71,6 +65,20 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+project_proposal_description: >-
+  thecool will disrupt the standard cafe experience by serving and engaging the
+  community in an interactive space, with a culturally adventurous menu that
+  integrates popular food and drink from various cuisines while elevating them
+  in preparation, aesthetics, and taste.  Guests are encouraged to surface their
+  hidden talents, act as a catalyst for the brainstorming and exchange of
+  innovative ideas, and provide all Angelenos an outlet to build community in an
+  increasingly isolated and digital world.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   Los Angeles is one of the premier cities in the world, the mecca of
   entertainment, art, fashion, and ideas.  While LA is set apart by its creative
@@ -121,23 +129,15 @@ project_proposal_best_place: >-
   catalyst for ideas, movements, dreams. Through our welcoming interactive
   space, game changing menu, and talent sharing, we’ll nurture authentic
   community to address a pressing need in an otherwise lonely city.
-challenge_url: >-
-  https://challenge.la2050.org/entry/building-a-home-that-shifts-interactions-from-pixels-to-people-from-loneliness-to-companionship
+project_image_2: 1265013144741-team90.png
 empty_column_1: ''
-project_proposal_description: >-
-  thecool will disrupt the standard cafe experience by serving and engaging the
-  community in an interactive space, with a culturally adventurous menu that
-  integrates popular food and drink from various cuisines while elevating them
-  in preparation, aesthetics, and taste.  Guests are encouraged to surface their
-  hidden talents, act as a catalyst for the brainstorming and exchange of
-  innovative ideas, and provide all Angelenos an outlet to build community in an
-  increasingly isolated and digital world.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-category: create
-body_class: banana
-published: true
+organization_name: thecool
+organization_website: thecool.la
+organization_name_2: thecool
+organization_activity: >-
+  thecool is a physical space that encourages safe, organic sharing of ideas &
+  opinions, unique gifts & hidden talents - centered around humanity’s age-old
+  pastime of congregating over food and drink.
+ein: ''
 
 ---

@@ -1,38 +1,28 @@
 ---
+published: true
 organization_id: '2016190'
 year_submitted: 2016
-organization_name: Say Word and 4C LAB
-organization_website: www.SayWordLA.org
-ein: ''
-project_image_2: 5170666805741-team89.jpg
+category: learn
+body_class: blueberry
 project_id: '6102204'
+challenge_url: >-
+  https://challenge.la2050.org/entry/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence
 title: >-
   MERGE: LA youth collaborating through spoken word & dance to build empathy,
   literacy and confidence.
-organization_name_2: Say Word and 4C LAB
-organization_activity: >-
-  Say Word’s mission is to empower, enlighten, and activate young people through
-  writing and performance to improve literacy, and cultivate self-awareness,
-  social change and healing.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5170666805741-team89.jpg
-project_video: 'https://www.youtube.com/embed/Bg6i6yos2pU?rel=0&amp;showinfo=0'
 project_summary: >-
   Together, Say Word and 4C LAB empower underserved youth to merge spoken word &
   dance to share original stories of identity, empathy & equality while sparking
   dialogue across diverse communities in LA.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5170666805741-team89.jpg
+project_video: 'https://www.youtube.com/embed/Bg6i6yos2pU?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Say Word and 4C LAB will work together to introduce creativity and literacy as
   integral parts of the path to self-discovery, and break the cycle of apathy 
   by increasing access and education, culture, community and self-awareness for
   youth ages 14-24 in Los Angeles.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - South LA
-  - Gateway Cities
 project_measure: >-
   We are basing our goals on the data in the studies mentioned above, namely: 
 
@@ -82,6 +72,26 @@ project_impact: >-
   ["College completion","College matriculation rates","Proficiency in English
   and Language Arts and Math","Suspension and expulsion rates","Youth
   unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Proficiency in English and Language Arts and Math
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Say Word and 4C LAB merge interdisciplinary arts for socio-emotional
+  development in youth to create original work. 'Merge' engages our students to
+  share, create and navigate through personal narrative to discover identity,
+  empathy and equality in L.A. Through collaboration we will explore the
+  landscape of Los Angeles and its freeway systems that connect and divide us
+  interpreted and culminated through spoken word and dance in a public
+  performance to create dialogue in surrounding communities.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - South LA
+  - Gateway Cities
 project_proposal_best_place: >-
   MERGE, a joint project of Say Word and 4C LAB, will make LA the best place to
   learn, connect and create by providing an opportunity for Los Angeles youth to
@@ -136,25 +146,15 @@ project_proposal_best_place: >-
   MERGE will be a pilot program, but one we hope to develop into a joint program
   that happens every spring, serving 20-30 young people, and audiences of 200+,
   each year.
-challenge_url: >-
-  https://challenge.la2050.org/entry/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence
+project_image_2: 5170666805741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Say Word and 4C LAB merge interdisciplinary arts for socio-emotional
-  development in youth to create original work. 'Merge' engages our students to
-  share, create and navigate through personal narrative to discover identity,
-  empathy and equality in L.A. Through collaboration we will explore the
-  landscape of Los Angeles and its freeway systems that connect and divide us
-  interpreted and culminated through spoken word and dance in a public
-  performance to create dialogue in surrounding communities.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - Proficiency in English and Language Arts and Math
-  - Suspension and expulsion rates
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Say Word and 4C LAB
+organization_website: www.SayWordLA.org
+organization_name_2: Say Word and 4C LAB
+organization_activity: >-
+  Say Word’s mission is to empower, enlighten, and activate young people through
+  writing and performance to improve literacy, and cultivate self-awareness,
+  social change and healing.
+ein: ''
 
 ---

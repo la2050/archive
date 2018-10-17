@@ -1,34 +1,26 @@
 ---
+published: true
 organization_id: '2016192'
 year_submitted: 2016
-organization_name: SIJCC
-organization_website: sijcc.net
-ein: ''
-project_image_2: 5529285065741-team91.JPG
+category: create
+body_class: banana
 project_id: '6102207'
+challenge_url: >-
+  https://challenge.la2050.org/entry/locally-grown-art-a-series-featuring-la-artists-in-performance-movement-talk-music-family-fun
 title: >-
   Locally Grown Art: a series featuring LA artists in performance, movement,
   talk, music & family fun 
-organization_name_2: SIJCC
-organization_activity: >-
-  The SIJCC is a home for arts, culture, education and belonging on LA’s east
-  side, with numerous classes, events and other offerings devoted to supporting
-  and showcasing our local community of artists.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
-project_video: ''
 project_summary: >-
   A cultural series focused on music, performance, movement, talk and family,
   that highlights artists who live and work in Los Angeles in the revamped space
   at the SIJCC.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
    No organizations confirmed at this time. We plan to collaborate with an array
   of local artists, civic leaders and community members.
-project_areas:
-  - Central LA
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   SIJCC’s campus being filled with local artists and creatives working,
   rehearsing and sparking new work, audiences engaged in conversation about
@@ -59,6 +51,22 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Jobs per
   capita"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
+project_proposal_description: >-
+  We believe in the power of arts and culture to transform communities. Our
+  pilot cultural series is built on the creative capital of LA’s east side
+  neighborhoods and will highlight local artists from diverse disciplines,
+  compensate them for their time and talents and offer space for rehearsal and
+  creative work at reduced rates. Through five key focuses — talk, music,
+  performance, movement and family — we will bring the community together to
+  learn, create and discover together.
+project_areas:
+  - Central LA
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   SIJCC’s new cultural series will value artists and creatives who live and work
   in Los Angeles and share our mission of redefining rituals, collaboration and
@@ -101,23 +109,15 @@ project_proposal_best_place: >-
   community members who are pursuing the arts. Space would be reserved on a
   first-come, first-serve basis, and participating artists would be encouraged
   to find ways to share their work back with the broader community.
-challenge_url: >-
-  https://challenge.la2050.org/entry/locally-grown-art-a-series-featuring-la-artists-in-performance-movement-talk-music-family-fun
+project_image_2: 5529285065741-team91.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  We believe in the power of arts and culture to transform communities. Our
-  pilot cultural series is built on the creative capital of LA’s east side
-  neighborhoods and will highlight local artists from diverse disciplines,
-  compensate them for their time and talents and offer space for rehearsal and
-  creative work at reduced rates. Through five key focuses — talk, music,
-  performance, movement and family — we will bring the community together to
-  learn, create and discover together.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Jobs per capita
-category: create
-body_class: banana
-published: true
+organization_name: SIJCC
+organization_website: sijcc.net
+organization_name_2: SIJCC
+organization_activity: >-
+  The SIJCC is a home for arts, culture, education and belonging on LA’s east
+  side, with numerous classes, events and other offerings devoted to supporting
+  and showcasing our local community of artists.
+ein: ''
 
 ---

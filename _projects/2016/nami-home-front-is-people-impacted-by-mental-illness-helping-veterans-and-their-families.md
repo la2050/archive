@@ -1,34 +1,28 @@
 ---
+published: true
 organization_id: '2016152'
 year_submitted: 2016
-organization_name: NAMI San Fernando Valley
-organization_website: namisfv.org
-ein: ''
-project_image_2: 6737289065741-team89.jpeg
+category: live
+body_class: lime
 project_id: '6102160'
+challenge_url: >-
+  https://challenge.la2050.org/entry/nami-home-front-is-people-impacted-by-mental-illness-helping-veterans-and-their-families
 title: >-
   NAMI Home Front  is people impacted by mental illness helping Veterans and
   their families.
-organization_name_2: NAMI San Fernando Valley
-organization_activity: >-
-  NAMI San Fernando Valley is a grass roots volunteer organization offering free
-  of charge support, education, and advocacy for people, families, and
-  communities affected by affected by mental illness.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6737289065741-team89.jpeg
-project_video: 'https://www.youtube.com/embed/nIjlAQbq7q4?rel=0&amp;showinfo=0'
 project_summary: >-
   NAMI Homefront is a free, 6-session educational program for families,
   caregivers and friends of military service members and vets with mental health
   conditions.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6737289065741-team89.jpeg
+project_video: 'https://www.youtube.com/embed/nIjlAQbq7q4?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   VA Greater Los Angeles Healthcare System, Los Angeles County Department of
   Mental Health, California State University, Northridge, San Fernando Valley
   Mental Health Inc., Depression Bipolar Support Alliance, College of the
   Canyons, Pierce College, Northridge Hospital, Mission Community Hospital
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   Success will be determine by the number of people that take classes, graduate
   from classes, get trained to teach classes, and subsequently teach their own
@@ -62,6 +56,24 @@ project_impact: >-
   ["Access to healthy food","Housing affordability","Healthcare
   access","Self-sufficiency","Residents receiving coordinated healthcare
   services","Homelessness","Mental illness"]
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Healthcare access
+  - Self-sufficiency
+  - Residents receiving coordinated healthcare services
+  - Homelessness
+  - Mental illness
+project_proposal_description: >-
+  Based on the nationally recognized NAMI Family-to-Family program, NAMI
+  Homefront is designed to address the unique needs of family, caregivers and
+  friends of those who have served or are currently serving our country. The
+  program is taught by trained family members of service members/veterans living
+  with mental health conditions.  The program will also recruit, train, & place
+  trained individuals in their communities to further expand outreach and
+  education efforts.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   Nearly 1 in 4 active duty members showed signs of a mental health condition,
   according to a 2014 study in JAMA Psychiatry. For many PTSD, physical trauma,
@@ -101,27 +113,15 @@ project_proposal_best_place: >-
   reinforcement from people who relate to their experiences. Through their
   participation, they have the opportunity to help others grow and make LA a
   great place to LIVE!
-challenge_url: >-
-  https://challenge.la2050.org/entry/nami-home-front-is-people-impacted-by-mental-illness-helping-veterans-and-their-families
+project_image_2: 6737289065741-team89.jpeg
 empty_column_1: ''
-project_proposal_description: >-
-  Based on the nationally recognized NAMI Family-to-Family program, NAMI
-  Homefront is designed to address the unique needs of family, caregivers and
-  friends of those who have served or are currently serving our country. The
-  program is taught by trained family members of service members/veterans living
-  with mental health conditions.  The program will also recruit, train, & place
-  trained individuals in their communities to further expand outreach and
-  education efforts.
-project_proposal_impact:
-  - Access to healthy food
-  - Housing affordability
-  - Healthcare access
-  - Self-sufficiency
-  - Residents receiving coordinated healthcare services
-  - Homelessness
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: NAMI San Fernando Valley
+organization_website: namisfv.org
+organization_name_2: NAMI San Fernando Valley
+organization_activity: >-
+  NAMI San Fernando Valley is a grass roots volunteer organization offering free
+  of charge support, education, and advocacy for people, families, and
+  communities affected by affected by mental illness.
+ein: ''
 
 ---

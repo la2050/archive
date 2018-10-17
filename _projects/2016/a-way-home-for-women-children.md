@@ -1,34 +1,23 @@
 ---
+published: true
 organization_id: '2016242'
 year_submitted: 2016
-organization_name: Union Rescue Mission
-organization_website: www.urm.org
-ein: '951709293'
-project_image_2: 5004868715741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102268'
+challenge_url: 'https://challenge.la2050.org/entry/a-way-home-for-women-children'
 title: A Way Home for Women & Children
-organization_name_2: Union Rescue Mission
-organization_activity: >-
-  Union Rescue Mission provides a pathway to life transformation, jobs and
-  housing for men, women, children, and families experiencing homelessness on
+project_summary: >-
+  Help us provide a way home for women and children experiencing homelessness on
   the streets of Los Angeles.
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
 project_video: 'https://www.youtube.com/embed/dtKGgHD0VHE?rel=0&amp;showinfo=0'
-project_summary: >-
-  Help us provide a way home for women and children experiencing homelessness on
-  the streets of Los Angeles.
 project_is_collaboration: 'No'
 project_collaborators: >-
   URM collaborates with numerous social service, health and community-based
   partners to help end homelessness. They include the Los Angeles Central
   Providers Collaborative (LACPC) and more than 40 other partner agencies.
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - County of Los Angeles
 project_measure: >-
   This project will be evaluated as an on-going part of Union Rescue Mission's
   commitment to measuring and tracking progress and impact. Outcome measurements
@@ -54,6 +43,29 @@ project_impact: >-
   ["Access to healthy food","Housing affordability","Healthcare
   access","Self-sufficiency","Resilient communities","Residents receiving
   coordinated healthcare services","Homelessness","Mental illness"]
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Healthcare access
+  - Self-sufficiency
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Homelessness
+  - Mental illness
+project_proposal_description: >-
+  As part this Grants Challenge, Union Rescue Mission will help 15 mothers and
+  their children get into permanent housing over the next year. The project
+  connects women and children experiencing homelessness with food, supportive
+  services and a healthy place to LIVE. It engages and connects caring citizens
+  and local communities with opportunities for service. And it gives all of us
+  the chance to work together to transform Los Angeles into a place where
+  everyone deserves to thrive.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - County of Los Angeles
 project_proposal_best_place: >-
   At Union Rescue Mission, we believe that providing a way home for women and
   children is just the right thing to do. What better way to transform Los
@@ -96,27 +108,15 @@ project_proposal_best_place: >-
   health, jobs and housing. We are a group of people who believe that every
   person deserves to LIVE with a roof over their heads, and want to do something
   about it. Please join us. Together, we CAN end homelessness.
-challenge_url: 'https://challenge.la2050.org/entry/a-way-home-for-women-children'
+project_image_2: 5004868715741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  As part this Grants Challenge, Union Rescue Mission will help 15 mothers and
-  their children get into permanent housing over the next year. The project
-  connects women and children experiencing homelessness with food, supportive
-  services and a healthy place to LIVE. It engages and connects caring citizens
-  and local communities with opportunities for service. And it gives all of us
-  the chance to work together to transform Los Angeles into a place where
-  everyone deserves to thrive.
-project_proposal_impact:
-  - Access to healthy food
-  - Housing affordability
-  - Healthcare access
-  - Self-sufficiency
-  - Resilient communities
-  - Residents receiving coordinated healthcare services
-  - Homelessness
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: Union Rescue Mission
+organization_website: www.urm.org
+organization_name_2: Union Rescue Mission
+organization_activity: >-
+  Union Rescue Mission provides a pathway to life transformation, jobs and
+  housing for men, women, children, and families experiencing homelessness on
+  the streets of Los Angeles.
+ein: '951709293'
 
 ---

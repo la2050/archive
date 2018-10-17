@@ -1,44 +1,16 @@
 ---
+published: true
+organization_id: '2014190'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102185'
 title: Thriving in a Hotter Los Angeles—100% Sustainability by 2050
 project_summary: >-
   UCLA's "Hotter LA Project” pursues 100% sustainability in water, energy, and
   nature in the LA region by 2050.
-category: live
-organization_id: '2014190'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/DITouRhKW80'
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  We have a prototype network up and running in Fukushima Japan now, want to
-  launch full network in Los Angeles.
-What is your idea/project in more detail?: >-
-  Started in response to the Fukushima meltdown in 2011 - In 3 years Safecast
-  has built the most trusted citizen monitoring network for radiation data in
-  the world, with the largest open data set ever. Our network of mobile sensors
-  is tried and tested, and we're now building out a static realtime network and
-  adding other environmental data to that - air quality, weather, etc. We have a
-  prototype network up and running now, but would love to deploy a full network
-  in Los Angeles as the first US initiative.
-What will you do to implement this idea/project?: >-
-  With our radiation data we changed the established method of reporting data as
-  huge averages to giving pinpoint data down to a specific GPS location, giving
-  people the very granular data they needed and were unable to get anywhere
-  else. We're hoping to do the same thing for air quality and other
-  environmental data so right now Angelenos can get very vague data - air in LA
-  is OK today, air in LA is bad today - etc. Our sensors and network will change
-  that and tell people exactly what is different street to street, moment to
-  moment. Imagine being able to plan a run or bike ride specifically down
-  streets with better air quality at the least polluted times of the day.
-  Imagine being able to pinpoint pollution sources and make changes to correct
-  these problems at the source.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  Individuals who are interested in their environment, researchers who need
-  concrete data for their work, and policy/government who currently have limited
-  data with which to make decisions.
-Whom will your project benefit? Please be specific.: For Los Angeles we won't need any partners to deploy this.
-empty_column_1: ''
-youtube_video_identifier: DITouRhKW80
 project_areas:
   - CENTRAL LA
   - EAST LA
@@ -46,8 +18,8 @@ project_areas:
   - SGV
   - SFV
 maker_answers:
-  city_state: Los Angeles
   org_name: UCLA Grand Challenges
+  metrics_live_healthyfood: '0'
   org_website: www.grandchallenges.ucla.edu
   org_twitter: www.twitter.com/UCLAgc
   org_facebook: www.facebook.com/UCLAgc
@@ -88,7 +60,7 @@ maker_answers:
   impact_live: "Raising awareness about the Hotter LA Project, gathering support, and developing the infrastructure for this intense and complex collaboration TODAY lays the crucial foundation for the success of this project and a healthier, greener Los Angeles. We will realize benefits from these transformations long before 2050.\r\n\r\nHere’s how achieving the Hotter LA 2050 objectives makes LA the healthiest place to live in 2050:\r\n\r\n-The transition to renewable energy and a carbon-free transportation infrastructure will eliminate the public health burden associated with fossil fuel--taking us off the list of US cities with the worst air quality.  \r\n\r\n-Transformed urban spaces and cleaner oceans offer greater opportunities to be active in natural outdoor spaces where our unique biodiversity can be celebrated.\r\n\r\n-The creation of substantial bicycle and pedestrian infrastructure will provide active commuting options that improve health and quality of life—reducing the number of vehicles on the road as we currently have more than any other urban area in the world.\r\n\r\nThe compound effect of these changes will result in the LA region becoming healthier, eliminating current environmental injustices so that all communities have minimal environmental health risks.  We will see a notable reduction in asthma attacks, heart attacks, and premature death."
   who_benefit: "By 2050, it is estimated that 70% of the world’s population will live in cities and face the same urban environmental concerns currently present in the LA region: limited resources, smog, water waste, traffic congestion, increased heat and rising sea levels.\r\n\r\nThe Hotter LA Project is designed to achieve maximum societal impact. Even before we reach the 2050 goals, the steps made in approach of 100% sustainability will have positive benefits for all citizens and communities in the entire LA region. Millions of people will have cleaner air, safe, sustainable energy and water, and improved quality of life. We expect this effort to become a model for how other megacities might achieve sustainability through goal setting and cross-sector collaboration. Lessons learned here will be shared with communities across the state, nation, and globe."
   partners_collaboration: "Robust partnerships with a wide variety of stakeholders are critical to the success of the project and to the eventual implementation of the 2019 Plan. Key stakeholder groups include: \r\n\r\nLocal, State, and Federal Government: LA City and County leaders and even the White House administration are aware of this project and have confirmed broad support for our goals. Members of the Hotter LA team have active research and consulting engagements with the City of Los Angeles, County of Los Angeles, and federal agencies. Critical Success Factor: We must expand relationships with all government stakeholder groups, become fluent with their complex structures, and find ways to connect beyond existing relationships to ensure that the right people are engaged, improve the feasibility of the 2050 plan, and obtain buy-in from groups that will have significant responsibility with implementation.\r\n\r\nIndustry: The expansion of industry partnerships is a priority for this Project. Through early engagement of industry, we gain a greater understanding of needs and aligned interests as related to the goals of the project. Critical Success Factor: While a number of relationships currently exist, we must develop more extensive relationships with industry and foster more entity-level engagement.\r\n\r\nPhilanthropy: Hotter LA represents our most ambitious fundraising effort to date. We believe that there is great opportunity to engage supporters of the university in new ways. Critical Success Factor: We must capture the imagination and commitment of individuals passionate about meeting the goals of the project.\r\n\r\nUCLA Campus and Other Universities: With full support from the UCLA Chancellor and the 140 faculty members involved, UCLA is deeply committed to this effort. Critical Success Factor: We will extend our reach outside of UCLA to include academic partners who can stimulate innovation and fill gaps.\r\n\r\nPublic: We will shift our public communications from broadcasts to dialogues. With increased interaction, we hope that LA citizens will learn about the proposed project, draw inspiration from it, and get involved. Critical Success Factor: An engaged and supportive Los Angeles community is essential. \r\n\r\nWith our partners, we will create a shared vision of the future, communicate openly and directly about opportunities and challenges, increase access to all types of resources (monetary, intellectual, data, etc.), and make progress on our collective commitment to the 2050 goals."
-  metrics_live_healthyfood: '0'
+  city_state: Los Angeles
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'
@@ -104,7 +76,7 @@ maker_answers:
   metrics_live_treecanopy: '1'
   metrics_live_other: '1'
   metrics_live_blank: Others described in response below.
-  impact_metrics: "The benefits to be achieved with the Hotter LA Project are closely aligned with several LA2050 Metrics as summarized below: \r\n\r\n-New technologies and efficiencies position the region to cost-effectively obtain 100% energy from renewable sources and 100% water from local sources. (Metrics: Exposure to air toxins, Percent of imported water, Acres and miles of polluted waterways.)\r\n\r\n-The region's urban spaces are reimagined with increased green space supportive of Southern California’s native biodiversity. (Metrics: Percentage of tree canopy cover, Access to open space and park facilities.)\r\n\r\n-Clean energy and water and decarbonized transportation leads to more equitable outcomes for communities disproportionately burdened by pollution. (Metrics: Exposure to air toxins, Percentage of LA communities that are resilient.)\r\n\r\n-A county-wide bicycle and walking transportation network reduces traffic and provides faster, safer and greener commutes. (Metrics: Walk/bike/transit score, Other: Median travel time to work, Number of public transit riders, Transit-accessible housing and employment.)\r\n\r\n-The LA region is recognized as an innovation leader in the areas of water, energy, natural resource preservation, public health, and policy implementation. Climate change is transformed from crisis to opportunity. (Metrics: Other: Increased grant funding for environment and sustainability research, Patents per capita, Jobs per capita, Number of high growth start-ups, Venture capital investment, Measures of cultural and global economic influence.)\r\n"
+  resources_network: '1'
   best_place_to_create: '1'
   best_place_to_play: '1'
   best_place_to_connect: '1'
@@ -123,8 +95,38 @@ maker_answers:
   resources_education: '0'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '0'
+  impact_metrics: "The benefits to be achieved with the Hotter LA Project are closely aligned with several LA2050 Metrics as summarized below: \r\n\r\n-New technologies and efficiencies position the region to cost-effectively obtain 100% energy from renewable sources and 100% water from local sources. (Metrics: Exposure to air toxins, Percent of imported water, Acres and miles of polluted waterways.)\r\n\r\n-The region's urban spaces are reimagined with increased green space supportive of Southern California’s native biodiversity. (Metrics: Percentage of tree canopy cover, Access to open space and park facilities.)\r\n\r\n-Clean energy and water and decarbonized transportation leads to more equitable outcomes for communities disproportionately burdened by pollution. (Metrics: Exposure to air toxins, Percentage of LA communities that are resilient.)\r\n\r\n-A county-wide bicycle and walking transportation network reduces traffic and provides faster, safer and greener commutes. (Metrics: Walk/bike/transit score, Other: Median travel time to work, Number of public transit riders, Transit-accessible housing and employment.)\r\n\r\n-The LA region is recognized as an innovation leader in the areas of water, energy, natural resource preservation, public health, and policy implementation. Climate change is transformed from crisis to opportunity. (Metrics: Other: Increased grant funding for environment and sustainability research, Patents per capita, Jobs per capita, Number of high growth start-ups, Venture capital investment, Measures of cultural and global economic influence.)\r\n"
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  We have a prototype network up and running in Fukushima Japan now, want to
+  launch full network in Los Angeles.
+What is your idea/project in more detail?: >-
+  Started in response to the Fukushima meltdown in 2011 - In 3 years Safecast
+  has built the most trusted citizen monitoring network for radiation data in
+  the world, with the largest open data set ever. Our network of mobile sensors
+  is tried and tested, and we're now building out a static realtime network and
+  adding other environmental data to that - air quality, weather, etc. We have a
+  prototype network up and running now, but would love to deploy a full network
+  in Los Angeles as the first US initiative.
+What will you do to implement this idea/project?: >-
+  With our radiation data we changed the established method of reporting data as
+  huge averages to giving pinpoint data down to a specific GPS location, giving
+  people the very granular data they needed and were unable to get anywhere
+  else. We're hoping to do the same thing for air quality and other
+  environmental data so right now Angelenos can get very vague data - air in LA
+  is OK today, air in LA is bad today - etc. Our sensors and network will change
+  that and tell people exactly what is different street to street, moment to
+  moment. Imagine being able to plan a run or bike ride specifically down
+  streets with better air quality at the least polluted times of the day.
+  Imagine being able to pinpoint pollution sources and make changes to correct
+  these problems at the source.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  Individuals who are interested in their environment, researchers who need
+  concrete data for their work, and policy/government who currently have limited
+  data with which to make decisions.
+Whom will your project benefit? Please be specific.: For Los Angeles we won't need any partners to deploy this.
+empty_column_1: ''
+youtube_video_identifier: DITouRhKW80
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -443,7 +445,5 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: lime
-published: true
 
 ---

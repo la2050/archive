@@ -1,34 +1,27 @@
 ---
+published: true
 organization_id: '2016131'
 year_submitted: 2016
-organization_name: Light Sprout
-organization_website: In progress
-ein: ''
-project_image_2: 6138888165741-team90.png
+category: live
+body_class: lime
 project_id: '6102133'
+challenge_url: >-
+  https://challenge.la2050.org/entry/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing
 title: >-
   Empower Me, a digital tool for rape survivors & allies that fosters community,
   justice & healing
-organization_name_2: Light Sprout
-organization_activity: >-
-  Light Sprout’s goal is to challenge rape culture in America through original
-  media content and the building of community while helping survivors heal and
-  restore themselves to wholeness.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
-project_video: 'https://www.youtube.com/embed/17VrzStmqAs?rel=0&amp;showinfo=0'
 project_summary: >-
   Empower Me cultivates a community of healing for sexual assault survivors and
   their advocates through story sharing, medical and psychological resources,
   and avenues for justice.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
+project_video: 'https://www.youtube.com/embed/17VrzStmqAs?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Light Sprout is collaborating with ProSocial, Take Back the Night and is under
   review with Community Partners, though we have a backup plan if they do not
   approve fiscal sponsorship.
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   The application provides an ideal, tangible mechanism for measuring outcomes
   and impact. Each visitor to the app will be registered, and through
@@ -62,6 +55,24 @@ project_impact: >-
   ["Healthcare access","Self-sufficiency","Resilient communities","Residents
   receiving coordinated healthcare services","Prevalence of adverse childhood
   experiences","Mental illness"]
+project_proposal_impact:
+  - Healthcare access
+  - Self-sufficiency
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
+  - Mental illness
+project_proposal_description: >-
+  Light Sprout will develop “Empower Me”, a digital tool that provides
+  important, immediate and ongoing resources to equip sexual assault victims and
+  their allies from the moment it occurs, through the process of seeking justice
+  and healing. This would take them, their family and allies out of isolation
+  and empower them to make informed decisions and access vital support systems
+  to accelerate the healing and justice seeking process. Empower Me is easily
+  accessible and free of charge to all users.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Empower Me will make LA the best place to live by creating a safer and more
   just city where a resilient and thriving community of sexual assault survivors
@@ -114,26 +125,15 @@ project_proposal_best_place: >-
   and emotional trauma from sexual assault, while providing outlets for support
   as it will be linked to Take Back the Night for free online counselling, legal
   advice and advocacy alternatives.
-challenge_url: >-
-  https://challenge.la2050.org/entry/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing
+project_image_2: 6138888165741-team90.png
 empty_column_1: ''
-project_proposal_description: >-
-  Light Sprout will develop “Empower Me”, a digital tool that provides
-  important, immediate and ongoing resources to equip sexual assault victims and
-  their allies from the moment it occurs, through the process of seeking justice
-  and healing. This would take them, their family and allies out of isolation
-  and empower them to make informed decisions and access vital support systems
-  to accelerate the healing and justice seeking process. Empower Me is easily
-  accessible and free of charge to all users.
-project_proposal_impact:
-  - Healthcare access
-  - Self-sufficiency
-  - Resilient communities
-  - Residents receiving coordinated healthcare services
-  - Prevalence of adverse childhood experiences
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: Light Sprout
+organization_website: In progress
+organization_name_2: Light Sprout
+organization_activity: >-
+  Light Sprout’s goal is to challenge rape culture in America through original
+  media content and the building of community while helping survivors heal and
+  restore themselves to wholeness.
+ein: ''
 
 ---

@@ -1,64 +1,21 @@
 ---
+published: true
+organization_id: '2014147'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102086'
 title: Empowering Teens to Make Healthy Decisions
 project_summary: >-
   PHE trains college student volunteers to teach a skills-based health
   curriculum in public high schools lacking health education.
-category: live
-organization_id: '2014147'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/RQJ6YjAJTNY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/RQJ6YjAJTNY'
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  I have contacted community organizations & subject matter experts that have
-  agreed to partner with our organization to "Green The Block" in a West Long
-  Beach neighborhood most impacted by GHG emissions and from local pollution
-  sources. 
-   
-   We will launch with outreach and education to community members in an effort to create awareness/acceptance around environmental health, energy-efficient homes, growing food locally, drought tolerant landscaping and gray water systems, and living more sustainable, green-focused lifestyles. 
-   
-   The next step will be to identify homeowners within a block radius that will participate and support Green The Block efforts. We will identify homeowners via local community groups, churches, neighborhood associations and school groups. Once we have homeowners identified, we will determine home & yard improvements via energy audits, soil tests and urban farming potential evaluations.
-   
-   Funders will be encouraged to sponsor particular areas of interest to their organization (Victory Farm, Energy Efficiency audits…) and homeowners will be encouraged to provide sweat equity to ensure engagement in the initiative. Local government officials will also be asked to support and promote the initiative as well.
-What is your idea/project in more detail?: >-
-  Imagine an entire block of homes in a residential neighborhood retrofitted to
-  ensure healthy indoor air quality, helping to reduce the number of
-  asthma/upper respiratory cases experienced by children and adults each year.
-  Picture the front and back yard of these homes landscaped with either drought
-  tolerant vegetation or food producing plants, being watered with recycled
-  water from gray water systems. And picture neighbors engaged and working with
-  other neighbors to grow fresh food, trade their harvest with other neighbors
-  and help grow a community garden nearby.
-   
-   We will accomplish this goal block by block, family by family, and in one underserved community after the next, until entire LA neighborhoods are transformed into "Green The Block" communities.
-What will you do to implement this idea/project?: >-
-  Low-income families/homeowners not able to complete energy & health related
-  improvements to their homes
-   Children and adults suffering from asthma/upper respiratory diseases
-   Families living in food desert areas and/or unable to afford quality food choices.
-   Long term unemployed workers, including veterans, working mothers, displaced workers, youth at risk, foster youth and re-entry communities.
-How will your idea/project help make LA the best place to connect today? In LA2050?: |-
-  Long Beach Fresh - confirmed
-   Foodscape - confirmed
-   Building Healthy Communities - confirmed
-   Spring St. Farm - confirmed
-   Long Beach Office of Sustainability - confirmed
-   Grant & Associates Energy Audits- confirmed
-   
-   Green Education Inc has worked with all of the above partners on outreach programs via Building Healthy Communities (BHC) Neighborhood Workgroup for the past 3-4 years. We have implemented education programs re: energy efficiency, renewable energy, urban/community farming in the BHC service area in an effort to engage and educate low-income community members about the benefits of green & sustainable lifestyles.
-   
-   3 factors critical to success:
-   Joint outreach and education effort in target neighborhood to ensure Green The Block initiative is clearly described, behavioral change is achieved, new behaviors are established, reinforced, rewarded and sustainable within each family household.
-   Clear expectations established for each partner organization re: roles, tasks, deliverables, timelines/due dates, goals and budget.
-   Ongoing communication & reporting process is established for project members to ensure all project components are planned, designed, launched and evaluated on a regular basis.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-youtube_video_identifier: RQJ6YjAJTNY
 project_areas:
   - LA COUNTY
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: Peer Health Exchange
+  metrics_live_healthyfood: '0'
   org_website: www.peerhealthexchange.org
   org_twitter: www.twitter.com/PHE_National
   org_facebook: www.facebook.com/PeerHealthExchange
@@ -110,7 +67,7 @@ maker_answers:
   impact_live: "PHE LA was founded to address a growing crisis: our teens are navigating difficult decisions and exhibiting risky behaviors on a daily basis, many of which threaten their bodies, well-being, and futures.  According to data from the 2013 CDC Youth Risk Behavior Survey: \r\n\r\n• 19% of LA teenagers are currently sexually active, and 37% of these teens did not use a condom the last time they had sex\r\n• 28% of LA teenagers currently drink alcohol \r\n• 13% of LA teenagers have seriously considered attempting suicide\r\n\r\nThese issues directly impact high school students' progress to graduation. 30% of young women who drop out of school cite pregnancy or parenthood as a key reason. Heavy alcohol use by age 16 is also strongly associated with high school dropout, particularly for young men. Finally, untreated mental illnesses affect teens’ ability to stay and excel in school. Studies of the associations between psychiatric disorders and high school dropout found a positive correlation between all disorders investigated and high school dropouts. A recent study of LAUSD middle and high school students\r\nfound 40% of adolescents within the district display symptoms of trauma at a level requiring mental health services.\r\n\r\nIn recent years, public schools’ increased focus on academic testing, budget cuts and staffing shortages have exacerbated this crisis by eliminating health courses, leaving teens unprepared to protect themselves against these serious health risks. \r\n\r\nPeer Health Exchange directly addresses this crisis by using relatable and knowledgeable college students to give teens medically accurate, critical facts about their mental, physical and sexual health. Moreover, our volunteers engage teens in real-life role play scenarios and equip them with the skills to make decisions, communicate those choices and access health resources with confidence. \r\n\r\nInvesting in teen health today can impact the overall health of LA County by 2050 by directly decreasing teen pregnancy, STI rates, substance abuse rates, and rates of untreated mental illness, while indirectly increasing high school graduation rates. PHE teens can pass their health knowledge on to their families and friends, today and in the future. And by engaging LA college students in some of the most high-need and underserved schools and communities, we encourage volunteerism and civic participation for years to come. Many PHE teens also report they are inspired by PHE volunteers to engage in community service themselves."
   who_benefit: "During the 2011-2012 program year, 92% of the PHE Los Angeles high school students qualified as low-income and received free or reduced lunch and 90% were Latino or Black. \r\n\r\nThrough our program, PHE high school students will gain:\r\n1.\tThe knowledge and skills they need to make healthy decisions. Teenagers who make healthy decisions now and in the future will be more likely to stay and excel in school, join and remain part of the workforce, improving opportunities for a future life of quality.\r\n\r\n2.\tThe knowledge and tools to access the health resources in their communities. In the Accessing Resources workshops, students identify valid services available from home, school, and in the community, learn how to locate these services, and prepare to access resources and services that are customized to their needs.\r\n\r\n3.\tRole Models. Over the course of thirteen workshops, undergraduate volunteers act as slightly older peers who can respectfully address students’ questions and concerns in a language and context that is relevant to their everyday lives while modeling healthy behavior and the successful transition from high school to college.\r\n\r\nWe have 250 LA volunteers, 68 from CSUN, 90 from Occidental and 90 from USC.\r\nThey will gain:\r\n1.\tHealth knowledge and skills. Several studies demonstrate that peer health educators benefit from their training and teaching roles, particularly by gaining increased knowledge about the health topics they teach. In addition to increased knowledge, several studies show that peer health educators demonstrate an increased ability to communicate with friends, partners, and parents, and make positive changes in their own health behavior, attitudes and goal-setting. This growth in skills and knowledge enables PHE college students to make healthy decisions that will help them complete college, find and retain jobs, and become healthy, happy, and productive adults capable of having healthy families.\r\n\r\n2.\tPublic speaking, teaching, and leadership skills. In PHE training sessions, PHE Health Educators learn how to manage a classroom of high school students and communicate effectively with them, learning skills that are useful in the job market. PHE student leaders also learn to manage a group of their peers. \r\n\r\n3.\tA commitment to public service. Many PHE volunteers are inspired by their experience and go on to become teachers, doctors, public interest lawyers, and policymakers, who will continue to serve their communities throughout their lives. "
   partners_collaboration: "All of the following partnerships are confirmed for the 2014-15 school year:\r\nUniversity of Southern CA\r\nCal State Northridge\r\nOccidental College\r\nLA Alliance College-Ready Schools\r\nPartnerships to Uplift Communities (PUC) Schools\r\nGreen Dot Schools\r\nNew Village Girls Academy\r\nEnvironmental Charter HS\r\n\r\nWe have worked with each of the above partners in past years, with great success. \r\n\r\nOn the college side, each campus has demonstrated a commitment to serving our communities and a student culture invested in volunteerism. Occidental students are especially committed to social justice, as per the mission of their school. CSUN students are especially relatable to our teens, as most come from the communities we serve in the San Fernando Valley (some are even alumni of our high school partners). USC students live in South LA, one of the communities with the greatest need for our program. \r\n\r\nWe must meet a recruitment goal of 150% more applications than we have space for in our cohort to maintain a high degree of volunteer selectivity. College volunteers must also commit to attending weekly trainings led by our staff, and must teach at least 7 times each by the end of the academic year.\r\n\r\nOn the high school side, each of these schools and networks has demonstrated the willingness to provide time and space for our program during the school day, supported by host teachers who are invested in the program's success. PUC Schools and LA Alliance Schools, for the first time, are now sharing the costs of our program.\r\n\r\nOur program must have a 40-60 minute time slot during the school day, be able to reach the entire 9th grade in the school, and have a committed and supportive host teacher in the classroom at all times in order to achieve success."
-  metrics_live_healthyfood: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'
@@ -126,7 +83,7 @@ maker_answers:
   metrics_live_treecanopy: '0'
   metrics_live_other: '0'
   metrics_live_blank: ''
-  impact_metrics: "We directly provide instruction on where and how teens can access healthcare resources in their communities, and on understanding the signs of mental illness, addressing the stigma against naming mental illness, and understanding the seriousness of mental health and the impact it can have on a young person, a family and a community. We expect to see more teens accessing mental health services thanks to our program. \r\n\r\nOur skills-based instruction also builds the confidence and strengthens the agency of young people, factors directly connected to increasing their resilience. As young people become more resilient, so do LA's communities, now and in the future. \r\n\r\nWe also have a secondary impact on teens' progress to high school graduation, and on college students' level of civic engagement in low-income communities throughout LA County."
+  resources_network: '1'
   best_place_to_create: '0'
   best_place_to_play: '0'
   best_place_to_connect: '1'
@@ -150,8 +107,53 @@ maker_answers:
   resources_education: '1'
   resources_technical: '1'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '1'
+  impact_metrics: "We directly provide instruction on where and how teens can access healthcare resources in their communities, and on understanding the signs of mental illness, addressing the stigma against naming mental illness, and understanding the seriousness of mental health and the impact it can have on a young person, a family and a community. We expect to see more teens accessing mental health services thanks to our program. \r\n\r\nOur skills-based instruction also builds the confidence and strengthens the agency of young people, factors directly connected to increasing their resilience. As young people become more resilient, so do LA's communities, now and in the future. \r\n\r\nWe also have a secondary impact on teens' progress to high school graduation, and on college students' level of civic engagement in low-income communities throughout LA County."
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  I have contacted community organizations & subject matter experts that have
+  agreed to partner with our organization to "Green The Block" in a West Long
+  Beach neighborhood most impacted by GHG emissions and from local pollution
+  sources. 
+   
+   We will launch with outreach and education to community members in an effort to create awareness/acceptance around environmental health, energy-efficient homes, growing food locally, drought tolerant landscaping and gray water systems, and living more sustainable, green-focused lifestyles. 
+   
+   The next step will be to identify homeowners within a block radius that will participate and support Green The Block efforts. We will identify homeowners via local community groups, churches, neighborhood associations and school groups. Once we have homeowners identified, we will determine home & yard improvements via energy audits, soil tests and urban farming potential evaluations.
+   
+   Funders will be encouraged to sponsor particular areas of interest to their organization (Victory Farm, Energy Efficiency audits…) and homeowners will be encouraged to provide sweat equity to ensure engagement in the initiative. Local government officials will also be asked to support and promote the initiative as well.
+What is your idea/project in more detail?: >-
+  Imagine an entire block of homes in a residential neighborhood retrofitted to
+  ensure healthy indoor air quality, helping to reduce the number of
+  asthma/upper respiratory cases experienced by children and adults each year.
+  Picture the front and back yard of these homes landscaped with either drought
+  tolerant vegetation or food producing plants, being watered with recycled
+  water from gray water systems. And picture neighbors engaged and working with
+  other neighbors to grow fresh food, trade their harvest with other neighbors
+  and help grow a community garden nearby.
+   
+   We will accomplish this goal block by block, family by family, and in one underserved community after the next, until entire LA neighborhoods are transformed into "Green The Block" communities.
+What will you do to implement this idea/project?: >-
+  Low-income families/homeowners not able to complete energy & health related
+  improvements to their homes
+   Children and adults suffering from asthma/upper respiratory diseases
+   Families living in food desert areas and/or unable to afford quality food choices.
+   Long term unemployed workers, including veterans, working mothers, displaced workers, youth at risk, foster youth and re-entry communities.
+How will your idea/project help make LA the best place to connect today? In LA2050?: |-
+  Long Beach Fresh - confirmed
+   Foodscape - confirmed
+   Building Healthy Communities - confirmed
+   Spring St. Farm - confirmed
+   Long Beach Office of Sustainability - confirmed
+   Grant & Associates Energy Audits- confirmed
+   
+   Green Education Inc has worked with all of the above partners on outreach programs via Building Healthy Communities (BHC) Neighborhood Workgroup for the past 3-4 years. We have implemented education programs re: energy efficiency, renewable energy, urban/community farming in the BHC service area in an effort to engage and educate low-income community members about the benefits of green & sustainable lifestyles.
+   
+   3 factors critical to success:
+   Joint outreach and education effort in target neighborhood to ensure Green The Block initiative is clearly described, behavioral change is achieved, new behaviors are established, reinforced, rewarded and sustainable within each family household.
+   Clear expectations established for each partner organization re: roles, tasks, deliverables, timelines/due dates, goals and budget.
+   Ongoing communication & reporting process is established for project members to ensure all project components are planned, designed, launched and evaluated on a regular basis.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
+youtube_video_identifier: RQJ6YjAJTNY
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -486,7 +488,5 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '1'
-body_class: lime
-published: true
 
 ---

@@ -1,72 +1,22 @@
 ---
+published: true
+organization_id: '2016161'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102162'
 title: Los Angeles Resilience Rating System
 project_summary: >-
   The LA Resilience Rating System will help building projects prepare for
   disaster by creating a healthier city today. 
-category: live
-organization_id: '2016161'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20921%252Fdisplay%252FResilience-3_02.jpg=c570x385
 project_video: ''
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  This project will be building off of the success of the existing Nature
-  Parkway. First we will re-engage the Friends of the Nature Parkway made up of
-  community groups, organizations, businesses, students and residents who were
-  instrumental in establishing the Nature Parkway and still are involved in
-  maintaining the urban trail. The first phase of community dialogue events will
-  inform the local community about how to get involved with revitalizing their
-  sidewalk spaces into safe urban trails. Surveys will be collected to inform us
-  the extent of current sidewalk space utilization. 
-   Through a community involved assessment, the pre-selected sidewalks connecting to the existing Nature Parkway, will identify the type of beautification resources needed for each block. Whether it is planning more native plants, covering areas with decomposed granite or cleaning the current landscape, a log of needs will inform the beautification plan. The main project leaders will be responsible for acquiring all necessary permits. A partial allocation of awarded funds will be used to offer light food and refreshments to community members who are involved the process. Informational signage for the type of plants used will be designed and installed. The signs will look similar to what is seen in local city and state parks. The result will be a detailed list of the number of tools and other resources to revitalize sidewalks into complete urban trails. 
-   Our ongoing contributors and LA 2050 funding will make gathering all of the resources required possible to complete the beautification phases. We will outreach to local surrounding businesses to attain the right tools to complete the Nature Parkway project. Community events that provide connections to community resources, free delicious healthy food, hydration stations and fun will create a public space for community members to unite for a common cause. These events will be open to all community residents and businesses that have a stake in this community investment. We will outreach to nearby schools, community organizations and other members using social media outlets. Groups will be made up of folks who either want to plant, remove debris, or install signage along the Nature Parkway. These volunteers will be made up of original and new Friends of the Nature Parkway. Our relationship and increased engagement will be made possible by facilitating continuous communication in a public sphere.
-What is your idea/project in more detail?: >-
-  Historically the East San Fernando Valley experienced racial segregation and
-  continuous resource disparities which negatively affected the built
-  environment and health of its residents. In one of the target neighborhoods,
-  Pacoima, residents experience some of the highest rates of obesity (17%) and
-  asthma (20%.) Our neighborhoods are park poor (54 acres) and decades of
-  unregulated business activity attributed to increased levels of toxicity.
-  Specifically, this project’s safe urban trails will bring together Pacoima,
-  Arleta and Mission Hills through safe walkable sidewalks. Stakeholders will
-  have an aesthetic drought resistant landscaped path that is long term
-  self-sustaining, uses minimal water, while restoring the user’s health and
-  balancing the eco-system. Urban trail maps will help all visitors and locals
-  to recognize and use the revitalized environment which helps to make them feel
-  safer, healthier and better connected to the services and goods they require.
-  Together we will put more eyes on the street and leave the car in the garage. 
-   Community stewardship will form a sense of ownership for the project because the sidewalk will be restored by every one of us. Those who partake in the planting will be able to adopt the plant and secure its longevity. Children and adults alike will be establishing roots in our community. A powerful method to bring along change in our community is to offer opportunities for education and hands on experience. The main group of organizers will produce a revitalization plan that has minimal maintenance while mimicking natural systems to create beautiful living spaces that nourish people and celebrate nature. 
-   The project will also be a place to learn how to maintain a clean and healthy environment as well as establishing a more active lifestyle. Informational signage will be installed, similar to what is seen in local city and state parks. Mile markers along the path will help the user track their distance in the hopes that they reach their fitness goals. The user will be informed on how the habitat enhances not only their well-being but also that of the native animals. Local schools will now have an accessible native plant path enabling hands on learning. Children will become health champions. Minimizing our carbon footprint by being on foot or bicycle can increase mobility, put more eyes on the street, increase community stewardship and stimulate local business activity.
-What will you do to implement this idea/project?: >-
-  The project will benefit the densely populated communities living in close
-  proximity to four connected streets (Devonshire St., Canterbury Ave., Van Nuys
-  Blvd., and San Fernando Rd.) , approximately a 7 mile distance. All
-  stakeholders ranging from households, to educators, to business owners will
-  benefit. When residents feel safe to walk in their neighborhoods instead of
-  jumping into their car, residents will re-familiarize themselves with the type
-  of pedestrian friendly culture they or their older relatives’ experience
-  before coming to this country. 
-   From an early age small children will grow up knowing walking up and down urban trails is the thing to do. This opportunity will secure them with the safety they need to grow stronger. Playing outside and discovering the animals that use the urban trail as their habitat can be a game of show and tell for parent and child. The expanded tree canopy coverage would be ideal for parents to push strollers and for seniors to increase mobility. Parents can feel secure to let their children off the stroller since the extra green foliage will act as a buffer between them and the street.
-   For school children to be part of a LA2050 initiative that makes their own LA neighborhood a better place to live will make them long term community stewards for a better well-being. Walking to and from school can be their new norm. Along the trail exists three schools with approximately 3300 students cumulatively and one highly used park. The urban trails will better connect them to their school and park of choice.
-   Canterbury Avenue has a very special grove, lined with nurseries and community gardens. The urban trail will create a safe path to Arleta High School, Beachy Ave. Elementary School, Canterbury Elementary and Branford Park. An opportunity exists to bring the first farmer’s market to this area. The uptick in foot traffic and increase promotion through the urban trail map will stimulate the local economy. 
-   San Fernando Road stretches over 1.5 miles for residents to walk, ride, or run. The busy street is well lit and plants are starting to grow and blossom bright floral colors. It is already highly utilized because of the number of commuter bus stops. On Van Nuys Blvd. a color explosion occurred when youth driven art mural projects started to replace graffiti. Along the pathway users have accessibility to city resources through the neighborhood City Hall offices, postal office, library, health services and restaurants.
-How will your idea/project help make LA the best place to connect today? In LA2050?: |-
-  Confirmed:
-   Friends of the Nature Parkway: Offices of Congreesman Tony Cardenas, Los Angeles County Supervisor Zev Yaroslavsky, Senator Padilla, Assemblymember Bocanegra, LA City Councilmembers Nury Martinez and Felipe Fuentes; Students from: Arleta High School Eco-Club, Valor Academy, San Fernando High School, Neighborhood Councils: Mission Hills, Arleta, Pacoima, Panorama City; Community Based Organizations: Initiating Change in Our Neighborhood, Comision Femenil SFV, Los Angeles City Waste Management, Laborer Locals 300; Neighborhood Watch Groups: Mission Area LAPD, Mission Hills Basic Car, Arleta Community Watch Dogs; Tajo Landscape
-   Pending:
-   Community bike and ride groups; community gardeners; LA Street Vendors Campaign; Northeast Valley Health Corporation, Valley Care Community Consortium, LA Food Policy Council; Los Angeles Mayor Garcetti; LAUSD Board member , Monica Ratlliff; Sylmar High School Horticulture Department; San Fernando Community Health Center, Proyecto del Barrio, M.E.N.D; Tia Chucha’s;Tree People, LA Open Acres
-   Each of these partners share the value of revitalizing our sidewalks to increase the number of safe streets, enhance our resident’s health and improve the environment. In some form or another they all contributed resources whether they be tools, labor, expertise, promotion, labor, monetary contribution or volunteer hours to turn a blighted sidewalk into a nature parkway. Five years later they are still waiting for us to stretch the parkway into more urban trails. For this project we will have to re-ignite the conversation with all of our past partners and form new partnerships.
-   The three main factors which are critical to our success are leadership, communication and teamwork. The Nature Parkway’s project manager will help make it possible to extend urban trails because of her leadership ability to pay attention to detail without undermining the biggest asset which are the partners and residents. She will help us get the right team members to the decision making table. Communication will be key, since no formal group already exists to carry on the work. Continuous communication will help keep all informed in the project’s process. Lastly teamwork is necessary to understand what is going well and what needs to be ameliorated. Volunteers including experts who donate services will be engaged by the opportunity to self-identify their role and execute the right action leading towards the main goal.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-maker_image_id: '20921'
-maker_image_file_name: Resilience-3_02.jpg
 project_areas:
   - SFV
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: US Green Building Council-Los Angeles
+  metrics_live_healthyfood: '1'
   org_website: 'http://usgbc-la.org'
   org_twitter: '@USGBCLA'
   org_facebook: >-
@@ -118,7 +68,7 @@ maker_answers:
   impact_live: "LA faces many threats beyond earthquakes. Climate change will bring more drought, more heat waves, bigger storms and rising sea levels, as well as disruptions in agriculture, energy supply and other economic impacts. Add to this our aging infrastructure, rising housing costs and high unemployment. Hurricanes Katrina and Sandy have given us a preview of coming attractions of what can happen in a disaster. Without taking drastic action, LA is at risk. We must prepare for the worst by helping to create the best LA now.\r\n\r\nThe good news is that resilience strategies can solve more than one problem at a time. The answer lies in making our core systems stronger, our built environment more durable, our infrastructure more distributed, and our communities more connected. For example, using reclaimed water or on-site solar power not only can support what the Resilient Design Institute founder Alex Wilson calls “passive survivability,” they also reduce utility bills and carbon emissions. Community gardens not only support a distributed food supply, they also provide fresh and healthy food, exercise and opportunities for community members to connect. Tree plantings not only provide shade in a warmed climate and help with stormwater management, they also provide cleaner air, habitat and beauty in the short term.  Community-based healthcare facilities not only decentralize the location of potential first responders, they also enable broader access and programs that are tailored to local populations. And the work needed to implement all of these strategies for the future can create good jobs today. Moving toward resilience not only will prepare us for disaster, it will provide an opportunity for us to create the LA of our dreams. \r\n\r\nThe goal of the of the LA Resilience Rating System is to provide projects with a road map for tackling tough issues in ways that achieve measurable results, prepare them for disasters in the future, and enable them to recover quickly and fully to a place of health and vitality. Investing in preparation for the future means improving quality of life today. \r\n"
   who_benefit: "Overall, this project’s implementation will help anyone who lives or works in or around a building that employs this rating system, improving quality of life in the near term and mitigating catastrophe in the long term. Residents and employees at participating buildings will feel the benefits most directly, but it will also help achieve the goals of property owners, developers, community development corporations and city leaders. With specific processes, best practices and performance metrics, this project has the potential to elevate the evaluation and implementation of resilience at a range of scales. \r\n\r\nIn particular the L.A. Resilience Rating System will:\r\n•\tProvide resilience-related technical guidance to our test case projects\r\n•\tGive technical guidance and recognitions to anyone working on a building-related project in the region, including building owners, developers, campuses, community groups, planning/design/construction professionals, and facilities operators  \r\n•\tProvide a process for project teams to actively engage communities within or adjacent to their projects\r\n•\tProvide clear performance criteria that can be used by those involved in evaluating, approving, regulating or funding projects, including local officials, community groups, banks and lenders, or insurance providers, in order to verify that projects reduce risks and serve the public good. \r\n•\tOffer a usable model to other organizations and cities seeking to address resilience\r\n•\tCreate an opportunity for interdisciplinary collaboration and collective learning among members of the Advisory Committee\r\n•\tSupport emerging leaders from LACCD campuses and build capacity around resilience\r\n•\tProvide a resource for all USGBC and Enterprise stakeholders on topics that are not fully currently addressed by existing rating systems, including social equity and disaster preparedness  \r\n"
   partners_collaboration: "The US Green Building Council’s LA Chapter (USGBC-LA) will lead this project in collaboration with the Enterprise Community Partners Southern California office and the LA Community College District. USGBC-LA is a non-profit whose mission is to promote sustainability in Southern California’s built environment by delivering access to knowledge, resources, recognition and networking. The USGBC is the nation’s foremost environmental coalition, and innovator of the LEED (Leadership in Energy and Environmental Design) Rating System. \r\n\r\nLACCD is the largest community college system in the USA with 9 campuses and 250,000 students. USGBC-LA and LACCD have been in partnership on training, building, and strengthening the green workforce in LA for the past ten years. Projects include yearly conferences, trainings on sustainable facility operations, and the City's Green Business Certification Program. LACCD is about to launch a process to develop emergency preparedness plans for each of its nine campuses. The diverse facilities, communities and programs that each campus represents will provide real world test cases for our team to consider in order to ensure that our final products are feasible, relevant and effective for a wide range of conditions. We will also offer two 6-month funded internships to LACCD students from relevant disciplines.\r\n\r\nEnterprise Community Partners is a national nonprofit community investment company providing expertise for developing affordable housing and building sustainable communities. Enterprise has worked closely with USGBC National on a variety of projects including the development of the Enterprise Green Communities Criteria.  Enterprise has invested more than $1 billion in Southern California to expand the supply of green, affordable housing and is committed to advancing equitable transit-oriented development.   They bring technical expertise in rating systems development as well as the direct and test case projects development, financing and implementation of new construction, adaptive reuse, renewable energy, and green infrastructure projects.  \r\n\r\nThe keys to the success of this collaboration are open communication, mutual respect and a clear work plan. Ultimately, our shared commitment to the core goals of resilience and our shared vision of the potential of this project to bring positive change to the region underlie all of our interactions and will enable us to be successful. \r\n"
-  metrics_live_healthyfood: '1'
+  city_state: 'Los Angeles, CA'
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '1'
@@ -136,7 +86,7 @@ maker_answers:
   metrics_live_blank: >-
     Ability of communities to survive, recover and rebound fully after
     emergencies. 
-  impact_metrics: "While our proposal specifically focuses on the “Percentage of LA communities that are resilient (Dream Metric),” the project has the potential to impact every one of the metrics on the list. \r\n\r\nConnected communities are the backbones of resilience. Building projects must look beyond their site boundaries and work with their neighbors in new ways. While community engagement is often required on large development projects, it will be a new endeavor for either single building new construction or existing building operations projects. Therefore, our rating system will include a clear step-by-step process to help projects identify and engage stakeholders—the people who will live or work within their boundaries and the people who live nearby, including disadvantaged and vulnerable populations that may be harder to reach. This will facilitate increased social connectedness while enabling communities to identify current threats, shared vision, and opportunities for resilience through collaboration. \r\n\r\nMany of the strategies that support resilience result in other benefits at the same time. For example, the answers to minimizing the impact of downed power lines, destroyed water pipes, or crumbled roads that result from earthquakes or major storms might involve everything from connecting communities with bike lanes, installing rainwater capture systems, creating training programs for building operators to serve as first responders, installing solar panels, renovating buildings, creating community gardens, developing programs to support the elderly or at-risk youth, or throwing parties so neighbors can connect. Each of these efforts can contribute to other LA2050 goals, not only in the LIVE category but also in the CONNECT, LEARN, CREATE and PLAY categories as well. In fact, the LA2050 goals and associated metrics map seamlessly with resilience. The LA Resilience Rating System will help building projects and their communities work together to prepare for emergencies in ways that create better, healthier, more connected places for all. \r\n"
+  resources_network: '1'
   best_place_to_create: '1'
   best_place_to_play: '1'
   best_place_to_connect: '1'
@@ -155,8 +105,58 @@ maker_answers:
   resources_education: '0'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '0'
+  impact_metrics: "While our proposal specifically focuses on the “Percentage of LA communities that are resilient (Dream Metric),” the project has the potential to impact every one of the metrics on the list. \r\n\r\nConnected communities are the backbones of resilience. Building projects must look beyond their site boundaries and work with their neighbors in new ways. While community engagement is often required on large development projects, it will be a new endeavor for either single building new construction or existing building operations projects. Therefore, our rating system will include a clear step-by-step process to help projects identify and engage stakeholders—the people who will live or work within their boundaries and the people who live nearby, including disadvantaged and vulnerable populations that may be harder to reach. This will facilitate increased social connectedness while enabling communities to identify current threats, shared vision, and opportunities for resilience through collaboration. \r\n\r\nMany of the strategies that support resilience result in other benefits at the same time. For example, the answers to minimizing the impact of downed power lines, destroyed water pipes, or crumbled roads that result from earthquakes or major storms might involve everything from connecting communities with bike lanes, installing rainwater capture systems, creating training programs for building operators to serve as first responders, installing solar panels, renovating buildings, creating community gardens, developing programs to support the elderly or at-risk youth, or throwing parties so neighbors can connect. Each of these efforts can contribute to other LA2050 goals, not only in the LIVE category but also in the CONNECT, LEARN, CREATE and PLAY categories as well. In fact, the LA2050 goals and associated metrics map seamlessly with resilience. The LA Resilience Rating System will help building projects and their communities work together to prepare for emergencies in ways that create better, healthier, more connected places for all. \r\n"
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  This project will be building off of the success of the existing Nature
+  Parkway. First we will re-engage the Friends of the Nature Parkway made up of
+  community groups, organizations, businesses, students and residents who were
+  instrumental in establishing the Nature Parkway and still are involved in
+  maintaining the urban trail. The first phase of community dialogue events will
+  inform the local community about how to get involved with revitalizing their
+  sidewalk spaces into safe urban trails. Surveys will be collected to inform us
+  the extent of current sidewalk space utilization. 
+   Through a community involved assessment, the pre-selected sidewalks connecting to the existing Nature Parkway, will identify the type of beautification resources needed for each block. Whether it is planning more native plants, covering areas with decomposed granite or cleaning the current landscape, a log of needs will inform the beautification plan. The main project leaders will be responsible for acquiring all necessary permits. A partial allocation of awarded funds will be used to offer light food and refreshments to community members who are involved the process. Informational signage for the type of plants used will be designed and installed. The signs will look similar to what is seen in local city and state parks. The result will be a detailed list of the number of tools and other resources to revitalize sidewalks into complete urban trails. 
+   Our ongoing contributors and LA 2050 funding will make gathering all of the resources required possible to complete the beautification phases. We will outreach to local surrounding businesses to attain the right tools to complete the Nature Parkway project. Community events that provide connections to community resources, free delicious healthy food, hydration stations and fun will create a public space for community members to unite for a common cause. These events will be open to all community residents and businesses that have a stake in this community investment. We will outreach to nearby schools, community organizations and other members using social media outlets. Groups will be made up of folks who either want to plant, remove debris, or install signage along the Nature Parkway. These volunteers will be made up of original and new Friends of the Nature Parkway. Our relationship and increased engagement will be made possible by facilitating continuous communication in a public sphere.
+What is your idea/project in more detail?: >-
+  Historically the East San Fernando Valley experienced racial segregation and
+  continuous resource disparities which negatively affected the built
+  environment and health of its residents. In one of the target neighborhoods,
+  Pacoima, residents experience some of the highest rates of obesity (17%) and
+  asthma (20%.) Our neighborhoods are park poor (54 acres) and decades of
+  unregulated business activity attributed to increased levels of toxicity.
+  Specifically, this project’s safe urban trails will bring together Pacoima,
+  Arleta and Mission Hills through safe walkable sidewalks. Stakeholders will
+  have an aesthetic drought resistant landscaped path that is long term
+  self-sustaining, uses minimal water, while restoring the user’s health and
+  balancing the eco-system. Urban trail maps will help all visitors and locals
+  to recognize and use the revitalized environment which helps to make them feel
+  safer, healthier and better connected to the services and goods they require.
+  Together we will put more eyes on the street and leave the car in the garage. 
+   Community stewardship will form a sense of ownership for the project because the sidewalk will be restored by every one of us. Those who partake in the planting will be able to adopt the plant and secure its longevity. Children and adults alike will be establishing roots in our community. A powerful method to bring along change in our community is to offer opportunities for education and hands on experience. The main group of organizers will produce a revitalization plan that has minimal maintenance while mimicking natural systems to create beautiful living spaces that nourish people and celebrate nature. 
+   The project will also be a place to learn how to maintain a clean and healthy environment as well as establishing a more active lifestyle. Informational signage will be installed, similar to what is seen in local city and state parks. Mile markers along the path will help the user track their distance in the hopes that they reach their fitness goals. The user will be informed on how the habitat enhances not only their well-being but also that of the native animals. Local schools will now have an accessible native plant path enabling hands on learning. Children will become health champions. Minimizing our carbon footprint by being on foot or bicycle can increase mobility, put more eyes on the street, increase community stewardship and stimulate local business activity.
+What will you do to implement this idea/project?: >-
+  The project will benefit the densely populated communities living in close
+  proximity to four connected streets (Devonshire St., Canterbury Ave., Van Nuys
+  Blvd., and San Fernando Rd.) , approximately a 7 mile distance. All
+  stakeholders ranging from households, to educators, to business owners will
+  benefit. When residents feel safe to walk in their neighborhoods instead of
+  jumping into their car, residents will re-familiarize themselves with the type
+  of pedestrian friendly culture they or their older relatives’ experience
+  before coming to this country. 
+   From an early age small children will grow up knowing walking up and down urban trails is the thing to do. This opportunity will secure them with the safety they need to grow stronger. Playing outside and discovering the animals that use the urban trail as their habitat can be a game of show and tell for parent and child. The expanded tree canopy coverage would be ideal for parents to push strollers and for seniors to increase mobility. Parents can feel secure to let their children off the stroller since the extra green foliage will act as a buffer between them and the street.
+   For school children to be part of a LA2050 initiative that makes their own LA neighborhood a better place to live will make them long term community stewards for a better well-being. Walking to and from school can be their new norm. Along the trail exists three schools with approximately 3300 students cumulatively and one highly used park. The urban trails will better connect them to their school and park of choice.
+   Canterbury Avenue has a very special grove, lined with nurseries and community gardens. The urban trail will create a safe path to Arleta High School, Beachy Ave. Elementary School, Canterbury Elementary and Branford Park. An opportunity exists to bring the first farmer’s market to this area. The uptick in foot traffic and increase promotion through the urban trail map will stimulate the local economy. 
+   San Fernando Road stretches over 1.5 miles for residents to walk, ride, or run. The busy street is well lit and plants are starting to grow and blossom bright floral colors. It is already highly utilized because of the number of commuter bus stops. On Van Nuys Blvd. a color explosion occurred when youth driven art mural projects started to replace graffiti. Along the pathway users have accessibility to city resources through the neighborhood City Hall offices, postal office, library, health services and restaurants.
+How will your idea/project help make LA the best place to connect today? In LA2050?: |-
+  Confirmed:
+   Friends of the Nature Parkway: Offices of Congreesman Tony Cardenas, Los Angeles County Supervisor Zev Yaroslavsky, Senator Padilla, Assemblymember Bocanegra, LA City Councilmembers Nury Martinez and Felipe Fuentes; Students from: Arleta High School Eco-Club, Valor Academy, San Fernando High School, Neighborhood Councils: Mission Hills, Arleta, Pacoima, Panorama City; Community Based Organizations: Initiating Change in Our Neighborhood, Comision Femenil SFV, Los Angeles City Waste Management, Laborer Locals 300; Neighborhood Watch Groups: Mission Area LAPD, Mission Hills Basic Car, Arleta Community Watch Dogs; Tajo Landscape
+   Pending:
+   Community bike and ride groups; community gardeners; LA Street Vendors Campaign; Northeast Valley Health Corporation, Valley Care Community Consortium, LA Food Policy Council; Los Angeles Mayor Garcetti; LAUSD Board member , Monica Ratlliff; Sylmar High School Horticulture Department; San Fernando Community Health Center, Proyecto del Barrio, M.E.N.D; Tia Chucha’s;Tree People, LA Open Acres
+   Each of these partners share the value of revitalizing our sidewalks to increase the number of safe streets, enhance our resident’s health and improve the environment. In some form or another they all contributed resources whether they be tools, labor, expertise, promotion, labor, monetary contribution or volunteer hours to turn a blighted sidewalk into a nature parkway. Five years later they are still waiting for us to stretch the parkway into more urban trails. For this project we will have to re-ignite the conversation with all of our past partners and form new partnerships.
+   The three main factors which are critical to our success are leadership, communication and teamwork. The Nature Parkway’s project manager will help make it possible to extend urban trails because of her leadership ability to pay attention to detail without undermining the biggest asset which are the partners and residents. She will help us get the right team members to the decision making table. Communication will be key, since no formal group already exists to carry on the work. Continuous communication will help keep all informed in the project’s process. Lastly teamwork is necessary to understand what is going well and what needs to be ameliorated. Volunteers including experts who donate services will be engaged by the opportunity to self-identify their role and execute the right action leading towards the main goal.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -489,7 +489,7 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: lime
-published: true
+maker_image_id: '20921'
+maker_image_file_name: Resilience-3_02.jpg
 
 ---

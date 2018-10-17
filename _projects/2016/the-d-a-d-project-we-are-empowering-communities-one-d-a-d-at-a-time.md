@@ -1,31 +1,22 @@
 ---
+published: true
 organization_id: '2016062'
 year_submitted: 2016
-organization_name: D.A.D Project
-organization_website: www.dadproject.org
-ein: ''
-project_image_2: 7019184355741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102058'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-d-a-d-project-we-are-empowering-communities-one-d-a-d-at-a-time!
 title: 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
-organization_name_2: D.A.D Project
-organization_activity: >-
-  Provide Workshops, Training and Events to help fathers understand the value of
-  supporting their child's academic development, and provide resources that
-  support fathers' and their families!
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7019184355741-team90.jpg
-project_video: ''
 project_summary: >-
   The D.A.D Proejct was developed to help fathers undersand the importance of
   father/male involvement in their child's educational developement, by
   providing programs that support school readiness goals
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7019184355741-team90.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None!
-project_areas:
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - Inglewood
 project_measure: >-
   Program successes will be measured by the following measurable outcomes:
 
@@ -80,6 +71,28 @@ project_impact: >-
   education","Student education pipeline","Students’ perceived sense of safety
   at and on the way to school","Suspension and expulsion rates","Truancy rates
   in elementary and middle schools","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Provide Opportunities for fathers and other male role models to take an active
+  role in the life and development of their children, families, and community.
+  The project proposal is seeking funding to provide opportunities for fathers
+  and other male role models to gain knowledge and skills in making a positive
+  impact in the lives of children and families.
+project_areas:
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - Inglewood
 project_proposal_best_place: >-
   The purpose of this proposal is for D.A.D Project to provide programs in Los
   Angeles County to help change the culture for men and youth in the community,
@@ -103,28 +116,15 @@ project_proposal_best_place: >-
   School”                                                                                                                                              
   Ref. Harvard Family Research Project.
    By educating parents on their importance and the responsibility of advocating for their children. Our partnership will further the opportunity to spark positive change in the community by empowering and promoting fatherhood and parent engagement in all grade levels. Where we will identify communities where there is a lack of parent involvement and the negative correlation to graduation rates.  Children are at risk of not completing high school, and it’s important for parents to better support their children education by attending college prep trainings, job fairs, stress and communication workshops, health fairs, literacy and S.T.E.A.M programs designed to empower parents to encourage their children to further their education.  D.A.D Project provides support programs and resources for fathers to strengthen the quality of life for participants and their families.  Helping fathers get jobs to provide financial stability in the home, which empowers him to be a positive role model, and offering activities for fathers to participate with their families that strengthen relationships between fathers and their children, and support parent relationships offer a sense of security for their children. Most importantly, connecting the community with young leaders, interns from local colleges to support and encourage students to pursue their education.  The quality of our programs and collaborative partners is the determining factor that makes D.A.D Project a unique contributor to making L.A the best place to learn by empowering and strengthening parent/father engagement.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-d-a-d-project-we-are-empowering-communities-one-d-a-d-at-a-time!
+project_image_2: 7019184355741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Provide Opportunities for fathers and other male role models to take an active
-  role in the life and development of their children, families, and community.
-  The project proposal is seeking funding to provide opportunities for fathers
-  and other male role models to gain knowledge and skills in making a positive
-  impact in the lives of children and families.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Student education pipeline
-  - Students’ perceived sense of safety at and on the way to school
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: D.A.D Project
+organization_website: www.dadproject.org
+organization_name_2: D.A.D Project
+organization_activity: >-
+  Provide Workshops, Training and Events to help fathers understand the value of
+  supporting their child's academic development, and provide resources that
+  support fathers' and their families!
+ein: ''
 
 ---

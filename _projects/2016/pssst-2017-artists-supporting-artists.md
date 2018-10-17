@@ -1,27 +1,21 @@
 ---
+published: true
 organization_id: '2016179'
 year_submitted: 2016
-organization_name: PSSST
-organization_website: www.pssst.xyz
-ein: ''
-project_image_2: 4400390065741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102192'
+challenge_url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
 title: 'PSSST 2017: Artists Supporting Artists  '
-organization_name_2: PSSST
-organization_activity: >-
-  PSSST is an artist-run interdisciplinary nonprofit exhibition and performance
-  space founded on the principle of artists supporting artists.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
-project_video: ''
 project_summary: >-
   PSSST will amplify Los Angeles’ role as an international arts center by
   expanding our 2017 interdisciplinary programming, which is driven by the
   concept of artists supporting artists.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
 project_measure: >-
   PSSST will consider our project successful if we:
 
@@ -81,6 +75,24 @@ project_impact: >-
   cultural and global economic influence (“soft power”)","Minority- and
   women-owned firms","Percentage of graduates from local higher education
   institutions that remain in LA County 5 years after graduating"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+project_proposal_description: >-
+  PSSST will cultivate and amplify Los Angeles’ role as an international arts
+  center by expanding our 2017 interdisciplinary programming that includes: LA
+  Artist Residency, Inter/National Residency, Young Artist Fellowship, Community
+  Conversations, Crit Club, exhibitions and performances, film screenings,
+  lectures, and live music. Our 2017 programming, driven by the concept of
+  artists supporting artists, will present 80 underrepresented artists at 50
+  events for more than 5000 audiences.
+project_areas:
+  - Central LA
 project_proposal_best_place: >-
   LA is becoming the US capital for contemporary art, attracting artists through
   cheaper rents and ample space. In an inscrutable and hierarchical art world,
@@ -136,26 +148,14 @@ project_proposal_best_place: >-
   Coordinator Pilar Gallego is a transgender Latinx artist. Young Artist Fellow,
   Brenzy Solorzano, is an undocumented Chicana developing a long-term exhibition
   project.
-challenge_url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
+project_image_2: 4400390065741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  PSSST will cultivate and amplify Los Angeles’ role as an international arts
-  center by expanding our 2017 interdisciplinary programming that includes: LA
-  Artist Residency, Inter/National Residency, Young Artist Fellowship, Community
-  Conversations, Crit Club, exhibitions and performances, film screenings,
-  lectures, and live music. Our 2017 programming, driven by the concept of
-  artists supporting artists, will present 80 underrepresented artists at 50
-  events for more than 5000 audiences.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - >-
-    Percentage of graduates from local higher education institutions that remain
-    in LA County 5 years after graduating
-category: create
-body_class: banana
-published: true
+organization_name: PSSST
+organization_website: www.pssst.xyz
+organization_name_2: PSSST
+organization_activity: >-
+  PSSST is an artist-run interdisciplinary nonprofit exhibition and performance
+  space founded on the principle of artists supporting artists.
+ein: ''
 
 ---

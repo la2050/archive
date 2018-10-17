@@ -1,30 +1,19 @@
 ---
+published: true
 organization_id: '2016140'
 year_submitted: 2016
-organization_name: Los Angeles World Airports
-organization_website: www.lawa.org
-ein: ''
-project_image_2: 0987534165741-team90.png
+category: learn
+body_class: blueberry
 project_id: '6102147'
+challenge_url: >-
+  https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
 title: LOS ANGELES WORLD AIRPORTS INTRODUCES LA STUDENTS TO LIFES POSSIBILITIES.
-organization_name_2: Los Angeles World Airports
-organization_activity: >-
-  Los Angeles World Airports Internship Program provides students opportunities
-  to develop the skills to work in the aviation industry.
+project_summary: Los Angeles World Airports - educational opportunities that pay!
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0987534165741-team90.png
 project_video: 'https://www.youtube.com/embed/GURgU8nO6rM?rel=0&amp;showinfo=0'
-project_summary: Los Angeles World Airports - educational opportunities that pay!
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - LAUSD
-  - County wide; but targetting local students
 project_measure: >-
   Success for the project begins with hiring students and placing them in a
   professional setting. Success continues as students begin to learn and enjoy
@@ -45,6 +34,26 @@ project_description: >-
 project_impact: >-
   ["College completion","College matriculation rates","Early education","Student
   education pipeline","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Early education
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  The goal of this project is to directly impact students by providing them with
+  paid learning opportunities. With the wide scope of divisions within Los
+  Angeles World Airports, we aspire to provide students with positions that will
+  help develop future career goals. We hope to expand the existing program from
+  12 to 25 positions.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - LAUSD
+  - County wide; but targetting local students
 project_proposal_best_place: >-
   The goal of the project is to allow students to learn as they are on the job.
   It is expected that they acquire skills in customer service, basic clerical
@@ -63,23 +72,14 @@ project_proposal_best_place: >-
   environment, the staff provides an insight into how a degree can open several
   doors and career pathways that students may not have known existed prior to
   the internship.
-challenge_url: >-
-  https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
+project_image_2: 0987534165741-team90.png
 empty_column_1: ''
-project_proposal_description: >-
-  The goal of this project is to directly impact students by providing them with
-  paid learning opportunities. With the wide scope of divisions within Los
-  Angeles World Airports, we aspire to provide students with positions that will
-  help develop future career goals. We hope to expand the existing program from
-  12 to 25 positions.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - Early education
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Los Angeles World Airports
+organization_website: www.lawa.org
+organization_name_2: Los Angeles World Airports
+organization_activity: >-
+  Los Angeles World Airports Internship Program provides students opportunities
+  to develop the skills to work in the aviation industry.
+ein: ''
 
 ---

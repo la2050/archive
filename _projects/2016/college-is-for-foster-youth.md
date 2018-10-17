@@ -1,28 +1,21 @@
 ---
+published: true
 organization_id: '2016244'
 year_submitted: 2016
-organization_name: United Friends of the Children
-organization_website: www.unitedfriends.org
-ein: '953665186'
-project_image_2: 1483407105741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102270'
+challenge_url: 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
 title: College IS for Foster Youth!
-organization_name_2: United Friends of the Children
-organization_activity: >-
-  UFC empowers foster youth on their journey to self-sufficiency through
-  service-enriched education and housing programs, advocacy, & consistent
-  relationships with a community of people who care.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
-project_video: 'https://player.vimeo.com/video/169895416?rel=0&amp;showinfo=0'
 project_summary: >-
   By providing LA County foster youth with a support network of caring adults
   and a host of program opportunities, the project will help more than 700 youth
   to reach successful independence.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
+project_video: 'https://player.vimeo.com/video/169895416?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   UFC measures success for our programs in the ultimate success of the youth we
   serve.  For our education programs, the ultimate impact we seek is attainment
@@ -64,6 +57,19 @@ project_description: >-
   with more than 50% matriculating directly to 4-yr. schools;  70% of those in
   our College Sponsorship program earn a Bachelors within 5 years.
 project_impact: '["College completion","College matriculation rates"]'
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+project_proposal_description: >-
+  Believing that college access and success is the best path to
+  self-sufficiency, United Friends of the Children has created an 11-year
+  educational support continuum that helps foster youth graduate from high
+  school, aspire to and attain college acceptance, and earn their Bachelors
+  degree.  100% of those in our Readiness program 4 years or more graduate HS,
+  with more than 50% matriculating directly to 4-yr. schools;  70% of those in
+  our College Sponsorship program earn a Bachelors within 5 years.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   UFC has created an 11-year education support continuum that follows foster
   youth from the seventh grade through the completion of a Bachelor’s degree.
@@ -108,21 +114,15 @@ project_proposal_best_place: >-
   CRP and attending universities through the CSP.  In 2016, 18 seniors
   participating in the CRP joined the latest cohort in the CSP.  In total, more
   than 200 students will participate in the CSP.
-challenge_url: 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
+project_image_2: 1483407105741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Believing that college access and success is the best path to
-  self-sufficiency, United Friends of the Children has created an 11-year
-  educational support continuum that helps foster youth graduate from high
-  school, aspire to and attain college acceptance, and earn their Bachelors
-  degree.  100% of those in our Readiness program 4 years or more graduate HS,
-  with more than 50% matriculating directly to 4-yr. schools;  70% of those in
-  our College Sponsorship program earn a Bachelors within 5 years.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-category: learn
-body_class: blueberry
-published: true
+organization_name: United Friends of the Children
+organization_website: www.unitedfriends.org
+organization_name_2: United Friends of the Children
+organization_activity: >-
+  UFC empowers foster youth on their journey to self-sufficiency through
+  service-enriched education and housing programs, advocacy, & consistent
+  relationships with a community of people who care.
+ein: '953665186'
 
 ---

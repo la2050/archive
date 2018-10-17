@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016168'
 year_submitted: 2016
-organization_name: 'PEN Center USA, ''PEN USA'''
-organization_website: penusa.org
-ein: ''
-project_image_2: 4957308744741-team88.jpg
+category: create
+body_class: banana
 project_id: '6102180'
+challenge_url: >-
+  https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
 title: >-
   Emerging Voices Fellowship: Creating Diverse Literary Artists Through
   Mentorship
-organization_name_2: 'PEN Center USA, ''PEN USA'''
-organization_activity: >-
-  PEN Center USA advocates for imprisoned, censored, and persecuted writers
-  throughout the world, while cultivating and expanding a diverse and engaged
-  literary community in the western United States.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4957308744741-team88.jpg
-project_video: 'https://www.youtube.com/embed/L9QrXSUROQ0?rel=0&amp;showinfo=0'
 project_summary: >-
   Annually, PEN Center USA produces and presents a seven-month Emerging Voices
   Fellowship pairing five budding writers with professional Los Angeles-based
   writer/mentors.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4957308744741-team88.jpg
+project_video: 'https://www.youtube.com/embed/L9QrXSUROQ0?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   EV seeks to provide new writers from minority, immigrant and other
   underrepresented communities with the tools to launch a professional writing
@@ -80,10 +74,10 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]
-project_proposal_best_place: "The Emerging Voices (EV) Fellowship makes LA the best place to create by reducing the barriers to arts participation for disenfranchised writers, early in their careers, by improving their skills and providing arts programming in community-based organizations. EV grew out of PEN USA’s 1994 forum “Writing the Immigrant Experience,” which explored the issues and challenges faced by first-and second-generation immigrant writers who reported feeling isolated from the literary establishment. In the fall of 1996, PEN USA initiated EV as a literary mentorship to launch potential professional writers from minority, immigrant, and other underserved communities into the publishing world\n\nEV identifies five writers in the early stages of their literary careers and pairs each with a LA-based writer/mentor. These five Fellows then partake in eight program components:\n1.\tMonthly meetings with their writer/mentors who provide a glimpse into a writer’s day-to-day life. Past mentors include Ron Carlson, Harryette Mullen, Meghan Daum, and Sherman Alexie.\n2.\tA 12-week writing course and a one-day workshop, donated by the Writers' Program at UCLA Extension. \n3.\tA genre-specific, four-session workshop (fiction, creative nonfiction, or poetry) with an established author. \n4.\tWeekly public and private series of intimate conversations with a visiting author, editor, or publisher whose book or works the Fellows have read. Past participants include Victoria Chang, Samantha Dunn, Douglas Kearney, and Dan Smetanka.\n5.\tA one-day voice instruction workshop. \n6.\tReading selections of their works at venues in Los Angeles, culminating with a Final Reading. \n7.\tA 25-hour literary-related volunteer project with a community-based organization, which increases the public’s opportunity to engage with the arts. \n8.\t$1,000 stipend.\n\nEV components unmask aspects of the publishing process and introduce Fellows to ke figures within the literary and publishing industry in the LA area. Fellows complete the fellowship with a portfolio of resources that include: \n* A logline that summarizes their work.\n* Individualized notes from their mentor.\n* A clear action plan for finishing their project.\n* An editing guide from a professional copy editor.\n* Submission strategies for literary journals, agents, residencies and fellowships.\n* A professional author photo and bio.\n\nEV makes LA the best place to create by engaging LA-based writers as mentors and presenters; offering free and low-cost author conversations and readings across the city; increasing organizations’ capacity to deliver arts programming where Fellows volunteer; diversifying the pool of employable writers; and creating an avenue for Fellows to establish their arts’ enterprises, such as EV alum Natashia Deón’s Dirty Laundry Lit. \n\nEV also impacts the dream metrics of cultural and global economic influence as Fellows add to the diversity of national literary voices previously missing in publishing."
-challenge_url: >-
-  https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
-empty_column_1: ''
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
 project_proposal_description: >-
   PEN USA will select five individuals who are in the early stages of their
   literary careers—based on their writing talent, potential, and limited access
@@ -92,12 +86,18 @@ project_proposal_description: >-
   classes through the UCLA Extension Writers’ Program; attend genre-specific
   classes; receive a nominal stipend; participate in a volunteer project; and
   share their works at public readings.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-category: create
-body_class: banana
-published: true
+project_areas:
+  - City of Los Angeles
+project_proposal_best_place: "The Emerging Voices (EV) Fellowship makes LA the best place to create by reducing the barriers to arts participation for disenfranchised writers, early in their careers, by improving their skills and providing arts programming in community-based organizations. EV grew out of PEN USA’s 1994 forum “Writing the Immigrant Experience,” which explored the issues and challenges faced by first-and second-generation immigrant writers who reported feeling isolated from the literary establishment. In the fall of 1996, PEN USA initiated EV as a literary mentorship to launch potential professional writers from minority, immigrant, and other underserved communities into the publishing world\n\nEV identifies five writers in the early stages of their literary careers and pairs each with a LA-based writer/mentor. These five Fellows then partake in eight program components:\n1.\tMonthly meetings with their writer/mentors who provide a glimpse into a writer’s day-to-day life. Past mentors include Ron Carlson, Harryette Mullen, Meghan Daum, and Sherman Alexie.\n2.\tA 12-week writing course and a one-day workshop, donated by the Writers' Program at UCLA Extension. \n3.\tA genre-specific, four-session workshop (fiction, creative nonfiction, or poetry) with an established author. \n4.\tWeekly public and private series of intimate conversations with a visiting author, editor, or publisher whose book or works the Fellows have read. Past participants include Victoria Chang, Samantha Dunn, Douglas Kearney, and Dan Smetanka.\n5.\tA one-day voice instruction workshop. \n6.\tReading selections of their works at venues in Los Angeles, culminating with a Final Reading. \n7.\tA 25-hour literary-related volunteer project with a community-based organization, which increases the public’s opportunity to engage with the arts. \n8.\t$1,000 stipend.\n\nEV components unmask aspects of the publishing process and introduce Fellows to ke figures within the literary and publishing industry in the LA area. Fellows complete the fellowship with a portfolio of resources that include: \n* A logline that summarizes their work.\n* Individualized notes from their mentor.\n* A clear action plan for finishing their project.\n* An editing guide from a professional copy editor.\n* Submission strategies for literary journals, agents, residencies and fellowships.\n* A professional author photo and bio.\n\nEV makes LA the best place to create by engaging LA-based writers as mentors and presenters; offering free and low-cost author conversations and readings across the city; increasing organizations’ capacity to deliver arts programming where Fellows volunteer; diversifying the pool of employable writers; and creating an avenue for Fellows to establish their arts’ enterprises, such as EV alum Natashia Deón’s Dirty Laundry Lit. \n\nEV also impacts the dream metrics of cultural and global economic influence as Fellows add to the diversity of national literary voices previously missing in publishing."
+project_image_2: 4957308744741-team88.jpg
+empty_column_1: ''
+organization_name: 'PEN Center USA, ''PEN USA'''
+organization_website: penusa.org
+organization_name_2: 'PEN Center USA, ''PEN USA'''
+organization_activity: >-
+  PEN Center USA advocates for imprisoned, censored, and persecuted writers
+  throughout the world, while cultivating and expanding a diverse and engaged
+  literary community in the western United States.
+ein: ''
 
 ---

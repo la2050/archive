@@ -1,25 +1,22 @@
 ---
+published: true
 organization_id: '2016079'
 year_submitted: 2016
-organization_name: Food & Water Watch
-organization_website: foodandwaterwatch.org
-ein: ''
-project_image_2: 7867733165741-team90.png
+category: live
+body_class: lime
 project_id: '6102069'
+challenge_url: >-
+  https://challenge.la2050.org/entry/turning-los-angeles-into-a-renewable-energy-leader
 title: Turning Los Angeles into a Renewable Energy Leader
-organization_name_2: Food & Water Watch
-organization_activity: Food & Water Watch champions healthy food and clean water for all.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
-project_video: ''
 project_summary: >-
   It’s time for L.A. be a global leader and make the transition to 100% clean,
   renewable energy by 2030 - we will build political power in communities across
   L.A. to make this transition a reality.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: ''
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   We will immediately produce a blueprint report, written by renewable energy
   experts, for how Los Angeles can make this transition and use it as a tool to
@@ -42,6 +39,17 @@ project_description: >-
   fuels, Food & Water Watch is undertaking a strategic campaign to transition
   Los Angeles from oil, gas, and coal to 100% renewable energy by 2030.
 project_impact: '["Waterways","Exposure to air toxins","Local water","Resilient communities"]'
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Local water
+  - Resilient communities
+project_proposal_description: >-
+  Building on our work to ban fracking and end our dependence on dirty fossil
+  fuels, Food & Water Watch is undertaking a strategic campaign to transition
+  Los Angeles from oil, gas, and coal to 100% renewable energy by 2030.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   In Los Angeles, residents struggle to live with some of the worst air quality
   in the nation. The oil we extract, refine and burn and our natural gas
@@ -83,20 +91,12 @@ project_proposal_best_place: >-
   imperative for Los Angeles, a coastal city that is vulnerable to droughts,
   fires, sea-level rise and acidifying oceans to make a bold commitment and lead
   on the 100% renewable energy future our city deserves.
-challenge_url: >-
-  https://challenge.la2050.org/entry/turning-los-angeles-into-a-renewable-energy-leader
+project_image_2: 7867733165741-team90.png
 empty_column_1: ''
-project_proposal_description: >-
-  Building on our work to ban fracking and end our dependence on dirty fossil
-  fuels, Food & Water Watch is undertaking a strategic campaign to transition
-  Los Angeles from oil, gas, and coal to 100% renewable energy by 2030.
-project_proposal_impact:
-  - Waterways
-  - Exposure to air toxins
-  - Local water
-  - Resilient communities
-category: live
-body_class: lime
-published: true
+organization_name: Food & Water Watch
+organization_website: foodandwaterwatch.org
+organization_name_2: Food & Water Watch
+organization_activity: Food & Water Watch champions healthy food and clean water for all.
+ein: ''
 
 ---

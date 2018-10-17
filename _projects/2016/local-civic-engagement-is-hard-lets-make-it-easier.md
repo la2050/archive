@@ -1,28 +1,22 @@
 ---
+published: true
 organization_id: '2016213'
 year_submitted: 2016
-organization_name: The Burg
-organization_website: burg.io
-ein: ''
-project_image_2: 0402902265741-team89.jpg
+category: connect
+body_class: tangerine
 project_id: '6102247'
+challenge_url: >-
+  https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
 title: 'Local civic engagement is hard. Let’s make it easier.  '
-organization_name_2: The Burg
-organization_activity: >-
-  Our organization's mission is to improve local political and community based
-  involvement by creating a user-friendly online platform that lowers the
-  barriers to civic engagement.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
-project_video: 'https://www.youtube.com/embed/oaYNAjDLsxk?rel=0&amp;showinfo=0'
 project_summary: >-
   The Burg is an innovative digital public square that connects communities and
   gives los angeles residents the tools to address local issues and
   #buildbettercities.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
+project_video: 'https://www.youtube.com/embed/oaYNAjDLsxk?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   We will consider The Burg a success if we accomplish the following:
 
@@ -74,6 +68,23 @@ project_impact: >-
   needs","Participation in neighborhood councils","Rates of volunteerism","Total
   number of local social media friends and connections Angelenos have","Voting
   rates"]
+project_proposal_impact:
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
+project_proposal_description: >-
+  The Burg is an online platform that will make it easy for individuals to
+  address the local issues of their community in real time. The Burg will
+  connect members of a district and allow them to communicate directly through
+  collective expression (i.e. petitions, campaigns, public service projects). By
+  creating a private space dedicated to informing and organizing members of a
+  community, the Burg will connect LA residents and cultivate civic engagement
+  in a truly innovative way.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   We built the Burg in response to the lack of local civic engagement and
   community involvement we noticed in our city.  After meeting with dozens of
@@ -125,26 +136,15 @@ project_proposal_best_place: >-
   unlock some of that potential. We believe through the use of technology, we
   can make LA the best place to connect by lowering some of the barriers that
   inhibit civic engagement.
-challenge_url: >-
-  https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
+project_image_2: 0402902265741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The Burg is an online platform that will make it easy for individuals to
-  address the local issues of their community in real time. The Burg will
-  connect members of a district and allow them to communicate directly through
-  collective expression (i.e. petitions, campaigns, public service projects). By
-  creating a private space dedicated to informing and organizing members of a
-  community, the Burg will connect LA residents and cultivate civic engagement
-  in a truly innovative way.
-project_proposal_impact:
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-  - Voting rates
-category: connect
-body_class: tangerine
-published: true
+organization_name: The Burg
+organization_website: burg.io
+organization_name_2: The Burg
+organization_activity: >-
+  Our organization's mission is to improve local political and community based
+  involvement by creating a user-friendly online platform that lowers the
+  barriers to civic engagement.
+ein: ''
 
 ---

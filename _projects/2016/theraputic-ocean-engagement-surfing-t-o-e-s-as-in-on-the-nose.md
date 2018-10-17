@@ -1,32 +1,19 @@
 ---
+published: true
 organization_id: '2018114'
 year_submitted: 2016
-organization_name: Surf Bus Foundation
-organization_website: www.surfbusfoundation.org
-ein: '463169840'
-project_image_2: 8758171455741-team90.jpg
+category: play
+body_class: strawberry
 project_id: '6102221'
+challenge_url: >-
+  https://challenge.la2050.org/entry/theraputic-ocean-engagement-surfing-t-o-e-s-as-in-on-the-nose!
 title: 'Theraputic Ocean Engagement: Surfing (T.O.E.S. as in, on the nose!)'
-organization_name_2: Surf Bus Foundation
-organization_activity: >-
-  The Surf Bus Foundation empowers people to have a healing connection to the
-  sea by engaging in ocean sports like surfing, swimming, and beach games, while
-  exploring the wondrous beauty of the sea.
+project_summary: 'Therapeutic Ocean Engagement: Surfing (T.O.E.S)'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8758171455741-team90.jpg
 project_video: 'https://www.youtube.com/embed/mTtQd9ZOG1E?rel=0&amp;showinfo=0'
-project_summary: 'Therapeutic Ocean Engagement: Surfing (T.O.E.S)'
 project_is_collaboration: 'Yes'
 project_collaborators: Surf Academy (for surf equipment rentals)
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   We like to say the best surfer in the water is the one having the most fun!  
 
@@ -79,6 +66,30 @@ project_impact: >-
   spaces for play","Number of children enrolled in afterschool programs","Number
   of parks with intergenerational play opportunities","Per capita crime
   rates","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Per capita crime rates
+  - Perceived safety
+project_proposal_description: >-
+  TOES programming breaks down barriers of access to LA County beaches.  Surf
+  Bus invites LA City Park and Recreation Departments out to the beaches of Los
+  Angeles to become 'ocean literate' and we provide the transportation, bathing
+  suits, wetsuits, surf boards, boogie boards, munchies, and the ocean safety
+  and education needed to surfvive and thrive in Los Angeles!  Our program has a
+  measurable positive impact on the self-esteem, motivation, endurance, and
+  trust (in self) of our participants.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   We are a social justice organization working to connect at-risk youth with the
   wonder and healing power of the sea. We believe that the ocean, a healing
@@ -127,26 +138,15 @@ project_proposal_best_place: >-
   environments. Our ocean safety education is empowering. We teach youth how
   they can make a difference by becoming ocean stewards, starting in their own
   communities, and thereby protecting the Santa Monica Bay for all to enjoy.
-challenge_url: >-
-  https://challenge.la2050.org/entry/theraputic-ocean-engagement-surfing-t-o-e-s-as-in-on-the-nose!
+project_image_2: 8758171455741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  TOES programming breaks down barriers of access to LA County beaches.  Surf
-  Bus invites LA City Park and Recreation Departments out to the beaches of Los
-  Angeles to become 'ocean literate' and we provide the transportation, bathing
-  suits, wetsuits, surf boards, boogie boards, munchies, and the ocean safety
-  and education needed to surfvive and thrive in Los Angeles!  Our program has a
-  measurable positive impact on the self-esteem, motivation, endurance, and
-  trust (in self) of our participants.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of children enrolled in afterschool programs
-  - Number of parks with intergenerational play opportunities
-  - Per capita crime rates
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: Surf Bus Foundation
+organization_website: www.surfbusfoundation.org
+organization_name_2: Surf Bus Foundation
+organization_activity: >-
+  The Surf Bus Foundation empowers people to have a healing connection to the
+  sea by engaging in ocean sports like surfing, swimming, and beach games, while
+  exploring the wondrous beauty of the sea.
+ein: '463169840'
 
 ---

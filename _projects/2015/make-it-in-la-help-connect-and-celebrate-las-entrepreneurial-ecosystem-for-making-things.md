@@ -1,11 +1,13 @@
 ---
+published: true
+organization_id: '2018079'
+year_submitted: 2015
+category: create
+body_class: banana
 project_id: '5102201'
 title: >-
   Make it in LA – help connect and celebrate LA’s entrepreneurial ecosystem for
   making things
-organization_id: '2018079'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   Everyone knows LA is a center for design, culture, and tech -- but did you
   know it’s also the largest manufacturing hub in the country? Preliminary
@@ -14,19 +16,6 @@ project_summary: >-
   network, accessing capital, and navigating government. Make it in LA is
   piloting an effort to help startups and growing companies connect and succeed
   in the design and manufacturing ecosystem of LA.
-Please specify below: ''
-category: create
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
-maker_image_id: '24018'
-maker_image_file_name: makeitinla_logo.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24018%252Fdisplay%252Fmakeitinla_logo.jpg=c570x385
 project_areas:
@@ -41,8 +30,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
-  How did you hear about this challenge?: Tara Roth
   'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   Organization(s) name(s): Make it in LA
   Organization(s) mailing address(es): '2901 Beach Ave, Venice, CA, 90291'
   Organization(s) website(s): 'http://makeitinla.org'
@@ -92,7 +81,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  How did you hear about this challenge?: Tara Roth
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -111,6 +100,42 @@ maker_answers:
   How will your proposal improve the following “Create” metrics? Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric): '0'
   How will your proposal improve the following “Create” metrics? Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric): '0'
   Describe in greater detail how you will make LA the best place to create.: "Los Angeles is the largest manufacturing center in the country, in diverse industries ranging from food and fashion to aerospace and electronics. Preliminary results of a forthcoming study of 1,600 LA County companies have found that LA manufacturing is growing, and there is interest in growing local sourcing and engaging with startups. But companies face significant challenges, including accessing capital, connecting to LA’s complex supplier network, and navigating government. \r\nMake it in LA is a new public-private partnership that will pilot efforts to grow the ecosystem of making things. The first initiative will strengthen the networks between manufacturers in the LA area and potential customers, with a special focus on startups. We will put companies on a technology platform to connect contract manufacturers and customers and enable them to better develop and respond to RFPs, and help promote LA companies with national directories. Events will engage the community, connect companies to potential sources of capital, and raise awareness of the LA manufacturing ecosystem. Make it in LA will help startups and established firms succeed in the design and manufacturing ecosystem of LA. "
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Network/relationship support
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Number of high growth startups
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     The LA ecosystem is very large and complex, so it is challenging to reach
     and connect the players. We’ve mitigated this by starting with a
@@ -153,47 +178,22 @@ maker_answers:
     their support first. We also believe that events will provide ample
     opportunities for sponsorship.
   'Please include a detailed budget of how you will use $100,000 to implement this project.': "$60,000 – program coordinator for marketing, event coordination, and participant outreach\r\n$20,000 – technology platform\r\n$10,000 – event budget (to be supplemented by sponsorship and partner funding)\r\n$10,000 – travel budget\r\n"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: >-
     Once the technology and the model is proven with 300-500 companies, we will
     be able to reach out to the broader audience of companies across more
     industries. We will work with partners to identify opportunities to connect
     diverse players across different industries and geographies.
-  Where will you be working?:
-    - Central LA
-    - East LA
-    - San Gabriel Valley
-    - San Fernando Valley
-    - South LA
-    - Westside
-    - South Bay
-    - Antelope Valley
-  How do you plan to use these resources to make change?:
-    - Engage residents and stakeholders
-    - Implement a pilot or new project
-    - Advocate with policymakers and leaders
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Publicity/awareness (social capital)
-    - 'Infrastructure (building/space/vehicles, etc.)'
-    - Network/relationship support
-  How will your proposal improve the following “Create” metrics?:
-    - Employment in the creative industries
-    - Concentration of manufacturing activity in LA
-    - Jobs per capita
-    - Minority- and women-owned firms
-    - Gini coefficient
-    - Number of high growth startups
+areas_impacted: ''
+partners: ''
+Please specify below: ''
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -645,8 +645,8 @@ maker_answers_list:
       will be able to reach out to the broader audience of companies across more
       industries. We will work with partners to identify opportunities to
       connect diverse players across different industries and geographies.
-body_class: banana
+maker_image_id: '24018'
+maker_image_file_name: makeitinla_logo.jpg
 organization_name: Make it in LA
-published: true
 
 ---

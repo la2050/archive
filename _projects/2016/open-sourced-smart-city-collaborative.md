@@ -1,26 +1,18 @@
 ---
+published: true
 organization_id: '2016040'
 year_submitted: 2016
-organization_name: City of West Hollywood
-organization_website: www.weho.org
-ein: ''
-project_image_2: 5488182355741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102039'
+challenge_url: 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
 title: Open Sourced Smart City Collaborative
-organization_name_2: City of West Hollywood
-organization_activity: >-
-  The City of West Hollywood, colloquially referred to as 'WeHo,' serves 35,000
-  residents in 1.9 square miles in the center of Los Angeles County.
+project_summary: Building a network of smart city best practices for the 88 cities in LA County
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5488182355741-team91.jpg
 project_video: ''
-project_summary: Building a network of smart city best practices for the 88 cities in LA County
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Westside
-  - County of Los Angeles
-  - City of West Hollywood
 project_measure: >-
   Success for the Open Sourced Smart City Collaborative will include
   participation in the collaborative by at least 16 (20%) cities in LA County,
@@ -42,6 +34,23 @@ project_description: >-
 project_impact: >-
   ["Access to free wifi","Government responsiveness to residents’ needs","Travel
   time to work","Public transit riders"]
+project_proposal_impact:
+  - Access to free wifi
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+project_proposal_description: >-
+  The City of West Hollywood will soon release an RFP for a Smart City Strategic
+  Plan. The plan will aim to solve a number of questions regarding project
+  priorities, funding options, implementation strategy, citizen privacy
+  concerns, and technology best practices. The LA2050 Grant would allow this
+  strategic plan to be open-sourced and serve as a model for other cities,
+  especially small cities, throughout the County, through development of an
+  interactive website and toolkit for other cities.
+project_areas:
+  - Westside
+  - County of Los Angeles
+  - City of West Hollywood
 project_proposal_best_place: >-
   The Open Sourced Smart City Collaborative, led by the City of West Hollywood,
   would build off the forthcoming West Hollywood Smart City Strategic Plan and
@@ -80,23 +89,14 @@ project_proposal_best_place: >-
   collaboration and provide a digital toolkit for our fellow LA County Cities. 
   West Hollywood would convene quarterly regional meetings to build the Smart
   City network across LA County.
-challenge_url: 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
+project_image_2: 5488182355741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The City of West Hollywood will soon release an RFP for a Smart City Strategic
-  Plan. The plan will aim to solve a number of questions regarding project
-  priorities, funding options, implementation strategy, citizen privacy
-  concerns, and technology best practices. The LA2050 Grant would allow this
-  strategic plan to be open-sourced and serve as a model for other cities,
-  especially small cities, throughout the County, through development of an
-  interactive website and toolkit for other cities.
-project_proposal_impact:
-  - Access to free wifi
-  - Government responsiveness to residents’ needs
-  - Travel time to work
-  - Public transit riders
-category: connect
-body_class: tangerine
-published: true
+organization_name: City of West Hollywood
+organization_website: www.weho.org
+organization_name_2: City of West Hollywood
+organization_activity: >-
+  The City of West Hollywood, colloquially referred to as 'WeHo,' serves 35,000
+  residents in 1.9 square miles in the center of Los Angeles County.
+ein: ''
 
 ---

@@ -1,55 +1,23 @@
 ---
+published: true
+organization_id: '2016093'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102087'
 title: Extending the East San Fernando Valley Nature Parkway
 project_summary: >-
   Revitalize underutilized sidewalks into urban trails to increase walkability
   and connectivity for active and healthier lifestyles. 
-category: live
-organization_id: '2016093'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/O0GqacCipYM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/O0GqacCipYM'
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  We currently have a feasibility study pending at CSUN, which, once completed,
-  would enable us to win private financing that would fund engineering,
-  acquisition of rights-of-way, and actual construction. Our team comprises
-  designers, engineers, outreach specialists, logistics experts, and former
-  terminal managers. We have also engaged in extensive outreach to local and
-  national labor unions, environmental organizations, and local citizens groups,
-  as well as municipal, state, and federal agencies and organizations. We will
-  continue to integrate all possible stakeholders in the region to ensure that
-  GRID truly improves life for ordinary citizens as well as government and
-  business entities.
-What is your idea/project in more detail?: >-
-  Between now and 2050, GRID will inexorably reduce freight truck traffic on
-  local and regional roads and freeways, reducing the pollution and congestion
-  that afflict communities rich and poor along the 710 corridor in eastern Los
-  Angeles County. At the same time, GRID will support increase export/import
-  traffic, which will bring more solid middle-class jobs to
-  economically-challenged communities.
-What will you do to implement this idea/project?: >-
-  *All cities along the 710 corridor, from Long Beach to Santa Fe Springs to
-  Pasadena
-   *Inland Empire cities where distribution centers and major railyards are sited (eg, Colton, San Bernardino)
-   *Residents of 710 corridor cities, who now suffer grave health effects from diesel pollution and intense traffic congestion
-   *Working people in a broad area, who will have more access to middle-skill jobs that pay well in warehousing and distribution, as well as the docks and railyards.
-   *The Ports of Los Angeles and Long Beach, who will suffer less truck traffic and will find new developable land in areas no longer needed for container storage
-   *Anyone who commutes by car, bus, or bicycle through the 710 corridor, since GRID will take large numbers of heavy trucks off the roads and freeways
-   *City, county, and state agencies who will enjoy extended road maintenance intervals as truck traffic is thinned out
-How will your idea/project help make LA the best place to connect today? In LA2050?: |-
-  Sierra Club (letters of support; confirmed)
-   CSUN (feasibility study awaiting funding; confirmed & enthusiastic)
-   USC (analysis; unconfirmed)
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-youtube_video_identifier: O0GqacCipYM
 project_areas:
   - EAST LA
   - SOUTH LA
   - SGV
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: Pacoima Beautiful
+  metrics_live_healthyfood: '1'
   org_website: www.pacoimabeautiful.org
   org_twitter: '@PB__Community'
   org_facebook: 'https://www.facebook.com/Pacoima.Beautiful'
@@ -100,7 +68,7 @@ maker_answers:
   impact_live: "Historically the East San Fernando Valley experienced racial segregation and continuous resource disparities which negatively affected the built environment and health of its residents. In one of the target neighborhoods, Pacoima, residents experience some of the highest rates of obesity (17%) and asthma (20%.) Our neighborhoods are park poor (54 acres) and decades of unregulated business activity attributed to increased levels of toxicity. Specifically, this project’s safe urban trails will bring together Pacoima, Arleta and Mission Hills through safe walkable sidewalks. Stakeholders will have an aesthetic drought resistant landscaped path that is long term self-sustaining, uses minimal water, while restoring the user’s health and balancing the eco-system. Urban trail maps will help all visitors and locals to recognize and use the revitalized environment which helps to make them feel safer, healthier and better connected to the services and goods they require. Together we will put more eyes on the street and leave the car in the garage. \r\nCommunity stewardship will form a sense of ownership for the project because the sidewalk will be restored by every one of us. Those who partake in the planting will be able to adopt the plant and secure its longevity. Children and adults alike will be establishing roots in our community. A powerful method to bring along change in our community is to offer opportunities for education and hands on experience. The main group of organizers will produce a revitalization plan that has minimal maintenance while mimicking natural systems to create beautiful living spaces that nourish people and celebrate nature. \r\nThe project will also be a place to learn how to maintain a clean and healthy environment as well as establishing a more active lifestyle. Informational signage will be installed, similar to what is seen in local city and state parks.  Mile markers along the path will help the user track their distance in the hopes that they reach their fitness goals. The user will be informed on how the habitat enhances not only their well-being but also that of the native animals. Local schools will now have an accessible native plant path enabling hands on learning. Children will become health champions. Minimizing our carbon footprint by being on foot or bicycle can increase mobility, put more eyes on the street, increase community stewardship and stimulate local business activity.\r\n"
   who_benefit: "The project will benefit the densely populated communities living in close proximity to four connected streets (Devonshire St., Canterbury Ave., Van Nuys Blvd., and San Fernando Rd.) , approximately a 7 mile distance.  All stakeholders ranging from households, to educators, to business owners will benefit. When residents feel safe to walk in their neighborhoods instead of jumping into their car, residents will re-familiarize themselves with the type of pedestrian friendly culture they or their older relatives’ experience before coming to this country. \r\nFrom an early age small children will grow up knowing walking up and down urban trails is the thing to do. This opportunity will secure them with the safety they need to grow stronger. Playing outside and discovering the animals that use the urban trail as their habitat can be a game of show and tell for parent and child. The expanded tree canopy coverage would be ideal for parents to push strollers and for seniors to increase mobility. Parents can feel secure to let their children off the stroller since the extra green foliage will act as a buffer between them and the street.\r\nFor school children to be part of a LA2050 initiative that makes their own LA neighborhood a better place to live will make them long term community stewards for a better well-being. Walking to and from school can be their new norm. Along the trail exists three schools with approximately 3300 students cumulatively and one highly used park. The urban trails will better connect them to their school and park of choice.\r\nCanterbury Avenue has a very special grove, lined with nurseries and community gardens. The urban trail will create a safe path to Arleta High School, Beachy Ave. Elementary School, Canterbury Elementary and Branford Park. An opportunity exists to bring the first farmer’s market to this area. The uptick in foot traffic and increase promotion through the urban trail map will stimulate the local economy. \r\nSan Fernando Road stretches over 1.5 miles for residents to walk, ride, or run. The busy street is well lit and plants are starting to grow and blossom bright floral colors. It is already highly utilized because of the number of commuter bus stops. On Van Nuys Blvd. a color explosion occurred when youth driven art mural projects started to replace graffiti. Along the pathway users have accessibility to city resources through the neighborhood City Hall offices, postal office, library, health services and restaurants.\r\n"
   partners_collaboration: "Confirmed:\r\nFriends of the  Nature Parkway: Offices of Congreesman Tony Cardenas, Los Angeles County Supervisor Zev Yaroslavsky, Senator Padilla, Assemblymember Bocanegra, LA City  Councilmembers Nury Martinez and Felipe Fuentes; Students from: Arleta High School Eco-Club, Valor Academy, San Fernando High School, Neighborhood Councils: Mission Hills, Arleta, Pacoima, Panorama City; Community Based Organizations: Initiating Change in Our Neighborhood, Comision Femenil SFV,  Los Angeles City Waste Management, Laborer Locals 300; Neighborhood Watch Groups: Mission Area LAPD, Mission Hills Basic Car, Arleta Community Watch Dogs; Tajo Landscape\r\nPending:\r\nCommunity bike and ride groups; community gardeners; LA Street Vendors Campaign; Northeast Valley Health Corporation, Valley Care Community Consortium,  LA Food Policy Council; Los Angeles Mayor Garcetti; LAUSD Board member , Monica Ratlliff; Sylmar High School Horticulture Department; San Fernando Community Health Center, Proyecto del Barrio, M.E.N.D; Tia Chucha’s;Tree People, LA Open Acres\r\nEach of these partners share the value of revitalizing our sidewalks to increase the number of safe streets, enhance our resident’s health and improve the environment. In some form or another they all contributed resources whether they be tools, labor, expertise, promotion, labor, monetary contribution or volunteer hours to turn a blighted sidewalk into a nature parkway. Five years later they are still waiting for us to stretch the parkway into more urban trails. For this project we will have to re-ignite the conversation with all of our past partners and form new partnerships.\r\nThe three main factors which are critical to our success are leadership, communication and teamwork. The Nature Parkway’s project manager will help make it possible to extend urban trails because of her  leadership ability to pay attention to detail without undermining the biggest asset which are the partners and residents. She will help us get the right team members to the decision making table. Communication will be key, since no formal group already exists to carry on the work. Continuous communication will help keep all informed in the project’s process. Lastly teamwork is necessary to understand what is going well and what needs to be ameliorated. Volunteers including experts who donate services will be engaged by the opportunity to self-identify their role and execute the right action leading towards the main goal.\r\n"
-  metrics_live_healthyfood: '1'
+  city_state: 'Los Angeles, CA'
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'
@@ -116,7 +84,7 @@ maker_answers:
   metrics_live_treecanopy: '1'
   metrics_live_other: '0'
   metrics_live_blank: ''
-  impact_metrics: "This project aims to enhance the residents’ well -being and revitalize the environment. By doing so there will be more active residents exercising or simply increase the amount of time they spent outside of their homes to enjoy their community. By referring to the urban trail map residents from all ages will get to know where to access healthy food options, where to begin their routine walk, run, skate or bike ride all while enjoying the shade and light breeze currently provided by the existing environment.  \r\n-\tTrail will better connect people to health care providers and also aid in preventative care by allowing people better access to physical activity. \r\n-\tAdding green space and a alternative mobility route will cut down on driving and lower pollution levels.\r\n-\tAdding permeable surfaces will replenish groundwater and lessen the need for imported water.\r\n-\tAdding swales and permeable surfaces will capture and treat stormwater runoff before it pollutes local waterways\r\n-\tProvide children with opportunities for physical activity and create a safe new space for them to play and access neighborhood amenities.\r\n-\tThis will help Pacoima, Arleta and Mission Hills address climate change by conserving water, lowering the urban heat island affect, and addressing air pollution. It will create a more sustainable and resilient community.\r\n"
+  resources_network: '1'
   best_place_to_create: '1'
   best_place_to_play: '1'
   best_place_to_connect: '1'
@@ -149,8 +117,42 @@ maker_answers:
   resources_education: '1'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '1'
+  impact_metrics: "This project aims to enhance the residents’ well -being and revitalize the environment. By doing so there will be more active residents exercising or simply increase the amount of time they spent outside of their homes to enjoy their community. By referring to the urban trail map residents from all ages will get to know where to access healthy food options, where to begin their routine walk, run, skate or bike ride all while enjoying the shade and light breeze currently provided by the existing environment.  \r\n-\tTrail will better connect people to health care providers and also aid in preventative care by allowing people better access to physical activity. \r\n-\tAdding green space and a alternative mobility route will cut down on driving and lower pollution levels.\r\n-\tAdding permeable surfaces will replenish groundwater and lessen the need for imported water.\r\n-\tAdding swales and permeable surfaces will capture and treat stormwater runoff before it pollutes local waterways\r\n-\tProvide children with opportunities for physical activity and create a safe new space for them to play and access neighborhood amenities.\r\n-\tThis will help Pacoima, Arleta and Mission Hills address climate change by conserving water, lowering the urban heat island affect, and addressing air pollution. It will create a more sustainable and resilient community.\r\n"
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  We currently have a feasibility study pending at CSUN, which, once completed,
+  would enable us to win private financing that would fund engineering,
+  acquisition of rights-of-way, and actual construction. Our team comprises
+  designers, engineers, outreach specialists, logistics experts, and former
+  terminal managers. We have also engaged in extensive outreach to local and
+  national labor unions, environmental organizations, and local citizens groups,
+  as well as municipal, state, and federal agencies and organizations. We will
+  continue to integrate all possible stakeholders in the region to ensure that
+  GRID truly improves life for ordinary citizens as well as government and
+  business entities.
+What is your idea/project in more detail?: >-
+  Between now and 2050, GRID will inexorably reduce freight truck traffic on
+  local and regional roads and freeways, reducing the pollution and congestion
+  that afflict communities rich and poor along the 710 corridor in eastern Los
+  Angeles County. At the same time, GRID will support increase export/import
+  traffic, which will bring more solid middle-class jobs to
+  economically-challenged communities.
+What will you do to implement this idea/project?: >-
+  *All cities along the 710 corridor, from Long Beach to Santa Fe Springs to
+  Pasadena
+   *Inland Empire cities where distribution centers and major railyards are sited (eg, Colton, San Bernardino)
+   *Residents of 710 corridor cities, who now suffer grave health effects from diesel pollution and intense traffic congestion
+   *Working people in a broad area, who will have more access to middle-skill jobs that pay well in warehousing and distribution, as well as the docks and railyards.
+   *The Ports of Los Angeles and Long Beach, who will suffer less truck traffic and will find new developable land in areas no longer needed for container storage
+   *Anyone who commutes by car, bus, or bicycle through the 710 corridor, since GRID will take large numbers of heavy trucks off the roads and freeways
+   *City, county, and state agencies who will enjoy extended road maintenance intervals as truck traffic is thinned out
+How will your idea/project help make LA the best place to connect today? In LA2050?: |-
+  Sierra Club (letters of support; confirmed)
+   CSUN (feasibility study awaiting funding; confirmed & enthusiastic)
+   USC (analysis; unconfirmed)
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
+youtube_video_identifier: O0GqacCipYM
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -495,7 +497,5 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '1'
-body_class: lime
-published: true
 
 ---

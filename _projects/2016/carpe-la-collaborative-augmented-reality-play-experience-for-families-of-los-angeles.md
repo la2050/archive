@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016250'
 year_submitted: 2016
-organization_name: USC Annenberg Innovation Lab
-organization_website: annenberglab.com
-ein: ''
-project_image_2: 1328398065741-team91.jpg
+category: play
+body_class: strawberry
 project_id: '6102277'
+challenge_url: >-
+  https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
 title: >-
   CARPE LA: collaborative augmented reality play experience for families of Los
   Angeles
-organization_name_2: USC Annenberg Innovation Lab
-organization_activity: >-
-  Annenberg Innovation Lab at University of Southern California is a research
-  and development hub fostering real-world innovation at the dynamic
-  intersection of media and culture.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
-project_video: 'https://www.youtube.com/embed/flxMXmBJItU?rel=0&amp;showinfo=0'
 project_summary: >-
   CARPE LA blends digital and physical play as teams work together to discover,
   collect and unlock the secrets of a fantasy world overlaid on their local
   neighborhood park.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
+project_video: 'https://www.youtube.com/embed/flxMXmBJItU?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: Artifact Technologies
-project_areas:
-  - East LA
-  - Westside
 project_measure: >-
   We will measure success of the project based on: 1) participation rates at
   events and 2) quality of play experiences reported by participants. We will
@@ -86,6 +79,18 @@ project_description: >-
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play opportunities"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+project_proposal_description: >-
+  CARPE LA is mobile experience designed to get teams of kids and adults outside
+  to play a story-driven, location-based game in parks throughout LA. Through a
+  series of summer events at which CARPE LA will be played, teams will
+  collaborate to unlock the open spaces in their neighborhoods.
+project_areas:
+  - East LA
+  - Westside
 project_proposal_best_place: >-
   Research shows that intergenerational play supports language development,
   critical thinking, and emotional connections among families and communities.
@@ -130,20 +135,15 @@ project_proposal_best_place: >-
   reflective play that parks encourage: running, jumping, climbing, all the way
   to observing, imagining and discovering. It is the best of both worlds,
   brought together through a compelling story and social connections.
-challenge_url: >-
-  https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
+project_image_2: 1328398065741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  CARPE LA is mobile experience designed to get teams of kids and adults outside
-  to play a story-driven, location-based game in parks throughout LA. Through a
-  series of summer events at which CARPE LA will be played, teams will
-  collaborate to unlock the open spaces in their neighborhoods.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-category: play
-body_class: strawberry
-published: true
+organization_name: USC Annenberg Innovation Lab
+organization_website: annenberglab.com
+organization_name_2: USC Annenberg Innovation Lab
+organization_activity: >-
+  Annenberg Innovation Lab at University of Southern California is a research
+  and development hub fostering real-world innovation at the dynamic
+  intersection of media and culture.
+ein: ''
 
 ---

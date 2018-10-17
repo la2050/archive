@@ -1,9 +1,11 @@
 ---
+published: true
+organization_id: '2015179'
+year_submitted: 2015
+category: play
+body_class: strawberry
 project_id: '5102266'
 title: Together We Play L.A.!
-organization_id: '2015179'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   Shane's Inspiration will help eliminate bullying by designing/developing 2
   fully inclusive playgrounds in South Central Los Angeles, uniting children of
@@ -12,8 +14,123 @@ project_summary: >-
   playgrounds into outdoor classrooms where profound lessons of acceptance and
   compassion are learned, helping to diminish harmful stereotypes that lead to
   bullying and exclusion.  
+project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/44E5ezgbzHg'
+project_areas:
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
+maker_answers:
+  'City, State': 'Sherman Oaks, CA'
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  Organization(s) name(s): Shane's Inspiration
+  Organization(s) mailing address(es): "15213 Burbank Blvd.\r\nSherman Oaks, CA  91411"
+  Organization(s) website(s): www.shanesinspiration.org
+  Organization(s) twitter handle(s): www.twitter.com/ShanesPlay
+  Organization(s) facebook handle(s): www.facebook.com/shanesinspiration
+  Organization(s) instagram handle(s): www.instagram.com/shanesplay
+  Please share the direct link for voters to sign up for your newsletter(s): 'http://shanesinspiration.tumblr.com/'
+  EIN (for each organization): 95-4760497
+  'Describe your organization(s): Non-profit': '1'
+  'Describe your organization(s): For-profit': '0'
+  'Describe your organization(s): Government': '0'
+  'Describe your organization(s): Other': '0'
+  'Describe your organization(s): Specifics': ''
+  'In one sentence, please describe what your organization does.': >-
+    Shane's Inspiration creates inclusive playgrounds and education programs
+    that unite children of all abilities.
+  'In one to three sentences, please describe your proposal.': >-
+    Shane's Inspiration will help eliminate bullying by designing/developing 2
+    fully inclusive playgrounds in South Central Los Angeles, uniting children
+    of all abilities through play.  Once open, Shane's Inspiration will
+    implement a city-wide school-based education program expansion that
+    transforms the playgrounds into outdoor classrooms where profound lessons of
+    acceptance and compassion are learned, helping to diminish harmful
+    stereotypes that lead to bullying and exclusion.  
+  Please write a sample tweet to describe your submission.: >-
+    Don't turn away. Stay and play! Help @ShanesPlay unite children of ALL
+    abilities! #InclusivePlay #NoBullying 
+  LA is the best place to LEARN: '1'
+  LA is the best place to CREATE: '1'
+  LA is the best place to CONNECT: '1'
+  LA is the healthiest place to LIVE: '1'
+  Where will you be working? Central LA: '0'
+  Where will you be working? East LA: '0'
+  Where will you be working? San Gabriel Valley: '0'
+  Where will you be working? San Fernando Valley: '0'
+  Where will you be working? South LA: '1'
+  Where will you be working? Westside: '0'
+  Where will you be working? South Bay: '0'
+  Where will you be working? Antelope Valley: '0'
+  Where will you be working? County of Los Angeles: '1'
+  Where will you be working? City of Los Angeles: '1'
+  Where will you be working? LAUSD: '1'
+  Where will you be working? Other: '0'
+  Where will you be working? Specifics: ''
+  How do you plan to use these resources to make change? Conduct research: '0'
+  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
+  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
+  How did you hear about this challenge?: Newsletter
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  How do you plan to use these resources to make change? Implement and track policy: '0'
+  How do you plan to use these resources to make change? Other: '1'
+  How do you plan to use these resources to make change? Specifics: Advocate for social inclusion via play with school staff and parents.
+  How will your proposal improve the following “Play” metrics? Access to open space and park facilities: '1'
+  How will your proposal improve the following “Play” metrics? Number of children enrolled in afterschool programs: '0'
+  How will your proposal improve the following “Play” metrics? Per capita crime rates: '0'
+  How will your proposal improve the following “Play” metrics? Percentage of residents that feel safe in their neighborhoods: '1'
+  How will your proposal improve the following “Play” metrics? Attendance at major league sporting events: '0'
+  How will your proposal improve the following “Play” metrics? Residents within 1⁄4 mile of a park (Dream Metric): '1'
+  How will your proposal improve the following “Play” metrics? Number of residents with easy access to a “vibrant” park (Dream Metric): '1'
+  How will your proposal improve the following “Play” metrics? Number of parks with intergenerational play opportunities (Dream Metric): '1'
+  How will your proposal improve the following “Play” metrics? Number (and quality) of informal spaces for play (Dream Metric): '0'
+  Describe in greater detail how you will make LA the best place to play.: "Building on the foundation that we are only as strong as we are united, Together We Play L.A.! will begin by creating two uniquely designed, fully-inclusive playgrounds in South Central Los Angeles at Jackie Tatum and Vermont Gage Park.  The collective play area will feature 20,000 square feet of sensory rich and challenging play opportunities for children of all abilities.\r\n\r\nUpon completion in February of 2016, Shane's Inspiration will transform these playgrounds, along with others already in progress throughout the County of Los Angeles, into classrooms bringing 3,500 children of all abilities together where they will learn profound lessons of acceptance, understanding and respect for diversity.    \r\n\r\nChildren with disabilities are 66% more likely to be bullied than their typically developing peers due to damaging misconceptions and bias.  By discovering our similarities and connections, children are able to build powerful bridges of friendship and inclusion.\r\n\r\nEducators will deliver interactive class workshops to elementary and middle school students designed to increase understanding of people with disabilities which will include:\r\n\r\nWriting and group discussion about feelings and assumptions about disabilities;\r\n\r\nA fast-paced verbal game that helps differentiate between disability fact and myth;\r\n\r\nA powerful video shows children with disabilities in their daily lives, giving students a chance to identify with their peers; and\r\n\r\nSimulation exercises offer possible perspectives of individuals with disabilities\r\n\r\nStaff workshops on social inclusion best practices and how to support students\r\n\r\nStudents are then prepared for their field trip with specific tools to interact with peers who have non-verbal communication, sensory processing differences, and physical challenges. \r\n\r\nWe provide transportation from the campus to the playground via local transit companies. Our staff meet the students at the playground, where we support children with and without disabilities during a day of integration and play. \r\n\r\nA classroom workshop will follow the field trip, including a written exercise, wrap-up discussion, Q & A and a closing activity that illustrates the reciprocity of the exchange.   \r\n\r\n“After being a buddy on my field trip, a person with a disability makes me feel like I want to play  with them and have fun. I don’t feel nervous anymore because they are just like me!\"  Emma, 4th Grade \r\n\r\nThis powerful acceptance of our diversity will make LA the very best place to play!"
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Advocate for social inclusion via play with school staff and parents.
+  Where will you be working?:
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "We anticipate that we may face the challenge of educators who have very impacted schedules.  This could make some hesitant to initiate a new program for their students.  To this end, we have aligned the education program with the Common Core and Character Counts to provide educators with an opportunity to satisfy mandated learning goals, while also providing inclusion strategies for the ever increasing integrated classroom.  We examined what educators required for their existing workload and designed the program to meet those needs rather than add more work.  \r\n\r\nIn order to provide the educators with further clarity, we are including a professional development training video that will walk the educators through each step of the program implementation.  A free webinar series will further explain in detail the process for implementing the program.\r\n"
+  Please explain how you will evaluate your work.: "\"You can learn more about someone in an hour of play than in a year of conversation.\" Plato\r\n\r\nOur educators will measure attitudinal shifts in students via pre- and post-field trip written assessments.  Prior to their field trips, students may communicate that they are: fearful of people in wheelchairs; sad and believe people with disabilities are unable to live a fulfilling life; afraid of touching people with disabilities because they are contagious; and afraid of being hurt by them. \r\n\r\nWritten assessments after the field trips may reveal a major shift in perception. In one classroom of 5th graders, the words sad and bad were repeated 90 times in their written assessments. After their field trip, those same words were used 19 times.\r\n\r\nEducators will also be given a written assessment form to provide valuable feedback on their experience of the program.\r\n\r\nIt is our goal to work in partnership with a local university to create a broader assessment of this program."
+  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "We live in an extraordinary community that features the contributions of many individuals, non-profit, and for profit entities that are making substantial impact in the area of play in many ways.  We know that there are non-profits that provide inclusive recreation programs and non-profits that provide ability awareness programs, but to our knowledge, Shane's Inspiration is the only organization combining inclusive playground design/development/programming into a play based structure which transforms the playgrounds into an outdoor classroom designed at eliminating bullying and bias.\r\n\r\nShane’s Inspiration's expertise also includes professional development workshops, which it being translated into a DVD that will walk educators and parents through the program, step-by-step.  This will:\r\n\r\nIncrease awareness of the need for and benefits of social inclusion in the education community, providing examples of best practices \r\n\r\nIncrease focus on and support of social inclusion on school campuses\r\n\r\nProvide examples and important talking points to increase the understanding and use of the classroom workshop content\r\n\r\nOffer step-by-step instructions on how to connect children with a wide variety of challenges\r\n\r\nThe DVD will be broken into modular, 3-5 minute segments that walk educators through:\r\n•\tPre-field trip classroom workshop material, emphasizing key   themes and talking points\r\n•\tHow to facilitate social interaction between children with typical abilities and children with:\t\r\n•\tAutism and Sensory Processing Disorders\r\n•\tPhysical impairments (Cerebral Palsy, Spina Bifida, vision impairment, etc.)\r\n•\tIntellectual disabilities (Down Syndrome) with an emphasis on how to facilitate communication with children with no or limited verbal skills\r\n•\tPost-field trip classroom workshop material, emphasizing key themes and activities to help synthesize the experience\r\n•\tHow to utilize and integrate the Academic Curriculum and its key features into classroom content\r\nWith an investment in place, production of the DVD can be completed in 3 to 4 months.\r\n\r\nDVD Distribution: Thanks to our ongoing partnership with Los Angeles Unified School District, the second largest district in the nation, we have a powerful distribution channel in Southern California. The audience includes teachers, principals, and parents, offering a wide range of consumers. LAUSD is also interested in utilizing Shane’s Inspiration’s professional development services online, offering a wider user base via webinars."
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Implementing the Together We Play L.A.! initiative in the next 12 months is achievable because Shane’s Inspiration will develop this project and expand its reach while building on the strong foundation of partnerships and programs that have been created since our inception.  The success of this initiative will rely heavily on three key partnerships: Parks; Schools; and Community.  \r\n\r\n1. Parks.  Shane’s Inspiration has designed and developed 39 inclusive playgrounds in the County of Los Angeles, 30 of which were built in partnership with the City of Los Angeles Recreation and Parks Department.  The Los Angeles Recreation and Parks Department will be donating the funding for the equipment and construction of the fully inclusive playgrounds at Vermont Gage and Jackie Tatum parks.  They will also be responsible for liability and maintenance of these vibrant park communities.  Therefore, the locations for the play aspect of the initiative have been created and identified.  \r\n\r\n2. Schools.  Grant funding received will help us expand the program into South Central Los Angeles where resources are scarce. There are 31 schools within the catchment zip codes of these playgrounds.  Upon completion, we will engage the schools with our education program, offering field trip transportation and facilitation.  The schools necessary for the success of this initiative have been identified in South Central and will receive the program free of charge.\r\n\r\nSchools citywide will receive a collective $25,000 in bus transportation for program field trips.  This will include approximately 70 buses for over 50 schools.\r\n\r\n3.  Shane’s Inspiration has established an extensive Community Outreach program in order to promote these playgrounds to the public.  We plan on utilizing these existing outreach mechanisms to promote the Together We Play L.A.! initiative to a large and diverse audience.  Outreach partners include: Exceptional Children's Foundation, Best Start Communities, First 5 LA, Regional Centers, LAUSD Schools.     "
+  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total cost for this project is $1,408,516.  \r\n\r\nShane's Inspiration has secured a commitment from the City of Los Angeles for the playground and construction costs totally $1,150,000.  \r\n\r\nProgram expansion of the program, as well as the implementation of the city wide program facilitation will total $258,516.  If awarded the $100,000 grant, this would leave $158,516, $120,000 of which has already been committed.  \r\n\r\nShane's Inspiration will bridge the remaining gap through corporate, foundation and individual gifts.  Donors to our programs include: Seba Foundation, Landscape Structures Inc., The Green Foundation, Joseph Drown Foundation, Phantanos Foundation, Discover a Star Foundation, Pilgrim Studios, Wells Fargo Capital Finance, John W. Carson Foundation, Remington Foundation.  \r\n\r\nShane's Inspiration also generates substantial revenue from four annual events including  a Gala, a Golf Tournament, a Tea and a Walk n Roll 5K event.  \r\n"
+  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$25,000 - BUS TRANSPORTATION - We estimate the coordination of approximately 70 buses for approximately 50 schools.  This is based on $350 per bus, transporting 3,500 children.                                                                                                        \r\n$35,000 - Completion of the Professional Development Training Program DVD for Educators                                                                                  \r\n\r\n$10,000 Printing - Ability Awareness Workshop Materials, Day 1/2/3; Supplemental Materials; Classroom Poster \r\n\r\n$5,000 Postage\r\n\r\n$5k for professional development workshops\r\n\r\n$5k for parent outreach and education in those communities (supporting social integration holistically requires parent education and support)\r\n\r\n$5k for paraprofessional development workshops\r\n\r\n$5k for technology upgrades to support and integrated, user-friendly sites for schools to access and integrate our curriculum\r\n\r\n"
+  How do you plan to scale the success of your proposal?: "Shane's Inspiration will continue to partner with the City of Los Angeles Recreation and Parks Depart to identify/design/develop parks in under served, resource poor communities that have the need for an inclusive playground.  \r\n\r\nThe plan for scaling the education program is to continue to streamline the materials and structure, providing educators with the tools necessary to independently facilitate the program for the children in their classroom. This streamlined approach will support the educators facilitation of the pre-field trip workshop, as well as the  post. We would continue to participate in the actual field trips, as our staff is well trained in playground integration strategies. This approach would help scale the program into a substantial number of schools throughout Los Angeles in impoverished communities.\r\n\r\nThe program is now available free of charge to download for educators on our website at:  \r\n\r\nhttp://www.shanesinspiration.org/education-inclusion-lunch-box/\r\n\r\nOn a broader impact scale, Shane's Inspiration's work in Los Angeles is currently serving as an example for other communities on how to create play environments that unite the whole of the community.  Shane's Inspiration and the City of Los Angeles Recreation and Parks Department travel nationally and internationally to promote the replication of these playgrounds and programs to a global audience.  \r\n\r\nThe 37 playgrounds developed in Los Angeles have sparked a world wide movement in inclusive play, generating Shane's Inspiration projects in 15 states, as well as in Mexico, Ecuador, Israel and four in conjunction with the 2010 and 2014 Winter Olympics in Canada and Russia.  As members of the Clinton Global Initiative (CGI), Shane's Inspiration is participating in conversations with the CGI Disability Strategy Group and Too Small To Fail Initiative regarding the importance of inclusive play environments as they pertain to community resiliency.  \r\n\r\nWe will also utilize print, radio, television, and social media avenues to promote this initiative, raising a broader understanding of the importance of dissolving the barriers that divide us and the opportunities to connect.  \r\n\r\nThe Together We Play L.A.! initiative will provide another important opportunity for Los Angeles to lead the way in play - today - tomorrow - into 2050 and beyond!\r\n"
+areas_impacted: ''
+partners: ''
 Please specify below: ''
-category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Building on the foundation that we are only as strong as we are united,
   Together We Play L.A.! will begin by creating two uniquely designed,
@@ -159,122 +276,7 @@ How do you plan to scale the success of your proposal?: >-
    We will also utilize print, radio, television, and social media avenues to promote this initiative, raising a broader understanding of the importance of dissolving the barriers that divide us and the opportunities to connect. 
    
    The Together We Play L.A.! initiative will provide another important opportunity for Los Angeles to lead the way in play - today - tomorrow - into 2050 and beyond!
-year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
-project_video: 'https://www.youtube.com/embed/44E5ezgbzHg'
 youtube_video_identifier: 44E5ezgbzHg
-project_areas:
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-maker_answers:
-  How did you hear about this challenge?: Newsletter
-  'City, State': 'Sherman Oaks, CA'
-  Organization(s) name(s): Shane's Inspiration
-  Organization(s) mailing address(es): "15213 Burbank Blvd.\r\nSherman Oaks, CA  91411"
-  Organization(s) website(s): www.shanesinspiration.org
-  Organization(s) twitter handle(s): www.twitter.com/ShanesPlay
-  Organization(s) facebook handle(s): www.facebook.com/shanesinspiration
-  Organization(s) instagram handle(s): www.instagram.com/shanesplay
-  Please share the direct link for voters to sign up for your newsletter(s): 'http://shanesinspiration.tumblr.com/'
-  EIN (for each organization): 95-4760497
-  'Describe your organization(s): Non-profit': '1'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
-  'In one sentence, please describe what your organization does.': >-
-    Shane's Inspiration creates inclusive playgrounds and education programs
-    that unite children of all abilities.
-  'In one to three sentences, please describe your proposal.': >-
-    Shane's Inspiration will help eliminate bullying by designing/developing 2
-    fully inclusive playgrounds in South Central Los Angeles, uniting children
-    of all abilities through play.  Once open, Shane's Inspiration will
-    implement a city-wide school-based education program expansion that
-    transforms the playgrounds into outdoor classrooms where profound lessons of
-    acceptance and compassion are learned, helping to diminish harmful
-    stereotypes that lead to bullying and exclusion.  
-  Please write a sample tweet to describe your submission.: >-
-    Don't turn away. Stay and play! Help @ShanesPlay unite children of ALL
-    abilities! #InclusivePlay #NoBullying 
-  LA is the best place to LEARN: '1'
-  LA is the best place to CREATE: '1'
-  LA is the best place to CONNECT: '1'
-  LA is the healthiest place to LIVE: '1'
-  Where will you be working? Central LA: '0'
-  Where will you be working? East LA: '0'
-  Where will you be working? San Gabriel Valley: '0'
-  Where will you be working? San Fernando Valley: '0'
-  Where will you be working? South LA: '1'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles: '1'
-  Where will you be working? City of Los Angeles: '1'
-  Where will you be working? LAUSD: '1'
-  Where will you be working? Other: '0'
-  Where will you be working? Specifics: ''
-  How do you plan to use these resources to make change? Conduct research: '0'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  How do you plan to use these resources to make change? Other: '1'
-  How do you plan to use these resources to make change? Specifics: Advocate for social inclusion via play with school staff and parents.
-  How will your proposal improve the following “Play” metrics? Access to open space and park facilities: '1'
-  How will your proposal improve the following “Play” metrics? Number of children enrolled in afterschool programs: '0'
-  How will your proposal improve the following “Play” metrics? Per capita crime rates: '0'
-  How will your proposal improve the following “Play” metrics? Percentage of residents that feel safe in their neighborhoods: '1'
-  How will your proposal improve the following “Play” metrics? Attendance at major league sporting events: '0'
-  How will your proposal improve the following “Play” metrics? Residents within 1⁄4 mile of a park (Dream Metric): '1'
-  How will your proposal improve the following “Play” metrics? Number of residents with easy access to a “vibrant” park (Dream Metric): '1'
-  How will your proposal improve the following “Play” metrics? Number of parks with intergenerational play opportunities (Dream Metric): '1'
-  How will your proposal improve the following “Play” metrics? Number (and quality) of informal spaces for play (Dream Metric): '0'
-  Describe in greater detail how you will make LA the best place to play.: "Building on the foundation that we are only as strong as we are united, Together We Play L.A.! will begin by creating two uniquely designed, fully-inclusive playgrounds in South Central Los Angeles at Jackie Tatum and Vermont Gage Park.  The collective play area will feature 20,000 square feet of sensory rich and challenging play opportunities for children of all abilities.\r\n\r\nUpon completion in February of 2016, Shane's Inspiration will transform these playgrounds, along with others already in progress throughout the County of Los Angeles, into classrooms bringing 3,500 children of all abilities together where they will learn profound lessons of acceptance, understanding and respect for diversity.    \r\n\r\nChildren with disabilities are 66% more likely to be bullied than their typically developing peers due to damaging misconceptions and bias.  By discovering our similarities and connections, children are able to build powerful bridges of friendship and inclusion.\r\n\r\nEducators will deliver interactive class workshops to elementary and middle school students designed to increase understanding of people with disabilities which will include:\r\n\r\nWriting and group discussion about feelings and assumptions about disabilities;\r\n\r\nA fast-paced verbal game that helps differentiate between disability fact and myth;\r\n\r\nA powerful video shows children with disabilities in their daily lives, giving students a chance to identify with their peers; and\r\n\r\nSimulation exercises offer possible perspectives of individuals with disabilities\r\n\r\nStaff workshops on social inclusion best practices and how to support students\r\n\r\nStudents are then prepared for their field trip with specific tools to interact with peers who have non-verbal communication, sensory processing differences, and physical challenges. \r\n\r\nWe provide transportation from the campus to the playground via local transit companies. Our staff meet the students at the playground, where we support children with and without disabilities during a day of integration and play. \r\n\r\nA classroom workshop will follow the field trip, including a written exercise, wrap-up discussion, Q & A and a closing activity that illustrates the reciprocity of the exchange.   \r\n\r\n“After being a buddy on my field trip, a person with a disability makes me feel like I want to play  with them and have fun. I don’t feel nervous anymore because they are just like me!\"  Emma, 4th Grade \r\n\r\nThis powerful acceptance of our diversity will make LA the very best place to play!"
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "We anticipate that we may face the challenge of educators who have very impacted schedules.  This could make some hesitant to initiate a new program for their students.  To this end, we have aligned the education program with the Common Core and Character Counts to provide educators with an opportunity to satisfy mandated learning goals, while also providing inclusion strategies for the ever increasing integrated classroom.  We examined what educators required for their existing workload and designed the program to meet those needs rather than add more work.  \r\n\r\nIn order to provide the educators with further clarity, we are including a professional development training video that will walk the educators through each step of the program implementation.  A free webinar series will further explain in detail the process for implementing the program.\r\n"
-  Please explain how you will evaluate your work.: "\"You can learn more about someone in an hour of play than in a year of conversation.\" Plato\r\n\r\nOur educators will measure attitudinal shifts in students via pre- and post-field trip written assessments.  Prior to their field trips, students may communicate that they are: fearful of people in wheelchairs; sad and believe people with disabilities are unable to live a fulfilling life; afraid of touching people with disabilities because they are contagious; and afraid of being hurt by them. \r\n\r\nWritten assessments after the field trips may reveal a major shift in perception. In one classroom of 5th graders, the words sad and bad were repeated 90 times in their written assessments. After their field trip, those same words were used 19 times.\r\n\r\nEducators will also be given a written assessment form to provide valuable feedback on their experience of the program.\r\n\r\nIt is our goal to work in partnership with a local university to create a broader assessment of this program."
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "We live in an extraordinary community that features the contributions of many individuals, non-profit, and for profit entities that are making substantial impact in the area of play in many ways.  We know that there are non-profits that provide inclusive recreation programs and non-profits that provide ability awareness programs, but to our knowledge, Shane's Inspiration is the only organization combining inclusive playground design/development/programming into a play based structure which transforms the playgrounds into an outdoor classroom designed at eliminating bullying and bias.\r\n\r\nShane’s Inspiration's expertise also includes professional development workshops, which it being translated into a DVD that will walk educators and parents through the program, step-by-step.  This will:\r\n\r\nIncrease awareness of the need for and benefits of social inclusion in the education community, providing examples of best practices \r\n\r\nIncrease focus on and support of social inclusion on school campuses\r\n\r\nProvide examples and important talking points to increase the understanding and use of the classroom workshop content\r\n\r\nOffer step-by-step instructions on how to connect children with a wide variety of challenges\r\n\r\nThe DVD will be broken into modular, 3-5 minute segments that walk educators through:\r\n•\tPre-field trip classroom workshop material, emphasizing key   themes and talking points\r\n•\tHow to facilitate social interaction between children with typical abilities and children with:\t\r\n•\tAutism and Sensory Processing Disorders\r\n•\tPhysical impairments (Cerebral Palsy, Spina Bifida, vision impairment, etc.)\r\n•\tIntellectual disabilities (Down Syndrome) with an emphasis on how to facilitate communication with children with no or limited verbal skills\r\n•\tPost-field trip classroom workshop material, emphasizing key themes and activities to help synthesize the experience\r\n•\tHow to utilize and integrate the Academic Curriculum and its key features into classroom content\r\nWith an investment in place, production of the DVD can be completed in 3 to 4 months.\r\n\r\nDVD Distribution: Thanks to our ongoing partnership with Los Angeles Unified School District, the second largest district in the nation, we have a powerful distribution channel in Southern California. The audience includes teachers, principals, and parents, offering a wide range of consumers. LAUSD is also interested in utilizing Shane’s Inspiration’s professional development services online, offering a wider user base via webinars."
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Implementing the Together We Play L.A.! initiative in the next 12 months is achievable because Shane’s Inspiration will develop this project and expand its reach while building on the strong foundation of partnerships and programs that have been created since our inception.  The success of this initiative will rely heavily on three key partnerships: Parks; Schools; and Community.  \r\n\r\n1. Parks.  Shane’s Inspiration has designed and developed 39 inclusive playgrounds in the County of Los Angeles, 30 of which were built in partnership with the City of Los Angeles Recreation and Parks Department.  The Los Angeles Recreation and Parks Department will be donating the funding for the equipment and construction of the fully inclusive playgrounds at Vermont Gage and Jackie Tatum parks.  They will also be responsible for liability and maintenance of these vibrant park communities.  Therefore, the locations for the play aspect of the initiative have been created and identified.  \r\n\r\n2. Schools.  Grant funding received will help us expand the program into South Central Los Angeles where resources are scarce. There are 31 schools within the catchment zip codes of these playgrounds.  Upon completion, we will engage the schools with our education program, offering field trip transportation and facilitation.  The schools necessary for the success of this initiative have been identified in South Central and will receive the program free of charge.\r\n\r\nSchools citywide will receive a collective $25,000 in bus transportation for program field trips.  This will include approximately 70 buses for over 50 schools.\r\n\r\n3.  Shane’s Inspiration has established an extensive Community Outreach program in order to promote these playgrounds to the public.  We plan on utilizing these existing outreach mechanisms to promote the Together We Play L.A.! initiative to a large and diverse audience.  Outreach partners include: Exceptional Children's Foundation, Best Start Communities, First 5 LA, Regional Centers, LAUSD Schools.     "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total cost for this project is $1,408,516.  \r\n\r\nShane's Inspiration has secured a commitment from the City of Los Angeles for the playground and construction costs totally $1,150,000.  \r\n\r\nProgram expansion of the program, as well as the implementation of the city wide program facilitation will total $258,516.  If awarded the $100,000 grant, this would leave $158,516, $120,000 of which has already been committed.  \r\n\r\nShane's Inspiration will bridge the remaining gap through corporate, foundation and individual gifts.  Donors to our programs include: Seba Foundation, Landscape Structures Inc., The Green Foundation, Joseph Drown Foundation, Phantanos Foundation, Discover a Star Foundation, Pilgrim Studios, Wells Fargo Capital Finance, John W. Carson Foundation, Remington Foundation.  \r\n\r\nShane's Inspiration also generates substantial revenue from four annual events including  a Gala, a Golf Tournament, a Tea and a Walk n Roll 5K event.  \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$25,000 - BUS TRANSPORTATION - We estimate the coordination of approximately 70 buses for approximately 50 schools.  This is based on $350 per bus, transporting 3,500 children.                                                                                                        \r\n$35,000 - Completion of the Professional Development Training Program DVD for Educators                                                                                  \r\n\r\n$10,000 Printing - Ability Awareness Workshop Materials, Day 1/2/3; Supplemental Materials; Classroom Poster \r\n\r\n$5,000 Postage\r\n\r\n$5k for professional development workshops\r\n\r\n$5k for parent outreach and education in those communities (supporting social integration holistically requires parent education and support)\r\n\r\n$5k for paraprofessional development workshops\r\n\r\n$5k for technology upgrades to support and integrated, user-friendly sites for schools to access and integrate our curriculum\r\n\r\n"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How do you plan to scale the success of your proposal?: "Shane's Inspiration will continue to partner with the City of Los Angeles Recreation and Parks Depart to identify/design/develop parks in under served, resource poor communities that have the need for an inclusive playground.  \r\n\r\nThe plan for scaling the education program is to continue to streamline the materials and structure, providing educators with the tools necessary to independently facilitate the program for the children in their classroom. This streamlined approach will support the educators facilitation of the pre-field trip workshop, as well as the  post. We would continue to participate in the actual field trips, as our staff is well trained in playground integration strategies. This approach would help scale the program into a substantial number of schools throughout Los Angeles in impoverished communities.\r\n\r\nThe program is now available free of charge to download for educators on our website at:  \r\n\r\nhttp://www.shanesinspiration.org/education-inclusion-lunch-box/\r\n\r\nOn a broader impact scale, Shane's Inspiration's work in Los Angeles is currently serving as an example for other communities on how to create play environments that unite the whole of the community.  Shane's Inspiration and the City of Los Angeles Recreation and Parks Department travel nationally and internationally to promote the replication of these playgrounds and programs to a global audience.  \r\n\r\nThe 37 playgrounds developed in Los Angeles have sparked a world wide movement in inclusive play, generating Shane's Inspiration projects in 15 states, as well as in Mexico, Ecuador, Israel and four in conjunction with the 2010 and 2014 Winter Olympics in Canada and Russia.  As members of the Clinton Global Initiative (CGI), Shane's Inspiration is participating in conversations with the CGI Disability Strategy Group and Too Small To Fail Initiative regarding the importance of inclusive play environments as they pertain to community resiliency.  \r\n\r\nWe will also utilize print, radio, television, and social media avenues to promote this initiative, raising a broader understanding of the importance of dissolving the barriers that divide us and the opportunities to connect.  \r\n\r\nThe Together We Play L.A.! initiative will provide another important opportunity for Los Angeles to lead the way in play - today - tomorrow - into 2050 and beyond!\r\n"
-  Where will you be working?:
-    - South LA
-    - County of Los Angeles
-    - City of Los Angeles
-    - LAUSD
-  How do you plan to use these resources to make change?:
-    - Engage residents and stakeholders
-    - Advocate for social inclusion via play with school staff and parents.
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - Education/training
-    - 'Technical infrastructure (computers, etc.)'
-    - Community outreach
-    - Network/relationship support
-    - Quality improvement research
-  How will your proposal improve the following “Play” metrics?:
-    - Access to open space and park facilities
-    - Percentage of residents that feel safe in their neighborhoods
-    - Residents within 1⁄4 mile of a park (Dream Metric)
-    - Number of residents with easy access to a “vibrant” park (Dream Metric)
-    - Number of parks with intergenerational play opportunities (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -645,8 +647,6 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Shane's Inspiration will continue to partner with the City of Los Angeles Recreation and Parks Depart to identify/design/develop parks in under served, resource poor communities that have the need for an inclusive playground.  \r\n\r\nThe plan for scaling the education program is to continue to streamline the materials and structure, providing educators with the tools necessary to independently facilitate the program for the children in their classroom. This streamlined approach will support the educators facilitation of the pre-field trip workshop, as well as the  post. We would continue to participate in the actual field trips, as our staff is well trained in playground integration strategies. This approach would help scale the program into a substantial number of schools throughout Los Angeles in impoverished communities.\r\n\r\nThe program is now available free of charge to download for educators on our website at:  \r\n\r\nhttp://www.shanesinspiration.org/education-inclusion-lunch-box/\r\n\r\nOn a broader impact scale, Shane's Inspiration's work in Los Angeles is currently serving as an example for other communities on how to create play environments that unite the whole of the community.  Shane's Inspiration and the City of Los Angeles Recreation and Parks Department travel nationally and internationally to promote the replication of these playgrounds and programs to a global audience.  \r\n\r\nThe 37 playgrounds developed in Los Angeles have sparked a world wide movement in inclusive play, generating Shane's Inspiration projects in 15 states, as well as in Mexico, Ecuador, Israel and four in conjunction with the 2010 and 2014 Winter Olympics in Canada and Russia.  As members of the Clinton Global Initiative (CGI), Shane's Inspiration is participating in conversations with the CGI Disability Strategy Group and Too Small To Fail Initiative regarding the importance of inclusive play environments as they pertain to community resiliency.  \r\n\r\nWe will also utilize print, radio, television, and social media avenues to promote this initiative, raising a broader understanding of the importance of dissolving the barriers that divide us and the opportunities to connect.  \r\n\r\nThe Together We Play L.A.! initiative will provide another important opportunity for Los Angeles to lead the way in play - today - tomorrow - into 2050 and beyond!\r\n"
-body_class: strawberry
 organization_name: Shane's Inspiration
-published: true
 
 ---

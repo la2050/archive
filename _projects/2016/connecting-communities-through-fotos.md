@@ -1,40 +1,24 @@
 ---
+published: true
 organization_id: '2016128'
 year_submitted: 2016
-organization_name: Las Fotos Project
-organization_website: www.lasfotosproject.org
-ein: ''
-project_image_2: 2500980265741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102129'
+challenge_url: 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'
 title: Connecting Communities through Fotos
-organization_name_2: Las Fotos Project
-organization_activity: >-
-  Las Fotos Project is a photography mentoring program for teenage girls. We
-  partner with schools, community groups, and libraries to create brave spaces
-  for girls to learn, collaborate, and create.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
-project_video: ''
 project_summary: >-
   There are thousands of inspiring stories, people and nonprofits that make LA
   dynamic. Help us tell their stories through photos - connecting people and
   communities!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Las Fotos Project and Momentum Solutions Team are the core partners. In
   addition, we plan on enlisting the support and skills of photographers across
   Los Angeles.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   The following are three outcomes to our project. Each will be measured through
   participant surveys, social reach reviews and summative evaluations of the
@@ -72,6 +56,27 @@ project_description: >-
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Total number of local
   social media friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  Pictures are a powerful way to convey your mission and communicate your social
+  impact. But let’s face it, many nonprofits don’t have flexible funds for great
+  photography and marketing. Our project will host photoshoots for 20
+  organizations across Greater LA, in order to help them tell their story and
+  create visual representations of the life-changing work being done.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Los Angeles is a sprawling urban city. Through past projects and collaborative
   events we have seen the power of the arts bring communities and people
@@ -105,20 +110,15 @@ project_proposal_best_place: >-
   professionals to connect themselves to local nonprofits and volunteer
   opportunities. The students through the photography process will find adult
   allies throughout Los Angeles to help them follow their professional paths.
-challenge_url: 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'
+project_image_2: 2500980265741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Pictures are a powerful way to convey your mission and communicate your social
-  impact. But let’s face it, many nonprofits don’t have flexible funds for great
-  photography and marketing. Our project will host photoshoots for 20
-  organizations across Greater LA, in order to help them tell their story and
-  create visual representations of the life-changing work being done.
-project_proposal_impact:
-  - Social & emotional support
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Las Fotos Project
+organization_website: www.lasfotosproject.org
+organization_name_2: Las Fotos Project
+organization_activity: >-
+  Las Fotos Project is a photography mentoring program for teenage girls. We
+  partner with schools, community groups, and libraries to create brave spaces
+  for girls to learn, collaborate, and create.
+ein: ''
 
 ---

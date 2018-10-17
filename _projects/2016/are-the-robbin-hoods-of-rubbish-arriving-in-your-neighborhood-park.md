@@ -1,36 +1,22 @@
 ---
+published: true
 organization_id: '2016205'
 year_submitted: 2016
-organization_name: T4T.org
-organization_website: T4T.org
-ein: '562464067'
-project_image_2: 4439940265741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102226'
+challenge_url: >-
+  https://challenge.la2050.org/entry/are-the-robbin-hoods-of-rubbish-arriving-in-your-neighborhood-park?
 title: Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
-organization_name_2: T4T.org
-organization_activity: >-
-  T4T.org inspires the next generation of Scientists, Technology experts,
-  Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste
-  and in doing this we nurture environmental stewar
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4439940265741-team91.jpg
-project_video: 'https://www.youtube.com/embed/8fx_LFJr4lc?rel=0&amp;showinfo=0'
 project_summary: >-
   We are the Robbin Hoods of Rubbish, using manufacturers clean waste to inspire
   the next generation of Scientists, Technology experts, Engineers, Artists, and
   Mathematicians.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4439940265741-team91.jpg
+project_video: 'https://www.youtube.com/embed/8fx_LFJr4lc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: na
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   We will conduct pre-then-post surveys with everyone who participates. Parents,
   young inventors, anyone who takes part will be asked to answer a few basic
@@ -60,6 +46,27 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries"]
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+project_proposal_description: >-
+  T4T.org’s Pop-Up Makers’ Space will arrive in some of LA’s most underserved
+  communities on a Saturday or Sunday. Our truck will pull up, drop down the
+  sides, and set up the tables. Then, future inventors, scientists and
+  researchers, from the local community go to work. These children are welcome
+  to create, build and experiment. We will bring Laser cutters, 3D Printers and
+  all the tools these young inventors need to realize whatever they can imagine.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Our T4T.org traveling Makers Space will be filled with ReImagined Resources
   that will fill the truck and the imaginations of the young inventors who show
@@ -73,22 +80,15 @@ project_proposal_best_place: >-
   on school-yards exclusively, it will simply be the way we identify the
   communities on our calendar. We will have Saturday and Sunday pop-up Makers
   Spaces in some of the most unlikely spots around town!
-challenge_url: >-
-  https://challenge.la2050.org/entry/are-the-robbin-hoods-of-rubbish-arriving-in-your-neighborhood-park?
+project_image_2: 4439940265741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  T4T.org’s Pop-Up Makers’ Space will arrive in some of LA’s most underserved
-  communities on a Saturday or Sunday. Our truck will pull up, drop down the
-  sides, and set up the tables. Then, future inventors, scientists and
-  researchers, from the local community go to work. These children are welcome
-  to create, build and experiment. We will bring Laser cutters, 3D Printers and
-  all the tools these young inventors need to realize whatever they can imagine.
-project_proposal_impact:
-  - Arts establishments
-  - Manufacturing activity
-  - Employment in the creative industries
-category: create
-body_class: banana
-published: true
+organization_name: T4T.org
+organization_website: T4T.org
+organization_name_2: T4T.org
+organization_activity: >-
+  T4T.org inspires the next generation of Scientists, Technology experts,
+  Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste
+  and in doing this we nurture environmental stewar
+ein: '562464067'
 
 ---

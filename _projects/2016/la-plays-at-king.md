@@ -1,33 +1,21 @@
 ---
+published: true
 organization_id: '2016083'
 year_submitted: 2016
-organization_name: Friends of King
-organization_website: friendsofking.org
-ein: ''
-project_image_2: 0761849894741-team91.jpg
+category: play
+body_class: strawberry
 project_id: '6102074'
+challenge_url: 'https://challenge.la2050.org/entry/la-plays-at-king'
 title: LA Plays at King
-organization_name_2: Friends of King
-organization_activity: >-
-  Friends of King is a 501 c3 non-profit dedicated to promoting and supporting
-  the diverse group of students from all over Los Angeles who attend T.S. King
-  Middle School.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
-project_video: 'https://www.youtube.com/embed/LO-jFIvksfc?rel=0&amp;showinfo=0'
 project_summary: >-
   Our proposal is to upgrade Thomas Starr King Middle School’s field,
   auditorium, production studio and outdoor amphitheater into a fully-functional
   community play space.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
+project_video: 'https://www.youtube.com/embed/LO-jFIvksfc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - South LA
-  - LAUSD
-  - AYSO soccer plays on our field
 project_measure: >-
   Thomas Starr King Middle School has been educating students since 1926. Our
   students speak over thirty languages and come from more than forty different
@@ -80,6 +68,27 @@ project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of children enrolled in afterschool programs","Per
   capita crime rates","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Per capita crime rates
+  - Perceived safety
+project_proposal_description: >-
+  Our proposal is to upgrade T.S. King Middle School’s play spaces, embracing
+  the ideals of all three of our magnet programs – Arts and Tech, Environmental
+  STEAM, and Film & Media. This includes upgrading the sound in our film studio
+  and auditorium, refurbishing our outdoor amphitheater, as well as resurfacing
+  our playing field. These changes will benefit the over 2,100 students
+  attending King, while providing greater entertainment and recreational
+  opportunities for our surrounding neighbors.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - South LA
+  - LAUSD
+  - AYSO soccer plays on our field
 project_proposal_best_place: >-
   Thomas Starr King Middle School has long been a cultural and artistic hub for
   our local communities and beyond, and a place for community members to play
@@ -119,24 +128,15 @@ project_proposal_best_place: >-
   including embracing the importance of the arts for Arts & Technology,
   respecting sustainability concerns for Environmental STEAM and honoring the
   importance of Film and Media here in Los Angeles.
-challenge_url: 'https://challenge.la2050.org/entry/la-plays-at-king'
+project_image_2: 0761849894741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Our proposal is to upgrade T.S. King Middle School’s play spaces, embracing
-  the ideals of all three of our magnet programs – Arts and Tech, Environmental
-  STEAM, and Film & Media. This includes upgrading the sound in our film studio
-  and auditorium, refurbishing our outdoor amphitheater, as well as resurfacing
-  our playing field. These changes will benefit the over 2,100 students
-  attending King, while providing greater entertainment and recreational
-  opportunities for our surrounding neighbors.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of children enrolled in afterschool programs
-  - Per capita crime rates
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: Friends of King
+organization_website: friendsofking.org
+organization_name_2: Friends of King
+organization_activity: >-
+  Friends of King is a 501 c3 non-profit dedicated to promoting and supporting
+  the diverse group of students from all over Los Angeles who attend T.S. King
+  Middle School.
+ein: ''
 
 ---

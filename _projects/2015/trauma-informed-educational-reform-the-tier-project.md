@@ -1,9 +1,11 @@
 ---
+published: true
+organization_id: '2015216'
+year_submitted: 2015
+category: learn
+body_class: blueberry
 project_id: '5102327'
 title: 'Trauma Informed Educational Reform: The TIER Project'
-organization_id: '2015216'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   The TIER Project is designed to transform public school districts in Los
   Angeles County into trauma informed educational systems. Eighty school
@@ -12,26 +14,13 @@ project_summary: >-
   action plans to implement these practices for K-12 classes. After the training
   school districts will receive technical assistance to help implement their
   action plans.
-Please specify below: ''
-category: learn
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
-maker_image_id: '23820'
-maker_image_file_name: TIER.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385
 project_areas:
   - County of Los Angeles
 maker_answers:
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'UCLA '
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   Organization(s) mailing address(es): "Social Welfare Department, 3250 Public Affairs Building, Box 951656\r\nLos Angeles, CA 90095-1656"
   Organization(s) website(s): www.ucla.edu
   Organization(s) twitter handle(s): ' https://twitter.com/UCLALuskin'
@@ -81,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -98,6 +87,34 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics? Truancy rates in elementary and middle schools (Dream Metric): '1'
   How will your proposal improve the following “Learn” metrics? Students perceived sense of safety at and on the way to school (Dream Metric): '1'
   Describe in greater detail how you will make LA the best place to learn.: "Los Angeles, like other large metropolitan areas, has multiple challenges when it comes to educating all of our children and adolescents in the most equitable manner. There has been more and more research over the last 20 years that documents how children who have been exposed to trauma are at high risk for not achieving educational attainment.  Providing these students with equal access to a quality education is the new educational reform imperative for the 21st Century. States, such as Connecticut, Washington, Wisconsin, Massachusetts, Pennsylvania, New York, to name a few, are addressing these educational challenges faced by traumatized students by having their public school systems become trauma informed. School districts in California are catching on as well. For example, Richmond, Santa Cruz, Humboldt, San Francisco, and San Diego are training their public school teachers about trauma and its impact on learning. There needs to be a system-wide movement in Los Angeles as well.\r\nThe Trauma Informed Educational Reform (TIER) Project will bring together school districts in Los Angeles County to start the process of becoming trauma informed. This process will start with an in-depth training by school district teams on trauma and trauma informed educational practices. These teams will develop action plans on how to implement trauma informed practices and policies across the district. The TIER Project will provide technical assistance to districts as they become trauma informed. By having Los Angeles schools become trauma informed, the goal of high educational attainment will be accessible for all students; thereby making Los Angeles the “best place to learn.”\r\n"
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  Where will you be working?:
+    - County of Los Angeles
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     One of the challenges of the TIER Project is having full representation from
     all school districts. This challenge will be addressed by extensive outreach
@@ -161,35 +178,18 @@ maker_answers:
     and to reduce their costs of release time for staff and other incidentals
     related to implementation.
   'Please include a detailed budget of how you will use $100,000 to implement this project.': "Project Budget\r\n-project manager 8 hours per week @ $45/hr x 50 weeks=$18,000\r\n-80 school districts send 10 people each (800 people) to a 2-day training. Twice a month trainings will occur@ 60 people per training. Each training about $3060 x 14 trainings=$42,840 \r\nCost of each training ($3060)\r\n•\t60 manuals @$6=$360\r\n•\tFood for 60 participants @$5 ea=$300\r\n•\tRent of training location=$800\r\n•\t2 trainers@ $50 per hour for 16 hours=$1600\r\n•\tTotal cost=$3060 per training\r\n-8 hours of consultation @ $45 per hour x 80=$28,800\r\n- Evaluation of $5000\r\n-Administrative support 8 hours/week x $15/hour x 44 weeks=$5280\r\nTotal Budget: $99,560\r\n"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our project already involves all the school districts in LA County. While we will offer this opportunity to all the school districts in LA County, experience would suggest that some will not be in a position to take advantage of this while others will want to have additional staff trained.  One of the primary outcomes of this work will be developing and refining a model of delivery for Trauma Informed practice.  Secondarily, we will gain an increased understanding of how to do a better job of providing this type of large scale training to educators and educational staff. This will serve as an important “proof-of-concept” which could easily be expanded to those districts that do not participate or to other counties or even brought down to the individual district level and ultimately to the individual school level, depending on the need of the district or school.  Expanding this training to the school level would represent a significant increase in scope. \r\nThe TIER Project can provide more technical support to the school districts during the implementation phase. We anticipate that districts will encounter challenges along the way and providing more direct support and consultation will further ensure their success in transforming their educational systems. Additionally, we want school districts to become the ambassadors of this work in that they will disseminate their learnings about trauma and trauma informed care to all of their community partners and other educational stakeholders with the TIER Project’s support. The vision for this work is that all service providers for children and adults will be trauma informed.\r\n\r\n"
-  Where will you be working?:
-    - County of Los Angeles
-  How do you plan to use these resources to make change?:
-    - Engage residents and stakeholders
-    - Implement a pilot or new project
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Publicity/awareness (social capital)
-    - Community outreach
-    - Network/relationship support
-  How will your proposal improve the following “Learn” metrics?:
-    - District-wide graduation rates
-    - Suspension and expulsion rates (Dream Metric)
-    - Truancy rates in elementary and middle schools (Dream Metric)
-    - >-
-      Students perceived sense of safety at and on the way to school (Dream
-      Metric)
+areas_impacted: ''
+partners: ''
+Please specify below: ''
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -638,8 +638,8 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our project already involves all the school districts in LA County. While we will offer this opportunity to all the school districts in LA County, experience would suggest that some will not be in a position to take advantage of this while others will want to have additional staff trained.  One of the primary outcomes of this work will be developing and refining a model of delivery for Trauma Informed practice.  Secondarily, we will gain an increased understanding of how to do a better job of providing this type of large scale training to educators and educational staff. This will serve as an important “proof-of-concept” which could easily be expanded to those districts that do not participate or to other counties or even brought down to the individual district level and ultimately to the individual school level, depending on the need of the district or school.  Expanding this training to the school level would represent a significant increase in scope. \r\nThe TIER Project can provide more technical support to the school districts during the implementation phase. We anticipate that districts will encounter challenges along the way and providing more direct support and consultation will further ensure their success in transforming their educational systems. Additionally, we want school districts to become the ambassadors of this work in that they will disseminate their learnings about trauma and trauma informed care to all of their community partners and other educational stakeholders with the TIER Project’s support. The vision for this work is that all service providers for children and adults will be trauma informed.\r\n\r\n"
-body_class: blueberry
+maker_image_id: '23820'
+maker_image_file_name: TIER.jpg
 organization_name: 'UCLA '
-published: true
 
 ---

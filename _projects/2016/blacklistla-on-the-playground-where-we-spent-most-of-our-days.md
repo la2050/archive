@@ -1,31 +1,22 @@
 ---
+published: true
 organization_id: '2016021'
 year_submitted: 2016
-organization_name: BlacklistLA Run Organization
-organization_website: www.blacklistla.city
-ein: '954440752'
-project_image_2: 3733468065741-team91.JPG
+category: play
+body_class: strawberry
 project_id: '6102019'
+challenge_url: >-
+  https://challenge.la2050.org/entry/blacklistla-on-the-playground-where-we-spent-most-of-our-days
 title: ' BlacklistLA: On the Playground Where We Spent Most of Our Days'
-organization_name_2: BlacklistLA Run Organization
-organization_activity: >-
-  BlacklistLA Run Organization (BlacklistLA) provides access to Angelenos of
-  diverse backgrounds to connect with each other through a shared love of
-  running, street art, culture and the City of LA.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
-project_video: 'https://www.youtube.com/embed/YcJFmTnHOeE?rel=0&amp;showinfo=0'
 project_summary: >-
   PLAY doesn’t end with childhood; adults need recess, too! In 2017, BlacklistLA
   will provide over 100 opportunities for Angelenos of all ages to get active
   and play in their city.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
+project_video: 'https://www.youtube.com/embed/YcJFmTnHOeE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
 project_measure: >-
   The success of our work will be measured by our ability to make progress
   toward our expected outcomes. Included below are our two desired outcomes: 
@@ -75,6 +66,26 @@ project_impact: >-
   sporting events","Number (and quality) of informal spaces for play","Number of
   parks with intergenerational play opportunities","Per capita crime
   rates","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Attendance at major league sporting events
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Per capita crime rates
+  - Perceived safety
+project_proposal_description: >-
+  PLAY doesn’t end with childhood; adults need recess, too! In 2017, BlacklistLA
+  will provide 100+ opportunities for Angelenos get active and play in their
+  city with diverse programming on physical fitness, runner safety, local
+  running events, public art and community building. Our team of volunteers will
+  offer unique running experiences that integrate landmarks, public art, parks,
+  Metro stations and Los Angeles’ Great Streets as vital spaces for movement,
+  connection and community building.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
 project_proposal_best_place: >-
   BlacklistLA is committed to transforming Los Angeles into the country’s most
   vibrant urban playground by creating unique opportunities for Angelenos to
@@ -135,26 +146,15 @@ project_proposal_best_place: >-
 
 
   The hashtag #BlacklistLA explains it best!
-challenge_url: >-
-  https://challenge.la2050.org/entry/blacklistla-on-the-playground-where-we-spent-most-of-our-days
+project_image_2: 3733468065741-team91.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  PLAY doesn’t end with childhood; adults need recess, too! In 2017, BlacklistLA
-  will provide 100+ opportunities for Angelenos get active and play in their
-  city with diverse programming on physical fitness, runner safety, local
-  running events, public art and community building. Our team of volunteers will
-  offer unique running experiences that integrate landmarks, public art, parks,
-  Metro stations and Los Angeles’ Great Streets as vital spaces for movement,
-  connection and community building.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Attendance at major league sporting events
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-  - Per capita crime rates
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: BlacklistLA Run Organization
+organization_website: www.blacklistla.city
+organization_name_2: BlacklistLA Run Organization
+organization_activity: >-
+  BlacklistLA Run Organization (BlacklistLA) provides access to Angelenos of
+  diverse backgrounds to connect with each other through a shared love of
+  running, street art, culture and the City of LA.
+ein: '954440752'
 
 ---

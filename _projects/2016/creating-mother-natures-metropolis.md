@@ -1,31 +1,23 @@
 ---
+published: true
 organization_id: '2016095'
 year_submitted: 2016
-organization_name: Grown in LA
-organization_website: www.growninla.org
-ein: ''
-project_image_2: 0680094165741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102088'
+challenge_url: 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'
 title: Creating Mother Nature's Metropolis
-organization_name_2: Grown in LA
-organization_activity: >-
-  Grown in LA is a nonprofit project of Community Partners that is converting
-  underutilized land into a network of nurseries that produce plants and provide
-  educational opportunities to Angelenos.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
-project_video: 'https://www.youtube.com/embed/PsctXfdIX5A?rel=0&amp;showinfo=0'
 project_summary: >-
   Grown in LA and partners will reinvigorate an underutilized site in Griffith
   Park into an outdoor laboratory that grows and conducts research on
   climate-appropriate plants for cities in southern CA.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
+project_video: 'https://www.youtube.com/embed/PsctXfdIX5A?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   The Nature Conservancy, City of Los Angeles Department of Recreation and
   Parks, and Los Angeles Parks Foundation.
-project_areas:
-  - City of Los Angeles
-  - N/A
 project_measure: >-
   The success of the Grown in LA Outdoor Urban Laboratory will be defined and
   measured by the following: the completion of a fully-functional propagation
@@ -63,6 +55,23 @@ project_description: >-
 project_impact: >-
   ["Waterways","Exposure to air toxins","Self-sufficiency","Local
   water","Resilient communities","Tree canopy cover"]
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+project_proposal_description: >-
+  Grown in LA will work to reinvigorate a relic nursery in the heart of LA’s
+  largest public space - Griffith Park! This project will convert an
+  underutilized plot of land into an outdoor urban laboratory that will grow
+  climate-appropriate plants for public parks and LA River restoration projects;
+  conduct cutting-edge research on urban ecology; and engage Angelenos through
+  educational opportunities.
+project_areas:
+  - City of Los Angeles
+  - N/A
 project_proposal_best_place: >-
   In the coming decades, millions of native plants will be needed for
   restoration and urban greening projects along Los Angeles’ waterways, public
@@ -110,24 +119,15 @@ project_proposal_best_place: >-
   model and promote healthier habitats in LA that are livable for plants,
   wildlife, and Angelenos--ultimately transforming our region into a metropolis
   that works in harmony with Mother Nature.
-challenge_url: 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'
+project_image_2: 0680094165741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Grown in LA will work to reinvigorate a relic nursery in the heart of LA’s
-  largest public space - Griffith Park! This project will convert an
-  underutilized plot of land into an outdoor urban laboratory that will grow
-  climate-appropriate plants for public parks and LA River restoration projects;
-  conduct cutting-edge research on urban ecology; and engage Angelenos through
-  educational opportunities.
-project_proposal_impact:
-  - Waterways
-  - Exposure to air toxins
-  - Self-sufficiency
-  - Local water
-  - Resilient communities
-  - Tree canopy cover
-category: live
-body_class: lime
-published: true
+organization_name: Grown in LA
+organization_website: www.growninla.org
+organization_name_2: Grown in LA
+organization_activity: >-
+  Grown in LA is a nonprofit project of Community Partners that is converting
+  underutilized land into a network of nurseries that produce plants and provide
+  educational opportunities to Angelenos.
+ein: ''
 
 ---

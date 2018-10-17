@@ -1,22 +1,19 @@
 ---
+published: true
 organization_id: '2016261'
 year_submitted: 2016
-organization_name: Youth Business Alliance
-organization_website: www.youthbizalliance.com
-ein: '462067337'
-project_image_2: 4435758065741-team91.png
+category: learn
+body_class: blueberry
 project_id: '6102287'
+challenge_url: >-
+  https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
 title: Empower low income youth to break out of the poverty cycle!
-organization_name_2: Youth Business Alliance
-organization_activity: >-
-  We connect at risk and disadvantaged youth to life skills, local
-  professionals, and businesses.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
-project_video: ''
 project_summary: >-
   Connect at risk and disadvantaged youth to life skills, local professionals,
   and businesses.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Alliance Patti & Peter Neuwirth Leadership Academy, Animo Pat Brown HS, Animo
@@ -25,15 +22,6 @@ project_collaborators: >-
   HS, Animo Jackie Robinson HS, Animo Leadership HS, Alliance Susan & Eric Smidt
   Tech HS, Alliance Tennenbaum Family Technology HS, Alliance For Community
   Empowerment YouthBuild, Felicitas & Gonzalo Mendez HS, Valor Academy HS
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   We will evaluate our work through:
 
@@ -82,6 +70,31 @@ project_impact: >-
   rates","Proficiency in English and Language Arts and Math","Student education
   pipeline","Suspension and expulsion rates","Youth unemployment and
   underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  We believe that every child deserves exposure to life skills education and
+  connection with local business professionals. Our mission is to help at risk
+  and disadvantaged youth break out of the poverty cycle. We currently serve
+  about 400 students in 16 LA-area high schools and have approximately 25 Field
+  Trip Partners and 1,000 registered Guest Speakers. There are approximately 30
+  schools on our waiting list and we would like to expand to support more
+  schools and students.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   The Youth Business Alliance (YBA) is a 501(c)(3) nonprofit organization that
   focuses on bringing critical 21st century business skills and perspectives
@@ -138,27 +151,14 @@ project_proposal_best_place: >-
 
   We invite you to join us as we continue in our mission to support and inspire
   the future leaders of tomorrow!
-challenge_url: >-
-  https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
+project_image_2: 4435758065741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  We believe that every child deserves exposure to life skills education and
-  connection with local business professionals. Our mission is to help at risk
-  and disadvantaged youth break out of the poverty cycle. We currently serve
-  about 400 students in 16 LA-area high schools and have approximately 25 Field
-  Trip Partners and 1,000 registered Guest Speakers. There are approximately 30
-  schools on our waiting list and we would like to expand to support more
-  schools and students.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Youth Business Alliance
+organization_website: www.youthbizalliance.com
+organization_name_2: Youth Business Alliance
+organization_activity: >-
+  We connect at risk and disadvantaged youth to life skills, local
+  professionals, and businesses.
+ein: '462067337'
 
 ---

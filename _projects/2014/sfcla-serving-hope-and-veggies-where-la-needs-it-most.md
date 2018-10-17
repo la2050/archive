@@ -1,60 +1,22 @@
 ---
+published: true
+organization_id: '2014155'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102098'
 title: SFCLA - Serving Hope and Veggies where LA needs it most!
 project_summary: >-
   Eliminate Los Angeles’ food deserts by ensuring low-income families have free
   access to fresh produce and nutritious groceries.
-category: live
-organization_id: '2014155'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/uz4evo3B7qw'
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  We train and supply the professional theater artists, and continue our 20 year
-  relationship with services at the Veterans Administration such as New
-  Directions, the Salvation Army, and the California State Home for Veterans, as
-  well as other veteran homes and services all over Los Angeles in serving their
-  clients (the veterans), but on a larger scale than before by supplying more
-  artists in order to serve 100 vets. We arrange for the meeting space, and then
-  rent the theater spaces for performance
-What is your idea/project in more detail?: >-
-  Scientific testing at the UCLA Semel Institute has shown that among those who
-  suffer mental illness, participation in Imagination Workshop's theater
-  workshops for the mentally ill leads to a higher functioning, better life,
-  which includes improved social skills, higher functioning in job interviews,
-  the establishing of ego boundaries through the experience of creating and
-  embodying fictional characters, better participation in groups and programs,
-  and the ability to stay out of the hospital. Our work with homeless veterans
-  and those suffering PTSD in the past has been very successful and helped
-  hundreds of vets live fuller lives. By helping 100 Los Angeles veterans live
-  healthier lives, we help La become the healthiest place to live today. By
-  creating a continuing program that reaches out and serves this many vets every
-  year, we help make a heathy LA in 2050.
-What will you do to implement this idea/project?: >-
-  Our project will directly benefit 100 homeless veterans and veterans suffering
-  PTSD, their families, and their community. Through professional theater
-  presentations, we will reach audiences of several hundred theater-goers and
-  share with them the nature of our work and the needs of our veterans.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  In 2012, IW, with a a grant from Metabolic Studio, led 20 weekly sessions at
-  the Calvet Center with 40 senior vets and homeless vets from the California
-  State Home for Veterans and the Salvation Army Veteran Home that resulted in
-  an original theater production at the Odyssey theater, seen by 150 people.
-  From 2000 to 2010, IW ran a weekly group of homeless veterans at New
-  Directions that resulted in three original theater productions at Theater
-  Theater and The Greenway Theater. All of these organizations have issued IW a
-  standing invitation to work with their vets, but have not, of late, been able
-  to fund our work. With funding, IW is definitely invited to work with these
-  organizations.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-youtube_video_identifier: uz4evo3B7qw
 project_areas:
   - SFV
   - WESTSIDE
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: St. Francis Center
+  metrics_live_healthyfood: '1'
   org_website: 'http://sfcla.org'
   org_twitter: 'https://twitter.com/SFCLA'
   org_facebook: 'https://www.facebook.com/sfcla'
@@ -95,7 +57,7 @@ maker_answers:
   impact_live: "SFCLA’s fresh produce pantry project will help make LA the healthiest place to live today by providing free groceries filled with fresh produce and balanced, nutritious ingredients, many of which are hard to come by at other pantries.  Our high-tech refrigeration system will allow us to receive donations of fresh meat and dairy and deliver them to the sites safely. We will start service on a bi-weekly basis and transition to weekly service by the fourth quarter of the grant year.  \r\n\r\nFor many people in Los Angeles, the terms “vegan”, “gluten-free”, and “organic” are familiar terms that describe a lifestyle that is health-conscious. These labels can be found in the grocery stores where they shop, at the farmers markets they visit, and the restaurants they frequent. This concept is so common that the idea of living a nutrition-centered life is indelibly linked to the personality of Los Angeles. Unfortunately, for too many families in our county, access to healthy groceries and fresh produce is NOT a reality. The reality for many low-income families is that large grocery stores and their vast selections and lower prices can be few and far between.  The groceries and produce they do have access to are of poor quality or are over-priced. As a result, many meals come from fast food restaurants that are inexpensive or are made from ingredients that lack nutritional value. Anyone who has been to a grocery store has seen that you can get a bag of Cheetos for $1.50 but it costs a family twice that amount for a meager bag of spinach.\r\n\r\nOur project will help make LA the healthiest place to live in 2050 by ensuring the long-term health and well-being of LA's residents. Providing groceries and produce to families in need is not only about sustenance, but about the long-term effects of improving the health of a family. Often times, diseases like diabetes can be avoided when children are given fruits and vegetables instead of fast food or processed treats that come so cheap. While a fresh salad to many in Los Angeles is just another meal, it can make all the difference to a child who needs those nutrients to develop properly. By giving all Angelenos the resources they need to live healthy lives, we are investing in our society as a whole. \r\n"
   who_benefit: "This project will benefit extremely low-income families, youth, seniors, veterans, and disabled adults in Boyle Heights, East Hollywood, East Los Angeles and downtown LA.  The federal poverty level for a family of four is $23,550, but families who utilize SFCLA’s current pantry services have an average monthly income of only $1,020, HALF the federal poverty level (SFCLA 2013 internal census). \r\n\r\n88% of pantry participants at our downtown LA center self-identify as Hispanic or Latino, 9% as African American or Black, 2% as Caucasian or White, and 1% as Asian. \r\n\r\nExtremely low incomes combined with Los Angeles’ expensive housing market means that the majority of our guests’ income is going to shelter.  \r\n\r\nCurrently, SFCLA provides fresh produce and groceries to 400 families per week - over 20,000 families a year.  This satellite pantry project will allow SFCLA to increase the number of families served to at least 600 per week, or 30,000 annually by the end of the grant period. This is a 50% increase in the number of families SFCLA serves annually!\r\n\r\n“With my family, we began to eat more vegetables and fruits.  Instead we eat at home more instead of take out.  We read more labels on foods.”  - Anna, 15 years old. \r\n\r\nAs a nation with so many resources and such an abundance of wealth, it is IMPERATIVE that we see the future prosperity of our society as an issue that is rooted in the well-being of all citizens, no matter their tax-bracket. \r\n"
   partners_collaboration: "SFCLA has the confirmed partnership of the Franciscan parishes of Our Lady of Victory, Assumption, and Saint Francis of Assisi. These 3 parishes bring a unique awareness to the partnership: that of the specific trials, needs, concerns, and hopes of the communities they serve. The history of working to meet their constituent’s spiritual needs is now being translated into our combined efforts to meet the physical needs of their parishioners. Because the parishes serve as vibrant community centers in these neighborhoods, they are ideal locations for distributing groceries to those in need.\r\n\r\nWe have longstanding partnerships with many food suppliers – from large chain stores to regional food banks – that donate the food we distribute. Last year, SFCLA distributed over 1.1 MILLION pounds of food, the vast majority of it donated. Some of our key partners include Lucky Supermarkets, LA Food Bank, Heart of Compassion, and Food Finders. \r\n\r\nEvery month new volunteers join our existing rank of hundreds.  Half of our volunteers come as individuals, half come with organizations. They are high school students involved in a service-learning project, volunteers from corporations, churches and service groups.  Some give a few hours of their time, others have volunteered daily for years. The diversity of our volunteers with regards to background and regularity is remarkable. Without these valuable members of our team, SFCLA would be unable to deliver its services so efficiently or to cultivate the personal relationships with those who come to us in their time of need.  \r\n\r\nOur mutual history has yielded so much success due to many factors. (1) The deep commitment to not only provide for the immediate hunger of those in need, but also for their long-term health, is first and foremost; \r\n(2) the diversity of those we collaborate with is also imperative for creating the greatest impact through our program. If we had volunteers but no food, or food but no sense of the comprehensive needs and wishes of our families, it would be impossible to serve people in the way that we do; \r\n(3) The shared heart-centered philosophy of serving without judgment or obligation is imperative to our success.\r\n"
-  metrics_live_healthyfood: '1'
+  city_state: 'Los Angeles, CA'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'
@@ -111,7 +73,7 @@ maker_answers:
   metrics_live_treecanopy: '0'
   metrics_live_other: '0'
   metrics_live_blank: ''
-  impact_metrics: "SFCLA will deliver free groceries rich in fresh produce to communities where fresh food is scarce, improving the health of 3 LA neighborhoods in addition to our current site in downtown Los Angeles.\r\n\r\nFor a region of such abundance and notoriety across the globe, Los Angeles is riddled with areas where fresh produce and nutritious groceries are inaccessible for vulnerable populations. Whether that is because there are no large grocery store chains nearby or the food available is of poor quality or overpriced, for many Angelenos, healthy meals are not a reality. SFCLA’s goal is to eliminate Los Angeles’ food deserts so that children have the opportunity to grow up healthy, and low-income individuals are not prone to high rates of disease and disability. \r\n\r\nIn addition, community resilience is improved when members of the community eat healthy food.  Healthy eating leads to better physical, mental and emotional health, all of which are critical to maintain high levels of resilience.\r\n\r\nLast but not least, Los Angeles benefits economically from a decrease in health-related costs to taxpayers."
+  resources_network: '1'
   best_place_to_create: '1'
   best_place_to_play: '1'
   best_place_to_connect: '1'
@@ -130,8 +92,48 @@ maker_answers:
   resources_education: '1'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '0'
+  impact_metrics: "SFCLA will deliver free groceries rich in fresh produce to communities where fresh food is scarce, improving the health of 3 LA neighborhoods in addition to our current site in downtown Los Angeles.\r\n\r\nFor a region of such abundance and notoriety across the globe, Los Angeles is riddled with areas where fresh produce and nutritious groceries are inaccessible for vulnerable populations. Whether that is because there are no large grocery store chains nearby or the food available is of poor quality or overpriced, for many Angelenos, healthy meals are not a reality. SFCLA’s goal is to eliminate Los Angeles’ food deserts so that children have the opportunity to grow up healthy, and low-income individuals are not prone to high rates of disease and disability. \r\n\r\nIn addition, community resilience is improved when members of the community eat healthy food.  Healthy eating leads to better physical, mental and emotional health, all of which are critical to maintain high levels of resilience.\r\n\r\nLast but not least, Los Angeles benefits economically from a decrease in health-related costs to taxpayers."
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  We train and supply the professional theater artists, and continue our 20 year
+  relationship with services at the Veterans Administration such as New
+  Directions, the Salvation Army, and the California State Home for Veterans, as
+  well as other veteran homes and services all over Los Angeles in serving their
+  clients (the veterans), but on a larger scale than before by supplying more
+  artists in order to serve 100 vets. We arrange for the meeting space, and then
+  rent the theater spaces for performance
+What is your idea/project in more detail?: >-
+  Scientific testing at the UCLA Semel Institute has shown that among those who
+  suffer mental illness, participation in Imagination Workshop's theater
+  workshops for the mentally ill leads to a higher functioning, better life,
+  which includes improved social skills, higher functioning in job interviews,
+  the establishing of ego boundaries through the experience of creating and
+  embodying fictional characters, better participation in groups and programs,
+  and the ability to stay out of the hospital. Our work with homeless veterans
+  and those suffering PTSD in the past has been very successful and helped
+  hundreds of vets live fuller lives. By helping 100 Los Angeles veterans live
+  healthier lives, we help La become the healthiest place to live today. By
+  creating a continuing program that reaches out and serves this many vets every
+  year, we help make a heathy LA in 2050.
+What will you do to implement this idea/project?: >-
+  Our project will directly benefit 100 homeless veterans and veterans suffering
+  PTSD, their families, and their community. Through professional theater
+  presentations, we will reach audiences of several hundred theater-goers and
+  share with them the nature of our work and the needs of our veterans.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  In 2012, IW, with a a grant from Metabolic Studio, led 20 weekly sessions at
+  the Calvet Center with 40 senior vets and homeless vets from the California
+  State Home for Veterans and the Salvation Army Veteran Home that resulted in
+  an original theater production at the Odyssey theater, seen by 150 people.
+  From 2000 to 2010, IW ran a weekly group of homeless veterans at New
+  Directions that resulted in three original theater productions at Theater
+  Theater and The Greenway Theater. All of these organizations have issued IW a
+  standing invitation to work with their vets, but have not, of late, been able
+  to fund our work. With funding, IW is definitely invited to work with these
+  organizations.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
+youtube_video_identifier: uz4evo3B7qw
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -450,7 +452,5 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: lime
-published: true
 
 ---

@@ -1,11 +1,13 @@
 ---
+published: true
+organization_id: '2015043'
+year_submitted: 2015
+category: play
+body_class: strawberry
 project_id: '5102075'
 title: >-
   Intersection Repair - Using art to create safer streets and stronger
   communities
-organization_id: '2015043'
-areas_impacted: ''
-partners: 'Partner EINs:, 901004121'
 project_summary: >-
   We want to create safer neighborhoods and stronger communities by giving
   locals the opportunity to use art to “repair” public intersections in their
@@ -13,26 +15,14 @@ project_summary: >-
   intersection repair is a tested, cost-effective way to turn regular streets
   into places for people, making them safer and uniting neighbors through a
   common sense of ownership of and pride in their neighborhood.
-Please specify below: 'The Hub, Utopiad office in Solano Canyon'
-category: play
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
 project_image: 'https://img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/KHtt2okRChU'
-youtube_video_identifier: KHtt2okRChU
 project_areas:
   - Central LA
   - City of Los Angeles
 maker_answers:
-  How did you hear about this challenge?: How could I not?!
   'City, State': 'Los Angeles, California'
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   Organization(s) name(s): 'Compiler LA, Utopiad.org'
   Organization(s) mailing address(es): "Compiler LLC\r\n120 S Vignes St #403\r\nLos Angeles, CA 90012\r\n\r\nUtopiad.org\r\n828 SOLANO AVE\r\nLos Angeles, CA 90012"
   Organization(s) website(s): 'http://utopiad.org/, http://compiler.la'
@@ -77,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How did you hear about this challenge?: How could I not?!
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -93,6 +83,41 @@ maker_answers:
   How will your proposal improve the following “Play” metrics? Number of parks with intergenerational play opportunities (Dream Metric): '0'
   How will your proposal improve the following “Play” metrics? Number (and quality) of informal spaces for play (Dream Metric): '1'
   Describe in greater detail how you will make LA the best place to play.: "Streets in Los Angeles were designed with cars in mind, and because of that, they’re not a welcoming place for people to linger and play. We don’t have the same opportunity here to gather and play in the streets that other cities have, and because of that, we face significant barriers to important social functions like meeting new friends, hosting group activities, and forming close bonds with neighbors. This project will foster safer, stronger communities by encouraging neighborhood residents to work together to design and implement “intersection repair.”\r\n\r\nIntersection repair is a simple and fun technique that consists of collectively painting graphics, murals, and other public art in residential intersections. It’s relatively inexpensive, and has been shown to reduce crime, improve traffic safety, and strengthen the sense of community and communication amongst neighbors.\r\n"
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - Provide open data
+  Where will you be working?:
+    - Central LA
+    - City of Los Angeles
+    - 'The Hub, Utopiad office in Solano Canyon'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: Partnership on events
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Attendance at major league sporting events
+    - Number (and quality) of informal spaces for play (Dream Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "The most obvious hurdle will be getting the majority of people in a neighborhood to agree to altering their street. In order to grease the wheels, we plan to use an online voting system to choose our initial locations democratically, which will allow communities that really want to participate to come to us rather than us trying to force the project on a community that doesn’t want it.\r\n\r\nWorking with the city to get this type of project approved may also present a challenge, however, opt-in participation will eliminate most public opposition and give us a clear path to implementation. Progressive city council members like Jose Huizar’s office have expressed interest in such a project, and we’re confident we’d be able to work productively with local government to bring this project across the finish line.\r\n"
   Please explain how you will evaluate your work.: "Since the goal of this project is to strengthen community by encouraging residents to enjoy public streets in their neighborhoods, one of the best success metrics is simply the number of people active on a street throughout the day. Conveniently, New York company Placemeter recently released a technology that makes it easy to use streaming video to count pedestrian activity with 95% accuracy (manual pedestrian counts are usually only 75% accurate!). We’ve spoken with Placemeter about using their technology to gauge our success, and they agreed to work with us on an initial implementation.\r\n\r\nThroughout the life of the project, we will take measures to ensure that this type of data collection is a top priority. All data collected will be made available publicly, and we will use it ourselves to ensure that each implementation is as effective and successful as possible."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The City Repair Project in Portland pioneered this technique during the mid 90’s and has gotten significant recognition from the livable cities movement for it. 75% of survey respondents who live near the intersection of the first implementation reported experiencing increased communication amongst neighbors, decreased traffic speeds, and decreased crime. Books like Mike Lydon’s Tactical Urbanism praise intersection repair as a great way to create safer, more livable streets, and Mark Lakeman is regarded as something of a hero for championing the idea.\r\n\r\nIn Los Angeles, LADOT currently runs a program called People Street which fosters the creation of pedestrian-only plazas, parklets, and and bike corrals. These projects are complimentary, however, since the features are for pedestrians only and require expressly taking space away from vehicles, they are not easily created, and some residents are not in favor of them. Furthermore, the cost of creating and maintaining a pedestrian plaza is not justifiable in many smaller neighborhoods, despite the fact that those neighborhoods would greatly benefit from having them.\r\n\r\nThough we don’t like to think of creating livable streets as a competitive practice, we are unique in the way we plan to use programmatic data to maximize our success and the success of the project. This type of project has not been done before in Los Angeles, and coming into the scene with a project that is both informed by and even better than what has already been done in Portland will be a good source of publicity for Los Angeles as a player in the livable streets movement.\r\n\r\nAnd most importantly, given the density of incredibly talented artists living in Los Angeles, I'm confident the artwork we produce will blow away everyone elses!"
@@ -105,42 +130,19 @@ maker_answers:
     be a success, we intend to continue to fund additional implementations via
     crowdfunding.
   'Please include a detailed budget of how you will use $100,000 to implement this project.': "$10,000 - Project Development - Development / implementation of an outreach plan and campaign to determine location and extent of implementation\r\n\r\n$5,000 - Data Analysis - Reporting of metrics\r\n\r\n$500 - Promotional materials\r\n\r\n$800 - $1900 Each implementation\r\n    --- Paint - between $200 - $800 for a standard 44 foot wide intersection, depending on the type of paint used\r\n    --- Hardware needed to measure pedestrian activity - ~$600 per intersection\r\n    --- Ongoing service fee for use of pedestrian counting software $0 - $500 / month\r\n\r\n$5,000 - $10,000 - Staff time for continuing outreach, iteration, and shepherding of additional implementations."
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: Partnership on events
   How do you plan to scale the success of your proposal?: "In the near term, all of our plazas will contain easily accessible information (both online and off) encouraging people to get involved and bring similar treatments to their own communities. We will partner with existing organizations such as LACBC, LA Walks, CicLAvia, Frogspot, and LA Más to develop a mailing list and curate an ecosystem of dialog with interested people.\r\n\r\nSimilar to what was done in Portland, we want to create a formalized process within the city so that neighborhoods across Los Angeles can initiate their own implementations and strengthen community in their neighborhoods. We’ll use the compelling data we collect to present the increased traffic safety, decreased crime, and increased pedestrian activity to the city, and work with local council members to make intersection repair fast and easy for any communities that want to try it."
-  Where will you be working?:
-    - Central LA
-    - City of Los Angeles
-    - 'The Hub, Utopiad office in Solano Canyon'
-  How do you plan to use these resources to make change?:
-    - Conduct research
-    - Engage residents and stakeholders
-    - Implement a pilot or new project
-    - Advocate with policymakers and leaders
-    - Implement and track policy
-    - Provide open data
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - Community outreach
-    - Network/relationship support
-    - Quality improvement research
-  How will your proposal improve the following “Play” metrics?:
-    - Access to open space and park facilities
-    - Per capita crime rates
-    - Percentage of residents that feel safe in their neighborhoods
-    - Attendance at major league sporting events
-    - Number (and quality) of informal spaces for play (Dream Metric)
+areas_impacted: ''
+partners: 'Partner EINs:, 901004121'
+Please specify below: 'The Hub, Utopiad office in Solano Canyon'
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
+youtube_video_identifier: KHtt2okRChU
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -515,8 +517,6 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "In the near term, all of our plazas will contain easily accessible information (both online and off) encouraging people to get involved and bring similar treatments to their own communities. We will partner with existing organizations such as LACBC, LA Walks, CicLAvia, Frogspot, and LA Más to develop a mailing list and curate an ecosystem of dialog with interested people.\r\n\r\nSimilar to what was done in Portland, we want to create a formalized process within the city so that neighborhoods across Los Angeles can initiate their own implementations and strengthen community in their neighborhoods. We’ll use the compelling data we collect to present the increased traffic safety, decreased crime, and increased pedestrian activity to the city, and work with local council members to make intersection repair fast and easy for any communities that want to try it."
-body_class: strawberry
 organization_name: 'Compiler LA, Utopiad.org'
-published: true
 
 ---

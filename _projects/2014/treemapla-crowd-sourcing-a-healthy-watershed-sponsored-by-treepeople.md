@@ -1,64 +1,24 @@
 ---
+published: true
+organization_id: '2016094'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102088'
 title: 'TreeMapLA: Crowd-Sourcing a Healthy Watershed sponsored by TreePeople'
 project_summary: >-
   On TreeMapLA Angelenos can crowd-source a healthier future by revitalizing our
   urban watershed: one tree and one rain garden at a time.
-category: live
-organization_id: '2016094'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22854%252Fdisplay%252FTreeMapLA_(1).jpg=c570x385
 project_video: ''
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  We build relationships with established organizations in low-income
-  communities, who connect us with a first class of 10 families. After six
-  months working with us to improve their health, those 10 families recruit 10
-  more families, and serve as mentors. The cycle continues each season, as
-  stakeholders spread practices of healthy living throughout their networks. So,
-  over time, we organically grow a robust oasis of wellness in food deserts,
-  empowering communities to nurture future generations’ bodies, minds and
-  hearts.
-What is your idea/project in more detail?: >-
-  A lot of wonderful projects are trying to change the food system from the top
-  down. We are doing the opposite--from the bottom up, one family at a time. 
-   
-   Right here in LA, we have kickstarted a growing movement teaching people how to take care of their bodies in the present food system. Groceryships is offering not a technical solution, but an adaptive one, helping people achieve vibrant health despite their current circumstances. We focus on the here and now, spreading a solution that equips people with the knowledge, tools, and support to make permanent lifestyle changes. 
-   
-   The wealth gap creates the health gap. At Groceryships, we know every person's health is equally important, but the world seems to disagree. So we've structured our program and organization to help close both gaps. We focus on bringing all the resources available to higher income neighborhoods to lower income families. We fund this partially by donations, but also by bringing our innovative curriculum and program structure to corporations, through our for-profit Corporate Wellness program. 
-   
-   In 2050, Groceryships groups will have spread across Los Angeles. The tech companies in Silicon Beach will be getting healthy through our corporate wellness program, while at the same time financing groups in Compton and Inglewood. The finance companies in Pasadena and the South Bay will be getting healthy while financing Groceryships groups in Boyle Heights. 
-   
-   By 2050, the seeds we planted in 2014 will have taken root and changed the landscape from a desert to a rainforest, where generations of families have adopted healthy ways of eating, moving, and communicating. The Framingham study made clear the power of social networks. Changing a single families health can have profound influence not just on future generations of that family, but on everyone they come in contact with, and who those people come in contact with. 
-   Over the long run, a change in one family can change a community, which can change a city.
-What will you do to implement this idea/project?: >-
-  Our first two groups are in South Los Angeles and Boyle Heights, where
-  childhood obesity is 30% and the rate of overweight/obesity is above 70%. We
-  will focus primarily on low-income families across Los Angeles who are
-  struggling with food related health issues like obesity, diabetes, heart
-  disease, malnourishment, etc.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  Homeboy Industries has mentored us from the early stages of our program,
-  providing advice and support in developing our concept. In October, we are
-  launching our first class together, connecting their twenty-six years of
-  experience, highly motivated members, and proven success with our innovative
-  strategy. This is a mutually beneficial partnership, allowing us to transform
-  the relationship with food for Homeboy employees, explore a different facet of
-  the wellness emphasized by Homeboy, and introduce our curriculum to a new
-  neighborhood.
-   
-   Vitamix has also worked with us throughout our pilot program. The blenders they donate make it easier for families to increase fruit and vegetable consumption, so much so that kids of our families are holding “smoothie parties.”
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-maker_image_id: '22854'
-maker_image_file_name: TreeMapLA_(1).jpg
 project_areas:
   - CENTRAL LA
   - EAST LA
   - SOUTH LA
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: TreePeople
+  metrics_live_healthyfood: '1'
   org_website: 'http://www.treemapla.org'
   org_twitter: www.twitter.com/TreeMapLA  www.twitter.com/TreePeople_org
   org_facebook: www.facebook.com/TreeMapLA  www.facebook.com/TreePeople1
@@ -99,7 +59,7 @@ maker_answers:
   impact_live: "Los Angeles’ urban ecosystem is broken and our future is at risk. Angelenos are in need of a healthier and more climate-resilient city – one with sufficient tree canopy to protect our neighborhoods, and more locally-sourced water. We urgently need our urban environment to protect us from extreme heat waves, droughts and floods, and related health and economic problems happening now -- and forecast to intensify in our future.\r\n\r\nTrees capture, filter and store rainwater, save energy, significantly cool surrounding areas, and absorb carbon dioxide and airborne pollutants. Some areas of LA have canopy coverage at nearly 40%, while others are only in the single digits. This geographic disparity corresponds with socio-economic and chronic health issues, leaving many of our most vulnerable residents even more at risk in years to come.\r\n\r\nThe City of LA currently imports nearly 90% of  its water from remote and increasingly contested sources. Meanwhile, every time it rains an inch in the city, 3.8 billion gallons run into  the ocean.  The city “throws away” an estimated $400 million worth of rainwater every year. This pollutes our ocean, leading to beach closures, sickness, and costly fines, and damages marine life.\r\n\r\nTreeMapLA shows the community specific eco-benefits of each tree and watershed feature, and the urban watershed as a whole. Each benefit is directly, or indirectly, related to the health of our city:\r\n\r\n●\tEnergy conserved (reducing  energy-related carbon and particulate pollution due to cooling temperatures)\r\n●\tStormwater filtered (adding to cleaner local water supply)\r\n●\tAir quality improved (reducing respiratory disease)\r\n●\tCarbon dioxide removed and stored-to-date (reducing climate change)\r\n●\tStormwater runoff reduced (reducing pollution and toxicity)\r\n●\tWater conserved (increasing water supply).\r\n\r\nToo often, because the environmental issues facing people seem so overwhelming, they feel powerless and paralyzed, unable to believe they can make any meaningful change. Research and our own experience tell us that when people see the difference they make, they are motivated to do more. We know that once people begin to notice and learn about trees, they never see the city the same way again. Noticing and learning are the first steps towards valuing. Living in a way that values, promotes and protects nature even in the most urbanized areas of LA improves our health -- now and in the future.\r\n"
   who_benefit: "TreeMapLA is a shared resource for LA’s people and organizations to co-create, revitalize, and steward a healthy urban forest watershed. By bringing people together with a shared vision for growing a more sustainable LA -- and a way of measuring their actions -- this collaborative tool can help all residents improve their communities, their health, and their well-being.\r\n\r\nTreePeople is reaching out to specific audiences to take a leading role.  These include:\r\n\r\n1. Teachers and students. Using our 4 decades of experience developing environmental education, TreePeople’s TreeMapLA curriculum teaches all 5 “STEAM” areas--Science, Technology, Engineering, Arts and Mathematics--as students analyze canopy coverage and water needs of their school, map existing trees, identify species, understand  eco-benefits, and use alerts to identify trees needing care.  Rainwater harvesting projects can be identified and implemented, later using water saved to care for the trees schools have planted. \r\n\r\n2. Partner organizations and their audiences. TreePeople is actively seeking partners to use TreeMapLA to advance their own goals. We are developing a set of best practices, promotional and outreach materials, and tips and tools that other organizations can adopt and make their own. \r\n\r\n3. Those who can restore a functioning ecosystem (all of us).  With spiraling costs to fix our broken ecosystem, and diminishing financial resources to do so, government agencies alone cannot plant or care for all the trees needed to achieve an ample urban tree canopy, nor can they provide a sustainable local water supply through traditional methods. For LA to be healthy and viable in the future, all of us need to become active managers of the urban watershed and ecosystem, taking personal responsibility for the trees in our lives and our city, and the rainwater that falls on our properties.\r\n\r\n4. A movement of active tree stewards and rainwater harvesters. As TreeMapLA is further developed and collaborators join, it’s an ideal platform for building a movement -- where those who are taking action can learn from and help others, where agencies can track water, energy and pollution savings and provide incentives, where neighborhoods, schools and cities can define their portion of the urban watershed and set goals and programs to improve them.\r\n"
   partners_collaboration: "Early conceptual and design partners include LA City Recreation & Parks, LA City Urban Forestry Division and City Plants (formerly Million Trees LA). All provided invaluable insight into the need for collaborators to 1) feel a sense of ownership, 2) use the map to help achieve their own strategic goals, and 3) find ways for TreeMapLA to fit into their current programs.\r\n\r\nPartners currently providing direction on community and user engagement include Industrial District Green, a Downtown LA group increasing the livability of Skid Row and the Arts District by planting trees, UC Riverside, and the Earthwatch Institute, which engages people worldwide in scientific research. \r\n\r\nIDG has been instrumental in helping to beta test TreeMapLA. Since the map launched, IDG has been partnering to map all the trees and empty tree wells in their area to create a master tree plan to plant the empty wells, determine where new trees can be placed, and better provide maintenance.  What’s exciting about this partnership is its replicability in creating neighborhood-level master tree plans and tackling low-canopy areas.\r\n\r\nOur newest partnership is with Earthwatch Institute, an international non-profit, UC Riverside researchers, and several local non-profits to use TreeMapLA for ground-truthing that compares actual tree data to visual data collected by NASA flights to determine water use and growth rates of different species in different locations within the LA area. The goal is to predict which trees might be more sustainable as the climate in Southern California grows hotter and drier. To participate in a Citizen Science project that could literally change the urban forestry landscape in Los Angeles is incredible, and TreePeople sees this as only the first of many such projects, partnering with local non-profits and universities to collect and share usable scientific data through TreeMapLA.\r\n\r\nIn the next year we’ll form a TreeMapLA Advisory Committee, and have identified urban forestry and related organizations to invite. We hope to bring in diverse ideas and ownership to make this the most valuable tool possible for our entire region.\r\n\r\nOur most important and long-term partnership, however, is with the people of LA. Our 40 year history has been one of partnering with people from all walks of life to educate, empower and motivate them to heal our environment.  TreeMapLA makes it easier for all of us to join together and share knowledge to make our city more sustainable.  \r\n"
-  metrics_live_healthyfood: '1'
+  city_state: 'Los Angeles, CA'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'
@@ -115,7 +75,7 @@ maker_answers:
   metrics_live_treecanopy: '1'
   metrics_live_other: '0'
   metrics_live_blank: ''
-  impact_metrics: "TreePeople’s 10-year vision focuses on two important goals for LA’s future viability:\r\n\r\n1. A minimum 25% of tree canopy cover across the region to protect people against extreme heat, severe weather, and negative health impacts;\r\n2.  A minimum 50% of affordable, locally-sourced water supply to provide security against droughts, pollution and flooding, and other threats.\r\n\r\nAchieving these goals impacts the LA2050 LIVE metrics in numerous ways.\r\n\r\nTreeMapLA empowers Angelenos to advocate for trees and their multiple benefits, identify where trees are lacking, and care for existing trees so they can grow to healthy maturity. \r\n\r\nGrowing an ample, equitable tree canopy cover:\r\n\r\n●\tIncreases walking and biking, thereby reducing obesity. Trees reduce the urban heat island effect, reducing air temperatures by as much as 10 degrees. The areas of our city with the lowest tree canopy are the least conducive to outdoor activity and correlate with the the greatest incidences of diabetes, obesity, asthma and cancer.\r\n\r\n●\tProtects people against air toxins. Trees absorb air pollutants linked to respiratory ailments.  One mature shade tree can produce enough oxygen for a family of 4 for a year. Neighborhoods with less tree canopy are disproportionately affected by air pollution and related ailments.\r\n\r\n●\tIncreases access to healthy food. A mature fruit tree can yield up to 40 pounds of fruit each year.  Knowing where LA’s public and communal fruit trees are will increase access to fresh fruit and hopefully increase the efficiency of fruit gleaning organizations.\r\n\r\n●\tImproves mental health. Studies show that green space decreases ADHD in children and increases a sense of calm and well-being in all age groups. \r\n\r\nTreeMapLA enables Angelenos to realize the benefits of harvesting rainwater to create an ample, clean, sustainable local water supply:\r\n\r\n●\tIncreasing community resilience, reducing our unsustainable reliance on LA’s vulnerable imported water sources and creating a decentralized supply that is safer in the event of earthquakes, fires and other disasters.\r\n\r\n●\tReducing polluted waterways by capturing the rain instead of allowing it to run off paved surfaces, collecting trash and pollutants as it rushes to our bays and ocean.\r\n"
+  resources_network: '1'
   best_place_to_create: '0'
   best_place_to_play: '1'
   best_place_to_connect: '1'
@@ -140,8 +100,48 @@ maker_answers:
   resources_education: '1'
   resources_technical: '1'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '1'
+  impact_metrics: "TreePeople’s 10-year vision focuses on two important goals for LA’s future viability:\r\n\r\n1. A minimum 25% of tree canopy cover across the region to protect people against extreme heat, severe weather, and negative health impacts;\r\n2.  A minimum 50% of affordable, locally-sourced water supply to provide security against droughts, pollution and flooding, and other threats.\r\n\r\nAchieving these goals impacts the LA2050 LIVE metrics in numerous ways.\r\n\r\nTreeMapLA empowers Angelenos to advocate for trees and their multiple benefits, identify where trees are lacking, and care for existing trees so they can grow to healthy maturity. \r\n\r\nGrowing an ample, equitable tree canopy cover:\r\n\r\n●\tIncreases walking and biking, thereby reducing obesity. Trees reduce the urban heat island effect, reducing air temperatures by as much as 10 degrees. The areas of our city with the lowest tree canopy are the least conducive to outdoor activity and correlate with the the greatest incidences of diabetes, obesity, asthma and cancer.\r\n\r\n●\tProtects people against air toxins. Trees absorb air pollutants linked to respiratory ailments.  One mature shade tree can produce enough oxygen for a family of 4 for a year. Neighborhoods with less tree canopy are disproportionately affected by air pollution and related ailments.\r\n\r\n●\tIncreases access to healthy food. A mature fruit tree can yield up to 40 pounds of fruit each year.  Knowing where LA’s public and communal fruit trees are will increase access to fresh fruit and hopefully increase the efficiency of fruit gleaning organizations.\r\n\r\n●\tImproves mental health. Studies show that green space decreases ADHD in children and increases a sense of calm and well-being in all age groups. \r\n\r\nTreeMapLA enables Angelenos to realize the benefits of harvesting rainwater to create an ample, clean, sustainable local water supply:\r\n\r\n●\tIncreasing community resilience, reducing our unsustainable reliance on LA’s vulnerable imported water sources and creating a decentralized supply that is safer in the event of earthquakes, fires and other disasters.\r\n\r\n●\tReducing polluted waterways by capturing the rain instead of allowing it to run off paved surfaces, collecting trash and pollutants as it rushes to our bays and ocean.\r\n"
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  We build relationships with established organizations in low-income
+  communities, who connect us with a first class of 10 families. After six
+  months working with us to improve their health, those 10 families recruit 10
+  more families, and serve as mentors. The cycle continues each season, as
+  stakeholders spread practices of healthy living throughout their networks. So,
+  over time, we organically grow a robust oasis of wellness in food deserts,
+  empowering communities to nurture future generations’ bodies, minds and
+  hearts.
+What is your idea/project in more detail?: >-
+  A lot of wonderful projects are trying to change the food system from the top
+  down. We are doing the opposite--from the bottom up, one family at a time. 
+   
+   Right here in LA, we have kickstarted a growing movement teaching people how to take care of their bodies in the present food system. Groceryships is offering not a technical solution, but an adaptive one, helping people achieve vibrant health despite their current circumstances. We focus on the here and now, spreading a solution that equips people with the knowledge, tools, and support to make permanent lifestyle changes. 
+   
+   The wealth gap creates the health gap. At Groceryships, we know every person's health is equally important, but the world seems to disagree. So we've structured our program and organization to help close both gaps. We focus on bringing all the resources available to higher income neighborhoods to lower income families. We fund this partially by donations, but also by bringing our innovative curriculum and program structure to corporations, through our for-profit Corporate Wellness program. 
+   
+   In 2050, Groceryships groups will have spread across Los Angeles. The tech companies in Silicon Beach will be getting healthy through our corporate wellness program, while at the same time financing groups in Compton and Inglewood. The finance companies in Pasadena and the South Bay will be getting healthy while financing Groceryships groups in Boyle Heights. 
+   
+   By 2050, the seeds we planted in 2014 will have taken root and changed the landscape from a desert to a rainforest, where generations of families have adopted healthy ways of eating, moving, and communicating. The Framingham study made clear the power of social networks. Changing a single families health can have profound influence not just on future generations of that family, but on everyone they come in contact with, and who those people come in contact with. 
+   Over the long run, a change in one family can change a community, which can change a city.
+What will you do to implement this idea/project?: >-
+  Our first two groups are in South Los Angeles and Boyle Heights, where
+  childhood obesity is 30% and the rate of overweight/obesity is above 70%. We
+  will focus primarily on low-income families across Los Angeles who are
+  struggling with food related health issues like obesity, diabetes, heart
+  disease, malnourishment, etc.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  Homeboy Industries has mentored us from the early stages of our program,
+  providing advice and support in developing our concept. In October, we are
+  launching our first class together, connecting their twenty-six years of
+  experience, highly motivated members, and proven success with our innovative
+  strategy. This is a mutually beneficial partnership, allowing us to transform
+  the relationship with food for Homeboy employees, explore a different facet of
+  the wellness emphasized by Homeboy, and introduce our curriculum to a new
+  neighborhood.
+   
+   Vitamix has also worked with us throughout our pilot program. The blenders they donate make it easier for families to increase fruit and vegetable consumption, so much so that kids of our families are holding “smoothie parties.”
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -466,7 +466,7 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '1'
-body_class: lime
-published: true
+maker_image_id: '22854'
+maker_image_file_name: TreeMapLA_(1).jpg
 
 ---

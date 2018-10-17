@@ -1,15 +1,100 @@
 ---
+published: true
+organization_id: '2018123'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102231'
 title: RUN FOR YOUR LIFE
 project_summary: >-
   RUN4YOURLIFE - 10K  Walk/Run where you get paid to participate.  Mobile app
   registration, start training, complete the event and get paid.
-category: live
-organization_id: '2018123'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20215%252Fdisplay%252FRUN_FOR_YOUR_LIFE.jpg=c570x385
 project_video: ''
+project_areas:
+  - SOUTH LA
+maker_answers:
+  org_name: The Laurel Foundation
+  metrics_live_healthcare: '0'
+  org_website: www.Laurel-Foundation.org
+  org_twitter: www.twitter.com/thelaurelfdn
+  org_facebook: Facebook.com/thelaurelfdn
+  org_instagram: instagram.com/thelaurelfdn
+  org_mailingaddress: "75 S. Grand Ave.\r\nPasadena, CA  91105"
+  EIN: '954429260'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '1'
+  describe_collaboration: '0'
+  describe_organization: >-
+    We at @TheLaurelFdn want to get LA in shape and moving!  How?  Let's pay
+    people to get in shape.  Sound good?  Vote @RUN4YOURLIFE 
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  describe_idea: >-
+    RUN4YOURLIFE - 10K  Walk/Run where you get paid to participate.  Mobile app
+    registration, start training, complete the event and get paid.
+  more_detail: "RUN FOR YOUR LIF will host a 10K event to get LA moving!  We believe that if people start to exercise, they will want to continue.  So by signing up via a mobile app, training everyday for a minimum of a month - all documented via the app, then come to the final event day, walk/run 10K and get a check!\r\n\r\nWe truly believe and have seen it happen that if you start to work out, you will start to eat right and you will feel better, and want to continue this healthy lifestyle.  The first event of it's kind, LA will be the leader in taking action against fighting obesity.  Parents will engager the kids, who will get paid too!  What a great way to teach kids the importance of being active.  \r\n\r\nEvent will end with a Health fair and celebration!  "
+  implement: "We will create a mobile app that will allow people to sign up and then log their exercise. \r\n\r\nWe will create the 10K walk/run, securing all that logistics and permits.\r\n\r\nWe will hire all necessary government officials to secure a safe event.\r\n\r\nWe will secure all media to be sure LA is in the limelight.\r\n\r\nWe will get volunteers to help with water stations/event day registration etc.\r\n\r\nWe will have tech support for the app.\r\n\r\nWe will have goodie bags and event T-shirts\r\n\r\nWe will have checks read at the end of the finish line instead of medals.\r\n\r\n\r\n\r\n"
+  impact_live: "You kidding me?  This is a no brainer!  This event will without a doubt make LA one of the healthiest places to live.  We will actually be doing something to get people to MOVE and be active - literally for their life.  The city is so focused on automobile transportation.  If we get people to feel better just by walking some where (to train for the RUN FOR YOUR LIFE 10K) then we have made a step in the right direction.  \r\n\r\nResearch shows that the hardest part about getting in shape is starting to work out.  So by giving people an incentive to work out, we are getting them to take that first step. \r\n\r\nLA will be taking the first step in the country to believe that we MUST change the way we live our lives … we will be the first city to really make a culture change … to MOVE.\r\n\r\nEach year we can do the event, making cash prizes larger.  More and more people will sign up.  By 2050, we will have a city that is all about being active, exercising and eating healthy.  This will lead to the change of other cultures in the city such as increased ride sharing, using public transportation more, hopefully we will have a Bike Share Transit system that will be in use by then) in short, LA will have become a health (no smog) active city that everyone will want to live in!"
+  who_benefit: "The people of LA.  Anyone who wants to take action and has wended to improve their health but never had a reason to.  This will benefit the mom in South Central and her kids, the man in Santa Monica who wants to run but just has not found the time to start, the grandma who wants to start exercising and now is being asked by her grandson to do it with her.\r\n\r\nEVERYONE!\r\n\r\nWe will come together as a city and community!  Rich, poor, young, old, black, white, we are LA. and LA MOVES - RUN FOR YOUR LIFE!"
+  partners_collaboration: "We will need to work with a mobil app company to create the app for this event.  We will also work with an organization who has put on large walk/runs for LA.\r\n\r\nThese have not bee secured but we are in the process now of getting them.  "
+  metrics_live_healthyfood: '0'
+  city_state: 'Pasadena, CA '
+  metrics_live_airtoxins: '0'
+  metrics_live_selfsufficiency: '0'
+  metrics_live_importedwater: '0'
+  metrics_live_obesity: '1'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '1'
+  metrics_live_pollutedwaterways: '0'
+  metrics_live_mentalillness: '1'
+  metrics_live_childhood: '0'
+  metrics_live_communities: '0'
+  metrics_live_healthcareservice: '0'
+  metrics_live_treecanopy: '0'
+  metrics_live_other: '0'
+  metrics_live_blank: ''
+  resources_network: '1'
+  best_place_to_create: '1'
+  best_place_to_play: '1'
+  best_place_to_connect: '1'
+  best_place_to_learn: '1'
+  evaluate: "LA MOVES will have an app that is created that will actually log all the miles everyone who is registered accumulates.  This will be mandatory for each participant to complete, in order to receive payment for completion of the event.\r\n\r\nAfter that we will strongly suggest that they maintain using the app so we can document the activity after the event.  Some will.  This will then show us our success rate above and beyond the event timeline.\r\n\r\nMetrics:\r\n\r\n- Minimum of 1,000 people sign up to participate in the event and log their activity for a minimum of 1 month. \r\n\r\n- 1000 people in LA will come together for a one day 10K run/walk\r\n\r\n- 1000 people will change the way they live for a minimum of 1 month to complete this event. "
+  two_lessons: "1. The hardest thing in exercising and creating a healthy life style is starting a routine.\r\n\r\n2. Once you start to feel healthy - you will continue to do the actions that make you feel healthy."
+  achievable_goal: "The project will take 12 months.  This is achievable as we will need the time to create the app (2 months) and then start to market it.  The biggest piece is the marketing and the app.  Securing the permits and location etc will be easy.  \r\n\r\nSo 2 months for the app set up.  Marketing will start immediately to get it ready to launch the program as soon as the app is ready.  Then market market market… secure all logistics and… done!\r\n\r\nTime frame is easy."
+  major_challenges: "1. Full time staff to implement the event. \r\nWe will need a minimum of 1 full time staff to do this event.  Solution, we will pay 1 full time staff to do this.  This will come from the award money.\r\n\r\n2. Finding the best mobile app company to create the app.  Solution: we have our connections.  We will interview all the best mobile app creation companies and hire the best.  \r\n"
+  competition: "N/A\r\n"
+  cost: 'We can do it for $100,000!'
+  budget: "Mobile App: $20,000\r\nStaff Salary: $30,000\r\nPermits etc.: $4,000\r\nOffice supplies etc: $6,000\r\nAwards (checks) $40,000"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_research: '0'
+  impact_metrics: >-
+    Through exercise the obesity rate will drop, healthy eating will occur,
+    mental illness will lower (exercise has proven to improve mental health),
+    and more people will choose to walk, bike or ride, improving the transit
+    scores for the city.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Avalon Green Alley Network Demonstration Project is leading efforts to
   green the nearly 900 linear miles of alleys in the City of Los Angeles. These
@@ -76,91 +161,6 @@ How will your idea/project help make LA the best place to connect today? In LA20
    o Los Angeles Police Department: Attends monthly platicas and works with residents to discuss safety and community issues
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
-maker_image_id: '20215'
-maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
-project_areas:
-  - SOUTH LA
-maker_answers:
-  city_state: 'Pasadena, CA '
-  org_name: The Laurel Foundation
-  org_website: www.Laurel-Foundation.org
-  org_twitter: www.twitter.com/thelaurelfdn
-  org_facebook: Facebook.com/thelaurelfdn
-  org_instagram: instagram.com/thelaurelfdn
-  org_mailingaddress: "75 S. Grand Ave.\r\nPasadena, CA  91105"
-  EIN: '954429260'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '1'
-  describe_collaboration: '0'
-  describe_organization: >-
-    We at @TheLaurelFdn want to get LA in shape and moving!  How?  Let's pay
-    people to get in shape.  Sound good?  Vote @RUN4YOURLIFE 
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  describe_idea: >-
-    RUN4YOURLIFE - 10K  Walk/Run where you get paid to participate.  Mobile app
-    registration, start training, complete the event and get paid.
-  more_detail: "RUN FOR YOUR LIF will host a 10K event to get LA moving!  We believe that if people start to exercise, they will want to continue.  So by signing up via a mobile app, training everyday for a minimum of a month - all documented via the app, then come to the final event day, walk/run 10K and get a check!\r\n\r\nWe truly believe and have seen it happen that if you start to work out, you will start to eat right and you will feel better, and want to continue this healthy lifestyle.  The first event of it's kind, LA will be the leader in taking action against fighting obesity.  Parents will engager the kids, who will get paid too!  What a great way to teach kids the importance of being active.  \r\n\r\nEvent will end with a Health fair and celebration!  "
-  implement: "We will create a mobile app that will allow people to sign up and then log their exercise. \r\n\r\nWe will create the 10K walk/run, securing all that logistics and permits.\r\n\r\nWe will hire all necessary government officials to secure a safe event.\r\n\r\nWe will secure all media to be sure LA is in the limelight.\r\n\r\nWe will get volunteers to help with water stations/event day registration etc.\r\n\r\nWe will have tech support for the app.\r\n\r\nWe will have goodie bags and event T-shirts\r\n\r\nWe will have checks read at the end of the finish line instead of medals.\r\n\r\n\r\n\r\n"
-  impact_live: "You kidding me?  This is a no brainer!  This event will without a doubt make LA one of the healthiest places to live.  We will actually be doing something to get people to MOVE and be active - literally for their life.  The city is so focused on automobile transportation.  If we get people to feel better just by walking some where (to train for the RUN FOR YOUR LIFE 10K) then we have made a step in the right direction.  \r\n\r\nResearch shows that the hardest part about getting in shape is starting to work out.  So by giving people an incentive to work out, we are getting them to take that first step. \r\n\r\nLA will be taking the first step in the country to believe that we MUST change the way we live our lives … we will be the first city to really make a culture change … to MOVE.\r\n\r\nEach year we can do the event, making cash prizes larger.  More and more people will sign up.  By 2050, we will have a city that is all about being active, exercising and eating healthy.  This will lead to the change of other cultures in the city such as increased ride sharing, using public transportation more, hopefully we will have a Bike Share Transit system that will be in use by then) in short, LA will have become a health (no smog) active city that everyone will want to live in!"
-  who_benefit: "The people of LA.  Anyone who wants to take action and has wended to improve their health but never had a reason to.  This will benefit the mom in South Central and her kids, the man in Santa Monica who wants to run but just has not found the time to start, the grandma who wants to start exercising and now is being asked by her grandson to do it with her.\r\n\r\nEVERYONE!\r\n\r\nWe will come together as a city and community!  Rich, poor, young, old, black, white, we are LA. and LA MOVES - RUN FOR YOUR LIFE!"
-  partners_collaboration: "We will need to work with a mobil app company to create the app for this event.  We will also work with an organization who has put on large walk/runs for LA.\r\n\r\nThese have not bee secured but we are in the process now of getting them.  "
-  metrics_live_healthyfood: '0'
-  metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '1'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '1'
-  metrics_live_pollutedwaterways: '0'
-  metrics_live_mentalillness: '1'
-  metrics_live_childhood: '0'
-  metrics_live_communities: '0'
-  metrics_live_healthcareservice: '0'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  impact_metrics: >-
-    Through exercise the obesity rate will drop, healthy eating will occur,
-    mental illness will lower (exercise has proven to improve mental health),
-    and more people will choose to walk, bike or ride, improving the transit
-    scores for the city.
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  best_place_to_connect: '1'
-  best_place_to_learn: '1'
-  evaluate: "LA MOVES will have an app that is created that will actually log all the miles everyone who is registered accumulates.  This will be mandatory for each participant to complete, in order to receive payment for completion of the event.\r\n\r\nAfter that we will strongly suggest that they maintain using the app so we can document the activity after the event.  Some will.  This will then show us our success rate above and beyond the event timeline.\r\n\r\nMetrics:\r\n\r\n- Minimum of 1,000 people sign up to participate in the event and log their activity for a minimum of 1 month. \r\n\r\n- 1000 people in LA will come together for a one day 10K run/walk\r\n\r\n- 1000 people will change the way they live for a minimum of 1 month to complete this event. "
-  two_lessons: "1. The hardest thing in exercising and creating a healthy life style is starting a routine.\r\n\r\n2. Once you start to feel healthy - you will continue to do the actions that make you feel healthy."
-  achievable_goal: "The project will take 12 months.  This is achievable as we will need the time to create the app (2 months) and then start to market it.  The biggest piece is the marketing and the app.  Securing the permits and location etc will be easy.  \r\n\r\nSo 2 months for the app set up.  Marketing will start immediately to get it ready to launch the program as soon as the app is ready.  Then market market market… secure all logistics and… done!\r\n\r\nTime frame is easy."
-  major_challenges: "1. Full time staff to implement the event. \r\nWe will need a minimum of 1 full time staff to do this event.  Solution, we will pay 1 full time staff to do this.  This will come from the award money.\r\n\r\n2. Finding the best mobile app company to create the app.  Solution: we have our connections.  We will interview all the best mobile app creation companies and hire the best.  \r\n"
-  competition: "N/A\r\n"
-  cost: 'We can do it for $100,000!'
-  budget: "Mobile App: $20,000\r\nStaff Salary: $30,000\r\nPermits etc.: $4,000\r\nOffice supplies etc: $6,000\r\nAwards (checks) $40,000"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_network: '1'
-  resources_research: '0'
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -477,7 +477,7 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: lime
-published: true
+maker_image_id: '20215'
+maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
 
 ---

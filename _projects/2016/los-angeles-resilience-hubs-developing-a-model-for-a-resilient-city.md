@@ -1,30 +1,22 @@
 ---
+published: true
 organization_id: '2018046'
 year_submitted: 2016
-organization_name: Global Green USA
-organization_website: globalgreen.org
-ein: '770387124'
-project_image_2: 8832997725741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102083'
+challenge_url: >-
+  https://challenge.la2050.org/entry/los-angeles-resilience-hubs-developing-a-model-for-a-resilient-city
 title: Los Angeles Resilience Hubs - Developing a Model for a Resilient City
-organization_name_2: Global Green USA
-organization_activity: >-
-  We green cities, schools, and affordable housing to help protect human health,
-  improve livability, and support our planet's natural systems in an effort to
-  stem climate change.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8832997725741-team90.jpg
-project_video: ''
 project_summary: >-
   Developing regionally appropriate model Resilience Hubs so Los Angeles
   residents can safely and quickly bounce back from extreme weather events and
   natural disasters.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8832997725741-team90.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None.
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
 project_measure: >-
   Success to us is a city properly equipped to face the realities of climate
   change, natural disasters, and infrastructure interruptions. As such, we
@@ -69,6 +61,22 @@ project_description: >-
 project_impact: >-
   ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
   experiences"]
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+project_proposal_description: >-
+  As the effects of climate change manifest in Los Angeles, prolonged heat
+  waves, dry spells and fires threaten to disrupt power grids, force families
+  from their homes, and underscore the need for off-grid centers where residents
+  can gather, cool down, charge phones, contact family, and receive critical
+  updates from emergency personnel. We will work with local communities,
+  designers, and government organizations to develop a model for Resilience Hubs
+  in neighborhoods throughout the County.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
 project_proposal_best_place: >-
   Los Angeles Resilience Hubs will help make LA the best place to live by
   providing secure off-grid shelter for residents during severe weather events
@@ -111,23 +119,15 @@ project_proposal_best_place: >-
   Green will develop a Resilience Hub model specifically suited for our
   increasingly hot, arid climate, and work with local community development
   corporations to identify sites for building pilot hubs.
-challenge_url: >-
-  https://challenge.la2050.org/entry/los-angeles-resilience-hubs-developing-a-model-for-a-resilient-city
+project_image_2: 8832997725741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  As the effects of climate change manifest in Los Angeles, prolonged heat
-  waves, dry spells and fires threaten to disrupt power grids, force families
-  from their homes, and underscore the need for off-grid centers where residents
-  can gather, cool down, charge phones, contact family, and receive critical
-  updates from emergency personnel. We will work with local communities,
-  designers, and government organizations to develop a model for Resilience Hubs
-  in neighborhoods throughout the County.
-project_proposal_impact:
-  - Self-sufficiency
-  - Resilient communities
-  - Prevalence of adverse childhood experiences
-category: live
-body_class: lime
-published: true
+organization_name: Global Green USA
+organization_website: globalgreen.org
+organization_name_2: Global Green USA
+organization_activity: >-
+  We green cities, schools, and affordable housing to help protect human health,
+  improve livability, and support our planet's natural systems in an effort to
+  stem climate change.
+ein: '770387124'
 
 ---

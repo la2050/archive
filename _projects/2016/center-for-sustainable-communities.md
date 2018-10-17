@@ -1,35 +1,24 @@
 ---
+published: true
 organization_id: '2018089'
 year_submitted: 2016
-organization_name: Neighborhood Housing Services of Los Angeles County
-organization_website: www.nhslacounty.org
-ein: '953938955'
-project_image_2: 4742887015741-team89.jpg
+category: live
+body_class: lime
 project_id: '6102165'
+challenge_url: 'https://challenge.la2050.org/entry/center-for-sustainable-communities'
 title: 'Center for Sustainable Communities '
-organization_name_2: Neighborhood Housing Services of Los Angeles County
-organization_activity: >-
-  NHS strengthens neighborhoods through the development of quality affordable
-  housing, the creation of affordable homeownership opportunities, and
-  increasing the financial independence of families.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4742887015741-team89.jpg
-project_video: ''
 project_summary: >-
   Built on the site of a blighted grocery store in Compton, the 28,000 sq ft
   Center will serve as a hub for nonprofits and feature small business
   incubators, a health clinic, and community gardens.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4742887015741-team89.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   - Los Angeles Conservation Corps (LACC), - Pacific Coast Regional Small
   Business Development Corp (PCR), - METRO CDC, - City of Compton, - Christian
   Health Clinics
-project_areas:
-  - Central LA
-  - South LA
-  - Gateway Cities
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Our expected outcomes will make a vital difference for families and small
   businesses looking to increase access to neighborhood resources, improve
@@ -84,6 +73,31 @@ project_impact: >-
   access","Self-sufficiency","Obesity","Local water","Resilient
   communities","Residents receiving coordinated healthcare
   services","Walk/bike/transit score"]
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Waterways
+  - Healthcare access
+  - Self-sufficiency
+  - Obesity
+  - Local water
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Walk/bike/transit score
+project_proposal_description: >-
+  Utilizing the model of 'What Makes Community?' as our focus, NHS is working
+  with the City of Compton, Pacific Coast Regional, and METRO CDC to create the
+  first of several Centers for Sustainable Communities in Compton, CA. The
+  Center will help low-to-middle income families in Compton deal with the
+  impacts of divestiture by serving as a hub to provide access to housing,
+  transit, employment, healthy living, and community food resources that make
+  communities stronger and more resilient.
+project_areas:
+  - Central LA
+  - South LA
+  - Gateway Cities
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   The Center for Sustainable Communities is a diverse, multi-use 28,000 sq ft
   community facility in Compton, CA that will provide a broad range of
@@ -128,29 +142,15 @@ project_proposal_best_place: >-
   collaborate to attract a wide range of volunteers for our municipal water and
   green projects, and reach out to the educational community as the Compton
   Creek Project evolves.
-challenge_url: 'https://challenge.la2050.org/entry/center-for-sustainable-communities'
+project_image_2: 4742887015741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Utilizing the model of 'What Makes Community?' as our focus, NHS is working
-  with the City of Compton, Pacific Coast Regional, and METRO CDC to create the
-  first of several Centers for Sustainable Communities in Compton, CA. The
-  Center will help low-to-middle income families in Compton deal with the
-  impacts of divestiture by serving as a hub to provide access to housing,
-  transit, employment, healthy living, and community food resources that make
-  communities stronger and more resilient.
-project_proposal_impact:
-  - Access to healthy food
-  - Housing affordability
-  - Waterways
-  - Healthcare access
-  - Self-sufficiency
-  - Obesity
-  - Local water
-  - Resilient communities
-  - Residents receiving coordinated healthcare services
-  - Walk/bike/transit score
-category: live
-body_class: lime
-published: true
+organization_name: Neighborhood Housing Services of Los Angeles County
+organization_website: www.nhslacounty.org
+organization_name_2: Neighborhood Housing Services of Los Angeles County
+organization_activity: >-
+  NHS strengthens neighborhoods through the development of quality affordable
+  housing, the creation of affordable homeownership opportunities, and
+  increasing the financial independence of families.
+ein: '953938955'
 
 ---

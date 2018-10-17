@@ -1,37 +1,26 @@
 ---
+published: true
 organization_id: '2016182'
 year_submitted: 2016
-organization_name: Relational Medicine Foundation
-organization_website: relationalmedicinefoundation.org
-ein: '452683013'
-project_image_2: 1734618955741-team91.png
+category: create
+body_class: banana
 project_id: '6102196'
+challenge_url: >-
+  https://challenge.la2050.org/entry/art-from-the-heart-an-art-and-movement-therapy-program
 title: 'Art from the Heart: an Art and Movement Therapy Program'
-organization_name_2: Relational Medicine Foundation
-organization_activity: >-
+project_summary: >-
   The Foundation empowers patients and improves the humanism of patient care
   through its dedication to the “relationally present” person-to-person
   encounter between patient and healthcare professionals
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1734618955741-team91.png
 project_video: 'https://www.youtube.com/embed/F0jAU8oFZyQ?rel=0&amp;showinfo=0'
-project_summary: >-
-  The Foundation empowers patients and improves the humanism of patient care
-  through its dedication to the “relationally present” person-to-person
-  encounter between patient and healthcare professionals
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Ava Kaufman, founder of Ava's Heart, who was in the first graduating class in
   Dance Therapy at New York University, will assist in launching this art and
   movement therapy program for heart transplant patients, as she is a patient
   herself, at UCLA.
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - South Bay
-  - LAUSD
 project_measure: >-
   Dr. Federica Raia, a complexity scientist and assistant professor in the UCLA
   Graduate School of Education and Information Studies and the UCLA David Geffen
@@ -74,6 +63,33 @@ project_impact: >-
   institutions that remain in LA County 5 years after graduating","Recruiting
   and retention rates for local higher education institutions","Venture capital
   investment"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Federal research grant funding
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
+  - Venture capital investment
+project_proposal_description: >-
+  Based on Dr. Federica Raia's ethnographic and participatory research, the
+  Relational Medicine Foundation's key activities include: patient and student
+  involvement in the artistic integration of Art and Medicine to aid the process
+  of healing through collaboration with innovative and well-respected arts and
+  cultural institutions, and the dissemination of research results to the
+  community.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - South Bay
+  - LAUSD
 project_proposal_best_place: >-
   Forty years ago, it was unthinkable to live a life with an artificial heart,
   with somebody else’s heart, or with an assist heart pump. The unfathomable
@@ -109,31 +125,15 @@ project_proposal_best_place: >-
   hope that our project will serve as a model to other medical centers. It is in
   our vision to support future research that will advance Heart Failure
   knowledge and care.
-challenge_url: >-
-  https://challenge.la2050.org/entry/art-from-the-heart-an-art-and-movement-therapy-program
+project_image_2: 1734618955741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  Based on Dr. Federica Raia's ethnographic and participatory research, the
-  Relational Medicine Foundation's key activities include: patient and student
-  involvement in the artistic integration of Art and Medicine to aid the process
-  of healing through collaboration with innovative and well-respected arts and
-  cultural institutions, and the dissemination of research results to the
-  community.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Federal research grant funding
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - High growth startups
-  - >-
-    Percentage of graduates from local higher education institutions that remain
-    in LA County 5 years after graduating
-  - Recruiting and retention rates for local higher education institutions
-  - Venture capital investment
-category: create
-body_class: banana
-published: true
+organization_name: Relational Medicine Foundation
+organization_website: relationalmedicinefoundation.org
+organization_name_2: Relational Medicine Foundation
+organization_activity: >-
+  The Foundation empowers patients and improves the humanism of patient care
+  through its dedication to the “relationally present” person-to-person
+  encounter between patient and healthcare professionals
+ein: '452683013'
 
 ---

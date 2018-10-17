@@ -1,32 +1,23 @@
 ---
+published: true
 organization_id: '2016243'
 year_submitted: 2016
-organization_name: 'Unite A Nation, Inc.'
-organization_website: www.uniteanation.org
-ein: ''
-project_image_2: 3020056105741-team91.jpeg
+category: learn
+body_class: blueberry
 project_id: '6102269'
+challenge_url: >-
+  https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
 title: >-
   Ending generational cycles of poverty through urban youth and community
   development programs 
-organization_name_2: 'Unite A Nation, Inc.'
-organization_activity: >-
-  We transform lives through innovative investments in young people by focusing
-  on cultural art, economic empowerment, workforce development and
-  entrepreneurship to build thriving communities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
-project_video: ''
 project_summary: >-
   Building the Power and Brilliant Imaginations of youth through community
   leadership and life skills enhancement
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: 'Dorsey High School, Jim Gilliam Recreation Center'
-project_areas:
-  - South LA
-  - City of Los Angeles
-  - LAUSD
-  - Baldwin Village 'The Jungles'
 project_measure: >-
   Our first measure of success is our waiting list of over 50 students who are
   referred to our program from their friends and classmates.
@@ -88,6 +79,26 @@ project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline","Suspension and expulsion rates","Youth
   unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  In collaboration with Dorsey high school and Jim Gilliam Recreation center; in
+  the south Los Angeles community, we provide self-esteem building, individual
+  and community goal setting, professional development, along with community
+  projects as civic leadership and cultural arts    to encourage academic and
+  community success. Upon graduating from our programs, we will place youth in
+  internships that match their field of interest, while connecting youth to
+  networking relationships and mentors.
+project_areas:
+  - South LA
+  - City of Los Angeles
+  - LAUSD
+  - Baldwin Village 'The Jungles'
 project_proposal_best_place: >-
   Unite a Nation will make LA the best place to learn by increasing and
   encouraging academic excellence, social service and economic growth among
@@ -145,26 +156,15 @@ project_proposal_best_place: >-
   day as a final presentation. Our goal is to bring community and groups
   together as a way of activating unused community space in the Crenshaw
   district.
-challenge_url: >-
-  https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
+project_image_2: 3020056105741-team91.jpeg
 empty_column_1: ''
-project_proposal_description: >-
-  In collaboration with Dorsey high school and Jim Gilliam Recreation center; in
-  the south Los Angeles community, we provide self-esteem building, individual
-  and community goal setting, professional development, along with community
-  projects as civic leadership and cultural arts    to encourage academic and
-  community success. Upon graduating from our programs, we will place youth in
-  internships that match their field of interest, while connecting youth to
-  networking relationships and mentors.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: 'Unite A Nation, Inc.'
+organization_website: www.uniteanation.org
+organization_name_2: 'Unite A Nation, Inc.'
+organization_activity: >-
+  We transform lives through innovative investments in young people by focusing
+  on cultural art, economic empowerment, workforce development and
+  entrepreneurship to build thriving communities.
+ein: ''
 
 ---

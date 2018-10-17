@@ -1,56 +1,16 @@
 ---
+published: true
+organization_id: '2018121'
+year_submitted: 2014
+category: create
+body_class: banana
 project_id: '4102225'
 title: Digitize LA
 project_summary: >-
   Digitize LA will bring digital creation tools, development training and job
   skills to Latino content creators in under served LA communities
-category: create
-organization_id: '2018121'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/JEFLrDV_RDE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/JEFLrDV_RDE'
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  ALIP will target women and minorities with an emphasis on emerging Latino
-  content creators in LA communities traditionally under-served by professional
-  mentoring and information. NALIP will organize four community-based in Los
-  Angeles and ten online digital content development workshops benefitting
-  Angelenos.The content creators in this program will be encouraged to produce
-  media that reflect their experiences, and tell the stories. Digitize LA will
-  support individual media artist’s projects with skills instruction,
-  relationship building, and artist mentoring. Digitize LA mentors would be
-  LA-based professionals as well as nationally and internationally recognized
-  media makers. Through Digitize LA, NALIP will build alliances and partnerships
-  between local arts and cultural organizations, and amongst the local
-  nonprofits and content creators.
-What is your idea/project in more detail?: >-
-  In order to stay competitive in the global market, Los Angeles must invest in
-  and professionally develop its most underserved creative community, Latinos.
-What will you do to implement this idea/project?: >-
-  Los Angeles-based women and minorities with an emphasis on Latino content
-  creators. Digitize LA will support LA-based content creators to develop their
-  professional skills, create original and viable content and most important
-  increase their employability and access to funding, content buyers, studios
-  and talent recruiters.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  MiTu, YouTube, NationBuilder and Social Mosaic are not yet confirmed as
-  partners for Digitize LA but have recently collaborated in our Los
-  Angeles-based Media Summit. 
-   http://www.nalipmediasummit.com/
-   
-   MiTu, Inc., a Los Angeles-based lifestyle YouTube network, presents lifestyle programming for connected Latino audience in English and Spanish. Its network features and distributes various short lifestyle videos and real-life Latino video-makers worldwide through YouTube.
-   
-   YouTube is a video-sharing website headquartered in California.
-   
-   NationBuilder, a Los Angeles-based company, is a community organizing system. Software platform that offers easy-to-update website, a people database, and communication tool.
-   
-   Social Mosaic, a Los Angeles-based company, digital agency with integrated digital marketing, social media, Web design development. 
-   
-   NationBuilder and Social Mosaic will help NALIP develop and perfect the technology and audience engagement tools to better serve Digitize LA participants.
-   
-   MiTu will provide space and access to their development executives to serve as mentors and possible buyer of participants' content.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-youtube_video_identifier: JEFLrDV_RDE
 project_areas:
   - CENTRAL LA
   - EAST LA
@@ -60,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: 'The National Association of Latino Independent Producers, NALIP'
+  metrics_create_employment: '1'
   org_website: www.nalip.org
   org_twitter: www.twitter.com/NALIP_org
   org_facebook: www.facebook.com/nalip
@@ -117,7 +77,7 @@ maker_answers:
     Latinos.
   who_benefit: "Los Angeles-based women and minorities with an emphasis on Latino content creators. Digitize LA will support LA-based content creators to develop their professional skills, create original and viable content and most important increase their employability and access to funding, content buyers, studios and talent recruiters.\r\n"
   partners_collaboration: "MiTu, YouTube, NationBuilder and Social Mosaic are not yet confirmed as partners for Digitize LA but have recently collaborated in our Los Angeles-based Media Summit. \r\nhttp://www.nalipmediasummit.com/\r\n\r\nMiTu, Inc., a Los Angeles-based lifestyle YouTube network, presents lifestyle programming for connected Latino audience in English and Spanish. Its network features and distributes various short lifestyle videos and real-life Latino video-makers worldwide through YouTube.\r\n\r\nYouTube is a video-sharing website headquartered in California.\r\n\r\nNationBuilder, a Los Angeles-based company, is a community organizing system.  Software platform that offers easy-to-update website, a people database, and communication tool.\r\n\r\nSocial Mosaic, a Los Angeles-based company, digital agency with integrated digital marketing, social media, Web design development.  \r\n\r\nNationBuilder and Social Mosaic will help NALIP develop and perfect the technology and audience engagement tools to better serve Digitize LA participants.\r\n\r\nMiTu will provide space and access to their development executives to serve as mentors and possible buyer of participants' content."
-  metrics_create_employment: '1'
+  city_state: 'Los Angeles, CA'
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -133,7 +93,7 @@ maker_answers:
   metrics_create_unemployment: '0'
   metrics_create_other: '0'
   metrics_create_blank: ''
-  impact_metrics: "1. Employment in the creative industries (arts & cultural vitality, income & employment) \r\nDigitize LA will provide professional digital training and mentorship for minorities, women and low income communities and increase their ability to obtain jobs in the entertainment industry.\r\n\r\n4. Federal research grant funding (income & employment) & 7. Minority- and women-owned firms (income & employment) 9. Number of high growth startups (income & employment) \r\n\r\nDigitize LA will empower minority and women in Los Angeles to develop their own content and production companies.\r\n\r\nDigitize LA will connect content creators and potential buyers in LA, California, the US and emerging markets in Latin America, Europe and Asia.\r\n"
+  resources_network: '0'
   best_place_to_learn: '1'
   best_place_to_connect: '1'
   healthiest_place_to_live: '0'
@@ -154,8 +114,50 @@ maker_answers:
   resources_education: '1'
   resources_technical: '1'
   resources_communityoutreach: '1'
-  resources_network: '0'
   resources_research: '0'
+  impact_metrics: "1. Employment in the creative industries (arts & cultural vitality, income & employment) \r\nDigitize LA will provide professional digital training and mentorship for minorities, women and low income communities and increase their ability to obtain jobs in the entertainment industry.\r\n\r\n4. Federal research grant funding (income & employment) & 7. Minority- and women-owned firms (income & employment) 9. Number of high growth startups (income & employment) \r\n\r\nDigitize LA will empower minority and women in Los Angeles to develop their own content and production companies.\r\n\r\nDigitize LA will connect content creators and potential buyers in LA, California, the US and emerging markets in Latin America, Europe and Asia.\r\n"
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  ALIP will target women and minorities with an emphasis on emerging Latino
+  content creators in LA communities traditionally under-served by professional
+  mentoring and information. NALIP will organize four community-based in Los
+  Angeles and ten online digital content development workshops benefitting
+  Angelenos.The content creators in this program will be encouraged to produce
+  media that reflect their experiences, and tell the stories. Digitize LA will
+  support individual media artist’s projects with skills instruction,
+  relationship building, and artist mentoring. Digitize LA mentors would be
+  LA-based professionals as well as nationally and internationally recognized
+  media makers. Through Digitize LA, NALIP will build alliances and partnerships
+  between local arts and cultural organizations, and amongst the local
+  nonprofits and content creators.
+What is your idea/project in more detail?: >-
+  In order to stay competitive in the global market, Los Angeles must invest in
+  and professionally develop its most underserved creative community, Latinos.
+What will you do to implement this idea/project?: >-
+  Los Angeles-based women and minorities with an emphasis on Latino content
+  creators. Digitize LA will support LA-based content creators to develop their
+  professional skills, create original and viable content and most important
+  increase their employability and access to funding, content buyers, studios
+  and talent recruiters.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  MiTu, YouTube, NationBuilder and Social Mosaic are not yet confirmed as
+  partners for Digitize LA but have recently collaborated in our Los
+  Angeles-based Media Summit. 
+   http://www.nalipmediasummit.com/
+   
+   MiTu, Inc., a Los Angeles-based lifestyle YouTube network, presents lifestyle programming for connected Latino audience in English and Spanish. Its network features and distributes various short lifestyle videos and real-life Latino video-makers worldwide through YouTube.
+   
+   YouTube is a video-sharing website headquartered in California.
+   
+   NationBuilder, a Los Angeles-based company, is a community organizing system. Software platform that offers easy-to-update website, a people database, and communication tool.
+   
+   Social Mosaic, a Los Angeles-based company, digital agency with integrated digital marketing, social media, Web design development. 
+   
+   NationBuilder and Social Mosaic will help NALIP develop and perfect the technology and audience engagement tools to better serve Digitize LA participants.
+   
+   MiTu will provide space and access to their development executives to serve as mentors and possible buyer of participants' content.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
+youtube_video_identifier: JEFLrDV_RDE
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -502,7 +504,5 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: banana
-published: true
 
 ---

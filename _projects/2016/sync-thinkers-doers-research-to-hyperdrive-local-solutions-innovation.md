@@ -1,24 +1,20 @@
 ---
+published: true
 organization_id: '2016001'
 year_submitted: 2016
-organization_name: '#Library'
-organization_website: hashtaglibrary.com
-ein: ''
-project_image_2: 6052198655741-team91.jpeg
+category: learn
+body_class: blueberry
 project_id: '6102071'
+challenge_url: >-
+  https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
 title: 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
-organization_name_2: '#Library'
-organization_activity: >-
-  #Library is a platform that effectively sorts voices, information and content
-  for relevance, quality and priority using the power of the crowd and machine
-  learning.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
-project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
 project_summary: >-
   Unify research and ideas from LA universities, orgs and local businesses to
   effectively and sustainably coverage ideas, research and effort around local
   problems & innovation.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
+project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Global Action Platform an international university-business alliance to
@@ -27,8 +23,6 @@ project_collaborators: >-
   perspectives on food, health, and prosperity. It is held in coordination with
   the Global Action Platform, the United Nations and many of the world's top
   leaders in business, government, education and non-profit.
-project_areas:
-  - East LA
 project_measure: >-
   A successful project is getting buy-in and participation from the majority of
   local LA universities.
@@ -55,6 +49,20 @@ project_description: >-
 project_impact: >-
   ["College completion","Student education pipeline","Youth unemployment and
   underemployment"]
+project_proposal_impact:
+  - College completion
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  One of the biggest problems every city faces is an inability to effectively
+  collaborate all the local research and effort in a sustainable way. The goal
+  of our project is to unify all of the thinkers, doers and research from local
+  universities, orgs and businesses into one hub that surfaces the best ideas,
+  campaigns, research & innovation. The result is a living convergence of local
+  effort & research that allows everyone to keep their finger on the pulse of
+  local emerging ideas & collaborations.
+project_areas:
+  - East LA
 project_proposal_best_place: >-
   Our project strikes at the heart of helping LA 'capitalize on its
   concentration of higher education facilities to foster new businesses, advance
@@ -110,23 +118,15 @@ project_proposal_best_place: >-
   people will be given opportunities for better jobs, graduate programs and
   funding, and each will be given the chance to play a role in the advancement
   of local research and innovation in Los Angeles.
-challenge_url: >-
-  https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
+project_image_2: 6052198655741-team91.jpeg
 empty_column_1: ''
-project_proposal_description: >-
-  One of the biggest problems every city faces is an inability to effectively
-  collaborate all the local research and effort in a sustainable way. The goal
-  of our project is to unify all of the thinkers, doers and research from local
-  universities, orgs and businesses into one hub that surfaces the best ideas,
-  campaigns, research & innovation. The result is a living convergence of local
-  effort & research that allows everyone to keep their finger on the pulse of
-  local emerging ideas & collaborations.
-project_proposal_impact:
-  - College completion
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: '#Library'
+organization_website: hashtaglibrary.com
+organization_name_2: '#Library'
+organization_activity: >-
+  #Library is a platform that effectively sorts voices, information and content
+  for relevance, quality and priority using the power of the crowd and machine
+  learning.
+ein: ''
 
 ---

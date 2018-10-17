@@ -1,32 +1,24 @@
 ---
+published: true
 organization_id: '2016263'
 year_submitted: 2016
-organization_name: Zeneith Performing Arts
-organization_website: www.zeneithperformingarts.com
-ein: ''
-project_image_2: 6990906684741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102289'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
 title: >-
   The Inner City Dance Project: Teaching professional dance and theater to LA’s
   inner city youth
-organization_name_2: Zeneith Performing Arts
-organization_activity: >-
-  Zeneith Performing Arts provides excellent training, a dynamic community, and
-  professional development to youth and adults in the performing arts.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
-project_video: 'https://www.youtube.com/embed/AW4FRTnLfzw?rel=0&amp;showinfo=0'
 project_summary: >-
   The Inner City Dance Project is a dance and theater intensive that will
   provide professional performing arts training for 50 middle school, high
   school, and foster youth in the inner city of LA.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
+project_video: 'https://www.youtube.com/embed/AW4FRTnLfzw?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: ''
-project_areas:
-  - Central LA
-  - South LA
-  - South Bay
-  - LAUSD
 project_measure: >-
   The success of the project will be measured using three methods. The first
   method will take place at the five-week point of the intensive. We will host a
@@ -69,6 +61,24 @@ project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)","Minority- and
   women-owned firms"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+project_proposal_description: >-
+  The Inner City Dance Project will bring professional dance training to
+  students who other wise would not be able to access this training due to
+  financial and geographic difficulties. We will identify 40 middle school and
+  high school students, 5 foster youth, and 5 Zeneith Performing Arts (ZPA)
+  students to participate in a ten-week dance and theater intensive that will
+  conclude with a performance. The project will also subsidize class tuition for
+  students who train with ZPA after the project.
+project_areas:
+  - Central LA
+  - South LA
+  - South Bay
+  - LAUSD
 project_proposal_best_place: >-
   With more than 28,000 performing arts jobs, Los Angeles has the nation’s best
   market for performing artists. However, young performing artists within Los
@@ -124,24 +134,14 @@ project_proposal_best_place: >-
   Inner City Dance Project is to inspire all participants to believe that, in
   spite of their circumstances, Los Angeles is a place where they too can create
   and thrive.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
+project_image_2: 6990906684741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The Inner City Dance Project will bring professional dance training to
-  students who other wise would not be able to access this training due to
-  financial and geographic difficulties. We will identify 40 middle school and
-  high school students, 5 foster youth, and 5 Zeneith Performing Arts (ZPA)
-  students to participate in a ten-week dance and theater intensive that will
-  conclude with a performance. The project will also subsidize class tuition for
-  students who train with ZPA after the project.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-category: create
-body_class: banana
-published: true
+organization_name: Zeneith Performing Arts
+organization_website: www.zeneithperformingarts.com
+organization_name_2: Zeneith Performing Arts
+organization_activity: >-
+  Zeneith Performing Arts provides excellent training, a dynamic community, and
+  professional development to youth and adults in the performing arts.
+ein: ''
 
 ---

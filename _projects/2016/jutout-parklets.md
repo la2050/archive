@@ -1,38 +1,22 @@
 ---
+published: true
 organization_id: '2016191'
 year_submitted: 2016
-organization_name: SCA-LARC
-organization_website: sca-larc.com
-ein: ''
-project_image_2: 3589906913741-team90.jpg
+category: connect
+body_class: tangerine
 project_id: '6102223'
+challenge_url: 'https://challenge.la2050.org/entry/jutout-parklets'
 title: Jutout Parklets
-organization_name_2: SCA-LARC
-organization_activity: Landscape Architecture
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
-project_video: ''
 project_summary: >-
   Jutouts are a concept by SCA-LARC to create a series of cantilevered parklets
   overlooking Los Angeles waterways.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   I will be collaborating with landscape architect Ian Horton, PLA, ASLA of
   Working Landscapes on this proposal.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-  - Los Angeles Rivers and Washes
 project_measure: >-
   Heavy use -- particularly near schools. And the establishment of programs that
   facilitate learning and opportunities for public art -- such as the
@@ -55,6 +39,32 @@ project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Public transit
   riders","Participation in neighborhood councils","Rates of volunteerism"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+project_proposal_description: >-
+  To create a series of cantilevered 'Jutout' parklets overlooking Los Angeles
+  waterways -- with a priority of installing the parklets in park poor
+  communities.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
+  - Los Angeles Rivers and Washes
 project_proposal_best_place: >-
   The priority will be to create the 'Jutout' overlook parklets adjacent to
   schools -- such as one next to Vista Middle School in Panorama City, and one
@@ -82,22 +92,12 @@ project_proposal_best_place: >-
   the outside edges of sidewalks) from traffic -- making them much safer than
   parking spot parklets -- where the risk of cars running into parking spot
   parklets is high.
-challenge_url: 'https://challenge.la2050.org/entry/jutout-parklets'
+project_image_2: 3589906913741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  To create a series of cantilevered 'Jutout' parklets overlooking Los Angeles
-  waterways -- with a priority of installing the parklets in park poor
-  communities.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Public transit riders
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: SCA-LARC
+organization_website: sca-larc.com
+organization_name_2: SCA-LARC
+organization_activity: Landscape Architecture
+ein: ''
 
 ---

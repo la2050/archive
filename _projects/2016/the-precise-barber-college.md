@@ -1,30 +1,23 @@
 ---
+published: true
 organization_id: '2016061'
 year_submitted: 2016
-organization_name: Covenant House California
-organization_website: www.covenanthousecalifornia.org
-ein: ''
-project_image_2: 3954291065741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102057'
+challenge_url: 'https://challenge.la2050.org/entry/the-precise-barber-college'
 title: The Precise Barber College
-organization_name_2: Covenant House California
-organization_activity: >-
-  Covenant House California (CHC) is a nonprofit youth homeless shelter that
-  provides sanctuary and support for homeless and trafficked youth, ages 18 to
-  25.
-project_image: >-
-  'https://scontent-sjc3-1.cdninstagram.com/vp/306653ead28bce62f0f6df66952a0eb8/5C50E398/t51.2885-15/e35/35618139_237603167038940_5367380235643781120_n.jpg'
-project_video: ''
 project_summary: >-
   The Precise Barber College will provide pathways to careers for homeless youth
   - not just jobs - and combine the best of the for-profit and non-profit worlds
   for a socially conscious enterprise.
+project_image: >-
+  'https://scontent-sjc3-1.cdninstagram.com/vp/306653ead28bce62f0f6df66952a0eb8/5C50E398/t51.2885-15/e35/35618139_237603167038940_5367380235643781120_n.jpg'
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We will be collaborating with Mr. Gabe Torres, owner/operator of Precise
   Barbershop in Long Beach.
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   We will measure success by the number of students who graduate the program.
   Considering some of the barriers that our youth have faced and continue to
@@ -76,6 +69,20 @@ project_description: >-
   charitable one, and its students will quickly understand the ways in which
   community and service work together in L.A.
 project_impact: '["Self-sufficiency","Resilient communities","Homelessness"]'
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Homelessness
+project_proposal_description: >-
+  So many of the jobs available to homeless youth are low-paying jobs, and we
+  think they deserve more than that; they deserve the opportunity to have a
+  career. We will use these resources to open a barber college attended by
+  traditional students and homeless youth where they can become certified
+  barbers. The college will encourage an entrepreneurial spirit rather than a
+  charitable one, and its students will quickly understand the ways in which
+  community and service work together in L.A.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   In order for homeless young people to truly be independent, they are going to
   need careers, not just jobs.  We will take the best of the for-profit world –
@@ -125,22 +132,15 @@ project_proposal_best_place: >-
   with earning power and a unique perspective on social engagement will have on
   our social and fiscal economies. We are building a replicable model that
   serves people, inspires service, and facilitates connection between Angelenos.
-challenge_url: 'https://challenge.la2050.org/entry/the-precise-barber-college'
+project_image_2: 3954291065741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  So many of the jobs available to homeless youth are low-paying jobs, and we
-  think they deserve more than that; they deserve the opportunity to have a
-  career. We will use these resources to open a barber college attended by
-  traditional students and homeless youth where they can become certified
-  barbers. The college will encourage an entrepreneurial spirit rather than a
-  charitable one, and its students will quickly understand the ways in which
-  community and service work together in L.A.
-project_proposal_impact:
-  - Self-sufficiency
-  - Resilient communities
-  - Homelessness
-category: live
-body_class: lime
-published: true
+organization_name: Covenant House California
+organization_website: www.covenanthousecalifornia.org
+organization_name_2: Covenant House California
+organization_activity: >-
+  Covenant House California (CHC) is a nonprofit youth homeless shelter that
+  provides sanctuary and support for homeless and trafficked youth, ages 18 to
+  25.
+ein: ''
 
 ---

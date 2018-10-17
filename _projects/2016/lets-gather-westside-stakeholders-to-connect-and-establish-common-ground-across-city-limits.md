@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016253'
 year_submitted: 2016
-organization_name: Westside Urban Forum
-organization_website: www.westsideurbanforum.com
-ein: ''
-project_image_2: 0138450996741-team90.jpeg
+category: connect
+body_class: tangerine
 project_id: '6102280'
+challenge_url: >-
+  https://challenge.la2050.org/entry/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits
 title: >-
   Let’s gather Westside stakeholders to connect and establish common ground
   across city limits.
-organization_name_2: Westside Urban Forum
-organization_activity: >-
-  The Westside Urban Forum promotes discussion of urban issues on Los Angeles'
-  Westside through a monthly breakfast series, the annual Westside Prize, and
-  other events.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
-project_video: ''
 project_summary: >-
   WUF will sponsor a first-ever one-day conference to celebrate the Westside,
   discuss common challenges, and identify projects to make the Westside more
   lively, equitable, and functional.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None.
-project_areas:
-  - Westside
 project_measure: >-
   The primarily measure of success will be the number and diversity of
   attendees. The secondary measure will be the proposal and execution of three
@@ -52,6 +46,21 @@ project_description: >-
 project_impact: >-
   ["Government responsiveness to residents’ needs","Public transit
   riders","Participation in neighborhood councils","Residential segregation"]
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Residential segregation
+project_proposal_description: >-
+  The Westside of Los Angeles is home to more people than all but a handful of
+  American cities in their entirety. And yet, because of the region's
+  combination of independent jurisdictions, the Westside is more of an idea than
+  an entity. As the Westside's leading civic organization, WUF proposes a
+  day-long conference to gather leaders and stakeholders from across the
+  Westside spectrum to solve common challenges, seize upon common opportunities,
+  and identify projects to pursue in the coming year.
+project_areas:
+  - Westside
 project_proposal_best_place: >-
   The Westside of Los Angeles includes some of the most distinctive, prized real
   estate in the country, with resources and attributes that eclipse those of
@@ -87,24 +96,15 @@ project_proposal_best_place: >-
   for far longer. With LA 2050's support, we hope to reach out to Westside
   stakeholders who do not typically participate in events like this in order to
   a create sense of unity, cooperation, and friendliness among neighbors.
-challenge_url: >-
-  https://challenge.la2050.org/entry/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits
+project_image_2: 0138450996741-team90.jpeg
 empty_column_1: ''
-project_proposal_description: >-
-  The Westside of Los Angeles is home to more people than all but a handful of
-  American cities in their entirety. And yet, because of the region's
-  combination of independent jurisdictions, the Westside is more of an idea than
-  an entity. As the Westside's leading civic organization, WUF proposes a
-  day-long conference to gather leaders and stakeholders from across the
-  Westside spectrum to solve common challenges, seize upon common opportunities,
-  and identify projects to pursue in the coming year.
-project_proposal_impact:
-  - Government responsiveness to residents’ needs
-  - Public transit riders
-  - Participation in neighborhood councils
-  - Residential segregation
-category: connect
-body_class: tangerine
-published: true
+organization_name: Westside Urban Forum
+organization_website: www.westsideurbanforum.com
+organization_name_2: Westside Urban Forum
+organization_activity: >-
+  The Westside Urban Forum promotes discussion of urban issues on Los Angeles'
+  Westside through a monthly breakfast series, the annual Westside Prize, and
+  other events.
+ein: ''
 
 ---

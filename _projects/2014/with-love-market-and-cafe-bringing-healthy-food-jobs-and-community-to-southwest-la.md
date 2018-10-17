@@ -1,4 +1,9 @@
 ---
+published: true
+organization_id: '2014107'
+year_submitted: 2014
+category: create
+body_class: banana
 project_id: '4102257'
 title: >-
   With Love Market and Cafe: bringing healthy food jobs and community to
@@ -6,54 +11,13 @@ title: >-
 project_summary: >-
   We provide local and organic food products, a café featuring healthy prepared
   items, & a space to encourage Southwest LA pride & artistry. 
-category: create
-organization_id: '2014107'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/HVOvMO9t6Gk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/HVOvMO9t6Gk'
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  We have already secured a leased space for the market, cafe, and our offices
-  to be located, have a staff team who are finishing the market and cafe's
-  product assortment via confirmations from local farmers/producers, and
-  distributors. We also have a team of graphic and architect designers finishing
-  the store and cafe's interior and exterior design. We continue to establish
-  and further connections with other community groups/organizations, and are
-  strategically outreaching to the community to fill various employment roles.
-What is your idea/project in more detail?: >-
-  The goal of With Love Market and Cafe is to create a successful and empowering
-  model for addressing the Southwest LA's need for food access and employment
-  opportunities in the urban context. Our vision is that if we are able to
-  replicate this business model throughout greater Los Angeles, there should be
-  a significant impact on the amount of support given to local producers and
-  infrastructure for increasing food access across LA county.
-What will you do to implement this idea/project?: >-
-  The project is currently seeking to serve the roughly 100,000 residents within
-  the 5 square mile radius surrounding the location of the market and cafe. Of
-  this population, 55% of residents are latino, 20% are African American, 15%
-  are Asian, and the rest are white or other. Our main focus is to serve the
-  families that live in the area. Within the past 3 years, this 5 square radius
-  area has lost 3 or its 6 full-service grocery stores, making it harder for
-  families and residents to access groceries on a regular basis.
-How will your idea/project help make LA the best place to connect today? In LA2050?: |-
-  Two major confirmed collaborators are LA Kitchen and Homeboy Industries:
-   
-   Our factors for success with LA Kitchen include:
-   - Co-purchasing and sourcing our local produce together
-   - Hiring chefs that LA Kitchen trains through their programs for our market and cafe's prepared food assortment.
-    - Hiring people from LA Kitchen to do food prep for the Market and Cafe
-   
-   Our factors for success with Homeboy Industries includes:
-   - Hiring individuals that Homeboy trains through their programs
-   - Sourcing some products from Homeboy
-   - Use Homeboy as a resource for employing members coming out of their programs
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-youtube_video_identifier: HVOvMO9t6Gk
 project_areas:
   - LA COUNTY
 maker_answers:
-  city_state: 'Los Angeles, California'
   org_name: 'With Love Market and Cafe, With Love Community Market and Cafe'
+  metrics_create_employment: '1'
   org_website: Communitymarketandcafe.com
   org_twitter: WithLoveLA
   org_facebook: With Love Community Market and Cafe - Doors Open Late Summer 2014
@@ -116,7 +80,7 @@ maker_answers:
     it harder for families and residents to access groceries on a regular
     basis.  
   partners_collaboration: "Two major confirmed collaborators are LA Kitchen and Homeboy Industries:\r\n\r\nOur factors for success with LA Kitchen include:\r\n- Co-purchasing and sourcing our local produce together\r\n- Hiring chefs that LA Kitchen trains through their programs for our market and cafe's prepared food assortment.\r\n - Hiring people from LA Kitchen to do food prep for the Market and Cafe\r\n\r\nOur factors for success with Homeboy Industries includes:\r\n- Hiring individuals that Homeboy trains through their programs\r\n- Sourcing some products from Homeboy\r\n- Use Homeboy as a resource for employing members coming out of their programs"
-  metrics_create_employment: '1'
+  city_state: 'Los Angeles, California'
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -132,7 +96,7 @@ maker_answers:
   metrics_create_unemployment: '1'
   metrics_create_other: '0'
   metrics_create_blank: ''
-  impact_metrics: "1.) The local rate of diabetes: - Diabetes is 3.8 times the average rate of diabetes in the greater LA area, and so concentrating on providing healthier options for this community is an area we are seeking to monitor alongside our non-profit partners.\r\n\r\n 2.) Decreasing government assistance:  During our surveying of the community, 1/5 of residents were on government assistance for food, with an average of $225 per month. Our current initial goal is to have 50% of our hired staff be from the surrounding neighborhood and community, with that percentage increasing to 75% by the end of the market's first year in business. \r\n\r\n3.) Community Needs: Our free weekly community classes and events will serve to provide residents with a sense of pride, community, and betterment for their families in the way of health and personal/relational skill-building. We are looking to keep track of all members, volunteer, staff and otherwise, who engage in our programs and seek to be further involved. We plan on keeping track of our volunteer, outreach and participant base to see how networking and sense of community increases in the surrounding area. "
+  resources_network: '1'
   best_place_to_learn: '1'
   best_place_to_connect: '1'
   healthiest_place_to_live: '1'
@@ -171,8 +135,46 @@ maker_answers:
   resources_education: '0'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '0'
+  impact_metrics: "1.) The local rate of diabetes: - Diabetes is 3.8 times the average rate of diabetes in the greater LA area, and so concentrating on providing healthier options for this community is an area we are seeking to monitor alongside our non-profit partners.\r\n\r\n 2.) Decreasing government assistance:  During our surveying of the community, 1/5 of residents were on government assistance for food, with an average of $225 per month. Our current initial goal is to have 50% of our hired staff be from the surrounding neighborhood and community, with that percentage increasing to 75% by the end of the market's first year in business. \r\n\r\n3.) Community Needs: Our free weekly community classes and events will serve to provide residents with a sense of pride, community, and betterment for their families in the way of health and personal/relational skill-building. We are looking to keep track of all members, volunteer, staff and otherwise, who engage in our programs and seek to be further involved. We plan on keeping track of our volunteer, outreach and participant base to see how networking and sense of community increases in the surrounding area. "
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  We have already secured a leased space for the market, cafe, and our offices
+  to be located, have a staff team who are finishing the market and cafe's
+  product assortment via confirmations from local farmers/producers, and
+  distributors. We also have a team of graphic and architect designers finishing
+  the store and cafe's interior and exterior design. We continue to establish
+  and further connections with other community groups/organizations, and are
+  strategically outreaching to the community to fill various employment roles.
+What is your idea/project in more detail?: >-
+  The goal of With Love Market and Cafe is to create a successful and empowering
+  model for addressing the Southwest LA's need for food access and employment
+  opportunities in the urban context. Our vision is that if we are able to
+  replicate this business model throughout greater Los Angeles, there should be
+  a significant impact on the amount of support given to local producers and
+  infrastructure for increasing food access across LA county.
+What will you do to implement this idea/project?: >-
+  The project is currently seeking to serve the roughly 100,000 residents within
+  the 5 square mile radius surrounding the location of the market and cafe. Of
+  this population, 55% of residents are latino, 20% are African American, 15%
+  are Asian, and the rest are white or other. Our main focus is to serve the
+  families that live in the area. Within the past 3 years, this 5 square radius
+  area has lost 3 or its 6 full-service grocery stores, making it harder for
+  families and residents to access groceries on a regular basis.
+How will your idea/project help make LA the best place to connect today? In LA2050?: |-
+  Two major confirmed collaborators are LA Kitchen and Homeboy Industries:
+   
+   Our factors for success with LA Kitchen include:
+   - Co-purchasing and sourcing our local produce together
+   - Hiring chefs that LA Kitchen trains through their programs for our market and cafe's prepared food assortment.
+    - Hiring people from LA Kitchen to do food prep for the Market and Cafe
+   
+   Our factors for success with Homeboy Industries includes:
+   - Hiring individuals that Homeboy trains through their programs
+   - Sourcing some products from Homeboy
+   - Use Homeboy as a resource for employing members coming out of their programs
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
+youtube_video_identifier: HVOvMO9t6Gk
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -546,7 +548,5 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: banana
-published: true
 
 ---

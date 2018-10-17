@@ -1,32 +1,24 @@
 ---
+published: true
 organization_id: '2016252'
 year_submitted: 2016
-organization_name: Verdical Group
-organization_website: www.verdicalgroup.com
-ein: ''
-project_image_2: 9065217005741-team88.jpg
+category: live
+body_class: lime
 project_id: '6102272'
+challenge_url: >-
+  https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
 title: >-
   A conference inspiring LA professionals toward a net zero future; hosted at a
   nonprofit  facility
-organization_name_2: Verdical Group
-organization_activity: >-
-  Verdical Group is a full-service green building consulting firm located in
-  L.A. that is dedicated to advancing a more sustainable and healthy built
-  environment for our community.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
-project_video: 'https://www.youtube.com/embed/XaTMp9Bu1AY?rel=0&amp;showinfo=0'
 project_summary: >-
   We will bring the nation's largest net zero building conference to IBEW Local
   11's Net Zero Plus building to connect LA building industry professionals and
   inspire them ahead of 2020/2030 code changes
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
+project_video: 'https://www.youtube.com/embed/XaTMp9Bu1AY?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - East LA
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   The success of the Net Zero Conference held at IBEW Local 11's Net Zero Plus
   building will be measured by attendee numbers, participants that are engaged
@@ -71,6 +63,21 @@ project_description: >-
   inspire L.A.'s building professionals into action and prepare for California's
   net zero code changes together.
 project_impact: '["Self-sufficiency","Resilient communities"]'
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+project_proposal_description: >-
+  Verdical Group has been hosting L.A.'s annual Net Zero Conference for three
+  years with the help of gratuitous venue sponsors. While this has been great,
+  and has helped to garner interest, we would like to host the conference with
+  IBEW Local 11, L.A.'s electrical construction union. IBEW's Net Zero Plus
+  Electrical Training Institute is the perfect venue for this conference to
+  inspire L.A.'s building professionals into action and prepare for California's
+  net zero code changes together.
+project_areas:
+  - East LA
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   The California Public Utilities Commission (CPUC) and the California Energy
   Commission (CEC) launched a Zero Net Energy Action Plan that states all new
@@ -110,22 +117,15 @@ project_proposal_best_place: >-
   in one location. This collaboration will inspire and jump-start the much
   needed push towards a net zero future, one in which L.A.'s communities will be
   run by clean, renewable energy.
-challenge_url: >-
-  https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
+project_image_2: 9065217005741-team88.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Verdical Group has been hosting L.A.'s annual Net Zero Conference for three
-  years with the help of gratuitous venue sponsors. While this has been great,
-  and has helped to garner interest, we would like to host the conference with
-  IBEW Local 11, L.A.'s electrical construction union. IBEW's Net Zero Plus
-  Electrical Training Institute is the perfect venue for this conference to
-  inspire L.A.'s building professionals into action and prepare for California's
-  net zero code changes together.
-project_proposal_impact:
-  - Self-sufficiency
-  - Resilient communities
-category: live
-body_class: lime
-published: true
+organization_name: Verdical Group
+organization_website: www.verdicalgroup.com
+organization_name_2: Verdical Group
+organization_activity: >-
+  Verdical Group is a full-service green building consulting firm located in
+  L.A. that is dedicated to advancing a more sustainable and healthy built
+  environment for our community.
+ein: ''
 
 ---

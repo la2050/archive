@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016143'
 year_submitted: 2016
-organization_name: Lynne Cohen Foundation
-organization_website: lynnecohenfoundation.org
-ein: ''
-project_image_2: 5148126005741-team91.png
+category: live
+body_class: lime
 project_id: '6102150'
+challenge_url: >-
+  https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
 title: >-
   Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
   Risk for Cancer
-organization_name_2: Lynne Cohen Foundation
-organization_activity: >-
-  The Lynne Cohen Foundation supports four Preventive Care Clinics for women at
-  increased risk for breast or ovarian cancer by providing them with access to
-  comprehensive care in one place on one day.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
-project_video: 'https://player.vimeo.com/video/123870044?rel=0&amp;showinfo=0'
 project_summary: >-
   The Lynne Cohen Foundation serves women facing increased risk for ovarian and
   breast cancers. Our education programs and comprehensive clinics arm women and
   their families to take action and survive
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
+project_video: 'https://player.vimeo.com/video/123870044?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   The Lynne Cohen Foundation has regular meetings with the Directors of our
   Preventive Care Clinics, including the clinic in Los Angeles at USC. We ask
@@ -56,6 +50,18 @@ project_description: >-
   mammography, MRI, pelvic ultrasounds, and serum-based screening tests;
   consultation with a genetic counselor.
 project_impact: '["Healthcare access"]'
+project_proposal_impact:
+  - Healthcare access
+project_proposal_description: >-
+  This clinic provides an in-depth consultation to examine personal and family
+  medical history. Our team collaborates to develop an individual risk
+  assessment, educate each individual about their risks, and determine the best
+  early detection and risk-reduction strategies. Women at high risk for ovarian
+  and breast cancer have access to the following: screening services including
+  mammography, MRI, pelvic ultrasounds, and serum-based screening tests;
+  consultation with a genetic counselor.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   Established in 1998 by Lynne Cohen’s three daughters, the Lynne Cohen
   Foundation’s mission is to combat ovarian and breast cancer through preventive
@@ -113,21 +119,15 @@ project_proposal_best_place: >-
   - Increasing screening and outreach, conducting risk analysis and assessment
   for women’s cancer, and providing prevention strategies for those at increased
   risk.
-challenge_url: >-
-  https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
+project_image_2: 5148126005741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  This clinic provides an in-depth consultation to examine personal and family
-  medical history. Our team collaborates to develop an individual risk
-  assessment, educate each individual about their risks, and determine the best
-  early detection and risk-reduction strategies. Women at high risk for ovarian
-  and breast cancer have access to the following: screening services including
-  mammography, MRI, pelvic ultrasounds, and serum-based screening tests;
-  consultation with a genetic counselor.
-project_proposal_impact:
-  - Healthcare access
-category: live
-body_class: lime
-published: true
+organization_name: Lynne Cohen Foundation
+organization_website: lynnecohenfoundation.org
+organization_name_2: Lynne Cohen Foundation
+organization_activity: >-
+  The Lynne Cohen Foundation supports four Preventive Care Clinics for women at
+  increased risk for breast or ovarian cancer by providing them with access to
+  comprehensive care in one place on one day.
+ein: ''
 
 ---

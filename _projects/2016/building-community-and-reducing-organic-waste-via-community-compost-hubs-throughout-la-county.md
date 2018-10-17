@@ -1,35 +1,24 @@
 ---
+published: true
 organization_id: '2018061'
 year_submitted: 2016
-organization_name: LA Compost
-organization_website: lacompost.org
-ein: '461134852'
-project_image_2: 4893873855741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102119'
+challenge_url: >-
+  https://challenge.la2050.org/entry/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county
 title: >-
   Building Community and reducing organic waste via Community Compost Hubs
   throughout LA County
-organization_name_2: LA Compost
-organization_activity: >-
-  L.A. Compost is a sustainable movement that promotes healthy conscious
-  communities through the creation of community supported compost hubs
-  throughout Los Angeles.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4893873855741-team90.jpg
-project_video: 'https://www.youtube.com/embed/QgGAt5V-g8k?rel=0&amp;showinfo=0'
 project_summary: >-
   L.A. Compost will create a countywide composting program, connecting the
   community with the soil that feeds them via workshops and use/access to
   neighborhood community compost hubs.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4893873855741-team90.jpg
+project_video: 'https://www.youtube.com/embed/QgGAt5V-g8k?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - County of Los Angeles
 project_measure: >-
   The success of L.A. Compost will be measured by pounds of organics diverted
   from landfills, community involvement, attendance at workshops, finished
@@ -71,6 +60,25 @@ project_description: >-
   reaching landfills monthly, while also providing residents with the tools and
   education needed to compost on their own.
 project_impact: '["Access to healthy food","Self-sufficiency","Resilient communities"]'
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Resilient communities
+project_proposal_description: >-
+  LA Compost is working to create an entirely local solution to food waste
+  through composting. Our community supported compost hubs will keep organics
+  within the same community in which they were consumed, and provide finished
+  compost for local growers. By expanding our current countywide compost hub
+  network, we will continue to divert thousands of pounds of organics from
+  reaching landfills monthly, while also providing residents with the tools and
+  education needed to compost on their own.
+project_areas:
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - County of Los Angeles
 project_proposal_best_place: >-
   LA Compost will help make LA be the best place to LIVE by reconnecting
   communities across LA County with their food, their soil, and their neighbors.
@@ -117,23 +125,15 @@ project_proposal_best_place: >-
   empowering and healing, and that Los Angeles needs just this. Composting is a
   beautiful, regenerative process that is collaborative, self-giving, and
   exemplifies the type of city we want to embody.
-challenge_url: >-
-  https://challenge.la2050.org/entry/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county
+project_image_2: 4893873855741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  LA Compost is working to create an entirely local solution to food waste
-  through composting. Our community supported compost hubs will keep organics
-  within the same community in which they were consumed, and provide finished
-  compost for local growers. By expanding our current countywide compost hub
-  network, we will continue to divert thousands of pounds of organics from
-  reaching landfills monthly, while also providing residents with the tools and
-  education needed to compost on their own.
-project_proposal_impact:
-  - Access to healthy food
-  - Self-sufficiency
-  - Resilient communities
-category: live
-body_class: lime
-published: true
+organization_name: LA Compost
+organization_website: lacompost.org
+organization_name_2: LA Compost
+organization_activity: >-
+  L.A. Compost is a sustainable movement that promotes healthy conscious
+  communities through the creation of community supported compost hubs
+  throughout Los Angeles.
+ein: '461134852'
 
 ---

@@ -1,9 +1,11 @@
 ---
+published: true
+organization_id: '2018015'
+year_submitted: 2015
+category: connect
+body_class: tangerine
 project_id: '5102047'
 title: Social Justice Resilience and Community Building
-organization_id: '2018015'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   We work with local social justice organizations to implement Council Practice.
   To serve the needs of the populations they serve, these organizations must
@@ -11,20 +13,8 @@ project_summary: >-
   understand both the context and history of the underlying issues. The practice
   of deep listening without judgment fosters an atmosphere of respect for one’s
   self and others, promotes empathy, understanding and cooperation. 
-Please specify below: ''
-category: connect
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
 project_image: 'https://img.youtube.com/vi/Nry74LO2c0I/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Nry74LO2c0I'
-youtube_video_identifier: Nry74LO2c0I
 project_areas:
   - Central LA
   - East LA
@@ -33,8 +23,8 @@ project_areas:
   - South LA
   - Westside
 maker_answers:
-  How did you hear about this challenge?: Newsletter
   'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Center for Council
   Organization(s) mailing address(es): "c/o Community Partners\r\n1000 North Alameda Street\r\nLos Angeles, CA 90012\r\n"
   Organization(s) website(s): www.centerforcouncil.org
@@ -84,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  How did you hear about this challenge?: Newsletter
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -103,6 +93,37 @@ maker_answers:
   How will your proposal improve the following “Connect” metrics? Residential segregation (Dream Metric): '0'
   How will your proposal improve the following “Connect” metrics? Access to free wifi (Dream Metric): '0'
   Describe in greater detail how you will make LA the best place to connect.: "A critical challenge for social justice organizations as they advocate for positive social change is to listen deeply to the communities in which they work. These organizations are mission-driven to voice the needs of the populations they serve and, therefore, staff must develop a capacity to listen deeply to understand both the context and history of the underlying issues embedded within these populations and the history that lives in the stories of individual community members and their families. \r\n\r\nIn addition to the opportunity to hear the voice of the population they serve, when a staff participates in Council, an opportunity emerges for employees and peers to develop greater rapport, trust and a deeper sense of community. Integrating Council practice creates a healthier and more nurturing workplace, which fosters greater cooperation, motivation and creativity that then supports innovation, increased productivity and better decision-making. Inviting deep listening and giving permission to speak authentically, allows employees to trust that they will not be judged or shut down for speaking heartfully in Council. Thus, the workplace becomes a rich environment for greater individual self-expression, group affirmation and collegial bonding, becoming an effective antidote to burnout.\r\nCouncil may be understood to be the embodiment of compassion in community.  Groups and organizations that incorporate this practice of collective mindfulness, awareness of self and surroundings, regulation and cultivation of healthy communication and behavior create environments of care, compassion, and community wellness.  The indigenous wisdom traditions from which this work has emerged have known about the great benefits of ceremony and ritual and have gathered around the fire for countless generations to share stories, norm shared values and celebrate commonalities. Agencies and organizations, schools, prisons, communities and families can use the skills taught by Center for Council to create greater community wellness, which will be evidenced in significant positive shifts in personal health (lower stress, less stress-related disease, greater attention), group health (better communication, more empathy, deeper cooperation) and community health (more pro-social, compassion-centered engagement).  These health outcomes are consistently observed and increasingly measured in program evaluation of our work."
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How do you plan to use these resources to make change?: []
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     We view our work as paradigm-shifting, as we foster programs that increase
     compassion and support healthier individuals, communities and work places. 
@@ -164,41 +185,22 @@ maker_answers:
     and based on the amount of funding received we can work with additional
     organizations.  
   'Please include a detailed budget of how you will use $100,000 to implement this project.': "Program Development\t$11,875\r\nOrganizational Outreach, Application and Review Process $8,550\r\nProgram Implementation at Social Justice Orgs $64,350\r\nOnsite support following training  $50,775\r\nNetworking event for social justice organizations  $7,200\r\nEvaluation $2,250\r\nAdmin Support/Overhead $21,750\r\nFor 13 Organizations  $166,750\r\nPer Organization\t\t$12,827\r\n"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: >-
     We have more opportunities and organizations requesting that we work with
     them than we can manage due to our training base.  Additional funding will
     allow us to train additional trainers to meet the demand for our work.  
-  Where will you be working?:
-    - Central LA
-    - East LA
-    - San Gabriel Valley
-    - San Fernando Valley
-    - South LA
-    - Westside
-  How do you plan to use these resources to make change?: []
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - 'Infrastructure (building/space/vehicles, etc.)'
-    - Education/training
-    - 'Technical infrastructure (computers, etc.)'
-    - Community outreach
-    - Network/relationship support
-    - Quality improvement research
-  How will your proposal improve the following “Connect” metrics?:
-    - Adults getting sufficient social & emotional support
+areas_impacted: ''
+partners: ''
+Please specify below: ''
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
+youtube_video_identifier: Nry74LO2c0I
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -660,8 +662,6 @@ maker_answers_list:
       We have more opportunities and organizations requesting that we work with
       them than we can manage due to our training base.  Additional funding will
       allow us to train additional trainers to meet the demand for our work.  
-body_class: tangerine
 organization_name: Center for Council
-published: true
 
 ---

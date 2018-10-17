@@ -1,29 +1,24 @@
 ---
+published: true
 organization_id: '2016196'
 year_submitted: 2016
-organization_name: Sound Body Sound Mind Foundation
-organization_website: uclahealth.org/soundbodysoundmind
-ein: ''
-project_image_2: 4898814105741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102211'
+challenge_url: >-
+  https://challenge.la2050.org/entry/fighting-child-obesity-through-the-transformation-of-physical-education-in-los-angeles
 title: >-
   Fighting Child Obesity Through the Transformation of Physical Education in Los
   Angeles
-organization_name_2: Sound Body Sound Mind Foundation
-organization_activity: >-
-  The mission of Sound Body Sound Mind is to promote self-confidence and healthy
-  lifestyle choices among today's youth.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
-project_video: 'https://www.youtube.com/embed/wA3zYsq4f3I?rel=0&amp;showinfo=0'
 project_summary: >-
   Sound Body Sound Mind will provide Los Angeles middle and high schools
   state-of-the-art fitness centers, fitness curriculum, and professional
   development to transform P.E. and student health.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
+project_video: 'https://www.youtube.com/embed/wA3zYsq4f3I?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - LAUSD
 project_measure: >-
   Goal 1) Design, build, and open state-of-the-art fitness centers at selected
   LAUSD schools
@@ -88,6 +83,21 @@ project_description: >-
 project_impact: >-
   ["Self-sufficiency","Obesity","Resilient communities","Prevalence of adverse
   childhood experiences"]
+project_proposal_impact:
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+project_proposal_description: >-
+  Los Angeles is in dire need of quality physical education resources and
+  training within its schools. Sound Body Sound Mind (SBSM) plans to fill this
+  void by providing recipient schools within LAUSD a state-of-the-art fitness
+  center, SBSM Curriculum, and professional development training. This
+  comprehensive package gives underserved students a space to transform their
+  physical education experience, and P.E. educators new and inventive resources
+  to implement within their class.
+project_areas:
+  - LAUSD
 project_proposal_best_place: >-
   SBSM commits its services to an array of student populations and needs that
   would otherwise go unnoticed in many communities. The lack of fitness
@@ -148,24 +158,14 @@ project_proposal_best_place: >-
   LAUSD schools are rarely able to compensate for recreational and fitness
   resources their neighborhoods lack. With implementation of our program model,
   SBSM can provide LAUSD with an impactful solution.
-challenge_url: >-
-  https://challenge.la2050.org/entry/fighting-child-obesity-through-the-transformation-of-physical-education-in-los-angeles
+project_image_2: 4898814105741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Los Angeles is in dire need of quality physical education resources and
-  training within its schools. Sound Body Sound Mind (SBSM) plans to fill this
-  void by providing recipient schools within LAUSD a state-of-the-art fitness
-  center, SBSM Curriculum, and professional development training. This
-  comprehensive package gives underserved students a space to transform their
-  physical education experience, and P.E. educators new and inventive resources
-  to implement within their class.
-project_proposal_impact:
-  - Self-sufficiency
-  - Obesity
-  - Resilient communities
-  - Prevalence of adverse childhood experiences
-category: live
-body_class: lime
-published: true
+organization_name: Sound Body Sound Mind Foundation
+organization_website: uclahealth.org/soundbodysoundmind
+organization_name_2: Sound Body Sound Mind Foundation
+organization_activity: >-
+  The mission of Sound Body Sound Mind is to promote self-confidence and healthy
+  lifestyle choices among today's youth.
+ein: ''
 
 ---
