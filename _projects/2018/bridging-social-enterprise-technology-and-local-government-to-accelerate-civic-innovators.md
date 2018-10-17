@@ -137,8 +137,6 @@ Where do you hope this activation or your organization will be in five years?: >
   opportunity for all Angelenos, regardless of age, socio-economic status, race,
   culture, or any other factors that currently prohibit them from participating
   in the civic tech ecosystem. 
-project_id_2: '8102028'
-project_id_3: '8102028'
 organization_name: Civic Innovation Lab
 
 ---

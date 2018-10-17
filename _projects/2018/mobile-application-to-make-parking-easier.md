@@ -110,8 +110,6 @@ Where do you hope this activation or your organization will be in five years?: >
   avoidable fines. We also hope to augment our text parsing and rules engine
   with Machine learning (AI) capabilities to increase development speed for
   accounting for all possible sign rules. 
-project_id_2: '8102091'
-project_id_3: '8102091'
 organization_name: NoTow
 
 ---

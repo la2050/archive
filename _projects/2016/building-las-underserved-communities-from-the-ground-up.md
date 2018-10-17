@@ -143,15 +143,7 @@ project_proposal_best_place: >-
   area.  Community Healing Gardens will take this “blueprint” and grow it in
   other underserved schools and communities in Los Angeles. This will make LA
   the best place to LIVE!
-project_image_2: 1939548316741-team90.jpg
-empty_column_1: ''
 organization_name: Community Healing Gardens
 organization_website: CommunityHealingGardens.org
-organization_name_2: Community Healing Gardens
-organization_activity: >-
-  Community Healing Gardens transforms communities through urban gardens that
-  provide healthy food, create jobs, foster community & educates about the
-  urgency of human/planetary health.
-ein: ''
 
 ---

@@ -123,15 +123,7 @@ project_proposal_best_place: >-
   with students to help address barriers by providing personal and academic
   support and connecting students to resources on campus. Our staff provides
   individualized support to high-risk students.
-project_image_2: 7012460625741-team89.jpg
-empty_column_1: ''
 organization_name: Camino Nuevo Charter Academy
 organization_website: www.caminonuevo.org
-organization_name_2: Camino Nuevo Charter Academy
-organization_activity: >-
-  Camino Nuevo Charter Academy (CNCA) is a community of high-performing public
-  schools that utilizes a comprehensive approach to prepare students from PreK
-  through high school for success in college.
-ein: ''
 
 ---

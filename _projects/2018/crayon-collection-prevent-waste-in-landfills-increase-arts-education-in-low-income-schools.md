@@ -121,8 +121,6 @@ Where do you hope this activation or your organization will be in five years?: >
   standard-compliant curricula for underserved schools; we want to involve more
   kids in our Color Kindness project to increase a sense of empathy and exercise
   social responsibility.
-project_id_2: '8102032'
-project_id_3: '8102032'
 organization_name: Crayon Collection
 
 ---

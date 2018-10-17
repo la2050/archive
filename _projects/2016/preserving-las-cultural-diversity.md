@@ -133,14 +133,7 @@ project_proposal_best_place: >-
   (3) Support and grow entrepreneurial enterprises contributing to neighborhood
   cultural vibrancy. The goal will be to assist these businesses with access to
   capital, information, larger markets and technical assistance.
-project_image_2: 2540983165741-team91.png
-empty_column_1: ''
 organization_name: Los Angeles LISC
 organization_website: www.lisc.org/los_angeles
-organization_name_2: Los Angeles LISC
-organization_activity: >-
-  LISC equips struggling communities with the capital, strategy and know-how to
-  become places where people and businesses can thrive.
-ein: ''
 
 ---

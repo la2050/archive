@@ -113,15 +113,7 @@ project_proposal_best_place: >-
   To advocate for & serve our monolingual Spanish population, programming will
   also be provided in Spanish, promoting multi-generational cross cultural
   connections & access to a creative dialogue.
-project_image_2: 5056172635741-team91.JPG
-empty_column_1: ''
 organization_name: Pacoima Beautiful
 organization_website: www.pacoimabeautiful.org
-organization_name_2: Pacoima Beautiful
-organization_activity: >-
-  Pacoima Beautiful is a grassroots environmental justice organization that
-  provides education, impacts public policy, and supports local arts & culture
-  in order to promote health & sustainability.
-ein: '954770745'
 
 ---

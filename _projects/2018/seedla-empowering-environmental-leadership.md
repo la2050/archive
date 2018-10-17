@@ -124,8 +124,6 @@ Please explain how you will define and measure success for your activation.: "Se
 Where do you hope this activation or your organization will be in five years?: >-
   We hope to continue to make LA a better place to LIVE through our growth and
   continued support to local environmental non-profits.
-project_id_2: '8102107'
-project_id_3: '8102107'
 organization_name: SeedLA
 
 ---

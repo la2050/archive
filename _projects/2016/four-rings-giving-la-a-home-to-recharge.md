@@ -124,14 +124,7 @@ project_proposal_best_place: >-
   We look to stimulate growth in the entertainment industry by connecting
   motivated and inspired entrepreneurs. Four Rings values innovation, and sees
   this network as a unique and refreshing way to support business development.
-project_image_2: 3092492065741-team90.jpg
-empty_column_1: ''
 organization_name: Four Rings
 organization_website: fourrings.co
-organization_name_2: Four Rings
-organization_activity: >-
-  Four Rings provides a synergetic platform where all types of people can reach
-  honorable achievement.
-ein: ''
 
 ---

@@ -129,15 +129,7 @@ project_proposal_best_place: >-
   - Huntington Park Health and Education Commission
 
   - City of Walnut Mount San Antonio College Development Task Force
-project_image_2: 8636309165741-team90.JPG
-empty_column_1: ''
 organization_name: People For the American Way Foundation
 organization_website: yeonetwork.org/our-work/front-line-leaders-academy
-organization_name_2: People For the American Way Foundation
-organization_activity: >-
-  PFAW Foundation protects constitutional values under attack from the Right and
-  defends the values that honor free speech, religious liberty, equal
-  opportunity and equal justice for all.
-ein: '133065716'
 
 ---

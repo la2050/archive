@@ -92,12 +92,7 @@ project_proposal_best_place: >-
   the outside edges of sidewalks) from traffic -- making them much safer than
   parking spot parklets -- where the risk of cars running into parking spot
   parklets is high.
-project_image_2: 3589906913741-team90.jpg
-empty_column_1: ''
 organization_name: SCA-LARC
 organization_website: sca-larc.com
-organization_name_2: SCA-LARC
-organization_activity: Landscape Architecture
-ein: ''
 
 ---

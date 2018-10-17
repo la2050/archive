@@ -124,14 +124,7 @@ project_proposal_best_place: >-
   funding sources. We propose hiring a Public Policy consultant who will help
   create and implement a public policy/education strategy to engage
   legislators/stakeholders.
-project_image_2: 6004983715741-team91.jpg
-empty_column_1: ''
 organization_name: Public Health Foundation Enterprises
 organization_website: www.lblreaders.org
-organization_name_2: Public Health Foundation Enterprises
-organization_activity: >-
-  PHFE is the nation’s premier catalyst for advancing program and support
-  services to optimize population health
-ein: ''
 
 ---

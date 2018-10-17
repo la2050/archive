@@ -130,8 +130,6 @@ Where do you hope this activation or your organization will be in five years?: >
   developed deeper connections and those that lived there and have moved on will
   carry with them the sense that community can be created, even in places where
   it might seem difficult.
-project_id_2: '8102024'
-project_id_3: '8102024'
 organization_name: 'City Impact Lab, powered by Stratiscope'
 
 ---

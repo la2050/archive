@@ -152,15 +152,7 @@ project_proposal_best_place: >-
   students of color. Young people will see someone who “looks like them” and be
   able to relate because they have similar backgrounds. There’s a saying ‘if I
   can see it, I can be it’.
-project_image_2: 3262530655741-team91.jpg
-empty_column_1: ''
 organization_name: STEM Advantage
 organization_website: www.stemadvantage.org
-organization_name_2: STEM Advantage
-organization_activity: >-
-  STEM Advantage mentors, prepares and inspires young women and underserved
-  communities to pursue careers in science, technology, engineering and math
-  through paid internships, mentors and scholarships.
-ein: ''
 
 ---

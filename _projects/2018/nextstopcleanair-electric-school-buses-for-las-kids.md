@@ -162,8 +162,6 @@ Where do you hope this activation or your organization will be in five years?: >
   region’s trucks, street sweepers, garbage trucks, and more, all the while
   using those policies to create the good jobs LA County needs to support
   historically excluded communities access good careers.
-project_id_2: '8102037'
-project_id_3: '8102037'
 organization_name: Environment California Research & Policy Center
 
 ---

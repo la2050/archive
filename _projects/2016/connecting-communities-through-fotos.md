@@ -110,15 +110,7 @@ project_proposal_best_place: >-
   professionals to connect themselves to local nonprofits and volunteer
   opportunities. The students through the photography process will find adult
   allies throughout Los Angeles to help them follow their professional paths.
-project_image_2: 2500980265741-team91.jpg
-empty_column_1: ''
 organization_name: Las Fotos Project
 organization_website: www.lasfotosproject.org
-organization_name_2: Las Fotos Project
-organization_activity: >-
-  Las Fotos Project is a photography mentoring program for teenage girls. We
-  partner with schools, community groups, and libraries to create brave spaces
-  for girls to learn, collaborate, and create.
-ein: ''
 
 ---

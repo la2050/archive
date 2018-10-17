@@ -101,14 +101,7 @@ project_proposal_best_place: >-
   professionals who serve as positive role models to the Club members, with
   important information for families at their fingertips as a valuable,
   accessible resource.
-project_image_2: 0265060265741-team91.jpg
-empty_column_1: ''
 organization_name: Community Corporation of Santa Monica
 organization_website: www.communitycorp.org
-organization_name_2: Community Corporation of Santa Monica
-organization_activity: >-
-  We are a Santa Monica based non-profit that restores, builds and manages 
-  affordable housing for people of modest means.
-ein: ''
 
 ---

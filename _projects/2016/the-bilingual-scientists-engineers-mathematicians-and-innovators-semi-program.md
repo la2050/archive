@@ -117,15 +117,7 @@ project_proposal_best_place: >-
   coaching and technical assistance on how to conduct projects and experiments
   in the classroom setting. The program is unique in that is designed to dispel
   negative stereotypes about scientists (e.g., eccentric, isolated).
-project_image_2: 9165635165741-team90.JPG
-empty_column_1: ''
 organization_name: Patrick Henry Foundation
 organization_website: www.patrickhenryfoundation.org
-organization_name_2: Patrick Henry Foundation
-organization_activity: >-
-  Our mission is to make Patrick Henry School an exciting place to learn through
-  programs that promote personal growth, cultural connections, and creative
-  learning experiences.
-ein: '471713238'
 
 ---

@@ -113,15 +113,7 @@ project_proposal_best_place: >-
   communities, PPLA works to empower everyone in Los Angeles County to advocate
   for their own health, receive the medical services they need, and make
   positive decisions.
-project_image_2: 8267604165741-team90.jpg
-empty_column_1: ''
 organization_name: Planned Parenthood Los Angeles (PPLA)
 organization_website: www.plannedparenthood.org/planned-parenthood-los-angeles
-organization_name_2: Planned Parenthood Los Angeles (PPLA)
-organization_activity: >-
-  PPLA works to prevent unintended pregnancy, STIs and reproductive system
-  cancers through a comprehensive range of health care services and sexual
-  health education.
-ein: '952408623'
 
 ---

@@ -127,15 +127,7 @@ project_proposal_best_place: >-
   age and cultivate quality space for kids to play on their terms.  By providing
   radically different permanent and mobile play spaces we will make LA the best
   place to Play!
-project_image_2: 9802286065741-team89.png
-empty_column_1: ''
 organization_name: Santa Clarita Valley Adventure Play
 organization_website: scvadventureplay.com
-organization_name_2: Santa Clarita Valley Adventure Play
-organization_activity: >-
-  SCV Adventure Play organizes permanent and temporary play spaces that promote
-  risk benefits, self direction, and child equality through the communal support
-  of permissive child led activities.
-ein: ''
 
 ---

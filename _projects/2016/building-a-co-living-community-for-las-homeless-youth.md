@@ -169,15 +169,7 @@ project_proposal_best_place: >-
   scale) so that the youth develop responsible fiscal habits. Fees can be offset
   through government subsidies, private donations, and possibly even housing
   vouchers.  The goal is to create authorship and autonomy.
-project_image_2: 7267442825741-team91.jpg
-empty_column_1: ''
 organization_name: PodShare
 organization_website: PodShare.co
-organization_name_2: PodShare
-organization_activity: >-
-  PodShare builds affordable membership-based live/work communities to share
-  across the city of LA - access to our network of locations to co-live,
-  co-work, & collaborate
-ein: '811021799'
 
 ---

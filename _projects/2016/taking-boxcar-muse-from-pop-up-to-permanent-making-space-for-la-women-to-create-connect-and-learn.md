@@ -131,14 +131,7 @@ project_proposal_best_place: >-
   We believe Los Angeles, and the world, will be a safer and even more
   magnificent place when women are continuously engaged in the joy of exercising
   their genius.
-project_image_2: 2216202144741-team91.jpg
-empty_column_1: ''
 organization_name: boxcar+muse
 organization_website: boxcarmuse.com
-organization_name_2: boxcar+muse
-organization_activity: >-
-  boxcar+muse is an indulgent and imaginative play and work space, a connector
-  of diverse women, and a platform for fun and meaningful experiences.
-ein: ''
 
 ---

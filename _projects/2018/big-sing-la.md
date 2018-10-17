@@ -124,8 +124,6 @@ Where do you hope this activation or your organization will be in five years?: >
   their local parks in Los Angeles, which is aligned with the metric of
   increasing the number of parks with inter-generational play opportunities and
   increase attendance at cultural events.
-project_id_2: '8102076'
-project_id_3: '8102076'
 organization_name: Los Angeles Master Chorale
 
 ---

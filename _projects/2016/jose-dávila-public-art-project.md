@@ -141,15 +141,7 @@ project_proposal_best_place: >-
   Furthermore, the transformation of the sculpture and the artwork’s
   neighborhood impact will be documented and photographed in a bilingual
   publication.
-project_image_2: 3334798155741-team90.jpg
-empty_column_1: ''
 organization_name: LAND (Los Angeles Nomadic Division)
 organization_website: www.nomadicdivision.org
-organization_name_2: LAND (Los Angeles Nomadic Division)
-organization_activity: >-
-  LAND presents museum-quality contemporary art for broad audiences to encounter
-  in their everyday lives, enabling artists to work in nontraditional sites,
-  expanding their creative practice & audience.
-ein: ''
 
 ---

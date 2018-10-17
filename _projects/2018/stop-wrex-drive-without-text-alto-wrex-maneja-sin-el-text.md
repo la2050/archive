@@ -157,8 +157,6 @@ Where do you hope this activation or your organization will be in five years?: >
   and/or change behaviour. Our project will establish the distracted driving
   movement by adding realtime objective metrics that will be the agent of change
   of vehicle accidents because of distracted drivers while texting. 
-project_id_2: '8102052'
-project_id_3: '8102052'
 organization_name: Health Core Possibilities
 
 ---

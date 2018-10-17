@@ -158,8 +158,6 @@ Please explain how you will define and measure success for your activation.: "We
 Where do you hope this activation or your organization will be in five years?: >-
   We hope to serve at least 200 community college students per college in the
   next five years.  We expect to start with 30 students this year.
-project_id_2: '8102033'
-project_id_3: '8102033'
 organization_name: Data 360
 
 ---

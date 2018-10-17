@@ -81,15 +81,7 @@ project_proposal_best_place: >-
   storytellers. We become catalysts in transforming our city. This project will
   endeavor to tell the untold stories of change-makers, thereby seeding the next
   generation of social progress innovators.
-project_image_2: 6262793265741-team89.jpg
-empty_column_1: ''
 organization_name: Capital & Main
 organization_website: capitalandmain.com
-organization_name_2: Capital & Main
-organization_activity: >-
-  Capital & Main is an award-winning online publication that reports from
-  California on the most pressing economic, environmental and social issues of
-  our time.
-ein: ''
 
 ---

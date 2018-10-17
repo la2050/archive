@@ -96,15 +96,7 @@ project_proposal_best_place: >-
   best place to play by using youth driven solutions to address serious
   community issues in an innovative way, integrating the arts, culture, and
   technology into programming that fosters community and promotes healing.
-project_image_2: 3912790265741-team91.jpg
-empty_column_1: ''
 organization_name: CALO YouthBuild
 organization_website: www.caloinc.org
-organization_name_2: CALO YouthBuild
-organization_activity: >-
-  CALÓ YouthBuild is a project based, culturally relevant, high school diploma
-  granting program themed in social justice, community organizing and
-  environmentalism for out of school East LA youth.
-ein: ''
 
 ---

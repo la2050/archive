@@ -113,15 +113,7 @@ project_proposal_best_place: >-
   Building the KCRW Media Center is only the beginning. KCRW will host free,
   public concerts, live talks, and cultural events in its new facility for all
   Angelenos to attend!
-project_image_2: 5620032535741-team91.jpg
-empty_column_1: ''
 organization_name: KCRW
 organization_website: KCRW.com
-organization_name_2: KCRW
-organization_activity: >-
-  Driven by the spirit of Los Angeles, KCRW creates and curates a unique mix of
-  content centered around music discovery, NPR news, cultural exploration, and
-  informed public affairs.
-ein: '953750631'
 
 ---

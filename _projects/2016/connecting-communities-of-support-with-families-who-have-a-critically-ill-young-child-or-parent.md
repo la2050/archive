@@ -144,15 +144,7 @@ project_proposal_best_place: >-
   LA is the BEST place to CONNECT and Here to Serve offers the only program and
   platform to do that when you have a young child or parent in medical crisis
   and you do not qualify for government assistance!
-project_image_2: 6154785996741-team91.jpg
-empty_column_1: ''
 organization_name: 'Here to Serve, Inc'
 organization_website: www.heretoserve.org
-organization_name_2: 'Here to Serve, Inc'
-organization_activity: >-
-  We CONNECT physical, financial & emotional care to parents to help manage
-  their home life during a medical crisis providing meals; child, yard, house
-  and pet care; fundraising; medical updates, etc.
-ein: ''
 
 ---

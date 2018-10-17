@@ -114,15 +114,7 @@ project_proposal_best_place: >-
   any beach or body of water safer for all in Los Angeles just by their
   presence. The Open Water Junior Lifeguard Program makes LA the best place to
   Play.
-project_image_2: 9852179754741-team91.jpg
-empty_column_1: ''
 organization_name: City of Los Angeles Department of Recreation and Parks
 organization_website: www.laparks.org
-organization_name_2: City of Los Angeles Department of Recreation and Parks
-organization_activity: >-
-  The City of Los Angeles, Department of Recreation and Parks (RAP) provides
-  healthy lifestyle opportunities and play experiences at easily accessible
-  vibrant parks for families in Los Angeles.
-ein: '956000735'
 
 ---

@@ -148,15 +148,7 @@ project_proposal_best_place: >-
   More info about the EMA Play it FWD program can be found here:
 
   http://ema-global.org/programs/play-it-fwd
-project_image_2: 6633121265741-team91.jpg
-empty_column_1: ''
 organization_name: EMX Los Angeles
 organization_website: www.facebook.com/emx.la
-organization_name_2: EMX Los Angeles
-organization_activity: >-
-  EMX is a LA-based electronic music community providing upcoming artists a
-  platform for artistic development, cross-generational educational programs,
-  safe event practices, and community engagement.
-ein: ''
 
 ---

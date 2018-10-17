@@ -108,14 +108,7 @@ project_proposal_best_place: >-
   FutureSculpt are set to explore how we can recruit the next generation of
   police officers who reflect the value of their communities and can become an
   advocate for all Angelenos.
-project_image_2: 0296500655741-team91.jpg
-empty_column_1: ''
 organization_name: Impact Hub Los Angeles
 organization_website: impacthubla.com
-organization_name_2: Impact Hub Los Angeles
-organization_activity: >-
-  Impact Hub Los Angeles is a community hub and co-working space for socially
-  conscious entrepreneurs, civic leaders, professionals and creatives.
-ein: '273558431'
 
 ---

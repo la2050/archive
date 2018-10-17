@@ -54,14 +54,7 @@ project_areas:
   - East LA
   - San Gabriel Valley
 project_proposal_best_place: "We’re already doing it! \n\t\nNew writers are making connections, sharing their work with the community and building a culture of writing in areas where this may not have existed before.  \n\nWe just need help to continue and expand the project.\n\nUp to now, Tell Your True Tale workshops have been supported by the County Library; but that support is not open-ended. We also want to diversify and include different community partners.\n\nSince starting at ELA Library in 2013, the workshops have taken some 50 people with no previous writing experience, helped them imagine and polish their stories, then published books of their pieces – leaving them energized by the creation and eager for more. Many of the participants have taken the workshop two and three times. We are at the beginnings of a new arts organization.\n \nWe’re now up to seven volumes of their stories. These volumes form a magnificent mosaic of life, and lives, in Los Angeles. They also show the deep mine of stories out there just waiting like diamonds to be dug up and polished. Los Angeles is a collection of bubbles of people, from across the country and the world, who know little about each other. Tell Your True Tale volumes bridge that, show the depth and breadth of the people who have settled here, and present a template for how to access their stories.\n\nWe bring the community together in public gatherings – book presentations that feature the authors, let them talk about their stories, sign books, feel the energy that comes with a newly published work.\n\nOur motto is: Write Then Rewrite. No successful communication, no great story, no real creativity, comes without rewriting, editing, and more revising. We aimed to create nonfiction stories from working people’s lives that read like fiction. Our seven books show that we have succeeded."
-project_image_2: 7316447986741-team91.JPG
-empty_column_1: ''
 organization_name: County of Los Angeles Public Library
 organization_website: www.colapublib.org/tytt
-organization_name_2: County of Los Angeles Public Library
-organization_activity: >-
-  We are a library system which has the stated mission of helping its patrons
-  connect, create and explore.
-ein: ''
 
 ---

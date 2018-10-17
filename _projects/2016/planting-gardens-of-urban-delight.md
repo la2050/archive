@@ -68,14 +68,7 @@ project_proposal_best_place: >-
   and community.  We will make LA the best place to LIVE by connecting people,
   beautifying our great city and helping it to feel more like a community of
   connected, like-minded people supporting each other.
-project_image_2: 1280996065741-team88.jpg
-empty_column_1: ''
 organization_name: The Edible Apartment
 organization_website: www.TheEdibleApartment.org
-organization_name_2: The Edible Apartment
-organization_activity: >-
-  We convert apartment building lawns into organic urban farms; creating
-  community, a sustainable food source and beautifying the neighborhood.
-ein: '475129866'
 
 ---

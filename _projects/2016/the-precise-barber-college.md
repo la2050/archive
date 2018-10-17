@@ -132,15 +132,7 @@ project_proposal_best_place: >-
   with earning power and a unique perspective on social engagement will have on
   our social and fiscal economies. We are building a replicable model that
   serves people, inspires service, and facilitates connection between Angelenos.
-project_image_2: 3954291065741-team90.jpg
-empty_column_1: ''
 organization_name: Covenant House California
 organization_website: www.covenanthousecalifornia.org
-organization_name_2: Covenant House California
-organization_activity: >-
-  Covenant House California (CHC) is a nonprofit youth homeless shelter that
-  provides sanctuary and support for homeless and trafficked youth, ages 18 to
-  25.
-ein: ''
 
 ---

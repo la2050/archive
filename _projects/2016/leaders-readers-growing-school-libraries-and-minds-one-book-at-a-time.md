@@ -99,15 +99,7 @@ project_proposal_best_place: >-
   Our goals grow exponentially each year with our Los Angeles-based program and
   we hope to accelerate our impact on Title I students year after year and make
   LA the best place to LEARN.
-project_image_2: 0517807355741-team90.jpg
-empty_column_1: ''
 organization_name: Milk + Bookies
 organization_website: milkandbookies.org
-organization_name_2: Milk + Bookies
-organization_activity: >-
-  Milk+Bookies, and our Leaders+Readers program, is about spreading the love of
-  reading to those who can’t afford books and teaching kids the importance of
-  giving back to others.
-ein: '263245228'
 
 ---

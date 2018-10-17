@@ -137,15 +137,7 @@ project_proposal_best_place: >-
   community members and four landscape architects to develop resilient design
   plans to enhance the river-business interface, enhance public health and
   safety, and improve river access.
-project_image_2: 3428423065741-team90.jpg
-empty_column_1: ''
 organization_name: The River Project
 organization_website: TheRiverProject.org
-organization_name_2: The River Project
-organization_activity: >-
-  The River Project encourages responsible planning/management of land and water
-  to achieve watershed health and climate resilience for the social, economic
-  and environmental benefit of all Angelenos.
-ein: '954858263'
 
 ---

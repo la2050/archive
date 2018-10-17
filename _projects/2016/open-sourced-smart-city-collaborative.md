@@ -89,14 +89,7 @@ project_proposal_best_place: >-
   collaboration and provide a digital toolkit for our fellow LA County Cities. 
   West Hollywood would convene quarterly regional meetings to build the Smart
   City network across LA County.
-project_image_2: 5488182355741-team91.jpg
-empty_column_1: ''
 organization_name: City of West Hollywood
 organization_website: www.weho.org
-organization_name_2: City of West Hollywood
-organization_activity: >-
-  The City of West Hollywood, colloquially referred to as 'WeHo,' serves 35,000
-  residents in 1.9 square miles in the center of Los Angeles County.
-ein: ''
 
 ---

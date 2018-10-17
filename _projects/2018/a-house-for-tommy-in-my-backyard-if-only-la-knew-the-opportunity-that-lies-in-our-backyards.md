@@ -115,8 +115,6 @@ Where do you hope this activation or your organization will be in five years?: >
   Angeles County will know if they can build an ADU in their lots. We also hope
   that most homeowners eligible to add an ADU will be in the process of building
   one.
-project_id_2: '8102086'
-project_id_3: '8102086'
 organization_name: Mutuo
 
 ---

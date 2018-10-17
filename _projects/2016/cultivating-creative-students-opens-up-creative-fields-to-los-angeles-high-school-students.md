@@ -107,15 +107,7 @@ project_proposal_best_place: >-
 
   In this way CCS opens up creative fields and practices to a more inclusive Los
   Angeles.
-project_image_2: 2749938065741-team91.jpg
-empty_column_1: ''
 organization_name: Wisdom Arts Laboratory
 organization_website: www.wisdomartslaboratory.com
-organization_name_2: Wisdom Arts Laboratory
-organization_activity: >-
-  Wisdom Arts Laboratory encourages and nurtures the imagination, critical
-  thinking skills, and citizenship of our students and instructors through art
-  and science education.
-ein: ''
 
 ---

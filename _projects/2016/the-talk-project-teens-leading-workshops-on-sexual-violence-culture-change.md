@@ -117,15 +117,7 @@ project_proposal_best_place: >-
   With resources and strong support this program can truly take off, and LA
   teens can continue to use their voices to make Los Angeles a safer, more
   inclusive, more empowering place to learn.
-project_image_2: 6377992175741-team91.jpg
-empty_column_1: ''
 organization_name: National Council of Jewish Women | Los Angeles
 organization_website: Ncjwla.org
-organization_name_2: National Council of Jewish Women | Los Angeles
-organization_activity: >-
-  The National Council of Jewish Women|Los Angeles is a grassroots social
-  justice organization committed to the welfare and well-being of the entire Los
-  Angeles community.
-ein: ''
 
 ---

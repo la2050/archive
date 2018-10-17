@@ -111,15 +111,7 @@ project_proposal_best_place: >-
   candidates. The database will also be used by technology companies like
   Facebook and Nationbuilder, which is already designing solutions that make it
   easier for their users to run for office.
-project_image_2: 9698284165741-team91.png
-empty_column_1: ''
 organization_name: University of Southern California
 organization_website: civictechusc.org
-organization_name_2: University of Southern California
-organization_activity: >-
-  The USC Annenberg Center’s Civic Tech USC initiative is a nonprofit that
-  studies and develops new technologies to promote inclusion, fairness,
-  transparency, civic responsibility and participation.
-ein: '951642394'
 
 ---

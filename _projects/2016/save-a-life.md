@@ -147,15 +147,7 @@ project_proposal_best_place: >-
 
   According to LA County, 1 death could be prevented for every 227 naloxone kits
   distributed. Be part of curbing this epidemic!
-project_image_2: 9035316643741-team90.jpg
-empty_column_1: ''
 organization_name: Homeless Health Care Los Angeles
 organization_website: hhcla.org
-organization_name_2: Homeless Health Care Los Angeles
-organization_activity: >-
-  HHCLA is a non-profit, community-based organization charged with the mission
-  of providing innovative strategies for reducing the impact of homelessness in
-  the communities of LA County.
-ein: ''
 
 ---

@@ -87,14 +87,7 @@ project_proposal_best_place: >-
   matter where in SoCal you live. Sure, it's probably the bike enthusiast that
   will get the tickets, but with awesome food, music and entertainment -
   everyone will enjoy a great day.
-project_image_2: 5735922065741-team91.jpg
-empty_column_1: ''
 organization_name: Bicycle Culture Institute
 organization_website: bicycleculture.org
-organization_name_2: Bicycle Culture Institute
-organization_activity: >-
-  Educate and inspire an authentic American bicycle culture - through
-  transportation and recreational bicyling events and programs..
-ein: ''
 
 ---

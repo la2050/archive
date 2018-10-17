@@ -144,15 +144,7 @@ project_proposal_best_place: >-
   Screening event at Impact Hub LA. 
 
   All accompanied by communications & advocacy campaign.
-project_image_2: 8642914065741-team90.jpg
-empty_column_1: ''
 organization_name: Investing in Place
 organization_website: www.investinginplace.org
-organization_name_2: Investing in Place
-organization_activity: >-
-  We empower people of all ages and abilities to help advocate for safe and
-  livable communities through better transportation policy and funding
-  decisions.
-ein: Community Partners
 
 ---

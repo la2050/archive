@@ -112,15 +112,7 @@ project_proposal_best_place: >-
   Our strategy will empower LA communities to transform their neighborhoods by
   promoting a healthier environment and local manufacture and enforceable
   community benefits agreements for taxpayer-funded equipment purchases.
-project_image_2: 1741937194741-team89.jpg
-empty_column_1: ''
 organization_name: Jobs to Move America
 organization_website: jobstomoveamerica.org
-organization_name_2: Jobs to Move America
-organization_activity: >-
-  Jobs to Move America (JMA) is a national organization- headquartered in
-  LA-dedicated to re-invigorating our manufacturing economy through good jobs &
-  opportunities for all
-ein: ''
 
 ---

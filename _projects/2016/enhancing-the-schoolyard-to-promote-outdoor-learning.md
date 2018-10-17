@@ -138,14 +138,7 @@ project_proposal_best_place: >-
 
   - formulation of guidelines for other LAUSD schools and PTA’s to implement
   similar projects.
-project_image_2: 2799579455741-team90.jpg
-empty_column_1: ''
 organization_name: 'Wyota Workshop, Inc.'
 organization_website: www.wyotaworkshop.com
-organization_name_2: 'Wyota Workshop, Inc.'
-organization_activity: >-
-  Wyota Workshop is a design and research firm working in the fields of art,
-  architecture, urban design and planning
-ein: ''
 
 ---

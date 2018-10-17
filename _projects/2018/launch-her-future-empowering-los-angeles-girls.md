@@ -222,8 +222,6 @@ Where do you hope this activation or your organization will be in five years?: >
   learning experiences in the STEM field, that more young women will go into
   four year colleges and prestigious universities where women are
   underrepresented STEM fields, finish and become the innovators of tomorrow. 
-project_id_2: '8102045'
-project_id_3: '8102045'
 organization_name: Girls Academic Leadership Academy (GALA)
 
 ---

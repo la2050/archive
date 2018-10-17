@@ -112,14 +112,7 @@ project_proposal_best_place: >-
    -Youth unemployment and underemployment: Computer Science and programming, being able to build and create a killer app or computer game- this is the future career for young adults, and will impact any job or career in a positive way. (And did you know that skilled high school coders and computer engineer interns have earned over $5,000 per month?) Coding is Cool will not help them get “a” job, but get “the” job of the future in LA, if they want it. CIC will  offer them an unparalled and very competitive edge. 
 
    -District-wide graduation rates: Coding is Cool will exponentially amp up our students’ creativity, specific CS curiosity and STEM-based, academic skills.
-project_image_2: 1698840075741-team91.PNG
-empty_column_1: ''
 organization_name: The Children's Lifesaving Foundation
 organization_website: www.childrenslifesaving.org
-organization_name_2: The Children's Lifesaving Foundation
-organization_activity: >-
-  We help transform the lives of at-risk & homeless LA youth & families through
-  three program platforms-Living, Learning & Enriching
-ein: '954371286'
 
 ---

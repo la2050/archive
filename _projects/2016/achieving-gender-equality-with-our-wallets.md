@@ -122,15 +122,7 @@ project_proposal_best_place: >-
   purposes of driving policy and community decisions in order to help these
   businesses thrive. We will become the trusted source of information on our
   great city’s women-owned business community.
-project_image_2: 8371696026741-team91.jpg
-empty_column_1: ''
 organization_name: Equallet
 organization_website: www.equallet.com
-organization_name_2: Equallet
-organization_activity: >-
-  Equallet’s mission is to achieve gender equality by harnessing the collective
-  financial power of the consumer and investor to support women-owned businesses
-  in LA.
-ein: ''
 
 ---

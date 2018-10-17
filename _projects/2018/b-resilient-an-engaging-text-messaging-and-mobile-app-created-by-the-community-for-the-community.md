@@ -225,8 +225,6 @@ Where do you hope this activation or your organization will be in five years?: >
   Angeles communities to improve mental health care and access in Los Angeles as
   well as implementing our community models across the nation as we begin
   collaborations with New York City and Baton Rouge, Louisiana.
-project_id_2: '8102129'
-project_id_3: '8102129'
 organization_name: UCLA Center for Health Services and Society
 
 ---

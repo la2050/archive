@@ -140,15 +140,7 @@ project_proposal_best_place: >-
   local youth with agency, ICA LA will cultivate a new, diverse generation of
   arts professionals to participate in the City’s changing socioeconomic and
   cultural landscape.
-project_image_2: 5792245165741-team88.jpg
-empty_column_1: ''
 organization_name: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
 organization_website: www.theicala.org
-organization_name_2: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
-organization_activity: >-
-  ICA LA creates exhibitions, education programs, and community partnerships
-  that spark the pleasure of discovery and challenge the way we see and
-  experience the world, ourselves, and each other.
-ein: ''
 
 ---

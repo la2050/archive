@@ -158,15 +158,7 @@ project_proposal_best_place: >-
   Council, “Protégé” emerging arts-professional mentorship program, &
   professional development workshops. Our shared infrastructure will match
   skills & interests of all volunteers with the appropriate programs.
-project_image_2: 4185192065741-team91.jpg
-empty_column_1: ''
 organization_name: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
 organization_website: DSTLArts.org
-organization_name_2: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
-organization_activity: >-
-  DSTL Arts & The PLACE support & nurture emerging artists & arts administrators
-  through mentorship opportunities, arts-education programs & events, &
-  arts-related work-readiness development.
-ein: '471509200'
 
 ---

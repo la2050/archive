@@ -135,15 +135,7 @@ project_proposal_best_place: >-
   Administration, and Media Arts), all of which offer youth the opportunity to
   receive an industry-recognized certificate and can lead to a living-wage
   career.
-project_image_2: 3278819955741-team89.jpg
-empty_column_1: ''
 organization_name: First Place for Youth
 organization_website: firstplaceforyouth.org
-organization_name_2: First Place for Youth
-organization_activity: >-
-  First Place provides foster youth with intensive support to complete their
-  high school diploma or GED certificate, enroll in college, and obtain
-  employment—while accessing safe, affordable housing.
-ein: ''
 
 ---

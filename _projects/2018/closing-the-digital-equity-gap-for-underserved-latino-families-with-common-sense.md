@@ -188,8 +188,6 @@ Where do you hope this activation or your organization will be in five years?: >
   who help us create culturally-relevant, research-based content that is
   disseminated to trusted partners (schools and nonprofits) through ongoing
   in-person trainings and consultations.
-project_id_2: '8102029'
-project_id_3: '8102029'
 organization_name: Common Sense
 
 ---

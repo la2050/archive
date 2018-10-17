@@ -93,14 +93,7 @@ project_proposal_best_place: >-
   interested in events. 
 
   5) Free listings and perusing of the site will keep the accessibility high.
-project_image_2: 7117612655741-team91.png
-empty_column_1: ''
 organization_name: Unified Everything Project
 organization_website: www.unifiedeverythingproject.com
-organization_name_2: Unified Everything Project
-organization_activity: >-
-  Brings Mentors together with Newbies to Create Arts & Science spectacles for
-  education and entertainment.
-ein: ''
 
 ---

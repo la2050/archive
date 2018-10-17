@@ -127,12 +127,7 @@ project_proposal_best_place: >-
   creating engagement and strategic partnership opportunities for nonprofits and
   donors, Coligo will make Los Angeles the best place to make connections
   worthwhile.
-project_image_2: 4156024363741-team89.jpg
-empty_column_1: ''
 organization_name: 'Coligo, Inc.'
 organization_website: www.coligo.co
-organization_name_2: 'Coligo, Inc.'
-organization_activity: Coligo
-ein: ''
 
 ---

@@ -70,15 +70,7 @@ project_proposal_best_place: >-
   engage in, and participate in the discussion and the narrative of an evolving
   art and communication form. To do this, key players in the world of
   communication and photography should attend and participate.
-project_image_2: 9852558165741-team90.jpg
-empty_column_1: ''
 organization_name: Lucie Foundation
 organization_website: www.monthofphotography.com
-organization_name_2: Lucie Foundation
-organization_activity: >-
-  Lucie Foundation's mission is to honor master photographers, discover and
-  cultivate emerging talent and promote the appreciation of photography through
-  a variety of year-round programming.
-ein: ''
 
 ---

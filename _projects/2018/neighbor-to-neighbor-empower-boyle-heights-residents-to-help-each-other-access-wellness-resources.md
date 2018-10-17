@@ -167,8 +167,6 @@ Where do you hope this activation or your organization will be in five years?: >
   Angeles is a city in which ALL residents are empowered to work with schools,
   elected officials, and business leaders in order to collectively shape the
   future of the city.
-project_id_2: '8102098'
-project_id_3: '8102098'
 organization_name: Promesa Boyle Heights at Proyecto Pastoral
 
 ---

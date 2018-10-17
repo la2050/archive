@@ -144,15 +144,7 @@ project_proposal_best_place: >-
   further delve into countywide policy advocacy and implementation by engaging
   both core and new partners in identifying local issues, expanding our tools
   and trainings, and tracking county policy.
-project_image_2: 5745794855741-team90.jpg
-empty_column_1: ''
 organization_name: California Partnership
 organization_website: www.california-partnership.org
-organization_name_2: California Partnership
-organization_activity: >-
-  An economic justice organization that  builds leadership among low-income
-  folks and communities of color through grassroots organizing, policy advocacy,
-  convening of partners, and community education
-ein: ''
 
 ---

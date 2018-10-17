@@ -120,15 +120,7 @@ project_proposal_best_place: >-
   environmentally literate citizen contributors through hands-on, experiential,
   and project based learning that turns the school buildings and grounds into
   true learning laboratories.
-project_image_2: 3933038065741-team90.jpg
-empty_column_1: ''
 organization_name: The National Wildlife Federation
 organization_website: www.nwf.org
-organization_name_2: The National Wildlife Federation
-organization_activity: >-
-  The National Wildlife Federation is a voice for wildlife, dedicated to
-  protecting wildlife and habitat and inspiring the future generation of
-  conservationists.
-ein: ''
 
 ---

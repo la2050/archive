@@ -125,14 +125,7 @@ project_proposal_best_place: >-
   prototype test phase. Distributed mesh services can replace centralized or
   cloud library and e-media services on these Mega-Meshes, to directly serve
   community members, and depend less on remote gatekeepers.
-project_image_2: 1824656555741-team91.jpg
-empty_column_1: ''
 organization_name: Data Roads Foundation
 organization_website: DataRoads.org
-organization_name_2: Data Roads Foundation
-organization_activity: >-
-  The Data Roads Foundation helps build and maintain networked data roads for
-  everyone, because all roads should lead to all people.
-ein: '311796801'
 
 ---

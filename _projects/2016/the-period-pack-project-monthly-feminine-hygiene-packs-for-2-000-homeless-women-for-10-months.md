@@ -102,15 +102,7 @@ project_proposal_best_place: >-
   hygiene products to homeless women is obvious - in the long-term, such access
   to essential items is aimed at returning a sense of self and empowerment to
   homeless women, on a road to reducing homelessness in LA altogether.
-project_image_2: 8470067535741-team91.jpg
-empty_column_1: ''
 organization_name: Tampon Tribe
 organization_website: www.tampontribe.com
-organization_name_2: Tampon Tribe
-organization_activity: >-
-  Tampon Tribe enables access to organic, toxic- free and plastic-free feminine
-  hygiene to all women. We believe that all women should be able to chose what
-  they put in their bodies and the environment.
-ein: ''
 
 ---

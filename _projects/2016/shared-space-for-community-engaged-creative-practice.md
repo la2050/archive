@@ -135,12 +135,7 @@ project_proposal_best_place: >-
   ownership of their community leads to collective impact. Catalyzing this
   dialogue connects local leaders; bringing them to the table creates a common
   agenda, while striving towards systemic change.
-project_image_2: 9548964265741-team89.jpg
-empty_column_1: ''
 organization_name: Cornerstone Theater Company
 organization_website: cornerstonetheater.org
-organization_name_2: Cornerstone Theater Company
-organization_activity: Cornerstone Theater Company makes new plays with and about communities.
-ein: ''
 
 ---

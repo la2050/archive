@@ -207,8 +207,6 @@ Where do you hope this activation or your organization will be in five years?: >
   neighborhood councils, and other civic actors, NDSC will activate a new era of
   civic engagement in Los Angeles, helping Angelenos build and track progress
   toward a shared vision for the future of Los Angeles.
-project_id_2: '8102133'
-project_id_3: '8102133'
 organization_name: University of Southern California
 
 ---

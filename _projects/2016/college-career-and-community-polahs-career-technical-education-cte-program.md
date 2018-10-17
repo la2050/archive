@@ -163,14 +163,7 @@ project_proposal_best_place: >-
   postsecondary education in the residential and commercial construction
   industry. Students earn college credit and certifications by completing an
   advanced Construction Technology class through El Camino College.
-project_image_2: 1054585155741-team89.jpg
-empty_column_1: ''
 organization_name: Port of Los Angeles High School
 organization_website: polahs.net
-organization_name_2: Port of Los Angeles High School
-organization_activity: >-
-  POLAHS is a public, independent charter school educating 950 students in
-  grades 9-12.
-ein: ''
 
 ---

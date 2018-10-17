@@ -121,15 +121,7 @@ project_proposal_best_place: >-
   initiatives they will lead on their campus to raise college awareness,
   offering opportunities for both leadership development and a wider project
   scope.
-project_image_2: 5158070785741-team91.jpg
-empty_column_1: ''
 organization_name: Proyecto Pastoral
 organization_website: proyectopastoral.org
-organization_name_2: Proyecto Pastoral
-organization_activity: >-
-  Proyecto is the backbone org. for Promesa Boyle Heights (PBH), a collaboration
-  of families, educators & orgs working to ensure all children in BH have access
-  to strong schools & support systems.
-ein: ''
 
 ---

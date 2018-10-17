@@ -108,15 +108,7 @@ project_proposal_best_place: >-
   health, jobs and housing. We are a group of people who believe that every
   person deserves to LIVE with a roof over their heads, and want to do something
   about it. Please join us. Together, we CAN end homelessness.
-project_image_2: 5004868715741-team91.jpg
-empty_column_1: ''
 organization_name: Union Rescue Mission
 organization_website: www.urm.org
-organization_name_2: Union Rescue Mission
-organization_activity: >-
-  Union Rescue Mission provides a pathway to life transformation, jobs and
-  housing for men, women, children, and families experiencing homelessness on
-  the streets of Los Angeles.
-ein: '951709293'
 
 ---

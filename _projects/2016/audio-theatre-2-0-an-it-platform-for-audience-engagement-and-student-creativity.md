@@ -120,15 +120,7 @@ project_proposal_best_place: >-
   reach, which has included live productions in Europe and China, and radio
   co-productions with the BBC, Voice of America, Radio Beijing, NHK (Japan), CBC
   (Canada), ABC (Australia), Radio New Zealand & others.
-project_image_2: 6518565165741-team91.jpg
-empty_column_1: ''
 organization_name: L.A. Theatre Works
 organization_website: www.latw.org
-organization_name_2: L.A. Theatre Works
-organization_activity: >-
-  LATW records great performances of important plays, using new technologies to
-  make world-class theatre accessible to the widest possible audience and to
-  expand the use of theatre as a teaching tool.
-ein: ''
 
 ---

@@ -113,15 +113,7 @@ project_proposal_best_place: >-
   agencies, and between community agencies and public partners. With support,
   AIYN can become a valuable asset in strengthening and diversifying LA's
   creative economy.
-project_image_2: 1371941023741-team90.jpg
-empty_column_1: ''
 organization_name: Arts For Incarcerated Youth Network
 organization_website: www.aiynetwork.org
-organization_name_2: Arts For Incarcerated Youth Network
-organization_activity: >-
-  AIYN is a collaborative providing support/coordination for ten community-based
-  arts organizations in order to build resiliency/wellness, eliminate
-  recidivism, and transform the juvenile justice system
-ein: '954302067'
 
 ---

@@ -101,15 +101,7 @@ project_proposal_best_place: >-
   each field so that our citizens have the knowledge and the courage to be
   proactive about their health and less afraid.  Once the series is completed,
   we hope to get a spot on PBS to expand its reach and impact.
-project_image_2: 0271131194741-team91.JPG
-empty_column_1: ''
 organization_name: Healthy Living Productions
 organization_website: www.healthylivingprod.org
-organization_name_2: Healthy Living Productions
-organization_activity: >-
-  We believe proactive health care education can save lives.  We deliver
-  resources for the prevention, detection and management of the major health
-  conditions that people of Los Angeles face.
-ein: ''
 
 ---

@@ -136,15 +136,7 @@ project_proposal_best_place: >-
   Tramz (Time), Johanna Drucker (UCLA), Guy Bennett (Otis Books), Elias Wondimu
   (Tsehai Publ.), Steve Wasserman (Heyday, Yale UP), publicists, agents, & and
   many others.
-project_image_2: 6409369455741-team91.jpg
-empty_column_1: ''
 organization_name: Los Angeles Review of Books
 organization_website: lareviewofbooks.org
-organization_name_2: Los Angeles Review of Books
-organization_activity: >-
-  L.A. Review of Books runs websites with over a half million visits a month, a
-  weekly radio show, print & e-publications, & events, all to promote &
-  disseminate the best being thought & written.
-ein: '900977045'
 
 ---

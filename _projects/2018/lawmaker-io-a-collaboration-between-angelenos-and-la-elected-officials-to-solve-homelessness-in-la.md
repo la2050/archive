@@ -139,8 +139,6 @@ Where do you hope this activation or your organization will be in five years?: >
   state and federal levels. It is our hope that 1% of all policy discussed on
   the floors of government originate with a civilian authored proposals on
   LawMaker.
-project_id_2: '8102067'
-project_id_3: '8102067'
 organization_name: LawMaker.io
 
 ---

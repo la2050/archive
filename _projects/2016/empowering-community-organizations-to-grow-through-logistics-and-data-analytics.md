@@ -126,15 +126,7 @@ project_proposal_best_place: >-
   pictures and short features that highlight them for our audience, as well as
   create free content that our partners can use to showcase themselves to
   philanthropic sources.
-project_image_2: 3953804915741-team90.png
-empty_column_1: ''
 organization_name: SportUp
 organization_website: sportup.com
-organization_name_2: SportUp
-organization_activity: >-
-  SportUp is a robust mobile and online activity management tool designed to
-  help teams and groups organize, communicate, and develop their programs by
-  empowering them to analyze and interpret data.
-ein: ''
 
 ---

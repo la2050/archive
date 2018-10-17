@@ -118,15 +118,7 @@ project_proposal_best_place: >-
   incredibly successful tech integration program that could become a model for
   other schools struggling to meet the needs of their students in our ever more
   tech-centered world.
-project_image_2: 3845012265741-team90.jpg
-empty_column_1: ''
 organization_name: Melrose Elementary PTO
 organization_website: www.melrosestars.org
-organization_name_2: Melrose Elementary PTO
-organization_activity: >-
-  Through community engagement, volunteer support, and fundraising we create a
-  supportive, technologically-rich environment where diverse students work
-  collaboratively with creativity and innovation.
-ein: ''
 
 ---

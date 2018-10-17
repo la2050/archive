@@ -157,14 +157,7 @@ project_proposal_best_place: >-
   secured separate grant funding for design work and curricula development. The
   Esperanza Habitat will serve 800+ students and is modeled on our successful
   Habitat at Politi Elementary.
-project_image_2: 7081548543741-team89.jpg
-empty_column_1: ''
 organization_name: Los Angeles Audubon Society (LAAS)
 organization_website: www.laaudubon.org
-organization_name_2: Los Angeles Audubon Society (LAAS)
-organization_activity: >-
-  LA Audubon promotes the enjoyment and protection of birds and other wildlife
-  through environmental education, conservation and habitat restoration.
-ein: '956093704'
 
 ---

@@ -91,15 +91,7 @@ project_proposal_best_place: >-
   corporations, small business, and even communities, to get an understanding of
   how their people work and collaborate. From there, we can deliver outstanding
   and insightful workshops tailored for their desired outcomes.
-project_image_2: 4532943913741-team90.JPG
-empty_column_1: ''
 organization_name: The integrated Learning Annex
 organization_website: www.integratedannex.com
-organization_name_2: The integrated Learning Annex
-organization_activity: >-
-  We run personal, professional, and organizational development programs that
-  emphasize human-centric solutions, paying special attention to brain,
-  behaviors, and systems.
-ein: ''
 
 ---

@@ -100,14 +100,7 @@ project_proposal_best_place: >-
   volunteer mobile app, and savvy staff to execute our communications strategy.
   This will help us achieve our 2017 goal to work with 75-100 families and
   recruit, train and guide 400+ volunteers.
-project_image_2: 7555177065741-team91.png
-empty_column_1: ''
 organization_name: Imagine LA
 organization_website: imaginela.org
-organization_name_2: Imagine LA
-organization_activity: >-
-  Imagine LA works to end the cycle of family homelessness by mobilizing trained
-  mentors, collaborative public and private resources, and community leaders.
-ein: '204637089'
 
 ---

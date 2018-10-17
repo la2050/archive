@@ -78,15 +78,7 @@ project_proposal_best_place: >-
   specific strategy to connecting people, however, it has proven to be a
   constant result after each party given. Some could say that Worthy of Love
   demonstrates Los Angeles as being the 'City of Angels'.
-project_image_2: 6126977535741-team91.png
-empty_column_1: ''
 organization_name: Worthy of Love
 organization_website: www.worthyoflove.net
-organization_name_2: Worthy of Love
-organization_activity: >-
-  Worthy of Love hosts birthday parties for the children living in Homeless
-  Shelters to create an atmosphere where they can escape, for the moment, the
-  trauma of homelessness and play as a child.
-ein: ''
 
 ---

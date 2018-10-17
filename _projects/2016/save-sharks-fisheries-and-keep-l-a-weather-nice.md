@@ -114,14 +114,7 @@ project_proposal_best_place: >-
   before taking our project national and then global.  We’ve already identified
   worldwide partners and started showing the world that Los Angeles is indeed
   the best city to CREATE!
-project_image_2: 4270387955741-team88.png
-empty_column_1: ''
 organization_name: El Porto Shark
 organization_website: www.elportoshark.com
-organization_name_2: El Porto Shark
-organization_activity: >-
-  Aggregate shark sighting data to make smarter fisheries, researchers,
-  environmentalists, and policymakers by forecasting future populations.
-ein: ''
 
 ---

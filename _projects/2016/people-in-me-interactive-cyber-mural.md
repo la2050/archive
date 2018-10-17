@@ -133,15 +133,7 @@ project_proposal_best_place: >-
 
   Students will benefit from: mentors, communication and problem-solving skills,
   positive attitudes about aging, and community service.
-project_image_2: 0883163005741-team91.jpg
-empty_column_1: ''
 organization_name: METRO Charter Elementary School
 organization_website: metrocharter.org
-organization_name_2: METRO Charter Elementary School
-organization_activity: >-
-  The first parent-initiated charter in downtown L.A., METRO meaningfully
-  connects students with the diverse cultures, customs, beliefs and creativity
-  of those who work and live downtown.
-ein: ''
 
 ---

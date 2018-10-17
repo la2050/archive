@@ -115,15 +115,7 @@ project_proposal_best_place: >-
   kids thrive, and schools have increased buy-in and participation from their
   families WHEN children begin their education in the BEST fitting school
   environments.
-project_image_2: 7904799065741-team91.jpg
-empty_column_1: ''
 organization_name: Parents Education League
 organization_website: www.parentseducationleague.org
-organization_name_2: Parents Education League
-organization_activity: >-
-  PEL is a grassroots non-profit and non-political organization whose mission is
-  to help educate families about their school choices, from preschool through
-  12th grade.
-ein: '264510950'
 
 ---

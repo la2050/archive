@@ -102,8 +102,6 @@ Please explain how you will define and measure success for your activation.: "Me
 Where do you hope this activation or your organization will be in five years?: >-
   We hope to be monetizing this nationally and hopefully engaging entrepreneurs
   everywhere.
-project_id_2: '8102049'
-project_id_3: '8102049'
 organization_name: 'Grid110, Inc.'
 
 ---

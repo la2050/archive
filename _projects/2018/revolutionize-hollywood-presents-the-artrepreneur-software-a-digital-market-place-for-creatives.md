@@ -153,8 +153,6 @@ Where do you hope this activation or your organization will be in five years?: >
   will have significant break out artists from the Watts and Compton Community.
   We hope that are platform will be a go to platform when global organizations
   are looking for creators. 
-project_id_2: '8102103'
-project_id_3: '8102103'
 organization_name: Revolutionize Hollywood
 
 ---

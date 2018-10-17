@@ -136,8 +136,6 @@ Where do you hope this activation or your organization will be in five years?: >
   narrowing of the achievement gap among student groups defined by
   race/ethnicity and family income, and more students enrolling and persisting
   in postsecondary STEM programs.
-project_id_2: '8102016'
-project_id_3: '8102016'
 organization_name: Center for Innovation in STEM Education (CISE)
 
 ---

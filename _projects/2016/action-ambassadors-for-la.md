@@ -111,14 +111,7 @@ project_proposal_best_place: >-
 
   Finally, our project will potentially address all LIVE metrics, depending on
   the community improvement projects our students propose.
-project_image_2: 6459268355741-team89.png
-empty_column_1: ''
 organization_name: United Nations Association-USA Pasadena Chapter Inc.
 organization_website: actionambassadors.org
-organization_name_2: United Nations Association-USA Pasadena Chapter Inc.
-organization_activity: >-
-  The Action Ambassadors Program empowers youth to make global change through
-  action in their local communities.
-ein: ''
 
 ---

@@ -134,14 +134,7 @@ project_proposal_best_place: >-
   Inner City Dance Project is to inspire all participants to believe that, in
   spite of their circumstances, Los Angeles is a place where they too can create
   and thrive.
-project_image_2: 6990906684741-team91.jpg
-empty_column_1: ''
 organization_name: Zeneith Performing Arts
 organization_website: www.zeneithperformingarts.com
-organization_name_2: Zeneith Performing Arts
-organization_activity: >-
-  Zeneith Performing Arts provides excellent training, a dynamic community, and
-  professional development to youth and adults in the performing arts.
-ein: ''
 
 ---

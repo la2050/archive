@@ -89,12 +89,7 @@ project_proposal_best_place: >-
   * Continue to explore the needs of young women emancipating from the foster
   care system and meet with this population and the agencies to identify and
   create solutions for these women and the communities in which they reside
-project_image_2: 9273888445741-team90.jpg
-empty_column_1: ''
 organization_name: 50/50 Leadership
 organization_website: 5050leadership.org
-organization_name_2: 50/50 Leadership
-organization_activity: Promotes women's equal leadership
-ein: ''
 
 ---

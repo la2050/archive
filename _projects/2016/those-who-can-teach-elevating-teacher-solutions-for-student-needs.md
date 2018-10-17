@@ -145,14 +145,7 @@ project_proposal_best_place: >-
   teachers have experienced improvements in the number of students we engage,
   graduate and send to college. While there is greater room for improvement in
   Los Angeles public education, our teachers are becoming part of the solution.
-project_image_2: 8698821265741-team88.jpg
-empty_column_1: ''
 organization_name: Educators 4 Excellence-Los Angeles
 organization_website: www.educators4excellence.org
-organization_name_2: Educators 4 Excellence-Los Angeles
-organization_activity: >-
-  An individual teacher can change what’s possible in her classroom, but a
-  movement of teachers can change what’s possible in our education system.
-ein: '273382030'
 
 ---

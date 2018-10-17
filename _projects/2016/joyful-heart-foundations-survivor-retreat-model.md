@@ -115,15 +115,7 @@ project_proposal_best_place: >-
   populations. This project will make LA a better place to LIVE by promoting
   positive mental health outcomes, community resiliency and increased support
   for advocates in this work.
-project_image_2: 8535340073741-team88.JPG
-empty_column_1: ''
 organization_name: Joyful Heart Foundation
 organization_website: joyfulheartfoundation.org
-organization_name_2: Joyful Heart Foundation
-organization_activity: >-
-  Our mission is to transform society's response to sexual assault, domestic
-  violence, and child abuse, support survivors' healing, and end this violence
-  forever.
-ein: '721519537'
 
 ---

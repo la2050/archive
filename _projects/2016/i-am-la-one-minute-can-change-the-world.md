@@ -119,12 +119,7 @@ project_proposal_best_place: >-
   Join the movement. 
 
   Vote for I Am LA.
-project_image_2: 9122157445741-team91.JPG
-empty_column_1: ''
 organization_name: Peaceworks International
 organization_website: www.iamla2017.com
-organization_name_2: Peaceworks International
-organization_activity: 'Impacting future generations through art, education, and culture.'
-ein: ''
 
 ---

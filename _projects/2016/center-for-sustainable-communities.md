@@ -142,15 +142,7 @@ project_proposal_best_place: >-
   collaborate to attract a wide range of volunteers for our municipal water and
   green projects, and reach out to the educational community as the Compton
   Creek Project evolves.
-project_image_2: 4742887015741-team89.jpg
-empty_column_1: ''
 organization_name: Neighborhood Housing Services of Los Angeles County
 organization_website: www.nhslacounty.org
-organization_name_2: Neighborhood Housing Services of Los Angeles County
-organization_activity: >-
-  NHS strengthens neighborhoods through the development of quality affordable
-  housing, the creation of affordable homeownership opportunities, and
-  increasing the financial independence of families.
-ein: '953938955'
 
 ---

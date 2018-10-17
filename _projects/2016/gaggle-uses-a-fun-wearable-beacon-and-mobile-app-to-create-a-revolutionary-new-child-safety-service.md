@@ -122,14 +122,7 @@ project_proposal_best_place: >-
   another via the Gaggle cloud service. If a child moves between groups, their
   chaperone will know that the child is not actually lost. Information is shared
   among every chaperone of a trip, and if escalated, every local Gaggle user.
-project_image_2: 9587467355741-team91.jpg
-empty_column_1: ''
 organization_name: EPage
 organization_website: getgaggle.com
-organization_name_2: EPage
-organization_activity: >-
-  EPage is a mobile app development company that has created and released over
-  300 apps for schools, businesses, professionals, and public gardens.
-ein: ''
 
 ---

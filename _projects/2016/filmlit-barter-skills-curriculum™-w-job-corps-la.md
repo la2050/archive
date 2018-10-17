@@ -70,15 +70,7 @@ project_proposal_best_place: >-
   this initiative seizes the opportunity to build a pioneer class of producers
   utilizing this paradigm shifting concept here in Los Angeles, unequivocally
   proving LA to be the best place to learn!
-project_image_2: 9861487393741-team89.jpg
-empty_column_1: ''
 organization_name: FILMLIT MISSION
 organization_website: filmlit.org
-organization_name_2: FILMLIT MISSION
-organization_activity: >-
-  The Filmlit Mission facilitates a curriculum engaging pupils to develop in the
-  skill sets of script composition, graphic design, photography, character
-  expression, and commercial production.
-ein: ''
 
 ---

@@ -156,15 +156,7 @@ project_proposal_best_place: >-
   crowdfunding success and an ability for a business to obtain outside
   financing. Crowdfunding success also “increases the probability of business
   partnerships and stronger customer base.
-project_image_2: 8716427165741-team91.png
-empty_column_1: ''
 organization_name: Concerned Capital/Crowdfund Better
 organization_website: www.concernedcapital.org
-organization_name_2: Concerned Capital/Crowdfund Better
-organization_activity: >-
-  Concerned Capital is a social impact investment firm that leverages economic
-  development tools to save/create family wage jobs in distressed communities by
-  re-energizing existing, operating companies.
-ein: ''
 
 ---

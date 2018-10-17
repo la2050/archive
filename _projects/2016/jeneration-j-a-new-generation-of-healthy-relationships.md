@@ -89,15 +89,7 @@ project_proposal_best_place: >-
   Jeneration J reflects an intervention and advocacy model that educates youth
   and young adults on healthy relationships and trains them to be the next
   generation of anti-violence advocates.
-project_image_2: 9940469155741-team90.jpg
-empty_column_1: ''
 organization_name: 'Jenesse Center, Inc.'
 organization_website: www.jenesse.org
-organization_name_2: 'Jenesse Center, Inc.'
-organization_activity: >-
-  Jenesse Center provides victims of domestic violence and their children
-  support that is culturally responsive to help ensure their successful
-  transition from immediate crisis to self-sufficiency.
-ein: '953652529'
 
 ---

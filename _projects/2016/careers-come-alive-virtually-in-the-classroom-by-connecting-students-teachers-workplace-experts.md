@@ -114,15 +114,7 @@ project_proposal_best_place: >-
   Students from every corner of the region and background will have
   opportunities to learn about careers that have always been so near, and
   frequently so far.
-project_image_2: 7618226615741-team90.jpg
-empty_column_1: ''
 organization_name: ConnectEd
 organization_website: www.connectedcalifornia.org
-organization_name_2: ConnectEd
-organization_activity: >-
-  ConnectEd partners with school, district, and community leaders to transform
-  education through career pathways so that all students, regardless of
-  background, can succeed in college, career, and life.
-ein: ''
 
 ---

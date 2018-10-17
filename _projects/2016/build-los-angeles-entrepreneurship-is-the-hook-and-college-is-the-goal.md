@@ -154,15 +154,7 @@ project_proposal_best_place: >-
   With its first class of 9th graders, BUILD Los Angeles will be responsible for
   an additional 132 high school graduates and 102 college enrollees in Los
   Angeles.
-project_image_2: 5864964105741-team90.jpg
-empty_column_1: ''
 organization_name: BUILD
 organization_website: BUILD.org
-organization_name_2: BUILD
-organization_activity: >-
-  BUILD uses entrepreneurship-based, experiential learning to engage students,
-  provide equitable educational opportunities and develop skills for high
-  school, college and career success.
-ein: ''
 
 ---

@@ -149,15 +149,7 @@ project_proposal_best_place: >-
   support and care services to mothers and their families within clinics. BFLA
   will assist CHCs with establishing written procedures that ensure a
   breastfeeding-friendly clinic environment.
-project_image_2: 3797480105741-team90.jpeg
-empty_column_1: ''
 organization_name: BreastfeedLA
 organization_website: breastfeedla.org
-organization_name_2: BreastfeedLA
-organization_activity: >-
-  BreastfeedLA is dedicated to improving the health and wellbeing of infants and
-  families through education, outreach, and advocacy to promote and support
-  breastfeeding.
-ein: ''
 
 ---

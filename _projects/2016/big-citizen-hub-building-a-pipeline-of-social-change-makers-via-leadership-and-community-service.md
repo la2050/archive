@@ -162,15 +162,7 @@ project_proposal_best_place: >-
   young leaders with each other, with LA’s critical issues, and with local
   agencies working toward solutions, we will help make LA the best place to
   connect.
-project_image_2: 9500569955741-team90.jpg
-empty_column_1: ''
 organization_name: Big Citizen HUB
 organization_website: bigcitizenhub.org
-organization_name_2: Big Citizen HUB
-organization_activity: >-
-  Big Citizen HUB connects youth from across LA, empowering them to be
-  contributing members of society by cultivating leadership skills and creating
-  an environment to tackle pressing civic challenges.
-ein: '954302067'
 
 ---

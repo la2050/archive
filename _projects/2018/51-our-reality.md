@@ -126,8 +126,6 @@ Please explain how you will define and measure success for your activation.: >-
   this process by establishing criteria by which to critically assess all our
   narratives.
 Where do you hope this activation or your organization will be in five years?: "We hope this activation inspires communities worldwide to take a critical look at their own cities’ gender experiences and create similar tools for empathy.\r\n\r\nWe’d love to revisit this project in 5 years to explore what shifts have occurred that would change our city’s gender narratives. \r\n"
-project_id_2: '8102127'
-project_id_3: '8102127'
 organization_name: TWIGG How-To
 
 ---

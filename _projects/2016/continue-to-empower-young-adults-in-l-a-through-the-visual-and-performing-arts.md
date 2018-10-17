@@ -75,14 +75,7 @@ project_proposal_best_place: >-
 
   With more funding, PIECES can make more of this happen. Ensuring that more
   young people stay hungry and encouraged to reach for their goals.
-project_image_2: 4928931823741-team90.jpg
-empty_column_1: ''
 organization_name: PIECES
 organization_website: www.PIECESarts.org
-organization_name_2: PIECES
-organization_activity: >-
-  PIECES empowers young adults, ages 18 - 25 through opportunities in the visual
-  and performing arts.
-ein: '800819008'
 
 ---

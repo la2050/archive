@@ -77,14 +77,7 @@ project_proposal_best_place: >-
   kid with skating supplies so they can continue skating but create and motivate
   an interest for education in them and to encourage them to pursue education
   beyond K-12.
-project_image_2: 4915432065741-team91.jpg
-empty_column_1: ''
 organization_name: The Garage Board Shop
 organization_website: thegarageboardshops.com
-organization_name_2: The Garage Board Shop
-organization_activity: >-
-  The Garage Board Shop is an urban outlet created for the community to have a
-  space to express themselves through different channels.
-ein: ''
 
 ---

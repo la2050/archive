@@ -132,15 +132,7 @@ project_proposal_best_place: >-
   way, shifting from an energy system that damages our health and planet to a
   system that supports our health and climate while retooling our infrastructure
   and economy for the 21st century.
-project_image_2: 6783094165741-team89.jpg
-empty_column_1: ''
 organization_name: The Sierra Club Foundation
 organization_website: www.sierraclubfoundation.org
-organization_name_2: The Sierra Club Foundation
-organization_activity: >-
-  We educate and enlist humanity to explore, enjoy, and protect the wild places
-  of the earth and to practice and promote the responsible use of the earth's
-  ecosystems and resources.
-ein: ''
 
 ---

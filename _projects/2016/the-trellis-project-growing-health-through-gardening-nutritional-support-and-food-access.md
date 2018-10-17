@@ -131,15 +131,7 @@ project_proposal_best_place: >-
   nutrition to the surrounding community. Food grown will supplement local food
   pantry offerings. Community residents can volunteer in the garden, participate
   in community events, and attend Groceryships’ and Netiya’s respective classes.
-project_image_2: 4374914065741-team88.jpg
-empty_column_1: ''
 organization_name: Groceryships and Netiya
 organization_website: groceryships.org
-organization_name_2: Groceryships and Netiya
-organization_activity: >-
-  The Trellis Project will make LA the healthiest place to live by creating
-  church hubs that offer community building, nutrition education and kitchen
-  gardens in low-income communities most in need.
-ein: ''
 
 ---

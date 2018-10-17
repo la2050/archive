@@ -76,14 +76,7 @@ project_proposal_best_place: >-
   creating a sense of hope in the community. Hope that education, technology,
   and conservation can help bring us out of these dry times. It will inspire
   innovation, and a desire for the community to come together and take action.
-project_image_2: 4076350854741-team90.jpg
-empty_column_1: ''
 organization_name: Sky Source
 organization_website: skysource.org
-organization_name_2: Sky Source
-organization_activity: >-
-  Our organization promotes the use of atmospheric water generation in order to
-  benefit drought affected communities
-ein: ''
 
 ---

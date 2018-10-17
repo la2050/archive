@@ -121,15 +121,7 @@ project_proposal_best_place: >-
   lives.  As part of this commitment, PPS will work to impact budgetary
   decisions on how park program funding is allocated and bring new community
   resources to bear to support the desired level of park programming.
-project_image_2: 1573115165741-team88.jpg
-empty_column_1: ''
 organization_name: 'Building Healthy Communities: Long Beach'
 organization_website: bhclongbeach.org
-organization_name_2: 'Building Healthy Communities: Long Beach'
-organization_activity: >-
-  BHCLB aims to reduce health disparities and improve community health through
-  systemic changes fueled by resident engagement, resource sharing,
-  partnerships, and strategic communications.
-ein: ''
 
 ---

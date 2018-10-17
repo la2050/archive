@@ -111,15 +111,7 @@ project_proposal_best_place: >-
   wellness interest groups) who have an interest in how art and music can heal
   us. We also have a network of people America Innovates Foundation can bring in
   to curate talks on the link between social and emotional health and art.
-project_image_2: 6473062183741-team90.png
-empty_column_1: ''
 organization_name: 'The Love Story Media, Inc.'
 organization_website: www.thelovestory.org
-organization_name_2: 'The Love Story Media, Inc.'
-organization_activity: >-
-  Through New Media Art Journaling and live shows, we validate, connect and
-  inspire the broken hearted to transform the pain of loss into creative
-  expression.
-ein: ''
 
 ---

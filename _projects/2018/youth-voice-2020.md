@@ -141,8 +141,6 @@ Where do you hope this activation or your organization will be in five years?: >
   students annually across the city and to launch statewide training for
   educators. We hope to have continued our partnership with ProCon.org so that
   together we are a resource for educators across the country.
-project_id_2: '8102005'
-project_id_3: '8102005'
 organization_name: 'Action Civics LA, an initiative of Mikva Challenge'
 
 ---

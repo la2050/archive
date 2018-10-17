@@ -102,8 +102,6 @@ Describe in greater detail how your activation will make LA the best place?: "Te
 How will your activation engage Angelenos to make LA the best place: "With the knowledge and tools to participate in the Digital economy, Angelenos who were previously were under-connected can now lend their voice in many ways to make a difference in their communities.  They will have access to information, as well as have the skills to advocate for change via online medium.  They will also be able to influence the behavior of those around them, removing doubt, fear and lack of trust about participating in digital life, replacing it with discussions of hope and opportunity around community engagement, educational and job advancement, healthcare access and overall engagement within the City of Angels.\r\n"
 Please explain how you will define and measure success for your activation.: "Outreach to 1000+ Angelenos with Digital Literacy programming\r\n\r\nIncreased technology adoption\r\n"
 Where do you hope this activation or your organization will be in five years?: "It is the hope that this activation will erase the Digital Divide in South Los Angeles by 50%.  Also that families will be able to comfortably use technology to engage online together to manage household needs, access educational and job opportunities, as well as connect with families members near and far.  It is our hope that through this educational program, we’ll see a decrease in joblessness, an increase in educational attainment, as well as increase in community economic development.\r\n"
-project_id_2: '8102025'
-project_id_3: '8102025'
 organization_name: City of Los Angeles Information Technology Agency
 
 ---

@@ -139,15 +139,7 @@ project_proposal_best_place: >-
 
   Creating these murals will connect people in a classic Big Sunday way:
   impactful and fun.
-project_image_2: 4405823065741-team91.JPG
-empty_column_1: ''
 organization_name: Big Sunday
 organization_website: www.bigsunday.org
-organization_name_2: Big Sunday
-organization_activity: >-
-  Big Sunday connects people through helping; we provide a wide variety of
-  opportunities and projects that bring people together to improve lives, build
-  community and give people a sense of belonging
-ein: '421765317'
 
 ---

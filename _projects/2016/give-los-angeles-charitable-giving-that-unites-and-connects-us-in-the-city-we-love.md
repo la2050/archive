@@ -115,15 +115,7 @@ project_proposal_best_place: >-
   engaging donors across the socioeconomic spectrum and connecting them with
   extraordinary nonprofits serving the Los Angeles community, GIVE Los Angeles
   will attempt to reverse the downward trend in civic giving in Los Angeles.
-project_image_2: 4972927725741-team91.jpg
-empty_column_1: ''
 organization_name: Los Angeles Magazine
 organization_website: www.lamag.com
-organization_name_2: Los Angeles Magazine
-organization_activity: >-
-  L.A. magazine is the single most powerful media voice in the region,
-  delivering content that encourages Angelenos to act, discover and connect in
-  our city in ways that are most meaningful to them.
-ein: ''
 
 ---

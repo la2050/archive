@@ -129,15 +129,7 @@ project_proposal_best_place: >-
   catalyst for ideas, movements, dreams. Through our welcoming interactive
   space, game changing menu, and talent sharing, we’ll nurture authentic
   community to address a pressing need in an otherwise lonely city.
-project_image_2: 1265013144741-team90.png
-empty_column_1: ''
 organization_name: thecool
 organization_website: thecool.la
-organization_name_2: thecool
-organization_activity: >-
-  thecool is a physical space that encourages safe, organic sharing of ideas &
-  opinions, unique gifts & hidden talents - centered around humanity’s age-old
-  pastime of congregating over food and drink.
-ein: ''
 
 ---

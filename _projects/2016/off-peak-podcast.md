@@ -115,14 +115,7 @@ project_proposal_best_place: >-
   and expand this project with an additional 12 episodes to continue to grow and
   expand our communal story, reminding our community how Los Angeles is truly
   the best place in the world to connect with our fellow citizens.
-project_image_2: 2545821265741-team91.png
-empty_column_1: ''
 organization_name: LA Metro
 organization_website: www.metro.net
-organization_name_2: LA Metro
-organization_activity: >-
-  LA Metro is a multimodal mobility agency that transports 1.4 million
-  passengers daily on bus, light rail, heavy rail, bus rapid transit.
-ein: ''
 
 ---

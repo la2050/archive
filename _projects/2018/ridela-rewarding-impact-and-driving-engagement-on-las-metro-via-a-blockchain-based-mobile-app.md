@@ -152,8 +152,6 @@ Where do you hope this activation or your organization will be in five years?: >
   the app will have encouraged millions of Angelinos to use the Metro system. We
   hope that more people will recognize climate change threatens our future and
   that they will act to use shared transportation for the good of everyone.
-project_id_2: '8102043'
-project_id_3: '8102043'
 organization_name: Geffen Academy at UCLA
 
 ---

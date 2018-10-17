@@ -160,8 +160,6 @@ Where do you hope this activation or your organization will be in five years?: >
   We hope to have another location opened in south Central Los  Angeles where
   the original vip records store was opened and hope to have launched at least
   100 successful small businesses.    
-project_id_2: '8102138'
-project_id_3: '8102138'
 organization_name: World Famous VIP Records LLC
 
 ---

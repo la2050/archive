@@ -67,12 +67,7 @@ project_proposal_best_place: >-
   them how to do it.  Helping the homeless will also help our taxpayers;
   businesses and districts affected by homeless encampments.  We will see
   improvement in commerce and neighborhood safety as this issue is addressed.
-project_image_2: 9660024355741-team90.jpg
-empty_column_1: ''
 organization_name: Alliance Building & Construction Services
 organization_website: www.thealliancechoice.com
-organization_name_2: Alliance Building & Construction Services
-organization_activity: General contractors for exterior property improvements
-ein: ''
 
 ---

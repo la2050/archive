@@ -146,15 +146,7 @@ project_proposal_best_place: >-
 
 
   The hashtag #BlacklistLA explains it best!
-project_image_2: 3733468065741-team91.JPG
-empty_column_1: ''
 organization_name: BlacklistLA Run Organization
 organization_website: www.blacklistla.city
-organization_name_2: BlacklistLA Run Organization
-organization_activity: >-
-  BlacklistLA Run Organization (BlacklistLA) provides access to Angelenos of
-  diverse backgrounds to connect with each other through a shared love of
-  running, street art, culture and the City of LA.
-ein: '954440752'
 
 ---

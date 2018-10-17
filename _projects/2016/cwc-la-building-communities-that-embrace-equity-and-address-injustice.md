@@ -128,15 +128,7 @@ project_proposal_best_place: >-
   office staff
 
   •          Principals and other leaders
-project_image_2: 0183087065741-team90.jpg
-empty_column_1: ''
 organization_name: Citizens of the World Los Angeles
 organization_website: www.cwclosangeles.org
-organization_name_2: Citizens of the World Los Angeles
-organization_activity: >-
-  Citizens of the World Los Angeles (CWC LA) operates three highly diverse,
-  academically challenging, and community-based public charter schools currently
-  serving 1,600 students in grades TK-7.
-ein: ''
 
 ---

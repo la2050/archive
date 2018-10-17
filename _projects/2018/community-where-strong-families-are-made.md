@@ -167,8 +167,6 @@ Where do you hope this activation or your organization will be in five years?: >
   coordination. Child360 hopes to study its success and pass on this information
   to other organizers and other communities so that young children’s status and
   well-being will be elevated everywhere in Los Angeles.
-project_id_2: '8102018'
-project_id_3: '8102018'
 organization_name: Child360 (formerly Los Angeles Universal Preschool)
 
 ---

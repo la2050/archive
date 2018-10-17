@@ -224,8 +224,6 @@ Where do you hope this activation or your organization will be in five years?: >
   continue their social justice work. 600 students, plus their extended families
   and the other students they influence, can be part of a leadership movement
   for social justice stemming from the very heart of Los Angeles.
-project_id_2: '8102064'
-project_id_3: '8102064'
 organization_name: Larchmont Charter School
 
 ---

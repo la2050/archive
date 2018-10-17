@@ -184,15 +184,7 @@ project_proposal_best_place: >-
   invite people to go outside or take a walk. In the face of climate change and
   an uncertain economic outlook, converting turf to resilient native plant
   landscapes will allow public housing resources to be used on other priorities.
-project_image_2: 3729564165741-team89.jpg
-empty_column_1: ''
 organization_name: Theodore Payne Foundation for Wild Flower and Native Plants
 organization_website: theodorepayne.org
-organization_name_2: Theodore Payne Foundation for Wild Flower and Native Plants
-organization_activity: >-
-  We rewild Los Angeles by bringing native plants back into the city, creating
-  habitat that supports local ecosystems, and helping people fall in love with
-  our shared natural heritage.
-ein: '956095398'
 
 ---

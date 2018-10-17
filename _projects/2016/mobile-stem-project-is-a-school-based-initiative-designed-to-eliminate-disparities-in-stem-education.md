@@ -122,15 +122,7 @@ project_proposal_best_place: >-
 
   -Providing professional development workshops that focuses on STEM academic
   vocabulary and effective literacy teaching across various disciplines
-project_image_2: 0308329715741-team89.jpg
-empty_column_1: ''
 organization_name: Avalon Carver Community Center
 organization_website: avalon-carver.org
-organization_name_2: Avalon Carver Community Center
-organization_activity: >-
-  We aim to promote economic self-sufficiency, strengthen families & build a
-  strong sense of community by providing services for the physical, mental,
-  educational & spiritual needs of South LA residents
-ein: ''
 
 ---

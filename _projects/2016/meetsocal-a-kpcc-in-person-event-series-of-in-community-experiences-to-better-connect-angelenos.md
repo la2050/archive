@@ -128,15 +128,7 @@ project_proposal_best_place: >-
   foster greater and more inclusive dialogue within and among them, helping
   Angelenos feel more connected to one another and to the complicated but
   inspiring place we all call home.
-project_image_2: 4956546915741-team89.JPG
-empty_column_1: ''
 organization_name: Southern California Public Radio (KPCC)
 organization_website: www.kpcc.org
-organization_name_2: Southern California Public Radio (KPCC)
-organization_activity: >-
-  We are a member-supported public media organization that informs, engages, and
-  reflects Southern California using broadcast radio, the web, mobile apps and
-  podcasts, social media, and live events.
-ein: ''
 
 ---

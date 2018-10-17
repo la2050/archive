@@ -122,12 +122,7 @@ project_proposal_best_place: >-
 
   More people on bikes = more interaction with neighbors, coworkers, people from
   all walks of life in this amazing diverse city.
-project_image_2: 1244558065741-team91.jpg
-empty_column_1: ''
 organization_name: Bicycle Culture Institute
 organization_website: bicycleculture.org
-organization_name_2: Bicycle Culture Institute
-organization_activity: 'We make bicycling awesome through events, programs and social innovation.'
-ein: ''
 
 ---

@@ -107,15 +107,7 @@ project_proposal_best_place: >-
   her outstanding contributions to education. Dr. Haynes teaches Biology at
   Dymally High School, following a career in immunology. She was honored on
   August 13, 2016 at Dodger Stadium.
-project_image_2: 3863693255741-team91.jpg
-empty_column_1: ''
 organization_name: 'EnCorps, Inc.'
 organization_website: www.encorps.org
-organization_name_2: 'EnCorps, Inc.'
-organization_activity: >-
-  EnCorps STEM Teachers addresses the conditions severely limiting low income,
-  under-resourced, and minority student opportunities by transitioning
-  outstanding STEM professionals into public education.
-ein: ''
 
 ---

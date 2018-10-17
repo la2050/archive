@@ -127,15 +127,7 @@ project_proposal_best_place: >-
   to the community, exhibited publicly, and shared online to deepen
   conversations about future alternatives for local innovation and everyday
   technologies.
-project_image_2: 5836115265741-team91.jpg
-empty_column_1: ''
 organization_name: Annenberg Innovation Lab
 organization_website: www.annenberglab.com
-organization_name_2: Annenberg Innovation Lab
-organization_activity: >-
-  The AIL is a high-energy research lab that combines theory and practice to
-  understand the ongoing evolution of media and its impact on governments,
-  businesses, education, creators and consumers.
-ein: ''
 
 ---

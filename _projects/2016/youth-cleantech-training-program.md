@@ -118,15 +118,7 @@ project_proposal_best_place: >-
 
   By creating a 'sticky' cleantech pipeline of local innovators and problem
   solvers, LACI will activate Angelenos and make LA the best place to create.
-project_image_2: 6504718986741-team91.jpg
-empty_column_1: ''
 organization_name: Los Angeles Cleantech Incubator
 organization_website: laincubator.org
-organization_name_2: Los Angeles Cleantech Incubator
-organization_activity: >-
-  LACI incubates early stage cleantech companies and helps bring their products
-  and services to market by convening investors, corporations, and customers to
-  drive innovation throughout our economy.
-ein: ''
 
 ---

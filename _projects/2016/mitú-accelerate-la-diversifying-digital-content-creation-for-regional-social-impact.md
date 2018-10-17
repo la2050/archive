@@ -138,15 +138,7 @@ project_proposal_best_place: >-
   opportunity to, taking into account the changing regional and national media
   consumption landscape, proactively work at expanding diverse digital creator
   talent and build opportunities for multicultural communities.
-project_image_2: 5654638165741-team91.jpg
-empty_column_1: ''
 organization_name: mitu
 organization_website: mitunetwork.com
-organization_name_2: mitu
-organization_activity: >-
-  mitú is the leading digital media and data-driven company focused on
-  representing and elevating Latino millennial stories through content that is
-  unapologetically Latino.
-ein: ''
 
 ---

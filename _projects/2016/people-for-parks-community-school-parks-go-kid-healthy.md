@@ -155,15 +155,7 @@ project_proposal_best_place: >-
   This grant will help keep our CSPs thriving, and allow us to take our
   community empowerment to the next level through a strategic partnership with
   Kid Healthy, helping make LA the best place to PLAY for generations to come.
-project_image_2: 5359541815741-team91.jpg
-empty_column_1: ''
 organization_name: People for Parks
 organization_website: peopleforparks.org
-organization_name_2: People for Parks
-organization_activity: >-
-  People for Parks transforms schoolyards in underserved regions of LA into
-  Community School Parks for use during non-school hours, providing children and
-  families with healthy outdoor space.
-ein: '954219646'
 
 ---

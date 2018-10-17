@@ -140,14 +140,7 @@ project_proposal_best_place: >-
   Lastly, our project will help children develop higher self-esteem, cope with
   stress more effectively, increase communication skills, be creative and act in
   pro-social ways
-project_image_2: 8207349525741-team91.jpg
-empty_column_1: ''
 organization_name: Anna Bing Arnold Children's Center
 organization_website: calstatela.edu/univ/abacc
-organization_name_2: Anna Bing Arnold Children's Center
-organization_activity: >-
-  Provide high quality child development services and programing for the
-  California State University, Los Angeles and the surrounding community.
-ein: ''
 
 ---

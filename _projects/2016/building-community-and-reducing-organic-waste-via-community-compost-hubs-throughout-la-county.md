@@ -125,15 +125,7 @@ project_proposal_best_place: >-
   empowering and healing, and that Los Angeles needs just this. Composting is a
   beautiful, regenerative process that is collaborative, self-giving, and
   exemplifies the type of city we want to embody.
-project_image_2: 4893873855741-team90.jpg
-empty_column_1: ''
 organization_name: LA Compost
 organization_website: lacompost.org
-organization_name_2: LA Compost
-organization_activity: >-
-  L.A. Compost is a sustainable movement that promotes healthy conscious
-  communities through the creation of community supported compost hubs
-  throughout Los Angeles.
-ein: '461134852'
 
 ---

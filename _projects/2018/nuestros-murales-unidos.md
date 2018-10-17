@@ -133,8 +133,6 @@ Where do you hope this activation or your organization will be in five years?: >
   murals in Pico-Union and Westlake will make the neighborhoods as visually
   vibrant as the communities that live there. Residents will take pride in where
   they live and work together towards a shared vision of the future. 
-project_id_2: '8102140'
-project_id_3: '8102140'
 organization_name: Youth Policy Institute
 
 ---

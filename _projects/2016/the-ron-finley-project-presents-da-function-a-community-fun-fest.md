@@ -112,15 +112,7 @@ project_proposal_best_place: >-
   pollution, Da FUNction can also deliver a wide range of social, economic and
   environmental benefits to make cities more attractive and healthier places to
   be.
-project_image_2: 2775648715741-team90.jpg
-empty_column_1: ''
 organization_name: The Ron Finley Project
 organization_website: ronfinley.com
-organization_name_2: The Ron Finley Project
-organization_activity: >-
-  The Ron Finley Project is a nonprofit dedicated to shifting culture and
-  changing urban landscapes by bringing gardens, art and new life to inner-city
-  neighborhoods.
-ein: ''
 
 ---

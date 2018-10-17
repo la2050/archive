@@ -110,15 +110,7 @@ project_proposal_best_place: >-
   sign of hope for transformation will spread and create a new movement, a new
   relationship. Our shared story will recognize the River as central to our
   health, well-being, and sense of place.
-project_image_2: 2365322355741-team90.jpg
-empty_column_1: ''
 organization_name: River LA (formerly LA River Revitalization Corporation)
 organization_website: www.riverla.org
-organization_name_2: River LA (formerly LA River Revitalization Corporation)
-organization_activity: >-
-  River LA is a nonprofit organization with a mission to ensure the 51-mile LA
-  River integrates design and infrastructure to bring people, water, and public
-  space together.
-ein: ''
 
 ---

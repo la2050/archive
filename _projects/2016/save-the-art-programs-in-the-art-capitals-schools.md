@@ -77,14 +77,7 @@ project_proposal_best_place: >-
   charities that expands each child's creativity with these programs. These
   programs pinpoint the future of LA's creators and collaborators and help them
   flourish in their craft.
-project_image_2: 2236943265741-team89.jpg
-empty_column_1: ''
 organization_name: Hollywood Arts Council
 organization_website: hollywoodartscouncil.org
-organization_name_2: Hollywood Arts Council
-organization_activity: >-
-  Project S.O.A.R. is an after-school and in-class arts program serving children
-  in Hollywood’s public elementary schools.
-ein: ''
 
 ---

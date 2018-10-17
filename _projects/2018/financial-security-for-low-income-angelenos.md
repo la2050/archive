@@ -163,8 +163,6 @@ Where do you hope this activation or your organization will be in five years?: >
   access and eligibility to the EITC and continue to lift working people out of
   poverty. Everyone who works deserves to have the dignity of financial security
   and providing for their families!
-project_id_2: '8102012'
-project_id_3: '8102012'
 organization_name: CalEITC4Me
 
 ---

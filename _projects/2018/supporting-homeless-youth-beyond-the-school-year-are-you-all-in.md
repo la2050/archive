@@ -126,8 +126,6 @@ Please explain how you will define and measure success for your activation.: "Th
 Where do you hope this activation or your organization will be in five years?: >-
   In five years, I hope that All-In will be able to partner with the other SOW
   and SHIELDS sites to provide access to more Angelenos!
-project_id_2: '8102006'
-project_id_3: '8102006'
 organization_name: All-In Urban Summer Academy
 
 ---

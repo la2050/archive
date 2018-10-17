@@ -135,14 +135,7 @@ project_proposal_best_place: >-
   creation is celebrated with a housewarming party in which youth share their
   stories and educate the gathered through powerful spoken word poetry, original
   music and songs.
-project_image_2: 8371052065741-team91.png
-empty_column_1: ''
 organization_name: A Sense of Home
 organization_website: asenseofhome.org
-organization_name_2: A Sense of Home
-organization_activity: >-
-  Create homes for foster youth aging out of the system & connect them with a
-  loving community who can advance their education, careers & well being.
-ein: ''
 
 ---

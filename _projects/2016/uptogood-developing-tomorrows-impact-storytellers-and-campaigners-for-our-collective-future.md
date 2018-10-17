@@ -142,15 +142,7 @@ project_proposal_best_place: >-
   Angeles, we hope to attract international figures that visit Los Angeles and
   can provide an even broader, global connection that mimics the efforts we are
   making on a local-level.
-project_image_2: 5520243165741-team91.jpg
-empty_column_1: ''
 organization_name: New Roads School
 organization_website: newroads.org
-organization_name_2: New Roads School
-organization_activity: >-
-  New Roads School is a college prep program with a unique focus on social
-  justice and the arts, from which a richly diverse student population develops
-  independent thinking and expanding curiosity.
-ein: ''
 
 ---

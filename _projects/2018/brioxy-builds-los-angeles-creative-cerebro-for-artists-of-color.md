@@ -127,8 +127,6 @@ Where do you hope this activation or your organization will be in five years?: >
   of nonprofit social change, technology, media, philanthropy, entertainment,
   and finance, building inclusive sectors where young people of color thrive as
   the demographics of this country shift over the next two decades.
-project_id_2: '8102011'
-project_id_3: '8102011'
 organization_name: Brioxy
 
 ---

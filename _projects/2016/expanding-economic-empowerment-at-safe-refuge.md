@@ -70,15 +70,7 @@ project_proposal_best_place: >-
   per capita and Unemployment rates and opportunities for the formerly
   incarcerated, although the project would benefits multiple vulnerable
   populations.
-project_image_2: 0952754165741-team91.jpg
-empty_column_1: ''
 organization_name: Safe Refuge
 organization_website: www.asaferefuge.org
-organization_name_2: Safe Refuge
-organization_activity: >-
-  Safe Refuge is a place where people who are struggling can come to discover a
-  supportive and caring recovery community through a continuum of care approach
-  to services.
-ein: ''
 
 ---

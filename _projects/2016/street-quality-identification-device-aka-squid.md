@@ -143,15 +143,7 @@ project_proposal_best_place: >-
   While focussing on street quality, SQUID can be repurposed to inspect other
   facets of the urban environment and integrate several operational silos around
   street imagery.
-project_image_2: 1215444855741-team91.png
-empty_column_1: ''
 organization_name: ARGO Labs
 organization_website: www.argolabs.org
-organization_name_2: ARGO Labs
-organization_activity: >-
-  ARGO builds, operates and maintains pioneering data infrastructure to
-  transform how basic public services like street quality, water reliability,
-  and education volunteering are delivered.
-ein: ''
 
 ---

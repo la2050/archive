@@ -127,15 +127,7 @@ project_proposal_best_place: >-
   and family histories to geo-tagged trees they have planted. In 50 years, the
   community will still be able to walk the Endless Orchard and the trees will
   still be bearing fruit.
-project_image_2: 0700914165741-team91.jpg
-empty_column_1: ''
 organization_name: Fallen Fruit
 organization_website: www.fallenfruit.org
-organization_name_2: Fallen Fruit
-organization_activity: >-
-  Fallen Fruit invites you to re-imagine the function of public participation
-  and urban space, and to explore the meaning of community through planting,
-  mapping and sharing fruit trees.
-ein: '557066495'
 
 ---

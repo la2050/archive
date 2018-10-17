@@ -73,15 +73,7 @@ project_proposal_best_place: >-
   effort includes expanding the marketing and communication of the program, as
   well as the hiring of a social media manager to better manage Hollywood
   Fringe’s outreach across social media platforms.
-project_image_2: 7523100096741-team90.jpg
-empty_column_1: ''
 organization_name: Hollywood Fringe Festival (Hatchery Arts)
 organization_website: www.hollywoodfringe.org
-organization_name_2: Hollywood Fringe Festival (Hatchery Arts)
-organization_activity: >-
-  Through its annual festival, Hollywood Fringe provides a platform for
-  emerging, underrepresented and experimental local performers to interact with
-  one another and engage with the Hollywood community.
-ein: ''
 
 ---

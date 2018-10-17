@@ -146,14 +146,7 @@ project_proposal_best_place: >-
   ongoing program will aid in their recruitment and retention rates. Our last
   event included involvement with Pomona College and number of recent UCLA
   graduates, among others.
-project_image_2: 5228131725741-team91.jpg
-empty_column_1: ''
 organization_name: Maiden LA
 organization_website: maiden.la
-organization_name_2: Maiden LA
-organization_activity: >-
-  Maiden LA is a decentralized county-wide program that encourages, maps and
-  connects art-related events annually.
-ein: ''
 
 ---

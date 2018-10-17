@@ -124,15 +124,7 @@ project_proposal_best_place: >-
   will create access and opportunity for ALL neighborhoods in LA. Give Angelenos
   the chance to build deeper connections with their community and to create a
   more informed, vibrant, and connected Los Angeles.
-project_image_2: 5887450265741-team91.jpg
-empty_column_1: ''
 organization_name: Ryman Arts
 organization_website: www.thebigdrawla.org
-organization_name_2: Ryman Arts
-organization_activity: >-
-  Since 1990, Ryman Arts has empowered 26,000+ artistic youth, through free high
-  quality studio classes, college/career planning, support services, community
-  engagement opportunities.
-ein: '951051084'
 
 ---

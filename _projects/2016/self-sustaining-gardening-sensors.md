@@ -112,12 +112,7 @@ project_proposal_best_place: >-
   makes it an extremely useful tool for quantifying within-field variability,
   evaluating crop growth, and managing soil based on current conditions that may
   be overlooked using typical ground-based visual scouting methods.
-project_image_2: 3454622194741-team91.png
-empty_column_1: ''
 organization_name: ANDesign Lab
 organization_website: www.andesignlab.com
-organization_name_2: ANDesign Lab
-organization_activity: ANDesign Lab is a full-fledged industrial design firm.
-ein: ''
 
 ---

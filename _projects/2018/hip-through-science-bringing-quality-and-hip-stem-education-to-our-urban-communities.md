@@ -179,8 +179,6 @@ Where do you hope this activation or your organization will be in five years?: >
   from inner cities to pursue STEM careers. We hope to eventually expand this
   program from city-wide to county-wide, to serve and inspire more youth to
   chase their dreams in STEM fields.
-project_id_2: '8102122'
-project_id_3: '8102122'
 organization_name: The People of Change
 
 ---

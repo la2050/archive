@@ -134,15 +134,7 @@ project_proposal_best_place: >-
   the growing numbers of LA residents who will pursue careers in the numerous
   fields that are rapidly implementing 3-D imagery, including entertainment,
   medicine, design, and education.
-project_image_2: 4065764555741-team91.jpg
-empty_column_1: ''
 organization_name: '3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education'
 organization_website: 3-DSPACE.org
-organization_name_2: '3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education'
-organization_activity: >-
-  3-D SPACE is an LA based arts and education nonprofit  dedicated to both the
-  preservation of the history of stereoscopic imaging, and the advancement of
-  current and future 3-D arts and sciences.
-ein: '472247578'
 
 ---

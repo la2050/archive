@@ -143,15 +143,7 @@ project_proposal_best_place: >-
   entertainment industry for historically underrepresented groups, RSAMA will
   help grow & diversify one of the largest industries in LA County & help make
   LA the best place to create.
-project_image_2: 1725312484741-team89.jpg
-empty_column_1: ''
 organization_name: Represent
 organization_website: werepresent.org
-organization_name_2: Represent
-organization_activity: >-
-  Represent works to reach equal media representation for marginalized groups by
-  training the next generation of media makers at our LA-based Acting & Media
-  Arts School free of charge.
-ein: ''
 
 ---

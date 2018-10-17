@@ -145,19 +145,9 @@ project_proposal_best_place: >-
   student academic and social self-efficacy and skills. SCIE helps students to
   gain real-world experience and develop relationships with engineering students
   and professionals.
-project_image_2: 4597804105741-team91.jpg
-empty_column_1: ''
 organization_name: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs
   Office)
 organization_website: viterbi.usc.edu/stemprograms
-organization_name_2: >-
-  University of Southern California (Viterbi STEM Educational Outreach Programs
-  Office)
-organization_activity: >-
-  STEM Educational Outreach Programs (STEM-EOP)  serves educationally
-  disadvantaged students with the goal to increase the number of students who
-  have authentic experiences in STEM and major in STEM
-ein: ''
 
 ---

@@ -151,14 +151,7 @@ project_proposal_best_place: >-
 
   We invite you to join us as we continue in our mission to support and inspire
   the future leaders of tomorrow!
-project_image_2: 4435758065741-team91.png
-empty_column_1: ''
 organization_name: Youth Business Alliance
 organization_website: www.youthbizalliance.com
-organization_name_2: Youth Business Alliance
-organization_activity: >-
-  We connect at risk and disadvantaged youth to life skills, local
-  professionals, and businesses.
-ein: '462067337'
 
 ---

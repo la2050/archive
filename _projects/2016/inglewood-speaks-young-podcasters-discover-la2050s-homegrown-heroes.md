@@ -138,15 +138,7 @@ project_proposal_best_place: >-
   replicating across Los Angeles, we believe that this project will make LA the
   best place for youth to learn and become civically-engaged citizen
   journalists.
-project_image_2: 5493116165741-team88.jpg
-empty_column_1: ''
 organization_name: 'Core Innovate, Inc. & Century Academy for Excellence'
 organization_website: www.coreinnovate.com
-organization_name_2: 'Core Innovate, Inc. & Century Academy for Excellence'
-organization_activity: >-
-  Core Innovate is an education technology and support services business that
-  supports educators in strategic instructional planning aimed at removing
-  barriers to powerful communication for students.
-ein: ''
 
 ---

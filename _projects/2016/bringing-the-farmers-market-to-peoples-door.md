@@ -93,15 +93,7 @@ project_proposal_best_place: >-
   power to sell directly to anybody in their area. Thereby removing all barriers
   for indie creators, and creating a market where Angelinos can support and
   enjoy locally crafted products.
-project_image_2: 6286523854741-team91.png
-empty_column_1: ''
 organization_name: Natch
 organization_website: thenatch.co
-organization_name_2: Natch
-organization_activity: >-
-  We are creating a marketplace app where anybody in Los Angeles can create
-  their own local craft shops, and sell and delivery anything they make (foods,
-  crafts, clothes, etc.) to other locals.
-ein: ''
 
 ---

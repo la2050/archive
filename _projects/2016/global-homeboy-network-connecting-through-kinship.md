@@ -84,15 +84,7 @@ project_proposal_best_place: >-
   collectively advocate for change, test and improve services for marginalized
   populations, work together on public policy, and invest in making changes to
   the criminal justice system.
-project_image_2: 6687480265741-team91.jpg
-empty_column_1: ''
 organization_name: Homeboy Industries
 organization_website: homeboyindustries.org
-organization_name_2: Homeboy Industries
-organization_activity: >-
-  Homeboy Industries provides hope, training, and support to formerly
-  gang-involved and previously incarcerated individuals, allowing them to become
-  contributing members of the L.A. community.
-ein: '954800735'
 
 ---

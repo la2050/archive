@@ -113,15 +113,7 @@ project_proposal_best_place: >-
   users and develop new strategies for protecting the health of sensitive
   populations. Our goal is to improve the communication of air quality
   information and associated health effects.
-project_image_2: 0511230265741-team91.PNG
-empty_column_1: ''
 organization_name: UCLA Institute of the Environment and Sustainability (IOES)
 organization_website: www.ioes.ucla.edu
-organization_name_2: UCLA Institute of the Environment and Sustainability (IOES)
-organization_activity: >-
-  Through research and practice on the greatest environmental challenges facing
-  humanity, the IOES moves science into action at the local, national and global
-  level.
-ein: ''
 
 ---

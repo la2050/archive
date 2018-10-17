@@ -191,8 +191,6 @@ Where do you hope this activation or your organization will be in five years?: >
   manufacturers intra-community in LA. We also hope to be self sustaining and
   able to run the majority of our programs using produce sales without the need
   for outside funding. 
-project_id_2: '8102113'
-project_id_3: '8102113'
 organization_name: 'SÜPRSEED, Inc.'
 
 ---

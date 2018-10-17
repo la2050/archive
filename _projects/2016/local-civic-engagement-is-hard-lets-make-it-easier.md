@@ -136,15 +136,7 @@ project_proposal_best_place: >-
   unlock some of that potential. We believe through the use of technology, we
   can make LA the best place to connect by lowering some of the barriers that
   inhibit civic engagement.
-project_image_2: 0402902265741-team89.jpg
-empty_column_1: ''
 organization_name: The Burg
 organization_website: burg.io
-organization_name_2: The Burg
-organization_activity: >-
-  Our organization's mission is to improve local political and community based
-  involvement by creating a user-friendly online platform that lowers the
-  barriers to civic engagement.
-ein: ''
 
 ---

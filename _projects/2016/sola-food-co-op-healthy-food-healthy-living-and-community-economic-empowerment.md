@@ -62,14 +62,7 @@ project_proposal_best_place: >-
   to retain influence in and preserve the history and culture of the community
   through shared ownership of an organic co-op grocery. Simultaneously, SoLA
   will also be an attractive resource for new families moving to the area.
-project_image_2: 6550607705741-team91.jpg
-empty_column_1: ''
 organization_name: SoLA Food Co-op
 organization_website: www.solafoodcoop.com
-organization_name_2: SoLA Food Co-op
-organization_activity: >-
-  SoLA Food Co-op is working to build  a full service natural foods grocery
-  store in South Los Angeles, owned by the community.
-ein: '464872589'
 
 ---

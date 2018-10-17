@@ -128,15 +128,7 @@ project_proposal_best_place: >-
   including embracing the importance of the arts for Arts & Technology,
   respecting sustainability concerns for Environmental STEAM and honoring the
   importance of Film and Media here in Los Angeles.
-project_image_2: 0761849894741-team91.jpg
-empty_column_1: ''
 organization_name: Friends of King
 organization_website: friendsofking.org
-organization_name_2: Friends of King
-organization_activity: >-
-  Friends of King is a 501 c3 non-profit dedicated to promoting and supporting
-  the diverse group of students from all over Los Angeles who attend T.S. King
-  Middle School.
-ein: ''
 
 ---

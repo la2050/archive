@@ -115,15 +115,7 @@ project_proposal_best_place: >-
   that is community-driven, celebratory, creative, and collaborative. By
   conducting the effort as a random control trial, we will learn more about
   effective strategies to improve voter participation in Los Angeles.
-project_image_2: 1862313165741-team91.jpg
-empty_column_1: ''
 organization_name: Civic Nation
 organization_website: civicnation.org
-organization_name_2: Civic Nation
-organization_activity: >-
-  Civic Nation builds tools and campaigns that encourage more civic engagement
-  around topics like ending sexual assault, gender equality, free community
-  college, and more.
-ein: ''
 
 ---

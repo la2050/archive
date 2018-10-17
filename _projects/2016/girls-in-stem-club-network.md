@@ -133,15 +133,7 @@ project_proposal_best_place: >-
   skills will grow and continue into the future. Those graduates who have
   practical and relevant STEM precepts embedded into their educational
   experiences will be in high demand in all job sectors.
-project_image_2: 4330354165741-team91.jpg
-empty_column_1: ''
 organization_name: Girls Inc. of Greater Los Angeles
 organization_website: girlsincla.org
-organization_name_2: Girls Inc. of Greater Los Angeles
-organization_activity: >-
-  Girls Inc. takes a holistic approach to working with girls to address the
-  challenges they have and empower them through opportunities, programs and
-  mentors.
-ein: '131915124'
 
 ---

@@ -159,14 +159,7 @@ project_proposal_best_place: >-
   We will distribute them via social media and other channels. Once the report
   is complete, we will share it online and via a panel discussion / launch event
   and social media event.
-project_image_2: 0674973265741-team91.png
-empty_column_1: ''
 organization_name: Evolve LA (project of LA-Más)
 organization_website: www.mas.la
-organization_name_2: Evolve LA (project of LA-Más)
-organization_activity: >-
-  LA-Más is a non-profit urban design organization that helps lower-income and
-  underserved communities shape their future through policy and architecture.
-ein: ''
 
 ---

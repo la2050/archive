@@ -130,15 +130,7 @@ project_proposal_best_place: >-
   Our classes will open girls' hearts and minds to the importance of learning by
   igniting their abilities in this forward thinking industry, making LA the
   leading city for change.
-project_image_2: 6368104854741-team91.jpg
-empty_column_1: ''
 organization_name: Arts Bridging the Gap
 organization_website: www.artsbridgingthegap.org
-organization_name_2: Arts Bridging the Gap
-organization_activity: >-
-  Arts Bridging the Gap creates Arts-educational experiences and programs to
-  bridge the achievement gap for underserved youth and ensure a better future
-  for all children
-ein: ''
 
 ---

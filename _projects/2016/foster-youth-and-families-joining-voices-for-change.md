@@ -108,15 +108,7 @@ project_proposal_best_place: >-
   foundation of our work. By building on this foundation to create a massive
   grassroots movement for change, we can make LA County a model of how to
   transform our country’s child welfare system.
-project_image_2: 6395409023741-team88.jpg
-empty_column_1: ''
 organization_name: National Foster Youth Institute
 organization_website: www.nfyi.org
-organization_name_2: National Foster Youth Institute
-organization_activity: >-
-  NFYI/LA recruits and trains grassroots leaders, works to create new
-  understanding of foster families, and educates policymakers to change how
-  society supports its most vulnerable citizens.
-ein: ''
 
 ---

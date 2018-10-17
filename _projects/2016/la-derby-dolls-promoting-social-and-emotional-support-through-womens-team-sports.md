@@ -119,14 +119,7 @@ project_proposal_best_place: >-
   from. We plan to grow the program's reach to women who do not know that the
   Derby Dolls is available to them and make our space available to a greater
   number of LA women and juniors through the availability of scholarships.
-project_image_2: 9914449755741-team91.jpg
-empty_column_1: ''
 organization_name: LA Derby Dolls
 organization_website: derbydolls.com
-organization_name_2: LA Derby Dolls
-organization_activity: >-
-  The LA Derby Dolls is a women’s banked track roller derby league and community
-  that promotes women’s empowerment, athletics, and social connectedness.
-ein: ''
 
 ---

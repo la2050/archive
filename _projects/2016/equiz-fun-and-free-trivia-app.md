@@ -87,14 +87,7 @@ project_proposal_best_place: >-
   start-ups in the Los Angeles area. We want our presence to highlight the
   importance of L.A. as a start-up friendly incubator that rivals that of Paolo
   Alto.
-project_image_2: 7270013455741-team88.jpg
-empty_column_1: ''
 organization_name: 'SilverMotion, Inc.'
 organization_website: equiz.com
-organization_name_2: 'SilverMotion, Inc.'
-organization_activity: >-
-  eQuiz is a fun and free trivia app that brings the world together through
-  their passion for knowledge.
-ein: ''
 
 ---

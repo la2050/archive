@@ -109,15 +109,7 @@ project_proposal_best_place: >-
   community members who are pursuing the arts. Space would be reserved on a
   first-come, first-serve basis, and participating artists would be encouraged
   to find ways to share their work back with the broader community.
-project_image_2: 5529285065741-team91.JPG
-empty_column_1: ''
 organization_name: SIJCC
 organization_website: sijcc.net
-organization_name_2: SIJCC
-organization_activity: >-
-  The SIJCC is a home for arts, culture, education and belonging on LA’s east
-  side, with numerous classes, events and other offerings devoted to supporting
-  and showcasing our local community of artists.
-ein: ''
 
 ---

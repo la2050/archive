@@ -92,8 +92,6 @@ Where do you hope this activation or your organization will be in five years?: >
   across Los Angeles and inspire students to know what kind of services their
   local community health center provides.  We hope to advance health equity and
   improve health outcomes for young people across Los Angele County.  
-project_id_2: '8102094'
-project_id_3: '8102094'
 organization_name: Peer Health Exchange
 
 ---

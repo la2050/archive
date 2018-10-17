@@ -129,14 +129,7 @@ project_proposal_best_place: >-
   their resume, and plan for future employment. All of their research and
   experiences are organized in their portfolio assisting them in their
   transition into college or career.
-project_image_2: 4142800165741-team91.png
-empty_column_1: ''
 organization_name: College Bridge
 organization_website: www.college-bridge.org
-organization_name_2: College Bridge
-organization_activity: >-
-  College Bridge's mission is to increase college access and success for
-  underrepresented students in Los Angeles County.
-ein: ''
 
 ---
