@@ -2,7 +2,8 @@
 project_id: '8102084'
 project_id_2: '8102084'
 title: >-
-  Vision2020: An Achievable Plan to Save Us All from Air Toxins, Diesel Pollution & Climate Change!
+  Vision2020: An Achievable Plan to Save Us All from Air Toxins, Diesel
+  Pollution & Climate Change!
 project_summary: >-
   Move LA is building a broad coalition and championing a grand bargain to
   achieve the audacious goals of cleaning our air of diesel toxins and greatly
@@ -28,7 +29,7 @@ project_image: >-
 project_video: 'https://youtu.be/4JnqpY0nP4s'
 project_id_3: '8102084'
 year_submitted: 2018
-organization_name: Move LA, a project of Community Partners
+organization_name: 'Move LA, a project of Community Partners'
 project_proposal_description: >-
   Move LA will activate LA County and Southern Californians to address the
   “elephant on our roads” - transportation accounts for 90% of toxic air

@@ -1,7 +1,9 @@
 ---
 project_id: '8102125'
 project_id_2: '8102125'
-title: Create Above the Radar Program – Think Tank Gallery Spotlight on Creative Opportunity
+title: >-
+  Create Above the Radar Program – Think Tank Gallery Spotlight on Creative
+  Opportunity
 project_summary: "Your art is better when you don't have to hide it. \r\n\r\n#CreateAboveTheRadar makes permitting your production less daunting, & provides opportunities for your show, mural, or event to find a scene in LA"
 Please describe the activation your organization seeks to launch.: >-
   Create Above the Radar is an online & live program sharing gatekept permitting

@@ -1,6 +1,7 @@
 ---
 organization_id: '2018035'
-project_image: 'https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/34603342_10155143111605666_7950774128993107968_n.jpg?_nc_cat=111&oh=75a684becd1bc65b6214dec84d976923&oe=5C547AB4'
+project_image: >-
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/34603342_10155143111605666_7950774128993107968_n.jpg?_nc_cat=111&oh=75a684becd1bc65b6214dec84d976923&oe=5C547AB4
 project_id: '3102117'
 title: 'LA Street Vendors: A Better Economy through LowIncome Entrepreneurs'
 indicator: ' Income & Employment'

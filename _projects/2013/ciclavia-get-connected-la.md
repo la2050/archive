@@ -1,6 +1,7 @@
 ---
 organization_id: '2018021'
-project_image: 'https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43150975_1966183453468553_4826621845664956416_n.jpg?_nc_cat=110&oh=341053c1440453c14416c500fb7a3eb4&oe=5C5A5D4E'
+project_image: >-
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43150975_1966183453468553_4826621845664956416_n.jpg?_nc_cat=110&oh=341053c1440453c14416c500fb7a3eb4&oe=5C5A5D4E
 project_id: '3102061'
 title: 'CicLAvia: Get Connected LA'
 indicator: ' Social Connectedness'
