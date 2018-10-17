@@ -9,7 +9,7 @@ project_summary: >-
   of our school sites and expose 90 students from low-income backgrounds to
   STEM-related activities and careers.
 Please specify below: ''
-category: create
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   For more than a decade, the United States has trailed the international
   community in Math, Reading, and Science, producing a growing surplus of
@@ -245,6 +245,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The LA’s Promise Technology Academy has the potential to expand in the following areas:\r\n\r\nSchool-Wide – Grow programing elements to include all students at each school site.\r\n\r\nDiversification of Content – Offer a greater variety of STEM activities in subject areas such as Video Game Design, Computer Animation, and Robotics.\r\n\r\nMultiyear/Multilevel Programing – Create an advanced curriculum for returning participants and to serve more students.\r\n\r\nOff-Site Expansion – Expand program to other schools within the Los Angeles Unified School District."
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -683,7 +705,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The LA’s Promise Technology Academy has the potential to expand in the following areas:\r\n\r\nSchool-Wide – Grow programing elements to include all students at each school site.\r\n\r\nDiversification of Content – Offer a greater variety of STEM activities in subject areas such as Video Game Design, Computer Animation, and Robotics.\r\n\r\nMultiyear/Multilevel Programing – Create an advanced curriculum for returning participants and to serve more students.\r\n\r\nOff-Site Expansion – Expand program to other schools within the Los Angeles Unified School District."
-body_class: banana
+body_class: blueberry
 organization_name: LA's Promise
 published: true
 

@@ -12,7 +12,7 @@ project_summary: >-
   impact in 2016, as we increase the size of our middle school program from 75
   to 100 youth and launch our high school program with 75 youth.
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -161,6 +161,23 @@ maker_answers:
     anticipate 1300 youth will have participated in Big Citizen HUB in Los
     Angeles alone. At that point, we expect to explore expanding our reach to
     other cities. 
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Number of public transit riders
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -610,7 +627,7 @@ maker_answers_list:
       operation we anticipate 1300 youth will have participated in Big Citizen
       HUB in Los Angeles alone. At that point, we expect to explore expanding
       our reach to other cities. 
-body_class: blueberry
+body_class: tangerine
 organization_name: Big Citizen HUB
 published: true
 

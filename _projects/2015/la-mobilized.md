@@ -11,7 +11,7 @@ project_summary: >-
   city. To tap into this potential, LA needs to democratize planning so
   residents can co-create the future. 
 Please specify below: ''
-category: all
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -118,6 +118,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We will create a website as a living source of ideas for change and case studies of successful innovation, and continue to maintain the site past the initial community workshops and projects. \r\nWe will collect ideas from our workshops along with example of places around the world where change has successfully been implemented; and links to books, articles, blogs and opinions related to changing transportation and related urban change. The website will be searchable – and readable in different layers by our different audiences.\r\nWe hope that the C7 case study, ideas from Place It! workshops, examples of transportation and mobility approaches, , will point to ideas for  for planning and policy reform will add up to a wider and stronger constituency of residents seeking to affect transportation and mobility. in Los Angeles."
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - 'inspire through workshops, website, exhibition'
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Median travel time to work
+    - Number of public transit riders
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -519,7 +543,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We will create a website as a living source of ideas for change and case studies of successful innovation, and continue to maintain the site past the initial community workshops and projects. \r\nWe will collect ideas from our workshops along with example of places around the world where change has successfully been implemented; and links to books, articles, blogs and opinions related to changing transportation and related urban change. The website will be searchable – and readable in different layers by our different audiences.\r\nWe hope that the C7 case study, ideas from Place It! workshops, examples of transportation and mobility approaches, , will point to ideas for  for planning and policy reform will add up to a wider and stronger constituency of residents seeking to affect transportation and mobility. in Los Angeles."
-body_class: strawberry
+body_class: tangerine
 organization_name: >-
   Urban & Environmental Institute, Occidental College and East Yards Communities
   for Environmental Justice

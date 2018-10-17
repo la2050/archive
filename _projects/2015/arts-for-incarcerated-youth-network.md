@@ -12,7 +12,7 @@ project_summary: >-
   initiative has the power to transform our young people, the systems that serve
   them, and create a powerful resource for the creative economy in Los Angeles.
 Please specify below: ''
-category: all
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LA is one of the most diverse cities in the world with over 40 languages
   spoken. Many communities, however, remain somewhat isolated, either in what is
@@ -199,6 +199,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "As AIYN proves the success of its model, it can provide proof of concept for the permanent embedding of arts programming in the Los Angeles County Probation department.  With the redesign of LA County's probation model set to begin in 2017, this is a unique opportunity to change the entire system to include arts as a resiliency building tool, and a strategy for long-term employment of young people.  \r\n\r\nWith the existing partnership of the Children's Defense Fund through the Freedom Schools, AIYN is poised to demonstrate its effectiveness on a national scale.\r\n\r\nAdditionally, this can serve as an innovative investment in the creative economy of Los Angeles, serving as a connector to young people eager to work, eager to stay in the community, and eager to contribute.  By providing them creative economy skills, education in the field (one of the few fields accessible to folks with a record), and access to working professionals to learn of the myriad jobs within creative industries, AIYN is creating a long-term investment in our youth, our economy, our creative spirit, and in Los Angeles.\r\n"
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -625,7 +649,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "As AIYN proves the success of its model, it can provide proof of concept for the permanent embedding of arts programming in the Los Angeles County Probation department.  With the redesign of LA County's probation model set to begin in 2017, this is a unique opportunity to change the entire system to include arts as a resiliency building tool, and a strategy for long-term employment of young people.  \r\n\r\nWith the existing partnership of the Children's Defense Fund through the Freedom Schools, AIYN is poised to demonstrate its effectiveness on a national scale.\r\n\r\nAdditionally, this can serve as an innovative investment in the creative economy of Los Angeles, serving as a connector to young people eager to work, eager to stay in the community, and eager to contribute.  By providing them creative economy skills, education in the field (one of the few fields accessible to folks with a record), and access to working professionals to learn of the myriad jobs within creative industries, AIYN is creating a long-term investment in our youth, our economy, our creative spirit, and in Los Angeles.\r\n"
-body_class: strawberry
+body_class: banana
 organization_name: >-
   Arts for Incarcerated Youth Network: includes AIYN members Armory Center for
   the Arts, Bold Ink/WriteGirl, Coalition for Engaged Education, InsideOut

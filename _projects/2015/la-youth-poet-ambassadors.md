@@ -13,7 +13,7 @@ project_summary: >-
   access to creative industries & workforce development, and 3) college access,
   as our Ambassador Initiatives.
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Mission: The Los Angeles Youth Poet Laureate & Ambassadors program aims to
   identify youth writers and leaders who are committed to civic and community
@@ -193,6 +193,26 @@ maker_answers:
     and activists spaces across LA, but ultimately as we grow this model, we
     have a vision and plan to engage the LA Unified School District to enter
     this work into school and after-school settings.
+  Where will you be working?:
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - 'Town Hall Meetings, Volunteerism, Voter Drives, and Performances'
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -613,7 +633,7 @@ maker_answers_list:
       and activists spaces across LA, but ultimately as we grow this model, we
       have a vision and plan to engage the LA Unified School District to enter
       this work into school and after-school settings.
-body_class: blueberry
+body_class: tangerine
 organization_name: Urban Word Los Angeles
 published: true
 

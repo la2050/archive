@@ -13,7 +13,7 @@ project_summary: >-
   resources, the program will allow students from the City of LA to compete with
   students from all over the world. 
 Please specify below: Palisades Charter High School; Pacific Palisades; LA County
-category: 00playlive
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Palisades Charter High School (PCHS) represents a microcosm of Los Angeles,
   serving students from over 100 zip codes across the city. Los Angeles is one
@@ -214,6 +214,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "At PCHS, the proposed Career Services Program will meet the demands of the current and future student body at the high school.  We believe increasing demand is a mark of success and will be met with the infrastructure built into the educational curriculum and implementation of the proposed technology programs.\r\n\r\nOn a broader scale, it is the goal that the PCHS Career Service Center becomes the role model for other Los Angeles based high schools and local industries.  We feel that this collaborative approach, presented in a manner which is age appropriate to high school students, can be easily replicated and beneficial to all involved stakeholders.  The incorporation of career planning skills into high school curriculum is something that can be shared with the greater Los Angeles community to the benefit of all Los Angeles public high school students.  \r\n\r\nThe project success will be scaled across the City of Los Angeles at other high schools through sharing our best practices for software applications, communications with students, parents and employers, and educational tools to prepare students for exposure to the workforce.  At PCHS we are committed to a high quality public education experience and the vision of the high school campus as a center for learning inside and outside the classroom.  As such, we will be sharing our learned expertise, to replicate the program at other public high schools. We believe that this program can be established economically elsewhere.\r\n\r\nOur goal is to have the students, parents and counselors work as a team to guide our students towards becoming college and career ready by utilizing the tools provided to them with the goal of embracing their own future with knowledge and confidence.\r\n    "
+  Where will you be working?:
+    - Palisades Charter High School; Pacific Palisades; LA County
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -604,7 +629,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "At PCHS, the proposed Career Services Program will meet the demands of the current and future student body at the high school.  We believe increasing demand is a mark of success and will be met with the infrastructure built into the educational curriculum and implementation of the proposed technology programs.\r\n\r\nOn a broader scale, it is the goal that the PCHS Career Service Center becomes the role model for other Los Angeles based high schools and local industries.  We feel that this collaborative approach, presented in a manner which is age appropriate to high school students, can be easily replicated and beneficial to all involved stakeholders.  The incorporation of career planning skills into high school curriculum is something that can be shared with the greater Los Angeles community to the benefit of all Los Angeles public high school students.  \r\n\r\nThe project success will be scaled across the City of Los Angeles at other high schools through sharing our best practices for software applications, communications with students, parents and employers, and educational tools to prepare students for exposure to the workforce.  At PCHS we are committed to a high quality public education experience and the vision of the high school campus as a center for learning inside and outside the classroom.  As such, we will be sharing our learned expertise, to replicate the program at other public high schools. We believe that this program can be established economically elsewhere.\r\n\r\nOur goal is to have the students, parents and counselors work as a team to guide our students towards becoming college and career ready by utilizing the tools provided to them with the goal of embracing their own future with knowledge and confidence.\r\n    "
-body_class: strawberry
+body_class: blueberry
 organization_name: Palisades Charter High School (PCHS)
 published: true
 

@@ -13,7 +13,7 @@ project_summary: >-
   the 1MM people who access Grand Park annually to play, enjoy quiet green
   spaces and attend free events in downtown LA.
 Please specify below: ''
-category: live
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Grand Park is the most popular green space in DTLA to play (1MM visitors per
   year) and is the first and only-large scale public park in DTLA that combines
@@ -277,6 +277,24 @@ maker_answers:
     Based on usage and community feedback, Grand Park will assess the degree of
     positive impact that shading pilot has had. The project can be scaled up by
     creating other artistic shade installations in other parts of the park. 
+  Where will you be working?:
+    - Central LA
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Per capita crime rates
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -733,7 +751,7 @@ maker_answers_list:
       of positive impact that shading pilot has had. The project can be scaled
       up by creating other artistic shade installations in other parts of the
       park. 
-body_class: lime
+body_class: strawberry
 organization_name: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 published: true
 

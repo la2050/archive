@@ -13,7 +13,7 @@ project_summary: >-
   getting to know their neighbors and building their personal and shared
   resiliency.  
 Please specify below: ''
-category: 00playlive
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   As highlighted in the City of Los Angeles’s Sustainable City pLAn, “Climate
   change is...the biggest single challenge facing humanity, as it will bring
@@ -244,6 +244,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "One of the strengths of the underlying Cool Block program is that its foundation program, EcoTeams, has been successfully implemented in over 300 cities across the world, and has been proven to be highly scalable and replicable.  \r\n\r\nDavid Gershon will serve as a consultant on the pilot program, and work closely with the NCSA board to develop an effective architecture for scaling up the program.\r\n\r\nOur plan is to pilot the program in “early adopter” LA neighborhoods in Year 1 while growing a solid Cool Block program foundation and developing trained Cool Block leaders who can support follow-on work. We will then be poised to expand the Cool Block program exponentially in Years 2 and 3.\r\n\r\nCool Blocks are designed to engage in a web of mutual support with surrounding blocks, and through this mechanism have been shown to not only sustain behavior change, but expand it. Cool Neighborhoods can be created out of 10 adjacent Cool Blocks. The benefits of scale include such things as solar installations that serve entire neighborhoods and community carbon offset program to invest in local renewable energy or urban forestry projects.\r\n\r\nIn alignment with the Sustainable City Plan and the LA2050 Vision and Goals, our long-term goal is to engage 15% of City of LA households in the Cool Block program—a demonstrated tipping point for social change.\r\n\r\nBy the end of Year 3, Los Angeles will be in an ideal position to serve as a candidate for an upcoming “Cool Cities Challenge,” a $2.5 million initiative with 20 California cities leading the way to a healthy carbon future by 2020."
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Exposure to air toxins
+    - Percent of imported water
+    - Walk/bike/transit score
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -653,7 +673,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "One of the strengths of the underlying Cool Block program is that its foundation program, EcoTeams, has been successfully implemented in over 300 cities across the world, and has been proven to be highly scalable and replicable.  \r\n\r\nDavid Gershon will serve as a consultant on the pilot program, and work closely with the NCSA board to develop an effective architecture for scaling up the program.\r\n\r\nOur plan is to pilot the program in “early adopter” LA neighborhoods in Year 1 while growing a solid Cool Block program foundation and developing trained Cool Block leaders who can support follow-on work. We will then be poised to expand the Cool Block program exponentially in Years 2 and 3.\r\n\r\nCool Blocks are designed to engage in a web of mutual support with surrounding blocks, and through this mechanism have been shown to not only sustain behavior change, but expand it. Cool Neighborhoods can be created out of 10 adjacent Cool Blocks. The benefits of scale include such things as solar installations that serve entire neighborhoods and community carbon offset program to invest in local renewable energy or urban forestry projects.\r\n\r\nIn alignment with the Sustainable City Plan and the LA2050 Vision and Goals, our long-term goal is to engage 15% of City of LA households in the Cool Block program—a demonstrated tipping point for social change.\r\n\r\nBy the end of Year 3, Los Angeles will be in an ideal position to serve as a candidate for an upcoming “Cool Cities Challenge,” a $2.5 million initiative with 20 California cities leading the way to a healthy carbon future by 2020."
-body_class: strawberry
+body_class: lime
 organization_name: Neighborhood Council Sustainability Alliance
 published: true
 

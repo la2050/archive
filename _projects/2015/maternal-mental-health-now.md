@@ -13,7 +13,7 @@ project_summary: >-
   perinatal mood and anxiety disorders by facilitating stigma-reduction
   workshops in the communities surrounding the sites.
 Please specify below: ''
-category: 0createplay0
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   According to the most recent Los Angeles Mother Baby (LAMB) Survey,
   administered by the LA County Department of Public Health – Maternal, Child, &
@@ -240,6 +240,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Maternal Mental Health NOW will document the content of all activities associated with this project, including trainings, weekly coaching and consultation sessions, care team meetings and collaborative learning opportunities through written notes, and where applicable, photography and videography.  In addition, Maternal Mental Health NOW will utilize patient registries to track and document qualitative and quantitative data on screening, referrals and treatment as well as patient outcomes on a quarterly basis.  During the second year of the project, Maternal Mental Health NOW will utilize its notes, photographs, videos and data to draft, edit and publish a best practice guide on integrating perinatal mental health care into medical settings.  \r\n\r\nThe best practice guide, which aims to serve as a road map for achieving perinatal mental health care integration at the 129 FQHCs serving 3,412,961 patients in California and the 1,202 FQHCs serving 21,726,965 patients nationwide, will include the following elements:\r\n\r\n•\tCase studies of three medical settings and their experiences with the New Family Care Team project;\r\n•\tRecommendations for HIPPA compliant, web-based registries;\r\n•\tSelf-assessment tool for integrating perinatal mental health care in a medical setting;\r\n•\tAdditional resources for achieving perinatal mental health care integration.\r\n\r\nOnce published, the guidebook will be distributed in print and via online channels to The California Improvement Network and other partners and stakeholders.  As a result of the best practice guide, medical settings throughout the state and beyond will be able to utilize Maternal Mental Health NOW’s recommendations so that the model of integrated perinatal mental health care can spread.\r\n"
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -681,7 +704,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Maternal Mental Health NOW will document the content of all activities associated with this project, including trainings, weekly coaching and consultation sessions, care team meetings and collaborative learning opportunities through written notes, and where applicable, photography and videography.  In addition, Maternal Mental Health NOW will utilize patient registries to track and document qualitative and quantitative data on screening, referrals and treatment as well as patient outcomes on a quarterly basis.  During the second year of the project, Maternal Mental Health NOW will utilize its notes, photographs, videos and data to draft, edit and publish a best practice guide on integrating perinatal mental health care into medical settings.  \r\n\r\nThe best practice guide, which aims to serve as a road map for achieving perinatal mental health care integration at the 129 FQHCs serving 3,412,961 patients in California and the 1,202 FQHCs serving 21,726,965 patients nationwide, will include the following elements:\r\n\r\n•\tCase studies of three medical settings and their experiences with the New Family Care Team project;\r\n•\tRecommendations for HIPPA compliant, web-based registries;\r\n•\tSelf-assessment tool for integrating perinatal mental health care in a medical setting;\r\n•\tAdditional resources for achieving perinatal mental health care integration.\r\n\r\nOnce published, the guidebook will be distributed in print and via online channels to The California Improvement Network and other partners and stakeholders.  As a result of the best practice guide, medical settings throughout the state and beyond will be able to utilize Maternal Mental Health NOW’s recommendations so that the model of integrated perinatal mental health care can spread.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: Maternal Mental Health NOW
 published: true
 

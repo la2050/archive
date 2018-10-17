@@ -10,7 +10,7 @@ project_summary: >-
   encourage the community to get involved and learn about a more
   health-conscious way of life.
 Please specify below: Particularly focused in areas with unbuildable land.
-category: 00playlive
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Farm LA envisions a healthier, more self-sufficient Los Angeles by utilizing
   our vacant spaces for growing organic produce. We have an over abundance of
@@ -213,6 +213,37 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Farm LA is the first non-profit organization dedicated to physically rescuing unbuildable land in Los Angeles for solar and drought-tolerant agricultural farming. Even Detroit (a city with very different zoning laws than LA) only just recently started taking over vacant property to supplement organic food needs for its city. The closest thing we could be compared to might be the Victory Gardens of WWII, which were extremely successful and had massive funding by the US government. We are essentially creating the benchmarks for this kind of mission in Los Angeles with it’s own set of variables.\r\n\r\nFor this reason we don’t have the standard 5 year reference for other programs who are doing the same thing to scale for success. But we plan to take a simple and effective collection of our monthly evaluated data (monetary donations, pounds of produce, visitors to site, new volunteer sign-ups, volunteer hours accumulated, weight-loss success stories,  kilowatts generated and gallons of water produced) and from there we can identify the key components that make our program work that month and set key goals for our next month. \r\n\r\nWe plan to ensure the success of our model farm with outreach to students, after school programs, camps, senior centers, neighborhood councils, public offices and walking tours - if every person we meet looks at a vacant piece of land as an opportunity to grow organic food, we feel we are one step closer to a maturing healthy Los Angeles.\r\n\r\nWe want our program to be easily replicated at the end of 2016 hopefully with the support of organizations and communities we’ve worked with that year combined with fundraising, grant writing and effective marketing we can replicate this model easily and count on reoccurring funding to ensure Farm LA’s efforts in making this the healthiest place to live by 2050.\r\n\r\nThough Farm LA is still young, we have the applicable skills to champion our mission. We have no problem taking on leadership roles or getting our hands dirty. We have a commitment to our dream, the passion to expand and serve new sites in the future.\r\n"
+  Where will you be working?:
+    - East LA
+    - City of Los Angeles
+    - Particularly focused in areas with unbuildable land.
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - Beautify derelict land in Los Angeles
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Number of households below the self-sufficiency index
+    - Percent of imported water
+    - Obesity rates
+    - Walk/bike/transit score
+    - Rates of mental illness
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -636,7 +667,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Farm LA is the first non-profit organization dedicated to physically rescuing unbuildable land in Los Angeles for solar and drought-tolerant agricultural farming. Even Detroit (a city with very different zoning laws than LA) only just recently started taking over vacant property to supplement organic food needs for its city. The closest thing we could be compared to might be the Victory Gardens of WWII, which were extremely successful and had massive funding by the US government. We are essentially creating the benchmarks for this kind of mission in Los Angeles with it’s own set of variables.\r\n\r\nFor this reason we don’t have the standard 5 year reference for other programs who are doing the same thing to scale for success. But we plan to take a simple and effective collection of our monthly evaluated data (monetary donations, pounds of produce, visitors to site, new volunteer sign-ups, volunteer hours accumulated, weight-loss success stories,  kilowatts generated and gallons of water produced) and from there we can identify the key components that make our program work that month and set key goals for our next month. \r\n\r\nWe plan to ensure the success of our model farm with outreach to students, after school programs, camps, senior centers, neighborhood councils, public offices and walking tours - if every person we meet looks at a vacant piece of land as an opportunity to grow organic food, we feel we are one step closer to a maturing healthy Los Angeles.\r\n\r\nWe want our program to be easily replicated at the end of 2016 hopefully with the support of organizations and communities we’ve worked with that year combined with fundraising, grant writing and effective marketing we can replicate this model easily and count on reoccurring funding to ensure Farm LA’s efforts in making this the healthiest place to live by 2050.\r\n\r\nThough Farm LA is still young, we have the applicable skills to champion our mission. We have no problem taking on leadership roles or getting our hands dirty. We have a commitment to our dream, the passion to expand and serve new sites in the future.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: Farm LA
 published: true
 

@@ -13,7 +13,7 @@ project_summary: >-
   is fast becoming a universal language and whose integration into all facets of
   communication will be de rigueur for citizens of 2050.
 Please specify below: ''
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -165,6 +165,26 @@ maker_answers:
     development process and create grassroots support. The Peer Mediation
     Network (www.peermediationnetwork.org - website is under construction) will
     provide content and opportunities for further learning and doing. 
+  Where will you be working?:
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -607,7 +627,7 @@ maker_answers_list:
       Peer Mediation Network (www.peermediationnetwork.org - website is under
       construction) will provide content and opportunities for further learning
       and doing. 
-body_class: strawberry
+body_class: blueberry
 organization_name: The Institute for Nonviolence in Los Angeles
 published: true
 

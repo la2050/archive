@@ -13,7 +13,7 @@ project_summary: >-
   offer to survivors, the healing professionals who serve them, and communities
   beyond our current capacity and scope. 
 Please specify below: ''
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The domestic violence and sexual assault service provider community currently
   faces an unprecedented challenge in effectively helping survivors understand
@@ -298,6 +298,27 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "14. How do you plan to scale the success of your proposal? 2500 characters\r\nThe demand for our signature Survivor Retreat Program has long exceeded its availability and reach. In response, we embarked on an ambitious three-year research project in partnership with Georgetown University to conduct retreats within a research model, evaluate their effectiveness, and create a replicable Retreat Model, which can be adopted by partner organizations and offered to survivors, professionals who serve them, and communities beyond our current capacity and scope. With the publication of the model as an evidenced-informed holistic intervention for survivors, agencies within the field will be able to solicit new funding opportunities and expand their offering of healing opportunities to survivors.\r\nIn Year Three of this project, up to three additional retreats will be offered to control group survivors at the conclusion of data collection. Advocates from partner agencies (Peace Over Violence, The Village Family Services and the YWCA of Greater Los Angeles) will shadow JHF staff in these retreats as part of their implementation training. JHF will then conduct a needs assessment of these partner agencies to assess for ability to effectively implement the model. A plan for implementation of the model at these agencies will be developed by JHF, who will provide ongoing technical assistance and mentorship through the implementation period.\r\n \r\nAdditionally, upon the completion of the research project, we will release a complete evaluation of the retreat development process, retreat experience, and post-retreat findings. We will create a dissemination strategy that balances free distribution with needs for training and fidelity to the model. We will publish our curriculum and support its effective dissemination. We will also empower program partners, key staff and researchers, to strategically share the research findings through conferences and written materials.\r\n \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -758,7 +779,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "14. How do you plan to scale the success of your proposal? 2500 characters\r\nThe demand for our signature Survivor Retreat Program has long exceeded its availability and reach. In response, we embarked on an ambitious three-year research project in partnership with Georgetown University to conduct retreats within a research model, evaluate their effectiveness, and create a replicable Retreat Model, which can be adopted by partner organizations and offered to survivors, professionals who serve them, and communities beyond our current capacity and scope. With the publication of the model as an evidenced-informed holistic intervention for survivors, agencies within the field will be able to solicit new funding opportunities and expand their offering of healing opportunities to survivors.\r\nIn Year Three of this project, up to three additional retreats will be offered to control group survivors at the conclusion of data collection. Advocates from partner agencies (Peace Over Violence, The Village Family Services and the YWCA of Greater Los Angeles) will shadow JHF staff in these retreats as part of their implementation training. JHF will then conduct a needs assessment of these partner agencies to assess for ability to effectively implement the model. A plan for implementation of the model at these agencies will be developed by JHF, who will provide ongoing technical assistance and mentorship through the implementation period.\r\n \r\nAdditionally, upon the completion of the research project, we will release a complete evaluation of the retreat development process, retreat experience, and post-retreat findings. We will create a dissemination strategy that balances free distribution with needs for training and fidelity to the model. We will publish our curriculum and support its effective dissemination. We will also empower program partners, key staff and researchers, to strategically share the research findings through conferences and written materials.\r\n \r\n"
-body_class: blueberry
+body_class: lime
 organization_name: Joyful Heart Foundation
 published: true
 

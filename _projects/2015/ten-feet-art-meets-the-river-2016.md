@@ -16,7 +16,7 @@ Please specify below: >-
   River adjacent communities of Frog Town, Atwater Village, Cypress Park, Echo
   Park, Silver Lake and Downtown, cyclists, joggers, walkers and other roller
   visitors from all over the region.
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The 2015 10 FEET event brings together arts, culture, neighborhood and
   environmental groups to achieve unique and inspiring play along the river. The
@@ -252,6 +252,44 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We see the opportunity to create a long term program for the entire Los Angeles River to grow from our site this year of 2 miles, to 11 miles of arts and culture programs and events in 2016, to 32 miles in the City of Los Angeles and ultimately 51 miles of the entire river in the future.  To grow beyond a relatively small event and a series of after school and weekend activities we need to create a program structure and build our non profit to have the resources to work with multiple cities, the County of Los Angeles, open space conservancies, community based organizations and the US Army Corps of Engineers.   \r\n\r\nWe will build an advisory board, hire administration and technical staff, and continue our efforts to advocate for arts and culture in public and private river revitalization projects.  We will seek the resources and opportunity to develop a comprehensive and coordinated plan for the River that maximizes the opportunity for playful art and culture as an essential component of the anticipated and future revitalization projects.  The plan will include an approach to build long term resources and partnerships to sustain arts and culture on the River for the future as essential ingredients of great play.   We believe there are excellent partnerships possible with community based organizations, arts institutions, educational institutions, philanthropic organizations, and public agencies that do not currently exist. \r\n\r\nIf we are going to spend over a billion dollars of our public funds on habitat restoration, water quality and passive recreation in the next decade we should make sure that it will provide great intergenerational play opportunities along with education, work force opportunities and fuel for our City’s global creative economy.  Our efforts will be scaled according to the resources available.  Partnerships and financial support will expedite the process.  \r\n\r\nWe envision a generation of children and families growing up in Los Angeles who will think of the River as a memorable place that shaped their experiences and provided great places to play. \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      River adjacent communities of Frog Town, Atwater Village, Cypress Park,
+      Echo Park, Silver Lake and Downtown, cyclists, joggers, walkers and other
+      roller visitors from all over the region. 
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - >-
+      Get more people outdoors on the LA River Greenway  to experience the Los
+      Angeles River by foot, by bike, on skateboards or any other way they
+      prefer to have fun. Provide multiple art classes and events in an after
+      school program. 
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

@@ -13,7 +13,7 @@ project_summary: >-
   the garden networks they installed and maintain, at our South Los Angeles
   Youth-driven Neighborhood Food System sites.
 Please specify below: ''
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -149,6 +149,27 @@ maker_answers:
     We welcome local colleges to develop research projects that can help us
     improve our food production processes and entrepreneurial activities.
   How do you plan to scale the success of your proposal?: "From the get go, RootDown LA has developed its programming, taking a KEEP IT SIMPLE approach, so that it is easily replicable and can be quickly tailored to be relevant in any community.  Our various nutrition, culinary and horticultural trainings, lessons, classes, and cooking demos can be learned and replicated anywhere to help other communities build demand for, and create supplies of fresh food in their neighborhoods.\r\n\r\nTwo major multi-year federal grants provided us a window of opportunity where we were very generously funded in the past four years; we did not take that for granted.  We used that time to carefully develop our model for Youth-driven Neighborhood Food Systems (YDNFS) that could run, with or without very generous funding.  We wanted to develop a model neighborhood food system that could be initially launched in other neighborhoods for around $50,000, and maintained annually, for less than that.   \r\n\r\nIn the coming years, as we begin to have successes with our youth-led food businesses, we will have a new YDNFS model component, that could be replicated in other neighborhoods as well.  We imagine a day where a portion of proceeds from these youth-led enterprises could help launch new YDNFS sites in other South LA neighborhoods.\r\n\r\nWe are tracking our progress as we go, and creating “How-to” guides for each component of our programs.  We are also available to consult with other communities who may want help in replicating portions of our programs where they live.\r\n"
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Create jobs for youth in South Los Angeles
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Number of households below the self-sufficiency index
+    - Obesity rates
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -584,7 +605,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "From the get go, RootDown LA has developed its programming, taking a KEEP IT SIMPLE approach, so that it is easily replicable and can be quickly tailored to be relevant in any community.  Our various nutrition, culinary and horticultural trainings, lessons, classes, and cooking demos can be learned and replicated anywhere to help other communities build demand for, and create supplies of fresh food in their neighborhoods.\r\n\r\nTwo major multi-year federal grants provided us a window of opportunity where we were very generously funded in the past four years; we did not take that for granted.  We used that time to carefully develop our model for Youth-driven Neighborhood Food Systems (YDNFS) that could run, with or without very generous funding.  We wanted to develop a model neighborhood food system that could be initially launched in other neighborhoods for around $50,000, and maintained annually, for less than that.   \r\n\r\nIn the coming years, as we begin to have successes with our youth-led food businesses, we will have a new YDNFS model component, that could be replicated in other neighborhoods as well.  We imagine a day where a portion of proceeds from these youth-led enterprises could help launch new YDNFS sites in other South LA neighborhoods.\r\n\r\nWe are tracking our progress as we go, and creating “How-to” guides for each component of our programs.  We are also available to consult with other communities who may want help in replicating portions of our programs where they live.\r\n"
-body_class: blueberry
+body_class: lime
 organization_name: 'RootDown LA,  A project of Community Partners'
 published: true
 

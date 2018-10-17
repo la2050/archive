@@ -11,7 +11,7 @@ project_summary: >-
   some static content, we increase the chance they will come back and bring
   others.  
 Please specify below: 'Large Sports Venues, LA County'
-category: none
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We will create incredible interactive experiences that will bring together
   crowds, of anywhere from 2 to 20000 people, of all ages, races, and gender. By
@@ -169,6 +169,17 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Once we're in one sports venue, we'll continue to spread to the others fairly easily due to their competitive nature.\r\nIn time, we would spread to locations outside of LA county and improve the rest of California as well. \r\n\r\nIn addition, we will continue our outreach to local schools, partnering with them to do fundraisers and such, both small scale and at the large sports events. \r\nEventually, we would work to make all of LA more and more interactive."
+  Where will you be working?:
+    - 'Large Sports Venues, LA County'
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Attendance at major league sporting events
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

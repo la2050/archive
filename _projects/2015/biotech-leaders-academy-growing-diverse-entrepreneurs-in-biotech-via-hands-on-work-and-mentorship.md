@@ -15,7 +15,7 @@ project_summary: >-
   entrepreneurship academy that introduces them to the opportunities and
   pathways of creating a biotech startup.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LA Bioscience Hub (LABH) will help make LA the best place to create by
   fostering the next generation of diverse biotech entrepreneurs in our region. 
@@ -218,6 +218,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We intend to scale Biotech Leaders Academy in the following ways:\r\n- Establish stronger partnerships with academic institutions, particularly those with programs dedicated to increasing diversity in STEM, so that more students can connect with industry leaders and internships, and gain valuable biotech entrepreneurship skills. \r\n\r\n- Since we will have an established curriculum for the entrepreneurship academy, we can provide it to colleges and universities that are interested in expanding the program to their campus. \r\n\r\n- We will continue to grow our network of industry partners and foster stronger ties between the colleges and the private sector. Additionally, we will work with industry partners to create opportunities for longer-term internships.\r\n\r\n- We will create a more formal network of mentors that is comprised of industry leaders and professionals who host student interns, present during the entrepreneurship academy, or are generally interested in assisting students as they advance in their education.\r\n\r\n- Seek additional funding sources to support the internship match and course component. "
+  Where will you be working?:
+    - East LA
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Federal research grant funding
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Number of high growth startups
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -645,7 +668,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We intend to scale Biotech Leaders Academy in the following ways:\r\n- Establish stronger partnerships with academic institutions, particularly those with programs dedicated to increasing diversity in STEM, so that more students can connect with industry leaders and internships, and gain valuable biotech entrepreneurship skills. \r\n\r\n- Since we will have an established curriculum for the entrepreneurship academy, we can provide it to colleges and universities that are interested in expanding the program to their campus. \r\n\r\n- We will continue to grow our network of industry partners and foster stronger ties between the colleges and the private sector. Additionally, we will work with industry partners to create opportunities for longer-term internships.\r\n\r\n- We will create a more formal network of mentors that is comprised of industry leaders and professionals who host student interns, present during the entrepreneurship academy, or are generally interested in assisting students as they advance in their education.\r\n\r\n- Seek additional funding sources to support the internship match and course component. "
-body_class: blueberry
+body_class: banana
 organization_name: Los Angeles Bioscience Hub
 published: true
 

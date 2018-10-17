@@ -13,7 +13,7 @@ project_summary: >-
   community open mic. Each district will feature one workshop for English
   speakers, and another for Spanish speakers.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Public libraries are a wonderful social invention, especially when they become
   dynamic centers for community, learning, reading, and connection. For the
@@ -200,6 +200,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "This project presents our organization with the exciting possibility of laying the foundation for a new level of creative work throughout the city of Los Angeles, both during this project and continuing afterwards. Our consistent interest in engaging and building authentic empowered communities through the arts is a matter of record. As we prepare to celebrate our fifteenth-year milestone in 2016, we are meeting with stakeholders at all levels of the organization--from board members, staff members, collaborators, facilitators, volunteers and  community members--to envision the next period of our growth, sustainability and relevance to the community we serve. \r\n\r\nThis examination of our trajectory includes reimagining the boundaries of who and where that community exists, and how we can collectively reach it. The need to infuse the arts into a whole new myriad of community spaces and activities is essential to revitalizing the discussion of what it means to be alive, creative and present in the world. Our surroundings and relationships reveal the need for new ideas, new ways of solving our common problems and of appreciating our shared dreams. The prospect of putting the full creative weight of the arts and artists into the mix to make a real difference citywide is worth contributing our gifts to and supporting.\r\n\r\nThis project is expressive of our desire to move this work further along these lines, now and in the future.\r\n\r\nBecause of the unique approach of community engagement through this project we have begun to identify other foundations that have this as their funding priorities such as the James Irvine Foundation and their Exploring Engagement Fund Grant. We also hope that this project can be a catalyst to bring together many more collaborators around Los Angeles who are doing great work around poetry and expand the partnership to potentially develop a city-wide crowdsourcing campaign to expand the work to a larger scale. "
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -617,7 +634,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "This project presents our organization with the exciting possibility of laying the foundation for a new level of creative work throughout the city of Los Angeles, both during this project and continuing afterwards. Our consistent interest in engaging and building authentic empowered communities through the arts is a matter of record. As we prepare to celebrate our fifteenth-year milestone in 2016, we are meeting with stakeholders at all levels of the organization--from board members, staff members, collaborators, facilitators, volunteers and  community members--to envision the next period of our growth, sustainability and relevance to the community we serve. \r\n\r\nThis examination of our trajectory includes reimagining the boundaries of who and where that community exists, and how we can collectively reach it. The need to infuse the arts into a whole new myriad of community spaces and activities is essential to revitalizing the discussion of what it means to be alive, creative and present in the world. Our surroundings and relationships reveal the need for new ideas, new ways of solving our common problems and of appreciating our shared dreams. The prospect of putting the full creative weight of the arts and artists into the mix to make a real difference citywide is worth contributing our gifts to and supporting.\r\n\r\nThis project is expressive of our desire to move this work further along these lines, now and in the future.\r\n\r\nBecause of the unique approach of community engagement through this project we have begun to identify other foundations that have this as their funding priorities such as the James Irvine Foundation and their Exploring Engagement Fund Grant. We also hope that this project can be a catalyst to bring together many more collaborators around Los Angeles who are doing great work around poetry and expand the partnership to potentially develop a city-wide crowdsourcing campaign to expand the work to a larger scale. "
-body_class: blueberry
+body_class: banana
 organization_name: Tia Chucha's Centro Cultural
 published: true
 

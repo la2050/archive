@@ -13,7 +13,7 @@ project_summary: >-
   economists to develop strategies for distributed leadership for policies and
   practices that make Vision 80 a reality. 
 Please specify below: ''
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   "Let's remember that happiness is a powerful tool for improving health.
   Creating more happiness in our lives and the lives of the people around us can
@@ -198,6 +198,43 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Los Angeles Well-Being Project will  be designed to be able to scale to other cities across the U.S. via its technology infrastructure.   HappyCity also has volunteer hosts in other cities and has a goal to expand to 10 cities by March 2016, all which would adopt the methodology that will be developed through this project.\r\n\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Obesity rates
+    - Housing affordability
+    - Rates of homelessness
+    - Walk/bike/transit score
+    - Rates of mental illness
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -617,7 +654,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Los Angeles Well-Being Project will  be designed to be able to scale to other cities across the U.S. via its technology infrastructure.   HappyCity also has volunteer hosts in other cities and has a goal to expand to 10 cities by March 2016, all which would adopt the methodology that will be developed through this project.\r\n\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: HappyCity Los Angeles
 published: true
 

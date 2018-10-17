@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "RCLA helps local leaders hold first-time offenders accountable for the crimes they commit and, in the process, build community.\r\n\r\nBy partnering with prosecuting agencies, RCLA will divert first-time offenders from the criminal justice system before charges are filed and into a volunteer-led program whose goal is to reconnect the first-time offender, who may feel isolated, ashamed, and  disconnected, back into the community through service, dialogue, and referral to community resources. "
 Please specify below: ''
-category: live
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our criminal justice system is overburdened, expensive, and not particularly
   effective at reducing crime. Meanwhile, traditional prosecution and sentencing
@@ -168,6 +168,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The success and scaling of RCLA depends on prosecuting agencies understanding the need for a diversion that involves community members in dealing with low-level property crimes and/or first-time offenders who have been disconnected from their communities. \r\n\r\nThe ultimate goal of the RCLA campaign would be to have every municipality that prosecutes its own misdemeanors in Los Angeles County to have some sort of RCLA program running, thereby maximizing the number of would-be defendants diverted from the criminal justice system . The inclusive, community-oriented model that RCLA is based on is naturally scaleable as long as there is funding for RCLA case managers. This is the one of the strengths of RCLA program design in response to a dire need: The criminal justice system simply has too many cases in order to be effective. Therefore, the only challenge that exists with regard to scaling is the willingness of prosecutors to try something new.\r\n"
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -562,7 +579,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The success and scaling of RCLA depends on prosecuting agencies understanding the need for a diversion that involves community members in dealing with low-level property crimes and/or first-time offenders who have been disconnected from their communities. \r\n\r\nThe ultimate goal of the RCLA campaign would be to have every municipality that prosecutes its own misdemeanors in Los Angeles County to have some sort of RCLA program running, thereby maximizing the number of would-be defendants diverted from the criminal justice system . The inclusive, community-oriented model that RCLA is based on is naturally scaleable as long as there is funding for RCLA case managers. This is the one of the strengths of RCLA program design in response to a dire need: The criminal justice system simply has too many cases in order to be effective. Therefore, the only challenge that exists with regard to scaling is the willingness of prosecutors to try something new.\r\n"
-body_class: lime
+body_class: tangerine
 organization_name: Justice Lab
 published: true
 

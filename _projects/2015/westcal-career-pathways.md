@@ -13,7 +13,7 @@ project_summary: >-
   Academy also assists with connecting students with potential mentors who work
   in their field of major.
 Please specify below: ''
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Student success is primarily measured in terms of high school and college
   completion rates. There are elements that do not recognize student success as
@@ -287,6 +287,43 @@ maker_answers:
     Long Beach. WestCal Academy has twenty industry speakers / educators who are
     committed to the program. The issue for WestCal Academy is how to secure
     additional funds to assure successful scalability.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -758,7 +795,7 @@ maker_answers_list:
       speakers / educators who are committed to the program. The issue for
       WestCal Academy is how to secure additional funds to assure successful
       scalability.
-body_class: strawberry
+body_class: blueberry
 organization_name: WestCal Academy
 published: true
 

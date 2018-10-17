@@ -15,7 +15,7 @@ project_summary: >-
   projection system, leveraging our industry contacts to secure films and
   negotiate lower screening fees, cross promotion.
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The past two editions of our community driven, month long documentary tour has
   proven our experiment of intervening public spaces with documentary
@@ -293,6 +293,30 @@ maker_answers:
   How do you plan to scale the success of your proposal?: >-
     by working withour 40 plus filmmakers and providing each of them access to
     our projection and program
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+  How will your proposal improve the following “Connect” metrics?:
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -769,7 +793,7 @@ maker_answers_list:
     answer: >-
       by working withour 40 plus filmmakers and providing each of them access to
       our projection and program
-body_class: blueberry
+body_class: tangerine
 organization_name: Ambulante
 published: true
 

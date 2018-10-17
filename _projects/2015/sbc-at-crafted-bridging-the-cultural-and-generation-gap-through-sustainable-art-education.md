@@ -15,7 +15,7 @@ project_summary: >-
   workshops that emphasize community, connection and the exchange of ideas
   between people of all backgrounds and ages.
 Please specify below: 'San Pedro, Los Angeles, South Bay'
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   South Bay Contemporary (SBC), a non-profit arts organization dedicated to
   building the arts in the South Bay area of Los Angeles, has a 10 year track
@@ -199,6 +199,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "How do you plan to scale the success of your project?2500\r\n\r\nDuring our successful year at CRAFTED, SBC will work to find funding to continue the program at the LA Waterfront, and to expand the program to other areas of Los Angeles.  List other organizations that may potentially want to partner for space and support the projects expansion… \r\nWe hope that we can continue the program of exhibitions and workshops at the CRAFTED location.  There is potential to develop a similar program at the Anderson Senior Center "
+  Where will you be working?:
+    - South Bay
+    - City of Los Angeles
+    - 'San Pedro, Los Angeles, South Bay'
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -602,7 +622,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "How do you plan to scale the success of your project?2500\r\n\r\nDuring our successful year at CRAFTED, SBC will work to find funding to continue the program at the LA Waterfront, and to expand the program to other areas of Los Angeles.  List other organizations that may potentially want to partner for space and support the projects expansion… \r\nWe hope that we can continue the program of exhibitions and workshops at the CRAFTED location.  There is potential to develop a similar program at the Anderson Senior Center "
-body_class: blueberry
+body_class: tangerine
 organization_name: 'South Bay Contemporary, CRAFTED'
 published: true
 

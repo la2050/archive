@@ -14,7 +14,7 @@ project_summary: >-
   activity, safe alternatives to gang involvement, and positive youth
   development experiences. 
 Please specify below: ''
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Bresee will make LA the best place to play by transforming an underutilized
   parking lot into a state-of-the-art multi-sport facility. Bresee’s Safe Place
@@ -200,6 +200,22 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Bresee plans to scale the success of its Safe Place to Play Multi-Sport Court by serving as a model for KaBoom! and the US Soccer Foundation’s Lets Play Initiative, which seeks to transform underutilized spaces in underserved neighborhoods into designated places to play. This will allow Bresee to lead the way in creating safe places where youth and families have access to healthy physical activity, safe alternatives to gang involvement, and positive youth development activities.\r\n\r\nAdditionally, Bresee is currently seeking to partner with the new Major League Soccer Team LAFC to replicating its sports programming in other high need areas of Los Angeles including East Los Angeles, West Los Angeles, South Los Angeles, Pacoima, Mar Vista, and Venice. Lastly, Bresee envisions current program participants returning as college graduates to expand services to other areas in Los Angeles and to continue Bresee’s track record of creating the next generation of community leaders.\r\n"
+  Where will you be working?:
+    - Central LA
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -576,7 +592,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Bresee plans to scale the success of its Safe Place to Play Multi-Sport Court by serving as a model for KaBoom! and the US Soccer Foundation’s Lets Play Initiative, which seeks to transform underutilized spaces in underserved neighborhoods into designated places to play. This will allow Bresee to lead the way in creating safe places where youth and families have access to healthy physical activity, safe alternatives to gang involvement, and positive youth development activities.\r\n\r\nAdditionally, Bresee is currently seeking to partner with the new Major League Soccer Team LAFC to replicating its sports programming in other high need areas of Los Angeles including East Los Angeles, West Los Angeles, South Los Angeles, Pacoima, Mar Vista, and Venice. Lastly, Bresee envisions current program participants returning as college graduates to expand services to other areas in Los Angeles and to continue Bresee’s track record of creating the next generation of community leaders.\r\n"
-body_class: blueberry
+body_class: strawberry
 organization_name: P.F. Bresee Foundation
 published: true
 

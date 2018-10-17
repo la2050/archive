@@ -12,7 +12,7 @@ project_summary: >-
   in at full volume, state of the art music equipment at their disposal, and a
   safe creative environment in which to practice music and let their ideas flow.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We live in the entertainment capitol, with the music industry based in Los
   Angeles. With gentrification happening at an alarming rate in DTLA, there are
@@ -212,6 +212,30 @@ maker_answers:
     Angeles. We will surely form relationships with these kids and hope to
     inspire them with a supportive environment to create and eventually take
     their ideas around the world like we have. 
+  Where will you be working?:
+    - East LA
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Minority- and women-owned firms
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -644,7 +668,7 @@ maker_answers_list:
       Angeles. We will surely form relationships with these kids and hope to
       inspire them with a supportive environment to create and eventually take
       their ideas around the world like we have. 
-body_class: blueberry
+body_class: banana
 organization_name: Eastside Rehearsal
 published: true
 

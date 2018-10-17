@@ -9,7 +9,7 @@ project_summary: >-
   entrepreneurship skills through Technovation's open source curriculum and
   professional mentorship. 
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Technovation gives girls the opportunity to create mobile apps to solve
   problems in their community. Through this program young girls will develop
@@ -175,6 +175,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Technovation is in the process of scaling up. We had app submissions from across 30 plus countries in 2015. For the 2016 season, we are hoping to expand to new countries and scale in existing ones. This grant will allow us to offer the program to more girls in LA area. We will have the resources to support the girls through a Regional Ambassador and largely local mentors, thereby improving the quality of the program.\r\nTechnovation model is easy to replicate and scale. With an online curriculum and option of in-person or virtual mentoring, teachers or students in any part of the world can create teams and participate in the competition.\r\nFor the 2017 cycle, we hope to recruit the participants from the 2016 cycle as student ambassadors to help with outreach and support for future teams. \r\nWe recently launched a platform to involve Technovation Alumnae in scaling the program. SprEdTech, created by Amrita Venkatraman, a Technovation alumnae, is an initiative to encourage girls (grade 6 to grade 12) to develop an early interest in technology. Technovation alumnae are encouraged to become ambassadors through SprEdTech and spread the word about using coding and technology to create innovative products. Ambassadors will recruit and mentor future Technovation teams, lead technology workshops, and much more! \r\n"
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Create” metrics?:
+    - Number of high growth startups
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -581,7 +604,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Technovation is in the process of scaling up. We had app submissions from across 30 plus countries in 2015. For the 2016 season, we are hoping to expand to new countries and scale in existing ones. This grant will allow us to offer the program to more girls in LA area. We will have the resources to support the girls through a Regional Ambassador and largely local mentors, thereby improving the quality of the program.\r\nTechnovation model is easy to replicate and scale. With an online curriculum and option of in-person or virtual mentoring, teachers or students in any part of the world can create teams and participate in the competition.\r\nFor the 2017 cycle, we hope to recruit the participants from the 2016 cycle as student ambassadors to help with outreach and support for future teams. \r\nWe recently launched a platform to involve Technovation Alumnae in scaling the program. SprEdTech, created by Amrita Venkatraman, a Technovation alumnae, is an initiative to encourage girls (grade 6 to grade 12) to develop an early interest in technology. Technovation alumnae are encouraged to become ambassadors through SprEdTech and spread the word about using coding and technology to create innovative products. Ambassadors will recruit and mentor future Technovation teams, lead technology workshops, and much more! \r\n"
-body_class: blueberry
+body_class: banana
 organization_name: Iridescent
 published: true
 

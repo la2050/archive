@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "Since 1992, our at-sea programs have proven the effectiveness of adventure learning experiences for at-risk youth in Los Angeles, making a direct impact on educational, economic, and social outcomes for more than 60,000 young people. \r\n\r\nWith this grant, we will provide 40 at-sea programs for middle schools who cannot afford to pay and are already on our waiting list, and \"free\" community programs (Sail LA!) where Angelenos can sail with their families and become part of a real working crew."
 Please specify below: ''
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our “learning by doing” programs have been operating on the L.A. Waterfront
   for 23 years. Our proven ability to reach students in new and compelling ways,
@@ -200,6 +200,43 @@ maker_answers:
     Once our third vessel, the Swift of Ipswich, has been fully restored and is
     placed back in the water, we will be able to expand our program by more than
     30%.
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -612,7 +649,7 @@ maker_answers_list:
       annually. Once our third vessel, the Swift of Ipswich, has been fully
       restored and is placed back in the water, we will be able to expand our
       program by more than 30%.
-body_class: strawberry
+body_class: blueberry
 organization_name: Los Angeles Maritime Institute
 published: true
 

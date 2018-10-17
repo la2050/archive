@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "SeePolitical is in negotiations with 3 major universities located in Los Angeles to establish the first SeePolitical Institute. \r\n\r\nEstablishment of the SeePolitical Institute will create a proven sustainable model by which college students research issues confronting voters and produce nonpartisan educational content for public consumption. "
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   SeePolitical is an interactive website, widget and mobile app providing
   objective, easily understood information about ballot propositions for all
@@ -188,6 +188,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Establishing the first SeePolitical Institute in Los Angeles is just the beginning. We are creating a model for other states to adopt our program to provide nonpartisan information on state and local issues and elections. \r\n\r\nSeePolitical will establish similar relationships with universities in all 50 states, by which their students enter our program or fellowship to research and explain the issues confronting their states' voters.  \r\n\r\nA gift from the Goldhirsh Foundation this year will establish a reputation for improving civic literacy across the city, state and soon the nation!"
+  Where will you be working?:
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -585,7 +607,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Establishing the first SeePolitical Institute in Los Angeles is just the beginning. We are creating a model for other states to adopt our program to provide nonpartisan information on state and local issues and elections. \r\n\r\nSeePolitical will establish similar relationships with universities in all 50 states, by which their students enter our program or fellowship to research and explain the issues confronting their states' voters.  \r\n\r\nA gift from the Goldhirsh Foundation this year will establish a reputation for improving civic literacy across the city, state and soon the nation!"
-body_class: blueberry
+body_class: tangerine
 organization_name: SeePolitical
 published: true
 

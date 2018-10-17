@@ -11,7 +11,7 @@ project_summary: >-
   and fun for anyone who’s excited to face the challenge of overcoming
   obstacles. Find your path and take action!
 Please specify below: ''
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Just like any other fast growing individual and/or non-traditional sport,
   Freerunning is currently taking place throughout LA in the streets or across
@@ -193,6 +193,29 @@ maker_answers:
     opportunity to enjoy a TMPST Action Park. These Action Parks can also be a
     destination for local schools to help teach physical education and bring fun
     through fitness!
+  Where will you be working?:
+    - San Fernando Valley
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -598,7 +621,7 @@ maker_answers_list:
       opportunity to enjoy a TMPST Action Park. These Action Parks can also be a
       destination for local schools to help teach physical education and bring
       fun through fitness!
-body_class: blueberry
+body_class: strawberry
 organization_name: Tempest Action Parks
 published: true
 

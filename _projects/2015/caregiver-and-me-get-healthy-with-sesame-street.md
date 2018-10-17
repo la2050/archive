@@ -13,7 +13,7 @@ project_summary: >-
   and challenges of engaging the family, friend and neighbor community caring
   for an estimated 97,000 children in LA.
 Please specify below: ''
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We will make LA the Healthiest place to live by changing the trajectory of
   children’s health in targeted high need areas. Instilling healthy habits in
@@ -262,6 +262,27 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "After we measure the success and lessons learned from the pilot, we are going to write a white paper detailing our experiences.  Showing not only how the overall program was set up and administered but how the different groups of people throughout the license exempt community responded to it.  The goal is to make it easy for other agencies to easily replicate the efforts and learn from our lessons for a successful license exempt outreach plan and class format.\r\n\r\nThere are many changes coming to the child care world through the new federal and state regulations after the Child Care Development Block Grant was signed into law.  One of these big changes is required 10 health and safety trainings.  It is imperative agencies intending to train the license exempt providers receiving subsidies know how to engage this notoriously isolated group of people in a learning opportunities.\r\n\r\nChildren 0-5 are in the care of family members or friends, most likely their grandparents.  These caregivers know how they raised their children and their cultural preferences.  They are not taking into consideration the impact they are having on the child’s weight, nutrient intake and brain development. This set of caregivers need an additional support system and messaging directed just to them.  They are family members and see themselves as such, not as babysitters, caregivers, providers or teachers.  Therefore, we will also reach out to organizations such as Generations United, AARP and other Grandfamilies organizations to consider what a partnership might look like to provide the class throughout these networks.\r\n\r\nThe website with all of the information and how to replicate these efforts will be maintained so the general public will always have access to the white paper, lessons learned and ways to replicate what we accomplished.\r\n"
+  Where will you be working?:
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+    - Prevalence of adverse childhood experiences (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -710,7 +731,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "After we measure the success and lessons learned from the pilot, we are going to write a white paper detailing our experiences.  Showing not only how the overall program was set up and administered but how the different groups of people throughout the license exempt community responded to it.  The goal is to make it easy for other agencies to easily replicate the efforts and learn from our lessons for a successful license exempt outreach plan and class format.\r\n\r\nThere are many changes coming to the child care world through the new federal and state regulations after the Child Care Development Block Grant was signed into law.  One of these big changes is required 10 health and safety trainings.  It is imperative agencies intending to train the license exempt providers receiving subsidies know how to engage this notoriously isolated group of people in a learning opportunities.\r\n\r\nChildren 0-5 are in the care of family members or friends, most likely their grandparents.  These caregivers know how they raised their children and their cultural preferences.  They are not taking into consideration the impact they are having on the child’s weight, nutrient intake and brain development. This set of caregivers need an additional support system and messaging directed just to them.  They are family members and see themselves as such, not as babysitters, caregivers, providers or teachers.  Therefore, we will also reach out to organizations such as Generations United, AARP and other Grandfamilies organizations to consider what a partnership might look like to provide the class throughout these networks.\r\n\r\nThe website with all of the information and how to replicate these efforts will be maintained so the general public will always have access to the white paper, lessons learned and ways to replicate what we accomplished.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: >-
   T&L Foundation for Child Care Information, Child Care Alliance of Los Angeles,
   Magnolia Place Family Center (Children's Bureau), Los Angeles County

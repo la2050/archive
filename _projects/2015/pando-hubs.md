@@ -13,7 +13,7 @@ project_summary: >-
   create and support new centers of ecological living, work and innovation.  We
   call these places Pando Hubs.
 Please specify below: ''
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   This is a 9-mo. pilot project that lays the foundation for building ecological
   civilization in LA -- one urban hub at a time.
@@ -268,6 +268,33 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We are launching a pilot project to explore how best to create an ecological civilization in LA, one Pando Hub at a time.  \r\n\r\nWe scale from 0 to 10 by identifying locations that are currently on the LA landscape, understanding the key features that make them work (as well as the features that don't), testing out small-bet ideas for nurturing them, and then developing models for Pando Hubs that are both meaningful in terms of creating an ecological civilization and flexible enough to meet the diversity of opportunity. \r\n\r\nThis growth can be achieved during the pilot period by working with the Pando Corps collaborators we've identified, along with others within our network.  Some additional growth will be achieved organically as we extend the Corps network and ideas spread. \r\n\r\nThe next stage of significant growth will be achieved as we create development models that respond to the most promising range of funding opportunities.  These funding opportunities likely include a full range of for-profit, non-profit, and government sources. \r\n\r\nOne model of a Pando Hub, for instance, might appeal to millennials interested in an urban intentional community; another might offer a low-cost veteran housing solution; another might function more as an urban farm and organic food-producing center. The examples are less important than the fact that each likely offers the opportunity for a different kind of funding structure and/or different model of ownership. The top tier opportunities (assessed according to feasibility and need) will be developed and tested in further pilot projects.\r\n\r\nEventually, Pando Hubs will scale on a franchise model of growth, by which we would provide the branding, a planbook(s) for implementation, and a specialist network. \r\n"
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Percent of imported water
+    - Obesity rates
+    - Housing affordability
+    - Rates of homelessness
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -679,7 +706,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We are launching a pilot project to explore how best to create an ecological civilization in LA, one Pando Hub at a time.  \r\n\r\nWe scale from 0 to 10 by identifying locations that are currently on the LA landscape, understanding the key features that make them work (as well as the features that don't), testing out small-bet ideas for nurturing them, and then developing models for Pando Hubs that are both meaningful in terms of creating an ecological civilization and flexible enough to meet the diversity of opportunity. \r\n\r\nThis growth can be achieved during the pilot period by working with the Pando Corps collaborators we've identified, along with others within our network.  Some additional growth will be achieved organically as we extend the Corps network and ideas spread. \r\n\r\nThe next stage of significant growth will be achieved as we create development models that respond to the most promising range of funding opportunities.  These funding opportunities likely include a full range of for-profit, non-profit, and government sources. \r\n\r\nOne model of a Pando Hub, for instance, might appeal to millennials interested in an urban intentional community; another might offer a low-cost veteran housing solution; another might function more as an urban farm and organic food-producing center. The examples are less important than the fact that each likely offers the opportunity for a different kind of funding structure and/or different model of ownership. The top tier opportunities (assessed according to feasibility and need) will be developed and tested in further pilot projects.\r\n\r\nEventually, Pando Hubs will scale on a franchise model of growth, by which we would provide the branding, a planbook(s) for implementation, and a specialist network. \r\n"
-body_class: blueberry
+body_class: lime
 organization_name: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
 published: true
 

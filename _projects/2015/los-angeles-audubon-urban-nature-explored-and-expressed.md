@@ -9,7 +9,7 @@ Please specify below: >-
   Ballona Wetlands, Baldwin Hills Scenic Overlook State Park, Kenneth Hahn State
   Rec.Area, Venice & Dockweiler Beach, Esperanza Elementary School, and other
   schools within LAUSD, and Venice Arts.
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   URBAN NATURE EXPLORED: LAAS will engage the public, students, teachers, and
   community volunteers in nature activities, field trips, and after-school
@@ -309,6 +309,34 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We plan to scale our successful proposal by growing environmental leaders. We base this proposal on our past successes and activities. LAAS board members and staff served on the LAUSD Task Force for Outdoor Education and are currently conducting a Teacher Fellowship program that will show teachers how to replicate our program in their own schoolyards, using the outdoors as a classroom for all subjects with curricula aligned to meet state teaching standards. LAAS’ dedicated education staff has kept pace with the growing interest in our environmental programs by hiring student graduates from our program to work with under-served students as mentors and project coordinators. This year, NINE of our alumni taught workshops at our initial Outdoor Education ‘Boot Camp’ at Baldwin Hills for high school interns and restoration leaders. Additionally, we offer high school students a paid internship to study environmental science. Our program provides hands-on work and research experience, mentorship and community service opportunities, and supports students in their college application process. And, bottom line, the students have fun while participating in this demanding program.  We plan to continue to expand our internship program that is investing in the hard work and dedication of our students who are in turn improving green spaces in urban LA. Our future goal is to develop and offer a Community Stewardship Program at a local community college. \r\n\r\nUrban Nature Explored/Expressed will: \r\n* foster a strong connection between under-served communities and    local parks, beaches and open spaces\r\n* engage urban students in hands-on stewardship activities that improve LA’s green spaces for everyone\r\n* empower the next generation of environmental stewards to communicate through art the power of nature in LA\r\n* invest in unemployed/under-employed youth with paid internships in outdoor education and environmental conservation\r\n* increase the number of students having access to nature\r\n* increase the number of children enrolled in after-school programs\r\n* spark new environmental thinking, research and action through student-led community events\_\r\n* collaborate with partners to develop creative ways to spread the importance of conserving nature in LA\r\n"
+  Where will you be working?:
+    - Central LA
+    - South LA
+    - Westside
+    - >-
+      Ballona Wetlands, Baldwin Hills Scenic Overlook State Park, Kenneth Hahn
+      State Rec.Area, Venice & Dockweiler Beach, Esperanza Elementary School,
+      and other schools within LAUSD, and Venice Arts.
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

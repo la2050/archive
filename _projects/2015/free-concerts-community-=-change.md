@@ -13,7 +13,7 @@ project_summary: >-
   connect audiences to artists and each other resulting in greater participation
   in L.A.’s cultural and civic life.
 Please specify below: ''
-category: all
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   GP believes that access to the arts should be a right and not a privilege and
   that the arts play a critical role in healthy communities. Since 1987, a
@@ -244,6 +244,27 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "A successful LA2050 project will raise the profile of Grand Performances, reinvigorate our base of supporters, and educate a whole new constituency about our values and mission. Most importantly it will support three core priorities of a three year strategic plan 2015-17 that will propel GP’s artistic reputation, organizational vitality and sustainability for years to come. \r\n\r\nEXPAND AUDIENCE BREADTH AND ENGAGEMENT\r\nGP will use data garnered from LA2050 surveys to better understand what motivates our audiences and test various modes of communication to reach deep and repeatedly into communities.\r\n\r\nGP will continue to create cross-sector opportunities that will expand our audience reach while bringing information about our partners’ services to all of the people in our audiences.   \r\n\r\nGP will position its programs be even more involved in LA neighborhoods; GP leadership has been in conversation with elected officials who are interested in securing special funding to bring GP programs to their districts because not all residents are willing and able to travel to Downtown for programs.\r\n\r\nGP will engage with more community-based organizations to reach the “high-hanging fruit” – those people, who for various cultural reasons are least likely to become part of our audiences.\r\n\r\nGP will deepen our relationships with artists who want to create work of importance and relevance to LA; and, in other ways, expand on our mission to bring performing arts to diverse audiences.\r\n\r\nENHANCE AND DIVERSIFY FUNDING\r\nGP is establishing partnerships with several new sponsors and new potential funders that are recognizing we are a mission-driven performing arts organization with high standards for presentation and audience development and an eye on demonstrating the role that the arts play in civil societies. \r\n\r\nGP has been in conversations with a number of government agencies and leading foundations to discuss partnerships and support for initiatives and expanded community engagement.\r\n\r\nSTRENGTHEN ORGANIZATIONAL INFRASTRUCTURE AND LEADERSHIP\r\nMost importantly, our board is committed to expanding its membership and securing the broad-based support needed to connect Angelenos all the way to 2050!"
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -646,7 +667,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "A successful LA2050 project will raise the profile of Grand Performances, reinvigorate our base of supporters, and educate a whole new constituency about our values and mission. Most importantly it will support three core priorities of a three year strategic plan 2015-17 that will propel GP’s artistic reputation, organizational vitality and sustainability for years to come. \r\n\r\nEXPAND AUDIENCE BREADTH AND ENGAGEMENT\r\nGP will use data garnered from LA2050 surveys to better understand what motivates our audiences and test various modes of communication to reach deep and repeatedly into communities.\r\n\r\nGP will continue to create cross-sector opportunities that will expand our audience reach while bringing information about our partners’ services to all of the people in our audiences.   \r\n\r\nGP will position its programs be even more involved in LA neighborhoods; GP leadership has been in conversation with elected officials who are interested in securing special funding to bring GP programs to their districts because not all residents are willing and able to travel to Downtown for programs.\r\n\r\nGP will engage with more community-based organizations to reach the “high-hanging fruit” – those people, who for various cultural reasons are least likely to become part of our audiences.\r\n\r\nGP will deepen our relationships with artists who want to create work of importance and relevance to LA; and, in other ways, expand on our mission to bring performing arts to diverse audiences.\r\n\r\nENHANCE AND DIVERSIFY FUNDING\r\nGP is establishing partnerships with several new sponsors and new potential funders that are recognizing we are a mission-driven performing arts organization with high standards for presentation and audience development and an eye on demonstrating the role that the arts play in civil societies. \r\n\r\nGP has been in conversations with a number of government agencies and leading foundations to discuss partnerships and support for initiatives and expanded community engagement.\r\n\r\nSTRENGTHEN ORGANIZATIONAL INFRASTRUCTURE AND LEADERSHIP\r\nMost importantly, our board is committed to expanding its membership and securing the broad-based support needed to connect Angelenos all the way to 2050!"
-body_class: strawberry
+body_class: tangerine
 organization_name: Grand Performances
 published: true
 

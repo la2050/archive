@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "The Arroyo River Parks Program (ARPP) will build community support for re-imagining our watershed from a sterile concrete channel to a vibrant river ecosystem.\r\n\r\nThe ARPP program will educate citizens about the river revitalization planned by the Army Core of Engineers on the Arroyo Seco Stream in Los Angeles County.\r\n\r\nTo reach out to the community we want to establish a native plant nursery that will be the central location of our effort to reconnect the community to the LA River Watershed."
 Please specify below: ''
-category: 0createplay0
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The Arroyo Seco Stream that begins in the San Gabriel Mountains is a major
   tributary of the Los Angeles River with its confluence at the 110 FWY and the
@@ -197,6 +197,28 @@ maker_answers:
     like to see a huge public participation in the public comment period for the
     USCAE's plan.  We also want build enough capacity at our nursery to provide
     regionally adapted native plants for restoration. 
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Implement and track policy
+    - Provide native plants for restoration and education.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -612,7 +634,7 @@ maker_answers_list:
       like to see a huge public participation in the public comment period for
       the USCAE's plan.  We also want build enough capacity at our nursery to
       provide regionally adapted native plants for restoration. 
-body_class: strawberry
+body_class: tangerine
 organization_name: Arroyo Seco Foundation
 published: true
 

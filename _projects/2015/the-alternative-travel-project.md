@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "We're here to be of service to Los Angeles' public transit systems, and to start a dialogue about what we can all do to help create safer & more accessible alternative transit. \r\n\r\nWe genuinely believe support for car-free transportation infrastructure will create a better Los Angeles.\r\n\r\nThrough our efforts we aim to increase public usage of ATP infrastructure & we will work with lawmakers to create a more expansive & even safer system.\r\n"
 Please specify below: ''
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   WHY IT'S IMPORTANT: By 2030, roughly 1 billion more people will be living in
   cities (creating a Buenos Aires-sized city every 3 weeks for the next 15
@@ -182,6 +182,31 @@ maker_answers:
     Falling short of that, our second tier (but no less meaningful) successes
     would be to educate people about the importance of the concepts proposed by
     ATP & to network with likeminded individuals.
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Exposure to air toxins
+    - Obesity rates
+    - Walk/bike/transit score
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -595,7 +620,7 @@ maker_answers_list:
       Falling short of that, our second tier (but no less meaningful) successes
       would be to educate people about the importance of the concepts proposed
       by ATP & to network with likeminded individuals.
-body_class: strawberry
+body_class: lime
 organization_name: the Alternative Travel Project
 published: true
 

@@ -16,7 +16,7 @@ Please specify below: >-
   CII Otis Booth Campus Westlake/Rampart Los Angeles; CII New Hampshire Campus
   Koreatown Los Angeles; CII Watts Campus Watts Los Angeles; CII Burton E. Green
   Campus Torrance, LA County; and at 29 early education sites in Los Angeles.
-category: 00playlive
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   CII is working to make Los Angeles the healthiest place to live by helping our
   future generations of residents be the healthiest they can be. Serving today’s
@@ -233,6 +233,36 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "CII developed a Business Plan for 2012-2017, laying out the agency’s vision for the future: To transform the lives of thousands of children who have been affected by violence or other Adverse Childhood Experiences (ACEs) by helping them recover from trauma, build resiliency, and become ready for success in school, work, and life. \r\n\r\nTo carry out this vision, CII established three strategic imperatives:\r\n\r\n1. Scale up CII’s Integrated Services Model: At the end of 5 years, CII will fill the gaps in program services to ensure that double the number of children and families receive multiple (3+) coordinated services.\r\n\r\n2. Replicate the CII model in Watts: At the end of 5 years, CII will have replicated its Integrated Services Model in Watts and begun construction on a state-of-the-art facility that will reach 5,000 children and caregivers a year in CA’s highest-need community. \r\n\r\n3. Expand research and training efforts to improve practice and influence policy: At the end of 5 years, CII will have developed and disseminated a body of evidence documenting the effectiveness of CII’s Integrated Services Model. \r\n\r\nThrough these imperatives, and with the support of funders like LA 2050, CII will expand its services to reach 25,000 children and caregivers a year. CII will also build a body of evidence on the effectiveness of the “whole child, entire family” model— which will contribute significantly to knowledge in the field. \r\n\r\nTo achieve this vision, CII will focus on building capacity in:\r\nProgram and Organizational Management (specifically related to integrated service delivery, program performance, human resources, facilities, and program evaluation and measurement); Marketing, Communications, and Development (specifically related to external relations and fundraising capacity and planning for the Watts campaign); and Financial Management and Resources (specifically related to enhancing staff and systems to manage more complex and competitive contracts and business processes.) \r\n\r\nCII is proud of the agency’s achievement in each of these three strategic imperatives thus far. \r\n\r\nIn September, CII achieved a milestone in Watts, unveiling plans for the future Campus, designed pro-bono by world-renowned architect Frank Gehry. CII will continue evaluating our Model’s effectiveness at reducing the symptoms of Adverse Childhood Experiences and we will bring the most successful aspects of this proposal to Watts. \r\n"
+  Where will you be working?:
+    - Central LA
+    - South LA
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+    - >-
+      CII Otis Booth Campus Westlake/Rampart Los Angeles; CII New Hampshire
+      Campus Koreatown Los Angeles; CII Watts Campus Watts Los Angeles; CII
+      Burton E. Green Campus Torrance, LA County; and at 29 early education
+      sites in Los Angeles.  
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Obesity rates
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -646,7 +676,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "CII developed a Business Plan for 2012-2017, laying out the agency’s vision for the future: To transform the lives of thousands of children who have been affected by violence or other Adverse Childhood Experiences (ACEs) by helping them recover from trauma, build resiliency, and become ready for success in school, work, and life. \r\n\r\nTo carry out this vision, CII established three strategic imperatives:\r\n\r\n1. Scale up CII’s Integrated Services Model: At the end of 5 years, CII will fill the gaps in program services to ensure that double the number of children and families receive multiple (3+) coordinated services.\r\n\r\n2. Replicate the CII model in Watts: At the end of 5 years, CII will have replicated its Integrated Services Model in Watts and begun construction on a state-of-the-art facility that will reach 5,000 children and caregivers a year in CA’s highest-need community. \r\n\r\n3. Expand research and training efforts to improve practice and influence policy: At the end of 5 years, CII will have developed and disseminated a body of evidence documenting the effectiveness of CII’s Integrated Services Model. \r\n\r\nThrough these imperatives, and with the support of funders like LA 2050, CII will expand its services to reach 25,000 children and caregivers a year. CII will also build a body of evidence on the effectiveness of the “whole child, entire family” model— which will contribute significantly to knowledge in the field. \r\n\r\nTo achieve this vision, CII will focus on building capacity in:\r\nProgram and Organizational Management (specifically related to integrated service delivery, program performance, human resources, facilities, and program evaluation and measurement); Marketing, Communications, and Development (specifically related to external relations and fundraising capacity and planning for the Watts campaign); and Financial Management and Resources (specifically related to enhancing staff and systems to manage more complex and competitive contracts and business processes.) \r\n\r\nCII is proud of the agency’s achievement in each of these three strategic imperatives thus far. \r\n\r\nIn September, CII achieved a milestone in Watts, unveiling plans for the future Campus, designed pro-bono by world-renowned architect Frank Gehry. CII will continue evaluating our Model’s effectiveness at reducing the symptoms of Adverse Childhood Experiences and we will bring the most successful aspects of this proposal to Watts. \r\n"
-body_class: strawberry
+body_class: lime
 organization_name: 'Children’s Institute, Inc. (CII)'
 published: true
 

@@ -13,7 +13,7 @@ project_summary: >-
   enable C5LA to implement college retention initiatives for this vulnerable
   population to persist and succeed in college.
 Please specify below: ''
-category: none
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Making LA the best place to learn means that every high school student will
   graduate and be college and career ready. Making LA the best place to learn
@@ -228,6 +228,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "C5LA is actively seeking funding so that we can expand our current programming to offer greater support to our alumni through college. The amount of funding received will directly impact the level and depth of services we are able to provide our students. We hope to continue to broaden the services and outreach activities for C5LA alumni to be able to identify and address all barriers to successful completion of their college degree. \r\nWith the support of LA2050 we will:\r\n•\tRoll out the program at the top of 2015.  \r\n•\tWe will pilot the boot camp in the summer of 2016.\r\n•\tWe hope to connect with and engage 40% of our alumni in Year One and increase that to 75% in Year Two and 100% in Year Three.\r\n•\tWe will host two alumni events in Year One and four events in Years Two and Three.\r\n•\tMigrate data and launch new software in the third and fourth quarters of Year One. \r\n"
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -626,7 +649,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "C5LA is actively seeking funding so that we can expand our current programming to offer greater support to our alumni through college. The amount of funding received will directly impact the level and depth of services we are able to provide our students. We hope to continue to broaden the services and outreach activities for C5LA alumni to be able to identify and address all barriers to successful completion of their college degree. \r\nWith the support of LA2050 we will:\r\n•\tRoll out the program at the top of 2015.  \r\n•\tWe will pilot the boot camp in the summer of 2016.\r\n•\tWe hope to connect with and engage 40% of our alumni in Year One and increase that to 75% in Year Two and 100% in Year Three.\r\n•\tWe will host two alumni events in Year One and four events in Years Two and Three.\r\n•\tMigrate data and launch new software in the third and fourth quarters of Year One. \r\n"
-body_class: strawberry
+body_class: blueberry
 organization_name: C5 Youth Foundation of Southern California (“C5LA”)
 published: true
 

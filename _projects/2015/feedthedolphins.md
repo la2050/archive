@@ -13,7 +13,7 @@ project_summary: >-
   program, and show how the local community can use their spare change to make a
   big difference.
 Please specify below: ''
-category: live
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   In an effort to create positive change in the local community, Tiny Rebellion
   devoted a summer to solving the homeless problem in Santa Monica. After
@@ -220,6 +220,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "To scale the success of the event Tiny Rebellion would take a two pronged approach to not only increase local engagement with #FeedtheDolphins, but also expand the program to other areas of Los Angeles. In conjunction with the city, Tiny Rebellion would tap into the thriving art community in Santa Monica to host competitions for local artists to decorate the four dolphins. Similar to how other cities have iconic animal statues, such as the Chicago cows, the Santa Monica dolphins would become celebrated icons of the West Side community. The agency would also work with the city to update the statue plaques to provide more information on the donation programs, and the #FeedtheDolphins campaign. \r\n\tAfter the initial success of the #FeedtheDolphins campaign in Santa Monica, Tiny Rebellion would like to expand the program across greater Los Angeles. The agency would use this campaign as a case study to partner with other city governments and business hubs to build donation statues in other commercial areas. By giving neighborhoods across the city ‘dolphins’ of their own, the #FeedtheDolphins campaign will not only bring together the West Side community, but has the potential to connect all of Los Angeles to the homeless situation. \r\n"
+  Where will you be working?:
+    - Westside
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -651,7 +668,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "To scale the success of the event Tiny Rebellion would take a two pronged approach to not only increase local engagement with #FeedtheDolphins, but also expand the program to other areas of Los Angeles. In conjunction with the city, Tiny Rebellion would tap into the thriving art community in Santa Monica to host competitions for local artists to decorate the four dolphins. Similar to how other cities have iconic animal statues, such as the Chicago cows, the Santa Monica dolphins would become celebrated icons of the West Side community. The agency would also work with the city to update the statue plaques to provide more information on the donation programs, and the #FeedtheDolphins campaign. \r\n\tAfter the initial success of the #FeedtheDolphins campaign in Santa Monica, Tiny Rebellion would like to expand the program across greater Los Angeles. The agency would use this campaign as a case study to partner with other city governments and business hubs to build donation statues in other commercial areas. By giving neighborhoods across the city ‘dolphins’ of their own, the #FeedtheDolphins campaign will not only bring together the West Side community, but has the potential to connect all of Los Angeles to the homeless situation. \r\n"
-body_class: lime
+body_class: tangerine
 organization_name: Tiny Rebellion
 published: true
 

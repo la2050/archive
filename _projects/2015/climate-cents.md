@@ -13,7 +13,7 @@ project_summary: >-
   visualizations. It’s simple to share these on social media, motivate your
   friends to take action and maximize your impact.
 Please specify below: ''
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -125,6 +125,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Climate Cents is designed to scale up and then become self-sustaining. As a digital platform, the cost of every additional user is small. And as we grow, we plan to take a small cut of crowdfunding revenue to ensure our financial sustainability. Our plan anticipates that we’ll be at scale in L.A., with 25,000 regular users, within four years, and near financial self-sufficiency. We’ll then start preparing for expansion of the local-to-local model to other cities. The marginal costs of expansion will be low – we can use the underlying technology and marketing campaigns we’ve honed in L.A. \r\n\r\nThe proof of our potential is that in less than 6 months and with less than $20,000, we transformed CC from an idea on paper to a website that's already crowdfunding projects. In that time, we vetted partners and researched the science of GHG reduction for each project; mapped outreach strategies; built a platform prototype; initiated a “beta test” with fifty users and gathered extensive feedback to design the platform’s next iteration.\r\n\t\r\nThe next iteration will build on the prototype’s success to create the kind of visually elegant, easy-to-use, and emotionally compelling experience that keeps users returning frequently and telling their friends about it. We’re building in more advanced social media features, crowdfunding deadline notifications, and gamification elements. Social sharing will be baked into the platform. When you sign up, you’ll be prompted to share this fact and the carbon reduction you’re making possible on Facebook and Twitter. Giving to projects will make you look good personally and motivate your friends to take action. This positive feedback feature is crucial to the success of Climate Cents – people will respond once they see the good their efforts are producing, and it will make them feel like they can achieve something real, if we all do our part.\r\n\r\nInitial research suggests that there’s a large population of people who would be interested in a platform like Climate Cents. People care about climate change, but they feel overwhelmed by the enormity of the problem and too busy to figure out the best way to make a difference. If they learn about Climate Cents we’re confident they’ll use it to take action. \r\n\t\r\nAfter the platform’s launch, we’ll execute a multi-pronged outreach strategy that involves community organizing, guerilla marketing, digital marketing, and earned media. We'll evaluate the ROI for each tactic, adjusting as necessary."
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Percent of imported water
+    - Obesity rates
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -536,7 +559,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Climate Cents is designed to scale up and then become self-sustaining. As a digital platform, the cost of every additional user is small. And as we grow, we plan to take a small cut of crowdfunding revenue to ensure our financial sustainability. Our plan anticipates that we’ll be at scale in L.A., with 25,000 regular users, within four years, and near financial self-sufficiency. We’ll then start preparing for expansion of the local-to-local model to other cities. The marginal costs of expansion will be low – we can use the underlying technology and marketing campaigns we’ve honed in L.A. \r\n\r\nThe proof of our potential is that in less than 6 months and with less than $20,000, we transformed CC from an idea on paper to a website that's already crowdfunding projects. In that time, we vetted partners and researched the science of GHG reduction for each project; mapped outreach strategies; built a platform prototype; initiated a “beta test” with fifty users and gathered extensive feedback to design the platform’s next iteration.\r\n\t\r\nThe next iteration will build on the prototype’s success to create the kind of visually elegant, easy-to-use, and emotionally compelling experience that keeps users returning frequently and telling their friends about it. We’re building in more advanced social media features, crowdfunding deadline notifications, and gamification elements. Social sharing will be baked into the platform. When you sign up, you’ll be prompted to share this fact and the carbon reduction you’re making possible on Facebook and Twitter. Giving to projects will make you look good personally and motivate your friends to take action. This positive feedback feature is crucial to the success of Climate Cents – people will respond once they see the good their efforts are producing, and it will make them feel like they can achieve something real, if we all do our part.\r\n\r\nInitial research suggests that there’s a large population of people who would be interested in a platform like Climate Cents. People care about climate change, but they feel overwhelmed by the enormity of the problem and too busy to figure out the best way to make a difference. If they learn about Climate Cents we’re confident they’ll use it to take action. \r\n\t\r\nAfter the platform’s launch, we’ll execute a multi-pronged outreach strategy that involves community organizing, guerilla marketing, digital marketing, and earned media. We'll evaluate the ROI for each tactic, adjusting as necessary."
-body_class: blueberry
+body_class: lime
 organization_name: Climate Cents
 published: true
 

@@ -195,6 +195,43 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Significant preparations have been made to ensure the TAP solution is successful & scalable. Over the last year, collaboration with experts & former foster youth, including research led by Princeton University on TAP’s behalf, has contributed to our solid plan. The first cohort of TAP will clearly be important, as we pilot the solution for the first time, monitor against our key metrics & ensure we capitalize on lessons learnt. We are confident we are building something that can make a substantial difference in these kids lives.\r\n\r\nOnce through the first 2 pilot years, The Academy Project will scale our successful model by recruiting more schools thus, serving more & more foster youth.  We hope to replicate this model with an eye toward expediency, by opening & expanding our afterschool programs to non-TAP foster youth within our first few years of operation, in parallel to scaling “The Academy” to more schools.  As the success of TAP is replicated, more resources will be made available, & stakeholders will look to TAP as an organization that continues to innovate & create complete, thoughtful, & effective solutions to issues facing foster youth.  We will continue to explore engagement in earlier grades, & continued support beyond graduation.  We will continue to promote Professional Development both within TAP & amongst the greater educational community, with specialized trainings on foster youth, foster care & education, & therapies for victims of trauma.  \r\n\r\nThe Academy Project hopes to expand our reach by engaging Child Welfare Agencies throughout the country, guiding them to use The Academy Project approach as a basis for their own successes in caring for foster youth.  \r\n\r\nMany years down the line, it is our hope that The Academy Project will have taken the place of continuation schools & group homes, keeping foster youth engaged & thriving in public schools & foster family placements.  \r\n\r\nIt is our belief that our greatest assets are the youth we serve & it is because of them that we will be successful & able to scale to reach more & more youth.  By caring, nurturing & supporting these youth, they will no doubt thrive & continue to reach for the limitless potential that they all possess.  \r\n"
+  Where will you be working?:
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+    - >-
+      We are targeting South LA first as this is where the largest population of
+      foster youth reside
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

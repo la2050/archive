@@ -13,7 +13,7 @@ project_summary: >-
   current program—and double the number of men and women securing employment
   (currently at 75) to 150 during 2016. 
 Please specify below: Skid Row
-category: live
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles County has 366 jobs for every 1,000 adults. But for the men and
   women who live on Skid Row, the chances of ever finding employment is far
@@ -209,6 +209,22 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "What began as a simple outreach to hungry and homeless men more than 125 years ago has grown to become the largest and most comprehensive program of restoration for men, women, families and youth experiencing homelessness on the streets of Los Angeles. \r\n\r\nEmerging from the Great Depression as the leading provider of food and shelter in Los Angeles, URM has continued provide bold leadership in its unwavering commitment to serving the most vulnerable in our city. URM was the first organization on Skid Row to open its doors to women, children and families; the first to open a transitional housing program specifically serving single mothers and their children; and the only rescue mission to allow families to stay together in family rooms, as opposed to being separated by age and sex. In this capacity, URM has become the established leader on Skid Row, leading the campaign to end homelessness on the streets of Los Angeles. \r\n\r\nGiven this rich heritage of forging new pathways and expanding to meet the needs of the population we serve, we are confident that the goals outlined in our program will be achieved within the 12 month timeline, doubling the number of men and women currently place jobs by the end of 2016.  \r\n\r\nBuilding our jobs team will allow URM to significantly scale our program, doubling the number of men and women served during the 12 month grant funding period. Given the critical importance that jobs play in restoring the futures of the men and women we serve, we plan to leverage this grant to attract more funding, building our capacity to grow the meet the increasing needs. Over time, we plan to scale the program to serve all guests who turn to us for help, achieving our ultimate goal of Building a Better LA -- by Helping to End Skid Row through Jobs. \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - Skid Row
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Jobs per capita
+    - Gini coefficient
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -634,7 +650,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "What began as a simple outreach to hungry and homeless men more than 125 years ago has grown to become the largest and most comprehensive program of restoration for men, women, families and youth experiencing homelessness on the streets of Los Angeles. \r\n\r\nEmerging from the Great Depression as the leading provider of food and shelter in Los Angeles, URM has continued provide bold leadership in its unwavering commitment to serving the most vulnerable in our city. URM was the first organization on Skid Row to open its doors to women, children and families; the first to open a transitional housing program specifically serving single mothers and their children; and the only rescue mission to allow families to stay together in family rooms, as opposed to being separated by age and sex. In this capacity, URM has become the established leader on Skid Row, leading the campaign to end homelessness on the streets of Los Angeles. \r\n\r\nGiven this rich heritage of forging new pathways and expanding to meet the needs of the population we serve, we are confident that the goals outlined in our program will be achieved within the 12 month timeline, doubling the number of men and women currently place jobs by the end of 2016.  \r\n\r\nBuilding our jobs team will allow URM to significantly scale our program, doubling the number of men and women served during the 12 month grant funding period. Given the critical importance that jobs play in restoring the futures of the men and women we serve, we plan to leverage this grant to attract more funding, building our capacity to grow the meet the increasing needs. Over time, we plan to scale the program to serve all guests who turn to us for help, achieving our ultimate goal of Building a Better LA -- by Helping to End Skid Row through Jobs. \r\n"
-body_class: lime
+body_class: banana
 organization_name: Union Rescue Mission
 published: true
 

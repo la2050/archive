@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "We will construct two Monolithic Dome homes to showcase the extraordinary qualities of reinforced, open-span concrete construction. \r\nWe will show how by providing skills training to the unemployed we can construct permanent, high quality, low-cost housing for the homeless."
 Please specify below: ''
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   By creating housing and employment we will encourage the chronically homeless
   to leave the streets. This will improve their lives dramatically and free up
@@ -180,6 +180,32 @@ maker_answers:
     We would partner with the city of Los Angeles to roll out a larger
     Monolithic Dome building program. We would also look to corporate
     sponsorship to contribute a number of Dome homes.
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - Show how low cost housing can be high quality and desirable
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Housing affordability
+    - Rates of homelessness
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Rates of mental illness
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -615,7 +641,7 @@ maker_answers_list:
       We would partner with the city of Los Angeles to roll out a larger
       Monolithic Dome building program. We would also look to corporate
       sponsorship to contribute a number of Dome homes.
-body_class: strawberry
+body_class: lime
 organization_name: 'HDomes.com, Shacklebrand Designs'
 published: true
 

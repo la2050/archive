@@ -8,7 +8,7 @@ project_summary: "What if everyday professionals could help improve LA’s dropo
 Please specify below: >-
   Spark is partnered with 6 LAUSD schools, as well as workplaces throughout the
   city.
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   If LA is going to be the best place to learn, learning cannot be isolated to
   schools, and the task of educating our youth cannot be given only to teachers.
@@ -204,6 +204,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Currently, we estimate that there are over 46,000 7th and 8th grade LAUSD students who will enter high school underprepared or at-risk of dropping out. Spark LA is preparing to scale its programming, with the vision of serving every off-track LA middle school student by 2050. Spark is working to bring about this vision by:\r\n\r\n – Deepening and Expanding Spark’s presence within local corporations\r\nAs previously mentioned, Spark is seeking to engage more mentors at each company, and build new partnerships. Spark is working to become an integral part of each company’s culture so that we have ample mentors for our students. We have found that the key to building partnerships with corporations is gaining support from the executives who can use their platform to encourage employees to participate. Our partnership with Cornerstone OnDemand is an example of how we have built connections at the executive level. Co-Founder and Chief Financial Officer, Perry Wallack, first got involved with Spark in 2012 when he was one of the three employees who volunteered to mentor. Thanks to Wallack’s ongoing support, the partnership has grown tremendously in only three years; Spark is engaging 64 Cornerstone OnDemand employees as mentors this semester alone. Additionally, Cornerstone OnDemand provides significant financial support, including paying for transportation for students completing apprenticeships at their company and providing free use of their software for our online platform. Spark is working to build more partnerships that follow this model in order to scale the program throughout the city.\r\n\r\n– Launching a technology platform, Spark Online\r\nThrough a partnership with LA corporate partner Cornerstone OnDemand, Spark is launching an online platform, Spark Online. This online platform puts key resources directly into the mentor’s hands, like activity resources, a project library, and training videos. It also provides a place for teachers to collaborate on each student’s Spark experience. In future years, the online platform will provide an avenue for Spark to share its program with other organizations, allowing the Spark model to scale."
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - Westside
+    - LAUSD
+    - >-
+      Spark is partnered with 6 LAUSD schools, as well as workplaces throughout
+      the city.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -588,7 +612,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Currently, we estimate that there are over 46,000 7th and 8th grade LAUSD students who will enter high school underprepared or at-risk of dropping out. Spark LA is preparing to scale its programming, with the vision of serving every off-track LA middle school student by 2050. Spark is working to bring about this vision by:\r\n\r\n – Deepening and Expanding Spark’s presence within local corporations\r\nAs previously mentioned, Spark is seeking to engage more mentors at each company, and build new partnerships. Spark is working to become an integral part of each company’s culture so that we have ample mentors for our students. We have found that the key to building partnerships with corporations is gaining support from the executives who can use their platform to encourage employees to participate. Our partnership with Cornerstone OnDemand is an example of how we have built connections at the executive level. Co-Founder and Chief Financial Officer, Perry Wallack, first got involved with Spark in 2012 when he was one of the three employees who volunteered to mentor. Thanks to Wallack’s ongoing support, the partnership has grown tremendously in only three years; Spark is engaging 64 Cornerstone OnDemand employees as mentors this semester alone. Additionally, Cornerstone OnDemand provides significant financial support, including paying for transportation for students completing apprenticeships at their company and providing free use of their software for our online platform. Spark is working to build more partnerships that follow this model in order to scale the program throughout the city.\r\n\r\n– Launching a technology platform, Spark Online\r\nThrough a partnership with LA corporate partner Cornerstone OnDemand, Spark is launching an online platform, Spark Online. This online platform puts key resources directly into the mentor’s hands, like activity resources, a project library, and training videos. It also provides a place for teachers to collaborate on each student’s Spark experience. In future years, the online platform will provide an avenue for Spark to share its program with other organizations, allowing the Spark model to scale."
-body_class: strawberry
+body_class: blueberry
 organization_name: Spark LA
 published: true
 

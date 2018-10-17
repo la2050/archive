@@ -15,7 +15,7 @@ Please specify below: >-
   Gardner St. Elem. School, LAUSD, Hollywood; Valor High School, Panorama City;
   Valor Middle School, North Hills; Rise Kohyang Middle School, Koreatown;
   Stella Middle School, South LA; Bright Star Secondary High School, South LA
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Learning is a relational process. Research shows relationship affects every
   aspect of students’ mental and physical health and academic achievement.
@@ -196,6 +196,42 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our work is, by its nature, self-propagating. As we train and mentor educators who become practitioners and facilitators of council, and as more young people participate in councils in their schools, the numbers of council carriers grows and the practice spreads.\r\nWe are also at a time in our cultural development when the power and value of circle practices are being remembered. With the growth of the restorative justice movement, there is growing demand for the work we do. We expect the success of this project will create more demand for our services. The Bright Star organization is doing amazing work with severely underserved populations in some of LA's most difficult communities, and council is playing a big part in their success. Opportunities to work with other charter schools are and will continue emerging from our work with Bright Star. \r\nThe council space we are building at Gardner will bring additional attention to our work and additional opportunities to work with other schools, and to collaborate with other artists and architects interested in creating spaces for circle conversations. "
+  Where will you be working?:
+    - Central LA
+    - San Fernando Valley
+    - South LA
+    - LAUSD
+    - >-
+      Gardner St. Elem. School, LAUSD, Hollywood; Valor High School, Panorama
+      City; Valor Middle School, North Hills; Rise Kohyang Middle School,
+      Koreatown; Stella Middle School, South LA; Bright Star Secondary High
+      School, South LA
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -588,7 +624,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our work is, by its nature, self-propagating. As we train and mentor educators who become practitioners and facilitators of council, and as more young people participate in councils in their schools, the numbers of council carriers grows and the practice spreads.\r\nWe are also at a time in our cultural development when the power and value of circle practices are being remembered. With the growth of the restorative justice movement, there is growing demand for the work we do. We expect the success of this project will create more demand for our services. The Bright Star organization is doing amazing work with severely underserved populations in some of LA's most difficult communities, and council is playing a big part in their success. Opportunities to work with other charter schools are and will continue emerging from our work with Bright Star. \r\nThe council space we are building at Gardner will bring additional attention to our work and additional opportunities to work with other schools, and to collaborate with other artists and architects interested in creating spaces for circle conversations. "
-body_class: strawberry
+body_class: blueberry
 organization_name: The Ojai Foundation's Council in Schools
 published: true
 

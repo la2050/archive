@@ -9,7 +9,7 @@ Please specify below: >-
   All Metro Station with Park and Rides. Also, places such as Walt Disney
   Concert Hall, LACMA, Leimart Park, Culver City Arts District, Abbot Kinney,
   etc
-category: play
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We’ll be the first to admit that we’ve got a big crush on this city. Whether
   catching the sunrise in Chinatown, exploring the trails of Griffith Park,
@@ -186,6 +186,32 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "As a growing movement of Angelenos, BlacklistLA always has scaling at the front of our mind. We believe that a one-year, $100,000  investment in BlacklistLA will allow the organization to effectively keep pace with the high demand, as well as determine how to promote future growth. We believe that our scalability lies in our ability to offer more runs throughout the city, as well as our ability to connect people in-person and online. \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - City of Los Angeles
+    - >-
+      All Metro Station with Park and Rides. Also, places such as Walt Disney
+      Concert Hall, LACMA, Leimart Park, Culver City Arts District, Abbot
+      Kinney, etc
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Number of public transit riders
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -593,7 +619,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "As a growing movement of Angelenos, BlacklistLA always has scaling at the front of our mind. We believe that a one-year, $100,000  investment in BlacklistLA will allow the organization to effectively keep pace with the high demand, as well as determine how to promote future growth. We believe that our scalability lies in our ability to offer more runs throughout the city, as well as our ability to connect people in-person and online. \r\n"
-body_class: strawberry
+body_class: tangerine
 organization_name: BlacklistLA
 published: true
 

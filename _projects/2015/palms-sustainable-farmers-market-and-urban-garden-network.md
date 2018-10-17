@@ -16,7 +16,7 @@ Please specify below: >-
   The Urban Garden Network has six interconnected urban open space gardens: two
   parklets, a community garden on Motor Ave. and three local school gardens at
   Palms Elementary, Palms Middle School, and Overland Elementary.
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   One of the proudest achievements of MAIA has been the opening of a Sunday’s
   Farmers Market at the corner of Motor Ave. and National Boulevard. This public
@@ -230,6 +230,32 @@ maker_answers:
   How do you plan to scale the success of your proposal?: >-
     We will offer programs to all communities to replicate this successful
     program.
+  Where will you be working?:
+    - Westside
+    - LAUSD
+    - >-
+      The Urban Garden Network has six interconnected urban open space gardens:
+      two parklets, a community garden on Motor Ave. and three local school
+      gardens at Palms Elementary, Palms Middle School, and Overland
+      Elementary. 
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Advocate with policymakers and leaders
+    - >-
+      In an effort to combat this serious issue that affects many marginalized
+      communities, the Farmers’ Market provide residents with more affordable
+      access to healthy food. The benefits of urban gardening is key in creating
+      change and promoting healthier food
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Publicity/awareness (social capital)
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

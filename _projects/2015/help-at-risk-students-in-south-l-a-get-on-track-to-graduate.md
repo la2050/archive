@@ -272,6 +272,20 @@ maker_answers:
     the need for Partnership staff oversight is diminished and can be deployed
     to other campuses. This enables the Partnership to meet the needs of its
     schools in a cost-effective way, providing a sustainable and scalable model.
+  Where will you be working?:
+    - Carver Middle School (South Los Angeles)
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

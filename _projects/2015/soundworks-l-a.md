@@ -12,7 +12,7 @@ project_summary: >-
   the business.  Students will earn certifications and have the opportunity to
   further their studies through our strategic partners in higher learning.
 Please specify below: ''
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Although gleaming with celebrities and wealth, Los Angeles has also gained
   fame for its high level of poverty. Along with poverty comes an increase in
@@ -205,6 +205,31 @@ maker_answers:
     Hiring our workforce development students to handle sound and lighting for
     events.
   How do you plan to scale the success of your proposal?: "We plan on taking a wrap-around approach to scale the success of this proposal.  Through this approach we will 1) work on building our network and strengthening our infrastructure; 2) remain realistic about our objectives and our capacity; 3) take a practical approach in considering what we can provide and what we will need to outsource; 4) follow a structure of pre-planning for our budget so that we are clear on our most critical expenditures, avoiding overspending and are able to make sure we maintain long-term fiscal health; 5) value professional development opportunities and will participate in those that will support our staff and the sustainability of the program; and 6) Maintain alignment with curricular guidelines of institutions in which our students may be matriculate in to.\r\n\r\nWe also anticipate being able to engage our students on the processes of building and running a business, associated ethics and any fiscal training available.  With the support of our Board of Directors and through building an Advisory Committee for this project, we will have the expertise and guidance needed to ensure we are exploring every possible angle and making practical and effective decisions in scaling our success."
+  Where will you be working?:
+    - South LA
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - Advocate for job placement opportunities
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - District-wide graduation ratesCollege matriculation rates
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -606,7 +631,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We plan on taking a wrap-around approach to scale the success of this proposal.  Through this approach we will 1) work on building our network and strengthening our infrastructure; 2) remain realistic about our objectives and our capacity; 3) take a practical approach in considering what we can provide and what we will need to outsource; 4) follow a structure of pre-planning for our budget so that we are clear on our most critical expenditures, avoiding overspending and are able to make sure we maintain long-term fiscal health; 5) value professional development opportunities and will participate in those that will support our staff and the sustainability of the program; and 6) Maintain alignment with curricular guidelines of institutions in which our students may be matriculate in to.\r\n\r\nWe also anticipate being able to engage our students on the processes of building and running a business, associated ethics and any fiscal training available.  With the support of our Board of Directors and through building an Advisory Committee for this project, we will have the expertise and guidance needed to ensure we are exploring every possible angle and making practical and effective decisions in scaling our success."
-body_class: strawberry
+body_class: blueberry
 organization_name: Project MuszEd
 published: true
 

@@ -261,6 +261,41 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We plan to scale the success of our proposal by deliberate efforts to increase the impact of our Leadership Program. \r\n\r\nWe will use the data we've collected over the last eleven years to analyze trends in our student population, donor base and communities. For example, we have discovered over the years that our program has evolved to provide services to students with learning disabilities and students whose parents were born abroad. We will also use this information to understand what communication channels are most effective, how to better raise funds and how to increase recurring giving.\r\n\r\nWe will build on our success by tapping into new technology and innovation for community-based organizations. We will use new technology such as mobile devices, tablets and applications on each to more efficiently deliver our services to our target population. Staff and volunteers will have the data that we've collected over the last eleven years on our core population, students and communities at their fingertips. \r\n\r\nWe will also build on our strong network. Having a strong professional support network is crucial for the success of our Leadership Program. We will develop our network of staff, volunteers and community partners to invest in our vision and program. We will then leverage that human capital to grow the Leadership Program from a local program to a regional and national program. That also includes developing our social networks (Facebook, Twitter, Instagram) to provide us additional access to other networks of potential donors, volunteers, members, alumni, patrons and supporters.\r\n\r\nWe will also pay close to our finances. Most, if not all, nonprofits operate on a shoestring budget and our program is no different. We are thankful for every dollar and cent that comes into the organization and we will work hard to ensure that none of its is wasted, especially during the times of growth. \r\n\r\nIn the end, these plans will benefit more of our students and community members. \r\n"
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

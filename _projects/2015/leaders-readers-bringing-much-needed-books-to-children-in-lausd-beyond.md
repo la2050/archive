@@ -17,7 +17,7 @@ Please specify below: >-
   Hillsides Foster Care, Summer Meals Program of Pasadena, Boys & Girls Club,
   YMCA, Assistance League of Santa Monica, Santa Monica Public Library, The Book
   Truck, and many more!
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We at Milk + Bookies believe the sustainability of a literate community
   depends on the accessibility of books - and underprivileged boys and girls in
@@ -258,6 +258,45 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Milk+Bookies has over ten years of experience in inspiring “future philanthropists” and spreading the love of reading.  We have seen the success of our program expand all over the country, with hosted events occurring in over 500 cities and books distributed to more than 540 underprivileged children’s groups nationwide.  Being a Los Angeles-based organization, we have seen up close the extent of L.A.’s literacy problem and are uniquely positioned to focus our efforts locally to optimally manage the Leaders + Readers program.\r\n\r\nIn terms of scaling the program, that process is already underway at Milk+Bookies.  Book drives are taking place; we are aware of the materials required; we have forged relationships that will carry us forward into future school years; and we have the information and know-how necessary to implement this project in a much larger way.  Fact is, in the second half of the 2014-2015 school year, Leaders + Readers raised over 58,000 books and impacted 10,000 students.  With the grant money, we will be able to double our already impressive efforts and reach our goal of raising 100,000 books and positively influencing 20,000 students in the coming school year.\r\n\r\nChildren are entitled to learn to their greatest potential, but this cannot be achieved without reading competency.  Such competency is impossible without access to books, which – by definition – are fundamental to the development of reading.  However, the stark reality is that students from underserved communities are most affected by a scarcity of books; in Los Angeles, these are predominantly children from low-income, minority backgrounds.  Consider the following: in the LAUSD, the average book to student ratio is 2:1 or 3:1; the national average is 22:1.  Incredibly, 7,000,000 books are needed just to bring Los Angeles schools up to the national average.  Bare and outdated libraries with little to no governmental support critically handicap our students and are leading to lower test scores, lower rates of graduation, and poor literacy overall.\r\n\r\nOnce Leaders+Readers is appropriately scaled, the LAUSD statistics are expected to reflect the following historical data:\r\n \r\n•\t95% of teachers report an increase in student reading after receiving donated books;\r\n\r\n•\tStudents with access to a variety of reading material have higher than average test scores; and\r\n\r\n•\tNarrowing the “achievement gap” leads to lower truancy rates and increases in confidence and academic achievement. \r\n"
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      Children's Hospital of Orange County, Ronald McDonald House Pasadena,
+      Hillsides Foster Care, Summer Meals Program of Pasadena, Boys & Girls
+      Club, YMCA, Assistance League of Santa Monica, Santa Monica Public
+      Library, The Book Truck, and many more!
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - 'Redistribute community resources where they are most needed. '
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -680,7 +719,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Milk+Bookies has over ten years of experience in inspiring “future philanthropists” and spreading the love of reading.  We have seen the success of our program expand all over the country, with hosted events occurring in over 500 cities and books distributed to more than 540 underprivileged children’s groups nationwide.  Being a Los Angeles-based organization, we have seen up close the extent of L.A.’s literacy problem and are uniquely positioned to focus our efforts locally to optimally manage the Leaders + Readers program.\r\n\r\nIn terms of scaling the program, that process is already underway at Milk+Bookies.  Book drives are taking place; we are aware of the materials required; we have forged relationships that will carry us forward into future school years; and we have the information and know-how necessary to implement this project in a much larger way.  Fact is, in the second half of the 2014-2015 school year, Leaders + Readers raised over 58,000 books and impacted 10,000 students.  With the grant money, we will be able to double our already impressive efforts and reach our goal of raising 100,000 books and positively influencing 20,000 students in the coming school year.\r\n\r\nChildren are entitled to learn to their greatest potential, but this cannot be achieved without reading competency.  Such competency is impossible without access to books, which – by definition – are fundamental to the development of reading.  However, the stark reality is that students from underserved communities are most affected by a scarcity of books; in Los Angeles, these are predominantly children from low-income, minority backgrounds.  Consider the following: in the LAUSD, the average book to student ratio is 2:1 or 3:1; the national average is 22:1.  Incredibly, 7,000,000 books are needed just to bring Los Angeles schools up to the national average.  Bare and outdated libraries with little to no governmental support critically handicap our students and are leading to lower test scores, lower rates of graduation, and poor literacy overall.\r\n\r\nOnce Leaders+Readers is appropriately scaled, the LAUSD statistics are expected to reflect the following historical data:\r\n \r\n•\t95% of teachers report an increase in student reading after receiving donated books;\r\n\r\n•\tStudents with access to a variety of reading material have higher than average test scores; and\r\n\r\n•\tNarrowing the “achievement gap” leads to lower truancy rates and increases in confidence and academic achievement. \r\n"
-body_class: strawberry
+body_class: blueberry
 organization_name: Milk + Bookies
 published: true
 

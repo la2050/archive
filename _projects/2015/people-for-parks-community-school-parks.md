@@ -17,7 +17,7 @@ Please specify below: >-
   (ES) in Central LA/Pico Union; Gratts ES in Central LA/Westlake; Esperanza ES
   in Central LA/Westlake; 20th St ES in South LA/Central Alameda; Main St ES in
   South LA/South Park
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   People for Parks works towards the day when all Angelenos can walk to a park.
   As part of this effort, we will open six Community School Parks in LA in 2016
@@ -236,6 +236,39 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Scaling up the success of our pilot sites is crucial. PFP has started this process by identifying 20 partially greened schoolyards that are locked off from their communities. We conducted needs assessments based on school and community feedback and local park accessibility. These sites are ready to be opened, but require shared use agreements and funding for park supervision/programming. \r\n\r\nThe first six schools in this group are those listed on this grant.  As such, the LA2050 grant would be part of our move to scale up.  \r\n\r\nThe tools we use to ensure a) the sustainability of these six parks and b) the scalability of our Community School Parks project (so that we can open additional parks) are administered through our Community School Parks Incubator.\r\n\r\nPeople for Parks’ CSP Incubator is a community-driven empowerment strategy that equips parents, school staff and neighbors with the resources needed to oversee existing CSPs and form new ones. PFP provides communities with funding, materials and trainings on park maintenance, programming, shared use policy, CSP wellness council coordination and an interactive website developed by PFP.  We also offer communities the option to join our current service agreement with LAUSD, which provides programming, supervision and shared use access. The work is undertaken by the People for Parks CSP Incubator committee, community organizers, parents, former LAUSD facilities staff, and parkland use experts.\r\n\r\nCommunity School Parks Incubator trainings and toolkit also include:\r\no Joint/Shared Use: Education on what entails and how it positively impacts schools and neighborhoods. \r\no Parent Involvement: Following the lead of and supporting parents in leadership roles in park activities such as gardening, park maintenance, activities club formation, and canvassing for local support. At Berendo, for example, we will provide greening assistance for a group of parents eager to enhance gardens in the schools’ grassy play spaces.  Doing so will increase park vibrancy, attracting additional community involvement and support.\r\no Civic Engagement: Engaging parents, teachers and stakeholders to elevate community voice in Community School Park formation/maintenance. Organizing participation in key neighborhood, city and district policy meetings. \r\no Fundraising:Training and assistance for community members seeking funds for ongoing park activity. Includes assistance requesting funds from the county, city and neighborhood councils."
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      Berendo Middle School in Central LA/Pico Union; Leo Politi Elementary
+      School (ES) in Central LA/Pico Union; Gratts ES in Central LA/Westlake;
+      Esperanza ES in Central LA/Westlake; 20th St ES in South LA/Central
+      Alameda; Main St ES in South LA/South Park
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

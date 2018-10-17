@@ -13,7 +13,7 @@ project_summary: >-
   compassion are learned, helping to diminish harmful stereotypes that lead to
   bullying and exclusion.  
 Please specify below: ''
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Building on the foundation that we are only as strong as we are united,
   Together We Play L.A.! will begin by creating two uniquely designed,
@@ -252,6 +252,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Shane's Inspiration will continue to partner with the City of Los Angeles Recreation and Parks Depart to identify/design/develop parks in under served, resource poor communities that have the need for an inclusive playground.  \r\n\r\nThe plan for scaling the education program is to continue to streamline the materials and structure, providing educators with the tools necessary to independently facilitate the program for the children in their classroom. This streamlined approach will support the educators facilitation of the pre-field trip workshop, as well as the  post. We would continue to participate in the actual field trips, as our staff is well trained in playground integration strategies. This approach would help scale the program into a substantial number of schools throughout Los Angeles in impoverished communities.\r\n\r\nThe program is now available free of charge to download for educators on our website at:  \r\n\r\nhttp://www.shanesinspiration.org/education-inclusion-lunch-box/\r\n\r\nOn a broader impact scale, Shane's Inspiration's work in Los Angeles is currently serving as an example for other communities on how to create play environments that unite the whole of the community.  Shane's Inspiration and the City of Los Angeles Recreation and Parks Department travel nationally and internationally to promote the replication of these playgrounds and programs to a global audience.  \r\n\r\nThe 37 playgrounds developed in Los Angeles have sparked a world wide movement in inclusive play, generating Shane's Inspiration projects in 15 states, as well as in Mexico, Ecuador, Israel and four in conjunction with the 2010 and 2014 Winter Olympics in Canada and Russia.  As members of the Clinton Global Initiative (CGI), Shane's Inspiration is participating in conversations with the CGI Disability Strategy Group and Too Small To Fail Initiative regarding the importance of inclusive play environments as they pertain to community resiliency.  \r\n\r\nWe will also utilize print, radio, television, and social media avenues to promote this initiative, raising a broader understanding of the importance of dissolving the barriers that divide us and the opportunities to connect.  \r\n\r\nThe Together We Play L.A.! initiative will provide another important opportunity for Los Angeles to lead the way in play - today - tomorrow - into 2050 and beyond!\r\n"
+  Where will you be working?:
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Advocate for social inclusion via play with school staff and parents.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

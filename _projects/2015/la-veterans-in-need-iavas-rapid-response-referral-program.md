@@ -13,7 +13,7 @@ project_summary: >-
   numerous community outreach activities to provide vets with access to RRRP and
   its holistic, integrated partner services. 
 Please specify below: ''
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Post-9/11 veterans living in LA face daunting challenges during their
   transition to civilian life. Many struggle to find employment, reintegrate
@@ -270,6 +270,27 @@ maker_answers:
     area, and this grant would support these efforts. We are training RRRP
     Ambassadors, hiring L.A. social work staff, and increasing our outreach and
     community building activities.
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Advocate with policymakers and leaders
+    - >-
+      IAVA will also continue to advocate for veterans in LA; we supported
+      Vietnam Veterans of America as they campaigned for improvements at VA West
+      LA Medical Center.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Housing affordability
+    - Rates of homelessness
+    - Rates of mental illness
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -712,7 +733,7 @@ maker_answers_list:
       L.A. area, and this grant would support these efforts. We are training
       RRRP Ambassadors, hiring L.A. social work staff, and increasing our
       outreach and community building activities.
-body_class: strawberry
+body_class: lime
 organization_name: Iraq and Afghanistan Veterans of America (IAVA)
 published: true
 

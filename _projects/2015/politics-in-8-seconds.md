@@ -11,7 +11,7 @@ project_summary: >-
 Please specify below: >-
   We will be curating local election data for all of LA County, initially
   focusing on the larger municipalities.
-category: 0createplaylive
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': |-
   What
    We’re building an app that makes it fast, fun, and easy to become informed in any election. Simply answer a few questions and find out which politicians truly have your best interests at heart, and have a track record to back it up.
@@ -234,6 +234,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our outreach team will be curating data for the first several elections; however, our long term goal for sustained growth, is to attract enough users that candidates for local office are incentivized to build their own profile, or risk missing a large percentage of the voting population.\r\n\r\nWe are also building an outreach program for social science and government classes at high schools and colleges. Aside from helping inform young voters, this accomplishes two important goals for the scalability of our proposal:\r\n1. It guarantees a strong group of local users in new municipalities.\r\n2. It builds the foundation for an outreach team to contact local candidates in that area.\r\n\r\nWe will focus on Los Angeles County and it’s 88 municipalities before scaling to other areas in Southern California. With proven success in Los Angeles, we plan to duplicate our program in neighboring areas, including Orange County and Ventura County."
+  Where will you be working?:
+    - Central LA
+    - San Fernando Valley
+    - Westside
+    - City of Los Angeles
+    - >-
+      We will be curating local election data for all of LA County, initially
+      focusing on the larger municipalities.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -635,7 +657,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our outreach team will be curating data for the first several elections; however, our long term goal for sustained growth, is to attract enough users that candidates for local office are incentivized to build their own profile, or risk missing a large percentage of the voting population.\r\n\r\nWe are also building an outreach program for social science and government classes at high schools and colleges. Aside from helping inform young voters, this accomplishes two important goals for the scalability of our proposal:\r\n1. It guarantees a strong group of local users in new municipalities.\r\n2. It builds the foundation for an outreach team to contact local candidates in that area.\r\n\r\nWe will focus on Los Angeles County and it’s 88 municipalities before scaling to other areas in Southern California. With proven success in Los Angeles, we plan to duplicate our program in neighboring areas, including Orange County and Ventura County."
-body_class: strawberry
+body_class: tangerine
 organization_name: 'Voter, LLC'
 published: true
 

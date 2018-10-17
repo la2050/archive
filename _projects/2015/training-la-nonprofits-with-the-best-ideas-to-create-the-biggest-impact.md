@@ -13,7 +13,7 @@ project_summary: >-
   leaders and our participants will gather to showcase their bold ideas and make
   LA the best place to create change.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our program trains promising nonprofit startups to create sustainable business
   models, to use data to measure their impact and innovate faster, and to create
@@ -218,6 +218,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our plan to scale is focused on 1) improving the success rate of the organizations who participate in our training and 2) fostering collaboration in the LA nonprofit community to create a space where the best solutions thrive and have the support networks they need to grow.\r\n\r\nThe organizations that participate in the program will build the skills needed to improve their impact and scale their work in the LA area. In this way, investing in Change Better has a multiplier effect. LA2050 funding will allow Change Better to reach more nonprofits in Southern California, who in turn will help more people in their respective local communities. \r\n\r\nFrom this multiplier effect, we expect to see an increase in jobs per capita; an increase in women and minority owned businesses; an increase in the number of high growth startups; and an increase in venture capital investment -- all driving progress though our participants increased capacity and success. \r\n\r\nNext, we will scale the success of our program by fostering collaboration between the organizations in our program and the other groups participating in the capstone Pitch Day. We expect attendees at the event to make the connections needed to take their work to the next level.\r\n\r\nEach organization that participates in the training program goes through an extensive exploration of their partnership strategy, focusing on their areas of need and of leading strengths. Through the 4 months, we create a map of potential partnership opportunities and rehearse putting those options into practice. The startups that go through the Change Better training program come to Pitch Day ready and eager to grow their network. \r\n\r\nBy facilitating this network building, we can maximize the potential of the nonprofit community in LA. We can create a city where startup organizations have the connections for their work to thrive and nonprofit veterans have access to the freshest new ideas on the block."
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -630,7 +652,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our plan to scale is focused on 1) improving the success rate of the organizations who participate in our training and 2) fostering collaboration in the LA nonprofit community to create a space where the best solutions thrive and have the support networks they need to grow.\r\n\r\nThe organizations that participate in the program will build the skills needed to improve their impact and scale their work in the LA area. In this way, investing in Change Better has a multiplier effect. LA2050 funding will allow Change Better to reach more nonprofits in Southern California, who in turn will help more people in their respective local communities. \r\n\r\nFrom this multiplier effect, we expect to see an increase in jobs per capita; an increase in women and minority owned businesses; an increase in the number of high growth startups; and an increase in venture capital investment -- all driving progress though our participants increased capacity and success. \r\n\r\nNext, we will scale the success of our program by fostering collaboration between the organizations in our program and the other groups participating in the capstone Pitch Day. We expect attendees at the event to make the connections needed to take their work to the next level.\r\n\r\nEach organization that participates in the training program goes through an extensive exploration of their partnership strategy, focusing on their areas of need and of leading strengths. Through the 4 months, we create a map of potential partnership opportunities and rehearse putting those options into practice. The startups that go through the Change Better training program come to Pitch Day ready and eager to grow their network. \r\n\r\nBy facilitating this network building, we can maximize the potential of the nonprofit community in LA. We can create a city where startup organizations have the connections for their work to thrive and nonprofit veterans have access to the freshest new ideas on the block."
-body_class: blueberry
+body_class: banana
 organization_name: Change Better
 published: true
 

@@ -11,7 +11,7 @@ project_summary: >-
   remain a small theatre company in need of funds to keep the momentum going and
   build our next year-round play here in LA. 
 Please specify below: ''
-category: play
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   I'll begin with a Yelp review from last year's play: "I wish that this was an
   event that ran year round. It's not just a Halloween spectacle. Delusion is a
@@ -176,6 +176,24 @@ maker_answers:
     keep her eye on the budget always and make sure we outsource when needed. My
     gut in leading this ship for 4 years have done well for us so far....so I'll
     be keeping that up as well!
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -615,7 +633,7 @@ maker_answers_list:
       producer will keep her eye on the budget always and make sure we outsource
       when needed. My gut in leading this ship for 4 years have done well for us
       so far....so I'll be keeping that up as well!
-body_class: strawberry
+body_class: banana
 organization_name: Haunted Play LLC
 published: true
 

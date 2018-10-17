@@ -15,7 +15,7 @@ project_summary: >-
   leadership development workshops, a 2.5 day design sprint, and a 1 day
   symposium on how to amplify the impact of So. LA nonprofits. 
 Please specify below: Los Angeles SouthWest College
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -130,6 +130,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "To ensure that other communities can benefit from this model of place-based, locally-grounded, multi-stakeholder revival, we would also produce a playbook that catalogs guiding principles, methods, and approach, and distills key success factors for replication. Documenting learnings and communicating both successes and learning opportunities will enable others to adapt this model to their local context.\r\n"
+  Where will you be working?:
+    - South LA
+    - Los Angeles SouthWest College
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Number of households below the self-sufficiency index
+    - Obesity rates
+    - Rates of homelessness
+    - Rates of mental illness
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -547,7 +571,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "To ensure that other communities can benefit from this model of place-based, locally-grounded, multi-stakeholder revival, we would also produce a playbook that catalogs guiding principles, methods, and approach, and distills key success factors for replication. Documenting learnings and communicating both successes and learning opportunities will enable others to adapt this model to their local context.\r\n"
-body_class: blueberry
+body_class: lime
 organization_name: Social Action Partners (SoACT)
 published: true
 

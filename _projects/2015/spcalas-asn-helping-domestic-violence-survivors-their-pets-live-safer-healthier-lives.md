@@ -15,7 +15,7 @@ project_summary: >-
   their animals’ lives.  spcaLA wants to expand ASN and break the cycle of
   violence for more people and their pets.
 Please specify below: ''
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Over 3 million incidents of domestic violence occur annually in the U.S. Many
   homes where spouses and children are neglected or abused are often shared by
@@ -214,6 +214,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The success of our proposal will ultimately be measured by the number of animals and survivors we support, as well as whether or not we are successful in replicating the program. Regardless of how many foster parents we’ve acquired, staff hired, or facilities we’ve repurposed, what is fundamentally important, is the number of lives we’ve improved. The number of men, women, and children we help escape the reign of their abuser and seek refuge. The number of survivors we give hope and peace of mind knowing their cherished pet is in good hands. The number of families we reunite and keep intact. This is how we measure success. \r\n\r\nLast year, we helped 62 men, women, and children in 30 families by caring for their pets. A total of 32 dogs, 5 cats, 1 rabbit and 1 hamster were housed in safe, loving homes while their human families received much needed emotional support from domestic violence shelters across Los Angeles County. This year, we want to help more. \r\nIf expanding the ASN program helps save the lives of more people and pets and catches like wildfire – spreading to other humane organizations and communities - our project will be deemed successful. \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Rates of homelessness
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -623,7 +648,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The success of our proposal will ultimately be measured by the number of animals and survivors we support, as well as whether or not we are successful in replicating the program. Regardless of how many foster parents we’ve acquired, staff hired, or facilities we’ve repurposed, what is fundamentally important, is the number of lives we’ve improved. The number of men, women, and children we help escape the reign of their abuser and seek refuge. The number of survivors we give hope and peace of mind knowing their cherished pet is in good hands. The number of families we reunite and keep intact. This is how we measure success. \r\n\r\nLast year, we helped 62 men, women, and children in 30 families by caring for their pets. A total of 32 dogs, 5 cats, 1 rabbit and 1 hamster were housed in safe, loving homes while their human families received much needed emotional support from domestic violence shelters across Los Angeles County. This year, we want to help more. \r\nIf expanding the ASN program helps save the lives of more people and pets and catches like wildfire – spreading to other humane organizations and communities - our project will be deemed successful. \r\n"
-body_class: strawberry
+body_class: lime
 organization_name: spcaLA
 published: true
 

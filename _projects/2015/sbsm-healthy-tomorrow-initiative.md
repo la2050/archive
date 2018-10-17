@@ -13,7 +13,7 @@ project_summary: >-
   proficiency test for student physical fitness) as well as improve student’s
   perception of fitness and exercise at these high schools.
 Please specify below: ''
-category: 0createplaylive
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   According to the Los Angeles County Department of Public Health, 42 percent of
   our children are obese or overweight. The problem is particularly acute in
@@ -276,6 +276,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "SBSM has tried to make scalable program that can be implemented at almost any middle or high school by making the program consistent yet flexible.  Class sizes, student abilities, student behaviors, and the amount of space that a school is able to allot for a fitness center varies enormously from school to school.  Giving each school the ability to tailor their fitness center to the school’s needs gives a larger sense of ownership for the school, as well as a more effective use of the fitness equipment and program.  This is one of the reasons why SBSM has grown to impact over 92,000 students per year with our 95 fitness centers in LAUSD. With the help of the L.A. 2050 grant, SBSM will be able to expand our reach in LAUSD even further.\r\n"
+  Where will you be working?:
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Obesity rates
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -745,7 +763,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "SBSM has tried to make scalable program that can be implemented at almost any middle or high school by making the program consistent yet flexible.  Class sizes, student abilities, student behaviors, and the amount of space that a school is able to allot for a fitness center varies enormously from school to school.  Giving each school the ability to tailor their fitness center to the school’s needs gives a larger sense of ownership for the school, as well as a more effective use of the fitness equipment and program.  This is one of the reasons why SBSM has grown to impact over 92,000 students per year with our 95 fitness centers in LAUSD. With the help of the L.A. 2050 grant, SBSM will be able to expand our reach in LAUSD even further.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: The Sound Body Sound Mind Foundation
 published: true
 

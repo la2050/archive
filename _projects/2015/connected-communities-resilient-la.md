@@ -13,7 +13,7 @@ project_summary: >-
   communities, for any type of disaster large or small, especially in
   vulnerable, low-income communities.
 Please specify below: ''
-category: all
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Knowing your neighbors and being engaged in your community creates the social
   connectedness we all need to live productive, healthy and fulfilled lives.
@@ -248,6 +248,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Los Angeles Home Fire Campaign  is part of a larger, four-year campaign. The project design includes reaching a total of 15 targeted communities, which rank very high on the vulnerability index specifically created for this effort. This first year will focus on five of the 15 high-risk and vulnerable communities: Van Nuys, South El Monte/El Monte, Koreatown, Paramount and East Los Angeles (Belvedere, City Terrace and Eastmont). The strategic plan for the campaign further involves working with area community groups and volunteers and canvassing the neighborhoods to conduct a minimum of 500 smoke alarm installations and family preparedness plans in each designated community (totaling at least 2,500 annually). By beginning with the five of the 15 focus communities listed above during the first, growing it by five additional neighborhoods in the second year (San Fernando, Rosemead, South San Gabriel/San Gabriel, Bell/Bell Gardens, Compton/East Compton, South Los Angeles: Exposition Park, Vermont Square and Leimert Park) and then scaling it to the full 15 communities by the end of the third project year (Pacoima, Pomona, Huntington Park/Walnut Park, Wilmington, Westlake/Pico Union), the initiative will have been scaled to cover a vast portion of LA County by the end of the campaign’s third year. \r\n\r\nOnce it has expanded into all 15 communities, year four of the effort will revolve around coalition capacity building, including running a series of coalition convenings, resulting in a stronger network of community coalitions throughout Los Angeles County. The work proposed here will cover year one of the proposed initiative and will be scaled citywide as outlined by the end of its four-year duration.\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -678,7 +701,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Los Angeles Home Fire Campaign  is part of a larger, four-year campaign. The project design includes reaching a total of 15 targeted communities, which rank very high on the vulnerability index specifically created for this effort. This first year will focus on five of the 15 high-risk and vulnerable communities: Van Nuys, South El Monte/El Monte, Koreatown, Paramount and East Los Angeles (Belvedere, City Terrace and Eastmont). The strategic plan for the campaign further involves working with area community groups and volunteers and canvassing the neighborhoods to conduct a minimum of 500 smoke alarm installations and family preparedness plans in each designated community (totaling at least 2,500 annually). By beginning with the five of the 15 focus communities listed above during the first, growing it by five additional neighborhoods in the second year (San Fernando, Rosemead, South San Gabriel/San Gabriel, Bell/Bell Gardens, Compton/East Compton, South Los Angeles: Exposition Park, Vermont Square and Leimert Park) and then scaling it to the full 15 communities by the end of the third project year (Pacoima, Pomona, Huntington Park/Walnut Park, Wilmington, Westlake/Pico Union), the initiative will have been scaled to cover a vast portion of LA County by the end of the campaign’s third year. \r\n\r\nOnce it has expanded into all 15 communities, year four of the effort will revolve around coalition capacity building, including running a series of coalition convenings, resulting in a stronger network of community coalitions throughout Los Angeles County. The work proposed here will cover year one of the proposed initiative and will be scaled citywide as outlined by the end of its four-year duration.\r\n"
-body_class: strawberry
+body_class: tangerine
 organization_name: American Red Cross Los Angeles Region (ARCLA)
 published: true
 

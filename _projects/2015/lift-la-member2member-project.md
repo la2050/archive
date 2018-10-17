@@ -12,7 +12,7 @@ project_summary: >-
   the cycle of poverty. We will build the formal and informal supports necessary
   to get resources directly into their hands. 
 Please specify below: Tenant partner of the Magnolia Community Initiative
-category: create
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   In building a dual generation approach to poverty alleviation, LIFT-LA will
   build on its model to connect parents with children to the resources needed to
@@ -284,6 +284,27 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "LIFT is focused on changing the systems that stifle social mobility for millions of vulnerable families. \r\nAt the heart of this work is perception change – in order to create a social service system that successfully supports families’ progress, those who are designing the system must fundamentally understand what the poor need, and that it is no different than the supports the middle and upper classes need to thrive. LIFT is currently developing an influence strategy to share its results and stories with key influencers, leveraging our position to shift perceptions and drive meaningful change for families in the social service system. \r\n\r\nAs we learn from our work with families, we hope to refine our message and approach to more specifically drive shifts that will create a more enabling environment for parents and their children to achieve mobility. Examples of this could be partnering with a technology company to bring aspects of our model to scale for millions of low-income Angelinos. The support from LA2050 will help us build the foundation upon which we can create a broader platform to amplify our insights and impact for low-income families. \r\n\r\nLIFT engages its cohort of advocates (mainly college students) in direct service every year. Simultaneously, the LIFT experience also pushes our advocates to grapple with the US’s most challenging issues related to poverty, race, inequality, and policy. Many of our advocates are transformed by the LIFT experience and continue to dedicate themselves to fighting poverty, whether through their chosen career, serving on nonprofit boards, or advocating in their communities. \r\n\r\nWe recognize that by delivering excellent outcomes, we can become an influential demonstration model that speaks to what works. From this platform we can persuade leaders across the philanthropic, for-profit, nonprofit, and government sectors to adapt best practices that can interrupt the cycle of poverty at scale and create a brighter future for the next generation of children.\r\n"
+  Where will you be working?:
+    - County of Los Angeles
+    - Tenant partner of the Magnolia Community Initiative
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Dual generation programmatic refocus with new Member2Member pilot.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Number of households below the self-sufficiency index
+    - Rates of homelessness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -728,7 +749,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "LIFT is focused on changing the systems that stifle social mobility for millions of vulnerable families. \r\nAt the heart of this work is perception change – in order to create a social service system that successfully supports families’ progress, those who are designing the system must fundamentally understand what the poor need, and that it is no different than the supports the middle and upper classes need to thrive. LIFT is currently developing an influence strategy to share its results and stories with key influencers, leveraging our position to shift perceptions and drive meaningful change for families in the social service system. \r\n\r\nAs we learn from our work with families, we hope to refine our message and approach to more specifically drive shifts that will create a more enabling environment for parents and their children to achieve mobility. Examples of this could be partnering with a technology company to bring aspects of our model to scale for millions of low-income Angelinos. The support from LA2050 will help us build the foundation upon which we can create a broader platform to amplify our insights and impact for low-income families. \r\n\r\nLIFT engages its cohort of advocates (mainly college students) in direct service every year. Simultaneously, the LIFT experience also pushes our advocates to grapple with the US’s most challenging issues related to poverty, race, inequality, and policy. Many of our advocates are transformed by the LIFT experience and continue to dedicate themselves to fighting poverty, whether through their chosen career, serving on nonprofit boards, or advocating in their communities. \r\n\r\nWe recognize that by delivering excellent outcomes, we can become an influential demonstration model that speaks to what works. From this platform we can persuade leaders across the philanthropic, for-profit, nonprofit, and government sectors to adapt best practices that can interrupt the cycle of poverty at scale and create a brighter future for the next generation of children.\r\n"
-body_class: banana
+body_class: lime
 organization_name: LIFT-LA
 published: true
 
