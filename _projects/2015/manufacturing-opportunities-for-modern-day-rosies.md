@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "Rosie the Riveter illustrated how women factory workers could fill manufacturing jobs during WW II. Today women workers have few opportunities in the US transit manufacturing industry.  The Modern Rosies Project aims to recruit women to factory jobs and influence manufacturers to hire women. Our travelling exhibit of modern day Rosie the Riveters raises awareness of the hardworking and capable women who are building America’s 21st century transportation and reminds people that women CAN build\r\n"
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Jobs to Move America advocates for policies that incentivize creation of
   quality jobs when transit agencies like LA Metro procure buses & railcars.
@@ -193,6 +193,34 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Through the Jobs to move America coalition, we plan to bring the Modern Rosies project to Illinois, New York & Washington DC.   We are already working with the U.S Department of Transportation on bringing the Rosie exhibit to DC.   \r\nNational JMA supports regional JMA coalitions in the Greater Chicago area, Sacramento & the Greater New York area.  We expect to establish a presence soon in upstate New York, Minneapolis-St. Paul, & Washington State as funding becomes available. We will organize professionally curated WCB exhibits in some of these locations in partnership with the federal government & large transit agencies to seed the ground for an expansion of the larger Modern Rosies project.\r\nRegional transportation agencies such as LA Metro, Metrolink, Long Beach transit, California High Speed Rail and a new high speed rail line between LA and Las Vegas have projected many billions of dollars’ worth of projects for which there will be RFPs for manufacturers over the next 10-20 years. We will continue to work with these agencies to ensure that recruitment, training, hiring & support for women workers will be a priority in each of these RFPs.  Overall, we believe that, with a strong program, LA can continue to attract and retain large bus, railcar and related parts factories to the LA region and create a model, modern manufacturing sector that reflects the values of inclusion and diversity that are part of the LA 2050 plan.\r\nWhile hiring and inclusion of women in major industries has been a renewed topic of conversation in major media, that discussion has primarily focused on hiring of professional women and support for women in executive positions.  The fact that women are so unwelcome and excluded from LA’s heavy manufacturing workforce (where jobs tend to be better than in the growing retail, service and food processing sectors) is seldom discussed in the media or in the halls of political power.  The reality is that women have to muster huge courage to apply to be welders and electricians in LA factories in the face of so much prejudice and harassment.  That is why the Modern Rosies project is a crucial component of an agenda for a progressive LA future and will continue to grow in LA and around the country,\r\n\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Antelope Valley
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -594,7 +622,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Through the Jobs to move America coalition, we plan to bring the Modern Rosies project to Illinois, New York & Washington DC.   We are already working with the U.S Department of Transportation on bringing the Rosie exhibit to DC.   \r\nNational JMA supports regional JMA coalitions in the Greater Chicago area, Sacramento & the Greater New York area.  We expect to establish a presence soon in upstate New York, Minneapolis-St. Paul, & Washington State as funding becomes available. We will organize professionally curated WCB exhibits in some of these locations in partnership with the federal government & large transit agencies to seed the ground for an expansion of the larger Modern Rosies project.\r\nRegional transportation agencies such as LA Metro, Metrolink, Long Beach transit, California High Speed Rail and a new high speed rail line between LA and Las Vegas have projected many billions of dollars’ worth of projects for which there will be RFPs for manufacturers over the next 10-20 years. We will continue to work with these agencies to ensure that recruitment, training, hiring & support for women workers will be a priority in each of these RFPs.  Overall, we believe that, with a strong program, LA can continue to attract and retain large bus, railcar and related parts factories to the LA region and create a model, modern manufacturing sector that reflects the values of inclusion and diversity that are part of the LA 2050 plan.\r\nWhile hiring and inclusion of women in major industries has been a renewed topic of conversation in major media, that discussion has primarily focused on hiring of professional women and support for women in executive positions.  The fact that women are so unwelcome and excluded from LA’s heavy manufacturing workforce (where jobs tend to be better than in the growing retail, service and food processing sectors) is seldom discussed in the media or in the halls of political power.  The reality is that women have to muster huge courage to apply to be welders and electricians in LA factories in the face of so much prejudice and harassment.  That is why the Modern Rosies project is a crucial component of an agenda for a progressive LA future and will continue to grow in LA and around the country,\r\n\r\n"
-body_class: blueberry
+body_class: banana
 organization_name: 'Los Angeles Alliance for a New Economy: Jobs to Move America'
 published: true
 

@@ -12,7 +12,7 @@ project_summary: >-
   sincere desire to pursue Martial Arts like Bruce, but simply cannot afford to
   do so, the opportunity to participate.
 Please specify below: ''
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   From a young age Bruce Lee found himself in situations many of today’s youth
   can relate to. Bullying, street fighting, searching for ways to boost
@@ -212,6 +212,20 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We will initially take a three vertical approach to scaling the program over a 12-36 month period passed the initial 12 month funding term. Scaling is viewed as being able to continue programs within clubs and schools already participating, implementing programs in new areas of LA County and expanding the number of participants per class. The initial allocation of $12,000 for marketing materials is largely an investment in content creation to compliment these three verticals. \r\n\r\n1) Peer-2-Peer Fundraising \r\n2) Recurring Monthly Donations\r\n3) Influencers \r\n\r\nPEER-2-PEER FUNDRAISING \r\nWe will utilize our peer-2-peer fundraising platform to amplify fundraising efforts, giving the power to make a difference directly to our audience, students, schools and clubs by way of personal fundraising campaigns. This type of fundraising is low cost to run, with a high revenue return for the program - increasing the amount of kids we can impact directly. \r\n\r\nRECURRING MONTHLY DONATIONS\r\nThe ability to attract long term recurring monthly donors is strengthened by the program cost per child of $57.50 - making the financial barrier of entry small and the impact on a child's life much greater. We will attract these donors through content creation and engaging marketing campaigns driven by sharing videos, photos and telling the stories of Bruce Lee's Little Dragons via our social media we assets.\r\n\r\nINFLUENCERS \r\nMore and more people are discovering Bruce Lee every day. His social media following alone is now over 20 million. Through the foundations network of corporate, celebrity and social influencers we will share the stories of the kids, clubs and schools taking part in the program to enable larger gifts and partnerships. \r\n\r\nThis pilot program and partnership with LA2050 will be key in proving the overall concept of the program itself, prior to expanding locally within LA county, then to the greater Californian area and eventually reaching other states within the continental US. \r\n "
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Number of children enrolled in afterschool programs
+    - Percentage of residents that feel safe in their neighborhoods
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -582,7 +596,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We will initially take a three vertical approach to scaling the program over a 12-36 month period passed the initial 12 month funding term. Scaling is viewed as being able to continue programs within clubs and schools already participating, implementing programs in new areas of LA County and expanding the number of participants per class. The initial allocation of $12,000 for marketing materials is largely an investment in content creation to compliment these three verticals. \r\n\r\n1) Peer-2-Peer Fundraising \r\n2) Recurring Monthly Donations\r\n3) Influencers \r\n\r\nPEER-2-PEER FUNDRAISING \r\nWe will utilize our peer-2-peer fundraising platform to amplify fundraising efforts, giving the power to make a difference directly to our audience, students, schools and clubs by way of personal fundraising campaigns. This type of fundraising is low cost to run, with a high revenue return for the program - increasing the amount of kids we can impact directly. \r\n\r\nRECURRING MONTHLY DONATIONS\r\nThe ability to attract long term recurring monthly donors is strengthened by the program cost per child of $57.50 - making the financial barrier of entry small and the impact on a child's life much greater. We will attract these donors through content creation and engaging marketing campaigns driven by sharing videos, photos and telling the stories of Bruce Lee's Little Dragons via our social media we assets.\r\n\r\nINFLUENCERS \r\nMore and more people are discovering Bruce Lee every day. His social media following alone is now over 20 million. Through the foundations network of corporate, celebrity and social influencers we will share the stories of the kids, clubs and schools taking part in the program to enable larger gifts and partnerships. \r\n\r\nThis pilot program and partnership with LA2050 will be key in proving the overall concept of the program itself, prior to expanding locally within LA county, then to the greater Californian area and eventually reaching other states within the continental US. \r\n "
-body_class: blueberry
+body_class: strawberry
 organization_name: 'Bruce Lee Foundation '
 published: true
 

@@ -15,7 +15,7 @@ project_summary: >-
   movement and “mindful moments” into their classrooms with the result of
   keeping students balanced and engaged in learning. 
 Please specify below: ''
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our California Public Schools are in crisis, and the impact on the staff and
   students is generally one of low morale and low self-confidence in a
@@ -205,6 +205,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "FLY will send our FLY Teaching Artists to lead large staff and teacher trainings for LAUSD schools as well as provide ongoing staff support.  Teachers will be trained to implement the play and movement based curriculum independently in their classrooms.\r\n\r\nWe will create surveys & communication plans that monitor each staff member's understanding and ability to implement lessons in an authentic way, as well as each student's academic progress, level of happiness, and ability to communicate & connect.\r\n\r\nTo keep true to its vision, FLY will create video/ audio recordings to aid in introducing exercises and provide clear curriculum materials: lesson plans, intentions, teacher handbooks, and student worksheets to every participating school.\r\n\r\nFLY will also provide all necessary materials and equipment including in class tools and curriculum elements such as flash cards, handouts, yoga mats, art supplies, to support our program for a full calendar year. "
+  Where will you be working?:
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -605,7 +628,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "FLY will send our FLY Teaching Artists to lead large staff and teacher trainings for LAUSD schools as well as provide ongoing staff support.  Teachers will be trained to implement the play and movement based curriculum independently in their classrooms.\r\n\r\nWe will create surveys & communication plans that monitor each staff member's understanding and ability to implement lessons in an authentic way, as well as each student's academic progress, level of happiness, and ability to communicate & connect.\r\n\r\nTo keep true to its vision, FLY will create video/ audio recordings to aid in introducing exercises and provide clear curriculum materials: lesson plans, intentions, teacher handbooks, and student worksheets to every participating school.\r\n\r\nFLY will also provide all necessary materials and equipment including in class tools and curriculum elements such as flash cards, handouts, yoga mats, art supplies, to support our program for a full calendar year. "
-body_class: strawberry
+body_class: blueberry
 organization_name: FLY Yoga Arts
 published: true
 

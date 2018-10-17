@@ -13,7 +13,7 @@ project_summary: >-
   micro-enterprise venture that will create sustainable jobs to the entry level
   workforce for women.
 Please specify below: ''
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   MDLT is poised to launch La Paletera de Los Angeles in the summer of 2016, a
   social micro-enterprise spinning off the rich food diversity found all over
@@ -226,6 +226,25 @@ maker_answers:
     social media and on the spot conversation of buyer preferences and requests.
     Feedback will also be solicited from Paleteras regarding public comments,
     and impressions.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+    - Walk/bike/transit score
+    - Prevalence of adverse childhood experiences (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -642,7 +661,7 @@ maker_answers_list:
       via social media and on the spot conversation of buyer preferences and
       requests. Feedback will also be solicited from Paleteras regarding public
       comments, and impressions.
-body_class: blueberry
+body_class: lime
 organization_name: Mujeres de la Tierra
 published: true
 

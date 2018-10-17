@@ -11,7 +11,7 @@ project_summary: >-
   financial security and upward mobility. Through saving, individuals can
   weather financial storms, and invest in their dreams
 Please specify below: Magnolia Catchment Area
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   EARN’s vision for a healthier Los Angeles begins with building economic
   self-sufficiency and resiliency. Los Angeles residents face numerous financial
@@ -233,6 +233,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "EARN is dedicated to scaling impact through the use of technology. We have brought our savings programs online and are equipped to respond to the unique and varied needs of traditionally underserved individuals anywhere in the nation. The EARN savings program was specifically developed to focus on the transformative habit of saving, while being extremely cost efficient and highly scalable. By leveraging technology and using behavior-based rewards and incentives, our program has the potential to build a habit of saving in thousands of households in the United States. \r\n\r\nThe potential market for our savings program is huge. Almost half of Americans (40%) – 126 million people – are living on the edge of financial collapse with almost no savings. EARN intends to reach these individuals through direct marketing and by pursuing strategic partnerships with other organizations to offer EARN’s program to their low-income employees and clients. EARN has already established partnerships with twenty organizations, including four in Los Angeles. We are also pursuing sustainable earned revenue streams for businesses that want to offer the program as a benefit for their low to moderate income workers, allowing EARN to reach even more people. We currently have eight customers providing employees access to the EARN savings program. \r\n \r\nBeyond this, EARN is working to scale the impact that our program can have on people’s lives. We are building out a comprehensive suite of savings products that our clients can use to reach more ambitious savings goals. After successfully saving for emergencies our clients will be able to start saving for their children’s education, a home, or even their own retirement. All new products will be based upon our existing technology infrastructure, powered by Intuit and Amazon Web Services. \r\n\r\nEARN believes that providing the tools to save is one of the most effective ways to ensure resiliency and social-economic opportunity in our communities. We are determined to scale our success to reach people across America. \r\n"
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+    - Magnolia Catchment Area
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Number of households below the self-sufficiency index
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -634,7 +651,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "EARN is dedicated to scaling impact through the use of technology. We have brought our savings programs online and are equipped to respond to the unique and varied needs of traditionally underserved individuals anywhere in the nation. The EARN savings program was specifically developed to focus on the transformative habit of saving, while being extremely cost efficient and highly scalable. By leveraging technology and using behavior-based rewards and incentives, our program has the potential to build a habit of saving in thousands of households in the United States. \r\n\r\nThe potential market for our savings program is huge. Almost half of Americans (40%) – 126 million people – are living on the edge of financial collapse with almost no savings. EARN intends to reach these individuals through direct marketing and by pursuing strategic partnerships with other organizations to offer EARN’s program to their low-income employees and clients. EARN has already established partnerships with twenty organizations, including four in Los Angeles. We are also pursuing sustainable earned revenue streams for businesses that want to offer the program as a benefit for their low to moderate income workers, allowing EARN to reach even more people. We currently have eight customers providing employees access to the EARN savings program. \r\n \r\nBeyond this, EARN is working to scale the impact that our program can have on people’s lives. We are building out a comprehensive suite of savings products that our clients can use to reach more ambitious savings goals. After successfully saving for emergencies our clients will be able to start saving for their children’s education, a home, or even their own retirement. All new products will be based upon our existing technology infrastructure, powered by Intuit and Amazon Web Services. \r\n\r\nEARN believes that providing the tools to save is one of the most effective ways to ensure resiliency and social-economic opportunity in our communities. We are determined to scale our success to reach people across America. \r\n"
-body_class: blueberry
+body_class: lime
 organization_name: 'EARN '
 published: true
 

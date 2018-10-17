@@ -15,7 +15,7 @@ project_summary: >-
   reduced-cost transit ridership (b) educational technology innovations and (c)
   educational advocacy/civic engagement. 
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The three strategies highlighted in this project to "CONNECT” South LA
   residents to increased mobility through (a) free or reduced-cost transit
@@ -278,6 +278,27 @@ maker_answers:
     and grants.   SLATE-Z is seeking the designation of the South LA Region as a
     HUD Promise Zone, which will increase opportunities for funding and
     parntership. 
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - >-
+      Improve educational outcomes for students in 12 SLATE-Z affiliated high
+      schools in South LA.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Number of public transit riders
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -757,7 +778,7 @@ maker_answers_list:
       agencies and grants.   SLATE-Z is seeking the designation of the South LA
       Region as a HUD Promise Zone, which will increase opportunities for
       funding and parntership. 
-body_class: blueberry
+body_class: tangerine
 organization_name: Los Angeles Trade-Technical College
 published: true
 

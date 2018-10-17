@@ -13,7 +13,7 @@ project_summary: >-
   self-sufficient. Prototypes proposes to expand services to include additional
   mental health and psychiatry services.
 Please specify below: ''
-category: none
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The Second Chance Women’s Reentry Program (WRC) helps women charged with a
   felony who also have a history of substance use disorders get the treatment
@@ -314,6 +314,24 @@ maker_answers:
     advocating for treatment for formerly incarcerated women among elected
     officials, will provide Prototypes the leverage to scale the Second Chance
     Women’s Reentry Program. 
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Number of households below the self-sufficiency index
+    - Rates of homelessness
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -807,7 +825,7 @@ maker_answers_list:
       treatment for formerly incarcerated women among elected officials, will
       provide Prototypes the leverage to scale the Second Chance Women’s Reentry
       Program. 
-body_class: strawberry
+body_class: lime
 organization_name: Prototypes
 published: true
 

@@ -272,6 +272,38 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Over the next ten years, Reading Partners’ organizational strategic plan is focused on increasing fourth grade national literacy achievement for low-income students by scaling and innovating our proven intervention program across the country. Los Angeles’ current expansion is essential to this growth. On a local level, we intend to replicate the success of our program in the Pasadena area, where strategic community and district-level relationships have critically affected the sustainability and growth of our program. By fall/winter 2015, we expect to have identified potential school and district partnerships in order to begin negotiations in spring 2016 for a summer 2016 launch date. \r\n\r\nAs we scale, our guiding principal is to create the highest-level of impact for as many students as possible. Testament to the value and impact of Reading Partners in LA, in 2014-15, 88% of students increased their rates of literacy learning while enrolled in our program, and on average, students more than doubled their rate of learning for every month enrolled in Reading Partners. In addition, 100% of principals at our partner schools reported improved reading progress school-wide and felt Reading Partners was a valuable asset to their schools. Our corps of Los Angeles-based volunteer tutors also gave nearly 15,000 hours of their time to support student literacy. Beyond just their time, our tutors also shared their energy, positivity, and belief in the importance of public education. Eighty-two percent of tutors reported they are more interested in public education due to their service with Reading Partners, and 76% reported that their experience with the organization strengthened their belief that not only teachers, but all citizens, can directly impact educational outcomes for children. \r\n\r\nHaving began at a single elementary school in 1999, today, Reading Partners is in 13 regions across the United States, directly serving more than 9,200 students in 180 schools with the support of more than 15,000 volunteers. By building on our current successes, we aspire to dramatically expand our impact, and ultimately have a positive effect on reading proficiency nationwide. At Reading Partners, we believe that literacy unlocks opportunity, and every child deserves to learn this fundamental skill that affords them the opportunity to comprehend, engage, and change the world around them. We look forward to advancing this critical work both here at home in Los Angeles and beyond."
+  Where will you be working?:
+    - San Gabriel Valley
+    - Westside
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      Our current ten school partners are located in Pasadena, Mid-City LA,
+      Santa Monica, and Lawndale. We are currently reaching out to new
+      prospective partners where we hope to identify an additional four to six
+      schools to collaborate with by 2016-17.
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

@@ -197,6 +197,27 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Throughout the program development, we will be working closely with the Trustees and Chancellors of the LA Community College District to lay the groundwork for a plan to scale the program up to be offered at the other Community Colleges throughout the region: Mission, Valley, Pierce, City, East, West, Southwest and Harbor.  \r\n\r\nAs Angelenos interest in adopting urban acupuncture strategies grows, students in the first three years of classes will have opportunities to serve requisite field apprenticeships with Water LA small business partners, and with our NGO partners as we retrofit 100 more homes and 1,000 parkway basins through the Water LA Phase 2 pilot.\r\n\r\nOur ultimate aim is to design a curriculum that can be transferred to colleges throughout the California Community College System and ultimately, the west."
+  Where will you be working?:
+    - City of Los Angeles
+    - LA Trade Tech
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Percent of imported water
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

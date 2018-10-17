@@ -13,7 +13,7 @@ project_summary: >-
   unleash some cool new creative videos and books to convert the best
   change-makers: kids.
 Please specify below: Across the Southern California region
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   California faces its worst drought in over a century, compounding long term
   trends. The state's water supply system was largely built a generation ago for
@@ -247,6 +247,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The data science work in this public education campaign integrates into a long term strategy to drought proof Southern California.  A group of leading water utilities are working together to put the entire lifecycle of California's water usage data in a centralized cloud platform through a new initiative called the \"California Water Data Collaborative\" being developed in partnership with UC Davis Center for Water and Energy Efficiency and the California Urban Water Conservation Council.  This project offers a long term investment in improved data infrastructure across the water community with a spectrum of operational efficiency and demand management benefits.  Analytical experts can work together to achieve water efficiency to:\r\n•\tCollaborate within and across utilities, as well as with a range of other stakeholders;\r\n•\tImprove utility system performance, including leak loss detection and repair, pressure management, and prioritization of projects within capital improvement programs;\r\n•\tBenchmark water and energy use across customers, customer classes, and utilities;\r\n•\tAssess the effectiveness of demand management strategies within a utility and across utilities;\r\n•\tImprove the effectiveness of data generated from AMI systems;\r\n•\tImprove demand forecasts for water wholesalers;\r\n•\tStreamline and standardize reporting to the California Urban Water Conservation Council, state agencies, and other agencies and organizations;\r\n•\tBetter understand the impacts of various conservation actions including but not limited to rebates, public education, and marketing;\r\n•\tEvaluate the effectiveness and equity of different rate structures;\r\n•\tAssess the effectiveness of utilities’ responses within a particular utility as well as across utilities to past and present state mandated actions;\r\n•\tIdentify the current utility data landscape;\r\n•\tIdentify gaps and challenges in data collection and management;\r\n•\tMerge utility data with data outside the utility (e.g., account-level water or energy use with U.S. Census data) to explore a broad range of hypotheses and questions;\r\n•\tDrive innovation in the water and energy sectors.\r\n\r\nIn the twentieth century, California's invested in pioneering physical infrastructure to safeguard our water future and create an unprecedented era of water supply.  This new virtual infrastructure will ensure California's water future into the next century by powering an unprecedented era of water efficiency.\r\n"
+  Where will you be working?:
+    - Across the Southern California region
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Exposure to air toxins
+    - Percent of imported water
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -664,7 +682,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The data science work in this public education campaign integrates into a long term strategy to drought proof Southern California.  A group of leading water utilities are working together to put the entire lifecycle of California's water usage data in a centralized cloud platform through a new initiative called the \"California Water Data Collaborative\" being developed in partnership with UC Davis Center for Water and Energy Efficiency and the California Urban Water Conservation Council.  This project offers a long term investment in improved data infrastructure across the water community with a spectrum of operational efficiency and demand management benefits.  Analytical experts can work together to achieve water efficiency to:\r\n•\tCollaborate within and across utilities, as well as with a range of other stakeholders;\r\n•\tImprove utility system performance, including leak loss detection and repair, pressure management, and prioritization of projects within capital improvement programs;\r\n•\tBenchmark water and energy use across customers, customer classes, and utilities;\r\n•\tAssess the effectiveness of demand management strategies within a utility and across utilities;\r\n•\tImprove the effectiveness of data generated from AMI systems;\r\n•\tImprove demand forecasts for water wholesalers;\r\n•\tStreamline and standardize reporting to the California Urban Water Conservation Council, state agencies, and other agencies and organizations;\r\n•\tBetter understand the impacts of various conservation actions including but not limited to rebates, public education, and marketing;\r\n•\tEvaluate the effectiveness and equity of different rate structures;\r\n•\tAssess the effectiveness of utilities’ responses within a particular utility as well as across utilities to past and present state mandated actions;\r\n•\tIdentify the current utility data landscape;\r\n•\tIdentify gaps and challenges in data collection and management;\r\n•\tMerge utility data with data outside the utility (e.g., account-level water or energy use with U.S. Census data) to explore a broad range of hypotheses and questions;\r\n•\tDrive innovation in the water and energy sectors.\r\n\r\nIn the twentieth century, California's invested in pioneering physical infrastructure to safeguard our water future and create an unprecedented era of water supply.  This new virtual infrastructure will ensure California's water future into the next century by powering an unprecedented era of water efficiency.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: Southern California Water Committee
 published: true
 

@@ -195,6 +195,45 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: Creating mentors
   How do you plan to scale the success of your proposal?: "Building awareness and partnerships with the following:\r\n\r\n-Continuing adding schools to our partnership list by meeting with education and business leadership throughout LA\r\n-LA2050 backing and branding will definitely speed up partnerships across all LA educational institutions, small businesses, and locally based corporations. Just the LA2050 brand alone accelerates the process.\r\n-Promoting mentoring program among students, parents, and associations throughout LA.\r\n-Reach out to key stakeholders through in person meetings, phone, online channels, maintaining a physical presence at LA citywide events, institutional partnerships\r\n-Adding value to education institutions and non-profits throughout LA to continue growth and serving the needs of stakeholders\r\n-Partner with after school programs\r\n-Draw from the own LA community of student leaders to act as ambassadors to drive growth throughout their own peers also generating organic growth\r\n-Articles and publications that can be spread through various social media channels"
+  Where will you be working?:
+    - Central LA
+    - City of Los Angeles
+    - 'Community Colleges, High Schools, USC'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - Partnerships with Community Colleges and High Schools
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

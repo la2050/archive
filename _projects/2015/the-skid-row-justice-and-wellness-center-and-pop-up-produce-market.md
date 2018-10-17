@@ -13,7 +13,7 @@ project_summary: >-
   food through a seed-to-market community garden, produce market and
   micro-enterprise center.
 Please specify below: Downtown LA's Skid Row Community
-category: create
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Homeless and extremely-low income residents in Skid Row and South LA face some
   of the most serious and entrenched health problems facing Angelenos, including
@@ -249,6 +249,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The LA 2050 Challenge grant will help LA CAN fully implement all of the healthy food access aspects of our new Skid Row Justice and Wellness Center, which will allow us to build upon the successful pop-up market LA CAN operates in the Pueblo del Rio community of South Los Angeles. This market has successfully created a new and sustainable source of fresh produce in an extremely low-income community, provided local employment opportunities, and distributes 0.6 tons of produce each month.  Our project also builds on our streetscape garden at our Skid Row location, which has more than 20 active residents maintaining it, harvesting food grown, and providing it to the community through food demonstrations and meals at community meetings.  \r\n\r\nWe are fully confident that the support we receive from LA 2050 will allow us to continue to expand this proven model for creating a healthy LA. Once operational, we envision building other community gardens and incorporating produce grown in these spaces into our market, expanding the locations and days we are able to operate the market, and sharing this model with other organizations throughout Los Angeles. \r\n\r\nWe know our model for increasing the health of poor communities of color through community education,  gardening, healthy food access, and micro-enterprise works. With the help of LA 2050, we can continue to help make LA the healthiest place to live."
+  Where will you be working?:
+    - Central LA
+    - South LA
+    - 'Downtown LA''s Skid Row Community '
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Rates of homelessness
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -679,7 +701,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The LA 2050 Challenge grant will help LA CAN fully implement all of the healthy food access aspects of our new Skid Row Justice and Wellness Center, which will allow us to build upon the successful pop-up market LA CAN operates in the Pueblo del Rio community of South Los Angeles. This market has successfully created a new and sustainable source of fresh produce in an extremely low-income community, provided local employment opportunities, and distributes 0.6 tons of produce each month.  Our project also builds on our streetscape garden at our Skid Row location, which has more than 20 active residents maintaining it, harvesting food grown, and providing it to the community through food demonstrations and meals at community meetings.  \r\n\r\nWe are fully confident that the support we receive from LA 2050 will allow us to continue to expand this proven model for creating a healthy LA. Once operational, we envision building other community gardens and incorporating produce grown in these spaces into our market, expanding the locations and days we are able to operate the market, and sharing this model with other organizations throughout Los Angeles. \r\n\r\nWe know our model for increasing the health of poor communities of color through community education,  gardening, healthy food access, and micro-enterprise works. With the help of LA 2050, we can continue to help make LA the healthiest place to live."
-body_class: banana
+body_class: lime
 organization_name: Los Angeles Community Action Network
 published: true
 

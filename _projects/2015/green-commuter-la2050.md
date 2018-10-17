@@ -13,7 +13,7 @@ project_summary: >-
   comprehensive program to reduce greenhouse gas emissions and traffic
   congestion, all while reducing commuting costs.
 Please specify below: ''
-category: 0create0live
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Green Commuter will make LA the best place to connect by offering a tool to
   help LA residents, commuters, and visitors get from one place to another in an
@@ -218,6 +218,32 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Green Commuter plans to launch the service in the first quarter of 2016 by generating demand prior to deployment through pre-registration and executed service agreements for vanpooling, car sharing and fleet replacement by large employer centers, employees, universities, and individuals. By working with various entities across the city to introduce the pilot program, Green Commuter can tailor its model to meet the unique needs of a company’s systems and future initiatives. For example, employees at large employment centers and university faculty/staff at locations that have elected to implement Green Commuter’s car sharing service during the day can use the vehicles to grab lunch, run errands on breaks and go to offsite meetings. For other employers and local municipalities, there is a need to reduce costs for fleet maintenance. Leasing a fleet is more affordable for many employers who save on insurance, registration, maintenance, repairs, depreciation and fuel by using Green Commuter’s services. Regardless of the need, Green Commuter plans to introduce its model with an initial five to ten vehicles at each company, serving a diverse group of companies throughout the Los Angeles area. Green Commuter expects to launch the service with 100 total vehicles and forecasts the fleet to grow to 1,000 vehicles by the end of 2017. As other vehicles come to market that meet the range and passenger capacity criteria for the company’s model, Green Commuter intends to diversify its fleet.  \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - City of Los Angeles
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Median travel time to work
+    - Attendance at cultural events
+    - Number of public transit riders
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -621,7 +647,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Green Commuter plans to launch the service in the first quarter of 2016 by generating demand prior to deployment through pre-registration and executed service agreements for vanpooling, car sharing and fleet replacement by large employer centers, employees, universities, and individuals. By working with various entities across the city to introduce the pilot program, Green Commuter can tailor its model to meet the unique needs of a company’s systems and future initiatives. For example, employees at large employment centers and university faculty/staff at locations that have elected to implement Green Commuter’s car sharing service during the day can use the vehicles to grab lunch, run errands on breaks and go to offsite meetings. For other employers and local municipalities, there is a need to reduce costs for fleet maintenance. Leasing a fleet is more affordable for many employers who save on insurance, registration, maintenance, repairs, depreciation and fuel by using Green Commuter’s services. Regardless of the need, Green Commuter plans to introduce its model with an initial five to ten vehicles at each company, serving a diverse group of companies throughout the Los Angeles area. Green Commuter expects to launch the service with 100 total vehicles and forecasts the fleet to grow to 1,000 vehicles by the end of 2017. As other vehicles come to market that meet the range and passenger capacity criteria for the company’s model, Green Commuter intends to diversify its fleet.  \r\n"
-body_class: strawberry
+body_class: tangerine
 organization_name: Green Commuter
 published: true
 

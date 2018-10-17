@@ -13,7 +13,7 @@ project_summary: >-
   Pipeline; an underground container shuttle under existing freeways connecting
   four counties, and 3)last mile truck feeder terminals.
 Please specify below: 'The La Kretz Innovation Campus 411 S. Hewitt St. LA, CA 90013'
-category: create
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   GRID's mission is to handle future anticipated increases in freight volume
   while simultaneously reducing our carbon and traffic footprints. How? First,
@@ -381,6 +381,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The program will commence at the La Kretz Innovation Campus where GRID will be further developed by a team of full time and part time intern staff and supported by the centers availability of world class research facilities and equipment.  All printed materials come at no cost to the business.  The program begins with continuing our campaign outreach to stakeholders.  This award will bolster our ability to gain acceptance of the new Office of Extraordinary Innovation created by LAMTA and just opened on October 5th as we will apply as a project participant. In July Governor Brown issued executive order B-32-15 to create pilot projects \"to ensure progress towards a sustainable freight system, these entities initiate work this year on corridor-level freight pilot projects within the State's primary trade corridors that integrate advanced technologies, alternative fuels, freight and fuel infrastructure, and local economic development opportunities.\" Please see the executive order at https://www.gov.ca.gov/news.php?id=19046\r\nThis executive order seeks widespread collaboration to achieve a sustainable freight transportation system.  The MYLA2050 award will sustain our companies efforts to connect with the state, federal, regional, and local stakeholders to move this proposal forward.  We intend to scale the proposal by engaging with private firms interested in investing in our transportation infrastructure, however, we must collaborate with local stakeholders first to ensure that the project is in demand from communities near the freight supply chain.  We seek support from both public and private interests to engage with these \"grassroots\" and under represented constituencies. The ultimate success of failure of this project lies within our ability to evaluate the project for feasibility.  This is what the core mission is of the proposers and the MYLA2050 award is a means to start the process.\r\n"
+  Where will you be working?:
+    - East LA
+    - 'The La Kretz Innovation Campus 411 S. Hewitt St. LA, CA 90013'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Walk/bike/transit score
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -916,7 +936,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The program will commence at the La Kretz Innovation Campus where GRID will be further developed by a team of full time and part time intern staff and supported by the centers availability of world class research facilities and equipment.  All printed materials come at no cost to the business.  The program begins with continuing our campaign outreach to stakeholders.  This award will bolster our ability to gain acceptance of the new Office of Extraordinary Innovation created by LAMTA and just opened on October 5th as we will apply as a project participant. In July Governor Brown issued executive order B-32-15 to create pilot projects \"to ensure progress towards a sustainable freight system, these entities initiate work this year on corridor-level freight pilot projects within the State's primary trade corridors that integrate advanced technologies, alternative fuels, freight and fuel infrastructure, and local economic development opportunities.\" Please see the executive order at https://www.gov.ca.gov/news.php?id=19046\r\nThis executive order seeks widespread collaboration to achieve a sustainable freight transportation system.  The MYLA2050 award will sustain our companies efforts to connect with the state, federal, regional, and local stakeholders to move this proposal forward.  We intend to scale the proposal by engaging with private firms interested in investing in our transportation infrastructure, however, we must collaborate with local stakeholders first to ensure that the project is in demand from communities near the freight supply chain.  We seek support from both public and private interests to engage with these \"grassroots\" and under represented constituencies. The ultimate success of failure of this project lies within our ability to evaluate the project for feasibility.  This is what the core mission is of the proposers and the MYLA2050 award is a means to start the process.\r\n"
-body_class: banana
+body_class: lime
 organization_name: GRID Logistics Inc
 published: true
 

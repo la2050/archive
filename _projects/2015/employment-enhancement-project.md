@@ -222,6 +222,27 @@ maker_answers:
     previous reporting periods, census data from zip codes served (low-income
     neighborhoods of South Los Angeles, East Los Angeles, North Long Beach,
     Inglewood, San Gabriel Valley, San Fernando, Lancaster, and Palmdale).
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - All low-income job seekers in Los Angeles
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Number of households below the self-sufficiency index
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

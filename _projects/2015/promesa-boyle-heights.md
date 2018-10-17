@@ -16,7 +16,7 @@ Please specify below: >-
   While the Promesa vision is specific to Boyle Heights, our systems change work
   and contributions to communities of practice will impact Los Angeles as a
   whole.
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our work began in 2010, when Boyle Heights became one of 21 communities
   nationally to receive a Promise Neighborhood planning grant from the US DOE.
@@ -235,6 +235,46 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Sustainability and scale of impact have been two prominent conversations in our Promesa BH Steering Committee. In 2011, we faced our first major hurdle when despite being among the top scorers for a highly competitive Department of Education Promise Neighborhood competition, we did not receive the $30 million grant that would have allowed us to fully implement our plan. Yet, every single individual and organization involved was inspired and determined to press on and work together towards achieving our shared vision because they felt connected and a deep sense of ownership towards the vision we developed. \r\n\r\nProyecto Pastoral as the backbone organization has been committed to the Promesa BH vision from the beginning. As a core member of the fundraising and sustainability committee, Proyecto is working with other partners to build momentum and support for the unique collective impact model we've built.\r\n\r\nWe believe that resident leadership and the spirit of collaboration have been - and will continue to be - a driving force as we work to fully implement the strategies in our original plan. This plan includes working towards the day when we have a strong Community-School and resident leadership infrastructure at each school, when we a strong and coordinated Early Learning Network, and a Transition to College Network in Boyle Heights. \r\n\r\nAs part of our involvement in the national Promise Neighborhood Institute, we are also beginning to share best practices and tools with other communities and organizations in Los Angeles and throughout the nation. We see this as an important part of our contribution towards the field of education and community transformation."
+  Where will you be working?:
+    - East LA
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      While the Promesa vision is specific to Boyle Heights, our systems change
+      work and contributions to communities of practice will impact Los Angeles
+      as a whole.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -627,7 +667,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Sustainability and scale of impact have been two prominent conversations in our Promesa BH Steering Committee. In 2011, we faced our first major hurdle when despite being among the top scorers for a highly competitive Department of Education Promise Neighborhood competition, we did not receive the $30 million grant that would have allowed us to fully implement our plan. Yet, every single individual and organization involved was inspired and determined to press on and work together towards achieving our shared vision because they felt connected and a deep sense of ownership towards the vision we developed. \r\n\r\nProyecto Pastoral as the backbone organization has been committed to the Promesa BH vision from the beginning. As a core member of the fundraising and sustainability committee, Proyecto is working with other partners to build momentum and support for the unique collective impact model we've built.\r\n\r\nWe believe that resident leadership and the spirit of collaboration have been - and will continue to be - a driving force as we work to fully implement the strategies in our original plan. This plan includes working towards the day when we have a strong Community-School and resident leadership infrastructure at each school, when we a strong and coordinated Early Learning Network, and a Transition to College Network in Boyle Heights. \r\n\r\nAs part of our involvement in the national Promise Neighborhood Institute, we are also beginning to share best practices and tools with other communities and organizations in Los Angeles and throughout the nation. We see this as an important part of our contribution towards the field of education and community transformation."
-body_class: strawberry
+body_class: blueberry
 organization_name: Promesa Boyle Heights at Proyecto Pastoral
 published: true
 

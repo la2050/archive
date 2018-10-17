@@ -13,7 +13,7 @@ project_summary: >-
   Angeles schools to implement our proven programming, thereby reaching a total
   of 3,649 individuals. 
 Please specify below: ''
-category: 0createplay0
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Common Threads will make Los Angeles the healthiest place to live by providing
   underserved kids (grades 3-8), their families, and their teaches with
@@ -235,6 +235,18 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "In Los Angeles, we will continue to scale our programming and grow our reach by: 1) increasing uptake of our Small Bites nutrition education program among our partner schools; 2) continuing to prove out our new model of implementing Small Bites in partnership with out-of-school time program providers and district-led, in- and after-school initiatives; and 3) deepening our engagement within each partner school. Small Bites is an effective but lower-cost program, with the added benefits of being aligned to Common Core and Next Generation Science Standards and being flexible enough to leverage as part of partnerships with other organizations; thus, by expanding Small Bites, we will reach more kids and families in an efficient, sustainable, and impactful way.\r\n\r\nAdditionally, this past year, we developed a game-based nutrition education app, CommonBytes, which we believe has the potential to supplement our current programs, increasing their impact in the short term, and to bring relevant nutrition learning to additional kids in the long term. The CommonBytes app includes interactive games designed for students grades 3-8 to use with classroom teachers in school – including as a supplement to our Small Bites program - or at home. Participants follow recipes from the garden to the grocery store to the kitchen, and, finally, to a table. The CommonBytes platform will consist of 10-15 games – with easy, medium, and hard levels - that incorporate gardening, healthy shopping, healthy cooking techniques, and table etiquette as well as over 25 recipes, organized by Snacks, Meals, Beverages, and Treats. Incentive points and badges that further the nutritional experience (e.g., personal secrets and recipes from celebrity chefs) will be awarded as various milestones and goals are reached. Parents and teachers will also be able to access the app to track the progress of their child or student in completing the games; look up new recipes; or find cooking and nutrition resources.\r\n\r\nThis fall, we are piloting CommonBytes in the Miami-Dade County Public Schools, with a national pilot –including in Los Angeles – planned for 2016. Overall, during the 2015-16 school year, we expect up to 5,000 kids to receive cooking and nutrition education through CommonBytes. "
+  Where will you be working?:
+    - County of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -656,7 +668,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "In Los Angeles, we will continue to scale our programming and grow our reach by: 1) increasing uptake of our Small Bites nutrition education program among our partner schools; 2) continuing to prove out our new model of implementing Small Bites in partnership with out-of-school time program providers and district-led, in- and after-school initiatives; and 3) deepening our engagement within each partner school. Small Bites is an effective but lower-cost program, with the added benefits of being aligned to Common Core and Next Generation Science Standards and being flexible enough to leverage as part of partnerships with other organizations; thus, by expanding Small Bites, we will reach more kids and families in an efficient, sustainable, and impactful way.\r\n\r\nAdditionally, this past year, we developed a game-based nutrition education app, CommonBytes, which we believe has the potential to supplement our current programs, increasing their impact in the short term, and to bring relevant nutrition learning to additional kids in the long term. The CommonBytes app includes interactive games designed for students grades 3-8 to use with classroom teachers in school – including as a supplement to our Small Bites program - or at home. Participants follow recipes from the garden to the grocery store to the kitchen, and, finally, to a table. The CommonBytes platform will consist of 10-15 games – with easy, medium, and hard levels - that incorporate gardening, healthy shopping, healthy cooking techniques, and table etiquette as well as over 25 recipes, organized by Snacks, Meals, Beverages, and Treats. Incentive points and badges that further the nutritional experience (e.g., personal secrets and recipes from celebrity chefs) will be awarded as various milestones and goals are reached. Parents and teachers will also be able to access the app to track the progress of their child or student in completing the games; look up new recipes; or find cooking and nutrition resources.\r\n\r\nThis fall, we are piloting CommonBytes in the Miami-Dade County Public Schools, with a national pilot –including in Los Angeles – planned for 2016. Overall, during the 2015-16 school year, we expect up to 5,000 kids to receive cooking and nutrition education through CommonBytes. "
-body_class: strawberry
+body_class: lime
 organization_name: Common Threads
 published: true
 

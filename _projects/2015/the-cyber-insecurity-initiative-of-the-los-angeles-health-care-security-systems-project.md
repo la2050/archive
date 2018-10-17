@@ -15,7 +15,7 @@ project_summary: >-
   healthcare information in LA’s hospitals to assess the differences between
   cyber threat perceptions and actual vulnerabilities.
 Please specify below: ''
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The residents and visitors of LA County deserve and expect a safe, reliable
   healthcare system that protects their personal health information and provides
@@ -260,6 +260,26 @@ maker_answers:
     infrastructure such as public safety and public health, as well as
     in-patients and out-patients.  The pilot survey we will work with is at
     https://www.surveymonkey.com/r/healthcybersecurity. 
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -724,7 +744,7 @@ maker_answers_list:
       infrastructure such as public safety and public health, as well as
       in-patients and out-patients.  The pilot survey we will work with is at
       https://www.surveymonkey.com/r/healthcybersecurity. 
-body_class: blueberry
+body_class: lime
 organization_name: The Center of Medical Multimedia Education and Technology (COMMET)
 published: true
 

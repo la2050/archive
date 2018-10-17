@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "Our goal, and our vision for the Los Angeles of 2050 is a vibrant network of affordable, accessible biotech incubators across the LA metro region, where life science innovators from any background can access the facilities and equipment they need to move their ideas forward. \r\n\r\nAt LabLaunch-Monrovia, we will provide high-quality laboratory space, state-of-the-art shared equipment, and a supportive innovation community, giving biotech startups a place to take root in Los Angeles."
 Please specify below: Monrovia; Monrovia USD; LA County; City of LA
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles is home to several world-class research universities, and
   thousands of talented young scientists. However, there is little entry-level
@@ -186,6 +186,38 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our vision for 2050 is a vibrant network of affordable, accessible biotech incubators across the LA region, where life science innovators from any background can access the facilities and equipment they need to move their ideas forward. \r\n\r\nLabLaunch-Monrovia represents the prototypical example of the support we plan to build for the biotech innovators of Los Angeles. Following completion of LabLaunch-Monrovia, we plan to create another 4-5 similar facilities, serving areas across LA County to ensure that all life science entrepreneurs have an affordable and accessible place to start their business. In partnership with the cities and County of Los Angeles, as well as our private sector partners, we will identify suitable locations and create facilities tailored to the needs and existing assets of the local areas.\r\n\r\nOnce businesses have found a place to start up and develop their technologies through a Lab Launch incubator, they will soon need both larger facilities to accommodate their continued growth, as well as funding to commercialize and scale their products. With our partners in the public and private sectors, we intend to create a network of innovation spaces that will serve growing biotech companies until they are successful enough to become stand-alone operations. Examples include scalable facilities where growing companies can rent individual research and development suites, as well as facilities to accommodate commercial business acceleration programs that can help move startups to the marketplace more efficiently. Additionally, we will partner with investors and venture capital to create dedicated biotech investment fund opportunities that will provide financial support to promising startups that use our facilities. \r\n\r\nWe believe that the path to a prosperous and thriving economy for the 21st Century is through supporting innovative new businesses that will create the technologies of tomorrow. By enabling these groundbreaking companies to start up, grow and thrive here, they will in turn create thousands of quality jobs across the region, supporting a thriving middle class for the Los Angeles area of 2050."
+  Where will you be working?:
+    - San Gabriel Valley
+    - Monrovia; Monrovia USD; LA County; City of LA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Create” metrics?:
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Patents per capital
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -591,7 +623,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our vision for 2050 is a vibrant network of affordable, accessible biotech incubators across the LA region, where life science innovators from any background can access the facilities and equipment they need to move their ideas forward. \r\n\r\nLabLaunch-Monrovia represents the prototypical example of the support we plan to build for the biotech innovators of Los Angeles. Following completion of LabLaunch-Monrovia, we plan to create another 4-5 similar facilities, serving areas across LA County to ensure that all life science entrepreneurs have an affordable and accessible place to start their business. In partnership with the cities and County of Los Angeles, as well as our private sector partners, we will identify suitable locations and create facilities tailored to the needs and existing assets of the local areas.\r\n\r\nOnce businesses have found a place to start up and develop their technologies through a Lab Launch incubator, they will soon need both larger facilities to accommodate their continued growth, as well as funding to commercialize and scale their products. With our partners in the public and private sectors, we intend to create a network of innovation spaces that will serve growing biotech companies until they are successful enough to become stand-alone operations. Examples include scalable facilities where growing companies can rent individual research and development suites, as well as facilities to accommodate commercial business acceleration programs that can help move startups to the marketplace more efficiently. Additionally, we will partner with investors and venture capital to create dedicated biotech investment fund opportunities that will provide financial support to promising startups that use our facilities. \r\n\r\nWe believe that the path to a prosperous and thriving economy for the 21st Century is through supporting innovative new businesses that will create the technologies of tomorrow. By enabling these groundbreaking companies to start up, grow and thrive here, they will in turn create thousands of quality jobs across the region, supporting a thriving middle class for the Los Angeles area of 2050."
-body_class: blueberry
+body_class: banana
 organization_name: Lab Launch
 published: true
 

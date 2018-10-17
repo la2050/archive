@@ -17,7 +17,7 @@ Please specify below: >-
   co-working space is built. The LA2015 grant would allow our organization to
   continue providing carefully curated programming to the South LA community at
   the Historic Leimert Par
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Plug In provides opportunities for youth, city stakeholders, executives,
   startups, and entrepreneurs to play a role in South LA’s transformation into a
@@ -212,6 +212,42 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Plug In South LA anticipates growing the number of attendees and program participants by 20-30% in our second year by increasing our partnerships with surrounding educational institutions as well as expanding our professional network and sphere of influence by inviting successful executives, venture capitalists and angel investors to speak at events. In addition, we plan to diversify our programing beyond tech and digital media to include areas such as financial literacy within an entrepreneurial context. Scaling up successfully for us also means offering workshops and events in more South LA neighborhoods such as Inglewood, Compton, Huntington Park, and South Gate. \r\n\r\nPlug In South LA will catalyze the growth of its member companies and startups with its mentorship program and connections to venture capital. As Plug In South LA members become successful and hire more employees they will move out to larger dedicated office spaces in the surrounding community increasing economic activity. After proving to be a successful business model for generating and growing businesses Plug In will seek to open more co-working locations branching out to the South and East. \r\n"
+  Where will you be working?:
+    - South LA
+    - >-
+      Plug In South LA will be operating out of our Playa Vista location while
+      our co-working space is built. The LA2015 grant would allow our
+      organization to continue providing carefully curated programming to the
+      South LA community at the Historic Leimert Par
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - >-
+      Host events that instigate entrepreneurial proactivity among students and
+      young professionals in South LA.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -648,7 +684,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Plug In South LA anticipates growing the number of attendees and program participants by 20-30% in our second year by increasing our partnerships with surrounding educational institutions as well as expanding our professional network and sphere of influence by inviting successful executives, venture capitalists and angel investors to speak at events. In addition, we plan to diversify our programing beyond tech and digital media to include areas such as financial literacy within an entrepreneurial context. Scaling up successfully for us also means offering workshops and events in more South LA neighborhoods such as Inglewood, Compton, Huntington Park, and South Gate. \r\n\r\nPlug In South LA will catalyze the growth of its member companies and startups with its mentorship program and connections to venture capital. As Plug In South LA members become successful and hire more employees they will move out to larger dedicated office spaces in the surrounding community increasing economic activity. After proving to be a successful business model for generating and growing businesses Plug In will seek to open more co-working locations branching out to the South and East. \r\n"
-body_class: blueberry
+body_class: tangerine
 organization_name: Plug In South LA
 published: true
 

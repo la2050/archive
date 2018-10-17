@@ -13,7 +13,7 @@ project_summary: >-
   and visitors by sharing personal stories, learning about different cultures,
   and making friends. 
 Please specify below: ''
-category: 0createplay0
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Ambassador Bird is a kawaii ("adorable" in Japanese) character that represents
   the best of LA -- culture, diversity, fun, creativity, and love. Using the
@@ -192,6 +192,25 @@ maker_answers:
     it is simple to create multiple costumes (due to the kevlar process) and
     coordinate through one office.  If merchandise sales are successful, the
     project will be self-funding.
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -636,7 +655,7 @@ maker_answers_list:
       it is simple to create multiple costumes (due to the kevlar process) and
       coordinate through one office.  If merchandise sales are successful, the
       project will be self-funding.
-body_class: strawberry
+body_class: tangerine
 organization_name: Bill Weber Studios
 published: true
 

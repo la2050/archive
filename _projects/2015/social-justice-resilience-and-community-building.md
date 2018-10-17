@@ -12,7 +12,7 @@ project_summary: >-
   of deep listening without judgment fosters an atmosphere of respect for one’s
   self and others, promotes empathy, understanding and cooperation. 
 Please specify below: ''
-category: live
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -179,6 +179,26 @@ maker_answers:
     We have more opportunities and organizations requesting that we work with
     them than we can manage due to our training base.  Additional funding will
     allow us to train additional trainers to meet the demand for our work.  
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -640,7 +660,7 @@ maker_answers_list:
       We have more opportunities and organizations requesting that we work with
       them than we can manage due to our training base.  Additional funding will
       allow us to train additional trainers to meet the demand for our work.  
-body_class: lime
+body_class: tangerine
 organization_name: Center for Council
 published: true
 

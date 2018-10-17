@@ -13,7 +13,7 @@ project_summary: >-
   resilience building, as well as tools to replicate the process in other
   communities. 
 Please specify below: ''
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -131,6 +131,35 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The future is uncertain, but disasters are inevitable. Many of the solutions to one problem can also be solutions to other problems, but achieving those multiple benefits requires a thoughtful and organized process, involving various stakeholders from decision-makers to architects and engineers to community members. A critical component of this project will be to create a template that can be used by other organizations and communities to initiate similar resilience efforts. This template will be incorporated into the Building Resilience LA program. \r\n\r\nThe Building Resilience LA’s certification system will help stakeholders implement resilience strategies for existing buildings, their owners, tenants, and contractors, and their surrounding communities. We have learned from experience that well-designed rating systems can change the world—the USGBC’s LEED systems have transformed the building industry, moving green building from the fringe to the mainstream. Building on these approaches, the USGBC-LA’s toolkit will take projects beyond green to become truly resilient. The Building Resilience system will help projects, and communities, to prepare, adapt, recover and thrive in the face of disruptive change. \r\n\r\nBy October 2016, when USGBC’s Greenbuild Conference comes to LA, we will have developed a detailed framework that includes both a step-by-step process and library of technical strategies that will work for the LA region and serve as a template for other regions. With additional funding, we will take this program to market by developing a subscription service that helps project teams implement resilience planning efforts, manage their information and progress, access a network of peers and receive technical support, and ultimately receive third party certification. Drawing on SCOPE’s expertise in community engagement, grassroots organizing, and leadership development, our project will serve as a case study for building community resilience to inform Building Resilience LA. Designed with scalability at the forefront, our project has the potential to influence real estate, insurance, community development, property management, public policy and a number of other fields in other regions. \r\n"
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Build a toolkit
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Percent of imported water
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -549,7 +578,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The future is uncertain, but disasters are inevitable. Many of the solutions to one problem can also be solutions to other problems, but achieving those multiple benefits requires a thoughtful and organized process, involving various stakeholders from decision-makers to architects and engineers to community members. A critical component of this project will be to create a template that can be used by other organizations and communities to initiate similar resilience efforts. This template will be incorporated into the Building Resilience LA program. \r\n\r\nThe Building Resilience LA’s certification system will help stakeholders implement resilience strategies for existing buildings, their owners, tenants, and contractors, and their surrounding communities. We have learned from experience that well-designed rating systems can change the world—the USGBC’s LEED systems have transformed the building industry, moving green building from the fringe to the mainstream. Building on these approaches, the USGBC-LA’s toolkit will take projects beyond green to become truly resilient. The Building Resilience system will help projects, and communities, to prepare, adapt, recover and thrive in the face of disruptive change. \r\n\r\nBy October 2016, when USGBC’s Greenbuild Conference comes to LA, we will have developed a detailed framework that includes both a step-by-step process and library of technical strategies that will work for the LA region and serve as a template for other regions. With additional funding, we will take this program to market by developing a subscription service that helps project teams implement resilience planning efforts, manage their information and progress, access a network of peers and receive technical support, and ultimately receive third party certification. Drawing on SCOPE’s expertise in community engagement, grassroots organizing, and leadership development, our project will serve as a case study for building community resilience to inform Building Resilience LA. Designed with scalability at the forefront, our project has the potential to influence real estate, insurance, community development, property management, public policy and a number of other fields in other regions. \r\n"
-body_class: blueberry
+body_class: lime
 organization_name: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
   Building Council Los Angeles Chapter (USGBC-LA)

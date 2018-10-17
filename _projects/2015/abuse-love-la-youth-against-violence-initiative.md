@@ -14,7 +14,7 @@ project_summary: >-
 Please specify below: >-
   Alain LeRoy Locke College Preparatory Academy and David Starr Jordan
   Educational Complex
-category: 0create0live
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Jenesse Center will make LA the best place to learn through our targeted
   violence prevention model that has the potential to change the life trajectory
@@ -269,6 +269,41 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: ' Jenesse plans to scale the success of the proposal through the number of youth (and parents) served, the number of hours of technical assistance offered, and the workshop outcomes. Before implementing our current workshops, we administered a Youth and Partner Perception Survey to ascertain the need.  The survey results were analyzed and interpreted by independent contractors Gary Bess Associates and confirmed that violence is a prevailing problem for the Los Angeles youth surveyed.  We also plan to administer a new survey to existing participants to show the effectiveness of the workshop and identify areas for improvement.  Gary Bess Associates will continue to evaluate all data and track program outcomes. Jenesse has already successfully implemented this model. In year 2 of the program we reached over 3,000 South Los Angeles youth, over 500 parents, and more than 100 service providers in 6 months through our violence prevention, intervention and outreach services. It is our intention to use the second survey results as a blue print to enhance and expand existing services, resources and technical assistance to at least 3,000 more youth, parents and partners. We also intend to have a model that can be replicated in other Los Angeles area schools and beyond. '
+  Where will you be working?:
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      Alain LeRoy Locke College Preparatory Academy and David Starr Jordan
+      Educational Complex
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -723,7 +758,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: ' Jenesse plans to scale the success of the proposal through the number of youth (and parents) served, the number of hours of technical assistance offered, and the workshop outcomes. Before implementing our current workshops, we administered a Youth and Partner Perception Survey to ascertain the need.  The survey results were analyzed and interpreted by independent contractors Gary Bess Associates and confirmed that violence is a prevailing problem for the Los Angeles youth surveyed.  We also plan to administer a new survey to existing participants to show the effectiveness of the workshop and identify areas for improvement.  Gary Bess Associates will continue to evaluate all data and track program outcomes. Jenesse has already successfully implemented this model. In year 2 of the program we reached over 3,000 South Los Angeles youth, over 500 parents, and more than 100 service providers in 6 months through our violence prevention, intervention and outreach services. It is our intention to use the second survey results as a blue print to enhance and expand existing services, resources and technical assistance to at least 3,000 more youth, parents and partners. We also intend to have a model that can be replicated in other Los Angeles area schools and beyond. '
-body_class: strawberry
+body_class: blueberry
 organization_name: 'Jenesse Center, Inc.'
 published: true
 

@@ -13,7 +13,7 @@ project_summary: >-
   instructors at a professional level to ensure sustainability of this program
   after the grant period is complete.
 Please specify below: ''
-category: play
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   I would like to create KIPP, a Kids Indoor Play Park for all young children
   (baby, infant, toddler) to participate in and develop social and physical
@@ -206,6 +206,19 @@ maker_answers:
     As intended the pilot program is sustainable and can be planted at any
     number of sites in the future or should funding allow for new pilot programs
     to begin.
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -599,7 +612,7 @@ maker_answers_list:
       As intended the pilot program is sustainable and can be planted at any
       number of sites in the future or should funding allow for new pilot
       programs to begin.
-body_class: strawberry
+body_class: blueberry
 organization_name: 'City of Los Angeles, Department of Recreation and Parks'
 published: true
 

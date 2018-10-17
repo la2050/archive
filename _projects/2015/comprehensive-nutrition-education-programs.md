@@ -12,7 +12,7 @@ project_summary: >-
   would provide six months of weekly nutrition education classes and free access
   to healthy produce for 300 families living in South LA. 
 Please specify below: ''
-category: none
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Obesity is a contributing factor in five of the top seven causes of death
   (heart disease, cancer, respiratory disease, stroke, diabetes). In South LA,
@@ -265,6 +265,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Groceryships has created a scalable model that can expand to reach hundreds and thousands of families over the coming years. This scalability is the result of strong partnerships and a training model that allows high-volume program growth.\r\n\r\nOne primary partnership component involves the healthy food scholarship, as this is a crucial aspect of the program. Previously this was a limiting factor due to the financial cost involved with providing fresh food each week. Through establishing partnerships with Food Forward and Christian Food Center to secure produce at drastically lower cost, Groceryships has decreased the fresh produce scholarship budget per program from over $2,000 to under $200 per participating family. This allows for a much more scalable model and Groceryships can offer the program experience to nearly ten times as many families for the same financial cost.\r\n\r\nThe other primary partnership component Groceryships has focused on is training new health coaches. Groceryships recently created a partnership with Esperanza Community Housing to train their community health workers to teach Groceryships programs. Groceryships's program director runs workshops for training Esperanza's community health leaders with the Groceryships curriculum, resulting in a much larger group of potential health coaches for future programs.\r\n\r\nIn addition to health coaches, each group is supported by a participant who previously graduated from a Groceryships group. These graduates serve as Program Ambassadors, and help ensure that health coaches lead groups in accordance with Groceryships’s principles and procedures. Additionally, the Program Ambassador leads the cooking class each week, giving participants hands-on experience preparing and tasting healthy meals.\r\n\r\nBy greatly lowering the cost per program and growing the roster of health coaches and Program Ambassadors, Groceryships is now in a prime position to quickly scale. In 2015 Groceryships will run 10 programs for 100 families and has the capacity to run 30 or more programs in 2016 if the necessary funding is secured. Running 30 programs in 2016 would allow Groceryhips to scale even more rapidly with the number of additional trained health coaches and graduates for becoming Program Ambassadors. Having 300 additional alumni families from 30 new programs would also drive increased referrals for more Groceryships programs and intensify the priority for health in the South LA community."
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -671,7 +691,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Groceryships has created a scalable model that can expand to reach hundreds and thousands of families over the coming years. This scalability is the result of strong partnerships and a training model that allows high-volume program growth.\r\n\r\nOne primary partnership component involves the healthy food scholarship, as this is a crucial aspect of the program. Previously this was a limiting factor due to the financial cost involved with providing fresh food each week. Through establishing partnerships with Food Forward and Christian Food Center to secure produce at drastically lower cost, Groceryships has decreased the fresh produce scholarship budget per program from over $2,000 to under $200 per participating family. This allows for a much more scalable model and Groceryships can offer the program experience to nearly ten times as many families for the same financial cost.\r\n\r\nThe other primary partnership component Groceryships has focused on is training new health coaches. Groceryships recently created a partnership with Esperanza Community Housing to train their community health workers to teach Groceryships programs. Groceryships's program director runs workshops for training Esperanza's community health leaders with the Groceryships curriculum, resulting in a much larger group of potential health coaches for future programs.\r\n\r\nIn addition to health coaches, each group is supported by a participant who previously graduated from a Groceryships group. These graduates serve as Program Ambassadors, and help ensure that health coaches lead groups in accordance with Groceryships’s principles and procedures. Additionally, the Program Ambassador leads the cooking class each week, giving participants hands-on experience preparing and tasting healthy meals.\r\n\r\nBy greatly lowering the cost per program and growing the roster of health coaches and Program Ambassadors, Groceryships is now in a prime position to quickly scale. In 2015 Groceryships will run 10 programs for 100 families and has the capacity to run 30 or more programs in 2016 if the necessary funding is secured. Running 30 programs in 2016 would allow Groceryhips to scale even more rapidly with the number of additional trained health coaches and graduates for becoming Program Ambassadors. Having 300 additional alumni families from 30 new programs would also drive increased referrals for more Groceryships programs and intensify the priority for health in the South LA community."
-body_class: strawberry
+body_class: lime
 organization_name: Groceryships
 published: true
 

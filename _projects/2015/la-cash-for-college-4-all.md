@@ -212,6 +212,19 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The LA Cash for College program recently launched its new website. With the new website, the program is developing better ways of reaching students, including: blogs from staff members and experts about college access issues, an integrated social media strategy, text messaging to students, and intentional emailing.\r\n\r\nIn addition to the website, the LA Cash for College team plans to develop the California Student Aid Commission's smart phone app by linking to the LA Cash for College Campaign. Understanding the ways in which students consume information today, the app will attract more students, give us the ability to measure which resources are most useful to them, and guide our future information and assistance strategies. The application will also allow our program to attract, organize and coordinate volunteers."
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation ratesCollege matriculation rates
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

@@ -15,7 +15,7 @@ project_summary: >-
   engagement, recruitment & training for our respective programs, plus a
   co-working space where members can connect & create.
 Please specify below: ''
-category: all
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We'll rent a commercial space & build infrastructure for The Partnership for
   Los Angeles’ Creative Education (PLACE), a collaboration between the
@@ -305,6 +305,44 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The individual organizations that form The Partnership for Los Angeles’ Creative Education are working toward stabilizing their presence in Los Angeles, but with Emerging Arts Leaders/Los Angeles & Trade School Los Angeles being part of larger networks, there is already opportunity for scaling the success of The PLACE in other communities within Los Angeles County.\r\n\r\nFor example, Trade School LA is already expanding their service footprint by establishing a Trade School Long Beach sub-chapter. Trade School LA is coordinating with volunteer instructors in the Long Beach area now to bring barter-based educational workshops through the established Trade School LA sign-up infrastructure. With the establishing of The PLACE, we are bringing stability for Trade School LA to begin recruiting & on-boarding more volunteers while fundraising for their growing overhead costs.\r\n\r\nEmerging Arts Leaders/Los Angeles is the exclusive chapter of the Emerging Arts Leaders network in Los Angeles, but there already exists an Emerging Arts Leaders/Orange County, which could potentially work with The PLACE as we look to expand our partnership further south. It would not be difficult to connect with Emerging Arts Leaders/OC once The PLACE establishes a working model in central Los Angeles.\r\n\r\nDSTL Arts, after establishing a centralized location with The PLACE, is looking to raise funds for a Mobile Art Lab for their Arts Mentorship Program students who may not have the ability to frequently travel from South LA, or further inland, into Central LA. The idea is to provide a mobile, creative workspace for youth who don’t always have access to tools or space to create at home. With the ultimate goal of expansion, DSTL Arts is very open to establishing chapters in the South Bay area & the San Fernando & San Gabriel Valleys, especially galleries that will display student artwork & provide work-readiness classes in the arts.\r\n\r\nThe leadership of Trade School LA, Emerging Arts Leaders/LA & DSTL Arts are very committed to creating a pipeline of mentorship & education for creatives at all levels of their career. We are focused on establishing a mutually-supportive infrastructure now, that can eventually be expanded into other markets that will benefit from our pipeline structure. As long as we are able to collectively find funding to expand into other markets & establish centralized spaces, while hiring staff to coordinate our respective programs, we will scale the success of our proposal."
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -725,7 +763,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The individual organizations that form The Partnership for Los Angeles’ Creative Education are working toward stabilizing their presence in Los Angeles, but with Emerging Arts Leaders/Los Angeles & Trade School Los Angeles being part of larger networks, there is already opportunity for scaling the success of The PLACE in other communities within Los Angeles County.\r\n\r\nFor example, Trade School LA is already expanding their service footprint by establishing a Trade School Long Beach sub-chapter. Trade School LA is coordinating with volunteer instructors in the Long Beach area now to bring barter-based educational workshops through the established Trade School LA sign-up infrastructure. With the establishing of The PLACE, we are bringing stability for Trade School LA to begin recruiting & on-boarding more volunteers while fundraising for their growing overhead costs.\r\n\r\nEmerging Arts Leaders/Los Angeles is the exclusive chapter of the Emerging Arts Leaders network in Los Angeles, but there already exists an Emerging Arts Leaders/Orange County, which could potentially work with The PLACE as we look to expand our partnership further south. It would not be difficult to connect with Emerging Arts Leaders/OC once The PLACE establishes a working model in central Los Angeles.\r\n\r\nDSTL Arts, after establishing a centralized location with The PLACE, is looking to raise funds for a Mobile Art Lab for their Arts Mentorship Program students who may not have the ability to frequently travel from South LA, or further inland, into Central LA. The idea is to provide a mobile, creative workspace for youth who don’t always have access to tools or space to create at home. With the ultimate goal of expansion, DSTL Arts is very open to establishing chapters in the South Bay area & the San Fernando & San Gabriel Valleys, especially galleries that will display student artwork & provide work-readiness classes in the arts.\r\n\r\nThe leadership of Trade School LA, Emerging Arts Leaders/LA & DSTL Arts are very committed to creating a pipeline of mentorship & education for creatives at all levels of their career. We are focused on establishing a mutually-supportive infrastructure now, that can eventually be expanded into other markets that will benefit from our pipeline structure. As long as we are able to collectively find funding to expand into other markets & establish centralized spaces, while hiring staff to coordinate our respective programs, we will scale the success of our proposal."
-body_class: strawberry
+body_class: banana
 organization_name: 'DSTL Arts, Emerging Arts Leaders/Los Angeles, Trade School Los Angeles'
 published: true
 

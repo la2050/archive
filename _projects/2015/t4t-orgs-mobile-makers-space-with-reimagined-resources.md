@@ -13,7 +13,7 @@ project_summary: >-
   cutters, 3D Printers and more, all the tools these young inventors need to
   realize what their imagination can inspire.
 Please specify below: 'Parks, community centers and Title 1 Schools in LA County.'
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our T4T.org traveling Makers Space will be filled with ReImagined Resources!
   The items we carry are being discarded by local manufacturers and would be
@@ -221,6 +221,28 @@ maker_answers:
     guidebook for any other community that is interested in starting a T4T.org
     style traveling Makers Space using ReImagined Resources from their
     community.
+  Where will you be working?:
+    - County of Los Angeles
+    - 'Parks, community centers and Title 1 Schools in LA County.'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -642,7 +664,7 @@ maker_answers_list:
       write a guidebook for any other community that is interested in starting a
       T4T.org style traveling Makers Space using ReImagined Resources from their
       community.
-body_class: blueberry
+body_class: strawberry
 organization_name: T4T.org
 published: true
 

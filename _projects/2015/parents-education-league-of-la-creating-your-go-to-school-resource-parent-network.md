@@ -217,6 +217,34 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Pathways to scale PEL’s success depend on a) providing a continued valuable resource and b) growing the number of parents served. The more parents we reach and serve well, the more valuable PEL becomes as a network of information. \r\n\r\nPEL’s budget is extremely lean, and yet we have made great strides in 5 years. Parents are extremely receptive and have seen the value in our programming. Via the proposed technology and parent networks, PEL can reach exponentially more parents. With this foothold of recognition and awareness, PEL will achieve an economy of scale to insure stability and viability as an organization. The benefits of the initial investment in the Website and Application will continue long after the initial 12 months, thus compounding the return on investment for multiple years. \r\n\r\nWith this infrastructure in place, PEL ultimately aims to replicate this model for the larger counties in California and expand statewide with the support of Regional and State organizations and local PTA Chapters. In addition, we will continue to partner and collaborate with other non-profit organizations & for-profit affiliates who can help fulfill our mission.\r\n\r\nNote: PEL’s current Affiliate Membership is available to for-profit resource providers and consists of a $95 tax-deductible donation/year. While PEL does not & will not advertise on its website, we do recognize these generous donors. Also, with a larger subscriber database, we are able to secure more corporate sponsorships for our events. These proceeds will allow us to hire additional staff to manage more programming and outreach. \r\n\r\nParent Testimonials:\r\nEducation & Enrichment Resource Fair:\r\n“I loved the speakers, mostly the keynote speakers. At something like this, it is nice to know you are not alone. Sometimes you feel you are the only one that has kid with issues and it's nice to see other moms doing what they can to help their children.  It was nice to have various services all at one place.  It was my first year going and I thought it was great.”\r\n\r\nKindergarten Panel:\r\n“The program was well organized & worthwhile. The moderator did a really good job. That isn't always easy, nor is handling a roomful of anxious parents, so just wanted to say \"thanks!\"\r\n\r\nPreschool Fair:\r\n“I'm a new mom and this was very helpful because some of the preschools I didn't find in my search on yelp, google search, & in the book.  It was wonderful to be able to ask questions to multiple schools.  Please keep having the fairs.”"
+  Where will you be working?:
+    - Central LA
+    - San Fernando Valley
+    - Westside
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - District-wide graduation rates
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

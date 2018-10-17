@@ -12,7 +12,7 @@ project_summary: >-
   networking events and integrated essential skill-building internship
   opportunities for students to transition from college to the workforce. 
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Unemployment is an endemic disease that affects lives and the economy; young
   people are affected the most. Over the lifetime of 6.7 million unemployed
@@ -169,6 +169,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "MAPS anticipates expanding its services by continually collaborating with job recruitment agencies, chambers of commerce, businesses, corporations, and colleges.  We plan to expand our training services at prospective agency sites and ensure students have the essential skills to successfully navigate the workforce. \r\n"
+  Where will you be working?:
+    - San Gabriel Valley
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -574,7 +591,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "MAPS anticipates expanding its services by continually collaborating with job recruitment agencies, chambers of commerce, businesses, corporations, and colleges.  We plan to expand our training services at prospective agency sites and ensure students have the essential skills to successfully navigate the workforce. \r\n"
-body_class: blueberry
+body_class: tangerine
 organization_name: MAPS 4 College
 published: true
 

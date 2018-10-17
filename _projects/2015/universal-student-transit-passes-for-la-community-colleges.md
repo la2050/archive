@@ -140,6 +140,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Because of the scale and complexity of implementing a countywide program with LA Metro and other municipal transit providers, we will urge Metro to begin with a pilot program at 3-5 community colleges in order to figure out how to scale up — ideally to all community colleges first, then state universities, and eventually UCLA, USC and the private schools. We are recommending the pilot include one community college in each of the five county supervisorial districts, with a variety of urban, suburban and exurban locations,  a campus that would require Metro to coordinate with another municipal transit provider, and a campus where passes would also be provided to faculty and staff. We believe a pilot would help LA Metro understand how to scale-up by helping:\r\n•\tIdentify the best partners for a broader program;\r\n•\tNegotiate the right share of funding from the GGRF and/or student registration fees;\r\n•\tAssess the real program costs and the cost per rider;\r\n•\tDetermine if a program would require addition of more buses or trains and what this would cost;\r\n•\tDetermine how and whether to involve the municipal transit operators;\r\n•\tUnderstand how the use of TAP cards could help with data collection and monitoring;\r\n•\tModel reductions in VMT (vehicle miles traveled) and GHG emissions;\r\n•\tConsider if this program should be included in the next round of county wide transportation investments. \r\n\r\nThere’s a good chance that the 40% of the GHG Reduction Fund that has not yet been “continuously allocated” to other programs can provide additional funding for a bigger program in LA County as well as across the state. Last year we worked hard with a broad coalition of interests to make student transit passes an “eligible use” of this funding. Metro board has expressed interest in funding student passes to increase ridership and we’d like to see a program like this called out in the next round of transit investments. \r\n\r\nThis grant would allow us to: work with LA Metro, students and colleges on formulating the program using best practices; work with the colleges and students on organizing and demonstrating broad and enthusiastic support at Metro board meetings, and; reach out to engage students via social media including email, Facebook, Twitter and Instagram. "
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Advocate for government agency (LA Metro) to launch a pilot project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

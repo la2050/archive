@@ -8,7 +8,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "This year the Blind Children's Center launched a first-of-its-kind, 3-Year Social Skills Program to specifically address the socio-emotional needs of children who are blind or visually impaired.\r\n\r\nWe aim to build a new Creative Growth Center, consisting of a new playhouse, upgraded lunch area and new sensory garden equipped with adaptive equipment, educational games, and engaging devices to support the development of critical social skills in our students who are blind or visually impaired."
 Please specify below: Blind Children's Center; Hollywood; Los Angeles
-category: 0createplay0
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   A good deal of research and concentration has gone into building best
   practices and curriculum for early childhood social skills curriculum.
@@ -178,6 +178,42 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "At the end of the 3-year project, we will compile our findings in a user-friendly, interactive “Social Skills Curriculum Kit” which will be made available to parents, educators, early intervention programs and other schools. The potential construction and success of our Creative Growth Center will be another strategy to build social skills in our population. These results, too, should be able to be replicated and scaled by like-minded organizations should they choose to follow our lead.\r\n\r\nWe anticipate the hard work we put into this undertaking will yield an out-of-the-box curriculum that can be used as a model to tackle a very real issue facing young people who are visually impaired. With the appropriate social skills to go along with strong educational skills, our students and others like them will be equipped to make friends, live independently, and fulfill their highest potential.\r\n"
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+    - Blind Children's Center; Hollywood; Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Build critical skills in children who are blind or visually impaired
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -563,7 +599,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "At the end of the 3-year project, we will compile our findings in a user-friendly, interactive “Social Skills Curriculum Kit” which will be made available to parents, educators, early intervention programs and other schools. The potential construction and success of our Creative Growth Center will be another strategy to build social skills in our population. These results, too, should be able to be replicated and scaled by like-minded organizations should they choose to follow our lead.\r\n\r\nWe anticipate the hard work we put into this undertaking will yield an out-of-the-box curriculum that can be used as a model to tackle a very real issue facing young people who are visually impaired. With the appropriate social skills to go along with strong educational skills, our students and others like them will be equipped to make friends, live independently, and fulfill their highest potential.\r\n"
-body_class: strawberry
+body_class: blueberry
 organization_name: Blind Children's Center
 published: true
 

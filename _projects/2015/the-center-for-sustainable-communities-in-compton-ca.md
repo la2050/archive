@@ -13,7 +13,7 @@ project_summary: >-
   employment, healthy living, and community food resources that make communities
   stronger and more resilient.
 Please specify below: ''
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   NHS' Center for Sustainable Communities will serve hundreds of low income
   families annually in a region that has endured many of the worst impacts of
@@ -245,6 +245,36 @@ maker_answers:
     among community leaders, local businesses, service groups, and residents to
     both meet the resource needs of the Center and support the creation of new
     Centers in underserved communities.
+  Where will you be working?:
+    - South LA
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Number of households below the self-sufficiency index
+    - Obesity rates
+    - Housing affordability
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -666,7 +696,7 @@ maker_answers_list:
       sufficient support among community leaders, local businesses, service
       groups, and residents to both meet the resource needs of the Center and
       support the creation of new Centers in underserved communities.
-body_class: strawberry
+body_class: lime
 organization_name: Neighborhood Housing Services of Los Angeles County (NHS)
 published: true
 

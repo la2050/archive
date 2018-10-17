@@ -8,7 +8,7 @@ project_summary: "We change the way music is taught - teaching music theory, son
 Please specify below: >-
   We can run programs wherever our partners, Green Dot Public Schools, and The
   Harmony Project, are operating.
-category: create
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -122,6 +122,41 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "With an active program that has been funded by the Goldhirsh Foundation, with more metrics of impact / success, and with the implicit endorsement of this highly sought after grant, we will be in a much better position to build a board of directors and continue fundraising to expand the Play with Music program into more classrooms. \r\n\r\nOur scalability is only limited by our funding at this point. Due to the immense access of our existing partners, their active desire to have the Play with Music program run in their classrooms, and the modular nature of the program, we have nearly unlimited potential."
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - >-
+      We can run programs wherever our partners, Green Dot Public Schools, and
+      The Harmony Project, are operating.
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -523,7 +558,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "With an active program that has been funded by the Goldhirsh Foundation, with more metrics of impact / success, and with the implicit endorsement of this highly sought after grant, we will be in a much better position to build a board of directors and continue fundraising to expand the Play with Music program into more classrooms. \r\n\r\nOur scalability is only limited by our funding at this point. Due to the immense access of our existing partners, their active desire to have the Play with Music program run in their classrooms, and the modular nature of the program, we have nearly unlimited potential."
-body_class: banana
+body_class: blueberry
 organization_name: >-
   Play with Music, The New History (parent organization of Play with Music,
   current transition filing 501c3 status for Play with Music)

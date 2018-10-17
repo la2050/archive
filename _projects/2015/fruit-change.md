@@ -12,7 +12,7 @@ project_summary: >-
   the waste of excess fruit. Those without trees can trade in sweat equity by
   picking, sorting, preserving and delivering fruit with their neighbors.
 Please specify below: 'San Pedro, CA'
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The food growing in yards should connect us. If you've got fruit literally
   growing on trees, it should be very easy to share it with your community.
@@ -213,6 +213,32 @@ maker_answers:
     Sign up for Fruit Change if you are in San Pedro, or start a movement in
     your own neighborhood.
   How do you plan to scale the success of your proposal?: "San Pedro is a vibrant, multi cultural, socioeconomically diverse, historic community. It’s an amazing place where industry operates at a world class level, yet hand made tamales are still sold door to door out of a rolling cooler. It’s where I’ve always wanted to buy a house, and I finally did this summer. With the house came lemons, kumquats and guavas: lots of them. Those trees are our key to the city. It's the perfect place to connect a diverse group through the one thing we all have in common: everybody eats. \r\n\r\nFruit Change was founded with the belief that there's no better way to connect with the people around you than by sharing the land's bounty. This project isn’t trying to change San Pedro, or favor one group’s vision of progress over another. Fruit Change is about taking a good hard look at what we’ve got already. We need to talk to each other, figure out who’s got what, what everyone can do to help, and make the best of this great situation we’re in. \r\n\r\nTo become financially sustainable, there are currently plans to sell fruit and preserves to local markets and directly to the public, but as Fruit Change evolves we will keep an eye out for, and adapt to, opportunity. A lot of construction on the waterfront will happen in San Pedro over the next few years, meaning teams of workers will be looking to eat quick and nutritious meals on the job. There's opportunity for Fruit Change there. Mayor Garcetti has tapped Gaffey for his Great Streets Initiative. There's opportunity for Fruit Change there. \r\n\r\nIf Fruit Change is a success, there's no reason it can't happen in every neighborhood in LA. Fruit Change could include communities all over the city, making it a part of the sharing economy as common as Uber or AirB&B.\r\n\r\nAs we near the end of the initial $100,000 grant, we will rely on the revenue systems we’ve built and grown to continue to fund the program. Neighbors will collaborate on ways to barter for services, secure investors, increase sales, plant new trees, invite master gardeners to teach masters classes to increase productivity and countless other ideas. Even when the fruit trees aren't producing, the neighbors will be connecting, planning, learning, and fundraising for our future.\r\n\r\nI've been a Reality TV producer for seven years. If there's one thing I can do, it's jump into a brand new world, figure out how it works, and use limited resources to make it even better. I build a great team and get everyone working at full potential."
+  Where will you be working?:
+    - 'San Pedro, CA'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -625,7 +651,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "San Pedro is a vibrant, multi cultural, socioeconomically diverse, historic community. It’s an amazing place where industry operates at a world class level, yet hand made tamales are still sold door to door out of a rolling cooler. It’s where I’ve always wanted to buy a house, and I finally did this summer. With the house came lemons, kumquats and guavas: lots of them. Those trees are our key to the city. It's the perfect place to connect a diverse group through the one thing we all have in common: everybody eats. \r\n\r\nFruit Change was founded with the belief that there's no better way to connect with the people around you than by sharing the land's bounty. This project isn’t trying to change San Pedro, or favor one group’s vision of progress over another. Fruit Change is about taking a good hard look at what we’ve got already. We need to talk to each other, figure out who’s got what, what everyone can do to help, and make the best of this great situation we’re in. \r\n\r\nTo become financially sustainable, there are currently plans to sell fruit and preserves to local markets and directly to the public, but as Fruit Change evolves we will keep an eye out for, and adapt to, opportunity. A lot of construction on the waterfront will happen in San Pedro over the next few years, meaning teams of workers will be looking to eat quick and nutritious meals on the job. There's opportunity for Fruit Change there. Mayor Garcetti has tapped Gaffey for his Great Streets Initiative. There's opportunity for Fruit Change there. \r\n\r\nIf Fruit Change is a success, there's no reason it can't happen in every neighborhood in LA. Fruit Change could include communities all over the city, making it a part of the sharing economy as common as Uber or AirB&B.\r\n\r\nAs we near the end of the initial $100,000 grant, we will rely on the revenue systems we’ve built and grown to continue to fund the program. Neighbors will collaborate on ways to barter for services, secure investors, increase sales, plant new trees, invite master gardeners to teach masters classes to increase productivity and countless other ideas. Even when the fruit trees aren't producing, the neighbors will be connecting, planning, learning, and fundraising for our future.\r\n\r\nI've been a Reality TV producer for seven years. If there's one thing I can do, it's jump into a brand new world, figure out how it works, and use limited resources to make it even better. I build a great team and get everyone working at full potential."
-body_class: blueberry
+body_class: tangerine
 organization_name: Fruit Change
 published: true
 

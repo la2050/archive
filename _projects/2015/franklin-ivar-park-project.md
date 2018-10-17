@@ -12,7 +12,7 @@ project_summary: >-
   youth, shaded seating, solar panels, bicycle racks, nature trails, and free
   Wi-Fi.  
 Please specify below: '6351 West Franklin Avenue, Los Angeles, CA 90028'
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   This project will create a new recreational feature by transforming a
   currently vacant and deteriorated site into a unique, aesthetically pleasing,
@@ -225,6 +225,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The obvious measure of the park’s success will be its frequent use by the public and the simple fact that this currently vacant and derelict site will become an active place for people to play. There is currently a large desire and need to transform this, and other vacant lots, throughout Los Angeles into spaces that the public can utilize and enjoy.  The mere creation and use of this park will be a major success and a step in the right direction to clean and activate Los Angeles.  \r\nNew urban parks of similar size were recently constructed by the MRCA and serve other park-poor neighborhoods. Constant outreach through social media such as Facebook, emails and person to person contact has allowed us to reach a wider scale of people and further the success of our public programing, resulting in higher number of attendance.  The same will be done with Franklin/Ivar Park.  \r\nAdditionally, as trees and other vegetation are proven to sequester carbon and improve our air quality, the park’s tree canopy and shrubs will almost immediately clean the air. Furthermore, air quality will be improved and greenhouse gasses will be reduced due to the park’s easy access via walking and bicycling, its close proximity to public transit, and permanent designation as open-space. \r\n"
+  Where will you be working?:
+    - Central LA
+    - '6351 West Franklin Avenue, Los Angeles, CA 90028'
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -626,7 +644,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The obvious measure of the park’s success will be its frequent use by the public and the simple fact that this currently vacant and derelict site will become an active place for people to play. There is currently a large desire and need to transform this, and other vacant lots, throughout Los Angeles into spaces that the public can utilize and enjoy.  The mere creation and use of this park will be a major success and a step in the right direction to clean and activate Los Angeles.  \r\nNew urban parks of similar size were recently constructed by the MRCA and serve other park-poor neighborhoods. Constant outreach through social media such as Facebook, emails and person to person contact has allowed us to reach a wider scale of people and further the success of our public programing, resulting in higher number of attendance.  The same will be done with Franklin/Ivar Park.  \r\nAdditionally, as trees and other vegetation are proven to sequester carbon and improve our air quality, the park’s tree canopy and shrubs will almost immediately clean the air. Furthermore, air quality will be improved and greenhouse gasses will be reduced due to the park’s easy access via walking and bicycling, its close proximity to public transit, and permanent designation as open-space. \r\n"
-body_class: blueberry
+body_class: strawberry
 organization_name: Mountains Recreation and Conservation Authority
 published: true
 

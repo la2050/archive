@@ -13,7 +13,7 @@ project_summary: >-
   tech-related start-ups; and 3) ultimately create a sustainable “Innovation
   Ecosystem” that will encourage indigenous creativity.
 Please specify below: Los Angeles Southwest College
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LASC Foundation, in partnership with Innovate Globally and LASC’s Career and
   Technical Education School seek to create a “tech hub” in South Los Angeles. 
@@ -217,6 +217,40 @@ maker_answers:
     LACCD.  Ultimately, we hope to package and license the curriculum, making it
     available to community colleges throughout the state and nation as a social
     enterprise.
+  Where will you be working?:
+    - South LA
+    - South Bay
+    - LAUSD
+    - Los Angeles Southwest College
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Minority- and women-owned firms
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -656,7 +690,7 @@ maker_answers_list:
       other eight colleges in LACCD.  Ultimately, we hope to package and license
       the curriculum, making it available to community colleges throughout the
       state and nation as a social enterprise.
-body_class: blueberry
+body_class: banana
 organization_name: >-
   Los Angeles Southwest College Foundation, Innovate Globally and Los Angeles
   Southwest College Career & Technical Education

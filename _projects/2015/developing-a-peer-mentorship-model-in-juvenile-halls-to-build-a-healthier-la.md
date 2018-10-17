@@ -11,7 +11,7 @@ project_summary: >-
   members to serve as peer mentors, and developing a scalable model that can be
   replicated in additional juvenile facilities in the next three years.
 Please specify below: 'Barry J. Nidorf Juvenile Hall, Camps Scott and Scudder'
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   ARC’s Support Network is made up of more than 225 formerly incarcerated
   members who commit to living crime-free, gang-free, and drug-free; enrolling
@@ -220,6 +220,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "With this funding, ARC will focus on creating a structured, managed and tracked pre-release mentorship program, and developing a model that can be taken into additional juvenile facilities over the next three to five years. \r\n\r\nARC will utilize its membership of 225 successful formerly incarcerated individuals to recruit and train additional peer mentors.\r\n\r\nARC will utilize its close relationship with Chief Probation Officer Jerry Powers and Director of the Division of Juvenile Justice Michael Minor to facilitate access into new facilities with a specific focus on implementing the program at Eastlake and Los Padrinos Juvenile Halls and additional Probation Camps.\r\n\r\nEventually, once the model is developed and has been implemented successfully at Probation facilities, ARC will look to expand the program to three State Division of Juvenile Justice (DJJ) facilities through a partnership with the California Department of Corrections and Rehabilitation.\r\n\r\nBecause program participants will be served by ARC’s current Support Network upon release, a large focus of planning for expanding the program will concentrate on enhancing ARC's current Membership Services framework through the development of more robust case management services. ARC will enhance programming around supporting cognitive and behavioral issues, as well as providing additional support for trauma and substance abuse.\r\n"
+  Where will you be working?:
+    - 'Barry J. Nidorf Juvenile Hall, Camps Scott and Scudder'
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Number of households below the self-sufficiency index
+    - Rates of homelessness
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -649,7 +666,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "With this funding, ARC will focus on creating a structured, managed and tracked pre-release mentorship program, and developing a model that can be taken into additional juvenile facilities over the next three to five years. \r\n\r\nARC will utilize its membership of 225 successful formerly incarcerated individuals to recruit and train additional peer mentors.\r\n\r\nARC will utilize its close relationship with Chief Probation Officer Jerry Powers and Director of the Division of Juvenile Justice Michael Minor to facilitate access into new facilities with a specific focus on implementing the program at Eastlake and Los Padrinos Juvenile Halls and additional Probation Camps.\r\n\r\nEventually, once the model is developed and has been implemented successfully at Probation facilities, ARC will look to expand the program to three State Division of Juvenile Justice (DJJ) facilities through a partnership with the California Department of Corrections and Rehabilitation.\r\n\r\nBecause program participants will be served by ARC’s current Support Network upon release, a large focus of planning for expanding the program will concentrate on enhancing ARC's current Membership Services framework through the development of more robust case management services. ARC will enhance programming around supporting cognitive and behavioral issues, as well as providing additional support for trauma and substance abuse.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: 'Anti-Recidivism Coalition '
 published: true
 

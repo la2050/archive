@@ -11,7 +11,7 @@ project_summary: >-
   employment in creative fields and empowering makers and entrepreneurs in these
   industries. 
 Please specify below: 'Arts District, Downtown Los Angeles'
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   In order to make Los Angeles the best place to create by 2050, we propose
   BUNCHFEST, a 3 day festival dedicated to bringing workshops, panels and
@@ -202,6 +202,34 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We plan to scale by utilizing the following strategy:\r\n\r\n-Make BUNCHFEST an annual event\r\n\r\n-Host smaller workshops, panels, and meetups around Los Angeles throughout the rest of the year. Each event will serve the purpose of fostering creativity, building a community, and providing the tools and resources people need to develop as creative professionals\r\n\r\nThe data collected during the first event will be used to program all future events.\r\n\r\n"
+  Where will you be working?:
+    - East LA
+    - 'Arts District, Downtown Los Angeles'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -614,7 +642,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We plan to scale by utilizing the following strategy:\r\n\r\n-Make BUNCHFEST an annual event\r\n\r\n-Host smaller workshops, panels, and meetups around Los Angeles throughout the rest of the year. Each event will serve the purpose of fostering creativity, building a community, and providing the tools and resources people need to develop as creative professionals\r\n\r\nThe data collected during the first event will be used to program all future events.\r\n\r\n"
-body_class: blueberry
+body_class: banana
 organization_name: BUNCH Media
 published: true
 

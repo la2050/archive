@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   Pilipino Workers Center; Historic Filipinotown; LA County. Elysian Valley; LA
   County. East Los Angeles Renaissance Academy; East Los Angeles; LA County.
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Urban Futures Lab creates work that matters. It reimagines Los Angeles’ civic
   and creative capital by altering how young adults from under-resourced
@@ -254,6 +254,45 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our plan is to scale carefully and gradually. This is particularly true in what is a pilot phase for the Lab. Scaling up means going deeper with projects and relationships, and increasing the level of services and social change we can offer a client, the surrounding community, and Fellows. \r\n\r\nOur first priority is to make sure the Lab meets our Fellows’ needs and aspirations as they grow through the program. As the Lab grows, we will increase the range of projects and locations offered to Fellows.  Greater geographic and content diversity will build Fellows’ knowledge and awareness of the region, expanding their networks and skill sets. We will expose Fellows to different neighborhoods, food, cultures, and customs. With growth, we will facilitate field trips and visits to places and groups doing innovative work in LA.  \r\n\r\nWe also plan to create partnerships with community colleges and business development programs to provide entrepreneurial training and college credit to Fellows. \r\n\r\nWe intend to develop partnerships with groups that have the capacity to hire Fellows as they complete their time with the Lab. Groups like PolicyLink have told us that while they recruit from well respected universities, these hires often lack knowledge of how communities function. Fellows hailing from communities served by groups like PolicyLink and savvy in community processes, would be ideal hires. \r\n\r\nPublic Matters’ work has a multiplier effect. We have seen this time and again. Our projects strengthen individuals and communities. For example, in Market Makeovers, students learn about healthy eating and nutrition, change their diet, their families’ diet, and help their parents lose weight. Parents become advocates and share the information with friends and relatives. Students lead healthy cooking demonstrations and decide to enter related fields like nutrition, public health, and planning. They plan to return to help their communities. In “The Truth About Flavor,” we worked with South LA high school students to create media about small flavored cigarillos. We built a partnership with the City Attorney’s Tobacco Enforcement Program. Students’ media played a role in the City’s recent decision to enforce greater penalties on tobacco sales to minors and to create a new Responsible Retailer Initiative. Public Matters’ goal is to continue to deepen and improve our engagement with young adults and prepare them for vibrant careers as creative thinkers and civic leaders. "
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Fernando Valley
+    - South LA
+    - South Bay
+    - LAUSD
+    - >-
+      Pilipino Workers Center; Historic Filipinotown; LA County. Elysian Valley;
+      LA County. East Los Angeles Renaissance Academy; East Los Angeles; LA
+      County.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - Gini coefficient
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -669,7 +708,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our plan is to scale carefully and gradually. This is particularly true in what is a pilot phase for the Lab. Scaling up means going deeper with projects and relationships, and increasing the level of services and social change we can offer a client, the surrounding community, and Fellows. \r\n\r\nOur first priority is to make sure the Lab meets our Fellows’ needs and aspirations as they grow through the program. As the Lab grows, we will increase the range of projects and locations offered to Fellows.  Greater geographic and content diversity will build Fellows’ knowledge and awareness of the region, expanding their networks and skill sets. We will expose Fellows to different neighborhoods, food, cultures, and customs. With growth, we will facilitate field trips and visits to places and groups doing innovative work in LA.  \r\n\r\nWe also plan to create partnerships with community colleges and business development programs to provide entrepreneurial training and college credit to Fellows. \r\n\r\nWe intend to develop partnerships with groups that have the capacity to hire Fellows as they complete their time with the Lab. Groups like PolicyLink have told us that while they recruit from well respected universities, these hires often lack knowledge of how communities function. Fellows hailing from communities served by groups like PolicyLink and savvy in community processes, would be ideal hires. \r\n\r\nPublic Matters’ work has a multiplier effect. We have seen this time and again. Our projects strengthen individuals and communities. For example, in Market Makeovers, students learn about healthy eating and nutrition, change their diet, their families’ diet, and help their parents lose weight. Parents become advocates and share the information with friends and relatives. Students lead healthy cooking demonstrations and decide to enter related fields like nutrition, public health, and planning. They plan to return to help their communities. In “The Truth About Flavor,” we worked with South LA high school students to create media about small flavored cigarillos. We built a partnership with the City Attorney’s Tobacco Enforcement Program. Students’ media played a role in the City’s recent decision to enforce greater penalties on tobacco sales to minors and to create a new Responsible Retailer Initiative. Public Matters’ goal is to continue to deepen and improve our engagement with young adults and prepare them for vibrant careers as creative thinkers and civic leaders. "
-body_class: blueberry
+body_class: banana
 organization_name: Public Matters
 published: true
 

@@ -13,7 +13,7 @@ project_summary: >-
   on-going feedback and improvement. Both will be developed and piloted in 2016
   and expanded in 2017.
 Please specify below: ''
-category: 0createplaylive
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -122,6 +122,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our goal is to develop an innovative 6-12 model that starts-up students ready for real-world impact, now. Once we reach scale, approximately 600 students in 7 grades, the core elements of the model will be sustainable based solely on per pupil spending provided by Los Angeles Unified School District. This would make us financially sustainable and establish us as a model for innovative and cost-effective high school design.\r\n\r\nLeadership is being developed and promoted from within with an aim to ensuring teacher leaders understand and can sustain the culture and core methods of teaching and learning either at The Incubator School, or at new schools that wish to access our playbook and future publications identifying effective practices. A pipeline for innovative educators and an internal teacher development system are both envisioned for long term access to innovative educators. We will continue to invite partners and interested guests to observe the model in action and, once the model is fully operating and we have evidence of success, begin to explore the development of professional development opportunities similar to what Da Vinci and Big Picture Schools developed for educators and school leaders."
+  Where will you be working?:
+    - Westside
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -519,7 +544,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our goal is to develop an innovative 6-12 model that starts-up students ready for real-world impact, now. Once we reach scale, approximately 600 students in 7 grades, the core elements of the model will be sustainable based solely on per pupil spending provided by Los Angeles Unified School District. This would make us financially sustainable and establish us as a model for innovative and cost-effective high school design.\r\n\r\nLeadership is being developed and promoted from within with an aim to ensuring teacher leaders understand and can sustain the culture and core methods of teaching and learning either at The Incubator School, or at new schools that wish to access our playbook and future publications identifying effective practices. A pipeline for innovative educators and an internal teacher development system are both envisioned for long term access to innovative educators. We will continue to invite partners and interested guests to observe the model in action and, once the model is fully operating and we have evidence of success, begin to explore the development of professional development opportunities similar to what Da Vinci and Big Picture Schools developed for educators and school leaders."
-body_class: strawberry
+body_class: blueberry
 organization_name: The Incubator School
 published: true
 

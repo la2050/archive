@@ -13,7 +13,7 @@ project_summary: >-
   immigrants). We're not just focused on hourly jobs, but to help LA residents
   discover a career & opportunities to succeed.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LA is a city of opportunity. From minority-owned small businesses, corporate
   retail & restaurant chains, to warehouses, jobseekers have access to thousands
@@ -189,6 +189,39 @@ maker_answers:
     results for the small business community, we will be able to help drive
     applicants and help deliver quality candidates to stores that have never had
     a system to track and source new applicants.
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -615,7 +648,7 @@ maker_answers_list:
       By proving results for the small business community, we will be able to
       help drive applicants and help deliver quality candidates to stores that
       have never had a system to track and source new applicants.
-body_class: blueberry
+body_class: banana
 organization_name: JobCouch
 published: true
 

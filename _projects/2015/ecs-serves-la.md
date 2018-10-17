@@ -13,7 +13,7 @@ project_summary: >-
   workforce-ready, and 2)  local LA organizational partners scale their impact
   with volunteer contributions.
 Please specify below: ''
-category: play
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': |-
   To Change The Way Students Learn, ECS Will: 
    
@@ -216,6 +216,27 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "ECS intends to make ECS Serves LA a permanent program offered within its charter school network, and scale the success of it on a yearly basis. Its central administrative leadership – ECS’ executive director and development staff - will take on fundraising for this effort. We have a strong track record with LA funders such as the Weingart Foundation, the Annenberg Foundation, the Ralph M. Parsons Foundation, the Ahmanson Foundation, the Riordan Foundation and the Green Foundation, so we estimate that we’ll be successful on that front. \r\n\r\nShould ECS receive the LA2050 LEARN competition, ECS will also leverage the prestige of a Goldhirsch Foundation grant to engage other new, potential funders in the LA region. \r\n"
+  Where will you be working?:
+    - South LA
+    - South Bay
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -606,7 +627,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "ECS intends to make ECS Serves LA a permanent program offered within its charter school network, and scale the success of it on a yearly basis. Its central administrative leadership – ECS’ executive director and development staff - will take on fundraising for this effort. We have a strong track record with LA funders such as the Weingart Foundation, the Annenberg Foundation, the Ralph M. Parsons Foundation, the Ahmanson Foundation, the Riordan Foundation and the Green Foundation, so we estimate that we’ll be successful on that front. \r\n\r\nShould ECS receive the LA2050 LEARN competition, ECS will also leverage the prestige of a Goldhirsch Foundation grant to engage other new, potential funders in the LA region. \r\n"
-body_class: strawberry
+body_class: blueberry
 organization_name: Environmental Charter Schools
 published: true
 

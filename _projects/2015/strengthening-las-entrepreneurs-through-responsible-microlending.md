@@ -12,7 +12,7 @@ project_summary: >-
   year—creating and retaining 1,800 jobs and driving economic activity in the
   region’s most underserved communities.
 Please specify below: ''
-category: 0create0live
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Working families in Los Angeles face the challenges of managing insufficient
   money, finding affordable housing, raising healthy families, and preparing for
@@ -217,6 +217,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Opportunity Fund has a vision that every small business in Los Angeles can access the financing and support needed to realize its full potential to create wealth and jobs.  While we have no illusions that our microloans can eradicate income inequality, we believe that strong investment in the region’s small business community can drive economic growth and create jobs that offer a living wage.  Many of LA’s most economically distressed neighborhoods are also hotbeds of entrepreneurial activity.  By providing access to capital and support for these small businesses, Opportunity Fund can help them grow and thrive—offering a path to financial stability and economic mobility.  \r\n\r\nOver the past five years, we have gone from originating 70 loans a year in LA to 70loans a month in the county.  We have achieved this growth by investing in the people and technology to reach and serve LA’s entrepreneurs.  We know that every loan we make creates and sustains more than two jobs, and that every $1 we invest results in a ripple effect that generates almost $2 in new economic activity.  By investing to scale in Los Angeles, Opportunity Fund is positioned to help thousands of small business owners access hundreds of millions of dollars in microloans by 2050—supporting job creation at significant scale while spurring economic growth in communities that need it most.   \r\n"
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -638,7 +655,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Opportunity Fund has a vision that every small business in Los Angeles can access the financing and support needed to realize its full potential to create wealth and jobs.  While we have no illusions that our microloans can eradicate income inequality, we believe that strong investment in the region’s small business community can drive economic growth and create jobs that offer a living wage.  Many of LA’s most economically distressed neighborhoods are also hotbeds of entrepreneurial activity.  By providing access to capital and support for these small businesses, Opportunity Fund can help them grow and thrive—offering a path to financial stability and economic mobility.  \r\n\r\nOver the past five years, we have gone from originating 70 loans a year in LA to 70loans a month in the county.  We have achieved this growth by investing in the people and technology to reach and serve LA’s entrepreneurs.  We know that every loan we make creates and sustains more than two jobs, and that every $1 we invest results in a ripple effect that generates almost $2 in new economic activity.  By investing to scale in Los Angeles, Opportunity Fund is positioned to help thousands of small business owners access hundreds of millions of dollars in microloans by 2050—supporting job creation at significant scale while spurring economic growth in communities that need it most.   \r\n"
-body_class: strawberry
+body_class: banana
 organization_name: Opportunity Fund
 published: true
 

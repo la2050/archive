@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "The Love Story runs workshops on multimedia storytelling for those interested in applying the craft of narrative journalism, photojournalism, and documentary filmmaking to their personal stories and produce, in a documentary interview, stories of those who have already transformed their loss into creative expression.\r\n\r\nAs creatives, they will relate to themselves as courageous, compassionate, and powerful storytellers rather than people who need to be “helped” or “fixed.” \r\n"
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   One in every 12 young adults, 15- to 24-years-old, have made a suicide plan at
   some point. One-in-a-half out of every 100 students have actually attempted it
@@ -183,6 +183,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We plan on sustaining our production company through the sales of the documentary journals, licensing, sponsorships and angel investors to fund the production expansion. \r\n\r\nWe plan on sustaining our non-profit educational programs through the registrations and online memberships, crowdfunding, grants and private and public donations. "
+  Where will you be working?:
+    - East LA
+    - Westside
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Produce and distribute the documentary journals to college campuses
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -585,7 +608,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We plan on sustaining our production company through the sales of the documentary journals, licensing, sponsorships and angel investors to fund the production expansion. \r\n\r\nWe plan on sustaining our non-profit educational programs through the registrations and online memberships, crowdfunding, grants and private and public donations. "
-body_class: blueberry
+body_class: tangerine
 organization_name: 'The Love Story and The Love Story Media, Inc. '
 published: true
 

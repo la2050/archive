@@ -13,7 +13,7 @@ project_summary: >-
   approximately 5 minutes. In two years, that will scale annually to provide a
   projected 3,000 more students in Los Angeles. 
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles is booming. From the re-emergence of a thriving downtown to having
   the third largest technological ecosystem in the nation, Los Angeles is a
@@ -232,6 +232,18 @@ maker_answers:
     will track the number of students matched through our SalesForce database.
     We will track the number of cities represented by considering a city
     “represented” when at least 30 matches are taking place in that city. 
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -657,7 +669,7 @@ maker_answers_list:
       SalesForce database. We will track the number of cities represented by
       considering a city “represented” when at least 30 matches are taking place
       in that city. 
-body_class: blueberry
+body_class: tangerine
 organization_name: CoachArt
 published: true
 

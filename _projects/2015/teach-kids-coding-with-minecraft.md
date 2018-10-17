@@ -220,6 +220,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Ability to scale is built in to the basic premise of the proposal. With years of experience and a hotline to the network of connected learning proponents nationwide, the curriculum will be made in a collaborative process with representatives from end user groups, integrating feedback as we proceed with development. We will be partnering with after-school organizations to deliver the camps, which will include professional development for their staff so they can repeat the camps independently. Additionally, through our partnership with Connected Camps we have another opportunity to scale. Connected Camps offers year-round learning experiences in Minecraft where kids log-in from home, and the curriculum that is developed as part of this proposal could be easily integrated into their core model. Last summer, they served 2,000 kids and have plans to double this number next summer. \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - Afterschool Programs
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

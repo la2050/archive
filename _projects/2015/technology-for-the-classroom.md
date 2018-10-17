@@ -172,6 +172,27 @@ maker_answers:
   How do you plan to scale the success of your proposal?: >-
     We plan to scale our success by student achievement and student data
     analysis.
+  Where will you be working?:
+    - Westside
+  How do you plan to use these resources to make change?:
+    - >-
+      Enhance student learning by providing them with an engaging learning
+      experiences and hands on activities 
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - 'Technical infrastructure (computers, etc.)'
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

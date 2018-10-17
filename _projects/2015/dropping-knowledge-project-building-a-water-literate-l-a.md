@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "Heal the Bay wants a resilient, self-sustaining water future for the great people of Los Angeles!\r\n\r\nBuilding on the success of the organization’s high-impact outreach efforts, Heal the Bay’s Dropping Knowledge Project – Building a Water Literate L.A. – will bring meaningful, streamlined water-focused messages to the masses. \r\n"
 Please specify below: 95 neighborhood councils representing the city of Los Angeles
-category: create
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   With California experiencing record drought and the soaring financial and
   environmental cost of importing 80% of Los Angeles’ water supply, Heal the Bay
@@ -210,6 +210,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Heal the Bay has three decades of experience spearheading effective educational and advocacy campaigns in Los Angeles. In fact, Heal the Bay’s first major victory was the citizen-driven initiative that resulted in critical infrastructure upgrades at the Hyperion Treatment Plant in 1987– still to this day, one of most important environmental wins to benefit the Santa Monica Bay. \r\n\r\nHeal the Bay is confident that its proposed Dropping Knowledge Project will make a great impact due in large part to the organization’s capacity to develop meaningful, call-to-action messaging, broad network of contacts in the Greater Los Angeles area and reputation as a reliable educational resource for the greater community– the project also has the potential of being successfully replicated in other large urban cities with water security issues and ethnically diverse populations.\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - Westside
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+    - 95 neighborhood councils representing the city of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Percent of imported water
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -610,7 +635,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Heal the Bay has three decades of experience spearheading effective educational and advocacy campaigns in Los Angeles. In fact, Heal the Bay’s first major victory was the citizen-driven initiative that resulted in critical infrastructure upgrades at the Hyperion Treatment Plant in 1987– still to this day, one of most important environmental wins to benefit the Santa Monica Bay. \r\n\r\nHeal the Bay is confident that its proposed Dropping Knowledge Project will make a great impact due in large part to the organization’s capacity to develop meaningful, call-to-action messaging, broad network of contacts in the Greater Los Angeles area and reputation as a reliable educational resource for the greater community– the project also has the potential of being successfully replicated in other large urban cities with water security issues and ethnically diverse populations.\r\n"
-body_class: banana
+body_class: lime
 organization_name: Heal the Bay
 published: true
 

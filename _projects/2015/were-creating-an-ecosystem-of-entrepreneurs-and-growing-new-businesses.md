@@ -12,7 +12,7 @@ project_summary: >-
   sub-communities within the LA startup community and connecting the dots on an
   overall ecosystem.
 Please specify below: DTLA
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Grid110 will make LA the best place to CREATE by growing new companies through
   community. 
@@ -232,6 +232,35 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The overarching aim at the moment is to activate the ecosystem, promote DTLA as a startup hub, and fill gaps in the business development pipeline.\r\n\r\nAs we continue to expand, we believe we can be the driving force to connect the dots on the entire LA startup ecosystem. \r\n\r\nThrough providing mentorship and resources to our current five startup companies with in our pilot program, they are receiving the support and connections necessary to position them for venture funding, or revenue growth, and thus job creation.\r\n\r\nWith each space we open, we'll be able to help more and more startups on-on-one. We'll continue to curate each advisory board relevant to the industry focus, and continue to grow organically through building sub-communities within each vertical and by providing relevant public programming.\r\n\r\nFor us, our partners, and our startups this effort has been a win-win-win.\r\n\r\nHiring staff for Grid110 will be vital in order for us to grow beyond our first space and continue to scale in growing the starting ecosystem."
+  Where will you be working?:
+    - East LA
+    - DTLA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Concentration of manufacturing activity in LA
+    - Patents per capital
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -648,7 +677,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The overarching aim at the moment is to activate the ecosystem, promote DTLA as a startup hub, and fill gaps in the business development pipeline.\r\n\r\nAs we continue to expand, we believe we can be the driving force to connect the dots on the entire LA startup ecosystem. \r\n\r\nThrough providing mentorship and resources to our current five startup companies with in our pilot program, they are receiving the support and connections necessary to position them for venture funding, or revenue growth, and thus job creation.\r\n\r\nWith each space we open, we'll be able to help more and more startups on-on-one. We'll continue to curate each advisory board relevant to the industry focus, and continue to grow organically through building sub-communities within each vertical and by providing relevant public programming.\r\n\r\nFor us, our partners, and our startups this effort has been a win-win-win.\r\n\r\nHiring staff for Grid110 will be vital in order for us to grow beyond our first space and continue to scale in growing the starting ecosystem."
-body_class: blueberry
+body_class: banana
 organization_name: 'Grid110, Inc.'
 published: true
 

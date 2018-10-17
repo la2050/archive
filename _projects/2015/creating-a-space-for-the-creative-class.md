@@ -14,7 +14,7 @@ project_summary: >-
 Please specify below: >-
   Off The Saw is located in Downtown Los Angeles and we serve a population
   throughout LA County.
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles is the creative capital of the state and the nation. More than 44%
   of all creative workers in California are located in our city and they
@@ -216,6 +216,33 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "This proposal will create a speaker series and business toolkit. Capturing the thoughts, experiences, and resources shared by our experts in the business toolkit will create a scalable resource that we can share with craft furniture makers throughout Los Angeles, California, and the US. In addition to promoting the resources through our own network, we will work with partner organizations to leverage their networks as well. While the content of the business toolkit will be geared toward craft furniture makers, we fully expect that the salient points can be extrapolated and applied by artists and artisans more generally. \r\n\r\nOur secondary goals are to grow our existing workshop and apprenticeship programs. We would like to formalize a curriculum for both programs that can be shared with other collective wood shops. \r\n\r\nMore generally, interest in collective shops is growing rapidly as a way to leverage resources and create community. We have already shared our ideas and experiences with similar ventures in Austin, Minneapolis, Northern California, and North Carolina. We will continue to share our perspective and offer our curriculum and toolkit as resources for these new ventures. \r\n"
+  Where will you be working?:
+    - Central LA
+    - >-
+      Off The Saw is located in Downtown Los Angeles and we serve a population
+      throughout LA County.
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - >-
+      Develop a model and curriculum that can be scaled and used in other shops
+      throughout LA, California, and the US.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -637,7 +664,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "This proposal will create a speaker series and business toolkit. Capturing the thoughts, experiences, and resources shared by our experts in the business toolkit will create a scalable resource that we can share with craft furniture makers throughout Los Angeles, California, and the US. In addition to promoting the resources through our own network, we will work with partner organizations to leverage their networks as well. While the content of the business toolkit will be geared toward craft furniture makers, we fully expect that the salient points can be extrapolated and applied by artists and artisans more generally. \r\n\r\nOur secondary goals are to grow our existing workshop and apprenticeship programs. We would like to formalize a curriculum for both programs that can be shared with other collective wood shops. \r\n\r\nMore generally, interest in collective shops is growing rapidly as a way to leverage resources and create community. We have already shared our ideas and experiences with similar ventures in Austin, Minneapolis, Northern California, and North Carolina. We will continue to share our perspective and offer our curriculum and toolkit as resources for these new ventures. \r\n"
-body_class: blueberry
+body_class: banana
 organization_name: Off The Saw
 published: true
 

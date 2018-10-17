@@ -10,7 +10,7 @@ project_summary: >-
   for fun, entertainment, education, and sharing culture, food, and music. LA's
   new public space! Pop-up plazas at 10 libraries.
 Please specify below: ''
-category: all
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Outside The Box reimagines library facilities as civic space and creates a
   setting for communities to gather, learn, live, celebrate and enjoy the
@@ -193,6 +193,33 @@ maker_answers:
     Los Angeles. Each of our corporate sponsors have already demonstrated their
     commitment to socially responsible community-building by thinking
     OutsideTheBox.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -622,7 +649,7 @@ maker_answers_list:
       the City of Los Angeles. Each of our corporate sponsors have already
       demonstrated their commitment to socially responsible community-building
       by thinking OutsideTheBox.
-body_class: strawberry
+body_class: tangerine
 organization_name: RRM Design Group and Los Angeles Neighborhood Initiative
 published: true
 

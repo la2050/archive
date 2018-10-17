@@ -11,7 +11,7 @@ project_summary: >-
   trains parents, educators and STEM mentors - to collectively support students
   in high quality, hands-on STEM learning. 
 Please specify below: Frank Del Olmo Elementary and Western Elementary
-category: 0create0live
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Technovation gives girls the opportunity to create mobile apps to solve
   problems in their community. Through this program young girls will develop
@@ -179,6 +179,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Iridescent’s tiered model of support gradually builds internal capacity at each school so that the program is sustainable (after the contract). \r\nHere are the five reasons why Iridescent’s model is sustainable:\r\nProviding a robust training to the mentors (scientists and engineers), parents and teachers increases their effectiveness with the students that results in positive reinforcement and sustained engagement for all participants.\r\nTraining the parents on the pedagogy in particular is key to sustainability. They understand the value of the program and become deeply invested in sustaining the program at the school. They co-invest their time and effort in organizing the Curiosity Machine Courses and building a community of learning that goes beyond the classroom and connects to the student’s home. \r\nIn addition to training teachers to use engineering curriculum in the classroom Iridescent trains parents on facilitating the use of the STEM curriculum with students. This amplifies the manpower available to the teachers to actually do open-ended, hands-on projects with 20-25 students, week-after-week. In addition to providing additional help to the teachers through the parent-aides, Iridescent also trains STEM mentors to provide appropriate, personalized feedback to each student. The model thus provides extra logistical help, increases overall parental engagement and access to STEM experts. These resources (in addition to the professional development) helps teachers perform better and engage their students more easily - resulting in them being intrinsically motivated to sustain the program at their school.\r\nThe scientists and engineers are trained to develop unique design challenges based on their work. Once the initial training is over, the engineers can continue to develop new design challenges and mentor students either in-person or online. This results in a sustainable and cost-effective model of curriculum development.\r\nFinally, the online Curiosity Machine platform serves as a permanent, virtual meeting room that will remain beyond the grant. Once all stakeholders are trained, they will be able to stay on the Curiosity Machine platform and continue to engage with one another without Iridescent’s support. Iridescent’s role will be primarily to maintain the platform, monitor quality and safety and analyze data.\r\n"
+  Where will you be working?:
+    - South LA
+    - Frank Del Olmo Elementary and Western Elementary
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -569,7 +586,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Iridescent’s tiered model of support gradually builds internal capacity at each school so that the program is sustainable (after the contract). \r\nHere are the five reasons why Iridescent’s model is sustainable:\r\nProviding a robust training to the mentors (scientists and engineers), parents and teachers increases their effectiveness with the students that results in positive reinforcement and sustained engagement for all participants.\r\nTraining the parents on the pedagogy in particular is key to sustainability. They understand the value of the program and become deeply invested in sustaining the program at the school. They co-invest their time and effort in organizing the Curiosity Machine Courses and building a community of learning that goes beyond the classroom and connects to the student’s home. \r\nIn addition to training teachers to use engineering curriculum in the classroom Iridescent trains parents on facilitating the use of the STEM curriculum with students. This amplifies the manpower available to the teachers to actually do open-ended, hands-on projects with 20-25 students, week-after-week. In addition to providing additional help to the teachers through the parent-aides, Iridescent also trains STEM mentors to provide appropriate, personalized feedback to each student. The model thus provides extra logistical help, increases overall parental engagement and access to STEM experts. These resources (in addition to the professional development) helps teachers perform better and engage their students more easily - resulting in them being intrinsically motivated to sustain the program at their school.\r\nThe scientists and engineers are trained to develop unique design challenges based on their work. Once the initial training is over, the engineers can continue to develop new design challenges and mentor students either in-person or online. This results in a sustainable and cost-effective model of curriculum development.\r\nFinally, the online Curiosity Machine platform serves as a permanent, virtual meeting room that will remain beyond the grant. Once all stakeholders are trained, they will be able to stay on the Curiosity Machine platform and continue to engage with one another without Iridescent’s support. Iridescent’s role will be primarily to maintain the platform, monitor quality and safety and analyze data.\r\n"
-body_class: strawberry
+body_class: blueberry
 organization_name: Iridescent
 published: true
 

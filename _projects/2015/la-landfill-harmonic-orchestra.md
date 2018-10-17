@@ -13,7 +13,7 @@ project_summary: >-
   Where is music for these children? We want to teach them to make music out of
   found objects.
 Please specify below: 'Parks, community centers and Title 1 Schools in LA County.'
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our T4T.org traveling Makers Space will be filled with ReImagined Resources!
   The items we carry are being discarded by local manufacturers and would be
@@ -222,6 +222,28 @@ maker_answers:
     for anyone interested in creating their own Orchestra and we will present
     that guidebook to Maestro Favio Chavez for his use with any group
     approaching him for help in duplicating his efforts in Paraguay.
+  Where will you be working?:
+    - 'Parks, community centers and Title 1 Schools in LA County.'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Bring arts and music to underserved communities.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Arts establishments per capita
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -677,7 +699,7 @@ maker_answers_list:
       guidebook for anyone interested in creating their own Orchestra and we
       will present that guidebook to Maestro Favio Chavez for his use with any
       group approaching him for help in duplicating his efforts in Paraguay.
-body_class: blueberry
+body_class: banana
 organization_name: T4T.org
 published: true
 

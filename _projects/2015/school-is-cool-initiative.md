@@ -13,7 +13,7 @@ project_summary: >-
   overall interest while helping to bridge the gap between the educational
   inequities that currently exist.
 Please specify below: ''
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our “School is Cool” initiative is a prime example of how to positively
   influence and encourage at-risk students to value education! Along with our
@@ -253,6 +253,44 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "To achieve desired results to any give task, communication and goals must be clear and direct. One must not assume that all involved parties know what is expected. This is not realistic. Communication is an important key factor when it comes to executing a project or event. When all parties are not on the same page, it takes longer for the goal to be achieved.\r\n\r\nWorking with the entire community can be a daunting task. Often times, unlimited amounts of pressure build, especially when thousands of students and their families are trusting TaT to come through! The advantage of our programming is that we make communication a priority. Communication between the schools and students as well as their families, along with communication between commercial and residential representatives is imperative to a smoothly functioning program. We have learned that it is the disconnection between the members of the community that halt further advancement and success of our programs. However, creating an opportunity for the entire community to celebrate each other builds an unbreakable bond amongst all members of the community!\r\n\r\nAdditionally, we have learned that people, not just children, need to be excited about learning. Modern technology has both excelled our civilization beyond belief while at the same time has prevented many from eventually reaching their full potential. For many, it has ruined their ability to interact socially and has increased behavioral anxiety. While we realize that we award students at the end of the year with free wifi tablets that can often perpetuate the lack of social behavior, we also realize the tablet's amazing motivating factors for children and we strive to provide our students with the education needed to learn how to use it with moderation. \r\n\r\nSo, while we \"incentivize\" and get our students excited about going to school everyday, we also give them to the tools needed for success in both school and life! We establish within each student a solid foundation of values that are taken home to families and are carried with them forever. We believe that learning NEVER ends and getting people excited about valuing their education isn't just about improving attendance rates or graduation rates, it's about improving their future!"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - Westside
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -671,7 +709,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "To achieve desired results to any give task, communication and goals must be clear and direct. One must not assume that all involved parties know what is expected. This is not realistic. Communication is an important key factor when it comes to executing a project or event. When all parties are not on the same page, it takes longer for the goal to be achieved.\r\n\r\nWorking with the entire community can be a daunting task. Often times, unlimited amounts of pressure build, especially when thousands of students and their families are trusting TaT to come through! The advantage of our programming is that we make communication a priority. Communication between the schools and students as well as their families, along with communication between commercial and residential representatives is imperative to a smoothly functioning program. We have learned that it is the disconnection between the members of the community that halt further advancement and success of our programs. However, creating an opportunity for the entire community to celebrate each other builds an unbreakable bond amongst all members of the community!\r\n\r\nAdditionally, we have learned that people, not just children, need to be excited about learning. Modern technology has both excelled our civilization beyond belief while at the same time has prevented many from eventually reaching their full potential. For many, it has ruined their ability to interact socially and has increased behavioral anxiety. While we realize that we award students at the end of the year with free wifi tablets that can often perpetuate the lack of social behavior, we also realize the tablet's amazing motivating factors for children and we strive to provide our students with the education needed to learn how to use it with moderation. \r\n\r\nSo, while we \"incentivize\" and get our students excited about going to school everyday, we also give them to the tools needed for success in both school and life! We establish within each student a solid foundation of values that are taken home to families and are carried with them forever. We believe that learning NEVER ends and getting people excited about valuing their education isn't just about improving attendance rates or graduation rates, it's about improving their future!"
-body_class: strawberry
+body_class: blueberry
 organization_name: Thinking about Tomorrow
 published: true
 

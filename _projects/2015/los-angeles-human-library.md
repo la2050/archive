@@ -12,7 +12,7 @@ project_summary: >-
   specify a topic or neighborhood they represent. Through guided conversation,
   participants are better able to connect to others in their community.
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   This project will connect individuals from different backgrounds and regions
   of Los Angeles and put them in thought-provoking conversation with one
@@ -225,6 +225,28 @@ maker_answers:
     schedule, or more storytelling events around the city with the goal of
     bringing people from all over LA together to share their experiences with
     one another. 
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -651,7 +673,7 @@ maker_answers_list:
       monthly/quarterly schedule, or more storytelling events around the city
       with the goal of bringing people from all over LA together to share their
       experiences with one another. 
-body_class: blueberry
+body_class: tangerine
 organization_name: Silverlake Independent Jewish Community Center
 published: true
 

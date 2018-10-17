@@ -11,7 +11,7 @@ project_summary: >-
   that transforms public spaces and individual lives. As well as in providing
   murals that will give pride to their local communities. 
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   It transforms public spaces and individual lives. As well as in providing
   murals that will give pride to their local communities. The objective of the
@@ -174,6 +174,22 @@ maker_answers:
     all required in the accomplishment of a meaningful neighborhood mural
     project. The program will provide a template for the community to go on an
     create more public art projects.
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -610,7 +626,7 @@ maker_answers_list:
       all required in the accomplishment of a meaningful neighborhood mural
       project. The program will provide a template for the community to go on an
       create more public art projects.
-body_class: blueberry
+body_class: banana
 organization_name: 'Siqueiros Foundation of the Arts '
 published: true
 

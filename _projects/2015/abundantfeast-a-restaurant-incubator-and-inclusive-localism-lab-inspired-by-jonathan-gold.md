@@ -15,7 +15,7 @@ project_summary: >-
   the stakeholders. It will evolve urban development toward equitable resolution
   of conflict and inclusion.
 Please specify below: Highland Park
-category: 00playlive
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles faces major challenges as well as opportunities to evolve into a
   more equitable and sustainable city. In particular, with a new mobility plan
@@ -213,6 +213,28 @@ maker_answers:
     The data will inform policy makers seeking smarter growth strategies. In
     fact, one reason these stakeholders are partnering with AbundantFeast is the
     chance to scale its impact of it in these ways.
+  Where will you be working?:
+    - East LA
+    - Highland Park
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Median travel time to work
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -652,7 +674,7 @@ maker_answers_list:
       revitalization. The data will inform policy makers seeking smarter growth
       strategies. In fact, one reason these stakeholders are partnering with
       AbundantFeast is the chance to scale its impact of it in these ways.
-body_class: strawberry
+body_class: tangerine
 organization_name: civ.LA
 published: true
 

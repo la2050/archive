@@ -9,7 +9,7 @@ project_summary: >-
   and lives of patients and community at large that proposes a holistic approach
   to healthier lifestyles. 
 Please specify below: Clinica Romero Pico Union Clinic Site
-category: 0createplay0
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Clinica Romero's Healthy Pico Union project would aim to provide comprehensive
   services including medical, mental health, health education, nutrition, and
@@ -159,6 +159,22 @@ maker_answers:
     Clinica Romero will continue to engage local community partners to bring
     community awareness to the exercise equipment, healthy living classes and
     medical services provided at our Pico Union site. 
+  Where will you be working?:
+    - Clinica Romero Pico Union Clinic Site
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Obesity rates
+    - Rates of mental illness
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -571,7 +587,7 @@ maker_answers_list:
       Clinica Romero will continue to engage local community partners to bring
       community awareness to the exercise equipment, healthy living classes and
       medical services provided at our Pico Union site. 
-body_class: strawberry
+body_class: lime
 organization_name: Clinica Msr. Oscar A. Romero
 published: true
 

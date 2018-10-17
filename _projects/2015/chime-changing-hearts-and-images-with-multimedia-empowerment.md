@@ -16,7 +16,7 @@ Please specify below: >-
   Ten K-8 schools will be selected, one school from each of the following areas:
   Compton, Lynwood, Gardena, Inglewood, Hawthorne, El Segundo, Venice, Lennox,
   Carson, Long Beach
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   St. Augustine made a strong case for “Image.” He said, “We are all created in
   the ‘Imago Dei,’ Image of God.” The image of under-served and underprivileged
@@ -212,6 +212,24 @@ maker_answers:
     community – students, parents, school representatives and the public. We
     have seen the success of this Program and are confident it will grow on its
     own merit.
+  Where will you be working?:
+    - County of Los Angeles
+    - >-
+      Ten K-8 schools will be selected, one school from each of the following
+      areas: Compton, Lynwood, Gardena, Inglewood, Hawthorne, El Segundo,
+      Venice, Lennox, Carson, Long Beach
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Number of children enrolled in afterschool programs
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

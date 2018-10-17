@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "We propose to develop and implement a sustainability curriculum targeted to elementary school students. The fun and engaging educational content and related activities will provide a broad overview of sustainability, and emphasize how everyone is connected and how personal actions can have global effects. Our objective is to personalize climate change, and help develop an aware generation with the skill set to make and advocate for environmentally friendly choices.\r\n"
 Please specify below: ''
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Cities now house the majority of the population on the planet, and will bear
   the brunt of climate change-related impacts. We propose to develop and
@@ -188,6 +188,41 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The proposal includes piloting at two levels, both of which will inform decisions about scaling in the future:\r\n\r\nThe initial pilot curriculum will provide a broad introduction to sustainability.  We will assess the effectiveness of this, and the desirability of developing subsequent curricula to provide deeper dives into specific sustainability topics (e.g., transportation, climate change, healthy food).\r\n\r\nThe proposal includes piloting at a small number of schools initially (we currently envision piloting the program at three schools).  The ultimate goal is to scale delivery of the curriculum to additional schools throughout Los Angeles County to maximize its potential impact and help make all communities a better place to live.\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - Initial pilot program at 3 elementary schools
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Percent of imported water
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -597,7 +632,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The proposal includes piloting at two levels, both of which will inform decisions about scaling in the future:\r\n\r\nThe initial pilot curriculum will provide a broad introduction to sustainability.  We will assess the effectiveness of this, and the desirability of developing subsequent curricula to provide deeper dives into specific sustainability topics (e.g., transportation, climate change, healthy food).\r\n\r\nThe proposal includes piloting at a small number of schools initially (we currently envision piloting the program at three schools).  The ultimate goal is to scale delivery of the curriculum to additional schools throughout Los Angeles County to maximize its potential impact and help make all communities a better place to live.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: 'Los Angeles World''s Fair, FPC'
 published: true
 

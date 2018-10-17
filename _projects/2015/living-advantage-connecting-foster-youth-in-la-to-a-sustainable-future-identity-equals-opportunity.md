@@ -14,7 +14,7 @@ project_summary: >-
   goals… high school students will graduate on time, be college and/or career
   prepared and receive social and emotional support for higher self-esteem. 
 Please specify below: 'USC Neighborhood, LA County Probation Camps,'
-category: all
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LA, Inc. is reputed in the foster care industry for utilizing technology
   through innovative ways to increase civic engagement while serving other
@@ -285,6 +285,45 @@ maker_answers:
     Building a successful Social Media, tens of millions of media impressions.
     Conducting research and authoring a brand and communications strategy.  
   How do you plan to scale the success of your proposal?: "By tracking progress against our goals…\r\nThe increase in how many foster youth we serve, meeting goal of 1,000 youth unduplicated in one year\r\nIncrease in educational outcomes of foster youth high school graduation rates from 45% to 65%, \r\nHigher college enrollment from 3% to at least double 6%,\r\nHigher college graduation rates from 2% to at least double 4%.\r\nDecrease unemployment rates after 24 months foster youth age of out the system\r\nQualitative measures in foster youth behavior and service program outcomes. "
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - Westside
+    - City of Los Angeles
+    - LAUSD
+    - 'USC Neighborhood, LA County Probation Camps,'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -749,7 +788,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "By tracking progress against our goals…\r\nThe increase in how many foster youth we serve, meeting goal of 1,000 youth unduplicated in one year\r\nIncrease in educational outcomes of foster youth high school graduation rates from 45% to 65%, \r\nHigher college enrollment from 3% to at least double 6%,\r\nHigher college graduation rates from 2% to at least double 4%.\r\nDecrease unemployment rates after 24 months foster youth age of out the system\r\nQualitative measures in foster youth behavior and service program outcomes. "
-body_class: strawberry
+body_class: tangerine
 organization_name: 'Living Advantage, Inc.'
 published: true
 

@@ -15,7 +15,7 @@ project_summary: >-
   tournaments, cleaning up graffiti and install outdoor fitness equipment where
   appropriate.  
 Please specify below: ''
-category: 00playlive
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Basketball is the most popular recreational sport in the United States across
   all ages and genders. The balance of individual contribution and potential for
@@ -230,6 +230,24 @@ maker_answers:
     with the Memphis Grizzlies will also help build relationships with local
     professional sports organizations, involving them in future court
     projects.  
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Percentage of residents that feel safe in their neighborhoods
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

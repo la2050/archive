@@ -11,7 +11,7 @@ project_summary: >-
   intentional community of the future that will give our special needs kids,
   teens and young adults the arena to reach their fullest potential.
 Please specify below: ''
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our project will make LA the healthiest place to live for special needs young
   adults. Currently 90 percent of our kids never leave home when they age out of
@@ -204,6 +204,33 @@ maker_answers:
     advocates that serve the special needs community. Our last conference had
     over 350 guests from every state of the union learning best practices in
     housing, employment and socialization for our special needs community.
+  Where will you be working?:
+    - San Fernando Valley
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Percent of imported water
+    - Obesity rates
+    - Housing affordability
+    - Rates of mental illness
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -647,7 +674,7 @@ maker_answers_list:
       advocates that serve the special needs community. Our last conference had
       over 350 guests from every state of the union learning best practices in
       housing, employment and socialization for our special needs community.
-body_class: strawberry
+body_class: lime
 organization_name: Golden Heart Ranch
 published: true
 

@@ -187,6 +187,27 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The studio is deeply committed to the continuation of this programming. it is an essential part of the Stella Adler Outreach Division’s service and a unique expression of the studio’s mission. \r\n\r\nSince launching our work in jails in March 2014 we have consistently expanded the population of inmates served. We began exclusively serving adolescents at Rikers Island Correctional Facility in New York City. Over the course of one year we expanded our service to include male and female adult populations including high security populations. We have also expanded geographically. First we branched out to serve multiple facilities at Rikers and in June 2015, based on the success of our previous work, we received an invitation to provide a program at Twin Towers in Los Angeles. The relationships required for the successful delivery of this kind of program are key; once we engage successfully with a partner we are committed to a long-term relationship. \r\n\r\nFurthermore, sustainability is an important part of delivering a program in jail successfully. First, students must see that you are there consistently in order for them to believe that you are truly invested in their growth and well-being. Establishing trust is vital to a jail service program. Second, sustainability is also important to measuring the success of the program. A minimum of a year-long presence in jail is ideal to obtain the necessary evaluation and data materials and to continue to define excellent work with our community partners. The more time we spend in a location the more accessible it becomes to potential stakeholders. In short, we are in this for the long haul!"
+  Where will you be working?:
+    - 'Twin Towers Correctional Facility, Pitchess Detention Center(Castaic)'
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

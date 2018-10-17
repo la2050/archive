@@ -12,7 +12,7 @@ project_summary: >-
   to access city-owned vacant land in their neighborhoods, especially in places
   where there are not enough places to PLAY. 
 Please specify below: ''
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -118,6 +118,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Free Lots Angeles will scale its work supporting and guiding the City of Los Angeles to enact new policies that will allow people throughout the City to both temporarily activate vacant lots through the right of entry permit and permanently transform them through the availability of better data and improved organization within City government. We feel that this work will provide a valuable strategy to community-oriented groups around the country to pursue. We feel that this systems approach provides an open-source playbook for community groups to lend their support in building a more equitable play environment in LA. \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Fernando Valley
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

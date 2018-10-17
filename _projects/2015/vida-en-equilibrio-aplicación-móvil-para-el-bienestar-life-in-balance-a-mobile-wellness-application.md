@@ -229,6 +229,17 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "After implementing the pilot program, we will make adjustments based on the program evaluation. Once this is completed, we will be offering the program to the entire US population that are diagnosed with Type 2 diabetes and expanding the scope to HIV/AID antiretroviral therapy (ART) compliance and cardiovascular disease management.  If after a one year evaluation period is completed, and it is determined that the expanded mobile services are effective, we can expand this globally to anyone and offer the program in different languages.\r\n\r\nWe can offer the program to insurance companies that are looking to add diabetes prevention efforts to their wellness program as well. "
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

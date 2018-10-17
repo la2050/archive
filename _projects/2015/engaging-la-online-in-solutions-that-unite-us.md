@@ -13,7 +13,7 @@ project_summary: >-
   millions of participants in to a small, high-quality, representative set for
   city and neighborhood council meetings.
 Please specify below: ''
-category: create
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Synaccord is building the platform that engages people in finding the
   solutions that unite us. Unlike other online forms, Synaccord provides
@@ -189,6 +189,25 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We are designed to scale! This new technology for engaging people in structured discussion in small diverse groups is designed to facilitate the participation of millions of people. The platform is built on hosted servers, Node.js and MongoDB which means increasing participation is a simple matter of turning on more servers. Our marketing though social media scales with each new person we bring on. \r\n\r\nAs this succeeds we will reach out to more neighborhoods and cities, building up the participation  to entire states, and of course the national government. Later, the world. \r\n"
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Voting rates by race
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -606,7 +625,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We are designed to scale! This new technology for engaging people in structured discussion in small diverse groups is designed to facilitate the participation of millions of people. The platform is built on hosted servers, Node.js and MongoDB which means increasing participation is a simple matter of turning on more servers. Our marketing though social media scales with each new person we bring on. \r\n\r\nAs this succeeds we will reach out to more neighborhoods and cities, building up the participation  to entire states, and of course the national government. Later, the world. \r\n"
-body_class: banana
+body_class: tangerine
 organization_name: 'Synaccord, LLC'
 published: true
 

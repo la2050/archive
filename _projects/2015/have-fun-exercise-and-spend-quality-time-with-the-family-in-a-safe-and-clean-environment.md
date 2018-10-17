@@ -12,7 +12,7 @@ project_summary: >-
   have fun while still keeping up with school work. Kids in a society that are
   stuck on technology can come and play and run around like kids used to.
 Please specify below: 'Adventure Playhouse 1116 San Fernando Rd. San Fernando, Ca 91340'
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We have been growing our presence within the community for the last 3 years
   and have been implementing programs and fundraisers for supporting causes. We
@@ -199,6 +199,32 @@ maker_answers:
     in a community together that is what is the purpose. We want to keep
     expanding our programs and if we grow enough we would open other locations
     in the LA area to incorporate these programs and more. The sky is the limit!
+  Where will you be working?:
+    - San Fernando Valley
+    - 'Adventure Playhouse 1116 San Fernando Rd. San Fernando, Ca 91340'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - >-
+      Build a homework / tutoring center with computers for kids to use for
+      free.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
