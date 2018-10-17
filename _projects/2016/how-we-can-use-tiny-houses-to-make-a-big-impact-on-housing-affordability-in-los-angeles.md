@@ -118,15 +118,7 @@ project_proposal_best_place: >-
   will allow LA residents an opportunity to work together to overcome high costs
   of living and participate meaningfully in the development and management of
   each housing community.
-project_image_2: 4867649955741-team91.jpg
-empty_column_1: ''
 organization_name: Patrick McCaffrey Foundation
 organization_website: www.veteransvillage.org
-organization_name_2: Patrick McCaffrey Foundation
-organization_activity: >-
-  The Patrick McCaffrey Foundation is a non-profit public charity benefitting
-  American military veterans and their families, and land trustee for a future
-  Veterans Village.
-ein: ''
 
 ---

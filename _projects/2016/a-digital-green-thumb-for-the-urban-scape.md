@@ -164,12 +164,7 @@ project_proposal_best_place: >-
 
   Plantaware will bring together and aggregates all people who are interested in
   urban gardening and farming in Los Angeles, its neighborhoods and communities.
-project_image_2: 9685194155741-team91.png
-empty_column_1: ''
 organization_name: Plantaware
 organization_website: www.plantaware.com
-organization_name_2: Plantaware
-organization_activity: Plantaware helps people grow food at home.
-ein: ''
 
 ---

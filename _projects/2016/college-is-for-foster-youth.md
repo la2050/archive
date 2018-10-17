@@ -114,15 +114,7 @@ project_proposal_best_place: >-
   CRP and attending universities through the CSP.  In 2016, 18 seniors
   participating in the CRP joined the latest cohort in the CSP.  In total, more
   than 200 students will participate in the CSP.
-project_image_2: 1483407105741-team91.jpg
-empty_column_1: ''
 organization_name: United Friends of the Children
 organization_website: www.unitedfriends.org
-organization_name_2: United Friends of the Children
-organization_activity: >-
-  UFC empowers foster youth on their journey to self-sufficiency through
-  service-enriched education and housing programs, advocacy, & consistent
-  relationships with a community of people who care.
-ein: '953665186'
 
 ---

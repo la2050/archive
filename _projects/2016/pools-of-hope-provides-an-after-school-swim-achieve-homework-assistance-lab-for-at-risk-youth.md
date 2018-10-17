@@ -121,15 +121,7 @@ project_proposal_best_place: >-
   are lifeguards, instructors, and tutors. Swim & Achieve will also provide a
   great opportunity for year-round, part-time, paid employment--particularly for
   college and university students who can gain experience working with children.
-project_image_2: 7134629065741-team91.jpg
-empty_column_1: ''
 organization_name: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
 organization_website: www.caaquatictherapy.com
-organization_name_2: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
-organization_activity: >-
-  Pools of Hope is a warm-water facility promoting whole life wellness in our
-  community through aquatic programs for low-income individuals of varying
-  abilities and of all ages.
-ein: ''
 
 ---

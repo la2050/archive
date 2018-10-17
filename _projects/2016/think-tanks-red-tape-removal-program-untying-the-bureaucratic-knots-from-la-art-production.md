@@ -130,15 +130,7 @@ project_proposal_best_place: >-
   vacant sprawl – and turns it into our biggest strength. Demystifying the
   permitting process will add more usable and informal spaces for PLAY while
   increasing the cultural economy for stakeholders.
-project_image_2: 9859494345741-team91.jpg
-empty_column_1: ''
 organization_name: Think Tank Productions
 organization_website: thinktank.gallery
-organization_name_2: Think Tank Productions
-organization_activity: >-
-  We design experiences from fully branded installations to a festival for
-  65,000 Angelenos, producing or consulting projects through miles of red tape
-  that could kill ideas lacking unflinching resolve.
-ein: '300445999'
 
 ---

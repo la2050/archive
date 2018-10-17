@@ -107,15 +107,7 @@ project_proposal_best_place: >-
   nation for its impact on the improved earning power and economic prospects of
   its graduates. With additional resources, the Career Center will be able to
   provide services to all those students who deserve them.
-project_image_2: 7272231265741-team91.jpg
-empty_column_1: ''
 organization_name: 'California State University, Northridge (CSUN)'
 organization_website: www.csun.edu
-organization_name_2: 'California State University, Northridge (CSUN)'
-organization_activity: >-
-  Serving nearly 40,000 students, CSUN offers programs to help develop the
-  academic competencies, professional skills, critical/creative abilities, and
-  ethical values to reach their educational goals.
-ein: ''
 
 ---

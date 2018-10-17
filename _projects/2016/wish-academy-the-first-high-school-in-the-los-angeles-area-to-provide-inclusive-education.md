@@ -117,15 +117,7 @@ project_proposal_best_place: >-
   increase due to the proliferation of new families moving to the area employed
   by the Silicon Beach corporations in Playa Vista.  More importantly, there are
   no inclusive high school education options. Period.
-project_image_2: 4396755265741-team90.JPG
-empty_column_1: ''
 organization_name: WISH Academy High School
 organization_website: WWW.WISHacademyhs.org
-organization_name_2: WISH Academy High School
-organization_activity: >-
-  Before WISH, we found ourselves without an inclusive community school option
-  for our children, with and without disabilities, in our neighborhoods there
-  aren't any inclusive high school options
-ein: ''
 
 ---

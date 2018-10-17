@@ -136,15 +136,7 @@ project_proposal_best_place: >-
   teachers and positive results in the classroom. Lastly, our trauma-informed
   work encourages teachers to persist and grow their craft in teaching in
   low-income communities.
-project_image_2: 6235226615741-team90.jpg
-empty_column_1: ''
 organization_name: Teach For America-Los Angeles
 organization_website: losangeles.teachforamerica.org
-organization_name_2: Teach For America-Los Angeles
-organization_activity: >-
-  Teach For America partners with communities to expand educational
-  opportunities for children facing the challenges of poverty and other systemic
-  issues.
-ein: '133541913'
 
 ---

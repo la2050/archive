@@ -127,15 +127,7 @@ project_proposal_best_place: >-
   towards closing the opportunity gap amongst LA’s high school students. Help
   CYLA prepare the students of Los Angeles for the demands and opportunities of
   their future.
-project_image_2: 7806062065741-team91.jpg
-empty_column_1: ''
 organization_name: City Year Los Angeles
 organization_website: www.cityyear.org/losangeles
-organization_name_2: City Year Los Angeles
-organization_activity: >-
-  City Year Los Angeles works tirelessly to solve our city’s dropout crisis
-  through academic intervention, attendance monitoring, and social emotional
-  support for LA’s highest need students.
-ein: '222882549'
 
 ---

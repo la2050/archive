@@ -113,15 +113,7 @@ project_proposal_best_place: >-
   reinforcement from people who relate to their experiences. Through their
   participation, they have the opportunity to help others grow and make LA a
   great place to LIVE!
-project_image_2: 6737289065741-team89.jpeg
-empty_column_1: ''
 organization_name: NAMI San Fernando Valley
 organization_website: namisfv.org
-organization_name_2: NAMI San Fernando Valley
-organization_activity: >-
-  NAMI San Fernando Valley is a grass roots volunteer organization offering free
-  of charge support, education, and advocacy for people, families, and
-  communities affected by affected by mental illness.
-ein: ''
 
 ---

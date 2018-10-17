@@ -81,14 +81,7 @@ project_proposal_best_place: >-
   have their park be the next stop on the vibrant and inclusive WOW on wheels
   tour, with multi-age volunteers, memory-making and elder wisdom sharing at
   each and every stop.
-project_image_2: 3788557564741-team90.jpg
-empty_column_1: ''
 organization_name: 'WOW Imagined, Inc.'
 organization_website: www.inspiredparenting.com
-organization_name_2: 'WOW Imagined, Inc.'
-organization_activity: >-
-  Educational organization that promotes collaborative community models of
-  education through play.
-ein: ''
 
 ---

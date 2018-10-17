@@ -200,8 +200,6 @@ Where do you hope this activation or your organization will be in five years?: >
   empathy, and galvanized action. And we will have mobilized hundreds of
   thousands of Angelenos to advocate for more innovative solutions to
   alleviating Los Angeles’ homelessness crisis.
-project_id_2: '8102066'
-project_id_3: '8102066'
 organization_name: Lava Mae
 
 ---

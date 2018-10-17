@@ -158,8 +158,6 @@ Where do you hope this activation or your organization will be in five years?: >
   provide a forum for talented, diverse filmmakers with unique voices to
   celebrate all that LA offers and encourage their peers to create stories that
   draw from their own diverse surroundings.  
-project_id_2: '8102040'
-project_id_3: '8102040'
 organization_name: Film Independent
 
 ---

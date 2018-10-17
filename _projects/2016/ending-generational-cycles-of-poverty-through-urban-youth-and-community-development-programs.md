@@ -156,15 +156,7 @@ project_proposal_best_place: >-
   day as a final presentation. Our goal is to bring community and groups
   together as a way of activating unused community space in the Crenshaw
   district.
-project_image_2: 3020056105741-team91.jpeg
-empty_column_1: ''
 organization_name: 'Unite A Nation, Inc.'
 organization_website: www.uniteanation.org
-organization_name_2: 'Unite A Nation, Inc.'
-organization_activity: >-
-  We transform lives through innovative investments in young people by focusing
-  on cultural art, economic empowerment, workforce development and
-  entrepreneurship to build thriving communities.
-ein: ''
 
 ---

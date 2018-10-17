@@ -138,15 +138,7 @@ project_proposal_best_place: >-
   be successful.  Our goal is that these working groups will get people to talk
   about how to resolve some of the most pressing issues Los Angeles is facing,
   and continue to meet long after the grant is completed.
-project_image_2: 0699377525741-team90.png
-empty_column_1: ''
 organization_name: Southern California Center for Nonprofit Management
 organization_website: www.cnmsocal.org
-organization_name_2: Southern California Center for Nonprofit Management
-organization_activity: >-
-  Center for Nonprofit Management is the Southern California resource for
-  education, consulting and engagement across the nonprofit community enabling
-  nonprofits to achieve their goals
-ein: ''
 
 ---

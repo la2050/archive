@@ -140,8 +140,6 @@ Where do you hope this activation or your organization will be in five years?: >
   which is to translate the best practices known in the science of public health
   demonstrated by youth and adults in their communities. Promoting a culture of
   healthy practices in even the most under-resourced communities.
-project_id_2: '8102004'
-project_id_3: '8102004'
 organization_name: A Healthier Community Starts with YOUth
 
 ---

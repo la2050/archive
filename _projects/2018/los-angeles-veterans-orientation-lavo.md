@@ -116,8 +116,6 @@ Where do you hope this activation or your organization will be in five years?: >
   Southern Califonia to replicate in support of their veterans. In 5 years, we
   plan for LAVO to be the national model for veterans outreach and that Los
   Angeles will be the most veteran friendly city in the nation. 
-project_id_2: '8102137'
-project_id_3: '8102137'
 organization_name: We Are the Mighty
 
 ---

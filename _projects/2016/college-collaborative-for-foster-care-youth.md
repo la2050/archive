@@ -122,14 +122,7 @@ project_proposal_best_place: >-
   teachers, counselors, case workers, attorneys, and care givers, CASAs help
   establish networks of support and services around educational opportunities
   for these youth, increasing their likelihood of educational success.
-project_image_2: 7481336294741-team91.jpg
-empty_column_1: ''
 organization_name: CASA of Los Angeles
 organization_website: casala.org
-organization_name_2: CASA of Los Angeles
-organization_activity: >-
-  CASA recruits and trains volunteers to advocate for abused and neglected
-  children in Los Angeles County's foster care system.
-ein: '953890446'
 
 ---

@@ -111,15 +111,7 @@ project_proposal_best_place: >-
   renewed commitment to seeing their neighborhood improve. They will become
   active and empowered civic leaders with the tools necessary to affect local
   change.
-project_image_2: 3701902165741-team91.jpg
-empty_column_1: ''
 organization_name: Los Angeles Neighborhood Initiative (LANI)
 organization_website: www.lani.org
-organization_name_2: Los Angeles Neighborhood Initiative (LANI)
-organization_activity: >-
-  Los Angeles Neighborhood Initiative (LANI) is a nonprofit organization
-  dedicated to rebuilding neighborhoods one block at a time through public
-  improvement projects, planning and community engagement.
-ein: ''
 
 ---

@@ -110,14 +110,7 @@ project_proposal_best_place: >-
   level to ensure national relief resources are deployed most effectively and
   efficiently when available; and ensure the ability to monitor response,
   recovery and rebuilding efforts in ways external agencies simply cannot mimic.
-project_image_2: 5594912265741-team90.jpg
-empty_column_1: ''
 organization_name: Team Rubicon
 organization_website: www.teamrubiconusa.org
-organization_name_2: Team Rubicon
-organization_activity: >-
-  Team Rubicon unites the skill and experiences of military veterans with first
-  responders to rapidly deploy emergency response teams.
-ein: '271720480'
 
 ---

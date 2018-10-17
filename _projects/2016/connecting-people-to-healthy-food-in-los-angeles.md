@@ -82,15 +82,7 @@ project_proposal_best_place: >-
   rentals to further promote our desire to develop a solution to this
   food-desert obstacle. This spending would also give us the opportunity to
   advocate with policymakers and leaders in the community.
-project_image_2: 4873052265741-team91.jpg
-empty_column_1: ''
 organization_name: Food Oasis Los Angeles
 organization_website: foodoasis.la
-organization_name_2: Food Oasis Los Angeles
-organization_activity: >-
-  Food Oasis LA was created to assist local advocacy and increase local
-  awareness in solving LA’s food inequality by building a platform to leverage a
-  bevy of resources and current web technologies.
-ein: ''
 
 ---

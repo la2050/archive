@@ -123,15 +123,7 @@ project_proposal_best_place: >-
   increase visibility to female and minority artists, and advance LA's artistic
   achievements that will transcend this city as the creative capital of the
   world.
-project_image_2: 7837391883741-team88.jpg
-empty_column_1: ''
 organization_name: Make Music Los Angeles
 organization_website: www.letsplayascape.com
-organization_name_2: Make Music Los Angeles
-organization_activity: >-
-  Enriching lives through music,Make Music LA desires to expand the horizons of
-  residents of every age by unlocking their artistic imagination to enable
-  lifelong learning, and creative invention.
-ein: ''
 
 ---

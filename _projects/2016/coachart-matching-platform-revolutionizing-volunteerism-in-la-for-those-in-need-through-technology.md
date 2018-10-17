@@ -117,14 +117,7 @@ project_proposal_best_place: >-
   Moreover, our “moonshot” includes the creation of a replicable tool that will
   empower any current and future organizations with a matching model in their
   organization helping increase volunteerism rates in LA.
-project_image_2: 3678478165741-team91.jpg
-empty_column_1: ''
 organization_name: CoachArt
 organization_website: www.coachart.org
-organization_name_2: CoachArt
-organization_activity: >-
-  CoachArt creates a transformative arts and athletics community for families
-  impacted by childhood chronic illness.
-ein: '943389547'
 
 ---

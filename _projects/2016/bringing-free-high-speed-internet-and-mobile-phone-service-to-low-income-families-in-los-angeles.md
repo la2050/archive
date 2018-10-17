@@ -143,15 +143,7 @@ project_proposal_best_place: >-
 
   Data for Los Angeles county here:
   http://digitalequality.net/wp-content/uploads/2013/06/LA-from-CA-Connects-Demographic-and-Connectedness-Profiles.pdf
-project_image_2: 4367473165741-team90.png
-empty_column_1: ''
 organization_name: Drizzle Connect
 organization_website: blog.getdrizzle.com/la2050-challenge
-organization_name_2: Drizzle Connect
-organization_activity: >-
-  Drizzle enables low-income families to stay connected to their community and
-  the world by allowing them to receive free mobile phone service and high-speed
-  internet at home.
-ein: ''
 
 ---

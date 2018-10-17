@@ -106,15 +106,7 @@ project_proposal_best_place: >-
   Our hope is that, over time, LASA will change the lives and career paths of
   hundreds of high school students in the region and will become an agent of
   change and community building throughout Los Angeles.
-project_image_2: 4340166065741-team90.jpg
-empty_column_1: ''
 organization_name: Los Angeles Service Academy (LASA)
 organization_website: www.laserviceacademy.org
-organization_name_2: Los Angeles Service Academy (LASA)
-organization_activity: >-
-  LASA empowers a diverse group of LA's youth to not only understand the
-  complexities of civic infrastructure, but be the problem-solvers and
-  visionaries of our city’s immediate and far-flung future.
-ein: '951644589'
 
 ---

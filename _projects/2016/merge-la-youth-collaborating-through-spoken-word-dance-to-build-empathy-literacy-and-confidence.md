@@ -146,15 +146,7 @@ project_proposal_best_place: >-
   MERGE will be a pilot program, but one we hope to develop into a joint program
   that happens every spring, serving 20-30 young people, and audiences of 200+,
   each year.
-project_image_2: 5170666805741-team89.jpg
-empty_column_1: ''
 organization_name: Say Word and 4C LAB
 organization_website: www.SayWordLA.org
-organization_name_2: Say Word and 4C LAB
-organization_activity: >-
-  Say Word’s mission is to empower, enlighten, and activate young people through
-  writing and performance to improve literacy, and cultivate self-awareness,
-  social change and healing.
-ein: ''
 
 ---

@@ -152,15 +152,7 @@ project_proposal_best_place: >-
   opportunities around the Plans and organize community efforts to educate their
   neighbors. Subcommittees will also monitor the CP process to mobilize
   residents around city planning and council hearings when necessary.
-project_image_2: 3219654155741-team90.JPG
-empty_column_1: ''
 organization_name: Community Health Councils
 organization_website: www.chc-inc.org
-organization_name_2: Community Health Councils
-organization_activity: >-
-  Community Health Councils works to change systems, policies, and structures
-  that support the well-being of South Los Angeles residents through increased
-  access, civic engagement, and transformation.
-ein: '954487664'
 
 ---

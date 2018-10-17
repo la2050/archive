@@ -137,8 +137,6 @@ Where do you hope this activation or your organization will be in five years?: >
   juniors to engage with Los Angeles as it grows and changes. And LASA believes
   it will be introducing those students to LASA-graduates as experts whose work
   is transforming learning, connecting, and creating in LA.
-project_id_2: '8102077'
-project_id_3: '8102077'
 organization_name: Los Angeles Service Academy (LASA)
 
 ---

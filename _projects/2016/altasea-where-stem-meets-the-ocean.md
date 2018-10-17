@@ -145,14 +145,7 @@ project_proposal_best_place: >-
   our planet's extraordinary ocean. Visits to AltaSea and the LA Waterfront
   ignite a lifelong passion and curiosity about the ocean, motivating this
   generation to be guardians for a sustainable future.
-project_image_2: 3892536625741-team89.jpg
-empty_column_1: ''
 organization_name: AltaSea at the Port of Los Angeles
 organization_website: altasea.org
-organization_name_2: AltaSea at the Port of Los Angeles
-organization_activity: >-
-  AltaSea accelerates scientific collaboration, facilitates job creation and
-  inspires the next generation for a more sustainable ocean.
-ein: ''
 
 ---

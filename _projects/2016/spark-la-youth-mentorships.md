@@ -138,15 +138,7 @@ project_proposal_best_place: >-
   partners with Spark. The impact goes beyond students and mentors to the
   company itself: “It’s energizing and it’s cool,” says Perry Wallack. “It will
   help your company hire. It will absolutely help you retain.'
-project_image_2: 5555652265741-team90.jpg
-empty_column_1: ''
 organization_name: Spark Los Angeles
 organization_website: SparkProgram.org
-organization_name_2: Spark Los Angeles
-organization_activity: >-
-  Spark inspires students to succeed in high school, college, and their future
-  careers by matching them with mentors at top companies for workplace learning
-  experiences around interest-driven projects.
-ein: '201836547'
 
 ---

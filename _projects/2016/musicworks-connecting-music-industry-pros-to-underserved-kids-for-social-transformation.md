@@ -138,15 +138,7 @@ project_proposal_best_place: >-
   inspires further action to bring about change. With the help of this award, we
   hope that in the near future, L.A. will be thought of as a model for service
   as much as we are known for entertainment, sports, and our weather.
-project_image_2: 1369152355741-team90.png
-empty_column_1: ''
 organization_name: L.A. Works
 organization_website: laworks.com
-organization_name_2: L.A. Works
-organization_activity: >-
-  L.A. Works empowers Angelenos to address critical social issues by recruiting,
-  managing, and training volunteers for nonprofit organizations, schools, and
-  government agencies.
-ein: '954329727'
 
 ---

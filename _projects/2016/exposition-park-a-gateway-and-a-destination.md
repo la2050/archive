@@ -168,14 +168,7 @@ project_proposal_best_place: >-
 
   • Interviews with park stakeholders, such as LA Metro, USC, and nearby
   businesses, schools, and the Neighborhood Council.
-project_image_2: 2101126065741-team90.jpg
-empty_column_1: ''
 organization_name: Office of Exposition Park Management
 organization_website: expositionpark.ca.gov
-organization_name_2: Office of Exposition Park Management
-organization_activity: >-
-  The Office of Exposition Park Management coordinates park activities and
-  infrastructure improvements in the Expo Park neighborhood.
-ein: ''
 
 ---

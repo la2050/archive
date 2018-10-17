@@ -124,15 +124,7 @@ project_proposal_best_place: >-
   for learning, connect students with contemporary icons whose accomplishments
   can be seen as “relevant” for young scholars, and energize student interest
   and a desire to continue and succeed in school.
-project_image_2: 0529159945741-team91.png
-empty_column_1: ''
 organization_name: Arts and Living Charitable Foundation
 organization_website: www.aalcf.com/index.php/what-the/80-article-eight14
-organization_name_2: Arts and Living Charitable Foundation
-organization_activity: >-
-  Arts Connect takes successful, well-known relevant people and produces their
-  real-life stories in a digital multimedia curriculum, integrating the arts to
-  enhance pupils learning experiences.
-ein: ''
 
 ---

@@ -96,15 +96,7 @@ project_proposal_best_place: >-
   for far longer. With LA 2050's support, we hope to reach out to Westside
   stakeholders who do not typically participate in events like this in order to
   a create sense of unity, cooperation, and friendliness among neighbors.
-project_image_2: 0138450996741-team90.jpeg
-empty_column_1: ''
 organization_name: Westside Urban Forum
 organization_website: www.westsideurbanforum.com
-organization_name_2: Westside Urban Forum
-organization_activity: >-
-  The Westside Urban Forum promotes discussion of urban issues on Los Angeles'
-  Westside through a monthly breakfast series, the annual Westside Prize, and
-  other events.
-ein: ''
 
 ---

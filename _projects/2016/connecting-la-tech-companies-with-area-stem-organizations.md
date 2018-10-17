@@ -188,15 +188,7 @@ project_proposal_best_place: >-
   minority youth, for creating a smarter local workforce, and for creating a
   more DIVERSE workforce that truly reflects the international nature of LA's
   population.
-project_image_2: 8786812913741-team90.jpg
-empty_column_1: ''
 organization_name: Tech LA Cares
 organization_website: techlacares.com
-organization_name_2: Tech LA Cares
-organization_activity: >-
-  We aim to connect LA-area tech firms with volunteer opportunities at local
-  STEM-based organizations via events, web, and weekly emails -- and lots of
-  one-on-one real-world engagement.
-ein: '841631105'
 
 ---

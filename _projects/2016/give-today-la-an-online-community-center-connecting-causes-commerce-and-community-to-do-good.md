@@ -104,15 +104,7 @@ project_proposal_best_place: >-
   To make LA the best place it can be, we must all give something. This web
   based gathering place will be the one stop to inspire and provide people with
   a place to give something- time, treasure or talent. The impact is massive.
-project_image_2: 4934410265741-team91.jpg
-empty_column_1: ''
 organization_name: Give Today LA
 organization_website: givetodayla.com
-organization_name_2: Give Today LA
-organization_activity: >-
-  Creating a social share web-based platform that identifies unique community
-  goals, and then provides a platform to connect you or your business to a
-  customized experience with local causes, all local.
-ein: ''
 
 ---

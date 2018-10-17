@@ -100,14 +100,7 @@ project_proposal_best_place: >-
   production samples. The LA2050 grant will be put to great use in allowing us
   to focus more directly on concept and execution by removing some of the
   financial barriers to campaign success.
-project_image_2: 2520459835741-team91.JPG
-empty_column_1: ''
 organization_name: Citizens Of Culture
 organization_website: citizensofculture.com
-organization_name_2: Citizens Of Culture
-organization_activity: >-
-  Citizens Of Culture cultivates economic opportunities for independent artists
-  and designers.
-ein: '821044989'
 
 ---

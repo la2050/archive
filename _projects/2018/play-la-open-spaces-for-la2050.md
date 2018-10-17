@@ -165,8 +165,6 @@ Where do you hope this activation or your organization will be in five years?: >
   to advocacy, policy and design. The Play LA! team hopes it will become an
   annual event supported in future years by businesses, schools, CBOs and others
   to celebrate LA by getting outside.
-project_id_2: '8102123'
-project_id_3: '8102123'
 organization_name: The Trust for Public Land
 
 ---

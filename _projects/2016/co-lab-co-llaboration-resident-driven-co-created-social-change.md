@@ -165,15 +165,7 @@ project_proposal_best_place: >-
   county to be effective change agents. By placing Angelenos at the center of
   the solution design process, Co/Lab’s  approach will make LA a premier place
   to connect & live.
-project_image_2: 5174397094741-team88.jpg
-empty_column_1: ''
 organization_name: South Bay Center for Counseling (SBCC)
 organization_website: www.sbccthrivela.org
-organization_name_2: South Bay Center for Counseling (SBCC)
-organization_activity: >-
-  By harnessing the power of the existing gifts and talents of the local
-  community, we are changing lives by building stronger communities from the
-  inside out.
-ein: ''
 
 ---

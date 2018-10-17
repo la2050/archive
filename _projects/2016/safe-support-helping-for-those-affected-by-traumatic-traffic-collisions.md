@@ -96,15 +96,7 @@ project_proposal_best_place: >-
   survivors. In addition, our network will collaborate with civic leaders to
   ensure that local and state governments make broad changes that help all
   Angelenos walk, bike, drive, and connect safely.
-project_image_2: 8496394265741-team91.jpg
-empty_column_1: ''
 organization_name: SAFE (Streets Are For Everyone)
 organization_website: www.streetsareforeveryone.org
-organization_name_2: SAFE (Streets Are For Everyone)
-organization_activity: >-
-  SAFE is dedicated to improving traffic safety, advocating for victims of
-  traffic, and eliminating traffic fatalities through outreach, policy,
-  community support, and other proven strategies.
-ein: ''
 
 ---

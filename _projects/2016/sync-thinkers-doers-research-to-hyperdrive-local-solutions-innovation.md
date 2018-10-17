@@ -118,15 +118,7 @@ project_proposal_best_place: >-
   people will be given opportunities for better jobs, graduate programs and
   funding, and each will be given the chance to play a role in the advancement
   of local research and innovation in Los Angeles.
-project_image_2: 6052198655741-team91.jpeg
-empty_column_1: ''
 organization_name: '#Library'
 organization_website: hashtaglibrary.com
-organization_name_2: '#Library'
-organization_activity: >-
-  #Library is a platform that effectively sorts voices, information and content
-  for relevance, quality and priority using the power of the crowd and machine
-  learning.
-ein: ''
 
 ---

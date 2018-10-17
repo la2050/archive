@@ -94,15 +94,7 @@ project_proposal_best_place: >-
   LAUSD has among the highest concentration of low-income students in the state,
   with more than 80% living at or below the poverty line. We want to teach these
   students to invent out of clean, rescued, rubbish.
-project_image_2: 5085632065741-team91.jpg
-empty_column_1: ''
 organization_name: T4T.org
 organization_website: T4T.org
-organization_name_2: T4T.org
-organization_activity: >-
-  T4T.org inspires the next generation of Scientists, Technology experts,
-  Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste
-  and in doing this we nurture environmental stewar
-ein: '562464067'
 
 ---

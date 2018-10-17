@@ -77,8 +77,6 @@ Please explain how you will define and measure success for your activation.: By 
 Where do you hope this activation or your organization will be in five years?: >-
   We hope to have a world-class music school that will serve students from ALL
   socioeconomic backgrounds
-project_id_2: '8102048'
-project_id_3: '8102048'
 organization_name: Gracias Music Foundation
 
 ---

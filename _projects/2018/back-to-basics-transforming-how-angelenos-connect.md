@@ -112,8 +112,6 @@ Where do you hope this activation or your organization will be in five years?: >
   businesses, organizations, and schools, and bridging relationships into
   higher-socioeconomic areas by facilitating programs for all people in the
   space.
-project_id_2: '8102036'
-project_id_3: '8102036'
 organization_name: Eayikes
 
 ---

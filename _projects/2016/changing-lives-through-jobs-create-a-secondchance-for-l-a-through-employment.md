@@ -124,15 +124,7 @@ project_proposal_best_place: >-
   dignity, and creates better physical and mental health, while also setting in
   motion changes that have positive ripple effects on families, communities, and
   society.
-project_image_2: 1107194355741-team88.jpg
-empty_column_1: ''
 organization_name: Chrysalis
 organization_website: changelives.org
-organization_name_2: Chrysalis
-organization_activity: >-
-  Chrysalis’ mission is to create a pathway to self-sufficiency for homeless and
-  low-income individuals by providing the resources and support needed to find
-  and retain employment.
-ein: ''
 
 ---

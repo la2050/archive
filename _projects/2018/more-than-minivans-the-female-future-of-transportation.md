@@ -147,8 +147,6 @@ Describe in greater detail how your activation will make LA the best place?: ''
 How will your activation engage Angelenos to make LA the best place: ''
 Please explain how you will define and measure success for your activation.: ''
 Where do you hope this activation or your organization will be in five years?: ''
-project_id_2: '8102055'
-project_id_3: '8102055'
 organization_name: Investing in Place
 
 ---

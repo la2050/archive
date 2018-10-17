@@ -131,15 +131,7 @@ project_proposal_best_place: >-
   each other “man to man” around the importance of responsible fatherhood, the
   M2M Project will impact future generations and help make LA the best place to
   connect.
-project_image_2: 1711077255741-team90.JPG
-empty_column_1: ''
 organization_name: Friends of the Family
 organization_website: www.fofca.org
-organization_name_2: Friends of the Family
-organization_activity: >-
-  Friends of the Family works to lift children and their families out of
-  poverty, protect them from abuse and neglect, and ensure their access to
-  education, healthcare, and a resource-rich community.
-ein: ''
 
 ---

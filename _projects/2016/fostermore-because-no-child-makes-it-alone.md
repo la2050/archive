@@ -119,15 +119,7 @@ project_proposal_best_place: >-
   over a 6-8 week effort.  Further the long-term impact could yield an estimated
   5,700-7,000 additional foster parents starting 18 months from the date of
   execution.
-project_image_2: 5007408255741-team91.png
-empty_column_1: ''
 organization_name: Children's Action Network (CAN)
 organization_website: www.fostermore.org
-organization_name_2: Children's Action Network (CAN)
-organization_activity: >-
-  FosterMore highlights the amazing potential of youth in the foster care system
-  and encourages all of us to play a part in ensuring that they receive the
-  support and guidance they need to thrive.
-ein: '943213100'
 
 ---

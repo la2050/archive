@@ -142,15 +142,7 @@ project_proposal_best_place: >-
   equality in media and inspire their participation in the field, enriching the
   Institute’s efforts to create more opportunities for female employment in the
   industry, as well as female-led projects, businesses, and arts establishments.
-project_image_2: 8697450355741-team90.jpg
-empty_column_1: ''
 organization_name: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 organization_website: www.seejane.org
-organization_name_2: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
-organization_activity: >-
-  The Geena Davis Institute on Gender in Media is the only research-based
-  organization working from within the entertainment industry to improve gender
-  balance in media and empower women and girls.
-ein: ''
 
 ---

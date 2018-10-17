@@ -121,15 +121,7 @@ project_proposal_best_place: >-
   tech solution represent the future of poverty alleviation: together, we create
   new avenues for greater coordination among diverse stakeholders and empower
   people to access resources efficiently.
-project_image_2: 4037609065741-team91.png
-empty_column_1: ''
 organization_name: LIFT Inc.
 organization_website: www.liftcommunities.org
-organization_name_2: LIFT Inc.
-organization_activity: >-
-  LIFT-Los Angeles strengthens parents’ personal, social, and financial
-  foundations, working with – not just for – parents to design and implement
-  scalable solutions to intergenerational poverty.
-ein: '522168409'
 
 ---

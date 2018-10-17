@@ -80,15 +80,7 @@ project_proposal_best_place: >-
   solvers. 
 
   Our orchestra will perform in local schools and parks.
-project_image_2: 1655980265741-team91.jpg
-empty_column_1: ''
 organization_name: T4T.org
 organization_website: www.t4t.org
-organization_name_2: T4T.org
-organization_activity: >-
-  T4T.org inspires the next generation of Scientists, Technology experts,
-  Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste
-  - nurturing environmental stewardship.
-ein: '562464067'
 
 ---

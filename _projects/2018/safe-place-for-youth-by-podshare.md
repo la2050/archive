@@ -186,8 +186,6 @@ Where do you hope this activation or your organization will be in five years?: >
   population each year. The LA2050’s goal of having fewer than 1,000 homeless
   people on the streets by the year 2050 is achievable. PodShare and SPY are
   here to help get it done. 
-project_id_2: '8102096'
-project_id_3: '8102096'
 organization_name: Podshare
 
 ---

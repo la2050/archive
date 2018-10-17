@@ -158,14 +158,7 @@ project_proposal_best_place: >-
   LAUSD schools are rarely able to compensate for recreational and fitness
   resources their neighborhoods lack. With implementation of our program model,
   SBSM can provide LAUSD with an impactful solution.
-project_image_2: 4898814105741-team90.jpg
-empty_column_1: ''
 organization_name: Sound Body Sound Mind Foundation
 organization_website: uclahealth.org/soundbodysoundmind
-organization_name_2: Sound Body Sound Mind Foundation
-organization_activity: >-
-  The mission of Sound Body Sound Mind is to promote self-confidence and healthy
-  lifestyle choices among today's youth.
-ein: ''
 
 ---

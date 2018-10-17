@@ -88,14 +88,7 @@ project_proposal_best_place: >-
   August 2016, and will continue until the end of the 2019 academic year. The
   program will impact the entire school (900+ students, 50+ educators) each year
   for the next three years.
-project_image_2: 7692902065741-team91.png
-empty_column_1: ''
 organization_name: Whitaker Peace & Development Initiative (WPDI)
 organization_website: www.wpdi.org
-organization_name_2: Whitaker Peace & Development Initiative (WPDI)
-organization_activity: >-
-  Our mission is to help societies impacted by destructive conflicts transform
-  into safer and more prosperous communities.
-ein: ''
 
 ---

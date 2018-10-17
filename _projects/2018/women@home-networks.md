@@ -133,8 +133,6 @@ Where do you hope this activation or your organization will be in five years?: >
   greater Internet access capacity, and half of these regions will gain
   affordable Internet bandwidth where almost none was readily available
   previously.
-project_id_2: '8102034'
-project_id_3: '8102034'
 organization_name: Data Roads Foundation
 
 ---

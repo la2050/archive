@@ -118,15 +118,7 @@ project_proposal_best_place: >-
   with personal experiences, and writing this play serves as a cathartic and
   proactive way of healing and helping others. We all feel the urgency in fixing
   this problem and want to use our combined skills to make a positive impact.
-project_image_2: 4990464255741-team89.JPG
-empty_column_1: ''
 organization_name: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
 organization_website: www.ladypartscollective.com
-organization_name_2: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
-organization_activity: >-
-  Tipping the scales of gender equity in the arts and entertainment industry,
-  The LadyParts Collective is an all-female group igniting social change by
-  creating original plays about women's issues.
-ein: ''
 
 ---

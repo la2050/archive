@@ -150,8 +150,6 @@ Where do you hope this activation or your organization will be in five years?: >
   culinary jobs. Ultimately, we envision a City that values and supports street
   vendors, and sees them as contributors to the economic and cultural tapestry
   of Los Angeles.
-project_id_2: '8102035'
-project_id_3: '8102035'
 organization_name: East LA Community Corporation (ELACC)
 
 ---

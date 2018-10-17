@@ -120,8 +120,6 @@ Where do you hope this activation or your organization will be in five years?: >
   is at a turning point in its history. This activation is what Red Hen Press
   needs to take the next leap forward and make Los Angeles a better place to
   create, connect, and learn.
-project_id_2: '8102101'
-project_id_3: '8102101'
 organization_name: Red Hen Press
 
 ---

@@ -163,15 +163,7 @@ project_proposal_best_place: >-
   newspapers, blogs and other media sources to raise awareness of this issue.
   This will create community interest in investing further in food resource
   development in the future.
-project_image_2: 4415249165741-team91.png
-empty_column_1: ''
 organization_name: Doctors for America
 organization_website: www.drsforamerica.org
-organization_name_2: Doctors for America
-organization_activity: >-
-  DFA mobilizes doctors and medical students to be leaders in local communities
-  on the pressing issues of the day to improve the health of our patients,
-  communities, and nation.
-ein: ''
 
 ---

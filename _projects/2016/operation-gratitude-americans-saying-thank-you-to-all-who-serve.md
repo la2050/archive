@@ -138,15 +138,7 @@ project_proposal_best_place: >-
 
 
   This is Los Angeles connecting and saying “Thank You” to all who serve.
-project_image_2: 7925063255741-team88.png
-empty_column_1: ''
 organization_name: Operation Gratitude
 organization_website: OperationGratitude.com
-organization_name_2: Operation Gratitude
-organization_activity: >-
-  Operation Gratitude volunteers nationwide donate items, write letters and
-  assemble Care Packages to express their appreciation to, and lift the spirits
-  of, the Military & First Responder communities.
-ein: ''
 
 ---

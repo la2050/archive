@@ -125,14 +125,7 @@ project_proposal_best_place: >-
   expanded and updated every other year as the UCLA Sex Squad continues to
   create more content. An investment in our young people is an investment in the
   future health of our entire city.
-project_image_2: 2875239905741-team91.jpg
-empty_column_1: ''
 organization_name: Regents of the University of California
 organization_website: artglobalhealth.org
-organization_name_2: Regents of the University of California
-organization_activity: >-
-  The UCLA Art & Global Health Center harnesses the transformative power of the
-  arts to improve public health in Los Angeles.
-ein: ''
 
 ---

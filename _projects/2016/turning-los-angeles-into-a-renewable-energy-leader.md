@@ -91,12 +91,7 @@ project_proposal_best_place: >-
   imperative for Los Angeles, a coastal city that is vulnerable to droughts,
   fires, sea-level rise and acidifying oceans to make a bold commitment and lead
   on the 100% renewable energy future our city deserves.
-project_image_2: 7867733165741-team90.png
-empty_column_1: ''
 organization_name: Food & Water Watch
 organization_website: foodandwaterwatch.org
-organization_name_2: Food & Water Watch
-organization_activity: Food & Water Watch champions healthy food and clean water for all.
-ein: ''
 
 ---

@@ -68,14 +68,7 @@ project_proposal_best_place: >-
   a safe living facility where people can heal. Cities like Philadelphia, have a
   healing house for transplant patients that serves their transplant centers.
   Los Angeles should be number one in providing this facility.
-project_image_2: 4988765384741-team91.JPG
-empty_column_1: ''
 organization_name: Ava's Heart
 organization_website: avasheart.org
-organization_name_2: Ava's Heart
-organization_activity: >-
-  We provide assistance to transplant patients who would otherwise not be able
-  to afford treatment and care.
-ein: ''
 
 ---

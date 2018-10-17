@@ -137,8 +137,6 @@ Where do you hope this activation or your organization will be in five years?: >
   A world-class performance ensemble performing at the major events and
   festivals of LA county free to its members and representing the diversity of
   Los Angeles.
-project_id_2: '8102042'
-project_id_3: '8102042'
 organization_name: Future America
 
 ---

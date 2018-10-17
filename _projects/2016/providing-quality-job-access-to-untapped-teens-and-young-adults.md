@@ -96,15 +96,7 @@ project_proposal_best_place: >-
   activities. In other words, giving students a job opportunity like this gives
   them faith that there is a better future for them, and inspires them to finish
   high school and apply to college and/or future jobs.
-project_image_2: 8216358055741-team91.jpg
-empty_column_1: ''
 organization_name: Knit Marketing
 organization_website: Knitmarketing.com
-organization_name_2: Knit Marketing
-organization_activity: >-
-  Knit Marketing creates and curates social media content for businesses looking
-  to reach young people by training and employing teens and young adults from
-  untapped communities in Los Angeles.
-ein: ''
 
 ---

@@ -146,15 +146,7 @@ project_proposal_best_place: >-
   hubs, particularly in biotech, aerospace, trade and transportation, and clean
   tech, thereby contributing to LA’s creative and entrepreneurial ecosystem with
   global economic influence.
-project_image_2: 1008153355741-team91.jpg
-empty_column_1: ''
 organization_name: 'Braid Theory, Inc.'
 organization_website: www.braidtheory.com
-organization_name_2: 'Braid Theory, Inc.'
-organization_activity: >-
-  Braid Theory weaves together entrepreneurs, investors and industry influencers
-  to accelerate adoption of transformative technologies, drive market growth and
-  create profitable collaborations.
-ein: ''
 
 ---

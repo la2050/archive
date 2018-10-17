@@ -136,8 +136,6 @@ Where do you hope this activation or your organization will be in five years?: >
   the region and beyond to celebrate manufacturing and locally made. We hope it
   becomes successful enough that we can replicate this in other cities to help
   them celebrate their ecosystems
-project_id_2: '8102079'
-project_id_3: '8102079'
 organization_name: MAKE IT IN LA
 
 ---

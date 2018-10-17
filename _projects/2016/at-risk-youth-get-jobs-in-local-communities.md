@@ -80,14 +80,7 @@ project_proposal_best_place: >-
   help the graduates to find jobs and succeed. Our new program which teaches our
   high school students how to succeed at work, helps them to end
   intergenerational poverty in their families and in their communities.
-project_image_2: 3729983255741-team91.jpg
-empty_column_1: ''
 organization_name: I Have a Dream Foundation
 organization_website: http//www.ihadla.org
-organization_name_2: I Have a Dream Foundation
-organization_activity: >-
-  Provides at risk youth the education and enrichment to make it to and through
-  college and find jobs
-ein: ''
 
 ---

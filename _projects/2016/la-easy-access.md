@@ -125,12 +125,7 @@ project_proposal_best_place: >-
   The public transport application of the platform has been used in 5+ cities.
   Among them is the city of Pune, India, which serves to showcase the
   feasibility of the current proposal (see the video).
-project_image_2: 8010774165741-team91.png
-empty_column_1: ''
 organization_name: Habidatum
 organization_website: habidatum.com
-organization_name_2: Habidatum
-organization_activity: Open data-driven analysis of public transport accessibility in space-time
-ein: ''
 
 ---

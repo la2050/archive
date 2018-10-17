@@ -139,15 +139,7 @@ project_proposal_best_place: >-
   experiences for all involved. Former camp artisan, mentors and families have
   already committed to participate at future camps, desiring to continue the
   connection among one another and with the youth and children.
-project_image_2: 7808945355741-team90.jpg
-empty_column_1: ''
 organization_name: Come Alive Long Beach
 organization_website: comealivelb.com
-organization_name_2: Come Alive Long Beach
-organization_activity: >-
-  Come Alive Long Beach (CALB) partners with volunteers, artisans and
-  organizations to empower under-resourced youth and children through low-cost
-  creative summer arts camps in the city of Long Beach.
-ein: ''
 
 ---

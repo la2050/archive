@@ -122,12 +122,7 @@ project_proposal_best_place: >-
   2. Individual random acts of kindness
 
   3. Games that build personal and community resilience
-project_image_2: 5082856955741-team91.png
-empty_column_1: ''
 organization_name: Compassionate Santa Monica
 organization_website: charterforcompassion.org
-organization_name_2: Compassionate Santa Monica
-organization_activity: Building Compassionate cities since 2013
-ein: ''
 
 ---

@@ -158,8 +158,6 @@ Where do you hope this activation or your organization will be in five years?: >
   In five years we should see the implementation of a Youth Development
   Department in the City of Los Angeles, which is fully funded to be competitive
   with other major cities.
-project_id_2: '8102008'
-project_id_3: '8102008'
 organization_name: Big Citizen HUB
 
 ---

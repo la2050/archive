@@ -126,15 +126,7 @@ project_proposal_best_place: >-
   space.  More than 500 people will be part of this dynamic new residential
   community in the northern section of downtown and will have direct access to
   our museum, Olvera Street and Union Station.
-project_image_2: 6510837105741-team89.jpg
-empty_column_1: ''
 organization_name: LA Plaza de Cultura y Artes
 organization_website: www.lapca.org
-organization_name_2: LA Plaza de Cultura y Artes
-organization_activity: >-
-  LA Plaza de Cultura y Artes celebrates and cultivates an appreciation for the
-  enduring and evolving influence of Mexican-American and Latino history, art &
-  culture in Southern California.
-ein: ''
 
 ---

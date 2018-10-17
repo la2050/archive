@@ -122,15 +122,7 @@ project_proposal_best_place: >-
 
   We see the Triforium as a beacon. It’s been there all along. We just need to
   turn it on.
-project_image_2: 7344404654741-team91.jpg
-empty_column_1: ''
 organization_name: The Triforium Project
 organization_website: triforium.la
-organization_name_2: The Triforium Project
-organization_activity: >-
-  We are a coaltion of people dedicated to reimagining The Triforium,
-  transforming it from a forgotten piece of public art to a dynamic,
-  interactive, creative site for Angelenos of all ages.
-ein: ''
 
 ---

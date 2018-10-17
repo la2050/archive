@@ -126,15 +126,7 @@ project_proposal_best_place: >-
 
   Our proposed films will help inform the public about how to use LA’s rich
   natural heritage for making LA the best place to live in 2050.
-project_image_2: 5030775394741-team91.jpg
-empty_column_1: ''
 organization_name: Landscape Integrity Films and Education (LIFE)
 organization_website: www.youtube.com/channel/UC-q5gdpHqRxx5aOHWuQxVtA
-organization_name_2: Landscape Integrity Films and Education (LIFE)
-organization_activity: >-
-  LIFE short films give clear, inspiring information about native plant
-  gardening to transform sterile green spaces into places that support
-  biodiversity, conserve water and celebrate California beauty.
-ein: ''
 
 ---

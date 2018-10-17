@@ -148,15 +148,7 @@ project_proposal_best_place: >-
   matriculation rates will rise. The Academy Project will provide the necessary
   support & motivation to give our youth the chance to own their own narratives
   & future successes.
-project_image_2: 0815848445741-team90.jpg
-empty_column_1: ''
 organization_name: The Academy Project
 organization_website: WWW.THEACADEMYPROJECT.ORG
-organization_name_2: The Academy Project
-organization_activity: >-
-  The Academy Project prepares LA foster youth to succeed in high school and
-  beyond, through an innovative summer camp & after school program, with a
-  guaranteed spot in a stable & supportive community
-ein: '471205640'
 
 ---

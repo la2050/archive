@@ -136,15 +136,7 @@ project_proposal_best_place: >-
   teachers-in-training in LASC’s Urban Teacher Fellowship, a program with the
   goal of increasing the number of teachers of color.  EF’s goal is to enroll at
   least 30 students in its MESA program.
-project_image_2: 7432986155741-team90.jpg
-empty_column_1: ''
 organization_name: 'The Engineer Factory, a project of Community Partners'
 organization_website: www.communitypartners.org/project/engineer-factory
-organization_name_2: 'The Engineer Factory, a project of Community Partners'
-organization_activity: >-
-  The Engineer Factory “plants seeds to grow STEM” in students in underserved
-  communities through project-based learning in community & afterschool
-  programs, engineer competitions, and TA for educators.
-ein: ''
 
 ---

@@ -144,8 +144,6 @@ Please explain how you will define and measure success for your activation.: >-
 Where do you hope this activation or your organization will be in five years?: >-
   After going global, I hope to turn my organization into a B corporation or
   social enterprise. 
-project_id_2: '8102001'
-project_id_3: '8102001'
 organization_name: '#HappyPeriod'
 
 ---

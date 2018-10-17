@@ -155,8 +155,6 @@ Where do you hope this activation or your organization will be in five years?: >
   councilman Mike Bonin for her work in the community. We would love to see more
   youth advocating at their local city counsels and fight homelessness and get
   support from their councilmen/women. 
-project_id_2: '8102112'
-project_id_3: '8102112'
 organization_name: Stella's Socks
 
 ---

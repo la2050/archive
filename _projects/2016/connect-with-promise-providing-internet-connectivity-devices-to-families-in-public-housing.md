@@ -104,15 +104,7 @@ project_proposal_best_place: >-
   school and be college and career ready, and acts as a key tool in parents
   ability to be engaged and empowered to direct their children’s learning.
   Today, the ultimate vehicle for opportunity is through the Internet.
-project_image_2: 3786211355741-team91.jpg
-empty_column_1: ''
 organization_name: EveryoneOn
 organization_website: everyoneon.org
-organization_name_2: EveryoneOn
-organization_activity: >-
-  EveryoneOn is committed to eliminating the digital divide by making
-  high-speed, low-cost Internet, computers, and free digital literacy training
-  accessible to all unconnected people in the U.S.
-ein: ''
 
 ---

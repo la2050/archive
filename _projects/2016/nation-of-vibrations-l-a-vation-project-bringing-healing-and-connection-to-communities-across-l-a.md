@@ -131,15 +131,7 @@ project_proposal_best_place: >-
   This is why the L.A.vation project is so crucial to Angelenos lives; it will
   help many people to connect to one another in ways that go far beyond the
   existing norms.
-project_image_2: 4762549545741-team90.jpg
-empty_column_1: ''
 organization_name: Nation of Vibration
 organization_website: nationofvibration.com
-organization_name_2: Nation of Vibration
-organization_activity: >-
-  Nation of Vibration’s mission is to bring healing, connection, and empowerment
-  to individuals and communities throughout LA and to work together to bring
-  innovative and sustainable changes to our city
-ein: ''
 
 ---

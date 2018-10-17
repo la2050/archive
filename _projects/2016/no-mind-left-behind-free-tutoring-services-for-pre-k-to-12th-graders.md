@@ -144,15 +144,7 @@ project_proposal_best_place: >-
   programs that improve our children’s lives by working hand in hand with
   teachers on a consistent basis, with ultimate efforts to build a solidly
   structured team focused on uplifting our youth.
-project_image_2: 5378393065741-team90.jpg
-empty_column_1: ''
 organization_name: I'm A Movement Not A Monument
 organization_website: www.imamovement.org
-organization_name_2: I'm A Movement Not A Monument
-organization_activity: >-
-  I'm A Movement Not A Monument designs programs and events to foster and engage
-  each student academically and socially, which provides them with the necessary
-  skills to succeed in future endeavors.
-ein: ''
 
 ---

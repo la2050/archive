@@ -121,14 +121,7 @@ project_proposal_best_place: >-
   After the successful pilot, we can take this to other providers in L.A. county
   and potentially reach the more than 78,000 children in licensed in home child
   care.
-project_image_2: 0113414065741-team91.png
-empty_column_1: ''
 organization_name: T&L Foundation for Child Care Information
 organization_website: www.tlfcci.org
-organization_name_2: T&L Foundation for Child Care Information
-organization_activity: >-
-  Strengthen quality child care and early education through participation in and
-  education of health and wellness initiatives.
-ein: ''
 
 ---

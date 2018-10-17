@@ -177,8 +177,6 @@ Where do you hope this activation or your organization will be in five years?: >
   with the incorporation of strategies encouraging repair and reuse as key
   approaches to meet diversion goals in its updates to the City’s Sustainability
   Plan. 
-project_id_2: '8102046'
-project_id_3: '8102046'
 organization_name: Global Green
 
 ---

@@ -120,15 +120,7 @@ project_proposal_best_place: >-
   scene, and help it attract a diverse community of thinkers, leaders, investors
   and entrepreneurs whilst working with local communities to create a
   sustainable tech workforce with gender parity as the key focus.
-project_image_2: 6190449915741-team91.png
-empty_column_1: ''
 organization_name: Girls in Tech
 organization_website: girlsintech.org
-organization_name_2: Girls in Tech
-organization_activity: >-
-  Girls in Tech (GIT) is a global non-profit focused on the engagement,
-  education and empowerment of girls and women who are passionate about
-  technology.
-ein: ''
 
 ---

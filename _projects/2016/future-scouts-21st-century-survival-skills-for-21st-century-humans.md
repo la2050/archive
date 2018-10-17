@@ -178,15 +178,7 @@ project_proposal_best_place: >-
   evaluate knowledge, and create their own narratives. We do this through
   providing knowledge, experiences and tools that help them become authors of
   their own futures.
-project_image_2: 4696118255741-team90.png
-empty_column_1: ''
 organization_name: Future Fields
 organization_website: futurescouts.co
-organization_name_2: Future Fields
-organization_activity: >-
-  Future Scouts is a series of urban creative laboratories that prepare
-  youngsters, teens and adults with tools, frameworks and models helpful to
-  navigate an increasingly complex world.
-ein: ''
 
 ---

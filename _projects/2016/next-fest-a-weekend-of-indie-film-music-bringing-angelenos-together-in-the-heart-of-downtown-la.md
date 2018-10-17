@@ -132,14 +132,7 @@ project_proposal_best_place: >-
   to be able to broaden our outreach in Los Angeles through a fully underwritten
   community ticket initiative and by continuing to offer a free, public space
   for NEXT FEST attendees and the vibrant downtown neighborhood.
-project_image_2: 9172894265741-team91.png
-empty_column_1: ''
 organization_name: Sundance Institute
 organization_website: sundance.org
-organization_name_2: Sundance Institute
-organization_activity: >-
-  Sundance Institute is a nonprofit organization dedicated to the discovery and
-  development of independent artists and audiences.
-ein: ''
 
 ---

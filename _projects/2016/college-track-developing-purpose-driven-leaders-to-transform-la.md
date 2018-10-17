@@ -127,15 +127,7 @@ project_proposal_best_place: >-
   Club and Project DAD, as well as a campaign around food sovereignty. This
   year, we anticipate that students will partner with at least 15 organizations
   across LA to transform their passions into positive impact
-project_image_2: 4013598065741-team90.jpg
-empty_column_1: ''
 organization_name: College Track
 organization_website: www.collegetrack.org
-organization_name_2: College Track
-organization_activity: >-
-  From 9th grade through college graduation, College Track’s 10-year program
-  empowers students from low-income communities to transcend the limits of their
-  circumstance and earn a college degree.
-ein: '943279613'
 
 ---

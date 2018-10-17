@@ -132,15 +132,7 @@ project_proposal_best_place: >-
   LA’s BEST intentionally infuses into enrichment activities. Finally, the
   organization is effective in helping children develop social and emotional
   skills through a pro-social approach to programming.
-project_image_2: 3583609165741-team91.jpg
-empty_column_1: ''
 organization_name: LA's BEST
 organization_website: www.lasbest.org
-organization_name_2: LA's BEST
-organization_activity: >-
-  LA’s BEST provides safe and supervised after school and summer programs that
-  cultivate academic, social and emotional growth among 25,000 elementary school
-  students in under-resourced neighborhoods.
-ein: '954311058'
 
 ---

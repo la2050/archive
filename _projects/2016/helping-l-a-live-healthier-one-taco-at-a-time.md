@@ -150,15 +150,7 @@ project_proposal_best_place: >-
   promote healthy eating, self-esteem,  mental health that will create bonding
   between families building stronger families better communities a better Los
   Angeles.
-project_image_2: 1708382065741-team91.jpg
-empty_column_1: ''
 organization_name: Dear Mama
 organization_website: dearmamala.wixsite.com/dearmama
-organization_name_2: Dear Mama
-organization_activity: >-
-  Dear Mama provides the L.A. community with affordable, healthy alternatives to
-  animal-based products, while providing education and empowerment on healthy
-  living and aid to the community.
-ein: ''
 
 ---

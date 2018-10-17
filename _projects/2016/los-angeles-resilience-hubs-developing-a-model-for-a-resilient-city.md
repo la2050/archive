@@ -119,15 +119,7 @@ project_proposal_best_place: >-
   Green will develop a Resilience Hub model specifically suited for our
   increasingly hot, arid climate, and work with local community development
   corporations to identify sites for building pilot hubs.
-project_image_2: 8832997725741-team90.jpg
-empty_column_1: ''
 organization_name: Global Green USA
 organization_website: globalgreen.org
-organization_name_2: Global Green USA
-organization_activity: >-
-  We green cities, schools, and affordable housing to help protect human health,
-  improve livability, and support our planet's natural systems in an effort to
-  stem climate change.
-ein: '770387124'
 
 ---

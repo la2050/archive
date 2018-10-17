@@ -75,14 +75,7 @@ project_proposal_best_place: >-
   Island, Seattle and Portland, we know that LaunchCode participants can get
   placed in real high paying jobs that make a major different in how Los Angeles
   grows as a city.
-project_image_2: 6757074165741-team91.jpg
-empty_column_1: ''
 organization_name: LaunchCode
 organization_website: www.launchcode.org
-organization_name_2: LaunchCode
-organization_activity: >-
-  LaunchCode is a nonprofit opening doors to paid apprenticeships and jobs for
-  aspiring developers and technologists.
-ein: ''
 
 ---

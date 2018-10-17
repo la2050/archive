@@ -111,8 +111,6 @@ Where do you hope this activation or your organization will be in five years?: >
   interests.   This will provide real time data to the community and public
   officials, enabling policy direction and the enhancements to improve the
   livability for all residents in the City of Los Angeles.
-project_id_2: '8102026'
-project_id_3: '8102026'
 organization_name: 'City of Los Angeles, Bureau of Street Lighting'
 
 ---

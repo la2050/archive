@@ -130,14 +130,7 @@ project_proposal_best_place: >-
   open street gatherings, would provide access to free Wi-Fi and through the
   participation of a peer to peer educator and volunteers would encourage
   volunteerism and a connection point for social and emotional support.
-project_image_2: 1639271165741-team90.JPG
-empty_column_1: ''
 organization_name: Break the Cycle
 organization_website: www.breakthecycle.org
-organization_name_2: Break the Cycle
-organization_activity: >-
-  Break the Cycle inspires and supports young people to build healthy
-  relationships and create a culture without abuse.
-ein: ''
 
 ---

@@ -137,19 +137,9 @@ project_proposal_best_place: >-
   develop a full-blown pilot project intended to move IDG’s efforts to the next
   level by using the power of play as a strategy for invoking long awaited
   change.
-project_image_2: 3772023193741-team89.jpg
-empty_column_1: ''
 organization_name: >-
   Co-led by Industrial District Green and Cal Poly Pomona Department of
   Landscape Architecture.
 organization_website: www.industrialdistrictgreen.org
-organization_name_2: >-
-  Co-led by Industrial District Green and Cal Poly Pomona Department of
-  Landscape Architecture.
-organization_activity: >-
-  Cal Poly Pomona and Industrial District Green use creative strategies to
-  engage communities in the process of research, design, implementation and
-  maintenance.
-ein: ''
 
 ---

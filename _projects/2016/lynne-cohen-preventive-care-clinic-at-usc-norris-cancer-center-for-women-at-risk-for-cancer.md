@@ -119,15 +119,7 @@ project_proposal_best_place: >-
   - Increasing screening and outreach, conducting risk analysis and assessment
   for women’s cancer, and providing prevention strategies for those at increased
   risk.
-project_image_2: 5148126005741-team91.png
-empty_column_1: ''
 organization_name: Lynne Cohen Foundation
 organization_website: lynnecohenfoundation.org
-organization_name_2: Lynne Cohen Foundation
-organization_activity: >-
-  The Lynne Cohen Foundation supports four Preventive Care Clinics for women at
-  increased risk for breast or ovarian cancer by providing them with access to
-  comprehensive care in one place on one day.
-ein: ''
 
 ---

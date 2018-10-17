@@ -151,15 +151,7 @@ project_proposal_best_place: >-
   travels twice each year through the United States. If she holds a public
   lecture in LA, every effort will be made to extend an invitation to
   participating students and educators.
-project_image_2: 6000534355741-team90.JPG
-empty_column_1: ''
 organization_name: the Jane Goodall Institute
 organization_website: rootsandshoots.org
-organization_name_2: the Jane Goodall Institute
-organization_activity: >-
-  Focused on ages 8-15, Jane Goodall’s Roots & Shoots develops the next
-  generation of compassionate leaders by connecting youth to communities to
-  identify, strategize, and implement service campaigns.
-ein: ''
 
 ---

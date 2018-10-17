@@ -140,8 +140,6 @@ Where do you hope this activation or your organization will be in five years?: >
   be a go-to source for people around the region and across sectors. The LA
   Forward model of civic media and organizing will become a template for
   bringing together and engaging people in other regions and cities.
-project_id_2: '8102062'
-project_id_3: '8102062'
 organization_name: LA Forward
 
 ---

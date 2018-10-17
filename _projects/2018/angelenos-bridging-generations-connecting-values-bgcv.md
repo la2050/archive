@@ -120,8 +120,6 @@ Where do you hope this activation or your organization will be in five years?: >
   employed Angelenos. All people being productive, caring, responsible for
   greater futures will be the outcome because BGCV focal point connects all
   pillars of the LA 2050 initiative.
-project_id_2: '8102010'
-project_id_3: '8102010'
 organization_name: Boys & Girls Clubs of Venice (BGCV)
 
 ---

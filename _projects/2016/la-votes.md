@@ -147,15 +147,7 @@ project_proposal_best_place: >-
   The ultimate goal of LA Votes is to foster a stronger sense of Angeleno
   identity that goes beyond labels and focuses on tangible results, commitment
   to the local community, and most importantly true civic dialogue.
-project_image_2: 6888645593741-team90.png
-empty_column_1: ''
 organization_name: Center for the Study of Los Angeles
 organization_website: lmu.edu/studyla
-organization_name_2: Center for the Study of Los Angeles
-organization_activity: >-
-  The Center for the Study of Los Angeles is a leading undergraduate research
-  center, conducting public opinion surveys, exit polling, and leadership and
-  community studies.
-ein: ''
 
 ---

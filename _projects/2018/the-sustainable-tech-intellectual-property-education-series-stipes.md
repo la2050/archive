@@ -215,8 +215,6 @@ How will your activation engage Angelenos to make LA the best place: >-
   sustainable city and a global model for others to follow.
 Please explain how you will define and measure success for your activation.: "Our focus is on creative industries such as developing new green technologies, creating platforms and apps to generate efficiencies in energy and resource use, expanding the design sector, all of which are linked to the three pillars of sustainability - people, planet and profit. Examples of measures of success include the following:\r\n\r\n# Businesses attended by the creative industries\r\n\r\n# of new creative class businesses created\r\n\r\n# of jobs created through the program\r\n\r\n# of Minority- and women-owned firms created \r\n\r\n# of Patents created through the workshop\r\n\r\n# of copyrights and trademarks generated\r\n\r\n# of CSULB Students attending programs\r\n\r\n# of CSULB graduates remaining in LA county after graduation\r\n\r\nHow much matching venture capital investment is awarded\r\n\r\n"
 Where do you hope this activation or your organization will be in five years?: "When a college graduate/student/entrepreneur thinks about where they can find support to launch their idea our expectation is they think about Long Beach first, due to the resources and success of prior entrepreneurial launches supported through our business expansion, attraction, and retention programming.  Expanding the creative community to support the development of a truly sustainable city that focuses on the people, planet and profit!\r\n"
-project_id_2: '8102071'
-project_id_3: '8102071'
 organization_name: Long Beach Downtown Development Corporation
 
 ---

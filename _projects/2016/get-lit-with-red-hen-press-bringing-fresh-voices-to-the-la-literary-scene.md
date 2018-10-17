@@ -132,14 +132,7 @@ project_proposal_best_place: >-
   With publications that are both culturally and stylistically unique, and
   events that are thought-provoking and affordable, Red Hen Press contributes to
   the diverse literary landscape of Southern California.
-project_image_2: 9754248015741-team90.jpeg
-empty_column_1: ''
 organization_name: Red Hen Press
 organization_website: redhen.org
-organization_name_2: Red Hen Press
-organization_activity: >-
-  Red Hen Press is committed to publishing works of literary excellence,
-  supporting diversity, and promoting literacy in our local schools.
-ein: '954754598'
 
 ---

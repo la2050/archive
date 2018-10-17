@@ -146,15 +146,7 @@ project_proposal_best_place: >-
 
   This program will be established at pilot sites within LAUSD, and if
   successful, rolled out more widely.
-project_image_2: 4863691455741-team91.jpg
-empty_column_1: ''
 organization_name: California Institute of Technology
 organization_website: www.caltech.edu
-organization_name_2: California Institute of Technology
-organization_activity: >-
-  The Resnick Sustainability Institute at Caltech supports research in
-  sustainability, and runs FLoW: a program to help young innovators start
-  cleantech companies and learn how to become entrepreneurs.
-ein: ''
 
 ---

@@ -137,8 +137,6 @@ Where do you hope this activation or your organization will be in five years?: >
   of nonprofit funding. We aim to lead the way and pioneer the creative industry
   into a new digital ecosystem where Los Angeles youth have the ability to be at
   the forefront of the world’s biggest projects, movements, and masterpieces.
-project_id_2: '8102044'
-project_id_3: '8102044'
 organization_name: Get Lit - Words Ignite
 
 ---

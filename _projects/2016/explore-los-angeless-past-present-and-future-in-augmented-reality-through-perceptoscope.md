@@ -130,15 +130,7 @@ project_proposal_best_place: >-
   We hope that deployments can be long lasting, and that each deployment's
   experiences will be dynamic and novel to encourage the revisitation of a space
   for years to come.
-project_image_2: 1517216783741-team89.jpeg
-empty_column_1: ''
 organization_name: Perceptoscope
 organization_website: www.perceptoscope.com
-organization_name_2: Perceptoscope
-organization_activity: >-
-  Perceptoscope connects people to places through public art and technological
-  experimentation. We primarily focus on using public augmented reality viewers
-  to help places tell their story to visitors.
-ein: ''
 
 ---

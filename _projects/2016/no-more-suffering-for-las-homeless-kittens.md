@@ -82,12 +82,7 @@ project_proposal_best_place: >-
   will allow current, limited resources to be reallocated to other programs for
   animals, including low cost medical support and adoption efforts though animal
   control and volunteer groups.
-project_image_2: 7781213474741-team90.JPG
-empty_column_1: ''
 organization_name: Pretty Good Cat
 organization_website: Prettygoodcat.com
-organization_name_2: Pretty Good Cat
-organization_activity: We rescue unsponsored cats and dogs .
-ein: ''
 
 ---

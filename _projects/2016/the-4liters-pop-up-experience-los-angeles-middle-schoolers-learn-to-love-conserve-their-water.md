@@ -87,14 +87,7 @@ project_proposal_best_place: >-
   leader in conservation, technology and entertainment. Taken together, these
   strengths and weaknesses make Los Angeles an ideal place for innovation in
   water education.
-project_image_2: 5522525955741-team91.png
-empty_column_1: ''
 organization_name: DIGDEEP Water
 organization_website: www.digdeep.org
-organization_name_2: DIGDEEP Water
-organization_activity: >-
-  DIGDEEP is a human rights non-profit making clean water more available and
-  more sustainable in every community.
-ein: ''
 
 ---

@@ -117,15 +117,7 @@ project_proposal_best_place: >-
   in one location. This collaboration will inspire and jump-start the much
   needed push towards a net zero future, one in which L.A.'s communities will be
   run by clean, renewable energy.
-project_image_2: 9065217005741-team88.jpg
-empty_column_1: ''
 organization_name: Verdical Group
 organization_website: www.verdicalgroup.com
-organization_name_2: Verdical Group
-organization_activity: >-
-  Verdical Group is a full-service green building consulting firm located in
-  L.A. that is dedicated to advancing a more sustainable and healthy built
-  environment for our community.
-ein: ''
 
 ---

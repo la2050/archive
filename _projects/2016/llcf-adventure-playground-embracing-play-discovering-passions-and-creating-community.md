@@ -116,15 +116,7 @@ project_proposal_best_place: >-
   statistics by strengthening families by providing a safe, learning
   environment. We want to increase the number of individuals and families
   spending their time in encouraging environments, thus decreasing crime rates.
-project_image_2: 7260306494741-team91.JPG
-empty_column_1: ''
 organization_name: Light and Life Christian Fellowship Community Center
 organization_website: www.llcf.org
-organization_name_2: Light and Life Christian Fellowship Community Center
-organization_activity: >-
-  Our focus is to embrace, equip, and empower individuals to make a change in
-  their lives as well as others through a variety of outreach programs geared to
-  harness one’s gifts and passions.
-ein: ''
 
 ---

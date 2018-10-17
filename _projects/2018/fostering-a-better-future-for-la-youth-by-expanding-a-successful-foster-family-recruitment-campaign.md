@@ -88,8 +88,6 @@ Where do you hope this activation or your organization will be in five years?: >
   successful, there will be sufficient foster homes to address the need and the
   public will see foster youth as they are — children facing a difficult time,
   not simply difficult children.  
-project_id_2: '8102020'
-project_id_3: '8102020'
 organization_name: Tides Center dba Children's Action Network
 
 ---

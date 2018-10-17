@@ -134,15 +134,7 @@ project_proposal_best_place: >-
   to bring something different to the table. Activities such as Open Houses and
   Community Fairs would give us a golden opportunity to educate residents on
   homelessness and what they can do to help solve the problem.
-project_image_2: 4001387745741-team91.jpg
-empty_column_1: ''
 organization_name: The C.I.T.Y. x1 Youth Group
 organization_website: www.cityx1.org
-organization_name_2: The C.I.T.Y. x1 Youth Group
-organization_activity: >-
-  We provide free and empowering activities for Homeless LGBT Youth in a safe
-  place that helps link them to transitional living, educational programs, and
-  emotional support.
-ein: ''
 
 ---

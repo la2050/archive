@@ -110,15 +110,7 @@ project_proposal_best_place: >-
   interactions with arts and culture and how this in turn creates the foundation
   for a thriving and dynamic city. Unlike anything produced before, I3 Arts Fest
   will become a cultural destination and global influence in the arts community.
-project_image_2: 5119808783741-team88.png
-empty_column_1: ''
 organization_name: I3 Arts Fest
 organization_website: www.i3artsfest.com
-organization_name_2: I3 Arts Fest
-organization_activity: >-
-  I3 Arts Fest is a definitive demonstration of how community is built through
-  interactions with arts and culture and how this in turn creates the foundation
-  for a thriving and dynamic city.
-ein: ''
 
 ---

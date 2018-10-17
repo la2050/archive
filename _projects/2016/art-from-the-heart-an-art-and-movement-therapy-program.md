@@ -125,15 +125,7 @@ project_proposal_best_place: >-
   hope that our project will serve as a model to other medical centers. It is in
   our vision to support future research that will advance Heart Failure
   knowledge and care.
-project_image_2: 1734618955741-team91.png
-empty_column_1: ''
 organization_name: Relational Medicine Foundation
 organization_website: relationalmedicinefoundation.org
-organization_name_2: Relational Medicine Foundation
-organization_activity: >-
-  The Foundation empowers patients and improves the humanism of patient care
-  through its dedication to the “relationally present” person-to-person
-  encounter between patient and healthcare professionals
-ein: '452683013'
 
 ---

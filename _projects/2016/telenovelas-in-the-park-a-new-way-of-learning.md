@@ -118,15 +118,7 @@ project_proposal_best_place: >-
 
 
   •Create in the public civic engagement in individual and collective action.
-project_image_2: 4156269625741-team90.jpg
-empty_column_1: ''
 organization_name: Mujeres de la Tierra
 organization_website: www.mujeresdelatierra.org
-organization_name_2: Mujeres de la Tierra
-organization_activity: >-
-  Mujeres de la Tierra is an environmental equity, non-profit focused on healing
-  La Madre Tierra that empowers women and their children to take ownership and
-  act on issues affecting their neighborhoods.
-ein: '205270350'
 
 ---

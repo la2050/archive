@@ -137,14 +137,7 @@ project_proposal_best_place: >-
   The initial pilot project for this proposal (shown in part in the demo video)
   has already been developed and will be presented on October 19th, 2016 as part
   of the EARTH NOW: EARTH 2050 UCLA Luskin Symposium - http://arcg.is/2d7rm5K
-project_image_2: 7070315265741-team91.png
-empty_column_1: ''
 organization_name: The NOW Institute/UCLA
 organization_website: www.thenowinstitute.org
-organization_name_2: The NOW Institute/UCLA
-organization_activity: >-
-  The Now Institute is an urban research center at UCLA Architecture and Urban
-  Design that applies strategic urban thinking to real world issues.
-ein: ''
 
 ---

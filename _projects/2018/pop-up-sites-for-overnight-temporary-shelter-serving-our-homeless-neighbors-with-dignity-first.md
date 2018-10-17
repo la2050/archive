@@ -156,8 +156,6 @@ Where do you hope this activation or your organization will be in five years?: >
   consistent shelter is provided, and that it takes localized situating of that
   shelter in order to engage local homeless individuals who have an attachment
   to place.
-project_id_2: '8102013'
-project_id_3: '8102013'
 organization_name: Cardborigami Inc
 
 ---

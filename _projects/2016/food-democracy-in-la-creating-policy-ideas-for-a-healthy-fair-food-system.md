@@ -139,15 +139,7 @@ project_proposal_best_place: >-
   Using these three strategies- and your help- we will generate a new Good Food
   For All Agenda, which will offer concrete action steps to create a healthy and
   fair food system that makes LA the best place to LIVE.
-project_image_2: 6804863875741-team90.jpg
-empty_column_1: ''
 organization_name: Los Angeles Food Policy Council
 organization_website: www.goodfoodla.org
-organization_name_2: Los Angeles Food Policy Council
-organization_activity: >-
-  The Los Angeles Food Policy Council is a collective impact initiative working
-  to build a Good Food system for all Los Angeles residents — where food is
-  healthy, affordable, fair and sustainable.
-ein: '954302067'
 
 ---

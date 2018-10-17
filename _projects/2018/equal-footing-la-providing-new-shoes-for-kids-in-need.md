@@ -109,8 +109,6 @@ Where do you hope this activation or your organization will be in five years?: >
   Last year we were able to provide over 21,500 shoes, socks and other
   necessities for 15,000 children in Los Angeles County. Last year, we adopted a
   strategic plan to double our yearly impact over the next five years. 
-project_id_2: '8102108'
-project_id_3: '8102108'
 organization_name: Shoes That Fit
 
 ---

@@ -126,15 +126,7 @@ project_proposal_best_place: >-
   agenda. It will be used to urge the LA County Board of Supervisors, school
   districts, and other LA policymakers to take action on the agenda and make
   real change to make LA the Best Place to Live for kids.
-project_image_2: 9146110265741-team88.jpg
-empty_column_1: ''
 organization_name: Children Now
 organization_website: www.childrennow.org
-organization_name_2: Children Now
-organization_activity: >-
-  Children Now is LA County’s “whole child” non-partisan research, policy,
-  advocacy and network building organization dedicated to improving children’s
-  health, early development, education, and welfare.
-ein: '943059243'
 
 ---

@@ -133,15 +133,7 @@ project_proposal_best_place: >-
   teaches children nutrition and cooking skills and knowledge through recipes
   and interactive games. We will provide Common Bytes demo lessons in these
   teachers’ classrooms as well as ongoing technical assistance.
-project_image_2: 9369505955741-team90.jpeg
-empty_column_1: ''
 organization_name: Common Threads
 organization_website: www.commonthreads.org
-organization_name_2: Common Threads
-organization_activity: >-
-  Common Threads delivers in- and out-of-school, hands-on cooking and nutrition
-  education programs to preK-8th graders, their families, and their teachers
-  primarily in underserved communities.
-ein: '200106847'
 
 ---

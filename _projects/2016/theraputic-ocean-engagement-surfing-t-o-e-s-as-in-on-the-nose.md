@@ -138,15 +138,7 @@ project_proposal_best_place: >-
   environments. Our ocean safety education is empowering. We teach youth how
   they can make a difference by becoming ocean stewards, starting in their own
   communities, and thereby protecting the Santa Monica Bay for all to enjoy.
-project_image_2: 8758171455741-team90.jpg
-empty_column_1: ''
 organization_name: Surf Bus Foundation
 organization_website: www.surfbusfoundation.org
-organization_name_2: Surf Bus Foundation
-organization_activity: >-
-  The Surf Bus Foundation empowers people to have a healing connection to the
-  sea by engaging in ocean sports like surfing, swimming, and beach games, while
-  exploring the wondrous beauty of the sea.
-ein: '463169840'
 
 ---

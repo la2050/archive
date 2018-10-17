@@ -118,14 +118,7 @@ project_proposal_best_place: >-
   Valley, giving the diverse residents, businesses and visitors an opportunity
   to proudly celebrate a unique past, in the present, while building the
   community of their future.
-project_image_2: 7295760875741-team91.jpeg
-empty_column_1: ''
 organization_name: Valley Relics
 organization_website: litresedablvd.wordpress.com
-organization_name_2: Valley Relics
-organization_activity: >-
-  Valley Relics is a non profit 501(c)3 organization working to preserve and
-  protect the history, culture and artifacts of the San Fernando Valley
-ein: ''
 
 ---

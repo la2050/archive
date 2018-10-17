@@ -124,8 +124,6 @@ Where do you hope this activation or your organization will be in five years?: >
   existing processes within anchor organizations and community stakeholders that
   are already doing work with low-income populations. By empowering the
   organizations to take up this work, we will no longer be needed.
-project_id_2: '8102030'
-project_id_3: '8102030'
 organization_name: 'Connect to Compete, Inc (EveryoneOn)'
 
 ---

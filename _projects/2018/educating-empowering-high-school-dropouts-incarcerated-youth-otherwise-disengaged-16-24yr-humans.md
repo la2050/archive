@@ -167,8 +167,6 @@ Please explain how you will define and measure success for your activation.: >-
   services such as a clinic, fitness facilities, a communal kitchen, a garden,
   and an event center.
 Where do you hope this activation or your organization will be in five years?: "We hope this activation will help us serve an HSRA student body of 400 in 5 years and we hope to extend the MAPPS program into all high schools as part of their curriculum.  \r\n\r\nWe believe the impact of our program is much greater than the individual students. We hope to affect all humans in one way or another.  We believe we are creating a healthier environment and planet."
-project_id_2: '8102082'
-project_id_3: '8102082'
 organization_name: Mentoring Adolescents for Personal & Professional Success
 
 ---

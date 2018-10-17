@@ -128,8 +128,6 @@ Where do you hope this activation or your organization will be in five years?: >
   experience. Moreover, facilitating KidBot at more sites enables students to
   compete against their LA’s BEST peers during regional competitions in addition
   to non-affiliated schools.
-project_id_2: '8102065'
-project_id_3: '8102065'
 organization_name: LA's BEST
 
 ---

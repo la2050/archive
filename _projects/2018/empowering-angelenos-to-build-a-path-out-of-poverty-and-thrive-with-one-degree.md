@@ -174,8 +174,6 @@ Where do you hope this activation or your organization will be in five years?: >
   impact on over a million people in L.A. County. We also believe Los Angeles
   County can serve as a model for expanding One Degree across the country and
   impact millions of low-income people. 
-project_id_2: '8102092'
-project_id_3: '8102092'
 organization_name: One Degree
 
 ---

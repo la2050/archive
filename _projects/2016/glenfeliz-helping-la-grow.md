@@ -124,14 +124,7 @@ project_proposal_best_place: >-
   more cooking classes for both our students and parents through Common Threads,
   as well as providing us opportunities to share our gardening and culinary
   expertise through more nutrition-oriented community programs.
-project_image_2: 9449291893741-team90.jpg
-empty_column_1: ''
 organization_name: Friends of Glenfeliz
 organization_website: www.friendsofglenfeliz.org
-organization_name_2: Friends of Glenfeliz
-organization_activity: >-
-  We are a 501(c)3 nonprofit parent booster club committed to helping Glenfeliz
-  students thrive and grow, both in Elementary school, and beyond.
-ein: ''
 
 ---

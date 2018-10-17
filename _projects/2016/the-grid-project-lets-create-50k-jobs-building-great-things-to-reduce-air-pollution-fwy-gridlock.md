@@ -104,15 +104,7 @@ project_proposal_best_place: >-
   support from environmental, social justice groups and labor unions, and
   business interests primarily from the construction and renewable energy
   sector.
-project_image_2: 8110702055741-team91.png
-empty_column_1: ''
 organization_name: GRID Logistics
 organization_website: www.gridinc.biz
-organization_name_2: GRID Logistics
-organization_activity: >-
-  GRID Logistics are proposers of a design build maintain and operate
-  transportation infrastructure for containerized goods movement. GRID markets
-  are the world's leading container trading gateways.
-ein: '454109556'
 
 ---

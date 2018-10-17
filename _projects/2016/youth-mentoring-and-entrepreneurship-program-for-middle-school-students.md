@@ -106,15 +106,7 @@ project_proposal_best_place: >-
   actions aimed at achieving those goals. WeThrive is ultimately making LA the
   best place to learn by serving middle school students in Los Angeles who build
   companies within WeThrive while gaining mentors and a support system.
-project_image_2: 2610135955741-team91.JPG
-empty_column_1: ''
 organization_name: WeThrive
 organization_website: teamwethrive.org
-organization_name_2: WeThrive
-organization_activity: >-
-  WeThrive is a youth mentoring program that uses business creation to teach
-  life skills, habit adoption and foster bonds with mentors and peers to
-  ultimately produce social mobility.
-ein: ''
 
 ---

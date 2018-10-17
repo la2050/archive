@@ -155,15 +155,7 @@ project_proposal_best_place: >-
   the end of each of our sessions. Complementing our arts learning programs, our
   Rosenthal Theater holds innovative and diverse performances, engagements which
   nurture and illuminate the creative spirit of the whole community.
-project_image_2: 2052596015741-team91.jpg
-empty_column_1: ''
 organization_name: Inner-City Arts
 organization_website: www.inner-cityarts.org
-organization_name_2: Inner-City Arts
-organization_activity: >-
-  Inner-City Arts—a leading provider of quality arts education for underserved
-  children—is a creative oasis and a vital partner in enriching the social,
-  cultural and economic landscape of Los Angeles.
-ein: ''
 
 ---

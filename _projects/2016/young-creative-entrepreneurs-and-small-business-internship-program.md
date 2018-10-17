@@ -121,15 +121,7 @@ project_proposal_best_place: >-
   respect - full of untapped potential. The HeArt of LA will help unleash this
   potential by connecting youth to resources and programs will create long-term
   Angeleno entrepreneurs in our great city.
-project_image_2: 4102217015741-team90.jpg
-empty_column_1: ''
 organization_name: ICON CDC
 organization_website: iconcdc.org
-organization_name_2: ICON CDC
-organization_activity: >-
-  ICON is a Community Development Corporation who hosts the L.A. BusinessSource
-  Center, a no cost business assistance program to help start and grow
-  entrepreneurs and small businesses in Los Angeles.
-ein: ''
 
 ---

@@ -98,15 +98,7 @@ project_proposal_best_place: >-
   at-risk, disadvantaged and foster youth with hands-on vocational skills
   training, mentorship, and development activities that can prevent anti-social
   behaviors, break the cycle of poverty, and promote a successful future.
-project_image_2: 3013757055741-team88.JPG
-empty_column_1: ''
 organization_name: Lost Angels Children's Project
 organization_website: www.lostangelscp.org
-organization_name_2: Lost Angels Children's Project
-organization_activity: >-
-  Lost Angels Children's Project LACP provides low-income and at-risk youth with
-  a safe, educational after-school mentorship program that promotes critical
-  thinking and teaches vocational skills.
-ein: ''
 
 ---

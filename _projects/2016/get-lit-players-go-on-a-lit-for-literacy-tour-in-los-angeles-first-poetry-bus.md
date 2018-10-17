@@ -148,15 +148,7 @@ project_proposal_best_place: >-
   reach many more people. By connecting Los Angeles youth from different areas
   and amplifying their voices to adults and policy makers, we can create a more
   engaged populace that betters the lives of all Angelinos to come.
-project_image_2: 6403175774741-team90.jpg
-empty_column_1: ''
 organization_name: Get Lit-Words Ignite
 organization_website: www.getlit.org
-organization_name_2: Get Lit-Words Ignite
-organization_activity: >-
-  Get Lit – Words Ignite fuses classic and spoken word poetry to increase teen
-  literacy and cultivate enthusiastic learners emboldened to inspire social
-  consciousness in diverse communities.
-ein: '264644018'
 
 ---

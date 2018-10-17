@@ -158,8 +158,6 @@ Where do you hope this activation or your organization will be in five years?: >
   sustained pipeline of skilled, qualified, diverse job applicants for companies
   of all sizes in these industries, and 3) these industries will continue to
   flourish and make LA the best place to CREATE.
-project_id_2: '8102104'
-project_id_3: '8102104'
 organization_name: Roadtrip Nation
 
 ---

@@ -128,15 +128,7 @@ project_proposal_best_place: >-
 
   In 2050, LA is known as the tipping point of dynamic mindful learning and
   instruction across the global education community!
-project_image_2: 5938228555741-team91.png
-empty_column_1: ''
 organization_name: Pedagogics Coaching Group
 organization_website: pedagogicscg.com
-organization_name_2: Pedagogics Coaching Group
-organization_activity: >-
-  An instructional coaching service for educators in the Greater LA area
-  providing support to those striving to create a successful school culture and
-  desiring to grow in instructional effectiveness.
-ein: ''
 
 ---

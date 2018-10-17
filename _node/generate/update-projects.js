@@ -215,9 +215,25 @@ const attributes = [
  'organization_website',
  'organization_name_2',
  'organization_activity',
- 'ein',
+ 'ein'
 ]
 
+
+const attributesToRemove = [
+ 'project_id_2',
+ 'project_id_3',
+ 'project_image_2',
+ 'empty_column_1',
+ //'youtube_video_identifier',
+ 'maker_answers_list',
+ //'maker_image_id',
+ //'maker_image_file_name',
+ //'organization_name',
+ //'organization_website',
+ 'organization_name_2',
+ 'organization_activity',
+ 'ein'
+]
 
 
 
@@ -229,6 +245,15 @@ function saveMarkdown(filename, data) {
   // console.log(filename)
 
   // console.dir(data)
+
+  attributesToRemove.forEach(name => {
+    delete data.yaml[name]
+  })
+
+  if (data.yaml.maker_answers) {
+    delete data.yaml.maker_answers.Email
+    delete data.yaml.maker_answers.PhoneNumber
+  }
 
   let options = {}
 

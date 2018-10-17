@@ -162,8 +162,6 @@ Where do you hope this activation or your organization will be in five years?: >
   hope that the intersectional approach we implement becomes an example for
   others on how to revitalize neighborhoods and build community resilience in
   partnership with the community.
-project_id_2: '8102085'
-project_id_3: '8102085'
 organization_name: 'Multicultural Communities for Mobility, a project of Community Partners'
 
 ---

@@ -141,15 +141,7 @@ project_proposal_best_place: >-
   to do. You have no idea how much you will be helping our young patients who
   have been injured in accidents and need smiles. Your thoughtfulness is beyond
   measure.'
-project_image_2: 2726365725741-team91.jpg
-empty_column_1: ''
 organization_name: The Jester & Pharley Phund
 organization_website: www.thejester.org
-organization_name_2: The Jester & Pharley Phund
-organization_activity: >-
-  We donate inspiring “Jester Has Lost His Jingle” books & dolls to ill children
-  & help low-income students become engaged  in charitable activities through
-  read-a-thons that spark a love of reading.
-ein: ''
 
 ---

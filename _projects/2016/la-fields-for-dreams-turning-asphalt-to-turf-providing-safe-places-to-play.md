@@ -121,15 +121,7 @@ project_proposal_best_place: >-
   2 Leyden, K. Social capital and the built environment: The importance of
   walkable neighborhoods. American Journal of Public Health. 2003; 93 (9),
   1546-1551.
-project_image_2: 1149750813741-team90.png
-empty_column_1: ''
 organization_name: America Scores LA
 organization_website: www.americascoresla.org
-organization_name_2: America Scores LA
-organization_activity: >-
-  ASLA partners with urban schools to provide a unique team-based program that
-  integrates soccer, poetry, and service-learning, improving students’ health,
-  academic achievement and civic engagement.
-ein: ''
 
 ---

@@ -119,15 +119,7 @@ project_proposal_best_place: >-
   Through these programs and others, Clockshop is building a community of
   stakeholders who will ensure that the Bowtie remains in the public trust, as a
   place for all Angelenos to play now and in the future.
-project_image_2: 8056322165741-team91.jpg
-empty_column_1: ''
 organization_name: Clockshop & California State Parks
 organization_website: clockshop.org
-organization_name_2: Clockshop & California State Parks
-organization_activity: >-
-  Clockshop creates new conversations about cultural production, politics, and
-  urban space by commissioning work by artists and writers and partnering with
-  diverse institutions.
-ein: ''
 
 ---

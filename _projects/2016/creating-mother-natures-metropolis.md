@@ -119,15 +119,7 @@ project_proposal_best_place: >-
   model and promote healthier habitats in LA that are livable for plants,
   wildlife, and Angelenos--ultimately transforming our region into a metropolis
   that works in harmony with Mother Nature.
-project_image_2: 0680094165741-team91.jpg
-empty_column_1: ''
 organization_name: Grown in LA
 organization_website: www.growninla.org
-organization_name_2: Grown in LA
-organization_activity: >-
-  Grown in LA is a nonprofit project of Community Partners that is converting
-  underutilized land into a network of nurseries that produce plants and provide
-  educational opportunities to Angelenos.
-ein: ''
 
 ---

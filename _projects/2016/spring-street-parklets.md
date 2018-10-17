@@ -110,15 +110,7 @@ project_proposal_best_place: >-
   Jose Huizar’s Spring Street Redesign that will significantly improve traffic
   flow, relocate public transit stops, create protected bike lanes, and make
   DTLA overall more pedestrian, bike, and transit friendly.
-project_image_2: 3396502194741-team91.jpg
-empty_column_1: ''
 organization_name: Historic Core BID
 organization_website: historiccore.bid
-organization_name_2: Historic Core BID
-organization_activity: >-
-  The Historic Core BID is a 501(c)(6) non-profit dedicated to improving quality
-  of life in the Historic Core of DTLA through clean, safe, and enterprise
-  programs.
-ein: ''
 
 ---

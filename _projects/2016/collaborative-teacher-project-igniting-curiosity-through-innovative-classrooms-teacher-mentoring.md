@@ -117,15 +117,7 @@ project_proposal_best_place: >-
   level of quality it takes to really make a difference! With the help of 2050,
   LA can lead the way in ensuring that young children are curious, engaged
   learners.
-project_image_2: 1467124065741-team91.jpg
-empty_column_1: ''
 organization_name: The Pedagogical Institute of Los Angeles
 organization_website: www.thinkwithus.org
-organization_name_2: The Pedagogical Institute of Los Angeles
-organization_activity: >-
-  The Pedagogical Institute promotes the exchange of ideas, research and
-  inspiration amongst early childhood educators throughout the world with the
-  goal of providing quality education to ALL children.
-ein: ''
 
 ---

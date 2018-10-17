@@ -142,15 +142,7 @@ project_proposal_best_place: >-
   students. Students will participate in a video exit interview about their
   brand, the impact of the course and the application of the course  to their
   future endeavors.
-project_image_2: 3733217165741-team91.jpg
-empty_column_1: ''
 organization_name: Continuous Good
 organization_website: brandingwhilebroke.com
-organization_name_2: Continuous Good
-organization_activity: >-
-  Continuous Good supports, shares, and builds social impact brands. Our
-  flagship brand is a platform designed to equip, inspire and educate
-  entrepreneurs called Branding While Broke.
-ein: ''
 
 ---

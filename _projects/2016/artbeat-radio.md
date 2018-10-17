@@ -111,15 +111,7 @@ project_proposal_best_place: >-
   and other targeted Los Angeles neighborhoods.  Through social media and
   leveraging partnerships with ACLB and the LACAC, a communications plan will
   include the sharing of strategic information to build  engagement.
-project_image_2: 0178457155741-team91.jpg
-empty_column_1: ''
 organization_name: Able Arts Work
 organization_website: www.ableartswork.org
-organization_name_2: Able Arts Work
-organization_activity: >-
-  The  mission of Able ARTS Work aka Arts & Services for Disabled is to provide
-  life long learning, community services, and vocational opportunities through
-  the creative arts for people with inte
-ein: ''
 
 ---

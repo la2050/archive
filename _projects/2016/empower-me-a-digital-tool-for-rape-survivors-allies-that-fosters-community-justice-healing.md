@@ -125,15 +125,7 @@ project_proposal_best_place: >-
   and emotional trauma from sexual assault, while providing outlets for support
   as it will be linked to Take Back the Night for free online counselling, legal
   advice and advocacy alternatives.
-project_image_2: 6138888165741-team90.png
-empty_column_1: ''
 organization_name: Light Sprout
 organization_website: In progress
-organization_name_2: Light Sprout
-organization_activity: >-
-  Light Sprout’s goal is to challenge rape culture in America through original
-  media content and the building of community while helping survivors heal and
-  restore themselves to wholeness.
-ein: ''
 
 ---

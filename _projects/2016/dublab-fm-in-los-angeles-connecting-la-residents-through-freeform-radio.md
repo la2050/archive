@@ -124,14 +124,7 @@ project_proposal_best_place: >-
   in Los Angeles. DUBLAB also serves as a creative incubator for musicians in
   Los Angeles to develop their sonic experimentations in both live performance
   settings and studio­ based radio broadcasts.
-project_image_2: 6890837355741-team91.jpg
-empty_column_1: ''
 organization_name: Future Roots Inc.
 organization_website: dublab.com
-organization_name_2: Future Roots Inc.
-organization_activity: >-
-  dublab is a non-profit, online radio station dedicated to the growth of music,
-  arts and culture.
-ein: ''
 
 ---

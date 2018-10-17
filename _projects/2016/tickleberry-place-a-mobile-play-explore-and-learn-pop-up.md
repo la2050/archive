@@ -133,15 +133,7 @@ project_proposal_best_place: >-
   environment that offers much more than just supervised free play. Our monthly
   mobile pop-up play events will be the perfect vehicle to establish our
   community roots and to help spread the seeds for continued growth.
-project_image_2: 7538982455741-team90.png
-empty_column_1: ''
 organization_name: Tickleberry Place
 organization_website: tickleberryplace.com
-organization_name_2: Tickleberry Place
-organization_activity: >-
-  Tickleberry Place is a mobile, PLAY, EXPLORE and LEARN pop-up for children in
-  South Los Angeles, where kids can have fun while learning about
-  sustainability, healthy habits and eco-conscious living.
-ein: '465040951'
 
 ---

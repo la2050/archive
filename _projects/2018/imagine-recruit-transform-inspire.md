@@ -148,8 +148,6 @@ Where do you hope this activation or your organization will be in five years?: >
   five years we hope to be deploying even more AmeriCorps members, who will help
   us serve in more of Los Angeles’ schools, and we hope to continue engaging
   even more partners and volunteers in our Civic Engagement work.
-project_id_2: '8102027'
-project_id_3: '8102027'
 organization_name: City Year Los Angeles
 
 ---

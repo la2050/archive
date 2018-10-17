@@ -113,14 +113,7 @@ project_proposal_best_place: >-
   by providing pertinent information, at their fingertips in real time, on the
   sustainability of businesses, places and spaces along with transportation
   options in and around LA.
-project_image_2: 6901550005741-team91.png
-empty_column_1: ''
 organization_name: US Green Building Council-LA
 organization_website: usgbc-la.org
-organization_name_2: US Green Building Council-LA
-organization_activity: >-
-  Promote sustainability in the built environment by providing access to
-  resources, knowledge, recognition, and networking opportunities.
-ein: ''
 
 ---

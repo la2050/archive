@@ -134,15 +134,7 @@ project_proposal_best_place: >-
   are educated, but also in the way they think about themselves, their futures
   and their roles in society. We have been innovators on ways to improve the
   lives of our community. Please help us reach more students across Los Angeles.
-project_image_2: 1670488055741-team91.png
-empty_column_1: ''
 organization_name: The Help Group's STEM3 Academy
 organization_website: www.STEM3Academy.org
-organization_name_2: The Help Group's STEM3 Academy
-organization_activity: >-
-  The Help Group is the largest nonprofit of its kind in the US dedicated to
-  helping people with special needs related to autism, ADHD, and other social &
-  emotional challenges fulfill their potential.
-ein: ''
 
 ---

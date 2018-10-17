@@ -145,15 +145,7 @@ project_proposal_best_place: >-
   develop a more inclusive and creative local economy that unites the
   non-profit, private, & public sectors through intentional collaboration & help
   make LA the best place to CREATE.
-project_image_2: 4852245265741-team91.png
-empty_column_1: ''
 organization_name: ProduceAthon
 organization_website: www.produceAthon.org
-organization_name_2: ProduceAthon
-organization_activity: >-
-  We create sustainable civic innovation hubs through civic incentive challenges
-  that nurture local talent, foster innovation, enhance government efficiencies,
-  & stimulate economic development
-ein: '300945310'
 
 ---

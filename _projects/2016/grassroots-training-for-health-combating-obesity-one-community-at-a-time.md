@@ -94,15 +94,7 @@ project_proposal_best_place: >-
   The Grassroots Training for Health has identified the Community, in the
   initial phase as “Churches.” A “church” provides the structure and the
   Community in which this project will benefit the most.
-project_image_2: 6818331265741-team90.jpg
-empty_column_1: ''
 organization_name: Grassroots Training for Health
 organization_website: www.academyofstrengthandsport.com
-organization_name_2: Grassroots Training for Health
-organization_activity: >-
-  Grassroots Training for Health is a non-profit organization that collaborates
-  with community fitness experts and city leaders to establish an affordable
-  exercise programs under-served Communities.
-ein: ''
 
 ---

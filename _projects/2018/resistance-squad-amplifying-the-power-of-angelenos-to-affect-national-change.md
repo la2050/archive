@@ -163,8 +163,6 @@ Where do you hope this activation or your organization will be in five years?: >
   cycle of activism will engage ever growing numbers of new volunteers, sustain
   our current ones, and develop a new generation of leaders that will keep the
   entire system activated.  
-project_id_2: '8102075'
-project_id_3: '8102075'
 organization_name: Los Angeles LGBT Center
 
 ---

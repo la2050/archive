@@ -130,8 +130,6 @@ Where do you hope this activation or your organization will be in five years?: >
   Conservancy Program (ECP) and Family Adventures at multiple locations
   throughout the city of Los Angeles to offer all residents an opportunity to
   engage with nature in a meaningful and hands-on way: the EverWild Way.
-project_id_2: '8102038'
-project_id_3: '8102038'
 organization_name: EverWild
 
 ---

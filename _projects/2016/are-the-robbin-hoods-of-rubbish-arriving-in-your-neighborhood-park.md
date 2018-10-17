@@ -80,15 +80,7 @@ project_proposal_best_place: >-
   on school-yards exclusively, it will simply be the way we identify the
   communities on our calendar. We will have Saturday and Sunday pop-up Makers
   Spaces in some of the most unlikely spots around town!
-project_image_2: 4439940265741-team91.jpg
-empty_column_1: ''
 organization_name: T4T.org
 organization_website: T4T.org
-organization_name_2: T4T.org
-organization_activity: >-
-  T4T.org inspires the next generation of Scientists, Technology experts,
-  Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste
-  and in doing this we nurture environmental stewar
-ein: '562464067'
 
 ---

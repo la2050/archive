@@ -135,15 +135,7 @@ project_proposal_best_place: >-
   reflective play that parks encourage: running, jumping, climbing, all the way
   to observing, imagining and discovering. It is the best of both worlds,
   brought together through a compelling story and social connections.
-project_image_2: 1328398065741-team91.jpg
-empty_column_1: ''
 organization_name: USC Annenberg Innovation Lab
 organization_website: annenberglab.com
-organization_name_2: USC Annenberg Innovation Lab
-organization_activity: >-
-  Annenberg Innovation Lab at University of Southern California is a research
-  and development hub fostering real-world innovation at the dynamic
-  intersection of media and culture.
-ein: ''
 
 ---

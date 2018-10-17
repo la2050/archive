@@ -134,8 +134,6 @@ Please explain how you will define and measure success for your activation.: "We
 Where do you hope this activation or your organization will be in five years?: >-
   In 5 years, Proyecto Jardin will operate school gardens and compost in 10
   public schools and provide ongoing technical assistance and support. 
-project_id_2: '8102099'
-project_id_3: '8102099'
 organization_name: 'Proyecto Jardin: A Project of Hunger Action LA'
 
 ---

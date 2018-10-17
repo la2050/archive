@@ -143,8 +143,6 @@ Where do you hope this activation or your organization will be in five years?: >
   engaged a multitude of different service groups in Los Angeles County who will
   play a vital role in helping the homeless as they transition into permanent
   housing.
-project_id_2: '8102126'
-project_id_3: '8102126'
 organization_name: Topanga Women's Circle
 
 ---

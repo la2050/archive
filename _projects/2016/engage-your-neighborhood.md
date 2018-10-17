@@ -140,15 +140,7 @@ project_proposal_best_place: >-
   What’s your vision for your neighborhood in 2050?
 
   In 2050 what's your vision for how you connect?
-project_image_2: 8286144555741-team88.png
-empty_column_1: ''
 organization_name: 'Synaccord, LLC'
 organization_website: www.synaccord.com
-organization_name_2: 'Synaccord, LLC'
-organization_activity: >-
-  Synaccord is building a platform for productive online discussion of 
-  polarizing issues. We do online what is done at in-person deliberative events
-  so we can find the solutions to what divides us.
-ein: '47448496'
 
 ---

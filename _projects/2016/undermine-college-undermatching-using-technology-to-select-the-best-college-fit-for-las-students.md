@@ -136,14 +136,7 @@ project_proposal_best_place: >-
   rates. This will ensure lifetime financial stability among LA’s youth, making
   LA not only the best place to LEARN, but the best place to PLAY, CREATE,
   CONNECT, and LIVE – all feasible thanks to the foundation of LEARNING.
-project_image_2: 8915786065741-team91.jpg
-empty_column_1: ''
 organization_name: Youth Policy Institute
 organization_website: www.ypiusa.org
-organization_name_2: Youth Policy Institute
-organization_activity: >-
-  YPI ends intergenerational poverty by providing access to high-quality
-  cradle-to-college-and-career services for the whole family.
-ein: '521278339'
 
 ---

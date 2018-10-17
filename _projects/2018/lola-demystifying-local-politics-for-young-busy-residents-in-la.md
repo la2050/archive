@@ -96,8 +96,6 @@ Where do you hope this activation or your organization will be in five years?: >
   By 2023, we hope LOLA will be the go-to digital platform where LA residents,
   organizations, and businesses learn about local issues, discuss new ideas, and
   collaborate on community projects.  
-project_id_2: '8102069'
-project_id_3: '8102069'
 organization_name: LOLA
 
 ---

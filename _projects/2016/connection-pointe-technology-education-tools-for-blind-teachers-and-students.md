@@ -56,14 +56,7 @@ project_proposal_best_place: >-
   their client load, provide more effective instruction and move their students
   through the curriculum more effectively – providing more students with this
   free, one-on-one service.
-project_image_2: 4196312265741-team91.jpg
-empty_column_1: ''
 organization_name: Braille Institute of America
 organization_website: www.brailleinstitute.org
-organization_name_2: Braille Institute of America
-organization_activity: >-
-  Braille Institute is a nonprofit organization whose mission is to eliminate
-  barriers to a fulfilling life caused by blindness and severe sight loss.
-ein: ''
 
 ---

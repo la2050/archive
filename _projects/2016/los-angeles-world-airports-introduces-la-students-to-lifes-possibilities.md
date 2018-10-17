@@ -72,14 +72,7 @@ project_proposal_best_place: >-
   environment, the staff provides an insight into how a degree can open several
   doors and career pathways that students may not have known existed prior to
   the internship.
-project_image_2: 0987534165741-team90.png
-empty_column_1: ''
 organization_name: Los Angeles World Airports
 organization_website: www.lawa.org
-organization_name_2: Los Angeles World Airports
-organization_activity: >-
-  Los Angeles World Airports Internship Program provides students opportunities
-  to develop the skills to work in the aviation industry.
-ein: ''
 
 ---

@@ -89,14 +89,7 @@ project_proposal_best_place: >-
   etc.). More than 100 students will also be placed in paid internships with
   local businesses in high growth industries such as digital media,
   entertainment, technology, health care, and design.
-project_image_2: 4454572955741-team91.png
-empty_column_1: ''
 organization_name: LA Promise Fund
 organization_website: lapromisefund.org
-organization_name_2: LA Promise Fund
-organization_activity: >-
-  The LA Promise Fund is a nonprofit organization dedicated to preparing Los
-  Angeles students for success in college, career, and life.
-ein: ''
 
 ---

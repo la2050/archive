@@ -106,15 +106,7 @@ project_proposal_best_place: >-
   innovative, first-of-its-kind network. These three activities will directly
   address the LA2050 live metric of disrupting adverse childhood events and have
   wide impact on child and family well-being across LA County.
-project_image_2: 0439357476741-team91.png
-empty_column_1: ''
 organization_name: 'HyphenUs, Inc.'
 organization_website: www.coparenter.com
-organization_name_2: 'HyphenUs, Inc.'
-organization_activity: >-
-  We are building a coParenting movement to educate, inform and empower parents
-  with online dispute resolution to take a child-centric approach to separation,
-  divorce and coParenting.
-ein: ''
 
 ---
