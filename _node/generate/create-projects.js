@@ -77,7 +77,7 @@ function stringToURI(str) {
 function getStringForComparison(string) {
   string = fixDataCharactersInString(string)
   string = string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
-  string = (stringToURI(string).replace(/\-/, ""))
+  string = (stringToURI(string).replace(/\-/g, ""))
   // if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
   //   console.log("BEFORE")
   //   console.log(string)
@@ -150,12 +150,13 @@ function subCompare (needle, haystack, min_substring_length) {
 
 
 
-function getMakerProjectByName(projectName) {
+function getMakerProjectByName(projectName, year) {
   let match
   makerProjects.forEach(project => {
     if (match) return;
 
-    if (getStringForComparison(project.name) == getStringForComparison(projectName)) {
+    if (getStringForComparison(project.name) == getStringForComparison(projectName) &&
+      project.created_at.indexOf(year) >= 0) {
       // console.log("************ found a match!")
       match = project
     }
@@ -658,7 +659,8 @@ function createMarkdownFile(data) {
              data.year_submitted == 2013) {
 
 
-    let makerProject = getMakerProjectByName(data.title)
+    let makerProject = getMakerProjectByName(data.title, data.year_submitted)
+
     if (makerProject) {
       createMakerProjectAnswerLookup()
       if (makerProject.id && makerProjectAnswersLookup[makerProject.id]) {
@@ -789,6 +791,8 @@ function createMarkdownFile(data) {
   // }
 
   // console.dir(data)
+
+  data.published = true
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
