@@ -1,6 +1,7 @@
 ---
 organization_id: '2015051'
-project_image: 'https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40584177_2185185251523453_1250257884579627008_n.jpg?_nc_cat=108&oh=c2596494a9f2d5aeaaa73335e641dfbe&oe=5C5690A7'
+project_image: >-
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40584177_2185185251523453_1250257884579627008_n.jpg?_nc_cat=108&oh=c2596494a9f2d5aeaaa73335e641dfbe&oe=5C5690A7
 project_id: '3102109'
 title: 'MADE by DWC: Education and Job Readiness for Homeless Women'
 indicator: ' Income & Employment'
