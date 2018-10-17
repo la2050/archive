@@ -25,6 +25,7 @@ project_image: 'https://img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '5102262'
+  - '4102186'
 project_titles:
   - Preschool Without Walls
 aggregated:
@@ -36,7 +37,6 @@ aggregated:
     - '2014'
   project_ids:
     - '5102262'
-    - '4102209'
 youtube_video_identifier: Hey6DKTLdw8
 
 ---
