@@ -58,11 +58,6 @@ stylesheets:
   color: inherit;
 }
 .tags .action {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-content: center;
-  align-items: center;
   max-width: none;
   padding-left: 0;
   /*margin: -1.35em;*/
@@ -70,6 +65,15 @@ stylesheets:
   margin-right: -1.35em;*/
   margin-left: -1.5rem;
   margin-right: -1.5rem;
+}
+@media (min-width: 30em) {
+  .tags .action {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+  }
 }
 .tags .action img {
   width: 1.9285714286em; /* 1.5 (line height) x 1.125 (arbitrarly picked number) / 0.875 (font size) */
