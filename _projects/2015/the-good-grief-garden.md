@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ', 275354929'
 project_summary: "We envision a pilot community garden whose central purpose is to do what food has done for millennia: To satisfy not just empty stomachs and our need for physical health, but our social and emotional needs and our hunger for community. \r\n\r\nThe garden will serve as a center of healing for those navigating grief, where individuals of all ages can get their hands dirty with others walking the same paths, discovering over shared meals and shared experience that they are not alone. \r\n"
 Please specify below: ''
-category: 0createplaylive
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The same places where we see food instability are the same places where we see
   disproportionate loss. Fifty percent of inner-city kids will experience the
@@ -234,6 +234,25 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The garden will serve as a demonstration site, with accompanying tools and materials to help those interested in creating their own “grief gardens,” and to highlight the relationship between food rituals and healing. Through a combination of articles, videos, and earned media, we wish to fuel a broader conversation about the impact of trauma, loss, and collective and historical grief on our schools, workplaces, and neighborhoods, and to create a cultural intervention that prioritizes moving forward rather than moving on. \r\n\r\nOur goal is to fertilize a broader movement aimed at shifting the dialogue from “getting back to normal” to how we, both individually and collectively, can use loss as a springboard to living better, more resilient, more open-hearted lives."
+  Where will you be working?:
+    - East LA
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -646,7 +665,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The garden will serve as a demonstration site, with accompanying tools and materials to help those interested in creating their own “grief gardens,” and to highlight the relationship between food rituals and healing. Through a combination of articles, videos, and earned media, we wish to fuel a broader conversation about the impact of trauma, loss, and collective and historical grief on our schools, workplaces, and neighborhoods, and to create a cultural intervention that prioritizes moving forward rather than moving on. \r\n\r\nOur goal is to fertilize a broader movement aimed at shifting the dialogue from “getting back to normal” to how we, both individually and collectively, can use loss as a springboard to living better, more resilient, more open-hearted lives."
-body_class: strawberry
+body_class: lime
 organization_name: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating '
 published: true
 

@@ -17,7 +17,7 @@ Please specify below: >-
   Mount Washington, Solano Canyon, Elysian Park, Echo Park, Westlake, Angelino
   Heights, Lafayette Park, Chinatown, Lincoln Heights, Montecito Heights, and
   Pico Union)
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   In South LA, 1 in 3 children is obese. Tackling obesity at a young age can
   decrease population prevalence of obesity-related diseases, such as diabetes
@@ -270,6 +270,29 @@ maker_answers:
     diseases. CB aims to implement lessons learned, through evaluation and
     knowledge sharing among corner store and partners, and secure additional
     funding for successful scaling.
+  Where will you be working?:
+    - South LA
+    - >-
+      District One of Los Angeles City (Glassell Park, Cypress Park, Highland
+      Park, Mount Washington, Solano Canyon, Elysian Park, Echo Park, Westlake,
+      Angelino Heights, Lafayette Park, Chinatown, Lincoln Heights, Montecito
+      Heights, and Pico Union)
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -742,7 +765,7 @@ maker_answers_list:
       obesity-related diseases. CB aims to implement lessons learned, through
       evaluation and knowledge sharing among corner store and partners, and
       secure additional funding for successful scaling.
-body_class: blueberry
+body_class: lime
 organization_name: Children's Bureau of Southern California
 published: true
 

@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   Union Church L.A. in Little Tokyo, 2 blocks from Skidrow; Central LA, LA
   County
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   As water and land are limited by the drought and increasing urban density, it
   has become difficult to find access to both healthy, sustainable, and
@@ -219,6 +219,25 @@ maker_answers:
     their own businesses selling their produce and receive micro-loans to start
     their farms.  Finally, other cities have also expressed interest in our
     pilot program and are looking to collaborate and build on our program.  
+  Where will you be working?:
+    - Central LA
+    - >-
+      Union Church L.A. in Little Tokyo, 2 blocks from Skidrow; Central LA, LA
+      County
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Number of households below the self-sufficiency index
+    - Percent of imported water
+    - Obesity rates
+    - Rates of homelessness
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -667,7 +686,7 @@ maker_answers_list:
       receive micro-loans to start their farms.  Finally, other cities have also
       expressed interest in our pilot program and are looking to collaborate and
       build on our program.  
-body_class: blueberry
+body_class: lime
 organization_name: >-
   Green Institute for Village Empowerment (GIVE) program at Tom Bradley Legacy
   Foundation at UCLA, L.A. Urban Farms, Union Rescue Mission, Union Church L.A.

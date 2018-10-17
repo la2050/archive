@@ -13,7 +13,7 @@ project_summary: >-
   empowering local communities to re-imagine their front yards – city streets –
   and then demand permanent change. 
 Please specify below: ''
-category: 0create0live
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -126,6 +126,32 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Great Streets Challenge will improve Los Angeles County’s access to public spaces by creating a framework for how municipal agencies transform streets into safe, clean, playful, open spaces.\r\n\r\nTo establish our framework, our goal is to use these pilots to inform long-term, actionable change on our streets. This process will then inform a “Do it Yourself” Great Streets Toolkit, which we are currently working on with LA City Planning. We will turn this toolkit into an actual tool, which will be taken and used in neighborhoods across Los Angeles County. We will host workshops, advise neighborhood organizations, and empower all communities to transform their local main streets into public spaces with the help of this tool. When we empower communities to create change through low-cost interventions themselves, and then pass this knowledge onto other communities, we can rapidly transform access to open space across the county.\r\n\r\nOur office is also working on a FY17 budget item for street improvements that have overwhelming community support. This will be a dedicated fund for permanent improvements in the public right of way, to which communities can apply. Instead of the city setting aside funds for capital projects and then spending time and money on an outreach process, this will allocate funds only to communities that have already demonstrated support. \r\n\r\nOne main concern with this process is equity.  Some communities may not be organized enough to apply for funding. So to ensure that funds are distributed equitably, we will use our 2015 Challenge Grant model to vet applications. Our model focused less on the technical aspects of applications and more on the capacity of the applicant to engage other residents and partner with the city. We will also prioritize park poor areas, and will provide technical and capacity assistance for the applicants who qualify.\r\n\r\nThrough working with community partnerships to re-imagine our city streets, we can provide access for all LA County residents to playful, vibrant open spaces. \r\n"
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - >-
+      Physically transform streets into safer, accessible public spaces and
+      educate community members on interventions to improve safety of and access
+      to public spaces
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

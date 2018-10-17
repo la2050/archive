@@ -12,7 +12,7 @@ project_summary: >-
   would be replaced with micro-climate appropriate edible fruit/vegetable crops
   & medicinal herbs.
 Please specify below: ''
-category: create
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Freeway Farm Green Infrastructure Pilot Project presents a unique opportunity
   to transform a series of overlooked spaces in various states of neglect into a
@@ -164,6 +164,21 @@ maker_answers:
     If the Green Infrastructure Pilot Project is successful then we hope to
     continue growing these patchwork peri-freeway spaces throughout Los Angeles
     county.
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -587,7 +602,7 @@ maker_answers_list:
       If the Green Infrastructure Pilot Project is successful then we hope to
       continue growing these patchwork peri-freeway spaces throughout Los
       Angeles county.
-body_class: banana
+body_class: lime
 organization_name: Freeway Farm
 published: true
 

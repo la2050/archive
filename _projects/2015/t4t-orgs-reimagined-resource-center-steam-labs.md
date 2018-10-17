@@ -208,6 +208,35 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: We accept help from all interested parties.
   How do you plan to scale the success of your proposal?: "We have been building these RRC STEAM Labs for the last two years. The first year we built two, last year we built nine, five of those through a grant from Metabolic Studios as a result of our 2014 application to LA2050. \r\n\r\nIt is our intention to continue to look for grants and to continue to offer these inspiring programs in as many of the 400+ high-poverty schools as possible. We have dozen’s of request and they continue to arrive through our web site, phone calls and email. The demand is there. \r\n\r\nOur long range goal would be to see RRC STEAM Labs in schools all over the country. Where there is manufacturing, there should be a T4T.org outlet building RRC STEAM Labs.\r\n"
+  Where will you be working?:
+    - County of Los Angeles
+    - Title 1 Schools in LA County.
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

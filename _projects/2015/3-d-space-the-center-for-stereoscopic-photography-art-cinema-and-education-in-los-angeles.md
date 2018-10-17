@@ -13,7 +13,7 @@ project_summary: >-
   include outreach to LA's underserved communities, and also specialized
   educational initiatives for LA's creative youth and senior populations.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Thanks to recent advances in digital technologies, there has been a renewed
   enthusiasm for all things 3-D. From record-breaking box office returns of 3-D
@@ -223,6 +223,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The proposed plan can be scaled to include increased frequency and availability of presentations, classes and workshops citywide and countywide in order to provide creative opportunities to larger portions of the community. Specific topics and techniques can be expanded upon and programs can be individually tailored to meet the needs of specific populations. Our programs will also be able to supplement a broader STEAM curriculum in partnership with other arts and science organizations and local school districts and colleges. \r\n\r\n"
+  Where will you be working?:
+    - Central LA
+    - San Fernando Valley
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -649,7 +671,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The proposed plan can be scaled to include increased frequency and availability of presentations, classes and workshops citywide and countywide in order to provide creative opportunities to larger portions of the community. Specific topics and techniques can be expanded upon and programs can be individually tailored to meet the needs of specific populations. Our programs will also be able to supplement a broader STEAM curriculum in partnership with other arts and science organizations and local school districts and colleges. \r\n\r\n"
-body_class: blueberry
+body_class: banana
 organization_name: 3-D SPACE
 published: true
 

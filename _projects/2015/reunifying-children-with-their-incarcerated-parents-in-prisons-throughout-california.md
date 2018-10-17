@@ -14,7 +14,7 @@ project_summary: >-
   Institution-Dublin Facility. Our goal is to offer the camp to a greater number
   of children and add a much-needed art therapy component.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Get On The Bus CREATES a Los Angeles that fosters inclusivity and diversity
   through opportunities for children of the incarcerated. Through no fault of
@@ -224,6 +224,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Success will be measured by achieving the following outcomes: \r\n1) Participating children will have the opportunity to strengthen their parental bonds, helping to alleviate their fears and uncertainties around their parent's absence.\r\n2) Parents receiving a visit are 13-25% less likely to re-offend following re-entry (longitudinal studies in Minnesota and Florida document decreased recidivism rates as a result of even one visit from a family member, mentor or clergy).\r\n3) Volunteers and the general public will have a greater appreciation for the plight of children with a parent in prison and may be more receptive to restorative justice-based reforms.\r\n4) Camp Suzanne’s successful pilot implementation will grow to impact the lives of a greater number of children and their incarcerated parents through program expansion. \r\n"
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -670,7 +690,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Success will be measured by achieving the following outcomes: \r\n1) Participating children will have the opportunity to strengthen their parental bonds, helping to alleviate their fears and uncertainties around their parent's absence.\r\n2) Parents receiving a visit are 13-25% less likely to re-offend following re-entry (longitudinal studies in Minnesota and Florida document decreased recidivism rates as a result of even one visit from a family member, mentor or clergy).\r\n3) Volunteers and the general public will have a greater appreciation for the plight of children with a parent in prison and may be more receptive to restorative justice-based reforms.\r\n4) Camp Suzanne’s successful pilot implementation will grow to impact the lives of a greater number of children and their incarcerated parents through program expansion. \r\n"
-body_class: blueberry
+body_class: banana
 organization_name: 'Get On The Bus a program of the Center for Restorative Justice Works '
 published: true
 

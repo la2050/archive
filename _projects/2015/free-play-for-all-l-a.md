@@ -13,7 +13,7 @@ project_summary: >-
   throughout L.A. County, unload the equipment, set up in the space provided and
   engage the greater community in hours of free play!
 Please specify below: 'Throughout all of L.A. County and, if possible, beyond.'
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We will make L.A. the best place to play by traveling to every
   community/area/district/town to provide residents/friends/visitors an
@@ -254,6 +254,44 @@ maker_answers:
     partners to bring 'Play' Buses to other cities across America.  Of course,
     as we were founded in Boston we know for sure that our strong following in
     the Greater Boston area would be very appreciative to have a Play Bus.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - 'Throughout all of L.A. County and, if possible, beyond. '
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - Provide healthy lifestyle choices
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Attendance at major league sporting events
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

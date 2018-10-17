@@ -12,7 +12,7 @@ project_summary: >-
   offering special tours of politically-themed murals for families and children;
   and by sponsoring a My Vote Matters mural.
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Downtown Los Angeles Art Walk reaches over 100,000 through its Facebook page
   and other social media. Over 20,000 people from all over the County of Los
@@ -219,6 +219,29 @@ maker_answers:
     following the election, will give us some idea of how well we have
     succeeded.  We will evaluate this feedback in framing how to proceed in
     future election cycles.  
+  Where will you be working?:
+    - Central LA
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -663,7 +686,7 @@ maker_answers_list:
       receive at the Art Walk following the election, will give us some idea of
       how well we have succeeded.  We will evaluate this feedback in framing how
       to proceed in future election cycles.  
-body_class: blueberry
+body_class: tangerine
 organization_name: Downtown Los Angeles Art Walk
 published: true
 

@@ -14,7 +14,7 @@ project_summary: >-
 Please specify below: >-
   CASA of Los Angeles helps children in foster care from everywhere in Los
   Angeles County.
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Nelson Mandela once said, "There can be no keener revelation of a society's
   soul than the way in which it treats its children." For LA's abused and
@@ -118,7 +118,8 @@ How do you plan to scale the success of your proposal?: >-
   volunteer opportunities, and then by recruiting enough volunteers to serve all
   children in need.
 year_submitted: 2015
-project_image: 'https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/1381760_10150328123069943_1196124285_n.jpg?_nc_cat=105&oh=21b20fd87ee11f0bcb82e4d354982088&oe=5C62EAA3'
+project_image: >-
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/1381760_10150328123069943_1196124285_n.jpg?_nc_cat=105&oh=21b20fd87ee11f0bcb82e4d354982088&oe=5C62EAA3
 project_video: ''
 youtube_video_identifier: 3qC3k8bY6A0
 project_areas:
@@ -248,6 +249,27 @@ maker_answers:
     accomplish this significant goal, first by changing how Los Angeles views
     volunteer opportunities, and then by recruiting enough volunteers to serve
     all children in need. 
+  Where will you be working?:
+    - >-
+      CASA of Los Angeles helps children in foster care from everywhere in Los
+      Angeles County.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - >-
+      Recruit and train Angelenos to advocate for our city's most vulnerable
+      children.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -688,7 +710,7 @@ maker_answers_list:
       outreach model to accomplish this significant goal, first by changing how
       Los Angeles views volunteer opportunities, and then by recruiting enough
       volunteers to serve all children in need. 
-body_class: blueberry
+body_class: tangerine
 organization_name: CASA of Los Angeles
 published: true
 

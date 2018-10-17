@@ -13,7 +13,7 @@ project_summary: >-
   impassion youth to appreciate and respect the marine environment and introduce
   youth to a career choice in water safety.  
 Please specify below: 'Hansen Dam, Lake View Terrace, CA; Cabrillo Beach, San Pedro, CA'
-category: live
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   I would like to create KIPP, a Kids Indoor Play Park for all young children
   (baby, infant, toddler) to participate in and develop social and physical
@@ -226,6 +226,20 @@ maker_answers:
     strategy of networking and team problem solving, and perhaps some specific
     employment skills, these program participants then become mentors by example
     to their friends and neighbors.   
+  Where will you be working?:
+    - San Fernando Valley
+    - South Bay
+    - 'Hansen Dam, Lake View Terrace, CA; Cabrillo Beach, San Pedro, CA'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -640,7 +654,7 @@ maker_answers_list:
       conditioning, the strategy of networking and team problem solving, and
       perhaps some specific employment skills, these program participants then
       become mentors by example to their friends and neighbors.   
-body_class: lime
+body_class: blueberry
 organization_name: City of Los Angeles Department of Recreation and Parks (RAP)
 published: true
 

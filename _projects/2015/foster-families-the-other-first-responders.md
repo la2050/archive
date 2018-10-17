@@ -13,7 +13,7 @@ project_summary: >-
   “just in time” on-line information to individuals and families willing to
   serve as foster parents. 
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -128,6 +128,17 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'Having other organizations willing to link to this website '
   How do you plan to scale the success of your proposal?: "Once this website is designed it will serve the entire county.  Scaling up this proposal could occur in several different mechanisms in future years including:\r\n\r\nIncrease languages to make website accessible to a wider audience (e.g., Arabic, Asian languages,etc)\r\n\r\nExtent our reach and draw in more partners for dissemination and recruitment – interfaith groups, etc\r\n\r\nModify and enhance website from having one entity (UCLA) being primarily responsible for updates to a distributed model where approved partners can update training and community event information etc\r\n\r\nCreate an accessible smartphone app\r\n\r\n\r\n"
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Publicity/awareness (social capital)
+  How will your proposal improve the following “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -543,7 +554,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Once this website is designed it will serve the entire county.  Scaling up this proposal could occur in several different mechanisms in future years including:\r\n\r\nIncrease languages to make website accessible to a wider audience (e.g., Arabic, Asian languages,etc)\r\n\r\nExtent our reach and draw in more partners for dissemination and recruitment – interfaith groups, etc\r\n\r\nModify and enhance website from having one entity (UCLA) being primarily responsible for updates to a distributed model where approved partners can update training and community event information etc\r\n\r\nCreate an accessible smartphone app\r\n\r\n\r\n"
-body_class: blueberry
+body_class: tangerine
 organization_name: UCLA Luskin School of Public Affairs
 published: true
 

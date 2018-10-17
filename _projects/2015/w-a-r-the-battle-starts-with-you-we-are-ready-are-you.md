@@ -13,7 +13,7 @@ project_summary: >-
   difference. Through this program, students will become successful and active
   community members in the city of Los Angeles.
 Please specify below: ''
-category: none
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   There is an education alarm bell ringing! Across Los Angeles, there is a major
   high school drop out crisis and After-School All-Stars, Los Angeles is here to
@@ -189,6 +189,38 @@ maker_answers:
   How do you plan to scale the success of your proposal?: >-
     I'll be honest I don't understand this question but would be more than
     willing to discuss with someone once I understand the question.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Fernando Valley
+    - South LA
+    - County of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -603,7 +635,7 @@ maker_answers_list:
     answer: >-
       I'll be honest I don't understand this question but would be more than
       willing to discuss with someone once I understand the question.
-body_class: strawberry
+body_class: blueberry
 organization_name: 'After-School All-Stars, Los Angeles'
 published: true
 

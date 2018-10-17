@@ -205,6 +205,21 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "With the purchase of our new equipment our lab will have the opportunity to continuously grow.  Our classes will use the new equipment and generate income which can be reinvested into the lab to maintain this equipment and expand the lab further.\r\n\r\nInstead of asking for money to cover operational expenses we choose to invest in capital equipment that will add value to our organization for many years.  We believe this to be the most sustainable and responsible way to use the gifts of our benefactors.\r\n"
+  Where will you be working?:
+    - San Gabriel Valley
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

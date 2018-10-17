@@ -13,7 +13,7 @@ project_summary: >-
   do not live in a single family residence, but still want to take ownership of
   their health and community.
 Please specify below: ''
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles residents who cannot afford our increasing cost of land should not
   be prohibited from taking ownership of their health and diet through growing
@@ -185,6 +185,29 @@ maker_answers:
     project.  I will document each new Edible Apartment from start to finish in
     terms of photography, videos, written documentation and feedback from
     residents, building owners, community members and civic leaders.
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Obesity rates
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -608,7 +631,7 @@ maker_answers_list:
       project.  I will document each new Edible Apartment from start to finish
       in terms of photography, videos, written documentation and feedback from
       residents, building owners, community members and civic leaders.
-body_class: strawberry
+body_class: lime
 organization_name: The Edible Apartment
 published: true
 

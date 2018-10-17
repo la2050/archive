@@ -13,7 +13,7 @@ project_summary: >-
   educational activities, community events, and a space to enjoy organic and
   locally sourced food. 
 Please specify below: 'Baldwin hills, Leimert Park, Inglewood, and Mid-City'
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Tickleberry Place was designed to meet the unique needs of South LA.
   Historically, South LA has a lack of access to safe play spaces and limited
@@ -242,6 +242,38 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Increased Community engagement and support\r\nThe amount of shares we receive on social Media\r\nIncreased number of partnerships\r\nIncreased number at events\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - 'Baldwin hills, Leimert Park, Inglewood, and Mid-City'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Mobilize for systems change
+    - 'Change environmental practices for businesses '
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

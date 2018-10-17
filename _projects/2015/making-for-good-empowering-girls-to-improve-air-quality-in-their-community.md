@@ -122,6 +122,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our Clean Air project is both scalable and replicable. After completing the project with girls in the San Fernando Valley we plan to expand it to other areas of Los Angeles with poor air quality using the same equipment which includes air quality sensors and smart phones. We will accomplish this by training educators, community organizers, volunteers and environmental justice organizations on our process as well as on the technical project skills required to design and build solutions. We will make our equipment available via a lending library so that scaling the project can be cost effective.\r\n\r\nAdditionally, our ‘Making for Good’ process is flexible enough to be individualized and implemented with different themes, including health, air quality, and other quality of life issues. DIY Girls is interested in continuing to develop our project around issues that directly affect Los Angeles, including access to healthy food, drought alleviation, and clean energy.  We are working to share our process and provide materials online for anyone to use. We also will help other interested parties replicate our model. "
+  Where will you be working?:
+    - San Fernando Valley
+    - City of Los Angeles
+    - LAUSD
+    - 'Pacoima, San Fernando, Panorama City'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

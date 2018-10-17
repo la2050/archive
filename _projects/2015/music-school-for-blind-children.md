@@ -11,7 +11,7 @@ project_summary: >-
   The students also want to start dancing! So, we're trying to purchase shoes &
   clothes for them.
 Please specify below: 'The Learning Center (TLC) In Reseda, CA'
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The students from AMB will be performing at many events around LA bringing
   awareness to the blind community and opening hearts. We're already packing
@@ -245,6 +245,24 @@ maker_answers:
     The success of this proposal will be seen on the faces of over 30 blind
     children in LA. We will capture these smiles & voices and show LA and the
     world that music can truly changes lives.
+  Where will you be working?:
+    - San Fernando Valley
+    - County of Los Angeles
+    - 'The Learning Center (TLC) In Reseda, CA'
+  How do you plan to use these resources to make change?:
+    - 'Cover costs of musical instruments, student tuition and Braille machines'
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Number of children enrolled in afterschool programs
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

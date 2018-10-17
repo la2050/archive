@@ -13,7 +13,7 @@ project_summary: >-
   to the first cohort of young leaders trained last year as they continue
   community service.
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Front Line Leaders Academy – Los Angeles (FLLA-LA) will train 20 young leaders
   dedicated to creating lasting change in their communities throughout Los
@@ -268,6 +268,19 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "While there are no formal plans to scale the success of FLLA-LA, the program itself provides a natural scaling effect due to the long-term effects of investing in leadership development and the work these leaders will undertake for years to come. It is our hope that FLLA-LA graduates will remain in Los Angeles and will build upon their successes toward improving interconnectedness in the Los Angeles community. These young leaders will pursue issue advocacy work, electoral advocacy work, and neighborhood- and community-based coalition building toward creating fundamental changes in the community. More important than the initial returns from the program is the capacity these young leaders now have to advocate for change in the long-term with the varied skills acquired from the FLLA-LA program.\r\n\r\nSince its inception in 2006, FLLA has launched the careers of 136 young leaders: 73 percent of FLLA graduates have gone on to hold leadership roles in nonprofits and community groups; 65 percent have increased civic participation through work on issue-based or electoral campaigns; and 20 percent have subsequently run for local elected office (59 percent of these won their races). The skills attained during the FLLA-LA will allow these young leaders to ascend to positions of influence in the community, thus allowing them to work to improve the community from within. An investment in FLLA-LA is an investment in developing local leaders in the Los Angeles community who desire to create change from within. FLLA graduates possess versatile skill sets that enable them to work in varied ways toward improving the community. Furthermore, the graduates apply these skills in their work well beyond their final moments of instruction – graduation from FLLA-LA marks the beginning of a career’s worth of civic engagement work and community enrichment."
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -724,7 +737,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "While there are no formal plans to scale the success of FLLA-LA, the program itself provides a natural scaling effect due to the long-term effects of investing in leadership development and the work these leaders will undertake for years to come. It is our hope that FLLA-LA graduates will remain in Los Angeles and will build upon their successes toward improving interconnectedness in the Los Angeles community. These young leaders will pursue issue advocacy work, electoral advocacy work, and neighborhood- and community-based coalition building toward creating fundamental changes in the community. More important than the initial returns from the program is the capacity these young leaders now have to advocate for change in the long-term with the varied skills acquired from the FLLA-LA program.\r\n\r\nSince its inception in 2006, FLLA has launched the careers of 136 young leaders: 73 percent of FLLA graduates have gone on to hold leadership roles in nonprofits and community groups; 65 percent have increased civic participation through work on issue-based or electoral campaigns; and 20 percent have subsequently run for local elected office (59 percent of these won their races). The skills attained during the FLLA-LA will allow these young leaders to ascend to positions of influence in the community, thus allowing them to work to improve the community from within. An investment in FLLA-LA is an investment in developing local leaders in the Los Angeles community who desire to create change from within. FLLA graduates possess versatile skill sets that enable them to work in varied ways toward improving the community. Furthermore, the graduates apply these skills in their work well beyond their final moments of instruction – graduation from FLLA-LA marks the beginning of a career’s worth of civic engagement work and community enrichment."
-body_class: blueberry
+body_class: tangerine
 organization_name: People for the American Way Foundation
 published: true
 

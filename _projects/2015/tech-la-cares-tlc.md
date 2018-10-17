@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "The Los Angeles tech space is growing at a rapid pace -- so much so, that it is difficult for tech companies to devote time, resources, and energy into being a strong partner within their own communities.\r\n\r\nTech LA Cares (TLC) aims to bridge that gap by matching companies with organizations and events, both by in-person needs assessments, as well as online volunteer signup mechanisms.\r\n\r\nWe believe in the efficiency of online tools, but also believe that human contact is key to success.\r\n"
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The Los Angeles tech sector is on the verge of Very Big Things -- led by Mayor
   Eric Garcetti and fueled by an influx of venture capital, the City is now the
@@ -227,6 +227,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Success begets success, and people want to do good -- they just need the proper channel in order to easily do so.\r\n\r\nI've seen a lot of charity / volunteer services focus on the individual, which is good in encouraging friends to join friends; however, the network effect of 1 + 1 is largely 3.\r\n\r\nNow, you get companies involved, within a defined vertical (in this case being Los Angeles-area tech companies), and you've tapped into the network effect of a tight-knit, devoted group, thus bringing the network effect of 10 + 10 = 50.\r\n\r\nDo this enough times, and you've instilled a sense of involvement beyond LA's tech community, so that local companies from other verticals become involved -- first, from the initial periphery, next, from areas one would not anticipate.\r\n\r\nTell these stories enough times, and you've created a movement, in which other cities want to know how to unify their businesses in order to strengthen ties between local businesses and charities.\r\n\r\nThere are a lot of large companies that already have their own Corporate Responsibility departments. \r\n\r\nHowever, LA is seeing a huge surge in tech-based startups that do not have the luxury of such departments to handle this work.\r\n\r\nWe aim to make it easy for companies to better connect with their communities, so that the rising tide lifts all boats, and so that LA can serve as a model for yet another incredible civic achievement.\r\n\r\n(And yes, to be more concrete, it will be necessary to scale this model via earned and paid media across traditional, social, and online channels.)"
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -623,7 +645,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Success begets success, and people want to do good -- they just need the proper channel in order to easily do so.\r\n\r\nI've seen a lot of charity / volunteer services focus on the individual, which is good in encouraging friends to join friends; however, the network effect of 1 + 1 is largely 3.\r\n\r\nNow, you get companies involved, within a defined vertical (in this case being Los Angeles-area tech companies), and you've tapped into the network effect of a tight-knit, devoted group, thus bringing the network effect of 10 + 10 = 50.\r\n\r\nDo this enough times, and you've instilled a sense of involvement beyond LA's tech community, so that local companies from other verticals become involved -- first, from the initial periphery, next, from areas one would not anticipate.\r\n\r\nTell these stories enough times, and you've created a movement, in which other cities want to know how to unify their businesses in order to strengthen ties between local businesses and charities.\r\n\r\nThere are a lot of large companies that already have their own Corporate Responsibility departments. \r\n\r\nHowever, LA is seeing a huge surge in tech-based startups that do not have the luxury of such departments to handle this work.\r\n\r\nWe aim to make it easy for companies to better connect with their communities, so that the rising tide lifts all boats, and so that LA can serve as a model for yet another incredible civic achievement.\r\n\r\n(And yes, to be more concrete, it will be necessary to scale this model via earned and paid media across traditional, social, and online channels.)"
-body_class: blueberry
+body_class: tangerine
 organization_name: Tech LA Cares
 published: true
 

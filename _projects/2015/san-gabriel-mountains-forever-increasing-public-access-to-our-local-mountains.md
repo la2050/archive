@@ -11,7 +11,7 @@ project_summary: >-
   access to the San Gabriels and to demonstrate how people can reach the
   mountains via public transit. 
 Please specify below: Through the research we will identify one more park-poor community in LA City
-category: live
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The San Gabriel Mountains rise above Los Angeles, stretching from Santa
   Clarita to San Bernardino county, and act as the recreational backyard for
@@ -179,6 +179,29 @@ maker_answers:
     Mountains Forever coalition.  If our pilot project is successful we will
     work with public officials through our role in the coalition to bring to
     life a permanent transit-to-trails program.  
+  Where will you be working?:
+    - San Gabriel Valley
+    - Antelope Valley
+    - >-
+      Through the research we will identify one more park-poor community in LA
+      City
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -560,7 +583,7 @@ maker_answers_list:
       Mountains Forever coalition.  If our pilot project is successful we will
       work with public officials through our role in the coalition to bring to
       life a permanent transit-to-trails program.  
-body_class: lime
+body_class: strawberry
 organization_name: The Council of Mexican Federations (COFEM)
 published: true
 

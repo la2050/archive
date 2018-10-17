@@ -13,7 +13,7 @@ project_summary: >-
   various equipment needed for volunteer projects throughout the City.  It is
   the goal of the City to get the community excited about
 Please specify below: City of Glendora
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Glendora believes that volunteering plays a great role in creating a tight
   knit and socially aware community. Volunteering is a great way to meet new
@@ -199,6 +199,26 @@ maker_answers:
     can be parked at strategic locations to encourage volunteerism.  This will
     ensure that not only our community but to others outside of community who
     may want to participate.   
+  Where will you be working?:
+    - San Gabriel Valley
+    - City of Glendora
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - 'Encourage youth to volunteer, teach conservation and preservation.'
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -630,7 +650,7 @@ maker_answers_list:
       mobile trailer can be parked at strategic locations to encourage
       volunteerism.  This will ensure that not only our community but to others
       outside of community who may want to participate.   
-body_class: blueberry
+body_class: tangerine
 organization_name: City of Glendora
 published: true
 

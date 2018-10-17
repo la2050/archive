@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   The pilot will hone in on Huntington Park and Pacoima. Countywide scaling to
   follow.
-category: 0createplaylive
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   To meet LA’s needs, TreePeople’s Strategic Vision goals over the next 10 years
   are to increase tree canopy throughout LA to an equitable 25% and to develop a
@@ -276,6 +276,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Models of Mobilization pilot-to-scale project will determine the best ways to mobilize LA communities most impacted by environmental justice issues to protect their health and make livable neighborhoods by adopting eco-friendly behavior in relation to trees and water.  Because we believe strongly that the only way to ensure LA becomes more sustainable is to lead people in taking personal responsibility for the environment, we have designed this project to create turnkey models based on socioeconomic, geographic, and environmental characteristics.  These models will then be ready to be applied in communities with similar characteristics. \r\n\r\nTo support scaling, the MAC is also bringing the public water agencies together to determine how to achieve similar goals at the systemic level. The MAC is helping to break down walls that have existed between these agencies – and their budgets – for decades.  The long-term results could include more efficiency in resource management, along with funding to support community-based and home-based projects in our region that provide multiple benefits for the public, including water security, water quality, flood protection, energy efficiency, access to green space and local jobs.\r\n\r\nScaling efforts will combine the data and models produced by this project with our “success formula” which multiplies the following: (a) Educating and engaging people with nature-based solutions (landscape transformation, rainwater capture, etc);  (b) Developing and implementing communications tools and strategies to mobilize a critical mass;  (c) Creating partnerships at the community and systemic levels for better urban ecosystem management;  (d) Drive policy changes that promote green infrastructure at all government levels.  \r\n\r\nMuch of TreePeople’s community-based work is focused on environmental justice areas, where pollution is high, eco-assets are low, and socioeconomic challenges are immense.  When people think of human rights, they often think of civil liberties, workplace protections, and the right to happiness.  Trees and water aren’t what usually come to mind.  But it is trees and water – and their many benefits – that have a tremendous impact on wellness and health.  Bringing people together for community projects that raise the environmental assets makes neighborhoods cleaner, healthier, and more livable.  \r\n"
+  Where will you be working?:
+    - San Fernando Valley
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      The pilot will hone in on Huntington Park and Pacoima.  Countywide scaling
+      to follow. 
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Live” metrics?:
+    - Exposure to air toxins
+    - Percent of imported water
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -720,7 +743,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Models of Mobilization pilot-to-scale project will determine the best ways to mobilize LA communities most impacted by environmental justice issues to protect their health and make livable neighborhoods by adopting eco-friendly behavior in relation to trees and water.  Because we believe strongly that the only way to ensure LA becomes more sustainable is to lead people in taking personal responsibility for the environment, we have designed this project to create turnkey models based on socioeconomic, geographic, and environmental characteristics.  These models will then be ready to be applied in communities with similar characteristics. \r\n\r\nTo support scaling, the MAC is also bringing the public water agencies together to determine how to achieve similar goals at the systemic level. The MAC is helping to break down walls that have existed between these agencies – and their budgets – for decades.  The long-term results could include more efficiency in resource management, along with funding to support community-based and home-based projects in our region that provide multiple benefits for the public, including water security, water quality, flood protection, energy efficiency, access to green space and local jobs.\r\n\r\nScaling efforts will combine the data and models produced by this project with our “success formula” which multiplies the following: (a) Educating and engaging people with nature-based solutions (landscape transformation, rainwater capture, etc);  (b) Developing and implementing communications tools and strategies to mobilize a critical mass;  (c) Creating partnerships at the community and systemic levels for better urban ecosystem management;  (d) Drive policy changes that promote green infrastructure at all government levels.  \r\n\r\nMuch of TreePeople’s community-based work is focused on environmental justice areas, where pollution is high, eco-assets are low, and socioeconomic challenges are immense.  When people think of human rights, they often think of civil liberties, workplace protections, and the right to happiness.  Trees and water aren’t what usually come to mind.  But it is trees and water – and their many benefits – that have a tremendous impact on wellness and health.  Bringing people together for community projects that raise the environmental assets makes neighborhoods cleaner, healthier, and more livable.  \r\n"
-body_class: strawberry
+body_class: lime
 organization_name: TreePeople
 published: true
 

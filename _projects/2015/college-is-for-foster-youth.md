@@ -220,6 +220,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'Host meaningful, career-directed internships for our CSP youth'
   How do you plan to scale the success of your proposal?: "UFC has ambitious long-term growth plans for its education programs, and there is certainly no lack of foster youth who would benefit from program expansion.  We have held preliminary talks with a number of agencies (DCFS, school districts) exploring opportunities for program expansion, which could help us to scale the programs further should funding become available.  To this end, we have been in discussion with a number of funders about supporting program growth, and launched a new initiatives campaign to secure additional individual and corporate support for these programs.  Should funding become available through these efforts, we are poised to scale up to achieve growth (as we have done with our supportive housing program in 2015, which has achieved <40% growth in the current year).\r\n\r\nMeanwhile, we expect that the external evaluation of our program that is currently underway will help us to validate our relationship-based service model, and identify opportunities to improve our program delivery, so that not only can we scale the program locally, but encourage its replication in communities nationwide. \r\n"
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesCollege matriculation rates
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

@@ -12,7 +12,7 @@ project_summary: >-
   keep unnecessary food scraps out of landfills, providing communities with the
   tools and education needed to compost locally.
 Please specify below: ''
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our goal is to reconnect the city of L.A. with the soil that feeds us. We want
   people to understand that completing the entire loop (farm to table, table to
@@ -233,6 +233,41 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Having already proven that the hub model works, we will continue to grow strategically each year with the goal of a hub in each city by 2050 (88 cities across L.A. County). We will work on creating a seamless process that allows a new community to start a new hub when ready. From schools and restaurants to community gardens and parks we will look for areas central to the communities where they are located to maximize community usage. This approach has already proven to be effective as two affordable housing buildings in Downey and Mar Vista are excited to move forward with new their compost hub.\r\n\r\nWe will also approach larger waste and organic haulers in the future to identify ways in which we can collaborate. Unfortunately in Los Angeles there is more food scraps and yard waste than companies and groups of people to handle it all. By partnering with those who’ve been trying to deal with the issue of keeping organics out of land fills, we can help through educating communities and creating local solutions.\r\n\r\nFood scraps will continue to exist and because of how much we produce, some of it will often find its way in a landfill. Unless we change the way we look at it (how we now view glass, plastic, and aluminum as a reusable product) it will be hard to create long lasting change. Through educating individuals within their community and providing options for them to be part of this change, we believe our hubs have the potential to change the issue we have with waste both now, and through 2050.\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Percent of imported water
+    - Obesity rates
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -636,7 +671,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Having already proven that the hub model works, we will continue to grow strategically each year with the goal of a hub in each city by 2050 (88 cities across L.A. County). We will work on creating a seamless process that allows a new community to start a new hub when ready. From schools and restaurants to community gardens and parks we will look for areas central to the communities where they are located to maximize community usage. This approach has already proven to be effective as two affordable housing buildings in Downey and Mar Vista are excited to move forward with new their compost hub.\r\n\r\nWe will also approach larger waste and organic haulers in the future to identify ways in which we can collaborate. Unfortunately in Los Angeles there is more food scraps and yard waste than companies and groups of people to handle it all. By partnering with those who’ve been trying to deal with the issue of keeping organics out of land fills, we can help through educating communities and creating local solutions.\r\n\r\nFood scraps will continue to exist and because of how much we produce, some of it will often find its way in a landfill. Unless we change the way we look at it (how we now view glass, plastic, and aluminum as a reusable product) it will be hard to create long lasting change. Through educating individuals within their community and providing options for them to be part of this change, we believe our hubs have the potential to change the issue we have with waste both now, and through 2050.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: L.A. Compost and Kiss the Ground
 published: true
 

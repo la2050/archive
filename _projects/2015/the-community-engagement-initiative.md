@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "The Community Engagement Initiative is a comprehensive Community Engagement Program with the vision that local government is responsive to the needs of the residents and Angelenos are contributing members to their community.\r\n\r\nIt is an \"evidence based practice\" that examines existing evidence based community engagement strategies and assesses how existing community resources, services and programs are being utilized to coordinate these services in an effective and efficient manner.\r\n"
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -116,6 +116,32 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We will scale the success of our proposal by the defining objectives, the collection of data and the evaluation of the data collected.\r\n\r\nAnalyzing our goals and objectives will help ensure that when setting up our reports the right questions are being asked.  The mission of the program will be clearly defined and for each program we will know how to measure its success.\r\n\r\nOutcome management systems will be evaluated regularly to ensure they are meeting the needs of the organization and the funder."
+  Where will you be working?:
+    - Central LA
+    - South LA
+    - Westside
+    - South Bay
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -519,7 +545,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We will scale the success of our proposal by the defining objectives, the collection of data and the evaluation of the data collected.\r\n\r\nAnalyzing our goals and objectives will help ensure that when setting up our reports the right questions are being asked.  The mission of the program will be clearly defined and for each program we will know how to measure its success.\r\n\r\nOutcome management systems will be evaluated regularly to ensure they are meeting the needs of the organization and the funder."
-body_class: blueberry
+body_class: tangerine
 organization_name: Operations-South Bureau Community Stakeholder Collaboration
 published: true
 

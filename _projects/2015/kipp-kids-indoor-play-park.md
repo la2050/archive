@@ -13,7 +13,7 @@ project_summary: >-
   themselves and play physically while protecting them from their surroundings
   and allowing for easy clean-up. 
 Please specify below: Poinsettia Recreation Center
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   I would like to create KIPP, a Kids Indoor Play Park for all young children
   (baby, infant, toddler) to participate in and develop social and physical
@@ -284,6 +284,29 @@ maker_answers:
     terminate their licensed preschool programs.  Additionally, KIPP will
     fulfill the need for programming for babies, infants, and toddlers that the
     City of LA does not currently provide. 
+  Where will you be working?:
+    - City of Los Angeles
+    - Poinsettia Recreation Center
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+    - >-
+      Offer free/low cost programming for young children where licensed child
+      care and preschool programs were terminated.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

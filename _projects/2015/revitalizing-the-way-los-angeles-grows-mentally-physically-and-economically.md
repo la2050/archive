@@ -12,7 +12,7 @@ project_summary: >-
 Please specify below: >-
   Applied Technology Center (High School); Bell Gardens High School; South Los
   Angeles elementary and high schools (TBD)
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Percentage of LA communities that are resilient: The "Green Works Project"
   creates an opportunity to gather and build upon existing data that that
@@ -173,6 +173,38 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "GREENBOXFARMS have a small environmental footprint and are modular, mobile, and stackable. Because of this design, we will be able to easily scale up by leveraging venture capital funds and income from produce sales.\r\n\r\nIn the future we would like to create pop up grocery stores. These grocery stores would be made out of recycled shipping containers and would employ local residents."
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      Applied Technology Center (High School); Bell Gardens High School; South
+      Los Angeles elementary and high schools (TBD)
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Obesity rates
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -578,7 +610,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "GREENBOXFARMS have a small environmental footprint and are modular, mobile, and stackable. Because of this design, we will be able to easily scale up by leveraging venture capital funds and income from produce sales.\r\n\r\nIn the future we would like to create pop up grocery stores. These grocery stores would be made out of recycled shipping containers and would employ local residents."
-body_class: strawberry
+body_class: lime
 organization_name: GREENBOXFARMS
 published: true
 

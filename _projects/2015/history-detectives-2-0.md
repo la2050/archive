@@ -11,7 +11,7 @@ project_summary: >-
   where to go and why. Teachers/adults/artists-in-residence will provide
   "prompts" that will then become projects. 
 Please specify below: ''
-category: create
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The "History Detectives" brigades will multiply as the idea of taking students
   outside of the traditional classroom explodes. The desire to experience
@@ -229,6 +229,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "One van/truck/bus will increase in size and its capacity to accommodate more student/participants on each Project.\r\n\r\nOne vehicle will then grow to two and those two again increase until each of the school's wishing to participate can have that chance.\r\n\r\nLA is a city with actors in between professional work, ex-teachers waiting for the call to teach.\r\n\r\nOur infra-structure will accommodate and use all of those other-wise idle hours to grow our ability to deliver to more each year. \r\n"
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -614,7 +639,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "One van/truck/bus will increase in size and its capacity to accommodate more student/participants on each Project.\r\n\r\nOne vehicle will then grow to two and those two again increase until each of the school's wishing to participate can have that chance.\r\n\r\nLA is a city with actors in between professional work, ex-teachers waiting for the call to teach.\r\n\r\nOur infra-structure will accommodate and use all of those other-wise idle hours to grow our ability to deliver to more each year. \r\n"
-body_class: banana
+body_class: blueberry
 organization_name: Robey Theatre Company
 published: true
 

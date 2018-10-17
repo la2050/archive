@@ -13,7 +13,7 @@ project_summary: >-
   entertainment industry. STARS will be a brick and mortar hub for aspiring and
   mid-level artists to collaborate and showcase their diverse talents.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our organization will make LA a better place utilizing STARS to foster
   artistic entrepreneurship along with cultural and economic diversity.
@@ -217,6 +217,38 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "1.\tBuild a strong network through the resource studio. Through sign-in sheets, surveys and the Sections, we will be able to keep track of every person coming to the center and every person utilizing any aspect of the center. Whether a STARS’ user is attending an event, renting a conference room space, using video editing equipment, or having a career consultation with an industry mentor counselor, we will know that the center has succeeded in its mission.  \r\n2.\tMaking our vision resilient. We will make sure that our volunteers and paid staff are all clear on the vision of the resource studio. We will also be flexible as we execute the vision so that we maximize the benefits it has on the creative community-at-large.\r\n3.\tSustainability of the studio. Twice a month we will have meetings to discuss our current budget so that we can assess its accuracy based on actual center use and operation. This process will allow us to effectively apply for the appropriate local and federal grants based on our center’s usage. \r\n4.\tAccountability to grant donors. We will provide monthly recaps to our Goldhirsh Foundation point of contact. Through our report findings, we will gauge our success and continuously consider implementation of advice provided by the Foundation.\r\n"
+  Where will you be working?:
+    - San Fernando Valley
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Number of high growth startups
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -647,7 +679,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "1.\tBuild a strong network through the resource studio. Through sign-in sheets, surveys and the Sections, we will be able to keep track of every person coming to the center and every person utilizing any aspect of the center. Whether a STARS’ user is attending an event, renting a conference room space, using video editing equipment, or having a career consultation with an industry mentor counselor, we will know that the center has succeeded in its mission.  \r\n2.\tMaking our vision resilient. We will make sure that our volunteers and paid staff are all clear on the vision of the resource studio. We will also be flexible as we execute the vision so that we maximize the benefits it has on the creative community-at-large.\r\n3.\tSustainability of the studio. Twice a month we will have meetings to discuss our current budget so that we can assess its accuracy based on actual center use and operation. This process will allow us to effectively apply for the appropriate local and federal grants based on our center’s usage. \r\n4.\tAccountability to grant donors. We will provide monthly recaps to our Goldhirsh Foundation point of contact. Through our report findings, we will gauge our success and continuously consider implementation of advice provided by the Foundation.\r\n"
-body_class: blueberry
+body_class: banana
 organization_name: Breaking into Hollywood
 published: true
 

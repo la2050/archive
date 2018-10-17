@@ -13,7 +13,7 @@ project_summary: >-
 Please specify below: >-
   thirsty neighborhoods dotted across the 864-sq-mile LA Basin, on the river and
   off.
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   CtD design workshops engage citizens with unseen water systems beneath their
   feet, using full-scale stormwater and groundwater visualizations on city
@@ -250,6 +250,28 @@ maker_answers:
     Lands Institute’s Divining LA initiative.  A Divining LA design competition
     (2017-2018) will build on CtD relationships and visioning; community design
     teams will compete for selection to realize demonstration projects.
+  Where will you be working?:
+    - >-
+      thirsty neighborhoods dotted across the 864-sq-mile LA Basin, on the river
+      and off.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Percent of imported water
+    - Walk/bike/transit score
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -681,7 +703,7 @@ maker_answers_list:
       design competition (2017-2018) will build on CtD relationships and
       visioning; community design teams will compete for selection to realize
       demonstration projects.
-body_class: strawberry
+body_class: lime
 organization_name: Connect the Dots LA
 published: true
 

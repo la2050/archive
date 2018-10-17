@@ -13,7 +13,7 @@ project_summary: >-
   within each home, growing organically into neighborhood and community-wide
   networks, one household at a time.
 Please specify below: Northeast Los Angeles (NELA)
-category: all
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   A lot of the open standards hardware and open source software required for
   these community mesh network deployments already exist today. We just need to
@@ -220,6 +220,43 @@ maker_answers:
     deployments -- their own home and for a family in need. Once enough
     neighborhoods are exposed to Community at Home services, we expect growth to
     follow Reed's Law.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - City of Los Angeles
+    - Northeast Los Angeles (NELA)
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Apply for the LA CityLink RFP
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Median travel time to work
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -640,7 +677,7 @@ maker_answers_list:
       deployments -- their own home and for a family in need. Once enough
       neighborhoods are exposed to Community at Home services, we expect growth
       to follow Reed's Law.
-body_class: strawberry
+body_class: tangerine
 organization_name: Data Roads Foundation
 published: true
 

@@ -11,7 +11,7 @@ project_summary: >-
   months, gaining hands-on work experience in customer service, food handling,
   drink making, inventory management, and retail. 
 Please specify below: 'Skid Row, Los Angeles'
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   DWC will make LA the best place to create by placing 10 women, who have
   histories of homelessness and trauma, into paid employment through our social
@@ -189,6 +189,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Following the evaluation conducted by SPR, DWC will develop a full implementation plan for scaling, based on recommendations from the report. We hope to elevate the best practices in job readiness for homeless and formerly homeless women. As a leader in the community and across the nation, we are prepared to advocate for the implementation of those best practices. \r\n\r\nDWC is recognized as a leader in the service field. In 2001, we spearheaded the Downtown Women's Action Coalition in gathering information on homeless women’s needs with the potential to affect positive change in policy. In 2005, we developed a national study of best practices in homeless women’s services. In 2011, DWC was deemed “Organization of the Year” by the Los Angeles Business Journal and was granted the Los Angeles Conservancy Preservation Award. In 2013, we were named “Nonprofit of the Year,” by the Office of the Governor and California Volunteers. "
+  Where will you be working?:
+    - 'Skid Row, Los Angeles '
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Jobs per capita
+    - Gini coefficient
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -607,7 +627,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Following the evaluation conducted by SPR, DWC will develop a full implementation plan for scaling, based on recommendations from the report. We hope to elevate the best practices in job readiness for homeless and formerly homeless women. As a leader in the community and across the nation, we are prepared to advocate for the implementation of those best practices. \r\n\r\nDWC is recognized as a leader in the service field. In 2001, we spearheaded the Downtown Women's Action Coalition in gathering information on homeless women’s needs with the potential to affect positive change in policy. In 2005, we developed a national study of best practices in homeless women’s services. In 2011, DWC was deemed “Organization of the Year” by the Los Angeles Business Journal and was granted the Los Angeles Conservancy Preservation Award. In 2013, we were named “Nonprofit of the Year,” by the Office of the Governor and California Volunteers. "
-body_class: blueberry
+body_class: banana
 organization_name: Downtown Women's Center
 published: true
 

@@ -17,7 +17,7 @@ project_summary: >-
 Please specify below: >-
   Studio City, North Hollywood, Hollywood, W. Los Angeles: schools located near
   movie and TV studios
-category: create
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Through an innovative literacy program building on successes showing young
   people motivated by creative expression through script writing, Entertainment
@@ -249,6 +249,28 @@ maker_answers:
     for High Schools throughout Los Angeles, with the increased size dependent
     on podcasts and Skype modes of communication to allow for mentorship of many
     students.
+  Where will you be working?:
+    - San Fernando Valley
+    - Westside
+    - LAUSD
+    - >-
+      Studio City, North Hollywood, Hollywood, W. Los Angeles: schools located
+      near movie and TV studios
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+    - Adapt college model to high school level and new subject matter
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -668,7 +690,7 @@ maker_answers_list:
       scale program for High Schools throughout Los Angeles, with the increased
       size dependent on podcasts and Skype modes of communication to allow for
       mentorship of many students.
-body_class: banana
+body_class: blueberry
 organization_name: 'Entertainment Industries Council, Inc.'
 published: true
 

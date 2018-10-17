@@ -13,7 +13,7 @@ project_summary: >-
   water quality safety standards are exceeded. This information will be
   developed into a public awareness campaign.
 Please specify below: ''
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   This project will focus on the positive health impacts of water-based
   recreation, and the negative impacts pollution can have on streams and human
@@ -202,6 +202,20 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We plan to scale the success of this program in a number of ways, via effective phasing a measuring success at each phase and via small-scale demonstrations.\r\n\r\nThis project is envisioned in three Phases: Phase I is scoping of the issue and workgroup engagement; Phase II is comprised of studies that link stream health to human health (epidemiological studies); and Phase III is making the changes (communications and awareness campaign). The 100k from the LA2050 grant will be used to develop the planning and communication piece of this effort. The success of the planning piece is critical to developing an effective communication and awareness campaign for stream-based water recreation activities. This efforts must have the full support of land mangers, public health agencies, and the public at large, The outcomes derived at Phase I will dictate the direction of the subsequent phases.\r\n\r\nBased on outcomes from the planning, this program will first be piloted at a small number of known swim sites in the LA River Watershed to develop a process for how this can be done at a larger regional scale. Over time, as success is measured, the program can be scaled up to include a larger portion of the LA River watershed, then the San Gabriel River Watershed, and eventually, the entire San Gabriel Mountains National Monument. We will start small and grow the program over time. \r\n\r\nAs an organization, the Council for Watershed Health values results based on applied research and analysis that inform policy change and lead to a more sustainable southern California region from the perspective of water quality and quantity management.  Our program is unique in that it addresses diverse themes such as urban stormwater, watershed coordination, watershed monitoring, and the promotion of sustainable landscapes.  Having access to multiple lines of information increases our ability to integrate various sectors and effectively carry out our core mission. This includes  providing leadership, guidance, and assistance to other agencies and organizations to affect sound watershed planning and management, promoting better coordination and integration of watershed monitoring while measuring and tracking progress towards achieving healthier watersheds for humans and fostering a more sustainable regional landscape ethic for Los Angeles.\r\n"
+  Where will you be working?:
+    - Central LA
+    - San Gabriel Valley
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Obesity rates
+    - Acres and miles of polluted waterways
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -609,7 +623,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We plan to scale the success of this program in a number of ways, via effective phasing a measuring success at each phase and via small-scale demonstrations.\r\n\r\nThis project is envisioned in three Phases: Phase I is scoping of the issue and workgroup engagement; Phase II is comprised of studies that link stream health to human health (epidemiological studies); and Phase III is making the changes (communications and awareness campaign). The 100k from the LA2050 grant will be used to develop the planning and communication piece of this effort. The success of the planning piece is critical to developing an effective communication and awareness campaign for stream-based water recreation activities. This efforts must have the full support of land mangers, public health agencies, and the public at large, The outcomes derived at Phase I will dictate the direction of the subsequent phases.\r\n\r\nBased on outcomes from the planning, this program will first be piloted at a small number of known swim sites in the LA River Watershed to develop a process for how this can be done at a larger regional scale. Over time, as success is measured, the program can be scaled up to include a larger portion of the LA River watershed, then the San Gabriel River Watershed, and eventually, the entire San Gabriel Mountains National Monument. We will start small and grow the program over time. \r\n\r\nAs an organization, the Council for Watershed Health values results based on applied research and analysis that inform policy change and lead to a more sustainable southern California region from the perspective of water quality and quantity management.  Our program is unique in that it addresses diverse themes such as urban stormwater, watershed coordination, watershed monitoring, and the promotion of sustainable landscapes.  Having access to multiple lines of information increases our ability to integrate various sectors and effectively carry out our core mission. This includes  providing leadership, guidance, and assistance to other agencies and organizations to affect sound watershed planning and management, promoting better coordination and integration of watershed monitoring while measuring and tracking progress towards achieving healthier watersheds for humans and fostering a more sustainable regional landscape ethic for Los Angeles.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: Council for Watershed Health
 published: true
 

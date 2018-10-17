@@ -13,7 +13,7 @@ project_summary: >-
   schools, we will reach 830 students annually with our rigorous water safety,
   swimming instruction and competitive program.
 Please specify below: ''
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The Trojan Swim Club (TSC) Outreach Program was created as a direct response
   to the racial and socioeconomic barriers that contribute to the disparate rate
@@ -283,6 +283,22 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Following the success of our proposed expansion in 2016, we plan to continue growing our program and maximizing our outreach, accompanied by the development of organizational capacity and partnerships necessary to support this growth.\r\n\r\nOnly after maximizing capacity at our existing program sites - by increasing enrollment and instructional hours - will we continue our expansion to include new sites at partner schools. At present, there are an additional eight new LAUSD high schools with pools, many currently under-utilized, that are ideal sites for program expansion, allowing us to reach an even larger low-income population. \r\n\r\nIn order to scale our project’s success, we must ensure we have the resources necessary to  sustain the proposed program expansion for years to come. This includes continuing to build relationships and cultivate partnerships with organizations that share and our goals  and complement our work such as the Los Angeles Education Partnership, Youth Policy Institute, Board of Education, Los Angeles Unified School District, Joint Use Moving People to Play task force at the Los Angeles County Department of Public Health, Division of Chronic Disease and Injury Prevention, while simultaneously developing our organizational capacity and infrastructure."
+  Where will you be working?:
+    - Central LA
+    - South LA
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+  How will your proposal improve the following “Play” metrics?:
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -666,7 +682,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Following the success of our proposed expansion in 2016, we plan to continue growing our program and maximizing our outreach, accompanied by the development of organizational capacity and partnerships necessary to support this growth.\r\n\r\nOnly after maximizing capacity at our existing program sites - by increasing enrollment and instructional hours - will we continue our expansion to include new sites at partner schools. At present, there are an additional eight new LAUSD high schools with pools, many currently under-utilized, that are ideal sites for program expansion, allowing us to reach an even larger low-income population. \r\n\r\nIn order to scale our project’s success, we must ensure we have the resources necessary to  sustain the proposed program expansion for years to come. This includes continuing to build relationships and cultivate partnerships with organizations that share and our goals  and complement our work such as the Los Angeles Education Partnership, Youth Policy Institute, Board of Education, Los Angeles Unified School District, Joint Use Moving People to Play task force at the Los Angeles County Department of Public Health, Division of Chronic Disease and Injury Prevention, while simultaneously developing our organizational capacity and infrastructure."
-body_class: blueberry
+body_class: strawberry
 organization_name: Trojan Swim Club
 published: true
 

@@ -11,7 +11,7 @@ project_summary: >-
   information about events and help coordinate large-scale community-based
   initiatives. 
 Please specify below: Arts District
-category: live
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -123,6 +123,37 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The success of Impact Hub Los Angeles' Digital District is based, first and foremost on the number of users that participate in the full process of the Digital District: to message the millennial community of the Arts District on local issues relevant to them, providing a physical space for town hall like meetings, and a path towards leading their own community based initiative. Based on use and responsiveness of the digital district, it will expand and into neighboring communities such as Boyle Heights and Little Tokyo,  expanding exposure of local and community organizations. As more of the area becomes connected to this civic network, greater exposure of community based events and local initiatives will become available to a greater portion of angelenos as well as potentially laying a foundation for public wifi programs across the county.\r\n\r\n"
+  Where will you be working?:
+    - 'Arts District '
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Implement and track policy
+    - >-
+      Provide a coordinated mobile infrastructure for large-scale
+      community-based initiatives 
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -535,7 +566,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The success of Impact Hub Los Angeles' Digital District is based, first and foremost on the number of users that participate in the full process of the Digital District: to message the millennial community of the Arts District on local issues relevant to them, providing a physical space for town hall like meetings, and a path towards leading their own community based initiative. Based on use and responsiveness of the digital district, it will expand and into neighboring communities such as Boyle Heights and Little Tokyo,  expanding exposure of local and community organizations. As more of the area becomes connected to this civic network, greater exposure of community based events and local initiatives will become available to a greater portion of angelenos as well as potentially laying a foundation for public wifi programs across the county.\r\n\r\n"
-body_class: lime
+body_class: tangerine
 organization_name: 'Impact Hub Los Angeles '
 published: true
 

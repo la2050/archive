@@ -163,6 +163,23 @@ maker_answers:
     efforts will continue, the grant from LA2050 will accelerate that process
     and, most importantly, make the program available to LA County sites who
     want it but are unable to afford even $1,667 per year in fees.
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

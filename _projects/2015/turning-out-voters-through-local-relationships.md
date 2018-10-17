@@ -13,7 +13,7 @@ project_summary: >-
   congregations-- AND their neighbors--it will shift the electorate towards a
   more representative, inclusive county. 
 Please specify below: 'Long Beach, Watts'
-category: none
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -157,6 +157,31 @@ maker_answers:
     election cycle. Our local leaders will be even more prepared to train new
     leaders and turn out their communities, and we will be able to expand our
     congregational leadership base to increase our geographic reach. 
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - 'Long Beach, Watts'
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Develop local leadership and power
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -597,7 +622,7 @@ maker_answers_list:
       each election cycle. Our local leaders will be even more prepared to train
       new leaders and turn out their communities, and we will be able to expand
       our congregational leadership base to increase our geographic reach. 
-body_class: strawberry
+body_class: tangerine
 organization_name: LA Voice
 published: true
 

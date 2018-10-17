@@ -13,7 +13,7 @@ project_summary: >-
   program of events focused on the creation of culinary projects and
   performances initiated by participating artists.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   While LA has always been a go-to destination for the art world, there has been
   a shift in the international community of artists from across the world that
@@ -241,6 +241,33 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Moving Museum aims to make long-term impressions through temporary interventions, with an experimental format that responds in a unique way to each local context.\r\n \r\nAlthough Los Angeles has a wealth of artists and enterprising start-ups, the city is populated with culturally disparate social and ethnic islands and the current arts activities tend to be independently produced. As the city enters the 21st century, there is a real and pressing opportunity to connect these local communities with each other within an international context to encourage collaborations between these pockets of the city, with other industries, cultures and voices and exchange ideas from leading artistic voices around the world.\r\n\r\nThe Moving Museum will continue to advocate for Los Angeles as a visionary city at the forefront of artistic ingenuity and will draw on this newly positioned global arts hub, to cultivate and re-define the contemporary art landscape.\r\n\r\nFollowing the residency, public program and exhibition period we would hope that a number of the discussions, commissioned works and other projects initiated would continue to develop and be taken on by future partners, collaborators and the local community. Inspiring a new generation of residency models, artist networks and spaces to take the lead, we would see outside industries attracted by the scope to collaborate and drive their presence through artistic innovation and ideas.\r\n\r\nWe would develop our online platform to provide an opportunity for continuing the development of digital and interactive works as well as host webcast talks built from topics addressed during the project to extend on LA’s influence with an online audience as an increasingly important arena for the arts.\r\n\r\nUltimately, the success of this project would be used as a model example of how to transform artistic communities in other cities that desperately require a program of this nature to survive, evolve and become part of the global dialogue."
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -651,7 +678,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Moving Museum aims to make long-term impressions through temporary interventions, with an experimental format that responds in a unique way to each local context.\r\n \r\nAlthough Los Angeles has a wealth of artists and enterprising start-ups, the city is populated with culturally disparate social and ethnic islands and the current arts activities tend to be independently produced. As the city enters the 21st century, there is a real and pressing opportunity to connect these local communities with each other within an international context to encourage collaborations between these pockets of the city, with other industries, cultures and voices and exchange ideas from leading artistic voices around the world.\r\n\r\nThe Moving Museum will continue to advocate for Los Angeles as a visionary city at the forefront of artistic ingenuity and will draw on this newly positioned global arts hub, to cultivate and re-define the contemporary art landscape.\r\n\r\nFollowing the residency, public program and exhibition period we would hope that a number of the discussions, commissioned works and other projects initiated would continue to develop and be taken on by future partners, collaborators and the local community. Inspiring a new generation of residency models, artist networks and spaces to take the lead, we would see outside industries attracted by the scope to collaborate and drive their presence through artistic innovation and ideas.\r\n\r\nWe would develop our online platform to provide an opportunity for continuing the development of digital and interactive works as well as host webcast talks built from topics addressed during the project to extend on LA’s influence with an online audience as an increasingly important arena for the arts.\r\n\r\nUltimately, the success of this project would be used as a model example of how to transform artistic communities in other cities that desperately require a program of this nature to survive, evolve and become part of the global dialogue."
-body_class: blueberry
+body_class: banana
 organization_name: The Moving Museum
 published: true
 

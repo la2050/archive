@@ -12,7 +12,7 @@ project_summary: >-
   community a serene after school environment  where they will be empowered to
   pursue their educational goals. 
 Please specify below: 'Casa Libre, Westlake, L.A County'
-category: 00playlive
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Casa libre intends to make Los Angeles not only a better, but THE BEST place
   to learn by providing a safe, and empowering environment along with dedicated
@@ -207,6 +207,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The success of our proposal will be determined by the occupancy and retention rate of our students. \r\n\r\nOur maximum capacity will be 30 students, and we will strive to achieve an average of 75% capacity (22 students per day) throughout the year. \r\n\r\nWe will also have additional target goals like number of students to apply to higher learning and success measures such as indivicusl improved GPA. "
+  Where will you be working?:
+    - 'Casa Libre, Westlake, L.A County'
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -618,7 +642,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The success of our proposal will be determined by the occupancy and retention rate of our students. \r\n\r\nOur maximum capacity will be 30 students, and we will strive to achieve an average of 75% capacity (22 students per day) throughout the year. \r\n\r\nWe will also have additional target goals like number of students to apply to higher learning and success measures such as indivicusl improved GPA. "
-body_class: strawberry
+body_class: blueberry
 organization_name: Casa Libre
 published: true
 

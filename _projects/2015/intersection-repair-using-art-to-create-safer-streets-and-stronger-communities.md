@@ -14,7 +14,7 @@ project_summary: >-
   into places for people, making them safer and uniting neighbors through a
   common sense of ownership of and pride in their neighborhood.
 Please specify below: 'The Hub, Utopiad office in Solano Canyon'
-category: 0createplay0
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -117,6 +117,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: Partnership on events
   How do you plan to scale the success of your proposal?: "In the near term, all of our plazas will contain easily accessible information (both online and off) encouraging people to get involved and bring similar treatments to their own communities. We will partner with existing organizations such as LACBC, LA Walks, CicLAvia, Frogspot, and LA Más to develop a mailing list and curate an ecosystem of dialog with interested people.\r\n\r\nSimilar to what was done in Portland, we want to create a formalized process within the city so that neighborhoods across Los Angeles can initiate their own implementations and strengthen community in their neighborhoods. We’ll use the compelling data we collect to present the increased traffic safety, decreased crime, and increased pedestrian activity to the city, and work with local council members to make intersection repair fast and easy for any communities that want to try it."
+  Where will you be working?:
+    - Central LA
+    - City of Los Angeles
+    - 'The Hub, Utopiad office in Solano Canyon'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - Provide open data
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Attendance at major league sporting events
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

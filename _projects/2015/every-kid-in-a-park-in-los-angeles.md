@@ -13,7 +13,7 @@ project_summary: >-
   access to parks and connecting diverse youth to new recreational and
   educational opportunities are major program goals.
 Please specify below: ''
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The Every Kid in a Park Initiative in Los Angeles will make LA the best place
   to play by providing at least 8,000 fourth graders in Los Angeles with
@@ -183,6 +183,17 @@ maker_answers:
     as we move into the second year of Every Kid in a Park during the 2016-2017
     school year. We will scale up the initiative as we raise funds to provide
     additional transportation grants.
+  Where will you be working?:
+    - County of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -569,7 +580,7 @@ maker_answers_list:
       best as we move into the second year of Every Kid in a Park during the
       2016-2017 school year. We will scale up the initiative as we raise funds
       to provide additional transportation grants.
-body_class: blueberry
+body_class: strawberry
 organization_name: National Park Foundation
 published: true
 

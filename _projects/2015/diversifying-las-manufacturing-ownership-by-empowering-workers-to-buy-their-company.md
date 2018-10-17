@@ -11,7 +11,7 @@ project_summary: >-
   in the process save jobs, promote investment, and help businesses get back
   into growth mode.
 Please specify below: ''
-category: none
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LA 2050 seeks to “Create in LA means of fostering entrepreneurship, cultural
   diversity, and inclusivity.” Our proposal does this in the following ways:
@@ -220,6 +220,25 @@ maker_answers:
     Outreach to donors who own small manufacturing companies, outreach to social
     impact investors
   How do you plan to scale the success of your proposal?: "We plan to scale this project first to the Southern California Region and then to the rest of the Country.  Our work has been identified by the Los Angeles providers of Workforce Services as a  Best Practice for saving Jobs. We plan to launch this initiative with these providers as a ‘demonstration program’ and based on our local success share it with the Federal Government.  \r\n\r\nOur plan is to start by deploying this program in 25 Major US Cities through the Department of Labor.\r\n\r\nWe also hope to introduce this concept to Economic Development Professionals in cities throughout California and eventually the rest of the nation.  Every city has an Office of Economic Development who we will reach through social media as we currently do on Linkedin.\r\n\r\nThe National Association of Workforce Providers is a trade group with 14,300 members nationwide that we routinely share innovations with.  This group will also scale the program nationally.  \r\n\r\nWe feel that the idea of long term employees buying the company they work for will be seen as a solution to the issue of income inequality and preserving manufacturing jobs.  These issues have already been highlighted in our nation's upcoming presidential election.\r\n"
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
+    - Engage economic development providers nationwide in this practice
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Venture capital investment
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -644,7 +663,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We plan to scale this project first to the Southern California Region and then to the rest of the Country.  Our work has been identified by the Los Angeles providers of Workforce Services as a  Best Practice for saving Jobs. We plan to launch this initiative with these providers as a ‘demonstration program’ and based on our local success share it with the Federal Government.  \r\n\r\nOur plan is to start by deploying this program in 25 Major US Cities through the Department of Labor.\r\n\r\nWe also hope to introduce this concept to Economic Development Professionals in cities throughout California and eventually the rest of the nation.  Every city has an Office of Economic Development who we will reach through social media as we currently do on Linkedin.\r\n\r\nThe National Association of Workforce Providers is a trade group with 14,300 members nationwide that we routinely share innovations with.  This group will also scale the program nationally.  \r\n\r\nWe feel that the idea of long term employees buying the company they work for will be seen as a solution to the issue of income inequality and preserving manufacturing jobs.  These issues have already been highlighted in our nation's upcoming presidential election.\r\n"
-body_class: strawberry
+body_class: banana
 organization_name: Concerned Capital
 published: true
 

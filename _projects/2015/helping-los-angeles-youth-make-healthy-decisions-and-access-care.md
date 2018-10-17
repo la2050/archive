@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   PPLA’s comprehensive work with high school-aged youth takes place primarily in
   South L.A. and Boyle Heights high schools.
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Affordable reproductive health services and education remain out of reach for
   many teens in L.A. Pregnancy is the leading cause of high school dropout, and
@@ -302,6 +302,34 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We currently provide our full range of High School programs in over 30 high schools across L.A. County. We have 66 trained Peer Advocates across 6 schools in Boyle Heights (Roosevelt High School, Mendez High School, and Hollywood High School) and South Los Angeles (King Drew Medical Magnet High School, Animo Pat Brown Charter High School, and Ralph Bunche High School). In 2015, we saw the incorporation of one additional school- Hollywood High School- to the Peer Advocates program.\r\n\r\nIn order to scale the success of our proposal, PPLA aims to do the following:\r\n\r\n-Continue to elevate the youth voice by working with Peer Advocates to create and disseminate original social media content.\r\n\r\n-Engage Peer Advocates in activities of the District 2 STD Collaborative, the Community Advisory Coalition, which aims to decrease the high rates of Gonorrhea and Chlamydia among youth of color in South Los Angeles. \r\n\r\n-Work with Peer Advocates to get articles published in local online newspapers, such as the Boyle Heights Beat and the LA Times.\r\n\r\nOn a broader scale, PPLA is currently in the process of leveraging the results of rigorous research on our sexual education programs by engaging the voice of our Peer Advocates to promote access to comprehensive, rights-based, gender aware sexuality education and services for their friends, communities and teens across the country. PPLA will strengthen the youth voice to influence and advance the public conversation around comprehensive sexuality education via: \r\n\r\n-Strategic communications/social media targeting youth, parents, colleague agencies, school administration and other key decision makers.\r\n\r\n-Youth and parental engagement and creation of a cohort of advocates and leaders around comprehensive sexuality education. \r\n\r\nPPLA will utilize the program evaluation results to influence the public conversation and increase policymaker support of comprehensive sexuality education via: \r\n\r\n-Policy analysis and recommendations to local and national audiences; \r\n\r\n-Local and national dissemination and communications activities and\r\n \r\n-Publication of the research results in a variety of fora. \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      PPLA’s comprehensive work with high school-aged youth takes place
+      primarily in South L.A. and Boyle Heights high schools. 
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - 'Impact decision making among teens. '
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -761,7 +789,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We currently provide our full range of High School programs in over 30 high schools across L.A. County. We have 66 trained Peer Advocates across 6 schools in Boyle Heights (Roosevelt High School, Mendez High School, and Hollywood High School) and South Los Angeles (King Drew Medical Magnet High School, Animo Pat Brown Charter High School, and Ralph Bunche High School). In 2015, we saw the incorporation of one additional school- Hollywood High School- to the Peer Advocates program.\r\n\r\nIn order to scale the success of our proposal, PPLA aims to do the following:\r\n\r\n-Continue to elevate the youth voice by working with Peer Advocates to create and disseminate original social media content.\r\n\r\n-Engage Peer Advocates in activities of the District 2 STD Collaborative, the Community Advisory Coalition, which aims to decrease the high rates of Gonorrhea and Chlamydia among youth of color in South Los Angeles. \r\n\r\n-Work with Peer Advocates to get articles published in local online newspapers, such as the Boyle Heights Beat and the LA Times.\r\n\r\nOn a broader scale, PPLA is currently in the process of leveraging the results of rigorous research on our sexual education programs by engaging the voice of our Peer Advocates to promote access to comprehensive, rights-based, gender aware sexuality education and services for their friends, communities and teens across the country. PPLA will strengthen the youth voice to influence and advance the public conversation around comprehensive sexuality education via: \r\n\r\n-Strategic communications/social media targeting youth, parents, colleague agencies, school administration and other key decision makers.\r\n\r\n-Youth and parental engagement and creation of a cohort of advocates and leaders around comprehensive sexuality education. \r\n\r\nPPLA will utilize the program evaluation results to influence the public conversation and increase policymaker support of comprehensive sexuality education via: \r\n\r\n-Policy analysis and recommendations to local and national audiences; \r\n\r\n-Local and national dissemination and communications activities and\r\n \r\n-Publication of the research results in a variety of fora. \r\n"
-body_class: strawberry
+body_class: lime
 organization_name: Planned Parenthood Los Angeles (PPLA)
 published: true
 

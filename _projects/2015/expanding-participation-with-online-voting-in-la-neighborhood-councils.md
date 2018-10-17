@@ -11,7 +11,7 @@ project_summary: >-
   recommendations and best practices for maximizing participation in future
   online elections in LA that become a model for cities around the country.
 Please specify below: ''
-category: none
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We are planning a study of the planning, implementation, and effectiveness of
   the online voting option for Los Angeles Neighborhood Councils. Using surveys
@@ -194,6 +194,27 @@ maker_answers:
     we will work with EmpowerLA to distribute best practices and conduct
     training with neighborhood councils if and when the pilot expands in future
     years. 
+  Where will you be working?:
+    - Central LA
+    - South LA
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -624,7 +645,7 @@ maker_answers_list:
       and we will work with EmpowerLA to distribute best practices and conduct
       training with neighborhood councils if and when the pilot expands in
       future years. 
-body_class: strawberry
+body_class: tangerine
 organization_name: Civic Tech USC
 published: true
 

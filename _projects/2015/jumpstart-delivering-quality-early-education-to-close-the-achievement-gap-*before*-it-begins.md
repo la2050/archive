@@ -18,7 +18,7 @@ Please specify below: >-
   Jumpstart provides high quality early education programming at almost fifty
   state preschools, Head Start providers, and child development centers
   throughout Los Angeles.
-category: 0createplay0
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Somewhere among today’s preschoolers sit our future presidents, scientists,
   and entrepreneurs. Yet, by virtue of living in a low-income neighborhood,
@@ -222,6 +222,36 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Growing awareness and momentum regarding the importance of early childhood education provides an unprecedented opportunity for Jumpstart to increase its reach and impact. Our strategic priorities are to enrich the learning experiences of children from low-income communities; cultivate a high quality early education workforce; and inspire public support and investment in high quality early learning. \r\n\r\nTo take advantage of the opportunities before us and realize our strategic priorities, Jumpstart commits to deepening and expanding the knowledge and capacity of our staff, and ensuring that the children we serve and the Corps members we work with receive the best possible opportunities to learn and to lead. We seek to grow our program, particularly in the communities of South LA and East LA, where demand for our services is especially high. \r\n\r\nKnowledge of Jumpstart’s operating model is made explicit to every program site. Each site uses the same tools to track key performance data and implements the same pre-designed curriculum, which standardizes the classroom instruction process into teachable routines while still leaving a degree of latitude for individual customization as needed by the site or the child. This standardization has been instrumental in enabling the replication of the Jumpstart program across the Los Angeles region. \r\n\r\nJumpstart operates on a licensee model, which leverages partner universities’ existing fixed-cost infrastructures and financial resources for more cost-effective scaling. Jumpstart plans to grow its program first at established university sites with a history of success, and then seek further opportunities to begin new sites after establishing a clear theory of change and confirmed support from key players at our partner universities, preschools, and school districts. \r\n\r\nMeetings between Jumpstart’s program leadership, our partner preschools and partner universities, and prospective new partners occur on an on-going basis. The conditions for success and program goals for Jumpstart’s 2015-16 program year have already been determined. Thanks to the efforts of our site managers at California State University, Dominguez Hills; California State University, Los Angeles; and the Los Angeles Community Corps, recruitment and training of Corps members have already begun, and Jumpstart is currently taking measurable steps toward program expansion in the South LA and East LA regions."
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      Jumpstart provides high quality early education programming at almost
+      fifty state preschools, Head Start providers, and child development
+      centers throughout Los Angeles.  
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -615,7 +645,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Growing awareness and momentum regarding the importance of early childhood education provides an unprecedented opportunity for Jumpstart to increase its reach and impact. Our strategic priorities are to enrich the learning experiences of children from low-income communities; cultivate a high quality early education workforce; and inspire public support and investment in high quality early learning. \r\n\r\nTo take advantage of the opportunities before us and realize our strategic priorities, Jumpstart commits to deepening and expanding the knowledge and capacity of our staff, and ensuring that the children we serve and the Corps members we work with receive the best possible opportunities to learn and to lead. We seek to grow our program, particularly in the communities of South LA and East LA, where demand for our services is especially high. \r\n\r\nKnowledge of Jumpstart’s operating model is made explicit to every program site. Each site uses the same tools to track key performance data and implements the same pre-designed curriculum, which standardizes the classroom instruction process into teachable routines while still leaving a degree of latitude for individual customization as needed by the site or the child. This standardization has been instrumental in enabling the replication of the Jumpstart program across the Los Angeles region. \r\n\r\nJumpstart operates on a licensee model, which leverages partner universities’ existing fixed-cost infrastructures and financial resources for more cost-effective scaling. Jumpstart plans to grow its program first at established university sites with a history of success, and then seek further opportunities to begin new sites after establishing a clear theory of change and confirmed support from key players at our partner universities, preschools, and school districts. \r\n\r\nMeetings between Jumpstart’s program leadership, our partner preschools and partner universities, and prospective new partners occur on an on-going basis. The conditions for success and program goals for Jumpstart’s 2015-16 program year have already been determined. Thanks to the efforts of our site managers at California State University, Dominguez Hills; California State University, Los Angeles; and the Los Angeles Community Corps, recruitment and training of Corps members have already begun, and Jumpstart is currently taking measurable steps toward program expansion in the South LA and East LA regions."
-body_class: strawberry
+body_class: blueberry
 organization_name: 'Jumpstart For Young Children, Inc.'
 published: true
 

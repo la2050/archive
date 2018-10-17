@@ -13,7 +13,7 @@ project_summary: >-
   curriculum in order to equip youth with the skills necessary to work towards
   more just education systems.
 Please specify below: ''
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   FREE LA High School is a safe haven and alternative education program in South
   Los Angeles that supports system-involved youth, ages 16-24, in obtaining high
@@ -202,6 +202,28 @@ maker_answers:
     district-wide increases in graduation and college matriculation rates as
     well as decreased youth involvement with law enforcement and the juvenile
     justice system.
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - Suspension and expulsion rates (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -616,7 +638,7 @@ maker_answers_list:
       to see district-wide increases in graduation and college matriculation
       rates as well as decreased youth involvement with law enforcement and the
       juvenile justice system.
-body_class: strawberry
+body_class: blueberry
 organization_name: Youth Justice Coalition
 published: true
 

@@ -10,7 +10,7 @@ project_summary: "o educate at risk youth about the risks and consequences of di
 Please specify below: >-
   Various High Schools, Colleges, and Universities throughout Los Angeles
   County.
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   KASIF will provide educational training, counseling services and resources to
   help young people thrive and survive through positive, productive outreach;
@@ -203,6 +203,33 @@ maker_answers:
     success of my proposal, and make the necessary adjustments when those same
     experts deem it necessary to accomplish the greatest degree of impact and
     effectiveness.
+  Where will you be working?:
+    - Westside
+    - County of Los Angeles
+    - City of Los Angeles
+    - >-
+      Various High Schools, Colleges, and Universities throughout Los Angeles
+      County.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - >-
+      Marketing, advertising, to bring substantially greater awareness to the
+      social ills my non profit addresses.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Obesity rates
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -632,7 +659,7 @@ maker_answers_list:
       the success of my proposal, and make the necessary adjustments when those
       same experts deem it necessary to accomplish the greatest degree of impact
       and effectiveness.
-body_class: strawberry
+body_class: lime
 organization_name: Keith A. Somers International Foundation
 published: true
 

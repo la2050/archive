@@ -13,7 +13,7 @@ project_summary: >-
   Angelenos by restoring a sense of civic pride and strengthening LA’s ‘brand’
   identity throughout the world at large.
 Please specify below: ''
-category: 0createplay0
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles is currently undergoing an incredible transformation: Development
   is booming, neighborhoods are thriving, and the very heart of our city is
@@ -201,6 +201,27 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The first step will be to produce the campaign video and advertising materials.\r\n\r\nThen, we will review all upcoming events and advertising opportunities in Los Angeles throughout the next 6 to 8 months and budget for those.\r\n\r\nThe rest of the funds will be allocated on a month-to-month basis based on the conversion rates we get through the various advertising outlets. We’ll start small in advertising pockets, and determine which markets and platforms are most successful and scale our budget accordingly. \r\n\r\nShould the city accept our proposal before our entire budget is spent, the remainder of the funds will go towards increasing enthusiasm and support for the new, redesigned LA flag!\r\n"
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -623,7 +644,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The first step will be to produce the campaign video and advertising materials.\r\n\r\nThen, we will review all upcoming events and advertising opportunities in Los Angeles throughout the next 6 to 8 months and budget for those.\r\n\r\nThe rest of the funds will be allocated on a month-to-month basis based on the conversion rates we get through the various advertising outlets. We’ll start small in advertising pockets, and determine which markets and platforms are most successful and scale our budget accordingly. \r\n\r\nShould the city accept our proposal before our entire budget is spent, the remainder of the funds will go towards increasing enthusiasm and support for the new, redesigned LA flag!\r\n"
-body_class: strawberry
+body_class: tangerine
 organization_name: Los Angeles Flag
 published: true
 

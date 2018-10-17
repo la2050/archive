@@ -13,7 +13,7 @@ project_summary: >-
   glassing + storytelling.  Working with Marko Foam, E-tech, and Entropy Resin,
   we will show how this transformative process works. 
 Please specify below: 'Looking also at Hawthorne, DTLA or near USC Campus.'
-category: all
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   E3 Surf Craft's E-tech Glassing + surfboards (http://www.etechsurf.com)
   featuring co-founder Ryan Harris, is the first African American led, LA based
@@ -285,6 +285,28 @@ maker_answers:
     need for conservation.  Enabling the EcoBoard project to be modular helps
     and the project itself is scalable in nature by its original design and
     resources.  
+  Where will you be working?:
+    - Westside
+    - South Bay
+    - 'Looking also at Hawthorne, DTLA or near USC Campus. '
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Expand a pilot or a program
+    - Mobilize for systems change
+    - >-
+      As a working prototype, with an installed base of 10k EcoBoard Project
+      consumers we will continue to educate, train and promote sustainable
+      practices in what continues to be a very toxic environment, that is ripe
+      for an eco-transformation.  
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Concentration of manufacturing activity in LA
+    - Minority- and women-owned firms
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -755,7 +777,7 @@ maker_answers_list:
       ocean related activities and the need for conservation.  Enabling the
       EcoBoard project to be modular helps and the project itself is scalable in
       nature by its original design and resources.  
-body_class: strawberry
+body_class: banana
 organization_name: Sustainablesurf.org
 published: true
 

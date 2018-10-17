@@ -12,7 +12,7 @@ project_summary: >-
   school and high school students on the path towards their college and career
   goals.
 Please specify below: ''
-category: play
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The COLLEGE ACCESS INITIATIVE will make LA the best place to learn by
   improving the academic outcomes of youth. We will improve grades, increase
@@ -277,6 +277,28 @@ maker_answers:
     Development Professionals at each site. However, we are confident we will
     sustain the College Access Initiative to serve thousands of youth in Carson
     and South Los Angeles.
+  Where will you be working?:
+    - South LA
+    - South Bay
+    - LAUSD
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -696,7 +718,7 @@ maker_answers_list:
       Development Professionals at each site. However, we are confident we will
       sustain the College Access Initiative to serve thousands of youth in
       Carson and South Los Angeles.
-body_class: strawberry
+body_class: blueberry
 organization_name: Boys & Girls Clubs of Carson
 published: true
 

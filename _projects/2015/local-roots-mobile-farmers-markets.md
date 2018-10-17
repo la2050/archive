@@ -12,7 +12,7 @@ project_summary: >-
   the public about healthy eating, eradicating food deserts, combating obesity,
   and providing increased healthy food access in low-income neighborhoods.
 Please specify below: ''
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Local Roots’ Mission is to provide everyone access to fresh, healthy, and
   affordable locally-grown produce! We’ve spent the past two years designing and
@@ -282,6 +282,32 @@ maker_answers:
     opportunities to help other entrepreneurs and/or foundations leverage our
     farming technologies to replicate the model more quickly than we ourselves
     can scale.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -715,7 +741,7 @@ maker_answers_list:
       opportunities to help other entrepreneurs and/or foundations leverage our
       farming technologies to replicate the model more quickly than we ourselves
       can scale.
-body_class: blueberry
+body_class: lime
 organization_name: Local Roots
 published: true
 

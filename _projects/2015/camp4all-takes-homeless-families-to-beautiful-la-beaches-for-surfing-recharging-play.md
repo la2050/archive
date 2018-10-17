@@ -13,7 +13,7 @@ project_summary: >-
   beautiful SoCal environment. Camp4All shows that LA loves to play in the most
   innovative, fun way possible.
 Please specify below: LA residents from cunty homeless shelters
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The Children’s Lifesaving Foundation’s Camp4All Summer Enrichment Program for
   homeless and at-risk youth will provide over 550 homeless, shelter-bound and
@@ -225,6 +225,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: Helping with fundraising events specific to this program
   How do you plan to scale the success of your proposal?: "The CLF plans to scale this Camp4All Program, both by leveraging our social media through this LA2050 grant, as well as use these new funds as an opportunity to serve 500 more ADDITIONAL homeless participants. It would also be amazing to replicate it in Ventura County as well, eventually, and to also add more camps during the Spring season.\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - Westside
+    - County of Los Angeles
+    - LA residents from cunty homeless shelters
+  How do you plan to use these resources to make change?:
+    - Take an additional 500 homeless "campers" through our Camp4All Program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -642,7 +659,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The CLF plans to scale this Camp4All Program, both by leveraging our social media through this LA2050 grant, as well as use these new funds as an opportunity to serve 500 more ADDITIONAL homeless participants. It would also be amazing to replicate it in Ventura County as well, eventually, and to also add more camps during the Spring season.\r\n"
-body_class: blueberry
+body_class: strawberry
 organization_name: The Children's Lifesaving Foundation
 published: true
 

@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   North East LA/Elysian Valley (Frogtown), Dorris Place Elemenary, Allesandro
   Elementary
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Walking down any street in Elysian Valley, one finds vegetable gardens
   overflowing with Chinese Winter Melon, families eating in front yards laden
@@ -205,6 +205,34 @@ maker_answers:
     scale back the mode of documentation, and focus on capturing residents and
     their homes and businesses through photographs and text, and limit the
     number of on-camera interviews.
+  Where will you be working?:
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      North East LA/Elysian Valley (Frogtown), Dorris Place Elemenary,
+      Allesandro Elementary
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - >-
+      Put faces to the Elysian Valley "parcels & properties" being sought by
+      investors.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -623,7 +651,7 @@ maker_answers_list:
       scale back the mode of documentation, and focus on capturing residents and
       their homes and businesses through photographs and text, and limit the
       number of on-camera interviews.
-body_class: blueberry
+body_class: tangerine
 organization_name: Smart Gals Productions
 published: true
 

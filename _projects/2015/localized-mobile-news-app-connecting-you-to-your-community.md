@@ -11,7 +11,7 @@ project_summary: >-
   informs.  Gone are the days of information overload and irrelevant articles...
   it's time to view the news like never before!
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our app will increase civic engagement by making local information more
   accessible, relevant and helpful than ever before.
@@ -203,6 +203,30 @@ maker_answers:
     implementation. A targeting social media campaign will be created to attain
     early users. In addition to social media staff will engage and promote the
     app at  Farmers Markets, Cultural Centers and Co-working spaces.
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -622,7 +646,7 @@ maker_answers_list:
       attain early users. In addition to social media staff will engage and
       promote the app at  Farmers Markets, Cultural Centers and Co-working
       spaces.
-body_class: blueberry
+body_class: tangerine
 organization_name: Ruckus Projects
 published: true
 

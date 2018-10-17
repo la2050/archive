@@ -187,6 +187,20 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "This proposal will help us build a critical foundation to reducing truancy rates across all of our education sites. \r\nBeyond our Para Los Ninos education sites, best practices of our approach can be shared with other schools in Los Angeles.\r\n\r\nBecause Attorney General Kamala D. Harris has made truancy a priority issue since her time as San Francisco’s District Attorney, and the mandate to address pupil engagement is a key state priority that must be included in all Local Control Accountability Plans (LCAPs), we can share our best practices of this approach with schools outside of our Para Los Ninos education sites. The parent engagement and leadership networks that will be developed throughout the neighborhoods where our families live will facilitate broad communication of success stories that can be accessed at other schools in those communities. "
+  Where will you be working?:
+    - East LA
+    - South LA
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

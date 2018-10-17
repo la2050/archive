@@ -14,7 +14,7 @@ project_summary: >-
   daily life wellness practices that benefit and maintain their physical,
   mental, emotional and life-philosophy health. 
 Please specify below: ''
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Dharma Health Institute offers health and wellness services, and education for
   the health culture community. Health, longevity and quality of life are a
@@ -208,6 +208,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The success of our proposal will be determined by the number of individuals that incorporate the health behaviors into their life. We have a number of quantitative metrics that will assess whether people make improvements on health related measurements such as Body Mass Index, Percentage Body fat, the amount of strength increasing in their muscles, and the decrease in visceral fat. Based on the Prochaska model of Stages of Change, an individual cycles through various stages before they incorporate the lessons into their life and maintain it. We will use the Stages of Change model to develop a pre-post test survey to assess the ability of an individual to maintain the newly adopted behaviors into their life. \r\n\r\nIn addition, we will collect qualitative data in the form of personal follow up with clients to assess their mental and emotional well being as a result of their ability to cope with their illness in a healthier way. \r\n\r\nFor us as an organization, we will assess success by having the opportunity to provide integrative health services to a wider population and offer the community at large an opportunity to learn strategies and techniques to live a healthier, a more productive life and be empowered to make health decisions based on the knowledge they receive. \r\n"
+  Where will you be working?:
+    - Westside
+    - South Bay
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Education
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Obesity rates
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -612,7 +634,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The success of our proposal will be determined by the number of individuals that incorporate the health behaviors into their life. We have a number of quantitative metrics that will assess whether people make improvements on health related measurements such as Body Mass Index, Percentage Body fat, the amount of strength increasing in their muscles, and the decrease in visceral fat. Based on the Prochaska model of Stages of Change, an individual cycles through various stages before they incorporate the lessons into their life and maintain it. We will use the Stages of Change model to develop a pre-post test survey to assess the ability of an individual to maintain the newly adopted behaviors into their life. \r\n\r\nIn addition, we will collect qualitative data in the form of personal follow up with clients to assess their mental and emotional well being as a result of their ability to cope with their illness in a healthier way. \r\n\r\nFor us as an organization, we will assess success by having the opportunity to provide integrative health services to a wider population and offer the community at large an opportunity to learn strategies and techniques to live a healthier, a more productive life and be empowered to make health decisions based on the knowledge they receive. \r\n"
-body_class: strawberry
+body_class: lime
 organization_name: Dharma Health Institute
 published: true
 

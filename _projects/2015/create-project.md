@@ -224,6 +224,26 @@ maker_answers:
     classrooms already equipped with tablets, the cost of providing the app
     would be minimal for schools in comparison with the cost of textbooks and
     other print resources.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

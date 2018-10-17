@@ -13,7 +13,7 @@ project_summary: >-
   and Design Alumni, we recognize the void and plan to fulfill it through an
   established community engaged art house. 
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Our “Artist Run Space” aims to respond to the lack of opportunity, by
   magnifying these artists’ works. Our project provides a platform for young
@@ -236,6 +236,39 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Since our proposal outlines our mission to construct an “Artist-Run Space,” the first method of scaling success would be simply having a fully-functional facility, one that houses art events. Moreover, by sustaining a consistent schedule of artist showcases in our studio, our effect can be measured. The projected start date for renovations to the studio will be January 2016. Meanwhile, we will be reviewing proposals of artists with art collections that are ready to show. These candidates will have the opportunity to explain their concept, and, in addition, they will commit to leading a month-long workshop in alignment with the Dreamhaus mission to establish community engagement between artists and youth. As we reach the six-month mark, we hope to discuss the possibility of opening up the studio to displaying two artists per month in order to maintain a level of productivity in the organization. By slowly expanding the operation in this natural fashion, and growing our number of art events consistently (to compete with schedules of certain reputable museums), scaling will be self-evident.\r\n\r\nAnother phase of our plan to measure the success of our proposal is the work we will do with elementary school students. Our co-founders have a history of working with Saturn Elementary School and we would like to expand our work by holding art workshops for small groups of students. We believe that involving a younger generation of students in learning about technical and conceptual art skills will better acclimate them with their studies in school. To give an example-  in a classroom setting, we will limit students to a specific color palette where they will be instructed to create an abstract piece. Once they are finished, we will ask them to explain their thought process and the reasoning behind their creation. We will scale the success by knowing that the children have a strong grasp on conscious decision-making in the art marking process. Our hope is to help students realize the connection between their imagination and their success in everyday classroom setting (and beyond). \r\n\r\nFinally, back to the “Artist Run Space,” we hope that in five years time, Dreamhaus will be a point of reference for corporations to connect with artists. Funding from this grant challenge will allow us to work towards a better Los Angeles as a place to create, connect and live.\r\n"
+  Where will you be working?:
+    - South LA
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Number of high growth startups
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -661,7 +694,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Since our proposal outlines our mission to construct an “Artist-Run Space,” the first method of scaling success would be simply having a fully-functional facility, one that houses art events. Moreover, by sustaining a consistent schedule of artist showcases in our studio, our effect can be measured. The projected start date for renovations to the studio will be January 2016. Meanwhile, we will be reviewing proposals of artists with art collections that are ready to show. These candidates will have the opportunity to explain their concept, and, in addition, they will commit to leading a month-long workshop in alignment with the Dreamhaus mission to establish community engagement between artists and youth. As we reach the six-month mark, we hope to discuss the possibility of opening up the studio to displaying two artists per month in order to maintain a level of productivity in the organization. By slowly expanding the operation in this natural fashion, and growing our number of art events consistently (to compete with schedules of certain reputable museums), scaling will be self-evident.\r\n\r\nAnother phase of our plan to measure the success of our proposal is the work we will do with elementary school students. Our co-founders have a history of working with Saturn Elementary School and we would like to expand our work by holding art workshops for small groups of students. We believe that involving a younger generation of students in learning about technical and conceptual art skills will better acclimate them with their studies in school. To give an example-  in a classroom setting, we will limit students to a specific color palette where they will be instructed to create an abstract piece. Once they are finished, we will ask them to explain their thought process and the reasoning behind their creation. We will scale the success by knowing that the children have a strong grasp on conscious decision-making in the art marking process. Our hope is to help students realize the connection between their imagination and their success in everyday classroom setting (and beyond). \r\n\r\nFinally, back to the “Artist Run Space,” we hope that in five years time, Dreamhaus will be a point of reference for corporations to connect with artists. Funding from this grant challenge will allow us to work towards a better Los Angeles as a place to create, connect and live.\r\n"
-body_class: blueberry
+body_class: banana
 organization_name: Dreamhaus Inc.
 published: true
 

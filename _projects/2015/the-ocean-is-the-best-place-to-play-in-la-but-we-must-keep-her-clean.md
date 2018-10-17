@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   ANY school that will let us do a presentation, we will attend. For ocean
   cleanups: we are working mostly in the San Pedro Bay and off of Catalina.
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   This is a project that is already underway, but we need funding in order to
   sustain it. People move to California to be near the ocean, this is a precious
@@ -228,6 +228,27 @@ maker_answers:
     work for us in Los Angeles. There are ghost nets polluting our waters
     everywhere. We have more recent videos on Vimeo, but your application only
     seems to recognize YouTube. 
+  Where will you be working?:
+    - City of Los Angeles
+    - >-
+      ANY school that will let us do a presentation, we will attend. For ocean
+      cleanups: we are working mostly in the San Pedro Bay and off of Catalina.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Advocate with policymakers and leaders
+    - >-
+      We have already been in contact with lawmakers re: early reporting of lost
+      nets. Legislation was introduced several years ago but was vetoed. We will
+      try again, with a new Governor.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -656,7 +677,7 @@ maker_answers_list:
       is no shortage of work for us in Los Angeles. There are ghost nets
       polluting our waters everywhere. We have more recent videos on Vimeo, but
       your application only seems to recognize YouTube. 
-body_class: blueberry
+body_class: strawberry
 organization_name: 'Los Angeles Underwater Explorers; Ghost Fishing '
 published: true
 

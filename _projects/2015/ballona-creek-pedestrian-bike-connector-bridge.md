@@ -13,7 +13,7 @@ project_summary: >-
   community the ability to move north and south with existing Ballona Creek
   Bridges at Lincoln and Centinela.  
 Please specify below: 'Ballona Creek between Play Vista, Mar Vista, Marina Del Rey and Culver City.'
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   As indicated in the recent adoption of the Westside Mobility plan, there is a
   great need for alternative methods of transportation, a proposed Connector
@@ -253,6 +253,25 @@ maker_answers:
     scaled. The ability to safely bicycle our kids from Culver City, Mar Vista
     to Ballona Creek Wetlands Ecological Reserve and other Playa Vista parks
     will also be a measure of success.  
+  Where will you be working?:
+    - Westside
+    - >-
+      Ballona Creek between Play Vista, Mar Vista, Marina Del Rey and Culver
+      City.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - 'We need the resources to set up community meetings and '
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Median travel time to work
+    - Attendance at cultural events
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -699,7 +718,7 @@ maker_answers_list:
       cannot be scaled. The ability to safely bicycle our kids from Culver City,
       Mar Vista to Ballona Creek Wetlands Ecological Reserve and other Playa
       Vista parks will also be a measure of success.  
-body_class: blueberry
+body_class: tangerine
 organization_name: Tagliaferri Howard Architecture
 published: true
 

@@ -203,6 +203,23 @@ maker_answers:
     We will custom build site-specific sports to other landmarks in similar
     communities around the country to help make Watts Ball a reality in other
     cities.
+  Where will you be working?:
+    - South LA
+    - Watts Towers
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Play” metrics?:
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

@@ -126,6 +126,29 @@ maker_answers:
     additional money for the revolving loan fund, but once in place will
     continue to produce affrdable housing units and opportunities for homeless
     individuals to move to permanent housing and home ownership.
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Housing affordability
+    - Rates of homelessness
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

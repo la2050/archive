@@ -252,6 +252,29 @@ maker_answers:
     levels, aiming within the next four years to offer continuing program
     opportunities to every elementary school participant in a Young Storytellers
     program.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - >-
+      Collaborate to expand the impact of two writing-based organizations on
+      improving high school proficiency in English & Language Arts
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

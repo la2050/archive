@@ -209,6 +209,28 @@ maker_answers:
     together public and private school educators from across the country and
     convene an annual Conference for Youth Changemakers, in partnership with
     Ashoka.   
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - 'Sequoyah School, Pasadena-enrolling students from above areas. '
+  How do you plan to use these resources to make change?:
+    - Advocate with policymakers and leaders
+    - 'Expanding an existing  K-8 school to new high school. '
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

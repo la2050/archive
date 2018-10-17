@@ -14,7 +14,7 @@ project_summary: >-
 Please specify below: >-
   One square mile in Hollywood. Borders are La Brea to the west, Western to the
   East, Franklin to the north, and Melrose to the south.
-category: all
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   HFF is looking to test a pop-up theatre venue during the 2016 and 2017
   Festivals to explore whether a temporary venue (1) provides the local
@@ -197,6 +197,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "As part of the proposal, HFF believes that a successful pop up venue in 2016 will act as a catalyst for an additional 1-3 pop up venues to be established by artists or producers in 2017.  \r\n\r\nHFF will share findings and best practices with interested parties who wish to establish a pop up venue.  Using these tools, producers and artists will be able to help lift up the dwindling theatrical spaces in the Hollywood area and revitalize the area."
+  Where will you be working?:
+    - >-
+      One square mile in Hollywood.  Borders are La Brea to the west, Western to
+      the East, Franklin to the north, and Melrose to the south.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -610,7 +628,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "As part of the proposal, HFF believes that a successful pop up venue in 2016 will act as a catalyst for an additional 1-3 pop up venues to be established by artists or producers in 2017.  \r\n\r\nHFF will share findings and best practices with interested parties who wish to establish a pop up venue.  Using these tools, producers and artists will be able to help lift up the dwindling theatrical spaces in the Hollywood area and revitalize the area."
-body_class: strawberry
+body_class: banana
 organization_name: Hatchery Arts dba Hollywood Fringe Festival
 published: true
 

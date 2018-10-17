@@ -13,7 +13,7 @@ project_summary: >-
   supported by leading industry employers and prepares graduates for careers
   beyond 2050 in high-growth industries. 
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   In LA County, the rate of unemployment remains high at 7%, compared to the
   nationwide rate of 5% (Aug 2015, DOL), and the rate of poverty remains high at
@@ -225,6 +225,17 @@ maker_answers:
     as expressed by our employer partners, it follows our proven model of
     effective service delivery that is well documented, and it is done with the
     support and interest of our funders.  
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Jobs per capita
+    - Gini coefficient
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -645,7 +656,7 @@ maker_answers_list:
       for skilled workers as expressed by our employer partners, it follows our
       proven model of effective service delivery that is well documented, and it
       is done with the support and interest of our funders.  
-body_class: blueberry
+body_class: banana
 organization_name: JVS Los Angeles
 published: true
 

@@ -197,6 +197,36 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'Help market Yes4arts to schools in LA community, with most need'
   How do you plan to scale the success of your proposal?: "We plan to scale the success of our proposal a number of ways. First, the scale involves measuring the number of students who have attended classes and learned how to sew, crochet and knit. Second,\r\nsuccess is measured when students decide to become vendors at Yes4arts events and showcase their art designs.  Finally, success is measured when students return to our classes with positive updates of their lives, have made education a priority, and have become positive role models in the community for other new students. This is when Yes4arts can be proud of making a difference, one student at a time.    "
+  Where will you be working?:
+    - Westside
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - 'Start with schools in Torrance, then branch out neighboring cities in LA '
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

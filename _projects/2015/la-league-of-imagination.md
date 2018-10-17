@@ -10,7 +10,7 @@ project_summary: >-
   teach 21st century skills to children through Creative Play. They can launch
   anywhere, with anyone, and require few resources to ignite child imagination.
 Please specify below: ''
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We imagine a world where creativity and entrepreneurship are core social
   values nurtured in schools, homes and communities everywhere, where all
@@ -193,6 +193,21 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Imagination Chapters program demonstrates simple, effective and highly scaleable practices for fostering next generation skills and attitudes in children through play.  In large part, the sustainability of the program is due to the simplicity of its implementation; it trains leaders from all walks of life, and it can be implemented within formal and informal educational environments and with basic materials, therefore avoiding cost challenges of similar programs, like maker spaces, or other STEM/engineering programs.\r\n\r\nIn addition to its simple implementation, the Chapters program is scalable and sustainable for two other reasons: 1) massive economies of scale and, 2) a strong network of engaged Chapter Leaders. Regarding economies of scale, because much of Chapter Leader training and support is conducted virtually in group formats, relative costs of management decrease with program growth. And regarding the network of Chapter Leaders, because they are part of such a  strong and highly social international cohort, much of the support leaders receive is provided in peer-to-peer contexts, which is less costly to manage than direct trainings.\r\n\r\nThe LA League of Imagination will be a highly visible entity, both locally and worldwide. Its activities will be well publicized, which will in turn create new interest and continued growth beyond the LA2050 grant.  "
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Play” metrics?:
+    - Number of children enrolled in afterschool programs
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -569,7 +584,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Imagination Chapters program demonstrates simple, effective and highly scaleable practices for fostering next generation skills and attitudes in children through play.  In large part, the sustainability of the program is due to the simplicity of its implementation; it trains leaders from all walks of life, and it can be implemented within formal and informal educational environments and with basic materials, therefore avoiding cost challenges of similar programs, like maker spaces, or other STEM/engineering programs.\r\n\r\nIn addition to its simple implementation, the Chapters program is scalable and sustainable for two other reasons: 1) massive economies of scale and, 2) a strong network of engaged Chapter Leaders. Regarding economies of scale, because much of Chapter Leader training and support is conducted virtually in group formats, relative costs of management decrease with program growth. And regarding the network of Chapter Leaders, because they are part of such a  strong and highly social international cohort, much of the support leaders receive is provided in peer-to-peer contexts, which is less costly to manage than direct trainings.\r\n\r\nThe LA League of Imagination will be a highly visible entity, both locally and worldwide. Its activities will be well publicized, which will in turn create new interest and continued growth beyond the LA2050 grant.  "
-body_class: blueberry
+body_class: strawberry
 organization_name: Imagination Foundation
 published: true
 

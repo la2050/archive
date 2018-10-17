@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "Strategically reintroduce native beaver populations back into the dwindling watersheds around LA County, using modern techniques where beaver are \"trained\" to engineer dams where we want them to, yet leave our infrastructure intact. Beavers are proven to be highly effective at mitigating drought, flash floods, and erosion. As the first major metropolitan area to embrace this cost-effective solution, we would be ensuring a lasting, positive impact on the economy and ecology of our whole region.\r\n"
 Please specify below: ''
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': |-
   “Any city smarter than a beaver can keep a beaver!”
    -martinezbeavers.org motto
@@ -189,6 +189,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Success will be scaled one beaver family at a time. Each family creates its own micro-oasis. Careful planning for where we place our first beaver colony is important, but as we familiarize ourselves with their engineering abilities, their territory could be allowed to expand exponentially. As The Southland grows more comfortable with the idea of a symbiotic relationship with beaver, the positive ripple effects will be greater and greater.\r\n"
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Percent of imported water
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -589,7 +612,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Success will be scaled one beaver family at a time. Each family creates its own micro-oasis. Careful planning for where we place our first beaver colony is important, but as we familiarize ourselves with their engineering abilities, their territory could be allowed to expand exponentially. As The Southland grows more comfortable with the idea of a symbiotic relationship with beaver, the positive ripple effects will be greater and greater.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: Individual submitter
 published: true
 

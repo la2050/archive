@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "Imagine a world where students have the tools to achieve their dreams. Imagine a world where teachers can personalize their instruction to each student. Imagine families empowered to become stronger learning partners for their children. Imagine this is true for everyone, regardless of income.That’s the world PowerMyLearning is creating in Los Angeles.\r\n\r\nWe provide training & digital tools to low-income students, families & teachers to help students do better in school & achieve lifelong success"
 Please specify below: ''
-category: none
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -115,6 +115,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "In the long-term, PowerMyLearning is committed to scaling the approaches of our program so that we can impact students across the low-income communities of Los Angeles. This Los Angeles-based work will also contribute to the national organization's larger mission of improving educational outcomes in low-income communities nationwide.\r\n\r\nA key lever for scaling our work will be in the gradual introduction of tech-enabled remote services. For example, our coaches currently meet with teachers face-to-face for every interaction. We have plans to build features into our online learning platform that will enable teachers to complete reflections and assignments between meetings with his/her coach, which will make the sessions more effective. We also anticipate leveraging video to enhance the scalability of our work. All of these remote tech-enabled services will be thoroughly tested and piloted to ensure the quality of coaching and the teachers’ experiences with digital learning remain strong.\r\n"
+  Where will you be working?:
+    - Central LA
+    - San Fernando Valley
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -510,7 +528,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "In the long-term, PowerMyLearning is committed to scaling the approaches of our program so that we can impact students across the low-income communities of Los Angeles. This Los Angeles-based work will also contribute to the national organization's larger mission of improving educational outcomes in low-income communities nationwide.\r\n\r\nA key lever for scaling our work will be in the gradual introduction of tech-enabled remote services. For example, our coaches currently meet with teachers face-to-face for every interaction. We have plans to build features into our online learning platform that will enable teachers to complete reflections and assignments between meetings with his/her coach, which will make the sessions more effective. We also anticipate leveraging video to enhance the scalability of our work. All of these remote tech-enabled services will be thoroughly tested and piloted to ensure the quality of coaching and the teachers’ experiences with digital learning remain strong.\r\n"
-body_class: strawberry
+body_class: blueberry
 organization_name: PowerMyLearning
 published: true
 

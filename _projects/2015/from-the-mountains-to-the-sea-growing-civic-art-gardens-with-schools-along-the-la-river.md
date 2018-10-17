@@ -19,7 +19,7 @@ Please specify below: >-
   through central cities to sea port. The prototype "seed" project is at
   Harvard-Westlake High School in the San Fernando Valley, and grows with other
   schools near 51 miles of river
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   "From the Mountains to the Sea" will be a program to produce, cultivate and
   sustain beautiful and healthy interactive civic spaces along the 51 mile long
@@ -229,6 +229,44 @@ maker_answers:
     and expertise, connecting people with opportunities to give time, talent and
     resources as well as treasure.
   How do you plan to scale the success of your proposal?: "We will produce a prototype civic art garden, document the process, and develop a program expanding this opportunity to other schools along the river, serving students from elementary though grad school. The program includes events connecting communities at the site(s).\r\n\r\nWe've identified 8 high schools along the river as pilot sites, from public schools specializing in the arts, to parochial schools for catholics and muslims. The other 2 two schools we plan to work with are Inner City Arts to reach elementary school children and Sci-Arc to offer college and graduate students opportunities to engage in real world applications of civic design studies.\r\n\r\nWinning the LA2050 grant will provide seed money for the coordination of partners with this program and producing the prototype garden. In addition to the treasure, winning the LA2050 grant offers opportunities for counsel and potential partnerships with your advisors and their time, talents and resources as well. It would be an honor to work with you to help make LA a better place to play in the most livable, educational, connecting and creative senses of the word! Thanks for the opportunity to share our project and ideas with the public!"
+  Where will you be working?:
+    - Central LA
+    - San Fernando Valley
+    - South LA
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      The program identifies 10 schools near the LA River, from valley
+      headwaters through central cities to sea port. The prototype "seed"
+      project is at Harvard-Westlake High School in the San Fernando Valley, and
+      grows with other schools near 51 miles of river
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - >-
+      We will connect resources to match patrons with projects, sites with
+      permissions, students, teachers and parents with civic arts education,
+      public art with urban gardens, and creative communities with each other.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

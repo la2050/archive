@@ -240,6 +240,39 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Now in our 29th year of operation in the Los Angeles area, we have a successful track record of affecting change & making a positive impact. Of our most recent graduating class (Boyle Heights, class of 2013), 86% of our Dreamers graduated from high school, & of that, 96% went on to some form of higher education. This rate is approximately 25% higher than the average for LAUSD. It is our goal to be able to have this same impact, if not greater, on all of our current and future classes of Dreamers.\r\n\r\nBy consistently increasing the classes we are able to sponsor, we also aim to make a sustainable impact on Los Angeles as a whole. We have seen first hand the positive effect one Dreamer can have on those around them, & so although we directly support hundreds of Dreamers, we indirectly support hundreds more who benefit from the effects of our program. Parents are able to attend workshops on financial planning & on how to support their children academically. Siblings & other students are always invited to join events & programs as space becomes available. The futures of many are altered for the better as Dreamers’ siblings & friends begin to see college as a real option after looking to our Dreamers as models.\r\n\r\nHaving shifted approximately three years ago from a sponsorship model in which a major donor or private foundation typically would agree upfront to fund an entire program, we are now focused, as mentioned above, on a more traditional fundraising model across multiple income streams. As we build our fundraising strength, it is our goal to be able to offer our unique, comprehensive, invaluable programming to more & more students each year. With this in mind, we have a strategic goal of being able to sponsor a new class of third graders every other year, working in community clusters in an effort to bring about the most positive change possible. To this effect, we hope, in the near future, to be able to establish a resource center from which we could conduct all of our programming.\r\n\r\nWe aim to achieve this growth by focusing on growing our fundraising & income as well as by increasing the community partners with whom we are able to work. By growing our marketing & brand awareness, ramping up our online presence, and making ourselves known throughout LA county, we hope to increase the number of people & organizations desiring to work with us in helping to make dreams come true as we aim to raise the disadvantaged youth we serve out of poverty."
+  Where will you be working?:
+    - East LA
+    - South LA
+    - Westside
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      Sunrise Elementary School in Boyle Heights, 99th Street Elementary and
+      Animo James B. Taylor in Watts, and multiple high schools in Inglewood
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

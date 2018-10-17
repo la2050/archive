@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   Based in Boyle Heights, Angel City Lumber will re-use trees found anywhere in
   Los Angeles.
-category: live
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Wood plays a vital role in Los Angeles’ creative landscape. From the elevated
   design of Disney Concert Hall’s Oak floors to the handmade Walnut mustache
@@ -200,6 +200,27 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We did not start Angel City Lumber simply to sell wood.  We were seduced by the opportunity to salvage the trees of Los Angeles, otherwise doomed to be buried or chipped, and put them in the hands of artists.  By using local trees and doing the work here in Los Angeles we also saw a way to lower prices - allowing artists and builders to pass on savings to their clients.\r\n\r\nOur long term plan involves scaling up production - there are thousands of usable trees coming down in Los Angeles annually, we want to salvage as many as possible.  This future will require more infrastructure -  vehicles with greater hauling capacity, the hiring of employees and expanding locations. \r\n\r\nThe beauty of urban lumber is the simplicity of it’s message, re-use local resources that are otherwise being wasted.  It is also a sound business plan, as we’ve seen with the success of urban lumber companies elsewhere.  Angel City Lumber hopes to expand it’s operation - while at the same time expanding the awareness of Angelenos of the value of our local resources. "
+  Where will you be working?:
+    - East LA
+    - >-
+      Based in Boyle Heights, Angel City Lumber will re-use trees found anywhere
+      in Los Angeles.
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Concentration of manufacturing activity in LA
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -614,7 +635,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We did not start Angel City Lumber simply to sell wood.  We were seduced by the opportunity to salvage the trees of Los Angeles, otherwise doomed to be buried or chipped, and put them in the hands of artists.  By using local trees and doing the work here in Los Angeles we also saw a way to lower prices - allowing artists and builders to pass on savings to their clients.\r\n\r\nOur long term plan involves scaling up production - there are thousands of usable trees coming down in Los Angeles annually, we want to salvage as many as possible.  This future will require more infrastructure -  vehicles with greater hauling capacity, the hiring of employees and expanding locations. \r\n\r\nThe beauty of urban lumber is the simplicity of it’s message, re-use local resources that are otherwise being wasted.  It is also a sound business plan, as we’ve seen with the success of urban lumber companies elsewhere.  Angel City Lumber hopes to expand it’s operation - while at the same time expanding the awareness of Angelenos of the value of our local resources. "
-body_class: lime
+body_class: banana
 organization_name: Angel City Lumber
 published: true
 

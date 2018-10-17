@@ -13,7 +13,7 @@ project_summary: >-
   also produce industry case studies, to identify and learn from employers who
   create quality employment.
 Please specify below: ''
-category: none
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Each week, 30% of Angelenos in low-wage industries make less than minimum
   wage. 80% who work overtime aren’t paid for it; another 80% work through
@@ -195,6 +195,19 @@ maker_answers:
     where they help to contribute to more workers receiving the wages they are
     owned. Finally, we may seek additional grant funding to support further
     development and deployment of the wage theft prediction tool. 
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Number of households below the self-sufficiency index
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -610,7 +623,7 @@ maker_answers_list:
       wages they are owned. Finally, we may seek additional grant funding to
       support further development and deployment of the wage theft prediction
       tool. 
-body_class: strawberry
+body_class: lime
 organization_name: Koreatown Immigrant Worker Alliance
 published: true
 

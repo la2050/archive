@@ -13,7 +13,7 @@ project_summary: >-
   school districts will receive technical assistance to help implement their
   action plans.
 Please specify below: ''
-category: live
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -173,6 +173,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our project already involves all the school districts in LA County. While we will offer this opportunity to all the school districts in LA County, experience would suggest that some will not be in a position to take advantage of this while others will want to have additional staff trained.  One of the primary outcomes of this work will be developing and refining a model of delivery for Trauma Informed practice.  Secondarily, we will gain an increased understanding of how to do a better job of providing this type of large scale training to educators and educational staff. This will serve as an important “proof-of-concept” which could easily be expanded to those districts that do not participate or to other counties or even brought down to the individual district level and ultimately to the individual school level, depending on the need of the district or school.  Expanding this training to the school level would represent a significant increase in scope. \r\nThe TIER Project can provide more technical support to the school districts during the implementation phase. We anticipate that districts will encounter challenges along the way and providing more direct support and consultation will further ensure their success in transforming their educational systems. Additionally, we want school districts to become the ambassadors of this work in that they will disseminate their learnings about trauma and trauma informed care to all of their community partners and other educational stakeholders with the TIER Project’s support. The vision for this work is that all service providers for children and adults will be trauma informed.\r\n\r\n"
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -621,7 +638,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our project already involves all the school districts in LA County. While we will offer this opportunity to all the school districts in LA County, experience would suggest that some will not be in a position to take advantage of this while others will want to have additional staff trained.  One of the primary outcomes of this work will be developing and refining a model of delivery for Trauma Informed practice.  Secondarily, we will gain an increased understanding of how to do a better job of providing this type of large scale training to educators and educational staff. This will serve as an important “proof-of-concept” which could easily be expanded to those districts that do not participate or to other counties or even brought down to the individual district level and ultimately to the individual school level, depending on the need of the district or school.  Expanding this training to the school level would represent a significant increase in scope. \r\nThe TIER Project can provide more technical support to the school districts during the implementation phase. We anticipate that districts will encounter challenges along the way and providing more direct support and consultation will further ensure their success in transforming their educational systems. Additionally, we want school districts to become the ambassadors of this work in that they will disseminate their learnings about trauma and trauma informed care to all of their community partners and other educational stakeholders with the TIER Project’s support. The vision for this work is that all service providers for children and adults will be trauma informed.\r\n\r\n"
-body_class: lime
+body_class: blueberry
 organization_name: 'UCLA '
 published: true
 

@@ -10,7 +10,7 @@ project_summary: >-
   Angeles artists, inspired by the diversity in our city. Educate the next
   generation of artists, and inspire the next generation of audiences. 
 Please specify below: Highland Park
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We are a group of professional Los Angeles artists, writers, actors and
   directors who earn our living in live theater. We want to utilize existing
@@ -142,6 +142,23 @@ maker_answers:
   How do you plan to scale the success of your proposal?: >-
     Over the 4 years that we make use of the $100k, we will grow our audience
     and donors to a place where LACT will be self sustainable. 
+  Where will you be working?:
+    - City of Los Angeles
+    - Highland Park
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -519,7 +536,7 @@ maker_answers_list:
     answer: >-
       Over the 4 years that we make use of the $100k, we will grow our audience
       and donors to a place where LACT will be self sustainable. 
-body_class: blueberry
+body_class: strawberry
 organization_name: LACT - Los Angeles Community Theatre
 published: true
 

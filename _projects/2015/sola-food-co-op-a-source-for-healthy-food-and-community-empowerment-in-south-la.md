@@ -15,7 +15,7 @@ project_summary: >-
   with too few grocery stores, that is a food desert, a health foods cooperative
   is a brilliant solution. 
 Please specify below: In the Leimert Park area
-category: 00playlive
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   There are far fewer grocery stores per person in South LA than there are in
   West LA. Many people here who have the means, travel outside of our area to
@@ -212,6 +212,29 @@ maker_answers:
     the cooperative. With this level of membership we'll be ready to secure a
     site for the store and begin financing toward hiring a general
     manager,designing and equipping the store, obtaining inventory,and opening.
+  Where will you be working?:
+    - South LA
+    - In the Leimert Park area
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - >-
+      We will use the resources to reach more prospective members, create
+      corporate sponsorships for needy families to become members, to work with
+      co-op development consultants, and to retain development personnel.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -640,7 +663,7 @@ maker_answers_list:
       secure a site for the store and begin financing toward hiring a general
       manager,designing and equipping the store, obtaining inventory,and
       opening.
-body_class: strawberry
+body_class: lime
 organization_name: SoLA Food Co-op
 published: true
 

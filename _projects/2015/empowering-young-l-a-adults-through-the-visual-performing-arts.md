@@ -13,7 +13,7 @@ project_summary: >-
   that showcase the work of our members. Our purpose for doing this is to ensure
   that more and more of  our young artists find success.
 Please specify below: ''
-category: all
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   By expanding, PIECES will be filling the void there is of available places for
   young people to create. For young artists 18-25 years of age, who outgrow
@@ -194,6 +194,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We will scale the success of our proposal by matching our current membership and attendance numbers to the following year's. We will also match the number of events we organized and participated in, the number of new workshops, classes and professional opportunities we were able to provide for our members, compared to previous years. \r\n\r\nSocial media follows and likes, newsletter subscriptions will also tell whether or not we were able to reach more people in our community than before. \r\n\r\nFurthermore, the results from surveys will tell how effective our attempts of reaching and serving our community have been. "
+  Where will you be working?:
+    - Westside
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -616,7 +640,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We will scale the success of our proposal by matching our current membership and attendance numbers to the following year's. We will also match the number of events we organized and participated in, the number of new workshops, classes and professional opportunities we were able to provide for our members, compared to previous years. \r\n\r\nSocial media follows and likes, newsletter subscriptions will also tell whether or not we were able to reach more people in our community than before. \r\n\r\nFurthermore, the results from surveys will tell how effective our attempts of reaching and serving our community have been. "
-body_class: strawberry
+body_class: banana
 organization_name: PIECES Teens Arts
 published: true
 

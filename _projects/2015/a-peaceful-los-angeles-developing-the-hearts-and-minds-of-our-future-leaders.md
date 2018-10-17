@@ -211,6 +211,42 @@ maker_answers:
     families to other community programs or students working in the
     mindfulness/SEL field
   How do you plan to scale the success of your proposal?: "CWC LA is a growing region of schools in Los Angeles and an affiliate of a growing national network (with new CWC schools continuing to open in other cities across the country). This affords CWC LA some unique opportunities to leverage early SEL investments by expanding the program and by readily disseminating best practices. As the founding region of CWC, the Los Angeles region is leading the work nationally for CWC and will be able to expand our program both within our Los Angeles schools but also nationally to our New York and Kansas City regions.\r\n\r\nCWC LA's initial professional development costs are one of the program's most expensive components, but once techniques and culture are established at a given school, the SEL program can be easily maintained and built upon. Other early-stage programmatic costs include codification of the model and the purchasing and customization of instructional materials/assessments. \r\n\r\nOverall, CWC LA's SEL program has established a strong foundation upon which to grow. Once our SEL program is fully built out, we anticipate it will be sustainable on public funding. \r\n\r\nAgain, we are excited about opportunities to expand our commitment to social-emotional learning, and we are eager to collaborate with any like-minded organizations or individuals to make Los Angeles a better place to learn, live and connect.\r\n\r\n\r\n"
+  Where will you be working?:
+    - City of Los Angeles
+    - >-
+      Diverse communities throughout LA including Hollywood, Silver Lake, and
+      Mar Vista
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - >-
+      Impact social change (by developing citizens who will improve individual
+      and group dynamics in our diverse society)
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
