@@ -1,28 +1,18 @@
 ---
+published: true
 organization_id: '2016174'
 year_submitted: 2016
-organization_name: Plantaware
-organization_website: www.plantaware.com
-ein: ''
-project_image_2: 9685194155741-team91.png
+category: live
+body_class: lime
 project_id: '6102217'
+challenge_url: 'https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape'
 title: A digital green thumb for the urban-scape
-organization_name_2: Plantaware
-organization_activity: Plantaware helps people grow food at home.
+project_summary: Plantaware helps people grow food at home
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
 project_video: 'https://www.youtube.com/embed/Mze22CqlIlE?rel=0&amp;showinfo=0'
-project_summary: Plantaware helps people grow food at home
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - n/a
 project_measure: >-
   3 metric categories will be used over the next 12 months to evaluate our work
   and progress:
@@ -89,6 +79,31 @@ project_description: >-
 project_impact: >-
   ["Access to healthy food","Self-sufficiency","Resilient communities","Tree
   canopy cover"]
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Resilient communities
+  - Tree canopy cover
+project_proposal_description: >-
+  Plantaware will support the growth of fresh local food, beautify life with
+  living plants, and provide better connection to the urban environment we live
+  in. 
+
+
+  We’ll make LA a garden of food and beauty,  while offering Angelenos
+  personalized knowledge and tools to grow plants, any plants, successfully. 
+
+
+  Our community will provide a place to connect, get location specific and
+  obtain specific instructions related to any crop of interest.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - n/a
 project_proposal_best_place: >-
   LA brings together people of diverse social and cultural backgrounds. Many, no
   matter where they come from, are interested in urban farming as a way to make
@@ -149,27 +164,12 @@ project_proposal_best_place: >-
 
   Plantaware will bring together and aggregates all people who are interested in
   urban gardening and farming in Los Angeles, its neighborhoods and communities.
-challenge_url: 'https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape'
+project_image_2: 9685194155741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  Plantaware will support the growth of fresh local food, beautify life with
-  living plants, and provide better connection to the urban environment we live
-  in. 
-
-
-  We’ll make LA a garden of food and beauty,  while offering Angelenos
-  personalized knowledge and tools to grow plants, any plants, successfully. 
-
-
-  Our community will provide a place to connect, get location specific and
-  obtain specific instructions related to any crop of interest.
-project_proposal_impact:
-  - Access to healthy food
-  - Self-sufficiency
-  - Resilient communities
-  - Tree canopy cover
-category: live
-body_class: lime
-published: true
+organization_name: Plantaware
+organization_website: www.plantaware.com
+organization_name_2: Plantaware
+organization_activity: Plantaware helps people grow food at home.
+ein: ''
 
 ---

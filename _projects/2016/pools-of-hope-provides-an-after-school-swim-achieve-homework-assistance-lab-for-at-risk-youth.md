@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016029'
 year_submitted: 2016
-organization_name: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
-organization_website: www.caaquatictherapy.com
-ein: ''
-project_image_2: 7134629065741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102025'
+challenge_url: >-
+  https://challenge.la2050.org/entry/pools-of-hope-provides-an-after-school-swim-achieve-homework-assistance-lab-for-at-risk-youth
 title: >-
   Pools of Hope provides an after-school Swim & Achieve Homework Assistance Lab
   for at-risk youth.
-organization_name_2: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
-organization_activity: >-
-  Pools of Hope is a warm-water facility promoting whole life wellness in our
-  community through aquatic programs for low-income individuals of varying
-  abilities and of all ages.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
-project_video: ''
 project_summary: >-
   Pools of Hope's Swim & Achieve Homework Assistance Lab is an after-school
   tutoring program that rewards students with swim lessons to promote academic
   achievement and wellness in a safe environment.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: N/A
-project_areas:
-  - South Bay
 project_measure: >-
   Measures of success for implementing Swim & Achieve include the following:
 
@@ -76,6 +70,21 @@ project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Suspension and expulsion rates","Truancy rates in elementary and
   middle schools"]
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+project_proposal_description: >-
+  Recognizing a dearth of after-school services for low-income children in the
+  north Long Beach area, Pools of Hope developed the Swim & Achieve Homework
+  Assistance Lab to provide professional tutoring for children at risk of grade
+  retention and poor academic outcomes. The Swim & Achieve program is two-fold:
+  1) provide hands-on tutoring and homework assistance for up to one hour; and
+  2) provide swim lessons as an incentive and reward for engaging with the
+  tutors each week.
+project_areas:
+  - South Bay
 project_proposal_best_place: >-
   In 2015, Pools of Hope received a grant from the Goodwin Family Memorial Trust
   to pilot the homework assistance program for 100 children ages 6-13. The
@@ -112,24 +121,15 @@ project_proposal_best_place: >-
   are lifeguards, instructors, and tutors. Swim & Achieve will also provide a
   great opportunity for year-round, part-time, paid employment--particularly for
   college and university students who can gain experience working with children.
-challenge_url: >-
-  https://challenge.la2050.org/entry/pools-of-hope-provides-an-after-school-swim-achieve-homework-assistance-lab-for-at-risk-youth
+project_image_2: 7134629065741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Recognizing a dearth of after-school services for low-income children in the
-  north Long Beach area, Pools of Hope developed the Swim & Achieve Homework
-  Assistance Lab to provide professional tutoring for children at risk of grade
-  retention and poor academic outcomes. The Swim & Achieve program is two-fold:
-  1) provide hands-on tutoring and homework assistance for up to one hour; and
-  2) provide swim lessons as an incentive and reward for engaging with the
-  tutors each week.
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-category: learn
-body_class: blueberry
-published: true
+organization_name: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
+organization_website: www.caaquatictherapy.com
+organization_name_2: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
+organization_activity: >-
+  Pools of Hope is a warm-water facility promoting whole life wellness in our
+  community through aquatic programs for low-income individuals of varying
+  abilities and of all ages.
+ein: ''
 
 ---

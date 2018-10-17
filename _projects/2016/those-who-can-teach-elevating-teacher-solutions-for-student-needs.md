@@ -1,26 +1,21 @@
 ---
+published: true
 organization_id: '2016068'
 year_submitted: 2016
-organization_name: Educators 4 Excellence-Los Angeles
-organization_website: www.educators4excellence.org
-ein: '273382030'
-project_image_2: 8698821265741-team88.jpg
+category: learn
+body_class: blueberry
 project_id: '6102063'
+challenge_url: >-
+  https://challenge.la2050.org/entry/those-who-can-teach!-elevating-teacher-solutions-for-student-needs
 title: 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
-organization_name_2: Educators 4 Excellence-Los Angeles
-organization_activity: >-
-  An individual teacher can change what’s possible in her classroom, but a
-  movement of teachers can change what’s possible in our education system.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
-project_video: 'https://www.youtube.com/embed/vk1BgrHSmZ0?rel=0&amp;showinfo=0'
 project_summary: >-
   Teachers at E4E-LA are designing the policy vision and solutions that will
   propel more of our students to  colleges and careers.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
+project_video: 'https://www.youtube.com/embed/vk1BgrHSmZ0?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - LAUSD
 project_measure: >-
   As classroom teachers are the most important in-school factor in student
   achievement, our long-term goals are to elevate the quality and prestige of
@@ -84,6 +79,23 @@ project_impact: >-
   in English and Language Arts and Math","Student education pipeline","Students’
   perceived sense of safety at and on the way to school","Suspension and
   expulsion rates"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+project_proposal_description: >-
+  E4E-LA is building a movement of teachers to take action on behalf of student
+  success. As our district responds to decades of demand for better public
+  schools by trying to implement higher standards, healthier school climates,
+  and improved rates of entry to colleges and careers, E4E-LA provides teachers
+  with opportunities to learn about education policy, network with policy
+  makers, and participate in leadership development and advocacy campaigns to
+  make LA a great place to learn and teach.
+project_areas:
+  - LAUSD
 project_proposal_best_place: >-
   To help transform LAUSD into a great place to learn and teach, we are building
   a teacher-led movement for education equity. In doing so, we will continue
@@ -133,26 +145,14 @@ project_proposal_best_place: >-
   teachers have experienced improvements in the number of students we engage,
   graduate and send to college. While there is greater room for improvement in
   Los Angeles public education, our teachers are becoming part of the solution.
-challenge_url: >-
-  https://challenge.la2050.org/entry/those-who-can-teach!-elevating-teacher-solutions-for-student-needs
+project_image_2: 8698821265741-team88.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  E4E-LA is building a movement of teachers to take action on behalf of student
-  success. As our district responds to decades of demand for better public
-  schools by trying to implement higher standards, healthier school climates,
-  and improved rates of entry to colleges and careers, E4E-LA provides teachers
-  with opportunities to learn about education policy, network with policy
-  makers, and participate in leadership development and advocacy campaigns to
-  make LA a great place to learn and teach.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Students’ perceived sense of safety at and on the way to school
-  - Suspension and expulsion rates
-category: learn
-body_class: blueberry
-published: true
+organization_name: Educators 4 Excellence-Los Angeles
+organization_website: www.educators4excellence.org
+organization_name_2: Educators 4 Excellence-Los Angeles
+organization_activity: >-
+  An individual teacher can change what’s possible in her classroom, but a
+  movement of teachers can change what’s possible in our education system.
+ein: '273382030'
 
 ---

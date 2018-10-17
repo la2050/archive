@@ -1,35 +1,27 @@
 ---
+published: true
 organization_id: '2016123'
 year_submitted: 2016
-organization_name: LA Plaza de Cultura y Artes
-organization_website: www.lapca.org
-ein: ''
-project_image_2: 6510837105741-team89.jpg
+category: connect
+body_class: tangerine
 project_id: '6102122'
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway!
 title: >-
   LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
   pathway!
-organization_name_2: LA Plaza de Cultura y Artes
-organization_activity: >-
-  LA Plaza de Cultura y Artes celebrates and cultivates an appreciation for the
-  enduring and evolving influence of Mexican-American and Latino history, art &
-  culture in Southern California.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
-project_video: 'https://www.youtube.com/embed/KlbjX6GafyI?rel=0&amp;showinfo=0'
 project_summary: >-
   The Historic Paseo Walkway creates a new gathering place in downtown that
   celebrates the city’s past by connecting the oldest historical sites and
   museums from Ft. Moore to Union Station.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
+project_video: 'https://www.youtube.com/embed/KlbjX6GafyI?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Los Angeles Conservancy, Our Lady Queen of Angels Church, El Pueblo Historic
   Monument, County of Los Angeles, Los Pobladores, City of Los Angeles, Los
   Angeles Art Commission
-project_areas:
-  - Central LA
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Visitor statistics from LA Plaza Paseo will provide a generalized measurement
   of its penetration. A more targeted measurement will be the number of adults
@@ -67,6 +59,25 @@ project_impact: >-
   ["Cultural events","Public/open streets gatherings","Public transit
   riders","Transit-accessible housing and employment (the share of housing units
   and percentage of jobs that are located within a half-mile of transit)"]
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+  - Public transit riders
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
+project_proposal_description: >-
+  The Historic Paseo Walkway is the City’s first pedestrian pathway exploring
+  and celebrating the rich, multicultural history of L.A.  The pathway will
+  include a mural, historical markers and monuments, street pavings, and other
+  artistic interpretive elements leading visitors on a historic journey through
+  Union Station, El Pueblo, LA Plaza and Fort Moore.  The Walkway will serve as
+  a new gathering place for Angelenos and visitors to explore, experience and
+  appreciate the city’s historical roots.
+project_areas:
+  - Central LA
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Cultural events:  The Walkway will help direct visitors into the LA Plaza
   museum and six other museums in Olvera Street that tell the story of Los
@@ -115,26 +126,15 @@ project_proposal_best_place: >-
   space.  More than 500 people will be part of this dynamic new residential
   community in the northern section of downtown and will have direct access to
   our museum, Olvera Street and Union Station.
-challenge_url: >-
-  https://challenge.la2050.org/entry/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway!
+project_image_2: 6510837105741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The Historic Paseo Walkway is the City’s first pedestrian pathway exploring
-  and celebrating the rich, multicultural history of L.A.  The pathway will
-  include a mural, historical markers and monuments, street pavings, and other
-  artistic interpretive elements leading visitors on a historic journey through
-  Union Station, El Pueblo, LA Plaza and Fort Moore.  The Walkway will serve as
-  a new gathering place for Angelenos and visitors to explore, experience and
-  appreciate the city’s historical roots.
-project_proposal_impact:
-  - Cultural events
-  - Public/open streets gatherings
-  - Public transit riders
-  - >-
-    Transit-accessible housing and employment (the share of housing units and
-    percentage of jobs that are located within a half-mile of transit)
-category: connect
-body_class: tangerine
-published: true
+organization_name: LA Plaza de Cultura y Artes
+organization_website: www.lapca.org
+organization_name_2: LA Plaza de Cultura y Artes
+organization_activity: >-
+  LA Plaza de Cultura y Artes celebrates and cultivates an appreciation for the
+  enduring and evolving influence of Mexican-American and Latino history, art &
+  culture in Southern California.
+ein: ''
 
 ---

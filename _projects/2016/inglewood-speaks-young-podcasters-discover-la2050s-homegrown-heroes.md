@@ -1,29 +1,22 @@
 ---
+published: true
 organization_id: '2016058'
 year_submitted: 2016
-organization_name: 'Core Innovate, Inc. & Century Academy for Excellence'
-organization_website: www.coreinnovate.com
-ein: ''
-project_image_2: 5493116165741-team88.jpg
+category: learn
+body_class: blueberry
 project_id: '6102115'
+challenge_url: >-
+  https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
 title: 'Inglewood Speaks: Young Podcasters Discover LA2050’s Homegrown Heroes'
-organization_name_2: 'Core Innovate, Inc. & Century Academy for Excellence'
-organization_activity: >-
-  Core Innovate is an education technology and support services business that
-  supports educators in strategic instructional planning aimed at removing
-  barriers to powerful communication for students.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
-project_video: ''
 project_summary: >-
   Middle school students from Inglewood’s Century Academy for Excellence will
   discover LA’s homegrown heroes by researching local issues LA2050 grantees are
   addressing and producing a podcast.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: Century Academy for Excellence
-project_areas:
-  - South LA
-  - County of Los Angeles
 project_measure: >-
   This project aims to 1) Develop and pilot a citizen journalism curriculum that
   is replicable and 2) Increase student knowledge, technical skills, and
@@ -80,6 +73,22 @@ project_impact: >-
   ["Proficiency in English and Language Arts and Math","Suspension and expulsion
   rates","Truancy rates in elementary and middle schools","Youth unemployment
   and underemployment"]
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Core Innovate, Inc. will collaborate with Century Academy to develop and pilot
+  citizen journalism curriculum that will result in middle school students
+  producing a podcast about the work of LA2050 grantees. Students will research
+  the issues that LA2050 grantees are addressing and will write about them using
+  Mozi, Core Innovate’s writing software. Students will strengthen their
+  communication skills as they research and produce podcast episodes that will
+  tell the story of LA’s agents of change.
+project_areas:
+  - South LA
+  - County of Los Angeles
 project_proposal_best_place: >-
   Core Innovate and Century Academy for Excellence will make Los Angeles the
   best place to learn by equipping middle school students with the skills and
@@ -129,24 +138,15 @@ project_proposal_best_place: >-
   replicating across Los Angeles, we believe that this project will make LA the
   best place for youth to learn and become civically-engaged citizen
   journalists.
-challenge_url: >-
-  https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
+project_image_2: 5493116165741-team88.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Core Innovate, Inc. will collaborate with Century Academy to develop and pilot
-  citizen journalism curriculum that will result in middle school students
-  producing a podcast about the work of LA2050 grantees. Students will research
-  the issues that LA2050 grantees are addressing and will write about them using
-  Mozi, Core Innovate’s writing software. Students will strengthen their
-  communication skills as they research and produce podcast episodes that will
-  tell the story of LA’s agents of change.
-project_proposal_impact:
-  - Proficiency in English and Language Arts and Math
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: 'Core Innovate, Inc. & Century Academy for Excellence'
+organization_website: www.coreinnovate.com
+organization_name_2: 'Core Innovate, Inc. & Century Academy for Excellence'
+organization_activity: >-
+  Core Innovate is an education technology and support services business that
+  supports educators in strategic instructional planning aimed at removing
+  barriers to powerful communication for students.
+ein: ''
 
 ---

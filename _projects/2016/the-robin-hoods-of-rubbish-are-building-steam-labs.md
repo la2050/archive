@@ -1,24 +1,20 @@
 ---
+published: true
 organization_id: '2016205'
 year_submitted: 2016
-organization_name: T4T.org
-organization_website: T4T.org
-ein: '562464067'
-project_image_2: 5085632065741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102225'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-robin-hoods-of-rubbish-are-building-steam-labs!
 title: The Robin Hoods of Rubbish are building STEAM Labs!
-organization_name_2: T4T.org
-organization_activity: >-
-  T4T.org inspires the next generation of Scientists, Technology experts,
-  Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste
-  and in doing this we nurture environmental stewar
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5085632065741-team91.jpg
-project_video: 'https://youtu.be/4ciuYTMpjdE?rel=0&amp;showinfo=0'
 project_summary: >-
   We are the Robin Hoods of Rubbish and we want to build STEAM Labs (Science,
   Technology, Engineering, Art and Math) out of upcycled materials in 20 Title 1
   Schools in Los Angeles.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5085632065741-team91.jpg
+project_video: 'https://youtu.be/4ciuYTMpjdE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Elysian Heights Elementary, Hillery T. Broadous Elementary, San Pascual Avenue
@@ -27,13 +23,6 @@ project_collaborators: >-
   High School, Pinewood Elementary, Monterey High School, Newcastle Elementary,
   Vernon City School, Griffith Middle School, Stephen M. White Middle School,
   Newmark High School, Sharp Elementary, Atwater Avenue ES, Bertrand Elementary
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   The teachers and students who work in the our STEAM Labs will evaluate the
   process and outcomes through feedback forms. This will be done through
@@ -62,6 +51,25 @@ project_description: >-
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education pipeline"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+project_proposal_description: >-
+  We inspire creative and critical thinking by allowing the students to create
+  working head-sets, model homes with complex circuitry, robots, simple engines
+  and more - out of clean, colorful items captured from manufacturers waste
+  streams (that’s where the Rubbish comes in). Using this material rather than
+  allowing it to head to landfill will also advance the notion of environmental
+  stewardship in a generation of Los Angeles’ children.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   We inspire creative and critical thinking by allowing the students to create
   working head-sets, model homes with complex circuitry, robots, simple engines
@@ -86,23 +94,15 @@ project_proposal_best_place: >-
   LAUSD has among the highest concentration of low-income students in the state,
   with more than 80% living at or below the poverty line. We want to teach these
   students to invent out of clean, rescued, rubbish.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-robin-hoods-of-rubbish-are-building-steam-labs!
+project_image_2: 5085632065741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  We inspire creative and critical thinking by allowing the students to create
-  working head-sets, model homes with complex circuitry, robots, simple engines
-  and more - out of clean, colorful items captured from manufacturers waste
-  streams (that’s where the Rubbish comes in). Using this material rather than
-  allowing it to head to landfill will also advance the notion of environmental
-  stewardship in a generation of Los Angeles’ children.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: T4T.org
+organization_website: T4T.org
+organization_name_2: T4T.org
+organization_activity: >-
+  T4T.org inspires the next generation of Scientists, Technology experts,
+  Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste
+  and in doing this we nurture environmental stewar
+ein: '562464067'
 
 ---

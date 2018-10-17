@@ -1,29 +1,23 @@
 ---
+published: true
 organization_id: '2016180'
 year_submitted: 2016
-organization_name: Public Health Foundation Enterprises
-organization_website: www.lblreaders.org
-ein: ''
-project_image_2: 6004983715741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102193'
+challenge_url: 'https://challenge.la2050.org/entry/little-by-little-school-readiness-program'
 title: Little by Little School Readiness Program
-organization_name_2: Public Health Foundation Enterprises
-organization_activity: >-
-  PHFE is the nation’s premier catalyst for advancing program and support
-  services to optimize population health
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6004983715741-team91.jpg
-project_video: 'http://www.lblreaders.org/videos/LittleByLittle.webm?rel=0&amp;showinfo=0'
 project_summary: >-
   Administered through the WIC program, Little by Little is an evidence-based
   early (ages 0 to 5) literacy program that significantly improves school
   readiness for low-income children in Los Angeles.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6004983715741-team91.jpg
+project_video: 'http://www.lblreaders.org/videos/LittleByLittle.webm?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   1) The Special Supplemental Nutrition Program for Women, Infants, and Children
   (WIC), 2) First 5 LA, 3) PHFE
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   The Little by Little School Readiness Program has developed a comprehensive
   research and evaluation project to measure the success of the project. One
@@ -63,6 +57,27 @@ project_impact: >-
   and Math","Early education","Student education pipeline","Suspension and
   expulsion rates","Truancy rates in elementary and middle schools","Youth
   unemployment and underemployment"]
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  The LBL Public Policy Consultant has the primary responsibility for educating
+  decision makers about LBL with a focus on:
+
+  •providing expert and strategic guidance about how best to educate and inform
+  public officials about the importance of early literacy education and LBL;
+
+  •closely tracking  how all public dollars are being allocated around early
+  literacy (0-5) efforts and advising LBL about best strategies for pursuing
+  such funding;&  
+   positioning LBL as a national expert in early education.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   WIC as a Platform for the Promoting Early Literacy and Health: Partnerships
   for Sustaining Impact
@@ -109,29 +124,14 @@ project_proposal_best_place: >-
   funding sources. We propose hiring a Public Policy consultant who will help
   create and implement a public policy/education strategy to engage
   legislators/stakeholders.
-challenge_url: 'https://challenge.la2050.org/entry/little-by-little-school-readiness-program'
+project_image_2: 6004983715741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The LBL Public Policy Consultant has the primary responsibility for educating
-  decision makers about LBL with a focus on:
-
-  •providing expert and strategic guidance about how best to educate and inform
-  public officials about the importance of early literacy education and LBL;
-
-  •closely tracking  how all public dollars are being allocated around early
-  literacy (0-5) efforts and advising LBL about best strategies for pursuing
-  such funding;&  
-   positioning LBL as a national expert in early education.
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Public Health Foundation Enterprises
+organization_website: www.lblreaders.org
+organization_name_2: Public Health Foundation Enterprises
+organization_activity: >-
+  PHFE is the nation’s premier catalyst for advancing program and support
+  services to optimize population health
+ein: ''
 
 ---

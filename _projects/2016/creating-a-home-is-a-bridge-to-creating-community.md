@@ -1,33 +1,21 @@
 ---
+published: true
 organization_id: '2016004'
 year_submitted: 2016
-organization_name: A Sense of Home
-organization_website: asenseofhome.org
-ein: ''
-project_image_2: 8371052065741-team91.png
+category: live
+body_class: lime
 project_id: '6102003'
+challenge_url: >-
+  https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
 title: 'Creating a home is a bridge to creating community '
-organization_name_2: A Sense of Home
-organization_activity: >-
-  Create homes for foster youth aging out of the system & connect them with a
-  loving community who can advance their education, careers & well being.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
-project_video: 'https://www.youtube.com/embed/PXXuCduxggc?rel=0&amp;showinfo=0'
 project_summary: >-
   A holistic approach to transform the lives of at-risk foster youth who “age
   out” of the system by creating their first ever homes
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
+project_video: 'https://www.youtube.com/embed/PXXuCduxggc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   In just two years, ASOH has created 125 homes and has placed 185 youth in
   beds.  We are currently creating a minimum of two homes per week, 130 homes
@@ -77,6 +65,27 @@ project_description: >-
   with a community of care— Maslow’s Hierarchy of Needs is satisfied & the youth
   can focus on building a prosperous future.
 project_impact: '["Self-sufficiency","Resilient communities","Homelessness"]'
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Homelessness
+project_proposal_description: >-
+  ASOH brings together volunteers to serve as a family would utilizing donated
+  furniture to create the youth’s first permanent living space. The state of
+  one’s “home” affects one’s physical health, cognitive development,
+  social/emotional well-being & how an individual views themselves. By creating
+  a physical home that embodies the aspirations of each youth & connecting them
+  with a community of care— Maslow’s Hierarchy of Needs is satisfied & the youth
+  can focus on building a prosperous future.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   With an all former foster youth staff, and former foster youth paying it
   forward, ASOH is a solution to recidivism being implemented by whom the impact
@@ -126,23 +135,14 @@ project_proposal_best_place: >-
   creation is celebrated with a housewarming party in which youth share their
   stories and educate the gathered through powerful spoken word poetry, original
   music and songs.
-challenge_url: >-
-  https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
+project_image_2: 8371052065741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  ASOH brings together volunteers to serve as a family would utilizing donated
-  furniture to create the youth’s first permanent living space. The state of
-  one’s “home” affects one’s physical health, cognitive development,
-  social/emotional well-being & how an individual views themselves. By creating
-  a physical home that embodies the aspirations of each youth & connecting them
-  with a community of care— Maslow’s Hierarchy of Needs is satisfied & the youth
-  can focus on building a prosperous future.
-project_proposal_impact:
-  - Self-sufficiency
-  - Resilient communities
-  - Homelessness
-category: live
-body_class: lime
-published: true
+organization_name: A Sense of Home
+organization_website: asenseofhome.org
+organization_name_2: A Sense of Home
+organization_activity: >-
+  Create homes for foster youth aging out of the system & connect them with a
+  loving community who can advance their education, careers & well being.
+ein: ''
 
 ---

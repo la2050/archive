@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016228'
 year_submitted: 2016
-organization_name: The Ojai Foundation
-organization_website: ojaifoundation.org
-ein: '510151116'
-project_image_2: 3746850165741-team90.jpg
+category: connect
+body_class: tangerine
 project_id: '6102252'
+challenge_url: >-
+  https://challenge.la2050.org/entry/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection
 title: >-
   Community Circle Space Initiative: Creating a place and sharing a process for
   authentic connection 
-organization_name_2: The Ojai Foundation
-organization_activity: >-
-  We foster practices that awaken connection to self, others, and the natural
-  world; council - the circle practice of listening and speaking from the heart
-  - is central to all our initiatives.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
-project_video: ''
 project_summary: >-
   Community Circle Space Initiative builds circle spaces and trains community
   elders to facilitate circle dialogs for Southeast LA residents to share
   stories, address issues, and resolve conflicts.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: Southeast Rio Vista YMCA
-project_areas:
-  - South LA
 project_measure: >-
   The Community Circle Space Initiative's objective is to increase connection
   among residents of Southeast LA. We will use the following metrics to measure
@@ -78,6 +72,25 @@ project_impact: >-
   gatherings","Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism","Residential
   segregation","Voting rates"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Voting rates
+project_proposal_description: >-
+  Collaborating with the local YMCA, community leaders and residents, artists
+  and builders, we will design and build a public circle meeting space and train
+  and support community elders to facilitate circle dialogs for the community in
+  the space we co-create. The project will give elders renewed purpose and
+  provide the community a place and a process for sharing stories, discussing
+  matters of importance, resolving differences, determining action steps, and
+  making authentic connections.
+project_areas:
+  - South LA
 project_proposal_best_place: >-
   Community Circle Space Initiative (CCSI) will make LA the best place to
   connect by bringing the power of the circle into the Southeast LA City of
@@ -125,28 +138,15 @@ project_proposal_best_place: >-
   exemplifying the profound social impact of meeting in circles, CCSI will
   inspire the creation of community circle spaces in neighborhoods throughout LA
   and this will truly make LA the best place to connect.
-challenge_url: >-
-  https://challenge.la2050.org/entry/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection
+project_image_2: 3746850165741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Collaborating with the local YMCA, community leaders and residents, artists
-  and builders, we will design and build a public circle meeting space and train
-  and support community elders to facilitate circle dialogs for the community in
-  the space we co-create. The project will give elders renewed purpose and
-  provide the community a place and a process for sharing stories, discussing
-  matters of importance, resolving differences, determining action steps, and
-  making authentic connections.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Residential segregation
-  - Voting rates
-category: connect
-body_class: tangerine
-published: true
+organization_name: The Ojai Foundation
+organization_website: ojaifoundation.org
+organization_name_2: The Ojai Foundation
+organization_activity: >-
+  We foster practices that awaken connection to self, others, and the natural
+  world; council - the circle practice of listening and speaking from the heart
+  - is central to all our initiatives.
+ein: '510151116'
 
 ---

@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016199'
 year_submitted: 2016
-organization_name: Southern California Public Radio (KPCC)
-organization_website: www.kpcc.org
-ein: ''
-project_image_2: 4956546915741-team89.JPG
+category: connect
+body_class: tangerine
 project_id: '6102214'
+challenge_url: >-
+  https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
 title: >-
   #MeetSoCal: A KPCC In Person event series of in-community experiences to
   better connect Angelenos
-organization_name_2: Southern California Public Radio (KPCC)
-organization_activity: >-
-  We are a member-supported public media organization that informs, engages, and
-  reflects Southern California using broadcast radio, the web, mobile apps and
-  podcasts, social media, and live events.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
-project_video: 'https://www.youtube.com/embed/lRjoDtwYF8s?rel=0&amp;showinfo=0'
 project_summary: >-
   With #MeetSoCal, KPCC will explore LA County’s diverse and changing
   neighborhoods through the eyes of Angelenos to inform our coverage, foster
   robust public conversation, and connect our communities.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
+project_video: 'https://www.youtube.com/embed/lRjoDtwYF8s?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   KPCC will use both quantitative and qualitative data to measure the success of
   #MeetSoCal. Quantitatively, we will track the number of event attendees,
@@ -67,6 +61,21 @@ project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Total number of local social media friends and connections
   Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  #MeetSoCal events will bring KPCC to a variety of venues in LA County
+  communities, especially those underserved by public radio. We will gather
+  Angelenos to share experiences, ideas, and concerns in formats ranging from
+  panel discussions to artistic performances to listening booths and more.
+  #MeetSoCal will build relationships with new audiences, inform and feed our
+  news coverage, connect people with their neighbors and communities, and foster
+  conversation about civic and cultural issues in LA.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   To quote “Love Poem to Los Angeles” by LA Poet Laureate Luis J. Rodriquez,
   “This is a multi-layered city.” One of the most diverse and dynamic
@@ -119,24 +128,15 @@ project_proposal_best_place: >-
   foster greater and more inclusive dialogue within and among them, helping
   Angelenos feel more connected to one another and to the complicated but
   inspiring place we all call home.
-challenge_url: >-
-  https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
+project_image_2: 4956546915741-team89.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  #MeetSoCal events will bring KPCC to a variety of venues in LA County
-  communities, especially those underserved by public radio. We will gather
-  Angelenos to share experiences, ideas, and concerns in formats ranging from
-  panel discussions to artistic performances to listening booths and more.
-  #MeetSoCal will build relationships with new audiences, inform and feed our
-  news coverage, connect people with their neighbors and communities, and foster
-  conversation about civic and cultural issues in LA.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Southern California Public Radio (KPCC)
+organization_website: www.kpcc.org
+organization_name_2: Southern California Public Radio (KPCC)
+organization_activity: >-
+  We are a member-supported public media organization that informs, engages, and
+  reflects Southern California using broadcast radio, the web, mobile apps and
+  podcasts, social media, and live events.
+ein: ''
 
 ---

@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016167'
 year_submitted: 2016
-organization_name: Pedagogics Coaching Group
-organization_website: pedagogicscg.com
-ein: ''
-project_image_2: 5938228555741-team91.png
+category: learn
+body_class: blueberry
 project_id: '6102210'
+challenge_url: >-
+  https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
 title: >-
   MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
   Instruction and Practice
-organization_name_2: Pedagogics Coaching Group
-organization_activity: >-
-  An instructional coaching service for educators in the Greater LA area
-  providing support to those striving to create a successful school culture and
-  desiring to grow in instructional effectiveness.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
-project_video: 'https://www.youtube.com/embed/0xgcqCC9nTM?rel=0&amp;showinfo=0'
 project_summary: >-
   A 10 month pilot includes: a 6 week individualized instructional coaching
   program for 3 schools; a unique platform for educator community to refine
   expertise; and empowering shift to mindful practice.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
+project_video: 'https://www.youtube.com/embed/0xgcqCC9nTM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: Vignettes Learning
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   Success is defined by growth in the areas of building reflective
   practitioners, making progress on school-wide instructional practices, and
@@ -65,6 +59,18 @@ project_description: >-
   issues unique to each site. Ongoing learning and development is facilitated by
   a PLN to shift education towards a more mindful LA.
 project_impact: '["Student education pipeline"]'
+project_proposal_impact:
+  - Student education pipeline
+project_proposal_description: >-
+  A 10 month Pilot of coaching services in 3 LA schools to connect educators
+  with effective instruction, mindful learning, and a more dynamic school
+  culture based on existing vision. Schools start where they are in
+  implementation of best practice and mindful learning and collaborate with
+  Pedagogics to refine strategies and explore tools that address challenges and
+  issues unique to each site. Ongoing learning and development is facilitated by
+  a PLN to shift education towards a more mindful LA.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   “Are we preparing kids minds for a life of tests or the test of life?” Arthur
   L. Costa 
@@ -122,21 +128,15 @@ project_proposal_best_place: >-
 
   In 2050, LA is known as the tipping point of dynamic mindful learning and
   instruction across the global education community!
-challenge_url: >-
-  https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
+project_image_2: 5938228555741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  A 10 month Pilot of coaching services in 3 LA schools to connect educators
-  with effective instruction, mindful learning, and a more dynamic school
-  culture based on existing vision. Schools start where they are in
-  implementation of best practice and mindful learning and collaborate with
-  Pedagogics to refine strategies and explore tools that address challenges and
-  issues unique to each site. Ongoing learning and development is facilitated by
-  a PLN to shift education towards a more mindful LA.
-project_proposal_impact:
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: Pedagogics Coaching Group
+organization_website: pedagogicscg.com
+organization_name_2: Pedagogics Coaching Group
+organization_activity: >-
+  An instructional coaching service for educators in the Greater LA area
+  providing support to those striving to create a successful school culture and
+  desiring to grow in instructional effectiveness.
+ein: ''
 
 ---

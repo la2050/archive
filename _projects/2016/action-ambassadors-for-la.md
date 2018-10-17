@@ -1,22 +1,18 @@
 ---
+published: true
 organization_id: '2016245'
 year_submitted: 2016
-organization_name: United Nations Association-USA Pasadena Chapter Inc.
-organization_website: actionambassadors.org
-ein: ''
-project_image_2: 6459268355741-team89.png
+category: learn
+body_class: blueberry
 project_id: '6102271'
+challenge_url: 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
 title: Action Ambassadors for LA
-organization_name_2: United Nations Association-USA Pasadena Chapter Inc.
-organization_activity: >-
-  The Action Ambassadors Program empowers youth to make global change through
-  action in their local communities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6459268355741-team89.png
-project_video: 'https://www.youtube.com/embed/YKNosko-ufM?rel=0&amp;showinfo=0'
 project_summary: >-
   Action Ambassadors is training the next generation of leaders in Los Angeles
   through volunteer work, political involvement, and social entrepreneurship.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6459268355741-team89.png
+project_video: 'https://www.youtube.com/embed/YKNosko-ufM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   As of last year, we collaborated with the following organizations. However, in
@@ -25,12 +21,6 @@ project_collaborators: >-
   GRID Alternatives, Young and Healthy, United Nations Association Santa
   Barbara, Santa Barbara Street Medicine, Santa Barbara Food Bank, World Dance
   for Humanity, Storyteller Center
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - LAUSD
 project_measure: >-
   Feedback surveys from students and organizations, which will measure
 
@@ -71,6 +61,23 @@ project_description: >-
   inequality. With this proposal, we will expand this program to thirty students
   across LA County in 2016.
 project_impact: '["Student education pipeline","Youth unemployment and underemployment"]'
+project_proposal_impact:
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Over the summer of 2016, we piloted an 8-week internship program that uses the
+  United Nations Sustainable Development Goals to teach youth that their local
+  actions have global relevance. Youth intern with non-profits or local elected
+  officials for 10 hours a week, and then spend another 10 hours developing
+  their own project that addresses an issue such as sustainability, poverty, or
+  inequality. With this proposal, we will expand this program to thirty students
+  across LA County in 2016.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - LAUSD
 project_proposal_best_place: >-
   Student education pipeline: 
 
@@ -104,21 +111,14 @@ project_proposal_best_place: >-
 
   Finally, our project will potentially address all LIVE metrics, depending on
   the community improvement projects our students propose.
-challenge_url: 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
+project_image_2: 6459268355741-team89.png
 empty_column_1: ''
-project_proposal_description: >-
-  Over the summer of 2016, we piloted an 8-week internship program that uses the
-  United Nations Sustainable Development Goals to teach youth that their local
-  actions have global relevance. Youth intern with non-profits or local elected
-  officials for 10 hours a week, and then spend another 10 hours developing
-  their own project that addresses an issue such as sustainability, poverty, or
-  inequality. With this proposal, we will expand this program to thirty students
-  across LA County in 2016.
-project_proposal_impact:
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: United Nations Association-USA Pasadena Chapter Inc.
+organization_website: actionambassadors.org
+organization_name_2: United Nations Association-USA Pasadena Chapter Inc.
+organization_activity: >-
+  The Action Ambassadors Program empowers youth to make global change through
+  action in their local communities.
+ein: ''
 
 ---

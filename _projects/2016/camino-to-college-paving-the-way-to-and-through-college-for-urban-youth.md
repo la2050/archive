@@ -1,28 +1,22 @@
 ---
+published: true
 organization_id: '2016034'
 year_submitted: 2016
-organization_name: Camino Nuevo Charter Academy
-organization_website: www.caminonuevo.org
-ein: ''
-project_image_2: 7012460625741-team89.jpg
+category: learn
+body_class: blueberry
 project_id: '6102030'
+challenge_url: >-
+  https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
 title: 'Camino to College: Paving the Way To and Through College for Urban Youth'
-organization_name_2: Camino Nuevo Charter Academy
-organization_activity: >-
-  Camino Nuevo Charter Academy (CNCA) is a community of high-performing public
-  schools that utilizes a comprehensive approach to prepare students from PreK
-  through high school for success in college.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
-project_video: 'https://www.youtube.com/embed/iDCnFxfgu1o?rel=0&amp;showinfo=0'
 project_summary: >-
   Camino Nuevo Charter Academy will expand upon Camino to College, our existing
   college access and alumni support program. The focus of the program is getting
   more students to and through college.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
+project_video: 'https://www.youtube.com/embed/iDCnFxfgu1o?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
 project_measure: >-
   Camino Through College aims to provide our students and families the support
   they need to succeed in college and beyond, and to ensure that by 2022, 90% of
@@ -64,6 +58,16 @@ project_description: >-
   exposure to different colleges and careers, skill-building, parent engagement,
   and support throughout the college-application process, enrollment and beyond.
 project_impact: '["College completion","College matriculation rates"]'
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+project_proposal_description: >-
+  Camino Nuevo Charter Academy, will expand upon our Camino Through College
+  (CTC) program, which focuses on preparing students for success through
+  exposure to different colleges and careers, skill-building, parent engagement,
+  and support throughout the college-application process, enrollment and beyond.
+project_areas:
+  - Central LA
 project_proposal_best_place: >-
   Camino Through College (CTC) will help make LA the best place to learn by
   helping more students get to and through college.
@@ -119,19 +123,15 @@ project_proposal_best_place: >-
   with students to help address barriers by providing personal and academic
   support and connecting students to resources on campus. Our staff provides
   individualized support to high-risk students.
-challenge_url: >-
-  https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
+project_image_2: 7012460625741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Camino Nuevo Charter Academy, will expand upon our Camino Through College
-  (CTC) program, which focuses on preparing students for success through
-  exposure to different colleges and careers, skill-building, parent engagement,
-  and support throughout the college-application process, enrollment and beyond.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-category: learn
-body_class: blueberry
-published: true
+organization_name: Camino Nuevo Charter Academy
+organization_website: www.caminonuevo.org
+organization_name_2: Camino Nuevo Charter Academy
+organization_activity: >-
+  Camino Nuevo Charter Academy (CNCA) is a community of high-performing public
+  schools that utilizes a comprehensive approach to prepare students from PreK
+  through high school for success in college.
+ein: ''
 
 ---

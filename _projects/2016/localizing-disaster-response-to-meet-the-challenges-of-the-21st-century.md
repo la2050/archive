@@ -1,26 +1,21 @@
 ---
+published: true
 organization_id: '2018116'
 year_submitted: 2016
-organization_name: Team Rubicon
-organization_website: www.teamrubiconusa.org
-ein: '271720480'
-project_image_2: 5594912265741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102232'
+challenge_url: >-
+  https://challenge.la2050.org/entry/localizing-disaster-response-to-meet-the-challenges-of-the-21st-century
 title: Localizing Disaster Response to Meet the Challenges of the 21st Century
-organization_name_2: Team Rubicon
-organization_activity: >-
-  Team Rubicon unites the skill and experiences of military veterans with first
-  responders to rapidly deploy emergency response teams.
+project_summary: 'Get LA Squared Away: Community Resilience Project'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5594912265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5BOUm4PBeUc?rel=0&amp;showinfo=0'
-project_summary: 'Get LA Squared Away: Community Resilience Project'
 project_is_collaboration: 'No'
 project_collaborators: >-
   Team Rubicon's vision of making Los Angeles a community better prepared for
   disasters will require working with city and county Emergency Response Teams.
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   A BRU's volunteer numbers are driven by a set of ratios applied to a city's
   population.  A city of any size is considered to have met its Basic Readiness
@@ -53,6 +48,18 @@ project_description: >-
   disasters as well as providing purpose, community and identity to our nation's
   veteran's, easing their transition home.
 project_impact: '["Resilient communities"]'
+project_proposal_impact:
+  - Resilient communities
+project_proposal_description: >-
+  Spending money on resiliency and readiness saves money.  An organized, trained
+  and equipped Team Rubicon will help stabilize LA once disaster hits, allowing
+  municipal and emergency services to perform core functions enabling them to
+  focus on getting residents back to normal life as quickly as possible.  By
+  leveraging the skills of veterans, TR is preparing for and responding to
+  disasters as well as providing purpose, community and identity to our nation's
+  veteran's, easing their transition home.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   Cities' ability to respond to our rapidly changing climate and the changing
   nature, magnitude and quantity of natural disasters in general is
@@ -103,21 +110,14 @@ project_proposal_best_place: >-
   level to ensure national relief resources are deployed most effectively and
   efficiently when available; and ensure the ability to monitor response,
   recovery and rebuilding efforts in ways external agencies simply cannot mimic.
-challenge_url: >-
-  https://challenge.la2050.org/entry/localizing-disaster-response-to-meet-the-challenges-of-the-21st-century
+project_image_2: 5594912265741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Spending money on resiliency and readiness saves money.  An organized, trained
-  and equipped Team Rubicon will help stabilize LA once disaster hits, allowing
-  municipal and emergency services to perform core functions enabling them to
-  focus on getting residents back to normal life as quickly as possible.  By
-  leveraging the skills of veterans, TR is preparing for and responding to
-  disasters as well as providing purpose, community and identity to our nation's
-  veteran's, easing their transition home.
-project_proposal_impact:
-  - Resilient communities
-category: live
-body_class: lime
-published: true
+organization_name: Team Rubicon
+organization_website: www.teamrubiconusa.org
+organization_name_2: Team Rubicon
+organization_activity: >-
+  Team Rubicon unites the skill and experiences of military veterans with first
+  responders to rapidly deploy emergency response teams.
+ein: '271720480'
 
 ---

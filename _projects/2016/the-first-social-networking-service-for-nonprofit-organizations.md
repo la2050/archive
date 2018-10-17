@@ -1,23 +1,19 @@
 ---
+published: true
 organization_id: '2016046'
 year_submitted: 2016
-organization_name: 'Coligo, Inc.'
-organization_website: www.coligo.co
-ein: ''
-project_image_2: 4156024363741-team89.jpg
+category: connect
+body_class: tangerine
 project_id: '6102105'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-first-social-networking-service-for-nonprofit-organizations
 title: The first social networking service for nonprofit organizations
-organization_name_2: 'Coligo, Inc.'
-organization_activity: Coligo
+project_summary: The first social networking service for nonprofit organizations.
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156024363741-team89.jpg
 project_video: 'https://www.youtube.com/embed/fTkbmu7_ywc?rel=0&amp;showinfo=0'
-project_summary: The first social networking service for nonprofit organizations.
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Coligo will provide analytics tools for its users to measure success on the
   web-based platform. Coligo Analytics is a featured plug-in embedded in every
@@ -66,6 +62,20 @@ project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism","Total number of local social media
   friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  Coligo is the first social networking service for non-profit and charitable
+  organizations that facilitates a connection between non-profit organizations
+  and donors, allowing matched users to exchange resources and funds to achieve
+  social impact together.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Coligo will help make LA the best place to connect by hosting novel engagement
   opportunities for nonprofit organizations and donors in the Los Angeles
@@ -117,22 +127,12 @@ project_proposal_best_place: >-
   creating engagement and strategic partnership opportunities for nonprofits and
   donors, Coligo will make Los Angeles the best place to make connections
   worthwhile.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-first-social-networking-service-for-nonprofit-organizations
+project_image_2: 4156024363741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Coligo is the first social networking service for non-profit and charitable
-  organizations that facilitates a connection between non-profit organizations
-  and donors, allowing matched users to exchange resources and funds to achieve
-  social impact together.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: 'Coligo, Inc.'
+organization_website: www.coligo.co
+organization_name_2: 'Coligo, Inc.'
+organization_activity: Coligo
+ein: ''
 
 ---

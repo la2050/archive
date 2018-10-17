@@ -1,13 +1,109 @@
 ---
+published: true
+organization_id: '2014171'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102136'
 title: hello
 project_summary: ding more good stuff
-category: live
-organization_id: '2014171'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22672%252Fdisplay%252Frainbow.jpg=c570x385
 project_video: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+maker_answers:
+  org_name: Test org
+  metrics_live_healthyfood: '0'
+  org_website: www.testorgwebsite.com
+  org_twitter: na
+  org_facebook: na
+  org_instagram: na
+  org_mailingaddress: "1234 Streetname Lane\r\nPretendlandia, Narnia 00234"
+  EIN: '123456789'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  one_sentence_org: we do good stuff
+  describe_idea: ding more good stuff
+  describe_organization: good stuff
+  all_county: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '0'
+  area_eastLA: '1'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: testtesttesttesttesttesttest
+  implement: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+  impact_live: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+  who_benefit: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+  partners_collaboration: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+  city_state: 'Pretendlandia, Narnia'
+  metrics_live_healthcare: '0'
+  metrics_live_airtoxins: '1'
+  metrics_live_selfsufficiency: '0'
+  metrics_live_importedwater: '0'
+  metrics_live_obesity: '0'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '0'
+  metrics_live_pollutedwaterways: '0'
+  metrics_live_mentalillness: '0'
+  metrics_live_childhood: '0'
+  metrics_live_communities: '0'
+  metrics_live_healthcareservice: '0'
+  metrics_live_treecanopy: '0'
+  metrics_live_other: '0'
+  metrics_live_blank: ''
+  resources_network: '0'
+  best_place_to_create: '1'
+  best_place_to_play: '0'
+  best_place_to_connect: '0'
+  best_place_to_learn: '0'
+  evaluate: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+  two_lessons: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+  achievable_goal: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+  major_challenges: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttestv
+  competition: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttestv
+  cost: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+  budget: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+  resources_money: '1'
+  resources_staff: '0'
+  resources_publicity: '0'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '0'
+  resources_research: '0'
+  impact_metrics: >-
+    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   LASC will implement this idea through the following activities:
    a. Senior Fellows: Hire four temporary or part time “Senior Fellows” to be managed and coached by LASC Board and staff to oversee research and programs under each initiative area. Senior Fellows will be young professionals or graduate students, with demonstrated interest in Southern California sustainability issues. Each Senior Fellow’s job description is as follows:
@@ -74,102 +170,6 @@ How will your idea/project help make LA the best place to connect today? In LA20
    While we have yet to identify partners for this grant period, we expect they will be confirmed within one to three months after the grant is awarded. Three factors that are critical to the success of our proposed collaborations are 1) adequate funding to staff our initiative areas with Senior Fellows; 2) growth and expansion in the number of Research Fellowships; and 3) sufficient operational revenue to support growing staffing needs.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
-maker_image_id: '22672'
-maker_image_file_name: rainbow.jpg
-project_areas:
-  - CENTRAL LA
-  - EAST LA
-  - SOUTH LA
-  - SGV
-  - SFV
-  - SOUTH BAY
-  - WESTSIDE
-maker_answers:
-  city_state: 'Pretendlandia, Narnia'
-  org_name: Test org
-  org_website: www.testorgwebsite.com
-  org_twitter: na
-  org_facebook: na
-  org_instagram: na
-  org_mailingaddress: "1234 Streetname Lane\r\nPretendlandia, Narnia 00234"
-  EIN: '123456789'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  one_sentence_org: we do good stuff
-  describe_idea: ding more good stuff
-  describe_organization: good stuff
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '1'
-  area_southLA: '0'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: testtesttesttesttesttesttest
-  implement: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  impact_live: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  who_benefit: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  partners_collaboration: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  metrics_live_healthyfood: '0'
-  metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '0'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '0'
-  metrics_live_pollutedwaterways: '0'
-  metrics_live_mentalillness: '0'
-  metrics_live_childhood: '0'
-  metrics_live_communities: '0'
-  metrics_live_healthcareservice: '0'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  impact_metrics: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  best_place_to_create: '1'
-  best_place_to_play: '0'
-  best_place_to_connect: '0'
-  best_place_to_learn: '0'
-  evaluate: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  two_lessons: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  achievable_goal: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  major_challenges: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttestv
-  competition: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttestv
-  cost: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  budget: >-
-    testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '0'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '0'
-  resources_network: '0'
-  resources_research: '0'
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -494,7 +494,7 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: lime
-published: true
+maker_image_id: '22672'
+maker_image_file_name: rainbow.jpg
 
 ---

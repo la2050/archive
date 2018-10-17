@@ -1,29 +1,22 @@
 ---
+published: true
 organization_id: '2016135'
 year_submitted: 2016
-organization_name: Los Angeles Food Policy Council
-organization_website: www.goodfoodla.org
-ein: '954302067'
-project_image_2: 6804863875741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102140'
+challenge_url: >-
+  https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
 title: 'Food Democracy in LA: Creating Policy Ideas for a Healthy, Fair Food System'
-organization_name_2: Los Angeles Food Policy Council
-organization_activity: >-
-  The Los Angeles Food Policy Council is a collective impact initiative working
-  to build a Good Food system for all Los Angeles residents — where food is
-  healthy, affordable, fair and sustainable.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
-project_video: 'https://www.youtube.com/embed/YhYQSknRMu8?rel=0&amp;showinfo=0'
 project_summary: >-
   Join hundreds of Angelenos in creating the NEW Good Food For All Agenda – a
   visionary policy platform to create health and resiliency for LA’s food
   system.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
+project_video: 'https://www.youtube.com/embed/YhYQSknRMu8?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   We will measure success through: 
 
@@ -70,6 +63,20 @@ project_description: >-
   Food For All Agenda will translate community priorities to policy makers so
   that all Angelenos can enjoy healthy, sustainable food.
 project_impact: '["Access to healthy food","Obesity","Resilient communities"]'
+project_proposal_impact:
+  - Access to healthy food
+  - Obesity
+  - Resilient communities
+project_proposal_description: >-
+  The Los Angeles Food Policy Council will catalyze, coordinate and connect over
+  300 local organizations and hundreds more stakeholders to create a NEW Good
+  Food For All Agenda – a visionary policy platform for health and resiliency in
+  our local food system. Combining data and community perspectives, the new Good
+  Food For All Agenda will translate community priorities to policy makers so
+  that all Angelenos can enjoy healthy, sustainable food.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Los Angeles sits at the heart of the largest food producing region in the
   nation, yet many low-income communities in Los Angeles County lack access to
@@ -132,22 +139,15 @@ project_proposal_best_place: >-
   Using these three strategies- and your help- we will generate a new Good Food
   For All Agenda, which will offer concrete action steps to create a healthy and
   fair food system that makes LA the best place to LIVE.
-challenge_url: >-
-  https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
+project_image_2: 6804863875741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The Los Angeles Food Policy Council will catalyze, coordinate and connect over
-  300 local organizations and hundreds more stakeholders to create a NEW Good
-  Food For All Agenda – a visionary policy platform for health and resiliency in
-  our local food system. Combining data and community perspectives, the new Good
-  Food For All Agenda will translate community priorities to policy makers so
-  that all Angelenos can enjoy healthy, sustainable food.
-project_proposal_impact:
-  - Access to healthy food
-  - Obesity
-  - Resilient communities
-category: live
-body_class: lime
-published: true
+organization_name: Los Angeles Food Policy Council
+organization_website: www.goodfoodla.org
+organization_name_2: Los Angeles Food Policy Council
+organization_activity: >-
+  The Los Angeles Food Policy Council is a collective impact initiative working
+  to build a Good Food system for all Los Angeles residents — where food is
+  healthy, affordable, fair and sustainable.
+ein: '954302067'
 
 ---

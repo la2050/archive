@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016102'
 year_submitted: 2016
-organization_name: Hollywood Fringe Festival (Hatchery Arts)
-organization_website: www.hollywoodfringe.org
-ein: ''
-project_image_2: 7523100096741-team90.jpg
+category: create
+body_class: banana
 project_id: '6102094'
+challenge_url: >-
+  https://challenge.la2050.org/entry/support-the-annual-hollywood-fringe-festival-including-expanding-the-fringe-scholarships-program
 title: >-
   Support the annual Hollywood Fringe Festival including expanding the Fringe
   Scholarships program
-organization_name_2: Hollywood Fringe Festival (Hatchery Arts)
-organization_activity: >-
-  Through its annual festival, Hollywood Fringe provides a platform for
-  emerging, underrepresented and experimental local performers to interact with
-  one another and engage with the Hollywood community.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7523100096741-team90.jpg
-project_video: 'https://www.youtube.com/embed/zSYYJz2FUBw?rel=0&amp;showinfo=0'
 project_summary: >-
   Grow the Hollywood Fringe Festival in order to create an empowered community
   of artists and lower the bar of entry for those who cannot afford to
   participate.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7523100096741-team90.jpg
+project_video: 'https://www.youtube.com/embed/zSYYJz2FUBw?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None.
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   Hollywood Fringe measures its success through its levels of participation from
   both artists and audience members and the breadth of diversity represented at
@@ -48,6 +42,20 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+project_proposal_description: >-
+  Hollywood Fringe seeks support for its annual June festival, which is
+  currently one of the largest open-access art festivals in the country. The
+  festival gives 100% of ticket sales to the performers and is supported by
+  volunteers and staff who work well below market rates. The organization is
+  especially looking for support of its Fringe Scholarships program, which
+  provides scholarships to performers from diverse and underrepresented
+  backgrounds.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   Hollywood Fringe supports the entire Los Angeles theatre community including
   actors, designers, producers, venues and patrons. During the festival,
@@ -65,23 +73,15 @@ project_proposal_best_place: >-
   effort includes expanding the marketing and communication of the program, as
   well as the hiring of a social media manager to better manage Hollywood
   Fringe’s outreach across social media platforms.
-challenge_url: >-
-  https://challenge.la2050.org/entry/support-the-annual-hollywood-fringe-festival-including-expanding-the-fringe-scholarships-program
+project_image_2: 7523100096741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Hollywood Fringe seeks support for its annual June festival, which is
-  currently one of the largest open-access art festivals in the country. The
-  festival gives 100% of ticket sales to the performers and is supported by
-  volunteers and staff who work well below market rates. The organization is
-  especially looking for support of its Fringe Scholarships program, which
-  provides scholarships to performers from diverse and underrepresented
-  backgrounds.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-category: create
-body_class: banana
-published: true
+organization_name: Hollywood Fringe Festival (Hatchery Arts)
+organization_website: www.hollywoodfringe.org
+organization_name_2: Hollywood Fringe Festival (Hatchery Arts)
+organization_activity: >-
+  Through its annual festival, Hollywood Fringe provides a platform for
+  emerging, underrepresented and experimental local performers to interact with
+  one another and engage with the Hollywood community.
+ein: ''
 
 ---

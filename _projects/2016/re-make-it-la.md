@@ -1,35 +1,24 @@
 ---
+published: true
 organization_id: '2016055'
 year_submitted: 2016
-organization_name: Concerned Capital/Crowdfund Better
-organization_website: www.concernedcapital.org
-ein: ''
-project_image_2: 8716427165741-team91.png
+category: create
+body_class: banana
 project_id: '6102111'
+challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'
 title: '#Re-Make It LA'
-organization_name_2: Concerned Capital/Crowdfund Better
-organization_activity: >-
-  Concerned Capital is a social impact investment firm that leverages economic
-  development tools to save/create family wage jobs in distressed communities by
-  re-energizing existing, operating companies.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
-project_video: ''
 project_summary: >-
   Reinvent older, LA manufacturing companies by using crowdfunding and other
   innovations to retain jobs in LA
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We are teaming up with Crowdfund Better (crowdfundbetter.com) on this
   proposal.  Founded in 2012 by Kathleen Minogue, Crowdfund Better provides
   crowdfunding strategy and education to entrepreneurs, creatives, nonprofits,
   and small businesses.
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Gateway Cities
 project_measure: >-
   It is our expectation that only 2-3 businesses will be viable candidates for
   successful crowdfunding campaigns, but all 10 businesses will reimagine their
@@ -78,6 +67,25 @@ project_description: >-
 project_impact: >-
   ["Manufacturing activity","Employment in the creative industries","Jobs per
   capita","Minority- and women-owned firms","Venture capital investment"]
+project_proposal_impact:
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Jobs per capita
+  - Minority- and women-owned firms
+  - Venture capital investment
+project_proposal_description: >-
+  Our proposal will identify 10 manufacturing companies in Los Angeles County
+  that are ‘at risk’ for relocation. We seek to ‘re-tool’ these companies
+  through new digital communications, enterprise crowdfunding, and/or management
+  capacity so they can better understand their marketplace, increase sales and
+  re-position the company to avert relocation and loss of manufacturing jobs in
+  LA County.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - Gateway Cities
 project_proposal_best_place: >-
   Manufacturing Activity: LA County has hemorrhaged manufacturing jobs in the
   last decade, losing 20% of these jobs. 
@@ -148,23 +156,15 @@ project_proposal_best_place: >-
   crowdfunding success and an ability for a business to obtain outside
   financing. Crowdfunding success also “increases the probability of business
   partnerships and stronger customer base.
-challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'
+project_image_2: 8716427165741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  Our proposal will identify 10 manufacturing companies in Los Angeles County
-  that are ‘at risk’ for relocation. We seek to ‘re-tool’ these companies
-  through new digital communications, enterprise crowdfunding, and/or management
-  capacity so they can better understand their marketplace, increase sales and
-  re-position the company to avert relocation and loss of manufacturing jobs in
-  LA County.
-project_proposal_impact:
-  - Manufacturing activity
-  - Employment in the creative industries
-  - Jobs per capita
-  - Minority- and women-owned firms
-  - Venture capital investment
-category: create
-body_class: banana
-published: true
+organization_name: Concerned Capital/Crowdfund Better
+organization_website: www.concernedcapital.org
+organization_name_2: Concerned Capital/Crowdfund Better
+organization_activity: >-
+  Concerned Capital is a social impact investment firm that leverages economic
+  development tools to save/create family wage jobs in distressed communities by
+  re-energizing existing, operating companies.
+ein: ''
 
 ---

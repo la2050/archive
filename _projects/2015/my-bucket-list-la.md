@@ -1,31 +1,20 @@
 ---
+published: true
+organization_id: '2015090'
+year_submitted: 2015
+category: connect
+body_class: tangerine
 project_id: '5102140'
 title: My Bucket List LA
-organization_id: '2015090'
-areas_impacted: ''
-partners: ''
 project_summary: "My Bucketlist LA Recipe: Serving the city + Learning the city + Connecting to the people of the city. Now repeat [you’ll have too much fun not to]. \r\n\r\nMy Bucketlist LA uses an interactive platform/map interface in order for targeted audieinces (e.g., new residents, college students, community leaders (neighborhood council members)) to easily navigate and connect with each other through curated community and cultural events focused around volunteerism, play/fun, and food.\r\n"
-Please specify below: ''
-category: connect
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
-maker_image_id: '23304'
-maker_image_file_name: MyBucketlistLA.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23304%252Fdisplay%252FMyBucketlistLA.png=c570x385
 project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
-  How did you hear about this challenge?: Friend
   'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Independent Team of LA Residents
   Organization(s) mailing address(es): '1920 Overland Ave Apt 302, Los Angeles, CA 90025'
   Organization(s) website(s): n/a
@@ -68,7 +57,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -87,6 +76,41 @@ maker_answers:
   How will your proposal improve the following “Connect” metrics? Residential segregation (Dream Metric): '0'
   How will your proposal improve the following “Connect” metrics? Access to free wifi (Dream Metric): '0'
   Describe in greater detail how you will make LA the best place to connect.: "LA is one of the most diverse cities in the world with over 40 languages spoken.  Many communities, however,  remain somewhat isolated, either in what is culturally familiar to them, what is accessible to them in terms of transportation, or based on any number of demographic factors.  Our vision is to partner with neighborhood councils, local organizations, local colleges, and corporate human resources departments, to connect people to everything that is Los Angeles.  We want people to experience the texture and various aspects of the city so that they can have a deeper connection, to walk away from these events having learned something new and calling LA “my city.”  My Bucket List LA will incorporate volunteerism, local restaurants, events, and  cultural/historical activities, while facilitating social connection across professional, racial, ethnic, and socio-economic lines.  We will tap into the existing cultural richness and natural diversity of our city to help expand participants’ overall experience as Angelenos.  We believe the structure of these events would provide exposure to social issues, more awareness and understanding of those issues, and further civic engagement.\r\n"
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  Where will you be working?:
+    - City of Los Angeles
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "One major barrier or challenge will be bridging the gap between simply participating in the event, as opposed to connecting, forming long lasting relationships and establishing continued participation in the community.  Our name itself includes the structural aim of our project: Bucket List.  The fundamental idea of a bucket list is repeated interaction, crossing off more that you’ve seen and done.  In attending multiple events through My Bucket List LA, people will come, volunteer, play, eat, and ultimately connect with familiar faces, while exploring new pockets of the city. \r\n"
   Please explain how you will evaluate your work.: >-
     We plan to evaluate with feedback from participating individuals and
@@ -100,42 +124,18 @@ maker_answers:
     raised from participating companies and organizations will allow us to
     maximize the reach of the program. 
   'Please include a detailed budget of how you will use $100,000 to implement this project.': "Fixed Cost: \r\nAdministrative Support - 10 hours a week $20/hr for a year ($10,000)\r\nSample Budget for an Event for 30 participants:\r\nCraft Supplies - 250\r\nFood - 600 (Can be defrayed by program participants and participating restaurants)\r\nTransportation (BUS) - 500\r\nKayaking - 1500\r\nPromotional Supplies - 250\r\nOperational Support - 500\r\nTotal:  $3600\r\n\r\nMultiple events would be planned and implemented over the course of the year.  \r\n"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "By tapping into the existing network of volunteer events, restaurants and activities around Los Angeles, scaling up will require strong partnerships.  We would partner with large corporations for large scale promotion, awareness, and sponsorships for employees or events.  We would also partner with volunteer organizations and non-profits to build strong relationships for future, continued and potentially regular volunteerism or events.  We would need to create a marketing plan to utilize social media, other digital and viral modes of promotion, establish city wide awareness and any other Public Relations need.  Additionally, if scaling up, we would need an operational team or administrative staff to plan and execute the events.  With continued growth we would build a platform to track the events, a bucket list app that includes social sharing as we continue to trek through the digital and social media world.  It would be incredible to then see a project like this grow into other cities.  \r\n"
-  Where will you be working?:
-    - City of Los Angeles
-  How do you plan to use these resources to make change?:
-    - Conduct research
-    - Engage residents and stakeholders
-    - Implement a pilot or new project
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - 'Infrastructure (building/space/vehicles, etc.)'
-    - Education/training
-    - 'Technical infrastructure (computers, etc.)'
-    - Community outreach
-    - Network/relationship support
-    - Quality improvement research
-  How will your proposal improve the following “Connect” metrics?:
-    - Rates of volunteerism
-    - Attendance at cultural events
-    - Number of public transit riders
-    - Participation in neighborhood councils
-    - Percentage of Angelenos that volunteer informally (Dream Metric)
-    - Total number of local social media friends and connections (Dream Metric)
-    - Attendance at public/open streets gatherings (Dream Metric)
+areas_impacted: ''
+partners: ''
+Please specify below: ''
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -539,8 +539,8 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "By tapping into the existing network of volunteer events, restaurants and activities around Los Angeles, scaling up will require strong partnerships.  We would partner with large corporations for large scale promotion, awareness, and sponsorships for employees or events.  We would also partner with volunteer organizations and non-profits to build strong relationships for future, continued and potentially regular volunteerism or events.  We would need to create a marketing plan to utilize social media, other digital and viral modes of promotion, establish city wide awareness and any other Public Relations need.  Additionally, if scaling up, we would need an operational team or administrative staff to plan and execute the events.  With continued growth we would build a platform to track the events, a bucket list app that includes social sharing as we continue to trek through the digital and social media world.  It would be incredible to then see a project like this grow into other cities.  \r\n"
-body_class: tangerine
+maker_image_id: '23304'
+maker_image_file_name: MyBucketlistLA.png
 organization_name: Independent Team of LA Residents
-published: true
 
 ---

@@ -1,30 +1,23 @@
 ---
+published: true
 organization_id: '2018115'
 year_submitted: 2016
-organization_name: 'Synaccord, LLC'
-organization_website: www.synaccord.com
-ein: '47448496'
-project_image_2: 8286144555741-team88.png
+category: connect
+body_class: tangerine
 project_id: '6102234'
+challenge_url: 'https://challenge.la2050.org/entry/engage-your-neighborhood'
 title: Engage Your Neighborhood
-organization_name_2: 'Synaccord, LLC'
-organization_activity: >-
-  Synaccord is building a platform for productive online discussion of 
-  polarizing issues. We do online what is done at in-person deliberative events
-  so we can find the solutions to what divides us.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8286144555741-team88.png
-project_video: 'https://www.youtube.com/embed/WCahF7BtB1c?rel=0&amp;showinfo=0'
 project_summary: >-
   Engage your neighbors and your neighborhood council your way, online,
   productively, to make the future happen
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8286144555741-team88.png
+project_video: 'https://www.youtube.com/embed/WCahF7BtB1c?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Venice Neighborhood Council - At the last minute it was determined that the NC
   will have to vote on supporting this. The vote will be on 10/18. I will notify
   you of the outcome, but we have strong sponsors.
-project_areas:
-  - Westside
 project_measure: >-
   Number of people engaged with the website – goal is at least as many as voted
   in NC election in 2016 
@@ -70,6 +63,19 @@ project_description: >-
 project_impact: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils"]
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+project_proposal_description: >-
+  Let's empower Angelinos to engage with each other and their Neighborhood
+  Councils online to solve their challenges and create their future. We’ll let
+  people be heard from the time and place available to them, and collaborate
+  with each other in an innovative online structure to bring out the most
+  representative public input, avoid the trolls, and no public speaking
+  required!  This project will work closely with one lead NC and make the tools
+  and best practices will be available to all in LA.
+project_areas:
+  - Westside
 project_proposal_best_place: >-
   Neighborhood councils in LA are a bold new experiment but they have challenges
   with engagement both at election time, and in their council participation. 
@@ -134,21 +140,15 @@ project_proposal_best_place: >-
   What’s your vision for your neighborhood in 2050?
 
   In 2050 what's your vision for how you connect?
-challenge_url: 'https://challenge.la2050.org/entry/engage-your-neighborhood'
+project_image_2: 8286144555741-team88.png
 empty_column_1: ''
-project_proposal_description: >-
-  Let's empower Angelinos to engage with each other and their Neighborhood
-  Councils online to solve their challenges and create their future. We’ll let
-  people be heard from the time and place available to them, and collaborate
-  with each other in an innovative online structure to bring out the most
-  representative public input, avoid the trolls, and no public speaking
-  required!  This project will work closely with one lead NC and make the tools
-  and best practices will be available to all in LA.
-project_proposal_impact:
-  - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
-category: connect
-body_class: tangerine
-published: true
+organization_name: 'Synaccord, LLC'
+organization_website: www.synaccord.com
+organization_name_2: 'Synaccord, LLC'
+organization_activity: >-
+  Synaccord is building a platform for productive online discussion of 
+  polarizing issues. We do online what is done at in-person deliberative events
+  so we can find the solutions to what divides us.
+ein: '47448496'
 
 ---

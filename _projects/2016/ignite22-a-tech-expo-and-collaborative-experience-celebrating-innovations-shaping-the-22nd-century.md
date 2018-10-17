@@ -1,26 +1,22 @@
 ---
+published: true
 organization_id: '2016023'
 year_submitted: 2016
-organization_name: 'Braid Theory, Inc.'
-organization_website: www.braidtheory.com
-ein: ''
-project_image_2: 1008153355741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102086'
+challenge_url: >-
+  https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
 title: >-
   IGNITE22: A tech expo and collaborative experience celebrating innovations
   shaping the 22nd century
-organization_name_2: 'Braid Theory, Inc.'
-organization_activity: >-
-  Braid Theory weaves together entrepreneurs, investors and industry influencers
-  to accelerate adoption of transformative technologies, drive market growth and
-  create profitable collaborations.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
-project_video: 'https://www.youtube.com/embed/XLWpDjYyDQI?rel=0&amp;showinfo=0'
 project_summary: >-
   IGNITE22 is a technology showcase and collaborative experience that will bring
   together creators, adopters and facilitators – visionaries that will shape the
   next century.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
+project_video: 'https://www.youtube.com/embed/XLWpDjYyDQI?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Through a collaboration with California State University Program for Education
@@ -29,9 +25,6 @@ project_collaborators: >-
   biotechnology education and partner with industry. By engaging area high
   school students involved in ITEP (International Trade Education Programs),
   IGNITE22 will inspire the next generation of STEM leaders.
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   IGNITE22 aims to bring together a diverse group of entrepreneurs, investors
   and industry leaders to foster the commercialization of transformative
@@ -89,6 +82,30 @@ project_impact: >-
   education institutions that remain in LA County 5 years after
   graduating","Recruiting and retention rates for local higher education
   institutions","Venture capital investment"]
+project_proposal_impact:
+  - Manufacturing activity
+  - Federal research grant funding
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Patents per capita
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
+  - Venture capital investment
+project_proposal_description: >-
+  IGNITE22 brings together, in a collaborative environment, the entrepreneurial
+  community, industry partners, academic institutions, and other stakeholders
+  and supporting organizations, for an event that showcases technology that will
+  impact our lives into the 22nd Century. IGNITE22 will inspire innovation and
+  creativity in entrepreneurship and STEM programs while supporting the region’s
+  technology hubs. With a single accord, we will celebrate the future.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   IGNITE22 is a catalyst for collaboration. We chose an event over a program to
   generate the broadest reach of stakeholders across industries and across a
@@ -129,32 +146,15 @@ project_proposal_best_place: >-
   hubs, particularly in biotech, aerospace, trade and transportation, and clean
   tech, thereby contributing to LA’s creative and entrepreneurial ecosystem with
   global economic influence.
-challenge_url: >-
-  https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
+project_image_2: 1008153355741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  IGNITE22 brings together, in a collaborative environment, the entrepreneurial
-  community, industry partners, academic institutions, and other stakeholders
-  and supporting organizations, for an event that showcases technology that will
-  impact our lives into the 22nd Century. IGNITE22 will inspire innovation and
-  creativity in entrepreneurship and STEM programs while supporting the region’s
-  technology hubs. With a single accord, we will celebrate the future.
-project_proposal_impact:
-  - Manufacturing activity
-  - Federal research grant funding
-  - Gini coefficient
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - High growth startups
-  - Patents per capita
-  - >-
-    Percentage of graduates from local higher education institutions that remain
-    in LA County 5 years after graduating
-  - Recruiting and retention rates for local higher education institutions
-  - Venture capital investment
-category: create
-body_class: banana
-published: true
+organization_name: 'Braid Theory, Inc.'
+organization_website: www.braidtheory.com
+organization_name_2: 'Braid Theory, Inc.'
+organization_activity: >-
+  Braid Theory weaves together entrepreneurs, investors and industry influencers
+  to accelerate adoption of transformative technologies, drive market growth and
+  create profitable collaborations.
+ein: ''
 
 ---

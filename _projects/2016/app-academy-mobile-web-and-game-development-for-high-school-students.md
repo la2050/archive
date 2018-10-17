@@ -1,27 +1,22 @@
 ---
+published: true
 organization_id: '2016163'
 year_submitted: 2016
-organization_name: Pasadena Educational Foundation
-organization_website: www.pasedfoundation.org
-ein: ''
-project_image_2: 4308721265741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102175'
+challenge_url: >-
+  https://challenge.la2050.org/entry/app-academy-mobile-web-and-game-development-for-high-school-students
 title: 'APP Academy: Mobile, Web and Game Development for High School Students'
-organization_name_2: Pasadena Educational Foundation
-organization_activity: >-
-  Pasadena Educational Foundation supports, enhances and supplements the
-  programs, initiatives, and priorities of the Pasadena Unified School District.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
-project_video: 'https://www.youtube.com/embed/gzso3MPN5og?rel=0&amp;showinfo=0'
 project_summary: >-
   The APP Academy is a four-year computer science education program where high
   school students learn mobile, web and game development through real-world,
   inquiry-based, hands-on projects.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
+project_video: 'https://www.youtube.com/embed/gzso3MPN5og?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: '1. Pasadena Unified School District, 2. Pasadena Chamber of Commerce'
-project_areas:
-  - San Gabriel Valley
 project_measure: >-
   Success is measured by the number of students engaged and the quality of their
   experience. For example, following the graduation of the first class of 17
@@ -67,6 +62,20 @@ project_description: >-
 project_impact: >-
   ["College completion","College matriculation rates","Student education
   pipeline"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Student education pipeline
+project_proposal_description: >-
+  The APP Academy is a collaboration of the Pasadena Educational Foundation and
+  the Pasadena Unified School District, designed to teach computer science to
+  high school students from diverse backgrounds and prepare them for success in
+  college and career. The 4-year program delivers a project-based learning
+  experience where students learn programming by creating their own websites,
+  games and mobile apps. Started in 2012, it graduated its first class of
+  students in 2016, who are now all in college.
+project_areas:
+  - San Gabriel Valley
 project_proposal_best_place: >-
   Technology is creating new opportunities for youth to reach their full
   potential and to lead fulfilling and successful lives. By the year 2020 it has
@@ -121,23 +130,14 @@ project_proposal_best_place: >-
   African-American youth; and Star Gazers, a wearable product that allows users
   to locate constellations in the night sky (see the uploaded image for details
   about the student and her project.)
-challenge_url: >-
-  https://challenge.la2050.org/entry/app-academy-mobile-web-and-game-development-for-high-school-students
+project_image_2: 4308721265741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The APP Academy is a collaboration of the Pasadena Educational Foundation and
-  the Pasadena Unified School District, designed to teach computer science to
-  high school students from diverse backgrounds and prepare them for success in
-  college and career. The 4-year program delivers a project-based learning
-  experience where students learn programming by creating their own websites,
-  games and mobile apps. Started in 2012, it graduated its first class of
-  students in 2016, who are now all in college.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: Pasadena Educational Foundation
+organization_website: www.pasedfoundation.org
+organization_name_2: Pasadena Educational Foundation
+organization_activity: >-
+  Pasadena Educational Foundation supports, enhances and supplements the
+  programs, initiatives, and priorities of the Pasadena Unified School District.
+ein: ''
 
 ---

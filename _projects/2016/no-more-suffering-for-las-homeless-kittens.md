@@ -1,18 +1,16 @@
 ---
+published: true
 organization_id: '2016177'
 year_submitted: 2016
-organization_name: Pretty Good Cat
-organization_website: Prettygoodcat.com
-ein: ''
-project_image_2: 7781213474741-team90.JPG
+category: live
+body_class: lime
 project_id: '6102189'
+challenge_url: 'https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens'
 title: 'No More Suffering for LA''s Homeless Kittens '
-organization_name_2: Pretty Good Cat
-organization_activity: We rescue unsponsored cats and dogs .
+project_summary: No More Suffering for LA's Homeless Kittens
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7781213474741-team90.JPG
 project_video: ''
-project_summary: No More Suffering for LA's Homeless Kittens
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Signal Hill Pet Hospital, Dr. Ragi Boctor, 3449 E Pacific Coast Hwy, Signal
@@ -21,12 +19,6 @@ project_collaborators: >-
   645 4444, , Ohana Veterinary  Clinic, Dr. Tracy Uchima, 22231 S. Vermont Ave.,
   Torrance, CA 90502, (310) 328 0380, , Tenth  Life Pet Rescue, Lisa Vought,
   Suite 100, 600 S. Pacific Avenue, San Pedro, CA 90731, 626 833 5920
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - South Bay
 project_measure: >-
   We will measure against a goal of 300 kitties served for the year and accuracy
   of the projected budget. 
@@ -56,6 +48,22 @@ project_description: >2-
   colonies. This improves the quality of communities who are overrun with
   homeless felines and gives the kitties a chance at a healthy life.
 project_impact: '["Resilient communities"]'
+project_proposal_impact:
+  - Resilient communities
+project_proposal_description: >-
+  ' We can judge the heart of a man by his treatment of animals,' - Immanuel
+  Kant.
+
+  This project is to spay or neuter feral cats, give them needed medical care
+  and then socialize them and find them loving homes or place them in managed
+  colonies. This improves the quality of communities who are overrun with
+  homeless felines and gives the kitties a chance at a healthy life.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - South Bay
 project_proposal_best_place: >-
   Our communities are overrun with unwanted cats. Thanks to the ASPCA, residents
   can now have domestic pets fixed free of charge. But these groups are
@@ -74,20 +82,12 @@ project_proposal_best_place: >-
   will allow current, limited resources to be reallocated to other programs for
   animals, including low cost medical support and adoption efforts though animal
   control and volunteer groups.
-challenge_url: 'https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens'
+project_image_2: 7781213474741-team90.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  ' We can judge the heart of a man by his treatment of animals,' - Immanuel
-  Kant.
-
-  This project is to spay or neuter feral cats, give them needed medical care
-  and then socialize them and find them loving homes or place them in managed
-  colonies. This improves the quality of communities who are overrun with
-  homeless felines and gives the kitties a chance at a healthy life.
-project_proposal_impact:
-  - Resilient communities
-category: live
-body_class: lime
-published: true
+organization_name: Pretty Good Cat
+organization_website: Prettygoodcat.com
+organization_name_2: Pretty Good Cat
+organization_activity: We rescue unsponsored cats and dogs .
+ein: ''
 
 ---

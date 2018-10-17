@@ -1,27 +1,20 @@
 ---
+published: true
 organization_id: '2016100'
 year_submitted: 2016
-organization_name: Historic Core BID
-organization_website: historiccore.bid
-ein: ''
-project_image_2: 3396502194741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102092'
+challenge_url: 'https://challenge.la2050.org/entry/spring-street-parklets'
 title: Spring Street Parklets
-organization_name_2: Historic Core BID
-organization_activity: >-
-  The Historic Core BID is a 501(c)(6) non-profit dedicated to improving quality
-  of life in the Historic Core of DTLA through clean, safe, and enterprise
-  programs.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
-project_video: 'https://www.youtube.com/embed/7q-meY3ysT4?rel=0&amp;showinfo=0'
 project_summary: >-
   Spark face-to-face connections and cultural engagement through
   technology-equipped public parklets in the heart of Downtown Los Angeles.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
+project_video: 'https://www.youtube.com/embed/7q-meY3ysT4?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: LA City Councilmember Jose Huizar
-project_areas:
-  - Central LA
 project_measure: >-
   Success for this project means a better connected Downtown. It means more
   face-to-face interactions between community members, more individuals
@@ -58,6 +51,24 @@ project_impact: >-
   ["Access to free wifi","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Travel time to
   work","Public transit riders","Residential segregation"]
+project_proposal_impact:
+  - Access to free wifi
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - Residential segregation
+project_proposal_description: >-
+  Our proposal is to build new technology-equipped public parklets on Spring
+  Street, and enhance the two original pilot parklets. Strategically located
+  adjacent to DTLA hotspots like Guisados and The Last Bookstore, the parklets
+  will feature planters, shaded seating, free wifi, charging stations, and
+  spaces for arts and culture programming. With a pledge of matching funds from
+  Councilmember Jose Huizar, the parklets will be designed, built, and
+  maintained by the HCBID and the City of Los Angeles.
+project_areas:
+  - Central LA
 project_proposal_best_place: >-
   The Historic Core is Downtown LA’s residential hub, cultural center, and
   creative crossroads. It is one of the most dense and diverse neighborhoods in
@@ -99,26 +110,15 @@ project_proposal_best_place: >-
   Jose Huizar’s Spring Street Redesign that will significantly improve traffic
   flow, relocate public transit stops, create protected bike lanes, and make
   DTLA overall more pedestrian, bike, and transit friendly.
-challenge_url: 'https://challenge.la2050.org/entry/spring-street-parklets'
+project_image_2: 3396502194741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Our proposal is to build new technology-equipped public parklets on Spring
-  Street, and enhance the two original pilot parklets. Strategically located
-  adjacent to DTLA hotspots like Guisados and The Last Bookstore, the parklets
-  will feature planters, shaded seating, free wifi, charging stations, and
-  spaces for arts and culture programming. With a pledge of matching funds from
-  Councilmember Jose Huizar, the parklets will be designed, built, and
-  maintained by the HCBID and the City of Los Angeles.
-project_proposal_impact:
-  - Access to free wifi
-  - Cultural events
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Travel time to work
-  - Public transit riders
-  - Residential segregation
-category: connect
-body_class: tangerine
-published: true
+organization_name: Historic Core BID
+organization_website: historiccore.bid
+organization_name_2: Historic Core BID
+organization_activity: >-
+  The Historic Core BID is a 501(c)(6) non-profit dedicated to improving quality
+  of life in the Historic Core of DTLA through clean, safe, and enterprise
+  programs.
+ein: ''
 
 ---

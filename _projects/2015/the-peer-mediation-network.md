@@ -1,9 +1,11 @@
 ---
+published: true
+organization_id: '2015201'
+year_submitted: 2015
+category: learn
+body_class: blueberry
 project_id: '5102303'
 title: The Peer Mediation Network
-organization_id: '2015201'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   Students will lead the conflict resolution revolution and be agents of
   peaceful change in LA and via the internet. Young people who have received
@@ -12,26 +14,14 @@ project_summary: >-
   alternatives to violence and social emotional learning using technology that
   is fast becoming a universal language and whose integration into all facets of
   communication will be de rigueur for citizens of 2050.
-Please specify below: ''
-category: learn
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
 project_image: 'https://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/69OXVYZ15kU'
-youtube_video_identifier: 69OXVYZ15kU
 project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): The Institute for Nonviolence in Los Angeles
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   Organization(s) mailing address(es): "1000 N. Alameda Street, Suite 240\r\nLos Angeles, CA 90012"
   Organization(s) website(s): www.invla.org
   Organization(s) twitter handle(s): ' www.twitter.com/DaysofDialogue'
@@ -81,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -98,6 +88,37 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics? Truancy rates in elementary and middle schools (Dream Metric): '1'
   How will your proposal improve the following “Learn” metrics? Students perceived sense of safety at and on the way to school (Dream Metric): '1'
   Describe in greater detail how you will make LA the best place to learn.: "INVLA is in its 4th year training students in South LA to be Peer Mediators. (See attached video). Via the Peer Mediation Network, youth (ages 8 – 18) will take their work to the next level and be agents of peaceful change in their schools and communities. They will collaborate to create regular Vodcasts on the PeerMediationNetwork.org, interviewing other peer mediators, school personnel, families, and potentially reenacting real ‘cases.’ While mastering communication and listening skills, these young people will model alternatives to violence at school and in communities and integrate technology to expand the reach of the program. Combining mediation and social emotional learning with the focused use of technology will provide an invaluable formula for personal and professional life-long success, utilizable in many contexts.\r\n\r\nPeer mediation is a restorative practice in which trained students help their peers resolve conflicts. Based on restorative principles, it promotes interpersonal connection, builds a sense of community and integrates the voices of participants. Training teaches students social emotional learning and conflict resolution skills that allow them to manage their feelings and behaviors and co-exist more peacefully. Disputes that would otherwise escalate to violence, get diffused and agreements reached generally 'stick'. A single suspension increases the chances of low achievement, dropping out of school and being pushed into the criminal justice system. Evidence shows that peer mediation programs (1) reduce violent conflict and generally decrease the number of office referrals and school suspensions by 45% and (2) trained peer mediators have higher academic achievement, increased self-esteem and better communication.  \r\n\r\nThis project will enable INVLA to augment its Peer Mediation Training Program by providing funds for full implementation support at the schools. Creating a safe, stable learning environment, Peer Mediation- especially when offered as a regularly scheduled elective- improves school climates and builds greater student connectedness. \r\n\r\nProject Goals: \r\n(1)\tModel the mastery of the Vodcast, social media, and other technologies as integrated and purposeful tools, in order to mainstream the concept that there are alternatives to violence in society.\r\n(2)\tReduce the rates of suspension and expulsion at each school\r\n(3)\tImprove school climates and increase students’ perceived sense of safety at school"
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  Where will you be working?:
+    - City of Los Angeles
+    - LAUSD
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     Challenges in the form of student motivation and scheduling peer mediations
     will need to be addressed to ensure the longevity of the project. Special
@@ -136,17 +157,6 @@ maker_answers:
     $161,00.00 - In-Kind contributions will cover additional costs.  Please see
     the budget below.
   'Please include a detailed budget of how you will use $100,000 to implement this project.': "LA2050 REQUEST\t- 100,000\r\n\r\nIN-KIND CONTRIBUTIONS\r\nTrained volunteer mediators - 20,000\t\t\r\nLAUSD staff - 20,000\t\t\r\nLAUSD facilities - 5,000\r\nVideographer & Website development - 10,000\r\nSnacks for youth - 500\t\r\nGraduate student independent evaluator - 500\t\r\nEquipment (computers, camera, printers, editing software) - 5000\t\r\nTOTAL - 61,000\r\n\t\r\nEXPENDITURES\t\t\t\t\r\nProgram Director- Schools - 16,000 (includes benefits)\t\t\t\r\nProgram Director-Vodcasts and other online elements - 16,000 (includes benefits)\t\t\r\nINVLA:  Program Oversight, Resources, Marketing, Office & Conference space, equipment - 20,000\t\t\t\r\nLead Trainers’ stipend (3 people, part time) - 20,000\t\t\t\r\nVideographer/Trainer - 10,000\t\t\r\nWebsite design, development and maintenance - 4,000\t\r\nSnacks for youth - 700\t\r\nVolunteers’ live scans - 300\t\t\t\r\nVodcast studio rental, related expenses, personnel - $3000\t\t\r\nFiscal Sponsor Fee reqd by Community Partners for all contributions-- 10000\t\t\t\r\nTOTAL - 100,000\r\n\r\nPROJECT TOTAL 161000\t\t"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: >-
     National expansion of this project will primarily depend on the project’s
     ability to highlight best practices as well as the benefits of
@@ -165,26 +175,18 @@ maker_answers:
     development process and create grassroots support. The Peer Mediation
     Network (www.peermediationnetwork.org - website is under construction) will
     provide content and opportunities for further learning and doing. 
-  Where will you be working?:
-    - City of Los Angeles
-    - LAUSD
-  How do you plan to use these resources to make change?:
-    - Conduct research
-    - Engage residents and stakeholders
-    - Mobilize for systems change
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - Community outreach
-  How will your proposal improve the following “Learn” metrics?:
-    - District-wide graduation rates
-    - District-wide graduation ratesAcademic Performance Index* scores
-    - Suspension and expulsion rates (Dream Metric)
-    - Truancy rates in elementary and middle schools (Dream Metric)
-    - >-
-      Students perceived sense of safety at and on the way to school (Dream
-      Metric)
+areas_impacted: ''
+partners: ''
+Please specify below: ''
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
+youtube_video_identifier: 69OXVYZ15kU
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -627,8 +629,6 @@ maker_answers_list:
       Peer Mediation Network (www.peermediationnetwork.org - website is under
       construction) will provide content and opportunities for further learning
       and doing. 
-body_class: blueberry
 organization_name: The Institute for Nonviolence in Los Angeles
-published: true
 
 ---

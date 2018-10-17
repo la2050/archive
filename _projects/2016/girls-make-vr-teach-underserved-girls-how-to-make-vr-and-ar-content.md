@@ -1,32 +1,25 @@
 ---
+published: true
 organization_id: '2016014'
 year_submitted: 2016
-organization_name: Arts Bridging the Gap
-organization_website: www.artsbridgingthegap.org
-ein: ''
-project_image_2: 6368104854741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102011'
+challenge_url: >-
+  https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
 title: 'Girls Make VR: Teach underserved girls how to make VR and AR content'
-organization_name_2: Arts Bridging the Gap
-organization_activity: >-
-  Arts Bridging the Gap creates Arts-educational experiences and programs to
-  bridge the achievement gap for underserved youth and ensure a better future
-  for all children
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
-project_video: 'https://www.youtube.com/embed/9rIjGtZLljo?rel=0&amp;showinfo=0'
 project_summary: >-
   Weekly educational events, workshops and classes to teach underserved girls
   cutting edge creative and technical processes for making Virtual Reality and
   Augmented Reality content.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
+project_video: 'https://www.youtube.com/embed/9rIjGtZLljo?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   VRLA School: the education arm of the largest VR/AR expo in the world, VRLA.,
   SH//FT: an organization that partners w/ industry leaders in emerging tech
   such as AR/VR to sponsor opportunities for minority groups.
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   We will base our success of three areas with specific metrics
 
@@ -71,6 +64,22 @@ project_description: >-
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  We are creating an educational platform to give underserved girls resources to
+  empower them as valuable creators in this new tech and media landscape. 
+  Recently, VRLA School, Arts Bridging the Gap, SH//FT and other organizations
+  collaborated to put on the first Girls Make VR hands-on workshop for young
+  girls interested in learning how to make interactive Virtual Reality (VR)
+  content.  It proved to be a hugely valuable experience for the girls -
+  immersing them in a new world and potential future.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Los Angeles is one of the great technology centers of the world -  with the
   confluence of its renowned entertainment industry and bustling tech scene, LA
@@ -121,24 +130,15 @@ project_proposal_best_place: >-
   Our classes will open girls' hearts and minds to the importance of learning by
   igniting their abilities in this forward thinking industry, making LA the
   leading city for change.
-challenge_url: >-
-  https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
+project_image_2: 6368104854741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  We are creating an educational platform to give underserved girls resources to
-  empower them as valuable creators in this new tech and media landscape. 
-  Recently, VRLA School, Arts Bridging the Gap, SH//FT and other organizations
-  collaborated to put on the first Girls Make VR hands-on workshop for young
-  girls interested in learning how to make interactive Virtual Reality (VR)
-  content.  It proved to be a hugely valuable experience for the girls -
-  immersing them in a new world and potential future.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Arts Bridging the Gap
+organization_website: www.artsbridgingthegap.org
+organization_name_2: Arts Bridging the Gap
+organization_activity: >-
+  Arts Bridging the Gap creates Arts-educational experiences and programs to
+  bridge the achievement gap for underserved youth and ensure a better future
+  for all children
+ein: ''
 
 ---

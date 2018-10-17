@@ -1,25 +1,22 @@
 ---
+published: true
 organization_id: '2016251'
 year_submitted: 2016
-organization_name: Valley Relics
-organization_website: litresedablvd.wordpress.com
-ein: ''
-project_image_2: 7295760875741-team91.jpeg
+category: connect
+body_class: tangerine
 project_id: '6102278'
+challenge_url: >-
+  https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
 title: >-
   LIT is a community block party with curated lights and music featuring local
   SFV talent
-organization_name_2: Valley Relics
-organization_activity: >-
-  Valley Relics is a non profit 501(c)3 organization working to preserve and
-  protect the history, culture and artifacts of the San Fernando Valley
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
-project_video: 'https://www.youtube.com/embed/rFJckDRj_3A?rel=0&amp;showinfo=0'
 project_summary: >-
   LIT is a community block party with an interactive lighting and music
   experience, created and curated by local students, artists and musicians from
   the San Fernando Valley.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
+project_video: 'https://www.youtube.com/embed/rFJckDRj_3A?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Beats and Pieces LA, California State University, Northridge, Collective
@@ -28,8 +25,6 @@ project_collaborators: >-
   Chamber of Commerce, Northridge South Neighborhood Council, Northridge Sparkle
   Campaign, Office of Los Angeles City Councilmember Mitchell Englander, Reload
   LA, Strife TV, San Fernando Valley Rescue Mission, Valley Relics
-project_areas:
-  - San Fernando Valley
 project_measure: |-
   · Number of students learning tangible coding and light production skills
   · Number of people attending event
@@ -60,6 +55,25 @@ project_impact: >-
   riders","Participation in neighborhood councils","Rates of
   volunteerism","Residential segregation","Total number of local social media
   friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  LIT is a community block party under the stars, with an integrated,
+  interactive audiovisual experience. Local students will learn how to build,
+  program and install specially curated light installations to accompany a
+  series of live DJ sets at a community block party on Reseda Boulevard. LIT
+  will also feature local artists, performers and businesses from the San
+  Fernando Valley in a fun, night market atmosphere.
+project_areas:
+  - San Fernando Valley
 project_proposal_best_place: >-
   LIT will be a block party celebration of San Fernando Valley history, art and
   culture in the heart of the San Fernando Valley - on the Reseda Blvd Great
@@ -104,28 +118,14 @@ project_proposal_best_place: >-
   Valley, giving the diverse residents, businesses and visitors an opportunity
   to proudly celebrate a unique past, in the present, while building the
   community of their future.
-challenge_url: >-
-  https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
+project_image_2: 7295760875741-team91.jpeg
 empty_column_1: ''
-project_proposal_description: >-
-  LIT is a community block party under the stars, with an integrated,
-  interactive audiovisual experience. Local students will learn how to build,
-  program and install specially curated light installations to accompany a
-  series of live DJ sets at a community block party on Reseda Boulevard. LIT
-  will also feature local artists, performers and businesses from the San
-  Fernando Valley in a fun, night market atmosphere.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Public transit riders
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Residential segregation
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Valley Relics
+organization_website: litresedablvd.wordpress.com
+organization_name_2: Valley Relics
+organization_activity: >-
+  Valley Relics is a non profit 501(c)3 organization working to preserve and
+  protect the history, culture and artifacts of the San Fernando Valley
+ein: ''
 
 ---

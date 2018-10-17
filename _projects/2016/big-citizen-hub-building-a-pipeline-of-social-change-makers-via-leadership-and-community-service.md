@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2018008'
 year_submitted: 2016
-organization_name: Big Citizen HUB
-organization_website: bigcitizenhub.org
-ein: '954302067'
-project_image_2: 9500569955741-team90.jpg
+category: connect
+body_class: tangerine
 project_id: '6102017'
+challenge_url: >-
+  https://challenge.la2050.org/entry/big-citizen-hub-building-a-pipeline-of-social-change-makers-via-leadership-and-community-service
 title: >-
   Big Citizen HUB: Building a pipeline of social change makers via leadership
   and community service
-organization_name_2: Big Citizen HUB
-organization_activity: >-
-  Big Citizen HUB connects youth from across LA, empowering them to be
-  contributing members of society by cultivating leadership skills and creating
-  an environment to tackle pressing civic challenges.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9500569955741-team90.jpg
-project_video: 'https://www.youtube.com/embed/WA8wmi8t3ik?rel=0&amp;showinfo=0'
 project_summary: >-
   Big Citizen HUB will connect 236 diverse young people, ages 11-26, from all
   across Los Angeles for 22 Saturdays to learn about our communities and address
   local issues through service.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9500569955741-team90.jpg
+project_video: 'https://www.youtube.com/embed/WA8wmi8t3ik?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   Through a combination of participant surveys (pre, post, and 6-months out),
   focus groups, and observations, we are looking at the following to determine
@@ -87,6 +81,22 @@ project_impact: >-
   ["Social & emotional support","Public transit riders","Rates of
   volunteerism","Residential segregation","Total number of local social media
   friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Public transit riders
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  Big Citizen HUB will increase impact, adding 66 Big Citizens to our middle
+  school, high school, and college-aged cohorts. In total 236 youth people will
+  come together to learn about the diversity of each other, the city, and it’s
+  issues. Through partnerships with over 50 local nonprofits, we’ll give Big
+  Citizens the skills and place to develop and lead service projects, allowing
+  them to see that they can have a positive impact on the community, setting the
+  stage for future action.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   Big Citizen HUB will help make LA the best place to connect by providing
   meaningful civic engagement opportunities for diverse youth all across the
@@ -152,25 +162,15 @@ project_proposal_best_place: >-
   young leaders with each other, with LA’s critical issues, and with local
   agencies working toward solutions, we will help make LA the best place to
   connect.
-challenge_url: >-
-  https://challenge.la2050.org/entry/big-citizen-hub-building-a-pipeline-of-social-change-makers-via-leadership-and-community-service
+project_image_2: 9500569955741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Big Citizen HUB will increase impact, adding 66 Big Citizens to our middle
-  school, high school, and college-aged cohorts. In total 236 youth people will
-  come together to learn about the diversity of each other, the city, and it’s
-  issues. Through partnerships with over 50 local nonprofits, we’ll give Big
-  Citizens the skills and place to develop and lead service projects, allowing
-  them to see that they can have a positive impact on the community, setting the
-  stage for future action.
-project_proposal_impact:
-  - Social & emotional support
-  - Public transit riders
-  - Rates of volunteerism
-  - Residential segregation
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Big Citizen HUB
+organization_website: bigcitizenhub.org
+organization_name_2: Big Citizen HUB
+organization_activity: >-
+  Big Citizen HUB connects youth from across LA, empowering them to be
+  contributing members of society by cultivating leadership skills and creating
+  an environment to tackle pressing civic challenges.
+ein: '954302067'
 
 ---

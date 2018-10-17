@@ -1,31 +1,23 @@
 ---
+published: true
 organization_id: '2016208'
 year_submitted: 2016
-organization_name: Tampon Tribe
-organization_website: www.tampontribe.com
-ein: ''
-project_image_2: 8470067535741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102239'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months
 title: >-
   The Period Pack Project: Monthly Feminine Hygiene Packs for 2,000 Homeless
   Women, for 10 Months.
-organization_name_2: Tampon Tribe
-organization_activity: >-
-  Tampon Tribe enables access to organic, toxic- free and plastic-free feminine
-  hygiene to all women. We believe that all women should be able to chose what
-  they put in their bodies and the environment.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
-project_video: 'https://www.youtube.com/embed/sVisyYUs8U0?rel=0&amp;showinfo=0'
 project_summary: >-
   Period Packs: Providing Essential Feminine Hygiene to Homeless Women. Can you
   imagine getting your period while living on the streets?
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
+project_video: 'https://www.youtube.com/embed/sVisyYUs8U0?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   The distributing to and subsequent regular use of Period Packs by homeless
   women on the streets and in homeless shelters across LA, will enable us to
@@ -57,6 +49,25 @@ project_impact: >-
   ["Waterways","Healthcare access","Self-sufficiency","Local water","Resilient
   communities","Residents receiving coordinated healthcare
   services","Homelessness"]
+project_proposal_impact:
+  - Waterways
+  - Healthcare access
+  - Self-sufficiency
+  - Local water
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Homelessness
+project_proposal_description: >-
+  Our Period Pack Project will provide sustainably-produced toxic-free tampons
+  and pads to 2,000 of L.A.'s most critically-underserved homeless women, every
+  month, for 10 months. That's 20,000 packs. Can you imagine getting you period
+  while living on the streets? Our Period Packs include biodegradable waste bags
+  and feminine wipes, as well as tampons and pads, providing essential items to
+  women, focusing on access, environment, and human dignity.
+project_areas:
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Homelessness is one of the most pressing issues facing Los Angeles today, and
   while on the increase, has been identified as a key focus of improvement both
@@ -91,26 +102,15 @@ project_proposal_best_place: >-
   hygiene products to homeless women is obvious - in the long-term, such access
   to essential items is aimed at returning a sense of self and empowerment to
   homeless women, on a road to reducing homelessness in LA altogether.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months
+project_image_2: 8470067535741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Our Period Pack Project will provide sustainably-produced toxic-free tampons
-  and pads to 2,000 of L.A.'s most critically-underserved homeless women, every
-  month, for 10 months. That's 20,000 packs. Can you imagine getting you period
-  while living on the streets? Our Period Packs include biodegradable waste bags
-  and feminine wipes, as well as tampons and pads, providing essential items to
-  women, focusing on access, environment, and human dignity.
-project_proposal_impact:
-  - Waterways
-  - Healthcare access
-  - Self-sufficiency
-  - Local water
-  - Resilient communities
-  - Residents receiving coordinated healthcare services
-  - Homelessness
-category: live
-body_class: lime
-published: true
+organization_name: Tampon Tribe
+organization_website: www.tampontribe.com
+organization_name_2: Tampon Tribe
+organization_activity: >-
+  Tampon Tribe enables access to organic, toxic- free and plastic-free feminine
+  hygiene to all women. We believe that all women should be able to chose what
+  they put in their bodies and the environment.
+ein: ''
 
 ---

@@ -1,31 +1,25 @@
 ---
+published: true
 organization_id: '2016026'
 year_submitted: 2016
-organization_name: BreastfeedLA
-organization_website: breastfeedla.org
-ein: ''
-project_image_2: 3797480105741-team90.jpeg
+category: live
+body_class: lime
 project_id: '6102022'
+challenge_url: >-
+  https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
 title: Creating a First Food Friendly South Los Angeles
-organization_name_2: BreastfeedLA
-organization_activity: >-
-  BreastfeedLA is dedicated to improving the health and wellbeing of infants and
-  families through education, outreach, and advocacy to promote and support
-  breastfeeding.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
-project_video: 'https://www.youtube.com/embed/LPu2w2BufhE?rel=0&amp;showinfo=0'
 project_summary: >-
   Increasing food security in South Los Angeles by supporting breastfeeding in
   the community.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
+project_video: 'https://www.youtube.com/embed/LPu2w2BufhE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Breastfeeding Task force of Greater Los Angeles: BreastfeedLA (BFLA), Soul
   Food for Your Baby (SFYB), Public Health Foundation Enterprises WIC (PHFE
   WIC), Northeast Valley Health Corporation WIC (NEVHC), County of Los Angeles,
   Department of Public Health, South Los Angeles Health Projects
-project_areas:
-  - South LA
 project_measure: >-
   We aim to increase baseline exclusive breastfeeding rates by 3% over a
   one-year period in South Los Angeles.  This measure along with process
@@ -88,6 +82,21 @@ project_description: >-
 project_impact: >-
   ["Access to healthy food","Healthcare access","Obesity","Residents receiving
   coordinated healthcare services"]
+project_proposal_impact:
+  - Access to healthy food
+  - Healthcare access
+  - Obesity
+  - Residents receiving coordinated healthcare services
+project_proposal_description: >-
+  BreastfeedLA (BFLA) plans to increase its efforts to transform community
+  clinics in South LA into Breastfeeding Friendly health centers affecting
+  thousands of families. We will help implement comprehensive institutional
+  changes that allow mothers to turn their breastfeeding goals into reality. In
+  addition, BreastfeedLA and SFYB will work together to bring a dynamic
+  culturally congruent breastfeeding education and support program to the
+  underserved community of South LA.
+project_areas:
+  - South LA
 project_proposal_best_place: >-
   BFLA is positioned to effectively help address the immediate needs of the
   community with direct services, resources, and technical support that is
@@ -140,24 +149,15 @@ project_proposal_best_place: >-
   support and care services to mothers and their families within clinics. BFLA
   will assist CHCs with establishing written procedures that ensure a
   breastfeeding-friendly clinic environment.
-challenge_url: >-
-  https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
+project_image_2: 3797480105741-team90.jpeg
 empty_column_1: ''
-project_proposal_description: >-
-  BreastfeedLA (BFLA) plans to increase its efforts to transform community
-  clinics in South LA into Breastfeeding Friendly health centers affecting
-  thousands of families. We will help implement comprehensive institutional
-  changes that allow mothers to turn their breastfeeding goals into reality. In
-  addition, BreastfeedLA and SFYB will work together to bring a dynamic
-  culturally congruent breastfeeding education and support program to the
-  underserved community of South LA.
-project_proposal_impact:
-  - Access to healthy food
-  - Healthcare access
-  - Obesity
-  - Residents receiving coordinated healthcare services
-category: live
-body_class: lime
-published: true
+organization_name: BreastfeedLA
+organization_website: breastfeedla.org
+organization_name_2: BreastfeedLA
+organization_activity: >-
+  BreastfeedLA is dedicated to improving the health and wellbeing of infants and
+  families through education, outreach, and advocacy to promote and support
+  breastfeeding.
+ein: ''
 
 ---

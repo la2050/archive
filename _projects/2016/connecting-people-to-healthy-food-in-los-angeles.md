@@ -1,28 +1,22 @@
 ---
+published: true
 organization_id: '2016080'
 year_submitted: 2016
-organization_name: Food Oasis Los Angeles
-organization_website: foodoasis.la
-ein: ''
-project_image_2: 4873052265741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102070'
+challenge_url: >-
+  https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
 title: Connecting People to Healthy Food in Los Angeles
-organization_name_2: Food Oasis Los Angeles
-organization_activity: >-
-  Food Oasis LA was created to assist local advocacy and increase local
-  awareness in solving LA’s food inequality by building a platform to leverage a
-  bevy of resources and current web technologies.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
-project_video: 'https://www.youtube.com/embed/31P5WKMZjqg?rel=0&amp;showinfo=0'
 project_summary: >-
   We want to make a healthier LA! We think the best way to do this is to
   leverage current tech and build a platform to empower everyone with the right
   tools and resources to easily find healthy food.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
+project_video: 'https://www.youtube.com/embed/31P5WKMZjqg?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   Our definition of success is primarily founded in the success of our cause. We
   hope to reach at least 50,000 residents through marketing and to get testing
@@ -54,6 +48,22 @@ project_description: >-
 project_impact: >-
   ["Access to healthy food","Self-sufficiency","Obesity","Resilient
   communities","Walk/bike/transit score"]
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Walk/bike/transit score
+project_proposal_description: >-
+  Now that Food Oasis LA has created a minimum viable product, we desire to get
+  this into the hands of Los Angeles residents from all walks of life. Being an
+  entirely volunteer-run and non-profit organization, we are understandably
+  seeking funding in order to assist with our goals. These goals involve heavy
+  real-world usability testing, marketing and promoting our product to the Los
+  Angeles landscape, and ultimately improving our product's UI/UX and back-end
+  to maximize our effectiveness in LA.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   By performing usability research and testing to improve our product offering,
   we will be conducting research within the city/county and engaging residents
@@ -72,25 +82,15 @@ project_proposal_best_place: >-
   rentals to further promote our desire to develop a solution to this
   food-desert obstacle. This spending would also give us the opportunity to
   advocate with policymakers and leaders in the community.
-challenge_url: >-
-  https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
+project_image_2: 4873052265741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Now that Food Oasis LA has created a minimum viable product, we desire to get
-  this into the hands of Los Angeles residents from all walks of life. Being an
-  entirely volunteer-run and non-profit organization, we are understandably
-  seeking funding in order to assist with our goals. These goals involve heavy
-  real-world usability testing, marketing and promoting our product to the Los
-  Angeles landscape, and ultimately improving our product's UI/UX and back-end
-  to maximize our effectiveness in LA.
-project_proposal_impact:
-  - Access to healthy food
-  - Self-sufficiency
-  - Obesity
-  - Resilient communities
-  - Walk/bike/transit score
-category: live
-body_class: lime
-published: true
+organization_name: Food Oasis Los Angeles
+organization_website: foodoasis.la
+organization_name_2: Food Oasis Los Angeles
+organization_activity: >-
+  Food Oasis LA was created to assist local advocacy and increase local
+  awareness in solving LA’s food inequality by building a platform to leverage a
+  bevy of resources and current web technologies.
+ein: ''
 
 ---

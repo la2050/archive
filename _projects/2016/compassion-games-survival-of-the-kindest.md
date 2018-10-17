@@ -1,24 +1,18 @@
 ---
+published: true
 organization_id: '2016054'
 year_submitted: 2016
-organization_name: Compassionate Santa Monica
-organization_website: charterforcompassion.org
-ein: ''
-project_image_2: 5082856955741-team91.png
+category: play
+body_class: strawberry
 project_id: '6102053'
+challenge_url: 'https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest'
 title: 'Compassion Games, Survival of the Kindest'
-organization_name_2: Compassionate Santa Monica
-organization_activity: Building Compassionate cities since 2013
+project_summary: 'Make your community safer, kinder, more just and a better place to live.'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 project_video: 'https://www.youtube.com/embed/7bCjkM0o31Y?rel=0&amp;showinfo=0'
-project_summary: 'Make your community safer, kinder, more just and a better place to live.'
 project_is_collaboration: 'Yes'
 project_collaborators: Charter for Compassion and Compassion Games International.
-project_areas:
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Pick a compassionate action for you and/or your group:
 
@@ -67,6 +61,25 @@ project_impact: >-
   children enrolled in afterschool programs","Number of parks with
   intergenerational play opportunities","Number of residents with easy access to
   a “vibrant” park","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Attendance at major league sporting events
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Perceived safety
+project_proposal_description: >-
+  No other initiative has struck a nerve, inspired the uninspired, raised the
+  eyebrow of the skeptic, or gotten the attention of the weary and the tired as
+  much as the Compassion movement.  And no idea to mobilize people into a new
+  way of being compassionate has been more creative, effective and awe inspiring
+  than the Compassion Games: Survival of the Kindest. Next year we want to
+  transcend the geographical divide and include LA County in our efforts.
+project_areas:
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   The Compassion Games are designed to make our communities safer, kinder, more
   just, and better places to live, work and play. Touch somebody’s life! By
@@ -109,25 +122,12 @@ project_proposal_best_place: >-
   2. Individual random acts of kindness
 
   3. Games that build personal and community resilience
-challenge_url: 'https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest'
+project_image_2: 5082856955741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  No other initiative has struck a nerve, inspired the uninspired, raised the
-  eyebrow of the skeptic, or gotten the attention of the weary and the tired as
-  much as the Compassion movement.  And no idea to mobilize people into a new
-  way of being compassionate has been more creative, effective and awe inspiring
-  than the Compassion Games: Survival of the Kindest. Next year we want to
-  transcend the geographical divide and include LA County in our efforts.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Attendance at major league sporting events
-  - Number (and quality) of informal spaces for play
-  - Number of children enrolled in afterschool programs
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: Compassionate Santa Monica
+organization_website: charterforcompassion.org
+organization_name_2: Compassionate Santa Monica
+organization_activity: Building Compassionate cities since 2013
+ein: ''
 
 ---

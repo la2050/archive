@@ -1,34 +1,27 @@
 ---
+published: true
 organization_id: '2016224'
 year_submitted: 2016
-organization_name: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
-organization_website: www.ladypartscollective.com
-ein: ''
-project_image_2: 4990464255741-team89.JPG
+category: create
+body_class: banana
 project_id: '6102260'
+challenge_url: >-
+  https://challenge.la2050.org/entry/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses
 title: >-
   ELIMINATING THE GRAY: LEVERAGING THEATER TO END SEXUAL VIOLENCE ON COLLEGE
   CAMPUSES
-organization_name_2: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
-organization_activity: >-
-  Tipping the scales of gender equity in the arts and entertainment industry,
-  The LadyParts Collective is an all-female group igniting social change by
-  creating original plays about women's issues.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
-project_video: 'https://www.youtube.com/embed/sGB-wEyY8Ic?rel=0&amp;showinfo=0'
 project_summary: >-
   An all-female theater collective creates an original, interview-inspired play
   that sparks change-activating dialogue about consent, rape culture and sexual
   violence on Los Angeles College Campuses
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
+project_video: 'https://www.youtube.com/embed/sGB-wEyY8Ic?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   At our current stage, we are collaborating as individuals and cultivating
   relationships with organizations.  Once we have a script, we plan to enlist
   organizations to help collaborate.
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   After producing a free prototype of the play for the public at large, we plan
   to offer the script and production for free to colleges in Los Angeles, work
@@ -68,6 +61,27 @@ project_impact: >-
   higher education institutions that remain in LA County 5 years after
   graduating","Recruiting and retention rates for local higher education
   institutions"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
+project_proposal_description: >-
+  Inspired by interviews with the Los Angeles college community, The LadyParts
+  Collective is writing an original play about consent, rape culture, and sexual
+  violence on Los Angeles college campuses.  The play will be offered to local
+  colleges as a tool for sparking a productive conversation about sexual
+  violence, brainstorming actionable solutions, and enacting specific changes. 
+  We plan to work with colleges to personalize the play to their specific campus
+  needs.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   In this bustling entertainment city saturated with talent but plagued by
   gender inequity and lack of diversity in the arts, The LadyParts Collective
@@ -104,29 +118,15 @@ project_proposal_best_place: >-
   with personal experiences, and writing this play serves as a cathartic and
   proactive way of healing and helping others. We all feel the urgency in fixing
   this problem and want to use our combined skills to make a positive impact.
-challenge_url: >-
-  https://challenge.la2050.org/entry/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses
+project_image_2: 4990464255741-team89.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  Inspired by interviews with the Los Angeles college community, The LadyParts
-  Collective is writing an original play about consent, rape culture, and sexual
-  violence on Los Angeles college campuses.  The play will be offered to local
-  colleges as a tool for sparking a productive conversation about sexual
-  violence, brainstorming actionable solutions, and enacting specific changes. 
-  We plan to work with colleges to personalize the play to their specific campus
-  needs.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - >-
-    Percentage of graduates from local higher education institutions that remain
-    in LA County 5 years after graduating
-  - Recruiting and retention rates for local higher education institutions
-category: create
-body_class: banana
-published: true
+organization_name: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
+organization_website: www.ladypartscollective.com
+organization_name_2: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
+organization_activity: >-
+  Tipping the scales of gender equity in the arts and entertainment industry,
+  The LadyParts Collective is an all-female group igniting social change by
+  creating original plays about women's issues.
+ein: ''
 
 ---

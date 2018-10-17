@@ -1,29 +1,21 @@
 ---
+published: true
 organization_id: '2016124'
 year_submitted: 2016
-organization_name: LA Promise Fund
-organization_website: lapromisefund.org
-ein: ''
-project_image_2: 4454572955741-team91.png
+category: learn
+body_class: blueberry
 project_id: '6102123'
+challenge_url: 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
 title: 'The Intern Project: SLATE-Z Expansion'
-organization_name_2: LA Promise Fund
-organization_activity: >-
-  The LA Promise Fund is a nonprofit organization dedicated to preparing Los
-  Angeles students for success in college, career, and life.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4454572955741-team91.png
-project_video: 'https://www.youtube.com/embed/cVxDjQi1ofo?rel=0&amp;showinfo=0'
 project_summary: >-
   The Intern Project will expose an additional 50 high school juniors located
   within the newly established South Los Angeles Promise Zone to paid internship
   opportunities in high growth career fields.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4454572955741-team91.png
+project_video: 'https://www.youtube.com/embed/cVxDjQi1ofo?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None.
-project_areas:
-  - South LA
-  - County of Los Angeles
-  - LAUSD
 project_measure: >-
   Our organization will track participation and gather general information about
   students that includes ethnic background, first-generation status, prior work
@@ -49,6 +41,23 @@ project_description: >-
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Student
   education pipeline","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  The Intern Project is a countywide effort to expose more than 325 African
+  American and Hispanic students from predominantly low-income backgrounds to
+  mentorships, volunteer opportunities, and paid internships in high growth
+  career fields that include digital media, entertainment, technology, health
+  care, and design. By supporting our LA2050 campaign, an additional 50 students
+  from one of 11 South Los Angeles Promise Zone high schools will participate in
+  paid summer internships.
+project_areas:
+  - South LA
+  - County of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   According to researchers, work-based learning programs provide many social and
   academic benefits to students such as increasing their interest in college,
@@ -80,23 +89,14 @@ project_proposal_best_place: >-
   etc.). More than 100 students will also be placed in paid internships with
   local businesses in high growth industries such as digital media,
   entertainment, technology, health care, and design.
-challenge_url: 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
+project_image_2: 4454572955741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  The Intern Project is a countywide effort to expose more than 325 African
-  American and Hispanic students from predominantly low-income backgrounds to
-  mentorships, volunteer opportunities, and paid internships in high growth
-  career fields that include digital media, entertainment, technology, health
-  care, and design. By supporting our LA2050 campaign, an additional 50 students
-  from one of 11 South Los Angeles Promise Zone high schools will participate in
-  paid summer internships.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: LA Promise Fund
+organization_website: lapromisefund.org
+organization_name_2: LA Promise Fund
+organization_activity: >-
+  The LA Promise Fund is a nonprofit organization dedicated to preparing Los
+  Angeles students for success in college, career, and life.
+ein: ''
 
 ---

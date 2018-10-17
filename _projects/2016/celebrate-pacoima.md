@@ -1,28 +1,20 @@
 ---
+published: true
 organization_id: '2016161'
 year_submitted: 2016
-organization_name: Pacoima Beautiful
-organization_website: www.pacoimabeautiful.org
-ein: '954770745'
-project_image_2: 5056172635741-team91.JPG
+category: create
+body_class: banana
 project_id: '6102173'
+challenge_url: 'https://challenge.la2050.org/entry/celebrate-pacoima'
 title: Celebrate Pacoima
-organization_name_2: Pacoima Beautiful
-organization_activity: >-
-  Pacoima Beautiful is a grassroots environmental justice organization that
-  provides education, impacts public policy, and supports local arts & culture
-  in order to promote health & sustainability.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
-project_video: 'https://www.youtube.com/embed/_7_25X6aAm4?rel=0&amp;showinfo=0'
 project_summary: >-
   Join us in developing a safe creative space for the community and by the
   community.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
+project_video: 'https://www.youtube.com/embed/_7_25X6aAm4?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - San Fernando Valley
-  - City of Los Angeles
 project_measure: >-
   Some quantifiable measurements that will be used to measure success of the art
   incubator will include the number of artists and students participating in
@@ -58,6 +50,23 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Federal research grant funding","Jobs per capita"]
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Federal research grant funding
+  - Jobs per capita
+project_proposal_description: >-
+  Celebrate Pacoima proposes to develop an all-inclusive intergenerational arts
+  incubator to harness the local cultural-arts tradition of Pacoima. Pacoima
+  Beautiful will provide access to artist training, technical assistance,
+  workspace, artist in residence programs, workshops and opportunities for
+  creative placemaking and economic growth. The funding from LA2050 will enable
+  Pacoima Beautiful to purchase equipment, tools and provide instructors with
+  stipends to deliver high quality resources.
+project_areas:
+  - San Fernando Valley
+  - City of Los Angeles
 project_proposal_best_place: >-
   In the community of Pacoima, there is a growing momentum for arts & artistic
   expression with the development of the Celebrate Pacoima arts initiative. 
@@ -104,24 +113,15 @@ project_proposal_best_place: >-
   To advocate for & serve our monolingual Spanish population, programming will
   also be provided in Spanish, promoting multi-generational cross cultural
   connections & access to a creative dialogue.
-challenge_url: 'https://challenge.la2050.org/entry/celebrate-pacoima'
+project_image_2: 5056172635741-team91.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  Celebrate Pacoima proposes to develop an all-inclusive intergenerational arts
-  incubator to harness the local cultural-arts tradition of Pacoima. Pacoima
-  Beautiful will provide access to artist training, technical assistance,
-  workspace, artist in residence programs, workshops and opportunities for
-  creative placemaking and economic growth. The funding from LA2050 will enable
-  Pacoima Beautiful to purchase equipment, tools and provide instructors with
-  stipends to deliver high quality resources.
-project_proposal_impact:
-  - Arts establishments
-  - Manufacturing activity
-  - Employment in the creative industries
-  - Federal research grant funding
-  - Jobs per capita
-category: create
-body_class: banana
-published: true
+organization_name: Pacoima Beautiful
+organization_website: www.pacoimabeautiful.org
+organization_name_2: Pacoima Beautiful
+organization_activity: >-
+  Pacoima Beautiful is a grassroots environmental justice organization that
+  provides education, impacts public policy, and supports local arts & culture
+  in order to promote health & sustainability.
+ein: '954770745'
 
 ---

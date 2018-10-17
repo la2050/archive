@@ -1,37 +1,26 @@
 ---
+published: true
 organization_id: '2016045'
 year_submitted: 2016
-organization_name: >-
-  Co-led by Industrial District Green and Cal Poly Pomona Department of
-  Landscape Architecture.
-organization_website: www.industrialdistrictgreen.org
-ein: ''
-project_image_2: 3772023193741-team89.jpg
+category: play
+body_class: strawberry
 project_id: '6102045'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
 title: >-
   The Green Alley PLAYlab: Pop-Up playscapes in the industrial alleys of
   Downtown Los Angeles. 
-organization_name_2: >-
-  Co-led by Industrial District Green and Cal Poly Pomona Department of
-  Landscape Architecture.
-organization_activity: >-
-  Cal Poly Pomona and Industrial District Green use creative strategies to
-  engage communities in the process of research, design, implementation and
-  maintenance.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
-project_video: 'https://www.youtube.com/embed/7ku12q5dd4k?rel=0&amp;showinfo=0'
 project_summary: >-
   The Green Alley PLAYlab uses the power of play as a strategy to enhance human,
   ecological and economic health in the Industrial Neighborhoods’ green alleys.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
+project_video: 'https://www.youtube.com/embed/7ku12q5dd4k?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   USC Dept. of Architecture and Spatial Sciences   Institute, USC Dept. of
   Occupational Therapy and Affiliates, Green Octopus Consulting, Richard Lerman,
   Sound Artist/Professor, Sound, Media & Digital Arts, Arizona State University
-project_areas:
-  - Central LA
-  - East LA
 project_measure: >-
   The following metrics will be used:
 
@@ -83,6 +72,22 @@ project_impact: >-
   ["Number (and quality) of informal spaces for play","Number of parks with
   intergenerational play opportunities","Number of residents with easy access to
   a “vibrant” park","Perceived safety"]
+project_proposal_impact:
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Perceived safety
+project_proposal_description: >-
+  Through the Green Alley PLAYlab we will temporarily transform a series of
+  industrial alleys into playful public landscapes for the community. We
+  envision these landscapes as labs for sensory driven experiments created by
+  our collaborators who specialize in: healthcare, art, ecology and business
+  development. This new model for community engagement builds momentum towards
+  our ultimate goal of a green alley trail system that prioritizes human,
+  ecological and economic health.
+project_areas:
+  - Central LA
+  - East LA
 project_proposal_best_place: >-
   Our proposal makes LA the best place to play because it recognizes the power
   of play to deepen our connection to the environment in which we live. This
@@ -132,24 +137,19 @@ project_proposal_best_place: >-
   develop a full-blown pilot project intended to move IDG’s efforts to the next
   level by using the power of play as a strategy for invoking long awaited
   change.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
+project_image_2: 3772023193741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Through the Green Alley PLAYlab we will temporarily transform a series of
-  industrial alleys into playful public landscapes for the community. We
-  envision these landscapes as labs for sensory driven experiments created by
-  our collaborators who specialize in: healthcare, art, ecology and business
-  development. This new model for community engagement builds momentum towards
-  our ultimate goal of a green alley trail system that prioritizes human,
-  ecological and economic health.
-project_proposal_impact:
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: >-
+  Co-led by Industrial District Green and Cal Poly Pomona Department of
+  Landscape Architecture.
+organization_website: www.industrialdistrictgreen.org
+organization_name_2: >-
+  Co-led by Industrial District Green and Cal Poly Pomona Department of
+  Landscape Architecture.
+organization_activity: >-
+  Cal Poly Pomona and Industrial District Green use creative strategies to
+  engage communities in the process of research, design, implementation and
+  maintenance.
+ein: ''
 
 ---

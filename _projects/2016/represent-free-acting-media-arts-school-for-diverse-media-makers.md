@@ -1,27 +1,21 @@
 ---
+published: true
 organization_id: '2016183'
 year_submitted: 2016
-organization_name: Represent
-organization_website: werepresent.org
-ein: ''
-project_image_2: 1725312484741-team89.jpg
+category: create
+body_class: banana
 project_id: '6102197'
+challenge_url: >-
+  https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
 title: 'Represent: FREE acting & media arts school for diverse media makers!'
-organization_name_2: Represent
-organization_activity: >-
-  Represent works to reach equal media representation for marginalized groups by
-  training the next generation of media makers at our LA-based Acting & Media
-  Arts School free of charge.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1725312484741-team89.jpg
-project_video: 'https://www.youtube.com/embed/vK-yBYBjdlA?rel=0&amp;showinfo=0'
 project_summary: >-
   A FREE, LA-based, acting & media arts school for diverse, aspiring media
   makers!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1725312484741-team89.jpg
+project_video: 'https://www.youtube.com/embed/vK-yBYBjdlA?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   Represent School of Acting & Media Arts will work to educate diverse, aspiring
   media makers in the fields of acting, TV, screen & playwriting, & filmmaking &
@@ -77,6 +71,20 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Minority- and
   women-owned firms"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Minority- and women-owned firms
+project_proposal_description: >-
+  Represent will create Represent School of Acting & Media Arts – a new LA-based
+  arts establishment training aspiring, diverse media makers for employment in
+  the entertainment industry free of charge. We will provide professional
+  technical training in acting, TV, screen & playwriting, & filmmaking.
+  Additionally, we will give students opportunities to produce their own
+  projects, showcase their talents, and connect them with industry mentors and
+  agents to jumpstart their careers.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   Represent School of Acting & Media Arts (RSAMA) will help make LA the best
   place to create by making the city home to the only nonprofit school focused
@@ -135,23 +143,15 @@ project_proposal_best_place: >-
   entertainment industry for historically underrepresented groups, RSAMA will
   help grow & diversify one of the largest industries in LA County & help make
   LA the best place to create.
-challenge_url: >-
-  https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
+project_image_2: 1725312484741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Represent will create Represent School of Acting & Media Arts – a new LA-based
-  arts establishment training aspiring, diverse media makers for employment in
-  the entertainment industry free of charge. We will provide professional
-  technical training in acting, TV, screen & playwriting, & filmmaking.
-  Additionally, we will give students opportunities to produce their own
-  projects, showcase their talents, and connect them with industry mentors and
-  agents to jumpstart their careers.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Minority- and women-owned firms
-category: create
-body_class: banana
-published: true
+organization_name: Represent
+organization_website: werepresent.org
+organization_name_2: Represent
+organization_activity: >-
+  Represent works to reach equal media representation for marginalized groups by
+  training the next generation of media makers at our LA-based Acting & Media
+  Arts School free of charge.
+ein: ''
 
 ---

@@ -1,28 +1,22 @@
 ---
+published: true
 organization_id: '2016113'
 year_submitted: 2016
-organization_name: 'Jenesse Center, Inc.'
-organization_website: www.jenesse.org
-ein: '953652529'
-project_image_2: 9940469155741-team90.jpg
+category: connect
+body_class: tangerine
 project_id: '6102108'
+challenge_url: >-
+  https://challenge.la2050.org/entry/jeneration-j-a-new-generation-of-healthy-relationships
 title: 'Jeneration J: A New Generation of Healthy Relationships'
-organization_name_2: 'Jenesse Center, Inc.'
-organization_activity: >-
-  Jenesse Center provides victims of domestic violence and their children
-  support that is culturally responsive to help ensure their successful
-  transition from immediate crisis to self-sufficiency.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
-project_video: 'https://www.youtube.com/embed/Rols-6I43HE?rel=0&amp;showinfo=0'
 project_summary: >-
   Jeneration J is a platform for today’s youth to discuss domestic violence
   prevention and intervention strategies to create advocates for future
   generations.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
+project_video: 'https://www.youtube.com/embed/Rols-6I43HE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - South LA
 project_measure: >-
   Jenesse collects qualitative and quantitative data on project implementation
   and outcomes. Jenesse tracks the number of volunteers and project participants
@@ -49,6 +43,21 @@ project_description: >-
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+project_proposal_description: >-
+  Jenesse Center’s youth advocacy leadership and education program, Jeneration
+  J, is a developing program to include young people in the campaign to prevent
+  domestic violence and violent intimate partner relationships. Lined up with
+  fun-filled activities and events, Jeneration J seeks to equip young people
+  with the knowledge, skills and awareness to navigate healthy relationship
+  behaviors and actively stand against dating violence in their respective
+  communities.
+project_areas:
+  - South LA
 project_proposal_best_place: >-
   Jeneration J will help make LA the best place to connect through its
   centralized support system that provides a comprehensive dating violence
@@ -80,24 +89,15 @@ project_proposal_best_place: >-
   Jeneration J reflects an intervention and advocacy model that educates youth
   and young adults on healthy relationships and trains them to be the next
   generation of anti-violence advocates.
-challenge_url: >-
-  https://challenge.la2050.org/entry/jeneration-j-a-new-generation-of-healthy-relationships
+project_image_2: 9940469155741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Jenesse Center’s youth advocacy leadership and education program, Jeneration
-  J, is a developing program to include young people in the campaign to prevent
-  domestic violence and violent intimate partner relationships. Lined up with
-  fun-filled activities and events, Jeneration J seeks to equip young people
-  with the knowledge, skills and awareness to navigate healthy relationship
-  behaviors and actively stand against dating violence in their respective
-  communities.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: 'Jenesse Center, Inc.'
+organization_website: www.jenesse.org
+organization_name_2: 'Jenesse Center, Inc.'
+organization_activity: >-
+  Jenesse Center provides victims of domestic violence and their children
+  support that is culturally responsive to help ensure their successful
+  transition from immediate crisis to self-sufficiency.
+ein: '953652529'
 
 ---

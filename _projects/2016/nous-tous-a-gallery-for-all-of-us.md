@@ -1,27 +1,20 @@
 ---
+published: true
 organization_id: '2018022'
 year_submitted: 2016
-organization_name: Citizens Of Culture
-organization_website: citizensofculture.com
-ein: '821044989'
-project_image_2: 2520459835741-team91.JPG
+category: create
+body_class: banana
 project_id: '6102097'
+challenge_url: 'https://challenge.la2050.org/entry/nous-tous-a-gallery-for-all-of-us'
 title: 'Nous Tous: A Gallery For All Of Us'
-organization_name_2: Citizens Of Culture
-organization_activity: >-
-  Citizens Of Culture cultivates economic opportunities for independent artists
-  and designers.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2520459835741-team91.JPG
-project_video: 'https://www.youtube.com/embed/I_DjRnUczmc?rel=0&amp;showinfo=0'
 project_summary: >-
   Citizens Of Culture cultivates economic opportunities for independent artists
   and designers through workshops and events.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2520459835741-team91.JPG
+project_video: 'https://www.youtube.com/embed/I_DjRnUczmc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - City of Los Angeles
 project_measure: >-
   Our success will be measure by the number of artists we are able to create
   programs for, the depth and duration of the program run, and the sales revenue
@@ -53,6 +46,27 @@ project_impact: >-
   firms","Percentage of graduates from local higher education institutions that
   remain in LA County 5 years after graduating","Unemployment (and
   opportunities) for the formerly incarcerated","Venture capital investment"]
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Unemployment (and opportunities) for the formerly incarcerated
+  - Venture capital investment
+project_proposal_description: >-
+  Citizens Of Culture uses engaging events to highlight and create deeper
+  context for artist's work. With the LA2050 we will expand our gallery 
+  showroom programs beyond the walls of our space to engage with a wider network
+  of creators.
+project_areas:
+  - Central LA
+  - City of Los Angeles
 project_proposal_best_place: >-
   Citizens Of Culture exists at the intersection of creativity, commerce, and
   community. Because of this we interact with hundreds of artists per year who
@@ -86,28 +100,14 @@ project_proposal_best_place: >-
   production samples. The LA2050 grant will be put to great use in allowing us
   to focus more directly on concept and execution by removing some of the
   financial barriers to campaign success.
-challenge_url: 'https://challenge.la2050.org/entry/nous-tous-a-gallery-for-all-of-us'
+project_image_2: 2520459835741-team91.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  Citizens Of Culture uses engaging events to highlight and create deeper
-  context for artist's work. With the LA2050 we will expand our gallery 
-  showroom programs beyond the walls of our space to engage with a wider network
-  of creators.
-project_proposal_impact:
-  - Arts establishments
-  - Manufacturing activity
-  - Employment in the creative industries
-  - Gini coefficient
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - >-
-    Percentage of graduates from local higher education institutions that remain
-    in LA County 5 years after graduating
-  - Unemployment (and opportunities) for the formerly incarcerated
-  - Venture capital investment
-category: create
-body_class: banana
-published: true
+organization_name: Citizens Of Culture
+organization_website: citizensofculture.com
+organization_name_2: Citizens Of Culture
+organization_activity: >-
+  Citizens Of Culture cultivates economic opportunities for independent artists
+  and designers.
+ein: '821044989'
 
 ---

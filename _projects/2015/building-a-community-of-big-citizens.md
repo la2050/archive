@@ -1,9 +1,11 @@
 ---
+published: true
+organization_id: '2018008'
+year_submitted: 2015
+category: connect
+body_class: tangerine
 project_id: '5102027'
 title: Building a community of Big Citizens
-organization_id: '2018008'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   We are working with a diverse group of young people from across Los Angeles
   who have talents, ideas, and energy that are waiting to be activated. We
@@ -11,25 +13,13 @@ project_summary: >-
   important to them. This proposal supports the expansion of our reach and
   impact in 2016, as we increase the size of our middle school program from 75
   to 100 youth and launch our high school program with 75 youth.
-Please specify below: ''
-category: connect
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
 project_image: 'https://img.youtube.com/vi/W8wBA--Vo8o/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/W8wBA--Vo8o'
-youtube_video_identifier: W8wBA--Vo8o
 project_areas:
   - County of Los Angeles
 maker_answers:
-  How did you hear about this challenge?: LA2050 Newsletter & the Goldhirsh Foundation
   'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Big Citizen HUB
   Organization(s) mailing address(es): '1000 N. Alameda St. Suite 240, Los Angeles, CA 90012'
   Organization(s) website(s): www.bigcitizenhub.org/
@@ -78,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  How did you hear about this challenge?: LA2050 Newsletter & the Goldhirsh Foundation
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -97,6 +87,34 @@ maker_answers:
   How will your proposal improve the following “Connect” metrics? Residential segregation (Dream Metric): '1'
   How will your proposal improve the following “Connect” metrics? Access to free wifi (Dream Metric): '0'
   Describe in greater detail how you will make LA the best place to connect.: "Big Citizen HUB, a project of Community Partners, brings together youth from different neighborhoods, providing a common culture with which to relate, common experience with which to connect, opportunity for dialogue that explores differences in experience and perspective – all while learning important life skills and leadership skills that are necessary for success in school and the workforce. This type of opportunity currently does not exist in our city, where young people can come together from all over and meet new people through positive experiences.\r\n\r\nIn addition, the success of our program is based on partnerships with organizations that serve and address our most pressing community issues. In our first program year we engaged with 32 external partners across Los Angeles. Aside from learning from, serving with, and connecting on the issues these organizations address, there is one very important outcome that we expect to see over time from this type of engagement: Adults begin to see youth as thoughtful, engaged, and valued participants in our communities. In turn, this change in perception allows youth to gain motivation to succeed in school, participate in their community, and feel optimistic about the future. \r\n\r\nAs Big Citizens grow and mature they’ll become voters, business leaders, social entrepreneurs, public officials, teachers, and parents. They’ll support public transportation, utilize social media in new and powerful ways, and will regularly connect with others outside of their neighborhood. Big Citizen HUB will be the best place for youth in Los Angeles to learn about issues that affect our local and global communities, to practice the skills needed to solve problems, and to connect with and feel comfortable with people of different backgrounds.\r\n"
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  Where will you be working?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Number of public transit riders
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Residential segregation (Dream Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "We recognize that the logistics involved with bringing together young people from many neighborhoods can be challenging, especially when many of them are at an age that they are unable to drive themselves. Our strategy for doing this successfully is the following: \r\n1. We communicate thoroughly with parents during the application process so that our Big Citizens’ families support their participation. \r\n2. Our daily meeting space is located in downtown Los Angeles in Pershing Square, accessible by public transit. \r\n3. For our youth who cannot take public transit or don’t have a family member who can drive them each Saturday, we work to arrange carpooling within our Big Citizen community.\r\n"
   Please explain how you will evaluate your work.: >-
     In our first year of implementation we measured the experience of Big
@@ -140,17 +158,6 @@ maker_answers:
     be to gain excitement and support around the launch our high school
     program. 
   'Please include a detailed budget of how you will use $100,000 to implement this project.': "The $100,000 grant award will be used to increase the size of our middle school program (adding 25 youth) and launching the high school program with 75 youth. Below is the detailed budget needed to increase our impact in 2016:\r\nTeam Leaders (18) = $12,960\r\nProgram Day Supplies = $3751\r\nService Day Supplies = $4,500\r\nPublic Transit = $6,300\r\nPrinting & Postage = $2,851\r\nHealthy Lunches = $12,600\r\nProgram Space Rental - $6,250\r\nProgram Staff (2) - $41,788\r\nAdministration & Operations - $9,000\r\n"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: >-
     Big Citizen HUB is structured as a pipeline program for civic engagement. In
     2015 we launched with 75 middle school youth. This proposal will support
@@ -161,23 +168,18 @@ maker_answers:
     anticipate 1300 youth will have participated in Big Citizen HUB in Los
     Angeles alone. At that point, we expect to explore expanding our reach to
     other cities. 
-  Where will you be working?: []
-  How do you plan to use these resources to make change?:
-    - Implement a pilot or new project
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - 'Infrastructure (building/space/vehicles, etc.)'
-    - 'Technical infrastructure (computers, etc.)'
-    - Community outreach
-    - Network/relationship support
-  How will your proposal improve the following “Connect” metrics?:
-    - Rates of volunteerism
-    - Number of public transit riders
-    - Percentage of Angelenos that volunteer informally (Dream Metric)
-    - Total number of local social media friends and connections (Dream Metric)
-    - Residential segregation (Dream Metric)
+areas_impacted: ''
+partners: ''
+Please specify below: ''
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
+youtube_video_identifier: W8wBA--Vo8o
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -627,8 +629,6 @@ maker_answers_list:
       operation we anticipate 1300 youth will have participated in Big Citizen
       HUB in Los Angeles alone. At that point, we expect to explore expanding
       our reach to other cities. 
-body_class: tangerine
 organization_name: Big Citizen HUB
-published: true
 
 ---

@@ -1,41 +1,24 @@
 ---
+published: true
 organization_id: '2016240'
 year_submitted: 2016
-organization_name: UCLA Institute of the Environment and Sustainability (IOES)
-organization_website: www.ioes.ucla.edu
-ein: ''
-project_image_2: 0511230265741-team91.PNG
+category: live
+body_class: lime
 project_id: '6102266'
+challenge_url: >-
+  https://challenge.la2050.org/entry/using-an-app-to-increase-awareness-of-air-quality-and-empower-individuals-to-protect-their-health
 title: >-
   Using an app to increase awareness of air quality and empower individuals to
   protect their health
-organization_name_2: UCLA Institute of the Environment and Sustainability (IOES)
-organization_activity: >-
-  Through research and practice on the greatest environmental challenges facing
-  humanity, the IOES moves science into action at the local, national and global
-  level.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
-project_video: 'https://www.youtube.com/embed/MnStd_eLovQ?rel=0&amp;showinfo=0'
 project_summary: >-
   AirForU is an air quality app that provides real-time air quality information
   and is also a research tool to reduce air pollution-related health impacts,
   particularly for vulnerable populations.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
+project_video: 'https://www.youtube.com/embed/MnStd_eLovQ?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: UCLA Health
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   A preliminary measure of success of this project is the number of app users. 
   Currently we have about 2400 users and we hope to at least double the number.
@@ -67,6 +50,28 @@ project_description: >-
   research methods, recruit more users and analyze the data to develop more
   effective strategies for protecting the health of sensitive populations.
 project_impact: '["Exposure to air toxins"]'
+project_proposal_impact:
+  - Exposure to air toxins
+project_proposal_description: >-
+  We designed and launched an air quality app (AirForU) for iPhones and Android
+  phones a few months ago. AirForU is specifically geared towards populations
+  that are vulnerable to air pollution and currently has over 2400 users. For
+  this project, we are proposing to enhance the app technology, incorporate new
+  research methods, recruit more users and analyze the data to develop more
+  effective strategies for protecting the health of sensitive populations.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Los Angeles continues to have some of the most polluted air in the nation.
   Densely populated urban cities such as ours are particularly prone to high
@@ -108,20 +113,15 @@ project_proposal_best_place: >-
   users and develop new strategies for protecting the health of sensitive
   populations. Our goal is to improve the communication of air quality
   information and associated health effects.
-challenge_url: >-
-  https://challenge.la2050.org/entry/using-an-app-to-increase-awareness-of-air-quality-and-empower-individuals-to-protect-their-health
+project_image_2: 0511230265741-team91.PNG
 empty_column_1: ''
-project_proposal_description: >-
-  We designed and launched an air quality app (AirForU) for iPhones and Android
-  phones a few months ago. AirForU is specifically geared towards populations
-  that are vulnerable to air pollution and currently has over 2400 users. For
-  this project, we are proposing to enhance the app technology, incorporate new
-  research methods, recruit more users and analyze the data to develop more
-  effective strategies for protecting the health of sensitive populations.
-project_proposal_impact:
-  - Exposure to air toxins
-category: live
-body_class: lime
-published: true
+organization_name: UCLA Institute of the Environment and Sustainability (IOES)
+organization_website: www.ioes.ucla.edu
+organization_name_2: UCLA Institute of the Environment and Sustainability (IOES)
+organization_activity: >-
+  Through research and practice on the greatest environmental challenges facing
+  humanity, the IOES moves science into action at the local, national and global
+  level.
+ein: ''
 
 ---

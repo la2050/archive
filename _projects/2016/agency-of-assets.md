@@ -1,31 +1,23 @@
 ---
+published: true
 organization_id: '2016111'
 year_submitted: 2016
-organization_name: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
-organization_website: www.theicala.org
-ein: ''
-project_image_2: 5792245165741-team88.jpg
+category: create
+body_class: banana
 project_id: '6102104'
+challenge_url: 'https://challenge.la2050.org/entry/agency-of-assets'
 title: Agency of Assets
-organization_name_2: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
-organization_activity: >-
+project_summary: >-
   ICA LA creates exhibitions, education programs, and community partnerships
   that spark the pleasure of discovery and challenge the way we see and
   experience the world, ourselves, and each other.
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5792245165741-team88.jpg
 project_video: 'https://www.youtube.com/embed/Jmdk4Z5cMIc?rel=0&amp;showinfo=0'
-project_summary: >-
-  ICA LA creates exhibitions, education programs, and community partnerships
-  that spark the pleasure of discovery and challenge the way we see and
-  experience the world, ourselves, and each other.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   1. Legacy LA, 2. Pete Galindo, Founder & Managing Partner of Civic Center
   Studios
-project_areas:
-  - Central LA
-  - East LA
 project_measure: >-
   ICA LA’s goals include: 1) expose students to creative professions; 2) develop
   a dialogue to understand the social and economic forces that impact their
@@ -75,6 +67,21 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+project_proposal_description: >-
+  ICA LA, in collaboration with arts advocate Pete Galindo and Legacy LA, will
+  create Agency of Assets—an initiative designed to catalyze local high school
+  youth into leadership roles in the arts and creative economy through
+  engagement, experience, and employment. In its pilot stage, a cohort of twenty
+  students will participate in a spring break immersion program, followed by
+  mentorship meetings, summer job positions, and the creation of a pop-up art
+  space in fall 2017.
+project_areas:
+  - Central LA
+  - East LA
 project_proposal_best_place: >-
   ICA LA’s Agency of Assets will help make Los Angeles the best place to create
   by providing opportunities for local youth to pursue leadership roles within
@@ -133,22 +140,15 @@ project_proposal_best_place: >-
   local youth with agency, ICA LA will cultivate a new, diverse generation of
   arts professionals to participate in the City’s changing socioeconomic and
   cultural landscape.
-challenge_url: 'https://challenge.la2050.org/entry/agency-of-assets'
+project_image_2: 5792245165741-team88.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  ICA LA, in collaboration with arts advocate Pete Galindo and Legacy LA, will
-  create Agency of Assets—an initiative designed to catalyze local high school
-  youth into leadership roles in the arts and creative economy through
-  engagement, experience, and employment. In its pilot stage, a cohort of twenty
-  students will participate in a spring break immersion program, followed by
-  mentorship meetings, summer job positions, and the creation of a pop-up art
-  space in fall 2017.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-category: create
-body_class: banana
-published: true
+organization_name: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
+organization_website: www.theicala.org
+organization_name_2: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
+organization_activity: >-
+  ICA LA creates exhibitions, education programs, and community partnerships
+  that spark the pleasure of discovery and challenge the way we see and
+  experience the world, ourselves, and each other.
+ein: ''
 
 ---

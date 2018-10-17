@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016066'
 year_submitted: 2016
-organization_name: Drizzle Connect
-organization_website: blog.getdrizzle.com/la2050-challenge
-ein: ''
-project_image_2: 4367473165741-team90.png
+category: connect
+body_class: tangerine
 project_id: '6102124'
+challenge_url: >-
+  https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
 title: >-
   Bringing free high-speed internet and mobile phone service to low-income
   families in Los Angeles
-organization_name_2: Drizzle Connect
-organization_activity: >-
-  Drizzle enables low-income families to stay connected to their community and
-  the world by allowing them to receive free mobile phone service and high-speed
-  internet at home.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
-project_video: ''
 project_summary: >-
   We help low-income families get high-speed internet and phone service by
   connecting them to providers who subsidize costs and retailers who pay
   remaining costs via cash-back rebates on everyday items.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: 'Techstars, COX Enterprises'
-project_areas:
-  - San Gabriel Valley
-  - County of Los Angeles
 project_measure: >-
   Our primary long-term goal is to increase the percentage of low-income
   households in LA who have mobile phone service and high-speed internet at
@@ -75,6 +68,21 @@ project_description: >-
 project_impact: >-
   ["Access to free wifi","Total number of local social media friends and
   connections Angelenos have","Voting rates"]
+project_proposal_impact:
+  - Access to free wifi
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
+project_proposal_description: >-
+  Over 650,000 households in LA earning less than $50K/year do not have internet
+  at home (based on 2013 estimates). Drizzle will build an online platform to
+  deliver free internet and phone service to these lower-income families.
+  Qualifying families use our platform to get phone and internet service from
+  local providers who subsidize prices (e.g. COX, AT&T, Sprint). Remaining costs
+  are paid by retailers on our platform who give cash-back rewards on families'
+  everyday purchases (gas, food, clothes).
+project_areas:
+  - San Gabriel Valley
+  - County of Los Angeles
 project_proposal_best_place: >-
   Drizzle will make LA the best place to connect by bringing high-speed internet
   (at least 5Mbps download) and phone service to all Angelenos.
@@ -135,23 +143,15 @@ project_proposal_best_place: >-
 
   Data for Los Angeles county here:
   http://digitalequality.net/wp-content/uploads/2013/06/LA-from-CA-Connects-Demographic-and-Connectedness-Profiles.pdf
-challenge_url: >-
-  https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
+project_image_2: 4367473165741-team90.png
 empty_column_1: ''
-project_proposal_description: >-
-  Over 650,000 households in LA earning less than $50K/year do not have internet
-  at home (based on 2013 estimates). Drizzle will build an online platform to
-  deliver free internet and phone service to these lower-income families.
-  Qualifying families use our platform to get phone and internet service from
-  local providers who subsidize prices (e.g. COX, AT&T, Sprint). Remaining costs
-  are paid by retailers on our platform who give cash-back rewards on families'
-  everyday purchases (gas, food, clothes).
-project_proposal_impact:
-  - Access to free wifi
-  - Total number of local social media friends and connections Angelenos have
-  - Voting rates
-category: connect
-body_class: tangerine
-published: true
+organization_name: Drizzle Connect
+organization_website: blog.getdrizzle.com/la2050-challenge
+organization_name_2: Drizzle Connect
+organization_activity: >-
+  Drizzle enables low-income families to stay connected to their community and
+  the world by allowing them to receive free mobile phone service and high-speed
+  internet at home.
+ein: ''
 
 ---

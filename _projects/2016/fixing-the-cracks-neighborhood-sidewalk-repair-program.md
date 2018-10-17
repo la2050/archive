@@ -1,34 +1,24 @@
 ---
+published: true
 organization_id: '2016138'
 year_submitted: 2016
-organization_name: Los Angeles Neighborhood Initiative (LANI)
-organization_website: www.lani.org
-ein: ''
-project_image_2: 3701902165741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102143'
+challenge_url: >-
+  https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
 title: 'Fixing the Cracks: Neighborhood Sidewalk Repair Program'
-organization_name_2: Los Angeles Neighborhood Initiative (LANI)
-organization_activity: >-
-  Los Angeles Neighborhood Initiative (LANI) is a nonprofit organization
-  dedicated to rebuilding neighborhoods one block at a time through public
-  improvement projects, planning and community engagement.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
-project_video: ''
 project_summary: >-
   LANI and the Urban Forestry Division will work hands-on with community members
   to guide them through the process of repairing their cracked sidewalks, making
   the streets of Los Angeles safer for all.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   City of Los Angeles, Urban Forestry Division, Los Angeles Neighborhood
   Initiative (LANI)
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - City of Los Angeles
 project_measure: >-
   The success of this project will be measured by the number of community
   members participating in the program. Direct metrics of success will be the
@@ -60,6 +50,28 @@ project_impact: >-
   needs","Public transit riders","Rates of volunteerism","Transit-accessible
   housing and employment (the share of housing units and percentage of jobs that
   are located within a half-mile of transit)"]
+project_proposal_impact:
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Rates of volunteerism
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
+project_proposal_description: >-
+  Cracked and broken, unattractive and dangerous, far too many sidewalks in Los
+  Angeles are in severe disrepair. LANI, in collaboration with the City of Los
+  Angeles Urban Forestry Division, will develop and distribute a comprehensive
+  tool-kit to assist residents in navigating the process of repairing or
+  replacing their own sidewalks. LANI will conduct extensive outreach,
+  facilitate six neighborhood workshops, and work hands-on with local residents
+  to make streets safer for all!
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - City of Los Angeles
 project_proposal_best_place: >-
   The City of Los Angeles has over 11,000 linear miles of sidewalk with much of
   it in disrepair. Invasive tree roots have uplifted concrete creating cracks
@@ -99,27 +111,15 @@ project_proposal_best_place: >-
   renewed commitment to seeing their neighborhood improve. They will become
   active and empowered civic leaders with the tools necessary to affect local
   change.
-challenge_url: >-
-  https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
+project_image_2: 3701902165741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Cracked and broken, unattractive and dangerous, far too many sidewalks in Los
-  Angeles are in severe disrepair. LANI, in collaboration with the City of Los
-  Angeles Urban Forestry Division, will develop and distribute a comprehensive
-  tool-kit to assist residents in navigating the process of repairing or
-  replacing their own sidewalks. LANI will conduct extensive outreach,
-  facilitate six neighborhood workshops, and work hands-on with local residents
-  to make streets safer for all!
-project_proposal_impact:
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Public transit riders
-  - Rates of volunteerism
-  - >-
-    Transit-accessible housing and employment (the share of housing units and
-    percentage of jobs that are located within a half-mile of transit)
-category: connect
-body_class: tangerine
-published: true
+organization_name: Los Angeles Neighborhood Initiative (LANI)
+organization_website: www.lani.org
+organization_name_2: Los Angeles Neighborhood Initiative (LANI)
+organization_activity: >-
+  Los Angeles Neighborhood Initiative (LANI) is a nonprofit organization
+  dedicated to rebuilding neighborhoods one block at a time through public
+  improvement projects, planning and community engagement.
+ein: ''
 
 ---

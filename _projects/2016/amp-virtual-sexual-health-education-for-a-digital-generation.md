@@ -1,27 +1,22 @@
 ---
+published: true
 organization_id: '2016181'
 year_submitted: 2016
-organization_name: Regents of the University of California
-organization_website: artglobalhealth.org
-ein: ''
-project_image_2: 2875239905741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102195'
+challenge_url: >-
+  https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
 title: 'AMP! Virtual: Sexual Health Education for a Digital Generation'
-organization_name_2: Regents of the University of California
-organization_activity: >-
-  The UCLA Art & Global Health Center harnesses the transformative power of the
-  arts to improve public health in Los Angeles.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
-project_video: 'https://www.youtube.com/embed/PV_FxBFP2hA?rel=0&amp;showinfo=0'
 project_summary: >-
   Give sex ed a new look, outside of the box and not in a book. Help AMP! UCLA
   help high school students get the facts so they can step up as advocates for
   their own sexual health decisions.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
+project_video: 'https://www.youtube.com/embed/PV_FxBFP2hA?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - LAUSD
 project_measure: >-
   One of the Art & Global Health Center’s key roles at UCLA is to facilitate
   research concerning arts-based methods for health communication. We strongly
@@ -67,6 +62,21 @@ project_description: >-
 project_impact: >-
   ["Healthcare access","Self-sufficiency","Resilient communities","Prevalence of
   adverse childhood experiences"]
+project_proposal_impact:
+  - Healthcare access
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+project_proposal_description: >-
+  AMP! simultaneously educates and inspires young people to make responsible
+  health decisions by harnessing the transformative power of humor and
+  courageous storytelling to create performances for teens that are memorable,
+  inclusive, and FUN. Ninth grade is the last year LAUSD delivers sexual health
+  education. There are approximately 60,000 ninth graders in LAUSD. An AMP!
+  digital platform would allow us to reach them by providing an accessible,
+  updated resource to all LAUSD health teachers.
+project_areas:
+  - LAUSD
 project_proposal_best_place: >-
   With more new cases of HIV diagnosed among teens and young adults than any
   other age group, the need for youth-focused sexual health education, including
@@ -115,24 +125,14 @@ project_proposal_best_place: >-
   expanded and updated every other year as the UCLA Sex Squad continues to
   create more content. An investment in our young people is an investment in the
   future health of our entire city.
-challenge_url: >-
-  https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
+project_image_2: 2875239905741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  AMP! simultaneously educates and inspires young people to make responsible
-  health decisions by harnessing the transformative power of humor and
-  courageous storytelling to create performances for teens that are memorable,
-  inclusive, and FUN. Ninth grade is the last year LAUSD delivers sexual health
-  education. There are approximately 60,000 ninth graders in LAUSD. An AMP!
-  digital platform would allow us to reach them by providing an accessible,
-  updated resource to all LAUSD health teachers.
-project_proposal_impact:
-  - Healthcare access
-  - Self-sufficiency
-  - Resilient communities
-  - Prevalence of adverse childhood experiences
-category: live
-body_class: lime
-published: true
+organization_name: Regents of the University of California
+organization_website: artglobalhealth.org
+organization_name_2: Regents of the University of California
+organization_activity: >-
+  The UCLA Art & Global Health Center harnesses the transformative power of the
+  arts to improve public health in Los Angeles.
+ein: ''
 
 ---

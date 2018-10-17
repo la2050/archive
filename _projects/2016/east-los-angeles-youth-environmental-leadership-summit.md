@@ -1,27 +1,21 @@
 ---
+published: true
 organization_id: '2016112'
 year_submitted: 2016
-organization_name: International Trade Education Programs (ITEP)
-organization_website: www.itepinc.org
-ein: ''
-project_image_2: 1825639986741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102106'
+challenge_url: >-
+  https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
 title: East Los Angeles Youth Environmental Leadership Summit
-organization_name_2: International Trade Education Programs (ITEP)
-organization_activity: >-
-  In partnership with industry, educators, and community organizations, ITEP
-  connects disadvantaged and diverse high school students to college and career
-  opportunities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
-project_video: ''
 project_summary: >-
   Local industry leaders and East LA youth will converge inspire the next
   generation of environmental leaders and change.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: N/A
-project_areas:
-  - East LA
 project_measure: >-
   Measurement tool (outputs):
 
@@ -61,6 +55,22 @@ project_description: >-
 project_impact: >-
   ["Waterways","Exposure to air toxins","Self-sufficiency","Local
   water","Resilient communities","Tree canopy cover"]
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+project_proposal_description: >-
+  This Summit will provide students in East Los Angeles the opportunity to learn
+  about cutting edge environmental science careers that will enable them to
+  become part of the local economy and contribute to their communities cleaner,
+  more accessible, and sustainable. ITEP will convene industry and community
+  partners to hear the Generation Z perspective on community problems and
+  potential solutions.
+project_areas:
+  - East LA
 project_proposal_best_place: >-
   ITEP will present a one-day community Environmental Leadership Summit in Fall
   2017 to include student presentations, an environmental fair, keynote speaker,
@@ -103,25 +113,15 @@ project_proposal_best_place: >-
   Together, ITEP and the East Los Angeles community residents will make LA the
   best place to LIVE by supporting efforts to ensure a healthy and sustainable
   environment for all its citizens.
-challenge_url: >-
-  https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
+project_image_2: 1825639986741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  This Summit will provide students in East Los Angeles the opportunity to learn
-  about cutting edge environmental science careers that will enable them to
-  become part of the local economy and contribute to their communities cleaner,
-  more accessible, and sustainable. ITEP will convene industry and community
-  partners to hear the Generation Z perspective on community problems and
-  potential solutions.
-project_proposal_impact:
-  - Waterways
-  - Exposure to air toxins
-  - Self-sufficiency
-  - Local water
-  - Resilient communities
-  - Tree canopy cover
-category: live
-body_class: lime
-published: true
+organization_name: International Trade Education Programs (ITEP)
+organization_website: www.itepinc.org
+organization_name_2: International Trade Education Programs (ITEP)
+organization_activity: >-
+  In partnership with industry, educators, and community organizations, ITEP
+  connects disadvantaged and diverse high school students to college and career
+  opportunities.
+ein: ''
 
 ---

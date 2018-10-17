@@ -1,34 +1,26 @@
 ---
+published: true
 organization_id: '2016217'
 year_submitted: 2016
-organization_name: 'The Engineer Factory, a project of Community Partners'
-organization_website: www.communitypartners.org/project/engineer-factory
-ein: ''
-project_image_2: 7432986155741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102241'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
 title: >-
   The Engineer Factory: Producing engineers in South Los Angeles...one student
   at a time!
-organization_name_2: 'The Engineer Factory, a project of Community Partners'
-organization_activity: >-
-  The Engineer Factory “plants seeds to grow STEM” in students in underserved
-  communities through project-based learning in community & afterschool
-  programs, engineer competitions, and TA for educators.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
-project_video: 'https://www.youtube.com/embed/IgcIdSHSnMc?rel=0&amp;showinfo=0'
 project_summary: >-
   The Engineer Factory is to increase the number of students from
   underrepresented populations (girls and students of color) that pursue higher
   education and careers in Engineering.  This
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
+project_video: 'https://www.youtube.com/embed/IgcIdSHSnMc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   UCLA MESA, The Girl Scouts of Greater Los Angeles, Los Angeles Southwest
   College Urban Teacher Fellowship
-project_areas:
-  - South LA
-  - South Bay
-  - County of Los Angeles
 project_measure: >-
   Engineer Factory will use the following SMART Objectives to measure project
   success:
@@ -79,6 +71,20 @@ project_description: >-
   participating in MESA & engineer-based competitions; and providing practical
   training and resources for teachers.
 project_impact: '["Student education pipeline"]'
+project_proposal_impact:
+  - Student education pipeline
+project_proposal_description: >-
+  The Engineer Factory, in collaboration with the UCLA MESA Program, Los Angeles
+  Southwest College Urban Teachers Fellowship (LASC UTF) and the Girl Scouts of
+  Greater Los Angeles seek to spark the interest of 4th- 8th grade females and
+  students of color in being engineers. The program includes: consistent fun,
+  hands-on, project-based learning through one-day Pop-Up community workshops;
+  participating in MESA & engineer-based competitions; and providing practical
+  training and resources for teachers.
+project_areas:
+  - South LA
+  - South Bay
+  - County of Los Angeles
 project_proposal_best_place: >-
   The Engineer Factory (EF) will help make LA the best place to learn by
   supporting and strengthening the engineering education pipeline for
@@ -130,21 +136,15 @@ project_proposal_best_place: >-
   teachers-in-training in LASC’s Urban Teacher Fellowship, a program with the
   goal of increasing the number of teachers of color.  EF’s goal is to enroll at
   least 30 students in its MESA program.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
+project_image_2: 7432986155741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  The Engineer Factory, in collaboration with the UCLA MESA Program, Los Angeles
-  Southwest College Urban Teachers Fellowship (LASC UTF) and the Girl Scouts of
-  Greater Los Angeles seek to spark the interest of 4th- 8th grade females and
-  students of color in being engineers. The program includes: consistent fun,
-  hands-on, project-based learning through one-day Pop-Up community workshops;
-  participating in MESA & engineer-based competitions; and providing practical
-  training and resources for teachers.
-project_proposal_impact:
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: 'The Engineer Factory, a project of Community Partners'
+organization_website: www.communitypartners.org/project/engineer-factory
+organization_name_2: 'The Engineer Factory, a project of Community Partners'
+organization_activity: >-
+  The Engineer Factory “plants seeds to grow STEM” in students in underserved
+  communities through project-based learning in community & afterschool
+  programs, engineer competitions, and TA for educators.
+ein: ''
 
 ---

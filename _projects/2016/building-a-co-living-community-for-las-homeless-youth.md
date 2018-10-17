@@ -1,24 +1,20 @@
 ---
+published: true
 organization_id: '2018096'
 year_submitted: 2016
-organization_name: PodShare
-organization_website: PodShare.co
-ein: '811021799'
-project_image_2: 7267442825741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102219'
+challenge_url: >-
+  https://challenge.la2050.org/entry/building-a-co-living-community-for-las-homeless-youth
 title: Building a Co-living Community for LA's Homeless Youth
-organization_name_2: PodShare
-organization_activity: >-
-  PodShare builds affordable membership-based live/work communities to share
-  across the city of LA - access to our network of locations to co-live,
-  co-work, & collaborate
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7267442825741-team91.jpg
-project_video: 'https://www.youtube.com/embed/nzZIUSqsR-Y?rel=0&amp;showinfo=0'
 project_summary: >-
   PodShare builds affordable live/work communities with custom-designed pods,
   open floor plans, and access to a network of locations to co-live, co-work,
   and collaborate.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7267442825741-team91.jpg
+project_video: 'https://www.youtube.com/embed/nzZIUSqsR-Y?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   'PodShare for Homeless Youth' would be serviced by one or more non-profit
@@ -28,8 +24,6 @@ project_collaborators: >-
   Homeless Youth Partnership' (LA LGBT Center and Children's Hospital) and 
   County of Los Angeles, Department of Children and Family Services (75% of
   emancipated foster children experience homelessness).
-project_areas:
-  - Central LA
 project_measure: >-
   Over the years, we have seen many Podestrians move out of the pods as new
   roommates at apartment buildings nearby. If we can create an open community of
@@ -95,6 +89,21 @@ project_description: >-
 project_impact: >-
   ["Housing affordability","Self-sufficiency","Resilient
   communities","Homelessness"]
+project_proposal_impact:
+  - Housing affordability
+  - Self-sufficiency
+  - Resilient communities
+  - Homelessness
+project_proposal_description: >-
+  PodShare will build a pilot program for transitional housing for Homeless
+  Youth in Hollywood to host 40 individuals selected by partner organizations,
+  for a period of up to six months while they seek long term housing. The
+  property will offer co-living pods for sleeping, shared co-ed amenities, a
+  'maker's lab' for content creation, and hospitality job training with
+  placement to PodShare and hotel service companies. Each youth pays a nominal
+  fee and must either have or be actively seeking a job.
+project_areas:
+  - Central LA
 project_proposal_best_place: >-
   If LA wants to be the best place to LIVE, we need to offer more places to
   live. One solution to LA's homeless crisis is to build creative communities
@@ -160,24 +169,15 @@ project_proposal_best_place: >-
   scale) so that the youth develop responsible fiscal habits. Fees can be offset
   through government subsidies, private donations, and possibly even housing
   vouchers.  The goal is to create authorship and autonomy.
-challenge_url: >-
-  https://challenge.la2050.org/entry/building-a-co-living-community-for-las-homeless-youth
+project_image_2: 7267442825741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  PodShare will build a pilot program for transitional housing for Homeless
-  Youth in Hollywood to host 40 individuals selected by partner organizations,
-  for a period of up to six months while they seek long term housing. The
-  property will offer co-living pods for sleeping, shared co-ed amenities, a
-  'maker's lab' for content creation, and hospitality job training with
-  placement to PodShare and hotel service companies. Each youth pays a nominal
-  fee and must either have or be actively seeking a job.
-project_proposal_impact:
-  - Housing affordability
-  - Self-sufficiency
-  - Resilient communities
-  - Homelessness
-category: live
-body_class: lime
-published: true
+organization_name: PodShare
+organization_website: PodShare.co
+organization_name_2: PodShare
+organization_activity: >-
+  PodShare builds affordable membership-based live/work communities to share
+  across the city of LA - access to our network of locations to co-live,
+  co-work, & collaborate
+ein: '811021799'
 
 ---

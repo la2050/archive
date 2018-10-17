@@ -1,4 +1,9 @@
 ---
+published: true
+organization_id: '2015051'
+year_submitted: 2014
+category: create
+body_class: banana
 project_id: '4102056'
 title: >-
   We Are All LA: a socially conscious business network to end womens
@@ -6,70 +11,14 @@ title: >-
 project_summary: >-
   DWC leverages the power of for-profit/non-profit partnerships to work toward
   ending homelessness for women in Los Angeles. 
-category: create
-organization_id: '2015051'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/8GZELMERrSk'
-Which area(s) of LA does your project benefit? Other (elaborate): |-
-  1. Build a business coalition
-   2. Place participants in jobs
-   3. Provide support to employers and employees to ensure job retention
-   
-   In order to facilitate employment opportunities for women who have experienced homelessness, we will launch a DWC-led business coalition. We will leverage our established partnerships and cultivate new relationships with local businesses who understand that a strong economy is necessarily inclusive. Together, we will proactively shape the economy our community wants to see in Los Angeles in 2050. DWC’s business coalition will serve as advocates to end homelessness in the Downtown Los Angeles community, train and/or employ homeless women, and leverage their networks to grow the coalition.
-   
-   We will catalyze action among business leaders through convenings that will facilitate dialogue and brainstorm business-smart solutions to employ program participants. The collective of social-conscientious and business-savvy leaders will help us ensure that we train our participants in the skills most in demand, and that we approach job placement in the most effective way. Our partners will provide job opportunities for our women, provide participants with specialized training in specific industries, and help us expand our network. We will hold a quarterly convening for prospective local business partners to meet with our long-time partners and learn of the strategies and benefits of employing DWC participants. 
-   
-   To support these efforts and put more women back to work, DWC will also grow our extensive Education and Job Readiness programming. Homeless and extremely low-income women will participate in enrichment classes that ignite their creative and enterprising spirit such as product design, candle-making, and the art of baking. We will also offer job counseling, and workshops that promote technological proficiency and teach essential skills like resume building and critical thinking. 
-   
-   DWC will not only connect women with employment, but provide ongoing support to participants and employers to ensure job retention. Participants will be hired and/or trained in our café and boutique and also by diverse partners like Bloomingdales, the Music Center, and local small businesses like the Pie Hole and Groundwork Coffee. Additionally, places like LAX and Bloomingdale’s will carry products created by our participants, MADE by DWC. Over the next 12 months, we will aim to place 60 women in jobs or internships.
-What is your idea/project in more detail?: >-
-  The core of creation is the exercise of agency. DWC’s Education and Job
-  Readiness Program empowers women to exercise their agency while our proposed
-  local business coalition encourages businesses to emerge as leaders in the
-  community by effecting positive change. The task at hand is to create the city
-  we envision for 2050 and this project represents a strategic way to engage the
-  wielders of power and the disenfranchised to move forward—together—to make a
-  better LA. 
-   
-   In addition to job placement in creative enterprises, DWC’s Education and Job Readiness Program offers a variety of opportunities for participants to express their creativity as they ready themselves for the workforce, engaging in artistic activities such as the repurposing of old books into journals, creating charming tea-cup candles, manufacturing scented soaps, and other hand-made products that are then sold as the MADE by DWC product line. We have also recently launched a new creative initiative for our participants in which women create designs featured on products like tote bags and prints with the guidance of professional artists. As part of our social enterprise, these products would be manufactured locally and distributed nationally to help sustain the very enrichment programs that yielded the designs. By 2050, our social enterprise alone may be employing dozens of DWC participants in the designing, manufacturing, and distribution of our MADE by DWC product line, and our business coalition will have powered the employment of the women who currently avail themselves of our services.
-What will you do to implement this idea/project?: >-
-  This project will directly benefit homeless women on Skid Row. There are
-  58,000 homeless people in Los Angeles County, and most of that population is
-  concentrated in downtown Los Angeles. Women make up almost a quarter Los
-  Angeles’ homeless. The women DWC serve include war veterans, older women who
-  find themselves homeless after their spouse passes, victims of the economic
-  downturn, and trauma survivors. The 2013 Needs Assessment, conducted by the
-  Downtown Women’s Action Coalition, surveyed women on Skid Row to get a better
-  idea of the services needed. Employment opportunities ranked among the highest
-  needed resource in Skid Row. Computer classes and educational opportunities
-  also ranked high on the list of needs for women in our community.
-   
-   DWC aims to provide safety and basic needs to all our participants, and once those urgencies are met, we also want our participants to strive to thrive. Our proposed program provides targeted services that meet the specific educational and vocational needs women have voiced. We believe in them and believe that more empowered women means a stronger society, and more self-sufficient women leads to a stronger economy. 
-   
-   Our proposed solution is the beginning of what we believe to be necessary long-term, systemic change, involving the community as a whole and not just service agencies. Businesses who partner with us will benefit as they take positive action toward a better future while gaining networking opportunities and receiving one-on-one support from DWC and other experienced business partners to help them manage employees from this unique population. 
-   
-   The greatest benefit in the long run, however, will be for Los Angeles as a whole, as the city cannot hope to prosper with 58,000 of its people languishing in extreme poverty. We are all LA.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  Confirmed partners include Strategic Action for a Just Economy, Groundwork
-  Coffeee, Bloomingdale’s, Evy, UCLA School of Nursing, Dr. J’s Vibrant Café,
-  The Pie Hole, ROC-LA, and LA Kitchen. We are aiming to forge partnerships with
-  Farmer John, Charlie’s Brownies, Sonax Behrouzon’s Printing Company,
-  Povertees, Nancy Clark (Designer), The Giving Keys, Wells Fargo, Dean
-  Management, LLC, Manifesto Café, Wurstkuche, and Piece by Piece.
-   
-   We have worked with our established partners in a variety of ways. Some partners offer specialized training in their industry, others offer paid positions or give special consideration to our participants in their staffing searches. We are looking to expand these past partnerships as well as create new partnerships to help us improve our job readiness programming, amplifying our impact in terms of job placement, and offering the added benefit of networking and creative brainstorming among our partners as they seek to grow themselves. 
-   
-   In harnessing the power of collaboration for our business coalition, three factors will be critical to our success. The contribution of expertise and network of our current partners is of utmost importance to the success of our initiative, as is effective and engaging training and workshops that help women stay on track in their personal stability and in their path toward self-sufficiency. Lastly, because a growth initiative like this one often takes a backseat to programming upkeep, funding for this innovation is crucial.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-youtube_video_identifier: 8GZELMERrSk
 project_areas:
   - CENTRAL LA
   - LA COUNTY
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: Downtown Women's Center
+  metrics_create_employment: '1'
   org_website: 'http://www.DWCweb.org/'
   org_twitter: 'http://www.twitter.com/DWCweb'
   org_facebook: 'http://www.facebook.com/DWCweb'
@@ -110,7 +59,7 @@ maker_answers:
   impact_create: "The core of creation is the exercise of agency. DWC’s Education and Job Readiness Program empowers women to exercise their agency while our proposed local business coalition encourages businesses to emerge as leaders in the community by effecting positive change. The task at hand is to create the city we envision for 2050 and this project represents a strategic way to engage the wielders of power and the disenfranchised to move forward—together—to make a better LA. \r\n\r\nIn addition to job placement in creative enterprises, DWC’s Education and Job Readiness Program offers a variety of opportunities for participants to express their creativity as they ready themselves for the workforce, engaging in artistic activities such as the repurposing of old books into journals, creating charming tea-cup candles, manufacturing scented soaps, and other hand-made products that are then sold as the MADE by DWC product line. We have also recently launched a new creative initiative for our participants in which women create designs featured on products like tote bags and prints with the guidance of professional artists. As part of our social enterprise, these products would be manufactured locally and distributed nationally to help sustain the very enrichment programs that yielded the designs. By 2050, our social enterprise alone may be employing dozens of DWC participants in the designing, manufacturing, and distribution of our MADE by DWC product line, and our business coalition will have powered the employment of the women who currently avail themselves of our services.\r\n"
   who_benefit: "This project will directly benefit homeless women on Skid Row. There are 58,000 homeless people in Los Angeles County, and most of that population is concentrated in downtown Los Angeles. Women make up almost a quarter Los Angeles’ homeless. The women DWC serve include war veterans, older women who find themselves homeless after their spouse passes, victims of the economic downturn, and trauma survivors. The 2013 Needs Assessment, conducted by the Downtown Women’s Action Coalition, surveyed women on Skid Row to get a better idea of the services needed. Employment opportunities ranked among the highest needed resource in Skid Row. Computer classes and educational opportunities also ranked high on the list of needs for women in our community.\r\n\r\nDWC aims to provide safety and basic needs to all our participants, and once those urgencies are met, we also want our participants to strive to thrive. Our proposed program provides targeted services that meet the specific educational and vocational needs women have voiced. We believe in them and believe that more empowered women means a stronger society, and more self-sufficient women leads to a stronger economy. \r\n\r\nOur proposed solution is the beginning of what we believe to be necessary long-term, systemic change, involving the community as a whole and not just service agencies. Businesses who partner with us will benefit as they take positive action toward a better future while gaining networking opportunities and receiving one-on-one support from DWC and other experienced business partners to help them manage employees from this unique population. \r\n\r\nThe greatest benefit in the long run, however, will be for Los Angeles as a whole, as the city cannot hope to prosper with 58,000 of its people languishing in extreme poverty. We are all LA.\r\n"
   partners_collaboration: "Confirmed partners include Strategic Action for a Just Economy, Groundwork Coffeee, Bloomingdale’s, Evy, UCLA School of Nursing, Dr. J’s Vibrant Café, The Pie Hole, ROC-LA, and LA Kitchen. We are aiming to forge partnerships with Farmer John, Charlie’s Brownies, Sonax Behrouzon’s Printing Company, Povertees, Nancy Clark (Designer), The Giving Keys, Wells Fargo, Dean Management, LLC, Manifesto Café, Wurstkuche, and Piece by Piece.\r\n\r\nWe have worked with our established partners in a variety of ways. Some partners offer specialized training in their industry, others offer paid positions or give special consideration to our participants in their staffing searches. We are looking to expand these past partnerships as well as create new partnerships to help us improve our job readiness programming, amplifying our impact in terms of job placement, and offering the added benefit of networking and creative brainstorming among our partners as they seek to grow themselves. \r\n\r\nIn harnessing the power of collaboration for our business coalition, three factors will be critical to our success. The contribution of expertise and network of our current partners is of utmost importance to the success of our initiative, as is effective and engaging training and workshops that help women stay on track in their personal stability and in their path toward self-sufficiency. Lastly, because a growth initiative like this one often takes a backseat to programming upkeep, funding for this innovation is crucial.\r\n"
-  metrics_create_employment: '1'
+  city_state: 'Los Angeles, CA'
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -126,7 +75,7 @@ maker_answers:
   metrics_create_unemployment: '1'
   metrics_create_other: '1'
   metrics_create_blank: Rates of homelessness
-  impact_metrics: "This program creates access to jobs for the most vulnerable population in Los Angeles, shrinks they Gini coefficient by targeting the most extreme poverty, and empowers local businesses to shape the culture and economic growth in downtown Los Angeles.\r\n \r\nWe do not limit our project to the impact metrics stated, however. This project will build community among downtown Los Angeles businesses and bridge the gap between them and growing homeless population on Skid Row, very positive first steps in achieving a more equitable Los Angeles and a more socially conscious city economy. Furthermore, the impact on the individuals participating is immense as this programming not just helps place women in employment, but lays the necessary groundwork for any future endeavor: self-efficacy and self-worth. Connecting with the larger community and learning new skills changes the world for a participant.\r\n\r\nOur project also fulfills many of the metrics in the “Live” category because for our target population, the needs for housing, healthy food, and mental and physical healthcare need to be met before any higher-level needs can be pursued. This year, DWC will provide more than 100,000 meals, 119 units of permanent supportive housing, and a wide range of supportive services to more than 4,000 homeless and extremely low-income women on downtown Los Angeles’ Skid Row.\r\n\r\nDWC also meets metrics in the “Connect” category. In 2013, nearly 4,300 individuals volunteered over 30,000 hours, an amount equal to almost 15 full-time employees and over half a million dollars. Groups from dozens of corporations come to volunteer as teams for service days, meal preparation, and enrichment workshops. Our proposed business coalition, like our greatly successful volunteer program, will not only be creating a network of local businesses but also a bridge between two disparate communities: homeless women and business leaders.\r\n"
+  resources_network: '1'
   best_place_to_learn: '0'
   best_place_to_connect: '1'
   healthiest_place_to_live: '1'
@@ -181,8 +130,61 @@ maker_answers:
   resources_education: '1'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '1'
+  impact_metrics: "This program creates access to jobs for the most vulnerable population in Los Angeles, shrinks they Gini coefficient by targeting the most extreme poverty, and empowers local businesses to shape the culture and economic growth in downtown Los Angeles.\r\n \r\nWe do not limit our project to the impact metrics stated, however. This project will build community among downtown Los Angeles businesses and bridge the gap between them and growing homeless population on Skid Row, very positive first steps in achieving a more equitable Los Angeles and a more socially conscious city economy. Furthermore, the impact on the individuals participating is immense as this programming not just helps place women in employment, but lays the necessary groundwork for any future endeavor: self-efficacy and self-worth. Connecting with the larger community and learning new skills changes the world for a participant.\r\n\r\nOur project also fulfills many of the metrics in the “Live” category because for our target population, the needs for housing, healthy food, and mental and physical healthcare need to be met before any higher-level needs can be pursued. This year, DWC will provide more than 100,000 meals, 119 units of permanent supportive housing, and a wide range of supportive services to more than 4,000 homeless and extremely low-income women on downtown Los Angeles’ Skid Row.\r\n\r\nDWC also meets metrics in the “Connect” category. In 2013, nearly 4,300 individuals volunteered over 30,000 hours, an amount equal to almost 15 full-time employees and over half a million dollars. Groups from dozens of corporations come to volunteer as teams for service days, meal preparation, and enrichment workshops. Our proposed business coalition, like our greatly successful volunteer program, will not only be creating a network of local businesses but also a bridge between two disparate communities: homeless women and business leaders.\r\n"
+Which area(s) of LA does your project benefit? Other (elaborate): |-
+  1. Build a business coalition
+   2. Place participants in jobs
+   3. Provide support to employers and employees to ensure job retention
+   
+   In order to facilitate employment opportunities for women who have experienced homelessness, we will launch a DWC-led business coalition. We will leverage our established partnerships and cultivate new relationships with local businesses who understand that a strong economy is necessarily inclusive. Together, we will proactively shape the economy our community wants to see in Los Angeles in 2050. DWC’s business coalition will serve as advocates to end homelessness in the Downtown Los Angeles community, train and/or employ homeless women, and leverage their networks to grow the coalition.
+   
+   We will catalyze action among business leaders through convenings that will facilitate dialogue and brainstorm business-smart solutions to employ program participants. The collective of social-conscientious and business-savvy leaders will help us ensure that we train our participants in the skills most in demand, and that we approach job placement in the most effective way. Our partners will provide job opportunities for our women, provide participants with specialized training in specific industries, and help us expand our network. We will hold a quarterly convening for prospective local business partners to meet with our long-time partners and learn of the strategies and benefits of employing DWC participants. 
+   
+   To support these efforts and put more women back to work, DWC will also grow our extensive Education and Job Readiness programming. Homeless and extremely low-income women will participate in enrichment classes that ignite their creative and enterprising spirit such as product design, candle-making, and the art of baking. We will also offer job counseling, and workshops that promote technological proficiency and teach essential skills like resume building and critical thinking. 
+   
+   DWC will not only connect women with employment, but provide ongoing support to participants and employers to ensure job retention. Participants will be hired and/or trained in our café and boutique and also by diverse partners like Bloomingdales, the Music Center, and local small businesses like the Pie Hole and Groundwork Coffee. Additionally, places like LAX and Bloomingdale’s will carry products created by our participants, MADE by DWC. Over the next 12 months, we will aim to place 60 women in jobs or internships.
+What is your idea/project in more detail?: >-
+  The core of creation is the exercise of agency. DWC’s Education and Job
+  Readiness Program empowers women to exercise their agency while our proposed
+  local business coalition encourages businesses to emerge as leaders in the
+  community by effecting positive change. The task at hand is to create the city
+  we envision for 2050 and this project represents a strategic way to engage the
+  wielders of power and the disenfranchised to move forward—together—to make a
+  better LA. 
+   
+   In addition to job placement in creative enterprises, DWC’s Education and Job Readiness Program offers a variety of opportunities for participants to express their creativity as they ready themselves for the workforce, engaging in artistic activities such as the repurposing of old books into journals, creating charming tea-cup candles, manufacturing scented soaps, and other hand-made products that are then sold as the MADE by DWC product line. We have also recently launched a new creative initiative for our participants in which women create designs featured on products like tote bags and prints with the guidance of professional artists. As part of our social enterprise, these products would be manufactured locally and distributed nationally to help sustain the very enrichment programs that yielded the designs. By 2050, our social enterprise alone may be employing dozens of DWC participants in the designing, manufacturing, and distribution of our MADE by DWC product line, and our business coalition will have powered the employment of the women who currently avail themselves of our services.
+What will you do to implement this idea/project?: >-
+  This project will directly benefit homeless women on Skid Row. There are
+  58,000 homeless people in Los Angeles County, and most of that population is
+  concentrated in downtown Los Angeles. Women make up almost a quarter Los
+  Angeles’ homeless. The women DWC serve include war veterans, older women who
+  find themselves homeless after their spouse passes, victims of the economic
+  downturn, and trauma survivors. The 2013 Needs Assessment, conducted by the
+  Downtown Women’s Action Coalition, surveyed women on Skid Row to get a better
+  idea of the services needed. Employment opportunities ranked among the highest
+  needed resource in Skid Row. Computer classes and educational opportunities
+  also ranked high on the list of needs for women in our community.
+   
+   DWC aims to provide safety and basic needs to all our participants, and once those urgencies are met, we also want our participants to strive to thrive. Our proposed program provides targeted services that meet the specific educational and vocational needs women have voiced. We believe in them and believe that more empowered women means a stronger society, and more self-sufficient women leads to a stronger economy. 
+   
+   Our proposed solution is the beginning of what we believe to be necessary long-term, systemic change, involving the community as a whole and not just service agencies. Businesses who partner with us will benefit as they take positive action toward a better future while gaining networking opportunities and receiving one-on-one support from DWC and other experienced business partners to help them manage employees from this unique population. 
+   
+   The greatest benefit in the long run, however, will be for Los Angeles as a whole, as the city cannot hope to prosper with 58,000 of its people languishing in extreme poverty. We are all LA.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  Confirmed partners include Strategic Action for a Just Economy, Groundwork
+  Coffeee, Bloomingdale’s, Evy, UCLA School of Nursing, Dr. J’s Vibrant Café,
+  The Pie Hole, ROC-LA, and LA Kitchen. We are aiming to forge partnerships with
+  Farmer John, Charlie’s Brownies, Sonax Behrouzon’s Printing Company,
+  Povertees, Nancy Clark (Designer), The Giving Keys, Wells Fargo, Dean
+  Management, LLC, Manifesto Café, Wurstkuche, and Piece by Piece.
+   
+   We have worked with our established partners in a variety of ways. Some partners offer specialized training in their industry, others offer paid positions or give special consideration to our participants in their staffing searches. We are looking to expand these past partnerships as well as create new partnerships to help us improve our job readiness programming, amplifying our impact in terms of job placement, and offering the added benefit of networking and creative brainstorming among our partners as they seek to grow themselves. 
+   
+   In harnessing the power of collaboration for our business coalition, three factors will be critical to our success. The contribution of expertise and network of our current partners is of utmost importance to the success of our initiative, as is effective and engaging training and workshops that help women stay on track in their personal stability and in their path toward self-sufficiency. Lastly, because a growth initiative like this one often takes a backseat to programming upkeep, funding for this innovation is crucial.
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
+youtube_video_identifier: 8GZELMERrSk
 maker_answers_list:
   - name: city_state
     label: 'City, State'
@@ -549,7 +551,5 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '1'
-body_class: banana
-published: true
 
 ---

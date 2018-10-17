@@ -1,30 +1,19 @@
 ---
+published: true
+organization_id: '2015029'
+year_submitted: 2015
+category: connect
+body_class: tangerine
 project_id: '5102050'
 title: ChallengeMaker
-organization_id: '2015029'
-areas_impacted: ''
-partners: ''
 project_summary: 'With this grant there will be no end to the good we can do for our community. '
-Please specify below: ''
-category: connect
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
-maker_image_id: '24048'
-maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24048%252Fdisplay%252FChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png=c570x385
 project_areas:
   - County of Los Angeles
 maker_answers:
-  How did you hear about this challenge?: entered last year with a different project
   'City, State': Los Angeles Ca
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   Organization(s) name(s): ChallengeMaker
   Organization(s) mailing address(es): "1523 Maltman Ave #5\r\nLos Angeles, CA 90026"
   Organization(s) website(s): www.challengemaker.com
@@ -70,7 +59,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  How did you hear about this challenge?: entered last year with a different project
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: There is no limit to the good we can do with this tool.
@@ -103,41 +92,6 @@ maker_answers:
     your giving total and that feels great. The same goes for the people they
     challenge and so on. ChallengeMaker is the connection people are yearning
     for.
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: 'We need funding to finish the tech and soft launch our web app platform. '
-  Please explain how you will evaluate your work.: >-
-    Our goal is to raise $10,000,000 for nonprofits by the end of our first
-    year. 
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-    a few of the challenges on an iOS app called 'challenged' raise money for
-    nonprofits. However there is no peer to peer sharing; there is now way to
-    make a donation with in the app; their audience is very specific to tweens
-    who don't donate. It's also really hard to invite an audience to a challenge
-    using other media. 
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Jason McCabe - Founder/ Bis Dev / Designer\r\nJack Conor - Head of Tech\r\nRachael Caine - Peer to Peer Marketing"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Getting us off the ground will cost over $100,000. However we will see
-    revenue spike in just the second month with campaigns we have already began
-    setting up. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Salaries $18750\r\nPayroll Tax & Benefits  $ 15795\r\nDigital Marketing Campaigns 3600\r\nHosting and Bandwith $1000\r\nawyers, accountants, CPAs $1800\r\nTravel, meals, conferences $7500\r\nPhone service $1350\r\nInsurance $300"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'We''d love to work with our team :)'
-  How do you plan to scale the success of your proposal?: "Our platform is built to be completely scaleable. We'll increase staff as need be.\r\n\r\n"
-  Where will you be working?: []
-  How do you plan to use these resources to make change?:
-    - Conduct research
-    - Engage residents and stakeholders
-    - Implement a pilot or new project
-    - Mobilize for systems change
-    - There is no limit to the good we can do with this tool.
   How can the LA2050 community and other stakeholders help your proposal succeed?:
     - Money (financial capital)
     - Volunteers/staff (human capital)
@@ -148,6 +102,24 @@ maker_answers:
     - Community outreach
     - Network/relationship support
     - Quality improvement research
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - There is no limit to the good we can do with this tool.
+  Where will you be working?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'We''d love to work with our team :)'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Connect” metrics?:
     - Rates of volunteerism
     - Voting rates by race
@@ -164,6 +136,34 @@ maker_answers:
     - Attendance at public/open streets gatherings (Dream Metric)
     - Residential segregation (Dream Metric)
     - Access to free wifi (Dream Metric)
+  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: 'We need funding to finish the tech and soft launch our web app platform. '
+  Please explain how you will evaluate your work.: >-
+    Our goal is to raise $10,000,000 for nonprofits by the end of our first
+    year. 
+  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
+    a few of the challenges on an iOS app called 'challenged' raise money for
+    nonprofits. However there is no peer to peer sharing; there is now way to
+    make a donation with in the app; their audience is very specific to tweens
+    who don't donate. It's also really hard to invite an audience to a challenge
+    using other media. 
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Jason McCabe - Founder/ Bis Dev / Designer\r\nJack Conor - Head of Tech\r\nRachael Caine - Peer to Peer Marketing"
+  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
+    Getting us off the ground will cost over $100,000. However we will see
+    revenue spike in just the second month with campaigns we have already began
+    setting up. 
+  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Salaries $18750\r\nPayroll Tax & Benefits  $ 15795\r\nDigital Marketing Campaigns 3600\r\nHosting and Bandwith $1000\r\nawyers, accountants, CPAs $1800\r\nTravel, meals, conferences $7500\r\nPhone service $1350\r\nInsurance $300"
+  How do you plan to scale the success of your proposal?: "Our platform is built to be completely scaleable. We'll increase staff as need be.\r\n\r\n"
+areas_impacted: ''
+partners: ''
+Please specify below: ''
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -587,8 +587,8 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our platform is built to be completely scaleable. We'll increase staff as need be.\r\n\r\n"
-body_class: tangerine
+maker_image_id: '24048'
+maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
 organization_name: ChallengeMaker
-published: true
 
 ---

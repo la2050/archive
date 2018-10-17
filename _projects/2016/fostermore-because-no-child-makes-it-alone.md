@@ -1,23 +1,18 @@
 ---
+published: true
 organization_id: '2018020'
 year_submitted: 2016
-organization_name: Children's Action Network (CAN)
-organization_website: www.fostermore.org
-ein: '943213100'
-project_image_2: 5007408255741-team91.png
+category: connect
+body_class: tangerine
 project_id: '6102035'
+challenge_url: 'https://challenge.la2050.org/entry/fostermore-because-no-child-makes-it-alone'
 title: FosterMore-Because No Child Makes It Alone
-organization_name_2: Children's Action Network (CAN)
-organization_activity: >-
-  FosterMore highlights the amazing potential of youth in the foster care system
-  and encourages all of us to play a part in ensuring that they receive the
-  support and guidance they need to thrive.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5007408255741-team91.png
-project_video: 'https://www.youtube.com/embed/QGACEG8td6g?rel=0&amp;showinfo=0'
 project_summary: >-
   A non-profit coalition united on behalf of foster youth to increase
   participation in foster parenting, mentoring and educational opportunities.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5007408255741-team91.png
+project_video: 'https://www.youtube.com/embed/QGACEG8td6g?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   FosterMore is a coalition of nonprofits and foundations united to increase
@@ -27,8 +22,6 @@ project_collaborators: >-
   and Ralph M. Parsons Foundation. Nonprofit partners include First Star,
   StoryCorps, The Jewish Board, Foster Care 2 Success and Raise a Child. 
   Managing the effort is CAN and Propper Daley.
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   It is important to look at the impact of the ads through three different
   lenses, aligned with FosterMore’s goals.  Each of the three goals has a metric
@@ -64,6 +57,20 @@ project_description: >-
 project_impact: >-
   ["Social & emotional support","Government responsiveness to residents’
   needs","Rates of volunteerism"]
+project_proposal_impact:
+  - Social & emotional support
+  - Government responsiveness to residents’ needs
+  - Rates of volunteerism
+project_proposal_description: >-
+  To fill LA County’s urgent need for foster parents, our team of communications
+  and marketing experts conducted research and focus groups to develop an online
+  recruitment effort.  The initial effort used micro-targeting digital messages
+  to potential foster parents and mentors reaching millions of county residents
+  with a proven message to move them through the prospective foster parent
+  funnel.  We would like to expand our online effort to meet the pressing need
+  for foster parents in the county.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   The need for foster parents is profound in Los Angeles County.  With this in
   mind, our team of communications experts conducted research and focus groups
@@ -112,22 +119,15 @@ project_proposal_best_place: >-
   over a 6-8 week effort.  Further the long-term impact could yield an estimated
   5,700-7,000 additional foster parents starting 18 months from the date of
   execution.
-challenge_url: 'https://challenge.la2050.org/entry/fostermore-because-no-child-makes-it-alone'
+project_image_2: 5007408255741-team91.png
 empty_column_1: ''
-project_proposal_description: >-
-  To fill LA County’s urgent need for foster parents, our team of communications
-  and marketing experts conducted research and focus groups to develop an online
-  recruitment effort.  The initial effort used micro-targeting digital messages
-  to potential foster parents and mentors reaching millions of county residents
-  with a proven message to move them through the prospective foster parent
-  funnel.  We would like to expand our online effort to meet the pressing need
-  for foster parents in the county.
-project_proposal_impact:
-  - Social & emotional support
-  - Government responsiveness to residents’ needs
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: Children's Action Network (CAN)
+organization_website: www.fostermore.org
+organization_name_2: Children's Action Network (CAN)
+organization_activity: >-
+  FosterMore highlights the amazing potential of youth in the foster care system
+  and encourages all of us to play a part in ensuring that they receive the
+  support and guidance they need to thrive.
+ein: '943213100'
 
 ---

@@ -1,38 +1,21 @@
 ---
+published: true
 organization_id: '2016073'
 year_submitted: 2016
-organization_name: Equallet
-organization_website: www.equallet.com
-ein: ''
-project_image_2: 8371696026741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102141'
+challenge_url: 'https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets'
 title: Achieving Gender Equality With Our Wallets
-organization_name_2: Equallet
-organization_activity: >-
-  Equallet’s mission is to achieve gender equality by harnessing the collective
-  financial power of the consumer and investor to support women-owned businesses
-  in LA.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371696026741-team91.jpg
-project_video: 'https://www.youtube.com/embed/8nHQbGQ-t-E?rel=0&amp;showinfo=0'
 project_summary: >-
   Equallet is a website and app that connect consumers, investors and
   women-owned businesses to drive job creation, generate wealth and achieve
   gender equality.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371696026741-team91.jpg
+project_video: 'https://www.youtube.com/embed/8nHQbGQ-t-E?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Collecting and analyzing data is at the core of our business.  
 
@@ -73,6 +56,29 @@ project_description: >-
 project_impact: >-
   ["Jobs per capita","Minority- and women-owned firms","Venture capital
   investment"]
+project_proposal_impact:
+  - Jobs per capita
+  - Minority- and women-owned firms
+  - Venture capital investment
+project_proposal_description: >-
+  There is no easy way to find and support women owned businesses (WOBs) in LA.
+  Equallet was built to fill this void by providing an online and mobile search
+  platform (think Yelp or Google) that connects consumers and investors with
+  LA-based WOBs. In this way, we will contribute to small business growth, the
+  creation of new jobs for women and increased in investments into our
+  community.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Our platform serves as a beacon for potential customers, clients and investors
   to find and assess women-owned businesses (WOBs). We will provide
@@ -116,21 +122,15 @@ project_proposal_best_place: >-
   purposes of driving policy and community decisions in order to help these
   businesses thrive. We will become the trusted source of information on our
   great city’s women-owned business community.
-challenge_url: 'https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets'
+project_image_2: 8371696026741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  There is no easy way to find and support women owned businesses (WOBs) in LA.
-  Equallet was built to fill this void by providing an online and mobile search
-  platform (think Yelp or Google) that connects consumers and investors with
-  LA-based WOBs. In this way, we will contribute to small business growth, the
-  creation of new jobs for women and increased in investments into our
-  community.
-project_proposal_impact:
-  - Jobs per capita
-  - Minority- and women-owned firms
-  - Venture capital investment
-category: create
-body_class: banana
-published: true
+organization_name: Equallet
+organization_website: www.equallet.com
+organization_name_2: Equallet
+organization_activity: >-
+  Equallet’s mission is to achieve gender equality by harnessing the collective
+  financial power of the consumer and investor to support women-owned businesses
+  in LA.
+ein: ''
 
 ---

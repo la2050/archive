@@ -1,28 +1,22 @@
 ---
+published: true
 organization_id: '2016178'
 year_submitted: 2016
-organization_name: Proyecto Pastoral
-organization_website: proyectopastoral.org
-ein: ''
-project_image_2: 5158070785741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102191'
+challenge_url: >-
+  https://challenge.la2050.org/entry/collegesquad-promesa-boyle-heights-peer-mentor-program
 title: '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
-organization_name_2: Proyecto Pastoral
-organization_activity: >-
-  Proyecto is the backbone org. for Promesa Boyle Heights (PBH), a collaboration
-  of families, educators & orgs working to ensure all children in BH have access
-  to strong schools & support systems.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
-project_video: ''
 project_summary: >-
   We will create a peer mentorship program aimed at increasing college access in
   Boyle Heights, where college students mentor high school students, who in turn
   mentor middle school students.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: 'Mendez High School, Roosevelt High School, Hollenbeck Middle School'
-project_areas:
-  - East LA
 project_measure: >-
   Success will be defined by both immediate and long term outcomes.  To gauge
   short term success, we will distribute surveys school wide on our two high
@@ -65,6 +59,21 @@ project_description: >-
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Student
   education pipeline","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  To increase college access among Boyle Heights youth, we will create a peer
+  mentoring program, in which local college students would mentor college bound,
+  but first generation high students at two key schools, Felicitas and Gonzalo
+  Mendez High School and Roosevelt High School, giving them support as they
+  prepare to apply to college.  In turn, those high school mentors, will mentor
+  at risk middle school students at risk of not graduating, to increase their
+  motivation towards school.
+project_areas:
+  - East LA
 project_proposal_best_place: >-
   PBH implementation began in 2012 through a Community-School (C-S) model at
   Mendez HS, including case management for highest-risk juniors and seniors;
@@ -112,24 +121,15 @@ project_proposal_best_place: >-
   initiatives they will lead on their campus to raise college awareness,
   offering opportunities for both leadership development and a wider project
   scope.
-challenge_url: >-
-  https://challenge.la2050.org/entry/collegesquad-promesa-boyle-heights-peer-mentor-program
+project_image_2: 5158070785741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  To increase college access among Boyle Heights youth, we will create a peer
-  mentoring program, in which local college students would mentor college bound,
-  but first generation high students at two key schools, Felicitas and Gonzalo
-  Mendez High School and Roosevelt High School, giving them support as they
-  prepare to apply to college.  In turn, those high school mentors, will mentor
-  at risk middle school students at risk of not graduating, to increase their
-  motivation towards school.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Proyecto Pastoral
+organization_website: proyectopastoral.org
+organization_name_2: Proyecto Pastoral
+organization_activity: >-
+  Proyecto is the backbone org. for Promesa Boyle Heights (PBH), a collaboration
+  of families, educators & orgs working to ensure all children in BH have access
+  to strong schools & support systems.
+ein: ''
 
 ---

@@ -1,30 +1,22 @@
 ---
+published: true
 organization_id: '2016044'
 year_submitted: 2016
-organization_name: Coalition for Responsible Community Development
-organization_website: coalitionrcd.org
-ein: ''
-project_image_2: 1299310265741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102044'
+challenge_url: >-
+  https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
 title: Community Uniting for Resolution and Empowerment (CURE)
-organization_name_2: Coalition for Responsible Community Development
-organization_activity: >-
-  CRCD engages in comprehensive community development through community
-  beautification, workforce development, education, affordable housing, support
-  services, and economic development.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1299310265741-team90.jpg
-project_video: 'https://www.youtube.com/embed/oHWTV6mzQbg?rel=0&amp;showinfo=0'
 project_summary: >-
   A gang alternative sentencing program that redirects youth to productive
   activities such as education and job training in order to prevent escalation
   of misdemeanor offenses to felony level.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1299310265741-team90.jpg
+project_video: 'https://www.youtube.com/embed/oHWTV6mzQbg?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: "•\tCoalition for Responsible Community Development, •\tLA City Attorney Office, •\tLA County Public Defender"
-project_areas:
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   CRCD defines success as a participant who enrolls, completes the program, and
   is successfully able to earn dismissal/reduction of gang-related misdemeanor
@@ -69,6 +61,24 @@ project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education pipeline","Youth
   unemployment and underemployment"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  CURE focuses on cases prosecuted by the City Attorney’s Anti-Gang Section.
+  CURE offers youth an opportunity to earn the dismissal of their case by
+  engaging in 12-18 months of education, vocational training, and wrap-around
+  services such as mental health care. CURE is a violence prevention effort that
+  redirects youth to productive activities in order to prevent escalation of
+  misdemeanor offenses to felony level violence and to increase community
+  safety.
+project_areas:
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   South LA has the highest number of youth aged 18-25 on probation - 6,339 in
   2009 –among all LA County Supervisorial Districts (“County of LA Young
@@ -119,25 +129,15 @@ project_proposal_best_place: >-
   vision to prevent escalation of offenses. Since its launch in 2010, CRCD has
   engaged a total of 94 young people in diversion from incarceration and has
   catalyzed meaningful change in LA’s criminal justice system.
-challenge_url: >-
-  https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
+project_image_2: 1299310265741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  CURE focuses on cases prosecuted by the City Attorney’s Anti-Gang Section.
-  CURE offers youth an opportunity to earn the dismissal of their case by
-  engaging in 12-18 months of education, vocational training, and wrap-around
-  services such as mental health care. CURE is a violence prevention effort that
-  redirects youth to productive activities in order to prevent escalation of
-  misdemeanor offenses to felony level violence and to increase community
-  safety.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Coalition for Responsible Community Development
+organization_website: coalitionrcd.org
+organization_name_2: Coalition for Responsible Community Development
+organization_activity: >-
+  CRCD engages in comprehensive community development through community
+  beautification, workforce development, education, affordable housing, support
+  services, and economic development.
+ein: ''
 
 ---

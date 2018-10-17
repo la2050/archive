@@ -1,59 +1,17 @@
 ---
+published: true
+organization_id: '2014060'
+year_submitted: 2014
+category: play
+body_class: strawberry
 project_id: '4102150'
 title: LA Childrens Garden an Eden Project for Los Angeles.
 project_summary: >-
   #LosAngeles as a city is way overdue for a children's garden amongst its
   spaces to learn, play and commune with the natural world.
-category: play
-organization_id: '2014060'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20571%252Fdisplay%252Fdahlia3queque.jpg=c570x385
 project_video: ''
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  We've partnered with Environmental Charter High School in Lawndale and Mia
-  Lehrer + Associates to site one of the most innovative school campuses and
-  botanic gardens imaginable. Muir Ranch currently occupies 3.5 acres in
-  Pasadena and features a student-run CSA vegetable subscription program,
-  catering and long table dinners and full event floral jobs training programs
-  for low-income high school students. A LA children's garden will be an
-  expansion of our existing work. Designing and building this "farm" will be a
-  hands-on project for our students and our adult professional mentors from all
-  sectors: design, entertainment, hospitality (food), #green construction and
-  education.
-What is your idea/project in more detail?: >-
-  LA does not have a children's garden like New York or Chicago (or even Dayton,
-  Ohio). It's a double shame since we live in a year-round outdoor growing
-  climate unlike our eastern sisters. 
-   
-   Kids that interact with nature and each other learn more and faster. And nothing inspires wonder like sunflowers in a Van Gogh field or a spiral maze of zinnias and kale. And once kids engage with nature they might be more inclined to empathize with it and want to do more to travel lightly on the planet. 
-   
-   The farm will be a school for the students who build it. It will be a wonderful place for younger students to visit and play. The farm will be teaching tool for educators. And like a church, it is the people who gather and invest their time there.
-What will you do to implement this idea/project?: >-
-  Elementary and Pre-k students: they need places to explore and interact. Think
-  Kidspace as a garden! 
-   
-   High School Students: look what's possible a career, as a farmer and a learner in service.
-   
-   Teachers: see what's possible as an educator and know you are supported at your school to teach kids what they are capable of. 
-   
-   Angelenos: not all soil needs to be covered up! Let's grow a flower farm.
-   
-   Butterflies: we need more milkweed for Monarchs.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  Muir Ranch is a teen jobs program that looks like a farm. We are working with
-  Environmental Charter High School to build the LA Children's Garden as a
-  project-based learning campus.
-   
-   "Environmental Charter High School (ECHS) is an award winning, free, public high school in South Los Angeles that prepares students for 4-year colleges using the environment as a lens for real-life learning. Our schools place an emphasis on experiential, project-based learning that engages students as it prepares them to become leaders in their communities."
-   
-   Mia Lehrer + Associates' projects include the LA River, Vista Hermosa Park, TreePeople campus and the Natural History Museum. Amazing sites!
-   
-   Muir Ranch is supported by dozens of corporate and individual donors and customers via are CSA program. We sell vegetables to retail customers and horticulture companies (Baker Creek, Seeds of Change and Organiks) provide endless plant and seed material. Both major program partners, ECHS and MLA, with Muir Ranch bring education and design expertise to create a space where all can learn and #play!
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-maker_image_id: '20571'
-maker_image_file_name: dahlia3queque.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA
@@ -63,8 +21,18 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  name: 'LA Children''s Garden, an Eden Project for Los Angeles.'
   handle: LAKidsGarden
+  implement: >-
+    We've partnered with Environmental Charter High School in Lawndale and Mia
+    Lehrer + Associates to site one of the most innovative school campuses and
+    botanic gardens imaginable. Muir Ranch currently occupies 3.5 acres in
+    Pasadena and features a student-run CSA vegetable subscription program,
+    catering and long table dinners and full event floral jobs training programs
+    for low-income high school students. A LA children's garden will be an
+    expansion of our existing work. Designing and building this "farm" will be a
+    hands-on project for our students and our adult professional mentors from
+    all sectors: design, entertainment, hospitality (food), #green construction
+    and education.
   Email: schoolgarden@gmail.com
   PhoneNumber: '2132803149'
   City_State: 'LA, CA'
@@ -112,17 +80,7 @@ maker_answers:
     middle of it you have one of the best learning labs around. If you add a
     concert venue and meeting space to this flower farm you have a truly dynamic
     learning and play space.
-  implement: >-
-    We've partnered with Environmental Charter High School in Lawndale and Mia
-    Lehrer + Associates to site one of the most innovative school campuses and
-    botanic gardens imaginable. Muir Ranch currently occupies 3.5 acres in
-    Pasadena and features a student-run CSA vegetable subscription program,
-    catering and long table dinners and full event floral jobs training programs
-    for low-income high school students. A LA children's garden will be an
-    expansion of our existing work. Designing and building this "farm" will be a
-    hands-on project for our students and our adult professional mentors from
-    all sectors: design, entertainment, hospitality (food), #green construction
-    and education.
+  name: 'LA Children''s Garden, an Eden Project for Los Angeles.'
   impact_play: "LA does not have a children's garden like New York or Chicago (or even Dayton, Ohio). It's a double shame since we live in a year-round outdoor growing climate unlike our eastern sisters. \r\n\r\nKids that interact with nature and each other learn more and faster. And nothing inspires wonder like sunflowers in a Van Gogh field or a spiral maze of zinnias and kale. And once kids engage with nature they might be more inclined to empathize with it and want to do more to travel lightly on the planet. \r\n\r\nThe farm will be a school for the students who build it. It will be a wonderful place for younger students to visit and play. The farm will be teaching tool for educators. And like a church, it is the people who gather and invest their time there. "
   who_benefit: "Elementary and Pre-k students: they need places to explore and interact. Think Kidspace as a garden! \r\n\r\nHigh School Students: look what's possible a career, as a farmer and a learner in service.\r\n\r\nTeachers: see what's possible as an educator and know you are supported at your school to teach kids what they are capable of. \r\n\r\nAngelenos: not all soil needs to be covered up! Let's grow a flower farm.\r\n\r\nButterflies: we need more milkweed for Monarchs."
   partners_collaboration: "Muir Ranch is a teen jobs program that looks like a farm. We are working with Environmental Charter High School to build the LA Children's Garden as a project-based learning campus.\r\n\r\n\"Environmental Charter High School (ECHS) is an award winning, free, public high school in South Los Angeles that prepares students for 4-year colleges using the environment as a lens for real-life learning. Our schools place an emphasis on experiential, project-based learning that engages students as it prepares them to become leaders in their communities.\"\r\n\r\nMia Lehrer + Associates' projects include the LA River, Vista Hermosa Park, TreePeople campus and the Natural History Museum. Amazing sites!\r\n\r\nMuir Ranch is supported by dozens of corporate and individual donors and customers via are CSA program. We sell vegetables to retail customers and horticulture companies (Baker Creek, Seeds of Change and Organiks) provide endless plant and seed material. Both major program partners, ECHS and MLA, with Muir Ranch bring education and design expertise to create a space where all can learn and #play!"
@@ -137,7 +95,7 @@ maker_answers:
   metrics_play_informal: '1'
   metrics_play_other: '0'
   metrics_play_blank: ''
-  impact_metrics: "Los Angeles is a stream of parking lots, apartment complexes, mini-malls and freeways. And it's all on some of the best growing ground on the planet. A shame.\r\n\r\nA 1 acre children's garden and school would show that a different city is possible: more play space, more garden teaching space and more space to have first-hand conversations with butterflies. "
+  resources_network: '1'
   best_place_to_learn: '1'
   best_place_to_create: '1'
   best_place_to_connect: '1'
@@ -171,8 +129,50 @@ maker_answers:
   resources_education: '1'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '1'
   resources_research: '0'
+  impact_metrics: "Los Angeles is a stream of parking lots, apartment complexes, mini-malls and freeways. And it's all on some of the best growing ground on the planet. A shame.\r\n\r\nA 1 acre children's garden and school would show that a different city is possible: more play space, more garden teaching space and more space to have first-hand conversations with butterflies. "
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  We've partnered with Environmental Charter High School in Lawndale and Mia
+  Lehrer + Associates to site one of the most innovative school campuses and
+  botanic gardens imaginable. Muir Ranch currently occupies 3.5 acres in
+  Pasadena and features a student-run CSA vegetable subscription program,
+  catering and long table dinners and full event floral jobs training programs
+  for low-income high school students. A LA children's garden will be an
+  expansion of our existing work. Designing and building this "farm" will be a
+  hands-on project for our students and our adult professional mentors from all
+  sectors: design, entertainment, hospitality (food), #green construction and
+  education.
+What is your idea/project in more detail?: >-
+  LA does not have a children's garden like New York or Chicago (or even Dayton,
+  Ohio). It's a double shame since we live in a year-round outdoor growing
+  climate unlike our eastern sisters. 
+   
+   Kids that interact with nature and each other learn more and faster. And nothing inspires wonder like sunflowers in a Van Gogh field or a spiral maze of zinnias and kale. And once kids engage with nature they might be more inclined to empathize with it and want to do more to travel lightly on the planet. 
+   
+   The farm will be a school for the students who build it. It will be a wonderful place for younger students to visit and play. The farm will be teaching tool for educators. And like a church, it is the people who gather and invest their time there.
+What will you do to implement this idea/project?: >-
+  Elementary and Pre-k students: they need places to explore and interact. Think
+  Kidspace as a garden! 
+   
+   High School Students: look what's possible a career, as a farmer and a learner in service.
+   
+   Teachers: see what's possible as an educator and know you are supported at your school to teach kids what they are capable of. 
+   
+   Angelenos: not all soil needs to be covered up! Let's grow a flower farm.
+   
+   Butterflies: we need more milkweed for Monarchs.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  Muir Ranch is a teen jobs program that looks like a farm. We are working with
+  Environmental Charter High School to build the LA Children's Garden as a
+  project-based learning campus.
+   
+   "Environmental Charter High School (ECHS) is an award winning, free, public high school in South Los Angeles that prepares students for 4-year colleges using the environment as a lens for real-life learning. Our schools place an emphasis on experiential, project-based learning that engages students as it prepares them to become leaders in their communities."
+   
+   Mia Lehrer + Associates' projects include the LA River, Vista Hermosa Park, TreePeople campus and the Natural History Museum. Amazing sites!
+   
+   Muir Ranch is supported by dozens of corporate and individual donors and customers via are CSA program. We sell vegetables to retail customers and horticulture companies (Baker Creek, Seeds of Change and Organiks) provide endless plant and seed material. Both major program partners, ECHS and MLA, with Muir Ranch bring education and design expertise to create a space where all can learn and #play!
+Whom will your project benefit? Please be specific.: ''
+empty_column_1: ''
 maker_answers_list:
   - name: name
     label: ''
@@ -522,7 +522,7 @@ maker_answers_list:
     label: Quality improvement research
     explanation: ''
     answer: '0'
-body_class: strawberry
-published: true
+maker_image_id: '20571'
+maker_image_file_name: dahlia3queque.jpg
 
 ---

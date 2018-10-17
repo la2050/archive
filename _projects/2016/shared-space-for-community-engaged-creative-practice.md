@@ -1,31 +1,22 @@
 ---
+published: true
 organization_id: '2016059'
 year_submitted: 2016
-organization_name: Cornerstone Theater Company
-organization_website: cornerstonetheater.org
-ein: ''
-project_image_2: 9548964265741-team89.jpg
+category: create
+body_class: banana
 project_id: '6102055'
+challenge_url: >-
+  https://challenge.la2050.org/entry/shared-space-for-community-engaged-creative-practice
 title: Shared Space for Community Engaged Creative Practice
-organization_name_2: Cornerstone Theater Company
-organization_activity: Cornerstone Theater Company makes new plays with and about communities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
-project_video: 'https://www.youtube.com/embed/I7lk13h9nJE?rel=0&amp;showinfo=0'
 project_summary: >-
   Cornerstone envisions a home that provides a shared space for Angelenos to
   come together to create, collaborate and engage in dialogue acting as a site
   for civic engagement and creative practice.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
+project_video: 'https://www.youtube.com/embed/I7lk13h9nJE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - City of Los Angeles
 project_measure: >-
   Cornerstone has a culture of rigorous evaluation.
 
@@ -76,6 +67,26 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+project_proposal_description: >-
+  Building a coalition of practitioners from different fields, Cornerstone
+  proposes the development of a Shared Space for Community Engaged Creative
+  Practice. This shared space will serve as a public space for practitioners to
+  create a cross-disciplinary 'engagement commons;' an open space filled with
+  vibrant and diverse community-based approaches and projects that cultivates
+  platforms from which communities of LA from all backgrounds can come together
+  and engage in civic discourse and art-making.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - City of Los Angeles
 project_proposal_best_place: >-
   We envision a home that provides a shared space embedded in a neighborhood
   community for Angelenos to come together to create, collaborate and engage in
@@ -124,23 +135,12 @@ project_proposal_best_place: >-
   ownership of their community leads to collective impact. Catalyzing this
   dialogue connects local leaders; bringing them to the table creates a common
   agenda, while striving towards systemic change.
-challenge_url: >-
-  https://challenge.la2050.org/entry/shared-space-for-community-engaged-creative-practice
+project_image_2: 9548964265741-team89.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Building a coalition of practitioners from different fields, Cornerstone
-  proposes the development of a Shared Space for Community Engaged Creative
-  Practice. This shared space will serve as a public space for practitioners to
-  create a cross-disciplinary 'engagement commons;' an open space filled with
-  vibrant and diverse community-based approaches and projects that cultivates
-  platforms from which communities of LA from all backgrounds can come together
-  and engage in civic discourse and art-making.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-category: create
-body_class: banana
-published: true
+organization_name: Cornerstone Theater Company
+organization_website: cornerstonetheater.org
+organization_name_2: Cornerstone Theater Company
+organization_activity: Cornerstone Theater Company makes new plays with and about communities.
+ein: ''
 
 ---

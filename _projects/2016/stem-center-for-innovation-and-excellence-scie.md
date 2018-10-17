@@ -1,34 +1,22 @@
 ---
+published: true
 organization_id: '2016247'
 year_submitted: 2016
-organization_name: >-
-  University of Southern California (Viterbi STEM Educational Outreach Programs
-  Office)
-organization_website: viterbi.usc.edu/stemprograms
-ein: ''
-project_image_2: 4597804105741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102274'
+challenge_url: >-
+  https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
 title: STEM Center for Innovation and Excellence (SCIE)
-organization_name_2: >-
-  University of Southern California (Viterbi STEM Educational Outreach Programs
-  Office)
-organization_activity: >-
-  STEM Educational Outreach Programs (STEM-EOP)  serves educationally
-  disadvantaged students with the goal to increase the number of students who
-  have authentic experiences in STEM and major in STEM
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
-project_video: ''
 project_summary: >-
   SCIE engages at-risk high school students in science, technology, engineering
   & mathematics (STEM) by having them create apps & techie products that improve
   their community & create entrepreneurship.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: Living Advantage
-project_areas:
-  - Central LA
-  - South LA
-  - LAUSD
 project_measure: >-
   The evaluation of the project will be based on achieving metrics that
   determine if the program objectives are met. 
@@ -101,6 +89,21 @@ project_description: >-
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Youth
   unemployment and underemployment"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  STEM Center for Innovation and Excellence (SCIE) is a program that engages
+  at-risk high school students in science, technology, engineering and
+  mathematics (STEM) by having them create apps and technology based products
+  that improve their community and/or create entrepreneurial opportunities.
+  Students work in teams to create prototypes of apps and products in a local
+  maker space/starter garage setting at their school.
+project_areas:
+  - Central LA
+  - South LA
+  - LAUSD
 project_proposal_best_place: >-
   The goal of SCIE is to engage disadvantaged, and underrepresented Los Angeles
   area high school students in STEM and entrepreneurial opportunities. The
@@ -142,22 +145,19 @@ project_proposal_best_place: >-
   student academic and social self-efficacy and skills. SCIE helps students to
   gain real-world experience and develop relationships with engineering students
   and professionals.
-challenge_url: >-
-  https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
+project_image_2: 4597804105741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  STEM Center for Innovation and Excellence (SCIE) is a program that engages
-  at-risk high school students in science, technology, engineering and
-  mathematics (STEM) by having them create apps and technology based products
-  that improve their community and/or create entrepreneurial opportunities.
-  Students work in teams to create prototypes of apps and products in a local
-  maker space/starter garage setting at their school.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: >-
+  University of Southern California (Viterbi STEM Educational Outreach Programs
+  Office)
+organization_website: viterbi.usc.edu/stemprograms
+organization_name_2: >-
+  University of Southern California (Viterbi STEM Educational Outreach Programs
+  Office)
+organization_activity: >-
+  STEM Educational Outreach Programs (STEM-EOP)  serves educationally
+  disadvantaged students with the goal to increase the number of students who
+  have authentic experiences in STEM and major in STEM
+ein: ''
 
 ---

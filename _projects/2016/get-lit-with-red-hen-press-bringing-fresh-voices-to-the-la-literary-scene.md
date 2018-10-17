@@ -1,36 +1,22 @@
 ---
+published: true
 organization_id: '2018101'
 year_submitted: 2016
-organization_name: Red Hen Press
-organization_website: redhen.org
-ein: '954754598'
-project_image_2: 9754248015741-team90.jpeg
+category: create
+body_class: banana
 project_id: '6102194'
+challenge_url: >-
+  https://challenge.la2050.org/entry/get-lit-with-red-hen-press-bringing-fresh-voices-to-the-la-literary-scene
 title: 'Get Lit with Red Hen Press: Bringing Fresh Voices to the LA Literary Scene'
-organization_name_2: Red Hen Press
-organization_activity: >-
-  Red Hen Press is committed to publishing works of literary excellence,
-  supporting diversity, and promoting literacy in our local schools.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9754248015741-team90.jpeg
-project_video: ''
 project_summary: >-
   Red Hen Press will advocate for literary diversity by publishing 26 works of
   poetry, fiction, and nonfiction, creating opportunities for unheard voices to
   establish their place in American literature.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9754248015741-team90.jpeg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
 project_measure: >-
   The success of Red Hen Press’s publishing projects can be quantified by volume
   of sales and scope of distribution, both of which are monitored directly by
@@ -70,6 +56,29 @@ project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Percentage of graduates from local higher education institutions
   that remain in LA County 5 years after graduating"]
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+project_proposal_description: >-
+  Red Hen Press will advocate for diversity in literature by publishing and
+  publicizing 26 works of poetry, fiction, and creative nonfiction by both
+  established and emerging authors, providing opportunities for minority
+  populations to establish their place in the American literary canon.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
 project_proposal_best_place: >-
   Red Hen Press will establish Los Angeles as a creative hub by cultivating a
   community of readers and writers who are actively engaged in the essential
@@ -123,23 +132,14 @@ project_proposal_best_place: >-
   With publications that are both culturally and stylistically unique, and
   events that are thought-provoking and affordable, Red Hen Press contributes to
   the diverse literary landscape of Southern California.
-challenge_url: >-
-  https://challenge.la2050.org/entry/get-lit-with-red-hen-press-bringing-fresh-voices-to-the-la-literary-scene
+project_image_2: 9754248015741-team90.jpeg
 empty_column_1: ''
-project_proposal_description: >-
-  Red Hen Press will advocate for diversity in literature by publishing and
-  publicizing 26 works of poetry, fiction, and creative nonfiction by both
-  established and emerging authors, providing opportunities for minority
-  populations to establish their place in the American literary canon.
-project_proposal_impact:
-  - Arts establishments
-  - Manufacturing activity
-  - Employment in the creative industries
-  - >-
-    Percentage of graduates from local higher education institutions that remain
-    in LA County 5 years after graduating
-category: create
-body_class: banana
-published: true
+organization_name: Red Hen Press
+organization_website: redhen.org
+organization_name_2: Red Hen Press
+organization_activity: >-
+  Red Hen Press is committed to publishing works of literary excellence,
+  supporting diversity, and promoting literacy in our local schools.
+ein: '954754598'
 
 ---

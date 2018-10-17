@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016010'
 year_submitted: 2016
-organization_name: Anna Bing Arnold Children's Center
-organization_website: calstatela.edu/univ/abacc
-ein: ''
-project_image_2: 8207349525741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102007'
+challenge_url: >-
+  https://challenge.la2050.org/entry/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature
 title: >-
   Connecting Children to Art in Nature: Provide a meaningful holistic link
   between art and nature.
-organization_name_2: Anna Bing Arnold Children's Center
-organization_activity: >-
-  Provide high quality child development services and programing for the
-  California State University, Los Angeles and the surrounding community.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
-project_video: 'https://www.youtube.com/embed/JHgZ6ApAYVQ?rel=0&amp;showinfo=0'
 project_summary: >-
   To provide holistic project-based learning experiences for the children of
   Anna Bing Arnold Children's Center through the intergration of the Connecting
   Children to Art and Nature Program.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
+project_video: 'https://www.youtube.com/embed/JHgZ6ApAYVQ?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - East LA
-  - San Gabriel Valley
-  - 'California State University, Los Angeles'
 project_measure: >-
   We will define success by observing and documenting the process by which
   children are engaging in the Connecting Children to Art and Nature Program. 
@@ -61,6 +54,19 @@ project_description: >-
   multi-disciplinary arts program which uses art and nature as a mode of
   learning to facilitate the development of the whole child.
 project_impact: '["Proficiency in English and Language Arts and Math","Early education"]'
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Early education
+project_proposal_description: >-
+  To be able to provide a nature based arts program for the children of the Anna
+  Bing Arnold Children's Center utilizing the non-profit arts program,
+  Connecting Children to Art and Nature (CCAN). CCAN is a comprehensive
+  multi-disciplinary arts program which uses art and nature as a mode of
+  learning to facilitate the development of the whole child.
+project_areas:
+  - East LA
+  - San Gabriel Valley
+  - 'California State University, Los Angeles'
 project_proposal_best_place: >-
   Overview:
 
@@ -134,20 +140,14 @@ project_proposal_best_place: >-
   Lastly, our project will help children develop higher self-esteem, cope with
   stress more effectively, increase communication skills, be creative and act in
   pro-social ways
-challenge_url: >-
-  https://challenge.la2050.org/entry/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature
+project_image_2: 8207349525741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  To be able to provide a nature based arts program for the children of the Anna
-  Bing Arnold Children's Center utilizing the non-profit arts program,
-  Connecting Children to Art and Nature (CCAN). CCAN is a comprehensive
-  multi-disciplinary arts program which uses art and nature as a mode of
-  learning to facilitate the development of the whole child.
-project_proposal_impact:
-  - Proficiency in English and Language Arts and Math
-  - Early education
-category: learn
-body_class: blueberry
-published: true
+organization_name: Anna Bing Arnold Children's Center
+organization_website: calstatela.edu/univ/abacc
+organization_name_2: Anna Bing Arnold Children's Center
+organization_activity: >-
+  Provide high quality child development services and programing for the
+  California State University, Los Angeles and the surrounding community.
+ein: ''
 
 ---

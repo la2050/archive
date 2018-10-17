@@ -1,26 +1,22 @@
 ---
+published: true
 organization_id: '2016170'
 year_submitted: 2016
-organization_name: Perceptoscope
-organization_website: www.perceptoscope.com
-ein: ''
-project_image_2: 1517216783741-team89.jpeg
+category: play
+body_class: strawberry
 project_id: '6102215'
+challenge_url: >-
+  https://challenge.la2050.org/entry/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope
 title: >-
   Explore Los Angeles's past, present, and future in augmented reality through
   Perceptoscope
-organization_name_2: Perceptoscope
-organization_activity: >-
-  Perceptoscope connects people to places through public art and technological
-  experimentation. We primarily focus on using public augmented reality viewers
-  to help places tell their story to visitors.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
-project_video: 'https://www.youtube.com/embed/GCBLHUIW9FI?rel=0&amp;showinfo=0'
 project_summary: >-
   Perceptoscopes are public augmented reality viewers in the form of coin
   operated binoculars. They can expose the hidden past, present points of
   interest, or future potentials of a place.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
+project_video: 'https://www.youtube.com/embed/GCBLHUIW9FI?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: >-
   Though not an explicit collaborator, I'm part of the upcoming class of Arts
@@ -28,11 +24,6 @@ project_collaborators: >-
   also are in talks with many other organizations and cultural institutions
   around the city that we'll be announcing as the project scales and things
   become more official.
-project_areas:
-  - Central LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - There is global interest. We want to pilot in LA.
 project_measure: >-
   Success for the project is measured more in trajectories than the achievement
   of fixed goals. Our hybrid nature gives us a unique set of tools to help us
@@ -85,6 +76,23 @@ project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play
   opportunities","Number of residents with easy access to a “vibrant” park"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+project_proposal_description: >-
+  Perceptoscope, an interactive public arts initiative, will temporarily deploy
+  augmented reality pedestal viewers at strategic locations around the city
+  taking into account the context, communities and histories of the spaces in
+  which they're dropped. We will work with local organizations towards permanent
+  deployments, and along the way document our process of design and public
+  deployment through online video.
+project_areas:
+  - Central LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - There is global interest. We want to pilot in LA.
 project_proposal_best_place: >-
   Perceptoscope is about encouraging the act of discovery around a place. The
   shape of our viewers in particular has an immense magnetism for children and
@@ -122,23 +130,15 @@ project_proposal_best_place: >-
   We hope that deployments can be long lasting, and that each deployment's
   experiences will be dynamic and novel to encourage the revisitation of a space
   for years to come.
-challenge_url: >-
-  https://challenge.la2050.org/entry/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope
+project_image_2: 1517216783741-team89.jpeg
 empty_column_1: ''
-project_proposal_description: >-
-  Perceptoscope, an interactive public arts initiative, will temporarily deploy
-  augmented reality pedestal viewers at strategic locations around the city
-  taking into account the context, communities and histories of the spaces in
-  which they're dropped. We will work with local organizations towards permanent
-  deployments, and along the way document our process of design and public
-  deployment through online video.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-category: play
-body_class: strawberry
-published: true
+organization_name: Perceptoscope
+organization_website: www.perceptoscope.com
+organization_name_2: Perceptoscope
+organization_activity: >-
+  Perceptoscope connects people to places through public art and technological
+  experimentation. We primarily focus on using public augmented reality viewers
+  to help places tell their story to visitors.
+ein: ''
 
 ---

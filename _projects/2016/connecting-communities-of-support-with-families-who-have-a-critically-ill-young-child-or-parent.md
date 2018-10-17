@@ -1,44 +1,28 @@
 ---
+published: true
 organization_id: '2016099'
 year_submitted: 2016
-organization_name: 'Here to Serve, Inc'
-organization_website: www.heretoserve.org
-ein: ''
-project_image_2: 6154785996741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102091'
+challenge_url: >-
+  https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
 title: >-
   Connecting communities of support with families who have a critically ill
   young child or parent.
-organization_name_2: 'Here to Serve, Inc'
-organization_activity: >-
-  We CONNECT physical, financial & emotional care to parents to help manage
-  their home life during a medical crisis providing meals; child, yard, house
-  and pet care; fundraising; medical updates, etc.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
-project_video: 'https://www.youtube.com/embed/pMW7_cxOs1s?rel=0&amp;showinfo=0'
 project_summary: >-
   We believe families with a critically-ill child not risk their job, health, or
   finances to care for their child. We identify, connect & mobilize support
   bringing relief to families in medical crisis.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
+project_video: 'https://www.youtube.com/embed/pMW7_cxOs1s?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: >-
   We collaborate with Children's Hospital Los Angeles and UCLA Mattel Children's
   Hospital serving their families who are referred to us by their social
   workers.  However, they do not collaborate with other nonprofits on
   fundraising activities.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   We define success in two ways:
 
@@ -88,6 +72,30 @@ project_description: >-
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Total number of local
   social media friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  Because caregivers face a 63% increase in illness and death, represent 62% of
+  all bankruptcies, and lose 25% productivity at work, Here to Serve CONNECTS
+  and organizes people, businesses and other charities with families in crisis
+  to provide non-medical assistance. Here to Serve stands in the gap to provide
+  communication and assistance with critical needs: meals, child, pet home care,
+  respite, housekeeping, fundraising, and medical updates to avoid physical
+  collapse of family and caregiver.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Here to Serve believes that young families who face the life-threatening
   health crisis of a child or spouse should not be left to collapse under the
@@ -136,23 +144,15 @@ project_proposal_best_place: >-
   LA is the BEST place to CONNECT and Here to Serve offers the only program and
   platform to do that when you have a young child or parent in medical crisis
   and you do not qualify for government assistance!
-challenge_url: >-
-  https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
+project_image_2: 6154785996741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Because caregivers face a 63% increase in illness and death, represent 62% of
-  all bankruptcies, and lose 25% productivity at work, Here to Serve CONNECTS
-  and organizes people, businesses and other charities with families in crisis
-  to provide non-medical assistance. Here to Serve stands in the gap to provide
-  communication and assistance with critical needs: meals, child, pet home care,
-  respite, housekeeping, fundraising, and medical updates to avoid physical
-  collapse of family and caregiver.
-project_proposal_impact:
-  - Social & emotional support
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: 'Here to Serve, Inc'
+organization_website: www.heretoserve.org
+organization_name_2: 'Here to Serve, Inc'
+organization_activity: >-
+  We CONNECT physical, financial & emotional care to parents to help manage
+  their home life during a medical crisis providing meals; child, yard, house
+  and pet care; fundraising; medical updates, etc.
+ein: ''
 
 ---

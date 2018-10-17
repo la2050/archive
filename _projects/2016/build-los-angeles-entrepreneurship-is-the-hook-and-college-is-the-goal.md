@@ -1,30 +1,22 @@
 ---
+published: true
 organization_id: '2016027'
 year_submitted: 2016
-organization_name: BUILD
-organization_website: BUILD.org
-ein: ''
-project_image_2: 5864964105741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102023'
+challenge_url: >-
+  https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
 title: 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.  '
-organization_name_2: BUILD
-organization_activity: >-
-  BUILD uses entrepreneurship-based, experiential learning to engage students,
-  provide equitable educational opportunities and develop skills for high
-  school, college and career success.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5864964105741-team90.jpg
-project_video: 'https://www.youtube.com/embed/zf4cRLVe4Co?rel=0&amp;showinfo=0'
 project_summary: >-
   BUILD engages high school students who are at risk of not graduating by
   teaching them how to create and launch their own small businesses, with the
   goals of college enrollment and career success.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5864964105741-team90.jpg
+project_video: 'https://www.youtube.com/embed/zf4cRLVe4Co?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - East LA
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   For this first year, BUILD's metrics will include: 
 
@@ -81,6 +73,24 @@ project_description: >-
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  BUILD will use these funds to hire two key members of its new Los Angeles
+  team, which will serve 600 students in 2017.  BUILD inspires students from
+  under-resourced communities to graduate from high school, develop critical
+  life skills, and achieve post-secondary success through the highly engaging
+  experience of launching their very own businesses.  BUILD will hire its
+  Volunteer Manager and its Student Success Program Manager to recruit 150
+  volunteer mentors and to work with 150 9th graders.
+project_areas:
+  - East LA
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   For the 2015 – 2016 school year:
 
@@ -144,25 +154,15 @@ project_proposal_best_place: >-
   With its first class of 9th graders, BUILD Los Angeles will be responsible for
   an additional 132 high school graduates and 102 college enrollees in Los
   Angeles.
-challenge_url: >-
-  https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
+project_image_2: 5864964105741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  BUILD will use these funds to hire two key members of its new Los Angeles
-  team, which will serve 600 students in 2017.  BUILD inspires students from
-  under-resourced communities to graduate from high school, develop critical
-  life skills, and achieve post-secondary success through the highly engaging
-  experience of launching their very own businesses.  BUILD will hire its
-  Volunteer Manager and its Student Success Program Manager to recruit 150
-  volunteer mentors and to work with 150 9th graders.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: BUILD
+organization_website: BUILD.org
+organization_name_2: BUILD
+organization_activity: >-
+  BUILD uses entrepreneurship-based, experiential learning to engage students,
+  provide equitable educational opportunities and develop skills for high
+  school, college and career success.
+ein: ''
 
 ---

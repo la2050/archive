@@ -1,37 +1,24 @@
 ---
+published: true
 organization_id: '2016115'
 year_submitted: 2016
-organization_name: Joyful Heart Foundation
-organization_website: joyfulheartfoundation.org
-ein: '721519537'
-project_image_2: 8535340073741-team88.JPG
+category: live
+body_class: lime
 project_id: '6102110'
+challenge_url: >-
+  https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
 title: Joyful Heart Foundation’s Survivor Retreat Model
-organization_name_2: Joyful Heart Foundation
-organization_activity: >-
-  Our mission is to transform society's response to sexual assault, domestic
-  violence, and child abuse, support survivors' healing, and end this violence
-  forever.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
-project_video: ''
 project_summary: >-
   Joyful Heart's Survivor Retreat Model offers LA's survivors of sexual assault,
   domestic violence, and child abuse, and the professionals who serve them, a
   new holistic pathway to healing from trauma.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Peace Over Violence, Village Family Services, Homeboy Industries, Georgetown
   University
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
 project_measure: >-
   The evaluation of the Retreat Model’s effectiveness will be led by Mary Ann
   Dutton, Ph.D., a Professor of Psychiatry at Georgetown University. Dr. Dutton
@@ -67,6 +54,28 @@ project_description: >-
 project_impact: >-
   ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
   experiences","Mental illness"]
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+  - Mental illness
+project_proposal_description: >-
+  The demand for our signature Survivor Retreat Program for survivors of
+  domestic and sexual violence exceeds its availability and reach. In response,
+  we have undertaken an ambitious research project in partnership with
+  Georgetown University to evaluate our retreats. Our research findings will
+  used to create a replicable Retreat Model that organizations can implement and
+  offer to survivors, the healing professionals who serve them, and communities
+  beyond our current capacity and scope.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - County of Los Angeles
 project_proposal_best_place: >-
   The domestic violence and sexual assault service provider community currently
   faces an unprecedented challenge in effectively helping survivors understand
@@ -106,24 +115,15 @@ project_proposal_best_place: >-
   populations. This project will make LA a better place to LIVE by promoting
   positive mental health outcomes, community resiliency and increased support
   for advocates in this work.
-challenge_url: >-
-  https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
+project_image_2: 8535340073741-team88.JPG
 empty_column_1: ''
-project_proposal_description: >-
-  The demand for our signature Survivor Retreat Program for survivors of
-  domestic and sexual violence exceeds its availability and reach. In response,
-  we have undertaken an ambitious research project in partnership with
-  Georgetown University to evaluate our retreats. Our research findings will
-  used to create a replicable Retreat Model that organizations can implement and
-  offer to survivors, the healing professionals who serve them, and communities
-  beyond our current capacity and scope.
-project_proposal_impact:
-  - Self-sufficiency
-  - Resilient communities
-  - Prevalence of adverse childhood experiences
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: Joyful Heart Foundation
+organization_website: joyfulheartfoundation.org
+organization_name_2: Joyful Heart Foundation
+organization_activity: >-
+  Our mission is to transform society's response to sexual assault, domestic
+  violence, and child abuse, support survivors' healing, and end this violence
+  forever.
+ein: '721519537'
 
 ---

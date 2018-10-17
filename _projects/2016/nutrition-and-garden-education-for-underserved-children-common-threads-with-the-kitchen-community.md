@@ -1,26 +1,22 @@
 ---
+published: true
 organization_id: '2016050'
 year_submitted: 2016
-organization_name: Common Threads
-organization_website: www.commonthreads.org
-ein: '200106847'
-project_image_2: 9369505955741-team90.jpeg
+category: live
+body_class: lime
 project_id: '6102049'
+challenge_url: >-
+  https://challenge.la2050.org/entry/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community
 title: >-
   Nutrition and Garden Education for Underserved Children - Common Threads with
   The Kitchen Community
-organization_name_2: Common Threads
-organization_activity: >-
-  Common Threads delivers in- and out-of-school, hands-on cooking and nutrition
-  education programs to preK-8th graders, their families, and their teachers
-  primarily in underserved communities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
-project_video: 'https://www.youtube.com/embed/teuTGnS3vkM?rel=0&amp;showinfo=0'
 project_summary: >-
   Common Threads and The Kitchen Community will deliver hands-on, school-based
   garden and nutrition education that empowers underserved kids to make
   healthier food choices and improves school wellness.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
+project_video: 'https://www.youtube.com/embed/teuTGnS3vkM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Common Threads will collaborate with The Kitchen Community (TKC) to train
@@ -30,9 +26,6 @@ project_collaborators: >-
   education opportunities in low-income schools. TKC’s Learning Gardens are
   engaging outdoor classrooms that connect kids to real food, and increase
   academic achievement.
-project_areas:
-  - County of Los Angeles
-  - LAUSD
 project_measure: >-
   CTs’ and TKC’s combined goals are to: 1) provide at least 1,886 students,
   grades preK-8, with 8-16 hours each of interactive nutrition and/or garden
@@ -77,6 +70,20 @@ project_description: >-
   six schools to utilize our new digital nutrition education platform Common
   Bytes, reaching an additional 480 kids.
 project_impact: '["Access to healthy food","Obesity"]'
+project_proposal_impact:
+  - Access to healthy food
+  - Obesity
+project_proposal_description: >-
+  Common Threads (CT) and The Kitchen Community will train teachers at 15 LA
+  schools to deliver experiential, classroom- and garden-based nutrition
+  education to 1,886 underserved students, grades preK-8. Each student will
+  receive 8-16 hours of hands-on education that empowers them to make healthier
+  food choices and connects them to fresh food. CT will also train teachers at
+  six schools to utilize our new digital nutrition education platform Common
+  Bytes, reaching an additional 480 kids.
+project_areas:
+  - County of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Common Threads (CT), in partnership with The Kitchen Community (TKC), will
   deliver hands-on nutrition and garden education programs to 2,366 underserved
@@ -126,22 +133,15 @@ project_proposal_best_place: >-
   teaches children nutrition and cooking skills and knowledge through recipes
   and interactive games. We will provide Common Bytes demo lessons in these
   teachers’ classrooms as well as ongoing technical assistance.
-challenge_url: >-
-  https://challenge.la2050.org/entry/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community
+project_image_2: 9369505955741-team90.jpeg
 empty_column_1: ''
-project_proposal_description: >-
-  Common Threads (CT) and The Kitchen Community will train teachers at 15 LA
-  schools to deliver experiential, classroom- and garden-based nutrition
-  education to 1,886 underserved students, grades preK-8. Each student will
-  receive 8-16 hours of hands-on education that empowers them to make healthier
-  food choices and connects them to fresh food. CT will also train teachers at
-  six schools to utilize our new digital nutrition education platform Common
-  Bytes, reaching an additional 480 kids.
-project_proposal_impact:
-  - Access to healthy food
-  - Obesity
-category: live
-body_class: lime
-published: true
+organization_name: Common Threads
+organization_website: www.commonthreads.org
+organization_name_2: Common Threads
+organization_activity: >-
+  Common Threads delivers in- and out-of-school, hands-on cooking and nutrition
+  education programs to preK-8th graders, their families, and their teachers
+  primarily in underserved communities.
+ein: '200106847'
 
 ---

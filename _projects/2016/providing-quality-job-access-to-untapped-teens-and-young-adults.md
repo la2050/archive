@@ -1,29 +1,22 @@
 ---
+published: true
 organization_id: '2016118'
 year_submitted: 2016
-organization_name: Knit Marketing
-organization_website: Knitmarketing.com
-ein: ''
-project_image_2: 8216358055741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102186'
+challenge_url: >-
+  https://challenge.la2050.org/entry/providing-quality-job-access-to-untapped-teens-and-young-adults
 title: Providing Quality Job Access to Untapped Teens and Young Adults
-organization_name_2: Knit Marketing
-organization_activity: >-
-  Knit Marketing creates and curates social media content for businesses looking
-  to reach young people by training and employing teens and young adults from
-  untapped communities in Los Angeles.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8216358055741-team91.jpg
-project_video: 'https://www.youtube.com/embed/TsbsuQ8zdgM?rel=0&amp;showinfo=0'
 project_summary: >-
   Knit Marketing is a social media marketing agency that recruits, trains, and
   employs teens and young adults from untapped communities in Los Angeles, to
   manage marketing campaigns for businesses.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8216358055741-team91.jpg
+project_video: 'https://www.youtube.com/embed/TsbsuQ8zdgM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - East LA
-  - South LA
 project_measure: >-
   Knit Marketing's success will be measured both in terms of economics and
   social impact. The financial health of the company will be measured by number
@@ -57,6 +50,22 @@ project_description: >-
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Student
   education pipeline","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Knit Marketing has been in operation since June 2016. We have hired two
+  interns from View Park High School and are consistently managing social media
+  accounts for 2 monthly clients and supporting 2 additional small business
+  clients with short term projects. Knit Marketing is expanding and aims to
+  create a sustainable business that will be able to hire and train at least 6
+  youth employees this year, and double the number of employees each year
+  thereafter.
+project_areas:
+  - East LA
+  - South LA
 project_proposal_best_place: >-
   Knit Marketing serves 16-22 year-olds living in marginalized neighborhoods in
   Los Angeles by providing jobs and skills training, addressing the fundamental
@@ -87,24 +96,15 @@ project_proposal_best_place: >-
   activities. In other words, giving students a job opportunity like this gives
   them faith that there is a better future for them, and inspires them to finish
   high school and apply to college and/or future jobs.
-challenge_url: >-
-  https://challenge.la2050.org/entry/providing-quality-job-access-to-untapped-teens-and-young-adults
+project_image_2: 8216358055741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Knit Marketing has been in operation since June 2016. We have hired two
-  interns from View Park High School and are consistently managing social media
-  accounts for 2 monthly clients and supporting 2 additional small business
-  clients with short term projects. Knit Marketing is expanding and aims to
-  create a sustainable business that will be able to hire and train at least 6
-  youth employees this year, and double the number of employees each year
-  thereafter.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Knit Marketing
+organization_website: Knitmarketing.com
+organization_name_2: Knit Marketing
+organization_activity: >-
+  Knit Marketing creates and curates social media content for businesses looking
+  to reach young people by training and employing teens and young adults from
+  untapped communities in Los Angeles.
+ein: ''
 
 ---

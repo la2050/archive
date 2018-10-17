@@ -1,35 +1,23 @@
 ---
+published: true
+organization_id: '2015155'
+year_submitted: 2015
+category: learn
+body_class: blueberry
 project_id: '5102238'
 title: Play with Music
-organization_id: '2015155'
-areas_impacted: ''
-partners: ''
 project_summary: "We change the way music is taught - teaching music theory, songwriting, audio engineering & production + enabling students to be creators, not just consumers, of music. We connect students with music industry pros, & build bridges from the classrooms to careers through internships & more. \r\n\r\nWe’d like your help to capitalize on the momentum from our pilot (Jan-March 2015) and the partnerships we have since developed to launch PWM in schools across LA, focusing our impact on at-risk students."
-Please specify below: >-
-  We can run programs wherever our partners, Green Dot Public Schools, and The
-  Harmony Project, are operating.
-category: learn
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
-year_submitted: 2015
 project_image: 'https://img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/MY3TeVh867s'
-youtube_video_identifier: MY3TeVh867s
 project_areas:
   - Central LA
   - East LA
   - South LA
 maker_answers:
-  'City, State': Los Angeles
   Organization(s) name(s): >-
     Play with Music, The New History (parent organization of Play with Music,
     current transition filing 501c3 status for Play with Music)
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   Organization(s) mailing address(es): 2432 E 8th St
   Organization(s) website(s): www.playwithmusic.org
   Organization(s) twitter handle(s): www.twitter.com/thenewhist
@@ -75,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  'City, State': Los Angeles
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -92,6 +80,52 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics? Truancy rates in elementary and middle schools (Dream Metric): '1'
   How will your proposal improve the following “Learn” metrics? Students perceived sense of safety at and on the way to school (Dream Metric): '0'
   Describe in greater detail how you will make LA the best place to learn.: "We’re opening doors for kids with relevant music and technology education, and we follow up by connecting them with the music industry and career opportunities right here in LA. We’re not just giving music education a much needed update, we’re preparing kids for a world that is tech driven and empowering them to be creators of their own work. We’re doing this in the schools where it’s not happening. In LA, the media and entertainment capital of the world, we want our kids to be the resource that fuels our creative industries, by providing education that prepares our kids for those jobs. We’re making LA the best place to learn for ALL kids in LA, regardless of resources or skill level.\r\n\r\nPlay with Music works directly with schools, teachers and administrations to fill 3 major gaps in music/education:\r\n\r\nCREATIVITY & COLLABORATION\r\nMusic education has mostly been unchanged since the 19th century. Our students get to create their own music, in collaboration with their peers and music industry professionals. This develops crucial skills in creative thinking, teamwork, communication, organization, and more. We want our students not to be just consumers of music, but creators of it, and to learn by doing. \r\n\r\nTECHNICAL SKILLS\r\nWe teach technology. Music software (audio engineering, production, recording, set-up, & more) is essential to making music today. Beyond music, digital literacy and tech skills are essential in today's workforce. We’re not  just empowering students to better use technology as a work tool, we are opening their eyes to see technology as a creative tool as well, helping break down the digital divide, and paving a way for students enter into LA's “creative class”.\r\n\r\nFROM CLASSROOM TO CAREERS\r\nOur students meet, are mentored by, and collaborate with, professionals who make their living in the music industry. These mentors bring insight into the creative professional landscape and help students expand their sense of what is possible for their own futures. We also provide internship opportunities for students who complete the program through our amazing partners! This creates important gateways and opportunities for at-risk kids to access the industries in their city. We also provide graduates with support beyond the program through ongoing guidance and communication on social media about education and career opportunities."
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - >-
+      We can run programs wherever our partners, Green Dot Public Schools, and
+      The Harmony Project, are operating.
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "Our largest barrier is in solidifying initial funding for the Play with Music program. As a new organization, we don’t have the history that many foundations/sponsors are looking for when they issue grants. Our extremely successful pilot has won us partnerships with amazing organizations that see the need we are filling and who have the the infrastructure for us to scale Play with Music into as many schools as we can afford to, starting right now. \r\n\r\nWith the support of Goldhirsh, we would be able to capitalize on this opportunity and expand our program beyond a “successful pilot” and into an active organization working in half a dozen schools this year. This would give us the runway to fully explore opportunities and secure long-term funding from foundations and sponsors, who would then be able to see the real impact our program makes."
   Please explain how you will evaluate your work.: >-
     We will work with Green Dot Public Schools, CalArts CAP and the Harmony
@@ -110,53 +144,21 @@ maker_answers:
     their music). With $100,000 we could run between 5 and 7 programs next year
     with our partners, and forever change the lives of 75 to 100 kids.
   'Please include a detailed budget of how you will use $100,000 to implement this project.': "Play with Music Program Budget\r\n\r\nMODULE 1 - Minimum Viable Resources\r\nCost of an 8-week program, meeting 2x/week for 2 hours (16 sessions) with 15 students.\r\n\r\nMusic Teachers / Mentors - 5 mentors per session work with students - $4,000\r\nProfessional Musicians/Performers - 6 pros come in to work with and perform live for students over 1 session - $900\r\nAudio Editor - transfer, mix, produce & set up audio content from each in student computers to keep program on track- $1,200\r\nProgram Management - $6,000\r\nRecruitment -$600\r\nInsurance - PWM liability insurance - $600\r\nBackground Check / TB / Admin paperwork - $700\r\n\r\nBUDGET TOTAL (minimum): $14,000\r\n\r\n+\r\n\r\nMODULE 2 - Virtual Band component (video)\r\n\r\nVideographers and Editors - Filming of students. Recording, transferring, editing professional musician performances (6) and student performances (15) produced during every session - $4,800\r\n\r\nTOTAL BUDGET (with video) - $18,800\r\n\r\n"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "With an active program that has been funded by the Goldhirsh Foundation, with more metrics of impact / success, and with the implicit endorsement of this highly sought after grant, we will be in a much better position to build a board of directors and continue fundraising to expand the Play with Music program into more classrooms. \r\n\r\nOur scalability is only limited by our funding at this point. Due to the immense access of our existing partners, their active desire to have the Play with Music program run in their classrooms, and the modular nature of the program, we have nearly unlimited potential."
-  Where will you be working?:
-    - Central LA
-    - East LA
-    - South LA
-    - >-
-      We can run programs wherever our partners, Green Dot Public Schools, and
-      The Harmony Project, are operating.
-  How do you plan to use these resources to make change?:
-    - Conduct research
-    - Engage residents and stakeholders
-    - Mobilize for systems change
-    - Advocate with policymakers and leaders
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - 'Technical infrastructure (computers, etc.)'
-    - Network/relationship support
-  How will your proposal improve the following “Learn” metrics?:
-    - >-
-      Percent of community college students completing a certificate, degree, or
-      transfer-related program in six years
-    - Youth unemployment and underemployment
-    - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
-    - District-wide graduation ratesCollege matriculation rates
-    - >-
-      Student education pipeline (an integrated network of pre-schools, K-12
-      institutions, and higher education systems that prepares students for
-      seamless transitions between high school, higher ed
-    - Suspension and expulsion rates (Dream Metric)
-    - Truancy rates in elementary and middle schools (Dream Metric)
+areas_impacted: ''
+partners: ''
+Please specify below: >-
+  We can run programs wherever our partners, Green Dot Public Schools, and The
+  Harmony Project, are operating.
+'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
+Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
+Please explain how you will evaluate your work.: '#N/A'
+Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
+'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
+'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
+'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
+How do you plan to scale the success of your proposal?: '#N/A'
+youtube_video_identifier: MY3TeVh867s
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -558,10 +560,8 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "With an active program that has been funded by the Goldhirsh Foundation, with more metrics of impact / success, and with the implicit endorsement of this highly sought after grant, we will be in a much better position to build a board of directors and continue fundraising to expand the Play with Music program into more classrooms. \r\n\r\nOur scalability is only limited by our funding at this point. Due to the immense access of our existing partners, their active desire to have the Play with Music program run in their classrooms, and the modular nature of the program, we have nearly unlimited potential."
-body_class: blueberry
 organization_name: >-
   Play with Music, The New History (parent organization of Play with Music,
   current transition filing 501c3 status for Play with Music)
-published: true
 
 ---

@@ -1,39 +1,21 @@
 ---
+published: true
 organization_id: '2016151'
 year_submitted: 2016
-organization_name: Muscular Dystrophy Association
-organization_website: mda.org
-ein: ''
-project_image_2: 7522135096741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102158'
+challenge_url: 'https://challenge.la2050.org/entry/live-unlimited-with-mdas-summer-camp'
 title: Live Unlimited with MDA's Summer Camp
-organization_name_2: Muscular Dystrophy Association
-organization_activity: >-
-  At MDA, we are fighting to free individuals — and the families who love them —
-  from the harmful effects of muscle-debilitating diseases so they can live
-  longer and grow stronger.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
-project_video: ''
 project_summary: >-
   MDA Summer Camp provides kids with muscular dystrophy and related diseases an
   opportunity for 'the best week of the year,' where kids are living beyond
   limits in a place where anything is possible!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   MDA is a very reputable organization, founded in 1950. Through societal
   changes, research and funding changes, as well as the annual differences made
@@ -68,6 +50,31 @@ project_description: >-
 project_impact: >-
   ["Healthcare access","Residents receiving coordinated healthcare
   services","Prevalence of adverse childhood experiences"]
+project_proposal_impact:
+  - Healthcare access
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
+project_proposal_description: >-
+  Kids with muscular dystrophy, spinal muscular atrophy and related
+  life-threatening diseases face daily challenges that often make “just being a
+  kid” difficult. MDA Summer Camp gives kids ages 6-17 the freedom to be kids
+  with others who are just like them during a life-changing week of fun and
+  friendship. Through the magic of summer camp, MDA offers a world of
+  possibilities to campers — from swimming and horseback riding to zip-lining,
+  adaptive sports and camp dances.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   MDA summer camp is the only camp of its kind, supporting and giving the
   opportunity to children ages 6-17 to join their peers, also facing similar
@@ -112,22 +119,15 @@ project_proposal_best_place: >-
   these kids are the only one at their school in a wheelchair or with braces for
   their legs. At summer camp, this is the norm. All of our kids are able to feel
   the support of their peers and build friendships that last a lifetime.
-challenge_url: 'https://challenge.la2050.org/entry/live-unlimited-with-mdas-summer-camp'
+project_image_2: 7522135096741-team90.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Kids with muscular dystrophy, spinal muscular atrophy and related
-  life-threatening diseases face daily challenges that often make “just being a
-  kid” difficult. MDA Summer Camp gives kids ages 6-17 the freedom to be kids
-  with others who are just like them during a life-changing week of fun and
-  friendship. Through the magic of summer camp, MDA offers a world of
-  possibilities to campers — from swimming and horseback riding to zip-lining,
-  adaptive sports and camp dances.
-project_proposal_impact:
-  - Healthcare access
-  - Residents receiving coordinated healthcare services
-  - Prevalence of adverse childhood experiences
-category: live
-body_class: lime
-published: true
+organization_name: Muscular Dystrophy Association
+organization_website: mda.org
+organization_name_2: Muscular Dystrophy Association
+organization_activity: >-
+  At MDA, we are fighting to free individuals — and the families who love them —
+  from the harmful effects of muscle-debilitating diseases so they can live
+  longer and grow stronger.
+ein: ''
 
 ---

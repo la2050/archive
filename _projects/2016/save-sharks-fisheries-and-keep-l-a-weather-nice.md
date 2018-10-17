@@ -1,29 +1,21 @@
 ---
+published: true
 organization_id: '2016069'
 year_submitted: 2016
-organization_name: El Porto Shark
-organization_website: www.elportoshark.com
-ein: ''
-project_image_2: 4270387955741-team88.png
+category: create
+body_class: banana
 project_id: '6102135'
+challenge_url: >-
+  https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
 title: 'Save sharks, fisheries, and keep L.A. weather nice!'
-organization_name_2: El Porto Shark
-organization_activity: >-
-  Aggregate shark sighting data to make smarter fisheries, researchers,
-  environmentalists, and policymakers by forecasting future populations.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
-project_video: 'https://www.youtube.com/embed/nowgVpDsUNE?rel=0&amp;showinfo=0'
 project_summary: >-
   Machine learning model to predict shark populations for climate and fisheries
   health in the local ocean.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
+project_video: 'https://www.youtube.com/embed/nowgVpDsUNE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Success as a high growth start up will be defined by a measurable increase in
   our public education newsletter database (goal: 1200% increase); validation of
@@ -53,6 +45,22 @@ project_description: >-
   correlated to other ocean species and not only sequester carbon in their
   bodies, but are apex predators vital to the ocean.
 project_impact: '["Minority- and women-owned firms","High growth startups"]'
+project_proposal_impact:
+  - Minority- and women-owned firms
+  - High growth startups
+project_proposal_description: >-
+  Wholly women-owned business that gathers shark sighting data from citizen
+  scientists, fisheries, media, and more in order to create a machine learning
+  forecast of future populations.  Not only do we inform fisheries and
+  policymakers, but we educate the public on the importance of sharks in our
+  local water and how to become citizen scientists.  Sharks populations are
+  correlated to other ocean species and not only sequester carbon in their
+  bodies, but are apex predators vital to the ocean.
+project_areas:
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Our proposal will show the world that LA is the best place for a women-owned
   big data startup to succeed and contribute to our unmatched city.  We are
@@ -106,22 +114,14 @@ project_proposal_best_place: >-
   before taking our project national and then global.  We’ve already identified
   worldwide partners and started showing the world that Los Angeles is indeed
   the best city to CREATE!
-challenge_url: >-
-  https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
+project_image_2: 4270387955741-team88.png
 empty_column_1: ''
-project_proposal_description: >-
-  Wholly women-owned business that gathers shark sighting data from citizen
-  scientists, fisheries, media, and more in order to create a machine learning
-  forecast of future populations.  Not only do we inform fisheries and
-  policymakers, but we educate the public on the importance of sharks in our
-  local water and how to become citizen scientists.  Sharks populations are
-  correlated to other ocean species and not only sequester carbon in their
-  bodies, but are apex predators vital to the ocean.
-project_proposal_impact:
-  - Minority- and women-owned firms
-  - High growth startups
-category: create
-body_class: banana
-published: true
+organization_name: El Porto Shark
+organization_website: www.elportoshark.com
+organization_name_2: El Porto Shark
+organization_activity: >-
+  Aggregate shark sighting data to make smarter fisheries, researchers,
+  environmentalists, and policymakers by forecasting future populations.
+ein: ''
 
 ---

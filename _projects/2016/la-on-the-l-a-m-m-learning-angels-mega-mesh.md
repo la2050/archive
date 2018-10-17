@@ -1,33 +1,21 @@
 ---
+published: true
 organization_id: '2018034'
 year_submitted: 2016
-organization_name: Data Roads Foundation
-organization_website: DataRoads.org
-ein: '311796801'
-project_image_2: 1824656555741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102059'
+challenge_url: 'https://challenge.la2050.org/entry/la-on-the-l-a-m-m-learning-angels-mega-mesh'
 title: 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
-organization_name_2: Data Roads Foundation
-organization_activity: >-
-  The Data Roads Foundation helps build and maintain networked data roads for
-  everyone, because all roads should lead to all people.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
-project_video: 'https://www.youtube.com/embed/f1NWhlN60zE?rel=0&amp;showinfo=0'
 project_summary: >-
   Combining communications technologies like Mega-MIMO 2.0 and distributed Mesh
   networking will allow LA learning institutions, including our schools and
   libraries, to teach us both online and off.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
+project_video: 'https://www.youtube.com/embed/f1NWhlN60zE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'Internet-In-A-Box.org, Friends of the Library, LAUSD, LACC, LA Museums'
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-  - Northeast LA
 project_measure: >-
   Schools, libraries, and museums currently use WiFi access points (AP) that get
   worse as more patrons connect to them, and they don't help at all with
@@ -81,6 +69,33 @@ project_impact: >-
   riders","Participation in neighborhood councils","Rates of
   volunteerism","Residential segregation","Total number of local social media
   friends and connections Angelenos have","Voting rates"]
+project_proposal_impact:
+  - Access to free wifi
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
+project_proposal_description: >-
+  Mega-MIMO 2.0 WiFi coordination can take place over multi-medium Mesh networks
+  including WiGig, fiber, beam antennas, ethernet, and broadband over
+  powerlines. This allows a Mega-Mesh to start with a small number of public
+  institutions, with distributed local hosting of teaching tools such as online
+  encyclopedias and coursework. Rather than depending on far away cloud
+  providers, e-media or courseware owned by any library can be shared directly
+  over its local Mega-Mesh.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
+  - Northeast LA
 project_proposal_best_place: >-
   Too often, the Internet is seen as this big cloud of stuff very far away,
   where the only way to access it all is via the incumbent Big Telco or Big
@@ -110,29 +125,14 @@ project_proposal_best_place: >-
   prototype test phase. Distributed mesh services can replace centralized or
   cloud library and e-media services on these Mega-Meshes, to directly serve
   community members, and depend less on remote gatekeepers.
-challenge_url: 'https://challenge.la2050.org/entry/la-on-the-l-a-m-m-learning-angels-mega-mesh'
+project_image_2: 1824656555741-team91.jpg
 empty_column_1: ''
-project_proposal_description: >-
-  Mega-MIMO 2.0 WiFi coordination can take place over multi-medium Mesh networks
-  including WiGig, fiber, beam antennas, ethernet, and broadband over
-  powerlines. This allows a Mega-Mesh to start with a small number of public
-  institutions, with distributed local hosting of teaching tools such as online
-  encyclopedias and coursework. Rather than depending on far away cloud
-  providers, e-media or courseware owned by any library can be shared directly
-  over its local Mega-Mesh.
-project_proposal_impact:
-  - Access to free wifi
-  - Cultural events
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Public transit riders
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Residential segregation
-  - Total number of local social media friends and connections Angelenos have
-  - Voting rates
-category: connect
-body_class: tangerine
-published: true
+organization_name: Data Roads Foundation
+organization_website: DataRoads.org
+organization_name_2: Data Roads Foundation
+organization_activity: >-
+  The Data Roads Foundation helps build and maintain networked data roads for
+  everyone, because all roads should lead to all people.
+ein: '311796801'
 
 ---
