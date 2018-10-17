@@ -13,7 +13,7 @@ project_summary: >-
   year-round to LA’s finest restaurants. The social enterprise business will
   employ Shelter residents, many of whom are veterans. 
 Please specify below: 'The Salvation Army''s Bell Shelter in Bell, CA; LA County'
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   In 2015, the Los Angeles City Council declared a state of emergency on
   homelessness. In addition to housing needs, persons who are homeless also
@@ -217,6 +217,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The GrowGood model can be replicated at other sites, especially other Salvation Army sites across LA County, a plan which has already been discussed with Army senior officials.  On the commercial front, GrowGood’s long term goal is to create a brand with a range of products like Homeboys or Newman’s Own, which creates great products and contributes to the greater good.  Once our brand name has been established, we see many potential areas for expansion from growing California native plants for drought-stricken California gardens to value-add food products such as craft coleslaw and sauces. \r\n"
+  Where will you be working?:
+    - 'The Salvation Army''s Bell Shelter in Bell, CA; LA County'
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+    - Rates of homelessness
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -618,7 +635,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The GrowGood model can be replicated at other sites, especially other Salvation Army sites across LA County, a plan which has already been discussed with Army senior officials.  On the commercial front, GrowGood’s long term goal is to create a brand with a range of products like Homeboys or Newman’s Own, which creates great products and contributes to the greater good.  Once our brand name has been established, we see many potential areas for expansion from growing California native plants for drought-stricken California gardens to value-add food products such as craft coleslaw and sauces. \r\n"
-body_class: blueberry
+body_class: lime
 organization_name: 'GrowGood, Inc. '
 published: true
 

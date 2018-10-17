@@ -13,7 +13,7 @@ project_summary: >-
   college—and four times more likely they’ll graduate. That’s something great
   for L.A. now and in 2050.
 Please specify below: ''
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   L.A. is a wonderful place to learn, but only for those with access to
   opportunities. At the college level, access includes funds for entry and
@@ -217,6 +217,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "YPI’s COLLEGE PROMISE starts with an initial five-year plan to provide triple-matched college savings accounts to 1,300 low-income L.A. students, while concurrently providing them and their families with financial literacy classes, college financial aid workshops, and one-on-one financial coaching. After this initial term, we plan to extend and expand the program for another long-term period that can provide this opportunity to an additional 2,600 students—doubling our current number of students. \r\n\r\nWe can do this—and support this model throughout our L.A. region—by continuing to view the program in the scope of high-touch, individualized, and place-based support for youth and their families, providing them with a holistic range of services that create empowerment and change for all aspects of their learning and their lives. We will continue collaborating with community organizations, government programs, and private funders to ensure future success for these L.A. students.\r\n\r\nAs the program continues and expands, we will be mindful of re-shaping it to meet family, neighborhood, and community needs. Financial education curriculum and design of matched savings accounts will be replicated through staff training and strong relationships with financial institutions. But other components—such as participant outreach and retention (regular savings deposits)—will be customized based on language, cultural, and other considerations specific to the many communities, populations, and traditions that are part of our L.A. landscape.\r\n\r\nOur L.A. landscape is itself a dynamic element of change. Partnering with LA2050, we’re optimistic that by the year 2050 the beneficiaries of these matched college savings accounts will be sending their own children to college—part of a tradition of learning in Los Angeles where everyone who wishes for, envisions, and strives for college enrollment and completion can achieve it."
+  Where will you be working?:
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - >-
+      Invest in the future of L.A. youth so they are empowered to earn their
+      college degree and go on to make positive change in their communities and
+      citywide.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation ratesCollege matriculation rates
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -610,7 +630,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "YPI’s COLLEGE PROMISE starts with an initial five-year plan to provide triple-matched college savings accounts to 1,300 low-income L.A. students, while concurrently providing them and their families with financial literacy classes, college financial aid workshops, and one-on-one financial coaching. After this initial term, we plan to extend and expand the program for another long-term period that can provide this opportunity to an additional 2,600 students—doubling our current number of students. \r\n\r\nWe can do this—and support this model throughout our L.A. region—by continuing to view the program in the scope of high-touch, individualized, and place-based support for youth and their families, providing them with a holistic range of services that create empowerment and change for all aspects of their learning and their lives. We will continue collaborating with community organizations, government programs, and private funders to ensure future success for these L.A. students.\r\n\r\nAs the program continues and expands, we will be mindful of re-shaping it to meet family, neighborhood, and community needs. Financial education curriculum and design of matched savings accounts will be replicated through staff training and strong relationships with financial institutions. But other components—such as participant outreach and retention (regular savings deposits)—will be customized based on language, cultural, and other considerations specific to the many communities, populations, and traditions that are part of our L.A. landscape.\r\n\r\nOur L.A. landscape is itself a dynamic element of change. Partnering with LA2050, we’re optimistic that by the year 2050 the beneficiaries of these matched college savings accounts will be sending their own children to college—part of a tradition of learning in Los Angeles where everyone who wishes for, envisions, and strives for college enrollment and completion can achieve it."
-body_class: strawberry
+body_class: blueberry
 organization_name: Youth Policy Institute
 published: true
 

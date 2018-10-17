@@ -13,7 +13,7 @@ project_summary: >-
   Hollywood and is intrinsic to Los Angeles. It must connect the surrounding
   communities through innovative design.
 Please specify below: Hollywood
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   There are many exciting ways the Hollywood Central Park will make the LA the
   best place to play. It will offer myriad recreational amenities like
@@ -199,6 +199,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "FHCP’s Design Competition will naturally be scaled since it links directly to building the Hollywood Central Park. At the conclusion of the Competition, we will have a park design that allows us to move forward on the next steps for building the Park. \r\n\r\nIn addition, throughout the LA2050 grant year, FHCP will document each step of the Design Competition, including challenges and best practices. This information will be available to other groups interested in deck parks, including the other four currently proposed in LA County. Our hope is that other deck parks can learn from FHCP’s Design Competition and the subsequent steps needed to build the park. Our focus on finding a design created by Angelenos for Angelenos can be replicated within LA, as well as for other cities considering deck parks. Local design will help ensure each future Park is built to meet the needs and context of the neighborhoods surrounding the Park. \r\n"
+  Where will you be working?:
+    - Central LA
+    - Hollywood
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - >-
+      Stimulate economic growth/development and enhance economic competitiveness
+      through design. LA becomes leader in sustainable cities and livable
+      communities.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

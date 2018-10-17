@@ -17,7 +17,7 @@ Please specify below: >-
   Walnut Park; Northeast San Fernando Valley - Pacoima, Panorama City, Arleta, &
   North Hills; Downtown Los Angeles, Wilshire Center, Little Tokyo, Chinatown,
   Boyle Heights
-category: all
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   On the thousands of miles of road we travel by car everyday, we connect to Los
   Angeles via destination points, from point A to point B. CicLAvia shows us
@@ -292,6 +292,45 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The goal of CicLAvia is to gradually increase the frequency of the events from four times per year to one per month.  In order to deliver more CicLAvias to different parts of the region, it will require active engagement of new communities and new cities, and key local and regional stakeholders.  As in past CicLAvias, we will continue to document and share the environmental, social and economic benefits of open streets events.  We are confident that the measurement of impact through metrics and evaluation could encourage more CicLAvia events more often and in more places.  We do this by:\r\n\r\n- Measuring the improvement in air quality when alternative modes of transportation are used;\r\n- Documenting the creation of temporary open space and recreation opportunities created by opening up streets to pedestrians and bicyclists;\r\n- Showing the positive local economic benefits as a results of CicLAvia during the day of, and weeks after the event with new customers;\r\n- Continuing to focus resources on public safety on the route for participants;\r\n- Streamlining the production costs to capitalize on economies of scale.\r\n\r\nSince 2010, the success of CicLAvia has resonated not only across the region, but also throughout the country.  Open streets events have taken place in many of the country’s urban and rural cities, and CicLAvia has been the national model.  While CicLAvia events are often measured by the number of participants, the success of the events will be strengthened by the overall positive impacts on our quality of life.  CicLAvia improves air quality and increases the benefits to the local economy.  It reinforces positive change in local and regional alternative transportation policies, and encourages conversation in creating new open space.  And CicLAvia brings communities closer and makes people more connected to each other.  \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      Southeast Cities – Huntington Park, South Gate, Lynwood,
+      Florence/Firestone & Walnut Park; Northeast San Fernando Valley - Pacoima,
+      Panorama City, Arleta, & North Hills; Downtown Los Angeles, Wilshire
+      Center, Little Tokyo, Chinatown, Boyle Heights
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -711,7 +750,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The goal of CicLAvia is to gradually increase the frequency of the events from four times per year to one per month.  In order to deliver more CicLAvias to different parts of the region, it will require active engagement of new communities and new cities, and key local and regional stakeholders.  As in past CicLAvias, we will continue to document and share the environmental, social and economic benefits of open streets events.  We are confident that the measurement of impact through metrics and evaluation could encourage more CicLAvia events more often and in more places.  We do this by:\r\n\r\n- Measuring the improvement in air quality when alternative modes of transportation are used;\r\n- Documenting the creation of temporary open space and recreation opportunities created by opening up streets to pedestrians and bicyclists;\r\n- Showing the positive local economic benefits as a results of CicLAvia during the day of, and weeks after the event with new customers;\r\n- Continuing to focus resources on public safety on the route for participants;\r\n- Streamlining the production costs to capitalize on economies of scale.\r\n\r\nSince 2010, the success of CicLAvia has resonated not only across the region, but also throughout the country.  Open streets events have taken place in many of the country’s urban and rural cities, and CicLAvia has been the national model.  While CicLAvia events are often measured by the number of participants, the success of the events will be strengthened by the overall positive impacts on our quality of life.  CicLAvia improves air quality and increases the benefits to the local economy.  It reinforces positive change in local and regional alternative transportation policies, and encourages conversation in creating new open space.  And CicLAvia brings communities closer and makes people more connected to each other.  \r\n"
-body_class: strawberry
+body_class: tangerine
 organization_name: CicLAvia
 published: true
 

@@ -12,7 +12,7 @@ project_summary: >-
   through our innovative, wrap-around services we will provide thousands of
   children and families in the 90011 area with safe spaces to play and thrive.
 Please specify below: ''
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   From its humble beginnings over 22 years ago, APCH has evolved from an
   afterschool drop-in program in the basement of a church to a community center
@@ -225,6 +225,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "To expand our services and meet increasing community demand, we are currently undertaking a capital expansion plan to build a Teen Center and Gallery and Performing Arts Space, addressing APCH's highest priority needs and allow us to provide additional services for the South Los Angeles community. Our Teen Program has grown significantly over the past several years; three years ago the average daily attendance was 35 members and today this has doubled to 80 members on average each day. During that time we have added four new staff who work with the teens, but the program is being run out of the same 800 square foot temporary bungalow the Teen Program has occupied for more than a decade. This space restriction has severely limited the program’s growth and membership. Enrollment in our general and teen membership is so high during the summer months that we are compelled to offer 3-4 field trips (ranging from 12-100 in attendance) per day so that our facilities do not become dangerously overcrowded. The new space will also serve as a performing arts center made available by request to other organizations in the community. This will allow us to host plays, concerts, and other performances and promote greater access to the arts. \r\n\r\nWe also plan to scale our impact through community partnerships, most notably the creation of new community gardens throughout our neighborhood. Additionally, we are in the process of codifying the APCH approach. APCH would like to further codify and standardize the gathering and tracking of data to identify and apply appropriate metrics in assessing and documenting acquisition and development of academic skills and rigor, attitudinal change, social competency, career aptitude, self-efficacy, and preparedness for transition to next levels of education, vocation and independence.\r\n"
+  Where will you be working?:
+    - Central LA
+    - South LA
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Percentage of residents that feel safe in their neighborhoods
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -602,7 +620,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "To expand our services and meet increasing community demand, we are currently undertaking a capital expansion plan to build a Teen Center and Gallery and Performing Arts Space, addressing APCH's highest priority needs and allow us to provide additional services for the South Los Angeles community. Our Teen Program has grown significantly over the past several years; three years ago the average daily attendance was 35 members and today this has doubled to 80 members on average each day. During that time we have added four new staff who work with the teens, but the program is being run out of the same 800 square foot temporary bungalow the Teen Program has occupied for more than a decade. This space restriction has severely limited the program’s growth and membership. Enrollment in our general and teen membership is so high during the summer months that we are compelled to offer 3-4 field trips (ranging from 12-100 in attendance) per day so that our facilities do not become dangerously overcrowded. The new space will also serve as a performing arts center made available by request to other organizations in the community. This will allow us to host plays, concerts, and other performances and promote greater access to the arts. \r\n\r\nWe also plan to scale our impact through community partnerships, most notably the creation of new community gardens throughout our neighborhood. Additionally, we are in the process of codifying the APCH approach. APCH would like to further codify and standardize the gathering and tracking of data to identify and apply appropriate metrics in assessing and documenting acquisition and development of academic skills and rigor, attitudinal change, social competency, career aptitude, self-efficacy, and preparedness for transition to next levels of education, vocation and independence.\r\n"
-body_class: blueberry
+body_class: strawberry
 organization_name: A Place Called Home
 published: true
 

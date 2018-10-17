@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: 'partner: 237105149'
 project_summary: "Plans to revitalize the LA River promise to deliver over 18,000 jobs, billions in private development, and tremendous environmental benefits. But a fundamental question remains: who will access these benefits?\r\n\r\nLA Riverworks wants to engage local residents to help existing neighborhoods thrive alongside a revitalized LA River. "
 Please specify below: Northeast LA
-category: 0create0live
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   In 2050, a revitalized LA River will serve as a main artery through the city,
   connecting many diverse and dynamic neighborhoods across the region. A greener
@@ -238,6 +238,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Too often, community voices are left out of major decisions affecting the build out of our neighborhoods. Unless local residents are equipped with the tools to shape investments and large scale development projects, resulting benefits and opportunities may not reach current residents. \r\n\r\nWe are proposing to engage residents, city officials, and other stakeholders in LA River communities to ensure that the return on our investment is shared by the low-income residents and families that called this area home long before it caught the eye of politicians and real estate developers. Through community engagement, legal research, and advocacy, we aim to maximize the positive impacts of a revitalized River, such as local job opportunities, affordable housing and expanded park space. And we aim to minimize negative impacts like the involuntary displacement of local residents and community-serving small businesses. \r\n\r\nSpecifically, we will achieve the following:\r\n\r\n1. Conduct a community assessment. \r\nSEACA and Public Counsel will analyze data and speak with local community members, community-based organizations, and economic development experts/researchers to gain a deeper understanding of River-adjacent communities, map community assets, and assess the risk of gentrification and displacement.\r\n\r\n2. Launch a community-informed policy and organizing strategy.\r\nWe will use information gleaned from the community assessment to develop policy and organizing strategies that address LA River-area residents’ needs and priorities. We will collaborate with stakeholder groups to educate and mobilize residents on the River investment and its impacts on the community through the development of education workshops, infographics, a comic book, and multi-media tools. In partnership with residents and other stakeholders, we will identify and develop legal and policy tools to help ensure the River build out is transparent and benefits ALL Angelenos, including local communities. We will then work with city officials to include these policies in River investment plans.\r\n\r\n3. Monitor development to ensure community priorities are implemented. \r\nMany residents aren't aware of the magnitude of the potential investment or the potential opportunity the River brings if the investment is shaped with local communities in mind. As River development begins, we will monitor activities and share information with residents to help develop tools for meaningfully shaping River community benefits."
+  Where will you be working?:
+    - Northeast LA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Connect” metrics?:
+    - Median travel time to work
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -642,7 +660,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Too often, community voices are left out of major decisions affecting the build out of our neighborhoods. Unless local residents are equipped with the tools to shape investments and large scale development projects, resulting benefits and opportunities may not reach current residents. \r\n\r\nWe are proposing to engage residents, city officials, and other stakeholders in LA River communities to ensure that the return on our investment is shared by the low-income residents and families that called this area home long before it caught the eye of politicians and real estate developers. Through community engagement, legal research, and advocacy, we aim to maximize the positive impacts of a revitalized River, such as local job opportunities, affordable housing and expanded park space. And we aim to minimize negative impacts like the involuntary displacement of local residents and community-serving small businesses. \r\n\r\nSpecifically, we will achieve the following:\r\n\r\n1. Conduct a community assessment. \r\nSEACA and Public Counsel will analyze data and speak with local community members, community-based organizations, and economic development experts/researchers to gain a deeper understanding of River-adjacent communities, map community assets, and assess the risk of gentrification and displacement.\r\n\r\n2. Launch a community-informed policy and organizing strategy.\r\nWe will use information gleaned from the community assessment to develop policy and organizing strategies that address LA River-area residents’ needs and priorities. We will collaborate with stakeholder groups to educate and mobilize residents on the River investment and its impacts on the community through the development of education workshops, infographics, a comic book, and multi-media tools. In partnership with residents and other stakeholders, we will identify and develop legal and policy tools to help ensure the River build out is transparent and benefits ALL Angelenos, including local communities. We will then work with city officials to include these policies in River investment plans.\r\n\r\n3. Monitor development to ensure community priorities are implemented. \r\nMany residents aren't aware of the magnitude of the potential investment or the potential opportunity the River brings if the investment is shaped with local communities in mind. As River development begins, we will monitor activities and share information with residents to help develop tools for meaningfully shaping River community benefits."
-body_class: strawberry
+body_class: tangerine
 organization_name: Southeast Asian Community Alliance (SEACA) and Public Counsel
 published: true
 

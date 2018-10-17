@@ -15,7 +15,7 @@ project_summary: >-
   empower them to build careers, increasing employment in creative industries
   such as animation, ceramics, and commercial art.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Tierra’s Fine Arts program combines individualized support with professional
   instruction to empower individuals, with significant disabilities, to build
@@ -229,6 +229,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Tierra’s programs are designed to allow for scalability of Tierra Fine Arts. Over 200 students, at Tierra’s 7-acre job training campus, pursue arts as a way of increasing their communication skills, building strength in their hands, exploring the arts as a potential career path, and enjoying a part of life that transportation and communication challenges often exclude them from. Each year, 16 people transition from site-based programming at Tierra’ Sunland job-training campus, to fully community-based life. As these individuals move into careers, college, and full-time volunteerism in the community, they take their new arts skills and appreciation with them, while allowing new students to begin their own arts experience.\r\n\r\nTierra creates new opportunities for artists by leveraging the success of Tierra artists, and involving guest artists and curators, such as Gallerist Daniel Weinberg and David Pagel, art critic for the Los Angeles Times. As artists’ careers take off, their work becomes sought-after by collectors and galleries, which contact Tierra directly to request installations and exhibitions. Tierra’s Exhibition Coordinator expands the impact of these opportunities by enabling new artists to exhibit their work alongside the career artist, thereby building their resume and launching their own professional arts career.\r\n\r\nHelen Rae is one artist who has built a career through Tierra’s Fine Arts program. At the age of 70, and despite her inability to use verbal communication, Helen has inspired a dedicated following of art lovers who seek out and collect her work.\r\n\r\nAt Tierra’s First Street Gallery Art Center, Helen creates paintings and drawings that are animated and full of character. Helen began creating art at Tierra in 1990, at the age of 52. Since then, her work has been shown at GoodLuck Gallery, ACME Gallery Los Angeles, and Claremont Graduate University. She earned an Award of Recognition from the Artists Beyond Disabilities Exhibition in Pasadena. Helen’s work has been featured across the country and internationally, including shows in New York City, Boston, Washington D.C., Belgium and Scotland, and a traveling exhibit viewed in Okinawa, Fukuka, and Miyazaki Japan.\r\n\r\nHelen’s career has resulted in hundreds of other artists’ success. As people discover her art, they realize that disability does not have to be a barrier to creativity, and open themselves up to appreciating art from other artists in Tierra’s program."
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Jobs per capita
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -644,7 +662,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Tierra’s programs are designed to allow for scalability of Tierra Fine Arts. Over 200 students, at Tierra’s 7-acre job training campus, pursue arts as a way of increasing their communication skills, building strength in their hands, exploring the arts as a potential career path, and enjoying a part of life that transportation and communication challenges often exclude them from. Each year, 16 people transition from site-based programming at Tierra’ Sunland job-training campus, to fully community-based life. As these individuals move into careers, college, and full-time volunteerism in the community, they take their new arts skills and appreciation with them, while allowing new students to begin their own arts experience.\r\n\r\nTierra creates new opportunities for artists by leveraging the success of Tierra artists, and involving guest artists and curators, such as Gallerist Daniel Weinberg and David Pagel, art critic for the Los Angeles Times. As artists’ careers take off, their work becomes sought-after by collectors and galleries, which contact Tierra directly to request installations and exhibitions. Tierra’s Exhibition Coordinator expands the impact of these opportunities by enabling new artists to exhibit their work alongside the career artist, thereby building their resume and launching their own professional arts career.\r\n\r\nHelen Rae is one artist who has built a career through Tierra’s Fine Arts program. At the age of 70, and despite her inability to use verbal communication, Helen has inspired a dedicated following of art lovers who seek out and collect her work.\r\n\r\nAt Tierra’s First Street Gallery Art Center, Helen creates paintings and drawings that are animated and full of character. Helen began creating art at Tierra in 1990, at the age of 52. Since then, her work has been shown at GoodLuck Gallery, ACME Gallery Los Angeles, and Claremont Graduate University. She earned an Award of Recognition from the Artists Beyond Disabilities Exhibition in Pasadena. Helen’s work has been featured across the country and internationally, including shows in New York City, Boston, Washington D.C., Belgium and Scotland, and a traveling exhibit viewed in Okinawa, Fukuka, and Miyazaki Japan.\r\n\r\nHelen’s career has resulted in hundreds of other artists’ success. As people discover her art, they realize that disability does not have to be a barrier to creativity, and open themselves up to appreciating art from other artists in Tierra’s program."
-body_class: blueberry
+body_class: banana
 organization_name: Tierra del Sol Foundation
 published: true
 

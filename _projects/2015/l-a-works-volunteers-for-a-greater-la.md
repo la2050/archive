@@ -13,7 +13,7 @@ project_summary: >-
   accessible by having opportunities led by trained L.A. Works volunteers in
   every neighborhood of Greater Los Angeles. 
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles ranks an appalling 45th out of 51 major cities in the U.S. for
   volunteerism. According to the Corporation for National and Community Service
@@ -192,6 +192,25 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Although L.A. Works mobilizes more than 35,000 volunteers in service each year, we only have a full-time staff of nine. We are able to do so much as a grassroots organization thanks to the dedication and generosity of our volunteer leaders. We have more than 90 trained volunteer leaders at our nonprofit partner sites and each quarter we have between 15-20 skilled volunteers assisting with various aspects of our organizational infrastructure – from social media to community connections. \r\n\r\nThe Managed Project program is designed to scale. We have a trained volunteer leader who is assisting with the training of additional leaders and are currently recruiting to identify a volunteer to assist with recruiting additional volunteer leaders from within our own cadre of volunteer participants. Once the volunteer leader is in place and trained on our volunteer database system, there is minimal management time needed to oversee this program on a daily basis.\r\n"
+  Where will you be working?:
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -594,7 +613,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Although L.A. Works mobilizes more than 35,000 volunteers in service each year, we only have a full-time staff of nine. We are able to do so much as a grassroots organization thanks to the dedication and generosity of our volunteer leaders. We have more than 90 trained volunteer leaders at our nonprofit partner sites and each quarter we have between 15-20 skilled volunteers assisting with various aspects of our organizational infrastructure – from social media to community connections. \r\n\r\nThe Managed Project program is designed to scale. We have a trained volunteer leader who is assisting with the training of additional leaders and are currently recruiting to identify a volunteer to assist with recruiting additional volunteer leaders from within our own cadre of volunteer participants. Once the volunteer leader is in place and trained on our volunteer database system, there is minimal management time needed to oversee this program on a daily basis.\r\n"
-body_class: blueberry
+body_class: tangerine
 organization_name: L.A. Works
 published: true
 

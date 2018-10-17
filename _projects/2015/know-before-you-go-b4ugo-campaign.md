@@ -13,7 +13,7 @@ project_summary: >-
   health, money and more. This campaign was created for foster youth, informed
   by foster youth. That novel concept alone connects
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   L.A. County is vast, with many diverse communities within its borders,
   including our country’s largest population of foster children. Once removed
@@ -218,6 +218,17 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Know Before You Go launched as a successful print toolkit. Now 15,000 have been distributed throughout L.A. County, providing pertinent information to transition age youth (TAY). The toolkit has been instrumental in training hundreds of providers on resources available to TAY, and while it has been a change agent, it is expensive to print and not easily updated. The new knowb4ugo.org website replaces the print toolkit while adding value beyond the toolkit’s capability. For instance, a webpage on job readiness can link directly to an upcoming job recruitment event. Using the app and Twitter page in conjunction with the webpage ensures maximized reach and alerts users to new information instantly. Our goal is to eliminate hearing “I wish someone would have told me” by creating an effective, available, and appealing way of instantly sharing information and resources with this previously disconnected population of L.A. County.\r\n\r\nIn the child welfare community, the KB4UGO toolkit and app are seen as the “go to” resource for TAY by TAY, social workers, attorneys, foster parents, and organizations. Created and designed with youth in mind, TAY participated in development. This sets the campaign apart and positioned it to become a national model. Organizations in other states, and even in other countries, have asked to leverage the campaign’s concepts, especially the B4UGO app. YouTube, Twitter, the app, and the website are all adaptable media that can evolve, grow, deepen and be useful for TAY everywhere, who are transient and can be difficult to reach. This campaign allows us to reach them where they are, respond to their needs, and speak to them in their own language. We do not yet have a YouTube video to embed, but here is a link to what we have: \r\n https://drive.google.com/open?id=0B5Oa7qknBBsha1VoMGZ0cGp3RWc \r\n"
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -623,7 +634,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Know Before You Go launched as a successful print toolkit. Now 15,000 have been distributed throughout L.A. County, providing pertinent information to transition age youth (TAY). The toolkit has been instrumental in training hundreds of providers on resources available to TAY, and while it has been a change agent, it is expensive to print and not easily updated. The new knowb4ugo.org website replaces the print toolkit while adding value beyond the toolkit’s capability. For instance, a webpage on job readiness can link directly to an upcoming job recruitment event. Using the app and Twitter page in conjunction with the webpage ensures maximized reach and alerts users to new information instantly. Our goal is to eliminate hearing “I wish someone would have told me” by creating an effective, available, and appealing way of instantly sharing information and resources with this previously disconnected population of L.A. County.\r\n\r\nIn the child welfare community, the KB4UGO toolkit and app are seen as the “go to” resource for TAY by TAY, social workers, attorneys, foster parents, and organizations. Created and designed with youth in mind, TAY participated in development. This sets the campaign apart and positioned it to become a national model. Organizations in other states, and even in other countries, have asked to leverage the campaign’s concepts, especially the B4UGO app. YouTube, Twitter, the app, and the website are all adaptable media that can evolve, grow, deepen and be useful for TAY everywhere, who are transient and can be difficult to reach. This campaign allows us to reach them where they are, respond to their needs, and speak to them in their own language. We do not yet have a YouTube video to embed, but here is a link to what we have: \r\n https://drive.google.com/open?id=0B5Oa7qknBBsha1VoMGZ0cGp3RWc \r\n"
-body_class: blueberry
+body_class: tangerine
 organization_name: Alliance for Children's Rights
 published: true
 

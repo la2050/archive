@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "My Bucketlist LA Recipe: Serving the city + Learning the city + Connecting to the people of the city. Now repeat [you’ll have too much fun not to]. \r\n\r\nMy Bucketlist LA uses an interactive platform/map interface in order for targeted audieinces (e.g., new residents, college students, community leaders (neighborhood council members)) to easily navigate and connect with each other through curated community and cultural events focused around volunteerism, play/fun, and food.\r\n"
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -112,6 +112,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "By tapping into the existing network of volunteer events, restaurants and activities around Los Angeles, scaling up will require strong partnerships.  We would partner with large corporations for large scale promotion, awareness, and sponsorships for employees or events.  We would also partner with volunteer organizations and non-profits to build strong relationships for future, continued and potentially regular volunteerism or events.  We would need to create a marketing plan to utilize social media, other digital and viral modes of promotion, establish city wide awareness and any other Public Relations need.  Additionally, if scaling up, we would need an operational team or administrative staff to plan and execute the events.  With continued growth we would build a platform to track the events, a bucket list app that includes social sharing as we continue to trek through the digital and social media world.  It would be incredible to then see a project like this grow into other cities.  \r\n"
+  Where will you be working?:
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -515,7 +539,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "By tapping into the existing network of volunteer events, restaurants and activities around Los Angeles, scaling up will require strong partnerships.  We would partner with large corporations for large scale promotion, awareness, and sponsorships for employees or events.  We would also partner with volunteer organizations and non-profits to build strong relationships for future, continued and potentially regular volunteerism or events.  We would need to create a marketing plan to utilize social media, other digital and viral modes of promotion, establish city wide awareness and any other Public Relations need.  Additionally, if scaling up, we would need an operational team or administrative staff to plan and execute the events.  With continued growth we would build a platform to track the events, a bucket list app that includes social sharing as we continue to trek through the digital and social media world.  It would be incredible to then see a project like this grow into other cities.  \r\n"
-body_class: blueberry
+body_class: tangerine
 organization_name: Independent Team of LA Residents
 published: true
 

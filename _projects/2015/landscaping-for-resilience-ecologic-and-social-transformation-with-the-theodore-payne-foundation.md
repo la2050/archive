@@ -15,7 +15,7 @@ project_summary: >-
   can work together to enhance green space and create skill sets for positive
   environmental change within Los Angeles County.
 Please specify below: ''
-category: 0createplaylive
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Landscaping for Resilience (LFR), winner of the LA County Board of
   Supervisor's 2015 Green Leadership Award, is TPF’s proven model for connecting
@@ -223,6 +223,23 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "One of the real beauties of Landscaping for Resilience is that it can become self-replicating. For example, Green Space Los Feliz was one of TPF's partners in creating a native plant landscape at the Los Feliz post office. Once that group gained skills in horticulture and working together, they went on to work with a local fire station to develop and maintain a garden at their site. \r\n\r\nThe goals of the program are to raise awareness among Angelinos of the control they have over their environment, what options they have for exerting that control, how to organize for change, and how to develop sustainable and retainable skills  "
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -642,7 +659,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "One of the real beauties of Landscaping for Resilience is that it can become self-replicating. For example, Green Space Los Feliz was one of TPF's partners in creating a native plant landscape at the Los Feliz post office. Once that group gained skills in horticulture and working together, they went on to work with a local fire station to develop and maintain a garden at their site. \r\n\r\nThe goals of the program are to raise awareness among Angelinos of the control they have over their environment, what options they have for exerting that control, how to organize for change, and how to develop sustainable and retainable skills  "
-body_class: strawberry
+body_class: tangerine
 organization_name: 'Theodore Payne Foundation for Wild Flowers and Native Plants, Inc.'
 published: true
 

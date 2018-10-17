@@ -15,7 +15,7 @@ project_summary: >-
   decision-making within local government and measure how the Promise Zone is
   improving lives.
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The Los Angeles Promise Zone initiative led by the Mayor’s office tests
   innovative ideas for neighborhood revitalization. We connect sectors that
@@ -254,6 +254,25 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The success of the Young Ethnographers project will be scaled in two ways. As a nationally recognized initiative, the Promise Zone offers a platform to share best practices throughout the City and across the country. Our hope is that Promise Zones throughout the US, as well as other communities, can take our model of youth civic engagement and empowerment to address the critical need to better connect residents to local government. We will share the survey instrument, training manuals and other materials, and overall framework on the Promise Zone website so this model can be scaled.\r\n \r\nUltimately, LAPZ takes a multi-cultural and holistic approach in connecting LA’s most disconnected youth through a place-based approach that will be further supported by the very data that our Young Ethnographers help to collect. Youth recruited for these positions will be largely high school juniors and seniors, including homeless, foster, and/or juvenile justice-involved youth. Providing access to employment opportunities like these is a critical first step in a young person’s journey towards long-term financial empowerment and stability. \r\n\r\nYouth who participate in this program are scholars, scientists, artists, athletes and activists in their own respect -- full of untapped potential. Funding from LA2050 will allow us to unleash this potential by connecting youth to meaningful community-based work that will create long-term policy and advocacy solutions for our great city. The efforts of Young Ethnographers will be scaled as policymakers use their assessment results and solutions to guide decision making. \r\nThe project will be further scaled as we send our Young Ethnographers off to college and careers, with the hope that they can apply what they learned over the course of this project. \r\n\r\nOur proposal envisions the survey component to be a key deliverable in the form of a multi-lingual playbook that outlines strategies and best practices for community development that can be scaled and deployed to other regions of LA County.  Identifying the Promise Zone’s next generation of leaders and change agents and  delivering the promise of a Los Angeles as a functioning, well-run city that works with and for all Angelenos."
+  Where will you be working?:
+    - Central LA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Connect” metrics?:
+    - Voting rates by race
+    - Median travel time to work
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -673,7 +692,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The success of the Young Ethnographers project will be scaled in two ways. As a nationally recognized initiative, the Promise Zone offers a platform to share best practices throughout the City and across the country. Our hope is that Promise Zones throughout the US, as well as other communities, can take our model of youth civic engagement and empowerment to address the critical need to better connect residents to local government. We will share the survey instrument, training manuals and other materials, and overall framework on the Promise Zone website so this model can be scaled.\r\n \r\nUltimately, LAPZ takes a multi-cultural and holistic approach in connecting LA’s most disconnected youth through a place-based approach that will be further supported by the very data that our Young Ethnographers help to collect. Youth recruited for these positions will be largely high school juniors and seniors, including homeless, foster, and/or juvenile justice-involved youth. Providing access to employment opportunities like these is a critical first step in a young person’s journey towards long-term financial empowerment and stability. \r\n\r\nYouth who participate in this program are scholars, scientists, artists, athletes and activists in their own respect -- full of untapped potential. Funding from LA2050 will allow us to unleash this potential by connecting youth to meaningful community-based work that will create long-term policy and advocacy solutions for our great city. The efforts of Young Ethnographers will be scaled as policymakers use their assessment results and solutions to guide decision making. \r\nThe project will be further scaled as we send our Young Ethnographers off to college and careers, with the hope that they can apply what they learned over the course of this project. \r\n\r\nOur proposal envisions the survey component to be a key deliverable in the form of a multi-lingual playbook that outlines strategies and best practices for community development that can be scaled and deployed to other regions of LA County.  Identifying the Promise Zone’s next generation of leaders and change agents and  delivering the promise of a Los Angeles as a functioning, well-run city that works with and for all Angelenos."
-body_class: blueberry
+body_class: tangerine
 organization_name: >-
   Los Angeles Promise Zone Initiative | LA Mayor's Office of Economic
   Development c/o Mayor's Fund for Los Angeles

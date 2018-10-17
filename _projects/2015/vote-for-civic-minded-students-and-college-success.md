@@ -214,6 +214,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "College success and persistence is one of biggest challenges facing schools serving students from low-income backgrounds. Though college acceptance and attendance rates are increasing dramatically among these students, less than 10% of low-income students actually complete a degree.\r\n\r\nThe JSA-Alliance partnership addresses this need. As discussed in the Redefining College Readiness report, the issues around college persistence are rarely academic—Alliance and its peers have developed a model that gives students the in-class skills they need, as reflected in increasing graduation rates and test scores. What these schools need from JSA is a partner in helping their students develop resilience, social capital, self-advocacy, and other factors that come from practicing leadership.\r\n\r\nJSA currently operates in 10 Alliance schools, reaching 500 participating students.  In the coming year, we will expand JSA to six new Alliance high schools and increase student participation by 300 students.  As part of the design process, JSA chapters will ensure participation among all grade levels (9-12) to ensure the systems and infrastructure built for the program in the first year are carried on by students in subsequent years.  The partnership will also develop a prototype for effective and rapid expansion of the JSA model into all all 17 Alliance high schools which will engage up to 35000 low-income students. As the partnership is formalized and evaluation shows its impact, we can explore partnerships with the other major charter networks and with school districts (like JSA’s partnership with Compton Unified School District) that would allow us to scale up further. \r\n\r\nBecause each Alliance principal has wide discretion in terms of how to use the School Chapter Development Fund on their campuses, we will have a variety of expansion models to compare in terms of ROI, and we can turn the most effective models into curriculum that we share with other schools.\r\n\r\nJSA currently reaches 10,000 students across the country, but Alliance-type partnerships offer an opportunity to dramatically increase this number."
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Fernando Valley
+    - South LA
+    - City of Los Angeles
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   Central LA: Little Tokyo, Central Avenue Historic District; East LA: Boyle
   Heights; South LA: Crenshaw/Leimert Park
-category: play
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The cultural assets of Los Angeles’ neighborhoods represent an untapped
   economic development resource. Our goal is to have Los Angeles’
@@ -253,6 +253,26 @@ maker_answers:
     further studied, documented and applied to other LISC offices across the
     country as best practices for seamlessly blending cultural economic
     development strategies, small business and regional cultural tourism plans. 
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - >-
+      Central LA: Little Tokyo, Central Avenue Historic District; East LA: Boyle
+      Heights; South LA: Crenshaw/Leimert Park
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -711,7 +731,7 @@ maker_answers_list:
       country as best practices for seamlessly blending cultural economic
       development strategies, small business and regional cultural tourism
       plans. 
-body_class: strawberry
+body_class: banana
 organization_name: Local Initiatives Support Corporation (LISC) Los Angeles
 published: true
 

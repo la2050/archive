@@ -8,7 +8,7 @@ project_summary: "DUBLAB proposes to relocate our studio to a storefront locatio
 Please specify below: >-
   We are seeking to move to an easily accessible location in Los Angeles near
   public transport
-category: 0createplay0
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   DUBLAB’s proposed project will make L.A. the best place to connect by
   introducing to Los Angeles an arts-oriented space intended both to engage
@@ -212,6 +212,24 @@ maker_answers:
     confident that dublab will be able to permanently make the studio
     established by the Open Studio Initiative a central part of dublab’s
     operations for many years to come.    
+  Where will you be working?:
+    - Central LA
+    - >-
+      We are seeking to move to an easily accessible location in Los Angeles
+      near public transport
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Total number of local social media friends and connections (Dream Metric)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -631,7 +649,7 @@ maker_answers_list:
       are confident that dublab will be able to permanently make the studio
       established by the Open Studio Initiative a central part of dublab’s
       operations for many years to come.    
-body_class: strawberry
+body_class: tangerine
 organization_name: DUBLAB
 published: true
 

@@ -16,7 +16,7 @@ Please specify below: >-
   Elementary, Culver City, LA County (91% Latino); ICEF Vista Elementary Academy
   (Charter) (94% Latino), Los Angeles; Grandview Elementary, Los Angeles (79%
   Latino).
-category: all
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   BookArtsLA, as an organization, believes that hands on experiences create an
   environment more conducive to authentic, deep learning. BookArtsLA, though our
@@ -183,6 +183,29 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We are currently focusing on underserved elementary schools in our immediate area.  This program can be expand by:\r\n1.\tIdentify schools out of our immediate area and implement the program with the assistance of new participating schools.  The program would concentrate on grades 3-5.\r\n2.\tPrototype the program in a middle school grades 6-8.  Adjust and expand into the local schools as a start.\r\n3.\tReach out to the wider school system and invite schools to apply to the program.\r\n4.\tPublish the results of the program so other schools are aware of the program.\r\n"
+  Where will you be working?:
+    - Westside
+    - >-
+      Braddock Drive Elementary, Culver City, LA County (76% Latino); Stoner Ave
+      Elementary, Culver City, LA County (91% Latino); ICEF Vista Elementary
+      Academy (Charter) (94% Latino), Los Angeles; Grandview Elementary, Los
+      Angeles (79% Latino).
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - "•\tDemonstrate the value of creative curricular projects to enhance learning."
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -572,7 +595,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We are currently focusing on underserved elementary schools in our immediate area.  This program can be expand by:\r\n1.\tIdentify schools out of our immediate area and implement the program with the assistance of new participating schools.  The program would concentrate on grades 3-5.\r\n2.\tPrototype the program in a middle school grades 6-8.  Adjust and expand into the local schools as a start.\r\n3.\tReach out to the wider school system and invite schools to apply to the program.\r\n4.\tPublish the results of the program so other schools are aware of the program.\r\n"
-body_class: strawberry
+body_class: blueberry
 organization_name: BookArtsLA
 published: true
 

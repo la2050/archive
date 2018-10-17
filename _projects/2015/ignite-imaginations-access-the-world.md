@@ -14,7 +14,7 @@ project_summary: >-
 Please specify below: >-
   Levitt Pavilion Los Angeles (MacArthur Park); Levitt Pavilion Pasadena
   (Memorial Park)
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Levitt Pavilion Greater Los Angeles & Pasadena envisions an LA2050 in which
   the community as a whole—parents, children, young adults, seniors—comes
@@ -216,6 +216,32 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "For us, “Play” is a serious endeavor. Play is more than an opportunity to let loose, it is essential to childhood development and provides an open and free environment for children and adults alike to make mistakes, and to explore and engage with others.\r\n \r\nOur venues are not only directly accessible by train, but as parks, they are situated right in the middle of diverse communities. We hope to engage the people of these neighborhoods to help us activate our parks through play. \r\n \r\nInitially, our attendance numbers and the data we collect from our surveys will measure our success. Access in itself is a major goal for this project, and providing the opportunity for a wide range of people, from our local communities to play through the arts is a feat on its own. However, the lasting success of our programs will be seen in the future, when the children that we engage in our parks become adults.\r\n \r\nOur hope is that through our efforts today, the next generation will appreciate the value of community spaces activated through shared arts experiences. The seeds planted today will hopefully grow into future investment in the arts. In 2050, all Angelenos will have ample opportunities to participate in high quality performing arts experiences. The citizens of Greater Los Angeles will be inspired by and appreciate how music and arts participation makes us all; more tolerant, innovative and engaged. This appreciation and understanding will play a prominent role in furthering Los Angeles as a center for diversity, culture and public engagement in the arts.\r\n"
+  Where will you be working?:
+    - Central LA
+    - San Gabriel Valley
+    - >-
+      Levitt Pavilion Los Angeles (MacArthur Park); Levitt Pavilion Pasadena
+      (Memorial Park)
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Engage community; expand cultural awareness
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

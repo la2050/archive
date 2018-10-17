@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: 'With this grant there will be no end to the good we can do for our community. '
 Please specify below: ''
-category: all
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -131,6 +131,39 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'We''d love to work with our team :)'
   How do you plan to scale the success of your proposal?: "Our platform is built to be completely scaleable. We'll increase staff as need be.\r\n\r\n"
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - There is no limit to the good we can do with this tool.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -554,7 +587,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our platform is built to be completely scaleable. We'll increase staff as need be.\r\n\r\n"
-body_class: strawberry
+body_class: tangerine
 organization_name: ChallengeMaker
 published: true
 

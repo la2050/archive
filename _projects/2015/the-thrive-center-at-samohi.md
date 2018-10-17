@@ -13,7 +13,7 @@ project_summary: >-
   be a place where teens learn how to do more than just survive - they will find
   the support and tools needed to thrive.
 Please specify below: 'Santa Monica High School, SMMUSD, Santa Monica'
-category: none
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   As a regional Title 1 school, Samohi serves a diverse population of 3,100
   students from a wide range of cultures, backgrounds, and households. Samohi is
@@ -240,6 +240,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Thrive Center is a highly scalable concept with the potential to reach tens of thousands of young people throughout Los Angeles. Growing this project can be achieved in 3 phases.\r\n\r\nImmediate scalability will focus on reaching all 3,000 students at Samohi, over 20% of whom live in low income communities throughout Los Angeles. Our multi-pronged strategy for reaching the entire school population includes student co-creation, integrated school-wide health nudges, and embedding wellbeing science and positive psychology into curriculum, training, school culture, and student support activities. By involving students in the design of services, space, and outreach, we will ensure that the Center is created with end users in mind from the start, thereby increasing its uptake among the student community. Health nudges are a flexible and proven to work. They can include text message campaigns, modifications to the school cafeteria and other common spaces based on the science of choice architecture, and modernized public health messages based on principles of behavioral psychology. Finally, by integrating wellbeing into regular faculty training and student support services, concepts including mindfulness, mindset training, and positive psychology will become embedded into the school day.\r\n\r\nThe next level of scale will extend this pilot program beyond Samohi to SMMUSD’s robust school-based mental health infrastructure that provides support services for students at 4 Title 1 schools, including John Adams Middle School. Based on what we learn about growing wellbeing services at Samohi, we will be able to replicate our model throughout an existing school-based mental health service infrastructure that will reach students throughout Santa Monica’s school district.\r\n\r\nThe third level will focus reach beyond Santa Monica through our established relationships with the LA Trust for Children’s Health and Alliance for School Based Health Centers. By creating an open knowledge sharing network through these partnerships, we will help disseminate The Thrive Center wellbeing services model for replication in at least 14 existing student wellness centers located in high priority areas throughout Los Angeles. "
+  Where will you be working?:
+    - Westside
+    - 'Santa Monica High School, SMMUSD, Santa Monica'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Implement a pilot or new project
+    - Track impact
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Rates of homelessness
+    - Walk/bike/transit score
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -665,7 +690,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Thrive Center is a highly scalable concept with the potential to reach tens of thousands of young people throughout Los Angeles. Growing this project can be achieved in 3 phases.\r\n\r\nImmediate scalability will focus on reaching all 3,000 students at Samohi, over 20% of whom live in low income communities throughout Los Angeles. Our multi-pronged strategy for reaching the entire school population includes student co-creation, integrated school-wide health nudges, and embedding wellbeing science and positive psychology into curriculum, training, school culture, and student support activities. By involving students in the design of services, space, and outreach, we will ensure that the Center is created with end users in mind from the start, thereby increasing its uptake among the student community. Health nudges are a flexible and proven to work. They can include text message campaigns, modifications to the school cafeteria and other common spaces based on the science of choice architecture, and modernized public health messages based on principles of behavioral psychology. Finally, by integrating wellbeing into regular faculty training and student support services, concepts including mindfulness, mindset training, and positive psychology will become embedded into the school day.\r\n\r\nThe next level of scale will extend this pilot program beyond Samohi to SMMUSD’s robust school-based mental health infrastructure that provides support services for students at 4 Title 1 schools, including John Adams Middle School. Based on what we learn about growing wellbeing services at Samohi, we will be able to replicate our model throughout an existing school-based mental health service infrastructure that will reach students throughout Santa Monica’s school district.\r\n\r\nThe third level will focus reach beyond Santa Monica through our established relationships with the LA Trust for Children’s Health and Alliance for School Based Health Centers. By creating an open knowledge sharing network through these partnerships, we will help disseminate The Thrive Center wellbeing services model for replication in at least 14 existing student wellness centers located in high priority areas throughout Los Angeles. "
-body_class: strawberry
+body_class: lime
 organization_name: >-
   Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
   SMMUSD

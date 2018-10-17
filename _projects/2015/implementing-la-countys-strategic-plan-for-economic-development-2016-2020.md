@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "LAEDC proposes to leverage its past success in leading collaborative economic development efforts to ramp up the 2016-2020 Strategic Plan’s implementation program around seven aspirational goals: \r\n1. Invest in Human Capital\r\n2. Strengthen Leading Traded Industries\r\n3. Catalyze Innovation Capacities\r\n4. Fix Infrastructure Development, Financing and Delivery Processes\r\n5. Create a More Business Friendly Environment\r\n6. Increase Global Connectedness\r\n7. Build More Livable Communities "
 Please specify below: all other sub-regions and communities of LA County
-category: all
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -139,6 +139,55 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Los Angeles County Strategic Plan for Economic Development is a comprehensive, regional plan whose purpose is to increase standards of living through economic growth and future prosperity for all residents throughout the County and its 88 cities. It has been curated with meticulous attention to detail as well as with big-picture, long-term goals setting. The success of the Strategic Plan will be influenced in part by the civic stewardship of our region’s stakeholders, by the region’s continued upward economic trajectory, by the commitment of our public, private, and nonprofit partners, and by the ability of the LAEDC to facilitate these groups to pursue regional prosperity using the Strategic Plan as a guide. \r\n\r\nFollowing its adoption by the Los Angeles County Board of Supervisors, the plan will be poised for large-scale implementation. It will become the responsibility of not only those who have been engaged in the conception, creation, development, and adoption of the Plan, but a broader community of LA-based stakeholders to become its guardians, owners and champions for implementation. \r\n\r\nThe LAEDC’s role as the facilitative body will be the impetus for making these far-reaching strategic connections, for providing coordinating information and services, and for ensuring that the Plan’s tenets are relevant to all the County’s communities and groups, from severely economic distressed communities to Fortune 500 companies and from the long-term unemployed to our most successful entrepreneurs. \r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - all other sub-regions and communities of LA County
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - Engender Civic Stewardship
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Patents per capital
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -569,7 +618,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Los Angeles County Strategic Plan for Economic Development is a comprehensive, regional plan whose purpose is to increase standards of living through economic growth and future prosperity for all residents throughout the County and its 88 cities. It has been curated with meticulous attention to detail as well as with big-picture, long-term goals setting. The success of the Strategic Plan will be influenced in part by the civic stewardship of our region’s stakeholders, by the region’s continued upward economic trajectory, by the commitment of our public, private, and nonprofit partners, and by the ability of the LAEDC to facilitate these groups to pursue regional prosperity using the Strategic Plan as a guide. \r\n\r\nFollowing its adoption by the Los Angeles County Board of Supervisors, the plan will be poised for large-scale implementation. It will become the responsibility of not only those who have been engaged in the conception, creation, development, and adoption of the Plan, but a broader community of LA-based stakeholders to become its guardians, owners and champions for implementation. \r\n\r\nThe LAEDC’s role as the facilitative body will be the impetus for making these far-reaching strategic connections, for providing coordinating information and services, and for ensuring that the Plan’s tenets are relevant to all the County’s communities and groups, from severely economic distressed communities to Fortune 500 companies and from the long-term unemployed to our most successful entrepreneurs. \r\n"
-body_class: strawberry
+body_class: banana
 organization_name: Los Angeles County Economic Development Corporation
 published: true
 

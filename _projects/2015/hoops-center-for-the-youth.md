@@ -12,7 +12,7 @@ project_summary: >-
   better and improve so that they can further their career and education by
   obtaining a college athletic scholarship. 
 Please specify below: ''
-category: learn
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We want to build a Dream Big Hoops Center that's a positive environment of
   learning, teaching discipline, sound fundamentals, and techniques that will
@@ -189,6 +189,28 @@ maker_answers:
     happy and their children are happy with what we are doing. Maintaining a
     certain number of youth each day for participation and getting new
     interested youth involved.
+  Where will you be working?:
+    - San Fernando Valley
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -594,7 +616,7 @@ maker_answers_list:
       happy and their children are happy with what we are doing. Maintaining a
       certain number of youth each day for participation and getting new
       interested youth involved.
-body_class: blueberry
+body_class: strawberry
 organization_name: Pass Tha Ball
 published: true
 

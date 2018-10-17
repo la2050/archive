@@ -15,7 +15,7 @@ project_summary: >-
   for young people to play on a beautiful 2 acre wild space and serve as a
   training ground for future play-workers. 
 Please specify below: Santa Clarita Valley
-category: 0createplay0
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   What we can do to make LA the best place to play is provide a space and
   materials where people can vibrantly engage in play that stretches their
@@ -224,6 +224,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We feel we have met our goals if the following is true:  \r\n\r\nIf the communities we visit are still enjoying their public spaces this time next year. \r\n\r\nIf Eureka Villa is regularly opening its gates to the public and holding play sessions. \r\n\r\nIf kids are socially connecting with each other as well as neighbors in the community.\r\n\r\nIf we are able to educate and or train other individuals for implementing open ended and or loose parts play.\r\n\r\nIf families have found a new love in playing together.\r\n\r\nIf a culture of respecting our young people's rights to play has been nourished.\r\n\r\nWe continue to develop and support Los Angeles communities to become safer and more connected."
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+    - Santa Clarita Valley
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

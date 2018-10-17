@@ -13,7 +13,7 @@ project_summary: >-
   attractive, educational, sustainable, and will clean Pacoima Wash by
   capturing, treating polluted stormwater and trash. 
 Please specify below: Pacoima Neighborhood
-category: 0createplay0
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   This project will create a new recreational feature by transforming a
   currently vacant and deteriorated site into a unique, aesthetically pleasing,
@@ -265,6 +265,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The MRCA will put into motion a desire and need for more multiple benefit parks in an already park poor Los Angeles. An obvious measure of the park’s success will be its frequent use by the public and the fact that this currently vacant and deteriorated site will become an active and beautiful place for people to enjoy. There is currently a large desire and need to increase open space by transforming vacant lots throughout Los Angeles into spaces that the public can utilize and activate. The mere creation and use of this park will be a major success and a step in the right direction to live in a clean Los Angeles.  \r\nEl Dorado Park will not only improve the quality of life in the surrounding community but will have a greater impact through the improvement of it’s water quality. Once El Dorado Park is finished it will be maintained by the City of Los Angeles Department of Recreation and Parks. We hope that by building this resilient multiple benefit park it will influence the City of Los Angeles to continue the effort in creating more similar parks that can improve the quality of life all over Los Angeles.\r\n"
+  Where will you be working?:
+    - San Fernando Valley
+    - Pacoima Neighborhood
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Exposure to air toxins
+    - Percent of imported water
+    - Obesity rates
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -733,7 +753,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The MRCA will put into motion a desire and need for more multiple benefit parks in an already park poor Los Angeles. An obvious measure of the park’s success will be its frequent use by the public and the fact that this currently vacant and deteriorated site will become an active and beautiful place for people to enjoy. There is currently a large desire and need to increase open space by transforming vacant lots throughout Los Angeles into spaces that the public can utilize and activate. The mere creation and use of this park will be a major success and a step in the right direction to live in a clean Los Angeles.  \r\nEl Dorado Park will not only improve the quality of life in the surrounding community but will have a greater impact through the improvement of it’s water quality. Once El Dorado Park is finished it will be maintained by the City of Los Angeles Department of Recreation and Parks. We hope that by building this resilient multiple benefit park it will influence the City of Los Angeles to continue the effort in creating more similar parks that can improve the quality of life all over Los Angeles.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: Mountains Recreation and Conservation Authority
 published: true
 

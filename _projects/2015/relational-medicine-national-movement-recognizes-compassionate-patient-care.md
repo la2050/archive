@@ -12,7 +12,7 @@ project_summary: >-
   cultural institutions, and the dissemination of research results to the
   community.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Forty years ago, it was unthinkable to live a life with an artificial heart,
   with somebody else’s heart, or with an assist heart pump. The unfathomable
@@ -338,6 +338,39 @@ maker_answers:
     dissemination of research results to reduce disparities that create
     knowledge gaps in medical encounters, and create a humanistically more
     powerful framework for high-tech modern medicine.  
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Federal research grant funding
+    - Jobs per capita
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -798,7 +831,7 @@ maker_answers_list:
       of research results to reduce disparities that create knowledge gaps in
       medical encounters, and create a humanistically more powerful framework
       for high-tech modern medicine.  
-body_class: blueberry
+body_class: banana
 organization_name: Relational Medicine Foundation
 published: true
 

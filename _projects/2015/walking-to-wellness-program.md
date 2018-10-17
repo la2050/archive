@@ -13,7 +13,7 @@ project_summary: >-
   lifestyle. The two main elements of this program are Walking and Changing
   Unhealthy Habits.  
 Please specify below: ''
-category: 0create0live
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Although Americans in all income brackets report better emotional health when
   they exercise and eat fruits and vegetables regularly, low-income Americans
@@ -299,6 +299,25 @@ maker_answers:
     communities. Alumni will be encouraged to go into their communities and
     share their experiences taking part in the program and how it helped them,
     generating further interest, and growing the number of participants. 
+  Where will you be working?:
+    - Central LA
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+    - Walk/bike/transit score
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -730,7 +749,7 @@ maker_answers_list:
       communities. Alumni will be encouraged to go into their communities and
       share their experiences taking part in the program and how it helped them,
       generating further interest, and growing the number of participants. 
-body_class: strawberry
+body_class: lime
 organization_name: Life Change Up
 published: true
 

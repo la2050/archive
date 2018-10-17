@@ -15,7 +15,7 @@ project_summary: >-
   will achieve both an immediate and long-term solution for the homeless
   crisis. 
 Please specify below: ''
-category: create
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Using the launch of The Art of Skid Row as a catalyst, Sustaynabl aims to be
   an equitable and responsible economic participant, contributing to the
@@ -191,6 +191,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Art of Skid Row is the pioneer GIP which will generate critical funds to support individuals experiencing homelessness and develop a long-term approach to redefine affordable housing development. Sustaynabl plans to publish and sell 45,000 print and electronic copies; this represents the amount of people currently living on Skid Row.\r\nBy implementing an aggressive sales plan through targeted marketing and community engagement - Sustaynabl expects to generate over $1MM in proceeds during the first 12 months. \r\nImmediate impact: Sustaynabl will invest 10% of revenue generated through book sales to Weingart’s comprehensive 9-month program that provides safe housing, meals, case management, job training, and job placement services to those experiencing homelessness. \r\nLong term scalable plan, 90% of the revenue generated through book sales will be used to fund Sustaynabl’s major GIP, Urban Habitats (UH’s); mixed-use, mixed-income and environmentally friendly urban developments.\r\nUrban Habitats are designed to balance the housing market. UH’s will also reverse the cycle of “renter’s burden” in a city plagued with income disparity. This cycle of burden refers to the everyday renter that spends upwards of 50%+ of their income on housing, thereby reducing their capacity to purchase bare necessities (food, clothing, education). Sustaynabl seeks to develop its first UH in Los Angeles which will scale to other regions in the United States and eventually, around the globe. Urban Habitats will operate at optimal economic efficiency by dividing the residential units into three rental structures as follows:\r\n65%: Sustaynabl Units: Individuals and families pay an Occupancy Fee which is based on a Qualification Percentage (QP). The QP does not rise above 40%. The algorithm takes into consideration IRS income data, family / unit size, educational aspirations, and an individual's ability to earn income.\r\n25%: Market Linked Units: These units are linked to market pricing, but are priced lower than the subject property’s submarket to provide a competitive advantage and keep our units fully occupied at all times.\r\n10%: Transitional Units: These units have the ability to transition 120 - 240 at risk / homeless individuals into stable housing through our 6 month or 1 year comprehensive programs.\r\nBy using various for-profit business models, Sustaynabl will provide a source of funding for responsible housing development and create the foundation of a balanced housing market. "
+  Where will you be working?:
+    - Central LA
+    - South LA
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Number of households below the self-sufficiency index
+    - Housing affordability
+    - Rates of homelessness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -598,7 +618,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Art of Skid Row is the pioneer GIP which will generate critical funds to support individuals experiencing homelessness and develop a long-term approach to redefine affordable housing development. Sustaynabl plans to publish and sell 45,000 print and electronic copies; this represents the amount of people currently living on Skid Row.\r\nBy implementing an aggressive sales plan through targeted marketing and community engagement - Sustaynabl expects to generate over $1MM in proceeds during the first 12 months. \r\nImmediate impact: Sustaynabl will invest 10% of revenue generated through book sales to Weingart’s comprehensive 9-month program that provides safe housing, meals, case management, job training, and job placement services to those experiencing homelessness. \r\nLong term scalable plan, 90% of the revenue generated through book sales will be used to fund Sustaynabl’s major GIP, Urban Habitats (UH’s); mixed-use, mixed-income and environmentally friendly urban developments.\r\nUrban Habitats are designed to balance the housing market. UH’s will also reverse the cycle of “renter’s burden” in a city plagued with income disparity. This cycle of burden refers to the everyday renter that spends upwards of 50%+ of their income on housing, thereby reducing their capacity to purchase bare necessities (food, clothing, education). Sustaynabl seeks to develop its first UH in Los Angeles which will scale to other regions in the United States and eventually, around the globe. Urban Habitats will operate at optimal economic efficiency by dividing the residential units into three rental structures as follows:\r\n65%: Sustaynabl Units: Individuals and families pay an Occupancy Fee which is based on a Qualification Percentage (QP). The QP does not rise above 40%. The algorithm takes into consideration IRS income data, family / unit size, educational aspirations, and an individual's ability to earn income.\r\n25%: Market Linked Units: These units are linked to market pricing, but are priced lower than the subject property’s submarket to provide a competitive advantage and keep our units fully occupied at all times.\r\n10%: Transitional Units: These units have the ability to transition 120 - 240 at risk / homeless individuals into stable housing through our 6 month or 1 year comprehensive programs.\r\nBy using various for-profit business models, Sustaynabl will provide a source of funding for responsible housing development and create the foundation of a balanced housing market. "
-body_class: banana
+body_class: lime
 organization_name: Sustaynabl
 published: true
 

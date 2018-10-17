@@ -214,6 +214,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Reframe will make all proprietary content freely accessible to all. Unfortunately, we know from experience that even the best (and priciest) research, white papers, and strategic plans ultimately lie on a shelf collecting dust. What brings those findings to life for the masses are direct coaching experiences. Reframe will engage educators in collaborative school design, applying the latest research and practices. \r\n\r\nAs a member of LAUSD's Instructional Technology Initiative (I'm one of five expert resources for the Task Force), I will ensure that Reframe's professional learning opportunities are open to all interested throughout the district. \r\n\r\nI will also diffuse lessons learned through my national network, providing a blueprint for next gen talent development to other regional organizations. \r\n\r\n"
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

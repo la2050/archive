@@ -12,7 +12,7 @@ project_summary: >-
   state policies designed to ensure that all of the estimated 793,811 kids ages
   0-5 living in LA County have access to quality early childhood programs. 
 Please specify below: ''
-category: play
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The gap in services and supports for children birth-5 years is stunning. Some
   families have access to many high-quality services, while others have
@@ -198,6 +198,19 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Movement is readily scalable – whether it’s national, state or local, the core strategy works: connect, educate and coordinate diverse groups that care about kids’ wellbeing, use Pro-Kid messaging and leverage their collective power in the policymaking process. \r\n\r\nNo issue has more community and bipartisan support than kids’ wellbeing. But in our interest-group-driven politics, children lose out to more strategic, coordinated and consolidated efforts. The Children’s Movement addresses this by taking kids’ groups out of their silos and leveraging their collective power. The Movement is making kids the #1 policy priority by empowering hundreds of parent, business and community groups to speak with one voice.\r\n\r\nDuring the first year, Children Now will highlight early childhood and secure tangible wins in at least 4 school districts (and LAUSD) and the state budget by scaling The Children’s Movement model in Los Angeles County. This will be done by:\r\n\r\n- Employing the organization’s research, policy, and advocacy expertise;\r\n- Leveraging trusted relationships with local and state policymakers to reach the right decision makers;\r\n- Using our unique position as the only whole-child/umbrella children’s organization to bring hundreds of stakeholders on board;\r\n- Developing simple, effective Pro-Kid messaging; \r\n- Communicates with Movement members daily via digital media, and engages local groups one on one to participate in local and state policy campaigns; and\r\n- Mobilizing the network at the right times. \r\n\r\nThe coordinated, diverse Pro-Kid advocacy base strengthened as a result of this grant will enable communities to keep working on future critical issues affecting the County’s kids. By unifying hundreds of Pro-Kid groups and serving as hub to mobilize their actions, the Movement gives children’s issues an advocacy base strong enough to compete with powerful special interests. Moving forward, kids’ issues will truly be the top priority of state and local policymakers (not just lip service), and there will be an army of engaged, coordinated organizations ready when critical policy issues arise. After the funding period, Children Now will continue to expand the Movement model throughout LA County and California. \r\n"
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -590,7 +603,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Movement is readily scalable – whether it’s national, state or local, the core strategy works: connect, educate and coordinate diverse groups that care about kids’ wellbeing, use Pro-Kid messaging and leverage their collective power in the policymaking process. \r\n\r\nNo issue has more community and bipartisan support than kids’ wellbeing. But in our interest-group-driven politics, children lose out to more strategic, coordinated and consolidated efforts. The Children’s Movement addresses this by taking kids’ groups out of their silos and leveraging their collective power. The Movement is making kids the #1 policy priority by empowering hundreds of parent, business and community groups to speak with one voice.\r\n\r\nDuring the first year, Children Now will highlight early childhood and secure tangible wins in at least 4 school districts (and LAUSD) and the state budget by scaling The Children’s Movement model in Los Angeles County. This will be done by:\r\n\r\n- Employing the organization’s research, policy, and advocacy expertise;\r\n- Leveraging trusted relationships with local and state policymakers to reach the right decision makers;\r\n- Using our unique position as the only whole-child/umbrella children’s organization to bring hundreds of stakeholders on board;\r\n- Developing simple, effective Pro-Kid messaging; \r\n- Communicates with Movement members daily via digital media, and engages local groups one on one to participate in local and state policy campaigns; and\r\n- Mobilizing the network at the right times. \r\n\r\nThe coordinated, diverse Pro-Kid advocacy base strengthened as a result of this grant will enable communities to keep working on future critical issues affecting the County’s kids. By unifying hundreds of Pro-Kid groups and serving as hub to mobilize their actions, the Movement gives children’s issues an advocacy base strong enough to compete with powerful special interests. Moving forward, kids’ issues will truly be the top priority of state and local policymakers (not just lip service), and there will be an army of engaged, coordinated organizations ready when critical policy issues arise. After the funding period, Children Now will continue to expand the Movement model throughout LA County and California. \r\n"
-body_class: strawberry
+body_class: blueberry
 organization_name: Children Now
 published: true
 

@@ -214,6 +214,36 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "As exchanges and collaborations are completed, we will encourage participants to share their success stories. As seen on our Successful Exchanges page of the website at http://www.exchangeworks.co/successfulexchanges and on social media outlets, the excitement around each exchange and the sharing of stories is the best impetus to growing our community and business.  \r\n\r\nArtists who want to engage with others offline can participate in EW Art + Public. EW Art + Public is a section of the ExchangeWorks website that fosters art appreciation, unique art experiences and supplemental income for artists. EW Art + Public connects artists offering classes, tours, workshops and other art related experiences to the public. \r\n\r\nWe provide the infrastructure for EW Art + Public and the artist can decide whether to charge a fee for their program or offer it for free. Attendees pay the fee through PayPal on ExchangeWorks. The artists receive the majority of the fee, with EW receiving a 13% commission per booking.\r\n\r\nExchangeWorks currently has a network of 7,000 artists, resource providers and others from all over the world. In 2016 our goal is to grow our community in LA to include an additional 5,000 registered participants and 15,000 website visitors.\r\n\r\nWe will explore the feasibility of hiring a permanent staff and securing a permanent space in Downtown LA to act as a warehouse to store resources, office and event space.\r\n\r\nBased on what we learn in Los Angeles, we will expand with similar focused programs in other major art capitals, such as NY, Chicago and Miami. This will also enable our participants in LA to have more opportunities to make exchanges with people from other cities. \r\n"
+  Where will you be working?:
+    - >-
+      While working countywide, EWLA’s temporary event space will be located in
+      LA’s Downtown Arts District, with the specific location to be determined
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

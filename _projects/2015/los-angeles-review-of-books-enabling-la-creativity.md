@@ -11,7 +11,7 @@ project_summary: >-
   infrastructure, and giving LA writers and artists the exposure they need to
   compete.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LA has a growing creative community in all the arts. Every week, a new
   publishing venture launches, a new theater space or new gallery opens, and
@@ -320,6 +320,37 @@ maker_answers:
     diversify the conversation nationally, as well. We believe that helping to
     make LA a great place to create helps the world become a better place, and
     that is why, finally, we do what we do.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Bring the world to LA.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -794,7 +825,7 @@ maker_answers_list:
       nationally, as well. We believe that helping to make LA a great place to
       create helps the world become a better place, and that is why, finally, we
       do what we do.
-body_class: blueberry
+body_class: banana
 organization_name: Los Angeles Review of Books
 published: true
 

@@ -13,7 +13,7 @@ project_summary: >-
   needs – academic and non-academic - of students and offer on-site programs and
   referrals services that address those needs.
 Please specify below: ''
-category: 0createplay0
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Transportation in LA is undergoing a sea change, guided by the expansion of
   public transit, efforts to promote safe walking and bicycling, and the growth
@@ -257,6 +257,32 @@ maker_answers:
     to ensure that our reach extends across Los Angeles, improving its
     graduation rate and helping its students to see beyond limitations toward
     the great things that lie ahead.
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+    - Westside
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -714,7 +740,7 @@ maker_answers_list:
       outside consultants in order to ensure that our reach extends across Los
       Angeles, improving its graduation rate and helping its students to see
       beyond limitations toward the great things that lie ahead.
-body_class: strawberry
+body_class: blueberry
 organization_name: Communities In Schools of Los Angeles
 published: true
 

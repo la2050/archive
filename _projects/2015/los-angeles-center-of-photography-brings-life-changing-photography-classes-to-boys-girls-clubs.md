@@ -15,7 +15,7 @@ project_summary: >-
   self-esteem by following through with a long-term creative project and helping
   mount the show. 
 Please specify below: Long Beach Boys & Girls Club
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LACP Founder/Executive Director Julia Dean has volunteered her time to launch
   a pilot program at the Variety Boys & Girls Club in Boyle Heights. There are
@@ -276,6 +276,37 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "With LACP’s own pool of instructors to draw on, it is easy to envision scaling up the program quite rapidly.  And with 26 Boys & Girls Clubs in Los Angeles County, LACP’s program could be offered to any club that doesn’t already have a photography program.  The Mar Vista Club has already expressed interest, and longer-term plans call for expansion into the San Fernando Valley and South Los Angeles.  We have already applied to offer a shorter version of the program to the LA Unified School District, and are awaiting notification.\r\n\r\nAt the same time, LACP believes it is important to put the Boys & Girls Clubs where we have already made a commitment on a firm financial basis.  If we receive the LA2050 grant in 2016, it will not only allow us to launch the program at four clubs across LA County, we believe the recognition will aid our fundraising for these programs in 2017—as well as plan for further expansion.   \r\n"
+  Where will you be working?:
+    - East LA
+    - Westside
+    - Long Beach Boys & Girls Club
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -724,7 +755,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "With LACP’s own pool of instructors to draw on, it is easy to envision scaling up the program quite rapidly.  And with 26 Boys & Girls Clubs in Los Angeles County, LACP’s program could be offered to any club that doesn’t already have a photography program.  The Mar Vista Club has already expressed interest, and longer-term plans call for expansion into the San Fernando Valley and South Los Angeles.  We have already applied to offer a shorter version of the program to the LA Unified School District, and are awaiting notification.\r\n\r\nAt the same time, LACP believes it is important to put the Boys & Girls Clubs where we have already made a commitment on a firm financial basis.  If we receive the LA2050 grant in 2016, it will not only allow us to launch the program at four clubs across LA County, we believe the recognition will aid our fundraising for these programs in 2017—as well as plan for further expansion.   \r\n"
-body_class: blueberry
+body_class: banana
 organization_name: Los Angeles Center of Photography
 published: true
 

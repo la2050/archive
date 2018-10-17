@@ -15,7 +15,7 @@ project_summary: >-
   buying them so they can experience the technology without making a big
   investment, but can buy a printer if from our showrooom.
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LA will be the best place to create because it is in the intersection of a
   growing movement between media (Hollywood) & technology (DTLA & Silicon
@@ -205,6 +205,34 @@ maker_answers:
     low burn rates, & we're more than 120% confident that the $100,000 grant
     will be utilized effectively in continually making LA the best place to
     create. This time, through 3D printing!
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Patents per capital
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -646,7 +674,7 @@ maker_answers_list:
       have low burn rates, & we're more than 120% confident that the $100,000
       grant will be utilized effectively in continually making LA the best place
       to create. This time, through 3D printing!
-body_class: blueberry
+body_class: banana
 organization_name: EEZITEC
 published: true
 

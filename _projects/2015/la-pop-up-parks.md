@@ -245,6 +245,33 @@ maker_answers:
     own resources to beautify and enhance their neighborhoods. We also would
     have to work very hard to recruit and hold onto human capital in the form of
     coordination and construction volunteers.  
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+    - >-
+      We can build these parks anywhere there is unused or open lots in the city
+      or county
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - >-
+      We plan to make structural and tabngible change to several neighborhoods
+      with new pop up parks to work and play
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

@@ -235,6 +235,31 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We have a four-pronged strategy for scaling once we reach 1000 households. First, we will work to expand our partnerships to reach even more households through our four partners (WIC LA, LAPL, SEIU, NDWA). \r\n\r\nSecond, we will work to expand partnership with additional organizations that directly serve households with low-literacy in LA County, including: \r\n\r\n1)\tLos Angeles Unified School District (LAUSD) Adult Education Office\r\n2)\tHead Start-State Preschool division of the Los Angeles County Office of Education \r\n3)\tSouthern California Library Literacy Network (SCLLN) \r\n4)\t2-1-1- United Way-funded helpline that connects people in need with essential health and human services\r\n\r\nThird, we will seek to become an approved provider recommended by the Outreach and Technical Assistance Network for Adult Educators (OTAN) for California. Currently, we have this state level status with the State of New York that licenses Cell-Ed for immigrants associated with their 27 Office for New American Opportunity Centers. In addition, Cell-Ed is an approved distance learner for the State of Texas, which provides Cell-Ed access to adult schools and community based organizations serving Spanish- speaking populations. \r\n\r\nFourth and lastly, to promote adult literacy and the need for more focus on this high need area in the United States, Cell-Ed is submitting an application to the adult literacy XPRIZE. Cell-Ed had the great fortune of being on the visioneering committee for the prize and continues to believe we need more players in the space to provide mobile learning pathways for all.\r\n\r\nTo conclude, LA is our home and we can think of no better way to serve our region than by bridging access divides to education and wellbeing. In LA County, over one-third of adults still lack “prose literacy” and cannot read a newspaper. Over 54% speak English less than well and only 5% have access to classes. Compounding the problem, adult school funding has been slashed by more than half in our county. Cell-Ed is one way to reach households with the critical language and life skills they demand. LA2050, we urge you to help us reach these households on their terms. \r\n\r\nOur tweet to them: Ring Ring LA! Aprenda con @Cell-Ed- Inglés+Habilidades de vida. Sobre la marcha y desde cualquier teléfono, Gratis! @LA2050 #familyliteracy"
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - 'Incorporate feedback from households to improve program, scale'
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

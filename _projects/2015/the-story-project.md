@@ -10,7 +10,7 @@ project_summary: >-
   surrounding neighborhood. Stories have power. Media is a way of sharing those
   stories. 
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   LA is a city of communities and with it are cultures that are all too often at
   odds. Since 1998, The Story Project has been bridging gaps through media
@@ -237,6 +237,22 @@ maker_answers:
     projects, testimonials and metrics that will document our successes through
     the years in curbing violence and adding value to the quality of life in
     these challenged communities. 
+  Where will you be working?: []
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -701,7 +717,7 @@ maker_answers_list:
       video projects, testimonials and metrics that will document our successes
       through the years in curbing violence and adding value to the quality of
       life in these challenged communities. 
-body_class: blueberry
+body_class: banana
 organization_name: The Story Project
 published: true
 

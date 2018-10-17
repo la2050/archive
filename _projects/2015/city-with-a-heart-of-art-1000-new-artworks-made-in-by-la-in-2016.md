@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "The Heart of Art Gallery proposes:  1000 New Artworks made in & by LA in 2016!\r\n\r\nWith a grant of...\r\n\r\n100,000 dollars, we will outreach to the over \r\n\r\n10,000 women, youth and LGBTQIA artists in LA, to ask them to help produce\r\n\r\n1,000 new works of art in 2016, to exhibit at one or more of our \r\n\r\n100 community art events during the year, and continue our outreach at at least\r\n\r\n10 university events, all by rebuilding our \r\n\r\n1 Heart of Art gallery."
 Please specify below: 'South Central LA, Exposition Park area'
-category: all
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The Heart of Art Gallery has existed in South/Central LA for four years thanks
   to the passion and pocketbooks of founders Kenia Gutierrez and Bell Diaz, and
@@ -221,6 +221,45 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'Most of all, we need a new, safe, place to be.'
   How do you plan to scale the success of your proposal?: "Our proposal will have a proven success record, given how much we have already done with almost nothing. We look forward to being able to provide our space and our services to the amazing artists of Heart Of Art Gallery. Scaling up will be easy once we have laid the infrastructure made possible by you, the 2016 grant committee.\r\n\r\nEvery year we have existed, we have grown in attendance and frequency of our programs by at least 10% (in some years 25%). This past year we hosted an event almost every other weekend with full attendance at our gallery. We expect to continue this trajectory of growth. \r\n\r\nIf we can budget for 100 creative events in 2016, we will plan for 150 in 2017. Over the next five years we plan to keep the gallery open 24/7 to always be there when our people need safety or a place to create, much like a student union at a university. We will continue to seek more artists until the day Heart of Art stops beating.\r\n\r\nAs part of our scaling model we also intend to seek funding from the television, film, streaming and advertising industries in LA.\r\n\r\nThe challenges to our success will always be the continued marginalization of women and LGBTQIA people in poor neighborhoods, but every year that passes in the US brings a few more freedoms and liberties to our communities that we didn't have before. Heart of Art Gallery can only scale up. We will continue to be activists and march for the causes of women and LGBTQIA people, and our success will be measured in direct relation to how the public treats and views us. It will never will be easy to be a creator in our community, but it will always be worth the effort.\r\n\r\nThank you so much for the opportunity to present ourselves to you, the grant committee. We are forever grateful to you for reading this and considering our submission.\r\n\r\nThank you and good luck to all LA2050 Create submitters!"
+  Where will you be working?:
+    - South LA
+    - 'South Central LA, Exposition Park area'
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Patents per capital
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -629,7 +668,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Our proposal will have a proven success record, given how much we have already done with almost nothing. We look forward to being able to provide our space and our services to the amazing artists of Heart Of Art Gallery. Scaling up will be easy once we have laid the infrastructure made possible by you, the 2016 grant committee.\r\n\r\nEvery year we have existed, we have grown in attendance and frequency of our programs by at least 10% (in some years 25%). This past year we hosted an event almost every other weekend with full attendance at our gallery. We expect to continue this trajectory of growth. \r\n\r\nIf we can budget for 100 creative events in 2016, we will plan for 150 in 2017. Over the next five years we plan to keep the gallery open 24/7 to always be there when our people need safety or a place to create, much like a student union at a university. We will continue to seek more artists until the day Heart of Art stops beating.\r\n\r\nAs part of our scaling model we also intend to seek funding from the television, film, streaming and advertising industries in LA.\r\n\r\nThe challenges to our success will always be the continued marginalization of women and LGBTQIA people in poor neighborhoods, but every year that passes in the US brings a few more freedoms and liberties to our communities that we didn't have before. Heart of Art Gallery can only scale up. We will continue to be activists and march for the causes of women and LGBTQIA people, and our success will be measured in direct relation to how the public treats and views us. It will never will be easy to be a creator in our community, but it will always be worth the effort.\r\n\r\nThank you so much for the opportunity to present ourselves to you, the grant committee. We are forever grateful to you for reading this and considering our submission.\r\n\r\nThank you and good luck to all LA2050 Create submitters!"
-body_class: strawberry
+body_class: banana
 organization_name: Heart of Art Gallery
 published: true
 

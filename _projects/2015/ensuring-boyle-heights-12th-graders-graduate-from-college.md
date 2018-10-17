@@ -216,6 +216,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Together, College Track and the i.am.angel foundation strive to turn Boyle Heights into a model for other communities around the country. College Track’s model for student success is based on over 18 years of operations in California and across the country. Historically, 93% of College Track 12th grade students have been accepted into four-year colleges. Furthermore, 84% of our 12th grade students are college eligible and 89% have matriculated into a four-year college. Our students are graduating from college at a rate that is 2.5 times the national average for low-income students. We are confident that applying our program model in Boyle Heights will bring the same success and long-term well being to the students of Roosevelt High School, and positive outcomes to the LA community overall. Building on the success of our Boyle Heights center, College Track recently launched its second LA site in Watts, and we plan to launch two additional LA-based sites in low-income neighborhoods over the next five years.\r\n\r\nCollege Track is in the process of defining our formal 10-year vision to scale our success to benefit a greater number of students. Our current plan involves creating deep partnerships with the schools, college and communities we serve to act as a thought partner around improving the broader college completion pipeline, both in LA and beyond. We will also take best practices from our work in Boyle Heights to further drive the seamless integration of our high school and college programming, minimizing the transition that can often serve as an obstacle in students’ quests to obtain a college degree. \r\n\r\nCollege Track and the i.am.angel foundation have a history of partnering with other nonprofit and government organizations across Los Angeles, and we are happy to share the lessons learned from our work at the i.am College Track center in Boyle Heights to improve academic outcomes for students across LA and help ensure that every high school student in LA will graduate and be college and career ready by 2050."
+  Where will you be working?:
+    - East LA
+    - Roosevelt High School; Boyle Heights
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

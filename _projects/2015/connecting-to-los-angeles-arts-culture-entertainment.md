@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   San fernando Valley Arts & Cultural Center, Tarzana, CA, Los Angeles County
   and The Valley Economic Alliance, Sherman Oaks, CA, Los Angeles County
-category: 0create0live
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The San Fernando Valley Arts & Cultural Center (SFVACC) along with The Valley
   Economic Alliance (TVEA) plan to develop the first comprehensive database for
@@ -271,6 +271,31 @@ maker_answers:
     database.  This will become the basis for showing these entities why working
     with us is valuable to them, and in turn lead to getting them to sign up, on
     a for-fee-basis, for the 2nd and successive years of service.
+  Where will you be working?:
+    - San Fernando Valley
+    - >-
+      San Fernando Valley Arts & Cultural Center, Tarzana, CA and The Valley
+      Economic Alliance, Sherman Oaks, CA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Track data
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -700,7 +725,7 @@ maker_answers_list:
       our database.  This will become the basis for showing these entities why
       working with us is valuable to them, and in turn lead to getting them to
       sign up, on a for-fee-basis, for the 2nd and successive years of service.
-body_class: strawberry
+body_class: tangerine
 organization_name: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
 published: true
 

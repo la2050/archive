@@ -15,7 +15,7 @@ project_summary: >-
   inclusive, expanding youth and wheelchair programs, as well as promote lasting
   social connections in the community.
 Please specify below: 'San Fernando Blvd, City of San Fernando; Los Angeles County'
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Curling is one of the fastest growing sports in the world. Last year, we
   taught over 1500 people how to curl during and after the 2014 Olympics, with
@@ -246,6 +246,33 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: Participation! Come try the sport!
   How do you plan to scale the success of your proposal?: "Success will be measured by our ability:\r\n- To offer the benefits of five sheets of quality, curling specific ice to all who access Hollywood Curling\r\n- To expand our capacity of use with inclusive, accessible programming\r\n- To encourage further corporate opportunities to invest in our vision. \r\n- To engage Angelenos in a unique and rewarding social experience\r\n\r\nOur plan is for five sheets of curling ice. This will already be an expansion of ice capacity from our current use. We will have ample opportunity to expand our programing as needed, including adding tournaments and private events. Expanding our marketing reach will be critical to capitalizing on the additional scheduling opportunities we will be able to offer. A facility of this size is suitable for hosting national championship events in the future, making Los Angeles a destination for tournaments, workshops, skills clinics and other training events.\r\n\r\nSan Fernando is also strategically located so that if we are successful, we can expand to other areas of the county, such as San Gabriel Valley, the harbor cities, or west side.  During the next Olympic cycles, we will be able to introduce curling at local ice rinks in these locations with the support and equipment provided by our dedicated facility and volunteers as a home base.\r\n\r\nWith your generous assistance will reach our goal of offering the game of curling to the local community, foster the social and competitive spirit of curling, and teach and develop curlers to compete at a local and national level. This grant opportunity comes at a crucial time in our fundraising campaigns and will ensure the growth of the organization and sport of curling in Los Angeles."
+  Where will you be working?:
+    - San Fernando Valley
+    - City of Los Angeles
+    - LAUSD
+    - 'San Fernando Blvd, City of San Fernando; Los Angeles County'
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -651,7 +678,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Success will be measured by our ability:\r\n- To offer the benefits of five sheets of quality, curling specific ice to all who access Hollywood Curling\r\n- To expand our capacity of use with inclusive, accessible programming\r\n- To encourage further corporate opportunities to invest in our vision. \r\n- To engage Angelenos in a unique and rewarding social experience\r\n\r\nOur plan is for five sheets of curling ice. This will already be an expansion of ice capacity from our current use. We will have ample opportunity to expand our programing as needed, including adding tournaments and private events. Expanding our marketing reach will be critical to capitalizing on the additional scheduling opportunities we will be able to offer. A facility of this size is suitable for hosting national championship events in the future, making Los Angeles a destination for tournaments, workshops, skills clinics and other training events.\r\n\r\nSan Fernando is also strategically located so that if we are successful, we can expand to other areas of the county, such as San Gabriel Valley, the harbor cities, or west side.  During the next Olympic cycles, we will be able to introduce curling at local ice rinks in these locations with the support and equipment provided by our dedicated facility and volunteers as a home base.\r\n\r\nWith your generous assistance will reach our goal of offering the game of curling to the local community, foster the social and competitive spirit of curling, and teach and develop curlers to compete at a local and national level. This grant opportunity comes at a crucial time in our fundraising campaigns and will ensure the growth of the organization and sport of curling in Los Angeles."
-body_class: blueberry
+body_class: tangerine
 organization_name: Hollywood Curling
 published: true
 

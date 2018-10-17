@@ -15,7 +15,7 @@ project_summary: >-
   Angelenos of all ages to enjoy eclectic programs in a safe, clean, fun park
   setting in the heart of the city. 
 Please specify below: Downtown LA/Chinatown
-category: all
+category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
   “Arts and cultural programming is a new, but vital, venture for California’s
   urban State Parks. A creative partnership with Kensington allows State Parks
@@ -217,6 +217,26 @@ maker_answers:
     open to the community, as well as a member supported craft / industrial arts
     space and educational programming surrounding creating small businesses or
     successful freelance businesses. 
+  Where will you be working?:
+    - Downtown LA/Chinatown
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Play” metrics?:
+    - Access to open space and park facilities
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?

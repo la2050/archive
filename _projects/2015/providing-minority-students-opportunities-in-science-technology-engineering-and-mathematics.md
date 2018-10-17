@@ -264,6 +264,36 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Our plan to scale the success is simple. We would like to obtain enough money through grants and other avenues to build our own facility that can hold an influx of students. GMSS would like to build something similar to that of a Boys and Girls Club but strictly dedicated to the profession of STEM. GMSS will be the after school STEM program you will find all the students in the neighborhood spending their time and honing their STEM skills. Our goal is to build four professional, fully equipped science labs comprising of a Biology lab, Analytical Chemistry lab, Organic Chemistry lab, and a Marine Biology lab that will provide students with a wide variety of hands-on opportunities in which students practice technique, gather data, and draw conclusions from those data. GMSS would also like to create an innovative technology and robotics Lab aimed at providing students with the breadth of knowledge that is required for specialization in STEM fields. \r\n"
+  Where will you be working?:
+    - South LA
+    - 'City of Inglewood '
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

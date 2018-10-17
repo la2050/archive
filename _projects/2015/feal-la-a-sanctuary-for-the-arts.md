@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "FEAL.LA was created to build a support system for musicians. Creating a program that empowers and educates musicians on the ever changing landscape, while drawing in the community around them.  \r\n\r\nFEAL.LA highlights L.A. musicians, and industry leaders through shareable content, unique experiences, and intimate gatherings. \r\n\r\nAll building towards our vision of creating a sanctuary for the arts. A one-stop-shop for independent artists, offering recording studios, accommodation, event space. \r\n\r\n "
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles is a cultural hub for art, music, film, and technological
   advances. As the city begins to grow, and our lives become more digital,
@@ -171,6 +171,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Once we have nailed down our program, and built a comprehensive plan on what it truly is a musician needs in this city to thrive (PHASE TWO), we will begin PHASE THREE. \r\n\r\nPHASE THREE is the acquisition of a 30,000 -40,000 sqft space, to create our one-stop-shop. A building that houses everything an artist needs to grow. \r\n\r\nA venue\r\nRecording studios\r\nRehearsal spaces\r\nAccommodation\r\nOffice space\r\n\r\nAs well as build out our membership program with the public. Providing a low monthly rate for the community to interact and engage with the artists we are working with. \r\n"
+  Where will you be working?:
+    - East LA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -565,7 +589,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Once we have nailed down our program, and built a comprehensive plan on what it truly is a musician needs in this city to thrive (PHASE TWO), we will begin PHASE THREE. \r\n\r\nPHASE THREE is the acquisition of a 30,000 -40,000 sqft space, to create our one-stop-shop. A building that houses everything an artist needs to grow. \r\n\r\nA venue\r\nRecording studios\r\nRehearsal spaces\r\nAccommodation\r\nOffice space\r\n\r\nAs well as build out our membership program with the public. Providing a low monthly rate for the community to interact and engage with the artists we are working with. \r\n"
-body_class: blueberry
+body_class: tangerine
 organization_name: 'FEAL.LA '
 published: true
 

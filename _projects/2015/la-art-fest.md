@@ -11,7 +11,7 @@ project_summary: >-
   event will feature music, painting, sculpture, and craft-works created by
   artists in the area. 
 Please specify below: 'Chinatown, Historic State Park'
-category: all
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': |-
   Los Angeles needs an arts festival! 
    
@@ -303,6 +303,37 @@ maker_answers:
     The local neighborhood councils could help with logistics for parking,
     permits and other related matters. 
   How do you plan to scale the success of your proposal?: "The LA ART FEST would start out in 1 area of Los Angeles DTLA then expand to other surrounding communities in L.A. \r\n\r\nAn umbrella organization for the LA ART FEST would help guide a city-wide effort. Each community could offer their own version of the the LA ART FEST with an art exhibition, crafts and food aspect as well as a musical component.  As a multi-cultural art event many people would be invited to show off their own cultural manifestation. Since there are hundreds of cultures throughout the L.A. area there is no shortage of content for future LA Art Fests. Content would be presented for exhibitions, performance and crafts presentations. \r\n\r\nMulti-cultural food purveyors would be included to help share the pride of our collective community. There is such a vast array of choices with the new food trucks and other food vendors that each LA ART FEST would contain completely new content each time. "
+  Where will you be working?:
+    - Central LA
+    - >-
+      LA Arts District and or Chinatown (The Historic State Park and surrounding
+      buildings.)
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Produce second installment of LA Art Fest.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -719,7 +750,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The LA ART FEST would start out in 1 area of Los Angeles DTLA then expand to other surrounding communities in L.A. \r\n\r\nAn umbrella organization for the LA ART FEST would help guide a city-wide effort. Each community could offer their own version of the the LA ART FEST with an art exhibition, crafts and food aspect as well as a musical component.  As a multi-cultural art event many people would be invited to show off their own cultural manifestation. Since there are hundreds of cultures throughout the L.A. area there is no shortage of content for future LA Art Fests. Content would be presented for exhibitions, performance and crafts presentations. \r\n\r\nMulti-cultural food purveyors would be included to help share the pride of our collective community. There is such a vast array of choices with the new food trucks and other food vendors that each LA ART FEST would contain completely new content each time. "
-body_class: strawberry
+body_class: banana
 organization_name: LA Art Fest & Julie Rico Gallery
 published: true
 

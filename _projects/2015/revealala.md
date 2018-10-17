@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "ReveaLALA is a series of interventions that highlight and reframe important visual depictions of Latino culture in Los Angeles.\r\n\r\nFrom public sculptures and iconic buildings to road signs and street vendors, each element will literally be‘reframed’ with a simple color panel placed behind it – momentarily taking the piece out of its surroundings and allowing the viewer see it afresh and to rethink its meaning."
 Please specify below: ''
-category: all
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -109,6 +109,21 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The success of this proposal will be determined by our ability to connect with the Latino community in a meaningful way. Our plan is to put in place a structured process where this community can express itself and in-turn connect both locally and more broadly with the entire city of Los Angeles.\r\n"
+  Where will you be working?:
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How will your proposal improve the following “Connect” metrics?:
+    - Attendance at cultural events
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -509,7 +524,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The success of this proposal will be determined by our ability to connect with the Latino community in a meaningful way. Our plan is to put in place a structured process where this community can express itself and in-turn connect both locally and more broadly with the entire city of Los Angeles.\r\n"
-body_class: strawberry
+body_class: tangerine
 organization_name: Architecture and Design Museum (A+D)
 published: true
 

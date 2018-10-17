@@ -13,7 +13,7 @@ project_summary: >-
   grow. Our vision is to make these projects scalable, sustainable and
   repeatable for diverse communities. 
 Please specify below: Long Beach; LA County
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   MADE is a project that promotes “local self-reliance,” as defined by the
   Institute for Local Self-Reliance. Our project aims to a) attract and keep
@@ -271,6 +271,33 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Culinary accelerator\r\nWe are planning to build out a large industrial kitchen in the back 1/3 of the 12,500 sq ft space at MADE. It will be rented out to up and coming foodmakers for blocks of 4-8 hours at a time. A culinary accelerator is for food businesses that have plans to grow by packaging and distributing their unique products. Long Beach does not have a culinary accelerator, and currently many of our foodmakers have to leave Long Beach to develop their businesses. To be conservative in our projects we estimated 4 foodmakers renting our kitchen space at $30 an hour, but only for 18 hours a day. \r\n\r\nCulinary goods\r\nThe foodmakers who rent the kitchen will have the option to sell items at wholesale to MADE for retail sales. Only selected food prepared in the incubator kitchen will be packaged and sold at MADE, and some foodmakers will be using the kitchen for catering. Additionally several local and regional farms have partnered with MADE  to offer fresh produce, eggs, honey from local fields, and regular grocery items such as artisan bread, pasta, spices, coffees, and 40+ local food brands. This math is based on 100 food sales a day at an average food sale price of $10.  \r\n\r\nRetail goods\r\nRetail goods encompass all the non-food items that are sold at MADE. There are currently products from over 100 local makers. This estimation is based on one main aspect: By increasing foot traffic with food there will be increased exposure of non-food re\r\ntail departments at MADE: furniture, home & garden, bath & body, artisan jewelry, books & music, hand-assembled bikes and biking accessories, lamps & candles, apparel, baby and children, greeting cards and more. As MADE matures it will resemble a local department store with a market space. These are based on 60 vendor/40 MADE consignment sales.\r\n\r\nDistribution\r\nDistribution is a volume play and a positioning play, with a focus on key destinations such as The Renaissance Long Beach, and fine local establishments such as Working Class Kitchen.  \r\n\r\nBecause these models are based on amount of product and fees, they are scalable for the growth of clients that we receive. Moreover, we do make revenue by renting out facility space for events, for which we charge 50%.\r\n"
+  Where will you be working?:
+    - Long Beach; LA County
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Patents per capital
+    - Jobs per capita
+    - Number of high growth startups
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -709,7 +736,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Culinary accelerator\r\nWe are planning to build out a large industrial kitchen in the back 1/3 of the 12,500 sq ft space at MADE. It will be rented out to up and coming foodmakers for blocks of 4-8 hours at a time. A culinary accelerator is for food businesses that have plans to grow by packaging and distributing their unique products. Long Beach does not have a culinary accelerator, and currently many of our foodmakers have to leave Long Beach to develop their businesses. To be conservative in our projects we estimated 4 foodmakers renting our kitchen space at $30 an hour, but only for 18 hours a day. \r\n\r\nCulinary goods\r\nThe foodmakers who rent the kitchen will have the option to sell items at wholesale to MADE for retail sales. Only selected food prepared in the incubator kitchen will be packaged and sold at MADE, and some foodmakers will be using the kitchen for catering. Additionally several local and regional farms have partnered with MADE  to offer fresh produce, eggs, honey from local fields, and regular grocery items such as artisan bread, pasta, spices, coffees, and 40+ local food brands. This math is based on 100 food sales a day at an average food sale price of $10.  \r\n\r\nRetail goods\r\nRetail goods encompass all the non-food items that are sold at MADE. There are currently products from over 100 local makers. This estimation is based on one main aspect: By increasing foot traffic with food there will be increased exposure of non-food re\r\ntail departments at MADE: furniture, home & garden, bath & body, artisan jewelry, books & music, hand-assembled bikes and biking accessories, lamps & candles, apparel, baby and children, greeting cards and more. As MADE matures it will resemble a local department store with a market space. These are based on 60 vendor/40 MADE consignment sales.\r\n\r\nDistribution\r\nDistribution is a volume play and a positioning play, with a focus on key destinations such as The Renaissance Long Beach, and fine local establishments such as Working Class Kitchen.  \r\n\r\nBecause these models are based on amount of product and fees, they are scalable for the growth of clients that we receive. Moreover, we do make revenue by renting out facility space for events, for which we charge 50%.\r\n"
-body_class: blueberry
+body_class: banana
 organization_name: Localism Inc.
 published: true
 

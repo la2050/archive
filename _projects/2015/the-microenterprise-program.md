@@ -8,7 +8,7 @@ project_summary: >-
   We would like to set up an incubator facility for our clients to use as
   workspace, office space and a store front. 
 Please specify below: ''
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Homelessness in LA has sky-rocketed and creative solutions are needed to solve
   this problem. Our organization is doing its part by providing business and
@@ -221,6 +221,36 @@ maker_answers:
     businesses." - though our success has been small so far. With this grant we
     will be able to prove it on a larger scale and then be ready to implement it
     in other areas of LA County and other cities across the nation
+  Where will you be working?:
+    - Central LA
+    - San Fernando Valley
+    - Westside
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Concentration of manufacturing activity in LA
+    - Minority- and women-owned firms
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -675,7 +705,7 @@ maker_answers_list:
       we will be able to prove it on a larger scale and then be ready to
       implement it in other areas of LA County and other cities across the
       nation
-body_class: blueberry
+body_class: banana
 organization_name: Microenterprise.org
 published: true
 

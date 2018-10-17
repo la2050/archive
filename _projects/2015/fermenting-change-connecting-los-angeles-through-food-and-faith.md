@@ -13,7 +13,7 @@ project_summary: >-
   we build relationships across religious and cultural barriers to create an
   interconnected and resilient Los Angeles.
 Please specify below: ''
-category: live
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   One of the obstacles to civic engagement and a unified community is cultural
   divides: we are a diverse city where people of different backgrounds live side
@@ -255,6 +255,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "According to the American Community Survey in 2007 (the most recent data available), there are more than 6,000 faith-based congregations in Los Angeles County, representing a membership of 2.3 million people (close to a quarter of the population). This touches every demographic sector – racial and economic – and represents a hugely powerful force in community. We estimate that virtually every Angeleno lives within walking distance of a religious institution--imagine if each of those institutions was a resource to host educational opportunities around food, sustainability, and our most pressing social issues for ALL in the neighborhood, of ANY faith? What if even a small portion of those institutions had an edible garden that grew food for the community and inspired others to do the same? The impact would be enormous, and this is the vision that Netiya wants to realize.\r\n\r\nThe Fermenting Change agenda that we plan to implement in 2016 will be the beginning of a replicable and sustainable program to engage citizens of our diverse community. From the success and lessons of 2016, we can not only host more Fermenting Change events, but inspire and train more and more participants to do meaningful volunteer work and engage in social action. We believe that with Fermenting Change we can lay the groundwork for activism that connects people across religious boundaries, cultural barriers, social class, and geography. "
+  Where will you be working?:
+    - Central LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - Westside
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Attendance at cultural events
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -676,7 +694,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "According to the American Community Survey in 2007 (the most recent data available), there are more than 6,000 faith-based congregations in Los Angeles County, representing a membership of 2.3 million people (close to a quarter of the population). This touches every demographic sector – racial and economic – and represents a hugely powerful force in community. We estimate that virtually every Angeleno lives within walking distance of a religious institution--imagine if each of those institutions was a resource to host educational opportunities around food, sustainability, and our most pressing social issues for ALL in the neighborhood, of ANY faith? What if even a small portion of those institutions had an edible garden that grew food for the community and inspired others to do the same? The impact would be enormous, and this is the vision that Netiya wants to realize.\r\n\r\nThe Fermenting Change agenda that we plan to implement in 2016 will be the beginning of a replicable and sustainable program to engage citizens of our diverse community. From the success and lessons of 2016, we can not only host more Fermenting Change events, but inspire and train more and more participants to do meaningful volunteer work and engage in social action. We believe that with Fermenting Change we can lay the groundwork for activism that connects people across religious boundaries, cultural barriers, social class, and geography. "
-body_class: lime
+body_class: tangerine
 organization_name: Netiya
 published: true
 

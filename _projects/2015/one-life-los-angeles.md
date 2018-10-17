@@ -10,7 +10,7 @@ project_summary: >-
   the opportunity to create MOVING IMAGES about relevant SOCIAL ISSUES and
   FILMING THIER LIFE IN LOS ANGELES COUNTY
 Please specify below: ''
-category: learn
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   During the course of one year, we will produce 8 workshops sessions in all the
   corners of LA County. Each session will focus on the local community and it's
@@ -202,6 +202,24 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "IMPACT MEASURE OF THE WORKSHOP\r\n\r\nThis innovative program is designed to empower youth to express and communicate the relevance of their lives and community while teaching them the skills using visual media/arts and increase their employability by providing job skills training.\r\n\r\nThe evaluation process of the One World Workshops includes pre- and post- written surveys, each participating student is interviewed individually on camera about their entire experience and behind the scenes footage will capture the essence of the program and the candid reactions of the students.  All of these elements are used to evaluate the overall experience for the students.\r\n\r\nA total of 8 workshops in the course of one year, each workshops will involved 20/25 students, a total of 160 high school student throughout Los Angels County\t\t\r\n\r\nThe top three outcomes student will have, are on a personal level:\r\n•Strengthened interpersonal skills, ability to work in a team, enhanced creative sense.\r\n•Participants will learn to materialize their views by producing a short PSA gaining confidence in their expression. \r\n•Pre post tests will be given to document increase in: Team working skills, Communication skills, Confidence in creative expression.\r\n\t\r\n\r\nThe other measure is the on-going website and social media outcomes of the workshops, measure in total reach, screenings, community meetings and kids presentation.\r\n"
+  Where will you be working?:
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Inspire our Youth to Change the World
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Voting rates by race
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Attendance at public/open streets gatherings (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -601,7 +619,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "IMPACT MEASURE OF THE WORKSHOP\r\n\r\nThis innovative program is designed to empower youth to express and communicate the relevance of their lives and community while teaching them the skills using visual media/arts and increase their employability by providing job skills training.\r\n\r\nThe evaluation process of the One World Workshops includes pre- and post- written surveys, each participating student is interviewed individually on camera about their entire experience and behind the scenes footage will capture the essence of the program and the candid reactions of the students.  All of these elements are used to evaluate the overall experience for the students.\r\n\r\nA total of 8 workshops in the course of one year, each workshops will involved 20/25 students, a total of 160 high school student throughout Los Angels County\t\t\r\n\r\nThe top three outcomes student will have, are on a personal level:\r\n•Strengthened interpersonal skills, ability to work in a team, enhanced creative sense.\r\n•Participants will learn to materialize their views by producing a short PSA gaining confidence in their expression. \r\n•Pre post tests will be given to document increase in: Team working skills, Communication skills, Confidence in creative expression.\r\n\t\r\n\r\nThe other measure is the on-going website and social media outcomes of the workshops, measure in total reach, screenings, community meetings and kids presentation.\r\n"
-body_class: blueberry
+body_class: tangerine
 organization_name: Melrose World Cinema Centers
 published: true
 

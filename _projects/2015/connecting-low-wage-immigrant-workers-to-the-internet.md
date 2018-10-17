@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   Neighborhoods of Pico Union, Downtown, Westlake, Hollywood, North Hollywood,
   Cypress Park, Van Nuys and Wilmingotn
-category: live
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   IDEPSCA will design and implement a series of blingual English/Spanish
   trainings for low wage immigrant workers on how to use their mobile phones to
@@ -261,6 +261,33 @@ maker_answers:
     the training could include a train the trainer model, where we would train
     different cohorts to conduct mobile access trainings to various regions
     first in the state, then on the West Coast, followed by national growth. 
+  Where will you be working?:
+    - San Fernando Valley
+    - City of Los Angeles
+    - >-
+      Neighborhoods of Pico Union, Downtown, Westlake, Hollywood, North
+      Hollywood, Cypress Park, Van Nuys and Wilmingotn
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+  How will your proposal improve the following “Connect” metrics?:
+    - Median travel time to work
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located near transit)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -719,7 +746,7 @@ maker_answers_list:
       model, where we would train different cohorts to conduct mobile access
       trainings to various regions first in the state, then on the West Coast,
       followed by national growth. 
-body_class: lime
+body_class: tangerine
 organization_name: Instituto de Educacion Popular del Sur de California (IDEPSCA)
 published: true
 

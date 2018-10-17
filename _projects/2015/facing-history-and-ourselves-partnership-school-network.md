@@ -13,7 +13,7 @@ project_summary: >-
   their understanding of the origins of bigotry and hatred; and engage them in
   creating change in their communities.
 Please specify below: ''
-category: play
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Facing History instruction does not simply nurture students’ academic growth;
   it provides them with complementary skills for thriving in a diverse,
@@ -251,6 +251,36 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "The Partnership Schools Network has grown from five schools in 2009 to 17 LAUSD public and charter schools with a combined enrollment of more than 10,000 students. The organization’s goal is to expand this network to 25 partner schools by the end of the 2016-17 school year, with growth continuing beyond that level in future years.\r\n\r\nA major challenge for Facing History in growing the network is securing the monetary and staffing resources needed to meet the current demand of LAUSD schools that want to join the network. As previously described, new network schools require approximately $25,000 worth of professional development support and resources. The LA2050 grant would fully fund the activation of four new partnership schools in 2015-16. \r\n\r\nFacing History also plans to increase the visibility of the Partnership Schools Network in order to scale up, creating additional demand from non-member schools and inspiring upstanding behavior in students and adults throughout the city. The culminating event for the Partnership Schools Network each year is an Upstander Celebration in which network schools nominate students who have gone above and beyond in service of others. Two examples from last year’s celebration event exemplify the powerful example that Facing History’s Partnership Schools can provide for the LA community. Students at Watts Learning Center Charter Middle School undertook a comprehensive project that cleaned up a once blighted neighborhood street. Graduating seniors at the Academy of Medical Arts, Carson High School transformed an unused part of their school grounds into an outdoor classroom for students and community members to study plants and learn how to use container gardens to grow food. \r\n\r\nFacing History will publicize these stories through social media channels, blog posts, and newsletters in addition to seeking broadcast and print media coverage. These stories inspire others throughout LA and raise awareness of the network’s positive impact on LAUSD.\r\n\r\nThe steady success of this project has already created ripples outside of LA. The Partner School Network model is now being replicated in other regions of the country. Chicago, Cleveland, and Memphis are now either operating or about to launch school networks that will leverage best practices from the LA network’s six years of operation."
+  Where will you be working?:
+    - East LA
+    - San Fernando Valley
+    - South LA
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -653,7 +683,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "The Partnership Schools Network has grown from five schools in 2009 to 17 LAUSD public and charter schools with a combined enrollment of more than 10,000 students. The organization’s goal is to expand this network to 25 partner schools by the end of the 2016-17 school year, with growth continuing beyond that level in future years.\r\n\r\nA major challenge for Facing History in growing the network is securing the monetary and staffing resources needed to meet the current demand of LAUSD schools that want to join the network. As previously described, new network schools require approximately $25,000 worth of professional development support and resources. The LA2050 grant would fully fund the activation of four new partnership schools in 2015-16. \r\n\r\nFacing History also plans to increase the visibility of the Partnership Schools Network in order to scale up, creating additional demand from non-member schools and inspiring upstanding behavior in students and adults throughout the city. The culminating event for the Partnership Schools Network each year is an Upstander Celebration in which network schools nominate students who have gone above and beyond in service of others. Two examples from last year’s celebration event exemplify the powerful example that Facing History’s Partnership Schools can provide for the LA community. Students at Watts Learning Center Charter Middle School undertook a comprehensive project that cleaned up a once blighted neighborhood street. Graduating seniors at the Academy of Medical Arts, Carson High School transformed an unused part of their school grounds into an outdoor classroom for students and community members to study plants and learn how to use container gardens to grow food. \r\n\r\nFacing History will publicize these stories through social media channels, blog posts, and newsletters in addition to seeking broadcast and print media coverage. These stories inspire others throughout LA and raise awareness of the network’s positive impact on LAUSD.\r\n\r\nThe steady success of this project has already created ripples outside of LA. The Partner School Network model is now being replicated in other regions of the country. Chicago, Cleveland, and Memphis are now either operating or about to launch school networks that will leverage best practices from the LA network’s six years of operation."
-body_class: strawberry
+body_class: blueberry
 organization_name: 'Facing History and Ourselves, Inc'
 published: true
 

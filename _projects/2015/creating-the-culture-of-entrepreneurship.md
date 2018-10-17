@@ -11,7 +11,7 @@ project_summary: >-
   start their own firms and gives them resource to be successful, specifically
   surviving the first year in business.
 Please specify below: Chuco's Justice Center
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Culture is a powerful educational vehicle. It transmits our values, and
   ethics, and wraps us in a shared perspective about our environment. Citizens
@@ -181,6 +181,40 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Through the use and design of the web platform we will publish valuable content that is shareable and useful.\r\n\r\nThis program is a catalyst. We hope to use the grant to initiate the first year of program but to not let it end at the end of the grant. With funds from the first year helping launch the first year sales from events and exposure establishing a base for following years of the program.\r\n\r\nThrough the use of web, social media, and strategic marketing it is likely that the second year of the program could be even bigger than the first.\r\n\r\nOur goal is to reach 10,000 people in one year through event attendance and print, utilizing web and social medial to scale the impact across the web."
+  Where will you be working?:
+    - South LA
+    - Chuco's Justice Center
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Employment in the creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -590,7 +624,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Through the use and design of the web platform we will publish valuable content that is shareable and useful.\r\n\r\nThis program is a catalyst. We hope to use the grant to initiate the first year of program but to not let it end at the end of the grant. With funds from the first year helping launch the first year sales from events and exposure establishing a base for following years of the program.\r\n\r\nThrough the use of web, social media, and strategic marketing it is likely that the second year of the program could be even bigger than the first.\r\n\r\nOur goal is to reach 10,000 people in one year through event attendance and print, utilizing web and social medial to scale the impact across the web."
-body_class: blueberry
+body_class: banana
 organization_name: 'Citizens Of Culture, '
 published: true
 

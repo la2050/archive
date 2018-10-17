@@ -13,7 +13,7 @@ project_summary: >-
   media campaign to publicize MyLA311 and get neighborhoods like Koreatown, Mid
   City, South LA and East LA swept clean.
 Please specify below: ''
-category: learn
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   No one need live in a city littered with discarded TVs and electronics, white
   goods, couches, mattresses, cars and car parts. The piles of trash and
@@ -216,6 +216,37 @@ maker_answers:
     Recognize Basurero as a program worthy of your support and publicize its
     mission.
   How do you plan to scale the success of your proposal?: "Angelenos, especially those who live in Koreatown, Mid-City, South LA and East LA are tired of being dumped on. Residents of these areas are ready to see their city provide the sanitation (and other) services it promised them. Landlords and business owners, electeds and the philanthropic community is also tired of hearing the excuses about the shabby state of our streets and sidewalks. When Basurero launches and shows success, there will be calls for its expansion. Success will begat success, as residents of other underserved parts of the city see the results being achieved by citizen activists in Mid-City and elsewhere. They will call for their own illegal dumping to be picked up.\r\n\r\nBasurero is already talking to potential funders, anticipating interest in scaling the program. Good models may be largely volunteer efforts including Big Sunday and CicLAvia, which grew from more modest initiatives to what they are today. Basurero plans to engage with Big Sunday, CicLAvia and others about the lessons they learned in scaling their vision and programs. We are realistic about our scalability."
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+    - Implement and track policy
+    - >-
+      Enlist LACC or a similar organization to go door-to-door publicizing MyLA
+      311, showing residents how easy it is to use the app, and documenting the
+      extent of the problem of illegally dumped items and bulky items left on
+      the street and in empty lots.
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Live” metrics?:
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Acres and miles of polluted waterways
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -640,7 +671,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Angelenos, especially those who live in Koreatown, Mid-City, South LA and East LA are tired of being dumped on. Residents of these areas are ready to see their city provide the sanitation (and other) services it promised them. Landlords and business owners, electeds and the philanthropic community is also tired of hearing the excuses about the shabby state of our streets and sidewalks. When Basurero launches and shows success, there will be calls for its expansion. Success will begat success, as residents of other underserved parts of the city see the results being achieved by citizen activists in Mid-City and elsewhere. They will call for their own illegal dumping to be picked up.\r\n\r\nBasurero is already talking to potential funders, anticipating interest in scaling the program. Good models may be largely volunteer efforts including Big Sunday and CicLAvia, which grew from more modest initiatives to what they are today. Basurero plans to engage with Big Sunday, CicLAvia and others about the lessons they learned in scaling their vision and programs. We are realistic about our scalability."
-body_class: blueberry
+body_class: lime
 organization_name: El Basurero
 published: true
 

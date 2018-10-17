@@ -11,7 +11,7 @@ project_summary: >-
   recommendations on deterring crime and fostering public safety and community
   policing from the perspective of the youth in our communities.
 Please specify below: Los Angeles Police Department
-category: none
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Today the youth are constantly dealing with the issues of police violence,
   narcotics, bullying and neighborhood gangs in real life and through social
@@ -183,6 +183,26 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Increased community engagement and support and participation in youth programs. \r\n"
+  Where will you be working?:
+    - South LA
+    - City of Los Angeles
+    - LAUSD
+    - Los Angeles Police Department
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -605,7 +625,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Increased community engagement and support and participation in youth programs. \r\n"
-body_class: strawberry
+body_class: tangerine
 organization_name: LAPD Southwest Business Booster Association Inc.
 published: true
 

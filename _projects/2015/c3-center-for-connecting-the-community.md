@@ -15,7 +15,7 @@ project_summary: >-
 Please specify below: >-
   Primary center will be located in County District 4, but satellite services
   will be provided at school and community sites throughout the County.
-category: 0createplay0
+category: connect
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Dedicated to education, enrichment, and entertainment, Culture Shock LA plans
   to open an arts-based Center for Connecting the Community (C3) providing
@@ -223,6 +223,34 @@ maker_answers:
     multi-generational programs that entertain, enrich, and educate, the
     individual classes and services can be tailored to meet the specific needs
     of the communities in which new centers may open.
+  Where will you be working?:
+    - South Bay
+    - City of Los Angeles
+    - LAUSD
+    - >-
+      Primary center will be located in County District 4, but satellite
+      services will be provided at school and community sites throughout the
+      County.
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of local social media friends and connections (Dream Metric)
+    - Residential segregation (Dream Metric)
+    - Access to free wifi (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -658,7 +686,7 @@ maker_answers_list:
       multi-generational programs that entertain, enrich, and educate, the
       individual classes and services can be tailored to meet the specific needs
       of the communities in which new centers may open.
-body_class: strawberry
+body_class: tangerine
 organization_name: Culture Shock Los Angeles
 published: true
 

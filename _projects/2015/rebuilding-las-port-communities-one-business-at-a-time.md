@@ -13,7 +13,7 @@ project_summary: >-
   investors, industry and civic leaders, students and researchers to explore new
   technologies and connect with innovators.
 Please specify below: Harbor area communities surrounding the Ports of Los Angeles and Long Beach
-category: learn
+category: create
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
 Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
 Please explain how you will evaluate your work.: '#N/A'
@@ -126,6 +126,35 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "In the past three years, PortTech has continuously improved and expanded the Pitch program to reach more entrepreneurs, provide better and more in-depth coaching to the entrepreneurs, and attract the right audience to hear the presentations and attend the EXPO. \r\n\r\nWe can scale the program’s success in the following ways:\r\n\r\n•\tIncrease the number of entrepreneur applicants \r\n    o\tExpand outreach globally using more remote video coaching sessions and presentations\r\n    o\tBroaden applicant focus to include more digital entrepreneurs focused in the transportation and goods movement sector\r\n    o\tIncrease collaborative efforts with organizations such as Cleantech Open and Ocean Exchange to provide an opportunity for entrepreneurs to participate in multiple competitions\r\n\t\r\n•\tIncrease the number of attendees (at events and virtually)\r\n    o\tLeverage our network of incubators, universities and industry professionals to attract more attendees, particularly those outside of the LA area\r\n    o\tBuild relationships beyond Southern California, first along the West Coast and then nationally and internationally to attract a broader geographical audience\r\n\r\n•\tExpand student participation in the Pitch program\r\n    o\tLeverage the video webcast to expand outreach to schools in the greater Los Angeles area to increase student viewing of entrepreneur pitches\r\n    o\tWork with additional partners to introduce the entrepreneurial development process to high school students\r\n    o\tExpand the Pitch program to include a student entrepreneur pitch competition"
+  Where will you be working?:
+    - >-
+      Harbor area communities surrounding the Ports of Los Angeles and Long
+      Beach
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Expand a pilot or a program
+    - Inspire the next generation of entrepreneurs
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Create” metrics?:
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Patents per capital
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -546,7 +575,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "In the past three years, PortTech has continuously improved and expanded the Pitch program to reach more entrepreneurs, provide better and more in-depth coaching to the entrepreneurs, and attract the right audience to hear the presentations and attend the EXPO. \r\n\r\nWe can scale the program’s success in the following ways:\r\n\r\n•\tIncrease the number of entrepreneur applicants \r\n    o\tExpand outreach globally using more remote video coaching sessions and presentations\r\n    o\tBroaden applicant focus to include more digital entrepreneurs focused in the transportation and goods movement sector\r\n    o\tIncrease collaborative efforts with organizations such as Cleantech Open and Ocean Exchange to provide an opportunity for entrepreneurs to participate in multiple competitions\r\n\t\r\n•\tIncrease the number of attendees (at events and virtually)\r\n    o\tLeverage our network of incubators, universities and industry professionals to attract more attendees, particularly those outside of the LA area\r\n    o\tBuild relationships beyond Southern California, first along the West Coast and then nationally and internationally to attract a broader geographical audience\r\n\r\n•\tExpand student participation in the Pitch program\r\n    o\tLeverage the video webcast to expand outreach to schools in the greater Los Angeles area to increase student viewing of entrepreneur pitches\r\n    o\tWork with additional partners to introduce the entrepreneurial development process to high school students\r\n    o\tExpand the Pitch program to include a student entrepreneur pitch competition"
-body_class: blueberry
+body_class: banana
 organization_name: >-
   PortTech Los Angeles, International Trade Education Programs (ITEP), Port of
   Los Angeles High School (POLAHS)

@@ -11,7 +11,7 @@ project_summary: >-
   into the community with pop-up preschools, place based learning, and community
   run co-ops. 
 Please specify below: ''
-category: play
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   We all know that creating access to high quality, early learning experiences
   for low-income children is one of the most pressing social justice issues of
@@ -271,6 +271,16 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "PWW has a bold vision to bring quality early learning experiences to every child in FFN care throughout Los Angeles County closing a critical service gap in the Los Angeles early learning system. Beyond the LA 2050 expansion site, we will achieve this bold vision by leveraging existing public systems and advocating for systems to bring learning out of the classroom and into the community. \r\nSBCC’s role as a strategic community engagement partner to First Five LA’s Best Start programs creates an opportunity for PWW to offer our place based learning model in the Best Start Communities. Created in 1998 to invest LA County’s allocation of funds from California’s Proposition 10 tobacco tax, First 5 LA is a leading early childhood advocate working collaboratively across LA County.  In 2011, First Five LA created a place based strategy called Best Start working in 14 vulnerable communities across LA County.  SBCC is a funded strategic community engagement partner in 13 Best Start communities operating 100 community action groups with over 1,500 residents.   This strategic partnership with First 5 LA Best Start will be an asset in expanding PWW programs throughout LA County.  \r\nSecond, SBCC will partner with other community-based organizations to work in locations outside of the 14 Best Start locations. There are hundreds of community based non-profits throughout Los Angeles County that have deep relationships with the population of families that utilizes FFN care. Moreover, many of these non-profits have a mission to support families. PWW provides these CBO's with a cost effective model to strengthen early outcomes within these communities. PWW will partner with these CBOs to provide technical assistance and support implementation. Finally, in addition to expanding on the ground programming, PWW will work with the LA County and city library system to remove barriers to “early childhood library learning” and leverage opportunities to enhance libraries as early learning centers for all children and partner with the LA County and city parks system to support “preschools in the park” bringing the best practices of place based learning to every city in LA County."
+  Where will you be working?:
+    - County of Los Angeles
+  How do you plan to use these resources to make change?: []
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -686,7 +696,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "PWW has a bold vision to bring quality early learning experiences to every child in FFN care throughout Los Angeles County closing a critical service gap in the Los Angeles early learning system. Beyond the LA 2050 expansion site, we will achieve this bold vision by leveraging existing public systems and advocating for systems to bring learning out of the classroom and into the community. \r\nSBCC’s role as a strategic community engagement partner to First Five LA’s Best Start programs creates an opportunity for PWW to offer our place based learning model in the Best Start Communities. Created in 1998 to invest LA County’s allocation of funds from California’s Proposition 10 tobacco tax, First 5 LA is a leading early childhood advocate working collaboratively across LA County.  In 2011, First Five LA created a place based strategy called Best Start working in 14 vulnerable communities across LA County.  SBCC is a funded strategic community engagement partner in 13 Best Start communities operating 100 community action groups with over 1,500 residents.   This strategic partnership with First 5 LA Best Start will be an asset in expanding PWW programs throughout LA County.  \r\nSecond, SBCC will partner with other community-based organizations to work in locations outside of the 14 Best Start locations. There are hundreds of community based non-profits throughout Los Angeles County that have deep relationships with the population of families that utilizes FFN care. Moreover, many of these non-profits have a mission to support families. PWW provides these CBO's with a cost effective model to strengthen early outcomes within these communities. PWW will partner with these CBOs to provide technical assistance and support implementation. Finally, in addition to expanding on the ground programming, PWW will work with the LA County and city library system to remove barriers to “early childhood library learning” and leverage opportunities to enhance libraries as early learning centers for all children and partner with the LA County and city parks system to support “preschools in the park” bringing the best practices of place based learning to every city in LA County."
-body_class: strawberry
+body_class: blueberry
 organization_name: SBCC Thrive LA
 published: true
 

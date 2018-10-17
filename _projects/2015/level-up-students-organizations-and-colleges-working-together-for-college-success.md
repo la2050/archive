@@ -122,6 +122,30 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "As a network of multiple organizations that serve thousands of students, SoCal CAN always has scaling at the front of our mind. For six years, we have been evaluating and enhancing our program model, with an eye toward scalability and cost effectiveness. We believe our model has solidified to the point that we are ready to scale. In fact, this proposal is our plan to scale the success of our model.   \r\n\r\nMoreover, we see the scaling of this proposal as integral to the idea’s success. In order for our idea to take flight, we must leverage the success of our collaboration and our partnerships to add more partnerships. Each successful collaboration will add entry points for other collaborators. "
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - District-wide graduation ratesCollege matriculation rates
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

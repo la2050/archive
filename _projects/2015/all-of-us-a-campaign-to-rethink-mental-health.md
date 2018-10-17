@@ -6,7 +6,7 @@ areas_impacted: ''
 partners: ''
 project_summary: "Conducting a much-needed conference to educate LA about mental health, advocate for expansion of mental health services, and spread awareness to pave the way for enacting legislative change to support individuals dealing with mental health issues. \r\nA series of small projects to change the perception of mental health issues, and to expand the scope of our campaign will precede the conference.\r\n"
 Please specify below: ''
-category: all
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The word ‘health’ comprises various components of well-being—a major one being
   psychological well-being. For LA to be the healthiest place to live, its
@@ -177,6 +177,36 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We will use the success of our conference to recruit more volunteers, partner with more organizations with similar objectives, to expand our 2016 conference, our campaign, and the space for dialogue that we hope to create. The bigger the space, the greater the dialogue, and the greater the dialogue, the greater will be the awareness. Hence, when it comes to the scale of our Conference, the sky is the limit.\r\nWe will build and sustain a robust communication effort around our conference through direct marketing (at UCLA), social media and our newsletters, to keep participants engaged in our work, as well as to reach out to as many people as possible. We intend to use pictures, videos and anecdotes from our conference and the rest of our campaign endeavors to display the kind of work that we do throughout the year, and we expect a large increase in our ‘following’ on our Facebook page, Instagram, email lists and twitter this year, helping us to reach out to a larger audience.\r\nThe success of our 2015 Conference will also help us expand our network of contacts that we can use for inviting keynote speakers, conducting workshops and collaborating with experienced organizations in 2016. This in turn will allow us to conduct larger conferences with better resources in the years forward.\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - County of Los Angeles
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Healthcare access
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -571,7 +601,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We will use the success of our conference to recruit more volunteers, partner with more organizations with similar objectives, to expand our 2016 conference, our campaign, and the space for dialogue that we hope to create. The bigger the space, the greater the dialogue, and the greater the dialogue, the greater will be the awareness. Hence, when it comes to the scale of our Conference, the sky is the limit.\r\nWe will build and sustain a robust communication effort around our conference through direct marketing (at UCLA), social media and our newsletters, to keep participants engaged in our work, as well as to reach out to as many people as possible. We intend to use pictures, videos and anecdotes from our conference and the rest of our campaign endeavors to display the kind of work that we do throughout the year, and we expect a large increase in our ‘following’ on our Facebook page, Instagram, email lists and twitter this year, helping us to reach out to a larger audience.\r\nThe success of our 2015 Conference will also help us expand our network of contacts that we can use for inviting keynote speakers, conducting workshops and collaborating with experienced organizations in 2016. This in turn will allow us to conduct larger conferences with better resources in the years forward.\r\n"
-body_class: strawberry
+body_class: lime
 organization_name: USAC Office of the President and USAC Student Wellness Commission at UCLA
 published: true
 

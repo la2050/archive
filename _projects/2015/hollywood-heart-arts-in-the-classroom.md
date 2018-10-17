@@ -12,7 +12,7 @@ project_summary: >-
   seek funding to sustain our program at LA High School and to launch new
   partnerships; potential candidates include Fairfax and Venice High Schools.
 Please specify below: ''
-category: 0create0live
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Hollywood HEART is dedicated to building the best future for our young people,
   regardless of the challenges they face. If our city is to thrive in 2050, we
@@ -231,6 +231,36 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Hollywood HEART’s proposal is in fact the first stage for scaling our Integrated Arts Program by introducing it to two new schools. We have recently launched a major fundraising campaign to increase our school-based programming which complements this effort. We are expanding our partnerships with the entertainment industry to increase both financial support for our programs and mentoring and internship opportunities for our students. We do not envision going beyond three high schools at this time. Goals for the future include the addition of professional development for classroom teachers to institutionalize the integration of the arts into school curricula. We also anticipate extending the program to build a pathway for students into community and four-year colleges.\r\n \r\nThere is extensive research supporting both the need and the potential impact for college-based programs. Recent studies have highlighted the fact that while the high school graduation rates for low-income and at-risk youth are improving, and more of these students are entering college, the college graduation rates for low-income students has remained essentially unchanged since 1970 at a dismal 20%. Studies have long supported the link between a sustained engagement in the arts and improved academic achievement and graduation rates at the high school level. Hollywood HEART proposes that we take advantage of this fact to improve college outcomes as well.\r\n \r\nHollywood HEART is currently reaching out to community colleges who have targeted programs for first generation and low-income students to provide encouragement and support for our students who wish to continue working in art-related fields. We are also in preliminary discussions with a four-year college who has expressed an interest in launching a similar effort. Our initial programming will target students interested in career opportunities for “below the line” positions in film and television which aligns not only with our film and digital media workshops but also our culinary arts and fashion programs which translate easily to catering and costuming careers."
+  Where will you be working?:
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -644,7 +674,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "Hollywood HEART’s proposal is in fact the first stage for scaling our Integrated Arts Program by introducing it to two new schools. We have recently launched a major fundraising campaign to increase our school-based programming which complements this effort. We are expanding our partnerships with the entertainment industry to increase both financial support for our programs and mentoring and internship opportunities for our students. We do not envision going beyond three high schools at this time. Goals for the future include the addition of professional development for classroom teachers to institutionalize the integration of the arts into school curricula. We also anticipate extending the program to build a pathway for students into community and four-year colleges.\r\n \r\nThere is extensive research supporting both the need and the potential impact for college-based programs. Recent studies have highlighted the fact that while the high school graduation rates for low-income and at-risk youth are improving, and more of these students are entering college, the college graduation rates for low-income students has remained essentially unchanged since 1970 at a dismal 20%. Studies have long supported the link between a sustained engagement in the arts and improved academic achievement and graduation rates at the high school level. Hollywood HEART proposes that we take advantage of this fact to improve college outcomes as well.\r\n \r\nHollywood HEART is currently reaching out to community colleges who have targeted programs for first generation and low-income students to provide encouragement and support for our students who wish to continue working in art-related fields. We are also in preliminary discussions with a four-year college who has expressed an interest in launching a similar effort. Our initial programming will target students interested in career opportunities for “below the line” positions in film and television which aligns not only with our film and digital media workshops but also our culinary arts and fashion programs which translate easily to catering and costuming careers."
-body_class: strawberry
+body_class: blueberry
 organization_name: Hollywood HEART
 published: true
 

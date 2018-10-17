@@ -12,7 +12,7 @@ project_summary: >-
   solar panels on newly laid cool roofs. With your help, this innovative LA
   program can become a model for the nation.
 Please specify below: ''
-category: create
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Climate Ready Roofs is developing a replicable model that demonstrates how our
   city can become more resilient – even thrive – despite a warmer future. With
@@ -264,6 +264,28 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "We see this initial project as highly scalable. This is a unique program that helps low-income people be part of the clean energy revolution.\r\n\r\nClimate Ready Roofs is an effective, even obvious, way for the State of California to meet its ambitious goal of cutting electricity use in half in existing buildings by the year 2030. As such, we anticipate California looking to proven models on how buildings can dramatically reduce energy and provide other benefits, such as aiding resilience to warmer temperatures.\r\n\r\nLA 2050’s support of Climate Ready Roofs would develop the model. The scale-up could be funded by either the Greenhouse Gas Reduction Fund or via utility rates.\r\n\r\nThe Climate Ready Roofs model is exciting because it provides so many benefits at a low cost. If scaled-up, the cost of labor will remain low. There are 49 Habitat for Humanity affiliates in California and more than 1,400 throughout the United States. In addition, there are 7 GRID Alternatives affiliates in California and 10 throughout the country.   Moreover, the cost of photovoltaic modules is at an all-time low and is expected to come down further. Funding from the PUC will continue to help pay for low income families to receive solar power through at least 2021. Last, the cost of cool roofs will remain low, thanks to LA City’s aforementioned incentive program, which we hope to expand to the county level. Because Investor Owned Utilities (IOU) need to reach 10% reduction in projected load targets via energy efficiency by 2020, utilities have been given permission to pass these costs on to ratepayers – therefore, we can anticipate more support from IOUs. Indeed, if new countywide mandates on cool roofs take hold, similar to what’s in place in the city of LA, the sheer volume of new “cool” roofing materials would help drive down the price.\r\n"
+  Where will you be working?:
+    - County of Los Angeles
+    - City of Los Angeles
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency index
+    - Housing affordability
+    - Rates of homelessness
+    - Percentage of LA communities that are resilient (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -705,7 +727,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "We see this initial project as highly scalable. This is a unique program that helps low-income people be part of the clean energy revolution.\r\n\r\nClimate Ready Roofs is an effective, even obvious, way for the State of California to meet its ambitious goal of cutting electricity use in half in existing buildings by the year 2030. As such, we anticipate California looking to proven models on how buildings can dramatically reduce energy and provide other benefits, such as aiding resilience to warmer temperatures.\r\n\r\nLA 2050’s support of Climate Ready Roofs would develop the model. The scale-up could be funded by either the Greenhouse Gas Reduction Fund or via utility rates.\r\n\r\nThe Climate Ready Roofs model is exciting because it provides so many benefits at a low cost. If scaled-up, the cost of labor will remain low. There are 49 Habitat for Humanity affiliates in California and more than 1,400 throughout the United States. In addition, there are 7 GRID Alternatives affiliates in California and 10 throughout the country.   Moreover, the cost of photovoltaic modules is at an all-time low and is expected to come down further. Funding from the PUC will continue to help pay for low income families to receive solar power through at least 2021. Last, the cost of cool roofs will remain low, thanks to LA City’s aforementioned incentive program, which we hope to expand to the county level. Because Investor Owned Utilities (IOU) need to reach 10% reduction in projected load targets via energy efficiency by 2020, utilities have been given permission to pass these costs on to ratepayers – therefore, we can anticipate more support from IOUs. Indeed, if new countywide mandates on cool roofs take hold, similar to what’s in place in the city of LA, the sheer volume of new “cool” roofing materials would help drive down the price.\r\n"
-body_class: banana
+body_class: lime
 organization_name: Climate Resolve
 published: true
 

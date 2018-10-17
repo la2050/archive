@@ -10,7 +10,7 @@ project_summary: >-
   will not only capture stormwater before it enters the ocean and provide much
   needed tree shade, but will create beautiful green parkways in Watts.  
 Please specify below: ''
-category: play
+category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   The Watts Rain Gardens project is a multi-benefit environmental and
   revitalization project that will create 10000 sq ft of pervious surface that
@@ -204,6 +204,25 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: By replicating this project in similar communities!
+  Where will you be working?:
+    - South LA
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Mobilize for systems change
+    - Advocate with policymakers and leaders
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Network/relationship support
+  How will your proposal improve the following “Live” metrics?:
+    - Exposure to air toxins
+    - Percent of imported water
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Percentage of tree canopy cover (Dream Metric)
 maker_answers_list:
   - name: How did you hear about this challenge?
     label: How did you hear about this challenge?
@@ -619,7 +638,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: By replicating this project in similar communities!
-body_class: strawberry
+body_class: lime
 organization_name: From Lot to Spot
 published: true
 

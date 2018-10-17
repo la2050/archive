@@ -276,6 +276,21 @@ maker_answers:
     sessions we can offer to students from 2 sessions to 4 sessions.  We would
     want to keep each session at 30 students, as that is a manageable number of
     students to service in one session.  
+  Where will you be working?:
+    - City of Los Angeles
+    - 'Southeast L.A. County, including Whittier, Santa Fe Springs, Pico Rivera'
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

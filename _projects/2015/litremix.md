@@ -234,6 +234,32 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "Specific to our strategy and tactical plans for expansion, LitRemix will grow and scale based on how we plot out our expansion city-by-city.  As stated earlier, our pilot schools – both HS and College will be our focus for the first 4-month pilot. With the feedback from these groups, we will take on more territories within LA and more sister-cities.  We’ll expand out to Baldwin Hills, Culver City, Silver Lake, and the Valley. We also have teachers in San Francisco, Kansas, Arkansas, Florida and Chicago standing by. \r\n\r\nStudents in Venice High School reading “The Odyssey” might be given the chance to collaborate on a music video with students who live in Detroit.  Also, a teacher in Florida sharing a teaching tip on how to include of particular work of art about The Odyssey into a lesson-flow, might be considering art created by a student from Westchester. This not only scales the variety of art – but expands the network’s ability to show differing perspectives – diversity of thought.  Because our site is bi-lingual for Spanish speakers, we also hope to be expanding into Spanish-speaking populations within Los Angeles and sister cities. \r\n\r\nThe expansion of LitRemix is critical to its impact on each learner who participates in the network. The more books we integrate – with more calls for submissions for the art they inspire – the more powerful the LitRemix experience will be.  Equally important are the increasing members of teachers who can contribute to the pedagogical direction of the platform.  Teaching tips and lesson plans will be crowd-sourced, with partnerships with organizations like Graphite.org – a Common Sense Media community.  We believe that as LitRemix scales and expands, student buzz and engagement around reading books will take on a new, enthusiastic vibe.\r\n\r\nWhile we scale our product over time, we will also focus on keeping it accessible to all students. Access to browse the platform will always be free. To fully participate, create a profile, exchange creative files – these activities will require log-in, which comes with premium access.  This keeps the network safe, and enables us to curate the art as it comes in.  Premium access to the network will be granted at the individual, group and district-wide levels, with associated fees subject to each context.\r\n\r\nThe LitRemix vision is a fantastic mash-up of music, videos, and visual art from all over the world –celebrating some of the greatest works of both classic and modern literature. "
+  Where will you be working?:
+    - Westside
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How will your proposal improve the following “Learn” metrics?:
+    - >-
+      Percent of community college students completing a certificate, degree, or
+      transfer-related program in six years
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'

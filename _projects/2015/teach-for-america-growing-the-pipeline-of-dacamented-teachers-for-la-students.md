@@ -12,7 +12,7 @@ project_summary: >-
   DACAmented corps members have the unique potential to serve as role models for
   students who share the same background.
 Please specify below: ''
-category: 0createplaylive
+category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Los Angeles must deliver on the promise of an excellent education for all,
   including our immigrant children. Los Angeles County has the highest number of
@@ -217,6 +217,39 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How do you plan to scale the success of your proposal?: "In order to scale this project, we will need to deepen partnerships with key organizations both on college campuses and in the broader Los Angeles community to work together to recruit more DACAmented teachers by 1) expanding the pipeline and ensuring more eligible undocumented leaders are applying for deferred action and 2) cultivating more DACAmented college students and professionals to see the need for teachers with their background and apply to join the Teach For America Los Angeles corps. \r\nAdditionally, we hope to expand the training and professional development we aim to provide for our corps members (first and second year teachers) around issues facing undocumented students to our large Teach For America LA alumni base including the nearly 700 teachers and over 70 principals currently working in LA area schools. \r\n\r\nLastly, we see an opportunity to engage with other community service (such as other Americorps initiatives) and/or teaching pipeline programs to discuss how to collectively work to recruit from an expanded pool of DACAmented students and professionals to join the teaching profession.\r\n"
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Fernando Valley
+    - South LA
+    - City of Los Angeles
+    - LAUSD
+  How do you plan to use these resources to make change?:
+    - Implement a pilot or new project
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Network/relationship support
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      District-wide graduation ratesHS student proficiency in English & Language
+      Arts and Math
+    - District-wide graduation ratesAcademic Performance Index* scores
+    - District-wide graduation ratesCollege matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher ed
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle schools (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
 maker_answers_list:
   - name: 'City, State'
     label: 'City, State'
@@ -622,7 +655,7 @@ maker_answers_list:
     label: ''
     explanation: ''
     answer: "In order to scale this project, we will need to deepen partnerships with key organizations both on college campuses and in the broader Los Angeles community to work together to recruit more DACAmented teachers by 1) expanding the pipeline and ensuring more eligible undocumented leaders are applying for deferred action and 2) cultivating more DACAmented college students and professionals to see the need for teachers with their background and apply to join the Teach For America Los Angeles corps. \r\nAdditionally, we hope to expand the training and professional development we aim to provide for our corps members (first and second year teachers) around issues facing undocumented students to our large Teach For America LA alumni base including the nearly 700 teachers and over 70 principals currently working in LA area schools. \r\n\r\nLastly, we see an opportunity to engage with other community service (such as other Americorps initiatives) and/or teaching pipeline programs to discuss how to collectively work to recruit from an expanded pool of DACAmented students and professionals to join the teaching profession.\r\n"
-body_class: strawberry
+body_class: blueberry
 organization_name: Teach For America
 published: true
 
