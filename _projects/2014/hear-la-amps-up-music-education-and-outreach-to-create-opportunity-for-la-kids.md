@@ -170,6 +170,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    HEAR LA gives students hands on experience with various software and music applications but also teaches them about teamwork, handling critiques and turning criticism into a positive. Every student will have the chance to be a leader and also to be a follower. By being a part of a global network, students will realize how big and how small the world is. They will get the chance to forge friendships across the global and bring new awareness to what is happening in those areas. HearMe plans to reach out to war torn countries and bring hope to children across the globe. Our LA students could be companions in peace and global unity and understanding.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/hear-la-amps-up-music-education-and-outreach-to-create-opportunity-for-la-kids/img.youtube.com/vi/Vda4r42ouZQ/maxresdefault.jpg
 youtube_video_identifier: Vda4r42ouZQ
 
 ---

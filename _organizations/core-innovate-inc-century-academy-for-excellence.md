@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102115'
+cached_project_image: >-
+  /assets/images/organizations/core-innovate-inc-century-academy-for-excellence/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
 
 ---

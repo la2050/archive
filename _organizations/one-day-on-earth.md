@@ -81,5 +81,7 @@ aggregated:
   project_ids:
     - '3102209'
 youtube_video_identifier: YCMb5z0EVGw
+cached_project_image: >-
+  /assets/images/organizations/one-day-on-earth/img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg
 
 ---

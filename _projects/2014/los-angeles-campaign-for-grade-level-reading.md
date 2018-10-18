@@ -197,6 +197,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Clear Expectations: Partner roles are clearly defined to maximize efficiency and establish accountability to ensure all goals are met.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/los-angeles-campaign-for-grade-level-reading/img.youtube.com/vi/C1uVBoRtQ74/hqdefault.jpg
 youtube_video_identifier: C1uVBoRtQ74
 
 ---

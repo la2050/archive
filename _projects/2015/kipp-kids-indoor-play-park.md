@@ -307,6 +307,8 @@ How do you plan to scale the success of your proposal?: >-
   preschool programs. Additionally, KIPP will fulfill the need for programming
   for babies, infants, and toddlers that the City of LA does not currently
   provide.
+cached_project_image: >-
+  /assets/images/projects/2015/kipp-kids-indoor-play-park/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23235%252Fdisplay%252Fplay.jpg=c570x385.jpg
 maker_image_id: '23235'
 maker_image_file_name: play.jpg
 organization_name: City of Los Angeles Department of Recreation and Parks

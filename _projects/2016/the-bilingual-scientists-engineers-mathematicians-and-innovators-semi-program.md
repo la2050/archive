@@ -117,6 +117,8 @@ project_proposal_best_place: >-
   coaching and technical assistance on how to conduct projects and experiments
   in the classroom setting. The program is unique in that is designed to dispel
   negative stereotypes about scientists (e.g., eccentric, isolated).
+cached_project_image: >-
+  /assets/images/projects/2016/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 organization_name: Patrick Henry Foundation
 organization_website: www.patrickhenryfoundation.org
 

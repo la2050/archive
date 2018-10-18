@@ -305,6 +305,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   offerings at both traditional venues (e.g. museums) and nontraditional venues
   (e.g. your local cafÃ© or Laundromat). Overall, we will uphold the positive
   economic impact of these activities within our greater Los Angeles. 
+cached_project_image: >-
+  /assets/images/projects/2013/the-big-draw-la/img.youtube.com/vi/eymCS9sh288/maxresdefault.jpg
 youtube_video_identifier: eymCS9sh288
 
 ---

@@ -175,6 +175,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    All confirmed.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/ignite-teaching/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20940%252Fdisplay%252Fla2050.png=c570x385.png
 maker_image_id: '20940'
 maker_image_file_name: la2050.png
 

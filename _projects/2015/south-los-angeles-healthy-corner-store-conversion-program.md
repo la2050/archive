@@ -293,6 +293,8 @@ How do you plan to scale the success of your proposal?: >-
   CB aims to implement lessons learned, through evaluation and knowledge sharing
   among corner store and partners, and secure additional funding for successful
   scaling.
+cached_project_image: >-
+  /assets/images/projects/2015/south-los-angeles-healthy-corner-store-conversion-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385.jpg
 maker_image_id: '23775'
 maker_image_file_name: CB_Logo.jpg
 organization_name: Children's Bureau of Southern California

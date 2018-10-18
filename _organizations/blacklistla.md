@@ -40,5 +40,7 @@ aggregated:
   project_ids:
     - '6102019'
     - '5102029'
+cached_project_image: >-
+  /assets/images/organizations/blacklistla/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 
 ---

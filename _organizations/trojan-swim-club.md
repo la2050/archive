@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '5102323'
 youtube_video_identifier: SdL6NXZskjo
+cached_project_image: >-
+  /assets/images/organizations/trojan-swim-club/img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg
 
 ---

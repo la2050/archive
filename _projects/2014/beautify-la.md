@@ -182,6 +182,8 @@ Whom will your project benefit? Please be specific.: >-
    Charles Drew Middle School (volunteers).
    
    When funding is secured all collaborators will be confirmed.
+cached_project_image: >-
+  /assets/images/projects/2014/beautify-la/img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg
 youtube_video_identifier: I-2fvjBviRI
 
 ---

@@ -4,13 +4,14 @@
   "description": "",
   "author": "jim@jimthoburn.com",
   "scripts": {
-    "projects:create":      "node --max-old-space-size=4096 ./generate/create-projects.js",
-    "projects:update":      "node --max-old-space-size=4096 ./generate/update-projects.js",
+    "projects:create": "node --max-old-space-size=4096 ./generate/create-projects.js",
+    "projects:update": "node --max-old-space-size=4096 ./generate/update-projects.js",
     "organizations:create": "node --max-old-space-size=4096 ./generate/create-organizations.js",
     "organizations:update": "node --max-old-space-size=4096 ./generate/update-organizations.js",
-    "not in use markdown:to-csv": "node ./generate/markdown-to-csv.js",
+    "images:download": "node ./generate/download-images.js",
     "not in use images:create": "gulp",
-    "not in use images:copy": "node ./generate/copy-images.js"
+    "not in use images:copy": "node ./generate/copy-images.js",
+    "not in use markdown:to-csv": "node ./generate/markdown-to-csv.js"
   },
   "devDependencies": {
     "concurrent-transform": "^1.0.0",
@@ -19,6 +20,7 @@
     "gulp": "^3.9.1",
     "gulp-image-resize": "^0.12.0",
     "gulp-imageoptim": "^1.0.9",
-    "js-yaml": "^3.10.0"
+    "js-yaml": "^3.10.0",
+    "node-fetch": "^2.2.0"
   }
 }

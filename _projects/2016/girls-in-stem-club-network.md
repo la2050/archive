@@ -133,6 +133,8 @@ project_proposal_best_place: >-
   skills will grow and continue into the future. Those graduates who have
   practical and relevant STEM precepts embedded into their educational
   experiences will be in high demand in all job sectors.
+cached_project_image: >-
+  /assets/images/projects/2016/girls-in-stem-club-network/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4330354165741-team91.jpg
 organization_name: Girls Inc. of Greater Los Angeles
 organization_website: girlsincla.org
 

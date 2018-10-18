@@ -197,6 +197,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Our values are specific about supporting collaboration. We deliberately created a partnership program that supported sustainability focused NGO's. 
    Further, our Advisory Council includes business, science, educators and sustainability leaders who foster our collaborations. Here is a partial list of organizations we collaborate with: UCLA, UCSD Scripps, NOAA, University of Denver Daniels School of Business, University of the Sunshine Coast AU. New collaborations include ConnectD, Asia Pacific Clean Energy Summit and Expo, Oregon BEST FEST, Ideascape, Inc., Mayor's Office LA.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/artists-for-sustainability-hub/img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg
 youtube_video_identifier: usGtj9dvrhA
 
 ---

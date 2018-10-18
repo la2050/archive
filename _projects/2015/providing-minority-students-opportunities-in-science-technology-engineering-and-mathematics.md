@@ -294,6 +294,8 @@ How do you plan to scale the success of your proposal?: >-
   those data. GMSS would also like to create an innovative technology and
   robotics Lab aimed at providing students with the breadth of knowledge that is
   required for specialization in STEM fields.
+cached_project_image: >-
+  /assets/images/projects/2015/providing-minority-students-opportunities-in-science-technology-engineering-and-mathematics/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23564%252Fdisplay%252FIMG_9595_(5).jpg=c570x385.jpg
 maker_image_id: '23564'
 maker_image_file_name: IMG_9595_(5).jpg
 organization_name: 'Great Minds STEM Society '

@@ -220,6 +220,8 @@ How do you plan to scale the success of your proposal?: >-
   to see a huge public participation in the public comment period for the
   USCAE's plan. We also want build enough capacity at our nursery to provide
   regionally adapted native plants for restoration.
+cached_project_image: >-
+  /assets/images/projects/2015/bring-back-the-river-restoring-the-los-angeles-river-watershed/img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg
 youtube_video_identifier: ffK1mzyzUPE
 organization_name: Arroyo Seco Foundation
 

@@ -38,5 +38,7 @@ aggregated:
   project_ids:
     - '8102101'
     - '6102194'
+cached_project_image: >-
+  /assets/images/organizations/red-hen-press/activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg
 
 ---

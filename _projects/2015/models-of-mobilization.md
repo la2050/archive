@@ -300,6 +300,8 @@ How do you plan to scale the success of your proposal?: >-
    Scaling efforts will combine the data and models produced by this project with our “success formula” which multiplies the following: (a) Educating and engaging people with nature-based solutions (landscape transformation, rainwater capture, etc); (b) Developing and implementing communications tools and strategies to mobilize a critical mass; (c) Creating partnerships at the community and systemic levels for better urban ecosystem management; (d) Drive policy changes that promote green infrastructure at all government levels. 
    
    Much of TreePeople’s community-based work is focused on environmental justice areas, where pollution is high, eco-assets are low, and socioeconomic challenges are immense. When people think of human rights, they often think of civil liberties, workplace protections, and the right to happiness. Trees and water aren’t what usually come to mind. But it is trees and water – and their many benefits – that have a tremendous impact on wellness and health. Bringing people together for community projects that raise the environmental assets makes neighborhoods cleaner, healthier, and more livable.
+cached_project_image: >-
+  /assets/images/projects/2015/models-of-mobilization/img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg
 youtube_video_identifier: r9LtyQwYAks
 organization_name: TreePeople
 

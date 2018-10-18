@@ -44,5 +44,7 @@ aggregated:
     - '6102173'
     - '4102236'
     - '3102212'
+cached_project_image: >-
+  /assets/images/organizations/pacoima-beautiful/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
 
 ---

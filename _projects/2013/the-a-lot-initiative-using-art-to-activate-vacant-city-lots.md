@@ -164,6 +164,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   experience art there, thus breaking down some of the geographic barriers that
   currently segregate LA economically and culturally. Arts will also be a
   primary consideration in civic planning, development, and transportation.  
+cached_project_image: >-
+  /assets/images/projects/2013/the-a-lot-initiative-using-art-to-activate-vacant-city-lots/img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg
 youtube_video_identifier: nPa4Lu7CMPA
 
 ---

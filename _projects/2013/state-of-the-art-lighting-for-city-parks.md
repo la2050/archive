@@ -209,6 +209,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   communities that until now were unsafe at night.  By 2050, LA will have a
   bright, beautiful and vibrant park system and as a result, less crime and
   safer communities. 
+cached_project_image: >-
+  /assets/images/projects/2013/state-of-the-art-lighting-for-city-parks/img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg
 youtube_video_identifier: fmzJcYDzdUw
 
 ---

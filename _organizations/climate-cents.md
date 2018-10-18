@@ -38,5 +38,7 @@ aggregated:
     - '5102066'
     - '4102194'
 youtube_video_identifier: WjnYc_5sRG8
+cached_project_image: >-
+  /assets/images/organizations/climate-cents/img.youtube.com/vi/WjnYc_5sRG8/maxresdefault.jpg
 
 ---

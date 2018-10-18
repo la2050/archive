@@ -33,5 +33,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102025'
+cached_project_image: >-
+  /assets/images/organizations/city-of-los-angeles-information-technology-agency/activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 
 ---

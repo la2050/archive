@@ -167,6 +167,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   whole families can ride bikes, rest  and socialize on benches under majestic
   branches. Success would be full revitalization of a decades neglected stretch,
   economic vitality and a healthier population.
+cached_project_image: >-
+  /assets/images/projects/2013/greening-7th-st-in-skid-row-dtla/img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg
 youtube_video_identifier: CqF0Cn4dZJs
 
 ---

@@ -200,6 +200,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Lastly, Project SPIN has recently partnered with ONE National Gay & Lesbian Archives at the University of Southern California to develop educational materials for implementation of the California FAIR Education Act (2011). In June of 2014, Project SPIN created a resource guide of inclusive curriculum that teachers can use as supplement to textbooks.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/project-spin-suicide-prevention-intervention-now/img.youtube.com/vi/lg-vCWbUV8s/hqdefault.jpg
 youtube_video_identifier: lg-vCWbUV8s
 
 ---

@@ -147,6 +147,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    3) Ensuring a space where the physical gallery can grow. Currently, there are no spaces in LA that specifically showcases artwork from both professionals and working artists. Why not change that?
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/row-gallery-foundation-empowering-artists-from-all-walks-of-life/img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg
 youtube_video_identifier: ApjqumUUgTI
 
 ---

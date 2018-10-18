@@ -41,5 +41,7 @@ aggregated:
     - '5102318'
     - '3102258'
 youtube_video_identifier: gX3uzlinkXc
+cached_project_image: >-
+  /assets/images/organizations/tia-chuchas-centro-cultural/img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg
 
 ---

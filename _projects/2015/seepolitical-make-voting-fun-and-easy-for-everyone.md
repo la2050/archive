@@ -211,6 +211,8 @@ How do you plan to scale the success of your proposal?: >-
    SeePolitical will establish similar relationships with universities in all 50 states, by which their students enter our program or fellowship to research and explain the issues confronting their states' voters. 
    
    A gift from the Goldhirsh Foundation this year will establish a reputation for improving civic literacy across the city, state and soon the nation!
+cached_project_image: >-
+  /assets/images/projects/2015/seepolitical-make-voting-fun-and-easy-for-everyone/img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg
 youtube_video_identifier: atB8yIPXKCk
 organization_name: SeePolitical
 

@@ -36,5 +36,7 @@ aggregated:
     - '5102145'
     - '5102145'
 youtube_video_identifier: NTnzCDQ335U
+cached_project_image: >-
+  /assets/images/organizations/iridescent/img.youtube.com/vi/NTnzCDQ335U/maxresdefault.jpg
 
 ---

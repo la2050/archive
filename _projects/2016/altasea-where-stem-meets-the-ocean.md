@@ -145,6 +145,8 @@ project_proposal_best_place: >-
   our planet's extraordinary ocean. Visits to AltaSea and the LA Waterfront
   ignite a lifelong passion and curiosity about the ocean, motivating this
   generation to be guardians for a sustainable future.
+cached_project_image: >-
+  /assets/images/projects/2016/altasea-where-stem-meets-the-ocean/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
 organization_name: AltaSea at the Port of Los Angeles
 organization_website: altasea.org
 

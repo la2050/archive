@@ -48,5 +48,7 @@ aggregated:
     - '3102228'
 maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
 maker_image_id: '16706'
+cached_project_image: >-
+  /assets/images/organizations/rediscover-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16706%252Fdisplay%252FreDiscover_Upcyle_Innovate.jpg=c570x385.jpg
 
 ---

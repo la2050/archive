@@ -120,6 +120,8 @@ project_proposal_best_place: >-
   scene, and help it attract a diverse community of thinkers, leaders, investors
   and entrepreneurs whilst working with local communities to create a
   sustainable tech workforce with gender parity as the key focus.
+cached_project_image: >-
+  /assets/images/projects/2016/coding-bootcamps-and-conferences-for-women-in-tech/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
 organization_name: Girls in Tech
 organization_website: girlsintech.org
 

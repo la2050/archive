@@ -32,5 +32,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102254'
+cached_project_image: >-
+  /assets/images/organizations/the-integrated-learning-annex/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4532943913741-team90.JPG
 
 ---

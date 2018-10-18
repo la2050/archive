@@ -181,6 +181,8 @@ Whom will your project benefit? Please be specific.: >-
   We are open to working with any and all partners who share our values of
   promoting access to justice and providing accurate, useful legal information
   to the public.
+cached_project_image: >-
+  /assets/images/projects/2014/law-soup-la/img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg
 youtube_video_identifier: DRehRt5n68c
 
 ---

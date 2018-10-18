@@ -194,6 +194,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   government decreases. And entitlement programs become unsustainable. It’s not
   a pretty picture; it is an issue that we must solve now, and Streetcraft LA
   can lead the way.
+cached_project_image: >-
+  /assets/images/projects/2013/streetcraft-where-street-hustlers-and-tag-bangers-become-creative-economy-entrepreneurs/img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg
 youtube_video_identifier: LDkB_pxZu2k
 
 ---

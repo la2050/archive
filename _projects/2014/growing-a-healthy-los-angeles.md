@@ -171,6 +171,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The overall tone of effort is inclusive, intentional and incisive--high-quality artistic content will unite transportation conversations with user experiences from across LA County, particularly underserved communities and populations.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/growing-a-healthy-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20229%252Fdisplay%252FLACGC_Community_Photo.jpg=c570x385.jpg
 maker_image_id: '20229'
 maker_image_file_name: LACGC_Community_Photo.jpg
 

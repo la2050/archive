@@ -30,5 +30,7 @@ aggregated:
     - '4102087'
 maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png
 maker_image_id: '20953'
+cached_project_image: >-
+  /assets/images/organizations/the-bitch-pack/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20953%252Fdisplay%252FScreen_Shot_2014-07-30_at_5.51.26_PM.png=c570x385.png
 
 ---

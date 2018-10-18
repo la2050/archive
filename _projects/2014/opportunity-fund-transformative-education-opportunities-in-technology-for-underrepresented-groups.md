@@ -169,6 +169,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
     
    General Assembly will document and share this journey amongst its global network of entrepreneurs, alumni and community, as well as with the Benefactors, ensuring the outcomes and experiences touch everyone.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/opportunity-fund-transformative-education-opportunities-in-technology-for-underrepresented-groups/img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg
 youtube_video_identifier: CMmY955jD5A
 
 ---

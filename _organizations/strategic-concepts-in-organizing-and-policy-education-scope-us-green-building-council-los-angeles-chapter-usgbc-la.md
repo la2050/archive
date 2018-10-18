@@ -36,5 +36,7 @@ aggregated:
   project_ids:
     - '5102282'
 youtube_video_identifier: ERxmCic5y3o
+cached_project_image: >-
+  /assets/images/organizations/strategic-concepts-in-organizing-and-policy-education-scope-us-green-building-council-los-angeles-chapter-usgbc-la/img.youtube.com/vi/ERxmCic5y3o/hqdefault.jpg
 
 ---

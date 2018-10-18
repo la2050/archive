@@ -209,6 +209,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    -Social and Public Art Resource Center (SPARC)
    SPARC is dedicated to using public art to address contemporary issues and questions of social memory. It shares the grounds of the Old Venice City Hall with Beyond Baroque and its arts programming is an essential component of the proposed Arts Commons. SPARC has committed to the design plan created by Rios Clementi Hale.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/an-arts-commons-for-everyone/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22565%252Fdisplay%252FProposed_Space_for_Venice_Arts_Commons.jpg=c570x385.jpg
 maker_image_id: '22565'
 maker_image_file_name: Proposed_Space_for_Venice_Arts_Commons.jpg
 

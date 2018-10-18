@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '4102060'
 youtube_video_identifier: sO2seHdnH3c
+cached_project_image: >-
+  /assets/images/organizations/mobile-film-classroom/img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg
 
 ---

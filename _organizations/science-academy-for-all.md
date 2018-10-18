@@ -33,5 +33,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102106'
+cached_project_image: >-
+  /assets/images/organizations/science-academy-for-all/activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
 
 ---

@@ -94,6 +94,8 @@ project_proposal_best_place: >-
   LAUSD has among the highest concentration of low-income students in the state,
   with more than 80% living at or below the poverty line. We want to teach these
   students to invent out of clean, rescued, rubbish.
+cached_project_image: >-
+  /assets/images/projects/2016/the-robin-hoods-of-rubbish-are-building-steam-labs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5085632065741-team91.jpg
 organization_name: T4T.org
 organization_website: T4T.org
 

@@ -45,5 +45,7 @@ aggregated:
   project_ids:
     - '3102096'
 youtube_video_identifier: y5Q3OTnTYC4
+cached_project_image: >-
+  /assets/images/organizations/create-la/img.youtube.com/vi/y5Q3OTnTYC4/hqdefault.jpg
 
 ---

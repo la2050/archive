@@ -176,6 +176,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Jubilee Consortium brings an expertise in designing active programming for all ages in non-traditional venues throughout Los Angeles. Jubilee Consortium has offered low-cost physical fitness and nutrition programs in underserved neighborhoods since its founding in 2001. For the past two years, Jubilee Consortium has trained community members to become Health Advocates for their communities as part of the United for Health collaborative led by CHC. The Jubilee Consortium creates healthy and just neighborhoods through enrichment opportunities and leadership programs centered on healthy lifestyles.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/unlock-the-block-bringing-play-streets-to-los-angeles/img.youtube.com/vi/B8tTn7kwSIk/maxresdefault.jpg
 youtube_video_identifier: B8tTn7kwSIk
 
 ---

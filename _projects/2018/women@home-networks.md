@@ -133,6 +133,8 @@ Where do you hope this activation or your organization will be in five years?: >
   greater Internet access capacity, and half of these regions will gain
   affordable Internet bandwidth where almost none was readily available
   previously.
+cached_project_image: >-
+  /assets/images/projects/2018/women@home-networks/activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 organization_name: Data Roads Foundation
 
 ---

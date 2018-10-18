@@ -187,6 +187,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   educating teachers in mindfulness and age-fit instructional capabilities. This
   will free up funds to go to autonomy in the classroom and less to minding from
   the top.  
+cached_project_image: >-
+  /assets/images/projects/2013/mindful-education-for-lausd/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17110%252Fdisplay%252Frachelschmid.elrio.jpg=c570x385.jpg
 maker_image_id: '17110'
 maker_image_file_name: rachelschmid.elrio.jpg
 

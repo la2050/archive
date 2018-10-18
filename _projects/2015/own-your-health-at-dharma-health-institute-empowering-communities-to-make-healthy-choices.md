@@ -231,6 +231,8 @@ How do you plan to scale the success of your proposal?: >-
    In addition, we will collect qualitative data in the form of personal follow up with clients to assess their mental and emotional well being as a result of their ability to cope with their illness in a healthier way. 
    
    For us as an organization, we will assess success by having the opportunity to provide integrative health services to a wider population and offer the community at large an opportunity to learn strategies and techniques to live a healthier, a more productive life and be empowered to make health decisions based on the knowledge they receive.
+cached_project_image: >-
+  /assets/images/projects/2015/own-your-health-at-dharma-health-institute-empowering-communities-to-make-healthy-choices/img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg
 youtube_video_identifier: yP9QgOVBaYA
 organization_name: Dharma Health Institute
 

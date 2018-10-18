@@ -48,5 +48,7 @@ aggregated:
     - '6102238'
     - '5102298'
     - '4102241'
+cached_project_image: >-
+  /assets/images/organizations/the-childrens-lifesaving-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 
 ---

@@ -148,6 +148,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/climate-cents/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23638%252Fdisplay%252Fnew_site3.png=c570x385.png
 maker_image_id: '23638'
 maker_image_file_name: new_site3.png
 organization_name: Climate Cents

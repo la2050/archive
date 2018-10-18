@@ -129,6 +129,8 @@ project_proposal_best_place: >-
   vision to prevent escalation of offenses. Since its launch in 2010, CRCD has
   engaged a total of 94 young people in diversion from incarceration and has
   catalyzed meaningful change in LA’s criminal justice system.
+cached_project_image: >-
+  /assets/images/projects/2016/community-uniting-for-resolution-and-empowerment-cure/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1299310265741-team90.jpg
 organization_name: Coalition for Responsible Community Development
 organization_website: coalitionrcd.org
 

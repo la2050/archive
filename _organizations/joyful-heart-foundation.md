@@ -38,5 +38,7 @@ aggregated:
   project_ids:
     - '6102110'
     - '5102151'
+cached_project_image: >-
+  /assets/images/organizations/joyful-heart-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 
 ---

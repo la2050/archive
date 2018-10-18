@@ -34,5 +34,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102129'
+cached_project_image: >-
+  /assets/images/organizations/las-fotos-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
 
 ---

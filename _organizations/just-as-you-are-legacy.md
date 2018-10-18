@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102112'
+cached_project_image: >-
+  /assets/images/organizations/just-as-you-are-legacy/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6383208955741-team91.jpeg
 
 ---

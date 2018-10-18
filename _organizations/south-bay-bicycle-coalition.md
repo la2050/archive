@@ -34,5 +34,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102111'
+cached_project_image: >-
+  /assets/images/organizations/south-bay-bicycle-coalition/activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 
 ---

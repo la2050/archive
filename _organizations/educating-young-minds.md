@@ -82,5 +82,7 @@ aggregated:
     - '3102118'
 maker_image_file_name: eym_apple.JPG
 maker_image_id: '16514'
+cached_project_image: >-
+  /assets/images/organizations/educating-young-minds/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16514%252Fdisplay%252Feym_apple.JPG=c570x385.jpg
 
 ---

@@ -166,6 +166,8 @@ Whom will your project benefit? Please be specific.: >-
    Through our partnerships with Build-a-Bear, Walmart, Kroger, Ralph's and Panera Bread, our program challenges our students weekly, monthly, and annually by providing constant motivation through various in-kind and monetary donations. These businesses provide a wide variety of incentives and rewards for each eligible student. 
    
    Above all, one of the most critical factors to the success of our organization's message is the ability to reach as many members of our community as possible. It is often difficult to offset the costs of promotional advertising and we are grateful to our sponsors who provide opportunities to help cover the costs of such materials.
+cached_project_image: >-
+  /assets/images/projects/2014/thinking-about-tomorrow-is-making-school-cool/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20283%252Fdisplay%252FShannonTaTLA2050_(3).jpg=c570x385.jpg
 maker_image_id: '20283'
 maker_image_file_name: ShannonTaTLA2050_(3).jpg
 

@@ -316,6 +316,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Forward we envision an LA 2050 as one in which the public immediately
   recognizes the abundance already present in our everyday lives — and innately
   values it as a resource and a solution.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/food-forward-connecting-angelenos-through-local-food-abundance/img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg
 youtube_video_identifier: EpR6dHeaGIQ
 
 ---

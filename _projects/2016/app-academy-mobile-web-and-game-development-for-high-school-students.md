@@ -130,6 +130,8 @@ project_proposal_best_place: >-
   African-American youth; and Star Gazers, a wearable product that allows users
   to locate constellations in the night sky (see the uploaded image for details
   about the student and her project.)
+cached_project_image: >-
+  /assets/images/projects/2016/app-academy-mobile-web-and-game-development-for-high-school-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
 organization_name: Pasadena Educational Foundation
 organization_website: www.pasedfoundation.org
 

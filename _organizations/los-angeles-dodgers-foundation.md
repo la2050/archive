@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102074'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-dodgers-foundation/activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
 
 ---

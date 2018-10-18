@@ -237,6 +237,8 @@ How do you plan to scale the success of your proposal?: >-
   expressed by our employer partners, it follows our proven model of effective
   service delivery that is well documented, and it is done with the support and
   interest of our funders.
+cached_project_image: >-
+  /assets/images/projects/2015/jvs-works-creating-hope-and-opportunity/img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg
 youtube_video_identifier: iQpQqqot8AQ
 organization_name: JVS Los Angeles
 

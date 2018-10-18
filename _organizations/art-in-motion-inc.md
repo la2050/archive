@@ -36,5 +36,7 @@ aggregated:
     - '4102010'
 maker_image_file_name: SPIFF-Youth-Intensive.jpg
 maker_image_id: '21797'
+cached_project_image: >-
+  /assets/images/organizations/art-in-motion-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21797%252Fdisplay%252FSPIFF-Youth-Intensive.jpg=c570x385.jpg
 
 ---

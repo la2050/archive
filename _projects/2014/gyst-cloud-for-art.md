@@ -169,6 +169,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    USERS (YOU): We will invite our existing individual and organization users (over 2,350) and new clients to beta test GYST Cloud. Further funding from others who donate towards the support of low-income artists, as well as the income-based subscription model will allow this project to be sustainable for future generations. Establishing responsibility within the art community, we will invite users to self-determine their own level of income and therefore their subscription price.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/gyst-cloud-for-art/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21305%252Fdisplay%252FGYSTInksoftware_artworktracking.png=c570x385.png
 maker_image_id: '21305'
 maker_image_file_name: GYSTInksoftware_artworktracking.png
 

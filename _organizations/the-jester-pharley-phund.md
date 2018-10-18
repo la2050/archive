@@ -37,5 +37,7 @@ aggregated:
   project_ids:
     - '6102246'
     - '4102242'
+cached_project_image: >-
+  /assets/images/organizations/the-jester-pharley-phund/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
 
 ---

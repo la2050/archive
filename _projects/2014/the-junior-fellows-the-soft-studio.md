@@ -164,6 +164,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   accelerators to establish a pipeline of support for emerging social
   entrepreneurs.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/the-junior-fellows-the-soft-studio/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21934%252Fdisplay%252FPatch_2.jpg=c570x385.jpg
 maker_image_id: '21934'
 maker_image_file_name: Patch_2.jpg
 

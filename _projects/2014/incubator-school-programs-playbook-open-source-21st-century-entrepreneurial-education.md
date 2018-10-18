@@ -213,6 +213,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We have not worked together in the past, but we greatly look forward to working together in the future.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/incubator-school-programs-playbook-open-source-21st-century-entrepreneurial-education/img.youtube.com/vi/2Pjt88MXETw/hqdefault.jpg
 youtube_video_identifier: 2Pjt88MXETw
 
 ---

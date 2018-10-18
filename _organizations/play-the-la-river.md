@@ -33,5 +33,7 @@ aggregated:
     - '4102070'
 maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
 maker_image_id: '21550'
+cached_project_image: >-
+  /assets/images/organizations/play-the-la-river/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21550%252Fdisplay%252FPlaytheLARiver_LA2050_ImageCropped.jpg=c570x385.jpg
 
 ---

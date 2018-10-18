@@ -31,5 +31,7 @@ aggregated:
     - '4102143'
 maker_image_file_name: less.png
 maker_image_id: '21591'
+cached_project_image: >-
+  /assets/images/organizations/learning-equipment-supply-service/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21591%252Fdisplay%252Fless.png=c570x385.png
 
 ---

@@ -96,6 +96,8 @@ Where do you hope this activation or your organization will be in five years?: >
   By 2023, we hope LOLA will be the go-to digital platform where LA residents,
   organizations, and businesses learn about local issues, discuss new ideas, and
   collaborate on community projects.  
+cached_project_image: >-
+  /assets/images/projects/2018/lola-demystifying-local-politics-for-young-busy-residents-in-la/activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
 organization_name: LOLA
 
 ---

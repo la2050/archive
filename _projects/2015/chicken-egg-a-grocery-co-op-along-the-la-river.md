@@ -253,6 +253,8 @@ How do you plan to scale the success of your proposal?: >-
    We pride ourselves on immediate impact that is sometimes temporal, but always constructive and experiential, not just filed in a report that sits on a shelf. 
    
    Lastly, we believe that any LA River project needs to be accessible to all people, races, economic backgrounds. We have been focusing on basic services, not high-end boutique that marginalizes long time residents. The bigger the customer base, the greater chance at success.
+cached_project_image: >-
+  /assets/images/projects/2015/chicken-egg-a-grocery-co-op-along-the-la-river/img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg
 youtube_video_identifier: CTFt7gFp6BY
 organization_name: River Wild LLC
 

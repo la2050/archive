@@ -40,5 +40,7 @@ aggregated:
     - '5102170'
     - '4102201'
 youtube_video_identifier: wZGBfT2_pi4
+cached_project_image: >-
+  /assets/images/organizations/lab-launch/img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg
 
 ---

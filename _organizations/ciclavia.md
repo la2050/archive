@@ -45,5 +45,7 @@ aggregated:
     - '8102021'
     - '5102055'
     - '3102061'
+cached_project_image: >-
+  /assets/images/organizations/ciclavia/activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg
 
 ---

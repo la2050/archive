@@ -44,5 +44,7 @@ aggregated:
     - '5102074'
     - '3102084'
 youtube_video_identifier: ghRsAe0AExM
+cached_project_image: >-
+  /assets/images/organizations/communities-for-a-better-environment/img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg
 
 ---

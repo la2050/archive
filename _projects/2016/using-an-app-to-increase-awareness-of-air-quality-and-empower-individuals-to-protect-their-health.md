@@ -113,6 +113,8 @@ project_proposal_best_place: >-
   users and develop new strategies for protecting the health of sensitive
   populations. Our goal is to improve the communication of air quality
   information and associated health effects.
+cached_project_image: >-
+  /assets/images/projects/2016/using-an-app-to-increase-awareness-of-air-quality-and-empower-individuals-to-protect-their-health/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
 organization_name: UCLA Institute of the Environment and Sustainability (IOES)
 organization_website: www.ioes.ucla.edu
 

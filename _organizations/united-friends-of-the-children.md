@@ -42,5 +42,7 @@ aggregated:
     - '6102270'
     - '5102332'
     - '4102245'
+cached_project_image: >-
+  /assets/images/organizations/united-friends-of-the-children/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
 
 ---

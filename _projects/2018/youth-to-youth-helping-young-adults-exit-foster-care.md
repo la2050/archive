@@ -139,6 +139,8 @@ Where do you hope this activation or your organization will be in five years?: >
   youngest community members in a life-changing volunteer opportunity in order
   to serve every young adult, aged 18-21, in Los Angeles County's extended
   foster care with similarly life-changing advocacy.
+cached_project_image: >-
+  /assets/images/projects/2018/youth-to-youth-helping-young-adults-exit-foster-care/activation.la2050.org/assets/images/connect/2048-wide/casa-of-los-angeles.jpg
 organization_name: CASA of Los Angeles
 
 ---

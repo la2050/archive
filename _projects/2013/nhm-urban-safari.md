@@ -383,6 +383,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/nhm-urban-safari/img.youtube.com/vi/MNDn6OWCjco/maxresdefault.jpg
 youtube_video_identifier: MNDn6OWCjco
 
 ---

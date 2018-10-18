@@ -188,6 +188,8 @@ Whom will your project benefit? Please be specific.: |-
    LA Works
    We will partner with LA Works to award points for volunteering. People who take on LA Works’ challenge will earn points each time they volunteer and will also earn points for trying new projects. Through this challenge, volunteers will help improve LA while earning points and prizes, while App of Life will benefit from gaining new players who are focused on giving back.
    We have volunteered with LA Works for more than a decade and have proposed a partnership.
+cached_project_image: >-
+  /assets/images/projects/2014/app-of-life-transforms-people-and-communities-by-challenging-us-to-play-real-life-as-a-game/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22052%252Fdisplay%252FLA2050-image-4.jpg=c570x385.jpg
 maker_image_id: '22052'
 maker_image_file_name: LA2050-image-4.jpg
 

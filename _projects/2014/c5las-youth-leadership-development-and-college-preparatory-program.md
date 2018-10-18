@@ -165,6 +165,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • Seeking out relationships with college preparatory programs that have been proven effective; and
    • Constantly exploring how we can partner with new organizations that serve a similar youth demographic.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/c5las-youth-leadership-development-and-college-preparatory-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21493%252Fdisplay%252FC5LA--LA2050.jpg=c570x385.jpg
 maker_image_id: '21493'
 maker_image_file_name: C5LA--LA2050.jpg
 

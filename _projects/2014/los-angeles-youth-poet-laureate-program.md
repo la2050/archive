@@ -163,6 +163,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2: Honoring the young poet-leaders in meaningful and important ways through the creation of LA Youth Poet Laureate program and LA Youth Poet Ambassadors.
    3: Galvanizing various organizations across Los Angeles country that do this life-changing work.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/los-angeles-youth-poet-laureate-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21302%252Fdisplay%252FCM_Jackson_with_Honoree2.jpg=c570x385.jpg
 maker_image_id: '21302'
 maker_image_file_name: CM_Jackson_with_Honoree2.jpg
 

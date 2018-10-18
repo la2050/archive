@@ -124,6 +124,8 @@ Where do you hope this activation or your organization will be in five years?: >
   their local parks in Los Angeles, which is aligned with the metric of
   increasing the number of parks with inter-generational play opportunities and
   increase attendance at cultural events.
+cached_project_image: >-
+  /assets/images/projects/2018/big-sing-la/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg
 organization_name: Los Angeles Master Chorale
 
 ---

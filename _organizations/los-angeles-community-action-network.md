@@ -36,5 +36,7 @@ aggregated:
   project_ids:
     - '5102186'
 youtube_video_identifier: d7u6LPKVtv4
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-community-action-network/img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg
 
 ---

@@ -159,6 +159,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Angel Aguilar - A ‘Don Quixote’ in the journalistic world of LA, working towards bringing quality music reporting to the Latin crowd in Spanish.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/l-creativo-a-latin-indie-music-community/img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg
 youtube_video_identifier: XFrn3G05ZVc
 
 ---

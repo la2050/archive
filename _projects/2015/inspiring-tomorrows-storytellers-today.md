@@ -276,6 +276,8 @@ How do you plan to scale the success of your proposal?: >-
   working to develop programs at the middle school and high school levels,
   aiming within the next four years to offer continuing program opportunities to
   every elementary school participant in a Young Storytellers program.
+cached_project_image: >-
+  /assets/images/projects/2015/inspiring-tomorrows-storytellers-today/img.youtube.com/vi/9pqXAYBOKLo/maxresdefault.jpg
 youtube_video_identifier: 9pqXAYBOKLo
 organization_name: 826LA & Young Storytellers
 

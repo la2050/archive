@@ -190,6 +190,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The third factor is availability and boldness. Anyone involved should be available to knock on doors, make calls, and attend the actual block parties. In many ways, this is like a series of campaigns for God in Los Angeles. Partners need to be comfortable with their faith, not on the fence, and be willing to stand up and share it with the world!
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/its-about-good-interfaith-block-parties-where-playing-becomes-praying/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21276%252Fdisplay%252Finterfaithsize.png=c570x385.png
 maker_image_id: '21276'
 maker_image_file_name: interfaithsize.png
 

@@ -92,5 +92,7 @@ aggregated:
     - '5102224'
     - '4102259'
     - '3102210'
+cached_project_image: >-
+  /assets/images/organizations/opportunity-fund/activation.la2050.org/assets/images/create/2048-wide/opportunity-fund.jpg
 
 ---

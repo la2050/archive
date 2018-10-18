@@ -227,6 +227,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/enrichla-a-garden-in-every-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16733%252Fdisplay%252Fenrichla-photo-3.jpg=c570x385.jpg
 maker_image_id: '16733'
 maker_image_file_name: enrichla-photo-3.jpg
 

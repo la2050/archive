@@ -33,5 +33,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102036'
+cached_project_image: >-
+  /assets/images/organizations/eayikes/activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg
 
 ---

@@ -271,6 +271,8 @@ How do you plan to scale the success of your proposal?: >-
   accomplish this significant goal, first by changing how Los Angeles views
   volunteer opportunities, and then by recruiting enough volunteers to serve all
   children in need.
+cached_project_image: >-
+  /assets/images/projects/2015/be-a-voice-for-las-foster-care-children/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/1381760_10150328123069943_1196124285_n.jpg?_nc_cat=105&oh=21b20fd87ee11f0bcb82e4d354982088&oe=5C62EAA3.jpg
 youtube_video_identifier: 3qC3k8bY6A0
 organization_name: CASA of Los Angeles
 

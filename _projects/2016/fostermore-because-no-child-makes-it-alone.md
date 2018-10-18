@@ -119,6 +119,8 @@ project_proposal_best_place: >-
   over a 6-8 week effort.  Further the long-term impact could yield an estimated
   5,700-7,000 additional foster parents starting 18 months from the date of
   execution.
+cached_project_image: >-
+  /assets/images/projects/2016/fostermore-because-no-child-makes-it-alone/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5007408255741-team91.png
 organization_name: Children's Action Network (CAN)
 organization_website: www.fostermore.org
 

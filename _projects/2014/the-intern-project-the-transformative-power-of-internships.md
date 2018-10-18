@@ -177,6 +177,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The LA Fund has received positive feedback from the above business partners regarding the work of each TIP intern and their experience in acting as a host. It is our hope to work with all business partners during summer 2015. We are also beginning conversations with new businesses now for summer of 2015 participation.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/the-intern-project-the-transformative-power-of-internships/img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg
 youtube_video_identifier: tMwKJIhKIAU
 
 ---

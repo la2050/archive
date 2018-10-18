@@ -171,6 +171,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We have partnered in the past (and in most cases are still partnered with) many organizations. The following websites are now LARB Channels: Boom, Avidly, Marginalia, Swink, The Philosopher's Plant, and The Levatine Review. We have also partnered with KCRW, KPCC, the Library Foundation, UC Riverside, USC, PEN USA, CalArts, SoHo House, Skylight Books, Tia Chucho Centro Cultural, and the Los Angeles Institute for the Humanities, as well as with a number of other literary and arts magazines, including LA Magazine, The American Reader, n+1, Flaunt, The New Inquiry, Slake, Black Clock, Triple Canopy, and others.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/los-angeles-review-of-books/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385.jpg
 maker_image_id: '22625'
 maker_image_file_name: larb_logo.jpg
 

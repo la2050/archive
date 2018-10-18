@@ -346,6 +346,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   that major cities approach both the integration of arts, sustainability and
   economy throughout the world, so that he human experience of living in cities
   would be significantly improved.
+cached_project_image: >-
+  /assets/images/projects/2013/urban-air/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385.jpg
 maker_image_id: '21229'
 maker_image_file_name: urban_air.jpg
 

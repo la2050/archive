@@ -118,6 +118,8 @@ project_proposal_best_place: >-
   people will be given opportunities for better jobs, graduate programs and
   funding, and each will be given the chance to play a role in the advancement
   of local research and innovation in Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2016/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
 organization_name: '#Library'
 organization_website: hashtaglibrary.com
 

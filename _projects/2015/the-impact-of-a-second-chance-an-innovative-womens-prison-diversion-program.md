@@ -332,6 +332,8 @@ How do you plan to scale the success of your proposal?: >-
   WRC. Reducing mental health barriers, along with advocating for treatment for
   formerly incarcerated women among elected officials, will provide Prototypes
   the leverage to scale the Second Chance Women’s Reentry Program.
+cached_project_image: >-
+  /assets/images/projects/2015/the-impact-of-a-second-chance-an-innovative-womens-prison-diversion-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385.jpg
 maker_image_id: '23741'
 maker_image_file_name: 2013_Pomona_0649.JPG
 organization_name: Prototypes

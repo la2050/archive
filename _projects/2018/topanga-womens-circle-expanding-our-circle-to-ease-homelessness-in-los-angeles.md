@@ -143,6 +143,8 @@ Where do you hope this activation or your organization will be in five years?: >
   engaged a multitude of different service groups in Los Angeles County who will
   play a vital role in helping the homeless as they transition into permanent
   housing.
+cached_project_image: >-
+  /assets/images/projects/2018/topanga-womens-circle-expanding-our-circle-to-ease-homelessness-in-los-angeles/activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
 organization_name: Topanga Women's Circle
 
 ---

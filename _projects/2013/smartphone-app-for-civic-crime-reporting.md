@@ -241,6 +241,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/smartphone-app-for-civic-crime-reporting/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16434%252Fdisplay%252FSplashScreenImageCrimeReporter.png=c570x385.png
 maker_image_id: '16434'
 maker_image_file_name: SplashScreenImageCrimeReporter.png
 

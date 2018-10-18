@@ -30,5 +30,6 @@ aggregated:
     - '2014'
   project_ids: []
 youtube_video_identifier: kNqNTSXVqsI
+cached_project_image: /assets/images/organizations/fort/img.youtube.com/vi/kNqNTSXVqsI/hqdefault.jpg
 
 ---

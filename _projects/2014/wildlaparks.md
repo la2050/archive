@@ -152,6 +152,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Audubon has been working in Los Angeles since 1910, advocating for birds and nature, and providing opportunities for people to connect with nature. In the City of Los Angeles, four, independent, local chapters – Los Angeles Audubon, Palos Verdes / South Bay Audubon, San Fernando Audubon, and Santa Monica Bay Audubon- work with local schools, advocate for nature, and engage all ages with birds, wildlife and LA’s natural places. Additionally, the Audubon Center at Debs Park, operated by Audubon California, takes on these roles in the neighborhoods in northeast Los Angeles. Working together, we have the entire city covered.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/wildlaparks/img.youtube.com/vi/KRKqNflY-PU/hqdefault.jpg
 youtube_video_identifier: KRKqNflY-PU
 
 ---

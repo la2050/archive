@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102250'
+cached_project_image: >-
+  /assets/images/organizations/the-national-wildlife-federation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
 
 ---

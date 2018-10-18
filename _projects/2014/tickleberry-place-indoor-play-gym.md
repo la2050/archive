@@ -140,6 +140,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   of creating healthy and sustainable play spaces in Los Angeles. We are open to
   having partners and are looking for them.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/tickleberry-place-indoor-play-gym/img.youtube.com/vi/rlrzrwiHA8I/maxresdefault.jpg
 youtube_video_identifier: rlrzrwiHA8I
 
 ---

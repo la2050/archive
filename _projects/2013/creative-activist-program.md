@@ -572,6 +572,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   indicator of human development but instead an essential part of life.  It is
   in our blood and sweat and DNA as Angelenos, and it is only the beginning of
   our potential to thrive.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/creative-activist-program/img.youtube.com/vi/8N5kv8ddErc/maxresdefault.jpg
 youtube_video_identifier: 8N5kv8ddErc
 
 ---

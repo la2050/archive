@@ -158,6 +158,8 @@ Whom will your project benefit? Please be specific.: >-
    2) Rio Hondo Community College is piloting the use of data from our file format for first year academic placement of approximately 350 first year students who graduated from El Monte High school District in Spring 2014. Rio's Dean of Counseling works closely with CCGI to inform the development of counseling tools, messaging and the higher ed user role on our professional center/counselor facing portal - to maximize the use of our system for smoothing transition to community colleges. Our goals include expansion to all Rio Hondo's feeder districts (we are in three of six already) to prove the ability to place all incoming students based on transcripts rather than placement exams.
    
    3) We have initial conversations underway with LAUSD's Director of Secondary Education, Gerardo Loera, as well as local superintendent Bravo (ESC South), to pilot the use of CCGI tools in their high schools.
+cached_project_image: >-
+  /assets/images/projects/2014/planyour-future-helping-6th-12th-grade-students-plan-prepare-and-figure-out-how-to-pay-for-college/img.youtube.com/vi/q2OELc_KuI4/hqdefault.jpg
 youtube_video_identifier: q2OELc_KuI4
 
 ---

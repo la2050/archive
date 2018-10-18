@@ -250,6 +250,8 @@ How do you plan to scale the success of your proposal?: >-
    Beyond this, EARN is working to scale the impact that our program can have on people’s lives. We are building out a comprehensive suite of savings products that our clients can use to reach more ambitious savings goals. After successfully saving for emergencies our clients will be able to start saving for their children’s education, a home, or even their own retirement. All new products will be based upon our existing technology infrastructure, powered by Intuit and Amazon Web Services. 
    
    EARN believes that providing the tools to save is one of the most effective ways to ensure resiliency and social-economic opportunity in our communities. We are determined to scale our success to reach people across America.
+cached_project_image: >-
+  /assets/images/projects/2015/turning-effort-into-opportunity-through-saving/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23728%252Fdisplay%252FEarnlogopage2.jpg=c570x385.jpg
 maker_image_id: '23728'
 maker_image_file_name: Earnlogopage2.jpg
 organization_name: 'EARN '

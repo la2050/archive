@@ -162,6 +162,8 @@ Where do you hope this activation or your organization will be in five years?: >
   hope that the intersectional approach we implement becomes an example for
   others on how to revitalize neighborhoods and build community resilience in
   partnership with the community.
+cached_project_image: >-
+  /assets/images/projects/2018/root-down-rise-up/activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 organization_name: 'Multicultural Communities for Mobility, a project of Community Partners'
 
 ---

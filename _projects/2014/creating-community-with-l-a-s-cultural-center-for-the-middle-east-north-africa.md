@@ -151,6 +151,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   We will partner with multiple community organizations, such as Muslims for
   Progressive Values, and the Craft and Folk Art Museum, as well as LAUSD.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/creating-community-with-l-a-s-cultural-center-for-the-middle-east-north-africa/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22605%252Fdisplay%252FMECAY-Education-Proposal-2014.jpg=c570x385.jpg
 maker_image_id: '22605'
 maker_image_file_name: MECAY-Education-Proposal-2014.jpg
 

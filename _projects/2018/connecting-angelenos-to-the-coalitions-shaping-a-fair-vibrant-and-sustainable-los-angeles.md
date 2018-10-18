@@ -140,6 +140,8 @@ Where do you hope this activation or your organization will be in five years?: >
   be a go-to source for people around the region and across sectors. The LA
   Forward model of civic media and organizing will become a template for
   bringing together and engaging people in other regions and cities.
+cached_project_image: >-
+  /assets/images/projects/2018/connecting-angelenos-to-the-coalitions-shaping-a-fair-vibrant-and-sustainable-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/la-forward.jpg
 organization_name: LA Forward
 
 ---

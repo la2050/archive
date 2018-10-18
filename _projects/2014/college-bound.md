@@ -151,6 +151,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   partner with the Los Angeles Unified School District and currently serve youth
   on eleven LAUSD school sites.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/college-bound/img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg
 youtube_video_identifier: sI0_dZ4TpAA
 
 ---

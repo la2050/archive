@@ -426,6 +426,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
 
   Success would be the elimination of the "other." It would not be us vs. them;
   Los Angeles would just be a city of "us."
+cached_project_image: >-
+  /assets/images/projects/2013/engaging-the-reluctant-volunteer/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17035%252Fdisplay%252F284.LosFeliz.Levine15web.jpg=c570x385.jpg
 maker_image_id: '17035'
 maker_image_file_name: 284.LosFeliz.Levine15web.jpg
 

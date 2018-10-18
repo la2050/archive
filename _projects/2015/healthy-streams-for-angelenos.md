@@ -217,6 +217,8 @@ How do you plan to scale the success of your proposal?: >-
    Based on outcomes from the planning, this program will first be piloted at a small number of known swim sites in the LA River Watershed to develop a process for how this can be done at a larger regional scale. Over time, as success is measured, the program can be scaled up to include a larger portion of the LA River watershed, then the San Gabriel River Watershed, and eventually, the entire San Gabriel Mountains National Monument. We will start small and grow the program over time. 
    
    As an organization, the Council for Watershed Health values results based on applied research and analysis that inform policy change and lead to a more sustainable southern California region from the perspective of water quality and quantity management. Our program is unique in that it addresses diverse themes such as urban stormwater, watershed coordination, watershed monitoring, and the promotion of sustainable landscapes. Having access to multiple lines of information increases our ability to integrate various sectors and effectively carry out our core mission. This includes providing leadership, guidance, and assistance to other agencies and organizations to affect sound watershed planning and management, promoting better coordination and integration of watershed monitoring while measuring and tracking progress towards achieving healthier watersheds for humans and fostering a more sustainable regional landscape ethic for Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2015/healthy-streams-for-angelenos/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg
 youtube_video_identifier: kQnTJYkpO4A
 organization_name: Council for Watershed Health
 

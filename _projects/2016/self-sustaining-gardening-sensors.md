@@ -112,6 +112,8 @@ project_proposal_best_place: >-
   makes it an extremely useful tool for quantifying within-field variability,
   evaluating crop growth, and managing soil based on current conditions that may
   be overlooked using typical ground-based visual scouting methods.
+cached_project_image: >-
+  /assets/images/projects/2016/self-sustaining-gardening-sensors/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3454622194741-team91.png
 organization_name: ANDesign Lab
 organization_website: www.andesignlab.com
 

@@ -191,6 +191,8 @@ Whom will your project benefit? Please be specific.: >-
    Rather than serving one specific demographic, the model attracts and brings a cross section of the public together to share an experience, resulting in a resonant and unparalleled connection among the fragmented sprawl in California. The organization will venture to areas traditionally marginalized, like the Skid Row area, and concentrated Spanish language speaking neighborhoods. Ambulante USA’s goal is to integrate all residents, especially those systematically left out of the conversations that documentary film provokes and reflects. 
    
    Beyond the projected audience of the 10,000 people we expect to reach, the most consequential impact is the diversity and multi-tier of class, gender, age and race the attendance figure represents. In addition to the audiences, the approximately 100 volunteers recruited, sourced from each community Ambulante California visits, will undergo production training and orientation of the themes and subjects of each documentary. An essential aspect is building morale, motivation and empowering the volunteers as ambassadors of the festival. In that respect we will offer volunteer screenings of the films in advance of the festival so they may adequately and passionately speak about the merits of the program.
+cached_project_image: >-
+  /assets/images/projects/2014/a-traveling-documentary-film-festival-revitalizing-public-spaces-with-free-community-events/img.youtube.com/vi/6jwNTQKIwsI/maxresdefault.jpg
 youtube_video_identifier: 6jwNTQKIwsI
 
 ---

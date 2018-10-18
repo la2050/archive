@@ -243,6 +243,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Self Help Graphics & Art
    Visual Communications
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/out-the-window/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21306%252Fdisplay%252F12_Stills_from_videos.jpg=c570x385.jpg
 maker_image_id: '21306'
 maker_image_file_name: 12_Stills_from_videos.jpg
 

@@ -198,6 +198,8 @@ Are there other organizations doing similar work (whether complementary or compe
 How do you plan to scale the success of your proposal?: >-
   The more funds we raise, the more students we can train, certify and place in
   jobs. There is a massive demand for welders in the US and southern California.
+cached_project_image: >-
+  /assets/images/projects/2015/wheels-of-hope-la-welding-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385.jpg
 maker_image_id: '23250'
 maker_image_file_name: Wheels_graduation_ceremony.jpg
 organization_name: 'Wheels of Hope LA, Fred Jordan Mission'

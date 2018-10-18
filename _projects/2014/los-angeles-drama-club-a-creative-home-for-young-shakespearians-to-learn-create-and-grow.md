@@ -175,6 +175,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    A remarkable characteristic of our organization is the enthusiasm it incites in those who discover our community: we have had many parents, friends, associates, fellow artists, community leaders, neighborhood councils, local merchants, and independent business take interest in our children and our mission. With our own space, we look forward to embracing more of the people who are interested in being a part of LADC. We envision a creative learning community and look forward to welcoming other like-minded organizations to our space, as we have been welcomed in our past, and giving them a place to grow.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/los-angeles-drama-club-a-creative-home-for-young-shakespearians-to-learn-create-and-grow/img.youtube.com/vi/79DqmMTV8-Y/hqdefault.jpg
 youtube_video_identifier: 79DqmMTV8-Y
 
 ---

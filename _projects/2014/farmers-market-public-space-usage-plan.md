@@ -166,6 +166,8 @@ Whom will your project benefit? Please be specific.: >-
   (Confirmed)
    
    We will seek support for local government officials, local businesses, artist and other local stakeholders to create a collaborative effort.
+cached_project_image: >-
+  /assets/images/projects/2014/farmers-market-public-space-usage-plan/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22050%252Fdisplay%252Fimagxxe.jpg=c570x385.jpg
 maker_image_id: '22050'
 maker_image_file_name: imagxxe.jpg
 

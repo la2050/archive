@@ -34,5 +34,7 @@ aggregated:
     - '5102314'
 maker_image_file_name: IMG_9355.JPG
 maker_image_id: '23850'
+cached_project_image: >-
+  /assets/images/organizations/the-venice-place-project-tedxvenicebeach-72andsunny/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23850%252Fdisplay%252FIMG_9355.JPG=c570x385.jpg
 
 ---

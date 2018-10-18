@@ -34,5 +34,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102191'
+cached_project_image: >-
+  /assets/images/organizations/proyecto-pastoral/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
 
 ---

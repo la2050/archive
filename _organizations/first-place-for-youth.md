@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102068'
+cached_project_image: >-
+  /assets/images/organizations/first-place-for-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 
 ---

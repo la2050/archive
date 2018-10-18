@@ -328,6 +328,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   audiences.  A strong, wellrespected performing arts festival will serve Los
   Angeles’ artistic and cultural vitality on many levels and has a spillover
   effect that enhances the quality of life for our greater community.  
+cached_project_image: >-
+  /assets/images/projects/2013/radar-l-a-international-theater-festival-a-vital-investment-in-l-a-theater-artists/img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg
 youtube_video_identifier: VpqSppE8ppo
 
 ---

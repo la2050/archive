@@ -32,5 +32,7 @@ aggregated:
   project_ids: []
 maker_image_file_name: IMAG0233.jpg
 maker_image_id: '20596'
+cached_project_image: >-
+  /assets/images/organizations/conant-moran-design-fabrication/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20596%252Fdisplay%252FIMAG0233.jpg=c570x385.jpg
 
 ---

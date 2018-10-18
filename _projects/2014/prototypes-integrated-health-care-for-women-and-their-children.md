@@ -126,6 +126,8 @@ What will you do to implement this idea/project?: >-
    ChapCare’s proposed project will benefit the low-income populations of the El Monte/South El Monte region by providing easily accessible health insurance enrollment services. The project will provide services in a culturally and linguistically competent manner that is responsive to the needs of the community.
 How will your idea/project help make LA the best place to connect today? In LA2050?: Not applicable.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/prototypes-integrated-health-care-for-women-and-their-children/img.youtube.com/vi/6AUZY8VvXXQ/maxresdefault.jpg
 youtube_video_identifier: 6AUZY8VvXXQ
 
 ---

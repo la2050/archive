@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '8102069'
 youtube_video_identifier: uVgrIU_Bl9g
+cached_project_image: >-
+  /assets/images/organizations/eezitec/img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg
 
 ---

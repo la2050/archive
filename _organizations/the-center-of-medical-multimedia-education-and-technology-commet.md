@@ -39,5 +39,7 @@ aggregated:
     - '5102297'
     - '4102216'
 youtube_video_identifier: NNetdspYB4M
+cached_project_image: >-
+  /assets/images/organizations/the-center-of-medical-multimedia-education-and-technology-commet/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg
 
 ---

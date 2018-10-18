@@ -125,6 +125,8 @@ project_proposal_best_place: >-
   prototype test phase. Distributed mesh services can replace centralized or
   cloud library and e-media services on these Mega-Meshes, to directly serve
   community members, and depend less on remote gatekeepers.
+cached_project_image: >-
+  /assets/images/projects/2016/la-on-the-l-a-m-m-learning-angels-mega-mesh/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
 organization_name: Data Roads Foundation
 organization_website: DataRoads.org
 

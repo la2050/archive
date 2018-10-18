@@ -119,6 +119,8 @@ project_proposal_best_place: >-
   Green will develop a Resilience Hub model specifically suited for our
   increasingly hot, arid climate, and work with local community development
   corporations to identify sites for building pilot hubs.
+cached_project_image: >-
+  /assets/images/projects/2016/los-angeles-resilience-hubs-developing-a-model-for-a-resilient-city/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8832997725741-team90.jpg
 organization_name: Global Green USA
 organization_website: globalgreen.org
 

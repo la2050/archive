@@ -254,6 +254,8 @@ How do you plan to scale the success of your proposal?: >-
    LA is a city with actors in between professional work, ex-teachers waiting for the call to teach.
    
    Our infra-structure will accommodate and use all of those other-wise idle hours to grow our ability to deliver to more each year.
+cached_project_image: >-
+  /assets/images/projects/2015/history-detectives-2-0/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23966%252Fdisplay%252FRobey_Brochure_Front1_(1).jpg=c570x385.jpg
 maker_image_id: '23966'
 maker_image_file_name: Robey_Brochure_Front1_(1).jpg
 organization_name: Robey Theatre Company

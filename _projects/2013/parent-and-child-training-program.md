@@ -189,6 +189,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   community members will be able to build a common understanding of each
   person’s role in helping students meet academic and social expectations and
   help students meet their goals. 
+cached_project_image: >-
+  /assets/images/projects/2013/parent-and-child-training-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17028%252Fdisplay%252Flogo_new.jpg=c570x385.jpg
 maker_image_id: '17028'
 maker_image_file_name: logo_new.jpg
 

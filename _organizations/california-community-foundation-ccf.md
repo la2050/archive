@@ -66,5 +66,7 @@ aggregated:
     - '3102049'
 maker_image_file_name: BLOOM-NEWFINAL_LOGO_ccf_tag.jpg
 maker_image_id: '16109'
+cached_project_image: >-
+  /assets/images/organizations/california-community-foundation-ccf/maker.good.is/images/placeholder/idea.png
 
 ---

@@ -332,6 +332,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/departures-youth-voices-mobile-classroom/img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg
 youtube_video_identifier: 9PUd4G27uNk
 
 ---

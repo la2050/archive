@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '4102085'
 youtube_video_identifier: DMG32xJ5p-Q
+cached_project_image: >-
+  /assets/images/organizations/special-olympics-world-games-2015/upload.wikimedia.org/wikipedia/commons/2/2d/2015_Special_Olympics_Closing_Ceremony_on_August_2%2C_2015.jpg
 
 ---

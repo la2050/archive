@@ -293,6 +293,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   their risk of future health problems such as type 2 Diabetes and obesity will
   be significantly reduced.  A healthier city will not only reduce the health
   care costs of Los Angeles, but also increase its productivity. 
+cached_project_image: >-
+  /assets/images/projects/2013/school-fuel-tackling-childhood-obesity-in-the-los-angeles-unified-school-district/img.youtube.com/vi/FB9aNSfVARA/hqdefault.jpg
 youtube_video_identifier: FB9aNSfVARA
 
 ---

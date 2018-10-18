@@ -37,5 +37,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102222'
+cached_project_image: >-
+  /assets/images/organizations/santa-clarita-valley-adventure-play/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9802286065741-team89.png
 
 ---

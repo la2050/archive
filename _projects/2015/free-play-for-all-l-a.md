@@ -293,6 +293,8 @@ How do you plan to scale the success of your proposal?: >-
   to bring 'Play' Buses to other cities across America. Of course, as we were
   founded in Boston we know for sure that our strong following in the Greater
   Boston area would be very appreciative to have a Play Bus.
+cached_project_image: >-
+  /assets/images/projects/2015/free-play-for-all-l-a/img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg
 youtube_video_identifier: FAirDH4ROp0
 organization_name: Knucklebones
 

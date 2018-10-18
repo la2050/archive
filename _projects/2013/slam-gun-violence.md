@@ -135,6 +135,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   school, improving their grades, encouraging others to do the same.  Gun
   violence would continue to decrease.  And SLAM GUN VIOLENCE would become a
   national model!
+cached_project_image: >-
+  /assets/images/projects/2013/slam-gun-violence/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16861%252Fdisplay%252FMarlys__Eileen__Dexter_and_kids_after_youth_presentation.JPG=c570x385.jpg
 maker_image_id: '16861'
 maker_image_file_name: Marlys__Eileen__Dexter_and_kids_after_youth_presentation.JPG
 

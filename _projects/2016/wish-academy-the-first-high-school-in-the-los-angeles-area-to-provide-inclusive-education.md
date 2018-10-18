@@ -117,6 +117,8 @@ project_proposal_best_place: >-
   increase due to the proliferation of new families moving to the area employed
   by the Silicon Beach corporations in Playa Vista.  More importantly, there are
   no inclusive high school education options. Period.
+cached_project_image: >-
+  /assets/images/projects/2016/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
 organization_name: WISH Academy High School
 organization_website: WWW.WISHacademyhs.org
 

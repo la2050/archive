@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102166'
 youtube_video_identifier: nJPC81QoGyk
+cached_project_image: >-
+  /assets/images/organizations/theatrum-elysium-san-pedro-rep/img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg
 
 ---

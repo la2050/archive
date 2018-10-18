@@ -30,5 +30,7 @@ aggregated:
     - '2015'
   project_ids: []
 youtube_video_identifier: k-SpD948tJc
+cached_project_image: >-
+  /assets/images/organizations/tempest-action-parks/img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg
 
 ---

@@ -35,5 +35,7 @@ aggregated:
     - '5102008'
 maker_image_file_name: AMBgroupPic.jpg
 maker_image_id: '23208'
+cached_project_image: >-
+  /assets/images/organizations/academy-of-music-for-the-blind/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23208%252Fdisplay%252FAMBgroupPic.jpg=c570x385.jpg
 
 ---

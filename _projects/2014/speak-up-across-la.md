@@ -178,6 +178,8 @@ Whom will your project benefit? Please be specific.: >-
    We hope to partner also with various marketing firms, public relation organizations and media outlets to communicate these stories to as broad of an audience as possible. Some of which include, MTA that could showcase these short films in bus routes across Los Angeles. We currently have media partnerships with LATV, CNN, NBC, Junker Wagner Marketing, Media Image Public Relations and AK Design Strategies. 
    
    Once funded we will also partner with civic leaders in our target communities along with local neighborhood councils and the elected council members in that district. We know that by partnering with elected leaders in local, city and state levels we can create conversations both at the community and policy levels to really affect change and give an avenue for the students solutions and voice.
+cached_project_image: >-
+  /assets/images/projects/2014/speak-up-across-la/img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg
 youtube_video_identifier: poREvQfFFL4
 
 ---

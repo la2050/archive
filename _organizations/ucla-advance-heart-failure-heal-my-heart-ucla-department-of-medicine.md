@@ -30,5 +30,7 @@ aggregated:
     - '4102179'
 maker_image_file_name: myla2.png
 maker_image_id: '20504'
+cached_project_image: >-
+  /assets/images/organizations/ucla-advance-heart-failure-heal-my-heart-ucla-department-of-medicine/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20504%252Fdisplay%252Fmyla2.png=c570x385.png
 
 ---

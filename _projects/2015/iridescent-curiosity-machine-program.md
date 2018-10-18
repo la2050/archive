@@ -197,6 +197,8 @@ How do you plan to scale the success of your proposal?: >-
    Technovation model is easy to replicate and scale. With an online curriculum and option of in-person or virtual mentoring, teachers or students in any part of the world can create teams and participate in the competition.
    For the 2017 cycle, we hope to recruit the participants from the 2016 cycle as student ambassadors to help with outreach and support for future teams. 
    We recently launched a platform to involve Technovation Alumnae in scaling the program. SprEdTech, created by Amrita Venkatraman, a Technovation alumnae, is an initiative to encourage girls (grade 6 to grade 12) to develop an early interest in technology. Technovation alumnae are encouraged to become ambassadors through SprEdTech and spread the word about using coding and technology to create innovative products. Ambassadors will recruit and mentor future Technovation teams, lead technology workshops, and much more!
+cached_project_image: >-
+  /assets/images/projects/2015/iridescent-curiosity-machine-program/img.youtube.com/vi/XBAE46x2qio/maxresdefault.jpg
 youtube_video_identifier: XBAE46x2qio
 organization_name: Iridescent
 

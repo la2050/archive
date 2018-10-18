@@ -205,6 +205,8 @@ How do you plan to scale the success of your proposal?: >-
   leveraging venture capital funds and income from produce sales.
    
    In the future we would like to create pop up grocery stores. These grocery stores would be made out of recycled shipping containers and would employ local residents.
+cached_project_image: >-
+  /assets/images/projects/2015/revitalizing-the-way-los-angeles-grows-mentally-physically-and-economically/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23755%252Fdisplay%252FHydroponickids1.jpg=c570x385.jpg
 maker_image_id: '23755'
 maker_image_file_name: Hydroponickids1.jpg
 organization_name: GREENBOXFARMS

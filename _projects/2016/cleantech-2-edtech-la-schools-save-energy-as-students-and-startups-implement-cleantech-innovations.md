@@ -146,6 +146,8 @@ project_proposal_best_place: >-
 
   This program will be established at pilot sites within LAUSD, and if
   successful, rolled out more widely.
+cached_project_image: >-
+  /assets/images/projects/2016/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/11214192_935905586488107_4722615873049382596_n.jpg?_nc_cat=110&oh=02f45f49f54442c56940bfce84664260&oe=5C473C10.jpg
 organization_name: California Institute of Technology
 organization_website: www.caltech.edu
 

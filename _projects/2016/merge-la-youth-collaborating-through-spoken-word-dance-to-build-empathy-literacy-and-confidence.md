@@ -146,6 +146,8 @@ project_proposal_best_place: >-
   MERGE will be a pilot program, but one we hope to develop into a joint program
   that happens every spring, serving 20-30 young people, and audiences of 200+,
   each year.
+cached_project_image: >-
+  /assets/images/projects/2016/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5170666805741-team89.jpg
 organization_name: Say Word and 4C LAB
 organization_website: www.SayWordLA.org
 

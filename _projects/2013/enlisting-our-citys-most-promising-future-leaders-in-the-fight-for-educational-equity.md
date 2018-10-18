@@ -327,6 +327,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/enlisting-our-citys-most-promising-future-leaders-in-the-fight-for-educational-equity/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16726%252Fdisplay%252FTFA_LA_2050_Image.jpg=c570x385.jpg
 maker_image_id: '16726'
 maker_image_file_name: TFA_LA_2050_Image.jpg
 

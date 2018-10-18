@@ -122,6 +122,8 @@ project_proposal_best_place: >-
 
   More people on bikes = more interaction with neighbors, coworkers, people from
   all walks of life in this amazing diverse city.
+cached_project_image: >-
+  /assets/images/projects/2016/la-bike-trains-app-wayfinding-signage/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
 organization_name: Bicycle Culture Institute
 organization_website: bicycleculture.org
 

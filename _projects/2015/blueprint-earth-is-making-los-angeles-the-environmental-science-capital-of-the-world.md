@@ -336,6 +336,8 @@ How do you plan to scale the success of your proposal?: >-
    * Los Angeles has grown environmental tech jobs, related high-growth startups and manufacturing initiatives, and is recognized as the global leader
    * Complete blueprinting of 10 environments from around the world
    * Create optimized environment for sustaining life in space (e.g., for Mars or Moon mission)
+cached_project_image: >-
+  /assets/images/projects/2015/blueprint-earth-is-making-los-angeles-the-environmental-science-capital-of-the-world/img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg
 youtube_video_identifier: H-S2LiQcO00
 organization_name: Blueprint Earth
 

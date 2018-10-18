@@ -446,6 +446,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   The students we teach now will be in their midfifties by then. If they develop
   an awareness of the natural world and the importance of diet we'll only be in
   a better world for it. 
+cached_project_image: >-
+  /assets/images/projects/2013/kids-who-sling-kale-eat-kale-launch-5-school-garden-csas-in-las-food-deserts/img.youtube.com/vi/l5L_mT-6swI/maxresdefault.jpg
 youtube_video_identifier: l5L_mT-6swI
 
 ---

@@ -41,5 +41,7 @@ aggregated:
     - '6102037'
     - '5102057'
     - '4102222'
+cached_project_image: >-
+  /assets/images/organizations/citizens-of-the-world-charter-schools-los-angeles/www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg
 
 ---

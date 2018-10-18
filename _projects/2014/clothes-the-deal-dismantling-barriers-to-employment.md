@@ -218,6 +218,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    . Worksource California TSE Program
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/clothes-the-deal-dismantling-barriers-to-employment/img.youtube.com/vi/z_iZNryQIgw/maxresdefault.jpg
 youtube_video_identifier: z_iZNryQIgw
 
 ---

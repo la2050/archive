@@ -215,6 +215,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Establishing working relationships with the administration at local schools
    3. BGCH’s 75+ years in youth development programs and 9 Dots expertise in STEAM subjects
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/iamla-inspiring-the-future-generation-of-angelenos-with-a-youth-led-steam-awareness-campaign/img.youtube.com/vi/qBtFoJ-YYd0/maxresdefault.jpg
 youtube_video_identifier: qBtFoJ-YYd0
 
 ---

@@ -232,6 +232,8 @@ How do you plan to scale the success of your proposal?: >-
    As a member of LAUSD's Instructional Technology Initiative (I'm one of five expert resources for the Task Force), I will ensure that Reframe's professional learning opportunities are open to all interested throughout the district. 
    
    I will also diffuse lessons learned through my national network, providing a blueprint for next gen talent development to other regional organizations.
+cached_project_image: >-
+  /assets/images/projects/2015/training-leaders-to-launch-new-and-redesigned-next-generation-schools-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23338%252Fdisplay%252FScreen_Shot_2015-10-03_at_3.51.42_PM.png=c570x385.png
 maker_image_id: '23338'
 maker_image_file_name: Screen_Shot_2015-10-03_at_3.51.42_PM.png
 organization_name: Reframe Labs

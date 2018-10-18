@@ -197,6 +197,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    In addition to our unique collaboration with local food truck manufacturers, Opportunity Fund also partners with local bank branches, business services providers, and community organizations to identify small business owners who need access to financing.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/support-las-celebrated-food-truck-culture-by-helping-food-truck-entrepreneurs-grow-and-create-jobs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20202%252Fdisplay%252FThe_Little_Machin.jpg=c570x385.jpg
 maker_image_id: '20202'
 maker_image_file_name: The_Little_Machin.jpg
 

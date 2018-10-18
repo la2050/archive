@@ -224,6 +224,8 @@ How do you plan to scale the success of your proposal?: >-
   social sharing as we continue to trek through the digital and social media
   world. It would be incredible to then see a project like this grow into other
   cities.
+cached_project_image: >-
+  /assets/images/projects/2015/arts-for-incarcerated-youth-network/img.youtube.com/vi/Wx27G6vdyF4/maxresdefault.jpg
 youtube_video_identifier: Wx27G6vdyF4
 organization_name: >-
   Arts for Incarcerated Youth Network: includes AIYN members Armory Center for

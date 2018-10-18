@@ -291,6 +291,8 @@ How do you plan to scale the success of your proposal?: >-
    If we are going to spend over a billion dollars of our public funds on habitat restoration, water quality and passive recreation in the next decade we should make sure that it will provide great intergenerational play opportunities along with education, work force opportunities and fuel for our City’s global creative economy. Our efforts will be scaled according to the resources available. Partnerships and financial support will expedite the process. 
    
    We envision a generation of children and families growing up in Los Angeles who will think of the River as a memorable place that shaped their experiences and provided great places to play.
+cached_project_image: >-
+  /assets/images/projects/2015/ten-feet-art-meets-the-river-2016/img.youtube.com/vi/NlnlvjCu_AE/maxresdefault.jpg
 youtube_video_identifier: NlnlvjCu_AE
 organization_name: The LA River Public Art Project
 

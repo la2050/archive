@@ -67,5 +67,7 @@ aggregated:
   project_ids:
     - '3102251'
 youtube_video_identifier: inC3OJbaTT4
+cached_project_image: >-
+  /assets/images/organizations/the-l-a-kitchen/img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg
 
 ---

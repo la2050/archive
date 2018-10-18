@@ -315,6 +315,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   our successful Peer Mentoring program that has proven to help see kids through
   high school and college, we are helping to break the cycle of poverty and
   shaping the future of Los Angeles.   
+cached_project_image: >-
+  /assets/images/projects/2013/harmony-project/img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg
 youtube_video_identifier: zVwm_GRMSHw
 
 ---

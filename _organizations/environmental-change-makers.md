@@ -47,5 +47,7 @@ aggregated:
     - '3102125'
 maker_image_file_name: CGatHN_by_Linda_570w.jpg
 maker_image_id: '16319'
+cached_project_image: >-
+  /assets/images/organizations/environmental-change-makers/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16319%252Fdisplay%252FCGatHN_by_Linda_570w.jpg=c570x385.jpg
 
 ---

@@ -33,5 +33,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102001'
+cached_project_image: >-
+  /assets/images/organizations/happyperiod/activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg
 
 ---

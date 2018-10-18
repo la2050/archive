@@ -215,6 +215,8 @@ How do you plan to scale the success of your proposal?: >-
   The 2016 online voting pilot is in 35 of LA's 96 neighborhood councils, and we
   will work with EmpowerLA to distribute best practices and conduct training
   with neighborhood councils if and when the pilot expands in future years.
+cached_project_image: >-
+  /assets/images/projects/2015/expanding-participation-with-online-voting-in-la-neighborhood-councils/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23887%252Fdisplay%252Fcivictechusc_neighborhood_LA2050.png=c570x385.png
 maker_image_id: '23887'
 maker_image_file_name: civictechusc_neighborhood_LA2050.png
 organization_name: Civic Tech USC

@@ -42,5 +42,7 @@ aggregated:
   project_ids:
     - '6102012'
     - '5102024'
+cached_project_image: >-
+  /assets/images/organizations/arts-for-incarcerated-youth-network/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 
 ---

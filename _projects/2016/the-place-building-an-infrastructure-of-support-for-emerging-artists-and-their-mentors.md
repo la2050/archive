@@ -158,6 +158,8 @@ project_proposal_best_place: >-
   Council, “Protégé” emerging arts-professional mentorship program, &
   professional development workshops. Our shared infrastructure will match
   skills & interests of all volunteers with the appropriate programs.
+cached_project_image: >-
+  /assets/images/projects/2016/the-place-building-an-infrastructure-of-support-for-emerging-artists-and-their-mentors/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4185192065741-team91.jpg
 organization_name: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
 organization_website: DSTLArts.org
 

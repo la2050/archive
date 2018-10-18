@@ -132,6 +132,8 @@ project_proposal_best_place: >-
   With publications that are both culturally and stylistically unique, and
   events that are thought-provoking and affordable, Red Hen Press contributes to
   the diverse literary landscape of Southern California.
+cached_project_image: >-
+  /assets/images/projects/2016/get-lit-with-red-hen-press-bringing-fresh-voices-to-the-la-literary-scene/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9754248015741-team90.jpeg
 organization_name: Red Hen Press
 organization_website: redhen.org
 

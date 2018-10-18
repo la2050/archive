@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '8102052'
 youtube_video_identifier: NHaLkpe_jms
+cached_project_image: >-
+  /assets/images/organizations/dumlao-enterprises/img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg
 
 ---

@@ -212,6 +212,8 @@ How do you plan to scale the success of your proposal?: >-
   – from social media to community connections. 
    
    The Managed Project program is designed to scale. We have a trained volunteer leader who is assisting with the training of additional leaders and are currently recruiting to identify a volunteer to assist with recruiting additional volunteer leaders from within our own cadre of volunteer participants. Once the volunteer leader is in place and trained on our volunteer database system, there is minimal management time needed to oversee this program on a daily basis.
+cached_project_image: >-
+  /assets/images/projects/2015/l-a-works-volunteers-for-a-greater-la/img.youtube.com/vi/-6JhSNkIbso/maxresdefault.jpg
 youtube_video_identifier: '-6JhSNkIbso'
 organization_name: L.A. Works
 

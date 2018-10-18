@@ -173,6 +173,8 @@ Whom will your project benefit? Please be specific.: >-
    1) improving graduation rates at Mendez High School, 2) building a college going culture in our community, 3) increasing access to health and wellness services, and 4) fostering leadership and civic engagement opportunities for adult residents and youth. 
    
    Our collective impact model elevates partners to continuum leadership roles. In addition to partnering with the target schools and their education reform manager Partnership for Los Angeles Schools (PLAS), 12 agencies are collaborating as Continuum Lead Partners. We also work closely with two schools: Hollenbeck Middle School and Mendez High School. All partners signed an MOU at the end of our planning period in 2011 and 125 residents signed a commitment form. The coordination of resident engagement and leadership moving forward, particularly as it relates to the Wellness Center campaign, will be led by East Los Angeles Community Corporation (ELACC), InnerCity Struggle, & Proyecto Pastoral.
+cached_project_image: >-
+  /assets/images/projects/2014/promesa-boyle-heights-transforming-our-community-together/img.youtube.com/vi/BCRB5ujmBHo/maxresdefault.jpg
 youtube_video_identifier: BCRB5ujmBHo
 
 ---

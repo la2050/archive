@@ -32,5 +32,7 @@ aggregated:
     - '2015'
   project_ids: []
 youtube_video_identifier: 5-66_Xqn0Cw
+cached_project_image: >-
+  /assets/images/organizations/sustaynabl/img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg
 
 ---

@@ -136,6 +136,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   they develop their creative and entrepreneurial skill sets; they will have
   access to facilities and opportunities to connect with other creative
   professionals. 
+cached_project_image: >-
+  /assets/images/projects/2013/creative-placemaking-in-downtown-l-a/img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg
 youtube_video_identifier: w8o0x9VRbvE
 
 ---

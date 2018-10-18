@@ -257,6 +257,8 @@ How do you plan to scale the success of your proposal?: >-
    
    3. Monitor development to ensure community priorities are implemented. 
    Many residents aren't aware of the magnitude of the potential investment or the potential opportunity the River brings if the investment is shaped with local communities in mind. As River development begins, we will monitor activities and share information with residents to help develop tools for meaningfully shaping River community benefits.
+cached_project_image: >-
+  /assets/images/projects/2015/la-riverworks-a-vision-to-engage-la-communities-in-river-revitalization/img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg
 youtube_video_identifier: fMyc7c0Ylc4
 organization_name: Southeast Asian Community Alliance (SEACA) and Public Counsel
 

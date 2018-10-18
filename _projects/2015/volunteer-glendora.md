@@ -219,6 +219,8 @@ How do you plan to scale the success of your proposal?: >-
   can be parked at strategic locations to encourage volunteerism. This will
   ensure that not only our community but to others outside of community who may
   want to participate.
+cached_project_image: >-
+  /assets/images/projects/2015/volunteer-glendora/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23980%252Fdisplay%252FLA2015_1.jpg=c570x385.jpg
 maker_image_id: '23980'
 maker_image_file_name: LA2015_1.jpg
 organization_name: City of Glendora

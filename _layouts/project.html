@@ -190,7 +190,12 @@ http://maker.good.is/myla2050{{ page.category }}2015.html
 {% endif %}
 
 
-<img src="{{ page.project_image }}" alt="{{ page.title }}" width="500" />
+
+{% if page['cached_project_image'] and page['project_image'] contains "http://" %}
+<img src="{{ page['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ page.title }}" width="500" />
+{% else %}
+<img src="{{ page['project_image'] }}" alt="{{ page.title }}" width="500" />
+{% endif %}
 
 
 {% if page.project_video and page.project_video != '' %}

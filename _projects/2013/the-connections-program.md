@@ -319,6 +319,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   among these underrepresented populations. Ultimately, the Connections Program
   will build a strong collegegoing culture among our school communities, making
   college the expectation not the exception among LA’s most atrisk youth.
+cached_project_image: >-
+  /assets/images/projects/2013/the-connections-program/img.youtube.com/vi/-t89MRZW7G0/maxresdefault.jpg
 youtube_video_identifier: '-t89MRZW7G0'
 
 ---

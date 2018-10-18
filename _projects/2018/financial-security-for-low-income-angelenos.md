@@ -163,6 +163,8 @@ Where do you hope this activation or your organization will be in five years?: >
   access and eligibility to the EITC and continue to lift working people out of
   poverty. Everyone who works deserves to have the dignity of financial security
   and providing for their families!
+cached_project_image: >-
+  /assets/images/projects/2018/financial-security-for-low-income-angelenos/activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg
 organization_name: CalEITC4Me
 
 ---

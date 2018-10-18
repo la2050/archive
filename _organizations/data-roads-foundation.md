@@ -48,5 +48,7 @@ aggregated:
     - '6102059'
     - '4102062'
     - '4102250'
+cached_project_image: >-
+  /assets/images/organizations/data-roads-foundation/activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 
 ---

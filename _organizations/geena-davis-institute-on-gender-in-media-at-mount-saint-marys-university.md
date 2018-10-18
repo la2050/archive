@@ -37,5 +37,7 @@ aggregated:
   project_ids:
     - '6102079'
     - '6102078'
+cached_project_image: >-
+  /assets/images/organizations/geena-davis-institute-on-gender-in-media-at-mount-saint-marys-university/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
 
 ---

@@ -32,5 +32,7 @@ aggregated:
     - '2015'
   project_ids: []
 youtube_video_identifier: 0qhd1kRJ698
+cached_project_image: >-
+  /assets/images/organizations/microenterprise-org/img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg
 
 ---

@@ -245,6 +245,8 @@ How do you plan to scale the success of your proposal?: >-
   will be documented and tracked. Feedback will be solicited via social media
   and on the spot conversation of buyer preferences and requests. Feedback will
   also be solicited from Paleteras regarding public comments, and impressions.
+cached_project_image: >-
+  /assets/images/projects/2015/la-paletera-de-los-angeles-fruit-bars-cold-drinks-healthy-delicious-snacks/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23623%252Fdisplay%252FMarsh_Park_Launch_Denice_Bike_.jpg=c570x385.jpg
 maker_image_id: '23623'
 maker_image_file_name: Marsh_Park_Launch_Denice_Bike_.jpg
 organization_name: Mujeres de la Tierra

@@ -276,6 +276,8 @@ How do you plan to scale the success of your proposal?: >-
    We believe that resident leadership and the spirit of collaboration have been - and will continue to be - a driving force as we work to fully implement the strategies in our original plan. This plan includes working towards the day when we have a strong Community-School and resident leadership infrastructure at each school, when we a strong and coordinated Early Learning Network, and a Transition to College Network in Boyle Heights. 
    
    As part of our involvement in the national Promise Neighborhood Institute, we are also beginning to share best practices and tools with other communities and organizations in Los Angeles and throughout the nation. We see this as an important part of our contribution towards the field of education and community transformation.
+cached_project_image: >-
+  /assets/images/projects/2015/promesa-boyle-heights/img.youtube.com/vi/S4rpsBWmEw4/maxresdefault.jpg
 youtube_video_identifier: S4rpsBWmEw4
 organization_name: Promesa Boyle Heights at Proyecto Pastoral
 

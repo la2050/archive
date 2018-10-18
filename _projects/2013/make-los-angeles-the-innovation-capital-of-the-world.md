@@ -216,6 +216,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   infrastructure creates a physical network that connects people and communities
   to jobs, universities, and all the beautiful and brilliant aspects of LA’s
   amazingly diverse geographies.
+cached_project_image: >-
+  /assets/images/projects/2013/make-los-angeles-the-innovation-capital-of-the-world/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16540%252Fdisplay%252FLAMCII_graphic.png=c570x385.png
 maker_image_id: '16540'
 maker_image_file_name: LAMCII_graphic.png
 

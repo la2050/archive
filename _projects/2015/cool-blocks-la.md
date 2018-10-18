@@ -264,6 +264,8 @@ How do you plan to scale the success of your proposal?: >-
    In alignment with the Sustainable City Plan and the LA2050 Vision and Goals, our long-term goal is to engage 15% of City of LA households in the Cool Block program—a demonstrated tipping point for social change.
    
    By the end of Year 3, Los Angeles will be in an ideal position to serve as a candidate for an upcoming “Cool Cities Challenge,” a $2.5 million initiative with 20 California cities leading the way to a healthy carbon future by 2020.
+cached_project_image: >-
+  /assets/images/projects/2015/cool-blocks-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23843%252Fdisplay%252FCool_block_9.png=c570x385.png
 maker_image_id: '23843'
 maker_image_file_name: Cool_block_9.png
 organization_name: Neighborhood Council Sustainability Alliance

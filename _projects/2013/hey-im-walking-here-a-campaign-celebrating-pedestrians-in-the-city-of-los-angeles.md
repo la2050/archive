@@ -464,6 +464,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   connected to their community. More importantly, our growing population can
   move to dense parts of the city to age in place without a loss of
   independence.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/hey-im-walking-here-a-campaign-celebrating-pedestrians-in-the-city-of-los-angeles/img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg
 youtube_video_identifier: hHXkL2SbXI8
 
 ---

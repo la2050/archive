@@ -308,6 +308,8 @@ How do you plan to scale the success of your proposal?: >-
   country where surf culture is tantamount to ocean related activities and the
   need for conservation. Enabling the EcoBoard project to be modular helps and
   the project itself is scalable in nature by its original design and resources.
+cached_project_image: >-
+  /assets/images/projects/2015/the-ecoboard-project/img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg
 youtube_video_identifier: 5-OvAiMBAFc
 organization_name: Sustainablesurf.org
 

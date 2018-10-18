@@ -35,5 +35,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102088'
+cached_project_image: >-
+  /assets/images/organizations/national-veterans-transition-services-inc-aka-reboot/activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
 
 ---

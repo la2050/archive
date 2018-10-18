@@ -207,6 +207,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    ......4.3.1 This will include local businesses, local organizations, local governments, and others wishing to convey information through the QR codes. Not confirmed.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/welcome-to-our-neighborhood/img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg
 youtube_video_identifier: z7QaUClznXM
 
 ---

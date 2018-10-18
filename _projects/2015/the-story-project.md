@@ -254,6 +254,8 @@ How do you plan to scale the success of your proposal?: >-
   project and library that would house video projects, testimonials and metrics
   that will document our successes through the years in curbing violence and
   adding value to the quality of life in these challenged communities.
+cached_project_image: >-
+  /assets/images/projects/2015/the-story-project/img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg
 youtube_video_identifier: BnbLK2sxsXI
 organization_name: The Story Project
 

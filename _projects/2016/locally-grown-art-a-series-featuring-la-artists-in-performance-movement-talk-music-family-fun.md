@@ -109,6 +109,8 @@ project_proposal_best_place: >-
   community members who are pursuing the arts. Space would be reserved on a
   first-come, first-serve basis, and participating artists would be encouraged
   to find ways to share their work back with the broader community.
+cached_project_image: >-
+  /assets/images/projects/2016/locally-grown-art-a-series-featuring-la-artists-in-performance-movement-talk-music-family-fun/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
 organization_name: SIJCC
 organization_website: sijcc.net
 

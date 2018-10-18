@@ -34,5 +34,7 @@ aggregated:
     - '2015'
   project_ids: []
 youtube_video_identifier: TjRq-S_gY9U
+cached_project_image: >-
+  /assets/images/organizations/green-commuter/img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg
 
 ---

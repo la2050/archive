@@ -36,5 +36,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102266'
+cached_project_image: >-
+  /assets/images/organizations/ucla-institute-of-the-environment-and-sustainability-ioes/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
 
 ---

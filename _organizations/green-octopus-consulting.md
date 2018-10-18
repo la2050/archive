@@ -51,5 +51,7 @@ aggregated:
     - '3102054'
 maker_image_file_name: Diane_Gershuny.jpg
 maker_image_id: '16987'
+cached_project_image: >-
+  /assets/images/organizations/green-octopus-consulting/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16987%252Fdisplay%252FDiane_Gershuny.jpg=c570x385.jpg
 
 ---

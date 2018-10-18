@@ -283,6 +283,8 @@ How do you plan to scale the success of your proposal?: >-
    Children 0-5 are in the care of family members or friends, most likely their grandparents. These caregivers know how they raised their children and their cultural preferences. They are not taking into consideration the impact they are having on the child’s weight, nutrient intake and brain development. This set of caregivers need an additional support system and messaging directed just to them. They are family members and see themselves as such, not as babysitters, caregivers, providers or teachers. Therefore, we will also reach out to organizations such as Generations United, AARP and other Grandfamilies organizations to consider what a partnership might look like to provide the class throughout these networks.
    
    The website with all of the information and how to replicate these efforts will be maintained so the general public will always have access to the white paper, lessons learned and ways to replicate what we accomplished.
+cached_project_image: >-
+  /assets/images/projects/2015/caregiver-and-me-get-healthy-with-sesame-street/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23553%252Fdisplay%252F97_000_Children.jpg=c570x385.jpg
 maker_image_id: '23553'
 maker_image_file_name: 97_000_Children.jpg
 organization_name: >-

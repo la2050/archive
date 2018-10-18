@@ -214,6 +214,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   leaders across a broad swath of institutions, agencies, and educational
   centers in the region.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/the-los-angeles-service-academy/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385.jpg
 maker_image_id: '23401'
 maker_image_file_name: LASA_LARiver2015.jpg
 

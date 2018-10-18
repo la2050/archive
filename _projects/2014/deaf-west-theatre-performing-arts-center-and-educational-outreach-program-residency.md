@@ -206,6 +206,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Until a residency agreement with any organization is finalized, our budget does not assume financial obligation (cash or in-kind) from any potential partner.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/deaf-west-theatre-performing-arts-center-and-educational-outreach-program-residency/img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg
 youtube_video_identifier: n__7obsdA8E
 
 ---

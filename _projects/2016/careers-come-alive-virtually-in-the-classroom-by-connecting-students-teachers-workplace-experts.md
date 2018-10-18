@@ -114,6 +114,8 @@ project_proposal_best_place: >-
   Students from every corner of the region and background will have
   opportunities to learn about careers that have always been so near, and
   frequently so far.
+cached_project_image: >-
+  /assets/images/projects/2016/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
 organization_name: ConnectEd
 organization_website: www.connectedcalifornia.org
 

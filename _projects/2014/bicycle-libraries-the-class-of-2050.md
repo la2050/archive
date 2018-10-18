@@ -176,6 +176,8 @@ Whom will your project benefit? Please be specific.: >-
    3) getting the word out so that enthusiastic students will apply. 
    
    Fortunately, Libros Schmibros is already connected to every named partner either through teaching experience, current staff, past programs, or agreements and relationships with Libros advisory committee members.
+cached_project_image: >-
+  /assets/images/projects/2014/bicycle-libraries-the-class-of-2050/img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg
 youtube_video_identifier: iFODyc5eUjQ
 
 ---

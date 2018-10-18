@@ -227,6 +227,8 @@ How do you plan to scale the success of your proposal?: >-
    More and more people are discovering Bruce Lee every day. His social media following alone is now over 20 million. Through the foundations network of corporate, celebrity and social influencers we will share the stories of the kids, clubs and schools taking part in the program to enable larger gifts and partnerships. 
    
    This pilot program and partnership with LA2050 will be key in proving the overall concept of the program itself, prior to expanding locally within LA county, then to the greater Californian area and eventually reaching other states within the continental US.
+cached_project_image: >-
+  /assets/images/projects/2015/bruce-lees-little-dragons/img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg
 youtube_video_identifier: YufCYg-BYaY
 organization_name: 'Bruce Lee Foundation '
 

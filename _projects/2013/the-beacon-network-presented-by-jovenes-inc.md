@@ -221,6 +221,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   <p>It is from that place that we can then work on the crucial tasks of social
   connection through voting, volunteering, raising the voices and aspirations of
   our youth.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/the-beacon-network-presented-by-jovenes-inc/img.youtube.com/vi/EU-tF61LXK8/maxresdefault.jpg
 youtube_video_identifier: EU-tF61LXK8
 
 ---

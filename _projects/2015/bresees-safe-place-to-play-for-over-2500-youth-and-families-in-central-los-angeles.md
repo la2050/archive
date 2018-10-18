@@ -217,6 +217,8 @@ How do you plan to scale the success of your proposal?: >-
   youth development activities.
    
    Additionally, Bresee is currently seeking to partner with the new Major League Soccer Team LAFC to replicating its sports programming in other high need areas of Los Angeles including East Los Angeles, West Los Angeles, South Los Angeles, Pacoima, Mar Vista, and Venice. Lastly, Bresee envisions current program participants returning as college graduates to expand services to other areas in Los Angeles and to continue Bresee’s track record of creating the next generation of community leaders.
+cached_project_image: >-
+  /assets/images/projects/2015/bresees-safe-place-to-play-for-over-2500-youth-and-families-in-central-los-angeles/img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
 youtube_video_identifier: yeyzmCpYfFk
 organization_name: P.F. Bresee Foundation
 

@@ -36,5 +36,7 @@ aggregated:
     - '4102107'
 maker_image_file_name: logo.png
 maker_image_id: '20761'
+cached_project_image: >-
+  /assets/images/organizations/womenshelter-of-long-beach/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20761%252Fdisplay%252Flogo.png=c570x385.png
 
 ---

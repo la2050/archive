@@ -26,5 +26,7 @@ aggregated:
   project_ids:
     - '4102153'
 youtube_video_identifier: A3zOCbnCHLg
+cached_project_image: >-
+  /assets/images/organizations/meet-each-need-with-dignity/img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg
 
 ---

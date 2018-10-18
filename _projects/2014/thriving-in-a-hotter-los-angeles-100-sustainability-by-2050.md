@@ -125,6 +125,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   concrete data for their work, and policy/government who currently have limited
   data with which to make decisions.
 Whom will your project benefit? Please be specific.: For Los Angeles we won't need any partners to deploy this.
+cached_project_image: >-
+  /assets/images/projects/2014/thriving-in-a-hotter-los-angeles-100-sustainability-by-2050/img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg
 youtube_video_identifier: DITouRhKW80
 
 ---

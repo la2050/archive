@@ -219,6 +219,8 @@ How do you plan to scale the success of your proposal?: >-
    As Angelenos interest in adopting urban acupuncture strategies grows, students in the first three years of classes will have opportunities to serve requisite field apprenticeships with Water LA small business partners, and with our NGO partners as we retrofit 100 more homes and 1,000 parkway basins through the Water LA Phase 2 pilot.
    
    Our ultimate aim is to design a curriculum that can be transferred to colleges throughout the California Community College System and ultimately, the west.
+cached_project_image: >-
+  /assets/images/projects/2015/blue-green-jobs-for-a-climate-resilient-los-angeles/img.youtube.com/vi/fvo26NJM3JM/maxresdefault.jpg
 youtube_video_identifier: fvo26NJM3JM
 organization_name: The River Project
 

@@ -246,6 +246,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Preschool Fair:
    “I'm a new mom and this was very helpful because some of the preschools I didn't find in my search on yelp, google search, & in the book. It was wonderful to be able to ask questions to multiple schools. Please keep having the fairs.”
+cached_project_image: >-
+  /assets/images/projects/2015/parents-education-league-of-la-creating-your-go-to-school-resource-parent-network/img.youtube.com/vi/mtWPecaYPCQ/maxresdefault.jpg
 youtube_video_identifier: mtWPecaYPCQ
 organization_name: Parents Education League of Los Angeles (PEL)
 

@@ -215,6 +215,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Ø Implementation of CFS would be carried out in moderninzed learning space e.g. the Incubator Hub on the campus of Locke High School in South Los Angeles. Through this project, LA’s BEST would partner with a local high school to update and use this space for instruction and for community needs. The updates would benefit the high school long after the conclusion of this project.
    Ø Through this grant, LA’s BEST in partnership with SunnyEd will extend the training to high school students at the high school in Los Angeles. These high school students will then form a mentoring group for the LA’s BEST elementary school students and would work alongside our staff in the implementation of CFS. Journeys would focus on those elements in the curriculum that foster positive connections and those that develop skills for facilitating conversations. The effort is aimed as much to connect younger and older youth as to extend the social action model to a new target (high school students). We propose to train 20 high school students in the CFS curriculum. Their work would support implementation of the program at each of three sites. High School youth would work with small groups of 4 to 5 LA’s BEST students and support the work of LA’s BEST staff debriefing experiences in small groups (checking for understanding, debriefing the journey).
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/connecting-for-success/img.youtube.com/vi/zO6iw8OKiwM/maxresdefault.jpg
 youtube_video_identifier: zO6iw8OKiwM
 
 ---

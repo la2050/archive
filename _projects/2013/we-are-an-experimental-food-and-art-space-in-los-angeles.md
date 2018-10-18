@@ -248,6 +248,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   In order for this to happen, we hope to see more funding for public art,
   nontraditional practices, and underdog organizations and individuals in Los
   Angeles by 2050. 
+cached_project_image: >-
+  /assets/images/projects/2013/we-are-an-experimental-food-and-art-space-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16835%252Fdisplay%252Fkitchen2.jpg=c570x385.jpg
 maker_image_id: '16835'
 maker_image_file_name: kitchen2.jpg
 

@@ -180,6 +180,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   and obsolete as floppy disks are now. Nonetheless, we hope that in 2050 the
   spirit of our project will be manifested in an inclusive, multicultural Los
   Angeles that celebrates its past.
+cached_project_image: >-
+  /assets/images/projects/2013/discovering-las-forgotten-landmarks-celebrating-our-diverse-cultural-history/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16667%252Fdisplay%252FImage.jpg=c570x385.jpg
 maker_image_id: '16667'
 maker_image_file_name: Image.jpg
 

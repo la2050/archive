@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '4102158'
 youtube_video_identifier: wGHuWyQEQIU
+cached_project_image: >-
+  /assets/images/organizations/haunted-play-llc/img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg
 
 ---

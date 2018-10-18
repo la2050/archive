@@ -153,6 +153,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Three critical success factors: communication, participation, and balancing of interests. The game needs to be fun, we want it to be informative, and it should have the right mix. We’re pretty sure the three of us work well together – it’s all about balancing what we each bring to the table.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/flight-of-the-angels-a-pervasive-audio-game-about-dtla/img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg
 youtube_video_identifier: NtMAZqR4Tf4
 
 ---

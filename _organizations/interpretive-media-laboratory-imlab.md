@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '4102045'
 youtube_video_identifier: _1j9tLhT4z8
+cached_project_image: >-
+  /assets/images/organizations/interpretive-media-laboratory-imlab/img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg
 
 ---

@@ -271,6 +271,8 @@ How do you plan to scale the success of your proposal?: >-
   end of the campaign’s third year. 
    
    Once it has expanded into all 15 communities, year four of the effort will revolve around coalition capacity building, including running a series of coalition convenings, resulting in a stronger network of community coalitions throughout Los Angeles County. The work proposed here will cover year one of the proposed initiative and will be scaled citywide as outlined by the end of its four-year duration.
+cached_project_image: >-
+  /assets/images/projects/2015/connected-communities-resilient-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23719%252Fdisplay%252F18603358223_2be7ae4ace_b.jpg=c570x385.jpg
 maker_image_id: '23719'
 maker_image_file_name: 18603358223_2be7ae4ace_b.jpg
 organization_name: American Red Cross Los Angeles Region (ARCLA)

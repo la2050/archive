@@ -34,5 +34,7 @@ aggregated:
     - '5102339'
 maker_image_file_name: Tianguis.jpg
 maker_image_id: '22393'
+cached_project_image: >-
+  /assets/images/organizations/elusive-minds-productions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22393%252Fdisplay%252FTianguis.jpg=c570x385.jpg
 
 ---

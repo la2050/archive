@@ -276,6 +276,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   successful 2050 will actually look like.  We don’t just want to talk about it,
   we want to collectively envision solutions and create a feasible and
   comprehensive road map to get there.
+cached_project_image: >-
+  /assets/images/projects/2013/skid-row-2050/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16449%252Fdisplay%252FSRHT_LA2050_Image_copy.jpg=c570x385.jpg
 maker_image_id: '16449'
 maker_image_file_name: SRHT_LA2050_Image_copy.jpg
 

@@ -215,6 +215,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   students becoming eligible to attend college. A county wide employment of this
   program will not only create a sense of community, but a network for students
   to utilize in the future.
+cached_project_image: >-
+  /assets/images/projects/2013/empowering-students-thru-arts-and-education/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16307'
 maker_image_file_name: image.jpg
 

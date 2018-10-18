@@ -57,5 +57,7 @@ aggregated:
     - '3102073'
 maker_image_file_name: 2050_image.jpg
 maker_image_id: '16321'
+cached_project_image: >-
+  /assets/images/organizations/citystage/maker.good.is/images/placeholder/idea.png
 
 ---

@@ -29,5 +29,7 @@ aggregated:
   project_ids:
     - '5102091'
 youtube_video_identifier: fAQOxqwuIHk
+cached_project_image: >-
+  /assets/images/organizations/duvivier-architects-da/img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg
 
 ---

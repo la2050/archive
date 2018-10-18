@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
   approach foundations to help us staff future vehicles. We will also write a
   guidebook for any other community that is interested in starting a T4T.org
   style traveling Makers Space using ReImagined Resources from their community.
+cached_project_image: >-
+  /assets/images/projects/2015/t4t-orgs-mobile-makers-space-with-reimagined-resources/img.youtube.com/vi/XPYx9Zb6q6c/maxresdefault.jpg
 youtube_video_identifier: XPYx9Zb6q6c
 organization_name: T4T.org
 

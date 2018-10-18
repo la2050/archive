@@ -295,6 +295,8 @@ How do you plan to scale the success of your proposal?: >-
    One model of a Pando Hub, for instance, might appeal to millennials interested in an urban intentional community; another might offer a low-cost veteran housing solution; another might function more as an urban farm and organic food-producing center. The examples are less important than the fact that each likely offers the opportunity for a different kind of funding structure and/or different model of ownership. The top tier opportunities (assessed according to feasibility and need) will be developed and tested in further pilot projects.
    
    Eventually, Pando Hubs will scale on a franchise model of growth, by which we would provide the branding, a planbook(s) for implementation, and a specialist network.
+cached_project_image: >-
+  /assets/images/projects/2015/pando-hubs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23521%252Fdisplay%252FEco_Civ.png=c570x385.png
 maker_image_id: '23521'
 maker_image_file_name: Eco_Civ.png
 organization_name: 'Pando Populus, Inc.; World Studio Foundation, Inc.'

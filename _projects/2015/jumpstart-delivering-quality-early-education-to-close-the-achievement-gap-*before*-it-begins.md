@@ -253,6 +253,8 @@ How do you plan to scale the success of your proposal?: >-
    Jumpstart operates on a licensee model, which leverages partner universities’ existing fixed-cost infrastructures and financial resources for more cost-effective scaling. Jumpstart plans to grow its program first at established university sites with a history of success, and then seek further opportunities to begin new sites after establishing a clear theory of change and confirmed support from key players at our partner universities, preschools, and school districts. 
    
    Meetings between Jumpstart’s program leadership, our partner preschools and partner universities, and prospective new partners occur on an on-going basis. The conditions for success and program goals for Jumpstart’s 2015-16 program year have already been determined. Thanks to the efforts of our site managers at California State University, Dominguez Hills; California State University, Los Angeles; and the Los Angeles Community Corps, recruitment and training of Corps members have already begun, and Jumpstart is currently taking measurable steps toward program expansion in the South LA and East LA regions.
+cached_project_image: >-
+  /assets/images/projects/2015/jumpstart-delivering-quality-early-education-to-close-the-achievement-gap-*before*-it-begins/img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg
 youtube_video_identifier: a-3Yo_Yz5Vc
 organization_name: 'Jumpstart For Young Children, Inc.'
 

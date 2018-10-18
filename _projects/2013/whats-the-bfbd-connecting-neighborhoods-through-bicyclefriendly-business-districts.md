@@ -126,6 +126,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   currently struggling commercial corridors. Bicycling and walking to local
   destinations will be how families choose to spend their leisure time because
   it is pleasant and social.
+cached_project_image: >-
+  /assets/images/projects/2013/whats-the-bfbd-connecting-neighborhoods-through-bicyclefriendly-business-districts/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16987%252Fdisplay%252FDiane_Gershuny.jpg=c570x385.jpg
 maker_image_id: '16987'
 maker_image_file_name: Diane_Gershuny.jpg
 

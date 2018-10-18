@@ -439,6 +439,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/lifting-up-constituent-voice-to-positively-impact-poverty-perception-practice-and-policy/img.youtube.com/vi/jn079WdXzRI/maxresdefault.jpg
 youtube_video_identifier: jn079WdXzRI
 
 ---

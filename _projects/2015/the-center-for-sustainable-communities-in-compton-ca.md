@@ -275,6 +275,8 @@ How do you plan to scale the success of your proposal?: >-
   leaders, local businesses, service groups, and residents to both meet the
   resource needs of the Center and support the creation of new Centers in
   underserved communities.
+cached_project_image: >-
+  /assets/images/projects/2015/the-center-for-sustainable-communities-in-compton-ca/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23300%252Fdisplay%252FCSC_1.JPG=c570x385.jpg
 maker_image_id: '23300'
 maker_image_file_name: CSC_1.JPG
 organization_name: Neighborhood Housing Services of Los Angeles County (NHS)

@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102103'
+cached_project_image: >-
+  /assets/images/organizations/inner-city-arts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
 
 ---

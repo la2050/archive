@@ -96,6 +96,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   to the bus riding public and, in the future, to other constituencies whose
   daily lives bring them into contact with videos, handheld devices and means of
   sound and image distribution birthed by today’s technologies.  </p>
+cached_project_image: >-
+  /assets/images/projects/2013/out-the-window-videos-on-la-buses/img.youtube.com/vi/W-ekiTrnYW0/hqdefault.jpg
 youtube_video_identifier: W-ekiTrnYW0
 
 ---

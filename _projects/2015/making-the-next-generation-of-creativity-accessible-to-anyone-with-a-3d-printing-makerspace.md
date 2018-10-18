@@ -234,6 +234,8 @@ How do you plan to scale the success of your proposal?: >-
   low burn rates, & we're more than 120% confident that the $100,000 grant will
   be utilized effectively in continually making LA the best place to create.
   This time, through 3D printing!
+cached_project_image: >-
+  /assets/images/projects/2015/making-the-next-generation-of-creativity-accessible-to-anyone-with-a-3d-printing-makerspace/img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg
 youtube_video_identifier: uVgrIU_Bl9g
 organization_name: EEZITEC
 

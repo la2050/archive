@@ -138,6 +138,8 @@ project_proposal_best_place: >-
   exemplifying the profound social impact of meeting in circles, CCSI will
   inspire the creation of community circle spaces in neighborhoods throughout LA
   and this will truly make LA the best place to connect.
+cached_project_image: >-
+  /assets/images/projects/2016/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 organization_name: The Ojai Foundation
 organization_website: ojaifoundation.org
 

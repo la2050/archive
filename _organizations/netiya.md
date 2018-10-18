@@ -41,5 +41,7 @@ aggregated:
     - '4102207'
     - '3102204'
 youtube_video_identifier: z7nrpaONjUI
+cached_project_image: >-
+  /assets/images/organizations/netiya/img.youtube.com/vi/z7nrpaONjUI/hqdefault.jpg
 
 ---

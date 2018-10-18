@@ -195,6 +195,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Guardian Academy, Alliance for Children’s Rights, and numerous Foster Family
   Agencies and Group Homes.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/college-readiness-program-helping-foster-youth-prepare-to-succeed-in-college-and-in-life/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20499%252Fdisplay%252FIMG_4794.jpg=c570x385.jpg
 maker_image_id: '20499'
 maker_image_file_name: IMG_4794.jpg
 

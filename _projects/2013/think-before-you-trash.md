@@ -153,6 +153,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/think-before-you-trash/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16238'
 maker_image_file_name: Debris_3.JPG
 

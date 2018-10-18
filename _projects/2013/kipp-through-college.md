@@ -417,6 +417,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   one that will provide them with the best opportunities. And ultimately, all
   students will have a high quality, rigorous higher education experience and
   graduate with the degrees they need to succeed in the competitive world.
+cached_project_image: >-
+  /assets/images/projects/2013/kipp-through-college/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385.jpg
 maker_image_id: '17303'
 maker_image_file_name: KIPPThroughCollege3.jpg
 

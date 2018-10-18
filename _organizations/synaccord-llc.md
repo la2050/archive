@@ -43,5 +43,7 @@ aggregated:
     - '5102293'
     - '6102234'
     - '4102205'
+cached_project_image: >-
+  /assets/images/organizations/synaccord-llc/activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
 
 ---

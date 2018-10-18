@@ -245,6 +245,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We also intend to reach out to Child and Adult Care Food Program (CACFP) Sponsors for reaching out to license-exempt providers on their programs or seeking out volunteer coaches.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/happy-kids-healthy-families-for-a-better-la-bringing-mental-health-into-families-homes/img.youtube.com/vi/4svMiNJ-HL0/hqdefault.jpg
 youtube_video_identifier: 4svMiNJ-HL0
 
 ---

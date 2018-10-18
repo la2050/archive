@@ -247,6 +247,8 @@ How do you plan to scale the success of your proposal?: >-
   schedule, or more storytelling events around the city with the goal of
   bringing people from all over LA together to share their experiences with one
   another.
+cached_project_image: >-
+  /assets/images/projects/2015/los-angeles-human-library/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23929%252Fdisplay%252Flogo3.jpg=c570x385.jpg
 maker_image_id: '23929'
 maker_image_file_name: logo3.jpg
 organization_name: Silverlake Independent Jewish Community Center

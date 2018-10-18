@@ -170,6 +170,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Committed and full participation from all partners
    3. Acknowledging that an engaged community is an empowered community – and every resource partners bring are guided by this principle
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/cypress-park-pocket-park/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22209%252Fdisplay%252FSite_scale.JPG=c570x385.jpg
 maker_image_id: '22209'
 maker_image_file_name: Site_scale.JPG
 

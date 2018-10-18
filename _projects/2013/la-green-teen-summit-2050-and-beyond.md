@@ -275,6 +275,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   crisis now. We want to see innovations, policies and practices led and
   implemented by an alliance of young, connected and diverse change-agents for
   the climate.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/la-green-teen-summit-2050-and-beyond/img.youtube.com/vi/RR-HHIFWwAU/maxresdefault.jpg
 youtube_video_identifier: RR-HHIFWwAU
 
 ---

@@ -123,6 +123,8 @@ project_proposal_best_place: >-
   increase visibility to female and minority artists, and advance LA's artistic
   achievements that will transcend this city as the creative capital of the
   world.
+cached_project_image: >-
+  /assets/images/projects/2016/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 organization_name: Make Music Los Angeles
 organization_website: www.letsplayascape.com
 

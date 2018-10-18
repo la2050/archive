@@ -77,6 +77,8 @@ project_proposal_best_place: >-
   kid with skating supplies so they can continue skating but create and motivate
   an interest for education in them and to encourage them to pursue education
   beyond K-12.
+cached_project_image: >-
+  /assets/images/projects/2016/sk8-4-education/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4915432065741-team91.jpg
 organization_name: The Garage Board Shop
 organization_website: thegarageboardshops.com
 

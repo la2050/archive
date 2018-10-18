@@ -33,5 +33,7 @@ aggregated:
     - '4102076'
 maker_image_file_name: QueerFest2014.jpg
 maker_image_id: '21336'
+cached_project_image: >-
+  /assets/images/organizations/queerfest/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21336%252Fdisplay%252FQueerFest2014.jpg=c570x385.jpg
 
 ---

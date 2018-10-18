@@ -30,5 +30,7 @@ aggregated:
   project_ids:
     - '4102111'
 youtube_video_identifier: 3KyvlMJefR4
+cached_project_image: >-
+  /assets/images/organizations/anti-defamation-league-pacific-southwest-region/img.youtube.com/vi/3KyvlMJefR4/maxresdefault.jpg
 
 ---

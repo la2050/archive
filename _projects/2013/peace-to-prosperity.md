@@ -301,6 +301,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   than fear and apprehension, an environment of support rather than rejection
   and a new population of young people reenergized with selfconfidence,
   selfesteem and future.
+cached_project_image: >-
+  /assets/images/projects/2013/peace-to-prosperity/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16714%252Fdisplay%252FGames_for_Peace.jpg=c570x385.jpg
 maker_image_id: '16714'
 maker_image_file_name: Games_for_Peace.jpg
 

@@ -55,5 +55,7 @@ aggregated:
     - '3102005'
 maker_image_file_name: samsung_device_801.jpg
 maker_image_id: '16313'
+cached_project_image: >-
+  /assets/images/organizations/antigua-coffee-house/maker.good.is/images/placeholder/idea.png
 
 ---

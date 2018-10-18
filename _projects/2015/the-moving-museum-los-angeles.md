@@ -269,6 +269,8 @@ How do you plan to scale the success of your proposal?: >-
    We would develop our online platform to provide an opportunity for continuing the development of digital and interactive works as well as host webcast talks built from topics addressed during the project to extend on LA’s influence with an online audience as an increasingly important arena for the arts.
    
    Ultimately, the success of this project would be used as a model example of how to transform artistic communities in other cities that desperately require a program of this nature to survive, evolve and become part of the global dialogue.
+cached_project_image: >-
+  /assets/images/projects/2015/the-moving-museum-los-angeles/img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg
 youtube_video_identifier: X9EpK48pYtY
 organization_name: The Moving Museum
 

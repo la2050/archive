@@ -37,5 +37,7 @@ aggregated:
   project_ids:
     - '5102184'
 youtube_video_identifier: UNbHPa1n2g4
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-bioscience-hub/img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg
 
 ---

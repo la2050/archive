@@ -351,6 +351,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   employment and income, and neighborhood enhancement…these are the elements
   served by our mission but expanded upon to include even greater community
   input and involvement.
+cached_project_image: >-
+  /assets/images/projects/2013/digging-deeper-making-connections-doing-better/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17083%252Fdisplay%252FWishing_Upon_A_Star.jpg=c570x385.jpg
 maker_image_id: '17083'
 maker_image_file_name: Wishing_Upon_A_Star.jpg
 

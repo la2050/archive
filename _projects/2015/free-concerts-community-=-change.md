@@ -265,6 +265,8 @@ How do you plan to scale the success of your proposal?: >-
    
    STRENGTHEN ORGANIZATIONAL INFRASTRUCTURE AND LEADERSHIP
    Most importantly, our board is committed to expanding its membership and securing the broad-based support needed to connect Angelenos all the way to 2050!
+cached_project_image: >-
+  /assets/images/projects/2015/free-concerts-community-=-change/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24070%252Fdisplay%252Fgp_la2050_570x345.jpg=c570x385.jpg
 maker_image_id: '24070'
 maker_image_file_name: gp_la2050_570x345.jpg
 organization_name: Grand Performances

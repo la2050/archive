@@ -165,6 +165,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Our collaboration with the City of Los Angeles shows that LA is deeply invested in making sure that students in Boyle Heights succeed. 
    3. As part of the Boyle Heights Learning Collaborative, and through our relationships with other CBOs, CTBH coordinates with other non-profits who support our students’ non-academic and social/emotional needs.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/how-to-increase-the-percentage-of-underserved-youth-graduating-from-college-in-boyle-heights/img.youtube.com/vi/DcSdvVTv_Cg/maxresdefault.jpg
 youtube_video_identifier: DcSdvVTv_Cg
 
 ---

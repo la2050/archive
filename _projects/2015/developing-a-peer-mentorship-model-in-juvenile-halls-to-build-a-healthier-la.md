@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
    Eventually, once the model is developed and has been implemented successfully at Probation facilities, ARC will look to expand the program to three State Division of Juvenile Justice (DJJ) facilities through a partnership with the California Department of Corrections and Rehabilitation.
    
    Because program participants will be served by ARC’s current Support Network upon release, a large focus of planning for expanding the program will concentrate on enhancing ARC's current Membership Services framework through the development of more robust case management services. ARC will enhance programming around supporting cognitive and behavioral issues, as well as providing additional support for trauma and substance abuse.
+cached_project_image: >-
+  /assets/images/projects/2015/developing-a-peer-mentorship-model-in-juvenile-halls-to-build-a-healthier-la/img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg
 youtube_video_identifier: jxDLaDNSLjo
 organization_name: 'Anti-Recidivism Coalition '
 

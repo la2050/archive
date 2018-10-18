@@ -70,5 +70,7 @@ aggregated:
   project_ids:
     - '3102180'
 youtube_video_identifier: kfEpQxhOtUk
+cached_project_image: >-
+  /assets/images/organizations/liberty-hill/img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg
 
 ---

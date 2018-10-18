@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102237'
+cached_project_image: >-
+  /assets/images/organizations/the-c-i-t-y-x1-youth-group/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4001387745741-team91.jpg
 
 ---

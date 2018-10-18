@@ -31,5 +31,7 @@ aggregated:
     - '2014'
   project_ids: []
 youtube_video_identifier: _-Xf6dKy4no
+cached_project_image: >-
+  /assets/images/organizations/proktr/img.youtube.com/vi/_-Xf6dKy4no/maxresdefault.jpg
 
 ---

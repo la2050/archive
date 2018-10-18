@@ -31,5 +31,7 @@ aggregated:
   year_submitted:
     - '2018'
   project_ids: []
+cached_project_image: >-
+  /assets/images/organizations/we-are-the-mighty/activation.la2050.org/assets/images/connect/2048-wide/we-are-the-mighty.jpg
 
 ---

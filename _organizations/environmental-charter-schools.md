@@ -35,5 +35,7 @@ aggregated:
     - '5102094'
 maker_image_file_name: Good_Image_Change_the_World.jpg
 maker_image_id: '23859'
+cached_project_image: >-
+  /assets/images/organizations/environmental-charter-schools/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23859%252Fdisplay%252FGood_Image_Change_the_World.jpg=c570x385.jpg
 
 ---

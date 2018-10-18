@@ -299,6 +299,8 @@ How do you plan to scale the success of your proposal?: >-
   served by reducing the number of Tutors and Youth Development Professionals at
   each site. However, we are confident we will sustain the College Access
   Initiative to serve thousands of youth in Carson and South Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2015/college-access-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24078%252Fdisplay%252FCollege_Access_Initiative.jpg=c570x385.jpg
 maker_image_id: '24078'
 maker_image_file_name: College_Access_Initiative.jpg
 organization_name: Boys & Girls Clubs of Carson

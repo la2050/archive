@@ -25,5 +25,7 @@ aggregated:
     - '2014'
   project_ids: []
 youtube_video_identifier: A9yf6DpgLSM
+cached_project_image: >-
+  /assets/images/organizations/my-name-my-story/img.youtube.com/vi/A9yf6DpgLSM/hqdefault.jpg
 
 ---

@@ -113,6 +113,8 @@ project_proposal_best_place: >-
   Together, ITEP and the East Los Angeles community residents will make LA the
   best place to LIVE by supporting efforts to ensure a healthy and sustainable
   environment for all its citizens.
+cached_project_image: >-
+  /assets/images/projects/2016/east-los-angeles-youth-environmental-leadership-summit/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
 organization_name: International Trade Education Programs (ITEP)
 organization_website: www.itepinc.org
 

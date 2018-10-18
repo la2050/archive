@@ -130,6 +130,8 @@ project_proposal_best_place: >-
   open street gatherings, would provide access to free Wi-Fi and through the
   participation of a peer to peer educator and volunteers would encourage
   volunteerism and a connection point for social and emotional support.
+cached_project_image: >-
+  /assets/images/projects/2016/the-zone-mobile-spaces-to-talk-about-healthy-relationships/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
 organization_name: Break the Cycle
 organization_website: www.breakthecycle.org
 

@@ -122,6 +122,8 @@ project_proposal_best_place: >-
   2. Individual random acts of kindness
 
   3. Games that build personal and community resilience
+cached_project_image: >-
+  /assets/images/projects/2016/compassion-games-survival-of-the-kindest/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 organization_name: Compassionate Santa Monica
 organization_website: charterforcompassion.org
 

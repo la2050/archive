@@ -31,5 +31,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102121'
+cached_project_image: >-
+  /assets/images/organizations/la-metro/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
 
 ---

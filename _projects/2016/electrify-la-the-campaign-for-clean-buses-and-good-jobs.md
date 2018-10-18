@@ -112,6 +112,8 @@ project_proposal_best_place: >-
   Our strategy will empower LA communities to transform their neighborhoods by
   promoting a healthier environment and local manufacture and enforceable
   community benefits agreements for taxpayer-funded equipment purchases.
+cached_project_image: >-
+  /assets/images/projects/2016/electrify-la-the-campaign-for-clean-buses-and-good-jobs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1741937194741-team89.jpg
 organization_name: Jobs to Move America
 organization_website: jobstomoveamerica.org
 

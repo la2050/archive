@@ -600,6 +600,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   will engender a system in which people can find their own voice and trust that
   it is heard by public officials. People will connect to one another and their
   surroundings
+cached_project_image: >-
+  /assets/images/projects/2013/start-seeing-ugly-a-social-app-to-reveal-and-transform-blighted-parts-of-los-angeles/img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg
 youtube_video_identifier: Uj3t-8frJ4Q
 
 ---

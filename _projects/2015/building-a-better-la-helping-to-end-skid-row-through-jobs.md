@@ -226,6 +226,8 @@ How do you plan to scale the success of your proposal?: >-
    Given this rich heritage of forging new pathways and expanding to meet the needs of the population we serve, we are confident that the goals outlined in our program will be achieved within the 12 month timeline, doubling the number of men and women currently place jobs by the end of 2016. 
    
    Building our jobs team will allow URM to significantly scale our program, doubling the number of men and women served during the 12 month grant funding period. Given the critical importance that jobs play in restoring the futures of the men and women we serve, we plan to leverage this grant to attract more funding, building our capacity to grow the meet the increasing needs. Over time, we plan to scale the program to serve all guests who turn to us for help, achieving our ultimate goal of Building a Better LA -- by Helping to End Skid Row through Jobs.
+cached_project_image: >-
+  /assets/images/projects/2015/building-a-better-la-helping-to-end-skid-row-through-jobs/img.youtube.com/vi/uIeSYK3uGbU/maxresdefault.jpg
 youtube_video_identifier: uIeSYK3uGbU
 organization_name: Union Rescue Mission
 

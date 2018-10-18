@@ -35,5 +35,7 @@ aggregated:
     - '5102058'
 maker_image_file_name: LA2015_1.jpg
 maker_image_id: '23980'
+cached_project_image: >-
+  /assets/images/organizations/city-of-glendora/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23980%252Fdisplay%252FLA2015_1.jpg=c570x385.jpg
 
 ---

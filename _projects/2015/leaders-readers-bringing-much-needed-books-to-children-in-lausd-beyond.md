@@ -298,6 +298,8 @@ How do you plan to scale the success of your proposal?: >-
    • Students with access to a variety of reading material have higher than average test scores; and
    
    • Narrowing the “achievement gap” leads to lower truancy rates and increases in confidence and academic achievement.
+cached_project_image: >-
+  /assets/images/projects/2015/leaders-readers-bringing-much-needed-books-to-children-in-lausd-beyond/img.youtube.com/vi/OKuHAUhFKxk/maxresdefault.jpg
 youtube_video_identifier: OKuHAUhFKxk
 organization_name: Milk + Bookies
 

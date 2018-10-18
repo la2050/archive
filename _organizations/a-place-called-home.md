@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '5102006'
 youtube_video_identifier: wzFv5uV3pew
+cached_project_image: >-
+  /assets/images/organizations/a-place-called-home/img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg
 
 ---

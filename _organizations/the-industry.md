@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102091'
 youtube_video_identifier: 0SGeH9Mnt2k
+cached_project_image: >-
+  /assets/images/organizations/the-industry/img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg
 
 ---

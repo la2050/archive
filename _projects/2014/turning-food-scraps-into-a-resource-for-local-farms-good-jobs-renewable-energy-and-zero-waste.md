@@ -178,6 +178,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The keys to the success of this collaboration are open communication, mutual respect and a clear work plan. Ultimately, our shared commitment to the core goals of resilience and our shared vision of the potential of this project to bring positive change to the region underlie all of our interactions and will enable us to be successful.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/turning-food-scraps-into-a-resource-for-local-farms-good-jobs-renewable-energy-and-zero-waste/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20947%252Fdisplay%252F2014-07-30_13.28.02.jpg=c570x385.jpg
 maker_image_id: '20947'
 maker_image_file_name: 2014-07-30_13.28.02.jpg
 

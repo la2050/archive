@@ -192,6 +192,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We have a track record of success in these areas with our partners which provides a strong foundation for the roll out and successful implementation of this initiative. As with any new initiative, we anticipate hurdles as we navigate somewhat unfamiliar territory. Our confidence lies in the strength of our partnership history in overcoming obstacles.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/together-we-play-l-a/img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg
 youtube_video_identifier: 44E5ezgbzHg
 
 ---

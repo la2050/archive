@@ -470,6 +470,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
 
 
   </p>
+cached_project_image: >-
+  /assets/images/projects/2013/evolve-la/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16195'
 maker_image_file_name: evolvela2.png
 

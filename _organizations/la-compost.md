@@ -44,5 +44,7 @@ aggregated:
     - '8102061'
     - '6102119'
     - '5102164'
+cached_project_image: >-
+  /assets/images/organizations/la-compost/activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg
 
 ---

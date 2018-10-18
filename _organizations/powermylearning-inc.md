@@ -38,5 +38,7 @@ aggregated:
     - '6102188'
     - '5102242'
     - '4102120'
+cached_project_image: >-
+  /assets/images/organizations/powermylearning-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1786791705741-team89.JPG
 
 ---

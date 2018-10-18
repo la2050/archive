@@ -121,6 +121,8 @@ project_proposal_best_place: >-
   respect - full of untapped potential. The HeArt of LA will help unleash this
   potential by connecting youth to resources and programs will create long-term
   Angeleno entrepreneurs in our great city.
+cached_project_image: >-
+  /assets/images/projects/2016/young-creative-entrepreneurs-and-small-business-internship-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
 organization_name: ICON CDC
 organization_website: iconcdc.org
 

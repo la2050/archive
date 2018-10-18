@@ -37,5 +37,7 @@ aggregated:
     - '5102185'
 maker_image_file_name: Julia_Dean_at_Boyle_Heights_B_B_Club.jpg
 maker_image_id: '23374'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-center-of-photography/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385.jpg
 
 ---

@@ -275,6 +275,8 @@ How do you plan to scale the success of your proposal?: |-
    The amount of shares we receive on social Media
    Increased number of partnerships
    Increased number at events
+cached_project_image: >-
+  /assets/images/projects/2015/a-healthy-sustainable-environment-to-play-for-families-in-south-la/img.youtube.com/vi/USaJI1-Ab8E/maxresdefault.jpg
 youtube_video_identifier: USaJI1-Ab8E
 organization_name: Tickleberry Place
 

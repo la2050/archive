@@ -344,6 +344,8 @@ How do you plan to scale the success of your proposal?: >-
    DSTL Arts, after establishing a centralized location with The PLACE, is looking to raise funds for a Mobile Art Lab for their Arts Mentorship Program students who may not have the ability to frequently travel from South LA, or further inland, into Central LA. The idea is to provide a mobile, creative workspace for youth who don’t always have access to tools or space to create at home. With the ultimate goal of expansion, DSTL Arts is very open to establishing chapters in the South Bay area & the San Fernando & San Gabriel Valleys, especially galleries that will display student artwork & provide work-readiness classes in the arts.
    
    The leadership of Trade School LA, Emerging Arts Leaders/LA & DSTL Arts are very committed to creating a pipeline of mentorship & education for creatives at all levels of their career. We are focused on establishing a mutually-supportive infrastructure now, that can eventually be expanded into other markets that will benefit from our pipeline structure. As long as we are able to collectively find funding to expand into other markets & establish centralized spaces, while hiring staff to coordinate our respective programs, we will scale the success of our proposal.
+cached_project_image: >-
+  /assets/images/projects/2015/the-p-l-a-c-e-the-partnership-for-los-angeles-creative-education-serving-las-emerging-creatives/img.youtube.com/vi/LLupKVdXbLI/maxresdefault.jpg
 youtube_video_identifier: LLupKVdXbLI
 organization_name: 'DSTL Arts, Emerging Arts Leaders/Los Angeles, Trade School Los Angeles'
 

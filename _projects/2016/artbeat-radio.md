@@ -111,6 +111,8 @@ project_proposal_best_place: >-
   and other targeted Los Angeles neighborhoods.  Through social media and
   leveraging partnerships with ACLB and the LACAC, a communications plan will
   include the sharing of strategic information to build  engagement.
+cached_project_image: >-
+  /assets/images/projects/2016/artbeat-radio/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0178457155741-team91.jpg
 organization_name: Able Arts Work
 organization_website: www.ableartswork.org
 

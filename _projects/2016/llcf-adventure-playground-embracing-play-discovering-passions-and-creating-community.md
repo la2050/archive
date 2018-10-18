@@ -116,6 +116,8 @@ project_proposal_best_place: >-
   statistics by strengthening families by providing a safe, learning
   environment. We want to increase the number of individuals and families
   spending their time in encouraging environments, thus decreasing crime rates.
+cached_project_image: >-
+  /assets/images/projects/2016/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7260306494741-team91.JPG
 organization_name: Light and Life Christian Fellowship Community Center
 organization_website: www.llcf.org
 

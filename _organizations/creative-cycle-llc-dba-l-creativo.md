@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '5102117'
 youtube_video_identifier: XFrn3G05ZVc
+cached_project_image: >-
+  /assets/images/organizations/creative-cycle-llc-dba-l-creativo/img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg
 
 ---

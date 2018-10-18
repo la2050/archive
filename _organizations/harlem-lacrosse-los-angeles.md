@@ -36,5 +36,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102051'
+cached_project_image: >-
+  /assets/images/organizations/harlem-lacrosse-los-angeles/activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
 
 ---

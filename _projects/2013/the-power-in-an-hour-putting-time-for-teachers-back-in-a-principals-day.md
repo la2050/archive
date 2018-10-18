@@ -261,6 +261,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   people in place to assure that their highest priority is providing
   instructional leadership to develop teacher leaders, and ensure that every
   child in their school is in a classroom with an effective teacher every day.  
+cached_project_image: >-
+  /assets/images/projects/2013/the-power-in-an-hour-putting-time-for-teachers-back-in-a-principals-day/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16507%252Fdisplay%252FFB_Cover_photo.jpg=c570x385.jpg
 maker_image_id: '16507'
 maker_image_file_name: FB_Cover_photo.jpg
 

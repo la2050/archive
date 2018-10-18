@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102028'
+cached_project_image: >-
+  /assets/images/organizations/california-state-university-northridge-csun/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
 
 ---

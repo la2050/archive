@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102035'
 youtube_video_identifier: DiU_9RR7ZvY
+cached_project_image: >-
+  /assets/images/organizations/experimental-half-hour/img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg
 
 ---

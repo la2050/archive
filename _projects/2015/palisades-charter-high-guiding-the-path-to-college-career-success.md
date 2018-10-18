@@ -240,6 +240,8 @@ How do you plan to scale the success of your proposal?: >-
    The project success will be scaled across the City of Los Angeles at other high schools through sharing our best practices for software applications, communications with students, parents and employers, and educational tools to prepare students for exposure to the workforce. At PCHS we are committed to a high quality public education experience and the vision of the high school campus as a center for learning inside and outside the classroom. As such, we will be sharing our learned expertise, to replicate the program at other public high schools. We believe that this program can be established economically elsewhere.
    
    Our goal is to have the students, parents and counselors work as a team to guide our students towards becoming college and career ready by utilizing the tools provided to them with the goal of embracing their own future with knowledge and confidence.
+cached_project_image: >-
+  /assets/images/projects/2015/palisades-charter-high-guiding-the-path-to-college-career-success/img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg
 youtube_video_identifier: XUlv1Zd4JZU
 organization_name: Palisades Charter High School (PCHS)
 

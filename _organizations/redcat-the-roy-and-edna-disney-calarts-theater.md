@@ -44,5 +44,7 @@ aggregated:
   project_ids:
     - '3102227'
 youtube_video_identifier: VpqSppE8ppo
+cached_project_image: >-
+  /assets/images/organizations/redcat-the-roy-and-edna-disney-calarts-theater/img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg
 
 ---

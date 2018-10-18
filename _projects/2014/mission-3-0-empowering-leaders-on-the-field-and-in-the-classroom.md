@@ -174,6 +174,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Moving forward, ITC will strengthen existing partnerships as well as establish new collaborations with surrounding colleges and universities, mentoring agencies, and parent advocacy agencies in East Los Angeles. These partnerships will be successful insofar as we see each other as vital in holistically impacting the trajectory of lives in East Los Angelenos; we can not view each other as competition, but must be able to share and utilize resources conducive to growth.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/mission-3-0-empowering-leaders-on-the-field-and-in-the-classroom/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22530%252Fdisplay%252FDSC01431.jpg=c570x385.jpg
 maker_image_id: '22530'
 maker_image_file_name: DSC01431.jpg
 

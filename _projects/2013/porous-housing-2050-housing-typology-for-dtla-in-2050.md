@@ -238,6 +238,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   social reclamation of the two dimensional demarcation and inherent decline
   while generating close ties between elaborately interweaved DTLA districts
   building a strong sense of communities.
+cached_project_image: >-
+  /assets/images/projects/2013/porous-housing-2050-housing-typology-for-dtla-in-2050/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16553%252Fdisplay%252FLA_2050__r.jpg=c570x385.jpg
 maker_image_id: '16553'
 maker_image_file_name: LA_2050__r.jpg
 

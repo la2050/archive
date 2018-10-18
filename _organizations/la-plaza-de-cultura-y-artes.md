@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102122'
+cached_project_image: >-
+  /assets/images/organizations/la-plaza-de-cultura-y-artes/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
 
 ---

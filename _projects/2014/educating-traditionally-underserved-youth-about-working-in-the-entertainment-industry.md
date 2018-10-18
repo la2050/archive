@@ -154,6 +154,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The most critical issue with regard to collaborations is that both sides are aiming towards the same goals, and that both sides are able to agree to the overall process. We have concentrated on collaborations with organizations that are genuinely interested in youth education, and we find that it has worked well for all of us
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/educating-traditionally-underserved-youth-about-working-in-the-entertainment-industry/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21797%252Fdisplay%252FSPIFF-Youth-Intensive.jpg=c570x385.jpg
 maker_image_id: '21797'
 maker_image_file_name: SPIFF-Youth-Intensive.jpg
 

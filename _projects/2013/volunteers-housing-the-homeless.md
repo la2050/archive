@@ -286,6 +286,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   able to move the newly homeless off the street almost as fast as they come to
   it, and it will be easier to do it than it is now, because most of the
   community will be engaged with us in the process.  We will ALL be volunteers.
+cached_project_image: >-
+  /assets/images/projects/2013/volunteers-housing-the-homeless/img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg
 youtube_video_identifier: vZOFIeiYKwA
 
 ---

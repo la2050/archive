@@ -200,6 +200,8 @@ Whom will your project benefit? Please be specific.: >-
    In terms of training, CASA/LA has worked with many partners to create stronger training programs for our volunteers, collaborating with Alliance for Children's Rights (a year-long continuing education series likely to be repeated), Public Counsel, Children of the Night, Child Development Institute, DCFS, Children's Law Center, Family Focus Resource Center, KidSave International, USA TIES for Families, and the Human Rights Commission (on an LGBTQ training) to create appropriate, productive training sessions for our CASAs. We would like to continue to expand those training initiatives to include more partners of diversity to help better prepare and support CASAs and the children and youth they serve.
    
    The three factors that are critical to our success with the proposed partnerships are legitimate outreach to the partner’s community, instructive and authentic collaboration between CASA and the partner organization, and informed engagement with our training programs.
+cached_project_image: >-
+  /assets/images/projects/2014/speak-up-for-the-child-become-an-advocate-for-foster-children-in-need/img.youtube.com/vi/WxrdQYucwHo/maxresdefault.jpg
 youtube_video_identifier: WxrdQYucwHo
 
 ---

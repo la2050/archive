@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '6102216'
     - '5102278'
+cached_project_image: >-
+  /assets/images/organizations/spark-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
 
 ---

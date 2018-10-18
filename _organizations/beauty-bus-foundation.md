@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102015'
 youtube_video_identifier: XoT_36T5K5E
+cached_project_image: >-
+  /assets/images/organizations/beauty-bus-foundation/img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg
 
 ---

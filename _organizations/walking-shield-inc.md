@@ -50,5 +50,7 @@ aggregated:
     - '3102272'
 maker_image_file_name: scholarspic.jpg
 maker_image_id: '16254'
+cached_project_image: >-
+  /assets/images/organizations/walking-shield-inc/maker.good.is/images/placeholder/idea.png
 
 ---

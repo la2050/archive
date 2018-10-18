@@ -138,6 +138,8 @@ project_proposal_best_place: >-
   inspires further action to bring about change. With the help of this award, we
   hope that in the near future, L.A. will be thought of as a model for service
   as much as we are known for entertainment, sports, and our weather.
+cached_project_image: >-
+  /assets/images/projects/2016/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 organization_name: L.A. Works
 organization_website: laworks.com
 

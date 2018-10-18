@@ -88,6 +88,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   for cars and trash but a place to come together and build community. Success
   would mean that other communities in Los Angeles would grasp this form of
   transformative change and replicate it in their local neighborhoods.
+cached_project_image: >-
+  /assets/images/projects/2013/diy-social-spaces/img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg
 youtube_video_identifier: Ih-cjiooJ3M
 
 ---

@@ -38,5 +38,7 @@ aggregated:
     - '5102084'
 maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
 maker_image_id: '23344'
+cached_project_image: >-
+  /assets/images/organizations/downtown-los-angeles-art-walk/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385.jpg
 
 ---

@@ -200,6 +200,8 @@ Whom will your project benefit? Please be specific.: >-
    - Ray has a deep understanding of new technologies & design, which is crucial in developing a mobile app. 
    - Mitchel has experience in digital marketing & entertainment, which is greatly needed when promoting the product & growing the user base. 
    - We are both in tune with today’s trends in the technology, business, & entertainment industries, which will make sure that our app is not only innovative but also has the potential of being very successful.
+cached_project_image: >-
+  /assets/images/projects/2014/my-city/img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg
 youtube_video_identifier: NHaLkpe_jms
 
 ---

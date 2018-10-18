@@ -212,6 +212,8 @@ How do you plan to scale the success of your proposal?: >-
   happy and their children are happy with what we are doing. Maintaining a
   certain number of youth each day for participation and getting new interested
   youth involved.
+cached_project_image: >-
+  /assets/images/projects/2015/hoops-center-for-the-youth/img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg
 youtube_video_identifier: IscZOss0am8
 organization_name: Pass Tha Ball
 

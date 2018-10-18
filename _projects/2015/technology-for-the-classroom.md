@@ -193,6 +193,8 @@ Are there other organizations doing similar work (whether complementary or compe
    
    ELMO Projectors: $719.00 per unit x 9 = $6471.00
 How do you plan to scale the success of your proposal?: We plan to scale our success by student achievement and student data analysis.
+cached_project_image: >-
+  /assets/images/projects/2015/technology-for-the-classroom/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23262%252Fdisplay%252Fdsc00212.jpg=c570x385.jpg
 maker_image_id: '23262'
 maker_image_file_name: dsc00212.jpg
 organization_name: Redeemer Baptist Elementary School

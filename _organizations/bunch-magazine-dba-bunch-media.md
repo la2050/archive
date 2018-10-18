@@ -29,5 +29,7 @@ aggregated:
   project_ids:
     - '5102127'
 youtube_video_identifier: ByhCcHjp3FQ
+cached_project_image: >-
+  /assets/images/organizations/bunch-magazine-dba-bunch-media/img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg
 
 ---

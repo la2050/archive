@@ -96,6 +96,8 @@ project_proposal_best_place: >-
   for far longer. With LA 2050's support, we hope to reach out to Westside
   stakeholders who do not typically participate in events like this in order to
   a create sense of unity, cooperation, and friendliness among neighbors.
+cached_project_image: >-
+  /assets/images/projects/2016/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
 organization_name: Westside Urban Forum
 organization_website: www.westsideurbanforum.com
 

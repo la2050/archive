@@ -33,5 +33,7 @@ aggregated:
     - '5102069'
     - '4102195'
 youtube_video_identifier: myUKgR-PO4c
+cached_project_image: >-
+  /assets/images/organizations/clothes-the-deal/img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg
 
 ---

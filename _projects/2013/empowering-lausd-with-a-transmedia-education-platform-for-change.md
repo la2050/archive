@@ -246,6 +246,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Our goal is to change our education system from its current status of
   significantly hindering human development to significantly improving human
   development by 2050.
+cached_project_image: >-
+  /assets/images/projects/2013/empowering-lausd-with-a-transmedia-education-platform-for-change/img.youtube.com/vi/--BnysezHK0/hqdefault.jpg
 youtube_video_identifier: '--BnysezHK0'
 
 ---

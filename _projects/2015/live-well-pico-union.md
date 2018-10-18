@@ -175,6 +175,8 @@ How do you plan to scale the success of your proposal?: >-
   Clinica Romero will continue to engage local community partners to bring
   community awareness to the exercise equipment, healthy living classes and
   medical services provided at our Pico Union site.
+cached_project_image: >-
+  /assets/images/projects/2015/live-well-pico-union/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385.jpg
 maker_image_id: '24096'
 maker_image_file_name: exercise.jpg
 organization_name: Clinica Msr. Oscar A. Romero

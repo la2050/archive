@@ -167,6 +167,8 @@ Whom will your project benefit? Please be specific.: >-
    1. A comprehensive understanding of our programmatic goals and benchmarks.
    2. A strong passion for working with underserved youth.
    3. A shared vision in shaping a positive future for all communities in Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2014/bridge-ing-cultures-and-cultivating-change-in-la-through-original-youth-community-theatre/img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg
 youtube_video_identifier: q9wQFn0hPbk
 
 ---
