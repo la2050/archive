@@ -42,8 +42,6 @@ _You can follow these same steps to edit one of the [projects](https://github.co
 
 ## How to hide an organization
 
-You can hide an organization on the website by unpublishing it. You can easily add it back again later by publishing it.
-
 While editing an organization file, look for this line:
 ```
 published: true
@@ -60,7 +58,7 @@ _You can follow these same steps to hide or show one of the [projects](https://g
 
 ## How to see a preview of your changes
 
-If you’d like to see how your changes will look on the website before anyone else sees them, you can work in the [staging branch](https://github.com/la2050/archive/tree/staging)–a copy of the website files, that’s published at https://staging-archive.la2050.org
+If you’d like to see how your changes will look on the website before making them public, you can work in the [staging branch](https://github.com/la2050/archive/tree/staging)–a copy of the website files, that’s published at https://staging-archive.la2050.org
 
 ![staging](https://user-images.githubusercontent.com/926616/47131296-bcb61180-d252-11e8-90e0-56a2e7552163.png)
 
