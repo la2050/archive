@@ -1,11 +1,13 @@
 
 # My LA2050 Ideas Archive
 
-This is a website for the My LA2050 ideas archive–a searchable database of organizations and projects from the grants and activation challenges from 2013-2018.
+This is a website for the My LA2050 ideas archive–a searchable database of organizations and projects from the maker, grants and activation challenges from 2013-2018.
 
 https://archive.la2050.org
 
 * [How to make changes](#how-to-make-changes)
+* [How to edit an organization](#how-to-edit-an-organization)
+* [How to hide an organization](#how-to-hide-an-organization)
 * [How to develop locally](#how-to-develop-locally)
 * [Handy guides](#handy-guides)
 
@@ -15,7 +17,45 @@ The website is published with [GitHub Pages](https://pages.github.com) and the f
 
 As you make changes and commit/push them to GitHub, the [website](https://archive.la2050.org) will automatically update.
 
-For example, if you [edit the about page](https://github.com/la2050/myla2050/edit/master/about.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [about page](https://archive.la2050.org/about/) of the website within a few minutes.
+For example, if you [edit the about page](https://github.com/la2050/archive/edit/master/about.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [about page](https://archive.la2050.org/about/) of the website within a few minutes.
+
+## How to edit an organization
+
+1. Find the organization you wish to edit in the [organizations](https://github.com/la2050/archive/tree/master/_organizations) folder.
+
+The files in these folders correspond to a web address on the archive website. For example the organization located at https://archive.la2050.org/organizations/homeboy-industries/ gets its content from a file named [homeboy-industries.md](https://github.com/la2050/archive/blob/master/_organizations/homeboy-industries.md)
+
+2. Select the organization and then press the edit button. For example, [826LA](https://github.com/la2050/archive/edit/master/_organizations/826la.md)
+
+The file you’re looking is written in a language called [YAML](https://en.wikipedia.org/wiki/YAML). It’s essentially a list of names and values, each separated by a colon. The names serve a similar purpose to what columns do in a spreadsheet. For example:
+```
+name: value
+another_name: another_value
+```
+
+3. Make any changes you wish, and then press the “Commit changes” button.
+
+If you wish you can also describe your changes in the fields just above the “Commit changes” button.
+
+_You can follow these same steps to edit one of the [projects](https://github.com/la2050/archive/tree/master/_projects)._
+
+## How to hide an organization
+
+You can hide an organization from the website by unpublishing it. You can easily add it back again later by publishing it.
+
+While editing an organization file, look for this line:
+```
+published: true
+```
+
+To hide the organization, set the value of published to `false`:
+```
+published: false
+```
+
+To show the organization again, set the value of published back to `true`.
+
+_You can follow these same steps to hide or show one of the [projects](https://github.com/la2050/archive/tree/master/_projects)._
 
 ## How to develop locally
 
