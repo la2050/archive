@@ -16,8 +16,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): 'Wheels of Hope LA, Fred Jordan Mission'
   Organization(s) mailing address(es): "Wheels of Hope\r\nPO Box 12345\r\nCovina, CA 91722    "
   Organization(s) website(s): www.wheelsofhopeLA.com
   Organization(s) twitter handle(s): NA
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): 'Wheels of Hope LA, Fred Jordan Mission'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

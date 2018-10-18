@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, Ca'
-  Organization(s) name(s): Girls Academic Leadership Academy
   Organization(s) mailing address(es): "4650 W. Olympic Blvd.\r\nLos Angeles, CA 90019"
   Organization(s) website(s): www.GALAcademy.org
   Organization(s) twitter handle(s): www.twitter.com/galacademy
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Girls Academic Leadership Academy
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'

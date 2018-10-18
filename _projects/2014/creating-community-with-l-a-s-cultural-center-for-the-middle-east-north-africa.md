@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_employment: '1'
   city_state: Los Angeles
-  org_name: Levantine Cultural Center
   org_website: 'http://levantinecenter.org'
   org_twitter: '@LevantineCenter'
   org_facebook: 'https://www.facebook.com/levantine.c.center'
@@ -73,7 +73,7 @@ maker_answers:
   partners_collaboration: >-
     We will partner with multiple community organizations, such as Muslims for
     Progressive Values, and the Craft and Folk Art Museum, as well as LAUSD.
-  metrics_create_employment: '1'
+  org_name: Levantine Cultural Center
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'

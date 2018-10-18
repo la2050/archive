@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: 'Email, Tweet from LA2050 and GOOD'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): CicLAvia
   Organization(s) mailing address(es): '3780 Wilshire Blvd Suite 1020, Los Angeles, CA 90010'
   Organization(s) website(s): www.ciclavia.org
@@ -83,7 +83,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

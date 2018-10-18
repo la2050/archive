@@ -10,8 +10,18 @@ project_summary: "•\tFirst commercial aquaponics farm in LA County\r\n•\tFir
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16782%252Fdisplay%252Fvertical_AP_kit_3b.jpg=c570x385
 maker_answers:
+  success: >-
+    Seeing 25 functioning aquaponic systems installed on 25 campuses is a great
+    milestone for any school district.  Counting the numbers of teachers who
+    have integrated aquaponics into their existing course work will be a bonus. 
+    Listening to the student “aquaponics ambassadors” give educational tours to
+    their peers and community members will be a leap in education.  Looking
+    beyond 2013, the project will have maximized success when the school
+    district begins to open up more land on campuses not just for
+    educational-scaled systems, but also for aquaponic farms to be installed,
+    sized accordingly, to feed the campus and the neighboring community…
+    offering a clear path towards a hyper-local food system. 
   Organization Name: Evo Farm
-  website: www.evofarm.com
   Indicator: ' Education'
   brief: >-
     Food IS the common thread that can help solve the world’s major problems
@@ -43,17 +53,7 @@ maker_answers:
   budget explanation: "KITS\t\r\n# of schools\t25\r\nKit cost \t$2,000\r\nTotal kit cost\t$50,000\r\n\t\r\nInstallation\t\r\nHours \t8\r\nRate\t$15\r\nPer install\t$120\r\nTotal kit install\t$3,000\r\n\t\r\nTraining\t\r\nHrs per kit\t5\r\nRate per hr \t50\r\nTraining cost\t$6,250\r\n\t\r\nMaintenance\t\r\nMonthly fee per kit\t$50\r\nMaintenance\t$15,000\r\n\t\r\nManual\t\r\nCost per book\t$30\r\nManual\t$750\r\n\t\r\nCurriculum Design\t\r\nTeacher stipend \t$2,500\r\n# teachers \t4\r\nGraphic design\t$4,000\r\nCurriculum Design\t$14,000\r\n\t\r\nBenefits\t$10,925\r\n\t\r\nTOTAL Grant use\t$99,925"
   description: "OPEN SPACE IS FARM SPACE:\r\nEnough unused land exists in LA to feed LA. If we considered just the 5000 acres of asphalt that LAUSD owns and converted 4% (200 acres) of that to aquaponic farms, we could put a salad on EVERY Angelino’s plate EVERY day of the year. The revenue the School District could earn would radically change the face of public education. Imagine teachers paid a fair wage, students learning useful vocational training, schools nourishing the minds and bodies of our youth, and communities benefiting from neighborhood farms and schools – the way LA used to be. Evo Farm offers a profound stepping-stone to get us there. \r\n\r\nREDUCTION OF CHRONIC DISEASES: Almost all of the diseases we face are not only preventable but also reversible. They can be turned on and off based on what we eat and what we don’t. In the US, we spend as much on these diseases as we spend on defense ($700 Billion annually). A path towards reducing these costs opens the door to happier, healthier world. Children who are involved in growing vegetables will eat vegetables and are more likely to raise their children to do the same. Evo Farm will teach them to turn our food deserts into food oases. \r\n\r\nWATER EFFICIENCIES:  Some people still question the validity of climate change, but the reduction of available freshwater on the planet is undisputed. Last year was probably the worst year for agriculture on record due to drought (and extreme temperature). Aquaponics offers extreme water efficiencies (95% more efficient than conventional ag) and opens the door to a reliable food source.  Many of these farms can operate largely on existing rainfall (only possible with aquaponics) that LA receives annually coupled with the steady stream of the LA River. Evo Farm is creating fully functioning, scalable micro- farms demonstrating the greater potential. \r\n\r\nURBAN FARMING IS JOBS: Training the future farmers of America is essential. Captivating them with exciting green-tech (triple bottom line), income potential ensures we have an able and willing labor force to do this essential work. It is not just about plants and animals, it is about marketing, IT, business development, finance, accounting, supply chain management, customer relationship management, local manufacturing, engineering, innovation, and entrepreneurship. Urban farming drives a local and resilient economy. A return to our agrarian roots is the single greatest step we can accomplish to allow for the health of individuals, health of communities and health of the planet. \r\n"
   collaborators: "•\tAquaponics Association\r\n•\tBright Agrotech\r\n•\tBluelab\r\n•\tCalifornia Aquaculture Association\r\n•\tEarthflow Design Works\r\n•\tEnvironmental Charter High School\r\n•\tEnvironmental Charter Middle School\r\n•\tGrowing Experience \r\n•\tLA League of Arts\r\n•\tLos Angles Neighborhood Land Trust (Gardening Apprenticeship Program)\r\n•\tSocial Justice Learning Institute\r\n•\tThe Learning Garden\r\n•\tVenice High School\r\n•\tWarren Lane Elementary \r\n•\tWaters Wheel\r\n•\tWestchester Enriched Sciences Magnets\r\n"
-  success: >-
-    Seeing 25 functioning aquaponic systems installed on 25 campuses is a great
-    milestone for any school district.  Counting the numbers of teachers who
-    have integrated aquaponics into their existing course work will be a bonus. 
-    Listening to the student “aquaponics ambassadors” give educational tours to
-    their peers and community members will be a leap in education.  Looking
-    beyond 2013, the project will have maximized success when the school
-    district begins to open up more land on campuses not just for
-    educational-scaled systems, but also for aquaponic farms to be installed,
-    sized accordingly, to feed the campus and the neighboring community…
-    offering a clear path towards a hyper-local food system. 
+  website: www.evofarm.com
   description1: "•\tFirst commercial aquaponics farm in LA County\r\n•\tFirst aquaponic system at LAUSD ( http://vimeo.com/41029703)\r\n•\tFirst hyper-local, living produce, better-than-organic sold at SoCal Farmers market (LA Times- http://goo.gl/s3twp)\r\n•\tCreated the Art & Science of Aquaponics course- the first backyard/ DIY aquaponics class in SoCal (LA Times- http://goo.gl/mGmPQ)\r\n•\tConsultant on some of the largest aquaponics projects in CA (http://goo.gl/LE1Bu)\r\n•\tDesigner of the smallest, yet highest yielding per square foot, Aquaponics system… just about anywhere. (Dream Garden http://goo.gl/JG1Sv)\r\n•\tFree farm tours to 1000’s of visitors\r\n•\tCo-orchestrated the debut of aquaponics at the CA State Fair, reaching 500,000 visitors (Sacramento Bee http://goo.gl/0HuYp )\r\n•\tPresented AP @ the Seedstock Sustainable Agriculture Innovation Conference at UCLA Anderson School of Management (Seedstock)\r\n•\tCompletely open-source, share all our secrets and spread the gospel of AP to all\r\n•\tRe-introducing taste to living food (Edible Westside http://goo.gl/KydmV)\r\n"
   description3: >-
     We do not feel that we have competition at this point. Not only are we the

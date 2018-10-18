@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: The Impact Hub LA
-  'City, State': 'Irvine, CA'
   Organization(s) name(s): 'Synaccord, LLC'
   Organization(s) mailing address(es): "5319 University Dr. #102\r\nIrvine, CA 92612"
   Organization(s) website(s): www.synaccord.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Irvine, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

@@ -13,8 +13,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How did you hear about this challenge?: NPR
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'HDomes.com, Shacklebrand Designs'
   Organization(s) mailing address(es): "PO Box 4098\r\nHollywood, CA 90078"
   Organization(s) website(s): HDomes.com
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Show how low cost housing can be high quality and desirable
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'

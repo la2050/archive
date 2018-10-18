@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: E-mail about challenge
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Relational Medicine Foundation
   Organization(s) mailing address(es): "835 Nowita Place\r\nVenice, CA  90291\r\n"
   Organization(s) website(s): 'http://relationalmedicinefoundation.org'
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

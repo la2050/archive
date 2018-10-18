@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: 'Santa Fe Springs, California'
-  org_name: Interfaith Food Center
   org_website: www.interfaithfoodcenter.org
   org_twitter: ''
   org_facebook: www.facebook.com/interfaithfoodcenter
@@ -94,7 +94,7 @@ maker_answers:
     menu planning; (2) ability to conduct classes and; (3) expertise and
     knowledge to evaluate and measure success.  The proposed partners meet these
     critical factors.
-  metrics_live_healthyfood: '1'
+  org_name: Interfaith Food Center
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'

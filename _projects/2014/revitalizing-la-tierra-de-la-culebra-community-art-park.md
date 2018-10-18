@@ -21,8 +21,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: 'Los Angeles, Ca'
-  org_name: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
   org_website: 'http://aclaparks.tumbler.com/'
   org_twitter: '@LaCulebraPark'
   org_facebook: 'https://www.facebook.com/profile.php?id=100006857749196&fref=ts&ref=br_tf'
@@ -59,7 +59,7 @@ maker_answers:
   impact_live: "There are many interpretations of what living in a healthy place means. To us, it is an integration of all of the different concepts in a way that they overlap and flow seamlessly to support one aspect that also supports the next one. A holistic approach. Our project is aimed at facilitating access to a space in which we can integrate  all of our different ideas about the notion of living healthy lives and scaffold a conscious awareness amongst community members of how to apply them to their own lives by experiencing them here at the park. We will make Los Angeles the healthiest place to live by promoting a connection and appreciation for healthy foods, disseminating information about how to access these foods either through feasible outlets or growing them at home (even without significant access to space or resources), increasing canopy cover (reducing air toxins) at the park and beyond using fruit bearing trees,  hosting physical engagement activities to fight obesity (and improve the bike/transit score through mobility), combating violent acts through restorative justice programming (guiding responsibility for actions that have hurt or harmed someone else rather than focusing on punishment and isolation from the community), exemplifying conscientious use of water resources and ways of reducing polluted waterways (through water diversion methods, reducing run-off, and and reducing use of harmful chemicals), while simultaneously engaging people’s need for interaction and creativity to sustain a healthy approach to life in the face of adversity and the prevalent socio-economic disparities that are rampant in Los Angeles. \r\n\r\n\r\n"
   who_benefit: "The project will benefit young children in the vicinity with access to an open park space, it will benefit high school and college students who need an outlet for civic engagement to build skillsets for their future, low-income families seeking access to healthy food and preventive health information, families looking for a place to spend time together and enjoy cultural events, everyone in Los Angeles wanting to explore urban permaculture in a hands-on setting, community members seeking involvement in  sustainable living issues, at-risk youth in the area needing  mentoring and financial support, as well as creative and professional community members needing a supportive space (as well as stipends and materials) in which to share their expertise with others.\r\n"
   partners_collaboration: "All of the following collaborators have been confirmed.\r\n\r\nQuetzal, an upcoming nursery specializing in healing herbs, fruit trees, and native plants\r\n(providing materials and information)\r\n\r\nPermaculture specialist and consultant David Vestol\r\n\r\nTeaching professionals from the USC Rossier School of Education\r\n\r\nEast Los Angeles Community College student association\r\n\r\nand more\r\n\r\nPotential Collaborators:\r\n\r\nGraphic design Artists, muralists, photographers, architects, yoga teachers, nutrition specialists"
-  metrics_live_healthyfood: '1'
+  org_name: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '1'

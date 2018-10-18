@@ -43,8 +43,8 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jGa5KEowRPM'
 maker_answers:
+  success: "With regards to the effects of the programs on students outcomes, we will measure success by administering surveys to students prior to and post participation in our programs. The surveys will be designed to collect data on the effects of the program on college knowledge and college-going efficacy. We also will conduct selected focus groups with students and practitioners in order to gain a deeper  understanding of which practices are working best for students and their teachers and/or counselors.\r\nWe will also evaluate the project by analyzing the numbers of game players and if/how those numbers increase, thus increasing traction in the project. We will also analyze back-end server data related to the games in order to ascertain the effects of game play on students' college aspirations and/or plans."
   Organization Name: Pullias Center for Higher Education
-  website: 'http://pullias.usc.edu/'
   Indicator: ' Education'
   brief: >-
     Our primary goal is to increase college attendance throughout the
@@ -136,7 +136,7 @@ maker_answers:
     one on one interaction needed to understand how to navigate the college
     admissions and financial aid processes.
   collaborators: "High schools within the Los Angeles Unified School District: Belmont, Crenshaw, Dorsey, Foshay Learning Center, Fremont, Manual Arts, Marshall, Roosevelt, Roybal Learning Center\r\nUSC Game Innovation Lab\r\nCash for College- Los Angeles Chamber of Commerce\r\nNational College Access Network\r\nSouthern California College Access Network\r\nCollege Access Foundation of California\r\nSelected businesses - to be determined\r\n"
-  success: "With regards to the effects of the programs on students outcomes, we will measure success by administering surveys to students prior to and post participation in our programs. The surveys will be designed to collect data on the effects of the program on college knowledge and college-going efficacy. We also will conduct selected focus groups with students and practitioners in order to gain a deeper  understanding of which practices are working best for students and their teachers and/or counselors.\r\nWe will also evaluate the project by analyzing the numbers of game players and if/how those numbers increase, thus increasing traction in the project. We will also analyze back-end server data related to the games in order to ascertain the effects of game play on students' college aspirations and/or plans."
+  website: 'http://pullias.usc.edu/'
   description1: >-
     The Pullias Center for Higher Education is dedicated to improving access to
     college for low-income and historically under-represented students. The

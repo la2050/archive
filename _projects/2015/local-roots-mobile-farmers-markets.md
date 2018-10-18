@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Google
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Local Roots
   Organization(s) mailing address(es): '5000 Hampton Street, Vernon, CA 90058'
   Organization(s) website(s): www.localrootsfarms.com
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

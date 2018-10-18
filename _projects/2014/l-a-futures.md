@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  collaboration: "Our confirmed business partner t confirmed collaborators are:\r\nTBWA\\Chiat\\Day\r\nDDB California\r\nIgnitedUSA\r\nSaatchi & Saatchi\r\nThinkLA, consortium of creative companies\r\nOur confirmed school confirmed collaborators are:\r\nDorsey High School\r\nJames Foshay Learning Center\r\nPasadena High School\r\nVenice High School\r\nWe have worked for several years with these collaborators.\r\nThree factors that are critical to the success of these partnerships are:\r\n1) Shared decision-making\r\n2) Understanding of roles and expectations\r\n3) Evaluation and improvement"
   about_you: 'Pasadena, CA 91105'
-  org_name: Light Bringer Project
   org_website: www.lightbringerproject.com
   org_twitter: lbp@lightbringerp
   org_facebook: lightbringerproject
@@ -129,7 +129,7 @@ maker_answers:
     future talent pool of our own community the creative industry is greatly
     benefitted if we bear in mind that 726,300 direct and indirect jobs, or 1 in
     7 jobs, represent the human capital that vitalizes this industry. 
-  collaboration: "Our confirmed business partner t confirmed collaborators are:\r\nTBWA\\Chiat\\Day\r\nDDB California\r\nIgnitedUSA\r\nSaatchi & Saatchi\r\nThinkLA, consortium of creative companies\r\nOur confirmed school confirmed collaborators are:\r\nDorsey High School\r\nJames Foshay Learning Center\r\nPasadena High School\r\nVenice High School\r\nWe have worked for several years with these collaborators.\r\nThree factors that are critical to the success of these partnerships are:\r\n1) Shared decision-making\r\n2) Understanding of roles and expectations\r\n3) Evaluation and improvement"
+  org_name: Light Bringer Project
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'

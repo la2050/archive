@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: 'Future of Cities: Leading in LA'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles Flag
   Organization(s) mailing address(es): 'P.O Box 661712, Los Angeles, CA 90066'
   Organization(s) website(s): www.losangelesflag.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

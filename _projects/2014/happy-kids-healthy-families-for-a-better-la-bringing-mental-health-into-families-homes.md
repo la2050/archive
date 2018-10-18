@@ -16,8 +16,8 @@ project_video: 'https://www.youtube.com/embed/4svMiNJ-HL0'
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: 'Culver City, CA'
-  org_name: Westside Infant-Family Network (WIN)
   org_website: www.winla.org
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/WestsideInfantFamilyNetwork'
@@ -111,7 +111,7 @@ maker_answers:
     provides 700 hours of direct service to 125-150 staff of 5 agencies in LA to
     affect the lives of 1000s of additional children and families annually. 
   partners_collaboration: "Since 2006, WIN’s network partners have included Venice Family Clinic, Westside Children’s Center and St. Joseph Center.  Respectively, they bring a host of high-quality medical care; early care and early intervention services; and food pantry, housing support and homelessness support to our shared clients.  All of the families who come to WIN are referred from our three partners, and that allows us to ‘nest’ our intensive mental health care within the context of their home-agencies services.   WIN’s partnership relationships are some of the most deeply rooted we’ve encountered, and are critical to our success with families. \r\n\r\nAll WIN families receiving therapy get a home visiting case manager from their home agency, as well as a Master’s level WIN therapist.  Because WIN pays the salaries of partner-agency case managers, our web based  data system rates services on a monthly basis, which helps ensure high quality care.  Because WIN releases its clinical outcomes biannually, our partners know how their families are doing in our care.\r\n\r\nLead clinical staff from each agency and WIN meet to coordinate work at our monthly Program Committee Meetings, and partner agency case managers and supervisors, plus WIN therapists and our clinical director meet weekly for shared case reviews.  WIN trains its partner agency staff with 20-40 hours of multi-disciplinary training each year, plus provides dedicated, weekly mental health consultation to the Early Head Start and/or programmatic staff of each of our partner agencies.\r\n\r\nThanks to WIN’s HIPAA-compliant data system (a system that has become the model for one the state of Connecticut has adopted for its early childhood mental health services), WIN and its partners coordinate care for each family though a jointly prepared on-line service plan that is updated by each agency regularly.  The system reports monthly on how well we’re helping families achieve their goals, and allows staff to communicate in ‘real-time’ regarding family progress—as well as to coordinate care during emergencies.  The system tabulates our biannual outcomes, gathering data input by staff at various levels from all partners, and reminds case managers and therapists when screenings, assessments and releases are due.\r\n"
-  metrics_live_healthyfood: '1'
+  org_name: Westside Infant-Family Network (WIN)
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'

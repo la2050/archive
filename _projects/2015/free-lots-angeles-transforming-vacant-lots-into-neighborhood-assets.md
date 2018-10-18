@@ -21,8 +21,8 @@ project_areas:
   - San Fernando Valley
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Word of mouth
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): >-
     Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
     (LURN), TRUST South LA, Konkuey Design Initiative (KDI), Esperanza Community
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'

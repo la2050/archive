@@ -19,8 +19,8 @@ project_areas:
   - San Gabriel Valley
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: We submitted a grant last year
-  'City, State': 'Baldwin Park, CA'
   Organization(s) name(s): MAPS 4 College
   Organization(s) mailing address(es): '13337 South Street 574, Cerritos, CA 90703'
   Organization(s) website(s): www.maps4college.org
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Baldwin Park, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

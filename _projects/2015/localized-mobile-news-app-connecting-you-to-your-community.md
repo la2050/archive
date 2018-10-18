@@ -17,8 +17,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Friend
-  'City, State': 'Playa del Rey, CA'
   Organization(s) name(s): Ruckus Projects
   Organization(s) mailing address(es): 8233 W Manchester Ave apt 3
   Organization(s) website(s): www.ruckusprojects.com/
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Playa del Rey, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: ''

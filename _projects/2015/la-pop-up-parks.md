@@ -19,8 +19,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Last minute email
-  'City, State': 'Venice, CA'
   Organization(s) name(s): 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
   Organization(s) mailing address(es): 1021 Abbot Kinney Blvd
   Organization(s) website(s): www.venicepopuppark.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Venice, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'

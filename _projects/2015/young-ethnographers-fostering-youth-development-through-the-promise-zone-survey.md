@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/MbjQABq5iTI'
 project_areas:
   - Central LA
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: newsletter; friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): >-
     Los Angeles Promise Zone Initiative | LA Mayor's Office of Economic
     Development c/o Mayor's Fund for Los Angeles
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

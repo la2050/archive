@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/ERxmCic5y3o'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Colleagues
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): >-
     Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
     Building Council Los Angeles Chapter (USGBC-LA)
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Build a toolkit
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

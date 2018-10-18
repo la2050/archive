@@ -20,8 +20,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Playa Del Rey, CA'
-  Organization(s) name(s): The Incubator School
   Organization(s) mailing address(es): '7400 W. Manchester Ave., Los Angeles, CA 90045'
   Organization(s) website(s): www.incubatorschool.org
   Organization(s) twitter handle(s): 'https://twitter.com/incschool'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): The Incubator School
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

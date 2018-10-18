@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/7VGCk_c0VcU'
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Hollywood, CA'
-  Organization(s) name(s): Hollywood HEART
   Organization(s) mailing address(es): "2690 Beachwood Dr.\r\nHollywood, CA 90064"
   Organization(s) website(s): www.hollywoodheart.org
   Organization(s) twitter handle(s): www.twitter.com/hollywdheart
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Hollywood HEART
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: 'Previous applicant, email newsletter'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'DSTL Arts, Emerging Arts Leaders/Los Angeles, Trade School Los Angeles'
   Organization(s) mailing address(es): "DSTL Arts\r\n3529 Fletcher Dr.\r\nLos Angeles, CA 90065\r\n\r\nEmerging Arts Leaders/Los Angeles\r\n℅ Community Partners\r\n1000 North Alameda Street\r\nSuite 240\r\nLos Angeles, CA 90012\r\n\r\nTrade School Los Angeles\r\n211 South Avenue 57\r\nUnit 201\r\nLos Angeles, CA 90042"
   Organization(s) website(s): www.DSTLArts.org
@@ -87,7 +87,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

@@ -20,8 +20,8 @@ project_areas:
   - San Fernando Valley
   - South Bay
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): City of Los Angeles Department of Recreation and Parks (RAP)
   Organization(s) mailing address(es): '221 N. Figueroa Street, Los Angeles, CA  90012'
   Organization(s) website(s): www.laparks.org
   Organization(s) twitter handle(s): 'https://twitter.com/LACityParks'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): City of Los Angeles Department of Recreation and Parks (RAP)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'

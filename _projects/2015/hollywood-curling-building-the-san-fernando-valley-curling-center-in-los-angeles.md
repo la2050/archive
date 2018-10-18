@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Word of mouth from one of our members.
-  'City, State': 'Valencia, CA'
   Organization(s) name(s): Hollywood Curling
   Organization(s) mailing address(es): 'PO Box 7872, Van Nuys Blvd, Panorama City, CA 91409'
   Organization(s) website(s): www.hollywoodcurling.org
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Valencia, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: ''

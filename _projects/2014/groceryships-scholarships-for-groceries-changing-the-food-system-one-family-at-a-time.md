@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: Los Angeles
-  org_name: Groceryships
   org_website: www.groceryships.org
   org_twitter: '@groceryships'
   org_facebook: facebook.com/groceryships
@@ -69,7 +69,7 @@ maker_answers:
     struggling with food related health issues like obesity, diabetes, heart
     disease, malnourishment, etc. 
   partners_collaboration: "Homeboy Industries has mentored us from the early stages of our program, providing advice and support in developing our concept. In October, we are launching our first class together, connecting their twenty-six years of experience, highly motivated members, and proven success with our innovative strategy. This is a mutually beneficial partnership, allowing us to transform the relationship with food for Homeboy employees, explore a different facet of the wellness emphasized by Homeboy, and introduce our curriculum to a new neighborhood.\r\n\r\nVitamix has also worked with us throughout our pilot program. The blenders they donate make it easier for families to increase fruit and vegetable consumption, so much so that kids of our families are holding “smoothie parties.” \r\n"
-  metrics_live_healthyfood: '1'
+  org_name: Groceryships
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '1'

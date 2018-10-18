@@ -17,8 +17,8 @@ project_areas:
   - SFV
   - SOUTH BAY
 maker_answers:
+  metrics_live_healthyfood: '0'
   city_state: 'Encino, CA'
-  org_name: Meet Each Need with Dignity
   org_website: www.mendpoverty.org
   org_twitter: mendpoverty
   org_facebook: www.facebook.com/mendpoverty
@@ -70,7 +70,7 @@ maker_answers:
     Fernando Valley and makes a significant difference in the lives of 3,100
     people who, in 2013, turned to MEND for medical help.
   partners_collaboration: "The following collaborators are confirmed, and we have worked together in the past. Each collaborator adds its own specialty to complete the quality of the various medical services provided. These collaborators bring three critical aspects to the success of the medical service on a day-to-day basis: 1) their specific expertise, 2) key necessary research and 3) in-kind work to help MEND provide full medical follow through.\r\n\r\n\r\nMEND Medical Clinic: Total # 59\tMedical Cont.\r\nAlzheimer's Association\tProvidence St. Parish Nurses\r\nAmerican Diabetes Association\tSFV Optometric Society\r\nAnderson Career College\tSHP-PEP -Student Health Professional Pre-Entry Program\r\nCenter for the Partially Blind\tShalom Ahavat Temple\r\nCal State L.A. School of Nursing\tSouthside Coalition of Community Health Centers\r\nCalifornia Dept of Public Health: Champions for Change\tUCLA Dept of Int. Medicine: Community Health Program\r\nCalifornia State University Northridge\tUCLA Dept of Nephrology: SPRINT Study\r\nCalifornia State University Los Angeles: School of Nursing\tUCLA School of Nursing \" Heart Stiches\"\"\r\nCesar Chavez Committee: Annual Festival & March\tUSC School of Pharmacy Fraternity\r\nCollege of the Canyons: School of Nursing\tValley Care/ Olive View Hospital\r\nCommunity Clinic Association of LA County\tValley College of Medical Careers\r\nCommunity Clinic Voice\tValley Community Clinic\r\nCSNAP\tVCCC\r\nDirect Relief\tVision y Compromiso\r\nEl Nido\tWestern University School of Optometry\r\nEverest College\tWest Coast University School of Nursing\r\nWorksource California TSE Program\r\nYouth Policy Institute\r\nNorthridge Hospital\r\nOccidental College\r\nPacoima Beautiful\r\nPals for Health\r\nPartners in Care \r\nPlatt College\r\nProvidence Holy Cross Medical Center\r\n St. Joseph Medical Center\r\n\r\n\r\n\r\nHomeless Health Care L.A\r\nKaiser Permanente\r\nKaiser Permanente Panorama City: Health Education Dept\r\nKaiser Permanente Woodland Hills: Residency Program\r\nKaplan College\r\n    LA County Health Department\r\n\r\nLA County Department of Health Services: OVMC\r\nLA County Department of Public Health, Nutrition Program\r\nLatino Diabetes Association\r\nLions Clubs\r\nMission Community Hospital: Project Alto\r\nMt St. Mary's: School of Nursing\r\nNational Kidney Foundation\r\nNetwork for a Healthy California- LA Region\r\nNEVHC\r\nNational University School of health and Human Services\r\n\r\n\r\n\r\n.   Worksource California TSE Program\t\r\n"
-  metrics_live_healthyfood: '0'
+  org_name: Meet Each Need with Dignity
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '1'
