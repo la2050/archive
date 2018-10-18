@@ -64,7 +64,7 @@ If you’d like to see how your changes will look on the website before anyone e
 
 The `staging` branch is a copy of the website, and is published at https://staging-archive.la2050.org
 
-You can make edits and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
+You can make edits in the staging branch and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
 
 Once you’re happy with your changes, you can automatically publish them on the [archive website](https://archive.la2050.org) with a pull request.
 
@@ -79,6 +79,19 @@ https://github.com/la2050/archive/pull/new/staging
 4. And then, press the “merge pull request” button.
 
 5. And lastly, press the “confirm merge” button.
+
+![staging](https://user-images.githubusercontent.com/926616/47128141-f3852b00-d244-11e8-9615-84107938d3b7.png)
+
+![1-new-pull-request-button](https://user-images.githubusercontent.com/926616/47128142-f4b65800-d244-11e8-997d-64fc502e5478.png)
+
+![2-create-pull-request](https://user-images.githubusercontent.com/926616/47128144-f6801b80-d244-11e8-915f-642fe80eb8e7.png)
+
+![3-merge-pull-request](https://user-images.githubusercontent.com/926616/47128146-f7b14880-d244-11e8-8bd9-d1da61420c8a.png)
+
+![4-confirm-merge](https://user-images.githubusercontent.com/926616/47128149-f8e27580-d244-11e8-8af9-15ee2f4ca83e.png)
+
+![5-done](https://user-images.githubusercontent.com/926616/47128151-fa13a280-d244-11e8-9a3c-5666d25f5f9b.png)
+
 
 ## How to develop locally
 
