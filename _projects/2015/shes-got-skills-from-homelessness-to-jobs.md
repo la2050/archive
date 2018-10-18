@@ -16,8 +16,8 @@ project_image: 'https://img.youtube.com/vi/13dwU_7eCrQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/13dwU_7eCrQ'
 project_areas: []
 maker_answers:
+  How did you hear about this challenge?: We're a past grantee
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Downtown Women's Center
   Organization(s) mailing address(es): '442 S. San Pedro Street, Los Angeles, CA 90013'
   Organization(s) website(s): www.DowntownWomensCenter.org
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: We're a past grantee
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

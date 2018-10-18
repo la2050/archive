@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - Westside
 maker_answers:
+  How did you hear about this challenge?: Email through 2050 Newsletter Email Subscription
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   Organization(s) name(s): Tagliaferri Howard Architecture
   Organization(s) mailing address(es): "4136 Del Rey Ave.  Marina Del Rey, CA 90292\r\n\r\n3981 Beethoven St Los Angeles, CA 90066"
   Organization(s) website(s): 'http://www.tharchitecture.com/'
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: Email through 2050 Newsletter Email Subscription
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: 'We need the resources to set up community meetings and '

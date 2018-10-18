@@ -20,8 +20,8 @@ project_areas:
   - Central LA
   - South LA
 maker_answers:
+  How did you hear about this challenge?: Facebook
   'City, State': Los Angeles
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): Los Angeles Community Action Network
   Organization(s) mailing address(es): '838 E. 6th St. Los Angeles, CA 90021'
   Organization(s) website(s): www.cangress.org
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Facebook
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

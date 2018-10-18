@@ -11,8 +11,10 @@ project_image: 'https://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fMyc7c0Ylc4'
 project_areas: []
 maker_answers:
+  How did you hear about this challenge?: >-
+    We applied last year, and we work very closely with past LA 2050 grantee
+    East LA Community Corporation. 
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   Organization(s) name(s): Southeast Asian Community Alliance (SEACA) and Public Counsel
   Organization(s) mailing address(es): "Southeast Asian Community Alliance\r\n970 N. Broadway, suite 209\r\nLos Angeles, CA 90012\r\n\r\nPublic Counsel\r\n610 S. Ardmore Avenue\r\nLos Angeles, CA 90005\r\n"
   Organization(s) website(s): 'www.seaca-la.org www.publiccounsel.org '
@@ -57,9 +59,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: >-
-    We applied last year, and we work very closely with past LA 2050 grantee
-    East LA Community Corporation. 
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

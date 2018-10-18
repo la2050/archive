@@ -10,25 +10,8 @@ project_summary: "Recipient of the National Endowment for the Arts Our Town Gran
 project_image: 'https://img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/nPa4Lu7CMPA'
 maker_answers:
+  Organization Name: Arts Council for Long Beach
   website: 'http://www.artslb.org/'
-  success: >-
-    The primary intended outcome of the project is that the Long Beach and Los
-    Angeles County will be strengthened through the arts. A secondary outcome is
-    public engagement with diverse and excellent art. Quantitative performance
-    measurements of both outcomes will include the numbers of performances,
-    artists, audiences, locations, and neighborhoods that participate. In
-    addition to the quantitative performance measurements, the Arts Council for
-    Long Beach will work with its primary partner, Long Beach Development
-    Services, to evaluate the qualitative impact of the project on the
-    communities involved. The partners will assess the level of increased social
-    and economic vitality in areas where performances take place, such as
-    reduction of blight; businesses opened in vacant storefronts; new gathering
-    spaces; positive reporting in the media; and increase in membership in
-    neighborhood and block associations. The partners will also work with the
-    community to gather to anecdotal evidence of change, such as increase in
-    neighborhood pride; and greater interaction of cultures and ethnic groups.
-    This information will be gathered through surveys and interviews with key
-    staff of the partners and leaders of the community. 
   Indicator: Arts & Cultural Vitality
   brief: "Our A LOT Initiative will foster a stronger community identity, a sense of place, and revitalize economic development by way of supporting creative activity. Free events will promote the concept of creative placemaking, encouraging our community to animate public and private spaces, rejuvenate streetscapes, improve local business viability and public safety, while bringing together diverse people to celebrate, to inspire, and to be inspired. The A Lot Initiative will begin in Fall 2013.\r\n\r\n\r\nA LOT's primary goal is to broaden audience and artist engagement, as well as, expand geographic scope, with underserved communities especially benefiting. Rather than placing cultural activities in enclosed venues for a limited number of people for a couple of hours, the objective is to enliven vacant lots, streets, and entire areas with creative energy -- sound, light, visual art, and performance -- for days or even weeks at a time. In addition to engaging residents in the arts, A LOT is intended to increase pedestrian traffic and enliven streets with vacant storefronts, thus creating prospects for both \"pop-up\" and more permanent businesses to revitalize these neighborhoods. The projects' mobility is intended to offer this transformative opportunity to multiple neighborhoods creating lasting impact throughout the city."
   budget explanation: "Direct Costs\r\n\r\n     Salaries and Wages (weighted for % time)\r\n          ACLB Program Manager                  $ 14,000\r\n          ACLB Executive Director                 $   8,000\r\n          LBDS Staff                                           $ 20,000\r\n    Total Salaries and Wages                      $ 56,000\r\n    Total Fringe Benefits                               $   7,000\r\n    Total Salaries, Wages, and Benefits   $ 63,000\r\n\r\n    Other Expenses\r\n    Program Consultant                               $   60,000\r\n    Artist and Organization Honoraria      $ 150,000\r\n    Marketing, Promotion, and Outreach $   40,000\r\n    Documentation and Evaluation           $     5,000\r\n    Office Expenses                                       $        500\r\n    Total Other Expenses                             $ 255,500\r\n\r\nTotal Project Costs                                      $ 318,500\r\n"
@@ -53,7 +36,24 @@ maker_answers:
     and Long Beach Development Services, a local government agency. Other
     partners in this effort include local neighborhood associations and groups,
     as well as business improvement districts throughout the city.
-  Organization Name: Arts Council for Long Beach
+  success: >-
+    The primary intended outcome of the project is that the Long Beach and Los
+    Angeles County will be strengthened through the arts. A secondary outcome is
+    public engagement with diverse and excellent art. Quantitative performance
+    measurements of both outcomes will include the numbers of performances,
+    artists, audiences, locations, and neighborhoods that participate. In
+    addition to the quantitative performance measurements, the Arts Council for
+    Long Beach will work with its primary partner, Long Beach Development
+    Services, to evaluate the qualitative impact of the project on the
+    communities involved. The partners will assess the level of increased social
+    and economic vitality in areas where performances take place, such as
+    reduction of blight; businesses opened in vacant storefronts; new gathering
+    spaces; positive reporting in the media; and increase in membership in
+    neighborhood and block associations. The partners will also work with the
+    community to gather to anecdotal evidence of change, such as increase in
+    neighborhood pride; and greater interaction of cultures and ethnic groups.
+    This information will be gathered through surveys and interviews with key
+    staff of the partners and leaders of the community. 
   description1: "Recipient of the National Endowment for the Arts Our Town Grant for $150,000. The Arts Council was one of 80 organizations selected from a pool of 317 applicants.  And, 1 of 6 organizations to receive the highest amount.  The Arts Council serves over 2500 students each year in the Arts Learning program. Every October, Long Beach Arts Month promotes over 500 events for National Arts and Humanities Month in Long Beach. This calendar reaches over 100,000 people all over Los Angeles. On average each year, the Arts Council distributes over 40 grants to artists and community based nonprofit arts organizations. \r\n"
   description3: >-
     The Arts Council for Long Beach does not see itself as having any

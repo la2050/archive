@@ -15,12 +15,8 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-wRfwMCYTHY'
 maker_answers:
+  Organization Name: Institute for Nonviolence in Los Angeles
   website: www.invla.org
-  success: >-
-    We will train and work with hundreds of people who want to find better ways
-    of communicating and resolving conflict.  They will obtain a better
-    understanding of community resources to assist them, and learn to intervene
-    effectively to help resolve disputes wherever they occur.
   Indicator: ' Social Connectedness'
   brief: >-
     This idea will provide those who wish to learn listening, communication and
@@ -42,7 +38,11 @@ maker_answers:
     There is a vibrant dispute resolution and dialogue and deliberation
     community in Los Angeles.  All of these collaborators will be made aware and
     invited to participate in this initiative, if it is selected for funding.
-  Organization Name: Institute for Nonviolence in Los Angeles
+  success: >-
+    We will train and work with hundreds of people who want to find better ways
+    of communicating and resolving conflict.  They will obtain a better
+    understanding of community resources to assist them, and learn to intervene
+    effectively to help resolve disputes wherever they occur.
   description1: >-
     More than 2,000 members of the public were trained by Avis Ridley-Thomas in
     the years that I oversaw the Los Angeles City Attorney's Dispute Resolution

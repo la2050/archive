@@ -18,8 +18,8 @@ project_areas:
   - CENTRAL LA
   - LA COUNTY
 maker_answers:
+  city_state: 'Los Angeles, CA'
   org_name: 3Boulevards and West Adams Heritage Assocation (WAHA)
-  metrics_create_employment: '1'
   org_website: 3boulevards.org
   org_twitter: ''
   org_facebook: 3boulevards
@@ -124,7 +124,7 @@ maker_answers:
     that will inspire new efforts by others.  We want the participants to "own"
     the improvements and to inspire others to  do their small part that will
     make an enormous contribution to the community.
-  city_state: 'Los Angeles, CA'
+  metrics_create_employment: '1'
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'

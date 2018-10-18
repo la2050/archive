@@ -15,8 +15,8 @@ project_video: 'https://www.youtube.com/embed/NTnzCDQ335U'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: 'Senior Director of Curriculum and Learning, Iridescent'
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Iridescent
   Organization(s) mailing address(es): '532 W. 22nd Street, Los Angeles, CA 90007'
   Organization(s) website(s): www.iridescentlearning.org
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: 'Senior Director of Curriculum and Learning, Iridescent'
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

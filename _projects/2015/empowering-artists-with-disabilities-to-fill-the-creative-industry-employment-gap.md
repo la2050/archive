@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/duMAZ5TXBMg'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: Ki’tay Davidson spoke at a Grant Professionals Association meeting last year
   'City, State': 'Los Angeles, California'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Tierra del Sol Foundation
   Organization(s) mailing address(es): "9919 Sunland Blvd.\r\nSunland, CA 91040\r\n"
   Organization(s) website(s): www.tierradelsol.org
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: Ki’tay Davidson spoke at a Grant Professionals Association meeting last year
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

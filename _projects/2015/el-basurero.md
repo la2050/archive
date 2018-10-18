@@ -21,8 +21,8 @@ project_areas:
   - East LA
   - South LA
 maker_answers:
+  How did you hear about this challenge?: KPCC/SCPR
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
   Organization(s) name(s): El Basurero
   Organization(s) mailing address(es): "3400 San Marino Street, Suite P\r\nLos Angeles, CA 90006"
   Organization(s) website(s): >-
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: KPCC/SCPR
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
     Enlist LACC or a similar organization to go door-to-door publicizing MyLA

@@ -19,8 +19,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: I've followed LA2050 & Goldhirsh for the past couple years.
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   Organization(s) name(s): Civic Tech USC
   Organization(s) mailing address(es): '350 S Grand Ave, Suite 3350, Los Angeles, CA 90071 '
   Organization(s) website(s): 'http://civictechusc.org/'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: I've followed LA2050 & Goldhirsh for the past couple years.
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

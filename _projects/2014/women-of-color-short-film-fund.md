@@ -19,8 +19,8 @@ project_areas:
   - SGV
   - SFV
 maker_answers:
+  city_state: 'Los Angeles, CA'
   org_name: The Bitch Pack
-  metrics_create_arts: '1'
   org_website: thebitchpack.com
   org_twitter: www.twitter.com/biatchpack
   org_facebook: 'https://www.facebook.com/HollywoodBiatchPack'
@@ -64,7 +64,7 @@ maker_answers:
   who_benefit: "Everyone of every color, creed, age and gender will feel like their lives in LA count when they can see diversity accurately represented in the short films funded by this program. These films will show LA as a beacon for all to express themselves via film (what we're known for). It is also important for the future of LA that we send the message to younger generations that their voice matters regardless of ethnic background and gender. People everywhere will be able to see Los Angeles in a different light, a true modern city where opportunities lie for all. \r\n\r\n"
   partners_collaboration: "-Seed & Spark CEO Emily Best (confirmed)\r\nDistributor\r\nhttp://www.seedandspark.com/who-we-are\r\nEmily was named one of the 2013 Indiewire Influencers, dedicated to 40 people and companies who are asking the big questions about what the independent film industry is today (and why) and, more importantly, what it will become. Emily is touring film and tech festivals around the world, Sundance and SXSWV2V to Sheffield and Galway, to educate filmmakers and learn their best practices in connecting with their audiences to build a sustainable career.\r\n\r\n-Suilma Rodriguez (confirmed)\r\nExecutive Producer\r\nSuilma has been an actor in a long list of commercials and short films over the last decade. She has also produced short and feature length narrative projects.  Currently she serves on the board of directors at the Lincoln Heights Tutorial Program, helping urban youth attend college and become role models in their community. Along with administrative duties, Suilma's extensive film experience will aid in the oversight of the content and execution of the short films. \r\n\r\n-From The Heart Productions (confirmed)\r\nFiscal Sponsor\r\nhttp://fromtheheartproductions.com/\r\nFTH, led by Carole Dean, has sponsored numerous socially conscious and diverse films. They continue in this tradition by coming on board with this project as our fiscal sponsor. \r\n\r\n-The Bitch Pack \r\nExecutive Producer\r\nThuc Nguyen - an Indiewire 2014 feature in \"Heroines of Cinema\" http://www.indiewire.com/article/heroines-of-cinema-how-thuc-nguyens-bitch-pack-is-fighting-the-corner-of-female-driven-stories\r\nCSUN Master of Public Administration, Non-Profit Management\r\nUCLA Screenwriting Certificate\r\nAs a writer and activist Thuc is very passionate about the execution of this project. She will be executing administrative duties and overseeing content and outreach of the project. \r\n\r\n*We already meet monthly to discuss how to change storytelling using women's voices and technology.\r\n\r\nFactors critical to the success of our project-\r\n1. Social media outreach and cross promotion.\r\n2. Quality control of the short films\r\n3. Support from industry players in the form of mentorship, donated resources, exposure, and collaborations.   "
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
+  metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
   metrics_create_researchgrant: '1'
   metrics_create_patents: '0'

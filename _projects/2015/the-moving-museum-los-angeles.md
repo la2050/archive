@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/X9EpK48pYtY'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: Online search
   'City, State': 'New York, NY'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   Organization(s) name(s): The Moving Museum
   Organization(s) mailing address(es): '230 W 38th Street, New York, NY 10018'
   Organization(s) website(s): www.themovingmuseum.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: Online search
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

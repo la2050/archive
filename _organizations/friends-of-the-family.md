@@ -13,9 +13,9 @@ tags_indicators:
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952765505'
 organization_website:
   - www.fofca.org
-twitter: 
-instagram: https://www.instagram.com/friendsofthefamilyca/
-facebook: https://www.facebook.com/fofca/
+twitter: ''
+instagram: 'https://www.instagram.com/friendsofthefamilyca/'
+facebook: 'https://www.facebook.com/fofca/'
 ein: ''
 zip: ''
 project_image: >-

@@ -12,21 +12,8 @@ project_summary: "The David Lynch Foundation has instructed over 250,000 at-risk
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16855%252Fdisplay%252FDLFlogo.jpg=c570x385
 maker_answers:
+  Organization Name: David Lynch Foundation
   website: www.davidlynchfoundation.org
-  success: >-
-    The David Lynch Foundation has its own internal assessment capability,
-    including educational researchers Dr. Sanford Nidich and Dr. Sarina
-    Grosswald. We would design an evaluation model to measure results in the
-    participating group using inventories such as Emotional Quotient Inventory
-    (EQI) - widely used in the field of management; the Intrapersonal Scale
-    comprises self-regard, emotional self-awareness, assertiveness,
-    independence, self-actualization Interpersonal scale comprises empathy,
-    social responsibility, and interpersonal relationship (only scale not quite
-    statistically significant); Stress Management Scale comprises stress
-    toleration and impulse control; Adaptability scale comprises reality
-    testing, flexibility, and problem, solving ability; Positive Mood comprises
-    optimism and happiness; Profile of Mood States (POMS) measures psychological
-    distress.
   Indicator: ' Education'
   brief: "<p>The success of the LA2050 initiative depends on the intelligence, creativity, clarity and effectiveness of its most influential proponents.</p>\r\n\r\n<p>If those who are responsible for leading this important initiative have a tool to be more effective in their chosen area, their influence will be more profound. The leaders of this effort should themselves embody the highest ideals of health, comprehensive vision, compassion and creativity. </p>\r\n\r\n<p>The LA2050 \"200\" program, under the direction of the David Lynch Foundation, will train 200 top leaders in the various target areas (Education, Health, Housing, etc.) in the Transcendental Meditation program. Transcendental Meditation (TM) is the most thoroughly researched self-development tool for relieving stress, improving health and well-being, and actualizing inner potential to enhance organizational leadership.</p>\r\n\r\n<p>http://www.doctoroz.com/videos/oz-transcendental-meditation</p>\r\n\r\n<p>The David Lynch Foundation has provided training programs for some of the most successful organizations in the country, including Oprah Winfrey's Harpo/OWN network, Dr. Oz and Ellen Degeneres' production companies, employees at Bridgewater Associates, the world's most successful hedge fund company. </p>\r\n\r\n<p>With this grant from GOOD, the David Lynch Foundation will provide a custom training program for 200 of the most inspired and inspiring leaders of the LA2050 initiative. </p>\r\n\r\n\r\n"
   budget explanation: >-
@@ -46,7 +33,20 @@ maker_answers:
     working with the David Lynch Foundation to bring education and research data
     on the TM program to thought leaders and policy makers in health, education
     and politics.
-  Organization Name: David Lynch Foundation
+  success: >-
+    The David Lynch Foundation has its own internal assessment capability,
+    including educational researchers Dr. Sanford Nidich and Dr. Sarina
+    Grosswald. We would design an evaluation model to measure results in the
+    participating group using inventories such as Emotional Quotient Inventory
+    (EQI) - widely used in the field of management; the Intrapersonal Scale
+    comprises self-regard, emotional self-awareness, assertiveness,
+    independence, self-actualization Interpersonal scale comprises empathy,
+    social responsibility, and interpersonal relationship (only scale not quite
+    statistically significant); Stress Management Scale comprises stress
+    toleration and impulse control; Adaptability scale comprises reality
+    testing, flexibility, and problem, solving ability; Positive Mood comprises
+    optimism and happiness; Profile of Mood States (POMS) measures psychological
+    distress.
   description1: "The David Lynch Foundation has instructed over 250,000 at-risk populations worldwide in the Transcendental Meditation program. \r\n\r\nPrograms focus on at-risk students, veterans with PTSD, homeless and retraining programs, women and girls initiatives\r\n\r\nPlease view some of the program successes at:\r\n\r\nwww.davidlynchfoundation.org\r\n"
   description3: "There are other meditation programs being offered and taught - mindfullness meditation, zen meditation, Chopra, relaxation response. \r\n\r\nMeditations are different and have different effects and benefits. TM is the most thoroughly researched and published form of meditation. Its benefits, derived from the simple, natural, effortless system allowing for \"automatic self-transcending\" are holistic and comprehensive. \r\n\r\nWe support all programs offering meditation to bring peace and relief to suffering people."
   vision: "We can foster a more enlightened, integrated, and effective leadership who will in turn create the most successful models in their own areas of expertise. Our focus will be on raising the core effectiveness of the leaders responsible for the LA2050 initiative. To use a metaphor, a healthy garden depends on many elements - good seed, good soil, water and sunshine in proper time in proper amounts. Our focus is on the “gardeners”. So much depends on the leaders who are charged with executing the plans for a healthier and happier Los Angeles in 2050. We will help them achieve their highest level of competency and effectiveness.\r\n"

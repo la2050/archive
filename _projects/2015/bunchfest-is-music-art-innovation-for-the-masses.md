@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/ByhCcHjp3FQ'
 project_areas:
   - East LA
 maker_answers:
+  How did you hear about this challenge?: newsletter
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   Organization(s) name(s): BUNCH Media
   Organization(s) mailing address(es): '2007 S. Longwood Ave #5 Los Angeles, CA 90016'
   Organization(s) website(s): bunchmag.com
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: newsletter
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

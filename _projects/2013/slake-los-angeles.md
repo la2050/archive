@@ -18,15 +18,8 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CDJnJMrwko8'
 maker_answers:
+  Organization Name: 'Slake: Los Angeles'
   website: slake.la
-  success: >-
-    Slake will measure success by increasing subscriptions, sales, event
-    attendance and national and international recognitions, such as Cindy
-    Carcamo's piece from Slake #2, "Return To Sender" winning international
-    awards for immigration reporting and stories by Richard Lange, Joe Donnelly,
-    Harry Shannon, Erica Wrightson, Joseph Mattson and others who have been
-    recognized by The Best American series. Mostly, though, we'll measure our
-    success by sustaining and growing Los Angeles' literary and artistic 
   Indicator: Arts & Cultural Vitality
   brief: "Slake: Los Angeles is the first journal of narrative nonfiction, fiction, essay, memoir, photography and poetry in Los Angeles to gain worldwide recognition for its quality and design. Slake is devoted to the art of narrative storytelling in a media landscape where that mission is increasingly difficult and rare, but ever more essential. Storytelling breeds empathy and understanding, which improve community engagement and increase our civic stake.\r\n\r\nSlake will continue to give voice to the intellectual and creative resources of Los Angeles and shows them to the world at a time when Los Angeles is becoming the most important city in America as we move further into the 21st Century. Slake's highly attended readings, events, and Slake After Dark author and musician series will continue rally the literary and arts community to Los Angeles' civic mission. \r\n\r\nMost importantly, Slake will expand it's mission to include a publishing imprint that will bring the projects of underserved LA writers and artists to the world. There is no reason Los Angeles should rely on the permission of New York to get its creative capital disseminated. "
   budget explanation: "Production\r\nart direction -- $6000\r\ncontributors -- $5000\r\ncopyediting/proofreading -- $2000\r\neditors -- gratis\r\n\r\nFixed Costs\r\nwebsite and support -- $2500\r\nrent, supplies and expenses -- $10,000\r\nmarketing, events, promotion -- $12000\r\nprinting -- $15,000\r\ndistribution and fulfillment -- $5000\r\n\r\n\r\n"
@@ -42,7 +35,14 @@ maker_answers:
     with bookstores throughout the region, where our readings are often among
     the best attended. Slake has done highly successful programming for social
     and political events such as All in For the 99 and will continue to do so. 
-  Organization Name: 'Slake: Los Angeles'
+  success: >-
+    Slake will measure success by increasing subscriptions, sales, event
+    attendance and national and international recognitions, such as Cindy
+    Carcamo's piece from Slake #2, "Return To Sender" winning international
+    awards for immigration reporting and stories by Richard Lange, Joe Donnelly,
+    Harry Shannon, Erica Wrightson, Joseph Mattson and others who have been
+    recognized by The Best American series. Mostly, though, we'll measure our
+    success by sustaining and growing Los Angeles' literary and artistic 
   description1: >-
     Most importantly, Slake proved Los Angeles can produce a beautiful,
     exciting, smart journal of arts and letters that bridges the gap between

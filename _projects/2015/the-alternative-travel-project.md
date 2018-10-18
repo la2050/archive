@@ -12,8 +12,8 @@ project_video: 'https://www.youtube.com/embed/_D5ZYrmwF6Y'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: colleagues
   'City, State': 'Los Angeles, California'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
   Organization(s) name(s): the Alternative Travel Project
   Organization(s) mailing address(es): "11601 Wilshire Blvd\r\nSuite 2150\r\nLos Angeles, CA 90025"
   Organization(s) website(s): www.alternativetravelproject.com
@@ -57,7 +57,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: colleagues
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'

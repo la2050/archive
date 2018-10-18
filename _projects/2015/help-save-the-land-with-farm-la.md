@@ -17,8 +17,8 @@ project_areas:
   - East LA
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: Friend
   'City, State': Los Angeles
-  How do you plan to use these resources to make change? Implement and track policy: '1'
   Organization(s) name(s): Farm LA
   Organization(s) mailing address(es): '2634 Rich Street, Los Angeles CA 90039'
   Organization(s) website(s): www.farmla.org
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Friend
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Beautify derelict land in Los Angeles
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

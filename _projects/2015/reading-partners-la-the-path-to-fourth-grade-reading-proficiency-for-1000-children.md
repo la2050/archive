@@ -25,8 +25,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Pasadena, CA'
   Organization(s) name(s): Reading Partners
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   Organization(s) mailing address(es): '3452 E. Foothill Blvd., Suite 310, Pasadena, CA 91107'
   Organization(s) website(s): www.readingpartners.org/location/los-angeles
   Organization(s) twitter handle(s): www.twitter.com/RPLosAngeles
@@ -79,7 +79,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': 'Pasadena, CA'
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

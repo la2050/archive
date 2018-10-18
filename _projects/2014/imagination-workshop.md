@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - LA COUNTY
 maker_answers:
+  city_state: 'Los Angeles, CA'
   org_name: Imagination Workshop
-  metrics_live_healthyfood: '0'
   org_website: imaginationworkshop.org
   org_twitter: ''
   org_facebook: ''
@@ -97,7 +97,7 @@ maker_answers:
     a standing invitation to work with their vets, but have not, of late, been
     able to fund our work.  With funding, IW is definitely invited to work with
     these organizations.
-  city_state: 'Los Angeles, CA'
+  metrics_live_healthyfood: '0'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'

@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/4Kt14HIJyiU'
 project_areas:
   - East LA
 maker_answers:
+  How did you hear about this challenge?: word of mouth
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   Organization(s) name(s): Angel City Lumber
   Organization(s) mailing address(es): "3370 Glendale Blvd\r\n#39404\r\nLos Angeles CA 90039\r\nUnited States"
   Organization(s) website(s): www.angelcitylumber.com
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: word of mouth
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

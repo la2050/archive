@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: 'Tara Roth encouraged our Founder and CEO, Paul Rieckhoff, to apply.'
   'City, State': 'New York, NY'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): Iraq and Afghanistan Veterans of America (IAVA)
   Organization(s) mailing address(es): "114 West 41st Street, 19th floor\r\nNew York, NY 10036\r\n"
   Organization(s) website(s): www.iava.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: 'Tara Roth encouraged our Founder and CEO, Paul Rieckhoff, to apply.'
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: >-
     IAVA will also continue to advocate for veterans in LA; we supported Vietnam

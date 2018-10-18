@@ -20,11 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  about_you: 'San Pedro, CA'
   org_name: Boys & Girls Clubs of the Los Angeles Harbor
-  collaboration: >-
-    Our primarily partnership is with other Boys & Girls Clubs, although we also
-    partner with the Los Angeles Unified School District and currently serve
-    youth on eleven LAUSD school sites.
   org_website: 'http://www.bgclaharbor.org'
   org_twitter: '@bgclaharbor'
   org_facebook: 'https://www.facebook.com/bgclah'
@@ -73,7 +70,10 @@ maker_answers:
     students individually to identify educational and career goals.  Each
     student receives assistance throughout the search and application processes
     related to college admission and scholarships.  
-  about_you: 'San Pedro, CA'
+  collaboration: >-
+    Our primarily partnership is with other Boys & Girls Clubs, although we also
+    partner with the Los Angeles Unified School District and currently serve
+    youth on eleven LAUSD school sites.
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'

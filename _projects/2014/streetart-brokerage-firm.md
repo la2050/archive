@@ -17,8 +17,8 @@ project_areas:
   - SOUTH LA
   - WESTSIDE
 maker_answers:
+  city_state: 'Los Angeles, CA'
   org_name: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
-  metrics_create_employment: '1'
   org_website: www.RandomActProjects.org
   org_twitter: www.twitter.com/thegabbagallery and www.twitter.com/AndreaLaHue
   org_facebook: >-
@@ -101,7 +101,7 @@ maker_answers:
     reasons listed as well as the income generated via national and
     international tourism which the Arts bring.
   partners_collaboration: "At its’ core, The StreetArt Brokerage firm is a collaboration between The Gabba Gallery and Random Act Projects.  This collaborative spirit has been in place for over 18 months and is slated to continue indefinitely.  We benefit from this partnership via shared knowledge, impeccable reputation, a free flow of ideas and cooperation with our shared core values. \r\n\r\nThe three factors critical to the success of our proposed collaboration are our core values and mission, our shared knowledge and free flow of ideas and our impeccable reputations and integrity as human beings and art and community advocates.\r\n"
-  city_state: 'Los Angeles, CA'
+  metrics_create_employment: '1'
   metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
   metrics_create_researchgrant: '1'

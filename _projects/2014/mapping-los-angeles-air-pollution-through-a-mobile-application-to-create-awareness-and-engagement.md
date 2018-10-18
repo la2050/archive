@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  city_state: Los Angeles
   org_name: UCLA
-  metrics_live_healthyfood: '0'
   org_website: www.ucla.edu
   org_twitter: 'https://twitter.com/UCLA'
   org_facebook: 'https://www.facebook.com/uclabruins'
@@ -77,7 +77,7 @@ maker_answers:
   partners_collaboration: >-
     We don't have any outside collaborators but several researchers at UCLA are
     part of the MyAir LA team. 
-  city_state: Los Angeles
+  metrics_live_healthyfood: '0'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'

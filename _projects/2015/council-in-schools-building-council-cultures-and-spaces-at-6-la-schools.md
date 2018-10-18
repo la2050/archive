@@ -21,8 +21,8 @@ project_areas:
   - South LA
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): The Ojai Foundation's Council in Schools
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   Organization(s) mailing address(es): "P.O. Box 999\r\nOjai, California 93024"
   Organization(s) website(s): www.councilinschools.org
   Organization(s) twitter handle(s): N/A
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

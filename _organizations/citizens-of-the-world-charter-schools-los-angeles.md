@@ -14,8 +14,8 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 organization_website:
   - www.cwclosangeles.org
 twitter: cwc_losangeles
-instagram: 
-facebook: https://www.facebook.com/CitizensoftheWorldCharterSchools/
+instagram: ''
+facebook: 'https://www.facebook.com/CitizensoftheWorldCharterSchools/'
 ein: ''
 zip: ''
 project_image: 'http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg'
