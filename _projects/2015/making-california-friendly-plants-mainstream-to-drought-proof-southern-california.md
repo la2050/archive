@@ -18,8 +18,8 @@ project_image: 'https://img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/mvOTPkbwJJU'
 project_areas: []
 maker_answers:
+  How did you hear about this challenge?: Friend
   'City, State': 'Pasadena, California'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): Southern California Water Committee
   Organization(s) mailing address(es): "12711 Ventura Boulevard, Suite 280\r\nStudio City, CA 91604"
   Organization(s) website(s): 'http://www.socalwater.org/'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Friend
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'

@@ -16,8 +16,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  How did you hear about this challenge?: online
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): From Lot to Spot
   Organization(s) mailing address(es): '2003 e. 1st Street '
   Organization(s) website(s): fromlottospot.org
@@ -64,7 +64,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: online
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'

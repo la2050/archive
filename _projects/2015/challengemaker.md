@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: entered last year with a different project
   'City, State': Los Angeles Ca
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   Organization(s) name(s): ChallengeMaker
   Organization(s) mailing address(es): "1523 Maltman Ave #5\r\nLos Angeles, CA 90026"
   Organization(s) website(s): www.challengemaker.com
@@ -59,7 +59,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: entered last year with a different project
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: There is no limit to the good we can do with this tool.

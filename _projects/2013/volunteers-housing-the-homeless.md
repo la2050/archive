@@ -37,14 +37,8 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/vZOFIeiYKwA'
 maker_answers:
+  Organization Name: The Greater West Hollywood Food Coalition
   website: www.gwhfc.org
-  success: >-
-    We will measure it one homeless person at a time -- who is no longer
-    homeless but back with the rest of us:  indoors, with a place to sleep at
-    night, a place to wash and keep clean, a place to be warm and safe and to
-    store clothes and other things, and a place to receive friends and family,
-    as if having friends and family again wasn't just a matter of figuring out
-    how to survive but a matter of living and enjoying life.
   Indicator: ' Housing'
   brief: >-
     For 25 years the all-volunteer GWHFC has helped the homeless of Hollywood
@@ -85,7 +79,13 @@ maker_answers:
     all kinds, and (sure enough) to VOLUNTEERING to help others who are still on
     the downward spiral.
   collaborators: "The US Department of Housing and Urban Development\r\nThe Housing Authority of the County of Los Angeles\r\nThe Housing Authority of the City of Los Angeles\r\nThe Department of Social Services of The City of West Hollywood\r\nThe Social Security Administration\r\nThe Department of Social Services of the County of Los Angeles\r\nSt. Victor Roman Catholic Church in West Hollywood\r\nSt. Paul Roman Catholic Church in Westwood\r\nThe Hollyood Division of the Los Angeles Police Department\r\nThe Los Angeles County Sheriff's Department for West Hollywood\r\nGETTLOVE\r\nPATH\r\nHousingWorks\r\nThe Business Improvement District (BID) for the Media District\r\nThe Hollywood Business Owners' Alliance and Hwd4ward\r\nOur administrative umbrella agency Special Service for Groups"
-  Organization Name: The Greater West Hollywood Food Coalition
+  success: >-
+    We will measure it one homeless person at a time -- who is no longer
+    homeless but back with the rest of us:  indoors, with a place to sleep at
+    night, a place to wash and keep clean, a place to be warm and safe and to
+    store clothes and other things, and a place to receive friends and family,
+    as if having friends and family again wasn't just a matter of figuring out
+    how to survive but a matter of living and enjoying life.
   description1: >-
     Having been called into being as volunteers by the City of West Hollywood in
     1987, we suffered the awful realization just two years later that West

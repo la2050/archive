@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - CENTRAL LA
 maker_answers:
+  city_state: 'Bronx, NY'
   org_name: Ghetto Film School
-  metrics_create_employment: '1'
   org_website: www.ghettofilm.org
   org_twitter: www.twitter.com/ghettofilm
   org_facebook: www.facebook.com/ghettofilmschool
@@ -57,7 +57,7 @@ maker_answers:
   impact_create: "CREATIVE EDUCATION IN LA\r\nThere is no program currently operating in LA that delivers the kind of service that GFS LA does: free, rigorous, high-quality creative education for diverse teenage storytellers, grounded in cinema studies and real-world production training. \r\n\r\nOur commitment is to deliver programming to our community in MacArthur Park (the most densely populated region in the US west of the Mississippi), and to students throughout all of LA County, and to connect homegrown talent in LA to lifelong creative and professional opportunities in the film, media and entertainment industries that are based here. \r\n\r\nDIVERSITY\r\nThe current industry-wide lack of diversity is a root problem both for the creative industries and for underrepresented groups seeking authentic access to professional opportunities in a wide variety of creative fields, particularly in Los Angeles. \r\n\r\nWe believe that the quality of our student work and the quality of our programming enables substantive change by connecting two populations that lack the ability to connect with each other: a vast pool of eager creative talent throughout Los Angeles and film and media businesses that are eager to recruit new voices from underrepresented backgrounds. \r\n"
   who_benefit: "Over the course of its first three years, GFS LA will work with 75 diverse young storytellers, each completing a 30-month college-level pre-professional immersion in cinematic storytelling and production training. GFS LA annually works with 25 young filmmakers, ages 14-19. \r\n\r\nWithout exception, no GFS student has had the experience, training, family connections or financial ability to independently pursue a career in filmmaking. Enrollment is free for all students.\r\n\r\nGhetto Film School is the only creative education organization in LA with the stated goal of connecting emerging filmmakers of color to careers in film, media and creative industries.\r\n"
   partners_collaboration: "HOLA\r\nHeart of Los Angeles (HOLA) is GFS’ key local partner, an acclaimed \r\nnonprofit with a 25-year history in MacArthur Park delivering exceptional  programs in academics, arts and athletics to 2400 youth annually. HOLA's knowledge of Los Angeles and experience working with young people in MacArthur Park is critical for GFS LA's first season in Los Angeles, as Ghetto Film School brings 15 years of experience in the South Bronx to the west coast for the first time.  \r\n\r\nSpecific to GFS LA, HOLA provides the following:\r\n- Direct referrals to 70+ feeder schools for student recruitment\r\n- Marketing support through digital/social media and PR channels\r\n- Classroom and computer lab space for daily instruction\r\n- Access to 4 major facilities and neighboring Lafayette Park for \r\nproduction exercises, screenings and guest speaker visits.  \r\n\r\nLA FILM INDUSTRY\r\nCollaboration with 21st Century Fox, along with other LA based film studios and partners in the film industry, is essential to the success of GFS LA. GFS LA students will participate in regular site visits to studio lots, development offices and post houses, weekly trips to top LA cinemas, museums and art galleries, and an international production trip during the annual GFS LA Thesis Project."
-  city_state: 'Bronx, NY'
+  metrics_create_employment: '1'
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'

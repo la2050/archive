@@ -15,9 +15,9 @@ tags_indicators:
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952671260'
 organization_website:
   - www.tierradelsol.org
-twitter: https://twitter.com/TierradelSolFdn
-instagram: https://www.instagram.com/tierradelsolfdn/
-facebook: https://www.facebook.com/tierradelsolfoundation/
+twitter: 'https://twitter.com/TierradelSolFdn'
+instagram: 'https://www.instagram.com/tierradelsolfdn/'
+facebook: 'https://www.facebook.com/tierradelsolfoundation/'
 ein: '952671260'
 zip: '91040'
 project_image: >-

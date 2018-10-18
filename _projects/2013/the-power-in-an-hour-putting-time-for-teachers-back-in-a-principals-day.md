@@ -25,17 +25,8 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16507%252Fdisplay%252FFB_Cover_photo.jpg=c570x385
 maker_answers:
+  Organization Name: Education Pioneers
   website: www.educationpioneers.org
-  success: >-
-    At the outset of the project, all organizations will agree on a few unifying
-    key performance indicators which will be measured before, during, and after
-    the fall semester of the 2013-2014 school year.  These indicators will
-    include the amount of time a school leader spends supporting teacher
-    instruction.<br><br>Qualitative measures of school leader and teacher
-    perceptions on the effectiveness of the project will be taken via brief
-    online surveys. <br><br>Finally, existing measures, like test scores, will
-    be analyzed from year to year and compared between pilot and comparison
-    schools.
   Indicator: ' Education'
   brief: >-
     <i>If you had an extra hour in your workday, what could you do?<br>If you
@@ -106,7 +97,16 @@ maker_answers:
     Unified School District, PUC Schools, Camino Nuevo Charter Academy, </b>and
     additional EP partners who will be selected based on their desire to
     collaborate on generating replicable approaches.
-  Organization Name: Education Pioneers
+  success: >-
+    At the outset of the project, all organizations will agree on a few unifying
+    key performance indicators which will be measured before, during, and after
+    the fall semester of the 2013-2014 school year.  These indicators will
+    include the amount of time a school leader spends supporting teacher
+    instruction.<br><br>Qualitative measures of school leader and teacher
+    perceptions on the effectiveness of the project will be taken via brief
+    online surveys. <br><br>Finally, existing measures, like test scores, will
+    be analyzed from year to year and compared between pilot and comparison
+    schools.
   description1: >-
     Founded in 2003 in response to the acute shortage of leadership and
     management talent in the education sector, Education Pioneers attracts,

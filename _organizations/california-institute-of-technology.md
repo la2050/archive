@@ -14,8 +14,8 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 organization_website:
   - www.caltech.edu
 twitter: caltech
-instagram: https://www.instagram.com/caltechedu/
-facebook: https://www.facebook.com/californiainstituteoftechnology
+instagram: 'https://www.instagram.com/caltechedu/'
+facebook: 'https://www.facebook.com/californiainstituteoftechnology'
 ein: ''
 zip: ''
 project_image: >-

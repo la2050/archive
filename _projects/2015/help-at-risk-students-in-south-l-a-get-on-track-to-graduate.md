@@ -18,8 +18,8 @@ project_image: 'https://img.youtube.com/vi/_P0ljapOsHo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/_P0ljapOsHo'
 project_areas: []
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'City Year LA, Partnership for Los Angeles Schools'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   Organization(s) mailing address(es): "(City Year)\r\n606 S. Olive Street, 2nd Floor\r\nLos Angeles, CA, 90017\r\n\r\n(PLAS)\r\n1541 Wilshire Blvd., Suite 200\r\nLos Angeles, CA 90017\r\n\r\n"
   Organization(s) website(s): www.cityyear.org/losangeles www.partnershipla.org
   Organization(s) twitter handle(s): www.twitter.com/LA2050 or www.twitter.com/PartnershipLA
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

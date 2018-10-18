@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  city_state: Los Angeles
   org_name: Fox Hills Ladera Healthy Family Association Inc.
-  metrics_connect_volunteerism: '0'
   org_website: www.foxhillsladera.org
   org_twitter: snpfoundation
   org_facebook: ''
@@ -74,7 +74,7 @@ maker_answers:
     Our project will benefits Angelenos of all ages, races, cultures and
     backgrounds.
   collaboration: "Christopher Phillips- Scholar, Author Educator, founder of Socrates Cafe. (Confirmed)\r\n\r\nWe will seek support for local government officials, local businesses, artist and other local stakeholders to create a collaborative effort."
-  city_state: Los Angeles
+  metrics_connect_volunteerism: '0'
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'

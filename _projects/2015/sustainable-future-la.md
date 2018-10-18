@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How did you hear about this challenge?: We participated in the 2014 challenge
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
   Organization(s) name(s): 'Los Angeles World''s Fair, FPC'
   Organization(s) mailing address(es): "1600 Main Street\r\nVenice, CA 90291"
   Organization(s) website(s): www.laworldsfair.org
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: We participated in the 2014 challenge
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

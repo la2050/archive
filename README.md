@@ -14,7 +14,7 @@ https://archive.la2050.org
 
 ## How to make changes
 
-The archive website is published with [GitHub Pages](https://pages.github.com) and the files are generated with [Jekyll](http://jekyllrb.com).
+The archive website is published with [GitHub Pages](https://pages.github.com) & [Netlify](https://www.netlify.com) and the files are generated with [Jekyll](http://jekyllrb.com).
 
 As you make changes and commit/push them to GitHub, the [website](https://archive.la2050.org) will automatically update.
 
@@ -28,13 +28,13 @@ The files in these folders correspond to a web address on the archive website. F
 
 2. Select the organization and then press the edit button–for example, [826LA](https://github.com/la2050/archive/edit/master/_organizations/826la.md).
 
-The file you’re looking at is written in a language called [YAML](https://en.wikipedia.org/wiki/YAML). It’s a list of names and values, each separated by a colon. The names serve a similar purpose to what columns do in a spreadsheet. For example:
+The organization files are written in the [YAML](https://en.wikipedia.org/wiki/YAML) language. The files contain a list of names and values, each separated by a colon. The names serve a similar purpose to what columns do in a spreadsheet. For example:
 ```
 name: value
 another_name: another_value
 ```
 
-3. Make any changes you wish, and then press the “Commit changes” button.
+3. Make your changes, and then press the “Commit changes” button.
 
 You can also describe your changes in the fields just above the “Commit changes” button (this adds a note in the project history).
 
@@ -42,7 +42,7 @@ _You can follow these same steps to edit one of the [projects](https://github.co
 
 ## How to hide an organization
 
-You can hide an organization from the website by unpublishing it. You can easily add it back again later by publishing it.
+You can hide an organization on the website by unpublishing it. You can easily add it back again later by publishing it.
 
 While editing an organization file, look for this line:
 ```

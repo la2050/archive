@@ -16,8 +16,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23504%252Fdisplay%252FLA2050WIFIGRANTIMAGE.jpg=c570x385
 project_areas: []
 maker_answers:
+  How did you hear about this challenge?: GOOD MAGAZINE
   'City, State': 'Los Angeles, Ca '
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   Organization(s) name(s): 'Impact Hub Los Angeles '
   Organization(s) mailing address(es): "830 Traction Ave, #3A\r\nLos Angeles, Ca 90013"
   Organization(s) website(s): www.impacthubla.com
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: GOOD MAGAZINE
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-

@@ -16,7 +16,7 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 organization_website:
   - www.investinginplace.org
 twitter: '@investinplace'
-instagram: https://www.instagram.com/investinplace/
+instagram: 'https://www.instagram.com/investinplace/'
 facebook: 'https://www.facebook.com/investinginplace/'
 ein: Community Partners
 zip: '#N/A'

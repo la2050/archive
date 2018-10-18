@@ -14,10 +14,10 @@ project_areas:
   - East LA
   - South LA
 maker_answers:
+  'City, State': Los Angeles
   Organization(s) name(s): >-
     Play with Music, The New History (parent organization of Play with Music,
     current transition filing 501c3 status for Play with Music)
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   Organization(s) mailing address(es): 2432 E 8th St
   Organization(s) website(s): www.playwithmusic.org
   Organization(s) twitter handle(s): www.twitter.com/thenewhist
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': Los Angeles
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
