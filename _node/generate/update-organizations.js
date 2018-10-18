@@ -172,6 +172,18 @@ function processFile(filename) {
     if (filesInWritePath.length > 0) {
     //if (fs.existsSync(".." + writePath + imageName)) {
 
+      // If the file has a question mark in the name, remove everything after it
+      if (filesInWritePath[0].indexOf("?") >= 0) {
+        let pathWithQuestionMark    = filesInWritePath[0]
+        let pathWithoutQuestionMark = filesInWritePath[0].split("?")[0]
+
+        fs.renameSync(pathWithQuestionMark, pathWithoutQuestionMark, function(err) {
+          if ( err ) console.log('ERROR: ' + err);
+        });
+
+        filesInWritePath[0] = pathWithoutQuestionMark
+      }
+
       let imageExtension = ""
       if (!filesInWritePath[0].toLowerCase().endsWith(".jpg") && 
           !filesInWritePath[0].toLowerCase().endsWith(".jpeg") && 
@@ -222,8 +234,8 @@ function processFile(filename) {
         }
       }
 
-      data.yaml.cached_project_image = writePath + imageName + imageExtension
-      //filesInWritePath[0].replace(/^\.\./, "")
+      // data.yaml.cached_project_image = writePath + imageName + imageExtension
+      data.yaml.cached_project_image = filesInWritePath[0].replace(/^\.\./, "")
     } else {
       console.log("file does not exist: " + filesInWritePath[0])
     }
