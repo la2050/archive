@@ -60,13 +60,11 @@ _You can follow these same steps to hide or show one of the [projects](https://g
 
 ## How to see a preview of your changes
 
-If you’d like to see how your changes will look on the website before anyone else sees them, you can work in the [staging](https://github.com/la2050/archive/tree/staging) branch.
-
-The `staging` branch is a copy of the website, and is published at https://staging-archive.la2050.org
+If you’d like to see how your changes will look on the website before anyone else sees them, you can work in the [staging](https://github.com/la2050/archive/tree/staging) branch–a complete copy of the website, published at https://staging-archive.la2050.org
 
 You can make edits in the staging branch and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
 
-Once you’re happy with your changes, you can automatically publish them on the [archive website](https://archive.la2050.org) with a pull request.
+Once you’re happy with how your changes look on the staging website, you can automatically publish them on the [archive website](https://archive.la2050.org) with a pull request. Here are some steps you can follow:
 
 1. Press the “new pull request” button.
 
