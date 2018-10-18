@@ -64,7 +64,7 @@ If you’d like to see how your changes will look on the website before making t
 
 You can make edits in the staging branch and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
 
-Once you’re happy with how your changes look on the staging website, you can copy them over to the [public website](https://archive.la2050.org) (aka, the `master` branch) using a pull request. Here are the steps:
+Once you’re happy with how your changes look on the staging website, you can copy them over to the [public website](https://archive.la2050.org) (the `master` branch) using a pull request. Here are the steps:
 
 1. Press the “new pull request” button.
 
@@ -78,16 +78,20 @@ https://github.com/la2050/archive/pull/new/staging
 
 4. And then, press the “merge pull request” button.
 
-![3-merge-pull-request](https://user-images.githubusercontent.com/926616/47131302-c0499880-d252-11e8-9393-75dcfcd49650.png)
-
 5. And lastly, press the “confirm merge” button.
+
+![3-merge-pull-request](https://user-images.githubusercontent.com/926616/47131302-c0499880-d252-11e8-9393-75dcfcd49650.png)
 
 
 ## How to develop locally
 
 If you want to see a preview of your changes while you work, you can [run a Jekyll server](https://jekyllrb.com) on your computer. [Installing Ruby and Jekyll](https://jekyllrb.com/docs/installation/) is a good place to start.
 
-After you have Jekyll installed, you can clone this project with [Git](https://git-scm.com) or [GitHub Desktop](https://desktop.github.com).
+After you have Jekyll installed, you can clone (download) this project with [Git](https://git-scm.com) or [GitHub Desktop](https://desktop.github.com). And then you can start Jekyll:
+
+```
+jekyll serve
+```
 
 If Jekyll is taking a long time to rebuild after changes, you may find it helpful to use *incremental* mode. Here’s an example that also rebuilds the site first to ensure everything is up to date, and includes a *host* option to make the site available on your local network for testing on mobile devices.
 
