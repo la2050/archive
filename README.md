@@ -78,17 +78,15 @@ https://github.com/la2050/archive/pull/new/staging
 
 5. And lastly, press the “confirm merge” button.
 
-![staging](https://user-images.githubusercontent.com/926616/47128141-f3852b00-d244-11e8-9615-84107938d3b7.png)
+![staging](https://user-images.githubusercontent.com/926616/47131296-bcb61180-d252-11e8-90e0-56a2e7552163.png)
 
-![1-new-pull-request-button](https://user-images.githubusercontent.com/926616/47128142-f4b65800-d244-11e8-997d-64fc502e5478.png)
+![1-new-pull-request-button](https://user-images.githubusercontent.com/926616/47131298-bde73e80-d252-11e8-8cd6-f64703af5c2b.png)
 
-![2-create-pull-request](https://user-images.githubusercontent.com/926616/47128144-f6801b80-d244-11e8-915f-642fe80eb8e7.png)
+![2-create-pull-request](https://user-images.githubusercontent.com/926616/47131299-bf186b80-d252-11e8-9cca-54086a159cbd.png)
 
-![3-merge-pull-request](https://user-images.githubusercontent.com/926616/47128146-f7b14880-d244-11e8-8bd9-d1da61420c8a.png)
+![3-merge-pull-request](https://user-images.githubusercontent.com/926616/47131302-c0499880-d252-11e8-9393-75dcfcd49650.png)
 
-![4-confirm-merge](https://user-images.githubusercontent.com/926616/47128149-f8e27580-d244-11e8-8af9-15ee2f4ca83e.png)
-
-![5-done](https://user-images.githubusercontent.com/926616/47128151-fa13a280-d244-11e8-9a3c-5666d25f5f9b.png)
+![4-confirm-merge](https://user-images.githubusercontent.com/926616/47131303-c2135c00-d252-11e8-948a-3841d93c4c58.png)
 
 
 ## How to develop locally
