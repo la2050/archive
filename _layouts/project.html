@@ -401,7 +401,7 @@ http://maker.good.is/myla2050{{ page.category }}2015.html
 
 
 
-{% if page.maker_answers_list %}
+{% if page.maker_answers %}
 
 {% if page.year_submitted == 2013 %}
 
@@ -625,19 +625,6 @@ http://maker.good.is/myla2050{{ page.category }}2015.html
 
 
 
-{% comment %}
-<hr />
-
-<div class="proposal-answers">
-
-{% for item in page.maker_answers_list %}
-<h3>{{ item.name }}: {{ item.label }}</h3>
-{{ item.answer }}
-{% endfor %}
-
-</div>
-<hr />
-{% endcomment %}
 
 
 

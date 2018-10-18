@@ -1,10 +1,44 @@
 ---
+published: true
 organization_id: '2013205'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17068%252Fdisplay%252FLA2050.jpg=c570x385
+year_submitted: 2013
+indicator: Arts & Cultural Vitality
+body_class: strawberry
 project_id: '3102111'
 title: Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
-indicator: Arts & Cultural Vitality
+project_summary: "UNIQUE LA has created the largest buy local design show in the country - and is the only show to curate and show-off local-made talent. We have brought international attention to LA and its great makers (press mentions have included Details Magazine, Elle France, Uppercase). In four years we've had amazing successes and have expanded in many ways, but I think these numbers illustrate the great impact we've had.\r\n\r\n- 232,000 people have attended UNIQUE shows\r\n- We've provided a platform for sales and exposure for over 8000 independent designers + artists\r\n- Occupied a total of 424,000 square feet! \r\n- Produced shows in 3 cities, LA/NYC/SF \r\n- An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)"
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17068%252Fdisplay%252FLA2050.jpg=c570x385
+maker_answers:
+  website: 'http://www.uniqueusa.com'
+  success: "Success will be measured by how the Unique Creative Lab directly\r\naffects communities in the LA region.  Indicators will be:\r\n1) Attendance of workshops and events\r\n2) Membership to co-work space\r\n3) Press and media attention already engaging in Unique LA\r\n4) Evaluation forms to hear from members and participants\r\n5) Innovative ways to reach the public based on collaborative ideas\r\ncoming from the Unique Creative Lab"
+  Indicator: Arts & Cultural Vitality
+  brief: "UNIQUE LA has helped over 4000 artists/designers/entrepreneurs increase revenues and become sustainable businesses by selling their goods to the public. At the same time we've created a cultural institution and thriving community that supports local art, design, craft. It's time to take the next step in our mission of helping LA's art and design community... Our plan is to open the UNIQUE LA Creative Lab, a co-work & creative event space that would provide the much-needed tools that creative small business owners need in order to become sustainable and grow successfully.\r\n\r\nCreatives who work for themselves (artists, designers, furniture makers, freelancers, film makers, writers, etc.), are actually entrepreneurs and small business owners. They are curious, innovative and visionary... They also have to wear ALL the hats when owning a business - they are in fact their own PR firm, accounting department, marketing engine, HR manager. It's a lot to take on. They need help, guidance and a place to connect with a like-minded community so that they can thrive not just as artists but business owners. Someone who is creative should be able to be great at what they do, and make a great living doing it.\r\n  \r\nUNIQUE LA’s Creative Lab will help ensure LA’s arts and culture community is growing strong, and growing smart. The Creative Lab will achieve this in two ways. First, it will provide a membership-based co-work environment, allowing people to share creative office and studio space (complete with a kitchen, board room, photo studio and more). And second, The Creative Lab will have an event space that will offer a diverse range of monthly and weekly programming, from workshops to a speaker series to parties and special events. All curated to ensure members and the public have access to continuing education, networking opportunities and inspiration. \r\n\r\nEvery month we will feature a keynote speaker from world-famous artists to authors. Monthly workshops will range from “How to Find Investors” to “DIY Public Relations” to “Utilizing Social Media to Increase Profits”. Members will be invited to networking events with editors, to help them gain press attention. Trade show representatives will host How To seminars, helping designers learn how to grow by selling wholesale, instead of direct to consumer. Special events such as fashion shows will celebrate local talent and showcase new design and art. Imagine the amazing impact one space can have, when it TEACHES multiple generations how to be creative and make a living! Even better, it encourages and shows how to become a business that grows to support multiple employees!\r\n\r\nAside from having an astounding impact on Arts & Culture in LA, The Creative Lab will actually touch on and help all eight sectors listed in the Goldhirsh Foundation’s LA2050 Report. Through programming, we will curate meaningful conversation, activities and hands-on workshops surrounding all eight areas – for instance we will host a ‘Volunteer Fair’ where local non-profits (from education to health to arts) can connect with members looking for places to volunteer. \r\n\r\nUNIQUE LA's Creative Lab is a ground-breaking new idea. The 2012 OTIS Report states \"there are more artists, writers, filmmakers, actors, dancers and musicians living and working in LA than any other city at any other time in the history of civilization.\" It's time LA got a space designed to ensure those people - the creatives that are fueling the economy - are well-trained, inspired and ready to grow.   \r\n"
+  budget explanation: "$50,000 Build-out & Construction\r\n(Includes; Interior design, workspace furnishings, appliances, office\r\nequipment, security systems, network and infrastructure)\r\n\r\n$30,000 Creative Staff\r\n(Includes; Director, formation of a board, support staff, consultants,\r\nproduction team)\r\n\r\n$20,000 Programing\r\n(Includes; research, community outreach, impact data, recruitment)\r\n\r\n*a line item, Excel budget is available upon request"
+  description: "The Unique Creative Lab will directly impact Los Angeles is multiple\r\nways and will benefit, and further fuel all sectors of the growing\r\ncreative economy:\r\n\r\n1)   By directly increasing the amount of small business owners and\r\nentrepreneurs in the LA region.\r\n\r\n2)   By providing applicable resources for individuals, groups,\r\norganizations and communities to see their ideas to fruition.\r\n\r\n3)   By creating a diverse center of collaboration that reflects on\r\nand includes all demographics necessary in accomplishing a more\r\ncreative and sustainable LA.\r\n\r\n4)   By providing curated programing to the public that will generate\r\nvaluable and innovative discussion at a grassroots level.\r\n\r\n5)   By providing a co-work space available to creative professionals\r\nfrom across the US and the world, as allowing them to participate in\r\nthe mission and goals of the Unique Creative Lab.\r\n\r\n6)   By bringing national awareness and media attention to our\r\ncommunity and the joint mission of LA2050 and the Unique Creative Lab.\r\n\r\n7)   By becoming a successful and inspirational model of action for\r\nother communities and cities to follow."
+  collaborators: >-
+    We expect to include local designers and organizations, as well as some of
+    our corporate partners such as West Elm and Square to help us in creating
+    the space. We also plan to create a great Board of Directors to help mentor,
+    assist with programming and more.
+  Organization Name: UNIQUE LA
+  description1: "UNIQUE LA has created the largest buy local design show in the country - and is the only show to curate and show-off local-made talent. We have brought international attention to LA and its great makers (press mentions have included Details Magazine, Elle France, Uppercase). In four years we've had amazing successes and have expanded in many ways, but I think these numbers illustrate the great impact we've had.\r\n\r\n- 232,000 people have attended UNIQUE shows\r\n- We've provided a platform for sales and exposure for over 8000 independent designers + artists\r\n- Occupied a total of 424,000 square feet! \r\n- Produced shows in 3 cities, LA/NYC/SF \r\n- An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)"
+  description3: "The mantra \"We're all in this together\" is very important to UNIQUE LA. We don't view others as competition, rather \"community\". It's in fact part of our mission. Our working relationship with others in our community is really great, and part of what makes us good at our job and why we love what we do. By working together with others we increase our chances of success and reach!\r\n\r\nAt The Creative Lab, we plan to engage others in the co-work community (such as The HubLA) and creative/education community. We will include them in our planning stage and beyond. Once open, we can help one another by working together. Our mission is to help LA's creative economy thrive and to give tools to creatives to ensure their success - doing so involves many people and great local organizations. We're excited to get started!"
+  vision: >-
+    In the year 2050 the image of "the starving artist" would no longer exist.
+    We have grown to educate artists and creatives not just in art theory and
+    practice, but also in business. Essentially we've shown creatives how to be
+    entrepreneurs, ensuring a successful and thriving creative economy. There
+    are more artists and also more small businesses run by artists. When asked
+    what they'd like to be when they grow up, children give answers such as
+    Furniture Designer and Architect just as often as Doctor and Lawyer. Our
+    view of 2050 is that we've grown LA's creative economy to be the best in the
+    world, with bright stars and smart business owners. The Artist is no longer
+    starving but successful and happy.
+  EIN: 01-0973080
+  Tax Status: For profit organization
+  about_you: 'Los Angeles, CA'
+  Does your project impact Los Angeles County?: 'yes'
 What is your idea and how will it impact your indicator?: >+
   UNIQUE LA has helped over 4000 artists/designers/entrepreneurs increase
   revenues and become sustainable businesses by selling their goods to the
@@ -235,120 +269,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   that we've grown LA's creative economy to be the best in the world, with
   bright stars and smart business owners. The Artist is no longer starving but
   successful and happy.
-year_submitted: 2013
 maker_image_id: '17068'
 maker_image_file_name: LA2050.jpg
-maker_answers:
-  Organization Name: UNIQUE LA
-  website: 'http://www.uniqueusa.com'
-  Indicator: Arts & Cultural Vitality
-  brief: "UNIQUE LA has helped over 4000 artists/designers/entrepreneurs increase revenues and become sustainable businesses by selling their goods to the public. At the same time we've created a cultural institution and thriving community that supports local art, design, craft. It's time to take the next step in our mission of helping LA's art and design community... Our plan is to open the UNIQUE LA Creative Lab, a co-work & creative event space that would provide the much-needed tools that creative small business owners need in order to become sustainable and grow successfully.\r\n\r\nCreatives who work for themselves (artists, designers, furniture makers, freelancers, film makers, writers, etc.), are actually entrepreneurs and small business owners. They are curious, innovative and visionary... They also have to wear ALL the hats when owning a business - they are in fact their own PR firm, accounting department, marketing engine, HR manager. It's a lot to take on. They need help, guidance and a place to connect with a like-minded community so that they can thrive not just as artists but business owners. Someone who is creative should be able to be great at what they do, and make a great living doing it.\r\n  \r\nUNIQUE LA’s Creative Lab will help ensure LA’s arts and culture community is growing strong, and growing smart. The Creative Lab will achieve this in two ways. First, it will provide a membership-based co-work environment, allowing people to share creative office and studio space (complete with a kitchen, board room, photo studio and more). And second, The Creative Lab will have an event space that will offer a diverse range of monthly and weekly programming, from workshops to a speaker series to parties and special events. All curated to ensure members and the public have access to continuing education, networking opportunities and inspiration. \r\n\r\nEvery month we will feature a keynote speaker from world-famous artists to authors. Monthly workshops will range from “How to Find Investors” to “DIY Public Relations” to “Utilizing Social Media to Increase Profits”. Members will be invited to networking events with editors, to help them gain press attention. Trade show representatives will host How To seminars, helping designers learn how to grow by selling wholesale, instead of direct to consumer. Special events such as fashion shows will celebrate local talent and showcase new design and art. Imagine the amazing impact one space can have, when it TEACHES multiple generations how to be creative and make a living! Even better, it encourages and shows how to become a business that grows to support multiple employees!\r\n\r\nAside from having an astounding impact on Arts & Culture in LA, The Creative Lab will actually touch on and help all eight sectors listed in the Goldhirsh Foundation’s LA2050 Report. Through programming, we will curate meaningful conversation, activities and hands-on workshops surrounding all eight areas – for instance we will host a ‘Volunteer Fair’ where local non-profits (from education to health to arts) can connect with members looking for places to volunteer. \r\n\r\nUNIQUE LA's Creative Lab is a ground-breaking new idea. The 2012 OTIS Report states \"there are more artists, writers, filmmakers, actors, dancers and musicians living and working in LA than any other city at any other time in the history of civilization.\" It's time LA got a space designed to ensure those people - the creatives that are fueling the economy - are well-trained, inspired and ready to grow.   \r\n"
-  budget explanation: "$50,000 Build-out & Construction\r\n(Includes; Interior design, workspace furnishings, appliances, office\r\nequipment, security systems, network and infrastructure)\r\n\r\n$30,000 Creative Staff\r\n(Includes; Director, formation of a board, support staff, consultants,\r\nproduction team)\r\n\r\n$20,000 Programing\r\n(Includes; research, community outreach, impact data, recruitment)\r\n\r\n*a line item, Excel budget is available upon request"
-  description: "The Unique Creative Lab will directly impact Los Angeles is multiple\r\nways and will benefit, and further fuel all sectors of the growing\r\ncreative economy:\r\n\r\n1)   By directly increasing the amount of small business owners and\r\nentrepreneurs in the LA region.\r\n\r\n2)   By providing applicable resources for individuals, groups,\r\norganizations and communities to see their ideas to fruition.\r\n\r\n3)   By creating a diverse center of collaboration that reflects on\r\nand includes all demographics necessary in accomplishing a more\r\ncreative and sustainable LA.\r\n\r\n4)   By providing curated programing to the public that will generate\r\nvaluable and innovative discussion at a grassroots level.\r\n\r\n5)   By providing a co-work space available to creative professionals\r\nfrom across the US and the world, as allowing them to participate in\r\nthe mission and goals of the Unique Creative Lab.\r\n\r\n6)   By bringing national awareness and media attention to our\r\ncommunity and the joint mission of LA2050 and the Unique Creative Lab.\r\n\r\n7)   By becoming a successful and inspirational model of action for\r\nother communities and cities to follow."
-  collaborators: >-
-    We expect to include local designers and organizations, as well as some of
-    our corporate partners such as West Elm and Square to help us in creating
-    the space. We also plan to create a great Board of Directors to help mentor,
-    assist with programming and more.
-  success: "Success will be measured by how the Unique Creative Lab directly\r\naffects communities in the LA region.  Indicators will be:\r\n1) Attendance of workshops and events\r\n2) Membership to co-work space\r\n3) Press and media attention already engaging in Unique LA\r\n4) Evaluation forms to hear from members and participants\r\n5) Innovative ways to reach the public based on collaborative ideas\r\ncoming from the Unique Creative Lab"
-  description1: "UNIQUE LA has created the largest buy local design show in the country - and is the only show to curate and show-off local-made talent. We have brought international attention to LA and its great makers (press mentions have included Details Magazine, Elle France, Uppercase). In four years we've had amazing successes and have expanded in many ways, but I think these numbers illustrate the great impact we've had.\r\n\r\n- 232,000 people have attended UNIQUE shows\r\n- We've provided a platform for sales and exposure for over 8000 independent designers + artists\r\n- Occupied a total of 424,000 square feet! \r\n- Produced shows in 3 cities, LA/NYC/SF \r\n- An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)"
-  description3: "The mantra \"We're all in this together\" is very important to UNIQUE LA. We don't view others as competition, rather \"community\". It's in fact part of our mission. Our working relationship with others in our community is really great, and part of what makes us good at our job and why we love what we do. By working together with others we increase our chances of success and reach!\r\n\r\nAt The Creative Lab, we plan to engage others in the co-work community (such as The HubLA) and creative/education community. We will include them in our planning stage and beyond. Once open, we can help one another by working together. Our mission is to help LA's creative economy thrive and to give tools to creatives to ensure their success - doing so involves many people and great local organizations. We're excited to get started!"
-  vision: >-
-    In the year 2050 the image of "the starving artist" would no longer exist.
-    We have grown to educate artists and creatives not just in art theory and
-    practice, but also in business. Essentially we've shown creatives how to be
-    entrepreneurs, ensuring a successful and thriving creative economy. There
-    are more artists and also more small businesses run by artists. When asked
-    what they'd like to be when they grow up, children give answers such as
-    Furniture Designer and Architect just as often as Doctor and Lawyer. Our
-    view of 2050 is that we've grown LA's creative economy to be the best in the
-    world, with bright stars and smart business owners. The Artist is no longer
-    starving but successful and happy.
-  EIN: 01-0973080
-  Tax Status: For profit organization
-  about_you: 'Los Angeles, CA'
-  Does your project impact Los Angeles County?: 'yes'
-maker_answers_list:
-  - name: Organization Name
-    label: ''
-    explanation: ''
-    answer: UNIQUE LA
-  - name: website
-    label: 'NULL'
-    explanation: >-
-      Have a homepage or blog you'd like to link to? Put the URL here.
-      <br/>(Example: http://www.yoursite.com)
-    answer: 'http://www.uniqueusa.com'
-  - name: Indicator
-    label: ''
-    explanation: >-
-      Please select the one indicator that is most relevant to your project or
-      organization
-    answer: Arts & Cultural Vitality
-  - name: brief
-    label: ''
-    explanation: ''
-    answer: "UNIQUE LA has helped over 4000 artists/designers/entrepreneurs increase revenues and become sustainable businesses by selling their goods to the public. At the same time we've created a cultural institution and thriving community that supports local art, design, craft. It's time to take the next step in our mission of helping LA's art and design community... Our plan is to open the UNIQUE LA Creative Lab, a co-work & creative event space that would provide the much-needed tools that creative small business owners need in order to become sustainable and grow successfully.\r\n\r\nCreatives who work for themselves (artists, designers, furniture makers, freelancers, film makers, writers, etc.), are actually entrepreneurs and small business owners. They are curious, innovative and visionary... They also have to wear ALL the hats when owning a business - they are in fact their own PR firm, accounting department, marketing engine, HR manager. It's a lot to take on. They need help, guidance and a place to connect with a like-minded community so that they can thrive not just as artists but business owners. Someone who is creative should be able to be great at what they do, and make a great living doing it.\r\n  \r\nUNIQUE LA’s Creative Lab will help ensure LA’s arts and culture community is growing strong, and growing smart. The Creative Lab will achieve this in two ways. First, it will provide a membership-based co-work environment, allowing people to share creative office and studio space (complete with a kitchen, board room, photo studio and more). And second, The Creative Lab will have an event space that will offer a diverse range of monthly and weekly programming, from workshops to a speaker series to parties and special events. All curated to ensure members and the public have access to continuing education, networking opportunities and inspiration. \r\n\r\nEvery month we will feature a keynote speaker from world-famous artists to authors. Monthly workshops will range from “How to Find Investors” to “DIY Public Relations” to “Utilizing Social Media to Increase Profits”. Members will be invited to networking events with editors, to help them gain press attention. Trade show representatives will host How To seminars, helping designers learn how to grow by selling wholesale, instead of direct to consumer. Special events such as fashion shows will celebrate local talent and showcase new design and art. Imagine the amazing impact one space can have, when it TEACHES multiple generations how to be creative and make a living! Even better, it encourages and shows how to become a business that grows to support multiple employees!\r\n\r\nAside from having an astounding impact on Arts & Culture in LA, The Creative Lab will actually touch on and help all eight sectors listed in the Goldhirsh Foundation’s LA2050 Report. Through programming, we will curate meaningful conversation, activities and hands-on workshops surrounding all eight areas – for instance we will host a ‘Volunteer Fair’ where local non-profits (from education to health to arts) can connect with members looking for places to volunteer. \r\n\r\nUNIQUE LA's Creative Lab is a ground-breaking new idea. The 2012 OTIS Report states \"there are more artists, writers, filmmakers, actors, dancers and musicians living and working in LA than any other city at any other time in the history of civilization.\" It's time LA got a space designed to ensure those people - the creatives that are fueling the economy - are well-trained, inspired and ready to grow.   \r\n"
-  - name: budget explanation
-    label: ''
-    explanation: ''
-    answer: "$50,000 Build-out & Construction\r\n(Includes; Interior design, workspace furnishings, appliances, office\r\nequipment, security systems, network and infrastructure)\r\n\r\n$30,000 Creative Staff\r\n(Includes; Director, formation of a board, support staff, consultants,\r\nproduction team)\r\n\r\n$20,000 Programing\r\n(Includes; research, community outreach, impact data, recruitment)\r\n\r\n*a line item, Excel budget is available upon request"
-  - name: description
-    label: ''
-    explanation: ''
-    answer: "The Unique Creative Lab will directly impact Los Angeles is multiple\r\nways and will benefit, and further fuel all sectors of the growing\r\ncreative economy:\r\n\r\n1)   By directly increasing the amount of small business owners and\r\nentrepreneurs in the LA region.\r\n\r\n2)   By providing applicable resources for individuals, groups,\r\norganizations and communities to see their ideas to fruition.\r\n\r\n3)   By creating a diverse center of collaboration that reflects on\r\nand includes all demographics necessary in accomplishing a more\r\ncreative and sustainable LA.\r\n\r\n4)   By providing curated programing to the public that will generate\r\nvaluable and innovative discussion at a grassroots level.\r\n\r\n5)   By providing a co-work space available to creative professionals\r\nfrom across the US and the world, as allowing them to participate in\r\nthe mission and goals of the Unique Creative Lab.\r\n\r\n6)   By bringing national awareness and media attention to our\r\ncommunity and the joint mission of LA2050 and the Unique Creative Lab.\r\n\r\n7)   By becoming a successful and inspirational model of action for\r\nother communities and cities to follow."
-  - name: collaborators
-    label: ''
-    explanation: ''
-    answer: >-
-      We expect to include local designers and organizations, as well as some of
-      our corporate partners such as West Elm and Square to help us in creating
-      the space. We also plan to create a great Board of Directors to help
-      mentor, assist with programming and more.
-  - name: success
-    label: ''
-    explanation: ''
-    answer: "Success will be measured by how the Unique Creative Lab directly\r\naffects communities in the LA region.  Indicators will be:\r\n1) Attendance of workshops and events\r\n2) Membership to co-work space\r\n3) Press and media attention already engaging in Unique LA\r\n4) Evaluation forms to hear from members and participants\r\n5) Innovative ways to reach the public based on collaborative ideas\r\ncoming from the Unique Creative Lab"
-  - name: description1
-    label: ''
-    explanation: ''
-    answer: "UNIQUE LA has created the largest buy local design show in the country - and is the only show to curate and show-off local-made talent. We have brought international attention to LA and its great makers (press mentions have included Details Magazine, Elle France, Uppercase). In four years we've had amazing successes and have expanded in many ways, but I think these numbers illustrate the great impact we've had.\r\n\r\n- 232,000 people have attended UNIQUE shows\r\n- We've provided a platform for sales and exposure for over 8000 independent designers + artists\r\n- Occupied a total of 424,000 square feet! \r\n- Produced shows in 3 cities, LA/NYC/SF \r\n- An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)"
-  - name: description3
-    label: ''
-    explanation: ''
-    answer: "The mantra \"We're all in this together\" is very important to UNIQUE LA. We don't view others as competition, rather \"community\". It's in fact part of our mission. Our working relationship with others in our community is really great, and part of what makes us good at our job and why we love what we do. By working together with others we increase our chances of success and reach!\r\n\r\nAt The Creative Lab, we plan to engage others in the co-work community (such as The HubLA) and creative/education community. We will include them in our planning stage and beyond. Once open, we can help one another by working together. Our mission is to help LA's creative economy thrive and to give tools to creatives to ensure their success - doing so involves many people and great local organizations. We're excited to get started!"
-  - name: vision
-    label: ''
-    explanation: ''
-    answer: >-
-      In the year 2050 the image of "the starving artist" would no longer exist.
-      We have grown to educate artists and creatives not just in art theory and
-      practice, but also in business. Essentially we've shown creatives how to
-      be entrepreneurs, ensuring a successful and thriving creative economy.
-      There are more artists and also more small businesses run by artists. When
-      asked what they'd like to be when they grow up, children give answers such
-      as Furniture Designer and Architect just as often as Doctor and Lawyer.
-      Our view of 2050 is that we've grown LA's creative economy to be the best
-      in the world, with bright stars and smart business owners. The Artist is
-      no longer starving but successful and happy.
-  - name: EIN
-    label: EIN
-    explanation: ''
-    answer: 01-0973080
-  - name: Tax Status
-    label: Are you a for profit organization or non-profit organization?
-    explanation: ''
-    answer: For profit organization
-  - name: about_you
-    label: 'City, State'
-    explanation: 'NULL'
-    answer: 'Los Angeles, CA'
-  - name: Does your project impact Los Angeles County?
-    label: Does your project impact Los Angeles County?
-    explanation: Does your project impact Los Angeles County?
-    answer: 'yes'
-body_class: strawberry
-project_summary: "UNIQUE LA has created the largest buy local design show in the country - and is the only show to curate and show-off local-made talent. We have brought international attention to LA and its great makers (press mentions have included Details Magazine, Elle France, Uppercase). In four years we've had amazing successes and have expanded in many ways, but I think these numbers illustrate the great impact we've had.\r\n\r\n- 232,000 people have attended UNIQUE shows\r\n- We've provided a platform for sales and exposure for over 8000 independent designers + artists\r\n- Occupied a total of 424,000 square feet! \r\n- Produced shows in 3 cities, LA/NYC/SF \r\n- An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)"
-published: true
 
 ---

@@ -1,26 +1,22 @@
 ---
+published: true
 organization_id: '2018125'
 year_submitted: 2016
-organization_name: Think Tank Productions
-organization_website: thinktank.gallery
-ein: '300445999'
-project_image_2: 9859494345741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102263'
+challenge_url: >-
+  https://challenge.la2050.org/entry/think-tanks-red-tape-removal-program-–-untying-the-bureaucratic-knots-from-la-art-production
 title: >-
   Think Tank's Red Tape Removal Program – Untying the Bureaucratic Knots from LA
   Art Production
-organization_name_2: Think Tank Productions
-organization_activity: >-
-  We design experiences from fully branded installations to a festival for
-  65,000 Angelenos, producing or consulting projects through miles of red tape
-  that could kill ideas lacking unflinching resolve.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9859494345741-team91.jpg
-project_video: 'https://www.youtube.com/embed/Jbhwq5zWzA4?rel=0&amp;showinfo=0'
 project_summary: >-
   Our project will join creators with building owners, government agencies, and
   various advisors to take big ideas and push them through the legal and
   infrastructure challenges that restrict creativity.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9859494345741-team91.jpg
+project_video: 'https://www.youtube.com/embed/Jbhwq5zWzA4?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Formally, Space in the Raw, , Semi-formally, the Department of Cultural
@@ -29,8 +25,6 @@ project_collaborators: >-
   office, Alcoholic Beverage Control, LA Fire Department, LAPD, LA Department of
   Building and Safety, our architectural consultant, Commissions Investigation
   Department, and more.
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   Success will be measured by the amount of creators reached through our online
   program, and also by the tangible number of events produced after finishing
@@ -71,6 +65,21 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Jobs per capita"]
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Jobs per capita
+project_proposal_description: >-
+  Tapping above-mentioned agencies like the BID, CD14, LAPD & LAFD, ABC, LADBS,
+  & more, we’ll map out the permitting process for creators. Via live workshops
+  & online resources, we will connect arts event producers with city agents, we
+  eventually craft an online system connecting owners of vacant or inhabited
+  buildings to artists that can create vibrant events in underutilized spaces
+  and neighborhoods. This will result in more art establishments and jobs per
+  capita, each of them collaborative.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   For 6 years, Think Tank Productions has ridden a wave of massive
   revitalization in Downtown LA. Succeeding the Arts District & Gallery Row, the
@@ -121,24 +130,7 @@ project_proposal_best_place: >-
   vacant sprawl – and turns it into our biggest strength. Demystifying the
   permitting process will add more usable and informal spaces for PLAY while
   increasing the cultural economy for stakeholders.
-challenge_url: >-
-  https://challenge.la2050.org/entry/think-tanks-red-tape-removal-program-–-untying-the-bureaucratic-knots-from-la-art-production
-empty_column_1: ''
-project_proposal_description: >-
-  Tapping above-mentioned agencies like the BID, CD14, LAPD & LAFD, ABC, LADBS,
-  & more, we’ll map out the permitting process for creators. Via live workshops
-  & online resources, we will connect arts event producers with city agents, we
-  eventually craft an online system connecting owners of vacant or inhabited
-  buildings to artists that can create vibrant events in underutilized spaces
-  and neighborhoods. This will result in more art establishments and jobs per
-  capita, each of them collaborative.
-project_proposal_impact:
-  - Arts establishments
-  - Manufacturing activity
-  - Employment in the creative industries
-  - Jobs per capita
-category: create
-body_class: banana
-published: true
+organization_name: Think Tank Productions
+organization_website: thinktank.gallery
 
 ---

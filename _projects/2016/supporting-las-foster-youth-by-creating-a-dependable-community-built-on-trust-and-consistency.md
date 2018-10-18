@@ -1,34 +1,24 @@
 ---
+published: true
 organization_id: '2016211'
 year_submitted: 2016
-organization_name: The Academy Project
-organization_website: WWW.THEACADEMYPROJECT.ORG
-ein: '471205640'
-project_image_2: 0815848445741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102235'
+challenge_url: >-
+  https://challenge.la2050.org/entry/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency
 title: >-
   Supporting LA's foster youth by creating a dependable community built on trust
   and consistency.
-organization_name_2: The Academy Project
-organization_activity: >-
-  The Academy Project prepares LA foster youth to succeed in high school and
-  beyond, through an innovative summer camp & after school program, with a
-  guaranteed spot in a stable & supportive community
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
-project_video: 'https://www.youtube.com/embed/xbatmQQi_e4?rel=0&amp;showinfo=0'
 project_summary: >-
   The Academy Project prepares LA foster youth to succeed in high school,
   through an innovative summer camp & after school program, with a guaranteed
   spot in a stable & supportive community
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
+project_video: 'https://www.youtube.com/embed/xbatmQQi_e4?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'A HOME WITHIN, AdaptED, UCLA UNICAMP'
-project_areas:
-  - Central LA
-  - South LA
-  - County of Los Angeles
-  - LAUSD
-  - South & Central LA have largest population of FY
 project_measure: >-
   TAP aims to improve outcomes for both the individual foster youth and the
   foster youth community.  Although that can take many different forms, we will
@@ -91,6 +81,27 @@ project_impact: >-
   in English and Language Arts and Math","Student education
   pipeline","Suspension and expulsion rates","Truancy rates in elementary and
   middle schools"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+project_proposal_description: >-
+  50% of  the 28,000 foster youth in LA end up homeless, in gangs,
+  institutionalized or in jail.  Over 42% of foster youth drop out of high
+  school and  only 3% graduate from college.  Starting in Grade 7, TAP will
+  build an exclusive & consistent community for at-risk foster youth, building
+  on the success of our summer program to include an afterschool program to
+  launch in April providing the necessary support & motivation needed
+  year-round.
+project_areas:
+  - Central LA
+  - South LA
+  - County of Los Angeles
+  - LAUSD
+  - South & Central LA have largest population of FY
 project_proposal_best_place: >-
   TAP will make LA the best place to learn by supporting foster youth so they
   have the foundation needed to succeed in and  graduate from high school,
@@ -137,26 +148,7 @@ project_proposal_best_place: >-
   matriculation rates will rise. The Academy Project will provide the necessary
   support & motivation to give our youth the chance to own their own narratives
   & future successes.
-challenge_url: >-
-  https://challenge.la2050.org/entry/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency
-empty_column_1: ''
-project_proposal_description: >-
-  50% of  the 28,000 foster youth in LA end up homeless, in gangs,
-  institutionalized or in jail.  Over 42% of foster youth drop out of high
-  school and  only 3% graduate from college.  Starting in Grade 7, TAP will
-  build an exclusive & consistent community for at-risk foster youth, building
-  on the success of our summer program to include an afterschool program to
-  launch in April providing the necessary support & motivation needed
-  year-round.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-category: learn
-body_class: blueberry
-published: true
+organization_name: The Academy Project
+organization_website: WWW.THEACADEMYPROJECT.ORG
 
 ---

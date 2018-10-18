@@ -1,26 +1,22 @@
 ---
+published: true
 organization_id: '2016098'
 year_submitted: 2016
-organization_name: Helpline Youth Counseling (HYC)
-organization_website: hycinc.org
-ein: ''
-project_image_2: 4297890165741-team90.jpg
+category: play
+body_class: strawberry
 project_id: '6102090'
+challenge_url: >-
+  https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
 title: >-
   Conservation Pathways: Environmental Education and Careers for Tomorrow's
   Leaders
-organization_name_2: Helpline Youth Counseling (HYC)
-organization_activity: >-
-  HYC helps at-risk, low-income children, youth, and families develop their
-  strengths and build skills and support networks through education, counseling,
-  advocacy, and the utilization of resources.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
-project_video: 'https://www.youtube.com/embed/5fPP7vcVjlM?rel=0&amp;showinfo=0'
 project_summary: >-
   HYC's Conservation Pathways Project in Southeast LA County boosts residents’
   understanding of environmental sustainability and awareness of prospective
   careers in the growing eco-friendly industry.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
+project_video: 'https://www.youtube.com/embed/5fPP7vcVjlM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   County of Los Angeles, The Orchard Dale Water District, Water Replenishment
@@ -30,8 +26,6 @@ project_collaborators: >-
   Beach Unified, - LA County Office of Education, - Lynwood Unified, -
   Norwalk-La Mirada Unified, - Paramount Unified, - South Whittier, - Whittier
   City, - Whittier Union High
-project_areas:
-  - Gateway Cities
 project_measure: >-
   HYC will measure our success based on:
 
@@ -82,6 +76,21 @@ project_impact: >-
   spaces for play","Number of children enrolled in afterschool programs","Number
   of parks with intergenerational play opportunities","Number of residents with
   easy access to a “vibrant” park"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+project_proposal_description: >-
+  HYC’s Conservation Pathways Project will advance the Southeast Los Angeles
+  community’s understanding of water and energy conservation by providing
+  education regarding drought-tolerant plants, agricultural practices,
+  irrigation basics and garden design; present practical information to the
+  public on ways to lessen resource consumption; and connect residents to career
+  prospects in the expanding environmental industry.
+project_areas:
+  - Gateway Cities
 project_proposal_best_place: >-
   HYC will help make LA the best place to PLAY by uniting government, community,
   and individual efforts to create quality spaces for individuals of all ages to
@@ -128,24 +137,7 @@ project_proposal_best_place: >-
   California Conservation mobile app that youth and families can install on
   their telephones to deepen their environmental and conservation learning. A
   10-passenger van will provide increased access to Conservation Pathways.
-challenge_url: >-
-  https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
-empty_column_1: ''
-project_proposal_description: >-
-  HYC’s Conservation Pathways Project will advance the Southeast Los Angeles
-  community’s understanding of water and energy conservation by providing
-  education regarding drought-tolerant plants, agricultural practices,
-  irrigation basics and garden design; present practical information to the
-  public on ways to lessen resource consumption; and connect residents to career
-  prospects in the expanding environmental industry.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of children enrolled in afterschool programs
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-category: play
-body_class: strawberry
-published: true
+organization_name: Helpline Youth Counseling (HYC)
+organization_website: hycinc.org
 
 ---

@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2018068'
 year_submitted: 2016
-organization_name: LIFT Inc.
-organization_website: www.liftcommunities.org
-ein: '522168409'
-project_image_2: 4037609065741-team91.png
+category: live
+body_class: lime
 project_id: '6102131'
+challenge_url: >-
+  https://challenge.la2050.org/entry/bridging-gaps-lift-los-angeles-and-one-degrees-partnership-to-expand-networks-and-improve-lives
 title: >-
   Bridging Gaps: LIFT-Los Angeles and One Degree’s Partnership to Expand
   Networks and Improve Lives
-organization_name_2: LIFT Inc.
-organization_activity: >-
-  LIFT-Los Angeles strengthens parents’ personal, social, and financial
-  foundations, working with – not just for – parents to design and implement
-  scalable solutions to intergenerational poverty.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4037609065741-team91.png
-project_video: 'https://www.youtube.com/embed/0kAkWtDm2X0?rel=0&amp;showinfo=0'
 project_summary: >-
   LIFT-Los Angeles and One Degree, two nonprofits dedicated to breaking the
   cycle of poverty, are leveraging technology to put wraparound supports
   directly in the hands of families.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4037609065741-team91.png
+project_video: 'https://www.youtube.com/embed/0kAkWtDm2X0?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'LIFT, Inc. (a.k.a LIFT-Los Angeles) and One Degree (www.1deg.org)'
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   By some measures, low-income families spend as many as twenty hours/week
   researching, finding, and traveling to multiple agencies to attain the
@@ -64,6 +58,22 @@ project_description: >-
 project_impact: >-
   ["Access to healthy food","Healthcare access","Self-sufficiency","Resilient
   communities","Prevalence of adverse childhood experiences","Homelessness"]
+project_proposal_impact:
+  - Access to healthy food
+  - Healthcare access
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+project_proposal_description: >-
+  At LIFT-Los Angeles and One Degree, we know that poverty is complex but
+  believe that getting help does not have to be. We are combining our respective
+  strengths to provide historically marginalized communities with supports to
+  address short- and long-term needs and goals. Both in-person and via an online
+  tool, LIFT and One Degree are working hand-in-hand with families on their
+  journeys out of poverty.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   We know that our city is at its best when the families and networks that make
   up our community are vibrant and resilient – yet far too many of our members
@@ -111,25 +121,7 @@ project_proposal_best_place: >-
   tech solution represent the future of poverty alleviation: together, we create
   new avenues for greater coordination among diverse stakeholders and empower
   people to access resources efficiently.
-challenge_url: >-
-  https://challenge.la2050.org/entry/bridging-gaps-lift-los-angeles-and-one-degrees-partnership-to-expand-networks-and-improve-lives
-empty_column_1: ''
-project_proposal_description: >-
-  At LIFT-Los Angeles and One Degree, we know that poverty is complex but
-  believe that getting help does not have to be. We are combining our respective
-  strengths to provide historically marginalized communities with supports to
-  address short- and long-term needs and goals. Both in-person and via an online
-  tool, LIFT and One Degree are working hand-in-hand with families on their
-  journeys out of poverty.
-project_proposal_impact:
-  - Access to healthy food
-  - Healthcare access
-  - Self-sufficiency
-  - Resilient communities
-  - Prevalence of adverse childhood experiences
-  - Homelessness
-category: live
-body_class: lime
-published: true
+organization_name: LIFT Inc.
+organization_website: www.liftcommunities.org
 
 ---

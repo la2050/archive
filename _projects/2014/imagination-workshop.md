@@ -1,100 +1,22 @@
 ---
+published: true
+organization_id: '2018046'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102085'
 title: Imagination Workshop
 project_summary: >-
   IW proposes applying its 45 years of proven service to the mentally ill to
   helping homeless veterans and veterans suffering from PTSD.
-category: live
-organization_id: '2018046'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20927%252Fdisplay%252Findex__element43.jpg=c570x385
 project_video: ''
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  The implementation strategy for the Ribbon Gardens proposal primarily revolves
-  around two concurrent elements: 1) fostering community support and engagement
-  and 2) design, installation and planting of the various Ribbon Garden
-  elements. Element one is achievable through Global Green’s extensive expertise
-  at capacity building and community planning combined with the neighborhood’s
-  demonstrated interest in food access through the creation of its community
-  garden. Element two is achievable as the planters have already been designed
-  and a planting palette has been developed. Further, we have previously tested
-  this concept at the block level in April 2014 in Oakland, California, and from
-  this event, we are prepared for neighborhood-scale integration. The
-  implementation of the Frogtown Ribbon Gardens proposal will include the
-  following steps: refine designs and communication materials; begin community
-  outreach; acquire construction and planting materials; build planter kits;
-  host community installation event; evaluate progress and build capacity for
-  expanding Ribbon Gardens network to other food deserts in Los Angeles. 
-   
-   Following an outreach effort to build a neighborhood coalition and leverage the strength of an existing community garden and the existing network of fruit trees distributed throughout Elysian Valley, the implementation strategy follows two paths. First, kits will be created for each planter that include lumber in pre-cut dimensions, fasteners, assembly and planting instructions so that all that is needed for assembly is a power drill. Global Green will host an installation event for community members and volunteers to assemble, install and plant these planters. The second strategy is the distribution of assembly and planting instructions in a booklet for residents to make their own planters. Each planter has been designed with ease of fabrication in mind, and as a result, all lumber cuts are either 90o or 45o, and can be performed free of charge at most hardware stores. The average parkway strip in Elysian Valley is 180 square feet, and with an average of 24 strips per block, there is nearly a basketball court’s worth of planting space each. Using a conservative .3 yield, roughly 1,300 pounds of fresh food per block per year can be produced; a significant contribution towards a healthier diet in a neighborhood lacking access to healthy foods, and assuming an average produce price of $2 per pound, a significant cost savings as well.
-What is your idea/project in more detail?: >-
-  The USDA has estimated that 23.5 million US residents live in food deserts-
-  low-income areas where a significant share of residents is more than half a
-  mile from the nearest market- and Los Angeles is home to many such pockets of
-  limited food access. Elysian Valley is one of the most prominent of these food
-  deserts, particularly due to its geography with the LA river to it’s east and
-  south and 5 and 2 freeways to the north and west. As a result of this
-  hemmed-in nature, ease of access to produce is particularly critical, and the
-  Frogtown Ribbon Gardens proposal will help alleviate some of the pressures
-  associated with living in a food desert while simultaneously advancing public
-  discourse and engagement in a proactive, hands-on approach. Access to fresh
-  and healthy food has been identified as one of the key indicators in many
-  health issues in the American populace, and by empowering residents of Elysian
-  Valley with the capacity to grow their own, the Frogtown Ribbon Gardens
-  proposal continues already established community momentum in this vein.
-   
-   In addition to mitigating long-standing community food access issues in Elysian Valley, the Frogtown Ribbon Gardens serve as a neighborhood-scale pilot project for a readily implementable strategy to combat conditions found throughout Los Angeles' food deserts. The consciously designed and branded Ribbon Garden planter elements combined with the inherently community-driven nature of this effort will raise attention and advance conversation around this issue to foster complementary zoning and policy priorities by the City to further reduce the occurrence and effects of food deserts in LA. By the Fall of 2015, Los Angeles will have a neighborhood-scale pilot project demonstrating the viability of this approach. By 2050, the lessons learned from the project and the momentum gained through iterative adaptations in food deserts across the city will yield a robust network of community-driven food production and significant inroads made into the reduction of childhood obesity and other key indicators inherently tied to conditions found in food deserts.
-What will you do to implement this idea/project?: >-
-  The primary beneficiaries of this proposal are low-income households with
-  limited access to fresh or healthy food in Northeast Los Angeles, specifically
-  those in Elysian Valley. There is a real and demonstrated need for increased
-  food access in many neighborhoods throughout Los Angeles County, and the
-  Frogtown Ribbon Gardens provide a readily implementable, hands-on approach to
-  mitigating the adverse health impacts associated with limited food options.
-  This lack of access is underscored by the fact that Elysian Valley meets the
-  USDA's criteria for a food desert - it is a low-income neighborhood where most
-  of its residents live more than half a mile from the nearest market, a
-  significant concern in this automobile dependent neighborhood. In addition to
-  this USDA designation, as Los Angeles prepares its new Health and Wellness
-  Element for the General Plan, the Planning Department has released data
-  revealing that residents of Elysian Valley are in the lowest bracket for
-  neighborhood food sources (9) and exhibits a childhood obesity rate of 28%.
-  Elysian Valley’s childhood obesity rate is the key demographic indicator
-  targeted for change by the Frogtown Ribbon Gardens. While this grant
-  application seeks funds to support the research, production and installation
-  of a Ribbon Garden network in Elysian Valley, the lessons learned as part of
-  this pilot project will be applied to other communities in food deserts
-  throughout Los Angeles. As a result, this means that while the initial impact
-  of this proposal is primarily at the neighborhood scale, its long-term
-  influence will be felt throughout Los Angeles. Secondary beneficiaries of the
-  Ribbon Gardens proposal include visitors and residents of the neighborhood as
-  the network of lush planters will help activate the streetscape and provide a
-  more welcoming and lively public realm.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  Three potential collaborators for this project- The Northeast LA Riverfront
-  Collaborative, The Elysian Valley Community Garden and the Santa Monica
-  Mountains Conservancy. The initial concept for the Frogtown Ribbon Gardens was
-  developed as a competition entry for the Northeast LA Riverfront
-  Collaborative. Our proposal won an Honorable Mention from competition judges
-  and signals the viability of this proposal. Moving forward, we intend to
-  connect with the Collaborative to gain their regional expertise and assistance
-  with implementing the Ribbon Gardens approach in other food deserts in
-  Northeast LA.
-   
-   The Santa Monica Mountains Conservancy operates the Marsh Street Nature Park, Elysian Valley Gateway Park, Steelhead Park and Oso Park- three of which are situated against the western edge of the LA River in Elysian Valley. Connecting the Ribbon Gardens to these community assets and, in turn, to the river, will help solidify their presence as important fixtures in the community which both beautify the neighborhood and provide fresh, affordable and healthy food.
-   Perhaps the most productive potential partners to collaborate with in Elysian Valley are the residents that in 2010 rallied together to promote access to healthy food, and established a .25-acre community garden at the intersection of Blake Avenue and Rich Street. This community driven effort simultaneously signals a desire for access to healthy produce and a demonstrated ability to self-organize to achieve this vision - two elements critical for the successful implementation of the Frogtown Ribbon Gardens proposal. The need and demand for fresh fruit and vegetables in Elysian Valley, however, far outstrips the production capacity of its community garden.We hope that by working in conjunction with this group, Global Green can leverage their community expertise and local gardening experience to see our mutual vision for increased food access in Elysian Valley to fruition. 
-   
-   While we have not worked directly with any of these groups in the past, we are confident that we can reach mutually beneficial partnerships with all three to combat the effects of food scarcity in Elysian Valley. Three factors critical to the success of these proposed collaborations are 1) ensuring collaboration, not competition, 2) identifying and pooling our mutual assets to develop the best implementation approach and 3) developing strategies to continue the Ribbon Gardens network beyond the LA2050 grant.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-maker_image_id: '20927'
-maker_image_file_name: index__element43.jpg
 project_areas:
   - LA COUNTY
 maker_answers:
-  city_state: 'Los Angeles, CA'
   org_name: Imagination Workshop
+  metrics_live_healthyfood: '0'
   org_website: imaginationworkshop.org
   org_twitter: ''
   org_facebook: ''
@@ -175,7 +97,7 @@ maker_answers:
     a standing invitation to work with their vets, but have not, of late, been
     able to fund our work.  With funding, IW is definitely invited to work with
     these organizations.
-  metrics_live_healthyfood: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'
@@ -191,7 +113,7 @@ maker_answers:
   metrics_live_treecanopy: '0'
   metrics_live_other: '0'
   metrics_live_blank: ''
-  impact_metrics: "Imagination Workshop seeks to help psychiatric patients, homeless veterans, at-risk youth, and other disenfranchised individuals synthesize thoughts and feelings in the realm of metaphor through creating and portraying fictional characters far removed from themselves under the direction of specially-trained professional theatre artists.  We provide weekly hour-long sessions in which two or three IW theatre artists lead fifteen mental health patients in structured exercises, based on acting and playwriting training techniques, that lead the patients to create fictional characters far removed from themselves, improvise and write scenes and sometimes whole plays featuring those characters, and finally to embody those characters on stage, in a professionally mounted production, staged and designed by professional theater arts.Among the results of this experience for the patients are often improved social skills, enhanced performance in job interviews, and higher self-esteem, all buttressed by the accomplishment of writing and acting in a play.  Scientific studies at the UCLA Semel Institute have proven these results.  \r\n\r\nImagination Workshop currently serves psychiatric outpatients at the UCLA Semel Institute, seniors suffering from Alzheimer’s at the Virginia House in Sherman Oaks, and high school students with behavioral issues at Olympic High School in Santa Monica.  In the recent past we have served homeless veterans at New Directions and the Salvation Army at the VA in Westwood, aging veterans suffering PTSD at the California State Home for Veterans, and the criminally insane at Patton State Hospital in San Bernardino and Metropolitan Hospital in Norwalk.  \r\n"
+  resources_network: '0'
   best_place_to_create: '1'
   best_place_to_play: '1'
   best_place_to_connect: '1'
@@ -219,377 +141,86 @@ maker_answers:
   resources_education: '0'
   resources_technical: '0'
   resources_communityoutreach: '1'
-  resources_network: '0'
   resources_research: '1'
-maker_answers_list:
-  - name: city_state
-    label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
-    answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: Imagination Workshop
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
-    answer: imaginationworkshop.org
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: ''
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: ''
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: ''
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: "760 Westwood Plaza, Suite C8 – 183K,\r\nLos Angeles, CA 90024-5055\r\n"
-  - name: EIN
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '237161543'
-  - name: org_nonprofit
-    label: Nonprofit organization
-    explanation: ''
-    answer: '1'
-  - name: org_forprofit
-    label: For-profit organization
-    explanation: ''
-    answer: '0'
-  - name: org_government
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '1'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '0'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '0'
-  - name: one_sentence_org
-    label: ''
-    explanation: 140 character maximum
-    answer: We help mental health consumers live fuller lives using the theater arts.
-  - name: describe_idea
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      IW proposes applying its 45 years of proven service to the mentally ill to
-      helping homeless veterans and veterans suffering from PTSD.
-  - name: describe_organization
-    label: ''
-    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
-    answer: >-
-      Imagination Workshop uses the theater arts to help the mentally ill live
-      better, fuller lives.
-  - name: all_county
-    label: Yes (benefits all of LA County)
-    explanation: ''
-    answer: '0'
-  - name: region_county
-    label: Yes (benefits a region of LA County)
-    explanation: ''
-    answer: '1'
-  - name: population_county
-    label: Yes (benefits a population of LA County)
-    explanation: ''
-    answer: '0'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '0'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '0'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '0'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '0'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '1'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '0'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: >-
-      One hundred homeless veterans and veterans suffering PTSD have a series of
-      20 weekly structured hour-long meetings (in groups of 15) where they are
-      mentored by professional theater artists (actors, writers, directors) in
-      the creation of four original theater works, which are then mounted
-      professionally for the general public in Los Angeles professional theater
-      venues, and are performed by the veterans and professional actors
-      together, under the direction of a professional theater directer and
-      produced by a professional theater producer.
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: >-
-      We train and supply the professional theater artists, and continue our 20
-      year relationship with services at the Veterans Administration such as New
-      Directions, the Salvation Army, and the California State Home for
-      Veterans, as well as other veteran homes and services all over Los Angeles
-      in serving their clients (the veterans), but on a larger scale than before
-      by supplying more artists in order to serve 100 vets.  We arrange for the
-      meeting space, and then rent the theater spaces for performance
-  - name: impact_live
-    label: ''
-    explanation: ''
-    answer: >-
-      Scientific testing at the UCLA Semel Institute has shown that among those
-      who suffer mental illness, participation in Imagination Workshop's theater
-      workshops for the mentally ill leads to a higher functioning, better life,
-      which includes improved social skills, higher functioning in job
-      interviews, the establishing of ego boundaries through the experience of
-      creating and embodying fictional characters, better participation in
-      groups and programs, and the ability to stay out of the hospital.  Our
-      work with homeless veterans and those suffering PTSD in the past has been
-      very successful and helped hundreds of vets live fuller lives.  By helping
-      100 Los Angeles veterans live healthier lives, we help La become the
-      healthiest place to live today.  By creating a continuing program that
-      reaches out and serves this many vets every year, we help make a heathy LA
-      in 2050.
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: >-
-      Our project will directly benefit 100 homeless veterans and veterans
-      suffering PTSD, their families, and their community.  Through professional
-      theater presentations, we will reach audiences of several hundred
-      theater-goers and share with them the nature of our work and the needs of
-      our veterans.
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: >-
-      In 2012, IW, with a a grant from Metabolic Studio, led 20 weekly sessions
-      at the Calvet Center with 40 senior vets and homeless vets from the
-      California State Home for Veterans and the Salvation Army Veteran Home
-      that resulted in an original theater production at the Odyssey theater,
-      seen by 150 people.  From 2000 to 2010, IW ran a weekly group of homeless
-      veterans at New Directions that resulted in three original theater
-      productions at Theater Theater and The Greenway Theater.  All of these
-      organizations have issued IW a standing invitation to work with their
-      vets, but have not, of late, been able to fund our work.  With funding, IW
-      is definitely invited to work with these organizations.
-  - name: metrics_live_healthyfood
-    label: Access to healthy food
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_healthcare
-    label: Healthcare access
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_airtoxins
-    label: Exposure to air toxins
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_selfsufficiency
-    label: Number of households below the self-sufficiency standard
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_importedwater
-    label: Percent of imported water
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_obesity
-    label: Obesity rates
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_homelessness
-    label: Rates of homelessness
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_walkscore
-    label: Walk/bike/transit score
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_pollutedwaterways
-    label: Acres and miles of polluted waterways
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_mentalillness
-    label: Rates of mental illnesses
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_childhood
-    label: Prevalence of adverse childhood experience (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_communities
-    label: Percentage of LA communities that are resilient (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_healthcareservice
-    label: >-
-      Percentage of residents receiving coordinated healthcare services (Dream
-      Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_treecanopy
-    label: Percentage of tree canopy cover (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_other
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "Imagination Workshop seeks to help psychiatric patients, homeless veterans, at-risk youth, and other disenfranchised individuals synthesize thoughts and feelings in the realm of metaphor through creating and portraying fictional characters far removed from themselves under the direction of specially-trained professional theatre artists.  We provide weekly hour-long sessions in which two or three IW theatre artists lead fifteen mental health patients in structured exercises, based on acting and playwriting training techniques, that lead the patients to create fictional characters far removed from themselves, improvise and write scenes and sometimes whole plays featuring those characters, and finally to embody those characters on stage, in a professionally mounted production, staged and designed by professional theater arts.Among the results of this experience for the patients are often improved social skills, enhanced performance in job interviews, and higher self-esteem, all buttressed by the accomplishment of writing and acting in a play.  Scientific studies at the UCLA Semel Institute have proven these results.  \r\n\r\nImagination Workshop currently serves psychiatric outpatients at the UCLA Semel Institute, seniors suffering from Alzheimer’s at the Virginia House in Sherman Oaks, and high school students with behavioral issues at Olympic High School in Santa Monica.  In the recent past we have served homeless veterans at New Directions and the Salvation Army at the VA in Westwood, aging veterans suffering PTSD at the California State Home for Veterans, and the criminally insane at Patton State Hospital in San Bernardino and Metropolitan Hospital in Norwalk.  \r\n"
-  - name: best_place_to_create
-    label: LA is the best place to CREATE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: evaluate
-    label: ''
-    explanation: ''
-    answer: "1.  Veterans participation in groups, the writing of an original script, and the public performance.\r\n\r\n2. Doing screenings of the veterans' participation in their programs (12 Step, New Directions, etc.)  in partnership with staff at New Directions, Calvet, and the Salvation Army, before after and during their participation with IW.\r\n\r\n3.  Follow up reports on the participating veterans' progress in job finding, self-care, sobriety (for 12 step veterans, and in controlling PTSD."
-  - name: two_lessons
-    label: ''
-    explanation: ''
-    answer: "1.  Everyone has the creative spark.  \r\n\r\n2. The experience of creating and performing original theater involves disciples that positively effect the happiness and fullness of life for the mentally ill."
-  - name: achievable_goal
-    label: ''
-    explanation: ''
-    answer: >-
-      Weekly sessions with homeless and PTSD veterans could begin immediately at
-      with Calvet, the Salvation Army, or New Directions, or at a rented space. 
-      The connections with the veteran agencies are already established.  During
-      six months of weekly sessions with our professionally trained theater
-      artists, the scripts for the four theater works will be written by staff
-      and clients together.  Each theater work will take two months of
-      rehearsal, which can all be simultaneous.  The theater is a rental, and
-      the publicity is a three month process.  IW has been creating original
-      theater with the mentally ill for 45 years.
-  - name: major_challenges
-    label: ''
-    explanation: ''
-    answer: "1.  Getting the veterans from the various agencies to meet together at one time is a difficult problem.  With this funding we could solve it by having several groups going that offer an array of meeting times.\r\n\r\n2. Scheduling a professional theater venue in LA with performance space available at the right time.  This is solved because IW has long-standing relationships with LA area theaters, and they do their best to accommodate us."
-  - name: competition
-    label: ''
-    explanation: ''
-    answer: "Imagination Workshop is the longest running arts and mental health organization in this country.  For more than forty years, hundreds of actors and writers from Broadway, film and television, including such well-known names as Susan Sarandon, Ted Danson and Sam Waterston, have, through IW, worked on stage with more than forty-five thousand people suffering mental illness, most of whom have never before experienced theater’s ability to transcend real life. On stage, troubled people who have difficulty dealing with even the simplest aspects of life suddenly discover that, as a fictional character, they can do all that they ever imagined and more.\r\n\r\nOver its many productive years, the IW has served a diverse community of every race, age, sex, ethnicity and economic background. IW has brought its singular approach to theater to the poor, the elderly, and children at risk of becoming involved with gangs and drugs. Psychiatric participants include people suffering from catatonia, schizophrenia, depression, compulsive-obsessive disorders, and even patients in locked wards.\r\n\r\nStudies at Semel Institute at UCLA have shown that participation in Imagination Workshop leads to positive behavioral and life changes that are permanent.  \r\n\r\nImagination Workshop uses the metaphor.  In traditional psychodrama therapies, patients act out scened from their own lives.  In Imagination workshop, they create characters to play far removed from themselves.  It's an opportunity to try on a new personality, walk in another's shoes, and safely explore behavior modes and experience discovery of the role creativity can make in everyday living.  Among the results of this experience for the patients are often improved social skills, enhanced performance in job interviews, and higher self-esteem, all buttressed by the accomplishment of writing and acting in a play.  Scientific studies at the UCLA Semel Institute have proven these results.  "
-  - name: cost
-    label: ''
-    explanation: ''
-    answer: '$50,000'
-  - name: budget
-    label: ''
-    explanation: ''
-    answer: "Fees for 15 professional theater artists to lead weekly sessions for eight months - $33,000\r\n\r\nProduction Expenses, including theater rental, set construction - $10,000\r\n\r\nFees for professional theater technicians - $2,000\r\n\r\nOrganizational expenses - $2,000\r\n\r\nPublicity - $3,000\r\n\r\n"
-  - name: resources_money
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_staff
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_publicity
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_infrastructure
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_education
-    label: Education/training
-    explanation: ''
-    answer: '0'
-  - name: resources_technical
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_communityoutreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: resources_network
-    label: Network/relationship support
-    explanation: ''
-    answer: '0'
-  - name: resources_research
-    label: Quality improvement research
-    explanation: ''
-    answer: '1'
-body_class: lime
-published: true
+  impact_metrics: "Imagination Workshop seeks to help psychiatric patients, homeless veterans, at-risk youth, and other disenfranchised individuals synthesize thoughts and feelings in the realm of metaphor through creating and portraying fictional characters far removed from themselves under the direction of specially-trained professional theatre artists.  We provide weekly hour-long sessions in which two or three IW theatre artists lead fifteen mental health patients in structured exercises, based on acting and playwriting training techniques, that lead the patients to create fictional characters far removed from themselves, improvise and write scenes and sometimes whole plays featuring those characters, and finally to embody those characters on stage, in a professionally mounted production, staged and designed by professional theater arts.Among the results of this experience for the patients are often improved social skills, enhanced performance in job interviews, and higher self-esteem, all buttressed by the accomplishment of writing and acting in a play.  Scientific studies at the UCLA Semel Institute have proven these results.  \r\n\r\nImagination Workshop currently serves psychiatric outpatients at the UCLA Semel Institute, seniors suffering from Alzheimer’s at the Virginia House in Sherman Oaks, and high school students with behavioral issues at Olympic High School in Santa Monica.  In the recent past we have served homeless veterans at New Directions and the Salvation Army at the VA in Westwood, aging veterans suffering PTSD at the California State Home for Veterans, and the criminally insane at Patton State Hospital in San Bernardino and Metropolitan Hospital in Norwalk.  \r\n"
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  The implementation strategy for the Ribbon Gardens proposal primarily revolves
+  around two concurrent elements: 1) fostering community support and engagement
+  and 2) design, installation and planting of the various Ribbon Garden
+  elements. Element one is achievable through Global Green’s extensive expertise
+  at capacity building and community planning combined with the neighborhood’s
+  demonstrated interest in food access through the creation of its community
+  garden. Element two is achievable as the planters have already been designed
+  and a planting palette has been developed. Further, we have previously tested
+  this concept at the block level in April 2014 in Oakland, California, and from
+  this event, we are prepared for neighborhood-scale integration. The
+  implementation of the Frogtown Ribbon Gardens proposal will include the
+  following steps: refine designs and communication materials; begin community
+  outreach; acquire construction and planting materials; build planter kits;
+  host community installation event; evaluate progress and build capacity for
+  expanding Ribbon Gardens network to other food deserts in Los Angeles. 
+   
+   Following an outreach effort to build a neighborhood coalition and leverage the strength of an existing community garden and the existing network of fruit trees distributed throughout Elysian Valley, the implementation strategy follows two paths. First, kits will be created for each planter that include lumber in pre-cut dimensions, fasteners, assembly and planting instructions so that all that is needed for assembly is a power drill. Global Green will host an installation event for community members and volunteers to assemble, install and plant these planters. The second strategy is the distribution of assembly and planting instructions in a booklet for residents to make their own planters. Each planter has been designed with ease of fabrication in mind, and as a result, all lumber cuts are either 90o or 45o, and can be performed free of charge at most hardware stores. The average parkway strip in Elysian Valley is 180 square feet, and with an average of 24 strips per block, there is nearly a basketball court’s worth of planting space each. Using a conservative .3 yield, roughly 1,300 pounds of fresh food per block per year can be produced; a significant contribution towards a healthier diet in a neighborhood lacking access to healthy foods, and assuming an average produce price of $2 per pound, a significant cost savings as well.
+What is your idea/project in more detail?: >-
+  The USDA has estimated that 23.5 million US residents live in food deserts-
+  low-income areas where a significant share of residents is more than half a
+  mile from the nearest market- and Los Angeles is home to many such pockets of
+  limited food access. Elysian Valley is one of the most prominent of these food
+  deserts, particularly due to its geography with the LA river to it’s east and
+  south and 5 and 2 freeways to the north and west. As a result of this
+  hemmed-in nature, ease of access to produce is particularly critical, and the
+  Frogtown Ribbon Gardens proposal will help alleviate some of the pressures
+  associated with living in a food desert while simultaneously advancing public
+  discourse and engagement in a proactive, hands-on approach. Access to fresh
+  and healthy food has been identified as one of the key indicators in many
+  health issues in the American populace, and by empowering residents of Elysian
+  Valley with the capacity to grow their own, the Frogtown Ribbon Gardens
+  proposal continues already established community momentum in this vein.
+   
+   In addition to mitigating long-standing community food access issues in Elysian Valley, the Frogtown Ribbon Gardens serve as a neighborhood-scale pilot project for a readily implementable strategy to combat conditions found throughout Los Angeles' food deserts. The consciously designed and branded Ribbon Garden planter elements combined with the inherently community-driven nature of this effort will raise attention and advance conversation around this issue to foster complementary zoning and policy priorities by the City to further reduce the occurrence and effects of food deserts in LA. By the Fall of 2015, Los Angeles will have a neighborhood-scale pilot project demonstrating the viability of this approach. By 2050, the lessons learned from the project and the momentum gained through iterative adaptations in food deserts across the city will yield a robust network of community-driven food production and significant inroads made into the reduction of childhood obesity and other key indicators inherently tied to conditions found in food deserts.
+What will you do to implement this idea/project?: >-
+  The primary beneficiaries of this proposal are low-income households with
+  limited access to fresh or healthy food in Northeast Los Angeles, specifically
+  those in Elysian Valley. There is a real and demonstrated need for increased
+  food access in many neighborhoods throughout Los Angeles County, and the
+  Frogtown Ribbon Gardens provide a readily implementable, hands-on approach to
+  mitigating the adverse health impacts associated with limited food options.
+  This lack of access is underscored by the fact that Elysian Valley meets the
+  USDA's criteria for a food desert - it is a low-income neighborhood where most
+  of its residents live more than half a mile from the nearest market, a
+  significant concern in this automobile dependent neighborhood. In addition to
+  this USDA designation, as Los Angeles prepares its new Health and Wellness
+  Element for the General Plan, the Planning Department has released data
+  revealing that residents of Elysian Valley are in the lowest bracket for
+  neighborhood food sources (9) and exhibits a childhood obesity rate of 28%.
+  Elysian Valley’s childhood obesity rate is the key demographic indicator
+  targeted for change by the Frogtown Ribbon Gardens. While this grant
+  application seeks funds to support the research, production and installation
+  of a Ribbon Garden network in Elysian Valley, the lessons learned as part of
+  this pilot project will be applied to other communities in food deserts
+  throughout Los Angeles. As a result, this means that while the initial impact
+  of this proposal is primarily at the neighborhood scale, its long-term
+  influence will be felt throughout Los Angeles. Secondary beneficiaries of the
+  Ribbon Gardens proposal include visitors and residents of the neighborhood as
+  the network of lush planters will help activate the streetscape and provide a
+  more welcoming and lively public realm.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  Three potential collaborators for this project- The Northeast LA Riverfront
+  Collaborative, The Elysian Valley Community Garden and the Santa Monica
+  Mountains Conservancy. The initial concept for the Frogtown Ribbon Gardens was
+  developed as a competition entry for the Northeast LA Riverfront
+  Collaborative. Our proposal won an Honorable Mention from competition judges
+  and signals the viability of this proposal. Moving forward, we intend to
+  connect with the Collaborative to gain their regional expertise and assistance
+  with implementing the Ribbon Gardens approach in other food deserts in
+  Northeast LA.
+   
+   The Santa Monica Mountains Conservancy operates the Marsh Street Nature Park, Elysian Valley Gateway Park, Steelhead Park and Oso Park- three of which are situated against the western edge of the LA River in Elysian Valley. Connecting the Ribbon Gardens to these community assets and, in turn, to the river, will help solidify their presence as important fixtures in the community which both beautify the neighborhood and provide fresh, affordable and healthy food.
+   Perhaps the most productive potential partners to collaborate with in Elysian Valley are the residents that in 2010 rallied together to promote access to healthy food, and established a .25-acre community garden at the intersection of Blake Avenue and Rich Street. This community driven effort simultaneously signals a desire for access to healthy produce and a demonstrated ability to self-organize to achieve this vision - two elements critical for the successful implementation of the Frogtown Ribbon Gardens proposal. The need and demand for fresh fruit and vegetables in Elysian Valley, however, far outstrips the production capacity of its community garden.We hope that by working in conjunction with this group, Global Green can leverage their community expertise and local gardening experience to see our mutual vision for increased food access in Elysian Valley to fruition. 
+   
+   While we have not worked directly with any of these groups in the past, we are confident that we can reach mutually beneficial partnerships with all three to combat the effects of food scarcity in Elysian Valley. Three factors critical to the success of these proposed collaborations are 1) ensuring collaboration, not competition, 2) identifying and pooling our mutual assets to develop the best implementation approach and 3) developing strategies to continue the Ribbon Gardens network beyond the LA2050 grant.
+Whom will your project benefit? Please be specific.: ''
+maker_image_id: '20927'
+maker_image_file_name: index__element43.jpg
 
 ---

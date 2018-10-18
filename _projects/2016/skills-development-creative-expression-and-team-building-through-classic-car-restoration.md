@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016141'
 year_submitted: 2016
-organization_name: Lost Angels Children's Project
-organization_website: www.lostangelscp.org
-ein: ''
-project_image_2: 3013757055741-team88.JPG
+category: learn
+body_class: blueberry
 project_id: '6102148'
+challenge_url: >-
+  https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration
 title: >-
   Skills development, creative expression and team building through classic car
   restoration.
-organization_name_2: Lost Angels Children's Project
-organization_activity: >-
-  Lost Angels Children's Project LACP provides low-income and at-risk youth with
-  a safe, educational after-school mentorship program that promotes critical
-  thinking and teaches vocational skills.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
-project_video: 'https://www.youtube.com/embed/RLWhGmroxoM?rel=0&amp;showinfo=0'
 project_summary: >-
   Lost Angels Children's Project engages at-risk youth through classic car
   restoration and customization to learn a trade, gain life skills and become
   empowered through team building activities.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
+project_video: 'https://www.youtube.com/embed/RLWhGmroxoM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None.
-project_areas:
-  - Antelope Valley
 project_measure: >-
   Over a one-year period, LACP will achieve the following objectives:
 
@@ -69,6 +63,17 @@ project_description: >-
   and life skills training, character building, and enforces academic subjects
   of science, technology, engineering, arts, and mathematics (STEAM).
 project_impact: '["Youth unemployment and underemployment"]'
+project_proposal_impact:
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Lost Angels Children's Project provides an engaging after-school program
+  serving local at-risk and foster youth. Twice a week, 10-13 youth attend the
+  LACP facility to participate in workshops for two-hours. Youth, ages 11-19,
+  learn classic car restoration and customizing techniques, which provide job
+  and life skills training, character building, and enforces academic subjects
+  of science, technology, engineering, arts, and mathematics (STEAM).
+project_areas:
+  - Antelope Valley
 project_proposal_best_place: >-
   LACP is committed to providing a safe after-school environment where the youth
   can develop skills necessary to take with them and elevate them beyond their
@@ -93,20 +98,7 @@ project_proposal_best_place: >-
   at-risk, disadvantaged and foster youth with hands-on vocational skills
   training, mentorship, and development activities that can prevent anti-social
   behaviors, break the cycle of poverty, and promote a successful future.
-challenge_url: >-
-  https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration
-empty_column_1: ''
-project_proposal_description: >-
-  Lost Angels Children's Project provides an engaging after-school program
-  serving local at-risk and foster youth. Twice a week, 10-13 youth attend the
-  LACP facility to participate in workshops for two-hours. Youth, ages 11-19,
-  learn classic car restoration and customizing techniques, which provide job
-  and life skills training, character building, and enforces academic subjects
-  of science, technology, engineering, arts, and mathematics (STEAM).
-project_proposal_impact:
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Lost Angels Children's Project
+organization_website: www.lostangelscp.org
 
 ---

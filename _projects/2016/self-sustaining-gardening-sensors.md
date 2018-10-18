@@ -1,24 +1,20 @@
 ---
+published: true
 organization_id: '2016009'
 year_submitted: 2016
-organization_name: ANDesign Lab
-organization_website: www.andesignlab.com
-ein: ''
-project_image_2: 3454622194741-team91.png
+category: live
+body_class: lime
 project_id: '6102076'
+challenge_url: 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'
 title: Self-Sustaining Gardening Sensors
-organization_name_2: ANDesign Lab
-organization_activity: ANDesign Lab is a full-fledged industrial design firm.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3454622194741-team91.png
-project_video: 'https://player.vimeo.com/video/114298600?rel=0&amp;showinfo=0'
 project_summary: >-
   Self-Sustained Gardening Sensors Will Change Life Outdoors for all
   Metropolitan Areas.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3454622194741-team91.png
+project_video: 'https://player.vimeo.com/video/114298600?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none.
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   Multi-spectral imaging sensors have been introduced and widely used for
   in-field plant sensing but this technology is not commercialized, and the data
@@ -75,6 +71,22 @@ project_description: >-
 project_impact: >-
   ["Access to healthy food","Waterways","Self-sufficiency","Local
   water","Walk/bike/transit score"]
+project_proposal_impact:
+  - Access to healthy food
+  - Waterways
+  - Self-sufficiency
+  - Local water
+  - Walk/bike/transit score
+project_proposal_description: >-
+  The objective of this proposal is for the Research and Development of a
+  drought-adaptive gardening hub, suitable for a city-gardener.
+  Over-fertilization can be a source of unnecessary harm, resulting in
+  environmental hazards in the cases of nutrient run off. The development of an
+  in-field, real-time, plant sensing system for a site-specific application can
+  protect the environment from excessive chemicals and save management cost
+  while controlling the productivity of watering systems.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   The implementation of self sustained gardening sensors will create
   opportunities for urban gardening, but could also help with water
@@ -100,24 +112,7 @@ project_proposal_best_place: >-
   makes it an extremely useful tool for quantifying within-field variability,
   evaluating crop growth, and managing soil based on current conditions that may
   be overlooked using typical ground-based visual scouting methods.
-challenge_url: 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'
-empty_column_1: ''
-project_proposal_description: >-
-  The objective of this proposal is for the Research and Development of a
-  drought-adaptive gardening hub, suitable for a city-gardener.
-  Over-fertilization can be a source of unnecessary harm, resulting in
-  environmental hazards in the cases of nutrient run off. The development of an
-  in-field, real-time, plant sensing system for a site-specific application can
-  protect the environment from excessive chemicals and save management cost
-  while controlling the productivity of watering systems.
-project_proposal_impact:
-  - Access to healthy food
-  - Waterways
-  - Self-sufficiency
-  - Local water
-  - Walk/bike/transit score
-category: live
-body_class: lime
-published: true
+organization_name: ANDesign Lab
+organization_website: www.andesignlab.com
 
 ---

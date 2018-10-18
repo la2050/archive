@@ -1,27 +1,21 @@
 ---
+published: true
 organization_id: '2016226'
 year_submitted: 2016
-organization_name: The National Wildlife Federation
-organization_website: www.nwf.org
-ein: ''
-project_image_2: 3933038065741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102250'
+challenge_url: >-
+  https://challenge.la2050.org/entry/help-create-schoolyard-habitats-for-people-and-wildlife-in-la!
 title: Help Create Schoolyard Habitats for People and Wildlife in LA!
-organization_name_2: The National Wildlife Federation
-organization_activity: >-
-  The National Wildlife Federation is a voice for wildlife, dedicated to
-  protecting wildlife and habitat and inspiring the future generation of
-  conservationists.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
-project_video: 'https://www.youtube.com/embed/1lv9lN3FZUw?rel=0&amp;showinfo=0'
 project_summary: >-
   Transforming LA schoolyards into critical habitat so wildlife, students and
   the whole community can thrive
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
+project_video: 'https://www.youtube.com/embed/1lv9lN3FZUw?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'Los Angeles Unified School District, Mia Lehrer + Associates'
-project_areas:
-  - LAUSD
 project_measure: >-
   Success will be defined by our ability to positively impact Los Angeles' green
   spaces, wildlife and avenues for citizens to engage with nature.  Success will
@@ -62,6 +56,24 @@ project_impact: >-
   ["Waterways","Exposure to air toxins","Self-sufficiency","Local
   water","Resilient communities","Prevalence of adverse childhood
   experiences","Walk/bike/transit score"]
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Local water
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+  - Walk/bike/transit score
+project_proposal_description: >-
+  Working in partnership with LAUSD and Mia Lehrer + Associates, the National
+  Wildlife Federation's California team will provide seed funding, expertise and
+  curriculum to 1 school in each of the 6 LAUSD districts to transform their
+  current grounds into a urban wildlife habitat.  This space will support a
+  healthy ecosystem for the community by increasing habitat for native animals
+  like butterflies, bees, birds and also provide a living laboratory that
+  enhances STEM learning for students in the city
+project_areas:
+  - LAUSD
 project_proposal_best_place: >-
   Schoolyard Habitats projects will help make LA the best place to live because
   the Federation and our partners will provide direct, on the ground support to
@@ -108,27 +120,7 @@ project_proposal_best_place: >-
   environmentally literate citizen contributors through hands-on, experiential,
   and project based learning that turns the school buildings and grounds into
   true learning laboratories.
-challenge_url: >-
-  https://challenge.la2050.org/entry/help-create-schoolyard-habitats-for-people-and-wildlife-in-la!
-empty_column_1: ''
-project_proposal_description: >-
-  Working in partnership with LAUSD and Mia Lehrer + Associates, the National
-  Wildlife Federation's California team will provide seed funding, expertise and
-  curriculum to 1 school in each of the 6 LAUSD districts to transform their
-  current grounds into a urban wildlife habitat.  This space will support a
-  healthy ecosystem for the community by increasing habitat for native animals
-  like butterflies, bees, birds and also provide a living laboratory that
-  enhances STEM learning for students in the city
-project_proposal_impact:
-  - Waterways
-  - Exposure to air toxins
-  - Self-sufficiency
-  - Local water
-  - Resilient communities
-  - Prevalence of adverse childhood experiences
-  - Walk/bike/transit score
-category: live
-body_class: lime
-published: true
+organization_name: The National Wildlife Federation
+organization_website: www.nwf.org
 
 ---

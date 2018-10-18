@@ -1,33 +1,24 @@
 ---
+published: true
 organization_id: '2016229'
 year_submitted: 2016
-organization_name: The Pedagogical Institute of Los Angeles
-organization_website: www.thinkwithus.org
-ein: ''
-project_image_2: 1467124065741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102253'
+challenge_url: >-
+  https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
 title: >-
   Collaborative Teacher Project: igniting curiosity through innovative
   classrooms & teacher mentoring
-organization_name_2: The Pedagogical Institute of Los Angeles
-organization_activity: >-
-  The Pedagogical Institute promotes the exchange of ideas, research and
-  inspiration amongst early childhood educators throughout the world with the
-  goal of providing quality education to ALL children.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
-project_video: 'https://www.youtube.com/embed/3wrDCMSLScc?rel=0&amp;showinfo=0'
 project_summary: >-
   The Collaborative Teacher Project provides on-site teacher mentoring and
   innovative classroom design to support early childhood educators working in
   underserved public schools.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
+project_video: 'https://www.youtube.com/embed/3wrDCMSLScc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - LAUSD
 project_measure: >-
   The Pedagogical Institute’s evaluation tools for this Collaborative Teacher
   Project measure the shift away from the traditional academic pedagogy used now
@@ -68,6 +59,21 @@ project_description: >-
   our mentoring project to 4 more at-risk LA schools by the end of the 2017-18
   school year.
 project_impact: '["Early education"]'
+project_proposal_impact:
+  - Early education
+project_proposal_description: >-
+  High quality education starts with teachers who have specialized training in
+  early education and access to engaging and thought provoking learning
+  materials. Our goal is to bring these resources to underprivileged communities
+  who lack both. We are piloting our program at 4 LAUSD Title 1 sites and hope
+  to extend our support of these classrooms through May 2017, as well as expand
+  our mentoring project to 4 more at-risk LA schools by the end of the 2017-18
+  school year.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - LAUSD
 project_proposal_best_place: >-
   While LA is rich in diversity, a great disparity exists between the early
   education offered in middle and upper-socio-economic communities and those in
@@ -111,21 +117,7 @@ project_proposal_best_place: >-
   level of quality it takes to really make a difference! With the help of 2050,
   LA can lead the way in ensuring that young children are curious, engaged
   learners.
-challenge_url: >-
-  https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
-empty_column_1: ''
-project_proposal_description: >-
-  High quality education starts with teachers who have specialized training in
-  early education and access to engaging and thought provoking learning
-  materials. Our goal is to bring these resources to underprivileged communities
-  who lack both. We are piloting our program at 4 LAUSD Title 1 sites and hope
-  to extend our support of these classrooms through May 2017, as well as expand
-  our mentoring project to 4 more at-risk LA schools by the end of the 2017-18
-  school year.
-project_proposal_impact:
-  - Early education
-category: learn
-body_class: blueberry
-published: true
+organization_name: The Pedagogical Institute of Los Angeles
+organization_website: www.thinkwithus.org
 
 ---

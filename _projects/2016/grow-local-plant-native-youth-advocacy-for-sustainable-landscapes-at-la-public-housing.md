@@ -1,32 +1,26 @@
 ---
+published: true
 organization_id: '2016236'
 year_submitted: 2016
-organization_name: Theodore Payne Foundation for Wild Flower and Native Plants
-organization_website: theodorepayne.org
-ein: '956095398'
-project_image_2: 3729564165741-team89.jpg
+category: live
+body_class: lime
 project_id: '6102261'
+challenge_url: >-
+  https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
 title: >-
   Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
   Public Housing 
-organization_name_2: Theodore Payne Foundation for Wild Flower and Native Plants
-organization_activity: >-
-  We rewild Los Angeles by bringing native plants back into the city, creating
-  habitat that supports local ecosystems, and helping people fall in love with
-  our shared natural heritage.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
-project_video: ''
 project_summary: >-
   Grow Local: Plant Native! Theodore Payne Foundation, LA Housing Authority and
   Boys & Girls Clubs of the LA Harbor partner to reshape LA for a sustainable
   future, lush with native plants for all.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Housing Authority of the City of Los Angeles and Boys & Girls Clubs of the Los
   Angeles Harbor – POLA
-project_areas:
-  - South Bay
 project_measure: >-
   Objective: Train Rancho San Pedro staff 
 
@@ -90,6 +84,22 @@ project_description: >-
 project_impact: >-
   ["Waterways","Exposure to air toxins","Local water","Resilient
   communities","Tree canopy cover","Walk/bike/transit score"]
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+  - Walk/bike/transit score
+project_proposal_description: >-
+  By bringing beautiful and sustainable native plant landscapes to Los Angeles
+  public housing, Grow Local: Plant Native will engage residents and staff in
+  making long-term decisions about the future of LA and their own lives. Public
+  housing staff will design and install native plant gardens. Youth will be
+  hired to learn about native plant horticulture and communications strategies
+  in order to create a marketing campaign to shape their communities future.
+project_areas:
+  - South Bay
 project_proposal_best_place: >-
   It all starts with water. In this fifth year of drought, the urgent need to
   save water is on everyone’s mind. From local utilities to state government,
@@ -174,25 +184,7 @@ project_proposal_best_place: >-
   invite people to go outside or take a walk. In the face of climate change and
   an uncertain economic outlook, converting turf to resilient native plant
   landscapes will allow public housing resources to be used on other priorities.
-challenge_url: >-
-  https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
-empty_column_1: ''
-project_proposal_description: >-
-  By bringing beautiful and sustainable native plant landscapes to Los Angeles
-  public housing, Grow Local: Plant Native will engage residents and staff in
-  making long-term decisions about the future of LA and their own lives. Public
-  housing staff will design and install native plant gardens. Youth will be
-  hired to learn about native plant horticulture and communications strategies
-  in order to create a marketing campaign to shape their communities future.
-project_proposal_impact:
-  - Waterways
-  - Exposure to air toxins
-  - Local water
-  - Resilient communities
-  - Tree canopy cover
-  - Walk/bike/transit score
-category: live
-body_class: lime
-published: true
+organization_name: Theodore Payne Foundation for Wild Flower and Native Plants
+organization_website: theodorepayne.org
 
 ---

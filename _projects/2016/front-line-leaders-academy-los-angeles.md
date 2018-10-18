@@ -1,28 +1,21 @@
 ---
+published: true
 organization_id: '2016169'
 year_submitted: 2016
-organization_name: People For the American Way Foundation
-organization_website: yeonetwork.org/our-work/front-line-leaders-academy
-ein: '133065716'
-project_image_2: 8636309165741-team90.JPG
+category: connect
+body_class: tangerine
 project_id: '6102182'
+challenge_url: 'https://challenge.la2050.org/entry/front-line-leaders-academy-–-los-angeles'
 title: Front Line Leaders Academy – Los Angeles
-organization_name_2: People For the American Way Foundation
-organization_activity: >-
-  PFAW Foundation protects constitutional values under attack from the Right and
-  defends the values that honor free speech, religious liberty, equal
-  opportunity and equal justice for all.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
-project_video: 'https://www.youtube.com/embed/t9dVCR59w60?rel=0&amp;showinfo=0'
 project_summary: >-
   FLLA provides values-based training to young people seeking social change with
   a vision to create a system of truly representative government that gives
   voice for youth and marginalized communities.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
+project_video: 'https://www.youtube.com/embed/t9dVCR59w60?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: N/A
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   FLLA LA has numerous measurable deliverable outcomes, the first being
   recruiting a class of 15-20 Fellows for the next cycle of FLLA LA. PFAW
@@ -60,6 +53,21 @@ project_description: >-
 project_impact: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism","Voting rates"]
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Voting rates
+project_proposal_description: >-
+  Building on a successful two-year pilot, Front Line Leaders Academy will
+  recruit 15-20 young people who are seeking positive social change but are
+  underrepresented in local leadership - such as women, people of color, and
+  LGBTQ youth. Fellows participate in four three-day weekend trainings over the
+  course of the six months to cover a wide range of skills and tactics. By
+  graduation Fellows will have developed a wide range of organizing skills that
+  will help them to be effective local leaders.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   Front Line Leaders Academy  Los Angeles (FLLA LA) will train 15-20 young
   leaders dedicated to creating lasting change in their communities throughout
@@ -121,23 +129,7 @@ project_proposal_best_place: >-
   - Huntington Park Health and Education Commission
 
   - City of Walnut Mount San Antonio College Development Task Force
-challenge_url: 'https://challenge.la2050.org/entry/front-line-leaders-academy-–-los-angeles'
-empty_column_1: ''
-project_proposal_description: >-
-  Building on a successful two-year pilot, Front Line Leaders Academy will
-  recruit 15-20 young people who are seeking positive social change but are
-  underrepresented in local leadership - such as women, people of color, and
-  LGBTQ youth. Fellows participate in four three-day weekend trainings over the
-  course of the six months to cover a wide range of skills and tactics. By
-  graduation Fellows will have developed a wide range of organizing skills that
-  will help them to be effective local leaders.
-project_proposal_impact:
-  - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Voting rates
-category: connect
-body_class: tangerine
-published: true
+organization_name: People For the American Way Foundation
+organization_website: yeonetwork.org/our-work/front-line-leaders-academy
 
 ---

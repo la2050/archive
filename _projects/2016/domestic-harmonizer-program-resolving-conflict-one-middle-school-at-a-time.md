@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016255'
 year_submitted: 2016
-organization_name: Whitaker Peace & Development Initiative (WPDI)
-organization_website: www.wpdi.org
-ein: ''
-project_image_2: 7692902065741-team91.png
+category: learn
+body_class: blueberry
 project_id: '6102282'
+challenge_url: >-
+  https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
 title: 'Domestic Harmonizer Program: resolving conflict, one middle school at a time'
-organization_name_2: Whitaker Peace & Development Initiative (WPDI)
-organization_activity: >-
-  Our mission is to help societies impacted by destructive conflicts transform
-  into safer and more prosperous communities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
-project_video: ''
 project_summary: >-
   The Domestic Harmonizer Program addresses youth violence, bullying, and
   conflict, and helps students transform conflicts from negative experiences to
   opportunities for positive change.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   - California State University, Dominguez Hills (CSUDH), - Andrew Carnegie
   Middle School, - Los Angeles Unified School District (LAUSD)
-project_areas:
-  - Gateway Cities
-  - LAUSD
 project_measure: "There will be an independent evaluation of the program using qualitative and quantitative measures.  \nThe primary data collection methods and procedures include:\n-\tSurveys (a pre-test administered at the beginning of the year followed by a post-test administered at the end of the year)\n-\tInterview administered questionnaires\n-\tOpen-ended interviews\n-\tFocus group discussions\n-\tClassroom observations\n\nSecondary data collection methods and procedures include:\n-\tAnalysis of data collected from documents, reports, and records made available to CSUDH and WPDI such as attendance records, graduation rates, overall schools, administration data\n-\tCase studies conducted by teachers at the school of select youth.  Each teacher implementing the curriculum will select two students to specifically observe over the course of the year, noting any changes or important interactions that were spurred by the curriculum.  These case study notes will be short observational reports done at five times over the course of the year for each student.  The students’ names will not be provided and this will be anonymous data collection."
 project_proposal_help:
   - 'Money '
@@ -44,6 +38,22 @@ project_impact: >-
   ["Proficiency in English and Language Arts and Math","Students’ perceived
   sense of safety at and on the way to school","Suspension and expulsion
   rates","Truancy rates in elementary and middle schools"]
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+project_proposal_description: >-
+  In a community such as Carson, and school district that has seen violence,
+  bullying, and behavioral issues among students, the Domestic Harmonizer
+  Program is boosting both learning, and promoting the prevention and peaceful
+  resolution of conflicts on campus between and among students. Students and
+  teachers at Andrew Carnegie Middle School are learning tools, skills and
+  processes to prevent and resolve conflicts, and to enhance youth leadership
+  and academics.
+project_areas:
+  - Gateway Cities
+  - LAUSD
 project_proposal_best_place: >-
   Los Angeles is already at the forefront of a number of social initiatives, and
   our Domestic Harmonizer Program is another example of our city’s immense
@@ -78,24 +88,7 @@ project_proposal_best_place: >-
   August 2016, and will continue until the end of the 2019 academic year. The
   program will impact the entire school (900+ students, 50+ educators) each year
   for the next three years.
-challenge_url: >-
-  https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
-empty_column_1: ''
-project_proposal_description: >-
-  In a community such as Carson, and school district that has seen violence,
-  bullying, and behavioral issues among students, the Domestic Harmonizer
-  Program is boosting both learning, and promoting the prevention and peaceful
-  resolution of conflicts on campus between and among students. Students and
-  teachers at Andrew Carnegie Middle School are learning tools, skills and
-  processes to prevent and resolve conflicts, and to enhance youth leadership
-  and academics.
-project_proposal_impact:
-  - Proficiency in English and Language Arts and Math
-  - Students’ perceived sense of safety at and on the way to school
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-category: learn
-body_class: blueberry
-published: true
+organization_name: Whitaker Peace & Development Initiative (WPDI)
+organization_website: www.wpdi.org
 
 ---

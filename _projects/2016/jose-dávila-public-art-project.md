@@ -1,24 +1,19 @@
 ---
+published: true
 organization_id: '2016126'
 year_submitted: 2016
-organization_name: LAND (Los Angeles Nomadic Division)
-organization_website: www.nomadicdivision.org
-ein: ''
-project_image_2: 3334798155741-team90.jpg
+category: create
+body_class: banana
 project_id: '6102126'
+challenge_url: 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
 title: Jose Dávila Public Art Project
-organization_name_2: LAND (Los Angeles Nomadic Division)
-organization_activity: >-
-  LAND presents museum-quality contemporary art for broad audiences to encounter
-  in their everyday lives, enabling artists to work in nontraditional sites,
-  expanding their creative practice & audience.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
-project_video: ''
 project_summary: >-
   LAND creates free opportunities for residents to engage with contemporary art
   in public spaces in over 20 LA neighborhoods by commissioning a Jose Dávila
   sculpture and presenting community-led events.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Jose Dávila’s project will be presented as part of the Getty Foundation’s
@@ -28,14 +23,6 @@ project_collaborators: >-
   the sculpture: University Elementary School, La Brea Tar Pits, Barnsdall Park,
   Los Angeles River, Downtown Los Angeles Public Library, and the Santa Monica
   Pier, among others.
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Public and media feedback on the project will indicate success within a given
   community for each sculptural piece installed. We project to achieve 100%
@@ -83,6 +70,29 @@ project_impact: >-
   ["Arts establishments","Employment in the creative industries","Gini
   coefficient","Jobs per capita","Measures of cultural and global economic
   influence (“soft power”)","Minority- and women-owned firms"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+project_proposal_description: >-
+  LA residents will have the opportunity to gather and playfully interact with a
+  concrete sculpture that will break apart and slowly migrate to diverse public
+  locales around the city. LAND, Dávila, and community members will create
+  ceremonious public events for the sculpture’s movement, inspired by each
+  neighborhood and its residents. The pieces will finally return to its original
+  location and form in the end – showing the history of its geography and
+  community experiences in its modified shape.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   LAND enables artists to create neighborhood-based work and take his/her studio
   practice outside of the studio and into the community as a way to engage with
@@ -131,25 +141,7 @@ project_proposal_best_place: >-
   Furthermore, the transformation of the sculpture and the artwork’s
   neighborhood impact will be documented and photographed in a bilingual
   publication.
-challenge_url: 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
-empty_column_1: ''
-project_proposal_description: >-
-  LA residents will have the opportunity to gather and playfully interact with a
-  concrete sculpture that will break apart and slowly migrate to diverse public
-  locales around the city. LAND, Dávila, and community members will create
-  ceremonious public events for the sculpture’s movement, inspired by each
-  neighborhood and its residents. The pieces will finally return to its original
-  location and form in the end – showing the history of its geography and
-  community experiences in its modified shape.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Gini coefficient
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-category: create
-body_class: banana
-published: true
+organization_name: LAND (Los Angeles Nomadic Division)
+organization_website: www.nomadicdivision.org
 
 ---

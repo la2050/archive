@@ -1,42 +1,28 @@
 ---
+published: true
 organization_id: '2016097'
 year_submitted: 2016
-organization_name: Healthy Living Productions
-organization_website: www.healthylivingprod.org
-ein: ''
-project_image_2: 0271131194741-team91.JPG
+category: live
+body_class: lime
 project_id: '6102089'
+challenge_url: >-
+  https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
 title: >-
   We're creating Doctors' Orders, a video series to help LA become proactive
   about health and wellness
-organization_name_2: Healthy Living Productions
-organization_activity: >-
-  We believe proactive health care education can save lives.  We deliver
-  resources for the prevention, detection and management of the major health
-  conditions that people of Los Angeles face.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
-project_video: 'https://www.youtube.com/embed/R1IuTSQQ9PY?rel=0&amp;showinfo=0'
 project_summary: >-
   Doctors' Orders is a powerful new video series for Los Angeles that will
   educate on diseases, preventative care and living a healthy lifestyle. 
   Because proactive health care saves lives!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
+project_video: 'https://www.youtube.com/embed/R1IuTSQQ9PY?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   The City of Hope, Methodist Hospital of Southern California, Torrance Memorial
   Medical Center, The University of Southern California, UCLA, Senior Concerns
   of the Conejo Valley, The American Red Cross, The Barbara Davis Center for
   Diabetes, The Race to Erase MS, Congress Medical, The Arcadia Fire Department
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   The first measure of success is to complete the 13-episode series and
   distribute it.  We hope to get a broadcast contract with PBS so that funding
@@ -61,6 +47,28 @@ project_description: >-
 project_impact: >-
   ["Obesity","Residents receiving coordinated healthcare services","Mental
   illness"]
+project_proposal_impact:
+  - Obesity
+  - Residents receiving coordinated healthcare services
+  - Mental illness
+project_proposal_description: >-
+  Doctors' Orders is an innovative video series that features physicians,
+  patients and researchers educating on health conditions including obesity,
+  heart disease and mental illness.  We have completed the first four half-hour
+  episodes and will make the series available to the county health departments
+  in Los Angeles so that while patients are in waiting rooms they can learn
+  about the link between obesity and cancer, how to spot depression in a loved
+  one, and what to do for a diabetic relative.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Doctors’ Orders has the ability to impact millions who LIVE in LA by
   encouraging and teaching them to live healthier lives.  
@@ -93,23 +101,7 @@ project_proposal_best_place: >-
   each field so that our citizens have the knowledge and the courage to be
   proactive about their health and less afraid.  Once the series is completed,
   we hope to get a spot on PBS to expand its reach and impact.
-challenge_url: >-
-  https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
-empty_column_1: ''
-project_proposal_description: >-
-  Doctors' Orders is an innovative video series that features physicians,
-  patients and researchers educating on health conditions including obesity,
-  heart disease and mental illness.  We have completed the first four half-hour
-  episodes and will make the series available to the county health departments
-  in Los Angeles so that while patients are in waiting rooms they can learn
-  about the link between obesity and cancer, how to spot depression in a loved
-  one, and what to do for a diabetic relative.
-project_proposal_impact:
-  - Obesity
-  - Residents receiving coordinated healthcare services
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: Healthy Living Productions
+organization_website: www.healthylivingprod.org
 
 ---

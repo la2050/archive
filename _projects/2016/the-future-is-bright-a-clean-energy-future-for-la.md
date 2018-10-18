@@ -1,30 +1,21 @@
 ---
+published: true
 organization_id: '2016232'
 year_submitted: 2016
-organization_name: The Sierra Club Foundation
-organization_website: www.sierraclubfoundation.org
-ein: ''
-project_image_2: 6783094165741-team89.jpg
+category: live
+body_class: lime
 project_id: '6102257'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-future-is-bright!-a-clean-energy-future-for-la
 title: The Future is Bright! A Clean Energy Future for LA
-organization_name_2: The Sierra Club Foundation
-organization_activity: >-
-  We educate and enlist humanity to explore, enjoy, and protect the wild places
-  of the earth and to practice and promote the responsible use of the earth's
-  ecosystems and resources.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
-project_video: 'https://www.youtube.com/embed/ZqcKcMqk1lM?rel=0&amp;showinfo=0'
 project_summary: >-
   We’re fighting for an equitable transition to 100 percent clean energy across
   Los Angeles and all of California!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
+project_video: 'https://www.youtube.com/embed/ZqcKcMqk1lM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
 project_measure: >-
   Through recent advocacy, Los Angeles is now developing a plan for 100 percent
   clean energy. Our campaign’s success will be assessed based on whether DWP has
@@ -63,6 +54,21 @@ project_description: >-
   healthy and safe air, equitable economic growth, and resilient communities
   safe from the worst potential damages wrought by climate change.
 project_impact: '["Exposure to air toxins","Self-sufficiency","Resilient communities"]'
+project_proposal_impact:
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Resilient communities
+project_proposal_description: >-
+  Our goal is to phase out fossil fuels and support an equitable transition to
+  100 percent clean energy in Los Angeles. Our vision for 100 percent clean
+  energy is premised on three pillars of quality of life now and in the future:
+  healthy and safe air, equitable economic growth, and resilient communities
+  safe from the worst potential damages wrought by climate change.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
 project_proposal_best_place: >-
   Los Angeles is a leader in fighting climate change. From hotter heat waves and
   increased smog to drought and rising seas, Los Angeles will be acutely damaged
@@ -126,21 +132,7 @@ project_proposal_best_place: >-
   way, shifting from an energy system that damages our health and planet to a
   system that supports our health and climate while retooling our infrastructure
   and economy for the 21st century.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-future-is-bright!-a-clean-energy-future-for-la
-empty_column_1: ''
-project_proposal_description: >-
-  Our goal is to phase out fossil fuels and support an equitable transition to
-  100 percent clean energy in Los Angeles. Our vision for 100 percent clean
-  energy is premised on three pillars of quality of life now and in the future:
-  healthy and safe air, equitable economic growth, and resilient communities
-  safe from the worst potential damages wrought by climate change.
-project_proposal_impact:
-  - Exposure to air toxins
-  - Self-sufficiency
-  - Resilient communities
-category: live
-body_class: lime
-published: true
+organization_name: The Sierra Club Foundation
+organization_website: www.sierraclubfoundation.org
 
 ---

@@ -1,26 +1,21 @@
 ---
+published: true
 organization_id: '2016101'
 year_submitted: 2016
-organization_name: Hollywood Arts Council
-organization_website: hollywoodartscouncil.org
-ein: ''
-project_image_2: 2236943265741-team89.jpg
+category: learn
+body_class: blueberry
 project_id: '6102093'
+challenge_url: >-
+  https://challenge.la2050.org/entry/save-the-art-programs-in-the-art-capitals-schools!
 title: Save the Art Programs in the Art Capital's Schools!
-organization_name_2: Hollywood Arts Council
-organization_activity: >-
-  Project S.O.A.R. is an after-school and in-class arts program serving children
-  in Hollywood’s public elementary schools.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
-project_video: ''
 project_summary: >-
   As an art capital of the world, Hollywood needs and deserves more art programs
   for the children in its LAUSD schools.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: 'Cheremoya Elementary, Grant Elementary, and Melrose Elementary'
-project_areas:
-  - Central LA
 project_measure: >-
   Knowing that each child is given the art supplies and teachers for every
   program will ensure our success as well as keeping them out of trouble.
@@ -40,6 +35,24 @@ project_impact: >-
   and Math","Early education","Students’ perceived sense of safety at and on the
   way to school","Suspension and expulsion rates","Truancy rates in elementary
   and middle schools","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  'In the same city celebrated as the epicenter for film and music — where a
+  gilded entertainment industry churns and draws talent from around the world —
+  a vast majority of schools don't have adequate arts programs.' (LA Times) This
+  grant will ensure the students at three local elementary schools experience
+  the joy of creative movement, photography or visual arts workshops provided
+  free of charge by the Hollywood Arts Council. We will also be able to expand
+  this program in other schools.
+project_areas:
+  - Central LA
 project_proposal_best_place: >-
   Project S.O.A.R. (Students Overcoming All Risks) is the Hollywood Arts
   Council’s program providing inclass arts workshops. The Hollywood Arts Council
@@ -64,27 +77,7 @@ project_proposal_best_place: >-
   charities that expands each child's creativity with these programs. These
   programs pinpoint the future of LA's creators and collaborators and help them
   flourish in their craft.
-challenge_url: >-
-  https://challenge.la2050.org/entry/save-the-art-programs-in-the-art-capitals-schools!
-empty_column_1: ''
-project_proposal_description: >-
-  'In the same city celebrated as the epicenter for film and music — where a
-  gilded entertainment industry churns and draws talent from around the world —
-  a vast majority of schools don't have adequate arts programs.' (LA Times) This
-  grant will ensure the students at three local elementary schools experience
-  the joy of creative movement, photography or visual arts workshops provided
-  free of charge by the Hollywood Arts Council. We will also be able to expand
-  this program in other schools.
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Students’ perceived sense of safety at and on the way to school
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Hollywood Arts Council
+organization_website: hollywoodartscouncil.org
 
 ---

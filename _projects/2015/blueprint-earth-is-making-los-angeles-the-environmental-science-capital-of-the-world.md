@@ -1,11 +1,13 @@
 ---
+published: true
+organization_id: '2015018'
+year_submitted: 2015
+category: create
+body_class: banana
 project_id: '5102031'
 title: >-
   Blueprint Earth is Making Los Angeles the Environmental Science Capital of the
   World
-organization_id: '2015018'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   Blueprint Earth’s vision is to transform Los Angeles into the global leader in
   environmental science and technology innovation by 2050.  We are creating a
@@ -13,8 +15,177 @@ project_summary: >-
   well as drive research funding, private investments, and environmental
   startups. We want the name "Los Angeles" to be to the environmental science
   world what "Hollywood" is to the film world by 2050.
+project_image: 'https://img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/H-S2LiQcO00'
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
+maker_answers:
+  'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  Organization(s) name(s): Blueprint Earth
+  Organization(s) mailing address(es): '340 S Lemon Ave #7879, Walnut, CA 91789'
+  Organization(s) website(s): www.blueprintearth.org
+  Organization(s) twitter handle(s): 'https://twitter.com/BlueprintEarth'
+  Organization(s) facebook handle(s): www.facebook.com/blueprintearth
+  Organization(s) instagram handle(s): www.instagram.com/blueprintearth
+  Please share the direct link for voters to sign up for your newsletter(s): 'http://blueprintearth.org/newsletter'
+  EIN (for each organization): 46-3558470
+  'Describe your organization(s): Non-Profit': '1'
+  'Describe your organization(s): For-profit': '0'
+  'Describe your organization(s): Government': '0'
+  'Describe your organization(s): Other': '0'
+  'Describe your organization(s): Specifics': ''
+  'In one sentence, please describe what your organization does': >-
+    Blueprint Earth’s mission is to preserve Earth's environments through
+    scientific research and education.
+  'In one to three sentences, please describe your proposal.': >-
+    Blueprint Earth’s vision is to transform Los Angeles into the global leader
+    in environmental science and technology innovation by 2050.  We are creating
+    a culture of curiosity and innovation that will grow and retain top talent,
+    as well as drive research funding, private investments, and environmental
+    startups. We want the name "Los Angeles" to be to the environmental science
+    world what "Hollywood" is to the film world by 2050.
+  Please write a sample tweet to describe your submission.: >-
+    @BlueprintEarth is creating L.A.’s vibrant future as the world environmental
+    science capitol through #MyLA2050
+  LA is the best place to LEARN: '1'
+  LA is the best place to CONNECT: '1'
+  LA is the best place to PLAY: '0'
+  LA is the healthiest place to LIVE: '1'
+  Where will you be working? Central LA: '1'
+  Where will you be working? East LA: '1'
+  Where will you be working? San Gabriel Valley: '1'
+  Where will you be working? San Fernando Valley: '1'
+  Where will you be working? South LA: '1'
+  Where will you be working? Westside: '1'
+  Where will you be working? South Bay: '1'
+  Where will you be working? Antelope Valley: '1'
+  Where will you be working? County of Los Angeles (countywide): '1'
+  Where will you be working? City of Los Angeles (citywide): '1'
+  Where will you be working? LAUSD: '1'
+  Where will you be working? Other: '0'
+  Where will you be working? Specifics: ''
+  How do you plan to use these resources to make change? Conduct research: '1'
+  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
+  How do you plan to use these resources to make change? Implement a pilot or new project: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Twitter
+  How do you plan to use these resources to make change? Implement and track policy: '0'
+  How do you plan to use these resources to make change? Other: '0'
+  How do you plan to use these resources to make change? Specifics: ''
+  How will your proposal improve the following “Create” metrics? Employment in the creative industries: '0'
+  How will your proposal improve the following “Create” metrics? Arts establishments per capita: '0'
+  How will your proposal improve the following “Create” metrics? Concentration of manufacturing activity in LA: '1'
+  How will your proposal improve the following “Create” metrics? Federal research grant funding: '1'
+  How will your proposal improve the following “Create” metrics? Patents per capital: '1'
+  How will your proposal improve the following “Create” metrics? Jobs per capita: '1'
+  How will your proposal improve the following “Create” metrics? Minority- and women-owned firms: '1'
+  How will your proposal improve the following “Create” metrics? Gini coefficient: '1'
+  How will your proposal improve the following “Create” metrics? Number of high growth startups: '1'
+  How will your proposal improve the following “Create” metrics? Venture capital investment: '1'
+  How will your proposal improve the following “Create” metrics? Measures of cultural and global economic influence (“soft power”) (Dream Metric): '1'
+  How will your proposal improve the following “Create” metrics? Recruiting and retention rates for local higher education institutions (Dream Metric): '1'
+  How will your proposal improve the following “Create” metrics? Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric): '1'
+  How will your proposal improve the following “Create” metrics? Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric): '0'
+  Describe in greater detail how you will make LA the best place to create.: "Blueprint Earth makes L.A. the best place to create by building, growing, and sustaining a culture of curiosity. Blueprint Earth is creating the foundation for Los Angeles to become the world leader in environmental science and technology research by 2050. The Blueprint First program reaches elementary students early. The Blueprint Labs program creates opportunities for older students. The Mission Mojave project creates “blueprints” of our planet’s environments by engaging scientists and engineers. Blueprint Earth is creating the perfect atmosphere for new technologies, new research, and new types of manufacturing and production.\r\n\r\nBlueprint Earth gives traditionally under-represented students access to positive science role models. The Blueprint First science literacy pilot program at Haddon Avenue Elementary in Pacoima starts this fall by connecting real scientists with 225 students. The scientists and students work together to create memorable hands-on science experiments. This helps students discover the world while generating enthusiasm for learning about the planet.\r\n\r\nBlueprint Earth is creating an environmental science laboratory for Angelenos in high school and college to learn real skills that will prepare them for vocational lab jobs, or for work or higher education after earning a degree. The Blueprint Labs program will work with private companies, universities, and the government to study environments, and will create paid jobs for young adults in Los Angeles.\r\n\r\nFor the future of the entire city of Los Angeles, Blueprint Earth is creating teams of scientists and engineers working together to understand the environment in new ways. Our signature project, Mission Mojave, supports these teams as they create environmental blueprints, which will help protect, preserve, and restore damaged environments. This type of collaboration between professionals leads to revolutionary discoveries and innovation.\r\n\r\nBlueprint Earth’s programs are creating a culture of curiosity focused on environmental science in Los Angeles. Blueprint First creates environment passion in our youngest citizens. Blueprint Labs creates real career skills for young adults. Finally, Mission Mojave creates real knowledge about how the planet functions, and opens possibilities for exciting discoveries and creative solutions to environmental problems facing Los Angeles in the 21st century.\r\n"
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Network/relationship support
+    - Quality improvement research
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement a pilot or new project
+    - Expand a pilot or a program
+    - Mobilize for systems change
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - LAUSD
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Create” metrics?:
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Patents per capital
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Number of high growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates for local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "The major challenge Blueprint Earth anticipates is with communication. Delivering the organization’s message to the number of people required for optimum engagement requires significant grassroots effort. Blueprint Earth wants Los Angeles to be to the environmental science world what Hollywood is to the film world. That level of name recognition requires strategic message distribution.\r\n\r\nThis challenge will be overcome by word-of-mouth campaigns, media coverage, publication of research results, presentations at professional conferences, appearances at schools, public lectures to community groups, and by social media campaigns. The work needs to be publicized in media-friendly ways to keep the science accessible. Careful messaging planning will ensure that Blueprint Earth can build on early success in raising awareness. In Blueprint Earth’s first two years of operation, the organization was featured in numerous publications, including The Huffington Post and Popular Science magazine."
+  Please explain how you will evaluate your work.: "The Blueprint First program will require evaluation of whether the program activities proceed as planned and produce the expected results. Evaluations will occur during each academic year using short student knowledge questionnaires both pre and post each Blueprint First session. Classroom teachers will be surveyed throughout the year to assess program success.\r\n\r\nThe participant experience and work of Blueprint Labs will be evaluated using customer and participant case studies, customer satisfaction surveys, participant demographic surveys, and documentation reviews to measure customer satisfaction and the overall program benefit.\r\n\r\nMission Mojave is evaluated through participant interviews, demographic surveys, observation, and case studies. Success is measured by invitations to present at professional science conferences and publication in scientific journals. The final measure of Mission Mojave’s success is the replication of the natural study environment in a controlled setting."
+  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Blueprint Earth is the catalyst for Los Angeles to become the world leader in environmental science and technology. No other organization is attempting this type of work from a holistic, community-focused perspective. This work touches the environment, science, and education and has tangible impact on Los Angeles. Blueprint Earth’s programs have served 76% females, 56% non-white minorities, and 60% of participants come from low-income households, groups traditionally under-represented in science.\r\n\r\nCurrently, there are no other organizations approaching environmental science work this way. Some programs focus on individual fields, like biology. Others are designed to conserve a particular environment, like a single watershed. Still others are geared toward species conservation. Organizations like the National Ecological Observatory Network, the Critical Zone Observatories, and Biosphere2 have superficial similarity to Blueprint Earth, but discussion with these organizations indicates Blueprint Earth’s approach is both distinctive and unique. Additionally, Blueprint Earth was recognized as groundbreaking in Popular Science magazine’s May 2015 issue.\r\n\r\nThe Mission Mojave program has included scientists and students from 11 universities and 20 private companies in California. These science teams have gathered 1,500 unique observations about the Mojave Desert. This work spans geology, hydrology, biology, and atmospheric science. Collaboration between scientific disciplines is currently both infrequent and highly encouraged by major grantmaking organizations like the National Science Foundation. Blueprint Earth’s work fills a gap in the current approach to environmental science.\r\n\r\nBlueprint Earth focuses on creating environmental science opportunities for Angelenos from childhood through their professional careers. Educational programs are often designed to train teachers, or modify science curriculum. Blueprint First brings diverse, culturally relevant scientists into the classroom, allowing students the opportunity to work with positive role models. Blueprint Labs creates a working environmental science lab that will serve as a training center for young scientists and lab technicians to gain real career skills. These job opportunities for young science professionals are currently rare. Mission Mojave’s environmental research is unique in that it creates a big-picture view of environments that are too often only looked at in a very narrow, specialized way."
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
+    Blueprint Earth is currently partnered with Haddon Avenue Elementary School
+    in Pacoima and the California State University, Los Angeles Hydrogeology
+    Student Union. Neither of the partners will receive any of the $100,000
+    grant award directly. A portion of the award money will go towards running
+    our science literacy pilot program at Haddon Avenue Elementary School, and a
+    small portion will go towards reimbursing members of the California State
+    University, Los Angeles Hydrogeology Student Union for travel expenses (gas
+    money) from their campus to Haddon during outreach activities.
+  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
+    Blueprint Earth anticipates program costs to be $495,000. Of that amount,
+    $395,000 will come from donations in kind as indicated in the detailed
+    budget breakdown. To date, operations have progressed with limited cash flow
+    and reliance on volunteers to deliver the majority of program services. The
+    Blueprint Earth mission resonates with the demographic of the core
+    volunteers who typically range from 18 to 40 years of age. This has made the
+    previous two years of growth a success. With $100,000 in funding, Blueprint
+    Earth will be able to accomplish program goals that would otherwise cost
+    $395,000. Historically, funds raised have been approximately $20,000
+    annually, and the organization has delivered six times that value using
+    donations in kind. The impact to the community has been a value of $120,000
+    per year. $100,000 in funds from LA 2050 would allow Blueprint Earth to
+    accelerate growth and begin a path to sustainability by creating a stream of
+    organizational revenue from the Blueprint Labs program.
+  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Grant funding will be applied to support three programs that contain the full cycle of making L.A. the leader in environmental science and technology.\r\n\r\n1) Blueprint First = $30,000\r\n-Improves science literary for 1,000 students in 4 elementary schools\r\n\r\n1a - Classroom Materials = $4,000\r\n1b - Transportation for Science Coaches = $6,000\r\n1c - Operations Manager Overseeing Program (0.15 FTE) = $12,000\r\n1d - T-Shirts for Youth Participants = $8,000\r\n1e - Science Coaches = $139,000 (donation in kind)\r\n\r\n2) Blueprint Labs = $30,000\r\n-Creates lab to teach skills to young adults and build revenue stream to sustain future operations\r\n\r\n2a - Leasing Lab Space = $24,000\r\n2b - Installation of Mass Spectrometer = $3,000\r\n2c - Purchasing Startup Supplies = $2,000\r\n2d - City Permits and Other Fees = $1,000\r\n2e - Subject Matter Expert to Setup Lab = $6,000 (donation in kind)\r\n2f - Mass Spectrometer (previously donated) = $40,000 (donation in kind)\r\n\r\n3) Mission Mojave = $30,000\r\n-Accelerates environmental research and discovery, completes phase one of three phases for Mission Mojave program\r\n\r\n3a - Equipment = $1,500\r\n3b - Transportation / 4x4 Vehicle Rental = $4,000\r\n3c - Fuel Reimbursement = $4,000\r\n3d - Food and Lodging = $8,000\r\n3e - Supervisory Scientist Compensation = $12,500\r\n3f - Student Catalogers = $60,000 (donation in kind)\r\n\r\n4) Overhead Allocation = $10,000\r\n-Funds Executive Director and Accountant to perform evaluations of grant funding and program success\r\n\r\n4a - Executive Director Compensation (partial) = $4,000\r\n4b - Tracking Program Success and Progress = $2,000\r\n4c - Accountant and Office Manager (0.15 FTE) = $4,000\r\n4e - Board Members’ Organizational Support and Management = $150,000 (donation in kind)"
+  How do you plan to scale the success of your proposal?: "Successful implementation of Blueprint Labs will generate $250,000 in annual revenue. Students will receive compensation for hours worked, and after subtracting expenses, an estimated $50,000 in yearly profit will be available. All revenue generated by the lab will support the Blueprint First and Mission Mojave programs.\r\n\r\nLA 2050 funding will enable completion of Phase 1 of 3 for Mission Mojave. Phase 2 of Mission Mojave (blueprint creation) will be funded by Blueprint Labs revenue. Phase 3 of Mission Mojave (environmental replication) will remain, and strong individual and corporate giving programs are in the planning stage. Blueprint Earth is funded with support from Edison International, Qualcomm, Cadiz Ltd., and Healthy Souls. Funding for future work will be sought from current funders as well as new grantmakers. \r\n\r\nThe key to scaling and future projects (e.g., Mission Tundra, Mission Rainforest, etc.) is positioning Blueprint Labs as a source of sustainable revenue. The combination of individual donations, grants, and earned revenue will continue progress on blueprinting all of Earth’s environments with L.A. as the home base. The foundation Blueprint Earth is building in the diverse, resource-rich city of Los Angeles will place our city as the global leader in environmental science by 2050. A timeline follows.\r\n\r\n\r\n2016\r\n* Expand Blueprint First program to 5 schools (1,000+ students)\r\n* Create Blueprint Labs, a revenue-producing skills training lab\r\n* Complete Mission Mojave Phase 1\r\n* Begin Mission Mojave (Phase 2) by creating environmental blueprint from Phase 1 data\r\n\r\n2017\r\n* Blueprint First reaches 25 elementary schools (5,000+ students)\r\n* Complete Mission Mojave (Phase 2), publish draft blueprint of field study area\r\n* Blueprint Labs produces $250,000 in revenue, sustains programs with $50,000 profit\r\n* Begin Mission Mojave (Phase 3), recreating the study area within a controlled setting\r\n\r\n2018 – 2019 Maintain Programs\r\n\r\n2020\r\n* Complete Mission Mojave (Phase 3) replication of field study area\r\n* Begin Mission Tundra (Phase 1), a new study area\r\n\r\n2050\r\n* Blueprint First program is standard in LAUSD and area private schools\r\n* Los Angeles has grown environmental tech jobs, related high-growth startups and manufacturing initiatives, and is recognized as the global leader\r\n* Complete blueprinting of 10 environments from around the world\r\n* Create optimized environment for sustaining life in space (e.g., for Mars or Moon mission)"
+areas_impacted: ''
+partners: ''
 Please specify below: ''
-category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Blueprint Earth makes L.A. the best place to create by building, growing, and
   sustaining a culture of curiosity. Blueprint Earth is creating the foundation
@@ -165,611 +336,7 @@ How do you plan to scale the success of your proposal?: >-
    * Los Angeles has grown environmental tech jobs, related high-growth startups and manufacturing initiatives, and is recognized as the global leader
    * Complete blueprinting of 10 environments from around the world
    * Create optimized environment for sustaining life in space (e.g., for Mars or Moon mission)
-year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg'
-project_video: 'https://www.youtube.com/embed/H-S2LiQcO00'
 youtube_video_identifier: H-S2LiQcO00
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-maker_answers:
-  How did you hear about this challenge?: Twitter
-  'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Blueprint Earth
-  Organization(s) mailing address(es): '340 S Lemon Ave #7879, Walnut, CA 91789'
-  Organization(s) website(s): www.blueprintearth.org
-  Organization(s) twitter handle(s): 'https://twitter.com/BlueprintEarth'
-  Organization(s) facebook handle(s): www.facebook.com/blueprintearth
-  Organization(s) instagram handle(s): www.instagram.com/blueprintearth
-  Please share the direct link for voters to sign up for your newsletter(s): 'http://blueprintearth.org/newsletter'
-  EIN (for each organization): 46-3558470
-  'Describe your organization(s): Non-Profit': '1'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
-  'In one sentence, please describe what your organization does': >-
-    Blueprint Earth’s mission is to preserve Earth's environments through
-    scientific research and education.
-  'In one to three sentences, please describe your proposal.': >-
-    Blueprint Earth’s vision is to transform Los Angeles into the global leader
-    in environmental science and technology innovation by 2050.  We are creating
-    a culture of curiosity and innovation that will grow and retain top talent,
-    as well as drive research funding, private investments, and environmental
-    startups. We want the name "Los Angeles" to be to the environmental science
-    world what "Hollywood" is to the film world by 2050.
-  Please write a sample tweet to describe your submission.: >-
-    @BlueprintEarth is creating L.A.’s vibrant future as the world environmental
-    science capitol through #MyLA2050
-  LA is the best place to LEARN: '1'
-  LA is the best place to CONNECT: '1'
-  LA is the best place to PLAY: '0'
-  LA is the healthiest place to LIVE: '1'
-  Where will you be working? Central LA: '1'
-  Where will you be working? East LA: '1'
-  Where will you be working? San Gabriel Valley: '1'
-  Where will you be working? San Fernando Valley: '1'
-  Where will you be working? South LA: '1'
-  Where will you be working? Westside: '1'
-  Where will you be working? South Bay: '1'
-  Where will you be working? Antelope Valley: '1'
-  Where will you be working? County of Los Angeles (countywide): '1'
-  Where will you be working? City of Los Angeles (citywide): '1'
-  Where will you be working? LAUSD: '1'
-  Where will you be working? Other: '0'
-  Where will you be working? Specifics: ''
-  How do you plan to use these resources to make change? Conduct research: '1'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: ''
-  How will your proposal improve the following “Create” metrics? Employment in the creative industries: '0'
-  How will your proposal improve the following “Create” metrics? Arts establishments per capita: '0'
-  How will your proposal improve the following “Create” metrics? Concentration of manufacturing activity in LA: '1'
-  How will your proposal improve the following “Create” metrics? Federal research grant funding: '1'
-  How will your proposal improve the following “Create” metrics? Patents per capital: '1'
-  How will your proposal improve the following “Create” metrics? Jobs per capita: '1'
-  How will your proposal improve the following “Create” metrics? Minority- and women-owned firms: '1'
-  How will your proposal improve the following “Create” metrics? Gini coefficient: '1'
-  How will your proposal improve the following “Create” metrics? Number of high growth startups: '1'
-  How will your proposal improve the following “Create” metrics? Venture capital investment: '1'
-  How will your proposal improve the following “Create” metrics? Measures of cultural and global economic influence (“soft power”) (Dream Metric): '1'
-  How will your proposal improve the following “Create” metrics? Recruiting and retention rates for local higher education institutions (Dream Metric): '1'
-  How will your proposal improve the following “Create” metrics? Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric): '1'
-  How will your proposal improve the following “Create” metrics? Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric): '0'
-  Describe in greater detail how you will make LA the best place to create.: "Blueprint Earth makes L.A. the best place to create by building, growing, and sustaining a culture of curiosity. Blueprint Earth is creating the foundation for Los Angeles to become the world leader in environmental science and technology research by 2050. The Blueprint First program reaches elementary students early. The Blueprint Labs program creates opportunities for older students. The Mission Mojave project creates “blueprints” of our planet’s environments by engaging scientists and engineers. Blueprint Earth is creating the perfect atmosphere for new technologies, new research, and new types of manufacturing and production.\r\n\r\nBlueprint Earth gives traditionally under-represented students access to positive science role models. The Blueprint First science literacy pilot program at Haddon Avenue Elementary in Pacoima starts this fall by connecting real scientists with 225 students. The scientists and students work together to create memorable hands-on science experiments. This helps students discover the world while generating enthusiasm for learning about the planet.\r\n\r\nBlueprint Earth is creating an environmental science laboratory for Angelenos in high school and college to learn real skills that will prepare them for vocational lab jobs, or for work or higher education after earning a degree. The Blueprint Labs program will work with private companies, universities, and the government to study environments, and will create paid jobs for young adults in Los Angeles.\r\n\r\nFor the future of the entire city of Los Angeles, Blueprint Earth is creating teams of scientists and engineers working together to understand the environment in new ways. Our signature project, Mission Mojave, supports these teams as they create environmental blueprints, which will help protect, preserve, and restore damaged environments. This type of collaboration between professionals leads to revolutionary discoveries and innovation.\r\n\r\nBlueprint Earth’s programs are creating a culture of curiosity focused on environmental science in Los Angeles. Blueprint First creates environment passion in our youngest citizens. Blueprint Labs creates real career skills for young adults. Finally, Mission Mojave creates real knowledge about how the planet functions, and opens possibilities for exciting discoveries and creative solutions to environmental problems facing Los Angeles in the 21st century.\r\n"
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "The major challenge Blueprint Earth anticipates is with communication. Delivering the organization’s message to the number of people required for optimum engagement requires significant grassroots effort. Blueprint Earth wants Los Angeles to be to the environmental science world what Hollywood is to the film world. That level of name recognition requires strategic message distribution.\r\n\r\nThis challenge will be overcome by word-of-mouth campaigns, media coverage, publication of research results, presentations at professional conferences, appearances at schools, public lectures to community groups, and by social media campaigns. The work needs to be publicized in media-friendly ways to keep the science accessible. Careful messaging planning will ensure that Blueprint Earth can build on early success in raising awareness. In Blueprint Earth’s first two years of operation, the organization was featured in numerous publications, including The Huffington Post and Popular Science magazine."
-  Please explain how you will evaluate your work.: "The Blueprint First program will require evaluation of whether the program activities proceed as planned and produce the expected results. Evaluations will occur during each academic year using short student knowledge questionnaires both pre and post each Blueprint First session. Classroom teachers will be surveyed throughout the year to assess program success.\r\n\r\nThe participant experience and work of Blueprint Labs will be evaluated using customer and participant case studies, customer satisfaction surveys, participant demographic surveys, and documentation reviews to measure customer satisfaction and the overall program benefit.\r\n\r\nMission Mojave is evaluated through participant interviews, demographic surveys, observation, and case studies. Success is measured by invitations to present at professional science conferences and publication in scientific journals. The final measure of Mission Mojave’s success is the replication of the natural study environment in a controlled setting."
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Blueprint Earth is the catalyst for Los Angeles to become the world leader in environmental science and technology. No other organization is attempting this type of work from a holistic, community-focused perspective. This work touches the environment, science, and education and has tangible impact on Los Angeles. Blueprint Earth’s programs have served 76% females, 56% non-white minorities, and 60% of participants come from low-income households, groups traditionally under-represented in science.\r\n\r\nCurrently, there are no other organizations approaching environmental science work this way. Some programs focus on individual fields, like biology. Others are designed to conserve a particular environment, like a single watershed. Still others are geared toward species conservation. Organizations like the National Ecological Observatory Network, the Critical Zone Observatories, and Biosphere2 have superficial similarity to Blueprint Earth, but discussion with these organizations indicates Blueprint Earth’s approach is both distinctive and unique. Additionally, Blueprint Earth was recognized as groundbreaking in Popular Science magazine’s May 2015 issue.\r\n\r\nThe Mission Mojave program has included scientists and students from 11 universities and 20 private companies in California. These science teams have gathered 1,500 unique observations about the Mojave Desert. This work spans geology, hydrology, biology, and atmospheric science. Collaboration between scientific disciplines is currently both infrequent and highly encouraged by major grantmaking organizations like the National Science Foundation. Blueprint Earth’s work fills a gap in the current approach to environmental science.\r\n\r\nBlueprint Earth focuses on creating environmental science opportunities for Angelenos from childhood through their professional careers. Educational programs are often designed to train teachers, or modify science curriculum. Blueprint First brings diverse, culturally relevant scientists into the classroom, allowing students the opportunity to work with positive role models. Blueprint Labs creates a working environmental science lab that will serve as a training center for young scientists and lab technicians to gain real career skills. These job opportunities for young science professionals are currently rare. Mission Mojave’s environmental research is unique in that it creates a big-picture view of environments that are too often only looked at in a very narrow, specialized way."
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-    Blueprint Earth is currently partnered with Haddon Avenue Elementary School
-    in Pacoima and the California State University, Los Angeles Hydrogeology
-    Student Union. Neither of the partners will receive any of the $100,000
-    grant award directly. A portion of the award money will go towards running
-    our science literacy pilot program at Haddon Avenue Elementary School, and a
-    small portion will go towards reimbursing members of the California State
-    University, Los Angeles Hydrogeology Student Union for travel expenses (gas
-    money) from their campus to Haddon during outreach activities.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Blueprint Earth anticipates program costs to be $495,000. Of that amount,
-    $395,000 will come from donations in kind as indicated in the detailed
-    budget breakdown. To date, operations have progressed with limited cash flow
-    and reliance on volunteers to deliver the majority of program services. The
-    Blueprint Earth mission resonates with the demographic of the core
-    volunteers who typically range from 18 to 40 years of age. This has made the
-    previous two years of growth a success. With $100,000 in funding, Blueprint
-    Earth will be able to accomplish program goals that would otherwise cost
-    $395,000. Historically, funds raised have been approximately $20,000
-    annually, and the organization has delivered six times that value using
-    donations in kind. The impact to the community has been a value of $120,000
-    per year. $100,000 in funds from LA 2050 would allow Blueprint Earth to
-    accelerate growth and begin a path to sustainability by creating a stream of
-    organizational revenue from the Blueprint Labs program.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Grant funding will be applied to support three programs that contain the full cycle of making L.A. the leader in environmental science and technology.\r\n\r\n1) Blueprint First = $30,000\r\n-Improves science literary for 1,000 students in 4 elementary schools\r\n\r\n1a - Classroom Materials = $4,000\r\n1b - Transportation for Science Coaches = $6,000\r\n1c - Operations Manager Overseeing Program (0.15 FTE) = $12,000\r\n1d - T-Shirts for Youth Participants = $8,000\r\n1e - Science Coaches = $139,000 (donation in kind)\r\n\r\n2) Blueprint Labs = $30,000\r\n-Creates lab to teach skills to young adults and build revenue stream to sustain future operations\r\n\r\n2a - Leasing Lab Space = $24,000\r\n2b - Installation of Mass Spectrometer = $3,000\r\n2c - Purchasing Startup Supplies = $2,000\r\n2d - City Permits and Other Fees = $1,000\r\n2e - Subject Matter Expert to Setup Lab = $6,000 (donation in kind)\r\n2f - Mass Spectrometer (previously donated) = $40,000 (donation in kind)\r\n\r\n3) Mission Mojave = $30,000\r\n-Accelerates environmental research and discovery, completes phase one of three phases for Mission Mojave program\r\n\r\n3a - Equipment = $1,500\r\n3b - Transportation / 4x4 Vehicle Rental = $4,000\r\n3c - Fuel Reimbursement = $4,000\r\n3d - Food and Lodging = $8,000\r\n3e - Supervisory Scientist Compensation = $12,500\r\n3f - Student Catalogers = $60,000 (donation in kind)\r\n\r\n4) Overhead Allocation = $10,000\r\n-Funds Executive Director and Accountant to perform evaluations of grant funding and program success\r\n\r\n4a - Executive Director Compensation (partial) = $4,000\r\n4b - Tracking Program Success and Progress = $2,000\r\n4c - Accountant and Office Manager (0.15 FTE) = $4,000\r\n4e - Board Members’ Organizational Support and Management = $150,000 (donation in kind)"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How do you plan to scale the success of your proposal?: "Successful implementation of Blueprint Labs will generate $250,000 in annual revenue. Students will receive compensation for hours worked, and after subtracting expenses, an estimated $50,000 in yearly profit will be available. All revenue generated by the lab will support the Blueprint First and Mission Mojave programs.\r\n\r\nLA 2050 funding will enable completion of Phase 1 of 3 for Mission Mojave. Phase 2 of Mission Mojave (blueprint creation) will be funded by Blueprint Labs revenue. Phase 3 of Mission Mojave (environmental replication) will remain, and strong individual and corporate giving programs are in the planning stage. Blueprint Earth is funded with support from Edison International, Qualcomm, Cadiz Ltd., and Healthy Souls. Funding for future work will be sought from current funders as well as new grantmakers. \r\n\r\nThe key to scaling and future projects (e.g., Mission Tundra, Mission Rainforest, etc.) is positioning Blueprint Labs as a source of sustainable revenue. The combination of individual donations, grants, and earned revenue will continue progress on blueprinting all of Earth’s environments with L.A. as the home base. The foundation Blueprint Earth is building in the diverse, resource-rich city of Los Angeles will place our city as the global leader in environmental science by 2050. A timeline follows.\r\n\r\n\r\n2016\r\n* Expand Blueprint First program to 5 schools (1,000+ students)\r\n* Create Blueprint Labs, a revenue-producing skills training lab\r\n* Complete Mission Mojave Phase 1\r\n* Begin Mission Mojave (Phase 2) by creating environmental blueprint from Phase 1 data\r\n\r\n2017\r\n* Blueprint First reaches 25 elementary schools (5,000+ students)\r\n* Complete Mission Mojave (Phase 2), publish draft blueprint of field study area\r\n* Blueprint Labs produces $250,000 in revenue, sustains programs with $50,000 profit\r\n* Begin Mission Mojave (Phase 3), recreating the study area within a controlled setting\r\n\r\n2018 – 2019 Maintain Programs\r\n\r\n2020\r\n* Complete Mission Mojave (Phase 3) replication of field study area\r\n* Begin Mission Tundra (Phase 1), a new study area\r\n\r\n2050\r\n* Blueprint First program is standard in LAUSD and area private schools\r\n* Los Angeles has grown environmental tech jobs, related high-growth startups and manufacturing initiatives, and is recognized as the global leader\r\n* Complete blueprinting of 10 environments from around the world\r\n* Create optimized environment for sustaining life in space (e.g., for Mars or Moon mission)"
-  Where will you be working?:
-    - Central LA
-    - East LA
-    - San Gabriel Valley
-    - San Fernando Valley
-    - South LA
-    - Westside
-    - South Bay
-    - Antelope Valley
-    - LAUSD
-  How do you plan to use these resources to make change?:
-    - Conduct research
-    - Engage residents and stakeholders
-    - Implement a pilot or new project
-    - Expand a pilot or a program
-    - Mobilize for systems change
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - 'Infrastructure (building/space/vehicles, etc.)'
-    - Education/training
-    - 'Technical infrastructure (computers, etc.)'
-    - Community outreach
-    - Network/relationship support
-    - Quality improvement research
-  How will your proposal improve the following “Create” metrics?:
-    - Concentration of manufacturing activity in LA
-    - Federal research grant funding
-    - Patents per capital
-    - Jobs per capita
-    - Minority- and women-owned firms
-    - Gini coefficient
-    - Number of high growth startups
-    - Venture capital investment
-    - >-
-      Measures of cultural and global economic influence (“soft power”) (Dream
-      Metric)
-    - >-
-      Recruiting and retention rates for local higher education institutions
-      (Dream Metric)
-    - >-
-      Percentage of graduates from local higher education institutions that
-      remain in LA County 5 years after graduating (Dream Metric)
-maker_answers_list:
-  - name: How did you hear about this challenge?
-    label: How did you hear about this challenge?
-    explanation: >-
-      Please tell us how you found about the challenge (eg. Facebook/Twitter,
-      newsletter, friend, etc).
-    answer: Twitter
-  - name: 'City, State'
-    label: 'City, State'
-    explanation: 'Please follow this format: Los Angeles, CA'
-    answer: 'Los Angeles, CA'
-  - name: Organization(s) name(s)
-    label: Organization(s) name(s)
-    explanation: >-
-      Please list the names of all organizations if there are more than one
-      organization involved.
-    answer: Blueprint Earth
-  - name: Organization(s) mailing address(es)
-    label: Organization(s) mailing address(es)
-    explanation: >-
-      Please list all mailing addresses if there are more than one organization
-      involved. Please follow the format: 1234 Wilshire Blvd, Los Angeles, CA
-      90048
-    answer: '340 S Lemon Ave #7879, Walnut, CA 91789'
-  - name: Organization(s) website(s)
-    label: Organization(s) website(s)
-    explanation: 'Please follow this format: www.LA2050.org'
-    answer: www.blueprintearth.org
-  - name: Organization(s) twitter handle(s)
-    label: Organization(s) twitter handle(s)
-    explanation: 'Please follow this format: www.twitter.com/LA2050'
-    answer: 'https://twitter.com/BlueprintEarth'
-  - name: Organization(s) facebook handle(s)
-    label: Organization(s) facebook handle(s)
-    explanation: 'Please follow this format: www.facebook.com/LA2050'
-    answer: www.facebook.com/blueprintearth
-  - name: Organization(s) instagram handle(s)
-    label: Organization(s) instagram handle(s)
-    explanation: 'Please follow this format: www.instagram.com/LA2050'
-    answer: www.instagram.com/blueprintearth
-  - name: Please share the direct link for voters to sign up for your newsletter(s)
-    label: Please share the direct link for voters to sign up for your newsletter(s)
-    explanation: ''
-    answer: 'http://blueprintearth.org/newsletter'
-  - name: EIN (for each organization)
-    label: EIN (for each organization)
-    explanation: 'Please follow this format: xx-xxxxxxx'
-    answer: 46-3558470
-  - name: 'Describe your organization(s): Non-Profit'
-    label: Non-profit organization
-    explanation: ''
-    answer: '1'
-  - name: 'Describe your organization(s): For-profit'
-    label: For-profit organization
-    explanation: ''
-    answer: '0'
-  - name: 'Describe your organization(s): Government'
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: 'Describe your organization(s): Other'
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: 'Describe your organization(s): Specifics'
-    label: ''
-    explanation: ''
-    answer: ''
-  - name: 'In one sentence, please describe what your organization does'
-    label: ''
-    explanation: ''
-    answer: >-
-      Blueprint Earth’s mission is to preserve Earth's environments through
-      scientific research and education.
-  - name: 'In one to three sentences, please describe your proposal.'
-    label: ''
-    explanation: ''
-    answer: >-
-      Blueprint Earth’s vision is to transform Los Angeles into the global
-      leader in environmental science and technology innovation by 2050.  We are
-      creating a culture of curiosity and innovation that will grow and retain
-      top talent, as well as drive research funding, private investments, and
-      environmental startups. We want the name "Los Angeles" to be to the
-      environmental science world what "Hollywood" is to the film world by 2050.
-  - name: Please write a sample tweet to describe your submission.
-    label: ''
-    explanation: ''
-    answer: >-
-      @BlueprintEarth is creating L.A.’s vibrant future as the world
-      environmental science capitol through #MyLA2050
-  - name: LA is the best place to LEARN
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: LA is the best place to CONNECT
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '1'
-  - name: LA is the best place to PLAY
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '0'
-  - name: LA is the healthiest place to LIVE
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Central LA
-    label: Central LA
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? East LA
-    label: East LA
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? San Gabriel Valley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? San Fernando Valley
-    label: San Fernando Valey
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? South LA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? South Bay
-    label: South Bay
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Antelope Valley
-    label: Antelope Valley
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? County of Los Angeles (countywide)
-    label: County of Los Angeles (countywide)
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? City of Los Angeles (citywide)
-    label: City of Los Angeles (citywide)
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? LAUSD
-    label: LAUSD
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Other
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? Specifics
-    label: e.g. Third Street Middle School; Boyle Heights; LA County
-    explanation: ''
-    answer: ''
-  - name: How do you plan to use these resources to make change? Conduct research
-    label: Conduct research
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Engage residents
-      and stakeholders
-    label: Engage residents and stakeholders
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Implement a pilot
-      or new project
-    label: Implement a pilot or new project
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Expand a pilot or a
-      program
-    label: Expand a pilot or program
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Mobilize for
-      systems change
-    label: Mobilize for systems change
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Advocate with
-      policymakers and leaders
-    label: Advocate with policymakers and leaders
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How do you plan to use these resources to make change? Implement and track
-      policy
-    label: Implement and track policy
-    explanation: ''
-    answer: '0'
-  - name: How do you plan to use these resources to make change? Other
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: How do you plan to use these resources to make change? Specifics
-    label: ''
-    explanation: ''
-    answer: ''
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Employment
-      in the creative industries
-    label: Employment in the creative industries
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Arts
-      establishments per capita
-    label: Arts establishments per capita
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Create” metrics?
-      Concentration of manufacturing activity in LA
-    label: Concentration of manufacturing activity in LA
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Federal
-      research grant funding
-    label: Federal research grant funding
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Patents per
-      capital
-    label: Patents per capita
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Jobs per
-      capita
-    label: Jobs per capita
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Minority-
-      and women-owned firms
-    label: Minority- and women-owned firms
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Gini
-      coefficient
-    label: Gini coefficient
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Number of
-      high growth startups
-    label: Number of high growth startups
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Venture
-      capital investment
-    label: Venture capital investment
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Measures of
-      cultural and global economic influence (“soft power”) (Dream Metric)
-    label: >-
-      Measures of cultural and global economic influence (“soft power”) (Dream
-      Metric)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Recruiting
-      and retention rates for local higher education institutions (Dream Metric)
-    label: >-
-      Recruiting and retention rates for local higher education institutions
-      (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics? Percentage
-      of graduates from local higher education institutions that remain in LA
-      County 5 years after graduating (Dream Metric)
-    label: >-
-      Percentage of graduates from local higher education institutions that
-      remain in LA County 5 years after graduating (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Create” metrics?
-      Unemployment rates (and opportunities) for the formerly incarcerated
-      (Dream Metric)
-    label: >-
-      Unemployment rates (and opportunities) for the formerly incarcerated
-      (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: Describe in greater detail how you will make LA the best place to create.
-    label: ''
-    explanation: ''
-    answer: "Blueprint Earth makes L.A. the best place to create by building, growing, and sustaining a culture of curiosity. Blueprint Earth is creating the foundation for Los Angeles to become the world leader in environmental science and technology research by 2050. The Blueprint First program reaches elementary students early. The Blueprint Labs program creates opportunities for older students. The Mission Mojave project creates “blueprints” of our planet’s environments by engaging scientists and engineers. Blueprint Earth is creating the perfect atmosphere for new technologies, new research, and new types of manufacturing and production.\r\n\r\nBlueprint Earth gives traditionally under-represented students access to positive science role models. The Blueprint First science literacy pilot program at Haddon Avenue Elementary in Pacoima starts this fall by connecting real scientists with 225 students. The scientists and students work together to create memorable hands-on science experiments. This helps students discover the world while generating enthusiasm for learning about the planet.\r\n\r\nBlueprint Earth is creating an environmental science laboratory for Angelenos in high school and college to learn real skills that will prepare them for vocational lab jobs, or for work or higher education after earning a degree. The Blueprint Labs program will work with private companies, universities, and the government to study environments, and will create paid jobs for young adults in Los Angeles.\r\n\r\nFor the future of the entire city of Los Angeles, Blueprint Earth is creating teams of scientists and engineers working together to understand the environment in new ways. Our signature project, Mission Mojave, supports these teams as they create environmental blueprints, which will help protect, preserve, and restore damaged environments. This type of collaboration between professionals leads to revolutionary discoveries and innovation.\r\n\r\nBlueprint Earth’s programs are creating a culture of curiosity focused on environmental science in Los Angeles. Blueprint First creates environment passion in our youngest citizens. Blueprint Labs creates real career skills for young adults. Finally, Mission Mojave creates real knowledge about how the planet functions, and opens possibilities for exciting discoveries and creative solutions to environmental problems facing Los Angeles in the 21st century.\r\n"
-  - name: >-
-      Please list at least one major barrier/challenge you anticipate. What is
-      your strategy for overcoming these obstacles?
-    label: ''
-    explanation: ''
-    answer: "The major challenge Blueprint Earth anticipates is with communication. Delivering the organization’s message to the number of people required for optimum engagement requires significant grassroots effort. Blueprint Earth wants Los Angeles to be to the environmental science world what Hollywood is to the film world. That level of name recognition requires strategic message distribution.\r\n\r\nThis challenge will be overcome by word-of-mouth campaigns, media coverage, publication of research results, presentations at professional conferences, appearances at schools, public lectures to community groups, and by social media campaigns. The work needs to be publicized in media-friendly ways to keep the science accessible. Careful messaging planning will ensure that Blueprint Earth can build on early success in raising awareness. In Blueprint Earth’s first two years of operation, the organization was featured in numerous publications, including The Huffington Post and Popular Science magazine."
-  - name: Please explain how you will evaluate your work.
-    label: ''
-    explanation: ''
-    answer: "The Blueprint First program will require evaluation of whether the program activities proceed as planned and produce the expected results. Evaluations will occur during each academic year using short student knowledge questionnaires both pre and post each Blueprint First session. Classroom teachers will be surveyed throughout the year to assess program success.\r\n\r\nThe participant experience and work of Blueprint Labs will be evaluated using customer and participant case studies, customer satisfaction surveys, participant demographic surveys, and documentation reviews to measure customer satisfaction and the overall program benefit.\r\n\r\nMission Mojave is evaluated through participant interviews, demographic surveys, observation, and case studies. Success is measured by invitations to present at professional science conferences and publication in scientific journals. The final measure of Mission Mojave’s success is the replication of the natural study environment in a controlled setting."
-  - name: >-
-      Are there other organizations doing similar work (whether complementary or
-      competitive)? What is unique about your proposed approach?
-    label: ''
-    explanation: ''
-    answer: "Blueprint Earth is the catalyst for Los Angeles to become the world leader in environmental science and technology. No other organization is attempting this type of work from a holistic, community-focused perspective. This work touches the environment, science, and education and has tangible impact on Los Angeles. Blueprint Earth’s programs have served 76% females, 56% non-white minorities, and 60% of participants come from low-income households, groups traditionally under-represented in science.\r\n\r\nCurrently, there are no other organizations approaching environmental science work this way. Some programs focus on individual fields, like biology. Others are designed to conserve a particular environment, like a single watershed. Still others are geared toward species conservation. Organizations like the National Ecological Observatory Network, the Critical Zone Observatories, and Biosphere2 have superficial similarity to Blueprint Earth, but discussion with these organizations indicates Blueprint Earth’s approach is both distinctive and unique. Additionally, Blueprint Earth was recognized as groundbreaking in Popular Science magazine’s May 2015 issue.\r\n\r\nThe Mission Mojave program has included scientists and students from 11 universities and 20 private companies in California. These science teams have gathered 1,500 unique observations about the Mojave Desert. This work spans geology, hydrology, biology, and atmospheric science. Collaboration between scientific disciplines is currently both infrequent and highly encouraged by major grantmaking organizations like the National Science Foundation. Blueprint Earth’s work fills a gap in the current approach to environmental science.\r\n\r\nBlueprint Earth focuses on creating environmental science opportunities for Angelenos from childhood through their professional careers. Educational programs are often designed to train teachers, or modify science curriculum. Blueprint First brings diverse, culturally relevant scientists into the classroom, allowing students the opportunity to work with positive role models. Blueprint Labs creates a working environmental science lab that will serve as a training center for young scientists and lab technicians to gain real career skills. These job opportunities for young science professionals are currently rare. Mission Mojave’s environmental research is unique in that it creates a big-picture view of environments that are too often only looked at in a very narrow, specialized way."
-  - name: >-
-      Please identify any partners or collaborators who will work with you on
-      this project. How much of the $100,000 grant award will each partner
-      receive?
-    label: ''
-    explanation: ''
-    answer: >-
-      Blueprint Earth is currently partnered with Haddon Avenue Elementary
-      School in Pacoima and the California State University, Los Angeles
-      Hydrogeology Student Union. Neither of the partners will receive any of
-      the $100,000 grant award directly. A portion of the award money will go
-      towards running our science literacy pilot program at Haddon Avenue
-      Elementary School, and a small portion will go towards reimbursing members
-      of the California State University, Los Angeles Hydrogeology Student Union
-      for travel expenses (gas money) from their campus to Haddon during
-      outreach activities.
-  - name: >-
-      How much do you think this will cost? If more than $100,000 – how will you
-      cover the additional costs?
-    label: ''
-    explanation: ''
-    answer: >-
-      Blueprint Earth anticipates program costs to be $495,000. Of that amount,
-      $395,000 will come from donations in kind as indicated in the detailed
-      budget breakdown. To date, operations have progressed with limited cash
-      flow and reliance on volunteers to deliver the majority of program
-      services. The Blueprint Earth mission resonates with the demographic of
-      the core volunteers who typically range from 18 to 40 years of age. This
-      has made the previous two years of growth a success. With $100,000 in
-      funding, Blueprint Earth will be able to accomplish program goals that
-      would otherwise cost $395,000. Historically, funds raised have been
-      approximately $20,000 annually, and the organization has delivered six
-      times that value using donations in kind. The impact to the community has
-      been a value of $120,000 per year. $100,000 in funds from LA 2050 would
-      allow Blueprint Earth to accelerate growth and begin a path to
-      sustainability by creating a stream of organizational revenue from the
-      Blueprint Labs program.
-  - name: >-
-      Please include a detailed budget of how you will use $100,000 to implement
-      this project.
-    label: ''
-    explanation: ''
-    answer: "Grant funding will be applied to support three programs that contain the full cycle of making L.A. the leader in environmental science and technology.\r\n\r\n1) Blueprint First = $30,000\r\n-Improves science literary for 1,000 students in 4 elementary schools\r\n\r\n1a - Classroom Materials = $4,000\r\n1b - Transportation for Science Coaches = $6,000\r\n1c - Operations Manager Overseeing Program (0.15 FTE) = $12,000\r\n1d - T-Shirts for Youth Participants = $8,000\r\n1e - Science Coaches = $139,000 (donation in kind)\r\n\r\n2) Blueprint Labs = $30,000\r\n-Creates lab to teach skills to young adults and build revenue stream to sustain future operations\r\n\r\n2a - Leasing Lab Space = $24,000\r\n2b - Installation of Mass Spectrometer = $3,000\r\n2c - Purchasing Startup Supplies = $2,000\r\n2d - City Permits and Other Fees = $1,000\r\n2e - Subject Matter Expert to Setup Lab = $6,000 (donation in kind)\r\n2f - Mass Spectrometer (previously donated) = $40,000 (donation in kind)\r\n\r\n3) Mission Mojave = $30,000\r\n-Accelerates environmental research and discovery, completes phase one of three phases for Mission Mojave program\r\n\r\n3a - Equipment = $1,500\r\n3b - Transportation / 4x4 Vehicle Rental = $4,000\r\n3c - Fuel Reimbursement = $4,000\r\n3d - Food and Lodging = $8,000\r\n3e - Supervisory Scientist Compensation = $12,500\r\n3f - Student Catalogers = $60,000 (donation in kind)\r\n\r\n4) Overhead Allocation = $10,000\r\n-Funds Executive Director and Accountant to perform evaluations of grant funding and program success\r\n\r\n4a - Executive Director Compensation (partial) = $4,000\r\n4b - Tracking Program Success and Progress = $2,000\r\n4c - Accountant and Office Manager (0.15 FTE) = $4,000\r\n4e - Board Members’ Organizational Support and Management = $150,000 (donation in kind)"
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Money (financial capital)
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Volunteers/staff (human capital)
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Publicity/awareness (social capital)
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Infrastructure (building/space/vehicles, etc.)
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Education/training
-    label: Education/training
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Technical infrastructure (computers, etc.)
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Community outreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Network/relationship support
-    label: Network/relationship support
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Quality improvement research
-    label: Quality improvement research
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Other
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Specifics
-    label: ''
-    explanation: ''
-    answer: ''
-  - name: How do you plan to scale the success of your proposal?
-    label: ''
-    explanation: ''
-    answer: "Successful implementation of Blueprint Labs will generate $250,000 in annual revenue. Students will receive compensation for hours worked, and after subtracting expenses, an estimated $50,000 in yearly profit will be available. All revenue generated by the lab will support the Blueprint First and Mission Mojave programs.\r\n\r\nLA 2050 funding will enable completion of Phase 1 of 3 for Mission Mojave. Phase 2 of Mission Mojave (blueprint creation) will be funded by Blueprint Labs revenue. Phase 3 of Mission Mojave (environmental replication) will remain, and strong individual and corporate giving programs are in the planning stage. Blueprint Earth is funded with support from Edison International, Qualcomm, Cadiz Ltd., and Healthy Souls. Funding for future work will be sought from current funders as well as new grantmakers. \r\n\r\nThe key to scaling and future projects (e.g., Mission Tundra, Mission Rainforest, etc.) is positioning Blueprint Labs as a source of sustainable revenue. The combination of individual donations, grants, and earned revenue will continue progress on blueprinting all of Earth’s environments with L.A. as the home base. The foundation Blueprint Earth is building in the diverse, resource-rich city of Los Angeles will place our city as the global leader in environmental science by 2050. A timeline follows.\r\n\r\n\r\n2016\r\n* Expand Blueprint First program to 5 schools (1,000+ students)\r\n* Create Blueprint Labs, a revenue-producing skills training lab\r\n* Complete Mission Mojave Phase 1\r\n* Begin Mission Mojave (Phase 2) by creating environmental blueprint from Phase 1 data\r\n\r\n2017\r\n* Blueprint First reaches 25 elementary schools (5,000+ students)\r\n* Complete Mission Mojave (Phase 2), publish draft blueprint of field study area\r\n* Blueprint Labs produces $250,000 in revenue, sustains programs with $50,000 profit\r\n* Begin Mission Mojave (Phase 3), recreating the study area within a controlled setting\r\n\r\n2018 – 2019 Maintain Programs\r\n\r\n2020\r\n* Complete Mission Mojave (Phase 3) replication of field study area\r\n* Begin Mission Tundra (Phase 1), a new study area\r\n\r\n2050\r\n* Blueprint First program is standard in LAUSD and area private schools\r\n* Los Angeles has grown environmental tech jobs, related high-growth startups and manufacturing initiatives, and is recognized as the global leader\r\n* Complete blueprinting of 10 environments from around the world\r\n* Create optimized environment for sustaining life in space (e.g., for Mars or Moon mission)"
-body_class: banana
 organization_name: Blueprint Earth
-published: true
 
 ---

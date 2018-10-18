@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016222'
 year_submitted: 2016
-organization_name: the Jane Goodall Institute
-organization_website: rootsandshoots.org
-ein: ''
-project_image_2: 6000534355741-team90.JPG
+category: connect
+body_class: tangerine
 project_id: '6102245'
+challenge_url: >-
+  https://challenge.la2050.org/entry/setting-the-stage-developing-young-angelenos-as-community-volunteers-for-a-lifetime
 title: >-
   Setting the Stage: Developing Young Angelenos as Community Volunteers for a
   Lifetime
-organization_name_2: the Jane Goodall Institute
-organization_activity: >-
-  Focused on ages 8-15, Jane Goodall’s Roots & Shoots develops the next
-  generation of compassionate leaders by connecting youth to communities to
-  identify, strategize, and implement service campaigns.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
-project_video: 'https://www.youtube.com/embed/80TAsrIU1O8?rel=0&amp;showinfo=0'
 project_summary: >-
   Partnering with key LA schools, Roots & Shoots will connect youth to their
   communities, build awareness of local issues, empower them through
   volunteerism, and develop them as compassionate leaders.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
+project_video: 'https://www.youtube.com/embed/80TAsrIU1O8?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - San Fernando Valley
-  - LAUSD
 project_measure: >-
   R&S measures impact by:
 
@@ -89,6 +82,22 @@ project_description: >-
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+project_proposal_description: >-
+  Partnering with 25 schools, Roots & Shoots will connect 750 diverse Los
+  Angeles youth to communities using the R&S model and empower them to map their
+  communities, identify local issues, implement a service campaign, and
+  collaboratively celebrate successes. R&S will additionally recruit and train
+  five youth leaders to model and inspire civic responsibility through outreach
+  and community engagement. Finally, R&S will hold local community service
+  events and a citywide celebration of service.
+project_areas:
+  - San Fernando Valley
+  - LAUSD
 project_proposal_best_place: >-
   R&S will build upon its existing network in LA to connect young people to
   their communities by establishing strong networks that provide social and
@@ -142,24 +151,7 @@ project_proposal_best_place: >-
   travels twice each year through the United States. If she holds a public
   lecture in LA, every effort will be made to extend an invitation to
   participating students and educators.
-challenge_url: >-
-  https://challenge.la2050.org/entry/setting-the-stage-developing-young-angelenos-as-community-volunteers-for-a-lifetime
-empty_column_1: ''
-project_proposal_description: >-
-  Partnering with 25 schools, Roots & Shoots will connect 750 diverse Los
-  Angeles youth to communities using the R&S model and empower them to map their
-  communities, identify local issues, implement a service campaign, and
-  collaboratively celebrate successes. R&S will additionally recruit and train
-  five youth leaders to model and inspire civic responsibility through outreach
-  and community engagement. Finally, R&S will hold local community service
-  events and a citywide celebration of service.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: the Jane Goodall Institute
+organization_website: rootsandshoots.org
 
 ---

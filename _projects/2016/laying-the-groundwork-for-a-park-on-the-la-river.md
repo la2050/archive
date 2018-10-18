@@ -1,28 +1,22 @@
 ---
+published: true
 organization_id: '2016042'
 year_submitted: 2016
-organization_name: Clockshop & California State Parks
-organization_website: clockshop.org
-ein: ''
-project_image_2: 8056322165741-team91.jpg
+category: play
+body_class: strawberry
 project_id: '6102042'
+challenge_url: >-
+  https://challenge.la2050.org/entry/laying-the-groundwork-for-a-park-on-the-la-river
 title: Laying the Groundwork for a Park on the LA River
-organization_name_2: Clockshop & California State Parks
-organization_activity: >-
-  Clockshop creates new conversations about cultural production, politics, and
-  urban space by commissioning work by artists and writers and partnering with
-  diverse institutions.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
-project_video: 'https://www.youtube.com/embed/9rEbX6VgLaA?rel=0&amp;showinfo=0'
 project_summary: >-
   The Bowtie Project promotes the development of LA’s newest state park by
   bringing artist projects, performances, and community events to a plot of
   undeveloped land on the LA River.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
+project_video: 'https://www.youtube.com/embed/9rEbX6VgLaA?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'Clockshop, California State Parks'
-project_areas:
-  - East LA
 project_measure: >-
   The Bowtie Project has long-term and short-term goals. The short-term goal is
   to bring diverse Angelenos to have a positive, memorable experience on a piece
@@ -57,6 +51,19 @@ project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play
   opportunities","Number of residents with easy access to a “vibrant” park"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+project_proposal_description: >-
+  In collaboration with California State Parks, Clockshop will create programs
+  and events that bring Angelenos to experience “the Bowtie,” a plot of
+  post-industrial land on the LA River. The Bowtie Project transforms
+  post-industrial wasteland into a cultural destination, and lays the groundwork
+  for creating LA’s largest riverfront park.
+project_areas:
+  - East LA
 project_proposal_best_place: >-
   The Bowtie Project has attracted thousands of people to the LA River and
   transformed urban wasteland into dynamic public space. This innovative
@@ -112,22 +119,7 @@ project_proposal_best_place: >-
   Through these programs and others, Clockshop is building a community of
   stakeholders who will ensure that the Bowtie remains in the public trust, as a
   place for all Angelenos to play now and in the future.
-challenge_url: >-
-  https://challenge.la2050.org/entry/laying-the-groundwork-for-a-park-on-the-la-river
-empty_column_1: ''
-project_proposal_description: >-
-  In collaboration with California State Parks, Clockshop will create programs
-  and events that bring Angelenos to experience “the Bowtie,” a plot of
-  post-industrial land on the LA River. The Bowtie Project transforms
-  post-industrial wasteland into a cultural destination, and lays the groundwork
-  for creating LA’s largest riverfront park.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-category: play
-body_class: strawberry
-published: true
+organization_name: Clockshop & California State Parks
+organization_website: clockshop.org
 
 ---

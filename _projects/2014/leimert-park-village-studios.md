@@ -1,14 +1,111 @@
 ---
+published: true
+organization_id: '2014038'
+year_submitted: 2014
+category: create
+body_class: banana
 project_id: '4102078'
 title: Leimert Park Village Studios
 project_summary: >-
   World famous Leimert Park Village launches LPVR Studios, a neighborhood
   cultural collaboration anchored at the Vision TheateR.
-category: create
-organization_id: '2014038'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/_BC4Wfw6Gb4/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/_BC4Wfw6Gb4'
+project_areas:
+  - EAST LA
+  - SOUTH LA
+  - SOUTH BAY
+  - LA COUNTY
+maker_answers:
+  org_name: Friends of the VisionTheater
+  metrics_create_employment: '1'
+  org_website: 'http://www.leimertparkvillage.org/'
+  org_twitter: '@LeimertPVillage'
+  org_facebook: 'https://www.facebook.com/leimertparkvillage2020'
+  org_instagram: LeimertParkVillage
+  org_mailingaddress: "3341 W. 43rd Place\r\nLos Angeles, CA 90008"
+  org_ein: '954439557'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    We are committed to making a renovated Vision Theater the driving principle
+    in shaping local development around a shared cultural legacy.
+  one_sentence_project: >-
+    World famous Leimert Park Village launches LPVR Studios, a neighborhood
+    cultural collaboration anchored at the Vision TheateR.
+  describe_idea: >-
+    LA’s “black Greenwich Village” will form the city’s leanest studio:
+    capturing its unique cultural legacy in word & sound & image
+  all_county: '1'
+  region_county: '0'
+  population_county: '1'
+  'no': '0'
+  area_centralLA: '0'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '1'
+  area_westside: '0'
+  'area_other:': '1'
+  area_other_blank: Leimert Park
+  more_detail: >-
+    Leimert Park Village Studios is part of a larger renaissance of Leimert Park
+    Village, now underway with the Leimert Park Village 20/20 Vision Initiative.
+    LPV Studios will be an umbrella micro-enterprise building on the strengths
+    of key community assets to form a network of production houses, freelance
+    producers, educators and entrepreneurs. LPV Studios will be anchored by
+    active cultural venues in the Village that will be upgraded to add
+    production and recording stages, performance and screening rooms, boutique
+    theaters, green screens, editing bays, and internet broadcasting systems.
+    Anchor venues will be supported by a marketing team and event producers,
+    using open spaces to provide content, excitement and ongoing visibility.
+  implement: "Within the existing framework of the LPV 20/20 Vision Initiative, a grassroots community effort to shape the neighborhood’s economic development around its cultural and artistic identity, we will flesh out a year-long calendar of cultural events: the Summer Arts Program of the Manchester Junior Arts Center; a Village-wide Music Caravan to be held every few months with themes like Jazz, Blues, Mardi Gras, and World Music; a monthly Art Walk centered in the People’s Street Plaza; MLK Day Festival; Kwanza Festival; African-American Arts & Music Festival; and, in December the massive street festival CicLAvia.\r\n\r\nThis event calendar, already in place, will provide us with the production calendar for LPV Studios. Around each event, we will produce original programming: recording performances, readings, and public art. Second, our signature events will be used as deadlines for the production of documentary material (film, audio, and literary) as part of our Artistic & Cultural Heritage Program--to be sold during the events, generating income for the local creative economy, and passing on our living arts to the broader community. \r\n\r\nThe event calendar will also structure our youth education efforts. We will use youth involvement in performance, planning and production to create a curriculum in arts history, media literary, in documenting cultural heritage, and in technical skills needed in the creative industry. This curriculum will be designed along the lines of the STEAM (Science, Technology, Engineering, Arts & Math) educational framework, positioning us to establish an accredited academic program. \r\n\r\nWe will conduct an assessment of the current technical capacity of anchor venues, and make necessary upgrades. We plan to target The World Stage, KAOS Network, Barbara Morrison and Fernando Pullum for temporary sound-proofing; to acquire portable green screens that can be used to film in all of the above, and at Youth n Motion; and to acquire a pool of cameras, audio and video recording equipment, and editing equipment to be shared amongst the partner venues. \r\n\r\nFinally, we will build a comprehensive Creative Directory. The talent base will include those directly connected to our anchor venues, independent producers and artists whose involvement in our events can be a springboard for additional ventures. The People’s Street Plaza will in essence serve as an open-air co-working space nurturing connection and collaboration. \r\n"
+  impact_create: "There is already a renaissance in Leimert Park Village, widely recognized as a hub of African-American cultural in Los Angeles. The socio-economic circumstances of the community belie its artistic wealth. Five MacArthur Genius Awards have been bestowed on artists with a history in the neighborhood--including Mark Bradford, who is investing in a major new arts education initiative.  The ongoing effort of the Village to survive as an iconic American community is at the heart of our project.\r\n\r\nIn the short term, existing cultural venues, joined in December by the newly approved Peoples Street Plaza, are a ready infrastructure for performance, education, and creative innovation. Our event calendar assures sustainable performance opportunities, while the LiveStream TV station and online cultural journal offer access to an expanded local (and later national and international) market. Venues with a long history creating more with less will be bolstered by new sources of income, as will independent producers and artists. The involvement of youth in all facets--from planning and performance to documenting the neighborhood’s artistic heritage--will train a new generation of creative industry professionals. The arrival of CicLAvia in December will bring a fresh new audience. \r\n\r\nIn the long term, the foundation established in the first year will allow us to fully take advantage of a series of opportunities ahead. The 750-seat Vision Theater will reopen in 2016, dramatically expanding capacity. The creative infrastructure we plan to have in place when the LPV Metro stop opens in 2020 will open up new markets. With a straight link to the airport and national and international travelers, LVP Studios will have access to the global travel market and creative economy. Capturing that market requires a core of cultural, business and artistic activities that will make LPV a 'must see' destination.\r\n\r\nBy 2050, Leimert Park Village promises to be a fully developed magnet for cultural enrichment and artistic innovation. A homegrown Studio, based in local cultural establishments and anchored by the Vision Theater and People’s Street Plaza, will offer a new generation of creative professionals training, employment, and structure for ongoing collaboration. As the local hub for the culture and arts of the African Diaspora, Leimert Park Village will be both an international destination, and a portal for national and international distribution of film and music.\r\n"
+  who_benefit: "LPV Studios will give a dynamic community the tools to build a sustainable creative infrastructure, ensuring that future economic development is guided by the area’s rich artistic heritage. \r\n\r\nA major beneficiary will be the local African-American community and those who have come to cherish its cultural legacy. Across the country, traditional centers of black culture have been disrupted and dispersed. Los Angeles has witnessed the dissolution of the famed Central Avenue jazz & blues scene, and the dislocation of the literary revival in Watts in the late 60s. Leimert Park remains the best hope for a permanent safe haven for that living history.\r\n\r\nVenues that for decades have learned to do more with less will be on solid footing. A shared pool of state-of-the-art equipment, modest facility upgrades, and paid coordinators will ground a thriving local creative industry. An enhanced schedule of cultural events will substantially expand the market for local creative production. Without this foundation, the community will be ill-equipped to capture the new traffic that the coming subway station will surely draw. With it, the possibilities are endless.\r\n\r\nLocal venues will be able to provide regular work for artists, instructors, and producers who have for years volunteered their time. Anchored by the open-air co-working space of the People’s Plaza, our cultural calendar will be an incubator for artistic innovation. This activity will be a growing source of varied employment in the creative industry.\r\n\r\nArea youth, who have for years faced a dearth of school arts and after-school programs, will have exciting new options. Youth participants will be given hands-on experience connecting them with their own cultural heritage, and providing practical skills for the future. We have the opportunity to nurture a whole new generation of artist-entrepreneurs. \r\n\r\nThe training component of the Studio will offer skills, structure and a second chance to the previously incarcerated, emancipated minors, foster youth, and young people who have difficulty finding a place in mainstream educational institutions. By providing a safe public space for youth and their families, we will enhance the social fabric of the area and prevent young people from getting into trouble in the first place.\r\n\r\nFinally, the historical archiving projects of the Studio will give our neighborhood’s elders a meaningful role in preserving our history and in passing it on to the next generation. \r\n"
+  partners_collaboration: "Our core collaborators are the anchor cultural venues that will form the foundation of the Studio: all of  whom are committed to the mission of the LPV 20/20 Vision Initiative; have begun coordinating a year-long schedule of festivals and cultural events, most recently a Village-wide Music Caravan; and have begun joint marketing through a shared website, cultural calendar, and LiveStream TV Station. \r\n\r\nThese partners, all confirmed, are:\r\n\r\n• The Vision Theater (750-seat theater due to re-open in 2016)\r\n• Manchester Junior Arts Center (youth arts programming)\r\n• Department of Cultural Affairs (oversight of Vision Theater)\r\n• KAOS Network (multi-use spaces, film production, sound stage)\r\n• Barbara Morrison Performing Arts Center (performance space, association with Living Legends)\r\n• Fernando Pullum Community Arts Center (performance space, training, performance space, production)\r\n• The World Stage (performance space, music and writing workshops)\r\n• Youth n Motion (youth tutoring, performance space)\r\n\r\nOther confirmed partners are:\r\n\r\n• Sika’s (retail store, festival organizer)\r\n• Community Build (liaison with Business Improvement District)\r\n• Urban Design Center (consultant)\r\n• Empowerment Congress West Area Neighborhood Council (co-convener of LPV 20/20 Initiative)\r\n• USC Annenberg School of Journalism (student interns)\r\n• African Soul International (youth interns)\r\n• Black Arts Foundation (festival organizer)\r\n• Leimert Park Group (festival organizer)\r\n• Marikel Consulting (festival organizer, consulting)\r\n• The Institute for Maximum Human Development (technical assistance)\r\n\r\nThere are a number of challenges involved in coordinating such an ambitious project amongst so many diverse partners. Factors critical to successful collaboration include:\r\n\r\n1. Practicing strategic resource management to leverage resources as efficiently as possible; steadily build technical and production capacity; and ensure long-term sustainability.\r\n\r\n2. Putting in place an organizational infrastructure that establishes a shared set of values and practices; clarifies benefits and obligations of partners; implements a long-term strategic plan.\r\n\r\n3. Building in a broad-based sense of ownership and investment in the Studio: Leimert Park Village is a small area with limited resources; to meet the full scope of our ambitions, we will have to make Leimert a magnet for cultural education, training, and enrichment; and a center for creative innovation. \r\n"
+  city_state: 'Los Angeles, CA'
+  metrics_create_arts: '1'
+  metrics_create_manufacturing: '0'
+  metrics_create_researchgrant: '0'
+  metrics_create_patents: '0'
+  metrics_create_jbs: '1'
+  metrics_create_minoritywomenowned: '1'
+  metrics_create_gini: '1'
+  metrics_create_startups: '0'
+  metrics_create_venturecapital: '1'
+  metrics_create_influencers: '1'
+  metrics_create_recruitingrates: '0'
+  metrics_create_graduates: '0'
+  metrics_create_unemployment: '1'
+  metrics_create_other: '0'
+  metrics_create_blank: ''
+  resources_network: '0'
+  best_place_to_learn: '1'
+  best_place_to_connect: '1'
+  healthiest_place_to_live: '1'
+  best_place_to_play: '1'
+  evaluate: "We will evaluate our success first by concrete measures of growth in the local creative industry. We have begun a baseline measure of the number of volunteer hours that currently sustain neighborhood cultural venues. This is our human capital, our sweat equity. The number of full- and part-time positions that can be generated to local creatives will be a significant measure of success.\r\n\r\nWeekly meetings at the Vision provide a forum for brainstorming and announcing new creative projects. Another measure will be the number of new projects created; and the new income and investment generated by those projects. The 20/20 Initiative is also in the process of setting up a community investment model in which residents will be able to purchase Individual Development Accounts. This community investment, and any further investment that can be leveraged, will be another measure.\r\n\r\nAudience development at individual venues and Village events will be another important measure. The creation of a shared website and cultural calendar, and the beginnings of a joint marketing campaign, have already produced increased attendance. In December, CicLAvia will bring thousands of new visitors to the area. The upgraded infrastructure and enhanced technical capacity the 2050 Challenge grant would provide will allow us to capture this new audience and bring them back as repeat customers, not just one-time visitors. Festivals that have at best operated at a break-even will be able to turn a profit. And the coordinated marketing strategy of LeimertParkVillage.org will allow us to measure the growth of our combined social media imprint.\r\n\r\nThe historical and original programming components of the Studio will also have specific measurable outcomes. This production—in the form of archival CD/DVDs, recordings of new performances, print and web editions of our cultural journal Renaissance, and videos uploaded to the LiveStream TV station—will generate income for local artists and venues, preserve and capture the area’s living cultural legacy, and bring that legacy to new audiences.\r\n\r\nWe will also use specific measures of success for the Studio’s youth component. We will track the number of young people involved in the many opportunities that will be offered them—from assisting in the monthly Art Walk to involvement in Studio production. For participants in our core curriculum, we will conduct before and after measures of knowledge of cultural history, technical skills, and civic engagement."
+  two_lessons: "A cautionary lesson informing our project is the historic fragility of African-American cultural institutions, and the high social cost of failing to sustain them. \r\n\r\nWe have seen this happen nearly a century ago with the Harlem Renaissance: a perfect storm of musical, literary, political and intellectual energy that nurtured countless talents such as Josephine Baker, Langston Hughes, James Baldwin, W.E.B. Du Bois, and Zora Neale Hurston, and helped lay the groundwork for the Civil Rights Movement. But this thriving scene lacked a sustainable economic base, and even the signature Apollo Theater fell into decline in the 60s and 70s.\r\n\r\nW have seen the same pattern here, most notably in the break-up of the Central Avenue community of the 40s and 50s that was home not just to a world-famous jazz & blues scene, but also to a stable axis of African-American life in Los Angeles. Due to a range of factors--including post-war unemployment, discontinuation of trolley serving connecting Central Avenue, and active harassment of music clubs drawing mixed race crowds--the scene fell into decline, helping to set the stage for the unrest of the 1960s.\r\n\r\nThe lesson of these cautionary histories is real, the stakes high. Leimert Park Village is at a crossroads. The coming Metro station will bring new visibility and investment to a neighborhood that, despite its rich heritage, remains an undiscovered gem. The time is right to foster institutions that will ensure that the area’s future development is built around its cultural legacy. A nascent renaissance is in the works. But the dangers are real, too. The architectural anchor of the Village, the Vision Theater, was closed for ten years. Venues like Fifth Street Dick’s, or the relocated Ric’s and Babe’s, the last vestige of the old Central Avenue blues scene, have not lasted. The time to act is now.\r\n\r\nRecent history strikes a hopeful note as well. In 2012 the shuttle Endeavor came to Los Angeles. The route chosen from LAX to the Los Angeles Science Center in Exposition Park had the potential to disrupt and disfigure communities along the route. A grassroots campaign among community members, the Science Center and the city of Los Angeles minimized disruption, and brought a range of mitigating benefits such as a 4-to-1 tree replacement and sidewalk repair. This experience showed an engaged community can shape its destiny, and the results of our initial collaborations via the 20/20 Vision Initiative have only reinforced that lesson."
+  achievable_goal: "A committed team organized through the Leimert Park Village 20/20 Vision Initiative is in place. A yearlong calendar of festivals and cultural events provides a built-in production schedule. The project is underway is simply requires modest investments in technical capacity and in consistent paid staffing.\r\n\r\nThe team in place includes volunteers from the anchor venues, urban planners, producers, entrepreneurs, educators, community leaders and others. At weekly LPV 20/20 Initiative meetings hosted by the Vision Theater team leaders give progress reports; guest collaborators make presentations; and input is solicited from the broader community. Individual committees meet separately to carry out their assignments. \r\n\r\nWhile each of the anchor venues is in need of upgrades, the “bricks and mortar” foundation is in place as well: KAOS Network, Barbara Morrison, Fernando Pullum, The World Stage. Our capacity will soon be enhanced dramatically by the recently approved People’s Street Plaza. One of only three such designated plazas in LA, this public art space provides the Studio with numerous programming options. Its connection with the Park and its signature fountain and weekly drum circle further broadens the canvas.\r\n\r\nNew funding will allow us to provide modest but critical upgrades and equipment purchases. Targeted venues will be outfitted with temporary sound-proofing and portable green screens. Cameras, audio and video recording equipment, and editing equipment will be pooled amongst the venues. \r\n\r\nOur yearlong cultural calendar is built around the monthly Art Walk, and our new quarterly Music Caravan. Other signature events are an MLK Day Festival; Kwanza Festival; and African-American Arts & Music Festival. This year’s calendar will be bolstered by CicLAvia in December, bringing thousands of new visitors. We will meet this unique opportunity with a World Music Caravan, and the sale of CD/DVDs and an arts journal produced by the Heritage Program. Subsequent events like a Mardis Gras Carnival in February will provide the Studio with its next round of production deadlines. \r\n\r\nThe yearlong calendar of cultural events provides both a production calendar for the Studio, and an educational calendar for our youth arts curriculum. Pegging education goals to production goals ensures students hands-on experience that will provide them with valuable technical skills, as well as enhance academic achievement within the STEAM learning framework.  \r\n"
+  major_challenges: "A new Leimert Park Village subway stop promises to bring new visibility and investment to an area that has historically been  underserved. The need to develop the internal capacity of existing businesses and cultural establishments, and to lay the groundwork for further neighborhood-based initiatives, could not be more urgent. Without that dramatically enhanced internal capacity, this iconic neighborhood is at risk of being shaped by outside forces.\r\n\r\nThe joint collaborations begun under the Leimert Park Village 20/20 Vision Initiative are a hopeful start--already drawing increased attendance at individual venues and Village-wide events, and attracting the energies of local artists and entrepeneurs . The recently approved People’s Street Plaza on 43rd Place offers a huge boost to our efforts to foster a Leimert Park Village Renaissance. Closed off by large planters and populated with installations and public art, the Plaza will be a permanent open-air cultural venue. The Plaza will be anchored on the north by the soon to be reopened Vision Theater, already hosting programs such as a Summer Youth Arts Camp. In concert with the youth component of the Artistic & Cultural Heritage Program, the Plaza, Vision Theater and neighborhood venues can transform Leimert Park Village into a magnet for youth and family-friendly cultural enrichment.\r\n\r\nLong-standing stigmas about the neighborhood constitute a second challenge. Bring up Leimert Park and people want to talk about the Black Dahlia murder of 1947; or Training Day; or the club shoot-out scene in Collateral. They won’t talk about the five MacArthur Genius Grant awardees whose paths have come through Leimert--including legendary film director Charles Burnett, and artist Mark Bradford. They also won’t talk about the Sankofa Passageway, a “walk of fame” on the upper west block of Degnan enshrining thirty-two African-American musicians, writers, architects, educators, craftsmen and curators who spent substantial time in Leimert.\r\n\r\nLPV Studios will “re-brand” Leimert Park as the artistic and cultural mecca it has in fact always been. The best antidote to stereotype is the telling of authentic stories. Leimert overflows with such stories: from the Sankofa Passageway, to an alley mural depicting local heroes like Billy Higgins and Horace Tapscott, to the tile mosaics of former artist-in-residence Ramsess. A fully funded LPV Studios will finally be able to capture and project this authentic narrative."
+  competition: "There are a number of collections at UCLA that document the artistic and cultural history of Leimert Park Village. The Oral History Project includes extensive interviews with local musicians, writers, and visual artists. In its Special Collections division is an entire collection devoted to the life of Horace Tapscott, a legendary musician and leader of the community arts movement based in Leimert Park Village for the latter part of his career. Additionally, the raw footage for a highly regarded documentary of Leimert Park Village is housed at UCLA.\r\n\r\nBut the initiative for these documentary efforts is entirely with individual collectors and cultural historians. UCLA itself has not to date made an effort to coordinate or expand this archiving, and there has been no involvement with the local community. The distinctive element of the Artistic & Cultural Heritage Program of Leimert Park Village Studios lies in its being based in the neighborhood; its involvement of the artists and musicians and writers and historic venues that in fact made that history; and in its fostering of an intergenerational dialogue around a shared cultural legacy.\r\n\r\nAdditionally, there a handful of local centers providing multi-media training and education: Castaic Studios, the Media Arts Center, and Ka Media Center. But while providing valuable technical training, these programs do not embody the broader mission of Leimert Park Village Studios to connect young people with the artistic and cultural heritage, and actively involve them in documenting and preserving that heritage.\r\n"
+  cost: "For the initial phase of implementing Leimert Park Village Studios, we project a necessary investment of $700,000--broken down in the following categories:\r\n\r\n-\tAir-conditioning/heating at key venues: $60,000\r\n-\tGreen screens: $55,000\r\n-\tPortable Lighting & Rigging: $125,000\r\n-\tPortable Staging: $35,000\r\n-\tOutdoor Theater Shell for the Park: $75,000\r\n-\tRecording Equipment: $20,000\r\n-\tSound Proofing: $50,000\r\n-\tOutdoor Lighting: $20,000\r\n-\tState-of-the-art Screens: $20,000\r\n-\tPortable Seating: $40,000\r\n-\tStaffing and Personnel: $200,000\r\n\r\nWe have identified a number of potential funding sources, including:\r\n\r\n-\tHHS (Health & Human Services) Office of Community Service\r\n-\tJazz Foundation of America\r\n-\tWeingart Foundation\r\n-\tNational Endowment for the Humanities\r\n-\tJames Irvine Foundation\r\n-\tWallis Foundation\r\n\r\nIn addition to these outside funding sources, a percentage of the revenue generated by festivals, and by the sale of CD/DVDs and journals produced by the Artistic & Cultural Heritage Program, will be reinvested in the Studio. We also plan to expand the Leimert Park Village website and incorporate into it a comprehensive Directory of the area Creative Industry. The Studio and its website will thus be a gateway and a virtual co-working space nurturing collaboration and innovation. Possible revenue streams include fees for listings, and subscriptions for LiveStream TV.\r\n\r\nFinally, we are establishing a community investment financing mechanism built around Individual Development Accounts, to be made available in an Initial Public Offering based on a model used by the Market Street Plaza Program in San Diego. This grassroots community investment will be used as a kind of challenge to leverage further investment.\r\n"
+  budget: "We propose to use the LA 2050 Challenge Grant to fund a pilot phase of the project outlined in full above--in the following essential categories:\r\n\r\n-\tPersonnel: $55,000\r\n-\tPortable Green Screens: $25,000\r\n-\tTemporary Sound-Proofing: $10,000\r\n-\tRecording & Video Equipment: $10,000\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '1'
+  resources_education: '1'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_research: '1'
+  impact_metrics: "Employment in the local neighborhood-based creative industry, and enhanced internal capacity, are key to improving most of the above metrics. The establishment of an infrastructure nurturing collaboration and the creation of additional ventures and micro-enterprises will attract investment, creative talent, and new audiences. This effort will be further enhanced by the creation of a comprehensive Creative Director and Database.\r\n\r\nOur already established joint marketing program, website, and LiveStream TV Station will allow us to position ourselves as a local, national, and even international portal for cultural production and distribution--especially the arts and culture of the African and African-American Diaspora. This cultural focus will generate jobs and income for minority-run businesses and initiatives.\r\n\r\nOur Community Investment of Individual Development Accounts will act as seed money to leverage further venture capital investment in the neighborhood. In concert with the greatly expanded access and visibility afforded by the coming Metro station, this will increase the economic vitality of Leimert Park exponentially.\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Within the existing framework of the LPV 20/20 Vision Initiative, a grassroots
   community effort to shape the neighborhood’s economic development around its
@@ -96,444 +193,6 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    3. Building in a broad-based sense of ownership and investment in the Studio: Leimert Park Village is a small area with limited resources; to meet the full scope of our ambitions, we will have to make Leimert a magnet for cultural education, training, and enrichment; and a center for creative innovation.
 Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
 youtube_video_identifier: _BC4Wfw6Gb4
-project_areas:
-  - EAST LA
-  - SOUTH LA
-  - SOUTH BAY
-  - LA COUNTY
-maker_answers:
-  city_state: 'Los Angeles, CA'
-  org_name: Friends of the VisionTheater
-  org_website: 'http://www.leimertparkvillage.org/'
-  org_twitter: '@LeimertPVillage'
-  org_facebook: 'https://www.facebook.com/leimertparkvillage2020'
-  org_instagram: LeimertParkVillage
-  org_mailingaddress: "3341 W. 43rd Place\r\nLos Angeles, CA 90008"
-  org_ein: '954439557'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: >-
-    We are committed to making a renovated Vision Theater the driving principle
-    in shaping local development around a shared cultural legacy.
-  one_sentence_project: >-
-    World famous Leimert Park Village launches LPVR Studios, a neighborhood
-    cultural collaboration anchored at the Vision TheateR.
-  describe_idea: >-
-    LA’s “black Greenwich Village” will form the city’s leanest studio:
-    capturing its unique cultural legacy in word & sound & image
-  all_county: '1'
-  region_county: '0'
-  population_county: '1'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '1'
-  area_westside: '0'
-  'area_other:': '1'
-  area_other_blank: Leimert Park
-  more_detail: >-
-    Leimert Park Village Studios is part of a larger renaissance of Leimert Park
-    Village, now underway with the Leimert Park Village 20/20 Vision Initiative.
-    LPV Studios will be an umbrella micro-enterprise building on the strengths
-    of key community assets to form a network of production houses, freelance
-    producers, educators and entrepreneurs. LPV Studios will be anchored by
-    active cultural venues in the Village that will be upgraded to add
-    production and recording stages, performance and screening rooms, boutique
-    theaters, green screens, editing bays, and internet broadcasting systems.
-    Anchor venues will be supported by a marketing team and event producers,
-    using open spaces to provide content, excitement and ongoing visibility.
-  implement: "Within the existing framework of the LPV 20/20 Vision Initiative, a grassroots community effort to shape the neighborhood’s economic development around its cultural and artistic identity, we will flesh out a year-long calendar of cultural events: the Summer Arts Program of the Manchester Junior Arts Center; a Village-wide Music Caravan to be held every few months with themes like Jazz, Blues, Mardi Gras, and World Music; a monthly Art Walk centered in the People’s Street Plaza; MLK Day Festival; Kwanza Festival; African-American Arts & Music Festival; and, in December the massive street festival CicLAvia.\r\n\r\nThis event calendar, already in place, will provide us with the production calendar for LPV Studios. Around each event, we will produce original programming: recording performances, readings, and public art. Second, our signature events will be used as deadlines for the production of documentary material (film, audio, and literary) as part of our Artistic & Cultural Heritage Program--to be sold during the events, generating income for the local creative economy, and passing on our living arts to the broader community. \r\n\r\nThe event calendar will also structure our youth education efforts. We will use youth involvement in performance, planning and production to create a curriculum in arts history, media literary, in documenting cultural heritage, and in technical skills needed in the creative industry. This curriculum will be designed along the lines of the STEAM (Science, Technology, Engineering, Arts & Math) educational framework, positioning us to establish an accredited academic program. \r\n\r\nWe will conduct an assessment of the current technical capacity of anchor venues, and make necessary upgrades. We plan to target The World Stage, KAOS Network, Barbara Morrison and Fernando Pullum for temporary sound-proofing; to acquire portable green screens that can be used to film in all of the above, and at Youth n Motion; and to acquire a pool of cameras, audio and video recording equipment, and editing equipment to be shared amongst the partner venues. \r\n\r\nFinally, we will build a comprehensive Creative Directory. The talent base will include those directly connected to our anchor venues, independent producers and artists whose involvement in our events can be a springboard for additional ventures. The People’s Street Plaza will in essence serve as an open-air co-working space nurturing connection and collaboration. \r\n"
-  impact_create: "There is already a renaissance in Leimert Park Village, widely recognized as a hub of African-American cultural in Los Angeles. The socio-economic circumstances of the community belie its artistic wealth. Five MacArthur Genius Awards have been bestowed on artists with a history in the neighborhood--including Mark Bradford, who is investing in a major new arts education initiative.  The ongoing effort of the Village to survive as an iconic American community is at the heart of our project.\r\n\r\nIn the short term, existing cultural venues, joined in December by the newly approved Peoples Street Plaza, are a ready infrastructure for performance, education, and creative innovation. Our event calendar assures sustainable performance opportunities, while the LiveStream TV station and online cultural journal offer access to an expanded local (and later national and international) market. Venues with a long history creating more with less will be bolstered by new sources of income, as will independent producers and artists. The involvement of youth in all facets--from planning and performance to documenting the neighborhood’s artistic heritage--will train a new generation of creative industry professionals. The arrival of CicLAvia in December will bring a fresh new audience. \r\n\r\nIn the long term, the foundation established in the first year will allow us to fully take advantage of a series of opportunities ahead. The 750-seat Vision Theater will reopen in 2016, dramatically expanding capacity. The creative infrastructure we plan to have in place when the LPV Metro stop opens in 2020 will open up new markets. With a straight link to the airport and national and international travelers, LVP Studios will have access to the global travel market and creative economy. Capturing that market requires a core of cultural, business and artistic activities that will make LPV a 'must see' destination.\r\n\r\nBy 2050, Leimert Park Village promises to be a fully developed magnet for cultural enrichment and artistic innovation. A homegrown Studio, based in local cultural establishments and anchored by the Vision Theater and People’s Street Plaza, will offer a new generation of creative professionals training, employment, and structure for ongoing collaboration. As the local hub for the culture and arts of the African Diaspora, Leimert Park Village will be both an international destination, and a portal for national and international distribution of film and music.\r\n"
-  who_benefit: "LPV Studios will give a dynamic community the tools to build a sustainable creative infrastructure, ensuring that future economic development is guided by the area’s rich artistic heritage. \r\n\r\nA major beneficiary will be the local African-American community and those who have come to cherish its cultural legacy. Across the country, traditional centers of black culture have been disrupted and dispersed. Los Angeles has witnessed the dissolution of the famed Central Avenue jazz & blues scene, and the dislocation of the literary revival in Watts in the late 60s. Leimert Park remains the best hope for a permanent safe haven for that living history.\r\n\r\nVenues that for decades have learned to do more with less will be on solid footing. A shared pool of state-of-the-art equipment, modest facility upgrades, and paid coordinators will ground a thriving local creative industry. An enhanced schedule of cultural events will substantially expand the market for local creative production. Without this foundation, the community will be ill-equipped to capture the new traffic that the coming subway station will surely draw. With it, the possibilities are endless.\r\n\r\nLocal venues will be able to provide regular work for artists, instructors, and producers who have for years volunteered their time. Anchored by the open-air co-working space of the People’s Plaza, our cultural calendar will be an incubator for artistic innovation. This activity will be a growing source of varied employment in the creative industry.\r\n\r\nArea youth, who have for years faced a dearth of school arts and after-school programs, will have exciting new options. Youth participants will be given hands-on experience connecting them with their own cultural heritage, and providing practical skills for the future. We have the opportunity to nurture a whole new generation of artist-entrepreneurs. \r\n\r\nThe training component of the Studio will offer skills, structure and a second chance to the previously incarcerated, emancipated minors, foster youth, and young people who have difficulty finding a place in mainstream educational institutions. By providing a safe public space for youth and their families, we will enhance the social fabric of the area and prevent young people from getting into trouble in the first place.\r\n\r\nFinally, the historical archiving projects of the Studio will give our neighborhood’s elders a meaningful role in preserving our history and in passing it on to the next generation. \r\n"
-  partners_collaboration: "Our core collaborators are the anchor cultural venues that will form the foundation of the Studio: all of  whom are committed to the mission of the LPV 20/20 Vision Initiative; have begun coordinating a year-long schedule of festivals and cultural events, most recently a Village-wide Music Caravan; and have begun joint marketing through a shared website, cultural calendar, and LiveStream TV Station. \r\n\r\nThese partners, all confirmed, are:\r\n\r\n• The Vision Theater (750-seat theater due to re-open in 2016)\r\n• Manchester Junior Arts Center (youth arts programming)\r\n• Department of Cultural Affairs (oversight of Vision Theater)\r\n• KAOS Network (multi-use spaces, film production, sound stage)\r\n• Barbara Morrison Performing Arts Center (performance space, association with Living Legends)\r\n• Fernando Pullum Community Arts Center (performance space, training, performance space, production)\r\n• The World Stage (performance space, music and writing workshops)\r\n• Youth n Motion (youth tutoring, performance space)\r\n\r\nOther confirmed partners are:\r\n\r\n• Sika’s (retail store, festival organizer)\r\n• Community Build (liaison with Business Improvement District)\r\n• Urban Design Center (consultant)\r\n• Empowerment Congress West Area Neighborhood Council (co-convener of LPV 20/20 Initiative)\r\n• USC Annenberg School of Journalism (student interns)\r\n• African Soul International (youth interns)\r\n• Black Arts Foundation (festival organizer)\r\n• Leimert Park Group (festival organizer)\r\n• Marikel Consulting (festival organizer, consulting)\r\n• The Institute for Maximum Human Development (technical assistance)\r\n\r\nThere are a number of challenges involved in coordinating such an ambitious project amongst so many diverse partners. Factors critical to successful collaboration include:\r\n\r\n1. Practicing strategic resource management to leverage resources as efficiently as possible; steadily build technical and production capacity; and ensure long-term sustainability.\r\n\r\n2. Putting in place an organizational infrastructure that establishes a shared set of values and practices; clarifies benefits and obligations of partners; implements a long-term strategic plan.\r\n\r\n3. Building in a broad-based sense of ownership and investment in the Studio: Leimert Park Village is a small area with limited resources; to meet the full scope of our ambitions, we will have to make Leimert a magnet for cultural education, training, and enrichment; and a center for creative innovation. \r\n"
-  metrics_create_employment: '1'
-  metrics_create_arts: '1'
-  metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
-  metrics_create_patents: '0'
-  metrics_create_jbs: '1'
-  metrics_create_minoritywomenowned: '1'
-  metrics_create_gini: '1'
-  metrics_create_startups: '0'
-  metrics_create_venturecapital: '1'
-  metrics_create_influencers: '1'
-  metrics_create_recruitingrates: '0'
-  metrics_create_graduates: '0'
-  metrics_create_unemployment: '1'
-  metrics_create_other: '0'
-  metrics_create_blank: ''
-  impact_metrics: "Employment in the local neighborhood-based creative industry, and enhanced internal capacity, are key to improving most of the above metrics. The establishment of an infrastructure nurturing collaboration and the creation of additional ventures and micro-enterprises will attract investment, creative talent, and new audiences. This effort will be further enhanced by the creation of a comprehensive Creative Director and Database.\r\n\r\nOur already established joint marketing program, website, and LiveStream TV Station will allow us to position ourselves as a local, national, and even international portal for cultural production and distribution--especially the arts and culture of the African and African-American Diaspora. This cultural focus will generate jobs and income for minority-run businesses and initiatives.\r\n\r\nOur Community Investment of Individual Development Accounts will act as seed money to leverage further venture capital investment in the neighborhood. In concert with the greatly expanded access and visibility afforded by the coming Metro station, this will increase the economic vitality of Leimert Park exponentially.\r\n\r\n"
-  best_place_to_learn: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '1'
-  best_place_to_play: '1'
-  evaluate: "We will evaluate our success first by concrete measures of growth in the local creative industry. We have begun a baseline measure of the number of volunteer hours that currently sustain neighborhood cultural venues. This is our human capital, our sweat equity. The number of full- and part-time positions that can be generated to local creatives will be a significant measure of success.\r\n\r\nWeekly meetings at the Vision provide a forum for brainstorming and announcing new creative projects. Another measure will be the number of new projects created; and the new income and investment generated by those projects. The 20/20 Initiative is also in the process of setting up a community investment model in which residents will be able to purchase Individual Development Accounts. This community investment, and any further investment that can be leveraged, will be another measure.\r\n\r\nAudience development at individual venues and Village events will be another important measure. The creation of a shared website and cultural calendar, and the beginnings of a joint marketing campaign, have already produced increased attendance. In December, CicLAvia will bring thousands of new visitors to the area. The upgraded infrastructure and enhanced technical capacity the 2050 Challenge grant would provide will allow us to capture this new audience and bring them back as repeat customers, not just one-time visitors. Festivals that have at best operated at a break-even will be able to turn a profit. And the coordinated marketing strategy of LeimertParkVillage.org will allow us to measure the growth of our combined social media imprint.\r\n\r\nThe historical and original programming components of the Studio will also have specific measurable outcomes. This production—in the form of archival CD/DVDs, recordings of new performances, print and web editions of our cultural journal Renaissance, and videos uploaded to the LiveStream TV station—will generate income for local artists and venues, preserve and capture the area’s living cultural legacy, and bring that legacy to new audiences.\r\n\r\nWe will also use specific measures of success for the Studio’s youth component. We will track the number of young people involved in the many opportunities that will be offered them—from assisting in the monthly Art Walk to involvement in Studio production. For participants in our core curriculum, we will conduct before and after measures of knowledge of cultural history, technical skills, and civic engagement."
-  two_lessons: "A cautionary lesson informing our project is the historic fragility of African-American cultural institutions, and the high social cost of failing to sustain them. \r\n\r\nWe have seen this happen nearly a century ago with the Harlem Renaissance: a perfect storm of musical, literary, political and intellectual energy that nurtured countless talents such as Josephine Baker, Langston Hughes, James Baldwin, W.E.B. Du Bois, and Zora Neale Hurston, and helped lay the groundwork for the Civil Rights Movement. But this thriving scene lacked a sustainable economic base, and even the signature Apollo Theater fell into decline in the 60s and 70s.\r\n\r\nW have seen the same pattern here, most notably in the break-up of the Central Avenue community of the 40s and 50s that was home not just to a world-famous jazz & blues scene, but also to a stable axis of African-American life in Los Angeles. Due to a range of factors--including post-war unemployment, discontinuation of trolley serving connecting Central Avenue, and active harassment of music clubs drawing mixed race crowds--the scene fell into decline, helping to set the stage for the unrest of the 1960s.\r\n\r\nThe lesson of these cautionary histories is real, the stakes high. Leimert Park Village is at a crossroads. The coming Metro station will bring new visibility and investment to a neighborhood that, despite its rich heritage, remains an undiscovered gem. The time is right to foster institutions that will ensure that the area’s future development is built around its cultural legacy. A nascent renaissance is in the works. But the dangers are real, too. The architectural anchor of the Village, the Vision Theater, was closed for ten years. Venues like Fifth Street Dick’s, or the relocated Ric’s and Babe’s, the last vestige of the old Central Avenue blues scene, have not lasted. The time to act is now.\r\n\r\nRecent history strikes a hopeful note as well. In 2012 the shuttle Endeavor came to Los Angeles. The route chosen from LAX to the Los Angeles Science Center in Exposition Park had the potential to disrupt and disfigure communities along the route. A grassroots campaign among community members, the Science Center and the city of Los Angeles minimized disruption, and brought a range of mitigating benefits such as a 4-to-1 tree replacement and sidewalk repair. This experience showed an engaged community can shape its destiny, and the results of our initial collaborations via the 20/20 Vision Initiative have only reinforced that lesson."
-  achievable_goal: "A committed team organized through the Leimert Park Village 20/20 Vision Initiative is in place. A yearlong calendar of festivals and cultural events provides a built-in production schedule. The project is underway is simply requires modest investments in technical capacity and in consistent paid staffing.\r\n\r\nThe team in place includes volunteers from the anchor venues, urban planners, producers, entrepreneurs, educators, community leaders and others. At weekly LPV 20/20 Initiative meetings hosted by the Vision Theater team leaders give progress reports; guest collaborators make presentations; and input is solicited from the broader community. Individual committees meet separately to carry out their assignments. \r\n\r\nWhile each of the anchor venues is in need of upgrades, the “bricks and mortar” foundation is in place as well: KAOS Network, Barbara Morrison, Fernando Pullum, The World Stage. Our capacity will soon be enhanced dramatically by the recently approved People’s Street Plaza. One of only three such designated plazas in LA, this public art space provides the Studio with numerous programming options. Its connection with the Park and its signature fountain and weekly drum circle further broadens the canvas.\r\n\r\nNew funding will allow us to provide modest but critical upgrades and equipment purchases. Targeted venues will be outfitted with temporary sound-proofing and portable green screens. Cameras, audio and video recording equipment, and editing equipment will be pooled amongst the venues. \r\n\r\nOur yearlong cultural calendar is built around the monthly Art Walk, and our new quarterly Music Caravan. Other signature events are an MLK Day Festival; Kwanza Festival; and African-American Arts & Music Festival. This year’s calendar will be bolstered by CicLAvia in December, bringing thousands of new visitors. We will meet this unique opportunity with a World Music Caravan, and the sale of CD/DVDs and an arts journal produced by the Heritage Program. Subsequent events like a Mardis Gras Carnival in February will provide the Studio with its next round of production deadlines. \r\n\r\nThe yearlong calendar of cultural events provides both a production calendar for the Studio, and an educational calendar for our youth arts curriculum. Pegging education goals to production goals ensures students hands-on experience that will provide them with valuable technical skills, as well as enhance academic achievement within the STEAM learning framework.  \r\n"
-  major_challenges: "A new Leimert Park Village subway stop promises to bring new visibility and investment to an area that has historically been  underserved. The need to develop the internal capacity of existing businesses and cultural establishments, and to lay the groundwork for further neighborhood-based initiatives, could not be more urgent. Without that dramatically enhanced internal capacity, this iconic neighborhood is at risk of being shaped by outside forces.\r\n\r\nThe joint collaborations begun under the Leimert Park Village 20/20 Vision Initiative are a hopeful start--already drawing increased attendance at individual venues and Village-wide events, and attracting the energies of local artists and entrepeneurs . The recently approved People’s Street Plaza on 43rd Place offers a huge boost to our efforts to foster a Leimert Park Village Renaissance. Closed off by large planters and populated with installations and public art, the Plaza will be a permanent open-air cultural venue. The Plaza will be anchored on the north by the soon to be reopened Vision Theater, already hosting programs such as a Summer Youth Arts Camp. In concert with the youth component of the Artistic & Cultural Heritage Program, the Plaza, Vision Theater and neighborhood venues can transform Leimert Park Village into a magnet for youth and family-friendly cultural enrichment.\r\n\r\nLong-standing stigmas about the neighborhood constitute a second challenge. Bring up Leimert Park and people want to talk about the Black Dahlia murder of 1947; or Training Day; or the club shoot-out scene in Collateral. They won’t talk about the five MacArthur Genius Grant awardees whose paths have come through Leimert--including legendary film director Charles Burnett, and artist Mark Bradford. They also won’t talk about the Sankofa Passageway, a “walk of fame” on the upper west block of Degnan enshrining thirty-two African-American musicians, writers, architects, educators, craftsmen and curators who spent substantial time in Leimert.\r\n\r\nLPV Studios will “re-brand” Leimert Park as the artistic and cultural mecca it has in fact always been. The best antidote to stereotype is the telling of authentic stories. Leimert overflows with such stories: from the Sankofa Passageway, to an alley mural depicting local heroes like Billy Higgins and Horace Tapscott, to the tile mosaics of former artist-in-residence Ramsess. A fully funded LPV Studios will finally be able to capture and project this authentic narrative."
-  competition: "There are a number of collections at UCLA that document the artistic and cultural history of Leimert Park Village. The Oral History Project includes extensive interviews with local musicians, writers, and visual artists. In its Special Collections division is an entire collection devoted to the life of Horace Tapscott, a legendary musician and leader of the community arts movement based in Leimert Park Village for the latter part of his career. Additionally, the raw footage for a highly regarded documentary of Leimert Park Village is housed at UCLA.\r\n\r\nBut the initiative for these documentary efforts is entirely with individual collectors and cultural historians. UCLA itself has not to date made an effort to coordinate or expand this archiving, and there has been no involvement with the local community. The distinctive element of the Artistic & Cultural Heritage Program of Leimert Park Village Studios lies in its being based in the neighborhood; its involvement of the artists and musicians and writers and historic venues that in fact made that history; and in its fostering of an intergenerational dialogue around a shared cultural legacy.\r\n\r\nAdditionally, there a handful of local centers providing multi-media training and education: Castaic Studios, the Media Arts Center, and Ka Media Center. But while providing valuable technical training, these programs do not embody the broader mission of Leimert Park Village Studios to connect young people with the artistic and cultural heritage, and actively involve them in documenting and preserving that heritage.\r\n"
-  cost: "For the initial phase of implementing Leimert Park Village Studios, we project a necessary investment of $700,000--broken down in the following categories:\r\n\r\n-\tAir-conditioning/heating at key venues: $60,000\r\n-\tGreen screens: $55,000\r\n-\tPortable Lighting & Rigging: $125,000\r\n-\tPortable Staging: $35,000\r\n-\tOutdoor Theater Shell for the Park: $75,000\r\n-\tRecording Equipment: $20,000\r\n-\tSound Proofing: $50,000\r\n-\tOutdoor Lighting: $20,000\r\n-\tState-of-the-art Screens: $20,000\r\n-\tPortable Seating: $40,000\r\n-\tStaffing and Personnel: $200,000\r\n\r\nWe have identified a number of potential funding sources, including:\r\n\r\n-\tHHS (Health & Human Services) Office of Community Service\r\n-\tJazz Foundation of America\r\n-\tWeingart Foundation\r\n-\tNational Endowment for the Humanities\r\n-\tJames Irvine Foundation\r\n-\tWallis Foundation\r\n\r\nIn addition to these outside funding sources, a percentage of the revenue generated by festivals, and by the sale of CD/DVDs and journals produced by the Artistic & Cultural Heritage Program, will be reinvested in the Studio. We also plan to expand the Leimert Park Village website and incorporate into it a comprehensive Directory of the area Creative Industry. The Studio and its website will thus be a gateway and a virtual co-working space nurturing collaboration and innovation. Possible revenue streams include fees for listings, and subscriptions for LiveStream TV.\r\n\r\nFinally, we are establishing a community investment financing mechanism built around Individual Development Accounts, to be made available in an Initial Public Offering based on a model used by the Market Street Plaza Program in San Diego. This grassroots community investment will be used as a kind of challenge to leverage further investment.\r\n"
-  budget: "We propose to use the LA 2050 Challenge Grant to fund a pilot phase of the project outlined in full above--in the following essential categories:\r\n\r\n-\tPersonnel: $55,000\r\n-\tPortable Green Screens: $25,000\r\n-\tTemporary Sound-Proofing: $10,000\r\n-\tRecording & Video Equipment: $10,000\r\n"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '1'
-  resources_education: '1'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_network: '0'
-  resources_research: '1'
-maker_answers_list:
-  - name: city_state
-    label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
-    answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: Friends of the VisionTheater
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
-    answer: 'http://www.leimertparkvillage.org/'
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: '@LeimertPVillage'
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: 'https://www.facebook.com/leimertparkvillage2020'
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: LeimertParkVillage
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: "3341 W. 43rd Place\r\nLos Angeles, CA 90008"
-  - name: org_ein
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '954439557'
-  - name: org_nonprofit
-    label: Nonprofit organization
-    explanation: ''
-    answer: '1'
-  - name: org_forprofit
-    label: For-profit organization
-    explanation: ''
-    answer: '0'
-  - name: org_government
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '0'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '1'
-  - name: describe_organization
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      We are committed to making a renovated Vision Theater the driving
-      principle in shaping local development around a shared cultural legacy.
-  - name: one_sentence_project
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      World famous Leimert Park Village launches LPVR Studios, a neighborhood
-      cultural collaboration anchored at the Vision TheateR.
-  - name: describe_idea
-    label: ''
-    explanation: >-
-      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
-      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
-      have such an awesome project! Please vote for @GoldhirshFdn here!'
-    answer: >-
-      LA’s “black Greenwich Village” will form the city’s leanest studio:
-      capturing its unique cultural legacy in word & sound & image
-  - name: all_county
-    label: Yes (benefits all of LA County)
-    explanation: ''
-    answer: '1'
-  - name: region_county
-    label: ''
-    explanation: Yes (benefits a region of LA County)
-    answer: '0'
-  - name: population_county
-    label: ''
-    explanation: Yes (benefits a population of LA County)
-    answer: '1'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '0'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '1'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '0'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '0'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '1'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '0'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '1'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: Leimert Park
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: >-
-      Leimert Park Village Studios is part of a larger renaissance of Leimert
-      Park Village, now underway with the Leimert Park Village 20/20 Vision
-      Initiative. LPV Studios will be an umbrella micro-enterprise building on
-      the strengths of key community assets to form a network of production
-      houses, freelance producers, educators and entrepreneurs. LPV Studios will
-      be anchored by active cultural venues in the Village that will be upgraded
-      to add production and recording stages, performance and screening rooms,
-      boutique theaters, green screens, editing bays, and internet broadcasting
-      systems. Anchor venues will be supported by a marketing team and event
-      producers, using open spaces to provide content, excitement and ongoing
-      visibility.
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "Within the existing framework of the LPV 20/20 Vision Initiative, a grassroots community effort to shape the neighborhood’s economic development around its cultural and artistic identity, we will flesh out a year-long calendar of cultural events: the Summer Arts Program of the Manchester Junior Arts Center; a Village-wide Music Caravan to be held every few months with themes like Jazz, Blues, Mardi Gras, and World Music; a monthly Art Walk centered in the People’s Street Plaza; MLK Day Festival; Kwanza Festival; African-American Arts & Music Festival; and, in December the massive street festival CicLAvia.\r\n\r\nThis event calendar, already in place, will provide us with the production calendar for LPV Studios. Around each event, we will produce original programming: recording performances, readings, and public art. Second, our signature events will be used as deadlines for the production of documentary material (film, audio, and literary) as part of our Artistic & Cultural Heritage Program--to be sold during the events, generating income for the local creative economy, and passing on our living arts to the broader community. \r\n\r\nThe event calendar will also structure our youth education efforts. We will use youth involvement in performance, planning and production to create a curriculum in arts history, media literary, in documenting cultural heritage, and in technical skills needed in the creative industry. This curriculum will be designed along the lines of the STEAM (Science, Technology, Engineering, Arts & Math) educational framework, positioning us to establish an accredited academic program. \r\n\r\nWe will conduct an assessment of the current technical capacity of anchor venues, and make necessary upgrades. We plan to target The World Stage, KAOS Network, Barbara Morrison and Fernando Pullum for temporary sound-proofing; to acquire portable green screens that can be used to film in all of the above, and at Youth n Motion; and to acquire a pool of cameras, audio and video recording equipment, and editing equipment to be shared amongst the partner venues. \r\n\r\nFinally, we will build a comprehensive Creative Directory. The talent base will include those directly connected to our anchor venues, independent producers and artists whose involvement in our events can be a springboard for additional ventures. The People’s Street Plaza will in essence serve as an open-air co-working space nurturing connection and collaboration. \r\n"
-  - name: impact_create
-    label: ''
-    explanation: ''
-    answer: "There is already a renaissance in Leimert Park Village, widely recognized as a hub of African-American cultural in Los Angeles. The socio-economic circumstances of the community belie its artistic wealth. Five MacArthur Genius Awards have been bestowed on artists with a history in the neighborhood--including Mark Bradford, who is investing in a major new arts education initiative.  The ongoing effort of the Village to survive as an iconic American community is at the heart of our project.\r\n\r\nIn the short term, existing cultural venues, joined in December by the newly approved Peoples Street Plaza, are a ready infrastructure for performance, education, and creative innovation. Our event calendar assures sustainable performance opportunities, while the LiveStream TV station and online cultural journal offer access to an expanded local (and later national and international) market. Venues with a long history creating more with less will be bolstered by new sources of income, as will independent producers and artists. The involvement of youth in all facets--from planning and performance to documenting the neighborhood’s artistic heritage--will train a new generation of creative industry professionals. The arrival of CicLAvia in December will bring a fresh new audience. \r\n\r\nIn the long term, the foundation established in the first year will allow us to fully take advantage of a series of opportunities ahead. The 750-seat Vision Theater will reopen in 2016, dramatically expanding capacity. The creative infrastructure we plan to have in place when the LPV Metro stop opens in 2020 will open up new markets. With a straight link to the airport and national and international travelers, LVP Studios will have access to the global travel market and creative economy. Capturing that market requires a core of cultural, business and artistic activities that will make LPV a 'must see' destination.\r\n\r\nBy 2050, Leimert Park Village promises to be a fully developed magnet for cultural enrichment and artistic innovation. A homegrown Studio, based in local cultural establishments and anchored by the Vision Theater and People’s Street Plaza, will offer a new generation of creative professionals training, employment, and structure for ongoing collaboration. As the local hub for the culture and arts of the African Diaspora, Leimert Park Village will be both an international destination, and a portal for national and international distribution of film and music.\r\n"
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "LPV Studios will give a dynamic community the tools to build a sustainable creative infrastructure, ensuring that future economic development is guided by the area’s rich artistic heritage. \r\n\r\nA major beneficiary will be the local African-American community and those who have come to cherish its cultural legacy. Across the country, traditional centers of black culture have been disrupted and dispersed. Los Angeles has witnessed the dissolution of the famed Central Avenue jazz & blues scene, and the dislocation of the literary revival in Watts in the late 60s. Leimert Park remains the best hope for a permanent safe haven for that living history.\r\n\r\nVenues that for decades have learned to do more with less will be on solid footing. A shared pool of state-of-the-art equipment, modest facility upgrades, and paid coordinators will ground a thriving local creative industry. An enhanced schedule of cultural events will substantially expand the market for local creative production. Without this foundation, the community will be ill-equipped to capture the new traffic that the coming subway station will surely draw. With it, the possibilities are endless.\r\n\r\nLocal venues will be able to provide regular work for artists, instructors, and producers who have for years volunteered their time. Anchored by the open-air co-working space of the People’s Plaza, our cultural calendar will be an incubator for artistic innovation. This activity will be a growing source of varied employment in the creative industry.\r\n\r\nArea youth, who have for years faced a dearth of school arts and after-school programs, will have exciting new options. Youth participants will be given hands-on experience connecting them with their own cultural heritage, and providing practical skills for the future. We have the opportunity to nurture a whole new generation of artist-entrepreneurs. \r\n\r\nThe training component of the Studio will offer skills, structure and a second chance to the previously incarcerated, emancipated minors, foster youth, and young people who have difficulty finding a place in mainstream educational institutions. By providing a safe public space for youth and their families, we will enhance the social fabric of the area and prevent young people from getting into trouble in the first place.\r\n\r\nFinally, the historical archiving projects of the Studio will give our neighborhood’s elders a meaningful role in preserving our history and in passing it on to the next generation. \r\n"
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "Our core collaborators are the anchor cultural venues that will form the foundation of the Studio: all of  whom are committed to the mission of the LPV 20/20 Vision Initiative; have begun coordinating a year-long schedule of festivals and cultural events, most recently a Village-wide Music Caravan; and have begun joint marketing through a shared website, cultural calendar, and LiveStream TV Station. \r\n\r\nThese partners, all confirmed, are:\r\n\r\n• The Vision Theater (750-seat theater due to re-open in 2016)\r\n• Manchester Junior Arts Center (youth arts programming)\r\n• Department of Cultural Affairs (oversight of Vision Theater)\r\n• KAOS Network (multi-use spaces, film production, sound stage)\r\n• Barbara Morrison Performing Arts Center (performance space, association with Living Legends)\r\n• Fernando Pullum Community Arts Center (performance space, training, performance space, production)\r\n• The World Stage (performance space, music and writing workshops)\r\n• Youth n Motion (youth tutoring, performance space)\r\n\r\nOther confirmed partners are:\r\n\r\n• Sika’s (retail store, festival organizer)\r\n• Community Build (liaison with Business Improvement District)\r\n• Urban Design Center (consultant)\r\n• Empowerment Congress West Area Neighborhood Council (co-convener of LPV 20/20 Initiative)\r\n• USC Annenberg School of Journalism (student interns)\r\n• African Soul International (youth interns)\r\n• Black Arts Foundation (festival organizer)\r\n• Leimert Park Group (festival organizer)\r\n• Marikel Consulting (festival organizer, consulting)\r\n• The Institute for Maximum Human Development (technical assistance)\r\n\r\nThere are a number of challenges involved in coordinating such an ambitious project amongst so many diverse partners. Factors critical to successful collaboration include:\r\n\r\n1. Practicing strategic resource management to leverage resources as efficiently as possible; steadily build technical and production capacity; and ensure long-term sustainability.\r\n\r\n2. Putting in place an organizational infrastructure that establishes a shared set of values and practices; clarifies benefits and obligations of partners; implements a long-term strategic plan.\r\n\r\n3. Building in a broad-based sense of ownership and investment in the Studio: Leimert Park Village is a small area with limited resources; to meet the full scope of our ambitions, we will have to make Leimert a magnet for cultural education, training, and enrichment; and a center for creative innovation. \r\n"
-  - name: metrics_create_employment
-    label: Employment in creative industries
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_arts
-    label: Arts establishments per capita
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_manufacturing
-    label: Concentration of manufacturing activity in LA
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_researchgrant
-    label: Federal research grant funding
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_patents
-    label: Patents per capita
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_jbs
-    label: Jobs per capita
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_minoritywomenowned
-    label: Minority- and women-owned firms
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_gini
-    label: Gini coefficient
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_startups
-    label: Number of high-growth startups
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_venturecapital
-    label: Venture capital investment
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_influencers
-    label: >-
-      Measures of cultural and global economic influence (“soft power”) (Dream
-      Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_recruitingrates
-    label: >-
-      Recruiting and retention rates at local higher education institutions
-      (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_graduates
-    label: >-
-      Percentage of graduates from local higher education institutions that
-      remain in LA County 5 years after graduating (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_unemployment
-    label: >-
-      Unemployment rates (and opportunities) for the formerly incarcerated
-      (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_other
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "Employment in the local neighborhood-based creative industry, and enhanced internal capacity, are key to improving most of the above metrics. The establishment of an infrastructure nurturing collaboration and the creation of additional ventures and micro-enterprises will attract investment, creative talent, and new audiences. This effort will be further enhanced by the creation of a comprehensive Creative Director and Database.\r\n\r\nOur already established joint marketing program, website, and LiveStream TV Station will allow us to position ourselves as a local, national, and even international portal for cultural production and distribution--especially the arts and culture of the African and African-American Diaspora. This cultural focus will generate jobs and income for minority-run businesses and initiatives.\r\n\r\nOur Community Investment of Individual Development Accounts will act as seed money to leverage further venture capital investment in the neighborhood. In concert with the greatly expanded access and visibility afforded by the coming Metro station, this will increase the economic vitality of Leimert Park exponentially.\r\n\r\n"
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '1'
-  - name: healthiest_place_to_live
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '1'
-  - name: evaluate
-    label: ''
-    explanation: ''
-    answer: "We will evaluate our success first by concrete measures of growth in the local creative industry. We have begun a baseline measure of the number of volunteer hours that currently sustain neighborhood cultural venues. This is our human capital, our sweat equity. The number of full- and part-time positions that can be generated to local creatives will be a significant measure of success.\r\n\r\nWeekly meetings at the Vision provide a forum for brainstorming and announcing new creative projects. Another measure will be the number of new projects created; and the new income and investment generated by those projects. The 20/20 Initiative is also in the process of setting up a community investment model in which residents will be able to purchase Individual Development Accounts. This community investment, and any further investment that can be leveraged, will be another measure.\r\n\r\nAudience development at individual venues and Village events will be another important measure. The creation of a shared website and cultural calendar, and the beginnings of a joint marketing campaign, have already produced increased attendance. In December, CicLAvia will bring thousands of new visitors to the area. The upgraded infrastructure and enhanced technical capacity the 2050 Challenge grant would provide will allow us to capture this new audience and bring them back as repeat customers, not just one-time visitors. Festivals that have at best operated at a break-even will be able to turn a profit. And the coordinated marketing strategy of LeimertParkVillage.org will allow us to measure the growth of our combined social media imprint.\r\n\r\nThe historical and original programming components of the Studio will also have specific measurable outcomes. This production—in the form of archival CD/DVDs, recordings of new performances, print and web editions of our cultural journal Renaissance, and videos uploaded to the LiveStream TV station—will generate income for local artists and venues, preserve and capture the area’s living cultural legacy, and bring that legacy to new audiences.\r\n\r\nWe will also use specific measures of success for the Studio’s youth component. We will track the number of young people involved in the many opportunities that will be offered them—from assisting in the monthly Art Walk to involvement in Studio production. For participants in our core curriculum, we will conduct before and after measures of knowledge of cultural history, technical skills, and civic engagement."
-  - name: two_lessons
-    label: ''
-    explanation: ''
-    answer: "A cautionary lesson informing our project is the historic fragility of African-American cultural institutions, and the high social cost of failing to sustain them. \r\n\r\nWe have seen this happen nearly a century ago with the Harlem Renaissance: a perfect storm of musical, literary, political and intellectual energy that nurtured countless talents such as Josephine Baker, Langston Hughes, James Baldwin, W.E.B. Du Bois, and Zora Neale Hurston, and helped lay the groundwork for the Civil Rights Movement. But this thriving scene lacked a sustainable economic base, and even the signature Apollo Theater fell into decline in the 60s and 70s.\r\n\r\nW have seen the same pattern here, most notably in the break-up of the Central Avenue community of the 40s and 50s that was home not just to a world-famous jazz & blues scene, but also to a stable axis of African-American life in Los Angeles. Due to a range of factors--including post-war unemployment, discontinuation of trolley serving connecting Central Avenue, and active harassment of music clubs drawing mixed race crowds--the scene fell into decline, helping to set the stage for the unrest of the 1960s.\r\n\r\nThe lesson of these cautionary histories is real, the stakes high. Leimert Park Village is at a crossroads. The coming Metro station will bring new visibility and investment to a neighborhood that, despite its rich heritage, remains an undiscovered gem. The time is right to foster institutions that will ensure that the area’s future development is built around its cultural legacy. A nascent renaissance is in the works. But the dangers are real, too. The architectural anchor of the Village, the Vision Theater, was closed for ten years. Venues like Fifth Street Dick’s, or the relocated Ric’s and Babe’s, the last vestige of the old Central Avenue blues scene, have not lasted. The time to act is now.\r\n\r\nRecent history strikes a hopeful note as well. In 2012 the shuttle Endeavor came to Los Angeles. The route chosen from LAX to the Los Angeles Science Center in Exposition Park had the potential to disrupt and disfigure communities along the route. A grassroots campaign among community members, the Science Center and the city of Los Angeles minimized disruption, and brought a range of mitigating benefits such as a 4-to-1 tree replacement and sidewalk repair. This experience showed an engaged community can shape its destiny, and the results of our initial collaborations via the 20/20 Vision Initiative have only reinforced that lesson."
-  - name: achievable_goal
-    label: ''
-    explanation: ''
-    answer: "A committed team organized through the Leimert Park Village 20/20 Vision Initiative is in place. A yearlong calendar of festivals and cultural events provides a built-in production schedule. The project is underway is simply requires modest investments in technical capacity and in consistent paid staffing.\r\n\r\nThe team in place includes volunteers from the anchor venues, urban planners, producers, entrepreneurs, educators, community leaders and others. At weekly LPV 20/20 Initiative meetings hosted by the Vision Theater team leaders give progress reports; guest collaborators make presentations; and input is solicited from the broader community. Individual committees meet separately to carry out their assignments. \r\n\r\nWhile each of the anchor venues is in need of upgrades, the “bricks and mortar” foundation is in place as well: KAOS Network, Barbara Morrison, Fernando Pullum, The World Stage. Our capacity will soon be enhanced dramatically by the recently approved People’s Street Plaza. One of only three such designated plazas in LA, this public art space provides the Studio with numerous programming options. Its connection with the Park and its signature fountain and weekly drum circle further broadens the canvas.\r\n\r\nNew funding will allow us to provide modest but critical upgrades and equipment purchases. Targeted venues will be outfitted with temporary sound-proofing and portable green screens. Cameras, audio and video recording equipment, and editing equipment will be pooled amongst the venues. \r\n\r\nOur yearlong cultural calendar is built around the monthly Art Walk, and our new quarterly Music Caravan. Other signature events are an MLK Day Festival; Kwanza Festival; and African-American Arts & Music Festival. This year’s calendar will be bolstered by CicLAvia in December, bringing thousands of new visitors. We will meet this unique opportunity with a World Music Caravan, and the sale of CD/DVDs and an arts journal produced by the Heritage Program. Subsequent events like a Mardis Gras Carnival in February will provide the Studio with its next round of production deadlines. \r\n\r\nThe yearlong calendar of cultural events provides both a production calendar for the Studio, and an educational calendar for our youth arts curriculum. Pegging education goals to production goals ensures students hands-on experience that will provide them with valuable technical skills, as well as enhance academic achievement within the STEAM learning framework.  \r\n"
-  - name: major_challenges
-    label: ''
-    explanation: ''
-    answer: "A new Leimert Park Village subway stop promises to bring new visibility and investment to an area that has historically been  underserved. The need to develop the internal capacity of existing businesses and cultural establishments, and to lay the groundwork for further neighborhood-based initiatives, could not be more urgent. Without that dramatically enhanced internal capacity, this iconic neighborhood is at risk of being shaped by outside forces.\r\n\r\nThe joint collaborations begun under the Leimert Park Village 20/20 Vision Initiative are a hopeful start--already drawing increased attendance at individual venues and Village-wide events, and attracting the energies of local artists and entrepeneurs . The recently approved People’s Street Plaza on 43rd Place offers a huge boost to our efforts to foster a Leimert Park Village Renaissance. Closed off by large planters and populated with installations and public art, the Plaza will be a permanent open-air cultural venue. The Plaza will be anchored on the north by the soon to be reopened Vision Theater, already hosting programs such as a Summer Youth Arts Camp. In concert with the youth component of the Artistic & Cultural Heritage Program, the Plaza, Vision Theater and neighborhood venues can transform Leimert Park Village into a magnet for youth and family-friendly cultural enrichment.\r\n\r\nLong-standing stigmas about the neighborhood constitute a second challenge. Bring up Leimert Park and people want to talk about the Black Dahlia murder of 1947; or Training Day; or the club shoot-out scene in Collateral. They won’t talk about the five MacArthur Genius Grant awardees whose paths have come through Leimert--including legendary film director Charles Burnett, and artist Mark Bradford. They also won’t talk about the Sankofa Passageway, a “walk of fame” on the upper west block of Degnan enshrining thirty-two African-American musicians, writers, architects, educators, craftsmen and curators who spent substantial time in Leimert.\r\n\r\nLPV Studios will “re-brand” Leimert Park as the artistic and cultural mecca it has in fact always been. The best antidote to stereotype is the telling of authentic stories. Leimert overflows with such stories: from the Sankofa Passageway, to an alley mural depicting local heroes like Billy Higgins and Horace Tapscott, to the tile mosaics of former artist-in-residence Ramsess. A fully funded LPV Studios will finally be able to capture and project this authentic narrative."
-  - name: competition
-    label: ''
-    explanation: ''
-    answer: "There are a number of collections at UCLA that document the artistic and cultural history of Leimert Park Village. The Oral History Project includes extensive interviews with local musicians, writers, and visual artists. In its Special Collections division is an entire collection devoted to the life of Horace Tapscott, a legendary musician and leader of the community arts movement based in Leimert Park Village for the latter part of his career. Additionally, the raw footage for a highly regarded documentary of Leimert Park Village is housed at UCLA.\r\n\r\nBut the initiative for these documentary efforts is entirely with individual collectors and cultural historians. UCLA itself has not to date made an effort to coordinate or expand this archiving, and there has been no involvement with the local community. The distinctive element of the Artistic & Cultural Heritage Program of Leimert Park Village Studios lies in its being based in the neighborhood; its involvement of the artists and musicians and writers and historic venues that in fact made that history; and in its fostering of an intergenerational dialogue around a shared cultural legacy.\r\n\r\nAdditionally, there a handful of local centers providing multi-media training and education: Castaic Studios, the Media Arts Center, and Ka Media Center. But while providing valuable technical training, these programs do not embody the broader mission of Leimert Park Village Studios to connect young people with the artistic and cultural heritage, and actively involve them in documenting and preserving that heritage.\r\n"
-  - name: cost
-    label: ''
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: "For the initial phase of implementing Leimert Park Village Studios, we project a necessary investment of $700,000--broken down in the following categories:\r\n\r\n-\tAir-conditioning/heating at key venues: $60,000\r\n-\tGreen screens: $55,000\r\n-\tPortable Lighting & Rigging: $125,000\r\n-\tPortable Staging: $35,000\r\n-\tOutdoor Theater Shell for the Park: $75,000\r\n-\tRecording Equipment: $20,000\r\n-\tSound Proofing: $50,000\r\n-\tOutdoor Lighting: $20,000\r\n-\tState-of-the-art Screens: $20,000\r\n-\tPortable Seating: $40,000\r\n-\tStaffing and Personnel: $200,000\r\n\r\nWe have identified a number of potential funding sources, including:\r\n\r\n-\tHHS (Health & Human Services) Office of Community Service\r\n-\tJazz Foundation of America\r\n-\tWeingart Foundation\r\n-\tNational Endowment for the Humanities\r\n-\tJames Irvine Foundation\r\n-\tWallis Foundation\r\n\r\nIn addition to these outside funding sources, a percentage of the revenue generated by festivals, and by the sale of CD/DVDs and journals produced by the Artistic & Cultural Heritage Program, will be reinvested in the Studio. We also plan to expand the Leimert Park Village website and incorporate into it a comprehensive Directory of the area Creative Industry. The Studio and its website will thus be a gateway and a virtual co-working space nurturing collaboration and innovation. Possible revenue streams include fees for listings, and subscriptions for LiveStream TV.\r\n\r\nFinally, we are establishing a community investment financing mechanism built around Individual Development Accounts, to be made available in an Initial Public Offering based on a model used by the Market Street Plaza Program in San Diego. This grassroots community investment will be used as a kind of challenge to leverage further investment.\r\n"
-  - name: budget
-    label: ''
-    explanation: ''
-    answer: "We propose to use the LA 2050 Challenge Grant to fund a pilot phase of the project outlined in full above--in the following essential categories:\r\n\r\n-\tPersonnel: $55,000\r\n-\tPortable Green Screens: $25,000\r\n-\tTemporary Sound-Proofing: $10,000\r\n-\tRecording & Video Equipment: $10,000\r\n"
-  - name: resources_money
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_staff
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_publicity
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_infrastructure
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: resources_education
-    label: Education/training
-    explanation: ''
-    answer: '1'
-  - name: resources_technical
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: resources_communityoutreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: resources_network
-    label: Network/relationship support
-    explanation: ''
-    answer: '0'
-  - name: resources_research
-    label: Quality improvement research
-    explanation: ''
-    answer: '1'
-body_class: banana
-published: true
 
 ---

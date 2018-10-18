@@ -1,30 +1,22 @@
 ---
+published: true
 organization_id: '2016160'
 year_submitted: 2016
-organization_name: Operation Gratitude
-organization_website: OperationGratitude.com
-ein: ''
-project_image_2: 7925063255741-team88.png
+category: connect
+body_class: tangerine
 project_id: '6102170'
+challenge_url: >-
+  https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
 title: 'Operation Gratitude -  Americans Saying “Thank You” To All Who Serve '
-organization_name_2: Operation Gratitude
-organization_activity: >-
-  Operation Gratitude volunteers nationwide donate items, write letters and
-  assemble Care Packages to express their appreciation to, and lift the spirits
-  of, the Military & First Responder communities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
-project_video: 'https://www.youtube.com/embed/wyKSTyquR-0?rel=0&amp;showinfo=0'
 project_summary: >-
   Through hands-on Volunteerism, Operation Gratitude provides Angelenos of every
   age and background an uplifting way to thank all who serve by creating Care
   Packages of handmade and donated goodies.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
+project_video: 'https://www.youtube.com/embed/wyKSTyquR-0?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - San Fernando Valley
-  - County of Los Angeles
-  - LAUSD
 project_measure: >-
   Operation Gratitude measures success through quantitative and qualitative
   metrics. Key performance indicators include the numbers of: volunteers,
@@ -69,6 +61,22 @@ project_description: >-
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Total number of local
   social media friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  Every year, thousands of local Operation Gratitude volunteers form a human
+  assembly line to create 200,000+ care packages for Active Military, their
+  children, Veterans, First Responders, Wounded heroes & Caregivers. Each
+  package contains up to 50 snack, entertainment & handmade items, toiletries &
+  personal letters.  Our proposal is to provide every Angeleno an opportunity to
+  express their gratitude to all who serve by engaging in hands-on activities at
+  our facility and in their own communities.
+project_areas:
+  - San Fernando Valley
+  - County of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Operation Gratitude offers fulfilling volunteer activities and a sense of
   purpose to the residents of Los Angeles.
@@ -130,23 +138,7 @@ project_proposal_best_place: >-
 
 
   This is Los Angeles connecting and saying “Thank You” to all who serve.
-challenge_url: >-
-  https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
-empty_column_1: ''
-project_proposal_description: >-
-  Every year, thousands of local Operation Gratitude volunteers form a human
-  assembly line to create 200,000+ care packages for Active Military, their
-  children, Veterans, First Responders, Wounded heroes & Caregivers. Each
-  package contains up to 50 snack, entertainment & handmade items, toiletries &
-  personal letters.  Our proposal is to provide every Angeleno an opportunity to
-  express their gratitude to all who serve by engaging in hands-on activities at
-  our facility and in their own communities.
-project_proposal_impact:
-  - Social & emotional support
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Operation Gratitude
+organization_website: OperationGratitude.com
 
 ---

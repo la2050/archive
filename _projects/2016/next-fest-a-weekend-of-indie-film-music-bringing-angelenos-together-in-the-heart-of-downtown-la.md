@@ -1,39 +1,24 @@
 ---
+published: true
 organization_id: '2016203'
 year_submitted: 2016
-organization_name: Sundance Institute
-organization_website: sundance.org
-ein: ''
-project_image_2: 9172894265741-team91.png
+category: connect
+body_class: tangerine
 project_id: '6102220'
+challenge_url: >-
+  https://challenge.la2050.org/entry/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la
 title: >-
   NEXT FEST: A weekend of indie film & music bringing Angelenos together in the
   heart of Downtown LA.
-organization_name_2: Sundance Institute
-organization_activity: >-
-  Sundance Institute is a nonprofit organization dedicated to the discovery and
-  development of independent artists and audiences.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
-project_video: 'https://www.youtube.com/embed/a-9Ki04WhRM?rel=0&amp;showinfo=0'
 project_summary: >-
   Providing free tickets and a place for Angelenos to connect through a unique
   summer festival fusing independent film, music, comedy & conversation in the
   heart of Downtown LA.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
+project_video: 'https://www.youtube.com/embed/a-9Ki04WhRM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   We believe NEXT FEST will be successful if we can reach and bring together
   more Angelenos around some of the most distinctive voices in independent film
@@ -71,6 +56,31 @@ project_impact: >-
   ["Cultural events","Public/open streets gatherings","Public transit
   riders","Total number of local social media friends and connections Angelenos
   have"]
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+  - Public transit riders
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  An LA2050 grant would enable Sundance Institute to 1) provide 20% of NEXT
+  FEST17 screening and event tickets free-of-charge to Los Angeles County
+  community organizations and other community outreach programs, 2) support NEXT
+  FEST public panels and workshops, and 3) continue NEXT DOOR, a publicly
+  accessible outdoor community space located next to the festival and open
+  throughout NEXT FEST. Our ticket outreach efforts will reach a broad range of
+  Angelenos across the county.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Los Angeles is vast and complex, posing a unique set of challenges to
   individual civic and cultural participation. Revitalization of the city center
@@ -122,24 +132,7 @@ project_proposal_best_place: >-
   to be able to broaden our outreach in Los Angeles through a fully underwritten
   community ticket initiative and by continuing to offer a free, public space
   for NEXT FEST attendees and the vibrant downtown neighborhood.
-challenge_url: >-
-  https://challenge.la2050.org/entry/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la
-empty_column_1: ''
-project_proposal_description: >-
-  An LA2050 grant would enable Sundance Institute to 1) provide 20% of NEXT
-  FEST17 screening and event tickets free-of-charge to Los Angeles County
-  community organizations and other community outreach programs, 2) support NEXT
-  FEST public panels and workshops, and 3) continue NEXT DOOR, a publicly
-  accessible outdoor community space located next to the festival and open
-  throughout NEXT FEST. Our ticket outreach efforts will reach a broad range of
-  Angelenos across the county.
-project_proposal_impact:
-  - Cultural events
-  - Public/open streets gatherings
-  - Public transit riders
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Sundance Institute
+organization_website: sundance.org
 
 ---

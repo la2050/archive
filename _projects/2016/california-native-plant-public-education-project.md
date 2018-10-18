@@ -1,39 +1,22 @@
 ---
+published: true
 organization_id: '2016127'
 year_submitted: 2016
-organization_name: Landscape Integrity Films and Education (LIFE)
-organization_website: www.youtube.com/channel/UC-q5gdpHqRxx5aOHWuQxVtA
-ein: ''
-project_image_2: 5030775394741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102127'
+challenge_url: >-
+  https://challenge.la2050.org/entry/california-native-plant-public-education-project
 title: California Native Plant Public Education Project
-organization_name_2: Landscape Integrity Films and Education (LIFE)
-organization_activity: >-
-  LIFE short films give clear, inspiring information about native plant
-  gardening to transform sterile green spaces into places that support
-  biodiversity, conserve water and celebrate California beauty.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
-project_video: 'https://www.youtube.com/embed/LxJHEQHCP5c?rel=0&amp;showinfo=0'
 project_summary: >-
   Short films empowering people to create evergreen, flowering California native
   gardens that bring back LA’s butterflies and birds and save water! Learn how
   to plant native to revitalize LA!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
+project_video: 'https://www.youtube.com/embed/LxJHEQHCP5c?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: Arroyo Seco Foundation
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   LIFE’s YouTube channel analytics measure our playback locations, traffic
   sources, subscribers and distribution partners. A dramatic increase in our
@@ -63,6 +46,32 @@ project_description: >-
   to retrofit with native plants for creating a beautiful resilient LA where
   nature and urban agriculture can thrive!
 project_impact: '["Waterways","Local water","Resilient communities","Tree canopy cover"]'
+project_proposal_impact:
+  - Waterways
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+project_proposal_description: >-
+  The 2050 Challenge grant will fully support one series of short-content films.
+  Our proposed series is “Mixing California Native with Non-Native Plants”.
+  These short films show people how to retrofit their non-native gardens with
+  native plants adapted to our rainfall, climate, and soil – plants that most of
+  our butterflies, birds and other animals can’t live without. Use these films
+  to retrofit with native plants for creating a beautiful resilient LA where
+  nature and urban agriculture can thrive!
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Through the content of these films and the action they inspire, the LA2050
   landscape can be one of beauty with ecological function and decreased reliance
@@ -117,24 +126,7 @@ project_proposal_best_place: >-
 
   Our proposed films will help inform the public about how to use LA’s rich
   natural heritage for making LA the best place to live in 2050.
-challenge_url: >-
-  https://challenge.la2050.org/entry/california-native-plant-public-education-project
-empty_column_1: ''
-project_proposal_description: >-
-  The 2050 Challenge grant will fully support one series of short-content films.
-  Our proposed series is “Mixing California Native with Non-Native Plants”.
-  These short films show people how to retrofit their non-native gardens with
-  native plants adapted to our rainfall, climate, and soil – plants that most of
-  our butterflies, birds and other animals can’t live without. Use these films
-  to retrofit with native plants for creating a beautiful resilient LA where
-  nature and urban agriculture can thrive!
-project_proposal_impact:
-  - Waterways
-  - Local water
-  - Resilient communities
-  - Tree canopy cover
-category: live
-body_class: lime
-published: true
+organization_name: Landscape Integrity Films and Education (LIFE)
+organization_website: www.youtube.com/channel/UC-q5gdpHqRxx5aOHWuQxVtA
 
 ---

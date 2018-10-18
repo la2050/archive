@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016031'
 year_submitted: 2016
-organization_name: California Partnership
-organization_website: www.california-partnership.org
-ein: ''
-project_image_2: 5745794855741-team90.jpg
+category: connect
+body_class: tangerine
 project_id: '6102027'
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders
 title: >-
   LA Civic Power: Shaping Policy and Building Relationships with All
   Stakeholders
-organization_name_2: California Partnership
-organization_activity: >-
-  An economic justice organization that  builds leadership among low-income
-  folks and communities of color through grassroots organizing, policy advocacy,
-  convening of partners, and community education
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
-project_video: ''
 project_summary: >-
   California Partnership seeks to connect community groups, organizations, and
   elected officials to build our community's civic power and enact political and
   social change.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   1) We define success as the creation of meaningful and sustained relationships
   among community members, organizations, and government officials. 
@@ -83,6 +77,15 @@ project_description: >-
   implementing community education and outreach strategies, and creating change
   in local politics.
 project_impact: '["Government responsiveness to residents’ needs"]'
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+project_proposal_description: >-
+  Our proposal looks to increase LA's civic engagement through building
+  relationships with community partners, organizations, and elected officials,
+  implementing community education and outreach strategies, and creating change
+  in local politics.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   California Partnership’s (CAP) goal, as a statewide economic justice
   organization, is to sustain the safety net and ensure low income folks and
@@ -141,18 +144,7 @@ project_proposal_best_place: >-
   further delve into countywide policy advocacy and implementation by engaging
   both core and new partners in identifying local issues, expanding our tools
   and trainings, and tracking county policy.
-challenge_url: >-
-  https://challenge.la2050.org/entry/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders
-empty_column_1: ''
-project_proposal_description: >-
-  Our proposal looks to increase LA's civic engagement through building
-  relationships with community partners, organizations, and elected officials,
-  implementing community education and outreach strategies, and creating change
-  in local politics.
-project_proposal_impact:
-  - Government responsiveness to residents’ needs
-category: connect
-body_class: tangerine
-published: true
+organization_name: California Partnership
+organization_website: www.california-partnership.org
 
 ---

@@ -1,26 +1,22 @@
 ---
+published: true
 organization_id: '2016137'
 year_submitted: 2016
-organization_name: Los Angeles Magazine
-organization_website: www.lamag.com
-ein: ''
-project_image_2: 4972927725741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102200'
+challenge_url: >-
+  https://challenge.la2050.org/entry/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love
 title: >-
   GIVE Los Angeles: charitable giving that unites and connects us in the city we
   love. 
-organization_name_2: Los Angeles Magazine
-organization_activity: >-
-  L.A. magazine is the single most powerful media voice in the region,
-  delivering content that encourages Angelenos to act, discover and connect in
-  our city in ways that are most meaningful to them.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4972927725741-team91.jpg
-project_video: ''
 project_summary: >-
   GIVE Los Angeles is a unique effort and public call to Angelenos, encouraging
   us to think, act and give back to the non-profits that are doing remarkable
   work to make life in LA the best it can be.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4972927725741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Alzheimer's Greater Los Angeles, Children's Hospital Los Angeles, City of
@@ -28,9 +24,6 @@ project_collaborators: >-
   Los Angeles Fire Department Foundation, Los Angeles Ronald McDonald House,
   Natural History Museum, Partnership for Los Angeles Schools, Piece by Piece,
   Present Now, RAND Corporation, United Way, XPRIZE, ...more to be added
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   The success of our Give Los Angeles program will be defined by meeting two
   goals: to connect Angelenos with nonprofits in their community and to provide
@@ -74,6 +67,24 @@ project_impact: >-
   gatherings","Government responsiveness to residents’ needs","Public transit
   riders","Rates of volunteerism","Total number of local social media friends
   and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  This winter, Los Angeles magazine is embarking on our most ambitious
+  non-profit initiative, the GIVE Los Angeles Challenge. As a custom publication
+  and online fundraising challenge, GIVE Los Angeles will connect passionate,
+  engaged supporters with deserving non-profits, in an effort to encourage more
+  local philanthropy. This is our public call to the people of L.A. to support
+  local organizations by donating and/or volunteering.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   According to a 2016 study from the UCLA Luskin School for Public Affairs, Los
   Angeles is suffering from a 'Generosity Gap' and philanthropic giving in Los
@@ -104,26 +115,7 @@ project_proposal_best_place: >-
   engaging donors across the socioeconomic spectrum and connecting them with
   extraordinary nonprofits serving the Los Angeles community, GIVE Los Angeles
   will attempt to reverse the downward trend in civic giving in Los Angeles.
-challenge_url: >-
-  https://challenge.la2050.org/entry/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love
-empty_column_1: ''
-project_proposal_description: >-
-  This winter, Los Angeles magazine is embarking on our most ambitious
-  non-profit initiative, the GIVE Los Angeles Challenge. As a custom publication
-  and online fundraising challenge, GIVE Los Angeles will connect passionate,
-  engaged supporters with deserving non-profits, in an effort to encourage more
-  local philanthropy. This is our public call to the people of L.A. to support
-  local organizations by donating and/or volunteering.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Public transit riders
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Los Angeles Magazine
+organization_website: www.lamag.com
 
 ---

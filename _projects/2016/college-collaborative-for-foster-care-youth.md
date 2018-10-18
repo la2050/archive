@@ -1,27 +1,22 @@
 ---
+published: true
 organization_id: '2018014'
 year_submitted: 2016
-organization_name: CASA of Los Angeles
-organization_website: casala.org
-ein: '953890446'
-project_image_2: 7481336294741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102032'
+challenge_url: 'https://challenge.la2050.org/entry/college-collaborative-for-foster-care-youth'
 title: College Collaborative for Foster Care Youth
-organization_name_2: CASA of Los Angeles
-organization_activity: >-
-  CASA recruits and trains volunteers to advocate for abused and neglected
-  children in Los Angeles County's foster care system.
-project_image: https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/999729_10150336341389943_1643926386_n.jpg?_nc_cat=106&oh=b55868733d503ff1d9aa20ba14119629&oe=5C5D0F60
-project_video: ''
 project_summary: >-
   Help CASA build an organizational collaborative to help more youth in foster
   care attend college.
+project_image: >-
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/999729_10150336341389943_1643926386_n.jpg?_nc_cat=106&oh=b55868733d503ff1d9aa20ba14119629&oe=5C5D0F60
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Prospective Collaborators: First Star, Guardian Scholars, United Friends of
   Children, local universities and colleges
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   In order to track case progress for those youth who are assigned a CASA
   volunteer, CASA has recently transitioned to Efforts­-to­-Outcomes (ETO)
@@ -65,6 +60,20 @@ project_description: >-
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+project_proposal_description: >-
+  CASA of Los Angeles is making a high-level commitment to expand the
+  educational support our volunteers provide to foster youth through the College
+  Collaborative. CASA/LA will establish formal collaborations with local
+  partners to provide post-secondary readiness and support for abused and
+  neglected youth, and will develop a training for CASA volunteers to better
+  coordinate these partnerships. CASA will serve at least 30 additional foster
+  youth in Los Angeles County through this advocacy.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   The comprehensive 2011 study “Young Adult Outcomes of Youth Exiting Dependent
   or Delinquent Care in Los Angeles County,” supported by the Conrad N. Hilton
@@ -113,22 +122,7 @@ project_proposal_best_place: >-
   teachers, counselors, case workers, attorneys, and care givers, CASAs help
   establish networks of support and services around educational opportunities
   for these youth, increasing their likelihood of educational success.
-challenge_url: 'https://challenge.la2050.org/entry/college-collaborative-for-foster-care-youth'
-empty_column_1: ''
-project_proposal_description: >-
-  CASA of Los Angeles is making a high-level commitment to expand the
-  educational support our volunteers provide to foster youth through the College
-  Collaborative. CASA/LA will establish formal collaborations with local
-  partners to provide post-secondary readiness and support for abused and
-  neglected youth, and will develop a training for CASA volunteers to better
-  coordinate these partnerships. CASA will serve at least 30 additional foster
-  youth in Los Angeles County through this advocacy.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-category: learn
-body_class: blueberry
-published: true
+organization_name: CASA of Los Angeles
+organization_website: casala.org
 
 ---

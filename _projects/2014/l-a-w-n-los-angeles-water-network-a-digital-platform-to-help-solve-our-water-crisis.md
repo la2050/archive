@@ -1,4 +1,9 @@
 ---
+published: true
+organization_id: '2014176'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102143'
 title: >-
   L.A.W.N. Los Angeles Water Network: A digital platform to help solve our water
@@ -6,11 +11,111 @@ title: >-
 project_summary: >-
   This app will educate the public about water conservation projects in their
   communities and encourage them to get involved.
-category: live
-organization_id: '2014176'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/2qWrLJakj5M/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/2qWrLJakj5M'
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+maker_answers:
+  org_name: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
+  metrics_live_healthyfood: '0'
+  org_website: 'http://mlagreen.com/'
+  org_twitter: MLAGREEN
+  org_facebook: ''
+  org_instagram: mlagreen
+  org_mailingaddress: " 3780 Wilshire Boulevard,Suite 250\r\nLos Angeles, CA 90010 "
+  EIN: '270903202'
+  org_nonprofit: '1'
+  org_forprofit: '1'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  one_sentence_org: >-
+    ML+A promotes the practice of designing innovative landscapes while building
+    healthy environments and sustainable communities.
+  describe_idea: >-
+    This app will educate the public about water conservation projects in their
+    communities and encourage them to get involved.
+  describe_organization: >-
+    Help us at @mlagreen build a new #InteractiveMapping app to connect people
+    to #water projects - so we can fight the #drought!
+  all_county: '1'
+  region_county: '1'
+  population_county: '1'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '1'
+  area_other_blank: >-
+    We will be testing our project in the San Fernando Valley, but it will have
+    an impact on the whole city.
+  more_detail: >-
+    This proposal seeks to address issues related to drought by creating a
+    digital platform (app & website) that will increase the public’ s awareness
+    about water-related projects throughout the city and encourage them to get
+    involved. The platform will use interactive mapping to geolocate projects
+    throughout the city as well as priority areas for new projects to occur. It
+    will help users find opportunities to connect with, volunteer for, or donate
+    to current projects as well as allow them to propose future water-related
+    projects to get community support. By increasing transparency and promoting
+    awareness, this tool will provide incentives for citizens to become active
+    in larger-scale water conservation projects to help fight the drought.
+  implement: "I. Develop the Digital Platform using open source GIS data as well as research and mapping already in progress.\r\n\r\nA. Interactive Mapping of LA’s Water Systems \r\nThis tool will visualize LA's water resources and consumption, allowing users to clearly understand where our water comes from (local, imported, recycled), how much water is being consumed and how this breaks down across LA by various factors (neighborhoods, demographics, etc.). Users can zoom around LA to see their community as it compares to other communities. \r\n\r\nB. Inventory and geolocate water projects that are already occurring in Los Angeles. Research and outreach to organizations and agencies in the San Fernando Valley (for the pilot study) to gather information about water related initiatives. These projects will be uploaded to the mapping platform for users and other organizations to learn more about them and find out how they can get involved or work together.\r\n \r\nC. Design mechanisms for organizations to upload content (images, data, opportunities to volunteer or donate) for existing projects or to add new projects & content to the map.\r\n\r\nII. Test and improve the app: Pilot test in the San Fernando Valley\r\nRecruit residents and organizations in the San Fernando Valley to participate in a pilot program.  Arid Lands Institute has already conducted significant research on the opportunities and constraints for projects in this area and is very active in this community. Using this network and research, we will test the viability of the program. Based on this feedback, we will work to improve it prior to launching city-wide.\r\n\r\nIII. Document our findings: Create a report that details our findings\r\n\r\nIV: Future Applications Post Grant: \r\nA. Expand the app to include more neighborhoods in the city. \r\nB. Involve more organizations and create more partnerships\r\nC. Promote the app and market the final version to the Los Angeles public"
+  impact_live: "Drought has always been a significant problem for Los Angeles, but this problem will only be exacerbated over the next few decades without a major intervention. By 2050, LA’s population is projected to increase to 40 million, placing a much bigger demand on an already minimal supply. In addition, climate change is expected to reduce the snowpack in Sierra Nevada by 25%, which is a key contributor to LA’s water reservoirs. LA currently imports 85% of its water. As population increases, we need to improve our efforts increase our local supply of water so we can be closer to water independence. \r\nThis proposal seeks to address the issues related to drought by means of raising awareness and creating incentives for citizens to become active in the solution. By providing a transparent interchange of information, this tool will encourage citizens to become active participants in larger scale sustainability interventions for the city. This tool will also highlight priority areas and opportunities for future projects that can help us work towards water independence by 2050.\r\n"
+  who_benefit: "This project will benefit the larger population of Los Angeles. By improving our efforts to increase our local water supply and reduce our water consumption at the neighborhood scale (as well as the city scale), we can work towards obtaining water security for the city as we grow in the coming decades.\r\n\r\nThis project will also benefit the many organizations, agencies and non-profits who are working hard to solve our water crisis by providing them with a larger platform to showcase their work. By increasing transparency and providing a centralized platform for water-related projects, this work can be bolstered through a stronger network providing opportunities for sharing resources, getting volunteers, and getting donations to continue their work.\r\n\r\nThese agencies and organizations include:\r\n- LA Department of Water and Power (LADWP)\r\n- LA Sanitation Bureau, Public Works\r\n- Metropolitan Water District of Southern California\r\n- Neighborhood Councils\r\n- LA City Green Streets Committee\r\n- Heal the Bay\r\n- Los Angeles Conservation Corp\r\n- Los Angeles Beautification Team\r\n- Green LA\r\n- Environment Now\r\n- Trust for Public LAND\r\n- Santa Monica Mountain Conservancy\r\n- Sierra Club\r\n- Los Angeles Water Keeper\r\n- Tree People\r\n- Water LA\r\n"
+  partners_collaboration: "Mia Lehrer + Associates: Project management, project inventory and mapping, civic engagement, \r\nArid Lands Institute: Civic engagement and mapping consulting\r\nLA-MAS: User Interface Design\r\nDeveloper: TBD\r\n\r\nMLA is a landscape architecture & urban planning practice known for its design and development of ambitious public and private projects that include multiple scales of storm water capture strategies throughout the city, urban revitalization developments, large urban parks, and gardens working predominantly in the public realm devoted to projects that reinforce public parks, green belts, schools, waterways, and vibrant neighborhoods and streets. \r\nMLA has worked with many Southern CA municipalities in efforts directly relating to water related issues, including: LA River Revitalization Master Plan, Owens Lake Dust Mitigation Program Phase 7a, Piggyback Yard Conceptual Master Plan,  LA Riverfront Greenway, Silver Lake Reservoir Master Plan, Westside Rainwater Park.\r\n\r\nMLA also has a history of partnering with public agencies, non-profits, and educational institutions that are focused on water capture and infiltration, recycling and reuse, including:\r\nLADWP, MTA, The City of Los Angeles Bureau of Engineering, Landscape Architecture Foundation, Tree People Center for Community Forestry, Mountains Recreation and Conservation Authority, Los Angeles Neighborhood Initiative, Trust for Public Land, Heal the Bay, Green LA Water Committee, UCLA Landscape Architecture Extension, USC Landscape Architecture Program, Woodbury University, LA-MAS\r\n\r\nArid Lands Institute's mission is to train designers and citizens to innovate in response to hydrologic variability brought on by climate change. ALI's vision is a water-smart built environment in the US West serving as a model for drylands globally. ALI provides an open, lab-like platform for collaborators from multiple universities, serving as a resource for the academic, public, and private sectors.  Critical thinking; design excellence for the public good; and hospitality to diversity, including a rich web of collaborative partnerships that reach across cultures, generations, and sectors, are central to ALI’s programs and operations.\r\n\r\nLA-Más is a non-profit that performs design-based experiments with the city as our lab. Their mission is to look critically at systemic problems in the LA area and provide solutions based on research and community engagement."
+  city_state: 'Los Angeles, CA'
+  metrics_live_healthcare: '0'
+  metrics_live_airtoxins: '1'
+  metrics_live_selfsufficiency: '0'
+  metrics_live_importedwater: '1'
+  metrics_live_obesity: '0'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '1'
+  metrics_live_pollutedwaterways: '1'
+  metrics_live_mentalillness: '0'
+  metrics_live_childhood: '0'
+  metrics_live_communities: '1'
+  metrics_live_healthcareservice: '0'
+  metrics_live_treecanopy: '1'
+  metrics_live_other: '0'
+  metrics_live_blank: ''
+  resources_network: '1'
+  best_place_to_create: '0'
+  best_place_to_play: '1'
+  best_place_to_connect: '1'
+  best_place_to_learn: '1'
+  evaluate: "- Amount of contributions volunteers and dontations\r\n- Evaluating the number of visits to digital presence as a metric for increased public awareness and contributions to Los Angeles in 2014.\r\n- The amount of projects that are affected \r\n- The amount of organizations that adopt this as a networking tool.\r\n- Survey of participants\r\n"
+  two_lessons: "We have seen lots of organizations work to help solve this problem, but they often act in silos. We have learned that the best way to tackle large-scale problems is by working as strong communities. We hope that this project will help strengthen the large network of people and organizations working to solve this water crisis. \r\n\r\nAnother lesson that has informed our project is about transparency. Data and resources related to water have been hard to access, which makes it challenging to work to solve our water crisis. Through improving transparency, we hope to bring more resources to those who are trying to help protect our water resources."
+  achievable_goal: "The test pilot is achievable as Arid Lands Institute (ALI) already is very active in the San Fernando Valley. ALI has already done a lot of research on water related efforts in the community and has a large network of community partners in the area. We will be building on the knowledge and connections of water related organization in both private and public sectors. Both MLA and ALI have a background in mapping and creating powerful graphics to show environmental issues in a clear, informative and evocative manner. Within the next 12 months, we feel confident we can build a prototype for the platform, find participants in the San Fernando Valley, test and evaluate the program, and finally work to make improvements on the app. We hope to find future funding to expand this program to the larger metropolitan area in the future.\r\n"
+  major_challenges: "Major challenges include:\r\n- finding participants \r\n- gathering data from all the various sources\r\n\r\nOur strategy is to use our network and partners to reach out to the communities we have worked in to enable us to successfully reach out to find participants for this pilot test. We also will use our network to gather all the various data needed. "
+  competition: >-
+    To our knowledge, a program like this does not yet exist. Many organizations
+    are working to gather data related to water, but none have gathered it into
+    a user-friendly digital platform for easy access by the public.
+  cost: 'We feel we can achieve this project within $100,000.'
+  budget: "Cataloging projects (ML+A, ALI): $9,000\r\n- 3 weeks, 1 staff member full time ($75/hr)\r\n\r\nGIS Mapping (ML+A): $18,000\r\n- 6 weeks, 1 staff member full time\r\n\r\nCoding (TBD): $18,000\r\n- 6 weeks, 1 staff member full time\r\n\r\nUser experience (LA-MAS): $6000\r\n- 2 weeks, 1 staff member full time\r\n\r\nProject Management (ML+A): $19,000\r\n- 1 year, 2 staff members, part time\r\n\r\nOutreach/Civic Engagement (ALI, ML+A): $30,000\r\n- 1 year, 4 staff members, part time"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '1'
+  resources_education: '1'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_research: '1'
+  impact_metrics: "This app will help LA increase our local water supply and conserve water by assisting landscape improvement projects and other conservation efforts. This will help increase the amount of open space, improving water AND air quality, providing increased wildlife habitat throughout the city. Through a more networked community, this app will promote awareness, education, volunteerism and support. Ultimately, this will help create a more resilient  and healthy Los Angeles.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Undevelopment One will be the pilot project for a hoped for network of
   Undevelopments that could, over time, create a paleo-botanical eavesment by
@@ -67,447 +172,6 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    It should be understood that both the Metabolic Studio and the Harrison Studio see this work as a new urban narrative. They note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that they wish to put in place is replicable as cities realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available.
 Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
 youtube_video_identifier: 2qWrLJakj5M
-project_areas:
-  - CENTRAL LA
-  - EAST LA
-  - SOUTH LA
-  - SGV
-  - SFV
-  - SOUTH BAY
-  - WESTSIDE
-maker_answers:
-  city_state: 'Los Angeles, CA'
-  org_name: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
-  org_website: 'http://mlagreen.com/'
-  org_twitter: MLAGREEN
-  org_facebook: ''
-  org_instagram: mlagreen
-  org_mailingaddress: " 3780 Wilshire Boulevard,Suite 250\r\nLos Angeles, CA 90010 "
-  EIN: '270903202'
-  org_nonprofit: '1'
-  org_forprofit: '1'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  one_sentence_org: >-
-    ML+A promotes the practice of designing innovative landscapes while building
-    healthy environments and sustainable communities.
-  describe_idea: >-
-    This app will educate the public about water conservation projects in their
-    communities and encourage them to get involved.
-  describe_organization: >-
-    Help us at @mlagreen build a new #InteractiveMapping app to connect people
-    to #water projects - so we can fight the #drought!
-  all_county: '1'
-  region_county: '1'
-  population_county: '1'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '1'
-  area_other_blank: >-
-    We will be testing our project in the San Fernando Valley, but it will have
-    an impact on the whole city.
-  more_detail: >-
-    This proposal seeks to address issues related to drought by creating a
-    digital platform (app & website) that will increase the public’ s awareness
-    about water-related projects throughout the city and encourage them to get
-    involved. The platform will use interactive mapping to geolocate projects
-    throughout the city as well as priority areas for new projects to occur. It
-    will help users find opportunities to connect with, volunteer for, or donate
-    to current projects as well as allow them to propose future water-related
-    projects to get community support. By increasing transparency and promoting
-    awareness, this tool will provide incentives for citizens to become active
-    in larger-scale water conservation projects to help fight the drought.
-  implement: "I. Develop the Digital Platform using open source GIS data as well as research and mapping already in progress.\r\n\r\nA. Interactive Mapping of LA’s Water Systems \r\nThis tool will visualize LA's water resources and consumption, allowing users to clearly understand where our water comes from (local, imported, recycled), how much water is being consumed and how this breaks down across LA by various factors (neighborhoods, demographics, etc.). Users can zoom around LA to see their community as it compares to other communities. \r\n\r\nB. Inventory and geolocate water projects that are already occurring in Los Angeles. Research and outreach to organizations and agencies in the San Fernando Valley (for the pilot study) to gather information about water related initiatives. These projects will be uploaded to the mapping platform for users and other organizations to learn more about them and find out how they can get involved or work together.\r\n \r\nC. Design mechanisms for organizations to upload content (images, data, opportunities to volunteer or donate) for existing projects or to add new projects & content to the map.\r\n\r\nII. Test and improve the app: Pilot test in the San Fernando Valley\r\nRecruit residents and organizations in the San Fernando Valley to participate in a pilot program.  Arid Lands Institute has already conducted significant research on the opportunities and constraints for projects in this area and is very active in this community. Using this network and research, we will test the viability of the program. Based on this feedback, we will work to improve it prior to launching city-wide.\r\n\r\nIII. Document our findings: Create a report that details our findings\r\n\r\nIV: Future Applications Post Grant: \r\nA. Expand the app to include more neighborhoods in the city. \r\nB. Involve more organizations and create more partnerships\r\nC. Promote the app and market the final version to the Los Angeles public"
-  impact_live: "Drought has always been a significant problem for Los Angeles, but this problem will only be exacerbated over the next few decades without a major intervention. By 2050, LA’s population is projected to increase to 40 million, placing a much bigger demand on an already minimal supply. In addition, climate change is expected to reduce the snowpack in Sierra Nevada by 25%, which is a key contributor to LA’s water reservoirs. LA currently imports 85% of its water. As population increases, we need to improve our efforts increase our local supply of water so we can be closer to water independence. \r\nThis proposal seeks to address the issues related to drought by means of raising awareness and creating incentives for citizens to become active in the solution. By providing a transparent interchange of information, this tool will encourage citizens to become active participants in larger scale sustainability interventions for the city. This tool will also highlight priority areas and opportunities for future projects that can help us work towards water independence by 2050.\r\n"
-  who_benefit: "This project will benefit the larger population of Los Angeles. By improving our efforts to increase our local water supply and reduce our water consumption at the neighborhood scale (as well as the city scale), we can work towards obtaining water security for the city as we grow in the coming decades.\r\n\r\nThis project will also benefit the many organizations, agencies and non-profits who are working hard to solve our water crisis by providing them with a larger platform to showcase their work. By increasing transparency and providing a centralized platform for water-related projects, this work can be bolstered through a stronger network providing opportunities for sharing resources, getting volunteers, and getting donations to continue their work.\r\n\r\nThese agencies and organizations include:\r\n- LA Department of Water and Power (LADWP)\r\n- LA Sanitation Bureau, Public Works\r\n- Metropolitan Water District of Southern California\r\n- Neighborhood Councils\r\n- LA City Green Streets Committee\r\n- Heal the Bay\r\n- Los Angeles Conservation Corp\r\n- Los Angeles Beautification Team\r\n- Green LA\r\n- Environment Now\r\n- Trust for Public LAND\r\n- Santa Monica Mountain Conservancy\r\n- Sierra Club\r\n- Los Angeles Water Keeper\r\n- Tree People\r\n- Water LA\r\n"
-  partners_collaboration: "Mia Lehrer + Associates: Project management, project inventory and mapping, civic engagement, \r\nArid Lands Institute: Civic engagement and mapping consulting\r\nLA-MAS: User Interface Design\r\nDeveloper: TBD\r\n\r\nMLA is a landscape architecture & urban planning practice known for its design and development of ambitious public and private projects that include multiple scales of storm water capture strategies throughout the city, urban revitalization developments, large urban parks, and gardens working predominantly in the public realm devoted to projects that reinforce public parks, green belts, schools, waterways, and vibrant neighborhoods and streets. \r\nMLA has worked with many Southern CA municipalities in efforts directly relating to water related issues, including: LA River Revitalization Master Plan, Owens Lake Dust Mitigation Program Phase 7a, Piggyback Yard Conceptual Master Plan,  LA Riverfront Greenway, Silver Lake Reservoir Master Plan, Westside Rainwater Park.\r\n\r\nMLA also has a history of partnering with public agencies, non-profits, and educational institutions that are focused on water capture and infiltration, recycling and reuse, including:\r\nLADWP, MTA, The City of Los Angeles Bureau of Engineering, Landscape Architecture Foundation, Tree People Center for Community Forestry, Mountains Recreation and Conservation Authority, Los Angeles Neighborhood Initiative, Trust for Public Land, Heal the Bay, Green LA Water Committee, UCLA Landscape Architecture Extension, USC Landscape Architecture Program, Woodbury University, LA-MAS\r\n\r\nArid Lands Institute's mission is to train designers and citizens to innovate in response to hydrologic variability brought on by climate change. ALI's vision is a water-smart built environment in the US West serving as a model for drylands globally. ALI provides an open, lab-like platform for collaborators from multiple universities, serving as a resource for the academic, public, and private sectors.  Critical thinking; design excellence for the public good; and hospitality to diversity, including a rich web of collaborative partnerships that reach across cultures, generations, and sectors, are central to ALI’s programs and operations.\r\n\r\nLA-Más is a non-profit that performs design-based experiments with the city as our lab. Their mission is to look critically at systemic problems in the LA area and provide solutions based on research and community engagement."
-  metrics_live_healthyfood: '0'
-  metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
-  metrics_live_importedwater: '1'
-  metrics_live_obesity: '0'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '1'
-  metrics_live_pollutedwaterways: '1'
-  metrics_live_mentalillness: '0'
-  metrics_live_childhood: '0'
-  metrics_live_communities: '1'
-  metrics_live_healthcareservice: '0'
-  metrics_live_treecanopy: '1'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  impact_metrics: "This app will help LA increase our local water supply and conserve water by assisting landscape improvement projects and other conservation efforts. This will help increase the amount of open space, improving water AND air quality, providing increased wildlife habitat throughout the city. Through a more networked community, this app will promote awareness, education, volunteerism and support. Ultimately, this will help create a more resilient  and healthy Los Angeles.\r\n"
-  best_place_to_create: '0'
-  best_place_to_play: '1'
-  best_place_to_connect: '1'
-  best_place_to_learn: '1'
-  evaluate: "- Amount of contributions volunteers and dontations\r\n- Evaluating the number of visits to digital presence as a metric for increased public awareness and contributions to Los Angeles in 2014.\r\n- The amount of projects that are affected \r\n- The amount of organizations that adopt this as a networking tool.\r\n- Survey of participants\r\n"
-  two_lessons: "We have seen lots of organizations work to help solve this problem, but they often act in silos. We have learned that the best way to tackle large-scale problems is by working as strong communities. We hope that this project will help strengthen the large network of people and organizations working to solve this water crisis. \r\n\r\nAnother lesson that has informed our project is about transparency. Data and resources related to water have been hard to access, which makes it challenging to work to solve our water crisis. Through improving transparency, we hope to bring more resources to those who are trying to help protect our water resources."
-  achievable_goal: "The test pilot is achievable as Arid Lands Institute (ALI) already is very active in the San Fernando Valley. ALI has already done a lot of research on water related efforts in the community and has a large network of community partners in the area. We will be building on the knowledge and connections of water related organization in both private and public sectors. Both MLA and ALI have a background in mapping and creating powerful graphics to show environmental issues in a clear, informative and evocative manner. Within the next 12 months, we feel confident we can build a prototype for the platform, find participants in the San Fernando Valley, test and evaluate the program, and finally work to make improvements on the app. We hope to find future funding to expand this program to the larger metropolitan area in the future.\r\n"
-  major_challenges: "Major challenges include:\r\n- finding participants \r\n- gathering data from all the various sources\r\n\r\nOur strategy is to use our network and partners to reach out to the communities we have worked in to enable us to successfully reach out to find participants for this pilot test. We also will use our network to gather all the various data needed. "
-  competition: >-
-    To our knowledge, a program like this does not yet exist. Many organizations
-    are working to gather data related to water, but none have gathered it into
-    a user-friendly digital platform for easy access by the public.
-  cost: 'We feel we can achieve this project within $100,000.'
-  budget: "Cataloging projects (ML+A, ALI): $9,000\r\n- 3 weeks, 1 staff member full time ($75/hr)\r\n\r\nGIS Mapping (ML+A): $18,000\r\n- 6 weeks, 1 staff member full time\r\n\r\nCoding (TBD): $18,000\r\n- 6 weeks, 1 staff member full time\r\n\r\nUser experience (LA-MAS): $6000\r\n- 2 weeks, 1 staff member full time\r\n\r\nProject Management (ML+A): $19,000\r\n- 1 year, 2 staff members, part time\r\n\r\nOutreach/Civic Engagement (ALI, ML+A): $30,000\r\n- 1 year, 4 staff members, part time"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '1'
-  resources_education: '1'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_network: '1'
-  resources_research: '1'
-maker_answers_list:
-  - name: city_state
-    label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
-    answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
-    answer: 'http://mlagreen.com/'
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: MLAGREEN
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: ''
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: mlagreen
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: " 3780 Wilshire Boulevard,Suite 250\r\nLos Angeles, CA 90010 "
-  - name: EIN
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '270903202'
-  - name: org_nonprofit
-    label: Nonprofit organization
-    explanation: ''
-    answer: '1'
-  - name: org_forprofit
-    label: For-profit organization
-    explanation: ''
-    answer: '1'
-  - name: org_government
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '0'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '1'
-  - name: one_sentence_org
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      ML+A promotes the practice of designing innovative landscapes while
-      building healthy environments and sustainable communities.
-  - name: describe_idea
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      This app will educate the public about water conservation projects in
-      their communities and encourage them to get involved.
-  - name: describe_organization
-    label: ''
-    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
-    answer: >-
-      Help us at @mlagreen build a new #InteractiveMapping app to connect people
-      to #water projects - so we can fight the #drought!
-  - name: all_county
-    label: Yes (benefits all of LA County)
-    explanation: ''
-    answer: '1'
-  - name: region_county
-    label: Yes (benefits a region of LA County)
-    explanation: ''
-    answer: '1'
-  - name: population_county
-    label: Yes (benefits a population of LA County)
-    explanation: ''
-    answer: '1'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '1'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '1'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '1'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '1'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '1'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '1'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: >-
-      We will be testing our project in the San Fernando Valley, but it will
-      have an impact on the whole city.
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: >-
-      This proposal seeks to address issues related to drought by creating a
-      digital platform (app & website) that will increase the public’ s
-      awareness about water-related projects throughout the city and encourage
-      them to get involved. The platform will use interactive mapping to
-      geolocate projects throughout the city as well as priority areas for new
-      projects to occur. It will help users find opportunities to connect with,
-      volunteer for, or donate to current projects as well as allow them to
-      propose future water-related projects to get community support. By
-      increasing transparency and promoting awareness, this tool will provide
-      incentives for citizens to become active in larger-scale water
-      conservation projects to help fight the drought.
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "I. Develop the Digital Platform using open source GIS data as well as research and mapping already in progress.\r\n\r\nA. Interactive Mapping of LA’s Water Systems \r\nThis tool will visualize LA's water resources and consumption, allowing users to clearly understand where our water comes from (local, imported, recycled), how much water is being consumed and how this breaks down across LA by various factors (neighborhoods, demographics, etc.). Users can zoom around LA to see their community as it compares to other communities. \r\n\r\nB. Inventory and geolocate water projects that are already occurring in Los Angeles. Research and outreach to organizations and agencies in the San Fernando Valley (for the pilot study) to gather information about water related initiatives. These projects will be uploaded to the mapping platform for users and other organizations to learn more about them and find out how they can get involved or work together.\r\n \r\nC. Design mechanisms for organizations to upload content (images, data, opportunities to volunteer or donate) for existing projects or to add new projects & content to the map.\r\n\r\nII. Test and improve the app: Pilot test in the San Fernando Valley\r\nRecruit residents and organizations in the San Fernando Valley to participate in a pilot program.  Arid Lands Institute has already conducted significant research on the opportunities and constraints for projects in this area and is very active in this community. Using this network and research, we will test the viability of the program. Based on this feedback, we will work to improve it prior to launching city-wide.\r\n\r\nIII. Document our findings: Create a report that details our findings\r\n\r\nIV: Future Applications Post Grant: \r\nA. Expand the app to include more neighborhoods in the city. \r\nB. Involve more organizations and create more partnerships\r\nC. Promote the app and market the final version to the Los Angeles public"
-  - name: impact_live
-    label: ''
-    explanation: ''
-    answer: "Drought has always been a significant problem for Los Angeles, but this problem will only be exacerbated over the next few decades without a major intervention. By 2050, LA’s population is projected to increase to 40 million, placing a much bigger demand on an already minimal supply. In addition, climate change is expected to reduce the snowpack in Sierra Nevada by 25%, which is a key contributor to LA’s water reservoirs. LA currently imports 85% of its water. As population increases, we need to improve our efforts increase our local supply of water so we can be closer to water independence. \r\nThis proposal seeks to address the issues related to drought by means of raising awareness and creating incentives for citizens to become active in the solution. By providing a transparent interchange of information, this tool will encourage citizens to become active participants in larger scale sustainability interventions for the city. This tool will also highlight priority areas and opportunities for future projects that can help us work towards water independence by 2050.\r\n"
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "This project will benefit the larger population of Los Angeles. By improving our efforts to increase our local water supply and reduce our water consumption at the neighborhood scale (as well as the city scale), we can work towards obtaining water security for the city as we grow in the coming decades.\r\n\r\nThis project will also benefit the many organizations, agencies and non-profits who are working hard to solve our water crisis by providing them with a larger platform to showcase their work. By increasing transparency and providing a centralized platform for water-related projects, this work can be bolstered through a stronger network providing opportunities for sharing resources, getting volunteers, and getting donations to continue their work.\r\n\r\nThese agencies and organizations include:\r\n- LA Department of Water and Power (LADWP)\r\n- LA Sanitation Bureau, Public Works\r\n- Metropolitan Water District of Southern California\r\n- Neighborhood Councils\r\n- LA City Green Streets Committee\r\n- Heal the Bay\r\n- Los Angeles Conservation Corp\r\n- Los Angeles Beautification Team\r\n- Green LA\r\n- Environment Now\r\n- Trust for Public LAND\r\n- Santa Monica Mountain Conservancy\r\n- Sierra Club\r\n- Los Angeles Water Keeper\r\n- Tree People\r\n- Water LA\r\n"
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "Mia Lehrer + Associates: Project management, project inventory and mapping, civic engagement, \r\nArid Lands Institute: Civic engagement and mapping consulting\r\nLA-MAS: User Interface Design\r\nDeveloper: TBD\r\n\r\nMLA is a landscape architecture & urban planning practice known for its design and development of ambitious public and private projects that include multiple scales of storm water capture strategies throughout the city, urban revitalization developments, large urban parks, and gardens working predominantly in the public realm devoted to projects that reinforce public parks, green belts, schools, waterways, and vibrant neighborhoods and streets. \r\nMLA has worked with many Southern CA municipalities in efforts directly relating to water related issues, including: LA River Revitalization Master Plan, Owens Lake Dust Mitigation Program Phase 7a, Piggyback Yard Conceptual Master Plan,  LA Riverfront Greenway, Silver Lake Reservoir Master Plan, Westside Rainwater Park.\r\n\r\nMLA also has a history of partnering with public agencies, non-profits, and educational institutions that are focused on water capture and infiltration, recycling and reuse, including:\r\nLADWP, MTA, The City of Los Angeles Bureau of Engineering, Landscape Architecture Foundation, Tree People Center for Community Forestry, Mountains Recreation and Conservation Authority, Los Angeles Neighborhood Initiative, Trust for Public Land, Heal the Bay, Green LA Water Committee, UCLA Landscape Architecture Extension, USC Landscape Architecture Program, Woodbury University, LA-MAS\r\n\r\nArid Lands Institute's mission is to train designers and citizens to innovate in response to hydrologic variability brought on by climate change. ALI's vision is a water-smart built environment in the US West serving as a model for drylands globally. ALI provides an open, lab-like platform for collaborators from multiple universities, serving as a resource for the academic, public, and private sectors.  Critical thinking; design excellence for the public good; and hospitality to diversity, including a rich web of collaborative partnerships that reach across cultures, generations, and sectors, are central to ALI’s programs and operations.\r\n\r\nLA-Más is a non-profit that performs design-based experiments with the city as our lab. Their mission is to look critically at systemic problems in the LA area and provide solutions based on research and community engagement."
-  - name: metrics_live_healthyfood
-    label: Access to healthy food
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_healthcare
-    label: Healthcare access
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_airtoxins
-    label: Exposure to air toxins
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_selfsufficiency
-    label: Number of households below the self-sufficiency standard
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_importedwater
-    label: Percent of imported water
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_obesity
-    label: Obesity rates
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_homelessness
-    label: Rates of homelessness
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_walkscore
-    label: Walk/bike/transit score
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_pollutedwaterways
-    label: Acres and miles of polluted waterways
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_mentalillness
-    label: Rates of mental illnesses
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_childhood
-    label: Prevalence of adverse childhood experience (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_communities
-    label: Percentage of LA communities that are resilient (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_healthcareservice
-    label: >-
-      Percentage of residents receiving coordinated healthcare services (Dream
-      Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_treecanopy
-    label: Percentage of tree canopy cover (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_other
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "This app will help LA increase our local water supply and conserve water by assisting landscape improvement projects and other conservation efforts. This will help increase the amount of open space, improving water AND air quality, providing increased wildlife habitat throughout the city. Through a more networked community, this app will promote awareness, education, volunteerism and support. Ultimately, this will help create a more resilient  and healthy Los Angeles.\r\n"
-  - name: best_place_to_create
-    label: LA is the best place to CREATE
-    explanation: ''
-    answer: '0'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: evaluate
-    label: ''
-    explanation: ''
-    answer: "- Amount of contributions volunteers and dontations\r\n- Evaluating the number of visits to digital presence as a metric for increased public awareness and contributions to Los Angeles in 2014.\r\n- The amount of projects that are affected \r\n- The amount of organizations that adopt this as a networking tool.\r\n- Survey of participants\r\n"
-  - name: two_lessons
-    label: ''
-    explanation: ''
-    answer: "We have seen lots of organizations work to help solve this problem, but they often act in silos. We have learned that the best way to tackle large-scale problems is by working as strong communities. We hope that this project will help strengthen the large network of people and organizations working to solve this water crisis. \r\n\r\nAnother lesson that has informed our project is about transparency. Data and resources related to water have been hard to access, which makes it challenging to work to solve our water crisis. Through improving transparency, we hope to bring more resources to those who are trying to help protect our water resources."
-  - name: achievable_goal
-    label: ''
-    explanation: ''
-    answer: "The test pilot is achievable as Arid Lands Institute (ALI) already is very active in the San Fernando Valley. ALI has already done a lot of research on water related efforts in the community and has a large network of community partners in the area. We will be building on the knowledge and connections of water related organization in both private and public sectors. Both MLA and ALI have a background in mapping and creating powerful graphics to show environmental issues in a clear, informative and evocative manner. Within the next 12 months, we feel confident we can build a prototype for the platform, find participants in the San Fernando Valley, test and evaluate the program, and finally work to make improvements on the app. We hope to find future funding to expand this program to the larger metropolitan area in the future.\r\n"
-  - name: major_challenges
-    label: ''
-    explanation: ''
-    answer: "Major challenges include:\r\n- finding participants \r\n- gathering data from all the various sources\r\n\r\nOur strategy is to use our network and partners to reach out to the communities we have worked in to enable us to successfully reach out to find participants for this pilot test. We also will use our network to gather all the various data needed. "
-  - name: competition
-    label: ''
-    explanation: ''
-    answer: >-
-      To our knowledge, a program like this does not yet exist. Many
-      organizations are working to gather data related to water, but none have
-      gathered it into a user-friendly digital platform for easy access by the
-      public.
-  - name: cost
-    label: ''
-    explanation: ''
-    answer: 'We feel we can achieve this project within $100,000.'
-  - name: budget
-    label: ''
-    explanation: ''
-    answer: "Cataloging projects (ML+A, ALI): $9,000\r\n- 3 weeks, 1 staff member full time ($75/hr)\r\n\r\nGIS Mapping (ML+A): $18,000\r\n- 6 weeks, 1 staff member full time\r\n\r\nCoding (TBD): $18,000\r\n- 6 weeks, 1 staff member full time\r\n\r\nUser experience (LA-MAS): $6000\r\n- 2 weeks, 1 staff member full time\r\n\r\nProject Management (ML+A): $19,000\r\n- 1 year, 2 staff members, part time\r\n\r\nOutreach/Civic Engagement (ALI, ML+A): $30,000\r\n- 1 year, 4 staff members, part time"
-  - name: resources_money
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_staff
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_publicity
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_infrastructure
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: resources_education
-    label: Education/training
-    explanation: ''
-    answer: '1'
-  - name: resources_technical
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: resources_communityoutreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: resources_network
-    label: Network/relationship support
-    explanation: ''
-    answer: '1'
-  - name: resources_research
-    label: Quality improvement research
-    explanation: ''
-    answer: '1'
-body_class: lime
-published: true
 
 ---

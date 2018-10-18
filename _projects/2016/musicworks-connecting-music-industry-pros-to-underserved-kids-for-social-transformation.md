@@ -1,29 +1,23 @@
 ---
+published: true
 organization_id: '2016120'
 year_submitted: 2016
-organization_name: L.A. Works
-organization_website: laworks.com
-ein: '954329727'
-project_image_2: 1369152355741-team90.png
+category: connect
+body_class: tangerine
 project_id: '6102118'
+challenge_url: >-
+  https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
 title: >-
   MusicWorks: connecting music-industry pros to underserved kids for social
   transformation
-organization_name_2: L.A. Works
-organization_activity: >-
-  L.A. Works empowers Angelenos to address critical social issues by recruiting,
-  managing, and training volunteers for nonprofit organizations, schools, and
-  government agencies.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
-project_video: 'https://www.youtube.com/embed/rDnYXMVy1xo?rel=0&amp;showinfo=0'
 project_summary: >-
   MusicWorks mobilizes music industry professionals to volunteer with
   after-school music programs as a tool for social transformation.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
+project_video: 'https://www.youtube.com/embed/rDnYXMVy1xo?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   character limit)
 
@@ -78,6 +72,21 @@ project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Residential
   segregation","Total number of local social media friends and connections
   Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  To leverage our prime location in the capital of the entertainment and music
+  industries, L.A. Works has launched MusicWorks to harness the excitement
+  garnered by music-industry professionals in order to significantly increase
+  volunteerism in L.A.. This project will make L.A. the “best place to connect”
+  by bringing together music industry pros with after-school music programs to
+  excite youth participants; inspire a new cadre of skilled-volunteers; and
+  raise the profiles of the programs served.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   Through volunteer mobilization and management, as well as some creative
   marketing, L.A. Works will address the challenges facing music education
@@ -129,24 +138,7 @@ project_proposal_best_place: >-
   inspires further action to bring about change. With the help of this award, we
   hope that in the near future, L.A. will be thought of as a model for service
   as much as we are known for entertainment, sports, and our weather.
-challenge_url: >-
-  https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
-empty_column_1: ''
-project_proposal_description: >-
-  To leverage our prime location in the capital of the entertainment and music
-  industries, L.A. Works has launched MusicWorks to harness the excitement
-  garnered by music-industry professionals in order to significantly increase
-  volunteerism in L.A.. This project will make L.A. the “best place to connect”
-  by bringing together music industry pros with after-school music programs to
-  excite youth participants; inspire a new cadre of skilled-volunteers; and
-  raise the profiles of the programs served.
-project_proposal_impact:
-  - Social & emotional support
-  - Rates of volunteerism
-  - Residential segregation
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: L.A. Works
+organization_website: laworks.com
 
 ---

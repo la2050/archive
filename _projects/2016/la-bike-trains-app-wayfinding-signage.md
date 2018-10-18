@@ -1,21 +1,19 @@
 ---
+published: true
 organization_id: '2016018'
 year_submitted: 2016
-organization_name: Bicycle Culture Institute
-organization_website: bicycleculture.org
-ein: ''
-project_image_2: 1244558065741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102016'
+challenge_url: 'https://challenge.la2050.org/entry/la-bike-trains-app-wayfinding-signage'
 title: LA Bike Trains - APP + Wayfinding Signage
-organization_name_2: Bicycle Culture Institute
-organization_activity: 'We make bicycling awesome through events, programs and social innovation.'
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
-project_video: 'https://www.youtube.com/embed/l2oE7AX8gtw?rel=0&amp;showinfo=0'
 project_summary: >-
   Online + (iPhone/Android) find the best bicycle routes around LA and the
   ability to find people to ride/commute with - at any time! Plus key signage to
   find bike paths/routes that are easy to miss..
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
+project_video: 'https://www.youtube.com/embed/l2oE7AX8gtw?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: >-
   We will have an unofficial collaboration with LADOT to ensure signage is in
@@ -23,8 +21,6 @@ project_collaborators: >-
   conflicts, etc., , 511.org - a group of developers in the bay area, they have
   the leading expertise on the available data, routing and tech issues that will
   make the app AWESOME!
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   1) Minimum Viable Product functionality checklist/beta release
 
@@ -69,6 +65,33 @@ project_impact: >-
   ["Social & emotional support","Government responsiveness to residents’
   needs","Travel time to work","Public transit riders","Total number of local
   social media friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  Like to ride a bike in LA? Wouldn't it be nice if you could map out:
+
+
+  1) the most chill-safe-stress free route
+
+  2) the faster route
+
+
+  and then see if there was anyone else doing the same commute so that you could
+  have company and enjoy safety in numbers?
+
+
+  You know there's a great bike path (Ballona Creek, LA River) but it's
+  confusing.. signage anyone?
+
+
+  It's possible! LA Bike Trains has been running a similar education program in
+  LA since 2013. Based on feedback this is what people want.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   An app that connects people to better understand and utilize city streets and
   infrastructure - as well as to each other!
@@ -99,35 +122,7 @@ project_proposal_best_place: >-
 
   More people on bikes = more interaction with neighbors, coworkers, people from
   all walks of life in this amazing diverse city.
-challenge_url: 'https://challenge.la2050.org/entry/la-bike-trains-app-wayfinding-signage'
-empty_column_1: ''
-project_proposal_description: >-
-  Like to ride a bike in LA? Wouldn't it be nice if you could map out:
-
-
-  1) the most chill-safe-stress free route
-
-  2) the faster route
-
-
-  and then see if there was anyone else doing the same commute so that you could
-  have company and enjoy safety in numbers?
-
-
-  You know there's a great bike path (Ballona Creek, LA River) but it's
-  confusing.. signage anyone?
-
-
-  It's possible! LA Bike Trains has been running a similar education program in
-  LA since 2013. Based on feedback this is what people want.
-project_proposal_impact:
-  - Social & emotional support
-  - Government responsiveness to residents’ needs
-  - Travel time to work
-  - Public transit riders
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Bicycle Culture Institute
+organization_website: bicycleculture.org
 
 ---

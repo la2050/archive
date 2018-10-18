@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016233'
 year_submitted: 2016
-organization_name: The Triforium Project
-organization_website: triforium.la
-ein: ''
-project_image_2: 7344404654741-team91.jpg
+category: play
+body_class: strawberry
 project_id: '6102258'
+challenge_url: >-
+  https://challenge.la2050.org/entry/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles
 title: >-
   Restoring and reimagining the World's First 'Polyphonoptic' sculpture in
   downtown Los Angeles
-organization_name_2: The Triforium Project
-organization_activity: >-
-  We are a coaltion of people dedicated to reimagining The Triforium,
-  transforming it from a forgotten piece of public art to a dynamic,
-  interactive, creative site for Angelenos of all ages.
-project_image: >-
-  https://scontent-sjc3-1.cdninstagram.com/vp/4a62f65538090842362663dad77db055/5C62A9F5/t51.2885-15/e35/20482077_1500261080035522_7220567506136596480_n.jpg
-project_video: ''
 project_summary: >-
   The Triforium is a piece of “polyphonoptic” public art in DTLA that was 40
   years ahead of its time; we want to restore and retrofit it to achieve the
   artist's dream of music, community, and wonder.
+project_image: >-
+  https://scontent-sjc3-1.cdninstagram.com/vp/4a62f65538090842362663dad77db055/5C62A9F5/t51.2885-15/e35/20482077_1500261080035522_7220567506136596480_n.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: '5 Every Day, Tom Explores Los Angeles, Downtown Art Walk, Art Share LA'
-project_areas:
-  - Central LA
 project_measure: >-
   Our baseline measure for success will be the basic restoration of the
   Triforium to its intended functionality: all 1,494 multicolored glass cubes
@@ -57,6 +51,20 @@ project_description: >-
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Perceived safety
+project_proposal_description: >-
+  The Triforium is a six-story, 60-ton public artwork in Downtown Los Angeles.
+  Its original design was for a polyphonoptic sculpture lighting up in synchrony
+  to music and human movement. It was ahead of his time, and never worked as
+  intended. We want to retrofit and reimagine the Triforium, replacing its
+  incandescent bulbs with LEDs and a nimble computer system to achieve Joseph
+  Young’s original goals. We want to create an app that'll allow people to
+  create compositions for the Triforium to play.
+project_areas:
+  - Central LA
 project_proposal_best_place: >-
   Imagine if you could control the individual street lights in Chris Burden’s
   “Urban Light.” Imagine they made music. How would that artwork, already such a
@@ -114,23 +122,7 @@ project_proposal_best_place: >-
 
   We see the Triforium as a beacon. It’s been there all along. We just need to
   turn it on.
-challenge_url: >-
-  https://challenge.la2050.org/entry/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles
-empty_column_1: ''
-project_proposal_description: >-
-  The Triforium is a six-story, 60-ton public artwork in Downtown Los Angeles.
-  Its original design was for a polyphonoptic sculpture lighting up in synchrony
-  to music and human movement. It was ahead of his time, and never worked as
-  intended. We want to retrofit and reimagine the Triforium, replacing its
-  incandescent bulbs with LEDs and a nimble computer system to achieve Joseph
-  Young’s original goals. We want to create an app that'll allow people to
-  create compositions for the Triforium to play.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: The Triforium Project
+organization_website: triforium.la
 
 ---

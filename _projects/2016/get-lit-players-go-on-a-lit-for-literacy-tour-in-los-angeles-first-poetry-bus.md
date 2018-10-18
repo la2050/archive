@@ -1,41 +1,24 @@
 ---
+published: true
 organization_id: '2018044'
 year_submitted: 2016
-organization_name: Get Lit-Words Ignite
-organization_website: www.getlit.org
-ein: '264644018'
-project_image_2: 6403175774741-team90.jpg
+category: connect
+body_class: tangerine
 project_id: '6102080'
+challenge_url: >-
+  https://challenge.la2050.org/entry/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus!
 title: >-
   Get Lit Players go on a 'Lit for Literacy' Tour in Los Angeles' first Poetry
   Bus!
-organization_name_2: Get Lit-Words Ignite
-organization_activity: >-
-  Get Lit – Words Ignite fuses classic and spoken word poetry to increase teen
-  literacy and cultivate enthusiastic learners emboldened to inspire social
-  consciousness in diverse communities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6403175774741-team90.jpg
-project_video: 'https://www.youtube.com/embed/xQ9wavSt_34?rel=0&amp;showinfo=0'
 project_summary: >-
   The Get Lit Players go on a 'Lit for Literacy' tour with their new book 'Get
   Lit Rising' to promote literacy and self expression amongst underserved and
   marginalized Los Angeles youth.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6403175774741-team90.jpg
+project_video: 'https://www.youtube.com/embed/xQ9wavSt_34?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Over the past 10 years, thousands of testimonials and an external evaluator
   have confirmed Get Lit’s capacity to transform dismal statistics into a
@@ -85,6 +68,33 @@ project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Residential segregation","Total number of local social media
   friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  Get Lit seeks funds to put the Get Lit Players on our brand new Poetry Bus for
+  a “Lit for Literacy” Tour that will visit underserved middle schools, high
+  schools, and community centers throughout Los Angeles County. The Tour will
+  use the Players’ new book “Get Lit Rising,” which includes personal stories
+  and poems, to inspire teens to get involved and stay in school, cultivate a
+  love of language and learning, and ignite community, connectedness, and social
+  activism amongst the citizens of LA.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Beat poet Lenore Kendel once wrote she was “taking poetry out of the classroom
   and into the streets” and that’s just what she and her Beat contemporaries
@@ -138,25 +148,7 @@ project_proposal_best_place: >-
   reach many more people. By connecting Los Angeles youth from different areas
   and amplifying their voices to adults and policy makers, we can create a more
   engaged populace that betters the lives of all Angelinos to come.
-challenge_url: >-
-  https://challenge.la2050.org/entry/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus!
-empty_column_1: ''
-project_proposal_description: >-
-  Get Lit seeks funds to put the Get Lit Players on our brand new Poetry Bus for
-  a “Lit for Literacy” Tour that will visit underserved middle schools, high
-  schools, and community centers throughout Los Angeles County. The Tour will
-  use the Players’ new book “Get Lit Rising,” which includes personal stories
-  and poems, to inspire teens to get involved and stay in school, cultivate a
-  love of language and learning, and ignite community, connectedness, and social
-  activism amongst the citizens of LA.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Residential segregation
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Get Lit-Words Ignite
+organization_website: www.getlit.org
 
 ---

@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016074'
 year_submitted: 2016
-organization_name: EveryoneOn
-organization_website: everyoneon.org
-ein: ''
-project_image_2: 3786211355741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102065'
+challenge_url: >-
+  https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
 title: >-
   Connect with Promise: Providing Internet Connectivity & Devices to Families in
   Public Housing
-organization_name_2: EveryoneOn
-organization_activity: >-
-  EveryoneOn is committed to eliminating the digital divide by making
-  high-speed, low-cost Internet, computers, and free digital literacy training
-  accessible to all unconnected people in the U.S.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
-project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
 project_summary: >-
   EveryoneOn, in collaboration with AT&T. will facilitate Internet connectivity
   and devices for families living in public housing within Los Angeles’
   designated Promise Zones.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
+project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: Access from AT&T
-project_areas:
-  - Central LA
-  - South LA
 project_measure: >-
   EveryoneOn on will track the number of low-income people in public housing who
   receive devices and get connected to the Internet at home, tracking outcomes
@@ -58,6 +51,24 @@ project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Early
   education","Student education pipeline"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+project_proposal_description: >-
+  Since 2012, EveryoneOn has been connecting people in the U.S. to low-cost
+  Internet, devices, and digital literacy training. Internet connectivity is
+  critical to learning and educational advancement today, especially when 80% of
+  children need the Internet to do their homework and 90% of college
+  applications are filled out online. In collaboration with AT&T, we will
+  facilitate Internet connectivity and devices for families living in public
+  housing within Los Angeles’ designated Promise Zones.
+project_areas:
+  - Central LA
+  - South LA
 project_proposal_best_place: >-
   Technology has changed the way we do business, pursue education, find jobs,
   and communicate. Yet in the country that invented the Internet, nearly one in
@@ -93,26 +104,7 @@ project_proposal_best_place: >-
   school and be college and career ready, and acts as a key tool in parents
   ability to be engaged and empowered to direct their children’s learning.
   Today, the ultimate vehicle for opportunity is through the Internet.
-challenge_url: >-
-  https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
-empty_column_1: ''
-project_proposal_description: >-
-  Since 2012, EveryoneOn has been connecting people in the U.S. to low-cost
-  Internet, devices, and digital literacy training. Internet connectivity is
-  critical to learning and educational advancement today, especially when 80% of
-  children need the Internet to do their homework and 90% of college
-  applications are filled out online. In collaboration with AT&T, we will
-  facilitate Internet connectivity and devices for families living in public
-  housing within Los Angeles’ designated Promise Zones.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: EveryoneOn
+organization_website: everyoneon.org
 
 ---

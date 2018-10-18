@@ -1,23 +1,19 @@
 ---
+published: true
 organization_id: '2016081'
 year_submitted: 2016
-organization_name: Four Rings
-organization_website: fourrings.co
-ein: ''
-project_image_2: 3092492065741-team90.jpg
+category: create
+body_class: banana
 project_id: '6102156'
+challenge_url: 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
 title: 'Four Rings: Giving LA a Home to Recharge'
-organization_name_2: Four Rings
-organization_activity: >-
-  Four Rings provides a synergetic platform where all types of people can reach
-  honorable achievement.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
-project_video: 'https://www.youtube.com/embed/31Cl_cWYbgY?rel=0&amp;showinfo=0'
 project_summary: >-
   Four Rings is building a facility to house our vibrant and eclectic community
   centered around our four pillars: fitness, health, entertainment, and
   community.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
+project_video: 'https://www.youtube.com/embed/31Cl_cWYbgY?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Southern California United - SC United Men's Gymnastics is a unique program
@@ -26,11 +22,6 @@ project_collaborators: >-
   NCAA level.  The team is not affiliated with one college, however the team
   members attend different colleges throughout LA and Southern California. As
   such there is no support from any recreational college entities.
-project_areas:
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Four Rings will measure success for this project based on:
 
@@ -71,6 +62,26 @@ project_impact: >-
   capita","Measures of cultural and global economic influence (“soft
   power”)","Minority- and women-owned firms","High growth startups","Venture
   capital investment"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Venture capital investment
+project_proposal_description: >-
+  Four Rings is a lifestyle brand dedicated to individual and collective growth
+  through fitness, health, entertainment, and community.  Our Vision is to
+  provide a premier space for vibrant and eclectic individuals to be galvanized
+  by the realization of our human potential.  The ChallengeLA2050 grant will
+  directly contribute to the vision of the company through funding for a 35,000
+  sq. ft. LA facility to house our growing community.
+project_areas:
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Four Rings will make LA the best place to create by cultivating growth for our
   vibrant and eclectic community. 
@@ -113,25 +124,7 @@ project_proposal_best_place: >-
   We look to stimulate growth in the entertainment industry by connecting
   motivated and inspired entrepreneurs. Four Rings values innovation, and sees
   this network as a unique and refreshing way to support business development.
-challenge_url: 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
-empty_column_1: ''
-project_proposal_description: >-
-  Four Rings is a lifestyle brand dedicated to individual and collective growth
-  through fitness, health, entertainment, and community.  Our Vision is to
-  provide a premier space for vibrant and eclectic individuals to be galvanized
-  by the realization of our human potential.  The ChallengeLA2050 grant will
-  directly contribute to the vision of the company through funding for a 35,000
-  sq. ft. LA facility to house our growing community.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - High growth startups
-  - Venture capital investment
-category: create
-body_class: banana
-published: true
+organization_name: Four Rings
+organization_website: fourrings.co
 
 ---

@@ -1,26 +1,22 @@
 ---
+published: true
 organization_id: '2016065'
 year_submitted: 2016
-organization_name: Doctors for America
-organization_website: www.drsforamerica.org
-ein: ''
-project_image_2: 4415249165741-team91.png
+category: live
+body_class: lime
 project_id: '6102061'
+challenge_url: >-
+  https://challenge.la2050.org/entry/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food
 title: >-
   Food As Health Care: A Project to Engage Doctors in Providing Reliable Access
   to Healthy Food
-organization_name_2: Doctors for America
-organization_activity: >-
-  DFA mobilizes doctors and medical students to be leaders in local communities
-  on the pressing issues of the day to improve the health of our patients,
-  communities, and nation.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
-project_video: ''
 project_summary: >-
   We will leverage health care providers embedded in our community to help
   identify those who do not have reliable access to healthy food, educate the
   community, and connect people with food resources.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We are an organization of over 18,000 doctors and medical students in all 50
@@ -30,19 +26,6 @@ project_collaborators: >-
   impact possible. In Los Angeles, we have active members who work within Kaiser
   Permanente, UCLA, the LA County DHS hospitals and clinics as well as numerous
   other organizations who will collaborate.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Here are metrics we will use to evaluate the different campaign components:
 
@@ -100,6 +83,36 @@ project_impact: >-
   ["Access to healthy food","Healthcare
   access","Self-sufficiency","Obesity","Resilient communities","Residents
   receiving coordinated healthcare services","Homelessness","Mental illness"]
+project_proposal_impact:
+  - Access to healthy food
+  - Healthcare access
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Homelessness
+  - Mental illness
+project_proposal_description: >-
+  We will leverage physicians embedded in our community to help identify those
+  who do not have reliable access to healthy food, educate patients on the
+  importance of healthy eating, and connect people with food resources. Our
+  project will include development of materials for the use of educating
+  physicians and their patients on food insecurity and available food resources
+  in our community. We will organize physicians through educational webinars,
+  social media campaigns, and grassroots organizing.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Our campaign provides a unique approach to improving reliable access to
   healthy food. We firmly believe that physician-patient interactions provide a
@@ -150,28 +163,7 @@ project_proposal_best_place: >-
   newspapers, blogs and other media sources to raise awareness of this issue.
   This will create community interest in investing further in food resource
   development in the future.
-challenge_url: >-
-  https://challenge.la2050.org/entry/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food
-empty_column_1: ''
-project_proposal_description: >-
-  We will leverage physicians embedded in our community to help identify those
-  who do not have reliable access to healthy food, educate patients on the
-  importance of healthy eating, and connect people with food resources. Our
-  project will include development of materials for the use of educating
-  physicians and their patients on food insecurity and available food resources
-  in our community. We will organize physicians through educational webinars,
-  social media campaigns, and grassroots organizing.
-project_proposal_impact:
-  - Access to healthy food
-  - Healthcare access
-  - Self-sufficiency
-  - Obesity
-  - Resilient communities
-  - Residents receiving coordinated healthcare services
-  - Homelessness
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: Doctors for America
+organization_website: www.drsforamerica.org
 
 ---

@@ -1,39 +1,25 @@
 ---
+published: true
 organization_id: '2016210'
 year_submitted: 2016
-organization_name: Tech LA Cares
-organization_website: techlacares.com
-ein: '841631105'
-project_image_2: 8786812913741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102242'
+challenge_url: >-
+  https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
 title: Connecting LA Tech Companies with Area STEM Organizations
-organization_name_2: Tech LA Cares
-organization_activity: >-
-  We aim to connect LA-area tech firms with volunteer opportunities at local
-  STEM-based organizations via events, web, and weekly emails -- and lots of
-  one-on-one real-world engagement.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
-project_video: ''
 project_summary: >-
   Tech LA Cares (TLC) aims to connect LA tech companies with volunteer
   opportunities at area STEM organizations in order to faciliate a more diverse
   future workforce for LA.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: >-
   None -- no direct collaboration, but we are talking to nearly two dozen area
   STEM orgs to assess their needs in order to help them obtain the resources
   they need to thrive.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Gateway Cities
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Metrics used to define and measure success include:
 
@@ -110,6 +96,35 @@ project_impact: >-
   education","Student education pipeline","Suspension and expulsion
   rates","Truancy rates in elementary and middle schools","Youth unemployment
   and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  LA-based STEM organizations are strapped for resources; area tech firms need
+  any easy path to become more involved with their communities.
+   
+  Tech LA Cares (TLC) aims to build a gateway for the two worlds to connect and
+  create long-term relationships that foster a more diverse workforce that
+  reflects LA's culture, and to offer resources for both sides to more
+  efficiently give and receive manpower, internships, mentorships, scholarships,
+  monetary support, hardware, software, and more.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Gateway Cities
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   TECH LA CARES aims to take what LA is already doing, and make it BETTER.  LA
   is home to over 20 STEM-based organizations, and to hundreds of tech firms of
@@ -173,30 +188,7 @@ project_proposal_best_place: >-
   minority youth, for creating a smarter local workforce, and for creating a
   more DIVERSE workforce that truly reflects the international nature of LA's
   population.
-challenge_url: >-
-  https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
-empty_column_1: ''
-project_proposal_description: >-
-  LA-based STEM organizations are strapped for resources; area tech firms need
-  any easy path to become more involved with their communities.
-   
-  Tech LA Cares (TLC) aims to build a gateway for the two worlds to connect and
-  create long-term relationships that foster a more diverse workforce that
-  reflects LA's culture, and to offer resources for both sides to more
-  efficiently give and receive manpower, internships, mentorships, scholarships,
-  monetary support, hardware, software, and more.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Tech LA Cares
+organization_website: techlacares.com
 
 ---

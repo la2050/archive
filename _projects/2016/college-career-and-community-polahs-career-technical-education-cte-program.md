@@ -1,32 +1,24 @@
 ---
+published: true
 organization_id: '2016175'
 year_submitted: 2016
-organization_name: Port of Los Angeles High School
-organization_website: polahs.net
-ein: ''
-project_image_2: 1054585155741-team89.jpg
+category: learn
+body_class: blueberry
 project_id: '6102187'
+challenge_url: >-
+  https://challenge.la2050.org/entry/college-career-and-community-polahs-career-technical-education-cte-program
 title: >-
   COLLEGE, CAREER, and COMMUNITY: POLAHS Career Technical Education (CTE)
   Program 
-organization_name_2: Port of Los Angeles High School
-organization_activity: >-
-  POLAHS is a public, independent charter school educating 950 students in
-  grades 9-12.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
-project_video: 'https://www.youtube.com/embed/UclMuVfefwA?rel=0&amp;showinfo=0'
 project_summary: >-
   POLAHS provides a college preparatory education with Career Technical
   Education (CTE) pathways in the high-skill, high-wage, high-demand industries
   of Boat Operations; Digital Media; and Construction.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
+project_video: 'https://www.youtube.com/embed/UclMuVfefwA?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: Los Angeles Maritime Institute
-project_areas:
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   POLAHS established a CTE Advisory Board to guide the program’s growth and
   development; measure student progress; and maintain program accountability.
@@ -91,6 +83,27 @@ project_impact: >-
   rates","Proficiency in English and Language Arts and Math","Student education
   pipeline","Suspension and expulsion rates","Youth unemployment and
   underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  POLAHS prepares 950 students to be college and career ready through our Career
+  Technical Education (CTE) program. POLAHS offers a college preparatory
+  curriculum with CTE pathways in the high-skill, high-wage, high-demand
+  industries of Digital Media; Boat Operations; and Construction Technology.
+  Postsecondary and industry partnerships are integral to the program, allowing
+  students to graduate with core academic skills, employability skills, and
+  technical, job-specific skills.
+project_areas:
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Port of Los Angeles High School (POLAHS) will make LA the best place to learn
   by preparing all students to graduate and be college and career ready through
@@ -150,27 +163,7 @@ project_proposal_best_place: >-
   postsecondary education in the residential and commercial construction
   industry. Students earn college credit and certifications by completing an
   advanced Construction Technology class through El Camino College.
-challenge_url: >-
-  https://challenge.la2050.org/entry/college-career-and-community-polahs-career-technical-education-cte-program
-empty_column_1: ''
-project_proposal_description: >-
-  POLAHS prepares 950 students to be college and career ready through our Career
-  Technical Education (CTE) program. POLAHS offers a college preparatory
-  curriculum with CTE pathways in the high-skill, high-wage, high-demand
-  industries of Digital Media; Boat Operations; and Construction Technology.
-  Postsecondary and industry partnerships are integral to the program, allowing
-  students to graduate with core academic skills, employability skills, and
-  technical, job-specific skills.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Port of Los Angeles High School
+organization_website: polahs.net
 
 ---

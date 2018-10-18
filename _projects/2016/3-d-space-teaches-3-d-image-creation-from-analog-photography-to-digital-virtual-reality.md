@@ -1,29 +1,22 @@
 ---
+published: true
 organization_id: '2016002'
 year_submitted: 2016
-organization_name: '3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education'
-organization_website: 3-DSPACE.org
-ein: '472247578'
-project_image_2: 4065764555741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102001'
+challenge_url: >-
+  https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
 title: ' 3-D SPACE Teaches 3-D Image Creation: From Analog Photography to Digital Virtual Reality'
-organization_name_2: '3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education'
-organization_activity: >-
-  3-D SPACE is an LA based arts and education nonprofit  dedicated to both the
-  preservation of the history of stereoscopic imaging, and the advancement of
-  current and future 3-D arts and sciences.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
-project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk?rel=0&amp;showinfo=0'
 project_summary: >-
   3-D SPACE will implement public presentations, classes and workshops in
   stereoscopic 3-D history and content creation, from 3-D photography and
   filmmaking to immersive virtual reality.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
+project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - San Fernando Valley
 project_measure: >-
   Our goals for this program are:
 
@@ -76,6 +69,18 @@ project_description: >-
   include outreach to LA's underserved communities, and also specialized
   educational initiatives for LA's creative youth and senior populations.
 project_impact: '["Arts establishments","Employment in the creative industries"]'
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+project_proposal_description: >-
+  3-D SPACE will implement an ongoing program of public presentations, classes
+  and workshops in stereoscopic 3-D history and content creation, from 3-D
+  photography and filmmaking to immersive virtual reality. These programs will
+  include outreach to LA's underserved communities, and also specialized
+  educational initiatives for LA's creative youth and senior populations.
+project_areas:
+  - Central LA
+  - San Fernando Valley
 project_proposal_best_place: >-
   Our goals are to celebrate the work of many talented artists, photographers
   and filmmakers who have used the medium of 3-D as their creative tool, and to
@@ -129,20 +134,7 @@ project_proposal_best_place: >-
   the growing numbers of LA residents who will pursue careers in the numerous
   fields that are rapidly implementing 3-D imagery, including entertainment,
   medicine, design, and education.
-challenge_url: >-
-  https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
-empty_column_1: ''
-project_proposal_description: >-
-  3-D SPACE will implement an ongoing program of public presentations, classes
-  and workshops in stereoscopic 3-D history and content creation, from 3-D
-  photography and filmmaking to immersive virtual reality. These programs will
-  include outreach to LA's underserved communities, and also specialized
-  educational initiatives for LA's creative youth and senior populations.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-category: create
-body_class: banana
-published: true
+organization_name: '3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education'
+organization_website: 3-DSPACE.org
 
 ---

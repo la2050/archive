@@ -1,36 +1,22 @@
 ---
+published: true
 organization_id: '2016075'
 year_submitted: 2016
-organization_name: Evolve LA (project of LA-Más)
-organization_website: www.mas.la
-ein: ''
-project_image_2: 0674973265741-team91.png
+category: live
+body_class: lime
 project_id: '6102066'
+challenge_url: >-
+  https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
 title: 'Open House LA: making los angeles more open to more housing'
-organization_name_2: Evolve LA (project of LA-Más)
-organization_activity: >-
-  LA-Más is a non-profit urban design organization that helps lower-income and
-  underserved communities shape their future through policy and architecture.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
-project_video: ''
 project_summary: >-
   Open House LA encourages residents and policy makers in LA County to be more
   open to adding more housing of all types, so that there are enough homes for
   all types of people to live in LA
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: none - we will work with consultants who may be organizations
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
 project_measure: >-
   We define success as expanding awareness of the need for more housing of all
   types in LA County and for policy change and innovation to allow more housing
@@ -76,6 +62,29 @@ project_description: >-
   recent decades, and how we can accelerate adding housing of all types so that
   LA can have homes for all types of people.
 project_impact: '["Housing affordability","Resilient communities","Homelessness"]'
+project_proposal_impact:
+  - Housing affordability
+  - Resilient communities
+  - Homelessness
+project_proposal_description: >-
+  Open House LA encourages residents and policy makers to be more open to adding
+  more housing of all types in Los Angeles County. it is urgent -- and
+  possible-- to build more housing in LA county more rapidly.  Our project will
+  produce engaging and easy to understand visuals and a report explaining how
+  the housing we live in today was built, why housing production slowed in
+  recent decades, and how we can accelerate adding housing of all types so that
+  LA can have homes for all types of people.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
 project_proposal_best_place: >-
   We cannot live better in LA unless there are enough homes so people can afford
   to stay in and move to Los Angeles. 
@@ -150,23 +159,7 @@ project_proposal_best_place: >-
   We will distribute them via social media and other channels. Once the report
   is complete, we will share it online and via a panel discussion / launch event
   and social media event.
-challenge_url: >-
-  https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
-empty_column_1: ''
-project_proposal_description: >-
-  Open House LA encourages residents and policy makers to be more open to adding
-  more housing of all types in Los Angeles County. it is urgent -- and
-  possible-- to build more housing in LA county more rapidly.  Our project will
-  produce engaging and easy to understand visuals and a report explaining how
-  the housing we live in today was built, why housing production slowed in
-  recent decades, and how we can accelerate adding housing of all types so that
-  LA can have homes for all types of people.
-project_proposal_impact:
-  - Housing affordability
-  - Resilient communities
-  - Homelessness
-category: live
-body_class: lime
-published: true
+organization_name: Evolve LA (project of LA-Más)
+organization_website: www.mas.la
 
 ---

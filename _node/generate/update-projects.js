@@ -61,30 +61,183 @@ function loadMarkdown(filename) {
 // const attributes = [
 //   'published',
 //   'organization_id',
+//   'year_submitted',
+//   'category',
+//   'body_class',
+//   'project_id',
+//   'challenge_url',
 //   'title',
-//   'org_type',
-//   'org_summary',
-//   'tags_indicators',
-//   'charity_navigator_url',
-//   'organization_website',
-//   'twitter',
-//   'instagram',
-//   'facebook',
-//   'ein',
-//   'zip',
+//   'project_summary',
 //   'project_image',
 //   'project_video',
-//   'project_ids',
-//   'project_titles',
-//   'aggregated',
-//   'original_project_ids',
-//   'original_project_titles',
-//   'extrapolated_project_ids',
-//   'extrapolated_project_titles',
+//   'project_areas',
 //   'youtube_video_identifier',
+//   'maker_image_id',
 //   'maker_image_file_name',
-//   'maker_image_id'
+//   'maker_answers',
+//   'maker_answers_list',
+
+//   // 2013
+//   'What is your idea and how will it impact your indicator?',
+//   'What are some of your organization’s most important achievements to date?',
+//   'Please explain how you will evaluate your project. How will you measure success?',
+//   'How will your project benefit Los Angeles? Please be specific.',
+//   'What would success look like in the year 2050 regarding your indicator?',
+
+//   // 2014
+//   'Which area(s) of LA does your project benefit? Other (elaborate)',
+//   'What is your idea/project in more detail?',
+//   'What will you do to implement this idea/project?',
+//   'How will your idea/project help make LA the best place to connect today? In LA2050?',
+//   'Whom will your project benefit? Please be specific.',
+//   'empty_column_1',
+
+//   // 2015
+//   'areas_impacted',
+//   'partners',
+//   'Please specify below',
+//   'Describe in greater detail how you will make LA the best place to connect',
+//   'Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?',
+//   'Please explain how you will evaluate your work.',
+//   'Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?',
+//   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?',
+//   'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?',
+//   'Please include a detailed budget of how you will use $100,000 to implement this project.',
+//   'How do you plan to scale the success of your proposal?',
+
+//   // 2016
+//   'organization_website',
+//   'ein',
+//   'project_image_2',
+//   'organization_name_2',
+//   'organization_activity',
+//   'project_is_collaboration',
+//   'project_collaborators',
+//   'project_measure',
+//   'project_proposal_help',
+//   'project_description',
+//   'project_impact',
+//   'project_proposal_best_place',
+//   'project_proposal_description',
+//   'project_proposal_impact',
+
+//    // 2018
+//    'project_id_2'
 // ]
+
+
+
+const attributes = [
+ 'published',
+ 'organization_id',
+ 'year_submitted',
+ 'category',
+ 'indicator',
+ 'body_class',
+ 'project_id',
+ 'challenge_url',
+ 'title',
+ 'project_summary',
+ 'project_image',
+ 'project_video',
+
+ 'project_is_collaboration',
+ 'project_collaborators',
+ 'project_measure',
+ 'project_proposal_help',
+ 'project_description',
+ 'project_impact',
+ 'project_proposal_impact',
+
+ 'impact_metrics',
+ 'make_la_great',
+ 'project_proposal_description',
+ 'project_areas',
+ 'project_proposal_mobilize',
+ 'project_proposal_best_place',
+ 'project_proposal_engage',
+ 'project_five_years',
+ 'category_metrics',
+ 'category_other',
+
+ 'maker_answers',
+
+
+// '2013': 
+ 'What is your idea and how will it impact your indicator?',
+ 'What are some of your organization’s most important achievements to date?',
+ 'Please identify any partners or collaborators who will work with you on this project.',
+ 'Please explain how you will evaluate your project. How will you measure success?',
+ 'How will your project benefit Los Angeles? Please be specific.',
+ 'What would success look like in the year 2050 regarding your indicator?',
+
+// '2014': 
+ 'Which area(s) of LA does your project benefit? Other (elaborate)',
+ 'What is your idea/project in more detail?',
+ 'What will you do to implement this idea/project?',
+ 'How will your idea/project help make LA the best place to connect today? In LA2050?',
+ 'Whom will your project benefit? Please be specific.',
+
+// '2015': 
+ 'areas_impacted',
+ 'partners',
+ 'Please specify below',
+ 'Describe in greater detail how you will make LA the best place to connect:',
+ 'Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?',
+ 'Please explain how you will evaluate your work.',
+ 'Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?',
+ 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?',
+ 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?',
+ 'Please include a detailed budget of how you will use $100,000 to implement this project.',
+ 'How do you plan to scale the success of your proposal?',
+
+// '2016': 
+
+// '2018': 
+ 'Please describe the activation your organization seeks to launch.',
+ 'Describe in greater detail how your activation will make LA the best place?',
+ 'How will your activation engage Angelenos to make LA the best place',
+ 'Please explain how you will define and measure success for your activation.',
+ 'Where do you hope this activation or your organization will be in five years?',
+
+
+
+
+ 'project_id_2',
+ 'project_id_3',
+ 'project_image_2',
+ 'empty_column_1',
+ 'youtube_video_identifier',
+ 'maker_answers_list',
+ 'maker_image_id',
+ 'maker_image_file_name',
+ 'organization_name',
+ 'organization_website',
+ 'organization_name_2',
+ 'organization_activity',
+ 'ein'
+]
+
+
+const attributesToRemove = [
+ 'project_id_2',
+ 'project_id_3',
+ 'project_image_2',
+ 'empty_column_1',
+ //'youtube_video_identifier',
+ 'maker_answers_list',
+ //'maker_image_id',
+ //'maker_image_file_name',
+ //'organization_name',
+ //'organization_website',
+ 'organization_name_2',
+ 'organization_activity',
+ 'ein'
+]
+
+
+
+let uniqueAttributes = {}
 
 
 function saveMarkdown(filename, data) {
@@ -93,20 +246,29 @@ function saveMarkdown(filename, data) {
 
   // console.dir(data)
 
+  attributesToRemove.forEach(name => {
+    delete data.yaml[name]
+  })
+
+  if (data.yaml.maker_answers) {
+    delete data.yaml.maker_answers.Email
+    delete data.yaml.maker_answers.PhoneNumber
+  }
+
   let options = {}
 
-  // options.sortKeys = (a, b) => {
-  //   // a is less than b by some ordering criterion
-  //   if (attributes.indexOf(a) < attributes.indexOf(b)) {
-  //     return -1
-  //   }
-  //   // a is greater than b by the ordering criterion
-  //   if (attributes.indexOf(a) > attributes.indexOf(b)) {
-  //     return 1
-  //   }
-  //   // a must be equal to b
-  //   return 0
-  // }
+  options.sortKeys = (a, b) => {
+    // a is less than b by some ordering criterion
+    if (attributes.indexOf(a) < attributes.indexOf(b)) {
+      return -1
+    }
+    // a is greater than b by the ordering criterion
+    if (attributes.indexOf(a) > attributes.indexOf(b)) {
+      return 1
+    }
+    // a must be equal to b
+    return 0
+  }
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
@@ -396,6 +558,19 @@ function processFile(filename) {
 
   if (data.yaml.project_video === null) data.yaml.project_video = ""
 
+
+  if (data.yaml.year_submitted && data.yaml.year_submitted != "") {
+    if (!uniqueAttributes[data.yaml.year_submitted]) {
+      uniqueAttributes[data.yaml.year_submitted] = {}
+    }
+    for (let prop in data.yaml) {
+      if (data.yaml.hasOwnProperty(prop)) {
+        uniqueAttributes[data.yaml.year_submitted][prop] = 1
+      }
+    }
+  }
+
+
   saveMarkdown(filename, data)
 }
 
@@ -436,5 +611,300 @@ function updateFolder(folder) {
 
 
 updateFolder('../_projects')
+
+// console.dir(uniqueAttributes)
+
+/*
+{ '2013': 
+   { organization_id: 1,
+     project_image: 1,
+     project_id: 1,
+     title: 1,
+     indicator: 1,
+     'What is your idea and how will it impact your indicator?': 1,
+     'What are some of your organization’s most important achievements to date?': 1,
+     'Please identify any partners or collaborators who will work with you on this project.': 1,
+     'Please explain how you will evaluate your project. How will you measure success?': 1,
+     'How will your project benefit Los Angeles? Please be specific.': 1,
+     'What would success look like in the year 2050 regarding your indicator?': 1,
+     year_submitted: 1,
+     project_video: 1,
+     youtube_video_identifier: 1,
+     maker_answers: 1,
+     maker_answers_list: 1,
+     body_class: 1,
+     project_summary: 1,
+     published: 1,
+     maker_image_id: 1,
+     maker_image_file_name: 1 },
+  '2014': 
+   { project_id: 1,
+     title: 1,
+     project_summary: 1,
+     category: 1,
+     organization_id: 1,
+     year_submitted: 1,
+     project_image: 1,
+     project_video: 1,
+     'Which area(s) of LA does your project benefit? Other (elaborate)': 1,
+     'What is your idea/project in more detail?': 1,
+     'What will you do to implement this idea/project?': 1,
+     'How will your idea/project help make LA the best place to connect today? In LA2050?': 1,
+     'Whom will your project benefit? Please be specific.': 1,
+     empty_column_1: 1,
+     youtube_video_identifier: 1,
+     project_areas: 1,
+     maker_answers: 1,
+     maker_answers_list: 1,
+     body_class: 1,
+     published: 1,
+     maker_image_id: 1,
+     maker_image_file_name: 1 },
+  '2015': 
+   { project_id: 1,
+     title: 1,
+     organization_id: 1,
+     areas_impacted: 1,
+     partners: 1,
+     project_summary: 1,
+     'Please specify below': 1,
+     category: 1,
+     'Describe in greater detail how you will make LA the best place to connect:': 1,
+     'Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?': 1,
+     'Please explain how you will evaluate your work.': 1,
+     'Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?': 1,
+     'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': 1,
+     'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 1,
+     'Please include a detailed budget of how you will use $100,000 to implement this project.': 1,
+     'How do you plan to scale the success of your proposal?': 1,
+     year_submitted: 1,
+     project_image: 1,
+     project_video: 1,
+     youtube_video_identifier: 1,
+     project_areas: 1,
+     maker_answers: 1,
+     maker_answers_list: 1,
+     body_class: 1,
+     organization_name: 1,
+     published: 1,
+     maker_image_id: 1,
+     maker_image_file_name: 1 },
+  '2016': 
+   { organization_id: 1,
+     year_submitted: 1,
+     organization_name: 1,
+     organization_website: 1,
+     ein: 1,
+     project_image_2: 1,
+     project_id: 1,
+     title: 1,
+     organization_name_2: 1,
+     organization_activity: 1,
+     project_image: 1,
+     project_video: 1,
+     project_summary: 1,
+     project_is_collaboration: 1,
+     project_collaborators: 1,
+     project_areas: 1,
+     project_measure: 1,
+     project_proposal_help: 1,
+     project_description: 1,
+     project_impact: 1,
+     project_proposal_best_place: 1,
+     challenge_url: 1,
+     empty_column_1: 1,
+     project_proposal_description: 1,
+     project_proposal_impact: 1,
+     category: 1,
+     body_class: 1,
+     published: 1 },
+  '2018': 
+   { project_id: 1,
+     project_id_2: 1,
+     title: 1,
+     project_summary: 1,
+     'Please describe the activation your organization seeks to launch.': 1,
+     'Describe in greater detail how your activation will make LA the best place?': 1,
+     'How will your activation engage Angelenos to make LA the best place': 1,
+     'Please explain how you will define and measure success for your activation.': 1,
+     'Where do you hope this activation or your organization will be in five years?': 1,
+     impact_metrics: 1,
+     make_la_great: 1,
+     category: 1,
+     organization_id: 1,
+     project_image: 1,
+     project_video: 1,
+     project_id_3: 1,
+     year_submitted: 1,
+     organization_name: 1,
+     project_proposal_description: 1,
+     project_areas: 1,
+     project_proposal_mobilize: 1,
+     project_proposal_best_place: 1,
+     project_proposal_engage: 1,
+     project_measure: 1,
+     project_five_years: 1,
+     category_metrics: 1,
+     category_other: 1,
+     challenge_url: 1,
+     body_class: 1,
+     published: 1 } }
+*/
+
+
+let years = [2013, 2014, 2015, 2016, 2018]
+
+let uniqueAttributesArray = {}
+
+years.forEach(year => {
+  uniqueAttributesArray[year] = []
+  for (let prop in uniqueAttributes[year]) {
+    if (uniqueAttributes[year].hasOwnProperty(prop)) {
+      uniqueAttributesArray[year].push(prop)
+    }
+  }
+  uniqueAttributesArray[year] = Array.from(new Set(uniqueAttributesArray[year]))
+})
+
+
+// console.dir(uniqueAttributesArray)
+
+/*
+
+{ '2013': 
+   [ 'organization_id',
+     'project_image',
+     'project_id',
+     'title',
+     'indicator',
+     'What is your idea and how will it impact your indicator?',
+     'What are some of your organization’s most important achievements to date?',
+     'Please identify any partners or collaborators who will work with you on this project.',
+     'Please explain how you will evaluate your project. How will you measure success?',
+     'How will your project benefit Los Angeles? Please be specific.',
+     'What would success look like in the year 2050 regarding your indicator?',
+     'year_submitted',
+     'project_video',
+     'youtube_video_identifier',
+     'maker_answers',
+     'maker_answers_list',
+     'body_class',
+     'project_summary',
+     'published',
+     'maker_image_id',
+     'maker_image_file_name' ],
+  '2014': 
+   [ 'project_id',
+     'title',
+     'project_summary',
+     'category',
+     'organization_id',
+     'year_submitted',
+     'project_image',
+     'project_video',
+     'Which area(s) of LA does your project benefit? Other (elaborate)',
+     'What is your idea/project in more detail?',
+     'What will you do to implement this idea/project?',
+     'How will your idea/project help make LA the best place to connect today? In LA2050?',
+     'Whom will your project benefit? Please be specific.',
+     'empty_column_1',
+     'youtube_video_identifier',
+     'project_areas',
+     'maker_answers',
+     'maker_answers_list',
+     'body_class',
+     'published',
+     'maker_image_id',
+     'maker_image_file_name' ],
+  '2015': 
+   [ 'project_id',
+     'title',
+     'organization_id',
+     'areas_impacted',
+     'partners',
+     'project_summary',
+     'Please specify below',
+     'category',
+     'Describe in greater detail how you will make LA the best place to connect:',
+     'Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?',
+     'Please explain how you will evaluate your work.',
+     'Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?',
+     'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?',
+     'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?',
+     'Please include a detailed budget of how you will use $100,000 to implement this project.',
+     'How do you plan to scale the success of your proposal?',
+     'year_submitted',
+     'project_image',
+     'project_video',
+     'youtube_video_identifier',
+     'project_areas',
+     'maker_answers',
+     'maker_answers_list',
+     'body_class',
+     'organization_name',
+     'published',
+     'maker_image_id',
+     'maker_image_file_name' ],
+  '2016': 
+   [ 'organization_id',
+     'year_submitted',
+     'organization_name',
+     'organization_website',
+     'ein',
+     'project_image_2',
+     'project_id',
+     'title',
+     'organization_name_2',
+     'organization_activity',
+     'project_image',
+     'project_video',
+     'project_summary',
+     'project_is_collaboration',
+     'project_collaborators',
+     'project_areas',
+     'project_measure',
+     'project_proposal_help',
+     'project_description',
+     'project_impact',
+     'project_proposal_best_place',
+     'challenge_url',
+     'empty_column_1',
+     'project_proposal_description',
+     'project_proposal_impact',
+     'category',
+     'body_class',
+     'published' ],
+  '2018': 
+   [ 'project_id',
+     'project_id_2',
+     'title',
+     'project_summary',
+     'Please describe the activation your organization seeks to launch.',
+     'Describe in greater detail how your activation will make LA the best place?',
+     'How will your activation engage Angelenos to make LA the best place',
+     'Please explain how you will define and measure success for your activation.',
+     'Where do you hope this activation or your organization will be in five years?',
+     'impact_metrics',
+     'make_la_great',
+     'category',
+     'organization_id',
+     'project_image',
+     'project_video',
+     'project_id_3',
+     'year_submitted',
+     'organization_name',
+     'project_proposal_description',
+     'project_areas',
+     'project_proposal_mobilize',
+     'project_proposal_best_place',
+     'project_proposal_engage',
+     'project_measure',
+     'project_five_years',
+     'category_metrics',
+     'category_other',
+     'challenge_url',
+     'body_class',
+     'published' ] }
+*/
 
 

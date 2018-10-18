@@ -1,24 +1,20 @@
 ---
+published: true
 organization_id: '2016114'
 year_submitted: 2016
-organization_name: Jobs to Move America
-organization_website: jobstomoveamerica.org
-ein: ''
-project_image_2: 1741937194741-team89.jpg
+category: create
+body_class: banana
 project_id: '6102109'
+challenge_url: >-
+  https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
 title: 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
-organization_name_2: Jobs to Move America
-organization_activity: >-
-  Jobs to Move America (JMA) is a national organization- headquartered in
-  LA-dedicated to re-invigorating our manufacturing economy through good jobs &
-  opportunities for all
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1741937194741-team89.jpg
-project_video: ''
 project_summary: >-
   Electrify LA will transform the county's polluting buses into zero emission
   vehicles and create good manufacturing jobs for low-income communities
   historically excluded from middle skilled tech jobs
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1741937194741-team89.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   6 unions that represent workers in the various industrial sectors in LA will
@@ -28,14 +24,6 @@ project_collaborators: >-
   Metro & other local transit agencies. Environmental partners will include the
   Blue-Green Alliance and most likely the Natural Resources Defense Council, and
   the Greenlining Institute.
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: "•\tCompletion of extensive research leading to release in 2017 of a white paper on EV buses,  the bus procurement process & making LA a hub for new manufacturing jobs.  \n* Evaluation of the number of workers employed in good career jobs in EV bus manufacturing, the quality of worker training and terms of employment, and provision of ongoing support to ensure retention.  \n* Evaluation of the number of workers employed who do not presently have access to quality employment, including targeted workers such as women, the formerly incarcerated, and people of color.\n* Evaluation of the number of electric powered buses manufactured in California and in the pipeline.\n* Achievement of community benefits agreements in connection with contracts for EV bus manufacture that include commitments to quality jobs, training and apprenticeship programs, career ladder development, outreach to non-traditional workers; bilingual human resources capacity and workplace ESL; a plan to address barriers for workers (including the need for childcare & local transportation), and recruitment targeted to disadvantaged workers.  \n* Winning strong policies for clean buses that require the creation of good jobs and equity for all purchases above $10 million with transit agencies throughout Southern California .\n* Building a coalition that includes environmental, labor and civil rights movements that can create momentum to Electrify LA."
 project_proposal_help:
   - 'Money '
@@ -55,6 +43,27 @@ project_description: >-
 project_impact: >-
   ["Manufacturing activity","Jobs per capita","Minority- and women-owned
   firms","Unemployment (and opportunities) for the formerly incarcerated"]
+project_proposal_impact:
+  - Manufacturing activity
+  - Jobs per capita
+  - Minority- and women-owned firms
+  - Unemployment (and opportunities) for the formerly incarcerated
+project_proposal_description: >-
+  LA has a sky high working poverty rate and aging fossil fuel burning buses
+  that are destructive to communities and the environment. JMA wants LA to
+  become a leader in the emergence of a clean tech manufacturing sector by
+  investing in a high quality, clean public transit system and creating good
+  jobs for our communities. Because of California's environmental regulation and
+  strong policy leadership in the city and county, LA has the potential to
+  create 1,000s of good jobs building new EV buses.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Two of the great challenges LA faces are the rapid pace of climate change &
   the lack of quality jobs for working families.  JMA addresses climate change
@@ -103,24 +112,7 @@ project_proposal_best_place: >-
   Our strategy will empower LA communities to transform their neighborhoods by
   promoting a healthier environment and local manufacture and enforceable
   community benefits agreements for taxpayer-funded equipment purchases.
-challenge_url: >-
-  https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
-empty_column_1: ''
-project_proposal_description: >-
-  LA has a sky high working poverty rate and aging fossil fuel burning buses
-  that are destructive to communities and the environment. JMA wants LA to
-  become a leader in the emergence of a clean tech manufacturing sector by
-  investing in a high quality, clean public transit system and creating good
-  jobs for our communities. Because of California's environmental regulation and
-  strong policy leadership in the city and county, LA has the potential to
-  create 1,000s of good jobs building new EV buses.
-project_proposal_impact:
-  - Manufacturing activity
-  - Jobs per capita
-  - Minority- and women-owned firms
-  - Unemployment (and opportunities) for the formerly incarcerated
-category: create
-body_class: banana
-published: true
+organization_name: Jobs to Move America
+organization_website: jobstomoveamerica.org
 
 ---

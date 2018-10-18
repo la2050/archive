@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016117'
 year_submitted: 2016
-organization_name: KCRW
-organization_website: KCRW.com
-ein: '953750631'
-project_image_2: 5620032535741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102113'
+challenge_url: >-
+  https://challenge.la2050.org/entry/help-build-the-kcrw-media-center-—-designed-for-you-to-connect-with-public-radio-in-los-angeles
 title: >-
   Help build the KCRW Media Center — designed for YOU to CONNECT with public
   radio in Los Angeles.
-organization_name_2: KCRW
-organization_activity: >-
-  Driven by the spirit of Los Angeles, KCRW creates and curates a unique mix of
-  content centered around music discovery, NPR news, cultural exploration, and
-  informed public affairs.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
-project_video: 'https://www.youtube.com/embed/Xt3t96JpHBc?rel=0&amp;showinfo=0'
 project_summary: >-
   In 2017 KCRW will open the brand new KCRW Media Center—designed in partnership
   with Santa Monica College as a public space for all Angelenos to connect with
   our music, news, and cultural programming.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
+project_video: 'https://www.youtube.com/embed/Xt3t96JpHBc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: Santa Monica College
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   As a public media service, we measure success in expanding our audience by
   tracking growth in listening loyalty and membership support. We evaluate the
@@ -58,6 +52,21 @@ project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Public transit riders","Total number of local social media
   friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Public transit riders
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  In 2017, KCRW will open the KCRW Media Center—a 35,000-square-foot
+  multipurpose facility that will be a vibrant, publicly-accessible performance
+  and community gathering space for Southern California.  Already an influential
+  source of news, music, and cultural discovery, we will expand our
+  programming—on air, online and in person—to engage our devoted audiences here
+  in Los Angeles and around the world.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   In 2017 KCRW will move into the state-of-the-art KCRW Media Center,
   custom-designed to allow us to expand our music and cultural programming,
@@ -104,24 +113,7 @@ project_proposal_best_place: >-
   Building the KCRW Media Center is only the beginning. KCRW will host free,
   public concerts, live talks, and cultural events in its new facility for all
   Angelenos to attend!
-challenge_url: >-
-  https://challenge.la2050.org/entry/help-build-the-kcrw-media-center-—-designed-for-you-to-connect-with-public-radio-in-los-angeles
-empty_column_1: ''
-project_proposal_description: >-
-  In 2017, KCRW will open the KCRW Media Center—a 35,000-square-foot
-  multipurpose facility that will be a vibrant, publicly-accessible performance
-  and community gathering space for Southern California.  Already an influential
-  source of news, music, and cultural discovery, we will expand our
-  programming—on air, online and in person—to engage our devoted audiences here
-  in Los Angeles and around the world.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Public transit riders
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: KCRW
+organization_website: KCRW.com
 
 ---

@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016249'
 year_submitted: 2016
-organization_name: US Green Building Council-LA
-organization_website: usgbc-la.org
-ein: ''
-project_image_2: 6901550005741-team91.png
+category: connect
+body_class: tangerine
 project_id: '6102276'
+challenge_url: >-
+  https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
 title: >-
   EcoMapLA is todays roadmap for a tomorrow that is social, economic and
   environmental sustainable
-organization_name_2: US Green Building Council-LA
-organization_activity: >-
-  Promote sustainability in the built environment by providing access to
-  resources, knowledge, recognition, and networking opportunities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
-project_video: 'https://myatlascms.com/map/?id=901?rel=0&amp;showinfo=0'
 project_summary: >-
   EcoMapLA the “GoTo” Resource Map for all things sustainable in LA, created to
   meet the growing demand of Angelenos wanting to know their sustainable choices
   within their city.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
+project_video: 'https://myatlascms.com/map/?id=901?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Because EcoMapLA is a hosted site, we have the ability to document interface
   analytics that track and report traffic both in counts and duration of visits
@@ -56,6 +49,25 @@ project_impact: >-
   volunteerism","Residential segregation","Transit-accessible housing and
   employment (the share of housing units and percentage of jobs that are located
   within a half-mile of transit)"]
+project_proposal_impact:
+  - Travel time to work
+  - Public transit riders
+  - Rates of volunteerism
+  - Residential segregation
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
+project_proposal_description: >-
+  We will make significant upgrades to our website, and enhance usability of
+  EcoMapLA to provide the first real time interactive map of Iconic Los Angeles
+  landmarks, sustainable buildings and businesses for all Los Angeles
+  Communities. Information will be displayed in an intuitive way to navigate
+  with on demand tools and layers to control what you see, including pictures,
+  text, videos, external links, etc. for a fully customized experience.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Bloomberg projects that Los Angeles will become America’s densest city by as
   early as 2025 with an estimated 38% population growth. Will our city’s
@@ -101,26 +113,7 @@ project_proposal_best_place: >-
   by providing pertinent information, at their fingertips in real time, on the
   sustainability of businesses, places and spaces along with transportation
   options in and around LA.
-challenge_url: >-
-  https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
-empty_column_1: ''
-project_proposal_description: >-
-  We will make significant upgrades to our website, and enhance usability of
-  EcoMapLA to provide the first real time interactive map of Iconic Los Angeles
-  landmarks, sustainable buildings and businesses for all Los Angeles
-  Communities. Information will be displayed in an intuitive way to navigate
-  with on demand tools and layers to control what you see, including pictures,
-  text, videos, external links, etc. for a fully customized experience.
-project_proposal_impact:
-  - Travel time to work
-  - Public transit riders
-  - Rates of volunteerism
-  - Residential segregation
-  - >-
-    Transit-accessible housing and employment (the share of housing units and
-    percentage of jobs that are located within a half-mile of transit)
-category: connect
-body_class: tangerine
-published: true
+organization_name: US Green Building Council-LA
+organization_website: usgbc-la.org
 
 ---

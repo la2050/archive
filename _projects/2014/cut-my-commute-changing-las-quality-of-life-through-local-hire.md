@@ -1,15 +1,111 @@
 ---
+published: true
+organization_id: '2014225'
+year_submitted: 2014
+category: live
+body_class: lime
 project_id: '4102255'
 title: 'CUT MY COMMUTE: CHANGING LAS QUALITY OF LIFE THROUGH LOCAL HIRE'
 project_summary: >-
   Incentive based Local Hire program working with employers that will yield
   shorter commutes, reduce emissions & improve LA's quality of life.
-category: live
-organization_id: '2014225'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22419%252Fdisplay%252FLA2050-Hero.jpg=c570x385
 project_video: ''
+project_areas:
+  - SOUTH LA
+  - WESTSIDE
+maker_answers:
+  org_name: Urban Collaborations Group (Partnering with FAST.org)
+  metrics_live_healthyfood: '0'
+  org_website: www.FASTLa.org
+  org_twitter: www.twitter.com/urbanannieLA
+  org_facebook: 'https://www.facebook.com/urbananniela '
+  org_instagram: instagram.com/urbananniela
+  org_mailingaddress: "515 South Flower St, 6th Floor \r\nLos Angeles, CA 90071"
+  EIN: '953510055'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  one_sentence_org: >-
+    My organization works to improve the quality of urban life through
+    environmental and community-based solutions.
+  describe_idea: >-
+    Incentive based Local Hire program working with employers that will yield
+    shorter commutes, reduce emissions & improve LA's quality of life.
+  describe_organization: >-
+    I’M paying it forward.  Go to myla2050live.maker.good.is and vote
+    #cutmycommute to work closer to home and get cleaner air.
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: "We want to reduce millions of miles driven each year, create more “turnaround time” for Los Angeles residents,  prevent millions of tons of carbon emissions each year from entering our atmosphere, provide a leadership opportunity to our city to share a new eco-formula – and for other stressed, like-minded cities facing daily congestion levels.  \r\n\r\nWe believe that this can be achieved in a straightforward, disarmingly simple way, by working with employers to hire a portion of their workforce from local communities and ultimately, apply the model to other congested cities. "
+  implement: "Funding Program\r\nThe first action will be to invest a portion of the funds dedicated to creating further investment by government and foundations charged with advancing healthy communities measures by pragmatic and measurable means.  \r\n\r\nScientific & Engineering Community\r\nWe will engage with colleagues from public and private industry to develop a government briefing document.  Experts will confirm the variables:  numbers of cars travelling to work each day, number of miles on average for LA County, the results that could come from some local hiring percentage of the workforce.  Experts will work with us to define reasonable parameters to Los Angeles and its best case for reducing emissions.  The concept here is to provide insight to leaders on the type of carbon capture that is achievable, to begin creating the stage for action.\r\n\r\nPublic Outreach\r\nShort-form video, social media and community meetings – all multilingual – will brief, educate and engage the public regarding the benefits from employer, resident and commuter perspectives.  Outreach will be designed to attract start-ups and entrepreneurs, who will be part of the system making those stronger connections to employees.\r\n\r\nGovernment Action\r\nOnce briefed, city officials will be asked to discuss possible employer incentives working with council leaders responsible for sustainable communities’ planning and economic development. After local hiring program briefings are established, employers will be invited to participate in the menu of incentives available on a city, county and state level. \r\n\r\nTechnology Experts\r\nIn the first year, technology, social media, HR experts, IT engineers will be invited to begin developing the framework to create stronger connections between employers in search of local talent and residents in search of the jobs suitable to their experience at all levels.   In addition, the applications that are currently available to help employers measure the emissions savings they achieve through local hiring will be assessed.  \r\n\r\nPilot Program\r\nWorking with data experts, we’ll identify Los Angeles’ existing emissions standing and define the potential reduction of emissions and/or improvement to air quality resulting from an initial pilot program of employees hired within a certain radius of local employers.  \r\n"
+  impact_live: "With each local hire, employers will help reduce miles travelled across Los Angeles’ freeways.  In Los Angeles, the average 1 way trip to work is 14.3 miles.  With each mile less than 14 there is a measurable reduction in emissions.  Over time, these reductions will challenge the staggering economic costs of pollution in the state which have been cited to be “10 billion annually\" (Based on RAND report)  The combined health and economic costs are explained below through an in-depth study by the RAND Corporation, which also stated:\r\n\r\n“The analysts identified substantial health and cost benefits from cleaner air. Nearly 30,000 hospital admissions and ER visits could have been avoided over the two-year period, with resulting savings of about $193 million. Because public insurers such as Medicare and Medi-Cal paid most of the pollution-related health care bill, they have a lot to gain from cleaner air. But employers and private insurers also have sizable financial interest in reducing air pollution. The number of adverse health events that clean air would have prevented, and the resulting savings, varied across the state, depending on the local level of pollution.” \r\n\r\nWe are starting with the worst metropolitan rankings on air quality in the nation with a tremendous health care and human cost for Californians.  Local hiring can be tagged as a “preventative” health measure, improving daily life for residents with a plan that thwarts emission release.   Our Local Hire initiative, once applied, will provide a new principle of urban hiring that results in shorter commutes, cleaner air, and more time for residents to improve their quality of life. \r\n\r\nLos Angeles will be one of the first in the nation to develop a sustainable model that includes a behavioral shift that addresses traffic congestion and meets environmental, economic public policy objectives, thus creating a new path for LA's future."
+  who_benefit: "Our program aims to benefit everyone. The public (children and adults at-risk by air pollutants). Local Businesses. The Environment.\r\nNon-Profits with A Healthy Communities' Agenda and the Government. \r\n\r\nIf you have asthma and heart disease affected by allergens and irritants living in Los Angeles, travelling through the city can be stressful and dangerous.  Many lower-income residents live close to major thoroughfares and freeways where particulates and other emissions are significantly higher.   They are often less able to monitor pollution-related medical problems and maintain good health due to lack of adequate health care.   \r\n\r\nMany cities across the nation, grappling with traffic impacts and attempting to define sustainable measures to deliver a measure of health in urban environments, may assess, adjust and revise the model to meet their own objectives. \r\n\r\nAccording to NASA’s recent shared findings from satellite derived studies regarding NO 2 (fossil fuel emissions) show that “Even though larger cities are typically more energy efficient with lower per capita emissions, more people still translates to more pollution.  For LA County’s almost 10 million residents, the concept that we can provide a method to prevent emissions from adding to existing levels of pollution should warrant support for implementing a model.  http://www.nasa.gov/content/goddard/nasa-scientists-relate-urban-population-to-air-pollution/#.U9V8_o1dXIo."
+  partners_collaboration: "Fixing Angelenos Stuck in Traffic – FAST.org (Confirmed)\r\n\r\nFAST/California Community Foundation - will act as the fiscal manager and assist with:  technical data analysis, strategic implementation planning working with the business community.  FAST has extensive experience in transit planning and analysis and works in cooperation with the business community as a stakeholder.  FAST is currently working on enhancing Los Angeles alternatives to cars through bike share and other measures.  As the average miles lessen in Los Angeles from 14, options for alternatives become viable.  \r\n\r\nCity Government | County | State (In Briefings)\r\nAs a former city council deputy, land use planner and legislative aide, my job will be to discuss the proposal with city council members vested in economic and environmental matters and develop an incentive based program that will reward employers for the contribution to the local economy.  Incentives could range from awards of recognition for leadership to financial savings.  The first step is to examine what’s possible in a post-recession climate.  The critical aspect to developing local hiring is to ensure that actions taken support a normal course of business rather than to attempt to control business through regulation.  \r\n\r\nTMS Transportation Demand Services (Proposed Consultant)\r\nI worked with TMS, a specialist in transportation management in 2009 to discuss the concept of local hiring as a transportation demand management measure and to identify a means of calculating savings in vehicle miles travelled across the city.  TMS is an advisor to business and government nationally on adaptive measures and transit alternatives that solve congestion.  A portion of the budget will be retained for their counsel in synthesizing the technical data and adding insight to discussions with leaders in the state on the adoption as a sustainable communities action consistent with clean air mandates.  \r\n\r\nThree factors critical to success:\r\n- Articulating the formula that defines savings to emissions with expert agreement from city, county and state government and the scientific/environmental community.\r\n- Engaging business as partners \r\n- Creating a long-term funding and implementation platform.\r\n"
+  city_state: 'Los Angeles, CA'
+  metrics_live_healthcare: '1'
+  metrics_live_airtoxins: '1'
+  metrics_live_selfsufficiency: '1'
+  metrics_live_importedwater: '0'
+  metrics_live_obesity: '1'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '1'
+  metrics_live_pollutedwaterways: '1'
+  metrics_live_mentalillness: '0'
+  metrics_live_childhood: '1'
+  metrics_live_communities: '1'
+  metrics_live_healthcareservice: '1'
+  metrics_live_treecanopy: '0'
+  metrics_live_other: '0'
+  metrics_live_blank: ''
+  resources_network: '1'
+  best_place_to_create: '1'
+  best_place_to_play: '0'
+  best_place_to_connect: '1'
+  best_place_to_learn: '0'
+  evaluate: "Acceptance by Employers – The adoption of local hiring as a metric for hiring by employers can be immediately achieved.  A volunteer “sign-on” campaign can be struck early through a website adjustment, a sign that employers are engaged and understand the value to LA.\r\n\r\nReductions in ozone particulates – The review and finalization of an urban formula, first for LA, that equates reduction in vehicle miles traveled to work with a corresponding particulate reduction raises the consciousness and quantifies the value.  We can then begin work to define what can be achieved in 1-5 years and how this can be applied to other jurisdictions.\r\n\r\nSupport by State Legislators --  The budget has been set to support to match outreach specialists to audience at varying levels including Los Angeles residents and businesses, non-profit and environmental sectors and government.  \r\n"
+  two_lessons: "Hollywood & Highland – in 2001, local hiring was traditionally applied as a tool to include adjacent residents in construction work and it was done so as a condition of public investment in development projects with social and economic value.  We expanded the idea to allow area residents, in that case living within 3 miles, to compete for work at the site.  With the willingness of the HR director at the hotel, just after opening we approximated 28% of the workforce as local.  Beyond the community benefit, it was here I began to think about the value in savings to local traffic and the infrastructure.  In 2008, under a study funded by the Anne E Casey foundation, the Hollywood & Highland program received accolades for its standing as a workforce model.  The benefits of local hiring can now be expanded through an incentive based permanent employment model.\r\n\r\nUptick of transit –  There are varying reports on the uptick on interest and use of public transportation and more importantly, a consciousness of the options available in lieu of a car.\r\nMarch 10 2014 – http://www.citylab.com/commute/2014/03/numbers-behind-americas-mass-transit-resurgence/8600/\r\n\r\nThe Los Angeles Associated Press reports while there were reductions in ridership at varying points during the recession, ridership is now in an upswing by 23%.  “People are making a fundamental shift to having options aside from a car.” Says Michael Melamphy president and CEO of public transportation association.  The AP summary identifies their data sources as the American Public Transportation Association.  "
+  achievable_goal: >-
+    I have a deep understanding of the legislative process and leadership
+    invested in sustainable city solutions that address environmental impacts
+    and stand to improve the quality of life in Los Angeles.  The partnership
+    with FAST assists with dialog with the business community.  My experience as
+    an advisor to foundations, a board member on a non-profit, my tenure at the
+    city as a planner serving diverse communities and my pay-it-forward
+    commitment marries passion for giving back to a strategic plan.   
+  major_challenges: "Funding – Establishing A 5-Year plan:\r\n\r\nWhile we are confident we can achieve agreement with employers to participate and set the standards to prove emissions savings, building momentum will take several years.  Resources necessary to bring the talent to the table will be significant but achievable.  With the initial investment, an experienced funding team will identify sources with the objective of capturing $1 million in gap funding to continue to develop the local hire infrastructure that will include upgrade of information systems.  The team will include experts that understand foundational expectations, crowd-sourcing measures, philanthropic and governmental sources.  In addition, the team will advance ideas for products or services that become a part of the funding platform over time.\r\n\r\nCapturing Public & Private Participation & Momentum:\r\n\r\nThe program’s benefits must be conveyed to a diverse audience.  The consultant team’s budget includes experts practiced in communicating and enhancing participation through through marketing materials as well as social media, including Twitter, FaceBook and YouTube. \r\n\r\nWe will continue briefings with local stakeholders including government, residents and business organizations working with FASTLA.org's network."
+  competition: "FASTLA.org is one such organization with a similar purpose though our focus is creating the mechanism Local Hiring movement that will result in a better quality of life – reduced driving times, cleaner air etc.  There are many organizations committed to health community actions though they are not competitive.  \r\n\r\nBased on our research and current discussions with stakeholders,  we expect support of the concept and acceptance of the broad benefits described here from a host non-profits, government agencies, businesses and community-based organizations."
+  cost: >-
+    Over the next five years we anticipate a reserve of a $1,000,000 will be
+    required to cover costs to implement the program with measurable results. 
+    The details of a total 5-year budget will be examined in the first year with
+    the help of the funding strategist. 
+  budget: "Funding Advisor                                                  $ 15,000\r\nCommunications Firm                                        $ 20,000\r\nFAST.org Management and Consulting\t  $   6,000\r\nCool Climate Lab Consulting\t                          $ 15,000\r\nTransportation Management Services\t          $ 20,000\r\nTechnology Partner\t\t                                  $ 15,000\r\nContingency \t                                                  $   9,000\r\n--------------------------------------------------------------------------------\r\nTOTAL $100,000"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '1'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_research: '0'
+  impact_metrics: "•\tHealthcare access – With saving to incidents of hospitalization over time this clean air and healthy community model could save the state millions.  Savings could be applied to enhanced treatments or broader public services.  \r\n\r\n•\tExposure to air toxins – with each mile reduction, the potential to worsening air toxins diminishes.  The actions will provide another layer of transit related relief that provides quality of life and direct health benefits.\r\n\r\n•\tObesity rates – with the advent of reduced miles to work comes the potential to take alternative forms of transportation.  The uptick of ridership of mass transit signifies the consciousness of its importance as a resource and the critical nature of reducing the distance between transit and employment.  As the length of the average trip for Los Angeles commuters reduces, the likelihood of residents taking opportunities to bike or walk to the final destination becomes possible and a part of LA’s daily commute culture.\r\n\r\n•\tAcres and miles of polluted waterways – The EPA has directed cities to enclose drinking sources including reservoirs.  Pollution of waterways includes the drip of emissions.    In addition, the backbone that connects us all is the Los Angeles River, an open water reservoir.  As industries evolve related to recreation, pop-up businesses, local hire could be used to stabilize and improve emissions along developing waterways.\r\n\r\n•\tPrevalence of adverse childhood experiences (Dream Metric) The American Lung Association has established a preparation courses for youth with asthma in preparation for school.  Our dream metric is that this becomes a more preventative than critical course for youth living within an urban setting or near a freeway.\r\n\r\n•\tPercentage of LA communities that are resilient (Dream Metric) As emissions reduce the resilience of individuals working outside (construction workers, vendors, recreation and parks, street cleaning teams) and those living in the most air polluted sections of the city improve.  While according to the American Lung Association, cities across the nation are making progress to air quality levels, Los Angeles remains among the worst cities in the nation.  Innovative, forward-thinking, strategic and sustainable actions that can be adopted by the populous are hopeful signs that a layer of health can be infused into the urban environment.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through it's therapy and consultation work WIN affects the lives of 1000s of
   individuals yearly, and the core of our program is our intensive clinical
@@ -86,433 +182,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Thanks to WIN’s HIPAA-compliant data system (a system that has become the model for one the state of Connecticut has adopted for its early childhood mental health services), WIN and its partners coordinate care for each family though a jointly prepared on-line service plan that is updated by each agency regularly. The system reports monthly on how well we’re helping families achieve their goals, and allows staff to communicate in ‘real-time’ regarding family progress—as well as to coordinate care during emergencies. The system tabulates our biannual outcomes, gathering data input by staff at various levels from all partners, and reminds case managers and therapists when screenings, assessments and releases are due.
 Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
 maker_image_id: '22419'
 maker_image_file_name: LA2050-Hero.jpg
-project_areas:
-  - SOUTH LA
-  - WESTSIDE
-maker_answers:
-  city_state: 'Los Angeles, CA'
-  org_name: Urban Collaborations Group (Partnering with FAST.org)
-  org_website: www.FASTLa.org
-  org_twitter: www.twitter.com/urbanannieLA
-  org_facebook: 'https://www.facebook.com/urbananniela '
-  org_instagram: instagram.com/urbananniela
-  org_mailingaddress: "515 South Flower St, 6th Floor \r\nLos Angeles, CA 90071"
-  EIN: '953510055'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  one_sentence_org: >-
-    My organization works to improve the quality of urban life through
-    environmental and community-based solutions.
-  describe_idea: >-
-    Incentive based Local Hire program working with employers that will yield
-    shorter commutes, reduce emissions & improve LA's quality of life.
-  describe_organization: >-
-    I’M paying it forward.  Go to myla2050live.maker.good.is and vote
-    #cutmycommute to work closer to home and get cleaner air.
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: "We want to reduce millions of miles driven each year, create more “turnaround time” for Los Angeles residents,  prevent millions of tons of carbon emissions each year from entering our atmosphere, provide a leadership opportunity to our city to share a new eco-formula – and for other stressed, like-minded cities facing daily congestion levels.  \r\n\r\nWe believe that this can be achieved in a straightforward, disarmingly simple way, by working with employers to hire a portion of their workforce from local communities and ultimately, apply the model to other congested cities. "
-  implement: "Funding Program\r\nThe first action will be to invest a portion of the funds dedicated to creating further investment by government and foundations charged with advancing healthy communities measures by pragmatic and measurable means.  \r\n\r\nScientific & Engineering Community\r\nWe will engage with colleagues from public and private industry to develop a government briefing document.  Experts will confirm the variables:  numbers of cars travelling to work each day, number of miles on average for LA County, the results that could come from some local hiring percentage of the workforce.  Experts will work with us to define reasonable parameters to Los Angeles and its best case for reducing emissions.  The concept here is to provide insight to leaders on the type of carbon capture that is achievable, to begin creating the stage for action.\r\n\r\nPublic Outreach\r\nShort-form video, social media and community meetings – all multilingual – will brief, educate and engage the public regarding the benefits from employer, resident and commuter perspectives.  Outreach will be designed to attract start-ups and entrepreneurs, who will be part of the system making those stronger connections to employees.\r\n\r\nGovernment Action\r\nOnce briefed, city officials will be asked to discuss possible employer incentives working with council leaders responsible for sustainable communities’ planning and economic development. After local hiring program briefings are established, employers will be invited to participate in the menu of incentives available on a city, county and state level. \r\n\r\nTechnology Experts\r\nIn the first year, technology, social media, HR experts, IT engineers will be invited to begin developing the framework to create stronger connections between employers in search of local talent and residents in search of the jobs suitable to their experience at all levels.   In addition, the applications that are currently available to help employers measure the emissions savings they achieve through local hiring will be assessed.  \r\n\r\nPilot Program\r\nWorking with data experts, we’ll identify Los Angeles’ existing emissions standing and define the potential reduction of emissions and/or improvement to air quality resulting from an initial pilot program of employees hired within a certain radius of local employers.  \r\n"
-  impact_live: "With each local hire, employers will help reduce miles travelled across Los Angeles’ freeways.  In Los Angeles, the average 1 way trip to work is 14.3 miles.  With each mile less than 14 there is a measurable reduction in emissions.  Over time, these reductions will challenge the staggering economic costs of pollution in the state which have been cited to be “10 billion annually\" (Based on RAND report)  The combined health and economic costs are explained below through an in-depth study by the RAND Corporation, which also stated:\r\n\r\n“The analysts identified substantial health and cost benefits from cleaner air. Nearly 30,000 hospital admissions and ER visits could have been avoided over the two-year period, with resulting savings of about $193 million. Because public insurers such as Medicare and Medi-Cal paid most of the pollution-related health care bill, they have a lot to gain from cleaner air. But employers and private insurers also have sizable financial interest in reducing air pollution. The number of adverse health events that clean air would have prevented, and the resulting savings, varied across the state, depending on the local level of pollution.” \r\n\r\nWe are starting with the worst metropolitan rankings on air quality in the nation with a tremendous health care and human cost for Californians.  Local hiring can be tagged as a “preventative” health measure, improving daily life for residents with a plan that thwarts emission release.   Our Local Hire initiative, once applied, will provide a new principle of urban hiring that results in shorter commutes, cleaner air, and more time for residents to improve their quality of life. \r\n\r\nLos Angeles will be one of the first in the nation to develop a sustainable model that includes a behavioral shift that addresses traffic congestion and meets environmental, economic public policy objectives, thus creating a new path for LA's future."
-  who_benefit: "Our program aims to benefit everyone. The public (children and adults at-risk by air pollutants). Local Businesses. The Environment.\r\nNon-Profits with A Healthy Communities' Agenda and the Government. \r\n\r\nIf you have asthma and heart disease affected by allergens and irritants living in Los Angeles, travelling through the city can be stressful and dangerous.  Many lower-income residents live close to major thoroughfares and freeways where particulates and other emissions are significantly higher.   They are often less able to monitor pollution-related medical problems and maintain good health due to lack of adequate health care.   \r\n\r\nMany cities across the nation, grappling with traffic impacts and attempting to define sustainable measures to deliver a measure of health in urban environments, may assess, adjust and revise the model to meet their own objectives. \r\n\r\nAccording to NASA’s recent shared findings from satellite derived studies regarding NO 2 (fossil fuel emissions) show that “Even though larger cities are typically more energy efficient with lower per capita emissions, more people still translates to more pollution.  For LA County’s almost 10 million residents, the concept that we can provide a method to prevent emissions from adding to existing levels of pollution should warrant support for implementing a model.  http://www.nasa.gov/content/goddard/nasa-scientists-relate-urban-population-to-air-pollution/#.U9V8_o1dXIo."
-  partners_collaboration: "Fixing Angelenos Stuck in Traffic – FAST.org (Confirmed)\r\n\r\nFAST/California Community Foundation - will act as the fiscal manager and assist with:  technical data analysis, strategic implementation planning working with the business community.  FAST has extensive experience in transit planning and analysis and works in cooperation with the business community as a stakeholder.  FAST is currently working on enhancing Los Angeles alternatives to cars through bike share and other measures.  As the average miles lessen in Los Angeles from 14, options for alternatives become viable.  \r\n\r\nCity Government | County | State (In Briefings)\r\nAs a former city council deputy, land use planner and legislative aide, my job will be to discuss the proposal with city council members vested in economic and environmental matters and develop an incentive based program that will reward employers for the contribution to the local economy.  Incentives could range from awards of recognition for leadership to financial savings.  The first step is to examine what’s possible in a post-recession climate.  The critical aspect to developing local hiring is to ensure that actions taken support a normal course of business rather than to attempt to control business through regulation.  \r\n\r\nTMS Transportation Demand Services (Proposed Consultant)\r\nI worked with TMS, a specialist in transportation management in 2009 to discuss the concept of local hiring as a transportation demand management measure and to identify a means of calculating savings in vehicle miles travelled across the city.  TMS is an advisor to business and government nationally on adaptive measures and transit alternatives that solve congestion.  A portion of the budget will be retained for their counsel in synthesizing the technical data and adding insight to discussions with leaders in the state on the adoption as a sustainable communities action consistent with clean air mandates.  \r\n\r\nThree factors critical to success:\r\n- Articulating the formula that defines savings to emissions with expert agreement from city, county and state government and the scientific/environmental community.\r\n- Engaging business as partners \r\n- Creating a long-term funding and implementation platform.\r\n"
-  metrics_live_healthyfood: '0'
-  metrics_live_healthcare: '1'
-  metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '1'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '1'
-  metrics_live_pollutedwaterways: '1'
-  metrics_live_mentalillness: '0'
-  metrics_live_childhood: '1'
-  metrics_live_communities: '1'
-  metrics_live_healthcareservice: '1'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  impact_metrics: "•\tHealthcare access – With saving to incidents of hospitalization over time this clean air and healthy community model could save the state millions.  Savings could be applied to enhanced treatments or broader public services.  \r\n\r\n•\tExposure to air toxins – with each mile reduction, the potential to worsening air toxins diminishes.  The actions will provide another layer of transit related relief that provides quality of life and direct health benefits.\r\n\r\n•\tObesity rates – with the advent of reduced miles to work comes the potential to take alternative forms of transportation.  The uptick of ridership of mass transit signifies the consciousness of its importance as a resource and the critical nature of reducing the distance between transit and employment.  As the length of the average trip for Los Angeles commuters reduces, the likelihood of residents taking opportunities to bike or walk to the final destination becomes possible and a part of LA’s daily commute culture.\r\n\r\n•\tAcres and miles of polluted waterways – The EPA has directed cities to enclose drinking sources including reservoirs.  Pollution of waterways includes the drip of emissions.    In addition, the backbone that connects us all is the Los Angeles River, an open water reservoir.  As industries evolve related to recreation, pop-up businesses, local hire could be used to stabilize and improve emissions along developing waterways.\r\n\r\n•\tPrevalence of adverse childhood experiences (Dream Metric) The American Lung Association has established a preparation courses for youth with asthma in preparation for school.  Our dream metric is that this becomes a more preventative than critical course for youth living within an urban setting or near a freeway.\r\n\r\n•\tPercentage of LA communities that are resilient (Dream Metric) As emissions reduce the resilience of individuals working outside (construction workers, vendors, recreation and parks, street cleaning teams) and those living in the most air polluted sections of the city improve.  While according to the American Lung Association, cities across the nation are making progress to air quality levels, Los Angeles remains among the worst cities in the nation.  Innovative, forward-thinking, strategic and sustainable actions that can be adopted by the populous are hopeful signs that a layer of health can be infused into the urban environment.\r\n"
-  best_place_to_create: '1'
-  best_place_to_play: '0'
-  best_place_to_connect: '1'
-  best_place_to_learn: '0'
-  evaluate: "Acceptance by Employers – The adoption of local hiring as a metric for hiring by employers can be immediately achieved.  A volunteer “sign-on” campaign can be struck early through a website adjustment, a sign that employers are engaged and understand the value to LA.\r\n\r\nReductions in ozone particulates – The review and finalization of an urban formula, first for LA, that equates reduction in vehicle miles traveled to work with a corresponding particulate reduction raises the consciousness and quantifies the value.  We can then begin work to define what can be achieved in 1-5 years and how this can be applied to other jurisdictions.\r\n\r\nSupport by State Legislators --  The budget has been set to support to match outreach specialists to audience at varying levels including Los Angeles residents and businesses, non-profit and environmental sectors and government.  \r\n"
-  two_lessons: "Hollywood & Highland – in 2001, local hiring was traditionally applied as a tool to include adjacent residents in construction work and it was done so as a condition of public investment in development projects with social and economic value.  We expanded the idea to allow area residents, in that case living within 3 miles, to compete for work at the site.  With the willingness of the HR director at the hotel, just after opening we approximated 28% of the workforce as local.  Beyond the community benefit, it was here I began to think about the value in savings to local traffic and the infrastructure.  In 2008, under a study funded by the Anne E Casey foundation, the Hollywood & Highland program received accolades for its standing as a workforce model.  The benefits of local hiring can now be expanded through an incentive based permanent employment model.\r\n\r\nUptick of transit –  There are varying reports on the uptick on interest and use of public transportation and more importantly, a consciousness of the options available in lieu of a car.\r\nMarch 10 2014 – http://www.citylab.com/commute/2014/03/numbers-behind-americas-mass-transit-resurgence/8600/\r\n\r\nThe Los Angeles Associated Press reports while there were reductions in ridership at varying points during the recession, ridership is now in an upswing by 23%.  “People are making a fundamental shift to having options aside from a car.” Says Michael Melamphy president and CEO of public transportation association.  The AP summary identifies their data sources as the American Public Transportation Association.  "
-  achievable_goal: >-
-    I have a deep understanding of the legislative process and leadership
-    invested in sustainable city solutions that address environmental impacts
-    and stand to improve the quality of life in Los Angeles.  The partnership
-    with FAST assists with dialog with the business community.  My experience as
-    an advisor to foundations, a board member on a non-profit, my tenure at the
-    city as a planner serving diverse communities and my pay-it-forward
-    commitment marries passion for giving back to a strategic plan.   
-  major_challenges: "Funding – Establishing A 5-Year plan:\r\n\r\nWhile we are confident we can achieve agreement with employers to participate and set the standards to prove emissions savings, building momentum will take several years.  Resources necessary to bring the talent to the table will be significant but achievable.  With the initial investment, an experienced funding team will identify sources with the objective of capturing $1 million in gap funding to continue to develop the local hire infrastructure that will include upgrade of information systems.  The team will include experts that understand foundational expectations, crowd-sourcing measures, philanthropic and governmental sources.  In addition, the team will advance ideas for products or services that become a part of the funding platform over time.\r\n\r\nCapturing Public & Private Participation & Momentum:\r\n\r\nThe program’s benefits must be conveyed to a diverse audience.  The consultant team’s budget includes experts practiced in communicating and enhancing participation through through marketing materials as well as social media, including Twitter, FaceBook and YouTube. \r\n\r\nWe will continue briefings with local stakeholders including government, residents and business organizations working with FASTLA.org's network."
-  competition: "FASTLA.org is one such organization with a similar purpose though our focus is creating the mechanism Local Hiring movement that will result in a better quality of life – reduced driving times, cleaner air etc.  There are many organizations committed to health community actions though they are not competitive.  \r\n\r\nBased on our research and current discussions with stakeholders,  we expect support of the concept and acceptance of the broad benefits described here from a host non-profits, government agencies, businesses and community-based organizations."
-  cost: >-
-    Over the next five years we anticipate a reserve of a $1,000,000 will be
-    required to cover costs to implement the program with measurable results. 
-    The details of a total 5-year budget will be examined in the first year with
-    the help of the funding strategist. 
-  budget: "Funding Advisor                                                  $ 15,000\r\nCommunications Firm                                        $ 20,000\r\nFAST.org Management and Consulting\t  $   6,000\r\nCool Climate Lab Consulting\t                          $ 15,000\r\nTransportation Management Services\t          $ 20,000\r\nTechnology Partner\t\t                                  $ 15,000\r\nContingency \t                                                  $   9,000\r\n--------------------------------------------------------------------------------\r\nTOTAL $100,000"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '1'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_network: '1'
-  resources_research: '0'
-maker_answers_list:
-  - name: city_state
-    label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
-    answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: Urban Collaborations Group (Partnering with FAST.org)
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
-    answer: www.FASTLa.org
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: www.twitter.com/urbanannieLA
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: 'https://www.facebook.com/urbananniela '
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: instagram.com/urbananniela
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: "515 South Flower St, 6th Floor \r\nLos Angeles, CA 90071"
-  - name: EIN
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '953510055'
-  - name: org_nonprofit
-    label: Nonprofit organization
-    explanation: ''
-    answer: '1'
-  - name: org_forprofit
-    label: For-profit organization
-    explanation: ''
-    answer: '0'
-  - name: org_government
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '0'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '1'
-  - name: one_sentence_org
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      My organization works to improve the quality of urban life through
-      environmental and community-based solutions.
-  - name: describe_idea
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      Incentive based Local Hire program working with employers that will yield
-      shorter commutes, reduce emissions & improve LA's quality of life.
-  - name: describe_organization
-    label: ''
-    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
-    answer: >-
-      I’M paying it forward.  Go to myla2050live.maker.good.is and vote
-      #cutmycommute to work closer to home and get cleaner air.
-  - name: all_county
-    label: Yes (benefits all of LA County)
-    explanation: ''
-    answer: '1'
-  - name: region_county
-    label: Yes (benefits a region of LA County)
-    explanation: ''
-    answer: '0'
-  - name: population_county
-    label: Yes (benefits a population of LA County)
-    explanation: ''
-    answer: '0'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '1'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '1'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '1'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '1'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '1'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: "We want to reduce millions of miles driven each year, create more “turnaround time” for Los Angeles residents,  prevent millions of tons of carbon emissions each year from entering our atmosphere, provide a leadership opportunity to our city to share a new eco-formula – and for other stressed, like-minded cities facing daily congestion levels.  \r\n\r\nWe believe that this can be achieved in a straightforward, disarmingly simple way, by working with employers to hire a portion of their workforce from local communities and ultimately, apply the model to other congested cities. "
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "Funding Program\r\nThe first action will be to invest a portion of the funds dedicated to creating further investment by government and foundations charged with advancing healthy communities measures by pragmatic and measurable means.  \r\n\r\nScientific & Engineering Community\r\nWe will engage with colleagues from public and private industry to develop a government briefing document.  Experts will confirm the variables:  numbers of cars travelling to work each day, number of miles on average for LA County, the results that could come from some local hiring percentage of the workforce.  Experts will work with us to define reasonable parameters to Los Angeles and its best case for reducing emissions.  The concept here is to provide insight to leaders on the type of carbon capture that is achievable, to begin creating the stage for action.\r\n\r\nPublic Outreach\r\nShort-form video, social media and community meetings – all multilingual – will brief, educate and engage the public regarding the benefits from employer, resident and commuter perspectives.  Outreach will be designed to attract start-ups and entrepreneurs, who will be part of the system making those stronger connections to employees.\r\n\r\nGovernment Action\r\nOnce briefed, city officials will be asked to discuss possible employer incentives working with council leaders responsible for sustainable communities’ planning and economic development. After local hiring program briefings are established, employers will be invited to participate in the menu of incentives available on a city, county and state level. \r\n\r\nTechnology Experts\r\nIn the first year, technology, social media, HR experts, IT engineers will be invited to begin developing the framework to create stronger connections between employers in search of local talent and residents in search of the jobs suitable to their experience at all levels.   In addition, the applications that are currently available to help employers measure the emissions savings they achieve through local hiring will be assessed.  \r\n\r\nPilot Program\r\nWorking with data experts, we’ll identify Los Angeles’ existing emissions standing and define the potential reduction of emissions and/or improvement to air quality resulting from an initial pilot program of employees hired within a certain radius of local employers.  \r\n"
-  - name: impact_live
-    label: ''
-    explanation: ''
-    answer: "With each local hire, employers will help reduce miles travelled across Los Angeles’ freeways.  In Los Angeles, the average 1 way trip to work is 14.3 miles.  With each mile less than 14 there is a measurable reduction in emissions.  Over time, these reductions will challenge the staggering economic costs of pollution in the state which have been cited to be “10 billion annually\" (Based on RAND report)  The combined health and economic costs are explained below through an in-depth study by the RAND Corporation, which also stated:\r\n\r\n“The analysts identified substantial health and cost benefits from cleaner air. Nearly 30,000 hospital admissions and ER visits could have been avoided over the two-year period, with resulting savings of about $193 million. Because public insurers such as Medicare and Medi-Cal paid most of the pollution-related health care bill, they have a lot to gain from cleaner air. But employers and private insurers also have sizable financial interest in reducing air pollution. The number of adverse health events that clean air would have prevented, and the resulting savings, varied across the state, depending on the local level of pollution.” \r\n\r\nWe are starting with the worst metropolitan rankings on air quality in the nation with a tremendous health care and human cost for Californians.  Local hiring can be tagged as a “preventative” health measure, improving daily life for residents with a plan that thwarts emission release.   Our Local Hire initiative, once applied, will provide a new principle of urban hiring that results in shorter commutes, cleaner air, and more time for residents to improve their quality of life. \r\n\r\nLos Angeles will be one of the first in the nation to develop a sustainable model that includes a behavioral shift that addresses traffic congestion and meets environmental, economic public policy objectives, thus creating a new path for LA's future."
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "Our program aims to benefit everyone. The public (children and adults at-risk by air pollutants). Local Businesses. The Environment.\r\nNon-Profits with A Healthy Communities' Agenda and the Government. \r\n\r\nIf you have asthma and heart disease affected by allergens and irritants living in Los Angeles, travelling through the city can be stressful and dangerous.  Many lower-income residents live close to major thoroughfares and freeways where particulates and other emissions are significantly higher.   They are often less able to monitor pollution-related medical problems and maintain good health due to lack of adequate health care.   \r\n\r\nMany cities across the nation, grappling with traffic impacts and attempting to define sustainable measures to deliver a measure of health in urban environments, may assess, adjust and revise the model to meet their own objectives. \r\n\r\nAccording to NASA’s recent shared findings from satellite derived studies regarding NO 2 (fossil fuel emissions) show that “Even though larger cities are typically more energy efficient with lower per capita emissions, more people still translates to more pollution.  For LA County’s almost 10 million residents, the concept that we can provide a method to prevent emissions from adding to existing levels of pollution should warrant support for implementing a model.  http://www.nasa.gov/content/goddard/nasa-scientists-relate-urban-population-to-air-pollution/#.U9V8_o1dXIo."
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "Fixing Angelenos Stuck in Traffic – FAST.org (Confirmed)\r\n\r\nFAST/California Community Foundation - will act as the fiscal manager and assist with:  technical data analysis, strategic implementation planning working with the business community.  FAST has extensive experience in transit planning and analysis and works in cooperation with the business community as a stakeholder.  FAST is currently working on enhancing Los Angeles alternatives to cars through bike share and other measures.  As the average miles lessen in Los Angeles from 14, options for alternatives become viable.  \r\n\r\nCity Government | County | State (In Briefings)\r\nAs a former city council deputy, land use planner and legislative aide, my job will be to discuss the proposal with city council members vested in economic and environmental matters and develop an incentive based program that will reward employers for the contribution to the local economy.  Incentives could range from awards of recognition for leadership to financial savings.  The first step is to examine what’s possible in a post-recession climate.  The critical aspect to developing local hiring is to ensure that actions taken support a normal course of business rather than to attempt to control business through regulation.  \r\n\r\nTMS Transportation Demand Services (Proposed Consultant)\r\nI worked with TMS, a specialist in transportation management in 2009 to discuss the concept of local hiring as a transportation demand management measure and to identify a means of calculating savings in vehicle miles travelled across the city.  TMS is an advisor to business and government nationally on adaptive measures and transit alternatives that solve congestion.  A portion of the budget will be retained for their counsel in synthesizing the technical data and adding insight to discussions with leaders in the state on the adoption as a sustainable communities action consistent with clean air mandates.  \r\n\r\nThree factors critical to success:\r\n- Articulating the formula that defines savings to emissions with expert agreement from city, county and state government and the scientific/environmental community.\r\n- Engaging business as partners \r\n- Creating a long-term funding and implementation platform.\r\n"
-  - name: metrics_live_healthyfood
-    label: Access to healthy food
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_healthcare
-    label: Healthcare access
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_airtoxins
-    label: Exposure to air toxins
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_selfsufficiency
-    label: Number of households below the self-sufficiency standard
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_importedwater
-    label: Percent of imported water
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_obesity
-    label: Obesity rates
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_homelessness
-    label: Rates of homelessness
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_walkscore
-    label: Walk/bike/transit score
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_pollutedwaterways
-    label: Acres and miles of polluted waterways
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_mentalillness
-    label: Rates of mental illnesses
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_childhood
-    label: Prevalence of adverse childhood experience (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_communities
-    label: Percentage of LA communities that are resilient (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_healthcareservice
-    label: >-
-      Percentage of residents receiving coordinated healthcare services (Dream
-      Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_live_treecanopy
-    label: Percentage of tree canopy cover (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_other
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: metrics_live_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "•\tHealthcare access – With saving to incidents of hospitalization over time this clean air and healthy community model could save the state millions.  Savings could be applied to enhanced treatments or broader public services.  \r\n\r\n•\tExposure to air toxins – with each mile reduction, the potential to worsening air toxins diminishes.  The actions will provide another layer of transit related relief that provides quality of life and direct health benefits.\r\n\r\n•\tObesity rates – with the advent of reduced miles to work comes the potential to take alternative forms of transportation.  The uptick of ridership of mass transit signifies the consciousness of its importance as a resource and the critical nature of reducing the distance between transit and employment.  As the length of the average trip for Los Angeles commuters reduces, the likelihood of residents taking opportunities to bike or walk to the final destination becomes possible and a part of LA’s daily commute culture.\r\n\r\n•\tAcres and miles of polluted waterways – The EPA has directed cities to enclose drinking sources including reservoirs.  Pollution of waterways includes the drip of emissions.    In addition, the backbone that connects us all is the Los Angeles River, an open water reservoir.  As industries evolve related to recreation, pop-up businesses, local hire could be used to stabilize and improve emissions along developing waterways.\r\n\r\n•\tPrevalence of adverse childhood experiences (Dream Metric) The American Lung Association has established a preparation courses for youth with asthma in preparation for school.  Our dream metric is that this becomes a more preventative than critical course for youth living within an urban setting or near a freeway.\r\n\r\n•\tPercentage of LA communities that are resilient (Dream Metric) As emissions reduce the resilience of individuals working outside (construction workers, vendors, recreation and parks, street cleaning teams) and those living in the most air polluted sections of the city improve.  While according to the American Lung Association, cities across the nation are making progress to air quality levels, Los Angeles remains among the worst cities in the nation.  Innovative, forward-thinking, strategic and sustainable actions that can be adopted by the populous are hopeful signs that a layer of health can be infused into the urban environment.\r\n"
-  - name: best_place_to_create
-    label: LA is the best place to CREATE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '0'
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '0'
-  - name: evaluate
-    label: ''
-    explanation: ''
-    answer: "Acceptance by Employers – The adoption of local hiring as a metric for hiring by employers can be immediately achieved.  A volunteer “sign-on” campaign can be struck early through a website adjustment, a sign that employers are engaged and understand the value to LA.\r\n\r\nReductions in ozone particulates – The review and finalization of an urban formula, first for LA, that equates reduction in vehicle miles traveled to work with a corresponding particulate reduction raises the consciousness and quantifies the value.  We can then begin work to define what can be achieved in 1-5 years and how this can be applied to other jurisdictions.\r\n\r\nSupport by State Legislators --  The budget has been set to support to match outreach specialists to audience at varying levels including Los Angeles residents and businesses, non-profit and environmental sectors and government.  \r\n"
-  - name: two_lessons
-    label: ''
-    explanation: ''
-    answer: "Hollywood & Highland – in 2001, local hiring was traditionally applied as a tool to include adjacent residents in construction work and it was done so as a condition of public investment in development projects with social and economic value.  We expanded the idea to allow area residents, in that case living within 3 miles, to compete for work at the site.  With the willingness of the HR director at the hotel, just after opening we approximated 28% of the workforce as local.  Beyond the community benefit, it was here I began to think about the value in savings to local traffic and the infrastructure.  In 2008, under a study funded by the Anne E Casey foundation, the Hollywood & Highland program received accolades for its standing as a workforce model.  The benefits of local hiring can now be expanded through an incentive based permanent employment model.\r\n\r\nUptick of transit –  There are varying reports on the uptick on interest and use of public transportation and more importantly, a consciousness of the options available in lieu of a car.\r\nMarch 10 2014 – http://www.citylab.com/commute/2014/03/numbers-behind-americas-mass-transit-resurgence/8600/\r\n\r\nThe Los Angeles Associated Press reports while there were reductions in ridership at varying points during the recession, ridership is now in an upswing by 23%.  “People are making a fundamental shift to having options aside from a car.” Says Michael Melamphy president and CEO of public transportation association.  The AP summary identifies their data sources as the American Public Transportation Association.  "
-  - name: achievable_goal
-    label: ''
-    explanation: ''
-    answer: >-
-      I have a deep understanding of the legislative process and leadership
-      invested in sustainable city solutions that address environmental impacts
-      and stand to improve the quality of life in Los Angeles.  The partnership
-      with FAST assists with dialog with the business community.  My experience
-      as an advisor to foundations, a board member on a non-profit, my tenure at
-      the city as a planner serving diverse communities and my pay-it-forward
-      commitment marries passion for giving back to a strategic plan.   
-  - name: major_challenges
-    label: ''
-    explanation: ''
-    answer: "Funding – Establishing A 5-Year plan:\r\n\r\nWhile we are confident we can achieve agreement with employers to participate and set the standards to prove emissions savings, building momentum will take several years.  Resources necessary to bring the talent to the table will be significant but achievable.  With the initial investment, an experienced funding team will identify sources with the objective of capturing $1 million in gap funding to continue to develop the local hire infrastructure that will include upgrade of information systems.  The team will include experts that understand foundational expectations, crowd-sourcing measures, philanthropic and governmental sources.  In addition, the team will advance ideas for products or services that become a part of the funding platform over time.\r\n\r\nCapturing Public & Private Participation & Momentum:\r\n\r\nThe program’s benefits must be conveyed to a diverse audience.  The consultant team’s budget includes experts practiced in communicating and enhancing participation through through marketing materials as well as social media, including Twitter, FaceBook and YouTube. \r\n\r\nWe will continue briefings with local stakeholders including government, residents and business organizations working with FASTLA.org's network."
-  - name: competition
-    label: ''
-    explanation: ''
-    answer: "FASTLA.org is one such organization with a similar purpose though our focus is creating the mechanism Local Hiring movement that will result in a better quality of life – reduced driving times, cleaner air etc.  There are many organizations committed to health community actions though they are not competitive.  \r\n\r\nBased on our research and current discussions with stakeholders,  we expect support of the concept and acceptance of the broad benefits described here from a host non-profits, government agencies, businesses and community-based organizations."
-  - name: cost
-    label: ''
-    explanation: ''
-    answer: >-
-      Over the next five years we anticipate a reserve of a $1,000,000 will be
-      required to cover costs to implement the program with measurable results. 
-      The details of a total 5-year budget will be examined in the first year
-      with the help of the funding strategist. 
-  - name: budget
-    label: ''
-    explanation: ''
-    answer: "Funding Advisor                                                  $ 15,000\r\nCommunications Firm                                        $ 20,000\r\nFAST.org Management and Consulting\t  $   6,000\r\nCool Climate Lab Consulting\t                          $ 15,000\r\nTransportation Management Services\t          $ 20,000\r\nTechnology Partner\t\t                                  $ 15,000\r\nContingency \t                                                  $   9,000\r\n--------------------------------------------------------------------------------\r\nTOTAL $100,000"
-  - name: resources_money
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_staff
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_publicity
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_infrastructure
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_education
-    label: Education/training
-    explanation: ''
-    answer: '1'
-  - name: resources_technical
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_communityoutreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: resources_network
-    label: Network/relationship support
-    explanation: ''
-    answer: '1'
-  - name: resources_research
-    label: Quality improvement research
-    explanation: ''
-    answer: '0'
-body_class: lime
-published: true
 
 ---

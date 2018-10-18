@@ -1,37 +1,22 @@
 ---
+published: true
 organization_id: '2016144'
 year_submitted: 2016
-organization_name: Maiden LA
-organization_website: maiden.la
-ein: ''
-project_image_2: 5228131725741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102151'
+challenge_url: >-
+  https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
 title: 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
-organization_name_2: Maiden LA
-organization_activity: >-
-  Maiden LA is a decentralized county-wide program that encourages, maps and
-  connects art-related events annually.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
-project_video: 'https://www.youtube.com/embed/Qy7qio56M78?rel=0&amp;showinfo=0'
 project_summary: >-
   Maiden LA is an inclusive and expansive county-wide survey of art happenings
   that in encouraging the use of alternative spaces, considers the city as a
   platform for generative discourse and exchange.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
+project_video: 'https://www.youtube.com/embed/Qy7qio56M78?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Success for Maiden LA is defined and measured by the public's engagement and
   participation. We were thrilled to have had 160 participants in the first
@@ -78,6 +63,32 @@ project_impact: >-
   women-owned firms","Percentage of graduates from local higher education
   institutions that remain in LA County 5 years after graduating","Recruiting
   and retention rates for local higher education institutions"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
+project_proposal_description: >-
+  After a successful pilot program, for the 2nd iteration, Maiden LA will put
+  out an open call to LA-based artists to host an event during the month of
+  August 2017. In expanding outreach and participation, Maiden LA will continue
+  to connect artists and collectives while representing LA County as a vibrant
+  and extensive art community.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Maiden LA, an annual county-wide network of ‘happenings’ throughout the month
   of August, is a way to assemble and connect Los Angeles artists, curators,
@@ -135,25 +146,7 @@ project_proposal_best_place: >-
   ongoing program will aid in their recruitment and retention rates. Our last
   event included involvement with Pomona College and number of recent UCLA
   graduates, among others.
-challenge_url: >-
-  https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
-empty_column_1: ''
-project_proposal_description: >-
-  After a successful pilot program, for the 2nd iteration, Maiden LA will put
-  out an open call to LA-based artists to host an event during the month of
-  August 2017. In expanding outreach and participation, Maiden LA will continue
-  to connect artists and collectives while representing LA County as a vibrant
-  and extensive art community.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Minority- and women-owned firms
-  - >-
-    Percentage of graduates from local higher education institutions that remain
-    in LA County 5 years after graduating
-  - Recruiting and retention rates for local higher education institutions
-category: create
-body_class: banana
-published: true
+organization_name: Maiden LA
+organization_website: maiden.la
 
 ---

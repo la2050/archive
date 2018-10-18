@@ -1,24 +1,19 @@
 ---
+published: true
 organization_id: '2016139'
 year_submitted: 2016
-organization_name: Los Angeles Review of Books
-organization_website: lareviewofbooks.org
-ein: '900977045'
-project_image_2: 6409369455741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102144'
+challenge_url: 'https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop'
 title: LARB/USC Publishing Institute and Workshop
-organization_name_2: Los Angeles Review of Books
-organization_activity: >-
-  L.A. Review of Books runs websites with over a half million visits a month, a
-  weekly radio show, print & e-publications, & events, all to promote &
-  disseminate the best being thought & written.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
-project_video: ''
 project_summary: >-
   The LARB/USC Publishing Workshop will give Angelenos unprecedented access to
   the world of publishing, from traditional books & magazines to e-publications,
   apps, games, multimedia and new platforms.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   USC is our main partner. Providing fellowships are Black Mountain Institute,
@@ -28,19 +23,6 @@ project_collaborators: >-
   Books, Melville House, Tsehai Publishers, Heyday Press, Yale UP, Tia Chucha
   Press, Red Hen Press, Unnamed Press, Phoneme Press, Time/Life, Netflix, n+1,
   WW Norton, others.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - Los Angeles's reputation outside LA.
 project_measure: >-
   Four basic metrics: (1) filling the 100 available seats in the program by year
   three, (2) raising the $375,000 to provide full fellowships for half those
@@ -83,6 +65,30 @@ project_description: >-
   the tools & to the people they need to know to take their place in & help
   create the publishing industry of the future.
 project_impact: '["College completion","Student education pipeline"]'
+project_proposal_impact:
+  - College completion
+  - Student education pipeline
+project_proposal_description: >-
+  Too long the world of publishing has been inaccessible to the majority of
+  people in the country. The LARB/USC Publishing Workshop will change that by
+  raising funds to provide access to top-flight, innovative, hands-on experience
+  & networking for people whatever their background or means. The Workshop is
+  designed to diversify the pipeline, to recruit people & give them access to
+  the tools & to the people they need to know to take their place in & help
+  create the publishing industry of the future.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - Los Angeles's reputation outside LA.
 project_proposal_best_place: >-
   Los Angeles has never had a program like this, a program that can make the
   publishing world as accessible to LA residents as it has long been to people
@@ -130,21 +136,7 @@ project_proposal_best_place: >-
   Tramz (Time), Johanna Drucker (UCLA), Guy Bennett (Otis Books), Elias Wondimu
   (Tsehai Publ.), Steve Wasserman (Heyday, Yale UP), publicists, agents, & and
   many others.
-challenge_url: 'https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop'
-empty_column_1: ''
-project_proposal_description: >-
-  Too long the world of publishing has been inaccessible to the majority of
-  people in the country. The LARB/USC Publishing Workshop will change that by
-  raising funds to provide access to top-flight, innovative, hands-on experience
-  & networking for people whatever their background or means. The Workshop is
-  designed to diversify the pipeline, to recruit people & give them access to
-  the tools & to the people they need to know to take their place in & help
-  create the publishing industry of the future.
-project_proposal_impact:
-  - College completion
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: Los Angeles Review of Books
+organization_website: lareviewofbooks.org
 
 ---

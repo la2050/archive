@@ -1,32 +1,25 @@
 ---
+published: true
 organization_id: '2016147'
 year_submitted: 2016
-organization_name: METRO Charter Elementary School
-organization_website: metrocharter.org
-ein: ''
-project_image_2: 0883163005741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102154'
+challenge_url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
 title: '''PEOPLE IN ME'' Interactive Cyber Mural'
-organization_name_2: METRO Charter Elementary School
-organization_activity: >-
-  The first parent-initiated charter in downtown L.A., METRO meaningfully
-  connects students with the diverse cultures, customs, beliefs and creativity
-  of those who work and live downtown.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0883163005741-team91.jpg
-project_video: 'https://www.youtube.com/embed/KLFAAlK8ZLI?rel=0&amp;showinfo=0'
 project_summary: >-
   A student-created interactive, cyber-video mural that maps the cultural
   diversity of those living/working in downtown L.A., PEOPLE IN ME showcases
   participants' culture, arts, and beliefs.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0883163005741-team91.jpg
+project_video: 'https://www.youtube.com/embed/KLFAAlK8ZLI?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   METRO Charter Elementary, A multi-disciplinary design collaborative, CHA:COL,
   South Park Business Improvement District, Sandy Point INK, Chase New Markets
   Tax Credit Group, Xyvest Holdings Inc., CalStateTEACH, L.A. City Real Estate
   and Land Use, Technology provider - TBD
-project_areas:
-  - Downtown L.A. metro area
 project_measure: >-
   1) Tabulate the number of visitors that view the mural.
 
@@ -79,6 +72,19 @@ project_description: >-
   put themselves on the map by inputting data about themselves to determine how
   their family is connected.
 project_impact: '["Cultural events","Public/open streets gatherings"]'
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+project_proposal_description: >-
+  PEOPLE IN ME is a student-created, interactive, cyber-video mural that maps
+  the cultural diversity of community living and/or working in downtown L.A.,
+  representing 180 countries. A team of students working alongside parents,
+  artists and school partners will interview locals about their culture, arts,
+  cuisine, childhood, beliefs and how they arrived here. Students/viewers will
+  put themselves on the map by inputting data about themselves to determine how
+  their family is connected.
+project_areas:
+  - Downtown L.A. metro area
 project_proposal_best_place: >-
   PEOPLE IN ME is aligned with METRO's emphasis on providing innovative
   opportunities for Place-Based Education (PBE): learning through rigorous, real
@@ -127,21 +133,7 @@ project_proposal_best_place: >-
 
   Students will benefit from: mentors, communication and problem-solving skills,
   positive attitudes about aging, and community service.
-challenge_url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
-empty_column_1: ''
-project_proposal_description: >-
-  PEOPLE IN ME is a student-created, interactive, cyber-video mural that maps
-  the cultural diversity of community living and/or working in downtown L.A.,
-  representing 180 countries. A team of students working alongside parents,
-  artists and school partners will interview locals about their culture, arts,
-  cuisine, childhood, beliefs and how they arrived here. Students/viewers will
-  put themselves on the map by inputting data about themselves to determine how
-  their family is connected.
-project_proposal_impact:
-  - Cultural events
-  - Public/open streets gatherings
-category: connect
-body_class: tangerine
-published: true
+organization_name: METRO Charter Elementary School
+organization_website: metrocharter.org
 
 ---

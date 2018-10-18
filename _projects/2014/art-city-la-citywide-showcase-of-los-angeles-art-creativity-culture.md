@@ -1,14 +1,105 @@
 ---
+published: true
+organization_id: '2014063'
+year_submitted: 2014
+category: create
+body_class: banana
 project_id: '4102158'
 title: 'ART CITY LA: Citywide Showcase of Los Angeles Art Creativity & Culture'
 project_summary: >-
   ART CITY LA is a year-round citywide cultural program showcasing Los Angeles
   as the Creative Capital of California and the Nation.
-category: create
-organization_id: '2014063'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/JVyDVToMVoo/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/JVyDVToMVoo'
+project_areas:
+  - CENTRAL LA
+  - WESTSIDE
+maker_answers:
+  org_name: NextStage Agency
+  metrics_create_employment: '1'
+  org_website: NextStageAgency.com
+  org_twitter: ArtCityLA
+  org_facebook: facebook.com/ArtCityLA
+  org_instagram: ''
+  org_mailingaddress: '11458 Biona Drive, Los Angeles, CA 90066'
+  org_ein: '471442024'
+  org_nonprofit: '0'
+  org_forprofit: '1'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '1'
+  describe_collaboration: '0'
+  describe_organization: >-
+    NextStage Agency produces programs, events and campaigns that enhance the
+    quality of people’s lives through art, creativity and culture.
+  one_sentence_project: >-
+    ART CITY LA is a year-round citywide cultural program showcasing Los Angeles
+    as the Creative Capital of California and the Nation.
+  describe_idea: >-
+    @ArtCityLA is a year-round celebration of Art, Creativity & Culture
+    showcasing LA as the creative capital of CA and the nation.
+  all_county: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '0'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: "Launching Wed., Jan. 7 to kick-off LA Arts Month (and held every Wed thereafter), ART CITY LA is a high-profile branding and marketing campaign spotlighting LA’s creative assets to spur economic growth, cultural tourism, and recognition as a premier destination of inspiration.\r\n\r\nWith an eclectic blend of talks, performance, and networking, ART CITY LA is where LA's art, creativity and culture comes alive across 50 weekly events curated by The City’s top artists, designers, innovators, and tastemakers at notable venues around the city, one representing a massive crowdsourced “Best Of” sampling of LA’s creative culture branded and marketed in ways that encourage the exploration and appreciation of every facet of The City as a work of art."
+  implement: "ART CITY LA will be implemented in the following ways:\r\n\r\nOct 2014:\r\n1) Design & confirm mar-com materials (logo, graphics, copy, ads, etc.)\r\n2) Launch ArtCity.LA website & connected social media channels including Facebook (facebook.com/ArtCityLA) & Twitter (twitter.com/ArtCityLA)\r\n3) Write & distribute press release announcement to local media\r\n4) Work with program collaborators to identify & invite 200 recommended LA creatives to submit interest in being one of 50 ART CITY LA Ambassadors\r\n5) Launch citywide call for Ambassadors through all possible channels inviting qualified LA creatives to submit interest as well\r\n6) Work with program collaborators to identify & invite 200 recommended LA venues to submit interest in becoming one of 50 ART CITY LA Venues\r\n7) Launch citywide call for Venues through all possible channels inviting qualified LA venues to submit interest as well.\r\n\r\n-#4, #5, #6 & #7 will ignite a great deal of pre-program publicity & buzz throughout the LA creative community & beyond.\r\n\r\n-Ambassador & Venue invitations outline the program & terms of involvement including pre & day-of event responsibilities (Ambassador: ongoing social media promotion, 2-hr appearance with 30-min presentation & bringing 25+ guests. Venue: ongoing social media promotion and hosting of 3-hr event) & require statement of commitment & intent.\r\n\r\n8) Establish weekly event program itinerary & run-of-show\r\n9) Identify & invite local & national brands to participate as sponsors\r\n10) Identify & invite local food & beverage vendors for each weekly event\r\n\r\nNov 2014:\r\n1) Choose, schedule & confirm all 50 ART CITY Ambassadors & Venues\r\n2) Confirm budget allocations\r\n3) Design & place advertisements in local & national media (starting Dec. 2014)\r\n4) Write & distribute press release announcement (2015 schedule/kick-off)\r\n5) Choose & confirm local & national brands as sponsors\r\n6) Choose & confirm local food & beverage vendors\r\n\r\nDec 2014:\r\n1) Post official 2015 schedule & kick-off info on ArtCity.LA & connected social media channels\r\n2) Launch advertisements in local & national media\r\n3) Design & distribute printed invites to Ambassadors, Venues & citywide locations\r\n4) Send email announcement to various lists\r\n5) Confirm January Ambassadors, Venues & special guests & execute launch day rehearsal\r\n6) Launch opening night on Wed., Jan. 7 to kick-off LA Arts Month"
+  impact_create: "ART CITY LA is an open invitation to a multi-sector coalition of creative workers, venues, partners, neighborhoods, cultures, and sponsors to come together to champion the value of LA’s creative economy and take action to foster this important force of societal advancement. \r\n\r\nART CITY LA offers the LA creative community and general public a welcoming platform for more of the expression and recognition it deserves by connecting the widest possible mix of artists, partners, venues, neighborhoods, and cultures in a participatory activation involving LA’s vast number and disciplinary array of creatives and the broad range of industries and communities in which they work.\r\n\r\nART CITY LA will help stimulate the creative economy, cultural tourism, and an international reputation by increasing awareness and support the numerous and diverse industries and creative workers that comprise LA's creative economy, inspiring a citywide activation for the advancement of the arts and economy, and ultimately, helping stimulate innovation and create jobs, as well as social and cultural benefits, by way of creative education and professions.\r\n\r\nShining a light on LA’s vibrant arts community to both locals and national and international visitors, ART CITY LA will recognize Los Angeles’ status as America’s Artist Super City in a way that amplifies the financial and social impact of its creative industries and practitioners and promotes creativity as fundamental to economic growth and prosperity.\r\n\r\nART CITY LA will market “Art City” as a slogan/motto that identifies LA as The Creative Capital of California and the Nation, one that says LA is a dynamic place to create, live, work, learn, and connect and speaks volumes about it as a great, livable, thriving center of art, creativity, and culture.\r\n\r\nART CITY LA will act as an educationally-oriented opportunity for all cultures and communities to access and gain entry into the full range of creative industries as a vocation, one that promotes the premise that creativity is an essential ingredient to a successful workforce and justifies increased emphasis on creative economy career paths through technical and university institutions. \r\n\r\nART CITY LA will provide a much-needed voice for young and emerging artists and their constituents to gain additional exposure outside of more traditional methods and help them build careers and livelihoods across for-profit, nonprofit, public and community arenas."
+  who_benefit: "Furthering the work of institutions such as LA 2050, LA Economic Development Corporation, LA Department of Cultural Affairs, LA County Arts Commission, LA N’Sync, LA Coalition for the Economy & Jobs, and others, ART CITY LA will involve LA’s vast number and disciplinary array of creatives and the broad range of industries and communities in which they work. \r\n\r\nA big-picture solution with exponential potential, ART CITY LA constitutes the ultimate mash-up of artists, entrepreneurs, brands, venues, neighborhoods, cultures, companies, investors, and institutions–all connected by a common goal of making LA a globally recognized center of creative excellence.\r\n\r\nART CITY LA embodies the very attributes of urbanism and the very nature of art and creativity. The arts have a special role in providing inspiration to all people. Therefore, ART CITY LA recognizes that it is not only artists and those involved in the creative economy that are creative but that creativity can come from anyone who addresses issues in an inventive way. Grounded in the philosophy that we can all make the extraordinary happen if given the chance, ART CITY LA is a place where everyone can express their potential which is harnessed and promoted for the common good. When these expressions combine, they create an innovation ecosystem–a synergistic relationship between people and place that facilitates idea generation and accelerates commercialization.\r\n\r\nART CITY LA specifically presents a special opportunity for 50 Ambassadors and Venues to further their work as thought-leaders dedicated to strengthening LA’s creative brand. Being chosen is recognition of individual creativity and support of the local creative community. Not only is this a chance to spotlight their unique talents, ideas and contributions, it is also where they can help shape the things that make LA such a desirable place to be. For LA, this is a way to publicly thank and promote those entrepreneurs who are helping it move up the value chain of global competitiveness by growing the jobs, firms and networks that drive broad-based prosperity.\r\n\r\nAltogether, ART CITY LA is an inclusive bridge-building and networking platform that encourages the broad cross-sector partnerships that are crucial to generating momentum and support for the creative economy, one that engenders the kind of open innovation that can forge new and more extensive relationships and collaborations and strengthen LA’s position as America's Artist SuperCity."
+  partners_collaboration: "In the collaborative spirit of the LA2050 Grant Challenge, ART CITY LA has been designed to support the shared mission of the CREATE Category through a true “Crowdsourced LA” production enabling all those dedicated to enhancing LA’s status as world leader in media, arts, and the creative industries to work cooperatively to achieve a common goal. \r\n\r\nThis kind of collaboration goes to the heart of what creativity is all about. Like jazz, often heralded as the epitome of complex collaborative practice, ART CITY LA is a synergistic, wise, resonant, and connected way to share ideas, pool resources, mobilize assets, and tap greater sources of intelligence to spur productive, inclusive, and sustainable economic development.\r\n\r\nWith this in mind, ART CITY LA has initiated conversations with key players such as LA's Cultural Affairs Department, LAEDC, and Center for Cultural Innovation to invite their involvement in this strategic alliance, communicating how ART CITY LA supports their work and that we are all on the same team. The response has been positive:\r\n\r\n“I am thrilled to see what you have produced. You have our total support on what you are doing as this is exactly what we want to see happen here in LA.” -Amy Amsterdam, Innovate in Los Angeles\r\n\r\n“Your proposal looks very strong and shows clearly the details of the program. I'm sorry we could not participate as a direct partner in the application, but the project is a wonderful idea. Our new GM who started yesterday very much likes it, and as you note, we should discuss this further and see how we can assist.\" -Andrew Kasdin, DCA\r\n\r\n“You have a great idea to excite LA's community through showcasing local artists. As you astutely observed, this is also one of the aims of CCI. Unfortunately, with such short lead time, it would be difficult to get involved on our end. I wish you success in finding an institutional partner and hope you'll keep us updated on your progress. If your project is awarded, let me know as that may provide another opportunity for partnership in promoting your program far and wide.” -Angie Kim, Center for Cultural Innovation\r\n\r\nThese encouraging comments attest to a strong interest in the value of a global program such as ART CITY LA, which if chosen as an LA2050 Grant Challenge winner will offer these institutions and others full opportunity to participate in empowering LA County residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity."
+  city_state: 'Los Angeles, CA'
+  metrics_create_arts: '1'
+  metrics_create_manufacturing: '0'
+  metrics_create_researchgrant: '0'
+  metrics_create_patents: '0'
+  metrics_create_jbs: '0'
+  metrics_create_minoritywomenowned: '0'
+  metrics_create_gini: '0'
+  metrics_create_startups: '0'
+  metrics_create_venturecapital: '0'
+  metrics_create_influencers: '1'
+  metrics_create_recruitingrates: '0'
+  metrics_create_graduates: '0'
+  metrics_create_unemployment: '0'
+  metrics_create_other: '0'
+  metrics_create_blank: ''
+  resources_network: '1'
+  best_place_to_learn: '1'
+  best_place_to_connect: '1'
+  healthiest_place_to_live: '1'
+  best_place_to_play: '1'
+  evaluate: "As a year-long special event series, the success of ART CITY LA requires careful planning, execution and diligence, one guided by a strategic plan that provides a blueprint describing clearly defined strategies, goals, opportunities, and directions as well as the use of key tools to effectively measure and strengthen its activities, address areas for improvement, and move the program forward to new accomplishments.\r\n\r\nData capture will be crucial for big-picture assessment as well as for the all-important advance, and ongoing, processes involved. At the end of the day, every event is all about numbers. Data will help us evaluate each event after its conclusion and make adjustments for the next. Data will also play a major role in how ART CITY LA calculates its impact on CREATE category metrics and its overall Return On Investment (ROI).\r\n\r\nEinstein said: “Everything that can be counted does not necessarily count; everything that counts cannot necessarily be counted.” This holds true for ART CITY LA’s ROI, which as discussed in HOW WILL YOUR PROJECT IMPACT THE LA2050 \"CREATE\" METRICS? comprises both a hard metric and soft metric to form a far more powerful and accurate way to measure performance that encompasses return on objectives, impression, engagement, awareness, and opportunity, all of which will enable ART CITY LA to prove campaign impact when it’s not possible or feasible to tie them directly to sales.\r\n\r\nSpecifically, ART CITY LA will measure success through these seven metrics:\r\n1.\tParticipant feedback\r\n2.\tAttendee satisfaction\r\n3.\tMedia mentions and publicity\r\n4.\tSocial Media friends/fans/followers\r\n5.\tEvent attendance (type, amount, quality)\r\n6.\tAbility to get LA 2050 CREATE messages across\r\n7.\tEconomic impact: business leads/increased sales/return customers\r\n\r\nIn addition to social tools such as Facebook and Twitter, ART CITY LA will use two key online solutions for this evaluation:\r\n\r\n1) Eventbrite.com offers everything we need to promote our events, collect and manage registrations, manage event entry, track attendance, and collect names and email addresses.\r\n\r\n2) Neighborland will be potentially integrated into the ArtCity.LA website to provide powerful engagement and collaborative capabilities that enable us to generate the kind of connectivity, networking, crowdsourcing, and relationship-building that spreads awareness, guides breakthroughs and accelerates possibilities. Please visit http://neighborland.com for more details."
+  two_lessons: "The two lessons informing ART CITY LA draw on insights from key initiatives and reports such as Los Angeles: America’s Artist SuperCity, The Otis Report on the Creative Economy of the Los Angeles Region, LA CREATES: Supporting the Creative Economy in Los Angeles, and Innovate Los Angeles. All make clear the profound importance of the creative industries to our region’s economic health and suggest a variety of recommendations for developing them in order to create a high quality of life for all Angeleno’s.\r\n\r\nART CITY LA offers a creative, strategic, comprehensive, and integrated solution to these goals and challenges. There have now been enough panels convened, reports written, evidence gathered, and arguments made for supporting, promoting, and growing LA’s creative sector. Now it is time to take the next step and put an activation in motion that embodies the essence of art and creativity and captures the imagination and participatory energy of the widest audience in the most efficient and ingenious ways, one that implements a balanced engagement process through a combination of online and offline efforts that leverage the creative community’s input and involves diverse groups of people through experiences that educate, elevate, and inspire; one that is:\r\n\r\n1)  Event-driven: Live events are essential for bringing people together in meaningful face-to-face encounters that create the kind of emotional experiences that empower learning, community, networking, and bridge-building. Yet, it is clear that another festival or conference is not enough to create the conditions that can make creativity a powerful new connective tissue with long-lasting effects. What is needed is:\r\n\r\n2) Consistency–the only way to activate the sheer amount and wide array of people, cultures, neighborhoods, venues, and communities and make the type of impact required. ART CITY LA’s year-round citywide program is based on the understanding that consistent networking activity is a fundamental, continuing function of any future creative economy support system. Highlighting the middle of the week, ART CITY LA’s ongoing Wednesday night series becomes \"Art’s Night Out\" – a special ritual that grounds people in regularity, giving them a sense of belonging and identifying with the familiar and known, something stable and predictable yet with the chance for change and choice, one with a high-level of social engagement that encourages them to give back and take responsibility for their city."
+  achievable_goal: "ART CITY LA is achievable because:\r\n\r\n1) It is a multi-level solution based on 30 years of experience in the arts, entertainment, communications, media, interactive, and live events world. It is predicated on the vision that the best way to impact the CREATE metrics is to stimulate the creative economy and the best way to do this is generating exposure for LA as a creative city and the best way to achieve that is through an integrated approach that is one part community cultural development and one part creative marketing.\r\n\r\n2) It has a meticulous plan of strategic implementation that outlines every facet of the program execution including marketing, PR, event design, production and management, venue assessment, staging, AV, booking, vendors, staff, talent, schedules, budget, and reporting. Please see our answer to WHAT WILL YOU DO TO IMPLEMENT THIS IDEA/PROJECT? which enumerates a three-month step-by-step ramp-up phase.\r\n\r\n3) It is guided by an experienced creative leader who has spearheaded and helped guide a diverse spectrum of productions and campaigns for global brands and renowned artists, designers, authors, educators, and scientists, as well as being the force behind numerous independent arts and cultural events, projects and programs.\r\n\r\n4) Marketing LA as The Creative Capital of California and the Nation, the Art City LA brand is a promise of what LA offers and what it aspires to be, one that establishes a strong civic identity, helping outsiders recognize LA and attract people to it while building community unity and promoting civic pride.\r\n\r\n5) Headlined by the tastemakers who give LA its creative personality, ART CITY LA will establish a new tradition that strengthens and nurtures the collaborative culture of the city in ways that can change perceptions significantly and built connections that lead to increased cross-sector innovation.\r\n\r\n6) In contrast to piecemeal solutions comprising just one or two organizations, ART CITY LA embraces mass collaboration as a true “Crowdsourced LA” production involving 50 ambassadors, 50 venues and multiple partners working together for a common cause and part of a larger whole. The combined effect casts a wider net for an impact that is greater than the sum of its parts. The more people activated, the more the word spreads and the more free publicity LA receives. Altogether, ART CITY LA offers more “bang for the buck” to do more with $100,000 to enliven an entire city than any other project can."
+  major_challenges: "ART CITY LA anticipates two potential challenges:\r\n\r\n1) Weekly events will become so popular that attendance increases rapidly and outpaces the capacity of scheduled venues.\r\n\r\n2) As attendance increases, so do food, beverage, and staff costs.\r\n\r\nThere are a number of reasons these events will be popular:\r\n-They will take place on Wednesday evenings\r\n-They are free and offer free food and beverages\r\n-They are artistic, innovative, hip, creative, and cool\r\n-They will involved a wide variety of strategic alliances\r\n-They will be promoted using powerful viral marketing techniques\r\n\r\nTherefore, if we conservatively anticipate a minimum of 50 attendees for week one, and as a result of exponential growth from a combination of continued advertising/marketing, return customers, positive word-of-mouth, etc., can reasonably expect attendance to increase in gradual increments with each successive week by an average of 10 people, then we should have 540 attendees by week 50 and a yearly total of 14,750. If attendance increases by 15 people each week, that yearly total increases to 20,880.\r\n\r\nConcurrently, the more attendees, the more food, beverages, and staff will be required, thereby utilizing a larger portion of the budget than anticipated or feasible.\r\n\r\nThese challenges can be prevented/resolved by:\r\n1) Booking larger and larger venues for each successful month in quarterly fashion, making jumps in capacity from 50-200 (first quarter) to 200-350 (second quarter) to 350-500 (third quarter) to 500+ (fourth quarter). This approach gives us sufficient time for advance planning yet offers flexibility if we underestimate or overestimate demand. \r\n2) Careful monitoring of attendance trends\r\n3) Requiring RSVP’s to provide an estimated attendee count using Eventbrite, an online tool for collecting and managing registrations and tracking attendance. Though not 100% accurate because these free and frequent events entail a less binding commitment, RSVP’s (which do not guarantee entry but is by a first come, first serve basis) will give us a relatively accurate sense of tracking potential increased or decreased attendance. Additionally, a check in table for managing event entry will prevent us from going over venue capacity.\r\n\r\n4) In terms of increased food, beverage, and staffing costs, we will budget accordingly and work to insure generous beverage sponsorship deals.\r\n\r\nOther options to consider:\r\n-Instituting a door charge\r\n-Shifting to a bi-weekly schedule"
+  competition: "Events, performances, and live experiences of all kinds are the lifeblood of LA’s arts, entertainment, nightlife, tourist, and culture industries. Whether theater, lecture, concert, conference, or party, events that bring people together to express, learn, connect, socialize, and celebrate are a prime animator of community and an essential dimension of the creative economy. As a signature event marketing program for a city that thrives on special events, ART CITY LA stands out for its unique combination of all of these.\r\n\r\nMax Ernst said: “Creativity is the marvelous capacity to grasp mutually distinct realities and draw a spark from their juxtaposition” and this perfectly captures the ethos of ART CITY LA, which aims to make links and build bridges and connections that are innovative and far-from-the-norm. This creativity involves the dissolution of old forms into new ones where elements recombine into a higher synthesis. This reintegration is a key part of what we call art. The Indo-European root word for art is ar which means “to fit together.” It is by weaving together that art becomes the creative and integrative process it is.\r\n\r\nCreativity flourishes when we place ourselves in interactive situations with different environments and people. In this spirit, ART CITY LA provides a dynamic platform that brings LA’s most creative people, ideas, resources, capacities, and activities together into new synergies that can shape and empower both individual and society. It represents an effort to grow LA’s creative community through a vibrant events series capable of offering the kind of connectivity, networking, crowdsourcing, and bridge-building that is vital to the broad cross-sector partnerships that are crucial to generating momentum and support for the creative industries.\r\n\r\nThrough a consistent schedule of high-quality gatherings where creative leaders can speak out from their unique perspective and industry, ART CITY LA will not only help to forge more extensive relationships and collaborations across sectors, mediums and disciplines, but also empower citizens of all types to participate more directly in LA as a creative city and contribute to its flourishing.\r\n\r\nIn this scenario, a new social currency emerges that enhances LA’s networking capacity and makes it an accelerator of opportunities, the kind that can help it tap its most important resource – its people: their cleverness, ingenuity, aspirations, motivations, imagination and creativity."
+  cost: >-
+    We estimate that the ART CITY LA program as outlined in this application can
+    be achieved with $100,000. In the above question, PLEASE LIST AT LEAST TWO
+    MAJOR BARRIERS/CHALLENGES YOU ANTICIPATE. WHAT IS YOUR STRATEGY FOR ENSURING
+    A SUCCESSFUL IMPLEMENTATION? we address our strategic tactics for meeting
+    the challenges of any potential cost increases related to overwhelming
+    demand.
+  budget: "ART CITY LA will use the $100,000 budget in the following ways:\r\n\r\nProduction: $30,000 for 15 months work ($4.68.75 x 64 weeks from beginning of Oct. 2015 to end of Dec 2015)\r\n\r\nAmbassadors: $10,000 ($200 x 50 weeks)\r\n\r\nVenues: $17,400\r\n\r\nAs venue size increases we expect to pay more in this sequence:\r\nFirst quarter: $200 x 12 = $2,400\r\nSecond quarter: $300 x 13 = $3,900\r\nThird quarter: $400 x 14 = $5,600\r\nFourth quarter: $500 x 11 = $5,500\r\n\r\nFood: $20,000 for snacks such as nuts, dried fruit, pretzels, candy, etc. (supplemented by sponsors)\r\n\r\nCatering: $17,000, includes:\r\n-Two beverage servers \r\n-Bottled water (approx. 525 cases)\r\n-Miscellaneous: Ice, Napkins, and Glasses (plastic tumblers)\r\n\r\nBeverages:\r\n\r\nEach event will serve:\r\n\r\n-Bottled water (supplied by caterer)\r\n\r\n-One beer brand (to be sponsored)\r\n\r\n-One wine brand (to be sponsored)\r\n\r\n-Potentially one vodka or similar brand (to be sponsored, including mixers, etc.)\r\n\r\n-One healthy beverage brand (to be sponsored)\r\n\r\nEach attendee will receive two drinks tickets.\r\n\r\nUsing Eventbrite will help gauge food & beverage needs in advance.\r\n\r\nPrinting: $500, includes:\r\n-10,000 “monthly event schedule” postcards (775 cards per month from Dec. 2014 through Dec. 2015)\r\n-6000 “event of the week” postcards (125 per week from January 2015 through Dec. 2015)\r\n\r\n-Event assistant (attendee check-in): $2,500 ($50 x 50 weeks)\r\n\r\n-Photographer: $2,500 ($50 x 50 weeks)\r\n\r\nTotal costs: $99,900\r\n\r\nWe will work to have as much of the all costs sponsored, bartered or discounted as possible."
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_research: '0'
+  impact_metrics: "Strategically targeting the key metrics listed above, ART CITY LA is a program designed to not only make an impact on the creative bottom line in 2015 but one that continues to do so through 2050. This impact is measured by both qualitative and quantitative evaluations in the lives of LA citizens, a Quality of Life (QOL) made up of a wide range of factors that speak to a new definition of urban development that embraces the full range of social, economic, environmental and civic dimensions of cities and confirms research demonstrating that it is not successful economies that are a prerequisite for QOL but that QOL is prerequisite for successful economies.\r\n\r\nHere, ART CITY LA’s high-quality programming promises a long-term solution for creating the social currency that is so important to the fabric and health of the communities in which people want to live, work and lead meaningful lives. This new economy equation elevates the primacy of social capital to LA’s status as a creative capital to reveal a natural symbiosis between greater creative industry employment, more thriving arts establishments, increased cultural tourism and higher degrees of global influence and prestige and the flourishing of those high-touch, human-centered, experiential lifestyle essentials which contribute to social progress in more holistic and psychological terms than only the economic indicator of gross domestic product (GDP). \r\n\r\nSuch a creative blending of hard and soft attributes is not only central to defining, honoring and preserving LA’s local identity, it also sets the stage for what the good life is really all about. But this can’t be achieved through slogans and advertising alone. While branding and marketing play an important role, they will ring hollow and fall short unless indigenously cultivated from the grassroots up. By simultaneously promoting LA’s creative brand while strengthening its creative community, ART CITY LA’s year-round festival of showcase events offers LA a balanced solution for increasing exposure, employment, revenue, tourism, publicity, social engagement, civic pride, and good times for all. As a result, LA can expect that more creative people will vacation and relocate here, more creative companies will base themselves here, and more of its creative talent pool will stay here. The total effect is guaranteed to ignite the socio-economic growth so necessary to the metrics of every LA2050 category and the quality of life of all Angeleno’s."
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   ART CITY LA will be implemented in the following ways:
    
@@ -94,433 +185,6 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    These encouraging comments attest to a strong interest in the value of a global program such as ART CITY LA, which if chosen as an LA2050 Grant Challenge winner will offer these institutions and others full opportunity to participate in empowering LA County residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity.
 Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
 youtube_video_identifier: JVyDVToMVoo
-project_areas:
-  - CENTRAL LA
-  - WESTSIDE
-maker_answers:
-  city_state: 'Los Angeles, CA'
-  org_name: NextStage Agency
-  org_website: NextStageAgency.com
-  org_twitter: ArtCityLA
-  org_facebook: facebook.com/ArtCityLA
-  org_instagram: ''
-  org_mailingaddress: '11458 Biona Drive, Los Angeles, CA 90066'
-  org_ein: '471442024'
-  org_nonprofit: '0'
-  org_forprofit: '1'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '1'
-  describe_collaboration: '0'
-  describe_organization: >-
-    NextStage Agency produces programs, events and campaigns that enhance the
-    quality of people’s lives through art, creativity and culture.
-  one_sentence_project: >-
-    ART CITY LA is a year-round citywide cultural program showcasing Los Angeles
-    as the Creative Capital of California and the Nation.
-  describe_idea: >-
-    @ArtCityLA is a year-round celebration of Art, Creativity & Culture
-    showcasing LA as the creative capital of CA and the nation.
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '0'
-  area_southLA: '0'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: "Launching Wed., Jan. 7 to kick-off LA Arts Month (and held every Wed thereafter), ART CITY LA is a high-profile branding and marketing campaign spotlighting LA’s creative assets to spur economic growth, cultural tourism, and recognition as a premier destination of inspiration.\r\n\r\nWith an eclectic blend of talks, performance, and networking, ART CITY LA is where LA's art, creativity and culture comes alive across 50 weekly events curated by The City’s top artists, designers, innovators, and tastemakers at notable venues around the city, one representing a massive crowdsourced “Best Of” sampling of LA’s creative culture branded and marketed in ways that encourage the exploration and appreciation of every facet of The City as a work of art."
-  implement: "ART CITY LA will be implemented in the following ways:\r\n\r\nOct 2014:\r\n1) Design & confirm mar-com materials (logo, graphics, copy, ads, etc.)\r\n2) Launch ArtCity.LA website & connected social media channels including Facebook (facebook.com/ArtCityLA) & Twitter (twitter.com/ArtCityLA)\r\n3) Write & distribute press release announcement to local media\r\n4) Work with program collaborators to identify & invite 200 recommended LA creatives to submit interest in being one of 50 ART CITY LA Ambassadors\r\n5) Launch citywide call for Ambassadors through all possible channels inviting qualified LA creatives to submit interest as well\r\n6) Work with program collaborators to identify & invite 200 recommended LA venues to submit interest in becoming one of 50 ART CITY LA Venues\r\n7) Launch citywide call for Venues through all possible channels inviting qualified LA venues to submit interest as well.\r\n\r\n-#4, #5, #6 & #7 will ignite a great deal of pre-program publicity & buzz throughout the LA creative community & beyond.\r\n\r\n-Ambassador & Venue invitations outline the program & terms of involvement including pre & day-of event responsibilities (Ambassador: ongoing social media promotion, 2-hr appearance with 30-min presentation & bringing 25+ guests. Venue: ongoing social media promotion and hosting of 3-hr event) & require statement of commitment & intent.\r\n\r\n8) Establish weekly event program itinerary & run-of-show\r\n9) Identify & invite local & national brands to participate as sponsors\r\n10) Identify & invite local food & beverage vendors for each weekly event\r\n\r\nNov 2014:\r\n1) Choose, schedule & confirm all 50 ART CITY Ambassadors & Venues\r\n2) Confirm budget allocations\r\n3) Design & place advertisements in local & national media (starting Dec. 2014)\r\n4) Write & distribute press release announcement (2015 schedule/kick-off)\r\n5) Choose & confirm local & national brands as sponsors\r\n6) Choose & confirm local food & beverage vendors\r\n\r\nDec 2014:\r\n1) Post official 2015 schedule & kick-off info on ArtCity.LA & connected social media channels\r\n2) Launch advertisements in local & national media\r\n3) Design & distribute printed invites to Ambassadors, Venues & citywide locations\r\n4) Send email announcement to various lists\r\n5) Confirm January Ambassadors, Venues & special guests & execute launch day rehearsal\r\n6) Launch opening night on Wed., Jan. 7 to kick-off LA Arts Month"
-  impact_create: "ART CITY LA is an open invitation to a multi-sector coalition of creative workers, venues, partners, neighborhoods, cultures, and sponsors to come together to champion the value of LA’s creative economy and take action to foster this important force of societal advancement. \r\n\r\nART CITY LA offers the LA creative community and general public a welcoming platform for more of the expression and recognition it deserves by connecting the widest possible mix of artists, partners, venues, neighborhoods, and cultures in a participatory activation involving LA’s vast number and disciplinary array of creatives and the broad range of industries and communities in which they work.\r\n\r\nART CITY LA will help stimulate the creative economy, cultural tourism, and an international reputation by increasing awareness and support the numerous and diverse industries and creative workers that comprise LA's creative economy, inspiring a citywide activation for the advancement of the arts and economy, and ultimately, helping stimulate innovation and create jobs, as well as social and cultural benefits, by way of creative education and professions.\r\n\r\nShining a light on LA’s vibrant arts community to both locals and national and international visitors, ART CITY LA will recognize Los Angeles’ status as America’s Artist Super City in a way that amplifies the financial and social impact of its creative industries and practitioners and promotes creativity as fundamental to economic growth and prosperity.\r\n\r\nART CITY LA will market “Art City” as a slogan/motto that identifies LA as The Creative Capital of California and the Nation, one that says LA is a dynamic place to create, live, work, learn, and connect and speaks volumes about it as a great, livable, thriving center of art, creativity, and culture.\r\n\r\nART CITY LA will act as an educationally-oriented opportunity for all cultures and communities to access and gain entry into the full range of creative industries as a vocation, one that promotes the premise that creativity is an essential ingredient to a successful workforce and justifies increased emphasis on creative economy career paths through technical and university institutions. \r\n\r\nART CITY LA will provide a much-needed voice for young and emerging artists and their constituents to gain additional exposure outside of more traditional methods and help them build careers and livelihoods across for-profit, nonprofit, public and community arenas."
-  who_benefit: "Furthering the work of institutions such as LA 2050, LA Economic Development Corporation, LA Department of Cultural Affairs, LA County Arts Commission, LA N’Sync, LA Coalition for the Economy & Jobs, and others, ART CITY LA will involve LA’s vast number and disciplinary array of creatives and the broad range of industries and communities in which they work. \r\n\r\nA big-picture solution with exponential potential, ART CITY LA constitutes the ultimate mash-up of artists, entrepreneurs, brands, venues, neighborhoods, cultures, companies, investors, and institutions–all connected by a common goal of making LA a globally recognized center of creative excellence.\r\n\r\nART CITY LA embodies the very attributes of urbanism and the very nature of art and creativity. The arts have a special role in providing inspiration to all people. Therefore, ART CITY LA recognizes that it is not only artists and those involved in the creative economy that are creative but that creativity can come from anyone who addresses issues in an inventive way. Grounded in the philosophy that we can all make the extraordinary happen if given the chance, ART CITY LA is a place where everyone can express their potential which is harnessed and promoted for the common good. When these expressions combine, they create an innovation ecosystem–a synergistic relationship between people and place that facilitates idea generation and accelerates commercialization.\r\n\r\nART CITY LA specifically presents a special opportunity for 50 Ambassadors and Venues to further their work as thought-leaders dedicated to strengthening LA’s creative brand. Being chosen is recognition of individual creativity and support of the local creative community. Not only is this a chance to spotlight their unique talents, ideas and contributions, it is also where they can help shape the things that make LA such a desirable place to be. For LA, this is a way to publicly thank and promote those entrepreneurs who are helping it move up the value chain of global competitiveness by growing the jobs, firms and networks that drive broad-based prosperity.\r\n\r\nAltogether, ART CITY LA is an inclusive bridge-building and networking platform that encourages the broad cross-sector partnerships that are crucial to generating momentum and support for the creative economy, one that engenders the kind of open innovation that can forge new and more extensive relationships and collaborations and strengthen LA’s position as America's Artist SuperCity."
-  partners_collaboration: "In the collaborative spirit of the LA2050 Grant Challenge, ART CITY LA has been designed to support the shared mission of the CREATE Category through a true “Crowdsourced LA” production enabling all those dedicated to enhancing LA’s status as world leader in media, arts, and the creative industries to work cooperatively to achieve a common goal. \r\n\r\nThis kind of collaboration goes to the heart of what creativity is all about. Like jazz, often heralded as the epitome of complex collaborative practice, ART CITY LA is a synergistic, wise, resonant, and connected way to share ideas, pool resources, mobilize assets, and tap greater sources of intelligence to spur productive, inclusive, and sustainable economic development.\r\n\r\nWith this in mind, ART CITY LA has initiated conversations with key players such as LA's Cultural Affairs Department, LAEDC, and Center for Cultural Innovation to invite their involvement in this strategic alliance, communicating how ART CITY LA supports their work and that we are all on the same team. The response has been positive:\r\n\r\n“I am thrilled to see what you have produced. You have our total support on what you are doing as this is exactly what we want to see happen here in LA.” -Amy Amsterdam, Innovate in Los Angeles\r\n\r\n“Your proposal looks very strong and shows clearly the details of the program. I'm sorry we could not participate as a direct partner in the application, but the project is a wonderful idea. Our new GM who started yesterday very much likes it, and as you note, we should discuss this further and see how we can assist.\" -Andrew Kasdin, DCA\r\n\r\n“You have a great idea to excite LA's community through showcasing local artists. As you astutely observed, this is also one of the aims of CCI. Unfortunately, with such short lead time, it would be difficult to get involved on our end. I wish you success in finding an institutional partner and hope you'll keep us updated on your progress. If your project is awarded, let me know as that may provide another opportunity for partnership in promoting your program far and wide.” -Angie Kim, Center for Cultural Innovation\r\n\r\nThese encouraging comments attest to a strong interest in the value of a global program such as ART CITY LA, which if chosen as an LA2050 Grant Challenge winner will offer these institutions and others full opportunity to participate in empowering LA County residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity."
-  metrics_create_employment: '1'
-  metrics_create_arts: '1'
-  metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
-  metrics_create_patents: '0'
-  metrics_create_jbs: '0'
-  metrics_create_minoritywomenowned: '0'
-  metrics_create_gini: '0'
-  metrics_create_startups: '0'
-  metrics_create_venturecapital: '0'
-  metrics_create_influencers: '1'
-  metrics_create_recruitingrates: '0'
-  metrics_create_graduates: '0'
-  metrics_create_unemployment: '0'
-  metrics_create_other: '0'
-  metrics_create_blank: ''
-  impact_metrics: "Strategically targeting the key metrics listed above, ART CITY LA is a program designed to not only make an impact on the creative bottom line in 2015 but one that continues to do so through 2050. This impact is measured by both qualitative and quantitative evaluations in the lives of LA citizens, a Quality of Life (QOL) made up of a wide range of factors that speak to a new definition of urban development that embraces the full range of social, economic, environmental and civic dimensions of cities and confirms research demonstrating that it is not successful economies that are a prerequisite for QOL but that QOL is prerequisite for successful economies.\r\n\r\nHere, ART CITY LA’s high-quality programming promises a long-term solution for creating the social currency that is so important to the fabric and health of the communities in which people want to live, work and lead meaningful lives. This new economy equation elevates the primacy of social capital to LA’s status as a creative capital to reveal a natural symbiosis between greater creative industry employment, more thriving arts establishments, increased cultural tourism and higher degrees of global influence and prestige and the flourishing of those high-touch, human-centered, experiential lifestyle essentials which contribute to social progress in more holistic and psychological terms than only the economic indicator of gross domestic product (GDP). \r\n\r\nSuch a creative blending of hard and soft attributes is not only central to defining, honoring and preserving LA’s local identity, it also sets the stage for what the good life is really all about. But this can’t be achieved through slogans and advertising alone. While branding and marketing play an important role, they will ring hollow and fall short unless indigenously cultivated from the grassroots up. By simultaneously promoting LA’s creative brand while strengthening its creative community, ART CITY LA’s year-round festival of showcase events offers LA a balanced solution for increasing exposure, employment, revenue, tourism, publicity, social engagement, civic pride, and good times for all. As a result, LA can expect that more creative people will vacation and relocate here, more creative companies will base themselves here, and more of its creative talent pool will stay here. The total effect is guaranteed to ignite the socio-economic growth so necessary to the metrics of every LA2050 category and the quality of life of all Angeleno’s."
-  best_place_to_learn: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '1'
-  best_place_to_play: '1'
-  evaluate: "As a year-long special event series, the success of ART CITY LA requires careful planning, execution and diligence, one guided by a strategic plan that provides a blueprint describing clearly defined strategies, goals, opportunities, and directions as well as the use of key tools to effectively measure and strengthen its activities, address areas for improvement, and move the program forward to new accomplishments.\r\n\r\nData capture will be crucial for big-picture assessment as well as for the all-important advance, and ongoing, processes involved. At the end of the day, every event is all about numbers. Data will help us evaluate each event after its conclusion and make adjustments for the next. Data will also play a major role in how ART CITY LA calculates its impact on CREATE category metrics and its overall Return On Investment (ROI).\r\n\r\nEinstein said: “Everything that can be counted does not necessarily count; everything that counts cannot necessarily be counted.” This holds true for ART CITY LA’s ROI, which as discussed in HOW WILL YOUR PROJECT IMPACT THE LA2050 \"CREATE\" METRICS? comprises both a hard metric and soft metric to form a far more powerful and accurate way to measure performance that encompasses return on objectives, impression, engagement, awareness, and opportunity, all of which will enable ART CITY LA to prove campaign impact when it’s not possible or feasible to tie them directly to sales.\r\n\r\nSpecifically, ART CITY LA will measure success through these seven metrics:\r\n1.\tParticipant feedback\r\n2.\tAttendee satisfaction\r\n3.\tMedia mentions and publicity\r\n4.\tSocial Media friends/fans/followers\r\n5.\tEvent attendance (type, amount, quality)\r\n6.\tAbility to get LA 2050 CREATE messages across\r\n7.\tEconomic impact: business leads/increased sales/return customers\r\n\r\nIn addition to social tools such as Facebook and Twitter, ART CITY LA will use two key online solutions for this evaluation:\r\n\r\n1) Eventbrite.com offers everything we need to promote our events, collect and manage registrations, manage event entry, track attendance, and collect names and email addresses.\r\n\r\n2) Neighborland will be potentially integrated into the ArtCity.LA website to provide powerful engagement and collaborative capabilities that enable us to generate the kind of connectivity, networking, crowdsourcing, and relationship-building that spreads awareness, guides breakthroughs and accelerates possibilities. Please visit http://neighborland.com for more details."
-  two_lessons: "The two lessons informing ART CITY LA draw on insights from key initiatives and reports such as Los Angeles: America’s Artist SuperCity, The Otis Report on the Creative Economy of the Los Angeles Region, LA CREATES: Supporting the Creative Economy in Los Angeles, and Innovate Los Angeles. All make clear the profound importance of the creative industries to our region’s economic health and suggest a variety of recommendations for developing them in order to create a high quality of life for all Angeleno’s.\r\n\r\nART CITY LA offers a creative, strategic, comprehensive, and integrated solution to these goals and challenges. There have now been enough panels convened, reports written, evidence gathered, and arguments made for supporting, promoting, and growing LA’s creative sector. Now it is time to take the next step and put an activation in motion that embodies the essence of art and creativity and captures the imagination and participatory energy of the widest audience in the most efficient and ingenious ways, one that implements a balanced engagement process through a combination of online and offline efforts that leverage the creative community’s input and involves diverse groups of people through experiences that educate, elevate, and inspire; one that is:\r\n\r\n1)  Event-driven: Live events are essential for bringing people together in meaningful face-to-face encounters that create the kind of emotional experiences that empower learning, community, networking, and bridge-building. Yet, it is clear that another festival or conference is not enough to create the conditions that can make creativity a powerful new connective tissue with long-lasting effects. What is needed is:\r\n\r\n2) Consistency–the only way to activate the sheer amount and wide array of people, cultures, neighborhoods, venues, and communities and make the type of impact required. ART CITY LA’s year-round citywide program is based on the understanding that consistent networking activity is a fundamental, continuing function of any future creative economy support system. Highlighting the middle of the week, ART CITY LA’s ongoing Wednesday night series becomes \"Art’s Night Out\" – a special ritual that grounds people in regularity, giving them a sense of belonging and identifying with the familiar and known, something stable and predictable yet with the chance for change and choice, one with a high-level of social engagement that encourages them to give back and take responsibility for their city."
-  achievable_goal: "ART CITY LA is achievable because:\r\n\r\n1) It is a multi-level solution based on 30 years of experience in the arts, entertainment, communications, media, interactive, and live events world. It is predicated on the vision that the best way to impact the CREATE metrics is to stimulate the creative economy and the best way to do this is generating exposure for LA as a creative city and the best way to achieve that is through an integrated approach that is one part community cultural development and one part creative marketing.\r\n\r\n2) It has a meticulous plan of strategic implementation that outlines every facet of the program execution including marketing, PR, event design, production and management, venue assessment, staging, AV, booking, vendors, staff, talent, schedules, budget, and reporting. Please see our answer to WHAT WILL YOU DO TO IMPLEMENT THIS IDEA/PROJECT? which enumerates a three-month step-by-step ramp-up phase.\r\n\r\n3) It is guided by an experienced creative leader who has spearheaded and helped guide a diverse spectrum of productions and campaigns for global brands and renowned artists, designers, authors, educators, and scientists, as well as being the force behind numerous independent arts and cultural events, projects and programs.\r\n\r\n4) Marketing LA as The Creative Capital of California and the Nation, the Art City LA brand is a promise of what LA offers and what it aspires to be, one that establishes a strong civic identity, helping outsiders recognize LA and attract people to it while building community unity and promoting civic pride.\r\n\r\n5) Headlined by the tastemakers who give LA its creative personality, ART CITY LA will establish a new tradition that strengthens and nurtures the collaborative culture of the city in ways that can change perceptions significantly and built connections that lead to increased cross-sector innovation.\r\n\r\n6) In contrast to piecemeal solutions comprising just one or two organizations, ART CITY LA embraces mass collaboration as a true “Crowdsourced LA” production involving 50 ambassadors, 50 venues and multiple partners working together for a common cause and part of a larger whole. The combined effect casts a wider net for an impact that is greater than the sum of its parts. The more people activated, the more the word spreads and the more free publicity LA receives. Altogether, ART CITY LA offers more “bang for the buck” to do more with $100,000 to enliven an entire city than any other project can."
-  major_challenges: "ART CITY LA anticipates two potential challenges:\r\n\r\n1) Weekly events will become so popular that attendance increases rapidly and outpaces the capacity of scheduled venues.\r\n\r\n2) As attendance increases, so do food, beverage, and staff costs.\r\n\r\nThere are a number of reasons these events will be popular:\r\n-They will take place on Wednesday evenings\r\n-They are free and offer free food and beverages\r\n-They are artistic, innovative, hip, creative, and cool\r\n-They will involved a wide variety of strategic alliances\r\n-They will be promoted using powerful viral marketing techniques\r\n\r\nTherefore, if we conservatively anticipate a minimum of 50 attendees for week one, and as a result of exponential growth from a combination of continued advertising/marketing, return customers, positive word-of-mouth, etc., can reasonably expect attendance to increase in gradual increments with each successive week by an average of 10 people, then we should have 540 attendees by week 50 and a yearly total of 14,750. If attendance increases by 15 people each week, that yearly total increases to 20,880.\r\n\r\nConcurrently, the more attendees, the more food, beverages, and staff will be required, thereby utilizing a larger portion of the budget than anticipated or feasible.\r\n\r\nThese challenges can be prevented/resolved by:\r\n1) Booking larger and larger venues for each successful month in quarterly fashion, making jumps in capacity from 50-200 (first quarter) to 200-350 (second quarter) to 350-500 (third quarter) to 500+ (fourth quarter). This approach gives us sufficient time for advance planning yet offers flexibility if we underestimate or overestimate demand. \r\n2) Careful monitoring of attendance trends\r\n3) Requiring RSVP’s to provide an estimated attendee count using Eventbrite, an online tool for collecting and managing registrations and tracking attendance. Though not 100% accurate because these free and frequent events entail a less binding commitment, RSVP’s (which do not guarantee entry but is by a first come, first serve basis) will give us a relatively accurate sense of tracking potential increased or decreased attendance. Additionally, a check in table for managing event entry will prevent us from going over venue capacity.\r\n\r\n4) In terms of increased food, beverage, and staffing costs, we will budget accordingly and work to insure generous beverage sponsorship deals.\r\n\r\nOther options to consider:\r\n-Instituting a door charge\r\n-Shifting to a bi-weekly schedule"
-  competition: "Events, performances, and live experiences of all kinds are the lifeblood of LA’s arts, entertainment, nightlife, tourist, and culture industries. Whether theater, lecture, concert, conference, or party, events that bring people together to express, learn, connect, socialize, and celebrate are a prime animator of community and an essential dimension of the creative economy. As a signature event marketing program for a city that thrives on special events, ART CITY LA stands out for its unique combination of all of these.\r\n\r\nMax Ernst said: “Creativity is the marvelous capacity to grasp mutually distinct realities and draw a spark from their juxtaposition” and this perfectly captures the ethos of ART CITY LA, which aims to make links and build bridges and connections that are innovative and far-from-the-norm. This creativity involves the dissolution of old forms into new ones where elements recombine into a higher synthesis. This reintegration is a key part of what we call art. The Indo-European root word for art is ar which means “to fit together.” It is by weaving together that art becomes the creative and integrative process it is.\r\n\r\nCreativity flourishes when we place ourselves in interactive situations with different environments and people. In this spirit, ART CITY LA provides a dynamic platform that brings LA’s most creative people, ideas, resources, capacities, and activities together into new synergies that can shape and empower both individual and society. It represents an effort to grow LA’s creative community through a vibrant events series capable of offering the kind of connectivity, networking, crowdsourcing, and bridge-building that is vital to the broad cross-sector partnerships that are crucial to generating momentum and support for the creative industries.\r\n\r\nThrough a consistent schedule of high-quality gatherings where creative leaders can speak out from their unique perspective and industry, ART CITY LA will not only help to forge more extensive relationships and collaborations across sectors, mediums and disciplines, but also empower citizens of all types to participate more directly in LA as a creative city and contribute to its flourishing.\r\n\r\nIn this scenario, a new social currency emerges that enhances LA’s networking capacity and makes it an accelerator of opportunities, the kind that can help it tap its most important resource – its people: their cleverness, ingenuity, aspirations, motivations, imagination and creativity."
-  cost: >-
-    We estimate that the ART CITY LA program as outlined in this application can
-    be achieved with $100,000. In the above question, PLEASE LIST AT LEAST TWO
-    MAJOR BARRIERS/CHALLENGES YOU ANTICIPATE. WHAT IS YOUR STRATEGY FOR ENSURING
-    A SUCCESSFUL IMPLEMENTATION? we address our strategic tactics for meeting
-    the challenges of any potential cost increases related to overwhelming
-    demand.
-  budget: "ART CITY LA will use the $100,000 budget in the following ways:\r\n\r\nProduction: $30,000 for 15 months work ($4.68.75 x 64 weeks from beginning of Oct. 2015 to end of Dec 2015)\r\n\r\nAmbassadors: $10,000 ($200 x 50 weeks)\r\n\r\nVenues: $17,400\r\n\r\nAs venue size increases we expect to pay more in this sequence:\r\nFirst quarter: $200 x 12 = $2,400\r\nSecond quarter: $300 x 13 = $3,900\r\nThird quarter: $400 x 14 = $5,600\r\nFourth quarter: $500 x 11 = $5,500\r\n\r\nFood: $20,000 for snacks such as nuts, dried fruit, pretzels, candy, etc. (supplemented by sponsors)\r\n\r\nCatering: $17,000, includes:\r\n-Two beverage servers \r\n-Bottled water (approx. 525 cases)\r\n-Miscellaneous: Ice, Napkins, and Glasses (plastic tumblers)\r\n\r\nBeverages:\r\n\r\nEach event will serve:\r\n\r\n-Bottled water (supplied by caterer)\r\n\r\n-One beer brand (to be sponsored)\r\n\r\n-One wine brand (to be sponsored)\r\n\r\n-Potentially one vodka or similar brand (to be sponsored, including mixers, etc.)\r\n\r\n-One healthy beverage brand (to be sponsored)\r\n\r\nEach attendee will receive two drinks tickets.\r\n\r\nUsing Eventbrite will help gauge food & beverage needs in advance.\r\n\r\nPrinting: $500, includes:\r\n-10,000 “monthly event schedule” postcards (775 cards per month from Dec. 2014 through Dec. 2015)\r\n-6000 “event of the week” postcards (125 per week from January 2015 through Dec. 2015)\r\n\r\n-Event assistant (attendee check-in): $2,500 ($50 x 50 weeks)\r\n\r\n-Photographer: $2,500 ($50 x 50 weeks)\r\n\r\nTotal costs: $99,900\r\n\r\nWe will work to have as much of the all costs sponsored, bartered or discounted as possible."
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_network: '1'
-  resources_research: '0'
-maker_answers_list:
-  - name: city_state
-    label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
-    answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: NextStage Agency
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
-    answer: NextStageAgency.com
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: ArtCityLA
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: facebook.com/ArtCityLA
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: ''
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: '11458 Biona Drive, Los Angeles, CA 90066'
-  - name: org_ein
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '471442024'
-  - name: org_nonprofit
-    label: Nonprofit organization
-    explanation: ''
-    answer: '0'
-  - name: org_forprofit
-    label: For-profit organization
-    explanation: ''
-    answer: '1'
-  - name: org_government
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '1'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '0'
-  - name: describe_organization
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      NextStage Agency produces programs, events and campaigns that enhance the
-      quality of people’s lives through art, creativity and culture.
-  - name: one_sentence_project
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      ART CITY LA is a year-round citywide cultural program showcasing Los
-      Angeles as the Creative Capital of California and the Nation.
-  - name: describe_idea
-    label: ''
-    explanation: >-
-      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
-      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
-      have such an awesome project! Please vote for @GoldhirshFdn here!'
-    answer: >-
-      @ArtCityLA is a year-round celebration of Art, Creativity & Culture
-      showcasing LA as the creative capital of CA and the nation.
-  - name: all_county
-    label: Yes (benefits all of LA County)
-    explanation: ''
-    answer: '0'
-  - name: region_county
-    label: ''
-    explanation: Yes (benefits a region of LA County)
-    answer: '1'
-  - name: population_county
-    label: ''
-    explanation: Yes (benefits a population of LA County)
-    answer: '0'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '1'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '0'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '0'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '0'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '0'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '0'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: "Launching Wed., Jan. 7 to kick-off LA Arts Month (and held every Wed thereafter), ART CITY LA is a high-profile branding and marketing campaign spotlighting LA’s creative assets to spur economic growth, cultural tourism, and recognition as a premier destination of inspiration.\r\n\r\nWith an eclectic blend of talks, performance, and networking, ART CITY LA is where LA's art, creativity and culture comes alive across 50 weekly events curated by The City’s top artists, designers, innovators, and tastemakers at notable venues around the city, one representing a massive crowdsourced “Best Of” sampling of LA’s creative culture branded and marketed in ways that encourage the exploration and appreciation of every facet of The City as a work of art."
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "ART CITY LA will be implemented in the following ways:\r\n\r\nOct 2014:\r\n1) Design & confirm mar-com materials (logo, graphics, copy, ads, etc.)\r\n2) Launch ArtCity.LA website & connected social media channels including Facebook (facebook.com/ArtCityLA) & Twitter (twitter.com/ArtCityLA)\r\n3) Write & distribute press release announcement to local media\r\n4) Work with program collaborators to identify & invite 200 recommended LA creatives to submit interest in being one of 50 ART CITY LA Ambassadors\r\n5) Launch citywide call for Ambassadors through all possible channels inviting qualified LA creatives to submit interest as well\r\n6) Work with program collaborators to identify & invite 200 recommended LA venues to submit interest in becoming one of 50 ART CITY LA Venues\r\n7) Launch citywide call for Venues through all possible channels inviting qualified LA venues to submit interest as well.\r\n\r\n-#4, #5, #6 & #7 will ignite a great deal of pre-program publicity & buzz throughout the LA creative community & beyond.\r\n\r\n-Ambassador & Venue invitations outline the program & terms of involvement including pre & day-of event responsibilities (Ambassador: ongoing social media promotion, 2-hr appearance with 30-min presentation & bringing 25+ guests. Venue: ongoing social media promotion and hosting of 3-hr event) & require statement of commitment & intent.\r\n\r\n8) Establish weekly event program itinerary & run-of-show\r\n9) Identify & invite local & national brands to participate as sponsors\r\n10) Identify & invite local food & beverage vendors for each weekly event\r\n\r\nNov 2014:\r\n1) Choose, schedule & confirm all 50 ART CITY Ambassadors & Venues\r\n2) Confirm budget allocations\r\n3) Design & place advertisements in local & national media (starting Dec. 2014)\r\n4) Write & distribute press release announcement (2015 schedule/kick-off)\r\n5) Choose & confirm local & national brands as sponsors\r\n6) Choose & confirm local food & beverage vendors\r\n\r\nDec 2014:\r\n1) Post official 2015 schedule & kick-off info on ArtCity.LA & connected social media channels\r\n2) Launch advertisements in local & national media\r\n3) Design & distribute printed invites to Ambassadors, Venues & citywide locations\r\n4) Send email announcement to various lists\r\n5) Confirm January Ambassadors, Venues & special guests & execute launch day rehearsal\r\n6) Launch opening night on Wed., Jan. 7 to kick-off LA Arts Month"
-  - name: impact_create
-    label: ''
-    explanation: ''
-    answer: "ART CITY LA is an open invitation to a multi-sector coalition of creative workers, venues, partners, neighborhoods, cultures, and sponsors to come together to champion the value of LA’s creative economy and take action to foster this important force of societal advancement. \r\n\r\nART CITY LA offers the LA creative community and general public a welcoming platform for more of the expression and recognition it deserves by connecting the widest possible mix of artists, partners, venues, neighborhoods, and cultures in a participatory activation involving LA’s vast number and disciplinary array of creatives and the broad range of industries and communities in which they work.\r\n\r\nART CITY LA will help stimulate the creative economy, cultural tourism, and an international reputation by increasing awareness and support the numerous and diverse industries and creative workers that comprise LA's creative economy, inspiring a citywide activation for the advancement of the arts and economy, and ultimately, helping stimulate innovation and create jobs, as well as social and cultural benefits, by way of creative education and professions.\r\n\r\nShining a light on LA’s vibrant arts community to both locals and national and international visitors, ART CITY LA will recognize Los Angeles’ status as America’s Artist Super City in a way that amplifies the financial and social impact of its creative industries and practitioners and promotes creativity as fundamental to economic growth and prosperity.\r\n\r\nART CITY LA will market “Art City” as a slogan/motto that identifies LA as The Creative Capital of California and the Nation, one that says LA is a dynamic place to create, live, work, learn, and connect and speaks volumes about it as a great, livable, thriving center of art, creativity, and culture.\r\n\r\nART CITY LA will act as an educationally-oriented opportunity for all cultures and communities to access and gain entry into the full range of creative industries as a vocation, one that promotes the premise that creativity is an essential ingredient to a successful workforce and justifies increased emphasis on creative economy career paths through technical and university institutions. \r\n\r\nART CITY LA will provide a much-needed voice for young and emerging artists and their constituents to gain additional exposure outside of more traditional methods and help them build careers and livelihoods across for-profit, nonprofit, public and community arenas."
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "Furthering the work of institutions such as LA 2050, LA Economic Development Corporation, LA Department of Cultural Affairs, LA County Arts Commission, LA N’Sync, LA Coalition for the Economy & Jobs, and others, ART CITY LA will involve LA’s vast number and disciplinary array of creatives and the broad range of industries and communities in which they work. \r\n\r\nA big-picture solution with exponential potential, ART CITY LA constitutes the ultimate mash-up of artists, entrepreneurs, brands, venues, neighborhoods, cultures, companies, investors, and institutions–all connected by a common goal of making LA a globally recognized center of creative excellence.\r\n\r\nART CITY LA embodies the very attributes of urbanism and the very nature of art and creativity. The arts have a special role in providing inspiration to all people. Therefore, ART CITY LA recognizes that it is not only artists and those involved in the creative economy that are creative but that creativity can come from anyone who addresses issues in an inventive way. Grounded in the philosophy that we can all make the extraordinary happen if given the chance, ART CITY LA is a place where everyone can express their potential which is harnessed and promoted for the common good. When these expressions combine, they create an innovation ecosystem–a synergistic relationship between people and place that facilitates idea generation and accelerates commercialization.\r\n\r\nART CITY LA specifically presents a special opportunity for 50 Ambassadors and Venues to further their work as thought-leaders dedicated to strengthening LA’s creative brand. Being chosen is recognition of individual creativity and support of the local creative community. Not only is this a chance to spotlight their unique talents, ideas and contributions, it is also where they can help shape the things that make LA such a desirable place to be. For LA, this is a way to publicly thank and promote those entrepreneurs who are helping it move up the value chain of global competitiveness by growing the jobs, firms and networks that drive broad-based prosperity.\r\n\r\nAltogether, ART CITY LA is an inclusive bridge-building and networking platform that encourages the broad cross-sector partnerships that are crucial to generating momentum and support for the creative economy, one that engenders the kind of open innovation that can forge new and more extensive relationships and collaborations and strengthen LA’s position as America's Artist SuperCity."
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "In the collaborative spirit of the LA2050 Grant Challenge, ART CITY LA has been designed to support the shared mission of the CREATE Category through a true “Crowdsourced LA” production enabling all those dedicated to enhancing LA’s status as world leader in media, arts, and the creative industries to work cooperatively to achieve a common goal. \r\n\r\nThis kind of collaboration goes to the heart of what creativity is all about. Like jazz, often heralded as the epitome of complex collaborative practice, ART CITY LA is a synergistic, wise, resonant, and connected way to share ideas, pool resources, mobilize assets, and tap greater sources of intelligence to spur productive, inclusive, and sustainable economic development.\r\n\r\nWith this in mind, ART CITY LA has initiated conversations with key players such as LA's Cultural Affairs Department, LAEDC, and Center for Cultural Innovation to invite their involvement in this strategic alliance, communicating how ART CITY LA supports their work and that we are all on the same team. The response has been positive:\r\n\r\n“I am thrilled to see what you have produced. You have our total support on what you are doing as this is exactly what we want to see happen here in LA.” -Amy Amsterdam, Innovate in Los Angeles\r\n\r\n“Your proposal looks very strong and shows clearly the details of the program. I'm sorry we could not participate as a direct partner in the application, but the project is a wonderful idea. Our new GM who started yesterday very much likes it, and as you note, we should discuss this further and see how we can assist.\" -Andrew Kasdin, DCA\r\n\r\n“You have a great idea to excite LA's community through showcasing local artists. As you astutely observed, this is also one of the aims of CCI. Unfortunately, with such short lead time, it would be difficult to get involved on our end. I wish you success in finding an institutional partner and hope you'll keep us updated on your progress. If your project is awarded, let me know as that may provide another opportunity for partnership in promoting your program far and wide.” -Angie Kim, Center for Cultural Innovation\r\n\r\nThese encouraging comments attest to a strong interest in the value of a global program such as ART CITY LA, which if chosen as an LA2050 Grant Challenge winner will offer these institutions and others full opportunity to participate in empowering LA County residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity."
-  - name: metrics_create_employment
-    label: Employment in creative industries
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_arts
-    label: Arts establishments per capita
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_manufacturing
-    label: Concentration of manufacturing activity in LA
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_researchgrant
-    label: Federal research grant funding
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_patents
-    label: Patents per capita
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_jbs
-    label: Jobs per capita
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_minoritywomenowned
-    label: Minority- and women-owned firms
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_gini
-    label: Gini coefficient
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_startups
-    label: Number of high-growth startups
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_venturecapital
-    label: Venture capital investment
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_influencers
-    label: >-
-      Measures of cultural and global economic influence (“soft power”) (Dream
-      Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_recruitingrates
-    label: >-
-      Recruiting and retention rates at local higher education institutions
-      (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_graduates
-    label: >-
-      Percentage of graduates from local higher education institutions that
-      remain in LA County 5 years after graduating (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_unemployment
-    label: >-
-      Unemployment rates (and opportunities) for the formerly incarcerated
-      (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_other
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "Strategically targeting the key metrics listed above, ART CITY LA is a program designed to not only make an impact on the creative bottom line in 2015 but one that continues to do so through 2050. This impact is measured by both qualitative and quantitative evaluations in the lives of LA citizens, a Quality of Life (QOL) made up of a wide range of factors that speak to a new definition of urban development that embraces the full range of social, economic, environmental and civic dimensions of cities and confirms research demonstrating that it is not successful economies that are a prerequisite for QOL but that QOL is prerequisite for successful economies.\r\n\r\nHere, ART CITY LA’s high-quality programming promises a long-term solution for creating the social currency that is so important to the fabric and health of the communities in which people want to live, work and lead meaningful lives. This new economy equation elevates the primacy of social capital to LA’s status as a creative capital to reveal a natural symbiosis between greater creative industry employment, more thriving arts establishments, increased cultural tourism and higher degrees of global influence and prestige and the flourishing of those high-touch, human-centered, experiential lifestyle essentials which contribute to social progress in more holistic and psychological terms than only the economic indicator of gross domestic product (GDP). \r\n\r\nSuch a creative blending of hard and soft attributes is not only central to defining, honoring and preserving LA’s local identity, it also sets the stage for what the good life is really all about. But this can’t be achieved through slogans and advertising alone. While branding and marketing play an important role, they will ring hollow and fall short unless indigenously cultivated from the grassroots up. By simultaneously promoting LA’s creative brand while strengthening its creative community, ART CITY LA’s year-round festival of showcase events offers LA a balanced solution for increasing exposure, employment, revenue, tourism, publicity, social engagement, civic pride, and good times for all. As a result, LA can expect that more creative people will vacation and relocate here, more creative companies will base themselves here, and more of its creative talent pool will stay here. The total effect is guaranteed to ignite the socio-economic growth so necessary to the metrics of every LA2050 category and the quality of life of all Angeleno’s."
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '1'
-  - name: healthiest_place_to_live
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '1'
-  - name: evaluate
-    label: ''
-    explanation: ''
-    answer: "As a year-long special event series, the success of ART CITY LA requires careful planning, execution and diligence, one guided by a strategic plan that provides a blueprint describing clearly defined strategies, goals, opportunities, and directions as well as the use of key tools to effectively measure and strengthen its activities, address areas for improvement, and move the program forward to new accomplishments.\r\n\r\nData capture will be crucial for big-picture assessment as well as for the all-important advance, and ongoing, processes involved. At the end of the day, every event is all about numbers. Data will help us evaluate each event after its conclusion and make adjustments for the next. Data will also play a major role in how ART CITY LA calculates its impact on CREATE category metrics and its overall Return On Investment (ROI).\r\n\r\nEinstein said: “Everything that can be counted does not necessarily count; everything that counts cannot necessarily be counted.” This holds true for ART CITY LA’s ROI, which as discussed in HOW WILL YOUR PROJECT IMPACT THE LA2050 \"CREATE\" METRICS? comprises both a hard metric and soft metric to form a far more powerful and accurate way to measure performance that encompasses return on objectives, impression, engagement, awareness, and opportunity, all of which will enable ART CITY LA to prove campaign impact when it’s not possible or feasible to tie them directly to sales.\r\n\r\nSpecifically, ART CITY LA will measure success through these seven metrics:\r\n1.\tParticipant feedback\r\n2.\tAttendee satisfaction\r\n3.\tMedia mentions and publicity\r\n4.\tSocial Media friends/fans/followers\r\n5.\tEvent attendance (type, amount, quality)\r\n6.\tAbility to get LA 2050 CREATE messages across\r\n7.\tEconomic impact: business leads/increased sales/return customers\r\n\r\nIn addition to social tools such as Facebook and Twitter, ART CITY LA will use two key online solutions for this evaluation:\r\n\r\n1) Eventbrite.com offers everything we need to promote our events, collect and manage registrations, manage event entry, track attendance, and collect names and email addresses.\r\n\r\n2) Neighborland will be potentially integrated into the ArtCity.LA website to provide powerful engagement and collaborative capabilities that enable us to generate the kind of connectivity, networking, crowdsourcing, and relationship-building that spreads awareness, guides breakthroughs and accelerates possibilities. Please visit http://neighborland.com for more details."
-  - name: two_lessons
-    label: ''
-    explanation: ''
-    answer: "The two lessons informing ART CITY LA draw on insights from key initiatives and reports such as Los Angeles: America’s Artist SuperCity, The Otis Report on the Creative Economy of the Los Angeles Region, LA CREATES: Supporting the Creative Economy in Los Angeles, and Innovate Los Angeles. All make clear the profound importance of the creative industries to our region’s economic health and suggest a variety of recommendations for developing them in order to create a high quality of life for all Angeleno’s.\r\n\r\nART CITY LA offers a creative, strategic, comprehensive, and integrated solution to these goals and challenges. There have now been enough panels convened, reports written, evidence gathered, and arguments made for supporting, promoting, and growing LA’s creative sector. Now it is time to take the next step and put an activation in motion that embodies the essence of art and creativity and captures the imagination and participatory energy of the widest audience in the most efficient and ingenious ways, one that implements a balanced engagement process through a combination of online and offline efforts that leverage the creative community’s input and involves diverse groups of people through experiences that educate, elevate, and inspire; one that is:\r\n\r\n1)  Event-driven: Live events are essential for bringing people together in meaningful face-to-face encounters that create the kind of emotional experiences that empower learning, community, networking, and bridge-building. Yet, it is clear that another festival or conference is not enough to create the conditions that can make creativity a powerful new connective tissue with long-lasting effects. What is needed is:\r\n\r\n2) Consistency–the only way to activate the sheer amount and wide array of people, cultures, neighborhoods, venues, and communities and make the type of impact required. ART CITY LA’s year-round citywide program is based on the understanding that consistent networking activity is a fundamental, continuing function of any future creative economy support system. Highlighting the middle of the week, ART CITY LA’s ongoing Wednesday night series becomes \"Art’s Night Out\" – a special ritual that grounds people in regularity, giving them a sense of belonging and identifying with the familiar and known, something stable and predictable yet with the chance for change and choice, one with a high-level of social engagement that encourages them to give back and take responsibility for their city."
-  - name: achievable_goal
-    label: ''
-    explanation: ''
-    answer: "ART CITY LA is achievable because:\r\n\r\n1) It is a multi-level solution based on 30 years of experience in the arts, entertainment, communications, media, interactive, and live events world. It is predicated on the vision that the best way to impact the CREATE metrics is to stimulate the creative economy and the best way to do this is generating exposure for LA as a creative city and the best way to achieve that is through an integrated approach that is one part community cultural development and one part creative marketing.\r\n\r\n2) It has a meticulous plan of strategic implementation that outlines every facet of the program execution including marketing, PR, event design, production and management, venue assessment, staging, AV, booking, vendors, staff, talent, schedules, budget, and reporting. Please see our answer to WHAT WILL YOU DO TO IMPLEMENT THIS IDEA/PROJECT? which enumerates a three-month step-by-step ramp-up phase.\r\n\r\n3) It is guided by an experienced creative leader who has spearheaded and helped guide a diverse spectrum of productions and campaigns for global brands and renowned artists, designers, authors, educators, and scientists, as well as being the force behind numerous independent arts and cultural events, projects and programs.\r\n\r\n4) Marketing LA as The Creative Capital of California and the Nation, the Art City LA brand is a promise of what LA offers and what it aspires to be, one that establishes a strong civic identity, helping outsiders recognize LA and attract people to it while building community unity and promoting civic pride.\r\n\r\n5) Headlined by the tastemakers who give LA its creative personality, ART CITY LA will establish a new tradition that strengthens and nurtures the collaborative culture of the city in ways that can change perceptions significantly and built connections that lead to increased cross-sector innovation.\r\n\r\n6) In contrast to piecemeal solutions comprising just one or two organizations, ART CITY LA embraces mass collaboration as a true “Crowdsourced LA” production involving 50 ambassadors, 50 venues and multiple partners working together for a common cause and part of a larger whole. The combined effect casts a wider net for an impact that is greater than the sum of its parts. The more people activated, the more the word spreads and the more free publicity LA receives. Altogether, ART CITY LA offers more “bang for the buck” to do more with $100,000 to enliven an entire city than any other project can."
-  - name: major_challenges
-    label: ''
-    explanation: ''
-    answer: "ART CITY LA anticipates two potential challenges:\r\n\r\n1) Weekly events will become so popular that attendance increases rapidly and outpaces the capacity of scheduled venues.\r\n\r\n2) As attendance increases, so do food, beverage, and staff costs.\r\n\r\nThere are a number of reasons these events will be popular:\r\n-They will take place on Wednesday evenings\r\n-They are free and offer free food and beverages\r\n-They are artistic, innovative, hip, creative, and cool\r\n-They will involved a wide variety of strategic alliances\r\n-They will be promoted using powerful viral marketing techniques\r\n\r\nTherefore, if we conservatively anticipate a minimum of 50 attendees for week one, and as a result of exponential growth from a combination of continued advertising/marketing, return customers, positive word-of-mouth, etc., can reasonably expect attendance to increase in gradual increments with each successive week by an average of 10 people, then we should have 540 attendees by week 50 and a yearly total of 14,750. If attendance increases by 15 people each week, that yearly total increases to 20,880.\r\n\r\nConcurrently, the more attendees, the more food, beverages, and staff will be required, thereby utilizing a larger portion of the budget than anticipated or feasible.\r\n\r\nThese challenges can be prevented/resolved by:\r\n1) Booking larger and larger venues for each successful month in quarterly fashion, making jumps in capacity from 50-200 (first quarter) to 200-350 (second quarter) to 350-500 (third quarter) to 500+ (fourth quarter). This approach gives us sufficient time for advance planning yet offers flexibility if we underestimate or overestimate demand. \r\n2) Careful monitoring of attendance trends\r\n3) Requiring RSVP’s to provide an estimated attendee count using Eventbrite, an online tool for collecting and managing registrations and tracking attendance. Though not 100% accurate because these free and frequent events entail a less binding commitment, RSVP’s (which do not guarantee entry but is by a first come, first serve basis) will give us a relatively accurate sense of tracking potential increased or decreased attendance. Additionally, a check in table for managing event entry will prevent us from going over venue capacity.\r\n\r\n4) In terms of increased food, beverage, and staffing costs, we will budget accordingly and work to insure generous beverage sponsorship deals.\r\n\r\nOther options to consider:\r\n-Instituting a door charge\r\n-Shifting to a bi-weekly schedule"
-  - name: competition
-    label: ''
-    explanation: ''
-    answer: "Events, performances, and live experiences of all kinds are the lifeblood of LA’s arts, entertainment, nightlife, tourist, and culture industries. Whether theater, lecture, concert, conference, or party, events that bring people together to express, learn, connect, socialize, and celebrate are a prime animator of community and an essential dimension of the creative economy. As a signature event marketing program for a city that thrives on special events, ART CITY LA stands out for its unique combination of all of these.\r\n\r\nMax Ernst said: “Creativity is the marvelous capacity to grasp mutually distinct realities and draw a spark from their juxtaposition” and this perfectly captures the ethos of ART CITY LA, which aims to make links and build bridges and connections that are innovative and far-from-the-norm. This creativity involves the dissolution of old forms into new ones where elements recombine into a higher synthesis. This reintegration is a key part of what we call art. The Indo-European root word for art is ar which means “to fit together.” It is by weaving together that art becomes the creative and integrative process it is.\r\n\r\nCreativity flourishes when we place ourselves in interactive situations with different environments and people. In this spirit, ART CITY LA provides a dynamic platform that brings LA’s most creative people, ideas, resources, capacities, and activities together into new synergies that can shape and empower both individual and society. It represents an effort to grow LA’s creative community through a vibrant events series capable of offering the kind of connectivity, networking, crowdsourcing, and bridge-building that is vital to the broad cross-sector partnerships that are crucial to generating momentum and support for the creative industries.\r\n\r\nThrough a consistent schedule of high-quality gatherings where creative leaders can speak out from their unique perspective and industry, ART CITY LA will not only help to forge more extensive relationships and collaborations across sectors, mediums and disciplines, but also empower citizens of all types to participate more directly in LA as a creative city and contribute to its flourishing.\r\n\r\nIn this scenario, a new social currency emerges that enhances LA’s networking capacity and makes it an accelerator of opportunities, the kind that can help it tap its most important resource – its people: their cleverness, ingenuity, aspirations, motivations, imagination and creativity."
-  - name: cost
-    label: ''
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: >-
-      We estimate that the ART CITY LA program as outlined in this application
-      can be achieved with $100,000. In the above question, PLEASE LIST AT LEAST
-      TWO MAJOR BARRIERS/CHALLENGES YOU ANTICIPATE. WHAT IS YOUR STRATEGY FOR
-      ENSURING A SUCCESSFUL IMPLEMENTATION? we address our strategic tactics for
-      meeting the challenges of any potential cost increases related to
-      overwhelming demand.
-  - name: budget
-    label: ''
-    explanation: ''
-    answer: "ART CITY LA will use the $100,000 budget in the following ways:\r\n\r\nProduction: $30,000 for 15 months work ($4.68.75 x 64 weeks from beginning of Oct. 2015 to end of Dec 2015)\r\n\r\nAmbassadors: $10,000 ($200 x 50 weeks)\r\n\r\nVenues: $17,400\r\n\r\nAs venue size increases we expect to pay more in this sequence:\r\nFirst quarter: $200 x 12 = $2,400\r\nSecond quarter: $300 x 13 = $3,900\r\nThird quarter: $400 x 14 = $5,600\r\nFourth quarter: $500 x 11 = $5,500\r\n\r\nFood: $20,000 for snacks such as nuts, dried fruit, pretzels, candy, etc. (supplemented by sponsors)\r\n\r\nCatering: $17,000, includes:\r\n-Two beverage servers \r\n-Bottled water (approx. 525 cases)\r\n-Miscellaneous: Ice, Napkins, and Glasses (plastic tumblers)\r\n\r\nBeverages:\r\n\r\nEach event will serve:\r\n\r\n-Bottled water (supplied by caterer)\r\n\r\n-One beer brand (to be sponsored)\r\n\r\n-One wine brand (to be sponsored)\r\n\r\n-Potentially one vodka or similar brand (to be sponsored, including mixers, etc.)\r\n\r\n-One healthy beverage brand (to be sponsored)\r\n\r\nEach attendee will receive two drinks tickets.\r\n\r\nUsing Eventbrite will help gauge food & beverage needs in advance.\r\n\r\nPrinting: $500, includes:\r\n-10,000 “monthly event schedule” postcards (775 cards per month from Dec. 2014 through Dec. 2015)\r\n-6000 “event of the week” postcards (125 per week from January 2015 through Dec. 2015)\r\n\r\n-Event assistant (attendee check-in): $2,500 ($50 x 50 weeks)\r\n\r\n-Photographer: $2,500 ($50 x 50 weeks)\r\n\r\nTotal costs: $99,900\r\n\r\nWe will work to have as much of the all costs sponsored, bartered or discounted as possible."
-  - name: resources_money
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_staff
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_publicity
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_infrastructure
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_education
-    label: Education/training
-    explanation: ''
-    answer: '0'
-  - name: resources_technical
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_communityoutreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: resources_network
-    label: Network/relationship support
-    explanation: ''
-    answer: '1'
-  - name: resources_research
-    label: Quality improvement research
-    explanation: ''
-    answer: '0'
-body_class: banana
-published: true
 
 ---

@@ -1,36 +1,21 @@
 ---
+published: true
 organization_id: '2016156'
 year_submitted: 2016
-organization_name: National Foster Youth Institute
-organization_website: www.nfyi.org
-ein: ''
-project_image_2: 6395409023741-team88.jpg
+category: connect
+body_class: tangerine
 project_id: '6102163'
+challenge_url: >-
+  https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
 title: 'Foster Youth and Families: Joining Voices for Change'
-organization_name_2: National Foster Youth Institute
-organization_activity: >-
-  NFYI/LA recruits and trains grassroots leaders, works to create new
-  understanding of foster families, and educates policymakers to change how
-  society supports its most vulnerable citizens.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
-project_video: ''
 project_summary: >-
   NFYI is building a social movement in LA, led by foster youth and their
   families, to transform the child welfare system so it WORKS!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: Community Coalition
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Success will be measured by meeting our goals for Leadership Corps recruitment
   and engagement. In addition, success will be measured by the extent to which
@@ -63,6 +48,29 @@ project_impact: >-
   ["Social & emotional support","Government responsiveness to residents’
   needs","Rates of volunteerism","Total number of local social media friends and
   connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Government responsiveness to residents’ needs
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  The foster care system needs to change. Families need support to care for
+  their children, and children need to know that they are safe and loved no
+  matter where they live. The people who know what needs to change are the ones
+  who know the system best. NFYI/LA will recruit and train 100 foster youth and
+  50 family members to advocate with policy makers for new approaches to
+  transform the child welfare system.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   One of the youth in our LA Leadership Corps told us what a difference it would
   have made to her life if she had known that there were places where she could
@@ -100,23 +108,7 @@ project_proposal_best_place: >-
   foundation of our work. By building on this foundation to create a massive
   grassroots movement for change, we can make LA County a model of how to
   transform our country’s child welfare system.
-challenge_url: >-
-  https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
-empty_column_1: ''
-project_proposal_description: >-
-  The foster care system needs to change. Families need support to care for
-  their children, and children need to know that they are safe and loved no
-  matter where they live. The people who know what needs to change are the ones
-  who know the system best. NFYI/LA will recruit and train 100 foster youth and
-  50 family members to advocate with policy makers for new approaches to
-  transform the child welfare system.
-project_proposal_impact:
-  - Social & emotional support
-  - Government responsiveness to residents’ needs
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: National Foster Youth Institute
+organization_website: www.nfyi.org
 
 ---

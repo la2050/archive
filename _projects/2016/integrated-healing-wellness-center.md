@@ -1,31 +1,23 @@
 ---
+published: true
 organization_id: '2016184'
 year_submitted: 2016
-organization_name: Richstone Family Center
-organization_website: RichstoneFamily.org
-ein: '237373745'
-project_image_2: 7962246194741-team91.JPG
+category: live
+body_class: lime
 project_id: '6102198'
+challenge_url: 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'
 title: Integrated Healing & Wellness Center
-organization_name_2: Richstone Family Center
-organization_activity: >-
-  Richstone is dedicated to treating and preventing child abuse and trauma;
-  strengthening and educating families; and preventing violence in families,
-  schools and communties.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
-project_video: 'https://www.youtube.com/embed/4V4Ke8wtZgg?rel=0&amp;showinfo=0'
 project_summary: >-
   Provide healing and hope for victims of child abuse and family violence by
   supporting Richstone's trauma-focused treatment, wellness, and violence
   prevention program.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
+project_video: 'https://www.youtube.com/embed/4V4Ke8wtZgg?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Growing Great, Kinecta Federal Credit Union, Bay Club Athletic Gyms, Level 10
   Fitness, the Jewish Vocational Center
-project_areas:
-  - South LA
-  - South Bay
 project_measure: >-
   The project will enable us to change the life trajectories of an additional
   500 low-income, at-risk and abused children and their families who currently
@@ -73,17 +65,6 @@ project_impact: >-
   access","Self-sufficiency","Obesity","Resilient communities","Residents
   receiving coordinated healthcare services","Prevalence of adverse childhood
   experiences","Mental illness"]
-project_proposal_best_place: "Richstone is seeking support to create an integrated healing and wellness center that provides child abuse crisis and long-term treatment and prevention services for victims and families. This broad spectrum of trauma-focused treatment, wellness, and violence prevention programs will fill a void in our community serving vulnerable, high-need communities in L.A. County’s South Bay and neighboring South L.A. areas. \n\nThrough this project, Richstone addresses the South Bay’s escalating child abuse and health crisis by creating an integrated program that expands Richstone’s existing child abuse and trauma treatment programs and unifies them at a single location with new wellness and prevention programs designed to alleviate the risk factors for future abuse and long-term health risks. \n\n●\tTrauma-Focused Treatment- The project expands Richstone’s existing treatment programs that move children and families out of crisis and down the path of healing. It allows more children to receive specialized help through: Assessments that screen children and adults for exposure to trauma and inform the development of treatment plans that care for the well-being of the whole child;  Individual, Family and Group Therapy using a variety of treatment modalities that are trauma-focused, culturally relevant, responsive and appropriate to the individualized needs of children and families; Home Visits that engage families at home, eliminating barriers to participation such as child care and transportation; Therapeutic Support Groups to help children and adults build resilience, coping skills, problem-solving strategies and conflict resolution techniques to increase self-regulation, reduce stress levels and mitigate behavior that may damage their health and well-being. \n●\tLong-Term Effects Treatment- These programs mitigate the long-term effects of trauma and abuse, enabling children and adults to connect with one another, create a safe and engaged community, and gain skills promoting health and productivity. The project includes integrating new Therapeutic Treatments including play therapy, art therapy and pet therapy; Support Groups and Classes that add mindfulness, and targeted substance abuse rehabilitation to our existing anger management and domestic violence support groups; new Health and Wellness Activities including nutrition, fitness, yoga, Tai Chi, self-defense, financial management classes, vocational assessments and job/life-skills programs. Wellness activities will be led by specialized volunteers from partnering organizations including Bay Club athletic gyms, Growing Great, Kinecta FCU and the Jewish Vocational Center. \n●\tPrevention Programs- These programs provide education that disrupts the cycle of abuse and reduces the likelihood of future violence. The project builds upon our existing teen dating violence/healthy relationships workshops, effective parenting and co-parenting workshops, and youth empowerment/social skills development classes."
-challenge_url: 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'
-empty_column_1: ''
-project_proposal_description: >-
-  Through this project, Richstone will help address our community's escalating
-  child abuse crisis by creating an integrated program that expands Richstone's
-  trauma treatment programs and launches new wellness programs designed to help
-  alleviate the risk factors for future abuse. These new offerings include
-  trauma-focused wellness programs that concentrate on mitigating the long term
-  effects of abuse, and a number of prevention programs to educate the
-  community.
 project_proposal_impact:
   - Access to healthy food
   - Healthcare access
@@ -93,8 +74,19 @@ project_proposal_impact:
   - Residents receiving coordinated healthcare services
   - Prevalence of adverse childhood experiences
   - Mental illness
-category: live
-body_class: lime
-published: true
+project_proposal_description: >-
+  Through this project, Richstone will help address our community's escalating
+  child abuse crisis by creating an integrated program that expands Richstone's
+  trauma treatment programs and launches new wellness programs designed to help
+  alleviate the risk factors for future abuse. These new offerings include
+  trauma-focused wellness programs that concentrate on mitigating the long term
+  effects of abuse, and a number of prevention programs to educate the
+  community.
+project_areas:
+  - South LA
+  - South Bay
+project_proposal_best_place: "Richstone is seeking support to create an integrated healing and wellness center that provides child abuse crisis and long-term treatment and prevention services for victims and families. This broad spectrum of trauma-focused treatment, wellness, and violence prevention programs will fill a void in our community serving vulnerable, high-need communities in L.A. County’s South Bay and neighboring South L.A. areas. \n\nThrough this project, Richstone addresses the South Bay’s escalating child abuse and health crisis by creating an integrated program that expands Richstone’s existing child abuse and trauma treatment programs and unifies them at a single location with new wellness and prevention programs designed to alleviate the risk factors for future abuse and long-term health risks. \n\n●\tTrauma-Focused Treatment- The project expands Richstone’s existing treatment programs that move children and families out of crisis and down the path of healing. It allows more children to receive specialized help through: Assessments that screen children and adults for exposure to trauma and inform the development of treatment plans that care for the well-being of the whole child;  Individual, Family and Group Therapy using a variety of treatment modalities that are trauma-focused, culturally relevant, responsive and appropriate to the individualized needs of children and families; Home Visits that engage families at home, eliminating barriers to participation such as child care and transportation; Therapeutic Support Groups to help children and adults build resilience, coping skills, problem-solving strategies and conflict resolution techniques to increase self-regulation, reduce stress levels and mitigate behavior that may damage their health and well-being. \n●\tLong-Term Effects Treatment- These programs mitigate the long-term effects of trauma and abuse, enabling children and adults to connect with one another, create a safe and engaged community, and gain skills promoting health and productivity. The project includes integrating new Therapeutic Treatments including play therapy, art therapy and pet therapy; Support Groups and Classes that add mindfulness, and targeted substance abuse rehabilitation to our existing anger management and domestic violence support groups; new Health and Wellness Activities including nutrition, fitness, yoga, Tai Chi, self-defense, financial management classes, vocational assessments and job/life-skills programs. Wellness activities will be led by specialized volunteers from partnering organizations including Bay Club athletic gyms, Growing Great, Kinecta FCU and the Jewish Vocational Center. \n●\tPrevention Programs- These programs provide education that disrupts the cycle of abuse and reduces the likelihood of future violence. The project builds upon our existing teen dating violence/healthy relationships workshops, effective parenting and co-parenting workshops, and youth empowerment/social skills development classes."
+organization_name: Richstone Family Center
+organization_website: RichstoneFamily.org
 
 ---

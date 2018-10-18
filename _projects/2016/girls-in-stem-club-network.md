@@ -1,30 +1,20 @@
 ---
+published: true
 organization_id: '2016090'
 year_submitted: 2016
-organization_name: Girls Inc. of Greater Los Angeles
-organization_website: girlsincla.org
-ein: '131915124'
-project_image_2: 4330354165741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102082'
+challenge_url: 'https://challenge.la2050.org/entry/girls-in-stem-club-network'
 title: Girls in STEM Club Network
-organization_name_2: Girls Inc. of Greater Los Angeles
-organization_activity: >-
-  Girls Inc. takes a holistic approach to working with girls to address the
-  challenges they have and empower them through opportunities, programs and
-  mentors.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4330354165741-team91.jpg
-project_video: 'https://www.youtube.com/embed/gLhJdBqKvVA?rel=0&amp;showinfo=0'
 project_summary: >-
   Inspire all girls to be Strong, Smart, and Bold through innovative STEM
   experiences
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4330354165741-team91.jpg
+project_video: 'https://www.youtube.com/embed/gLhJdBqKvVA?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'Columbia Memorial Space Center, Housing Corporation of America, DIY girls'
-project_areas:
-  - East LA
-  - South LA
-  - Gateway Cities
-  - Antelope Valley
 project_measure: >-
   Measuring outcomes is critical to having a real and lasting impact on girls.
   By measuring outcomes for our Strong, Smart, and Bold goals we will see the
@@ -100,6 +90,23 @@ project_description: >-
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Student education pipeline"]
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+project_proposal_description: >-
+  Our collaboration between Girls Inc. LA, the Columbia Memorial Space Center,
+  DIY Girls, and the Housing Corporation of America will establish a network of
+  Girls in STEM Clubs in under-resourced locations to provide mentor
+  opportunities, skills and tools to be successful in school and life through
+  programs where they live. Each Club will be based in the girls’ own
+  communities, giving them a sense of belonging and pride. With women making up
+  29% of the STEM workforce, the program will set a founda
+project_areas:
+  - East LA
+  - South LA
+  - Gateway Cities
+  - Antelope Valley
 project_proposal_best_place: >-
   Our collaborative approach capitalizes on the resources of established
   girl-centered organizations and STEM-focused organizations to deliver
@@ -126,22 +133,7 @@ project_proposal_best_place: >-
   skills will grow and continue into the future. Those graduates who have
   practical and relevant STEM precepts embedded into their educational
   experiences will be in high demand in all job sectors.
-challenge_url: 'https://challenge.la2050.org/entry/girls-in-stem-club-network'
-empty_column_1: ''
-project_proposal_description: >-
-  Our collaboration between Girls Inc. LA, the Columbia Memorial Space Center,
-  DIY Girls, and the Housing Corporation of America will establish a network of
-  Girls in STEM Clubs in under-resourced locations to provide mentor
-  opportunities, skills and tools to be successful in school and life through
-  programs where they live. Each Club will be based in the girls’ own
-  communities, giving them a sense of belonging and pride. With women making up
-  29% of the STEM workforce, the program will set a founda
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: Girls Inc. of Greater Los Angeles
+organization_website: girlsincla.org
 
 ---

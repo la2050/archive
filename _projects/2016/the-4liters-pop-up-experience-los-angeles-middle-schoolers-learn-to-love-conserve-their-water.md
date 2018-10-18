@@ -1,33 +1,24 @@
 ---
+published: true
 organization_id: '2016064'
 year_submitted: 2016
-organization_name: DIGDEEP Water
-organization_website: www.digdeep.org
-ein: ''
-project_image_2: 5522525955741-team91.png
+category: learn
+body_class: blueberry
 project_id: '6102060'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-4liters-pop-up-experience-los-angeles-middle-schoolers-learn-to-love-conserve-their-water
 title: >-
   The 4Liters Pop-Up Experience: Los Angeles Middle Schoolers Learn To Love &
   Conserve Their Water
-organization_name_2: DIGDEEP Water
-organization_activity: >-
-  DIGDEEP is a human rights non-profit making clean water more available and
-  more sustainable in every community.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
-project_video: ''
 project_summary: >-
   The 4Liters Pop-Up is a flexible, multi-disciplinary learning experience
   designed to help middle school students in Los Angeles better understand and
   protect their local and state water resources.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: 'Girls Athletic Leadership School (G.A.L.S.), LAUSD Beyond The Bell'
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - County of Los Angeles
-  - LAUSD
 project_measure: >-
   We will define and measure the success of this project through the following
   metrics:
@@ -55,6 +46,23 @@ project_description: >-
   help students explore fundamental concepts about water conservation both
   locally and beyond their communities.
 project_impact: '["Student education pipeline"]'
+project_proposal_impact:
+  - Student education pipeline
+project_proposal_description: >-
+  DIGDEEP Water would like to create a temporary exhibit, coined the '4Liters
+  Pop-Up Experience' for a hands-on-learning experience with middle school
+  students in Los Angeles. 
+
+
+  The 4Liters Pop-Up Experience includes several interactive displays that will
+  help students explore fundamental concepts about water conservation both
+  locally and beyond their communities.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - County of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   In 2010, Xylem (a water technology company) released its Value of Water Index
   examining American attitudes toward water. The survey revealed that 69% of
@@ -79,22 +87,7 @@ project_proposal_best_place: >-
   leader in conservation, technology and entertainment. Taken together, these
   strengths and weaknesses make Los Angeles an ideal place for innovation in
   water education.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-4liters-pop-up-experience-los-angeles-middle-schoolers-learn-to-love-conserve-their-water
-empty_column_1: ''
-project_proposal_description: >-
-  DIGDEEP Water would like to create a temporary exhibit, coined the '4Liters
-  Pop-Up Experience' for a hands-on-learning experience with middle school
-  students in Los Angeles. 
-
-
-  The 4Liters Pop-Up Experience includes several interactive displays that will
-  help students explore fundamental concepts about water conservation both
-  locally and beyond their communities.
-project_proposal_impact:
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: DIGDEEP Water
+organization_website: www.digdeep.org
 
 ---

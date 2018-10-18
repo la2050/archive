@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016087'
 year_submitted: 2016
-organization_name: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
-organization_website: www.seejane.org
-ein: ''
-project_image_2: 8697450355741-team90.jpg
+category: create
+body_class: banana
 project_id: '6102078'
+challenge_url: >-
+  https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
 title: >-
   If She Can See It, She Can Be It: Empowering Girls & Creating a
   Gender-Balanced Media Landscape 
-organization_name_2: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
-organization_activity: >-
-  The Geena Davis Institute on Gender in Media is the only research-based
-  organization working from within the entertainment industry to improve gender
-  balance in media and empower women and girls.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
-project_video: 'https://www.youtube.com/embed/BumIt2pIRuw?rel=0&amp;showinfo=0'
 project_summary: >-
   The Geena Davis Institute will invite 50 young women to participate in its See
   Jane Salons, fostering future female entertainment leaders and empowering
   girls in LA around issues of gender in media.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
+project_video: 'https://www.youtube.com/embed/BumIt2pIRuw?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   GDIGM aims to:
 
@@ -82,6 +76,20 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Minority- and
   women-owned firms"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Minority- and women-owned firms
+project_proposal_description: >-
+  The Institute’s quarterly See Jane Salon Series engages industry professionals
+  and corporate influencers in discussions on achieving gender equity in media.
+  This project will expand and enhance the 2017 series with scholarships for 50
+  girls, ages 13-18, from across LA to join the conversation and connect with
+  mentors in the industry. The program will empower girls around issues of
+  gender in media, foster future female entertainment leaders, and help create a
+  more gender-balanced media landscape.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   In LA County, the entertainment industry creates approximately 239,000 jobs
   yielding over $20 billion in labor income annually. However, for women in the
@@ -134,23 +142,7 @@ project_proposal_best_place: >-
   equality in media and inspire their participation in the field, enriching the
   Institute’s efforts to create more opportunities for female employment in the
   industry, as well as female-led projects, businesses, and arts establishments.
-challenge_url: >-
-  https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
-empty_column_1: ''
-project_proposal_description: >-
-  The Institute’s quarterly See Jane Salon Series engages industry professionals
-  and corporate influencers in discussions on achieving gender equity in media.
-  This project will expand and enhance the 2017 series with scholarships for 50
-  girls, ages 13-18, from across LA to join the conversation and connect with
-  mentors in the industry. The program will empower girls around issues of
-  gender in media, foster future female entertainment leaders, and help create a
-  more gender-balanced media landscape.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Minority- and women-owned firms
-category: create
-body_class: banana
-published: true
+organization_name: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
+organization_website: www.seejane.org
 
 ---

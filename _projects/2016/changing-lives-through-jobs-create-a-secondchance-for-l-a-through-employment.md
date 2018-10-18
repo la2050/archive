@@ -1,29 +1,23 @@
 ---
+published: true
 organization_id: '2016037'
 year_submitted: 2016
-organization_name: Chrysalis
-organization_website: changelives.org
-ein: ''
-project_image_2: 1107194355741-team88.jpg
+category: create
+body_class: banana
 project_id: '6102036'
+challenge_url: >-
+  https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
 title: >-
   Changing Lives Through Jobs: Create a #SecondChance for L.A. through
   employment 
-organization_name_2: Chrysalis
-organization_activity: >-
-  Chrysalis’ mission is to create a pathway to self-sufficiency for homeless and
-  low-income individuals by providing the resources and support needed to find
-  and retain employment.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
-project_video: 'https://www.youtube.com/embed/9fQj9v92GS4?rel=0&amp;showinfo=0'
 project_summary: >-
   With your support, Chrysalis will provide a second chance for 400 additional
   formerly incarcerated individuals by expanding its transitional jobs program.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
+project_video: 'https://www.youtube.com/embed/9fQj9v92GS4?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   A steady job is a key step to a person’s transition out of poverty and onto a
   pathway to self-sufficiency. For this project, we define success as helping
@@ -68,6 +62,20 @@ project_description: >-
 project_impact: >-
   ["Gini coefficient","Jobs per capita","Unemployment (and opportunities) for
   the formerly incarcerated"]
+project_proposal_impact:
+  - Gini coefficient
+  - Jobs per capita
+  - Unemployment (and opportunities) for the formerly incarcerated
+project_proposal_description: >-
+  Chrysalis is the leading organization in L.A. focused on helping formerly
+  incarcerated individuals attain self-sufficiency through work.  Each year,
+  through classes, supportive services, and our social enterprise “Chrysalis
+  Enterprises” (CE), we provide comprehensive job readiness training and
+  employment for over 600 participants in transitional jobs. We offer these
+  motivated individuals, 73% of whom have a criminal background, a second chance
+  in life when they need it most.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   Over 60% of formerly incarcerated individuals are unemployed one year after
   release. Through this project, Chrysalis will help CREATE opportunities for
@@ -116,23 +124,7 @@ project_proposal_best_place: >-
   dignity, and creates better physical and mental health, while also setting in
   motion changes that have positive ripple effects on families, communities, and
   society.
-challenge_url: >-
-  https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
-empty_column_1: ''
-project_proposal_description: >-
-  Chrysalis is the leading organization in L.A. focused on helping formerly
-  incarcerated individuals attain self-sufficiency through work.  Each year,
-  through classes, supportive services, and our social enterprise “Chrysalis
-  Enterprises” (CE), we provide comprehensive job readiness training and
-  employment for over 600 participants in transitional jobs. We offer these
-  motivated individuals, 73% of whom have a criminal background, a second chance
-  in life when they need it most.
-project_proposal_impact:
-  - Gini coefficient
-  - Jobs per capita
-  - Unemployment (and opportunities) for the formerly incarcerated
-category: create
-body_class: banana
-published: true
+organization_name: Chrysalis
+organization_website: changelives.org
 
 ---

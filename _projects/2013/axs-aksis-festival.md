@@ -1,9 +1,13 @@
 ---
+published: true
 organization_id: '2013152'
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
+year_submitted: 2013
+indicator: Arts & Cultural Vitality
+body_class: strawberry
 project_id: '3102214'
 title: AxS aksis Festival
-indicator: Arts & Cultural Vitality
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+maker_answers: {}
 What is your idea and how will it impact your indicator?: >+
   PROPOSED PROJECT:  Planning and development phase of AxS Festival.
 
@@ -322,10 +326,5 @@ What would success look like in the year 2050 regarding your indicator?: >-
   states in terms of per capita spending on arts and culture.  And a 46yearold
   woman who came to the AxS Festival as a fourthgrader is heading up the
   Governor’s task force on arts, culture, science and technology.
-year_submitted: 2013
-maker_answers: {}
-maker_answers_list: []
-body_class: strawberry
-published: true
 
 ---

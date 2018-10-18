@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016121'
 year_submitted: 2016
-organization_name: LA Derby Dolls
-organization_website: derbydolls.com
-ein: ''
-project_image_2: 9914449755741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102120'
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports
 title: >-
   LA Derby Dolls: Promoting Social and Emotional Support Through Women's Team
   Sports
-organization_name_2: LA Derby Dolls
-organization_activity: >-
-  The LA Derby Dolls is a women’s banked track roller derby league and community
-  that promotes women’s empowerment, athletics, and social connectedness.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
-project_video: 'https://www.youtube.com/embed/DLg3R9NTcNc?rel=0&amp;showinfo=0'
 project_summary: >-
   Sustain and grow the Derby Dolls training and competition program as well as
   expand outreach to women who will benefit from the social and emotional
   support inherent in team sport and community.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
+project_video: 'https://www.youtube.com/embed/DLg3R9NTcNc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - East LA
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   In order to be successful in its contribution to LA2050's CONNECT goal, the
   Derby Dolls will need to demonstrate (1) increased program participation by
@@ -74,6 +67,19 @@ project_description: >-
   programs that promote social and emotional support inherent in team sports and
   from a women-focused organization.
 project_impact: '["Social & emotional support","Rates of volunteerism"]'
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+project_proposal_description: >-
+  The LA2050 grant will allow the LA Derby Dolls to make infrastructure
+  improvements to its training and events facility, and increase outreach,
+  ensuring that the organization can continue to offer adult and young women
+  programs that promote social and emotional support inherent in team sports and
+  from a women-focused organization.
+project_areas:
+  - East LA
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   The LA Derby Dolls is an all-volunteer organization that reflects the
   diversity of women throughout Los Angeles. Within the organization,
@@ -113,20 +119,7 @@ project_proposal_best_place: >-
   from. We plan to grow the program's reach to women who do not know that the
   Derby Dolls is available to them and make our space available to a greater
   number of LA women and juniors through the availability of scholarships.
-challenge_url: >-
-  https://challenge.la2050.org/entry/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports
-empty_column_1: ''
-project_proposal_description: >-
-  The LA2050 grant will allow the LA Derby Dolls to make infrastructure
-  improvements to its training and events facility, and increase outreach,
-  ensuring that the organization can continue to offer adult and young women
-  programs that promote social and emotional support inherent in team sports and
-  from a women-focused organization.
-project_proposal_impact:
-  - Social & emotional support
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: LA Derby Dolls
+organization_website: derbydolls.com
 
 ---

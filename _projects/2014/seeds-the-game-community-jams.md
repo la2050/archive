@@ -1,15 +1,103 @@
 ---
+published: true
+organization_id: '2014041'
+year_submitted: 2014
+category: play
+body_class: strawberry
 project_id: '4102089'
 title: 'Seeds the Game: Community Jams'
 project_summary: >-
   Play games, grow food and connect with friends & neighbors! Join @GrowGames
   for a #seedsthegame jam event & play to grow LA!
-category: play
-organization_id: '2014041'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22335%252Fdisplay%252Fvolunteer-photo.jpg=c570x385
 project_video: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
+maker_answers:
+  handle: seeds
+  impact_play: "Los Angeles already has some of the most beautiful parks, gardens, and farmers’ markets in the world.  Our project will get more citizens outside and interacting with the beauty we know is already there, as well as teaming up to create more green spaces and transform problem areas.\r\n\r\nIn the coming year we can improve co-learning and connectedness between people and their environment while beautifying public spaces together through growing food and beneficial plants. We will map food resiliency needs while making it fun for people to grow food together and level up their skills.\r\n\r\nSEEDS the Game is a location-based game for mobile devices that can be played with GPS and data connection. We offer in-game incentives for SEEDS the Game players that are in Los Angeles including advancement in the local Leadership Board and In-Game Achievements that connect people to local actions and gameplay centers such as community and school gardens. Citizens can earn points while volunteering at participating locations or picking up gardening tools through partners that have signed up to be in our SEEDS the Game Partnership Network. \r\n\r\nOur goal is to work with community based organizations, businesses, government and local garden leaders to identify great actions and opportunities to incentivize through gameplay. Over the coming year we expect thousands of players to engage in community volunteerism through Seeds the Game apps.\r\n\r\nNot only is SEEDS the Game beneficial to people but our games also stimulate the economy.  We aim to maken Los Angeles a global innovation leader for technology addressing food/water/climate issues. By 2050, we will have created a dynamic network connecting local organizations and businesses with player/members who are also consumers. Our community will use the most cutting edge technology available to maximize our land and water use, while participants compete to create the most beautiful and inspiring gardens and public spaces.  The market and gameplay are fully integrated and it is easy to see on a map where resources are needed for resiliency, disaster mitigation and food security. \r\n\r\nWe are establishing a safe connection to share real seeds around the world to promote healthy heirloom plants, biodiversity and organic solutions to pest control for our soil and water health. We anticipate a total of 3 Billion downloads by 2050, with participants cooperatively playing with players in every other country on earth.  \r\n"
+  City_State: 'Los Angeles, CA'
+  org_name: 'Grow Games Interactive, Growcology'
+  org_website: www.growgamesinteractive.com
+  org_twitter: twitter.com/growgames
+  org_facebook: 'https://www.facebook.com/growgamesinteractive'
+  org_instagram: instagram.com/growgames
+  org_mailingaddress: "GROW GAMES INTERACTIVE\r\n7130 MAGNOLIA AVE, STE K\r\nRIVERSIDE CA, 92504"
+  org_ein: '463288070'
+  org_nonprofit: '0'
+  org_forprofit: '1'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    Mobile social action games connecting people to the ecosystem: growing food,
+    sharing seeds, integrating gaming with data maps for resiliency
+  one_sentence_org: >-
+    Seeds the Game apps & event series grow food in LA through game design
+    hackathons and garden playtesting across communities & food centers
+  describe_idea: >-
+    Play games, grow food and connect with friends & neighbors! Join @GrowGames
+    for a #seedsthegame jam event & play to grow LA!
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '1'
+  area_other_blank: Includes Southern California towns in LA County and beyond for 2015
+  more_detail: "We build mobile apps to help people grow food together! Trade seeds, get out in the garden and play through mobile gaming, mapping and actions in the community.\r\n\r\nSeeds the Game is a series of apps and a game jam series to promote play that grows healthy communities."
+  implement: "We are creating a game jam series of hack events and building a creative team based in Los Angeles and Vista, CA to make SEEDS the Game, a social action ecosystem of games for mobile devices. SEEDS the Game encourages players to tackle real life food security challenges by going outside and creating gardens at home and with their community. \r\n\r\nOur work starts with a series of game jams - experimental hacklabs in California to design and develop the best game mechanics for mapping seed exchanges, pest challenges, food deserts and potential centers for community actions. We begin in September with this series of events and will be working throughout the school year with development teams from schools and community centers in the Los Angeles area. Events are a mix of game hackathon for data integration with real seed, soil and plant tests in the field at gardens, markets, and permaculture centers.\r\n\r\nDevelopers, alpha testers and players track and share their progress while bonding with neighbors and making friends across garden guilds. The game jam series includes integrated profiles for community organizing and organic gameplay experiments across the network of game hack teams.\r\n\r\nWe dedicate our human resources to build the Grow Games community to include artists, musicians, software developers, engineers, permaculture educators and programmers in Southern California. Our implementation with the support and funds would allow us to begin the community-building and testing process starting with the alpha stage.\r\n\r\nWe are scheduling the Los Angeles area to be the first in line to Alpha and Beta test SEEDS the Game. Local participants that sign up as a beta tester in Los Angeles will be first in line to provide feedback and suggestions through our feedback system while enjoying actions in community and school gardens, farmers markets and at home growing food and sharing seeds. When SEEDS the Game first round is completed, users will also have the ability to redeem vouchers for garden-related prizes at local participating markets. \r\n\r\nLos Angeles, Pasadena and Riverside locations have been secured for first events in September and we are expanding to work with community and school gardens throughout the fall of 2014. We are looking for great school gardens to work with on playtesting, especially with youth over age 13 who can give us feedback on gameplay from new perspectives."
+  name: 'Seeds the Game: Community Jams'
+  who_benefit: "Our goal is to encourage grandmas and kids to play together to grow food, share seeds, improve water conservation and energy/climate resiliency for people of all ages and backgrounds. At the farm we playtest with all ages and our team comes from 4 ethnic backgrounds with diverse experience in food/climate intervention for disaster relief.\r\n\r\nThe SEEDS Game Jam series of events will bring together Los Angeles designers and developers with economists, game strategists, media market leaders, nonprofit organizations, youth and master gardeners aligned to connect people to food and seeds through mobile play starting in September of 2014. \r\n\r\nSEEDS the Game as a series of apps will benefit just about everyone of all ages from diverse backgrounds, from grandmas to any kid with a phone or iPad at school. Our focus for this project is to encourage everyone who has action and adventure interest to tackle real challenges and quests to benefit the community. \r\n\r\nSEEDS the Game not only encourages players to participate but communities as well. Nonprofit organizations can sponsor actions in the game and communities are incentivized to grow their own community garden and host farmers market. Players can earn points and skill points along the way.\r\n\r\nCommunities that are heavily impacted by gang violence and youth that are raised in poverty would benefit gradually from SEEDS the Game. We cater our game to be actively engaging and will offer a special bundle for education and non-profit organizations. Other communities that are in middle income and upper middle class can also benefit by participating the quest and challenges that promote a safe and better community. \r\n\r\nSEEDS The Game is also disguised as a gardening tool and game that allows parents to teach their kids how to grow their own food. When it is night time, players can also earn points by playing mini-games to earn more points.\r\n\r\nWe have prototyped this project at an ecovillage with a food forest now growing in Vista, CA, at home gardens in Glendale, CA and at a handful of aligned hackathons and conferences with industry leaders. Our partners include NGO allies in 6 countries eager to test with us in 2015 and become global connection zones for Los Angeles players to share their insights and what’s working to grow great food in LA.\r\n\r\n\r\n"
+  partners_collaboration: "Collaborators that are confirmed include Growcology (a nonprofit organization for permaculture education based in Southern California), Southern California Permaculture Guild, the global Seed Libraries network, Project Nuevo Mundo (community food growth nonprofit) along with project partnerships at school gardens, Burners without Borders and development allies at major universities:  USC Games for talent in game design, UC Riverside for talent in animation and storytelling for games, JMU for data/climate integration and allies from the CalTech innovation community currently assisting with engineering and backend design.\r\n\r\nIn 2015 we are lining up to trade seeds and growing experience with communities rebuilding in Haiti and Philippines through Communitare, an international NGO connecting local talent with opportunities to volunteer in rebuilding and relief efforts. We will also be connecting the LA #seedsthegame community to our allies in Central and South America for seedsharing challenges and knowledge sharing and we will be sharing some of our indigenous community work at social impact and social entrepreneurship conferences in California as an example of social benefit corporations incubated within the networked community.\r\n\r\nAdditional allies include Ron Finley and his work to grow food with youth in Los Angeles, UrbanTXT working with youth and mobile development, Vortex Immersion hosting events with us in Los Angeles near LAUSD and La Loma, a local permaculture development company providing playtesting space for people to grow food for the first time during our game jam series. Some of these are now confirming for the next round and we have worked with Vortex in the past on the State of the Arts immersion experience.\r\n\r\nWe are currently considering collaborating within the LA Technology community (business and government-focused) along with talent from local game companies, schools and hacker/maker community groups. We have shared #SeedstheGame at the Verge conference for green solutions for business and government and with the Federal Games Guild which is informally helping us position for federal and international NGO funding in 2015."
+  metrics_play_openspace: '1'
+  metrics_play_afterschool: '1'
+  metrics_play_crime: '0'
+  metrics_play_safe: '1'
+  metrics_play_sportingevents: '0'
+  metrics_play_park: '1'
+  metrics_play_vibrantpark: '1'
+  metrics_play_intergenerational: '1'
+  metrics_play_informal: '1'
+  metrics_play_other: '0'
+  metrics_play_blank: ''
+  resources_network: '1'
+  best_place_to_learn: '1'
+  best_place_to_create: '1'
+  best_place_to_connect: '1'
+  healthiest_place_to_live: '1'
+  evaluate: "We will based our evaluation on three levels starting with 1) Analytics 2) Statistical Research and 3) Impact over Profit. \r\n\r\nWe analyze and visualize changes in the ecosystem with regard to mapping adoption rates, success meeting partner open-space goals and community/product partnerships. We use data visualization and analytical tools starting from the time of search discovery, downloads and use, in-app actions made and receiving relative feedback from the alpha members and the community. It is important for us to measure our level of outreach and plan for cost-effective solutions as we map seed exchanges, gardens and food opportunities.\r\n\r\nSecond is Statistical Research and integration with government data systems that provides complex modeling over time, usability data with current and future projections on how SEEDS the Game could be improved. This testing phase includes fixing bugs and adding more product partner integration along with looking at how added data sets and map functionality create useful planning layers for city and county government. Our goal here is to improve food security, climate resiliency and thrivability within the ecosystem, encouraging responsible water use and growing delicious food locally.\r\n\r\nProfit keeps us in business as a social benefit corporation in the State of California. We balance our bottom line revenue goals with social impact measurements of success connecting people for seed sharing, gardening, and food security across SEEDS the Game. We measure seed exchanges, gardens captured, social media posts as we grow from prototype to game series. At this stage we are a tech startup building on our decades of experience in disaster relief, data integration, game design, hardware and software for social impact. Our goal is to measure how well we integrate useful data sets to solve real challenges while also growing the company to hire the best and brightest from the game jam series of events. We aim to hire at least a dozen allies in the coming year as we grow this series of game apps.\r\n"
+  two_lessons: "Our first lesson learned so far is that SEEDS as a project, game and series of events requires community participation and organic engagement from people from all walks of life to create the best possible experience for players. We have created prototypes of various aspects of gameplay and as we play test and explore what mechanics and systems work best for people we have found that lots of community design feedback is the key to making this series of game apps fun and easy to play for people of all ages and backgrounds. Today we use less words and more art in our designs to be more multilingual and easier to use for first-timers.\r\n\r\nOur second lesson learned is that projects like this require funding! We have bootstrapped our work so far over the past year and to create a successful game series we have to raise a mix of grants, partner funding and investment to release phenomenal apps that reach their intended audiences. Games typically spend hundreds of thousands, if not millions to advertise and distribute their latest product and we are hacking this approach by activating friends who then invite their friends to play along in local communities through physical actions, pulling people out of the device and back into real interactions that create impact in our neighborhoods. Events and connections like this are difficult to create without funding, so we've added advisors to our team to help us through capital raise and team growth over the coming year.\r\n"
+  achievable_goal: "Our development cycle is to create SEEDS the Game is achievable within the next twelve months starting by creating a team of passionate and skilled developers and programmers. We will do a outreach and marketing campaign that would generate the necessary funds to make through the three development stages: 1) Alpha - first round testing, 2) Beta - second round testing with funders and partners, 3) Release - Public Release. We will also invite the non-profit organizations, schools, after-school organizations, and local businesses to be involved in our testing. \r\n\r\nWe will implement a closed beta testing and will ask all the communities in LA to help provide feedback and suggestions to make SEEDS the Game better. By the 12th month, we would be ready for launch and players will begin their journey in SEEDS The Game. \r\n\r\nBy creating a series of apps that roll out over time we can help people begin with easy steps: sharing seeds, planting a few and visiting a community garden. We help people level up over time, learning aquaponics or composting to improve their growth at home. This series of apps will be rolled out across devices with first apps releasing early 2015.\r\n"
+  major_challenges: "Our first major barrier has been additional startup funding. Initial $100,000 will get us started in Los Angeles but our full game development budget would require at least a million dollars to release SEEDS The Game as a series of apps in the primary mobile app stores. That is relatively a good figure given to the amount of features SEEDS the Game will have and the data sets we can provide for NGOs and government agencies. \r\n\r\nThe other barrier would be language and multilingual support for community development. SEEDS the Game will eventually need to be translated to other languages beyond our English with Spanish language goals for 2015. We are looking to provide support in other languages in our multi-year development plan and hope to leverage Los Angeles’ multi-ethnic population to provide our tools to countries around the world. We have found game companies in the LA area to assist with multilingual translation for Asian communities but will need to find additional development funding to support release across communities after testing with groups in the LA area."
+  competition: "Currently, there are no organizations doing this similar work. Contemporary game companies do not follow our business model or our values. Game companies like Zynga who created Farmville invest heavily on marketing and contributes none to communities or the users. SEEDS The Game is unique because not only is beneficial to communities but also promotes a safer community and a better lifestyle.\r\n\r\nThere are a number of serious play and social action gaming companies tackling news and current events gaming along with diversity and economic challenges, but none are currently tackling growing food in our communities, especially with mapping. Our tools are inspired by Ingress out of Niantic Labs with ties to LA and Google and they are already on board and excited by our work. We will be complimenting Google's efforts and working with their teams to improve gameplay."
+  cost: "From Question 9, we estimate that it will cost a million to successfully launch SEEDS the Game as a series of apps. We will cover additional cost by creating our first prototype, starting a crowd funding campaign and inviting investors into our seed round at Grow Games Interactive. \r\n\r\nThe Los Angeles aspect of this pilot is estimated at $100,000 for game jam events, playtesting and community organizing/development to grow thousands of new gardens and food plots by 2015 in LA.\r\n\r\nOur video to begin is at http://vimeo.com/77108130 - we do not yet have this hosted on YouTube to embed in this entry but can do so in the coming week along with our new video for crowd funding."
+  budget: "CEO/Educational Lead for Programming $5,000 (host events)\r\nCOO/Enginnering/Technical Lead $12,000 (maintain code integration)\r\nProducer/Events/Design Lead $12,000 (host events & program)\r\nArtist Lead and Stipends for Design $3,000\r\nEducational Team $6,000 with materials & travel stipends as needed\r\nCommunity Manager & Bilingual Support $5,000\r\nJr. Developer/QA/Admin  $5,000 \r\nMobile Dev 1: $8,000\r\nMobile Dev 2: $8,000\r\nGame Jam Prizes: $7,000 (additional pledged/donated/sponsored)\r\nEvent and Venue Fees: $2,000 (some donated/sponsored)\r\nTravel: $1,000\r\nSoftware: $2,000\r\nServer Engineering: $1,000\r\nPlaytesting: $3,000 (materials for growth and gameplay)\r\nIntern Stipends: $5,000 (includes internships won at game jams)\r\nAdditional Tech/Equipment: $2,000\r\nEvent Food/Drinks/Consummables: $3,000\r\nLicenses, Data Integration, APIs for Publishing: $1,000\r\nDev/Data Services for App Store + Profiles: $2,000\r\nPublished Materials: $2,000 (includes Tshirts for participants)\r\nAnalytics & Research/Reporting: $2,000\r\nMusic Production: $1,000 (Samples and mixes to master for apps/games)\r\nAlpha Testing Profile Site Hosting: $2,000 (Servers, Nationbuilder Community Tools + Dev)\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '1'
+  resources_education: '1'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_research: '1'
+  impact_metrics: "We aim to help people grow beautiful places wherever they are - in the backyard, on the roof, at home in the windowsill, in community gardens and schools all over Los Angeles. We will be measuring how many people play along, what actions they take, the cumulative community impact of their gameplay and qualitatively we will capture social media stories and short videos on intergenerational play through the game activities.\r\nSEEDS the Game will require access to open space and park facilities ONLY if they are designated as a Community Garden or spaces for volunteer engagements with the Department of Parks and Recreation. SEEDS the Game does not promote trespassing or using public space for growing food without prior permission - we use the game to organize community events with the stakeholders present. Our team will have a designated community guide monitoring player progress. \r\n\r\nChildren at school or enrolled in afterschool programs are encouraged to play as a group to create community gardens and participate in real life quest and challenges. By creating interest in community gardening and personal gardening we can grow on Ron Finley’s work to reduce juvenile delinquency.  All profiles for kids under 13 require approval and will be created in line with COPPA protections to ensure that the focus is on the garden and community actions. \r\n\r\nTeens who are not enrolled in afterschool programs are incentivized to participate in volunteer programs and community gardens to earn points in the game, improving access to alternatives for healthy living and life off the streets that can grow into a life of growing opportunities and entrepreneurship through food. Preservation and master-level skills will be shared through gameplay so teens and adults can level up and start their own businesses ready for the Farmers Market.\r\n\r\nIn our games everyone can create something beneficial to their community. Local challenges include working with the city to help the beautification process of LA through planting with medians and community gardens. Parents and children can participate in social action challenges and when the parent wants to encourage their kids some more, they can unlock tasks at a local center. \r\n\r\nUrban professionals as well have the opportunity to participate in SEEDS the Game starting small task starting with adopting a plant in their office or building a vertical or container garden at home. They can earn by shopping at farmers markets or volunteering.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We are creating a game jam series of hack events and building a creative team
   based in Los Angeles and Vista, CA to make SEEDS the Game, a social action
@@ -76,415 +164,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We are currently considering collaborating within the LA Technology community (business and government-focused) along with talent from local game companies, schools and hacker/maker community groups. We have shared #SeedstheGame at the Verge conference for green solutions for business and government and with the Federal Games Guild which is informally helping us position for federal and international NGO funding in 2015.
 Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
 maker_image_id: '22335'
 maker_image_file_name: volunteer-photo.jpg
-project_areas:
-  - CENTRAL LA
-  - EAST LA
-  - SOUTH LA
-  - SGV
-  - SFV
-  - SOUTH BAY
-  - WESTSIDE
-  - LA COUNTY
-maker_answers:
-  name: 'Seeds the Game: Community Jams'
-  handle: seeds
-  Email: evoamo@gmail.com
-  PhoneNumber: '3109531087'
-  City_State: 'Los Angeles, CA'
-  org_name: 'Grow Games Interactive, Growcology'
-  org_website: www.growgamesinteractive.com
-  org_twitter: twitter.com/growgames
-  org_facebook: 'https://www.facebook.com/growgamesinteractive'
-  org_instagram: instagram.com/growgames
-  org_mailingaddress: "GROW GAMES INTERACTIVE\r\n7130 MAGNOLIA AVE, STE K\r\nRIVERSIDE CA, 92504"
-  org_ein: '463288070'
-  org_nonprofit: '0'
-  org_forprofit: '1'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: >-
-    Mobile social action games connecting people to the ecosystem: growing food,
-    sharing seeds, integrating gaming with data maps for resiliency
-  one_sentence_org: >-
-    Seeds the Game apps & event series grow food in LA through game design
-    hackathons and garden playtesting across communities & food centers
-  describe_idea: >-
-    Play games, grow food and connect with friends & neighbors! Join @GrowGames
-    for a #seedsthegame jam event & play to grow LA!
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '1'
-  area_other_blank: Includes Southern California towns in LA County and beyond for 2015
-  more_detail: "We build mobile apps to help people grow food together! Trade seeds, get out in the garden and play through mobile gaming, mapping and actions in the community.\r\n\r\nSeeds the Game is a series of apps and a game jam series to promote play that grows healthy communities."
-  implement: "We are creating a game jam series of hack events and building a creative team based in Los Angeles and Vista, CA to make SEEDS the Game, a social action ecosystem of games for mobile devices. SEEDS the Game encourages players to tackle real life food security challenges by going outside and creating gardens at home and with their community. \r\n\r\nOur work starts with a series of game jams - experimental hacklabs in California to design and develop the best game mechanics for mapping seed exchanges, pest challenges, food deserts and potential centers for community actions. We begin in September with this series of events and will be working throughout the school year with development teams from schools and community centers in the Los Angeles area. Events are a mix of game hackathon for data integration with real seed, soil and plant tests in the field at gardens, markets, and permaculture centers.\r\n\r\nDevelopers, alpha testers and players track and share their progress while bonding with neighbors and making friends across garden guilds. The game jam series includes integrated profiles for community organizing and organic gameplay experiments across the network of game hack teams.\r\n\r\nWe dedicate our human resources to build the Grow Games community to include artists, musicians, software developers, engineers, permaculture educators and programmers in Southern California. Our implementation with the support and funds would allow us to begin the community-building and testing process starting with the alpha stage.\r\n\r\nWe are scheduling the Los Angeles area to be the first in line to Alpha and Beta test SEEDS the Game. Local participants that sign up as a beta tester in Los Angeles will be first in line to provide feedback and suggestions through our feedback system while enjoying actions in community and school gardens, farmers markets and at home growing food and sharing seeds. When SEEDS the Game first round is completed, users will also have the ability to redeem vouchers for garden-related prizes at local participating markets. \r\n\r\nLos Angeles, Pasadena and Riverside locations have been secured for first events in September and we are expanding to work with community and school gardens throughout the fall of 2014. We are looking for great school gardens to work with on playtesting, especially with youth over age 13 who can give us feedback on gameplay from new perspectives."
-  impact_play: "Los Angeles already has some of the most beautiful parks, gardens, and farmers’ markets in the world.  Our project will get more citizens outside and interacting with the beauty we know is already there, as well as teaming up to create more green spaces and transform problem areas.\r\n\r\nIn the coming year we can improve co-learning and connectedness between people and their environment while beautifying public spaces together through growing food and beneficial plants. We will map food resiliency needs while making it fun for people to grow food together and level up their skills.\r\n\r\nSEEDS the Game is a location-based game for mobile devices that can be played with GPS and data connection. We offer in-game incentives for SEEDS the Game players that are in Los Angeles including advancement in the local Leadership Board and In-Game Achievements that connect people to local actions and gameplay centers such as community and school gardens. Citizens can earn points while volunteering at participating locations or picking up gardening tools through partners that have signed up to be in our SEEDS the Game Partnership Network. \r\n\r\nOur goal is to work with community based organizations, businesses, government and local garden leaders to identify great actions and opportunities to incentivize through gameplay. Over the coming year we expect thousands of players to engage in community volunteerism through Seeds the Game apps.\r\n\r\nNot only is SEEDS the Game beneficial to people but our games also stimulate the economy.  We aim to maken Los Angeles a global innovation leader for technology addressing food/water/climate issues. By 2050, we will have created a dynamic network connecting local organizations and businesses with player/members who are also consumers. Our community will use the most cutting edge technology available to maximize our land and water use, while participants compete to create the most beautiful and inspiring gardens and public spaces.  The market and gameplay are fully integrated and it is easy to see on a map where resources are needed for resiliency, disaster mitigation and food security. \r\n\r\nWe are establishing a safe connection to share real seeds around the world to promote healthy heirloom plants, biodiversity and organic solutions to pest control for our soil and water health. We anticipate a total of 3 Billion downloads by 2050, with participants cooperatively playing with players in every other country on earth.  \r\n"
-  who_benefit: "Our goal is to encourage grandmas and kids to play together to grow food, share seeds, improve water conservation and energy/climate resiliency for people of all ages and backgrounds. At the farm we playtest with all ages and our team comes from 4 ethnic backgrounds with diverse experience in food/climate intervention for disaster relief.\r\n\r\nThe SEEDS Game Jam series of events will bring together Los Angeles designers and developers with economists, game strategists, media market leaders, nonprofit organizations, youth and master gardeners aligned to connect people to food and seeds through mobile play starting in September of 2014. \r\n\r\nSEEDS the Game as a series of apps will benefit just about everyone of all ages from diverse backgrounds, from grandmas to any kid with a phone or iPad at school. Our focus for this project is to encourage everyone who has action and adventure interest to tackle real challenges and quests to benefit the community. \r\n\r\nSEEDS the Game not only encourages players to participate but communities as well. Nonprofit organizations can sponsor actions in the game and communities are incentivized to grow their own community garden and host farmers market. Players can earn points and skill points along the way.\r\n\r\nCommunities that are heavily impacted by gang violence and youth that are raised in poverty would benefit gradually from SEEDS the Game. We cater our game to be actively engaging and will offer a special bundle for education and non-profit organizations. Other communities that are in middle income and upper middle class can also benefit by participating the quest and challenges that promote a safe and better community. \r\n\r\nSEEDS The Game is also disguised as a gardening tool and game that allows parents to teach their kids how to grow their own food. When it is night time, players can also earn points by playing mini-games to earn more points.\r\n\r\nWe have prototyped this project at an ecovillage with a food forest now growing in Vista, CA, at home gardens in Glendale, CA and at a handful of aligned hackathons and conferences with industry leaders. Our partners include NGO allies in 6 countries eager to test with us in 2015 and become global connection zones for Los Angeles players to share their insights and what’s working to grow great food in LA.\r\n\r\n\r\n"
-  partners_collaboration: "Collaborators that are confirmed include Growcology (a nonprofit organization for permaculture education based in Southern California), Southern California Permaculture Guild, the global Seed Libraries network, Project Nuevo Mundo (community food growth nonprofit) along with project partnerships at school gardens, Burners without Borders and development allies at major universities:  USC Games for talent in game design, UC Riverside for talent in animation and storytelling for games, JMU for data/climate integration and allies from the CalTech innovation community currently assisting with engineering and backend design.\r\n\r\nIn 2015 we are lining up to trade seeds and growing experience with communities rebuilding in Haiti and Philippines through Communitare, an international NGO connecting local talent with opportunities to volunteer in rebuilding and relief efforts. We will also be connecting the LA #seedsthegame community to our allies in Central and South America for seedsharing challenges and knowledge sharing and we will be sharing some of our indigenous community work at social impact and social entrepreneurship conferences in California as an example of social benefit corporations incubated within the networked community.\r\n\r\nAdditional allies include Ron Finley and his work to grow food with youth in Los Angeles, UrbanTXT working with youth and mobile development, Vortex Immersion hosting events with us in Los Angeles near LAUSD and La Loma, a local permaculture development company providing playtesting space for people to grow food for the first time during our game jam series. Some of these are now confirming for the next round and we have worked with Vortex in the past on the State of the Arts immersion experience.\r\n\r\nWe are currently considering collaborating within the LA Technology community (business and government-focused) along with talent from local game companies, schools and hacker/maker community groups. We have shared #SeedstheGame at the Verge conference for green solutions for business and government and with the Federal Games Guild which is informally helping us position for federal and international NGO funding in 2015."
-  metrics_play_openspace: '1'
-  metrics_play_afterschool: '1'
-  metrics_play_crime: '0'
-  metrics_play_safe: '1'
-  metrics_play_sportingevents: '0'
-  metrics_play_park: '1'
-  metrics_play_vibrantpark: '1'
-  metrics_play_intergenerational: '1'
-  metrics_play_informal: '1'
-  metrics_play_other: '0'
-  metrics_play_blank: ''
-  impact_metrics: "We aim to help people grow beautiful places wherever they are - in the backyard, on the roof, at home in the windowsill, in community gardens and schools all over Los Angeles. We will be measuring how many people play along, what actions they take, the cumulative community impact of their gameplay and qualitatively we will capture social media stories and short videos on intergenerational play through the game activities.\r\nSEEDS the Game will require access to open space and park facilities ONLY if they are designated as a Community Garden or spaces for volunteer engagements with the Department of Parks and Recreation. SEEDS the Game does not promote trespassing or using public space for growing food without prior permission - we use the game to organize community events with the stakeholders present. Our team will have a designated community guide monitoring player progress. \r\n\r\nChildren at school or enrolled in afterschool programs are encouraged to play as a group to create community gardens and participate in real life quest and challenges. By creating interest in community gardening and personal gardening we can grow on Ron Finley’s work to reduce juvenile delinquency.  All profiles for kids under 13 require approval and will be created in line with COPPA protections to ensure that the focus is on the garden and community actions. \r\n\r\nTeens who are not enrolled in afterschool programs are incentivized to participate in volunteer programs and community gardens to earn points in the game, improving access to alternatives for healthy living and life off the streets that can grow into a life of growing opportunities and entrepreneurship through food. Preservation and master-level skills will be shared through gameplay so teens and adults can level up and start their own businesses ready for the Farmers Market.\r\n\r\nIn our games everyone can create something beneficial to their community. Local challenges include working with the city to help the beautification process of LA through planting with medians and community gardens. Parents and children can participate in social action challenges and when the parent wants to encourage their kids some more, they can unlock tasks at a local center. \r\n\r\nUrban professionals as well have the opportunity to participate in SEEDS the Game starting small task starting with adopting a plant in their office or building a vertical or container garden at home. They can earn by shopping at farmers markets or volunteering.\r\n"
-  best_place_to_learn: '1'
-  best_place_to_create: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '1'
-  evaluate: "We will based our evaluation on three levels starting with 1) Analytics 2) Statistical Research and 3) Impact over Profit. \r\n\r\nWe analyze and visualize changes in the ecosystem with regard to mapping adoption rates, success meeting partner open-space goals and community/product partnerships. We use data visualization and analytical tools starting from the time of search discovery, downloads and use, in-app actions made and receiving relative feedback from the alpha members and the community. It is important for us to measure our level of outreach and plan for cost-effective solutions as we map seed exchanges, gardens and food opportunities.\r\n\r\nSecond is Statistical Research and integration with government data systems that provides complex modeling over time, usability data with current and future projections on how SEEDS the Game could be improved. This testing phase includes fixing bugs and adding more product partner integration along with looking at how added data sets and map functionality create useful planning layers for city and county government. Our goal here is to improve food security, climate resiliency and thrivability within the ecosystem, encouraging responsible water use and growing delicious food locally.\r\n\r\nProfit keeps us in business as a social benefit corporation in the State of California. We balance our bottom line revenue goals with social impact measurements of success connecting people for seed sharing, gardening, and food security across SEEDS the Game. We measure seed exchanges, gardens captured, social media posts as we grow from prototype to game series. At this stage we are a tech startup building on our decades of experience in disaster relief, data integration, game design, hardware and software for social impact. Our goal is to measure how well we integrate useful data sets to solve real challenges while also growing the company to hire the best and brightest from the game jam series of events. We aim to hire at least a dozen allies in the coming year as we grow this series of game apps.\r\n"
-  two_lessons: "Our first lesson learned so far is that SEEDS as a project, game and series of events requires community participation and organic engagement from people from all walks of life to create the best possible experience for players. We have created prototypes of various aspects of gameplay and as we play test and explore what mechanics and systems work best for people we have found that lots of community design feedback is the key to making this series of game apps fun and easy to play for people of all ages and backgrounds. Today we use less words and more art in our designs to be more multilingual and easier to use for first-timers.\r\n\r\nOur second lesson learned is that projects like this require funding! We have bootstrapped our work so far over the past year and to create a successful game series we have to raise a mix of grants, partner funding and investment to release phenomenal apps that reach their intended audiences. Games typically spend hundreds of thousands, if not millions to advertise and distribute their latest product and we are hacking this approach by activating friends who then invite their friends to play along in local communities through physical actions, pulling people out of the device and back into real interactions that create impact in our neighborhoods. Events and connections like this are difficult to create without funding, so we've added advisors to our team to help us through capital raise and team growth over the coming year.\r\n"
-  achievable_goal: "Our development cycle is to create SEEDS the Game is achievable within the next twelve months starting by creating a team of passionate and skilled developers and programmers. We will do a outreach and marketing campaign that would generate the necessary funds to make through the three development stages: 1) Alpha - first round testing, 2) Beta - second round testing with funders and partners, 3) Release - Public Release. We will also invite the non-profit organizations, schools, after-school organizations, and local businesses to be involved in our testing. \r\n\r\nWe will implement a closed beta testing and will ask all the communities in LA to help provide feedback and suggestions to make SEEDS the Game better. By the 12th month, we would be ready for launch and players will begin their journey in SEEDS The Game. \r\n\r\nBy creating a series of apps that roll out over time we can help people begin with easy steps: sharing seeds, planting a few and visiting a community garden. We help people level up over time, learning aquaponics or composting to improve their growth at home. This series of apps will be rolled out across devices with first apps releasing early 2015.\r\n"
-  major_challenges: "Our first major barrier has been additional startup funding. Initial $100,000 will get us started in Los Angeles but our full game development budget would require at least a million dollars to release SEEDS The Game as a series of apps in the primary mobile app stores. That is relatively a good figure given to the amount of features SEEDS the Game will have and the data sets we can provide for NGOs and government agencies. \r\n\r\nThe other barrier would be language and multilingual support for community development. SEEDS the Game will eventually need to be translated to other languages beyond our English with Spanish language goals for 2015. We are looking to provide support in other languages in our multi-year development plan and hope to leverage Los Angeles’ multi-ethnic population to provide our tools to countries around the world. We have found game companies in the LA area to assist with multilingual translation for Asian communities but will need to find additional development funding to support release across communities after testing with groups in the LA area."
-  competition: "Currently, there are no organizations doing this similar work. Contemporary game companies do not follow our business model or our values. Game companies like Zynga who created Farmville invest heavily on marketing and contributes none to communities or the users. SEEDS The Game is unique because not only is beneficial to communities but also promotes a safer community and a better lifestyle.\r\n\r\nThere are a number of serious play and social action gaming companies tackling news and current events gaming along with diversity and economic challenges, but none are currently tackling growing food in our communities, especially with mapping. Our tools are inspired by Ingress out of Niantic Labs with ties to LA and Google and they are already on board and excited by our work. We will be complimenting Google's efforts and working with their teams to improve gameplay."
-  cost: "From Question 9, we estimate that it will cost a million to successfully launch SEEDS the Game as a series of apps. We will cover additional cost by creating our first prototype, starting a crowd funding campaign and inviting investors into our seed round at Grow Games Interactive. \r\n\r\nThe Los Angeles aspect of this pilot is estimated at $100,000 for game jam events, playtesting and community organizing/development to grow thousands of new gardens and food plots by 2015 in LA.\r\n\r\nOur video to begin is at http://vimeo.com/77108130 - we do not yet have this hosted on YouTube to embed in this entry but can do so in the coming week along with our new video for crowd funding."
-  budget: "CEO/Educational Lead for Programming $5,000 (host events)\r\nCOO/Enginnering/Technical Lead $12,000 (maintain code integration)\r\nProducer/Events/Design Lead $12,000 (host events & program)\r\nArtist Lead and Stipends for Design $3,000\r\nEducational Team $6,000 with materials & travel stipends as needed\r\nCommunity Manager & Bilingual Support $5,000\r\nJr. Developer/QA/Admin  $5,000 \r\nMobile Dev 1: $8,000\r\nMobile Dev 2: $8,000\r\nGame Jam Prizes: $7,000 (additional pledged/donated/sponsored)\r\nEvent and Venue Fees: $2,000 (some donated/sponsored)\r\nTravel: $1,000\r\nSoftware: $2,000\r\nServer Engineering: $1,000\r\nPlaytesting: $3,000 (materials for growth and gameplay)\r\nIntern Stipends: $5,000 (includes internships won at game jams)\r\nAdditional Tech/Equipment: $2,000\r\nEvent Food/Drinks/Consummables: $3,000\r\nLicenses, Data Integration, APIs for Publishing: $1,000\r\nDev/Data Services for App Store + Profiles: $2,000\r\nPublished Materials: $2,000 (includes Tshirts for participants)\r\nAnalytics & Research/Reporting: $2,000\r\nMusic Production: $1,000 (Samples and mixes to master for apps/games)\r\nAlpha Testing Profile Site Hosting: $2,000 (Servers, Nationbuilder Community Tools + Dev)\r\n"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '1'
-  resources_education: '1'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_network: '1'
-  resources_research: '1'
-maker_answers_list:
-  - name: name
-    label: ''
-    explanation: ''
-    answer: 'Seeds the Game: Community Jams'
-  - name: handle
-    label: ''
-    explanation: >-
-      Pick an easy to remember ending for your idea's URL. No spaces or extra
-      characters please.
-    answer: seeds
-  - name: Email
-    label: Your email address
-    explanation: '(Example: maker@goodinc.com)'
-    answer: evoamo@gmail.com
-  - name: PhoneNumber
-    label: Your phone number
-    explanation: '(Example: 555-555-5555)'
-    answer: '3109531087'
-  - name: City_State
-    label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
-    answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: 'Grow Games Interactive, Growcology'
-  - name: org_website
-    label: Organization website
-    explanation: '(Example: http://www.LA2050.org)'
-    answer: www.growgamesinteractive.com
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: twitter.com/growgames
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: 'https://www.facebook.com/growgamesinteractive'
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: instagram.com/growgames
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: "GROW GAMES INTERACTIVE\r\n7130 MAGNOLIA AVE, STE K\r\nRIVERSIDE CA, 92504"
-  - name: org_ein
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '463288070'
-  - name: org_nonprofit
-    label: Nonprofit organization
-    explanation: ''
-    answer: '0'
-  - name: org_forprofit
-    label: For-profit organization
-    explanation: ''
-    answer: '1'
-  - name: org_government
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: Solo actor (just us on this project!)
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '0'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '1'
-  - name: describe_organization
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      Mobile social action games connecting people to the ecosystem: growing
-      food, sharing seeds, integrating gaming with data maps for resiliency
-  - name: one_sentence_org
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      Seeds the Game apps & event series grow food in LA through game design
-      hackathons and garden playtesting across communities & food centers
-  - name: describe_idea
-    label: ''
-    explanation: >-
-      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
-      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
-      have such an awesome project! Please vote for @GoldhirshFdn here!'
-    answer: >-
-      Play games, grow food and connect with friends & neighbors! Join
-      @GrowGames for a #seedsthegame jam event & play to grow LA!
-  - name: all_county
-    label: Yes (benefits all of LA County)
-    explanation: ''
-    answer: '1'
-  - name: region_county
-    label: Yes (benefits a region of LA County)
-    explanation: ''
-    answer: '0'
-  - name: population_county
-    label: Yes (benefits a population of LA County)
-    explanation: ''
-    answer: '0'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '1'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '1'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '1'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '1'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '1'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '1'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: Includes Southern California towns in LA County and beyond for 2015
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: "We build mobile apps to help people grow food together! Trade seeds, get out in the garden and play through mobile gaming, mapping and actions in the community.\r\n\r\nSeeds the Game is a series of apps and a game jam series to promote play that grows healthy communities."
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "We are creating a game jam series of hack events and building a creative team based in Los Angeles and Vista, CA to make SEEDS the Game, a social action ecosystem of games for mobile devices. SEEDS the Game encourages players to tackle real life food security challenges by going outside and creating gardens at home and with their community. \r\n\r\nOur work starts with a series of game jams - experimental hacklabs in California to design and develop the best game mechanics for mapping seed exchanges, pest challenges, food deserts and potential centers for community actions. We begin in September with this series of events and will be working throughout the school year with development teams from schools and community centers in the Los Angeles area. Events are a mix of game hackathon for data integration with real seed, soil and plant tests in the field at gardens, markets, and permaculture centers.\r\n\r\nDevelopers, alpha testers and players track and share their progress while bonding with neighbors and making friends across garden guilds. The game jam series includes integrated profiles for community organizing and organic gameplay experiments across the network of game hack teams.\r\n\r\nWe dedicate our human resources to build the Grow Games community to include artists, musicians, software developers, engineers, permaculture educators and programmers in Southern California. Our implementation with the support and funds would allow us to begin the community-building and testing process starting with the alpha stage.\r\n\r\nWe are scheduling the Los Angeles area to be the first in line to Alpha and Beta test SEEDS the Game. Local participants that sign up as a beta tester in Los Angeles will be first in line to provide feedback and suggestions through our feedback system while enjoying actions in community and school gardens, farmers markets and at home growing food and sharing seeds. When SEEDS the Game first round is completed, users will also have the ability to redeem vouchers for garden-related prizes at local participating markets. \r\n\r\nLos Angeles, Pasadena and Riverside locations have been secured for first events in September and we are expanding to work with community and school gardens throughout the fall of 2014. We are looking for great school gardens to work with on playtesting, especially with youth over age 13 who can give us feedback on gameplay from new perspectives."
-  - name: impact_play
-    label: ''
-    explanation: ''
-    answer: "Los Angeles already has some of the most beautiful parks, gardens, and farmers’ markets in the world.  Our project will get more citizens outside and interacting with the beauty we know is already there, as well as teaming up to create more green spaces and transform problem areas.\r\n\r\nIn the coming year we can improve co-learning and connectedness between people and their environment while beautifying public spaces together through growing food and beneficial plants. We will map food resiliency needs while making it fun for people to grow food together and level up their skills.\r\n\r\nSEEDS the Game is a location-based game for mobile devices that can be played with GPS and data connection. We offer in-game incentives for SEEDS the Game players that are in Los Angeles including advancement in the local Leadership Board and In-Game Achievements that connect people to local actions and gameplay centers such as community and school gardens. Citizens can earn points while volunteering at participating locations or picking up gardening tools through partners that have signed up to be in our SEEDS the Game Partnership Network. \r\n\r\nOur goal is to work with community based organizations, businesses, government and local garden leaders to identify great actions and opportunities to incentivize through gameplay. Over the coming year we expect thousands of players to engage in community volunteerism through Seeds the Game apps.\r\n\r\nNot only is SEEDS the Game beneficial to people but our games also stimulate the economy.  We aim to maken Los Angeles a global innovation leader for technology addressing food/water/climate issues. By 2050, we will have created a dynamic network connecting local organizations and businesses with player/members who are also consumers. Our community will use the most cutting edge technology available to maximize our land and water use, while participants compete to create the most beautiful and inspiring gardens and public spaces.  The market and gameplay are fully integrated and it is easy to see on a map where resources are needed for resiliency, disaster mitigation and food security. \r\n\r\nWe are establishing a safe connection to share real seeds around the world to promote healthy heirloom plants, biodiversity and organic solutions to pest control for our soil and water health. We anticipate a total of 3 Billion downloads by 2050, with participants cooperatively playing with players in every other country on earth.  \r\n"
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "Our goal is to encourage grandmas and kids to play together to grow food, share seeds, improve water conservation and energy/climate resiliency for people of all ages and backgrounds. At the farm we playtest with all ages and our team comes from 4 ethnic backgrounds with diverse experience in food/climate intervention for disaster relief.\r\n\r\nThe SEEDS Game Jam series of events will bring together Los Angeles designers and developers with economists, game strategists, media market leaders, nonprofit organizations, youth and master gardeners aligned to connect people to food and seeds through mobile play starting in September of 2014. \r\n\r\nSEEDS the Game as a series of apps will benefit just about everyone of all ages from diverse backgrounds, from grandmas to any kid with a phone or iPad at school. Our focus for this project is to encourage everyone who has action and adventure interest to tackle real challenges and quests to benefit the community. \r\n\r\nSEEDS the Game not only encourages players to participate but communities as well. Nonprofit organizations can sponsor actions in the game and communities are incentivized to grow their own community garden and host farmers market. Players can earn points and skill points along the way.\r\n\r\nCommunities that are heavily impacted by gang violence and youth that are raised in poverty would benefit gradually from SEEDS the Game. We cater our game to be actively engaging and will offer a special bundle for education and non-profit organizations. Other communities that are in middle income and upper middle class can also benefit by participating the quest and challenges that promote a safe and better community. \r\n\r\nSEEDS The Game is also disguised as a gardening tool and game that allows parents to teach their kids how to grow their own food. When it is night time, players can also earn points by playing mini-games to earn more points.\r\n\r\nWe have prototyped this project at an ecovillage with a food forest now growing in Vista, CA, at home gardens in Glendale, CA and at a handful of aligned hackathons and conferences with industry leaders. Our partners include NGO allies in 6 countries eager to test with us in 2015 and become global connection zones for Los Angeles players to share their insights and what’s working to grow great food in LA.\r\n\r\n\r\n"
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "Collaborators that are confirmed include Growcology (a nonprofit organization for permaculture education based in Southern California), Southern California Permaculture Guild, the global Seed Libraries network, Project Nuevo Mundo (community food growth nonprofit) along with project partnerships at school gardens, Burners without Borders and development allies at major universities:  USC Games for talent in game design, UC Riverside for talent in animation and storytelling for games, JMU for data/climate integration and allies from the CalTech innovation community currently assisting with engineering and backend design.\r\n\r\nIn 2015 we are lining up to trade seeds and growing experience with communities rebuilding in Haiti and Philippines through Communitare, an international NGO connecting local talent with opportunities to volunteer in rebuilding and relief efforts. We will also be connecting the LA #seedsthegame community to our allies in Central and South America for seedsharing challenges and knowledge sharing and we will be sharing some of our indigenous community work at social impact and social entrepreneurship conferences in California as an example of social benefit corporations incubated within the networked community.\r\n\r\nAdditional allies include Ron Finley and his work to grow food with youth in Los Angeles, UrbanTXT working with youth and mobile development, Vortex Immersion hosting events with us in Los Angeles near LAUSD and La Loma, a local permaculture development company providing playtesting space for people to grow food for the first time during our game jam series. Some of these are now confirming for the next round and we have worked with Vortex in the past on the State of the Arts immersion experience.\r\n\r\nWe are currently considering collaborating within the LA Technology community (business and government-focused) along with talent from local game companies, schools and hacker/maker community groups. We have shared #SeedstheGame at the Verge conference for green solutions for business and government and with the Federal Games Guild which is informally helping us position for federal and international NGO funding in 2015."
-  - name: metrics_play_openspace
-    label: Access to open space and park facilities
-    explanation: ''
-    answer: '1'
-  - name: metrics_play_afterschool
-    label: Number of children enrolled in afterschool programs
-    explanation: ''
-    answer: '1'
-  - name: metrics_play_crime
-    label: Per capita crime rates
-    explanation: ''
-    answer: '0'
-  - name: metrics_play_safe
-    label: Percentage of residents that feel safe in their neighborhoods
-    explanation: ''
-    answer: '1'
-  - name: metrics_play_sportingevents
-    label: Attendance at major league sporting events
-    explanation: ''
-    answer: '0'
-  - name: metrics_play_park
-    label: Residents within 1⁄4 mile of a park (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_play_vibrantpark
-    label: Number of residents with easy access to a “vibrant” park (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_play_intergenerational
-    label: Number of parks with intergenerational play opportunities (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_play_informal
-    label: Number (and quality) of informal spaces for play (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_play_other
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: metrics_play_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "We aim to help people grow beautiful places wherever they are - in the backyard, on the roof, at home in the windowsill, in community gardens and schools all over Los Angeles. We will be measuring how many people play along, what actions they take, the cumulative community impact of their gameplay and qualitatively we will capture social media stories and short videos on intergenerational play through the game activities.\r\nSEEDS the Game will require access to open space and park facilities ONLY if they are designated as a Community Garden or spaces for volunteer engagements with the Department of Parks and Recreation. SEEDS the Game does not promote trespassing or using public space for growing food without prior permission - we use the game to organize community events with the stakeholders present. Our team will have a designated community guide monitoring player progress. \r\n\r\nChildren at school or enrolled in afterschool programs are encouraged to play as a group to create community gardens and participate in real life quest and challenges. By creating interest in community gardening and personal gardening we can grow on Ron Finley’s work to reduce juvenile delinquency.  All profiles for kids under 13 require approval and will be created in line with COPPA protections to ensure that the focus is on the garden and community actions. \r\n\r\nTeens who are not enrolled in afterschool programs are incentivized to participate in volunteer programs and community gardens to earn points in the game, improving access to alternatives for healthy living and life off the streets that can grow into a life of growing opportunities and entrepreneurship through food. Preservation and master-level skills will be shared through gameplay so teens and adults can level up and start their own businesses ready for the Farmers Market.\r\n\r\nIn our games everyone can create something beneficial to their community. Local challenges include working with the city to help the beautification process of LA through planting with medians and community gardens. Parents and children can participate in social action challenges and when the parent wants to encourage their kids some more, they can unlock tasks at a local center. \r\n\r\nUrban professionals as well have the opportunity to participate in SEEDS the Game starting small task starting with adopting a plant in their office or building a vertical or container garden at home. They can earn by shopping at farmers markets or volunteering.\r\n"
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_create
-    label: LA is the best place to CREATE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '1'
-  - name: healthiest_place_to_live
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '1'
-  - name: evaluate
-    label: ''
-    explanation: ''
-    answer: "We will based our evaluation on three levels starting with 1) Analytics 2) Statistical Research and 3) Impact over Profit. \r\n\r\nWe analyze and visualize changes in the ecosystem with regard to mapping adoption rates, success meeting partner open-space goals and community/product partnerships. We use data visualization and analytical tools starting from the time of search discovery, downloads and use, in-app actions made and receiving relative feedback from the alpha members and the community. It is important for us to measure our level of outreach and plan for cost-effective solutions as we map seed exchanges, gardens and food opportunities.\r\n\r\nSecond is Statistical Research and integration with government data systems that provides complex modeling over time, usability data with current and future projections on how SEEDS the Game could be improved. This testing phase includes fixing bugs and adding more product partner integration along with looking at how added data sets and map functionality create useful planning layers for city and county government. Our goal here is to improve food security, climate resiliency and thrivability within the ecosystem, encouraging responsible water use and growing delicious food locally.\r\n\r\nProfit keeps us in business as a social benefit corporation in the State of California. We balance our bottom line revenue goals with social impact measurements of success connecting people for seed sharing, gardening, and food security across SEEDS the Game. We measure seed exchanges, gardens captured, social media posts as we grow from prototype to game series. At this stage we are a tech startup building on our decades of experience in disaster relief, data integration, game design, hardware and software for social impact. Our goal is to measure how well we integrate useful data sets to solve real challenges while also growing the company to hire the best and brightest from the game jam series of events. We aim to hire at least a dozen allies in the coming year as we grow this series of game apps.\r\n"
-  - name: two_lessons
-    label: ''
-    explanation: ''
-    answer: "Our first lesson learned so far is that SEEDS as a project, game and series of events requires community participation and organic engagement from people from all walks of life to create the best possible experience for players. We have created prototypes of various aspects of gameplay and as we play test and explore what mechanics and systems work best for people we have found that lots of community design feedback is the key to making this series of game apps fun and easy to play for people of all ages and backgrounds. Today we use less words and more art in our designs to be more multilingual and easier to use for first-timers.\r\n\r\nOur second lesson learned is that projects like this require funding! We have bootstrapped our work so far over the past year and to create a successful game series we have to raise a mix of grants, partner funding and investment to release phenomenal apps that reach their intended audiences. Games typically spend hundreds of thousands, if not millions to advertise and distribute their latest product and we are hacking this approach by activating friends who then invite their friends to play along in local communities through physical actions, pulling people out of the device and back into real interactions that create impact in our neighborhoods. Events and connections like this are difficult to create without funding, so we've added advisors to our team to help us through capital raise and team growth over the coming year.\r\n"
-  - name: achievable_goal
-    label: ''
-    explanation: ''
-    answer: "Our development cycle is to create SEEDS the Game is achievable within the next twelve months starting by creating a team of passionate and skilled developers and programmers. We will do a outreach and marketing campaign that would generate the necessary funds to make through the three development stages: 1) Alpha - first round testing, 2) Beta - second round testing with funders and partners, 3) Release - Public Release. We will also invite the non-profit organizations, schools, after-school organizations, and local businesses to be involved in our testing. \r\n\r\nWe will implement a closed beta testing and will ask all the communities in LA to help provide feedback and suggestions to make SEEDS the Game better. By the 12th month, we would be ready for launch and players will begin their journey in SEEDS The Game. \r\n\r\nBy creating a series of apps that roll out over time we can help people begin with easy steps: sharing seeds, planting a few and visiting a community garden. We help people level up over time, learning aquaponics or composting to improve their growth at home. This series of apps will be rolled out across devices with first apps releasing early 2015.\r\n"
-  - name: major_challenges
-    label: ''
-    explanation: ''
-    answer: "Our first major barrier has been additional startup funding. Initial $100,000 will get us started in Los Angeles but our full game development budget would require at least a million dollars to release SEEDS The Game as a series of apps in the primary mobile app stores. That is relatively a good figure given to the amount of features SEEDS the Game will have and the data sets we can provide for NGOs and government agencies. \r\n\r\nThe other barrier would be language and multilingual support for community development. SEEDS the Game will eventually need to be translated to other languages beyond our English with Spanish language goals for 2015. We are looking to provide support in other languages in our multi-year development plan and hope to leverage Los Angeles’ multi-ethnic population to provide our tools to countries around the world. We have found game companies in the LA area to assist with multilingual translation for Asian communities but will need to find additional development funding to support release across communities after testing with groups in the LA area."
-  - name: competition
-    label: ''
-    explanation: ''
-    answer: "Currently, there are no organizations doing this similar work. Contemporary game companies do not follow our business model or our values. Game companies like Zynga who created Farmville invest heavily on marketing and contributes none to communities or the users. SEEDS The Game is unique because not only is beneficial to communities but also promotes a safer community and a better lifestyle.\r\n\r\nThere are a number of serious play and social action gaming companies tackling news and current events gaming along with diversity and economic challenges, but none are currently tackling growing food in our communities, especially with mapping. Our tools are inspired by Ingress out of Niantic Labs with ties to LA and Google and they are already on board and excited by our work. We will be complimenting Google's efforts and working with their teams to improve gameplay."
-  - name: cost
-    label: ''
-    explanation: ''
-    answer: "From Question 9, we estimate that it will cost a million to successfully launch SEEDS the Game as a series of apps. We will cover additional cost by creating our first prototype, starting a crowd funding campaign and inviting investors into our seed round at Grow Games Interactive. \r\n\r\nThe Los Angeles aspect of this pilot is estimated at $100,000 for game jam events, playtesting and community organizing/development to grow thousands of new gardens and food plots by 2015 in LA.\r\n\r\nOur video to begin is at http://vimeo.com/77108130 - we do not yet have this hosted on YouTube to embed in this entry but can do so in the coming week along with our new video for crowd funding."
-  - name: budget
-    label: ''
-    explanation: ''
-    answer: "CEO/Educational Lead for Programming $5,000 (host events)\r\nCOO/Enginnering/Technical Lead $12,000 (maintain code integration)\r\nProducer/Events/Design Lead $12,000 (host events & program)\r\nArtist Lead and Stipends for Design $3,000\r\nEducational Team $6,000 with materials & travel stipends as needed\r\nCommunity Manager & Bilingual Support $5,000\r\nJr. Developer/QA/Admin  $5,000 \r\nMobile Dev 1: $8,000\r\nMobile Dev 2: $8,000\r\nGame Jam Prizes: $7,000 (additional pledged/donated/sponsored)\r\nEvent and Venue Fees: $2,000 (some donated/sponsored)\r\nTravel: $1,000\r\nSoftware: $2,000\r\nServer Engineering: $1,000\r\nPlaytesting: $3,000 (materials for growth and gameplay)\r\nIntern Stipends: $5,000 (includes internships won at game jams)\r\nAdditional Tech/Equipment: $2,000\r\nEvent Food/Drinks/Consummables: $3,000\r\nLicenses, Data Integration, APIs for Publishing: $1,000\r\nDev/Data Services for App Store + Profiles: $2,000\r\nPublished Materials: $2,000 (includes Tshirts for participants)\r\nAnalytics & Research/Reporting: $2,000\r\nMusic Production: $1,000 (Samples and mixes to master for apps/games)\r\nAlpha Testing Profile Site Hosting: $2,000 (Servers, Nationbuilder Community Tools + Dev)\r\n"
-  - name: resources_money
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_staff
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_publicity
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_infrastructure
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: resources_education
-    label: Education/training
-    explanation: ''
-    answer: '1'
-  - name: resources_technical
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: resources_communityoutreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: resources_network
-    label: Network/relationship support
-    explanation: ''
-    answer: '1'
-  - name: resources_research
-    label: Quality improvement research
-    explanation: ''
-    answer: '1'
-body_class: strawberry
-published: true
 
 ---

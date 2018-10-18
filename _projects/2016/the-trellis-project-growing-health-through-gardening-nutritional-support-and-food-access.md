@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016094'
 year_submitted: 2016
-organization_name: Groceryships and Netiya
-organization_website: groceryships.org
-ein: ''
-project_image_2: 4374914065741-team88.jpg
+category: live
+body_class: lime
 project_id: '6102087'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
 title: >-
   The Trellis Project: Growing health through gardening, nutritional support,
   and food access
-organization_name_2: Groceryships and Netiya
-organization_activity: >-
-  The Trellis Project will make LA the healthiest place to live by creating
-  church hubs that offer community building, nutrition education and kitchen
-  gardens in low-income communities most in need.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
-project_video: 'https://www.youtube.com/embed/xHT7xEa5fQs?rel=0&amp;showinfo=0'
 project_summary: >-
   Combining nutrition education and communal gardening to provide good food, a
   supportive community and water-wise, food productive landscapes at churches in
   underserved LA communities.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
+project_video: 'https://www.youtube.com/embed/xHT7xEa5fQs?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'Netiya, Groceryships, Emmanuel HM Turner AME Church, New Mount Calvary Church'
-project_areas:
-  - South LA
 project_measure: >-
   Both Groceryships and Netiya have extensive evaluation tools to measure
   success. For Groceryships’ programs, participants are surveyed on BMI, fruit,
@@ -71,6 +65,24 @@ project_description: >-
 project_impact: >-
   ["Access to healthy food","Self-sufficiency","Obesity","Local
   water","Resilient communities","Tree canopy cover","Mental illness"]
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Obesity
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+  - Mental illness
+project_proposal_description: >-
+  Groceryships and Netiya believe that a healthy life has two ingredients: whole
+  foods and whole people. With the The Trellis Project, we’ll combine each
+  organization's expertise, offering one year of comprehensive food-focused
+  education and community engagement from two distinct and interrelated
+  perspectives: cooking and gardening. While the approaches are different, the
+  intention is the same, to grow health by empowering local communities through
+  existing support structures at their churches.
+project_areas:
+  - South LA
 project_proposal_best_place: >-
   To make Los Angeles the best place to LIVE, all residents need access to
   healthy food and sustainable green environments. Today, many don’t have this
@@ -119,27 +131,7 @@ project_proposal_best_place: >-
   nutrition to the surrounding community. Food grown will supplement local food
   pantry offerings. Community residents can volunteer in the garden, participate
   in community events, and attend Groceryships’ and Netiya’s respective classes.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
-empty_column_1: ''
-project_proposal_description: >-
-  Groceryships and Netiya believe that a healthy life has two ingredients: whole
-  foods and whole people. With the The Trellis Project, we’ll combine each
-  organization's expertise, offering one year of comprehensive food-focused
-  education and community engagement from two distinct and interrelated
-  perspectives: cooking and gardening. While the approaches are different, the
-  intention is the same, to grow health by empowering local communities through
-  existing support structures at their churches.
-project_proposal_impact:
-  - Access to healthy food
-  - Self-sufficiency
-  - Obesity
-  - Local water
-  - Resilient communities
-  - Tree canopy cover
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: Groceryships and Netiya
+organization_website: groceryships.org
 
 ---
