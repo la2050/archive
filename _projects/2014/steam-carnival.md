@@ -157,6 +157,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Two Bit Circus in currently working with the Extension Program at the University of California, San Diego to create the first-ever STEAM certificate program for K-12 teachers. This was announced as a CGI commitment (http://www.prweb.com/releases/2014/07/prweb12011117.htm).
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/steam-carnival/img.youtube.com/vi/ECVibfxDGzw/maxresdefault.jpg
 youtube_video_identifier: ECVibfxDGzw
 
 ---

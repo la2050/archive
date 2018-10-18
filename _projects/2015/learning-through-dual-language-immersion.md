@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
   donors, local businesses and parent community are able to see the results on a
   grand scale, we can use those successes to increase our likelihood of
   obtaining ongoing funds from other sources.
+cached_project_image: >-
+  /assets/images/projects/2015/learning-through-dual-language-immersion/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23186%252Fdisplay%252Fd48c0ef901b441899955a9ebf656288f.jpg=c570x385.jpg
 maker_image_id: '23186'
 maker_image_file_name: d48c0ef901b441899955a9ebf656288f.jpg
 organization_name: Patrick Henry Foundation

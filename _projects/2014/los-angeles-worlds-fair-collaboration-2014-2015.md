@@ -196,6 +196,8 @@ Whom will your project benefit? Please be specific.: >-
    1. Availability of sufficient funding to cover the proposed outreach effort, 
    2. Development of the strategic plan to be used by participants in their outreach efforts, and 
    3. Effective administration collaborative outreach efforts toward achieving the overall objectives of the project.
+cached_project_image: >-
+  /assets/images/projects/2014/los-angeles-worlds-fair-collaboration-2014-2015/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21921%252Fdisplay%252FScreen_Shot_2014-07-31_at_9.17.55_AM.png=c570x385.png
 maker_image_id: '21921'
 maker_image_file_name: Screen_Shot_2014-07-31_at_9.17.55_AM.png
 

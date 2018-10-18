@@ -56,5 +56,7 @@ aggregated:
     - '3102102'
 maker_image_file_name: DLFlogo.jpg
 maker_image_id: '16855'
+cached_project_image: >-
+  /assets/images/organizations/david-lynch-foundation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16855%252Fdisplay%252FDLFlogo.jpg=c570x385.jpg
 
 ---

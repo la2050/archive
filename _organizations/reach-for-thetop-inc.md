@@ -34,5 +34,7 @@ aggregated:
     - '3102226'
 maker_image_file_name: POSTCARD-1.jpg
 maker_image_id: '16395'
+cached_project_image: >-
+  /assets/images/organizations/reach-for-thetop-inc/maker.good.is/images/placeholder/idea.png
 
 ---

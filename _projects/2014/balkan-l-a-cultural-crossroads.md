@@ -157,6 +157,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Three factors critical to the success of our collaboration: sharing similar goals and ideals, willingness to roll up our collective sleeves, and the passion to create new things.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/balkan-l-a-cultural-crossroads/img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg
 youtube_video_identifier: qtJ5XumU1Gw
 
 ---

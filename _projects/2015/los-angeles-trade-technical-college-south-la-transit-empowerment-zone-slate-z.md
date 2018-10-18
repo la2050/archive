@@ -299,6 +299,8 @@ How do you plan to scale the success of your proposal?: >-
   will be sustained in the region through the strength of the partner agencies
   and grants. SLATE-Z is seeking the designation of the South LA Region as a HUD
   Promise Zone, which will increase opportunities for funding and parntership.
+cached_project_image: >-
+  /assets/images/projects/2015/los-angeles-trade-technical-college-south-la-transit-empowerment-zone-slate-z/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385.jpg
 maker_image_id: '24040'
 maker_image_file_name: connect_SLATEZsigners.jpg
 organization_name: Los Angeles Trade-Technical College

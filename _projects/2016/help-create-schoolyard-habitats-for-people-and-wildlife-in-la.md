@@ -120,6 +120,8 @@ project_proposal_best_place: >-
   environmentally literate citizen contributors through hands-on, experiential,
   and project based learning that turns the school buildings and grounds into
   true learning laboratories.
+cached_project_image: >-
+  /assets/images/projects/2016/help-create-schoolyard-habitats-for-people-and-wildlife-in-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
 organization_name: The National Wildlife Federation
 organization_website: www.nwf.org
 

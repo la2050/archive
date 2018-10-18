@@ -37,5 +37,7 @@ aggregated:
     - '3102218'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 maker_image_id: '20546'
+cached_project_image: >-
+  /assets/images/organizations/pershing-square-park-advisory-board/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/12347862_872341026221470_7403512315305716290_n.jpg?_nc_cat=104&oh=7b52d5a8687b32457d6f60fadc3117f6&oe=5C56422B.jpg
 
 ---

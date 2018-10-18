@@ -145,6 +145,8 @@ project_proposal_best_place: >-
   teachers have experienced improvements in the number of students we engage,
   graduate and send to college. While there is greater room for improvement in
   Los Angeles public education, our teachers are becoming part of the solution.
+cached_project_image: >-
+  /assets/images/projects/2016/those-who-can-teach-elevating-teacher-solutions-for-student-needs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
 organization_name: Educators 4 Excellence-Los Angeles
 organization_website: www.educators4excellence.org
 

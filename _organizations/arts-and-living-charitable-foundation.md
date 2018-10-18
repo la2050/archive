@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102010'
+cached_project_image: >-
+  /assets/images/organizations/arts-and-living-charitable-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
 
 ---

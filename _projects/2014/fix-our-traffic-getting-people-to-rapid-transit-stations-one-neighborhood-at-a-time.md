@@ -192,6 +192,8 @@ Whom will your project benefit? Please be specific.: >-
    Since the proposed project involves interviewing residents of Los Angeles about their needs and wants, we consider all of our future contacts to be collaborators.
    
    We hope to develop working relationships with several other companies that are currently developing innovative new systems in Europe, Asia, and other parts of the United States. We feel that designing the vehicles in a way that works seamlessly with our "first mile, last mile" solutions is critical.
+cached_project_image: >-
+  /assets/images/projects/2014/fix-our-traffic-getting-people-to-rapid-transit-stations-one-neighborhood-at-a-time/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20691%252Fdisplay%252FCars_Attribution_Biofriendly_Creative_Commons_license.jpeg=c570x385.jpg
 maker_image_id: '20691'
 maker_image_file_name: Cars_Attribution_Biofriendly_Creative_Commons_license.jpeg
 

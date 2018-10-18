@@ -224,6 +224,8 @@ How do you plan to scale the success of your proposal?: >-
    The initial pilot curriculum will provide a broad introduction to sustainability. We will assess the effectiveness of this, and the desirability of developing subsequent curricula to provide deeper dives into specific sustainability topics (e.g., transportation, climate change, healthy food).
    
    The proposal includes piloting at a small number of schools initially (we currently envision piloting the program at three schools). The ultimate goal is to scale delivery of the curriculum to additional schools throughout Los Angeles County to maximize its potential impact and help make all communities a better place to live.
+cached_project_image: >-
+  /assets/images/projects/2015/sustainable-future-la/img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg
 youtube_video_identifier: '-cj1vPWlAdo'
 organization_name: 'Los Angeles World''s Fair, FPC'
 

@@ -160,6 +160,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   spearheading efforts to improve our communities.  Robust voter engagement
   would be a given and strategic organizing projects would be the norm in our
   communities.  
+cached_project_image: >-
+  /assets/images/projects/2013/eye-to-eye-lgbtq-organizing-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385.jpg
 maker_image_id: '16625'
 maker_image_file_name: CIMG0246.jpg
 

@@ -467,6 +467,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Accountability among employers will inspire harderworking employees, increased
   worker productivity, and profits that ultimately fuel growth & development in
   Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2013/l-a-kitchen-neither-food-or-people-should-ever-go-to-waste/img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg
 youtube_video_identifier: inC3OJbaTT4
 
 ---

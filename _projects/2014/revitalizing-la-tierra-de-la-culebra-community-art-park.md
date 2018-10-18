@@ -159,6 +159,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   people know about the program include Public Health Foundation Enterprises WIC
   Program, Project Angel Food, and SOVA Jewish Food Pantry Market
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/revitalizing-la-tierra-de-la-culebra-community-art-park/img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg
 youtube_video_identifier: jAOkF8UAOLI
 
 ---

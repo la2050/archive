@@ -83,5 +83,7 @@ aggregated:
     - '3102063'
 maker_image_file_name: LA2050_JRG.jpg
 maker_image_id: '16877'
+cached_project_image: >-
+  /assets/images/organizations/jemmott-rollins-group/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16877%252Fdisplay%252FLA2050_JRG.jpg=c570x385.jpg
 
 ---

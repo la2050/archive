@@ -34,5 +34,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102092'
+cached_project_image: >-
+  /assets/images/organizations/one-degree/activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg
 
 ---

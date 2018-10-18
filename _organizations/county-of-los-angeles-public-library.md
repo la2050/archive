@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102056'
+cached_project_image: >-
+  /assets/images/organizations/county-of-los-angeles-public-library/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7316447986741-team91.JPG
 
 ---

@@ -485,6 +485,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Los Angeles, through the vitality of its literature, arts, and culture, will
   have increased its ability to enhance human development, both in the city and
   county, and far beyond.
+cached_project_image: >-
+  /assets/images/projects/2013/los-angeles-review-of-books/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385.jpg
 maker_image_id: '22625'
 maker_image_file_name: larb_logo.jpg
 

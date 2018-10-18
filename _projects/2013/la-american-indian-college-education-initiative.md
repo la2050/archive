@@ -151,6 +151,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   mentors, teachers and professors. They will represent their heritage and
   culture with pride as they move forward contributing to the exciting
   innovations of a vibrant 2050.
+cached_project_image: >-
+  /assets/images/projects/2013/la-american-indian-college-education-initiative/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16254'
 maker_image_file_name: scholarspic.jpg
 

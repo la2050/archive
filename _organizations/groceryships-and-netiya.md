@@ -40,5 +40,7 @@ aggregated:
     - '6102087'
     - '5102123'
     - '4102229'
+cached_project_image: >-
+  /assets/images/organizations/groceryships-and-netiya/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
 
 ---

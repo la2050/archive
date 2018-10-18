@@ -241,6 +241,8 @@ How do you plan to scale the success of your proposal?: >-
    College Track is in the process of defining our formal 10-year vision to scale our success to benefit a greater number of students. Our current plan involves creating deep partnerships with the schools, college and communities we serve to act as a thought partner around improving the broader college completion pipeline, both in LA and beyond. We will also take best practices from our work in Boyle Heights to further drive the seamless integration of our high school and college programming, minimizing the transition that can often serve as an obstacle in students’ quests to obtain a college degree. 
    
    College Track and the i.am.angel foundation have a history of partnering with other nonprofit and government organizations across Los Angeles, and we are happy to share the lessons learned from our work at the i.am College Track center in Boyle Heights to improve academic outcomes for students across LA and help ensure that every high school student in LA will graduate and be college and career ready by 2050.
+cached_project_image: >-
+  /assets/images/projects/2015/ensuring-boyle-heights-12th-graders-graduate-from-college/img.youtube.com/vi/vTrYQcYICQQ/maxresdefault.jpg
 youtube_video_identifier: vTrYQcYICQQ
 organization_name: College Track & i.am.angel Foundation
 

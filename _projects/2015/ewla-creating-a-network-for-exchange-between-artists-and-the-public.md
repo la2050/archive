@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
    We will explore the feasibility of hiring a permanent staff and securing a permanent space in Downtown LA to act as a warehouse to store resources, office and event space.
    
    Based on what we learn in Los Angeles, we will expand with similar focused programs in other major art capitals, such as NY, Chicago and Miami. This will also enable our participants in LA to have more opportunities to make exchanges with people from other cities.
+cached_project_image: >-
+  /assets/images/projects/2015/ewla-creating-a-network-for-exchange-between-artists-and-the-public/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23594%252Fdisplay%252FEW_Molly_EWLA_sm.jpg=c570x385.jpg
 maker_image_id: '23594'
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
 organization_name: ExchangeWorks

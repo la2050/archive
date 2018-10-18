@@ -34,5 +34,7 @@ aggregated:
     - '2018'
   project_ids:
     - '5102284'
+cached_project_image: >-
+  /assets/images/organizations/roots-wings/activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg
 
 ---

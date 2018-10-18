@@ -32,5 +32,7 @@ aggregated:
   project_ids: []
 maker_image_file_name: Shank_130920_453.jpg
 maker_image_id: '21753'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-performance-practice/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21753%252Fdisplay%252FShank_130920_453.jpg=c570x385.jpg
 
 ---

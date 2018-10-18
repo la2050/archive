@@ -38,5 +38,7 @@ aggregated:
     - '5102322'
     - '4102178'
 youtube_video_identifier: r9LtyQwYAks
+cached_project_image: >-
+  /assets/images/organizations/treepeople/img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg
 
 ---

@@ -245,6 +245,8 @@ How do you plan to scale the success of your proposal?: >-
   the fleet to grow to 1,000 vehicles by the end of 2017. As other vehicles come
   to market that meet the range and passenger capacity criteria for the
   company’s model, Green Commuter intends to diversify its fleet.
+cached_project_image: >-
+  /assets/images/projects/2015/green-commuter-la2050/img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg
 youtube_video_identifier: TjRq-S_gY9U
 organization_name: Green Commuter
 

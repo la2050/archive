@@ -249,6 +249,8 @@ How do you plan to scale the success of your proposal?: |-
    If a culture of respecting our young people's rights to play has been nourished.
    
    We continue to develop and support Los Angeles communities to become safer and more connected.
+cached_project_image: >-
+  /assets/images/projects/2015/eureka-villa-permanent-adventure-playground-and-county-wide-pop-ups-by-scv-adventure-play/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24111%252Fdisplay%252FSCV_ADvplay_table_logo.png=c570x385.png
 maker_image_id: '24111'
 maker_image_file_name: SCV_ADvplay_table_logo.png
 organization_name: SCV Adventure Play

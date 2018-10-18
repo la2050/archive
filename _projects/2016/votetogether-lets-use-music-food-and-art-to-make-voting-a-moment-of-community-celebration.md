@@ -115,6 +115,8 @@ project_proposal_best_place: >-
   that is community-driven, celebratory, creative, and collaborative. By
   conducting the effort as a random control trial, we will learn more about
   effective strategies to improve voter participation in Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2016/votetogether-lets-use-music-food-and-art-to-make-voting-a-moment-of-community-celebration/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1862313165741-team91.jpg
 organization_name: Civic Nation
 organization_website: civicnation.org
 

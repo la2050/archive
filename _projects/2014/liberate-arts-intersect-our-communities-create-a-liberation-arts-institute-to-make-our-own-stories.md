@@ -176,6 +176,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    3) Consistency to core vision of collective liberation and generating intersecting spaces to build our stories. Big-picture keeps us united.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/liberate-arts-intersect-our-communities-create-a-liberation-arts-institute-to-make-our-own-stories/img.youtube.com/vi/V_x6dj_Fa9M/maxresdefault.jpg
 youtube_video_identifier: V_x6dj_Fa9M
 
 ---

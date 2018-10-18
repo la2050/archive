@@ -36,5 +36,7 @@ aggregated:
     - '5102337'
     - '4102219'
 youtube_video_identifier: YHlDfLtzSio
+cached_project_image: >-
+  /assets/images/organizations/usac-office-of-the-president-and-usac-student-wellness-commission-at-ucla/img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg
 
 ---

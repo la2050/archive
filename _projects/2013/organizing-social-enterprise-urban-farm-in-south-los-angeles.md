@@ -409,6 +409,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   schools Academic Performance Index are comparable to those of the affluent
   neighborhoods and healthy, thriving children are learning and increasingly
   attending higher education institutions. 
+cached_project_image: >-
+  /assets/images/projects/2013/organizing-social-enterprise-urban-farm-in-south-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16812%252Fdisplay%252FLogo_Color_Large2.png=c570x385.png
 maker_image_id: '16812'
 maker_image_file_name: Logo_Color_Large2.png
 

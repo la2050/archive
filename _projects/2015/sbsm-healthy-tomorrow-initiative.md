@@ -294,6 +294,8 @@ How do you plan to scale the success of your proposal?: >-
   reasons why SBSM has grown to impact over 92,000 students per year with our 95
   fitness centers in LAUSD. With the help of the L.A. 2050 grant, SBSM will be
   able to expand our reach in LAUSD even further.
+cached_project_image: >-
+  /assets/images/projects/2015/sbsm-healthy-tomorrow-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23214%252Fdisplay%252FIMG_0438.JPG=c570x385.jpg
 maker_image_id: '23214'
 maker_image_file_name: IMG_0438.JPG
 organization_name: The Sound Body Sound Mind Foundation

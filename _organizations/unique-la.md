@@ -56,5 +56,7 @@ aggregated:
     - '3102111'
 maker_image_file_name: LA2050.jpg
 maker_image_id: '17068'
+cached_project_image: >-
+  /assets/images/organizations/unique-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17068%252Fdisplay%252FLA2050.jpg=c570x385.jpg
 
 ---

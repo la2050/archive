@@ -118,6 +118,8 @@ project_proposal_best_place: >-
 
 
   •Create in the public civic engagement in individual and collective action.
+cached_project_image: >-
+  /assets/images/projects/2016/telenovelas-in-the-park-a-new-way-of-learning/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156269625741-team90.jpg
 organization_name: Mujeres de la Tierra
 organization_website: www.mujeresdelatierra.org
 

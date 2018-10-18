@@ -270,6 +270,8 @@ How do you plan to scale the success of your proposal?: >-
    o Parent Involvement: Following the lead of and supporting parents in leadership roles in park activities such as gardening, park maintenance, activities club formation, and canvassing for local support. At Berendo, for example, we will provide greening assistance for a group of parents eager to enhance gardens in the schools’ grassy play spaces. Doing so will increase park vibrancy, attracting additional community involvement and support.
    o Civic Engagement: Engaging parents, teachers and stakeholders to elevate community voice in Community School Park formation/maintenance. Organizing participation in key neighborhood, city and district policy meetings. 
    o Fundraising:Training and assistance for community members seeking funds for ongoing park activity. Includes assistance requesting funds from the county, city and neighborhood councils.
+cached_project_image: >-
+  /assets/images/projects/2015/people-for-parks-community-school-parks/img.youtube.com/vi/3nATZG2br34/maxresdefault.jpg
 youtube_video_identifier: 3nATZG2br34
 organization_name: People for Parks
 

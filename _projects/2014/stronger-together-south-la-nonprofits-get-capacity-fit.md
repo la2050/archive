@@ -212,6 +212,8 @@ Whom will your project benefit? Please be specific.: >-
    CompassPoint Nonprofit Services [http://www.compasspoint.org/] is an additional committed partner, assisting in training, coaching and curriculum development. While based in the Bay Area, they literally have written the textbooks on consulting, coaching, facilitation and other tools and techniques. With their commitment and expertise, CompassPoint will benefit us by expediting the facilitator process and by providing coaching to the SoACT capacity building team. 
    
    Three factors critical to the success of our project include: maintaining credible and responsive relationships with SLA nonprofits; maximizing the use of social network tools to engage and make more readily available capacity building knowledge; and cultural competence and responsiveness to the unique needs of diverse organizations.
+cached_project_image: >-
+  /assets/images/projects/2014/stronger-together-south-la-nonprofits-get-capacity-fit/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg
 youtube_video_identifier: iHlwRhoV_78
 
 ---

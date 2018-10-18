@@ -379,6 +379,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   natural beauty or a perfumed breeze.   The vision we propose is poetic
   perhaps, but it is rooted in this place, and its ambitions are social,
   political and utopian.  
+cached_project_image: >-
+  /assets/images/projects/2013/endless-orchard/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17139%252Fdisplay%252FFallenFruit_trio_endless.jpeg=c570x385.jpg
 maker_image_id: '17139'
 maker_image_file_name: FallenFruit_trio_endless.jpeg
 

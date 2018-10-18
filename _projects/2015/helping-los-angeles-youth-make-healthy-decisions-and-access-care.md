@@ -330,6 +330,8 @@ How do you plan to scale the success of your proposal?: >-
    -Local and national dissemination and communications activities and
     
    -Publication of the research results in a variety of fora.
+cached_project_image: >-
+  /assets/images/projects/2015/helping-los-angeles-youth-make-healthy-decisions-and-access-care/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23806%252Fdisplay%252FUSE_THIS_ONE.jpg=c570x385.jpg
 maker_image_id: '23806'
 maker_image_file_name: USE_THIS_ONE.jpg
 organization_name: Planned Parenthood Los Angeles (PPLA)

@@ -199,6 +199,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    3. St. Anne’s, one of our ECE partner schools, serves some of the most abused, abandoned, neglected, and otherwise challenged young women and children in Los Angeles County. St. Anne’s offers an array of comprehensive programs including but not limited to, transitional housing, child care, family literacy, and educational and vocational preparation. All of their programs strive to empower and educate by providing the highest level of care and resources so as to help young women and children recognize their own value and potential, giving them the hope and the tools needed for a better future.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/teach-for-america-los-angeles-transforming-the-young-students-of-today-into-the-leaders-of-2050/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21106%252Fdisplay%252Frsz_1rsz_2mktg_201406_ece_landingpage_goi.jpg=c570x385.jpg
 maker_image_id: '21106'
 maker_image_file_name: rsz_1rsz_2mktg_201406_ece_landingpage_goi.jpg
 

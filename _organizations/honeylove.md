@@ -50,5 +50,7 @@ aggregated:
   project_ids:
     - '3102150'
 youtube_video_identifier: TkvIb74D38g
+cached_project_image: >-
+  /assets/images/organizations/honeylove/img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg
 
 ---

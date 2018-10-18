@@ -540,6 +540,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/globalgirl-media-hive-network/img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg
 youtube_video_identifier: gHdNsESWQgM
 
 ---

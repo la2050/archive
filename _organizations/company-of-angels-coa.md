@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '4102020'
 youtube_video_identifier: '-MVQfBjaOS0'
+cached_project_image: >-
+  /assets/images/organizations/company-of-angels-coa/img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg
 
 ---

@@ -35,5 +35,7 @@ aggregated:
     - '5102097'
     - '4102197'
 youtube_video_identifier: 2EbK6sblpo0
+cached_project_image: >-
+  /assets/images/organizations/facing-history-and-ourselves-inc/img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg
 
 ---

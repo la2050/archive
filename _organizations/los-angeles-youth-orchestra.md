@@ -47,5 +47,7 @@ aggregated:
   project_ids:
     - '3102191'
 youtube_video_identifier: OSdBClactgc
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-youth-orchestra/img.youtube.com/vi/OSdBClactgc/maxresdefault.jpg
 
 ---

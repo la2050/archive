@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '5102238'
 youtube_video_identifier: MY3TeVh867s
+cached_project_image: >-
+  /assets/images/organizations/play-with-music-the-new-history-parent-organization-of-play-with-music-current-transition-filing-501c3-status-for-play-with-music/img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg
 
 ---

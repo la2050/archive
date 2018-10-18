@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
    As the program continues and expands, we will be mindful of re-shaping it to meet family, neighborhood, and community needs. Financial education curriculum and design of matched savings accounts will be replicated through staff training and strong relationships with financial institutions. But other components—such as participant outreach and retention (regular savings deposits)—will be customized based on language, cultural, and other considerations specific to the many communities, populations, and traditions that are part of our L.A. landscape.
    
    Our L.A. landscape is itself a dynamic element of change. Partnering with LA2050, we’re optimistic that by the year 2050 the beneficiaries of these matched college savings accounts will be sending their own children to college—part of a tradition of learning in Los Angeles where everyone who wishes for, envisions, and strives for college enrollment and completion can achieve it.
+cached_project_image: >-
+  /assets/images/projects/2015/ypis-college-promise-college-matched-savings-accounts/img.youtube.com/vi/8EU-FnJm4xE/maxresdefault.jpg
 youtube_video_identifier: 8EU-FnJm4xE
 organization_name: Youth Policy Institute
 

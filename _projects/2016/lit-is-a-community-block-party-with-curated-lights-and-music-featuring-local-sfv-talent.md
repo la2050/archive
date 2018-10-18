@@ -118,6 +118,8 @@ project_proposal_best_place: >-
   Valley, giving the diverse residents, businesses and visitors an opportunity
   to proudly celebrate a unique past, in the present, while building the
   community of their future.
+cached_project_image: >-
+  /assets/images/projects/2016/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
 organization_name: Valley Relics
 organization_website: litresedablvd.wordpress.com
 

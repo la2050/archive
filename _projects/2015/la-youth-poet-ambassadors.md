@@ -214,6 +214,8 @@ How do you plan to scale the success of your proposal?: >-
   activists spaces across LA, but ultimately as we grow this model, we have a
   vision and plan to engage the LA Unified School District to enter this work
   into school and after-school settings.
+cached_project_image: >-
+  /assets/images/projects/2015/la-youth-poet-ambassadors/img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg
 youtube_video_identifier: WendT0Sm-Tk
 organization_name: Urban Word Los Angeles
 

@@ -228,6 +228,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   that they use not only at recess but in the classroom and in the community. 
   Educational success will not be determined by your zip code as all schools
   will be safe, fun and rich with educational opportunities.
+cached_project_image: >-
+  /assets/images/projects/2013/creating-a-positive-learning-environment/img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg
 youtube_video_identifier: mJP7rkVcRfo
 
 ---

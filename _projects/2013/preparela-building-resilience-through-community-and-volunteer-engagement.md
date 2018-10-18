@@ -455,6 +455,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/preparela-building-resilience-through-community-and-volunteer-engagement/img.youtube.com/vi/o9qNFS7Opf0/maxresdefault.jpg
 youtube_video_identifier: o9qNFS7Opf0
 
 ---

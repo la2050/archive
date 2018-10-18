@@ -218,6 +218,8 @@ How do you plan to scale the success of your proposal?: >-
    This project is expressive of our desire to move this work further along these lines, now and in the future.
    
    Because of the unique approach of community engagement through this project we have begun to identify other foundations that have this as their funding priorities such as the James Irvine Foundation and their Exploring Engagement Fund Grant. We also hope that this project can be a catalyst to bring together many more collaborators around Los Angeles who are doing great work around poetry and expand the partnership to potentially develop a city-wide crowdsourcing campaign to expand the work to a larger scale.
+cached_project_image: >-
+  /assets/images/projects/2015/poetry-is-life-poetry-is-story/img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg
 youtube_video_identifier: gX3uzlinkXc
 organization_name: Tia Chucha's Centro Cultural
 

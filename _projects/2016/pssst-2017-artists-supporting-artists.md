@@ -148,6 +148,8 @@ project_proposal_best_place: >-
   Coordinator Pilar Gallego is a transgender Latinx artist. Young Artist Fellow,
   Brenzy Solorzano, is an undocumented Chicana developing a long-term exhibition
   project.
+cached_project_image: >-
+  /assets/images/projects/2016/pssst-2017-artists-supporting-artists/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 organization_name: PSSST
 organization_website: www.pssst.xyz
 

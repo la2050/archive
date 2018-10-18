@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '4102013'
 youtube_video_identifier: q9wQFn0hPbk
+cached_project_image: >-
+  /assets/images/organizations/b-r-i-d-g-e-theatre-project-fiscal-sponsor-the-attic-theatre/img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg
 
 ---

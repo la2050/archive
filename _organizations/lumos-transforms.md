@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102078'
+cached_project_image: >-
+  /assets/images/organizations/lumos-transforms/activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
 
 ---

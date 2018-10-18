@@ -206,6 +206,8 @@ How do you plan to scale the success of your proposal?: >-
   We would partner with the city of Los Angeles to roll out a larger Monolithic
   Dome building program. We would also look to corporate sponsorship to
   contribute a number of Dome homes.
+cached_project_image: >-
+  /assets/images/projects/2015/dome4ahome-a-revolutionary-idea-for-low-income-housing/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23466%252Fdisplay%252Flarge_domes-134_crop.jpg=c570x385.jpg
 maker_image_id: '23466'
 maker_image_file_name: large_domes-134_crop.jpg
 organization_name: 'HDomes.com, Shacklebrand Designs'

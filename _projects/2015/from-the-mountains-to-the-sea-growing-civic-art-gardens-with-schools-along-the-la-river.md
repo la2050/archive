@@ -268,6 +268,8 @@ How do you plan to scale the success of your proposal?: >-
    We've identified 8 high schools along the river as pilot sites, from public schools specializing in the arts, to parochial schools for catholics and muslims. The other 2 two schools we plan to work with are Inner City Arts to reach elementary school children and Sci-Arc to offer college and graduate students opportunities to engage in real world applications of civic design studies.
    
    Winning the LA2050 grant will provide seed money for the coordination of partners with this program and producing the prototype garden. In addition to the treasure, winning the LA2050 grant offers opportunities for counsel and potential partnerships with your advisors and their time, talents and resources as well. It would be an honor to work with you to help make LA a better place to play in the most livable, educational, connecting and creative senses of the word! Thanks for the opportunity to share our project and ideas with the public!
+cached_project_image: >-
+  /assets/images/projects/2015/from-the-mountains-to-the-sea-growing-civic-art-gardens-with-schools-along-the-la-river/img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg
 youtube_video_identifier: 1Qmy2pX9eEo
 organization_name: Unycyn Civic Arts
 

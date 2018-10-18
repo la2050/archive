@@ -231,6 +231,8 @@ Whom will your project benefit? Please be specific.: >-
    The colleges and universities provide vital first year services to incoming freshman, including academic preparedness resources (via tutoring services, counseling, workshops and school orientation programs) and financial hardship resources (via financial aid, financial counseling, and work study). Additionally, several participating colleges visit Alliance high school campuses to educate and enroll incoming Alliance freshman in first year, university-based support programs and placement exams. Others have hosted orientation days specifically for Alliance alumni and incoming Alliance freshman, including discussion of the peer mentoring program. 
    
    Alliance through its college counselors, AMP coordinators and, most importantly, AMP mentors provide the necessary social and cultural capital to leverage the resources provided by the colleges and universities. Alliance mentors serve as extended outreach for college and university first-year completion programs.
+cached_project_image: >-
+  /assets/images/projects/2014/alliance-mentoring-program-amp/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20500%252Fdisplay%252F2013_Graduation_Luskin_Academy_(54).jpg=c570x385.jpg
 maker_image_id: '20500'
 maker_image_file_name: 2013_Graduation_Luskin_Academy_(54).jpg
 

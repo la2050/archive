@@ -202,6 +202,8 @@ Whom will your project benefit? Please be specific.: >-
    Church & State
    
    Local radio stations KCRW and KPCC would be a perfect partner to get the word out to the local community, setting a tone of local engagement. You can hear the announcement before Which Way LA, or work in concert to have combine Conversation Meals with events that would benefit from debriefing in a more intimate or innovative way than a cocktail party.
+cached_project_image: >-
+  /assets/images/projects/2014/la-conversation-meals/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22481%252Fdisplay%252FLA2050.png=c570x385.png
 maker_image_id: '22481'
 maker_image_file_name: LA2050.png
 

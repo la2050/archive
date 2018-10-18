@@ -28,5 +28,7 @@ aggregated:
     - '4102190'
 maker_image_file_name: DSC02097-2.jpg
 maker_image_id: '21199'
+cached_project_image: >-
+  /assets/images/organizations/zanja-madre-the-shed-pasadena-la-loma-development/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21199%252Fdisplay%252FDSC02097-2.jpg=c570x385.jpg
 
 ---

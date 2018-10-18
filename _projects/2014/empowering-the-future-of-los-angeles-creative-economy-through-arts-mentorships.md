@@ -185,6 +185,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. A centralized location for regular student art shows and performances
    3. Ability to hire staff that can fully dedicate time and resources for the management and implementation of all our programs and services
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/empowering-the-future-of-los-angeles-creative-economy-through-arts-mentorships/img.youtube.com/vi/wCzlVkF31Vw/maxresdefault.jpg
 youtube_video_identifier: wCzlVkF31Vw
 
 ---

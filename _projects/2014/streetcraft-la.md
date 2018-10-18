@@ -168,6 +168,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    In all of our partnerships, philosophical alignment is the critical elements. The Streetcraft venture has a set of deeply held core values: every person has strengths and talents that need to be respected and placed at the center of any plan to train, educate, and support that person. All of our partners share this commitment to the intrinsic worth of our participants.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/streetcraft-la/img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg
 youtube_video_identifier: LDkB_pxZu2k
 
 ---

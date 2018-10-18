@@ -142,6 +142,8 @@ Whom will your project benefit? Please be specific.: >-
    Open mindedness
    Desire to learn from the other and contribute
    Be inclusive and share
+cached_project_image: >-
+  /assets/images/projects/2014/this-is-the-moment/img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg
 youtube_video_identifier: 1JDr-eMpJX4
 
 ---

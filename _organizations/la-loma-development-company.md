@@ -59,5 +59,7 @@ aggregated:
     - '3102068'
 maker_image_file_name: La_Loma_Development_Single_Picture.jpg
 maker_image_id: '16974'
+cached_project_image: >-
+  /assets/images/organizations/la-loma-development-company/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16974%252Fdisplay%252FLa_Loma_Development_Single_Picture.jpg=c570x385.jpg
 
 ---

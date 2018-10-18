@@ -42,5 +42,7 @@ aggregated:
     - '8102046'
     - '6102083'
     - '4102251'
+cached_project_image: >-
+  /assets/images/organizations/global-green/activation.la2050.org/assets/images/live/2048-wide/global-green.jpg
 
 ---

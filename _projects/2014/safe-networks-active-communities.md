@@ -192,6 +192,8 @@ Whom will your project benefit? Please be specific.: >-
    Confirmed partners for this funding opportunity include: A Window Between Worlds and Su Casa. Furthermore, Tracy M. Colunga, Violence Prevention Coordinator for the City of Long Beach, endorses this application and strongly recommends it for funding. 
    
    Required for the success of this endeavor are: funding for the project, continued collaboration between the existing partners and the acquisition of new partners, and a strong coalition of volunteer leaders.
+cached_project_image: >-
+  /assets/images/projects/2014/safe-networks-active-communities/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20761%252Fdisplay%252Flogo.png=c570x385.png
 maker_image_id: '20761'
 maker_image_file_name: logo.png
 

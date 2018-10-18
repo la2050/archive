@@ -586,6 +586,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   In short, Los Angeles will be a livable region. Angelenos will actually be
   able to get around quickly and easily, access ample new housing options, and
   have a dramatically improved quality of life.
+cached_project_image: >-
+  /assets/images/projects/2013/la-v2-0-transforming-la-into-a-world-class-place-to-live/img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg
 youtube_video_identifier: tnpBsy1mGwQ
 
 ---

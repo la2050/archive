@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102063'
 youtube_video_identifier: grALjLXwxgM
+cached_project_image: >-
+  /assets/images/organizations/newfilmmakers-los-angeles/img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg
 
 ---

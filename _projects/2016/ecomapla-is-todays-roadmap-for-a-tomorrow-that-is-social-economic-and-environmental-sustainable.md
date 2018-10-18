@@ -113,6 +113,8 @@ project_proposal_best_place: >-
   by providing pertinent information, at their fingertips in real time, on the
   sustainability of businesses, places and spaces along with transportation
   options in and around LA.
+cached_project_image: >-
+  /assets/images/projects/2016/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
 organization_name: US Green Building Council-LA
 organization_website: usgbc-la.org
 

@@ -197,6 +197,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
     2. Effective and efficient execution of Peace Projects, led by residents, that reflect cultural and other needs of the community and are designed to be sustainable
     3. Designing for the future so that projects build on each other and create designs, models, and practices that will make each project part of a larger whole
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/transforming-communities-for-peace/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22532%252Fdisplay%252FWP1_Logo_new.jpg=c570x385.jpg
 maker_image_id: '22532'
 maker_image_file_name: WP1_Logo_new.jpg
 

@@ -164,6 +164,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   absolutely free-of-charge, and to supplement the few computer science classes
   they have (if any).
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/coding-is-cool-workshop-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20237%252Fdisplay%252FCLF_Balcony-HOUSE_on_MAIN_ST-GROUP_SHOT-CLF.jpg=c570x385.jpg
 maker_image_id: '20237'
 maker_image_file_name: CLF_Balcony-HOUSE_on_MAIN_ST-GROUP_SHOT-CLF.jpg
 

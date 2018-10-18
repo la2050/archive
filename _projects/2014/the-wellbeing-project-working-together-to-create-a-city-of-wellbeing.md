@@ -231,6 +231,8 @@ Whom will your project benefit? Please be specific.: >-
    Panel of Experts: This advisory group allows us to tap into the international wellbeing knowledge bank. Panel participants represent a broad range of disciplines, including economics, behavioral science, public health, public policy, sustainability, and technology/data science.
    Daylight Design: This team has been engaged to apply human centered design principles to tease out critical questions, challenges, and opportunities inherent to this project. Through deep listening, research, and synthesis, Daylight helped us create the guiding principles and vision for how and why users would engage with the index. During the user experience visioning process, Daylight's work had a catalytic impact, helping all aspects of the project move from 'what' toward 'how.'
    Bloomberg Philanthropies: The project was conceived of thanks to Bloomberg Philanthropies Mayors Challenge, a contest to ignite innovation in local government. As 1 of 5 winning cities, Santa Monica continues to benefit from guidance and advice of this expert team.
+cached_project_image: >-
+  /assets/images/projects/2014/the-wellbeing-project-working-together-to-create-a-city-of-wellbeing/img.youtube.com/vi/quAWRNiRKEg/hqdefault.jpg
 youtube_video_identifier: quAWRNiRKEg
 
 ---

@@ -223,6 +223,8 @@ How do you plan to scale the success of your proposal?: >-
   small business community, we will be able to help drive applicants and help
   deliver quality candidates to stores that have never had a system to track and
   source new applicants.
+cached_project_image: >-
+  /assets/images/projects/2015/game-changing-marketplace-to-source-hourly-jobseekers/img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg
 youtube_video_identifier: 9l0UWGhKU-U
 organization_name: JobCouch
 

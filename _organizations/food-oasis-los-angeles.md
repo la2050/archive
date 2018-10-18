@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102070'
+cached_project_image: >-
+  /assets/images/organizations/food-oasis-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
 
 ---

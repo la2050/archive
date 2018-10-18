@@ -37,5 +37,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102260'
+cached_project_image: >-
+  /assets/images/organizations/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
 
 ---

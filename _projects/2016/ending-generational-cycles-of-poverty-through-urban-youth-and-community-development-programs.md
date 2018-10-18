@@ -156,6 +156,8 @@ project_proposal_best_place: >-
   day as a final presentation. Our goal is to bring community and groups
   together as a way of activating unused community space in the Crenshaw
   district.
+cached_project_image: >-
+  /assets/images/projects/2016/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
 organization_name: 'Unite A Nation, Inc.'
 organization_website: www.uniteanation.org
 

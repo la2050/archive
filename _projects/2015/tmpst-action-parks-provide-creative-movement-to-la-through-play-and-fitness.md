@@ -217,6 +217,8 @@ How do you plan to scale the success of your proposal?: >-
   the city in neighborhoods so that everyone will have an opportunity to enjoy a
   TMPST Action Park. These Action Parks can also be a destination for local
   schools to help teach physical education and bring fun through fitness!
+cached_project_image: >-
+  /assets/images/projects/2015/tmpst-action-parks-provide-creative-movement-to-la-through-play-and-fitness/img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg
 youtube_video_identifier: k-SpD948tJc
 organization_name: Tempest Action Parks
 

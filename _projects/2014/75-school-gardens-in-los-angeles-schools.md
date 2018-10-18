@@ -145,6 +145,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   hope to partner with like-minded organizations concerned with offering edible
   education and green spaces to local students.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/75-school-gardens-in-los-angeles-schools/img.youtube.com/vi/3CNwJdOyIDQ/maxresdefault.jpg
 youtube_video_identifier: 3CNwJdOyIDQ
 
 ---

@@ -160,6 +160,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    o Council District 9: Important partner and supporter for project. Essential support with alley closure piece and other logistics and community relations support
    o Los Angeles Police Department: Attends monthly platicas and works with residents to discuss safety and community issues
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/run-for-your-life/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20215%252Fdisplay%252FRUN_FOR_YOUR_LIFE.jpg=c570x385.jpg
 maker_image_id: '20215'
 maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
 

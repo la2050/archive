@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102011'
 youtube_video_identifier: KRKqNflY-PU
+cached_project_image: >-
+  /assets/images/organizations/audubon-california/img.youtube.com/vi/KRKqNflY-PU/hqdefault.jpg
 
 ---

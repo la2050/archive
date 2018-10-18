@@ -318,6 +318,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/kids-play-at-pershing-square/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385.jpg
 maker_image_id: '20546'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 

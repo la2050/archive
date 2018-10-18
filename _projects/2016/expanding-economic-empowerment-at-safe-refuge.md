@@ -70,6 +70,8 @@ project_proposal_best_place: >-
   per capita and Unemployment rates and opportunities for the formerly
   incarcerated, although the project would benefits multiple vulnerable
   populations.
+cached_project_image: >-
+  /assets/images/projects/2016/expanding-economic-empowerment-at-safe-refuge/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
 organization_name: Safe Refuge
 organization_website: www.asaferefuge.org
 

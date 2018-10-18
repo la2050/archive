@@ -183,6 +183,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
 
   Friends, everything begins with an idea, then you believe in the idea and
   viola....its created!
+cached_project_image: >-
+  /assets/images/projects/2013/cypress-village-underground-tunnel-art-walk-gallery-and-economic-vitality/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16313'
 maker_image_file_name: samsung_device_801.jpg
 

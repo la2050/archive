@@ -108,6 +108,8 @@ project_proposal_best_place: >-
   health, jobs and housing. We are a group of people who believe that every
   person deserves to LIVE with a roof over their heads, and want to do something
   about it. Please join us. Together, we CAN end homelessness.
+cached_project_image: >-
+  /assets/images/projects/2016/a-way-home-for-women-children/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
 organization_name: Union Rescue Mission
 organization_website: www.urm.org
 

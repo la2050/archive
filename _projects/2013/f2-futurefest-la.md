@@ -263,6 +263,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   transform humanity  to create a better and more evolved future.  LA will have
   benefitted by being host to this remarkable festival showcasing the great
   genius of humankind.       
+cached_project_image: >-
+  /assets/images/projects/2013/f2-futurefest-la/img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg
 youtube_video_identifier: n_itMCVl124
 
 ---

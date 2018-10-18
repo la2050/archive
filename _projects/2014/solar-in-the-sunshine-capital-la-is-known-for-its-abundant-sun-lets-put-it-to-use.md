@@ -178,6 +178,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2) Build relationships with local businesses and organizations that in turn provide clothing donations and host clothing drives to generate donations for us. 
    3) Annually, we have about 40 volunteers serve a total of 5,550 hours. Volunteers include youth interns from youth employment programs such as YO Watts, community service volunteers, philanthropy groups, Temporary Subsidized Employees, and ReEmployability employees.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/solar-in-the-sunshine-capital-la-is-known-for-its-abundant-sun-lets-put-it-to-use/img.youtube.com/vi/keXQ-tYKL9g/maxresdefault.jpg
 youtube_video_identifier: keXQ-tYKL9g
 
 ---

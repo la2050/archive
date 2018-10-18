@@ -187,6 +187,8 @@ Whom will your project benefit? Please be specific.: >-
    We also hope to attract participation from famous musicians, and inspire students with an opportunity to be in a “virtual band” with them. We’ll lean on our entire professional & personal network to achieve this goal.
     
    Finally, we have relationships with many socially conscious local tech firms, including Pull Creative,100 Years, Ludlow Kingsley & Arts of Olympus, who are all on board to help. Together we will create the most impactful program and platform possible.
+cached_project_image: >-
+  /assets/images/projects/2014/play-with-music-platform-pwmp/img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg
 youtube_video_identifier: o1W8HEqylCg
 
 ---

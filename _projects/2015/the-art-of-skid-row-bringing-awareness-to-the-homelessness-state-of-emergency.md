@@ -212,6 +212,8 @@ How do you plan to scale the success of your proposal?: >-
    25%: Market Linked Units: These units are linked to market pricing, but are priced lower than the subject property’s submarket to provide a competitive advantage and keep our units fully occupied at all times.
    10%: Transitional Units: These units have the ability to transition 120 - 240 at risk / homeless individuals into stable housing through our 6 month or 1 year comprehensive programs.
    By using various for-profit business models, Sustaynabl will provide a source of funding for responsible housing development and create the foundation of a balanced housing market.
+cached_project_image: >-
+  /assets/images/projects/2015/the-art-of-skid-row-bringing-awareness-to-the-homelessness-state-of-emergency/img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg
 youtube_video_identifier: 5-66_Xqn0Cw
 organization_name: Sustaynabl
 

@@ -89,6 +89,8 @@ project_proposal_best_place: >-
   Jeneration J reflects an intervention and advocacy model that educates youth
   and young adults on healthy relationships and trains them to be the next
   generation of anti-violence advocates.
+cached_project_image: >-
+  /assets/images/projects/2016/jeneration-j-a-new-generation-of-healthy-relationships/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
 organization_name: 'Jenesse Center, Inc.'
 organization_website: www.jenesse.org
 

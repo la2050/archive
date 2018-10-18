@@ -37,5 +37,7 @@ aggregated:
     - '5102267'
 maker_image_file_name: logo3.jpg
 maker_image_id: '23929'
+cached_project_image: >-
+  /assets/images/organizations/silverlake-independent-jewish-community-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23929%252Fdisplay%252Flogo3.jpg=c570x385.jpg
 
 ---

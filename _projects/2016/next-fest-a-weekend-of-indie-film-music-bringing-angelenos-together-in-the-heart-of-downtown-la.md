@@ -132,6 +132,8 @@ project_proposal_best_place: >-
   to be able to broaden our outreach in Los Angeles through a fully underwritten
   community ticket initiative and by continuing to offer a free, public space
   for NEXT FEST attendees and the vibrant downtown neighborhood.
+cached_project_image: >-
+  /assets/images/projects/2016/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
 organization_name: Sundance Institute
 organization_website: sundance.org
 

@@ -178,6 +178,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   <p>In 2050, Los Angeles residents will remember the role that community
   residents played to reclaim their public spaces, get organized, and advance
   transformative change one neighborhood at a time.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/safer-hoods-through-arts-action-and-community/img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg
 youtube_video_identifier: 8O5p-fqguRo
 
 ---

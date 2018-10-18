@@ -44,5 +44,7 @@ aggregated:
     - '8102123'
     - '6102259'
     - '4102176'
+cached_project_image: >-
+  /assets/images/organizations/the-trust-for-public-land/www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg?itok=OHPrb8Ri.jpg
 
 ---

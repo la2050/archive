@@ -29,5 +29,7 @@ aggregated:
   project_ids:
     - '4102125'
 youtube_video_identifier: C1uVBoRtQ74
+cached_project_image: >-
+  /assets/images/organizations/families-in-schools/img.youtube.com/vi/C1uVBoRtQ74/hqdefault.jpg
 
 ---

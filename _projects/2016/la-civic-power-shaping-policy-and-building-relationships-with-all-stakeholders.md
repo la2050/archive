@@ -144,6 +144,8 @@ project_proposal_best_place: >-
   further delve into countywide policy advocacy and implementation by engaging
   both core and new partners in identifying local issues, expanding our tools
   and trainings, and tracking county policy.
+cached_project_image: >-
+  /assets/images/projects/2016/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
 organization_name: California Partnership
 organization_website: www.california-partnership.org
 

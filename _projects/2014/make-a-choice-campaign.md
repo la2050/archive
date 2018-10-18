@@ -191,6 +191,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The three critical factors in these partnerships are: 1. school buy-in and support for campaign implementation and dissemination, 2. continuous radio distribution/coverage of campaign, and 3. on going campaign design mentorship and brand development with youth.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/make-a-choice-campaign/img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg
 youtube_video_identifier: nF2CnqS_6oQ
 
 ---

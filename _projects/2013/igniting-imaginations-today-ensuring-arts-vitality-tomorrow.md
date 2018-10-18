@@ -335,6 +335,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   and arts participation makes us all better people; more tolerant, innovative
   and engaged. This appreciation and understanding will translate into the arts
   playing a prominent role in our city’s vitality.
+cached_project_image: >-
+  /assets/images/projects/2013/igniting-imaginations-today-ensuring-arts-vitality-tomorrow/img.youtube.com/vi/Zh5iBVuawU4/maxresdefault.jpg
 youtube_video_identifier: Zh5iBVuawU4
 
 ---

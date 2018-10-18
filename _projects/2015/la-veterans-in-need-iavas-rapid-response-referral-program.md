@@ -291,6 +291,8 @@ How do you plan to scale the success of your proposal?: >-
   grant would support these efforts. We are training RRRP Ambassadors, hiring
   L.A. social work staff, and increasing our outreach and community building
   activities.
+cached_project_image: >-
+  /assets/images/projects/2015/la-veterans-in-need-iavas-rapid-response-referral-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23674%252Fdisplay%252FImage.jpg=c570x385.jpg
 maker_image_id: '23674'
 maker_image_file_name: Image.jpg
 organization_name: Iraq and Afghanistan Veterans of America (IAVA)

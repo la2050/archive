@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102013'
+cached_project_image: >-
+  /assets/images/organizations/avalon-carver-community-center/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
 
 ---

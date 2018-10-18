@@ -43,5 +43,6 @@ aggregated:
     - '3102079'
 maker_image_file_name: image.jpg
 maker_image_id: '16307'
+cached_project_image: /assets/images/organizations/musek/maker.good.is/images/placeholder/idea.png
 
 ---

@@ -122,6 +122,8 @@ project_proposal_best_place: >-
 
   We see the Triforium as a beacon. It’s been there all along. We just need to
   turn it on.
+cached_project_image: >-
+  /assets/images/projects/2016/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles/scontent-sjc3-1.cdninstagram.com/vp/4a62f65538090842362663dad77db055/5C62A9F5/t51.2885-15/e35/20482077_1500261080035522_7220567506136596480_n.jpg
 organization_name: The Triforium Project
 organization_website: triforium.la
 

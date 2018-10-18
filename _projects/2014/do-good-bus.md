@@ -178,6 +178,8 @@ Whom will your project benefit? Please be specific.: >-
    
    EDUCATION PARTNERS
    As for causes and organizations who can help us make Do Good Field Trips a reality, we’re looking forward to working with No Right Brain Left Behind, Green Dot Schools, Breakaway Education and Zimmer Children’s Museum.
+cached_project_image: >-
+  /assets/images/projects/2014/do-good-bus/img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg
 youtube_video_identifier: T17vBV41x0g
 
 ---

@@ -335,6 +335,8 @@ How do you plan to scale the success of your proposal?: >-
    As a multi-cultural art event people would share their own particulat cultural manifestation. Since there are hundreds of cultures throughout the L.A. area there is no shortage of content for future LA Art Fests. Content would be presented for exhibitions, performance and crafts presentations. 
    
    Multi-cultural food purveyors would be included to help share the pride of our collective community. There is such a vast array of choices with the new food trucks and other food vendors that each LA ART FEST would contain completely new content each time.
+cached_project_image: >-
+  /assets/images/projects/2015/la-art-fest/img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg
 youtube_video_identifier: pnwgZVtiDAA
 organization_name: LA Art Fest & Julie Rico Gallery
 

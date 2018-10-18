@@ -228,6 +228,8 @@ How do you plan to scale the success of your proposal?: >-
    To keep true to its vision, FLY will create video/ audio recordings to aid in introducing exercises and provide clear curriculum materials: lesson plans, intentions, teacher handbooks, and student worksheets to every participating school.
    
    FLY will also provide all necessary materials and equipment including in class tools and curriculum elements such as flash cards, handouts, yoga mats, art supplies, to support our program for a full calendar year.
+cached_project_image: >-
+  /assets/images/projects/2015/fly-yoga-arts-enhancing-academic-education-through-integrated-movement-and-creative-arts-play/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385.jpg
 maker_image_id: '23727'
 maker_image_file_name: StillVideoImage_(2).jpg
 organization_name: FLY Yoga Arts

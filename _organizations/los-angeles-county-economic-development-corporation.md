@@ -36,5 +36,7 @@ aggregated:
     - '5102187'
 maker_image_file_name: StratPlanProg_Cover.jpg
 maker_image_id: '23271'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-county-economic-development-corporation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23271%252Fdisplay%252FStratPlanProg_Cover.jpg=c570x385.jpg
 
 ---

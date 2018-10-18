@@ -37,5 +37,7 @@ aggregated:
   project_ids:
     - '5102178'
 youtube_video_identifier: 1_UXQ2fFeSU
+cached_project_image: >-
+  /assets/images/organizations/living-advantage-inc/img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg
 
 ---

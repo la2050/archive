@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
    We want our program to be easily replicated at the end of 2016 hopefully with the support of organizations and communities we’ve worked with that year combined with fundraising, grant writing and effective marketing we can replicate this model easily and count on reoccurring funding to ensure Farm LA’s efforts in making this the healthiest place to live by 2050.
    
    Though Farm LA is still young, we have the applicable skills to champion our mission. We have no problem taking on leadership roles or getting our hands dirty. We have a commitment to our dream, the passion to expand and serve new sites in the future.
+cached_project_image: >-
+  /assets/images/projects/2015/help-save-the-land-with-farm-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23612%252Fdisplay%252F2050_Lg.jpg=c570x385.jpg
 maker_image_id: '23612'
 maker_image_file_name: 2050_Lg.jpg
 organization_name: Farm LA

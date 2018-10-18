@@ -230,6 +230,8 @@ How do you plan to scale the success of your proposal?: >-
   success of my proposal, and make the necessary adjustments when those same
   experts deem it necessary to accomplish the greatest degree of impact and
   effectiveness.
+cached_project_image: >-
+  /assets/images/projects/2015/enhancing-the-perspectives-of-todays-youth-and-equipping-them-with-life-skills-to-help-mankind/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23179%252Fdisplay%252FWeb_New_Com.jpg=c570x385.jpg
 maker_image_id: '23179'
 maker_image_file_name: Web_New_Com.jpg
 organization_name: Keith A. Somers International Foundation

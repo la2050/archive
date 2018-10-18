@@ -277,6 +277,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
 
   <p>It would be a great big success if I can dive into the LA River without
   having to take antibiotics afterwards.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/plunge-into-the-waters-of-the-la-river/img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg
 youtube_video_identifier: rt9TuksVaZU
 
 ---

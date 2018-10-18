@@ -33,5 +33,7 @@ aggregated:
     - '5102180'
 maker_image_file_name: LA2050.png
 maker_image_id: '22481'
+cached_project_image: >-
+  /assets/images/organizations/nationbuilder/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22481%252Fdisplay%252FLA2050.png=c570x385.png
 
 ---

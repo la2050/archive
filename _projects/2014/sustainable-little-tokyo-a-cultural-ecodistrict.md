@@ -164,6 +164,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2) There are distinct yet intertwined roles for each of the partners that must be appropriately woven together.
    3) The partners will need to maintain a nimble and flexible strategy that fluidly adjusts to shifting policy currents.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/sustainable-little-tokyo-a-cultural-ecodistrict/img.youtube.com/vi/QQpabiJ0uus/hqdefault.jpg
 youtube_video_identifier: QQpabiJ0uus
 
 ---

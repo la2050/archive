@@ -305,6 +305,8 @@ How do you plan to scale the success of your proposal?: >-
   existing services, resources and technical assistance to at least 3,000 more
   youth, parents and partners. We also intend to have a model that can be
   replicated in other Los Angeles area schools and beyond.
+cached_project_image: >-
+  /assets/images/projects/2015/abuse-love-la-youth-against-violence-initiative/img.youtube.com/vi/2EuVrQnBaFE/maxresdefault.jpg
 youtube_video_identifier: 2EuVrQnBaFE
 organization_name: 'Jenesse Center, Inc.'
 

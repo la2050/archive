@@ -34,5 +34,7 @@ aggregated:
   project_ids:
     - '4102127'
 youtube_video_identifier: q2OELc_KuI4
+cached_project_image: >-
+  /assets/images/organizations/foundation-for-california-community-colleges-fiscal-sponsor/img.youtube.com/vi/q2OELc_KuI4/hqdefault.jpg
 
 ---

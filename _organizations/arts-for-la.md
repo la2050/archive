@@ -60,5 +60,7 @@ aggregated:
     - '3102028'
 maker_image_file_name: Andrew_Colunga_whole_image_sm.jpg
 maker_image_id: '16399'
+cached_project_image: >-
+  /assets/images/organizations/arts-for-la/maker.good.is/images/placeholder/idea.png
 
 ---

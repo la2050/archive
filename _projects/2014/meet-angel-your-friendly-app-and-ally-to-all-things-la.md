@@ -205,6 +205,8 @@ Whom will your project benefit? Please be specific.: >-
    (1) Partner engagement to clientele
    (2) Clientele interest through partner
    (3) Mutually beneficial results for both us and partner
+cached_project_image: >-
+  /assets/images/projects/2014/meet-angel-your-friendly-app-and-ally-to-all-things-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22289%252Fdisplay%252FPA-angel.jpg=c570x385.jpg
 maker_image_id: '22289'
 maker_image_file_name: PA-angel.jpg
 

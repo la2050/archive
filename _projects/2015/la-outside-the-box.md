@@ -220,6 +220,8 @@ How do you plan to scale the success of your proposal?: >-
   Los Angeles. Each of our corporate sponsors have already demonstrated their
   commitment to socially responsible community-building by thinking
   OutsideTheBox.
+cached_project_image: >-
+  /assets/images/projects/2015/la-outside-the-box/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23558%252Fdisplay%252FIMG_0112.JPG=c570x385.jpg
 maker_image_id: '23558'
 maker_image_file_name: IMG_0112.JPG
 organization_name: RRM Design Group and Los Angeles Neighborhood Initiative

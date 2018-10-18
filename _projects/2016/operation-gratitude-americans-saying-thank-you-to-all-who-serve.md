@@ -138,6 +138,8 @@ project_proposal_best_place: >-
 
 
   This is Los Angeles connecting and saying “Thank You” to all who serve.
+cached_project_image: >-
+  /assets/images/projects/2016/operation-gratitude-americans-saying-thank-you-to-all-who-serve/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
 organization_name: Operation Gratitude
 organization_website: OperationGratitude.com
 

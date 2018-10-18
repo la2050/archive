@@ -129,6 +129,8 @@ project_proposal_best_place: >-
   catalyst for ideas, movements, dreams. Through our welcoming interactive
   space, game changing menu, and talent sharing, we’ll nurture authentic
   community to address a pressing need in an otherwise lonely city.
+cached_project_image: >-
+  /assets/images/projects/2016/building-a-home-that-shifts-interactions-from-pixels-to-people-from-loneliness-to-companionship/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1265013144741-team90.png
 organization_name: thecool
 organization_website: thecool.la
 

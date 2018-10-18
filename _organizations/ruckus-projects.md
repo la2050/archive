@@ -33,5 +33,7 @@ aggregated:
     - '8102115'
 maker_image_file_name: Leif_Community_Engagement_App.jpg
 maker_image_id: '23547'
+cached_project_image: >-
+  /assets/images/organizations/ruckus-projects/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23547%252Fdisplay%252FLeif_Community_Engagement_App.jpg=c570x385.jpg
 
 ---

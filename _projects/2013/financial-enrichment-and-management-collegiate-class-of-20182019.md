@@ -126,6 +126,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   high school students are prepared with the ability to understand and use
   different aspects of banking, money, and credit and its relation to personal
   income.
+cached_project_image: >-
+  /assets/images/projects/2013/financial-enrichment-and-management-collegiate-class-of-20182019/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16587%252Fdisplay%252Fphoto-33.JPG=c570x385.jpg
 maker_image_id: '16587'
 maker_image_file_name: photo-33.JPG
 

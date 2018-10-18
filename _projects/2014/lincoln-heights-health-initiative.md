@@ -183,6 +183,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   evaluate and measure success. The proposed partners meet these critical
   factors.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/lincoln-heights-health-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22088%252Fdisplay%252FLINCOLN_STATUE.jpg=c570x385.jpg
 maker_image_id: '22088'
 maker_image_file_name: LINCOLN_STATUE.jpg
 

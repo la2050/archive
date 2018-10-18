@@ -197,6 +197,8 @@ Whom will your project benefit? Please be specific.: >-
    1)Highly motivated membership
    2)Experienced with advocacy and leadership training
    3)Often ignored and misunderstood community
+cached_project_image: >-
+  /assets/images/projects/2014/wethepeople/img.youtube.com/vi/TxBLXGuD1n8/maxresdefault.jpg
 youtube_video_identifier: TxBLXGuD1n8
 
 ---

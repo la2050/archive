@@ -248,6 +248,8 @@ How do you plan to scale the success of your proposal?: >-
    At Tierra’s First Street Gallery Art Center, Helen creates paintings and drawings that are animated and full of character. Helen began creating art at Tierra in 1990, at the age of 52. Since then, her work has been shown at GoodLuck Gallery, ACME Gallery Los Angeles, and Claremont Graduate University. She earned an Award of Recognition from the Artists Beyond Disabilities Exhibition in Pasadena. Helen’s work has been featured across the country and internationally, including shows in New York City, Boston, Washington D.C., Belgium and Scotland, and a traveling exhibit viewed in Okinawa, Fukuka, and Miyazaki Japan.
    
    Helen’s career has resulted in hundreds of other artists’ success. As people discover her art, they realize that disability does not have to be a barrier to creativity, and open themselves up to appreciating art from other artists in Tierra’s program.
+cached_project_image: >-
+  /assets/images/projects/2015/empowering-artists-with-disabilities-to-fill-the-creative-industry-employment-gap/img.youtube.com/vi/duMAZ5TXBMg/maxresdefault.jpg
 youtube_video_identifier: duMAZ5TXBMg
 organization_name: Tierra del Sol Foundation
 

@@ -180,6 +180,8 @@ How do you plan to scale the success of your proposal?: >-
   efforts will continue, the grant from LA2050 will accelerate that process and,
   most importantly, make the program available to LA County sites who want it
   but are unable to afford even $1,667 per year in fees.
+cached_project_image: >-
+  /assets/images/projects/2015/middle-school-career-and-college-preparation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385.jpg
 maker_image_id: '23182'
 maker_image_file_name: CCC_pic17_small.jpg
 organization_name: Career & College clubs

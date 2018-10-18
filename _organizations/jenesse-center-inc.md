@@ -51,5 +51,7 @@ aggregated:
     - '5102149'
     - '4102230'
     - '3102159'
+cached_project_image: >-
+  /assets/images/organizations/jenesse-center-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
 
 ---

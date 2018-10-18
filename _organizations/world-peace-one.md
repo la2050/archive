@@ -35,5 +35,7 @@ aggregated:
     - '4102108'
 maker_image_file_name: WP1_Logo_new.jpg
 maker_image_id: '22532'
+cached_project_image: >-
+  /assets/images/organizations/world-peace-one/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22532%252Fdisplay%252FWP1_Logo_new.jpg=c570x385.jpg
 
 ---

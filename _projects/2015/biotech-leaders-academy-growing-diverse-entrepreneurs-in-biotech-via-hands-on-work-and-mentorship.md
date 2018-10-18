@@ -242,6 +242,8 @@ How do you plan to scale the success of your proposal?: |-
    - We will create a more formal network of mentors that is comprised of industry leaders and professionals who host student interns, present during the entrepreneurship academy, or are generally interested in assisting students as they advance in their education.
    
    - Seek additional funding sources to support the internship match and course component.
+cached_project_image: >-
+  /assets/images/projects/2015/biotech-leaders-academy-growing-diverse-entrepreneurs-in-biotech-via-hands-on-work-and-mentorship/img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg
 youtube_video_identifier: UNbHPa1n2g4
 organization_name: Los Angeles Bioscience Hub
 

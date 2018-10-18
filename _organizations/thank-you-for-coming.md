@@ -69,5 +69,7 @@ aggregated:
     - '3102106'
 maker_image_file_name: kitchen2.jpg
 maker_image_id: '16835'
+cached_project_image: >-
+  /assets/images/organizations/thank-you-for-coming/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16835%252Fdisplay%252Fkitchen2.jpg=c570x385.jpg
 
 ---

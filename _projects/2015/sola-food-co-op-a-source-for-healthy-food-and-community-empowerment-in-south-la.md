@@ -236,6 +236,8 @@ How do you plan to scale the success of your proposal?: >-
   membership we'll be ready to secure a site for the store and begin financing
   toward hiring a general manager,designing and equipping the store, obtaining
   inventory,and opening.
+cached_project_image: >-
+  /assets/images/projects/2015/sola-food-co-op-a-source-for-healthy-food-and-community-empowerment-in-south-la/img.youtube.com/vi/fi31RJKyr4I/maxresdefault.jpg
 youtube_video_identifier: fi31RJKyr4I
 organization_name: SoLA Food Co-op
 

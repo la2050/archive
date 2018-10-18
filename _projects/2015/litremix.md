@@ -261,6 +261,8 @@ How do you plan to scale the success of your proposal?: >-
    While we scale our product over time, we will also focus on keeping it accessible to all students. Access to browse the platform will always be free. To fully participate, create a profile, exchange creative files – these activities will require log-in, which comes with premium access. This keeps the network safe, and enables us to curate the art as it comes in. Premium access to the network will be granted at the individual, group and district-wide levels, with associated fees subject to each context.
    
    The LitRemix vision is a fantastic mash-up of music, videos, and visual art from all over the world –celebrating some of the greatest works of both classic and modern literature.
+cached_project_image: >-
+  /assets/images/projects/2015/litremix/img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg
 youtube_video_identifier: 0EQnXawnCQk
 organization_name: Artists for Literacy / LitRemix
 

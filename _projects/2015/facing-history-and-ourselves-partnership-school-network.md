@@ -282,6 +282,8 @@ How do you plan to scale the success of your proposal?: >-
    Facing History will publicize these stories through social media channels, blog posts, and newsletters in addition to seeking broadcast and print media coverage. These stories inspire others throughout LA and raise awareness of the network’s positive impact on LAUSD.
    
    The steady success of this project has already created ripples outside of LA. The Partner School Network model is now being replicated in other regions of the country. Chicago, Cleveland, and Memphis are now either operating or about to launch school networks that will leverage best practices from the LA network’s six years of operation.
+cached_project_image: >-
+  /assets/images/projects/2015/facing-history-and-ourselves-partnership-school-network/img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg
 youtube_video_identifier: 2EbK6sblpo0
 organization_name: 'Facing History and Ourselves, Inc'
 

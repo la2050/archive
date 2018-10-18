@@ -200,6 +200,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/social-justice-resilience-and-community-building/img.youtube.com/vi/Nry74LO2c0I/maxresdefault.jpg
 youtube_video_identifier: Nry74LO2c0I
 organization_name: Center for Council
 

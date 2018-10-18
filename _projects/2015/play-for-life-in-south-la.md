@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
   to the arts. 
    
    We also plan to scale our impact through community partnerships, most notably the creation of new community gardens throughout our neighborhood. Additionally, we are in the process of codifying the APCH approach. APCH would like to further codify and standardize the gathering and tracking of data to identify and apply appropriate metrics in assessing and documenting acquisition and development of academic skills and rigor, attitudinal change, social competency, career aptitude, self-efficacy, and preparedness for transition to next levels of education, vocation and independence.
+cached_project_image: >-
+  /assets/images/projects/2015/play-for-life-in-south-la/img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg
 youtube_video_identifier: wzFv5uV3pew
 organization_name: A Place Called Home
 

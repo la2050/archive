@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '5102345'
 youtube_video_identifier: 31zyNJHGmig
+cached_project_image: >-
+  /assets/images/organizations/youth-justice-coalition/img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg
 
 ---

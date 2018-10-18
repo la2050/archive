@@ -139,6 +139,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. The collaborator's particular needs: we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.
    3. The collaborator's accessibility: we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/lab-equipment-access-for-la-science-teachers/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21591%252Fdisplay%252Fless.png=c570x385.png
 maker_image_id: '21591'
 maker_image_file_name: less.png
 

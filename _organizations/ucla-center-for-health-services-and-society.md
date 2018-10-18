@@ -37,5 +37,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102129'
+cached_project_image: >-
+  /assets/images/organizations/ucla-center-for-health-services-and-society/activation.la2050.org/assets/images/live/2048-wide/ucla-center-for-health-services-and-society.jpg
 
 ---

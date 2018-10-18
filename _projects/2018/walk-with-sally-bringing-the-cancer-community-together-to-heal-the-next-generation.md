@@ -118,6 +118,8 @@ Where do you hope this activation or your organization will be in five years?: >
   Walk With Sally hopes to be actively engaging and supporting the entire cancer
   community within Los Angeles and have the blueprint to open regional offices
   in San Diego and/or San Francisco
+cached_project_image: >-
+  /assets/images/projects/2018/walk-with-sally-bringing-the-cancer-community-together-to-heal-the-next-generation/activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
 organization_name: Walk With Sally
 
 ---

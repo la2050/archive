@@ -169,6 +169,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Through our partnership with The Summer/City of Learning, students connected with our program will have the opportunity to participate in digital badging, a program sponsored by Mayor Garcetti’s Office. This program will enable students to map their progress through their projects and show skills gained to colleges and future employers.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/tinker-make-innovate-challenge/img.youtube.com/vi/7nv6O3U7szc/maxresdefault.jpg
 youtube_video_identifier: 7nv6O3U7szc
 
 ---

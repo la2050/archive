@@ -47,5 +47,7 @@ aggregated:
     - '4102204'
 maker_image_file_name: connect_SLATEZsigners.jpg
 maker_image_id: '24040'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-trade-technical-college/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385.jpg
 
 ---

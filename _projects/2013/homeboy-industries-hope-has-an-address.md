@@ -519,6 +519,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/homeboy-industries-hope-has-an-address/img.youtube.com/vi/8NrUFXTiEVg/maxresdefault.jpg
 youtube_video_identifier: 8NrUFXTiEVg
 
 ---

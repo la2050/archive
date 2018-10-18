@@ -230,6 +230,8 @@ How do you plan to scale the success of your proposal?: >-
   students may be matriculate in to.
    
    We also anticipate being able to engage our students on the processes of building and running a business, associated ethics and any fiscal training available. With the support of our Board of Directors and through building an Advisory Committee for this project, we will have the expertise and guidance needed to ensure we are exploring every possible angle and making practical and effective decisions in scaling our success.
+cached_project_image: >-
+  /assets/images/projects/2015/soundworks-l-a/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23245%252Fdisplay%252FSlide1.JPG=c570x385.jpg
 maker_image_id: '23245'
 maker_image_file_name: Slide1.JPG
 organization_name: Project MuszEd

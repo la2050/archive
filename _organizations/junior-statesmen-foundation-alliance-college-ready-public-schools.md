@@ -37,5 +37,7 @@ aggregated:
     - '5102154'
 maker_image_file_name: 73168.jpg
 maker_image_id: '23346'
+cached_project_image: >-
+  /assets/images/organizations/junior-statesmen-foundation-alliance-college-ready-public-schools/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23346%252Fdisplay%252F73168.jpg=c570x385.jpg
 
 ---

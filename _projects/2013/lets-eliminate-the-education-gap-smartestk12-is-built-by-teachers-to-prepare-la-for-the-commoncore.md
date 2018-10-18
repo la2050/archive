@@ -325,6 +325,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   sure that it is known in the future as a success.  Other cities around the
   world are watching to see how we do.  If we succeed, we can have a profound
   result for the entire world.
+cached_project_image: >-
+  /assets/images/projects/2013/lets-eliminate-the-education-gap-smartestk12-is-built-by-teachers-to-prepare-la-for-the-commoncore/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16780%252Fdisplay%252Fsmartestk12.homepage.student.v1.000.svg.png=c570x385.png
 maker_image_id: '16780'
 maker_image_file_name: smartestk12.homepage.student.v1.000.svg.png
 

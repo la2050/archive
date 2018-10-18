@@ -182,6 +182,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Thanks to WIN’s HIPAA-compliant data system (a system that has become the model for one the state of Connecticut has adopted for its early childhood mental health services), WIN and its partners coordinate care for each family though a jointly prepared on-line service plan that is updated by each agency regularly. The system reports monthly on how well we’re helping families achieve their goals, and allows staff to communicate in ‘real-time’ regarding family progress—as well as to coordinate care during emergencies. The system tabulates our biannual outcomes, gathering data input by staff at various levels from all partners, and reminds case managers and therapists when screenings, assessments and releases are due.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/cut-my-commute-changing-las-quality-of-life-through-local-hire/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22419%252Fdisplay%252FLA2050-Hero.jpg=c570x385.jpg
 maker_image_id: '22419'
 maker_image_file_name: LA2050-Hero.jpg
 

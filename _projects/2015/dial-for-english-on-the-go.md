@@ -260,6 +260,8 @@ How do you plan to scale the success of your proposal?: >-
    To conclude, LA is our home and we can think of no better way to serve our region than by bridging access divides to education and wellbeing. In LA County, over one-third of adults still lack “prose literacy” and cannot read a newspaper. Over 54% speak English less than well and only 5% have access to classes. Compounding the problem, adult school funding has been slashed by more than half in our county. Cell-Ed is one way to reach households with the critical language and life skills they demand. LA2050, we urge you to help us reach these households on their terms. 
    
    Our tweet to them: Ring Ring LA! Aprenda con @Cell-Ed- Inglés+Habilidades de vida. Sobre la marcha y desde cualquier teléfono, Gratis! @LA2050 #familyliteracy
+cached_project_image: >-
+  /assets/images/projects/2015/dial-for-english-on-the-go/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24155%252Fdisplay%252FScreen_Shot_2015-10-15_at_5.32.07_PM.png=c570x385.png
 maker_image_id: '24155'
 maker_image_file_name: Screen_Shot_2015-10-15_at_5.32.07_PM.png
 organization_name: Cell-Ed

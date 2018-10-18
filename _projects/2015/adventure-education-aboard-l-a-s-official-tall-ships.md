@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
   Once our third vessel, the Swift of Ipswich, has been fully restored and is
   placed back in the water, we will be able to expand our program by more than
   30%.
+cached_project_image: >-
+  /assets/images/projects/2015/adventure-education-aboard-l-a-s-official-tall-ships/img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg
 youtube_video_identifier: m_0WUOFanyM
 organization_name: Los Angeles Maritime Institute
 

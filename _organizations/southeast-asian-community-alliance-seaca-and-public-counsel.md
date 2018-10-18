@@ -36,5 +36,7 @@ aggregated:
     - '5102275'
     - '4102213'
 youtube_video_identifier: fMyc7c0Ylc4
+cached_project_image: >-
+  /assets/images/organizations/southeast-asian-community-alliance-seaca-and-public-counsel/img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg
 
 ---

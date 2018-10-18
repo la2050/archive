@@ -237,6 +237,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   by all — a new narrative in place having arisen directly from its context; a
   new economy firmly established; and La Placita Nueva restored as the heart of
   Los Angeles for all Angelenos.
+cached_project_image: >-
+  /assets/images/projects/2013/narrative-replacement-therapy-reimagining-the-heart-of-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16818%252Fdisplay%252Fplacita_nueva.jpg=c570x385.jpg
 maker_image_id: '16818'
 maker_image_file_name: placita_nueva.jpg
 

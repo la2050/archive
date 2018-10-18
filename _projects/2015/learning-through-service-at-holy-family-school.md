@@ -245,6 +245,8 @@ How do you plan to scale the success of your proposal?: >-
   disadvantaged schools, our model’s success will be measured by a successful
   and replicable guide for implementing creative service-learning into all
   aspects of an enhanced curriculum.
+cached_project_image: >-
+  /assets/images/projects/2015/learning-through-service-at-holy-family-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23605%252Fdisplay%252FFullSizeRender-2.jpg=c570x385.jpg
 maker_image_id: '23605'
 maker_image_file_name: FullSizeRender-2.jpg
 organization_name: 'Holy Family School '

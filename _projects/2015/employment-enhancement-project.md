@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
   reporting periods, census data from zip codes served (low-income neighborhoods
   of South Los Angeles, East Los Angeles, North Long Beach, Inglewood, San
   Gabriel Valley, San Fernando, Lancaster, and Palmdale).
+cached_project_image: >-
+  /assets/images/projects/2015/employment-enhancement-project/img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg
 youtube_video_identifier: myUKgR-PO4c
 organization_name: Clothes The Deal
 

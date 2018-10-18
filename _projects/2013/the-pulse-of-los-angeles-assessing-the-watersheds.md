@@ -305,6 +305,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/the-pulse-of-los-angeles-assessing-the-watersheds/img.youtube.com/vi/cH5Y8XvIcVc/maxresdefault.jpg
 youtube_video_identifier: cH5Y8XvIcVc
 
 ---

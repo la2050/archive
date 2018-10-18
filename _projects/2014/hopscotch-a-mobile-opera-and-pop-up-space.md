@@ -172,6 +172,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. The shared vision of thinking outside the box and creating work that is of the highest quality possible.
    3. Keeping the artistic vision at the center of everything we do.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/hopscotch-a-mobile-opera-and-pop-up-space/img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg
 youtube_video_identifier: 0SGeH9Mnt2k
 
 ---

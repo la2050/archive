@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102199'
+cached_project_image: >-
+  /assets/images/organizations/river-la-formerly-la-river-revitalization-corporation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
 
 ---

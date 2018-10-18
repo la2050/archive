@@ -261,6 +261,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   is today.  Developers’ and citizens’ attitudes, too, would have changed to
   embrace the essential importance of design in building a better, more livable
   and thrilling city.<p/>
+cached_project_image: >-
+  /assets/images/projects/2013/never-built-los-angeles/img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg
 youtube_video_identifier: keoZhYn_XbI
 
 ---

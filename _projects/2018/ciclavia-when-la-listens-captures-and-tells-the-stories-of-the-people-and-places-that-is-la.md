@@ -151,6 +151,8 @@ Where do you hope this activation or your organization will be in five years?: >
   built and social environment.  The activation, and the website that houses the
   stories will function as source of inspiration and connection to the LA
   community despite the vast geography LA.  
+cached_project_image: >-
+  /assets/images/projects/2018/ciclavia-when-la-listens-captures-and-tells-the-stories-of-the-people-and-places-that-is-la/activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg
 organization_name: CicLAvia
 
 ---

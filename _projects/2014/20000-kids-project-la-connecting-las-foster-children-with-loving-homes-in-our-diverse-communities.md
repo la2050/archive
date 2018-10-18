@@ -197,6 +197,8 @@ Whom will your project benefit? Please be specific.: >-
   with their respective missions.
    
    Factors critical to the success of this effort are 1) recruiting appropriate staff who understands the cultural sensitivities to carry out the myriad of details/programs/services; 2) identifying clergy who are committed to helping RAC find loving homes for children in foster care and who endorse our message to its parishioners; and 3) funding necessary to conduct a year-long outreach campaign, thereby laying the foundation for sustaining these recruitment efforts for years to come.
+cached_project_image: >-
+  /assets/images/projects/2014/20000-kids-project-la-connecting-las-foster-children-with-loving-homes-in-our-diverse-communities/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22158%252Fdisplay%252FRAC_20_000_Kids_Project_LA_Art_FINAL_.jpg=c570x385.jpg
 maker_image_id: '22158'
 maker_image_file_name: RAC_20_000_Kids_Project_LA_Art_FINAL_.jpg
 

@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '5102222'
 youtube_video_identifier: jpQSRVlR_XM
+cached_project_image: >-
+  /assets/images/organizations/heart-of-art-gallery/img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg
 
 ---

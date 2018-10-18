@@ -79,7 +79,8 @@ const attributes = [
   'extrapolated_project_titles',
   'youtube_video_identifier',
   'maker_image_file_name',
-  'maker_image_id'
+  'maker_image_id',
+  'cached_project_image'
 ]
 
 
@@ -133,6 +134,105 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
+  try {
+  (function() {
+    let imagePathBits = data.yaml.project_image.split("/")
+    let filenameBits = filename.split("/")
+
+    let folder
+    if (filename.includes("/_projects/")) {
+      // projects/2018/826la
+      folder = filenameBits.slice(filenameBits.length - 3, filenameBits.length).join("/").replace(/^_/, "").replace(/\.md$/, "")
+    } else {
+      // organizations/826la
+      folder = filenameBits.slice(filenameBits.length - 2, filenameBits.length).join("/").replace(/^_/, "").replace(/\.md$/, "")
+    }
+
+    // activation.la2050.org/assets/images/connect/2048-wide
+    let imagePathWithoutHTTPAndFileName = imagePathBits.slice(2, imagePathBits.length - 1).join("/")
+
+    // 826la.jpg
+    let imageName = imagePathBits[imagePathBits.length - 1]
+
+    // ../assets/images/projects/2018/826la/activation.la2050.org/assets/images/connect/2048-wide/
+    let writePath = `/assets/images/${folder}/${imagePathWithoutHTTPAndFileName}/`
+
+    let filesInWritePath = []
+    fs.readdirSync(".." + writePath).forEach(function(file) {
+
+        file = ".." + writePath + file
+        let stat = fs.statSync(file)
+
+        if (stat && !stat.isDirectory()) {
+          filesInWritePath.push(file)
+        }
+
+    })
+
+    if (filesInWritePath.length > 0) {
+    //if (fs.existsSync(".." + writePath + imageName)) {
+
+      let imageExtension = ""
+      if (!filesInWritePath[0].toLowerCase().endsWith(".jpg") && 
+          !filesInWritePath[0].toLowerCase().endsWith(".jpeg") && 
+          !filesInWritePath[0].toLowerCase().endsWith(".png") && 
+          !filesInWritePath[0].toLowerCase().endsWith(".gif")) {
+  
+        // console.log("file needs an extension: " + filesInWritePath[0])
+
+        let originalPath = filesInWritePath[0]
+        if (filesInWritePath[0].toLowerCase().indexOf(".jpg") >= 0) {
+          imageExtension = ".jpg"
+        } else if (filesInWritePath[0].toLowerCase().indexOf(".jpeg") >= 0) {
+          imageExtension = ".jpg"
+        } else if (filesInWritePath[0].toLowerCase().indexOf(".png") >= 0) {
+          imageExtension = ".png"
+        } else if (filesInWritePath[0].toLowerCase().indexOf(".gif") >= 0) {
+          imageExtension = ".gif"
+        } else {
+          imageExtension = ".jpg"
+        }
+
+        fs.renameSync(originalPath, filesInWritePath[0] + imageExtension, function(err) {
+          if ( err ) console.log('ERROR: ' + err);
+        });
+
+        console.log("done renaming file to: " + filesInWritePath[0] + imageExtension)
+      } else {
+        // console.log("file doesn’t need an extension: " + filesInWritePath[0])
+      }
+
+      if (!imageName.toLowerCase().endsWith(".jpg") && 
+          !imageName.toLowerCase().endsWith(".jpeg") && 
+          !imageName.toLowerCase().endsWith(".png") && 
+          !imageName.toLowerCase().endsWith(".gif")) {
+  
+        // console.log("file needs an extension: " + filesInWritePath[0])
+
+        if (imageName.toLowerCase().indexOf(".jpg") >= 0) {
+          imageExtension = ".jpg"
+        } else if (imageName.toLowerCase().indexOf(".jpeg") >= 0) {
+          imageExtension = ".jpg"
+        } else if (imageName.toLowerCase().indexOf(".png") >= 0) {
+          imageExtension = ".png"
+        } else if (imageName.toLowerCase().indexOf(".gif") >= 0) {
+          imageExtension = ".gif"
+        } else {
+          imageExtension = ".jpg"
+        }
+      }
+
+      data.yaml.cached_project_image = writePath + imageName + imageExtension
+      //filesInWritePath[0].replace(/^\.\./, "")
+    } else {
+      console.log("file does not exist: " + filesInWritePath[0])
+    }
+  })()
+  } catch(e) {
+    console.log(e)
+  }
+
+
   // delete data.yaml.project_titles_from_project_ids
   // delete data.yaml.project_titles
   // delete data.yaml.project_titles_flagged
@@ -180,13 +280,12 @@ function processFile(filename) {
 // https://stackoverflow.com/questions/20822273/best-way-to-get-folder-and-file-list-in-javascript#21459809
 function getAllFilesFromFolder(dir) {
 
-  let filesystem = require("fs")
   let results = []
 
-  filesystem.readdirSync(dir).forEach(function(file) {
+  fs.readdirSync(dir).forEach(function(file) {
 
       file = dir+'/'+file
-      let stat = filesystem.statSync(file)
+      let stat = fs.statSync(file)
 
       if (stat && stat.isDirectory()) {
           results = results.concat(getAllFilesFromFolder(file))

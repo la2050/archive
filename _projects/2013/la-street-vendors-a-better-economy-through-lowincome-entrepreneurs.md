@@ -348,6 +348,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   sidewalk vendors will be seen not as “hawkers” or “peddlers” but as specialty
   entrepreneurs utilizing patterns of urban movement throughout the day aimed at
   meeting the affordability needs of Angelenos.  </p>
+cached_project_image: >-
+  /assets/images/projects/2013/la-street-vendors-a-better-economy-through-lowincome-entrepreneurs/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/34603342_10155143111605666_7950774128993107968_n.jpg?_nc_cat=111&oh=75a684becd1bc65b6214dec84d976923&oe=5C547AB4.jpg
 youtube_video_identifier: qBgE7s8d2AU
 
 ---

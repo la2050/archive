@@ -293,6 +293,8 @@ What would success look like in the year 2050 regarding your indicator?: |+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/front-line-leaders-academy-creating-change-that-lasts/img.youtube.com/vi/t9dVCR59w60/maxresdefault.jpg
 youtube_video_identifier: t9dVCR59w60
 
 ---

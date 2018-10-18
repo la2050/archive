@@ -220,6 +220,8 @@ How do you plan to scale the success of your proposal?: >-
   lab further.
    
    Instead of asking for money to cover operational expenses we choose to invest in capital equipment that will add value to our organization for many years. We believe this to be the most sustainable and responsible way to use the gifts of our benefactors.
+cached_project_image: >-
+  /assets/images/projects/2015/thelab-las-place-for-scientific-exploration/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23379%252Fdisplay%252FLA2050.png=c570x385.png
 maker_image_id: '23379'
 maker_image_file_name: LA2050.png
 organization_name: 'TheLab, Inc'

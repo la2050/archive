@@ -263,6 +263,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   chronic problems. The majority of citizens and actions are mindful, which
   leads to a drastic decrease in chronic disease, a more functional and solvent
   health system, and longer, more productive, healthier lives.
+cached_project_image: >-
+  /assets/images/projects/2013/la-the-capital-of-mindfulness-in-2050/img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg
 youtube_video_identifier: lLS50WusJa4
 
 ---

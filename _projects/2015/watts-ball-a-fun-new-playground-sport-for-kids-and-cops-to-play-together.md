@@ -221,6 +221,8 @@ How do you plan to scale the success of your proposal?: >-
   We will custom build site-specific sports to other landmarks in similar
   communities around the country to help make Watts Ball a reality in other
   cities.
+cached_project_image: >-
+  /assets/images/projects/2015/watts-ball-a-fun-new-playground-sport-for-kids-and-cops-to-play-together/img.youtube.com/vi/XYkDHo1jJ1c/maxresdefault.jpg
 youtube_video_identifier: XYkDHo1jJ1c
 organization_name: Wise Guys Events
 

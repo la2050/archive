@@ -204,6 +204,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   That in the future individuals live and art+play life and that as a
   neighborhood take into their own hands the artistic development of their
   community.
+cached_project_image: >-
+  /assets/images/projects/2013/craft-services/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17034%252Fdisplay%252FDiva_Mob_with_logo.jpeg=c570x385.jpg
 maker_image_id: '17034'
 maker_image_file_name: Diva_Mob_with_logo.jpeg
 

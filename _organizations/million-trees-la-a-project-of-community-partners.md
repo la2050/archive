@@ -85,5 +85,7 @@ aggregated:
   project_ids:
     - '3102197'
 youtube_video_identifier: IMUZKtO4vOw
+cached_project_image: >-
+  /assets/images/organizations/million-trees-la-a-project-of-community-partners/img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg
 
 ---

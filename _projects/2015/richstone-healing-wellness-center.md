@@ -240,6 +240,8 @@ How do you plan to scale the success of your proposal?: >-
   When the project is successful and sustainable, we will explore the
   possibility of expanding services and/or replicating the project's programs at
   other venues in neighboring high need communities.
+cached_project_image: >-
+  /assets/images/projects/2015/richstone-healing-wellness-center/img.youtube.com/vi/gRaTc3pZvug/maxresdefault.jpg
 youtube_video_identifier: gRaTc3pZvug
 organization_name: Richstone Family Center
 

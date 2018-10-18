@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102256'
+cached_project_image: >-
+  /assets/images/organizations/the-ron-finley-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
 
 ---

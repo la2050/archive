@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '5102080'
 youtube_video_identifier: wmExJ7xdKYc
+cached_project_image: >-
+  /assets/images/organizations/culture-shock-los-angeles/img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg
 
 ---

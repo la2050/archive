@@ -269,6 +269,8 @@ How do you plan to scale the success of your proposal?: >-
    We will also approach larger waste and organic haulers in the future to identify ways in which we can collaborate. Unfortunately in Los Angeles there is more food scraps and yard waste than companies and groups of people to handle it all. By partnering with those who’ve been trying to deal with the issue of keeping organics out of land fills, we can help through educating communities and creating local solutions.
    
    Food scraps will continue to exist and because of how much we produce, some of it will often find its way in a landfill. Unless we change the way we look at it (how we now view glass, plastic, and aluminum as a reusable product) it will be hard to create long lasting change. Through educating individuals within their community and providing options for them to be part of this change, we believe our hubs have the potential to change the issue we have with waste both now, and through 2050.
+cached_project_image: >-
+  /assets/images/projects/2015/compost-hubs-throughout-los-angeles/img.youtube.com/vi/oPkjhNbvFTw/hqdefault.jpg
 youtube_video_identifier: oPkjhNbvFTw
 organization_name: L.A. Compost and Kiss the Ground
 

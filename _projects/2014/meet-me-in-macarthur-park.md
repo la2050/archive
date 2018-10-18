@@ -197,6 +197,8 @@ Whom will your project benefit? Please be specific.: >-
   capitalize on this moment. We believe our project can serve as a catalyst to
   unite various efforts and turn MacArthur Park into a real resource that spurs
   local and city-wide opportunities for connection.
+cached_project_image: >-
+  /assets/images/projects/2014/meet-me-in-macarthur-park/img.youtube.com/vi/SrPeAWx2AMM/maxresdefault.jpg
 youtube_video_identifier: SrPeAWx2AMM
 
 ---

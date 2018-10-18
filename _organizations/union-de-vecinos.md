@@ -110,5 +110,7 @@ aggregated:
   project_ids:
     - '3102264'
 youtube_video_identifier: Ih-cjiooJ3M
+cached_project_image: >-
+  /assets/images/organizations/union-de-vecinos/img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg
 
 ---

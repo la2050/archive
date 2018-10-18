@@ -42,5 +42,7 @@ aggregated:
   project_ids:
     - '6102264'
     - '5102320'
+cached_project_image: >-
+  /assets/images/organizations/tierra-del-sol-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4769182815741-team88.png
 
 ---

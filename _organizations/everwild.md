@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102038'
+cached_project_image: >-
+  /assets/images/organizations/everwild/activation.la2050.org/assets/images/play/2048-wide/everwild.jpg
 
 ---

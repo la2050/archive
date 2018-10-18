@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '5102207'
 youtube_video_identifier: NtMAZqR4Tf4
+cached_project_image: >-
+  /assets/images/organizations/psychic-bunny/img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg
 
 ---

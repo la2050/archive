@@ -180,6 +180,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Our program must have a 40-60 minute time slot during the school day, be able to reach the entire 9th grade in the school, and have a committed and supportive host teacher in the classroom at all times in order to achieve success.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/frogtown-ribbon-gardens/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22219%252Fdisplay%252FLA2050Vision.jpg=c570x385.jpg
 maker_image_id: '22219'
 maker_image_file_name: LA2050Vision.jpg
 

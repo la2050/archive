@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102084'
 youtube_video_identifier: qtJ5XumU1Gw
+cached_project_image: >-
+  /assets/images/organizations/south-east-european-film-festival/img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg
 
 ---

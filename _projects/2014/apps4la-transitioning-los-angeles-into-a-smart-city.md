@@ -156,6 +156,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Dogtown Media- Marc Fischer, CEO, local mobile app developer and professor at Santa Monica college will be contracted to build the selected app projects.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/apps4la-transitioning-los-angeles-into-a-smart-city/img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg
 youtube_video_identifier: Vv698CCwrt4
 
 ---

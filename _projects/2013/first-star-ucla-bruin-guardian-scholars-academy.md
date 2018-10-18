@@ -210,6 +210,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   University they will have a three pronged answer; 1) educate undergraduates
   and graduate students 2) conduct research 3) do our part to ensure the nations
   foster youth are able to gain admission to and obtain a college education.
+cached_project_image: >-
+  /assets/images/projects/2013/first-star-ucla-bruin-guardian-scholars-academy/img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg
 youtube_video_identifier: CZMjDcpz53c
 
 ---

@@ -587,6 +587,8 @@ What would success look like in the year 2050 regarding your indicator?: |2-
 
 
       <p>A dedicated community of vetted partnerships/sponsorships around talent and content creation</p>
+cached_project_image: >-
+  /assets/images/projects/2013/craft-meets-impact-hub-la-media-lab/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17015%252Fdisplay%252FLounge_Rendering.jpg=c570x385.jpg
 maker_image_id: '17015'
 maker_image_file_name: Lounge_Rendering.jpg
 

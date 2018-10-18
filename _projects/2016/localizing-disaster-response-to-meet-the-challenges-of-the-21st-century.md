@@ -110,6 +110,8 @@ project_proposal_best_place: >-
   level to ensure national relief resources are deployed most effectively and
   efficiently when available; and ensure the ability to monitor response,
   recovery and rebuilding efforts in ways external agencies simply cannot mimic.
+cached_project_image: >-
+  /assets/images/projects/2016/localizing-disaster-response-to-meet-the-challenges-of-the-21st-century/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5594912265741-team90.jpg
 organization_name: Team Rubicon
 organization_website: www.teamrubiconusa.org
 

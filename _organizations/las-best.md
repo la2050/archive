@@ -46,5 +46,7 @@ aggregated:
     - '8102065'
     - '6102128'
     - '4102253'
+cached_project_image: >-
+  /assets/images/organizations/las-best/activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg
 
 ---

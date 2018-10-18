@@ -108,6 +108,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
 
 
   <p>We thank the Goldhirsh Foundation for this important initiative.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/la-kids-rock/img.youtube.com/vi/Jw8-KCURHUA/hqdefault.jpg
 youtube_video_identifier: Jw8-KCURHUA
 
 ---

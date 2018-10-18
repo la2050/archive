@@ -160,6 +160,8 @@ Whom will your project benefit? Please be specific.: >-
    For user reward system, we will curate companies and business to provide giveaways, coupons, and more for Los Angelenos who complete “tracks” at retailers such as Starbucks, Target, Best Buy, clothing stores, and more. 
    
    *Bennie Mayberry, founder of Positive Minded People, has 6 years experience working in large scale, multi-million dollar online advertising campaigns for large brands including the marketing of top Apple and Android apps. As the founder of Positive Minded People, he also has a one-on-one understanding of what helps mobilize people to volunteer having served as coordinator of 60+ volunteer based events. These experiences coupled together make for a great combination for long term success.
+cached_project_image: >-
+  /assets/images/projects/2014/mobilize-10000-la-residents-into-volunteerism-using-dogooder-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22152%252Fdisplay%252FImage_for_Good.jpg=c570x385.jpg
 maker_image_id: '22152'
 maker_image_file_name: Image_for_Good.jpg
 

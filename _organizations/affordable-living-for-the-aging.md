@@ -79,5 +79,7 @@ aggregated:
   project_ids:
     - '3102009'
 youtube_video_identifier: FVOqZ9sWi8k
+cached_project_image: >-
+  /assets/images/organizations/affordable-living-for-the-aging/img.youtube.com/vi/FVOqZ9sWi8k/hqdefault.jpg
 
 ---

@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102009'
 youtube_video_identifier: ytlmnttRP70
+cached_project_image: >-
+  /assets/images/organizations/arroyo-s-e-c-o-sustainable-economies-community-organization/img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg
 
 ---

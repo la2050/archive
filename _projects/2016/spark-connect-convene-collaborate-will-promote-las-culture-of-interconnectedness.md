@@ -138,6 +138,8 @@ project_proposal_best_place: >-
   be successful.  Our goal is that these working groups will get people to talk
   about how to resolve some of the most pressing issues Los Angeles is facing,
   and continue to meet long after the grant is completed.
+cached_project_image: >-
+  /assets/images/projects/2016/spark-connect-convene-collaborate-will-promote-las-culture-of-interconnectedness/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
 organization_name: Southern California Center for Nonprofit Management
 organization_website: www.cnmsocal.org
 

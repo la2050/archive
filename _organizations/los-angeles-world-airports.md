@@ -34,5 +34,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102147'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-world-airports/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0987534165741-team90.png
 
 ---

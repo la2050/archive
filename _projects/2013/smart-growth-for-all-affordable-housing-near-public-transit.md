@@ -422,6 +422,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   jobs, and where schools, healthcare, groceries, and other essential services
   are within walking distance. And we envision a Los Angeles that is an
   environmental leader, with cleaner air and reduced carbon emissions.
+cached_project_image: >-
+  /assets/images/projects/2013/smart-growth-for-all-affordable-housing-near-public-transit/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16677%252Fdisplay%252FHoliday_Venice_Apartments.jpg=c570x385.jpg
 maker_image_id: '16677'
 maker_image_file_name: Holiday_Venice_Apartments.jpg
 

@@ -32,5 +32,7 @@ aggregated:
     - '2015'
   project_ids: []
 youtube_video_identifier: qooMUYecd1s
+cached_project_image: >-
+  /assets/images/organizations/plug-in-south-la/img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg
 
 ---

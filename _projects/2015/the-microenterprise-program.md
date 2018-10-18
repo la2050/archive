@@ -252,6 +252,8 @@ How do you plan to scale the success of your proposal?: >-
   success has been small so far. With this grant we will be able to prove it on
   a larger scale and then be ready to implement it in other areas of LA County
   and other cities across the nation
+cached_project_image: >-
+  /assets/images/projects/2015/the-microenterprise-program/img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg
 youtube_video_identifier: 0qhd1kRJ698
 organization_name: Microenterprise.org
 

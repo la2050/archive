@@ -191,6 +191,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   lodging, bus tours, dining, shopping, and other entertainment attractions that
   will encourage visitors to stay multiple days in the city.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/senior-star-power-get-up-get-out-get-a-life-the-beat-goes-on/img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg
 youtube_video_identifier: TsuTBskJETc
 
 ---

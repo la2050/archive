@@ -439,6 +439,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/from-dream-to-reality-ihadla-will-help-to-stop-the-cycle-of-poverty-in-los-angeles-2050/img.youtube.com/vi/CEGvQC5fAns/maxresdefault.jpg
 youtube_video_identifier: CEGvQC5fAns
 
 ---

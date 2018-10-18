@@ -151,6 +151,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   social diversity of Los Angeles. People report greater interest in interacting
   and exploring parts of the city outside of their own neighborhoods. Greater
   sense of ownership and desire to contribute to the city.
+cached_project_image: >-
+  /assets/images/projects/2013/found-la-festival-of-neighborhoods-a-day-to-meet-and-eat-with-neighbors-across-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16893%252Fdisplay%252FFoundLAImage2.jpg=c570x385.jpg
 maker_image_id: '16893'
 maker_image_file_name: FoundLAImage2.jpg
 

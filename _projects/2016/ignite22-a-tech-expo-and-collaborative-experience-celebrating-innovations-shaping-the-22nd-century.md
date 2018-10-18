@@ -146,6 +146,8 @@ project_proposal_best_place: >-
   hubs, particularly in biotech, aerospace, trade and transportation, and clean
   tech, thereby contributing to LA’s creative and entrepreneurial ecosystem with
   global economic influence.
+cached_project_image: >-
+  /assets/images/projects/2016/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
 organization_name: 'Braid Theory, Inc.'
 organization_website: www.braidtheory.com
 

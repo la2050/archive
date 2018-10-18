@@ -272,6 +272,8 @@ How do you plan to scale the success of your proposal?: >-
    We are fully confident that the support we receive from LA 2050 will allow us to continue to expand this proven model for creating a healthy LA. Once operational, we envision building other community gardens and incorporating produce grown in these spaces into our market, expanding the locations and days we are able to operate the market, and sharing this model with other organizations throughout Los Angeles. 
    
    We know our model for increasing the health of poor communities of color through community education, gardening, healthy food access, and micro-enterprise works. With the help of LA 2050, we can continue to help make LA the healthiest place to live.
+cached_project_image: >-
+  /assets/images/projects/2015/the-skid-row-justice-and-wellness-center-and-pop-up-produce-market/img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg
 youtube_video_identifier: d7u6LPKVtv4
 organization_name: Los Angeles Community Action Network
 

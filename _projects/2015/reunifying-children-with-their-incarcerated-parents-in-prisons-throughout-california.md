@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: |-
    2) Parents receiving a visit are 13-25% less likely to re-offend following re-entry (longitudinal studies in Minnesota and Florida document decreased recidivism rates as a result of even one visit from a family member, mentor or clergy).
    3) Volunteers and the general public will have a greater appreciation for the plight of children with a parent in prison and may be more receptive to restorative justice-based reforms.
    4) Camp Suzanne’s successful pilot implementation will grow to impact the lives of a greater number of children and their incarcerated parents through program expansion.
+cached_project_image: >-
+  /assets/images/projects/2015/reunifying-children-with-their-incarcerated-parents-in-prisons-throughout-california/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23562%252Fdisplay%252FCRJW_Goodmaker.jpg=c570x385.jpg
 maker_image_id: '23562'
 maker_image_file_name: CRJW_Goodmaker.jpg
 organization_name: 'Get On The Bus a program of the Center for Restorative Justice Works '

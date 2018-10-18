@@ -170,6 +170,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Muir Ranch is supported by dozens of corporate and individual donors and customers via are CSA program. We sell vegetables to retail customers and horticulture companies (Baker Creek, Seeds of Change and Organiks) provide endless plant and seed material. Both major program partners, ECHS and MLA, with Muir Ranch bring education and design expertise to create a space where all can learn and #play!
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/la-childrens-garden-an-eden-project-for-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20571%252Fdisplay%252Fdahlia3queque.jpg=c570x385.jpg
 maker_image_id: '20571'
 maker_image_file_name: dahlia3queque.jpg
 

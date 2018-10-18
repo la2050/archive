@@ -166,6 +166,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   arts will be central to the development of young people, and the established
   artisans of the area will view sharing the process of creating art as an
   ordinary part of daily life.
+cached_project_image: >-
+  /assets/images/projects/2013/create-la-free-art-classes-for-kids/img.youtube.com/vi/y5Q3OTnTYC4/hqdefault.jpg
 youtube_video_identifier: y5Q3OTnTYC4
 
 ---

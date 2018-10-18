@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
   as a cost-effective, efficient model for this anticipated new law.
    
    Saving lives is important. Giving teenagers the tools to save lives is empowering for them and good for the health of the community.
+cached_project_image: >-
+  /assets/images/projects/2015/high-school-cpr-training/img.youtube.com/vi/lilCVZW2Ggk/hqdefault.jpg
 youtube_video_identifier: lilCVZW2Ggk
 organization_name: Los Angeles Fire Department Foundation
 

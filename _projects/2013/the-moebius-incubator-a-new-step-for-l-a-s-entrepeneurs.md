@@ -503,6 +503,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   whole gets stronger. By being a catalyst in this process, we aim to be one of
   many factors in bringing L.A. From 2 âˆ’ 3 percentage points above the
   national average to that many points below it. </p>
+cached_project_image: >-
+  /assets/images/projects/2013/the-moebius-incubator-a-new-step-for-l-a-s-entrepeneurs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17027%252Fdisplay%252Fnagle_droplab.png=c570x385.png
 maker_image_id: '17027'
 maker_image_file_name: nagle_droplab.png
 

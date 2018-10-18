@@ -47,5 +47,7 @@ aggregated:
     - '6102140'
     - '4102232'
     - '3102185'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-food-policy-council/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
 
 ---

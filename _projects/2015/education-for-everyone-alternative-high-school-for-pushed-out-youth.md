@@ -225,6 +225,8 @@ How do you plan to scale the success of your proposal?: >-
   district-wide increases in graduation and college matriculation rates as well
   as decreased youth involvement with law enforcement and the juvenile justice
   system.
+cached_project_image: >-
+  /assets/images/projects/2015/education-for-everyone-alternative-high-school-for-pushed-out-youth/img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg
 youtube_video_identifier: 31zyNJHGmig
 organization_name: Youth Justice Coalition
 

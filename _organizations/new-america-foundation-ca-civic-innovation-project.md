@@ -62,5 +62,7 @@ aggregated:
     - '3102206'
 maker_image_file_name: ca_civic_innovation_project_logo.png
 maker_image_id: '16898'
+cached_project_image: >-
+  /assets/images/organizations/new-america-foundation-ca-civic-innovation-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16898%252Fdisplay%252Fca_civic_innovation_project_logo.png=c570x385.png
 
 ---

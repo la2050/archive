@@ -192,6 +192,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/student-health-=-student-success-improving-student-health-and-readiness-to-learn-in-la/img.youtube.com/vi/sN5SCezYZTM/hqdefault.jpg
 youtube_video_identifier: sN5SCezYZTM
 
 ---

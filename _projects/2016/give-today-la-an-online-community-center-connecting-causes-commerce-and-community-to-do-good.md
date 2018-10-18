@@ -104,6 +104,8 @@ project_proposal_best_place: >-
   To make LA the best place it can be, we must all give something. This web
   based gathering place will be the one stop to inspire and provide people with
   a place to give something- time, treasure or talent. The impact is massive.
+cached_project_image: >-
+  /assets/images/projects/2016/give-today-la-an-online-community-center-connecting-causes-commerce-and-community-to-do-good/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4934410265741-team91.jpg
 organization_name: Give Today LA
 organization_website: givetodayla.com
 

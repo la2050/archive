@@ -203,6 +203,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Trustworthiness. SCC and local food banks will need the trust of the community, including those serves, for retaining patients in the NEP. 
    3. Locality. All partnerships and collaborations must be local and accessible and in proximity of patients.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/the-achievable-clinic-quality-healthcare-for-families-and-people-with-developmental-disabilities/img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg
 youtube_video_identifier: zTPVN1p3Lg8
 
 ---

@@ -135,6 +135,8 @@ project_proposal_best_place: >-
   reflective play that parks encourage: running, jumping, climbing, all the way
   to observing, imagining and discovering. It is the best of both worlds,
   brought together through a compelling story and social connections.
+cached_project_image: >-
+  /assets/images/projects/2016/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
 organization_name: USC Annenberg Innovation Lab
 organization_website: annenberglab.com
 

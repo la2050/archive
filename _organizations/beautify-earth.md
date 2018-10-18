@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102014'
 youtube_video_identifier: I-2fvjBviRI
+cached_project_image: >-
+  /assets/images/organizations/beautify-earth/img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg
 
 ---

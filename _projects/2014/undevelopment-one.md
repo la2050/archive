@@ -249,6 +249,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Doubling Los Angeles Department of Water and Power’s (LADWP) energy efficiency budget in 2012 (LA has now doubled energy savings in the last two years); and
    ● Securing a commitment from LADWP to end the use of coal no later than 2025.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/undevelopment-one/img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg
 youtube_video_identifier: g8ndzuZ3kKM
 
 ---

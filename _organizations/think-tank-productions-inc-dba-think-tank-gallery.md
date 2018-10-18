@@ -42,5 +42,7 @@ aggregated:
     - '5102319'
     - '6102263'
     - '8102125'
+cached_project_image: >-
+  /assets/images/organizations/think-tank-productions-inc-dba-think-tank-gallery/activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 
 ---

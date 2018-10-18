@@ -288,6 +288,8 @@ How do you plan to scale the success of your proposal?: >-
   could include a train the trainer model, where we would train different
   cohorts to conduct mobile access trainings to various regions first in the
   state, then on the West Coast, followed by national growth.
+cached_project_image: >-
+  /assets/images/projects/2015/connecting-low-wage-immigrant-workers-to-the-internet/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23511%252Fdisplay%252F3014224447_e908044cf3_o.jpg=c570x385.jpg
 maker_image_id: '23511'
 maker_image_file_name: 3014224447_e908044cf3_o.jpg
 organization_name: Instituto de Educacion Popular del Sur de California (IDEPSCA)

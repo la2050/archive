@@ -200,6 +200,8 @@ Whom will your project benefit? Please be specific.: >-
    LAND has not yet collaborated with LAUSD and is very excited about the prospect of doing so. This collaboration is not confirmed, though we feel that the STEAM approach to teaching, where the arts are built in to lessons, shaping connections between concepts and encouraging students to think creatively, would allow for integration of this program seamlessly. STEAM schools would be part of this pilot program, and thereafter, we would expand to other LAUSD schools. 
    
    Three factors that are critical to the success of these collaborations are: 1.Institution’s willingness to participate in the program, in addition to other educational programs in place 2. Athletics’ ability to aggregate all relevant arts listings 3. LAUSD’s openness to integrating this program into existing curricula
+cached_project_image: >-
+  /assets/images/projects/2014/arts-landed-connecting-resources-educators-artists-students-and-you/img.youtube.com/vi/enLi01MVXnc/maxresdefault.jpg
 youtube_video_identifier: enLi01MVXnc
 
 ---

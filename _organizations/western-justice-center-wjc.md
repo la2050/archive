@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102184'
 youtube_video_identifier: FKuY_bTZzoM
+cached_project_image: >-
+  /assets/images/organizations/western-justice-center-wjc/img.youtube.com/vi/FKuY_bTZzoM/maxresdefault.jpg
 
 ---

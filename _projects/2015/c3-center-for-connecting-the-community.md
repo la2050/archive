@@ -252,6 +252,8 @@ How do you plan to scale the success of your proposal?: >-
   multi-generational programs that entertain, enrich, and educate, the
   individual classes and services can be tailored to meet the specific needs of
   the communities in which new centers may open.
+cached_project_image: >-
+  /assets/images/projects/2015/c3-center-for-connecting-the-community/img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg
 youtube_video_identifier: wmExJ7xdKYc
 organization_name: Culture Shock Los Angeles
 

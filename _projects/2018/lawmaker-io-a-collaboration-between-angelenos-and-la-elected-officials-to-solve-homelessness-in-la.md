@@ -139,6 +139,8 @@ Where do you hope this activation or your organization will be in five years?: >
   state and federal levels. It is our hope that 1% of all policy discussed on
   the floors of government originate with a civilian authored proposals on
   LawMaker.
+cached_project_image: >-
+  /assets/images/projects/2018/lawmaker-io-a-collaboration-between-angelenos-and-la-elected-officials-to-solve-homelessness-in-la/activation.la2050.org/assets/images/connect/2048-wide/lawmaker-io.jpg
 organization_name: LawMaker.io
 
 ---

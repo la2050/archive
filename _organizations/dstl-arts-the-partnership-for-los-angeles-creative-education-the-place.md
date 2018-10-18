@@ -42,5 +42,7 @@ aggregated:
     - '6102062'
     - '5102087'
     - '4102226'
+cached_project_image: >-
+  /assets/images/organizations/dstl-arts-the-partnership-for-los-angeles-creative-education-the-place/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4185192065741-team91.jpg
 
 ---

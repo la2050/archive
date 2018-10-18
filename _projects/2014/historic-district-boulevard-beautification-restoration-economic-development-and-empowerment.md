@@ -264,6 +264,8 @@ Whom will your project benefit? Please be specific.: >-
   momentum from actions taken by others that will inspire new efforts by others.
   We want the participants to "own" the improvements and to inspire others to do
   their small part that will make an enormous contribution to the community.
+cached_project_image: >-
+  /assets/images/projects/2014/historic-district-boulevard-beautification-restoration-economic-development-and-empowerment/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21055%252Fdisplay%252FWashington_Square.JPG=c570x385.jpg
 maker_image_id: '21055'
 maker_image_file_name: Washington_Square.JPG
 

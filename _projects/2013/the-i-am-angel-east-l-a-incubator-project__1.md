@@ -210,6 +210,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/the-i-am-angel-east-l-a-incubator-project__1/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16606%252Fdisplay%252Fincubate.png=c570x385.png
 maker_image_id: '16606'
 maker_image_file_name: incubate.png
 

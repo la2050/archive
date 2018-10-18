@@ -213,6 +213,8 @@ How do you plan to scale the success of your proposal?: >-
   demand, as well as determine how to promote future growth. We believe that our
   scalability lies in our ability to offer more runs throughout the city, as
   well as our ability to connect people in-person and online.
+cached_project_image: >-
+  /assets/images/projects/2015/blacklistla-moves-toward-the-future/img.youtube.com/vi/U6oh03TPQOw/maxresdefault.jpg
 youtube_video_identifier: U6oh03TPQOw
 organization_name: BlacklistLA
 

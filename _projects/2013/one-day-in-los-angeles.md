@@ -474,6 +474,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   corner on our long struggle with disconnectedness. Los Angeles can bring down
   the barriers of economic disparity and cultural exclusion. By 2050 we can see
   a Los Angeles with a united identity — a connected city. </p>
+cached_project_image: >-
+  /assets/images/projects/2013/one-day-in-los-angeles/img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg
 youtube_video_identifier: YCMb5z0EVGw
 
 ---

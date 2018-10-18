@@ -297,6 +297,8 @@ How do you plan to scale the success of your proposal?: >-
    We will also pay close to our finances. Most, if not all, nonprofits operate on a shoestring budget and our program is no different. We are thankful for every dollar and cent that comes into the organization and we will work hard to ensure that none of its is wasted, especially during the times of growth. 
    
    In the end, these plans will benefit more of our students and community members.
+cached_project_image: >-
+  /assets/images/projects/2015/creating-brighter-futures-through-second-chances/img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg
 youtube_video_identifier: c9y0Bp8kgT4
 organization_name: Foundation for Second Chances
 

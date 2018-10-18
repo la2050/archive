@@ -151,6 +151,8 @@ project_proposal_best_place: >-
   travels twice each year through the United States. If she holds a public
   lecture in LA, every effort will be made to extend an invitation to
   participating students and educators.
+cached_project_image: >-
+  /assets/images/projects/2016/setting-the-stage-developing-young-angelenos-as-community-volunteers-for-a-lifetime/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
 organization_name: the Jane Goodall Institute
 organization_website: rootsandshoots.org
 

@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '8102128'
     - '4102265'
+cached_project_image: >-
+  /assets/images/organizations/two-bit-circus-foundation/activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
 
 ---

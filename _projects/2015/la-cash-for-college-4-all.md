@@ -226,6 +226,8 @@ How do you plan to scale the success of your proposal?: >-
   intentional emailing.
    
    In addition to the website, the LA Cash for College team plans to develop the California Student Aid Commission's smart phone app by linking to the LA Cash for College Campaign. Understanding the ways in which students consume information today, the app will attract more students, give us the ability to measure which resources are most useful to them, and guide our future information and assistance strategies. The application will also allow our program to attract, organize and coordinate volunteers.
+cached_project_image: >-
+  /assets/images/projects/2015/la-cash-for-college-4-all/img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg
 youtube_video_identifier: q4McatdcN78
 organization_name: UNITE-LA
 

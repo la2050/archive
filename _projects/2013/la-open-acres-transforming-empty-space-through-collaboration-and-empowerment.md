@@ -418,6 +418,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
 
   <p>This vision of the future begins by giving communities the information and
   tools they need to reclaim and repurpose these underutilized spaces.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/la-open-acres-transforming-empty-space-through-collaboration-and-empowerment/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/22221635_10155610080912435_2555456961725205190_n.jpg?_nc_cat=101&oh=b3fc8cd53d48b1a72a188c6b9241ac00&oe=5C3FC2EE.jpg
 youtube_video_identifier: LNEfCtvn51o
 
 ---

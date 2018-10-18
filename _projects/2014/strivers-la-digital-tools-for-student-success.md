@@ -176,6 +176,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Common goals: wanting to help struggling students succeed and complete a degree or certificate program, or successfully transfer to a four-year institution.
    ● Clear expectations and communication.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/strivers-la-digital-tools-for-student-success/img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg
 youtube_video_identifier: lz8FDz2KN0s
 
 ---

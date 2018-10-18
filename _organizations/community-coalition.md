@@ -62,5 +62,7 @@ aggregated:
   project_ids:
     - '3102087'
 youtube_video_identifier: 8O5p-fqguRo
+cached_project_image: >-
+  /assets/images/organizations/community-coalition/img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg
 
 ---

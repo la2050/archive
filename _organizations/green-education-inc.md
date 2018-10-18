@@ -31,5 +31,7 @@ aggregated:
     - '4102132'
 maker_image_file_name: GEInc_Logo-brown_3-12.jpg
 maker_image_id: '22790'
+cached_project_image: >-
+  /assets/images/organizations/green-education-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22790%252Fdisplay%252FGEInc_Logo-brown_3-12.jpg=c570x385.jpg
 
 ---

@@ -274,6 +274,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/power-of-the-pen-writing-together/img.youtube.com/vi/B2FpfvDzfPU/maxresdefault.jpg
 youtube_video_identifier: B2FpfvDzfPU
 
 ---

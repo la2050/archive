@@ -166,6 +166,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
     
    There are several factors critical to the continued success of these collaborations. First, continued support from Scripps College is key. The collaboration with Scripps College has been institutionalized and made a core part of the curriculum and educational mission of the college, receiving significant funding from the office of the President. In addition, we rely on community involvement and fruit donations for our jams. Finally, Crossroads has made FFFRW part of their comprehensive reentry program and the core of their food justice initiative.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/fallen-fruit-from-rising-women-empowering-women-through-food-justice-and-social-entrepreneurship/img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg
 youtube_video_identifier: Ht0-3dSjCew
 
 ---

@@ -171,6 +171,8 @@ Whom will your project benefit? Please be specific.: >-
    ABF also collaborates with schools and churches. Most notably, ABF’s collaboration with staff and students from Cal Poly Pomona’s Department of Landscape Architecture has developed a system for chicken coop installations that will increase the variety of food produced in ABF’s urban farms. 
    
    ABF’s partnerships with reentry housing programs, local restaurants and businesses, schools and churches create more opportunities to scale up the scope of support services for the reintegration of the lives of those who were locked up and the empowerment of communities where urban farming takes place.
+cached_project_image: >-
+  /assets/images/projects/2014/create-la-the-place-where-no-space-or-life-is-wasted/img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg
 youtube_video_identifier: Eg3e5xfocOk
 
 ---

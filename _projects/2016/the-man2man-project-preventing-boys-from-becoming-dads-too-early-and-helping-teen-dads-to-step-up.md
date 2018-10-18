@@ -131,6 +131,8 @@ project_proposal_best_place: >-
   each other “man to man” around the importance of responsible fatherhood, the
   M2M Project will impact future generations and help make LA the best place to
   connect.
+cached_project_image: >-
+  /assets/images/projects/2016/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up/scontent-lax3-1.cdninstagram.com/vp/8eeee6963e780259dfd6477d6f2e86b6/5C55FCEF/t51.2885-15/e35/21984637_244426656081944_7828350230864068608_n.jpg
 organization_name: Friends of the Family
 organization_website: www.fofca.org
 

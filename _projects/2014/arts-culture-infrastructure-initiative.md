@@ -203,6 +203,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Arts for LA that, if funded, we would contract with them to provide advocacy
   training over a six-month period with our Board Network.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/arts-culture-infrastructure-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22303%252Fdisplay%252FFaces_Installation.jpg=c570x385.jpg
 maker_image_id: '22303'
 maker_image_file_name: Faces_Installation.jpg
 

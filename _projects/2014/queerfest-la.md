@@ -153,6 +153,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We have also collaborated with the Mayor's Office to produce the LGBT Heritage Month Closing Night, and are working closely with many additional city offices to ensure this festival is safe and significant for the community.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/queerfest-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21336%252Fdisplay%252FQueerFest2014.jpg=c570x385.jpg
 maker_image_id: '21336'
 maker_image_file_name: QueerFest2014.jpg
 

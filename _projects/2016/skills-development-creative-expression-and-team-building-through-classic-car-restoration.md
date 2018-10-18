@@ -98,6 +98,8 @@ project_proposal_best_place: >-
   at-risk, disadvantaged and foster youth with hands-on vocational skills
   training, mentorship, and development activities that can prevent anti-social
   behaviors, break the cycle of poverty, and promote a successful future.
+cached_project_image: >-
+  /assets/images/projects/2016/skills-development-creative-expression-and-team-building-through-classic-car-restoration/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
 organization_name: Lost Angels Children's Project
 organization_website: www.lostangelscp.org
 

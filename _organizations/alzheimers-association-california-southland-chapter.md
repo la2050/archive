@@ -56,5 +56,7 @@ aggregated:
   project_ids:
     - '3102016'
 youtube_video_identifier: DVIx37igPg0
+cached_project_image: >-
+  /assets/images/organizations/alzheimers-association-california-southland-chapter/img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg
 
 ---

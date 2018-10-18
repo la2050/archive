@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
   own businesses selling their produce and receive micro-loans to start their
   farms. Finally, other cities have also expressed interest in our pilot program
   and are looking to collaborate and build on our program.
+cached_project_image: >-
+  /assets/images/projects/2015/sustainable-community-urban-farms-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23569%252Fdisplay%252Ftowergarden.jpg=c570x385.jpg
 maker_image_id: '23569'
 maker_image_file_name: towergarden.jpg
 organization_name: >-

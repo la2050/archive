@@ -242,6 +242,8 @@ How do you plan to scale the success of your proposal?: >-
   opportunity to serve 500 more ADDITIONAL homeless participants. It would also
   be amazing to replicate it in Ventura County as well, eventually, and to also
   add more camps during the Spring season.
+cached_project_image: >-
+  /assets/images/projects/2015/camp4all-takes-homeless-families-to-beautiful-la-beaches-for-surfing-recharging-play/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23533%252Fdisplay%252FGreat-Group-Camp4All-Beach-Photo-2014.jpg=c570x385.jpg
 maker_image_id: '23533'
 maker_image_file_name: Great-Group-Camp4All-Beach-Photo-2014.jpg
 organization_name: The Children's Lifesaving Foundation

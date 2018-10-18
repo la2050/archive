@@ -38,5 +38,7 @@ aggregated:
     - '4102110'
     - '3102279'
 youtube_video_identifier: poREvQfFFL4
+cached_project_image: >-
+  /assets/images/organizations/youth-speak-collective/img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg
 
 ---

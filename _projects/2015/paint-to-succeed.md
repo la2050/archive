@@ -191,6 +191,8 @@ How do you plan to scale the success of your proposal?: >-
   in the accomplishment of a meaningful neighborhood mural project. The program
   will provide a template for the community to go on an create more public art
   projects.
+cached_project_image: >-
+  /assets/images/projects/2015/paint-to-succeed/img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg
 youtube_video_identifier: s-SSOCwgWEs
 organization_name: 'Siqueiros Foundation of the Arts '
 

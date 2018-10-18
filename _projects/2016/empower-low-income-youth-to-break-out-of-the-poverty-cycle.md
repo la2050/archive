@@ -151,6 +151,8 @@ project_proposal_best_place: >-
 
   We invite you to join us as we continue in our mission to support and inspire
   the future leaders of tomorrow!
+cached_project_image: >-
+  /assets/images/projects/2016/empower-low-income-youth-to-break-out-of-the-poverty-cycle/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 organization_name: Youth Business Alliance
 organization_website: www.youthbizalliance.com
 

@@ -257,6 +257,8 @@ How do you plan to scale the success of your proposal?: >-
    2. It builds the foundation for an outreach team to contact local candidates in that area.
    
    We will focus on Los Angeles County and it’s 88 municipalities before scaling to other areas in Southern California. With proven success in Los Angeles, we plan to duplicate our program in neighboring areas, including Orange County and Ventura County.
+cached_project_image: >-
+  /assets/images/projects/2015/politics-in-8-seconds/img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg
 youtube_video_identifier: cljP5pJVVbE
 organization_name: 'Voter, LLC'
 

@@ -132,6 +132,8 @@ project_proposal_best_place: >-
   way, shifting from an energy system that damages our health and planet to a
   system that supports our health and climate while retooling our infrastructure
   and economy for the 21st century.
+cached_project_image: >-
+  /assets/images/projects/2016/the-future-is-bright-a-clean-energy-future-for-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
 organization_name: The Sierra Club Foundation
 organization_website: www.sierraclubfoundation.org
 

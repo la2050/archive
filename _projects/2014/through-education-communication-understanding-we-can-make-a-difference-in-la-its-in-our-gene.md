@@ -135,6 +135,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We are committed to help these diverse learners thrive and hope to have your support in helping to meet their instructional needs.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/through-education-communication-understanding-we-can-make-a-difference-in-la-its-in-our-gene/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21319%252Fdisplay%252FGENE_pic.jpg=c570x385.jpg
 maker_image_id: '21319'
 maker_image_file_name: GENE_pic.jpg
 

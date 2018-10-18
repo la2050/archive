@@ -177,6 +177,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Boyle Heights Neighborhood Coalition
    Roosevelt High School
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/end-violence-create-generation-empathy®/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20714%252Fdisplay%252Fge.jpg=c570x385.jpg
 maker_image_id: '20714'
 maker_image_file_name: ge.jpg
 

@@ -37,5 +37,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102229'
+cached_project_image: >-
+  /assets/images/organizations/sky-source/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
 
 ---

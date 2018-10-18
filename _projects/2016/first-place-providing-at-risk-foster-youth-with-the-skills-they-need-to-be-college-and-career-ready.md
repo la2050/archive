@@ -135,6 +135,8 @@ project_proposal_best_place: >-
   Administration, and Media Arts), all of which offer youth the opportunity to
   receive an industry-recognized certificate and can lead to a living-wage
   career.
+cached_project_image: >-
+  /assets/images/projects/2016/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 organization_name: First Place for Youth
 organization_website: firstplaceforyouth.org
 

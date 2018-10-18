@@ -200,6 +200,8 @@ What would success look like in the year 2050 regarding your indicator?: >2-
   Angeles on a grand scale. Health discrepancies between rich and poor will be
   reduced and the whole population will be able to take part in the city’s
   progress and growth. 
+cached_project_image: >-
+  /assets/images/projects/2013/farm-on-wheels/img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg
 youtube_video_identifier: iGjxg6yI_og
 
 ---

@@ -38,5 +38,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102284'
+cached_project_image: >-
+  /assets/images/organizations/wish-academy-high-school/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
 
 ---

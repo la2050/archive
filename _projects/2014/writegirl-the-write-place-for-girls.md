@@ -165,6 +165,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Three factors that are critical to success in all our partnerships: 1) Financial health in order to remain stable and support each other. 2) Similar values – for example, positivity and respect are key components in building community and successful programs. 3) Making decisions with an eye to the future, and having a shared vision for the health of Los Angeles. After all, 2050 is not that far away!
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/writegirl-the-write-place-for-girls/img.youtube.com/vi/FmHmFIlfA4A/hqdefault.jpg
 youtube_video_identifier: FmHmFIlfA4A
 
 ---

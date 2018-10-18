@@ -55,5 +55,7 @@ aggregated:
   project_ids:
     - '3102022'
 youtube_video_identifier: gatKpPjdUvo
+cached_project_image: >-
+  /assets/images/organizations/curious-catalyst/img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg
 
 ---

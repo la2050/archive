@@ -427,6 +427,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/potluck-truck/img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg
 youtube_video_identifier: ZBTmjmoABZE
 
 ---

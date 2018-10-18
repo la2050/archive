@@ -143,6 +143,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    WalMart – Bentonville, AK – various opportunities are available for individuals that have full-stack web development expertise. They have reached-out and are interested in reviewing Sabio Fellow’s resumes to identify potential candidates to be interviewed.
    TechWorkers – San Ramon, CA- front-end web development opportunities
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/sabio-crossroads-working-together-to-incubate-diverse-tech-talent-in-los-angeles/img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg
 youtube_video_identifier: QaoTDnw-Xtw
 
 ---

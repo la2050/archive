@@ -50,5 +50,7 @@ aggregated:
     - '3102246'
 maker_image_file_name: Image.jpg
 maker_image_id: '16667'
+cached_project_image: >-
+  /assets/images/organizations/the-city-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16667%252Fdisplay%252FImage.jpg=c570x385.jpg
 
 ---

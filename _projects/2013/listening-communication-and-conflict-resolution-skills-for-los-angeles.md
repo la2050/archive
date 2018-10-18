@@ -102,6 +102,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   misunderstanding or conflict would get multiple opportunities to resolve the
   matter quickly and constructively.  A culture change would occur in our city,
   resulting in significantly fewer matters which result in violent behavior. 
+cached_project_image: >-
+  /assets/images/projects/2013/listening-communication-and-conflict-resolution-skills-for-los-angeles/img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg
 youtube_video_identifier: '-wRfwMCYTHY'
 
 ---

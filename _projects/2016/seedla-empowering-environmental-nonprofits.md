@@ -131,6 +131,8 @@ project_proposal_best_place: >-
   environmentally conscious leaders. Ultimately, SeedLA makes LA the best place
   to live by fostering a stronger culture of sustainability and strengthening
   our environmental organizations.
+cached_project_image: >-
+  /assets/images/projects/2016/seedla-empowering-environmental-nonprofits/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7385254065741-team90.JPG
 organization_name: SeedLA
 organization_website: www.seedcg.org
 

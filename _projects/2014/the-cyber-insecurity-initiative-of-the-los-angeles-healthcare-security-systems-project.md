@@ -220,6 +220,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - Engaging business as partners 
    - Creating a long-term funding and implementation platform.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/the-cyber-insecurity-initiative-of-the-los-angeles-healthcare-security-systems-project/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg
 youtube_video_identifier: NNetdspYB4M
 
 ---

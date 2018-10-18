@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '5102162'
 youtube_video_identifier: DRehRt5n68c
+cached_project_image: >-
+  /assets/images/organizations/law-soup-inc/img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg
 
 ---

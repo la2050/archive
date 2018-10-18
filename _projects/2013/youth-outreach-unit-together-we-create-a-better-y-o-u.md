@@ -130,6 +130,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/youth-outreach-unit-together-we-create-a-better-y-o-u/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385.jpg
 maker_image_id: '17077'
 maker_image_file_name: Helper_Logo.jpg
 

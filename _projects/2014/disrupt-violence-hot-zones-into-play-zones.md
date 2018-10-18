@@ -195,6 +195,8 @@ Whom will your project benefit? Please be specific.: >-
    V2K HELPER Foundation’s demonstrated ability to collaborate
    Our long history of working together
    Both organizations’ shared understanding of the needs of high-violence communities
+cached_project_image: >-
+  /assets/images/projects/2014/disrupt-violence-hot-zones-into-play-zones/img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg
 youtube_video_identifier: nt_fnRYCyhI
 
 ---

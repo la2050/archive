@@ -35,5 +35,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102042'
+cached_project_image: >-
+  /assets/images/organizations/future-america/activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg
 
 ---

@@ -53,5 +53,7 @@ aggregated:
     - '6102017'
     - '5102027'
     - '4102246'
+cached_project_image: >-
+  /assets/images/organizations/big-citizen-hub/activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg
 
 ---

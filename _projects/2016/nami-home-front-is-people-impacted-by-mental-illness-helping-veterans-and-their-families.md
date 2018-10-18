@@ -113,6 +113,8 @@ project_proposal_best_place: >-
   reinforcement from people who relate to their experiences. Through their
   participation, they have the opportunity to help others grow and make LA a
   great place to LIVE!
+cached_project_image: >-
+  /assets/images/projects/2016/nami-home-front-is-people-impacted-by-mental-illness-helping-veterans-and-their-families/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6737289065741-team89.jpeg
 organization_name: NAMI San Fernando Valley
 organization_website: namisfv.org
 

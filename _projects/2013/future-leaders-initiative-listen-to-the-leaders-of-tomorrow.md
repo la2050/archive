@@ -160,6 +160,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   welfare who give back to the same communities where they grew up. The year
   2050 would be vibrant with social bonds that also make a community impact,
   whether great or small.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/future-leaders-initiative-listen-to-the-leaders-of-tomorrow/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16636%252Fdisplay%252FLA2050-graphic.jpg=c570x385.jpg
 maker_image_id: '16636'
 maker_image_file_name: LA2050-graphic.jpg
 

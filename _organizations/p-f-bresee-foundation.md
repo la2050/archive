@@ -42,5 +42,7 @@ aggregated:
     - '5102225'
     - '3102219'
 youtube_video_identifier: yeyzmCpYfFk
+cached_project_image: >-
+  /assets/images/organizations/p-f-bresee-foundation/img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
 
 ---

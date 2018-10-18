@@ -39,5 +39,7 @@ aggregated:
   project_ids:
     - '6102126'
     - '4102231'
+cached_project_image: >-
+  /assets/images/organizations/land-los-angeles-nomadic-division/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
 
 ---

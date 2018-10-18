@@ -216,6 +216,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 
+cached_project_image: >-
+  /assets/images/projects/2013/serious-game-los-angeles-2050/img.youtube.com/vi/i-ITUeW3ERI/maxresdefault.jpg
 youtube_video_identifier: i-ITUeW3ERI
 
 ---

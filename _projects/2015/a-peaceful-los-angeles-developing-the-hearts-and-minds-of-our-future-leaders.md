@@ -248,6 +248,8 @@ How do you plan to scale the success of your proposal?: >-
    Overall, CWC LA's SEL program has established a strong foundation upon which to grow. Once our SEL program is fully built out, we anticipate it will be sustainable on public funding. 
    
    Again, we are excited about opportunities to expand our commitment to social-emotional learning, and we are eager to collaborate with any like-minded organizations or individuals to make Los Angeles a better place to learn, live and connect.
+cached_project_image: >-
+  /assets/images/projects/2015/a-peaceful-los-angeles-developing-the-hearts-and-minds-of-our-future-leaders/img.youtube.com/vi/RVA2N6tX2cg/maxresdefault.jpg
 youtube_video_identifier: RVA2N6tX2cg
 organization_name: 'Citizens of the World Charter Schools, Los Angeles'
 

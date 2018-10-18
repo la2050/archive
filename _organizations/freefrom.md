@@ -33,5 +33,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102041'
+cached_project_image: >-
+  /assets/images/organizations/freefrom/activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg
 
 ---

@@ -36,5 +36,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102124'
+cached_project_image: >-
+  /assets/images/organizations/the-youth-movement-against-alzheimers/activation.la2050.org/assets/images/live/2048-wide/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
 
 ---

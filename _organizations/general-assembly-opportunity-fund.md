@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102064'
 youtube_video_identifier: CMmY955jD5A
+cached_project_image: >-
+  /assets/images/organizations/general-assembly-opportunity-fund/img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg
 
 ---

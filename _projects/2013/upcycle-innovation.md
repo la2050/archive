@@ -144,6 +144,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   various learning styles, will have an outlet for their creativity providing
   more opportunities for their career and for a vibrant, connected life. The
   reDiscover Center will be successful when it can support these goals.
+cached_project_image: >-
+  /assets/images/projects/2013/upcycle-innovation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16706%252Fdisplay%252FreDiscover_Upcyle_Innovate.jpg=c570x385.jpg
 maker_image_id: '16706'
 maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
 

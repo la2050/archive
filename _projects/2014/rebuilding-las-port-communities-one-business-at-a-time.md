@@ -178,6 +178,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    And finally, as a public-private partnership, PortTech can continue to further its mission through support from philanthropic and corporate sponsorships, and industry collaboration.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/rebuilding-las-port-communities-one-business-at-a-time/img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg
 youtube_video_identifier: zmZJYC2WFVk
 
 ---

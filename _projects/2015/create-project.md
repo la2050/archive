@@ -245,6 +245,8 @@ How do you plan to scale the success of your proposal?: >-
   students. And with the increasing number of classrooms already equipped with
   tablets, the cost of providing the app would be minimal for schools in
   comparison with the cost of textbooks and other print resources.
+cached_project_image: >-
+  /assets/images/projects/2015/create-project/img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg
 youtube_video_identifier: 5tvdNOJ7fCw
 organization_name: The University Corporation
 

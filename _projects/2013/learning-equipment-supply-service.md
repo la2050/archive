@@ -523,6 +523,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
 
   independent nonprofit organization for a few decades.  Some schools or maybe
   even LAUSD will have chosen to support the project as well.  
+cached_project_image: >-
+  /assets/images/projects/2013/learning-equipment-supply-service/img.youtube.com/vi/6pkTdEgSCvo/hqdefault.jpg
 youtube_video_identifier: 6pkTdEgSCvo
 
 ---

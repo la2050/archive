@@ -52,5 +52,7 @@ aggregated:
   project_ids:
     - '3102080'
 youtube_video_identifier: Dq2cY1SKlFQ
+cached_project_image: >-
+  /assets/images/organizations/nativ/img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg
 
 ---

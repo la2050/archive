@@ -211,6 +211,8 @@ How do you plan to scale the success of your proposal?: >-
   is simple to create multiple costumes (due to the kevlar process) and
   coordinate through one office. If merchandise sales are successful, the
   project will be self-funding.
+cached_project_image: >-
+  /assets/images/projects/2015/ambassador-bird-l-a-s-diversity-ambassador/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23146%252Fdisplay%252FTWOAB.jpg=c570x385.jpg
 maker_image_id: '23146'
 maker_image_file_name: TWOAB.jpg
 organization_name: Bill Weber Studios

@@ -236,6 +236,8 @@ How do you plan to scale the success of your proposal?: >-
    Because each Alliance principal has wide discretion in terms of how to use the School Chapter Development Fund on their campuses, we will have a variety of expansion models to compare in terms of ROI, and we can turn the most effective models into curriculum that we share with other schools.
    
    JSA currently reaches 10,000 students across the country, but Alliance-type partnerships offer an opportunity to dramatically increase this number.
+cached_project_image: >-
+  /assets/images/projects/2015/vote-for-civic-minded-students-and-college-success/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23346%252Fdisplay%252F73168.jpg=c570x385.jpg
 maker_image_id: '23346'
 maker_image_file_name: 73168.jpg
 organization_name: Junior Statesmen Foundation; Alliance College-Ready Public Schools

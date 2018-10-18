@@ -143,6 +143,8 @@ project_proposal_best_place: >-
   While focussing on street quality, SQUID can be repurposed to inspect other
   facets of the urban environment and integrate several operational silos around
   street imagery.
+cached_project_image: >-
+  /assets/images/projects/2016/street-quality-identification-device-aka-squid/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
 organization_name: ARGO Labs
 organization_website: www.argolabs.org
 

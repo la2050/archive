@@ -34,5 +34,7 @@ aggregated:
   project_ids:
     - '4102116'
 youtube_video_identifier: qBtFoJ-YYd0
+cached_project_image: >-
+  /assets/images/organizations/boys-girls-club-of-hollywood/img.youtube.com/vi/qBtFoJ-YYd0/maxresdefault.jpg
 
 ---

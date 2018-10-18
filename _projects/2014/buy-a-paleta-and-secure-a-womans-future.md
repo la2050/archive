@@ -207,6 +207,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We will cultivate additional partners and collaborators as the process unfolds.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/buy-a-paleta-and-secure-a-womans-future/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21901%252Fdisplay%252Fgirl_cart_July_28__2014.jpg=c570x385.jpg
 maker_image_id: '21901'
 maker_image_file_name: girl_cart_July_28__2014.jpg
 

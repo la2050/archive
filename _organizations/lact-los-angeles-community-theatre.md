@@ -29,5 +29,7 @@ aggregated:
   project_ids:
     - '5102171'
 youtube_video_identifier: fRmzSDzuoRA
+cached_project_image: >-
+  /assets/images/organizations/lact-los-angeles-community-theatre/img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg
 
 ---

@@ -29,5 +29,7 @@ aggregated:
   project_ids:
     - '4102173'
 youtube_video_identifier: tMwKJIhKIAU
+cached_project_image: >-
+  /assets/images/organizations/the-los-angeles-fund-for-public-education-the-la-fund/img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg
 
 ---

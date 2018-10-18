@@ -39,5 +39,7 @@ aggregated:
     - '4102002'
     - '3102013'
 youtube_video_identifier: xcozMknxurc
+cached_project_image: >-
+  /assets/images/organizations/alliance-for-community-transit-los-angeles-fiscal-sponsor-ltsc-community-development-corporation/img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg
 
 ---

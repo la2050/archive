@@ -38,5 +38,7 @@ aggregated:
   project_ids:
     - '5102262'
 youtube_video_identifier: Hey6DKTLdw8
+cached_project_image: >-
+  /assets/images/organizations/sbcc-thrive-la/img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg
 
 ---

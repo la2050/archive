@@ -41,5 +41,7 @@ aggregated:
     - '3102179'
 maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
 maker_image_id: '23665'
+cached_project_image: >-
+  /assets/images/organizations/levitt-pavilion-greater-los-angeles-pasadena/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23665%252Fdisplay%252FLevitt_LA_Silk_Road-285-2080542528-O.jpg=c570x385.jpg
 
 ---

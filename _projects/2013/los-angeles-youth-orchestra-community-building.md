@@ -148,6 +148,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   student's would be offered instrumental lessons and orchestral opportunities
   starting in elementary school and continuing through high school. Both school
   based and independently run youth orchestras would have ample funding.
+cached_project_image: >-
+  /assets/images/projects/2013/los-angeles-youth-orchestra-community-building/img.youtube.com/vi/OSdBClactgc/maxresdefault.jpg
 youtube_video_identifier: OSdBClactgc
 
 ---

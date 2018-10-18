@@ -460,6 +460,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Master Gardeners, MG Orchard Team, other gleaning institutions, tree planting
   organizations, pantries, food justice organizations, workforce development,
   and local government collaborators) to advance this vision.</p>
+cached_project_image: >-
+  /assets/images/projects/2013/project-10-tithing-urban-harvests-growing-community-food-security/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16459%252Fdisplay%252FSnapshot_N.jpg=c570x385.jpg
 maker_image_id: '16459'
 maker_image_file_name: Snapshot_N.jpg
 

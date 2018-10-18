@@ -33,5 +33,7 @@ aggregated:
     - '5102341'
 maker_image_file_name: Wheels_graduation_ceremony.jpg
 maker_image_id: '23250'
+cached_project_image: >-
+  /assets/images/organizations/wheels-of-hope-la-fred-jordan-mission/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385.jpg
 
 ---
