@@ -66,7 +66,7 @@ If you’d like to see how your changes will look on the website before anyone e
 
 You can make edits in the staging branch and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
 
-Once you’re happy with how your changes look on the staging website, you can automatically publish them on the [archive website](https://archive.la2050.org) with a pull request. Here are some steps you can follow:
+Once you’re happy with how your changes look on the staging website, you can copy them over to the [archive website](https://archive.la2050.org) using a pull request. Here are the steps:
 
 1. Press the “new pull request” button.
 
