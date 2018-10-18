@@ -390,9 +390,11 @@ function addMakerAnswers(data) {
             question.name == "Your name" ||
             question.name == "email_address" ||
             question.name == "email" ||
+            question.name == "Email" ||
             question.name == "Your email" ||
             question.name == "phone_number" ||
             question.name == "phone" ||
+            question.name == "PhoneNumber" ||
             question.name == "Your phone number" ||
             question.name == "heard_about_us") {
           return

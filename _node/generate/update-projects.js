@@ -250,11 +250,6 @@ function saveMarkdown(filename, data) {
     delete data.yaml[name]
   })
 
-  if (data.yaml.maker_answers) {
-    delete data.yaml.maker_answers.Email
-    delete data.yaml.maker_answers.PhoneNumber
-  }
-
   let options = {}
 
   options.sortKeys = (a, b) => {
