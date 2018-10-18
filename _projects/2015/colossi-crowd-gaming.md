@@ -16,8 +16,8 @@ project_image: 'https://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CAz_mkuDRno'
 project_areas: []
 maker_answers:
+  How did you hear about this challenge?: Friend
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   Organization(s) name(s): Colossi
   Organization(s) mailing address(es): "928 S Burlington Ave\r\n#204"
   Organization(s) website(s): theColossi.co
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How did you hear about this challenge?: Friend
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'

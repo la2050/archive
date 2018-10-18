@@ -19,12 +19,8 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
 maker_answers:
+  Organization Name: Bike L.A. 2050
   website: ''
-  success: >-
-    Using measuring devices from companies such as Eco Counter, actual metrics
-    of increases in numbers of bicyclists on city roads will be captured and
-    reported. Baseline and target metrics will be established in partnership
-    with the city and county's master plans for bicycling.
   Indicator: ' Public Safety'
   brief: >-
     Bike L.A. 2050 would like to make biking a safer, healthier option for
@@ -50,7 +46,11 @@ maker_answers:
     Coalition, LADOT, CicLAvia and many of the other advocacy groups that are
     passionate about raising awareness about bicycling safety and improving
     access to safe biking on city and county streets.
-  Organization Name: Bike L.A. 2050
+  success: >-
+    Using measuring devices from companies such as Eco Counter, actual metrics
+    of increases in numbers of bicyclists on city roads will be captured and
+    reported. Baseline and target metrics will be established in partnership
+    with the city and county's master plans for bicycling.
   description1: >-
     We have been involved in a number of projects focusing on urban mobility and
     the interface with cities and the built environment. Marc Alt was founding

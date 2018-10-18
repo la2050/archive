@@ -23,8 +23,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  city_state: Los Angeles
   org_name: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine '
-  metrics_live_healthyfood: '1'
   org_website: 'http://denglaboratory.weebly.com/'
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/Healmyheart2014'
@@ -95,7 +95,7 @@ maker_answers:
     there will be several more incentivized based models for age groups between
     12-18, and 18-40. 
   partners_collaboration: "We are collaborating with a range of individuals and groups, all of whom who come from various backgrounds and expertise. All of the following collaborators are confirmed and all of whom we have worked with in the past on several successful projects. \r\nUCLA Department of Medicine- Faculty members as well as leading departmental doctors will help develop the AI program for preventative and basic clinical care while advances in the program will allow for more complicated cases to be assessed by the the program. \r\nUCLA Advanced Heart Failure Lab- With extensive research in social network as well as Multi-Organ Dysfunction, the lab will provide their expertise in demographic participation on a zip code level and the most effective method of targeting populations  \r\nUCLA School of Engineering will help acquire/ develop sensors for testing several dream metrics; walking, air, pollution, toxins etc. They will also provide us with a team of undergraduate students for continuous support throughout the development and post development phase. \r\nUCLA Computer Science Department will provide us with app developers and coders who will create the UI as well as the AI program. Several students have worked for and are currently working for very successful and publicly traded startups and have extensive knowledge in AI software building and scaling such a system on a massive scale. This team will be available on hand throughout the project and after the projects success. In the past we have created for UCLA Medical Center its' first Heart Failure Calculator which uses several algorithms to determine mortality rates in patients with heart failure. \r\nUCLA Sociology Department faculty members will help with analyzing complex and big data sets. \r\nUCLA Life Sciences Division undergraduate students in conjunction with the School of Medicine and local fitness trainers will help develop multiple healthy dietary regiments based on user profile and needs. \r\nUCLA Business School undergraduate students and graduate students will seek to further establish connections with local and corporate businesses to provide incentives for users and rewards for those that reach their target goal/metric such as weight loss, miles walked than driven, etc. "
-  city_state: Los Angeles
+  metrics_live_healthyfood: '1'
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'

@@ -23,44 +23,10 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  about_you: CA
   org_name: >-
     Los Angeles Trade Technical College Architecture and Environmental Design
     Program
-  collaboration: >-
-    To be clear with time, budget and scope with all our partners will be a key
-    factor for success. World Peace One Education and Communities:  This
-    organization provides UCLA Extension courses to our students to help them go
-    on to higher education with education that matters.  We are developing an
-    articulation agreement with them to take our students and our ENCOUNTER
-    project to the next level of implantation with 'World Peace One Peace
-    Projects. Los Angeles Worlds Fair: Theme of the Los Angeles World's Fair is
-    "The Connected City" collaborating on supporting their goal of pavilion
-    design, fair planning and urban design layout, with the possibility of
-    engaging the students and our partners. The USC Institute for Genetic
-    Medicine Art Gallery: We will continue to work with the Gallery to organize
-    events and gallery exhibitions promoting integrated thinking and holistic
-    approaches.  City Council District 9 is eager to use our student work to
-    prototype a City of Tomorrow. The Los Angeles Open Acres organization has a
-    map with more than 500 open sites that we could transform or virtualize as
-    possible urban interventions. Jobcreate:  We are working with this local
-    organization that has the management skills and training guidelines to take
-    our models and graduated interns to implement their goals. Additionally,
-    ENCOUNTER Network such as Efrain Miramontes, Ken Wyrick, and others bring
-    Journalism, Design, Computer Networking, and other services to the project.
-    Power Of Green:  This is a program of Five Points in the U.S. consults for
-    countries on Sustainable Technology, Green Architecture, and Renewable
-    Energy. Their services and knowledge will augment our interns' opportunity
-    for growth and collaboration. PV Jobs, the e7 Architecture Studio, and their
-    networks provide an immense amount of knowledge that will support
-    virtualization and simulation for this project. The GBI Global Business
-    Incubator a non-profit research organization “think and do tank” that
-    catalyzes the business development process of launching an idea, a business
-    and a community through growing collaborative business incubator cluster
-    models that grow companies that create jobs. Gregory Wright is working
-    students and faculty  to visualize, design, and promote "Sun/ShadeWalls" The
-    Black Caucus California Community College will continue helping us outreach
-    to people of color to be active participants in the built environment as
-    designers, architects, engineers, scientists and leaders.
   org_website: www.LEARNandSERVEOER.com
   org_twitter: www.twitter.comLearnandServeOER
   org_facebook: www.facebook.comLearnandServeOER
@@ -162,7 +128,41 @@ maker_answers:
     ENCOUNTER projects connect multiple existing organizations that will bring
     the project to the next level financially, technologically and
     academically. 
-  about_you: CA
+  collaboration: >-
+    To be clear with time, budget and scope with all our partners will be a key
+    factor for success. World Peace One Education and Communities:  This
+    organization provides UCLA Extension courses to our students to help them go
+    on to higher education with education that matters.  We are developing an
+    articulation agreement with them to take our students and our ENCOUNTER
+    project to the next level of implantation with 'World Peace One Peace
+    Projects. Los Angeles Worlds Fair: Theme of the Los Angeles World's Fair is
+    "The Connected City" collaborating on supporting their goal of pavilion
+    design, fair planning and urban design layout, with the possibility of
+    engaging the students and our partners. The USC Institute for Genetic
+    Medicine Art Gallery: We will continue to work with the Gallery to organize
+    events and gallery exhibitions promoting integrated thinking and holistic
+    approaches.  City Council District 9 is eager to use our student work to
+    prototype a City of Tomorrow. The Los Angeles Open Acres organization has a
+    map with more than 500 open sites that we could transform or virtualize as
+    possible urban interventions. Jobcreate:  We are working with this local
+    organization that has the management skills and training guidelines to take
+    our models and graduated interns to implement their goals. Additionally,
+    ENCOUNTER Network such as Efrain Miramontes, Ken Wyrick, and others bring
+    Journalism, Design, Computer Networking, and other services to the project.
+    Power Of Green:  This is a program of Five Points in the U.S. consults for
+    countries on Sustainable Technology, Green Architecture, and Renewable
+    Energy. Their services and knowledge will augment our interns' opportunity
+    for growth and collaboration. PV Jobs, the e7 Architecture Studio, and their
+    networks provide an immense amount of knowledge that will support
+    virtualization and simulation for this project. The GBI Global Business
+    Incubator a non-profit research organization “think and do tank” that
+    catalyzes the business development process of launching an idea, a business
+    and a community through growing collaborative business incubator cluster
+    models that grow companies that create jobs. Gregory Wright is working
+    students and faculty  to visualize, design, and promote "Sun/ShadeWalls" The
+    Black Caucus California Community College will continue helping us outreach
+    to people of color to be active participants in the built environment as
+    designers, architects, engineers, scientists and leaders.
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'

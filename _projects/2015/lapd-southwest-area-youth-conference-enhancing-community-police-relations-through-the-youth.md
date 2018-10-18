@@ -19,8 +19,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How did you hear about this challenge?: Friend
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   Organization(s) name(s): LAPD Southwest Business Booster Association Inc.
   Organization(s) mailing address(es): "2109 W. Martin Luther King Jr. Blvd \r\nLos Angeles, CA 90062"
   Organization(s) website(s): 'http://www.southwestyouthprograms.org/index.html'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: Friend
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: ''

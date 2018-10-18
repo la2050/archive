@@ -22,8 +22,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: email from nonprofit advocate
   'City, State': 'North Hollywood, CA'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   Organization(s) name(s): 3-D SPACE
   Organization(s) mailing address(es): '5038 Auckland Ave, North Hollywood, CA 91601'
   Organization(s) website(s): www.3-DSPACE.org
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: email from nonprofit advocate
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

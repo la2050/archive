@@ -250,11 +250,6 @@ function saveMarkdown(filename, data) {
     delete data.yaml[name]
   })
 
-  if (data.yaml.maker_answers) {
-    delete data.yaml.maker_answers.Email
-    delete data.yaml.maker_answers.PhoneNumber
-  }
-
   let options = {}
 
   options.sortKeys = (a, b) => {
@@ -556,7 +551,11 @@ function processFile(filename) {
   data.yaml.published = true
   data.yaml.body_class = category_colors[data.yaml.category] || "strawberry"
 
-  if (data.yaml.project_video === null) data.yaml.project_video = ""
+  for (let prop in data.yaml) {
+    if (data.yaml.hasOwnProperty(prop)) {
+      if (data.yaml[prop] === null) data.yaml[prop] = ""
+    }
+  }
 
 
   if (data.yaml.year_submitted && data.yaml.year_submitted != "") {

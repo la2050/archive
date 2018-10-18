@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How did you hear about this challenge?: Twitter
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): DIY Girls
   Organization(s) mailing address(es): '313 N Genesee Ave #7 Los Angeles, CA 90036'
   Organization(s) website(s): www.diygirls.org
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Twitter
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

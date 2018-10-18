@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  city_state: 'Pretendlandia, Narnia'
   org_name: Test org
-  metrics_live_healthyfood: '0'
   org_website: www.testorgwebsite.com
   org_twitter: na
   org_facebook: na
@@ -59,7 +59,7 @@ maker_answers:
     testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
   partners_collaboration: >-
     testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  city_state: 'Pretendlandia, Narnia'
+  metrics_live_healthyfood: '0'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'

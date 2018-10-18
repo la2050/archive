@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - SOUTH LA
 maker_answers:
+  city_state: 'Pasadena, CA '
   org_name: The Laurel Foundation
-  metrics_live_healthcare: '0'
   org_website: www.Laurel-Foundation.org
   org_twitter: www.twitter.com/thelaurelfdn
   org_facebook: Facebook.com/thelaurelfdn
@@ -55,7 +55,7 @@ maker_answers:
   who_benefit: "The people of LA.  Anyone who wants to take action and has wended to improve their health but never had a reason to.  This will benefit the mom in South Central and her kids, the man in Santa Monica who wants to run but just has not found the time to start, the grandma who wants to start exercising and now is being asked by her grandson to do it with her.\r\n\r\nEVERYONE!\r\n\r\nWe will come together as a city and community!  Rich, poor, young, old, black, white, we are LA. and LA MOVES - RUN FOR YOUR LIFE!"
   partners_collaboration: "We will need to work with a mobil app company to create the app for this event.  We will also work with an organization who has put on large walk/runs for LA.\r\n\r\nThese have not bee secured but we are in the process now of getting them.  "
   metrics_live_healthyfood: '0'
-  city_state: 'Pasadena, CA '
+  metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'
   metrics_live_importedwater: '0'

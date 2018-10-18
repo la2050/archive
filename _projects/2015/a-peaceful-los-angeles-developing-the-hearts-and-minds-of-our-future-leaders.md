@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/RVA2N6tX2cg'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  'City, State': LOS ANGELES
   Organization(s) name(s): 'Citizens of the World Charter Schools, Los Angeles'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   Organization(s) mailing address(es): '5620 DeLongpre Ave., Los Angeles, CA 90028'
   Organization(s) website(s): www.cwclosangeles.org
   Organization(s) twitter handle(s): n/a
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': LOS ANGELES
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'

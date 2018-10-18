@@ -19,8 +19,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Cell-Ed
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   Organization(s) mailing address(es): "315 S Beverly Dr PH\r\nBeverly Hills, CA 90212"
   Organization(s) website(s): www.celled.org
   Organization(s) twitter handle(s): www.twitter.com/Cell_Ed
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'

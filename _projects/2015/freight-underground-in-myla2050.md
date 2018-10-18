@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/Z8CUwycoaCc'
 project_areas:
   - East LA
 maker_answers:
+  How did you hear about this challenge?: Competed last year
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
   Organization(s) name(s): GRID Logistics Inc
   Organization(s) mailing address(es): '411 S. Hewitt St., Los Angeles, CA 90013'
   Organization(s) website(s): gridinc.biz
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Competed last year
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'

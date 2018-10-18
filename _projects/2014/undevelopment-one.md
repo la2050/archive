@@ -18,8 +18,8 @@ project_areas:
   - SFV
   - WESTSIDE
 maker_answers:
+  city_state: 'Los Angeles, CA'
   org_name: Metabolic Studio
-  metrics_live_healthyfood: '0'
   org_website: 'http://www.metabolicstudio.org'
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/metabolicstudio'
@@ -92,7 +92,7 @@ maker_answers:
   impact_live: "It should be understood that both the Metabolic Studio and the Harrison Studio see the Undevelopment proposal as a new urban narrative. Climatologists predict that the climate experienced during the Eemian Age is close to that which we will be facing in 50-100 years. We note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that the Harrison Studio and Metabolic Studio wish to put in place is replicable as cities around the world realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available. Our hope is that all artists, engineers, politicians, urban planners and visionaries network plans, funding and initiatives to address entropy rebalancing—meaning that all living systems move toward entropy, but that rate of that process in contemporary society, the stress on nature and on all our living systems is such that we can no longer think of any individual city but rather of collective actions that can rebalance entropy.\r\n\r\n“Artists Must Create on the Same Scale that Society has the Capacity to Destroy.”"
   who_benefit: The LA River corridor and the broader Los Angeles watershed and community
   partners_collaboration: "Each Undevelopment project will be a public/private partnership requiring local, state, and federal agencies and private property owners to cooperate. Our team working on Bending the River Back Into the City is poised to assist with the implementation and have been confirmed: engineers from Geosyntec, landscape/construction professionals from Valley Crest, public affairs advocates from KindelGagan and climatologists from UCLA. The Metabolic Studio, in collaboration with the Harrison Studio, is applying for support for a pilot project for a network of Undevelopment projects. Helen and Newton Harrison of the Harrison Studio have been working with climate change and what future ecosystems might look like for many decades.\r\n\r\nIt should be understood that both the Metabolic Studio and the Harrison Studio see this work as a new urban narrative. They note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that they wish to put in place is replicable as cities realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available."
-  city_state: 'Los Angeles, CA'
+  metrics_live_healthyfood: '0'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'

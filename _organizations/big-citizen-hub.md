@@ -14,7 +14,7 @@ tags_indicators:
   - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
-  - http://www.bigcitizenhub.org/
+  - 'http://www.bigcitizenhub.org/'
 twitter: 'https://twitter.com/BigCitizenHUB'
 instagram: 'https://www.instagram.com/BigCitizenHub/'
 facebook: 'https://www.facebook.com/TheBigCitizenHub/'

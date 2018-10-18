@@ -89,6 +89,14 @@ function saveMarkdown(filename, data) {
 
   // console.dir(data)
 
+
+
+  for (let prop in data.yaml) {
+    if (data.yaml.hasOwnProperty(prop)) {
+      if (data.yaml[prop] === null) data.yaml[prop] = ""
+    }
+  }
+
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
 `---
