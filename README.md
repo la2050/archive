@@ -8,6 +8,7 @@ https://archive.la2050.org
 * [How to make changes](#how-to-make-changes)
 * [How to edit an organization](#how-to-edit-an-organization)
 * [How to hide an organization](#how-to-hide-an-organization)
+* [How to see a preview of your changes](#how-to-see-a-preview-of-your-changes)
 * [How to develop locally](#how-to-develop-locally)
 * [Handy guides](#handy-guides)
 
@@ -56,6 +57,28 @@ published: false
 To show the organization again, set the value of published back to `true`.
 
 _You can follow these same steps to hide or show one of the [projects](https://github.com/la2050/archive/tree/master/_projects)._
+
+## How to see a preview of your changes
+
+If you’d like to see how your changes will look on the website before anyone else sees them, you can work in the [staging](https://github.com/la2050/archive/tree/staging) branch.
+
+The `staging` branch is a copy of the website, and is published at https://staging-archive.la2050.org
+
+You can make edits and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
+
+Once you’re happy with your changes, you can automatically publish them on the [archive website](https://archive.la2050.org) with a pull request.
+
+1. Press the “new pull request” button.
+
+https://github.com/la2050/archive/pull/new/staging
+
+2. Write a title for your pull request (this is optional).
+
+3. Press the “create pull request” button.
+
+4. And then, press the “merge pull request” button.
+
+5. And lastly, press the “confirm merge” button.
 
 ## How to develop locally
 
