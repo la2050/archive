@@ -15,8 +15,8 @@ project_areas:
   - SOUTH LA
   - WESTSIDE
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'Los Angeles, CA'
-  org_name: Would-Works
   org_website: www.would-works.com
   org_twitter: '@WouldWorks1'
   org_facebook: 'https://www.facebook.com/pages/WOULD-WORKS/216415171803596'
@@ -80,7 +80,7 @@ maker_answers:
     specific groups, Would-Works can tailor the model to maximize impact on
     population segments.   
   partners_collaboration: "We understand that to end an individual’s homelessness, we need to work with a number of partners. In addition, our products reflect collaboration and partnership for design and resources. With this in mind, we seek to establish partnerships on all sides of our business.\r\n\r\nWork Session Partners:\r\n\r\nOur work sessions have agency partners before and after the work is completed. Our Charter model has social services agency partners who refer men and women to the workshops. These social services are working with the individuals and help to identify the immediate need for which a person needs to work. We have currently partnered with Central City Outreach Center to refer men and women to the program and have informal agreements with permanent supportive housing providers as well. We have had inquiries for partnership from numerous social service agencies, schools, and training programs. However, before we can establish new partnerships we are focused on developing a permanent workshop to accommodate the large volume of referrals.\r\n\r\nDesign Partners: \r\n\r\nIn addition to partners for our work sessions, we are also committed to partnering for design. We strive to create high-quality, hand-crafted products in downtown Los Angeles. To accomplish this, we have partnered with some designers to create products and plan to expand our design partnerships. We partnered with the Department of Design at Cal State Long Beach to create future products. We also collaborated with style blogger, Almanac of Style, on a limited edition product. \r\n"
-  metrics_create_employment: '1'
+  org_name: Would-Works
   metrics_create_arts: '0'
   metrics_create_manufacturing: '1'
   metrics_create_researchgrant: '0'

@@ -16,9 +16,15 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/rksqpbf13eo'
 maker_answers:
+  success: >-
+    Evaluating the project would require identifying the number of free arts
+    workshops available in the Northeast valley in comparison to other parts of
+    Los Angeles. Also, keeping track of the number of youth involved in arts
+    programs at the beginning the year, in comparison to the end of the year.
+    Furthermore, keeping track of how many organizations would be interested in
+    starting a program at their facilities by the end of the year. The number of
+    artist jobs available versus the number of jobs it will create. 
   Organization Name: 'Valle Artists '
-  website: >-
-    http://www.kcet.org/socal/departures/landofsunshine/writing-on-the-wall/the-muralist-mile-of-northeast-san-fernando-valley.html
   Indicator: Arts & Cultural Vitality
   brief: "The Northeast San Fernando Valley has been going through a transformative process of Arts and Culture in the past couple of years, there have been a dozen new murals added to Pacoima’s’ walls. This has been possible due to the hard work and dedication of community muralists from the Northeast San Fernando Valley.  A Summer Arts Festival at Project Youth Green would expose youth and organizations to the importance of arts and culture for community revitalization. Art centered youth programs in the area do not have the capacity to serve the large Latino youth demographic. \r\n\r\nProject Youth Green, a four acre community garden has been expanding since it first opened and has been home to a practice ground for local artists and youth groups in the community. Artists of all backgrounds and experience levels have participated in painting a canvased gate, adding a wide range of styles, techniques and visuals to the landscape. Currently, this wall is falling apart, the material it is painted on is not meant for painting, and after more than 20 layers of murals in the past 4 years this piece of tarp is deteriorating. \r\n\r\nOne idea is to re-canvas this wall with a more sustainable material, as well as add more canvas to existing walls. Then with an art competition, invite youth to participate in covering the empty space with new art. Each youth group would be mentored by a practicing artist from the Northeast San Fernando Valley. In order to assure that the next generation has the skills required to continue and expand on this art revitalization, we must expose and train young people to master the brush.\r\n\r\nAnother aspect to art and design would be to challenge local youth art groups to design four sculptures. These sculptures would be strategically placed considering the land’s terrain in order to create a water harvesting system that would help the garden become self-sustaining. \r\n\r\nWith the added blank canvas at the community garden youth are given the opportunity to learn and practice mural skills by providing a space where they can work on large-scale projects. A group of artists who are part of this movement will hold workshops, sharing their skills with youth at centers, schools, and organizations. The skills of design, collaboration, and sustainability can be taught simultaneously through art and gardening.\r\n\r\nA contest would then be held, opening it up to the youth in the community, where a select number will be chosen to compete at a summer arts festival. Each artist will have a mentor to guide them through the contest. There will be criteria to follow that will challenge their creative thinking and design skills. A winner will be chosen by a panel of judges and the winner will be given the opportunity to add their own mural to Pacoima’s Mural Mile. All other contestants will be given prizes and the opportunity to help the winner design and execute their mural. \r\n"
   budget explanation: "$50,000 – Artist Stipends: Five muralists/ workshop facilitators, one sculptor.\r\n\r\n$10,000 – Program Coordinator:  to carry out and implement programs\r\n\r\n$20,000 – Art supplies needed to further expand programming at garden and in community\r\n\r\n$10,000 – Administrative support, to cover all indirect costs that may arise in program implementation\r\n\r\n$5,000 – Training costs, to cover supplies, food, materials needed for trainings\r\n\r\n$5,000 – Marketing materials, to cover initial outreach and publicity in community and Los Angeles\r\n"
@@ -32,14 +38,8 @@ maker_answers:
     Collective, Pacoima Chamber of Commerce. Schools: San Fernando High School,
     Maclay Middle School and Discovery Prep Charter School. Businesses: Myke's
     Cafe, Stylesville Barbershop, Flores Upholstery. 
-  success: >-
-    Evaluating the project would require identifying the number of free arts
-    workshops available in the Northeast valley in comparison to other parts of
-    Los Angeles. Also, keeping track of the number of youth involved in arts
-    programs at the beginning the year, in comparison to the end of the year.
-    Furthermore, keeping track of how many organizations would be interested in
-    starting a program at their facilities by the end of the year. The number of
-    artist jobs available versus the number of jobs it will create. 
+  website: >-
+    http://www.kcet.org/socal/departures/landofsunshine/writing-on-the-wall/the-muralist-mile-of-northeast-san-fernando-valley.html
   description1: >-
     Mural Mile has become a necessary project for artists, community members,
     and art enthusiasts. There have been a dozen new murals added to Van Nuys

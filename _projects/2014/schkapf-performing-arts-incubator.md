@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_employment: '1'
   city_state: Los Angeles
-  org_name: Schkapf
   org_website: www.schkapf.com
   org_twitter: '@schkapf'
   org_facebook: 'https://www.facebook.com/schkapf'
@@ -114,7 +114,7 @@ maker_answers:
     collaborating with new partners capable of assisting in the creation of an
     operational and revenue-producing commissary, the foundations for a
     sustainable touring network, and a university-to-industry pipeline.
-  metrics_create_employment: '1'
+  org_name: Schkapf
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'

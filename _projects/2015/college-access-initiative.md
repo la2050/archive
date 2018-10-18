@@ -20,8 +20,8 @@ project_areas:
   - South Bay
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Carson, CA'
-  Organization(s) name(s): Boys & Girls Clubs of Carson
   Organization(s) mailing address(es): '1950 E. 220th Street, Suite 102, Carson, CA 90810-1652'
   Organization(s) website(s): www.bgccarson.org
   Organization(s) twitter handle(s): www.twitter.com/BGCofCarson
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Boys & Girls Clubs of Carson
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

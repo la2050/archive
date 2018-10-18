@@ -16,8 +16,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Long Beach, Ca'
-  Organization(s) name(s): The Ripple Effect
   Organization(s) mailing address(es): "3913 N. Virginia Rd., #207\r\nLong Beach, CA 90807"
   Organization(s) website(s): www.the-ripple-effect.net
   Organization(s) twitter handle(s): www.twitter.com/1rippleeffect
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): The Ripple Effect
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

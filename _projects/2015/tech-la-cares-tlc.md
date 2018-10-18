@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Goldhirsh Foundation
-  'City, State': 'Santa Monica, CA'
   Organization(s) name(s): Tech LA Cares
   Organization(s) mailing address(es): '1223 Wilshire Blvd #805, Santa Monica, CA 90403'
   Organization(s) website(s): www.techlacares.com
@@ -56,7 +56,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

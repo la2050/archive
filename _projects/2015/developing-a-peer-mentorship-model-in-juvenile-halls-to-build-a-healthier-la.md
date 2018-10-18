@@ -16,8 +16,8 @@ project_image: 'https://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jxDLaDNSLjo'
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Anti-Recidivism Coalition '
   Organization(s) mailing address(es): "448 S. Hill Street, Suite 908\r\nLos Angeles, CA 90013"
   Organization(s) website(s): www.antirecidivism.org
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'

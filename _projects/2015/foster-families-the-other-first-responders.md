@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Have helped others submit in previous years
-  'City, State': 'Los Angeles, CA 90095'
   Organization(s) name(s): UCLA Luskin School of Public Affairs
   Organization(s) mailing address(es): "405 Hilgard Ave.,\r\n3250 Public Policy Bldg"
   Organization(s) website(s): www.luskin.ucla.edu
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA 90095'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

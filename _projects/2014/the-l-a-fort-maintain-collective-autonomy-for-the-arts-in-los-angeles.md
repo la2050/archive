@@ -16,8 +16,8 @@ project_areas:
   - CENTRAL LA
   - LA COUNTY
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'Los Angeles, Ca'
-  org_name: The L.A. Fort
   org_website: www.thelafort.net
   org_twitter: 'http://www.twitter.com/thelafort'
   org_facebook: 'https://www.facebook.com/TheLAFort'
@@ -68,7 +68,7 @@ maker_answers:
   impact_create: "Our aim is to become a neighborhood cultural institution by focusing on education and accessibility to LA contemporary artists. By empowering our base through meetings where members get to decide the direction of projects, we are creating community building experiences and building generations of community leaders.\r\n\r\nAllowing people to take agency and ownership over space has proven to create stronger ties in a community through our experience. Our goal is to give that opportunity to as many people as will take it. By giving people the tools and space to empower each other, more projects and ideas are bound to find root. "
   who_benefit: "Our project benefits mainly the downtown and surrounding areas but our aim is to be a haven for all of Los Angeles county. Our membership takes part in different installations and events all over the county as a group and individually so our reach is much further than our physical location. We are intent on working with multi-faceted groups of different economic levels and age ranges and purposefully offer a scale of events to reflect our goal. Primarily our target age range is 18-55 although we work to include younger and older audiences through different mediums. We are open to all and do not discriminate but a large percent of our  membership consists of strong women and encourage all women to take on leadership roles. \r\n"
   partners_collaboration: "Pasadena Arts Council is our fiscal sponsor who has 50 years of experience in the arts in Los Angeles. \r\n\r\nArts:Earth Partnership - AEP spends its time working with arts organizations to expand their mission to include sustainability and to harness the immense creativity, innovation and leadership within the cultural sector to help solve the issues around pollution, climate change and the preservation of our precious natural resources. Most recently LACMA has been working on joining this network.\r\n\r\nZine Fest LA - L.A. Zine Fest is organized by a collective of zine-enthusiasts dedicated to promoting zine culture as a means to connect the pre-exisiting communities in L.A.–artistic or otherwise. This past year, we curated the library at Zine Fest LA and have held several smaller events at our space related to Zine Fest. \r\n\r\nthe WOMEN Group - the WOMEN Group is a collective of feminist writers who publish a zine and hold a monthly reading every third Tuesday at The L.A. Fort.\r\n\r\nVibe Coach Industries - VCI is an all inclusive musician management company that holds it’s headquarters at The L.A. Fort. It often collaborates with members of The L.A. Fort to make music videos, stage sets, designs, and poster art. \r\n\r\nMister Psychedelia - MP is an event, design and sound team focusing their productions production in alternative, community music & arts events and festivals. They help produce all in house events at the L.A. Fort as well as provide education on producing event. They hold quarterly sound engineering workshops open to the public and members of the L.A. Fort."
-  metrics_create_employment: '1'
+  org_name: The L.A. Fort
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'

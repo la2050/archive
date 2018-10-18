@@ -23,8 +23,21 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/lLS50WusJa4'
 maker_answers:
+  success: >-
+    We will measure success by the ability to open the 17 acre facility this
+    year, which currently is unfunded; by the number of health care
+    professionals and community leaders who are trained in mindfulness; the
+    number of new mindfulness teachers who go through InsightLA Programs; the
+    number of communities with new practitioners and new teachers; and the
+    number of people these teachers reach. Digital metrics will also be tracked,
+    though additional resources will be needed to take that initiative to scale.
+    The institute also has unprecedented opportunity to introduce mindfulness to
+    LA based celebrities and athletes who can then engage the city and the world
+    with the empirically-proven, scientifically-validated,
+    experientially-contagious, cost-effective solution of meditation and
+    mindfulness. Therefore, the number of influencers going through the program
+    will also be tracked.
   Organization Name: InsightLA
-  website: 'http://www.insightla.org/'
   Indicator: ' Health'
   brief: "<p>Our idea is to transform the health of Los Angeles by catalyzing a mindfulness movement and changing behavior upstream. Working with health care professionals, schools, hospitals, clinics, businesses, community centers, and citizen leaders we will provide the tools, teachings, and network of teachers to help more people learn how to install healthy behaviors that benefit ourselves, our families, our institutions, and our city.</p>\r\n\r\n<p>There are three specific components of this idea: </p>\r\n\r\n<p>1. Expand the existing InsightLA training programs for health care professionals, which currently provide mindfulness training to health care professionals at Children's Hospital of Los Angeles (CHLA) and other LA hospitals (UCLA Mattel Children's Hospital, St John's, Cedars-Sinai) and hospice programs, including a partnership with Skirball. Nurses, doctors, respiratory & other therapists, social workers, chaplains, and interpreters all receive mindfulness training. The program has proven to be popular and beneficial to the many health care professionals who have attended over the last six years. As eighty percent of child deaths in hospitals occur in ICUs, the mindfulness retreats were initially created to help PICU (Pediatric ICU) and NICU (Neonatal ICU) staffers deal with the grief of multiple losses. The program has since expanded to include practitioners from other units, including Hematology-oncology, Cardio-thoracic, Surgery, Adolescent Medicine, and Bone Marrow Transplant. We are interested in expanding this program by launching a teacher training program that specializes on serving the health care system and the people who provide care. </p>\r\n\r\n<p>2. Repair and open a new 17 acre property that has recently been transferred to InsightLA and can serve as a center for mindfulness in the heart of the city. The property is a unique asset offering access to nature, canyon views, native plants, and hiking trails. An estimated $75,000 are needed this year for basic repairs to make the space usable. Once those repairs are made, we intend to hold a retreat for professional caregivers from area hospitals and hospices, and with this grant we would also package the case study to create manuals and show how this model can be scaled to other health institutions in LA. We can also utilize the space to create similar programs targeted to specific professional fields and workplaces throughout the city, as well as community colleges and LAUSD, offering leadership trainings to help current and future leaders develop mindfulness tools to help solve LA's most pressing challenges.</p>\r\n\r\n<p>3. Grow the network of teachers and programs that exists across LA in health care institutions, schools, and community centers through a Los Angeles Mindfulness Ambassador initiative. Currently, all InsightLA programs are open to the public, and participation is increasing. In addition to helping InsightLA launch a unique physical space, this project will help InsightLA take the mindfulness training programs online to increase reach and accessiblity of the trainings. Through this offline / online hybrid model, the project will effectively generate mindful leadership and action across our cultural, institutional, and community assets.</p>"
   budget explanation: "<p>$100,000 in total for a) property repairs ($75,000), b) three pilot projects ($15,000), and c) content ($10,000).</p>\r\n\r\n<p>a) $75,000 for repairs on the new property, broken down accordingly:</p>\r\n\r\n- $10,000 repairs from past minor electrical fire and roof leak<br>\r\n- $10,000 drywall patching, paint<br>\r\n- $20,000 annual brush clearance, and additional landscaping<br>\r\n- $5,000 furniture for retreat house<br>\r\n- $10,000 repaids to plumbing, additional bathroom<br>\r\n- $13,000 repairs, addition of workable kitchen<br>\r\n- $7,000 repairs to entrances, addition of accessibility features<br></p>\r\n\r\n\r\n<p>b) $15,000 for three pilot projects for creating Mindfulness Ambassadors of LA ($5,000 each): </p>\r\n\r\n- Health Care Professionals <br>\r\n- Healthy Schools, and <br>\r\n- Cultural Connectors / Community Leaders  <br>\r\n<br>\r\n<br>\r\nc) $10,000 to document the pilots and new property:<br>\r\n<br>\r\n- $7,000 to create a video, and <br>\r\n- $3,000 to develop a digital toolkit<br>"
@@ -46,20 +59,7 @@ maker_answers:
     about the way we engage with the social, political, and natural environment
     and contribute to our families, our communities, and our city.</p>
   collaborators: "<p>Our intention is to partner wherever possible and appropriate to help scale the impact.\r\n\r\nChildren's Hospital of Los Angeles is the initial pilot for a health care institution, and we will look to build on existing partnerships with UCLA Pediatric Pain Program, UCLArts and Healing, the SIMMS/MANN Center for Integrative Oncology, the Cancer Support Community-Benjamin Center, and the LA Veteran's Administration.\r\n\r\nGreen Yoga Association, or another relevant partner, will serve as an environmental steward for the 17 acre property. \r\n\r\nFoundation for a Mindful Society (Mindful magazine & Mindful.org) will help document the pilot programs.\r\n\r\nInsightLA Ed, the educational arm of InsightLA, will administer education and training programs."
-  success: >-
-    We will measure success by the ability to open the 17 acre facility this
-    year, which currently is unfunded; by the number of health care
-    professionals and community leaders who are trained in mindfulness; the
-    number of new mindfulness teachers who go through InsightLA Programs; the
-    number of communities with new practitioners and new teachers; and the
-    number of people these teachers reach. Digital metrics will also be tracked,
-    though additional resources will be needed to take that initiative to scale.
-    The institute also has unprecedented opportunity to introduce mindfulness to
-    LA based celebrities and athletes who can then engage the city and the world
-    with the empirically-proven, scientifically-validated,
-    experientially-contagious, cost-effective solution of meditation and
-    mindfulness. Therefore, the number of influencers going through the program
-    will also be tracked.
+  website: 'http://www.insightla.org/'
   description1: >-
     We have trained more than 10,000 individual students in mindfulness. We have
     successfully maintained daily programs for which NO person is turned away

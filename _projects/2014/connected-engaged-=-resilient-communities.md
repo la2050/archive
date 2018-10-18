@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_volunteerism: '1'
   city_state: 'Los Angeles, CA '
-  org_name: American Red Cross Los Angeles Region
   org_website: www.redcross.org/ca/los-angeles
   org_twitter: twitter.com/RedCrossLA
   org_facebook: www.facebook.com/redcrossla
@@ -112,7 +112,7 @@ maker_answers:
     presentations. Three factors critical to our success of these collaborations
     are: shared mission; continual dialogue about best practices; and exchange
     of ideas, promotion and training programs.
-  metrics_connect_volunteerism: '1'
+  org_name: American Red Cross Los Angeles Region
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'

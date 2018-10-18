@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Santa Monica, CA'
-  Organization(s) name(s): Milk + Bookies
   Organization(s) mailing address(es): "1448 15th St. #202 \r\nSanta Monica, CA 90404"
   Organization(s) website(s): www.milkandbookies.org
   Organization(s) twitter handle(s): 'https://twitter.com/milkandbookies'
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Milk + Bookies
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'

@@ -17,8 +17,8 @@ project_image: 'https://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/20ErlmkuIfQ'
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Casa Libre
   Organization(s) mailing address(es): '845 S. Lake St., Los Angeles, CA 90057'
   Organization(s) website(s): www.casa-libre.org
   Organization(s) twitter handle(s): www.twitter.com/casa_libre
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Casa Libre
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

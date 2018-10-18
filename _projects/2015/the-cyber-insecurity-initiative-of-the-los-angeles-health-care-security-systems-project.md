@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/NNetdspYB4M'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How did you hear about this challenge?: Submitted last year
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): The Center of Medical Multimedia Education and Technology (COMMET)
   Organization(s) mailing address(es): "220 S Westgate Ave.\r\nLos Angeles, CA 90049"
   Organization(s) website(s): www.COMMET.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'

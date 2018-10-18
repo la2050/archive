@@ -21,8 +21,8 @@ project_image: >-
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): FLY Yoga Arts
   Organization(s) mailing address(es): "4949 Cleon Ave \r\nNorth Hollywood, CA 91601"
   Organization(s) website(s): www.flyyogaarts.com
   Organization(s) twitter handle(s): www.twitter.com/flyyogaarts
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): FLY Yoga Arts
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'

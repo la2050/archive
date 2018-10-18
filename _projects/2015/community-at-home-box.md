@@ -21,8 +21,8 @@ project_areas:
   - East LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Entered last year
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Data Roads Foundation
   Organization(s) mailing address(es): "Empowerment WORKS\r\nATTN: Data Roads Foundation\r\n1793 Northwood Ct.\r\nOakland, CA. 94611 – USA"
   Organization(s) website(s): 'http://DataRoads.org/'
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Apply for the LA CityLink RFP

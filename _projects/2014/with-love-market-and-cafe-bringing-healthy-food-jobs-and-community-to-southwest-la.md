@@ -16,8 +16,8 @@ project_video: 'https://www.youtube.com/embed/HVOvMO9t6Gk'
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'Los Angeles, California'
-  org_name: 'With Love Market and Cafe, With Love Community Market and Cafe'
   org_website: Communitymarketandcafe.com
   org_twitter: WithLoveLA
   org_facebook: With Love Community Market and Cafe - Doors Open Late Summer 2014
@@ -80,7 +80,7 @@ maker_answers:
     it harder for families and residents to access groceries on a regular
     basis.  
   partners_collaboration: "Two major confirmed collaborators are LA Kitchen and Homeboy Industries:\r\n\r\nOur factors for success with LA Kitchen include:\r\n- Co-purchasing and sourcing our local produce together\r\n- Hiring chefs that LA Kitchen trains through their programs for our market and cafe's prepared food assortment.\r\n - Hiring people from LA Kitchen to do food prep for the Market and Cafe\r\n\r\nOur factors for success with Homeboy Industries includes:\r\n- Hiring individuals that Homeboy trains through their programs\r\n- Sourcing some products from Homeboy\r\n- Use Homeboy as a resource for employing members coming out of their programs"
-  metrics_create_employment: '1'
+  org_name: 'With Love Market and Cafe, With Love Community Market and Cafe'
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'

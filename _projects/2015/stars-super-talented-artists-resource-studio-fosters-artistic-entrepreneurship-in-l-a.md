@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/GLojtCpWaz4'
 project_areas:
   - San Fernando Valley
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: I'm on a Grants email list.
-  'City, State': 'Sherman Oaks, CA'
   Organization(s) name(s): Breaking into Hollywood
   Organization(s) mailing address(es): '9595 Wilshire Blvd. 9th Floor, Beverly Hills, CA 90212'
   Organization(s) website(s): www.breakingintohollywood.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Sherman Oaks, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

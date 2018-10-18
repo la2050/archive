@@ -16,8 +16,8 @@ project_video: 'https://www.youtube.com/embed/zTPVN1p3Lg8'
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_live_healthyfood: '0'
   city_state: 'Culver City, CA'
-  org_name: The Achievable Foundation
   org_website: www.achievableclinic.org
   org_twitter: 'http://achievableclinic.org/#'
   org_facebook: 'http://www.facebook.com/TheAchievableFoundation'
@@ -66,7 +66,7 @@ maker_answers:
     own health even as they care for our patients.
   who_benefit: "The Achievable Foundation is a nonprofit organization founded in 1996 with the mission of significantly improving the health and quality of life of under-served individuals living in Los Angeles County who have developmental disabilities such as autism, intellectual disability, cerebral palsy and epilepsy. \r\n\r\nIndividuals with developmental disabilities have numerous complex health care needs and experience poorer health than the general population, including disproportionately high incidence of chronic conditions and preventable mortality.   Although state and federally-supported Community Health Center programs provide significant support for meeting the needs of many vulnerable populations, there is no specific framework for addressing the unique challenges posed in serving a patient base made up primarily of individuals with developmental disabilities.\r\n\r\nWe aim to serve the tens of thousands of potential clients that may seek our services from across the entire county of Los Angeles."
   partners_collaboration: "The Achievable Clinic is leveraging our strategic partnerships with organizations like the Westside Regional Center (WRC)--where we are co-located-- to offer a growing spectrum of health care services to the expanding number of individuals with developmental disabilities who have MediCal insurance coverage through L.A. Care Health Plan.  Based on the latest information from L.A. Care, there are over 2,286 clients at WRC (or roughly one third of all WRC clients) signed up with one of L.A. Care’s health plan providers.   \r\n\r\nAs part of an extensive outreach plan, Achievable is looking to become the medical home of choice for many new L.A. Care clients. Serving as a medical home to L.A. Care clients places our clinic in a strategic position to contribute significantly towards L.A. Care Health Plan’s Triple Aim goals of achieving excellent patient outcomes, excellent patient experiences, and cost effectiveness and efficiency on behalf of our shared clients. To that end, we seek to improve patient experiences while minimizing long-term medical costs through an integrated, whole-person approach to addressing the ongoing healthcare needs of our community members.  \r\n\r\nIf we can demonstrate the effectiveness of this strategy working with WRC, this could be expanded to the other Regional Centers across LA County that together serve tens of thousands of individuals with developmental disabilities."
-  metrics_live_healthyfood: '0'
+  org_name: The Achievable Foundation
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'

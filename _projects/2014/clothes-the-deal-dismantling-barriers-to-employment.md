@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/z_iZNryQIgw'
 project_areas:
   - SFV
 maker_answers:
+  metrics_live_healthcare: '0'
   city_state: 'Westminster, CA'
-  org_name: Clothes The Deal
   org_website: www.clothesthedeal.org
   org_twitter: www.twitter.com/clothesthedeal
   org_facebook: www.facebook.com/clothesthedeal
@@ -54,7 +54,7 @@ maker_answers:
   who_benefit: "We serve low-income individuals in all of Los Angeles County. Men and women, old and young, people of all nationalities qualify for our services.\r\n\r\nClients must be: \r\n1) low-income (according to the Federal Health & Human Services poverty guidelines)\r\n2) currently unemployed\r\n3) enrolled in an employment program, vocational training or educational institution\r\n\r\nSome of the clients that we have had and currently have include veterans, homeless individuals, at-risk youth, mentally or physically disabled individuals, those recovering from mental illness or substance abuse, and foster youth.\r\n"
   partners_collaboration: "We have partnerships with many programs and non-profits throughout the county. An example of a few agencies we collaborate with are LA Works, Children's Institute Inc., LA County of Education, The Salvation Army Bell Shelter, Single Room Occupancy Inc., Substance Abuse Foundation, U.S. Veterans Initiative, and Volunteers of America.\r\n\r\nOur partners provide clients and ensure that they are low-income and searching for employment. By partnering with a number of agencies, we are able to provide services to a diverse population of people coming from different backgrounds and histories. A few of our partners are also able to provide funding for their clients, allowing us to reach a greater amount of people in Los Angeles by using our resources on those who cannot provide their own funding.\r\n\r\nWe also aim to collaborate with the community. We attend many networking events focused on employment and vocational programs, including those hosted by POWER (Providing Opportunities with Essential Resources), LA United Job Creation Council and the Department of Mental Health. Local businesses and organizations also provide clothing donations and host clothing drivers. Annually, we have about 40 volunteers serve a total of 5,550 hours. Volunteers include youth interns, community service volunteers, Temporary Subsidized Employees, and ReEmployability employees. "
   metrics_live_healthyfood: '0'
-  metrics_live_healthcare: '0'
+  org_name: Clothes The Deal
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '1'
   metrics_live_importedwater: '0'

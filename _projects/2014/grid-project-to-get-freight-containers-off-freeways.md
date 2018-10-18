@@ -21,8 +21,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_healthyfood: '0'
   city_state: 'Los Angeles, CA'
-  org_name: GRID Logistics Inc.
   org_website: 'http://www.gridinc.biz/'
   org_twitter: '@GRIDInc'
   org_facebook: 'https://www.facebook.com/gridlogisticsinc'
@@ -84,7 +84,7 @@ maker_answers:
     economically-challenged communities.
   who_benefit: "*All cities along the 710 corridor, from Long Beach to Santa Fe Springs to Pasadena\r\n*Inland Empire cities where distribution centers and major railyards are sited (eg, Colton, San Bernardino)\r\n*Residents of 710 corridor cities, who now suffer grave health effects from diesel pollution and intense traffic congestion\r\n*Working people in a broad area, who will have more access to middle-skill jobs that pay well in warehousing and distribution, as well as the docks and railyards.\r\n*The Ports of Los Angeles and Long Beach, who will suffer less truck traffic and will find new developable land in areas no longer needed for container storage\r\n*Anyone who commutes by car, bus, or bicycle through the 710 corridor, since GRID will take large numbers of heavy trucks off the roads and freeways\r\n*City, county, and state agencies who will enjoy extended road maintenance intervals as truck traffic is thinned out "
   partners_collaboration: "Sierra Club (letters of support; confirmed)\r\nCSUN (feasibility study awaiting funding; confirmed & enthusiastic)\r\nUSC (analysis; unconfirmed)"
-  metrics_live_healthyfood: '0'
+  org_name: GRID Logistics Inc.
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'

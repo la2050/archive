@@ -21,8 +21,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: ' Strong and ongoing familiarity with LA2050'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles County Economic Development Corporation
   Organization(s) mailing address(es): "444 South Flower Street, 37th Floor\r\nLos Angeles, CA 90071\r\n"
   Organization(s) website(s): 'http://laedc.org/'
@@ -64,7 +64,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Engender Civic Stewardship

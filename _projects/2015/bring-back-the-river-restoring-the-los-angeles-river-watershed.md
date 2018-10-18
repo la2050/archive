@@ -12,8 +12,8 @@ project_video: 'https://www.youtube.com/embed/ffK1mzyzUPE'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: 89.9 KCRW FM
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Arroyo Seco Foundation
   Organization(s) mailing address(es): '570 W. Avenue 26, Suite 450 Los Angeles, CA 90065-1011'
   Organization(s) website(s): 'http://www.arroyoseco.org/'
@@ -56,7 +56,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Provide native plants for restoration and education.

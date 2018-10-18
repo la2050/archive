@@ -24,8 +24,8 @@ project_areas:
   - South LA
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: 'Michelle Lin, Liberty Hill Foundation'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): LA Voice
   Organization(s) mailing address(es): '760 S. Westmoreland Ave Ste. 336, Los Angeles CA 90005'
   Organization(s) website(s): www.lavoicepico.org
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: Develop local leadership and power

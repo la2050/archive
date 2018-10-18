@@ -19,8 +19,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: email from LA 2050
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Los Angeles Alliance for a New Economy: Jobs to Move America'
   Organization(s) mailing address(es): "464 Lucas Ave.\r\nLos Angeles, CA90017"
   Organization(s) website(s): jobstomoveamerica.org
@@ -61,7 +61,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): 'Ironbox Education, Inc.'
   Organization(s) mailing address(es): "P.O. Box 78278\r\nLos Angeles, CA 90016"
   Organization(s) website(s): www.ironboxeducation.com
   Organization(s) twitter handle(s): 'https://twitter.com/IronboxEdu'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): 'Ironbox Education, Inc.'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'

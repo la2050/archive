@@ -18,8 +18,8 @@ project_image: 'https://img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/zqrk27Md2Bo'
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: 'Friend '
-  'City, State': 'Pacific Palisades, CA'
   Organization(s) name(s): 'GrowGood, Inc. '
   Organization(s) mailing address(es): "GrowGood, Inc. \r\nPO Box 204\r\n15322 Antioch Street \r\nPacific Palisades, CA 90272\r\n"
   Organization(s) website(s): www.grow-good.org
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Pacific Palisades, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

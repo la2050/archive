@@ -23,8 +23,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Reframe Labs
   Organization(s) mailing address(es): '828 4th St, #301, Santa Monica, CA 90403'
   Organization(s) website(s): www.reframelabs.org
   Organization(s) twitter handle(s): 'https://twitter.com/ReframeLabs'
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Reframe Labs
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

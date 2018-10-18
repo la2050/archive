@@ -20,8 +20,8 @@ project_areas:
   - South LA
   - South Bay
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Environmental Charter Schools
   Organization(s) mailing address(es): "Environmental Charter Schools\r\n812 West 165th Place\r\nGardena, CA 90247"
   Organization(s) website(s): www.ecsonline.org
   Organization(s) twitter handle(s): 'https://twitter.com/EnviroCharter'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Environmental Charter Schools
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
