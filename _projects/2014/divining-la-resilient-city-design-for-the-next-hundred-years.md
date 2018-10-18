@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - LA COUNTY
 maker_answers:
+  city_state: 'Burbank, CA'
   org_name: Arid Lands Institute
-  metrics_live_healthyfood: '1'
   org_website: www.aridlands.org
   org_twitter: '@aridlandsinst'
   org_facebook: 'https://www.facebook.com/aridlands.woodbury'
@@ -57,7 +57,7 @@ maker_answers:
   impact_live: "LA benefits today in engaging citizens to design their own destiny.  LA benefits tomorrow with water, energy, and carbon savings.  Los Angeles River Watershed area, at 864 square miles and  65% impermeability, generates 350,000 acre feet of storm water runoff per year, enough for 2,100,000 people per year at current usage rates or with conservation measures in place, enough for 2,625,000 people.  That translates to a gross energy savings of 700 gigawatt hours or the equivalent of taking 130,000 passenger vehicles off the road. \r\n\r\n \r\n"
   who_benefit: "Divining LA outreach has the potential to bring advanced geospatial research to public benefit rapidly. It has the potential to optimize the hydrologic function of the arid built environment; uncouple the water-energy nexus; produce hydrologic planning, zoning, building code reforms; encourage small scale distributed water infrastructures as design opportunities that respect the cultural and biophysical attributes of communities and watersheds; promote building-integrated water systems innovation for the global marketplace; retool science and design curricula to creatively engage the challenges of climate adaptation; and increase participation of underrepresented communities. Divining LA outputs are scaleable and transferable to water-stressed environments affecting 30 million people in the US West, and 1.2 billion people worldwide.\r\n"
   partners_collaboration: "Partners who have confirmed their participation and support include TreePeople, ARUP\r\nCity of LA Bureau of Engineering, City of LA Bureau of Sanitation/Watershed Protection Program, County of LA Flood Control/Watershed Management program, LADWP Stormwater Management, UCLA Water Resources Group, American Institute of Architects | Los Angeles, Perkins + Will Architects, AC Martin Architects, and Mia Lehrer + Associates.  ALI has secured the preliminary interest of design leaders at USC, UCLA, CalPoly Pomona, Art Center College of Design, SCI-Arc, and of course Woodbury School of Architecture.\r\n"
-  city_state: 'Burbank, CA'
+  metrics_live_healthyfood: '1'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '1'

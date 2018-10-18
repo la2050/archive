@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): 'Jenesse Center, Inc.'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   Organization(s) mailing address(es): 'P.O. Box 8476 Los Angeles, CA 90008'
   Organization(s) website(s): www.jenesse.org
   Organization(s) twitter handle(s): www.twitter.com/jenessecenter
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': 'Los Angeles, CA '
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'

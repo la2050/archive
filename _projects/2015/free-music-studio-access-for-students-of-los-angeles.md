@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - East LA
 maker_answers:
+  How did you hear about this challenge?: newsletter
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   Organization(s) name(s): Eastside Rehearsal
   Organization(s) mailing address(es): '2619 E Cesar E Chavez Ave, Los Angeles, CA 90033'
   Organization(s) website(s): eastsiderehearsal.com
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: newsletter
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

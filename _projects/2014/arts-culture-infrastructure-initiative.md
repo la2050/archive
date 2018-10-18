@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - LA COUNTY
 maker_answers:
+  city_state: Los Angeles
   org_name: LA STAGE Alliance
-  metrics_create_employment: '1'
   org_website: 'http://lastagealliance.com/'
   org_twitter: '@lastagealliance'
   org_facebook: facebook.com/lastagealliance
@@ -83,7 +83,7 @@ maker_answers:
     confirmed with the staff of Arts for LA that, if funded, we would contract
     with them to provide advocacy training over a six-month period with our
     Board Network.
-  city_state: Los Angeles
+  metrics_create_employment: '1'
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'

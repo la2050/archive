@@ -23,8 +23,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Teach For America
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   Organization(s) mailing address(es): '606 S. Olive St, Suite 300, Los Angeles CA, 90014'
   Organization(s) website(s): 'http://www.teachforamerica.org/where-we-work/los-angeles'
   Organization(s) twitter handle(s): www.twitter.com/TFA_LA
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

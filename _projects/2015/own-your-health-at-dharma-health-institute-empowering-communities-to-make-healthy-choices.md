@@ -22,8 +22,8 @@ project_areas:
   - South Bay
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: Colleague
   'City, State': 'Santa Monica, Ca'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): Dharma Health Institute
   Organization(s) mailing address(es): '143 Culver Blvd, Playa Del Rey, Ca 90293'
   Organization(s) website(s): www.dharmahealthinstitute.com
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Colleague
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Education
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

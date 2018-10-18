@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  city_state: 'Venice, CA '
   org_name: 'Earth Protect, Inc. '
-  metrics_create_employment: '1'
   org_website: www.earthprotect.com
   org_twitter: 'https://twitter.com/EarthProtect1'
   org_facebook: www.facebook.com/earthprotect
@@ -78,7 +78,7 @@ maker_answers:
   impact_create: "LA is THE global leader in the film industry, has some of the most beautiful natural environment in the world and has taken a lead in moving to sustainable living. Artists of all types are drawn to the County and many use their art to advance causes including achieving a sustainable future. Maggie Q supports animal welfare and conservation, James Cameron produces the TV series The Years of Living Dangerously, G2Gallery offers wildlife art and donates all proceeds to animal causes, Connie Samaras has a retrospective at The Armory Center For the Arts. Her images capture the banal nightmares of manmade landscapes. In an article on May 10, 2013 Robby Herbst asked the question, Who Makes Art About Climate Change? He concludes with this hope and prediction re the future in LA with climate change, \"We'll see it in our changed environments, in species decline and extinctions, and in the rise of global instability as many old ways of living are drowned or toasted. Perhaps in the future too, when somebody asks \"who's making art about climate change in Los Angeles,\" the response won't be a head-scratch and a \"geez, I dunno.\" KCET\r\n\r\nWith Earth Protect's ARTISTS4SUSTAINABILITY, LA and the world will have an answer not only for climate change but all aspects of sustainability across all art forms. We can anticipate that this will further distinguish LA and bring business, funding and global attention as its leadership in arts and sustainability are brought to light \r\nthrough this hub and the outreach to bring it to world attention. It will create jobs for artists and help the economy and bring the message about the need for and how to live sustainability to a wide group of people both in LA and worldwide. \r\n\r\n"
   who_benefit: "LA artists creating for sustainability. \r\nLA businesses related to the arts especially those with some focus on sustainability.\r\nThe general public will gain in education on sustainability through the arts. \r\nThe increased art projects will bring funding to support artists and businesses serving artists and their communities thus also bringing tax revenue. "
   partners_collaboration: "Earth Protect has existing partnerships in LA and SO CAL including UCLA Center for Tropical Research, UCSD Scripps Institution of Oceanography, Heal the Bay, CA Wildlife Center, Tree Musketeers, BIOCOM Institute, Malibu Foundation for Environmental Education, Pacific Blue Foundation, Social Change Film Festival and Institute, Desert Tortoise Conservancy, Unity for Creativity, G2Gallery. We have  over 60 organizations we partner and collaborate with. \r\nOur values are specific about supporting collaboration. We deliberately created a partnership program that supported sustainability focused NGO's. \r\nFurther, our Advisory Council includes business, science, educators and sustainability leaders who foster our collaborations. Here is a partial list of organizations we collaborate with: UCLA, UCSD Scripps, NOAA, University of Denver Daniels School of Business, University of the Sunshine Coast AU.  New collaborations include ConnectD, Asia Pacific Clean Energy Summit and Expo, Oregon BEST FEST, Ideascape, Inc., Mayor's Office LA. \r\n"
-  city_state: 'Venice, CA '
+  metrics_create_employment: '1'
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '1'

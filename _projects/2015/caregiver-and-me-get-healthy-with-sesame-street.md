@@ -23,8 +23,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: twitter
   'City, State': 'Moorpark, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): >-
     T&L Foundation for Child Care Information, Child Care Alliance of Los
     Angeles, Magnolia Place Family Center (Children's Bureau), Los Angeles
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: twitter
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

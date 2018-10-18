@@ -21,8 +21,8 @@ project_areas:
   - East LA
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: via email invitation
   'City, State': 'Los Angeles, California'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Union Rescue Mission
   Organization(s) mailing address(es): '545 South San Pedro Street, Los Angeles, CA 90013'
   Organization(s) website(s): www.urm.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: via email invitation
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

@@ -14,8 +14,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How did you hear about this challenge?: KPCC
   'City, State': 'Los Angeles, CA '
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   Organization(s) name(s): SeePolitical
   Organization(s) mailing address(es): "133 W. Channel Road #1\r\nLA, CA 90402"
   Organization(s) website(s): www.SeePolitical.com
@@ -56,7 +56,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: KPCC
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

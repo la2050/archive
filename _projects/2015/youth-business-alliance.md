@@ -20,8 +20,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'El Segundo, CA'
   Organization(s) name(s): Youth Business Alliance
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   Organization(s) mailing address(es): '999 N. Sepulveda Blvd. 7th Floor El Segundo, CA 90245'
   Organization(s) website(s): www.youthbizalliance.com
   Organization(s) twitter handle(s): www.twitter.com/yba999
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': 'El Segundo, CA'
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

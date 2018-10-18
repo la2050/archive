@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  city_state: 'Los Angeles, CA'
   org_name: Hunger Action Los Angeles
-  metrics_live_healthyfood: '1'
   org_website: www.hungeractionla.org
   org_twitter: '@HungerActionLA'
   org_facebook: 'https://www.facebook.com/HungerActionLA'
@@ -84,7 +84,7 @@ maker_answers:
     income people know about the program include Public Health Foundation
     Enterprises WIC Program, Project Angel Food, and SOVA Jewish Food Pantry
     Market
-  city_state: 'Los Angeles, CA'
+  metrics_live_healthyfood: '1'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '1'

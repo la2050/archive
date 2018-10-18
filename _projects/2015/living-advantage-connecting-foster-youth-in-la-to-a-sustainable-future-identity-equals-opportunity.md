@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How did you hear about this challenge?: USC Lunch & Learn
   'City, State': 'Los Angeles, California'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   Organization(s) name(s): 'Living Advantage, Inc.'
   Organization(s) mailing address(es): "7095 Hollywood Blvd. #726\r\nHollywood, CA 90028"
   Organization(s) website(s): 'www.LivingAdvantageInc.org '
@@ -78,7 +78,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: USC Lunch & Learn
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

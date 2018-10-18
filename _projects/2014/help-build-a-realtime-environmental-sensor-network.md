@@ -13,8 +13,8 @@ project_image: 'https://img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Cb6MAN2lVkg'
 project_areas: []
 maker_answers:
+  city_state: los angeles
   org_name: Safecast
-  metrics_live_healthcare: '0'
   org_website: 'http://safecast.org'
   org_twitter: '@safecast'
   org_facebook: 'http://www.facebook.com/safecast'
@@ -76,7 +76,7 @@ maker_answers:
     limited data with which to make decisions.
   partners_collaboration: For Los Angeles we won't need any partners to deploy this.
   metrics_live_healthyfood: '0'
-  city_state: los angeles
+  metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'
   metrics_live_importedwater: '0'

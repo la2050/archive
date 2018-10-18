@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: forwarded newsletter
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): 'Pando Populus, Inc.; World Studio Foundation, Inc.'
   Organization(s) mailing address(es): "Pando Populus:  8391 Beverly Blvd. #460, Los Angeles, CA 90048\r\nWorld Studio Foundation:  200 Varick Street, #507, New York, NY 10014"
   Organization(s) website(s): 'http://www.PandoPopulus.com'
@@ -78,7 +78,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: forwarded newsletter
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

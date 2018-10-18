@@ -19,8 +19,8 @@ project_areas:
   - Central LA
   - San Gabriel Valley
 maker_answers:
+  How did you hear about this challenge?: California Grantmakers
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   Organization(s) name(s): Levitt Pavilion Greater Los Angeles & Pasadena
   Organization(s) mailing address(es): '1499 Huntington Dr, #305, South Pasadena, CA 91030'
   Organization(s) website(s): 'http://www.levittla.org'
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How did you hear about this challenge?: California Grantmakers
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'

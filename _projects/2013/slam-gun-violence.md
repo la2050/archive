@@ -19,8 +19,8 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16861%252Fdisplay%252FMarlys__Eileen__Dexter_and_kids_after_youth_presentation.JPG=c570x385
 maker_answers:
+  Organization Name: WOMEN AGAINST GUN VIOLENCE
   website: 'HTTP://WWW.WAGV.ORG'
-  success: "We will have several methods of evaluation.\r\n1.  Number of youth at beginning of project compared to number of youth at end of project\r\n2.  Number of youth in the program who are categorized as high-risk who are able to avoid direct gun violence during the year of the program.\r\n3.  Number of youth involved in program who see improvement in grades and attendance at school\r\n4.  Number of youth in the program who refer others to the program"
   Indicator: ' Public Safety'
   brief: >-
     Statistics show that youth who witness or are directly affected by gun
@@ -37,7 +37,7 @@ maker_answers:
     from the artistic contributions of its youth and can become a national model
     for gun violence intervention.
   collaborators: "We are hopeful that Nikki Blak, the recipient of the 2005 World Stage/UCLA Literary Scholarship, will be our Artistic Director.  Nikki has been a member of the 2006 Los Angeles, 2007 Hollywood, and 2008 San Diego Slam Teams. In 2010, she earned the title of Los Angeles Grand Slam Champion and was a member of the LA Slam Team, which she also co-slam mastered and coached. Last year, she revisited her role as co-slam master, coach, and member of the 2011 LA and member of the 2011 LA Slam team.\r\n\r\nWe are also in discussions with Santa Monica Sam, a rapper who has rapped about gun violence, to oversee the production of performances."
-  Organization Name: WOMEN AGAINST GUN VIOLENCE
+  success: "We will have several methods of evaluation.\r\n1.  Number of youth at beginning of project compared to number of youth at end of project\r\n2.  Number of youth in the program who are categorized as high-risk who are able to avoid direct gun violence during the year of the program.\r\n3.  Number of youth involved in program who see improvement in grades and attendance at school\r\n4.  Number of youth in the program who refer others to the program"
   description1: >-
     Women Against Gun Violence has been around since 1993 working to prevent gun
     violence in Los Angeles City and County.  We have done this work through

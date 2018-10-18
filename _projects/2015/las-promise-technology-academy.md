@@ -15,8 +15,8 @@ project_video: 'https://www.youtube.com/embed/SXGVU13JPLU'
 project_areas:
   - South LA
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): LA's Promise
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   Organization(s) mailing address(es): "202 W. 1st St., Suite 160\r\nLos Angeles, CA 90012"
   Organization(s) website(s): www.laspromise.org
   Organization(s) twitter handle(s): www.twitter.com/LAsPromise
@@ -60,7 +60,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'

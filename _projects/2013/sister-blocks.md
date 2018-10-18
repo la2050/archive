@@ -18,16 +18,8 @@ project_summary: >-
   that could activate people who want to change the world.
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 maker_answers:
+  Organization Name: Mighty Companions
   website: 'http://www.TheConversation.org'
-  success: >-
-    Success would be evident by the obvious buzz of strangers becoming people
-    who care about one another. I just want to say how awed and thrilled I would
-    be if this old idea of mine actually saw light of day. I have felt the power
-    of it and have not had an opening to deliver it before. I am not doing this
-    for the award, where I was all right about my own money helping it to occur
-    but could not find the partnering. If this happened I would feel like I made
-    my life's contribution to ushering in the new paradigm of connectedness that
-    we so need.
   Indicator: ' Social Connectedness'
   brief: "How about creating Sister Blocks, where the richer parts of town partner with the poorer parts? It would be hands-on, where real people would get to shake hands and listen to each other’s stories. If this were a happening thing, it would give affluent people a simple way to be volunteers, where it wouldn’t be a big decision for each individual about which organization to give themselves to, but the group nature of it and the widespread practice would make it a natural for many people to participate. One of the unofficial ways I “give” is to the people who work for me, who clean my house and do my gardening. I am generous to them beyond the fees they charge for their services.  When you know people personally, if you are of a generous nature it is very satisfying  to help them. This would be the same thing, writ large and systematized. So, let a block from Beverly Hills get to know a block from South Central, with the idea of seeing how they can help.\r\n\r\nFacilitation would be needed at the start. And meeting places, like schools or banks or community rooms. But it is so simple and so doable and could be so far reaching, even creating a model program for the rest of the world.\r\n"
   budget explanation: "Money for promotion, including social networking service, could be $500 a week.\r\n\r\nExecution costs: one facilitator per marriage of sister blocks -- perhaps $100 an evening per sister block pair during regular (maybe once a month) get-togethers. Space would be donated. An administrator needed to coordinate the logistics and keep the system flowing and flourishing: perhaps $1,000 a week."
@@ -42,7 +34,15 @@ maker_answers:
     other productions in larger quarters catering to leaders of thought, so I
     have many alliances. Should this project be accepted, there are many
     collaborators that could be enrolled. 
-  Organization Name: Mighty Companions
+  success: >-
+    Success would be evident by the obvious buzz of strangers becoming people
+    who care about one another. I just want to say how awed and thrilled I would
+    be if this old idea of mine actually saw light of day. I have felt the power
+    of it and have not had an opening to deliver it before. I am not doing this
+    for the award, where I was all right about my own money helping it to occur
+    but could not find the partnering. If this happened I would feel like I made
+    my life's contribution to ushering in the new paradigm of connectedness that
+    we so need.
   description1: >-
     Flying under the radar, I have been a sort of underground for progressive
     thought, where some of the people at the edge have inspired others of us at

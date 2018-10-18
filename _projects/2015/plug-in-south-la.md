@@ -19,8 +19,10 @@ project_video: 'https://www.youtube.com/embed/qooMUYecd1s'
 project_areas:
   - South LA
 maker_answers:
+  How did you hear about this challenge?: >-
+    Tara Roth, president of the Goldhirsh Foundation and a member of our
+    advisory board, recommended applying.
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Plug In South LA
   Organization(s) mailing address(es): "12777 Jefferson Blvd.\r\nBuilding D – 3rd Floor\r\nLos Angeles, CA 90066\r\n"
   Organization(s) website(s): www.pluginsouthla.com
@@ -78,9 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: >-
-    Tara Roth, president of the Goldhirsh Foundation and a member of our
-    advisory board, recommended applying.
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-

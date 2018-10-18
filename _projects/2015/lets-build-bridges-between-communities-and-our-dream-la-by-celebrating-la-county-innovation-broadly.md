@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: Twitter
   'City, State': 'Los Angeles, CA 90071 '
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Center for Innovation at the LAEDC
   Organization(s) mailing address(es): "444  South Flower Street\r\n37th Floor"
   Organization(s) website(s): www.innovate.la
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How did you hear about this challenge?: Twitter
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

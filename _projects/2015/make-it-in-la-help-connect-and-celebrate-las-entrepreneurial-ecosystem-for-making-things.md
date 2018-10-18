@@ -30,8 +30,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: Tara Roth
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   Organization(s) name(s): Make it in LA
   Organization(s) mailing address(es): '2901 Beach Ave, Venice, CA, 90291'
   Organization(s) website(s): 'http://makeitinla.org'
@@ -81,7 +81,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: Tara Roth
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/a-kQryxgF4M'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: A community member of the Los Angeles Eco Village
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): 'Re:Ciclos and Bicycle Kitchen'
   Organization(s) mailing address(es): "4429 Fountain Ave \r\nLos Angeles, CA 90029\r\n"
   Organization(s) website(s): 'http://reciclos.org'
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: A community member of the Los Angeles Eco Village
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'

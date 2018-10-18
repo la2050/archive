@@ -14,9 +14,9 @@ tags_indicators:
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473384907'
 organization_website:
   - www.lostangelscp.org
-twitter: https://twitter.com/LostAngelsCP
-instagram: https://www.instagram.com/lost_angels_childrens_project/
-facebook: https://www.facebook.com/lostangelscp?fref=ts
+twitter: 'https://twitter.com/LostAngelsCP'
+instagram: 'https://www.instagram.com/lost_angels_childrens_project/'
+facebook: 'https://www.facebook.com/lostangelscp?fref=ts'
 ein: ''
 zip: ''
 project_image: >-

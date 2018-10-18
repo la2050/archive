@@ -18,8 +18,8 @@ project_areas:
   - San Gabriel Valley
   - Antelope Valley
 maker_answers:
+  How did you hear about this challenge?: Website
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
   Organization(s) name(s): The Council of Mexican Federations (COFEM)
   Organization(s) mailing address(es): '125 Paseo de la Plaza Suite 101, Los Angeles, CA 90012'
   Organization(s) website(s): 'http://www.cofem.org'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How did you hear about this challenge?: Website
+  How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'

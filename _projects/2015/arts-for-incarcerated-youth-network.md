@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: newsletter
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   Organization(s) name(s): >-
     Arts for Incarcerated Youth Network: includes AIYN members Armory Center for
     the Arts, Bold Ink/WriteGirl, Coalition for Engaged Education, InsideOut
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: newsletter
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

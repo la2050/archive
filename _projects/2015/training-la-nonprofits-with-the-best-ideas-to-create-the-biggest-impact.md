@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: via Shauna Nep
   'City, State': 'New York, NY '
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   Organization(s) name(s): Change Better
   Organization(s) mailing address(es): >-
     Social and Environmental Entrepreneurs (SEE), 23532 Calabasas Road, Suite A
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How did you hear about this challenge?: via Shauna Nep
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''

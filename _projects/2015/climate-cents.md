@@ -19,8 +19,10 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: >-
+    We collaborate with some of last year’s winners. We're on the LA2050 mailing
+    list.
   'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): Climate Cents
   Organization(s) mailing address(es): "c/o Community Partners\r\n1000 N. Alameda Street, Suite 240\r\nLos Angeles, CA 90012"
   Organization(s) website(s): www.ClimateCents.org
@@ -75,9 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: >-
-    We collaborate with some of last year’s winners. We're on the LA2050 mailing
-    list.
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

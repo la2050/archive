@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/fvo26NJM3JM'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: email
   'City, State': 'Studio CIty, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): The River Project
   Organization(s) mailing address(es): '3912 Laurel Canyon #208, Studio City, CA 91604'
   Organization(s) website(s): www.WaterLA.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: email
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

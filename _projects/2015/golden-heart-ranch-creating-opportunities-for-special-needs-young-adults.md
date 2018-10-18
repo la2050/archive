@@ -18,8 +18,8 @@ project_areas:
   - San Fernando Valley
   - County of Los Angeles
 maker_answers:
+  How did you hear about this challenge?: Friend
   'City, State': 'Agoura Hills,Ca'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
   Organization(s) name(s): Golden Heart Ranch
   Organization(s) mailing address(es): '708 Pier Ave B 194, Hermosa Beach, CA 90254'
   Organization(s) website(s): www.goldenheartranch.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Friend
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'

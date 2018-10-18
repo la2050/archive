@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  city_state: 'Pasadena, CA'
   org_name: Hollywood HEART
-  metrics_create_employment: '1'
   org_website: www.hollywoodheart.org
   org_twitter: www.twitter.com/hollywdheart
   org_facebook: www.facebook.com/hollywoodheart
@@ -69,7 +69,7 @@ maker_answers:
   impact_create: "Our initiative will benefit at-risk youth within the Greater Los Angeles area as well as local artists. The LA has HEART project also seeks to benefit the LA community as a whole by creating arts programs that will deter at-risk youth from engaging in street crime and activities as well as giving LA the chance to educate itself in the importance of arts education and empowerment.\r\n\r\nThe LA has HEART initiative directly takes advantage of the unique opportunities that only LA can offer—great artistic partners and young artists. In collaborating with them, we can, through each workshop, work towards eradicating street crime and increasing interest of the arts among at-risk youth. \r\n"
   who_benefit: "Our target audience is teens and young adults, ages 13-21, who face a number of serious issues such as poverty, unstable family environments, drugs and alcohol, medical illness, and/or absence from school. \r\n\r\nThe initiative will also benefit artists who seek to create a network for themselves or find opportunities to share their talents. \r\n"
   partners_collaboration: "LA is fortunate to have many organizations that offer arts instruction to at-risk youth. HH has strong relationships with two of these, CoachArt and The Mobile Film Classroom, with which we have completed over 10 programs and four workshops, respectively. In addition, HH has facilitated two filmmaking workshops with the IBD Support Foundation and partnered with the San Fernando Valley Partnership, Hillsides Education Center, Gabrielino, and Los Angeles High School as well. \r\n\r\nRecently HH established new collaborations with The Salvation Army Algeria and the Laurel Foundation, and is in talks to offer programming with the Boys and Girl Club of the West Valley. \r\nOur ability to establish sustainable partnerships is illustrated in our 19-year partnership with One Heartland for our summer arts camp. HH is dedicated to strengthening relationships with all our existing partners and continually seeks to collaborate with other like-minded organizations in for future programs.\r\n"
-  city_state: 'Pasadena, CA'
+  metrics_create_employment: '1'
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'

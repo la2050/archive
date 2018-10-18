@@ -14,8 +14,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles Maritime Institute
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   Organization(s) mailing address(es): 'Berth 73, Suite 2, Los Angeles, CA 90731'
   Organization(s) website(s): www.LAMITopSail.org
   Organization(s) twitter handle(s): www.twitter.com/lami_topsail
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
