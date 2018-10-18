@@ -133,7 +133,7 @@ project_proposal_best_place: >-
   our social and fiscal economies. We are building a replicable model that
   serves people, inspires service, and facilitates connection between Angelenos.
 cached_project_image: >-
-  /assets/images/projects/2016/the-precise-barber-college/scontent-sjc3-1.cdninstagram.com/vp/306653ead28bce62f0f6df66952a0eb8/5C50E398/t51.2885-15/e35/35618139_237603167038940_5367380235643781120_n.jpg'.jpg
+  /assets/images/projects/2016/the-precise-barber-college/scontent-sjc3-1.cdninstagram.com/vp/306653ead28bce62f0f6df66952a0eb8/5C50E398/t51.2885-15/e35/35618139_237603167038940_5367380235643781120_n.jpg
 organization_name: Covenant House California
 organization_website: www.covenanthousecalifornia.org
 

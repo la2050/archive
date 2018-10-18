@@ -266,7 +266,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Angelenos will vote, volunteer and play an active role in their
   communities.<p/>
 cached_project_image: >-
-  /assets/images/projects/2013/ciclavia-get-connected-la/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43150975_1966183453468553_4826621845664956416_n.jpg?_nc_cat=110&oh=341053c1440453c14416c500fb7a3eb4&oe=5C5A5D4E.jpg
+  /assets/images/projects/2013/ciclavia-get-connected-la/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43150975_1966183453468553_4826621845664956416_n.jpg
 youtube_video_identifier: y4WKBQ2UIos
 
 ---
