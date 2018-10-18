@@ -62,6 +62,8 @@ _You can follow these same steps to hide or show one of the [projects](https://g
 
 If you’d like to see how your changes will look on the website before anyone else sees them, you can work in the [staging branch](https://github.com/la2050/archive/tree/staging)–a copy of the website files, that’s published at https://staging-archive.la2050.org
 
+![staging](https://user-images.githubusercontent.com/926616/47131296-bcb61180-d252-11e8-90e0-56a2e7552163.png)
+
 You can make edits in the staging branch and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
 
 Once you’re happy with how your changes look on the staging website, you can automatically publish them on the [archive website](https://archive.la2050.org) with a pull request. Here are some steps you can follow:
@@ -70,23 +72,17 @@ Once you’re happy with how your changes look on the staging website, you can a
 
 https://github.com/la2050/archive/pull/new/staging
 
+![1-new-pull-request-button](https://user-images.githubusercontent.com/926616/47131298-bde73e80-d252-11e8-8cd6-f64703af5c2b.png)
+
 2. Write a title for your pull request (this is optional).
 
 3. Press the “create pull request” button.
 
 4. And then, press the “merge pull request” button.
 
-5. And lastly, press the “confirm merge” button.
-
-![staging](https://user-images.githubusercontent.com/926616/47131296-bcb61180-d252-11e8-90e0-56a2e7552163.png)
-
-![1-new-pull-request-button](https://user-images.githubusercontent.com/926616/47131298-bde73e80-d252-11e8-8cd6-f64703af5c2b.png)
-
-![2-create-pull-request](https://user-images.githubusercontent.com/926616/47131299-bf186b80-d252-11e8-9cca-54086a159cbd.png)
-
 ![3-merge-pull-request](https://user-images.githubusercontent.com/926616/47131302-c0499880-d252-11e8-9393-75dcfcd49650.png)
 
-![4-confirm-merge](https://user-images.githubusercontent.com/926616/47131303-c2135c00-d252-11e8-948a-3841d93c4c58.png)
+5. And lastly, press the “confirm merge” button.
 
 
 ## How to develop locally
