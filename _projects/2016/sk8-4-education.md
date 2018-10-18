@@ -1,28 +1,20 @@
 ---
+published: true
 organization_id: '2016218'
 year_submitted: 2016
-organization_name: The Garage Board Shop
-organization_website: thegarageboardshops.com
-ein: ''
-project_image_2: 4915432065741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102248'
+challenge_url: 'https://challenge.la2050.org/entry/sk8-4-education'
 title: SK8 4 Education
-organization_name_2: The Garage Board Shop
-organization_activity: >-
-  The Garage Board Shop is an urban outlet created for the community to have a
-  space to express themselves through different channels.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4915432065741-team91.jpg
-project_video: 'https://youtu.be/HSe2pclx0MU?rel=0&amp;showinfo=0'
 project_summary: >-
   SK8 4 Education is an after school program developed to motivate undeserved
   youth by combining skateboarding with education.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4915432065741-team91.jpg
+project_video: 'https://youtu.be/HSe2pclx0MU?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - East LA
-  - South LA
-  - Boyle Heights
 project_measure: >-
   We monitor the progress of each member's report card to document their
   improvement before and after they initiated in the SK8 4 Education program. 
@@ -44,6 +36,19 @@ project_description: >-
   for kids to come after school and do their homework and exchange it for
   points.
 project_impact: '["Student education pipeline"]'
+project_proposal_impact:
+  - Student education pipeline
+project_proposal_description: >-
+  SK8 4 Education is an after school program developed to motivate at-risk youth
+  by combining skateboarding with education. Our mission is to inspire,
+  motivate, and empower the youth through skateboarding and urban arts. We use
+  art activities, art shows, skate competitions, and merchandise as incentives
+  for kids to come after school and do their homework and exchange it for
+  points.
+project_areas:
+  - East LA
+  - South LA
+  - Boyle Heights
 project_proposal_best_place: >-
   The Garage Board Shop was created with the idea to bring the youth community a
   safe place where they can express their talents through different vehicles,
@@ -72,19 +77,7 @@ project_proposal_best_place: >-
   kid with skating supplies so they can continue skating but create and motivate
   an interest for education in them and to encourage them to pursue education
   beyond K-12.
-challenge_url: 'https://challenge.la2050.org/entry/sk8-4-education'
-empty_column_1: ''
-project_proposal_description: >-
-  SK8 4 Education is an after school program developed to motivate at-risk youth
-  by combining skateboarding with education. Our mission is to inspire,
-  motivate, and empower the youth through skateboarding and urban arts. We use
-  art activities, art shows, skate competitions, and merchandise as incentives
-  for kids to come after school and do their homework and exchange it for
-  points.
-project_proposal_impact:
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: The Garage Board Shop
+organization_website: thegarageboardshops.com
 
 ---

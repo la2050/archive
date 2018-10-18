@@ -1,30 +1,21 @@
 ---
+published: true
 organization_id: '2016200'
 year_submitted: 2016
-organization_name: Spark Los Angeles
-organization_website: SparkProgram.org
-ein: '201836547'
-project_image_2: 5555652265741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102216'
+challenge_url: 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
 title: Spark LA Youth Mentorships
-organization_name_2: Spark Los Angeles
-organization_activity: >-
-  Spark inspires students to succeed in high school, college, and their future
-  careers by matching them with mentors at top companies for workplace learning
-  experiences around interest-driven projects.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
-project_video: 'https://www.youtube.com/embed/ueKmJQlz92o?rel=0&amp;showinfo=0'
 project_summary: >-
   Let’s make LA the best place to learn by matching all of our city’s
   underserved middle schoolers with mentors at leading companies to support
   their success in high school and beyond.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
+project_video: 'https://www.youtube.com/embed/ueKmJQlz92o?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - South LA
-  - LAUSD
 project_measure: >-
   Success for Spark means keeping students:
 
@@ -78,6 +69,23 @@ project_description: >-
 project_impact: >-
   ["District-wide graduation rates","Student education pipeline","Suspension and
   expulsion rates","Truancy rates in elementary and middle schools"]
+project_proposal_impact:
+  - District-wide graduation rates
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+project_proposal_description: >-
+  One out of every six LAUSD students drop out of high school -- and of those
+  who drop out, two thirds either don’t complete or get held back in 9th grade.
+  By 2050, Spark wants every LA student to be ready for 9th grade with the
+  support they need to thrive in high school and beyond. Today, a $100,000
+  investment from LA2050 will fuel Spark’s next step: matching 300 underserved
+  middle schoolers with mentors from top companies for a year of career
+  exploration, skill-building, and academic engagement.
+project_areas:
+  - Central LA
+  - South LA
+  - LAUSD
 project_proposal_best_place: >-
   In order to make LA the best place to learn, we have to engage students at the
   right moment. Every year, 1.2 million students drop out of high schools across
@@ -130,23 +138,7 @@ project_proposal_best_place: >-
   partners with Spark. The impact goes beyond students and mentors to the
   company itself: “It’s energizing and it’s cool,” says Perry Wallack. “It will
   help your company hire. It will absolutely help you retain.'
-challenge_url: 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
-empty_column_1: ''
-project_proposal_description: >-
-  One out of every six LAUSD students drop out of high school -- and of those
-  who drop out, two thirds either don’t complete or get held back in 9th grade.
-  By 2050, Spark wants every LA student to be ready for 9th grade with the
-  support they need to thrive in high school and beyond. Today, a $100,000
-  investment from LA2050 will fuel Spark’s next step: matching 300 underserved
-  middle schoolers with mentors from top companies for a year of career
-  exploration, skill-building, and academic engagement.
-project_proposal_impact:
-  - District-wide graduation rates
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-category: learn
-body_class: blueberry
-published: true
+organization_name: Spark Los Angeles
+organization_website: SparkProgram.org
 
 ---

@@ -1,29 +1,24 @@
 ---
+published: true
 organization_id: '2016204'
 year_submitted: 2016
-organization_name: T&L Foundation for Child Care Information
-organization_website: www.tlfcci.org
-ein: ''
-project_image_2: 0113414065741-team91.png
+category: live
+body_class: lime
 project_id: '6102224'
+challenge_url: >-
+  https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
 title: >-
   Culinary Skills in a Box - Giving Children in Child Care the Tools to
   Establish Healthy Habits
-organization_name_2: T&L Foundation for Child Care Information
-organization_activity: >-
-  Strengthen quality child care and early education through participation in and
-  education of health and wellness initiatives.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
-project_video: ''
 project_summary: >-
   Culinary Skills in a Box introduces child caregivers, parents & children to
   skills and new foods that are developmentally appropriate. Food & lessons
   delivered to their door monthly.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: 'Raddish Kids, Evergreen Nutrition Program'
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   In an effort to determine the success and adjustments necessary regarding this
   pilot project, we will create an evaluation tool - two surveys - to be taken
@@ -65,6 +60,19 @@ project_description: >-
   to children. Culinary skills and food delivery addresses childhood obesity and
   food access issues in L.A. County.
 project_impact: '["Access to healthy food","Obesity"]'
+project_proposal_impact:
+  - Access to healthy food
+  - Obesity
+project_proposal_description: >-
+  Child care providers are empowered to try new foods and skills with Culinary
+  Skills in a Box. Thematic recipes, skills, tools and incentives are delivered
+  monthly to a child care provider’s home, including the recipe ingredients!
+  This project increases access and willingness to try new foods. The box is 
+  focused on helping the provider introduce culinary skills and healthful foods
+  to children. Culinary skills and food delivery addresses childhood obesity and
+  food access issues in L.A. County.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   We will make L.A.  County the healthiest place to live by changing the
   trajectory of children’s health in targeted high need areas.  Establishing
@@ -113,22 +121,7 @@ project_proposal_best_place: >-
   After the successful pilot, we can take this to other providers in L.A. county
   and potentially reach the more than 78,000 children in licensed in home child
   care.
-challenge_url: >-
-  https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
-empty_column_1: ''
-project_proposal_description: >-
-  Child care providers are empowered to try new foods and skills with Culinary
-  Skills in a Box. Thematic recipes, skills, tools and incentives are delivered
-  monthly to a child care provider’s home, including the recipe ingredients!
-  This project increases access and willingness to try new foods. The box is 
-  focused on helping the provider introduce culinary skills and healthful foods
-  to children. Culinary skills and food delivery addresses childhood obesity and
-  food access issues in L.A. County.
-project_proposal_impact:
-  - Access to healthy food
-  - Obesity
-category: live
-body_class: lime
-published: true
+organization_name: T&L Foundation for Child Care Information
+organization_website: www.tlfcci.org
 
 ---

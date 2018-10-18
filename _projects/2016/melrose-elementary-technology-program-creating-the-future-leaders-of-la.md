@@ -1,27 +1,21 @@
 ---
+published: true
 organization_id: '2016146'
 year_submitted: 2016
-organization_name: Melrose Elementary PTO
-organization_website: www.melrosestars.org
-ein: ''
-project_image_2: 3845012265741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102153'
+challenge_url: >-
+  https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
 title: 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
-organization_name_2: Melrose Elementary PTO
-organization_activity: >-
-  Through community engagement, volunteer support, and fundraising we create a
-  supportive, technologically-rich environment where diverse students work
-  collaboratively with creativity and innovation.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
-project_video: 'https://www.youtube.com/embed/8nHD7qZG4S8?rel=0&amp;showinfo=0'
 project_summary: >-
   Help us close the achievement gap and bring technology and equality to our
   diverse magnet school in the heart of LA.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
+project_video: 'https://www.youtube.com/embed/8nHD7qZG4S8?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - LAUSD
 project_measure: >-
   Melrose Elementary PTO supports a culturally supportive, technologically-rich
   environment where a diverse student population can work collaboratively with
@@ -65,6 +59,25 @@ project_impact: >-
   rates","Proficiency in English and Language Arts and Math","Student education
   pipeline","Suspension and expulsion rates","Truancy rates in elementary and
   middle schools","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Melrose Magnet seeks to close the digital divide by ensuring all students,
+  regardless of income or ethnicity, have access to 21st century skills and
+  technology. Our 1-to-1 integrated computing program engages students to use
+  technology as a powerful tool to investigate, collaborate, and bring ideas to
+  life. Completing the final phase of a self-sustaining tech renewal project
+  will support our mission for students to become self-sufficient learners and
+  creators in all aspects of their work.
+project_areas:
+  - LAUSD
 project_proposal_best_place: >-
   The importance of quality primary education has proven time and again to be a
   crucial stepping stone in allowing students to continue on to college and
@@ -105,28 +118,7 @@ project_proposal_best_place: >-
   incredibly successful tech integration program that could become a model for
   other schools struggling to meet the needs of their students in our ever more
   tech-centered world.
-challenge_url: >-
-  https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
-empty_column_1: ''
-project_proposal_description: >-
-  Melrose Magnet seeks to close the digital divide by ensuring all students,
-  regardless of income or ethnicity, have access to 21st century skills and
-  technology. Our 1-to-1 integrated computing program engages students to use
-  technology as a powerful tool to investigate, collaborate, and bring ideas to
-  life. Completing the final phase of a self-sustaining tech renewal project
-  will support our mission for students to become self-sufficient learners and
-  creators in all aspects of their work.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Melrose Elementary PTO
+organization_website: www.melrosestars.org
 
 ---

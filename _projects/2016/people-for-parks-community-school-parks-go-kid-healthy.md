@@ -1,37 +1,26 @@
 ---
+published: true
 organization_id: '2018095'
 year_submitted: 2016
-organization_name: People for Parks
-organization_website: peopleforparks.org
-ein: '954219646'
-project_image_2: 5359541815741-team91.jpg
+category: play
+body_class: strawberry
 project_id: '6102181'
+challenge_url: >-
+  https://challenge.la2050.org/entry/people-for-parks-community-school-parks-go-kid-healthy!
 title: People for Parks' Community School Parks Go Kid Healthy!
-organization_name_2: People for Parks
-organization_activity: >-
-  People for Parks transforms schoolyards in underserved regions of LA into
-  Community School Parks for use during non-school hours, providing children and
-  families with healthy outdoor space.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
-project_video: 'https://www.youtube.com/embed/ydbOMK-5HPM?rel=0&amp;showinfo=0'
 project_summary: >-
   People for Parks transforms public park access. Partnering with Kid Healthy
   we’ll train parents to grow our 11 new Community School Parks into vibrant
   places for kids and families to play and thrive.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
+project_video: 'https://www.youtube.com/embed/ydbOMK-5HPM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We are collaborating with Kid Healthy, a community based organization, on
   parent empowerment at our Community School Parks. The Los Angeles County
   Department of Public Health will assist us with data collection and review so
   that we may evaluate our progress.
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Aided by the Los Angeles County Department of Public Health, PFP will evaluate
   the following outcomes. Results will contribute to program improvement and
@@ -87,6 +76,29 @@ project_impact: >-
   spaces for play","Number of children enrolled in afterschool programs","Number
   of parks with intergenerational play opportunities","Number of residents with
   easy access to a “vibrant” park","Per capita crime rates","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
+  - Perceived safety
+project_proposal_description: >-
+  In 2016, People for Parks (PFP) opened 9 new Community School Parks (CSPs) for
+  use during non-school hours, providing a park within walking distance of
+  45,000 Angelenos. In 2017, PFP will operate 11 CSPs and through a strategic
+  partnership with Kid Healthy, train parents and residents in neighborhood
+  engagement, recruiting, playground management and physical activities.
+  Community mobilization by PFP and Kid Healthy will keep these play spaces open
+  and sustainable.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   People for Parks (PFP) will make LA the best place to PLAY in 2017 in two
   ways. First, we will continue operating our 11 Community School Parks (CSPs).
@@ -143,27 +155,7 @@ project_proposal_best_place: >-
   This grant will help keep our CSPs thriving, and allow us to take our
   community empowerment to the next level through a strategic partnership with
   Kid Healthy, helping make LA the best place to PLAY for generations to come.
-challenge_url: >-
-  https://challenge.la2050.org/entry/people-for-parks-community-school-parks-go-kid-healthy!
-empty_column_1: ''
-project_proposal_description: >-
-  In 2016, People for Parks (PFP) opened 9 new Community School Parks (CSPs) for
-  use during non-school hours, providing a park within walking distance of
-  45,000 Angelenos. In 2017, PFP will operate 11 CSPs and through a strategic
-  partnership with Kid Healthy, train parents and residents in neighborhood
-  engagement, recruiting, playground management and physical activities.
-  Community mobilization by PFP and Kid Healthy will keep these play spaces open
-  and sustainable.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of children enrolled in afterschool programs
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-  - Per capita crime rates
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: People for Parks
+organization_website: peopleforparks.org
 
 ---

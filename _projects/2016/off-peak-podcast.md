@@ -1,27 +1,21 @@
 ---
+published: true
 organization_id: '2016122'
 year_submitted: 2016
-organization_name: LA Metro
-organization_website: www.metro.net
-ein: ''
-project_image_2: 2545821265741-team91.png
+category: connect
+body_class: tangerine
 project_id: '6102121'
+challenge_url: 'https://challenge.la2050.org/entry/off-peak-podcast'
 title: Off Peak Podcast
-organization_name_2: LA Metro
-organization_activity: >-
-  LA Metro is a multimodal mobility agency that transports 1.4 million
-  passengers daily on bus, light rail, heavy rail, bus rapid transit.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
-project_video: ''
 project_summary: >-
   LA Metro is deepening Los Angeles County’s connection to itself by telling the
   diverse story of who we are and who we want to be through the lens of riding
   public transportation.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: The Glue
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   Our project is about building and reinforcing the Angeleno story. From a
   quantitative perspective, we will measure our success by the number of times
@@ -48,6 +42,23 @@ project_impact: >-
   gatherings","Government responsiveness to residents’ needs","Travel time to
   work","Public transit riders","Total number of local social media friends and
   connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  LA Metro aims to connect Los Angeles residents to our community through the
+  use of the podcasting medium to tell our collective urban story. We seek to
+  unearth the iconic story of how the people of Los Angeles learn, create, play,
+  connect, and live in our vibrant community. The podcast celebrates the past,
+  present and future of mobility in Los Angeles through narrative content by
+  creating story-driven podcasts that educate, inspire and entertain people.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   LA has reputation for being a region of missed connections and traffic jams.
   We are challenging that assertion & telling the story of LA County through a
@@ -104,25 +115,7 @@ project_proposal_best_place: >-
   and expand this project with an additional 12 episodes to continue to grow and
   expand our communal story, reminding our community how Los Angeles is truly
   the best place in the world to connect with our fellow citizens.
-challenge_url: 'https://challenge.la2050.org/entry/off-peak-podcast'
-empty_column_1: ''
-project_proposal_description: >-
-  LA Metro aims to connect Los Angeles residents to our community through the
-  use of the podcasting medium to tell our collective urban story. We seek to
-  unearth the iconic story of how the people of Los Angeles learn, create, play,
-  connect, and live in our vibrant community. The podcast celebrates the past,
-  present and future of mobility in Los Angeles through narrative content by
-  creating story-driven podcasts that educate, inspire and entertain people.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Travel time to work
-  - Public transit riders
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: LA Metro
+organization_website: www.metro.net
 
 ---

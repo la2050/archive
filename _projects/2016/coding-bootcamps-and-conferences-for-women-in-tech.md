@@ -1,24 +1,20 @@
 ---
+published: true
 organization_id: '2016089'
 year_submitted: 2016
-organization_name: Girls in Tech
-organization_website: girlsintech.org
-ein: ''
-project_image_2: 6190449915741-team91.png
+category: create
+body_class: banana
 project_id: '6102081'
+challenge_url: >-
+  https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
 title: Coding Bootcamps and Conferences for Women in Tech
-organization_name_2: Girls in Tech
-organization_activity: >-
-  Girls in Tech (GIT) is a global non-profit focused on the engagement,
-  education and empowerment of girls and women who are passionate about
-  technology.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
-project_video: 'https://www.youtube.com/embed/BZXFTqAIG8U?rel=0&amp;showinfo=0'
 project_summary: >-
   Girls in Tech (GIT) is a global non-profit focused on the engagement,
   education and empowerment of girls and women who are passionate about
   technology by providing innovative programs and partnerships
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
+project_video: 'https://www.youtube.com/embed/BZXFTqAIG8U?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   For Girls in Tech to achieve its objectivesensure that more women get access
@@ -28,9 +24,6 @@ project_collaborators: >-
   record of working with partners, sponsors and collaborators. Previous sponsors
   include Facebook and Jim McCarthy for bootcamps; for the Catalyst Conference,
   partners include Intel and GoDaddy.
-project_areas:
-  - Central LA
-  - City of Los Angeles
 project_measure: >-
   To maintain quality as we grow, we’d like to increase our focus on program
   reporting. This would include eSurveys, a program analytics platform, a
@@ -72,6 +65,21 @@ project_description: >-
 project_impact: >-
   ["Jobs per capita","Measures of cultural and global economic influence (“soft
   power”)","Minority- and women-owned firms","High growth startups"]
+project_proposal_impact:
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+project_proposal_description: >-
+  GIT aims to eradicate gender disparities in STEM (science, technology,
+  engineering, mathematics) fields by educating, preparing and empowering women
+  to pursue technology careers and persevere within technology fields. We
+  achieve this through the creation of proprietary, innovative programming and
+  strategic global partnerships. We provide mentorship and boot camp programs as
+  well as the Catalyst Conference, an annual conference for women in tech.
+project_areas:
+  - Central LA
+  - City of Los Angeles
 project_proposal_best_place: >-
   Girls in Tech has a chapter in LA which already focuses on bringing innovation
   and entrepreneurship to the area as well as encouraging diversity within the
@@ -112,23 +120,7 @@ project_proposal_best_place: >-
   scene, and help it attract a diverse community of thinkers, leaders, investors
   and entrepreneurs whilst working with local communities to create a
   sustainable tech workforce with gender parity as the key focus.
-challenge_url: >-
-  https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
-empty_column_1: ''
-project_proposal_description: >-
-  GIT aims to eradicate gender disparities in STEM (science, technology,
-  engineering, mathematics) fields by educating, preparing and empowering women
-  to pursue technology careers and persevere within technology fields. We
-  achieve this through the creation of proprietary, innovative programming and
-  strategic global partnerships. We provide mentorship and boot camp programs as
-  well as the Catalyst Conference, an annual conference for women in tech.
-project_proposal_impact:
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - High growth startups
-category: create
-body_class: banana
-published: true
+organization_name: Girls in Tech
+organization_website: girlsintech.org
 
 ---

@@ -1,29 +1,21 @@
 ---
+published: true
 organization_id: '2016057'
 year_submitted: 2016
-organization_name: Continuous Good
-organization_website: brandingwhilebroke.com
-ein: ''
-project_image_2: 3733217165741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102114'
+challenge_url: >-
+  https://challenge.la2050.org/entry/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color
 title: >-
   Branding While Broke presents BRANDNEW YOUth, A Brand Development Program for
   Male Teens of Color.
-organization_name_2: Continuous Good
-organization_activity: >-
-  Continuous Good supports, shares, and builds social impact brands. Our
-  flagship brand is a platform designed to equip, inspire and educate
-  entrepreneurs called Branding While Broke.
+project_summary: BRANDNEW YOUth is a 6-week brand development program for male teens of color.
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
 project_video: ''
-project_summary: BRANDNEW YOUth is a 6-week brand development program for male teens of color.
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - City of Los Angeles
-  - LAUSD
-  - n/a
 project_measure: >-
   We will measure the success of the program by looking at the following:
 
@@ -76,6 +68,24 @@ project_description: >-
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  BRANDNEW YOUth is a 6-week brand development program for male teens of color.
+  In response to high levels of consumer marketing towards this specific
+  demographic, Brandnew Youth will empower students to develop a healthy and
+  sustainable relationship with brands, by teaching them how to create their own
+  personal brand. The program will be concentrated on students from low income,
+  high consumer communities within South Central Los Angeles and will be limited
+  to 10 participants per cycle.
+project_areas:
+  - City of Los Angeles
+  - LAUSD
+  - n/a
 project_proposal_best_place: >-
   BRANDNEW YOUTH is a 6-week brand development program for male teens of color.
   In response to high levels of consumer marketing towards this specific
@@ -132,25 +142,7 @@ project_proposal_best_place: >-
   students. Students will participate in a video exit interview about their
   brand, the impact of the course and the application of the course  to their
   future endeavors.
-challenge_url: >-
-  https://challenge.la2050.org/entry/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color
-empty_column_1: ''
-project_proposal_description: >-
-  BRANDNEW YOUth is a 6-week brand development program for male teens of color.
-  In response to high levels of consumer marketing towards this specific
-  demographic, Brandnew Youth will empower students to develop a healthy and
-  sustainable relationship with brands, by teaching them how to create their own
-  personal brand. The program will be concentrated on students from low income,
-  high consumer communities within South Central Los Angeles and will be limited
-  to 10 participants per cycle.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Continuous Good
+organization_website: brandingwhilebroke.com
 
 ---

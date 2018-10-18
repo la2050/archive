@@ -1,28 +1,22 @@
 ---
+published: true
 organization_id: '2016106'
 year_submitted: 2016
-organization_name: I3 Arts Fest
-organization_website: www.i3artsfest.com
-ein: ''
-project_image_2: 5119808783741-team88.png
+category: connect
+body_class: tangerine
 project_id: '6102099'
+challenge_url: >-
+  https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
 title: 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
-organization_name_2: I3 Arts Fest
-organization_activity: >-
-  I3 Arts Fest is a definitive demonstration of how community is built through
-  interactions with arts and culture and how this in turn creates the foundation
-  for a thriving and dynamic city.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
-project_video: 'https://www.youtube.com/embed/A702YxASJIo?rel=0&amp;showinfo=0'
 project_summary: >-
   I3 Arts Fest is a public arts festival that transcends public spaces into a
   vibrant urban canvas for artists  to engage and exhibit their most innovative
   and imaginative works.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
+project_video: 'https://www.youtube.com/embed/A702YxASJIo?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'Grand Park, Grand Performances, and Playascape'
-project_areas:
-  - Central LA
 project_measure: >-
   While the festival’s success is primarily dependent on the number of
   individuals that attend each activation, it is also measured by the growing
@@ -47,6 +41,21 @@ project_description: >-
 project_impact: >-
   ["Cultural events","Public/open streets gatherings","Public transit
   riders","Rates of volunteerism"]
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+  - Public transit riders
+  - Rates of volunteerism
+project_proposal_description: >-
+  I3 Arts Fest is a public arts festival that will activate three venues in
+  Downtown Los Angeles with interactive, immersive and innovate art. I3 Arts
+  Fest transforms these public spaces into a vibrant urban canvas for regional
+  artists to engage and exhibit their most innovative and imaginative works.
+  This nighttime celebration features large-scale installations, multimedia and
+  performing arts experiences that will inspire the community, entertain
+  visitors and thrill stakeholders.
+project_areas:
+  - Central LA
 project_proposal_best_place: >-
   I3 Arts Fest is a Los Angeles based free festival that will activate three
   venues in Downtown Los Angeles with interactive, immersive and innovate art.
@@ -101,24 +110,7 @@ project_proposal_best_place: >-
   interactions with arts and culture and how this in turn creates the foundation
   for a thriving and dynamic city. Unlike anything produced before, I3 Arts Fest
   will become a cultural destination and global influence in the arts community.
-challenge_url: >-
-  https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
-empty_column_1: ''
-project_proposal_description: >-
-  I3 Arts Fest is a public arts festival that will activate three venues in
-  Downtown Los Angeles with interactive, immersive and innovate art. I3 Arts
-  Fest transforms these public spaces into a vibrant urban canvas for regional
-  artists to engage and exhibit their most innovative and imaginative works.
-  This nighttime celebration features large-scale installations, multimedia and
-  performing arts experiences that will inspire the community, entertain
-  visitors and thrill stakeholders.
-project_proposal_impact:
-  - Cultural events
-  - Public/open streets gatherings
-  - Public transit riders
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: I3 Arts Fest
+organization_website: www.i3artsfest.com
 
 ---

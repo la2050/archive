@@ -1,46 +1,28 @@
 ---
+published: true
 organization_id: '2016220'
 year_submitted: 2016
-organization_name: The Help Group's STEM3 Academy
-organization_website: www.STEM3Academy.org
-ein: ''
-project_image_2: 1670488055741-team91.png
+category: learn
+body_class: blueberry
 project_id: '6102244'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners!
 title: >-
   The Help Group's STEM3 Academy Coding, Computer & Robotics Camps for Special
   Learners! 
-organization_name_2: The Help Group's STEM3 Academy
-organization_activity: >-
-  The Help Group is the largest nonprofit of its kind in the US dedicated to
-  helping people with special needs related to autism, ADHD, and other social &
-  emotional challenges fulfill their potential.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
-project_video: 'https://www.youtube.com/embed/n9iSFsPt5ME?rel=0&amp;showinfo=0'
 project_summary: >-
   Breaking barriers to STEM education and future life options for children
   diagnosed with autism spectrum disorder, ADHD and other special needs through
   engaging camps in robotics, coding & computers.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
+project_video: 'https://www.youtube.com/embed/n9iSFsPt5ME?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: >-
   None specifically, although The Help Group comprises a family of nonprofit
   organizations working to improve the lives of individuals with special needs.
   Our schools, including STEM3 Academy, accept students from more than 50 school
   districts across Southern California.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-  - We work with more than 50 school districts
 project_measure: >-
   We will define success by offering STEM camps and afterschool programs at two
   locations for special needs students across Los Angeles. We will measure
@@ -73,6 +55,36 @@ project_impact: >-
   rates","Proficiency in English and Language Arts and Math","Student education
   pipeline","Suspension and expulsion rates","Youth unemployment and
   underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Many special learners are underserved in STEM education. Our project reduces
+  barriers to STEM skills for students diagnosed with autism, ADHD and other
+  special needs by offering afterschool and summer STEM camps designed
+  specifically for special learners. The engaging camps extend the reach of
+  STEM3 Academy, the first K-12 school in the nation designed to build STEM
+  competence in children with special needs, and will include programs in cyber
+  security, robotics, coding and computers.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
+  - We work with more than 50 school districts
 project_proposal_best_place: >-
   The Help Group is known for innovative approaches to educating young people
   with special needs & transitioning them to fulfilling lives. Each year we
@@ -122,27 +134,7 @@ project_proposal_best_place: >-
   are educated, but also in the way they think about themselves, their futures
   and their roles in society. We have been innovators on ways to improve the
   lives of our community. Please help us reach more students across Los Angeles.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners!
-empty_column_1: ''
-project_proposal_description: >-
-  Many special learners are underserved in STEM education. Our project reduces
-  barriers to STEM skills for students diagnosed with autism, ADHD and other
-  special needs by offering afterschool and summer STEM camps designed
-  specifically for special learners. The engaging camps extend the reach of
-  STEM3 Academy, the first K-12 school in the nation designed to build STEM
-  competence in children with special needs, and will include programs in cyber
-  security, robotics, coding and computers.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Suspension and expulsion rates
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: The Help Group's STEM3 Academy
+organization_website: www.STEM3Academy.org
 
 ---

@@ -1,28 +1,22 @@
 ---
+published: true
 organization_id: '2016231'
 year_submitted: 2016
-organization_name: The Ron Finley Project
-organization_website: ronfinley.com
-ein: ''
-project_image_2: 2775648715741-team90.jpg
+category: play
+body_class: strawberry
 project_id: '6102256'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-ron-finley-project-presents-da-function-a-community-fun-fest
 title: The Ron Finley Project presents Da FUNction - A Community Fun Fest
-organization_name_2: The Ron Finley Project
-organization_activity: >-
-  The Ron Finley Project is a nonprofit dedicated to shifting culture and
-  changing urban landscapes by bringing gardens, art and new life to inner-city
-  neighborhoods.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
-project_video: 'https://www.youtube.com/embed/Y7hnhC54WqA?rel=0&amp;showinfo=0'
 project_summary: >-
   Da FUNction is a one day, free event that brings members from LA’s diverse
   communities together for one purpose - to have fun and play with a smorgasbord
   of activities in an otherwise unused space.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
+project_video: 'https://www.youtube.com/embed/Y7hnhC54WqA?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - South LA
 project_measure: >-
   Work will be evaluated on a number of levels. These include:
 
@@ -72,6 +66,19 @@ project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play
   opportunities","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Perceived safety
+project_proposal_description: >-
+  An annual community fun-fest  held at a public venue in South LA, Da FUNction
+  offers residents and the larger LA community a day of play with a diverse menu
+  of activities ranging from drumming, weaving, ceramics, woodworking,
+  gardening, yoga and more. Da FUNction serves to transform unused, undervalued
+  public spaces into beautiful places full of life, culture & art.
+project_areas:
+  - South LA
 project_proposal_best_place: >-
   Da FUNction at Vermont Square is an interactive event where attendees are
   completely immersed in art and community from the moment they arrive. Whether
@@ -105,22 +112,7 @@ project_proposal_best_place: >-
   pollution, Da FUNction can also deliver a wide range of social, economic and
   environmental benefits to make cities more attractive and healthier places to
   be.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-ron-finley-project-presents-da-function-a-community-fun-fest
-empty_column_1: ''
-project_proposal_description: >-
-  An annual community fun-fest  held at a public venue in South LA, Da FUNction
-  offers residents and the larger LA community a day of play with a diverse menu
-  of activities ranging from drumming, weaving, ceramics, woodworking,
-  gardening, yoga and more. Da FUNction serves to transform unused, undervalued
-  public spaces into beautiful places full of life, culture & art.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: The Ron Finley Project
+organization_website: ronfinley.com
 
 ---

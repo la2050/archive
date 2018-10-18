@@ -1,33 +1,26 @@
 ---
+published: true
 organization_id: '2016072'
 year_submitted: 2016
-organization_name: EPage
-organization_website: getgaggle.com
-ein: ''
-project_image_2: 9587467355741-team91.jpg
+category: play
+body_class: strawberry
 project_id: '6102139'
+challenge_url: >-
+  https://challenge.la2050.org/entry/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service
 title: >-
   Gaggle uses a fun wearable beacon and mobile app to create a revolutionary new
   child safety service
-organization_name_2: EPage
-organization_activity: >-
-  EPage is a mobile app development company that has created and released over
-  300 apps for schools, businesses, professionals, and public gardens.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9587467355741-team91.jpg
-project_video: ''
 project_summary: >-
   Gaggle uses a fun wearable beacon combined with a mobile app to create a
   revolutionary new child safety service to help monitor large groups of
   students on school field trips.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9587467355741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Redondo Beach Unified School District, Redondo Beach Council of PTAs, El
   Segundo Unified School District
-project_areas:
-  - South Bay
-  - County of Los Angeles
-  - LAUSD
 project_measure: >-
   Surveys, assessments, and interviews with school staff, parents, chaperones,
   and community members will help grade effectiveness and impact on LA2050 play
@@ -75,6 +68,21 @@ project_description: >-
 project_impact: >-
   ["Access to open space and park facilities","Number of children enrolled in
   afterschool programs","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number of children enrolled in afterschool programs
+  - Perceived safety
+project_proposal_description: >-
+  We will expand on our pilot program in a number of Los Angeles schools: the
+  service will be tested on dozens of field trips across a wide variety of
+  locations with elementary school children. Performance will be monitored and
+  improvements made to the hardware and software.  We will develop new wearable
+  beacons for use with young children, improve the mobile app, and ensure the
+  service is robust enough to handle substantial simultaneous usage.
+project_areas:
+  - South Bay
+  - County of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   A large number of kids cannot participate in school field trips due to
   parental concerns over their safety. We consulted with public school
@@ -114,22 +122,7 @@ project_proposal_best_place: >-
   another via the Gaggle cloud service. If a child moves between groups, their
   chaperone will know that the child is not actually lost. Information is shared
   among every chaperone of a trip, and if escalated, every local Gaggle user.
-challenge_url: >-
-  https://challenge.la2050.org/entry/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service
-empty_column_1: ''
-project_proposal_description: >-
-  We will expand on our pilot program in a number of Los Angeles schools: the
-  service will be tested on dozens of field trips across a wide variety of
-  locations with elementary school children. Performance will be monitored and
-  improvements made to the hardware and software.  We will develop new wearable
-  beacons for use with young children, improve the mobile app, and ensure the
-  service is robust enough to handle substantial simultaneous usage.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number of children enrolled in afterschool programs
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: EPage
+organization_website: getgaggle.com
 
 ---

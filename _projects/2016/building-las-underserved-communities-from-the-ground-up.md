@@ -1,28 +1,21 @@
 ---
+published: true
 organization_id: '2016052'
 year_submitted: 2016
-organization_name: Community Healing Gardens
-organization_website: CommunityHealingGardens.org
-ein: ''
-project_image_2: 1939548316741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102051'
+challenge_url: >-
+  https://challenge.la2050.org/entry/building-las-underserved-communities-from-the-ground-up!
 title: Building LA’s underserved communities from the ground up!
-organization_name_2: Community Healing Gardens
-organization_activity: >-
-  Community Healing Gardens transforms communities through urban gardens that
-  provide healthy food, create jobs, foster community & educates about the
-  urgency of human/planetary health.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1939548316741-team90.jpg
-project_video: 'https://www.youtube.com/embed/1iM7NOuaQGg?rel=0&amp;showinfo=0'
 project_summary: >-
   Community Healing Gardens is creating a sustainable, urban school garden in
   Watts that grows healthy food, clean water, jobs, connection, community & love
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1939548316741-team90.jpg
+project_video: 'https://www.youtube.com/embed/1iM7NOuaQGg?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: Edwin Markham Middle School
-project_areas:
-  - South LA
-  - LAUSD
 project_measure: >-
   Community Healing Gardens aims to build a sustainable community garden in
   Watts.  To measure our success, we will base it on the following metrics:
@@ -69,6 +62,34 @@ project_impact: >-
   access","Self-sufficiency","Obesity","Local water","Resilient
   communities","Tree canopy cover","Prevalence of adverse childhood
   experiences","Homelessness","Mental illness"]
+project_proposal_impact:
+  - Access to healthy food
+  - Exposure to air toxins
+  - Healthcare access
+  - Self-sufficiency
+  - Obesity
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+  - Mental illness
+project_proposal_description: >-
+  Community Healing Gardens (CHG) is building an urban farm called the “Watts
+  Healing Garden” on a one-acre piece of land at Edwin Markham Middle School in
+  Watts - Also known as the “food desert” of Los Angeles.
+
+
+  In collaboration with Markham Middle School, CHG is embarking on a three-year
+  project to create a sustainable, working farm that provides healthy food,
+  jobs, and an eductional safe place to promote mental, physical, and human and
+  planetary healing.
+
+
+  All things grow with LOVE.
+project_areas:
+  - South LA
+  - LAUSD
 project_proposal_best_place: >-
   Community Healing Gardens will make LA the best place to LIVE by building a
   sustainable, thriving production farm for the school and community in Watts. 
@@ -122,36 +143,7 @@ project_proposal_best_place: >-
   area.  Community Healing Gardens will take this “blueprint” and grow it in
   other underserved schools and communities in Los Angeles. This will make LA
   the best place to LIVE!
-challenge_url: >-
-  https://challenge.la2050.org/entry/building-las-underserved-communities-from-the-ground-up!
-empty_column_1: ''
-project_proposal_description: >-
-  Community Healing Gardens (CHG) is building an urban farm called the “Watts
-  Healing Garden” on a one-acre piece of land at Edwin Markham Middle School in
-  Watts - Also known as the “food desert” of Los Angeles.
-
-
-  In collaboration with Markham Middle School, CHG is embarking on a three-year
-  project to create a sustainable, working farm that provides healthy food,
-  jobs, and an eductional safe place to promote mental, physical, and human and
-  planetary healing.
-
-
-  All things grow with LOVE.
-project_proposal_impact:
-  - Access to healthy food
-  - Exposure to air toxins
-  - Healthcare access
-  - Self-sufficiency
-  - Obesity
-  - Local water
-  - Resilient communities
-  - Tree canopy cover
-  - Prevalence of adverse childhood experiences
-  - Homelessness
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: Community Healing Gardens
+organization_website: CommunityHealingGardens.org
 
 ---

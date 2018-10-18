@@ -1,39 +1,24 @@
 ---
+published: true
 organization_id: '2016043'
 year_submitted: 2016
-organization_name: CoachArt
-organization_website: www.coachart.org
-ein: '943389547'
-project_image_2: 3678478165741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102043'
+challenge_url: >-
+  https://challenge.la2050.org/entry/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology
 title: >-
   CoachArt Matching Platform: revolutionizing volunteerism in LA for those in
   need through technology
-organization_name_2: CoachArt
-organization_activity: >-
-  CoachArt creates a transformative arts and athletics community for families
-  impacted by childhood chronic illness.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
-project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30?rel=0&amp;showinfo=0'
 project_summary: >-
   Through technology and innovation, the CoachArt Matching Platform will
   revolutionize the process of matching potential volunteers with students
   impacted by chronic illness, from a month to days.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
+project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   For the project, we define success in how efficient and effective we recruit,
   train, and engage volunteers. 
@@ -66,6 +51,28 @@ project_description: >-
   reduce excessive overhead and time needed to prepare them to be matched with a
   student.
 project_impact: '["Rates of volunteerism"]'
+project_proposal_impact:
+  - Rates of volunteerism
+project_proposal_description: >-
+  The founding concept of CoachArt was to create an Ebay-like marketplace for
+  students with chronic illness to be matched with volunteer coaches. The
+  CoachArt Matching Platform will bring this concept to life by implementing a
+  technological solution to our current volunteer program. We intend to move our
+  entire process of engaging, training, and on-boarding volunteers online to
+  reduce excessive overhead and time needed to prepare them to be matched with a
+  student.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   Los Angeles is booming. From the re-emergence of a thriving downtown to having
   the third largest technological ecosystem in the nation, Los Angeles is a
@@ -110,21 +117,7 @@ project_proposal_best_place: >-
   Moreover, our “moonshot” includes the creation of a replicable tool that will
   empower any current and future organizations with a matching model in their
   organization helping increase volunteerism rates in LA.
-challenge_url: >-
-  https://challenge.la2050.org/entry/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology
-empty_column_1: ''
-project_proposal_description: >-
-  The founding concept of CoachArt was to create an Ebay-like marketplace for
-  students with chronic illness to be matched with volunteer coaches. The
-  CoachArt Matching Platform will bring this concept to life by implementing a
-  technological solution to our current volunteer program. We intend to move our
-  entire process of engaging, training, and on-boarding volunteers online to
-  reduce excessive overhead and time needed to prepare them to be matched with a
-  student.
-project_proposal_impact:
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: CoachArt
+organization_website: www.coachart.org
 
 ---

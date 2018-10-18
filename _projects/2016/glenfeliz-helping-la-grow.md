@@ -1,25 +1,18 @@
 ---
+published: true
 organization_id: '2016082'
 year_submitted: 2016
-organization_name: Friends of Glenfeliz
-organization_website: www.friendsofglenfeliz.org
-ein: ''
-project_image_2: 9449291893741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102073'
+challenge_url: 'https://challenge.la2050.org/entry/glenfeliz-helping-la-grow'
 title: 'Glenfeliz: Helping LA Grow'
-organization_name_2: Friends of Glenfeliz
-organization_activity: >-
-  We are a 501(c)3 nonprofit parent booster club committed to helping Glenfeliz
-  students thrive and grow, both in Elementary school, and beyond.
+project_summary: 'Glenfeliz: Helping LA Grow'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
 project_video: 'https://www.youtube.com/embed/UOyRvF_8T3s?rel=0&amp;showinfo=0'
-project_summary: 'Glenfeliz: Helping LA Grow'
 project_is_collaboration: 'Yes'
 project_collaborators: none.
-project_areas:
-  - East LA
-  - LAUSD
 project_measure: >-
   Numerous studies have proven a connection between good nutrition and
   performance in school. J. Michael Murphy, an associate professor of psychology
@@ -70,6 +63,23 @@ project_description: >-
 project_impact: >-
   ["Access to healthy food","Self-sufficiency","Obesity","Resilient
   communities","Prevalence of adverse childhood experiences"]
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+project_proposal_description: >-
+  This year, Glenfeliz Elementary School became the first LAUSD School for
+  Advanced Studies (SAS) focused on Farm-to-Table Garden and Culinary Arts. Our
+  program integrates gardening and cooking into the Common Core curriculum,
+  stimulating student interest in learning while promoting good health. Now that
+  the first of our program is complete, our goal is to expand our cooking
+  program and to grow into the model elementary school in Los Angeles for
+  health, nutrition and sustainability.
+project_areas:
+  - East LA
+  - LAUSD
 project_proposal_best_place: >-
   Obesity, access to healthy food and the environment are all major concerns in
   Los Angeles. Several years ago, Glenfeliz Elementary  School began a
@@ -114,24 +124,7 @@ project_proposal_best_place: >-
   more cooking classes for both our students and parents through Common Threads,
   as well as providing us opportunities to share our gardening and culinary
   expertise through more nutrition-oriented community programs.
-challenge_url: 'https://challenge.la2050.org/entry/glenfeliz-helping-la-grow'
-empty_column_1: ''
-project_proposal_description: >-
-  This year, Glenfeliz Elementary School became the first LAUSD School for
-  Advanced Studies (SAS) focused on Farm-to-Table Garden and Culinary Arts. Our
-  program integrates gardening and cooking into the Common Core curriculum,
-  stimulating student interest in learning while promoting good health. Now that
-  the first of our program is complete, our goal is to expand our cooking
-  program and to grow into the model elementary school in Los Angeles for
-  health, nutrition and sustainability.
-project_proposal_impact:
-  - Access to healthy food
-  - Self-sufficiency
-  - Obesity
-  - Resilient communities
-  - Prevalence of adverse childhood experiences
-category: live
-body_class: lime
-published: true
+organization_name: Friends of Glenfeliz
+organization_website: www.friendsofglenfeliz.org
 
 ---

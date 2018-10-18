@@ -1,38 +1,26 @@
 ---
+published: true
 organization_id: '2016093'
 year_submitted: 2016
-organization_name: GRID Logistics
-organization_website: www.gridinc.biz
-ein: '454109556'
-project_image_2: 8110702055741-team91.png
+category: connect
+body_class: tangerine
 project_id: '6102164'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-grid-project-lets-create-50k-jobs-building-great-things-to-reduce-air-pollution-fwy-gridlock
 title: >-
   The GRID Project: Let's create 50K jobs building great things to reduce air
   pollution & FWY gridlock
-organization_name_2: GRID Logistics
-organization_activity: >-
-  GRID Logistics are proposers of a design build maintain and operate
-  transportation infrastructure for containerized goods movement. GRID markets
-  are the world's leading container trading gateways.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
-project_video: 'https://www.youtube.com/embed/KmmJPqr_ObQ?rel=0&amp;showinfo=0'
 project_summary: >-
   Cleantech infrastructure that connects container cargo between ships, trains,
   trucks and warehouses while adding value to people's lives all along Greater
   LA's trading corridors.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
+project_video: 'https://www.youtube.com/embed/KmmJPqr_ObQ?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   GRID Logistics Inc. is a Los Angeles Cleantech Portfolio Company and has been
   collaborating with the GRID Project since mid 2013.
-project_areas:
-  - East LA
-  - San Gabriel Valley
-  - South LA
-  - Gateway Cities
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   GRID has already succeeded claiming its proper place in Greater LA's history
   as 'The' Pioneer in regional holistic 'Cleantech' solution RE: the container
@@ -67,6 +55,24 @@ project_description: >-
   its surrounding community stakeholders to include education, and neighborhood
   councils.
 project_impact: '["Travel time to work","Participation in neighborhood councils"]'
+project_proposal_impact:
+  - Travel time to work
+  - Participation in neighborhood councils
+project_proposal_description: >-
+  GRID's Project proposal begins with the need for an independent evaluation of
+  the GRID Project, ideally from regional stakeholders in the form of political,
+  business, labor, environmental, and social justice quarters.  GRID seeks
+  support through its affiliation with the Los Angeles Cleantech Incubator and
+  its surrounding community stakeholders to include education, and neighborhood
+  councils.
+project_areas:
+  - East LA
+  - San Gabriel Valley
+  - South LA
+  - Gateway Cities
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Once the envisioned GRID infrastructure becomes operational, the most visually
   and physically impacting characteristic to the citizens of Greater Los Angeles
@@ -98,21 +104,7 @@ project_proposal_best_place: >-
   support from environmental, social justice groups and labor unions, and
   business interests primarily from the construction and renewable energy
   sector.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-grid-project-lets-create-50k-jobs-building-great-things-to-reduce-air-pollution-fwy-gridlock
-empty_column_1: ''
-project_proposal_description: >-
-  GRID's Project proposal begins with the need for an independent evaluation of
-  the GRID Project, ideally from regional stakeholders in the form of political,
-  business, labor, environmental, and social justice quarters.  GRID seeks
-  support through its affiliation with the Los Angeles Cleantech Incubator and
-  its surrounding community stakeholders to include education, and neighborhood
-  councils.
-project_proposal_impact:
-  - Travel time to work
-  - Participation in neighborhood councils
-category: connect
-body_class: tangerine
-published: true
+organization_name: GRID Logistics
+organization_website: www.gridinc.biz
 
 ---

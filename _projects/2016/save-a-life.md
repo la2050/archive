@@ -1,28 +1,21 @@
 ---
+published: true
 organization_id: '2016103'
 year_submitted: 2016
-organization_name: Homeless Health Care Los Angeles
-organization_website: hhcla.org
-ein: ''
-project_image_2: 9035316643741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102096'
+challenge_url: 'https://challenge.la2050.org/entry/save-a-life'
 title: Save A Life
-organization_name_2: Homeless Health Care Los Angeles
-organization_activity: >-
-  HHCLA is a non-profit, community-based organization charged with the mission
-  of providing innovative strategies for reducing the impact of homelessness in
-  the communities of LA County.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
-project_video: 'https://www.youtube.com/embed/vJZsFAP-f-E?rel=0&amp;showinfo=0'
 project_summary: >-
   Since 2011, the rate of opioid overdoses has more than tripled in LA County;
   this epidemic is completely preventable if people were aware of and had access
   to the lifesaving drug, naloxone.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
+project_video: 'https://www.youtube.com/embed/vJZsFAP-f-E?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   Because of HHCLA, Los Angeles region’s most vulnerable population has the
   resources and linkages to care to lead healthier, informed lives. And everyone
@@ -75,6 +68,25 @@ project_impact: >-
   ["Access to healthy food","Housing affordability","Healthcare
   access","Self-sufficiency","Resilient communities","Residents receiving
   coordinated healthcare services","Homelessness","Mental illness"]
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Healthcare access
+  - Self-sufficiency
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Homelessness
+  - Mental illness
+project_proposal_description: >-
+  Los Angeles and the rest of the country are experiencing an opioid epidemic,
+  and drug overdose deaths are now the leading cause of unintended death in the
+  US, over car accidents. Help HHCLA save lives via its naloxone distribution
+  program that empowers people to make a real impact in this increasing
+  epidemic. HHCLA clients have reported over 1,000 overdose reversals to date
+  and this number will only continue to grow with the proper training and
+  resources.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   HHCLA is dedicated to responding to the increasingly complicated health care
   issues of the Los Angeles area homeless and vulnerable populations. HHCLA does
@@ -135,27 +147,7 @@ project_proposal_best_place: >-
 
   According to LA County, 1 death could be prevented for every 227 naloxone kits
   distributed. Be part of curbing this epidemic!
-challenge_url: 'https://challenge.la2050.org/entry/save-a-life'
-empty_column_1: ''
-project_proposal_description: >-
-  Los Angeles and the rest of the country are experiencing an opioid epidemic,
-  and drug overdose deaths are now the leading cause of unintended death in the
-  US, over car accidents. Help HHCLA save lives via its naloxone distribution
-  program that empowers people to make a real impact in this increasing
-  epidemic. HHCLA clients have reported over 1,000 overdose reversals to date
-  and this number will only continue to grow with the proper training and
-  resources.
-project_proposal_impact:
-  - Access to healthy food
-  - Housing affordability
-  - Healthcare access
-  - Self-sufficiency
-  - Resilient communities
-  - Residents receiving coordinated healthcare services
-  - Homelessness
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: Homeless Health Care Los Angeles
+organization_website: hhcla.org
 
 ---

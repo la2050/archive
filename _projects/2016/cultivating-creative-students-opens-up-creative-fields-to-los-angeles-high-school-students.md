@@ -1,26 +1,22 @@
 ---
+published: true
 organization_id: '2016256'
 year_submitted: 2016
-organization_name: Wisdom Arts Laboratory
-organization_website: www.wisdomartslaboratory.com
-ein: ''
-project_image_2: 2749938065741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102283'
+challenge_url: >-
+  https://challenge.la2050.org/entry/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students
 title: >-
   Cultivating Creative Students opens up creative fields to Los Angeles high
   school students.
-organization_name_2: Wisdom Arts Laboratory
-organization_activity: >-
-  Wisdom Arts Laboratory encourages and nurtures the imagination, critical
-  thinking skills, and citizenship of our students and instructors through art
-  and science education.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
-project_video: ''
 project_summary: >-
   Cultivating Creative Students provides creative college prep support — 
   college counseling and portfolio coaching — to high school students lacking
   financial resources.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Prep for Art - College Coaching for creative students, based in Los Angeles.
@@ -30,11 +26,6 @@ project_collaborators: >-
   gives presentations about supporting student creativity and college
   supplements in public libraries as well as events like College Day at Beverly
   Hills High School.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - South LA
 project_measure: >-
   The success of this project will be measured in terms of the number of 
   students we will reach out to in general presentations, as well as the number
@@ -65,6 +56,23 @@ project_description: >-
 project_impact: >-
   ["College completion","College matriculation rates","Student education
   pipeline"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Student education pipeline
+project_proposal_description: >-
+  Cultivating Creative Students (CCS) broadens access to creative fields by
+  supporting hs students as they prepare for life after high school. While most
+  students have access to some form of college counseling, few high schools are
+  versed in supporting students for creative college programs. CCS will provide
+  rigorous creative college prep resources, including college counseling,
+  portfolio coaching, documentation and more, to students lacking the financial
+  resources for such focussed support.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - South LA
 project_proposal_best_place: >-
   Most schools in Los Angeles, including public schools, provide some form of
   basic college counseling for their students. Providing college counseling
@@ -99,23 +107,7 @@ project_proposal_best_place: >-
 
   In this way CCS opens up creative fields and practices to a more inclusive Los
   Angeles.
-challenge_url: >-
-  https://challenge.la2050.org/entry/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students
-empty_column_1: ''
-project_proposal_description: >-
-  Cultivating Creative Students (CCS) broadens access to creative fields by
-  supporting hs students as they prepare for life after high school. While most
-  students have access to some form of college counseling, few high schools are
-  versed in supporting students for creative college programs. CCS will provide
-  rigorous creative college prep resources, including college counseling,
-  portfolio coaching, documentation and more, to students lacking the financial
-  resources for such focussed support.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: Wisdom Arts Laboratory
+organization_website: www.wisdomartslaboratory.com
 
 ---

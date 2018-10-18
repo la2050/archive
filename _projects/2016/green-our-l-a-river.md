@@ -1,24 +1,19 @@
 ---
+published: true
 organization_id: '2016230'
 year_submitted: 2016
-organization_name: The River Project
-organization_website: TheRiverProject.org
-ein: '954858263'
-project_image_2: 3428423065741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102255'
+challenge_url: 'https://challenge.la2050.org/entry/green-our-l-a-river!'
 title: Green Our L.A. River!
-organization_name_2: The River Project
-organization_activity: >-
-  The River Project encourages responsible planning/management of land and water
-  to achieve watershed health and climate resilience for the social, economic
-  and environmental benefit of all Angelenos.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
-project_video: ''
 project_summary: >-
   Recognizing the LA River can be beautiful only with community support, we will
   restore the River Greenway’s vibrancy in Studio City, re-establish bike and
   pedestrian access and improve public safety.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Studio City Residents Association (SCRA), Studio City Beautification (SCBA),
@@ -26,8 +21,6 @@ project_collaborators: >-
   City Business Improvement District (BID), Save LA River Open Space (SLAROS),
   Studio City Farmers Market (Market), Studio City Chamber of Commerce
   (Chamber), Los Angeles Homeless Services Authority (LAHSA)
-project_areas:
-  - San Fernando Valley
 project_measure: >-
   The River Project will be able to define specific criteria to measure success
   including:
@@ -68,6 +61,23 @@ project_description: >-
 project_impact: >-
   ["Waterways","Local water","Resilient communities","Tree canopy
   cover","Homelessness","Walk/bike/transit score"]
+project_proposal_impact:
+  - Waterways
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+  - Homelessness
+  - Walk/bike/transit score
+project_proposal_description: >-
+  We will revitalize and create connections to Studio City’s neglected LA River
+  Greenway, helping the River become a vital part of Los Angeles. Local experts
+  will provide best practices training to City park maintenance staff and the
+  community for native plant care and invasive plant removal. We will engage
+  civic organizations to create a plan that connects local businesses to the
+  revitalized Greenway, enhances bike and pedestrian access, inspires
+  stewardship and improves public health and safety.
+project_areas:
+  - San Fernando Valley
 project_proposal_best_place: >-
   The Studio City River Greenway, planted in 2004, was the City’s first LA River
   native landscape project. Unfortunately, the area has suffered for 12 years
@@ -127,25 +137,7 @@ project_proposal_best_place: >-
   community members and four landscape architects to develop resilient design
   plans to enhance the river-business interface, enhance public health and
   safety, and improve river access.
-challenge_url: 'https://challenge.la2050.org/entry/green-our-l-a-river!'
-empty_column_1: ''
-project_proposal_description: >-
-  We will revitalize and create connections to Studio City’s neglected LA River
-  Greenway, helping the River become a vital part of Los Angeles. Local experts
-  will provide best practices training to City park maintenance staff and the
-  community for native plant care and invasive plant removal. We will engage
-  civic organizations to create a plan that connects local businesses to the
-  revitalized Greenway, enhances bike and pedestrian access, inspires
-  stewardship and improves public health and safety.
-project_proposal_impact:
-  - Waterways
-  - Local water
-  - Resilient communities
-  - Tree canopy cover
-  - Homelessness
-  - Walk/bike/transit score
-category: live
-body_class: lime
-published: true
+organization_name: The River Project
+organization_website: TheRiverProject.org
 
 ---

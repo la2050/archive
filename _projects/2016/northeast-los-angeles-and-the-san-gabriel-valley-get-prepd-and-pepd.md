@@ -1,30 +1,22 @@
 ---
+published: true
 organization_id: '2016173'
 year_submitted: 2016
-organization_name: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
-organization_website: www.pppsgv.org
-ein: ''
-project_image_2: 7186712265741-team91.JPG
+category: live
+body_class: lime
 project_id: '6102185'
+challenge_url: >-
+  https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
 title: 'Northeast Los Angeles and the San Gabriel Valley Get PreP''d and PEP''d!! '
-organization_name_2: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
-organization_activity: >-
-  We provide (1) affordable, convenient, and culturally competent sexual and
-  reproductive health care and (2) comprehensive and inclusive sex and
-  relationship education and outreach.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
-project_video: 'https://www.youtube.com/embed/x07ncVd8hWY?rel=0&amp;showinfo=0'
 project_summary: >-
   PrEP is the 'miracle' HIV pill, but this revolutionary drug can be costly,
   difficult to reach, and clouded in myth, especially for Angelenos in northeast
   LA and the SGV; let's change that for good!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
+project_video: 'https://www.youtube.com/embed/x07ncVd8hWY?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None.
-project_areas:
-  - East LA
-  - San Gabriel Valley
-  - N/A
 project_measure: >-
   Success means offering nPEP/PrEP services at our four health centers in a
   manner that is sustainable, efficient, culturally competent, and serves and
@@ -72,6 +64,20 @@ project_description: >-
   offer sliding-scale PrEP, with the end-goal being to help 960 new patients per
   year stay healthy and HIV-free.
 project_impact: '["Healthcare access"]'
+project_proposal_impact:
+  - Healthcare access
+project_proposal_description: >-
+  PrEP protects and empowers men who have sex with men and dismantles the sexual
+  stigma and shame that still lingers today. But for many Angelenos, PrEP costs
+  at least $1,500/year and can be hard to access beyond metro LA. We believe
+  everybody deserves first-rate sexual health care--no matter what. PPPSGV aims
+  to be the first health centers in northeast LA and the San Gabriel Valley to
+  offer sliding-scale PrEP, with the end-goal being to help 960 new patients per
+  year stay healthy and HIV-free.
+project_areas:
+  - East LA
+  - San Gabriel Valley
+  - N/A
 project_proposal_best_place: >-
   This proposal will make LA the best place to LIVE because we envision a place
   where honest and proud sexuality is the norm and health equity is a reality—no
@@ -120,21 +126,7 @@ project_proposal_best_place: >-
   and at the close of the grant, we will have rolled out nPEP/PReP services at
   all of our health centers and will be seeing at least 40 patients/month or
   480/year.
-challenge_url: >-
-  https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
-empty_column_1: ''
-project_proposal_description: >-
-  PrEP protects and empowers men who have sex with men and dismantles the sexual
-  stigma and shame that still lingers today. But for many Angelenos, PrEP costs
-  at least $1,500/year and can be hard to access beyond metro LA. We believe
-  everybody deserves first-rate sexual health care--no matter what. PPPSGV aims
-  to be the first health centers in northeast LA and the San Gabriel Valley to
-  offer sliding-scale PrEP, with the end-goal being to help 960 new patients per
-  year stay healthy and HIV-free.
-project_proposal_impact:
-  - Healthcare access
-category: live
-body_class: lime
-published: true
+organization_name: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
+organization_website: www.pppsgv.org
 
 ---

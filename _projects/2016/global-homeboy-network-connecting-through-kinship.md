@@ -1,29 +1,22 @@
 ---
+published: true
 organization_id: '2018053'
 year_submitted: 2016
-organization_name: Homeboy Industries
-organization_website: homeboyindustries.org
-ein: '954800735'
-project_image_2: 6687480265741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102095'
+challenge_url: >-
+  https://challenge.la2050.org/entry/global-homeboy-network-connecting-through-kinship
 title: 'Global Homeboy Network: Connecting Through Kinship'
-organization_name_2: Homeboy Industries
-organization_activity: >-
-  Homeboy Industries provides hope, training, and support to formerly
-  gang-involved and previously incarcerated individuals, allowing them to become
-  contributing members of the L.A. community.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6687480265741-team91.jpg
-project_video: 'https://www.youtube.com/embed/NMMcar9mYaE?rel=0&amp;showinfo=0'
 project_summary: >-
   Since 1988 Homeboy Industries has helped people leave gang life; now the
   Global Homeboy Network connects other organizations that stand with
   marginalized populations, because together we are stronger.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6687480265741-team91.jpg
+project_video: 'https://www.youtube.com/embed/NMMcar9mYaE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - County of Los Angeles
-  - Our project has worldwide impact.
 project_measure: >-
   We will consider the Global Homeboy Network a success if we:
 
@@ -53,6 +46,21 @@ project_description: >-
 project_impact: >-
   ["Social & emotional support","Cultural events","Total number of local social
   media friends and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  The Global Homeboy Network is an extension of Father Greg Boyle’s pioneering
+  work with East L.A. gang members. Rooted in the belief that there is no
+  “them,” only “us,” the Homeboy model combines therapeutic services and job
+  training in an environment of unconditional acceptance. The Global Homeboy
+  network helps other organizations tailor the model to fit their own
+  communities, and collectively advocate on behalf of those who have been denied
+  a voice.
+project_areas:
+  - County of Los Angeles
+  - Our project has worldwide impact.
 project_proposal_best_place: >-
   Since our agency began in 1988, hundreds of organizations have visited Homeboy
   Industries, seeking ways to end gang violence and poverty in their own
@@ -76,23 +84,7 @@ project_proposal_best_place: >-
   collectively advocate for change, test and improve services for marginalized
   populations, work together on public policy, and invest in making changes to
   the criminal justice system.
-challenge_url: >-
-  https://challenge.la2050.org/entry/global-homeboy-network-connecting-through-kinship
-empty_column_1: ''
-project_proposal_description: >-
-  The Global Homeboy Network is an extension of Father Greg Boyle’s pioneering
-  work with East L.A. gang members. Rooted in the belief that there is no
-  “them,” only “us,” the Homeboy model combines therapeutic services and job
-  training in an environment of unconditional acceptance. The Global Homeboy
-  network helps other organizations tailor the model to fit their own
-  communities, and collectively advocate on behalf of those who have been denied
-  a voice.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Homeboy Industries
+organization_website: homeboyindustries.org
 
 ---

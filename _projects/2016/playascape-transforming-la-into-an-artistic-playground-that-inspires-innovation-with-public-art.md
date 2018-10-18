@@ -1,33 +1,26 @@
 ---
+published: true
 organization_id: '2016145'
 year_submitted: 2016
-organization_name: Make Music Los Angeles
-organization_website: www.letsplayascape.com
-ein: ''
-project_image_2: 7837391883741-team88.jpg
+category: create
+body_class: banana
 project_id: '6102152'
+challenge_url: >-
+  https://challenge.la2050.org/entry/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art
 title: >-
   Playascape: Transforming LA into an artistic playground that inspires
   innovation with public art
-organization_name_2: Make Music Los Angeles
-organization_activity: >-
-  Enriching lives through music,Make Music LA desires to expand the horizons of
-  residents of every age by unlocking their artistic imagination to enable
-  lifelong learning, and creative invention.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
-project_video: 'https://youtube.com/embed/xSGbvkEdpJE?rel=0&amp;showinfo=0'
 project_summary: >-
   Playascape will transform LA into an artistic playground that cultivates the
   imagination through public art that creatively pushing boundaries and inspires
   innovation.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
+project_video: 'https://youtube.com/embed/xSGbvkEdpJE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Make Music Los Angeles and Playascape are working together to start up this
   program.
-project_areas:
-  - Central LA
-  - City of Los Angeles
 project_measure: >-
   We will be able to acquire data from the program's followers, subscribers, and
   viewers and be able to evaluate their response via the content they provide.
@@ -60,6 +53,20 @@ project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)","Minority- and
   women-owned firms"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+project_proposal_description: >-
+  Playascape is dedicated to transforming urban communities into an artistic
+  playground through immersive and interactive art. The art they curate shares a
+  symbiotic relationship with math and science, creatively pushing boundaries
+  and inspiring innovation. Playascape produces cultural experiences that infuse
+  community engagement, technology and media to interact with the whole family.
+project_areas:
+  - Central LA
+  - City of Los Angeles
 project_proposal_best_place: >-
   Los Angeles prides itself on being the entertainment capital of the world.
   Everyday people travel from all over the world to see the city where dreams
@@ -116,22 +123,7 @@ project_proposal_best_place: >-
   increase visibility to female and minority artists, and advance LA's artistic
   achievements that will transcend this city as the creative capital of the
   world.
-challenge_url: >-
-  https://challenge.la2050.org/entry/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art
-empty_column_1: ''
-project_proposal_description: >-
-  Playascape is dedicated to transforming urban communities into an artistic
-  playground through immersive and interactive art. The art they curate shares a
-  symbiotic relationship with math and science, creatively pushing boundaries
-  and inspiring innovation. Playascape produces cultural experiences that infuse
-  community engagement, technology and media to interact with the whole family.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-category: create
-body_class: banana
-published: true
+organization_name: Make Music Los Angeles
+organization_website: www.letsplayascape.com
 
 ---

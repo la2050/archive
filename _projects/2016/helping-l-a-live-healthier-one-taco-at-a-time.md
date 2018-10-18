@@ -1,39 +1,22 @@
 ---
+published: true
 organization_id: '2016063'
 year_submitted: 2016
-organization_name: Dear Mama
-organization_website: dearmamala.wixsite.com/dearmama
-ein: ''
-project_image_2: 1708382065741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102116'
+challenge_url: >-
+  https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
 title: Helping L.A. Live Healthier One Taco at a Time!
-organization_name_2: Dear Mama
-organization_activity: >-
-  Dear Mama provides the L.A. community with affordable, healthy alternatives to
-  animal-based products, while providing education and empowerment on healthy
-  living and aid to the community.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
-project_video: ''
 project_summary: >-
   Dear Mama will revolutionize  the eating habits of our community through
   mobilizing plant-based food, by empowering and engaging with the community to
   create a deep impact with Angelenos.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Dear Mama plans to 1) provide healthy food options to la county residents so
   they can start to eat healthy and LIVE better lives 2) educate and empower la
@@ -86,6 +69,40 @@ project_impact: >-
   communities","Residents receiving coordinated healthcare services","Prevalence
   of adverse childhood experiences","Homelessness","Mental
   illness","Walk/bike/transit score"]
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Obesity
+  - Local water
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+  - Mental illness
+  - Walk/bike/transit score
+project_proposal_description: >-
+  Dear Mama will use the 100,000 grant to  mobilize and revolutionize healthy
+  food throughout the Los Angeles county. We have a three-part initiative that
+  will allow us to impact and improve the health of millions of Angelenos. We
+  will use our mobile food trucks to travel throughout the Los Angeles county
+  and deliver healthy plant-based food options. Through engagement of classes
+  and workshops will be educated and empower families and community members  to
+  charge of their eating habits.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Dear Mama is focused on expanding access to healthy food the introducing
   affordable fresh plant-based foods to the 90 percent of Los Angeles county
@@ -133,32 +150,7 @@ project_proposal_best_place: >-
   promote healthy eating, self-esteem,  mental health that will create bonding
   between families building stronger families better communities a better Los
   Angeles.
-challenge_url: >-
-  https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
-empty_column_1: ''
-project_proposal_description: >-
-  Dear Mama will use the 100,000 grant to  mobilize and revolutionize healthy
-  food throughout the Los Angeles county. We have a three-part initiative that
-  will allow us to impact and improve the health of millions of Angelenos. We
-  will use our mobile food trucks to travel throughout the Los Angeles county
-  and deliver healthy plant-based food options. Through engagement of classes
-  and workshops will be educated and empower families and community members  to
-  charge of their eating habits.
-project_proposal_impact:
-  - Access to healthy food
-  - Housing affordability
-  - Exposure to air toxins
-  - Self-sufficiency
-  - Obesity
-  - Local water
-  - Resilient communities
-  - Residents receiving coordinated healthcare services
-  - Prevalence of adverse childhood experiences
-  - Homelessness
-  - Mental illness
-  - Walk/bike/transit score
-category: live
-body_class: lime
-published: true
+organization_name: Dear Mama
+organization_website: dearmamala.wixsite.com/dearmama
 
 ---

@@ -1,32 +1,24 @@
 ---
+published: true
 organization_id: '2018027'
 year_submitted: 2016
-organization_name: City Year Los Angeles
-organization_website: www.cityyear.org/losangeles
-ein: '222882549'
-project_image_2: 7806062065741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102040'
+challenge_url: >-
+  https://challenge.la2050.org/entry/bringing-stem-to-city-year-after-school-programs-in-boyle-heights-and-pico-union
 title: >-
   Bringing STEM to City Year After-School Programs in Boyle Heights and
   Pico-Union
-organization_name_2: City Year Los Angeles
-organization_activity: >-
-  City Year Los Angeles works tirelessly to solve our city’s dropout crisis
-  through academic intervention, attendance monitoring, and social emotional
-  support for LA’s highest need students.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7806062065741-team91.jpg
-project_video: 'https://www.youtube.com/embed/Qukugb-h7xI?rel=0&amp;showinfo=0'
 project_summary: >-
   In the next five years, nearly 1 million California STEM jobs will need to be
   filled. City Year will pilot a STEM curriculum in 3 high schools to better
   prepare our students for these opportunities.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7806062065741-team91.jpg
+project_video: 'https://www.youtube.com/embed/Qukugb-h7xI?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - East LA
-  - LAUSD
 project_measure: >-
   CYLA will implement two assessments in order to evaluate the success of its
   STEM Pilot. The first is the Deveraux Student Strengths Assessment, or DESSA,
@@ -66,6 +58,23 @@ project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Student education pipeline","Youth unemployment and
   underemployment"]
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  City Year’s pilot Science, Technology, Engineering and Math (STEM) program
+  will empower students to write code, create video games, and pursue their
+  technology interests in our after-school programs, deepening their
+  understanding of key academic fundamentals that will help them graduate from
+  high school, while building relevant skills for some of California’s most
+  competitive future careers. This grant will enable City Year to pilot this
+  program at three high-needs high schools in Los Angeles.
+project_areas:
+  - Central LA
+  - East LA
+  - LAUSD
 project_proposal_best_place: >-
   Economic projections indicate that by 2018 there could be as many as 2.4
   million unfilled STEM jobs in the United States (Stem Depiction
@@ -118,24 +127,7 @@ project_proposal_best_place: >-
   towards closing the opportunity gap amongst LA’s high school students. Help
   CYLA prepare the students of Los Angeles for the demands and opportunities of
   their future.
-challenge_url: >-
-  https://challenge.la2050.org/entry/bringing-stem-to-city-year-after-school-programs-in-boyle-heights-and-pico-union
-empty_column_1: ''
-project_proposal_description: >-
-  City Year’s pilot Science, Technology, Engineering and Math (STEM) program
-  will empower students to write code, create video games, and pursue their
-  technology interests in our after-school programs, deepening their
-  understanding of key academic fundamentals that will help them graduate from
-  high school, while building relevant skills for some of California’s most
-  competitive future careers. This grant will enable City Year to pilot this
-  program at three high-needs high schools in Los Angeles.
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: City Year Los Angeles
+organization_website: www.cityyear.org/losangeles
 
 ---

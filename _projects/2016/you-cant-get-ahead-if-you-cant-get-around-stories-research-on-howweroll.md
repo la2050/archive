@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2018055'
 year_submitted: 2016
-organization_name: Investing in Place
-organization_website: www.investinginplace.org
-ein: Community Partners
-project_image_2: 8642914065741-team90.jpg
+category: connect
+body_class: tangerine
 project_id: '6102107'
+challenge_url: >-
+  https://challenge.la2050.org/entry/you-cant-get-ahead-if-you-cant-get-around-stories-research-on-howweroll
 title: 'You Can’t Get Ahead If You Can’t Get Around: Stories & Research on #HowWeRoll'
-organization_name_2: Investing in Place
-organization_activity: >-
-  We empower people of all ages and abilities to help advocate for safe and
-  livable communities through better transportation policy and funding
-  decisions.
-project_image: >-
-  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/33962704_1968321119845978_1971477352793767936_n.png?_nc_cat=104&oh=2e94ad0162e05bb4d9af5a060a926c41&oe=5C4A2292
-project_video: ''
 project_summary: >-
   Access to greater opportunity depends on how you get there. Our team will
   document and amplify stories of how people get around — and leverage the
   stories to improve our transportation options.
+project_image: >-
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/33962704_1968321119845978_1971477352793767936_n.png?_nc_cat=104&oh=2e94ad0162e05bb4d9af5a060a926c41&oe=5C4A2292
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Investing in Place - lead applicant, Team Friday, USC Program for Regional and
   Environmental Equity (PERE), Impact Hub LA
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   There are over 10 million people in LA County. When Metro was creating the
   expenditure plan for Measure M (LA County’s transportation ballot measure in
@@ -71,6 +65,24 @@ project_impact: >-
   needs","Travel time to work","Public transit riders","Transit-accessible
   housing and employment (the share of housing units and percentage of jobs that
   are located within a half-mile of transit)"]
+project_proposal_impact:
+  - Social & emotional support
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
+project_proposal_description: >-
+  In Los Angeles, like many major metropolitan areas, you can’t get ahead if you
+  can’t get around. Our transportation system — our roads, sidewalks, buses,
+  trains, bikeways — are complex and more interconnected than people think. We
+  will spark a series of discussions and online videos that decipher our
+  transportation system — from how it’s funded and who makes the decisions to
+  who depends on our buses and trains as their connection lifeline — and what we
+  can do to make it better for all.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   We formed Investing in Place on January 2015 to bring together businesses,
   public agencies, philanthropists, researchers, and community organizations to
@@ -132,27 +144,7 @@ project_proposal_best_place: >-
   Screening event at Impact Hub LA. 
 
   All accompanied by communications & advocacy campaign.
-challenge_url: >-
-  https://challenge.la2050.org/entry/you-cant-get-ahead-if-you-cant-get-around-stories-research-on-howweroll
-empty_column_1: ''
-project_proposal_description: >-
-  In Los Angeles, like many major metropolitan areas, you can’t get ahead if you
-  can’t get around. Our transportation system — our roads, sidewalks, buses,
-  trains, bikeways — are complex and more interconnected than people think. We
-  will spark a series of discussions and online videos that decipher our
-  transportation system — from how it’s funded and who makes the decisions to
-  who depends on our buses and trains as their connection lifeline — and what we
-  can do to make it better for all.
-project_proposal_impact:
-  - Social & emotional support
-  - Government responsiveness to residents’ needs
-  - Travel time to work
-  - Public transit riders
-  - >-
-    Transit-accessible housing and employment (the share of housing units and
-    percentage of jobs that are located within a half-mile of transit)
-category: connect
-body_class: tangerine
-published: true
+organization_name: Investing in Place
+organization_website: www.investinginplace.org
 
 ---

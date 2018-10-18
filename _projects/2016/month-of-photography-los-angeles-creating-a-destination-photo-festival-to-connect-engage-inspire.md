@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016142'
 year_submitted: 2016
-organization_name: Lucie Foundation
-organization_website: www.monthofphotography.com
-ein: ''
-project_image_2: 9852558165741-team90.jpg
+category: connect
+body_class: tangerine
 project_id: '6102149'
+challenge_url: >-
+  https://challenge.la2050.org/entry/month-of-photography-los-angeles-creating-a-destination-photo-festival-to-connect-engage-inspire
 title: >-
   Month of Photography Los Angeles: Creating a destination photo festival to
   connect, engage + inspire
-organization_name_2: Lucie Foundation
-organization_activity: >-
-  Lucie Foundation's mission is to honor master photographers, discover and
-  cultivate emerging talent and promote the appreciation of photography through
-  a variety of year-round programming.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852558165741-team90.jpg
-project_video: ''
 project_summary: >-
   Month of Photography Los Angeles' two-fold mission is to advance dynamic
   programming designed to engage and stimulate the photography and creative
   community.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852558165741-team90.jpg
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: not applicable.
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   We will define and measure the success of our project by seeing increased
   attendance numbers, improved programming by 2018 which plans to engage Los
@@ -47,6 +41,19 @@ project_description: >-
   principal goal is to build a world-class, destination photography festival by
   2018.
 project_impact: '["Cultural events","Public/open streets gatherings"]'
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+project_proposal_description: >-
+  Our aim is to expand upon eight successful iterations of the festival by
+  building a smart phone app to improve information dissemination and sharing,
+  enrich our local artist and creative community by commissioning artists to
+  create unique imagery and projects that celebrate Los Angeles, and to find
+  talented people to support the expansion and improvement of the festival. Our
+  principal goal is to build a world-class, destination photography festival by
+  2018.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   Los Angeles has quickly become a city known for it's prominent arts and
   culture scene, and is home to the second largest community of photographers,
@@ -63,22 +70,7 @@ project_proposal_best_place: >-
   engage in, and participate in the discussion and the narrative of an evolving
   art and communication form. To do this, key players in the world of
   communication and photography should attend and participate.
-challenge_url: >-
-  https://challenge.la2050.org/entry/month-of-photography-los-angeles-creating-a-destination-photo-festival-to-connect-engage-inspire
-empty_column_1: ''
-project_proposal_description: >-
-  Our aim is to expand upon eight successful iterations of the festival by
-  building a smart phone app to improve information dissemination and sharing,
-  enrich our local artist and creative community by commissioning artists to
-  create unique imagery and projects that celebrate Los Angeles, and to find
-  talented people to support the expansion and improvement of the festival. Our
-  principal goal is to build a world-class, destination photography festival by
-  2018.
-project_proposal_impact:
-  - Cultural events
-  - Public/open streets gatherings
-category: connect
-body_class: tangerine
-published: true
+organization_name: Lucie Foundation
+organization_website: www.monthofphotography.com
 
 ---

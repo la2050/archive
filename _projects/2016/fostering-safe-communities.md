@@ -1,22 +1,18 @@
 ---
+published: true
 organization_id: '2016003'
 year_submitted: 2016
-organization_name: 50/50 Leadership
-organization_website: 5050leadership.org
-ein: ''
-project_image_2: 9273888445741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102002'
+challenge_url: 'https://challenge.la2050.org/entry/fostering-safe-communities'
 title: Fostering Safe Communities
-organization_name_2: 50/50 Leadership
-organization_activity: Promotes women's equal leadership
+project_summary: Community Safety through Women's Empowerment
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9273888445741-team90.jpg
 project_video: ''
-project_summary: Community Safety through Women's Empowerment
 project_is_collaboration: 'Yes'
 project_collaborators: 'All Saints Episcopal Church of Pasadena, IMPACT Personal Safety'
-project_areas:
-  - San Gabriel Valley
 project_measure: >-
   Hold one program each quarter with a minimum of 8 participants per class
 
@@ -45,6 +41,19 @@ project_description: >-
 project_impact: >-
   ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
   experiences","Homelessness"]
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+project_proposal_description: >-
+  For a community to be safe, everyone in the community needs to feel safe. We
+  have to change the statistic of one in three women being assaulted in their
+  lifetime, so we train women, specifically women who grew up in the mostly
+  unsafe environment of foster care, that they can prevent violence and how to
+  defend themselves when necessary.
+project_areas:
+  - San Gabriel Valley
 project_proposal_best_place: >-
   When girls are emancipated from the foster care system, they often have no
   support system and have few, if any resources to navigate life as an
@@ -80,21 +89,7 @@ project_proposal_best_place: >-
   * Continue to explore the needs of young women emancipating from the foster
   care system and meet with this population and the agencies to identify and
   create solutions for these women and the communities in which they reside
-challenge_url: 'https://challenge.la2050.org/entry/fostering-safe-communities'
-empty_column_1: ''
-project_proposal_description: >-
-  For a community to be safe, everyone in the community needs to feel safe. We
-  have to change the statistic of one in three women being assaulted in their
-  lifetime, so we train women, specifically women who grew up in the mostly
-  unsafe environment of foster care, that they can prevent violence and how to
-  defend themselves when necessary.
-project_proposal_impact:
-  - Self-sufficiency
-  - Resilient communities
-  - Prevalence of adverse childhood experiences
-  - Homelessness
-category: live
-body_class: lime
-published: true
+organization_name: 50/50 Leadership
+organization_website: 5050leadership.org
 
 ---

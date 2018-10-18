@@ -1,33 +1,22 @@
 ---
+published: true
 organization_id: '2016108'
 year_submitted: 2016
-organization_name: I'm A Movement Not A Monument
-organization_website: www.imamovement.org
-ein: ''
-project_image_2: 5378393065741-team90.jpg
+category: create
+body_class: banana
 project_id: '6102101'
+challenge_url: >-
+  https://challenge.la2050.org/entry/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders
 title: 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
-organization_name_2: I'm A Movement Not A Monument
-organization_activity: >-
-  I'm A Movement Not A Monument designs programs and events to foster and engage
-  each student academically and socially, which provides them with the necessary
-  skills to succeed in future endeavors.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
-project_video: 'https://www.youtube.com/embed/m_s4N2esUKk?rel=0&amp;showinfo=0'
 project_summary: >-
   With your vote, we can help thousands receive quality 1-on-1 tutoring for
   FREE. All lives matter, including students, and this program will help enhance
   every student we encounter. Even yours!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
+project_video: 'https://www.youtube.com/embed/m_s4N2esUKk?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - East LA
-  - South LA
-  - Westside
-  - City of Los Angeles
-  - LAUSD
-  - 'Inglewood and Compton, California'
 project_measure: >-
   I’m A Movement Not A Monument monitors the success of our tutoring service
   from the time we interview each student and create an academic profile for
@@ -79,6 +68,30 @@ project_impact: >-
   firms","Percentage of graduates from local higher education institutions that
   remain in LA County 5 years after graduating","Recruiting and retention rates
   for local higher education institutions"]
+project_proposal_impact:
+  - Manufacturing activity
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
+project_proposal_description: >-
+  No Mind Left Behind Tutoring Service provides mentorship and multi-level
+  tutoring services for FREE to students throughout the greater Los Angeles
+  area, allowing them to accelerate academically and socially through our
+  distinguished services. With the help of the LA2050 Grant, we can grow from
+  currently servicing over 350 students to thousands of students in LAUSD, ISD,
+  ICEF, and so on. We have seen how our services have helped strengthen and
+  maintain students’ mentality and self-esteem.
+project_areas:
+  - East LA
+  - South LA
+  - Westside
+  - City of Los Angeles
+  - LAUSD
+  - 'Inglewood and Compton, California'
 project_proposal_best_place: >-
   With the help of LA2050, No Mind Left Behind Tutoring Services will make Los
   Angeles the place to CREATE because we will open the doors to growth in the
@@ -131,28 +144,7 @@ project_proposal_best_place: >-
   programs that improve our children’s lives by working hand in hand with
   teachers on a consistent basis, with ultimate efforts to build a solidly
   structured team focused on uplifting our youth.
-challenge_url: >-
-  https://challenge.la2050.org/entry/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders
-empty_column_1: ''
-project_proposal_description: >-
-  No Mind Left Behind Tutoring Service provides mentorship and multi-level
-  tutoring services for FREE to students throughout the greater Los Angeles
-  area, allowing them to accelerate academically and socially through our
-  distinguished services. With the help of the LA2050 Grant, we can grow from
-  currently servicing over 350 students to thousands of students in LAUSD, ISD,
-  ICEF, and so on. We have seen how our services have helped strengthen and
-  maintain students’ mentality and self-esteem.
-project_proposal_impact:
-  - Manufacturing activity
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - >-
-    Percentage of graduates from local higher education institutions that remain
-    in LA County 5 years after graduating
-  - Recruiting and retention rates for local higher education institutions
-category: create
-body_class: banana
-published: true
+organization_name: I'm A Movement Not A Monument
+organization_website: www.imamovement.org
 
 ---

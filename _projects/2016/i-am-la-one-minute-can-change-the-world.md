@@ -1,22 +1,18 @@
 ---
+published: true
 organization_id: '2016166'
 year_submitted: 2016
-organization_name: Peaceworks International
-organization_website: www.iamla2017.com
-ein: ''
-project_image_2: 9122157445741-team91.JPG
+category: connect
+body_class: tangerine
 project_id: '6102178'
+challenge_url: 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
 title: 'I Am LA: One minute can change the world'
-organization_name_2: Peaceworks International
-organization_activity: 'Impacting future generations through art, education, and culture.'
+project_summary: Let your voice be heard-- with I Am LA the whole city is ready to listen.
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9122157445741-team91.JPG
 project_video: 'https://www.youtube.com/embed/l9WIsFvpdpU?rel=0&amp;showinfo=0'
-project_summary: Let your voice be heard-- with I Am LA the whole city is ready to listen.
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   Success for us is about who we engage, motivate, and inspire.  
 
@@ -54,6 +50,21 @@ project_impact: >-
   riders","Participation in neighborhood councils","Rates of
   volunteerism","Residential segregation","Total number of local social media
   friends and connections Angelenos have","Voting rates"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
+project_proposal_description: >-
+  We can do better together. I Am LA is a city-wide campaign to care for the
+  place we call home. And we want your help. We are offering $1,000 prizes for
+  1-minute films that inspire us to care for our neighbors and our environment.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   LA is not made of land, buildings, or streets. LA is made of people. It's time
   to bring them together.
@@ -108,23 +119,7 @@ project_proposal_best_place: >-
   Join the movement. 
 
   Vote for I Am LA.
-challenge_url: 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
-empty_column_1: ''
-project_proposal_description: >-
-  We can do better together. I Am LA is a city-wide campaign to care for the
-  place we call home. And we want your help. We are offering $1,000 prizes for
-  1-minute films that inspire us to care for our neighbors and our environment.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public transit riders
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Residential segregation
-  - Total number of local social media friends and connections Angelenos have
-  - Voting rates
-category: connect
-body_class: tangerine
-published: true
+organization_name: Peaceworks International
+organization_website: www.iamla2017.com
 
 ---

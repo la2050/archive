@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016189'
 year_submitted: 2016
-organization_name: Santa Clarita Valley Adventure Play
-organization_website: scvadventureplay.com
-ein: ''
-project_image_2: 9802286065741-team89.png
+category: play
+body_class: strawberry
 project_id: '6102222'
+challenge_url: >-
+  https://challenge.la2050.org/entry/scv-adventure-play-eureka-villa-self-directed-play-spaces-and-playwork-initiative-for-all!
 title: >-
   SCV Adventure Play + Eureka Villa: Self-Directed Play Spaces and Playwork
   Initiative for All!
-organization_name_2: Santa Clarita Valley Adventure Play
-organization_activity: >-
-  SCV Adventure Play organizes permanent and temporary play spaces that promote
-  risk benefits, self direction, and child equality through the communal support
-  of permissive child led activities.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9802286065741-team89.png
-project_video: 'https://www.youtube.com/embed/NzPGR-4eafI?rel=0&amp;showinfo=0'
 project_summary: >-
   Providing self-directed play space created not just for kids but BY THEM as we
   do finishing touches on Eureka Villa Adventure Playground and launch a year
   long series of FREE Pop-Ups around LA County!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9802286065741-team89.png
+project_video: 'https://www.youtube.com/embed/NzPGR-4eafI?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
-  - Santa Clarita Valley and surrounding areas
 project_measure: >-
   SCV Adventure Play aims to measure our success by;
 
@@ -67,6 +60,20 @@ project_impact: >-
   spaces for play","Number of parks with intergenerational play
   opportunities","Number of residents with easy access to a “vibrant” park","Per
   capita crime rates","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
+  - Perceived safety
+project_proposal_description: >-
+  SCV Adventure Play is focusing on two initiatives with the 2050 Grant, opening
+  the Eureka Villa Adventure Playground to a larger public and funding FREE
+  Saturday Adventure Play Days throughout LA County for AN ENTIRE YEAR.
+project_areas:
+  - County of Los Angeles
+  - Santa Clarita Valley and surrounding areas
 project_proposal_best_place: >-
   Santa Clarita Valley Adventure Play (SCVAP) will help make LA the best place
   to play through two initiatives: 1) launching a year long series of free
@@ -120,22 +127,7 @@ project_proposal_best_place: >-
   age and cultivate quality space for kids to play on their terms.  By providing
   radically different permanent and mobile play spaces we will make LA the best
   place to Play!
-challenge_url: >-
-  https://challenge.la2050.org/entry/scv-adventure-play-eureka-villa-self-directed-play-spaces-and-playwork-initiative-for-all!
-empty_column_1: ''
-project_proposal_description: >-
-  SCV Adventure Play is focusing on two initiatives with the 2050 Grant, opening
-  the Eureka Villa Adventure Playground to a larger public and funding FREE
-  Saturday Adventure Play Days throughout LA County for AN ENTIRE YEAR.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-  - Per capita crime rates
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: Santa Clarita Valley Adventure Play
+organization_website: scvadventureplay.com
 
 ---

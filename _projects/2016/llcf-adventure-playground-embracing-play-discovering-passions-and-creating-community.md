@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016130'
 year_submitted: 2016
-organization_name: Light and Life Christian Fellowship Community Center
-organization_website: www.llcf.org
-ein: ''
-project_image_2: 7260306494741-team91.JPG
+category: play
+body_class: strawberry
 project_id: '6102132'
+challenge_url: >-
+  https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
 title: >-
   LLCF Adventure Playground: Embracing play, discovering passions, and creating
   community!
-organization_name_2: Light and Life Christian Fellowship Community Center
-organization_activity: >-
-  Our focus is to embrace, equip, and empower individuals to make a change in
-  their lives as well as others through a variety of outreach programs geared to
-  harness one’s gifts and passions.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7260306494741-team91.JPG
-project_video: 'https://www.youtube.com/embed/3NWi_lmKGzs?rel=0&amp;showinfo=0'
 project_summary: >-
   We intend to reintroduce play into the community by constructing an Adventure
   Playground that will create a safe environment for families to explore and
   grow, facilitating a sense of harmony.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7260306494741-team91.JPG
+project_video: 'https://www.youtube.com/embed/3NWi_lmKGzs?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'D. Santana Architect Firm; Department of Children, Family Services'
-project_areas:
-  - District 9 of Long Beach - Los Angeles County
 project_measure: >-
   We will define and measure the success of the Adventure Playground in several
   ways. Due to the fact that our mission revolves around the idea of
@@ -63,6 +57,23 @@ project_impact: >-
   afterschool programs","Number of parks with intergenerational play
   opportunities","Number of residents with easy access to a “vibrant” park","Per
   capita crime rates","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
+  - Perceived safety
+project_proposal_description: >-
+  We intend to construct an Adventure Playground, taking advantage of the vacant
+  space that used to occupy a school on our campus. The playground will extend
+  from the already existent community garden and encompass a center for learning
+  about arts, building, and gardening as well as incorporating free play areas
+  for children to explore. We hope that this outreach will connect with children
+  and families of the neighborhood to create a safe environment to learn and
+  emphasize the importance of play.
+project_areas:
+  - District 9 of Long Beach - Los Angeles County
 project_proposal_best_place: >-
   Through the construction of the Light and Life Community Center’s Adventure
   Playground, we hope to take actions steps that will foster a sense of
@@ -105,26 +116,7 @@ project_proposal_best_place: >-
   statistics by strengthening families by providing a safe, learning
   environment. We want to increase the number of individuals and families
   spending their time in encouraging environments, thus decreasing crime rates.
-challenge_url: >-
-  https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
-empty_column_1: ''
-project_proposal_description: >-
-  We intend to construct an Adventure Playground, taking advantage of the vacant
-  space that used to occupy a school on our campus. The playground will extend
-  from the already existent community garden and encompass a center for learning
-  about arts, building, and gardening as well as incorporating free play areas
-  for children to explore. We hope that this outreach will connect with children
-  and families of the neighborhood to create a safe environment to learn and
-  emphasize the importance of play.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number of children enrolled in afterschool programs
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-  - Per capita crime rates
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: Light and Life Christian Fellowship Community Center
+organization_website: www.llcf.org
 
 ---

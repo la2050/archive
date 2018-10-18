@@ -1,28 +1,22 @@
 ---
+published: true
 organization_id: '2018019'
 year_submitted: 2016
-organization_name: Children Now
-organization_website: www.childrennow.org
-ein: '943059243'
-project_image_2: 9146110265741-team88.jpg
+category: live
+body_class: lime
 project_id: '6102034'
+challenge_url: >-
+  https://challenge.la2050.org/entry/lifting-up-las-voice-for-kids-to-live-trauma-free-by-2050
 title: Lifting Up LA’s Voice for Kids to Live Trauma-Free by 2050
-organization_name_2: Children Now
-organization_activity: >-
-  Children Now is LA County’s “whole child” non-partisan research, policy,
-  advocacy and network building organization dedicated to improving children’s
-  health, early development, education, and welfare.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9146110265741-team88.jpg
-project_video: 'https://www.youtube.com/embed/QpfhY-eA-N8?rel=0&amp;showinfo=0'
 project_summary: >-
   Children Now will bring together thousands of voices in LA County to promote
   cross-sector collaboration and demand large-scale change to prevent childhood
   trauma and reduce its impact on kids.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9146110265741-team88.jpg
+project_video: 'https://www.youtube.com/embed/QpfhY-eA-N8?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: NA
-project_areas:
-  - County of Los Angeles
 project_measure: >-
   Our ultimate goal is to improve LA kids’ lives by minimizing incidences of
   trauma and reducing the impact when it occurs.  Our success will be measured
@@ -64,6 +58,22 @@ project_impact: >-
   ["Healthcare access","Resilient communities","Residents receiving coordinated
   healthcare services","Prevalence of adverse childhood
   experiences","Homelessness","Mental illness"]
+project_proposal_impact:
+  - Healthcare access
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+  - Mental illness
+project_proposal_description: >-
+  Too many LA children experience frequent traumatic events that can be toxic
+  and lead to a lifetime of physical and emotional challenges. Children Now will
+  bring together thousands of voices in LA County to promote a comprehensive
+  policy agenda to reduce childhood trauma and ensure the needed supports for
+  kids who experience it. The power of these voices will be demonstrated through
+  a public support campaign and advocacy around specific policy changes.
+project_areas:
+  - County of Los Angeles
 project_proposal_best_place: >-
   Traumatic events in a child's life such as abuse, neglect and neighborhood
   violence can be toxic and lead to a lifetime of health consequences such as
@@ -116,25 +126,7 @@ project_proposal_best_place: >-
   agenda. It will be used to urge the LA County Board of Supervisors, school
   districts, and other LA policymakers to take action on the agenda and make
   real change to make LA the Best Place to Live for kids.
-challenge_url: >-
-  https://challenge.la2050.org/entry/lifting-up-las-voice-for-kids-to-live-trauma-free-by-2050
-empty_column_1: ''
-project_proposal_description: >-
-  Too many LA children experience frequent traumatic events that can be toxic
-  and lead to a lifetime of physical and emotional challenges. Children Now will
-  bring together thousands of voices in LA County to promote a comprehensive
-  policy agenda to reduce childhood trauma and ensure the needed supports for
-  kids who experience it. The power of these voices will be demonstrated through
-  a public support campaign and advocacy around specific policy changes.
-project_proposal_impact:
-  - Healthcare access
-  - Resilient communities
-  - Residents receiving coordinated healthcare services
-  - Prevalence of adverse childhood experiences
-  - Homelessness
-  - Mental illness
-category: live
-body_class: lime
-published: true
+organization_name: Children Now
+organization_website: www.childrennow.org
 
 ---

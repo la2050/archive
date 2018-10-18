@@ -1,26 +1,21 @@
 ---
+published: true
 organization_id: '2016025'
 year_submitted: 2016
-organization_name: Break the Cycle
-organization_website: www.breakthecycle.org
-ein: ''
-project_image_2: 1639271165741-team90.JPG
+category: connect
+body_class: tangerine
 project_id: '6102021'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-zone-mobile-spaces-to-talk-about-healthy-relationships
 title: 'The Zone: Mobile Spaces to Talk about Healthy Relationships'
-organization_name_2: Break the Cycle
-organization_activity: >-
-  Break the Cycle inspires and supports young people to build healthy
-  relationships and create a culture without abuse.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
-project_video: ''
 project_summary: >-
   Snack runs and social spaces meet technology hubs of information and resources
   for RealTalk about youth relationships
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - East LA
 project_measure: >-
   The benefit of this project for the entire community is threefold:  Young
   people will have an opportunity to take REALationships to the streets...They
@@ -75,6 +70,21 @@ project_impact: >-
   ["Access to free wifi","Social & emotional support","Public/open streets
   gatherings","Rates of volunteerism","Total number of local social media
   friends and connections Angelenos have"]
+project_proposal_impact:
+  - Access to free wifi
+  - Social & emotional support
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  The Zone will bring dating prevention education to young people in Los Angeles
+  in casual spaces, removing obstacles to real talk about the factors that
+  restrict healthy relationships.  The Zone will bring together various parts of
+  specific neighborhoods: young people, caring adults, retail community members,
+  community volunteers to ignite connectivity, inspire action and community
+  pride for healthy relationships and healthy spaces for all.
+project_areas:
+  - East LA
 project_proposal_best_place: >-
   Break the Cycle (BTC) is moving outside of traditional school systems.  BTC
   was fortunate enough to hear the needs of the young people of Los Angeles at a
@@ -120,24 +130,7 @@ project_proposal_best_place: >-
   open street gatherings, would provide access to free Wi-Fi and through the
   participation of a peer to peer educator and volunteers would encourage
   volunteerism and a connection point for social and emotional support.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-zone-mobile-spaces-to-talk-about-healthy-relationships
-empty_column_1: ''
-project_proposal_description: >-
-  The Zone will bring dating prevention education to young people in Los Angeles
-  in casual spaces, removing obstacles to real talk about the factors that
-  restrict healthy relationships.  The Zone will bring together various parts of
-  specific neighborhoods: young people, caring adults, retail community members,
-  community volunteers to ignite connectivity, inspire action and community
-  pride for healthy relationships and healthy spaces for all.
-project_proposal_impact:
-  - Access to free wifi
-  - Social & emotional support
-  - Public/open streets gatherings
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Break the Cycle
+organization_website: www.breakthecycle.org
 
 ---

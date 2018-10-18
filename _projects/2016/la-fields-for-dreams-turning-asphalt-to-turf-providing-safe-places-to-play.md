@@ -1,27 +1,21 @@
 ---
+published: true
 organization_id: '2016008'
 year_submitted: 2016
-organization_name: America Scores LA
-organization_website: www.americascoresla.org
-ein: ''
-project_image_2: 1149750813741-team90.png
+category: play
+body_class: strawberry
 project_id: '6102006'
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play
 title: LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to play)
-organization_name_2: America Scores LA
-organization_activity: >-
-  ASLA partners with urban schools to provide a unique team-based program that
-  integrates soccer, poetry, and service-learning, improving students’ health,
-  academic achievement and civic engagement.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
-project_video: 'https://www.youtube.com/embed/1WcN6j5lVCc?rel=0&amp;showinfo=0'
 project_summary: >-
   Turning school playgrounds from black top to green turf to provide a safe
   surface for children to experience team sports without the fear of injury.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
+project_video: 'https://www.youtube.com/embed/1WcN6j5lVCc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - LAUSD
 project_measure: >-
   Evaluation plans: 
 
@@ -74,6 +68,24 @@ project_impact: >-
   children enrolled in afterschool programs","Number of parks with
   intergenerational play opportunities","Number of residents with easy access to
   a “vibrant” park","Per capita crime rates","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Attendance at major league sporting events
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
+  - Perceived safety
+project_proposal_description: >-
+  The sad reality is that children in low-income public schools spend most of
+  their recreation time on unsafe and unsightly asphalt playgrounds. Skinned
+  knees and injuries are all too common. And many children, particularly girls,
+  rarely participate at all. ASLA's vision for Los Angeles is for all children
+  to have access to high-quality sports and enrichment programs and safe places
+  to play regardless of families’ income levels.
+project_areas:
+  - LAUSD
 project_proposal_best_place: >-
   We would like to replicate the successful model created by America SCORES Bay
   Area (ASBA) and bring the Fields for Dreams initiative to Los Angeles.
@@ -109,27 +121,7 @@ project_proposal_best_place: >-
   2 Leyden, K. Social capital and the built environment: The importance of
   walkable neighborhoods. American Journal of Public Health. 2003; 93 (9),
   1546-1551.
-challenge_url: >-
-  https://challenge.la2050.org/entry/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play
-empty_column_1: ''
-project_proposal_description: >-
-  The sad reality is that children in low-income public schools spend most of
-  their recreation time on unsafe and unsightly asphalt playgrounds. Skinned
-  knees and injuries are all too common. And many children, particularly girls,
-  rarely participate at all. ASLA's vision for Los Angeles is for all children
-  to have access to high-quality sports and enrichment programs and safe places
-  to play regardless of families’ income levels.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Attendance at major league sporting events
-  - Number (and quality) of informal spaces for play
-  - Number of children enrolled in afterschool programs
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-  - Per capita crime rates
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: America Scores LA
+organization_website: www.americascoresla.org
 
 ---

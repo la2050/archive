@@ -1,12 +1,94 @@
 ---
+published: true
+organization_id: '2014018'
+year_submitted: 2014
+category: create
+body_class: banana
 project_id: '4102045'
 title: Earth Day Every Day
 project_summary: "Increase access to good food for south LA residents; create a series of mini EDSLA events resulting in new permanent Produce Stand/s.\r\n"
-category: create
-organization_id: '2014018'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CQsypZUTmbo'
+project_areas:
+  - SOUTH LA
+maker_answers:
+  org_name: Community Services Unlimited inc.
+  metrics_create_employment: '1'
+  org_website: www.csuinc.org
+  org_twitter: Twitter- @CSUINCLA
+  org_facebook: Facebook-@CSUINC
+  org_instagram: csuinc
+  org_mailingaddress: '817 West 34th Street, Los Angeles, 90089'
+  org_ein: '953218396'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    Through education and participation we envision and create community driven
+    solutions to the problems around us with trainings and jobs.
+  one_sentence_project: "Increase access to good food for south LA residents; create a series of mini EDSLA events resulting in new permanent Produce Stand/s.\r\n"
+  describe_idea: >-
+    Mini EDSLA events bringing good food and arts to new locations, culminating
+    with the launch of new permanent produce stand/s.
+  all_county: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '0'
+  area_eastLA: '0'
+  area_southLA: '1'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: "CSU consistently receives requests from community partners to bring pop up Produce Stands to events in South LA in addition to on going requests to bring permanent Produce Stands to new locations in South LA. The idea of this project is to leverage the Earth Day South LA brand that CSU and partners have created over the last 6 years in responding to these requests. In addition to bringing the quality programming EDSLA is known for to different neighborhoods, this strategy will give us the opportunity to spread the word about our community programs, impact new families in South LA with access to our quality produce, build on existing and create new partnerships, and test out potential new sites for permanent Produce Stand locations. \r\n"
+  implement: "CSU will work with partners to create a series of seven mini Earth Day South LA events as well as EDSLA 2015 and a new Produce Stand launch event in September 2015. The smaller events will take place in new locations and will be scheduled leading up to and after the main event in April 2015. \r\n\r\nDuring September and October of 2014 and January 2015, we will work on details of the first 4 events to take place in November and December 2014, and February and March 2015. We will work with existing and new partners to determine the locations of these events and to plan educational programming and artistic content. This time will also be used to create a detailed outreach plan in the neighborhoods surrounding the event venues.\r\n\r\nEDSLA 2015 in April will be used as an ideal opportunity to showcase the artists and other partners with whom the mini events were created as well as details of the mini events already held. A dedicated booth will have displays slide shows etc. showcasing these events and materials soliciting partnerships for the remaining four events. In addition EDSLA’15 will be the official launch of re-vamped outreach strategy for CSU’s Village Market Place, featuring wraps around our vehicles including our Produce delivery bikes and visually arresting community postcards and posters. \r\n\r\nMay 2015 will be used to work on details of the last 3 events to take place in June, July and August 2015. We will work with existing and new partners to determine the locations of these events and to plan educational programming and artistic content. This time will also be used to create a detailed outreach plan in the neighborhoods surrounding the event venues.\r\n\r\nIn September 2015 we will launch the new permanent Produce Stand/s created as a result of this project and we will use the opportunity to launch an expanded Produce Bag bike delivery service to meet the needs of our growing subscribers.\r\n"
+  impact_create: "By creating a series of events that will offer ongoing opportunities for collaborative creativity in educational, artistic, artisanal and food related programming, this project will make LA the best place to create now! Over the past six years, CSU’s annual event, Earth Day South LA has become a showcase of local skills, talents and innovation in community driven solutions to the everyday problems around us. \r\n\r\nWe have shown that community residents can come together and create a safe environment to have fun, celebrate our foods and cultures, learn about and participate in sustainable practices, and connect with each other and organizations working to make positive change in our neighborhood. The success of EDSLA has demonstrated that there is a thirst for information about and for opportunities to participate in the numerous and exciting projects taking place in our communities. We are proud that EDSLA has served as a catalyst for residents to become agents of sustainable change, improving the quality of our lives, and advancing a more just society.\r\n\r\nThe event has taken spaces that already exist in our neighborhood, a school playground and a parking lot, and for one day of the year, with multiple partnerships we have transformed dull concrete into an amazing community space. Leaving behind permanent green spaces, adorned by beautiful art.\r\n\r\nThis project will build upon the foundation created by leveraging the EDSLA brand to extend the creative space to a number of smaller events at various locations in South LA. The new venues and more localized nature of these mini EDSLA events will provide an opportunity to build new partnerships and transform new spaces.\r\n\r\nJust as EDSLA has done, these mini events will:\r\n*Cultivate, support, promote and provide a venue for local and earth friendly artists, performers, entreupreuneurs etc, to participate in, reflect, inspire and envision our movement for sustainable change.\r\n*Increase community residents’ awareness of organizations and individuals doing transformative work in our community.\r\n*Cultivate and nurture a culture and environment for collaboration among organizations and individuals working to advance sustainable change.\r\nThis project will thus help to lay the foundation of a solid body of work for a creative and inspired LA in 2050.\r\n"
+  who_benefit: "The project directly benefits SCLA families by increasing access to high quality, affordable fresh produce. Liquor stores, fast-food chains, and corner/convenience stores comprise 94% of food retail outlets in SCLA. Only 75% of food retail outlets sell fresh produce, compared to over 90% in wealthier areas of LA. Only 28% of adults in SCLA report that produce where they shop is high quality, the lowest in the county. This toxic food environment dramatically affects our community’s health. Residents have the highest rates of obesity in the county, adults 36% and children 29%. Adults have the highest rate of diabetes 12% and hypertension 29%. One in 4 households are without a vehicle (compared to 8% in West LA), leaving residents dependent on the food retail nearest their homes. \r\n\r\nThis project directly benefits youth ages 13–19. Youth in SCLA face many personal and community barriers to obtaining and holding jobs. An alarming 74% of adults’ have not completed high school, and only 3% have earned a college degree. Worse yet jobs in SCLA are few in number and offer extremely low wages. Council District 8, where CSU operates, ranks last among LA’s 15 districts in total # of jobs and average wages. Through participation in CSU’s programs youth build confidence and are empowered to create change in their community and in their own lives. They leave with a broad set of skills in areas of urban agriculture, nutrition, cooking, community organizing and advocacy, poising them for future success. These youth are in integral part of our operations and receive on going opportunities for further internships, apprentiships and ultimately jobs, 5 of our current staff began with CSU as youth interns.\r\n\r\nThis project directly benefits small farmers, we purchase almost exclusively from farmers of color with family operations who sell at the few farmers markets in our area, which are smaller and less profitable than other markets in the city. By purchasing from these growers we make the trip into town more profitable, hopefully ensuring that they will continue to sell at the markets in our community. In 2013 we spent $56,000 purchasing from small farmers. As the VMP expands we will increase these expenditures by an average of 20% annually, reaching $80,000 in 2015. \r\n"
+  partners_collaboration: "EMH Creative Group and GREEDY City: Have co-hosted food-centered educational, arts and community events, including EDSLA’14 with CSU. Both bring extensive experience, will be co-hosts of EDSLA ’15 and mini events organized as part of this project. EMH Creative Group brings expertise in maximizing outreach and event impact through strategic use of social media, and GREEDY City works with an extensive network of artists, both will bring these resources to the table to support this project.\r\n\r\nEsparanza Community Housing/Mercado La Paloma:  Co-hosted Earth Day South LA 2014 and will host again in 2015. Interested in exploring a produce stand at the Mercado La Paloma.\r\n\r\nPublic Allies: Engaged large number of youth allies as volunteers to do outreach for and organize activities for children at EDSLA ’14, part of the organizing team for EDSLA ’15.\r\n\r\nDunbar Village and Weber Community Center: Potential future produce stand sites & locations for mini -events. We have been building relationship and will advance this process through this project. Both agencies serve a large population of low-income families in South LA, VMP’s target base.\r\n\r\nThe USC, Good Neighbor Campaign: Supports free community workshops at CSU¹s urban farm site in South LA since 2010. Interested in bringing a produce stand to the USC hospital in Boyle Heights.\r\n\r\nLA County Dept of Health, Nutrition Education & Obesity Prevention Project: CSU has a 3 yr contract to engage South LA youth in work to increase access to & consumption of fruits and vegetables for low-income residents of South LA. Along with funding the youth engagement, they also provide technical assistance and resources for nutrition education.\r\n\r\nCA Association of Food Banks: Provides funding, training and resources for CSU to do outreach for CalFresh (food stamps) and assist eligible people in applying for benefits.\r\n\r\nFactors critical to the success of these partnerships: taking time to learn about each organizations history, goals and culture in order to build partnerships that can effectively accomplish project goals; having a shared interest in bringing services and healthy food access to South LA and a shared perspective that building vibrant local and regional food systems is a viable strategy for addressing the environmental, health, and social injustices; and having a shared commitment to work together to leverage each others resources and expertise to bring the best possible result to South LA Families.\r\n"
+  city_state: 'Los Angeles, CA'
+  metrics_create_arts: '0'
+  metrics_create_manufacturing: '0'
+  metrics_create_researchgrant: '0'
+  metrics_create_patents: '0'
+  metrics_create_jbs: '0'
+  metrics_create_minoritywomenowned: '1'
+  metrics_create_gini: '0'
+  metrics_create_startups: '0'
+  metrics_create_venturecapital: '0'
+  metrics_create_influencers: '0'
+  metrics_create_recruitingrates: '0'
+  metrics_create_graduates: '1'
+  metrics_create_unemployment: '0'
+  metrics_create_other: '0'
+  metrics_create_blank: ''
+  resources_network: '0'
+  best_place_to_learn: '1'
+  best_place_to_connect: '1'
+  healthiest_place_to_live: '1'
+  best_place_to_play: '1'
+  evaluate: "CSU meticulously tracks a wide range of statistics related to the reach of our programs, including the number of customers served, amount of produce purchased and sold, the numbers of farmers purchased from by the Village Market Place, the number of youth who participate in internship programs, the number of residents who attend and participate in community events and the number of partners we collaborate with. We have data spanning the entire life of the project, enabling us to effectively track the project’s growth, and which will serve as baseline data for measuring the impact of the specific LA2050 project. The following statistics will be tracked to measure project reach: \r\n•\tThe number of outlets where customers can access fresh, local, high quality produce through the VMP, including number of produce stands, produce bag drop off locations, and partnering retail outlets. \r\n•\tThe number of customers who make purchases at produce stands, and the number of produce bag subscribers, including a breakdown of those that make purchases using CalFresh benefits. \r\n•\tThe number of businesses that purchase wholesale form the VMP, and the estimated number of customers that access produce through them (as reported by the businesses themselves). \r\n•\tThe number of southern California small farmers we purchase from and amount of produce purchased. \r\n•\tThe number of local south LA youth who complete internships. \r\n•\tThe number of partners engaged in carrying out the projects.\r\n•\tThe number of people that attend Earth Day South LA events, the number of participating artists and partners involved.  \r\n\r\nCSU also evaluates the impact of the project on the individuals who are reached in the following ways: \r\n•\tAnnual customer surveys that assess the impact that accessing produce through the VMP has had on customers fruit and vegetable consumption, and the degree to which they find the VMP outlets to be accessible and affordable. \r\n•\tPre and post-tests with youth interns to assess new skills and knowledge gained, and exit essays on the impact of the internship.\r\n•\tAnnual interviews with participating farmers to determine the impact that selling to the VMP has had on their business and identify strategies for addressing any challenges and expanding purchasing.\r\n•\tSurveys and interviews with Earth Day South LA participants (artists and partners) to gather feed back on the event and with Earth Day South LA attendees.\r\n"
+  two_lessons: "The most effective way to increase access to fresh high quality food in south la is by making it available where people already live, work and play. This is why the various strategies we employ to increase access to good food, produce stands, produce bags, corner stores, restaurants, bike deliveries etc. all have one thing in common, they target people where they already are. One of the things repeated to us again and again during the ACTION community food assessment (see http://csuinc.org/csuinc/wp-content/uploads/2013/11/Report.pd) completed in 2004 was that people do not find farmers markets to be accessible given issues with transport and cash flow. The idea of creating Produce Stands was birthed during these exchanges and similarly all of our strategies have been informed by this understanding.\r\n\r\nThe most impactful changes are community envisioned and driven. This is a core belief that has always informed CSU’s work and a lesson that we learn and re-learn all the time. CSU’s programs have emerged as a result of direct community dialogue and participation in framing the problem and envisioning and creating the solution. This dialogue and participation is on going as we consistently carry out surveys and focus groups to ascertain community feelings and concerns. We believe this to be the fundamental reason for the high level of community engagement in CSU’s programs. Rather than being planned and implemented by experts with no connection to those the programs are designed to serve, they have emerged from an organic process of engagement, dialogue and demand. \r\n\r\nThis project itself is a result of both of these lessons. EDSLA itself was created as an annual gathering to bring a high quality, community event to South LA after on going conversation between ourselves, community members and partners, that no such event exists in South LA. This project seeks to localize the spirit of EDSLA even further by taking it out to venues in various neighborhoods in our community and creating a series of mini EDSLA events. The idea itself is a direct response to the numerous requests CSU receives from multiple community organizations and agencies to bring our programming to their locations and is an organic response to these requests.\r\n"
+  achievable_goal: "CSU has successfully organized Earth Day South LA for six years, and has engaged hundreds of partner organizations and artists, and thousands of volunteers to create a dynamic event that promotes awareness of environmental, social and health issues. CSU has commitments from organizations to participate in EDSLA ’15 and mini EDSLA events and has existing relationships with vendors, performers and others that will ensure success.\r\n \r\nCSU has an established track record of bringing healthy, affordable, local, beyond organic produce to a community, which unjustly lacks such options. Since the launch of the first produce stand in 2007 the social enterprise had grown enormously, in scope and impact. We now have 5 weekly produce stands, 200 subscribers annually to our produce bag program, and serve a handful of wholesale customers regularly, including local restaurants and corner stores. As a result we are reaching more than 8000 households each year. We have successfully engaged more than 150 local youth in this work, training and supporting them to be the leaders in social marketing of the VMP and transforming the food environment in their community. In fact, 5 of CSU¹s current staff came to the organization as interns and now are leaders locally and nationally in the food justice movement.  \r\n \r\nWe have multiple partners, many of whom we have worked with for many years to expand the reach of the VMP. We develop partnership slowly and thoughtfully in order to ensure that organizational goals and cultures are well aligned so that we can realize long-term success as we work together.\r\nWe have grown the VMP to a point where sales cover operation costs, but there remains significant need for healthy food access in our community and a high demand for what the VMP offers. We have more than four pending requests from partner agencies that want to host produce stands at their locations, and requests from agencies with whom we are developing relationships. Additionally, we have many corner stores interested in working with CSU to bring fresh produce into their markets, and groups that want to bring produce bag delivery to their neighborhood or workplace. We have the relationships with suppliers/farmers to meet this demand and the space to aggregate and pack produce. At this strategic moment we need an investment in order to do the organizing and outreach necessary to realize this potential and achieve the next phase of growth for the social enterprise.\r\n"
+  major_challenges: "Entrenched beliefs that local organic produce is no better for health than conventionally grown food and that it is too expensive; and the belief that consumers in South LA with limited incomes and those reliant on CalFresh benefits are not concerned with the source of their food or how it is produced. \r\n\r\nIt is true that price conscience consumers have to make difficult choices about the source and quality of the food that they purchase, however, our research and experience shows that like so many consumers today, residents of South LA have an increasing interest in sustainably produced local food, and given the opportunity will choose these foods when they are able. The VMP operates in coordination with CSU’s education and outreach programs, which teach residents about the health, nutritional, environmental, economic and social impact of different methods of food production and food systems. At every opportunity we offer taste tests and samples of our produce and in itself this goes a long to way to highlighting the differences in local, sustainably grown produce compared to conventionally grown fare. In addition we provide nutrition education and cooking classes that teach residents to cook simple, cost effective healthy meals using the highest quality local sustainable ingredients. We also offer free classes on how to grow food at home using sustainable cost effective methods and participants receive materials to build their own garden, including seeds, compost, wood for raised beds, and even chickens! \r\n\r\nWe keep our prices as low as possible by purchasing directly from regional small farmers and by growing some of the food sold through the VMP at our own urban farm.  We teach residents the hidden cost of “cheap” food; inform them of the positive things that their food dollars support when they purchase local produce, such as job creation, farmland preservation and regional sustainability; and pass on skills to reduce their food costs.  By making fresh, organic local produce available in the community, and empowering residents with information and a range of skills that support them eating more fresh produce, we expand choices for consumers on a budget. It is through the documented impact of our education programs, and the expanded reach and impact of the VMP, that we are able to confront the incorrect belief that socially marginalized communities are not concerned with the source and methods used to produce their food. \r\n"
+  competition: "No other organization is doing what CSU does in South Central Los Angeles! Our work is unique in that it is community driven and sustained. Since the ACTION community food assessment (see http://csuinc.org/csuinc/wp-content/uploads/2013/11/Report.pdf) we have been creating the Community Food Village, a family of programs designed to provide multiple experiences with the food system to multiple ages of community members in South LA. Thus, it is often the case that the parents of one of our From the Ground Up interns will shop at a Produce Stand, or that a participant in our Garden Gateway Classes will seek applications for FGU for children or grand children. Our educational programs targeting pre-kinders to seniors, incorporate something for every age, with a definite focus on youth from middle school to high school ages through our FGU program. We understand the problems of inequitable access to good food to be systemic and created over a long period of neglect and lack of resources. There is no one magic bullet that will solve these issues, we need a comprehensive approach, contextualized by history and grounded in current reality. We are creating a solution that is multi-pronged, that builds knowledge and awareness as it engages community members in creating change. As we build sustainable living skills and awareness in South LA, it is also important to us that we build the sustainability of our own work. Thus we created the Village Market Place as a social enterprise to build a direct income source for our programs and as a mechanism for training and job creation. Through the intersection of the Village Market Place, Garden Gateway and From the Ground Up we have created a pipeline for local young people to be trained as engaged citizens ready to help create an LA worthy of the 2050 vision. \r\n"
+  cost: "Full Time VMP Outreach Coordinator - 1 FTE @ $38,000 \r\nResponsible for: organizing community events; working with VMP managers and CSU ED to engage existing partners and develop new partnerships to carry out the project;  coordinating the engagement of youth in CSU's From the Ground Up program with the CSU youth program staff. \r\n\r\nNeelam Sharma, CSU Executive Director  - .10 FTE @ $80,000 = $8,000 \r\nResponsible for: general project oversight and staff supervision and training.   \r\n \r\nVillage Market Place Co-Managers - .15 FTE @ $70,000 = $10,500\r\nResponsible for: supervision of VMP staff to ensure successfully project implementation; development, implementation and analysis of project evaluation.  10500  \r\n\r\nFridge benefits for staff at 35% = $19,775  \r\n\r\nArtist Stipends = $5,000 \r\nStipends for visual and performance artists to participate in community events organized as part of the project, including Earth Day South Los Angeles 2015. \r\n\r\nOutreach Materials & Promotional Media = $4,725 \r\nProduction and printing of  outreach materials to promote the community events and the Village Market Place generally. Purchase of ads and other media. \r\n\r\nSupplies and Equipment = $2,000 \r\nSupplies needed for the operation of produce stands and the implementation of community events, such as canopies, tables, office supplies, etc. \r\n\r\nSocial Media & Website Management = $12,000 \r\nConsultants/contractors to assist CSU in maximizing visibility through the ongoing maintenance and updating of  CSU website and frequent activity through social media. @ $1000 per month for 12 months \r\n     \r\nTOTAL $100,000.\r\n"
+  budget: "Full Time VMP Outreach Coordinator - 1 FTE @ $38,000 \r\nResponsible for: organizing community events; working with VMP managers and CSU ED to engage existing partners and develop new partnerships to carry out the project;  coordinating the engagement of youth in CSU's From the Ground Up program with the CSU youth program staff. \r\n\r\nNeelam Sharma, CSU Executive Director  - .10 FTE @ $80,000 = $8,000 \r\nResponsible for: general project oversight and staff supervision and training.   \r\n \r\nVillage Market Place Co-Managers - .15 FTE @ $70,000 = $10,500\r\nResponsible for: supervision of VMP staff to ensure successfully project implementation; development, implementation and analysis of project evaluation.  10500  \r\n\r\nFridge benefits for staff at 35% = $19,775  \r\n\r\nArtist Stipends = $5,000 \r\nStipends for visual and performance artists to participate in community events organized as part of the project, including Earth Day South Los Angeles 2015. \r\n\r\nOutreach Materials & Promotional Media = $4,725 \r\nProduction and printing of  outreach materials to promote the community events and the Village Market Place generally. Purchase of ads and other media. \r\n\r\nSupplies and Equipment = $2,000 \r\nSupplies needed for the operation of produce stands and the implementation of community events, such as canopies, tables, office supplies, etc. \r\n\r\nSocial Media & Website Management = $12,000 \r\nConsultants/contractors to assist CSU in maximizing visibility through the ongoing maintenance and updating of  CSU website and frequent activity through social media. @ $1000 per month for 12 months \r\n     \r\nTOTAL $100,000.\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_research: '1'
+  impact_metrics: "1. Employment in creative industries & Jobs per capita\r\nCSU collaborates with a broad community of artists and innovative social entrepreneurship to put on EDSLA each year. By creating spaces for these artists and innovators to share their talents and products with the community EDSLA supports job creation through their small businesses. CSU¹s Village Market Place social enterprise also creates job training and employment opportunities for local residents, especially youth,\r\nin social entrepreneurship.  The expansion of the VMP to create new permanent jobs in South LA, and the training that interns receive prepares them with multiple transferable skills to be successful for a wide variety of jobs in the future.\r\n\r\n2. Minority and women-owned firms\r\nCSU is a community based non-profit that is led by South Los Angeles residents of color, with significant leadership roles held by women.  It is\r\nCSU¹s mission to create community driven solutions to the problems in our community. We are based in a community that is majority people of color, and are committed to uplifting people of color within and outside our community, as such the small businesses, farmers and firms that we collaborate with are majority owned and/or operated by people of color.\r\n\r\n3. Percentage of graduates from local higher education institutions that remain in LA County 5 years \r\nThrough our work we aim to make South LA a better place to live, where residents have access to healthy food, meaningful and rewarding work and can enjoy arts, culture and entertainment. Through this transformation we aim to build a community where residents with opportunity choose to continue to live, work and play in their community.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CSU will work with partners to create a series of seven mini Earth Day South
   LA events as well as EDSLA 2015 and a new Produce Stand launch event in
@@ -78,416 +160,6 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Factors critical to the success of these partnerships: taking time to learn about each organizations history, goals and culture in order to build partnerships that can effectively accomplish project goals; having a shared interest in bringing services and healthy food access to South LA and a shared perspective that building vibrant local and regional food systems is a viable strategy for addressing the environmental, health, and social injustices; and having a shared commitment to work together to leverage each others resources and expertise to bring the best possible result to South LA Families.
 Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
 youtube_video_identifier: CQsypZUTmbo
-project_areas:
-  - SOUTH LA
-maker_answers:
-  city_state: 'Los Angeles, CA'
-  org_name: Community Services Unlimited inc.
-  org_website: www.csuinc.org
-  org_twitter: Twitter- @CSUINCLA
-  org_facebook: Facebook-@CSUINC
-  org_instagram: csuinc
-  org_mailingaddress: '817 West 34th Street, Los Angeles, 90089'
-  org_ein: '953218396'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: >-
-    Through education and participation we envision and create community driven
-    solutions to the problems around us with trainings and jobs.
-  one_sentence_project: "Increase access to good food for south LA residents; create a series of mini EDSLA events resulting in new permanent Produce Stand/s.\r\n"
-  describe_idea: >-
-    Mini EDSLA events bringing good food and arts to new locations, culminating
-    with the launch of new permanent produce stand/s.
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '0'
-  area_southLA: '1'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: "CSU consistently receives requests from community partners to bring pop up Produce Stands to events in South LA in addition to on going requests to bring permanent Produce Stands to new locations in South LA. The idea of this project is to leverage the Earth Day South LA brand that CSU and partners have created over the last 6 years in responding to these requests. In addition to bringing the quality programming EDSLA is known for to different neighborhoods, this strategy will give us the opportunity to spread the word about our community programs, impact new families in South LA with access to our quality produce, build on existing and create new partnerships, and test out potential new sites for permanent Produce Stand locations. \r\n"
-  implement: "CSU will work with partners to create a series of seven mini Earth Day South LA events as well as EDSLA 2015 and a new Produce Stand launch event in September 2015. The smaller events will take place in new locations and will be scheduled leading up to and after the main event in April 2015. \r\n\r\nDuring September and October of 2014 and January 2015, we will work on details of the first 4 events to take place in November and December 2014, and February and March 2015. We will work with existing and new partners to determine the locations of these events and to plan educational programming and artistic content. This time will also be used to create a detailed outreach plan in the neighborhoods surrounding the event venues.\r\n\r\nEDSLA 2015 in April will be used as an ideal opportunity to showcase the artists and other partners with whom the mini events were created as well as details of the mini events already held. A dedicated booth will have displays slide shows etc. showcasing these events and materials soliciting partnerships for the remaining four events. In addition EDSLA’15 will be the official launch of re-vamped outreach strategy for CSU’s Village Market Place, featuring wraps around our vehicles including our Produce delivery bikes and visually arresting community postcards and posters. \r\n\r\nMay 2015 will be used to work on details of the last 3 events to take place in June, July and August 2015. We will work with existing and new partners to determine the locations of these events and to plan educational programming and artistic content. This time will also be used to create a detailed outreach plan in the neighborhoods surrounding the event venues.\r\n\r\nIn September 2015 we will launch the new permanent Produce Stand/s created as a result of this project and we will use the opportunity to launch an expanded Produce Bag bike delivery service to meet the needs of our growing subscribers.\r\n"
-  impact_create: "By creating a series of events that will offer ongoing opportunities for collaborative creativity in educational, artistic, artisanal and food related programming, this project will make LA the best place to create now! Over the past six years, CSU’s annual event, Earth Day South LA has become a showcase of local skills, talents and innovation in community driven solutions to the everyday problems around us. \r\n\r\nWe have shown that community residents can come together and create a safe environment to have fun, celebrate our foods and cultures, learn about and participate in sustainable practices, and connect with each other and organizations working to make positive change in our neighborhood. The success of EDSLA has demonstrated that there is a thirst for information about and for opportunities to participate in the numerous and exciting projects taking place in our communities. We are proud that EDSLA has served as a catalyst for residents to become agents of sustainable change, improving the quality of our lives, and advancing a more just society.\r\n\r\nThe event has taken spaces that already exist in our neighborhood, a school playground and a parking lot, and for one day of the year, with multiple partnerships we have transformed dull concrete into an amazing community space. Leaving behind permanent green spaces, adorned by beautiful art.\r\n\r\nThis project will build upon the foundation created by leveraging the EDSLA brand to extend the creative space to a number of smaller events at various locations in South LA. The new venues and more localized nature of these mini EDSLA events will provide an opportunity to build new partnerships and transform new spaces.\r\n\r\nJust as EDSLA has done, these mini events will:\r\n*Cultivate, support, promote and provide a venue for local and earth friendly artists, performers, entreupreuneurs etc, to participate in, reflect, inspire and envision our movement for sustainable change.\r\n*Increase community residents’ awareness of organizations and individuals doing transformative work in our community.\r\n*Cultivate and nurture a culture and environment for collaboration among organizations and individuals working to advance sustainable change.\r\nThis project will thus help to lay the foundation of a solid body of work for a creative and inspired LA in 2050.\r\n"
-  who_benefit: "The project directly benefits SCLA families by increasing access to high quality, affordable fresh produce. Liquor stores, fast-food chains, and corner/convenience stores comprise 94% of food retail outlets in SCLA. Only 75% of food retail outlets sell fresh produce, compared to over 90% in wealthier areas of LA. Only 28% of adults in SCLA report that produce where they shop is high quality, the lowest in the county. This toxic food environment dramatically affects our community’s health. Residents have the highest rates of obesity in the county, adults 36% and children 29%. Adults have the highest rate of diabetes 12% and hypertension 29%. One in 4 households are without a vehicle (compared to 8% in West LA), leaving residents dependent on the food retail nearest their homes. \r\n\r\nThis project directly benefits youth ages 13–19. Youth in SCLA face many personal and community barriers to obtaining and holding jobs. An alarming 74% of adults’ have not completed high school, and only 3% have earned a college degree. Worse yet jobs in SCLA are few in number and offer extremely low wages. Council District 8, where CSU operates, ranks last among LA’s 15 districts in total # of jobs and average wages. Through participation in CSU’s programs youth build confidence and are empowered to create change in their community and in their own lives. They leave with a broad set of skills in areas of urban agriculture, nutrition, cooking, community organizing and advocacy, poising them for future success. These youth are in integral part of our operations and receive on going opportunities for further internships, apprentiships and ultimately jobs, 5 of our current staff began with CSU as youth interns.\r\n\r\nThis project directly benefits small farmers, we purchase almost exclusively from farmers of color with family operations who sell at the few farmers markets in our area, which are smaller and less profitable than other markets in the city. By purchasing from these growers we make the trip into town more profitable, hopefully ensuring that they will continue to sell at the markets in our community. In 2013 we spent $56,000 purchasing from small farmers. As the VMP expands we will increase these expenditures by an average of 20% annually, reaching $80,000 in 2015. \r\n"
-  partners_collaboration: "EMH Creative Group and GREEDY City: Have co-hosted food-centered educational, arts and community events, including EDSLA’14 with CSU. Both bring extensive experience, will be co-hosts of EDSLA ’15 and mini events organized as part of this project. EMH Creative Group brings expertise in maximizing outreach and event impact through strategic use of social media, and GREEDY City works with an extensive network of artists, both will bring these resources to the table to support this project.\r\n\r\nEsparanza Community Housing/Mercado La Paloma:  Co-hosted Earth Day South LA 2014 and will host again in 2015. Interested in exploring a produce stand at the Mercado La Paloma.\r\n\r\nPublic Allies: Engaged large number of youth allies as volunteers to do outreach for and organize activities for children at EDSLA ’14, part of the organizing team for EDSLA ’15.\r\n\r\nDunbar Village and Weber Community Center: Potential future produce stand sites & locations for mini -events. We have been building relationship and will advance this process through this project. Both agencies serve a large population of low-income families in South LA, VMP’s target base.\r\n\r\nThe USC, Good Neighbor Campaign: Supports free community workshops at CSU¹s urban farm site in South LA since 2010. Interested in bringing a produce stand to the USC hospital in Boyle Heights.\r\n\r\nLA County Dept of Health, Nutrition Education & Obesity Prevention Project: CSU has a 3 yr contract to engage South LA youth in work to increase access to & consumption of fruits and vegetables for low-income residents of South LA. Along with funding the youth engagement, they also provide technical assistance and resources for nutrition education.\r\n\r\nCA Association of Food Banks: Provides funding, training and resources for CSU to do outreach for CalFresh (food stamps) and assist eligible people in applying for benefits.\r\n\r\nFactors critical to the success of these partnerships: taking time to learn about each organizations history, goals and culture in order to build partnerships that can effectively accomplish project goals; having a shared interest in bringing services and healthy food access to South LA and a shared perspective that building vibrant local and regional food systems is a viable strategy for addressing the environmental, health, and social injustices; and having a shared commitment to work together to leverage each others resources and expertise to bring the best possible result to South LA Families.\r\n"
-  metrics_create_employment: '1'
-  metrics_create_arts: '0'
-  metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
-  metrics_create_patents: '0'
-  metrics_create_jbs: '0'
-  metrics_create_minoritywomenowned: '1'
-  metrics_create_gini: '0'
-  metrics_create_startups: '0'
-  metrics_create_venturecapital: '0'
-  metrics_create_influencers: '0'
-  metrics_create_recruitingrates: '0'
-  metrics_create_graduates: '1'
-  metrics_create_unemployment: '0'
-  metrics_create_other: '0'
-  metrics_create_blank: ''
-  impact_metrics: "1. Employment in creative industries & Jobs per capita\r\nCSU collaborates with a broad community of artists and innovative social entrepreneurship to put on EDSLA each year. By creating spaces for these artists and innovators to share their talents and products with the community EDSLA supports job creation through their small businesses. CSU¹s Village Market Place social enterprise also creates job training and employment opportunities for local residents, especially youth,\r\nin social entrepreneurship.  The expansion of the VMP to create new permanent jobs in South LA, and the training that interns receive prepares them with multiple transferable skills to be successful for a wide variety of jobs in the future.\r\n\r\n2. Minority and women-owned firms\r\nCSU is a community based non-profit that is led by South Los Angeles residents of color, with significant leadership roles held by women.  It is\r\nCSU¹s mission to create community driven solutions to the problems in our community. We are based in a community that is majority people of color, and are committed to uplifting people of color within and outside our community, as such the small businesses, farmers and firms that we collaborate with are majority owned and/or operated by people of color.\r\n\r\n3. Percentage of graduates from local higher education institutions that remain in LA County 5 years \r\nThrough our work we aim to make South LA a better place to live, where residents have access to healthy food, meaningful and rewarding work and can enjoy arts, culture and entertainment. Through this transformation we aim to build a community where residents with opportunity choose to continue to live, work and play in their community.\r\n"
-  best_place_to_learn: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '1'
-  best_place_to_play: '1'
-  evaluate: "CSU meticulously tracks a wide range of statistics related to the reach of our programs, including the number of customers served, amount of produce purchased and sold, the numbers of farmers purchased from by the Village Market Place, the number of youth who participate in internship programs, the number of residents who attend and participate in community events and the number of partners we collaborate with. We have data spanning the entire life of the project, enabling us to effectively track the project’s growth, and which will serve as baseline data for measuring the impact of the specific LA2050 project. The following statistics will be tracked to measure project reach: \r\n•\tThe number of outlets where customers can access fresh, local, high quality produce through the VMP, including number of produce stands, produce bag drop off locations, and partnering retail outlets. \r\n•\tThe number of customers who make purchases at produce stands, and the number of produce bag subscribers, including a breakdown of those that make purchases using CalFresh benefits. \r\n•\tThe number of businesses that purchase wholesale form the VMP, and the estimated number of customers that access produce through them (as reported by the businesses themselves). \r\n•\tThe number of southern California small farmers we purchase from and amount of produce purchased. \r\n•\tThe number of local south LA youth who complete internships. \r\n•\tThe number of partners engaged in carrying out the projects.\r\n•\tThe number of people that attend Earth Day South LA events, the number of participating artists and partners involved.  \r\n\r\nCSU also evaluates the impact of the project on the individuals who are reached in the following ways: \r\n•\tAnnual customer surveys that assess the impact that accessing produce through the VMP has had on customers fruit and vegetable consumption, and the degree to which they find the VMP outlets to be accessible and affordable. \r\n•\tPre and post-tests with youth interns to assess new skills and knowledge gained, and exit essays on the impact of the internship.\r\n•\tAnnual interviews with participating farmers to determine the impact that selling to the VMP has had on their business and identify strategies for addressing any challenges and expanding purchasing.\r\n•\tSurveys and interviews with Earth Day South LA participants (artists and partners) to gather feed back on the event and with Earth Day South LA attendees.\r\n"
-  two_lessons: "The most effective way to increase access to fresh high quality food in south la is by making it available where people already live, work and play. This is why the various strategies we employ to increase access to good food, produce stands, produce bags, corner stores, restaurants, bike deliveries etc. all have one thing in common, they target people where they already are. One of the things repeated to us again and again during the ACTION community food assessment (see http://csuinc.org/csuinc/wp-content/uploads/2013/11/Report.pd) completed in 2004 was that people do not find farmers markets to be accessible given issues with transport and cash flow. The idea of creating Produce Stands was birthed during these exchanges and similarly all of our strategies have been informed by this understanding.\r\n\r\nThe most impactful changes are community envisioned and driven. This is a core belief that has always informed CSU’s work and a lesson that we learn and re-learn all the time. CSU’s programs have emerged as a result of direct community dialogue and participation in framing the problem and envisioning and creating the solution. This dialogue and participation is on going as we consistently carry out surveys and focus groups to ascertain community feelings and concerns. We believe this to be the fundamental reason for the high level of community engagement in CSU’s programs. Rather than being planned and implemented by experts with no connection to those the programs are designed to serve, they have emerged from an organic process of engagement, dialogue and demand. \r\n\r\nThis project itself is a result of both of these lessons. EDSLA itself was created as an annual gathering to bring a high quality, community event to South LA after on going conversation between ourselves, community members and partners, that no such event exists in South LA. This project seeks to localize the spirit of EDSLA even further by taking it out to venues in various neighborhoods in our community and creating a series of mini EDSLA events. The idea itself is a direct response to the numerous requests CSU receives from multiple community organizations and agencies to bring our programming to their locations and is an organic response to these requests.\r\n"
-  achievable_goal: "CSU has successfully organized Earth Day South LA for six years, and has engaged hundreds of partner organizations and artists, and thousands of volunteers to create a dynamic event that promotes awareness of environmental, social and health issues. CSU has commitments from organizations to participate in EDSLA ’15 and mini EDSLA events and has existing relationships with vendors, performers and others that will ensure success.\r\n \r\nCSU has an established track record of bringing healthy, affordable, local, beyond organic produce to a community, which unjustly lacks such options. Since the launch of the first produce stand in 2007 the social enterprise had grown enormously, in scope and impact. We now have 5 weekly produce stands, 200 subscribers annually to our produce bag program, and serve a handful of wholesale customers regularly, including local restaurants and corner stores. As a result we are reaching more than 8000 households each year. We have successfully engaged more than 150 local youth in this work, training and supporting them to be the leaders in social marketing of the VMP and transforming the food environment in their community. In fact, 5 of CSU¹s current staff came to the organization as interns and now are leaders locally and nationally in the food justice movement.  \r\n \r\nWe have multiple partners, many of whom we have worked with for many years to expand the reach of the VMP. We develop partnership slowly and thoughtfully in order to ensure that organizational goals and cultures are well aligned so that we can realize long-term success as we work together.\r\nWe have grown the VMP to a point where sales cover operation costs, but there remains significant need for healthy food access in our community and a high demand for what the VMP offers. We have more than four pending requests from partner agencies that want to host produce stands at their locations, and requests from agencies with whom we are developing relationships. Additionally, we have many corner stores interested in working with CSU to bring fresh produce into their markets, and groups that want to bring produce bag delivery to their neighborhood or workplace. We have the relationships with suppliers/farmers to meet this demand and the space to aggregate and pack produce. At this strategic moment we need an investment in order to do the organizing and outreach necessary to realize this potential and achieve the next phase of growth for the social enterprise.\r\n"
-  major_challenges: "Entrenched beliefs that local organic produce is no better for health than conventionally grown food and that it is too expensive; and the belief that consumers in South LA with limited incomes and those reliant on CalFresh benefits are not concerned with the source of their food or how it is produced. \r\n\r\nIt is true that price conscience consumers have to make difficult choices about the source and quality of the food that they purchase, however, our research and experience shows that like so many consumers today, residents of South LA have an increasing interest in sustainably produced local food, and given the opportunity will choose these foods when they are able. The VMP operates in coordination with CSU’s education and outreach programs, which teach residents about the health, nutritional, environmental, economic and social impact of different methods of food production and food systems. At every opportunity we offer taste tests and samples of our produce and in itself this goes a long to way to highlighting the differences in local, sustainably grown produce compared to conventionally grown fare. In addition we provide nutrition education and cooking classes that teach residents to cook simple, cost effective healthy meals using the highest quality local sustainable ingredients. We also offer free classes on how to grow food at home using sustainable cost effective methods and participants receive materials to build their own garden, including seeds, compost, wood for raised beds, and even chickens! \r\n\r\nWe keep our prices as low as possible by purchasing directly from regional small farmers and by growing some of the food sold through the VMP at our own urban farm.  We teach residents the hidden cost of “cheap” food; inform them of the positive things that their food dollars support when they purchase local produce, such as job creation, farmland preservation and regional sustainability; and pass on skills to reduce their food costs.  By making fresh, organic local produce available in the community, and empowering residents with information and a range of skills that support them eating more fresh produce, we expand choices for consumers on a budget. It is through the documented impact of our education programs, and the expanded reach and impact of the VMP, that we are able to confront the incorrect belief that socially marginalized communities are not concerned with the source and methods used to produce their food. \r\n"
-  competition: "No other organization is doing what CSU does in South Central Los Angeles! Our work is unique in that it is community driven and sustained. Since the ACTION community food assessment (see http://csuinc.org/csuinc/wp-content/uploads/2013/11/Report.pdf) we have been creating the Community Food Village, a family of programs designed to provide multiple experiences with the food system to multiple ages of community members in South LA. Thus, it is often the case that the parents of one of our From the Ground Up interns will shop at a Produce Stand, or that a participant in our Garden Gateway Classes will seek applications for FGU for children or grand children. Our educational programs targeting pre-kinders to seniors, incorporate something for every age, with a definite focus on youth from middle school to high school ages through our FGU program. We understand the problems of inequitable access to good food to be systemic and created over a long period of neglect and lack of resources. There is no one magic bullet that will solve these issues, we need a comprehensive approach, contextualized by history and grounded in current reality. We are creating a solution that is multi-pronged, that builds knowledge and awareness as it engages community members in creating change. As we build sustainable living skills and awareness in South LA, it is also important to us that we build the sustainability of our own work. Thus we created the Village Market Place as a social enterprise to build a direct income source for our programs and as a mechanism for training and job creation. Through the intersection of the Village Market Place, Garden Gateway and From the Ground Up we have created a pipeline for local young people to be trained as engaged citizens ready to help create an LA worthy of the 2050 vision. \r\n"
-  cost: "Full Time VMP Outreach Coordinator - 1 FTE @ $38,000 \r\nResponsible for: organizing community events; working with VMP managers and CSU ED to engage existing partners and develop new partnerships to carry out the project;  coordinating the engagement of youth in CSU's From the Ground Up program with the CSU youth program staff. \r\n\r\nNeelam Sharma, CSU Executive Director  - .10 FTE @ $80,000 = $8,000 \r\nResponsible for: general project oversight and staff supervision and training.   \r\n \r\nVillage Market Place Co-Managers - .15 FTE @ $70,000 = $10,500\r\nResponsible for: supervision of VMP staff to ensure successfully project implementation; development, implementation and analysis of project evaluation.  10500  \r\n\r\nFridge benefits for staff at 35% = $19,775  \r\n\r\nArtist Stipends = $5,000 \r\nStipends for visual and performance artists to participate in community events organized as part of the project, including Earth Day South Los Angeles 2015. \r\n\r\nOutreach Materials & Promotional Media = $4,725 \r\nProduction and printing of  outreach materials to promote the community events and the Village Market Place generally. Purchase of ads and other media. \r\n\r\nSupplies and Equipment = $2,000 \r\nSupplies needed for the operation of produce stands and the implementation of community events, such as canopies, tables, office supplies, etc. \r\n\r\nSocial Media & Website Management = $12,000 \r\nConsultants/contractors to assist CSU in maximizing visibility through the ongoing maintenance and updating of  CSU website and frequent activity through social media. @ $1000 per month for 12 months \r\n     \r\nTOTAL $100,000.\r\n"
-  budget: "Full Time VMP Outreach Coordinator - 1 FTE @ $38,000 \r\nResponsible for: organizing community events; working with VMP managers and CSU ED to engage existing partners and develop new partnerships to carry out the project;  coordinating the engagement of youth in CSU's From the Ground Up program with the CSU youth program staff. \r\n\r\nNeelam Sharma, CSU Executive Director  - .10 FTE @ $80,000 = $8,000 \r\nResponsible for: general project oversight and staff supervision and training.   \r\n \r\nVillage Market Place Co-Managers - .15 FTE @ $70,000 = $10,500\r\nResponsible for: supervision of VMP staff to ensure successfully project implementation; development, implementation and analysis of project evaluation.  10500  \r\n\r\nFridge benefits for staff at 35% = $19,775  \r\n\r\nArtist Stipends = $5,000 \r\nStipends for visual and performance artists to participate in community events organized as part of the project, including Earth Day South Los Angeles 2015. \r\n\r\nOutreach Materials & Promotional Media = $4,725 \r\nProduction and printing of  outreach materials to promote the community events and the Village Market Place generally. Purchase of ads and other media. \r\n\r\nSupplies and Equipment = $2,000 \r\nSupplies needed for the operation of produce stands and the implementation of community events, such as canopies, tables, office supplies, etc. \r\n\r\nSocial Media & Website Management = $12,000 \r\nConsultants/contractors to assist CSU in maximizing visibility through the ongoing maintenance and updating of  CSU website and frequent activity through social media. @ $1000 per month for 12 months \r\n     \r\nTOTAL $100,000.\r\n"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_network: '0'
-  resources_research: '1'
-maker_answers_list:
-  - name: city_state
-    label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
-    answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: Community Services Unlimited inc.
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
-    answer: www.csuinc.org
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: Twitter- @CSUINCLA
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: Facebook-@CSUINC
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: csuinc
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: '817 West 34th Street, Los Angeles, 90089'
-  - name: org_ein
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '953218396'
-  - name: org_nonprofit
-    label: Nonprofit organization
-    explanation: ''
-    answer: '1'
-  - name: org_forprofit
-    label: For-profit organization
-    explanation: ''
-    answer: '0'
-  - name: org_government
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '0'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '1'
-  - name: describe_organization
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      Through education and participation we envision and create community
-      driven solutions to the problems around us with trainings and jobs.
-  - name: one_sentence_project
-    label: ''
-    explanation: 140 character maximum
-    answer: "Increase access to good food for south LA residents; create a series of mini EDSLA events resulting in new permanent Produce Stand/s.\r\n"
-  - name: describe_idea
-    label: ''
-    explanation: >-
-      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
-      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
-      have such an awesome project! Please vote for @GoldhirshFdn here!'
-    answer: >-
-      Mini EDSLA events bringing good food and arts to new locations,
-      culminating with the launch of new permanent produce stand/s.
-  - name: all_county
-    label: Yes (benefits all of LA County)
-    explanation: ''
-    answer: '0'
-  - name: region_county
-    label: ''
-    explanation: Yes (benefits a region of LA County)
-    answer: '1'
-  - name: population_county
-    label: ''
-    explanation: Yes (benefits a population of LA County)
-    answer: '0'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '0'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '0'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '0'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '0'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '0'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '0'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: "CSU consistently receives requests from community partners to bring pop up Produce Stands to events in South LA in addition to on going requests to bring permanent Produce Stands to new locations in South LA. The idea of this project is to leverage the Earth Day South LA brand that CSU and partners have created over the last 6 years in responding to these requests. In addition to bringing the quality programming EDSLA is known for to different neighborhoods, this strategy will give us the opportunity to spread the word about our community programs, impact new families in South LA with access to our quality produce, build on existing and create new partnerships, and test out potential new sites for permanent Produce Stand locations. \r\n"
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "CSU will work with partners to create a series of seven mini Earth Day South LA events as well as EDSLA 2015 and a new Produce Stand launch event in September 2015. The smaller events will take place in new locations and will be scheduled leading up to and after the main event in April 2015. \r\n\r\nDuring September and October of 2014 and January 2015, we will work on details of the first 4 events to take place in November and December 2014, and February and March 2015. We will work with existing and new partners to determine the locations of these events and to plan educational programming and artistic content. This time will also be used to create a detailed outreach plan in the neighborhoods surrounding the event venues.\r\n\r\nEDSLA 2015 in April will be used as an ideal opportunity to showcase the artists and other partners with whom the mini events were created as well as details of the mini events already held. A dedicated booth will have displays slide shows etc. showcasing these events and materials soliciting partnerships for the remaining four events. In addition EDSLA’15 will be the official launch of re-vamped outreach strategy for CSU’s Village Market Place, featuring wraps around our vehicles including our Produce delivery bikes and visually arresting community postcards and posters. \r\n\r\nMay 2015 will be used to work on details of the last 3 events to take place in June, July and August 2015. We will work with existing and new partners to determine the locations of these events and to plan educational programming and artistic content. This time will also be used to create a detailed outreach plan in the neighborhoods surrounding the event venues.\r\n\r\nIn September 2015 we will launch the new permanent Produce Stand/s created as a result of this project and we will use the opportunity to launch an expanded Produce Bag bike delivery service to meet the needs of our growing subscribers.\r\n"
-  - name: impact_create
-    label: ''
-    explanation: ''
-    answer: "By creating a series of events that will offer ongoing opportunities for collaborative creativity in educational, artistic, artisanal and food related programming, this project will make LA the best place to create now! Over the past six years, CSU’s annual event, Earth Day South LA has become a showcase of local skills, talents and innovation in community driven solutions to the everyday problems around us. \r\n\r\nWe have shown that community residents can come together and create a safe environment to have fun, celebrate our foods and cultures, learn about and participate in sustainable practices, and connect with each other and organizations working to make positive change in our neighborhood. The success of EDSLA has demonstrated that there is a thirst for information about and for opportunities to participate in the numerous and exciting projects taking place in our communities. We are proud that EDSLA has served as a catalyst for residents to become agents of sustainable change, improving the quality of our lives, and advancing a more just society.\r\n\r\nThe event has taken spaces that already exist in our neighborhood, a school playground and a parking lot, and for one day of the year, with multiple partnerships we have transformed dull concrete into an amazing community space. Leaving behind permanent green spaces, adorned by beautiful art.\r\n\r\nThis project will build upon the foundation created by leveraging the EDSLA brand to extend the creative space to a number of smaller events at various locations in South LA. The new venues and more localized nature of these mini EDSLA events will provide an opportunity to build new partnerships and transform new spaces.\r\n\r\nJust as EDSLA has done, these mini events will:\r\n*Cultivate, support, promote and provide a venue for local and earth friendly artists, performers, entreupreuneurs etc, to participate in, reflect, inspire and envision our movement for sustainable change.\r\n*Increase community residents’ awareness of organizations and individuals doing transformative work in our community.\r\n*Cultivate and nurture a culture and environment for collaboration among organizations and individuals working to advance sustainable change.\r\nThis project will thus help to lay the foundation of a solid body of work for a creative and inspired LA in 2050.\r\n"
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "The project directly benefits SCLA families by increasing access to high quality, affordable fresh produce. Liquor stores, fast-food chains, and corner/convenience stores comprise 94% of food retail outlets in SCLA. Only 75% of food retail outlets sell fresh produce, compared to over 90% in wealthier areas of LA. Only 28% of adults in SCLA report that produce where they shop is high quality, the lowest in the county. This toxic food environment dramatically affects our community’s health. Residents have the highest rates of obesity in the county, adults 36% and children 29%. Adults have the highest rate of diabetes 12% and hypertension 29%. One in 4 households are without a vehicle (compared to 8% in West LA), leaving residents dependent on the food retail nearest their homes. \r\n\r\nThis project directly benefits youth ages 13–19. Youth in SCLA face many personal and community barriers to obtaining and holding jobs. An alarming 74% of adults’ have not completed high school, and only 3% have earned a college degree. Worse yet jobs in SCLA are few in number and offer extremely low wages. Council District 8, where CSU operates, ranks last among LA’s 15 districts in total # of jobs and average wages. Through participation in CSU’s programs youth build confidence and are empowered to create change in their community and in their own lives. They leave with a broad set of skills in areas of urban agriculture, nutrition, cooking, community organizing and advocacy, poising them for future success. These youth are in integral part of our operations and receive on going opportunities for further internships, apprentiships and ultimately jobs, 5 of our current staff began with CSU as youth interns.\r\n\r\nThis project directly benefits small farmers, we purchase almost exclusively from farmers of color with family operations who sell at the few farmers markets in our area, which are smaller and less profitable than other markets in the city. By purchasing from these growers we make the trip into town more profitable, hopefully ensuring that they will continue to sell at the markets in our community. In 2013 we spent $56,000 purchasing from small farmers. As the VMP expands we will increase these expenditures by an average of 20% annually, reaching $80,000 in 2015. \r\n"
-  - name: partners_collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "EMH Creative Group and GREEDY City: Have co-hosted food-centered educational, arts and community events, including EDSLA’14 with CSU. Both bring extensive experience, will be co-hosts of EDSLA ’15 and mini events organized as part of this project. EMH Creative Group brings expertise in maximizing outreach and event impact through strategic use of social media, and GREEDY City works with an extensive network of artists, both will bring these resources to the table to support this project.\r\n\r\nEsparanza Community Housing/Mercado La Paloma:  Co-hosted Earth Day South LA 2014 and will host again in 2015. Interested in exploring a produce stand at the Mercado La Paloma.\r\n\r\nPublic Allies: Engaged large number of youth allies as volunteers to do outreach for and organize activities for children at EDSLA ’14, part of the organizing team for EDSLA ’15.\r\n\r\nDunbar Village and Weber Community Center: Potential future produce stand sites & locations for mini -events. We have been building relationship and will advance this process through this project. Both agencies serve a large population of low-income families in South LA, VMP’s target base.\r\n\r\nThe USC, Good Neighbor Campaign: Supports free community workshops at CSU¹s urban farm site in South LA since 2010. Interested in bringing a produce stand to the USC hospital in Boyle Heights.\r\n\r\nLA County Dept of Health, Nutrition Education & Obesity Prevention Project: CSU has a 3 yr contract to engage South LA youth in work to increase access to & consumption of fruits and vegetables for low-income residents of South LA. Along with funding the youth engagement, they also provide technical assistance and resources for nutrition education.\r\n\r\nCA Association of Food Banks: Provides funding, training and resources for CSU to do outreach for CalFresh (food stamps) and assist eligible people in applying for benefits.\r\n\r\nFactors critical to the success of these partnerships: taking time to learn about each organizations history, goals and culture in order to build partnerships that can effectively accomplish project goals; having a shared interest in bringing services and healthy food access to South LA and a shared perspective that building vibrant local and regional food systems is a viable strategy for addressing the environmental, health, and social injustices; and having a shared commitment to work together to leverage each others resources and expertise to bring the best possible result to South LA Families.\r\n"
-  - name: metrics_create_employment
-    label: Employment in creative industries
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_arts
-    label: Arts establishments per capita
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_manufacturing
-    label: Concentration of manufacturing activity in LA
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_researchgrant
-    label: Federal research grant funding
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_patents
-    label: Patents per capita
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_jbs
-    label: Jobs per capita
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_minoritywomenowned
-    label: Minority- and women-owned firms
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_gini
-    label: Gini coefficient
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_startups
-    label: Number of high-growth startups
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_venturecapital
-    label: Venture capital investment
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_influencers
-    label: >-
-      Measures of cultural and global economic influence (“soft power”) (Dream
-      Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_recruitingrates
-    label: >-
-      Recruiting and retention rates at local higher education institutions
-      (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_graduates
-    label: >-
-      Percentage of graduates from local higher education institutions that
-      remain in LA County 5 years after graduating (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_create_unemployment
-    label: >-
-      Unemployment rates (and opportunities) for the formerly incarcerated
-      (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_other
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: metrics_create_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "1. Employment in creative industries & Jobs per capita\r\nCSU collaborates with a broad community of artists and innovative social entrepreneurship to put on EDSLA each year. By creating spaces for these artists and innovators to share their talents and products with the community EDSLA supports job creation through their small businesses. CSU¹s Village Market Place social enterprise also creates job training and employment opportunities for local residents, especially youth,\r\nin social entrepreneurship.  The expansion of the VMP to create new permanent jobs in South LA, and the training that interns receive prepares them with multiple transferable skills to be successful for a wide variety of jobs in the future.\r\n\r\n2. Minority and women-owned firms\r\nCSU is a community based non-profit that is led by South Los Angeles residents of color, with significant leadership roles held by women.  It is\r\nCSU¹s mission to create community driven solutions to the problems in our community. We are based in a community that is majority people of color, and are committed to uplifting people of color within and outside our community, as such the small businesses, farmers and firms that we collaborate with are majority owned and/or operated by people of color.\r\n\r\n3. Percentage of graduates from local higher education institutions that remain in LA County 5 years \r\nThrough our work we aim to make South LA a better place to live, where residents have access to healthy food, meaningful and rewarding work and can enjoy arts, culture and entertainment. Through this transformation we aim to build a community where residents with opportunity choose to continue to live, work and play in their community.\r\n"
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '1'
-  - name: healthiest_place_to_live
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '1'
-  - name: evaluate
-    label: ''
-    explanation: ''
-    answer: "CSU meticulously tracks a wide range of statistics related to the reach of our programs, including the number of customers served, amount of produce purchased and sold, the numbers of farmers purchased from by the Village Market Place, the number of youth who participate in internship programs, the number of residents who attend and participate in community events and the number of partners we collaborate with. We have data spanning the entire life of the project, enabling us to effectively track the project’s growth, and which will serve as baseline data for measuring the impact of the specific LA2050 project. The following statistics will be tracked to measure project reach: \r\n•\tThe number of outlets where customers can access fresh, local, high quality produce through the VMP, including number of produce stands, produce bag drop off locations, and partnering retail outlets. \r\n•\tThe number of customers who make purchases at produce stands, and the number of produce bag subscribers, including a breakdown of those that make purchases using CalFresh benefits. \r\n•\tThe number of businesses that purchase wholesale form the VMP, and the estimated number of customers that access produce through them (as reported by the businesses themselves). \r\n•\tThe number of southern California small farmers we purchase from and amount of produce purchased. \r\n•\tThe number of local south LA youth who complete internships. \r\n•\tThe number of partners engaged in carrying out the projects.\r\n•\tThe number of people that attend Earth Day South LA events, the number of participating artists and partners involved.  \r\n\r\nCSU also evaluates the impact of the project on the individuals who are reached in the following ways: \r\n•\tAnnual customer surveys that assess the impact that accessing produce through the VMP has had on customers fruit and vegetable consumption, and the degree to which they find the VMP outlets to be accessible and affordable. \r\n•\tPre and post-tests with youth interns to assess new skills and knowledge gained, and exit essays on the impact of the internship.\r\n•\tAnnual interviews with participating farmers to determine the impact that selling to the VMP has had on their business and identify strategies for addressing any challenges and expanding purchasing.\r\n•\tSurveys and interviews with Earth Day South LA participants (artists and partners) to gather feed back on the event and with Earth Day South LA attendees.\r\n"
-  - name: two_lessons
-    label: ''
-    explanation: ''
-    answer: "The most effective way to increase access to fresh high quality food in south la is by making it available where people already live, work and play. This is why the various strategies we employ to increase access to good food, produce stands, produce bags, corner stores, restaurants, bike deliveries etc. all have one thing in common, they target people where they already are. One of the things repeated to us again and again during the ACTION community food assessment (see http://csuinc.org/csuinc/wp-content/uploads/2013/11/Report.pd) completed in 2004 was that people do not find farmers markets to be accessible given issues with transport and cash flow. The idea of creating Produce Stands was birthed during these exchanges and similarly all of our strategies have been informed by this understanding.\r\n\r\nThe most impactful changes are community envisioned and driven. This is a core belief that has always informed CSU’s work and a lesson that we learn and re-learn all the time. CSU’s programs have emerged as a result of direct community dialogue and participation in framing the problem and envisioning and creating the solution. This dialogue and participation is on going as we consistently carry out surveys and focus groups to ascertain community feelings and concerns. We believe this to be the fundamental reason for the high level of community engagement in CSU’s programs. Rather than being planned and implemented by experts with no connection to those the programs are designed to serve, they have emerged from an organic process of engagement, dialogue and demand. \r\n\r\nThis project itself is a result of both of these lessons. EDSLA itself was created as an annual gathering to bring a high quality, community event to South LA after on going conversation between ourselves, community members and partners, that no such event exists in South LA. This project seeks to localize the spirit of EDSLA even further by taking it out to venues in various neighborhoods in our community and creating a series of mini EDSLA events. The idea itself is a direct response to the numerous requests CSU receives from multiple community organizations and agencies to bring our programming to their locations and is an organic response to these requests.\r\n"
-  - name: achievable_goal
-    label: ''
-    explanation: ''
-    answer: "CSU has successfully organized Earth Day South LA for six years, and has engaged hundreds of partner organizations and artists, and thousands of volunteers to create a dynamic event that promotes awareness of environmental, social and health issues. CSU has commitments from organizations to participate in EDSLA ’15 and mini EDSLA events and has existing relationships with vendors, performers and others that will ensure success.\r\n \r\nCSU has an established track record of bringing healthy, affordable, local, beyond organic produce to a community, which unjustly lacks such options. Since the launch of the first produce stand in 2007 the social enterprise had grown enormously, in scope and impact. We now have 5 weekly produce stands, 200 subscribers annually to our produce bag program, and serve a handful of wholesale customers regularly, including local restaurants and corner stores. As a result we are reaching more than 8000 households each year. We have successfully engaged more than 150 local youth in this work, training and supporting them to be the leaders in social marketing of the VMP and transforming the food environment in their community. In fact, 5 of CSU¹s current staff came to the organization as interns and now are leaders locally and nationally in the food justice movement.  \r\n \r\nWe have multiple partners, many of whom we have worked with for many years to expand the reach of the VMP. We develop partnership slowly and thoughtfully in order to ensure that organizational goals and cultures are well aligned so that we can realize long-term success as we work together.\r\nWe have grown the VMP to a point where sales cover operation costs, but there remains significant need for healthy food access in our community and a high demand for what the VMP offers. We have more than four pending requests from partner agencies that want to host produce stands at their locations, and requests from agencies with whom we are developing relationships. Additionally, we have many corner stores interested in working with CSU to bring fresh produce into their markets, and groups that want to bring produce bag delivery to their neighborhood or workplace. We have the relationships with suppliers/farmers to meet this demand and the space to aggregate and pack produce. At this strategic moment we need an investment in order to do the organizing and outreach necessary to realize this potential and achieve the next phase of growth for the social enterprise.\r\n"
-  - name: major_challenges
-    label: ''
-    explanation: ''
-    answer: "Entrenched beliefs that local organic produce is no better for health than conventionally grown food and that it is too expensive; and the belief that consumers in South LA with limited incomes and those reliant on CalFresh benefits are not concerned with the source of their food or how it is produced. \r\n\r\nIt is true that price conscience consumers have to make difficult choices about the source and quality of the food that they purchase, however, our research and experience shows that like so many consumers today, residents of South LA have an increasing interest in sustainably produced local food, and given the opportunity will choose these foods when they are able. The VMP operates in coordination with CSU’s education and outreach programs, which teach residents about the health, nutritional, environmental, economic and social impact of different methods of food production and food systems. At every opportunity we offer taste tests and samples of our produce and in itself this goes a long to way to highlighting the differences in local, sustainably grown produce compared to conventionally grown fare. In addition we provide nutrition education and cooking classes that teach residents to cook simple, cost effective healthy meals using the highest quality local sustainable ingredients. We also offer free classes on how to grow food at home using sustainable cost effective methods and participants receive materials to build their own garden, including seeds, compost, wood for raised beds, and even chickens! \r\n\r\nWe keep our prices as low as possible by purchasing directly from regional small farmers and by growing some of the food sold through the VMP at our own urban farm.  We teach residents the hidden cost of “cheap” food; inform them of the positive things that their food dollars support when they purchase local produce, such as job creation, farmland preservation and regional sustainability; and pass on skills to reduce their food costs.  By making fresh, organic local produce available in the community, and empowering residents with information and a range of skills that support them eating more fresh produce, we expand choices for consumers on a budget. It is through the documented impact of our education programs, and the expanded reach and impact of the VMP, that we are able to confront the incorrect belief that socially marginalized communities are not concerned with the source and methods used to produce their food. \r\n"
-  - name: competition
-    label: ''
-    explanation: ''
-    answer: "No other organization is doing what CSU does in South Central Los Angeles! Our work is unique in that it is community driven and sustained. Since the ACTION community food assessment (see http://csuinc.org/csuinc/wp-content/uploads/2013/11/Report.pdf) we have been creating the Community Food Village, a family of programs designed to provide multiple experiences with the food system to multiple ages of community members in South LA. Thus, it is often the case that the parents of one of our From the Ground Up interns will shop at a Produce Stand, or that a participant in our Garden Gateway Classes will seek applications for FGU for children or grand children. Our educational programs targeting pre-kinders to seniors, incorporate something for every age, with a definite focus on youth from middle school to high school ages through our FGU program. We understand the problems of inequitable access to good food to be systemic and created over a long period of neglect and lack of resources. There is no one magic bullet that will solve these issues, we need a comprehensive approach, contextualized by history and grounded in current reality. We are creating a solution that is multi-pronged, that builds knowledge and awareness as it engages community members in creating change. As we build sustainable living skills and awareness in South LA, it is also important to us that we build the sustainability of our own work. Thus we created the Village Market Place as a social enterprise to build a direct income source for our programs and as a mechanism for training and job creation. Through the intersection of the Village Market Place, Garden Gateway and From the Ground Up we have created a pipeline for local young people to be trained as engaged citizens ready to help create an LA worthy of the 2050 vision. \r\n"
-  - name: cost
-    label: ''
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: "Full Time VMP Outreach Coordinator - 1 FTE @ $38,000 \r\nResponsible for: organizing community events; working with VMP managers and CSU ED to engage existing partners and develop new partnerships to carry out the project;  coordinating the engagement of youth in CSU's From the Ground Up program with the CSU youth program staff. \r\n\r\nNeelam Sharma, CSU Executive Director  - .10 FTE @ $80,000 = $8,000 \r\nResponsible for: general project oversight and staff supervision and training.   \r\n \r\nVillage Market Place Co-Managers - .15 FTE @ $70,000 = $10,500\r\nResponsible for: supervision of VMP staff to ensure successfully project implementation; development, implementation and analysis of project evaluation.  10500  \r\n\r\nFridge benefits for staff at 35% = $19,775  \r\n\r\nArtist Stipends = $5,000 \r\nStipends for visual and performance artists to participate in community events organized as part of the project, including Earth Day South Los Angeles 2015. \r\n\r\nOutreach Materials & Promotional Media = $4,725 \r\nProduction and printing of  outreach materials to promote the community events and the Village Market Place generally. Purchase of ads and other media. \r\n\r\nSupplies and Equipment = $2,000 \r\nSupplies needed for the operation of produce stands and the implementation of community events, such as canopies, tables, office supplies, etc. \r\n\r\nSocial Media & Website Management = $12,000 \r\nConsultants/contractors to assist CSU in maximizing visibility through the ongoing maintenance and updating of  CSU website and frequent activity through social media. @ $1000 per month for 12 months \r\n     \r\nTOTAL $100,000.\r\n"
-  - name: budget
-    label: ''
-    explanation: ''
-    answer: "Full Time VMP Outreach Coordinator - 1 FTE @ $38,000 \r\nResponsible for: organizing community events; working with VMP managers and CSU ED to engage existing partners and develop new partnerships to carry out the project;  coordinating the engagement of youth in CSU's From the Ground Up program with the CSU youth program staff. \r\n\r\nNeelam Sharma, CSU Executive Director  - .10 FTE @ $80,000 = $8,000 \r\nResponsible for: general project oversight and staff supervision and training.   \r\n \r\nVillage Market Place Co-Managers - .15 FTE @ $70,000 = $10,500\r\nResponsible for: supervision of VMP staff to ensure successfully project implementation; development, implementation and analysis of project evaluation.  10500  \r\n\r\nFridge benefits for staff at 35% = $19,775  \r\n\r\nArtist Stipends = $5,000 \r\nStipends for visual and performance artists to participate in community events organized as part of the project, including Earth Day South Los Angeles 2015. \r\n\r\nOutreach Materials & Promotional Media = $4,725 \r\nProduction and printing of  outreach materials to promote the community events and the Village Market Place generally. Purchase of ads and other media. \r\n\r\nSupplies and Equipment = $2,000 \r\nSupplies needed for the operation of produce stands and the implementation of community events, such as canopies, tables, office supplies, etc. \r\n\r\nSocial Media & Website Management = $12,000 \r\nConsultants/contractors to assist CSU in maximizing visibility through the ongoing maintenance and updating of  CSU website and frequent activity through social media. @ $1000 per month for 12 months \r\n     \r\nTOTAL $100,000.\r\n"
-  - name: resources_money
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_staff
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_publicity
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_infrastructure
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_education
-    label: Education/training
-    explanation: ''
-    answer: '0'
-  - name: resources_technical
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: resources_communityoutreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: resources_network
-    label: Network/relationship support
-    explanation: ''
-    answer: '0'
-  - name: resources_research
-    label: Quality improvement research
-    explanation: ''
-    answer: '1'
-body_class: banana
-published: true
 
 ---

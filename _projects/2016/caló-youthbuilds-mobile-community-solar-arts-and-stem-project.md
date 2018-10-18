@@ -1,30 +1,22 @@
 ---
+published: true
 organization_id: '2016033'
 year_submitted: 2016
-organization_name: CALO YouthBuild
-organization_website: www.caloinc.org
-ein: ''
-project_image_2: 3912790265741-team91.jpg
+category: play
+body_class: strawberry
 project_id: '6102029'
+challenge_url: >-
+  https://challenge.la2050.org/entry/caló-youthbuilds-mobile-community-solar-arts-and-stem-project
 title: CALÓ YouthBuild's Mobile Community Solar Arts and STEM Project
-organization_name_2: CALO YouthBuild
-organization_activity: >-
-  CALÓ YouthBuild is a project based, culturally relevant, high school diploma
-  granting program themed in social justice, community organizing and
-  environmentalism for out of school East LA youth.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
-project_video: ''
 project_summary: >-
   CALO YouthBuild Students will create mobile solar powered generators to bring
   arts and STEM programming to underserved communities affected by youth
   violence, drug use, and academic apathy.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: YouthBuild Charter School of California
-project_areas:
-  - East LA
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Using the metrics provided by LA2050, the project will provide between 10-15
   informal places of quality play; enroll a minimum of 200 children in
@@ -57,6 +49,24 @@ project_impact: >-
   ["Number (and quality) of informal spaces for play","Number of children
   enrolled in afterschool programs","Number of parks with intergenerational play
   opportunities","Per capita crime rates","Perceived safety"]
+project_proposal_impact:
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Per capita crime rates
+  - Perceived safety
+project_proposal_description: >-
+  CALO YouthBuild's Mobile Community Arts and STEM project will allow its
+  students the opportunity to design and create mobile solar powered generators
+  to bring arts and STEM programming to underserved communities affected by
+  youth violence, drug use, and academic apathy. The project will target local
+  parks, housing projects and schools to identify young people who are at risk
+  of engaging in drug use or violent/gang activity. Mobile programs will include
+  music instruction/production and recording.
+project_areas:
+  - East LA
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   East Los Angeles and Boyle Heights are communities with a history rich in
   culture, art, and activism. Unfortunately, these contributions are often
@@ -86,25 +96,7 @@ project_proposal_best_place: >-
   best place to play by using youth driven solutions to address serious
   community issues in an innovative way, integrating the arts, culture, and
   technology into programming that fosters community and promotes healing.
-challenge_url: >-
-  https://challenge.la2050.org/entry/caló-youthbuilds-mobile-community-solar-arts-and-stem-project
-empty_column_1: ''
-project_proposal_description: >-
-  CALO YouthBuild's Mobile Community Arts and STEM project will allow its
-  students the opportunity to design and create mobile solar powered generators
-  to bring arts and STEM programming to underserved communities affected by
-  youth violence, drug use, and academic apathy. The project will target local
-  parks, housing projects and schools to identify young people who are at risk
-  of engaging in drug use or violent/gang activity. Mobile programs will include
-  music instruction/production and recording.
-project_proposal_impact:
-  - Number (and quality) of informal spaces for play
-  - Number of children enrolled in afterschool programs
-  - Number of parks with intergenerational play opportunities
-  - Per capita crime rates
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: CALO YouthBuild
+organization_website: www.caloinc.org
 
 ---

@@ -1,37 +1,26 @@
 ---
+published: true
 organization_id: '2016085'
 year_submitted: 2016
-organization_name: Future Fields
-organization_website: futurescouts.co
-ein: ''
-project_image_2: 4696118255741-team90.png
+category: learn
+body_class: blueberry
 project_id: '6102159'
+challenge_url: >-
+  https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
 title: 'Future Scouts: 21st century survival skills for 21st century humans'
-organization_name_2: Future Fields
-organization_activity: >-
-  Future Scouts is a series of urban creative laboratories that prepare
-  youngsters, teens and adults with tools, frameworks and models helpful to
-  navigate an increasingly complex world.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
-project_video: 'https://www.youtube.com/embed/opdLZ7mHMqw?rel=0&amp;showinfo=0'
 project_summary: >-
   FUTURE SCOUTS: a series of urban creative labs that prepare youth with
   essential 21st century literacies and skills, through art, science, design,
   systems thinking and technology
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
+project_video: 'https://www.youtube.com/embed/opdLZ7mHMqw?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   USC World Building Institute, HexLab Makerspace, C:/DAGS (Critical Design And
   Gaming School) @ Hawkins High School (South LA), Touchstone Climbing - Cliffs
   of Id (Culver City), Navel Co-working, Oblong Industries, Two Bit Circus,
   Variable, Inc.
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
 project_measure: >-
   There are various quantitative metrics we use to measure success from an
   operational perspective:
@@ -94,6 +83,28 @@ project_impact: >-
   rates","Proficiency in English and Language Arts and Math","Early
   education","Student education pipeline","Students’ perceived sense of safety
   at and on the way to school","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Future Scouts ran a crowd-funded pilot program in July 2016 with 12 teens from
+  across LA for a two weeks, culminating in a Future Worlds Fair: LA 2036! We
+  propose to run two summer sessions in Los Angeles in 2017 for teens aged
+  13-18, on a by-donation basis, as well fund an after-school program with
+  C:/DAGS @ Hawkins HS for Spring 2017.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
 project_proposal_best_place: >-
   Our children are growing up in a world with a rate of accelerated change. With
   each passing generation, the minds of youth evolve and adapt to new behaviors,
@@ -167,26 +178,7 @@ project_proposal_best_place: >-
   evaluate knowledge, and create their own narratives. We do this through
   providing knowledge, experiences and tools that help them become authors of
   their own futures.
-challenge_url: >-
-  https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
-empty_column_1: ''
-project_proposal_description: >-
-  Future Scouts ran a crowd-funded pilot program in July 2016 with 12 teens from
-  across LA for a two weeks, culminating in a Future Worlds Fair: LA 2036! We
-  propose to run two summer sessions in Los Angeles in 2017 for teens aged
-  13-18, on a by-donation basis, as well fund an after-school program with
-  C:/DAGS @ Hawkins HS for Spring 2017.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Student education pipeline
-  - Students’ perceived sense of safety at and on the way to school
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Future Fields
+organization_website: futurescouts.co
 
 ---

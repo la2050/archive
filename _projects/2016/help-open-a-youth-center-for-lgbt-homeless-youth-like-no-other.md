@@ -1,27 +1,19 @@
 ---
+published: true
 organization_id: '2016214'
 year_submitted: 2016
-organization_name: The C.I.T.Y. x1 Youth Group
-organization_website: www.cityx1.org
-ein: ''
-project_image_2: 4001387745741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102237'
+challenge_url: >-
+  https://challenge.la2050.org/entry/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other!
 title: Help Open A Youth Center for LGBT Homeless Youth Like No Other!
-organization_name_2: The C.I.T.Y. x1 Youth Group
-organization_activity: >-
-  We provide free and empowering activities for Homeless LGBT Youth in a safe
-  place that helps link them to transitional living, educational programs, and
-  emotional support.
+project_summary: '#LGBTHomelessYouth Need A Safe Place To Be Empowered In!'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4001387745741-team91.jpg
 project_video: 'https://www.youtube.com/embed/xrBYk1R2gXQ?rel=0&amp;showinfo=0'
-project_summary: '#LGBTHomelessYouth Need A Safe Place To Be Empowered In!'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - Central LA
-  - City of Los Angeles
-  - Hollywood
 project_measure: >-
   We believe that listening to our Clients is always the best way to judge our
   success, or lack thereof.
@@ -75,6 +67,25 @@ project_impact: >-
   residents’ needs","Participation in neighborhood councils","Rates of
   volunteerism","Total number of local social media friends and connections
   Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  To open a unique Youth Center for LGBT Homeless & at-risk youth (ages 14-24)
+  that offers fun, educational, and resourceful activities on a regular basis.
+  At our signature dances, youth attendees would get an opportunity to escape
+  their day-to-day challenges while at the same time gaining access to services
+  available to them locally via our community partners & agencies (i.e.
+  transitional living, GED programs, emotional support, & other social
+  services).
+project_areas:
+  - Central LA
+  - City of Los Angeles
+  - Hollywood
 project_proposal_best_place: >-
   This new and unique Youth Center would serve as a hybrid of activities that
   are both fun and resourceful. We feel that the best way possible to make L.A.
@@ -123,26 +134,7 @@ project_proposal_best_place: >-
   to bring something different to the table. Activities such as Open Houses and
   Community Fairs would give us a golden opportunity to educate residents on
   homelessness and what they can do to help solve the problem.
-challenge_url: >-
-  https://challenge.la2050.org/entry/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other!
-empty_column_1: ''
-project_proposal_description: >-
-  To open a unique Youth Center for LGBT Homeless & at-risk youth (ages 14-24)
-  that offers fun, educational, and resourceful activities on a regular basis.
-  At our signature dances, youth attendees would get an opportunity to escape
-  their day-to-day challenges while at the same time gaining access to services
-  available to them locally via our community partners & agencies (i.e.
-  transitional living, GED programs, emotional support, & other social
-  services).
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: The C.I.T.Y. x1 Youth Group
+organization_website: www.cityx1.org
 
 ---

@@ -1,59 +1,17 @@
 ---
+published: true
+organization_id: '2014160'
+year_submitted: 2014
+category: learn
+body_class: blueberry
 project_id: '4102116'
 title: Lab Equipment Access for LA Science Teachers
 project_summary: >-
   We want to empower teachers to increase student engagement by lending teachers
   our equipment and helping them to use their own equipment.
-category: learn
-organization_id: '2014160'
-year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21591%252Fdisplay%252Fless.png=c570x385
 project_video: ''
-Which area(s) of LA does your project benefit? Other (elaborate): >-
-  We want to visit science teachers at fifteen or more different Title I schools
-  in Los Angeles. We want to do three things for or with them during these
-  visits:
-   
-   1. We will find out which science lessons they currently run without hands-on experiences due only to a lack of equipment and technical support.
-   
-   2. We will schedule the loan (delivery or pickup and return) of the necessary equipment items and technical support directly from our organization, if we have the equipment; if not, we will find feasible ways to obtain said equipment either by us for loan, or by the teacher to own.
-   
-   3. If the teacher has a storage space on campus that houses old science equipment that may be unknown or in states of disrepair, then we will identify and repair those items and show the teacher how to use them.
-What is your idea/project in more detail?: >-
-  All over the country, disadvantaged kids sit through (or choose not to sit
-  through) science classes where the major activities are pencil-pushing and
-  page-turning. Our project will change this for over 1,500 students this year
-  in Los Angeles. Next year, those same science teachers will continue to borrow
-  our equipment; they will no longer need as much technical support, so even
-  without funding we could manage to maintain the difference. 
-   
-   This means that one year of funding can bring hands-on lab experiences on a regular basis to over 1,500 new students every year. Kids will grow up learning science by doing, instead of only via the more passive, bookish routes. 
-   
-   Some of these kids will choose to pursue careers in science due to interests sparked by those teachers (our collaborators). LA will see a new generation of adults who have more awareness of science and the scientific method. Future generations will grow up with parents who foster an interest in science. Some of those who decided on careers in science will bring jobs in science back to LA, finding that LA has become a hotbed of science knowledge and technical skills. The market for informal learning opportunities will grow here, for the following generations. Innovation and invention will grow, solving problems using new technologies here. The low-income workforce will be replaced gradually by a high-income, high-tech one, mostly because of the hands-on science experiences that kids have had at school. The tech sector will keep on giving back to those schools, and those teachers will be accoladed and honored. LA will end up being the best place to learn.
-What will you do to implement this idea/project?: >-
-  Our project will benefit students at fifteen or more Title I LA public
-  schools; thus, the specific LA population that will benefit from our work is
-  the LA population of lowest economic means.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
-  Without a budget, we have managed to work with five teachers at five different
-  schools on a very limited basis over the past three years. Four of these five
-  are confirmed collaborators (one of the five will move to a more well-equipped
-  school where she may no longer require our services). This grant would empower
-  us to increase our impact with our confirmed collaborators into greater
-  significance for their students. The grant would also allow us increase the
-  number of our collaborators by triple or more.
-   
-   Each collaborator brings two things to our project: first, each brings their own influence and responsibility over the science education of over one hundred students annually; second, each brings their own expertise and energy in hands-on science education, which we can share with other collaborators.
-   
-   This is an annotated list of three critical factors to our collaboration.
-   1. The collaborator's personal professional interest and commitment to working with us: hands-on science activities are not necessarily part of a teacher's job obligations, and there is often extra time and effort involved up front; we can therefore only work with teachers who have a strong interest in engaging their students in this way.
-   2. The collaborator's particular needs: we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.
-   3. The collaborator's accessibility: we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.
-Whom will your project benefit? Please be specific.: ''
-empty_column_1: ''
-maker_image_id: '21591'
-maker_image_file_name: less.png
 project_areas:
   - CENTRAL LA
   - EAST LA
@@ -61,8 +19,8 @@ project_areas:
   - SFV
   - WESTSIDE
 maker_answers:
-  about_you: 'Los Angeles, CA'
   org_name: Learning Equipment Supply Service
+  collaboration: "Without a budget, we have managed to work with five teachers at five different schools on a very limited basis over the past three years.  Four of these five are confirmed collaborators (one of the five will move to a more well-equipped school where she may no longer require our services).  This grant would empower us to increase our impact with our confirmed collaborators into greater significance for their students.  The grant would also allow us increase the number of our collaborators by triple or more.\r\n\r\nEach collaborator brings two things to our project:  first, each brings their own influence and responsibility over the science education of over one hundred students annually; second, each brings their own expertise and energy in hands-on science education, which we can share with other collaborators.\r\n\r\nThis is an annotated list of three critical factors to our collaboration.\r\n1.  The collaborator's personal professional interest and commitment to working with us:  hands-on science activities are not necessarily part of a teacher's job obligations, and there is often extra time and effort involved up front; we can therefore only work with teachers who have a strong interest in engaging their students in this way.\r\n2.  The collaborator's particular needs:  we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.\r\n3.  The collaborator's accessibility:  we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.   \r\n"
   org_website: learnmorewithless.org
   org_twitter: '@learnmorewithus'
   org_facebook: www.facebook.com/learningequipment
@@ -105,7 +63,7 @@ maker_answers:
     Our project will benefit students at fifteen or more Title I LA public
     schools; thus, the specific LA population that will benefit from our work is
     the LA population of lowest economic means.
-  collaboration: "Without a budget, we have managed to work with five teachers at five different schools on a very limited basis over the past three years.  Four of these five are confirmed collaborators (one of the five will move to a more well-equipped school where she may no longer require our services).  This grant would empower us to increase our impact with our confirmed collaborators into greater significance for their students.  The grant would also allow us increase the number of our collaborators by triple or more.\r\n\r\nEach collaborator brings two things to our project:  first, each brings their own influence and responsibility over the science education of over one hundred students annually; second, each brings their own expertise and energy in hands-on science education, which we can share with other collaborators.\r\n\r\nThis is an annotated list of three critical factors to our collaboration.\r\n1.  The collaborator's personal professional interest and commitment to working with us:  hands-on science activities are not necessarily part of a teacher's job obligations, and there is often extra time and effort involved up front; we can therefore only work with teachers who have a strong interest in engaging their students in this way.\r\n2.  The collaborator's particular needs:  we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.\r\n3.  The collaborator's accessibility:  we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.   \r\n"
+  about_you: 'Los Angeles, CA'
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '0'
@@ -119,7 +77,7 @@ maker_answers:
   metrics_learn_safety: '0'
   metrics_learn_other: '0'
   metrics_learn_blank: ''
-  impact_metrics: "Regarding the student education pipeline, the relationship between the hands-on science lab activities and student achievement in STEM subjects has been established in the research literature.   We work to increase the frequency and quality of our collaborators' hands-on science lab activities; the resultant gains in science achievement as well as in English and math proficiency are simply natural results of those hands-on experiences.\r\n\r\nBerkham, Lee, and Smerdon, in \"Gender and Science Learning Early in High School: Subject Matter and Laboratory Experiences\" (Am Educ Res J, June 20, 1997 vol. 34, no. 2, pp. 297-331), used longitudinal study data and found that the frequency of hands-on lab opportunities in eighth grade and in high school tended to generate higher science achievement in students, especially in girls.\r\n\r\nAmaral, Garrison, and Klentchy, in \"Helping English Learners Increase Achievement Through Inquiry-Based Science Instruction\" (BRJ: J. Nat'l Assoc. for Bilingual Educ., vol.26, no.2, 2002, pp.213-239), found via a four-year study that elementary school English language learners' gains in both math and English increased with number of years of participation in the district's hands-on science kit activities program (0 to 4 years).  This was in southern California, so the factors such as demography are likely to have been similar to those factors at play in Los Angeles.\r\n\r\nBecause of studies such as these, and also by some common sense, it's obvious that giving teachers access to science lab equipment for their students to use is very likely to improve achievement in science, English and math for many or most of those teachers' students.\r\n"
+  resources_network: '0'
   best_place_to_connect: '0'
   best_place_to_create: '1'
   best_place_to_play: '1'
@@ -138,324 +96,50 @@ maker_answers:
   resources_education: '0'
   resources_technical: '0'
   resources_communityoutreach: '0'
-  resources_network: '0'
   resources_research: '0'
-maker_answers_list:
-  - name: about_you
-    label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
-    answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: Learning Equipment Supply Service
-  - name: org_website
-    label: Organization website
-    explanation: '(Example: http://www.LA2050.org)'
-    answer: learnmorewithless.org
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: '@learnmorewithus'
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: www.facebook.com/learningequipment
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: ''
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: '2265 Westwood Blvd #5'
-  - name: org_ein
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '462591635'
-  - name: org_nonprofit
-    label: Nonprofit organization
-    explanation: ''
-    answer: '1'
-  - name: org_forprofit
-    label: For-profit organization
-    explanation: ''
-    answer: '0'
-  - name: org_government
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '1'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '0'
-  - name: describe_organization
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      We collect discarded lab equipment from schools and industrial facilities
-      and re-purpose those items for educational use.
-  - name: one_sentence_project
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      We want to empower teachers to increase student engagement by lending
-      teachers our equipment and helping them to use their own equipment.
-  - name: describe_idea
-    label: ''
-    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example:\_'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
-    answer: >-
-      Science teachers with unknown equipment in storage: @learnmorewithus can
-      help you use it!  No equipment at all? Borrow ours!
-  - name: all_county
-    label: Yes (benefits all of LA County)
-    explanation: ''
-    answer: '0'
-  - name: region_county
-    label: Yes (benefits a region of LA County)
-    explanation: ''
-    answer: '0'
-  - name: population_county
-    label: Yes (benefits a population of LA County)
-    explanation: ''
-    answer: '1'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '1'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '1'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '0'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '1'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '0'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: "Many science teachers have the interest, energy and ability to run more hands-on lab experiences with their students, but many just lack the necessary equipment and technical support.  \r\n\r\nIn many cases, we have the equipment that these teachers need, and we can lend it to them for free.   We also have the knowledge of how to use these equipment items properly, and even how to find suitable lesson plans for these equipment items.\r\n"
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "We want to visit science teachers at fifteen or more different Title I schools in Los Angeles.  We want to do three things for or with them during these visits:\r\n\r\n1.  We will find out which science lessons they currently run without hands-on experiences due only to a lack of equipment and technical support.\r\n\r\n2.  We will schedule the loan (delivery or pickup and return) of the necessary equipment items and technical support directly from our organization, if we have the equipment; if not, we will find feasible ways to obtain said equipment either by us for loan, or by the teacher to own.\r\n\r\n3.  If the teacher has a storage space on campus that houses old science equipment that may be unknown or in states of disrepair, then  we will identify and repair those items and show the teacher how to use them.\r\n"
-  - name: impact_learn
-    label: ''
-    explanation: ''
-    answer: "All over the country, disadvantaged kids sit through (or choose not to sit through) science classes where the major activities are pencil-pushing and page-turning.  Our project will change this for over 1,500 students this year in Los Angeles.  Next year, those same science teachers will continue to borrow our equipment; they will no longer need as much technical support, so even without funding we could manage to maintain the difference.  \r\n\r\nThis means that one year of funding can bring hands-on lab experiences on a regular basis to over 1,500 new students every year.  Kids will grow up learning science by doing, instead of only via the more passive, bookish routes. \r\n\r\nSome of these kids will choose to pursue careers in science due to interests sparked by those teachers (our collaborators).  LA will see a new generation of adults who have more awareness of science and the scientific method.  Future generations will grow up with parents who foster an interest in science.  Some of those who decided on careers in science will bring jobs in science back to LA, finding that LA has become a hotbed of science knowledge and technical skills.  The market for informal learning opportunities will grow here, for the following generations.  Innovation and invention will grow, solving problems using new technologies here.  The low-income workforce will be replaced gradually by a high-income, high-tech one, mostly because of the hands-on science experiences that kids have had at school.  The tech sector will keep on giving back to those schools, and those teachers will be accoladed and honored.   LA will end up being the best place to learn."
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: >-
-      Our project will benefit students at fifteen or more Title I LA public
-      schools; thus, the specific LA population that will benefit from our work
-      is the LA population of lowest economic means.
-  - name: collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "Without a budget, we have managed to work with five teachers at five different schools on a very limited basis over the past three years.  Four of these five are confirmed collaborators (one of the five will move to a more well-equipped school where she may no longer require our services).  This grant would empower us to increase our impact with our confirmed collaborators into greater significance for their students.  The grant would also allow us increase the number of our collaborators by triple or more.\r\n\r\nEach collaborator brings two things to our project:  first, each brings their own influence and responsibility over the science education of over one hundred students annually; second, each brings their own expertise and energy in hands-on science education, which we can share with other collaborators.\r\n\r\nThis is an annotated list of three critical factors to our collaboration.\r\n1.  The collaborator's personal professional interest and commitment to working with us:  hands-on science activities are not necessarily part of a teacher's job obligations, and there is often extra time and effort involved up front; we can therefore only work with teachers who have a strong interest in engaging their students in this way.\r\n2.  The collaborator's particular needs:  we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.\r\n3.  The collaborator's accessibility:  we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.   \r\n"
-  - name: metrics_learn_earlyeducation
-    label: Percentage of children enrolled in early education programs
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_communitycollege
-    label: >-
-      Percentage of community college students completing a certificate, degree,
-      or transfer-related program in six years
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_unemployment
-    label: Youth unemployment and underemployment
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_graduationrates
-    label: District-wide graduation rates
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_proficiency
-    label: HS student proficiency in English & Language Arts and Math
-    explanation: ''
-    answer: '1'
-  - name: metrics_learn_api
-    label: Academic Performance Index scores
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_college
-    label: College matriculation rates
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_pipeline
-    label: >-
-      Student education pipeline (an integrated network of pre-schools, K-12
-      institutions, and higher education systems that prepares students for
-      seamless transitions between high school, higher education institutions,
-      and the workforce) (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_learn_suspension
-    label: Suspension and expulsion rates (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_truancy
-    label: Truancy rates in elementary and middle school (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_safety
-    label: >-
-      Students perceived sense of safety at and on the way to school (Dream
-      Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_other
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: metrics_learn_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "Regarding the student education pipeline, the relationship between the hands-on science lab activities and student achievement in STEM subjects has been established in the research literature.   We work to increase the frequency and quality of our collaborators' hands-on science lab activities; the resultant gains in science achievement as well as in English and math proficiency are simply natural results of those hands-on experiences.\r\n\r\nBerkham, Lee, and Smerdon, in \"Gender and Science Learning Early in High School: Subject Matter and Laboratory Experiences\" (Am Educ Res J, June 20, 1997 vol. 34, no. 2, pp. 297-331), used longitudinal study data and found that the frequency of hands-on lab opportunities in eighth grade and in high school tended to generate higher science achievement in students, especially in girls.\r\n\r\nAmaral, Garrison, and Klentchy, in \"Helping English Learners Increase Achievement Through Inquiry-Based Science Instruction\" (BRJ: J. Nat'l Assoc. for Bilingual Educ., vol.26, no.2, 2002, pp.213-239), found via a four-year study that elementary school English language learners' gains in both math and English increased with number of years of participation in the district's hands-on science kit activities program (0 to 4 years).  This was in southern California, so the factors such as demography are likely to have been similar to those factors at play in Los Angeles.\r\n\r\nBecause of studies such as these, and also by some common sense, it's obvious that giving teachers access to science lab equipment for their students to use is very likely to improve achievement in science, English and math for many or most of those teachers' students.\r\n"
-  - name: best_place_to_connect
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '0'
-  - name: best_place_to_create
-    label: LA is the best place to CREATE
-    explanation: ''
-    answer: '1'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '1'
-  - name: healthiest_place_to_live
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '0'
-  - name: evaluate
-    label: ''
-    explanation: ''
-    answer: "We have discussed evaluation with Actionable Research + Evaluation. Together, we will conduct three types of surveys:  a teacher survey, a student survey, and an economic survey.  The surveys would inform several metrics including quantity of saved teacher time, quantity and quality of change in student interest in science and in science careers, and quantity of saved school budget dollars. \r\n\r\nThe surveys would be designed to collect formative data that could inform the our team with ways in which to improve our model, and soft summative data that could inform funders of the perceived effect of the our intervention on teachers' work.  \r\n\r\nThe survey with teachers will help us to assess the degree to which our intervention is successful in equipping teachers to more quickly and effectively teach science.  We'll ask teachers to 1) assess our technical support and/or, 2) assess the perceived effect of having immediate access to the our lab equipment.  The survey would be conducted shortly after a lending period and would include questions related, but not limited, to:\r\ni.\tFor which lessons would they not have had equipment, had they not had access to our equipment?  \r\nii.\tHow important was equipment for those lessons, specifically?  \r\niii.\tHow could we improve our teacher support offerings?\r\niv.\tHow much time and energy did we save these teachers by offering them consulting services / support regarding their own  equipment and ways in which to incorporate the equipment into their curriculum?  \r\nvi.\tHow much more likely are these teachers to use our equipment than equipment that they would have initially purchased, merely because of the guidance we offered in selecting the equipment and incorporating the equipment into the curriculum?  \r\n\r\nThe survey with students will help us to assess the students’ perceptions of the science instruction that we supported.  These surveys would be administered after multiple instances of our support, and would be designed to assess students’ retrospective and current interest, knowledge, and skills in science generally, and material covered during our work specifically.  The survey would be conducted shortly after our intervention period.  \r\n\r\nThe economic assessment would estimate the funds saved from the schools’ operating budgets by receiving lent equipment and support, rather than purchasing the equipment in advance and without our support.  We would include administrative, training, and shipping costs.\r\n"
-  - name: two_lessons
-    label: ''
-    explanation: ''
-    answer: "Our first lesson was in teachers' needs.  We began working in this field in 2012, and we have found that most teachers don't need equipment loans alone.  Instead, they need technical support, meaning they need someone to show them how to use the equipment and they need someone to repair and maintain that equipment.  Many teachers have plenty of lab equipment from previous administrations, but are simply unaware of their wealth:  the equipment is often old, neglected, unrecognized, or in disrepair.  By hours spent, we have found that half of our time has been spent in helping teachers to identify, inventory and repair items in their existing lab equipment collections.  \r\n \r\nOur second lesson was in specialization.  We started with a vague idea of lending lab equipment, and we were open to branching out to anything to do with science labs.  Since then, we have found that others are better-equipped and better able to run professional development workshops for science teachers.  Free technical workshops abound, and some of them even offer teachers stipends or take them on cool field trips; we connected one of our participating teachers last year to a summer data-collection trip to the Arctic Ocean.  When we connect with teachers now, we know that our best niche service is just  lab equipment loans and support.  We don't try to set up tutoring programs, PD workshops, afterschool sessions, low-cost lab equipment sales, or any other helpful activities.  Those examples are all very valuable to our goal of increasing student engagement in science, according to the research literature, and we make efforts to connect people who offer them with teachers who need them whenever we can, but those are all things that we cannot specialize in ourselves.  We are really set up for these two little things that we do really well:  lab equipment lending and support.\r\n"
-  - name: achievable_goal
-    label: ''
-    explanation: ''
-    answer: "Our operation is already running on a very small scale.  We serve just five teachers at five schools, one or more times per year.  We have a team that works together, and we have had success recruiting volunteers for our mission too.  Funding would allow us to scale up into significance.\r\n\r\nWe also have partners that will help us to scale up quickly.  Here are three valuable partnerships in particular.\r\n1.  Our five current participating teachers have their own science teacher networks, such as the Los Angeles Area Physics Teacher Google group, where we can find more teachers who may be interested in working with us.  \r\n2.  We already have an evaluator, Actionable Research + Evaluation, who is familiar with our mission and is ready to design some of our evaluations to be formative in order to help us to improve our model even as we roll it out.  \r\n3.  Our board includes a Los Angeles teachers' union representative who can help us to find interested teachers and who may also be able to help us to navigate the school district's red tape in case we need to cross some of that.\r\n"
-  - name: major_challenges
-    label: ''
-    explanation: ''
-    answer: "One major challenge will be finding the teachers at times when they are available and ready to work with us.  Our main strategy has been to visit teachers during their preparatory period or during lunch; we've found that many teachers are remarkably busy with students after school and some are needed at home immediately after school.  Glen, the project founder, is the most knowledgeable person we've got on science lab equipment and its care / use / repair.  Therefore, another strategy that we may need to employ would be to hire and to train an advanced undergraduate work-study student through our fiscal sponsor's relationship with local universities.  We would have to bring that student rapidly up to speed on science lab activities, with the goal of sending that person to meet with new teacher collaborators independently yet productively.  \r\n\r\nOur second major challenge will be keeping the initial excitement and momentum in our team's culture.  Heavy LA traffic and other delaying factors will accumulate to reduce the high morale that is necessary for our mission.  Many of our teacher collaborators will be struggling under the low morale of their own school cultures.  Our strategy will be to seek out teachers who run classrooms where high expectations and high morale are endemic, and to start by seeking out schools run by principals who behave with an emphasis on maintaining a deliberately positive school culture year-round.  We will find such schools and such teachers mostly by word of mouth, from other teachers, starting with our five existing teacher-collaborators.\r\n"
-  - name: competition
-    label: ''
-    explanation: ''
-    answer: "Two similar groups operate in Los Angeles, but neither competes with our project:  MSL and ABE.\r\n\r\nMobile Science Labs (MSL) is a private, profitable business in Los Angeles that offers science equipment loans and science teaching support to schools in Los Angeles.  MSL brings loaned equipment in a van with a trained science professional to client sites; at the end of the day, the equipment leaves in the van with the professional.   MSL currently serves two LA schools with chemistry and physics labs.  MSL specializes in high school chemistry and physics labs, and also offers high school biology labs.  Lists of the MSL lab curricula are displayed on the website at www.msl-la.com.  MSL charges about $150/hour for these services.\r\n\r\nOur project is different in three ways.  First, our equipment is unattached to our personnel:  the teacher may pick up the equipment or we may deliver it or if funding permits we may ship it.  The teacher keeps our equipment for at least two weeks; most of our loan periods are about one month long.  This long loan period allows the teacher flexibility in lesson scheduling and also makes inquiry-based activities possible, as the latter can be unpredictable by design.  \r\n\r\nSecond, our project does not specialize in high school science and has no lists of particular lab curricula for teachers to implement.  We want to assist science teachers at multiple levels, including high school, middle school (especially eighth grade, as mentioned in the Berkham et al. study above) and elementary school (as mentioned in the Amaral et al. study above).  We want to customize our services to each teacher, for seamless integration of hands-on experiences with their existing lessons.  When we meet high school teachers who seem to need a service more like MSL's pre-packaged labs, we will certainly refer them to MSL.\r\n\r\nThird, our project is non-profit and does not charge an hourly fee.  We are considering charging an annual fee of $40.00 per participating teacher in order to defray our recurring costs over the long term, but we have not made a decision on this yet.  \r\n\r\nThe Amgen Biotechnology Experience (ABE) is a lab equipment lending program that operates nationwide.  This free program trains teachers via an intensive, 4-day workshop on a particular suite of advanced biology genetic engineering experiments.  Our project is different because we do not hold professional development workshops and we do not specialize in one suite of experiments.\r\n"
-  - name: cost
-    label: ''
-    explanation: ''
-    answer: "This will cost about $100,000.\r\n\r\nOur current model is designed to be scalable up to $200,000, but there is no need to scale up to full capacity.  We can consider scaling up further when funding opportunities materialize.\r\n"
-  - name: budget
-    label: ''
-    explanation: ''
-    answer: "Salary for Glen Chung, chief lab technician 100%:  $50,000/year\r\nWages for Ilse Valerio, lab technician 25% @ $15/hour:  $7,800/year\r\nWages for Neyda Muyuz, lab technician 25% @ $15/hour:  $7,800/year\r\nWages for Ding Huang, lab technician 25% @ $15/hour:  $7,800/year\r\nWages for advanced undergraduate work-study lab technician, 25% @ $15/hour:  $7,800/year\r\n\r\nInsurance for project:  $1,500/year\r\n\r\nTransportation and shipping for project:  $1,054/year\r\n\r\n400 sq.ft lab space for testing, storing, maintaining equipment:  $4,146\r\nSecurity alarm for space:  $444/year\r\nPublic Storage locker for storing lab equipment:  $1656/year\r\n\r\nEvaluation Fee (Actionable Research + Evaluation):  $10,000/year\r\n\r\n\r\n\r\nSalary for Glen Chung, chief lab technician 100%:  $50,000/year\r\nWages for Ilse Valerio, lab technician 25% @ $15/hour:  $7,800/year\r\nWages for Neyda Muyuz, lab technician 25% @ $15/hour:  $7,800/year\r\nWages for Ding Huang, lab technician 25% @ $15/hour:  $7,800/year\r\nWages for advanced undergraduate work-study lab technician, 25% @ $15/hour:  $7,800/year\r\n\r\nInsurance for project:  $1,500/year\r\n\r\nTransportation and shipping for project:  $479/year\r\n\r\n400 sq.ft lab space for testing, storing, maintaining equipment:  $4,146\r\nSecurity alarm for space:  $444/year\r\nPublic Storage locker for storing lab equipment:  $1656/year\r\n\r\nEvaluation Fee (Actionable Research + Evaluation):  $10,000/year\r\nAccountant's Fee for annual Form 990 preparation (Intellichoice Accounting):  $575\r\n"
-  - name: resources_money
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_staff
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_publicity
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_infrastructure
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_education
-    label: Education/training
-    explanation: ''
-    answer: '0'
-  - name: resources_technical
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_communityoutreach
-    label: Community outreach
-    explanation: ''
-    answer: '0'
-  - name: resources_network
-    label: Network/relationship support
-    explanation: ''
-    answer: '0'
-  - name: resources_research
-    label: Quality improvement research
-    explanation: ''
-    answer: '0'
-body_class: blueberry
-published: true
+  impact_metrics: "Regarding the student education pipeline, the relationship between the hands-on science lab activities and student achievement in STEM subjects has been established in the research literature.   We work to increase the frequency and quality of our collaborators' hands-on science lab activities; the resultant gains in science achievement as well as in English and math proficiency are simply natural results of those hands-on experiences.\r\n\r\nBerkham, Lee, and Smerdon, in \"Gender and Science Learning Early in High School: Subject Matter and Laboratory Experiences\" (Am Educ Res J, June 20, 1997 vol. 34, no. 2, pp. 297-331), used longitudinal study data and found that the frequency of hands-on lab opportunities in eighth grade and in high school tended to generate higher science achievement in students, especially in girls.\r\n\r\nAmaral, Garrison, and Klentchy, in \"Helping English Learners Increase Achievement Through Inquiry-Based Science Instruction\" (BRJ: J. Nat'l Assoc. for Bilingual Educ., vol.26, no.2, 2002, pp.213-239), found via a four-year study that elementary school English language learners' gains in both math and English increased with number of years of participation in the district's hands-on science kit activities program (0 to 4 years).  This was in southern California, so the factors such as demography are likely to have been similar to those factors at play in Los Angeles.\r\n\r\nBecause of studies such as these, and also by some common sense, it's obvious that giving teachers access to science lab equipment for their students to use is very likely to improve achievement in science, English and math for many or most of those teachers' students.\r\n"
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  We want to visit science teachers at fifteen or more different Title I schools
+  in Los Angeles. We want to do three things for or with them during these
+  visits:
+   
+   1. We will find out which science lessons they currently run without hands-on experiences due only to a lack of equipment and technical support.
+   
+   2. We will schedule the loan (delivery or pickup and return) of the necessary equipment items and technical support directly from our organization, if we have the equipment; if not, we will find feasible ways to obtain said equipment either by us for loan, or by the teacher to own.
+   
+   3. If the teacher has a storage space on campus that houses old science equipment that may be unknown or in states of disrepair, then we will identify and repair those items and show the teacher how to use them.
+What is your idea/project in more detail?: >-
+  All over the country, disadvantaged kids sit through (or choose not to sit
+  through) science classes where the major activities are pencil-pushing and
+  page-turning. Our project will change this for over 1,500 students this year
+  in Los Angeles. Next year, those same science teachers will continue to borrow
+  our equipment; they will no longer need as much technical support, so even
+  without funding we could manage to maintain the difference. 
+   
+   This means that one year of funding can bring hands-on lab experiences on a regular basis to over 1,500 new students every year. Kids will grow up learning science by doing, instead of only via the more passive, bookish routes. 
+   
+   Some of these kids will choose to pursue careers in science due to interests sparked by those teachers (our collaborators). LA will see a new generation of adults who have more awareness of science and the scientific method. Future generations will grow up with parents who foster an interest in science. Some of those who decided on careers in science will bring jobs in science back to LA, finding that LA has become a hotbed of science knowledge and technical skills. The market for informal learning opportunities will grow here, for the following generations. Innovation and invention will grow, solving problems using new technologies here. The low-income workforce will be replaced gradually by a high-income, high-tech one, mostly because of the hands-on science experiences that kids have had at school. The tech sector will keep on giving back to those schools, and those teachers will be accoladed and honored. LA will end up being the best place to learn.
+What will you do to implement this idea/project?: >-
+  Our project will benefit students at fifteen or more Title I LA public
+  schools; thus, the specific LA population that will benefit from our work is
+  the LA population of lowest economic means.
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+  Without a budget, we have managed to work with five teachers at five different
+  schools on a very limited basis over the past three years. Four of these five
+  are confirmed collaborators (one of the five will move to a more well-equipped
+  school where she may no longer require our services). This grant would empower
+  us to increase our impact with our confirmed collaborators into greater
+  significance for their students. The grant would also allow us increase the
+  number of our collaborators by triple or more.
+   
+   Each collaborator brings two things to our project: first, each brings their own influence and responsibility over the science education of over one hundred students annually; second, each brings their own expertise and energy in hands-on science education, which we can share with other collaborators.
+   
+   This is an annotated list of three critical factors to our collaboration.
+   1. The collaborator's personal professional interest and commitment to working with us: hands-on science activities are not necessarily part of a teacher's job obligations, and there is often extra time and effort involved up front; we can therefore only work with teachers who have a strong interest in engaging their students in this way.
+   2. The collaborator's particular needs: we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.
+   3. The collaborator's accessibility: we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.
+Whom will your project benefit? Please be specific.: ''
+maker_image_id: '21591'
+maker_image_file_name: less.png
 
 ---

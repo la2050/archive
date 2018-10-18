@@ -1,38 +1,22 @@
 ---
+published: true
 organization_id: '2016047'
 year_submitted: 2016
-organization_name: College Bridge
-organization_website: www.college-bridge.org
-ein: ''
-project_image_2: 4142800165741-team91.png
+category: learn
+body_class: blueberry
 project_id: '6102046'
+challenge_url: >-
+  https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
 title: 'Future Focus: College and Career Pathways for LA County Students'
-organization_name_2: College Bridge
-organization_activity: >-
-  College Bridge's mission is to increase college access and success for
-  underrepresented students in Los Angeles County.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
-project_video: 'https://www.youtube.com/embed/EVn09zI9fe4?rel=0&amp;showinfo=0'
 project_summary: >-
   The Future Focus program provides all students and families - regardless of
   income – personalized support to transition from high school to college and
   career.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
+project_video: 'https://www.youtube.com/embed/EVn09zI9fe4?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: College Bridge and YMCA of Metropolitan Los Angeles
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   The success of Future Focus will be defined using the following metrics:
 
@@ -69,6 +53,31 @@ project_description: >-
 project_impact: >-
   ["College matriculation rates","Student education pipeline","Youth
   unemployment and underemployment"]
+project_proposal_impact:
+  - College matriculation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  Personalized college and career planning should not be something only
+  accessible to the wealthiest Angelenos. In California’s public schools,
+  college counselors on average can only spend 38 minutes once a year per
+  student advising them on this critical process. The Future Focus program
+  ameliorates this situation by providing group workshops and individual
+  mentoring to students and their families to ensure that everyone is given
+  equitable support to pursue their dreams beyond high school.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Future Focus will make LA the best place to LEARN by improving the student
   educational pipeline, increasing college matriculation rates, and decreasing
@@ -120,23 +129,7 @@ project_proposal_best_place: >-
   their resume, and plan for future employment. All of their research and
   experiences are organized in their portfolio assisting them in their
   transition into college or career.
-challenge_url: >-
-  https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
-empty_column_1: ''
-project_proposal_description: >-
-  Personalized college and career planning should not be something only
-  accessible to the wealthiest Angelenos. In California’s public schools,
-  college counselors on average can only spend 38 minutes once a year per
-  student advising them on this critical process. The Future Focus program
-  ameliorates this situation by providing group workshops and individual
-  mentoring to students and their families to ensure that everyone is given
-  equitable support to pursue their dreams beyond high school.
-project_proposal_impact:
-  - College matriculation rates
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: College Bridge
+organization_website: www.college-bridge.org
 
 ---

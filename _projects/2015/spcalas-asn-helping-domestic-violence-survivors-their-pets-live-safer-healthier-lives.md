@@ -1,11 +1,13 @@
 ---
+published: true
+organization_id: '2015190'
+year_submitted: 2015
+category: live
+body_class: lime
 project_id: '5102279'
 title: >-
   spcaLAs ASN: Helping domestic violence survivors & their pets live safer
   healthier lives
-organization_id: '2015190'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   Abusers use everything at their disposal to terrorize and control those they
   batter – including the family pet, often threatening to harm or kill an animal
@@ -14,8 +16,141 @@ project_summary: >-
   free-of-charge, so that they may leave a dangerous situation without fear for
   their animals’ lives.  spcaLA wants to expand ASN and break the cycle of
   violence for more people and their pets.
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23662%252Fdisplay%252FCarrie_15-00963.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+maker_answers:
+  'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Implement and track policy: '0'
+  Organization(s) name(s): spcaLA
+  Organization(s) mailing address(es): '5026 W Jefferson Blvd, Los Angeles, CA 90016'
+  Organization(s) website(s): www.spcaLA.com
+  Organization(s) twitter handle(s): www.twitter.com/spcaLA
+  Organization(s) facebook handle(s): www.facebook.com/spcaLA
+  Organization(s) instagram handle(s): www.instagram.com/spcaLA
+  Please share the direct link for voters to sign up for your newsletter(s): >-
+    http://spcala.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&SURVEY_ID=1040
+  EIN (for each organization): 95-1738153
+  'Describe your organization(s): Non-profit': '1'
+  'Describe your organization(s): For-profit': '0'
+  'Describe your organization(s): Government': '0'
+  'Describe your organization(s): Other': '0'
+  'Describe your organization(s): Specifics': ''
+  'In one sentence, please describe what your organization does.': >-
+    Society for the Prevention of Cruelty to Animals Los Angeles (spcaLA) is
+    dedicated to the prevention of cruelty to animals through Education, Law
+    Enforcement, Intervention, and Advocacy.
+  'In one to three sentences, please describe your proposal.': >-
+    Abusers use everything at their disposal to terrorize and control those they
+    batter – including the family pet, often threatening to harm or kill an
+    animal if the domestic violence survivor dares leave. spcaLA’s Animal Safety
+    Network (ASN)™ provides a safe refuge for the domestic violence survivors’
+    pets, free-of-charge, so that they may leave a dangerous situation without
+    fear for their animals’ lives.  spcaLA wants to expand ASN and break the
+    cycle of violence for more people and their pets.
+  Please write a sample tweet to describe your submission.: 'We will keep your pets safe, so you can be too! #AnimalSafetyNet #spcaLA'
+  LA is the best place to CREATE: '0'
+  LA is the best place to CONNECT: '0'
+  LA is the best place to PLAY: '1'
+  LA is the best place to LEARN: '1'
+  Where will you be working? Central LA: '1'
+  Where will you be working? East LA: '1'
+  Where will you be working? San Gabriel Valley: '1'
+  Where will you be working? San Fernando Valley: '1'
+  Where will you be working? South LA: '1'
+  Where will you be working? Westside: '1'
+  Where will you be working? South Bay: '1'
+  Where will you be working? Antelope Valley: '1'
+  Where will you be working? County of Los Angeles: '1'
+  Where will you be working? City of Los Angeles: '1'
+  Where will you be working? LAUSD: '0'
+  Where will you be working? Other: '0'
+  Where will you be working? Specifics: ''
+  How do you plan to use these resources to make change? Conduct research: '0'
+  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
+  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  How did you hear about this challenge?: past applicant
+  How do you plan to use these resources to make change? Other: '0'
+  How do you plan to use these resources to make change? Specifics: ''
+  How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare access: '0'
+  How will your proposal improve the following “Live” metrics? Exposure to air toxins: '0'
+  How will your proposal improve the following “Live” metrics? Number of households below the self-sufficiency index: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of imported water: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing affordability: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of homelessness: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Walk/bike/transit score: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and miles of polluted waterways: '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of mental illness: '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of adverse childhood experiences (Dream Metric): '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of LA communities that are resilient (Dream Metric): '1'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of residents receiving coordinated healthcare services (Dream Metric): '0'
+  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of tree canopy cover (Dream Metric): '0'
+  'DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE: ': "Over 3 million incidents of domestic violence occur annually in the U.S. Many homes where spouses and children are neglected or abused are often shared by defenseless pets. All too often, these pets become victims. Relishing in their power, abusers beat, torture and kill beloved animals for the sake of hurting, silencing or preventing their partners from leaving. \r\nLeaving can be difficult. Boarding services are expensive and most domestic violence shelters cannot house animals. Many victims face a gut wrenching decision. Do they run for a shelter and leave their beloved pet behind? Or, do they stay and risk their lives to protect their pet? According to the National Coalition Against Domestic Violence, “between 25 and 40 percent of domestic violence victims will not leave a dangerous situation because they do not want to abandon their pets.”\r\nThis is where we help. Animal Safety Net (ASN)™ assists domestic violence survivors by offering free temporary housing for their pets, taking them out of harm’s way, and allowing survivors to relocate to a domestic violence shelter. While under our care, animals receive veterinary treatment, vaccinations and spay/neuter surgery. Families remain in contact with their pets through photos and updates until they are safely out of the shelter and reunited. \r\nDomestic violence, child abuse, and animal abuse are all linked.  Studies have found that domestic violence abusers who harm animals are twice as likely have also abused a child. These children suffer both physical and mental abuse – as the exposure to their beloved pet being hurt can have deeply adverse psychological effects. ASN helps stop this cycle of violence. This program empowers survivors to leave and seek care. Further, if animal abuse is suspected, spcaLA Humane Officers will investigate and work to prosecute the offenders.  \r\nAt its core, ASN gives domestic violence survivors peace of mind. The comfort in knowing their adored pet is protected and cared for helps survivors escape, persevere, and begin building a safer, healthier life for themselves and their family.\r\n"
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
+    - Network/relationship support
+  How do you plan to use these resources to make change?:
+    - Engage residents and stakeholders
+  Where will you be working?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South LA
+    - Westside
+    - South Bay
+    - Antelope Valley
+    - County of Los Angeles
+    - City of Los Angeles
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
+  How will your proposal improve the following “Live” metrics?:
+    - Rates of homelessness
+    - Rates of mental illness
+    - Prevalence of adverse childhood experiences (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "Our greatest challenge is limited funding. Unlike shelter pets, ASN animals do not quickly cycle out of our care. These animals are often housed for extended periods of time and frequently require routine medication, special diet, and help with behavioral issues.\r\nThese animals can also be challenging to place in foster homes. ASN clients often have two or more pets at home. Placing two animals – especially two large dogs – even without the medical and behavioral considerations often present with ASN pets, can be problematic.  \r\nTo house and care for these often “difficult” animals, we require a designated program facility, foster compensation, and above all, consistent funding.  As a nonprofit organization, we rely on public support to facilitate all of our programs, including ASN. Therefore, to combat limited funding and provide for these animals, we will continuously seek public donations and grant support.\r\n"
+  Please explain how you will evaluate your work.: "spcaLA wants to expand ASN to help more domestic violence survivors and their pets. We will evaluate our program by reviewing its development.  More specifically, we will assess:\r\n-\tASN foster parent database\r\n-\tprogram staff\r\n-\tfacility space \r\n-\tpartnerships and collaboration with domestic violence shelters and humane organizations\r\n-\t# of animal abusers prosecuted\r\n-\t# of animals and survivors we support\r\nSuccessful implementation of this grant will ultimately demonstrate that more families were helped because of our program’s expansion. \r\n"
+  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "spcaLA’s ASN program was the first of its kind in the country. We have taken clients from as far away as Florida for lack of local resources. And, while a handful of humane organizations offer similar programming and some DV shelters added limited onsite kenneling, it is not enough. \r\nThe sad reality is, many animals in a domestic violence situation have been harmed. Either abused, or made to live in a state of fear, they typically need more than a bed. They need veterinary care and behavior enrichment. They need to learn how to trust people again. They need the resources and expertise that can be provided by a humane agency, like spcaLA.\r\nspcaLA’s approach is unique in a number of ways, on the small, day-to-day scale, spcaLA offers:\r\n-\tTransportation to and from spcaLA facilities for ASN pets\r\n-\tSafe shelter including food, toys, treats and fresh bedding \r\n-\tVeterinary care, including spay/neuter, vaccinations, and routine care, as well as care for more in-depth issues\r\n-\tBehavior enrichment and a plan of care developed by spcaLA Animal Behavior & Training Department\r\n-\tFacilities for multiple pets and those with special medical or behavioral needs\r\n-\tspcaLA is the only nonprofit animal welfare agency in the city of Los Angeles that is also Law Enforcement.  If abusers turned their wrath toward the pets in our care, spcaLA Humane Officers will investigate and gather forensic evidence, so that animal cruelty charges can be brought against the offender.\r\nTo better accommodate the ever-growing demand for ASN services, spcaLA desires to increase these offerings by:\r\n-\tRecruiting and compensating foster parents specific to ASN (currently, spcaLA foster parents do not receive any financial compensation)\r\n-\tHiring additional staff to manage the program\r\n-\tRepurposing existing facilities to house ASN animals and/or paying for boarding facilities\r\nOn a larger scale, spcaLA seeks to make ASN replicable.  Like our award-winning violence-prevention program, Teaching Love & Compassion, spcaLA has developed a comprehensive manual for the ASN program. The manual offers humane agencies step-by-step instructions and guidance to operate the program in their communities.  As part of the LA2050 Challenge, spcaLA seeks to market the ASN manual to other humane agencies in Southern California, thereby developing a true network of support for domestic violence survivors and their pets.\r\n"
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Successfully expanding ASN involves the collaboration between domestic violence shelters, police officials, and social service agencies. To help survivors, they must know we’re here. These organizations help share our services to those who can use our support.  \r\nWhile our program involves teamwork, ASN will be managed and staffed solely by spcaLA. The entirety of the grant will go to the ASN program. \r\n"
+  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
+    $100,000 will play a substantial role in expanding the ASN program – a
+    service the LA community deeply needs. But, to continue the program
+    annually, ASN will require continuous funding. To cover these costs, spcaLA
+    will continue to fundraise and allot a program budget.  
+  'Please include a detailed budget of how you will use $100,000 to implement this project.': "LA2050 funding will be used to do the following.\r\n-\tHire an ASN coordinator, who will be responsible for foster parent support, recruitment, & retention, as well as managing the boarding facility, evaluating the program and working within the community to increase awareness of our services.\r\n-\tRepurpose an existing spcaLA facility to accommodate ASN pets during peak seasons (typically Oct-Feb) and/or pay for boarding of pets. Costs may include:\r\no\tstaffing (two full-time animal care attendants)\r\no\toperating costs for the facility\r\no\ttransportation (veterinarians, clients, clients)\r\no\tminor renovations/repairs\r\no\tboarding costs\r\n-\tProduce and market ASN materials to other humane agencies\r\n-\tProvide veterinary care, food, and shelter to animals in the program\r\nWe anticipate grant funds will be used as follows:\r\n•\t$10,000: Veterinary Services & Food\r\n•\t$2,500:   Transportation\r\n•\t$70,000: Staff Salary\r\n•\t$1,500:   Foster Compensation\r\n•\t$1,000:   Marketing \r\n•\t$15,000: Facility/Misc."
+  How do you plan to scale the success of your proposal?: "The success of our proposal will ultimately be measured by the number of animals and survivors we support, as well as whether or not we are successful in replicating the program. Regardless of how many foster parents we’ve acquired, staff hired, or facilities we’ve repurposed, what is fundamentally important, is the number of lives we’ve improved. The number of men, women, and children we help escape the reign of their abuser and seek refuge. The number of survivors we give hope and peace of mind knowing their cherished pet is in good hands. The number of families we reunite and keep intact. This is how we measure success. \r\n\r\nLast year, we helped 62 men, women, and children in 30 families by caring for their pets. A total of 32 dogs, 5 cats, 1 rabbit and 1 hamster were housed in safe, loving homes while their human families received much needed emotional support from domestic violence shelters across Los Angeles County. This year, we want to help more. \r\nIf expanding the ASN program helps save the lives of more people and pets and catches like wildfire – spreading to other humane organizations and communities - our project will be deemed successful. \r\n"
+areas_impacted: ''
+partners: ''
 Please specify below: ''
-category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
   Over 3 million incidents of domestic violence occur annually in the U.S. Many
   homes where spouses and children are neglected or abused are often shared by
@@ -104,552 +239,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Last year, we helped 62 men, women, and children in 30 families by caring for their pets. A total of 32 dogs, 5 cats, 1 rabbit and 1 hamster were housed in safe, loving homes while their human families received much needed emotional support from domestic violence shelters across Los Angeles County. This year, we want to help more. 
    If expanding the ASN program helps save the lives of more people and pets and catches like wildfire – spreading to other humane organizations and communities - our project will be deemed successful.
-year_submitted: 2015
 maker_image_id: '23662'
 maker_image_file_name: Carrie_15-00963.jpg
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23662%252Fdisplay%252FCarrie_15-00963.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-maker_answers:
-  How did you hear about this challenge?: past applicant
-  'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): spcaLA
-  Organization(s) mailing address(es): '5026 W Jefferson Blvd, Los Angeles, CA 90016'
-  Organization(s) website(s): www.spcaLA.com
-  Organization(s) twitter handle(s): www.twitter.com/spcaLA
-  Organization(s) facebook handle(s): www.facebook.com/spcaLA
-  Organization(s) instagram handle(s): www.instagram.com/spcaLA
-  Please share the direct link for voters to sign up for your newsletter(s): >-
-    http://spcala.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&SURVEY_ID=1040
-  EIN (for each organization): 95-1738153
-  'Describe your organization(s): Non-profit': '1'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
-  'In one sentence, please describe what your organization does.': >-
-    Society for the Prevention of Cruelty to Animals Los Angeles (spcaLA) is
-    dedicated to the prevention of cruelty to animals through Education, Law
-    Enforcement, Intervention, and Advocacy.
-  'In one to three sentences, please describe your proposal.': >-
-    Abusers use everything at their disposal to terrorize and control those they
-    batter – including the family pet, often threatening to harm or kill an
-    animal if the domestic violence survivor dares leave. spcaLA’s Animal Safety
-    Network (ASN)™ provides a safe refuge for the domestic violence survivors’
-    pets, free-of-charge, so that they may leave a dangerous situation without
-    fear for their animals’ lives.  spcaLA wants to expand ASN and break the
-    cycle of violence for more people and their pets.
-  Please write a sample tweet to describe your submission.: 'We will keep your pets safe, so you can be too! #AnimalSafetyNet #spcaLA'
-  LA is the best place to CREATE: '0'
-  LA is the best place to CONNECT: '0'
-  LA is the best place to PLAY: '1'
-  LA is the best place to LEARN: '1'
-  Where will you be working? Central LA: '1'
-  Where will you be working? East LA: '1'
-  Where will you be working? San Gabriel Valley: '1'
-  Where will you be working? San Fernando Valley: '1'
-  Where will you be working? South LA: '1'
-  Where will you be working? Westside: '1'
-  Where will you be working? South Bay: '1'
-  Where will you be working? Antelope Valley: '1'
-  Where will you be working? County of Los Angeles: '1'
-  Where will you be working? City of Los Angeles: '1'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '0'
-  Where will you be working? Specifics: ''
-  How do you plan to use these resources to make change? Conduct research: '0'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: ''
-  How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare access: '0'
-  How will your proposal improve the following “Live” metrics? Exposure to air toxins: '0'
-  How will your proposal improve the following “Live” metrics? Number of households below the self-sufficiency index: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of imported water: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing affordability: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of homelessness: '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Walk/bike/transit score: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and miles of polluted waterways: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of mental illness: '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of adverse childhood experiences (Dream Metric): '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of LA communities that are resilient (Dream Metric): '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of residents receiving coordinated healthcare services (Dream Metric): '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of tree canopy cover (Dream Metric): '0'
-  'DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE: ': "Over 3 million incidents of domestic violence occur annually in the U.S. Many homes where spouses and children are neglected or abused are often shared by defenseless pets. All too often, these pets become victims. Relishing in their power, abusers beat, torture and kill beloved animals for the sake of hurting, silencing or preventing their partners from leaving. \r\nLeaving can be difficult. Boarding services are expensive and most domestic violence shelters cannot house animals. Many victims face a gut wrenching decision. Do they run for a shelter and leave their beloved pet behind? Or, do they stay and risk their lives to protect their pet? According to the National Coalition Against Domestic Violence, “between 25 and 40 percent of domestic violence victims will not leave a dangerous situation because they do not want to abandon their pets.”\r\nThis is where we help. Animal Safety Net (ASN)™ assists domestic violence survivors by offering free temporary housing for their pets, taking them out of harm’s way, and allowing survivors to relocate to a domestic violence shelter. While under our care, animals receive veterinary treatment, vaccinations and spay/neuter surgery. Families remain in contact with their pets through photos and updates until they are safely out of the shelter and reunited. \r\nDomestic violence, child abuse, and animal abuse are all linked.  Studies have found that domestic violence abusers who harm animals are twice as likely have also abused a child. These children suffer both physical and mental abuse – as the exposure to their beloved pet being hurt can have deeply adverse psychological effects. ASN helps stop this cycle of violence. This program empowers survivors to leave and seek care. Further, if animal abuse is suspected, spcaLA Humane Officers will investigate and work to prosecute the offenders.  \r\nAt its core, ASN gives domestic violence survivors peace of mind. The comfort in knowing their adored pet is protected and cared for helps survivors escape, persevere, and begin building a safer, healthier life for themselves and their family.\r\n"
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "Our greatest challenge is limited funding. Unlike shelter pets, ASN animals do not quickly cycle out of our care. These animals are often housed for extended periods of time and frequently require routine medication, special diet, and help with behavioral issues.\r\nThese animals can also be challenging to place in foster homes. ASN clients often have two or more pets at home. Placing two animals – especially two large dogs – even without the medical and behavioral considerations often present with ASN pets, can be problematic.  \r\nTo house and care for these often “difficult” animals, we require a designated program facility, foster compensation, and above all, consistent funding.  As a nonprofit organization, we rely on public support to facilitate all of our programs, including ASN. Therefore, to combat limited funding and provide for these animals, we will continuously seek public donations and grant support.\r\n"
-  Please explain how you will evaluate your work.: "spcaLA wants to expand ASN to help more domestic violence survivors and their pets. We will evaluate our program by reviewing its development.  More specifically, we will assess:\r\n-\tASN foster parent database\r\n-\tprogram staff\r\n-\tfacility space \r\n-\tpartnerships and collaboration with domestic violence shelters and humane organizations\r\n-\t# of animal abusers prosecuted\r\n-\t# of animals and survivors we support\r\nSuccessful implementation of this grant will ultimately demonstrate that more families were helped because of our program’s expansion. \r\n"
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "spcaLA’s ASN program was the first of its kind in the country. We have taken clients from as far away as Florida for lack of local resources. And, while a handful of humane organizations offer similar programming and some DV shelters added limited onsite kenneling, it is not enough. \r\nThe sad reality is, many animals in a domestic violence situation have been harmed. Either abused, or made to live in a state of fear, they typically need more than a bed. They need veterinary care and behavior enrichment. They need to learn how to trust people again. They need the resources and expertise that can be provided by a humane agency, like spcaLA.\r\nspcaLA’s approach is unique in a number of ways, on the small, day-to-day scale, spcaLA offers:\r\n-\tTransportation to and from spcaLA facilities for ASN pets\r\n-\tSafe shelter including food, toys, treats and fresh bedding \r\n-\tVeterinary care, including spay/neuter, vaccinations, and routine care, as well as care for more in-depth issues\r\n-\tBehavior enrichment and a plan of care developed by spcaLA Animal Behavior & Training Department\r\n-\tFacilities for multiple pets and those with special medical or behavioral needs\r\n-\tspcaLA is the only nonprofit animal welfare agency in the city of Los Angeles that is also Law Enforcement.  If abusers turned their wrath toward the pets in our care, spcaLA Humane Officers will investigate and gather forensic evidence, so that animal cruelty charges can be brought against the offender.\r\nTo better accommodate the ever-growing demand for ASN services, spcaLA desires to increase these offerings by:\r\n-\tRecruiting and compensating foster parents specific to ASN (currently, spcaLA foster parents do not receive any financial compensation)\r\n-\tHiring additional staff to manage the program\r\n-\tRepurposing existing facilities to house ASN animals and/or paying for boarding facilities\r\nOn a larger scale, spcaLA seeks to make ASN replicable.  Like our award-winning violence-prevention program, Teaching Love & Compassion, spcaLA has developed a comprehensive manual for the ASN program. The manual offers humane agencies step-by-step instructions and guidance to operate the program in their communities.  As part of the LA2050 Challenge, spcaLA seeks to market the ASN manual to other humane agencies in Southern California, thereby developing a true network of support for domestic violence survivors and their pets.\r\n"
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Successfully expanding ASN involves the collaboration between domestic violence shelters, police officials, and social service agencies. To help survivors, they must know we’re here. These organizations help share our services to those who can use our support.  \r\nWhile our program involves teamwork, ASN will be managed and staffed solely by spcaLA. The entirety of the grant will go to the ASN program. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    $100,000 will play a substantial role in expanding the ASN program – a
-    service the LA community deeply needs. But, to continue the program
-    annually, ASN will require continuous funding. To cover these costs, spcaLA
-    will continue to fundraise and allot a program budget.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "LA2050 funding will be used to do the following.\r\n-\tHire an ASN coordinator, who will be responsible for foster parent support, recruitment, & retention, as well as managing the boarding facility, evaluating the program and working within the community to increase awareness of our services.\r\n-\tRepurpose an existing spcaLA facility to accommodate ASN pets during peak seasons (typically Oct-Feb) and/or pay for boarding of pets. Costs may include:\r\no\tstaffing (two full-time animal care attendants)\r\no\toperating costs for the facility\r\no\ttransportation (veterinarians, clients, clients)\r\no\tminor renovations/repairs\r\no\tboarding costs\r\n-\tProduce and market ASN materials to other humane agencies\r\n-\tProvide veterinary care, food, and shelter to animals in the program\r\nWe anticipate grant funds will be used as follows:\r\n•\t$10,000: Veterinary Services & Food\r\n•\t$2,500:   Transportation\r\n•\t$70,000: Staff Salary\r\n•\t$1,500:   Foster Compensation\r\n•\t$1,000:   Marketing \r\n•\t$15,000: Facility/Misc."
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How do you plan to scale the success of your proposal?: "The success of our proposal will ultimately be measured by the number of animals and survivors we support, as well as whether or not we are successful in replicating the program. Regardless of how many foster parents we’ve acquired, staff hired, or facilities we’ve repurposed, what is fundamentally important, is the number of lives we’ve improved. The number of men, women, and children we help escape the reign of their abuser and seek refuge. The number of survivors we give hope and peace of mind knowing their cherished pet is in good hands. The number of families we reunite and keep intact. This is how we measure success. \r\n\r\nLast year, we helped 62 men, women, and children in 30 families by caring for their pets. A total of 32 dogs, 5 cats, 1 rabbit and 1 hamster were housed in safe, loving homes while their human families received much needed emotional support from domestic violence shelters across Los Angeles County. This year, we want to help more. \r\nIf expanding the ASN program helps save the lives of more people and pets and catches like wildfire – spreading to other humane organizations and communities - our project will be deemed successful. \r\n"
-  Where will you be working?:
-    - Central LA
-    - East LA
-    - San Gabriel Valley
-    - San Fernando Valley
-    - South LA
-    - Westside
-    - South Bay
-    - Antelope Valley
-    - County of Los Angeles
-    - City of Los Angeles
-  How do you plan to use these resources to make change?:
-    - Engage residents and stakeholders
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Volunteers/staff (human capital)
-    - Publicity/awareness (social capital)
-    - 'Infrastructure (building/space/vehicles, etc.)'
-    - Community outreach
-    - Network/relationship support
-  How will your proposal improve the following “Live” metrics?:
-    - Rates of homelessness
-    - Rates of mental illness
-    - Prevalence of adverse childhood experiences (Dream Metric)
-    - Percentage of LA communities that are resilient (Dream Metric)
-maker_answers_list:
-  - name: How did you hear about this challenge?
-    label: How did you hear about this challenge?
-    explanation: >-
-      Please tell us how you found about the challenge (eg. Facebook/Twitter,
-      newsletter, friend, etc).
-    answer: past applicant
-  - name: 'City, State'
-    label: 'City, State'
-    explanation: 'Please follow this format: Los Angeles, CA'
-    answer: 'Los Angeles, CA'
-  - name: Organization(s) name(s)
-    label: Organization(s) name(s)
-    explanation: >-
-      Please list the names of all organizations if there are more than one
-      organization involved.
-    answer: spcaLA
-  - name: Organization(s) mailing address(es)
-    label: Organization(s) mailing address(es)
-    explanation: 'Please follow the format: 1234 Wilshire Blvd, Los Angeles, CA 90048'
-    answer: '5026 W Jefferson Blvd, Los Angeles, CA 90016'
-  - name: Organization(s) website(s)
-    label: Organization(s) website(s)
-    explanation: 'Please follow this format: www.LA2050.org'
-    answer: www.spcaLA.com
-  - name: Organization(s) twitter handle(s)
-    label: Organization(s) twitter handle(s)
-    explanation: 'Please follow this format: www.twitter.com/LA2050'
-    answer: www.twitter.com/spcaLA
-  - name: Organization(s) facebook handle(s)
-    label: Organization(s) facebook handle(s)
-    explanation: 'Please follow this format: www.facebook.com/LA2050'
-    answer: www.facebook.com/spcaLA
-  - name: Organization(s) instagram handle(s)
-    label: Organization(s) instagram handle(s)
-    explanation: 'Please follow this format: www.instagram.com/LA2050'
-    answer: www.instagram.com/spcaLA
-  - name: Please share the direct link for voters to sign up for your newsletter(s)
-    label: Please share the direct link for voters to sign up for your newsletter(s)
-    explanation: ''
-    answer: >-
-      http://spcala.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&SURVEY_ID=1040
-  - name: EIN (for each organization)
-    label: EIN (for each organization)
-    explanation: 'Please follow this format: xx-xxxxxxx'
-    answer: 95-1738153
-  - name: 'Describe your organization(s): Non-profit'
-    label: Non-profit organization
-    explanation: ''
-    answer: '1'
-  - name: 'Describe your organization(s): For-profit'
-    label: For-profit organization
-    explanation: ''
-    answer: '0'
-  - name: 'Describe your organization(s): Government'
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: 'Describe your organization(s): Other'
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: 'Describe your organization(s): Specifics'
-    label: ''
-    explanation: ''
-    answer: ''
-  - name: 'In one sentence, please describe what your organization does.'
-    label: ''
-    explanation: ''
-    answer: >-
-      Society for the Prevention of Cruelty to Animals Los Angeles (spcaLA) is
-      dedicated to the prevention of cruelty to animals through Education, Law
-      Enforcement, Intervention, and Advocacy.
-  - name: 'In one to three sentences, please describe your proposal.'
-    label: ''
-    explanation: ''
-    answer: >-
-      Abusers use everything at their disposal to terrorize and control those
-      they batter – including the family pet, often threatening to harm or kill
-      an animal if the domestic violence survivor dares leave. spcaLA’s Animal
-      Safety Network (ASN)™ provides a safe refuge for the domestic violence
-      survivors’ pets, free-of-charge, so that they may leave a dangerous
-      situation without fear for their animals’ lives.  spcaLA wants to expand
-      ASN and break the cycle of violence for more people and their pets.
-  - name: Please write a sample tweet to describe your submission.
-    label: ''
-    explanation: ''
-    answer: 'We will keep your pets safe, so you can be too! #AnimalSafetyNet #spcaLA'
-  - name: LA is the best place to CREATE
-    label: LA is the best place to CREATE
-    explanation: ''
-    answer: '0'
-  - name: LA is the best place to CONNECT
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '0'
-  - name: LA is the best place to PLAY
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '1'
-  - name: LA is the best place to LEARN
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Central LA
-    label: Central LA
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? East LA
-    label: East LA
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? San Gabriel Valley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? San Fernando Valley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? South LA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? South Bay
-    label: South Bay
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Antelope Valley
-    label: Antelope Valley
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? County of Los Angeles
-    label: County of Los Angeles (countywide)
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? City of Los Angeles
-    label: City of Los Angeles (citywide)
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? LAUSD
-    label: LAUSD
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? Other
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? Specifics
-    label: (e.g. Third Street Middle School; Boyle Heights; LA County)
-    explanation: ''
-    answer: ''
-  - name: How do you plan to use these resources to make change? Conduct research
-    label: Conduct research
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How do you plan to use these resources to make change? Engage residents
-      and stakeholders
-    label: Engage residents and stakeholders
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Implement a pilot
-      or new project
-    label: Implement a pilot or new project
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How do you plan to use these resources to make change? Expand a pilot or
-      program
-    label: Expand a pilot or program
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Mobilize for
-      systems change
-    label: Mobilize for systems change
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How do you plan to use these resources to make change? Advocate with
-      policymakers and leaders
-    label: Advocate with policymakers and leaders
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How do you plan to use these resources to make change? Implement and track
-      policy
-    label: Implement and track policy
-    explanation: ''
-    answer: '0'
-  - name: How do you plan to use these resources to make change? Other
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: How do you plan to use these resources to make change? Specifics
-    label: ''
-    explanation: ''
-    answer: ''
-  - name: >-
-      How will your proposal improve the following “Live” metrics?  Access to
-      healthy food
-    label: Access to healthy food
-    explanation: ''
-    answer: '0'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare
-      access
-    label: Healthcare access
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Live” metrics? Exposure to
-      air toxins
-    label: Exposure to air toxins
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Live” metrics? Number of
-      households below the self-sufficiency index
-    label: Number of households below the self-sufficiency index
-    explanation: ''
-    answer: '0'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of
-      imported water
-    label: Percent of imported water
-    explanation: ''
-    answer: '0'
-  - name: HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates
-    label: Obesity rates
-    explanation: ''
-    answer: '0'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing
-      affordability
-    label: Housing affordability
-    explanation: ''
-    answer: '0'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of
-      homelessness
-    label: Rates of homelessness
-    explanation: ''
-    answer: '1'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS?
-      Walk/bike/transit score
-    label: Walk/bike/transit score
-    explanation: ''
-    answer: '0'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and
-      miles of polluted waterways
-    label: Acres and miles of polluted waterways
-    explanation: ''
-    answer: '0'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of
-      mental illness
-    label: Rates of mental illness
-    explanation: ''
-    answer: '1'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of
-      adverse childhood experiences (Dream Metric)
-    label: Prevalence of adverse childhood experiences (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of
-      LA communities that are resilient (Dream Metric)
-    label: Percentage of LA communities that are resilient (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of
-      residents receiving coordinated healthcare services (Dream Metric)
-    label: >-
-      Percentage of residents receiving coordinated healthcare services (Dream
-      Metric)
-    explanation: ''
-    answer: '0'
-  - name: >-
-      HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of
-      tree canopy cover (Dream Metric)
-    label: Percentage of tree canopy cover (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: >-
-      DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO
-      LIVE: 
-    label: ''
-    explanation: ''
-    answer: "Over 3 million incidents of domestic violence occur annually in the U.S. Many homes where spouses and children are neglected or abused are often shared by defenseless pets. All too often, these pets become victims. Relishing in their power, abusers beat, torture and kill beloved animals for the sake of hurting, silencing or preventing their partners from leaving. \r\nLeaving can be difficult. Boarding services are expensive and most domestic violence shelters cannot house animals. Many victims face a gut wrenching decision. Do they run for a shelter and leave their beloved pet behind? Or, do they stay and risk their lives to protect their pet? According to the National Coalition Against Domestic Violence, “between 25 and 40 percent of domestic violence victims will not leave a dangerous situation because they do not want to abandon their pets.”\r\nThis is where we help. Animal Safety Net (ASN)™ assists domestic violence survivors by offering free temporary housing for their pets, taking them out of harm’s way, and allowing survivors to relocate to a domestic violence shelter. While under our care, animals receive veterinary treatment, vaccinations and spay/neuter surgery. Families remain in contact with their pets through photos and updates until they are safely out of the shelter and reunited. \r\nDomestic violence, child abuse, and animal abuse are all linked.  Studies have found that domestic violence abusers who harm animals are twice as likely have also abused a child. These children suffer both physical and mental abuse – as the exposure to their beloved pet being hurt can have deeply adverse psychological effects. ASN helps stop this cycle of violence. This program empowers survivors to leave and seek care. Further, if animal abuse is suspected, spcaLA Humane Officers will investigate and work to prosecute the offenders.  \r\nAt its core, ASN gives domestic violence survivors peace of mind. The comfort in knowing their adored pet is protected and cared for helps survivors escape, persevere, and begin building a safer, healthier life for themselves and their family.\r\n"
-  - name: >-
-      Please list at least one major barrier/challenge you anticipate. What is
-      your strategy for overcoming these obstacles?
-    label: ''
-    explanation: ''
-    answer: "Our greatest challenge is limited funding. Unlike shelter pets, ASN animals do not quickly cycle out of our care. These animals are often housed for extended periods of time and frequently require routine medication, special diet, and help with behavioral issues.\r\nThese animals can also be challenging to place in foster homes. ASN clients often have two or more pets at home. Placing two animals – especially two large dogs – even without the medical and behavioral considerations often present with ASN pets, can be problematic.  \r\nTo house and care for these often “difficult” animals, we require a designated program facility, foster compensation, and above all, consistent funding.  As a nonprofit organization, we rely on public support to facilitate all of our programs, including ASN. Therefore, to combat limited funding and provide for these animals, we will continuously seek public donations and grant support.\r\n"
-  - name: Please explain how you will evaluate your work.
-    label: ''
-    explanation: ''
-    answer: "spcaLA wants to expand ASN to help more domestic violence survivors and their pets. We will evaluate our program by reviewing its development.  More specifically, we will assess:\r\n-\tASN foster parent database\r\n-\tprogram staff\r\n-\tfacility space \r\n-\tpartnerships and collaboration with domestic violence shelters and humane organizations\r\n-\t# of animal abusers prosecuted\r\n-\t# of animals and survivors we support\r\nSuccessful implementation of this grant will ultimately demonstrate that more families were helped because of our program’s expansion. \r\n"
-  - name: >-
-      Are there other organizations doing similar work (whether complementary or
-      competitive)? What is unique about your proposed approach?
-    label: ''
-    explanation: ''
-    answer: "spcaLA’s ASN program was the first of its kind in the country. We have taken clients from as far away as Florida for lack of local resources. And, while a handful of humane organizations offer similar programming and some DV shelters added limited onsite kenneling, it is not enough. \r\nThe sad reality is, many animals in a domestic violence situation have been harmed. Either abused, or made to live in a state of fear, they typically need more than a bed. They need veterinary care and behavior enrichment. They need to learn how to trust people again. They need the resources and expertise that can be provided by a humane agency, like spcaLA.\r\nspcaLA’s approach is unique in a number of ways, on the small, day-to-day scale, spcaLA offers:\r\n-\tTransportation to and from spcaLA facilities for ASN pets\r\n-\tSafe shelter including food, toys, treats and fresh bedding \r\n-\tVeterinary care, including spay/neuter, vaccinations, and routine care, as well as care for more in-depth issues\r\n-\tBehavior enrichment and a plan of care developed by spcaLA Animal Behavior & Training Department\r\n-\tFacilities for multiple pets and those with special medical or behavioral needs\r\n-\tspcaLA is the only nonprofit animal welfare agency in the city of Los Angeles that is also Law Enforcement.  If abusers turned their wrath toward the pets in our care, spcaLA Humane Officers will investigate and gather forensic evidence, so that animal cruelty charges can be brought against the offender.\r\nTo better accommodate the ever-growing demand for ASN services, spcaLA desires to increase these offerings by:\r\n-\tRecruiting and compensating foster parents specific to ASN (currently, spcaLA foster parents do not receive any financial compensation)\r\n-\tHiring additional staff to manage the program\r\n-\tRepurposing existing facilities to house ASN animals and/or paying for boarding facilities\r\nOn a larger scale, spcaLA seeks to make ASN replicable.  Like our award-winning violence-prevention program, Teaching Love & Compassion, spcaLA has developed a comprehensive manual for the ASN program. The manual offers humane agencies step-by-step instructions and guidance to operate the program in their communities.  As part of the LA2050 Challenge, spcaLA seeks to market the ASN manual to other humane agencies in Southern California, thereby developing a true network of support for domestic violence survivors and their pets.\r\n"
-  - name: >-
-      Please identify any partners or collaborators who will work with you on
-      this project. How much of the $100,000 grant award will each partner
-      receive?
-    label: ''
-    explanation: ''
-    answer: "Successfully expanding ASN involves the collaboration between domestic violence shelters, police officials, and social service agencies. To help survivors, they must know we’re here. These organizations help share our services to those who can use our support.  \r\nWhile our program involves teamwork, ASN will be managed and staffed solely by spcaLA. The entirety of the grant will go to the ASN program. \r\n"
-  - name: >-
-      How much do you think this will cost? If more than $100,000 – how will you
-      cover the additional costs?
-    label: ''
-    explanation: ''
-    answer: >-
-      $100,000 will play a substantial role in expanding the ASN program – a
-      service the LA community deeply needs. But, to continue the program
-      annually, ASN will require continuous funding. To cover these costs,
-      spcaLA will continue to fundraise and allot a program budget.  
-  - name: >-
-      Please include a detailed budget of how you will use $100,000 to implement
-      this project.
-    label: ''
-    explanation: ''
-    answer: "LA2050 funding will be used to do the following.\r\n-\tHire an ASN coordinator, who will be responsible for foster parent support, recruitment, & retention, as well as managing the boarding facility, evaluating the program and working within the community to increase awareness of our services.\r\n-\tRepurpose an existing spcaLA facility to accommodate ASN pets during peak seasons (typically Oct-Feb) and/or pay for boarding of pets. Costs may include:\r\no\tstaffing (two full-time animal care attendants)\r\no\toperating costs for the facility\r\no\ttransportation (veterinarians, clients, clients)\r\no\tminor renovations/repairs\r\no\tboarding costs\r\n-\tProduce and market ASN materials to other humane agencies\r\n-\tProvide veterinary care, food, and shelter to animals in the program\r\nWe anticipate grant funds will be used as follows:\r\n•\t$10,000: Veterinary Services & Food\r\n•\t$2,500:   Transportation\r\n•\t$70,000: Staff Salary\r\n•\t$1,500:   Foster Compensation\r\n•\t$1,000:   Marketing \r\n•\t$15,000: Facility/Misc."
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Money (financial capital)
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Volunteers/staff (human capital)
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Publicity/awareness (social capital)
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Infrastructure (building/space/vehicles, etc.)
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Education/training
-    label: Education/training
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Technical infrastructure (computers, etc.)
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Community outreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Network/relationship support
-    label: Network/relationship support
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Quality improvement research
-    label: Quality improvement research
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Other
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Specifics
-    label: ''
-    explanation: ''
-    answer: ''
-  - name: How do you plan to scale the success of your proposal?
-    label: ''
-    explanation: ''
-    answer: "The success of our proposal will ultimately be measured by the number of animals and survivors we support, as well as whether or not we are successful in replicating the program. Regardless of how many foster parents we’ve acquired, staff hired, or facilities we’ve repurposed, what is fundamentally important, is the number of lives we’ve improved. The number of men, women, and children we help escape the reign of their abuser and seek refuge. The number of survivors we give hope and peace of mind knowing their cherished pet is in good hands. The number of families we reunite and keep intact. This is how we measure success. \r\n\r\nLast year, we helped 62 men, women, and children in 30 families by caring for their pets. A total of 32 dogs, 5 cats, 1 rabbit and 1 hamster were housed in safe, loving homes while their human families received much needed emotional support from domestic violence shelters across Los Angeles County. This year, we want to help more. \r\nIf expanding the ASN program helps save the lives of more people and pets and catches like wildfire – spreading to other humane organizations and communities - our project will be deemed successful. \r\n"
-body_class: lime
 organization_name: spcaLA
-published: true
 
 ---

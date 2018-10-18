@@ -1,31 +1,23 @@
 ---
+published: true
 organization_id: '2016260'
 year_submitted: 2016
-organization_name: 'Wyota Workshop, Inc.'
-organization_website: www.wyotaworkshop.com
-ein: ''
-project_image_2: 2799579455741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102279'
+challenge_url: >-
+  https://challenge.la2050.org/entry/enhancing-the-schoolyard-to-promote-outdoor-learning
 title: Enhancing the schoolyard to promote outdoor learning
-organization_name_2: 'Wyota Workshop, Inc.'
-organization_activity: >-
-  Wyota Workshop is a design and research firm working in the fields of art,
-  architecture, urban design and planning
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
-project_video: 'https://www.youtube.com/embed/TqtNFWeLxeE?rel=0&amp;showinfo=0'
 project_summary: >-
   Our objective is to enhance the existing schoolyard by making spaces more
   conducive to outdoor learning.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
+project_video: 'https://www.youtube.com/embed/TqtNFWeLxeE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Rockdale Visual and Performing Arts Magnet Elementary School (Rockdale VAPA
   Magnet), Rockdale PTA
-project_areas:
-  - Central LA
-  - East LA
-  - LAUSD
-  - NELA
 project_measure: >-
   The success of the project will be measured by the following:
 
@@ -71,6 +63,25 @@ project_impact: >-
   education","Students’ perceived sense of safety at and on the way to
   school","Suspension and expulsion rates","Truancy rates in elementary and
   middle schools"]
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+project_proposal_description: >-
+  Our proposal is a school, and community-led project to convert the existing
+  schoolyard into a living landscape and to create an outdoor learning
+  environment that supports the visual and performing arts, and the school
+  curriculum. The components include multipurpose areas for open-air classes,
+  sculpture, art, and sensory gardens, performances, adventure and water play,
+  nature discovery and informal gatherings. Both the project and its outcome are
+  envisioned to support learning.
+project_areas:
+  - Central LA
+  - East LA
+  - LAUSD
+  - NELA
 project_proposal_best_place: >-
   There has been an incredible amount of research that has accumulated over the
   last decade on School Greening Projects. It shows that green spaces are more
@@ -127,25 +138,7 @@ project_proposal_best_place: >-
 
   - formulation of guidelines for other LAUSD schools and PTA’s to implement
   similar projects.
-challenge_url: >-
-  https://challenge.la2050.org/entry/enhancing-the-schoolyard-to-promote-outdoor-learning
-empty_column_1: ''
-project_proposal_description: >-
-  Our proposal is a school, and community-led project to convert the existing
-  schoolyard into a living landscape and to create an outdoor learning
-  environment that supports the visual and performing arts, and the school
-  curriculum. The components include multipurpose areas for open-air classes,
-  sculpture, art, and sensory gardens, performances, adventure and water play,
-  nature discovery and informal gatherings. Both the project and its outcome are
-  envisioned to support learning.
-project_proposal_impact:
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Students’ perceived sense of safety at and on the way to school
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-category: learn
-body_class: blueberry
-published: true
+organization_name: 'Wyota Workshop, Inc.'
+organization_website: www.wyotaworkshop.com
 
 ---

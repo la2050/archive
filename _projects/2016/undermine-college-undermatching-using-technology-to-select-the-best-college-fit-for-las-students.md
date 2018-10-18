@@ -1,25 +1,22 @@
 ---
+published: true
 organization_id: '2018140'
 year_submitted: 2016
-organization_name: Youth Policy Institute
-organization_website: www.ypiusa.org
-ein: '521278339'
-project_image_2: 8915786065741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102288'
+challenge_url: >-
+  https://challenge.la2050.org/entry/undermine-college-undermatching-using-technology-to-select-the-best-college-fit-for-las-students
 title: >-
   Undermine College Undermatching: Using Technology to Select the Best College
   Fit for LA's Students
-organization_name_2: Youth Policy Institute
-organization_activity: >-
-  YPI ends intergenerational poverty by providing access to high-quality
-  cradle-to-college-and-career services for the whole family.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
-project_video: 'https://www.youtube.com/embed/bBIXPsWICAQ?rel=0&amp;showinfo=0'
 project_summary: >-
   YPI’s College Choice Tool helps students find “best fit” schools for
   academics, cost, and preference, helping them earn a college degree with less
   debt.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
+project_video: 'https://www.youtube.com/embed/bBIXPsWICAQ?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   YPI works with ideas42, the behavioral sciences agency that developed our
@@ -29,10 +26,6 @@ project_collaborators: >-
   School, STEM Academy, APEX Academy, and Helen Bernstein High School. YPI also
   partners with UCLA, USC, Cal State Northridge, the Claremont Colleges and UC
   Berkeley to host college field trips.
-project_areas:
-  - Central LA
-  - San Fernando Valley
-  - LAUSD
 project_measure: >-
   Overall outcomes associated with our project include the following:
 
@@ -79,6 +72,23 @@ project_description: >-
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+project_proposal_description: >-
+  Too many low-income students “undermatch” when they apply for college, a
+  situation where well-qualified students apply to less competitive or cheaper
+  schools. They wind up at a community college, for example, when they could
+  have gone to UCLA. YPI’s College Choice Tool technology matches students to
+  the best schools based on their GPA, SAT/ACT scores and interests, resulting
+  in higher college enrollment and completion rates, while reducing student loan
+  debt.
+project_areas:
+  - Central LA
+  - San Fernando Valley
+  - LAUSD
 project_proposal_best_place: >-
   For anyone who has gone through it, you know how stressful and daunting the
   college application process can be. Getting into college takes a lot of time,
@@ -126,24 +136,7 @@ project_proposal_best_place: >-
   rates. This will ensure lifetime financial stability among LA’s youth, making
   LA not only the best place to LEARN, but the best place to PLAY, CREATE,
   CONNECT, and LIVE – all feasible thanks to the foundation of LEARNING.
-challenge_url: >-
-  https://challenge.la2050.org/entry/undermine-college-undermatching-using-technology-to-select-the-best-college-fit-for-las-students
-empty_column_1: ''
-project_proposal_description: >-
-  Too many low-income students “undermatch” when they apply for college, a
-  situation where well-qualified students apply to less competitive or cheaper
-  schools. They wind up at a community college, for example, when they could
-  have gone to UCLA. YPI’s College Choice Tool technology matches students to
-  the best schools based on their GPA, SAT/ACT scores and interests, resulting
-  in higher college enrollment and completion rates, while reducing student loan
-  debt.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: Youth Policy Institute
+organization_website: www.ypiusa.org
 
 ---

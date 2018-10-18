@@ -1,9 +1,51 @@
 ---
+published: true
 organization_id: '2013083'
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
+year_submitted: 2013
+indicator: ' Environmental Quality'
+body_class: strawberry
 project_id: '3102141'
 title: Think Before You Trash
-indicator: ' Environmental Quality'
+project_summary: "Teach surfing camps – surfing competitions\r\nOrganize Beach Clean ups\r\nBe recognized by the community and other non profits as a local pro environmental organization\r\nSpearhead educational programs outside the classroom. \r\nBring awareness to nature and environmental issues.\r\nhttp://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q"
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
+maker_answers:
+  website: 'http://gsantamonic6.wix.com/granito-de-arena#!'
+  success: >-
+    It may be difficult to “measure” the success of my endeavor, because it is
+    hard to evaluate the lasting impact that experience, education, awareness
+    has on children. One thing I know for certain is that bringing a child, who
+    has never been to the beach, to experience the sand and the ocean is
+    something that is life changing. This action alone has a lasting and
+    unmeasurable impact. Every child who comes through the program learns not
+    just about how to take care of the beach and the oceans, but also how small
+    daily efforts can impact the environment in a large and positive way. Armed
+    with such knowledge, the students in turn learn about the responsibility of
+    teaching others how to respect and take care of nature too. And lastly, when
+    children learn about water safety and how to surf, they challenge themselves
+    and embrace a healthier lifestyle.
+  Indicator: ' Environmental Quality'
+  brief: "Grain of Sand - Granito de Arena (in Spanish) is a non-profit organization run by Ernesto Renella, (local business leader, surfer and community volunteer) to teach environmental awareness and stewardship to underprivileged children in local communities. The mission is to build a healthier environment and educate children to create a better world. The program teaches children that their daily decisions affect the beaches and marine environment around the world and shows them how to connect to nature through environmental awareness and surfing.\r\n\r\n“Being in the ocean is a much more personal experience than just looking at it from the beach or highway. Surfing is about being physically and mentally moved by the power of the ocean. By experiencing its energy   directly affecting its own element and environment. Once these kids stand up the first time and ride a wave in, they never look at the water the same way again. The ocean transforms into something that they need to respect, maintain and protect so that future generations can enjoy it as much as they do. The way I see it, each person represents a grain of sand, standing alone one might seem small and insignificant, but working together with our neighbors we are powerful and can create a better future for everyone.”"
+  budget explanation: "\r\nSurfing Instructors\t6000\r\nEnvironmental Educators\t18000\r\nStaff\t4000\r\nSurfboards\t5500\r\nPaddle boards\t3800\r\nLeashes\t850\r\nLife Vests\t3500\r\nHats\t2500\r\nShirts\t3500\r\nOther Supplies\t3500\r\nMarketing\t9850\r\nAdvertising\t12000\r\nTransportation\t6000\r\nLiability Insurance\t12000\r\nEducational Materials\t9000\r\nTotal \t100000"
+  description: >-
+    Grain of Sand - Granito de Arena brings inner-city children to the beach,
+    and pairs them with local surfers and environmental speakers for a day of
+    learning, surfing and beach clean ups. Through fun and mentorship, young
+    people understand that the beach is just as much theirs as everyone else’s
+    and it's up to them to take care of it. The children develop an
+    understanding of: the negative effects of water and land pollution, the
+    impact that individuals and communities have on the ocean, the profound
+    effects of recycling programs and the importance of wiser buying choices. 
+    Furthermore, exercising in nature through surfing encourages children to
+    become more active and healthier. 
+  collaborators: "Heal the Bay\r\nNewton Police Activities League & other PALs\r\nSanta Monica Police Activities League & other \"at risk groups\"\r\nLA unified school district "
+  Organization Name: Grain of Sand - Granito de Arena
+  description1: "Teach surfing camps – surfing competitions\r\nOrganize Beach Clean ups\r\nBe recognized by the community and other non profits as a local pro environmental organization\r\nSpearhead educational programs outside the classroom. \r\nBring awareness to nature and environmental issues.\r\nhttp://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q"
+  description3: "We do not consider other organizations as competition as each one of them in their own way is our ally with the common goal of creating a better world for future generations. \r\nMany other organizations provide theoretical knowledge, but we consider our educational approach a unique blend of learning and doing. The beach is our classroom so we are able to provide teaching and practice together. Children witness existing problems plaguing the beach and the oceans and engage in being part of the solution.\r\nBy teaching water safety and surfing at the beach, we make learning fun and educational at the same time."
+  vision: "in light of public opposition over the The Clean Water, Clean Beaches ballot measure, that would pay to reduce storm water pollution, Los Angeles County supervisors may axe the proposed clean water fee. As it stands, the Clean Water, Clean Beaches measure would increase L.A. County resident’s property tax bills by about $54 for the typical homeowner and possibly thousands of dollars for some commercial property owners. The County spends an outrageous amount annually In grooming and cleaning our beaches on a daily basis. This fee could be rendered unnecessary altogether if everyone did their part in properly recycling trash and helping to keep storm drains free of debris.\r\n\r\nBy educating enough people to make environmental friendly consumer purchases, responsible trash disposal and to be aware that all storm drains end up in the ocean, citizens have the power to not only make a positive environmental impact, but also a fiscal impact as well. Instead of spending financial resources reacting to current problems, we can instead create a cleaner and greener future.\r\n"
+  EIN: 46-0667294
+  Tax Status: ' Non-profit organization'
+  about_you: 'Santa Monica, California'
+  Does your project impact Los Angeles County?: 'yes'
 What is your idea and how will it impact your indicator?: >-
   Grain of Sand  Granito de Arena (in Spanish) is a nonprofit organization run
   by Ernesto Renella, (local business leader, surfer and community volunteer) to
@@ -110,136 +152,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
   greener future.
 
 
-year_submitted: 2013
+
 maker_image_id: '16238'
 maker_image_file_name: Debris_3.JPG
-maker_answers:
-  Organization Name: Grain of Sand - Granito de Arena
-  website: 'http://gsantamonic6.wix.com/granito-de-arena#!'
-  Indicator: ' Environmental Quality'
-  brief: "Grain of Sand - Granito de Arena (in Spanish) is a non-profit organization run by Ernesto Renella, (local business leader, surfer and community volunteer) to teach environmental awareness and stewardship to underprivileged children in local communities. The mission is to build a healthier environment and educate children to create a better world. The program teaches children that their daily decisions affect the beaches and marine environment around the world and shows them how to connect to nature through environmental awareness and surfing.\r\n\r\n“Being in the ocean is a much more personal experience than just looking at it from the beach or highway. Surfing is about being physically and mentally moved by the power of the ocean. By experiencing its energy   directly affecting its own element and environment. Once these kids stand up the first time and ride a wave in, they never look at the water the same way again. The ocean transforms into something that they need to respect, maintain and protect so that future generations can enjoy it as much as they do. The way I see it, each person represents a grain of sand, standing alone one might seem small and insignificant, but working together with our neighbors we are powerful and can create a better future for everyone.”"
-  budget explanation: "\r\nSurfing Instructors\t6000\r\nEnvironmental Educators\t18000\r\nStaff\t4000\r\nSurfboards\t5500\r\nPaddle boards\t3800\r\nLeashes\t850\r\nLife Vests\t3500\r\nHats\t2500\r\nShirts\t3500\r\nOther Supplies\t3500\r\nMarketing\t9850\r\nAdvertising\t12000\r\nTransportation\t6000\r\nLiability Insurance\t12000\r\nEducational Materials\t9000\r\nTotal \t100000"
-  description: >-
-    Grain of Sand - Granito de Arena brings inner-city children to the beach,
-    and pairs them with local surfers and environmental speakers for a day of
-    learning, surfing and beach clean ups. Through fun and mentorship, young
-    people understand that the beach is just as much theirs as everyone else’s
-    and it's up to them to take care of it. The children develop an
-    understanding of: the negative effects of water and land pollution, the
-    impact that individuals and communities have on the ocean, the profound
-    effects of recycling programs and the importance of wiser buying choices. 
-    Furthermore, exercising in nature through surfing encourages children to
-    become more active and healthier. 
-  collaborators: "Heal the Bay\r\nNewton Police Activities League & other PALs\r\nSanta Monica Police Activities League & other \"at risk groups\"\r\nLA unified school district "
-  success: >-
-    It may be difficult to “measure” the success of my endeavor, because it is
-    hard to evaluate the lasting impact that experience, education, awareness
-    has on children. One thing I know for certain is that bringing a child, who
-    has never been to the beach, to experience the sand and the ocean is
-    something that is life changing. This action alone has a lasting and
-    unmeasurable impact. Every child who comes through the program learns not
-    just about how to take care of the beach and the oceans, but also how small
-    daily efforts can impact the environment in a large and positive way. Armed
-    with such knowledge, the students in turn learn about the responsibility of
-    teaching others how to respect and take care of nature too. And lastly, when
-    children learn about water safety and how to surf, they challenge themselves
-    and embrace a healthier lifestyle.
-  description1: "Teach surfing camps – surfing competitions\r\nOrganize Beach Clean ups\r\nBe recognized by the community and other non profits as a local pro environmental organization\r\nSpearhead educational programs outside the classroom. \r\nBring awareness to nature and environmental issues.\r\nhttp://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q"
-  description3: "We do not consider other organizations as competition as each one of them in their own way is our ally with the common goal of creating a better world for future generations. \r\nMany other organizations provide theoretical knowledge, but we consider our educational approach a unique blend of learning and doing. The beach is our classroom so we are able to provide teaching and practice together. Children witness existing problems plaguing the beach and the oceans and engage in being part of the solution.\r\nBy teaching water safety and surfing at the beach, we make learning fun and educational at the same time."
-  vision: "in light of public opposition over the The Clean Water, Clean Beaches ballot measure, that would pay to reduce storm water pollution, Los Angeles County supervisors may axe the proposed clean water fee. As it stands, the Clean Water, Clean Beaches measure would increase L.A. County resident’s property tax bills by about $54 for the typical homeowner and possibly thousands of dollars for some commercial property owners. The County spends an outrageous amount annually In grooming and cleaning our beaches on a daily basis. This fee could be rendered unnecessary altogether if everyone did their part in properly recycling trash and helping to keep storm drains free of debris.\r\n\r\nBy educating enough people to make environmental friendly consumer purchases, responsible trash disposal and to be aware that all storm drains end up in the ocean, citizens have the power to not only make a positive environmental impact, but also a fiscal impact as well. Instead of spending financial resources reacting to current problems, we can instead create a cleaner and greener future.\r\n"
-  EIN: 46-0667294
-  Tax Status: ' Non-profit organization'
-  about_you: 'Santa Monica, California'
-  Does your project impact Los Angeles County?: 'yes'
-maker_answers_list:
-  - name: Organization Name
-    label: ''
-    explanation: ''
-    answer: Grain of Sand - Granito de Arena
-  - name: website
-    label: 'NULL'
-    explanation: >-
-      Have a homepage or blog you'd like to link to? Put the URL here.
-      <br/>(Example: http://www.yoursite.com)
-    answer: 'http://gsantamonic6.wix.com/granito-de-arena#!'
-  - name: Indicator
-    label: ''
-    explanation: >-
-      Please select the one indicator that is most relevant to your project or
-      organization
-    answer: ' Environmental Quality'
-  - name: brief
-    label: ''
-    explanation: ''
-    answer: "Grain of Sand - Granito de Arena (in Spanish) is a non-profit organization run by Ernesto Renella, (local business leader, surfer and community volunteer) to teach environmental awareness and stewardship to underprivileged children in local communities. The mission is to build a healthier environment and educate children to create a better world. The program teaches children that their daily decisions affect the beaches and marine environment around the world and shows them how to connect to nature through environmental awareness and surfing.\r\n\r\n“Being in the ocean is a much more personal experience than just looking at it from the beach or highway. Surfing is about being physically and mentally moved by the power of the ocean. By experiencing its energy   directly affecting its own element and environment. Once these kids stand up the first time and ride a wave in, they never look at the water the same way again. The ocean transforms into something that they need to respect, maintain and protect so that future generations can enjoy it as much as they do. The way I see it, each person represents a grain of sand, standing alone one might seem small and insignificant, but working together with our neighbors we are powerful and can create a better future for everyone.”"
-  - name: budget explanation
-    label: ''
-    explanation: ''
-    answer: "\r\nSurfing Instructors\t6000\r\nEnvironmental Educators\t18000\r\nStaff\t4000\r\nSurfboards\t5500\r\nPaddle boards\t3800\r\nLeashes\t850\r\nLife Vests\t3500\r\nHats\t2500\r\nShirts\t3500\r\nOther Supplies\t3500\r\nMarketing\t9850\r\nAdvertising\t12000\r\nTransportation\t6000\r\nLiability Insurance\t12000\r\nEducational Materials\t9000\r\nTotal \t100000"
-  - name: description
-    label: ''
-    explanation: ''
-    answer: >-
-      Grain of Sand - Granito de Arena brings inner-city children to the beach,
-      and pairs them with local surfers and environmental speakers for a day of
-      learning, surfing and beach clean ups. Through fun and mentorship, young
-      people understand that the beach is just as much theirs as everyone else’s
-      and it's up to them to take care of it. The children develop an
-      understanding of: the negative effects of water and land pollution, the
-      impact that individuals and communities have on the ocean, the profound
-      effects of recycling programs and the importance of wiser buying choices. 
-      Furthermore, exercising in nature through surfing encourages children to
-      become more active and healthier. 
-  - name: collaborators
-    label: ''
-    explanation: ''
-    answer: "Heal the Bay\r\nNewton Police Activities League & other PALs\r\nSanta Monica Police Activities League & other \"at risk groups\"\r\nLA unified school district "
-  - name: success
-    label: ''
-    explanation: ''
-    answer: >-
-      It may be difficult to “measure” the success of my endeavor, because it is
-      hard to evaluate the lasting impact that experience, education, awareness
-      has on children. One thing I know for certain is that bringing a child,
-      who has never been to the beach, to experience the sand and the ocean is
-      something that is life changing. This action alone has a lasting and
-      unmeasurable impact. Every child who comes through the program learns not
-      just about how to take care of the beach and the oceans, but also how
-      small daily efforts can impact the environment in a large and positive
-      way. Armed with such knowledge, the students in turn learn about the
-      responsibility of teaching others how to respect and take care of nature
-      too. And lastly, when children learn about water safety and how to surf,
-      they challenge themselves and embrace a healthier lifestyle.
-  - name: description1
-    label: ''
-    explanation: ''
-    answer: "Teach surfing camps – surfing competitions\r\nOrganize Beach Clean ups\r\nBe recognized by the community and other non profits as a local pro environmental organization\r\nSpearhead educational programs outside the classroom. \r\nBring awareness to nature and environmental issues.\r\nhttp://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q"
-  - name: description3
-    label: ''
-    explanation: ''
-    answer: "We do not consider other organizations as competition as each one of them in their own way is our ally with the common goal of creating a better world for future generations. \r\nMany other organizations provide theoretical knowledge, but we consider our educational approach a unique blend of learning and doing. The beach is our classroom so we are able to provide teaching and practice together. Children witness existing problems plaguing the beach and the oceans and engage in being part of the solution.\r\nBy teaching water safety and surfing at the beach, we make learning fun and educational at the same time."
-  - name: vision
-    label: ''
-    explanation: ''
-    answer: "in light of public opposition over the The Clean Water, Clean Beaches ballot measure, that would pay to reduce storm water pollution, Los Angeles County supervisors may axe the proposed clean water fee. As it stands, the Clean Water, Clean Beaches measure would increase L.A. County resident’s property tax bills by about $54 for the typical homeowner and possibly thousands of dollars for some commercial property owners. The County spends an outrageous amount annually In grooming and cleaning our beaches on a daily basis. This fee could be rendered unnecessary altogether if everyone did their part in properly recycling trash and helping to keep storm drains free of debris.\r\n\r\nBy educating enough people to make environmental friendly consumer purchases, responsible trash disposal and to be aware that all storm drains end up in the ocean, citizens have the power to not only make a positive environmental impact, but also a fiscal impact as well. Instead of spending financial resources reacting to current problems, we can instead create a cleaner and greener future.\r\n"
-  - name: EIN
-    label: EIN
-    explanation: ''
-    answer: 46-0667294
-  - name: Tax Status
-    label: Are you a for profit organization or non-profit organization?
-    explanation: ''
-    answer: ' Non-profit organization'
-  - name: about_you
-    label: 'City, State'
-    explanation: 'NULL'
-    answer: 'Santa Monica, California'
-  - name: Does your project impact Los Angeles County?
-    label: Does your project impact Los Angeles County?
-    explanation: Does your project impact Los Angeles County?
-    answer: 'yes'
-body_class: strawberry
-project_summary: "Teach surfing camps – surfing competitions\r\nOrganize Beach Clean ups\r\nBe recognized by the community and other non profits as a local pro environmental organization\r\nSpearhead educational programs outside the classroom. \r\nBring awareness to nature and environmental issues.\r\nhttp://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q"
-published: true
 
 ---

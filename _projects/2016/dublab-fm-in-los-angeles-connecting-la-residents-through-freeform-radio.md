@@ -1,27 +1,22 @@
 ---
+published: true
 organization_id: '2016086'
 year_submitted: 2016
-organization_name: Future Roots Inc.
-organization_website: dublab.com
-ein: ''
-project_image_2: 6890837355741-team91.jpg
+category: connect
+body_class: tangerine
 project_id: '6102077'
+challenge_url: >-
+  https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
 title: 'DUBLAB FM in Los Angeles: Connecting LA Residents Through Freeform Radio'
-organization_name_2: Future Roots Inc.
-organization_activity: >-
-  dublab is a non-profit, online radio station dedicated to the growth of music,
-  arts and culture.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
-project_video: 'https://www.youtube.com/embed/whDuQqva3a8?rel=0&amp;showinfo=0'
 project_summary: >-
   DUBLAB's FM Initiative can help make Los Angeles the best place to connect by
   providing an extremely accessible platform for musicians, DJs, and artists to
   reach LA residents with freeform broadcasts.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
+project_video: 'https://www.youtube.com/embed/whDuQqva3a8?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'Machine Project, Echo Park Film Center'
-project_areas:
-  - City of Los Angeles
 project_measure: >-
   DUBLAB's FM Initiative will be evaluated by the following metrics:
 
@@ -67,6 +62,22 @@ project_impact: >-
   ["Social & emotional support","Cultural events","Travel time to
   work","Residential segregation","Total number of local social media friends
   and connections Angelenos have"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Travel time to work
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+project_proposal_description: >-
+  DUBLAB has received a license from the FCC to broadcast on the FM airwaves in
+  Los Angeles, and would like to build our FM broadcasting capabilities with
+  funding from the LA2050 grant. We will buy a transmitter, an antennae, and be
+  able to hire an engineer to put it all together. The decision for dublab to
+  broadcast on the FM airwaves has been a long time in the making, and is part
+  of a larger organizational effort to engage more listeners with our diverse,
+  freeform broadcasts.
+project_areas:
+  - City of Los Angeles
 project_proposal_best_place: >-
   DUBLAB's FM Initiative can help make Los Angeles the best place to connect by
   providing an extremely accessible platform for musicians, DJs, and artists to
@@ -113,25 +124,7 @@ project_proposal_best_place: >-
   in Los Angeles. DUBLAB also serves as a creative incubator for musicians in
   Los Angeles to develop their sonic experimentations in both live performance
   settings and studio­ based radio broadcasts.
-challenge_url: >-
-  https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
-empty_column_1: ''
-project_proposal_description: >-
-  DUBLAB has received a license from the FCC to broadcast on the FM airwaves in
-  Los Angeles, and would like to build our FM broadcasting capabilities with
-  funding from the LA2050 grant. We will buy a transmitter, an antennae, and be
-  able to hire an engineer to put it all together. The decision for dublab to
-  broadcast on the FM airwaves has been a long time in the making, and is part
-  of a larger organizational effort to engage more listeners with our diverse,
-  freeform broadcasts.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Travel time to work
-  - Residential segregation
-  - Total number of local social media friends and connections Angelenos have
-category: connect
-body_class: tangerine
-published: true
+organization_name: Future Roots Inc.
+organization_website: dublab.com
 
 ---

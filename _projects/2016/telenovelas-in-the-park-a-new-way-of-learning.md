@@ -1,33 +1,24 @@
 ---
+published: true
 organization_id: '2016150'
 year_submitted: 2016
-organization_name: Mujeres de la Tierra
-organization_website: www.mujeresdelatierra.org
-ein: '205270350'
-project_image_2: 4156269625741-team90.jpg
+category: live
+body_class: lime
 project_id: '6102157'
+challenge_url: >-
+  https://challenge.la2050.org/entry/telenovelas-in-the-park-a-new-way-of-learning!
 title: 'Telenovelas in the Park, a new way of learning!'
-organization_name_2: Mujeres de la Tierra
-organization_activity: >-
-  Mujeres de la Tierra is an environmental equity, non-profit focused on healing
-  La Madre Tierra that empowers women and their children to take ownership and
-  act on issues affecting their neighborhoods.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156269625741-team90.jpg
-project_video: 'https://www.youtube.com/embed/0NEAOsciAWM?rel=0&amp;showinfo=0'
 project_summary: >-
   Inspire • Motivate • Teach. Telenovelas for an environmentally conscious
   LA2050
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156269625741-team90.jpg
+project_video: 'https://www.youtube.com/embed/0NEAOsciAWM?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   - Sonia Sotomayor School of History and Dramatic Arts, - Mountains Recreation
   and Conservation Authority (MRCA), - Santa Monica Mountains Conservancy, -
   Tierra Blanca Arts Center
-project_areas:
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - LAUSD
 project_measure: >-
   Telenovelas in the Park is a 35-minute presentation, followed by a 10-minute
   talk to discuss the main environmental issues addressed in the Telenovela. 
@@ -62,6 +53,25 @@ project_description: >-
 project_impact: >-
   ["Waterways","Exposure to air toxins","Self-sufficiency","Local
   water","Resilient communities"]
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Local water
+  - Resilient communities
+project_proposal_description: >-
+  Telenovelas in the Park utilizes a fun and entertaining platform of the
+  traditional Latino soap opera to educate, inform, and instill a high
+  environmental ethic. Telenovelas in the Park catalyzes and inspires Angelenos
+  to change their behaviors by emphasizing the importance of water conservation,
+  of reducing plastics pollution, and other actions individuals can take to
+  protect our environment and our city. The platform is flexible, which allows
+  us to address multiple environmental issues.
+project_areas:
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - LAUSD
 project_proposal_best_place: >-
   Telenovelas in the Park will make LA the best place to LIVE by activating a
   change in behavior that will make Angelenos environmentally conscious and will
@@ -108,25 +118,7 @@ project_proposal_best_place: >-
 
 
   •Create in the public civic engagement in individual and collective action.
-challenge_url: >-
-  https://challenge.la2050.org/entry/telenovelas-in-the-park-a-new-way-of-learning!
-empty_column_1: ''
-project_proposal_description: >-
-  Telenovelas in the Park utilizes a fun and entertaining platform of the
-  traditional Latino soap opera to educate, inform, and instill a high
-  environmental ethic. Telenovelas in the Park catalyzes and inspires Angelenos
-  to change their behaviors by emphasizing the importance of water conservation,
-  of reducing plastics pollution, and other actions individuals can take to
-  protect our environment and our city. The platform is flexible, which allows
-  us to address multiple environmental issues.
-project_proposal_impact:
-  - Waterways
-  - Exposure to air toxins
-  - Self-sufficiency
-  - Local water
-  - Resilient communities
-category: live
-body_class: lime
-published: true
+organization_name: Mujeres de la Tierra
+organization_website: www.mujeresdelatierra.org
 
 ---

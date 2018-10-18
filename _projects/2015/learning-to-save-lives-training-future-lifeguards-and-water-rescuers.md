@@ -1,9 +1,11 @@
 ---
+published: true
+organization_id: '2016039'
+year_submitted: 2015
+category: learn
+body_class: blueberry
 project_id: '5102060'
 title: 'Learning to Save Lives: Training Future Lifeguards and Water Rescuers'
-organization_id: '2016039'
-areas_impacted: ''
-partners: ''
 project_summary: >-
   Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
   during the summer at two open water locations within the City. Taught by
@@ -12,8 +14,138 @@ project_summary: >-
   professional lifesaving equipment.  Our Program is designed to educate and
   impassion youth to appreciate and respect the marine environment and introduce
   youth to a career choice in water safety.  
+project_image: 'https://img.youtube.com/vi/U-UzxBOeJm8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/U-UzxBOeJm8'
+project_areas:
+  - San Fernando Valley
+  - South Bay
+maker_answers:
+  Organization(s) name(s): City of Los Angeles Department of Recreation and Parks (RAP)
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) mailing address(es): '221 N. Figueroa Street, Los Angeles, CA  90012'
+  Organization(s) website(s): www.laparks.org
+  Organization(s) twitter handle(s): 'https://twitter.com/LACityParks'
+  Organization(s) facebook handle(s): 'https://www.facebook.com/LACityParks'
+  Organization(s) instagram handle(s): 'https://instagram.com/lacityparks/'
+  Please share the direct link for voters to sign up for your newsletter(s): ''
+  EIN (for each organization): 95-6000735
+  'Describe your organization(s): Non-profit': '0'
+  'Describe your organization(s): For-profit': '0'
+  'Describe your organization(s): Government': '1'
+  'Describe your organization(s): Other': '0'
+  'Describe your organization(s): Specifics': ''
+  'In one sentence, please describe what your organization does.': >-
+    The City of Los Angeles, Department of Recreation and Parks (RAP) provides
+    healthy lifestyle opportunities and experiences for families in Los Angeles.
+  'In one to three sentences, please describe your proposal.': >-
+    Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
+    during the summer at two open water locations within the City. Taught by
+    certified lifeguards, our Program is  competitive and rigorous, providing
+    instruction in physical conditioning, competition skills, and the use of
+    professional lifesaving equipment.  Our Program is designed to educate and
+    impassion youth to appreciate and respect the marine environment and
+    introduce youth to a career choice in water safety.  
+  Please write a sample tweet to describe your submission.: >-
+    #SavingLives – Join RAP and make a difference by being a part of
+    #OpenWaterJuniorLifeguardProgram 
+  LA is the best place to PLAY: '0'
+  LA is the best place to CREATE: '0'
+  LA is the best place to CONNECT: '0'
+  LA is the healthiest place to LIVE: '1'
+  Where will you be working? Central LA: '0'
+  Where will you be working? East LA: '0'
+  Where will you be working? San Gabriel Valley: '0'
+  Where will you be working? San Fernando Valley: '1'
+  Where will you be working? South LA: '0'
+  Where will you be working? Westside: '0'
+  Where will you be working? South Bay: '1'
+  Where will you be working? Antelope Valley: '0'
+  Where will you be working? County of Los Angeles: '0'
+  Where will you be working? City of Los Angeles: '0'
+  Where will you be working? LAUSD: '0'
+  Where will you be working? Other: '1'
+  Where will you be working? Specifics: 'Hansen Dam, Lake View Terrace, CA; Cabrillo Beach, San Pedro, CA'
+  How do you plan to use these resources to make change? Conduct research: '1'
+  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
+  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  How do you plan to use these resources to make change? Implement and track policy: '1'
+  How do you plan to use these resources to make change? Other: '0'
+  How do you plan to use these resources to make change? Specifics: ''
+  How will your proposal improve the following “Learn” metrics? Percentage of children enrolled in early education programs: '0'
+  'How will your proposal improve the following “Learn” metrics? Percent of community college students completing a certificate, degree, or transfer-related program in six years': '0'
+  How will your proposal improve the following “Learn” metrics? Youth unemployment and underemployment: '1'
+  How will your proposal improve the following “Learn” metrics?  District-wide graduation rates: '0'
+  How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesHS student proficiency in English & Language Arts and Math: '0'
+  How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesAcademic Performance Index* scores: '0'
+  How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesCollege matriculation rates: '0'
+  'How will your proposal improve the following “Learn” metrics?  Student education pipeline (an integrated network of pre-schools, K-12 institutions, and higher education systems that prepares students for seamless transitions between high school, higher ed': '0'
+  How will your proposal improve the following “Learn” metrics? Suspension and expulsion rates (Dream Metric): '0'
+  How will your proposal improve the following “Learn” metrics? Truancy rates in elementary and middle schools (Dream Metric): '0'
+  How will your proposal improve the following “Learn” metrics? Students perceived sense of safety at and on the way to school (Dream Metric): '0'
+  Describe in greater detail how you will make LA the best place to learn.: >-
+    Our Program recognizes that youth instruction requires more than classroom
+    activity or simple repetition of tasks.  Youth instruction requires respect
+    for the student and a holistic approach that seeks to create a stronger,
+    wiser, more tolerant person.  That vision must extend to the role of the
+    individual in his or her community beyond the time in the learning
+    environment.  This program provides opportunity to use paddle boards,
+    beaches and the fellowship of the lifeguarding community in that learning
+    environment.   That’s a home field advantage we can use to build better
+    youth, better communities, and a better City.  
+  How can the LA2050 community and other stakeholders help your proposal succeed?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+  How do you plan to use these resources to make change?:
+    - Conduct research
+    - Engage residents and stakeholders
+    - Implement and track policy
+  Where will you be working?:
+    - San Fernando Valley
+    - South Bay
+    - 'Hansen Dam, Lake View Terrace, CA; Cabrillo Beach, San Pedro, CA'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'Advocacy:  Water Safety, Fitness, Healthy Lifestyles'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
+  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
+  How will your proposal improve the following “Learn” metrics?:
+    - Youth unemployment and underemployment
+  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "We've encountered challenges due to the distance between Hansen Dam and our other location, Cabrillo Beach.  Hansen Dam offers a large recreation lake that well prepares the youth to become an Open Water Junior Lifeguard.  However, it is not the same as ocean training.  To remedy this challenge, we believe a field trip once a week to the beach would help the Hansen Dam participants adapt to the ocean environment. An additional benefit allows these participants a competitive balance in regional competitions having greater exposure and training in ocean conditions during the program.\r\nAt the end of each Program, the youth are more fit, have increased problem solving and social skills, and a greater sense of self. With this grant, the City could offer program scholarships to those families that would financially not be able to participate in the Open Water Junior Lifeguard program, thereby helping their children succeed not only in the Program and future employment, but also in life.  "
+  Please explain how you will evaluate your work.: "Our work will be evaluated based on the success of the participants. RAP instructors create a curriculum prior to the beginning of the program based on the United States Lifesaving Association, which is the governing body for all open water programs/agencies.\r\n\r\nRAP's program is divided into four age groups:  9-11/12-13/14-15/16-17.  Staff set the same goals for all the different age groups. For instance, during the first year, the goals set for the younger group is to ensure water confidence in the surf and open water environment. By the end of the summer, all junior guards are to be confident in the following: Open water swim in ocean/lakes, Long distance swim and run, Run/swim/run time trials, Basic CPR-First Aid-swim rescues, Competitiveness at meets with other open water agencies.\r\n\r\nThe ultimate design for the junior lifeguards besides life skills and conditioning is to also be a feeder into RAP's Lifeguard program.  Many generations of our lifeguards began as Junior Lifeguards."
+  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are indeed other organizations with similar programs, largely municipal and county-based Junior Lifeguard programs. The County of Los Angeles sponsors a Junior Lifeguard program, while several coastal communities, including Redondo Beach and Huntington Beach, do the same.  The uniqueness of the City of Los Angeles program is that it endeavors to be inclusive to inland residents, rather than relying on a base of beach-community residents, while still providing exposure to open water (ocean) skills and experiences.  \r\nThe proposal to deliberately incorporate a social component is another uniqueness, resulting from the diversity of the urban experiences that defines our user base.\r\n"
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
+  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
+    The cost of the overall program is estimated at $99,708.91.  Receiving a
+    grant to fund RAP’s Summer 2016 Open Water Junior Lifeguard Program will
+    allow for professional Lifeguard training, resources, field trips to
+    Catalina Island and other environmental refuges, and fund one year’s United
+    States Lifesaving Association (USLA) membership fees for each participant. 
+    The budget also includes additional field trips to the beach for the Hansen
+    Dam participants allowing more exposure to the ocean waters and its
+    environment.  For the first year, scholarships will be available for youth
+    drawn from challenging social-economic areas.
+  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Full-Time Program Operational Staff.....$5,064.00\r\nPart-Time Program Operational Staff....$40,362.88\r\nFringe Benefits Staff Costs.....................$6,255.41\r\nIndirect Staff Costs..................................$5,546.62\r\nEquipment, Supplies, Materials..............$42,480.00\r\n\r\nTotal Program Costs = $99,708.91\r\n"
+  How do you plan to scale the success of your proposal?: >-
+    The focus would be to scale the impacts of a successful program, rather than
+    the size of the program itself, by creating stronger, healthier individuals
+    that would in turn infiltrate those newly adopted values into their own
+    communities.  Having learned the benefits of physical conditioning, the
+    strategy of networking and team problem solving, and perhaps some specific
+    employment skills, these program participants then become mentors by example
+    to their friends and neighbors.   
+areas_impacted: ''
+partners: ''
 Please specify below: 'Hansen Dam, Lake View Terrace, CA; Cabrillo Beach, San Pedro, CA'
-category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
   I would like to create KIPP, a Kids Indoor Play Park for all young children
   (baby, infant, toddler) to participate in and develop social and physical
@@ -109,553 +241,7 @@ How do you plan to scale the success of your proposal?: >-
   preschool programs. Additionally, KIPP will fulfill the need for programming
   for babies, infants, and toddlers that the City of LA does not currently
   provide.
-year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/U-UzxBOeJm8/maxresdefault.jpg'
-project_video: 'https://www.youtube.com/embed/U-UzxBOeJm8'
 youtube_video_identifier: U-UzxBOeJm8
-project_areas:
-  - San Fernando Valley
-  - South Bay
-maker_answers:
-  'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): City of Los Angeles Department of Recreation and Parks (RAP)
-  Organization(s) mailing address(es): '221 N. Figueroa Street, Los Angeles, CA  90012'
-  Organization(s) website(s): www.laparks.org
-  Organization(s) twitter handle(s): 'https://twitter.com/LACityParks'
-  Organization(s) facebook handle(s): 'https://www.facebook.com/LACityParks'
-  Organization(s) instagram handle(s): 'https://instagram.com/lacityparks/'
-  Please share the direct link for voters to sign up for your newsletter(s): ''
-  EIN (for each organization): 95-6000735
-  'Describe your organization(s): Non-profit': '0'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '1'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
-  'In one sentence, please describe what your organization does.': >-
-    The City of Los Angeles, Department of Recreation and Parks (RAP) provides
-    healthy lifestyle opportunities and experiences for families in Los Angeles.
-  'In one to three sentences, please describe your proposal.': >-
-    Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
-    during the summer at two open water locations within the City. Taught by
-    certified lifeguards, our Program is  competitive and rigorous, providing
-    instruction in physical conditioning, competition skills, and the use of
-    professional lifesaving equipment.  Our Program is designed to educate and
-    impassion youth to appreciate and respect the marine environment and
-    introduce youth to a career choice in water safety.  
-  Please write a sample tweet to describe your submission.: >-
-    #SavingLives – Join RAP and make a difference by being a part of
-    #OpenWaterJuniorLifeguardProgram 
-  LA is the best place to PLAY: '0'
-  LA is the best place to CREATE: '0'
-  LA is the best place to CONNECT: '0'
-  LA is the healthiest place to LIVE: '1'
-  Where will you be working? Central LA: '0'
-  Where will you be working? East LA: '0'
-  Where will you be working? San Gabriel Valley: '0'
-  Where will you be working? San Fernando Valley: '1'
-  Where will you be working? South LA: '0'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '1'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles: '0'
-  Where will you be working? City of Los Angeles: '0'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '1'
-  Where will you be working? Specifics: 'Hansen Dam, Lake View Terrace, CA; Cabrillo Beach, San Pedro, CA'
-  How do you plan to use these resources to make change? Conduct research: '1'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: ''
-  How will your proposal improve the following “Learn” metrics? Percentage of children enrolled in early education programs: '0'
-  'How will your proposal improve the following “Learn” metrics? Percent of community college students completing a certificate, degree, or transfer-related program in six years': '0'
-  How will your proposal improve the following “Learn” metrics? Youth unemployment and underemployment: '1'
-  How will your proposal improve the following “Learn” metrics?  District-wide graduation rates: '0'
-  How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesHS student proficiency in English & Language Arts and Math: '0'
-  How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesAcademic Performance Index* scores: '0'
-  How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesCollege matriculation rates: '0'
-  'How will your proposal improve the following “Learn” metrics?  Student education pipeline (an integrated network of pre-schools, K-12 institutions, and higher education systems that prepares students for seamless transitions between high school, higher ed': '0'
-  How will your proposal improve the following “Learn” metrics? Suspension and expulsion rates (Dream Metric): '0'
-  How will your proposal improve the following “Learn” metrics? Truancy rates in elementary and middle schools (Dream Metric): '0'
-  How will your proposal improve the following “Learn” metrics? Students perceived sense of safety at and on the way to school (Dream Metric): '0'
-  Describe in greater detail how you will make LA the best place to learn.: >-
-    Our Program recognizes that youth instruction requires more than classroom
-    activity or simple repetition of tasks.  Youth instruction requires respect
-    for the student and a holistic approach that seeks to create a stronger,
-    wiser, more tolerant person.  That vision must extend to the role of the
-    individual in his or her community beyond the time in the learning
-    environment.  This program provides opportunity to use paddle boards,
-    beaches and the fellowship of the lifeguarding community in that learning
-    environment.   That’s a home field advantage we can use to build better
-    youth, better communities, and a better City.  
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "We've encountered challenges due to the distance between Hansen Dam and our other location, Cabrillo Beach.  Hansen Dam offers a large recreation lake that well prepares the youth to become an Open Water Junior Lifeguard.  However, it is not the same as ocean training.  To remedy this challenge, we believe a field trip once a week to the beach would help the Hansen Dam participants adapt to the ocean environment. An additional benefit allows these participants a competitive balance in regional competitions having greater exposure and training in ocean conditions during the program.\r\nAt the end of each Program, the youth are more fit, have increased problem solving and social skills, and a greater sense of self. With this grant, the City could offer program scholarships to those families that would financially not be able to participate in the Open Water Junior Lifeguard program, thereby helping their children succeed not only in the Program and future employment, but also in life.  "
-  Please explain how you will evaluate your work.: "Our work will be evaluated based on the success of the participants. RAP instructors create a curriculum prior to the beginning of the program based on the United States Lifesaving Association, which is the governing body for all open water programs/agencies.\r\n\r\nRAP's program is divided into four age groups:  9-11/12-13/14-15/16-17.  Staff set the same goals for all the different age groups. For instance, during the first year, the goals set for the younger group is to ensure water confidence in the surf and open water environment. By the end of the summer, all junior guards are to be confident in the following: Open water swim in ocean/lakes, Long distance swim and run, Run/swim/run time trials, Basic CPR-First Aid-swim rescues, Competitiveness at meets with other open water agencies.\r\n\r\nThe ultimate design for the junior lifeguards besides life skills and conditioning is to also be a feeder into RAP's Lifeguard program.  Many generations of our lifeguards began as Junior Lifeguards."
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are indeed other organizations with similar programs, largely municipal and county-based Junior Lifeguard programs. The County of Los Angeles sponsors a Junior Lifeguard program, while several coastal communities, including Redondo Beach and Huntington Beach, do the same.  The uniqueness of the City of Los Angeles program is that it endeavors to be inclusive to inland residents, rather than relying on a base of beach-community residents, while still providing exposure to open water (ocean) skills and experiences.  \r\nThe proposal to deliberately incorporate a social component is another uniqueness, resulting from the diversity of the urban experiences that defines our user base.\r\n"
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The cost of the overall program is estimated at $99,708.91.  Receiving a
-    grant to fund RAP’s Summer 2016 Open Water Junior Lifeguard Program will
-    allow for professional Lifeguard training, resources, field trips to
-    Catalina Island and other environmental refuges, and fund one year’s United
-    States Lifesaving Association (USLA) membership fees for each participant. 
-    The budget also includes additional field trips to the beach for the Hansen
-    Dam participants allowing more exposure to the ocean waters and its
-    environment.  For the first year, scholarships will be available for youth
-    drawn from challenging social-economic areas.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Full-Time Program Operational Staff.....$5,064.00\r\nPart-Time Program Operational Staff....$40,362.88\r\nFringe Benefits Staff Costs.....................$6,255.41\r\nIndirect Staff Costs..................................$5,546.62\r\nEquipment, Supplies, Materials..............$42,480.00\r\n\r\nTotal Program Costs = $99,708.91\r\n"
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'Advocacy:  Water Safety, Fitness, Healthy Lifestyles'
-  How do you plan to scale the success of your proposal?: >-
-    The focus would be to scale the impacts of a successful program, rather than
-    the size of the program itself, by creating stronger, healthier individuals
-    that would in turn infiltrate those newly adopted values into their own
-    communities.  Having learned the benefits of physical conditioning, the
-    strategy of networking and team problem solving, and perhaps some specific
-    employment skills, these program participants then become mentors by example
-    to their friends and neighbors.   
-  Where will you be working?:
-    - San Fernando Valley
-    - South Bay
-    - 'Hansen Dam, Lake View Terrace, CA; Cabrillo Beach, San Pedro, CA'
-  How do you plan to use these resources to make change?:
-    - Conduct research
-    - Engage residents and stakeholders
-    - Implement and track policy
-  How can the LA2050 community and other stakeholders help your proposal succeed?:
-    - Money (financial capital)
-    - Publicity/awareness (social capital)
-    - Community outreach
-  How will your proposal improve the following “Learn” metrics?:
-    - Youth unemployment and underemployment
-maker_answers_list:
-  - name: 'City, State'
-    label: 'City, State'
-    explanation: 'Please follow this format: Los Angeles, CA'
-    answer: 'Los Angeles, CA'
-  - name: Organization(s) name(s)
-    label: Organization(s) name(s)
-    explanation: >-
-      Please list the names of all organizations if there are more than one
-      organization involved.
-    answer: City of Los Angeles Department of Recreation and Parks (RAP)
-  - name: Organization(s) mailing address(es)
-    label: Organization(s) mailing address(es)
-    explanation: >-
-      Please list all mailing addresses if there are more than one organization
-      involved. Please follow the format: 1234 Wilshire Blvd, Los Angeles, CA
-      90048
-    answer: '221 N. Figueroa Street, Los Angeles, CA  90012'
-  - name: Organization(s) website(s)
-    label: Organization(s) website(s)
-    explanation: 'Please follow this format: www.LA2050.org'
-    answer: www.laparks.org
-  - name: Organization(s) twitter handle(s)
-    label: Organization(s) twitter handle(s)
-    explanation: 'Please follow this format: www.twitter.com/LA2050'
-    answer: 'https://twitter.com/LACityParks'
-  - name: Organization(s) facebook handle(s)
-    label: Organization(s) facebook handle(s)
-    explanation: 'Please follow this format: www.facebook.com/LA2050'
-    answer: 'https://www.facebook.com/LACityParks'
-  - name: Organization(s) instagram handle(s)
-    label: Organization(s) instagram handle(s)
-    explanation: 'Please follow this format: www.instagram.com/LA2050'
-    answer: 'https://instagram.com/lacityparks/'
-  - name: Please share the direct link for voters to sign up for your newsletter(s)
-    label: Please share the direct link for voters to sign up for your newsletter(s)
-    explanation: ''
-    answer: ''
-  - name: EIN (for each organization)
-    label: EIN (for each organization)
-    explanation: 'Please follow this format: xx-xxxxxxx'
-    answer: 95-6000735
-  - name: 'Describe your organization(s): Non-profit'
-    label: Non-profit organization
-    explanation: ''
-    answer: '0'
-  - name: 'Describe your organization(s): For-profit'
-    label: For-profit organization
-    explanation: ''
-    answer: '0'
-  - name: 'Describe your organization(s): Government'
-    label: Government
-    explanation: ''
-    answer: '1'
-  - name: 'Describe your organization(s): Other'
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: 'Describe your organization(s): Specifics'
-    label: ''
-    explanation: ''
-    answer: ''
-  - name: 'In one sentence, please describe what your organization does.'
-    label: ''
-    explanation: ''
-    answer: >-
-      The City of Los Angeles, Department of Recreation and Parks (RAP) provides
-      healthy lifestyle opportunities and experiences for families in Los
-      Angeles.
-  - name: 'In one to three sentences, please describe your proposal.'
-    label: ''
-    explanation: ''
-    answer: >-
-      Geared for youth ages 9-17, the Open Water Junior Lifeguard Program
-      operates during the summer at two open water locations within the City.
-      Taught by certified lifeguards, our Program is  competitive and rigorous,
-      providing instruction in physical conditioning, competition skills, and
-      the use of professional lifesaving equipment.  Our Program is designed to
-      educate and impassion youth to appreciate and respect the marine
-      environment and introduce youth to a career choice in water safety.  
-  - name: Please write a sample tweet to describe your submission.
-    label: ''
-    explanation: ''
-    answer: >-
-      #SavingLives – Join RAP and make a difference by being a part of
-      #OpenWaterJuniorLifeguardProgram 
-  - name: LA is the best place to PLAY
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '0'
-  - name: LA is the best place to CREATE
-    label: LA is the best place to CREATE
-    explanation: ''
-    answer: '0'
-  - name: LA is the best place to CONNECT
-    label: LA is the best place to CONNECT
-    explanation: ''
-    answer: '0'
-  - name: LA is the healthiest place to LIVE
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Central LA
-    label: Central LA
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? East LA
-    label: East LA
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? San Gabriel Valley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? San Fernando Valley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? South LA
-    label: South LA
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? Westside
-    label: Westside
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? South Bay
-    label: South Bay
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Antelope Valley
-    label: Antelope Valley
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? County of Los Angeles
-    label: County of Los Angeles (countywide)
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? City of Los Angeles
-    label: City of Los Angeles (citywide)
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? LAUSD
-    label: LAUSD
-    explanation: ''
-    answer: '0'
-  - name: Where will you be working? Other
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '1'
-  - name: Where will you be working? Specifics
-    label: e.g. Third Street Middle School; Boyle Heights; LA County
-    explanation: ''
-    answer: 'Hansen Dam, Lake View Terrace, CA; Cabrillo Beach, San Pedro, CA'
-  - name: How do you plan to use these resources to make change? Conduct research
-    label: Conduct research
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Engage residents
-      and stakeholders
-    label: Engage residents and stakeholders
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Implement a pilot
-      or new project
-    label: Implement a pilot or new project
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How do you plan to use these resources to make change? Expand a pilot or
-      program
-    label: Expand a pilot or program
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How do you plan to use these resources to make change? Mobilize for
-      systems change
-    label: Mobilize for systems change
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How do you plan to use these resources to make change? Advocate with
-      policymakers and leaders
-    label: Advocate with policymakers and leaders
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How do you plan to use these resources to make change? Implement and track
-      policy
-    label: Implement and track policy
-    explanation: ''
-    answer: '1'
-  - name: How do you plan to use these resources to make change? Other
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '0'
-  - name: How do you plan to use these resources to make change? Specifics
-    label: ''
-    explanation: ''
-    answer: ''
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? Percentage
-      of children enrolled in early education programs
-    label: Percentage of children enrolled in early education programs
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? Percent of
-      community college students completing a certificate, degree, or
-      transfer-related program in six years
-    label: >-
-      Percentage of community college students completing a certificate, degree,
-      or transfer-related program in six years
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? Youth
-      unemployment and underemployment
-    label: Youth unemployment and underemployment
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? 
-      District-wide graduation rates
-    label: District-wide graduation rates
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? 
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    label: HS student proficiency in English & Language Arts and Math
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? 
-      District-wide graduation ratesAcademic Performance Index* scores
-    label: Academic Performance Index* scores
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? 
-      District-wide graduation ratesCollege matriculation rates
-    label: College matriculation rates
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics?  Student
-      education pipeline (an integrated network of pre-schools, K-12
-      institutions, and higher education systems that prepares students for
-      seamless transitions between high school, higher ed
-    label: >-
-      Student education pipeline (an integrated network of pre-schools, K-12
-      institutions, and higher education systems that prepares students for
-      seamless transitions between high school, higher education institutions,
-      and the workforce) (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? Suspension
-      and expulsion rates (Dream Metric)
-    label: Suspension and expulsion rates (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? Truancy
-      rates in elementary and middle schools (Dream Metric)
-    label: Truancy rates in elementary and middle schools (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How will your proposal improve the following “Learn” metrics? Students
-      perceived sense of safety at and on the way to school (Dream Metric)
-    label: >-
-      Students perceived sense of safety at and on the way to school (Dream
-      Metric)
-    explanation: ''
-    answer: '0'
-  - name: Describe in greater detail how you will make LA the best place to learn.
-    label: ''
-    explanation: ''
-    answer: >-
-      Our Program recognizes that youth instruction requires more than classroom
-      activity or simple repetition of tasks.  Youth instruction requires
-      respect for the student and a holistic approach that seeks to create a
-      stronger, wiser, more tolerant person.  That vision must extend to the
-      role of the individual in his or her community beyond the time in the
-      learning environment.  This program provides opportunity to use paddle
-      boards, beaches and the fellowship of the lifeguarding community in that
-      learning environment.   That’s a home field advantage we can use to build
-      better youth, better communities, and a better City.  
-  - name: >-
-      Please list at least one major barrier/challenge you anticipate. What is
-      your strategy for overcoming these obstacles?
-    label: ''
-    explanation: ''
-    answer: "We've encountered challenges due to the distance between Hansen Dam and our other location, Cabrillo Beach.  Hansen Dam offers a large recreation lake that well prepares the youth to become an Open Water Junior Lifeguard.  However, it is not the same as ocean training.  To remedy this challenge, we believe a field trip once a week to the beach would help the Hansen Dam participants adapt to the ocean environment. An additional benefit allows these participants a competitive balance in regional competitions having greater exposure and training in ocean conditions during the program.\r\nAt the end of each Program, the youth are more fit, have increased problem solving and social skills, and a greater sense of self. With this grant, the City could offer program scholarships to those families that would financially not be able to participate in the Open Water Junior Lifeguard program, thereby helping their children succeed not only in the Program and future employment, but also in life.  "
-  - name: Please explain how you will evaluate your work.
-    label: ''
-    explanation: ''
-    answer: "Our work will be evaluated based on the success of the participants. RAP instructors create a curriculum prior to the beginning of the program based on the United States Lifesaving Association, which is the governing body for all open water programs/agencies.\r\n\r\nRAP's program is divided into four age groups:  9-11/12-13/14-15/16-17.  Staff set the same goals for all the different age groups. For instance, during the first year, the goals set for the younger group is to ensure water confidence in the surf and open water environment. By the end of the summer, all junior guards are to be confident in the following: Open water swim in ocean/lakes, Long distance swim and run, Run/swim/run time trials, Basic CPR-First Aid-swim rescues, Competitiveness at meets with other open water agencies.\r\n\r\nThe ultimate design for the junior lifeguards besides life skills and conditioning is to also be a feeder into RAP's Lifeguard program.  Many generations of our lifeguards began as Junior Lifeguards."
-  - name: >-
-      Are there other organizations doing similar work (whether complementary or
-      competitive)? What is unique about your proposed approach?
-    label: ''
-    explanation: ''
-    answer: "There are indeed other organizations with similar programs, largely municipal and county-based Junior Lifeguard programs. The County of Los Angeles sponsors a Junior Lifeguard program, while several coastal communities, including Redondo Beach and Huntington Beach, do the same.  The uniqueness of the City of Los Angeles program is that it endeavors to be inclusive to inland residents, rather than relying on a base of beach-community residents, while still providing exposure to open water (ocean) skills and experiences.  \r\nThe proposal to deliberately incorporate a social component is another uniqueness, resulting from the diversity of the urban experiences that defines our user base.\r\n"
-  - name: >-
-      Please identify any partners or collaborators who will work with you on
-      this project. How much of the $100,000 grant award will each partner
-      receive?
-    label: ''
-    explanation: ''
-    answer: N/A
-  - name: >-
-      How much do you think this will cost? If more than $100,000 – how will you
-      cover the additional costs?
-    label: ''
-    explanation: ''
-    answer: >-
-      The cost of the overall program is estimated at $99,708.91.  Receiving a
-      grant to fund RAP’s Summer 2016 Open Water Junior Lifeguard Program will
-      allow for professional Lifeguard training, resources, field trips to
-      Catalina Island and other environmental refuges, and fund one year’s
-      United States Lifesaving Association (USLA) membership fees for each
-      participant.  The budget also includes additional field trips to the beach
-      for the Hansen Dam participants allowing more exposure to the ocean waters
-      and its environment.  For the first year, scholarships will be available
-      for youth drawn from challenging social-economic areas.
-  - name: >-
-      Please include a detailed budget of how you will use $100,000 to implement
-      this project.
-    label: ''
-    explanation: ''
-    answer: "Full-Time Program Operational Staff.....$5,064.00\r\nPart-Time Program Operational Staff....$40,362.88\r\nFringe Benefits Staff Costs.....................$6,255.41\r\nIndirect Staff Costs..................................$5,546.62\r\nEquipment, Supplies, Materials..............$42,480.00\r\n\r\nTotal Program Costs = $99,708.91\r\n"
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Money (financial capital)
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Volunteers/staff (human capital)
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Publicity/awareness (social capital)
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Infrastructure (building/space/vehicles, etc.)
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Education/training
-    label: Education/training
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Technical infrastructure (computers, etc.)
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Community outreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Network/relationship support
-    label: Network/relationship support
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Quality improvement research
-    label: Quality improvement research
-    explanation: ''
-    answer: '0'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Other
-    label: 'Other (please specify below):'
-    explanation: ''
-    answer: '1'
-  - name: >-
-      How can the LA2050 community and other stakeholders help your proposal
-      succeed? Specifics
-    label: ''
-    explanation: ''
-    answer: 'Advocacy:  Water Safety, Fitness, Healthy Lifestyles'
-  - name: How do you plan to scale the success of your proposal?
-    label: ''
-    explanation: ''
-    answer: >-
-      The focus would be to scale the impacts of a successful program, rather
-      than the size of the program itself, by creating stronger, healthier
-      individuals that would in turn infiltrate those newly adopted values into
-      their own communities.  Having learned the benefits of physical
-      conditioning, the strategy of networking and team problem solving, and
-      perhaps some specific employment skills, these program participants then
-      become mentors by example to their friends and neighbors.   
-body_class: blueberry
 organization_name: City of Los Angeles Department of Recreation and Parks (RAP)
-published: true
 
 ---

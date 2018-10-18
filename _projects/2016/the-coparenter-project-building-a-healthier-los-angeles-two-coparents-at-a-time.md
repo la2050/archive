@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016104'
 year_submitted: 2016
-organization_name: 'HyphenUs, Inc.'
-organization_website: www.coparenter.com
-ein: ''
-project_image_2: 0439357476741-team91.png
+category: live
+body_class: lime
 project_id: '6102172'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time
 title: >-
   The coParenter Project: building a healthier Los Angeles two coParents at a
   time
-organization_name_2: 'HyphenUs, Inc.'
-organization_activity: >-
-  We are building a coParenting movement to educate, inform and empower parents
-  with online dispute resolution to take a child-centric approach to separation,
-  divorce and coParenting.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
-project_video: ''
 project_summary: >-
   coParenter provides education, resources & tools to help over 150k separated &
   divorced parents in LA disrupt the onset of ACEs (Adverse Childhood
   Experiences) and make better decisions for their kids
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Our goal is to measurably improve coParenting for over 12,000 individual
   children in Los Angeles County.  In addition to utilizing powerful digital
@@ -63,6 +56,21 @@ project_description: >-
 project_impact: >-
   ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
   experiences"]
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+project_proposal_description: >-
+  coParenter Project targets nearly 3M separated, divorced and never-married
+  Angelino parents, empowering them to save money, stay out of court and make
+  better decisions for their children. The initiative offers high-quality
+  education, personalized coaching and access to a state-of-the-art coParenting
+  management and mediation platform. #coParenterProject, a moderated twitter
+  initiative, helps kids exposed to parents’ separation find answers, get help
+  and build community.
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   There are almost 3 million Angelinos in an active coParenting relationship
   with an additional 200,000 Los Angeles residents joining that community every
@@ -98,23 +106,7 @@ project_proposal_best_place: >-
   innovative, first-of-its-kind network. These three activities will directly
   address the LA2050 live metric of disrupting adverse childhood events and have
   wide impact on child and family well-being across LA County.
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time
-empty_column_1: ''
-project_proposal_description: >-
-  coParenter Project targets nearly 3M separated, divorced and never-married
-  Angelino parents, empowering them to save money, stay out of court and make
-  better decisions for their children. The initiative offers high-quality
-  education, personalized coaching and access to a state-of-the-art coParenting
-  management and mediation platform. #coParenterProject, a moderated twitter
-  initiative, helps kids exposed to parents’ separation find answers, get help
-  and build community.
-project_proposal_impact:
-  - Self-sufficiency
-  - Resilient communities
-  - Prevalence of adverse childhood experiences
-category: live
-body_class: lime
-published: true
+organization_name: 'HyphenUs, Inc.'
+organization_website: www.coparenter.com
 
 ---

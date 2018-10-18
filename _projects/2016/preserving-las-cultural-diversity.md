@@ -1,32 +1,24 @@
 ---
+published: true
 organization_id: '2016136'
 year_submitted: 2016
-organization_name: Los Angeles LISC
-organization_website: www.lisc.org/los_angeles
-ein: ''
-project_image_2: 2540983165741-team91.png
+category: create
+body_class: banana
 project_id: '6102142'
+challenge_url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
 title: Preserving LA's Cultural Diversity
-organization_name_2: Los Angeles LISC
-organization_activity: >-
-  LISC equips struggling communities with the capital, strategy and know-how to
-  become places where people and businesses can thrive.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
-project_video: 'https://www.youtube.com/embed/xJxjON6kbbU?rel=0&amp;showinfo=0'
 project_summary: >-
   Preserving LA’s diverse commercial hubs will support cultural entrepreneurship
   and the creation of jobs to ensure a sustainable future for LA's creative
   communities.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
+project_video: 'https://www.youtube.com/embed/xJxjON6kbbU?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Coalition for Responsible Community Development; Little Tokyo Service Center;
   East Los Angeles Community Corporation; LP Village 2020 Vision Initiative, LA
   Commons
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
 project_measure: >-
   LA LISC is seeking to engage stakeholders in a coordinated effort to develop
   cultural economic strategies. It is our hope to inspire the need for
@@ -71,6 +63,23 @@ project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)","Minority- and
   women-owned firms"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+project_proposal_description: >-
+  Over the last 10 years, LA neighborhoods have undergone unprecedented change.
+  Expanding public transit options and the blossoming of dynamic art centers,
+  have transformed neighborhoods that once had limited desirability into
+  attractive places to live and work. LA LISC seeks to empower four culturally
+  diverse neighborhoods to negotiate the change process and develop a robust
+  approach for leveraging culture as a tool for promoting sustainable
+  neighborhood identities and economic development.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
 project_proposal_best_place: >-
   Preserving LA’s diverse commercial hubs will support cultural entrepreneurship
   and the creation of jobs to ensure a sustainable future for LA's creative
@@ -124,23 +133,7 @@ project_proposal_best_place: >-
   (3) Support and grow entrepreneurial enterprises contributing to neighborhood
   cultural vibrancy. The goal will be to assist these businesses with access to
   capital, information, larger markets and technical assistance.
-challenge_url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
-empty_column_1: ''
-project_proposal_description: >-
-  Over the last 10 years, LA neighborhoods have undergone unprecedented change.
-  Expanding public transit options and the blossoming of dynamic art centers,
-  have transformed neighborhoods that once had limited desirability into
-  attractive places to live and work. LA LISC seeks to empower four culturally
-  diverse neighborhoods to negotiate the change process and develop a robust
-  approach for leveraging culture as a tool for promoting sustainable
-  neighborhood identities and economic development.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-category: create
-body_class: banana
-published: true
+organization_name: Los Angeles LISC
+organization_website: www.lisc.org/los_angeles
 
 ---

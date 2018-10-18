@@ -1,29 +1,22 @@
 ---
+published: true
 organization_id: '2016039'
 year_submitted: 2016
-organization_name: City of Los Angeles Department of Recreation and Parks
-organization_website: www.laparks.org
-ein: '956000735'
-project_image_2: 9852179754741-team91.jpg
+category: play
+body_class: strawberry
 project_id: '6102038'
+challenge_url: >-
+  https://challenge.la2050.org/entry/ocean-heroes-saving-lives-daily-as-a-water-rescuer
 title: Ocean Heroes - Saving Lives Daily as a Water Rescuer
-organization_name_2: City of Los Angeles Department of Recreation and Parks
-organization_activity: >-
-  The City of Los Angeles, Department of Recreation and Parks (RAP) provides
-  healthy lifestyle opportunities and play experiences at easily accessible
-  vibrant parks for families in Los Angeles.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
-project_video: 'https://www.youtube.com/embed/3HIz022aUd4?rel=0&amp;showinfo=0'
 project_summary: >-
   Open Water Junior Lifeguard Program provides professional lifeguard
   instruction to youth in water safety and physical conditioning as an
   introduction to a potential career choice as water rescuers.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
+project_video: 'https://www.youtube.com/embed/3HIz022aUd4?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - San Fernando Valley
-  - South Bay
 project_measure: >-
   Our work will be evaluated based on the success of the participants. RAP
   Aquatic instructors create a curriculum prior to the beginning of the program
@@ -62,6 +55,24 @@ project_impact: >-
   sporting events","Number (and quality) of informal spaces for play","Number of
   parks with intergenerational play opportunities","Number of residents with
   easy access to a “vibrant” park","Perceived safety"]
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Attendance at major league sporting events
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Perceived safety
+project_proposal_description: >-
+  Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
+  during the summer at two open water locations within the City. Taught by
+  certified lifeguards, our Program is competitive and rigorous providing
+  instruction in physical conditioning, competition skills and the use of
+  professional lifesaving equipment. Our Program is designed to educate and
+  impassion youth to appreciate and respect the marine environment and introduce
+  youth to a potential career choice in water safety.
+project_areas:
+  - San Fernando Valley
+  - South Bay
 project_proposal_best_place: >-
   Southern California has a reputation for offering easy beach getaways all
   summer long.  In fact, thousands of youth within Los Angeles never see the
@@ -103,26 +114,7 @@ project_proposal_best_place: >-
   any beach or body of water safer for all in Los Angeles just by their
   presence. The Open Water Junior Lifeguard Program makes LA the best place to
   Play.
-challenge_url: >-
-  https://challenge.la2050.org/entry/ocean-heroes-saving-lives-daily-as-a-water-rescuer
-empty_column_1: ''
-project_proposal_description: >-
-  Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
-  during the summer at two open water locations within the City. Taught by
-  certified lifeguards, our Program is competitive and rigorous providing
-  instruction in physical conditioning, competition skills and the use of
-  professional lifesaving equipment. Our Program is designed to educate and
-  impassion youth to appreciate and respect the marine environment and introduce
-  youth to a potential career choice in water safety.
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Attendance at major league sporting events
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-  - Number of residents with easy access to a “vibrant” park
-  - Perceived safety
-category: play
-body_class: strawberry
-published: true
+organization_name: City of Los Angeles Department of Recreation and Parks
+organization_website: www.laparks.org
 
 ---

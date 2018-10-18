@@ -1,29 +1,23 @@
 ---
+published: true
 organization_id: '2016164'
 year_submitted: 2016
-organization_name: Patrick Henry Foundation
-organization_website: www.patrickhenryfoundation.org
-ein: '471713238'
-project_image_2: 9165635165741-team90.JPG
+category: learn
+body_class: blueberry
 project_id: '6102176'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
 title: >-
   The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
   Program
-organization_name_2: Patrick Henry Foundation
-organization_activity: >-
-  Our mission is to make Patrick Henry School an exciting place to learn through
-  programs that promote personal growth, cultural connections, and creative
-  learning experiences.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
-project_video: ''
 project_summary: >-
   The Scientists, Engineers, Mathematicians and Innovators (SEMI) is a bilingual
   program training the next generation of global STEM professionals.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: "•\tHopscotch & Doodles: http://www.hopscotchanddoodles.com/, •\tPatrick Henry Foundation: http://www.patrickhenryfoundation.org/, •\tLong Beach Unified School District: http://www.lbusd.k12.ca.us/, •\tPatrick Henry Elementary School: https://henry-lbusd-ca.schoolloop.com/, •\tPatrick Henry PTA: http://patrickhenrypta.com/, •\tCalifornia State University Long Beach: https://www.csulb.edu/"
-project_areas:
-  - South Bay
 project_measure: >-
   The SEMI program aims to provide 1) a bilingual learning environment for all
   students to learn STEM in a culturally relevant manner in English and Spanish;
@@ -64,6 +58,18 @@ project_description: >-
 project_impact: >-
   ["Proficiency in English and Language Arts and Math","Early
   education","Student education pipeline"]
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+project_proposal_description: >-
+  The Patrick Henry Foundation, in collaboration with California State
+  University Long Beach, will develop and incubate the Scientists, Engineers,
+  Mathematicians and Innovators (SEMI) program, a new bilingual (Spanish and
+  English) curriculum that introduces 5th grade elementary school students to
+  STEM in a culturally-relevant manner.
+project_areas:
+  - South Bay
 project_proposal_best_place: >-
   The Scientists, Engineers, Mathematicians and Innovators (SEMI) is a bilingual
   program that will help make LA the best place to learn by incubating a
@@ -111,21 +117,7 @@ project_proposal_best_place: >-
   coaching and technical assistance on how to conduct projects and experiments
   in the classroom setting. The program is unique in that is designed to dispel
   negative stereotypes about scientists (e.g., eccentric, isolated).
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
-empty_column_1: ''
-project_proposal_description: >-
-  The Patrick Henry Foundation, in collaboration with California State
-  University Long Beach, will develop and incubate the Scientists, Engineers,
-  Mathematicians and Innovators (SEMI) program, a new bilingual (Spanish and
-  English) curriculum that introduces 5th grade elementary school students to
-  STEM in a culturally-relevant manner.
-project_proposal_impact:
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: Patrick Henry Foundation
+organization_website: www.patrickhenryfoundation.org
 
 ---

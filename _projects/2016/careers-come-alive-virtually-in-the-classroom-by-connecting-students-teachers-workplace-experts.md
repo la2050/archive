@@ -1,30 +1,24 @@
 ---
+published: true
 organization_id: '2016056'
 year_submitted: 2016
-organization_name: ConnectEd
-organization_website: www.connectedcalifornia.org
-ein: ''
-project_image_2: 7618226615741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102054'
+challenge_url: >-
+  https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
 title: >-
   Careers Come Alive Virtually  in the Classroom by Connecting Students,
   Teachers & Workplace Experts
-organization_name_2: ConnectEd
-organization_activity: >-
-  ConnectEd partners with school, district, and community leaders to transform
-  education through career pathways so that all students, regardless of
-  background, can succeed in college, career, and life.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
-project_video: ''
 project_summary: >-
   Through a media-rich, technology-based platform powered by students, teachers,
   and business/labor/nonprofit, this project brings an array of thriving LA
   careers to life in high school classrooms.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: 'Nepris, Los Angeles Unified School District'
-project_areas:
-  - LAUSD
 project_measure: >-
   For many students, the 9th grade is a really challenging year with new
   classmates, harder courses, more complex schedules, and higher teacher
@@ -64,6 +58,18 @@ project_description: >-
   community of educators and experts from local and global for-profit,
   non-profit, and labor organizations and associations.
 project_impact: '["Student education pipeline"]'
+project_proposal_impact:
+  - Student education pipeline
+project_proposal_description: >-
+  This project creates an integrated technology solution between ConnectEd and
+  Nepris that supports the LAUSD vision and goals of college, career, and
+  community readiness for all students. It combines real-world, relevant career
+  exposure and mentoring based on student interest and goals,through a
+  media-rich, technology-based platform. Content is designed by a collaborative
+  community of educators and experts from local and global for-profit,
+  non-profit, and labor organizations and associations.
+project_areas:
+  - LAUSD
 project_proposal_best_place: >-
   Dropping out of school is a life-altering decision process that can start in
   middle school but picks up steam in grade 9. When students are not engaged in
@@ -108,21 +114,7 @@ project_proposal_best_place: >-
   Students from every corner of the region and background will have
   opportunities to learn about careers that have always been so near, and
   frequently so far.
-challenge_url: >-
-  https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
-empty_column_1: ''
-project_proposal_description: >-
-  This project creates an integrated technology solution between ConnectEd and
-  Nepris that supports the LAUSD vision and goals of college, career, and
-  community readiness for all students. It combines real-world, relevant career
-  exposure and mentoring based on student interest and goals,through a
-  media-rich, technology-based platform. Content is designed by a collaborative
-  community of educators and experts from local and global for-profit,
-  non-profit, and labor organizations and associations.
-project_proposal_impact:
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: ConnectEd
+organization_website: www.connectedcalifornia.org
 
 ---

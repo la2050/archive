@@ -1,30 +1,23 @@
 ---
+published: true
 organization_id: '2016053'
 year_submitted: 2016
-organization_name: Community Health Councils
-organization_website: www.chc-inc.org
-ein: '954487664'
-project_image_2: 3219654155741-team90.JPG
+category: connect
+body_class: tangerine
 project_id: '6102052'
+challenge_url: 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'
 title: Save Spaces for Healthy Places
-organization_name_2: Community Health Councils
-organization_activity: >-
-  Community Health Councils works to change systems, policies, and structures
-  that support the well-being of South Los Angeles residents through increased
-  access, civic engagement, and transformation.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
-project_video: 'https://www.youtube.com/embed/LW-vMpFhnl8?rel=0&amp;showinfo=0'
 project_summary: >-
   Save Spaces for Healthy Places provides the training, knowledge and ongoing
   opportunity for South LA residents to find and project their powerful voices
   so that community change can become a reality.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
+project_video: 'https://www.youtube.com/embed/LW-vMpFhnl8?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: >-
   This project aims to engage Neighborhood Council partners at the onset of the
   work.
-project_areas:
-  - South LA
 project_measure: >-
   Success will be defined as follows:
 
@@ -83,6 +76,20 @@ project_description: >-
 project_impact: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism"]
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+project_proposal_description: >-
+  Save Spaces for Healthy Places prepares residents to use their influential
+  voices to ensure policies and land-use plans reflect the actual needs of their
+  community by: 1) learning about the community planning process and how it can
+  be influenced; 2) learning to frame their message so their voices can matter;
+  3) understanding the linkage between lack of community resources and health;
+  and 4) connecting them to civic engagement through their Neighborhood Councils
+  and other pathways to activism.
+project_areas:
+  - South LA
 project_proposal_best_place: >-
   Save Spaces for Healthy Places will make South LA (SLA) the best place to
   CONNECT by motivating residents to get involved with the Community Plan (CP)
@@ -145,22 +152,7 @@ project_proposal_best_place: >-
   opportunities around the Plans and organize community efforts to educate their
   neighbors. Subcommittees will also monitor the CP process to mobilize
   residents around city planning and council hearings when necessary.
-challenge_url: 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'
-empty_column_1: ''
-project_proposal_description: >-
-  Save Spaces for Healthy Places prepares residents to use their influential
-  voices to ensure policies and land-use plans reflect the actual needs of their
-  community by: 1) learning about the community planning process and how it can
-  be influenced; 2) learning to frame their message so their voices can matter;
-  3) understanding the linkage between lack of community resources and health;
-  and 4) connecting them to civic engagement through their Neighborhood Councils
-  and other pathways to activism.
-project_proposal_impact:
-  - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: Community Health Councils
+organization_website: www.chc-inc.org
 
 ---

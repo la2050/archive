@@ -1,39 +1,21 @@
 ---
+published: true
 organization_id: '2016036'
 year_submitted: 2016
-organization_name: Center for the Study of Los Angeles
-organization_website: lmu.edu/studyla
-ein: ''
-project_image_2: 6888645593741-team90.png
+category: connect
+body_class: tangerine
 project_id: '6102033'
+challenge_url: 'https://challenge.la2050.org/entry/la-votes'
 title: LA Votes
-organization_name_2: Center for the Study of Los Angeles
-organization_activity: >-
-  The Center for the Study of Los Angeles is a leading undergraduate research
-  center, conducting public opinion surveys, exit polling, and leadership and
-  community studies.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
-project_video: ''
 project_summary: >-
   LA Votes celebrates the electoral process in LA by conducting the largest
   per-capita exit poll in the nation & announcing topline results for this exit
   poll at an election watching party open to all.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
+project_video: ''
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Given the nature of the LA Votes project there are three very clear measures
   of success. These include the accuracy of our Municipal Primary Election Exit
@@ -79,6 +61,36 @@ project_impact: >-
   gatherings","Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism","Residential
   segregation","Voting rates"]
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Voting rates
+project_proposal_description: >-
+  This grant would guarantee another successful LA Votes Project during the LA
+  Primary Election on March 7, 2017. The LA Votes Project consists of two parts:
+  an exit poll in the City of LA and an election day reception titled Election
+  Central. Over 15 years, LMUStudyLA has organized 10 exit polls, mobilized
+  1,000+ LMU students as field researchers, collected 12,000+ exit surveys,
+  fostered dozens of media hits, and hosted hundreds of guests at past Election
+  Central celebrations.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Who are voters in Los Angeles? What are their priorities? Why are they
   engaged? How can we grow this level of engagement? How can we turn their
@@ -135,27 +147,7 @@ project_proposal_best_place: >-
   The ultimate goal of LA Votes is to foster a stronger sense of Angeleno
   identity that goes beyond labels and focuses on tangible results, commitment
   to the local community, and most importantly true civic dialogue.
-challenge_url: 'https://challenge.la2050.org/entry/la-votes'
-empty_column_1: ''
-project_proposal_description: >-
-  This grant would guarantee another successful LA Votes Project during the LA
-  Primary Election on March 7, 2017. The LA Votes Project consists of two parts:
-  an exit poll in the City of LA and an election day reception titled Election
-  Central. Over 15 years, LMUStudyLA has organized 10 exit polls, mobilized
-  1,000+ LMU students as field researchers, collected 12,000+ exit surveys,
-  fostered dozens of media hits, and hosted hundreds of guests at past Election
-  Central celebrations.
-project_proposal_impact:
-  - Social & emotional support
-  - Cultural events
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Participation in neighborhood councils
-  - Rates of volunteerism
-  - Residential segregation
-  - Voting rates
-category: connect
-body_class: tangerine
-published: true
+organization_name: Center for the Study of Los Angeles
+organization_website: lmu.edu/studyla
 
 ---

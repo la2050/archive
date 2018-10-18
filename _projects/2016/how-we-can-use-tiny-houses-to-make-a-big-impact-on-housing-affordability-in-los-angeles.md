@@ -1,30 +1,23 @@
 ---
+published: true
 organization_id: '2016165'
 year_submitted: 2016
-organization_name: Patrick McCaffrey Foundation
-organization_website: www.veteransvillage.org
-ein: ''
-project_image_2: 4867649955741-team91.jpg
+category: live
+body_class: lime
 project_id: '6102177'
+challenge_url: >-
+  https://challenge.la2050.org/entry/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles!
 title: >-
   How we can use tiny houses to make a big impact on housing affordability in
   Los Angeles! 
-organization_name_2: Patrick McCaffrey Foundation
-organization_activity: >-
-  The Patrick McCaffrey Foundation is a non-profit public charity benefitting
-  American military veterans and their families, and land trustee for a future
-  Veterans Village.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
-project_video: 'https://www.youtube.com/embed/sKs_VJT3Xr0?rel=0&amp;showinfo=0'
 project_summary: >-
   The purpose of our project is to demonstrate a replicable method for solving
   LA’s affordable housing crisis by encouraging tiny living as a solution.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
+project_video: 'https://www.youtube.com/embed/sKs_VJT3Xr0?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: 'LATCH Collective, Makes A Village, LLC'
-project_areas:
-  - County of Los Angeles
-  - Locations of LATCH & Makes a Village are TBD
 project_measure: >-
   1) SUCCESS IS LA County residents developing homebuilding knowledge and
   skills. THIS LOOKS LIKE 300+ hours of home building labor; 12+ workshops; 50+
@@ -63,6 +56,20 @@ project_description: >-
 project_impact: >-
   ["Housing affordability","Self-sufficiency","Resilient
   communities","Homelessness"]
+project_proposal_impact:
+  - Housing affordability
+  - Self-sufficiency
+  - Resilient communities
+  - Homelessness
+project_proposal_description: >-
+  Makes a Village, LATCH Collective and the Patrick McCaffrey Foundation are
+  collaborating to demonstrate how to use tiny homes to create
+  affordable-by-design housing and increase self-sufficiency in Los Angeles.
+  With $100,000, we can take 5 important capacity-building steps for
+  implementing our approach.
+project_areas:
+  - County of Los Angeles
+  - Locations of LATCH & Makes a Village are TBD
 project_proposal_best_place: >-
   Our proposal supports Los Angeles in its goal of becoming housing secure,
   promoting self-sufficiency, encouraging resilient communities, and preventing
@@ -111,22 +118,7 @@ project_proposal_best_place: >-
   will allow LA residents an opportunity to work together to overcome high costs
   of living and participate meaningfully in the development and management of
   each housing community.
-challenge_url: >-
-  https://challenge.la2050.org/entry/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles!
-empty_column_1: ''
-project_proposal_description: >-
-  Makes a Village, LATCH Collective and the Patrick McCaffrey Foundation are
-  collaborating to demonstrate how to use tiny homes to create
-  affordable-by-design housing and increase self-sufficiency in Los Angeles.
-  With $100,000, we can take 5 important capacity-building steps for
-  implementing our approach.
-project_proposal_impact:
-  - Housing affordability
-  - Self-sufficiency
-  - Resilient communities
-  - Homelessness
-category: live
-body_class: lime
-published: true
+organization_name: Patrick McCaffrey Foundation
+organization_website: www.veteransvillage.org
 
 ---

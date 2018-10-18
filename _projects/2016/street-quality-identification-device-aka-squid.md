@@ -1,30 +1,21 @@
 ---
+published: true
 organization_id: '2016012'
 year_submitted: 2016
-organization_name: ARGO Labs
-organization_website: www.argolabs.org
-ein: ''
-project_image_2: 1215444855741-team91.png
+category: connect
+body_class: tangerine
 project_id: '6102009'
+challenge_url: >-
+  https://challenge.la2050.org/entry/street-quality-identification-device-aka-squid
 title: Street Quality Identification Device aka SQUID
-organization_name_2: ARGO Labs
-organization_activity: >-
-  ARGO builds, operates and maintains pioneering data infrastructure to
-  transform how basic public services like street quality, water reliability,
-  and education volunteering are delivered.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
-project_video: 'https://www.youtube.com/embed/QzMCTIdxpoc?rel=0&amp;showinfo=0'
 project_summary: >-
   Providing the world's first comprehensive map of street quality that can
   automatically update to improve maintenance of YOUR LA streets!
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
+project_video: 'https://www.youtube.com/embed/QzMCTIdxpoc?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: California Data Collaborative (CaliforniaDataCollaborative.com)
-project_areas:
-  - Central LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Success in broad terms means empowering the city of LA to evolve from using a
   subjective index of using letter grades to measure street maintenance to using
@@ -68,6 +59,26 @@ project_description: >-
 project_impact: >-
   ["Government responsiveness to residents’ needs","Travel time to work","Public
   transit riders"]
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+project_proposal_description: >-
+  SQUID is a low-cost device that uses open hardware to collect images and ride
+  quality data across the entire city street grid to enable and empower the city
+  or county of LA to offer efficient and equitable response around street
+  maintenance.
+
+
+  SQUID combines the thoughtful deployment of  low-cost sensors and  inexpensive
+  cloud data storage and computation to empower street level bureaucrats to
+  augment existing street response tactics towards equitable and efficient
+  outcomes.
+project_areas:
+  - Central LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   It is said that street maintenance is the most visible indicator of local
   government performance. LA's street network contains over 6,500 center lane
@@ -132,26 +143,7 @@ project_proposal_best_place: >-
   While focussing on street quality, SQUID can be repurposed to inspect other
   facets of the urban environment and integrate several operational silos around
   street imagery.
-challenge_url: >-
-  https://challenge.la2050.org/entry/street-quality-identification-device-aka-squid
-empty_column_1: ''
-project_proposal_description: >-
-  SQUID is a low-cost device that uses open hardware to collect images and ride
-  quality data across the entire city street grid to enable and empower the city
-  or county of LA to offer efficient and equitable response around street
-  maintenance.
-
-
-  SQUID combines the thoughtful deployment of  low-cost sensors and  inexpensive
-  cloud data storage and computation to empower street level bureaucrats to
-  augment existing street response tactics towards equitable and efficient
-  outcomes.
-project_proposal_impact:
-  - Government responsiveness to residents’ needs
-  - Travel time to work
-  - Public transit riders
-category: connect
-body_class: tangerine
-published: true
+organization_name: ARGO Labs
+organization_website: www.argolabs.org
 
 ---

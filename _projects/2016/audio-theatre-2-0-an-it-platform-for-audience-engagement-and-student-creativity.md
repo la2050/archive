@@ -1,35 +1,28 @@
 ---
+published: true
 organization_id: '2016119'
 year_submitted: 2016
-organization_name: L.A. Theatre Works
-organization_website: www.latw.org
-ein: ''
-project_image_2: 6518565165741-team91.jpg
+category: create
+body_class: banana
 project_id: '6102117'
+challenge_url: >-
+  https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
 title: >-
   Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
   Creativity
-organization_name_2: L.A. Theatre Works
-organization_activity: >-
-  LATW records great performances of important plays, using new technologies to
-  make world-class theatre accessible to the widest possible audience and to
-  expand the use of theatre as a teaching tool.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
-project_video: 'https://www.youtube.com/embed/N5d8kpPSzG4?rel=0&amp;showinfo=0'
 project_summary: >-
   LATW, the nation’s leading producer of audio theatre, seeks to expand the
   reach of local productions across the globe and enable students to create
   their own theatre-based educational apps.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
+project_video: 'https://www.youtube.com/embed/N5d8kpPSzG4?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   LATW is in conversations with two LAUSD schools which will partner on the
   development of the educational platform section of our new website. We cannot,
   however, announce the schools’ name at this time as we have not yet received
   official confirmation and permission.
-project_areas:
-  - County of Los Angeles
-  - LAUSD
 project_measure: >-
   The investment in the online platform will yield a more robust and sustainable
   LATW able to expand our cultural outreach to underserved communities (i.e.,
@@ -63,6 +56,21 @@ project_description: >-
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+project_proposal_description: >-
+  L.A. Theatre Works has a treasure trove of 500+ plays recorded by
+  award-winning actors for the audio format. We want to build an online
+  infrastructure that will expand worldwide access to these Los Angeles-based
+  works, create new artistic opportunities via the online platform, and increase
+  public and student engagement with theatre – including models for LAUSD
+  students to create their own interactive educational technology based on our
+  new educational platform resources.
+project_areas:
+  - County of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   Over the past 25 years, L.A. Theatre Works (LATW) has produced a unique and
   growing library of 500+ plays recorded by top actors specifically for the
@@ -112,23 +120,7 @@ project_proposal_best_place: >-
   reach, which has included live productions in Europe and China, and radio
   co-productions with the BBC, Voice of America, Radio Beijing, NHK (Japan), CBC
   (Canada), ABC (Australia), Radio New Zealand & others.
-challenge_url: >-
-  https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
-empty_column_1: ''
-project_proposal_description: >-
-  L.A. Theatre Works has a treasure trove of 500+ plays recorded by
-  award-winning actors for the audio format. We want to build an online
-  infrastructure that will expand worldwide access to these Los Angeles-based
-  works, create new artistic opportunities via the online platform, and increase
-  public and student engagement with theatre – including models for LAUSD
-  students to create their own interactive educational technology based on our
-  new educational platform resources.
-project_proposal_impact:
-  - Arts establishments
-  - Employment in the creative industries
-  - Measures of cultural and global economic influence (“soft power”)
-category: create
-body_class: banana
-published: true
+organization_name: L.A. Theatre Works
+organization_website: www.latw.org
 
 ---

@@ -1,14 +1,106 @@
 ---
+published: true
+organization_id: '2014029'
+year_submitted: 2014
+category: connect
+body_class: tangerine
 project_id: '4102062'
 title: Dodgeball Community and the Common Good
 project_summary: >-
   The Yacht Club will recruit, select and develop 6 leaders to launch community
   dodgeball leagues in under-resourced neighborhoods across LA.
-category: connect
-organization_id: '2014029'
-year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/aKgBQ7XR-pg'
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - WESTSIDE
+  - LA COUNTY
+maker_answers:
+  org_name: Eagle Rock Yacht Club
+  metrics_connect_volunteerism: '1'
+  org_website: theyachtclub.org
+  org_twitter: www.twitter.com/theeryc
+  org_facebook: www.facebook.com/theyachtclub
+  org_instagram: www.instagram.com/theyachtclub
+  org_mailingaddress: '834 S. Broadway #1002 Los Angeles, CA 90014'
+  org_ein: '272225420'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '1'
+  describe_collaboration: '0'
+  describe_organization: >-
+    Through dodgeball, civic service, partnerships with rec centers and our
+    youth, The Yacht Club inspires Angelenos to pursue the common good.
+  one_sentence_project: >-
+    The Yacht Club will recruit, select and develop 6 leaders to launch
+    community dodgeball leagues in under-resourced neighborhoods across LA.
+  describe_idea: >-
+    @theeryc has a creative solution to connect #LosAngeles by 2050, the only
+    things missing are you and your vote. #CommonGood
+  impact_LA_County: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '1'
+  area_southbay: '0'
+  area_westside: '1'
+  'area_other:': '1'
+  area_other_blank: >-
+    Currently we benefit Venice, North Hollywood, Glassell Park and Highland
+    Park.  Our proposal would extend our impact beyond the communities we
+    currently serve. 
+  more_detail: "The Yacht Club wants to recruit, select and develop six league ambassadors to launch dodgeball leagues in under-resourced neighborhoods across LA.  We will provide start-up funds and the development to ensure leagues are sustainable and are actualizing The Yacht Club vision.\r\n\r\nDuring Stage 1 of our project, ambassadors will conduct strategic community outreach and build social trust to understand the current needs of new neighborhoods.  As they begin leagues in Stage 2, ambassadors will develop programs and events aligned to current neighborhood need. Ambassadors will invest players to volunteer and lead community development efforts. Our leagues will be known for using dodgeball as a means to connect and pursue the common good."
+  implement: "We will hold a planning meeting in early October to outline the scope of work needed to roll out Stage 1 successfully.  Later, in late November, a second planning meeting will be held to ensure we are ready to roll out Stage 2.  Our project coordinator, board committee (formed to focus on LA2050 efforts from existing Yacht Club board members) and Yacht Club founders will participate in each planning meeting. Planning meetings will provide the project coordinator with input to build out stage-specific project plans. \r\n\r\nThe Stage 1 project plan will include targets and milestones to drive our a) recruitment campaign for league ambassadors, and b) the development of resources and support.  In addition to participating in monthly oversight meetings with our board committee, our project coordinator will provide weekly status updates to The Yacht Club board chair. The Stage 2 project plan will include targets and milestones to support league ambassadors with their a) community outreach,  b) recruitment of players and c) community development efforts.\r\n\r\nMonthly progress check-ins will be held between league ambassadors and the project coordinator.  League ambassadors will report out on targets, milestones and identify support needed.  The project coordinator will share best practices and help match resources to areas of need or support identified by the league ambassador.\r\n\r\nMonthly board committee check-ins will be held between the project coordinator and board committee.  The project coordinator will report out on project targets, milestones and success measures.  For example, at the end of each league during Stage 2, the project coordinator will compile data from player surveys to provide a general review of each league and league ambassador.  The board committee will then support the project coordinator to identify ways to maintain and improve a healthy and successful project implementation.\r\n"
+  impact_connect: "The Yacht Club believes civic engagement-- feelings of responsibility toward the common good-- is inherent in all of us.  We believe Angelenos will get more involved when they’re provided with opportunities that not only help solve community issues and improve the well-being of neighborhoods, but are also down-right fun.\r\n\r\nEverybody wants to belong, feel like part of a group, community, or team-- it’s an essential human need. We aim to get people hooked on The Yacht Club by increasing their social well-being and connectedness through dodgeball, weekly meetups and social gatherings. Once hooked, we provide the initial opportunities for our players to become active citizens and volunteer.  Over time, our players become more invested in the neighborhoods where they play and want to do more good for them… it’s our flywheel toward common good.  When our players actively participate and do good for Los Angeles, they feel more invested in Los Angeles.  When our players feel more invested in Los Angeles, they want to work toward greater common good. Yes, we recognize dodgeball is  fun, but we’re not just a team of players; we are an army of do-gooders. We want Los Angeles to be a better city for everyone and believe that dodgeball is a great entry point for good work in service of LA.\r\n\r\nLeague ambassadors will be charged with creating and managing dodgeball leagues that recruit players who want to have fun and actively do good. We aren’t interested in passive civic engagement-- players who simply donate money. Instead our league ambassadors will recruit and invest players to volunteer at Kids Dodgeball because they understand our kids need safe and fun activities in their neighborhood.  League ambassadors will steer players toward opportunities of civic engagement like beach cleanups or encourage and support players to coordinate movies-at-the-park (with proceeds going to rec center programming).\r\n\r\nWhen the quality of life raises for our players, the quality of life raise for all Angelenos. By 2050, we want to see The Yacht Club running dodgeball leagues in rec centers across Los Angeles.  In 2050, we continue to play in under-resourced neighborhoods, we have players on neighborhood councils and The Yacht Club is a consistent presence at civic events across Los Angeles."
+  who_benefit: "Our project will benefit the communities we are working to support and all The Yacht Club do-gooders.  Our approach to developing programming options for rec centers has always been to start with kids—Yacht Grub (kids cooking), Yacht Plot (community gardening), Yacht Pix (kids photography) and our flagship program, Yacht Crew (Kids Dodgeball), have been built to provide kids with fun, safe and creative experiences that go beyond what they might have access to at school.   \r\n\r\nWhat we’ve found over the years is that our players’ social well-being and desire to do good increases when we provide opportunities to volunteer and serve the community.  When our players come out to our LA River Cleanup or volunteer at Kids Dodgeball they feel more invested in participating in other Yacht Club events and many eventually expand our civic engagement efforts. For example, when players in our Venice league decided to coordinate a beach cleanup, players from Glassell Park and North Hollywood joined the “player-based” community effort.  The event was created and coordinated by players who were inspired to do more.  "
+  collaboration: "Los Angeles Department of Recreation & Parks:\r\nDirectors and staff at the rec centers where we play are vital partners in our project. Their commitment and understanding of the positive impact The Yacht Club can have are essential to our success. We will work to identify the specific needs of each park, design programs to match these needs, and gain community investment and feedback to ensure these programs become a sustainable and consistent part of regular programming. (ie. In Glassell Park this summer, when parents found out Kids Dodgeball was not part of Summer Night Lights programming, they petitioned to incorporate it and The Yacht Club pulled 20 committed volunteers to support 8 Friday nights of Kids Dodgeball.)\r\n\r\nCommunity-based organization and leaders:\r\nOur leadership team and league ambassadors will work to identify and build strategic relationships with community-based organizations and leaders in each new neighborhood we intend to serve. \r\n\r\nLeadership consultants:\r\nOur leadership team has secured committed time from consultants to design of tools and development programming for our league ambassadors. We’ll also work  with our current league ambassadors and our board to leverage established best practices.\r\n\r\nWeAreGiants:\r\nWeAreGiants. is a civic-minded marketing and design agency based in Downtown Los Angeles.  WAG. has been engaged in many projects for the City of Los Angeles: Jose Huizar’s Bringing Back Broadway initiative, CicLAvia, and the redevelopment of Pershing Square. WAG. will provide design and marketing services (branding, logos, flyers, etc.) for the league expansions. \r\n"
+  city_state: 'Los Angeles, CA'
+  metrics_connect_voting: '0'
+  metrics_connect_adultsupport: '1'
+  metrics_connect_traveltime: '0'
+  metrics_connect_culturalevents: '1'
+  metrics_connect_publictransit: '0'
+  metrics_connect_neighborhoodcouncils: '1'
+  metrics_connect_volunteer: '1'
+  metrics_connect_govresponsiveness: '0'
+  metrics_connect_transitaccessible: '0'
+  metrics_connect_socialmedia: '0'
+  metrics_connect_attendance: '1'
+  metrics_connect_residential segregation: '0'
+  metrics_connect_wifi: '0'
+  metrics_connect_other: '0'
+  metrics_connect_blank: ''
+  resources_network: '1'
+  best_place_to_learn: '0'
+  best_place_to_create: '1'
+  healthiest_place_to_live: '0'
+  best_place_to_play: '1'
+  evaluate: "We’ve identified the following metrics to measure success:\r\n1. Players volunteer in Yacht Club civic activities\r\n2. Players are invested in The Yacht Club vision\r\n3. League ambassadors work to realize The Yacht Club vision\r\n\r\nDuring our planning meeting in October, we’ll identify targets for each metric. For example for Metric #1, we’ll identify how many activities will be offered and how many volunteers (new and consistent) we aim to have. Data will be collected to measure progress toward each target. For example for Metric #1, we’ll log volunteers at each event and review past logs to identify how many “new” volunteers we were able to cultivate.\r\n\r\nIn order to collect data on Metrics #2 - 3, we’ll use feedback surveys. Data will be compiled by the project coordinator and presented to the board committee to drive project  improvements.\r\n\r\nLeague ambassador feedback surveys will be given after selection and during each retreat. League ambassadors will evaluate the  following key indicators on a 1 (strongly disagree) - 7 (strongly agree scale):\r\n\r\nOverall Satisfaction\r\n• I feel positively about being a league ambassador for The Yacht Club.\r\n• I am giving my best effort to my work as a league ambassador for The Yacht Club.\r\n\r\nTeam Collaboration and Support\r\n• League ambassadors and Yacht Club family pitch in to help meet deadlines, reach goals and generally make my experience as a league ambassador awesome. \r\n\r\nCohort Culture\r\n• I believe our team is vision-aligned and pushes each other stay focused on the common good.\r\n• I feel motivated and inspired by The Yacht Club’s vision.\r\n\r\nDevelopment and Yacht Club support\r\n• I receive positive feedback from our team and The Yacht Club. \r\n• I have the resources (materials, relationships) I need to successfully launch and lead a league. \r\n\r\nPlayer feedback surveys will be given at the end of each season. Players will evaluate the  following key indicators on a 1 (strongly disagree) - 7 (strongly agree scale):\r\n\r\nOverall Satisfaction\r\n• I feel awesome about playing dodgeball with The Yacht Club.\r\n\r\nLeague Culture\r\n• Yes, we get together to play dodgeball, but we also do good.\r\n• I have a friend on my team.\r\n\r\nCommunication\r\n• Communication from my captains and the league is clear and timely.\r\n• My captain did a good job of clearly explaining the rules on my first day.\r\n\r\nLeague Ambassador\r\n• My ambassador made me feel welcomed.\r\n• My ambassador did a good job explaining the Yacht Club vision.\r\n• I feel comfortable talking to my ambassador about any concerns "
+  two_lessons: "The two major lessons informing our solution to make LA the best place to connect by 2050 have to do with talent and civic engagement. What we’ve learned in six years is that we need to recruit the right people to be league ambassadors, and then we need to develop and support them to be the leaders their communities need.  With regards to civic engagement, we believe people genuinely want to be involved in their communities, but too often there is a lack of information and social motivation to get involved.\r\n\r\nThe Yacht Club believes we have a responsibility to select and invest in the leaders we’re putting forth to positively impact our neighborhoods. In Stage 1, we’ll design a recruitment and cultivation plan with clear strategies such as a social media campaign and referral incentives to identify candidates. We will establish a league ambassador role description with clear competencies and indicators based on what we’ve observed works. There will be a selection process that includes an application, interviews and role-plays. In Stage 1, we will also design a 10-month long scope and sequence of development and support to prepare ambassadors to lead sustainable leagues beyond their start-up year.\r\n\r\nWith the right communication strategy and incentives we can motivate more Angelenos to take pride and become involved in their community. Currently, we have an active social media presence that we use to inform our members of our events.  We work with WAG. to create a  unique voice, graphics and design that get us noticed  and that appeal to our players on social media as well as email.  Our league ambassadors will receive training and toolkits along with a style guide to support their outreach efforts. We may think of ourselves as an army of do-gooders, but we’re human too and let’s be honest social motivation and incentives really work on us. League ambassadors will learn how to establish and maintain The Yacht Club culture among teams and captains.  Incentives, like our discounted summer league registration (players who commit to volunteering at Kids Dodgeball for 8 summer weeks pay a discounted rate, while non-volunteer player’s cover the difference) incentivize our players to volunteer. Our league ambassadors will be able to leverage best practices like this and share other ways of incentivizing and informing their players of civic engagement opportunities.\r\n"
+  achievable_goal: "Given our experience expanding from one to four neighborhoods and one additional city (Detroit), we believe that the first three months are key to the success of our project. Given this, we’ve intentionally scoped out the first three months of work to recruit, select and develop the right league ambassadors:\r\n\r\nMonth 1: \r\n• Launch recruitment campaign\r\n• Hold board meeting to establish roles/responsibilities related to project accountability\r\n• Design selection materials\r\n• Create scope and sequence for league ambassador support and development\r\n• Create outreach and media toolkits\r\n\r\nMonth 2:\r\n• Select league ambassadors\r\n• Host League Ambassador Retreat #1, October 2014\r\n• Establish league launch benchmarks/targets\r\n• Begin weekly check-ins with league ambassadors focused on league launch\r\n\r\nMonth 3:\r\n• Host League Ambassador Retreat #2, November 2014\r\n• Ongoing weekly check-in with league ambassadors focused on league launch\r\n\r\nDuring months 4 – 12 of our project, The Yacht Club will host monthly check-in calls focused on sharing out of best practices and updating the group on progress toward targets. The Yacht Club will hold a final League Ambassador Retreat #3, March 2015.   \r\n\r\nTo date, we hold bi-annual board meetings.  Should we become an LA2050 grantee, we will move to holding quarterly board meetings and establish an LA2050 grant committee to provide monthly support and oversight of project implementation and evaluation. \r\n\r\nWe have built a large network over the last six years that if leveraged well, could be key to a successful project implementation. We currently have 2,000 names on our Yacht Club email list.  These names are active players, former players and friends who have supported us throughout the years. It’s likely that some of our new league ambassadors will be from within our network, it’s also likely we’ll be able to re-engage former players in our new communities.  Our recruitment plan will identify clear ways to engage and leverage our current network as we implement our project.    "
+  major_challenges: "Given our experiences over the last six years, we believe the two major challenges we’ll encounter are outreach and building social trust within the community. Expanding to new communities means first learning about the community and how to be most successful there. We recognize that each neighborhood in Los Angeles has unique needs that we need to understand, and has established leaders who we need to learn from and invest in our project. As we expand to new neighborhoods, social trust needs to be cultivated and maintained through thoughtful relationship building, community outreach and following through on commitments.  \r\n\r\nWe want to continue working in communities where the need for community involvement and development is high. In order to do this, our recruitment campaign for new league ambassadors will focus on the following key regional areas— Boyle Heights, Downtown, East LA, Mid-City and South LA. In order for The Yacht Club vision to be actualized, our leagues will partner with rec centers in traditionally under-resourced communities. We plan to leverage our current network and build relationships with active community-based organizations in each of our key regional areas. \r\n\r\nA cornerstone of our league ambassador development and support will be building social trust in new communities. You see it’s been our experience that when we walk into new rec centers for the first time and tell them we want to play dodgeball AND provide opportunities to expand youth programming, they’re weary. They think there’s a catch. Our rec centers in communities like Glassell Park and North Hollywood aren’t used to young professionals coming in and offering the resources (equipment, volunteers, time, etc.) to support their community with nothing wanted in exchange.  Our league ambassadors will receive a community outreach toolkit, learning from our own successes and failures, and design a clear plan to build social trust in their intended neighborhood."
+  competition: "The Yacht Club isn’t just another dodgeball league. We’re a group of dodgeball leagues with heart, conscience and zest that aim to do more for our community. We’re also a non-profit and our leagues have the power to apply dues and fundraising (after covering operational costs) to events and projects specific to micro-community needs and interests. \r\n\r\nOur project aims to expand our leagues with purpose. We will seek Angelenos that have the ability (and record) of investing others in doing good to become league ambassadors.  Our league ambassadors will provide the opportunities and the space for others to create opportunities for players to actively participate in their community.  We’ll see an increase in volunteerism, social well-being and commitment to neighborhoods across Los Angeles. Further, we’ll continue to be intentional about the communities we serve, we’re looking to expand in communities similar to Glassell Park, North Hollywood, Oakwood (Venice) and Highland Park. These are communities that have traditionally been considered underserved and under-resourced.\r\n\r\nOther organizations running dodgeball leagues in Los Angeles include WeHo Dodgeball and World Dodgeball Society. WeHo Dodgeball runs two leagues on Tuesdays and Thursdays in West Hollywood. They fundraise for local charities and participate in local events, primarily working to support the West Hollywood LGBT community. The World Dodgeball Society runs leagues on different nights throughout Los Angeles. They recruit league managers through their website and word-of-mouth to start leagues in different neighborhoods. The World Dodgeball Society has leagues primarily in Central LA and the South Bay Cities and operationally runs as a franchise."
+  cost: "The grant amount of $100,000 allows us to recruit, select and support six new league ambassadors to launch Yacht Club leagues throughout Los Angeles. The grant monies will not cover overhead expenses incurred by The Yacht Club.  \r\n\r\nEach league will establish player registration fees based on what has historically worked across our leagues to increase players, sustain the league and provide resources used in order to host events focused on social connectedness and civic engagement. Each league will contribute 20% of their seasonal registration fees to The Yacht Club to cover overhead expenses during the startup year. In subsequent years, each league will contribute 25% to cover overhead costs incurred by The Yacht Club and additional marketing collateral produced by The Yacht Club."
+  budget: "LA2050 Program Budget\r\n6 League Launch funds at $9k each\r\nTOTAL: $54,000\r\n• Annual equipment (nets, sound system): $700\r\n• Seasonal equipment (tape, balls, First Aid kit): $1,100\r\n• Permits for rec center use: $2,500\r\n• Social Media and Marketing toolkit: $2,200\r\n• Brand/logo collateral: $1,000\r\n• Ambassador stipend: $1,500 ($500/season)\r\n\r\nLeague Ambassador Retreats\r\nTOTAL: $14,000\r\n• Retreat #1, October 2014 (transportation, lodging, food, materials, facilitator stipends): $6,000\r\n• Retreat #2, November 2014 (transportation, lodging, food, materials, facilitator stipends): $6,000\r\n• Retreat #3, March 2015 (food, materials, facilitator stipends): $2,000\r\n\r\nOversight and Development\r\nTOTAL: $30,000\r\n• Launch planning meeting (food, materials, facilitator stipend): $800\r\n• Project coordinator salary (to be added to current job role/salary): $14,000\r\n• Curriculum development consultant fees: $8,000\r\n• League ambassador referral prize: $1,200 ($200/league ambassador selected)\r\n• Oversight stipend to board committee chair: $3,000 ($250/month)\r\n• Recruitment campaign (marketing collateral and advertising fees): $1,000\r\n• Step-back meeting, September 2015: (food, space, materials, facilitator stipend): $2,000"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_research: '0'
+  impact_metrics: "Rates of volunteerism:\r\nOver the past 5 years The Yacht Club has positively impacted rates of volunteerism in Los Angeles. By creating events around the LA River Cleanup, Highland Park Community Cleanup and partnerships with the SPCA, No Kill Los Angeles, and Heal the Bay, hundreds of our players have volunteered to improve the quality of life in our city.  Our youth programming at the four rec centers we serve has involved over 120 Yacht Club members to provide Kids Dodgeball, Yacht Pix, Yacht Plot,  and Yacht Grub.\r\n\r\nAdults getting sufficient social and emotional support:\r\nThe Yacht Club has become a proven place for adults to forge new relationships, strengthen existing ones and improve the well-being of other Angelenos through civic engagement. Our league ambassadors and captains actively encourage players to show up to team meetups and socialize.  The Yacht Club even links game advantages to this metric.  For example, teams gain points for having their players attend social, volunteer and community events that they later trade in for game advantages.\r\n\r\nAttendance at cultural events:\r\nOver the past 3 years we’ve encouraged our members to participate in events like CicLAvia by hosting dodgeball games along the route and organizing group rides. The support and enthusiasm our members displayed with our CicLAvia events led us to form ERYCYCLE, a bike riding and advocacy group. ERYCYCLE hosts bike rides like “Tour de Taco,” dedicated to exploring LA through our best tacos, and the ride to the Museum of Jurassic Technology, where leaders from the east, west and north organized individual bike rides converging in Culver City.\r\n\r\nParticipation in neighborhood council:\r\nIn April 2014 The Yacht Club designed a “get out the vote” campaign to increase the awareness and participation in Glassell Park and Highland Park’s neighborhood council elections. In Glassell Park the 2014 voter turnout doubled that of 2012 (the prior election year).  Four Yacht Club members ran for office in these elections, with 2 members winning a seat in Glassell Park and 1 member winning a seat in Highland Park.\r\n\r\nWith the addition of six new  leagues across Los Angeles, our impact will continue to grow toward making Los Angeles the best place to connect by 2050. Angelenos will inevitably join rec leagues; expanding The Yacht Club will mean that more Angelenos will be involved in leagues actively working to make Los Angeles a better place for all.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Yacht Club wants to recruit, select and develop six league ambassadors to
   launch dodgeball leagues in under-resourced neighborhoods across LA. We will
@@ -64,424 +156,6 @@ Whom will your project benefit? Please be specific.: |-
    
    WeAreGiants:
    WeAreGiants. is a civic-minded marketing and design agency based in Downtown Los Angeles. WAG. has been engaged in many projects for the City of Los Angeles: Jose Huizar’s Bringing Back Broadway initiative, CicLAvia, and the redevelopment of Pershing Square. WAG. will provide design and marketing services (branding, logos, flyers, etc.) for the league expansions.
-empty_column_1: ''
 youtube_video_identifier: aKgBQ7XR-pg
-project_areas:
-  - CENTRAL LA
-  - EAST LA
-  - SOUTH LA
-  - SFV
-  - WESTSIDE
-  - LA COUNTY
-maker_answers:
-  city_state: 'Los Angeles, CA'
-  org_name: Eagle Rock Yacht Club
-  org_website: theyachtclub.org
-  org_twitter: www.twitter.com/theeryc
-  org_facebook: www.facebook.com/theyachtclub
-  org_instagram: www.instagram.com/theyachtclub
-  org_mailingaddress: '834 S. Broadway #1002 Los Angeles, CA 90014'
-  org_ein: '272225420'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '1'
-  describe_collaboration: '0'
-  describe_organization: >-
-    Through dodgeball, civic service, partnerships with rec centers and our
-    youth, The Yacht Club inspires Angelenos to pursue the common good.
-  one_sentence_project: >-
-    The Yacht Club will recruit, select and develop 6 leaders to launch
-    community dodgeball leagues in under-resourced neighborhoods across LA.
-  describe_idea: >-
-    @theeryc has a creative solution to connect #LosAngeles by 2050, the only
-    things missing are you and your vote. #CommonGood
-  impact_LA_County: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '1'
-  area_southbay: '0'
-  area_westside: '1'
-  'area_other:': '1'
-  area_other_blank: >-
-    Currently we benefit Venice, North Hollywood, Glassell Park and Highland
-    Park.  Our proposal would extend our impact beyond the communities we
-    currently serve. 
-  more_detail: "The Yacht Club wants to recruit, select and develop six league ambassadors to launch dodgeball leagues in under-resourced neighborhoods across LA.  We will provide start-up funds and the development to ensure leagues are sustainable and are actualizing The Yacht Club vision.\r\n\r\nDuring Stage 1 of our project, ambassadors will conduct strategic community outreach and build social trust to understand the current needs of new neighborhoods.  As they begin leagues in Stage 2, ambassadors will develop programs and events aligned to current neighborhood need. Ambassadors will invest players to volunteer and lead community development efforts. Our leagues will be known for using dodgeball as a means to connect and pursue the common good."
-  implement: "We will hold a planning meeting in early October to outline the scope of work needed to roll out Stage 1 successfully.  Later, in late November, a second planning meeting will be held to ensure we are ready to roll out Stage 2.  Our project coordinator, board committee (formed to focus on LA2050 efforts from existing Yacht Club board members) and Yacht Club founders will participate in each planning meeting. Planning meetings will provide the project coordinator with input to build out stage-specific project plans. \r\n\r\nThe Stage 1 project plan will include targets and milestones to drive our a) recruitment campaign for league ambassadors, and b) the development of resources and support.  In addition to participating in monthly oversight meetings with our board committee, our project coordinator will provide weekly status updates to The Yacht Club board chair. The Stage 2 project plan will include targets and milestones to support league ambassadors with their a) community outreach,  b) recruitment of players and c) community development efforts.\r\n\r\nMonthly progress check-ins will be held between league ambassadors and the project coordinator.  League ambassadors will report out on targets, milestones and identify support needed.  The project coordinator will share best practices and help match resources to areas of need or support identified by the league ambassador.\r\n\r\nMonthly board committee check-ins will be held between the project coordinator and board committee.  The project coordinator will report out on project targets, milestones and success measures.  For example, at the end of each league during Stage 2, the project coordinator will compile data from player surveys to provide a general review of each league and league ambassador.  The board committee will then support the project coordinator to identify ways to maintain and improve a healthy and successful project implementation.\r\n"
-  impact_connect: "The Yacht Club believes civic engagement-- feelings of responsibility toward the common good-- is inherent in all of us.  We believe Angelenos will get more involved when they’re provided with opportunities that not only help solve community issues and improve the well-being of neighborhoods, but are also down-right fun.\r\n\r\nEverybody wants to belong, feel like part of a group, community, or team-- it’s an essential human need. We aim to get people hooked on The Yacht Club by increasing their social well-being and connectedness through dodgeball, weekly meetups and social gatherings. Once hooked, we provide the initial opportunities for our players to become active citizens and volunteer.  Over time, our players become more invested in the neighborhoods where they play and want to do more good for them… it’s our flywheel toward common good.  When our players actively participate and do good for Los Angeles, they feel more invested in Los Angeles.  When our players feel more invested in Los Angeles, they want to work toward greater common good. Yes, we recognize dodgeball is  fun, but we’re not just a team of players; we are an army of do-gooders. We want Los Angeles to be a better city for everyone and believe that dodgeball is a great entry point for good work in service of LA.\r\n\r\nLeague ambassadors will be charged with creating and managing dodgeball leagues that recruit players who want to have fun and actively do good. We aren’t interested in passive civic engagement-- players who simply donate money. Instead our league ambassadors will recruit and invest players to volunteer at Kids Dodgeball because they understand our kids need safe and fun activities in their neighborhood.  League ambassadors will steer players toward opportunities of civic engagement like beach cleanups or encourage and support players to coordinate movies-at-the-park (with proceeds going to rec center programming).\r\n\r\nWhen the quality of life raises for our players, the quality of life raise for all Angelenos. By 2050, we want to see The Yacht Club running dodgeball leagues in rec centers across Los Angeles.  In 2050, we continue to play in under-resourced neighborhoods, we have players on neighborhood councils and The Yacht Club is a consistent presence at civic events across Los Angeles."
-  who_benefit: "Our project will benefit the communities we are working to support and all The Yacht Club do-gooders.  Our approach to developing programming options for rec centers has always been to start with kids—Yacht Grub (kids cooking), Yacht Plot (community gardening), Yacht Pix (kids photography) and our flagship program, Yacht Crew (Kids Dodgeball), have been built to provide kids with fun, safe and creative experiences that go beyond what they might have access to at school.   \r\n\r\nWhat we’ve found over the years is that our players’ social well-being and desire to do good increases when we provide opportunities to volunteer and serve the community.  When our players come out to our LA River Cleanup or volunteer at Kids Dodgeball they feel more invested in participating in other Yacht Club events and many eventually expand our civic engagement efforts. For example, when players in our Venice league decided to coordinate a beach cleanup, players from Glassell Park and North Hollywood joined the “player-based” community effort.  The event was created and coordinated by players who were inspired to do more.  "
-  collaboration: "Los Angeles Department of Recreation & Parks:\r\nDirectors and staff at the rec centers where we play are vital partners in our project. Their commitment and understanding of the positive impact The Yacht Club can have are essential to our success. We will work to identify the specific needs of each park, design programs to match these needs, and gain community investment and feedback to ensure these programs become a sustainable and consistent part of regular programming. (ie. In Glassell Park this summer, when parents found out Kids Dodgeball was not part of Summer Night Lights programming, they petitioned to incorporate it and The Yacht Club pulled 20 committed volunteers to support 8 Friday nights of Kids Dodgeball.)\r\n\r\nCommunity-based organization and leaders:\r\nOur leadership team and league ambassadors will work to identify and build strategic relationships with community-based organizations and leaders in each new neighborhood we intend to serve. \r\n\r\nLeadership consultants:\r\nOur leadership team has secured committed time from consultants to design of tools and development programming for our league ambassadors. We’ll also work  with our current league ambassadors and our board to leverage established best practices.\r\n\r\nWeAreGiants:\r\nWeAreGiants. is a civic-minded marketing and design agency based in Downtown Los Angeles.  WAG. has been engaged in many projects for the City of Los Angeles: Jose Huizar’s Bringing Back Broadway initiative, CicLAvia, and the redevelopment of Pershing Square. WAG. will provide design and marketing services (branding, logos, flyers, etc.) for the league expansions. \r\n"
-  metrics_connect_volunteerism: '1'
-  metrics_connect_voting: '0'
-  metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
-  metrics_connect_culturalevents: '1'
-  metrics_connect_publictransit: '0'
-  metrics_connect_neighborhoodcouncils: '1'
-  metrics_connect_volunteer: '1'
-  metrics_connect_govresponsiveness: '0'
-  metrics_connect_transitaccessible: '0'
-  metrics_connect_socialmedia: '0'
-  metrics_connect_attendance: '1'
-  metrics_connect_residential segregation: '0'
-  metrics_connect_wifi: '0'
-  metrics_connect_other: '0'
-  metrics_connect_blank: ''
-  impact_metrics: "Rates of volunteerism:\r\nOver the past 5 years The Yacht Club has positively impacted rates of volunteerism in Los Angeles. By creating events around the LA River Cleanup, Highland Park Community Cleanup and partnerships with the SPCA, No Kill Los Angeles, and Heal the Bay, hundreds of our players have volunteered to improve the quality of life in our city.  Our youth programming at the four rec centers we serve has involved over 120 Yacht Club members to provide Kids Dodgeball, Yacht Pix, Yacht Plot,  and Yacht Grub.\r\n\r\nAdults getting sufficient social and emotional support:\r\nThe Yacht Club has become a proven place for adults to forge new relationships, strengthen existing ones and improve the well-being of other Angelenos through civic engagement. Our league ambassadors and captains actively encourage players to show up to team meetups and socialize.  The Yacht Club even links game advantages to this metric.  For example, teams gain points for having their players attend social, volunteer and community events that they later trade in for game advantages.\r\n\r\nAttendance at cultural events:\r\nOver the past 3 years we’ve encouraged our members to participate in events like CicLAvia by hosting dodgeball games along the route and organizing group rides. The support and enthusiasm our members displayed with our CicLAvia events led us to form ERYCYCLE, a bike riding and advocacy group. ERYCYCLE hosts bike rides like “Tour de Taco,” dedicated to exploring LA through our best tacos, and the ride to the Museum of Jurassic Technology, where leaders from the east, west and north organized individual bike rides converging in Culver City.\r\n\r\nParticipation in neighborhood council:\r\nIn April 2014 The Yacht Club designed a “get out the vote” campaign to increase the awareness and participation in Glassell Park and Highland Park’s neighborhood council elections. In Glassell Park the 2014 voter turnout doubled that of 2012 (the prior election year).  Four Yacht Club members ran for office in these elections, with 2 members winning a seat in Glassell Park and 1 member winning a seat in Highland Park.\r\n\r\nWith the addition of six new  leagues across Los Angeles, our impact will continue to grow toward making Los Angeles the best place to connect by 2050. Angelenos will inevitably join rec leagues; expanding The Yacht Club will mean that more Angelenos will be involved in leagues actively working to make Los Angeles a better place for all.\r\n"
-  best_place_to_learn: '0'
-  best_place_to_create: '1'
-  healthiest_place_to_live: '0'
-  best_place_to_play: '1'
-  evaluate: "We’ve identified the following metrics to measure success:\r\n1. Players volunteer in Yacht Club civic activities\r\n2. Players are invested in The Yacht Club vision\r\n3. League ambassadors work to realize The Yacht Club vision\r\n\r\nDuring our planning meeting in October, we’ll identify targets for each metric. For example for Metric #1, we’ll identify how many activities will be offered and how many volunteers (new and consistent) we aim to have. Data will be collected to measure progress toward each target. For example for Metric #1, we’ll log volunteers at each event and review past logs to identify how many “new” volunteers we were able to cultivate.\r\n\r\nIn order to collect data on Metrics #2 - 3, we’ll use feedback surveys. Data will be compiled by the project coordinator and presented to the board committee to drive project  improvements.\r\n\r\nLeague ambassador feedback surveys will be given after selection and during each retreat. League ambassadors will evaluate the  following key indicators on a 1 (strongly disagree) - 7 (strongly agree scale):\r\n\r\nOverall Satisfaction\r\n• I feel positively about being a league ambassador for The Yacht Club.\r\n• I am giving my best effort to my work as a league ambassador for The Yacht Club.\r\n\r\nTeam Collaboration and Support\r\n• League ambassadors and Yacht Club family pitch in to help meet deadlines, reach goals and generally make my experience as a league ambassador awesome. \r\n\r\nCohort Culture\r\n• I believe our team is vision-aligned and pushes each other stay focused on the common good.\r\n• I feel motivated and inspired by The Yacht Club’s vision.\r\n\r\nDevelopment and Yacht Club support\r\n• I receive positive feedback from our team and The Yacht Club. \r\n• I have the resources (materials, relationships) I need to successfully launch and lead a league. \r\n\r\nPlayer feedback surveys will be given at the end of each season. Players will evaluate the  following key indicators on a 1 (strongly disagree) - 7 (strongly agree scale):\r\n\r\nOverall Satisfaction\r\n• I feel awesome about playing dodgeball with The Yacht Club.\r\n\r\nLeague Culture\r\n• Yes, we get together to play dodgeball, but we also do good.\r\n• I have a friend on my team.\r\n\r\nCommunication\r\n• Communication from my captains and the league is clear and timely.\r\n• My captain did a good job of clearly explaining the rules on my first day.\r\n\r\nLeague Ambassador\r\n• My ambassador made me feel welcomed.\r\n• My ambassador did a good job explaining the Yacht Club vision.\r\n• I feel comfortable talking to my ambassador about any concerns "
-  two_lessons: "The two major lessons informing our solution to make LA the best place to connect by 2050 have to do with talent and civic engagement. What we’ve learned in six years is that we need to recruit the right people to be league ambassadors, and then we need to develop and support them to be the leaders their communities need.  With regards to civic engagement, we believe people genuinely want to be involved in their communities, but too often there is a lack of information and social motivation to get involved.\r\n\r\nThe Yacht Club believes we have a responsibility to select and invest in the leaders we’re putting forth to positively impact our neighborhoods. In Stage 1, we’ll design a recruitment and cultivation plan with clear strategies such as a social media campaign and referral incentives to identify candidates. We will establish a league ambassador role description with clear competencies and indicators based on what we’ve observed works. There will be a selection process that includes an application, interviews and role-plays. In Stage 1, we will also design a 10-month long scope and sequence of development and support to prepare ambassadors to lead sustainable leagues beyond their start-up year.\r\n\r\nWith the right communication strategy and incentives we can motivate more Angelenos to take pride and become involved in their community. Currently, we have an active social media presence that we use to inform our members of our events.  We work with WAG. to create a  unique voice, graphics and design that get us noticed  and that appeal to our players on social media as well as email.  Our league ambassadors will receive training and toolkits along with a style guide to support their outreach efforts. We may think of ourselves as an army of do-gooders, but we’re human too and let’s be honest social motivation and incentives really work on us. League ambassadors will learn how to establish and maintain The Yacht Club culture among teams and captains.  Incentives, like our discounted summer league registration (players who commit to volunteering at Kids Dodgeball for 8 summer weeks pay a discounted rate, while non-volunteer player’s cover the difference) incentivize our players to volunteer. Our league ambassadors will be able to leverage best practices like this and share other ways of incentivizing and informing their players of civic engagement opportunities.\r\n"
-  achievable_goal: "Given our experience expanding from one to four neighborhoods and one additional city (Detroit), we believe that the first three months are key to the success of our project. Given this, we’ve intentionally scoped out the first three months of work to recruit, select and develop the right league ambassadors:\r\n\r\nMonth 1: \r\n• Launch recruitment campaign\r\n• Hold board meeting to establish roles/responsibilities related to project accountability\r\n• Design selection materials\r\n• Create scope and sequence for league ambassador support and development\r\n• Create outreach and media toolkits\r\n\r\nMonth 2:\r\n• Select league ambassadors\r\n• Host League Ambassador Retreat #1, October 2014\r\n• Establish league launch benchmarks/targets\r\n• Begin weekly check-ins with league ambassadors focused on league launch\r\n\r\nMonth 3:\r\n• Host League Ambassador Retreat #2, November 2014\r\n• Ongoing weekly check-in with league ambassadors focused on league launch\r\n\r\nDuring months 4 – 12 of our project, The Yacht Club will host monthly check-in calls focused on sharing out of best practices and updating the group on progress toward targets. The Yacht Club will hold a final League Ambassador Retreat #3, March 2015.   \r\n\r\nTo date, we hold bi-annual board meetings.  Should we become an LA2050 grantee, we will move to holding quarterly board meetings and establish an LA2050 grant committee to provide monthly support and oversight of project implementation and evaluation. \r\n\r\nWe have built a large network over the last six years that if leveraged well, could be key to a successful project implementation. We currently have 2,000 names on our Yacht Club email list.  These names are active players, former players and friends who have supported us throughout the years. It’s likely that some of our new league ambassadors will be from within our network, it’s also likely we’ll be able to re-engage former players in our new communities.  Our recruitment plan will identify clear ways to engage and leverage our current network as we implement our project.    "
-  major_challenges: "Given our experiences over the last six years, we believe the two major challenges we’ll encounter are outreach and building social trust within the community. Expanding to new communities means first learning about the community and how to be most successful there. We recognize that each neighborhood in Los Angeles has unique needs that we need to understand, and has established leaders who we need to learn from and invest in our project. As we expand to new neighborhoods, social trust needs to be cultivated and maintained through thoughtful relationship building, community outreach and following through on commitments.  \r\n\r\nWe want to continue working in communities where the need for community involvement and development is high. In order to do this, our recruitment campaign for new league ambassadors will focus on the following key regional areas— Boyle Heights, Downtown, East LA, Mid-City and South LA. In order for The Yacht Club vision to be actualized, our leagues will partner with rec centers in traditionally under-resourced communities. We plan to leverage our current network and build relationships with active community-based organizations in each of our key regional areas. \r\n\r\nA cornerstone of our league ambassador development and support will be building social trust in new communities. You see it’s been our experience that when we walk into new rec centers for the first time and tell them we want to play dodgeball AND provide opportunities to expand youth programming, they’re weary. They think there’s a catch. Our rec centers in communities like Glassell Park and North Hollywood aren’t used to young professionals coming in and offering the resources (equipment, volunteers, time, etc.) to support their community with nothing wanted in exchange.  Our league ambassadors will receive a community outreach toolkit, learning from our own successes and failures, and design a clear plan to build social trust in their intended neighborhood."
-  competition: "The Yacht Club isn’t just another dodgeball league. We’re a group of dodgeball leagues with heart, conscience and zest that aim to do more for our community. We’re also a non-profit and our leagues have the power to apply dues and fundraising (after covering operational costs) to events and projects specific to micro-community needs and interests. \r\n\r\nOur project aims to expand our leagues with purpose. We will seek Angelenos that have the ability (and record) of investing others in doing good to become league ambassadors.  Our league ambassadors will provide the opportunities and the space for others to create opportunities for players to actively participate in their community.  We’ll see an increase in volunteerism, social well-being and commitment to neighborhoods across Los Angeles. Further, we’ll continue to be intentional about the communities we serve, we’re looking to expand in communities similar to Glassell Park, North Hollywood, Oakwood (Venice) and Highland Park. These are communities that have traditionally been considered underserved and under-resourced.\r\n\r\nOther organizations running dodgeball leagues in Los Angeles include WeHo Dodgeball and World Dodgeball Society. WeHo Dodgeball runs two leagues on Tuesdays and Thursdays in West Hollywood. They fundraise for local charities and participate in local events, primarily working to support the West Hollywood LGBT community. The World Dodgeball Society runs leagues on different nights throughout Los Angeles. They recruit league managers through their website and word-of-mouth to start leagues in different neighborhoods. The World Dodgeball Society has leagues primarily in Central LA and the South Bay Cities and operationally runs as a franchise."
-  cost: "The grant amount of $100,000 allows us to recruit, select and support six new league ambassadors to launch Yacht Club leagues throughout Los Angeles. The grant monies will not cover overhead expenses incurred by The Yacht Club.  \r\n\r\nEach league will establish player registration fees based on what has historically worked across our leagues to increase players, sustain the league and provide resources used in order to host events focused on social connectedness and civic engagement. Each league will contribute 20% of their seasonal registration fees to The Yacht Club to cover overhead expenses during the startup year. In subsequent years, each league will contribute 25% to cover overhead costs incurred by The Yacht Club and additional marketing collateral produced by The Yacht Club."
-  budget: "LA2050 Program Budget\r\n6 League Launch funds at $9k each\r\nTOTAL: $54,000\r\n• Annual equipment (nets, sound system): $700\r\n• Seasonal equipment (tape, balls, First Aid kit): $1,100\r\n• Permits for rec center use: $2,500\r\n• Social Media and Marketing toolkit: $2,200\r\n• Brand/logo collateral: $1,000\r\n• Ambassador stipend: $1,500 ($500/season)\r\n\r\nLeague Ambassador Retreats\r\nTOTAL: $14,000\r\n• Retreat #1, October 2014 (transportation, lodging, food, materials, facilitator stipends): $6,000\r\n• Retreat #2, November 2014 (transportation, lodging, food, materials, facilitator stipends): $6,000\r\n• Retreat #3, March 2015 (food, materials, facilitator stipends): $2,000\r\n\r\nOversight and Development\r\nTOTAL: $30,000\r\n• Launch planning meeting (food, materials, facilitator stipend): $800\r\n• Project coordinator salary (to be added to current job role/salary): $14,000\r\n• Curriculum development consultant fees: $8,000\r\n• League ambassador referral prize: $1,200 ($200/league ambassador selected)\r\n• Oversight stipend to board committee chair: $3,000 ($250/month)\r\n• Recruitment campaign (marketing collateral and advertising fees): $1,000\r\n• Step-back meeting, September 2015: (food, space, materials, facilitator stipend): $2,000"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_network: '1'
-  resources_research: '0'
-maker_answers_list:
-  - name: city_state
-    label: 'City, State'
-    explanation: '(Example: Los Angeles, CA)'
-    answer: 'Los Angeles, CA'
-  - name: org_name
-    label: Organization name(s)
-    explanation: Please list all if there are more than one.
-    answer: Eagle Rock Yacht Club
-  - name: org_website
-    label: Organization website
-    explanation: '(Ex: www.LA2050.org)'
-    answer: theyachtclub.org
-  - name: org_twitter
-    label: Organization Twitter handle
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.twitter.com/LA2050)
-    answer: www.twitter.com/theeryc
-  - name: org_facebook
-    label: Organization Facebook page
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: www.facebook.com/LA2050)
-    answer: www.facebook.com/theyachtclub
-  - name: org_instagram
-    label: Organization Instagram
-    explanation: >-
-      This is optional, but we highly encourage submitters to use social media
-      to connect with supporters. (Ex: instagram.com/LA2050)
-    answer: www.instagram.com/theyachtclub
-  - name: org_mailingaddress
-    label: Organization mailing address
-    explanation: >-
-      This information is for internal purposes only and will not be publicly
-      displayed.
-    answer: '834 S. Broadway #1002 Los Angeles, CA 90014'
-  - name: org_ein
-    label: Employer identification number (EIN) - REQUIRED
-    explanation: >-
-      REQUIRED - Due to the size of the grants this information is required. If
-      you are not an organization with an EIN, you'll need to secure a fiscal
-      sponsor in order to participate. (Example: If the EIN is '12-3456789'
-      please post '123456789', without the dash.) This information is for
-      internal purposes only and will not be displayed publicly.
-    answer: '272225420'
-  - name: org_nonprofit
-    label: Nonprofit organization
-    explanation: ''
-    answer: '1'
-  - name: org_forprofit
-    label: For-profit organization
-    explanation: ''
-    answer: '0'
-  - name: org_government
-    label: Government
-    explanation: ''
-    answer: '0'
-  - name: org_individual
-    label: Individual
-    explanation: ''
-    answer: '0'
-  - name: describe_soloactor
-    label: Solo actor (just us on this project!)
-    explanation: ''
-    answer: '0'
-  - name: describe_proposedcollaboration
-    label: Proposed collaboration (we want to work with partners!)
-    explanation: ''
-    answer: '1'
-  - name: describe_collaboration
-    label: >-
-      Collaboration (partners are signed up and ready to hit the ground
-      running!)
-    explanation: ''
-    answer: '0'
-  - name: describe_organization
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      Through dodgeball, civic service, partnerships with rec centers and our
-      youth, The Yacht Club inspires Angelenos to pursue the common good.
-  - name: one_sentence_project
-    label: ''
-    explanation: 140 character maximum
-    answer: >-
-      The Yacht Club will recruit, select and develop 6 leaders to launch
-      community dodgeball leagues in under-resourced neighborhoods across LA.
-  - name: describe_idea
-    label: ''
-    explanation: >-
-      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
-      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
-      have such an awesome project! Please vote for @GoldhirshFdn here!'
-    answer: >-
-      @theeryc has a creative solution to connect #LosAngeles by 2050, the only
-      things missing are you and your vote. #CommonGood
-  - name: impact_LA_County
-    label: Yes (benefits all of LA County)
-    explanation: ''
-    answer: '1'
-  - name: region_county
-    label: Yes (benefits a region of LA County)
-    explanation: ''
-    answer: '0'
-  - name: population_county
-    label: Yes (benefits a population of LA County)
-    explanation: ''
-    answer: '0'
-  - name: 'no'
-    label: 'No'
-    explanation: ''
-    answer: '0'
-  - name: area_centralLA
-    label: Central LA
-    explanation: ''
-    answer: '1'
-  - name: area_eastLA
-    label: East LA
-    explanation: ''
-    answer: '1'
-  - name: area_southLA
-    label: South LA
-    explanation: ''
-    answer: '1'
-  - name: area_sangabrielvalley
-    label: San Gabriel Valley
-    explanation: ''
-    answer: '0'
-  - name: area_sanfernandovalley
-    label: San Fernando Valley
-    explanation: ''
-    answer: '1'
-  - name: area_southbay
-    label: South Bay
-    explanation: ''
-    answer: '0'
-  - name: area_westside
-    label: Westside
-    explanation: ''
-    answer: '1'
-  - name: 'area_other:'
-    label: 'Other:'
-    explanation: ''
-    answer: '1'
-  - name: area_other_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: >-
-      Currently we benefit Venice, North Hollywood, Glassell Park and Highland
-      Park.  Our proposal would extend our impact beyond the communities we
-      currently serve. 
-  - name: more_detail
-    label: ''
-    explanation: ''
-    answer: "The Yacht Club wants to recruit, select and develop six league ambassadors to launch dodgeball leagues in under-resourced neighborhoods across LA.  We will provide start-up funds and the development to ensure leagues are sustainable and are actualizing The Yacht Club vision.\r\n\r\nDuring Stage 1 of our project, ambassadors will conduct strategic community outreach and build social trust to understand the current needs of new neighborhoods.  As they begin leagues in Stage 2, ambassadors will develop programs and events aligned to current neighborhood need. Ambassadors will invest players to volunteer and lead community development efforts. Our leagues will be known for using dodgeball as a means to connect and pursue the common good."
-  - name: implement
-    label: ''
-    explanation: ''
-    answer: "We will hold a planning meeting in early October to outline the scope of work needed to roll out Stage 1 successfully.  Later, in late November, a second planning meeting will be held to ensure we are ready to roll out Stage 2.  Our project coordinator, board committee (formed to focus on LA2050 efforts from existing Yacht Club board members) and Yacht Club founders will participate in each planning meeting. Planning meetings will provide the project coordinator with input to build out stage-specific project plans. \r\n\r\nThe Stage 1 project plan will include targets and milestones to drive our a) recruitment campaign for league ambassadors, and b) the development of resources and support.  In addition to participating in monthly oversight meetings with our board committee, our project coordinator will provide weekly status updates to The Yacht Club board chair. The Stage 2 project plan will include targets and milestones to support league ambassadors with their a) community outreach,  b) recruitment of players and c) community development efforts.\r\n\r\nMonthly progress check-ins will be held between league ambassadors and the project coordinator.  League ambassadors will report out on targets, milestones and identify support needed.  The project coordinator will share best practices and help match resources to areas of need or support identified by the league ambassador.\r\n\r\nMonthly board committee check-ins will be held between the project coordinator and board committee.  The project coordinator will report out on project targets, milestones and success measures.  For example, at the end of each league during Stage 2, the project coordinator will compile data from player surveys to provide a general review of each league and league ambassador.  The board committee will then support the project coordinator to identify ways to maintain and improve a healthy and successful project implementation.\r\n"
-  - name: impact_connect
-    label: ''
-    explanation: ''
-    answer: "The Yacht Club believes civic engagement-- feelings of responsibility toward the common good-- is inherent in all of us.  We believe Angelenos will get more involved when they’re provided with opportunities that not only help solve community issues and improve the well-being of neighborhoods, but are also down-right fun.\r\n\r\nEverybody wants to belong, feel like part of a group, community, or team-- it’s an essential human need. We aim to get people hooked on The Yacht Club by increasing their social well-being and connectedness through dodgeball, weekly meetups and social gatherings. Once hooked, we provide the initial opportunities for our players to become active citizens and volunteer.  Over time, our players become more invested in the neighborhoods where they play and want to do more good for them… it’s our flywheel toward common good.  When our players actively participate and do good for Los Angeles, they feel more invested in Los Angeles.  When our players feel more invested in Los Angeles, they want to work toward greater common good. Yes, we recognize dodgeball is  fun, but we’re not just a team of players; we are an army of do-gooders. We want Los Angeles to be a better city for everyone and believe that dodgeball is a great entry point for good work in service of LA.\r\n\r\nLeague ambassadors will be charged with creating and managing dodgeball leagues that recruit players who want to have fun and actively do good. We aren’t interested in passive civic engagement-- players who simply donate money. Instead our league ambassadors will recruit and invest players to volunteer at Kids Dodgeball because they understand our kids need safe and fun activities in their neighborhood.  League ambassadors will steer players toward opportunities of civic engagement like beach cleanups or encourage and support players to coordinate movies-at-the-park (with proceeds going to rec center programming).\r\n\r\nWhen the quality of life raises for our players, the quality of life raise for all Angelenos. By 2050, we want to see The Yacht Club running dodgeball leagues in rec centers across Los Angeles.  In 2050, we continue to play in under-resourced neighborhoods, we have players on neighborhood councils and The Yacht Club is a consistent presence at civic events across Los Angeles."
-  - name: who_benefit
-    label: ''
-    explanation: ''
-    answer: "Our project will benefit the communities we are working to support and all The Yacht Club do-gooders.  Our approach to developing programming options for rec centers has always been to start with kids—Yacht Grub (kids cooking), Yacht Plot (community gardening), Yacht Pix (kids photography) and our flagship program, Yacht Crew (Kids Dodgeball), have been built to provide kids with fun, safe and creative experiences that go beyond what they might have access to at school.   \r\n\r\nWhat we’ve found over the years is that our players’ social well-being and desire to do good increases when we provide opportunities to volunteer and serve the community.  When our players come out to our LA River Cleanup or volunteer at Kids Dodgeball they feel more invested in participating in other Yacht Club events and many eventually expand our civic engagement efforts. For example, when players in our Venice league decided to coordinate a beach cleanup, players from Glassell Park and North Hollywood joined the “player-based” community effort.  The event was created and coordinated by players who were inspired to do more.  "
-  - name: collaboration
-    label: ''
-    explanation: >-
-      We strongly support collaboration, please tell us a little more about your
-      partnership.
-    answer: "Los Angeles Department of Recreation & Parks:\r\nDirectors and staff at the rec centers where we play are vital partners in our project. Their commitment and understanding of the positive impact The Yacht Club can have are essential to our success. We will work to identify the specific needs of each park, design programs to match these needs, and gain community investment and feedback to ensure these programs become a sustainable and consistent part of regular programming. (ie. In Glassell Park this summer, when parents found out Kids Dodgeball was not part of Summer Night Lights programming, they petitioned to incorporate it and The Yacht Club pulled 20 committed volunteers to support 8 Friday nights of Kids Dodgeball.)\r\n\r\nCommunity-based organization and leaders:\r\nOur leadership team and league ambassadors will work to identify and build strategic relationships with community-based organizations and leaders in each new neighborhood we intend to serve. \r\n\r\nLeadership consultants:\r\nOur leadership team has secured committed time from consultants to design of tools and development programming for our league ambassadors. We’ll also work  with our current league ambassadors and our board to leverage established best practices.\r\n\r\nWeAreGiants:\r\nWeAreGiants. is a civic-minded marketing and design agency based in Downtown Los Angeles.  WAG. has been engaged in many projects for the City of Los Angeles: Jose Huizar’s Bringing Back Broadway initiative, CicLAvia, and the redevelopment of Pershing Square. WAG. will provide design and marketing services (branding, logos, flyers, etc.) for the league expansions. \r\n"
-  - name: metrics_connect_volunteerism
-    label: Rates of volunteerism
-    explanation: ''
-    answer: '1'
-  - name: metrics_connect_voting
-    label: Voting rates by race
-    explanation: ''
-    answer: '0'
-  - name: metrics_connect_adultsupport
-    label: Adults getting sufficient social & emotional support
-    explanation: ''
-    answer: '1'
-  - name: metrics_connect_traveltime
-    label: Median travel time to work
-    explanation: ''
-    answer: '0'
-  - name: metrics_connect_culturalevents
-    label: Attendance at cultural events
-    explanation: ''
-    answer: '1'
-  - name: metrics_connect_publictransit
-    label: Number of public transit riders
-    explanation: ''
-    answer: '0'
-  - name: metrics_connect_neighborhoodcouncils
-    label: Participation in neighborhood councils
-    explanation: ''
-    answer: '1'
-  - name: metrics_connect_volunteer
-    label: Percentage of Angelenos that volunteer informally (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_connect_govresponsiveness
-    label: Government responsiveness to residents’ needs (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_connect_transitaccessible
-    label: >-
-      Transit-accessible housing and employment (the share of housing units and
-      percentage of jobs that are located within a half-mile of transit) (Dream
-      Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_connect_socialmedia
-    label: Total number of social media friends (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_connect_attendance
-    label: Attendance at public/open street gatherings (Dream Metric)
-    explanation: ''
-    answer: '1'
-  - name: metrics_connect_residential segregation
-    label: Residential segregation (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_connect_wifi
-    label: Access to free wifi (Dream Metric)
-    explanation: ''
-    answer: '0'
-  - name: metrics_connect_other
-    label: 'Other:'
-    explanation: ''
-    answer: '0'
-  - name: metrics_connect_blank
-    label: 'If other, please specify.'
-    explanation: 'If other, please specify.'
-    answer: ''
-  - name: impact_metrics
-    label: Please elaborate on how your project will impact the above metrics.
-    explanation: Please elaborate on how your project will impact the above metrics.
-    answer: "Rates of volunteerism:\r\nOver the past 5 years The Yacht Club has positively impacted rates of volunteerism in Los Angeles. By creating events around the LA River Cleanup, Highland Park Community Cleanup and partnerships with the SPCA, No Kill Los Angeles, and Heal the Bay, hundreds of our players have volunteered to improve the quality of life in our city.  Our youth programming at the four rec centers we serve has involved over 120 Yacht Club members to provide Kids Dodgeball, Yacht Pix, Yacht Plot,  and Yacht Grub.\r\n\r\nAdults getting sufficient social and emotional support:\r\nThe Yacht Club has become a proven place for adults to forge new relationships, strengthen existing ones and improve the well-being of other Angelenos through civic engagement. Our league ambassadors and captains actively encourage players to show up to team meetups and socialize.  The Yacht Club even links game advantages to this metric.  For example, teams gain points for having their players attend social, volunteer and community events that they later trade in for game advantages.\r\n\r\nAttendance at cultural events:\r\nOver the past 3 years we’ve encouraged our members to participate in events like CicLAvia by hosting dodgeball games along the route and organizing group rides. The support and enthusiasm our members displayed with our CicLAvia events led us to form ERYCYCLE, a bike riding and advocacy group. ERYCYCLE hosts bike rides like “Tour de Taco,” dedicated to exploring LA through our best tacos, and the ride to the Museum of Jurassic Technology, where leaders from the east, west and north organized individual bike rides converging in Culver City.\r\n\r\nParticipation in neighborhood council:\r\nIn April 2014 The Yacht Club designed a “get out the vote” campaign to increase the awareness and participation in Glassell Park and Highland Park’s neighborhood council elections. In Glassell Park the 2014 voter turnout doubled that of 2012 (the prior election year).  Four Yacht Club members ran for office in these elections, with 2 members winning a seat in Glassell Park and 1 member winning a seat in Highland Park.\r\n\r\nWith the addition of six new  leagues across Los Angeles, our impact will continue to grow toward making Los Angeles the best place to connect by 2050. Angelenos will inevitably join rec leagues; expanding The Yacht Club will mean that more Angelenos will be involved in leagues actively working to make Los Angeles a better place for all.\r\n"
-  - name: best_place_to_learn
-    label: LA is the best place to LEARN
-    explanation: ''
-    answer: '0'
-  - name: best_place_to_create
-    label: LA is the best place to CREATE
-    explanation: ''
-    answer: '1'
-  - name: healthiest_place_to_live
-    label: LA is the healthiest place to LIVE
-    explanation: ''
-    answer: '0'
-  - name: best_place_to_play
-    label: LA is the best place to PLAY
-    explanation: ''
-    answer: '1'
-  - name: evaluate
-    label: ''
-    explanation: ''
-    answer: "We’ve identified the following metrics to measure success:\r\n1. Players volunteer in Yacht Club civic activities\r\n2. Players are invested in The Yacht Club vision\r\n3. League ambassadors work to realize The Yacht Club vision\r\n\r\nDuring our planning meeting in October, we’ll identify targets for each metric. For example for Metric #1, we’ll identify how many activities will be offered and how many volunteers (new and consistent) we aim to have. Data will be collected to measure progress toward each target. For example for Metric #1, we’ll log volunteers at each event and review past logs to identify how many “new” volunteers we were able to cultivate.\r\n\r\nIn order to collect data on Metrics #2 - 3, we’ll use feedback surveys. Data will be compiled by the project coordinator and presented to the board committee to drive project  improvements.\r\n\r\nLeague ambassador feedback surveys will be given after selection and during each retreat. League ambassadors will evaluate the  following key indicators on a 1 (strongly disagree) - 7 (strongly agree scale):\r\n\r\nOverall Satisfaction\r\n• I feel positively about being a league ambassador for The Yacht Club.\r\n• I am giving my best effort to my work as a league ambassador for The Yacht Club.\r\n\r\nTeam Collaboration and Support\r\n• League ambassadors and Yacht Club family pitch in to help meet deadlines, reach goals and generally make my experience as a league ambassador awesome. \r\n\r\nCohort Culture\r\n• I believe our team is vision-aligned and pushes each other stay focused on the common good.\r\n• I feel motivated and inspired by The Yacht Club’s vision.\r\n\r\nDevelopment and Yacht Club support\r\n• I receive positive feedback from our team and The Yacht Club. \r\n• I have the resources (materials, relationships) I need to successfully launch and lead a league. \r\n\r\nPlayer feedback surveys will be given at the end of each season. Players will evaluate the  following key indicators on a 1 (strongly disagree) - 7 (strongly agree scale):\r\n\r\nOverall Satisfaction\r\n• I feel awesome about playing dodgeball with The Yacht Club.\r\n\r\nLeague Culture\r\n• Yes, we get together to play dodgeball, but we also do good.\r\n• I have a friend on my team.\r\n\r\nCommunication\r\n• Communication from my captains and the league is clear and timely.\r\n• My captain did a good job of clearly explaining the rules on my first day.\r\n\r\nLeague Ambassador\r\n• My ambassador made me feel welcomed.\r\n• My ambassador did a good job explaining the Yacht Club vision.\r\n• I feel comfortable talking to my ambassador about any concerns "
-  - name: two_lessons
-    label: ''
-    explanation: ''
-    answer: "The two major lessons informing our solution to make LA the best place to connect by 2050 have to do with talent and civic engagement. What we’ve learned in six years is that we need to recruit the right people to be league ambassadors, and then we need to develop and support them to be the leaders their communities need.  With regards to civic engagement, we believe people genuinely want to be involved in their communities, but too often there is a lack of information and social motivation to get involved.\r\n\r\nThe Yacht Club believes we have a responsibility to select and invest in the leaders we’re putting forth to positively impact our neighborhoods. In Stage 1, we’ll design a recruitment and cultivation plan with clear strategies such as a social media campaign and referral incentives to identify candidates. We will establish a league ambassador role description with clear competencies and indicators based on what we’ve observed works. There will be a selection process that includes an application, interviews and role-plays. In Stage 1, we will also design a 10-month long scope and sequence of development and support to prepare ambassadors to lead sustainable leagues beyond their start-up year.\r\n\r\nWith the right communication strategy and incentives we can motivate more Angelenos to take pride and become involved in their community. Currently, we have an active social media presence that we use to inform our members of our events.  We work with WAG. to create a  unique voice, graphics and design that get us noticed  and that appeal to our players on social media as well as email.  Our league ambassadors will receive training and toolkits along with a style guide to support their outreach efforts. We may think of ourselves as an army of do-gooders, but we’re human too and let’s be honest social motivation and incentives really work on us. League ambassadors will learn how to establish and maintain The Yacht Club culture among teams and captains.  Incentives, like our discounted summer league registration (players who commit to volunteering at Kids Dodgeball for 8 summer weeks pay a discounted rate, while non-volunteer player’s cover the difference) incentivize our players to volunteer. Our league ambassadors will be able to leverage best practices like this and share other ways of incentivizing and informing their players of civic engagement opportunities.\r\n"
-  - name: achievable_goal
-    label: ''
-    explanation: ''
-    answer: "Given our experience expanding from one to four neighborhoods and one additional city (Detroit), we believe that the first three months are key to the success of our project. Given this, we’ve intentionally scoped out the first three months of work to recruit, select and develop the right league ambassadors:\r\n\r\nMonth 1: \r\n• Launch recruitment campaign\r\n• Hold board meeting to establish roles/responsibilities related to project accountability\r\n• Design selection materials\r\n• Create scope and sequence for league ambassador support and development\r\n• Create outreach and media toolkits\r\n\r\nMonth 2:\r\n• Select league ambassadors\r\n• Host League Ambassador Retreat #1, October 2014\r\n• Establish league launch benchmarks/targets\r\n• Begin weekly check-ins with league ambassadors focused on league launch\r\n\r\nMonth 3:\r\n• Host League Ambassador Retreat #2, November 2014\r\n• Ongoing weekly check-in with league ambassadors focused on league launch\r\n\r\nDuring months 4 – 12 of our project, The Yacht Club will host monthly check-in calls focused on sharing out of best practices and updating the group on progress toward targets. The Yacht Club will hold a final League Ambassador Retreat #3, March 2015.   \r\n\r\nTo date, we hold bi-annual board meetings.  Should we become an LA2050 grantee, we will move to holding quarterly board meetings and establish an LA2050 grant committee to provide monthly support and oversight of project implementation and evaluation. \r\n\r\nWe have built a large network over the last six years that if leveraged well, could be key to a successful project implementation. We currently have 2,000 names on our Yacht Club email list.  These names are active players, former players and friends who have supported us throughout the years. It’s likely that some of our new league ambassadors will be from within our network, it’s also likely we’ll be able to re-engage former players in our new communities.  Our recruitment plan will identify clear ways to engage and leverage our current network as we implement our project.    "
-  - name: major_challenges
-    label: ''
-    explanation: ''
-    answer: "Given our experiences over the last six years, we believe the two major challenges we’ll encounter are outreach and building social trust within the community. Expanding to new communities means first learning about the community and how to be most successful there. We recognize that each neighborhood in Los Angeles has unique needs that we need to understand, and has established leaders who we need to learn from and invest in our project. As we expand to new neighborhoods, social trust needs to be cultivated and maintained through thoughtful relationship building, community outreach and following through on commitments.  \r\n\r\nWe want to continue working in communities where the need for community involvement and development is high. In order to do this, our recruitment campaign for new league ambassadors will focus on the following key regional areas— Boyle Heights, Downtown, East LA, Mid-City and South LA. In order for The Yacht Club vision to be actualized, our leagues will partner with rec centers in traditionally under-resourced communities. We plan to leverage our current network and build relationships with active community-based organizations in each of our key regional areas. \r\n\r\nA cornerstone of our league ambassador development and support will be building social trust in new communities. You see it’s been our experience that when we walk into new rec centers for the first time and tell them we want to play dodgeball AND provide opportunities to expand youth programming, they’re weary. They think there’s a catch. Our rec centers in communities like Glassell Park and North Hollywood aren’t used to young professionals coming in and offering the resources (equipment, volunteers, time, etc.) to support their community with nothing wanted in exchange.  Our league ambassadors will receive a community outreach toolkit, learning from our own successes and failures, and design a clear plan to build social trust in their intended neighborhood."
-  - name: competition
-    label: ''
-    explanation: ''
-    answer: "The Yacht Club isn’t just another dodgeball league. We’re a group of dodgeball leagues with heart, conscience and zest that aim to do more for our community. We’re also a non-profit and our leagues have the power to apply dues and fundraising (after covering operational costs) to events and projects specific to micro-community needs and interests. \r\n\r\nOur project aims to expand our leagues with purpose. We will seek Angelenos that have the ability (and record) of investing others in doing good to become league ambassadors.  Our league ambassadors will provide the opportunities and the space for others to create opportunities for players to actively participate in their community.  We’ll see an increase in volunteerism, social well-being and commitment to neighborhoods across Los Angeles. Further, we’ll continue to be intentional about the communities we serve, we’re looking to expand in communities similar to Glassell Park, North Hollywood, Oakwood (Venice) and Highland Park. These are communities that have traditionally been considered underserved and under-resourced.\r\n\r\nOther organizations running dodgeball leagues in Los Angeles include WeHo Dodgeball and World Dodgeball Society. WeHo Dodgeball runs two leagues on Tuesdays and Thursdays in West Hollywood. They fundraise for local charities and participate in local events, primarily working to support the West Hollywood LGBT community. The World Dodgeball Society runs leagues on different nights throughout Los Angeles. They recruit league managers through their website and word-of-mouth to start leagues in different neighborhoods. The World Dodgeball Society has leagues primarily in Central LA and the South Bay Cities and operationally runs as a franchise."
-  - name: cost
-    label: ''
-    explanation: ''
-    answer: "The grant amount of $100,000 allows us to recruit, select and support six new league ambassadors to launch Yacht Club leagues throughout Los Angeles. The grant monies will not cover overhead expenses incurred by The Yacht Club.  \r\n\r\nEach league will establish player registration fees based on what has historically worked across our leagues to increase players, sustain the league and provide resources used in order to host events focused on social connectedness and civic engagement. Each league will contribute 20% of their seasonal registration fees to The Yacht Club to cover overhead expenses during the startup year. In subsequent years, each league will contribute 25% to cover overhead costs incurred by The Yacht Club and additional marketing collateral produced by The Yacht Club."
-  - name: budget
-    label: ''
-    explanation: ''
-    answer: "LA2050 Program Budget\r\n6 League Launch funds at $9k each\r\nTOTAL: $54,000\r\n• Annual equipment (nets, sound system): $700\r\n• Seasonal equipment (tape, balls, First Aid kit): $1,100\r\n• Permits for rec center use: $2,500\r\n• Social Media and Marketing toolkit: $2,200\r\n• Brand/logo collateral: $1,000\r\n• Ambassador stipend: $1,500 ($500/season)\r\n\r\nLeague Ambassador Retreats\r\nTOTAL: $14,000\r\n• Retreat #1, October 2014 (transportation, lodging, food, materials, facilitator stipends): $6,000\r\n• Retreat #2, November 2014 (transportation, lodging, food, materials, facilitator stipends): $6,000\r\n• Retreat #3, March 2015 (food, materials, facilitator stipends): $2,000\r\n\r\nOversight and Development\r\nTOTAL: $30,000\r\n• Launch planning meeting (food, materials, facilitator stipend): $800\r\n• Project coordinator salary (to be added to current job role/salary): $14,000\r\n• Curriculum development consultant fees: $8,000\r\n• League ambassador referral prize: $1,200 ($200/league ambassador selected)\r\n• Oversight stipend to board committee chair: $3,000 ($250/month)\r\n• Recruitment campaign (marketing collateral and advertising fees): $1,000\r\n• Step-back meeting, September 2015: (food, space, materials, facilitator stipend): $2,000"
-  - name: resources_money
-    label: Money (financial capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_staff
-    label: Volunteers/staff (human capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_publicity
-    label: Publicity/awareness (social capital)
-    explanation: ''
-    answer: '1'
-  - name: resources_infrastructure
-    label: 'Infrastructure (building/space/vehicles, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_education
-    label: Education/training
-    explanation: ''
-    answer: '0'
-  - name: resources_technical
-    label: 'Technical infrastructure (computers, etc.)'
-    explanation: ''
-    answer: '0'
-  - name: resources_communityoutreach
-    label: Community outreach
-    explanation: ''
-    answer: '1'
-  - name: resources_network
-    label: Network/relationship support
-    explanation: ''
-    answer: '1'
-  - name: resources_research
-    label: Quality improvement research
-    explanation: ''
-    answer: '0'
-body_class: tangerine
-published: true
 
 ---

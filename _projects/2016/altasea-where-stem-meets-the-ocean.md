@@ -1,32 +1,23 @@
 ---
+published: true
 organization_id: '2016007'
 year_submitted: 2016
-organization_name: AltaSea at the Port of Los Angeles
-organization_website: altasea.org
-ein: ''
-project_image_2: 3892536625741-team89.jpg
+category: learn
+body_class: blueberry
 project_id: '6102005'
+challenge_url: 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'
 title: 'AltaSea: Where STEM Meets the Ocean'
-organization_name_2: AltaSea at the Port of Los Angeles
-organization_activity: >-
-  AltaSea accelerates scientific collaboration, facilitates job creation and
-  inspires the next generation for a more sustainable ocean.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
-project_video: 'https://www.youtube.com/embed/ym0IsfhUDW8?rel=0&amp;showinfo=0'
 project_summary: >-
   AltaSea and our partners are inspiring the next generation to explore the
   ocean and to generate blue solutions to the world’s most pressing challenges:
   food, energy and climate security.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
+project_video: 'https://www.youtube.com/embed/ym0IsfhUDW8?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   AltaSea at the Port of Los Angeles, Ocean Exploration Trust, Los Angeles
   Maritime Institute, Catalina Sea Ranch, Blue Robotics
-project_areas:
-  - South LA
-  - South Bay
-  - Gateway Cities
-  - LAUSD
 project_measure: >-
   Our long term measure of defining success will be that students grow into
   champions for a sustainable ocean and planet.  In addition, our goal is that
@@ -79,6 +70,24 @@ project_description: >-
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education pipeline"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+project_proposal_description: >-
+  Using cutting-edge blue technology and state of the art ocean research,
+  AltaSea’s STEM network provides ocean-based programs to middle school students
+  at the LA Waterfront. Through hands-on exploration of the ocean, students will
+  be empowered to be part of the solution to the planet’s sustainability
+  challenges and ultimately to see science/STEM careers as an option. Our long
+  term goal is to motivate our youth to be 21st century champions for a
+  sustainable ocean.
+project_areas:
+  - South LA
+  - South Bay
+  - Gateway Cities
+  - LAUSD
 project_proposal_best_place: >-
   AltaSea and our partners, Blue Robotics (BR), Catalina Sea Ranch (CSR), Los
   Angeles Maritime Institute (LAMI) and Ocean Exploration Trust (OET), introduce
@@ -136,23 +145,7 @@ project_proposal_best_place: >-
   our planet's extraordinary ocean. Visits to AltaSea and the LA Waterfront
   ignite a lifelong passion and curiosity about the ocean, motivating this
   generation to be guardians for a sustainable future.
-challenge_url: 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'
-empty_column_1: ''
-project_proposal_description: >-
-  Using cutting-edge blue technology and state of the art ocean research,
-  AltaSea’s STEM network provides ocean-based programs to middle school students
-  at the LA Waterfront. Through hands-on exploration of the ocean, students will
-  be empowered to be part of the solution to the planet’s sustainability
-  challenges and ultimately to see science/STEM careers as an option. Our long
-  term goal is to motivate our youth to be 21st century champions for a
-  sustainable ocean.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: AltaSea at the Port of Los Angeles
+organization_website: altasea.org
 
 ---

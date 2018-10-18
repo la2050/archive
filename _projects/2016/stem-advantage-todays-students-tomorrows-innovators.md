@@ -1,24 +1,20 @@
 ---
+published: true
 organization_id: '2016202'
 year_submitted: 2016
-organization_name: STEM Advantage
-organization_website: www.stemadvantage.org
-ein: ''
-project_image_2: 3262530655741-team91.jpg
+category: learn
+body_class: blueberry
 project_id: '6102218'
+challenge_url: >-
+  https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
 title: 'STEM Advantage: Today''s students, tomorrow''s innovators!'
-organization_name_2: STEM Advantage
-organization_activity: >-
+project_summary: >-
   STEM Advantage mentors, prepares and inspires young women and underserved
   communities to pursue careers in science, technology, engineering and math
   through paid internships, mentors and scholarships.
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3262530655741-team91.jpg
 project_video: 'https://www.youtube.com/embed/z2t5cRSBqQA?rel=0&amp;showinfo=0'
-project_summary: >-
-  STEM Advantage mentors, prepares and inspires young women and underserved
-  communities to pursue careers in science, technology, engineering and math
-  through paid internships, mentors and scholarships.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   STEM Advantage has partnerships with the computer science and engineering
@@ -28,13 +24,6 @@ project_collaborators: >-
   paid internships, mentors, and/or financial support for STEM Advantage
   Scholarships. Companies include Toyota, Farmers Insurance, CBS, Sony Pictures
   Entertainment, Avery Dennison and others.
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - County of Los Angeles
 project_measure: >-
   We use both formal and informal metrics to measure outcomes, learn and refine
   our program to grow and scale to support more students and CSU campuses. 
@@ -89,6 +78,26 @@ project_description: >-
 project_impact: >-
   ["College completion","College matriculation rates","Student education
   pipeline","Youth unemployment and underemployment"]
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  STEM Advantage's 360-degree program provides students attending a public
+  university the type of support that many students attending a private
+  university receive, including internships, mentors, scholarships, career
+  panels, access to and networking opportunities with business and  technology
+  executives and hiring managers. STEM Advantage aims to level the playing field
+  for young women and underserved communities attending  California State
+  University (CSU) campuses in the Los Angeles area.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - County of Los Angeles
 project_proposal_best_place: >-
   California employers report being unable to find qualified candidates in STEM.
   With more than 1 million new STEM jobs on the horizon, STEM Advantage
@@ -143,24 +152,7 @@ project_proposal_best_place: >-
   students of color. Young people will see someone who “looks like them” and be
   able to relate because they have similar backgrounds. There’s a saying ‘if I
   can see it, I can be it’.
-challenge_url: >-
-  https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
-empty_column_1: ''
-project_proposal_description: >-
-  STEM Advantage's 360-degree program provides students attending a public
-  university the type of support that many students attending a private
-  university receive, including internships, mentors, scholarships, career
-  panels, access to and networking opportunities with business and  technology
-  executives and hiring managers. STEM Advantage aims to level the playing field
-  for young women and underserved communities attending  California State
-  University (CSU) campuses in the Los Angeles area.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: STEM Advantage
+organization_website: www.stemadvantage.org
 
 ---

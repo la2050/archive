@@ -1,37 +1,28 @@
 ---
+published: true
 organization_id: '2018097'
 year_submitted: 2016
-organization_name: ProduceAthon
-organization_website: www.produceAthon.org
-ein: '300945310'
-project_image_2: 4852245265741-team91.png
+category: create
+body_class: banana
 project_id: '6102190'
+challenge_url: >-
+  https://challenge.la2050.org/entry/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges
 title: >-
   #StoryTeching: Delivering civic innovation via storytelling & technology based
   incentive challenges
-organization_name_2: ProduceAthon
-organization_activity: >-
-  We create sustainable civic innovation hubs through civic incentive challenges
-  that nurture local talent, foster innovation, enhance government efficiencies,
-  & stimulate economic development
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
-project_video: ''
 project_summary: >-
   We mobilize local talent to create campaigns and tech-based solutions that
   inspire civic engagement, address our greatest civic needs, and unite the
   non-profit, private, & public sectors.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
+project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   1 - 5: The Cities of: Los Angeles West Hollywood, Santa Monica, & Long Beach,
   6 - LADWP, 7 - USC Institute for Creative Technologies, 8 - UpToGood, 9 -
   YouTube, 10 - WeWork, 11 - General Assembly, 12 - Howling Wolf Productions, 13
   - Propper Daley
-project_areas:
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
 project_measure: >-
   Having mastered & streamlined the process for facilitating skills-based
   volunteer teams towards delivering high-quality, low-cost digital stories and
@@ -75,6 +66,30 @@ project_impact: >-
   global economic influence (“soft power”)","Minority- and women-owned
   firms","High growth startups","Patents per capita","Venture capital
   investment"]
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Patents per capita
+  - Venture capital investment
+project_proposal_description: >-
+  ProduceAthon, in collaboration with the Cities of Los Angeles, West Hollywood,
+  Long Beach, & Santa Monica will create a new program that catalyzes local
+  talent – developers, designers, entrepreneurs, storytellers, and makers – to
+  build marketing solutions & innovative tech-based prototypes around
+  city-identified challenge sets. We will match talent teams with subject matter
+  experts, business accelerators, & investors to ensure their concepts are
+  scalable, sustainable, & deliver measurable impact
+project_areas:
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
 project_proposal_best_place: >-
   ProduceAthon will help make LA the best place to create by fostering civic
   innovation & entrepreneurship in our region. 
@@ -130,30 +145,7 @@ project_proposal_best_place: >-
   develop a more inclusive and creative local economy that unites the
   non-profit, private, & public sectors through intentional collaboration & help
   make LA the best place to CREATE.
-challenge_url: >-
-  https://challenge.la2050.org/entry/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges
-empty_column_1: ''
-project_proposal_description: >-
-  ProduceAthon, in collaboration with the Cities of Los Angeles, West Hollywood,
-  Long Beach, & Santa Monica will create a new program that catalyzes local
-  talent – developers, designers, entrepreneurs, storytellers, and makers – to
-  build marketing solutions & innovative tech-based prototypes around
-  city-identified challenge sets. We will match talent teams with subject matter
-  experts, business accelerators, & investors to ensure their concepts are
-  scalable, sustainable, & deliver measurable impact
-project_proposal_impact:
-  - Arts establishments
-  - Manufacturing activity
-  - Employment in the creative industries
-  - Gini coefficient
-  - Jobs per capita
-  - Measures of cultural and global economic influence (“soft power”)
-  - Minority- and women-owned firms
-  - High growth startups
-  - Patents per capita
-  - Venture capital investment
-category: create
-body_class: banana
-published: true
+organization_name: ProduceAthon
+organization_website: www.produceAthon.org
 
 ---

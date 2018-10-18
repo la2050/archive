@@ -1,24 +1,19 @@
 ---
+published: true
 organization_id: '2016028'
 year_submitted: 2016
-organization_name: 'Building Healthy Communities: Long Beach'
-organization_website: bhclongbeach.org
-ein: ''
-project_image_2: 1573115165741-team88.jpg
+category: connect
+body_class: tangerine
 project_id: '6102024'
+challenge_url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'
 title: 'People''s Planning School: Park Equity Project'
-organization_name_2: 'Building Healthy Communities: Long Beach'
-organization_activity: >-
-  BHCLB aims to reduce health disparities and improve community health through
-  systemic changes fueled by resident engagement, resource sharing,
-  partnerships, and strategic communications.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1573115165741-team88.jpg
-project_video: 'https://www.youtube.com/embed/9dUfXn07Zvg?rel=0&amp;showinfo=0'
 project_summary: >-
   The People’s Planning School: Park Equity Project (PPS) organizes residents to
   transform their parks into intergenerational play hubs that strengthen family
   bonds and reduce community violence.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1573115165741-team88.jpg
+project_video: 'https://www.youtube.com/embed/9dUfXn07Zvg?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   There are five collaborators: 1) Building Healthy Communities: Long Beach
@@ -28,8 +23,6 @@ project_collaborators: >-
   initiative; 4) City of Long Beach Department of Health and Human Services
   (DHHS); and 5) City of Long Beach Parks, Recreation and Marine Department
   (PRM).
-project_areas:
-  - South Bay
 project_measure: >-
   Resident involvement in the planning of their communities is the number one
   indicator of success.  The vision of Drake Park serving as a community hub
@@ -67,6 +60,20 @@ project_description: >-
 project_impact: >-
   ["Social & emotional support","Public/open streets gatherings","Government
   responsiveness to residents’ needs","Rates of volunteerism"]
+project_proposal_impact:
+  - Social & emotional support
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Rates of volunteerism
+project_proposal_description: >-
+  In the People’s Planning School, residents participate in a 6-week planning
+  workshop that includes developing a neighborhood action plan to identify
+  resources for parks and open space programming at Drake Park and the
+  surrounding areas. PPS residents lead an advocacy action day to inform
+  decision-makers on municipal budget prioritization to have parks serve as
+  community hubs that strengthen family bonds and reduce community violence.
+project_areas:
+  - South Bay
 project_proposal_best_place: >-
   The PPS project connects people, parks, and institutions to create active,
   safe neighborhoods for all generations to thrive.  It is a multi-sector
@@ -114,22 +121,7 @@ project_proposal_best_place: >-
   lives.  As part of this commitment, PPS will work to impact budgetary
   decisions on how park program funding is allocated and bring new community
   resources to bear to support the desired level of park programming.
-challenge_url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'
-empty_column_1: ''
-project_proposal_description: >-
-  In the People’s Planning School, residents participate in a 6-week planning
-  workshop that includes developing a neighborhood action plan to identify
-  resources for parks and open space programming at Drake Park and the
-  surrounding areas. PPS residents lead an advocacy action day to inform
-  decision-makers on municipal budget prioritization to have parks serve as
-  community hubs that strengthen family bonds and reduce community violence.
-project_proposal_impact:
-  - Social & emotional support
-  - Public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Rates of volunteerism
-category: connect
-body_class: tangerine
-published: true
+organization_name: 'Building Healthy Communities: Long Beach'
+organization_website: bhclongbeach.org
 
 ---

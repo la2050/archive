@@ -1,36 +1,22 @@
 ---
+published: true
 organization_id: '2016209'
 year_submitted: 2016
-organization_name: Teach For America-Los Angeles
-organization_website: losangeles.teachforamerica.org
-ein: '133541913'
-project_image_2: 6235226615741-team90.jpg
+category: learn
+body_class: blueberry
 project_id: '6102230'
+challenge_url: >-
+  https://challenge.la2050.org/entry/trauma-informed-teaching-initiative-a-win-for-teachers-and-students
 title: Trauma-Informed Teaching Initiative; A Win For Teachers and Students
-organization_name_2: Teach For America-Los Angeles
-organization_activity: >-
-  Teach For America partners with communities to expand educational
-  opportunities for children facing the challenges of poverty and other systemic
-  issues.
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
-project_video: 'https://www.youtube.com/embed/T7BYSC7XXLk?rel=0&amp;showinfo=0'
 project_summary: >-
   Our Trauma-Informed Teaching Initiative promotes the mental wellness of our
   teachers and students, enhances instructional effectiveness, and motivates
   teachers to stay in education.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
+project_video: 'https://www.youtube.com/embed/T7BYSC7XXLk?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: N/A
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Gateway Cities
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   By being trained in trauma-informed practices in the classroom, teachers are
   better able to be effective and highly effective teachers. We rate corps
@@ -73,6 +59,31 @@ project_impact: >-
   in English and Language Arts and Math","Student education pipeline","Students’
   perceived sense of safety at and on the way to school","Truancy rates in
   elementary and middle schools"]
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Truancy rates in elementary and middle schools
+project_proposal_description: >-
+  Teach For America operates in schools in low-income communities where
+  students, who are more prone to trauma and high stress environments, have
+  increased barriers to an excellent education. It is a central part of our
+  mission to develop and mobilize quality teachers and leaders in education that
+  can address educational inequity from all angles, including from a
+  trauma-informed framework to transform classrooms, schools and entire school
+  systems.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Gateway Cities
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   There is an urgent need for trauma-informed professional development for
   teachers so they can be responsive to the needs of students in high-need
@@ -125,26 +136,7 @@ project_proposal_best_place: >-
   teachers and positive results in the classroom. Lastly, our trauma-informed
   work encourages teachers to persist and grow their craft in teaching in
   low-income communities.
-challenge_url: >-
-  https://challenge.la2050.org/entry/trauma-informed-teaching-initiative-a-win-for-teachers-and-students
-empty_column_1: ''
-project_proposal_description: >-
-  Teach For America operates in schools in low-income communities where
-  students, who are more prone to trauma and high stress environments, have
-  increased barriers to an excellent education. It is a central part of our
-  mission to develop and mobilize quality teachers and leaders in education that
-  can address educational inequity from all angles, including from a
-  trauma-informed framework to transform classrooms, schools and entire school
-  systems.
-project_proposal_impact:
-  - College matriculation rates
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-  - Students’ perceived sense of safety at and on the way to school
-  - Truancy rates in elementary and middle schools
-category: learn
-body_class: blueberry
-published: true
+organization_name: Teach For America-Los Angeles
+organization_website: losangeles.teachforamerica.org
 
 ---

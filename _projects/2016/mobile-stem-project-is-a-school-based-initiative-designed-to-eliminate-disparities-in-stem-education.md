@@ -1,31 +1,24 @@
 ---
+published: true
 organization_id: '2016016'
 year_submitted: 2016
-organization_name: Avalon Carver Community Center
-organization_website: avalon-carver.org
-ein: ''
-project_image_2: 0308329715741-team89.jpg
+category: learn
+body_class: blueberry
 project_id: '6102013'
+challenge_url: >-
+  https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
 title: >-
   Mobile STEM Project is a school based initiative designed to eliminate
   disparities in STEM education
-organization_name_2: Avalon Carver Community Center
-organization_activity: >-
-  We aim to promote economic self-sufficiency, strengthen families & build a
-  strong sense of community by providing services for the physical, mental,
-  educational & spiritual needs of South LA residents
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
-project_video: 'https://www.youtube.com/embed/rGOQvQ3eOJk?rel=0&amp;showinfo=0'
 project_summary: >-
   In an effort to minimize the achievement gaps in math and science, the Mobile
   STEM project provides science and engineering engineering that make learning
   exciting and engaging for South LA students.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
+project_video: 'https://www.youtube.com/embed/rGOQvQ3eOJk?rel=0&amp;showinfo=0'
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas:
-  - South LA
-  - LAUSD
 project_measure: >-
   The Mobile STEM project has helped students gain a greater level of enthusiasm
   and  positive regard towards science, technology, engineering and mathematics.
@@ -65,6 +58,22 @@ project_impact: >-
   ["Proficiency in English and Language Arts and Math","Early
   education","Student education pipeline","Youth unemployment and
   underemployment"]
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Youth unemployment and underemployment
+project_proposal_description: >-
+  The Mobile STEM  project will provide twenty-six (26) one-hour and fifteen
+  minute weekly scientific investigation and engineering design projects for
+  students in 3rd through 5th grade. Project-based activities provide in-depth,
+  kinesthetic and creative learning experiences that are hands-on and
+  learner-centered. The learning experiences actively engage students in
+  inquiry-based and problem-solving practices to achieve depth of core ideas in
+  the disciplines of science.
+project_areas:
+  - South LA
+  - LAUSD
 project_proposal_best_place: >-
   Avalon Carver’s Mobile STEM Project is an educational school based initiative
   that is designed to eliminate disparities in access to STEM education, promote
@@ -113,24 +122,7 @@ project_proposal_best_place: >-
 
   -Providing professional development workshops that focuses on STEM academic
   vocabulary and effective literacy teaching across various disciplines
-challenge_url: >-
-  https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
-empty_column_1: ''
-project_proposal_description: >-
-  The Mobile STEM  project will provide twenty-six (26) one-hour and fifteen
-  minute weekly scientific investigation and engineering design projects for
-  students in 3rd through 5th grade. Project-based activities provide in-depth,
-  kinesthetic and creative learning experiences that are hands-on and
-  learner-centered. The learning experiences actively engage students in
-  inquiry-based and problem-solving practices to achieve depth of core ideas in
-  the disciplines of science.
-project_proposal_impact:
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Student education pipeline
-  - Youth unemployment and underemployment
-category: learn
-body_class: blueberry
-published: true
+organization_name: Avalon Carver Community Center
+organization_website: avalon-carver.org
 
 ---

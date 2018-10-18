@@ -1,43 +1,26 @@
 ---
+published: true
 organization_id: '2016257'
 year_submitted: 2016
-organization_name: WISH Academy High School
-organization_website: WWW.WISHacademyhs.org
-ein: ''
-project_image_2: 4396755265741-team90.JPG
+category: learn
+body_class: blueberry
 project_id: '6102284'
+challenge_url: >-
+  https://challenge.la2050.org/entry/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education
 title: >-
   WISH ACADEMY: THE FIRST HIGH SCHOOL IN THE LOS ANGELES AREA TO PROVIDE
   INCLUSIVE EDUCATION 
-organization_name_2: WISH Academy High School
-organization_activity: >-
-  Before WISH, we found ourselves without an inclusive community school option
-  for our children, with and without disabilities, in our neighborhoods there
-  aren't any inclusive high school options
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
-project_video: 'https://www.youtube.com/embed/zVjUr0gjKDE?rel=0&amp;showinfo=0'
 project_summary: >-
   Currently, there are no inclusive community high school options embracing (or
   even allowing) students of all abilities, including those with disabilities,
   to learn together in one inclusive setting.
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
+project_video: 'https://www.youtube.com/embed/zVjUr0gjKDE?rel=0&amp;showinfo=0'
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We are collaborating with the Los Angeles Unified School District and Loyola
   Marymount University schools of Education and Engineering.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 project_measure: >-
   Several times a month the Principal will facilitate data chats with teachers
   to open dialogue, reflection and planning based on student achievement data. 
@@ -80,6 +63,29 @@ project_description: >-
   those with mild, moderate and severe disabilities, as well as students who are
   designated as being high achieving and highly gifted.
 project_impact: '["Student education pipeline"]'
+project_proposal_impact:
+  - Student education pipeline
+project_proposal_description: >-
+  As many of our children are about to graduate eighth grade, they will once
+  again be faced with the challenge of no inclusive school options.  WISH
+  Academy is designed to build on the unique and successful model of WISH
+  Charter elementary and middle school, offering a rigorous, meaningful
+  curriculum for ALL students - inclusive populations of students including
+  those with mild, moderate and severe disabilities, as well as students who are
+  designated as being high achieving and highly gifted.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_proposal_best_place: >-
   WISH Academy will serve as a small, high-performing 9th-12th grade school that
   will model best practices for inclusive education, university partnerships and
@@ -111,21 +117,7 @@ project_proposal_best_place: >-
   increase due to the proliferation of new families moving to the area employed
   by the Silicon Beach corporations in Playa Vista.  More importantly, there are
   no inclusive high school education options. Period.
-challenge_url: >-
-  https://challenge.la2050.org/entry/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education
-empty_column_1: ''
-project_proposal_description: >-
-  As many of our children are about to graduate eighth grade, they will once
-  again be faced with the challenge of no inclusive school options.  WISH
-  Academy is designed to build on the unique and successful model of WISH
-  Charter elementary and middle school, offering a rigorous, meaningful
-  curriculum for ALL students - inclusive populations of students including
-  those with mild, moderate and severe disabilities, as well as students who are
-  designated as being high achieving and highly gifted.
-project_proposal_impact:
-  - Student education pipeline
-category: learn
-body_class: blueberry
-published: true
+organization_name: WISH Academy High School
+organization_website: WWW.WISHacademyhs.org
 
 ---
