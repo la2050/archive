@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Leif.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '8102115'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Leif_Community_Engagement_App.jpg
 maker_image_id: '23547'
 cached_project_image: >-

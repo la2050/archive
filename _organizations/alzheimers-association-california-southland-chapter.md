@@ -51,10 +51,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102016'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: DVIx37igPg0
 cached_project_image: >-
   /assets/images/organizations/alzheimers-association-california-southland-chapter/img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg

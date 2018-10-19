@@ -52,10 +52,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/proveLAKidsRock.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102091'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: Jw8-KCURHUA
 cached_project_image: >-
   /assets/images/organizations/skoolbo-ltd/img.youtube.com/vi/Jw8-KCURHUA/hqdefault.jpg

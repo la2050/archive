@@ -23,10 +23,11 @@ project_titles: []
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '#N/A'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 cached_project_image: >-
   /assets/images/organizations/partnership-for-los-angeles-schools/maker.good.is/images/placeholder/idea.png
 

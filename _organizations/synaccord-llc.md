@@ -35,14 +35,15 @@ aggregated:
     - 'https://activation.la2050.org/connect/synaccord-llc/'
     - 'https://challenge.la2050.org/entry/engage-your-neighborhood'
     - 'http://maker.good.is/myla2050connect2015/projects/SynaccordLA.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
   project_ids:
     - '5102293'
     - '6102234'
     - '4102205'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/synaccord-llc/activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
 

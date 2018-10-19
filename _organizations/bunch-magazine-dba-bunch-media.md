@@ -24,10 +24,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102127'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: ByhCcHjp3FQ
 cached_project_image: >-
   /assets/images/organizations/bunch-magazine-dba-bunch-media/img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg

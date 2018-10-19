@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/locally-grown-art-a-series-featuring-la-artists-in-performance-movement-talk-music-family-fun
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102207'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/sijcc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
 

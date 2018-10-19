@@ -44,10 +44,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LARiversideCC.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102172'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: rt9TuksVaZU
 cached_project_image: >-
   /assets/images/organizations/la-riverside-country-club/img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg

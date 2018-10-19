@@ -39,12 +39,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection
     - 'http://maker.good.is/myla2050learn2015/projects/CIS.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102252'
     - '5102308'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/the-ojai-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 

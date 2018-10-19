@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102227'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Eco_Civ.png
 maker_image_id: '23521'
 cached_project_image: >-

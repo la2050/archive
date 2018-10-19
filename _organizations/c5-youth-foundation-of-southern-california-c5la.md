@@ -33,12 +33,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/C5LA.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102039'
     - '4102193'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 maker_image_file_name: class_of_2016_selfie.jpg
 maker_image_id: '24065'
 cached_project_image: >-

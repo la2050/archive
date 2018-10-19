@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102226'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: XUlv1Zd4JZU
 cached_project_image: >-
   /assets/images/organizations/palisades-charter-high-school-pchs/img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg

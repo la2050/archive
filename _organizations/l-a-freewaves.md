@@ -28,12 +28,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
     - 'http://maker.good.is/myla2050/projects/Freewaves.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102048'
     - '3102132'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 maker_image_file_name: 12_Stills_from_videos.jpg
 maker_image_id: '21306'
 cached_project_image: >-

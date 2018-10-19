@@ -39,12 +39,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
     - 'http://maker.good.is/myla2050create2015/projects/la3dspace.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102001'
     - '5102004'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/3-d-space/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 

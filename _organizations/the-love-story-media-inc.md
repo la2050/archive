@@ -30,12 +30,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/the-love-story-interactive-art-journal-live-open-mic-show
     - 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102249'
     - '5102305'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/the-love-story-media-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
 

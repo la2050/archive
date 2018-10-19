@@ -76,10 +76,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/access.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102118'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: eym_apple.JPG
 maker_image_id: '16514'
 cached_project_image: >-

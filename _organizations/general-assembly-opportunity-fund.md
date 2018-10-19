@@ -26,10 +26,11 @@ project_titles:
     Underrepresented Groups
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102064'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: CMmY955jD5A
 cached_project_image: >-
   /assets/images/organizations/general-assembly-opportunity-fund/img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg

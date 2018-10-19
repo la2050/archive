@@ -32,12 +32,13 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/grid110-inc/'
     - 'http://maker.good.is/myla2050create2015/projects/GRID110.html'
-  year_submitted:
-    - '2018'
-    - '2015'
   project_ids:
     - '8102049'
     - '5102122'
+  year_submitted:
+    - '2018'
+    - '2015'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/grid110-inc/activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg
 

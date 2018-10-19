@@ -21,10 +21,11 @@ project_titles:
   - Undevelopment One
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102154'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: g8ndzuZ3kKM
 cached_project_image: >-
   /assets/images/organizations/metabolic-studio/img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg

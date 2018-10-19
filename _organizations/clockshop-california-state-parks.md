@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/laying-the-groundwork-for-a-park-on-the-la-river
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102042'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/clockshop-california-state-parks/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
 

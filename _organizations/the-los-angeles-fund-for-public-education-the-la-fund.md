@@ -24,10 +24,11 @@ project_titles:
   - 'The Intern Project: The Transformative Power of Internships'
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102173'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: tMwKJIhKIAU
 cached_project_image: >-
   /assets/images/organizations/the-los-angeles-fund-for-public-education-the-la-fund/img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg

@@ -38,14 +38,15 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/university-of-southern-california/'
     - 'https://challenge.la2050.org/entry/open-ballot-la'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2014'
   project_ids:
     - '8102133'
     - '6102273'
     - '4102266'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/university-of-southern-california/activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 

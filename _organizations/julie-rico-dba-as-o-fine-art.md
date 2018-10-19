@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '8102096'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: pnwgZVtiDAA
 cached_project_image: >-
   /assets/images/organizations/julie-rico-dba-as-o-fine-art/img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg

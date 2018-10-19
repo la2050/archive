@@ -57,10 +57,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/C-360.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102065'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: 360.png
 maker_image_id: '17017'
 cached_project_image: >-

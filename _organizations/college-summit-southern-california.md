@@ -29,10 +29,11 @@ project_titles:
     Career
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102122'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: XNxfMssLYzc
 cached_project_image: >-
   /assets/images/organizations/college-summit-southern-california/img.youtube.com/vi/XNxfMssLYzc/hqdefault.jpg

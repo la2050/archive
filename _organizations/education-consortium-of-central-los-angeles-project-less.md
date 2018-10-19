@@ -86,10 +86,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/morelearning.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102119'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: 6pkTdEgSCvo
 cached_project_image: >-
   /assets/images/organizations/education-consortium-of-central-los-angeles-project-less/img.youtube.com/vi/6pkTdEgSCvo/hqdefault.jpg

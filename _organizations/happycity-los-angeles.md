@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102125'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: EJWQ6cYZBCk
 cached_project_image: >-
   /assets/images/organizations/happycity-los-angeles/img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg

@@ -25,10 +25,11 @@ project_titles:
   - Griffith Observatory--A pLAnetarium for 2050 now!
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102128'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: 405.jpg
 maker_image_id: '20477'
 cached_project_image: >-

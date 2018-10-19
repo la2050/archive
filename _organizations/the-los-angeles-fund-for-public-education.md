@@ -53,10 +53,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/school_fuel.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102253'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: FB9aNSfVARA
 cached_project_image: >-
   /assets/images/organizations/the-los-angeles-fund-for-public-education/img.youtube.com/vi/FB9aNSfVARA/hqdefault.jpg

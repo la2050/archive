@@ -33,12 +33,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/FRANKLINIVAR.html'
     - 'http://maker.good.is/myla2050live2015/projects/ELDORADOPARK.html'
-  year_submitted:
-    - '2015'
-    - '2015'
   project_ids:
     - '5102211'
     - '5102211'
+  year_submitted:
+    - '2015'
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: LA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png
 maker_image_id: '23990'
 cached_project_image: >-

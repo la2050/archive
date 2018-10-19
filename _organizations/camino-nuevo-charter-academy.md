@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102030'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/camino-nuevo-charter-academy/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
 

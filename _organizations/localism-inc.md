@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102254'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: TNz5Q0G-KAs
 cached_project_image: >-
   /assets/images/organizations/localism-inc/img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg

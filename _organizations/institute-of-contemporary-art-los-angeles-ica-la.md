@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/agency-of-assets'
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102104'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/institute-of-contemporary-art-los-angeles-ica-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5792245165741-team88.jpg
 

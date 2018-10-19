@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '8102082'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: LOGO.png
 maker_image_id: '23967'
 cached_project_image: >-

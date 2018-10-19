@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102130'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/ucla-mobile-eye-clinic-umec/activation.la2050.org/assets/images/live/2048-wide/ucla-mobile-eye-clinic-umec.jpg
 

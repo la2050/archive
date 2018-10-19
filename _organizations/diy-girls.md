@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102083'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: g5AgtC0G5ec
 cached_project_image: >-
   /assets/images/organizations/diy-girls/img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg

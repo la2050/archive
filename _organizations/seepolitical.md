@@ -31,12 +31,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SeePolitical.html'
     - 'http://maker.good.is/myLA2050connect/projects/SeePolitical.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102264'
     - '4102211'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: atB8yIPXKCk
 cached_project_image: >-
   /assets/images/organizations/seepolitical/img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg

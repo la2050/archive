@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102277'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/usc-annenberg-innovation-lab/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
 

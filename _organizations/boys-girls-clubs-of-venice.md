@@ -30,12 +30,13 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
     - 'http://maker.good.is/myla2050/projects/BGCVenice.html'
-  year_submitted:
-    - '2018'
-    - '2013'
   project_ids:
     - '8102010'
     - '3102038'
+  year_submitted:
+    - '2018'
+    - '2013'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/boys-girls-clubs-of-venice/activation.la2050.org/assets/images/connect/2048-wide/boys-girls-clubs-of-venice-bgcv.jpg
 

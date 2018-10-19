@@ -33,10 +33,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102116'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: IMG_9595_(5).jpg
 maker_image_id: '23564'
 cached_project_image: >-

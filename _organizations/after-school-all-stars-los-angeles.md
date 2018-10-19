@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102010'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: t3QQPi2pnEU
 cached_project_image: >-
   /assets/images/organizations/after-school-all-stars-los-angeles/img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg

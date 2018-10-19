@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Feedthedolphins.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '8102127'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: nu53ttV7jQI
 cached_project_image: >-
   /assets/images/organizations/tiny-rebellion/img.youtube.com/vi/nu53ttV7jQI/hqdefault.jpg

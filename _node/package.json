@@ -8,6 +8,7 @@
     "projects:update": "node --max-old-space-size=4096 ./generate/update-projects.js",
     "organizations:create": "node --max-old-space-size=4096 ./generate/create-organizations.js",
     "organizations:update": "node --max-old-space-size=4096 ./generate/update-organizations.js",
+    "tags:create": "node --max-old-space-size=4096 ./generate/create-tags.js",
     "images:download": "node ./generate/download-images.js",
     "not in use images:create": "gulp",
     "not in use images:copy": "node ./generate/copy-images.js",

@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102093'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: 5paOc34oG84
 cached_project_image: >-
   /assets/images/organizations/entertainment-industries-council-inc/img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg

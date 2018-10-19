@@ -48,10 +48,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/PickUpPopUpProduce.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102074'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 cached_project_image: >-
   /assets/images/organizations/civic-projects/maker.good.is/images/placeholder/idea.png
 

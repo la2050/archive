@@ -32,10 +32,11 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/live/a-healthier-community-starts-with-youth/
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102004'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/a-healthier-community-starts-with-youth/activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
 

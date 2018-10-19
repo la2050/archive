@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102111'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/south-bay-bicycle-coalition/activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 

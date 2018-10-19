@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102056'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: cVrWTvw8gFc
 cached_project_image: >-
   /assets/images/organizations/los-angeles-downtown-arts-district-space-ladadspace/img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg

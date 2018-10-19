@@ -28,6 +28,7 @@ max-width: none;margin-bottom: 4.5rem; margin-top: 4.5rem; text-shadow: 0 0 2em 
 {% endif %}
 
 
+{% unless page.tag and include.first == true %}
 <details open>
 <summary onclick="if (event.target.nodeName.toLowerCase() != 'a') event.preventDefault()">
 {% unless page.is_search_results %}
@@ -37,7 +38,7 @@ max-width: none;margin-bottom: 4.5rem; margin-top: 4.5rem; text-shadow: 0 0 2em 
 {% endunless %}
 </summary>
 
-<form class="search" action="/search/{{ conditional_finalists_url }}/" method="get" id="search">
+<form class="search" action="/search/" method="get" id="search">
   <label>
     <span style="position: absolute; left: -9999px">Keywords</span>
     <input type="search" name="keywords" id="search-field" {% if page.layout == 'project-list' %}{% unless page.is_search_results %} autofocus {% endunless %}{% endif %} />
@@ -52,10 +53,37 @@ max-width: none;margin-bottom: 4.5rem; margin-top: 4.5rem; text-shadow: 0 0 2em 
   </button>
 </form>
 </details>
+{% endunless %}
 
-
+{% if page.tag and include.first == true %}
+  {% case page.tag %}
+    {% when "Arts & cultural vitality" %}
+      {% assign tag_image = "paint.svg" %}
+    {% when "Education & youth" %}
+      {% assign tag_image = "backpack.svg" %}
+    {% when "Environmental quality & sustainability" %}
+      {% assign tag_image = "leaf.svg" %}
+    {% when "Health" %}
+      {% assign tag_image = "heart.svg" %}
+    {% when "Housing & homelessness" %}
+      {% assign tag_image = "building.svg" %}
+    {% when "Income & employment" %}
+      {% assign tag_image = "dollars.svg" %}
+    {% when "Mobility" %}
+      {% assign tag_image = "bus.svg" %}
+    {% when "Public safety & public space" %}
+      {% assign tag_image = "park.svg" %}
+    {% when "Social connectedness" %}
+      {% assign tag_image = "people.svg" %}
+  {% endcase %}
+  {% if tag_image %}
+    <img src="/assets/images/icons/{{ tag_image }}" id="tags-image" style="width: 1.5em; height: 1.5em; font-size: 2em; margin-bottom: 0.375em; margin-left: auto; margin-right: auto;" alt="" />
+  {% endif %}
+  <h2 id="tags-title" style="font-style: normal; font-size: 1.5em; margin-top: 0; margin-bottom: -1.5rem; max-width: none; text-align: center; color: var(--primary-color)">{{ page.tag }}</h2>
+{% else %}
 <img id="tags-image" style="display: none; width: 1.5em; height: 1.5em; font-size: 2em; margin-bottom: 0.375em; margin-left: auto; margin-right: auto;" alt="" />
 <h2 id="tags-title" style="font-style: normal; font-size: 1.5em; margin-top: 3rem; margin-bottom: -1.5rem; display: none; max-width: none; text-align: center; color: var(--primary-color)"></h2>
+{% endif %}
 
 
 {% unless page.is_search_results %}
@@ -103,24 +131,11 @@ max-width: none;margin-bottom: 4.5rem; margin-top: 4.5rem; text-shadow: 0 0 2em 
 
 </div>
 
-{% if page.category and page.layout == 'project-list' %}
-<div class="action-container">
-
-<ul class="action">
-  <li class="blueberry"><a href="/learn/{{ conditional_finalists_url }}"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
-  <li class="banana"><a href="/create/{{ conditional_finalists_url }}"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
-  <li class="strawberry"><a href="/play/{{ conditional_finalists_url }}"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
-  <li class="tangerine"><a href="/connect/{{ conditional_finalists_url }}"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
-  <li class="lime"><a href="/live/{{ conditional_finalists_url }}"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
-</ul>
-</div>
-{% endif %}
-
 {% if page.layout == 'project-list' %}
 
-{% if page.category and page.layout == 'project-list' %}
+{% if page.tag and include.first == true %}
 
-<p class="count"><strong>{{ data_list.size }}</strong> organizations submitted an idea in the <strong class="category">{{ page.category }}</strong> category. <small>Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
+<p class="count"><span>There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">organizations</span>.</span> <small>Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
 
 {% elsif page.is_search_results %}
 

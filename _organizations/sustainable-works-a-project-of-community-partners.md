@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/sustainableworks.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102240'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: q0_2OnUiDiU
 cached_project_image: >-
   /assets/images/organizations/sustainable-works-a-project-of-community-partners/img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg

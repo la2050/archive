@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/coro-southern-california/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102031'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/coro-southern-california/activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
 

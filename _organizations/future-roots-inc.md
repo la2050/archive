@@ -27,10 +27,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102077'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/future-roots-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
 

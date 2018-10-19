@@ -42,10 +42,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FoodForwardLA.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102129'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: EpR6dHeaGIQ
 cached_project_image: >-
   /assets/images/organizations/food-forward/img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg

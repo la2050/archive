@@ -31,12 +31,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'
     - 'http://maker.good.is/myla2050/projects/belong.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102054'
     - '3102060'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 maker_image_file_name: CB_Logo.jpg
 maker_image_id: '23775'
 cached_project_image: >-

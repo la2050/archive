@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102239'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: 9l0UWGhKU-U
 cached_project_image: >-
   /assets/images/organizations/jobcouch/img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg

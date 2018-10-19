@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102267'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: rDZ9hY7J0xQ
 cached_project_image: >-
   /assets/images/organizations/urban-reclaim/img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg

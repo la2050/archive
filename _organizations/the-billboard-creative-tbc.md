@@ -32,10 +32,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/citywide-billboard-art-show-connecting-emerging-artists-with-mass-audiences-on-the-streets-of-la
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102236'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/the-billboard-creative-tbc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2650088355741-team91.jpg
 

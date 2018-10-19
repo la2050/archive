@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-plays-at-king'
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102074'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/friends-of-king/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
 

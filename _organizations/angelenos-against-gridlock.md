@@ -101,10 +101,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/fundthisproject.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102021'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: tnpBsy1mGwQ
 cached_project_image: >-
   /assets/images/organizations/angelenos-against-gridlock/img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg

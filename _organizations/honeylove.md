@@ -45,10 +45,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/HoneyLove.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102150'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: TkvIb74D38g
 cached_project_image: >-
   /assets/images/organizations/honeylove/img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg

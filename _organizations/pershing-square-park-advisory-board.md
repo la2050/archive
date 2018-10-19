@@ -29,12 +29,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'
     - 'http://maker.good.is/myla2050/projects/KidsPlayatPS.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102068'
     - '3102218'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 maker_image_id: '20546'
 cached_project_image: >-

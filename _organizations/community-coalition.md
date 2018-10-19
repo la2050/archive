@@ -57,10 +57,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SaferHoods.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102087'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: 8O5p-fqguRo
 cached_project_image: >-
   /assets/images/organizations/community-coalition/img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg

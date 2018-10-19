@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102041'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: GFS_PHOTO_1.png
 maker_image_id: '21361'
 cached_project_image: >-

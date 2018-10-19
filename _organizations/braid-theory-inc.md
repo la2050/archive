@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102086'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/braid-theory-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
 

@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/newdigs.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102093'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: gzqE0ygfM8Y
 cached_project_image: >-
   /assets/images/organizations/the-la-brea-tar-pits-museum/img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg

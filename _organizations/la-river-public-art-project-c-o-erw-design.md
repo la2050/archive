@@ -34,11 +34,12 @@ aggregated:
     - >-
       https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
     - 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
+  project_ids:
+    - '5102247'
   year_submitted:
     - '2018'
     - '2015'
-  project_ids:
-    - '5102247'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/la-river-public-art-project-c-o-erw-design/activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
 

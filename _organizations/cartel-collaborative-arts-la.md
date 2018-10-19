@@ -37,10 +37,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/cartel.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102008'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: 4zAG6xu-HQM
 cached_project_image: >-
   /assets/images/organizations/cartel-collaborative-arts-la/img.youtube.com/vi/4zAG6xu-HQM/hqdefault.jpg

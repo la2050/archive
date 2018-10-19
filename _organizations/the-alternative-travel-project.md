@@ -34,12 +34,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/altravelproject.html'
     - 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102296'
     - '4102215'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: u0DYRf98w-o
 cached_project_image: >-
   /assets/images/organizations/the-alternative-travel-project/img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg

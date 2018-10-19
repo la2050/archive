@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102013'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/avalon-carver-community-center/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
 

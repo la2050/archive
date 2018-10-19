@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102076'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: QueerFest2014.jpg
 maker_image_id: '21336'
 cached_project_image: >-

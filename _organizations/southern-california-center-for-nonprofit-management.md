@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/spark!-connect-convene-collaborate-will-promote-las-culture-of-interconnectedness
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102213'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/southern-california-center-for-nonprofit-management/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
 

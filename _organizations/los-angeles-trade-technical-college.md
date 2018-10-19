@@ -37,14 +37,15 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2014'
   project_ids:
     - '5102197'
     - '4102203'
     - '4102204'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2014'
+year_submitted: '2015'
 maker_image_file_name: connect_SLATEZsigners.jpg
 maker_image_id: '24040'
 cached_project_image: >-

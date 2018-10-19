@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102117'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/the-brady-center-to-prevent-gun-violence/activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
 

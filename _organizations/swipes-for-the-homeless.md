@@ -52,10 +52,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102241'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: h1GATPgLPxQ
 cached_project_image: >-
   /assets/images/organizations/swipes-for-the-homeless/img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg

@@ -31,14 +31,15 @@ aggregated:
       https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
     - >-
       https://challenge.la2050.org/entry/fostermore-because-no-child-makes-it-alone
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2014'
   project_ids:
     - '8102020'
     - '6102035'
     - '4102126'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/childrens-action-network/activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
 

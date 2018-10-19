@@ -32,10 +32,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102285'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/worthy-of-love/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
 

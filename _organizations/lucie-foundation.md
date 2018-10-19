@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/month-of-photography-los-angeles-creating-a-destination-photo-festival-to-connect-engage-inspire
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102149'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/lucie-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852558165741-team90.jpg
 

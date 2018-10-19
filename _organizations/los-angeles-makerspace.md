@@ -63,10 +63,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/lamakerspace.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102187'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: LAM_Robots.jpg
 maker_image_id: '16174'
 cached_project_image: >-

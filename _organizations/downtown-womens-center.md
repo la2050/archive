@@ -84,14 +84,15 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
     - 'http://maker.good.is/myLA2050create/projects/DTwomenscenter.html'
     - 'http://maker.good.is/myla2050/projects/MADEbyDWC.html'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '#N/A'
     - '4102196'
     - '3102109'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: 8GZELMERrSk
 cached_project_image: >-
   /assets/images/organizations/downtown-womens-center/img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg

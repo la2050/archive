@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/walking.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102176'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: _AEWWNe6eQw
 cached_project_image: >-
   /assets/images/organizations/life-change-up/img.youtube.com/vi/_AEWWNe6eQw/hqdefault.jpg

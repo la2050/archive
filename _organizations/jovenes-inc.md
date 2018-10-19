@@ -29,12 +29,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ehubb.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102142'
     - '3102160'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: 6BWp4B7O03I
 cached_project_image: >-
   /assets/images/organizations/jovenes-inc/img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg

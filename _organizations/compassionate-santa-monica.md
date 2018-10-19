@@ -26,10 +26,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102053'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/compassionate-santa-monica/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 

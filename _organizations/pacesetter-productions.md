@@ -45,10 +45,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Passion.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102081'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: Pacesetter.jpg
 maker_image_id: '16972'
 cached_project_image: >-

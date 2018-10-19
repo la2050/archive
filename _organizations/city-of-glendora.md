@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/VolunteerGlendora.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102058'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: LA2015_1.jpg
 maker_image_id: '23980'
 cached_project_image: >-

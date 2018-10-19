@@ -35,12 +35,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
     - 'http://maker.good.is/myla2050learn2015/projects/dualimmersion.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102176'
     - '5102231'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/patrick-henry-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 

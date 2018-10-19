@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102336'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: WendT0Sm-Tk
 cached_project_image: >-
   /assets/images/organizations/urban-word-los-angeles/img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg

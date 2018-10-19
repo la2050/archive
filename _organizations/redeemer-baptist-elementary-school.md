@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102250'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: dsc00212.jpg
 maker_image_id: '23262'
 cached_project_image: >-

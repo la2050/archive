@@ -32,12 +32,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
     - 'http://maker.good.is/myla2050live2015/projects/JHFsurvivorretreat.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102110'
     - '5102151'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/joyful-heart-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 

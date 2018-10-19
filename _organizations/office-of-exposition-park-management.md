@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102169'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/office-of-exposition-park-management/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2101126065741-team90.jpg
 

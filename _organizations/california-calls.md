@@ -73,10 +73,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102048'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: XyASgYDVS_Q
 cached_project_image: >-
   /assets/images/organizations/california-calls/img.youtube.com/vi/XyASgYDVS_Q/hqdefault.jpg

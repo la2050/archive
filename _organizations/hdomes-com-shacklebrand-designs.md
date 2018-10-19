@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102128'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: large_domes-134_crop.jpg
 maker_image_id: '23466'
 cached_project_image: >-

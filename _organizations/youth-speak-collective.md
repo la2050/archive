@@ -31,12 +31,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
     - 'http://maker.good.is/myla2050/projects/youthspeak.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102110'
     - '3102279'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: poREvQfFFL4
 cached_project_image: >-
   /assets/images/organizations/youth-speak-collective/img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg

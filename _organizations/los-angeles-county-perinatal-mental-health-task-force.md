@@ -71,10 +71,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SpeakUp.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102184'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: Xoof6-2YZ_U
 cached_project_image: >-
   /assets/images/organizations/los-angeles-county-perinatal-mental-health-task-force/img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg

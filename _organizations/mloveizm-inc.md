@@ -33,10 +33,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/mloveizm.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102077'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: Q4dC-OX4vTw
 cached_project_image: >-
   /assets/images/organizations/mloveizm-inc/img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg

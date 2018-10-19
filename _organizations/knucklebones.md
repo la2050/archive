@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/playla.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102240'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: FAirDH4ROp0
 cached_project_image: >-
   /assets/images/organizations/knucklebones/img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg

@@ -31,12 +31,13 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/
-  year_submitted:
-    - '2018'
-    - '2014'
   project_ids:
     - '8102099'
     - '4102262'
+  year_submitted:
+    - '2018'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/proyecto-jardin-a-project-of-hunger-action-la/activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
 

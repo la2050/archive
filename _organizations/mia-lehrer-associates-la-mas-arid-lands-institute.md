@@ -24,12 +24,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/urbanforest.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102156'
     - '3102072'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: 2qWrLJakj5M
 cached_project_image: >-
   /assets/images/organizations/mia-lehrer-associates-la-mas-arid-lands-institute/img.youtube.com/vi/2qWrLJakj5M/hqdefault.jpg

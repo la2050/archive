@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102188'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: lilCVZW2Ggk
 cached_project_image: >-
   /assets/images/organizations/los-angeles-fire-department-foundation/img.youtube.com/vi/lilCVZW2Ggk/hqdefault.jpg

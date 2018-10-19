@@ -33,12 +33,13 @@ aggregated:
     - 'https://activation.la2050.org/live/team-rubicon/'
     - >-
       https://challenge.la2050.org/entry/localizing-disaster-response-to-meet-the-challenges-of-the-21st-century
-  year_submitted:
-    - '2018'
-    - '2016'
   project_ids:
     - '8102116'
     - '6102232'
+  year_submitted:
+    - '2018'
+    - '2016'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/team-rubicon/activation.la2050.org/assets/images/live/2048-wide/team-rubicon.jpg
 

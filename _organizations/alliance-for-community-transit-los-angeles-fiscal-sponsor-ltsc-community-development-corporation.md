@@ -32,12 +32,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
     - 'http://maker.good.is/myla2050/projects/lagreenteensummit.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102002'
     - '3102013'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: xcozMknxurc
 cached_project_image: >-
   /assets/images/organizations/alliance-for-community-transit-los-angeles-fiscal-sponsor-ltsc-community-development-corporation/img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg

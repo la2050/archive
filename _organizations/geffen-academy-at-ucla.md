@@ -40,10 +40,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102043'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/geffen-academy-at-ucla/activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
 

@@ -24,10 +24,11 @@ project_titles:
   - 'Sustainable Little Tokyo: A Cultural Ecodistrict'
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102146'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: QQpabiJ0uus
 cached_project_image: >-
   /assets/images/organizations/little-tokyo-community-council/img.youtube.com/vi/QQpabiJ0uus/hqdefault.jpg

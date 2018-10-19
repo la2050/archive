@@ -33,10 +33,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/GetOnTheBus2015.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102109'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: CRJW_Goodmaker.jpg
 maker_image_id: '23562'
 cached_project_image: >-

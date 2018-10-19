@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102134'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: 3ceZFpvVVU0
 cached_project_image: >-
   /assets/images/organizations/hollywood-curling/img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg

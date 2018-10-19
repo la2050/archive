@@ -47,10 +47,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102144'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: 30f36j_o_wU
 cached_project_image: >-
   /assets/images/organizations/hammer-museum/hammer.ucla.edu/legacy/_processed_/csm_43551390702_376d278a6b_o_114764d65b.jpg

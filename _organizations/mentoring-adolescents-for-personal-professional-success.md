@@ -33,9 +33,10 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/
+  project_ids: []
   year_submitted:
     - '2018'
-  project_ids: []
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/mentoring-adolescents-for-personal-professional-success/activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
 

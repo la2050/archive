@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102343'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Yes4arts_picture_image.jpeg
 maker_image_id: '23223'
 cached_project_image: >-

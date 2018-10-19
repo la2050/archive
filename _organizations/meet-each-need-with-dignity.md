@@ -21,10 +21,11 @@ project_titles:
   - The Pathway
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102153'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: A3zOCbnCHLg
 cached_project_image: >-
   /assets/images/organizations/meet-each-need-with-dignity/img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg

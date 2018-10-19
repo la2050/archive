@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102091'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: 0SGeH9Mnt2k
 cached_project_image: >-
   /assets/images/organizations/the-industry/img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg

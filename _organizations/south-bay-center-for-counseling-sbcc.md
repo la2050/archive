@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/co-lab-co-llaboration-resident-driven-co-created-social-change
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102212'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/south-bay-center-for-counseling-sbcc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
 

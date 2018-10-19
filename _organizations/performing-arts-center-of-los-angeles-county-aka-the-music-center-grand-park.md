@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102234'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: BhO5jmXKosA
 cached_project_image: >-
   /assets/images/organizations/performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park/img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg

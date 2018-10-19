@@ -28,9 +28,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: 5-66_Xqn0Cw
 cached_project_image: >-
   /assets/images/organizations/sustaynabl/img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg

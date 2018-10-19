@@ -33,10 +33,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/thrdPlace.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102110'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: jUd4odIOyuc
 cached_project_image: >-
   /assets/images/organizations/thrdplace/img.youtube.com/vi/jUd4odIOyuc/hqdefault.jpg

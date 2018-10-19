@@ -22,10 +22,11 @@ project_titles:
   - The Shed Pasadena
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102190'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: DSC02097-2.jpg
 maker_image_id: '21199'
 cached_project_image: >-

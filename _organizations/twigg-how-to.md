@@ -29,9 +29,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/twigg-how-to/'
+  project_ids: []
   year_submitted:
     - '2018'
-  project_ids: []
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/twigg-how-to/activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg
 

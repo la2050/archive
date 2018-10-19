@@ -30,14 +30,15 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/los-angeles-family-playlist-program'
     - 'http://maker.good.is/myla2050learn2015/projects/PowerMyLearning.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '6102188'
     - '5102242'
     - '4102120'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/powermylearning-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1786791705741-team89.JPG
 

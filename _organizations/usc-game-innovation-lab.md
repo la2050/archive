@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAReality.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102103'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: dN0L0YMa39s
 cached_project_image: >-
   /assets/images/organizations/usc-game-innovation-lab/img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg

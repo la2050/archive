@@ -25,10 +25,11 @@ project_titles:
   - 'Becoming An Ally: Stopping Bias and Bullying in Los Angeles Schools'
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102111'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: 3KyvlMJefR4
 cached_project_image: >-
   /assets/images/organizations/anti-defamation-league-pacific-southwest-region/img.youtube.com/vi/3KyvlMJefR4/maxresdefault.jpg

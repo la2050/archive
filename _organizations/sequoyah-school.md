@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/seq.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102265'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: DSC_0342.jpg
 maker_image_id: '23515'
 cached_project_image: >-

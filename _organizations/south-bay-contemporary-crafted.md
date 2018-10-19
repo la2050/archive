@@ -35,12 +35,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SBC.html'
     - 'http://maker.good.is/myla2050/projects/act2connect.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102274'
     - '3102234'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 maker_image_file_name: Culture_gaps_for_la2050xsmall_copy.jpg
 maker_image_id: '24146'
 cached_project_image: >-

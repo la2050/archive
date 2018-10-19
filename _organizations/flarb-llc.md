@@ -50,10 +50,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/evolvela.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102046'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: evolvela2.png
 maker_image_id: '16195'
 cached_project_image: >-

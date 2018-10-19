@@ -33,12 +33,13 @@ aggregated:
     - 'https://activation.la2050.org/connect/imagine-la/'
     - >-
       https://challenge.la2050.org/entry/volunteer-and-be-a-part-of-the-solution-to-family-homelessness
-  year_submitted:
-    - '2018'
-    - '2016'
   project_ids:
     - '8102054'
     - '6102102'
+  year_submitted:
+    - '2018'
+    - '2016'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/imagine-la/activation.la2050.org/assets/images/connect/2048-wide/imagine-la.jpg
 

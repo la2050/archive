@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAVA.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102065'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: studio1.jpg
 maker_image_id: '21917'
 cached_project_image: >-

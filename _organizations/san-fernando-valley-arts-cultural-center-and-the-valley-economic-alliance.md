@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102259'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: ''
 cached_project_image: >-
   /assets/images/organizations/san-fernando-valley-arts-cultural-center-and-the-valley-economic-alliance/img.youtube.com/vi//hqdefault.jpg

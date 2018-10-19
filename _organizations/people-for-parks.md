@@ -39,14 +39,15 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/people-for-parks-community-school-parks-go-kid-healthy!
     - 'http://maker.good.is/myla2050play2015/projects/peopleforparks.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
   project_ids:
     - '8102095'
     - '6102181'
     - '5102232'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/people-for-parks/activation.la2050.org/assets/images/play/2048-wide/people-for-parks.jpg
 

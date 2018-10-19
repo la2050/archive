@@ -21,10 +21,11 @@ project_titles:
   - Health Care for 1 Million Uninsured Los Angeles Residents
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102183'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: '-8HpYaBGc4I'
 cached_project_image: >-
   /assets/images/organizations/western-center-on-law-poverty-wclp/img.youtube.com/vi/-8HpYaBGc4I/hqdefault.jpg

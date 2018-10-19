@@ -31,11 +31,12 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Transformation.html'
     - 'http://maker.good.is/myla2050/projects/Sabio.html'
+  project_ids:
+    - '3102231'
   year_submitted:
     - '2014'
     - '2013'
-  project_ids:
-    - '3102231'
+year_submitted: '2014'
 youtube_video_identifier: QaoTDnw-Xtw
 cached_project_image: >-
   /assets/images/organizations/sabio-enterprises-inc/img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg

@@ -36,14 +36,15 @@ aggregated:
     - 'https://activation.la2050.org/play/the-trust-for-public-land/'
     - >-
       https://challenge.la2050.org/entry/green-alleys-initiative-–-transforming-polluted-alleys-into-vibrant-water-smart-green-space
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2014'
   project_ids:
     - '8102123'
     - '6102259'
     - '4102176'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/the-trust-for-public-land/www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg
 

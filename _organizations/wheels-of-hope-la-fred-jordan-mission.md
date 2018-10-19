@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102341'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Wheels_graduation_ceremony.jpg
 maker_image_id: '23250'
 cached_project_image: >-

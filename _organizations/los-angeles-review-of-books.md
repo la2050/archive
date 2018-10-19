@@ -38,16 +38,17 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/LARB.html'
     - 'http://maker.good.is/myLA2050create/projects/LARB.html'
     - 'http://maker.good.is/myla2050/projects/LARB2050.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '6102144'
     - '5102194'
     - '4102233'
     - '3102189'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/los-angeles-review-of-books/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 

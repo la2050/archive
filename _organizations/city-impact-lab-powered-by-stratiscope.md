@@ -37,9 +37,10 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/
+  project_ids: []
   year_submitted:
     - '2018'
-  project_ids: []
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/city-impact-lab-powered-by-stratiscope/activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
 

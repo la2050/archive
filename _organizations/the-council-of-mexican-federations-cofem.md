@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102299'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: SVzSpv8Dj74
 cached_project_image: >-
   /assets/images/organizations/the-council-of-mexican-federations-cofem/img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg

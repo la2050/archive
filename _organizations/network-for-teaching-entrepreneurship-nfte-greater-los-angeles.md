@@ -31,12 +31,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/nftela.html'
     - 'http://maker.good.is/myla2050/projects/nftela.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102221'
     - '3102205'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 maker_image_file_name: Crystal_Cropped_Big_Check.jpg
 maker_image_id: '24049'
 cached_project_image: >-

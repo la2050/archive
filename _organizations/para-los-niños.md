@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/PLNSchools.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102228'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: 0MYV-P-oK80
 cached_project_image: >-
   /assets/images/organizations/para-los-niños/img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg

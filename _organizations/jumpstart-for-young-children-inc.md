@@ -31,12 +31,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
     - 'http://maker.good.is/myla2050/projects/Jumpstart.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102153'
     - '3102161'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: a-3Yo_Yz5Vc
 cached_project_image: >-
   /assets/images/organizations/jumpstart-for-young-children-inc/img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg
