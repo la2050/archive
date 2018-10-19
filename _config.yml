@@ -142,6 +142,8 @@ exclude:
   - assets/images/goals/original
   - assets/images/home/original
   - assets/images/vote/original
+  - assets/images/projects
+  - assets/images/organizations
 
 defaults:
   - scope:
