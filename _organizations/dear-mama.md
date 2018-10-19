@@ -26,10 +26,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102116'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/dear-mama/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
 

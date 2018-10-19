@@ -40,10 +40,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/diyfo.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102024'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: cEATGWzLMiM
 cached_project_image: >-
   /assets/images/organizations/diyfo-do-it-yourself-for-others/img.youtube.com/vi/cEATGWzLMiM/hqdefault.jpg

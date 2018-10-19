@@ -32,10 +32,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102178'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: 1_UXQ2fFeSU
 cached_project_image: >-
   /assets/images/organizations/living-advantage-inc/img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg

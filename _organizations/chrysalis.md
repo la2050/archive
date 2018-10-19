@@ -36,10 +36,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102036'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/chrysalis/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
 

@@ -51,18 +51,19 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/LIFTLosAngeles.html'
     - 'http://maker.good.is/myLA2050connect/projects/LIFT-LA.html'
     - 'http://maker.good.is/myla2050/projects/liftcommunities.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '8102068'
     - '6102131'
     - '5102177'
     - '4102254'
     - '3102181'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/lift-los-angeles/activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 

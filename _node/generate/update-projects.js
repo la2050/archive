@@ -37,7 +37,7 @@ ${items[2]}`
 
 
 function loadMarkdown(filename) {
-  let input = fs.readFileSync(filename, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  // let input = fs.readFileSync(filename, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
 
   // Get document, or throw exception on error 
   try {
@@ -417,6 +417,7 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
+  /*
   try {
   (function() {
     let imagePathBits = data.yaml.project_image.split("/")
@@ -526,6 +527,7 @@ function processFile(filename) {
   } catch(e) {
     console.log(e)
   }
+  */ 
 
   // delete data.yaml.project_titles_from_project_ids
   // delete data.yaml.project_titles

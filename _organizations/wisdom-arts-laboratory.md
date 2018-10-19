@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102283'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/wisdom-arts-laboratory/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
 

@@ -26,10 +26,11 @@ project_titles:
   - Revitalizing La Tierra de la Culebra community art park
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102114'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: jAOkF8UAOLI
 cached_project_image: >-
   /assets/images/organizations/art-community-land-activism-aclas-la-tierra-de-la-culebra/img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg

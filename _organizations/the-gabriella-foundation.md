@@ -29,12 +29,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/dance.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102169'
     - '3102247'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: TlilAMszJEs
 cached_project_image: >-
   /assets/images/organizations/the-gabriella-foundation/img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg

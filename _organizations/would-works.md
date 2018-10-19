@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/would-works.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102109'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: xlsYqBrzY4k
 cached_project_image: >-
   /assets/images/organizations/would-works/img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg

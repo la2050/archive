@@ -62,10 +62,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/thelakitchen.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102251'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: inC3OJbaTT4
 cached_project_image: >-
   /assets/images/organizations/the-l-a-kitchen/img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg

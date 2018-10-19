@@ -36,11 +36,12 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/FLYYogaArts.html'
+  project_ids:
+    - '5102206'
   year_submitted:
     - '2015'
     - '2014'
-  project_ids:
-    - '5102206'
+year_submitted: '2015'
 maker_image_file_name: StillVideoImage_(2).jpg
 maker_image_id: '23727'
 cached_project_image: >-

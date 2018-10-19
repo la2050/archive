@@ -30,12 +30,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/ihaveadream.html'
     - 'http://maker.good.is/myla2050/projects/ihaveadream.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102001'
     - '3102243'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: QV1lB2SqWos
 cached_project_image: >-
   /assets/images/organizations/i-have-a-dream-foundation-los-angeles-ihadla/img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg

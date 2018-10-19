@@ -34,9 +34,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/adventureplayhouse.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: JrkPrBnN4UI
 cached_project_image: >-
   /assets/images/organizations/adventure-playhouse-indoor-activity-center/img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg

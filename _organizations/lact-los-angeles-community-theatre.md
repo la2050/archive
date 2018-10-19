@@ -24,10 +24,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/LACT.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102171'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: fRmzSDzuoRA
 cached_project_image: >-
   /assets/images/organizations/lact-los-angeles-community-theatre/img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg

@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102085'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: yy9nnTHABlE
 cached_project_image: >-
   /assets/images/organizations/dreamhaus-inc/img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg

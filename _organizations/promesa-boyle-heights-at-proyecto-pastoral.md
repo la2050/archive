@@ -39,14 +39,15 @@ aggregated:
       https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/
     - 'http://maker.good.is/myla2050learn2015/projects/PromesaBH.html'
     - 'http://maker.good.is/myLA2050connect/projects/BoyleHeights.html'
-  year_submitted:
-    - '2018'
-    - '2015'
-    - '2014'
   project_ids:
     - '8102098'
     - '5102245'
     - '4102261'
+  year_submitted:
+    - '2018'
+    - '2015'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/promesa-boyle-heights-at-proyecto-pastoral/activation.la2050.org/assets/images/connect/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
 

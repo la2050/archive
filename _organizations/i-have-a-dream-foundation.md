@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/at-risk-youth-get-jobs-in-local-communities
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102098'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/i-have-a-dream-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729983255741-team91.jpg
 

@@ -28,9 +28,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/ChallengeMaker.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
 maker_image_id: '24048'
 cached_project_image: >-

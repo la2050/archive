@@ -32,14 +32,15 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
     - 'http://maker.good.is/myla2050live2015/projects/Groceryships.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '6102087'
     - '5102123'
     - '4102229'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/groceryships-and-netiya/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
 

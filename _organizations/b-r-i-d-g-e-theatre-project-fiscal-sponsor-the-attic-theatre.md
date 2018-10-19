@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102013'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: q9wQFn0hPbk
 cached_project_image: >-
   /assets/images/organizations/b-r-i-d-g-e-theatre-project-fiscal-sponsor-the-attic-theatre/img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg

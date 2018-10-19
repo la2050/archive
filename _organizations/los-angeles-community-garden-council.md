@@ -28,10 +28,11 @@ project_titles:
   - Growing a Healthy Los Angeles
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102147'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: LACGC_Community_Photo.jpg
 maker_image_id: '20229'
 cached_project_image: >-

@@ -37,14 +37,15 @@ aggregated:
     - 'https://activation.la2050.org/connect/ciclavia/'
     - 'http://maker.good.is/myla2050connect2015/projects/CicLAvia.html'
     - 'http://maker.good.is/myla2050/projects/CicLAvia.html'
-  year_submitted:
-    - '2018'
-    - '2015'
-    - '2013'
   project_ids:
     - '8102021'
     - '5102055'
     - '3102061'
+  year_submitted:
+    - '2018'
+    - '2015'
+    - '2013'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/ciclavia/activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg
 

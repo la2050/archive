@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/theLAFort.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102092'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: 1836681_290007847815931_949505580_o(1).jpg
 maker_image_id: '22797'
 cached_project_image: >-

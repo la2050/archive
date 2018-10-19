@@ -38,10 +38,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/relationalcenter.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102256'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: 3J2TSZ1AMHM
 cached_project_image: >-
   /assets/images/organizations/the-relational-center/img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg

@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/walk-with-sally/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102135'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/walk-with-sally/activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
 

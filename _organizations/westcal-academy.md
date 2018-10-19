@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/westcal.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102340'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: f_x1AGOuR7A
 cached_project_image: >-
   /assets/images/organizations/westcal-academy/img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg

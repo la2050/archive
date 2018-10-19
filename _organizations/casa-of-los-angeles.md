@@ -41,16 +41,17 @@ aggregated:
       https://challenge.la2050.org/entry/college-collaborative-for-foster-care-youth
     - 'http://maker.good.is/myla2050connect2015/projects/casalosangeles.html'
     - 'http://maker.good.is/myLA2050connect/projects/casaofla.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '8102014'
     - '6102032'
     - '5102043'
     - '4102247'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/casa-of-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/casa-of-los-angeles.jpg
 

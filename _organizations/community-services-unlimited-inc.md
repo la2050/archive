@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Earthdayeveryday.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102019'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: CQsypZUTmbo
 cached_project_image: >-
   /assets/images/organizations/community-services-unlimited-inc/img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg

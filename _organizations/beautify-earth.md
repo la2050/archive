@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102014'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: I-2fvjBviRI
 cached_project_image: >-
   /assets/images/organizations/beautify-earth/img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg

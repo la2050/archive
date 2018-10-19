@@ -32,12 +32,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/enrichla.html'
     - 'http://maker.good.is/myla2050/projects/enrichla.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102033'
     - '3102124'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: 3CNwJdOyIDQ
 cached_project_image: >-
   /assets/images/organizations/enrichla/enrichla.org/wp-content/uploads/2018/05/IMG_0804-1050x788.jpg

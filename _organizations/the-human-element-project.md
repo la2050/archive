@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/Humanelement.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102090'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: dCvzeDvQtLY
 cached_project_image: >-
   /assets/images/organizations/the-human-element-project/img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg

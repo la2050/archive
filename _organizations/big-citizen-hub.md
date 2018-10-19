@@ -43,16 +43,17 @@ aggregated:
       https://challenge.la2050.org/entry/big-citizen-hub-building-a-pipeline-of-social-change-makers-via-leadership-and-community-service
     - 'http://maker.good.is/myla2050connect2015/projects/BigCitizenHUB.html'
     - 'http://maker.good.is/myLA2050connect/projects/BigCitizenHUB.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '8102008'
     - '6102017'
     - '5102027'
     - '4102246'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/big-citizen-hub/activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg
 

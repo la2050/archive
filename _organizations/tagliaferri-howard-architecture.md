@@ -30,9 +30,10 @@ aggregated:
   challenge_url:
     - >-
       http://maker.good.is/myla2050connect2015/projects/BallonaBikePedBridge.html
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 maker_image_file_name: LA2050_Cover_image_flattened2.jpg
 maker_image_id: '23805'
 cached_project_image: >-

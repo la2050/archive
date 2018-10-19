@@ -32,12 +32,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102297'
     - '4102216'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: NNetdspYB4M
 cached_project_image: >-
   /assets/images/organizations/the-center-of-medical-multimedia-education-and-technology-commet/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg

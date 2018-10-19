@@ -30,9 +30,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 maker_image_file_name: vidaenequilibrio.png
 maker_image_id: '23673'
 cached_project_image: >-

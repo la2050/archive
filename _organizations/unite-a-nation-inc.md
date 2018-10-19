@@ -35,10 +35,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102269'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/unite-a-nation-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
 

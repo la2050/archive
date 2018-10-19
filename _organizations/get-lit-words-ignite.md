@@ -36,12 +36,13 @@ aggregated:
     - 'https://activation.la2050.org/create/get-lit-words-ignite/'
     - >-
       https://challenge.la2050.org/entry/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus!
-  year_submitted:
-    - '2018'
-    - '2016'
   project_ids:
     - '8102044'
     - '6102080'
+  year_submitted:
+    - '2018'
+    - '2016'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/get-lit-words-ignite/activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
 

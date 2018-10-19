@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up!
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102075'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/friends-of-the-family/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1711077255741-team90.JPG
 

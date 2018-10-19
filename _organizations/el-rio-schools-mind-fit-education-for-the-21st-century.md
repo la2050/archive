@@ -47,10 +47,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102122'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: rachelschmid.elrio.jpg
 maker_image_id: '17107'
 cached_project_image: >-

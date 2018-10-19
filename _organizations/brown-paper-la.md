@@ -25,9 +25,10 @@ project_titles:
   - Mobile Cooking Classes To The Communities That Need Them Most
 aggregated:
   challenge_url: []
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: IMG_20140406_135445.jpg
 maker_image_id: '21775'
 cached_project_image: >-

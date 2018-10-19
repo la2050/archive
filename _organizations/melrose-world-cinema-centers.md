@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/ONELIFELOSANGELES.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102205'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: OWW_logo_and_logline.jpg
 maker_image_id: '23763'
 cached_project_image: >-

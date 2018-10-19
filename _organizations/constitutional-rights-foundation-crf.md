@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/CivicActionProject.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102022'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: I85PHrZjakM
 cached_project_image: >-
   /assets/images/organizations/constitutional-rights-foundation-crf/img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg

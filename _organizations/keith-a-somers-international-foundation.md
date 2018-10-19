@@ -33,10 +33,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102159'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Web_New_Com.jpg
 maker_image_id: '23179'
 cached_project_image: >-

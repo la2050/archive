@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/civicla.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102018'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: civicla.png
 maker_image_id: '21146'
 cached_project_image: >-

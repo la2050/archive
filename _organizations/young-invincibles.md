@@ -25,12 +25,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/YI_Care.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102189'
     - '3102276'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 maker_image_file_name: jobstour.png
 maker_image_id: '21770'
 cached_project_image: >-

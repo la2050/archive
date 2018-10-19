@@ -44,10 +44,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Recess.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102220'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: mJP7rkVcRfo
 cached_project_image: >-
   /assets/images/organizations/playworks-southern-california/img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg

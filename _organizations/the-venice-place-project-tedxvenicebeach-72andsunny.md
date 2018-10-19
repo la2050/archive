@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102314'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: IMG_9355.JPG
 maker_image_id: '23850'
 cached_project_image: >-

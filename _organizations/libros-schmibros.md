@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102054'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: iFODyc5eUjQ
 cached_project_image: >-
   /assets/images/organizations/libros-schmibros/img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg

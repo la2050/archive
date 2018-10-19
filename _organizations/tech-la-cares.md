@@ -34,12 +34,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
     - 'http://maker.good.is/myla2050connect2015/projects/techlacares.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102242'
     - '8102119'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/tech-la-cares/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 

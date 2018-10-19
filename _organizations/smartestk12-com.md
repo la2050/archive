@@ -42,10 +42,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/smartestk12.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102092'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: smartestk12.homepage.student.v1.000.svg.png
 maker_image_id: '16780'
 cached_project_image: >-

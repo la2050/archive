@@ -23,10 +23,11 @@ project_titles:
     developmental disabilities
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102167'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: zTPVN1p3Lg8
 cached_project_image: >-
   /assets/images/organizations/the-achievable-foundation/img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg

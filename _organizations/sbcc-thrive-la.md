@@ -32,11 +32,12 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'
     - 'http://maker.good.is/myLA2050create/projects/streetcraftla.html'
+  project_ids:
+    - '5102262'
   year_submitted:
     - '2015'
     - '2014'
-  project_ids:
-    - '5102262'
+year_submitted: '2015'
 youtube_video_identifier: Hey6DKTLdw8
 cached_project_image: >-
   /assets/images/organizations/sbcc-thrive-la/img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg

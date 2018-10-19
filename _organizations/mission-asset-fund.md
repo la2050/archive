@@ -41,10 +41,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LendingCircles.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102198'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: AXqYX0rfbys
 cached_project_image: >-
   /assets/images/organizations/mission-asset-fund/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/13669238_1181409091911320_4114766164205155164_n.png

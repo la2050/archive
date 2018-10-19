@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102124'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: zqrk27Md2Bo
 cached_project_image: >-
   /assets/images/organizations/growgood-inc/img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg

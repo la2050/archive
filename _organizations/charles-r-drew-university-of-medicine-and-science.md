@@ -32,10 +32,11 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102017'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/charles-r-drew-university-of-medicine-and-science/activation.la2050.org/assets/images/learn/2048-wide/charles-r-drew-university-of-medicine-and-science.jpg
 

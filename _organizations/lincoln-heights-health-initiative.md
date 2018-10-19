@@ -25,10 +25,11 @@ project_titles:
   - 'LINCOLN HEIGHTS HEALTH INITIATIVE '
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102145'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: LINCOLN_STATUE.jpg
 maker_image_id: '22088'
 cached_project_image: >-

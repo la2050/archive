@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102090'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Hydroponickids1.jpg
 maker_image_id: '23755'
 cached_project_image: >-

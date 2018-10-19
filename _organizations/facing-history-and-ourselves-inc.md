@@ -28,12 +28,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/facinghistoryla.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102097'
     - '4102197'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: 2EbK6sblpo0
 cached_project_image: >-
   /assets/images/organizations/facing-history-and-ourselves-inc/img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg

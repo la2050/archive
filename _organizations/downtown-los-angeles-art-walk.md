@@ -32,10 +32,11 @@ aggregated:
   challenge_url:
     - >-
       http://maker.good.is/myla2050connect2015/projects/downtownartwalkvotes.html
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102084'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
 maker_image_id: '23344'
 cached_project_image: >-

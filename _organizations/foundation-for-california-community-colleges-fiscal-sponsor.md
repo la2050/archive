@@ -29,10 +29,11 @@ project_titles:
     how to pay for college
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102127'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: q2OELc_KuI4
 cached_project_image: >-
   /assets/images/organizations/foundation-for-california-community-colleges-fiscal-sponsor/img.youtube.com/vi/q2OELc_KuI4/hqdefault.jpg

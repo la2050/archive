@@ -48,10 +48,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/poroushousing.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102112'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: LA_2050__r.jpg
 maker_image_id: '16553'
 cached_project_image: >-

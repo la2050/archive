@@ -32,10 +32,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/BiotechLeaders.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102184'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: UNbHPa1n2g4
 cached_project_image: >-
   /assets/images/organizations/los-angeles-bioscience-hub/img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg

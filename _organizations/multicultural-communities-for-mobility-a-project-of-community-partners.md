@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102085'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/multicultural-communities-for-mobility-a-project-of-community-partners/activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 

@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102031'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: H-S2LiQcO00
 cached_project_image: >-
   /assets/images/organizations/blueprint-earth/img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg

@@ -52,10 +52,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102036'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: Poster2_smaller.jpg
 maker_image_id: '17284'
 cached_project_image: >-

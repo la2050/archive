@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CollegeAccess.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102033'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: College_Access_Initiative.jpg
 maker_image_id: '24078'
 cached_project_image: >-

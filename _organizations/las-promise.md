@@ -31,12 +31,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LAsPromise.html'
     - 'http://maker.good.is/myla2050/projects/LASPROMISE.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102174'
     - '3102175'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: SXGVU13JPLU
 cached_project_image: >-
   /assets/images/organizations/las-promise/img.youtube.com/vi/SXGVU13JPLU/hqdefault.jpg

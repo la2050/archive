@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '4102133'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
 maker_image_id: '23585'
 cached_project_image: >-

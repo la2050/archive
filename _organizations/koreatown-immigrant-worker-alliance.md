@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102163'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: 12000148473_482ef012b5_k.jpg
 maker_image_id: '23889'
 cached_project_image: >-

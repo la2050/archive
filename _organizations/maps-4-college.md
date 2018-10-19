@@ -35,12 +35,13 @@ aggregated:
   challenge_url:
     - >-
       http://maker.good.is/myla2050connect2015/projects/BridgeCOLLEGEandWORK.html
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102202'
     - '4102206'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 maker_image_file_name: fair.jpg
 maker_image_id: '23390'
 cached_project_image: >-

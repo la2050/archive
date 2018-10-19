@@ -22,10 +22,11 @@ project_titles:
   - 'CUT MY COMMUTE: CHANGING LA''S QUALITY OF LIFE THROUGH LOCAL HIRE'
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102181'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: LA2050-Hero.jpg
 maker_image_id: '22419'
 cached_project_image: >-

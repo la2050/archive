@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/pools-of-hope-provides-an-after-school-swim-achieve-homework-assistance-lab-for-at-risk-youth
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102025'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/california-aquatic-therapy-wellness-center-dba-pools-of-hope/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
 

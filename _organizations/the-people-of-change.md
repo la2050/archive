@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/the-people-of-change/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102122'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/the-people-of-change/activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
 

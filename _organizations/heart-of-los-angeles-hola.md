@@ -93,10 +93,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/heartofla.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102147'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: 0CZIOxlCozk
 cached_project_image: >-
   /assets/images/organizations/heart-of-los-angeles-hola/img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg

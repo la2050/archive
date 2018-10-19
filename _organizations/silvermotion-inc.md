@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102228'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/silvermotion-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7270013455741-team88.jpg
 

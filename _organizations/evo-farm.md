@@ -57,10 +57,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/aquaponics.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102040'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: vertical_AP_kit_3.jpg
 maker_image_id: '16774'
 cached_project_image: >-

@@ -50,10 +50,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102022'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: gatKpPjdUvo
 cached_project_image: >-
   /assets/images/organizations/curious-catalyst/img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg

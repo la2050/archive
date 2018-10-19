@@ -33,12 +33,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
     - 'http://maker.good.is/myla2050learn2015/projects/YBA.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102287'
     - '5102344'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/youth-business-alliance/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 

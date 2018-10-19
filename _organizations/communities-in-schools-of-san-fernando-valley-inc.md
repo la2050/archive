@@ -75,10 +75,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/PTP.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102086'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: Games_for_Peace.jpg
 maker_image_id: '16714'
 cached_project_image: >-

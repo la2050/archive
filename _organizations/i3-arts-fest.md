@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102099'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/i3-arts-fest/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
 

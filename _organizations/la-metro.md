@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/off-peak-podcast'
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102121'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/la-metro/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
 

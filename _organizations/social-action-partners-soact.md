@@ -32,12 +32,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
     - 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102271'
     - '4102083'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: iHlwRhoV_78
 cached_project_image: >-
   /assets/images/organizations/social-action-partners-soact/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg

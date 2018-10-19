@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102330'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: UCLA_Connect.jpg
 maker_image_id: '23745'
 cached_project_image: >-

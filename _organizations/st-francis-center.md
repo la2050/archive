@@ -21,10 +21,11 @@ project_titles:
   - SFCLA - Serving Hope and Veggies where LA needs it most!
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102164'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: uz4evo3B7qw
 cached_project_image: >-
   /assets/images/organizations/st-francis-center/img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg

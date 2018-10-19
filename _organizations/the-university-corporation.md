@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102313'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: 5tvdNOJ7fCw
 cached_project_image: >-
   /assets/images/organizations/the-university-corporation/img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg

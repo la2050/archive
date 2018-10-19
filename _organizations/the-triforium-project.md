@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102258'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/the-triforium-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7344404654741-team91.jpg
 

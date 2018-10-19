@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102268'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: s-SSOCwgWEs
 cached_project_image: >-
   /assets/images/organizations/siqueiros-foundation-of-the-arts/img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg

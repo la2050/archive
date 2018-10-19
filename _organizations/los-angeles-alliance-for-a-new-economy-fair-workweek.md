@@ -33,16 +33,17 @@ aggregated:
       https://activation.la2050.org/connect/los-angeles-alliance-for-a-new-economy-fair-workweek/
     - 'http://maker.good.is/myla2050create2015/projects/modernrosies.html'
     - 'http://maker.good.is/myla2050/projects/Waste.html'
-  year_submitted:
-    - '2018'
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '8102072'
     - '5102182'
     - '4102255'
     - '3102182'
+  year_submitted:
+    - '2018'
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/los-angeles-alliance-for-a-new-economy-fair-workweek/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 

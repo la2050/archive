@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/film-independent/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102040'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/film-independent/activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
 

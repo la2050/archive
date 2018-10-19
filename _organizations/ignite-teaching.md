@@ -25,9 +25,10 @@ project_titles:
   - Ignite Teaching
 aggregated:
   challenge_url: []
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: la2050.png
 maker_image_id: '20940'
 cached_project_image: >-

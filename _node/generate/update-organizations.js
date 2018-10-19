@@ -33,7 +33,7 @@ function getContent(text, filename) {
 
 
 function loadMarkdown(filename) {
-  let input = fs.readFileSync(filename, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  // let input = fs.readFileSync(filename, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
 
   // Get document, or throw exception on error 
   try {
@@ -73,6 +73,7 @@ const attributes = [
   'project_ids',
   'project_titles',
   'aggregated',
+  'year_submitted',
   'original_project_ids',
   'original_project_titles',
   'extrapolated_project_ids',
@@ -134,6 +135,7 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
+  /*
   try {
   (function() {
     let imagePathBits = data.yaml.project_image.split("/")
@@ -243,6 +245,7 @@ function processFile(filename) {
   } catch(e) {
     console.log(e)
   }
+  */
 
 
   // delete data.yaml.project_titles_from_project_ids
@@ -282,6 +285,8 @@ function processFile(filename) {
   // data.yaml.project_titles = Array.from(new Set(combined_project_titles))
   // delete data.yaml.original_project_titles
   // delete data.yaml.extrapolated_project_titles
+
+  data.yaml.year_submitted = data.yaml.aggregated.year_submitted[0]
 
   data.yaml.published = true
 

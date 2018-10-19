@@ -24,9 +24,10 @@ project_titles:
   - Toward a Carbon Neutral House
 aggregated:
   challenge_url: []
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: obee-landscape.jpg
 maker_image_id: '22740'
 cached_project_image: >-

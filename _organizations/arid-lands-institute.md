@@ -26,10 +26,11 @@ project_titles:
   - 'Divining LA: Resilient City Design for the Next Hundred Years'
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102113'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg
 maker_image_id: '22512'
 cached_project_image: >-

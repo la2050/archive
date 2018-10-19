@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '5102207'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: NtMAZqR4Tf4
 cached_project_image: >-
   /assets/images/organizations/psychic-bunny/img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg

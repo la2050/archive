@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102282'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/whitaker-peace-development-initiative-wpdi/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
 

@@ -34,14 +34,15 @@ aggregated:
     - 'https://activation.la2050.org/live/global-green/'
     - >-
       https://challenge.la2050.org/entry/los-angeles-resilience-hubs-developing-a-model-for-a-resilient-city
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2014'
   project_ids:
     - '8102046'
     - '6102083'
     - '4102251'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/global-green/activation.la2050.org/assets/images/live/2048-wide/global-green.jpg
 

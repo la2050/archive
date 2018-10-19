@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/ecoboardsLA.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102283'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: 5-OvAiMBAFc
 cached_project_image: >-
   /assets/images/organizations/sustainablesurf-org/img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg

@@ -24,10 +24,11 @@ project_titles:
   - College Bound
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102117'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: sI0_dZ4TpAA
 cached_project_image: >-
   /assets/images/organizations/boys-girls-clubs-of-the-los-angeles-harbor/img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg

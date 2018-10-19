@@ -34,12 +34,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/poetry.html'
     - 'http://maker.good.is/myla2050/projects/tiachucha.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102318'
     - '3102258'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: gX3uzlinkXc
 cached_project_image: >-
   /assets/images/organizations/tia-chuchas-centro-cultural/img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg

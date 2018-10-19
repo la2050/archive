@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/young-creative-entrepreneurs-and-small-business-internship-program
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102100'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/icon-cdc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
 

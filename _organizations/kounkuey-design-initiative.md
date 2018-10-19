@@ -38,12 +38,13 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/kounkuey-design-initiative/'
     - 'http://maker.good.is/myLA2050play/projects/UnlocktheBlock.html'
-  year_submitted:
-    - '2018'
-    - '2014'
   project_ids:
     - '8102058'
     - '4102252'
+  year_submitted:
+    - '2018'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/kounkuey-design-initiative/activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
 

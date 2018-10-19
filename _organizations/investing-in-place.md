@@ -36,12 +36,13 @@ aggregated:
     - 'https://activation.la2050.org/connect/investing-in-place/'
     - >-
       https://challenge.la2050.org/entry/you-cant-get-ahead-if-you-cant-get-around-stories-research-on-howweroll
-  year_submitted:
-    - '2018'
-    - '2016'
   project_ids:
     - '8102055'
     - '6102107'
+  year_submitted:
+    - '2018'
+    - '2016'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/investing-in-place/activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 

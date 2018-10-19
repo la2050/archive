@@ -44,12 +44,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/help-build-the-kcrw-media-center-—-designed-for-you-to-connect-with-public-radio-in-los-angeles
     - 'http://maker.good.is/myla2050connect2015/projects/kcrwcapitalcampaign.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102113'
     - '5102158'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/kcrw/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
 

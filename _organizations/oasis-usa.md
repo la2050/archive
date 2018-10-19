@@ -63,10 +63,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/oasisusa.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102208'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: _5icxWSNJFw
 cached_project_image: >-
   /assets/images/organizations/oasis-usa/img.youtube.com/vi/_5icxWSNJFw/maxresdefault.jpg

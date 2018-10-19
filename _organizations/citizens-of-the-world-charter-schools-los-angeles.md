@@ -33,14 +33,15 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/cwc-la-building-communities-that-embrace-equity-and-address-injustice
     - 'http://maker.good.is/myla2050learn2015/projects/CITIZENSOFTHEWORLD.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '6102037'
     - '5102057'
     - '4102222'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/citizens-of-the-world-charter-schools-los-angeles/www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg
 

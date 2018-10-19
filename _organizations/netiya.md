@@ -32,14 +32,15 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
     - 'http://maker.good.is/myla2050/projects/Project10.html'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '5102220'
     - '4102207'
     - '3102204'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: z7nrpaONjUI
 cached_project_image: >-
   /assets/images/organizations/netiya/img.youtube.com/vi/z7nrpaONjUI/hqdefault.jpg

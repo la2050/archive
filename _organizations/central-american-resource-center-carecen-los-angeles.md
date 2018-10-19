@@ -22,10 +22,11 @@ project_titles:
   - 'CARECEN - LA College Head Start '
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102119'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: 20121102_193319.jpg
 maker_image_id: '21279'
 cached_project_image: >-

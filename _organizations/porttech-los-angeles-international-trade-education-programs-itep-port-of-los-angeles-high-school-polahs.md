@@ -29,12 +29,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
     - 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102241'
     - '4102071'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: zmZJYC2WFVk
 cached_project_image: >-
   /assets/images/organizations/porttech-los-angeles-international-trade-education-programs-itep-port-of-los-angeles-high-school-polahs/img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg

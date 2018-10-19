@@ -29,10 +29,11 @@ project_titles:
     create and grow
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102151'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: 79DqmMTV8-Y
 cached_project_image: >-
   /assets/images/organizations/los-angeles-drama-club/img.youtube.com/vi/79DqmMTV8-Y/hqdefault.jpg

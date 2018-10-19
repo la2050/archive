@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102218'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/stem-advantage/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3262530655741-team91.jpg
 

@@ -34,10 +34,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102030'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: z__BDhvkp9Q
 cached_project_image: >-
   /assets/images/organizations/blind-childrens-center/img.youtube.com/vi/z__BDhvkp9Q/hqdefault.jpg

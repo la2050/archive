@@ -41,18 +41,19 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/SavingLives.html'
     - 'http://maker.good.is/myla2050play2015/projects/KIPP.html'
     - 'http://maker.good.is/myla2050/projects/RAP.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2015'
-    - '2015'
-    - '2013'
   project_ids:
     - '6102038'
     - '5102059'
     - '5102059'
     - '5102059'
     - '3102014'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2015'
+    - '2015'
+    - '2013'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/city-of-los-angeles-department-of-recreation-and-parks/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 

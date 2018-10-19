@@ -30,9 +30,10 @@ project_titles:
     LA...its in our GENE!
 aggregated:
   challenge_url: []
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: GENE_pic.jpg
 maker_image_id: '21319'
 cached_project_image: >-

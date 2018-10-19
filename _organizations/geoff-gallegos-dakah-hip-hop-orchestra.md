@@ -69,10 +69,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/dakathouse.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102053'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: ZErt5IiuEPA
 cached_project_image: >-
   /assets/images/organizations/geoff-gallegos-dakah-hip-hop-orchestra/img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg

@@ -32,14 +32,15 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'
     - 'http://maker.good.is/myla2050/projects/iamangel_incubator.html'
     - 'http://maker.good.is/myla2050/projects/paperfreestudio.html'
-  year_submitted:
-    - '2014'
-    - '2013'
-    - '2013'
   project_ids:
     - '4102044'
     - '3102152'
     - '3102152'
+  year_submitted:
+    - '2014'
+    - '2013'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: uVV1_WmFT9o
 cached_project_image: >-
   /assets/images/organizations/i-am-angel-foundation/img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg

@@ -37,10 +37,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/MUSEK.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102079'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: image.jpg
 maker_image_id: '16307'
 cached_project_image: /assets/images/organizations/musek/maker.good.is/images/placeholder/idea.png

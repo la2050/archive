@@ -27,9 +27,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CELLED.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 maker_image_file_name: Screen_Shot_2015-10-15_at_5.32.07_PM.png
 maker_image_id: '24155'
 cached_project_image: >-

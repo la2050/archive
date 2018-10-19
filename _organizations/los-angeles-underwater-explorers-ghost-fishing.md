@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102198'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: laadW_CUhSY
 cached_project_image: >-
   /assets/images/organizations/los-angeles-underwater-explorers-ghost-fishing/img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg

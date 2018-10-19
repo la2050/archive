@@ -53,10 +53,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/artsharela.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102026'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: w8o0x9VRbvE
 cached_project_image: >-
   /assets/images/organizations/art-share-l-a/img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg

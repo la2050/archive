@@ -23,10 +23,11 @@ project_titles:
   - Imagination Workshop
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102137'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: index__element43.jpg
 maker_image_id: '20927'
 cached_project_image: >-

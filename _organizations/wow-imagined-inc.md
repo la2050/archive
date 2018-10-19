@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/wow-on-wheels-creating-new-paradigms-through-intergenerational-eduplay
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102286'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/wow-imagined-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3788557564741-team90.jpg
 

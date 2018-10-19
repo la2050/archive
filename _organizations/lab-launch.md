@@ -33,12 +33,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/lablaunch.html'
     - 'http://maker.good.is/myLA2050create/projects/LALabLaunch.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102170'
     - '4102201'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: wZGBfT2_pi4
 cached_project_image: >-
   /assets/images/organizations/lab-launch/img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg

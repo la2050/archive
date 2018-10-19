@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/history-mobile.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102255'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Robey_Brochure_Front1_(1).jpg
 maker_image_id: '23966'
 cached_project_image: >-

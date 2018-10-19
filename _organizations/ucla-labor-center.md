@@ -52,10 +52,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Dream.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102262'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: Yogg_bV8Dew
 cached_project_image: >-
   /assets/images/organizations/ucla-labor-center/img.youtube.com/vi/Yogg_bV8Dew/maxresdefault.jpg

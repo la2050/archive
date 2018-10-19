@@ -29,9 +29,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 maker_image_file_name: TWOAB.jpg
 maker_image_id: '23146'
 cached_project_image: >-

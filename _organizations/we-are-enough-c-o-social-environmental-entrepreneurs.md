@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102136'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/we-are-enough-c-o-social-environmental-entrepreneurs/activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 

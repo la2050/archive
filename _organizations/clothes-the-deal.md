@@ -26,12 +26,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102069'
     - '4102195'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: myUKgR-PO4c
 cached_project_image: >-
   /assets/images/organizations/clothes-the-deal/img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg

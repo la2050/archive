@@ -41,12 +41,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community
     - 'http://maker.good.is/myla2050live2015/projects/cookingforlife.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102049'
     - '5102073'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/common-threads/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
 

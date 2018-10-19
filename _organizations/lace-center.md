@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102050'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: V_x6dj_Fa9M
 cached_project_image: >-
   /assets/images/organizations/lace-center/img.youtube.com/vi/V_x6dj_Fa9M/maxresdefault.jpg

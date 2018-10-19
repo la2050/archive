@@ -34,11 +34,12 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/droplabs.html'
     - 'http://maker.good.is/myla2050/projects/Moebius5000.html'
+  project_ids:
+    - '3102031'
   year_submitted:
     - '2014'
     - '2013'
-  project_ids:
-    - '3102031'
+year_submitted: '2014'
 maker_image_file_name: slide-image-1.jpg
 maker_image_id: '21245'
 cached_project_image: >-

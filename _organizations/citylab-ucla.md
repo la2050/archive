@@ -47,10 +47,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/backyardhomes.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102069'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: T-_qt-Ah9-0
 cached_project_image: >-
   /assets/images/organizations/citylab-ucla/img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg

@@ -24,9 +24,10 @@ project_titles:
     the career you want
 aggregated:
   challenge_url: []
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: The_Prep_Source_Resume_Workshop.png
 maker_image_id: '20755'
 cached_project_image: >-

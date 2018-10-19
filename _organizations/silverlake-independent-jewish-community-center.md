@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/HumanLibraryLA.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102267'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: logo3.jpg
 maker_image_id: '23929'
 cached_project_image: >-

@@ -28,10 +28,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102135'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/el-porto-shark/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
 

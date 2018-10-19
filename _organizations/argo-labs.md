@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/street-quality-identification-device-aka-squid
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102009'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/argo-labs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
 
