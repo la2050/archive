@@ -715,10 +715,10 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Submitted Ideas</h2>
 <a href="{{ project.url }}">
 {% endif %}
 
-{% if page['cached_project_image'] and page['project_image'] contains "http://" %}
-<img src="{{ page['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ page.title }}" />
+{% if project['cached_project_image'] and project['project_image'] contains "http://" %}
+<img src="{{ project['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ project.title }}" />
 {% else %}
-<img src="{{ page['project_image'] }}" alt="{{ page.title }}" />
+<img src="{{ project['project_image'] }}" alt="{{ project.title }}" />
 {% endif %}
 
 
