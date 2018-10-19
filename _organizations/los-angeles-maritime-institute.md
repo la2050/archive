@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102190'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: m_0WUOFanyM
 cached_project_image: >-
   /assets/images/organizations/los-angeles-maritime-institute/img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg

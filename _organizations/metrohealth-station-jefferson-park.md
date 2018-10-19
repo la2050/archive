@@ -22,9 +22,10 @@ project_titles:
   - Healthy Teens Los Angeles
 aggregated:
   challenge_url: []
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: Heathy_Teens__LA.png
 maker_image_id: '22268'
 cached_project_image: >-

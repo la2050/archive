@@ -37,12 +37,13 @@ aggregated:
     - 'https://activation.la2050.org/create/produceathon/'
     - >-
       https://challenge.la2050.org/entry/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges
-  year_submitted:
-    - '2018'
-    - '2016'
   project_ids:
     - '8102097'
     - '6102190'
+  year_submitted:
+    - '2018'
+    - '2016'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/produceathon/activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg
 

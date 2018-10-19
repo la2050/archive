@@ -33,10 +33,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102276'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: _MG_9694.JPG
 maker_image_id: '23240'
 cached_project_image: >-

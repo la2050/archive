@@ -26,10 +26,11 @@ project_titles:
     Kids & Teachers
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102184'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: FKuY_bTZzoM
 cached_project_image: >-
   /assets/images/organizations/western-justice-center-wjc/img.youtube.com/vi/FKuY_bTZzoM/maxresdefault.jpg

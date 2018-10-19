@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102020'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: '-MVQfBjaOS0'
 cached_project_image: >-
   /assets/images/organizations/company-of-angels-coa/img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg

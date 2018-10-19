@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102168'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: V0_Km6YYSbo
 cached_project_image: >-
   /assets/images/organizations/la-makerspace/img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg

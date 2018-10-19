@@ -62,12 +62,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
     - 'http://maker.good.is/myla2050/projects/ZenFunder.html'
-  year_submitted:
-    - '2013'
-    - '2013'
   project_ids:
     - '3102017'
     - '3102017'
+  year_submitted:
+    - '2013'
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: zenfunder-la2050.png
 maker_image_id: '16290'
 cached_project_image: >-

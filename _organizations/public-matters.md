@@ -32,11 +32,12 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'
     - 'http://maker.good.is/myla2050/projects/MARKETMAKEOVERS.html'
+  project_ids:
+    - '3102089'
   year_submitted:
     - '2015'
     - '2013'
-  project_ids:
-    - '3102089'
+year_submitted: '2015'
 youtube_video_identifier: 1HVZ3rX86M4
 cached_project_image: >-
   /assets/images/organizations/public-matters/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43950973_10156427247795199_7861215256188551168_n.jpg

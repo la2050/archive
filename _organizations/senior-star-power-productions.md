@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/seniorstarpower.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102081'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: TsuTBskJETc
 cached_project_image: >-
   /assets/images/organizations/senior-star-power-productions/img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg

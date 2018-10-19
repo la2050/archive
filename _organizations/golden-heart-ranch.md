@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102113'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: 2014-08-12_11.41.58.jpg
 maker_image_id: '23906'
 cached_project_image: >-

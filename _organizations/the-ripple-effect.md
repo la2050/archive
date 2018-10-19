@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102309'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Picture_5.jpg
 maker_image_id: '23575'
 cached_project_image: >-

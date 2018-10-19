@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/black-women-for-wellness/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102009'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/black-women-for-wellness/activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
 

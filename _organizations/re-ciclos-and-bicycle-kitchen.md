@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102248'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: a-kQryxgF4M
 cached_project_image: >-
   /assets/images/organizations/re-ciclos-and-bicycle-kitchen/img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg

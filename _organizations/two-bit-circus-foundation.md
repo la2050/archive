@@ -29,12 +29,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
-  year_submitted:
-    - '2018'
-    - '2014'
   project_ids:
     - '8102128'
     - '4102265'
+  year_submitted:
+    - '2018'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/two-bit-circus-foundation/activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
 

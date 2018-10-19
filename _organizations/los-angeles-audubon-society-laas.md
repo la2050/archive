@@ -30,12 +30,13 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
     - 'http://maker.good.is/myla2050play2015/projects/urbannature.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102136'
     - '5102183'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/los-angeles-audubon-society-laas/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 

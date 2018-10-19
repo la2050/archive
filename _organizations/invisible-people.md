@@ -111,10 +111,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102158'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: yUwt2n0jfsc
 cached_project_image: >-
   /assets/images/organizations/invisible-people/img.youtube.com/vi/yUwt2n0jfsc/maxresdefault.jpg

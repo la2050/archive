@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102153'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/melrose-elementary-pto/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
 

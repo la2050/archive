@@ -29,12 +29,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LARiverworks.html'
     - 'http://maker.good.is/myLA2050connect/projects/LosAngelesRiverworks.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102275'
     - '4102213'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: fMyc7c0Ylc4
 cached_project_image: >-
   /assets/images/organizations/southeast-asian-community-alliance-seaca-and-public-counsel/img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg

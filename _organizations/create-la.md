@@ -40,10 +40,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/createla.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102096'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: y5Q3OTnTYC4
 cached_project_image: >-
   /assets/images/organizations/create-la/img.youtube.com/vi/y5Q3OTnTYC4/hqdefault.jpg

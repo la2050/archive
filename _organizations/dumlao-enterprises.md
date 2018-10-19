@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '8102052'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: NHaLkpe_jms
 cached_project_image: >-
   /assets/images/organizations/dumlao-enterprises/img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg

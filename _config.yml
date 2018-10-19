@@ -3,7 +3,7 @@ title: My LA2050 Ideas Archive
 description: >-
   The My LA2050 Ideas Archive is searchable database of great
   organizations and bright ideas from the My LA2050 Challenges.
-image: https://activation.la2050.org/assets/images/home/2048-wide/collaborates.jpg
+image: https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 
 introduction: Discover organizations shaping the future of Los Angeles.
 
@@ -134,11 +134,6 @@ exclude:
   - Gemfile.lock
   - _node
   - sitemap.txt
-  - assets/images/learn/original
-  - assets/images/create/original
-  - assets/images/play/original
-  - assets/images/connect/original
-  - assets/images/live/original
   - assets/images/goals/original
   - assets/images/home/original
   - assets/images/vote/original
@@ -148,36 +143,6 @@ defaults:
       path: ""
     values:
       layout: default
-  - scope:
-      path: ""
-      type: learn
-    values:
-      layout: project
-      body_class: blueberry
-  - scope:
-      path: ""
-      type: create
-    values:
-      layout: project
-      body_class: banana
-  - scope:
-      path: ""
-      type: play
-    values:
-      layout: project
-      body_class: strawberry
-  - scope:
-      path: ""
-      type: connect
-    values:
-      layout: project
-      body_class: tangerine
-  - scope:
-      path: ""
-      type: live
-    values:
-      layout: project
-      body_class: lime
   - scope:
       path: ""
       type: projects
@@ -190,26 +155,22 @@ defaults:
     values:
       layout: organization
       body_class: blueberry
+  - scope:
+      path: ""
+      type: tags
+    values:
+      layout: project-list
+      body_class: blueberry
 
 collections:
-  learn:
-    output: true
-    permalink: /learn/:path/
-  create:
-    output: true
-    permalink: /create/:path/
-  play:
-    output: true
-    permalink: /play/:path/
-  connect:
-    output: true
-    permalink: /connect/:path/
-  live:
-    output: true
-    permalink: /live/:path/
   projects:
     output: true
     permalink: /projects/:path/
   organizations:
     output: true
     permalink: /organizations/:path/
+  tags:
+    output: true
+    permalink: /:path/
+
+

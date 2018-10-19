@@ -32,12 +32,13 @@ aggregated:
     - 'https://activation.la2050.org/play/red-hen-press/'
     - >-
       https://challenge.la2050.org/entry/get-lit-with-red-hen-press-bringing-fresh-voices-to-the-la-literary-scene
-  year_submitted:
-    - '2018'
-    - '2016'
   project_ids:
     - '8102101'
     - '6102194'
+  year_submitted:
+    - '2018'
+    - '2016'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/red-hen-press/activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg
 

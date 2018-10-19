@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102036'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: YufCYg-BYaY
 cached_project_image: >-
   /assets/images/organizations/bruce-lee-foundation/img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg

@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102195'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/regents-of-the-university-of-california/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
 

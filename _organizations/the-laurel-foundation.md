@@ -22,10 +22,11 @@ project_titles:
   - RUN FOR YOUR LIFE
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102171'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
 maker_image_id: '20215'
 cached_project_image: >-

@@ -29,10 +29,11 @@ project_titles:
     ages to succeed
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102150'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: Photo_Collage_v6.jpg
 maker_image_id: '22531'
 cached_project_image: >-

@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/WCCW.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102098'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
 maker_image_id: '20805'
 cached_project_image: >-

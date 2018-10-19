@@ -32,10 +32,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102243'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: phXK2cX3WEk
 cached_project_image: >-
   /assets/images/organizations/project-backboard/img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg

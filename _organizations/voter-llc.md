@@ -26,9 +26,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/voter.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: cljP5pJVVbE
 cached_project_image: >-
   /assets/images/organizations/voter-llc/img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg

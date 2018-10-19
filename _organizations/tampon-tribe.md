@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102239'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/tampon-tribe/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
 

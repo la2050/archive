@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102055'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: fmzJcYDzdUw
 cached_project_image: >-
   /assets/images/organizations/hive-lighting/img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg

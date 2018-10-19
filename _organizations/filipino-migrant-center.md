@@ -45,10 +45,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/voices.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102126'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: nO6H3p5HpV4
 cached_project_image: >-
   /assets/images/organizations/filipino-migrant-center/img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg

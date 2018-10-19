@@ -35,10 +35,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102275'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/university-of-southern-california-mobile-environmental-media-lab-in-the-school-of-cinematic-arts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0478134165741-team90.png
 

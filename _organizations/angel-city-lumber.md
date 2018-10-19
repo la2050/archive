@@ -28,9 +28,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: 4Kt14HIJyiU
 cached_project_image: >-
   /assets/images/organizations/angel-city-lumber/img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg

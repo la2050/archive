@@ -25,9 +25,10 @@ project_titles:
   - Transforming College Access for Los Angeles’ Youth Through Gaming
 aggregated:
   challenge_url: []
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: FutureBoundKids_w_Logo.jpg
 maker_image_id: '21609'
 cached_project_image: >-

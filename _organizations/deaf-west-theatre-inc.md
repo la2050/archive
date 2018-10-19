@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/deafwest.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102026'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: n__7obsdA8E
 cached_project_image: >-
   /assets/images/organizations/deaf-west-theatre-inc/img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg

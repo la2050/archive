@@ -33,10 +33,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/wayfinderla.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102273'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: Wayfinder.png
 maker_image_id: '16815'
 cached_project_image: >-

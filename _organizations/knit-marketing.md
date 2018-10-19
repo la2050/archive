@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/providing-quality-job-access-to-untapped-teens-and-young-adults
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102186'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/knit-marketing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8216358055741-team91.jpg
 

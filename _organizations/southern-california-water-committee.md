@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102277'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: mvOTPkbwJJU
 cached_project_image: >-
   /assets/images/organizations/southern-california-water-committee/img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg

@@ -34,12 +34,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/movingdocumentaries.html'
     - 'http://maker.good.is/myLA2050connect/projects/BringAmbulante2CA.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102014'
     - '4102191'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: W6D_g6EB-QY
 cached_project_image: >-
   /assets/images/organizations/ambulante/img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg

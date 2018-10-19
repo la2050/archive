@@ -45,18 +45,19 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/YPICOLLEGEPROMISE.html'
     - 'http://maker.good.is/myLA2050play/projects/YPI.html'
     - 'http://maker.good.is/myla2050/projects/PromiseNeighborhood.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '8102140'
     - '6102288'
     - '5102347'
     - '4102267'
     - '3102278'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/youth-policy-institute/activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 

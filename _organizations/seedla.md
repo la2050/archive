@@ -32,12 +32,13 @@ aggregated:
     - 'https://activation.la2050.org/live/seedla/'
     - >-
       https://challenge.la2050.org/entry/seedla-empowering-environmental-nonprofits
-  year_submitted:
-    - '2018'
-    - '2016'
   project_ids:
     - '8102107'
     - '6102206'
+  year_submitted:
+    - '2018'
+    - '2016'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/seedla/activation.la2050.org/assets/images/live/2048-wide/seedla.jpg
 

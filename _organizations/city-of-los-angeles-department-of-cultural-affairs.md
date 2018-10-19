@@ -50,10 +50,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LACreates.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102067'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: ZobE5kX4dTc
 cached_project_image: >-
   /assets/images/organizations/city-of-los-angeles-department-of-cultural-affairs/img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg

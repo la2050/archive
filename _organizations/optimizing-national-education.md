@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Welcome.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102066'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: z7QaUClznXM
 cached_project_image: >-
   /assets/images/organizations/optimizing-national-education/img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg

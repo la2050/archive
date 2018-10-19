@@ -26,12 +26,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/POV.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102159'
     - '3102215'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: nF2CnqS_6oQ
 cached_project_image: >-
   /assets/images/organizations/peace-over-violence/img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg

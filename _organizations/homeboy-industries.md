@@ -37,14 +37,15 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/global-homeboy-network-connecting-through-kinship
     - 'http://maker.good.is/myla2050/projects/homeboyindustries.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2013'
   project_ids:
     - '8102053'
     - '6102095'
     - '3102149'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2013'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/homeboy-industries/activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg
 

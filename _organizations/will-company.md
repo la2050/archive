@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102105'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: GzEz6Q-9lWQ
 cached_project_image: >-
   /assets/images/organizations/will-company/img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg

@@ -33,12 +33,13 @@ aggregated:
     - >-
       https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
     - 'http://maker.good.is/myla2050/projects/LAUPPreschool.html'
-  year_submitted:
-    - '2018'
-    - '2013'
   project_ids:
     - '8102018'
     - '3102176'
+  year_submitted:
+    - '2018'
+    - '2013'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/child360-formerly-los-angeles-universal-preschool/activation.la2050.org/assets/images/connect/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
 

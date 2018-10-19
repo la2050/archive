@@ -35,14 +35,15 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time
     - 'http://maker.good.is/myla2050learn2015/projects/LeadersandReaders.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '6102155'
     - '5102208'
     - '4102234'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/milk-bookies/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 

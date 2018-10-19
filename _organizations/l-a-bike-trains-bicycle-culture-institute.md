@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102047'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: l2oE7AX8gtw
 cached_project_image: >-
   /assets/images/organizations/l-a-bike-trains-bicycle-culture-institute/img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg

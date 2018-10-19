@@ -92,6 +92,7 @@ stylesheets:
 {% endif %}
 
 
+{% comment %}
 {% assign categories = "learn, create, play, connect, live" | split: ", " %}
 {% assign data_category = "" %}
 {% for tag in page.tags_indicators %}
@@ -118,6 +119,7 @@ stylesheets:
   {% else %}
      {% assign primary_color = "strawberry" %}
 {% endcase %}
+{% endcomment %}
 
 <div style="margin-top: 3em"></div>
 
@@ -1033,12 +1035,13 @@ line-height: 1;">Find similar organizations</h2>
     {% endif %}
   {% endfor %}
   {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags_indicators.size | times: 0.25 | plus: 1 %}
-  <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}">{{ tag }}</a></li>
+  <li><a href="/{{ tag | downcase | replace: ' ', '-' }}/">{{ tag }}</a></li>
 {% endfor %}
 </ul>
 </details>
 
 
+{% comment %}
 <script>
 function containsAnyKeyword(keywordList, string) {
   // console.log("string: " + string)
@@ -1085,6 +1088,7 @@ function addCategoryColor(tag) {
   }
 })()
 </script>
+{% endcomment %}
 
 {% endif %}
 

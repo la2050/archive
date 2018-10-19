@@ -25,10 +25,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102192'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/pssst/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 

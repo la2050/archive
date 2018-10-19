@@ -60,12 +60,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/GroundGame.html'
     - 'http://maker.good.is/myla2050/projects/Artbound.html'
-  year_submitted:
-    - '2013'
-    - '2013'
   project_ids:
     - '3102163'
     - '3102163'
+  year_submitted:
+    - '2013'
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
 maker_image_id: '17051'
 cached_project_image: >-

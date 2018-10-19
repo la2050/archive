@@ -40,16 +40,17 @@ aggregated:
     - 'https://challenge.la2050.org/entry/center-for-sustainable-communities'
     - 'http://maker.good.is/myla2050live2015/projects/NHSCSC.html'
     - 'http://maker.good.is/myLA2050create/projects/SustainabilityCenter.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '8102089'
     - '6102165'
     - '5102219'
     - '4102258'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/neighborhood-housing-services-of-los-angeles-county/activation.la2050.org/assets/images/live/2048-wide/neighborhood-housing-services-of-los-angeles-county.jpg
 

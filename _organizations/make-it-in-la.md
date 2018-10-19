@@ -46,12 +46,13 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/make-it-in-la/'
     - 'http://maker.good.is/myla2050create2015/projects/makeitinla.html'
-  year_submitted:
-    - '2018'
-    - '2015'
   project_ids:
     - '8102079'
     - '5102201'
+  year_submitted:
+    - '2018'
+    - '2015'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/make-it-in-la/activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg
 

@@ -36,10 +36,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102045'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
 

@@ -31,12 +31,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
     - 'http://maker.good.is/myLA2050play/projects/TogetherWePlayLA.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102266'
     - '4102212'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: yUDKtK6Gfls
 cached_project_image: >-
   /assets/images/organizations/shanes-inspiration/img.youtube.com/vi/yUDKtK6Gfls/hqdefault.jpg

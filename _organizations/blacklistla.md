@@ -34,12 +34,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
     - 'http://maker.good.is/myla2050connect2015/projects/blacklistla.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102019'
     - '5102029'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/blacklistla/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 

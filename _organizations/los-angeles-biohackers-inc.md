@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LAB.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102055'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: la_biohackers__LA2050_570_345_copy2.jpg
 maker_image_id: '22859'
 cached_project_image: >-

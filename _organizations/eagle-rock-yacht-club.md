@@ -33,12 +33,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/eryc.html'
     - 'http://maker.good.is/myla2050/projects/theyachtclub.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102030'
     - '3102116'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: aKgBQ7XR-pg
 cached_project_image: >-
   /assets/images/organizations/eagle-rock-yacht-club/img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg

@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Artistmovement.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102270'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: rksqpbf13eo
 cached_project_image: >-
   /assets/images/organizations/valle-artists/img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg

@@ -48,14 +48,6 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/LALandfillHarmonic.html'
     - 'http://maker.good.is/myla2050learn2015/projects/ReImaginedResources.html'
     - 'http://maker.good.is/myLA2050play/projects/reimaginedresources.html'
-  year_submitted:
-    - '2016'
-    - '2016'
-    - '2016'
-    - '2015'
-    - '2015'
-    - '2015'
-    - '2014'
   project_ids:
     - '6102227'
     - '6102226'
@@ -64,6 +56,15 @@ aggregated:
     - '5102287'
     - '5102287'
     - '4102239'
+  year_submitted:
+    - '2016'
+    - '2016'
+    - '2016'
+    - '2015'
+    - '2015'
+    - '2015'
+    - '2014'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/t4t-org/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
 

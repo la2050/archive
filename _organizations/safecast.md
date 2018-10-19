@@ -21,10 +21,11 @@ project_titles:
   - Help build a Realtime Environmental Sensor Network
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102162'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: Cb6MAN2lVkg
 cached_project_image: >-
   /assets/images/organizations/safecast/img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg

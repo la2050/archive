@@ -26,9 +26,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/FORT.html'
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 youtube_video_identifier: kNqNTSXVqsI
 cached_project_image: /assets/images/organizations/fort/img.youtube.com/vi/kNqNTSXVqsI/hqdefault.jpg
 

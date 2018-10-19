@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102086'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: _DSC5884.JPG
 maker_image_id: '20167'
 cached_project_image: >-

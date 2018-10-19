@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102051'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Change_Better_Profile.jpg
 maker_image_id: '23690'
 cached_project_image: >-

@@ -34,12 +34,13 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/re-make-it-la'
     - 'http://maker.good.is/myla2050create2015/projects/buyoutyourboss.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102111'
     - '5102077'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/concerned-capital/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
 

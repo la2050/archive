@@ -34,12 +34,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency
     - 'http://maker.good.is/myla2050learn2015/projects/theacademyproject.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102235'
     - '5102295'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/the-academy-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
 

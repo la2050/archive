@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102281'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/wethrive/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
 

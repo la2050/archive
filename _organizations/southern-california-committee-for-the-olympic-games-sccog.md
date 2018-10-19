@@ -83,10 +83,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102235'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: John_-_LA_Daily_News.jpg
 maker_image_id: '17239'
 cached_project_image: >-

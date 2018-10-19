@@ -69,10 +69,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102162'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: 9PUd4G27uNk
 cached_project_image: >-
   /assets/images/organizations/kcet-departures/img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg

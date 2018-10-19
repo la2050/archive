@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102202'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/safe-streets-are-for-everyone/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
 

@@ -27,9 +27,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CollegeEssay.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: IRXVbzVLXls
 cached_project_image: >-
   /assets/images/organizations/applicantlab/img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg

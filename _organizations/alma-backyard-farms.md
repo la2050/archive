@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102006'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: Eg3e5xfocOk
 cached_project_image: >-
   /assets/images/organizations/alma-backyard-farms/img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg

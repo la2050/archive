@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102138'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/emx-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
 

@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102156'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: iQpQqqot8AQ
 cached_project_image: >-
   /assets/images/organizations/jvs-los-angeles/img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg

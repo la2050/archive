@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102074'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/los-angeles-dodgers-foundation/activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
 

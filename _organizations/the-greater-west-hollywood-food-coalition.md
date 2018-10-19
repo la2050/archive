@@ -55,10 +55,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102248'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: vZOFIeiYKwA
 cached_project_image: >-
   /assets/images/organizations/the-greater-west-hollywood-food-coalition/img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg

@@ -43,10 +43,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/creoutreach.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102095'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: pp9oh64x-9Y
 cached_project_image: >-
   /assets/images/organizations/cre-outreach/img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg

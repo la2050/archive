@@ -39,12 +39,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102327'
     - '4102218'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 maker_image_file_name: TIER.jpg
 maker_image_id: '23820'
 cached_project_image: >-

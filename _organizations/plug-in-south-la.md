@@ -28,9 +28,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/PlugInSouthLA.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: qooMUYecd1s
 cached_project_image: >-
   /assets/images/organizations/plug-in-south-la/img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg

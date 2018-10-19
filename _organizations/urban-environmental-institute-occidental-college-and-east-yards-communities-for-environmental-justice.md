@@ -34,14 +34,15 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
     - 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
     - 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
-  year_submitted:
-    - '2015'
-    - '2015'
-    - '2013'
   project_ids:
     - '5102335'
     - '5102063'
     - '3102266'
+  year_submitted:
+    - '2015'
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
 maker_image_id: '23743'
 cached_project_image: >-

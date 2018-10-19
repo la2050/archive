@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/l-a-kitchen/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102059'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/l-a-kitchen/activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg
 

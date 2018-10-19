@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102070'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
 maker_image_id: '21550'
 cached_project_image: >-

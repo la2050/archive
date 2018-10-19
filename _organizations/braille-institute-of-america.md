@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102020'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/braille-institute-of-america/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
 

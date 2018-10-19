@@ -32,12 +32,13 @@ aggregated:
     - >-
       https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/
     - 'http://maker.good.is/myla2050connect2015/projects/centerforcouncil.html'
-  year_submitted:
-    - '2018'
-    - '2015'
   project_ids:
     - '8102015'
     - '5102047'
+  year_submitted:
+    - '2018'
+    - '2015'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/center-for-council-a-project-of-community-partners/activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
 

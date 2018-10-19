@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102104'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: RallyinLA.jpg
 maker_image_id: '20605'
 cached_project_image: >-

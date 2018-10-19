@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/shared-space-for-community-engaged-creative-practice
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102055'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/cornerstone-theater-company/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
 

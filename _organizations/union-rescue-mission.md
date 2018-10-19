@@ -33,12 +33,13 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/a-way-home-for-women-children'
     - 'http://maker.good.is/myla2050create2015/projects/URMJOBS.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102268'
     - '5102331'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/union-rescue-mission/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
 

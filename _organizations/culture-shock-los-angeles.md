@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/C3.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102080'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: wmExJ7xdKYc
 cached_project_image: >-
   /assets/images/organizations/culture-shock-los-angeles/img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg

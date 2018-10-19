@@ -39,14 +39,15 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
     - 'http://maker.good.is/myla2050live2015/projects/caregiverandme.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '6102224'
     - '5102286'
     - '4102238'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/t-l-foundation-for-child-care-information/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 

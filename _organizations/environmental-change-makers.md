@@ -41,10 +41,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ChangeMakingGardens.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102125'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: CGatHN_by_Linda_570w.jpg
 maker_image_id: '16319'
 cached_project_image: >-

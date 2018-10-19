@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102197'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/represent/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1725312484741-team89.jpg
 

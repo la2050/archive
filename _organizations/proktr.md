@@ -27,9 +27,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 youtube_video_identifier: _-Xf6dKy4no
 cached_project_image: >-
   /assets/images/organizations/proktr/img.youtube.com/vi/_-Xf6dKy4no/maxresdefault.jpg

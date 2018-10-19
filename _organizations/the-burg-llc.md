@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/the-burg-llc/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102118'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/the-burg-llc/activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg
 

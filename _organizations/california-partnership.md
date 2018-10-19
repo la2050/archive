@@ -34,12 +34,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders
     - 'http://maker.good.is/myLA2050connect/projects/WeThePeople.html'
-  year_submitted:
-    - '2016'
-    - '2014'
   project_ids:
     - '6102027'
     - '4102221'
+  year_submitted:
+    - '2016'
+    - '2014'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/california-partnership/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
 

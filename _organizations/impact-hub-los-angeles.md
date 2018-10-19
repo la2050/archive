@@ -36,12 +36,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
     - 'http://maker.good.is/myla2050connect2015/projects/digitaldistrictLA.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102179'
     - '5102139'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/impact-hub-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
 

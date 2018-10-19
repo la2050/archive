@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/future-america/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102042'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/future-america/activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg
 

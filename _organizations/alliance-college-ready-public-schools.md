@@ -31,12 +31,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/BLAST.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '3102011'
     - '3102011'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 maker_image_file_name: 2013_Graduation_Luskin_Academy_(54).jpg
 maker_image_id: '20500'
 cached_project_image: >-

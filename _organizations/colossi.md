@@ -28,9 +28,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/colossi.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: CAz_mkuDRno
 cached_project_image: >-
   /assets/images/organizations/colossi/img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg

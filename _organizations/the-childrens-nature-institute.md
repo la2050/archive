@@ -44,10 +44,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ExNLA.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102245'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: xF48V9enLaE
 cached_project_image: >-
   /assets/images/organizations/the-childrens-nature-institute/img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg

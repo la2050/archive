@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102024'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: K83J6XaqQlM
 cached_project_image: >-
   /assets/images/organizations/critical-mass-dance-company-cmdc/img.youtube.com/vi/K83J6XaqQlM/hqdefault.jpg

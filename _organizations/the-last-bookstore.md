@@ -47,10 +47,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/RXforLA.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102107'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: LBSpan2med.jpg
 maker_image_id: '16903'
 cached_project_image: >-

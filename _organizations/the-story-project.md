@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/storyproject.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102312'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: BnbLK2sxsXI
 cached_project_image: >-
   /assets/images/organizations/the-story-project/img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg

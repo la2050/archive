@@ -32,10 +32,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102053'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: MECAY-Education-Proposal-2014.jpg
 maker_image_id: '22605'
 cached_project_image: >-

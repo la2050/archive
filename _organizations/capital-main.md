@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102031'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/capital-main/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6262793265741-team89.jpg
 

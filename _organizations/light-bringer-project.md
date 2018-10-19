@@ -25,10 +25,11 @@ project_titles:
   - L.A. Futures
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102144'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: IMG_2944.JPG
 maker_image_id: '22179'
 cached_project_image: >-

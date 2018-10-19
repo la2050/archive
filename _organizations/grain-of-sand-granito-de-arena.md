@@ -42,10 +42,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102141'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: Debris_3.JPG
 maker_image_id: '16238'
 cached_project_image: >-

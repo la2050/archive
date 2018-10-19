@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/moment.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102077'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: 1JDr-eMpJX4
 cached_project_image: >-
   /assets/images/organizations/rangoli-foundation-for-art-culture/img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg

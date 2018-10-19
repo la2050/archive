@@ -40,16 +40,17 @@ aggregated:
       https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
     - 'http://maker.good.is/myla2050learn2015/projects/iamCollegeTrack.html'
     - 'http://maker.good.is/myla2050/projects/iamcollegetrack.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '6102047'
     - '5102071'
     - '4102224'
     - '3102082'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/college-track/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 

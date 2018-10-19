@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102003'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/a-sense-of-home/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
 

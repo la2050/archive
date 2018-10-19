@@ -36,14 +36,15 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/the-grid-project-lets-create-50k-jobs-building-great-things-to-reduce-air-pollution-fwy-gridlock
     - 'http://maker.good.is/myla2050live2015/projects/airtimeandmoney.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '6102164'
     - '4102155'
     - '8102125'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/grid-logistics/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
 

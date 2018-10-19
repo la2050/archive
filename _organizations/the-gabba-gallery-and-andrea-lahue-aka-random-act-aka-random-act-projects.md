@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102089'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: G4cMVQVTBkM
 cached_project_image: >-
   /assets/images/organizations/the-gabba-gallery-and-andrea-lahue-aka-random-act-aka-random-act-projects/img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg

@@ -21,10 +21,11 @@ project_titles:
   - Thriving in a Hotter Los Angeles—100% Sustainability by 2050
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102180'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: DITouRhKW80
 cached_project_image: >-
   /assets/images/organizations/ucla-grand-challenges/img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg

@@ -30,9 +30,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/GreenCommuter.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: TjRq-S_gY9U
 cached_project_image: >-
   /assets/images/organizations/green-commuter/img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg

@@ -42,12 +42,13 @@ aggregated:
     - 'https://activation.la2050.org/play/surf-bus-foundation/'
     - >-
       https://challenge.la2050.org/entry/theraputic-ocean-engagement-surfing-t-o-e-s-as-in-on-the-nose!
-  year_submitted:
-    - '2018'
-    - '2016'
   project_ids:
     - '8102114'
     - '6102221'
+  year_submitted:
+    - '2018'
+    - '2016'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/surf-bus-foundation/activation.la2050.org/assets/images/play/2048-wide/surf-bus-foundation.jpg
 

@@ -32,14 +32,15 @@ aggregated:
     - 'https://challenge.la2050.org/entry/la-bike-trains-app-wayfinding-signage'
     - 'https://challenge.la2050.org/entry/la-bike-fest'
     - 'http://maker.good.is/myLA2050create/projects/R5Y7BiciDestino.html'
-  year_submitted:
-    - '2016'
-    - '2016'
-    - '2014'
   project_ids:
     - '6102016'
     - '6102015'
     - '4102220'
+  year_submitted:
+    - '2016'
+    - '2016'
+    - '2014'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/bicycle-culture-institute/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
 

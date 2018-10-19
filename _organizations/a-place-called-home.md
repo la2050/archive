@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102006'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: wzFv5uV3pew
 cached_project_image: >-
   /assets/images/organizations/a-place-called-home/img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg

@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102023'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: 0EQnXawnCQk
 cached_project_image: >-
   /assets/images/organizations/artists-for-literacy-litremix/img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg

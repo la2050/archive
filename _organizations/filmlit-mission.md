@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/filmlit-barter-skills-curriculum™-w-job-corps-la!
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102067'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/filmlit-mission/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
 

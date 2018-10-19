@@ -57,10 +57,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/climateleaders.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102138'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: Logo.jpg
 maker_image_id: '16505'
 cached_project_image: >-

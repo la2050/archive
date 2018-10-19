@@ -27,10 +27,11 @@ project_titles:
     Kids in Need 
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102115'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: alg-babybuggy-jpg.jpg
 maker_image_id: '20955'
 cached_project_image: >-

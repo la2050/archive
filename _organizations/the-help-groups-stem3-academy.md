@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners!
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102244'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/the-help-groups-stem3-academy/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
 

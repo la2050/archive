@@ -26,12 +26,13 @@ project_titles:
   - Original Green Community Food Hub
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
-    - '2014'
   project_ids:
     - '4102134'
     - '4102168'
+  year_submitted:
+    - '2014'
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: zs2Oe9X1llQ
 cached_project_image: >-
   /assets/images/organizations/home-community-inc/img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg
