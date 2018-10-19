@@ -200,7 +200,7 @@ stylesheets:
   <div data-aspect-ratio="1280/720">
     <a href="{{ first_project_url }}">
       {% if page['cached_project_image'] and page['project_image'] contains "http://" %}
-      <img src="https://images.la2050.org{{ page['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ page.title }}" width="500" />
+      <img src="{{ page['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ page.title }}" width="500" />
       {% else %}
       <img src="{{ page['project_image'] }}" alt="{{ page.title }}" width="500" />
       {% endif %}
@@ -716,7 +716,7 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Submitted Ideas</h2>
 {% endif %}
 
 {% if project['cached_project_image'] and project['project_image'] contains "http://" %}
-<img src="https://images.la2050.org{{ project['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ project.title }}" />
+<img src="{{ project['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ project.title }}" />
 {% else %}
 <img src="{{ project['project_image'] }}" alt="{{ project.title }}" />
 {% endif %}
