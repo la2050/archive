@@ -336,7 +336,7 @@ align-self: stretch;
       <span class="image">
 
         {% if data['cached_project_image'] and data['project_image'] contains "http://" %}
-        <img src="{{ data['cached_project_image'] | replace: '%25', '%2525' }}" alt="" width="540" height="428" />
+        <img src="https://images.la2050.org{{ data['cached_project_image'] | replace: '%25', '%2525' }}" alt="" width="540" height="428" />
         {% else %}
         <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />
         {% endif %}
