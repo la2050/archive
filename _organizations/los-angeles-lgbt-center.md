@@ -37,5 +37,7 @@ aggregated:
   project_ids:
     - '8102075'
     - '4102174'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-lgbt-center/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
 
 ---

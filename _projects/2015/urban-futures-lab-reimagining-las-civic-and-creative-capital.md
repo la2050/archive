@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Past awardee
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Public Matters
   Organization(s) mailing address(es): '1439 Elevado St., Los Angeles, CA 90026'
   Organization(s) website(s): www.publicmattersgroup.com
@@ -82,7 +82,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -294,6 +294,8 @@ How do you plan to scale the success of your proposal?: >-
    We intend to develop partnerships with groups that have the capacity to hire Fellows as they complete their time with the Lab. Groups like PolicyLink have told us that while they recruit from well respected universities, these hires often lack knowledge of how communities function. Fellows hailing from communities served by groups like PolicyLink and savvy in community processes, would be ideal hires. 
    
    Public Matters’ work has a multiplier effect. We have seen this time and again. Our projects strengthen individuals and communities. For example, in Market Makeovers, students learn about healthy eating and nutrition, change their diet, their families’ diet, and help their parents lose weight. Parents become advocates and share the information with friends and relatives. Students lead healthy cooking demonstrations and decide to enter related fields like nutrition, public health, and planning. They plan to return to help their communities. In “The Truth About Flavor,” we worked with South LA high school students to create media about small flavored cigarillos. We built a partnership with the City Attorney’s Tobacco Enforcement Program. Students’ media played a role in the City’s recent decision to enforce greater penalties on tobacco sales to minors and to create a new Responsible Retailer Initiative. Public Matters’ goal is to continue to deepen and improve our engagement with young adults and prepare them for vibrant careers as creative thinkers and civic leaders.
+cached_project_image: >-
+  /assets/images/projects/2015/urban-futures-lab-reimagining-las-civic-and-creative-capital/img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg
 youtube_video_identifier: 1HVZ3rX86M4
 organization_name: Public Matters
 

@@ -51,5 +51,7 @@ aggregated:
     - '3102029'
 maker_image_file_name: Nate_Holden.jpg
 maker_image_id: '17283'
+cached_project_image: >-
+  /assets/images/organizations/arts-earth-partnership/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17283%252Fdisplay%252FNate_Holden.jpg=c570x385.jpg
 
 ---

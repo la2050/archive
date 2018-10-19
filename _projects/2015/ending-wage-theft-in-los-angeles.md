@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: email from LA2050
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Koreatown Immigrant Worker Alliance
   Organization(s) mailing address(es): "1053 S. New Hampshire\r\nLos Angeles, CA 9006"
   Organization(s) website(s): 'http://kiwa.org/ '
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -208,6 +208,8 @@ How do you plan to scale the success of your proposal?: >-
   help to contribute to more workers receiving the wages they are owned.
   Finally, we may seek additional grant funding to support further development
   and deployment of the wage theft prediction tool.
+cached_project_image: >-
+  /assets/images/projects/2015/ending-wage-theft-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23889%252Fdisplay%252F12000148473_482ef012b5_k.jpg=c570x385.jpg
 maker_image_id: '23889'
 maker_image_file_name: 12000148473_482ef012b5_k.jpg
 organization_name: Koreatown Immigrant Worker Alliance

@@ -16,8 +16,8 @@ project_areas:
   - CENTRAL LA
   - SOUTH LA
 maker_answers:
+  metrics_create_employment: '1'
   city_state: CA
-  org_name: Conant Moran Design & Fabrication
   org_website: ConantMoran.com
   org_twitter: ''
   org_facebook: ''
@@ -108,7 +108,7 @@ maker_answers:
     change in the environment or culture directly or indirectly changes things
     for the good - for everyone.
   partners_collaboration: "The collaborators for this project are local leaders and District 9 staff who will assist with site selection and the unveiling BBQ's.  These collaborators are not specifically named.  They will be contacted as sculpture projects are developed.  The number of collaboration participants will be small because the primary beneficiaries live and work in the immediate neighborhood.\r\n\r\n1. Community Involvement\r\n2. Communication between parties\r\n3. Recognition of contributions "
-  metrics_create_employment: '1'
+  org_name: Conant Moran Design & Fabrication
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -204,6 +204,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Communication between parties
    3. Recognition of contributions
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/neighborhood-art-provides-positive-local-focus/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20596%252Fdisplay%252FIMAG0233.jpg=c570x385.jpg
 maker_image_id: '20596'
 maker_image_file_name: IMAG0233.jpg
 

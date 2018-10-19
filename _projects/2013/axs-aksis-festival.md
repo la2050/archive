@@ -326,5 +326,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   states in terms of per capita spending on arts and culture.  And a 46yearold
   woman who came to the AxS Festival as a fourthgrader is heading up the
   Governor’s task force on arts, culture, science and technology.
+cached_project_image: >-
+  /assets/images/projects/2013/axs-aksis-festival/maker.good.is/images/placeholder/idea.png
 
 ---

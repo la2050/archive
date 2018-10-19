@@ -35,5 +35,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102122'
+cached_project_image: >-
+  /assets/images/organizations/the-people-of-change/activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
 
 ---

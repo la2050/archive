@@ -36,5 +36,7 @@ aggregated:
     - '4102069'
 maker_image_file_name: In_Studio_Irvine_Mural.jpg
 maker_image_id: '22131'
+cached_project_image: >-
+  /assets/images/organizations/piece-by-piece/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22131%252Fdisplay%252FIn_Studio_Irvine_Mural.jpg=c570x385.jpg
 
 ---

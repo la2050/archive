@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/BhO5jmXKosA'
 project_areas:
   - Central LA
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How did you hear about this challenge?: Goldhirsh Foundation e-blast
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
   Organization(s) mailing address(es): '135 North Grand Avenue, Los Angeles, CA 90012'
   Organization(s) website(s): www.grandparkla.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -296,6 +296,8 @@ How do you plan to scale the success of your proposal?: >-
   Based on usage and community feedback, Grand Park will assess the degree of
   positive impact that shading pilot has had. The project can be scaled up by
   creating other artistic shade installations in other parts of the park.
+cached_project_image: >-
+  /assets/images/projects/2015/a-shady-oasis-for-everyone-in-grand-park/img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg
 youtube_video_identifier: BhO5jmXKosA
 organization_name: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 

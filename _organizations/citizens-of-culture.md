@@ -44,5 +44,7 @@ aggregated:
     - '8102022'
     - '6102097'
     - '4102095'
+cached_project_image: >-
+  /assets/images/organizations/citizens-of-culture/activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 
 ---

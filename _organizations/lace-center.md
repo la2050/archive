@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '4102050'
 youtube_video_identifier: V_x6dj_Fa9M
+cached_project_image: >-
+  /assets/images/organizations/lace-center/img.youtube.com/vi/V_x6dj_Fa9M/maxresdefault.jpg
 
 ---

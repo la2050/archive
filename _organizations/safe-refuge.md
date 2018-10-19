@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102203'
+cached_project_image: >-
+  /assets/images/organizations/safe-refuge/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
 
 ---

@@ -28,5 +28,7 @@ aggregated:
     - '2015'
   project_ids:
     - '#N/A'
+cached_project_image: >-
+  /assets/images/organizations/public-health-advocates/maker.good.is/images/placeholder/idea.png
 
 ---

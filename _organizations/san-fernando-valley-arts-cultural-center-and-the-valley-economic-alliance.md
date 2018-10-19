@@ -36,5 +36,7 @@ aggregated:
   project_ids:
     - '5102259'
 youtube_video_identifier: ''
+cached_project_image: >-
+  /assets/images/organizations/san-fernando-valley-arts-cultural-center-and-the-valley-economic-alliance/img.youtube.com/vi//hqdefault.jpg
 
 ---

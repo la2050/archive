@@ -145,6 +145,8 @@ project_proposal_best_place: >-
   student academic and social self-efficacy and skills. SCIE helps students to
   gain real-world experience and develop relationships with engineering students
   and professionals.
+cached_project_image: >-
+  /assets/images/projects/2016/stem-center-for-innovation-and-excellence-scie/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
 organization_name: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs
   Office)

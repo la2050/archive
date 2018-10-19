@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'Montebello, California 90640'
-  org_name: Optimizing National Education
   org_website: 'http://www.careerprepadvantage.org/la.htm'
   org_twitter: In process.
   org_facebook: In process.
@@ -73,7 +73,7 @@ maker_answers:
   impact_create: "TODAY\r\n\r\n1. We will be creating jobs.\r\n\r\n...1.1  Los Angeles City has 6,500 miles of streets, not including freeways, http://bss.lacity.org/resurfacing/ .  If (a) all of LA County is double that number and (b) QR codes could be put on each side of a street, a hundred feet apart, we would have 1,372,000 QR codes.  Assuming that half of the commercial districts and residential neighborhoods would not want the QR codes, we would have 686,000 QR codes.\r\n\r\n......1.1.1  If installation of one QR code took ten minutes, we are looking at 114,000 hours, approximately 57 full-time jobs over the course of a year.\r\n\r\n......1.1.2  After installation, there would be maintenance and updating of information.  Ten minutes per QR codes per week would necessitate about 6,000,000 hours over a year, creating approximately 3,000 long-term jobs.   \r\n\r\n2. We will be contributing significantly to the sustainability of neighborhoods by making learning, exercise, and social interaction fun.\r\n\r\n...2.1  Learning will vary from local happenings, like the time and address of a farmer's market to classroom priorities, \"STEM on the Street\".\r\n\r\n...2.2  Exercise will be by(a) walking, with motivation coming from clues behind succeeding QR codes leading to an answer, (b) contests where foot or bicycle speed would be essential.\r\n\r\n...2.3  Social interaction will be creative, high-profile, drawing further publicity to WON.  For example, scan a QR code to read \"If you find a person named John in the next ten minutes, you and he get a free ice cream at the Foster's Freeze around the corner\".  The creativity will be tempered by input from safety personnel.\r\n\r\n3. WON is a cross-over project, beginning with \"Create\" and touching upon the other four categories of the LA 2050 competition:  Play, Connect, Live, Learn.\r\n\r\nIN 2050\r\n\r\n4. Residents of Los Angeles County will be healthier, as WON contributes to awareness about local agriculture and health programs.\r\n\r\n5. As they know their neighbors and neighborhoods better, they will collaborate to find solutions to neighborhood issues on a scale much larger than at present.\r\n\r\n...5.1  Neighborhoods will be more sustainable, as WON contributes to local economic sustainability.\r\n\r\n...5.2  Through the news service INSPIRE BEYOND, people will be exposed to solutions to local issues and motivated to act.\r\n\r\n6. The mix of education and fun will lead to a more learned population.\r\n\r\n"
   who_benefit: "1. Every resident, whatever his or her age, every tourist, whatever his or her age, who uses a hand-held device can benefit from the learning, exercise, and social interaction.  \r\n\r\n2. Local businesses, organizations, government units, and educational institutions benefit as their offerings and events become better known.  \r\n\r\n3. As for jobs, parolees coming through the Reintegration Academy, founded by Dr. Renford Reese of California Polytechnic University, Pomona, http://www.reintegrationacademy.org/ReintegrationAcademy.html, prepare for jobs in (a) design, (b) manufacture, (c) presentation, (d) installation, and (e) ongoing maintenance and updating of information."
   partners_collaboration: "1. Dr. Renford Reese, Reintegration Academy, http://www.reintegrationacademy.org/ReintegrationAcademy.html , based at California Polytechnic University, Pomona, confirmed.\r\n\r\n...1.1  The Cal Poly Pomona College of Engineering.  To be engaged through an invitation from Dr. Reese.  Not confirmed.\r\n\r\n2. Dr. Daniel Guerriere, Emeritus, California State University, Long Beach, and William Kelly, M.Ed., the news service INSPIRE BEYOND, through which news emphasizing innovation and a \"can do\" spirit will be brought to the attention of residents in Los Angeles County.  Confirmed.\r\n\r\n...2.1  The service-learning community at Cal State Long Beach, to be engaged through an invitation from Dr. Guerriere.  Not confirmed.\r\n\r\n3. Mr. Mike Browne of  Big Red Shoes, http://www.bigredshoes.com/ .who will have a key role in the design of WON categories.  Confirmed.\r\n\r\n4. There will be others, drawn from institutions and organizations in Los Angeles County.\r\n\r\n...4.1  Manufacture.\r\n\r\n...4.2  Installation.\r\n\r\n...4.3  Maintenance and updating information.\r\n\r\n......4.3.1  This will include local businesses, local organizations, local governments, and others wishing to convey information through the QR codes.  Not confirmed."
-  metrics_create_employment: '1'
+  org_name: Optimizing National Education
   metrics_create_arts: '0'
   metrics_create_manufacturing: '1'
   metrics_create_researchgrant: '0'
@@ -207,6 +207,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    ......4.3.1 This will include local businesses, local organizations, local governments, and others wishing to convey information through the QR codes. Not confirmed.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/welcome-to-our-neighborhood/img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg
 youtube_video_identifier: z7QaUClznXM
 
 ---

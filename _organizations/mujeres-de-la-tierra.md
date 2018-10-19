@@ -50,5 +50,7 @@ aggregated:
     - '6102157'
     - '5102214'
     - '4102235'
+cached_project_image: >-
+  /assets/images/organizations/mujeres-de-la-tierra/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156269625741-team90.jpg
 
 ---

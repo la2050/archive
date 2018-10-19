@@ -38,5 +38,7 @@ aggregated:
     - '5102264'
     - '4102211'
 youtube_video_identifier: atB8yIPXKCk
+cached_project_image: >-
+  /assets/images/organizations/seepolitical/img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg
 
 ---

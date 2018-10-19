@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/TNz5Q0G-KAs'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Civic Innovation Lab LA
-  'City, State': 'Long Beach, CA'
   Organization(s) name(s): Localism Inc.
   Organization(s) mailing address(es): '236 Pine Ave. Long Beach, CA 90802'
   Organization(s) website(s): www.localism.co/madelb
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Long Beach, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -299,6 +299,8 @@ How do you plan to scale the success of your proposal?: |-
    Distribution is a volume play and a positioning play, with a focus on key destinations such as The Renaissance Long Beach, and fine local establishments such as Working Class Kitchen. 
    
    Because these models are based on amount of product and fees, they are scalable for the growth of clients that we receive. Moreover, we do make revenue by renting out facility space for events, for which we charge 50%.
+cached_project_image: >-
+  /assets/images/projects/2015/made-in-long-beach-fostering-independent-entrepreneurship-to-accelerate-the-local-economy/img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg
 youtube_video_identifier: TNz5Q0G-KAs
 organization_name: Localism Inc.
 

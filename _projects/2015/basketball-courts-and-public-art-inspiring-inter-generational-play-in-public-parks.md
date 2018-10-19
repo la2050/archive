@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/phXK2cX3WEk'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: NPR
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Project Backboard
   Organization(s) mailing address(es): '922 Arroyo Drive, South Pasadena, 91030'
   Organization(s) website(s): 'http://www.projectbackboard.org/'
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -249,6 +249,8 @@ How do you plan to scale the success of your proposal?: >-
   with support and ideas. Our experience working closely with the Memphis
   Grizzlies will also help build relationships with local professional sports
   organizations, involving them in future court projects.
+cached_project_image: >-
+  /assets/images/projects/2015/basketball-courts-and-public-art-inspiring-inter-generational-play-in-public-parks/img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg
 youtube_video_identifier: phXK2cX3WEk
 organization_name: Project Backboard
 

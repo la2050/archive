@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: friend/colleague
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Silverlake Independent Jewish Community Center
   Organization(s) mailing address(es): "1110 Bates Avenue\r\nLos Angeles, CA 90029"
   Organization(s) website(s): www.sijcc.net
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -247,6 +247,8 @@ How do you plan to scale the success of your proposal?: >-
   schedule, or more storytelling events around the city with the goal of
   bringing people from all over LA together to share their experiences with one
   another.
+cached_project_image: >-
+  /assets/images/projects/2015/los-angeles-human-library/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23929%252Fdisplay%252Flogo3.jpg=c570x385.jpg
 maker_image_id: '23929'
 maker_image_file_name: logo3.jpg
 organization_name: Silverlake Independent Jewish Community Center

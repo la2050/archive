@@ -113,6 +113,8 @@ project_proposal_best_place: >-
   Building the KCRW Media Center is only the beginning. KCRW will host free,
   public concerts, live talks, and cultural events in its new facility for all
   Angelenos to attend!
+cached_project_image: >-
+  /assets/images/projects/2016/help-build-the-kcrw-media-center-designed-for-you-to-connect-with-public-radio-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
 organization_name: KCRW
 organization_website: KCRW.com
 

@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Tempest Action Parks
   Organization(s) mailing address(es): "3337 Jack Northrop Ave, Hawthorne, CA 90250\r\n"
   Organization(s) website(s): www.tempestactionparks.com
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -217,6 +217,8 @@ How do you plan to scale the success of your proposal?: >-
   the city in neighborhoods so that everyone will have an opportunity to enjoy a
   TMPST Action Park. These Action Parks can also be a destination for local
   schools to help teach physical education and bring fun through fitness!
+cached_project_image: >-
+  /assets/images/projects/2015/tmpst-action-parks-provide-creative-movement-to-la-through-play-and-fitness/img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg
 youtube_video_identifier: k-SpD948tJc
 organization_name: Tempest Action Parks
 

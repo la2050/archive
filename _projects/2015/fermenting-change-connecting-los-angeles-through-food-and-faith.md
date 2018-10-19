@@ -23,8 +23,8 @@ project_areas:
   - Westside
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Everybody knows about LA 2050!
-  'City, State': 'Encino, CA'
   Organization(s) name(s): Netiya
   Organization(s) mailing address(es): '15739 Ventura Blvd. Encino, CA 91436'
   Organization(s) website(s): www.netiya.org
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Encino, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -274,6 +274,8 @@ How do you plan to scale the success of your proposal?: >-
   and this is the vision that Netiya wants to realize.
    
    The Fermenting Change agenda that we plan to implement in 2016 will be the beginning of a replicable and sustainable program to engage citizens of our diverse community. From the success and lessons of 2016, we can not only host more Fermenting Change events, but inspire and train more and more participants to do meaningful volunteer work and engage in social action. We believe that with Fermenting Change we can lay the groundwork for activism that connects people across religious boundaries, cultural barriers, social class, and geography.
+cached_project_image: >-
+  /assets/images/projects/2015/fermenting-change-connecting-los-angeles-through-food-and-faith/img.youtube.com/vi/z7nrpaONjUI/hqdefault.jpg
 youtube_video_identifier: z7nrpaONjUI
 organization_name: Netiya
 

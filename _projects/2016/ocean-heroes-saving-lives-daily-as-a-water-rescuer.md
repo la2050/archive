@@ -114,6 +114,8 @@ project_proposal_best_place: >-
   any beach or body of water safer for all in Los Angeles just by their
   presence. The Open Water Junior Lifeguard Program makes LA the best place to
   Play.
+cached_project_image: >-
+  /assets/images/projects/2016/ocean-heroes-saving-lives-daily-as-a-water-rescuer/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 organization_name: City of Los Angeles Department of Recreation and Parks
 organization_website: www.laparks.org
 

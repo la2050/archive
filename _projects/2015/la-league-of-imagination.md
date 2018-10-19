@@ -18,8 +18,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Email
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Imagination Foundation
   Organization(s) mailing address(es): 'P.O. Box 861755, Los Angeles, CA 90086'
   Organization(s) website(s): www.imagination.is
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -209,6 +209,8 @@ How do you plan to scale the success of your proposal?: >-
    In addition to its simple implementation, the Chapters program is scalable and sustainable for two other reasons: 1) massive economies of scale and, 2) a strong network of engaged Chapter Leaders. Regarding economies of scale, because much of Chapter Leader training and support is conducted virtually in group formats, relative costs of management decrease with program growth. And regarding the network of Chapter Leaders, because they are part of such a strong and highly social international cohort, much of the support leaders receive is provided in peer-to-peer contexts, which is less costly to manage than direct trainings.
    
    The LA League of Imagination will be a highly visible entity, both locally and worldwide. Its activities will be well publicized, which will in turn create new interest and continued growth beyond the LA2050 grant.
+cached_project_image: >-
+  /assets/images/projects/2015/la-league-of-imagination/img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg
 youtube_video_identifier: VtA2ubRDvAs
 organization_name: Imagination Foundation
 

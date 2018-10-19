@@ -17,8 +17,8 @@ project_areas:
   - East LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How did you hear about this challenge?: Friend
-  'City, State': Los Angeles
   Organization(s) name(s): Farm LA
   Organization(s) mailing address(es): '2634 Rich Street, Los Angeles CA 90039'
   Organization(s) website(s): www.farmla.org
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
+  'City, State': Los Angeles
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Beautify derelict land in Los Angeles
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
    We want our program to be easily replicated at the end of 2016 hopefully with the support of organizations and communities we’ve worked with that year combined with fundraising, grant writing and effective marketing we can replicate this model easily and count on reoccurring funding to ensure Farm LA’s efforts in making this the healthiest place to live by 2050.
    
    Though Farm LA is still young, we have the applicable skills to champion our mission. We have no problem taking on leadership roles or getting our hands dirty. We have a commitment to our dream, the passion to expand and serve new sites in the future.
+cached_project_image: >-
+  /assets/images/projects/2015/help-save-the-land-with-farm-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23612%252Fdisplay%252F2050_Lg.jpg=c570x385.jpg
 maker_image_id: '23612'
 maker_image_file_name: 2050_Lg.jpg
 organization_name: Farm LA

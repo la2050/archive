@@ -56,5 +56,7 @@ aggregated:
     - '3102046'
 maker_image_file_name: evolvela2.png
 maker_image_id: '16195'
+cached_project_image: >-
+  /assets/images/organizations/flarb-llc/maker.good.is/images/placeholder/idea.png
 
 ---

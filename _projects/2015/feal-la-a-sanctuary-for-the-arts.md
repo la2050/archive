@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: The radio
-  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): 'FEAL.LA '
   Organization(s) mailing address(es): "1250 Long Beach Ave. Suite 103\r\nLos Angeles, CA 90021 "
   Organization(s) website(s): www.fealla.com
@@ -54,7 +54,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -195,6 +195,8 @@ How do you plan to scale the success of your proposal?: >-
    Office space
    
    As well as build out our membership program with the public. Providing a low monthly rate for the community to interact and engage with the artists we are working with.
+cached_project_image: >-
+  /assets/images/projects/2015/feal-la-a-sanctuary-for-the-arts/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23967%252Fdisplay%252FLOGO.png=c570x385.png
 maker_image_id: '23967'
 maker_image_file_name: LOGO.png
 organization_name: 'FEAL.LA '

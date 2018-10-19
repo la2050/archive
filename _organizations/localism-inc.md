@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '5102254'
 youtube_video_identifier: TNz5Q0G-KAs
+cached_project_image: >-
+  /assets/images/organizations/localism-inc/img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg
 
 ---

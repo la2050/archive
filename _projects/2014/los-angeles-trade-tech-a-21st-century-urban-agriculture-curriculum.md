@@ -22,10 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: 'Los Angeles, CA'
-  org_name: >-
-    Los Angeles Trade Technical College (LATTC) - School of Architecture and
-    Design, Culinary Academy
   org_website: 'http://college.lattc.edu'
   org_twitter: www.twitter.com/UrbanFarmingLA
   org_facebook: www.facebook.com/UrbanFarmingLA
@@ -96,7 +94,9 @@ maker_answers:
     transferability status to programs like UCLA, USC, CalPoly, and others.
   who_benefit: "Many urban areas in Central and South Los Angeles do not have sufficient access to groceries stores, yet are overrun with fast food eateries and convenience/liquor stores.  Their choices of diet are limited and it is difficult, costly, and time consuming to obtain wholesome fruits and vegetables. There is a growing plague of obesity and diabetes in America and other countries that have adopted the habit of relying on the dominance of pre-prepared foods.  Overworked mothers often do not have the choice of feeding their families plant, fruit, enzyme and mineral rich, traditional meals. Half the nutrition in vegetables is lost within a day of being picked. Urban agriculture would provide these families with choices, develop a deeper understanding of health, and offer the joy of a living and growing relationship to our source of nutrition, in these concrete landscape environments. Additionally, the potential for personal and public savings on healthcare, a community that encourages better decisions through hands on lessons in cultivating life, and the possibility of entrepreneurial endeavors would only serve to benefit us all. \r\nLos Angeles is a 21st century mega-city with over 4 million citizens (10 million in LA County), the food shed of which extends 200 miles. Astonishingly enough, rooftops amount to 20% of the land mass occupying exposed space in Los Angeles. Many of these spaces are functionally dormant, and serve as heat islands in a city burdened with enough environmental challenges as it is. Additionally, there are ten thousand vacant parcels that benefit no one except absentee landlords or developers not from the community. All these spaces are primed for agricultural activation, and upcoming legislative packages are finally beginning to incentivize the involvement of micro-enterprise to do so.\r\n"
   partners_collaboration: "Confirmed Partners/Collaborators-\r\n\r\nCouncilmember Curren Price, 9th District\r\nCouncilmember Price has been very supportive of this endeavor by giving us the roof of his field office headquarters to grow food on, and by consistently championing equitable urban ag policy.\r\n\r\nLos Angeles Open Acres\r\nThe LA Open Acres project is launching soon, and a relationship is in place whereby Trade Tech lends its built-environment infrastructure support to increase the capacity and breadth of upcoming parcel activations.\r\n\r\nEvoFarm\r\nA consulting partnership has been developed with David Rosenstein, who recently gave a presentation on his innovative homemade aquaponics program at Trade Tech.\r\n\r\nLA Conservation Corps\r\nBruce Saito's remarkable organization is a curriculum partner.\r\n\r\nSocial Justice Learning Institute\r\nAnother joint-curriculum partner.\r\n\r\nRivera Restaurant / Museum Tamal\r\nCulinary students will learn to grow food hydroponically, and in top-level settings, come to understand how to best use it.\r\n\r\nMetabolic Studio\r\nAn in-kind partner, the Studio has been supportive by providing materials and offering resources.\r\n\r\n\r\nNon-Confirmed Partners/Collaborators-\r\n\r\nToo many to list... really.\r\n\r\n\r\nThree factors critical to collaborative success-\r\n1-Site locations (done)\r\n2-Mutually beneficial resource exchange (agreed)\r\n3-Funding (Hmm...)\r\n"
-  metrics_live_healthyfood: '1'
+  org_name: >-
+    Los Angeles Trade Technical College (LATTC) - School of Architecture and
+    Design, Culinary Academy
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '1'
@@ -228,6 +228,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    SFF Restaurant and Business Partners (confirmed): SFF has established a network of restaurant, distribution, and retail partners working together to promote responsible seafood sourcing. Our partner chefs will star in the video demonstration series, provide seafood for cooking demonstration and educational purposes, and host cooking demonstrations at outreach events.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/los-angeles-trade-tech-a-21st-century-urban-agriculture-curriculum/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22163%252Fdisplay%252FTrade_Tech_Urban_Ag.jpg=c570x385.jpg
 maker_image_id: '22163'
 maker_image_file_name: Trade_Tech_Urban_Ag.jpg
 

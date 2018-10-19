@@ -14,8 +14,8 @@ project_areas:
   - San Fernando Valley
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): PowerMyLearning
   Organization(s) mailing address(es): '106 ½ Judge John Aiso Street PMB #164, Los Angeles, CA 90012'
   Organization(s) website(s): 'http://powermylearning.org'
   Organization(s) twitter handle(s): 'https://twitter.com/PowerMyLearning'
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): PowerMyLearning
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -134,6 +134,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/powermylearning-los-angeles-program/img.youtube.com/vi/IG53vhayb9k/maxresdefault.jpg
 youtube_video_identifier: IG53vhayb9k
 organization_name: PowerMyLearning
 

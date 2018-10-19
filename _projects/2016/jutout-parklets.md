@@ -92,6 +92,8 @@ project_proposal_best_place: >-
   the outside edges of sidewalks) from traffic -- making them much safer than
   parking spot parklets -- where the risk of cars running into parking spot
   parklets is high.
+cached_project_image: >-
+  /assets/images/projects/2016/jutout-parklets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
 organization_name: SCA-LARC
 organization_website: sca-larc.com
 

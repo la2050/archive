@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/duMAZ5TXBMg'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Ki’tay Davidson spoke at a Grant Professionals Association meeting last year
-  'City, State': 'Los Angeles, California'
   Organization(s) name(s): Tierra del Sol Foundation
   Organization(s) mailing address(es): "9919 Sunland Blvd.\r\nSunland, CA 91040\r\n"
   Organization(s) website(s): www.tierradelsol.org
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, California'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -248,6 +248,8 @@ How do you plan to scale the success of your proposal?: >-
    At Tierra’s First Street Gallery Art Center, Helen creates paintings and drawings that are animated and full of character. Helen began creating art at Tierra in 1990, at the age of 52. Since then, her work has been shown at GoodLuck Gallery, ACME Gallery Los Angeles, and Claremont Graduate University. She earned an Award of Recognition from the Artists Beyond Disabilities Exhibition in Pasadena. Helen’s work has been featured across the country and internationally, including shows in New York City, Boston, Washington D.C., Belgium and Scotland, and a traveling exhibit viewed in Okinawa, Fukuka, and Miyazaki Japan.
    
    Helen’s career has resulted in hundreds of other artists’ success. As people discover her art, they realize that disability does not have to be a barrier to creativity, and open themselves up to appreciating art from other artists in Tierra’s program.
+cached_project_image: >-
+  /assets/images/projects/2015/empowering-artists-with-disabilities-to-fill-the-creative-industry-employment-gap/img.youtube.com/vi/duMAZ5TXBMg/maxresdefault.jpg
 youtube_video_identifier: duMAZ5TXBMg
 organization_name: Tierra del Sol Foundation
 

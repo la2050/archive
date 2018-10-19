@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102042'
+cached_project_image: >-
+  /assets/images/organizations/clockshop-california-state-parks/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
 
 ---

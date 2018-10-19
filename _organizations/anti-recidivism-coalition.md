@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '5102017'
 youtube_video_identifier: jxDLaDNSLjo
+cached_project_image: >-
+  /assets/images/organizations/anti-recidivism-coalition/img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg
 
 ---

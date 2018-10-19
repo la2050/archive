@@ -119,6 +119,8 @@ project_proposal_best_place: >-
   these kids are the only one at their school in a wheelchair or with braces for
   their legs. At summer camp, this is the norm. All of our kids are able to feel
   the support of their peers and build friendships that last a lifetime.
+cached_project_image: >-
+  /assets/images/projects/2016/live-unlimited-with-mdas-summer-camp/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
 organization_name: Muscular Dystrophy Association
 organization_website: mda.org
 

@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Email announcement
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Alliance for Children's Rights
   Organization(s) mailing address(es): "3333 Wilshire Blvd.\r\nSte 550\r\nLos Angeles, CA 90010"
   Organization(s) website(s): www.kids-alliance.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -229,6 +229,8 @@ How do you plan to scale the success of your proposal?: >-
    
    In the child welfare community, the KB4UGO toolkit and app are seen as the “go to” resource for TAY by TAY, social workers, attorneys, foster parents, and organizations. Created and designed with youth in mind, TAY participated in development. This sets the campaign apart and positioned it to become a national model. Organizations in other states, and even in other countries, have asked to leverage the campaign’s concepts, especially the B4UGO app. YouTube, Twitter, the app, and the website are all adaptable media that can evolve, grow, deepen and be useful for TAY everywhere, who are transient and can be difficult to reach. This campaign allows us to reach them where they are, respond to their needs, and speak to them in their own language. We do not yet have a YouTube video to embed, but here is a link to what we have: 
     https://drive.google.com/open?id=0B5Oa7qknBBsha1VoMGZ0cGp3RWc
+cached_project_image: >-
+  /assets/images/projects/2015/know-before-you-go-b4ugo-campaign/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24082%252Fdisplay%252FPage_6_Behind_the_scenes.JPG=c570x385.jpg
 maker_image_id: '24082'
 maker_image_file_name: Page_6_Behind_the_scenes.JPG
 organization_name: Alliance for Children's Rights

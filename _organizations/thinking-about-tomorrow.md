@@ -32,5 +32,7 @@ aggregated:
     - '4102217'
 maker_image_file_name: ShannonTaTLA2050.jpeg
 maker_image_id: '24144'
+cached_project_image: >-
+  /assets/images/organizations/thinking-about-tomorrow/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24144%252Fdisplay%252FShannonTaTLA2050.jpeg=c570x385.jpg
 
 ---

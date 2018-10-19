@@ -21,8 +21,8 @@ project_areas:
   - San Fernando Valley
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Word of mouth
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): >-
     Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
     (LURN), TRUST South LA, Konkuey Design Initiative (KDI), Esperanza Community
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -144,6 +144,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/free-lots-angeles-transforming-vacant-lots-into-neighborhood-assets/img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg
 youtube_video_identifier: KQnPSzqeZRk
 organization_name: >-
   Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal

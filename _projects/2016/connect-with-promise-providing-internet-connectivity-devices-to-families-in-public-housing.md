@@ -104,6 +104,8 @@ project_proposal_best_place: >-
   school and be college and career ready, and acts as a key tool in parents
   ability to be engaged and empowered to direct their children’s learning.
   Today, the ultimate vehicle for opportunity is through the Internet.
+cached_project_image: >-
+  /assets/images/projects/2016/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 organization_name: EveryoneOn
 organization_website: everyoneon.org
 

@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102047'
+cached_project_image: >-
+  /assets/images/organizations/good-shine-studio/activation.la2050.org/assets/images/connect/2048-wide/good-shine-studio.jpg
 
 ---

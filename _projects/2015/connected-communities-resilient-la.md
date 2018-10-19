@@ -28,8 +28,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Website
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): American Red Cross Los Angeles Region (ARCLA)
   Organization(s) mailing address(es): "11355 Ohio Avenue\r\nLos Angeles, CA 90025"
   Organization(s) website(s): www.redcrossla.org
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -271,6 +271,8 @@ How do you plan to scale the success of your proposal?: >-
   end of the campaign’s third year. 
    
    Once it has expanded into all 15 communities, year four of the effort will revolve around coalition capacity building, including running a series of coalition convenings, resulting in a stronger network of community coalitions throughout Los Angeles County. The work proposed here will cover year one of the proposed initiative and will be scaled citywide as outlined by the end of its four-year duration.
+cached_project_image: >-
+  /assets/images/projects/2015/connected-communities-resilient-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23719%252Fdisplay%252F18603358223_2be7ae4ace_b.jpg=c570x385.jpg
 maker_image_id: '23719'
 maker_image_file_name: 18603358223_2be7ae4ace_b.jpg
 organization_name: American Red Cross Los Angeles Region (ARCLA)

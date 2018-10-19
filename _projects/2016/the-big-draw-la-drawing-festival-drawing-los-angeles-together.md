@@ -124,6 +124,8 @@ project_proposal_best_place: >-
   will create access and opportunity for ALL neighborhoods in LA. Give Angelenos
   the chance to build deeper connections with their community and to create a
   more informed, vibrant, and connected Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2016/the-big-draw-la-drawing-festival-drawing-los-angeles-together/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
 organization_name: Ryman Arts
 organization_website: www.thebigdrawla.org
 

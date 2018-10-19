@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Children's Bureau of Southern California
   Organization(s) mailing address(es): "1910 Magnolia Avenue\r\nLos Angeles, CA 90007"
   Organization(s) website(s): www.all4kids.org
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -293,6 +293,8 @@ How do you plan to scale the success of your proposal?: >-
   CB aims to implement lessons learned, through evaluation and knowledge sharing
   among corner store and partners, and secure additional funding for successful
   scaling.
+cached_project_image: >-
+  /assets/images/projects/2015/south-los-angeles-healthy-corner-store-conversion-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385.jpg
 maker_image_id: '23775'
 maker_image_file_name: CB_Logo.jpg
 organization_name: Children's Bureau of Southern California

@@ -42,5 +42,7 @@ aggregated:
   project_ids:
     - '3102008'
 youtube_video_identifier: 4zAG6xu-HQM
+cached_project_image: >-
+  /assets/images/organizations/cartel-collaborative-arts-la/img.youtube.com/vi/4zAG6xu-HQM/hqdefault.jpg
 
 ---

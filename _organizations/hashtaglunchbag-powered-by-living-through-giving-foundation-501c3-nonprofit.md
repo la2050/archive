@@ -37,5 +37,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102002'
+cached_project_image: >-
+  /assets/images/organizations/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/activation.la2050.org/assets/images/live/2048-wide/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
 
 ---

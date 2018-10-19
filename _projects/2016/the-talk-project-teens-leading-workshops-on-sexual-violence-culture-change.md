@@ -117,6 +117,8 @@ project_proposal_best_place: >-
   With resources and strong support this program can truly take off, and LA
   teens can continue to use their voices to make Los Angeles a safer, more
   inclusive, more empowering place to learn.
+cached_project_image: >-
+  /assets/images/projects/2016/the-talk-project-teens-leading-workshops-on-sexual-violence-culture-change/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6377992175741-team91.jpg
 organization_name: National Council of Jewish Women | Los Angeles
 organization_website: Ncjwla.org
 

@@ -88,5 +88,7 @@ aggregated:
     - '3102127'
 maker_image_file_name: FLOW-image-2.jpg
 maker_image_id: '16416'
+cached_project_image: >-
+  /assets/images/organizations/first-look-west/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16416%252Fdisplay%252FFLOW-image-2.jpg=c570x385.jpg
 
 ---

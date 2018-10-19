@@ -44,5 +44,7 @@ aggregated:
     - '6102164'
     - '4102155'
     - '8102125'
+cached_project_image: >-
+  /assets/images/organizations/grid-logistics/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
 
 ---

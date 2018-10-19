@@ -17,8 +17,8 @@ project_areas:
   - SFV
   - SOUTH BAY
 maker_answers:
+  metrics_create_arts: '1'
   city_state: 'Sherman oaks, CA'
-  org_name: Rangoli Foundation for Art & Culture
   org_website: rangoli.org
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/pages/Rangoli-Dance-Company/331420330066'
@@ -67,7 +67,7 @@ maker_answers:
     awareness and foster tourism, and tolerance among us.
   partners_collaboration: "I have worked with the following artists in the past. None of them is confirmed, although I am sure we will all come together to participate and contribute.\r\n\r\nSome Collaborators are listed here:\r\nLinda Yudin\r\nChristopher Taylor\r\nJohn Krovoza\r\nRonald Burton\r\nDulce Capadocia\r\nEileen Cooley\r\n\r\nThe three critical factors:\r\nOpen mindedness\r\nDesire to learn from the other and contribute\r\nBe inclusive and share\r\n\r\n"
   metrics_create_employment: '1'
-  metrics_create_arts: '1'
+  org_name: Rangoli Foundation for Art & Culture
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
   metrics_create_patents: '0'
@@ -142,6 +142,8 @@ Whom will your project benefit? Please be specific.: >-
    Open mindedness
    Desire to learn from the other and contribute
    Be inclusive and share
+cached_project_image: >-
+  /assets/images/projects/2014/this-is-the-moment/img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg
 youtube_video_identifier: 1JDr-eMpJX4
 
 ---

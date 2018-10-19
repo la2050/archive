@@ -17,8 +17,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23782%252Fdisplay%252FIMG_7734.jpeg=c570x385
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: KPCC announcement
-  'City, State': 'San Pedro, CA'
   Organization(s) name(s): Fruit Change
   Organization(s) mailing address(es): '463 W 14th St, San Pedro, CA 90731'
   Organization(s) website(s): 'http://www.fruitchange.com/'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'San Pedro, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -239,6 +239,8 @@ How do you plan to scale the success of your proposal?: >-
    As we near the end of the initial $100,000 grant, we will rely on the revenue systems we’ve built and grown to continue to fund the program. Neighbors will collaborate on ways to barter for services, secure investors, increase sales, plant new trees, invite master gardeners to teach masters classes to increase productivity and countless other ideas. Even when the fruit trees aren't producing, the neighbors will be connecting, planning, learning, and fundraising for our future.
    
    I've been a Reality TV producer for seven years. If there's one thing I can do, it's jump into a brand new world, figure out how it works, and use limited resources to make it even better. I build a great team and get everyone working at full potential.
+cached_project_image: >-
+  /assets/images/projects/2015/fruit-change/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23782%252Fdisplay%252FIMG_7734.jpeg=c570x385.jpg
 maker_image_id: '23782'
 maker_image_file_name: IMG_7734.jpeg
 organization_name: Fruit Change

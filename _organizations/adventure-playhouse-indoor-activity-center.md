@@ -38,5 +38,7 @@ aggregated:
     - '2015'
   project_ids: []
 youtube_video_identifier: JrkPrBnN4UI
+cached_project_image: >-
+  /assets/images/organizations/adventure-playhouse-indoor-activity-center/img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg
 
 ---

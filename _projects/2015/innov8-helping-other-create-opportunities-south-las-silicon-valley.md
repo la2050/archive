@@ -23,8 +23,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Email from colleague
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): >-
     Los Angeles Southwest College Foundation, Innovate Globally and Los Angeles
     Southwest College Career & Technical Education
@@ -78,7 +78,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -251,6 +251,8 @@ How do you plan to scale the success of your proposal?: >-
   seeks to expand the program to the other eight colleges in LACCD. Ultimately,
   we hope to package and license the curriculum, making it available to
   community colleges throughout the state and nation as a social enterprise.
+cached_project_image: >-
+  /assets/images/projects/2015/innov8-helping-other-create-opportunities-south-las-silicon-valley/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24010%252Fdisplay%252Fcodetechiq.jpg=c570x385.jpg
 maker_image_id: '24010'
 maker_image_file_name: codetechiq.jpg
 organization_name: >-

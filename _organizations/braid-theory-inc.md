@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102086'
+cached_project_image: >-
+  /assets/images/organizations/braid-theory-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
 
 ---

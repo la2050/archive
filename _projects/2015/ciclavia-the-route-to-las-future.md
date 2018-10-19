@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: 'Email, Tweet from LA2050 and GOOD'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): CicLAvia
   Organization(s) mailing address(es): '3780 Wilshire Blvd Suite 1020, Los Angeles, CA 90010'
   Organization(s) website(s): www.ciclavia.org
@@ -83,7 +83,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -332,6 +332,8 @@ How do you plan to scale the success of your proposal?: >-
    - Streamlining the production costs to capitalize on economies of scale.
    
    Since 2010, the success of CicLAvia has resonated not only across the region, but also throughout the country. Open streets events have taken place in many of the country’s urban and rural cities, and CicLAvia has been the national model. While CicLAvia events are often measured by the number of participants, the success of the events will be strengthened by the overall positive impacts on our quality of life. CicLAvia improves air quality and increases the benefits to the local economy. It reinforces positive change in local and regional alternative transportation policies, and encourages conversation in creating new open space. And CicLAvia brings communities closer and makes people more connected to each other.
+cached_project_image: >-
+  /assets/images/projects/2015/ciclavia-the-route-to-las-future/img.youtube.com/vi/1oq_kmWPaYk/maxresdefault.jpg
 youtube_video_identifier: 1oq_kmWPaYk
 organization_name: CicLAvia
 

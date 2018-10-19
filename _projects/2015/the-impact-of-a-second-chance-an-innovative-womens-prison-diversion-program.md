@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Email from LA2050
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Prototypes
   Organization(s) mailing address(es): "1000 N. Alameda Street, Suite 390\r\nLos Angeles, CA 90012"
   Organization(s) website(s): www.prototypes.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -332,6 +332,8 @@ How do you plan to scale the success of your proposal?: >-
   WRC. Reducing mental health barriers, along with advocating for treatment for
   formerly incarcerated women among elected officials, will provide Prototypes
   the leverage to scale the Second Chance Women’s Reentry Program.
+cached_project_image: >-
+  /assets/images/projects/2015/the-impact-of-a-second-chance-an-innovative-womens-prison-diversion-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385.jpg
 maker_image_id: '23741'
 maker_image_file_name: 2013_Pomona_0649.JPG
 organization_name: Prototypes

@@ -163,6 +163,8 @@ project_proposal_best_place: >-
   newspapers, blogs and other media sources to raise awareness of this issue.
   This will create community interest in investing further in food resource
   development in the future.
+cached_project_image: >-
+  /assets/images/projects/2016/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
 organization_name: Doctors for America
 organization_website: www.drsforamerica.org
 

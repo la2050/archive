@@ -18,8 +18,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Colleague
-  'City, State': 'Culver City, CA'
   Organization(s) name(s): Haunted Play LLC
   Organization(s) mailing address(es): "4642 Maytime Lane\r\nCulver City, CA 90230"
   Organization(s) website(s): www.enterdelusion.com
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Culver City, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -195,6 +195,8 @@ How do you plan to scale the success of your proposal?: >-
   keep her eye on the budget always and make sure we outsource when needed. My
   gut in leading this ship for 4 years have done well for us so far....so I'll
   be keeping that up as well!
+cached_project_image: >-
+  /assets/images/projects/2015/interactive-live-theatre-where-the-audience-moves-through-the-story-and-plays-their-part-in-the-tale/img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg
 youtube_video_identifier: wGHuWyQEQIU
 organization_name: Haunted Play LLC
 

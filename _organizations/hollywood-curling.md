@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '5102134'
 youtube_video_identifier: 3ceZFpvVVU0
+cached_project_image: >-
+  /assets/images/organizations/hollywood-curling/img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg
 
 ---

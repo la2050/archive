@@ -36,5 +36,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102103'
+cached_project_image: >-
+  /assets/images/organizations/revolutionize-hollywood/activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
 
 ---

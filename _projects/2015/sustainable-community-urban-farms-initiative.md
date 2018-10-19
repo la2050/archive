@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - Central LA
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: word of mouth
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): >-
     Green Institute for Village Empowerment (GIVE) program at Tom Bradley Legacy
     Foundation at UCLA, L.A. Urban Farms, Union Rescue Mission, Union Church
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
   own businesses selling their produce and receive micro-loans to start their
   farms. Finally, other cities have also expressed interest in our pilot program
   and are looking to collaborate and build on our program.
+cached_project_image: >-
+  /assets/images/projects/2015/sustainable-community-urban-farms-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23569%252Fdisplay%252Ftowergarden.jpg=c570x385.jpg
 maker_image_id: '23569'
 maker_image_file_name: towergarden.jpg
 organization_name: >-

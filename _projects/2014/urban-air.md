@@ -14,8 +14,8 @@ project_image: >-
 project_video: ''
 project_areas: []
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'TOPANGA CYN, CA'
-  org_name: URBAN AIR
   org_website: WWW.URBANAIR.IS
   org_twitter: '@URBANAIRPROJECT'
   org_facebook: www.facebook.com/UrbanAirProject
@@ -78,7 +78,7 @@ maker_answers:
     green apirations and policies, and be the first in the worl to launch a
     global program.
   partners_collaboration: "The following collaborators are all confirmed and been on board 6 months to 2 years\r\n\r\nthe urban air team\r\nUrban Air is conceived, designed, and will be produced by Stephen Glassman Studio.  Urban Air has rapidly expanded from a solo artist’s vision into a work of scale and impact, and has inspired key vanguard professionals in related fields — engineers, technologists, media professionals, environmental and industry figures — all collaborating to realize not only the prototype Urban Air installation in Los Angeles, but to craft a viable, scalable system that will allow Urban Air billboard gardens to be elevated in dense urban environments around the globe. \r\nThe Urban Air executive team includes artist and designer Stephen Glassman, who has created socially-relevant large-scale artworks around the world, Supervising Producer Steve Reiss, an environmentalist and award winning producer who has collaborated with a long roster of Hollywood A-list talent across all media, and Aaron Slavin, a multi-faceted creative producer who specializes in grand-scale festivals — especially site-specific multi-media works with an art/science focus that impact urban civic spaces.  \r\n\r\nkey collaborators and technologies\L:\r\n\r\nstephen glassman studios (Design and Production)\r\n\r\nSHFT.com - Adrian Grenier and Peter Glatzer, producers\L\r\n\r\nbeaco2n climate project (U.C. Berkeley Atmospheric Science Center)\r\n\r\narup (Engineering / Environmental Consultants)\r\n\r\n \L4 ton dream  (Computer Graphics / Pre-visualization)\r\n\r\nsummit media (U.S. Outdoor Advertising)\r\n\r\nrmg, inc. (Outdoor Advertising Design and Fabrication)\r\n\r\n\Lmcdaniel, inc. (Fabrication and Installation)\t\r\n\L\r\natomizing systems, inc. (Cold Fog Hydration)\r\n\r\n\Lamerican bamboo society (ABS — National Bamboo Supply Network)\_\r\n\r\nDeborah Marton – NY Restoration Project\r\n(urban planning / sustainability)\r\n\r\nSophie Wong – Marketing Arm\r\nMarketing and promotion\r\n\r\n\r\n"
-  metrics_create_employment: '1'
+  org_name: URBAN AIR
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -209,6 +209,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Sophie Wong – Marketing Arm
    Marketing and promotion
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/urban-air/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385.jpg
 maker_image_id: '21229'
 maker_image_file_name: urban_air.jpg
 

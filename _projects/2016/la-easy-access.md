@@ -125,6 +125,8 @@ project_proposal_best_place: >-
   The public transport application of the platform has been used in 5+ cities.
   Among them is the city of Pune, India, which serves to showcase the
   feasibility of the current proposal (see the video).
+cached_project_image: >-
+  /assets/images/projects/2016/la-easy-access/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8010774165741-team91.png
 organization_name: Habidatum
 organization_website: habidatum.com
 

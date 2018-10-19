@@ -47,5 +47,7 @@ aggregated:
   project_ids:
     - '3102129'
 youtube_video_identifier: EpR6dHeaGIQ
+cached_project_image: >-
+  /assets/images/organizations/food-forward/img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg
 
 ---

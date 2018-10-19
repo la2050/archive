@@ -19,8 +19,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Media Done Responsibly c/o Pasadena Arts Council
   Organization(s) mailing address(es): '65 S. Grand Ave, Pasadena CA 90101'
   Organization(s) website(s): www.mediadoneresponsibly.org
   Organization(s) twitter handle(s): www.twitter.com/mediadoneresp
@@ -61,7 +61,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Media Done Responsibly c/o Pasadena Arts Council
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -167,6 +167,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/linking-middle-high-school-college-students-through-humanity-centered-media/img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg
 youtube_video_identifier: H107Gy4bTFs
 organization_name: Media Done Responsibly c/o Pasadena Arts Council
 

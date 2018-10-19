@@ -53,5 +53,7 @@ aggregated:
     - '3102120'
 maker_image_file_name: FB_Cover_photo.jpg
 maker_image_id: '16503'
+cached_project_image: >-
+  /assets/images/organizations/education-pioneers/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16503%252Fdisplay%252FFB_Cover_photo.jpg=c570x385.jpg
 
 ---

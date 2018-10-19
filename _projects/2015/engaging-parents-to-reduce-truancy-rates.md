@@ -21,8 +21,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Para Los Niños
   Organization(s) mailing address(es): "500 Lucas Ave. \r\nLos Angeles, CA 90017"
   Organization(s) website(s): www.paralosninos.org
   Organization(s) twitter handle(s): www.twitter.com/paralosninosorg
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Para Los Niños
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -202,6 +202,8 @@ How do you plan to scale the success of your proposal?: >-
    Beyond our Para Los Ninos education sites, best practices of our approach can be shared with other schools in Los Angeles.
    
    Because Attorney General Kamala D. Harris has made truancy a priority issue since her time as San Francisco’s District Attorney, and the mandate to address pupil engagement is a key state priority that must be included in all Local Control Accountability Plans (LCAPs), we can share our best practices of this approach with schools outside of our Para Los Ninos education sites. The parent engagement and leadership networks that will be developed throughout the neighborhoods where our families live will facilitate broad communication of success stories that can be accessed at other schools in those communities.
+cached_project_image: >-
+  /assets/images/projects/2015/engaging-parents-to-reduce-truancy-rates/img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg
 youtube_video_identifier: 0MYV-P-oK80
 organization_name: Para Los Niños
 

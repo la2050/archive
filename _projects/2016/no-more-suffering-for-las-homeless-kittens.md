@@ -82,6 +82,8 @@ project_proposal_best_place: >-
   will allow current, limited resources to be reallocated to other programs for
   animals, including low cost medical support and adoption efforts though animal
   control and volunteer groups.
+cached_project_image: >-
+  /assets/images/projects/2016/no-more-suffering-for-las-homeless-kittens/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7781213474741-team90.JPG
 organization_name: Pretty Good Cat
 organization_website: Prettygoodcat.com
 

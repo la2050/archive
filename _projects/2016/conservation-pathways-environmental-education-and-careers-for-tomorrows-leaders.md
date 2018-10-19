@@ -137,6 +137,8 @@ project_proposal_best_place: >-
   California Conservation mobile app that youth and families can install on
   their telephones to deepen their environmental and conservation learning. A
   10-passenger van will provide increased access to Conservation Pathways.
+cached_project_image: >-
+  /assets/images/projects/2016/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
 organization_name: Helpline Youth Counseling (HYC)
 organization_website: hycinc.org
 

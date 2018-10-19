@@ -39,5 +39,7 @@ aggregated:
     - '8102020'
     - '6102035'
     - '4102126'
+cached_project_image: >-
+  /assets/images/organizations/childrens-action-network/activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
 
 ---

@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102239'
+cached_project_image: >-
+  /assets/images/organizations/tampon-tribe/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
 
 ---

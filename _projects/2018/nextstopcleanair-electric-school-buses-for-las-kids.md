@@ -162,6 +162,8 @@ Where do you hope this activation or your organization will be in five years?: >
   region’s trucks, street sweepers, garbage trucks, and more, all the while
   using those policies to create the good jobs LA County needs to support
   historically excluded communities access good careers.
+cached_project_image: >-
+  /assets/images/projects/2018/nextstopcleanair-electric-school-buses-for-las-kids/pbs.twimg.com/media/DVDZmHFU0AAt4tr.jpg:large.jpg
 organization_name: Environment California Research & Policy Center
 
 ---

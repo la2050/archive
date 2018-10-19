@@ -17,8 +17,8 @@ project_areas:
   - EAST LA
   - LA COUNTY
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: Long Beach CA
-  org_name: Green Education Inc.
   org_website: www.greeneducationinc.org
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/GreenEducationInc?ref_type=bookmark'
@@ -59,7 +59,7 @@ maker_answers:
   impact_live: "Imagine an entire block of homes in a residential neighborhood retrofitted to ensure healthy indoor air quality, helping to reduce the number of  asthma/upper respiratory cases experienced by children and adults each year. Picture the front and back yard of these homes landscaped with either drought tolerant vegetation or food producing plants, being watered with recycled water from gray water systems. And picture neighbors engaged and working with other neighbors to grow fresh food, trade their harvest with other neighbors and help grow a community garden nearby.\r\n\r\nWe will accomplish this goal block by block, family by family, and in one underserved community after the next, until entire LA neighborhoods are transformed into \"Green The Block\" communities. "
   who_benefit: "Low-income families/homeowners not able to complete energy & health related improvements to their homes\r\nChildren and adults suffering from asthma/upper respiratory diseases\r\nFamilies living in food desert areas and/or unable to afford quality food choices.\r\nLong term unemployed workers, including veterans, working mothers, displaced workers, youth at risk, foster youth and re-entry communities."
   partners_collaboration: "Long Beach Fresh - confirmed\r\nFoodscape - confirmed\r\nBuilding Healthy Communities - confirmed\r\nSpring St. Farm - confirmed\r\nLong Beach Office of Sustainability - confirmed\r\nGrant & Associates Energy Audits- confirmed\r\n\r\nGreen Education Inc has worked with all of the above partners on outreach programs via Building Healthy Communities (BHC) Neighborhood Workgroup for the past 3-4 years. We have implemented education programs re: energy efficiency, renewable energy, urban/community farming in the BHC service area in an effort to engage and educate low-income community members about the benefits of green & sustainable lifestyles.\r\n\r\n3 factors critical to success:\r\nJoint outreach and education effort in target neighborhood to ensure Green The Block initiative is clearly described, behavioral change is achieved, new behaviors are established, reinforced, rewarded and sustainable within each family household.\r\nClear expectations established for each partner organization re: roles, tasks, deliverables, timelines/due dates, goals and budget.\r\nOngoing communication & reporting process is established for project members to ensure all project components are planned, designed, launched and evaluated on a regular basis.\r\n\r\n\r\n"
-  metrics_live_healthyfood: '1'
+  org_name: Green Education Inc.
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '1'
@@ -157,6 +157,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    (2) the diversity of those we collaborate with is also imperative for creating the greatest impact through our program. If we had volunteers but no food, or food but no sense of the comprehensive needs and wishes of our families, it would be impossible to serve people in the way that we do; 
    (3) The shared heart-centered philosophy of serving without judgment or obligation is imperative to our success.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/green-the-block/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22790%252Fdisplay%252FGEInc_Logo-brown_3-12.jpg=c570x385.jpg
 maker_image_id: '22790'
 maker_image_file_name: GEInc_Logo-brown_3-12.jpg
 

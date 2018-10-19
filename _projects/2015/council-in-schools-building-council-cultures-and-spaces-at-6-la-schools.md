@@ -21,8 +21,8 @@ project_areas:
   - South LA
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): The Ojai Foundation's Council in Schools
   Organization(s) mailing address(es): "P.O. Box 999\r\nOjai, California 93024"
   Organization(s) website(s): www.councilinschools.org
   Organization(s) twitter handle(s): N/A
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): The Ojai Foundation's Council in Schools
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -233,6 +233,8 @@ How do you plan to scale the success of your proposal?: >-
   grows and the practice spreads.
    We are also at a time in our cultural development when the power and value of circle practices are being remembered. With the growth of the restorative justice movement, there is growing demand for the work we do. We expect the success of this project will create more demand for our services. The Bright Star organization is doing amazing work with severely underserved populations in some of LA's most difficult communities, and council is playing a big part in their success. Opportunities to work with other charter schools are and will continue emerging from our work with Bright Star. 
    The council space we are building at Gardner will bring additional attention to our work and additional opportunities to work with other schools, and to collaborate with other artists and architects interested in creating spaces for circle conversations.
+cached_project_image: >-
+  /assets/images/projects/2015/council-in-schools-building-council-cultures-and-spaces-at-6-la-schools/img.youtube.com/vi/fKSh73dO49s/maxresdefault.jpg
 youtube_video_identifier: fKSh73dO49s
 organization_name: The Ojai Foundation's Council in Schools
 

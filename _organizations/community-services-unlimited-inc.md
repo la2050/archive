@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '4102019'
 youtube_video_identifier: CQsypZUTmbo
+cached_project_image: >-
+  /assets/images/organizations/community-services-unlimited-inc/img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg
 
 ---

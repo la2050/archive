@@ -30,5 +30,7 @@ aggregated:
     - '2018'
   project_ids:
     - '4102106'
+cached_project_image: >-
+  /assets/images/organizations/data-360/activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg
 
 ---

@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '4102038'
 youtube_video_identifier: 5fr_Qf0ZQ7M
+cached_project_image: >-
+  /assets/images/organizations/friends-of-the-los-angeles-river/img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg
 
 ---

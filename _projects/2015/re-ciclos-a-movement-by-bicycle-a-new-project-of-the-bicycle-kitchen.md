@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/a-kQryxgF4M'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: A community member of the Los Angeles Eco Village
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Re:Ciclos and Bicycle Kitchen'
   Organization(s) mailing address(es): "4429 Fountain Ave \r\nLos Angeles, CA 90029\r\n"
   Organization(s) website(s): 'http://reciclos.org'
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -258,6 +258,8 @@ How do you plan to scale the success of your proposal?: >-
    Lastly, Re:Ciclos will be providing certificates of completion for participants fabricating cargo bicycles. Moreover, the project invites participants to continue involvement with the institution as mentors and to increase the scope of what the project delivers.
    
    Los Angeles is an amplifier of content. What succeeds in L.A. has the potential to influence what succeeds in other parts of the world. Re:Ciclos delivering alternative, affordable, functional, clean and accessible new modes of transport in this great city has the potential to foment this on a global scale, such as was seen with private, motorized automobiles a century ago. Increasing cargo bicycle presence in Los Angeles establishes a new scale: one that looks at the problem of mobility today and begins the healing process for a future that can no longer support its current transportation paradigm.
+cached_project_image: >-
+  /assets/images/projects/2015/re-ciclos-a-movement-by-bicycle-a-new-project-of-the-bicycle-kitchen/img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg
 youtube_video_identifier: a-kQryxgF4M
 organization_name: 'Re:Ciclos and Bicycle Kitchen'
 

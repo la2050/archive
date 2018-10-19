@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/0kAkWtDm2X0'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): LIFT-LA
   Organization(s) mailing address(es): '1910 Magnolia Avenue, Los Angeles, CA 90007'
   Organization(s) website(s): www.liftcommunities.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: Dual generation programmatic refocus with new Member2Member pilot.
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -306,6 +306,8 @@ How do you plan to scale the success of your proposal?: >-
    LIFT engages its cohort of advocates (mainly college students) in direct service every year. Simultaneously, the LIFT experience also pushes our advocates to grapple with the US’s most challenging issues related to poverty, race, inequality, and policy. Many of our advocates are transformed by the LIFT experience and continue to dedicate themselves to fighting poverty, whether through their chosen career, serving on nonprofit boards, or advocating in their communities. 
    
    We recognize that by delivering excellent outcomes, we can become an influential demonstration model that speaks to what works. From this platform we can persuade leaders across the philanthropic, for-profit, nonprofit, and government sectors to adapt best practices that can interrupt the cycle of poverty at scale and create a brighter future for the next generation of children.
+cached_project_image: >-
+  /assets/images/projects/2015/lift-la-member2member-project/img.youtube.com/vi/0kAkWtDm2X0/maxresdefault.jpg
 youtube_video_identifier: 0kAkWtDm2X0
 organization_name: LIFT-LA
 

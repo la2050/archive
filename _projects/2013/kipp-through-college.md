@@ -25,8 +25,8 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385
 maker_answers:
+  success: "A key ingredient to KIPP LA’s success is our commitment to data-driven decision-making and transparency. The KTC team regularly evaluates both quantitative and qualitative data to ensure that we are having the greatest impact possible on our students’ lives. This includes the number of students who matriculate to high-performing high schools, the number of students who participate in KTC support services such as financial aid assistance and counseling, and the number of students who enter, persist in, and graduate from selective colleges and universities.</br></br>In the coming year, KIPP LA and KTC will strive to meet the following goals and objectives:</br></br>\r\n•  Each year, KIPP LA’s middle schools will place 95 percent of eighth graders in college-preparatory high schools (high schools that provide college counseling for all students, offer the “A-G” courses the University of California requires, and have an Academic Performance Index score of 800+).</br>\r\n•  At least 80 percent of KIPP LA middle school alumni will enroll in college each year.</br>\r\n•  At least 10 percent of KIPP LA alumni in grades 9-12 will attend a summer or enrichment program.</br>\r\n•  At least 15 percent of KIPP LA alumni in grades 9-12 will participate in KTC enrichment programs, (such as the alumni volunteer program, internship program, job shadowing, career networking party, college partnership summer programs, college tours/fairs, and application boot camps).</br>\r\n•  At least 80 percent of KIPP LA alumni will persist in college. "
   Organization Name: KIPP LA Schools
-  website: 'http://www.kippla.org'
   Indicator: ' Education'
   brief: >-
     At KIPP LA Schools (KIPP LA), we believe that the real achievement gap is
@@ -143,7 +143,7 @@ maker_answers:
     college partnerships will identify strategies that educational institutions
     can implement to help close the achievement gap for all students of color
     and first-generation college students.
-  success: "A key ingredient to KIPP LA’s success is our commitment to data-driven decision-making and transparency. The KTC team regularly evaluates both quantitative and qualitative data to ensure that we are having the greatest impact possible on our students’ lives. This includes the number of students who matriculate to high-performing high schools, the number of students who participate in KTC support services such as financial aid assistance and counseling, and the number of students who enter, persist in, and graduate from selective colleges and universities.</br></br>In the coming year, KIPP LA and KTC will strive to meet the following goals and objectives:</br></br>\r\n•  Each year, KIPP LA’s middle schools will place 95 percent of eighth graders in college-preparatory high schools (high schools that provide college counseling for all students, offer the “A-G” courses the University of California requires, and have an Academic Performance Index score of 800+).</br>\r\n•  At least 80 percent of KIPP LA middle school alumni will enroll in college each year.</br>\r\n•  At least 10 percent of KIPP LA alumni in grades 9-12 will attend a summer or enrichment program.</br>\r\n•  At least 15 percent of KIPP LA alumni in grades 9-12 will participate in KTC enrichment programs, (such as the alumni volunteer program, internship program, job shadowing, career networking party, college partnership summer programs, college tours/fairs, and application boot camps).</br>\r\n•  At least 80 percent of KIPP LA alumni will persist in college. "
+  website: 'http://www.kippla.org'
   description1: >-
     If it were a district, KIPP LA would be the highest performing in Los
     Angeles County serving a majority of students from low-income communities. 
@@ -417,6 +417,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   one that will provide them with the best opportunities. And ultimately, all
   students will have a high quality, rigorous higher education experience and
   graduate with the degrees they need to succeed in the competitive world.
+cached_project_image: >-
+  /assets/images/projects/2013/kipp-through-college/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385.jpg
 maker_image_id: '17303'
 maker_image_file_name: KIPPThroughCollege3.jpg
 

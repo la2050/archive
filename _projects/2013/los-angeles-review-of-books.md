@@ -50,8 +50,49 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385
 maker_answers:
+  success: >-
+    There are 5 central measurements we use to assess how we are doing. (1) We
+    will measure our readership. Although our most engaged readers are in L.A.,
+    we now have readers in 150 countries and in all 50 states reading almost a
+    half million pieces a month. We hope to double that each year for the next
+    two years. Reaching those numbers would constitute success in this area. (2)
+    We will measure the diversity of our contributors. We successfully attracted
+    a wider range of writers & reviewers than any of the other most important
+    reviews of books and culture; in the VIDA survey of women’s participation in
+    book reviewing, for instance, our numbers are better, sometimes by a factor
+    of two or three, than all the major outlets except the Women’s Review of
+    Books. But we want to have much more robust representation of African
+    American, Latino/a, Asian American, Persian, and other communities. We would
+    measure our success by the rise in those numbers. (3) We will monitor our
+    influence. Already we see publishers featuring our reviews on book covers
+    and in advertisements, and see references to our pieces in NY Times, New
+    Yorker, Slate, Salon, and many other newspapers, magazines, and websites. To
+    see that increase would be a measure of our ability to impact the national
+    cultural conversation, as would higher Google rankings of our pieces, and
+    mentioned in other highly-ranked pieces. (4) We will gauge our success by
+    the support we receive. Our success so far has been made possible by
+    people’s willingness to support the project financially (as well as by their
+    willingness to volunteer their time as editors, & by their willingness to
+    donate their writing or write for a very nominal sum). Our success going
+    forward can be measured by the willingness of people to financially support
+    our project, making the other two less necessary. We have roughly doubled
+    our contributions from our 1st year to our 2nd, & we would like to double
+    again this year and next. We are starting a membership program, & the level
+    of participation in the program will be an important measure of our success,
+    as will the total dollars raised. (5) We will measure our success in terms
+    of the support we can give to others. We believe strongly that writers
+    should get paid for their work, & aim to help to reverse the damage done to
+    writers’ livelihood by the decline of print periodicals. We will consider it
+    a major success if we raise enough through gifts, grants, & auxiliary income
+    to pay writers the rates that print book reviews have traditionally paid. We
+    also would measure our success by whether we can expand our outreach in
+    community programming & educational services. We hope to produce more in the
+    way of radio programming, for instance, to bring our curriculum project to
+    more schools, & to bring the intensive editing workshops we provide our
+    interns to other high school, college students & recent graduates. If we are
+    serving a broad range of L.A. communities we will consider ourselves a
+    success.
   Organization Name: Los Angeles Review of Books
-  website: 'http://lareviewofbooks.org'
   Indicator: Arts & Cultural Vitality
   brief: >-
     We are trying to establish a major institution for cultural exchange and
@@ -156,48 +197,7 @@ maker_answers:
     universities, and literary groups around the country, co-sponsoring events,
     doing cross-promotion on our sites and in social media. We have also started
     to work with LAUSD, a pilot program at Animo Pat Brown Charter H.S.
-  success: >-
-    There are 5 central measurements we use to assess how we are doing. (1) We
-    will measure our readership. Although our most engaged readers are in L.A.,
-    we now have readers in 150 countries and in all 50 states reading almost a
-    half million pieces a month. We hope to double that each year for the next
-    two years. Reaching those numbers would constitute success in this area. (2)
-    We will measure the diversity of our contributors. We successfully attracted
-    a wider range of writers & reviewers than any of the other most important
-    reviews of books and culture; in the VIDA survey of women’s participation in
-    book reviewing, for instance, our numbers are better, sometimes by a factor
-    of two or three, than all the major outlets except the Women’s Review of
-    Books. But we want to have much more robust representation of African
-    American, Latino/a, Asian American, Persian, and other communities. We would
-    measure our success by the rise in those numbers. (3) We will monitor our
-    influence. Already we see publishers featuring our reviews on book covers
-    and in advertisements, and see references to our pieces in NY Times, New
-    Yorker, Slate, Salon, and many other newspapers, magazines, and websites. To
-    see that increase would be a measure of our ability to impact the national
-    cultural conversation, as would higher Google rankings of our pieces, and
-    mentioned in other highly-ranked pieces. (4) We will gauge our success by
-    the support we receive. Our success so far has been made possible by
-    people’s willingness to support the project financially (as well as by their
-    willingness to volunteer their time as editors, & by their willingness to
-    donate their writing or write for a very nominal sum). Our success going
-    forward can be measured by the willingness of people to financially support
-    our project, making the other two less necessary. We have roughly doubled
-    our contributions from our 1st year to our 2nd, & we would like to double
-    again this year and next. We are starting a membership program, & the level
-    of participation in the program will be an important measure of our success,
-    as will the total dollars raised. (5) We will measure our success in terms
-    of the support we can give to others. We believe strongly that writers
-    should get paid for their work, & aim to help to reverse the damage done to
-    writers’ livelihood by the decline of print periodicals. We will consider it
-    a major success if we raise enough through gifts, grants, & auxiliary income
-    to pay writers the rates that print book reviews have traditionally paid. We
-    also would measure our success by whether we can expand our outreach in
-    community programming & educational services. We hope to produce more in the
-    way of radio programming, for instance, to bring our curriculum project to
-    more schools, & to bring the intensive editing workshops we provide our
-    interns to other high school, college students & recent graduates. If we are
-    serving a broad range of L.A. communities we will consider ourselves a
-    success.
+  website: 'http://lareviewofbooks.org'
   description1: >-
     We have already partially succeeded in bringing a sense of community to the
     cultural life of L.A. in a new way. We are training a new generation in the
@@ -485,6 +485,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Los Angeles, through the vitality of its literature, arts, and culture, will
   have increased its ability to enhance human development, both in the city and
   county, and far beyond.
+cached_project_image: >-
+  /assets/images/projects/2013/los-angeles-review-of-books/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385.jpg
 maker_image_id: '22625'
 maker_image_file_name: larb_logo.jpg
 

@@ -125,6 +125,8 @@ project_proposal_best_place: >-
   hope that our project will serve as a model to other medical centers. It is in
   our vision to support future research that will advance Heart Failure
   knowledge and care.
+cached_project_image: >-
+  /assets/images/projects/2016/art-from-the-heart-an-art-and-movement-therapy-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1734618955741-team91.png
 organization_name: Relational Medicine Foundation
 organization_website: relationalmedicinefoundation.org
 

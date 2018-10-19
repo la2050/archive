@@ -34,5 +34,7 @@ aggregated:
   project_ids:
     - '5102334'
 youtube_video_identifier: 1Qmy2pX9eEo
+cached_project_image: >-
+  /assets/images/organizations/unycyn-civic-arts/img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg
 
 ---

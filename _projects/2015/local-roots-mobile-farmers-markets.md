@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Google
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Local Roots
   Organization(s) mailing address(es): '5000 Hampton Street, Vernon, CA 90058'
   Organization(s) website(s): www.localrootsfarms.com
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -308,6 +308,8 @@ How do you plan to scale the success of your proposal?: >-
   further scale the Mobile Market fleet. We also anticipate future opportunities
   to help other entrepreneurs and/or foundations leverage our farming
   technologies to replicate the model more quickly than we ourselves can scale.
+cached_project_image: >-
+  /assets/images/projects/2015/local-roots-mobile-farmers-markets/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23707%252Fdisplay%252FMobile_Market_Mock-Up.png=c570x385.png
 maker_image_id: '23707'
 maker_image_file_name: Mobile_Market_Mock-Up.png
 organization_name: Local Roots

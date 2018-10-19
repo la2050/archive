@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: 'Future of Cities: Leading in LA'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles Flag
   Organization(s) mailing address(es): 'P.O Box 661712, Los Angeles, CA 90066'
   Organization(s) website(s): www.losangelesflag.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -222,6 +222,8 @@ How do you plan to scale the success of your proposal?: >-
    The rest of the funds will be allocated on a month-to-month basis based on the conversion rates we get through the various advertising outlets. We’ll start small in advertising pockets, and determine which markets and platforms are most successful and scale our budget accordingly. 
    
    Should the city accept our proposal before our entire budget is spent, the remainder of the funds will go towards increasing enthusiasm and support for the new, redesigned LA flag!
+cached_project_image: >-
+  /assets/images/projects/2015/l-a-flag-redesign/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385.png
 maker_image_id: '23596'
 maker_image_file_name: Sky_Pic.png
 organization_name: Los Angeles Flag

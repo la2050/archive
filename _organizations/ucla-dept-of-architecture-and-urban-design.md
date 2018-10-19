@@ -48,5 +48,7 @@ aggregated:
     - '3102261'
 maker_image_file_name: HYPOPARK.jpg
 maker_image_id: '16612'
+cached_project_image: >-
+  /assets/images/organizations/ucla-dept-of-architecture-and-urban-design/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16612%252Fdisplay%252FHYPOPARK.jpg=c570x385.jpg
 
 ---

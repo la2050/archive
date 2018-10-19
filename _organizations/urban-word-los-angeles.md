@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '5102336'
 youtube_video_identifier: WendT0Sm-Tk
+cached_project_image: >-
+  /assets/images/organizations/urban-word-los-angeles/img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg
 
 ---

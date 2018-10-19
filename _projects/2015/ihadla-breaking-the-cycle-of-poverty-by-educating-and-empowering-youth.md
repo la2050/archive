@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
   Organization(s) mailing address(es): "3580 Wilshire Blvd., Suite 720\r\nLos Angeles, CA 90010"
   Organization(s) website(s): www.ihadla.org
   Organization(s) twitter handle(s): www.twitter.com/IHADLA
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -274,6 +274,8 @@ How do you plan to scale the success of your proposal?: >-
    Having shifted approximately three years ago from a sponsorship model in which a major donor or private foundation typically would agree upfront to fund an entire program, we are now focused, as mentioned above, on a more traditional fundraising model across multiple income streams. As we build our fundraising strength, it is our goal to be able to offer our unique, comprehensive, invaluable programming to more & more students each year. With this in mind, we have a strategic goal of being able to sponsor a new class of third graders every other year, working in community clusters in an effort to bring about the most positive change possible. To this effect, we hope, in the near future, to be able to establish a resource center from which we could conduct all of our programming.
    
    We aim to achieve this growth by focusing on growing our fundraising & income as well as by increasing the community partners with whom we are able to work. By growing our marketing & brand awareness, ramping up our online presence, and making ourselves known throughout LA county, we hope to increase the number of people & organizations desiring to work with us in helping to make dreams come true as we aim to raise the disadvantaged youth we serve out of poverty.
+cached_project_image: >-
+  /assets/images/projects/2015/ihadla-breaking-the-cycle-of-poverty-by-educating-and-empowering-youth/img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg
 youtube_video_identifier: QV1lB2SqWos
 organization_name: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
 

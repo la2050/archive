@@ -19,8 +19,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'Burbank, CA'
-  org_name: 'Millennial Magazine: Apps4LA'
   org_website: 'http://millennialmagazine.com'
   org_twitter: 'https://twitter.com/MillennialMagz'
   org_facebook: 'https://www.facebook.com/MillennialMagazine'
@@ -59,7 +59,7 @@ maker_answers:
   impact_create: "Los Angeles has a sluggish economy due to the loss of several major industries. Developing a strong tech industry will enable our city to thrive in the future. Each app requires a team of mobile app developers, marketers, administrators, interns and advisors that will stimulate new business opportunities. According to a recent report from the Economist, “for every one tech job that is created, four more will follow.”\r\n\r\nAs the years progress, Los Angeles county will gain a collection of practical mobile apps that address the needs of its residents while becoming a leader in digital connectivity.\r\n"
   who_benefit: "Apps4LA will CREATE:\r\n\r\n1.) jobs for local mobile app developers and marketing professionals\r\n2.) paid internships for local college students\r\n3.) useful civic apps for the residents of Los Angeles county. "
   partners_collaboration: "We have connected with and will be working with the following people and organizations...\r\n\r\nCity of LA, CIO, Peter Marx- 1st Innovations Officer for the city. Previously worked with Qualcomm and Mattel. Has great insights into digital applications and the inner workings of the city. \r\n\r\nCity of LA, Controller, Ron Galperin- Spearheading the LA open-data initiative and connecting Apps4LA with city department officials. \r\n\r\nIBM “smart city” architect, Mark Dixon- A leader in the digitizing of cities, Mark will help structure the program and serve as a Tech Advisor. \r\n\r\nDevelopment Services Director of Palo Alto, Peter Pirnejad- Currently getting his doctorate in civic app development from USC, Price School of Public Policy. He is organizing a government/academic summit to coincide with Apps4LA.\r\n\r\nLos Angeles User Experience Group-  Crystal Ehrlich, UX Consultant, will assist with event management, publicity, and volunteers from the LAUX group (over 3000 members).\r\n\r\nTechJobsLA- Noel Saw, software developer, organizes a bi-annual Tech Job Fair.\r\n   \r\nLAX Chamber of Commerce- Rachel Horning, will connect Apps4LA with local business owners for sponsorships and participation.\r\n\r\nInternships.com, Yair Riemer- Sponsor and supplier of quality interns.\r\n\r\nDogtown Media- Marc Fischer, CEO, local mobile app developer and professor at Santa Monica college will be contracted to build the selected app projects.\r\n"
-  metrics_create_employment: '1'
+  org_name: 'Millennial Magazine: Apps4LA'
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -156,6 +156,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Dogtown Media- Marc Fischer, CEO, local mobile app developer and professor at Santa Monica college will be contracted to build the selected app projects.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/apps4la-transitioning-los-angeles-into-a-smart-city/img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg
 youtube_video_identifier: Vv698CCwrt4
 
 ---

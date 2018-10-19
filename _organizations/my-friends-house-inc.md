@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102087'
+cached_project_image: >-
+  /assets/images/organizations/my-friends-house-inc/activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
 
 ---

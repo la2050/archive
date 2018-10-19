@@ -21,10 +21,10 @@ project_video: 'https://www.youtube.com/embed/uVgrIU_Bl9g'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: >-
     We applied last year & we, EEZITEC, placed as a top finalist & the
     Goldhirsch Foundation graciously provided us with office space.
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): EEZITEC
   Organization(s) mailing address(es): 830 Traction Avenue
   Organization(s) website(s): www.eezitec.com
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -234,6 +234,8 @@ How do you plan to scale the success of your proposal?: >-
   low burn rates, & we're more than 120% confident that the $100,000 grant will
   be utilized effectively in continually making LA the best place to create.
   This time, through 3D printing!
+cached_project_image: >-
+  /assets/images/projects/2015/making-the-next-generation-of-creativity-accessible-to-anyone-with-a-3d-printing-makerspace/img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg
 youtube_video_identifier: uVgrIU_Bl9g
 organization_name: EEZITEC
 

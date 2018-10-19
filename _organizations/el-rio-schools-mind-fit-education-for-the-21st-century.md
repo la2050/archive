@@ -53,5 +53,7 @@ aggregated:
     - '3102122'
 maker_image_file_name: rachelschmid.elrio.jpg
 maker_image_id: '17107'
+cached_project_image: >-
+  /assets/images/organizations/el-rio-schools-mind-fit-education-for-the-21st-century/maker.good.is/images/placeholder/idea.png
 
 ---

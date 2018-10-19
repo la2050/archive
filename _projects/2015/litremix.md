@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': Los Angeles
-  Organization(s) name(s): Artists for Literacy / LitRemix
   Organization(s) mailing address(es): "1976 La Cienega Blvd\r\n#299\r\nLos Angeles, CA 90034"
   Organization(s) website(s): litremix.com
   Organization(s) twitter handle(s): 'https://twitter.com/@litremix'
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Artists for Literacy / LitRemix
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -261,6 +261,8 @@ How do you plan to scale the success of your proposal?: >-
    While we scale our product over time, we will also focus on keeping it accessible to all students. Access to browse the platform will always be free. To fully participate, create a profile, exchange creative files – these activities will require log-in, which comes with premium access. This keeps the network safe, and enables us to curate the art as it comes in. Premium access to the network will be granted at the individual, group and district-wide levels, with associated fees subject to each context.
    
    The LitRemix vision is a fantastic mash-up of music, videos, and visual art from all over the world –celebrating some of the greatest works of both classic and modern literature.
+cached_project_image: >-
+  /assets/images/projects/2015/litremix/img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg
 youtube_video_identifier: 0EQnXawnCQk
 organization_name: Artists for Literacy / LitRemix
 

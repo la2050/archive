@@ -19,10 +19,10 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: >-
     As an applicant last year, we continued to keep ourselves informed about the
     LA2050 challenge through the year to apply again this year!
-  'City, State': 'Washington, DC'
   Organization(s) name(s): People for the American Way Foundation
   Organization(s) mailing address(es): '1101 15th Street NW #600, Washington, DC 20005'
   Organization(s) website(s): www.pfaw.org
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Washington, DC'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -281,6 +281,8 @@ How do you plan to scale the success of your proposal?: >-
   with the varied skills acquired from the FLLA-LA program.
    
    Since its inception in 2006, FLLA has launched the careers of 136 young leaders: 73 percent of FLLA graduates have gone on to hold leadership roles in nonprofits and community groups; 65 percent have increased civic participation through work on issue-based or electoral campaigns; and 20 percent have subsequently run for local elected office (59 percent of these won their races). The skills attained during the FLLA-LA will allow these young leaders to ascend to positions of influence in the community, thus allowing them to work to improve the community from within. An investment in FLLA-LA is an investment in developing local leaders in the Los Angeles community who desire to create change from within. FLLA graduates possess versatile skill sets that enable them to work in varied ways toward improving the community. Furthermore, the graduates apply these skills in their work well beyond their final moments of instruction – graduation from FLLA-LA marks the beginning of a career’s worth of civic engagement work and community enrichment.
+cached_project_image: >-
+  /assets/images/projects/2015/front-line-leaders-academy-los-angeles-pilot-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23751%252Fdisplay%252F2014_FLLA_2.JPG=c570x385.jpg
 maker_image_id: '23751'
 maker_image_file_name: 2014_FLLA_2.JPG
 organization_name: People for the American Way Foundation

@@ -124,6 +124,8 @@ project_proposal_best_place: >-
   We look to stimulate growth in the entertainment industry by connecting
   motivated and inspired entrepreneurs. Four Rings values innovation, and sees
   this network as a unique and refreshing way to support business development.
+cached_project_image: >-
+  /assets/images/projects/2016/four-rings-giving-la-a-home-to-recharge/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
 organization_name: Four Rings
 organization_website: fourrings.co
 

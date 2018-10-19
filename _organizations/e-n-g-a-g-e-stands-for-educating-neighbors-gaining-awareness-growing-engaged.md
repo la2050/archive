@@ -64,5 +64,7 @@ aggregated:
   project_ids:
     - '3102032'
 youtube_video_identifier: HtWxHzKO0zY
+cached_project_image: >-
+  /assets/images/organizations/e-n-g-a-g-e-stands-for-educating-neighbors-gaining-awareness-growing-engaged/img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg
 
 ---

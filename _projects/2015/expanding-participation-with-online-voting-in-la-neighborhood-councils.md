@@ -19,8 +19,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: I've followed LA2050 & Goldhirsh for the past couple years.
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Civic Tech USC
   Organization(s) mailing address(es): '350 S Grand Ave, Suite 3350, Los Angeles, CA 90071 '
   Organization(s) website(s): 'http://civictechusc.org/'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -215,6 +215,8 @@ How do you plan to scale the success of your proposal?: >-
   The 2016 online voting pilot is in 35 of LA's 96 neighborhood councils, and we
   will work with EmpowerLA to distribute best practices and conduct training
   with neighborhood councils if and when the pilot expands in future years.
+cached_project_image: >-
+  /assets/images/projects/2015/expanding-participation-with-online-voting-in-la-neighborhood-councils/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23887%252Fdisplay%252Fcivictechusc_neighborhood_LA2050.png=c570x385.png
 maker_image_id: '23887'
 maker_image_file_name: civictechusc_neighborhood_LA2050.png
 organization_name: Civic Tech USC

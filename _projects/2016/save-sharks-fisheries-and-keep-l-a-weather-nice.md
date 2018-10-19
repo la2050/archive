@@ -114,6 +114,8 @@ project_proposal_best_place: >-
   before taking our project national and then global.  We’ve already identified
   worldwide partners and started showing the world that Los Angeles is indeed
   the best city to CREATE!
+cached_project_image: >-
+  /assets/images/projects/2016/save-sharks-fisheries-and-keep-l-a-weather-nice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
 organization_name: El Porto Shark
 organization_website: www.elportoshark.com
 

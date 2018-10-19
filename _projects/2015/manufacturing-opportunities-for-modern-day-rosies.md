@@ -19,8 +19,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: email from LA 2050
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Los Angeles Alliance for a New Economy: Jobs to Move America'
   Organization(s) mailing address(es): "464 Lucas Ave.\r\nLos Angeles, CA90017"
   Organization(s) website(s): jobstomoveamerica.org
@@ -61,7 +61,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -222,6 +222,8 @@ How do you plan to scale the success of your proposal?: >-
    National JMA supports regional JMA coalitions in the Greater Chicago area, Sacramento & the Greater New York area. We expect to establish a presence soon in upstate New York, Minneapolis-St. Paul, & Washington State as funding becomes available. We will organize professionally curated WCB exhibits in some of these locations in partnership with the federal government & large transit agencies to seed the ground for an expansion of the larger Modern Rosies project.
    Regional transportation agencies such as LA Metro, Metrolink, Long Beach transit, California High Speed Rail and a new high speed rail line between LA and Las Vegas have projected many billions of dollars’ worth of projects for which there will be RFPs for manufacturers over the next 10-20 years. We will continue to work with these agencies to ensure that recruitment, training, hiring & support for women workers will be a priority in each of these RFPs. Overall, we believe that, with a strong program, LA can continue to attract and retain large bus, railcar and related parts factories to the LA region and create a model, modern manufacturing sector that reflects the values of inclusion and diversity that are part of the LA 2050 plan.
    While hiring and inclusion of women in major industries has been a renewed topic of conversation in major media, that discussion has primarily focused on hiring of professional women and support for women in executive positions. The fact that women are so unwelcome and excluded from LA’s heavy manufacturing workforce (where jobs tend to be better than in the growing retail, service and food processing sectors) is seldom discussed in the media or in the halls of political power. The reality is that women have to muster huge courage to apply to be welders and electricians in LA factories in the face of so much prejudice and harassment. That is why the Modern Rosies project is a crucial component of an agenda for a progressive LA future and will continue to grow in LA and around the country,
+cached_project_image: >-
+  /assets/images/projects/2015/manufacturing-opportunities-for-modern-day-rosies/img.youtube.com/vi/XYSInTxuZyU/maxresdefault.jpg
 youtube_video_identifier: XYSInTxuZyU
 organization_name: 'Los Angeles Alliance for a New Economy: Jobs to Move America'
 

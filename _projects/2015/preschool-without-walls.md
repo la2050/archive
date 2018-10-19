@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/Hey6DKTLdw8'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Wilmington, CA'
-  Organization(s) name(s): SBCC Thrive LA
   Organization(s) mailing address(es): '540 N. Marine Ave., Wilmington CA 90744'
   Organization(s) website(s): www.sbccthrivela.org
   Organization(s) twitter handle(s): www.twitter.com/sbccthrivela
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): SBCC Thrive LA
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -282,6 +282,8 @@ How do you plan to scale the success of your proposal?: >-
   community. 
    SBCC’s role as a strategic community engagement partner to First Five LA’s Best Start programs creates an opportunity for PWW to offer our place based learning model in the Best Start Communities. Created in 1998 to invest LA County’s allocation of funds from California’s Proposition 10 tobacco tax, First 5 LA is a leading early childhood advocate working collaboratively across LA County. In 2011, First Five LA created a place based strategy called Best Start working in 14 vulnerable communities across LA County. SBCC is a funded strategic community engagement partner in 13 Best Start communities operating 100 community action groups with over 1,500 residents. This strategic partnership with First 5 LA Best Start will be an asset in expanding PWW programs throughout LA County. 
    Second, SBCC will partner with other community-based organizations to work in locations outside of the 14 Best Start locations. There are hundreds of community based non-profits throughout Los Angeles County that have deep relationships with the population of families that utilizes FFN care. Moreover, many of these non-profits have a mission to support families. PWW provides these CBO's with a cost effective model to strengthen early outcomes within these communities. PWW will partner with these CBOs to provide technical assistance and support implementation. Finally, in addition to expanding on the ground programming, PWW will work with the LA County and city library system to remove barriers to “early childhood library learning” and leverage opportunities to enhance libraries as early learning centers for all children and partner with the LA County and city parks system to support “preschools in the park” bringing the best practices of place based learning to every city in LA County.
+cached_project_image: >-
+  /assets/images/projects/2015/preschool-without-walls/img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg
 youtube_video_identifier: Hey6DKTLdw8
 organization_name: SBCC Thrive LA
 

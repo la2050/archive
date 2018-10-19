@@ -130,6 +130,8 @@ Where do you hope this activation or your organization will be in five years?: >
   whenever they strike. Team Rubicon's ultimate goals are to empower volunteers
   to responsibly and cost-effectively respond to disasters, serve vulnerable
   communities affected by disasters, and create a more resilient Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2018/los-angelenos-resilient-in-the-face-of-natural-disasters/activation.la2050.org/assets/images/live/2048-wide/team-rubicon.jpg
 organization_name: Team Rubicon
 
 ---

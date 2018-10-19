@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '5102132'
 youtube_video_identifier: usGtj9dvrhA
+cached_project_image: >-
+  /assets/images/organizations/earth-protect-inc/img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg
 
 ---

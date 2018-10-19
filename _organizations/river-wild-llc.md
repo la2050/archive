@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '5102101'
 youtube_video_identifier: CTFt7gFp6BY
+cached_project_image: >-
+  /assets/images/organizations/river-wild-llc/img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg
 
 ---

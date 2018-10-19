@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/SrPeAWx2AMM'
 project_areas:
   - CENTRAL LA
 maker_answers:
+  metrics_connect_volunteerism: '1'
   city_state: 'Los Angeles, CA'
-  org_name: Los Angeles Neighborhood Land Trust
   org_website: www.lanlt.org
   org_twitter: '@LANLT'
   org_facebook: 'https://www.facebook.com/LANeighborhoodLandTrust'
@@ -80,7 +80,7 @@ maker_answers:
     we need to capitalize on this moment. We believe our project can serve as a
     catalyst to unite various efforts and turn MacArthur Park into a real
     resource that spurs local and city-wide opportunities for connection. 
-  metrics_connect_volunteerism: '1'
+  org_name: Los Angeles Neighborhood Land Trust
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'
@@ -197,6 +197,8 @@ Whom will your project benefit? Please be specific.: >-
   capitalize on this moment. We believe our project can serve as a catalyst to
   unite various efforts and turn MacArthur Park into a real resource that spurs
   local and city-wide opportunities for connection.
+cached_project_image: >-
+  /assets/images/projects/2014/meet-me-in-macarthur-park/img.youtube.com/vi/SrPeAWx2AMM/maxresdefault.jpg
 youtube_video_identifier: SrPeAWx2AMM
 
 ---

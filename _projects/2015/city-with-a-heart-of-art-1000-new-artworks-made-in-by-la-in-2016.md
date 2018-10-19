@@ -12,8 +12,8 @@ project_video: 'https://www.youtube.com/embed/jpQSRVlR_XM'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: We follow y'all on instagram & twitter!
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Heart of Art Gallery
   Organization(s) mailing address(es): "PO Box 781361, Los Angeles, CA, 90016\r\n\r\n(formerly: 1907 Rodeo Rd., Los Angeles, CA 90018)"
   Organization(s) website(s): www.heartofartgalleryla.com
@@ -56,7 +56,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -261,6 +261,8 @@ How do you plan to scale the success of your proposal?: >-
    Thank you so much for the opportunity to present ourselves to you, the grant committee. We are forever grateful to you for reading this and considering our submission.
    
    Thank you and good luck to all LA2050 Create submitters!
+cached_project_image: >-
+  /assets/images/projects/2015/city-with-a-heart-of-art-1000-new-artworks-made-in-by-la-in-2016/img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg
 youtube_video_identifier: jpQSRVlR_XM
 organization_name: Heart of Art Gallery
 

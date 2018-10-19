@@ -127,6 +127,8 @@ project_proposal_best_place: >-
   Club and Project DAD, as well as a campaign around food sovereignty. This
   year, we anticipate that students will partner with at least 15 organizations
   across LA to transform their passions into positive impact
+cached_project_image: >-
+  /assets/images/projects/2016/college-track-developing-purpose-driven-leaders-to-transform-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 organization_name: College Track
 organization_website: www.collegetrack.org
 

@@ -33,5 +33,7 @@ aggregated:
     - '4102159'
     - '3102215'
 youtube_video_identifier: nF2CnqS_6oQ
+cached_project_image: >-
+  /assets/images/organizations/peace-over-violence/img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg
 
 ---

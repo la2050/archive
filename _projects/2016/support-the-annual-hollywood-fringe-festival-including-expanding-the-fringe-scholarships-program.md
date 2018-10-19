@@ -73,6 +73,8 @@ project_proposal_best_place: >-
   effort includes expanding the marketing and communication of the program, as
   well as the hiring of a social media manager to better manage Hollywood
   Fringe’s outreach across social media platforms.
+cached_project_image: >-
+  /assets/images/projects/2016/support-the-annual-hollywood-fringe-festival-including-expanding-the-fringe-scholarships-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7523100096741-team90.jpg
 organization_name: Hollywood Fringe Festival (Hatchery Arts)
 organization_website: www.hollywoodfringe.org
 

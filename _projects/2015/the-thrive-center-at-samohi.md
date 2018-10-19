@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Email
-  'City, State': 'Santa Monica, CA'
   Organization(s) name(s): >-
     Santa Monica Cradle to Career, led by City of Santa Monica in partnership
     with SMMUSD
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Track impact
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -265,6 +265,8 @@ How do you plan to scale the success of your proposal?: >-
    The next level of scale will extend this pilot program beyond Samohi to SMMUSD’s robust school-based mental health infrastructure that provides support services for students at 4 Title 1 schools, including John Adams Middle School. Based on what we learn about growing wellbeing services at Samohi, we will be able to replicate our model throughout an existing school-based mental health service infrastructure that will reach students throughout Santa Monica’s school district.
    
    The third level will focus reach beyond Santa Monica through our established relationships with the LA Trust for Children’s Health and Alliance for School Based Health Centers. By creating an open knowledge sharing network through these partnerships, we will help disseminate The Thrive Center wellbeing services model for replication in at least 14 existing student wellness centers located in high priority areas throughout Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2015/the-thrive-center-at-samohi/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385.png
 maker_image_id: '23931'
 maker_image_file_name: wordcloud-thrivecenter.png
 organization_name: >-

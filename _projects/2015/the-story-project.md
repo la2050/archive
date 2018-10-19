@@ -17,8 +17,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Annenberg Foundation tweet
-  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): The Story Project
   Organization(s) mailing address(es): "432 S. Curson Ave. Suite 6K\r\nLos Angeles, CA 90036"
   Organization(s) website(s): www.storyproject.org
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -254,6 +254,8 @@ How do you plan to scale the success of your proposal?: >-
   project and library that would house video projects, testimonials and metrics
   that will document our successes through the years in curbing violence and
   adding value to the quality of life in these challenged communities.
+cached_project_image: >-
+  /assets/images/projects/2015/the-story-project/img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg
 youtube_video_identifier: BnbLK2sxsXI
 organization_name: The Story Project
 

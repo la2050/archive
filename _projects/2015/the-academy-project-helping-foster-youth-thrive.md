@@ -14,8 +14,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): The Academy Project (TAP)
   Organization(s) mailing address(es): "8569 Appian Way\r\nLos Angeles, CA 90046"
   Organization(s) website(s): www.theacademyproject.org
   Organization(s) twitter handle(s): 'https://twitter.com/academyproject'
@@ -54,7 +54,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): The Academy Project (TAP)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -233,6 +233,8 @@ How do you plan to scale the success of your proposal?: >-
    Many years down the line, it is our hope that The Academy Project will have taken the place of continuation schools & group homes, keeping foster youth engaged & thriving in public schools & foster family placements. 
    
    It is our belief that our greatest assets are the youth we serve & it is because of them that we will be successful & able to scale to reach more & more youth. By caring, nurturing & supporting these youth, they will no doubt thrive & continue to reach for the limitless potential that they all possess.
+cached_project_image: >-
+  /assets/images/projects/2015/the-academy-project-helping-foster-youth-thrive/img.youtube.com/vi/xbatmQQi_e4/maxresdefault.jpg
 youtube_video_identifier: xbatmQQi_e4
 organization_name: The Academy Project (TAP)
 

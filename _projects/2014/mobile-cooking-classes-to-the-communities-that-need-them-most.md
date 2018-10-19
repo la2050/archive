@@ -18,8 +18,8 @@ project_areas:
   - SOUTH LA
   - LA COUNTY
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: 'los angeles, CA'
-  org_name: Brown Paper LA
   org_website: www.brownpaperla.com
   org_twitter: www.twitter.com/brownpaperla
   org_facebook: www.facebook.com/brownpaperla
@@ -56,7 +56,7 @@ maker_answers:
   impact_live: "Many people do not prepare healthy meals at home because they believe it is expensive and time-consuming. Brown Paper LA wants to show low-income and working families that neither is the case. Making healthy food at home is easier and cheaper than they expect. \r\n\r\nTeaching these families how to create healthy recipes at home will make LA a healthy place to live today. Our recipes will be simple and easy enough to demonstrate directly from a truck, using inexpensive ingredients that can be found at a local supermarket. Further, through our partnerships with public health organizations and local vendors, communities would have access to healthy foods and health awareness that they might not otherwise have. \r\n\r\nGiving Los Angeles a broader appreciation for fresh food and cooking will make it one of the healthiest places to live in 2050. Food insecurity and lack of access are two major problems facing the city. This shouldn’t be the case, since California has some of the freshest ingredients in the world. We believe that by teaching citizens about how to prepare their food, they have a closer relationship to it and the world around them. \r\n\r\n"
   who_benefit: "These cooking classes will benefit low-income and working families who may believe that they do not have the time nor the skills to cook healthy meals for their families. \r\n\r\nWe would provide these demonstrations in areas that face food insecurity, including high concentrations of WIC and EBT usage, high rates of dietary conditions including diabetes and obesity, as well as limited access to healthy foods.\r\n\r\nBrown Paper LA wants to encourage these families to make healthier choices and show that cooking healthy meals does not have to be an expensive nor time-consuming process. Further, we want to increase availability of healthy foods by encouraging partnerships with local farmers and food vendors who could sell their goods alongside our demonstrations. \r\n\r\nBy the same token, this project would also benefit local farmers and food vendors. We anticipate that our classes and demonstrations would attract captive audiences that could be potential consumers of fresh produce and other foods. This would create new markets that they may not have anticipated and provide them an incentive to serve low-income areas.\r\n\r\n"
   partners_collaboration: "We anticipate that Brown Paper could integrate as an add-on feature to a wide range of events and community services. This project would only be as successful as the partnerships we create. \r\n\r\nStrong potential partners could include: public health outreach campaigns, low-income health clinics, local grocery stores, community gardens, food truck events, farmers markets, and community festivals. Additionally, we could provide specific programming to incorporate into nonprofit events around nutrition, such as school education series. \r\n\r\nWe would also partner with healthy food vendors -- e.g. community-supported agriculture and organic farmers -- to sell their wares alongside our demonstrations. Our demonstrations would likely generate business for these vendors and, in doing so, create a means for low-income neighborhoods to access healthy foods. \r\n"
-  metrics_live_healthyfood: '1'
+  org_name: Brown Paper LA
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'
@@ -133,6 +133,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    8) Amigos de Los Rios
    9) UCLA School of Public Health
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/mobile-cooking-classes-to-the-communities-that-need-them-most/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21775%252Fdisplay%252FIMG_20140406_135445.jpg=c570x385.jpg
 maker_image_id: '21775'
 maker_image_file_name: IMG_20140406_135445.jpg
 

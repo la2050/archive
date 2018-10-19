@@ -44,5 +44,7 @@ aggregated:
     - '5102300'
     - '4102088'
 youtube_video_identifier: YijVi1ZG5EM
+cached_project_image: >-
+  /assets/images/organizations/the-dinner-party-the-kitchen-widow-hope-after-project-first-seating/img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg
 
 ---

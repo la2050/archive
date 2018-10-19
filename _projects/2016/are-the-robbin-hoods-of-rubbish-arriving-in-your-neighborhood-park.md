@@ -80,6 +80,8 @@ project_proposal_best_place: >-
   on school-yards exclusively, it will simply be the way we identify the
   communities on our calendar. We will have Saturday and Sunday pop-up Makers
   Spaces in some of the most unlikely spots around town!
+cached_project_image: >-
+  /assets/images/projects/2016/are-the-robbin-hoods-of-rubbish-arriving-in-your-neighborhood-park/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4439940265741-team91.jpg
 organization_name: T4T.org
 organization_website: T4T.org
 

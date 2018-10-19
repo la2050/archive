@@ -37,5 +37,7 @@ aggregated:
   project_ids:
     - '3102231'
 youtube_video_identifier: QaoTDnw-Xtw
+cached_project_image: >-
+  /assets/images/organizations/sabio-enterprises-inc/img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg
 
 ---

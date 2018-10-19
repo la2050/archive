@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: 'Friend, Newsletter'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles Mayor Eric Garcetti Great Streets Initiative
   Organization(s) mailing address(es): '200 N Spring St, Suite 303, Los Angeles, CA'
   Organization(s) website(s): www.lagreatstreets.tumblr.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -152,6 +152,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/the-great-streets-challenge-making-streets-playful-public-places/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385.png
 maker_image_id: '24129'
 maker_image_file_name: Screen_Shot_2015-10-07_at_4.00.20_PM.png
 organization_name: Los Angeles Mayor Eric Garcetti Great Streets Initiative

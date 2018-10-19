@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '5102131'
 youtube_video_identifier: MIn1VBaIlrQ
+cached_project_image: >-
+  /assets/images/organizations/heart-and-soul-design-communications-center/img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg
 
 ---

@@ -69,5 +69,7 @@ aggregated:
     - '3102131'
 maker_image_file_name: FCC_logo_master_jpeg.jpg
 maker_image_id: '16488'
+cached_project_image: >-
+  /assets/images/organizations/foster-care-counts/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16488%252Fdisplay%252FFCC_logo_master_jpeg.jpg=c570x385.jpg
 
 ---

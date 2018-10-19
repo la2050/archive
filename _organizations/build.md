@@ -36,5 +36,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102023'
+cached_project_image: >-
+  /assets/images/organizations/build/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5864964105741-team90.jpg
 
 ---

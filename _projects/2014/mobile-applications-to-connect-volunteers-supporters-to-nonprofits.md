@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_volunteerism: '1'
   city_state: Santa Monica
-  org_name: PwrdBy
   org_website: www.pwrdby.com
   org_twitter: '@pwrdby'
   org_facebook: 'https://www.facebook.com/picturehealing'
@@ -83,7 +83,7 @@ maker_answers:
     beta version of the technology and they'll continue to support the platform.
     We'd also love to collaborate with all other local organizations on the
     build of the platform to suit their operational needs. 
-  metrics_connect_volunteerism: '1'
+  org_name: PwrdBy
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'
@@ -166,6 +166,8 @@ Whom will your project benefit? Please be specific.: >-
   beta version of the technology and they'll continue to support the platform.
   We'd also love to collaborate with all other local organizations on the build
   of the platform to suit their operational needs.
+cached_project_image: >-
+  /assets/images/projects/2014/mobile-applications-to-connect-volunteers-supporters-to-nonprofits/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20899%252Fdisplay%252Fgood.jpg=c570x385.jpg
 maker_image_id: '20899'
 maker_image_file_name: good.jpg
 

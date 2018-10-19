@@ -36,5 +36,7 @@ aggregated:
   project_ids:
     - '3102267'
 youtube_video_identifier: rDZ9hY7J0xQ
+cached_project_image: >-
+  /assets/images/organizations/urban-reclaim/img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg
 
 ---

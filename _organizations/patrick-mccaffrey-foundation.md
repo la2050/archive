@@ -38,5 +38,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102177'
+cached_project_image: >-
+  /assets/images/organizations/patrick-mccaffrey-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
 
 ---

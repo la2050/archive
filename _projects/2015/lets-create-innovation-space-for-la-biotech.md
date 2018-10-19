@@ -14,8 +14,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: We participated in LA2050 challenge in 2014
-  'City, State': 'Monrovia, CA'
   Organization(s) name(s): Lab Launch
   Organization(s) mailing address(es): '605 East Huntington Drive, #103, Monrovia, CA 91016'
   Organization(s) website(s): www.lablaunch.org
@@ -60,7 +60,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Monrovia, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -219,6 +219,8 @@ How do you plan to scale the success of your proposal?: >-
    Once businesses have found a place to start up and develop their technologies through a Lab Launch incubator, they will soon need both larger facilities to accommodate their continued growth, as well as funding to commercialize and scale their products. With our partners in the public and private sectors, we intend to create a network of innovation spaces that will serve growing biotech companies until they are successful enough to become stand-alone operations. Examples include scalable facilities where growing companies can rent individual research and development suites, as well as facilities to accommodate commercial business acceleration programs that can help move startups to the marketplace more efficiently. Additionally, we will partner with investors and venture capital to create dedicated biotech investment fund opportunities that will provide financial support to promising startups that use our facilities. 
    
    We believe that the path to a prosperous and thriving economy for the 21st Century is through supporting innovative new businesses that will create the technologies of tomorrow. By enabling these groundbreaking companies to start up, grow and thrive here, they will in turn create thousands of quality jobs across the region, supporting a thriving middle class for the Los Angeles area of 2050.
+cached_project_image: >-
+  /assets/images/projects/2015/lets-create-innovation-space-for-la-biotech/img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg
 youtube_video_identifier: wZGBfT2_pi4
 organization_name: Lab Launch
 

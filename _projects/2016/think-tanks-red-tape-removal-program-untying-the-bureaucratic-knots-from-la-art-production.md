@@ -130,6 +130,8 @@ project_proposal_best_place: >-
   vacant sprawl – and turns it into our biggest strength. Demystifying the
   permitting process will add more usable and informal spaces for PLAY while
   increasing the cultural economy for stakeholders.
+cached_project_image: >-
+  /assets/images/projects/2016/think-tanks-red-tape-removal-program-untying-the-bureaucratic-knots-from-la-art-production/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9859494345741-team91.jpg
 organization_name: Think Tank Productions
 organization_website: thinktank.gallery
 

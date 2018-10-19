@@ -35,5 +35,7 @@ aggregated:
   project_ids:
     - '5102333'
 youtube_video_identifier: q4McatdcN78
+cached_project_image: >-
+  /assets/images/organizations/unite-la/img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg
 
 ---

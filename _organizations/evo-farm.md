@@ -63,5 +63,7 @@ aggregated:
     - '3102040'
 maker_image_file_name: vertical_AP_kit_3.jpg
 maker_image_id: '16774'
+cached_project_image: >-
+  /assets/images/organizations/evo-farm/maker.good.is/images/placeholder/idea.png
 
 ---

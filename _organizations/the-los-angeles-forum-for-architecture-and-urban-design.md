@@ -29,5 +29,7 @@ aggregated:
     - '4102172'
     - '3102186'
 youtube_video_identifier: tgVu1wy15RQ
+cached_project_image: >-
+  /assets/images/organizations/the-los-angeles-forum-for-architecture-and-urban-design/img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg
 
 ---

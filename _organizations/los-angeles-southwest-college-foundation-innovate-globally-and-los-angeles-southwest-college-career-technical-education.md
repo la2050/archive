@@ -39,5 +39,7 @@ aggregated:
     - '5102196'
 maker_image_file_name: codetechiq.jpg
 maker_image_id: '24010'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-southwest-college-foundation-innovate-globally-and-los-angeles-southwest-college-career-technical-education/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24010%252Fdisplay%252Fcodetechiq.jpg=c570x385.jpg
 
 ---

@@ -20,8 +20,8 @@ project_areas:
   - Central LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): MentorMint
   Organization(s) mailing address(es): "3502 Watt Way, ASC 103 (University of Southern California, Annenberg Innovation Lab)\r\nLos Angeles, CA 90089"
   Organization(s) website(s): www.MentorMint.com
   Organization(s) twitter handle(s): www.twitter.com/MentorMint
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): MentorMint
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '1'
@@ -234,6 +234,8 @@ How do you plan to scale the success of your proposal?: |-
    -Partner with after school programs
    -Draw from the own LA community of student leaders to act as ambassadors to drive growth throughout their own peers also generating organic growth
    -Articles and publications that can be spread through various social media channels
+cached_project_image: >-
+  /assets/images/projects/2015/lifelong-mentoring-for-all/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23218%252Fdisplay%252FCabrillo_High_School_Campus.JPG=c570x385.jpg
 maker_image_id: '23218'
 maker_image_file_name: Cabrillo_High_School_Campus.JPG
 organization_name: MentorMint

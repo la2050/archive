@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102152'
+cached_project_image: >-
+  /assets/images/organizations/make-music-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 
 ---

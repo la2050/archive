@@ -130,6 +130,8 @@ Where do you hope this activation or your organization will be in five years?: >
   developed deeper connections and those that lived there and have moved on will
   carry with them the sense that community can be created, even in places where
   it might seem difficult.
+cached_project_image: >-
+  /assets/images/projects/2018/the-blockmobile-creating-connections-block-by-block/activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
 organization_name: 'City Impact Lab, powered by Stratiscope'
 
 ---

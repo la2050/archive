@@ -14,8 +14,8 @@ project_areas:
   - Westside
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'The Love Story and The Love Story Media, Inc. '
   Organization(s) mailing address(es): "12575 Beatrice St. \r\nLos Angeles, CA 90066"
   Organization(s) website(s): www.thelovestory.org
@@ -59,7 +59,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: Produce and distribute the documentary journals to college campuses
@@ -207,6 +207,8 @@ How do you plan to scale the success of your proposal?: >-
   production expansion. 
    
    We plan on sustaining our non-profit educational programs through the registrations and online memberships, crowdfunding, grants and private and public donations.
+cached_project_image: >-
+  /assets/images/projects/2015/the-love-story/img.youtube.com/vi/2U1i7uKpy8Y/hqdefault.jpg
 youtube_video_identifier: 2U1i7uKpy8Y
 organization_name: 'The Love Story and The Love Story Media, Inc. '
 

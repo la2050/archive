@@ -19,8 +19,8 @@ project_areas:
   - SFV
   - WESTSIDE
 maker_answers:
+  collaboration: "Without a budget, we have managed to work with five teachers at five different schools on a very limited basis over the past three years.  Four of these five are confirmed collaborators (one of the five will move to a more well-equipped school where she may no longer require our services).  This grant would empower us to increase our impact with our confirmed collaborators into greater significance for their students.  The grant would also allow us increase the number of our collaborators by triple or more.\r\n\r\nEach collaborator brings two things to our project:  first, each brings their own influence and responsibility over the science education of over one hundred students annually; second, each brings their own expertise and energy in hands-on science education, which we can share with other collaborators.\r\n\r\nThis is an annotated list of three critical factors to our collaboration.\r\n1.  The collaborator's personal professional interest and commitment to working with us:  hands-on science activities are not necessarily part of a teacher's job obligations, and there is often extra time and effort involved up front; we can therefore only work with teachers who have a strong interest in engaging their students in this way.\r\n2.  The collaborator's particular needs:  we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.\r\n3.  The collaborator's accessibility:  we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.   \r\n"
   about_you: 'Los Angeles, CA'
-  org_name: Learning Equipment Supply Service
   org_website: learnmorewithless.org
   org_twitter: '@learnmorewithus'
   org_facebook: www.facebook.com/learningequipment
@@ -63,7 +63,7 @@ maker_answers:
     Our project will benefit students at fifteen or more Title I LA public
     schools; thus, the specific LA population that will benefit from our work is
     the LA population of lowest economic means.
-  collaboration: "Without a budget, we have managed to work with five teachers at five different schools on a very limited basis over the past three years.  Four of these five are confirmed collaborators (one of the five will move to a more well-equipped school where she may no longer require our services).  This grant would empower us to increase our impact with our confirmed collaborators into greater significance for their students.  The grant would also allow us increase the number of our collaborators by triple or more.\r\n\r\nEach collaborator brings two things to our project:  first, each brings their own influence and responsibility over the science education of over one hundred students annually; second, each brings their own expertise and energy in hands-on science education, which we can share with other collaborators.\r\n\r\nThis is an annotated list of three critical factors to our collaboration.\r\n1.  The collaborator's personal professional interest and commitment to working with us:  hands-on science activities are not necessarily part of a teacher's job obligations, and there is often extra time and effort involved up front; we can therefore only work with teachers who have a strong interest in engaging their students in this way.\r\n2.  The collaborator's particular needs:  we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.\r\n3.  The collaborator's accessibility:  we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.   \r\n"
+  org_name: Learning Equipment Supply Service
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '0'
@@ -139,6 +139,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. The collaborator's particular needs: we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.
    3. The collaborator's accessibility: we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/lab-equipment-access-for-la-science-teachers/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21591%252Fdisplay%252Fless.png=c570x385.png
 maker_image_id: '21591'
 maker_image_file_name: less.png
 

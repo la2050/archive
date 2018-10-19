@@ -121,6 +121,8 @@ project_proposal_best_place: >-
   initiatives they will lead on their campus to raise college awareness,
   offering opportunities for both leadership development and a wider project
   scope.
+cached_project_image: >-
+  /assets/images/projects/2016/collegesquad-promesa-boyle-heights-peer-mentor-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
 organization_name: Proyecto Pastoral
 organization_website: proyectopastoral.org
 

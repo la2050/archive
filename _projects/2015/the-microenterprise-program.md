@@ -18,8 +18,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: friend
-  'City, State': 'Northridge, Ca'
   Organization(s) name(s): Microenterprise.org
   Organization(s) mailing address(es): '19350 Business Center Drive, #110 Northridge, Ca 91324'
   Organization(s) website(s): www.microenterprise.org
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Northridge, Ca'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -252,6 +252,8 @@ How do you plan to scale the success of your proposal?: >-
   success has been small so far. With this grant we will be able to prove it on
   a larger scale and then be ready to implement it in other areas of LA County
   and other cities across the nation
+cached_project_image: >-
+  /assets/images/projects/2015/the-microenterprise-program/img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg
 youtube_video_identifier: 0qhd1kRJ698
 organization_name: Microenterprise.org
 

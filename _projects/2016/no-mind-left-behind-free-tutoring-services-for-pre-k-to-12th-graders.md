@@ -144,6 +144,8 @@ project_proposal_best_place: >-
   programs that improve our children’s lives by working hand in hand with
   teachers on a consistent basis, with ultimate efforts to build a solidly
   structured team focused on uplifting our youth.
+cached_project_image: >-
+  /assets/images/projects/2016/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
 organization_name: I'm A Movement Not A Monument
 organization_website: www.imamovement.org
 

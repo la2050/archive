@@ -34,5 +34,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102139'
+cached_project_image: >-
+  /assets/images/organizations/world-harvest-charities-family-services/activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
 
 ---

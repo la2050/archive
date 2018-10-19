@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_healthyfood: '0'
   city_state: Los Angeles
-  org_name: UCLA
   org_website: www.ucla.edu
   org_twitter: 'https://twitter.com/UCLA'
   org_facebook: 'https://www.facebook.com/uclabruins'
@@ -77,7 +77,7 @@ maker_answers:
   partners_collaboration: >-
     We don't have any outside collaborators but several researchers at UCLA are
     part of the MyAir LA team. 
-  metrics_live_healthyfood: '0'
+  org_name: UCLA
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'
@@ -184,6 +184,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    UCLA Life Sciences Division undergraduate students in conjunction with the School of Medicine and local fitness trainers will help develop multiple healthy dietary regiments based on user profile and needs. 
    UCLA Business School undergraduate students and graduate students will seek to further establish connections with local and corporate businesses to provide incentives for users and rewards for those that reach their target goal/metric such as weight loss, miles walked than driven, etc.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/mapping-los-angeles-air-pollution-through-a-mobile-application-to-create-awareness-and-engagement/img.youtube.com/vi/hhGzboSQL6A/maxresdefault.jpg
 youtube_video_identifier: hhGzboSQL6A
 
 ---

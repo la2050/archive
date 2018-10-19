@@ -133,6 +133,8 @@ project_proposal_best_place: >-
   (3) Support and grow entrepreneurial enterprises contributing to neighborhood
   cultural vibrancy. The goal will be to assist these businesses with access to
   capital, information, larger markets and technical assistance.
+cached_project_image: >-
+  /assets/images/projects/2016/preserving-las-cultural-diversity/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
 organization_name: Los Angeles LISC
 organization_website: www.lisc.org/los_angeles
 

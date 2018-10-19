@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/s-SSOCwgWEs'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: mujeres de la tierra
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Siqueiros Foundation of the Arts '
   Organization(s) mailing address(es): "2631 1/2 Cullen Street \r\nLos Angeles, CA 90034"
   Organization(s) website(s): 'siqueirosfoundatio.wix.com/sfota#!join/cihc'
@@ -64,7 +64,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -191,6 +191,8 @@ How do you plan to scale the success of your proposal?: >-
   in the accomplishment of a meaningful neighborhood mural project. The program
   will provide a template for the community to go on an create more public art
   projects.
+cached_project_image: >-
+  /assets/images/projects/2015/paint-to-succeed/img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg
 youtube_video_identifier: s-SSOCwgWEs
 organization_name: 'Siqueiros Foundation of the Arts '
 

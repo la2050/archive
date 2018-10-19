@@ -52,5 +52,7 @@ aggregated:
     - '2013'
   project_ids:
     - '3102074'
+cached_project_image: >-
+  /assets/images/organizations/civic-projects/maker.good.is/images/placeholder/idea.png
 
 ---

@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: volunteer
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): L.A. Works
   Organization(s) mailing address(es): '570 West Avenue 26, Suite 400, Los Angeles, CA 90065'
   Organization(s) website(s): www.LAWorks.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -212,6 +212,8 @@ How do you plan to scale the success of your proposal?: >-
   – from social media to community connections. 
    
    The Managed Project program is designed to scale. We have a trained volunteer leader who is assisting with the training of additional leaders and are currently recruiting to identify a volunteer to assist with recruiting additional volunteer leaders from within our own cadre of volunteer participants. Once the volunteer leader is in place and trained on our volunteer database system, there is minimal management time needed to oversee this program on a daily basis.
+cached_project_image: >-
+  /assets/images/projects/2015/l-a-works-volunteers-for-a-greater-la/img.youtube.com/vi/-6JhSNkIbso/maxresdefault.jpg
 youtube_video_identifier: '-6JhSNkIbso'
 organization_name: L.A. Works
 

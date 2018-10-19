@@ -100,6 +100,8 @@ project_proposal_best_place: >-
   volunteer mobile app, and savvy staff to execute our communications strategy.
   This will help us achieve our 2017 goal to work with 75-100 families and
   recruit, train and guide 400+ volunteers.
+cached_project_image: >-
+  /assets/images/projects/2016/volunteer-and-be-a-part-of-the-solution-to-family-homelessness/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7555177065741-team91.png
 organization_name: Imagine LA
 organization_website: imaginela.org
 

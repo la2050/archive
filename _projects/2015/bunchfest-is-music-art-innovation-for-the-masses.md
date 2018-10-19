@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/ByhCcHjp3FQ'
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): BUNCH Media
   Organization(s) mailing address(es): '2007 S. Longwood Ave #5 Los Angeles, CA 90016'
   Organization(s) website(s): bunchmag.com
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -231,6 +231,8 @@ How do you plan to scale the success of your proposal?: |-
    -Host smaller workshops, panels, and meetups around Los Angeles throughout the rest of the year. Each event will serve the purpose of fostering creativity, building a community, and providing the tools and resources people need to develop as creative professionals
    
    The data collected during the first event will be used to program all future events.
+cached_project_image: >-
+  /assets/images/projects/2015/bunchfest-is-music-art-innovation-for-the-masses/img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg
 youtube_video_identifier: ByhCcHjp3FQ
 organization_name: BUNCH Media
 

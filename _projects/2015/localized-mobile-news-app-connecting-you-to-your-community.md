@@ -17,8 +17,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Friend
-  'City, State': 'Playa del Rey, CA'
   Organization(s) name(s): Ruckus Projects
   Organization(s) mailing address(es): 8233 W Manchester Ave apt 3
   Organization(s) website(s): www.ruckusprojects.com/
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Playa del Rey, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: ''
@@ -227,6 +227,8 @@ How do you plan to scale the success of your proposal?: >-
   targeting social media campaign will be created to attain early users. In
   addition to social media staff will engage and promote the app at Farmers
   Markets, Cultural Centers and Co-working spaces.
+cached_project_image: >-
+  /assets/images/projects/2015/localized-mobile-news-app-connecting-you-to-your-community/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23547%252Fdisplay%252FLeif_Community_Engagement_App.jpg=c570x385.jpg
 maker_image_id: '23547'
 maker_image_file_name: Leif_Community_Engagement_App.jpg
 organization_name: Ruckus Projects

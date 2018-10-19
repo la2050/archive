@@ -28,8 +28,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Previous applicant/newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles Service Academy
   Organization(s) mailing address(es): "c/o The Huntington Library\r\n1151 Oxford Road\r\nSan Marino, CA  91108"
   Organization(s) website(s): www.LAServiceAcademy.org
@@ -81,7 +81,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: 'Make connections across regions, neighborhoods, schools, backgrounds.'
@@ -226,6 +226,8 @@ How do you plan to scale the success of your proposal?: >-
   of "students served." We are considering programmatic "wings" to LASA's
   central, student-participant model, but we have made no firm decisions in this
   regard as yet.
+cached_project_image: >-
+  /assets/images/projects/2015/the-los-angeles-service-academy/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385.jpg
 maker_image_id: '23401'
 maker_image_file_name: LASA_LARiver2015.jpg
 organization_name: Los Angeles Service Academy

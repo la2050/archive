@@ -14,8 +14,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Facebook
-  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): Clinica Msr. Oscar A. Romero
   Organization(s) mailing address(es): 123 S. Alvarado St.
   Organization(s) website(s): www.clinicaromero.com
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -175,6 +175,8 @@ How do you plan to scale the success of your proposal?: >-
   Clinica Romero will continue to engage local community partners to bring
   community awareness to the exercise equipment, healthy living classes and
   medical services provided at our Pico Union site.
+cached_project_image: >-
+  /assets/images/projects/2015/live-well-pico-union/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385.jpg
 maker_image_id: '24096'
 maker_image_file_name: exercise.jpg
 organization_name: Clinica Msr. Oscar A. Romero

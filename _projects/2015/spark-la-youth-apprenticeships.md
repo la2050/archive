@@ -16,8 +16,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': Los Angeles
-  Organization(s) name(s): Spark LA
   Organization(s) mailing address(es): "145 S. Spring Street\r\nSuite 410"
   Organization(s) website(s): www.sparkprogram.org
   Organization(s) twitter handle(s): www.twitter.com/SparkProgramLA
@@ -61,7 +61,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Spark LA
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -229,6 +229,8 @@ How do you plan to scale the success of your proposal?: >-
    
    – Launching a technology platform, Spark Online
    Through a partnership with LA corporate partner Cornerstone OnDemand, Spark is launching an online platform, Spark Online. This online platform puts key resources directly into the mentor’s hands, like activity resources, a project library, and training videos. It also provides a place for teachers to collaborate on each student’s Spark experience. In future years, the online platform will provide an avenue for Spark to share its program with other organizations, allowing the Spark model to scale.
+cached_project_image: >-
+  /assets/images/projects/2015/spark-la-youth-apprenticeships/img.youtube.com/vi/ueKmJQlz92o/maxresdefault.jpg
 youtube_video_identifier: ueKmJQlz92o
 organization_name: Spark LA
 

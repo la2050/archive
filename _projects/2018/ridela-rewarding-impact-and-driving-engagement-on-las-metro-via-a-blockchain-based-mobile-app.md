@@ -152,6 +152,8 @@ Where do you hope this activation or your organization will be in five years?: >
   the app will have encouraged millions of Angelinos to use the Metro system. We
   hope that more people will recognize climate change threatens our future and
   that they will act to use shared transportation for the good of everyone.
+cached_project_image: >-
+  /assets/images/projects/2018/ridela-rewarding-impact-and-driving-engagement-on-las-metro-via-a-blockchain-based-mobile-app/activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
 organization_name: Geffen Academy at UCLA
 
 ---

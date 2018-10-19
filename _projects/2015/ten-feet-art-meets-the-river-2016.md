@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: 'Friends, Facebook, etc'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): The LA River Public Art Project
   Organization(s) mailing address(es): "PO Box 29174\r\nLos Angeles, CA  92174\r\n"
   Organization(s) website(s): 'http://losangelesriverpublicartproject.org/'
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -291,6 +291,8 @@ How do you plan to scale the success of your proposal?: >-
    If we are going to spend over a billion dollars of our public funds on habitat restoration, water quality and passive recreation in the next decade we should make sure that it will provide great intergenerational play opportunities along with education, work force opportunities and fuel for our City’s global creative economy. Our efforts will be scaled according to the resources available. Partnerships and financial support will expedite the process. 
    
    We envision a generation of children and families growing up in Los Angeles who will think of the River as a memorable place that shaped their experiences and provided great places to play.
+cached_project_image: >-
+  /assets/images/projects/2015/ten-feet-art-meets-the-river-2016/img.youtube.com/vi/NlnlvjCu_AE/maxresdefault.jpg
 youtube_video_identifier: NlnlvjCu_AE
 organization_name: The LA River Public Art Project
 

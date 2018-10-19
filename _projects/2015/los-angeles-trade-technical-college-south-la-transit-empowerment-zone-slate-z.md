@@ -21,8 +21,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: colleague
-  'City, State': 'Los Angeles, CA  '
   Organization(s) name(s): Los Angeles Trade-Technical College
   Organization(s) mailing address(es): "400 W. Washington Blvd.\r\nLos Angeles, CA  90015"
   Organization(s) website(s): 'http://slatez.org/'
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA  '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
@@ -299,6 +299,8 @@ How do you plan to scale the success of your proposal?: >-
   will be sustained in the region through the strength of the partner agencies
   and grants. SLATE-Z is seeking the designation of the South LA Region as a HUD
   Promise Zone, which will increase opportunities for funding and parntership.
+cached_project_image: >-
+  /assets/images/projects/2015/los-angeles-trade-technical-college-south-la-transit-empowerment-zone-slate-z/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385.jpg
 maker_image_id: '24040'
 maker_image_file_name: connect_SLATEZsigners.jpg
 organization_name: Los Angeles Trade-Technical College

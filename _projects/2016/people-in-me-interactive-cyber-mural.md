@@ -133,6 +133,8 @@ project_proposal_best_place: >-
 
   Students will benefit from: mentors, communication and problem-solving skills,
   positive attitudes about aging, and community service.
+cached_project_image: >-
+  /assets/images/projects/2016/people-in-me-interactive-cyber-mural/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0883163005741-team91.jpg
 organization_name: METRO Charter Elementary School
 organization_website: metrocharter.org
 

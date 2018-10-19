@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '4102079'
+cached_project_image: >-
+  /assets/images/organizations/all-in-urban-summer-academy/activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
 
 ---

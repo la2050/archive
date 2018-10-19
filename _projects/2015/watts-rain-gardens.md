@@ -16,8 +16,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: online
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): From Lot to Spot
   Organization(s) mailing address(es): '2003 e. 1st Street '
   Organization(s) website(s): fromlottospot.org
@@ -64,7 +64,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -223,6 +223,8 @@ Are there other organizations doing similar work (whether complementary or compe
    Large River Rocks (per lbs.) 755 $0.45 $339.75
    Small river
 How do you plan to scale the success of your proposal?: By replicating this project in similar communities!
+cached_project_image: >-
+  /assets/images/projects/2015/watts-rain-gardens/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385.jpg
 maker_image_id: '24100'
 maker_image_file_name: IMG_4644.JPG
 organization_name: From Lot to Spot

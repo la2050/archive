@@ -19,8 +19,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_volunteerism: '1'
   city_state: 'Van Nuys, CA'
-  org_name: Dumlao Enterprises
   org_website: www.mitcheldumlao.com
   org_twitter: ''
   org_facebook: ''
@@ -78,7 +78,7 @@ maker_answers:
     tourists with the city’s diverse cultures & communities.  
   who_benefit: "MyCity would benefit Angelenos & anyone living in Los Angeles. Angelenos would make money as Tour Specialists by providing phenomenal & personalized experiences to Travelers. Additionally, locals can also pair up with other locals who have new ideas to share, since there's always something new that Angelenos can learn from each other about this city.\r\n\r\nAngelenos & Locals would also benefit by making money full time or part time by rendering their services as Tour Specialists.  Also, tourists would benefit immensely from this app by getting diverse & personalized tours of Los Angeles through the simplicity of a mobile app - as well as the opportunity to meet new friends.  This in turn benefits Los Angeles by bringing in more tourism into the city & helping local businesses.  Though, just as important as generating revenue in LA, we are showing travelers from around the world a deeper & more authentic look of the City of Angels."
   collaboration: "Mitchel Dumlao has worked in the entertainment industry for more than 9 years & is currently running his own digital marketing & video production company.  Mitchel has experience with developing & creating media content, as well as working with companies & individuals with marketing their goods & services through videos & Youtube.  Mitchel currently owns Dumlao Enterprises and is focused on helping small businesses, artists, and young entrepreneurs market their goods and services through video content and digital media.  Mitchel’s work can be viewed on http://www.mitcheldumlao.com/ \r\n \r\nRay Dipasupil is a Design Engineer who specializes in UX (user experience) & UI (user interface) for web & mobile. He’s worked with organizations such as The City of Los Angeles, The Walt Disney Company & Warner Music Group, & currently works with Rovi (http://www.rovicorp.com/) as a UX Design Engineer. He’s also a Front-End Web Development & UX/UI Instructor with General Assembly (https://generalassemb.ly). Ray’s work can be viewed on http://www.raysspl.com/ \r\n\r\nBoth partners are confirmed & we have worked together in the past.  Mitchel has entertainment & marketing experience to help with creative development & promoting the project through digital & traditional content.  Ray has certifications & experience in the technology field, which are essential for developing a mobile app.  Ray & Mitchel has known each other for over 5 years.\r\n\r\nThe 3 factors that are critical to the success of our proposed collaboration are:\r\n- Ray has a deep understanding of new technologies & design, which is crucial in developing a mobile app.  \r\n- Mitchel has experience in digital marketing & entertainment, which is greatly needed when promoting the product & growing the user base.  \r\n- We are both in tune with today’s trends in the technology, business, & entertainment industries, which will make sure that our app is not only innovative but also has the potential of being very successful.   \r\n"
-  metrics_connect_volunteerism: '1'
+  org_name: Dumlao Enterprises
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'
@@ -200,6 +200,8 @@ Whom will your project benefit? Please be specific.: >-
    - Ray has a deep understanding of new technologies & design, which is crucial in developing a mobile app. 
    - Mitchel has experience in digital marketing & entertainment, which is greatly needed when promoting the product & growing the user base. 
    - We are both in tune with today’s trends in the technology, business, & entertainment industries, which will make sure that our app is not only innovative but also has the potential of being very successful.
+cached_project_image: >-
+  /assets/images/projects/2014/my-city/img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg
 youtube_video_identifier: NHaLkpe_jms
 
 ---

@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  collaboration: "Our confirmed business partner t confirmed collaborators are:\r\nTBWA\\Chiat\\Day\r\nDDB California\r\nIgnitedUSA\r\nSaatchi & Saatchi\r\nThinkLA, consortium of creative companies\r\nOur confirmed school confirmed collaborators are:\r\nDorsey High School\r\nJames Foshay Learning Center\r\nPasadena High School\r\nVenice High School\r\nWe have worked for several years with these collaborators.\r\nThree factors that are critical to the success of these partnerships are:\r\n1) Shared decision-making\r\n2) Understanding of roles and expectations\r\n3) Evaluation and improvement"
   about_you: 'Pasadena, CA 91105'
-  org_name: Light Bringer Project
   org_website: www.lightbringerproject.com
   org_twitter: lbp@lightbringerp
   org_facebook: lightbringerproject
@@ -129,7 +129,7 @@ maker_answers:
     future talent pool of our own community the creative industry is greatly
     benefitted if we bear in mind that 726,300 direct and indirect jobs, or 1 in
     7 jobs, represent the human capital that vitalizes this industry. 
-  collaboration: "Our confirmed business partner t confirmed collaborators are:\r\nTBWA\\Chiat\\Day\r\nDDB California\r\nIgnitedUSA\r\nSaatchi & Saatchi\r\nThinkLA, consortium of creative companies\r\nOur confirmed school confirmed collaborators are:\r\nDorsey High School\r\nJames Foshay Learning Center\r\nPasadena High School\r\nVenice High School\r\nWe have worked for several years with these collaborators.\r\nThree factors that are critical to the success of these partnerships are:\r\n1) Shared decision-making\r\n2) Understanding of roles and expectations\r\n3) Evaluation and improvement"
+  org_name: Light Bringer Project
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'
@@ -295,6 +295,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2) Understanding of roles and expectations
    3) Evaluation and improvement
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/l-a-futures/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385.jpg
 maker_image_id: '22179'
 maker_image_file_name: IMG_2944.JPG
 

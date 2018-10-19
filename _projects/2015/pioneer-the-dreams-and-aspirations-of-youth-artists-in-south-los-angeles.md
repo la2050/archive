@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Collaborator
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Dreamhaus Inc.
   Organization(s) mailing address(es): "110 E. Hillcrest Blvd.  Suite#112\r\nInglewood, CA 90301"
   Organization(s) website(s): www.dreamhausla.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -270,6 +270,8 @@ How do you plan to scale the success of your proposal?: >-
    Another phase of our plan to measure the success of our proposal is the work we will do with elementary school students. Our co-founders have a history of working with Saturn Elementary School and we would like to expand our work by holding art workshops for small groups of students. We believe that involving a younger generation of students in learning about technical and conceptual art skills will better acclimate them with their studies in school. To give an example- in a classroom setting, we will limit students to a specific color palette where they will be instructed to create an abstract piece. Once they are finished, we will ask them to explain their thought process and the reasoning behind their creation. We will scale the success by knowing that the children have a strong grasp on conscious decision-making in the art marking process. Our hope is to help students realize the connection between their imagination and their success in everyday classroom setting (and beyond). 
    
    Finally, back to the “Artist Run Space,” we hope that in five years time, Dreamhaus will be a point of reference for corporations to connect with artists. Funding from this grant challenge will allow us to work towards a better Los Angeles as a place to create, connect and live.
+cached_project_image: >-
+  /assets/images/projects/2015/pioneer-the-dreams-and-aspirations-of-youth-artists-in-south-los-angeles/img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg
 youtube_video_identifier: yy9nnTHABlE
 organization_name: Dreamhaus Inc.
 

@@ -34,5 +34,7 @@ aggregated:
     - '5102189'
 maker_image_file_name: Sky_Pic.png
 maker_image_id: '23596'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-flag/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385.png
 
 ---

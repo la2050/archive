@@ -20,8 +20,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Youth Policy Institute
   Organization(s) mailing address(es): "634 S. Spring Street, 10th Floor\r\nLos Angeles, CA 90014"
   Organization(s) website(s): www.ypiusa.org
   Organization(s) twitter handle(s): www.twitter.com/ypiusa
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Youth Policy Institute
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
    As the program continues and expands, we will be mindful of re-shaping it to meet family, neighborhood, and community needs. Financial education curriculum and design of matched savings accounts will be replicated through staff training and strong relationships with financial institutions. But other components—such as participant outreach and retention (regular savings deposits)—will be customized based on language, cultural, and other considerations specific to the many communities, populations, and traditions that are part of our L.A. landscape.
    
    Our L.A. landscape is itself a dynamic element of change. Partnering with LA2050, we’re optimistic that by the year 2050 the beneficiaries of these matched college savings accounts will be sending their own children to college—part of a tradition of learning in Los Angeles where everyone who wishes for, envisions, and strives for college enrollment and completion can achieve it.
+cached_project_image: >-
+  /assets/images/projects/2015/ypis-college-promise-college-matched-savings-accounts/img.youtube.com/vi/8EU-FnJm4xE/maxresdefault.jpg
 youtube_video_identifier: 8EU-FnJm4xE
 organization_name: Youth Policy Institute
 

@@ -28,5 +28,7 @@ aggregated:
   project_ids:
     - '4102167'
 youtube_video_identifier: zTPVN1p3Lg8
+cached_project_image: >-
+  /assets/images/organizations/the-achievable-foundation/img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg
 
 ---

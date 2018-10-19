@@ -38,5 +38,7 @@ aggregated:
   project_ids:
     - '3102089'
 youtube_video_identifier: 1HVZ3rX86M4
+cached_project_image: >-
+  /assets/images/organizations/public-matters/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43950973_10156427247795199_7861215256188551168_n.jpg
 
 ---

@@ -18,8 +18,8 @@ project_image: 'https://img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/XUlv1Zd4JZU'
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Pacific Palisades, CA'
-  Organization(s) name(s): Palisades Charter High School (PCHS)
   Organization(s) mailing address(es): "15777 Bowdoin St., Pacific Palisades, CA    \r\n90272\r\n"
   Organization(s) website(s): www.pchs.org
   Organization(s) twitter handle(s): www.twitter.com/palicharterhigh
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Palisades Charter High School (PCHS)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -240,6 +240,8 @@ How do you plan to scale the success of your proposal?: >-
    The project success will be scaled across the City of Los Angeles at other high schools through sharing our best practices for software applications, communications with students, parents and employers, and educational tools to prepare students for exposure to the workforce. At PCHS we are committed to a high quality public education experience and the vision of the high school campus as a center for learning inside and outside the classroom. As such, we will be sharing our learned expertise, to replicate the program at other public high schools. We believe that this program can be established economically elsewhere.
    
    Our goal is to have the students, parents and counselors work as a team to guide our students towards becoming college and career ready by utilizing the tools provided to them with the goal of embracing their own future with knowledge and confidence.
+cached_project_image: >-
+  /assets/images/projects/2015/palisades-charter-high-guiding-the-path-to-college-career-success/img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg
 youtube_video_identifier: XUlv1Zd4JZU
 organization_name: Palisades Charter High School (PCHS)
 

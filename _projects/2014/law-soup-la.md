@@ -21,8 +21,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_volunteerism: '1'
   city_state: 'Los Angeles, CA'
-  org_name: 'Law Soup, Inc.'
   org_website: www.lawsoup.org
   org_twitter: www.twitter.com/lawsoupdotorg
   org_facebook: www.facebook.com/lawsoup
@@ -77,7 +77,7 @@ maker_answers:
     We are open to working with any and all partners who share our values of
     promoting access to justice and providing accurate, useful legal information
     to the public.
-  metrics_connect_volunteerism: '1'
+  org_name: 'Law Soup, Inc.'
   metrics_connect_voting: '1'
   metrics_connect_adultsupport: '0'
   metrics_connect_traveltime: '0'
@@ -181,6 +181,8 @@ Whom will your project benefit? Please be specific.: >-
   We are open to working with any and all partners who share our values of
   promoting access to justice and providing accurate, useful legal information
   to the public.
+cached_project_image: >-
+  /assets/images/projects/2014/law-soup-la/img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg
 youtube_video_identifier: DRehRt5n68c
 
 ---

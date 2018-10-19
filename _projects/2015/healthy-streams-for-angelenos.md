@@ -21,8 +21,8 @@ project_areas:
   - San Gabriel Valley
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: co-worker and email
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Council for Watershed Health
   Organization(s) mailing address(es): '700 N. Alameda Ave., Los Angeles, CA 90012'
   Organization(s) website(s): www.watershedhealth.org
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -217,6 +217,8 @@ How do you plan to scale the success of your proposal?: >-
    Based on outcomes from the planning, this program will first be piloted at a small number of known swim sites in the LA River Watershed to develop a process for how this can be done at a larger regional scale. Over time, as success is measured, the program can be scaled up to include a larger portion of the LA River watershed, then the San Gabriel River Watershed, and eventually, the entire San Gabriel Mountains National Monument. We will start small and grow the program over time. 
    
    As an organization, the Council for Watershed Health values results based on applied research and analysis that inform policy change and lead to a more sustainable southern California region from the perspective of water quality and quantity management. Our program is unique in that it addresses diverse themes such as urban stormwater, watershed coordination, watershed monitoring, and the promotion of sustainable landscapes. Having access to multiple lines of information increases our ability to integrate various sectors and effectively carry out our core mission. This includes providing leadership, guidance, and assistance to other agencies and organizations to affect sound watershed planning and management, promoting better coordination and integration of watershed monitoring while measuring and tracking progress towards achieving healthier watersheds for humans and fostering a more sustainable regional landscape ethic for Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2015/healthy-streams-for-angelenos/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg
 youtube_video_identifier: kQnTJYkpO4A
 organization_name: Council for Watershed Health
 

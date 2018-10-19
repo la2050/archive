@@ -53,5 +53,7 @@ aggregated:
     - '5102059'
     - '5102059'
     - '3102014'
+cached_project_image: >-
+  /assets/images/organizations/city-of-los-angeles-department-of-recreation-and-parks/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 
 ---

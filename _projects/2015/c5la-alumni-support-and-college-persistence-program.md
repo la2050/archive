@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): C5 Youth Foundation of Southern California (“C5LA”)
   Organization(s) mailing address(es): 1334 S Central Ave
   Organization(s) website(s): www.c5la.org
   Organization(s) twitter handle(s): www.twitter.com/C5LA
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): C5 Youth Foundation of Southern California (“C5LA”)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -251,6 +251,8 @@ How do you plan to scale the success of your proposal?: >-
    • We hope to connect with and engage 40% of our alumni in Year One and increase that to 75% in Year Two and 100% in Year Three.
    • We will host two alumni events in Year One and four events in Years Two and Three.
    • Migrate data and launch new software in the third and fourth quarters of Year One.
+cached_project_image: >-
+  /assets/images/projects/2015/c5la-alumni-support-and-college-persistence-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24065%252Fdisplay%252Fclass_of_2016_selfie.jpg=c570x385.jpg
 maker_image_id: '24065'
 maker_image_file_name: class_of_2016_selfie.jpg
 organization_name: C5 Youth Foundation of Southern California (“C5LA”)

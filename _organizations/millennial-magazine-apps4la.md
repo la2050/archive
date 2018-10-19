@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102118'
 youtube_video_identifier: Vv698CCwrt4
+cached_project_image: >-
+  /assets/images/organizations/millennial-magazine-apps4la/img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg
 
 ---

@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Internal research
-  'City, State': 'Chicago, IL'
   Organization(s) name(s): Common Threads
   Organization(s) mailing address(es): "3811 Bee Caves Road, Suite 108\r\nAustin, TX 78746"
   Organization(s) website(s): www.commonthreads.org
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Chicago, IL'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -248,6 +248,8 @@ How do you plan to scale the success of your proposal?: >-
    Additionally, this past year, we developed a game-based nutrition education app, CommonBytes, which we believe has the potential to supplement our current programs, increasing their impact in the short term, and to bring relevant nutrition learning to additional kids in the long term. The CommonBytes app includes interactive games designed for students grades 3-8 to use with classroom teachers in school – including as a supplement to our Small Bites program - or at home. Participants follow recipes from the garden to the grocery store to the kitchen, and, finally, to a table. The CommonBytes platform will consist of 10-15 games – with easy, medium, and hard levels - that incorporate gardening, healthy shopping, healthy cooking techniques, and table etiquette as well as over 25 recipes, organized by Snacks, Meals, Beverages, and Treats. Incentive points and badges that further the nutritional experience (e.g., personal secrets and recipes from celebrity chefs) will be awarded as various milestones and goals are reached. Parents and teachers will also be able to access the app to track the progress of their child or student in completing the games; look up new recipes; or find cooking and nutrition resources.
    
    This fall, we are piloting CommonBytes in the Miami-Dade County Public Schools, with a national pilot –including in Los Angeles – planned for 2016. Overall, during the 2015-16 school year, we expect up to 5,000 kids to receive cooking and nutrition education through CommonBytes.
+cached_project_image: >-
+  /assets/images/projects/2015/common-threads-healthy-cooking-and-nutrition-education-for-kids-and-families/img.youtube.com/vi/teuTGnS3vkM/maxresdefault.jpg
 youtube_video_identifier: teuTGnS3vkM
 organization_name: Common Threads
 

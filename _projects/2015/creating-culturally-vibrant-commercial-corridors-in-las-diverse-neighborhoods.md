@@ -21,8 +21,8 @@ project_areas:
   - East LA
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: previous LA2050 Challenges
-  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): Local Initiatives Support Corporation (LISC) Los Angeles
   Organization(s) mailing address(es): "500 South Grand Avenue, Suite 2300\r\nLos Angeles, CA 90071"
   Organization(s) website(s): www.lisc.org/los_angeles/
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -273,6 +273,8 @@ How do you plan to scale the success of your proposal?: >-
   studied, documented and applied to other LISC offices across the country as
   best practices for seamlessly blending cultural economic development
   strategies, small business and regional cultural tourism plans.
+cached_project_image: >-
+  /assets/images/projects/2015/creating-culturally-vibrant-commercial-corridors-in-las-diverse-neighborhoods/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23259%252Fdisplay%252Fpicture_1.jpg=c570x385.jpg
 maker_image_id: '23259'
 maker_image_file_name: picture_1.jpg
 organization_name: Local Initiatives Support Corporation (LISC) Los Angeles

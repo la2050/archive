@@ -44,5 +44,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102043'
+cached_project_image: >-
+  /assets/images/organizations/geffen-academy-at-ucla/activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
 
 ---

@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA '
-  Organization(s) name(s): 'Jenesse Center, Inc.'
   Organization(s) mailing address(es): 'P.O. Box 8476 Los Angeles, CA 90008'
   Organization(s) website(s): www.jenesse.org
   Organization(s) twitter handle(s): www.twitter.com/jenessecenter
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): 'Jenesse Center, Inc.'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -305,6 +305,8 @@ How do you plan to scale the success of your proposal?: >-
   existing services, resources and technical assistance to at least 3,000 more
   youth, parents and partners. We also intend to have a model that can be
   replicated in other Los Angeles area schools and beyond.
+cached_project_image: >-
+  /assets/images/projects/2015/abuse-love-la-youth-against-violence-initiative/img.youtube.com/vi/2EuVrQnBaFE/maxresdefault.jpg
 youtube_video_identifier: 2EuVrQnBaFE
 organization_name: 'Jenesse Center, Inc.'
 

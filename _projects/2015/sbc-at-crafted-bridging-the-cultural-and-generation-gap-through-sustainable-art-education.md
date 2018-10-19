@@ -23,8 +23,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: facebook
-  'City, State': 'San Pedro, CA'
   Organization(s) name(s): 'South Bay Contemporary, CRAFTED'
   Organization(s) mailing address(es): "401 South Mesa Street\r\nThird Floor, San Pedro, CA 90731, 112 E.22nd St, San Pedro, CA"
   Organization(s) website(s): www.southbaycontemporary.com
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'San Pedro, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -219,6 +219,8 @@ How do you plan to scale the success of your proposal?: |-
    
    During our successful year at CRAFTED, SBC will work to find funding to continue the program at the LA Waterfront, and to expand the program to other areas of Los Angeles. List other organizations that may potentially want to partner for space and support the projects expansion… 
    We hope that we can continue the program of exhibitions and workshops at the CRAFTED location. There is potential to develop a similar program at the Anderson Senior Center
+cached_project_image: >-
+  /assets/images/projects/2015/sbc-at-crafted-bridging-the-cultural-and-generation-gap-through-sustainable-art-education/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24146%252Fdisplay%252FCulture_gaps_for_la2050xsmall_copy.jpg=c570x385.jpg
 maker_image_id: '24146'
 maker_image_file_name: Culture_gaps_for_la2050xsmall_copy.jpg
 organization_name: 'South Bay Contemporary, CRAFTED'

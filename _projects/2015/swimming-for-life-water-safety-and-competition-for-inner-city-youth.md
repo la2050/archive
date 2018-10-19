@@ -21,8 +21,8 @@ project_areas:
   - South LA
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Other nonprofit organizations
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Trojan Swim Club
   Organization(s) mailing address(es): "3501 Watt Way\r\nLos Angeles, CA 90089"
   Organization(s) website(s): www.trojanswimclub.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -300,6 +300,8 @@ How do you plan to scale the success of your proposal?: >-
    Only after maximizing capacity at our existing program sites - by increasing enrollment and instructional hours - will we continue our expansion to include new sites at partner schools. At present, there are an additional eight new LAUSD high schools with pools, many currently under-utilized, that are ideal sites for program expansion, allowing us to reach an even larger low-income population. 
    
    In order to scale our project’s success, we must ensure we have the resources necessary to sustain the proposed program expansion for years to come. This includes continuing to build relationships and cultivate partnerships with organizations that share and our goals and complement our work such as the Los Angeles Education Partnership, Youth Policy Institute, Board of Education, Los Angeles Unified School District, Joint Use Moving People to Play task force at the Los Angeles County Department of Public Health, Division of Chronic Disease and Injury Prevention, while simultaneously developing our organizational capacity and infrastructure.
+cached_project_image: >-
+  /assets/images/projects/2015/swimming-for-life-water-safety-and-competition-for-inner-city-youth/img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg
 youtube_video_identifier: SdL6NXZskjo
 organization_name: Trojan Swim Club
 

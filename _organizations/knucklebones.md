@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '5102240'
 youtube_video_identifier: FAirDH4ROp0
+cached_project_image: >-
+  /assets/images/organizations/knucklebones/img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg
 
 ---

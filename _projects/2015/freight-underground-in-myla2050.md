@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/Z8CUwycoaCc'
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How did you hear about this challenge?: Competed last year
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): GRID Logistics Inc
   Organization(s) mailing address(es): '411 S. Hewitt St., Los Angeles, CA 90013'
   Organization(s) website(s): gridinc.biz
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -402,6 +402,8 @@ How do you plan to scale the success of your proposal?: >-
   economic development opportunities." Please see the executive order at
   https://www.gov.ca.gov/news.php?id=19046
    This executive order seeks widespread collaboration to achieve a sustainable freight transportation system. The MYLA2050 award will sustain our companies efforts to connect with the state, federal, regional, and local stakeholders to move this proposal forward. We intend to scale the proposal by engaging with private firms interested in investing in our transportation infrastructure, however, we must collaborate with local stakeholders first to ensure that the project is in demand from communities near the freight supply chain. We seek support from both public and private interests to engage with these "grassroots" and under represented constituencies. The ultimate success of failure of this project lies within our ability to evaluate the project for feasibility. This is what the core mission is of the proposers and the MYLA2050 award is a means to start the process.
+cached_project_image: >-
+  /assets/images/projects/2015/freight-underground-in-myla2050/img.youtube.com/vi/Z8CUwycoaCc/maxresdefault.jpg
 youtube_video_identifier: Z8CUwycoaCc
 organization_name: GRID Logistics Inc
 

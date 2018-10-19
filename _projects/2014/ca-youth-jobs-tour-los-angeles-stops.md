@@ -16,8 +16,18 @@ project_areas:
   - EAST LA
   - SOUTH LA
 maker_answers:
+  collaboration: >-
+    Young Invincibles has a strong track record of working effectively and
+    closely with diverse partners, from local service providers to statewide
+    advocates to employers, across all our campaigns. For this project, our goal
+    is to partner with no less than 5 organizations already advocating for and
+    addressing the needs of unemployed and underemployed young adults in Los
+    Angeles.  In each community on the Tour, we will work with local partners to
+    amplify the voices of unemployed, underemployed, and undereducated youth in
+    the community and their desire to work. We also intend to incorporate
+    employers in the conversation and stakeholder engagement, as we know that it
+    is important to include them in the conversation.  
   about_you: 'Washington, DC'
-  org_name: Young Invincibles
   org_website: www.YoungInvincibles.org
   org_twitter: '@YoungInvincible'
   org_facebook: www.facebook.com/together.invincible
@@ -77,17 +87,7 @@ maker_answers:
     specific youth unemployment fact sheets, providing participants at tour
     stops the ability to localize the serious challenges facing our generation. 
   who_benefit: "Our project will benefit:\r\n\r\n- The trained young leaders who can advocate for our agenda going forward.\r\n- Policymakers and stakeholders as they gain an understanding of key issues and challenges facing young people seeking employment pathways.\r\n- Young unemployed and underemployed adults from the communities we focus on.  "
-  collaboration: >-
-    Young Invincibles has a strong track record of working effectively and
-    closely with diverse partners, from local service providers to statewide
-    advocates to employers, across all our campaigns. For this project, our goal
-    is to partner with no less than 5 organizations already advocating for and
-    addressing the needs of unemployed and underemployed young adults in Los
-    Angeles.  In each community on the Tour, we will work with local partners to
-    amplify the voices of unemployed, underemployed, and undereducated youth in
-    the community and their desire to work. We also intend to incorporate
-    employers in the conversation and stakeholder engagement, as we know that it
-    is important to include them in the conversation.  
+  org_name: Young Invincibles
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'
@@ -176,6 +176,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   conversation and stakeholder engagement, as we know that it is important to
   include them in the conversation.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/ca-youth-jobs-tour-los-angeles-stops/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21770%252Fdisplay%252Fjobstour.png=c570x385.png
 maker_image_id: '21770'
 maker_image_file_name: jobstour.png
 

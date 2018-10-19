@@ -34,5 +34,7 @@ aggregated:
     - '2014'
   project_ids: []
 youtube_video_identifier: ql6hxsjKMCQ
+cached_project_image: >-
+  /assets/images/organizations/massknowtify/img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg
 
 ---

@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/Ht0-3dSjCew'
 project_areas:
   - San Gabriel Valley
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Community Outrech
-  'City, State': 'Claremont, CA'
   Organization(s) name(s): 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
   Organization(s) mailing address(es): 'P.O. Box 15, Claremont, CA 91711'
   Organization(s) website(s): www.fallenfruitfromrisingwomen.org
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Claremont, CA'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Advocate for change with future policymakers and leaders
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -153,6 +153,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/fallen-fruit-from-rising-women-empowering-women-through-social-enterprise-and-food-justice/img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg
 youtube_video_identifier: Ht0-3dSjCew
 organization_name: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
 

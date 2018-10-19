@@ -37,5 +37,7 @@ aggregated:
   project_ids:
     - '5102150'
 youtube_video_identifier: KHtt2okRChU
+cached_project_image: >-
+  /assets/images/organizations/compiler-la-utopiad-org/img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg
 
 ---

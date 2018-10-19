@@ -29,8 +29,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: From a fellow Rotarian
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Knucklebones
   Organization(s) mailing address(es): "460 South Spring Street\r\nSuite 618\r\nLos Angeles CA 90013"
   Organization(s) website(s): www.knucklebones.us
@@ -81,7 +81,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -293,6 +293,8 @@ How do you plan to scale the success of your proposal?: >-
   to bring 'Play' Buses to other cities across America. Of course, as we were
   founded in Boston we know for sure that our strong following in the Greater
   Boston area would be very appreciative to have a Play Bus.
+cached_project_image: >-
+  /assets/images/projects/2015/free-play-for-all-l-a/img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg
 youtube_video_identifier: FAirDH4ROp0
 organization_name: Knucklebones
 

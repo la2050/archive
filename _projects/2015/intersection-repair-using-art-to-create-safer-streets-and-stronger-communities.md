@@ -21,8 +21,8 @@ project_areas:
   - Central LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: How could I not?!
-  'City, State': 'Los Angeles, California'
   Organization(s) name(s): 'Compiler LA, Utopiad.org'
   Organization(s) mailing address(es): "Compiler LLC\r\n120 S Vignes St #403\r\nLos Angeles, CA 90012\r\n\r\nUtopiad.org\r\n828 SOLANO AVE\r\nLos Angeles, CA 90012"
   Organization(s) website(s): 'http://utopiad.org/, http://compiler.la'
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, California'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -142,6 +142,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/intersection-repair-using-art-to-create-safer-streets-and-stronger-communities/img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg
 youtube_video_identifier: KHtt2okRChU
 organization_name: 'Compiler LA, Utopiad.org'
 

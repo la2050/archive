@@ -36,5 +36,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102028'
+cached_project_image: >-
+  /assets/images/organizations/civic-innovation-lab/activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
 
 ---

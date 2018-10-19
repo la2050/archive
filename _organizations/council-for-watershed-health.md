@@ -41,5 +41,7 @@ aggregated:
     - '5102079'
     - '3102093'
 youtube_video_identifier: kQnTJYkpO4A
+cached_project_image: >-
+  /assets/images/organizations/council-for-watershed-health/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg
 
 ---

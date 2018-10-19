@@ -36,5 +36,7 @@ aggregated:
     - '4102123'
 maker_image_file_name: Hearts9.jpg
 maker_image_id: '22600'
+cached_project_image: >-
+  /assets/images/organizations/dream-a-world-education-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22600%252Fdisplay%252FHearts9.jpg=c570x385.jpg
 
 ---

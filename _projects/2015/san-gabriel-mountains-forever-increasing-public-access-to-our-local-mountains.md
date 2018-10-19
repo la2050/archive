@@ -18,8 +18,8 @@ project_areas:
   - San Gabriel Valley
   - Antelope Valley
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How did you hear about this challenge?: Website
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): The Council of Mexican Federations (COFEM)
   Organization(s) mailing address(es): '125 Paseo de la Plaza Suite 101, Los Angeles, CA 90012'
   Organization(s) website(s): 'http://www.cofem.org'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -203,6 +203,8 @@ How do you plan to scale the success of your proposal?: >-
   Mountains Forever coalition. If our pilot project is successful we will work
   with public officials through our role in the coalition to bring to life a
   permanent transit-to-trails program.
+cached_project_image: >-
+  /assets/images/projects/2015/san-gabriel-mountains-forever-increasing-public-access-to-our-local-mountains/img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg
 youtube_video_identifier: SVzSpv8Dj74
 organization_name: The Council of Mexican Federations (COFEM)
 

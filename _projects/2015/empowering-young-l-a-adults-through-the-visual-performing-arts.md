@@ -20,8 +20,8 @@ project_areas:
   - Westside
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: PIECES Volunteer
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): PIECES Teens Arts
   Organization(s) mailing address(es): "PIECES\r\nc/o Buckwild Gallery\r\n12804 Venice Boulevard\r\nLos Angeles, CA 90066"
   Organization(s) website(s): www.PIECESarts.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -219,6 +219,8 @@ How do you plan to scale the success of your proposal?: >-
    Social media follows and likes, newsletter subscriptions will also tell whether or not we were able to reach more people in our community than before. 
    
    Furthermore, the results from surveys will tell how effective our attempts of reaching and serving our community have been.
+cached_project_image: >-
+  /assets/images/projects/2015/empowering-young-l-a-adults-through-the-visual-performing-arts/img.youtube.com/vi/-_7F7nxyZ1Y/maxresdefault.jpg
 youtube_video_identifier: '-_7F7nxyZ1Y'
 organization_name: PIECES Teens Arts
 

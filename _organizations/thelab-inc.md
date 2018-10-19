@@ -35,5 +35,7 @@ aggregated:
     - '5102315'
 maker_image_file_name: LA2050.png
 maker_image_id: '23379'
+cached_project_image: >-
+  /assets/images/organizations/thelab-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23379%252Fdisplay%252FLA2050.png=c570x385.png
 
 ---

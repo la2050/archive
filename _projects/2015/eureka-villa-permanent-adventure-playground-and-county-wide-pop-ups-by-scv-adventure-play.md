@@ -22,8 +22,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Email from a friend
-  'City, State': 'Val Verde, CA / returning applicant'
   Organization(s) name(s): SCV Adventure Play
   Organization(s) mailing address(es): "30651 Arlington Street\r\nVal Verde, CA 91384"
   Organization(s) website(s): www.scvadventureplay.com
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Val Verde, CA / returning applicant'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -249,6 +249,8 @@ How do you plan to scale the success of your proposal?: |-
    If a culture of respecting our young people's rights to play has been nourished.
    
    We continue to develop and support Los Angeles communities to become safer and more connected.
+cached_project_image: >-
+  /assets/images/projects/2015/eureka-villa-permanent-adventure-playground-and-county-wide-pop-ups-by-scv-adventure-play/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24111%252Fdisplay%252FSCV_ADvplay_table_logo.png=c570x385.png
 maker_image_id: '24111'
 maker_image_file_name: SCV_ADvplay_table_logo.png
 organization_name: SCV Adventure Play

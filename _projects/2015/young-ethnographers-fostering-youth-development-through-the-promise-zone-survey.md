@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/MbjQABq5iTI'
 project_areas:
   - Central LA
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: newsletter; friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): >-
     Los Angeles Promise Zone Initiative | LA Mayor's Office of Economic
     Development c/o Mayor's Fund for Los Angeles
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -274,6 +274,8 @@ How do you plan to scale the success of your proposal?: >-
    The project will be further scaled as we send our Young Ethnographers off to college and careers, with the hope that they can apply what they learned over the course of this project. 
    
    Our proposal envisions the survey component to be a key deliverable in the form of a multi-lingual playbook that outlines strategies and best practices for community development that can be scaled and deployed to other regions of LA County. Identifying the Promise Zone’s next generation of leaders and change agents and delivering the promise of a Los Angeles as a functioning, well-run city that works with and for all Angelenos.
+cached_project_image: >-
+  /assets/images/projects/2015/young-ethnographers-fostering-youth-development-through-the-promise-zone-survey/img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg
 youtube_video_identifier: MbjQABq5iTI
 organization_name: >-
   Los Angeles Promise Zone Initiative | LA Mayor's Office of Economic

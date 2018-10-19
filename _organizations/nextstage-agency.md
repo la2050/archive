@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '4102124'
 youtube_video_identifier: JVyDVToMVoo
+cached_project_image: >-
+  /assets/images/organizations/nextstage-agency/img.youtube.com/vi/JVyDVToMVoo/hqdefault.jpg
 
 ---

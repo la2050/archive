@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102083'
+cached_project_image: >-
+  /assets/images/organizations/mirys-list/activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg
 
 ---

@@ -124,6 +124,8 @@ project_proposal_best_place: >-
   dignity, and creates better physical and mental health, while also setting in
   motion changes that have positive ripple effects on families, communities, and
   society.
+cached_project_image: >-
+  /assets/images/projects/2016/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
 organization_name: Chrysalis
 organization_website: changelives.org
 

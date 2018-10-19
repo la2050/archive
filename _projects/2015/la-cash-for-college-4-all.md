@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/q4McatdcN78'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): UNITE-LA
   Organization(s) mailing address(es): '350 S Bixel Street, Los Angeles, CA 90017'
   Organization(s) website(s): www.lacashforcollege.org
   Organization(s) twitter handle(s): www.twitter.com/lacash4college
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): UNITE-LA
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -226,6 +226,8 @@ How do you plan to scale the success of your proposal?: >-
   intentional emailing.
    
    In addition to the website, the LA Cash for College team plans to develop the California Student Aid Commission's smart phone app by linking to the LA Cash for College Campaign. Understanding the ways in which students consume information today, the app will attract more students, give us the ability to measure which resources are most useful to them, and guide our future information and assistance strategies. The application will also allow our program to attract, organize and coordinate volunteers.
+cached_project_image: >-
+  /assets/images/projects/2015/la-cash-for-college-4-all/img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg
 youtube_video_identifier: q4McatdcN78
 organization_name: UNITE-LA
 

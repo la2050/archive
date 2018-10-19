@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102105'
+cached_project_image: >-
+  /assets/images/organizations/lola-techsystems-inc/activation.la2050.org/assets/images/learn/2048-wide/lola-techsystems-inc.jpg
 
 ---

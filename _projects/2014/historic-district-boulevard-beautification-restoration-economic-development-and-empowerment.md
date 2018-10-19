@@ -18,8 +18,8 @@ project_areas:
   - CENTRAL LA
   - LA COUNTY
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'Los Angeles, CA'
-  org_name: 3Boulevards and West Adams Heritage Assocation (WAHA)
   org_website: 3boulevards.org
   org_twitter: ''
   org_facebook: 3boulevards
@@ -124,7 +124,7 @@ maker_answers:
     that will inspire new efforts by others.  We want the participants to "own"
     the improvements and to inspire others to  do their small part that will
     make an enormous contribution to the community.
-  metrics_create_employment: '1'
+  org_name: 3Boulevards and West Adams Heritage Assocation (WAHA)
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -264,6 +264,8 @@ Whom will your project benefit? Please be specific.: >-
   momentum from actions taken by others that will inspire new efforts by others.
   We want the participants to "own" the improvements and to inspire others to do
   their small part that will make an enormous contribution to the community.
+cached_project_image: >-
+  /assets/images/projects/2014/historic-district-boulevard-beautification-restoration-economic-development-and-empowerment/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21055%252Fdisplay%252FWashington_Square.JPG=c570x385.jpg
 maker_image_id: '21055'
 maker_image_file_name: Washington_Square.JPG
 

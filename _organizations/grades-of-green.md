@@ -69,5 +69,7 @@ aggregated:
     - '3102140'
 maker_image_file_name: LA_YouthCorps_Logo-01.png
 maker_image_id: '16837'
+cached_project_image: >-
+  /assets/images/organizations/grades-of-green/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16837%252Fdisplay%252FLA_YouthCorps_Logo-01.png=c570x385.png
 
 ---

@@ -30,5 +30,7 @@ aggregated:
     - '2015'
   project_ids: []
 youtube_video_identifier: cljP5pJVVbE
+cached_project_image: >-
+  /assets/images/organizations/voter-llc/img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg
 
 ---

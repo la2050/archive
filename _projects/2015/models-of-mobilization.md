@@ -23,8 +23,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: The Goldhirsch Foundation & we entered the 2014 Challenge
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): TreePeople
   Organization(s) mailing address(es): "12601 Mulholland Drive\r\nBeverly Hills, CA  90210"
   Organization(s) website(s): www.treepeople.org
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -300,6 +300,8 @@ How do you plan to scale the success of your proposal?: >-
    Scaling efforts will combine the data and models produced by this project with our “success formula” which multiplies the following: (a) Educating and engaging people with nature-based solutions (landscape transformation, rainwater capture, etc); (b) Developing and implementing communications tools and strategies to mobilize a critical mass; (c) Creating partnerships at the community and systemic levels for better urban ecosystem management; (d) Drive policy changes that promote green infrastructure at all government levels. 
    
    Much of TreePeople’s community-based work is focused on environmental justice areas, where pollution is high, eco-assets are low, and socioeconomic challenges are immense. When people think of human rights, they often think of civil liberties, workplace protections, and the right to happiness. Trees and water aren’t what usually come to mind. But it is trees and water – and their many benefits – that have a tremendous impact on wellness and health. Bringing people together for community projects that raise the environmental assets makes neighborhoods cleaner, healthier, and more livable.
+cached_project_image: >-
+  /assets/images/projects/2015/models-of-mobilization/img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg
 youtube_video_identifier: r9LtyQwYAks
 organization_name: TreePeople
 

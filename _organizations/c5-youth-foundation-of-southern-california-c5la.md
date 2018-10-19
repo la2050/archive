@@ -41,5 +41,7 @@ aggregated:
     - '4102193'
 maker_image_file_name: class_of_2016_selfie.jpg
 maker_image_id: '24065'
+cached_project_image: >-
+  /assets/images/organizations/c5-youth-foundation-of-southern-california-c5la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24065%252Fdisplay%252Fclass_of_2016_selfie.jpg=c570x385.jpg
 
 ---

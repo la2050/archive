@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102113'
+cached_project_image: >-
+  /assets/images/organizations/süprseed-inc/activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg
 
 ---

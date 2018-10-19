@@ -16,8 +16,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: One of last year's grantee who is also our supporter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles Fire Department Foundation
   Organization(s) mailing address(es): "1875 Century Park East, Suite 200\r\nLos Angeles, CA 90067"
   Organization(s) website(s): supportlafd.org
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
   as a cost-effective, efficient model for this anticipated new law.
    
    Saving lives is important. Giving teenagers the tools to save lives is empowering for them and good for the health of the community.
+cached_project_image: >-
+  /assets/images/projects/2015/high-school-cpr-training/img.youtube.com/vi/lilCVZW2Ggk/hqdefault.jpg
 youtube_video_identifier: lilCVZW2Ggk
 organization_name: Los Angeles Fire Department Foundation
 

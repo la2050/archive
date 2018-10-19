@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Thinking about Tomorrow
   Organization(s) mailing address(es): '4133 Via Marina, Los Angeles CA'
   Organization(s) website(s): www.thinkingabouttomorrow.org
   Organization(s) twitter handle(s): 'https://twitter.com/thinkabouttmw'
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Thinking about Tomorrow
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -291,6 +291,8 @@ How do you plan to scale the success of your proposal?: >-
    Additionally, we have learned that people, not just children, need to be excited about learning. Modern technology has both excelled our civilization beyond belief while at the same time has prevented many from eventually reaching their full potential. For many, it has ruined their ability to interact socially and has increased behavioral anxiety. While we realize that we award students at the end of the year with free wifi tablets that can often perpetuate the lack of social behavior, we also realize the tablet's amazing motivating factors for children and we strive to provide our students with the education needed to learn how to use it with moderation. 
    
    So, while we "incentivize" and get our students excited about going to school everyday, we also give them to the tools needed for success in both school and life! We establish within each student a solid foundation of values that are taken home to families and are carried with them forever. We believe that learning NEVER ends and getting people excited about valuing their education isn't just about improving attendance rates or graduation rates, it's about improving their future!
+cached_project_image: >-
+  /assets/images/projects/2015/school-is-cool-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24144%252Fdisplay%252FShannonTaTLA2050.jpeg=c570x385.jpg
 maker_image_id: '24144'
 maker_image_file_name: ShannonTaTLA2050.jpeg
 organization_name: Thinking about Tomorrow

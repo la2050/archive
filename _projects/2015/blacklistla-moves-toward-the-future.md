@@ -18,10 +18,10 @@ project_areas:
   - Westside
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: >-
     A nonprofit leader, and member of the BlacklistLA community, shared the
     challenge link with us.
-  'City, State': 'Los Angeles '
   Organization(s) name(s): BlacklistLA
   Organization(s) mailing address(es): "1405 S Oxford Ave\r\nLos Angeles, CA 90006"
   Organization(s) website(s): www.blacklistla.city
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -213,6 +213,8 @@ How do you plan to scale the success of your proposal?: >-
   demand, as well as determine how to promote future growth. We believe that our
   scalability lies in our ability to offer more runs throughout the city, as
   well as our ability to connect people in-person and online.
+cached_project_image: >-
+  /assets/images/projects/2015/blacklistla-moves-toward-the-future/img.youtube.com/vi/U6oh03TPQOw/maxresdefault.jpg
 youtube_video_identifier: U6oh03TPQOw
 organization_name: BlacklistLA
 

@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '4102094'
 youtube_video_identifier: awJQoJqGL-o
+cached_project_image: >-
+  /assets/images/organizations/the-mirror-mirror-project/img.youtube.com/vi/awJQoJqGL-o/hqdefault.jpg
 
 ---

@@ -29,8 +29,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: email newsletter
-  'City, State': Los Angeles CA
   Organization(s) name(s): Ambulante
   Organization(s) mailing address(es): '3303 Pico Blvd, Suite G, Santa Monica, CA 90405'
   Organization(s) website(s): www.ambulanteusa.com
@@ -81,7 +81,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': Los Angeles CA
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -318,6 +318,8 @@ Are there other organizations doing similar work (whether complementary or compe
 How do you plan to scale the success of your proposal?: >-
   by working withour 40 plus filmmakers and providing each of them access to our
   projection and program
+cached_project_image: >-
+  /assets/images/projects/2015/let-ambulante-connect-new-audiences-to-your-nonprofit-thru-public-documentary-screenings-all-year/img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg
 youtube_video_identifier: W6D_g6EB-QY
 organization_name: Ambulante
 

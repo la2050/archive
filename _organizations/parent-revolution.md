@@ -128,5 +128,7 @@ aggregated:
   project_ids:
     - '3102213'
 youtube_video_identifier: ajJ28FU4Wws
+cached_project_image: >-
+  /assets/images/organizations/parent-revolution/img.youtube.com/vi/ajJ28FU4Wws/maxresdefault.jpg
 
 ---

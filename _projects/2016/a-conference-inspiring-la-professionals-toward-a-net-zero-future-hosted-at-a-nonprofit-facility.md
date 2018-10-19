@@ -117,6 +117,8 @@ project_proposal_best_place: >-
   in one location. This collaboration will inspire and jump-start the much
   needed push towards a net zero future, one in which L.A.'s communities will be
   run by clean, renewable energy.
+cached_project_image: >-
+  /assets/images/projects/2016/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
 organization_name: Verdical Group
 organization_website: www.verdicalgroup.com
 

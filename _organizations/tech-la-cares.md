@@ -40,5 +40,7 @@ aggregated:
   project_ids:
     - '6102242'
     - '8102119'
+cached_project_image: >-
+  /assets/images/organizations/tech-la-cares/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 
 ---

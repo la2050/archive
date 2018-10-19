@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How did you hear about this challenge?: Board member in Los Angeles
-  'City, State': 'Washington, DC'
   Organization(s) name(s): National Park Foundation
   Organization(s) mailing address(es): '1110 Vermont Avenue, NW, Washington, DC 20005, Suite 200'
   Organization(s) website(s): www.nationalparks.org
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  'City, State': 'Washington, DC'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -194,6 +194,8 @@ How do you plan to scale the success of your proposal?: >-
   into the second year of Every Kid in a Park during the 2016-2017 school year.
   We will scale up the initiative as we raise funds to provide additional
   transportation grants.
+cached_project_image: >-
+  /assets/images/projects/2015/every-kid-in-a-park-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23519%252Fdisplay%252FEKIPkidswithwalkingsticks.png=c570x385.png
 maker_image_id: '23519'
 maker_image_file_name: EKIPkidswithwalkingsticks.png
 organization_name: National Park Foundation

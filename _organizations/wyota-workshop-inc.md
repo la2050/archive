@@ -34,5 +34,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102279'
+cached_project_image: >-
+  /assets/images/organizations/wyota-workshop-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
 
 ---

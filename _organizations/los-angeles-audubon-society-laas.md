@@ -36,5 +36,7 @@ aggregated:
   project_ids:
     - '6102136'
     - '5102183'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-audubon-society-laas/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 
 ---

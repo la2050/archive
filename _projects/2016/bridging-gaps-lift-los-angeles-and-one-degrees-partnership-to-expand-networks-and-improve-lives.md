@@ -121,6 +121,8 @@ project_proposal_best_place: >-
   tech solution represent the future of poverty alleviation: together, we create
   new avenues for greater coordination among diverse stakeholders and empower
   people to access resources efficiently.
+cached_project_image: >-
+  /assets/images/projects/2016/bridging-gaps-lift-los-angeles-and-one-degrees-partnership-to-expand-networks-and-improve-lives/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4037609065741-team91.png
 organization_name: LIFT Inc.
 organization_website: www.liftcommunities.org
 

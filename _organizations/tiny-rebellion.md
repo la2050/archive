@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '8102127'
 youtube_video_identifier: nu53ttV7jQI
+cached_project_image: >-
+  /assets/images/organizations/tiny-rebellion/img.youtube.com/vi/nu53ttV7jQI/hqdefault.jpg
 
 ---

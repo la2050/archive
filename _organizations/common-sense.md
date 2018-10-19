@@ -34,5 +34,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102029'
+cached_project_image: >-
+  /assets/images/organizations/common-sense/activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
 
 ---

@@ -19,8 +19,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Climate Resolve
   Organization(s) mailing address(es): '1000 N. Alameda St. #240, Los Angeles, CA 90012'
   Organization(s) website(s): www.climateresolve.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -287,6 +287,8 @@ How do you plan to scale the success of your proposal?: >-
    LA 2050’s support of Climate Ready Roofs would develop the model. The scale-up could be funded by either the Greenhouse Gas Reduction Fund or via utility rates.
    
    The Climate Ready Roofs model is exciting because it provides so many benefits at a low cost. If scaled-up, the cost of labor will remain low. There are 49 Habitat for Humanity affiliates in California and more than 1,400 throughout the United States. In addition, there are 7 GRID Alternatives affiliates in California and 10 throughout the country. Moreover, the cost of photovoltaic modules is at an all-time low and is expected to come down further. Funding from the PUC will continue to help pay for low income families to receive solar power through at least 2021. Last, the cost of cool roofs will remain low, thanks to LA City’s aforementioned incentive program, which we hope to expand to the county level. Because Investor Owned Utilities (IOU) need to reach 10% reduction in projected load targets via energy efficiency by 2020, utilities have been given permission to pass these costs on to ratepayers – therefore, we can anticipate more support from IOUs. Indeed, if new countywide mandates on cool roofs take hold, similar to what’s in place in the city of LA, the sheer volume of new “cool” roofing materials would help drive down the price.
+cached_project_image: >-
+  /assets/images/projects/2015/climate-ready-roofs/img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg
 youtube_video_identifier: jRPfyjiCjwg
 organization_name: Climate Resolve
 

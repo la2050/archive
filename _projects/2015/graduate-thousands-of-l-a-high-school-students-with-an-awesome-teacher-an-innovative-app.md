@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): ClassNube (Nube means Cloud in Spanish)
   Organization(s) mailing address(es): '21216 De La Guerra St, Woodland Hills, CA 91364'
   Organization(s) website(s): www.classnube.com
   Organization(s) twitter handle(s): www.twitter.com/classnube
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): ClassNube (Nube means Cloud in Spanish)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -257,6 +257,8 @@ How do you plan to scale the success of your proposal?: >-
   the palm of their hands, we think we can scale the success of our proposal
   well beyond high schools in the city of Los Angeles. At this point, we're
   excited to take it one step at a time.
+cached_project_image: >-
+  /assets/images/projects/2015/graduate-thousands-of-l-a-high-school-students-with-an-awesome-teacher-an-innovative-app/img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg
 youtube_video_identifier: UYdxlEZVaNA
 organization_name: ClassNube (Nube means Cloud in Spanish)
 

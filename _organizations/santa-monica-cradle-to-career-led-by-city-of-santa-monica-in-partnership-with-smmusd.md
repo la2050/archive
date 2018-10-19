@@ -39,5 +39,7 @@ aggregated:
     - '4102017'
 maker_image_file_name: wordcloud-thrivecenter.png
 maker_image_id: '23931'
+cached_project_image: >-
+  /assets/images/organizations/santa-monica-cradle-to-career-led-by-city-of-santa-monica-in-partnership-with-smmusd/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385.png
 
 ---

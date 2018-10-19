@@ -39,5 +39,7 @@ aggregated:
     - '5102271'
     - '4102083'
 youtube_video_identifier: iHlwRhoV_78
+cached_project_image: >-
+  /assets/images/organizations/social-action-partners-soact/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg
 
 ---

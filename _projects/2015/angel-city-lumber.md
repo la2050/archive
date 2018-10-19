@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/4Kt14HIJyiU'
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: word of mouth
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Angel City Lumber
   Organization(s) mailing address(es): "3370 Glendale Blvd\r\n#39404\r\nLos Angeles CA 90039\r\nUnited States"
   Organization(s) website(s): www.angelcitylumber.com
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -222,6 +222,8 @@ How do you plan to scale the success of your proposal?: >-
    Our long term plan involves scaling up production - there are thousands of usable trees coming down in Los Angeles annually, we want to salvage as many as possible. This future will require more infrastructure - vehicles with greater hauling capacity, the hiring of employees and expanding locations. 
    
    The beauty of urban lumber is the simplicity of it’s message, re-use local resources that are otherwise being wasted. It is also a sound business plan, as we’ve seen with the success of urban lumber companies elsewhere. Angel City Lumber hopes to expand it’s operation - while at the same time expanding the awareness of Angelenos of the value of our local resources.
+cached_project_image: >-
+  /assets/images/projects/2015/angel-city-lumber/img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg
 youtube_video_identifier: 4Kt14HIJyiU
 organization_name: Angel City Lumber
 

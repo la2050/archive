@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: 'Email '
-  'City, State': 'Torrance, CA'
   Organization(s) name(s): Culture Shock Los Angeles
   Organization(s) mailing address(es): '4029 Pacific Ave. #7, San Pedro, CA 90731'
   Organization(s) website(s): www.CultureShockLA.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Torrance, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -252,6 +252,8 @@ How do you plan to scale the success of your proposal?: >-
   multi-generational programs that entertain, enrich, and educate, the
   individual classes and services can be tailored to meet the specific needs of
   the communities in which new centers may open.
+cached_project_image: >-
+  /assets/images/projects/2015/c3-center-for-connecting-the-community/img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg
 youtube_video_identifier: wmExJ7xdKYc
 organization_name: Culture Shock Los Angeles
 

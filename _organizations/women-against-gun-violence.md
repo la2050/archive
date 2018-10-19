@@ -31,5 +31,7 @@ aggregated:
     - '4102186'
     - '3102274'
 youtube_video_identifier: ez1sypeq2hI
+cached_project_image: >-
+  /assets/images/organizations/women-against-gun-violence/img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg
 
 ---

@@ -34,5 +34,7 @@ aggregated:
   project_ids:
     - '4102081'
 youtube_video_identifier: TsuTBskJETc
+cached_project_image: >-
+  /assets/images/organizations/senior-star-power-productions/img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg
 
 ---

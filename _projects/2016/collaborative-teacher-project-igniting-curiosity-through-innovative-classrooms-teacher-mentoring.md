@@ -117,6 +117,8 @@ project_proposal_best_place: >-
   level of quality it takes to really make a difference! With the help of 2050,
   LA can lead the way in ensuring that young children are curious, engaged
   learners.
+cached_project_image: >-
+  /assets/images/projects/2016/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
 organization_name: The Pedagogical Institute of Los Angeles
 organization_website: www.thinkwithus.org
 

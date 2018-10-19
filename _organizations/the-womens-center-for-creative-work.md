@@ -36,5 +36,7 @@ aggregated:
     - '4102098'
 maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
 maker_image_id: '20805'
+cached_project_image: >-
+  /assets/images/organizations/the-womens-center-for-creative-work/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20805%252Fdisplay%252F1525354_1412741148965740_1670155225_n.jpg=c570x385.jpg
 
 ---

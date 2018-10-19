@@ -29,5 +29,7 @@ aggregated:
     - '4102141'
 maker_image_file_name: NEW_IFCLOGO.jpg
 maker_image_id: '20849'
+cached_project_image: >-
+  /assets/images/organizations/interfaith-food-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20849%252Fdisplay%252FNEW_IFCLOGO.jpg=c570x385.jpg
 
 ---

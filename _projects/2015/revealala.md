@@ -13,8 +13,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Good website
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Architecture and Design Museum (A+D)
   Organization(s) mailing address(es): "Organization(s) mailing address(es): \r\n900 East 4th Street\r\nLos Angeles, CA 90013"
   Organization(s) website(s): www.aplusd.org
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -124,6 +124,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/revealala/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23861%252Fdisplay%252FAplusD-ReveaLALA.jpg=c570x385.jpg
 maker_image_id: '23861'
 maker_image_file_name: AplusD-ReveaLALA.jpg
 organization_name: Architecture and Design Museum (A+D)

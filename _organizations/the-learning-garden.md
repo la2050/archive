@@ -53,5 +53,7 @@ aggregated:
     - '3102252'
 maker_image_file_name: Garden_Sign.png
 maker_image_id: '16360'
+cached_project_image: >-
+  /assets/images/organizations/the-learning-garden/maker.good.is/images/placeholder/idea.png
 
 ---

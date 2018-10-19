@@ -20,8 +20,24 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  impact_play: >-
+    According to Bonnie L. Vorenberg, President of ArtAge and a nationally
+    recognized expert in senior theatre, and according to AARP, senior theatre
+    is one of the fastest-growing recreation and culture trends in the country. 
+    Los Angeles stands to benefit from this growing trend with the niche
+    entertainment that Senior Star Power offers. The city is already actively
+    involved in supporting theatre venues as a key component in all arts- and
+    culture-promotion projects with a special emphasis on Hollywood and the
+    downtown Broadway areas. It was noted recently that Los Angeles saw a
+    record-breaking 42.1 million visitors in 2013, a factor which will drive
+    city investment in tourism in years to come.  With the influx of new and
+    innovative creative theatre, LA can reach the 50 million+ visitors goal. A
+    case in point: In 2012, Branson, Missouri welcomed over 7.3 million
+    visitors.  Tourism is the Branson/Lakes Area's chief industry, with an
+    estimated $2.9 billion in tourism-related spending in 2012. Average age of
+    visitors was 58 years. 79% of activities participated in were shows.  Senior
+    Star Power can bring these tourists and their spending power to Los Angeles.
   name: 'Senior Star Power - Get Up, Get Out & Get a Life! - The Beat Goes On'
-  handle: seniorstarpower
   City_State: Woodland Hills
   org_name: Senior Star Power Productions
   org_website: www.seniorstarpower.org
@@ -76,23 +92,7 @@ maker_answers:
     the public eye through publicity, community outreach, motivational seminars,
     workshops with community partners, enlisting celebrity seniors in our
     mission, engage the officials of the city of Los Angeles.
-  impact_play: >-
-    According to Bonnie L. Vorenberg, President of ArtAge and a nationally
-    recognized expert in senior theatre, and according to AARP, senior theatre
-    is one of the fastest-growing recreation and culture trends in the country. 
-    Los Angeles stands to benefit from this growing trend with the niche
-    entertainment that Senior Star Power offers. The city is already actively
-    involved in supporting theatre venues as a key component in all arts- and
-    culture-promotion projects with a special emphasis on Hollywood and the
-    downtown Broadway areas. It was noted recently that Los Angeles saw a
-    record-breaking 42.1 million visitors in 2013, a factor which will drive
-    city investment in tourism in years to come.  With the influx of new and
-    innovative creative theatre, LA can reach the 50 million+ visitors goal. A
-    case in point: In 2012, Branson, Missouri welcomed over 7.3 million
-    visitors.  Tourism is the Branson/Lakes Area's chief industry, with an
-    estimated $2.9 billion in tourism-related spending in 2012. Average age of
-    visitors was 58 years. 79% of activities participated in were shows.  Senior
-    Star Power can bring these tourists and their spending power to Los Angeles.
+  handle: seniorstarpower
   who_benefit: >-
     Senior Star Power's project will directly benefit the aging population of
     60+ years and indirectly benefit the entire Los Angeles community. There’s
@@ -191,6 +191,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   lodging, bus tours, dining, shopping, and other entertainment attractions that
   will encourage visitors to stay multiple days in the city.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/senior-star-power-get-up-get-out-get-a-life-the-beat-goes-on/img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg
 youtube_video_identifier: TsuTBskJETc
 
 ---

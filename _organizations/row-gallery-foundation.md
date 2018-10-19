@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102078'
 youtube_video_identifier: ApjqumUUgTI
+cached_project_image: >-
+  /assets/images/organizations/row-gallery-foundation/img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg
 
 ---

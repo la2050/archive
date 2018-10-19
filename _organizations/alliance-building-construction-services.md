@@ -30,5 +30,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102072'
+cached_project_image: >-
+  /assets/images/organizations/alliance-building-construction-services/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9660024355741-team90.jpg
 
 ---

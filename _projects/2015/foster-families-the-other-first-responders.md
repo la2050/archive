@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Have helped others submit in previous years
-  'City, State': 'Los Angeles, CA 90095'
   Organization(s) name(s): UCLA Luskin School of Public Affairs
   Organization(s) mailing address(es): "405 Hilgard Ave.,\r\n3250 Public Policy Bldg"
   Organization(s) website(s): www.luskin.ucla.edu
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA 90095'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -139,6 +139,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/foster-families-the-other-first-responders/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23745%252Fdisplay%252FUCLA_Connect.jpg=c570x385.jpg
 maker_image_id: '23745'
 maker_image_file_name: UCLA_Connect.jpg
 organization_name: UCLA Luskin School of Public Affairs

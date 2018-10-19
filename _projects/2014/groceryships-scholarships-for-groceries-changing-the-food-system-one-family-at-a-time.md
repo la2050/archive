@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: Los Angeles
-  org_name: Groceryships
   org_website: www.groceryships.org
   org_twitter: '@groceryships'
   org_facebook: facebook.com/groceryships
@@ -69,7 +69,7 @@ maker_answers:
     struggling with food related health issues like obesity, diabetes, heart
     disease, malnourishment, etc. 
   partners_collaboration: "Homeboy Industries has mentored us from the early stages of our program, providing advice and support in developing our concept. In October, we are launching our first class together, connecting their twenty-six years of experience, highly motivated members, and proven success with our innovative strategy. This is a mutually beneficial partnership, allowing us to transform the relationship with food for Homeboy employees, explore a different facet of the wellness emphasized by Homeboy, and introduce our curriculum to a new neighborhood.\r\n\r\nVitamix has also worked with us throughout our pilot program. The blenders they donate make it easier for families to increase fruit and vegetable consumption, so much so that kids of our families are holding “smoothie parties.” \r\n"
-  metrics_live_healthyfood: '1'
+  org_name: Groceryships
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '1'
@@ -189,6 +189,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Our most important and long-term partnership, however, is with the people of LA. Our 40 year history has been one of partnering with people from all walks of life to educate, empower and motivate them to heal our environment. TreeMapLA makes it easier for all of us to join together and share knowledge to make our city more sustainable.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/groceryships-scholarships-for-groceries-changing-the-food-system-one-family-at-a-time/img.youtube.com/vi/PpeXRYKkJko/maxresdefault.jpg
 youtube_video_identifier: PpeXRYKkJko
 
 ---

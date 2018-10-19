@@ -36,5 +36,7 @@ aggregated:
   project_ids:
     - '4102105'
 youtube_video_identifier: GzEz6Q-9lWQ
+cached_project_image: >-
+  /assets/images/organizations/will-company/img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg
 
 ---

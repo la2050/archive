@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Children Now
   Organization(s) mailing address(es): '714 W. Olympic Boulevard, Suite 909, Los Angeles, CA 90015'
   Organization(s) website(s): www.ChildrenNow.org
   Organization(s) twitter handle(s): 'www.twitter.com/ChildrenNow '
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Children Now
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -211,6 +211,8 @@ How do you plan to scale the success of your proposal?: >-
    - Mobilizing the network at the right times. 
    
    The coordinated, diverse Pro-Kid advocacy base strengthened as a result of this grant will enable communities to keep working on future critical issues affecting the County’s kids. By unifying hundreds of Pro-Kid groups and serving as hub to mobilize their actions, the Movement gives children’s issues an advocacy base strong enough to compete with powerful special interests. Moving forward, kids’ issues will truly be the top priority of state and local policymakers (not just lip service), and there will be an army of engaged, coordinated organizations ready when critical policy issues arise. After the funding period, Children Now will continue to expand the Movement model throughout LA County and California.
+cached_project_image: >-
+  /assets/images/projects/2015/leveraging-the-childrens-movement-to-make-la-the-best-place-to-learn/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23900%252Fdisplay%252FTCM_ProKid.jpg=c570x385.jpg
 maker_image_id: '23900'
 maker_image_file_name: TCM_ProKid.jpg
 organization_name: Children Now

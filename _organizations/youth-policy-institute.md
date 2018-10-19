@@ -57,5 +57,7 @@ aggregated:
     - '5102347'
     - '4102267'
     - '3102278'
+cached_project_image: >-
+  /assets/images/organizations/youth-policy-institute/activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 
 ---

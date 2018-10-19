@@ -19,8 +19,8 @@ project_areas:
   - Central LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Downtown Los Angeles Art Walk
   Organization(s) mailing address(es): "411 S Main Street, suite M102\r\nLos Angeles, CA 90013"
   Organization(s) website(s): www.downtownartwalk.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -242,6 +242,8 @@ How do you plan to scale the success of your proposal?: >-
   the number of "I voted" stickers we receive at the Art Walk following the
   election, will give us some idea of how well we have succeeded. We will
   evaluate this feedback in framing how to proceed in future election cycles.
+cached_project_image: >-
+  /assets/images/projects/2015/downtown-art-walk-votes/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385.jpg
 maker_image_id: '23344'
 maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
 organization_name: Downtown Los Angeles Art Walk

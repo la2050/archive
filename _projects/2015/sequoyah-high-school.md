@@ -21,8 +21,8 @@ project_areas:
   - San Gabriel Valley
   - San Fernando Valley
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Pasadena,CA '
-  Organization(s) name(s): 'Sequoyah School '
   Organization(s) mailing address(es): "535 S Pasadena Avenue \r\nPasadena, CA 91105 "
   Organization(s) website(s): www.sequoyahschool.org
   Organization(s) twitter handle(s): www.twitter.com/SequoyahSchool
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): 'Sequoyah School '
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -231,6 +231,8 @@ How do you plan to scale the success of your proposal?: >-
   annual summer teacher training institute gathering together public and private
   school educators from across the country and convene an annual Conference for
   Youth Changemakers, in partnership with Ashoka.
+cached_project_image: >-
+  /assets/images/projects/2015/sequoyah-high-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23515%252Fdisplay%252FDSC_0342.jpg=c570x385.jpg
 maker_image_id: '23515'
 maker_image_file_name: DSC_0342.jpg
 organization_name: 'Sequoyah School '

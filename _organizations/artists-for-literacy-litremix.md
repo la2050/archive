@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '5102023'
 youtube_video_identifier: 0EQnXawnCQk
+cached_project_image: >-
+  /assets/images/organizations/artists-for-literacy-litremix/img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg
 
 ---

@@ -20,8 +20,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'El Segundo, CA'
-  Organization(s) name(s): Youth Business Alliance
   Organization(s) mailing address(es): '999 N. Sepulveda Blvd. 7th Floor El Segundo, CA 90245'
   Organization(s) website(s): www.youthbizalliance.com
   Organization(s) twitter handle(s): www.twitter.com/yba999
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Youth Business Alliance
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -236,6 +236,8 @@ How do you plan to scale the success of your proposal?: >-
   needs to be done or there is an upcoming event.
    
    We are also currently working on standardized marketing material (flyers, videos, etc.) to help our teachers recruit students for the YBA Program. We are also working on releasing a best practices guide for all our teachers and guest speakers to ensure that there are systems in place and standards maintained. Next summer we plan on hosting a workshop for all YBA teachers to share ideas and what works. The internship program we are designing has huge potential to be a consistent funding source for YBA.
+cached_project_image: >-
+  /assets/images/projects/2015/youth-business-alliance/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23273%252Fdisplay%252FSantee_High_School_Elisha_Hall.jpg=c570x385.jpg
 maker_image_id: '23273'
 maker_image_file_name: Santee_High_School_Elisha_Hall.jpg
 organization_name: Youth Business Alliance

@@ -33,5 +33,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102059'
+cached_project_image: >-
+  /assets/images/organizations/l-a-kitchen/activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg
 
 ---

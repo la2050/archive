@@ -17,8 +17,8 @@ project_areas:
   - County of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Internet
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Melrose World Cinema Centers
   Organization(s) mailing address(es): '717 N. Highland Av., Studio # 20, Los Angeles, CA 90038'
   Organization(s) website(s): www.mcenters.org
@@ -64,7 +64,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Inspire our Youth to Change the World
@@ -220,6 +220,8 @@ How do you plan to scale the success of your proposal?: |-
    
    
    The other measure is the on-going website and social media outcomes of the workshops, measure in total reach, screenings, community meetings and kids presentation.
+cached_project_image: >-
+  /assets/images/projects/2015/one-life-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23763%252Fdisplay%252FOWW_logo_and_logline.jpg=c570x385.jpg
 maker_image_id: '23763'
 maker_image_file_name: OWW_logo_and_logline.jpg
 organization_name: Melrose World Cinema Centers

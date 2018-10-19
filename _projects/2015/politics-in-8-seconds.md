@@ -19,8 +19,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Tara Roth's presentation for FWD.us
-  'City, State': 'Santa Monica, CA'
   Organization(s) name(s): 'Voter, LLC'
   Organization(s) mailing address(es): '1453 3rd Street Promenade, Suite 300, Santa Monica, CA 90401'
   Organization(s) website(s): www.voter.xyz
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -257,6 +257,8 @@ How do you plan to scale the success of your proposal?: >-
    2. It builds the foundation for an outreach team to contact local candidates in that area.
    
    We will focus on Los Angeles County and it’s 88 municipalities before scaling to other areas in Southern California. With proven success in Los Angeles, we plan to duplicate our program in neighboring areas, including Orange County and Ventura County.
+cached_project_image: >-
+  /assets/images/projects/2015/politics-in-8-seconds/img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg
 youtube_video_identifier: cljP5pJVVbE
 organization_name: 'Voter, LLC'
 
