@@ -12,7 +12,7 @@ project_summary: >-
   - not just jobs - and combine the best of the for-profit and non-profit worlds
   for a socially conscious enterprise.
 project_image: >-
-  'https://scontent-sjc3-1.cdninstagram.com/vp/306653ead28bce62f0f6df66952a0eb8/5C50E398/t51.2885-15/e35/35618139_237603167038940_5367380235643781120_n.jpg'
+  https://scontent-sjc3-1.cdninstagram.com/vp/306653ead28bce62f0f6df66952a0eb8/5C50E398/t51.2885-15/e35/35618139_237603167038940_5367380235643781120_n.jpg
 project_video: ''
 project_is_collaboration: 'Yes'
 project_collaborators: >-

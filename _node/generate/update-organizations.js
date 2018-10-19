@@ -285,6 +285,11 @@ function processFile(filename) {
 
   data.yaml.published = true
 
+  if (data.yaml.project_image.startsWith("'")) {
+    console.log("*****found image with quote: " + data.yaml.project_image)
+    data.yaml.project_image = data.yaml.project_image.replace(/^'/, "").replace(/'$/, "")
+  }
+
   saveMarkdown(filename, data)
 }
 
