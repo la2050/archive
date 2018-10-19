@@ -24,10 +24,11 @@ project_titles:
   - Los Angeles Campaign for Grade Level Reading
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102125'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: C1uVBoRtQ74
 cached_project_image: >-
   /assets/images/organizations/families-in-schools/img.youtube.com/vi/C1uVBoRtQ74/hqdefault.jpg

@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/california-native-plant-public-education-project
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102127'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/landscape-integrity-films-and-education-life/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
 

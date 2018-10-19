@@ -27,10 +27,11 @@ project_titles:
   - Securing a Sustainable and Empowered Los Angeles
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102152'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: 5971_LASC_Poster_07_(1).jpg
 maker_image_id: '22723'
 cached_project_image: >-

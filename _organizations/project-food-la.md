@@ -79,10 +79,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/potlucktruck.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102221'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: ZBTmjmoABZE
 cached_project_image: >-
   /assets/images/organizations/project-food-la/img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg

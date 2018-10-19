@@ -31,12 +31,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102066'
     - '4102194'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: WjnYc_5sRG8
 cached_project_image: >-
   /assets/images/organizations/climate-cents/img.youtube.com/vi/WjnYc_5sRG8/maxresdefault.jpg

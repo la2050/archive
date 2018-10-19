@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/B4UGO.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102012'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Page_6_Behind_the_scenes.JPG
 maker_image_id: '24082'
 cached_project_image: >-

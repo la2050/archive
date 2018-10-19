@@ -93,10 +93,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102139'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: gHdNsESWQgM
 cached_project_image: >-
   /assets/images/organizations/globalgirl-media/img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg

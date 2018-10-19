@@ -30,12 +30,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'
     - 'http://maker.good.is/myla2050/projects/SkidRow2050.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102082'
     - '3102232'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 maker_image_file_name: Photos_2013.JPG
 maker_image_id: '21430'
 cached_project_image: >-

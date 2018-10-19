@@ -30,11 +30,12 @@ aggregated:
     - 'https://activation.la2050.org/create/the-natch-inc/'
     - >-
       https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door
+  project_ids:
+    - '6102208'
   year_submitted:
     - '2018'
     - '2016'
-  project_ids:
-    - '6102208'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/the-natch-inc/activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
 

@@ -29,10 +29,11 @@ project_titles:
     Awareness Campaign
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102116'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: qBtFoJ-YYd0
 cached_project_image: >-
   /assets/images/organizations/boys-girls-club-of-hollywood/img.youtube.com/vi/qBtFoJ-YYd0/maxresdefault.jpg

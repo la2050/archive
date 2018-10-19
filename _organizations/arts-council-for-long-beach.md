@@ -35,10 +35,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ALOT.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102027'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: nPa4Lu7CMPA
 cached_project_image: >-
   /assets/images/organizations/arts-council-for-long-beach/img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg

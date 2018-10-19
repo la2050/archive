@@ -20,10 +20,11 @@ project_titles:
   - We Teach Kids Code
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102067'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: la2050-pic-2.png
 maker_image_id: '21687'
 cached_project_image: >-

@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102039'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: _BC4Wfw6Gb4
 cached_project_image: >-
   /assets/images/organizations/friends-of-the-visiontheater/img.youtube.com/vi/_BC4Wfw6Gb4/hqdefault.jpg

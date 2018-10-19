@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/trailcity.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102045'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: _1j9tLhT4z8
 cached_project_image: >-
   /assets/images/organizations/interpretive-media-laboratory-imlab/img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg

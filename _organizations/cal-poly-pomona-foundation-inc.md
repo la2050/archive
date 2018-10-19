@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/GrassGreener.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102047'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: 0fH09h-Rx9o
 cached_project_image: >-
   /assets/images/organizations/cal-poly-pomona-foundation-inc/img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg

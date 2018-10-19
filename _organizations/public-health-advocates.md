@@ -24,10 +24,11 @@ project_titles: []
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/EatWellLiveBetter.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '#N/A'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 cached_project_image: >-
   /assets/images/organizations/public-health-advocates/maker.good.is/images/placeholder/idea.png
 

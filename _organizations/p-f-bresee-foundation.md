@@ -35,12 +35,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'
     - 'http://maker.good.is/myla2050/projects/Bresee.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102225'
     - '3102219'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: yeyzmCpYfFk
 cached_project_image: >-
   /assets/images/organizations/p-f-bresee-foundation/img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg

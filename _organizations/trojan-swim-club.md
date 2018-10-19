@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102323'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: SdL6NXZskjo
 cached_project_image: >-
   /assets/images/organizations/trojan-swim-club/img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg

@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102009'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: ytlmnttRP70
 cached_project_image: >-
   /assets/images/organizations/arroyo-s-e-c-o-sustainable-economies-community-organization/img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg

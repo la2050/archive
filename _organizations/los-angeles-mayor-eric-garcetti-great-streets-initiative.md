@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102191'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: Screen_Shot_2015-10-07_at_4.00.20_PM.png
 maker_image_id: '24129'
 cached_project_image: >-

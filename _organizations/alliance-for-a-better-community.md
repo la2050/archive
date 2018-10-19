@@ -55,10 +55,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102012'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: IMG_5905.JPG
 maker_image_id: '16427'
 cached_project_image: >-

@@ -33,12 +33,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
     - 'http://maker.good.is/myla2050/projects/climateresolve.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102067'
     - '3102076'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: jRPfyjiCjwg
 cached_project_image: >-
   /assets/images/organizations/climate-resolve/img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg

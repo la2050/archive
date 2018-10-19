@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/CIIACES.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102053'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: 3AOHXhfJeho
 cached_project_image: >-
   /assets/images/organizations/childrens-institute-inc-cii/img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg

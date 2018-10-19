@@ -31,12 +31,13 @@ aggregated:
       https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
     - >-
       https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
-  year_submitted:
-    - '2016'
-    - '2016'
   project_ids:
     - '6102079'
     - '6102078'
+  year_submitted:
+    - '2016'
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/geena-davis-institute-on-gender-in-media-at-mount-saint-marys-university/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
 

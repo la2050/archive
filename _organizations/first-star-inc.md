@@ -40,10 +40,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FirstStar.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102128'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: CZMjDcpz53c
 cached_project_image: >-
   /assets/images/organizations/first-star-inc/img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg

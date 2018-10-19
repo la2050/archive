@@ -30,9 +30,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: yP9QgOVBaYA
 cached_project_image: >-
   /assets/images/organizations/dharma-health-institute/img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg

@@ -36,12 +36,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
     - 'http://maker.good.is/myla2050learn2015/projects/PEL.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102174'
     - '5102229'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/parents-education-league/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
 

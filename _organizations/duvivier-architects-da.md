@@ -24,10 +24,11 @@ project_titles:
   - Los Angeles Beaches Forever
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '5102091'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: fAQOxqwuIHk
 cached_project_image: >-
   /assets/images/organizations/duvivier-architects-da/img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg

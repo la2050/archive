@@ -35,10 +35,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102225'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: 2010-2011_Graduation_Picture.171103650_std.jpg
 maker_image_id: '16300'
 cached_project_image: >-

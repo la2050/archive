@@ -30,9 +30,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 youtube_video_identifier: ql6hxsjKMCQ
 cached_project_image: >-
   /assets/images/organizations/massknowtify/img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg

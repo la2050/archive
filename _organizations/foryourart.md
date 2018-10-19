@@ -42,10 +42,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/36hoursinLA2050_FYA.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102052'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: vnfl_final.jpg
 maker_image_id: '16352'
 cached_project_image: >-

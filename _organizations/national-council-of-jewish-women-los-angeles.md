@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-talk-project-–-teens-leading-workshops-on-sexual-violence-culture-change
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102162'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/national-council-of-jewish-women-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6377992175741-team91.jpg
 

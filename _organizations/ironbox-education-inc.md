@@ -29,9 +29,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 maker_image_file_name: ironboxeducationLA2050.jpg
 maker_image_id: '23622'
 cached_project_image: >-

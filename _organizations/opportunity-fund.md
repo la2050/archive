@@ -80,18 +80,19 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/smallbizmicroloans.html'
     - 'http://maker.good.is/myLA2050create/projects/OpportunityFund.html'
     - 'http://maker.good.is/myla2050/projects/smallbizmicroloans.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '8102093'
     - '6102171'
     - '5102224'
     - '4102259'
     - '3102210'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/opportunity-fund/activation.la2050.org/assets/images/create/2048-wide/opportunity-fund.jpg
 

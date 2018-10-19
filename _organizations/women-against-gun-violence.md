@@ -24,12 +24,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SLAM.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102186'
     - '3102274'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: ez1sypeq2hI
 cached_project_image: >-
   /assets/images/organizations/women-against-gun-violence/img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg

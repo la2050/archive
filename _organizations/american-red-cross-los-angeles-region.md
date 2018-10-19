@@ -36,14 +36,15 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'
     - 'http://maker.good.is/myLA2050connect/projects/communityambassadors.html'
     - 'http://maker.good.is/myla2050/projects/PrepareLA.html'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '5102015'
     - '4102192'
     - '3102018'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2015'
 maker_image_file_name: community_ambassdor_graphic_button_graphic.jpg
 maker_image_id: '21941'
 cached_project_image: >-

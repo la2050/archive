@@ -37,12 +37,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
     - 'http://maker.good.is/myLA2050play/projects/scvadventureplay.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102290'
     - '8102137'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 maker_image_file_name: SCV_ADvplay_table_logo.png
 maker_image_id: '24111'
 cached_project_image: >-

@@ -23,10 +23,11 @@ project_titles:
     families homes.
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102185'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: 4svMiNJ-HL0
 cached_project_image: >-
   /assets/images/organizations/westside-infant-family-network-win/img.youtube.com/vi/4svMiNJ-HL0/hqdefault.jpg

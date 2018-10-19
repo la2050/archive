@@ -28,9 +28,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 maker_image_file_name: IMG_8112_web.jpg
 maker_image_id: '23544'
 cached_project_image: >-

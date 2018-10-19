@@ -41,10 +41,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ImPactFarms.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102057'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: Logo_Color_Large2.png
 maker_image_id: '16812'
 cached_project_image: >-

@@ -32,11 +32,12 @@ aggregated:
     - 'https://activation.la2050.org/live/podshare/'
     - >-
       https://challenge.la2050.org/entry/building-a-co-living-community-for-las-homeless-youth
+  project_ids:
+    - '6102219'
   year_submitted:
     - '2018'
     - '2016'
-  project_ids:
-    - '6102219'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/podshare/activation.la2050.org/assets/images/live/2048-wide/podshare.jpg
 

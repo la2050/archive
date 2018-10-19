@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102118'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: Vv698CCwrt4
 cached_project_image: >-
   /assets/images/organizations/millennial-magazine-apps4la/img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg

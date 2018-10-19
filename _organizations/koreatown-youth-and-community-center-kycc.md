@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/FREETAXPREP.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102046'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: tFrudFZCeRY
 cached_project_image: >-
   /assets/images/organizations/koreatown-youth-and-community-center-kycc/img.youtube.com/vi/tFrudFZCeRY/maxresdefault.jpg

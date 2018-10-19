@@ -56,10 +56,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/schoolgardensforall.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102137'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: beans_on_clothes_H_small.jpg
 maker_image_id: '16977'
 cached_project_image: >-

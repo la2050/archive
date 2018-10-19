@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102063'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: grALjLXwxgM
 cached_project_image: >-
   /assets/images/organizations/newfilmmakers-los-angeles/img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg

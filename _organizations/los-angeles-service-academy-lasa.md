@@ -35,16 +35,17 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/los-angeles-is-a-puzzle-together-we-make-sense-of-it
     - 'http://maker.good.is/myla2050connect2015/projects/LASA.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '8102077'
     - '6102145'
     - '5102195'
     - '4102256'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/los-angeles-service-academy-lasa/activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
 

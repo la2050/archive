@@ -31,12 +31,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
     - 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102261'
     - '4102017'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 maker_image_file_name: wordcloud-thrivecenter.png
 maker_image_id: '23931'
 cached_project_image: >-

@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '5102132'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: usGtj9dvrhA
 cached_project_image: >-
   /assets/images/organizations/earth-protect-inc/img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg

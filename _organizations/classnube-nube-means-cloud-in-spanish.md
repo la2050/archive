@@ -34,10 +34,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '4102099'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: UYdxlEZVaNA
 cached_project_image: >-
   /assets/images/organizations/classnube-nube-means-cloud-in-spanish/img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg

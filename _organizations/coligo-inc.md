@@ -26,10 +26,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-first-social-networking-service-for-nonprofit-organizations
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102105'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/coligo-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156024363741-team89.jpg
 

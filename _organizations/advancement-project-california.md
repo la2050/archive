@@ -29,12 +29,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
     - 'http://maker.good.is/myla2050/projects/SafeStreetsinWatts.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102005'
     - '3102007'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: nt_fnRYCyhI
 cached_project_image: >-
   /assets/images/organizations/advancement-project-california/img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg

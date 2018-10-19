@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102015'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: XoT_36T5K5E
 cached_project_image: >-
   /assets/images/organizations/beauty-bus-foundation/img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg

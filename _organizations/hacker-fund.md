@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/hacker-fund/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102050'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/hacker-fund/activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg
 

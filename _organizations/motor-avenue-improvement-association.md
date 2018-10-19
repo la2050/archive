@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/MotorAvenueFood.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102210'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: g0KxazcQnVA
 cached_project_image: >-
   /assets/images/organizations/motor-avenue-improvement-association/img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg

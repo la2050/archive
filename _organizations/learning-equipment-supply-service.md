@@ -25,10 +25,11 @@ project_titles:
   - Lab Equipment Access for LA Science Teachers
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102143'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: less.png
 maker_image_id: '21591'
 cached_project_image: >-

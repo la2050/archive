@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/servicelearningHFS.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102136'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: FullSizeRender-2.jpg
 maker_image_id: '23605'
 cached_project_image: >-

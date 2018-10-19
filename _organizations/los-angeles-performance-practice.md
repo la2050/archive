@@ -27,9 +27,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: Shank_130920_453.jpg
 maker_image_id: '21753'
 cached_project_image: >-

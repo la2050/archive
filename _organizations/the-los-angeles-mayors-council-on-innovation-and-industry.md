@@ -114,10 +114,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LAMCII.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102254'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: LAMCII_graphic.png
 maker_image_id: '16540'
 cached_project_image: >-

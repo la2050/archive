@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102214'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/southern-california-public-radio-kpcc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
 

@@ -25,12 +25,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/EnvisionLA.html'
     - 'http://maker.good.is/myla2050/projects/URBANTxt.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102102'
     - '3102268'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: g_OFCYLH7gw
 cached_project_image: >-
   /assets/images/organizations/urban-teens-exploring-technology-txt/img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg

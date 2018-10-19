@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LACASHFORCOLLEGE.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102333'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: q4McatdcN78
 cached_project_image: >-
   /assets/images/organizations/unite-la/img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg

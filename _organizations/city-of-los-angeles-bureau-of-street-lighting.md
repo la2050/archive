@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102026'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/city-of-los-angeles-bureau-of-street-lighting/activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
 

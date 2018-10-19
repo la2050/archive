@@ -33,12 +33,13 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'
     - 'http://maker.good.is/myla2050live2015/projects/richstone.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102198'
     - '5102253'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/richstone-family-center/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
 

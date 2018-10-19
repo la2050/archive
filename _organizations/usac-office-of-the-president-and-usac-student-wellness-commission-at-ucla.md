@@ -29,12 +29,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ALLOFUSMENTALHEALTH.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102337'
     - '4102219'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: YHlDfLtzSio
 cached_project_image: >-
   /assets/images/organizations/usac-office-of-the-president-and-usac-student-wellness-commission-at-ucla/img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg

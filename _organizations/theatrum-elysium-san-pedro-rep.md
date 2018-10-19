@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102166'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: nJPC81QoGyk
 cached_project_image: >-
   /assets/images/organizations/theatrum-elysium-san-pedro-rep/img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg

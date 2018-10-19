@@ -39,10 +39,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102271'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: U3BkXd4ano4
 cached_project_image: >-
   /assets/images/organizations/venice-art-crawl/img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg

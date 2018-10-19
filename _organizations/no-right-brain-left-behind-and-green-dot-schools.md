@@ -52,10 +52,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/salamanderproject.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102207'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: y3Gts_Aoxd8
 cached_project_image: >-
   /assets/images/organizations/no-right-brain-left-behind-and-green-dot-schools/img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg

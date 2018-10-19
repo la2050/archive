@@ -39,14 +39,15 @@ aggregated:
       https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
     - 'http://maker.good.is/myLA2050connect/projects/goodfoodla.html'
     - 'http://maker.good.is/myla2050/projects/goodfoodla.html'
-  year_submitted:
-    - '2016'
-    - '2014'
-    - '2013'
   project_ids:
     - '6102140'
     - '4102232'
     - '3102185'
+  year_submitted:
+    - '2016'
+    - '2014'
+    - '2013'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/los-angeles-food-policy-council/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
 

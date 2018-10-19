@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102143'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/los-angeles-neighborhood-initiative-lani/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
 

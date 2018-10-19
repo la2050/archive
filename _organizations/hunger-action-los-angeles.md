@@ -25,10 +25,11 @@ project_titles:
   - 'Market Match Program : Making Healthy Food Affordable'
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102135'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: Market_Match_Booth_Adams.Vermont_1.jpg
 maker_image_id: '22352'
 cached_project_image: >-

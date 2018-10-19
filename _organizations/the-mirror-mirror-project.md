@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102094'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: awJQoJqGL-o
 cached_project_image: >-
   /assets/images/organizations/the-mirror-mirror-project/img.youtube.com/vi/awJQoJqGL-o/hqdefault.jpg

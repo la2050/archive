@@ -31,10 +31,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102175'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: HVOvMO9t6Gk
 cached_project_image: >-
   /assets/images/organizations/with-love-market-and-cafe-with-love-community-market-and-cafe/img.youtube.com/vi/HVOvMO9t6Gk/maxresdefault.jpg

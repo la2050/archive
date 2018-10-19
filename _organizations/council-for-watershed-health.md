@@ -34,12 +34,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
     - 'http://maker.good.is/myla2050/projects/pulseoflosangeles.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102079'
     - '3102093'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: kQnTJYkpO4A
 cached_project_image: >-
   /assets/images/organizations/council-for-watershed-health/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg

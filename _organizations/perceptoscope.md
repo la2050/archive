@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102215'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/perceptoscope/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
 

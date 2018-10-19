@@ -30,12 +30,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102302'
     - '4102140'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: SHjS92F_BK8
 cached_project_image: >-
   /assets/images/organizations/the-incubator-school/img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg

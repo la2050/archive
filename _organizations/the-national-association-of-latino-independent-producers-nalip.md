@@ -32,12 +32,13 @@ aggregated:
     - >-
       https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
     - 'http://maker.good.is/myLA2050create/projects/DigtizeLA.html'
-  year_submitted:
-    - '2018'
-    - '2014'
   project_ids:
     - '8102121'
     - '4102264'
+  year_submitted:
+    - '2018'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/the-national-association-of-latino-independent-producers-nalip/activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 

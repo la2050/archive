@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/peace.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102108'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: WP1_Logo_new.jpg
 maker_image_id: '22532'
 cached_project_image: >-

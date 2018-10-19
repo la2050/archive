@@ -33,10 +33,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102006'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/america-scores-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
 

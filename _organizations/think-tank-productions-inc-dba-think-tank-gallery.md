@@ -35,13 +35,14 @@ aggregated:
       https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/
     - >-
       https://challenge.la2050.org/entry/think-tanks-red-tape-removal-program-–-untying-the-bureaucratic-knots-from-la-art-production
-  year_submitted:
-    - '2018'
-    - '2016'
   project_ids:
     - '5102319'
     - '6102263'
     - '8102125'
+  year_submitted:
+    - '2018'
+    - '2016'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/think-tank-productions-inc-dba-think-tank-gallery/activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 

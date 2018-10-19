@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102024'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/building-healthy-communities-long-beach/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1573115165741-team88.jpg
 

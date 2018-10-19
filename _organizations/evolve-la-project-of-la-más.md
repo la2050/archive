@@ -28,10 +28,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102066'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/evolve-la-project-of-la-más/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
 

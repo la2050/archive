@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102230'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: IscZOss0am8
 cached_project_image: >-
   /assets/images/organizations/pass-tha-ball/img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg

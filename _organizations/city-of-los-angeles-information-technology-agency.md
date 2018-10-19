@@ -29,10 +29,11 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102025'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/city-of-los-angeles-information-technology-agency/activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 

@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/SNAC.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102107'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: logo.png
 maker_image_id: '20761'
 cached_project_image: >-

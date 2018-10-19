@@ -23,10 +23,11 @@ project_titles:
   - Four Seasons of Food
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102141'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: NEW_IFCLOGO.jpg
 maker_image_id: '20849'
 cached_project_image: >-

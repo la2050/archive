@@ -33,12 +33,13 @@ aggregated:
     - >-
       http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html
     - 'http://maker.good.is/myla2050/projects/SOUNDSHARELA.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102088'
     - '3102115'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 youtube_video_identifier: xXMkk_S-UnU
 cached_project_image: >-
   /assets/images/organizations/dublab/img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg

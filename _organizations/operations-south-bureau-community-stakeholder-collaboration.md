@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102223'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: aH5tvjvjOYE
 cached_project_image: >-
   /assets/images/organizations/operations-south-bureau-community-stakeholder-collaboration/img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg

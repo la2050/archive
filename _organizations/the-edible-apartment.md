@@ -32,12 +32,13 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'
     - 'http://maker.good.is/myla2050live2015/projects/theedibleapartment.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102240'
     - '5102301'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/the-edible-apartment/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1280996065741-team88.jpg
 

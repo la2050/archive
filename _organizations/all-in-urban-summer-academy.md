@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '4102079'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/all-in-urban-summer-academy/activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
 

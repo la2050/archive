@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LCreativo.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '5102117'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: XFrn3G05ZVc
 cached_project_image: >-
   /assets/images/organizations/creative-cycle-llc-dba-l-creativo/img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg

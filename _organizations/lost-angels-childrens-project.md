@@ -32,10 +32,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102148'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/lost-angels-childrens-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
 

@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/schkapf.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102080'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: mei1C43QDXw
 cached_project_image: >-
   /assets/images/organizations/schkapf/img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg

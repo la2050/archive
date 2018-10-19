@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/süprseed/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102113'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/süprseed-inc/activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg
 

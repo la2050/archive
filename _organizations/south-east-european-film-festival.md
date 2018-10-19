@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102084'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: qtJ5XumU1Gw
 cached_project_image: >-
   /assets/images/organizations/south-east-european-film-festival/img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg

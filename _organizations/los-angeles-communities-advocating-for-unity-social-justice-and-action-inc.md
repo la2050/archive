@@ -35,14 +35,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
     - 'http://maker.good.is/myla2050/projects/saladbowl.html'
     - 'http://maker.good.is/myla2050/projects/LACYBCommunitySafety.html'
-  year_submitted:
-    - '2013'
-    - '2013'
-    - '2013'
   project_ids:
     - '3102183'
     - '3102169'
     - '3102168'
+  year_submitted:
+    - '2013'
+    - '2013'
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: LA_CAUSA.jpg
 maker_image_id: '16688'
 cached_project_image: >-

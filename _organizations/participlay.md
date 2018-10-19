@@ -35,10 +35,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/craftservices.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102083'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: Diva_Mob_with_logo.jpeg
 maker_image_id: '17034'
 cached_project_image: >-

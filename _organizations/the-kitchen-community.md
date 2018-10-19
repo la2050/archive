@@ -22,10 +22,11 @@ project_titles:
   - Every Kid Deserves a Learning Garden
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102170'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: Happy_Greens.jpg
 maker_image_id: '21882'
 cached_project_image: >-

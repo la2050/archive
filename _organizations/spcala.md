@@ -40,12 +40,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ASN.html'
     - 'http://maker.good.is/myLA2050play/projects/generationempathy.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102279'
     - '4102214'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 maker_image_file_name: Carrie_15-00963.jpg
 maker_image_id: '23662'
 cached_project_image: >-

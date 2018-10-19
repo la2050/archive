@@ -37,12 +37,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
     - 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102300'
     - '4102088'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: YijVi1ZG5EM
 cached_project_image: >-
   /assets/images/organizations/the-dinner-party-the-kitchen-widow-hope-after-project-first-seating/img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg

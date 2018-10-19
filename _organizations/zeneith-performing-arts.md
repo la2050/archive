@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102289'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/zeneith-performing-arts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
 

@@ -31,12 +31,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ModelsofMobilization.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102322'
     - '4102178'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: r9LtyQwYAks
 cached_project_image: >-
   /assets/images/organizations/treepeople/img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg

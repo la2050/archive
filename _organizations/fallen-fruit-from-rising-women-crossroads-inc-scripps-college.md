@@ -33,12 +33,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
     - 'http://maker.good.is/myLA2050create/projects/FFFRW.html'
-  year_submitted:
-    - '2015'
-    - '2014'
   project_ids:
     - '5102099'
     - '4102025'
+  year_submitted:
+    - '2015'
+    - '2014'
+year_submitted: '2015'
 youtube_video_identifier: Ht0-3dSjCew
 cached_project_image: >-
   /assets/images/organizations/fallen-fruit-from-rising-women-crossroads-inc-scripps-college/img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg

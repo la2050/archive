@@ -27,9 +27,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: GYSTInksoftware_artworktracking.png
 maker_image_id: '21305'
 cached_project_image: >-

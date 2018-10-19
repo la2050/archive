@@ -34,14 +34,15 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/peer-health-exchange/'
     - 'http://maker.good.is/myla2050/projects/peerhealthexchange.html'
-  year_submitted:
-    - '2018'
-    - '2014'
-    - '2013'
   project_ids:
     - '8102094'
     - '4102260'
     - '3102216'
+  year_submitted:
+    - '2018'
+    - '2014'
+    - '2013'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/peer-health-exchange/activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 

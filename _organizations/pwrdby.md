@@ -27,9 +27,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 maker_image_file_name: good.jpg
 maker_image_id: '20899'
 cached_project_image: >-

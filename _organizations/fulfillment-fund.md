@@ -60,10 +60,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102136'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: Destination_College_Photo.jpg
 maker_image_id: '16910'
 cached_project_image: >-

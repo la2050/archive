@@ -33,12 +33,13 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/IgniteImagination.html'
     - 'http://maker.good.is/myla2050/projects/LEVITT.html'
-  year_submitted:
-    - '2015'
-    - '2013'
   project_ids:
     - '5102175'
     - '3102179'
+  year_submitted:
+    - '2015'
+    - '2013'
+year_submitted: '2015'
 maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
 maker_image_id: '23665'
 cached_project_image: >-

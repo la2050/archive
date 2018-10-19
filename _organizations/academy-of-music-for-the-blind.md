@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102008'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: AMBgroupPic.jpg
 maker_image_id: '23208'
 cached_project_image: >-

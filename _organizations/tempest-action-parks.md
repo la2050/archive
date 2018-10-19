@@ -26,9 +26,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: k-SpD948tJc
 cached_project_image: >-
   /assets/images/organizations/tempest-action-parks/img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg

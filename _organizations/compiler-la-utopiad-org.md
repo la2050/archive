@@ -32,10 +32,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102150'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: KHtt2okRChU
 cached_project_image: >-
   /assets/images/organizations/compiler-la-utopiad-org/img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg

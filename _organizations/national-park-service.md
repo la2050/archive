@@ -46,10 +46,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/GreenKidsLA2050.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102201'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: Gx66ZyZaf90
 cached_project_image: >-
   /assets/images/organizations/national-park-service/img.youtube.com/vi/Gx66ZyZaf90/hqdefault.jpg

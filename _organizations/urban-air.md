@@ -29,11 +29,12 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
     - 'http://maker.good.is/myla2050/projects/urbanair.html'
+  project_ids:
+    - '3102098'
   year_submitted:
     - '2014'
     - '2013'
-  project_ids:
-    - '3102098'
+year_submitted: '2014'
 maker_image_file_name: urban_air.jpg
 maker_image_id: '21229'
 cached_project_image: >-

@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102155'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: ReConnectLA_Logo_02.jpg
 maker_image_id: '23396'
 cached_project_image: >-

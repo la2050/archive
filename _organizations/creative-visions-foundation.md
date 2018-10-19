@@ -59,10 +59,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/creativeactivists.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102097'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: 8N5kv8ddErc
 cached_project_image: >-
   /assets/images/organizations/creative-visions-foundation/img.youtube.com/vi/8N5kv8ddErc/maxresdefault.jpg

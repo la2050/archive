@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102100'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: 2050_Lg.jpg
 maker_image_id: '23612'
 cached_project_image: >-

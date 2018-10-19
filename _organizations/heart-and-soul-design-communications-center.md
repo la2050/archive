@@ -27,10 +27,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/CHIMEtime.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102131'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: MIn1VBaIlrQ
 cached_project_image: >-
   /assets/images/organizations/heart-and-soul-design-communications-center/img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg

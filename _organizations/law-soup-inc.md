@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '5102162'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: DRehRt5n68c
 cached_project_image: >-
   /assets/images/organizations/law-soup-inc/img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg

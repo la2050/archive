@@ -26,9 +26,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'
+  project_ids: []
   year_submitted:
     - '2015'
-  project_ids: []
+year_submitted: '2015'
 youtube_video_identifier: XYkDHo1jJ1c
 cached_project_image: >-
   /assets/images/organizations/wise-guys-events/img.youtube.com/vi/XYkDHo1jJ1c/maxresdefault.jpg

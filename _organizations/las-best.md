@@ -38,14 +38,15 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/las-best-aarp-foundation-experience-corps-brighter-futures-via-reading-proficiency-by-3rd-grade
     - 'http://maker.good.is/myLA2050play/projects/CFS.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2014'
   project_ids:
     - '8102065'
     - '6102128'
     - '4102253'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/las-best/activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg
 

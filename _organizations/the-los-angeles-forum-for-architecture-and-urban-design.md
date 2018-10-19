@@ -22,12 +22,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/stimulateLA.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '4102172'
     - '3102186'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: tgVu1wy15RQ
 cached_project_image: >-
   /assets/images/organizations/the-los-angeles-forum-for-architecture-and-urban-design/img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg

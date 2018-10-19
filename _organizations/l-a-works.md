@@ -36,12 +36,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
     - 'http://maker.good.is/myla2050connect2015/projects/LAWorks.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102118'
     - '5102165'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/l-a-works/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 

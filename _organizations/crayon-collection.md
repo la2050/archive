@@ -34,10 +34,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/crayon-collection/'
-  year_submitted:
-    - '2018'
   project_ids:
     - '8102032'
+  year_submitted:
+    - '2018'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/crayon-collection/activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
 

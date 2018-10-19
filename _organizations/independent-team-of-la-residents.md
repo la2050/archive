@@ -24,10 +24,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/mybucketlistLA.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102140'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 maker_image_file_name: MyBucketlistLA.png
 maker_image_id: '23304'
 cached_project_image: >-

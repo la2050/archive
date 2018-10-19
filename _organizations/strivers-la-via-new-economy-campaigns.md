@@ -22,12 +22,13 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/striversLA.html'
-  year_submitted:
-    - '2014'
-    - '2013'
   project_ids:
     - '5102095'
     - '3102100'
+  year_submitted:
+    - '2014'
+    - '2013'
+year_submitted: '2014'
 youtube_video_identifier: lz8FDz2KN0s
 cached_project_image: >-
   /assets/images/organizations/strivers-la-via-new-economy-campaigns/img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg

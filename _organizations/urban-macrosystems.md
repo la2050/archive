@@ -57,10 +57,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/NRT.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102113'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: placita_nueva.jpg
 maker_image_id: '16818'
 cached_project_image: >-

@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/AIM.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102010'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: SPIFF-Youth-Intensive.jpg
 maker_image_id: '21797'
 cached_project_image: >-

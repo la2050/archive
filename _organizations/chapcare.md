@@ -25,10 +25,11 @@ project_titles:
   - Spreading ChapCare's Retail Health Insurance Enrollment Shop Model
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102121'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: March_31_2014_at_5pm.jpeg
 maker_image_id: '21436'
 cached_project_image: >-

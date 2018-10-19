@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102193'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: MbjQABq5iTI
 cached_project_image: >-
   /assets/images/organizations/los-angeles-promise-zone-initiative-la-mayors-office-of-economic-development-c-o-mayors-fund-for-los-angeles/img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg

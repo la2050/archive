@@ -85,10 +85,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102090'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: _8WrWZXDKdQ
 cached_project_image: >-
   /assets/images/organizations/riverlanding-collective/img.youtube.com/vi/_8WrWZXDKdQ/hqdefault.jpg

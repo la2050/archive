@@ -76,10 +76,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102209'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: YCMb5z0EVGw
 cached_project_image: >-
   /assets/images/organizations/one-day-on-earth/img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg

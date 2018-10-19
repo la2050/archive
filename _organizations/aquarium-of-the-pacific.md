@@ -25,10 +25,11 @@ project_titles:
   - Seafood for the Future
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102112'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: AquariumPacific.jpg
 maker_image_id: '22849'
 cached_project_image: >-

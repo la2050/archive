@@ -34,12 +34,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/the-big-draw-la-drawing-festival-drawing-los-angeles-together!
     - 'http://maker.good.is/myla2050/projects/thebigdrawla.html'
-  year_submitted:
-    - '2016'
-    - '2013'
   project_ids:
     - '6102201'
     - '3102230'
+  year_submitted:
+    - '2016'
+    - '2013'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/ryman-arts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
 

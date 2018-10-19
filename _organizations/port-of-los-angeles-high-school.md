@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/college-career-and-community-polahs-career-technical-education-cte-program
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102187'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/port-of-los-angeles-high-school/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
 

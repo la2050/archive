@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/Fix_our_traffic.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102097'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: Cars_Attribution_Biofriendly_Creative_Commons_license.jpeg
 maker_image_id: '20691'
 cached_project_image: >-

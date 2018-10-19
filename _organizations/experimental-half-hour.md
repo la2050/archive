@@ -26,10 +26,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102035'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: DiU_9RR7ZvY
 cached_project_image: >-
   /assets/images/organizations/experimental-half-hour/img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg

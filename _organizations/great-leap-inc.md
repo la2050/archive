@@ -60,10 +60,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FandangObon2050.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102142'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: gyQdQTAWs0U
 cached_project_image: >-
   /assets/images/organizations/great-leap-inc/img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg

@@ -29,10 +29,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102020'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: ffK1mzyzUPE
 cached_project_image: >-
   /assets/images/organizations/arroyo-seco-foundation/img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg

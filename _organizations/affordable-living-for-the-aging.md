@@ -74,10 +74,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SharedHousing.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102009'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: FVOqZ9sWi8k
 cached_project_image: >-
   /assets/images/organizations/affordable-living-for-the-aging/img.youtube.com/vi/FVOqZ9sWi8k/hqdefault.jpg

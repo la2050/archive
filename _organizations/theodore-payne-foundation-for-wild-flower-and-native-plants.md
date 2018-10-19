@@ -35,12 +35,13 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
     - 'http://maker.good.is/myla2050connect2015/projects/LFR.html'
-  year_submitted:
-    - '2016'
-    - '2015'
   project_ids:
     - '6102261'
     - '5102316'
+  year_submitted:
+    - '2016'
+    - '2015'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/theodore-payne-foundation-for-wild-flower-and-native-plants/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 

@@ -25,10 +25,11 @@ project_titles:
   - Nutrition Education Program
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102161'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
 maker_image_id: '22174'
 cached_project_image: >-

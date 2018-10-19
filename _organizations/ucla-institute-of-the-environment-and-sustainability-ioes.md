@@ -32,10 +32,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/using-an-app-to-increase-awareness-of-air-quality-and-empower-individuals-to-protect-their-health
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102266'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/ucla-institute-of-the-environment-and-sustainability-ioes/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
 

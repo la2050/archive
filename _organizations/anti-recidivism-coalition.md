@@ -30,10 +30,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102017'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: jxDLaDNSLjo
 cached_project_image: >-
   /assets/images/organizations/anti-recidivism-coalition/img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg

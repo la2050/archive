@@ -31,10 +31,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-ron-finley-project-presents-da-function-a-community-fun-fest
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102256'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/the-ron-finley-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
 

@@ -39,16 +39,17 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/bringing-stem-to-city-year-after-school-programs-in-boyle-heights-and-pico-union
     - 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
   project_ids:
     - '8102027'
     - '6102040'
     - '5102062'
     - '4102249'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+year_submitted: '2018'
 cached_project_image: >-
   /assets/images/organizations/city-year-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
 

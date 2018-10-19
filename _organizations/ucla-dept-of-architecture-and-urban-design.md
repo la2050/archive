@@ -42,10 +42,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102261'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 maker_image_file_name: HYPOPARK.jpg
 maker_image_id: '16612'
 cached_project_image: >-

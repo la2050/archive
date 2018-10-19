@@ -38,11 +38,12 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment
     - 'http://maker.good.is/myla2050live2015/projects/goSoLA.html'
+  project_ids:
+    - '6102231'
   year_submitted:
     - '2016'
     - '2015'
-  project_ids:
-    - '6102231'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/sola-food-co-op/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
 

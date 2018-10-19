@@ -37,14 +37,15 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/SecondChance.html'
     - 'http://maker.good.is/myla2050/projects/inspirehealth.html'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2013'
   project_ids:
     - '5102246'
     - '4102208'
     - '3102222'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
+year_submitted: '2015'
 maker_image_file_name: 2013_Pomona_0649.JPG
 maker_image_id: '23741'
 cached_project_image: >-

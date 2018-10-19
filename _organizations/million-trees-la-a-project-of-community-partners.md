@@ -80,10 +80,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102197'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: IMUZKtO4vOw
 cached_project_image: >-
   /assets/images/organizations/million-trees-la-a-project-of-community-partners/img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg

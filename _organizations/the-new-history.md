@@ -23,9 +23,10 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
+  project_ids: []
   year_submitted:
     - '2014'
-  project_ids: []
+year_submitted: '2014'
 youtube_video_identifier: o1W8HEqylCg
 cached_project_image: >-
   /assets/images/organizations/the-new-history/img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg

@@ -21,10 +21,11 @@ project_titles:
   - Toyota Family Learning program
 aggregated:
   challenge_url: []
-  year_submitted:
-    - '2014'
   project_ids:
     - '4102177'
+  year_submitted:
+    - '2014'
+year_submitted: '2014'
 youtube_video_identifier: 7nJBFWm-mb0
 cached_project_image: >-
   /assets/images/organizations/toberman-neighborhood-center/img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg

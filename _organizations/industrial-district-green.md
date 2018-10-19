@@ -38,10 +38,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'
-  year_submitted:
-    - '2013'
   project_ids:
     - '3102155'
+  year_submitted:
+    - '2013'
+year_submitted: '2013'
 youtube_video_identifier: CqF0Cn4dZJs
 cached_project_image: >-
   /assets/images/organizations/industrial-district-green/img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg

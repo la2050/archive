@@ -28,10 +28,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '8102069'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: uVgrIU_Bl9g
 cached_project_image: >-
   /assets/images/organizations/eezitec/img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg

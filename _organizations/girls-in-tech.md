@@ -30,10 +30,11 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
-  year_submitted:
-    - '2016'
   project_ids:
     - '6102081'
+  year_submitted:
+    - '2016'
+year_submitted: '2016'
 cached_project_image: >-
   /assets/images/organizations/girls-in-tech/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
 

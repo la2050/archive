@@ -35,10 +35,11 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'
-  year_submitted:
-    - '2015'
   project_ids:
     - '5102249'
+  year_submitted:
+    - '2015'
+year_submitted: '2015'
 youtube_video_identifier: sKN2PQLjrps
 cached_project_image: >-
   /assets/images/organizations/reading-partners/img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg
