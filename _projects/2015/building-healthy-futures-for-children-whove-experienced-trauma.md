@@ -23,8 +23,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: KCRW
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Children’s Institute, Inc. (CII)'
   Organization(s) mailing address(es): '2121 West Temple Street Los Angeles, CA 90026'
   Organization(s) website(s): www.childrensinstitute.org
@@ -81,7 +81,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -264,6 +264,8 @@ How do you plan to scale the success of your proposal?: >-
    CII is proud of the agency’s achievement in each of these three strategic imperatives thus far. 
    
    In September, CII achieved a milestone in Watts, unveiling plans for the future Campus, designed pro-bono by world-renowned architect Frank Gehry. CII will continue evaluating our Model’s effectiveness at reducing the symptoms of Adverse Childhood Experiences and we will bring the most successful aspects of this proposal to Watts.
+cached_project_image: >-
+  /assets/images/projects/2015/building-healthy-futures-for-children-whove-experienced-trauma/img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg
 youtube_video_identifier: 3AOHXhfJeho
 organization_name: 'Children’s Institute, Inc. (CII)'
 

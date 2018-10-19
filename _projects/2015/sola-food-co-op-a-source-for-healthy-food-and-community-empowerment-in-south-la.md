@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/fi31RJKyr4I'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: one of our co-op members
-  'City, State': Los Angeles CA
   Organization(s) name(s): SoLA Food Co-op
   Organization(s) mailing address(es): "1847 W 43rd St\r\nLos Angeles, CA 90062"
   Organization(s) website(s): www.solafoodcoop.com
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': Los Angeles CA
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
     We will use the resources to reach more prospective members, create
@@ -236,6 +236,8 @@ How do you plan to scale the success of your proposal?: >-
   membership we'll be ready to secure a site for the store and begin financing
   toward hiring a general manager,designing and equipping the store, obtaining
   inventory,and opening.
+cached_project_image: >-
+  /assets/images/projects/2015/sola-food-co-op-a-source-for-healthy-food-and-community-empowerment-in-south-la/img.youtube.com/vi/fi31RJKyr4I/maxresdefault.jpg
 youtube_video_identifier: fi31RJKyr4I
 organization_name: SoLA Food Co-op
 

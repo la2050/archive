@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - SOUTH LA
 maker_answers:
+  metrics_live_healthcare: '0'
   city_state: 'Pasadena, CA '
-  org_name: The Laurel Foundation
   org_website: www.Laurel-Foundation.org
   org_twitter: www.twitter.com/thelaurelfdn
   org_facebook: Facebook.com/thelaurelfdn
@@ -55,7 +55,7 @@ maker_answers:
   who_benefit: "The people of LA.  Anyone who wants to take action and has wended to improve their health but never had a reason to.  This will benefit the mom in South Central and her kids, the man in Santa Monica who wants to run but just has not found the time to start, the grandma who wants to start exercising and now is being asked by her grandson to do it with her.\r\n\r\nEVERYONE!\r\n\r\nWe will come together as a city and community!  Rich, poor, young, old, black, white, we are LA. and LA MOVES - RUN FOR YOUR LIFE!"
   partners_collaboration: "We will need to work with a mobil app company to create the app for this event.  We will also work with an organization who has put on large walk/runs for LA.\r\n\r\nThese have not bee secured but we are in the process now of getting them.  "
   metrics_live_healthyfood: '0'
-  metrics_live_healthcare: '0'
+  org_name: The Laurel Foundation
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '0'
   metrics_live_importedwater: '0'
@@ -160,6 +160,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    o Council District 9: Important partner and supporter for project. Essential support with alley closure piece and other logistics and community relations support
    o Los Angeles Police Department: Attends monthly platicas and works with residents to discuss safety and community issues
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/run-for-your-life/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20215%252Fdisplay%252FRUN_FOR_YOUR_LIFE.jpg=c570x385.jpg
 maker_image_id: '20215'
 maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
 

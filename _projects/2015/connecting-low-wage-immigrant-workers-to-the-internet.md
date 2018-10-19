@@ -20,8 +20,8 @@ project_areas:
   - San Fernando Valley
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Email
-  'City, State': Los Angeles
   Organization(s) name(s): Instituto de Educacion Popular del Sur de California (IDEPSCA)
   Organization(s) mailing address(es): 1565 W. 14th Street
   Organization(s) website(s): www.idepsca.org
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': Los Angeles
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -288,6 +288,8 @@ How do you plan to scale the success of your proposal?: >-
   could include a train the trainer model, where we would train different
   cohorts to conduct mobile access trainings to various regions first in the
   state, then on the West Coast, followed by national growth.
+cached_project_image: >-
+  /assets/images/projects/2015/connecting-low-wage-immigrant-workers-to-the-internet/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23511%252Fdisplay%252F3014224447_e908044cf3_o.jpg=c570x385.jpg
 maker_image_id: '23511'
 maker_image_file_name: 3014224447_e908044cf3_o.jpg
 organization_name: Instituto de Educacion Popular del Sur de California (IDEPSCA)

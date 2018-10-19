@@ -15,8 +15,8 @@ project_areas:
   - SOUTH BAY
   - LA COUNTY
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'San pedro, CA 90731'
-  org_name: 'Theatrum Elysium, San Pedro Rep'
   org_website: www.SanPedroRep.org
   org_twitter: TESanPedroRep
   org_facebook: 'https://www.facebook.com/TESanPedroRep'
@@ -60,7 +60,7 @@ maker_answers:
     At this time we have no partner organizations, however, due to the
     collaborative nature of our work in the theatre, we are open to
     collaboration with other organizations.
-  metrics_create_employment: '1'
+  org_name: 'Theatrum Elysium, San Pedro Rep'
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -149,6 +149,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   collaborative nature of our work in the theatre, we are open to collaboration
   with other organizations.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/a-paradise-of-artistic-innovation-and-theatrical-celebration/img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg
 youtube_video_identifier: nJPC81QoGyk
 
 ---

@@ -35,5 +35,7 @@ aggregated:
   project_ids: []
 maker_image_file_name: LA2050_Cover_image_flattened2.jpg
 maker_image_id: '23805'
+cached_project_image: >-
+  /assets/images/organizations/tagliaferri-howard-architecture/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23805%252Fdisplay%252FLA2050_Cover_image_flattened2.jpg=c570x385.jpg
 
 ---

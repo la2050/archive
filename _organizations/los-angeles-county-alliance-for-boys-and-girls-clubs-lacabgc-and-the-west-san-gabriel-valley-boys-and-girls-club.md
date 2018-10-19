@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '4102149'
 youtube_video_identifier: JAZZ3YBKHzY
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-county-alliance-for-boys-and-girls-clubs-lacabgc-and-the-west-san-gabriel-valley-boys-and-girls-club/img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg
 
 ---

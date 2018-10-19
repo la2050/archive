@@ -33,5 +33,7 @@ aggregated:
     - '4102134'
     - '4102168'
 youtube_video_identifier: zs2Oe9X1llQ
+cached_project_image: >-
+  /assets/images/organizations/home-community-inc/img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg
 
 ---

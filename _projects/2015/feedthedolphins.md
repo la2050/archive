@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/nu53ttV7jQI'
 project_areas:
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Tiny Rebellion
   Organization(s) mailing address(es): "1316 3RD STREET PROMENADE, 3RD FLOOR\r\nSANTA MONICA, CA 90401"
   Organization(s) website(s): 'http://www.tiny-rebellion.com/#/home'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
   plaques to provide more information on the donation programs, and the
   #FeedtheDolphins campaign. 
    After the initial success of the #FeedtheDolphins campaign in Santa Monica, Tiny Rebellion would like to expand the program across greater Los Angeles. The agency would use this campaign as a case study to partner with other city governments and business hubs to build donation statues in other commercial areas. By giving neighborhoods across the city ‘dolphins’ of their own, the #FeedtheDolphins campaign will not only bring together the West Side community, but has the potential to connect all of Los Angeles to the homeless situation.
+cached_project_image: >-
+  /assets/images/projects/2015/feedthedolphins/img.youtube.com/vi/nu53ttV7jQI/hqdefault.jpg
 youtube_video_identifier: nu53ttV7jQI
 organization_name: Tiny Rebellion
 

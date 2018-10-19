@@ -42,5 +42,7 @@ aggregated:
     - '4102202'
     - '3102188'
 youtube_video_identifier: KQnPSzqeZRk
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-neighborhood-land-trust-lanlt-leadership-for-urban-renewal-lurn-trust-south-la-konkuey-design-initiative-kdi-esperanza-community-housing-corporation-community-health-councils-chc/img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg
 
 ---

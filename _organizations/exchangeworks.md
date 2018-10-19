@@ -33,5 +33,7 @@ aggregated:
     - '4102133'
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
 maker_image_id: '23585'
+cached_project_image: >-
+  /assets/images/organizations/exchangeworks/maker.good.is/images/placeholder/idea.png
 
 ---

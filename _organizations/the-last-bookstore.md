@@ -53,5 +53,7 @@ aggregated:
     - '3102107'
 maker_image_file_name: LBSpan2med.jpg
 maker_image_id: '16903'
+cached_project_image: >-
+  /assets/images/organizations/the-last-bookstore/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16903%252Fdisplay%252FLBSpan2med.jpg=c570x385.jpg
 
 ---

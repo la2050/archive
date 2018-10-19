@@ -108,6 +108,8 @@ project_proposal_best_place: >-
   foundation of our work. By building on this foundation to create a massive
   grassroots movement for change, we can make LA County a model of how to
   transform our country’s child welfare system.
+cached_project_image: >-
+  /assets/images/projects/2016/foster-youth-and-families-joining-voices-for-change/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
 organization_name: National Foster Youth Institute
 organization_website: www.nfyi.org
 

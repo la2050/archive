@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  collaboration: "The Los Angeles Bridge Project began as a strategic partnership between LAUSD, CSULA, and College Bridge in the 2013-2014 school year.  The initial pilot focused only on mathematics.  Due to the significant early success of this program, CSULA scaled the project to an additional high school and added English for the 2014-2015 school year.  MOUs are in place with CSULA and LAUSD.  Additionally, we plan to scale-up through the north and south LAUSD service areas with CSUN and CSUDH.  CSUN are confirmed partners with the MOU pending.  CSUDH is in the early stages of partnership development.\r\n\r\nAll three of these CSUs in the Los Angeles metropolitan area bring key benefits to this project.  They offer in-kind donations of the professors’ salaries, use of university equipment and space, educational outreach (tutoring, college counseling, and school orientation), and financial aid resources (FAFSA workshops). LAUSD offers in-kind donations by providing the teacher and facilities to offer the courses in the regular school day. The three factors that are critical to the success of these collaborations are buy-in from (1) LAUSD high school teachers, (2) CSU professors, and (3) administrators in both LAUSD and CSUs.\r\n\r\nThe LA Bridge Project ensures buy-in from all stakeholders by linking the work of the school district and higher education institutions.  We bring together high school teachers and college professors to co-teach college-level math and English courses in order to offer students the opportunity to bypass academic remediation.  By working shoulder to shoulder, this project eschews the traditional blame game and serves as bidirectional professional development for both instructors and administrators."
   about_you: 'Los Angeles, CA'
-  org_name: College Bridge
   org_website: www.college-bridge.org
   org_twitter: 'https://twitter.com/College_Bridge'
   org_facebook: 'https://www.facebook.com/The.College.Bridge'
@@ -84,7 +84,7 @@ maker_answers:
     62% and the national average of 63%. We strategically target students who
     have college aspirations but not necessarily the strongest academic or
     attendance records.
-  collaboration: "The Los Angeles Bridge Project began as a strategic partnership between LAUSD, CSULA, and College Bridge in the 2013-2014 school year.  The initial pilot focused only on mathematics.  Due to the significant early success of this program, CSULA scaled the project to an additional high school and added English for the 2014-2015 school year.  MOUs are in place with CSULA and LAUSD.  Additionally, we plan to scale-up through the north and south LAUSD service areas with CSUN and CSUDH.  CSUN are confirmed partners with the MOU pending.  CSUDH is in the early stages of partnership development.\r\n\r\nAll three of these CSUs in the Los Angeles metropolitan area bring key benefits to this project.  They offer in-kind donations of the professors’ salaries, use of university equipment and space, educational outreach (tutoring, college counseling, and school orientation), and financial aid resources (FAFSA workshops). LAUSD offers in-kind donations by providing the teacher and facilities to offer the courses in the regular school day. The three factors that are critical to the success of these collaborations are buy-in from (1) LAUSD high school teachers, (2) CSU professors, and (3) administrators in both LAUSD and CSUs.\r\n\r\nThe LA Bridge Project ensures buy-in from all stakeholders by linking the work of the school district and higher education institutions.  We bring together high school teachers and college professors to co-teach college-level math and English courses in order to offer students the opportunity to bypass academic remediation.  By working shoulder to shoulder, this project eschews the traditional blame game and serves as bidirectional professional development for both instructors and administrators."
+  org_name: College Bridge
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '0'
@@ -186,6 +186,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The LA Bridge Project ensures buy-in from all stakeholders by linking the work of the school district and higher education institutions. We bring together high school teachers and college professors to co-teach college-level math and English courses in order to offer students the opportunity to bypass academic remediation. By working shoulder to shoulder, this project eschews the traditional blame game and serves as bidirectional professional development for both instructors and administrators.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/la-bridge-ensuring-under-represented-students-enroll-in-and-graduate-from-colleges-in-la-county/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22829%252Fdisplay%252FCollege_Bridge_Logo.jpg=c570x385.jpg
 maker_image_id: '22829'
 maker_image_file_name: College_Bridge_Logo.jpg
 

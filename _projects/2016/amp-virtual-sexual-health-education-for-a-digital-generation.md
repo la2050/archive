@@ -125,6 +125,8 @@ project_proposal_best_place: >-
   expanded and updated every other year as the UCLA Sex Squad continues to
   create more content. An investment in our young people is an investment in the
   future health of our entire city.
+cached_project_image: >-
+  /assets/images/projects/2016/amp-virtual-sexual-health-education-for-a-digital-generation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
 organization_name: Regents of the University of California
 organization_website: artglobalhealth.org
 

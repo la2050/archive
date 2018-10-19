@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): The Sound Body Sound Mind Foundation
   Organization(s) mailing address(es): "11100 Santa Monica Blvd. Suite 1910\r\nLos Angeles, CA 90025"
   Organization(s) website(s): 'https://www.uclahealth.org/soundbodysoundmind/Pages/default.aspx'
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -294,6 +294,8 @@ How do you plan to scale the success of your proposal?: >-
   reasons why SBSM has grown to impact over 92,000 students per year with our 95
   fitness centers in LAUSD. With the help of the L.A. 2050 grant, SBSM will be
   able to expand our reach in LAUSD even further.
+cached_project_image: >-
+  /assets/images/projects/2015/sbsm-healthy-tomorrow-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23214%252Fdisplay%252FIMG_0438.JPG=c570x385.jpg
 maker_image_id: '23214'
 maker_image_file_name: IMG_0438.JPG
 organization_name: The Sound Body Sound Mind Foundation

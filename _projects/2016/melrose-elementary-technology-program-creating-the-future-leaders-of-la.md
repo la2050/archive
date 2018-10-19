@@ -118,6 +118,8 @@ project_proposal_best_place: >-
   incredibly successful tech integration program that could become a model for
   other schools struggling to meet the needs of their students in our ever more
   tech-centered world.
+cached_project_image: >-
+  /assets/images/projects/2016/melrose-elementary-technology-program-creating-the-future-leaders-of-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
 organization_name: Melrose Elementary PTO
 organization_website: www.melrosestars.org
 

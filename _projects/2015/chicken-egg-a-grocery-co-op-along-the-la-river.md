@@ -14,8 +14,8 @@ project_areas:
   - East LA
   - San Fernando Valley
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: 'Former LA2050 winner, Public Matters LLC'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): River Wild LLC
   Organization(s) mailing address(es): "2902 Gilroy Street\r\nLos Angeles, CA 90039"
   Organization(s) website(s): www.riverwild.la
@@ -59,7 +59,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -253,6 +253,8 @@ How do you plan to scale the success of your proposal?: >-
    We pride ourselves on immediate impact that is sometimes temporal, but always constructive and experiential, not just filed in a report that sits on a shelf. 
    
    Lastly, we believe that any LA River project needs to be accessible to all people, races, economic backgrounds. We have been focusing on basic services, not high-end boutique that marginalizes long time residents. The bigger the customer base, the greater chance at success.
+cached_project_image: >-
+  /assets/images/projects/2015/chicken-egg-a-grocery-co-op-along-the-la-river/img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg
 youtube_video_identifier: CTFt7gFp6BY
 organization_name: River Wild LLC
 

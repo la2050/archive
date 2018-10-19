@@ -23,8 +23,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): 'Facing History and Ourselves, Inc'
   Organization(s) mailing address(es): "350 S. Bixel Street\r\nSuite 160\r\nLos Angeles, CA 90017"
   Organization(s) website(s): www.facinghistory.org
   Organization(s) twitter handle(s): www.twitter.com/facinghistoryla
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): 'Facing History and Ourselves, Inc'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -282,6 +282,8 @@ How do you plan to scale the success of your proposal?: >-
    Facing History will publicize these stories through social media channels, blog posts, and newsletters in addition to seeking broadcast and print media coverage. These stories inspire others throughout LA and raise awareness of the network’s positive impact on LAUSD.
    
    The steady success of this project has already created ripples outside of LA. The Partner School Network model is now being replicated in other regions of the country. Chicago, Cleveland, and Memphis are now either operating or about to launch school networks that will leverage best practices from the LA network’s six years of operation.
+cached_project_image: >-
+  /assets/images/projects/2015/facing-history-and-ourselves-partnership-school-network/img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg
 youtube_video_identifier: 2EbK6sblpo0
 organization_name: 'Facing History and Ourselves, Inc'
 

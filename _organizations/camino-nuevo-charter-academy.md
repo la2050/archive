@@ -34,5 +34,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102030'
+cached_project_image: >-
+  /assets/images/organizations/camino-nuevo-charter-academy/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
 
 ---

@@ -40,5 +40,7 @@ aggregated:
   project_ids:
     - '6102201'
     - '3102230'
+cached_project_image: >-
+  /assets/images/organizations/ryman-arts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
 
 ---

@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '5102168'
 youtube_video_identifier: V0_Km6YYSbo
+cached_project_image: >-
+  /assets/images/organizations/la-makerspace/img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg
 
 ---

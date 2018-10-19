@@ -22,8 +22,8 @@ project_areas:
   - East LA
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Newsletter
-  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): Los Angeles Center of Photography
   Organization(s) mailing address(es): "1515 Wilcox Avenue\r\nLos Angeles, CA 90028"
   Organization(s) website(s): www.lacphoto.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -307,6 +307,8 @@ How do you plan to scale the success of your proposal?: >-
   to the LA Unified School District, and are awaiting notification.
    
    At the same time, LACP believes it is important to put the Boys & Girls Clubs where we have already made a commitment on a firm financial basis. If we receive the LA2050 grant in 2016, it will not only allow us to launch the program at four clubs across LA County, we believe the recognition will aid our fundraising for these programs in 2017—as well as plan for further expansion.
+cached_project_image: >-
+  /assets/images/projects/2015/los-angeles-center-of-photography-brings-life-changing-photography-classes-to-boys-girls-clubs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385.jpg
 maker_image_id: '23374'
 maker_image_file_name: Julia_Dean_at_Boyle_Heights_B_B_Club.jpg
 organization_name: Los Angeles Center of Photography

@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102026'
+cached_project_image: >-
+  /assets/images/organizations/california-institute-of-technology/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4863691455741-team91.jpg
 
 ---

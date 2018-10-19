@@ -29,8 +29,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Gardena, CA'
-  Organization(s) name(s): WestCal Academy
   Organization(s) mailing address(es): '15916 Crenshaw Boulevard, Gardena, CA 90249'
   Organization(s) website(s): www.westcalacademy.com
   Organization(s) twitter handle(s): www.twitter.com/westcalacademy
@@ -79,7 +79,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): WestCal Academy
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -325,6 +325,8 @@ How do you plan to scale the success of your proposal?: >-
   Long Beach. WestCal Academy has twenty industry speakers / educators who are
   committed to the program. The issue for WestCal Academy is how to secure
   additional funds to assure successful scalability.
+cached_project_image: >-
+  /assets/images/projects/2015/westcal-career-pathways/img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg
 youtube_video_identifier: f_x1AGOuR7A
 organization_name: WestCal Academy
 

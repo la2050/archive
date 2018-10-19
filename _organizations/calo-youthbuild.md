@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102029'
+cached_project_image: >-
+  /assets/images/organizations/calo-youthbuild/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
 
 ---

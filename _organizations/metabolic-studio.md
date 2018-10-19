@@ -26,5 +26,7 @@ aggregated:
   project_ids:
     - '4102154'
 youtube_video_identifier: g8ndzuZ3kKM
+cached_project_image: >-
+  /assets/images/organizations/metabolic-studio/img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg
 
 ---

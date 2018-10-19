@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_volunteerism: '1'
   city_state: 'Los Angeles, California'
-  org_name: Positive Minded People
   org_website: www.positivemindedpeople.com
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/positiveminded'
@@ -64,7 +64,7 @@ maker_answers:
   impact_connect: "\r\nAccording the The Urban Institute's Center for Nonprofits and Philanthropy in 2012, there are over 40,000 nonprofits and charitable causes in LA. By 2050, that number could easily double, if not triple, and so will volunteer opportunities. \r\n\r\nLA needs a better way of making volunteer opportunities known and attractive by integrating technology such as social media and mobile apps like DoGooder.LA to stay current and connected through 2050.  \r\n\r\nIf not, as technology gets more integrated with our lives and we become more of a distracted society, less and less people will likely not initiate volunteerism on their own as evident by falling volunteerism rates nationwide over the past 10 years.  \r\n\r\nThat’s why our app strives to not only lay a clear path to find LA-based, full immersion volunteering experiences with rewards, but through volunteerism, connect LA residents to other people who share the same passion and values and build a more connected Los Angeles well into and beyond 2050. \r\n"
   who_benefit: "We believe this app can affect Los Angeles in three specific sectors:\r\n\r\nNonprofits - Access volunteers that otherwise would have been unreachable due to limited reach or limited marketing resources. \r\n\r\nCommunity -  Los Angelenos experience volunteerism without barriers to entry and providing a clear path to volunteerism. And, helping people make connections with people who share the same passion.\r\n\r\nBusiness & LA Commerce - Users will want to frequent businesses that rewards and support community causes by using their reward points."
   collaboration: "We currently have confirmed partnerships with World Harvest Food Banks, Union Rescue Mission (Skid Row), Women's Center for Alcoholism, Just For Detention, and Urban Possibilities and numerous other causes to provide volunteerism opportunities and resources. We have worked with these organization in past volunteerism programs.\r\n\r\nWe will work hard to curate additional organizations to create “tracks” with meaningful volunteer opportunities, which you normally would not find on your own and to help increase awareness to less-exposed causes in LA. \r\n\r\nFor user reward system, we will curate companies and business to provide giveaways, coupons, and more for Los Angelenos who complete “tracks” at retailers such as Starbucks, Target, Best Buy, clothing stores, and more.  \r\n\r\n*Bennie Mayberry, founder of Positive Minded People, has 6 years experience working in large scale, multi-million dollar online advertising campaigns for large brands including the marketing of top Apple and Android apps. As the founder of Positive Minded People, he also has a one-on-one understanding of what helps mobilize people to volunteer having served as coordinator of 60+ volunteer based events. These experiences coupled together make for a great combination for long term success.\r\n"
-  metrics_connect_volunteerism: '1'
+  org_name: Positive Minded People
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'
@@ -160,6 +160,8 @@ Whom will your project benefit? Please be specific.: >-
    For user reward system, we will curate companies and business to provide giveaways, coupons, and more for Los Angelenos who complete “tracks” at retailers such as Starbucks, Target, Best Buy, clothing stores, and more. 
    
    *Bennie Mayberry, founder of Positive Minded People, has 6 years experience working in large scale, multi-million dollar online advertising campaigns for large brands including the marketing of top Apple and Android apps. As the founder of Positive Minded People, he also has a one-on-one understanding of what helps mobilize people to volunteer having served as coordinator of 60+ volunteer based events. These experiences coupled together make for a great combination for long term success.
+cached_project_image: >-
+  /assets/images/projects/2014/mobilize-10000-la-residents-into-volunteerism-using-dogooder-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22152%252Fdisplay%252FImage_for_Good.jpg=c570x385.jpg
 maker_image_id: '22152'
 maker_image_file_name: Image_for_Good.jpg
 

@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - Central LA
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How did you hear about this challenge?: colleague
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Mountains Recreation and Conservation Authority
   Organization(s) mailing address(es): "570 West Avenue 26, Suite 100\r\nLos Angeles, CA 90065"
   Organization(s) website(s): www.mrca.ca.gov
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -243,6 +243,8 @@ How do you plan to scale the success of your proposal?: >-
   and activate Los Angeles. 
    New urban parks of similar size were recently constructed by the MRCA and serve other park-poor neighborhoods. Constant outreach through social media such as Facebook, emails and person to person contact has allowed us to reach a wider scale of people and further the success of our public programing, resulting in higher number of attendance. The same will be done with Franklin/Ivar Park. 
    Additionally, as trees and other vegetation are proven to sequester carbon and improve our air quality, the park’s tree canopy and shrubs will almost immediately clean the air. Furthermore, air quality will be improved and greenhouse gasses will be reduced due to the park’s easy access via walking and bicycling, its close proximity to public transit, and permanent designation as open-space.
+cached_project_image: >-
+  /assets/images/projects/2015/franklin-ivar-park-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23455%252Fdisplay%252FFranklin-Ivar_Plan-small_2015_09_15.jpg=c570x385.jpg
 maker_image_id: '23455'
 maker_image_file_name: Franklin-Ivar_Plan-small_2015_09_15.jpg
 organization_name: Mountains Recreation and Conservation Authority

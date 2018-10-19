@@ -24,8 +24,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Sustaynabl Team Member
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Sustaynabl
   Organization(s) mailing address(es): '1234 Wilshire Blvd, Los Angeles, CA 90017'
   Organization(s) website(s): 'http://www.sustaynabl.com/'
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -212,6 +212,8 @@ How do you plan to scale the success of your proposal?: >-
    25%: Market Linked Units: These units are linked to market pricing, but are priced lower than the subject property’s submarket to provide a competitive advantage and keep our units fully occupied at all times.
    10%: Transitional Units: These units have the ability to transition 120 - 240 at risk / homeless individuals into stable housing through our 6 month or 1 year comprehensive programs.
    By using various for-profit business models, Sustaynabl will provide a source of funding for responsible housing development and create the foundation of a balanced housing market.
+cached_project_image: >-
+  /assets/images/projects/2015/the-art-of-skid-row-bringing-awareness-to-the-homelessness-state-of-emergency/img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg
 youtube_video_identifier: 5-66_Xqn0Cw
 organization_name: Sustaynabl
 

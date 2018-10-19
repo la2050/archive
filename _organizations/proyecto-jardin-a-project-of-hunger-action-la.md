@@ -37,5 +37,7 @@ aggregated:
   project_ids:
     - '8102099'
     - '4102262'
+cached_project_image: >-
+  /assets/images/organizations/proyecto-jardin-a-project-of-hunger-action-la/activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
 
 ---

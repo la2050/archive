@@ -63,5 +63,7 @@ aggregated:
     - '5102177'
     - '4102254'
     - '3102181'
+cached_project_image: >-
+  /assets/images/organizations/lift-los-angeles/activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 
 ---

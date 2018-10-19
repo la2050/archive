@@ -46,5 +46,7 @@ aggregated:
     - '8102133'
     - '6102273'
     - '4102266'
+cached_project_image: >-
+  /assets/images/organizations/university-of-southern-california/activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 
 ---

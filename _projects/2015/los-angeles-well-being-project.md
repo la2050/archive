@@ -27,8 +27,8 @@ project_areas:
   - Antelope Valley
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How did you hear about this challenge?: via a friend who thought HappyCity Los Angeles should enter
-  'City, State': Los Angeles
   Organization(s) name(s): HappyCity Los Angeles
   Organization(s) mailing address(es): '12419 Marshall St. Los Angeles, CA  90066'
   Organization(s) website(s): 'http://www.happycity.us/'
@@ -81,7 +81,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
+  'City, State': Los Angeles
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -236,6 +236,8 @@ How do you plan to scale the success of your proposal?: >-
   has volunteer hosts in other cities and has a goal to expand to 10 cities by
   March 2016, all which would adopt the methodology that will be developed
   through this project.
+cached_project_image: >-
+  /assets/images/projects/2015/los-angeles-well-being-project/img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg
 youtube_video_identifier: EJWQ6cYZBCk
 organization_name: HappyCity Los Angeles
 

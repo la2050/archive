@@ -28,8 +28,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): 'Jumpstart For Young Children, Inc.'
   Organization(s) mailing address(es): "1625 W. Olympic Blvd.,\r\nSuite 1050"
   Organization(s) website(s): www.jstart.org
   Organization(s) twitter handle(s): www.twitter.com/jumpstartkids
@@ -82,7 +82,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): 'Jumpstart For Young Children, Inc.'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -253,6 +253,8 @@ How do you plan to scale the success of your proposal?: >-
    Jumpstart operates on a licensee model, which leverages partner universities’ existing fixed-cost infrastructures and financial resources for more cost-effective scaling. Jumpstart plans to grow its program first at established university sites with a history of success, and then seek further opportunities to begin new sites after establishing a clear theory of change and confirmed support from key players at our partner universities, preschools, and school districts. 
    
    Meetings between Jumpstart’s program leadership, our partner preschools and partner universities, and prospective new partners occur on an on-going basis. The conditions for success and program goals for Jumpstart’s 2015-16 program year have already been determined. Thanks to the efforts of our site managers at California State University, Dominguez Hills; California State University, Los Angeles; and the Los Angeles Community Corps, recruitment and training of Corps members have already begun, and Jumpstart is currently taking measurable steps toward program expansion in the South LA and East LA regions.
+cached_project_image: >-
+  /assets/images/projects/2015/jumpstart-delivering-quality-early-education-to-close-the-achievement-gap-*before*-it-begins/img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg
 youtube_video_identifier: a-3Yo_Yz5Vc
 organization_name: 'Jumpstart For Young Children, Inc.'
 

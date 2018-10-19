@@ -76,5 +76,7 @@ aggregated:
   project_ids:
     - '3102184'
 youtube_video_identifier: Xoof6-2YZ_U
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-county-perinatal-mental-health-task-force/img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg
 
 ---

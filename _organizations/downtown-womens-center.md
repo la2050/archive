@@ -93,5 +93,7 @@ aggregated:
     - '4102196'
     - '3102109'
 youtube_video_identifier: 8GZELMERrSk
+cached_project_image: >-
+  /assets/images/organizations/downtown-womens-center/img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg
 
 ---

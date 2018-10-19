@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/ERxmCic5y3o'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Colleagues
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): >-
     Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
     Building Council Los Angeles Chapter (USGBC-LA)
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Build a toolkit
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -161,6 +161,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/communities-building-resilience-south-la/img.youtube.com/vi/ERxmCic5y3o/hqdefault.jpg
 youtube_video_identifier: ERxmCic5y3o
 organization_name: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green

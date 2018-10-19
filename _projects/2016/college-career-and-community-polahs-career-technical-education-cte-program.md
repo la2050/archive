@@ -163,6 +163,8 @@ project_proposal_best_place: >-
   postsecondary education in the residential and commercial construction
   industry. Students earn college credit and certifications by completing an
   advanced Construction Technology class through El Camino College.
+cached_project_image: >-
+  /assets/images/projects/2016/college-career-and-community-polahs-career-technical-education-cte-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
 organization_name: Port of Los Angeles High School
 organization_website: polahs.net
 

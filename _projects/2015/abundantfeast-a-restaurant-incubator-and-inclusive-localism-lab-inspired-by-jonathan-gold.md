@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/qyZQR5_KCEM'
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Tara Roth
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): civ.LA
   Organization(s) mailing address(es): "4750 York Blvd.\r\nLos Angeles, CA 90042"
   Organization(s) website(s): www.civ.la
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -236,6 +236,8 @@ How do you plan to scale the success of your proposal?: >-
   initial community workshops and projects. 
    We will collect ideas from our workshops along with example of places around the world where change has successfully been implemented; and links to books, articles, blogs and opinions related to changing transportation and related urban change. The website will be searchable – and readable in different layers by our different audiences.
    We hope that the C7 case study, ideas from Place It! workshops, examples of transportation and mobility approaches, , will point to ideas for for planning and policy reform will add up to a wider and stronger constituency of residents seeking to affect transportation and mobility. in Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2015/abundantfeast-a-restaurant-incubator-and-inclusive-localism-lab-inspired-by-jonathan-gold/img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg
 youtube_video_identifier: qyZQR5_KCEM
 organization_name: civ.LA
 

@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: forwarded newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Pando Populus, Inc.; World Studio Foundation, Inc.'
   Organization(s) mailing address(es): "Pando Populus:  8391 Beverly Blvd. #460, Los Angeles, CA 90048\r\nWorld Studio Foundation:  200 Varick Street, #507, New York, NY 10014"
   Organization(s) website(s): 'http://www.PandoPopulus.com'
@@ -78,7 +78,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -295,6 +295,8 @@ How do you plan to scale the success of your proposal?: >-
    One model of a Pando Hub, for instance, might appeal to millennials interested in an urban intentional community; another might offer a low-cost veteran housing solution; another might function more as an urban farm and organic food-producing center. The examples are less important than the fact that each likely offers the opportunity for a different kind of funding structure and/or different model of ownership. The top tier opportunities (assessed according to feasibility and need) will be developed and tested in further pilot projects.
    
    Eventually, Pando Hubs will scale on a franchise model of growth, by which we would provide the branding, a planbook(s) for implementation, and a specialist network.
+cached_project_image: >-
+  /assets/images/projects/2015/pando-hubs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23521%252Fdisplay%252FEco_Civ.png=c570x385.png
 maker_image_id: '23521'
 maker_image_file_name: Eco_Civ.png
 organization_name: 'Pando Populus, Inc.; World Studio Foundation, Inc.'

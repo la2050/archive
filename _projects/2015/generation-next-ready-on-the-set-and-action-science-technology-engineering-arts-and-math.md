@@ -23,8 +23,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'W. Hollywood, CA'
-  Organization(s) name(s): 'Entertainment Industries Council, Inc.'
   Organization(s) mailing address(es): '8687 Melrose Ave., G700, W. Hollywood, CA 90069'
   Organization(s) website(s): www.eiconline.org
   Organization(s) twitter handle(s): www.twitter.com/EIC_online
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): 'Entertainment Industries Council, Inc.'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -272,6 +272,8 @@ How do you plan to scale the success of your proposal?: >-
   High Schools throughout Los Angeles, with the increased size dependent on
   podcasts and Skype modes of communication to allow for mentorship of many
   students.
+cached_project_image: >-
+  /assets/images/projects/2015/generation-next-ready-on-the-set-and-action-science-technology-engineering-arts-and-math/img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg
 youtube_video_identifier: 5paOc34oG84
 organization_name: 'Entertainment Industries Council, Inc.'
 

@@ -148,6 +148,8 @@ project_proposal_best_place: >-
   reach many more people. By connecting Los Angeles youth from different areas
   and amplifying their voices to adults and policy makers, we can create a more
   engaged populace that betters the lives of all Angelinos to come.
+cached_project_image: >-
+  /assets/images/projects/2016/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6403175774741-team90.jpg
 organization_name: Get Lit-Words Ignite
 organization_website: www.getlit.org
 

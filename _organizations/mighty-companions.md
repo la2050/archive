@@ -36,5 +36,7 @@ aggregated:
     - '3102196'
 maker_image_file_name: mcmenyellowandwhite_final.jpg
 maker_image_id: '16057'
+cached_project_image: >-
+  /assets/images/organizations/mighty-companions/maker.good.is/images/placeholder/idea.png
 
 ---

@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/YufCYg-BYaY'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Colleague
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Bruce Lee Foundation '
   Organization(s) mailing address(es): "11693 San Vicente Blvd\r\nSuite 918\r\nLos Angeles, CA 90049"
   Organization(s) website(s): www.bruceleefoundation.org
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -227,6 +227,8 @@ How do you plan to scale the success of your proposal?: >-
    More and more people are discovering Bruce Lee every day. His social media following alone is now over 20 million. Through the foundations network of corporate, celebrity and social influencers we will share the stories of the kids, clubs and schools taking part in the program to enable larger gifts and partnerships. 
    
    This pilot program and partnership with LA2050 will be key in proving the overall concept of the program itself, prior to expanding locally within LA county, then to the greater Californian area and eventually reaching other states within the continental US.
+cached_project_image: >-
+  /assets/images/projects/2015/bruce-lees-little-dragons/img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg
 youtube_video_identifier: YufCYg-BYaY
 organization_name: 'Bruce Lee Foundation '
 

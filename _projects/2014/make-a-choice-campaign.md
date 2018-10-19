@@ -18,8 +18,8 @@ project_areas:
   - SGV
   - WESTSIDE
 maker_answers:
+  collaboration: "Los Angeles Unified School District-confirmed\r\nPeace Over Violence has worked in collaboration with LAUSD since 1991, implementing its In Touch With Teens relationship violence prevention curriculum and youth leadership development activities throughout middle and high school campuses. POV & LAUSD are currently partners on a Department of Justice federal grant (STEP), piloting a violence prevention policy, campus wide staff training and response protocols in three schools in Highland Park, LA. This is the second largest school district in the U.S. and a key partner in engaging youth, parents, educators and stakeholders.  \r\n\r\nKPFK 90.7 Beautiful Struggle-confirmed. \r\nYouth leaders continue to participate in The Beautiful Struggle’s weekly segments. TBS commits to running the Campaign PSAs with heavy rotation in February for Teen Dating Violence Prevention and Awareness Month. \r\n\r\nDawn Faelner & John Park-confirmed\r\nDawn and John have come on the project as design consultants, working with youth to develop their ideas into design elements for print, social media, and digital distribution. They are formally trained by Rebeca Mendez, who developed Peace Over Violence's signature brand and brand guidelines. They have been involved with the agency throughout Summer 2014 and will ensure campaign brand consistency. \r\n\r\nThe three critical factors in these partnerships are: 1. school buy-in and support for campaign implementation and dissemination, 2. continuous radio distribution/coverage of campaign, and 3. on going campaign design mentorship and brand development with youth. \r\n"
   about_you: 'Los Angeles, CA'
-  org_name: Peace Over Violence
   org_website: peaceoverviolence.org
   org_twitter: '@PeaceOvrViolnce'
   org_facebook: 'https://www.facebook.com/PeaceOverViolence'
@@ -86,7 +86,7 @@ maker_answers:
     behavior, pregnancy, and suicidal ideation. This project will support the
     development of healthy relationships and healthy lives for this target
     population at LAUSD schools campuses and surrounding communities. 
-  collaboration: "Los Angeles Unified School District-confirmed\r\nPeace Over Violence has worked in collaboration with LAUSD since 1991, implementing its In Touch With Teens relationship violence prevention curriculum and youth leadership development activities throughout middle and high school campuses. POV & LAUSD are currently partners on a Department of Justice federal grant (STEP), piloting a violence prevention policy, campus wide staff training and response protocols in three schools in Highland Park, LA. This is the second largest school district in the U.S. and a key partner in engaging youth, parents, educators and stakeholders.  \r\n\r\nKPFK 90.7 Beautiful Struggle-confirmed. \r\nYouth leaders continue to participate in The Beautiful Struggle’s weekly segments. TBS commits to running the Campaign PSAs with heavy rotation in February for Teen Dating Violence Prevention and Awareness Month. \r\n\r\nDawn Faelner & John Park-confirmed\r\nDawn and John have come on the project as design consultants, working with youth to develop their ideas into design elements for print, social media, and digital distribution. They are formally trained by Rebeca Mendez, who developed Peace Over Violence's signature brand and brand guidelines. They have been involved with the agency throughout Summer 2014 and will ensure campaign brand consistency. \r\n\r\nThe three critical factors in these partnerships are: 1. school buy-in and support for campaign implementation and dissemination, 2. continuous radio distribution/coverage of campaign, and 3. on going campaign design mentorship and brand development with youth. \r\n"
+  org_name: Peace Over Violence
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '0'
@@ -191,6 +191,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The three critical factors in these partnerships are: 1. school buy-in and support for campaign implementation and dissemination, 2. continuous radio distribution/coverage of campaign, and 3. on going campaign design mentorship and brand development with youth.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/make-a-choice-campaign/img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg
 youtube_video_identifier: nF2CnqS_6oQ
 
 ---

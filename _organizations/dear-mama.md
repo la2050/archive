@@ -30,5 +30,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102116'
+cached_project_image: >-
+  /assets/images/organizations/dear-mama/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
 
 ---

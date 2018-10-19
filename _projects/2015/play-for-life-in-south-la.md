@@ -20,8 +20,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How did you hear about this challenge?: Radio - NPR
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): A Place Called Home
   Organization(s) mailing address(es): '2830 S Central Ave. Los Angeles, CA 90011'
   Organization(s) website(s): www.Apch.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
   to the arts. 
    
    We also plan to scale our impact through community partnerships, most notably the creation of new community gardens throughout our neighborhood. Additionally, we are in the process of codifying the APCH approach. APCH would like to further codify and standardize the gathering and tracking of data to identify and apply appropriate metrics in assessing and documenting acquisition and development of academic skills and rigor, attitudinal change, social competency, career aptitude, self-efficacy, and preparedness for transition to next levels of education, vocation and independence.
+cached_project_image: >-
+  /assets/images/projects/2015/play-for-life-in-south-la/img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg
 youtube_video_identifier: wzFv5uV3pew
 organization_name: A Place Called Home
 

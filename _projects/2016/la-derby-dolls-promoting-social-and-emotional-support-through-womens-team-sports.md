@@ -119,6 +119,8 @@ project_proposal_best_place: >-
   from. We plan to grow the program's reach to women who do not know that the
   Derby Dolls is available to them and make our space available to a greater
   number of LA women and juniors through the availability of scholarships.
+cached_project_image: >-
+  /assets/images/projects/2016/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
 organization_name: LA Derby Dolls
 organization_website: derbydolls.com
 

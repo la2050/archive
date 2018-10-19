@@ -113,6 +113,8 @@ project_proposal_best_place: >-
   agencies, and between community agencies and public partners. With support,
   AIYN can become a valuable asset in strengthening and diversifying LA's
   creative economy.
+cached_project_image: >-
+  /assets/images/projects/2016/arts-for-incarcerated-youth-network-using-arts-to-build-camptocareer-pipeline-for-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 organization_name: Arts For Incarcerated Youth Network
 organization_website: www.aiynetwork.org
 

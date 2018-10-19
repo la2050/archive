@@ -13,8 +13,8 @@ project_areas:
   - East LA
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: 'Friend '
-  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating '
   Organization(s) mailing address(es): '1411 Calumet Ave., Los Angeles, CA 90026'
   Organization(s) website(s): 'www.thedinnerparty.org, www.thekitchenwidow.com'
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -254,6 +254,8 @@ How do you plan to scale the success of your proposal?: >-
   intervention that prioritizes moving forward rather than moving on. 
    
    Our goal is to fertilize a broader movement aimed at shifting the dialogue from “getting back to normal” to how we, both individually and collectively, can use loss as a springboard to living better, more resilient, more open-hearted lives.
+cached_project_image: >-
+  /assets/images/projects/2015/the-good-grief-garden/img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg
 youtube_video_identifier: YijVi1ZG5EM
 organization_name: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating '
 

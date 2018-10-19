@@ -147,6 +147,8 @@ Describe in greater detail how your activation will make LA the best place?: ''
 How will your activation engage Angelenos to make LA the best place: ''
 Please explain how you will define and measure success for your activation.: ''
 Where do you hope this activation or your organization will be in five years?: ''
+cached_project_image: >-
+  /assets/images/projects/2018/more-than-minivans-the-female-future-of-transportation/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/36837835_2026903937321029_1964636633827377152_n.jpg
 organization_name: Investing in Place
 
 ---

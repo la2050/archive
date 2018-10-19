@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': MISSION VIEJO
-  Organization(s) name(s): Yes4arts
   Organization(s) mailing address(es): "5021 Macafee Road \r\nTorrance, CA 90505"
   Organization(s) website(s): www.yes4arts.org
   Organization(s) twitter handle(s): www.twitter.com/yes4arts
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Yes4arts
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -227,6 +227,8 @@ How do you plan to scale the success of your proposal?: >-
   scale involves measuring the number of students who have attended classes and
   learned how to sew, crochet and knit. Second,
    success is measured when students decide to become vendors at Yes4arts events and showcase their art designs. Finally, success is measured when students return to our classes with positive updates of their lives, have made education a priority, and have become positive role models in the community for other new students. This is when Yes4arts can be proud of making a difference, one student at a time.
+cached_project_image: >-
+  /assets/images/projects/2015/bringing-sewing-crochet-and-knitting-back-to-schools-and-communities/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23223%252Fdisplay%252FYes4arts_picture_image.jpeg=c570x385.jpg
 maker_image_id: '23223'
 maker_image_file_name: Yes4arts_picture_image.jpeg
 organization_name: Yes4arts

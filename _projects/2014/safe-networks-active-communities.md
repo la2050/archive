@@ -14,8 +14,8 @@ project_image: >-
 project_video: ''
 project_areas: []
 maker_answers:
+  metrics_connect_volunteerism: '1'
   city_state: 'Long Beach, California'
-  org_name: WomenShelter of Long Beach
   org_website: www.womenshelterlb.org
   org_twitter: 'https://twitter.com/womenshelterlb'
   org_facebook: 'https://www.facebook.com/womenshelterlb'
@@ -66,7 +66,7 @@ maker_answers:
     related to domestic violence, the project should be viewed as having no
     audience limitations.
   collaboration: "WSLB’s current DV/TDV primary prevention efforts maximize local resources and assets in service to youth. Guiding past and current prevention work has been WSLB’s substantive collaboration with the school district, whose representatives have helped to coordinate the delivery of TDV presentations by WSLB’s Youth Services staff. Since 2006, these presentations at middle and high schools have delivered knowledge on TDV while simultaneously introducing local youth to WSLB’s position as an advocate. Post-presentation activities, in turn, have provided WSLB staff with an opportunity to assess the needs of local youth and then bring those assessments to planning sessions with other service providers within the community’s continuum of care.\r\n\r\nThe Safe Long Beach Steering Committee, as well as the City’s Inter-Department Team – which is charged with strengthening collaboration and coordination among City departments that prevent, intervene, or suppress violence – will continue to oversee and assess prevention developments in Long Beach, and those activities will reinforce the linkages made between WSLB’s work, and the broader work conducted through Safe Long Beach. Accordingly, there will be a variety of opportunities for WSLB to share project information with fellow Long Beach stakeholders.\r\n\r\nWSLB also has cultivated strong partnerships with many other youth-serving agencies in the community, and presentations through those agencies have helped reach a greater number of youth while facilitating a collaborative approach to addressing violence prevention – and particularly teen dating violence prevention – in Long Beach. \r\n\r\nThrough collaborations with program designers, such as A Window Between Worlds, which uses art as a healing tool to empower and transform individuals and communities impacted by violence and trauma, WSLB engages those youth in activities that benefit the community at-large. \r\n\r\nConfirmed partners for this funding opportunity include: A Window Between Worlds and Su Casa.  Furthermore, Tracy M. Colunga, Violence Prevention Coordinator for the City of Long Beach, endorses this application and strongly recommends it for funding. \r\n\r\nRequired for the success of this endeavor are: funding for the project, continued collaboration between the existing partners and the acquisition of new partners, and a strong coalition of volunteer leaders. \r\n"
-  metrics_connect_volunteerism: '1'
+  org_name: WomenShelter of Long Beach
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'
@@ -192,6 +192,8 @@ Whom will your project benefit? Please be specific.: >-
    Confirmed partners for this funding opportunity include: A Window Between Worlds and Su Casa. Furthermore, Tracy M. Colunga, Violence Prevention Coordinator for the City of Long Beach, endorses this application and strongly recommends it for funding. 
    
    Required for the success of this endeavor are: funding for the project, continued collaboration between the existing partners and the acquisition of new partners, and a strong coalition of volunteer leaders.
+cached_project_image: >-
+  /assets/images/projects/2014/safe-networks-active-communities/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20761%252Fdisplay%252Flogo.png=c570x385.png
 maker_image_id: '20761'
 maker_image_file_name: logo.png
 

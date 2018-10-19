@@ -18,8 +18,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Newsletter
-  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): Operations-South Bureau Community Stakeholder Collaboration
   Organization(s) mailing address(es): "Los Angeles Police Department \r\nOperations-South Bureau\r\n7600 S. Broadway \r\nLos Angeles, CA  90003"
   Organization(s) website(s): www.lapdonline.org/south_bureau
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -143,6 +143,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/the-community-engagement-initiative/img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg
 youtube_video_identifier: aH5tvjvjOYE
 organization_name: Operations-South Bureau Community Stakeholder Collaboration
 

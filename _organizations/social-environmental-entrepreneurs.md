@@ -35,5 +35,7 @@ aggregated:
     - '5102270'
 maker_image_file_name: homelessstreetscene.jpg
 maker_image_id: '24052'
+cached_project_image: >-
+  /assets/images/organizations/social-environmental-entrepreneurs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24052%252Fdisplay%252Fhomelessstreetscene.jpg=c570x385.jpg
 
 ---

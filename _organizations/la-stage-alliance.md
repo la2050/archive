@@ -38,5 +38,7 @@ aggregated:
     - '3102173'
 maker_image_file_name: Faces_Installation.jpg
 maker_image_id: '16935'
+cached_project_image: >-
+  /assets/images/organizations/la-stage-alliance/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16935%252Fdisplay%252FFaces_Installation.jpg=c570x385.jpg
 
 ---

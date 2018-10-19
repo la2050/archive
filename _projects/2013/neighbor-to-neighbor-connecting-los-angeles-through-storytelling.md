@@ -21,8 +21,19 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385
 maker_answers:
+  success: >-
+    In the short term, we will measure success by the number of volunteers who
+    participate, the number of films that are completed, how well the teams work
+    together, and how many community members were engaged to complete the
+    projects. In the long term, we’ll look at how many of the participants in
+    the project continued in volunteer service at Outfest or another non-profit
+    organization, how many people got more engaged in their neighborhood or
+    community, how many underserved people became engaged in filmmaking or
+    storytelling as a result of this project, and how many people used the
+    skills they learned in the project to get work. Ideally, this project will
+    continue annually and will build stronger and deeper relationships within
+    neighborhoods every year. 
   Organization Name: Outfest
-  website: Outfest.org
   Indicator: ' Social Connectedness'
   brief: >-
     One of the best ways to connect people is through storytelling. In September
@@ -57,18 +68,7 @@ maker_answers:
     neighborhood councils, such as the Historic Highland Park Neighborhood
     Council, who has been a key collaborator in a recent neighborhood based
     Outfest program. 
-  success: >-
-    In the short term, we will measure success by the number of volunteers who
-    participate, the number of films that are completed, how well the teams work
-    together, and how many community members were engaged to complete the
-    projects. In the long term, we’ll look at how many of the participants in
-    the project continued in volunteer service at Outfest or another non-profit
-    organization, how many people got more engaged in their neighborhood or
-    community, how many underserved people became engaged in filmmaking or
-    storytelling as a result of this project, and how many people used the
-    skills they learned in the project to get work. Ideally, this project will
-    continue annually and will build stronger and deeper relationships within
-    neighborhoods every year. 
+  website: Outfest.org
   description1: >-
     Founded by UCLA students in 1982, Outfest is the leading organization that
     promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
@@ -191,6 +191,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   By working on a project together people will get to know each other, develop
   common bonds, become involved in their community and invested in making Los
   Angeles a better place to live for everyone. 
+cached_project_image: >-
+  /assets/images/projects/2013/neighbor-to-neighbor-connecting-los-angeles-through-storytelling/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385.jpg
 maker_image_id: '16858'
 maker_image_file_name: Access_LA_Rt_copy.jpg
 

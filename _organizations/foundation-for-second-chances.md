@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '5102104'
 youtube_video_identifier: c9y0Bp8kgT4
+cached_project_image: >-
+  /assets/images/organizations/foundation-for-second-chances/img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg
 
 ---

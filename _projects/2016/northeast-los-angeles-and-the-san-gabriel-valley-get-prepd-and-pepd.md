@@ -126,6 +126,8 @@ project_proposal_best_place: >-
   and at the close of the grant, we will have rolled out nPEP/PReP services at
   all of our health centers and will be seeing at least 40 patients/month or
   480/year.
+cached_project_image: >-
+  /assets/images/projects/2016/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
 organization_name: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
 organization_website: www.pppsgv.org
 

@@ -75,6 +75,8 @@ project_proposal_best_place: >-
 
   With more funding, PIECES can make more of this happen. Ensuring that more
   young people stay hungry and encouraged to reach for their goals.
+cached_project_image: >-
+  /assets/images/projects/2016/continue-to-empower-young-adults-in-l-a-through-the-visual-and-performing-arts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4928931823741-team90.jpg
 organization_name: PIECES
 organization_website: www.PIECESarts.org
 

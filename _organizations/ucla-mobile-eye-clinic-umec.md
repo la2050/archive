@@ -34,5 +34,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102130'
+cached_project_image: >-
+  /assets/images/organizations/ucla-mobile-eye-clinic-umec/activation.la2050.org/assets/images/live/2048-wide/ucla-mobile-eye-clinic-umec.jpg
 
 ---

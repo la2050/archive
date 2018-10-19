@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - SOUTH BAY
 maker_answers:
+  metrics_connect_voting: '0'
   city_state: 'Los Angeles, California'
-  org_name: St. Barnabas Senior Services aka St. Barnabas Senior Center
   org_website: www.sbssla.org
   org_twitter: 'https://twitter.com/SBSSla'
   org_facebook: 'https://www.facebook.com/SBSSla'
@@ -72,7 +72,7 @@ maker_answers:
     bringing together over 50 organizations and individuals working together on
     policy issues impacting the lives of older adult residents of Los Angeles.
   metrics_connect_volunteerism: '1'
-  metrics_connect_voting: '0'
+  org_name: St. Barnabas Senior Services aka St. Barnabas Senior Center
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'
   metrics_connect_culturalevents: '0'
@@ -168,6 +168,8 @@ Whom will your project benefit? Please be specific.: >-
   a strong policy framework that supports seniors advocating for themselves,
   their voices are heard, their lives are enriched and L.A. itself becomes a
   better place to live.
+cached_project_image: >-
+  /assets/images/projects/2014/agents-for-change-initiative-for-seniors-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385.jpg
 maker_image_id: '20167'
 maker_image_file_name: _DSC5884.JPG
 

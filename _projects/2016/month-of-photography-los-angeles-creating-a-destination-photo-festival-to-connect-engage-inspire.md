@@ -70,6 +70,8 @@ project_proposal_best_place: >-
   engage in, and participate in the discussion and the narrative of an evolving
   art and communication form. To do this, key players in the world of
   communication and photography should attend and participate.
+cached_project_image: >-
+  /assets/images/projects/2016/month-of-photography-los-angeles-creating-a-destination-photo-festival-to-connect-engage-inspire/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852558165741-team90.jpg
 organization_name: Lucie Foundation
 organization_website: www.monthofphotography.com
 

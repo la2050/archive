@@ -36,5 +36,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102241'
+cached_project_image: >-
+  /assets/images/organizations/the-engineer-factory-a-project-of-community-partners/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
 
 ---

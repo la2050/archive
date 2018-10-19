@@ -126,6 +126,8 @@ project_proposal_best_place: >-
   pictures and short features that highlight them for our audience, as well as
   create free content that our partners can use to showcase themselves to
   philanthropic sources.
+cached_project_image: >-
+  /assets/images/projects/2016/empowering-community-organizations-to-grow-through-logistics-and-data-analytics/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
 organization_name: SportUp
 organization_website: sportup.com
 

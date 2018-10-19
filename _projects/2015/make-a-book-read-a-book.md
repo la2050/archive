@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): BookArtsLA
   Organization(s) mailing address(es): '11720 Washington Place, Los Angeles, CA 90066'
   Organization(s) website(s): www.bookartsla.org
   Organization(s) twitter handle(s): www.twitter.com/BookArtsLA
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): BookArtsLA
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -206,6 +206,8 @@ How do you plan to scale the success of your proposal?: >-
    2. Prototype the program in a middle school grades 6-8. Adjust and expand into the local schools as a start.
    3. Reach out to the wider school system and invite schools to apply to the program.
    4. Publish the results of the program so other schools are aware of the program.
+cached_project_image: >-
+  /assets/images/projects/2015/make-a-book-read-a-book/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23476%252Fdisplay%252FIMG_8796_(2).JPG=c570x385.jpg
 maker_image_id: '23476'
 maker_image_file_name: IMG_8796_(2).JPG
 organization_name: BookArtsLA

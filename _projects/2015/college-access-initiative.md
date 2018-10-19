@@ -20,8 +20,8 @@ project_areas:
   - South Bay
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Carson, CA'
-  Organization(s) name(s): Boys & Girls Clubs of Carson
   Organization(s) mailing address(es): '1950 E. 220th Street, Suite 102, Carson, CA 90810-1652'
   Organization(s) website(s): www.bgccarson.org
   Organization(s) twitter handle(s): www.twitter.com/BGCofCarson
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Boys & Girls Clubs of Carson
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -299,6 +299,8 @@ How do you plan to scale the success of your proposal?: >-
   served by reducing the number of Tutors and Youth Development Professionals at
   each site. However, we are confident we will sustain the College Access
   Initiative to serve thousands of youth in Carson and South Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2015/college-access-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24078%252Fdisplay%252FCollege_Access_Initiative.jpg=c570x385.jpg
 maker_image_id: '24078'
 maker_image_file_name: College_Access_Initiative.jpg
 organization_name: Boys & Girls Clubs of Carson

@@ -16,8 +16,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Long Beach, Ca'
-  Organization(s) name(s): The Ripple Effect
   Organization(s) mailing address(es): "3913 N. Virginia Rd., #207\r\nLong Beach, CA 90807"
   Organization(s) website(s): www.the-ripple-effect.net
   Organization(s) twitter handle(s): www.twitter.com/1rippleeffect
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): The Ripple Effect
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -291,6 +291,8 @@ How do you plan to scale the success of your proposal?: >-
   we can offer to students from 2 sessions to 4 sessions. We would want to keep
   each session at 30 students, as that is a manageable number of students to
   service in one session.
+cached_project_image: >-
+  /assets/images/projects/2015/college-bridge-program-for-graduating-high-school-seniors/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23575%252Fdisplay%252FPicture_5.jpg=c570x385.jpg
 maker_image_id: '23575'
 maker_image_file_name: Picture_5.jpg
 organization_name: The Ripple Effect

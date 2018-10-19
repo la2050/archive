@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: 'Los Angeles, CA 90033'
-  org_name: Proyecto Jardin (A Project of Community Partners)
   org_website: www.proyectojardin.org
   org_twitter: www.twitter.com/pjagricorpsla
   org_facebook: 'https://www.facebook.com/pages/Proyecto-Jardin/269671146378710'
@@ -73,7 +73,7 @@ maker_answers:
   impact_live: "LA Agri-Corps helps make LA the healthiest place to live today because it:\r\n1) Strengthens community capacity to create neighborhood food environments that are culturally revenant, healthy, and linked to improving community economic development and the built environments.\r\n2) We plan to promote sustainable agriculture by encourage cultivation of edible crops that are drought tolerant and/or native to dry, desert climates, such as teary beans, watermelon, peppers, okra, eggplant.\r\n"
   who_benefit: "1) Youth who need jobs, work development skills.\r\n2) Underserved low-income communities that lack access to fresh, organic, quality produce and experience the economic, health, and social impacts of grocery store red lining. \r\n"
   partners_collaboration: "Specify whether partenrs are confirmed. \r\n1)\tCity of Los Angeles Summer Youth Employment\r\n2)\tBoyle Heights Technology Academy, \r\n3)\tIkar Synagogue, Green Action \r\n4)\tJewish Federation of Los Angeles\r\n5)\tLAC+ USC Foundation\r\n6)\tThe Wellness Center at LAC + USC\r\n7)\tWhite Memorial Medical Center\r\n8)\tAmigos de Los Rios\r\n9)\tUCLA School of Public Health\r\n"
-  metrics_live_healthyfood: '1'
+  org_name: Proyecto Jardin (A Project of Community Partners)
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '1'
@@ -177,6 +177,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Factors that are critical to the success of the proposed collaboration include: (1) the ability of community members to learn about road safety and opportunities to help shape and advocate for Vision Zero; (2) the capacity of the project to inspire participants in workshops and walks to advocate for safer streets; and (3) the ability of advocacy to influence decision makers to adopt Vision Zero policies. We believe that the Vision Zero Los Angeles team can provide synergy through community-based journalism and outreach, community-engaged advocacy and community-led visioning for safer streets in order to achieve project goals.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/la-agri-corps-youth-healers-for-food-justice/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22630%252Fdisplay%252Fcorn_seeding.jpg=c570x385.jpg
 maker_image_id: '22630'
 maker_image_file_name: corn_seeding.jpg
 

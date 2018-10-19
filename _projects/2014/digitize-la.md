@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'Los Angeles, CA'
-  org_name: 'The National Association of Latino Independent Producers, NALIP'
   org_website: www.nalip.org
   org_twitter: www.twitter.com/NALIP_org
   org_facebook: www.facebook.com/nalip
@@ -77,7 +77,7 @@ maker_answers:
     Latinos.
   who_benefit: "Los Angeles-based women and minorities with an emphasis on Latino content creators. Digitize LA will support LA-based content creators to develop their professional skills, create original and viable content and most important increase their employability and access to funding, content buyers, studios and talent recruiters.\r\n"
   partners_collaboration: "MiTu, YouTube, NationBuilder and Social Mosaic are not yet confirmed as partners for Digitize LA but have recently collaborated in our Los Angeles-based Media Summit. \r\nhttp://www.nalipmediasummit.com/\r\n\r\nMiTu, Inc., a Los Angeles-based lifestyle YouTube network, presents lifestyle programming for connected Latino audience in English and Spanish. Its network features and distributes various short lifestyle videos and real-life Latino video-makers worldwide through YouTube.\r\n\r\nYouTube is a video-sharing website headquartered in California.\r\n\r\nNationBuilder, a Los Angeles-based company, is a community organizing system.  Software platform that offers easy-to-update website, a people database, and communication tool.\r\n\r\nSocial Mosaic, a Los Angeles-based company, digital agency with integrated digital marketing, social media, Web design development.  \r\n\r\nNationBuilder and Social Mosaic will help NALIP develop and perfect the technology and audience engagement tools to better serve Digitize LA participants.\r\n\r\nMiTu will provide space and access to their development executives to serve as mentors and possible buyer of participants' content."
-  metrics_create_employment: '1'
+  org_name: 'The National Association of Latino Independent Producers, NALIP'
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -156,6 +156,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    MiTu will provide space and access to their development executives to serve as mentors and possible buyer of participants' content.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/digitize-la/img.youtube.com/vi/JEFLrDV_RDE/maxresdefault.jpg
 youtube_video_identifier: JEFLrDV_RDE
 
 ---

@@ -29,8 +29,8 @@ project_areas:
   - Antelope Valley
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Big Brothers Big Sisters of Greater Los Angeles
   Organization(s) mailing address(es): "3150 North San Fernando Road, Suite C\r\nLos Angeles, CA 90065"
   Organization(s) website(s): www.bbbsla.org
   Organization(s) twitter handle(s): www.twitter.com/bbbsla
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Big Brothers Big Sisters of Greater Los Angeles
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -247,6 +247,8 @@ How do you plan to scale the success of your proposal?: >-
   industry represented. The goal of our LA2050 submission is to kickstart our
   growth so we can continue to scale the impact of our program to help make this
   unique, proven effective linked learning program to more of LA's youth.
+cached_project_image: >-
+  /assets/images/projects/2015/linked-learning-college-work-life-ready-through-bbbslas-workplace-mentoring-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23399%252Fdisplay%252FBBBSLA_Workplace_Mentoring_-_Linked_Learning.jpg=c570x385.jpg
 maker_image_id: '23399'
 maker_image_file_name: BBBSLA_Workplace_Mentoring_-_Linked_Learning.jpg
 organization_name: Big Brothers Big Sisters of Greater Los Angeles

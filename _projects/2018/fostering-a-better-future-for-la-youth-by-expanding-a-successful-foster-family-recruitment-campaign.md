@@ -88,6 +88,8 @@ Where do you hope this activation or your organization will be in five years?: >
   successful, there will be sufficient foster homes to address the need and the
   public will see foster youth as they are — children facing a difficult time,
   not simply difficult children.  
+cached_project_image: >-
+  /assets/images/projects/2018/fostering-a-better-future-for-la-youth-by-expanding-a-successful-foster-family-recruitment-campaign/activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
 organization_name: Tides Center dba Children's Action Network
 
 ---

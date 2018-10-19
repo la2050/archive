@@ -34,5 +34,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102220'
+cached_project_image: >-
+  /assets/images/organizations/sundance-institute/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
 
 ---

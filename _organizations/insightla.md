@@ -43,5 +43,7 @@ aggregated:
   project_ids:
     - '3102156'
 youtube_video_identifier: lLS50WusJa4
+cached_project_image: >-
+  /assets/images/organizations/insightla/img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg
 
 ---

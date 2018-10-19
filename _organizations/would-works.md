@@ -34,5 +34,7 @@ aggregated:
   project_ids:
     - '4102109'
 youtube_video_identifier: xlsYqBrzY4k
+cached_project_image: >-
+  /assets/images/organizations/would-works/img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg
 
 ---

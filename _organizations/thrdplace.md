@@ -38,5 +38,7 @@ aggregated:
   project_ids:
     - '3102110'
 youtube_video_identifier: jUd4odIOyuc
+cached_project_image: >-
+  /assets/images/organizations/thrdplace/img.youtube.com/vi/jUd4odIOyuc/hqdefault.jpg
 
 ---

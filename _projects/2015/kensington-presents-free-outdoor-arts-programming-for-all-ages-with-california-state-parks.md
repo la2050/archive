@@ -20,8 +20,8 @@ project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/v-5UnN1CD0E'
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Word of mouth
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Kensington Presents
   Organization(s) mailing address(es): "Impact Hub Los Angeles\r\nArts District Downtown LA\r\n830 Traction Ave, #3A\r\nLos Angeles, CA 90013\r\n"
   Organization(s) website(s): www.kensingtonpresents.com
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -238,6 +238,8 @@ How do you plan to scale the success of your proposal?: >-
   to the community, as well as a member supported craft / industrial arts space
   and educational programming surrounding creating small businesses or
   successful freelance businesses.
+cached_project_image: >-
+  /assets/images/projects/2015/kensington-presents-free-outdoor-arts-programming-for-all-ages-with-california-state-parks/img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg
 youtube_video_identifier: v-5UnN1CD0E
 organization_name: Kensington Presents
 

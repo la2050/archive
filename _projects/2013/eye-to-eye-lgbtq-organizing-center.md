@@ -21,8 +21,12 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385
 maker_answers:
+  success: >-
+    We will measure our success by the number of people we engage and the number
+    of activities we execute.  We will evaluate qualitatively the impact of our
+    programming.  In addition, we will seek and independent consultant with
+    community organizing experience to help evaluate our work and impact. 
   Organization Name: API Equality-LA
-  website: www.apiequalityla.org
   Indicator: ' Social Connectedness'
   brief: "Our goal is to create a center for community-building, political education, action and organizing in Los Angeles, particularly for women and Lesbian, Gay, Bisexual, Transgender, Queer (LGBTQ) communities of color.   This project will recruit and develop new community leaders who can participate in organizing efforts and who will be engaged in community change work.\r\n\r\nIn the short term, we will increase community activism, including voter engagement through basic outreach and education on critical issues affecting our community.  In the longer term, our goal is to develop individual and collective leadership among communities that are currently underrepresented in decisionmaking circles. These include LGBTQ people of color, LGBTQ immigrants, women and transgender people of color.  We are creating a gathering space and space for organizing and political education for these communities."
   budget explanation: "Staff/Consultants, $50,000\r\nStakeholder Convenings and Meetings, $4800\r\nMaterials and Supplies, $1800\r\nEquipment (computer, tech), $3000\r\nCommunications/IT support, $7200\r\nPrinting, $2500\r\nTravel/Transportation, $2000\r\nTrainings/Curriculum Development, $5000\r\nOutreach/Recruitment/Retention $8000\r\nInterns/Trainees, $3000\r\nPostage $500\r\nSpace rental, $9200\r\nOther event costs, $3000"
@@ -35,11 +39,7 @@ maker_answers:
     relationships with numerous LGBT organizations in LA and throughout CA and
     the nation, who may provide insight and resources as this project continues
     to develop.
-  success: >-
-    We will measure our success by the number of people we engage and the number
-    of activities we execute.  We will evaluate qualitatively the impact of our
-    programming.  In addition, we will seek and independent consultant with
-    community organizing experience to help evaluate our work and impact. 
+  website: www.apiequalityla.org
   description1: >-
     In 8 years, our organization has grown into one of the most well-established
     organizations dedicated to organizing and political engagement of LGBT
@@ -160,6 +160,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   spearheading efforts to improve our communities.  Robust voter engagement
   would be a given and strategic organizing projects would be the norm in our
   communities.  
+cached_project_image: >-
+  /assets/images/projects/2013/eye-to-eye-lgbtq-organizing-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385.jpg
 maker_image_id: '16625'
 maker_image_file_name: CIMG0246.jpg
 

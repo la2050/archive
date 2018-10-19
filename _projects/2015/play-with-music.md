@@ -14,10 +14,8 @@ project_areas:
   - East LA
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': Los Angeles
-  Organization(s) name(s): >-
-    Play with Music, The New History (parent organization of Play with Music,
-    current transition filing 501c3 status for Play with Music)
   Organization(s) mailing address(es): 2432 E 8th St
   Organization(s) website(s): www.playwithmusic.org
   Organization(s) twitter handle(s): www.twitter.com/thenewhist
@@ -63,7 +61,9 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): >-
+    Play with Music, The New History (parent organization of Play with Music,
+    current transition filing 501c3 status for Play with Music)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -158,6 +158,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/play-with-music/img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg
 youtube_video_identifier: MY3TeVh867s
 organization_name: >-
   Play with Music, The New History (parent organization of Play with Music,

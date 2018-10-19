@@ -15,8 +15,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Career & College clubs
   Organization(s) mailing address(es): "c/o ALL Management Corporation \r\n1230 Rosecrans S 560\r\nManhattan Beach, CA  90266"
   Organization(s) website(s): www.careerandcollegeclubs.org
   Organization(s) twitter handle(s): www.twitter.com/CCClubs
@@ -61,7 +61,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Career & College clubs
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -180,6 +180,8 @@ How do you plan to scale the success of your proposal?: >-
   efforts will continue, the grant from LA2050 will accelerate that process and,
   most importantly, make the program available to LA County sites who want it
   but are unable to afford even $1,667 per year in fees.
+cached_project_image: >-
+  /assets/images/projects/2015/middle-school-career-and-college-preparation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385.jpg
 maker_image_id: '23182'
 maker_image_file_name: CCC_pic17_small.jpg
 organization_name: Career & College clubs

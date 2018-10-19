@@ -30,8 +30,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Twitter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Blueprint Earth
   Organization(s) mailing address(es): '340 S Lemon Ave #7879, Walnut, CA 91789'
   Organization(s) website(s): www.blueprintearth.org
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -336,6 +336,8 @@ How do you plan to scale the success of your proposal?: >-
    * Los Angeles has grown environmental tech jobs, related high-growth startups and manufacturing initiatives, and is recognized as the global leader
    * Complete blueprinting of 10 environments from around the world
    * Create optimized environment for sustaining life in space (e.g., for Mars or Moon mission)
+cached_project_image: >-
+  /assets/images/projects/2015/blueprint-earth-is-making-los-angeles-the-environmental-science-capital-of-the-world/img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg
 youtube_video_identifier: H-S2LiQcO00
 organization_name: Blueprint Earth
 

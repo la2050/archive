@@ -138,6 +138,8 @@ project_proposal_best_place: >-
   replicating across Los Angeles, we believe that this project will make LA the
   best place for youth to learn and become civically-engaged citizen
   journalists.
+cached_project_image: >-
+  /assets/images/projects/2016/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
 organization_name: 'Core Innovate, Inc. & Century Academy for Excellence'
 organization_website: www.coreinnovate.com
 

@@ -134,6 +134,8 @@ project_proposal_best_place: >-
   are educated, but also in the way they think about themselves, their futures
   and their roles in society. We have been innovators on ways to improve the
   lives of our community. Please help us reach more students across Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2016/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
 organization_name: The Help Group's STEM3 Academy
 organization_website: www.STEM3Academy.org
 

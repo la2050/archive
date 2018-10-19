@@ -38,5 +38,7 @@ aggregated:
     - '5102174'
     - '3102175'
 youtube_video_identifier: SXGVU13JPLU
+cached_project_image: >-
+  /assets/images/organizations/las-promise/img.youtube.com/vi/SXGVU13JPLU/hqdefault.jpg
 
 ---

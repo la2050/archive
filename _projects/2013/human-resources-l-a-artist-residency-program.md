@@ -10,8 +10,17 @@ project_summary: "HRLA was a collaborator and grant receiver of Getty Museum for
 project_image: 'https://img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/BSvlFmSuKyw'
 maker_answers:
+  success: >-
+    We will hold extensive interviews with each artist in residence at the end
+    of their stay and create documents that evaluate their experience. We will
+    collect data addressing the impact of events, exhibitions and publications -
+    all programs currently implemented by Human Resources L.A.’s existing
+    infrastructure - that will be available platforms for Artists in Residence
+    to engage. Current systems of collecting data addressing viewership,
+    visitors, community impact, marketing, education and outreach will be
+    applied towards the residency at the end of the grant cycle and complied
+    into a responsive document of accountability. 
   Organization Name: Human Resources L.A.
-  website: 'http://humanresourcesla.com/'
   Indicator: Arts & Cultural Vitality
   brief: "Human Resources L.A. Artist Residency Program would create Los Angeles' first centrally focused artist residency to hosts L.A. based artists and actively work to support their surrounding communities. Although there are several Artist residencies currently in place that support international artist in L.A. there is yet to be a program that serves L.A. locally. \r\n\r\nBy hosting 6 artists in the coming year Human Resources L.A. (HRLA) would act as a frame for a diverse set of vital yet under supported artist practices already occurring in Los Angeles. Each artist would be given studio space, a stipend and be asked to contribute to a public program that engages the city of Los Angeles. The residency would promote exchange between these co-occurring artist practices as well as foster educational and community impact; contextualizing the work in a non-commercial environment in order to bring global attention to the city of Los Angels as an international arena for culture and the arts. \r\n\r\nOur goal in supporting our residents would be to create an exceptional environment in which to further personal practices while engaging them in HRLA’s existing community and beyond. Community outreach will be activated by facilitating exhibition, performance, publication and symposium inside our existing Chinatown gallery space and institutional frame as well as activating our partners – including major institutions, galleries and fellow artist-run spaces. \r\n\r\nPart of our effort would be to extend geographical bridges between the artist communities established on the west side of L.A. in the last 25 years – Santa Monica, Venice beach, Culver City – and the new migrations east – Chinatown artist run space already in close collaboration with HRLA including K-Chung Radio, Ooga Booga, Machine Projects in Echo Park, Night Gallery. \r\n\r\n\r\n"
   budget explanation: "PROGRAM EXPENSES:\r\n                                                        1 Residency\t    X 6 Artists\t         TOTAL\t\r\nStudio rental for 2 months\t4,000\t            24,000\t         24,000\t\r\nArts Supplies & Equipment\t2,000 \t            12,000 \t         12,000 \t\r\nFacility/Event Rental Space\t1,800 \t                                  10,800 (hrla)\r\nHospitality\t                                250 \t \t             1,500 \t\r\nMARKETING\t\t\t\t\r\nAdvertising\t                                 1,200 \t         7,200 \t\r\nPrint, Supplies & Graphic design\t 1,000 \t 6 \t 6,000 \t\r\nresidency pbulication\t 750 \t 4,500 \t 4,500 \t\r\nWeb\t                                 100 \t 6 \t 600 \t\r\nPROFESSIONAL FEES\t\t\t\t\r\nResidentcy Coordinator\t 2,000 \t 6 \t 12,000 \t\r\nOutreach, public programs\t\t\t 11,000 \t\r\ncross programs and partners\t\t\t 5,600 \t18th Street Partnership\r\nTech Fees\t                         500 \t 6 \t 3,000 \t\r\nTravel, Mileage, \t 300 \t 6 \t 1,800 \r\n\t\r\nTOTAL PROGRAM EXPENSES\t \r\n\r\neach artist: 13,900\r\ntotal project: \t\t 100,000 \t"
@@ -23,16 +32,7 @@ maker_answers:
     as our mentor through consultation, collaborative exchanges and joint
     staffing. We would look to 18th Street and Santa Monica City’s support of
     this institution as a model to build from. 
-  success: >-
-    We will hold extensive interviews with each artist in residence at the end
-    of their stay and create documents that evaluate their experience. We will
-    collect data addressing the impact of events, exhibitions and publications -
-    all programs currently implemented by Human Resources L.A.’s existing
-    infrastructure - that will be available platforms for Artists in Residence
-    to engage. Current systems of collecting data addressing viewership,
-    visitors, community impact, marketing, education and outreach will be
-    applied towards the residency at the end of the grant cycle and complied
-    into a responsive document of accountability. 
+  website: 'http://humanresourcesla.com/'
   description1: "HRLA was a collaborator and grant receiver of Getty Museum for PST festival 2012, We have collaborated with REDCAT Gallery, UC Riverside, CalArts, LAND, Machine Projects on cooperative programs. Human Resources is a team of creative individuals, whose mission is to broaden public engagement with contemporary and conceptual art. Our organization emphasizes underexposed modes of expression and interdisciplinary arts practices that do not fit easily within existing institutionalized structures.\r\n\r\nHuman Resources was identified by the Los Angeles Weekly in 2012 as one of the city's \"most dynamic arts venues.\" We foster active public appreciation of performative, participatory and multi-disciplinary art practices by encouraging maximum community access. Events are free or very low cost. Members of our broad community generate exhibitions, performances and readings - artists who attend our events are encouraged to bring proposals to directing members. Our programming procedures encourage direct conversation with artists, musicians and writers in order to educate our audiences about our mission. These conversations also shape our understanding of the needs of artists working in non-commercial and experimental paradigms. \r\n\r\nHuman Resources serves as an important point of convergence for diverse and sometimes disparate art communities. We offer regular platforms for conversation and idea-sharing in order to promote the sustainability of non-traditional art forms. We nurture the kinds of artistic intelligence produced by working closely with different artistic communities - such as that of experimental music and performance art. We have also collaborated with other art spaces and events, including Pacific Standard Time, Silvershed's Collective show, fundraisers and events for Les Figues Press and Darin Klein's Box of Books, and the Chinatown Perform!Now! Festival.  We continue to provide a substantial venue for large events, installations, video screenings, music performance, performance art and hybrid events in the Chinatown area of Los Angeles. \r\n\r\n"
   description3: "HRLA was established in 2009 to fill a gap in the landscape of Los Angeles contemporary art. We are more flexible than a large institution or museum structure while committing more resources and infrastructure to our artists than a typical artist run space. We are a key gathering ground for our community and leaders of the recent wave of independent arts institutions serving Los Angeles. We are in direct communication and collaboration with our peers that include Machine Projects, Night Gallery, LACE, LAND, and Public Fiction. We are respected and in joint effort with large arts institutions including Hammer Museum, Getty, REDCAT Gallery and 18th Street. We recently hosted and extended a Hammer Museum exhibition with Fritz Haeg titled Domestic Integrities, In 2012 we held a Getty performance project surrounding the historic Woman House project. HRLA has acted as a remote venue for LAND, LACE, K-Chung and many more participating actors. We share resources and programmatic direction with fellow artist run spaces and act as a leader and president setter for the quality of symposium, performance and exhibition programming that we facilitate for our equals and higher level institutions. \r\n"
   vision: >-
@@ -236,6 +236,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   action and education with the mission to prove that art, creativity, critical
   discourse and cooperation promotes a higher quality of life and engaging of
   mind for all members of a society. 
+cached_project_image: >-
+  /assets/images/projects/2013/human-resources-l-a-artist-residency-program/img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg
 youtube_video_identifier: BSvlFmSuKyw
 
 ---

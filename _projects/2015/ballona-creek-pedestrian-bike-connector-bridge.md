@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Email through 2050 Newsletter Email Subscription
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Tagliaferri Howard Architecture
   Organization(s) mailing address(es): "4136 Del Rey Ave.  Marina Del Rey, CA 90292\r\n\r\n3981 Beethoven St Los Angeles, CA 90066"
   Organization(s) website(s): 'http://www.tharchitecture.com/'
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: 'We need the resources to set up community meetings and '
@@ -272,6 +272,8 @@ How do you plan to scale the success of your proposal?: >-
   bicycle our kids from Culver City, Mar Vista to Ballona Creek Wetlands
   Ecological Reserve and other Playa Vista parks will also be a measure of
   success.
+cached_project_image: >-
+  /assets/images/projects/2015/ballona-creek-pedestrian-bike-connector-bridge/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23805%252Fdisplay%252FLA2050_Cover_image_flattened2.jpg=c570x385.jpg
 maker_image_id: '23805'
 maker_image_file_name: LA2050_Cover_image_flattened2.jpg
 organization_name: Tagliaferri Howard Architecture

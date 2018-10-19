@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: A friend told me about it
-  'City, State': 'Chandler, AZ'
   Organization(s) name(s): Polar Tech Ed and Consulting LLC/Patrick Leon
   Organization(s) mailing address(es): '3100 W Ray Rd, Suite 201, Chandler, AZ 85226'
   Organization(s) website(s): 'http://www.polarcomputer.net'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Chandler, AZ'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -240,6 +240,8 @@ How do you plan to scale the success of your proposal?: >-
   different languages.
    
    We can offer the program to insurance companies that are looking to add diabetes prevention efforts to their wellness program as well.
+cached_project_image: >-
+  /assets/images/projects/2015/vida-en-equilibrio-aplicación-móvil-para-el-bienestar-life-in-balance-a-mobile-wellness-application/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385.png
 maker_image_id: '23673'
 maker_image_file_name: vidaenequilibrio.png
 organization_name: Polar Tech Ed and Consulting LLC/Patrick Leon

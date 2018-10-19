@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'Los Angeles, CA '
-  org_name: 'The Women''s Center for Creative Work '
   org_website: www.womenscenterforcreativework.com
   org_twitter: '@WCCWLA '
   org_facebook: 'https://www.facebook.com/womenscenterforcreativework'
@@ -63,7 +63,7 @@ maker_answers:
   impact_create: "Los Angeles is a collection of nodal centers, some very spread out from each other. In order to cultivate community in this rhizomatic city one has to be very deliberate–most of us get in our cars and drive somewhere rather than walking along the street. This lack of street culture leads to a brevity of the sort of chance interactions that can be very generative, creatively and otherwise. With a permanent physical space, the WCCW could function as a gathering place and foster an environment which allows for chance meetings and conversations as well as more formalized events, exhibitions, and workshops.\r\n\r\nWe believe the best places for creation have a built in community to discuss ideas, help out with big projects, support makers physically, emotionally, intellectually, spiritually, financially, etc…. We value both craft and high art, but are not into the hierarchy that separates them. We’re into constantly learning, sharing ideas and skills, and making it easier for women to get work done (whether this means a child care co-op, a tutorial offered on web design, or someone to help build a shipping crate). We endeavor to make visible the invisible labor that makes up a community: stacking chairs, creating spreadsheets, cooking a group meal, managing a facebook page. \r\n\r\nWe are feminists and we believe all these things, from administration to organization building, can be done from a feminist perspective. WCCW already embodies these visions and principles in its nomadic form and they would translate naturally to the physical space, making it an excellent place for women to create, foster relationships personal and professional, and participate in the cultivation of our ever-growing community. \r\n"
   who_benefit: "Creative women of all kinds will benefit from the space, especially those whose jobs/projects are of a more freelance nature, which is so common in this city: screenwriters, graphic designers, small business owners, stylists, comedians, landscape architects, etc... would have a place to come work within a supportive environment, proving a welcome alternative to having to take meetings at Starbucks. Through our varied activities and interests, we endeavor to make the WCCW as open and welcoming to all women as we possibly can and are particularly committed to intergenerational and cross-cultural conversations around women's creative work. \r\n\r\nEvents, exhibitions, and educational projects would also offer anyone interested in creative production in Los Angeles, the chance to engage with the WCCW and it's members.  "
   partners_collaboration: "We constantly work with collaborators and partners, and inevitably there would be many involved in this project, but none that have been specifically identified yet. \r\n\r\n"
-  metrics_create_employment: '1'
+  org_name: 'The Women''s Center for Creative Work '
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -151,6 +151,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   be many involved in this project, but none that have been specifically
   identified yet.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/a-physical-space-for-the-wccw/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20805%252Fdisplay%252F1525354_1412741148965740_1670155225_n.jpg=c570x385.jpg
 maker_image_id: '20805'
 maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
 

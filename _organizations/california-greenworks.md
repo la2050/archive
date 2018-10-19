@@ -69,5 +69,7 @@ aggregated:
     - '3102050'
 maker_image_file_name: Leroy.JPG
 maker_image_id: '17141'
+cached_project_image: >-
+  /assets/images/organizations/california-greenworks/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17141%252Fdisplay%252FLeroy.JPG=c570x385.jpg
 
 ---

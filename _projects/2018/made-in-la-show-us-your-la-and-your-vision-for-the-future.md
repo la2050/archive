@@ -158,6 +158,8 @@ Where do you hope this activation or your organization will be in five years?: >
   provide a forum for talented, diverse filmmakers with unique voices to
   celebrate all that LA offers and encourage their peers to create stories that
   draw from their own diverse surroundings.  
+cached_project_image: >-
+  /assets/images/projects/2018/made-in-la-show-us-your-la-and-your-vision-for-the-future/activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
 organization_name: Film Independent
 
 ---

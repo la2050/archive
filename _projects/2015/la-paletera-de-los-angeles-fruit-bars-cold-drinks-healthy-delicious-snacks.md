@@ -24,8 +24,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Mujeres de la Tierra
   Organization(s) mailing address(es): '570 West Avenue 26, Ste 300, Los Angeles, CA 90065'
   Organization(s) website(s): www.mujeresdelatierra.org
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -245,6 +245,8 @@ How do you plan to scale the success of your proposal?: >-
   will be documented and tracked. Feedback will be solicited via social media
   and on the spot conversation of buyer preferences and requests. Feedback will
   also be solicited from Paleteras regarding public comments, and impressions.
+cached_project_image: >-
+  /assets/images/projects/2015/la-paletera-de-los-angeles-fruit-bars-cold-drinks-healthy-delicious-snacks/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23623%252Fdisplay%252FMarsh_Park_Launch_Denice_Bike_.jpg=c570x385.jpg
 maker_image_id: '23623'
 maker_image_file_name: Marsh_Park_Launch_Denice_Bike_.jpg
 organization_name: Mujeres de la Tierra

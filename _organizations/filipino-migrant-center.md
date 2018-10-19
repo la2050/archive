@@ -50,5 +50,7 @@ aggregated:
   project_ids:
     - '3102126'
 youtube_video_identifier: nO6H3p5HpV4
+cached_project_image: >-
+  /assets/images/organizations/filipino-migrant-center/img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg
 
 ---

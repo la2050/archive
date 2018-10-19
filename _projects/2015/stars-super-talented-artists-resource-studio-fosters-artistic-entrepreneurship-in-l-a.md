@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/GLojtCpWaz4'
 project_areas:
   - San Fernando Valley
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: I'm on a Grants email list.
-  'City, State': 'Sherman Oaks, CA'
   Organization(s) name(s): Breaking into Hollywood
   Organization(s) mailing address(es): '9595 Wilshire Blvd. 9th Floor, Beverly Hills, CA 90212'
   Organization(s) website(s): www.breakingintohollywood.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Sherman Oaks, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -250,6 +250,8 @@ How do you plan to scale the success of your proposal?: >-
    2. Making our vision resilient. We will make sure that our volunteers and paid staff are all clear on the vision of the resource studio. We will also be flexible as we execute the vision so that we maximize the benefits it has on the creative community-at-large.
    3. Sustainability of the studio. Twice a month we will have meetings to discuss our current budget so that we can assess its accuracy based on actual center use and operation. This process will allow us to effectively apply for the appropriate local and federal grants based on our center’s usage. 
    4. Accountability to grant donors. We will provide monthly recaps to our Goldhirsh Foundation point of contact. Through our report findings, we will gauge our success and continuously consider implementation of advice provided by the Foundation.
+cached_project_image: >-
+  /assets/images/projects/2015/stars-super-talented-artists-resource-studio-fosters-artistic-entrepreneurship-in-l-a/img.youtube.com/vi/GLojtCpWaz4/maxresdefault.jpg
 youtube_video_identifier: GLojtCpWaz4
 organization_name: Breaking into Hollywood
 

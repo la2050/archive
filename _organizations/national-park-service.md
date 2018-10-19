@@ -51,5 +51,7 @@ aggregated:
   project_ids:
     - '3102201'
 youtube_video_identifier: Gx66ZyZaf90
+cached_project_image: >-
+  /assets/images/organizations/national-park-service/img.youtube.com/vi/Gx66ZyZaf90/hqdefault.jpg
 
 ---

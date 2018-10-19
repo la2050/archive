@@ -137,6 +137,8 @@ project_proposal_best_place: >-
   develop a full-blown pilot project intended to move IDG’s efforts to the next
   level by using the power of play as a strategy for invoking long awaited
   change.
+cached_project_image: >-
+  /assets/images/projects/2016/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
 organization_name: >-
   Co-led by Industrial District Green and Cal Poly Pomona Department of
   Landscape Architecture.

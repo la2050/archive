@@ -161,6 +161,8 @@ Where do you hope this activation or your organization will be in five years?: >
   continue to strengthen and revitalize the region. Additionally, NLP will be
   positioned to launch in other communities in Los Angeles, allowing Coro to
   expand its impact and reach in Southern California.
+cached_project_image: >-
+  /assets/images/projects/2018/coro-southern-californias-neighborhood-leaders-program-cultivating-leaders-to-empower-communities/activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
 organization_name: Coro Southern California
 
 ---

@@ -142,6 +142,8 @@ project_proposal_best_place: >-
   equality in media and inspire their participation in the field, enriching the
   Institute’s efforts to create more opportunities for female employment in the
   industry, as well as female-led projects, businesses, and arts establishments.
+cached_project_image: >-
+  /assets/images/projects/2016/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
 organization_name: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 organization_website: www.seejane.org
 

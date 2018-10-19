@@ -34,5 +34,7 @@ aggregated:
     - '4102043'
 maker_image_file_name: interfaithsize.png
 maker_image_id: '21276'
+cached_project_image: >-
+  /assets/images/organizations/holy-ghost-global/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21276%252Fdisplay%252Finterfaithsize.png=c570x385.png
 
 ---

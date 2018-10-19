@@ -37,5 +37,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102233'
+cached_project_image: >-
+  /assets/images/organizations/sportup/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
 
 ---

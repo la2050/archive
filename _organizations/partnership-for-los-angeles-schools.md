@@ -27,5 +27,7 @@ aggregated:
     - '2015'
   project_ids:
     - '#N/A'
+cached_project_image: >-
+  /assets/images/organizations/partnership-for-los-angeles-schools/maker.good.is/images/placeholder/idea.png
 
 ---

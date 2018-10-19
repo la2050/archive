@@ -20,8 +20,8 @@ project_areas:
   - South LA
   - South Bay
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Environmental Charter Schools
   Organization(s) mailing address(es): "Environmental Charter Schools\r\n812 West 165th Place\r\nGardena, CA 90247"
   Organization(s) website(s): www.ecsonline.org
   Organization(s) twitter handle(s): 'https://twitter.com/EnviroCharter'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Environmental Charter Schools
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -237,6 +237,8 @@ How do you plan to scale the success of your proposal?: >-
   successful on that front. 
    
    Should ECS receive the LA2050 LEARN competition, ECS will also leverage the prestige of a Goldhirsch Foundation grant to engage other new, potential funders in the LA region.
+cached_project_image: >-
+  /assets/images/projects/2015/ecs-serves-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23859%252Fdisplay%252FGood_Image_Change_the_World.jpg=c570x385.jpg
 maker_image_id: '23859'
 maker_image_file_name: Good_Image_Change_the_World.jpg
 organization_name: Environmental Charter Schools

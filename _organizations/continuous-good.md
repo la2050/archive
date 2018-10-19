@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102114'
+cached_project_image: >-
+  /assets/images/organizations/continuous-good/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
 
 ---

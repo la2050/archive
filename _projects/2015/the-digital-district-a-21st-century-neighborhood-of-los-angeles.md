@@ -16,8 +16,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23504%252Fdisplay%252FLA2050WIFIGRANTIMAGE.jpg=c570x385
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: GOOD MAGAZINE
-  'City, State': 'Los Angeles, Ca '
   Organization(s) name(s): 'Impact Hub Los Angeles '
   Organization(s) mailing address(es): "830 Traction Ave, #3A\r\nLos Angeles, Ca 90013"
   Organization(s) website(s): www.impacthubla.com
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, Ca '
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
@@ -154,6 +154,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/the-digital-district-a-21st-century-neighborhood-of-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23504%252Fdisplay%252FLA2050WIFIGRANTIMAGE.jpg=c570x385.jpg
 maker_image_id: '23504'
 maker_image_file_name: LA2050WIFIGRANTIMAGE.jpg
 organization_name: 'Impact Hub Los Angeles '

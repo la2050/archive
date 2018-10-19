@@ -41,5 +41,7 @@ aggregated:
     - '5102296'
     - '4102215'
 youtube_video_identifier: u0DYRf98w-o
+cached_project_image: >-
+  /assets/images/organizations/the-alternative-travel-project/img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg
 
 ---

@@ -94,6 +94,8 @@ project_proposal_best_place: >-
   The Grassroots Training for Health has identified the Community, in the
   initial phase as “Churches.” A “church” provides the structure and the
   Community in which this project will benefit the most.
+cached_project_image: >-
+  /assets/images/projects/2016/grassroots-training-for-health-combating-obesity-one-community-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6818331265741-team90.jpg
 organization_name: Grassroots Training for Health
 organization_website: www.academyofstrengthandsport.com
 

@@ -110,6 +110,8 @@ project_proposal_best_place: >-
   sign of hope for transformation will spread and create a new movement, a new
   relationship. Our shared story will recognize the River as central to our
   health, well-being, and sense of place.
+cached_project_image: >-
+  /assets/images/projects/2016/la-river-stories-public-engagement-through-creative-storytelling/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
 organization_name: River LA (formerly LA River Revitalization Corporation)
 organization_website: www.riverla.org
 

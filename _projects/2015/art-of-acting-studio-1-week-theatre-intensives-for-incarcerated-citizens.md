@@ -18,8 +18,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Email
-  'City, State': 'New York, NY'
   Organization(s) name(s): Stella Adler Art of Acting Studio
   Organization(s) mailing address(es): "1017 North Orange Drive, \LLos Angeles, CA 90038"
   Organization(s) website(s): 'http://www.artofactingstudio.com/'
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'New York, NY'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -208,6 +208,8 @@ How do you plan to scale the success of your proposal?: >-
    Since launching our work in jails in March 2014 we have consistently expanded the population of inmates served. We began exclusively serving adolescents at Rikers Island Correctional Facility in New York City. Over the course of one year we expanded our service to include male and female adult populations including high security populations. We have also expanded geographically. First we branched out to serve multiple facilities at Rikers and in June 2015, based on the success of our previous work, we received an invitation to provide a program at Twin Towers in Los Angeles. The relationships required for the successful delivery of this kind of program are key; once we engage successfully with a partner we are committed to a long-term relationship. 
    
    Furthermore, sustainability is an important part of delivering a program in jail successfully. First, students must see that you are there consistently in order for them to believe that you are truly invested in their growth and well-being. Establishing trust is vital to a jail service program. Second, sustainability is also important to measuring the success of the program. A minimum of a year-long presence in jail is ideal to obtain the necessary evaluation and data materials and to continue to define excellent work with our community partners. The more time we spend in a location the more accessible it becomes to potential stakeholders. In short, we are in this for the long haul!
+cached_project_image: >-
+  /assets/images/projects/2015/art-of-acting-studio-1-week-theatre-intensives-for-incarcerated-citizens/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385.jpg
 maker_image_id: '23700'
 maker_image_file_name: 12113284_1058676700830263_4818412174925935968_o.jpg
 organization_name: Stella Adler Art of Acting Studio

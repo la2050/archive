@@ -141,6 +141,8 @@ project_proposal_best_place: >-
   to do. You have no idea how much you will be helping our young patients who
   have been injured in accidents and need smiles. Your thoughtfulness is beyond
   measure.'
+cached_project_image: >-
+  /assets/images/projects/2016/reading-makes-a-difference-inspiring-kids-to-read-care-about-others/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
 organization_name: The Jester & Pharley Phund
 organization_website: www.thejester.org
 

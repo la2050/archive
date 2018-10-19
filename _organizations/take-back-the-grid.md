@@ -36,5 +36,7 @@ aggregated:
   project_ids:
     - '3102101'
 youtube_video_identifier: R-T1Ud6JTNo
+cached_project_image: >-
+  /assets/images/organizations/take-back-the-grid/img.youtube.com/vi/R-T1Ud6JTNo/hqdefault.jpg
 
 ---

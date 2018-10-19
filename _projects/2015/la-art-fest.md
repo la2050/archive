@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/pnwgZVtiDAA'
 project_areas:
   - Central LA
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Email
-  'City, State': 'Los Angeles CA  '
   Organization(s) name(s): LA Art Fest & Julie Rico Gallery
   Organization(s) mailing address(es): "808 N. Spring Street #802\r\nLos Angeles, CA 90012"
   Organization(s) website(s): www.juliericogallery.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles CA  '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Produce second installment of LA Art Fest.
@@ -335,6 +335,8 @@ How do you plan to scale the success of your proposal?: >-
    As a multi-cultural art event people would share their own particulat cultural manifestation. Since there are hundreds of cultures throughout the L.A. area there is no shortage of content for future LA Art Fests. Content would be presented for exhibitions, performance and crafts presentations. 
    
    Multi-cultural food purveyors would be included to help share the pride of our collective community. There is such a vast array of choices with the new food trucks and other food vendors that each LA ART FEST would contain completely new content each time.
+cached_project_image: >-
+  /assets/images/projects/2015/la-art-fest/img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg
 youtube_video_identifier: pnwgZVtiDAA
 organization_name: LA Art Fest & Julie Rico Gallery
 

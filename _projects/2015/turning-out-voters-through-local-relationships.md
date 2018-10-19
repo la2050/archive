@@ -24,8 +24,8 @@ project_areas:
   - South LA
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: 'Michelle Lin, Liberty Hill Foundation'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): LA Voice
   Organization(s) mailing address(es): '760 S. Westmoreland Ave Ste. 336, Los Angeles CA 90005'
   Organization(s) website(s): www.lavoicepico.org
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: Develop local leadership and power
@@ -182,6 +182,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/turning-out-voters-through-local-relationships/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23660%252Fdisplay%252FLA_2050_collage.jpg=c570x385.jpg
 maker_image_id: '23660'
 maker_image_file_name: LA_2050_collage.jpg
 organization_name: LA Voice

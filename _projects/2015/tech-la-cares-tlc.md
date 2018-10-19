@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Goldhirsh Foundation
-  'City, State': 'Santa Monica, CA'
   Organization(s) name(s): Tech LA Cares
   Organization(s) mailing address(es): '1223 Wilshire Blvd #805, Santa Monica, CA 90403'
   Organization(s) website(s): www.techlacares.com
@@ -56,7 +56,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -249,6 +249,8 @@ How do you plan to scale the success of your proposal?: >-
    We aim to make it easy for companies to better connect with their communities, so that the rising tide lifts all boats, and so that LA can serve as a model for yet another incredible civic achievement.
    
    (And yes, to be more concrete, it will be necessary to scale this model via earned and paid media across traditional, social, and online channels.)
+cached_project_image: >-
+  /assets/images/projects/2015/tech-la-cares-tlc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23167%252Fdisplay%252Ftlc.jpg=c570x385.jpg
 maker_image_id: '23167'
 maker_image_file_name: tlc.jpg
 organization_name: Tech LA Cares

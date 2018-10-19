@@ -123,6 +123,8 @@ project_proposal_best_place: >-
   with students to help address barriers by providing personal and academic
   support and connecting students to resources on campus. Our staff provides
   individualized support to high-risk students.
+cached_project_image: >-
+  /assets/images/projects/2016/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
 organization_name: Camino Nuevo Charter Academy
 organization_website: www.caminonuevo.org
 

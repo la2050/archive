@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/fvo26NJM3JM'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: email
-  'City, State': 'Studio CIty, CA'
   Organization(s) name(s): The River Project
   Organization(s) mailing address(es): '3912 Laurel Canyon #208, Studio City, CA 91604'
   Organization(s) website(s): www.WaterLA.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Studio CIty, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -219,6 +219,8 @@ How do you plan to scale the success of your proposal?: >-
    As Angelenos interest in adopting urban acupuncture strategies grows, students in the first three years of classes will have opportunities to serve requisite field apprenticeships with Water LA small business partners, and with our NGO partners as we retrofit 100 more homes and 1,000 parkway basins through the Water LA Phase 2 pilot.
    
    Our ultimate aim is to design a curriculum that can be transferred to colleges throughout the California Community College System and ultimately, the west.
+cached_project_image: >-
+  /assets/images/projects/2015/blue-green-jobs-for-a-climate-resilient-los-angeles/img.youtube.com/vi/fvo26NJM3JM/maxresdefault.jpg
 youtube_video_identifier: fvo26NJM3JM
 organization_name: The River Project
 

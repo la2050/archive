@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '4102103'
 youtube_video_identifier: dN0L0YMa39s
+cached_project_image: >-
+  /assets/images/organizations/usc-game-innovation-lab/img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg
 
 ---

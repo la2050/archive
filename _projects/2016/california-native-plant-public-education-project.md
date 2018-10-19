@@ -126,6 +126,8 @@ project_proposal_best_place: >-
 
   Our proposed films will help inform the public about how to use LA’s rich
   natural heritage for making LA the best place to live in 2050.
+cached_project_image: >-
+  /assets/images/projects/2016/california-native-plant-public-education-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
 organization_name: Landscape Integrity Films and Education (LIFE)
 organization_website: www.youtube.com/channel/UC-q5gdpHqRxx5aOHWuQxVtA
 

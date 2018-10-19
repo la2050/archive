@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Urban Word Los Angeles
   Organization(s) mailing address(es): "c/o Beyond Baroque\r\n681 Venice Blvd.\r\nVenice, CA 90291"
   Organization(s) website(s): www.urbanword.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: 'Town Hall Meetings, Volunteerism, Voter Drives, and Performances'
@@ -214,6 +214,8 @@ How do you plan to scale the success of your proposal?: >-
   activists spaces across LA, but ultimately as we grow this model, we have a
   vision and plan to engage the LA Unified School District to enter this work
   into school and after-school settings.
+cached_project_image: >-
+  /assets/images/projects/2015/la-youth-poet-ambassadors/img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg
 youtube_video_identifier: WendT0Sm-Tk
 organization_name: Urban Word Los Angeles
 

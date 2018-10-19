@@ -45,5 +45,7 @@ aggregated:
     - '6102265'
     - '5102102'
     - '4102244'
+cached_project_image: >-
+  /assets/images/organizations/tickleberry-place/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
 
 ---

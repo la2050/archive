@@ -38,5 +38,7 @@ aggregated:
     - '5102078'
 maker_image_file_name: CtD_2050_Image_2.jpg
 maker_image_id: '24151'
+cached_project_image: >-
+  /assets/images/organizations/connect-the-dots-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385.jpg
 
 ---

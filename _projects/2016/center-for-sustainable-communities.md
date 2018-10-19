@@ -142,6 +142,8 @@ project_proposal_best_place: >-
   collaborate to attract a wide range of volunteers for our municipal water and
   green projects, and reach out to the educational community as the Compton
   Creek Project evolves.
+cached_project_image: >-
+  /assets/images/projects/2016/center-for-sustainable-communities/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4742887015741-team89.jpg
 organization_name: Neighborhood Housing Services of Los Angeles County
 organization_website: www.nhslacounty.org
 

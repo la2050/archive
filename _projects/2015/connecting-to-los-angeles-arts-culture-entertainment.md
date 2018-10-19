@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - San Fernando Valley
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: One of our members e-mailed the LA2050 Grants Challenge e-mail to me.
-  'City, State': 'Sherman Oaks, CA '
   Organization(s) name(s): San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
   Organization(s) mailing address(es): "(SFVACC) 18312 Oxnard Street, Tarzana, CA 91356\r\n(TVEA)  5121 Van Nuys Blvd., Suite 200, Sherman Oaks, CA 91403"
   Organization(s) website(s): www.sfvacc.org and www.thevalley.net
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Sherman Oaks, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Track data
@@ -296,6 +296,8 @@ How do you plan to scale the success of your proposal?: >-
   for-fee-basis for the 2nd and successive years of service.
    
    By tracking how many Metro LAACE Art Discount Cards have been purchased, we will be able to assess the popularity of the card itself and also how it is being used.
+cached_project_image: >-
+  /assets/images/projects/2015/connecting-to-los-angeles-arts-culture-entertainment/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23739%252Fdisplay%252FLAACE.jpg=c570x385.jpg
 maker_image_id: '23739'
 maker_image_file_name: LAACE.jpg
 organization_name: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance

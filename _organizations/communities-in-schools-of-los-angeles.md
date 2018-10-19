@@ -41,5 +41,7 @@ aggregated:
     - '5102075'
     - '3102085'
 youtube_video_identifier: 8RfGcPRl--8
+cached_project_image: >-
+  /assets/images/organizations/communities-in-schools-of-los-angeles/img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg
 
 ---

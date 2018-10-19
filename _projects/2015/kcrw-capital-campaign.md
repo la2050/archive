@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: The Goldhirsh Foundation
-  'City, State': 'Santa Monica, CA'
   Organization(s) name(s): 'KCRW Foundation, Inc.'
   Organization(s) mailing address(es): '1900 Pico Blvd., Santa Monica, CA 90405'
   Organization(s) website(s): www.kcrw.com
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -284,6 +284,8 @@ How do you plan to scale the success of your proposal?: >-
    - Social media audience increases to 2.5 million (baseline: 1.5 million)
    - Event audience increases to 268,000 (baseline: 212,970)
    - Internship opportunities increase to 50 (baseline: 25)
+cached_project_image: >-
+  /assets/images/projects/2015/kcrw-capital-campaign/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24006%252Fdisplay%252FCWA_SMC_KCRW_121010.jpg=c570x385.jpg
 maker_image_id: '24006'
 maker_image_file_name: CWA_SMC_KCRW_121010.jpg
 organization_name: 'KCRW Foundation, Inc.'

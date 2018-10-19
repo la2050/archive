@@ -34,5 +34,7 @@ aggregated:
     - '4102072'
 maker_image_file_name: Image_for_Good.jpg
 maker_image_id: '22152'
+cached_project_image: >-
+  /assets/images/organizations/positive-minded-people/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22152%252Fdisplay%252FImage_for_Good.jpg=c570x385.jpg
 
 ---

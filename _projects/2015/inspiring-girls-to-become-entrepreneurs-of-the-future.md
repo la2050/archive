@@ -21,8 +21,8 @@ project_areas:
   - County of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Twitter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Girls Inc. of Greater Los Angeles, WhizGirls'
   Organization(s) mailing address(es): "1631 Pontius Ave., Los Angeles, CA 90025 (GI)\r\n"
   Organization(s) website(s): www.girlsincla.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -219,6 +219,8 @@ How do you plan to scale the success of your proposal?: >-
   for the girls to participate in the programs. Recruiting teachers and
   volunteers to support the work will further expand the reach and impact of the
   program allowing for more girls to participate.
+cached_project_image: >-
+  /assets/images/projects/2015/inspiring-girls-to-become-entrepreneurs-of-the-future/img.youtube.com/vi/Dcwg2GZofvo/maxresdefault.jpg
 youtube_video_identifier: Dcwg2GZofvo
 organization_name: 'Girls Inc. of Greater Los Angeles, WhizGirls'
 

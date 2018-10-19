@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_create_employment: '1'
   city_state: Los Angeles
-  org_name: Nomadlosangeles
   org_website: nomadlosangeles.com
   org_twitter: nomadlosangeles
   org_facebook: nomadla
@@ -83,7 +83,7 @@ maker_answers:
     Charter School, Art Lab High School), LA River Revitalization Corp, Elysian
     Valley Arts Collective, Frogtown Artwalk, Bookshow (Independent artisan book
     store), Mitch O'Farrell, NELA art Organization, ArtCenter college.  
-  metrics_create_employment: '1'
+  org_name: Nomadlosangeles
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -170,6 +170,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Arts Collective, Frogtown Artwalk, Bookshow (Independent artisan book store),
   Mitch O'Farrell, NELA art Organization, ArtCenter college.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/los-angeles-vital-arts-lava-community-art-and-printing-lab/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21917%252Fdisplay%252Fstudio1.jpg=c570x385.jpg
 maker_image_id: '21917'
 maker_image_file_name: studio1.jpg
 

@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/X9EpK48pYtY'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Online search
-  'City, State': 'New York, NY'
   Organization(s) name(s): The Moving Museum
   Organization(s) mailing address(es): '230 W 38th Street, New York, NY 10018'
   Organization(s) website(s): www.themovingmuseum.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'New York, NY'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -269,6 +269,8 @@ How do you plan to scale the success of your proposal?: >-
    We would develop our online platform to provide an opportunity for continuing the development of digital and interactive works as well as host webcast talks built from topics addressed during the project to extend on LA’s influence with an online audience as an increasingly important arena for the arts.
    
    Ultimately, the success of this project would be used as a model example of how to transform artistic communities in other cities that desperately require a program of this nature to survive, evolve and become part of the global dialogue.
+cached_project_image: >-
+  /assets/images/projects/2015/the-moving-museum-los-angeles/img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg
 youtube_video_identifier: X9EpK48pYtY
 organization_name: The Moving Museum
 

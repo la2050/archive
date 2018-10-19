@@ -21,8 +21,8 @@ project_areas:
   - East LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: via email invitation
-  'City, State': 'Los Angeles, California'
   Organization(s) name(s): Union Rescue Mission
   Organization(s) mailing address(es): '545 South San Pedro Street, Los Angeles, CA 90013'
   Organization(s) website(s): www.urm.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, California'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -226,6 +226,8 @@ How do you plan to scale the success of your proposal?: >-
    Given this rich heritage of forging new pathways and expanding to meet the needs of the population we serve, we are confident that the goals outlined in our program will be achieved within the 12 month timeline, doubling the number of men and women currently place jobs by the end of 2016. 
    
    Building our jobs team will allow URM to significantly scale our program, doubling the number of men and women served during the 12 month grant funding period. Given the critical importance that jobs play in restoring the futures of the men and women we serve, we plan to leverage this grant to attract more funding, building our capacity to grow the meet the increasing needs. Over time, we plan to scale the program to serve all guests who turn to us for help, achieving our ultimate goal of Building a Better LA -- by Helping to End Skid Row through Jobs.
+cached_project_image: >-
+  /assets/images/projects/2015/building-a-better-la-helping-to-end-skid-row-through-jobs/img.youtube.com/vi/uIeSYK3uGbU/maxresdefault.jpg
 youtube_video_identifier: uIeSYK3uGbU
 organization_name: Union Rescue Mission
 

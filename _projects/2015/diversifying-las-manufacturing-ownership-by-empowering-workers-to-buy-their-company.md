@@ -17,8 +17,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: twitter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Concerned Capital
   Organization(s) mailing address(es): "Impact HUB LA\r\nC/o Concerned Capital\r\n830 Traction Avenue, 3A\r\nLos Angeles, CA  90013"
   Organization(s) website(s): www.concernedcapital.org
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Engage economic development providers nationwide in this practice
@@ -239,6 +239,8 @@ How do you plan to scale the success of your proposal?: >-
    The National Association of Workforce Providers is a trade group with 14,300 members nationwide that we routinely share innovations with. This group will also scale the program nationally. 
    
    We feel that the idea of long term employees buying the company they work for will be seen as a solution to the issue of income inequality and preserving manufacturing jobs. These issues have already been highlighted in our nation's upcoming presidential election.
+cached_project_image: >-
+  /assets/images/projects/2015/diversifying-las-manufacturing-ownership-by-empowering-workers-to-buy-their-company/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23949%252Fdisplay%252FRecycle_Piece_labj11102014.jpg=c570x385.jpg
 maker_image_id: '23949'
 maker_image_file_name: Recycle_Piece_labj11102014.jpg
 organization_name: Concerned Capital

@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/adLZ6eeMc2w'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): United Friends of the Children
   Organization(s) mailing address(es): '1055 Wilshire Blvd., Suite 1955, Los Angeles, CA  90017'
   Organization(s) website(s): www.unitedfriends.org
   Organization(s) twitter handle(s): www.twitter.com/UnitedFriends
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): United Friends of the Children
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -241,6 +241,8 @@ How do you plan to scale the success of your proposal?: >-
   achieved <40% growth in the current year).
    
    Meanwhile, we expect that the external evaluation of our program that is currently underway will help us to validate our relationship-based service model, and identify opportunities to improve our program delivery, so that not only can we scale the program locally, but encourage its replication in communities nationwide.
+cached_project_image: >-
+  /assets/images/projects/2015/college-is-for-foster-youth/img.youtube.com/vi/adLZ6eeMc2w/maxresdefault.jpg
 youtube_video_identifier: adLZ6eeMc2w
 organization_name: United Friends of the Children
 

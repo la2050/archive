@@ -35,5 +35,7 @@ aggregated:
     - '4102100'
 maker_image_file_name: safari.jpg
 maker_image_id: '21750'
+cached_project_image: >-
+  /assets/images/organizations/ucla-extension-landscape-architecture-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21750%252Fdisplay%252Fsafari.jpg=c570x385.jpg
 
 ---

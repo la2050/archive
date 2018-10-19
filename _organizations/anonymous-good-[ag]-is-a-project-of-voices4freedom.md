@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '4102007'
 youtube_video_identifier: xzNGKe7E2iE
+cached_project_image: >-
+  /assets/images/organizations/anonymous-good-[ag]-is-a-project-of-voices4freedom/img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg
 
 ---

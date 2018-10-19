@@ -19,10 +19,10 @@ project_video: 'https://www.youtube.com/embed/qooMUYecd1s'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: >-
     Tara Roth, president of the Goldhirsh Foundation and a member of our
     advisory board, recommended applying.
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Plug In South LA
   Organization(s) mailing address(es): "12777 Jefferson Blvd.\r\nBuilding D – 3rd Floor\r\nLos Angeles, CA 90066\r\n"
   Organization(s) website(s): www.pluginsouthla.com
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
@@ -249,6 +249,8 @@ How do you plan to scale the success of your proposal?: >-
   neighborhoods such as Inglewood, Compton, Huntington Park, and South Gate. 
    
    Plug In South LA will catalyze the growth of its member companies and startups with its mentorship program and connections to venture capital. As Plug In South LA members become successful and hire more employees they will move out to larger dedicated office spaces in the surrounding community increasing economic activity. After proving to be a successful business model for generating and growing businesses Plug In will seek to open more co-working locations branching out to the South and East.
+cached_project_image: >-
+  /assets/images/projects/2015/plug-in-south-la/img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg
 youtube_video_identifier: qooMUYecd1s
 organization_name: Plug In South LA
 

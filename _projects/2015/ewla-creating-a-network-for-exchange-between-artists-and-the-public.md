@@ -16,8 +16,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Twitter
-  'City, State': 'Santa Monica, CA'
   Organization(s) name(s): ExchangeWorks
   Organization(s) mailing address(es): '1512 Berkeley Street, Ste A, Santa Monica, CA 90404'
   Organization(s) website(s): 'http://www.exchangeworks.co'
@@ -64,7 +64,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
    We will explore the feasibility of hiring a permanent staff and securing a permanent space in Downtown LA to act as a warehouse to store resources, office and event space.
    
    Based on what we learn in Los Angeles, we will expand with similar focused programs in other major art capitals, such as NY, Chicago and Miami. This will also enable our participants in LA to have more opportunities to make exchanges with people from other cities.
+cached_project_image: >-
+  /assets/images/projects/2015/ewla-creating-a-network-for-exchange-between-artists-and-the-public/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23594%252Fdisplay%252FEW_Molly_EWLA_sm.jpg=c570x385.jpg
 maker_image_id: '23594'
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
 organization_name: ExchangeWorks

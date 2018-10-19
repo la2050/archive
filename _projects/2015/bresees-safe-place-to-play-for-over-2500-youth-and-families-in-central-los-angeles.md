@@ -20,8 +20,8 @@ project_video: 'https://www.youtube.com/embed/yeyzmCpYfFk'
 project_areas:
   - Central LA
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): P.F. Bresee Foundation
   Organization(s) mailing address(es): "184 S. Bimini Place\r\nLos Angeles, CA 90004"
   Organization(s) website(s): www.bresee.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -217,6 +217,8 @@ How do you plan to scale the success of your proposal?: >-
   youth development activities.
    
    Additionally, Bresee is currently seeking to partner with the new Major League Soccer Team LAFC to replicating its sports programming in other high need areas of Los Angeles including East Los Angeles, West Los Angeles, South Los Angeles, Pacoima, Mar Vista, and Venice. Lastly, Bresee envisions current program participants returning as college graduates to expand services to other areas in Los Angeles and to continue Bresee’s track record of creating the next generation of community leaders.
+cached_project_image: >-
+  /assets/images/projects/2015/bresees-safe-place-to-play-for-over-2500-youth-and-families-in-central-los-angeles/img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
 youtube_video_identifier: yeyzmCpYfFk
 organization_name: P.F. Bresee Foundation
 

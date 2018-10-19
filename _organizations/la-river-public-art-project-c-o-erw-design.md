@@ -39,5 +39,7 @@ aggregated:
     - '2015'
   project_ids:
     - '5102247'
+cached_project_image: >-
+  /assets/images/organizations/la-river-public-art-project-c-o-erw-design/activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
 
 ---

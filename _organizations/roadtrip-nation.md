@@ -37,5 +37,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102104'
+cached_project_image: >-
+  /assets/images/organizations/roadtrip-nation/activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
 
 ---

@@ -36,5 +36,7 @@ aggregated:
     - '5102118'
 maker_image_file_name: towergarden.jpg
 maker_image_id: '23569'
+cached_project_image: >-
+  /assets/images/organizations/green-institute-for-village-empowerment-give-program-at-tom-bradley-legacy-foundation-at-ucla-l-a-urban-farms-union-rescue-mission-union-church-l-a/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23569%252Fdisplay%252Ftowergarden.jpg=c570x385.jpg
 
 ---

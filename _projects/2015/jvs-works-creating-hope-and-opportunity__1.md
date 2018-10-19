@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/iQpQqqot8AQ'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Matthew Sharp
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): JVS Los Angeles
   Organization(s) mailing address(es): '6505 Wilshire Boulevard, Suite 200, Los Angeles, CA  90048'
   Organization(s) website(s): www.jvsla.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -237,6 +237,8 @@ How do you plan to scale the success of your proposal?: >-
   expressed by our employer partners, it follows our proven model of effective
   service delivery that is well documented, and it is done with the support and
   interest of our funders.
+cached_project_image: >-
+  /assets/images/projects/2015/jvs-works-creating-hope-and-opportunity__1/img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg
 youtube_video_identifier: iQpQqqot8AQ
 organization_name: JVS Los Angeles
 

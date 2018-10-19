@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_connect_volunteerism: '1'
   city_state: 'Santa Monica, CA'
-  org_name: Beauty Bus Foundation
   org_website: www.beautybus.org
   org_twitter: 'https://twitter.com/BeautyBus'
   org_facebook: 'https://www.facebook.com/beautybus'
@@ -91,7 +91,7 @@ maker_answers:
     human interaction during a hair cut or a manicure.
   who_benefit: "When we started Beauty Bus, it was clear to us that, disease does not discriminate. We see a gap between \"quality of care\" and \"quality of life.\" It is in this gap that we work.\r\n\r\nBeauty Bus serves chronically or terminally ill men, women and children with the following diseases or conditions: ALS (Lou Gehrig's Disease), Cancer, Muscular Dystrophy, Multiple Sclerosis, Parkinson's Disease, Spinal Cord Injuries, Stroke, Other Select Neuromuscular or Motor Neuron Diseases…AND their caregivers.\r\n\r\nBeauty Bus programs benefit a multitude of individuals.  Our programs will benefit the clients and caregivers we serve, their family members, as well as our social service and hospital partners.  \r\n\r\n"
   collaboration: "Beauty Bus Foundation benefits from strong collaboration and volunteer support in many areas of operation.  Beauty Bus currently works with over twenty social service partners including: \r\nALS Association Golden West Chapter, National MS Society, Ronald McDonald House Charities, UCLA Mattel Children’s Hospital, UCLA Radiation Oncology, USC Keck Hospital, City of Hope, Glendale Adventist Medical Center, Rose Room Hospice, Pomona Valley Medical Center, Leeza’s Care Connection, Los Angeles Caregiver Resource Center, No Worries Now, VITAS Hospice, Parkinson’s Resource Organization, The Stroke Association, Concern Foundation and We Spark.\r\n\r\nEvery year we are deepening our relationships with current partners and adding new partners.  Collaboration with these partners is critical because we are able to:\r\n1) Reach more individuals who would otherwise not know about Beauty Bus\r\n2) Add value to our partners programs by making interactions with clients and caregivers more meaningful\r\n3) Build community among all the individuals involved in the process of caring for and advocating for those living with chronic or terminal conditions.  In addition, to the tremendous partnerships in our program area, Beauty Bus has successful collaborations with a number of beauty companies and the Professional Beauty Association.  These relationships are responsible for the million dollars in product donations which are used at all of our events, visits and our Bag of Beauty Program.  \r\n"
-  metrics_connect_volunteerism: '1'
+  org_name: Beauty Bus Foundation
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'
@@ -198,6 +198,8 @@ Whom will your project benefit? Please be specific.: >-
    1) Reach more individuals who would otherwise not know about Beauty Bus
    2) Add value to our partners programs by making interactions with clients and caregivers more meaningful
    3) Build community among all the individuals involved in the process of caring for and advocating for those living with chronic or terminal conditions. In addition, to the tremendous partnerships in our program area, Beauty Bus has successful collaborations with a number of beauty companies and the Professional Beauty Association. These relationships are responsible for the million dollars in product donations which are used at all of our events, visits and our Bag of Beauty Program.
+cached_project_image: >-
+  /assets/images/projects/2014/bringing-beauty-home/img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg
 youtube_video_identifier: XoT_36T5K5E
 
 ---

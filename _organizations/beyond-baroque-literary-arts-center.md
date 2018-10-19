@@ -33,5 +33,7 @@ aggregated:
     - '4102016'
 maker_image_file_name: Proposed_Space_for_Venice_Arts_Commons.jpg
 maker_image_id: '22565'
+cached_project_image: >-
+  /assets/images/organizations/beyond-baroque-literary-arts-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22565%252Fdisplay%252FProposed_Space_for_Venice_Arts_Commons.jpg=c570x385.jpg
 
 ---

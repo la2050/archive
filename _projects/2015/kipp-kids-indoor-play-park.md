@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How did you hear about this challenge?: Coworker
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): City of Los Angeles Department of Recreation and Parks
   Organization(s) mailing address(es): "7341 Willoughby Ave\r\nLos Angeles, CA 90046"
   Organization(s) website(s): www.lacity.org
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -307,6 +307,8 @@ How do you plan to scale the success of your proposal?: >-
   preschool programs. Additionally, KIPP will fulfill the need for programming
   for babies, infants, and toddlers that the City of LA does not currently
   provide.
+cached_project_image: >-
+  /assets/images/projects/2015/kipp-kids-indoor-play-park/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23235%252Fdisplay%252Fplay.jpg=c570x385.jpg
 maker_image_id: '23235'
 maker_image_file_name: play.jpg
 organization_name: City of Los Angeles Department of Recreation and Parks

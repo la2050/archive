@@ -75,6 +75,8 @@ project_proposal_best_place: >-
   Island, Seattle and Portland, we know that LaunchCode participants can get
   placed in real high paying jobs that make a major different in how Los Angeles
   grows as a city.
+cached_project_image: >-
+  /assets/images/projects/2016/get-los-angeles-back-to-work/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6757074165741-team91.jpg
 organization_name: LaunchCode
 organization_website: www.launchcode.org
 

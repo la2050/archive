@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: via Shauna Nep
-  'City, State': 'New York, NY '
   Organization(s) name(s): Change Better
   Organization(s) mailing address(es): >-
     Social and Environmental Entrepreneurs (SEE), 23532 Calabasas Road, Suite A
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'New York, NY '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -240,6 +240,8 @@ How do you plan to scale the success of your proposal?: >-
    Each organization that participates in the training program goes through an extensive exploration of their partnership strategy, focusing on their areas of need and of leading strengths. Through the 4 months, we create a map of potential partnership opportunities and rehearse putting those options into practice. The startups that go through the Change Better training program come to Pitch Day ready and eager to grow their network. 
    
    By facilitating this network building, we can maximize the potential of the nonprofit community in LA. We can create a city where startup organizations have the connections for their work to thrive and nonprofit veterans have access to the freshest new ideas on the block.
+cached_project_image: >-
+  /assets/images/projects/2015/training-la-nonprofits-with-the-best-ideas-to-create-the-biggest-impact/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23690%252Fdisplay%252FChange_Better_Profile.jpg=c570x385.jpg
 maker_image_id: '23690'
 maker_image_file_name: Change_Better_Profile.jpg
 organization_name: Change Better

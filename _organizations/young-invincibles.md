@@ -33,5 +33,7 @@ aggregated:
     - '3102276'
 maker_image_file_name: jobstour.png
 maker_image_id: '21770'
+cached_project_image: >-
+  /assets/images/organizations/young-invincibles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21770%252Fdisplay%252Fjobstour.png=c570x385.png
 
 ---

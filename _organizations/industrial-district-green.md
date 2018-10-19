@@ -43,5 +43,7 @@ aggregated:
   project_ids:
     - '3102155'
 youtube_video_identifier: CqF0Cn4dZJs
+cached_project_image: >-
+  /assets/images/organizations/industrial-district-green/img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg
 
 ---

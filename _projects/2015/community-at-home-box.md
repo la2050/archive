@@ -21,8 +21,8 @@ project_areas:
   - East LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Entered last year
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Data Roads Foundation
   Organization(s) mailing address(es): "Empowerment WORKS\r\nATTN: Data Roads Foundation\r\n1793 Northwood Ct.\r\nOakland, CA. 94611 – USA"
   Organization(s) website(s): 'http://DataRoads.org/'
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Apply for the LA CityLink RFP
@@ -257,6 +257,8 @@ How do you plan to scale the success of your proposal?: >-
   deployments -- their own home and for a family in need. Once enough
   neighborhoods are exposed to Community at Home services, we expect growth to
   follow Reed's Law.
+cached_project_image: >-
+  /assets/images/projects/2015/community-at-home-box/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23942%252Fdisplay%252FData_Roads_Foundation.png=c570x385.png
 maker_image_id: '23942'
 maker_image_file_name: Data_Roads_Foundation.png
 organization_name: Data Roads Foundation

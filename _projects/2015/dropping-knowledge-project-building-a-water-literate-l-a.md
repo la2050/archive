@@ -18,8 +18,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Goldhirsh Foundation
-  'City, State': 'Santa Monica, CA'
   Organization(s) name(s): Heal the Bay
   Organization(s) mailing address(es): "1444 9th St.\r\nSanta Monica, CA 90401"
   Organization(s) website(s): www.healthebay.org
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -236,6 +236,8 @@ How do you plan to scale the success of your proposal?: >-
   Santa Monica Bay. 
    
    Heal the Bay is confident that its proposed Dropping Knowledge Project will make a great impact due in large part to the organization’s capacity to develop meaningful, call-to-action messaging, broad network of contacts in the Greater Los Angeles area and reputation as a reliable educational resource for the greater community– the project also has the potential of being successfully replicated in other large urban cities with water security issues and ethnically diverse populations.
+cached_project_image: >-
+  /assets/images/projects/2015/dropping-knowledge-project-building-a-water-literate-l-a/img.youtube.com/vi/SC6HYm8Zp7M/maxresdefault.jpg
 youtube_video_identifier: SC6HYm8Zp7M
 organization_name: Heal the Bay
 

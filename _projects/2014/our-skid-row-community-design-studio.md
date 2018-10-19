@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - CENTRAL LA
 maker_answers:
+  metrics_create_employment: '1'
   city_state: Los Angeles CA
-  org_name: Skid Row Housing Trust
   org_website: www.skidrow.org
   org_twitter: twitter.com/skidroworg
   org_facebook: facebook.com/SkidRowHousingTrust
@@ -78,7 +78,7 @@ maker_answers:
     Activities will be accessible and will not limit participation due to lack
     of technical abilities.  Lastly, programming will be continuous to nurture
     cumulative growth, involvement and leadership development.  
-  metrics_create_employment: '1'
+  org_name: Skid Row Housing Trust
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '1'
@@ -181,6 +181,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   abilities. Lastly, programming will be continuous to nurture cumulative
   growth, involvement and leadership development.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/our-skid-row-community-design-studio/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21430%252Fdisplay%252FPhotos_2013.JPG=c570x385.jpg
 maker_image_id: '21430'
 maker_image_file_name: Photos_2013.JPG
 

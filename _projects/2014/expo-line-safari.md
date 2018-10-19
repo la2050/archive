@@ -17,8 +17,8 @@ project_areas:
   - SOUTH LA
   - WESTSIDE
 maker_answers:
+  metrics_connect_volunteerism: '0'
   city_state: 'Los Angeles, CA'
-  org_name: UCLA Extension Landscape Architecture Program
   org_website: 'http://landarch.uclaextension.edu/'
   org_twitter: 'http://www.twitter.com/LandArch_UCLAx'
   org_facebook: 'https://www.facebook.com/pages/UCLA-Extension-Landscape-Architecture-Program'
@@ -69,7 +69,7 @@ maker_answers:
   impact_connect: "So much of Los Angeles has displaced nature in the development of the metroplex.  There are many opportunities to show the layers of LA, the past, the underground or unseen, the other creatures that call Los Angeles home. Taking a transportation route and exposing the scenic and natural processes enriches the experiences of the riders, and the understanding of the natural world where we live. \r\n\r\nUsing the Safari, as an exploration, and creating field guides and citizen scientists who record nature and become aware of these interconnections is just one of the possibilities for the Expo Line “Safari”.  This UCLA Extension Landscape Architecture program will work with students, naturalists, artists and metro riders to create an extraordinary experience of nature along the Los Angeles Metro Expo Line.\r\n\r\nUpon implementation, the template could be applied to the other Metro lines: Gold (the Cornfields and LA River), Blue (Augustus F. Hawkins Park and LA Port), etc., creating a network of nature and transportation opportunities.\r\n"
   who_benefit: "EXPO Safari will benefit schools in Los Angeles, Culver City, and Santa Monica by providing a fun scientific expedition using public transportation and exposing these students to the natural process and nature in Los Angeles.\r\n\r\nEXPO Safari will increase ridership along the EXPO line, by weaving the Natural History Museum, Gardens, Ballona Creek, into the Safari experience and engaging riders to explore areas along the route.\r\n\r\nEXPO Safari will benefit the wildlife we share our space with, by creating an understanding of tree canopies, bird migration, the value of wildlife in our city.\r\n\r\nEXPO Safari has the potential to create future botanists, biologists, zoologists, park rangers, hikers and a citizenry that is excited to explore outside the confines of a train, to see more of the world, to learn more and to experience nature.\r\n\r\nEXPO Safari will benefit our Landscape Architecture students in understanding that design is a collaborative process.\r\n"
   collaboration: "LA County Natural History Museum's scientists and gardens create a synergy between the past and the present natural history of LA.\r\n\r\nWe will be working with Science teachers in the various schools along the route. Working together to create a curriculum that is vibrant with urban wildlife. Our Landscape Architecture program has worked with various schools in Los Angeles County on service projects and learning curriculum.\r\n\r\nMETRO is an essential partner in allowing signage and \r\n\r\nCritical factors\r\nIn our past collaboration, success has depended on: 1) strong  public outreach – on the ground level at the schools as well as at agencies; 2) clear understanding of timeline and abilities of students;  3) the ability to share our strengths and leverage partnerships and resources for students and our work.\r\n\r\n"
-  metrics_connect_volunteerism: '0'
+  org_name: UCLA Extension Landscape Architecture Program
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'
@@ -178,6 +178,8 @@ Whom will your project benefit? Please be specific.: >-
    
    Critical factors
    In our past collaboration, success has depended on: 1) strong public outreach – on the ground level at the schools as well as at agencies; 2) clear understanding of timeline and abilities of students; 3) the ability to share our strengths and leverage partnerships and resources for students and our work.
+cached_project_image: >-
+  /assets/images/projects/2014/expo-line-safari/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21750%252Fdisplay%252Fsafari.jpg=c570x385.jpg
 maker_image_id: '21750'
 maker_image_file_name: safari.jpg
 

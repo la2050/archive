@@ -20,8 +20,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: KCRW
-  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): Smart Gals Productions
   Organization(s) mailing address(es): "2444 Riverdale Ave.\r\nLos Angeles, CA 90031"
   Organization(s) website(s): www.smartgalsproductions.org
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
@@ -233,6 +233,8 @@ How do you plan to scale the success of your proposal?: >-
   mode of documentation, and focus on capturing residents and their homes and
   businesses through photographs and text, and limit the number of on-camera
   interviews.
+cached_project_image: >-
+  /assets/images/projects/2015/is-was-will-be/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385.jpg
 maker_image_id: '23815'
 maker_image_file_name: IsWasWillBe_SmartGals.jpg
 organization_name: Smart Gals Productions

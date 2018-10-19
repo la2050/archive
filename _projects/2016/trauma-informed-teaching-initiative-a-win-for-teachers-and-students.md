@@ -136,6 +136,8 @@ project_proposal_best_place: >-
   teachers and positive results in the classroom. Lastly, our trauma-informed
   work encourages teachers to persist and grow their craft in teaching in
   low-income communities.
+cached_project_image: >-
+  /assets/images/projects/2016/trauma-informed-teaching-initiative-a-win-for-teachers-and-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
 organization_name: Teach For America-Los Angeles
 organization_website: losangeles.teachforamerica.org
 

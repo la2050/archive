@@ -78,5 +78,7 @@ aggregated:
   project_ids:
     - '3102048'
 youtube_video_identifier: XyASgYDVS_Q
+cached_project_image: >-
+  /assets/images/organizations/california-calls/img.youtube.com/vi/XyASgYDVS_Q/hqdefault.jpg
 
 ---

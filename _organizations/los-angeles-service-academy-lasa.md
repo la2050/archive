@@ -45,5 +45,7 @@ aggregated:
     - '6102145'
     - '5102195'
     - '4102256'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-service-academy-lasa/activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
 
 ---

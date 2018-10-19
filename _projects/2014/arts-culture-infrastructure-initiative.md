@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_create_employment: '1'
   city_state: Los Angeles
-  org_name: LA STAGE Alliance
   org_website: 'http://lastagealliance.com/'
   org_twitter: '@lastagealliance'
   org_facebook: facebook.com/lastagealliance
@@ -83,7 +83,7 @@ maker_answers:
     confirmed with the staff of Arts for LA that, if funded, we would contract
     with them to provide advocacy training over a six-month period with our
     Board Network.
-  metrics_create_employment: '1'
+  org_name: LA STAGE Alliance
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
@@ -203,6 +203,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Arts for LA that, if funded, we would contract with them to provide advocacy
   training over a six-month period with our Board Network.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/arts-culture-infrastructure-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22303%252Fdisplay%252FFaces_Installation.jpg=c570x385.jpg
 maker_image_id: '22303'
 maker_image_file_name: Faces_Installation.jpg
 

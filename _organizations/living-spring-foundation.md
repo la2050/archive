@@ -35,5 +35,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102134'
+cached_project_image: >-
+  /assets/images/organizations/living-spring-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7313280725741-team88.jpg
 
 ---

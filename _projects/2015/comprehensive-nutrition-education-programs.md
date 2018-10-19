@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/7GOyC2VCNOk'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Colleague
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Groceryships
   Organization(s) mailing address(es): "1101 W 23rd St\r\nLos Angeles, CA 90007"
   Organization(s) website(s): www.groceryships.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -286,6 +286,8 @@ How do you plan to scale the success of your proposal?: >-
    In addition to health coaches, each group is supported by a participant who previously graduated from a Groceryships group. These graduates serve as Program Ambassadors, and help ensure that health coaches lead groups in accordance with Groceryships’s principles and procedures. Additionally, the Program Ambassador leads the cooking class each week, giving participants hands-on experience preparing and tasting healthy meals.
    
    By greatly lowering the cost per program and growing the roster of health coaches and Program Ambassadors, Groceryships is now in a prime position to quickly scale. In 2015 Groceryships will run 10 programs for 100 families and has the capacity to run 30 or more programs in 2016 if the necessary funding is secured. Running 30 programs in 2016 would allow Groceryhips to scale even more rapidly with the number of additional trained health coaches and graduates for becoming Program Ambassadors. Having 300 additional alumni families from 30 new programs would also drive increased referrals for more Groceryships programs and intensify the priority for health in the South LA community.
+cached_project_image: >-
+  /assets/images/projects/2015/comprehensive-nutrition-education-programs/img.youtube.com/vi/7GOyC2VCNOk/maxresdefault.jpg
 youtube_video_identifier: 7GOyC2VCNOk
 organization_name: Groceryships
 

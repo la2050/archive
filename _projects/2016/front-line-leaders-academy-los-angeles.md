@@ -129,6 +129,8 @@ project_proposal_best_place: >-
   - Huntington Park Health and Education Commission
 
   - City of Walnut Mount San Antonio College Development Task Force
+cached_project_image: >-
+  /assets/images/projects/2016/front-line-leaders-academy-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 organization_name: People For the American Way Foundation
 organization_website: yeonetwork.org/our-work/front-line-leaders-academy
 

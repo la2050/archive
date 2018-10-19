@@ -45,5 +45,7 @@ aggregated:
     - '3102229'
 maker_image_file_name: rfk-logo.png
 maker_image_id: '17150'
+cached_project_image: >-
+  /assets/images/organizations/rfk-la-legacy-in-action/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17150%252Fdisplay%252Frfk-logo.png=c570x385.png
 
 ---

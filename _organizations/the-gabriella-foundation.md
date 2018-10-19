@@ -36,5 +36,7 @@ aggregated:
     - '4102169'
     - '3102247'
 youtube_video_identifier: TlilAMszJEs
+cached_project_image: >-
+  /assets/images/organizations/the-gabriella-foundation/img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg
 
 ---

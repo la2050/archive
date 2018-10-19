@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Twitter
-  'City, State': 'Los Angeles, CA 90071 '
   Organization(s) name(s): Center for Innovation at the LAEDC
   Organization(s) mailing address(es): "444  South Flower Street\r\n37th Floor"
   Organization(s) website(s): www.innovate.la
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA 90071 '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -216,6 +216,8 @@ How do you plan to scale the success of your proposal?: >-
   organizations. Eventually, this festival will have comprehensive themed
   programs within the greater overall frame with Pavilions for each of the
   tracts.
+cached_project_image: >-
+  /assets/images/projects/2015/lets-build-bridges-between-communities-and-our-dream-la-by-celebrating-la-county-innovation-broadly/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24136%252Fdisplay%252FScreen_Shot_2015-10-08_at_4.09.45_PM.png=c570x385.png
 maker_image_id: '24136'
 maker_image_file_name: Screen_Shot_2015-10-08_at_4.09.45_PM.png
 organization_name: Center for Innovation at the LAEDC

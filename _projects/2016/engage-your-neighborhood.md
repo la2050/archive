@@ -140,6 +140,8 @@ project_proposal_best_place: >-
   What’s your vision for your neighborhood in 2050?
 
   In 2050 what's your vision for how you connect?
+cached_project_image: >-
+  /assets/images/projects/2016/engage-your-neighborhood/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8286144555741-team88.png
 organization_name: 'Synaccord, LLC'
 organization_website: www.synaccord.com
 

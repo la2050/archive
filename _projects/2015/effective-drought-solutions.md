@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How did you hear about this challenge?: KPCC
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Individual submitter
   Organization(s) mailing address(es): "11214 Huston St #1, North Hollywood, CA 91601\r\n"
   Organization(s) website(s): www.allhale.net
@@ -59,7 +59,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -212,6 +212,8 @@ How do you plan to scale the success of your proposal?: >-
   abilities, their territory could be allowed to expand exponentially. As The
   Southland grows more comfortable with the idea of a symbiotic relationship
   with beaver, the positive ripple effects will be greater and greater.
+cached_project_image: >-
+  /assets/images/projects/2015/effective-drought-solutions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23280%252Fdisplay%252FDrought_Solutions_3.jpg=c570x385.jpg
 maker_image_id: '23280'
 maker_image_file_name: Drought_Solutions_3.jpg
 organization_name: Individual submitter

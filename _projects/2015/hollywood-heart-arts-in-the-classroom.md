@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/7VGCk_c0VcU'
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Hollywood, CA'
-  Organization(s) name(s): Hollywood HEART
   Organization(s) mailing address(es): "2690 Beachwood Dr.\r\nHollywood, CA 90064"
   Organization(s) website(s): www.hollywoodheart.org
   Organization(s) twitter handle(s): www.twitter.com/hollywdheart
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Hollywood HEART
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -262,6 +262,8 @@ How do you plan to scale the success of your proposal?: >-
    There is extensive research supporting both the need and the potential impact for college-based programs. Recent studies have highlighted the fact that while the high school graduation rates for low-income and at-risk youth are improving, and more of these students are entering college, the college graduation rates for low-income students has remained essentially unchanged since 1970 at a dismal 20%. Studies have long supported the link between a sustained engagement in the arts and improved academic achievement and graduation rates at the high school level. Hollywood HEART proposes that we take advantage of this fact to improve college outcomes as well.
     
    Hollywood HEART is currently reaching out to community colleges who have targeted programs for first generation and low-income students to provide encouragement and support for our students who wish to continue working in art-related fields. We are also in preliminary discussions with a four-year college who has expressed an interest in launching a similar effort. Our initial programming will target students interested in career opportunities for “below the line” positions in film and television which aligns not only with our film and digital media workshops but also our culinary arts and fashion programs which translate easily to catering and costuming careers.
+cached_project_image: >-
+  /assets/images/projects/2015/hollywood-heart-arts-in-the-classroom/img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg
 youtube_video_identifier: 7VGCk_c0VcU
 organization_name: Hollywood HEART
 

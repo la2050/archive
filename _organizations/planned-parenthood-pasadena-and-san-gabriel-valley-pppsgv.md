@@ -31,5 +31,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102185'
+cached_project_image: >-
+  /assets/images/organizations/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
 
 ---

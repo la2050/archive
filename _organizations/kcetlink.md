@@ -68,5 +68,7 @@ aggregated:
     - '3102163'
 maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
 maker_image_id: '17051'
+cached_project_image: >-
+  /assets/images/organizations/kcetlink/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385.jpg
 
 ---

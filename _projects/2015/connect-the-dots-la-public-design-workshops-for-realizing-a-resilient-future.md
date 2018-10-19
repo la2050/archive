@@ -16,8 +16,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: '2014'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Connect the Dots LA
   Organization(s) mailing address(es): "Arid Lands Institute\r\n7500 Glenoaks Boulevard\r\nBurbank, CA 91510\r\n"
   Organization(s) website(s): www.aridlands.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -272,6 +272,8 @@ How do you plan to scale the success of your proposal?: >-
   Institute’s Divining LA initiative. A Divining LA design competition
   (2017-2018) will build on CtD relationships and visioning; community design
   teams will compete for selection to realize demonstration projects.
+cached_project_image: >-
+  /assets/images/projects/2015/connect-the-dots-la-public-design-workshops-for-realizing-a-resilient-future/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385.jpg
 maker_image_id: '24151'
 maker_image_file_name: CtD_2050_Image_2.jpg
 organization_name: Connect the Dots LA

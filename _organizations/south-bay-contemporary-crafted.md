@@ -43,5 +43,7 @@ aggregated:
     - '3102234'
 maker_image_file_name: Culture_gaps_for_la2050xsmall_copy.jpg
 maker_image_id: '24146'
+cached_project_image: >-
+  /assets/images/organizations/south-bay-contemporary-crafted/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24146%252Fdisplay%252FCulture_gaps_for_la2050xsmall_copy.jpg=c570x385.jpg
 
 ---

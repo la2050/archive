@@ -70,6 +70,8 @@ project_proposal_best_place: >-
   this initiative seizes the opportunity to build a pioneer class of producers
   utilizing this paradigm shifting concept here in Los Angeles, unequivocally
   proving LA to be the best place to learn!
+cached_project_image: >-
+  /assets/images/projects/2016/filmlit-barter-skills-curriculum™-w-job-corps-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
 organization_name: FILMLIT MISSION
 organization_website: filmlit.org
 

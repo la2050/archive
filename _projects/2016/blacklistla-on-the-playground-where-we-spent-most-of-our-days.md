@@ -146,6 +146,8 @@ project_proposal_best_place: >-
 
 
   The hashtag #BlacklistLA explains it best!
+cached_project_image: >-
+  /assets/images/projects/2016/blacklistla-on-the-playground-where-we-spent-most-of-our-days/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 organization_name: BlacklistLA Run Organization
 organization_website: www.blacklistla.city
 

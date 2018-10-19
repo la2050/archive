@@ -18,8 +18,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How did you hear about this challenge?: 'Radio: KCRW'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): GREENBOXFARMS
   Organization(s) mailing address(es): '1723 S. Westgate Ave. #7'
   Organization(s) website(s): www.greenboxfarms.com
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -205,6 +205,8 @@ How do you plan to scale the success of your proposal?: >-
   leveraging venture capital funds and income from produce sales.
    
    In the future we would like to create pop up grocery stores. These grocery stores would be made out of recycled shipping containers and would employ local residents.
+cached_project_image: >-
+  /assets/images/projects/2015/revitalizing-the-way-los-angeles-grows-mentally-physically-and-economically/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23755%252Fdisplay%252FHydroponickids1.jpg=c570x385.jpg
 maker_image_id: '23755'
 maker_image_file_name: Hydroponickids1.jpg
 organization_name: GREENBOXFARMS

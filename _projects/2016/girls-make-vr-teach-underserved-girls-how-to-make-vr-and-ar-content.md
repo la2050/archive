@@ -130,6 +130,8 @@ project_proposal_best_place: >-
   Our classes will open girls' hearts and minds to the importance of learning by
   igniting their abilities in this forward thinking industry, making LA the
   leading city for change.
+cached_project_image: >-
+  /assets/images/projects/2016/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
 organization_name: Arts Bridging the Gap
 organization_website: www.artsbridgingthegap.org
 

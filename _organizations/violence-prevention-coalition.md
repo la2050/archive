@@ -35,5 +35,7 @@ aggregated:
     - '4102104'
 maker_image_file_name: RallyinLA.jpg
 maker_image_id: '20605'
+cached_project_image: >-
+  /assets/images/organizations/violence-prevention-coalition/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20605%252Fdisplay%252FRallyinLA.jpg=c570x385.jpg
 
 ---

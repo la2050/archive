@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: 'Previous applicant, email newsletter'
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'DSTL Arts, Emerging Arts Leaders/Los Angeles, Trade School Los Angeles'
   Organization(s) mailing address(es): "DSTL Arts\r\n3529 Fletcher Dr.\r\nLos Angeles, CA 90065\r\n\r\nEmerging Arts Leaders/Los Angeles\r\n℅ Community Partners\r\n1000 North Alameda Street\r\nSuite 240\r\nLos Angeles, CA 90012\r\n\r\nTrade School Los Angeles\r\n211 South Avenue 57\r\nUnit 201\r\nLos Angeles, CA 90042"
   Organization(s) website(s): www.DSTLArts.org
@@ -87,7 +87,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -344,6 +344,8 @@ How do you plan to scale the success of your proposal?: >-
    DSTL Arts, after establishing a centralized location with The PLACE, is looking to raise funds for a Mobile Art Lab for their Arts Mentorship Program students who may not have the ability to frequently travel from South LA, or further inland, into Central LA. The idea is to provide a mobile, creative workspace for youth who don’t always have access to tools or space to create at home. With the ultimate goal of expansion, DSTL Arts is very open to establishing chapters in the South Bay area & the San Fernando & San Gabriel Valleys, especially galleries that will display student artwork & provide work-readiness classes in the arts.
    
    The leadership of Trade School LA, Emerging Arts Leaders/LA & DSTL Arts are very committed to creating a pipeline of mentorship & education for creatives at all levels of their career. We are focused on establishing a mutually-supportive infrastructure now, that can eventually be expanded into other markets that will benefit from our pipeline structure. As long as we are able to collectively find funding to expand into other markets & establish centralized spaces, while hiring staff to coordinate our respective programs, we will scale the success of our proposal.
+cached_project_image: >-
+  /assets/images/projects/2015/the-p-l-a-c-e-the-partnership-for-los-angeles-creative-education-serving-las-emerging-creatives/img.youtube.com/vi/LLupKVdXbLI/maxresdefault.jpg
 youtube_video_identifier: LLupKVdXbLI
 organization_name: 'DSTL Arts, Emerging Arts Leaders/Los Angeles, Trade School Los Angeles'
 

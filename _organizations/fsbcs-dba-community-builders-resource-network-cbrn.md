@@ -48,5 +48,7 @@ aggregated:
     - '3102135'
 maker_image_file_name: collaboration_statement.jpg
 maker_image_id: '17060'
+cached_project_image: >-
+  /assets/images/organizations/fsbcs-dba-community-builders-resource-network-cbrn/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17060%252Fdisplay%252Fcollaboration_statement.jpg=c570x385.jpg
 
 ---

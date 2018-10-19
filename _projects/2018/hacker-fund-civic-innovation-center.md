@@ -99,6 +99,8 @@ Please explain how you will define and measure success for your activation.: "Th
 Where do you hope this activation or your organization will be in five years?: >-
   In five years, we hope to have a Civic Innovation Center in each city council
   district in Los Angeles, allowing us to activate more than 100,000 Angelenos. 
+cached_project_image: >-
+  /assets/images/projects/2018/hacker-fund-civic-innovation-center/activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg
 organization_name: Hacker Fund
 
 ---

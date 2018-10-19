@@ -57,5 +57,7 @@ aggregated:
   project_ids:
     - '3102262'
 youtube_video_identifier: Yogg_bV8Dew
+cached_project_image: >-
+  /assets/images/organizations/ucla-labor-center/img.youtube.com/vi/Yogg_bV8Dew/maxresdefault.jpg
 
 ---

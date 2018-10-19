@@ -36,5 +36,7 @@ aggregated:
     - '5102303'
     - '3102157'
 youtube_video_identifier: 69OXVYZ15kU
+cached_project_image: >-
+  /assets/images/organizations/the-institute-for-nonviolence-in-los-angeles/img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg
 
 ---

@@ -78,6 +78,8 @@ project_proposal_best_place: >-
   specific strategy to connecting people, however, it has proven to be a
   constant result after each party given. Some could say that Worthy of Love
   demonstrates Los Angeles as being the 'City of Angels'.
+cached_project_image: >-
+  /assets/images/projects/2016/connecting-hearts-to-children-on-skid-row/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
 organization_name: Worthy of Love
 organization_website: www.worthyoflove.net
 

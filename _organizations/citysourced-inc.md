@@ -70,5 +70,7 @@ aggregated:
     - '3102017'
 maker_image_file_name: zenfunder-la2050.png
 maker_image_id: '16290'
+cached_project_image: >-
+  /assets/images/organizations/citysourced-inc/maker.good.is/images/placeholder/idea.png
 
 ---

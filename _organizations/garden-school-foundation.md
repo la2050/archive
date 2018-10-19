@@ -62,5 +62,7 @@ aggregated:
     - '3102137'
 maker_image_file_name: beans_on_clothes_H_small.jpg
 maker_image_id: '16977'
+cached_project_image: >-
+  /assets/images/organizations/garden-school-foundation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16977%252Fdisplay%252Fbeans_on_clothes_H_small.jpg=c570x385.jpg
 
 ---

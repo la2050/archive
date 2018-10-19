@@ -32,5 +32,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102069'
+cached_project_image: >-
+  /assets/images/organizations/food-water-watch/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 
 ---

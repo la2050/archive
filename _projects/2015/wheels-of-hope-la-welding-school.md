@@ -16,8 +16,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): 'Wheels of Hope LA, Fred Jordan Mission'
   Organization(s) mailing address(es): "Wheels of Hope\r\nPO Box 12345\r\nCovina, CA 91722    "
   Organization(s) website(s): www.wheelsofhopeLA.com
   Organization(s) twitter handle(s): NA
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): 'Wheels of Hope LA, Fred Jordan Mission'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -198,6 +198,8 @@ Are there other organizations doing similar work (whether complementary or compe
 How do you plan to scale the success of your proposal?: >-
   The more funds we raise, the more students we can train, certify and place in
   jobs. There is a massive demand for welders in the US and southern California.
+cached_project_image: >-
+  /assets/images/projects/2015/wheels-of-hope-la-welding-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385.jpg
 maker_image_id: '23250'
 maker_image_file_name: Wheels_graduation_ceremony.jpg
 organization_name: 'Wheels of Hope LA, Fred Jordan Mission'

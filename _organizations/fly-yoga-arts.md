@@ -43,5 +43,7 @@ aggregated:
     - '5102206'
 maker_image_file_name: StillVideoImage_(2).jpg
 maker_image_id: '23727'
+cached_project_image: >-
+  /assets/images/organizations/fly-yoga-arts/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385.jpg
 
 ---

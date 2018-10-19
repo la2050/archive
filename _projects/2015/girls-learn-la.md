@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, Ca'
-  Organization(s) name(s): Girls Academic Leadership Academy
   Organization(s) mailing address(es): "4650 W. Olympic Blvd.\r\nLos Angeles, CA 90019"
   Organization(s) website(s): www.GALAcademy.org
   Organization(s) twitter handle(s): www.twitter.com/galacademy
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Girls Academic Leadership Academy
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -236,6 +236,8 @@ How do you plan to scale the success of your proposal?: >-
   school focused on a STEM curriculum. This type of work space will bring in
   educators and professionals to conduct workshops and demonstrations to enhance
   the curriculum.
+cached_project_image: >-
+  /assets/images/projects/2015/girls-learn-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23370%252Fdisplay%252FGALA_pic_1.jpg=c570x385.jpg
 maker_image_id: '23370'
 maker_image_file_name: GALA_pic_1.jpg
 organization_name: Girls Academic Leadership Academy

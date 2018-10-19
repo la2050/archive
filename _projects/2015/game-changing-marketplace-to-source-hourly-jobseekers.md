@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/9l0UWGhKU-U'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: Friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): JobCouch
   Organization(s) mailing address(es): '5512 Verona Court, Westlake Village, CA 91362'
   Organization(s) website(s): www.jobcouch.com/secret
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -223,6 +223,8 @@ How do you plan to scale the success of your proposal?: >-
   small business community, we will be able to help drive applicants and help
   deliver quality candidates to stores that have never had a system to track and
   source new applicants.
+cached_project_image: >-
+  /assets/images/projects/2015/game-changing-marketplace-to-source-hourly-jobseekers/img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg
 youtube_video_identifier: 9l0UWGhKU-U
 organization_name: JobCouch
 

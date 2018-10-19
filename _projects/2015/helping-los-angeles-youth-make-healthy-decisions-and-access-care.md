@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Social Media and Word of Mouth
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Planned Parenthood Los Angeles (PPLA)
   Organization(s) mailing address(es): 400 West 30th St. Los Angeles CA 90007
   Organization(s) website(s): 'https://www.plannedparenthood.org/planned-parenthood-los-angeles/'
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: 'Impact decision making among teens. '
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -330,6 +330,8 @@ How do you plan to scale the success of your proposal?: >-
    -Local and national dissemination and communications activities and
     
    -Publication of the research results in a variety of fora.
+cached_project_image: >-
+  /assets/images/projects/2015/helping-los-angeles-youth-make-healthy-decisions-and-access-care/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23806%252Fdisplay%252FUSE_THIS_ONE.jpg=c570x385.jpg
 maker_image_id: '23806'
 maker_image_file_name: USE_THIS_ONE.jpg
 organization_name: Planned Parenthood Los Angeles (PPLA)

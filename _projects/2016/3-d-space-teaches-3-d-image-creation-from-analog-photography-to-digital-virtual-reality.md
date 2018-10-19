@@ -134,6 +134,8 @@ project_proposal_best_place: >-
   the growing numbers of LA residents who will pursue careers in the numerous
   fields that are rapidly implementing 3-D imagery, including entertainment,
   medicine, design, and education.
+cached_project_image: >-
+  /assets/images/projects/2016/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 organization_name: '3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education'
 organization_website: 3-DSPACE.org
 

@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: LA2050 emails
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Opportunity Fund
   Organization(s) mailing address(es): "6606 Pacific Boulevard, Suite 214\r\nHuntington Park, CA 90255"
   Organization(s) website(s): www.opportunityfund.org
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -234,6 +234,8 @@ How do you plan to scale the success of your proposal?: >-
   thrive—offering a path to financial stability and economic mobility. 
    
    Over the past five years, we have gone from originating 70 loans a year in LA to 70loans a month in the county. We have achieved this growth by investing in the people and technology to reach and serve LA’s entrepreneurs. We know that every loan we make creates and sustains more than two jobs, and that every $1 we invest results in a ripple effect that generates almost $2 in new economic activity. By investing to scale in Los Angeles, Opportunity Fund is positioned to help thousands of small business owners access hundreds of millions of dollars in microloans by 2050—supporting job creation at significant scale while spurring economic growth in communities that need it most.
+cached_project_image: >-
+  /assets/images/projects/2015/strengthening-las-entrepreneurs-through-responsible-microlending/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24110%252Fdisplay%252Fsouthern_girl_desserts.jpg=c570x385.jpg
 maker_image_id: '24110'
 maker_image_file_name: southern_girl_desserts.jpg
 organization_name: Opportunity Fund

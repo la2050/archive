@@ -42,5 +42,7 @@ aggregated:
   project_ids:
     - '8102055'
     - '6102107'
+cached_project_image: >-
+  /assets/images/organizations/investing-in-place/activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 
 ---

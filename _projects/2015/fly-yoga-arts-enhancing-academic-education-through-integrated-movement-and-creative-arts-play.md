@@ -21,8 +21,8 @@ project_image: >-
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): FLY Yoga Arts
   Organization(s) mailing address(es): "4949 Cleon Ave \r\nNorth Hollywood, CA 91601"
   Organization(s) website(s): www.flyyogaarts.com
   Organization(s) twitter handle(s): www.twitter.com/flyyogaarts
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): FLY Yoga Arts
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -228,6 +228,8 @@ How do you plan to scale the success of your proposal?: >-
    To keep true to its vision, FLY will create video/ audio recordings to aid in introducing exercises and provide clear curriculum materials: lesson plans, intentions, teacher handbooks, and student worksheets to every participating school.
    
    FLY will also provide all necessary materials and equipment including in class tools and curriculum elements such as flash cards, handouts, yoga mats, art supplies, to support our program for a full calendar year.
+cached_project_image: >-
+  /assets/images/projects/2015/fly-yoga-arts-enhancing-academic-education-through-integrated-movement-and-creative-arts-play/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385.jpg
 maker_image_id: '23727'
 maker_image_file_name: StillVideoImage_(2).jpg
 organization_name: FLY Yoga Arts

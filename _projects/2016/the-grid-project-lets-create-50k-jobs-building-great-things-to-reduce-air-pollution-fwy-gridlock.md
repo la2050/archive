@@ -104,6 +104,8 @@ project_proposal_best_place: >-
   support from environmental, social justice groups and labor unions, and
   business interests primarily from the construction and renewable energy
   sector.
+cached_project_image: >-
+  /assets/images/projects/2016/the-grid-project-lets-create-50k-jobs-building-great-things-to-reduce-air-pollution-fwy-gridlock/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
 organization_name: GRID Logistics
 organization_website: www.gridinc.biz
 

@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102076'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-master-chorale/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg
 
 ---

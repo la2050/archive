@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Word of mouth from one of our members.
-  'City, State': 'Valencia, CA'
   Organization(s) name(s): Hollywood Curling
   Organization(s) mailing address(es): 'PO Box 7872, Van Nuys Blvd, Panorama City, CA 91409'
   Organization(s) website(s): www.hollywoodcurling.org
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
+  'City, State': 'Valencia, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: ''
@@ -274,6 +274,8 @@ How do you plan to scale the success of your proposal?: |-
    San Fernando is also strategically located so that if we are successful, we can expand to other areas of the county, such as San Gabriel Valley, the harbor cities, or west side. During the next Olympic cycles, we will be able to introduce curling at local ice rinks in these locations with the support and equipment provided by our dedicated facility and volunteers as a home base.
    
    With your generous assistance will reach our goal of offering the game of curling to the local community, foster the social and competitive spirit of curling, and teach and develop curlers to compete at a local and national level. This grant opportunity comes at a crucial time in our fundraising campaigns and will ensure the growth of the organization and sport of curling in Los Angeles.
+cached_project_image: >-
+  /assets/images/projects/2015/hollywood-curling-building-the-san-fernando-valley-curling-center-in-los-angeles/img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg
 youtube_video_identifier: 3ceZFpvVVU0
 organization_name: Hollywood Curling
 

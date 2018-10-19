@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: newsletter
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Eastside Rehearsal
   Organization(s) mailing address(es): '2619 E Cesar E Chavez Ave, Los Angeles, CA 90033'
   Organization(s) website(s): eastsiderehearsal.com
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -236,6 +236,8 @@ How do you plan to scale the success of your proposal?: >-
   will surely form relationships with these kids and hope to inspire them with a
   supportive environment to create and eventually take their ideas around the
   world like we have.
+cached_project_image: >-
+  /assets/images/projects/2015/free-music-studio-access-for-students-of-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23180%252Fdisplay%252FESRLogo.jpg=c570x385.jpg
 maker_image_id: '23180'
 maker_image_file_name: ESRLogo.jpg
 organization_name: Eastside Rehearsal

@@ -45,5 +45,7 @@ aggregated:
   project_ids:
     - '3102024'
 youtube_video_identifier: cEATGWzLMiM
+cached_project_image: >-
+  /assets/images/organizations/diyfo-do-it-yourself-for-others/img.youtube.com/vi/cEATGWzLMiM/hqdefault.jpg
 
 ---

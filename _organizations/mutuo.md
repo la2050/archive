@@ -33,5 +33,7 @@ aggregated:
   year_submitted:
     - '2018'
   project_ids: []
+cached_project_image: >-
+  /assets/images/organizations/mutuo/activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg
 
 ---

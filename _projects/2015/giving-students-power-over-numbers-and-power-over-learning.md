@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): 'Ironbox Education, Inc.'
   Organization(s) mailing address(es): "P.O. Box 78278\r\nLos Angeles, CA 90016"
   Organization(s) website(s): www.ironboxeducation.com
   Organization(s) twitter handle(s): 'https://twitter.com/IronboxEdu'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): 'Ironbox Education, Inc.'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -253,6 +253,8 @@ How do you plan to scale the success of your proposal?: >-
    All the classroom materials, teacher trainings, and parent workshops described in this proposal have already been designed and created, so it is a turnkey solution ready for immediate use.
    
    Once more schools see the value of building math fluency and start to adopt the system, additional staff will be hired to assist with marketing, fulfillment, training, on-campus support, and administrative tasks.
+cached_project_image: >-
+  /assets/images/projects/2015/giving-students-power-over-numbers-and-power-over-learning/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385.jpg
 maker_image_id: '23622'
 maker_image_file_name: ironboxeducationLA2050.jpg
 organization_name: 'Ironbox Education, Inc.'

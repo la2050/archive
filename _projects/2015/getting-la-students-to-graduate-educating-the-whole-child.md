@@ -23,8 +23,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Communities In Schools of Los Angeles
   Organization(s) mailing address(es): "c/o Creative Artists Agency\r\n2000 Avenue of the Stars\r\nLos Angeles, CA 90067"
   Organization(s) website(s): www.cislosangeles.org
   Organization(s) twitter handle(s): www.twitter.com/cislosangeles
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Communities In Schools of Los Angeles
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -284,6 +284,8 @@ How do you plan to scale the success of your proposal?: >-
   provide timely analysis to nudge Metro to bring future bikeshare resources to
   South and Southeast LA. 
    This targeted Shared Mobility Plan could be a prototype for other disadvantaged communities in Southern California, from East LA to Long Beach to Inglewood and parts of the San Fernando Valley. All of these communities deserve to be part of the shift towards affordable shared mobility solutions, and this Plan will be a prototype for how to get there.
+cached_project_image: >-
+  /assets/images/projects/2015/getting-la-students-to-graduate-educating-the-whole-child/img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg
 youtube_video_identifier: 8RfGcPRl--8
 organization_name: Communities In Schools of Los Angeles
 

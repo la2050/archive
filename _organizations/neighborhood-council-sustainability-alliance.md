@@ -36,5 +36,7 @@ aggregated:
     - '5102218'
 maker_image_file_name: Cool_block_9.png
 maker_image_id: '23843'
+cached_project_image: >-
+  /assets/images/organizations/neighborhood-council-sustainability-alliance/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23843%252Fdisplay%252FCool_block_9.png=c570x385.png
 
 ---

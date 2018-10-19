@@ -52,5 +52,7 @@ aggregated:
   project_ids:
     - '3102069'
 youtube_video_identifier: T-_qt-Ah9-0
+cached_project_image: >-
+  /assets/images/organizations/citylab-ucla/img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg
 
 ---

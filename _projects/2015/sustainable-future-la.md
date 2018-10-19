@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How did you hear about this challenge?: We participated in the 2014 challenge
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Los Angeles World''s Fair, FPC'
   Organization(s) mailing address(es): "1600 Main Street\r\nVenice, CA 90291"
   Organization(s) website(s): www.laworldsfair.org
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -224,6 +224,8 @@ How do you plan to scale the success of your proposal?: >-
    The initial pilot curriculum will provide a broad introduction to sustainability. We will assess the effectiveness of this, and the desirability of developing subsequent curricula to provide deeper dives into specific sustainability topics (e.g., transportation, climate change, healthy food).
    
    The proposal includes piloting at a small number of schools initially (we currently envision piloting the program at three schools). The ultimate goal is to scale delivery of the curriculum to additional schools throughout Los Angeles County to maximize its potential impact and help make all communities a better place to live.
+cached_project_image: >-
+  /assets/images/projects/2015/sustainable-future-la/img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg
 youtube_video_identifier: '-cj1vPWlAdo'
 organization_name: 'Los Angeles World''s Fair, FPC'
 

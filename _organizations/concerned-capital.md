@@ -40,5 +40,7 @@ aggregated:
   project_ids:
     - '6102111'
     - '5102077'
+cached_project_image: >-
+  /assets/images/organizations/concerned-capital/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
 
 ---

@@ -46,5 +46,7 @@ aggregated:
     - '4102200'
     - '3102148'
 youtube_video_identifier: 7VGCk_c0VcU
+cached_project_image: >-
+  /assets/images/organizations/hollywood-heart/img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg
 
 ---

@@ -16,8 +16,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: 'Colleague referral '
-  'City, State': 'Marina del Rey, CA'
   Organization(s) name(s): Keith A. Somers International Foundation
   Organization(s) mailing address(es): "4712 Admiralty Way\r\nSuite 955 \r\nMarina del Rey, CA 90292"
   Organization(s) website(s): www.keithasomersfoundation.org
@@ -61,7 +61,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Marina del Rey, CA'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
     Marketing, advertising, to bring substantially greater awareness to the
@@ -230,6 +230,8 @@ How do you plan to scale the success of your proposal?: >-
   success of my proposal, and make the necessary adjustments when those same
   experts deem it necessary to accomplish the greatest degree of impact and
   effectiveness.
+cached_project_image: >-
+  /assets/images/projects/2015/enhancing-the-perspectives-of-todays-youth-and-equipping-them-with-life-skills-to-help-mankind/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23179%252Fdisplay%252FWeb_New_Com.jpg=c570x385.jpg
 maker_image_id: '23179'
 maker_image_file_name: Web_New_Com.jpg
 organization_name: Keith A. Somers International Foundation

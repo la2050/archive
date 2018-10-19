@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: unsure
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Freeway Farm
   Organization(s) mailing address(es): '269 Rosemont Ave, Pasadena, CA 91103'
   Organization(s) website(s): www.freewayfarm.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -179,6 +179,8 @@ How do you plan to scale the success of your proposal?: >-
   If the Green Infrastructure Pilot Project is successful then we hope to
   continue growing these patchwork peri-freeway spaces throughout Los Angeles
   county.
+cached_project_image: >-
+  /assets/images/projects/2015/freeway-farm-green-infrastructure-pilot-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24023%252Fdisplay%252FLA2050_Freeway_Growth.jpg=c570x385.jpg
 maker_image_id: '24023'
 maker_image_file_name: LA2050_Freeway_Growth.jpg
 organization_name: Freeway Farm

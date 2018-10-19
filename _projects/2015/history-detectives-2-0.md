@@ -17,8 +17,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Robey Theatre Company
   Organization(s) mailing address(es): "514 South Spring Street\r\nLos Angeles, CA 90013"
   Organization(s) website(s): www.robeytheatrecompany.org
   Organization(s) twitter handle(s): www.twitter.com/robeytc
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Robey Theatre Company
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -254,6 +254,8 @@ How do you plan to scale the success of your proposal?: >-
    LA is a city with actors in between professional work, ex-teachers waiting for the call to teach.
    
    Our infra-structure will accommodate and use all of those other-wise idle hours to grow our ability to deliver to more each year.
+cached_project_image: >-
+  /assets/images/projects/2015/history-detectives-2-0/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23966%252Fdisplay%252FRobey_Brochure_Front1_(1).jpg=c570x385.jpg
 maker_image_id: '23966'
 maker_image_file_name: Robey_Brochure_Front1_(1).jpg
 organization_name: Robey Theatre Company

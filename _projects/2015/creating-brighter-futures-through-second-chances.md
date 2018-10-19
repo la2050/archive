@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/c9y0Bp8kgT4'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA '
-  Organization(s) name(s): Foundation for Second Chances
   Organization(s) mailing address(es): "3734 West Slauson Ave.\r\nLos Angeles, CA 90043"
   Organization(s) website(s): 'http://www.ffscinc.org/'
   Organization(s) twitter handle(s): 'https://twitter.com/2ndChancesInc'
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Foundation for Second Chances
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -297,6 +297,8 @@ How do you plan to scale the success of your proposal?: >-
    We will also pay close to our finances. Most, if not all, nonprofits operate on a shoestring budget and our program is no different. We are thankful for every dollar and cent that comes into the organization and we will work hard to ensure that none of its is wasted, especially during the times of growth. 
    
    In the end, these plans will benefit more of our students and community members.
+cached_project_image: >-
+  /assets/images/projects/2015/creating-brighter-futures-through-second-chances/img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg
 youtube_video_identifier: c9y0Bp8kgT4
 organization_name: Foundation for Second Chances
 

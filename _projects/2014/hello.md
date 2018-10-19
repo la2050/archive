@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_healthyfood: '0'
   city_state: 'Pretendlandia, Narnia'
-  org_name: Test org
   org_website: www.testorgwebsite.com
   org_twitter: na
   org_facebook: na
@@ -59,7 +59,7 @@ maker_answers:
     testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
   partners_collaboration: >-
     testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-  metrics_live_healthyfood: '0'
+  org_name: Test org
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'
@@ -169,6 +169,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    While we have yet to identify partners for this grant period, we expect they will be confirmed within one to three months after the grant is awarded. Three factors that are critical to the success of our proposed collaborations are 1) adequate funding to staff our initiative areas with Senior Fellows; 2) growth and expansion in the number of Research Fellowships; and 3) sufficient operational revenue to support growing staffing needs.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/hello/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22672%252Fdisplay%252Frainbow.jpg=c570x385.jpg
 maker_image_id: '22672'
 maker_image_file_name: rainbow.jpg
 

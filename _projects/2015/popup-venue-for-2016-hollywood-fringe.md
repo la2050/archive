@@ -17,8 +17,8 @@ project_image: 'https://img.youtube.com/vi/jqxMSN_U1Pk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jqxMSN_U1Pk'
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: 'Facebook, Newsletter'
-  'City, State': Hollywood
   Organization(s) name(s): Hatchery Arts dba Hollywood Fringe Festival
   Organization(s) mailing address(es): "PO BOX 93325\r\nHollywood, CA 90093"
   Organization(s) website(s): www.hollywoodfringe.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': Hollywood
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -216,6 +216,8 @@ How do you plan to scale the success of your proposal?: >-
   by artists or producers in 2017. 
    
    HFF will share findings and best practices with interested parties who wish to establish a pop up venue. Using these tools, producers and artists will be able to help lift up the dwindling theatrical spaces in the Hollywood area and revitalize the area.
+cached_project_image: >-
+  /assets/images/projects/2015/popup-venue-for-2016-hollywood-fringe/img.youtube.com/vi/jqxMSN_U1Pk/maxresdefault.jpg
 youtube_video_identifier: jqxMSN_U1Pk
 organization_name: Hatchery Arts dba Hollywood Fringe Festival
 

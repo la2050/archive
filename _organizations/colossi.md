@@ -32,5 +32,7 @@ aggregated:
     - '2015'
   project_ids: []
 youtube_video_identifier: CAz_mkuDRno
+cached_project_image: >-
+  /assets/images/organizations/colossi/img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg
 
 ---

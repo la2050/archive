@@ -19,8 +19,8 @@ project_areas:
   - San Fernando Valley
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: An email from Sherita Herring
-  'City, State': 'Los Angeles, Ca'
   Organization(s) name(s): Pass Tha Ball
   Organization(s) mailing address(es): "300 S. Santa Fe apt#519\r\nLos Angeles, Ca 90013"
   Organization(s) website(s): www.passthaball.com
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, Ca'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -212,6 +212,8 @@ How do you plan to scale the success of your proposal?: >-
   happy and their children are happy with what we are doing. Maintaining a
   certain number of youth each day for participation and getting new interested
   youth involved.
+cached_project_image: >-
+  /assets/images/projects/2015/hoops-center-for-the-youth/img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg
 youtube_video_identifier: IscZOss0am8
 organization_name: Pass Tha Ball
 

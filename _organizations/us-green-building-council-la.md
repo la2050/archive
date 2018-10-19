@@ -38,5 +38,7 @@ aggregated:
   project_ids:
     - '6102276'
     - '4102182'
+cached_project_image: >-
+  /assets/images/organizations/us-green-building-council-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
 
 ---

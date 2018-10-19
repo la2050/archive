@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - San Gabriel Valley
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'South Pasadena, CA '
-  Organization(s) name(s): 'Holy Family School '
   Organization(s) mailing address(es): "1301 Rollin Street\r\nSouth Pasadena, CA 91030"
   Organization(s) website(s): 'http://school.holyfamily.org/'
   Organization(s) twitter handle(s): 'https://twitter.com/holyfamily'
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): 'Holy Family School '
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -245,6 +245,8 @@ How do you plan to scale the success of your proposal?: >-
   disadvantaged schools, our model’s success will be measured by a successful
   and replicable guide for implementing creative service-learning into all
   aspects of an enhanced curriculum.
+cached_project_image: >-
+  /assets/images/projects/2015/learning-through-service-at-holy-family-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23605%252Fdisplay%252FFullSizeRender-2.jpg=c570x385.jpg
 maker_image_id: '23605'
 maker_image_file_name: FullSizeRender-2.jpg
 organization_name: 'Holy Family School '

@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
   How did you hear about this challenge?: entered last year with a different project
-  'City, State': Los Angeles Ca
   Organization(s) name(s): ChallengeMaker
   Organization(s) mailing address(es): "1523 Maltman Ave #5\r\nLos Angeles, CA 90026"
   Organization(s) website(s): www.challengemaker.com
@@ -59,7 +59,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
+  'City, State': Los Angeles Ca
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: There is no limit to the good we can do with this tool.
@@ -164,6 +164,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/challengemaker/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24048%252Fdisplay%252FChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png=c570x385.png
 maker_image_id: '24048'
 maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
 organization_name: ChallengeMaker

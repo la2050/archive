@@ -15,8 +15,17 @@ project_video: ''
 project_areas:
   - LA COUNTY
 maker_answers:
+  impact_play: >-
+    FLTS has a long standing belief that creating access to greenspaces in
+    park-poor communities doesn’t need to be a process that begins in year 1 and
+    ends with a park opening in year 9.  Cypress Park Pocket Park will be a
+    pivotal project in demonstrating that creating access to parks and
+    greenspaces does not need to take years. This model can be easily
+    implemented by agencies, community based organizations and non-profits to
+    create a network of play and greenspaces in their park-poor communities.  We
+    are confident this model is a long-term, implementable solution to make LA
+    the best place to play.
   name: Cypress Park Pocket Park
-  handle: fromlottospot
   City_State: Los Angeles
   org_name: From Lot to Spot
   org_website: fromlottospot.org
@@ -65,16 +74,7 @@ maker_answers:
     demonstrate how these small, under-utilized vacant spaces can become a
     network of greenspaces in park-poor areas.
   implement: "1.  Late 2015 – Early 2015:  Comprehensive Community Engagement. \r\nFLTS will host two community workshops to engage community in design to ensure the park will meet their needs.  Soapbox: When people contribute to a community asset, they invest themselves and derive a sense of pride that often empowers them to stay active in and care for their community. \r\n\r\n2.  Late Winter/Early Spring 2015: Design. \r\nSWA will finalize the design based on community drawings and verbal input. Final design presented to community during a “sidewalk engagement” party which will serve as the kick off for their new space!\r\n\r\n3. Spring – Summer 2015: Construction.  \r\n\r\n4. Summer 2015 - Pocket Park Opens!  The vacant lot is no more – we have converted a vacant lot into an urban “spot”. \r\n"
-  impact_play: >-
-    FLTS has a long standing belief that creating access to greenspaces in
-    park-poor communities doesn’t need to be a process that begins in year 1 and
-    ends with a park opening in year 9.  Cypress Park Pocket Park will be a
-    pivotal project in demonstrating that creating access to parks and
-    greenspaces does not need to take years. This model can be easily
-    implemented by agencies, community based organizations and non-profits to
-    create a network of play and greenspaces in their park-poor communities.  We
-    are confident this model is a long-term, implementable solution to make LA
-    the best place to play.
+  handle: fromlottospot
   who_benefit: "For this project, the pocket park will directly benefit the community of Cypress Park in North east Los Angeles.   According to the 2010 Census , Cypress Park has an estimated population of approximately 11, 000 people, among the highest densities in Los Angeles County.  In addition, the household median income for the ½ mile radius of the proposed park is $39,559, well below the poverty line. \r\n\r\nHowever, because this is a pilot project , this pocket park will demonstrate how these small, under-utilized vacant spaces can become a network of greenspaces in park-poor areas in all of Los Angeles.  We will illustrate how this project can be replicated and implemented over and over in similar spaces across Los Angeles. \r\n"
   partners_collaboration: "We believe that successful community projects need a comprehensive collaborative of stakeholders. To ensure this, this project will be a collaborative between three major partners that will provide resources that will engage a comprehensive public.   We will be partnering with local community leader and business in Cypress Park -  Antigua Coffee House.  Yancey Quinones, owner,  is a community leader and advocate of creating community-driven, multi-benefit projects that inspire youth in Cypress Park to improve Cypress Park.   Antigua Coffee House - located four blocks - from the vacant lot will serve as the community space hosting design workshops. \r\n\r\nIn addition 8th grade students from Nightingale Middle School located less than ¼ from the park will be engaged a grade-level service learning project during the park’s construction.  Students will be involved in assisting with community engagement and final stage plantings at the park in 2nd semester of 2015.\r\n\r\nFLTS will be partnering with SWA Group (http://www.swagroup.com/) on design of the park.   FLTS and SWA have partnered on greenspace projects in the last three years including our successful Dominguez Enhancement and Engagement Projects – which converted a vacant, blighted area of the Dominguez Creek in Gardena into a active bicycle path while restoring the natural habitat that existed along the creek.   SWA is a world leader in landscape architecture, planning and urban design with a passion to create exceptional places for people with an emphasis on natural systems and art.  SWA will bring their expertise in design to ensure these spaces are designed to specifically meet the community’s needs and assure quality design.  \r\nLastly, in order to stay true to a community driven project, labor, materials and resources will be sourced locally.  \r\nThree factors that are critical to the success of the collaborations are: \r\n1. An adopted understanding that final design of the space is community driven\r\n2. Committed and full participation from all partners\r\n3. Acknowledging that an engaged community is an empowered community – and every resource partners bring are guided by this principle \r\n"
   metrics_play_openspace: '1'
@@ -170,6 +170,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Committed and full participation from all partners
    3. Acknowledging that an engaged community is an empowered community – and every resource partners bring are guided by this principle
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/cypress-park-pocket-park/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22209%252Fdisplay%252FSite_scale.JPG=c570x385.jpg
 maker_image_id: '22209'
 maker_image_file_name: Site_scale.JPG
 

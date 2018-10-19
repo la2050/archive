@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/31zyNJHGmig'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Youth Justice Coalition
   Organization(s) mailing address(es): "1137 E Redondo Blvd\r\nInglewood, CA 90302"
   Organization(s) website(s): www.youth4justice.org
   Organization(s) twitter handle(s): www.twitter.com/YouthJusticeLA
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Youth Justice Coalition
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -225,6 +225,8 @@ How do you plan to scale the success of your proposal?: >-
   district-wide increases in graduation and college matriculation rates as well
   as decreased youth involvement with law enforcement and the juvenile justice
   system.
+cached_project_image: >-
+  /assets/images/projects/2015/education-for-everyone-alternative-high-school-for-pushed-out-youth/img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg
 youtube_video_identifier: 31zyNJHGmig
 organization_name: Youth Justice Coalition
 

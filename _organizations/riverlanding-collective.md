@@ -90,5 +90,7 @@ aggregated:
   project_ids:
     - '3102090'
 youtube_video_identifier: _8WrWZXDKdQ
+cached_project_image: >-
+  /assets/images/organizations/riverlanding-collective/img.youtube.com/vi/_8WrWZXDKdQ/hqdefault.jpg
 
 ---

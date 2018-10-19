@@ -37,5 +37,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102244'
+cached_project_image: >-
+  /assets/images/organizations/the-help-groups-stem3-academy/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
 
 ---

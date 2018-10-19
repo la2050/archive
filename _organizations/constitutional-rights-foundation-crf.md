@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '4102022'
 youtube_video_identifier: I85PHrZjakM
+cached_project_image: >-
+  /assets/images/organizations/constitutional-rights-foundation-crf/img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg
 
 ---

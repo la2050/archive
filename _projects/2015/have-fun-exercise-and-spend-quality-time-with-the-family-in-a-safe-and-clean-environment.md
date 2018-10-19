@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/JrkPrBnN4UI'
 project_areas:
   - San Fernando Valley
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: Google
-  'City, State': 'San Fernando, Ca'
   Organization(s) name(s): Adventure Playhouse Indoor Activity Center
   Organization(s) mailing address(es): "1116 San Fernando Rd.\r\nSan Fernando, Ca 91340"
   Organization(s) website(s): www.adventureplayhouse.com
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'San Fernando, Ca'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -226,6 +226,8 @@ How do you plan to scale the success of your proposal?: >-
   community together that is what is the purpose. We want to keep expanding our
   programs and if we grow enough we would open other locations in the LA area to
   incorporate these programs and more. The sky is the limit!
+cached_project_image: >-
+  /assets/images/projects/2015/have-fun-exercise-and-spend-quality-time-with-the-family-in-a-safe-and-clean-environment/img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg
 youtube_video_identifier: JrkPrBnN4UI
 organization_name: Adventure Playhouse Indoor Activity Center
 

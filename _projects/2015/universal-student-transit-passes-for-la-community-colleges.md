@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/uiAFCgZ6YRw'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): 'Move LA, a project of Community Partners'
   Organization(s) mailing address(es): "634 So. Spring Street, Suite 818\r\nLos Angeles, CA  90042"
   Organization(s) website(s): www.movela.org
   Organization(s) twitter handle(s): www.twitter.com/MoveLAtransit
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): 'Move LA, a project of Community Partners'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -164,6 +164,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
+cached_project_image: >-
+  /assets/images/projects/2015/universal-student-transit-passes-for-la-community-colleges/img.youtube.com/vi/uiAFCgZ6YRw/maxresdefault.jpg
 youtube_video_identifier: uiAFCgZ6YRw
 organization_name: 'Move LA, a project of Community Partners'
 

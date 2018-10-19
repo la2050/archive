@@ -48,5 +48,7 @@ aggregated:
     - '4102214'
 maker_image_file_name: Carrie_15-00963.jpg
 maker_image_id: '23662'
+cached_project_image: >-
+  /assets/images/organizations/spcala/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23662%252Fdisplay%252FCarrie_15-00963.jpg=c570x385.jpg
 
 ---

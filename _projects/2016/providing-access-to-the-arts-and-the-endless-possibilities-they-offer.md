@@ -155,6 +155,8 @@ project_proposal_best_place: >-
   the end of each of our sessions. Complementing our arts learning programs, our
   Rosenthal Theater holds innovative and diverse performances, engagements which
   nurture and illuminate the creative spirit of the whole community.
+cached_project_image: >-
+  /assets/images/projects/2016/providing-access-to-the-arts-and-the-endless-possibilities-they-offer/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
 organization_name: Inner-City Arts
 organization_website: www.inner-cityarts.org
 

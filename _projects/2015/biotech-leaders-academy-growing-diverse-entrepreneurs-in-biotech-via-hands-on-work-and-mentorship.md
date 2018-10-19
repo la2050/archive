@@ -22,8 +22,8 @@ project_areas:
   - East LA
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: Estolano LeSar Perez Advisors
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles Bioscience Hub
   Organization(s) mailing address(es): "448 South Hill Street, Suite 618\r\nLos Angeles, CA 90013\r\n"
   Organization(s) website(s): www.labiosciencehub.org
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
@@ -242,6 +242,8 @@ How do you plan to scale the success of your proposal?: |-
    - We will create a more formal network of mentors that is comprised of industry leaders and professionals who host student interns, present during the entrepreneurship academy, or are generally interested in assisting students as they advance in their education.
    
    - Seek additional funding sources to support the internship match and course component.
+cached_project_image: >-
+  /assets/images/projects/2015/biotech-leaders-academy-growing-diverse-entrepreneurs-in-biotech-via-hands-on-work-and-mentorship/img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg
 youtube_video_identifier: UNbHPa1n2g4
 organization_name: Los Angeles Bioscience Hub
 

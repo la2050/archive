@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - CENTRAL LA
 maker_answers:
+  metrics_create_employment: '1'
   city_state: 'Los Angeles, CA'
-  org_name: Bicycle Culture Institute
   org_website: BicycleCulture.org
   org_twitter: 'https://twitter.com/bicycleculture'
   org_facebook: 'https://www.facebook.com/BicycleCulture'
@@ -57,7 +57,7 @@ maker_answers:
   impact_create: "Bicycles & Art make life better. R5Y7: bici destino provides the on the ground logistical support to get communities living and moving together, while encouraging individual creativity and ambition. Facilitating a ‘car free’ or ‘car lite’ lifestyle means that individuals have more money and time to develop ideas and relationships.\r\n\r\nIn using an environmentally advanced mobile trailer customized to inspire fun and imagination, we not only facilitate increasing use of the bike path and surrounding area; but pave the way for other creative endeavors to become possible using the same low-cost/highly creative approach to rapid concept development. We will be the first to use this specific combination of an ultralight mobile structure that is fully solar powered and capable of performing all the rugged tasks of mechanical support while also evoking the playful spirit of a vintage travel trailer.\r\n\r\nIt is possible that such a project might become so successful, that it moves or expands to other neighborhoods; providing the same active transportation support and creative ‘placemaking’ that is rapidly becoming one of the most effective tools in developing healthy, people-first urban development. Regardless of how the trailer, or the concept of R5Y7: bici destino develops, the positive impact of increasing LA River path usage, active transit, education and recreation will resonate with lasting results.\r\n\r\nBy providing a strong creative vision that empowers other female entrepreneurs and young people interested in bicycles, art or urban development – we cannot yet imagine the ideas and incomes that naturally happen when other people see what is possible!"
   who_benefit: "Major beneficiary group: Residents and businesses located in ‘Frogtown’ neighborhood of central/east LA along the LA River.\r\n\r\nSecondary beneficiary group: Cyclists and pedestrians from other areas of Los Angeles utilizing the LA River path for recreation or transit.\r\nAdditional beneficiary groups: visitors and individuals discovering the project via press coverage, online media and word of mouth.\r\n \r\n"
   partners_collaboration: "Nona Varnado, Project Lead/Curator at R5Y7. Executive Director, Bicycle Culture Institute. Founder, L.A. Bike Trains. \r\n\r\nDamian Robleto, Marketing Director at RAC Design Build. Co-founder River Wild, LLC. Board member, Elysian Valley Arts Collective. \r\n\r\nDerek Michael, Owner/designer at Happier Camper.\r\n\r\nSiobhan Dolan, Cook at The Bicycle Kitchen.\r\n\r\nAngel Orozco, Owner of Cafecito Organico. Co-founder River Wild, LLC.\r\n\r\nZack X, videographer, custom sound and light installation.\r\n\r\nHelen Leung, Director of Social Impact, Mas LA. Board member, Elysian Valley Arts Collective.\r\n\r\nMax Kanter, Community Builder at Good Eggs LA, Volunteer Coordinator at Food Forward."
-  metrics_create_employment: '1'
+  org_name: Bicycle Culture Institute
   metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
   metrics_create_researchgrant: '0'
@@ -152,6 +152,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Max Kanter, Community Builder at Good Eggs LA, Volunteer Coordinator at Food Forward.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/r5y7-bici-destino/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22378%252Fdisplay%252Fr5y7collage.jpg=c570x385.jpg
 maker_image_id: '22378'
 maker_image_file_name: r5y7collage.jpg
 

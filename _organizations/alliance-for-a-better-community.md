@@ -61,5 +61,7 @@ aggregated:
     - '3102012'
 maker_image_file_name: IMG_5905.JPG
 maker_image_id: '16427'
+cached_project_image: >-
+  /assets/images/organizations/alliance-for-a-better-community/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16427%252Fdisplay%252FIMG_5905.JPG=c570x385.jpg
 
 ---

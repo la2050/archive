@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  collaboration: "The CDF will work with the Housing Authority of the County of Los Angeles (HACoLA) to implement Project: SCHOLARS. This partnership is confirmed and longstanding.  The benefits of working with HACoLA is the ability to work directly with site staff to access residents that are college-bound or current college students.  HACoLA offers their residents case management, afterschool programming, and clinical psychological services.  The relationships that their staff build through these and other programs is a compliment to CDF's programming.\r\n\r\n"
   about_you: 'Alhambra, CA '
-  org_name: Los Angeles County Community Development Foundation
   org_website: www.lacdf.org
   org_twitter: ''
   org_facebook: ''
@@ -84,7 +84,7 @@ maker_answers:
     positive role models as proof.  If the least among us, those that have the
     greatest challenges, can succeed then all of Los Angeles can succeed!
   who_benefit: "CDF and Project: SCHOLARS benefit a specific sub-population of the Los Angeles Community: low-income housing residents, that is Section 8 and Public Housing residents.  In Los Angeles County there are over 100,000 families enrolled in one of these two housing programs. This target population is made up of some of our region’s most disadvantaged youth and families that struggle from more than poverty.  The vast majority of low-income residents are economically unstable and vulnerable and have also dealt with extreme adversity such as being formerly homeless, transition age youth (TAY) leaving the foster care system, victims of domestic or sexual violence, physically or mentally disabled, among other challenges.  A particularly unique aspect of the CDF’s target population is that there are no age limits, and in fact, the CDF encourages adults to return to higher education.  The CDF believes that while it is important to support youth transitioning from high school to college, supporting adults (especially adults with children) can be challenging but is also important to ending generational poverty.  Parents returning back to school have the opportunity to not only improve their lives but also the lives of their children. Without Project: SCHOLARS, our clients are at-risk of being stuck in the vicious cycle of generational poverty.\r\n\r\nAlthough direct services are provided to low-income housing residents, the ripple effects of Project: SCHOLARS goes well beyond the individual participant.  While the students receive the direct benefit of financial and emotional support as they persist through college, their family and the greater community gains a new positive role for educational excellence, perseverance, and resiliency as well.\r\n"
-  collaboration: "The CDF will work with the Housing Authority of the County of Los Angeles (HACoLA) to implement Project: SCHOLARS. This partnership is confirmed and longstanding.  The benefits of working with HACoLA is the ability to work directly with site staff to access residents that are college-bound or current college students.  HACoLA offers their residents case management, afterschool programming, and clinical psychological services.  The relationships that their staff build through these and other programs is a compliment to CDF's programming.\r\n\r\n"
+  org_name: Los Angeles County Community Development Foundation
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '0'
@@ -190,6 +190,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   staff build through these and other programs is a compliment to CDF's
   programming.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/project-scholars-empowering-college-and-college-bound-students-of-all-ages-to-succeed/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22531%252Fdisplay%252FPhoto_Collage_v6.jpg=c570x385.jpg
 maker_image_id: '22531'
 maker_image_file_name: Photo_Collage_v6.jpg
 

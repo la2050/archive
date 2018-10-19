@@ -25,8 +25,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Pasadena, CA'
-  Organization(s) name(s): Reading Partners
   Organization(s) mailing address(es): '3452 E. Foothill Blvd., Suite 310, Pasadena, CA 91107'
   Organization(s) website(s): www.readingpartners.org/location/los-angeles
   Organization(s) twitter handle(s): www.twitter.com/RPLosAngeles
@@ -79,7 +79,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Reading Partners
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -305,6 +305,8 @@ How do you plan to scale the success of your proposal?: >-
    As we scale, our guiding principal is to create the highest-level of impact for as many students as possible. Testament to the value and impact of Reading Partners in LA, in 2014-15, 88% of students increased their rates of literacy learning while enrolled in our program, and on average, students more than doubled their rate of learning for every month enrolled in Reading Partners. In addition, 100% of principals at our partner schools reported improved reading progress school-wide and felt Reading Partners was a valuable asset to their schools. Our corps of Los Angeles-based volunteer tutors also gave nearly 15,000 hours of their time to support student literacy. Beyond just their time, our tutors also shared their energy, positivity, and belief in the importance of public education. Eighty-two percent of tutors reported they are more interested in public education due to their service with Reading Partners, and 76% reported that their experience with the organization strengthened their belief that not only teachers, but all citizens, can directly impact educational outcomes for children. 
    
    Having began at a single elementary school in 1999, today, Reading Partners is in 13 regions across the United States, directly serving more than 9,200 students in 180 schools with the support of more than 15,000 volunteers. By building on our current successes, we aspire to dramatically expand our impact, and ultimately have a positive effect on reading proficiency nationwide. At Reading Partners, we believe that literacy unlocks opportunity, and every child deserves to learn this fundamental skill that affords them the opportunity to comprehend, engage, and change the world around them. We look forward to advancing this critical work both here at home in Los Angeles and beyond.
+cached_project_image: >-
+  /assets/images/projects/2015/reading-partners-la-the-path-to-fourth-grade-reading-proficiency-for-1000-children/img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg
 youtube_video_identifier: sKN2PQLjrps
 organization_name: Reading Partners
 

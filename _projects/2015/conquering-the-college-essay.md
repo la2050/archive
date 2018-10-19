@@ -19,8 +19,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Playa Vista, CA'
-  Organization(s) name(s): ApplicantLab
   Organization(s) mailing address(es): "12963 Runway Road #412\r\nPlaya Vista, CA 90094"
   Organization(s) website(s): www.ApplicantLab.com
   Organization(s) twitter handle(s): 'https://twitter.com/ApplicantLab'
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): ApplicantLab
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -195,6 +195,8 @@ How do you plan to scale the success of your proposal?: >-
    In terms of scaling the business itself, as mentioned above, getting this product into the hands of LAUSD will be a huge signal to other school systems that the product really works. I could then charge them to use it, and use those funds to continue growing the business. 
    
    *NOTE ABOUT THE YOUTUBE VIDEO below! This was a pitch I gave last year; I have since (summer of 2015) completely re-done my UX (for the better!). The fundamental product is the same, but the look-n-feel is much better now. Please let me know if you'd like a tour of the current product (which I am just now getting ready to unveil). Thank you!
+cached_project_image: >-
+  /assets/images/projects/2015/conquering-the-college-essay/img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg
 youtube_video_identifier: IRXVbzVLXls
 organization_name: ApplicantLab
 

@@ -13,8 +13,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '1'
   How did you hear about this challenge?: NPR
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'HDomes.com, Shacklebrand Designs'
   Organization(s) mailing address(es): "PO Box 4098\r\nHollywood, CA 90078"
   Organization(s) website(s): HDomes.com
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Show how low cost housing can be high quality and desirable
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -206,6 +206,8 @@ How do you plan to scale the success of your proposal?: >-
   We would partner with the city of Los Angeles to roll out a larger Monolithic
   Dome building program. We would also look to corporate sponsorship to
   contribute a number of Dome homes.
+cached_project_image: >-
+  /assets/images/projects/2015/dome4ahome-a-revolutionary-idea-for-low-income-housing/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23466%252Fdisplay%252Flarge_domes-134_crop.jpg=c570x385.jpg
 maker_image_id: '23466'
 maker_image_file_name: large_domes-134_crop.jpg
 organization_name: 'HDomes.com, Shacklebrand Designs'

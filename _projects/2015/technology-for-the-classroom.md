@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Redeemer Baptist Elementary School
   Organization(s) mailing address(es): "10792 National Blvd.\r\nLos Angeles, CA 90064"
   Organization(s) website(s): www.Redeemerelementary.org
   Organization(s) twitter handle(s): www.twitter.com/RedeemerElementary
@@ -54,7 +54,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Redeemer Baptist Elementary School
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -193,6 +193,8 @@ Are there other organizations doing similar work (whether complementary or compe
    
    ELMO Projectors: $719.00 per unit x 9 = $6471.00
 How do you plan to scale the success of your proposal?: We plan to scale our success by student achievement and student data analysis.
+cached_project_image: >-
+  /assets/images/projects/2015/technology-for-the-classroom/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23262%252Fdisplay%252Fdsc00212.jpg=c570x385.jpg
 maker_image_id: '23262'
 maker_image_file_name: dsc00212.jpg
 organization_name: Redeemer Baptist Elementary School

@@ -14,8 +14,8 @@ project_areas:
   - South LA
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: LA2050 email
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles Audubon Society
   Organization(s) mailing address(es): 'P.O. Box 411301, Los Angeles, CA 90041-8301'
   Organization(s) website(s): www.laaudubon.org
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -338,6 +338,8 @@ How do you plan to scale the success of your proposal?: >-
    * increase the number of children enrolled in after-school programs
    * spark new environmental thinking, research and action through student-led community events 
    * collaborate with partners to develop creative ways to spread the importance of conserving nature in LA
+cached_project_image: >-
+  /assets/images/projects/2015/los-angeles-audubon-urban-nature-explored-and-expressed/img.youtube.com/vi/gxmDmbwknC0/maxresdefault.jpg
 youtube_video_identifier: gxmDmbwknC0
 organization_name: Los Angeles Audubon Society
 

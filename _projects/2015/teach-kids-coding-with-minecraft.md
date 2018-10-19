@@ -17,8 +17,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): LA Makerspace
   Organization(s) mailing address(es): "PO Box 16311\r\nNorth Hollywood, CA 91615\r\n"
   Organization(s) website(s): www.lamakerspace.com
   Organization(s) twitter handle(s): 'https://twitter.com/LAMakerspace'
@@ -55,7 +55,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): LA Makerspace
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -246,6 +246,8 @@ How do you plan to scale the success of your proposal?: >-
   the curriculum that is developed as part of this proposal could be easily
   integrated into their core model. Last summer, they served 2,000 kids and have
   plans to double this number next summer.
+cached_project_image: >-
+  /assets/images/projects/2015/teach-kids-coding-with-minecraft/img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg
 youtube_video_identifier: V0_Km6YYSbo
 organization_name: LA Makerspace
 

@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Promesa Boyle Heights at Proyecto Pastoral
   Organization(s) mailing address(es): "135 North Mission Road\r\nLos Angeles, CA 90033"
   Organization(s) website(s): www.promesaboyleheights.org
   Organization(s) twitter handle(s): www.twitter.com/PromesaBH
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  Organization(s) name(s): Promesa Boyle Heights at Proyecto Pastoral
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -276,6 +276,8 @@ How do you plan to scale the success of your proposal?: >-
    We believe that resident leadership and the spirit of collaboration have been - and will continue to be - a driving force as we work to fully implement the strategies in our original plan. This plan includes working towards the day when we have a strong Community-School and resident leadership infrastructure at each school, when we a strong and coordinated Early Learning Network, and a Transition to College Network in Boyle Heights. 
    
    As part of our involvement in the national Promise Neighborhood Institute, we are also beginning to share best practices and tools with other communities and organizations in Los Angeles and throughout the nation. We see this as an important part of our contribution towards the field of education and community transformation.
+cached_project_image: >-
+  /assets/images/projects/2015/promesa-boyle-heights/img.youtube.com/vi/S4rpsBWmEw4/maxresdefault.jpg
 youtube_video_identifier: S4rpsBWmEw4
 organization_name: Promesa Boyle Heights at Proyecto Pastoral
 

@@ -32,5 +32,7 @@ aggregated:
     - '2018'
   project_ids:
     - '8102050'
+cached_project_image: >-
+  /assets/images/organizations/hacker-fund/activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg
 
 ---

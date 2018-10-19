@@ -199,7 +199,11 @@ stylesheets:
 <figure class="feature has-image">
   <div data-aspect-ratio="1280/720">
     <a href="{{ first_project_url }}">
-      <img src="{{ page.project_image }}" alt="{{ page.title }}" width="500" />
+      {% if page['cached_project_image'] and page['project_image'] contains "http://" %}
+      <img src="{{ page['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ page.title }}" width="500" />
+      {% else %}
+      <img src="{{ page['project_image'] }}" alt="{{ page.title }}" width="500" />
+      {% endif %}
     </a>
   </div>
 </figure>
@@ -711,7 +715,11 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Submitted Ideas</h2>
 <a href="{{ project.url }}">
 {% endif %}
 
-<img src="{{ project.project_image }}" alt="{{ project.title }}" />
+{% if project['cached_project_image'] and project['project_image'] contains "http://" %}
+<img src="{{ project['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ project.title }}" />
+{% else %}
+<img src="{{ project['project_image'] }}" alt="{{ project.title }}" />
+{% endif %}
 
 
 {% if project.project_video and project.project_video != '' %}

@@ -13,8 +13,8 @@ project_image: 'https://img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Cb6MAN2lVkg'
 project_areas: []
 maker_answers:
+  metrics_live_healthcare: '0'
   city_state: los angeles
-  org_name: Safecast
   org_website: 'http://safecast.org'
   org_twitter: '@safecast'
   org_facebook: 'http://www.facebook.com/safecast'
@@ -76,7 +76,7 @@ maker_answers:
     limited data with which to make decisions.
   partners_collaboration: For Los Angeles we won't need any partners to deploy this.
   metrics_live_healthyfood: '0'
-  metrics_live_healthcare: '0'
+  org_name: Safecast
   metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'
   metrics_live_importedwater: '0'
@@ -205,6 +205,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Veracity Productions will operate as a subcontractor to Home Front Build in the making of a documentary for educational and advocacy purposes: www.veracityproductions.com.
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/help-build-a-realtime-environmental-sensor-network/img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg
 youtube_video_identifier: Cb6MAN2lVkg
 
 ---

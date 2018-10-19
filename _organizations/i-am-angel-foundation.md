@@ -41,5 +41,7 @@ aggregated:
     - '3102152'
     - '3102152'
 youtube_video_identifier: uVV1_WmFT9o
+cached_project_image: >-
+  /assets/images/organizations/i-am-angel-foundation/img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg
 
 ---

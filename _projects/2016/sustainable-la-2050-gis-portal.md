@@ -137,6 +137,8 @@ project_proposal_best_place: >-
   The initial pilot project for this proposal (shown in part in the demo video)
   has already been developed and will be presented on October 19th, 2016 as part
   of the EARTH NOW: EARTH 2050 UCLA Luskin Symposium - http://arcg.is/2d7rm5K
+cached_project_image: >-
+  /assets/images/projects/2016/sustainable-la-2050-gis-portal/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
 organization_name: The NOW Institute/UCLA
 organization_website: www.thenowinstitute.org
 

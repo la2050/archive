@@ -32,5 +32,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102074'
+cached_project_image: >-
+  /assets/images/organizations/friends-of-king/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
 
 ---

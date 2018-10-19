@@ -19,8 +19,8 @@ project_areas:
   - Central LA
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How did you hear about this challenge?: friend
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Off The Saw
   Organization(s) mailing address(es): "407 E Pico Blvd, Studio 1004\r\nLos Angeles, CA 90015"
   Organization(s) website(s): www.offthesaw.com
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
@@ -243,6 +243,8 @@ How do you plan to scale the success of your proposal?: >-
    Our secondary goals are to grow our existing workshop and apprenticeship programs. We would like to formalize a curriculum for both programs that can be shared with other collective wood shops. 
    
    More generally, interest in collective shops is growing rapidly as a way to leverage resources and create community. We have already shared our ideas and experiences with similar ventures in Austin, Minneapolis, Northern California, and North Carolina. We will continue to share our perspective and offer our curriculum and toolkit as resources for these new ventures.
+cached_project_image: >-
+  /assets/images/projects/2015/creating-a-space-for-the-creative-class/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23544%252Fdisplay%252FIMG_8112_web.jpg=c570x385.jpg
 maker_image_id: '23544'
 maker_image_file_name: IMG_8112_web.jpg
 organization_name: Off The Saw

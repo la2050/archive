@@ -31,5 +31,7 @@ aggregated:
   project_ids:
     - '8102096'
 youtube_video_identifier: pnwgZVtiDAA
+cached_project_image: >-
+  /assets/images/organizations/julie-rico-dba-as-o-fine-art/img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg
 
 ---

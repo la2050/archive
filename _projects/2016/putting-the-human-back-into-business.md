@@ -91,6 +91,8 @@ project_proposal_best_place: >-
   corporations, small business, and even communities, to get an understanding of
   how their people work and collaborate. From there, we can deliver outstanding
   and insightful workshops tailored for their desired outcomes.
+cached_project_image: >-
+  /assets/images/projects/2016/putting-the-human-back-into-business/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4532943913741-team90.JPG
 organization_name: The integrated Learning Annex
 organization_website: www.integratedannex.com
 

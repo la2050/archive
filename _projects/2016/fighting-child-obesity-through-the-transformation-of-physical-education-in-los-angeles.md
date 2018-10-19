@@ -158,6 +158,8 @@ project_proposal_best_place: >-
   LAUSD schools are rarely able to compensate for recreational and fitness
   resources their neighborhoods lack. With implementation of our program model,
   SBSM can provide LAUSD with an impactful solution.
+cached_project_image: >-
+  /assets/images/projects/2016/fighting-child-obesity-through-the-transformation-of-physical-education-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
 organization_name: Sound Body Sound Mind Foundation
 organization_website: uclahealth.org/soundbodysoundmind
 

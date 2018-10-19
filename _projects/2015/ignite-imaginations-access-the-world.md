@@ -19,8 +19,8 @@ project_areas:
   - Central LA
   - San Gabriel Valley
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How did you hear about this challenge?: California Grantmakers
-  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Levitt Pavilion Greater Los Angeles & Pasadena
   Organization(s) mailing address(es): '1499 Huntington Dr, #305, South Pasadena, CA 91030'
   Organization(s) website(s): 'http://www.levittla.org'
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -242,6 +242,8 @@ How do you plan to scale the success of your proposal?: >-
    Initially, our attendance numbers and the data we collect from our surveys will measure our success. Access in itself is a major goal for this project, and providing the opportunity for a wide range of people, from our local communities to play through the arts is a feat on its own. However, the lasting success of our programs will be seen in the future, when the children that we engage in our parks become adults.
     
    Our hope is that through our efforts today, the next generation will appreciate the value of community spaces activated through shared arts experiences. The seeds planted today will hopefully grow into future investment in the arts. In 2050, all Angelenos will have ample opportunities to participate in high quality performing arts experiences. The citizens of Greater Los Angeles will be inspired by and appreciate how music and arts participation makes us all; more tolerant, innovative and engaged. This appreciation and understanding will play a prominent role in furthering Los Angeles as a center for diversity, culture and public engagement in the arts.
+cached_project_image: >-
+  /assets/images/projects/2015/ignite-imaginations-access-the-world/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23665%252Fdisplay%252FLevitt_LA_Silk_Road-285-2080542528-O.jpg=c570x385.jpg
 maker_image_id: '23665'
 maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
 organization_name: Levitt Pavilion Greater Los Angeles & Pasadena

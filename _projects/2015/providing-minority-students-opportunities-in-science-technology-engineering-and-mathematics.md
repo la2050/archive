@@ -20,8 +20,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, California '
-  Organization(s) name(s): 'Great Minds STEM Society '
   Organization(s) mailing address(es): '428 West 93rd Street, Los Angeles, CA 90003'
   Organization(s) website(s): www.facebook.com/GreatMindsSTEMSociety
   Organization(s) twitter handle(s): 'https://twitter.com/greatmindstem'
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): 'Great Minds STEM Society '
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -294,6 +294,8 @@ How do you plan to scale the success of your proposal?: >-
   those data. GMSS would also like to create an innovative technology and
   robotics Lab aimed at providing students with the breadth of knowledge that is
   required for specialization in STEM fields.
+cached_project_image: >-
+  /assets/images/projects/2015/providing-minority-students-opportunities-in-science-technology-engineering-and-mathematics/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23564%252Fdisplay%252FIMG_9595_(5).jpg=c570x385.jpg
 maker_image_id: '23564'
 maker_image_file_name: IMG_9595_(5).jpg
 organization_name: 'Great Minds STEM Society '

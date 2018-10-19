@@ -37,5 +37,7 @@ aggregated:
     - '5102199'
     - '5102304'
 youtube_video_identifier: '-cj1vPWlAdo'
+cached_project_image: >-
+  /assets/images/organizations/los-angeles-worlds-fair-fpc/img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg
 
 ---

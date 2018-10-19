@@ -19,8 +19,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': North Hollywood
-  Organization(s) name(s): Project MuszEd
   Organization(s) mailing address(es): "5710 Satsuma Avenue\r\nNorth Hollywood, CA 91601"
   Organization(s) website(s): www.projectmuszed.org
   Organization(s) twitter handle(s): 'https://twitter.com/projectmuszed'
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Project MuszEd
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -230,6 +230,8 @@ How do you plan to scale the success of your proposal?: >-
   students may be matriculate in to.
    
    We also anticipate being able to engage our students on the processes of building and running a business, associated ethics and any fiscal training available. With the support of our Board of Directors and through building an Advisory Committee for this project, we will have the expertise and guidance needed to ensure we are exploring every possible angle and making practical and effective decisions in scaling our success.
+cached_project_image: >-
+  /assets/images/projects/2015/soundworks-l-a/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23245%252Fdisplay%252FSlide1.JPG=c570x385.jpg
 maker_image_id: '23245'
 maker_image_file_name: Slide1.JPG
 organization_name: Project MuszEd

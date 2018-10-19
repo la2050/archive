@@ -33,5 +33,7 @@ aggregated:
   project_ids:
     - '4102046'
 youtube_video_identifier: tFrudFZCeRY
+cached_project_image: >-
+  /assets/images/organizations/koreatown-youth-and-community-center-kycc/img.youtube.com/vi/tFrudFZCeRY/maxresdefault.jpg
 
 ---

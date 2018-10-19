@@ -124,6 +124,8 @@ Please explain how you will define and measure success for your activation.: "Se
 Where do you hope this activation or your organization will be in five years?: >-
   We hope to continue to make LA a better place to LIVE through our growth and
   continued support to local environmental non-profits.
+cached_project_image: >-
+  /assets/images/projects/2018/seedla-empowering-environmental-leadership/activation.la2050.org/assets/images/live/2048-wide/seedla.jpg
 organization_name: SeedLA
 
 ---

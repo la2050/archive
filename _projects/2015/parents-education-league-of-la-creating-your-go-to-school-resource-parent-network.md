@@ -19,8 +19,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
-  Organization(s) name(s): Parents Education League of Los Angeles (PEL)
   Organization(s) mailing address(es): "Mailing address:\r\n12021 Wilshire Blvd #460, Los Angeles, CA 90025\r\n\r\nOffice address:\r\n1100 Glendon Ave, 17th floor, Los Angeles, CA 90024"
   Organization(s) website(s): www.parentseducationleague.org
   Organization(s) twitter handle(s): www.twitter.com/peltweet
@@ -61,7 +61,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  Organization(s) name(s): Parents Education League of Los Angeles (PEL)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -246,6 +246,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Preschool Fair:
    “I'm a new mom and this was very helpful because some of the preschools I didn't find in my search on yelp, google search, & in the book. It was wonderful to be able to ask questions to multiple schools. Please keep having the fairs.”
+cached_project_image: >-
+  /assets/images/projects/2015/parents-education-league-of-la-creating-your-go-to-school-resource-parent-network/img.youtube.com/vi/mtWPecaYPCQ/maxresdefault.jpg
 youtube_video_identifier: mtWPecaYPCQ
 organization_name: Parents Education League of Los Angeles (PEL)
 

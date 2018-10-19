@@ -91,5 +91,7 @@ aggregated:
     - '3102143'
 maker_image_file_name: Helper_Logo.jpg
 maker_image_id: '17077'
+cached_project_image: >-
+  /assets/images/organizations/h-e-l-p-e-r-foundation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385.jpg
 
 ---

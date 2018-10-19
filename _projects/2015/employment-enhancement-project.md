@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Implement and track policy: '0'
   How did you hear about this challenge?: Friend
-  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): Clothes The Deal
   Organization(s) mailing address(es): '9525 Imperial Highway, Downey, CA 90242'
   Organization(s) website(s): www.clothesthedeal.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -244,6 +244,8 @@ How do you plan to scale the success of your proposal?: >-
   reporting periods, census data from zip codes served (low-income neighborhoods
   of South Los Angeles, East Los Angeles, North Long Beach, Inglewood, San
   Gabriel Valley, San Fernando, Lancaster, and Palmdale).
+cached_project_image: >-
+  /assets/images/projects/2015/employment-enhancement-project/img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg
 youtube_video_identifier: myUKgR-PO4c
 organization_name: Clothes The Deal
 

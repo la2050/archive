@@ -100,6 +100,8 @@ project_proposal_best_place: >-
   production samples. The LA2050 grant will be put to great use in allowing us
   to focus more directly on concept and execution by removing some of the
   financial barriers to campaign success.
+cached_project_image: >-
+  /assets/images/projects/2016/nous-tous-a-gallery-for-all-of-us/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2520459835741-team91.JPG
 organization_name: Citizens Of Culture
 organization_website: citizensofculture.com
 

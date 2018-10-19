@@ -34,5 +34,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102218'
+cached_project_image: >-
+  /assets/images/organizations/stem-advantage/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3262530655741-team91.jpg
 
 ---

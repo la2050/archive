@@ -44,5 +44,7 @@ aggregated:
   project_ids:
     - '8102058'
     - '4102252'
+cached_project_image: >-
+  /assets/images/organizations/kounkuey-design-initiative/activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
 
 ---

@@ -40,5 +40,7 @@ aggregated:
   project_ids:
     - '5102249'
 youtube_video_identifier: sKN2PQLjrps
+cached_project_image: >-
+  /assets/images/organizations/reading-partners/img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg
 
 ---

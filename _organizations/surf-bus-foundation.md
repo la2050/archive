@@ -48,5 +48,7 @@ aggregated:
   project_ids:
     - '8102114'
     - '6102221'
+cached_project_image: >-
+  /assets/images/organizations/surf-bus-foundation/activation.la2050.org/assets/images/play/2048-wide/surf-bus-foundation.jpg
 
 ---

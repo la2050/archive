@@ -10,8 +10,8 @@ project_summary: "The Venice Art Crawl has been around for more than two years n
 project_image: 'https://img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/U3BkXd4ano4'
 maker_answers:
-  Organization Name: Venice Art Crawl
   website: www.veniceartcrawl.com
+  success: "Our biggest metric of success would be developing this into an ongoing program, like if we turned this funding into seed money basically. If we did that, then that would mean that we would be able to keep on creating and distributing eye catching rain barrels which would continue the conversation.\r\n\r\nIn terms of the rain barrels themselves, we would like to design, promote, auction off and install 30 rain barrels. If we received 12 inches of rain (20% below the LA average of 15 inches annually) then that would fill up 36000 gallons annually. While the weather is out of our control, we think that 36000 gallons conserved is a good goal.\r\n"
   Indicator: ' Environmental Quality'
   brief: >-
     We’re trying to improve water quality and conserve water through the spread
@@ -32,7 +32,7 @@ maker_answers:
   collaborators: >-
     Our biggest partner is SGA who are rain barrel experts and work with PR and
     environmental matters in LA
-  success: "Our biggest metric of success would be developing this into an ongoing program, like if we turned this funding into seed money basically. If we did that, then that would mean that we would be able to keep on creating and distributing eye catching rain barrels which would continue the conversation.\r\n\r\nIn terms of the rain barrels themselves, we would like to design, promote, auction off and install 30 rain barrels. If we received 12 inches of rain (20% below the LA average of 15 inches annually) then that would fill up 36000 gallons annually. While the weather is out of our control, we think that 36000 gallons conserved is a good goal.\r\n"
+  Organization Name: Venice Art Crawl
   description1: "The Venice Art Crawl has been around for more than two years now and has focused a lot of the artistic energy which Venice has historically been known for. For one night, we’re able to turn so many shops and restaurants all across one of the biggest tourist attractions in Los Angles into an arts mecca. That has raised business in local shops by as much as 50% nightly, resulted in thousands of dollars in sales for local artists and reinvigorated the arts community. \r\n\r\nAlternatively, SGA has worked a lot with rain barrels, designing and implementing the first and only rain barrel program of its kind through Mar Vista. There, they promoted and installed 600 rain barrels in the neighborhood, resulting in 33,000 gallons of water conserved every rainfall."
   description3: >-
     No one else is doing a painted rain barrel program that we know of, so
@@ -112,6 +112,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   simple, practical solution to two major issues (particularly major in a dry,
   urban sprawl like LA) Combining that with the artistic and community angle
   we're approaching it with, we think that success in 2050 is easily envisioned.
+cached_project_image: >-
+  /assets/images/projects/2013/beautiful-rain-barrels-in-public-places/img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg
 youtube_video_identifier: U3BkXd4ano4
 
 ---

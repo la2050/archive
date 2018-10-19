@@ -35,5 +35,7 @@ aggregated:
   project_ids: []
 maker_image_file_name: PA-angel.jpg
 maker_image_id: '22289'
+cached_project_image: >-
+  /assets/images/organizations/peace-allies/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22289%252Fdisplay%252FPA-angel.jpg=c570x385.jpg
 
 ---

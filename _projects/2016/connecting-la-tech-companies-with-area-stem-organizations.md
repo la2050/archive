@@ -188,6 +188,8 @@ project_proposal_best_place: >-
   minority youth, for creating a smarter local workforce, and for creating a
   more DIVERSE workforce that truly reflects the international nature of LA's
   population.
+cached_project_image: >-
+  /assets/images/projects/2016/connecting-la-tech-companies-with-area-stem-organizations/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 organization_name: Tech LA Cares
 organization_website: techlacares.com
 

@@ -34,8 +34,13 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/n_itMCVl124'
 maker_answers:
+  success: >-
+    The f2 will be deemed a success by evaluating the number of artists and
+    attendees who participate in the festival and the symposium who have a
+    positive experience.  Optimal financial success will be measured by the
+    total income and profit made from the event so that the f2 can continue to
+    be produced and evolve into the future.  
   Organization Name: 'c3: Center for Conscious Creativity'
-  website: www.consciouscreativity.org
   Indicator: Arts & Cultural Vitality
   brief: "The f2: FutureFest LA \r\n\r\nThe c3: Center for Conscious Creativity www.consciouscreativity.org proposes producing the launch of an annual \"worlds fair\" type LA cultural event featuring emerging entertainment technologies and the latest creations in the arts, entertainment and media industries with emphasis on how the arts, entertainment and creativity can create a better world. \r\n\r\nInitially, the f2 will take place downtown LA at LA Center Studios www.lacenterstudios.com and will feature a futures film festival, an arts and emerging technologies showcase and a music concert for a challenge/cause.  The buildings at the LA Center Studios will become canvases for unique digital projection mapping creations and the Vortex Dome www.vorteximmersion.com located at the studio will house a fulldome festival showcase as well.  The first of its kind in Los Angeles.  \r\n\r\nThe festival will also include the STATE OF THE ARTS symposium featuring thought leaders and experts addressing the latest trends in the arts and entertainment industries and will provide ideas and case studies around how the arts, creativity, entertainment and storytelling can be used to create a better world/future.  \r\n\r\nThe c3 has presented the STATE OF THE ARTS since 2010 when it first launched as a collaborative partner with the LA Opera's RING FEST LA www.c3so.com and www.c3visionlab.org and would now propose adding the f2 to its offerings in honor of the City of LA.  \r\n\r\nThe f2 will serve as an annual magnet attracting the world's greatest artists and creators and technology innovators to participate along the city's own talent pool.   It will be modeled after the tremendously successful Venice Biennale, SXSW in Austin, Texas, and the Fringe Festival in Endinburgh, Scotland (Statistics for 2011 Edinburgh Festival Fringe concluded that it was the largest on record: there were over 40,000 performances of over 2,500 different shows in 258 venues.  Ticket sales amounted to around 1.8 million.  There are now 12 full-time members of staff.  For more details visit:  http://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe).  \r\n\r\nThe f2 has the potential to become a global event that could rival the Edinburgh Fringe Festival potentially attracting millions of visitors to the city for this annual event as it seeds in the Fall of 2013 and then gradually involves the entire City of Greater Los Angeles, the Creative Capital of the World, to participate.  \r\n\r\nThe arts and creativity of children and students will also be included and arts and media colleges will also participate by encouraging their students to participate in the annual event.  \r\n\r\n  "
   budget explanation: "The f2 Future Fest LA 2013 Launch Budget\r\nDates:  Friday, September 20-22, 2013\r\nLocation:  Los Angeles Center Studios\r\n\r\nExecutive Director - 6 months at $4000/month =      $24,000\r\n[Responsible for Chairing, designing, programming and overseeing production of event]\r\nProduction Support - 3 months at $2000/month =   $  6,000\r\nPublicity and Marketing                                                   $  3,500\r\nTHURSDAY: [move in]\r\nVIP Kick Off Reception/Upper Beaudry/Dome          $  3,500\r\nARTS/TECH SHOWCASE Upper Beaudry                 \r\n\r\nProduction Staff (3 days)                                                $  3,000\r\nFriday - \r\nState of the Arts Symposium:\r\n1-6 pm\r\nBeaudry Theater Rental & Expenses                           $ 8,500\r\nReception (Appetizers/Cash Bar)                                  $ 2,500\r\nDome Showcase in Vortex Do                                        $ 2,000\r\nArts and Technology Exhibitions                                  $    500\r\n7-10:30 pm  Kick off Film Screenings                           included\r\n8:30 pm Projection Mappings                            \r\nProjector Rentals                                                              $ 3,000\r\n11 pm WRAP\r\n\r\nSaturday -                                                                             \r\nBeaudry Building Rental & Expenses                         $12,000\r\n10-6 p.m.  Film Screenings in Theater \r\n10-6 p.m.  Arts Showcase/Exhibition Upper Beaudry\r\n10-6 p.m.  Dome Showcase in Vortex Dome                 2,000\r\n8:30-12 a.m.  PROJECTION MAPPING\r\n9-12 a.m. MUSIC CONCERT FOR CAUSE                  $20,000\r\n(includes tech, staging, crew, lighting)\r\nTricaster Broadcast                                                          $ 1,500\r\n\r\nSUNDAY: (optional could invest more in Saturday event tbd)\r\n\r\nScreenings 10-4                                                                 $ 4,500\r\nDomefest 10-4 \r\n(wrap out art and tech exhibition)\r\nVolunteer and Staff Meals                                               $ 1,000\r\nAdministration and bookkeeping fees/supplies       $ 2,500\r\n\r\nTOTAL:                                                                              $ 100,000\r\n\r\n\r\nFood Trucks will supply food and drinks for attendees so no costs for such.\r\n\r\nAdditional Income can be generated by this event through ticket sales and also sponsorship fees.  We have successfully generated sponsorship donations for the past three years.  \r\n\r\n"
@@ -60,12 +65,7 @@ maker_answers:
     education and projects for children and youth so as to involve them in the
     festival as well.  Cal Arts. Otis, USC, UCLA, Art Center, Chapman College
     will be invited to have their students participate.   
-  success: >-
-    The f2 will be deemed a success by evaluating the number of artists and
-    attendees who participate in the festival and the symposium who have a
-    positive experience.  Optimal financial success will be measured by the
-    total income and profit made from the event so that the f2 can continue to
-    be produced and evolve into the future.  
+  website: www.consciouscreativity.org
   description1: >-
     In 2009 the c3 created a partnership with The Millennium Project
     www.millennium-project.org, a global futurists think tank, and the founder
@@ -263,6 +263,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   transform humanity  to create a better and more evolved future.  LA will have
   benefitted by being host to this remarkable festival showcasing the great
   genius of humankind.       
+cached_project_image: >-
+  /assets/images/projects/2013/f2-futurefest-la/img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg
 youtube_video_identifier: n_itMCVl124
 
 ---

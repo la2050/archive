@@ -128,6 +128,8 @@ project_proposal_best_place: >-
   office staff
 
   •          Principals and other leaders
+cached_project_image: >-
+  /assets/images/projects/2016/cwc-la-building-communities-that-embrace-equity-and-address-injustice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0183087065741-team90.jpg
 organization_name: Citizens of the World Los Angeles
 organization_website: www.cwclosangeles.org
 

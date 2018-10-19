@@ -37,5 +37,7 @@ aggregated:
     - '5102302'
     - '4102140'
 youtube_video_identifier: SHjS92F_BK8
+cached_project_image: >-
+  /assets/images/organizations/the-incubator-school/img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg
 
 ---

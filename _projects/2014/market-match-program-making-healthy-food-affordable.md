@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_healthyfood: '1'
   city_state: 'Los Angeles, CA'
-  org_name: Hunger Action Los Angeles
   org_website: www.hungeractionla.org
   org_twitter: '@HungerActionLA'
   org_facebook: 'https://www.facebook.com/HungerActionLA'
@@ -84,7 +84,7 @@ maker_answers:
     income people know about the program include Public Health Foundation
     Enterprises WIC Program, Project Angel Food, and SOVA Jewish Food Pantry
     Market
-  metrics_live_healthyfood: '1'
+  org_name: Hunger Action Los Angeles
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
   metrics_live_selfsufficiency: '1'
@@ -212,6 +212,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    California Hospital Association
    Red-E (cyber consulting firm)
 Whom will your project benefit? Please be specific.: ''
+cached_project_image: >-
+  /assets/images/projects/2014/market-match-program-making-healthy-food-affordable/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22352%252Fdisplay%252FMarket_Match_Booth_Adams.Vermont_1.jpg=c570x385.jpg
 maker_image_id: '22352'
 maker_image_file_name: Market_Match_Booth_Adams.Vermont_1.jpg
 

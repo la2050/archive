@@ -33,5 +33,7 @@ aggregated:
     - '2016'
   project_ids:
     - '6102154'
+cached_project_image: >-
+  /assets/images/organizations/metro-charter-elementary-school/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0883163005741-team91.jpg
 
 ---

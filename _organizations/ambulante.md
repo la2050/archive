@@ -41,5 +41,7 @@ aggregated:
     - '5102014'
     - '4102191'
 youtube_video_identifier: W6D_g6EB-QY
+cached_project_image: >-
+  /assets/images/organizations/ambulante/img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg
 
 ---

@@ -32,5 +32,7 @@ aggregated:
   project_ids:
     - '4102054'
 youtube_video_identifier: iFODyc5eUjQ
+cached_project_image: >-
+  /assets/images/organizations/libros-schmibros/img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg
 
 ---
