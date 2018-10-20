@@ -316,6 +316,7 @@ align-self: stretch;
 {% assign organizations_list = "" | split: "," %}
 
 
+
 {% for data in data_collection_docs %}
 
   {% assign is_finalist = false %}
@@ -397,30 +398,31 @@ align-self: stretch;
 {% if page.category or page.is_search_results %}
 
 
+
 <ul class="proposals" id="project-list">
 
   {% for data in winners_list_2018 %}
-    {% include project-list-item.html %}
+    {% include project-list-item.html is_winner="true" winner_year="2018" %}
   {% endfor %}
 
   {% for data in winners_list_2016 %}
-    {% include project-list-item.html %}
+    {% include project-list-item.html is_winner="true" winner_year="2016" %}
   {% endfor %}
 
   {% for data in winners_list_2015 %}
-    {% include project-list-item.html %}
+    {% include project-list-item.html is_winner="true" winner_year="2015" %}
   {% endfor %}
 
   {% for data in winners_list_2014 %}
-    {% include project-list-item.html %}
+    {% include project-list-item.html is_winner="true" winner_year="2014" %}
   {% endfor %}
 
   {% for data in winners_list_2013 %}
-    {% include project-list-item.html %}
+    {% include project-list-item.html is_winner="true" winner_year="2013" %}
   {% endfor %}
 
   {% for data in finalists_list %}
-    {% include project-list-item.html %}
+    {% include project-list-item.html is_finalist="true" %}
   {% endfor %}
 
   {% for data in organizations_list %}
