@@ -50,7 +50,6 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385
 project_video: ''
 project_ids:
-  - '3102164'
   - '3102163'
 project_titles:
   - Artbound - Phase II
@@ -62,9 +61,7 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Artbound.html'
   project_ids:
     - '3102163'
-    - '3102163'
   year_submitted:
-    - '2013'
     - '2013'
 year_submitted: '2013'
 maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg

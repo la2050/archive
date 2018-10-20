@@ -22,7 +22,6 @@ project_video: ''
 project_ids:
   - '4102095'
   - '3102153'
-  - '3102152'
 project_titles:
   - Paper Free Studio
   - 'THE i.am.angel EAST L.A. INCUBATOR PROJECT '
@@ -34,11 +33,8 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/paperfreestudio.html'
   project_ids:
     - '4102044'
-    - '3102152'
-    - '3102152'
   year_submitted:
     - '2014'
-    - '2013'
     - '2013'
 year_submitted: '2014'
 youtube_video_identifier: uVV1_WmFT9o

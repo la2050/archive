@@ -19,7 +19,6 @@ project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/BumIt2pIRuw?rel=0&amp;showinfo=0'
 project_ids:
-  - '6102079'
   - '6102078'
 project_titles:
   - >-
@@ -29,13 +28,9 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
-    - >-
-      https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
   project_ids:
-    - '6102079'
     - '6102078'
   year_submitted:
-    - '2016'
     - '2016'
 year_submitted: '2016'
 cached_project_image: >-
