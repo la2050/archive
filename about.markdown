@@ -24,9 +24,9 @@ It is our hope that you’ll use the Ideas Archive to discover local organizatio
 
 **View search results.** In search results, organizations that were finalist or winners of My LA2050 Challenges are listed first. 
 
-**Learn about organizations.** Each organization has [its own page](/organizations/826la/) where you can read a little bit about the organization. All information submitted on organization pages are pulled from applications submitted by the organization and may not be current. Be sure to check out the organization website for the most up to date information and for ways to get involved by donating or volunteering. For non-profits, we’ve included a link to charity navigator so you can view information about the organization’s leadership in financials. Keep in mind that small non-profits may not have full financial information available.
+**Learn about organizations.** Each organization has [its own page](/826la/) where you can read a little bit about the organization. All information submitted on organization pages are pulled from applications submitted by the organization and may not be current. Be sure to check out the organization website for the most up to date information and for ways to get involved by donating or volunteering. For non-profits, we’ve included a link to charity navigator so you can view information about the organization’s leadership in financials. Keep in mind that small non-profits may not have full financial information available.
 
-**Learn more by viewing organization project ideas.** At the bottom of each organization page, you’ll find projects and [ideas](/organizations/826la/#ideas) submitted to past My LA2050 Challenges. View these pages to get more information about the organization and how they think about creating impact in Los Angeles. 
+**Learn more by viewing organization project ideas.** At the bottom of each organization page, you’ll find projects and [ideas](/826la/#ideas) submitted to past My LA2050 Challenges. View these pages to get more information about the organization and how they think about creating impact in Los Angeles. 
 
 ## Questions
 
