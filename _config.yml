@@ -165,10 +165,10 @@ defaults:
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /:path/
   organizations:
     output: true
-    permalink: /organizations/:path/
+    permalink: /:path/
   tags:
     output: true
     permalink: /:path/
