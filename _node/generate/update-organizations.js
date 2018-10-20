@@ -286,14 +286,14 @@ function processFile(filename) {
   // delete data.yaml.original_project_titles
   // delete data.yaml.extrapolated_project_titles
 
-  data.yaml.year_submitted = data.yaml.aggregated.year_submitted[0]
+  // data.yaml.year_submitted = data.yaml.aggregated.year_submitted[0]
 
-  data.yaml.published = true
+  // data.yaml.published = true
 
-  if (data.yaml.project_image.startsWith("'")) {
-    console.log("*****found image with quote: " + data.yaml.project_image)
-    data.yaml.project_image = data.yaml.project_image.replace(/^'/, "").replace(/'$/, "")
-  }
+  // if (data.yaml.project_image.startsWith("'")) {
+  //   console.log("*****found image with quote: " + data.yaml.project_image)
+  //   data.yaml.project_image = data.yaml.project_image.replace(/^'/, "").replace(/'$/, "")
+  // }
 
   saveMarkdown(filename, data)
 }

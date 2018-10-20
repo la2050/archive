@@ -582,6 +582,7 @@ function processFile(filename) {
   //   'Other:'
   // ]
 
+  /*
   if (data.yaml.year_submitted == 2015) {
     let project_areas = []
     projectAreas2015.forEach(area => {
@@ -660,33 +661,94 @@ function processFile(filename) {
 
 
   }
+  */
 
-  data.yaml.published = true
-  data.yaml.body_class = category_colors[data.yaml.category] || "strawberry"
+  // data.yaml.published = true
+  // data.yaml.body_class = category_colors[data.yaml.category] || "strawberry"
 
-  for (let prop in data.yaml) {
-    if (data.yaml.hasOwnProperty(prop)) {
-      if (data.yaml[prop] === null) data.yaml[prop] = ""
-    }
-  }
-
-
-  if (data.yaml.year_submitted && data.yaml.year_submitted != "") {
-    if (!uniqueAttributes[data.yaml.year_submitted]) {
-      uniqueAttributes[data.yaml.year_submitted] = {}
-    }
-    for (let prop in data.yaml) {
-      if (data.yaml.hasOwnProperty(prop)) {
-        uniqueAttributes[data.yaml.year_submitted][prop] = 1
-      }
-    }
-  }
+  // for (let prop in data.yaml) {
+  //   if (data.yaml.hasOwnProperty(prop)) {
+  //     if (data.yaml[prop] === null) data.yaml[prop] = ""
+  //   }
+  // }
 
 
-  if (data.yaml.project_image.startsWith("'")) {
-    console.log("*****found image with quote: " + data.yaml.project_image)
-    data.yaml.project_image = data.yaml.project_image.replace(/^'/, "").replace(/'$/, "")
-  }
+  // if (data.yaml.year_submitted && data.yaml.year_submitted != "") {
+  //   if (!uniqueAttributes[data.yaml.year_submitted]) {
+  //     uniqueAttributes[data.yaml.year_submitted] = {}
+  //   }
+  //   for (let prop in data.yaml) {
+  //     if (data.yaml.hasOwnProperty(prop)) {
+  //       uniqueAttributes[data.yaml.year_submitted][prop] = 1
+  //     }
+  //   }
+  // }
+
+
+  // if (data.yaml.project_image.startsWith("'")) {
+  //   console.log("*****found image with quote: " + data.yaml.project_image)
+  //   data.yaml.project_image = data.yaml.project_image.replace(/^'/, "").replace(/'$/, "")
+  // }
+
+
+  // if (markdownOrganizationsLookup[data.yaml.project_id]) {
+  //   data.yaml.organization_id = markdownOrganizationsLookup[data.yaml.project_id].organization_id
+  // } else if (markdownOrganizationsAggregatedLookup[data.yaml.project_id]) {
+  //   data.yaml.organization_id = markdownOrganizationsAggregatedLookup[data.yaml.project_id].organization_id
+  // }
+
+
+  // organizationMarkdownFiles.forEach(item => {
+  //   let organization_id = null
+
+  //   item.project_ids.forEach(project_id => {
+  //     if (data.yaml.project_id == project_id) {
+  //       organization_id = item.organization_id
+  //     }
+  //   })
+
+  //   if (!organization_id) {
+  //     item.aggregated.project_ids.forEach(project_id => {
+  //       if (data.yaml.project_id == project_id && data.yaml.organization_id == item.organization_id) {
+  //         organization_id = item.organization_id
+  //       }
+  //     })
+  //   }
+
+  //   if (organization_id && organization_id != data.yaml.organization_id) {
+  //     console.log("changing organization_id from " + data.yaml.organization_id + " to " + organization_id)
+  //     data.yaml.organization_id = organization_id
+  //   }
+  // })
+
+
+  /*
+  {% assign data_collection = site.collections | where: "label", "organizations" | first %}
+
+  {% for item in data_collection.docs %}
+
+    {% for project_id in item.project_ids %}
+      {% if page.project_id == project_id %}
+        {% assign organization = item %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign project_id_list = item.aggregated.project_ids %}
+    {% for project_id in project_id_list %}
+      {% if page.project_id == project_id %}
+        {% assign organization = item %}
+      {% endif %}
+    {% endfor %}
+
+    {% unless organization %}
+      {% if item.organization_id == page.organization_id %}
+        {% assign organization = item %}
+      {% endif %}
+    {% endunless %}
+
+  {% endfor %}
+  */
+
 
   saveMarkdown(filename, data)
 }
@@ -725,6 +787,51 @@ function updateFolder(folder) {
     processFile(folder + '/' + files[index])
   }
 }
+
+
+
+function getRecords(folder) {
+  let files = getAllFilesFromFolder(folder)
+
+  let records = []
+  for (let index = 0; index < files.length; index++) {
+    if (files[index].indexOf('.DS_Store') >= 0) continue
+
+    // Load the contents of the file
+    let data = loadMarkdown(files[index])
+    if (!data) continue
+
+    // Add the data to the list of records
+    records.push(data.yaml)
+  }
+  return records
+}
+
+// Create an object for quick lookup
+let markdownOrganizationsLookup = {}
+let markdownOrganizationsAggregatedLookup = {}
+let organizationMarkdownFiles
+
+function createOrganizationsLookup() {
+
+  // Load the markdown files
+  let records = getRecords(`../_organizations`)
+
+  records.forEach(record => {
+    record.project_ids.forEach(project_id => {
+      markdownOrganizationsLookup[project_id] = record
+    })
+    record.aggregated.project_ids.forEach(project_id => {
+      markdownOrganizationsAggregatedLookup[project_id] = record
+    })
+  })
+
+  organizationMarkdownFiles = records
+}
+
+createOrganizationsLookup()
+
+
 
 
 updateFolder('../_projects')
@@ -869,19 +976,19 @@ updateFolder('../_projects')
 */
 
 
-let years = [2013, 2014, 2015, 2016, 2018]
+// let years = [2013, 2014, 2015, 2016, 2018]
 
-let uniqueAttributesArray = {}
+// let uniqueAttributesArray = {}
 
-years.forEach(year => {
-  uniqueAttributesArray[year] = []
-  for (let prop in uniqueAttributes[year]) {
-    if (uniqueAttributes[year].hasOwnProperty(prop)) {
-      uniqueAttributesArray[year].push(prop)
-    }
-  }
-  uniqueAttributesArray[year] = Array.from(new Set(uniqueAttributesArray[year]))
-})
+// years.forEach(year => {
+//   uniqueAttributesArray[year] = []
+//   for (let prop in uniqueAttributes[year]) {
+//     if (uniqueAttributes[year].hasOwnProperty(prop)) {
+//       uniqueAttributesArray[year].push(prop)
+//     }
+//   }
+//   uniqueAttributesArray[year] = Array.from(new Set(uniqueAttributesArray[year]))
+// })
 
 
 // console.dir(uniqueAttributesArray)
