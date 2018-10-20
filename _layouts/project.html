@@ -8,6 +8,7 @@ stylesheets:
 
 {% assign data_collection = site.collections | where: "label", "organizations" | first %}
 
+
 {% for item in data_collection.docs %}
 
   {% for project_id in item.project_ids %}
@@ -16,18 +17,14 @@ stylesheets:
     {% endif %}
   {% endfor %}
 
-
-
-
-
-
-
-  {% assign project_id_list = page.aggregated.project_ids %}
-  {% for project_id in project_id_list %}
-    {% if page.project_id == project_id %}
-      {% assign organization = item %}
-    {% endif %}
-  {% endfor %}
+  {% unless organization %}
+    {% assign project_id_list = item.aggregated.project_ids %}
+    {% for project_id in project_id_list %}
+      {% if page.project_id == project_id and page.organization_id == item.organization_id %}
+        {% assign organization = item %}
+      {% endif %}
+    {% endfor %}
+  {% endunless %}
 
   {% unless organization %}
     {% if item.organization_id == page.organization_id %}
@@ -36,7 +33,6 @@ stylesheets:
   {% endunless %}
 
 {% endfor %}
-
 
 {% assign is_finalist = false %}
 {% for finalist in site.finalists %}
