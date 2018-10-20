@@ -55,6 +55,6 @@ calculated_project_ids:
   - '5102080'
   - '4102052'
 cached_project_image: >-
-  /assets/images/organizations/data-roads-foundation/activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
+  https://archive-assets.la2050.org/images/data-roads-foundation/activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 
 ---

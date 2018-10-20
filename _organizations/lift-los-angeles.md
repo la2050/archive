@@ -71,6 +71,6 @@ calculated_project_ids:
   - '4102119'
   - '3102181'
 cached_project_image: >-
-  /assets/images/organizations/lift-los-angeles/activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
+  https://archive-assets.la2050.org/images/lift-los-angeles/activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 
 ---

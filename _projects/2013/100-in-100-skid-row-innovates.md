@@ -329,7 +329,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/100-in-100-skid-row-innovates/img.youtube.com/vi/Sq1MDbnR1wg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/100-in-100-skid-row-innovates/img.youtube.com/vi/Sq1MDbnR1wg/hqdefault.jpg
 youtube_video_identifier: Sq1MDbnR1wg
 
 ---

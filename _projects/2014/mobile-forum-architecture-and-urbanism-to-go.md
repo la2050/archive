@@ -172,7 +172,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Our organizational ties to LA-based companies like Space X enable us to reach a targeted population of highly influential individuals and organizations, building our network through these channels.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/mobile-forum-architecture-and-urbanism-to-go/img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/mobile-forum-architecture-and-urbanism-to-go/img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg
 youtube_video_identifier: tgVu1wy15RQ
 
 ---

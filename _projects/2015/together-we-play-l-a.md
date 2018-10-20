@@ -277,7 +277,7 @@ How do you plan to scale the success of your proposal?: >-
    
    The Together We Play L.A.! initiative will provide another important opportunity for Los Angeles to lead the way in play - today - tomorrow - into 2050 and beyond!
 cached_project_image: >-
-  /assets/images/projects/2015/together-we-play-l-a/img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/together-we-play-l-a/img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg
 youtube_video_identifier: 44E5ezgbzHg
 organization_name: Shane's Inspiration
 

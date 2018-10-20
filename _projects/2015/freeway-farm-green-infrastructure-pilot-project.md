@@ -180,7 +180,7 @@ How do you plan to scale the success of your proposal?: >-
   continue growing these patchwork peri-freeway spaces throughout Los Angeles
   county.
 cached_project_image: >-
-  /assets/images/projects/2015/freeway-farm-green-infrastructure-pilot-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24023%252Fdisplay%252FLA2050_Freeway_Growth.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/freeway-farm-green-infrastructure-pilot-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24023%252Fdisplay%252FLA2050_Freeway_Growth.jpg=c570x385.jpg
 maker_image_id: '24023'
 maker_image_file_name: LA2050_Freeway_Growth.jpg
 organization_name: Freeway Farm

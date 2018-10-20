@@ -37,6 +37,6 @@ calculated_project_ids:
   - '4102102'
 youtube_video_identifier: _1j9tLhT4z8
 cached_project_image: >-
-  /assets/images/organizations/interpretive-media-laboratory-imlab/img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/interpretive-media-laboratory-imlab/img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg
 
 ---

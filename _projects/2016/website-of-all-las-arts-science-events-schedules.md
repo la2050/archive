@@ -94,7 +94,7 @@ project_proposal_best_place: >-
 
   5) Free listings and perusing of the site will keep the accessibility high.
 cached_project_image: >-
-  /assets/images/projects/2016/website-of-all-las-arts-science-events-schedules/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7117612655741-team91.png
+  https://archive-assets.la2050.org/images/2016/website-of-all-las-arts-science-events-schedules/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7117612655741-team91.png
 organization_name: Unified Everything Project
 organization_website: www.unifiedeverythingproject.com
 

@@ -155,7 +155,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - keep the experience small and intimate - this makes it special and doesn't turn it into a circus
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/lareality-a-game-that-makes-its-players-into-makers-doers-and-creators/img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/lareality-a-game-that-makes-its-players-into-makers-doers-and-creators/img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg
 youtube_video_identifier: dN0L0YMa39s
 
 ---

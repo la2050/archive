@@ -37,6 +37,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102009'
 cached_project_image: >-
-  /assets/images/organizations/black-women-for-wellness/activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
+  https://archive-assets.la2050.org/images/black-women-for-wellness/activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
 
 ---

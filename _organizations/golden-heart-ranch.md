@@ -39,6 +39,6 @@ calculated_project_ids:
 maker_image_file_name: 2014-08-12_11.41.58.jpg
 maker_image_id: '23906'
 cached_project_image: >-
-  /assets/images/organizations/golden-heart-ranch/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23906%252Fdisplay%252F2014-08-12_11.41.58.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/golden-heart-ranch/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23906%252Fdisplay%252F2014-08-12_11.41.58.jpg=c570x385.jpg
 
 ---

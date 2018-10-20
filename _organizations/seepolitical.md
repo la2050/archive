@@ -43,6 +43,6 @@ calculated_project_ids:
   - '4102189'
 youtube_video_identifier: atB8yIPXKCk
 cached_project_image: >-
-  /assets/images/organizations/seepolitical/img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/seepolitical/img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg
 
 ---

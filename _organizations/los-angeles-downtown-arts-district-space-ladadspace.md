@@ -36,6 +36,6 @@ calculated_project_ids:
   - '4102129'
 youtube_video_identifier: cVrWTvw8gFc
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-downtown-arts-district-space-ladadspace/img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/los-angeles-downtown-arts-district-space-ladadspace/img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg
 
 ---

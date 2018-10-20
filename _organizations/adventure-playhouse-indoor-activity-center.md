@@ -42,6 +42,6 @@ calculated_project_ids:
   - '5102009'
 youtube_video_identifier: JrkPrBnN4UI
 cached_project_image: >-
-  /assets/images/organizations/adventure-playhouse-indoor-activity-center/img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg
+  https://archive-assets.la2050.org/images/adventure-playhouse-indoor-activity-center/img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg
 
 ---

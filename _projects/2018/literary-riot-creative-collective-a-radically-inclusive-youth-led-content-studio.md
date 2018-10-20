@@ -138,7 +138,7 @@ Where do you hope this activation or your organization will be in five years?: >
   into a new digital ecosystem where Los Angeles youth have the ability to be at
   the forefront of the world’s biggest projects, movements, and masterpieces.
 cached_project_image: >-
-  /assets/images/projects/2018/literary-riot-creative-collective-a-radically-inclusive-youth-led-content-studio/activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
+  https://archive-assets.la2050.org/images/2018/literary-riot-creative-collective-a-radically-inclusive-youth-led-content-studio/activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
 organization_name: Get Lit - Words Ignite
 
 ---

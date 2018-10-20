@@ -30,6 +30,6 @@ calculated_project_ids:
   - '4102185'
 youtube_video_identifier: DITouRhKW80
 cached_project_image: >-
-  /assets/images/organizations/ucla-grand-challenges/img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/ucla-grand-challenges/img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg
 
 ---

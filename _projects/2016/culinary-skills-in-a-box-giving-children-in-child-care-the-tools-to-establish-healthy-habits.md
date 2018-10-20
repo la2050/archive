@@ -122,7 +122,7 @@ project_proposal_best_place: >-
   and potentially reach the more than 78,000 children in licensed in home child
   care.
 cached_project_image: >-
-  /assets/images/projects/2016/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
+  https://archive-assets.la2050.org/images/2016/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 organization_name: T&L Foundation for Child Care Information
 organization_website: www.tlfcci.org
 

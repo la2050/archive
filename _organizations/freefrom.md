@@ -37,6 +37,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102041'
 cached_project_image: >-
-  /assets/images/organizations/freefrom/activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg
+  https://archive-assets.la2050.org/images/freefrom/activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg
 
 ---

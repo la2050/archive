@@ -116,7 +116,7 @@ project_proposal_best_place: >-
   positive mental health outcomes, community resiliency and increased support
   for advocates in this work.
 cached_project_image: >-
-  /assets/images/projects/2016/joyful-heart-foundations-survivor-retreat-model/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
+  https://archive-assets.la2050.org/images/2016/joyful-heart-foundations-survivor-retreat-model/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 organization_name: Joyful Heart Foundation
 organization_website: joyfulheartfoundation.org
 

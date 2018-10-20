@@ -188,7 +188,7 @@ Whom will your project benefit? Please be specific.: >-
     
    Finally, we have relationships with many socially conscious local tech firms, including Pull Creative,100 Years, Ludlow Kingsley & Arts of Olympus, who are all on board to help. Together we will create the most impactful program and platform possible.
 cached_project_image: >-
-  /assets/images/projects/2014/play-with-music-platform-pwmp/img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/play-with-music-platform-pwmp/img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg
 youtube_video_identifier: o1W8HEqylCg
 
 ---

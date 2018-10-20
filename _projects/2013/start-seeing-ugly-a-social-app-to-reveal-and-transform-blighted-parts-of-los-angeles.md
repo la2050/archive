@@ -601,7 +601,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   it is heard by public officials. People will connect to one another and their
   surroundings
 cached_project_image: >-
-  /assets/images/projects/2013/start-seeing-ugly-a-social-app-to-reveal-and-transform-blighted-parts-of-los-angeles/img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/start-seeing-ugly-a-social-app-to-reveal-and-transform-blighted-parts-of-los-angeles/img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg
 youtube_video_identifier: Uj3t-8frJ4Q
 
 ---

@@ -369,7 +369,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
 
   *Pew Research Center: Internet & American Life Project, 2010
 cached_project_image: >-
-  /assets/images/projects/2013/children-mending-hearts-kids-helping-kids/img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/children-mending-hearts-kids-helping-kids/img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg
 youtube_video_identifier: d166fbxFWas
 
 ---

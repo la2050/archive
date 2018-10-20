@@ -35,6 +35,6 @@ calculated_project_ids:
 maker_image_file_name: IMG_0112.JPG
 maker_image_id: '23558'
 cached_project_image: >-
-  /assets/images/organizations/rrm-design-group-and-los-angeles-neighborhood-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23558%252Fdisplay%252FIMG_0112.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/rrm-design-group-and-los-angeles-neighborhood-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23558%252Fdisplay%252FIMG_0112.JPG=c570x385.jpg
 
 ---

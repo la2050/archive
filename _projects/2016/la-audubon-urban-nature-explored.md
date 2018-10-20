@@ -158,7 +158,7 @@ project_proposal_best_place: >-
   Esperanza Habitat will serve 800+ students and is modeled on our successful
   Habitat at Politi Elementary.
 cached_project_image: >-
-  /assets/images/projects/2016/la-audubon-urban-nature-explored/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
+  https://archive-assets.la2050.org/images/2016/la-audubon-urban-nature-explored/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 organization_name: Los Angeles Audubon Society (LAAS)
 organization_website: www.laaudubon.org
 

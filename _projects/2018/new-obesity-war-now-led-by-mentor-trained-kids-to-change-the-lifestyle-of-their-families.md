@@ -138,7 +138,7 @@ How will your activation engage Angelenos to make LA the best place: "YEAR-1\r\n
 Please explain how you will define and measure success for your activation.: "Success would be defined as a measureable change over at least a month. The kids with the help of associates and volunteers would be recording the success in their tablets.\r\nThe success would be measured by the following outcome in six months after completion of the project in 3-4 months:\r\n1.\tWeekly Weight of each member of the family. \r\n2.\tMonthly Dietary changes implemented and sustained by the family.\r\n3.\tMonthly BMI of each member.\r\n4.\tFinal Rubric for reduction in Calories, Saturated Fats, Salt, Sugar and High Fructose Corn Syrup by the families.\r\n5.\tFeedback and Testimonials from families, volunteers and community.\r\n"
 Where do you hope this activation or your organization will be in five years?: "We would win the war on Obesity in LA by making it less than 8 percent. \r\nIt would create at least 50 budding leaders in Science Education by  our next vision of 'Each One, Reach One'"
 cached_project_image: >-
-  /assets/images/projects/2018/new-obesity-war-now-led-by-mentor-trained-kids-to-change-the-lifestyle-of-their-families/activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
+  https://archive-assets.la2050.org/images/2018/new-obesity-war-now-led-by-mentor-trained-kids-to-change-the-lifestyle-of-their-families/activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
 organization_name: Science Academy For All
 
 ---

@@ -38,6 +38,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102088'
 cached_project_image: >-
-  /assets/images/organizations/grown-in-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
+  https://archive-assets.la2050.org/images/grown-in-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
 
 ---

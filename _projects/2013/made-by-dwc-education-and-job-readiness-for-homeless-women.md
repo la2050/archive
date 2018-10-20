@@ -475,7 +475,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   women, and as such, we envision that by 2050 our model and best practices will
   be leveraged by other communities across the nation.
 cached_project_image: >-
-  /assets/images/projects/2013/made-by-dwc-education-and-job-readiness-for-homeless-women/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40584177_2185185251523453_1250257884579627008_n.jpg
+  https://archive-assets.la2050.org/images/2013/made-by-dwc-education-and-job-readiness-for-homeless-women/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40584177_2185185251523453_1250257884579627008_n.jpg
 youtube_video_identifier: 2cxPVWr-5DY
 
 ---

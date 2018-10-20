@@ -41,6 +41,6 @@ calculated_project_ids:
   - '8102010'
   - '3102038'
 cached_project_image: >-
-  /assets/images/organizations/boys-girls-clubs-of-venice/activation.la2050.org/assets/images/connect/2048-wide/boys-girls-clubs-of-venice-bgcv.jpg
+  https://archive-assets.la2050.org/images/boys-girls-clubs-of-venice/activation.la2050.org/assets/images/connect/2048-wide/boys-girls-clubs-of-venice-bgcv.jpg
 
 ---

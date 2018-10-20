@@ -52,6 +52,6 @@ calculated_project_ids:
   - '5102233'
   - '3102217'
 cached_project_image: >-
-  /assets/images/organizations/people-for-the-american-way-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
+  https://archive-assets.la2050.org/images/people-for-the-american-way-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 
 ---

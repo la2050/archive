@@ -58,6 +58,6 @@ calculated_project_ids:
   - '4102149'
   - '3102199'
 cached_project_image: >-
-  /assets/images/organizations/move-la-a-project-of-community-partners/d3n8a8pro7vhmx.cloudfront.net/movela/pages/7205/attachments/original/1534828727/escooter.png
+  https://archive-assets.la2050.org/images/move-la-a-project-of-community-partners/d3n8a8pro7vhmx.cloudfront.net/movela/pages/7205/attachments/original/1534828727/escooter.png
 
 ---

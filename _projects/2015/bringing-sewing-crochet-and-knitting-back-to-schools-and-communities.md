@@ -228,7 +228,7 @@ How do you plan to scale the success of your proposal?: >-
   learned how to sew, crochet and knit. Second,
    success is measured when students decide to become vendors at Yes4arts events and showcase their art designs. Finally, success is measured when students return to our classes with positive updates of their lives, have made education a priority, and have become positive role models in the community for other new students. This is when Yes4arts can be proud of making a difference, one student at a time.
 cached_project_image: >-
-  /assets/images/projects/2015/bringing-sewing-crochet-and-knitting-back-to-schools-and-communities/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23223%252Fdisplay%252FYes4arts_picture_image.jpeg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/bringing-sewing-crochet-and-knitting-back-to-schools-and-communities/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23223%252Fdisplay%252FYes4arts_picture_image.jpeg=c570x385.jpg
 maker_image_id: '23223'
 maker_image_file_name: Yes4arts_picture_image.jpeg
 organization_name: Yes4arts

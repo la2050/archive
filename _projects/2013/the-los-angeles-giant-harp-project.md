@@ -402,7 +402,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   of present day purpose. So to us, arts and culture in 2050 inform government
   policy, education, innovation, and urban planning. 
 cached_project_image: >-
-  /assets/images/projects/2013/the-los-angeles-giant-harp-project/img.youtube.com/vi/pUrKNHKdDLA/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/the-los-angeles-giant-harp-project/img.youtube.com/vi/pUrKNHKdDLA/hqdefault.jpg
 youtube_video_identifier: pUrKNHKdDLA
 
 ---

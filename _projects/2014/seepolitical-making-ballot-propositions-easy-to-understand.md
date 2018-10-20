@@ -184,7 +184,7 @@ Whom will your project benefit? Please be specific.: |-
    
    In order for our partnerships to succeed, SeePolitical must: 1) Deliver high quality videos that engage our audience 2) Provide strictly unbiased interpretations for each ballot proposition 3) Continue to nurture our existing relationships and develop relationships beyond our initial scope by directly engaging each organization’s membership and/or audience.
 cached_project_image: >-
-  /assets/images/projects/2014/seepolitical-making-ballot-propositions-easy-to-understand/img.youtube.com/vi/XBMMD3_5s30/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/seepolitical-making-ballot-propositions-easy-to-understand/img.youtube.com/vi/XBMMD3_5s30/maxresdefault.jpg
 youtube_video_identifier: XBMMD3_5s30
 
 ---

@@ -33,6 +33,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102223'
 cached_project_image: >-
-  /assets/images/organizations/sca-larc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
+  https://archive-assets.la2050.org/images/sca-larc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
 
 ---

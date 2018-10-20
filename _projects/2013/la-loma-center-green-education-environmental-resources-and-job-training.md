@@ -336,7 +336,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/la-loma-center-green-education-environmental-resources-and-job-training/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16974%252Fdisplay%252FLa_Loma_Development_Single_Picture.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/la-loma-center-green-education-environmental-resources-and-job-training/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16974%252Fdisplay%252FLa_Loma_Development_Single_Picture.jpg=c570x385.jpg
 maker_image_id: '16974'
 maker_image_file_name: La_Loma_Development_Single_Picture.jpg
 

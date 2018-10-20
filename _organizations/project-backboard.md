@@ -41,6 +41,6 @@ calculated_project_ids:
   - '5102243'
 youtube_video_identifier: phXK2cX3WEk
 cached_project_image: >-
-  /assets/images/organizations/project-backboard/img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/project-backboard/img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg
 
 ---

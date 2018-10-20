@@ -258,7 +258,7 @@ How do you plan to scale the success of your proposal?: >-
   We will offer programs to all communities to replicate this successful
   program.
 cached_project_image: >-
-  /assets/images/projects/2015/palms-sustainable-farmers-market-and-urban-garden-network/img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/palms-sustainable-farmers-market-and-urban-garden-network/img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg
 youtube_video_identifier: g0KxazcQnVA
 organization_name: Motor Avenue Improvement Association
 

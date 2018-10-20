@@ -103,7 +103,7 @@ project_proposal_best_place: >-
   to essential items is aimed at returning a sense of self and empowerment to
   homeless women, on a road to reducing homelessness in LA altogether.
 cached_project_image: >-
-  /assets/images/projects/2016/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
 organization_name: Tampon Tribe
 organization_website: www.tampontribe.com
 

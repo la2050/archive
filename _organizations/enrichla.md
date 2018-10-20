@@ -44,6 +44,6 @@ calculated_project_ids:
   - '3102124'
 youtube_video_identifier: 3CNwJdOyIDQ
 cached_project_image: >-
-  /assets/images/organizations/enrichla/enrichla.org/wp-content/uploads/2018/05/IMG_0804-1050x788.jpg
+  https://archive-assets.la2050.org/images/enrichla/enrichla.org/wp-content/uploads/2018/05/IMG_0804-1050x788.jpg
 
 ---

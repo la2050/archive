@@ -177,7 +177,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    It is important to note that engaging these additional coalitions would represent longstanding partnerships, and organizations with a history of working together for systems change.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/la-for-youth/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20605%252Fdisplay%252FRallyinLA.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/la-for-youth/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20605%252Fdisplay%252FRallyinLA.jpg=c570x385.jpg
 maker_image_id: '20605'
 maker_image_file_name: RallyinLA.jpg
 

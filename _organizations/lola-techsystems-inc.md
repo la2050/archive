@@ -36,6 +36,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102070'
 cached_project_image: >-
-  /assets/images/organizations/lola-techsystems-inc/activation.la2050.org/assets/images/learn/2048-wide/lola-techsystems-inc.jpg
+  https://archive-assets.la2050.org/images/lola-techsystems-inc/activation.la2050.org/assets/images/learn/2048-wide/lola-techsystems-inc.jpg
 
 ---

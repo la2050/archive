@@ -225,7 +225,7 @@ How do you plan to scale the success of your proposal?: >-
   world. It would be incredible to then see a project like this grow into other
   cities.
 cached_project_image: >-
-  /assets/images/projects/2015/arts-for-incarcerated-youth-network/img.youtube.com/vi/Wx27G6vdyF4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/arts-for-incarcerated-youth-network/img.youtube.com/vi/Wx27G6vdyF4/maxresdefault.jpg
 youtube_video_identifier: Wx27G6vdyF4
 organization_name: >-
   Arts for Incarcerated Youth Network: includes AIYN members Armory Center for

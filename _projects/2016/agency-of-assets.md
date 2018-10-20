@@ -141,7 +141,7 @@ project_proposal_best_place: >-
   arts professionals to participate in the City’s changing socioeconomic and
   cultural landscape.
 cached_project_image: >-
-  /assets/images/projects/2016/agency-of-assets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5792245165741-team88.jpg
+  https://archive-assets.la2050.org/images/2016/agency-of-assets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5792245165741-team88.jpg
 organization_name: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
 organization_website: www.theicala.org
 

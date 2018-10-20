@@ -111,7 +111,7 @@ project_proposal_best_place: >-
   for a thriving and dynamic city. Unlike anything produced before, I3 Arts Fest
   will become a cultural destination and global influence in the arts community.
 cached_project_image: >-
-  /assets/images/projects/2016/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
+  https://archive-assets.la2050.org/images/2016/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
 organization_name: I3 Arts Fest
 organization_website: www.i3artsfest.com
 

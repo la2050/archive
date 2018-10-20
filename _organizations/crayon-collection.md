@@ -42,6 +42,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102032'
 cached_project_image: >-
-  /assets/images/organizations/crayon-collection/activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
+  https://archive-assets.la2050.org/images/crayon-collection/activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
 
 ---

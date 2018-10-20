@@ -40,6 +40,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102236'
 cached_project_image: >-
-  /assets/images/organizations/the-billboard-creative-tbc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2650088355741-team91.jpg
+  https://archive-assets.la2050.org/images/the-billboard-creative-tbc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2650088355741-team91.jpg
 
 ---

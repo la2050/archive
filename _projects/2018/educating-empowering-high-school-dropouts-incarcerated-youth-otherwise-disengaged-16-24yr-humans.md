@@ -168,7 +168,7 @@ Please explain how you will define and measure success for your activation.: >-
   and an event center.
 Where do you hope this activation or your organization will be in five years?: "We hope this activation will help us serve an HSRA student body of 400 in 5 years and we hope to extend the MAPPS program into all high schools as part of their curriculum.  \r\n\r\nWe believe the impact of our program is much greater than the individual students. We hope to affect all humans in one way or another.  We believe we are creating a healthier environment and planet."
 cached_project_image: >-
-  /assets/images/projects/2018/educating-empowering-high-school-dropouts-incarcerated-youth-otherwise-disengaged-16-24yr-humans/activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
+  https://archive-assets.la2050.org/images/2018/educating-empowering-high-school-dropouts-incarcerated-youth-otherwise-disengaged-16-24yr-humans/activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
 organization_name: Mentoring Adolescents for Personal & Professional Success
 
 ---

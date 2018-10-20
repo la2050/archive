@@ -135,7 +135,7 @@ Where do you hope this activation or your organization will be in five years?: >
   In 5 years, Proyecto Jardin will operate school gardens and compost in 10
   public schools and provide ongoing technical assistance and support. 
 cached_project_image: >-
-  /assets/images/projects/2018/healing-city-soils-and-sowing-seeds-for-tomorrow/activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
+  https://archive-assets.la2050.org/images/2018/healing-city-soils-and-sowing-seeds-for-tomorrow/activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
 organization_name: 'Proyecto Jardin: A Project of Hunger Action LA'
 
 ---

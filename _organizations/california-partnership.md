@@ -45,6 +45,6 @@ calculated_project_ids:
   - '6102027'
   - '4102030'
 cached_project_image: >-
-  /assets/images/organizations/california-partnership/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
+  https://archive-assets.la2050.org/images/california-partnership/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
 
 ---

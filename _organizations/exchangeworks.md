@@ -37,6 +37,6 @@ calculated_project_ids:
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
 maker_image_id: '23585'
 cached_project_image: >-
-  /assets/images/organizations/exchangeworks/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/exchangeworks/maker.good.is/images/placeholder/idea.png
 
 ---

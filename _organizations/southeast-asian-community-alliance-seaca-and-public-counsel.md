@@ -41,6 +41,6 @@ calculated_project_ids:
   - '4102195'
 youtube_video_identifier: fMyc7c0Ylc4
 cached_project_image: >-
-  /assets/images/organizations/southeast-asian-community-alliance-seaca-and-public-counsel/img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/southeast-asian-community-alliance-seaca-and-public-counsel/img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg
 
 ---

@@ -170,7 +170,7 @@ project_proposal_best_place: >-
   through government subsidies, private donations, and possibly even housing
   vouchers.  The goal is to create authorship and autonomy.
 cached_project_image: >-
-  /assets/images/projects/2016/building-a-co-living-community-for-las-homeless-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7267442825741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/building-a-co-living-community-for-las-homeless-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7267442825741-team91.jpg
 organization_name: PodShare
 organization_website: PodShare.co
 

@@ -83,7 +83,7 @@ project_proposal_best_place: >-
   food-desert obstacle. This spending would also give us the opportunity to
   advocate with policymakers and leaders in the community.
 cached_project_image: >-
-  /assets/images/projects/2016/connecting-people-to-healthy-food-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/connecting-people-to-healthy-food-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
 organization_name: Food Oasis Los Angeles
 organization_website: foodoasis.la
 

@@ -248,7 +248,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   neighbors about how to be better informed.  80% of the electorate will vote in
   the Los Angeles election in 2050. 
 cached_project_image: >-
-  /assets/images/projects/2013/the-county-resident-from-district-3/img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/the-county-resident-from-district-3/img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg
 youtube_video_identifier: HtWxHzKO0zY
 
 ---

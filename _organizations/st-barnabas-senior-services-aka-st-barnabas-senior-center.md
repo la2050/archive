@@ -37,6 +37,6 @@ calculated_project_ids:
 maker_image_file_name: _DSC5884.JPG
 maker_image_id: '20167'
 cached_project_image: >-
-  /assets/images/organizations/st-barnabas-senior-services-aka-st-barnabas-senior-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/st-barnabas-senior-services-aka-st-barnabas-senior-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385.jpg
 
 ---

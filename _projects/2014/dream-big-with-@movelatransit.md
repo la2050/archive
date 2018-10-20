@@ -191,7 +191,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Most of these partners have been with us in the trenches since Measure R. We add new partners often but not all in this list are confirmed and we hope to keep discovering more. The three factors critical to the success of this collaboration are: 1) sufficient resources; 2) a smart strategy that effectively engages our partners; 3) our ability to sustain the organizing effort over time.
 cached_project_image: >-
-  /assets/images/projects/2014/dream-big-with-@movelatransit/img.youtube.com/vi/wO0XVgSOcoY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/dream-big-with-@movelatransit/img.youtube.com/vi/wO0XVgSOcoY/maxresdefault.jpg
 youtube_video_identifier: wO0XVgSOcoY
 
 ---

@@ -232,7 +232,7 @@ How do you plan to scale the success of your proposal?: |-
    
    The data collected during the first event will be used to program all future events.
 cached_project_image: >-
-  /assets/images/projects/2015/bunchfest-is-music-art-innovation-for-the-masses/img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/bunchfest-is-music-art-innovation-for-the-masses/img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg
 youtube_video_identifier: ByhCcHjp3FQ
 organization_name: BUNCH Media
 

@@ -48,6 +48,6 @@ calculated_project_ids:
   - '3102084'
 youtube_video_identifier: ghRsAe0AExM
 cached_project_image: >-
-  /assets/images/organizations/communities-for-a-better-environment/img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/communities-for-a-better-environment/img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg
 
 ---

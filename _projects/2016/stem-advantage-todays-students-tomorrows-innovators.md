@@ -153,7 +153,7 @@ project_proposal_best_place: >-
   able to relate because they have similar backgrounds. There’s a saying ‘if I
   can see it, I can be it’.
 cached_project_image: >-
-  /assets/images/projects/2016/stem-advantage-todays-students-tomorrows-innovators/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3262530655741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/stem-advantage-todays-students-tomorrows-innovators/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3262530655741-team91.jpg
 organization_name: STEM Advantage
 organization_website: www.stemadvantage.org
 

@@ -99,7 +99,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   proficiency level within core content areas, Incerease in Academic Performance
   Index, Increase in level of social skills, and increase in community building.
 cached_project_image: >-
-  /assets/images/projects/2013/esp-team-teacher-service-learning-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16942%252Fdisplay%252FSequester_student_working1.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/esp-team-teacher-service-learning-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16942%252Fdisplay%252FSequester_student_working1.jpg=c570x385.jpg
 maker_image_id: '16942'
 maker_image_file_name: Sequester_student_working1.jpg
 

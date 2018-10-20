@@ -78,7 +78,7 @@ Where do you hope this activation or your organization will be in five years?: >
   We hope to have a world-class music school that will serve students from ALL
   socioeconomic backgrounds
 cached_project_image: >-
-  /assets/images/projects/2018/gracias-music-foundation-cultivating-and-empowering-musicians-that-give-back-to-the-community/activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg
+  https://archive-assets.la2050.org/images/2018/gracias-music-foundation-cultivating-and-empowering-musicians-that-give-back-to-the-community/activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg
 organization_name: Gracias Music Foundation
 
 ---

@@ -155,7 +155,7 @@ project_proposal_best_place: >-
   an additional 132 high school graduates and 102 college enrollees in Los
   Angeles.
 cached_project_image: >-
-  /assets/images/projects/2016/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5864964105741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5864964105741-team90.jpg
 organization_name: BUILD
 organization_website: BUILD.org
 

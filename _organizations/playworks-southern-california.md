@@ -53,6 +53,6 @@ calculated_project_ids:
   - '3102220'
 youtube_video_identifier: mJP7rkVcRfo
 cached_project_image: >-
-  /assets/images/organizations/playworks-southern-california/img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/playworks-southern-california/img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg
 
 ---

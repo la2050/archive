@@ -349,7 +349,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   entrepreneurs utilizing patterns of urban movement throughout the day aimed at
   meeting the affordability needs of Angelenos.  </p>
 cached_project_image: >-
-  /assets/images/projects/2013/la-street-vendors-a-better-economy-through-lowincome-entrepreneurs/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/34603342_10155143111605666_7950774128993107968_n.jpg
+  https://archive-assets.la2050.org/images/2013/la-street-vendors-a-better-economy-through-lowincome-entrepreneurs/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/34603342_10155143111605666_7950774128993107968_n.jpg
 youtube_video_identifier: qBgE7s8d2AU
 
 ---

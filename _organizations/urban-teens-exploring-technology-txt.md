@@ -37,6 +37,6 @@ calculated_project_ids:
   - '3102268'
 youtube_video_identifier: g_OFCYLH7gw
 cached_project_image: >-
-  /assets/images/organizations/urban-teens-exploring-technology-txt/img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg
+  https://archive-assets.la2050.org/images/urban-teens-exploring-technology-txt/img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg
 
 ---

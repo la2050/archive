@@ -148,7 +148,7 @@ project_proposal_best_place: >-
   According to LA County, 1 death could be prevented for every 227 naloxone kits
   distributed. Be part of curbing this epidemic!
 cached_project_image: >-
-  /assets/images/projects/2016/save-a-life/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/save-a-life/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
 organization_name: Homeless Health Care Los Angeles
 organization_website: hhcla.org
 

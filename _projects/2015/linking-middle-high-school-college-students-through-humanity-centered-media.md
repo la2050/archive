@@ -168,7 +168,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
-  /assets/images/projects/2015/linking-middle-high-school-college-students-through-humanity-centered-media/img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/linking-middle-high-school-college-students-through-humanity-centered-media/img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg
 youtube_video_identifier: H107Gy4bTFs
 organization_name: Media Done Responsibly c/o Pasadena Arts Council
 

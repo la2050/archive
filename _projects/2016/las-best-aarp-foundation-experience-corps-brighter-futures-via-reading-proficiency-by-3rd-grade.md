@@ -133,7 +133,7 @@ project_proposal_best_place: >-
   organization is effective in helping children develop social and emotional
   skills through a pro-social approach to programming.
 cached_project_image: >-
-  /assets/images/projects/2016/las-best-aarp-foundation-experience-corps-brighter-futures-via-reading-proficiency-by-3rd-grade/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3583609165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/las-best-aarp-foundation-experience-corps-brighter-futures-via-reading-proficiency-by-3rd-grade/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3583609165741-team91.jpg
 organization_name: LA's BEST
 organization_website: www.lasbest.org
 

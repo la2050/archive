@@ -153,7 +153,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3) Commitment/Leadership: The success of the collaboration is also dependent on the full commitment to the project by both main collaborators. To highlight each other’s commitment, both parties have drafted an MoU to better frame the goals and timeline of the initiative. In addition, SCI-Arc has appointed faculty member Darin Johnstone as the project coordinator and lead. A practicing LA architect, Darin is also the director of DID, SCI-Arc's introduction to design program for high school students.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/los-angeles-beaches-forever/img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/los-angeles-beaches-forever/img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg
 youtube_video_identifier: fAQOxqwuIHk
 
 ---

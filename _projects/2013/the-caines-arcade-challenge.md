@@ -323,7 +323,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/the-caines-arcade-challenge/img.youtube.com/vi/Ul9c-4dX4Hk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/the-caines-arcade-challenge/img.youtube.com/vi/Ul9c-4dX4Hk/maxresdefault.jpg
 youtube_video_identifier: Ul9c-4dX4Hk
 
 ---

@@ -218,7 +218,7 @@ How do you plan to scale the success of your proposal?: >-
    
    As an organization, the Council for Watershed Health values results based on applied research and analysis that inform policy change and lead to a more sustainable southern California region from the perspective of water quality and quantity management. Our program is unique in that it addresses diverse themes such as urban stormwater, watershed coordination, watershed monitoring, and the promotion of sustainable landscapes. Having access to multiple lines of information increases our ability to integrate various sectors and effectively carry out our core mission. This includes providing leadership, guidance, and assistance to other agencies and organizations to affect sound watershed planning and management, promoting better coordination and integration of watershed monitoring while measuring and tracking progress towards achieving healthier watersheds for humans and fostering a more sustainable regional landscape ethic for Los Angeles.
 cached_project_image: >-
-  /assets/images/projects/2015/healthy-streams-for-angelenos/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/healthy-streams-for-angelenos/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg
 youtube_video_identifier: kQnTJYkpO4A
 organization_name: Council for Watershed Health
 

@@ -179,7 +179,7 @@ How will your activation engage Angelenos to make LA the best place: ''
 Please explain how you will define and measure success for your activation.: ''
 Where do you hope this activation or your organization will be in five years?: ''
 cached_project_image: >-
-  /assets/images/projects/2018/activate-south-bay-la-trails/activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
+  https://archive-assets.la2050.org/images/2018/activate-south-bay-la-trails/activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 organization_name: South Bay Bicycle Coalition
 
 ---

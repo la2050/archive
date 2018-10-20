@@ -180,7 +180,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    “The book is a perfect fit to our literacy program,” reports CHLA & others.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/reading-makes-a-difference/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20485%252Fdisplay%252F2Barbara_with_kids.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/reading-makes-a-difference/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20485%252Fdisplay%252F2Barbara_with_kids.jpg=c570x385.jpg
 maker_image_id: '20485'
 maker_image_file_name: 2Barbara_with_kids.jpg
 

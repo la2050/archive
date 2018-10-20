@@ -249,7 +249,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Helen’s career has resulted in hundreds of other artists’ success. As people discover her art, they realize that disability does not have to be a barrier to creativity, and open themselves up to appreciating art from other artists in Tierra’s program.
 cached_project_image: >-
-  /assets/images/projects/2015/empowering-artists-with-disabilities-to-fill-the-creative-industry-employment-gap/img.youtube.com/vi/duMAZ5TXBMg/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/empowering-artists-with-disabilities-to-fill-the-creative-industry-employment-gap/img.youtube.com/vi/duMAZ5TXBMg/maxresdefault.jpg
 youtube_video_identifier: duMAZ5TXBMg
 organization_name: Tierra del Sol Foundation
 

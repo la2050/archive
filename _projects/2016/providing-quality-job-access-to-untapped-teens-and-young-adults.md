@@ -97,7 +97,7 @@ project_proposal_best_place: >-
   them faith that there is a better future for them, and inspires them to finish
   high school and apply to college and/or future jobs.
 cached_project_image: >-
-  /assets/images/projects/2016/providing-quality-job-access-to-untapped-teens-and-young-adults/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8216358055741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/providing-quality-job-access-to-untapped-teens-and-young-adults/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8216358055741-team91.jpg
 organization_name: Knit Marketing
 organization_website: Knitmarketing.com
 

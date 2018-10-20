@@ -143,7 +143,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
-  /assets/images/projects/2015/intersection-repair-using-art-to-create-safer-streets-and-stronger-communities/img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/intersection-repair-using-art-to-create-safer-streets-and-stronger-communities/img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg
 youtube_video_identifier: KHtt2okRChU
 organization_name: 'Compiler LA, Utopiad.org'
 

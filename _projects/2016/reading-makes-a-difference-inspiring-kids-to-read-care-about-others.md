@@ -142,7 +142,7 @@ project_proposal_best_place: >-
   have been injured in accidents and need smiles. Your thoughtfulness is beyond
   measure.'
 cached_project_image: >-
-  /assets/images/projects/2016/reading-makes-a-difference-inspiring-kids-to-read-care-about-others/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/reading-makes-a-difference-inspiring-kids-to-read-care-about-others/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
 organization_name: The Jester & Pharley Phund
 organization_website: www.thejester.org
 

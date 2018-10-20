@@ -213,7 +213,7 @@ How do you plan to scale the success of your proposal?: >-
   certain number of youth each day for participation and getting new interested
   youth involved.
 cached_project_image: >-
-  /assets/images/projects/2015/hoops-center-for-the-youth/img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/hoops-center-for-the-youth/img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg
 youtube_video_identifier: IscZOss0am8
 organization_name: Pass Tha Ball
 

@@ -35,6 +35,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102178'
 cached_project_image: >-
-  /assets/images/organizations/peaceworks-international/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9122157445741-team91.JPG
+  https://archive-assets.la2050.org/images/peaceworks-international/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9122157445741-team91.JPG
 
 ---

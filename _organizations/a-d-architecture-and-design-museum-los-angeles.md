@@ -60,6 +60,6 @@ calculated_project_ids:
   - '3102004'
 youtube_video_identifier: keoZhYn_XbI
 cached_project_image: >-
-  /assets/images/organizations/a-d-architecture-and-design-museum-los-angeles/img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/a-d-architecture-and-design-museum-los-angeles/img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg
 
 ---

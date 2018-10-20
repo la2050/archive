@@ -143,7 +143,7 @@ project_proposal_best_place: >-
   can provide an even broader, global connection that mimics the efforts we are
   making on a local-level.
 cached_project_image: >-
-  /assets/images/projects/2016/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5520243165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5520243165741-team91.jpg
 organization_name: New Roads School
 organization_website: newroads.org
 

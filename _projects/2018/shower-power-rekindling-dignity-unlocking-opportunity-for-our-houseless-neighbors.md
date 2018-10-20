@@ -201,7 +201,7 @@ Where do you hope this activation or your organization will be in five years?: >
   thousands of Angelenos to advocate for more innovative solutions to
   alleviating Los Angeles’ homelessness crisis.
 cached_project_image: >-
-  /assets/images/projects/2018/shower-power-rekindling-dignity-unlocking-opportunity-for-our-houseless-neighbors/activation.la2050.org/assets/images/connect/2048-wide/lava-mae.jpg
+  https://archive-assets.la2050.org/images/2018/shower-power-rekindling-dignity-unlocking-opportunity-for-our-houseless-neighbors/activation.la2050.org/assets/images/connect/2048-wide/lava-mae.jpg
 organization_name: Lava Mae
 
 ---

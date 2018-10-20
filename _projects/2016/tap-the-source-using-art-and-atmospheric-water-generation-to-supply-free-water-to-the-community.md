@@ -77,7 +77,7 @@ project_proposal_best_place: >-
   and conservation can help bring us out of these dry times. It will inspire
   innovation, and a desire for the community to come together and take action.
 cached_project_image: >-
-  /assets/images/projects/2016/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
 organization_name: Sky Source
 organization_website: skysource.org
 

@@ -309,7 +309,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   being creators as well as consumers of education, will create a far more
   dynamic city in their adulthood.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/central-educational-network-based-on-the-apprenticeship-model/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/2013/central-educational-network-based-on-the-apprenticeship-model/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16174'
 maker_image_file_name: LAM_Robots.jpg
 

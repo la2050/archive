@@ -41,6 +41,6 @@ calculated_project_ids:
   - '4102170'
 youtube_video_identifier: zmZJYC2WFVk
 cached_project_image: >-
-  /assets/images/organizations/porttech-los-angeles-international-trade-education-programs-itep-port-of-los-angeles-high-school-polahs/img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/porttech-los-angeles-international-trade-education-programs-itep-port-of-los-angeles-high-school-polahs/img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg
 
 ---

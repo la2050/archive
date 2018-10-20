@@ -35,6 +35,6 @@ calculated_project_ids:
 maker_image_file_name: 405.jpg
 maker_image_id: '20477'
 cached_project_image: >-
-  /assets/images/organizations/friends-of-the-observatory-foto/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20477%252Fdisplay%252F405.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/friends-of-the-observatory-foto/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20477%252Fdisplay%252F405.jpg=c570x385.jpg
 
 ---

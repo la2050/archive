@@ -195,7 +195,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Experts – We will receive professional support from Loyola Marymount University and Santa Monica Bay Restoration Commission (SMBRC). We worked successfully with both of these organizations on a community-building document for the Ballona Wetlands Restoration. We received funding in the past from the SMBRC. In fact the Executive Director, said this of our partnership, “It was due to Duvivier’s involvement in the CDA Rain Gardens that my organization provided seed funding to start the project. Duvivier overcame many challenges and brought everyone on board with her vision. We use it today in our outreach to state and national agencies and technical professionals looking to implement creative, low-cost water pollution mitigation with added community and educational benefits.”
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/grid-project-to-get-freight-containers-off-freeways/img.youtube.com/vi/2Kn2iZ9g9C4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/grid-project-to-get-freight-containers-off-freeways/img.youtube.com/vi/2Kn2iZ9g9C4/maxresdefault.jpg
 youtube_video_identifier: 2Kn2iZ9g9C4
 
 ---

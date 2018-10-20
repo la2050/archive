@@ -48,6 +48,6 @@ calculated_project_ids:
   - '3102271'
 youtube_video_identifier: U3BkXd4ano4
 cached_project_image: >-
-  /assets/images/organizations/venice-art-crawl/img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/venice-art-crawl/img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg
 
 ---

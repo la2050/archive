@@ -200,7 +200,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   from cities from coast to coast join together in the biggest art party in the
   world!
 cached_project_image: >-
-  /assets/images/projects/2013/artmageddon/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17024%252Fdisplay%252FUSE.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/artmageddon/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17024%252Fdisplay%252FUSE.jpg=c570x385.jpg
 maker_image_id: '17024'
 maker_image_file_name: USE.jpg
 

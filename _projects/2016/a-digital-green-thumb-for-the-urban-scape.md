@@ -165,7 +165,7 @@ project_proposal_best_place: >-
   Plantaware will bring together and aggregates all people who are interested in
   urban gardening and farming in Los Angeles, its neighborhoods and communities.
 cached_project_image: >-
-  /assets/images/projects/2016/a-digital-green-thumb-for-the-urban-scape/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
+  https://archive-assets.la2050.org/images/2016/a-digital-green-thumb-for-the-urban-scape/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
 organization_name: Plantaware
 organization_website: www.plantaware.com
 

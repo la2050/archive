@@ -489,7 +489,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Through URBAN TxT's hacker space education will become the fabric of our
   community and city, and not a topic of division, arguments and contempt. 
 cached_project_image: >-
-  /assets/images/projects/2013/south-la-hackerspace-=-innovative-youth-community-united-to-learn-technology-skills-together/img.youtube.com/vi/FzrgmQOyWtg/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/south-la-hackerspace-=-innovative-youth-community-united-to-learn-technology-skills-together/img.youtube.com/vi/FzrgmQOyWtg/maxresdefault.jpg
 youtube_video_identifier: FzrgmQOyWtg
 
 ---

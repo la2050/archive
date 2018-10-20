@@ -242,7 +242,7 @@ How do you plan to scale the success of your proposal?: >-
   for babies, infants, and toddlers that the City of LA does not currently
   provide.
 cached_project_image: >-
-  /assets/images/projects/2015/learning-to-save-lives-training-future-lifeguards-and-water-rescuers/img.youtube.com/vi/U-UzxBOeJm8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/learning-to-save-lives-training-future-lifeguards-and-water-rescuers/img.youtube.com/vi/U-UzxBOeJm8/maxresdefault.jpg
 youtube_video_identifier: U-UzxBOeJm8
 organization_name: City of Los Angeles Department of Recreation and Parks (RAP)
 

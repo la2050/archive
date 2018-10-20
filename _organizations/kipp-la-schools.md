@@ -50,6 +50,6 @@ calculated_project_ids:
 maker_image_file_name: KIPPThroughCollege3.jpg
 maker_image_id: '17303'
 cached_project_image: >-
-  /assets/images/organizations/kipp-la-schools/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/kipp-la-schools/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385.jpg
 
 ---

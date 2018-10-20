@@ -97,7 +97,7 @@ project_proposal_best_place: >-
   ensure that local and state governments make broad changes that help all
   Angelenos walk, bike, drive, and connect safely.
 cached_project_image: >-
-  /assets/images/projects/2016/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
 organization_name: SAFE (Streets Are For Everyone)
 organization_website: www.streetsareforeveryone.org
 

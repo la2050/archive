@@ -103,7 +103,7 @@ How will your activation engage Angelenos to make LA the best place: "With the k
 Please explain how you will define and measure success for your activation.: "Outreach to 1000+ Angelenos with Digital Literacy programming\r\n\r\nIncreased technology adoption\r\n"
 Where do you hope this activation or your organization will be in five years?: "It is the hope that this activation will erase the Digital Divide in South Los Angeles by 50%.  Also that families will be able to comfortably use technology to engage online together to manage household needs, access educational and job opportunities, as well as connect with families members near and far.  It is our hope that through this educational program, we’ll see a decrease in joblessness, an increase in educational attainment, as well as increase in community economic development.\r\n"
 cached_project_image: >-
-  /assets/images/projects/2018/godigital-las-digital-literacy-program/activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
+  https://archive-assets.la2050.org/images/2018/godigital-las-digital-literacy-program/activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 organization_name: City of Los Angeles Information Technology Agency
 
 ---

@@ -134,7 +134,7 @@ project_proposal_best_place: >-
   mobile pop-up play events will be the perfect vehicle to establish our
   community roots and to help spread the seeds for continued growth.
 cached_project_image: >-
-  /assets/images/projects/2016/tickleberry-place-a-mobile-play-explore-and-learn-pop-up/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
+  https://archive-assets.la2050.org/images/2016/tickleberry-place-a-mobile-play-explore-and-learn-pop-up/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
 organization_name: Tickleberry Place
 organization_website: tickleberryplace.com
 

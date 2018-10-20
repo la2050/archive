@@ -44,6 +44,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102081'
 cached_project_image: >-
-  /assets/images/organizations/mayors-fund-for-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
+  https://archive-assets.la2050.org/images/mayors-fund-for-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
 
 ---

@@ -225,7 +225,7 @@ How do you plan to scale the success of your proposal?: >-
    
    The proposal includes piloting at a small number of schools initially (we currently envision piloting the program at three schools). The ultimate goal is to scale delivery of the curriculum to additional schools throughout Los Angeles County to maximize its potential impact and help make all communities a better place to live.
 cached_project_image: >-
-  /assets/images/projects/2015/sustainable-future-la/img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/sustainable-future-la/img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg
 youtube_video_identifier: '-cj1vPWlAdo'
 organization_name: 'Los Angeles World''s Fair, FPC'
 

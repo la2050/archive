@@ -35,6 +35,6 @@ calculated_project_ids:
   - '4102147'
 youtube_video_identifier: Vv698CCwrt4
 cached_project_image: >-
-  /assets/images/organizations/millennial-magazine-apps4la/img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/millennial-magazine-apps4la/img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg
 
 ---

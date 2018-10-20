@@ -125,7 +125,7 @@ project_proposal_best_place: >-
   create and implement a public policy/education strategy to engage
   legislators/stakeholders.
 cached_project_image: >-
-  /assets/images/projects/2016/little-by-little-school-readiness-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6004983715741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/little-by-little-school-readiness-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6004983715741-team91.jpg
 organization_name: Public Health Foundation Enterprises
 organization_website: www.lblreaders.org
 

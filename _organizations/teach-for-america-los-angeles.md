@@ -56,6 +56,6 @@ calculated_project_ids:
   - '4102204'
   - '3102242'
 cached_project_image: >-
-  /assets/images/organizations/teach-for-america-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
+  https://archive-assets.la2050.org/images/teach-for-america-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
 
 ---

@@ -35,6 +35,6 @@ calculated_project_ids:
   - '4102060'
 youtube_video_identifier: NHaLkpe_jms
 cached_project_image: >-
-  /assets/images/organizations/dumlao-enterprises/img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/dumlao-enterprises/img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg
 
 ---

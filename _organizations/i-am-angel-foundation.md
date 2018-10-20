@@ -42,6 +42,6 @@ calculated_project_ids:
   - '3102153'
 youtube_video_identifier: uVV1_WmFT9o
 cached_project_image: >-
-  /assets/images/organizations/i-am-angel-foundation/img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/i-am-angel-foundation/img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg
 
 ---

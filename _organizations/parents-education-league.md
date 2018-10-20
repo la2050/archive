@@ -47,6 +47,6 @@ calculated_project_ids:
   - '6102174'
   - '5102229'
 cached_project_image: >-
-  /assets/images/organizations/parents-education-league/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
+  https://archive-assets.la2050.org/images/parents-education-league/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
 
 ---

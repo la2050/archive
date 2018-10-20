@@ -30,6 +30,6 @@ calculated_project_ids:
   - '4102229'
 youtube_video_identifier: g8ndzuZ3kKM
 cached_project_image: >-
-  /assets/images/organizations/metabolic-studio/img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/metabolic-studio/img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg
 
 ---

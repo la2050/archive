@@ -43,6 +43,6 @@ calculated_project_ids:
   - '3102279'
 youtube_video_identifier: poREvQfFFL4
 cached_project_image: >-
-  /assets/images/organizations/youth-speak-collective/img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/youth-speak-collective/img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg
 
 ---

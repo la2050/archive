@@ -38,6 +38,6 @@ calculated_project_ids:
   - '5102081'
 youtube_video_identifier: yP9QgOVBaYA
 cached_project_image: >-
-  /assets/images/organizations/dharma-health-institute/img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/dharma-health-institute/img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg
 
 ---

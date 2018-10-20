@@ -50,6 +50,6 @@ calculated_project_ids:
   - '6102097'
   - '5102056'
 cached_project_image: >-
-  /assets/images/organizations/citizens-of-culture/activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
+  https://archive-assets.la2050.org/images/citizens-of-culture/activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 
 ---

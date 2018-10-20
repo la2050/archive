@@ -159,7 +159,7 @@ Where do you hope this activation or your organization will be in five years?: >
   of all sizes in these industries, and 3) these industries will continue to
   flourish and make LA the best place to CREATE.
 cached_project_image: >-
-  /assets/images/projects/2018/beyond-the-red-carpet-industries-careers-shaping-the-future-of-los-angeles/activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
+  https://archive-assets.la2050.org/images/2018/beyond-the-red-carpet-industries-careers-shaping-the-future-of-los-angeles/activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
 organization_name: Roadtrip Nation
 
 ---

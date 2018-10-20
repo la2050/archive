@@ -102,7 +102,7 @@ project_proposal_best_place: >-
   important information for families at their fingertips as a valuable,
   accessible resource.
 cached_project_image: >-
-  /assets/images/projects/2016/great-futures-start-at-home/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/great-futures-start-at-home/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
 organization_name: Community Corporation of Santa Monica
 organization_website: www.communitycorp.org
 

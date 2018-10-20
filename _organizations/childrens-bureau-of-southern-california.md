@@ -44,6 +44,6 @@ calculated_project_ids:
 maker_image_file_name: CB_Logo.jpg
 maker_image_id: '23775'
 cached_project_image: >-
-  /assets/images/organizations/childrens-bureau-of-southern-california/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/childrens-bureau-of-southern-california/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385.jpg
 
 ---

@@ -111,7 +111,7 @@ project_proposal_best_place: >-
   opportunities. The students through the photography process will find adult
   allies throughout Los Angeles to help them follow their professional paths.
 cached_project_image: >-
-  /assets/images/projects/2016/connecting-communities-through-fotos/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/connecting-communities-through-fotos/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
 organization_name: Las Fotos Project
 organization_website: www.lasfotosproject.org
 

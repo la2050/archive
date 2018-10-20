@@ -36,6 +36,6 @@ calculated_project_ids:
   - '4102050'
 youtube_video_identifier: K83J6XaqQlM
 cached_project_image: >-
-  /assets/images/organizations/critical-mass-dance-company-cmdc/img.youtube.com/vi/K83J6XaqQlM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/critical-mass-dance-company-cmdc/img.youtube.com/vi/K83J6XaqQlM/hqdefault.jpg
 
 ---

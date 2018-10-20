@@ -40,6 +40,6 @@ calculated_project_ids:
   - '8102120'
   - '6102208'
 cached_project_image: >-
-  /assets/images/organizations/the-natch-inc/activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
+  https://archive-assets.la2050.org/images/the-natch-inc/activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
 
 ---

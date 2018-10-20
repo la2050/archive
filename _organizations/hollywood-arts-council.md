@@ -36,6 +36,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102093'
 cached_project_image: >-
-  /assets/images/organizations/hollywood-arts-council/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
+  https://archive-assets.la2050.org/images/hollywood-arts-council/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
 
 ---

@@ -231,7 +231,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   model would be ubiquitous in the Los Angeles business scene. I really hope
   that we look a lot less impressive by then.
 cached_project_image: >-
-  /assets/images/projects/2013/helping-small-businesses-and-independent-contractors-in-los-angeles-be-very-nice/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/helping-small-businesses-and-independent-contractors-in-los-angeles-be-very-nice/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385.jpg
 maker_image_id: '17230'
 maker_image_file_name: verynice.jpeg
 

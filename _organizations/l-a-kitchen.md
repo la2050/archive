@@ -37,6 +37,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102059'
 cached_project_image: >-
-  /assets/images/organizations/l-a-kitchen/activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg
+  https://archive-assets.la2050.org/images/l-a-kitchen/activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg
 
 ---

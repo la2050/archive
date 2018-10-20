@@ -172,7 +172,7 @@ Whom will your project benefit? Please be specific.: >-
    
    ABF’s partnerships with reentry housing programs, local restaurants and businesses, schools and churches create more opportunities to scale up the scope of support services for the reintegration of the lives of those who were locked up and the empowerment of communities where urban farming takes place.
 cached_project_image: >-
-  /assets/images/projects/2014/create-la-the-place-where-no-space-or-life-is-wasted/img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/create-la-the-place-where-no-space-or-life-is-wasted/img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg
 youtube_video_identifier: Eg3e5xfocOk
 
 ---

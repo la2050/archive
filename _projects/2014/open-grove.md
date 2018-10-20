@@ -172,7 +172,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The Sierra Club, Angeles Chapter, was a founding member of the Don’t Waste LA Coalition and is a long-time advocate for increasing composting through its Organics Project. In addition to expertise, the chapter has over 40,000 members who can help inform and support new infrastructure and spread the word.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/open-grove/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21247%252Fdisplay%252F271142_126746457409396_123727814377927_212920_3369410_n.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/open-grove/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21247%252Fdisplay%252F271142_126746457409396_123727814377927_212920_3369410_n.jpg=c570x385.jpg
 maker_image_id: '21247'
 maker_image_file_name: 271142_126746457409396_123727814377927_212920_3369410_n.jpg
 

@@ -32,6 +32,6 @@ calculated_project_ids:
   - '4102066'
 youtube_video_identifier: fpGXBYHFZuE
 cached_project_image: >-
-  /assets/images/organizations/erw-design/img.youtube.com/vi/fpGXBYHFZuE/hqdefault.jpg
+  https://archive-assets.la2050.org/images/erw-design/img.youtube.com/vi/fpGXBYHFZuE/hqdefault.jpg
 
 ---

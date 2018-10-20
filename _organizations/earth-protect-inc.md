@@ -36,6 +36,6 @@ calculated_project_ids:
   - '4102063'
 youtube_video_identifier: usGtj9dvrhA
 cached_project_image: >-
-  /assets/images/organizations/earth-protect-inc/img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/earth-protect-inc/img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg
 
 ---

@@ -54,6 +54,6 @@ calculated_project_ids:
   - '3102150'
 youtube_video_identifier: TkvIb74D38g
 cached_project_image: >-
-  /assets/images/organizations/honeylove/img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg
+  https://archive-assets.la2050.org/images/honeylove/img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg
 
 ---

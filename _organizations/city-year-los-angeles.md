@@ -56,6 +56,6 @@ calculated_project_ids:
   - '5102062'
   - '4102038'
 cached_project_image: >-
-  /assets/images/organizations/city-year-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
+  https://archive-assets.la2050.org/images/city-year-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
 
 ---

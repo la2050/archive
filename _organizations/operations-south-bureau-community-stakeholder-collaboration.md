@@ -37,6 +37,6 @@ calculated_project_ids:
   - '5102223'
 youtube_video_identifier: aH5tvjvjOYE
 cached_project_image: >-
-  /assets/images/organizations/operations-south-bureau-community-stakeholder-collaboration/img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/operations-south-bureau-community-stakeholder-collaboration/img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg
 
 ---

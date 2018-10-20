@@ -38,6 +38,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102029'
 cached_project_image: >-
-  /assets/images/organizations/common-sense/activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
+  https://archive-assets.la2050.org/images/common-sense/activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
 
 ---

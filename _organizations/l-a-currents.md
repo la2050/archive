@@ -50,6 +50,6 @@ calculated_project_ids:
 maker_image_file_name: lasmartmap3.jpg
 maker_image_id: '16991'
 cached_project_image: >-
-  /assets/images/organizations/l-a-currents/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/l-a-currents/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385.jpg
 
 ---

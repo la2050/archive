@@ -285,7 +285,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   that support their needs, and a more flexible, bettereducated workforce able
   to adapt to changing economic conditions. 
 cached_project_image: >-
-  /assets/images/projects/2013/strivers-la-apps-to-help-la-city-college-students-succeed-at-work-and-school/img.youtube.com/vi/inJ5XFkvJ84/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/strivers-la-apps-to-help-la-city-college-students-succeed-at-work-and-school/img.youtube.com/vi/inJ5XFkvJ84/hqdefault.jpg
 youtube_video_identifier: inJ5XFkvJ84
 
 ---

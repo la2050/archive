@@ -187,7 +187,7 @@ How do you plan to scale the success of your proposal?: >-
   and ensure students have the essential skills to successfully navigate the
   workforce.
 cached_project_image: >-
-  /assets/images/projects/2015/mapping-the-transition-process-bridging-the-gap-between-college-and-the-workforce/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23390%252Fdisplay%252Ffair.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/mapping-the-transition-process-bridging-the-gap-between-college-and-the-workforce/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23390%252Fdisplay%252Ffair.jpg=c570x385.jpg
 maker_image_id: '23390'
 maker_image_file_name: fair.jpg
 organization_name: MAPS 4 College

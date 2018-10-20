@@ -41,6 +41,6 @@ calculated_project_ids:
 maker_image_file_name: Screen_Shot_2015-10-15_at_12.10.38_PM.png
 maker_image_id: '24149'
 cached_project_image: >-
-  /assets/images/organizations/lapd-southwest-business-booster-association-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24149%252Fdisplay%252FScreen_Shot_2015-10-15_at_12.10.38_PM.png=c570x385.png
+  https://archive-assets.la2050.org/images/lapd-southwest-business-booster-association-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24149%252Fdisplay%252FScreen_Shot_2015-10-15_at_12.10.38_PM.png=c570x385.png
 
 ---

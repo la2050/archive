@@ -100,7 +100,7 @@ project_proposal_best_place: >-
   we hope to accelerate our impact on Title I students year after year and make
   LA the best place to LEARN.
 cached_project_image: >-
-  /assets/images/projects/2016/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 organization_name: Milk + Bookies
 organization_website: milkandbookies.org
 

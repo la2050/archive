@@ -69,7 +69,7 @@ project_proposal_best_place: >-
   beautifying our great city and helping it to feel more like a community of
   connected, like-minded people supporting each other.
 cached_project_image: >-
-  /assets/images/projects/2016/planting-gardens-of-urban-delight/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1280996065741-team88.jpg
+  https://archive-assets.la2050.org/images/2016/planting-gardens-of-urban-delight/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1280996065741-team88.jpg
 organization_name: The Edible Apartment
 organization_website: www.TheEdibleApartment.org
 

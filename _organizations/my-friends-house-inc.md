@@ -36,6 +36,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102087'
 cached_project_image: >-
-  /assets/images/organizations/my-friends-house-inc/activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
+  https://archive-assets.la2050.org/images/my-friends-house-inc/activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
 
 ---

@@ -119,7 +119,7 @@ How will your activation engage Angelenos to make LA the best place: "Historical
 Please explain how you will define and measure success for your activation.: "2 metrics: how many shops have been created in our marketplace, and how many local monthly shoppers there are. \r\n\r\nWe aim to have over 1000 Angelinos running a shop to sell their products on our app within 2 years. We also aim to have 50,000 local shoppers within that time."
 Where do you hope this activation or your organization will be in five years?: "We hope that thousands of Angelinos have started their own business on Natch. We also aspire to have these sellers become a pivotal fragment of the food industry, and hope that these local products can secure a large share of the food market where millions of Angelinos can be engaged in the local food shopping economy.\r\n\r\nBy moving local spending into the hands of smaller business, we hope that can make an impact on local wealth inequality."
 cached_project_image: >-
-  /assets/images/projects/2018/farmers-market-delivery/activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
+  https://archive-assets.la2050.org/images/2018/farmers-market-delivery/activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
 organization_name: 'The Natch, INC.'
 
 ---

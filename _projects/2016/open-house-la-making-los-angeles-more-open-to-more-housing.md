@@ -160,7 +160,7 @@ project_proposal_best_place: >-
   is complete, we will share it online and via a panel discussion / launch event
   and social media event.
 cached_project_image: >-
-  /assets/images/projects/2016/open-house-la-making-los-angeles-more-open-to-more-housing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
+  https://archive-assets.la2050.org/images/2016/open-house-la-making-los-angeles-more-open-to-more-housing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
 organization_name: Evolve LA (project of LA-Más)
 organization_website: www.mas.la
 

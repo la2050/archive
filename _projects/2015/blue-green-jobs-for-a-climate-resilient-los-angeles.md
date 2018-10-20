@@ -220,7 +220,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Our ultimate aim is to design a curriculum that can be transferred to colleges throughout the California Community College System and ultimately, the west.
 cached_project_image: >-
-  /assets/images/projects/2015/blue-green-jobs-for-a-climate-resilient-los-angeles/img.youtube.com/vi/fvo26NJM3JM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/blue-green-jobs-for-a-climate-resilient-los-angeles/img.youtube.com/vi/fvo26NJM3JM/maxresdefault.jpg
 youtube_video_identifier: fvo26NJM3JM
 organization_name: The River Project
 

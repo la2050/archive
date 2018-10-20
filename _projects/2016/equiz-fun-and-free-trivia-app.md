@@ -88,7 +88,7 @@ project_proposal_best_place: >-
   importance of L.A. as a start-up friendly incubator that rivals that of Paolo
   Alto.
 cached_project_image: >-
-  /assets/images/projects/2016/equiz-fun-and-free-trivia-app/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7270013455741-team88.jpg
+  https://archive-assets.la2050.org/images/2016/equiz-fun-and-free-trivia-app/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7270013455741-team88.jpg
 organization_name: 'SilverMotion, Inc.'
 organization_website: equiz.com
 

@@ -201,7 +201,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Three factors that are critical to the success of these collaborations are: 1.Institution’s willingness to participate in the program, in addition to other educational programs in place 2. Athletics’ ability to aggregate all relevant arts listings 3. LAUSD’s openness to integrating this program into existing curricula
 cached_project_image: >-
-  /assets/images/projects/2014/arts-landed-connecting-resources-educators-artists-students-and-you/img.youtube.com/vi/enLi01MVXnc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/arts-landed-connecting-resources-educators-artists-students-and-you/img.youtube.com/vi/enLi01MVXnc/maxresdefault.jpg
 youtube_video_identifier: enLi01MVXnc
 
 ---

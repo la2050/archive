@@ -38,6 +38,6 @@ calculated_project_ids:
 maker_image_file_name: Screen_Shot_2015-10-07_at_4.00.20_PM.png
 maker_image_id: '24129'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-mayor-eric-garcetti-great-streets-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385.png
+  https://archive-assets.la2050.org/images/los-angeles-mayor-eric-garcetti-great-streets-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385.png
 
 ---

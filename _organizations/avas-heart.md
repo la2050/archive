@@ -35,6 +35,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102014'
 cached_project_image: >-
-  /assets/images/organizations/avas-heart/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4988765384741-team91.JPG
+  https://archive-assets.la2050.org/images/avas-heart/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4988765384741-team91.JPG
 
 ---

@@ -127,7 +127,7 @@ project_proposal_best_place: >-
   community in the northern section of downtown and will have direct access to
   our museum, Olvera Street and Union Station.
 cached_project_image: >-
-  /assets/images/projects/2016/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
+  https://archive-assets.la2050.org/images/2016/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
 organization_name: LA Plaza de Cultura y Artes
 organization_website: www.lapca.org
 

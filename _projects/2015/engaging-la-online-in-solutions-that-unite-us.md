@@ -209,7 +209,7 @@ How do you plan to scale the success of your proposal?: >-
    
    As this succeeds we will reach out to more neighborhoods and cities, building up the participation to entire states, and of course the national government. Later, the world.
 cached_project_image: >-
-  /assets/images/projects/2015/engaging-la-online-in-solutions-that-unite-us/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23482%252Fdisplay%252FSynergize_LA.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/engaging-la-online-in-solutions-that-unite-us/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23482%252Fdisplay%252FSynergize_LA.png=c570x385.png
 maker_image_id: '23482'
 maker_image_file_name: Synergize_LA.png
 organization_name: 'Synaccord, LLC'

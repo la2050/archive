@@ -146,7 +146,7 @@ project_proposal_best_place: >-
   non-profit, private, & public sectors through intentional collaboration & help
   make LA the best place to CREATE.
 cached_project_image: >-
-  /assets/images/projects/2016/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
+  https://archive-assets.la2050.org/images/2016/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
 organization_name: ProduceAthon
 organization_website: www.produceAthon.org
 

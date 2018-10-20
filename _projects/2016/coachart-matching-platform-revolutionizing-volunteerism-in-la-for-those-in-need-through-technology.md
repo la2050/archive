@@ -118,7 +118,7 @@ project_proposal_best_place: >-
   empower any current and future organizations with a matching model in their
   organization helping increase volunteerism rates in LA.
 cached_project_image: >-
-  /assets/images/projects/2016/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
 organization_name: CoachArt
 organization_website: www.coachart.org
 

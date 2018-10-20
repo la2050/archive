@@ -38,6 +38,6 @@ calculated_project_ids:
   - '5102190'
 youtube_video_identifier: m_0WUOFanyM
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-maritime-institute/img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/los-angeles-maritime-institute/img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg
 
 ---

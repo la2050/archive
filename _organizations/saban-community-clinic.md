@@ -35,6 +35,6 @@ calculated_project_ids:
 maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
 maker_image_id: '22174'
 cached_project_image: >-
-  /assets/images/organizations/saban-community-clinic/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22174%252Fdisplay%252FBeverly_Site_New_Logo_on_Building_2013.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/saban-community-clinic/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22174%252Fdisplay%252FBeverly_Site_New_Logo_on_Building_2013.jpg=c570x385.jpg
 
 ---

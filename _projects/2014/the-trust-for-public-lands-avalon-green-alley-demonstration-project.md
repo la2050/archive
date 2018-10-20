@@ -182,7 +182,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The Plant Chicago is an Urban Farming initiative that has pioneered an ecological urban farm concept that eliminates the idea of waste by establishing the interdependence of productive units. They posses a unique expertise and have been a great inspiration to the project. In collaborating with The Plant Chicago, we hope to use them as a case study and implement several other concepts similar to theirs within the game.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/the-trust-for-public-lands-avalon-green-alley-demonstration-project/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43636083_10156201918159735_997760425149857792_n.jpg
+  https://archive-assets.la2050.org/images/2014/the-trust-for-public-lands-avalon-green-alley-demonstration-project/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43636083_10156201918159735_997760425149857792_n.jpg
 maker_image_id: '22632'
 maker_image_file_name: Pages_from_T-Alley_Outreach_Flip_Book-2.jpg
 

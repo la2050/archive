@@ -196,7 +196,7 @@ How do you plan to scale the success of your proposal?: >-
    
    As well as build out our membership program with the public. Providing a low monthly rate for the community to interact and engage with the artists we are working with.
 cached_project_image: >-
-  /assets/images/projects/2015/feal-la-a-sanctuary-for-the-arts/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23967%252Fdisplay%252FLOGO.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/feal-la-a-sanctuary-for-the-arts/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23967%252Fdisplay%252FLOGO.png=c570x385.png
 maker_image_id: '23967'
 maker_image_file_name: LOGO.png
 organization_name: 'FEAL.LA '

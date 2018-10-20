@@ -243,7 +243,7 @@ How do you plan to scale the success of your proposal?: >-
     
    Our hope is that through our efforts today, the next generation will appreciate the value of community spaces activated through shared arts experiences. The seeds planted today will hopefully grow into future investment in the arts. In 2050, all Angelenos will have ample opportunities to participate in high quality performing arts experiences. The citizens of Greater Los Angeles will be inspired by and appreciate how music and arts participation makes us all; more tolerant, innovative and engaged. This appreciation and understanding will play a prominent role in furthering Los Angeles as a center for diversity, culture and public engagement in the arts.
 cached_project_image: >-
-  /assets/images/projects/2015/ignite-imaginations-access-the-world/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23665%252Fdisplay%252FLevitt_LA_Silk_Road-285-2080542528-O.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/ignite-imaginations-access-the-world/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23665%252Fdisplay%252FLevitt_LA_Silk_Road-285-2080542528-O.jpg=c570x385.jpg
 maker_image_id: '23665'
 maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
 organization_name: Levitt Pavilion Greater Los Angeles & Pasadena

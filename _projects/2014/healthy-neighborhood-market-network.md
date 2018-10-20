@@ -202,7 +202,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Three factors that are critical to our collaborations: (1) Passion for food equity: the idea that all communities deserve access to fresh, affordable food (2) A shared belief that we need to reach across silos in order to make long-lasting change. We need diverse talents, expertise and perspectives to get the kind of food system change we all hope for, and (3) The demonstrated success of the “collective impact” model: all our powers combined will ensure equitable opportunities for education and well-being in the future.
 cached_project_image: >-
-  /assets/images/projects/2014/healthy-neighborhood-market-network/img.youtube.com/vi/zX43aG_3H48/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/healthy-neighborhood-market-network/img.youtube.com/vi/zX43aG_3H48/maxresdefault.jpg
 youtube_video_identifier: zX43aG_3H48
 
 ---

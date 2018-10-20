@@ -379,7 +379,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   programs so that we can serve at least 1,0002,000 students during the academic
   year.
 cached_project_image: >-
-  /assets/images/projects/2013/increasing-capacity-for-college-going/img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/increasing-capacity-for-college-going/img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg
 youtube_video_identifier: jGa5KEowRPM
 
 ---

@@ -38,6 +38,6 @@ calculated_project_ids:
   - '5102031'
 youtube_video_identifier: H-S2LiQcO00
 cached_project_image: >-
-  /assets/images/organizations/blueprint-earth/img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/blueprint-earth/img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg
 
 ---

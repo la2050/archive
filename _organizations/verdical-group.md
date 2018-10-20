@@ -41,6 +41,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102272'
 cached_project_image: >-
-  /assets/images/organizations/verdical-group/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
+  https://archive-assets.la2050.org/images/verdical-group/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
 
 ---

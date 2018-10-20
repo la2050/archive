@@ -29,6 +29,6 @@ aggregated:
     - '2015'
 year_submitted: '2015'
 cached_project_image: >-
-  /assets/images/organizations/partnership-for-los-angeles-schools/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/partnership-for-los-angeles-schools/maker.good.is/images/placeholder/idea.png
 
 ---

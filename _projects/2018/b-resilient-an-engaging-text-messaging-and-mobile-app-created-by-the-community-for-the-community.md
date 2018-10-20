@@ -226,7 +226,7 @@ Where do you hope this activation or your organization will be in five years?: >
   well as implementing our community models across the nation as we begin
   collaborations with New York City and Baton Rouge, Louisiana.
 cached_project_image: >-
-  /assets/images/projects/2018/b-resilient-an-engaging-text-messaging-and-mobile-app-created-by-the-community-for-the-community/activation.la2050.org/assets/images/live/2048-wide/ucla-center-for-health-services-and-society.jpg
+  https://archive-assets.la2050.org/images/2018/b-resilient-an-engaging-text-messaging-and-mobile-app-created-by-the-community-for-the-community/activation.la2050.org/assets/images/live/2048-wide/ucla-center-for-health-services-and-society.jpg
 organization_name: UCLA Center for Health Services and Society
 
 ---

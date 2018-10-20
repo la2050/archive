@@ -170,7 +170,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   increase as well!  We are currently in the process of gaining our 501c as
   well!
 cached_project_image: >-
-  /assets/images/projects/2013/mloveizm-supports-empowers-and-inspires-los-angeles-artists/img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/mloveizm-supports-empowers-and-inspires-los-angeles-artists/img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg
 youtube_video_identifier: Q4dC-OX4vTw
 
 ---

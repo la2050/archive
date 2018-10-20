@@ -43,6 +43,6 @@ calculated_project_ids:
   - '8102049'
   - '5102122'
 cached_project_image: >-
-  /assets/images/organizations/grid110-inc/activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg
+  https://archive-assets.la2050.org/images/grid110-inc/activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg
 
 ---

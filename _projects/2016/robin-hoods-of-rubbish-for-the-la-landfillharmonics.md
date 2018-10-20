@@ -81,7 +81,7 @@ project_proposal_best_place: >-
 
   Our orchestra will perform in local schools and parks.
 cached_project_image: >-
-  /assets/images/projects/2016/robin-hoods-of-rubbish-for-the-la-landfillharmonics/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/robin-hoods-of-rubbish-for-the-la-landfillharmonics/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
 organization_name: T4T.org
 organization_website: www.t4t.org
 

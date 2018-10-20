@@ -33,6 +33,6 @@ calculated_project_ids:
   - '4102196'
 youtube_video_identifier: fAQOxqwuIHk
 cached_project_image: >-
-  /assets/images/organizations/duvivier-architects-da/img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/duvivier-architects-da/img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg
 
 ---

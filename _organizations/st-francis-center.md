@@ -30,6 +30,6 @@ calculated_project_ids:
   - '4102098'
 youtube_video_identifier: uz4evo3B7qw
 cached_project_image: >-
-  /assets/images/organizations/st-francis-center/img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg
+  https://archive-assets.la2050.org/images/st-francis-center/img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg
 
 ---

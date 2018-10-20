@@ -39,6 +39,6 @@ calculated_project_ids:
 maker_image_file_name: creative_capital_img.jpg
 maker_image_id: '22856'
 cached_project_image: >-
-  /assets/images/organizations/24connect/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22856%252Fdisplay%252Fcreative_capital_img.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/24connect/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22856%252Fdisplay%252Fcreative_capital_img.jpg=c570x385.jpg
 
 ---

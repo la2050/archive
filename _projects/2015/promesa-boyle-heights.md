@@ -277,7 +277,7 @@ How do you plan to scale the success of your proposal?: >-
    
    As part of our involvement in the national Promise Neighborhood Institute, we are also beginning to share best practices and tools with other communities and organizations in Los Angeles and throughout the nation. We see this as an important part of our contribution towards the field of education and community transformation.
 cached_project_image: >-
-  /assets/images/projects/2015/promesa-boyle-heights/img.youtube.com/vi/S4rpsBWmEw4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/promesa-boyle-heights/img.youtube.com/vi/S4rpsBWmEw4/maxresdefault.jpg
 youtube_video_identifier: S4rpsBWmEw4
 organization_name: Promesa Boyle Heights at Proyecto Pastoral
 

@@ -41,6 +41,6 @@ calculated_project_ids:
   - '3102247'
 youtube_video_identifier: TlilAMszJEs
 cached_project_image: >-
-  /assets/images/organizations/the-gabriella-foundation/img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg
+  https://archive-assets.la2050.org/images/the-gabriella-foundation/img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg
 
 ---

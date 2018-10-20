@@ -37,6 +37,6 @@ calculated_project_ids:
 maker_image_file_name: 5971_LASC_Poster_07_(1).jpg
 maker_image_id: '22723'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-sustainability-collaborative-lasc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22723%252Fdisplay%252F5971_LASC_Poster_07_(1).jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/los-angeles-sustainability-collaborative-lasc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22723%252Fdisplay%252F5971_LASC_Poster_07_(1).jpg=c570x385.jpg
 
 ---

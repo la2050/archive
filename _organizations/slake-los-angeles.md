@@ -38,6 +38,6 @@ calculated_project_ids:
   - '3102233'
 youtube_video_identifier: CDJnJMrwko8
 cached_project_image: >-
-  /assets/images/organizations/slake-los-angeles/img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg
+  https://archive-assets.la2050.org/images/slake-los-angeles/img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg
 
 ---

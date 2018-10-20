@@ -96,6 +96,6 @@ calculated_project_ids:
 maker_image_file_name: logo.png
 maker_image_id: '17036'
 cached_project_image: >-
-  /assets/images/organizations/the-advot-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17036%252Fdisplay%252Flogo.png=c570x385.png
+  https://archive-assets.la2050.org/images/the-advot-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17036%252Fdisplay%252Flogo.png=c570x385.png
 
 ---

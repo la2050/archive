@@ -39,6 +39,6 @@ calculated_project_ids:
 maker_image_file_name: DSC_0342.jpg
 maker_image_id: '23515'
 cached_project_image: >-
-  /assets/images/organizations/sequoyah-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23515%252Fdisplay%252FDSC_0342.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/sequoyah-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23515%252Fdisplay%252FDSC_0342.jpg=c570x385.jpg
 
 ---

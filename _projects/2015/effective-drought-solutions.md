@@ -213,7 +213,7 @@ How do you plan to scale the success of your proposal?: >-
   Southland grows more comfortable with the idea of a symbiotic relationship
   with beaver, the positive ripple effects will be greater and greater.
 cached_project_image: >-
-  /assets/images/projects/2015/effective-drought-solutions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23280%252Fdisplay%252FDrought_Solutions_3.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/effective-drought-solutions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23280%252Fdisplay%252FDrought_Solutions_3.jpg=c570x385.jpg
 maker_image_id: '23280'
 maker_image_file_name: Drought_Solutions_3.jpg
 organization_name: Individual submitter

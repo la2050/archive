@@ -72,6 +72,6 @@ calculated_project_ids:
   - '3102178'
 youtube_video_identifier: RuF86dH0Bag
 cached_project_image: >-
-  /assets/images/organizations/learn-to-be-foundation/img.youtube.com/vi/RuF86dH0Bag/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/learn-to-be-foundation/img.youtube.com/vi/RuF86dH0Bag/maxresdefault.jpg
 
 ---

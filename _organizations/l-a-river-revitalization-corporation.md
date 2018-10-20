@@ -92,6 +92,6 @@ calculated_project_ids:
   - '3102167'
 youtube_video_identifier: 7so4eDfFRws
 cached_project_image: >-
-  /assets/images/organizations/l-a-river-revitalization-corporation/img.youtube.com/vi/7so4eDfFRws/hqdefault.jpg
+  https://archive-assets.la2050.org/images/l-a-river-revitalization-corporation/img.youtube.com/vi/7so4eDfFRws/hqdefault.jpg
 
 ---

@@ -375,7 +375,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   system and used as a way to integrate academic success, emotion-based
   learning, and community/activity-based service.
 cached_project_image: >-
-  /assets/images/projects/2013/shall-we-dance-in-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17044%252Fdisplay%252FFLAA1.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/shall-we-dance-in-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17044%252Fdisplay%252FFLAA1.jpg=c570x385.jpg
 maker_image_id: '17044'
 maker_image_file_name: FLAA1.jpg
 

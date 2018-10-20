@@ -294,7 +294,7 @@ How do you plan to scale the success of your proposal?: >-
   among corner store and partners, and secure additional funding for successful
   scaling.
 cached_project_image: >-
-  /assets/images/projects/2015/south-los-angeles-healthy-corner-store-conversion-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/south-los-angeles-healthy-corner-store-conversion-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385.jpg
 maker_image_id: '23775'
 maker_image_file_name: CB_Logo.jpg
 organization_name: Children's Bureau of Southern California

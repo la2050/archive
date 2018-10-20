@@ -40,6 +40,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102082'
 cached_project_image: >-
-  /assets/images/organizations/mentoring-adolescents-for-personal-professional-success/activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
+  https://archive-assets.la2050.org/images/mentoring-adolescents-for-personal-professional-success/activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
 
 ---

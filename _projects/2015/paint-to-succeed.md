@@ -192,7 +192,7 @@ How do you plan to scale the success of your proposal?: >-
   will provide a template for the community to go on an create more public art
   projects.
 cached_project_image: >-
-  /assets/images/projects/2015/paint-to-succeed/img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/paint-to-succeed/img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg
 youtube_video_identifier: s-SSOCwgWEs
 organization_name: 'Siqueiros Foundation of the Arts '
 

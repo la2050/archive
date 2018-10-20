@@ -166,7 +166,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. As part of the Boyle Heights Learning Collaborative, and through our relationships with other CBOs, CTBH coordinates with other non-profits who support our students’ non-academic and social/emotional needs.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/how-to-increase-the-percentage-of-underserved-youth-graduating-from-college-in-boyle-heights/img.youtube.com/vi/DcSdvVTv_Cg/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/how-to-increase-the-percentage-of-underserved-youth-graduating-from-college-in-boyle-heights/img.youtube.com/vi/DcSdvVTv_Cg/maxresdefault.jpg
 youtube_video_identifier: DcSdvVTv_Cg
 
 ---

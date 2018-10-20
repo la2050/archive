@@ -37,6 +37,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102009'
 cached_project_image: >-
-  /assets/images/organizations/argo-labs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
+  https://archive-assets.la2050.org/images/argo-labs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
 
 ---

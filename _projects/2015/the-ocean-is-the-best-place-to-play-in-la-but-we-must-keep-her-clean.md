@@ -251,7 +251,7 @@ How do you plan to scale the success of your proposal?: >-
   everywhere. We have more recent videos on Vimeo, but your application only
   seems to recognize YouTube.
 cached_project_image: >-
-  /assets/images/projects/2015/the-ocean-is-the-best-place-to-play-in-la-but-we-must-keep-her-clean/img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/the-ocean-is-the-best-place-to-play-in-la-but-we-must-keep-her-clean/img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg
 youtube_video_identifier: laadW_CUhSY
 organization_name: 'Los Angeles Underwater Explorers; Ghost Fishing '
 

@@ -165,7 +165,7 @@ Where do you hope this activation or your organization will be in five years?: >
   This, coupled with an online component for online participants to take part in
   local challenges, will extend our reach and impact. 
 cached_project_image: >-
-  /assets/images/projects/2018/produceathon-when-hackathon-meets-incentive-challenge-to-catalyze-social-change-in-72-hours/activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg
+  https://archive-assets.la2050.org/images/2018/produceathon-when-hackathon-meets-incentive-challenge-to-catalyze-social-change-in-72-hours/activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg
 organization_name: ProduceAthon
 
 ---

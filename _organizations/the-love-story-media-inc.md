@@ -41,6 +41,6 @@ calculated_project_ids:
   - '6102249'
   - '5102305'
 cached_project_image: >-
-  /assets/images/organizations/the-love-story-media-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
+  https://archive-assets.la2050.org/images/the-love-story-media-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
 
 ---

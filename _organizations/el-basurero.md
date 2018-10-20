@@ -39,6 +39,6 @@ calculated_project_ids:
 maker_image_file_name: 20150904_101442.jpg
 maker_image_id: '23242'
 cached_project_image: >-
-  /assets/images/organizations/el-basurero/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23242%252Fdisplay%252F20150904_101442.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/el-basurero/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23242%252Fdisplay%252F20150904_101442.jpg=c570x385.jpg
 
 ---

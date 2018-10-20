@@ -44,6 +44,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102045'
 cached_project_image: >-
-  /assets/images/organizations/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
+  https://archive-assets.la2050.org/images/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
 
 ---

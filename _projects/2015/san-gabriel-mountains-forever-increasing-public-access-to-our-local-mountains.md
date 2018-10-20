@@ -204,7 +204,7 @@ How do you plan to scale the success of your proposal?: >-
   with public officials through our role in the coalition to bring to life a
   permanent transit-to-trails program.
 cached_project_image: >-
-  /assets/images/projects/2015/san-gabriel-mountains-forever-increasing-public-access-to-our-local-mountains/img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/san-gabriel-mountains-forever-increasing-public-access-to-our-local-mountains/img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg
 youtube_video_identifier: SVzSpv8Dj74
 organization_name: The Council of Mexican Federations (COFEM)
 

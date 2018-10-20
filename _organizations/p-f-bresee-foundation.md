@@ -47,6 +47,6 @@ calculated_project_ids:
   - '3102219'
 youtube_video_identifier: yeyzmCpYfFk
 cached_project_image: >-
-  /assets/images/organizations/p-f-bresee-foundation/img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/p-f-bresee-foundation/img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
 
 ---

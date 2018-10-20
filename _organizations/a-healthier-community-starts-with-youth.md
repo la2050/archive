@@ -40,6 +40,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102004'
 cached_project_image: >-
-  /assets/images/organizations/a-healthier-community-starts-with-youth/activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
+  https://archive-assets.la2050.org/images/a-healthier-community-starts-with-youth/activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
 
 ---

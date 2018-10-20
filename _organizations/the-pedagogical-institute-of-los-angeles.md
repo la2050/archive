@@ -39,6 +39,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102253'
 cached_project_image: >-
-  /assets/images/organizations/the-pedagogical-institute-of-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
+  https://archive-assets.la2050.org/images/the-pedagogical-institute-of-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
 
 ---

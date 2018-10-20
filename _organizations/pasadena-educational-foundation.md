@@ -37,6 +37,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102175'
 cached_project_image: >-
-  /assets/images/organizations/pasadena-educational-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
+  https://archive-assets.la2050.org/images/pasadena-educational-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
 
 ---

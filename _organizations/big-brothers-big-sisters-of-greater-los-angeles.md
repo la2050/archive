@@ -50,6 +50,6 @@ calculated_project_ids:
   - '8102007'
   - '5102025'
 cached_project_image: >-
-  /assets/images/organizations/big-brothers-big-sisters-of-greater-los-angeles/activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
+  https://archive-assets.la2050.org/images/big-brothers-big-sisters-of-greater-los-angeles/activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
 
 ---

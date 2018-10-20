@@ -202,7 +202,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   grandchildren are fully integrated in all aspects of the city’s economic and
   social life. 
 cached_project_image: >-
-  /assets/images/projects/2013/dream-resource-center/img.youtube.com/vi/Yogg_bV8Dew/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/dream-resource-center/img.youtube.com/vi/Yogg_bV8Dew/maxresdefault.jpg
 youtube_video_identifier: Yogg_bV8Dew
 
 ---

@@ -199,7 +199,7 @@ Whom will your project benefit? Please be specific.: >-
    
    These collaborations resulted from a middle school teacher and environmental advocate contacting CRF based on the strength of our reputation for balanced, impactful curricula that teach students how to respectfully engage with peers, opponents, and policymakers to effectively advocate for the issues they care about. The results of this interdisciplinary initiative have the potential to make LA2050 not only one of the most civically engaged regions in the U.S., but also to help ensure that the next generation of environmental stewards are prepared to defend our LA coastline. The future health of our water and of the many different communities that depend on this unique ecosystem depends on the civic engagement skills CAP students develop today.
 cached_project_image: >-
-  /assets/images/projects/2014/practicing-good-cityzenship-todays-civic-action-project-builds-prosocial-connections-for-la2050/img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/practicing-good-cityzenship-todays-civic-action-project-builds-prosocial-connections-for-la2050/img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg
 youtube_video_identifier: I85PHrZjakM
 
 ---

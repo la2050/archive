@@ -178,7 +178,7 @@ Where do you hope this activation or your organization will be in five years?: >
   approaches to meet diversion goals in its updates to the City’s Sustainability
   Plan. 
 cached_project_image: >-
-  /assets/images/projects/2018/global-greens-creative-reuse-coalition/activation.la2050.org/assets/images/live/2048-wide/global-green.jpg
+  https://archive-assets.la2050.org/images/2018/global-greens-creative-reuse-coalition/activation.la2050.org/assets/images/live/2048-wide/global-green.jpg
 organization_name: Global Green
 
 ---

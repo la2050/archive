@@ -34,6 +34,6 @@ calculated_project_ids:
   - '3102100'
 youtube_video_identifier: lz8FDz2KN0s
 cached_project_image: >-
-  /assets/images/organizations/strivers-la-via-new-economy-campaigns/img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg
+  https://archive-assets.la2050.org/images/strivers-la-via-new-economy-campaigns/img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg
 
 ---

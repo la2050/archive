@@ -162,7 +162,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    These partnerships are long-standing and contribute to the success of our residential program. Three critical factors that have help ensure our successful collaboration is open communication on project status through reports and meetings, effective partnership agreements and mutual support on projects.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/creating-opportunities-for-physical-activity-copa-peer-coach-pe-program/img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/creating-opportunities-for-physical-activity-copa-peer-coach-pe-program/img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg
 youtube_video_identifier: S_0nE1f2B1w
 
 ---

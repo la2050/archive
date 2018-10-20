@@ -138,7 +138,7 @@ project_proposal_best_place: >-
   plans to enhance the river-business interface, enhance public health and
   safety, and improve river access.
 cached_project_image: >-
-  /assets/images/projects/2016/green-our-l-a-river/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/green-our-l-a-river/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
 organization_name: The River Project
 organization_website: TheRiverProject.org
 

@@ -308,7 +308,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   the youth of today will be raising the next generation of active citizens and
   imparting to them the new culture of participation. 
 cached_project_image: >-
-  /assets/images/projects/2013/la2050-youth-4c-leaders/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16740%252Fdisplay%252Fposter1.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/la2050-youth-4c-leaders/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16740%252Fdisplay%252Fposter1.jpg=c570x385.jpg
 maker_image_id: '16740'
 maker_image_file_name: poster1.jpg
 

@@ -45,6 +45,6 @@ calculated_project_ids:
   - '6102235'
   - '5102295'
 cached_project_image: >-
-  /assets/images/organizations/the-academy-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
+  https://archive-assets.la2050.org/images/the-academy-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
 
 ---

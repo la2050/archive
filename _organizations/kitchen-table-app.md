@@ -38,6 +38,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102057'
 cached_project_image: >-
-  /assets/images/organizations/kitchen-table-app/activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
+  https://archive-assets.la2050.org/images/kitchen-table-app/activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
 
 ---

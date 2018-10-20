@@ -49,6 +49,6 @@ calculated_project_ids:
   - '6102234'
   - '5102285'
 cached_project_image: >-
-  /assets/images/organizations/synaccord-llc/activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
+  https://archive-assets.la2050.org/images/synaccord-llc/activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
 
 ---

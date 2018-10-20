@@ -39,6 +39,6 @@ calculated_project_ids:
   - '4102019'
 youtube_video_identifier: q9wQFn0hPbk
 cached_project_image: >-
-  /assets/images/organizations/b-r-i-d-g-e-theatre-project-fiscal-sponsor-the-attic-theatre/img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg
+  https://archive-assets.la2050.org/images/b-r-i-d-g-e-theatre-project-fiscal-sponsor-the-attic-theatre/img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg
 
 ---

@@ -223,7 +223,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. A quarterly meeting where all teens participating gather to share the work they are doing. It will be important that we support all collaborators with troubleshooting assistance to meet their technology needs.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/envisionla-by-coding-and-design-with-minecraft/img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/envisionla-by-coding-and-design-with-minecraft/img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg
 youtube_video_identifier: g_OFCYLH7gw
 
 ---

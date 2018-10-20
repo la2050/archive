@@ -223,7 +223,7 @@ How do you plan to scale the success of your proposal?: >-
   I'll be honest I don't understand this question but would be more than willing
   to discuss with someone once I understand the question.
 cached_project_image: >-
-  /assets/images/projects/2015/w-a-r-the-battle-starts-with-you-we-are-ready-are-you/img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/w-a-r-the-battle-starts-with-you-we-are-ready-are-you/img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg
 youtube_video_identifier: t3QQPi2pnEU
 organization_name: 'After-School All-Stars, Los Angeles'
 

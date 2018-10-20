@@ -120,7 +120,7 @@ project_proposal_best_place: >-
   for women’s cancer, and providing prevention strategies for those at increased
   risk.
 cached_project_image: >-
-  /assets/images/projects/2016/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
+  https://archive-assets.la2050.org/images/2016/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
 organization_name: Lynne Cohen Foundation
 organization_website: lynnecohenfoundation.org
 

@@ -47,6 +47,6 @@ calculated_project_ids:
 maker_image_file_name: CIMG0246.jpg
 maker_image_id: '16625'
 cached_project_image: >-
-  /assets/images/organizations/api-equality-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/api-equality-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385.jpg
 
 ---

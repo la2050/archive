@@ -154,7 +154,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
-  /assets/images/projects/2015/fallen-fruit-from-rising-women-empowering-women-through-social-enterprise-and-food-justice/img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/fallen-fruit-from-rising-women-empowering-women-through-social-enterprise-and-food-justice/img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg
 youtube_video_identifier: Ht0-3dSjCew
 organization_name: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
 

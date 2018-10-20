@@ -217,7 +217,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Our goal is to reach 10,000 people in one year through event attendance and print, utilizing web and social medial to scale the impact across the web.
 cached_project_image: >-
-  /assets/images/projects/2015/creating-the-culture-of-entrepreneurship/img.youtube.com/vi/ENJ15Tkyiqw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/creating-the-culture-of-entrepreneurship/img.youtube.com/vi/ENJ15Tkyiqw/maxresdefault.jpg
 youtube_video_identifier: ENJ15Tkyiqw
 organization_name: 'Citizens Of Culture, '
 

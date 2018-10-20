@@ -227,7 +227,7 @@ How do you plan to scale the success of your proposal?: >-
   programs and if we grow enough we would open other locations in the LA area to
   incorporate these programs and more. The sky is the limit!
 cached_project_image: >-
-  /assets/images/projects/2015/have-fun-exercise-and-spend-quality-time-with-the-family-in-a-safe-and-clean-environment/img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/have-fun-exercise-and-spend-quality-time-with-the-family-in-a-safe-and-clean-environment/img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg
 youtube_video_identifier: JrkPrBnN4UI
 organization_name: Adventure Playhouse Indoor Activity Center
 

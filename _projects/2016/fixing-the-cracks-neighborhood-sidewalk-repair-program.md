@@ -112,7 +112,7 @@ project_proposal_best_place: >-
   active and empowered civic leaders with the tools necessary to affect local
   change.
 cached_project_image: >-
-  /assets/images/projects/2016/fixing-the-cracks-neighborhood-sidewalk-repair-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/fixing-the-cracks-neighborhood-sidewalk-repair-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
 organization_name: Los Angeles Neighborhood Initiative (LANI)
 organization_website: www.lani.org
 

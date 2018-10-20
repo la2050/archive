@@ -237,7 +237,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   discourse and cooperation promotes a higher quality of life and engaging of
   mind for all members of a society. 
 cached_project_image: >-
-  /assets/images/projects/2013/human-resources-l-a-artist-residency-program/img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/human-resources-l-a-artist-residency-program/img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg
 youtube_video_identifier: BSvlFmSuKyw
 
 ---

@@ -142,7 +142,7 @@ Whom will your project benefit? Please be specific.: >-
    
    These have not bee secured but we are in the process now of getting them.
 cached_project_image: >-
-  /assets/images/projects/2014/spreading-chapcares-retail-health-insurance-enrollment-shop-model/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21436%252Fdisplay%252FMarch_31_2014_at_5pm.jpeg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/spreading-chapcares-retail-health-insurance-enrollment-shop-model/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21436%252Fdisplay%252FMarch_31_2014_at_5pm.jpeg=c570x385.jpg
 maker_image_id: '21436'
 maker_image_file_name: March_31_2014_at_5pm.jpeg
 

@@ -99,7 +99,7 @@ How will your activation engage Angelenos to make LA the best place: "We Are Eno
 Please explain how you will define and measure success for your activation.: "We will inspire women (and girls) to commit a percentage of whatever amount of capital they choose - savings, 401K, shoe/purse budget, lunch money, etc over a multi-year period. We will track their commitments and create a great sharing platform to engage colleagues, friends and families. \r\n\r\nThis will be measured in real time on the WAE site. Women will go to the site and enter their pledge. We will also encourage woke men to tell their daughters, sisters, mothers, wives to do the same."
 Where do you hope this activation or your organization will be in five years?: "We actually hope that We Are Enough will not be needed in 5 years. We hope by launching the campaign that we change the mindset of all women and they know their economic power.. and our job is done!\r\n"
 cached_project_image: >-
-  /assets/images/projects/2018/we-are-enough-women-investing-in-women-the-way-to-change-the-world/activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
+  https://archive-assets.la2050.org/images/2018/we-are-enough-women-investing-in-women-the-way-to-change-the-world/activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 organization_name: We Are Enough c/o Social & Environmental Entrepreneurs
 
 ---

@@ -152,7 +152,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   identified yet.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/a-physical-space-for-the-wccw/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20805%252Fdisplay%252F1525354_1412741148965740_1670155225_n.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/a-physical-space-for-the-wccw/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20805%252Fdisplay%252F1525354_1412741148965740_1670155225_n.jpg=c570x385.jpg
 maker_image_id: '20805'
 maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
 

@@ -275,7 +275,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   invest in their futures through things like citizenship, homeownership, and
   their children’s education.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/building-on-las-social-capital/img.youtube.com/vi/AXqYX0rfbys/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/building-on-las-social-capital/img.youtube.com/vi/AXqYX0rfbys/maxresdefault.jpg
 youtube_video_identifier: AXqYX0rfbys
 
 ---

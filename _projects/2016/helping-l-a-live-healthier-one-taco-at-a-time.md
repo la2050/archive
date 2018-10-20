@@ -151,7 +151,7 @@ project_proposal_best_place: >-
   between families building stronger families better communities a better Los
   Angeles.
 cached_project_image: >-
-  /assets/images/projects/2016/helping-l-a-live-healthier-one-taco-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/helping-l-a-live-healthier-one-taco-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
 organization_name: Dear Mama
 organization_website: dearmamala.wixsite.com/dearmama
 

@@ -44,6 +44,6 @@ calculated_project_ids:
   - '4102247'
 youtube_video_identifier: NNetdspYB4M
 cached_project_image: >-
-  /assets/images/organizations/the-center-of-medical-multimedia-education-and-technology-commet/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/the-center-of-medical-multimedia-education-and-technology-commet/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg
 
 ---

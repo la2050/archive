@@ -46,6 +46,6 @@ calculated_project_ids:
   - '3102085'
 youtube_video_identifier: 8RfGcPRl--8
 cached_project_image: >-
-  /assets/images/organizations/communities-in-schools-of-los-angeles/img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/communities-in-schools-of-los-angeles/img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg
 
 ---

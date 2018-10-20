@@ -326,7 +326,7 @@ How do you plan to scale the success of your proposal?: |-
    Decrease unemployment rates after 24 months foster youth age of out the system
    Qualitative measures in foster youth behavior and service program outcomes.
 cached_project_image: >-
-  /assets/images/projects/2015/living-advantage-connecting-foster-youth-in-la-to-a-sustainable-future-identity-equals-opportunity/img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/living-advantage-connecting-foster-youth-in-la-to-a-sustainable-future-identity-equals-opportunity/img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg
 youtube_video_identifier: 1_UXQ2fFeSU
 organization_name: 'Living Advantage, Inc.'
 

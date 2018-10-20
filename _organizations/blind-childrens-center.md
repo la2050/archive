@@ -43,6 +43,6 @@ calculated_project_ids:
   - '5102030'
 youtube_video_identifier: z__BDhvkp9Q
 cached_project_image: >-
-  /assets/images/organizations/blind-childrens-center/img.youtube.com/vi/z__BDhvkp9Q/hqdefault.jpg
+  https://archive-assets.la2050.org/images/blind-childrens-center/img.youtube.com/vi/z__BDhvkp9Q/hqdefault.jpg
 
 ---

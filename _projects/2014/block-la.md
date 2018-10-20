@@ -175,7 +175,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Three factors that are critical to the success of these partnerships are (1) setting clear agreements and expectations in writing at the beginning of the partnership, (2) keeping channels of communication open and transparent throughout the project so that everyone is on the same page, and (3) debriefing at the end of the project so that we can determine ways to work together even better in future.
 cached_project_image: >-
-  /assets/images/projects/2014/block-la/img.youtube.com/vi/ZVtljIILth8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/block-la/img.youtube.com/vi/ZVtljIILth8/maxresdefault.jpg
 youtube_video_identifier: ZVtljIILth8
 
 ---

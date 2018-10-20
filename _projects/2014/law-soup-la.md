@@ -182,7 +182,7 @@ Whom will your project benefit? Please be specific.: >-
   promoting access to justice and providing accurate, useful legal information
   to the public.
 cached_project_image: >-
-  /assets/images/projects/2014/law-soup-la/img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/law-soup-la/img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg
 youtube_video_identifier: DRehRt5n68c
 
 ---

@@ -51,6 +51,6 @@ calculated_project_ids:
   - '5102319'
   - '4102235'
 cached_project_image: >-
-  /assets/images/organizations/tickleberry-place/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
+  https://archive-assets.la2050.org/images/tickleberry-place/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
 
 ---

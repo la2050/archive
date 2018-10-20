@@ -37,6 +37,6 @@ calculated_project_ids:
   - '4102078'
 youtube_video_identifier: _BC4Wfw6Gb4
 cached_project_image: >-
-  /assets/images/organizations/friends-of-the-visiontheater/img.youtube.com/vi/_BC4Wfw6Gb4/hqdefault.jpg
+  https://archive-assets.la2050.org/images/friends-of-the-visiontheater/img.youtube.com/vi/_BC4Wfw6Gb4/hqdefault.jpg
 
 ---

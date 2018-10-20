@@ -37,6 +37,6 @@ calculated_project_ids:
   - '5102248'
 youtube_video_identifier: a-kQryxgF4M
 cached_project_image: >-
-  /assets/images/organizations/re-ciclos-and-bicycle-kitchen/img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg
+  https://archive-assets.la2050.org/images/re-ciclos-and-bicycle-kitchen/img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg
 
 ---

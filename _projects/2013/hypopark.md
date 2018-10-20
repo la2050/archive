@@ -298,7 +298,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   </p>3. The ability to attract other prospective private sponsors and
   “adopting” agencies.<p>
 cached_project_image: >-
-  /assets/images/projects/2013/hypopark/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16612%252Fdisplay%252FHYPOPARK.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/hypopark/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16612%252Fdisplay%252FHYPOPARK.jpg=c570x385.jpg
 maker_image_id: '16612'
 maker_image_file_name: HYPOPARK.jpg
 

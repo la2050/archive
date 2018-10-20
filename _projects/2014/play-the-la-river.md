@@ -184,7 +184,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    -Other collaborators & champions include: UCLA, UC Riverside, Friends of the LA River (FoLAR), River Wild, Boom: A Journal of California, and the EPA-led Urban Waters Federal Partnership.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/play-the-la-river/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21550%252Fdisplay%252FPlaytheLARiver_LA2050_ImageCropped.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/play-the-la-river/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21550%252Fdisplay%252FPlaytheLARiver_LA2050_ImageCropped.jpg=c570x385.jpg
 maker_image_id: '21550'
 maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
 

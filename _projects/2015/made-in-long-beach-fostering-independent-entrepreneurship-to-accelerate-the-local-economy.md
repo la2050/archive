@@ -300,7 +300,7 @@ How do you plan to scale the success of your proposal?: |-
    
    Because these models are based on amount of product and fees, they are scalable for the growth of clients that we receive. Moreover, we do make revenue by renting out facility space for events, for which we charge 50%.
 cached_project_image: >-
-  /assets/images/projects/2015/made-in-long-beach-fostering-independent-entrepreneurship-to-accelerate-the-local-economy/img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/made-in-long-beach-fostering-independent-entrepreneurship-to-accelerate-the-local-economy/img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg
 youtube_video_identifier: TNz5Q0G-KAs
 organization_name: Localism Inc.
 

@@ -54,6 +54,6 @@ calculated_project_ids:
   - '5102298'
   - '4102209'
 cached_project_image: >-
-  /assets/images/organizations/the-childrens-lifesaving-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
+  https://archive-assets.la2050.org/images/the-childrens-lifesaving-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 
 ---

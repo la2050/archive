@@ -297,7 +297,7 @@ How do you plan to scale the success of your proposal?: >-
    
    By tracking how many Metro LAACE Art Discount Cards have been purchased, we will be able to assess the popularity of the card itself and also how it is being used.
 cached_project_image: >-
-  /assets/images/projects/2015/connecting-to-los-angeles-arts-culture-entertainment/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23739%252Fdisplay%252FLAACE.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/connecting-to-los-angeles-arts-culture-entertainment/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23739%252Fdisplay%252FLAACE.jpg=c570x385.jpg
 maker_image_id: '23739'
 maker_image_file_name: LAACE.jpg
 organization_name: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance

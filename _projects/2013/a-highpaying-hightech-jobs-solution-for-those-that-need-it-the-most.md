@@ -367,7 +367,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   raises the standard of living across the board. This is reflected in the
   lowest unemployment and poverty rates in the nation.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/a-highpaying-hightech-jobs-solution-for-those-that-need-it-the-most/img.youtube.com/vi/WHRUHsrXiYc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/a-highpaying-hightech-jobs-solution-for-those-that-need-it-the-most/img.youtube.com/vi/WHRUHsrXiYc/maxresdefault.jpg
 youtube_video_identifier: WHRUHsrXiYc
 
 ---

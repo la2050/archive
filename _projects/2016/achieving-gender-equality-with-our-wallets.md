@@ -123,7 +123,7 @@ project_proposal_best_place: >-
   businesses thrive. We will become the trusted source of information on our
   great city’s women-owned business community.
 cached_project_image: >-
-  /assets/images/projects/2016/achieving-gender-equality-with-our-wallets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371696026741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/achieving-gender-equality-with-our-wallets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371696026741-team91.jpg
 organization_name: Equallet
 organization_website: www.equallet.com
 

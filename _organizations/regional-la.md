@@ -36,6 +36,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102102'
 cached_project_image: >-
-  /assets/images/organizations/regional-la/activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg
+  https://archive-assets.la2050.org/images/regional-la/activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg
 
 ---

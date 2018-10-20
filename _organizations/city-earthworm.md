@@ -52,6 +52,6 @@ calculated_project_ids:
 maker_image_file_name: LA2050.jpg
 maker_image_id: '16537'
 cached_project_image: >-
-  /assets/images/organizations/city-earthworm/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16537%252Fdisplay%252FLA2050.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/city-earthworm/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16537%252Fdisplay%252FLA2050.jpg=c570x385.jpg
 
 ---

@@ -163,7 +163,7 @@ How will your project benefit Los Angeles? Please be specific.: >+
 
 What would success look like in the year 2050 regarding your indicator?: "<p>As a result of an investment in the Early Detection Counts campaign there will be a change in the course of the Alzheimer’s epidemic in Los Angeles County. Our vision is a community in which:</p>\n\n\n<p>*\tIndividuals with cognitive impairment will be screened and if appropriate, sent for a diagnostic workup.</p>\n\n\n<p>*\tAll diagnosed people with a dementing disease will have access to treatment for the disease and high quality management of comorbid illnesses.</p>\n\n\n<p>*\tPeople living with dementia and their families will be connected to community services for support, disease education, and care planning to optimize their lives.</p>\n\n\n<p>*\tPeople living with dementia will receive appropriate communitybased care and not receive inappropriate institutional care in hospitals or nursing homes.</p>\n\n\n<p>*\tMediCal dollars will be preserved rather than squandered inappropriately.</p>\n\n\n"
 cached_project_image: >-
-  /assets/images/projects/2013/changing-the-course-of-the-alzheimers-epidemic-in-l-a-county-early-detection-counts-campaign/img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/changing-the-course-of-the-alzheimers-epidemic-in-l-a-county-early-detection-counts-campaign/img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg
 youtube_video_identifier: DVIx37igPg0
 
 ---

@@ -250,7 +250,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Plug In South LA will catalyze the growth of its member companies and startups with its mentorship program and connections to venture capital. As Plug In South LA members become successful and hire more employees they will move out to larger dedicated office spaces in the surrounding community increasing economic activity. After proving to be a successful business model for generating and growing businesses Plug In will seek to open more co-working locations branching out to the South and East.
 cached_project_image: >-
-  /assets/images/projects/2015/plug-in-south-la/img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/plug-in-south-la/img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg
 youtube_video_identifier: qooMUYecd1s
 organization_name: Plug In South LA
 

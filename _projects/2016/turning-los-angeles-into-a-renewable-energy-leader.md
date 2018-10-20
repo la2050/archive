@@ -92,7 +92,7 @@ project_proposal_best_place: >-
   fires, sea-level rise and acidifying oceans to make a bold commitment and lead
   on the 100% renewable energy future our city deserves.
 cached_project_image: >-
-  /assets/images/projects/2016/turning-los-angeles-into-a-renewable-energy-leader/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
+  https://archive-assets.la2050.org/images/2016/turning-los-angeles-into-a-renewable-energy-leader/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 organization_name: Food & Water Watch
 organization_website: foodandwaterwatch.org
 

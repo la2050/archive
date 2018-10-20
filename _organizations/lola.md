@@ -34,6 +34,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102069'
 cached_project_image: >-
-  /assets/images/organizations/lola/activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
+  https://archive-assets.la2050.org/images/lola/activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
 
 ---

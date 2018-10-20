@@ -46,6 +46,6 @@ calculated_project_ids:
   - '4102007'
 youtube_video_identifier: W6D_g6EB-QY
 cached_project_image: >-
-  /assets/images/organizations/ambulante/img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/ambulante/img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg
 
 ---

@@ -35,6 +35,6 @@ calculated_project_ids:
   - '4102254'
 youtube_video_identifier: FKuY_bTZzoM
 cached_project_image: >-
-  /assets/images/organizations/western-justice-center-wjc/img.youtube.com/vi/FKuY_bTZzoM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/western-justice-center-wjc/img.youtube.com/vi/FKuY_bTZzoM/maxresdefault.jpg
 
 ---

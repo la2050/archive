@@ -74,6 +74,6 @@ calculated_project_ids:
 maker_image_file_name: bikes.jpg
 maker_image_id: '16457'
 cached_project_image: >-
-  /assets/images/organizations/design-east-of-la-brea/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16457%252Fdisplay%252Fbikes.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/design-east-of-la-brea/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16457%252Fdisplay%252Fbikes.jpg=c570x385.jpg
 
 ---

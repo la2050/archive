@@ -43,6 +43,6 @@ calculated_project_ids:
 maker_image_file_name: Web_New_Com.jpg
 maker_image_id: '23179'
 cached_project_image: >-
-  /assets/images/organizations/keith-a-somers-international-foundation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23179%252Fdisplay%252FWeb_New_Com.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/keith-a-somers-international-foundation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23179%252Fdisplay%252FWeb_New_Com.jpg=c570x385.jpg
 
 ---

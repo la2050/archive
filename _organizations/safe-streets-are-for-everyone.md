@@ -39,6 +39,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102202'
 cached_project_image: >-
-  /assets/images/organizations/safe-streets-are-for-everyone/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
+  https://archive-assets.la2050.org/images/safe-streets-are-for-everyone/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
 
 ---

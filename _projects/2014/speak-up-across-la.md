@@ -179,7 +179,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Once funded we will also partner with civic leaders in our target communities along with local neighborhood councils and the elected council members in that district. We know that by partnering with elected leaders in local, city and state levels we can create conversations both at the community and policy levels to really affect change and give an avenue for the students solutions and voice.
 cached_project_image: >-
-  /assets/images/projects/2014/speak-up-across-la/img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/speak-up-across-la/img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg
 youtube_video_identifier: poREvQfFFL4
 
 ---

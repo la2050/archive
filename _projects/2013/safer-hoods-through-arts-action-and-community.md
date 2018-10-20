@@ -179,7 +179,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   residents played to reclaim their public spaces, get organized, and advance
   transformative change one neighborhood at a time.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/safer-hoods-through-arts-action-and-community/img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/safer-hoods-through-arts-action-and-community/img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg
 youtube_video_identifier: 8O5p-fqguRo
 
 ---

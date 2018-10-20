@@ -120,7 +120,7 @@ project_proposal_best_place: >-
   stakeholders who will ensure that the Bowtie remains in the public trust, as a
   place for all Angelenos to play now and in the future.
 cached_project_image: >-
-  /assets/images/projects/2016/laying-the-groundwork-for-a-park-on-the-la-river/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/laying-the-groundwork-for-a-park-on-the-la-river/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
 organization_name: Clockshop & California State Parks
 organization_website: clockshop.org
 

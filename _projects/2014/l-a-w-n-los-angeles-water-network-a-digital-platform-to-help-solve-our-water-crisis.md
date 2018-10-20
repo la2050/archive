@@ -173,7 +173,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    It should be understood that both the Metabolic Studio and the Harrison Studio see this work as a new urban narrative. They note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that they wish to put in place is replicable as cities realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/l-a-w-n-los-angeles-water-network-a-digital-platform-to-help-solve-our-water-crisis/img.youtube.com/vi/2qWrLJakj5M/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/l-a-w-n-los-angeles-water-network-a-digital-platform-to-help-solve-our-water-crisis/img.youtube.com/vi/2qWrLJakj5M/hqdefault.jpg
 youtube_video_identifier: 2qWrLJakj5M
 
 ---

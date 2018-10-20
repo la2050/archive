@@ -182,7 +182,7 @@ How do you plan to scale the success of your proposal?: >-
    In addition, we will continue our outreach to local schools, partnering with them to do fundraisers and such, both small scale and at the large sports events. 
    Eventually, we would work to make all of LA more and more interactive.
 cached_project_image: >-
-  /assets/images/projects/2015/colossi-crowd-gaming/img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/colossi-crowd-gaming/img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg
 youtube_video_identifier: CAz_mkuDRno
 organization_name: Colossi
 

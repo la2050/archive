@@ -49,6 +49,6 @@ calculated_project_ids:
   - '5102182'
   - '3102182'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-alliance-for-a-new-economy-fair-workweek/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
+  https://archive-assets.la2050.org/images/los-angeles-alliance-for-a-new-economy-fair-workweek/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 
 ---

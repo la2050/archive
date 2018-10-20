@@ -43,6 +43,6 @@ calculated_project_ids:
   - '6102046'
   - '4102041'
 cached_project_image: >-
-  /assets/images/organizations/college-bridge/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
+  https://archive-assets.la2050.org/images/college-bridge/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
 
 ---

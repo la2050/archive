@@ -37,6 +37,6 @@ calculated_project_ids:
   - '4102214'
 youtube_video_identifier: dCvzeDvQtLY
 cached_project_image: >-
-  /assets/images/organizations/the-human-element-project/img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg
+  https://archive-assets.la2050.org/images/the-human-element-project/img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg
 
 ---

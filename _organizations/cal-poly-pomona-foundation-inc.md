@@ -39,6 +39,6 @@ calculated_project_ids:
   - '3102047'
 youtube_video_identifier: 0fH09h-Rx9o
 cached_project_image: >-
-  /assets/images/organizations/cal-poly-pomona-foundation-inc/img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg
+  https://archive-assets.la2050.org/images/cal-poly-pomona-foundation-inc/img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg
 
 ---

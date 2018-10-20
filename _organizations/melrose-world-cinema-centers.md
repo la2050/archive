@@ -38,6 +38,6 @@ calculated_project_ids:
 maker_image_file_name: OWW_logo_and_logline.jpg
 maker_image_id: '23763'
 cached_project_image: >-
-  /assets/images/organizations/melrose-world-cinema-centers/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23763%252Fdisplay%252FOWW_logo_and_logline.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/melrose-world-cinema-centers/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23763%252Fdisplay%252FOWW_logo_and_logline.jpg=c570x385.jpg
 
 ---

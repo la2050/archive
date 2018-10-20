@@ -168,7 +168,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    CFY also works closely with other leaders in the digital learning and educational technology space. We were a member of the Los Angeles Next Generation Learning Systems collaboration that submitted a proposal to the Gates Foundation to scale personalized learning district-wide. Members of the team included LAUSD, KIPP LA, and the Partnership for Los Angeles Schools. CFY has also partnered with Alliance College-Ready Public Schools to provide a portion of their blended learning professional development during their summer institute for teachers.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/transforming-school-communities-through-digital-learning/img.youtube.com/vi/HIVY5tBE450/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/transforming-school-communities-through-digital-learning/img.youtube.com/vi/HIVY5tBE450/hqdefault.jpg
 youtube_video_identifier: HIVY5tBE450
 
 ---

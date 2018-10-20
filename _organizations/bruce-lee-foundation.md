@@ -37,6 +37,6 @@ calculated_project_ids:
   - '5102036'
 youtube_video_identifier: YufCYg-BYaY
 cached_project_image: >-
-  /assets/images/organizations/bruce-lee-foundation/img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/bruce-lee-foundation/img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg
 
 ---

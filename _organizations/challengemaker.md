@@ -37,6 +37,6 @@ calculated_project_ids:
 maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
 maker_image_id: '24048'
 cached_project_image: >-
-  /assets/images/organizations/challengemaker/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24048%252Fdisplay%252FChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png=c570x385.png
+  https://archive-assets.la2050.org/images/challengemaker/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24048%252Fdisplay%252FChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png=c570x385.png
 
 ---

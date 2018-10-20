@@ -393,7 +393,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/dakat-house-a-public-housing-project-for-musicians/img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/dakat-house-a-public-housing-project-for-musicians/img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg
 youtube_video_identifier: ZErt5IiuEPA
 
 ---

@@ -236,7 +236,7 @@ How do you plan to scale the success of your proposal?: >-
   from growing California native plants for drought-stricken California gardens
   to value-add food products such as craft coleslaw and sauces.
 cached_project_image: >-
-  /assets/images/projects/2015/launching-growgoods-social-enterprise-business/img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/launching-growgoods-social-enterprise-business/img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg
 youtube_video_identifier: zqrk27Md2Bo
 organization_name: 'GrowGood, Inc. '
 

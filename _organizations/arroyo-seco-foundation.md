@@ -38,6 +38,6 @@ calculated_project_ids:
   - '5102020'
 youtube_video_identifier: ffK1mzyzUPE
 cached_project_image: >-
-  /assets/images/organizations/arroyo-seco-foundation/img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/arroyo-seco-foundation/img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg
 
 ---

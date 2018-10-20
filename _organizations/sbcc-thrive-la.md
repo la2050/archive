@@ -43,6 +43,6 @@ calculated_project_ids:
   - '4102186'
 youtube_video_identifier: Hey6DKTLdw8
 cached_project_image: >-
-  /assets/images/organizations/sbcc-thrive-la/img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg
+  https://archive-assets.la2050.org/images/sbcc-thrive-la/img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg
 
 ---

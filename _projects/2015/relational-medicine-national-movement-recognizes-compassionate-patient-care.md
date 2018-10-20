@@ -372,7 +372,7 @@ How do you plan to scale the success of your proposal?: >-
   create knowledge gaps in medical encounters, and create a humanistically more
   powerful framework for high-tech modern medicine.
 cached_project_image: >-
-  /assets/images/projects/2015/relational-medicine-national-movement-recognizes-compassionate-patient-care/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24159%252Fdisplay%252FHeart_mid.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/relational-medicine-national-movement-recognizes-compassionate-patient-care/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24159%252Fdisplay%252FHeart_mid.jpg=c570x385.jpg
 maker_image_id: '24159'
 maker_image_file_name: Heart_mid.jpg
 organization_name: Relational Medicine Foundation

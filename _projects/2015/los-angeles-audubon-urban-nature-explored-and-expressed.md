@@ -339,7 +339,7 @@ How do you plan to scale the success of your proposal?: >-
    * spark new environmental thinking, research and action through student-led community events 
    * collaborate with partners to develop creative ways to spread the importance of conserving nature in LA
 cached_project_image: >-
-  /assets/images/projects/2015/los-angeles-audubon-urban-nature-explored-and-expressed/img.youtube.com/vi/gxmDmbwknC0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/los-angeles-audubon-urban-nature-explored-and-expressed/img.youtube.com/vi/gxmDmbwknC0/maxresdefault.jpg
 youtube_video_identifier: gxmDmbwknC0
 organization_name: Los Angeles Audubon Society
 

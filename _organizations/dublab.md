@@ -45,6 +45,6 @@ calculated_project_ids:
   - '3102115'
 youtube_video_identifier: xXMkk_S-UnU
 cached_project_image: >-
-  /assets/images/organizations/dublab/img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/dublab/img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg
 
 ---

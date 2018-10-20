@@ -50,6 +50,6 @@ calculated_project_ids:
   - '6102119'
   - '5102164'
 cached_project_image: >-
-  /assets/images/organizations/la-compost/activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg
+  https://archive-assets.la2050.org/images/la-compost/activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg
 
 ---

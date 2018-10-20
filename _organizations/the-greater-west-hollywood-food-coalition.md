@@ -64,6 +64,6 @@ calculated_project_ids:
   - '3102248'
 youtube_video_identifier: vZOFIeiYKwA
 cached_project_image: >-
-  /assets/images/organizations/the-greater-west-hollywood-food-coalition/img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/the-greater-west-hollywood-food-coalition/img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg
 
 ---

@@ -129,7 +129,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   day. People would know they were in a system that was watching out for them
   and rooting for them.
 cached_project_image: >-
-  /assets/images/projects/2013/sister-blocks/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/2013/sister-blocks/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16057'
 maker_image_file_name: mcmenyellowandwhite_final.jpg
 

@@ -224,7 +224,7 @@ How do you plan to scale the success of your proposal?: >-
    
    In addition, throughout the LA2050 grant year, FHCP will document each step of the Design Competition, including challenges and best practices. This information will be available to other groups interested in deck parks, including the other four currently proposed in LA County. Our hope is that other deck parks can learn from FHCP’s Design Competition and the subsequent steps needed to build the park. Our focus on finding a design created by Angelenos for Angelenos can be replicated within LA, as well as for other cities considering deck parks. Local design will help ensure each future Park is built to meet the needs and context of the neighborhoods surrounding the Park.
 cached_project_image: >-
-  /assets/images/projects/2015/hollywood-central-park-proves-that-la-is-the-best-place-to-play/img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/hollywood-central-park-proves-that-la-is-the-best-place-to-play/img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg
 youtube_video_identifier: t_fQo1Z6VSg
 organization_name: Friends of the Hollywood Central Park (FHCP)
 

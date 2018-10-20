@@ -37,6 +37,6 @@ calculated_project_ids:
   - '5102106'
 youtube_video_identifier: t_fQo1Z6VSg
 cached_project_image: >-
-  /assets/images/organizations/friends-of-the-hollywood-central-park-fhcp/img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/friends-of-the-hollywood-central-park-fhcp/img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg
 
 ---

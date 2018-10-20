@@ -306,7 +306,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Having began at a single elementary school in 1999, today, Reading Partners is in 13 regions across the United States, directly serving more than 9,200 students in 180 schools with the support of more than 15,000 volunteers. By building on our current successes, we aspire to dramatically expand our impact, and ultimately have a positive effect on reading proficiency nationwide. At Reading Partners, we believe that literacy unlocks opportunity, and every child deserves to learn this fundamental skill that affords them the opportunity to comprehend, engage, and change the world around them. We look forward to advancing this critical work both here at home in Los Angeles and beyond.
 cached_project_image: >-
-  /assets/images/projects/2015/reading-partners-la-the-path-to-fourth-grade-reading-proficiency-for-1000-children/img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/reading-partners-la-the-path-to-fourth-grade-reading-proficiency-for-1000-children/img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg
 youtube_video_identifier: sKN2PQLjrps
 organization_name: Reading Partners
 
