@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102340'
 youtube_video_identifier: f_x1AGOuR7A
 cached_project_image: >-
   /assets/images/organizations/westcal-academy/img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg

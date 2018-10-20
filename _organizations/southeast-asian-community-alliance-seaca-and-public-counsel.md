@@ -36,6 +36,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102275'
+  - '4102195'
 youtube_video_identifier: fMyc7c0Ylc4
 cached_project_image: >-
   /assets/images/organizations/southeast-asian-community-alliance-seaca-and-public-counsel/img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg

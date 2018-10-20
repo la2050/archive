@@ -43,6 +43,10 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102335'
+  - '5102063'
+  - '3102266'
 maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
 maker_image_id: '23743'
 cached_project_image: >-

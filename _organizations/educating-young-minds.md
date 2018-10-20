@@ -81,6 +81,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102118'
 maker_image_file_name: eym_apple.JPG
 maker_image_id: '16514'
 cached_project_image: >-

@@ -62,6 +62,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102224'
 youtube_video_identifier: jGa5KEowRPM
 cached_project_image: >-
   /assets/images/organizations/pullias-center-for-higher-education/img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg

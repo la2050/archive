@@ -30,6 +30,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102221'
 maker_image_file_name: AquariumPacific.jpg
 maker_image_id: '22849'
 cached_project_image: >-

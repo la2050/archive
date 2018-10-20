@@ -35,6 +35,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102127'
 youtube_video_identifier: wGHuWyQEQIU
 cached_project_image: >-
   /assets/images/organizations/haunted-play-llc/img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg

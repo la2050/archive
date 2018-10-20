@@ -46,6 +46,11 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102135'
+  - '4102090'
+  - '3102148'
+  - '3102073'
 youtube_video_identifier: 7VGCk_c0VcU
 cached_project_image: >-
   /assets/images/organizations/hollywood-heart/img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg

@@ -48,6 +48,10 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102095'
+  - '6102181'
+  - '5102232'
 cached_project_image: >-
   /assets/images/organizations/people-for-parks/activation.la2050.org/assets/images/play/2048-wide/people-for-parks.jpg
 

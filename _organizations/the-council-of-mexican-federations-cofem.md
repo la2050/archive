@@ -35,6 +35,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102299'
 youtube_video_identifier: SVzSpv8Dj74
 cached_project_image: >-
   /assets/images/organizations/the-council-of-mexican-federations-cofem/img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg

@@ -47,6 +47,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102141'
 maker_image_file_name: Debris_3.JPG
 maker_image_id: '16238'
 cached_project_image: >-

@@ -40,6 +40,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102083'
 maker_image_file_name: Diva_Mob_with_logo.jpeg
 maker_image_id: '17034'
 cached_project_image: >-

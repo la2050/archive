@@ -29,6 +29,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102217'
+  - '3102186'
 youtube_video_identifier: tgVu1wy15RQ
 cached_project_image: >-
   /assets/images/organizations/the-los-angeles-forum-for-architecture-and-urban-design/img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg

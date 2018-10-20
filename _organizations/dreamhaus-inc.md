@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102085'
 youtube_video_identifier: yy9nnTHABlE
 cached_project_image: >-
   /assets/images/organizations/dreamhaus-inc/img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg

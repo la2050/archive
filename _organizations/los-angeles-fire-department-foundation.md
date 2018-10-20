@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102188'
 youtube_video_identifier: lilCVZW2Ggk
 cached_project_image: >-
   /assets/images/organizations/los-angeles-fire-department-foundation/img.youtube.com/vi/lilCVZW2Ggk/hqdefault.jpg

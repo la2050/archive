@@ -33,6 +33,8 @@ aggregated:
     - '2014'
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102144'
 youtube_video_identifier: zs2Oe9X1llQ
 cached_project_image: >-
   /assets/images/organizations/home-community-inc/img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg

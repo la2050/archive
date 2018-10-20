@@ -60,6 +60,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102059'
 youtube_video_identifier: d166fbxFWas
 cached_project_image: >-
   /assets/images/organizations/children-mending-hearts/img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg

@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102081'
 youtube_video_identifier: CMmY955jD5A
 cached_project_image: >-
   /assets/images/organizations/general-assembly-opportunity-fund/img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg

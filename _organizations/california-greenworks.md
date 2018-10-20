@@ -68,6 +68,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102050'
 maker_image_file_name: Leroy.JPG
 maker_image_id: '17141'
 cached_project_image: >-

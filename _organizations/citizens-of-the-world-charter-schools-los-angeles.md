@@ -42,6 +42,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102037'
+  - '5102057'
 cached_project_image: >-
   /assets/images/organizations/citizens-of-the-world-charter-schools-los-angeles/www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg
 

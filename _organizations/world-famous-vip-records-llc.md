@@ -35,6 +35,8 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102138'
 cached_project_image: >-
   /assets/images/organizations/world-famous-vip-records-llc/activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
 

@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102256'
 youtube_video_identifier: GzEz6Q-9lWQ
 cached_project_image: >-
   /assets/images/organizations/will-company/img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg

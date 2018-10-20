@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102023'
 maker_image_file_name: Proposed_Space_for_Venice_Arts_Commons.jpg
 maker_image_id: '22565'
 cached_project_image: >-

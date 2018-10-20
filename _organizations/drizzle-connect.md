@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102124'
 cached_project_image: >-
   /assets/images/organizations/drizzle-connect/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 

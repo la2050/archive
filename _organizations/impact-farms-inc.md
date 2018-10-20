@@ -46,6 +46,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102057'
 maker_image_file_name: Logo_Color_Large2.png
 maker_image_id: '16812'
 cached_project_image: >-

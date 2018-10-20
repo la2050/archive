@@ -27,6 +27,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102175'
 maker_image_file_name: SCI-Arc-HFH_FINAL.jpg
 maker_image_id: '21961'
 cached_project_image: >-

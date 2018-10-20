@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102228'
 youtube_video_identifier: KofWk5qh3jE
 cached_project_image: >-
   /assets/images/organizations/the-project-for-the-imagined-futures/img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg

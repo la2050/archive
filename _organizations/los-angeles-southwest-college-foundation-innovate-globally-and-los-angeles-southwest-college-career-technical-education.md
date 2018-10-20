@@ -38,6 +38,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102196'
 maker_image_file_name: codetechiq.jpg
 maker_image_id: '24010'
 cached_project_image: >-

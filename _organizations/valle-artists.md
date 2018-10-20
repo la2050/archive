@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102270'
 youtube_video_identifier: rksqpbf13eo
 cached_project_image: >-
   /assets/images/organizations/valle-artists/img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg

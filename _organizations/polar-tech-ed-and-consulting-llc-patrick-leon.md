@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102240'
 maker_image_file_name: vidaenequilibrio.png
 maker_image_id: '23673'
 cached_project_image: >-

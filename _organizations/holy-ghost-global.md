@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102091'
 maker_image_file_name: interfaithsize.png
 maker_image_id: '21276'
 cached_project_image: >-

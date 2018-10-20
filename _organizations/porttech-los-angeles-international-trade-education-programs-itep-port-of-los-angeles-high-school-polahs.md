@@ -36,6 +36,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102241'
+  - '4102170'
 youtube_video_identifier: zmZJYC2WFVk
 cached_project_image: >-
   /assets/images/organizations/porttech-los-angeles-international-trade-education-programs-itep-port-of-los-angeles-high-school-polahs/img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg

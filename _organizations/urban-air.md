@@ -35,6 +35,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102246'
+  - '3102098'
 maker_image_file_name: urban_air.jpg
 maker_image_id: '21229'
 cached_project_image: >-

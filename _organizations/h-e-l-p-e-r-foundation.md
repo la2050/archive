@@ -90,6 +90,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102143'
 maker_image_file_name: Helper_Logo.jpg
 maker_image_id: '17077'
 cached_project_image: >-

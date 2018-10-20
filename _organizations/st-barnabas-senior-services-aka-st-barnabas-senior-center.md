@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102199'
 maker_image_file_name: _DSC5884.JPG
 maker_image_id: '20167'
 cached_project_image: >-

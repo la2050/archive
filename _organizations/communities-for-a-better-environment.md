@@ -44,6 +44,8 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '3102084'
 youtube_video_identifier: ghRsAe0AExM
 cached_project_image: >-
   /assets/images/organizations/communities-for-a-better-environment/img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg

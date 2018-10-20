@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102133'
 maker_image_file_name: Shank_130920_453.jpg
 maker_image_id: '21753'
 cached_project_image: >-

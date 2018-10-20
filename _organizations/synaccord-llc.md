@@ -44,6 +44,10 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102115'
+  - '6102234'
+  - '5102285'
 cached_project_image: >-
   /assets/images/organizations/synaccord-llc/activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
 

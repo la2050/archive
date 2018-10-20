@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102169'
 maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
 maker_image_id: '21550'
 cached_project_image: >-

@@ -33,6 +33,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102164'
+  - '3102215'
 youtube_video_identifier: nF2CnqS_6oQ
 cached_project_image: >-
   /assets/images/organizations/peace-over-violence/img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg

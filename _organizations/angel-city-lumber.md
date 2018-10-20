@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102016'
 youtube_video_identifier: 4Kt14HIJyiU
 cached_project_image: >-
   /assets/images/organizations/angel-city-lumber/img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg

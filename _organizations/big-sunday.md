@@ -38,6 +38,9 @@ aggregated:
     - '2016'
     - '2013'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102018'
+  - '3102033'
 cached_project_image: >-
   /assets/images/organizations/big-sunday/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
 

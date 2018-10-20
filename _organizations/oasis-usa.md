@@ -68,6 +68,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102208'
 youtube_video_identifier: _5icxWSNJFw
 cached_project_image: >-
   /assets/images/organizations/oasis-usa/img.youtube.com/vi/_5icxWSNJFw/maxresdefault.jpg

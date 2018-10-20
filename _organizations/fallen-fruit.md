@@ -41,6 +41,9 @@ aggregated:
     - '2016'
     - '2013'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102146'
+  - '3102043'
 cached_project_image: >-
   /assets/images/organizations/fallen-fruit/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg
 

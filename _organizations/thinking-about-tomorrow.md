@@ -31,6 +31,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102317'
+  - '4102234'
 maker_image_file_name: ShannonTaTLA2050.jpeg
 maker_image_id: '24144'
 cached_project_image: >-

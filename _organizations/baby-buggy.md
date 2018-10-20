@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102137'
 maker_image_file_name: alg-babybuggy-jpg.jpg
 maker_image_id: '20955'
 cached_project_image: >-

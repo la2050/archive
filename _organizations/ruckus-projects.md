@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102258'
 maker_image_file_name: Leif_Community_Engagement_App.jpg
 maker_image_id: '23547'
 cached_project_image: >-

@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102102'
 youtube_video_identifier: _1j9tLhT4z8
 cached_project_image: >-
   /assets/images/organizations/interpretive-media-laboratory-imlab/img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg

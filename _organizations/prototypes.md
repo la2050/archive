@@ -46,6 +46,10 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102246'
+  - '4102034'
+  - '3102222'
 maker_image_file_name: 2013_Pomona_0649.JPG
 maker_image_id: '23741'
 cached_project_image: >-

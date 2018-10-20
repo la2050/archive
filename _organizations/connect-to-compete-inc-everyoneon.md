@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102030'
 cached_project_image: >-
   /assets/images/organizations/connect-to-compete-inc-everyoneon/activation.la2050.org/assets/images/connect/2048-wide/connect-to-compete-inc-everyoneon.jpg
 

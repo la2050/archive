@@ -41,6 +41,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102014'
+  - '4102007'
 youtube_video_identifier: W6D_g6EB-QY
 cached_project_image: >-
   /assets/images/organizations/ambulante/img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg

@@ -37,6 +37,8 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102302'
 youtube_video_identifier: SHjS92F_BK8
 cached_project_image: >-
   /assets/images/organizations/the-incubator-school/img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg

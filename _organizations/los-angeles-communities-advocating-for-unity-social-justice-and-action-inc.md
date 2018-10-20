@@ -41,6 +41,9 @@ aggregated:
     - '2013'
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102169'
+  - '3102168'
 maker_image_file_name: LA_CAUSA.jpg
 maker_image_id: '16688'
 cached_project_image: >-

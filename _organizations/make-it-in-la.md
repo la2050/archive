@@ -53,6 +53,9 @@ aggregated:
     - '2018'
     - '2015'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102079'
+  - '5102201'
 cached_project_image: >-
   /assets/images/organizations/make-it-in-la/activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg
 

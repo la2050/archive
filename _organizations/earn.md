@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102089'
 maker_image_file_name: Earnlogopage2.jpg
 maker_image_id: '23728'
 cached_project_image: >-

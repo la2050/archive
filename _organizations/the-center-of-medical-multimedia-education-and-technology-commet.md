@@ -39,6 +39,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102297'
+  - '4102247'
 youtube_video_identifier: NNetdspYB4M
 cached_project_image: >-
   /assets/images/organizations/the-center-of-medical-multimedia-education-and-technology-commet/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg

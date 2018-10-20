@@ -40,6 +40,8 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102099'
 youtube_video_identifier: Ht0-3dSjCew
 cached_project_image: >-
   /assets/images/organizations/fallen-fruit-from-rising-women-crossroads-inc-scripps-college/img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg

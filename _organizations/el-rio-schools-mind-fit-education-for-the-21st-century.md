@@ -52,6 +52,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102122'
 maker_image_file_name: rachelschmid.elrio.jpg
 maker_image_id: '17107'
 cached_project_image: >-

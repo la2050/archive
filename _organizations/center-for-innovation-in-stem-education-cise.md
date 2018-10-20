@@ -37,6 +37,8 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102016'
 cached_project_image: >-
   /assets/images/organizations/center-for-innovation-in-stem-education-cise/scontent-lga3-1.cdninstagram.com/vp/87312e416f30060766fe7fda3f4d32f7/5C3CA11B/t51.2885-15/e35/38081903_369052070293126_155768293343363072_n.jpg
 

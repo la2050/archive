@@ -60,6 +60,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102133'
 maker_image_file_name: Wishing_Upon_A_Star.jpg
 maker_image_id: '17083'
 cached_project_image: >-

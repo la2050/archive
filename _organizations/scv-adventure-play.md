@@ -44,6 +44,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102263'
+  - '4102188'
 maker_image_file_name: SCV_ADvplay_table_logo.png
 maker_image_id: '24111'
 cached_project_image: >-

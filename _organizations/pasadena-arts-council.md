@@ -57,6 +57,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102214'
 maker_image_file_name: AxSBrochure_Cover_v2.jpg
 maker_image_id: '16490'
 cached_project_image: >-

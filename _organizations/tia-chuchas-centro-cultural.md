@@ -41,6 +41,9 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102318'
+  - '3102258'
 youtube_video_identifier: gX3uzlinkXc
 cached_project_image: >-
   /assets/images/organizations/tia-chuchas-centro-cultural/img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg

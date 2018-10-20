@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102330'
 maker_image_file_name: UCLA_Connect.jpg
 maker_image_id: '23745'
 cached_project_image: >-

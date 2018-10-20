@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102091'
 youtube_video_identifier: uVgrIU_Bl9g
 cached_project_image: >-
   /assets/images/organizations/eezitec/img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg

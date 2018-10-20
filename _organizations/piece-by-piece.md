@@ -35,6 +35,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102168'
 maker_image_file_name: In_Studio_Irvine_Mural.jpg
 maker_image_id: '22131'
 cached_project_image: >-

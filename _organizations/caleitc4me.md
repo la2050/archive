@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102012'
 cached_project_image: >-
   /assets/images/organizations/caleitc4me/activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg
 

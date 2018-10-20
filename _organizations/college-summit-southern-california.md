@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102042'
 youtube_video_identifier: XNxfMssLYzc
 cached_project_image: >-
   /assets/images/organizations/college-summit-southern-california/img.youtube.com/vi/XNxfMssLYzc/hqdefault.jpg

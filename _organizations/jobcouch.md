@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102150'
 youtube_video_identifier: 9l0UWGhKU-U
 cached_project_image: >-
   /assets/images/organizations/jobcouch/img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg

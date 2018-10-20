@@ -40,6 +40,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102249'
 youtube_video_identifier: sKN2PQLjrps
 cached_project_image: >-
   /assets/images/organizations/reading-partners/img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg

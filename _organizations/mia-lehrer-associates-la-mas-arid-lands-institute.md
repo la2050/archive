@@ -31,6 +31,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102143'
+  - '3102072'
 youtube_video_identifier: 2qWrLJakj5M
 cached_project_image: >-
   /assets/images/organizations/mia-lehrer-associates-la-mas-arid-lands-institute/img.youtube.com/vi/2qWrLJakj5M/hqdefault.jpg

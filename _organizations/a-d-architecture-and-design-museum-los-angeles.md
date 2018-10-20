@@ -56,6 +56,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102004'
 youtube_video_identifier: keoZhYn_XbI
 cached_project_image: >-
   /assets/images/organizations/a-d-architecture-and-design-museum-los-angeles/img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg

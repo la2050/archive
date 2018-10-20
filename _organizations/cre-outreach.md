@@ -48,6 +48,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102095'
 youtube_video_identifier: pp9oh64x-9Y
 cached_project_image: >-
   /assets/images/organizations/cre-outreach/img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg

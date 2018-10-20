@@ -91,6 +91,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102119'
 youtube_video_identifier: 6pkTdEgSCvo
 cached_project_image: >-
   /assets/images/organizations/education-consortium-of-central-los-angeles-project-less/img.youtube.com/vi/6pkTdEgSCvo/hqdefault.jpg

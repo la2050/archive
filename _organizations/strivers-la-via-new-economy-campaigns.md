@@ -29,6 +29,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102202'
+  - '3102100'
 youtube_video_identifier: lz8FDz2KN0s
 cached_project_image: >-
   /assets/images/organizations/strivers-la-via-new-economy-campaigns/img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg

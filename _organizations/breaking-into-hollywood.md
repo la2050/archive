@@ -38,6 +38,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102035'
 youtube_video_identifier: GLojtCpWaz4
 cached_project_image: >-
   /assets/images/organizations/breaking-into-hollywood/img.youtube.com/vi/GLojtCpWaz4/maxresdefault.jpg

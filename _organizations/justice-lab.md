@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102155'
 maker_image_file_name: ReConnectLA_Logo_02.jpg
 maker_image_id: '23396'
 cached_project_image: >-

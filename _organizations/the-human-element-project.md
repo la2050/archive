@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102214'
 youtube_video_identifier: dCvzeDvQtLY
 cached_project_image: >-
   /assets/images/organizations/the-human-element-project/img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg

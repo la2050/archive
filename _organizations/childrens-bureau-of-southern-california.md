@@ -38,6 +38,9 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102054'
+  - '3102060'
 maker_image_file_name: CB_Logo.jpg
 maker_image_id: '23775'
 cached_project_image: >-

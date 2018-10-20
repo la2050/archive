@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102050'
 youtube_video_identifier: K83J6XaqQlM
 cached_project_image: >-
   /assets/images/organizations/critical-mass-dance-company-cmdc/img.youtube.com/vi/K83J6XaqQlM/hqdefault.jpg

@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102071'
 cached_project_image: >-
   /assets/images/organizations/long-beach-downtown-development-corporation/activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
 

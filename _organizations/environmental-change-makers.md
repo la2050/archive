@@ -46,6 +46,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102125'
 maker_image_file_name: CGatHN_by_Linda_570w.jpg
 maker_image_id: '16319'
 cached_project_image: >-

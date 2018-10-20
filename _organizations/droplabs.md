@@ -40,6 +40,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102058'
+  - '3102031'
 maker_image_file_name: slide-image-1.jpg
 maker_image_id: '21245'
 cached_project_image: >-

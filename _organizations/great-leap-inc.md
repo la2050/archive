@@ -65,6 +65,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102142'
 youtube_video_identifier: gyQdQTAWs0U
 cached_project_image: >-
   /assets/images/organizations/great-leap-inc/img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg

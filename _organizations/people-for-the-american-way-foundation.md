@@ -47,6 +47,10 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102182'
+  - '5102233'
+  - '3102217'
 cached_project_image: >-
   /assets/images/organizations/people-for-the-american-way-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 

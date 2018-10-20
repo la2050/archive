@@ -721,6 +721,21 @@ function processFile(filename) {
   //   }
   // })
 
+  organizationMarkdownFiles.forEach(item => {
+    let organization_id = null
+
+    item.calculated_project_ids.forEach(project_id => {
+      if (data.yaml.project_id == project_id) {
+        organization_id = item.organization_id
+      }
+    })
+
+    if (organization_id && organization_id != data.yaml.organization_id) {
+      console.log("changing organization_id from " + data.yaml.organization_id + " to " + organization_id)
+      // data.yaml.organization_id = organization_id
+    }
+  })
+
 
   /*
   {% assign data_collection = site.collections | where: "label", "organizations" | first %}

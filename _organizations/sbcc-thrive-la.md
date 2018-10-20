@@ -38,6 +38,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102262'
+  - '4102186'
 youtube_video_identifier: Hey6DKTLdw8
 cached_project_image: >-
   /assets/images/organizations/sbcc-thrive-la/img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg

@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102068'
 youtube_video_identifier: DiU_9RR7ZvY
 cached_project_image: >-
   /assets/images/organizations/experimental-half-hour/img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg

@@ -38,6 +38,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102266'
+  - '4102191'
 youtube_video_identifier: yUDKtK6Gfls
 cached_project_image: >-
   /assets/images/organizations/shanes-inspiration/img.youtube.com/vi/yUDKtK6Gfls/hqdefault.jpg

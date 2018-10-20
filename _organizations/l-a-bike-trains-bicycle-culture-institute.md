@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102107'
 youtube_video_identifier: l2oE7AX8gtw
 cached_project_image: >-
   /assets/images/organizations/l-a-bike-trains-bicycle-culture-institute/img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg

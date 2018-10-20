@@ -25,6 +25,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102153'
 youtube_video_identifier: A9yf6DpgLSM
 cached_project_image: >-
   /assets/images/organizations/my-name-my-story/img.youtube.com/vi/A9yf6DpgLSM/hqdefault.jpg

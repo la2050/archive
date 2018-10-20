@@ -41,6 +41,9 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102242'
+  - '5102292'
 cached_project_image: >-
   /assets/images/organizations/tech-la-cares/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 

@@ -50,6 +50,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102078'
 youtube_video_identifier: gTKhNc98GIc
 cached_project_image: >-
   /assets/images/organizations/coalition-of-mental-health-professionals-inc/img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg

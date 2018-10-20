@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102242'
 maker_image_file_name: safari.jpg
 maker_image_id: '21750'
 cached_project_image: >-

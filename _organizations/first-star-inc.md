@@ -45,6 +45,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102128'
 youtube_video_identifier: CZMjDcpz53c
 cached_project_image: >-
   /assets/images/organizations/first-star-inc/img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg

@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102178'
 maker_image_file_name: good.jpg
 maker_image_id: '20899'
 cached_project_image: >-

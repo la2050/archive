@@ -35,6 +35,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102108'
+  - '3102132'
 maker_image_file_name: 12_Stills_from_videos.jpg
 maker_image_id: '21306'
 cached_project_image: >-

@@ -58,6 +58,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102026'
 youtube_video_identifier: w8o0x9VRbvE
 cached_project_image: >-
   /assets/images/organizations/art-share-l-a/img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg

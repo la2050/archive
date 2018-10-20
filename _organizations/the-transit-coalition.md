@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102230'
 maker_image_file_name: Cars_Attribution_Biofriendly_Creative_Commons_license.jpeg
 maker_image_id: '20691'
 cached_project_image: >-

@@ -37,6 +37,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102044'
 youtube_video_identifier: '--BnysezHK0'
 cached_project_image: >-
   /assets/images/organizations/filmanthropos/img.youtube.com/vi/--BnysezHK0/hqdefault.jpg

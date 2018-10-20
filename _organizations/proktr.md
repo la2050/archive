@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102172'
 youtube_video_identifier: _-Xf6dKy4no
 cached_project_image: >-
   /assets/images/organizations/proktr/img.youtube.com/vi/_-Xf6dKy4no/maxresdefault.jpg

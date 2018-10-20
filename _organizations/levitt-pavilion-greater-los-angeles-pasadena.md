@@ -40,6 +40,9 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102175'
+  - '3102179'
 maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
 maker_image_id: '23665'
 cached_project_image: >-

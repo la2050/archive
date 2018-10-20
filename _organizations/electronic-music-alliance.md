@@ -72,6 +72,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102123'
 maker_image_file_name: EMAHeader.jpg
 maker_image_id: '16296'
 cached_project_image: >-

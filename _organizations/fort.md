@@ -30,6 +30,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102072'
 youtube_video_identifier: kNqNTSXVqsI
 cached_project_image: /assets/images/organizations/fort/img.youtube.com/vi/kNqNTSXVqsI/hqdefault.jpg
 

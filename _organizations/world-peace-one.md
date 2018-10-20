@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102261'
 maker_image_file_name: WP1_Logo_new.jpg
 maker_image_id: '22532'
 cached_project_image: >-

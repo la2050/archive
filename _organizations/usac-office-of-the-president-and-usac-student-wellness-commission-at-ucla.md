@@ -36,6 +36,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102337'
+  - '4102250'
 youtube_video_identifier: YHlDfLtzSio
 cached_project_image: >-
   /assets/images/organizations/usac-office-of-the-president-and-usac-student-wellness-commission-at-ucla/img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg

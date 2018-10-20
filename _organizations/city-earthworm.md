@@ -47,6 +47,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102010'
 maker_image_file_name: LA2050.jpg
 maker_image_id: '16537'
 cached_project_image: >-

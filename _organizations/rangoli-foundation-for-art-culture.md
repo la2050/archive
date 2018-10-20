@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102181'
 youtube_video_identifier: 1JDr-eMpJX4
 cached_project_image: >-
   /assets/images/organizations/rangoli-foundation-for-art-culture/img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg

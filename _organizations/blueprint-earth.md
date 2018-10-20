@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102031'
 youtube_video_identifier: H-S2LiQcO00
 cached_project_image: >-
   /assets/images/organizations/blueprint-earth/img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg

@@ -30,6 +30,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102342'
 youtube_video_identifier: XYkDHo1jJ1c
 cached_project_image: >-
   /assets/images/organizations/wise-guys-events/img.youtube.com/vi/XYkDHo1jJ1c/maxresdefault.jpg

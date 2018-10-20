@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102239'
 youtube_video_identifier: qooMUYecd1s
 cached_project_image: >-
   /assets/images/organizations/plug-in-south-la/img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg

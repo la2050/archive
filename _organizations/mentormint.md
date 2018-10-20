@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102206'
 maker_image_file_name: Cabrillo_High_School_Campus.JPG
 maker_image_id: '23218'
 cached_project_image: >-

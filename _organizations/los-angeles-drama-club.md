@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102130'
 youtube_video_identifier: 79DqmMTV8-Y
 cached_project_image: >-
   /assets/images/organizations/los-angeles-drama-club/img.youtube.com/vi/79DqmMTV8-Y/hqdefault.jpg

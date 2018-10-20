@@ -61,6 +61,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102206'
 maker_image_file_name: ca_civic_innovation_project_logo.png
 maker_image_id: '16898'
 cached_project_image: >-

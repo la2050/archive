@@ -82,6 +82,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102063'
 maker_image_file_name: LA2050_JRG.jpg
 maker_image_id: '16877'
 cached_project_image: >-

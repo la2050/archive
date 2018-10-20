@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102072'
 youtube_video_identifier: CAz_mkuDRno
 cached_project_image: >-
   /assets/images/organizations/colossi/img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg

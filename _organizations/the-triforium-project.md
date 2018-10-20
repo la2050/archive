@@ -38,6 +38,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102258'
 cached_project_image: >-
   /assets/images/organizations/the-triforium-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7344404654741-team91.jpg
 

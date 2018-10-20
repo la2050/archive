@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102159'
 maker_image_file_name: studio1.jpg
 maker_image_id: '21917'
 cached_project_image: >-

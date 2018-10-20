@@ -55,6 +55,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102067'
 youtube_video_identifier: ZobE5kX4dTc
 cached_project_image: >-
   /assets/images/organizations/city-of-los-angeles-department-of-cultural-affairs/img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg

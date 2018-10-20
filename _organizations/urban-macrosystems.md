@@ -62,6 +62,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102113'
 maker_image_file_name: placita_nueva.jpg
 maker_image_id: '16818'
 cached_project_image: >-

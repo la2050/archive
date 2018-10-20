@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102160'
 youtube_video_identifier: v-5UnN1CD0E
 cached_project_image: >-
   /assets/images/organizations/kensington-presents/img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg

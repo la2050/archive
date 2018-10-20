@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102124'
 youtube_video_identifier: zqrk27Md2Bo
 cached_project_image: >-
   /assets/images/organizations/growgood-inc/img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg

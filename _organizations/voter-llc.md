@@ -30,6 +30,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102339'
 youtube_video_identifier: cljP5pJVVbE
 cached_project_image: >-
   /assets/images/organizations/voter-llc/img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg

@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102124'
 maker_image_file_name: la_biohackers__LA2050_570_345_copy2.jpg
 maker_image_id: '22859'
 cached_project_image: >-

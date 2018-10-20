@@ -29,6 +29,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102253'
 youtube_video_identifier: QQpabiJ0uus
 cached_project_image: >-
   /assets/images/organizations/little-tokyo-community-council/img.youtube.com/vi/QQpabiJ0uus/hqdefault.jpg
