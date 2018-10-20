@@ -250,7 +250,7 @@ How do you plan to scale the success of your proposal?: >-
   Grizzlies will also help build relationships with local professional sports
   organizations, involving them in future court projects.
 cached_project_image: >-
-  /assets/images/projects/2015/basketball-courts-and-public-art-inspiring-inter-generational-play-in-public-parks/img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/basketball-courts-and-public-art-inspiring-inter-generational-play-in-public-parks/img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg
 youtube_video_identifier: phXK2cX3WEk
 organization_name: Project Backboard
 

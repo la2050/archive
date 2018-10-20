@@ -135,7 +135,7 @@ project_proposal_best_place: >-
   Community Fairs would give us a golden opportunity to educate residents on
   homelessness and what they can do to help solve the problem.
 cached_project_image: >-
-  /assets/images/projects/2016/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4001387745741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4001387745741-team91.jpg
 organization_name: The C.I.T.Y. x1 Youth Group
 organization_website: www.cityx1.org
 

@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014220'
+organization_id: '2015197'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -221,7 +221,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - Creating a long-term funding and implementation platform.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/the-cyber-insecurity-initiative-of-the-los-angeles-healthcare-security-systems-project/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/the-cyber-insecurity-initiative-of-the-los-angeles-healthcare-security-systems-project/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg
 youtube_video_identifier: NNetdspYB4M
 
 ---

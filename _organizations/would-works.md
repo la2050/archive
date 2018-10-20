@@ -34,8 +34,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102262'
 youtube_video_identifier: xlsYqBrzY4k
 cached_project_image: >-
-  /assets/images/organizations/would-works/img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/would-works/img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg
 
 ---

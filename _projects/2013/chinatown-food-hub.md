@@ -92,7 +92,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   consumers that have been largely abandoned by a more industrial food sourcing
   system.
 cached_project_image: >-
-  /assets/images/projects/2013/chinatown-food-hub/img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/chinatown-food-hub/img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg
 youtube_video_identifier: DXcrNhhe5V0
 
 ---

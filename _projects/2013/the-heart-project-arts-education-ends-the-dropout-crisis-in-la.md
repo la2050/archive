@@ -256,7 +256,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Success would include the placement of each and every one of the students we
   serve in job opportunities/internships in the creative economy. 
 cached_project_image: >-
-  /assets/images/projects/2013/the-heart-project-arts-education-ends-the-dropout-crisis-in-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16966%252Fdisplay%252FDSCF5143_eventbrite.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/the-heart-project-arts-education-ends-the-dropout-crisis-in-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16966%252Fdisplay%252FDSCF5143_eventbrite.jpg=c570x385.jpg
 maker_image_id: '16966'
 maker_image_file_name: DSCF5143_eventbrite.jpg
 

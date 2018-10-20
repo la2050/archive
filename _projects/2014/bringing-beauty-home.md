@@ -199,7 +199,7 @@ Whom will your project benefit? Please be specific.: >-
    2) Add value to our partners programs by making interactions with clients and caregivers more meaningful
    3) Build community among all the individuals involved in the process of caring for and advocating for those living with chronic or terminal conditions. In addition, to the tremendous partnerships in our program area, Beauty Bus has successful collaborations with a number of beauty companies and the Professional Beauty Association. These relationships are responsible for the million dollars in product donations which are used at all of our events, visits and our Bag of Beauty Program.
 cached_project_image: >-
-  /assets/images/projects/2014/bringing-beauty-home/img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/bringing-beauty-home/img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg
 youtube_video_identifier: XoT_36T5K5E
 
 ---

@@ -63,7 +63,7 @@ project_proposal_best_place: >-
   through shared ownership of an organic co-op grocery. Simultaneously, SoLA
   will also be an attractive resource for new families moving to the area.
 cached_project_image: >-
-  /assets/images/projects/2016/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
 organization_name: SoLA Food Co-op
 organization_website: www.solafoodcoop.com
 

@@ -38,9 +38,12 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102221'
+  - '3102205'
 maker_image_file_name: Crystal_Cropped_Big_Check.jpg
 maker_image_id: '24049'
 cached_project_image: >-
-  /assets/images/organizations/network-for-teaching-entrepreneurship-nfte-greater-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24049%252Fdisplay%252FCrystal_Cropped_Big_Check.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/network-for-teaching-entrepreneurship-nfte-greater-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24049%252Fdisplay%252FCrystal_Cropped_Big_Check.jpg=c570x385.jpg
 
 ---

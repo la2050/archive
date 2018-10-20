@@ -193,7 +193,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   be the indicators that will demonstrate significant improvements in the
   current disparities in environmental justice communities.  
 cached_project_image: >-
-  /assets/images/projects/2013/youth-for-environmental-justice-and-community-revitalization/img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/youth-for-environmental-justice-and-community-revitalization/img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg
 youtube_video_identifier: ghRsAe0AExM
 
 ---

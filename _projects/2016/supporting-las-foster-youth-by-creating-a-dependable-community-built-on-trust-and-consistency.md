@@ -149,7 +149,7 @@ project_proposal_best_place: >-
   support & motivation to give our youth the chance to own their own narratives
   & future successes.
 cached_project_image: >-
-  /assets/images/projects/2016/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
 organization_name: The Academy Project
 organization_website: WWW.THEACADEMYPROJECT.ORG
 

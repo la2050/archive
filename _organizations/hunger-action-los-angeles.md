@@ -30,9 +30,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102208'
 maker_image_file_name: Market_Match_Booth_Adams.Vermont_1.jpg
 maker_image_id: '22352'
 cached_project_image: >-
-  /assets/images/organizations/hunger-action-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22352%252Fdisplay%252FMarket_Match_Booth_Adams.Vermont_1.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/hunger-action-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22352%252Fdisplay%252FMarket_Match_Booth_Adams.Vermont_1.jpg=c570x385.jpg
 
 ---

@@ -241,7 +241,7 @@ How do you plan to scale the success of your proposal?: >-
    
    By facilitating this network building, we can maximize the potential of the nonprofit community in LA. We can create a city where startup organizations have the connections for their work to thrive and nonprofit veterans have access to the freshest new ideas on the block.
 cached_project_image: >-
-  /assets/images/projects/2015/training-la-nonprofits-with-the-best-ideas-to-create-the-biggest-impact/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23690%252Fdisplay%252FChange_Better_Profile.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/training-la-nonprofits-with-the-best-ideas-to-create-the-biggest-impact/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23690%252Fdisplay%252FChange_Better_Profile.jpg=c570x385.jpg
 maker_image_id: '23690'
 maker_image_file_name: Change_Better_Profile.jpg
 organization_name: Change Better

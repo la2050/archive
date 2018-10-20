@@ -122,7 +122,7 @@ project_proposal_best_place: >-
   decisions on how park program funding is allocated and bring new community
   resources to bear to support the desired level of park programming.
 cached_project_image: >-
-  /assets/images/projects/2016/peoples-planning-school-park-equity-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1573115165741-team88.jpg
+  https://archive-assets.la2050.org/images/2016/peoples-planning-school-park-equity-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1573115165741-team88.jpg
 organization_name: 'Building Healthy Communities: Long Beach'
 organization_website: bhclongbeach.org
 

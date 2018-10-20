@@ -239,7 +239,7 @@ How do you plan to scale the success of your proposal?: >-
   and educational programming surrounding creating small businesses or
   successful freelance businesses.
 cached_project_image: >-
-  /assets/images/projects/2015/kensington-presents-free-outdoor-arts-programming-for-all-ages-with-california-state-parks/img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/kensington-presents-free-outdoor-arts-programming-for-all-ages-with-california-state-parks/img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg
 youtube_video_identifier: v-5UnN1CD0E
 organization_name: Kensington Presents
 

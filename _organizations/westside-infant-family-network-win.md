@@ -28,8 +28,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102203'
 youtube_video_identifier: 4svMiNJ-HL0
 cached_project_image: >-
-  /assets/images/organizations/westside-infant-family-network-win/img.youtube.com/vi/4svMiNJ-HL0/hqdefault.jpg
+  https://archive-assets.la2050.org/images/westside-infant-family-network-win/img.youtube.com/vi/4svMiNJ-HL0/hqdefault.jpg
 
 ---

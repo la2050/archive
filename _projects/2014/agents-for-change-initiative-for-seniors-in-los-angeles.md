@@ -169,7 +169,7 @@ Whom will your project benefit? Please be specific.: >-
   their voices are heard, their lives are enriched and L.A. itself becomes a
   better place to live.
 cached_project_image: >-
-  /assets/images/projects/2014/agents-for-change-initiative-for-seniors-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/agents-for-change-initiative-for-seniors-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385.jpg
 maker_image_id: '20167'
 maker_image_file_name: _DSC5884.JPG
 

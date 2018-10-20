@@ -206,7 +206,7 @@ Whom will your project benefit? Please be specific.: >-
    
    3. Identify and implement the appropriate legal and policy tools to ensure that River revitalization efforts are responsive and accountable to existing residents’ needs.
 cached_project_image: >-
-  /assets/images/projects/2014/la-riverworks-a-vision-to-engage-la-communities-in-river-revitalization/img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/la-riverworks-a-vision-to-engage-la-communities-in-river-revitalization/img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg
 youtube_video_identifier: fMyc7c0Ylc4
 
 ---

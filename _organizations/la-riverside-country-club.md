@@ -49,8 +49,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102172'
 youtube_video_identifier: rt9TuksVaZU
 cached_project_image: >-
-  /assets/images/organizations/la-riverside-country-club/img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/la-riverside-country-club/img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg
 
 ---

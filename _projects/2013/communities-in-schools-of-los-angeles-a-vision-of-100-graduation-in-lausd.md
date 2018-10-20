@@ -315,7 +315,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   approach to meeting the district’s goal of 100% graduation for all students.
   </p>
 cached_project_image: >-
-  /assets/images/projects/2013/communities-in-schools-of-los-angeles-a-vision-of-100-graduation-in-lausd/img.youtube.com/vi/2v9X7ZUWTdw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/communities-in-schools-of-los-angeles-a-vision-of-100-graduation-in-lausd/img.youtube.com/vi/2v9X7ZUWTdw/maxresdefault.jpg
 youtube_video_identifier: 2v9X7ZUWTdw
 
 ---

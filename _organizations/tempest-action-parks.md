@@ -30,8 +30,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102293'
 youtube_video_identifier: k-SpD948tJc
 cached_project_image: >-
-  /assets/images/organizations/tempest-action-parks/img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/tempest-action-parks/img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg
 
 ---

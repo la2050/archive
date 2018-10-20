@@ -30,9 +30,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102101'
 maker_image_file_name: LINCOLN_STATUE.jpg
 maker_image_id: '22088'
 cached_project_image: >-
-  /assets/images/organizations/lincoln-heights-health-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22088%252Fdisplay%252FLINCOLN_STATUE.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/lincoln-heights-health-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22088%252Fdisplay%252FLINCOLN_STATUE.jpg=c570x385.jpg
 
 ---

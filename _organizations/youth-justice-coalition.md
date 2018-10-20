@@ -35,8 +35,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102345'
 youtube_video_identifier: 31zyNJHGmig
 cached_project_image: >-
-  /assets/images/organizations/youth-justice-coalition/img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg
+  https://archive-assets.la2050.org/images/youth-justice-coalition/img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg
 
 ---

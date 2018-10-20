@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2013013'
+organization_id: '2013058'
 year_submitted: 2013
 indicator: ' Education'
 body_class: strawberry
@@ -366,7 +366,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   communities, we seek to facilitate to improve the educational futures of LA
   youth and, along with them, LA’s future as well.  
 cached_project_image: >-
-  /assets/images/projects/2013/myarc-a-digital-social-network-that-solves-educational-challenges-one-project-at-a-time/img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/myarc-a-digital-social-network-that-solves-educational-challenges-one-project-at-a-time/img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg
 youtube_video_identifier: KAJrrW9SOdA
 
 ---

@@ -212,7 +212,7 @@ How do you plan to scale the success of your proposal?: >-
    
    A gift from the Goldhirsh Foundation this year will establish a reputation for improving civic literacy across the city, state and soon the nation!
 cached_project_image: >-
-  /assets/images/projects/2015/seepolitical-make-voting-fun-and-easy-for-everyone/img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/seepolitical-make-voting-fun-and-easy-for-everyone/img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg
 youtube_video_identifier: atB8yIPXKCk
 organization_name: SeePolitical
 

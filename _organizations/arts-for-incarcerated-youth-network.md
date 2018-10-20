@@ -43,7 +43,10 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102012'
+  - '5102024'
 cached_project_image: >-
-  /assets/images/organizations/arts-for-incarcerated-youth-network/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
+  https://archive-assets.la2050.org/images/arts-for-incarcerated-youth-network/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 
 ---

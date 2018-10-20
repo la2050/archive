@@ -269,7 +269,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Off-Site Expansion – Expand program to other schools within the Los Angeles Unified School District.
 cached_project_image: >-
-  /assets/images/projects/2015/las-promise-technology-academy/img.youtube.com/vi/SXGVU13JPLU/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/las-promise-technology-academy/img.youtube.com/vi/SXGVU13JPLU/hqdefault.jpg
 youtube_video_identifier: SXGVU13JPLU
 organization_name: LA's Promise
 

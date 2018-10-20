@@ -49,7 +49,12 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102144'
+  - '5102194'
+  - '4102134'
+  - '3102189'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-review-of-books/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
+  https://archive-assets.la2050.org/images/los-angeles-review-of-books/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 
 ---

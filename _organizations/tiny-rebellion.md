@@ -33,8 +33,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102321'
 youtube_video_identifier: nu53ttV7jQI
 cached_project_image: >-
-  /assets/images/organizations/tiny-rebellion/img.youtube.com/vi/nu53ttV7jQI/hqdefault.jpg
+  https://archive-assets.la2050.org/images/tiny-rebellion/img.youtube.com/vi/nu53ttV7jQI/hqdefault.jpg
 
 ---

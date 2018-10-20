@@ -112,7 +112,7 @@ project_proposal_best_place: >-
   Facebook and Nationbuilder, which is already designing solutions that make it
   easier for their users to run for office.
 cached_project_image: >-
-  /assets/images/projects/2016/open-ballot-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9698284165741-team91.png
+  https://archive-assets.la2050.org/images/2016/open-ballot-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9698284165741-team91.png
 organization_name: University of Southern California
 organization_website: civictechusc.org
 

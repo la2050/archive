@@ -135,7 +135,7 @@ project_proposal_best_place: >-
   spite of their circumstances, Los Angeles is a place where they too can create
   and thrive.
 cached_project_image: >-
-  /assets/images/projects/2016/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
 organization_name: Zeneith Performing Arts
 organization_website: www.zeneithperformingarts.com
 

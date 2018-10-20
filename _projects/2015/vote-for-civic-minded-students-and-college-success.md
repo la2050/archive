@@ -237,7 +237,7 @@ How do you plan to scale the success of your proposal?: >-
    
    JSA currently reaches 10,000 students across the country, but Alliance-type partnerships offer an opportunity to dramatically increase this number.
 cached_project_image: >-
-  /assets/images/projects/2015/vote-for-civic-minded-students-and-college-success/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23346%252Fdisplay%252F73168.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/vote-for-civic-minded-students-and-college-success/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23346%252Fdisplay%252F73168.jpg=c570x385.jpg
 maker_image_id: '23346'
 maker_image_file_name: 73168.jpg
 organization_name: Junior Statesmen Foundation; Alliance College-Ready Public Schools

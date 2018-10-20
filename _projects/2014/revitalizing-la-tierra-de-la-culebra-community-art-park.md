@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014152'
+organization_id: '2014116'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -160,7 +160,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Program, Project Angel Food, and SOVA Jewish Food Pantry Market
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/revitalizing-la-tierra-de-la-culebra-community-art-park/img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/revitalizing-la-tierra-de-la-culebra-community-art-park/img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg
 youtube_video_identifier: jAOkF8UAOLI
 
 ---

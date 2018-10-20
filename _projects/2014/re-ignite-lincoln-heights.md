@@ -288,7 +288,7 @@ Whom will your project benefit? Please be specific.: |-
    YouthBuild USA is a national organization comprised of 200+ youth development programs whose mission is to unleash the intelligence and positive energy of low-income youth to rebuild their communities and their lives. We are an affiliate of YouthBuild USA and are able to access and leverage pass-through grants that enhance our educational services, case management services, and leadership development. 
    We will also reach out to local churches and ask for support in getting the needs assessment surveys filled out by their members.
 cached_project_image: >-
-  /assets/images/projects/2014/re-ignite-lincoln-heights/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20586%252Fdisplay%252FEly_Flores.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/re-ignite-lincoln-heights/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20586%252Fdisplay%252FEly_Flores.jpg=c570x385.jpg
 maker_image_id: '20586'
 maker_image_file_name: Ely_Flores.jpg
 

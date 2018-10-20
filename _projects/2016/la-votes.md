@@ -148,7 +148,7 @@ project_proposal_best_place: >-
   identity that goes beyond labels and focuses on tangible results, commitment
   to the local community, and most importantly true civic dialogue.
 cached_project_image: >-
-  /assets/images/projects/2016/la-votes/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
+  https://archive-assets.la2050.org/images/2016/la-votes/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
 organization_name: Center for the Study of Los Angeles
 organization_website: lmu.edu/studyla
 

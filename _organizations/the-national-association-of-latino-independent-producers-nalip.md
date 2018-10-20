@@ -39,7 +39,10 @@ aggregated:
     - '2018'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102121'
+  - '4102225'
 cached_project_image: >-
-  /assets/images/organizations/the-national-association-of-latino-independent-producers-nalip/activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
+  https://archive-assets.la2050.org/images/the-national-association-of-latino-independent-producers-nalip/activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 
 ---

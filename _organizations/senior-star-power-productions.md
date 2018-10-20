@@ -34,8 +34,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102190'
 youtube_video_identifier: TsuTBskJETc
 cached_project_image: >-
-  /assets/images/organizations/senior-star-power-productions/img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg
+  https://archive-assets.la2050.org/images/senior-star-power-productions/img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg
 
 ---

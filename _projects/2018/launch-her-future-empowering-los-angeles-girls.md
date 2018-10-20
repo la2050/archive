@@ -223,7 +223,7 @@ Where do you hope this activation or your organization will be in five years?: >
   four year colleges and prestigious universities where women are
   underrepresented STEM fields, finish and become the innovators of tomorrow. 
 cached_project_image: >-
-  /assets/images/projects/2018/launch-her-future-empowering-los-angeles-girls/activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
+  https://archive-assets.la2050.org/images/2018/launch-her-future-empowering-los-angeles-girls/activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
 organization_name: Girls Academic Leadership Academy (GALA)
 
 ---

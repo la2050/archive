@@ -34,9 +34,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102240'
 maker_image_file_name: vidaenequilibrio.png
 maker_image_id: '23673'
 cached_project_image: >-
-  /assets/images/organizations/polar-tech-ed-and-consulting-llc-patrick-leon/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385.png
+  https://archive-assets.la2050.org/images/polar-tech-ed-and-consulting-llc-patrick-leon/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385.png
 
 ---

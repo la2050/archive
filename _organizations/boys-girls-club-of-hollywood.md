@@ -34,8 +34,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102026'
 youtube_video_identifier: qBtFoJ-YYd0
 cached_project_image: >-
-  /assets/images/organizations/boys-girls-club-of-hollywood/img.youtube.com/vi/qBtFoJ-YYd0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/boys-girls-club-of-hollywood/img.youtube.com/vi/qBtFoJ-YYd0/maxresdefault.jpg
 
 ---

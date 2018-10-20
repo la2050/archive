@@ -111,7 +111,7 @@ Where do you hope this activation or your organization will be in five years?: >
   with Machine learning (AI) capabilities to increase development speed for
   accounting for all possible sign rules. 
 cached_project_image: >-
-  /assets/images/projects/2018/mobile-application-to-make-parking-easier/activation.la2050.org/assets/images/live/2048-wide/notow.jpg
+  https://archive-assets.la2050.org/images/2018/mobile-application-to-make-parking-easier/activation.la2050.org/assets/images/live/2048-wide/notow.jpg
 organization_name: NoTow
 
 ---

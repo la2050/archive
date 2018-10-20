@@ -157,7 +157,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    MiTu will provide space and access to their development executives to serve as mentors and possible buyer of participants' content.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/digitize-la/img.youtube.com/vi/JEFLrDV_RDE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/digitize-la/img.youtube.com/vi/JEFLrDV_RDE/maxresdefault.jpg
 youtube_video_identifier: JEFLrDV_RDE
 
 ---

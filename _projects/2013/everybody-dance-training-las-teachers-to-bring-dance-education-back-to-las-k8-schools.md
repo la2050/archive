@@ -299,7 +299,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/everybody-dance-training-las-teachers-to-bring-dance-education-back-to-las-k8-schools/img.youtube.com/vi/ocx7pNFp9xQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/everybody-dance-training-las-teachers-to-bring-dance-education-back-to-las-k8-schools/img.youtube.com/vi/ocx7pNFp9xQ/maxresdefault.jpg
 youtube_video_identifier: ocx7pNFp9xQ
 
 ---

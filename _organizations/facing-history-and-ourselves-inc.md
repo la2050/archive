@@ -35,8 +35,10 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102097'
 youtube_video_identifier: 2EbK6sblpo0
 cached_project_image: >-
-  /assets/images/organizations/facing-history-and-ourselves-inc/img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/facing-history-and-ourselves-inc/img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg
 
 ---

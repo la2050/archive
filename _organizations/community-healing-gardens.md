@@ -34,7 +34,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102051'
 cached_project_image: >-
-  /assets/images/organizations/community-healing-gardens/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1939548316741-team90.jpg
+  https://archive-assets.la2050.org/images/community-healing-gardens/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1939548316741-team90.jpg
 
 ---

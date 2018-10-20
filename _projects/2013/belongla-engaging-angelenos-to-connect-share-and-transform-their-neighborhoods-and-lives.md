@@ -298,7 +298,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   educational and economic outcomes thereby making Los Angeles a place where
   residents and businesses will thrive.   
 cached_project_image: >-
-  /assets/images/projects/2013/belongla-engaging-angelenos-to-connect-share-and-transform-their-neighborhoods-and-lives/img.youtube.com/vi/yZuXj1JMt5M/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/belongla-engaging-angelenos-to-connect-share-and-transform-their-neighborhoods-and-lives/img.youtube.com/vi/yZuXj1JMt5M/maxresdefault.jpg
 youtube_video_identifier: yZuXj1JMt5M
 
 ---

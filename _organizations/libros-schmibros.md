@@ -32,8 +32,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102118'
 youtube_video_identifier: iFODyc5eUjQ
 cached_project_image: >-
-  /assets/images/organizations/libros-schmibros/img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/libros-schmibros/img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg
 
 ---

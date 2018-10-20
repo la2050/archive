@@ -81,7 +81,7 @@ How will your activation engage Angelenos to make LA the best place: "--Have Ang
 Please explain how you will define and measure success for your activation.: "Our primary goal is the distribution of food to families every week.  We currently supply 150 families each week.  Our targets is to expand to 200 families in 12 months and 300 families in 24 months.\r\n\r\nTo Support Our Food Distribution, we want to do three things. First, grow our gardening programs to 1000 actively producing square feet.    Second, expand the number of restaurants contributing food to My Friends Place from 5 to 30.  Third, incrase the amount of free produce that is directly donated by people, mostly during their own supermarket visits.\r\n"
 Where do you hope this activation or your organization will be in five years?: "My Friends House in 2023\r\n--Providing healthy food to 1,500 families per week, a ten-fold increase.\r\n--Expansive network of collaborators:  restaurants, supermarkets, farms, food manufacturers\r\n--Numerous gardens throughout Los Angeles\r\n"
 cached_project_image: >-
-  /assets/images/projects/2018/healthy-food-and-healthy-lives-in-south-los-angeles/activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
+  https://archive-assets.la2050.org/images/2018/healthy-food-and-healthy-lives-in-south-los-angeles/activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
 organization_name: 'My Friends House, Inc.'
 
 ---

@@ -57,8 +57,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102207'
 youtube_video_identifier: y3Gts_Aoxd8
 cached_project_image: >-
-  /assets/images/organizations/no-right-brain-left-behind-and-green-dot-schools/img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg
+  https://archive-assets.la2050.org/images/no-right-brain-left-behind-and-green-dot-schools/img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg
 
 ---

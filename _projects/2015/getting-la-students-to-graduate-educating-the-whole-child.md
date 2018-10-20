@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2015042'
+organization_id: '2015043'
 year_submitted: 2015
 category: learn
 body_class: blueberry
@@ -285,7 +285,7 @@ How do you plan to scale the success of your proposal?: >-
   South and Southeast LA. 
    This targeted Shared Mobility Plan could be a prototype for other disadvantaged communities in Southern California, from East LA to Long Beach to Inglewood and parts of the San Fernando Valley. All of these communities deserve to be part of the shift towards affordable shared mobility solutions, and this Plan will be a prototype for how to get there.
 cached_project_image: >-
-  /assets/images/projects/2015/getting-la-students-to-graduate-educating-the-whole-child/img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/getting-la-students-to-graduate-educating-the-whole-child/img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg
 youtube_video_identifier: 8RfGcPRl--8
 organization_name: Communities In Schools of Los Angeles
 

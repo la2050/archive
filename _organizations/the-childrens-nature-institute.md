@@ -49,8 +49,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102245'
 youtube_video_identifier: xF48V9enLaE
 cached_project_image: >-
-  /assets/images/organizations/the-childrens-nature-institute/img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg
+  https://archive-assets.la2050.org/images/the-childrens-nature-institute/img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg
 
 ---

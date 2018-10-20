@@ -32,8 +32,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102268'
 youtube_video_identifier: s-SSOCwgWEs
 cached_project_image: >-
-  /assets/images/organizations/siqueiros-foundation-of-the-arts/img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/siqueiros-foundation-of-the-arts/img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg
 
 ---

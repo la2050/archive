@@ -231,7 +231,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   can experiment and shape our homes, neighborhoods and city to reflect our
   hopes and desires. </p> 
 cached_project_image: >-
-  /assets/images/projects/2013/building-blocks-la-changing-the-shape-of-los-angeles-through-imaginative-urban-planning/img.youtube.com/vi/FuPNWZxNhrI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/building-blocks-la-changing-the-shape-of-los-angeles-through-imaginative-urban-planning/img.youtube.com/vi/FuPNWZxNhrI/maxresdefault.jpg
 youtube_video_identifier: FuPNWZxNhrI
 
 ---

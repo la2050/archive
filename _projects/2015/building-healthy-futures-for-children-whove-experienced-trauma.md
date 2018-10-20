@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2015031'
+organization_id: '2016117'
 year_submitted: 2015
 category: live
 body_class: lime
@@ -265,7 +265,7 @@ How do you plan to scale the success of your proposal?: >-
    
    In September, CII achieved a milestone in Watts, unveiling plans for the future Campus, designed pro-bono by world-renowned architect Frank Gehry. CII will continue evaluating our Model’s effectiveness at reducing the symptoms of Adverse Childhood Experiences and we will bring the most successful aspects of this proposal to Watts.
 cached_project_image: >-
-  /assets/images/projects/2015/building-healthy-futures-for-children-whove-experienced-trauma/img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/building-healthy-futures-for-children-whove-experienced-trauma/img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg
 youtube_video_identifier: 3AOHXhfJeho
 organization_name: 'Children’s Institute, Inc. (CII)'
 

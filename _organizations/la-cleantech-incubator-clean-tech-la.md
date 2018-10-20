@@ -43,8 +43,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102170'
 youtube_video_identifier: f2SXn1p3d4I
 cached_project_image: >-
-  /assets/images/organizations/la-cleantech-incubator-clean-tech-la/img.youtube.com/vi/f2SXn1p3d4I/hqdefault.jpg
+  https://archive-assets.la2050.org/images/la-cleantech-incubator-clean-tech-la/img.youtube.com/vi/f2SXn1p3d4I/hqdefault.jpg
 
 ---

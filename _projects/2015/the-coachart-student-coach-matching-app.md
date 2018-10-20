@@ -246,7 +246,7 @@ How do you plan to scale the success of your proposal?: >-
   will track the number of cities represented by considering a city
   “represented” when at least 30 matches are taking place in that city.
 cached_project_image: >-
-  /assets/images/projects/2015/the-coachart-student-coach-matching-app/img.youtube.com/vi/dYGBRY6Ol30/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/the-coachart-student-coach-matching-app/img.youtube.com/vi/dYGBRY6Ol30/maxresdefault.jpg
 youtube_video_identifier: dYGBRY6Ol30
 organization_name: CoachArt
 

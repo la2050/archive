@@ -228,7 +228,7 @@ How do you plan to scale the success of your proposal?: >-
    
    This pilot program and partnership with LA2050 will be key in proving the overall concept of the program itself, prior to expanding locally within LA county, then to the greater Californian area and eventually reaching other states within the continental US.
 cached_project_image: >-
-  /assets/images/projects/2015/bruce-lees-little-dragons/img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/bruce-lees-little-dragons/img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg
 youtube_video_identifier: YufCYg-BYaY
 organization_name: 'Bruce Lee Foundation '
 

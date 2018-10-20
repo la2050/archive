@@ -145,7 +145,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
-  /assets/images/projects/2015/free-lots-angeles-transforming-vacant-lots-into-neighborhood-assets/img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/free-lots-angeles-transforming-vacant-lots-into-neighborhood-assets/img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg
 youtube_video_identifier: KQnPSzqeZRk
 organization_name: >-
   Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal

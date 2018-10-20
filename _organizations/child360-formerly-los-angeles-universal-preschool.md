@@ -40,7 +40,10 @@ aggregated:
     - '2018'
     - '2013'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102018'
+  - '3102176'
 cached_project_image: >-
-  /assets/images/organizations/child360-formerly-los-angeles-universal-preschool/activation.la2050.org/assets/images/connect/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
+  https://archive-assets.la2050.org/images/child360-formerly-los-angeles-universal-preschool/activation.la2050.org/assets/images/connect/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
 
 ---

@@ -180,7 +180,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Other entities such as school districts and institutions of higher education; chambers of commerce, business and professional associations; fraternal and other membership organizations; municipal, county, state, and federal government agencies and elected officials; providers of health and human services; places of worship, neighborhood groups, and volunteer mobilizing organizations will all be invited to participate in Civic LA activities.
 cached_project_image: >-
-  /assets/images/projects/2014/civicla-connecting-you-to-the-best-of-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21146%252Fdisplay%252Fcivicla.png=c570x385.png
+  https://archive-assets.la2050.org/images/2014/civicla-connecting-you-to-the-best-of-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21146%252Fdisplay%252Fcivicla.png=c570x385.png
 maker_image_id: '21146'
 maker_image_file_name: civicla.png
 

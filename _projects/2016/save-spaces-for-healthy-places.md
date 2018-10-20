@@ -153,7 +153,7 @@ project_proposal_best_place: >-
   neighbors. Subcommittees will also monitor the CP process to mobilize
   residents around city planning and council hearings when necessary.
 cached_project_image: >-
-  /assets/images/projects/2016/save-spaces-for-healthy-places/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
+  https://archive-assets.la2050.org/images/2016/save-spaces-for-healthy-places/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
 organization_name: Community Health Councils
 organization_website: www.chc-inc.org
 

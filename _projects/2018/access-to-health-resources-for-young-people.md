@@ -93,7 +93,7 @@ Where do you hope this activation or your organization will be in five years?: >
   local community health center provides.  We hope to advance health equity and
   improve health outcomes for young people across Los Angele County.  
 cached_project_image: >-
-  /assets/images/projects/2018/access-to-health-resources-for-young-people/activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
+  https://archive-assets.la2050.org/images/2018/access-to-health-resources-for-young-people/activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 organization_name: Peer Health Exchange
 
 ---

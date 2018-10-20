@@ -203,7 +203,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   positive linkage between Arts & Cultural Vitality & Education will result in a
   more vibrant & engaged community as we head into the year 2050.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/la-creates-media-arts-learning-initiative/img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/la-creates-media-arts-learning-initiative/img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg
 youtube_video_identifier: ZobE5kX4dTc
 
 ---

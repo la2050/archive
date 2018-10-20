@@ -126,7 +126,7 @@ project_proposal_best_place: >-
   as it will be linked to Take Back the Night for free online counselling, legal
   advice and advocacy alternatives.
 cached_project_image: >-
-  /assets/images/projects/2016/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
+  https://archive-assets.la2050.org/images/2016/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
 organization_name: Light Sprout
 organization_website: In progress
 

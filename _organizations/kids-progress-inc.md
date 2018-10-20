@@ -60,9 +60,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102165'
 maker_image_file_name: Stem_pic.jpg
 maker_image_id: '16366'
 cached_project_image: >-
-  /assets/images/organizations/kids-progress-inc/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/kids-progress-inc/maker.good.is/images/placeholder/idea.png
 
 ---

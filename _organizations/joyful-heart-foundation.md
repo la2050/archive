@@ -39,7 +39,10 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102110'
+  - '5102151'
 cached_project_image: >-
-  /assets/images/organizations/joyful-heart-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
+  https://archive-assets.la2050.org/images/joyful-heart-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 
 ---

@@ -53,9 +53,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102112'
 maker_image_file_name: LA_2050__r.jpg
 maker_image_id: '16553'
 cached_project_image: >-
-  /assets/images/organizations/unitedlab/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16553%252Fdisplay%252FLA_2050__r.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/unitedlab/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16553%252Fdisplay%252FLA_2050__r.jpg=c570x385.jpg
 
 ---

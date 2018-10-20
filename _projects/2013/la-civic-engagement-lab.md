@@ -465,7 +465,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   workshops will last beyond five years and shape the way people interact with
   one another and government well into the future. </p>
 cached_project_image: >-
-  /assets/images/projects/2013/la-civic-engagement-lab/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16898%252Fdisplay%252Fca_civic_innovation_project_logo.png=c570x385.png
+  https://archive-assets.la2050.org/images/2013/la-civic-engagement-lab/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16898%252Fdisplay%252Fca_civic_innovation_project_logo.png=c570x385.png
 maker_image_id: '16898'
 maker_image_file_name: ca_civic_innovation_project_logo.png
 

@@ -129,7 +129,7 @@ project_proposal_best_place: >-
   respecting sustainability concerns for Environmental STEAM and honoring the
   importance of Film and Media here in Los Angeles.
 cached_project_image: >-
-  /assets/images/projects/2016/la-plays-at-king/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/la-plays-at-king/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
 organization_name: Friends of King
 organization_website: friendsofking.org
 

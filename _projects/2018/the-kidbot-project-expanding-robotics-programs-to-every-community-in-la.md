@@ -129,7 +129,7 @@ Where do you hope this activation or your organization will be in five years?: >
   compete against their LA’s BEST peers during regional competitions in addition
   to non-affiliated schools.
 cached_project_image: >-
-  /assets/images/projects/2018/the-kidbot-project-expanding-robotics-programs-to-every-community-in-la/activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg
+  https://archive-assets.la2050.org/images/2018/the-kidbot-project-expanding-robotics-programs-to-every-community-in-la/activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg
 organization_name: LA's BEST
 
 ---

@@ -144,7 +144,7 @@ project_proposal_best_place: >-
   other underserved schools and communities in Los Angeles. This will make LA
   the best place to LIVE!
 cached_project_image: >-
-  /assets/images/projects/2016/building-las-underserved-communities-from-the-ground-up/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1939548316741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/building-las-underserved-communities-from-the-ground-up/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1939548316741-team90.jpg
 organization_name: Community Healing Gardens
 organization_website: CommunityHealingGardens.org
 

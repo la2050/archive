@@ -159,7 +159,7 @@ Where do you hope this activation or your organization will be in five years?: >
   Department in the City of Los Angeles, which is fully funded to be competitive
   with other major cities.
 cached_project_image: >-
-  /assets/images/projects/2018/invest-in-youth-coalition-advocating-for-a-los-angeles-that-prioritizes-young-people/scontent-sjc3-1.cdninstagram.com/vp/1b00b072a7f3a1434fcdecd2bc8eddd1/5C576B4B/t51.2885-15/e35/13651990_167887633634755_556664520_n.jpg
+  https://archive-assets.la2050.org/images/2018/invest-in-youth-coalition-advocating-for-a-los-angeles-that-prioritizes-young-people/scontent-sjc3-1.cdninstagram.com/vp/1b00b072a7f3a1434fcdecd2bc8eddd1/5C576B4B/t51.2885-15/e35/13651990_167887633634755_556664520_n.jpg
 organization_name: Big Citizen HUB
 
 ---

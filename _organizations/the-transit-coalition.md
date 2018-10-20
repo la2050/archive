@@ -34,9 +34,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102230'
 maker_image_file_name: Cars_Attribution_Biofriendly_Creative_Commons_license.jpeg
 maker_image_id: '20691'
 cached_project_image: >-
-  /assets/images/organizations/the-transit-coalition/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20691%252Fdisplay%252FCars_Attribution_Biofriendly_Creative_Commons_license.jpeg=c570x385.jpg
+  https://archive-assets.la2050.org/images/the-transit-coalition/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20691%252Fdisplay%252FCars_Attribution_Biofriendly_Creative_Commons_license.jpeg=c570x385.jpg
 
 ---

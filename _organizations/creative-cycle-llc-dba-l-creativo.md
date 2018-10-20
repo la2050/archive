@@ -31,8 +31,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102049'
 youtube_video_identifier: XFrn3G05ZVc
 cached_project_image: >-
-  /assets/images/organizations/creative-cycle-llc-dba-l-creativo/img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg
+  https://archive-assets.la2050.org/images/creative-cycle-llc-dba-l-creativo/img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg
 
 ---

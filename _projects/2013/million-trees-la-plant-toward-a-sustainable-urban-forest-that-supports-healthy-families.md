@@ -181,7 +181,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/million-trees-la-plant-toward-a-sustainable-urban-forest-that-supports-healthy-families/img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/million-trees-la-plant-toward-a-sustainable-urban-forest-that-supports-healthy-families/img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg
 youtube_video_identifier: IMUZKtO4vOw
 
 ---

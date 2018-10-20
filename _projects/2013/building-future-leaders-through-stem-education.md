@@ -156,7 +156,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   graduates will be leaders at growing organizations currently evolving and to
   be established in the future.  
 cached_project_image: >-
-  /assets/images/projects/2013/building-future-leaders-through-stem-education/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/2013/building-future-leaders-through-stem-education/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16366'
 maker_image_file_name: Stem_pic.jpg
 

@@ -33,9 +33,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102206'
 maker_image_file_name: Cabrillo_High_School_Campus.JPG
 maker_image_id: '23218'
 cached_project_image: >-
-  /assets/images/organizations/mentormint/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23218%252Fdisplay%252FCabrillo_High_School_Campus.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/mentormint/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23218%252Fdisplay%252FCabrillo_High_School_Campus.JPG=c570x385.jpg
 
 ---

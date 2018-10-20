@@ -6,28 +6,32 @@ let yaml = require('js-yaml')
 
 
 function getYaml(text, filename) {
-  const DELIMITER = '---'
+  const DELIMITER = `---
+`
   let items = text.split(DELIMITER)
   if (items.length === 3) {
-    return items[1]
+    return `
+${items[1]}`
   } else {
     console.log('unexpected markdown format detected')
     console.log(items.length)
-    console.log(text)
+    // console.log(text)
     console.log(filename)
   }
 }
 
 
 function getContent(text, filename) {
-  const DELIMITER = '---'
+  const DELIMITER = `---
+`
   let items = text.split(DELIMITER)
   if (items.length === 3) {
-    return items[2]
+    return `
+${items[2]}`
   } else {
     console.log('unexpected markdown format detected')
     console.log(items.length)
-    console.log(text)
+    // console.log(text)
   }
 }
 
@@ -74,6 +78,7 @@ const attributes = [
   'project_titles',
   'aggregated',
   'year_submitted',
+  'calculated_project_ids',
   'original_project_ids',
   'original_project_titles',
   'extrapolated_project_ids',
@@ -286,14 +291,144 @@ function processFile(filename) {
   // delete data.yaml.original_project_titles
   // delete data.yaml.extrapolated_project_titles
 
-  data.yaml.year_submitted = data.yaml.aggregated.year_submitted[0]
+  // data.yaml.year_submitted = data.yaml.aggregated.year_submitted[0]
 
-  data.yaml.published = true
+  // data.yaml.published = true
 
-  if (data.yaml.project_image.startsWith("'")) {
-    console.log("*****found image with quote: " + data.yaml.project_image)
-    data.yaml.project_image = data.yaml.project_image.replace(/^'/, "").replace(/'$/, "")
+  // if (data.yaml.project_image.startsWith("'")) {
+  //   console.log("*****found image with quote: " + data.yaml.project_image)
+  //   data.yaml.project_image = data.yaml.project_image.replace(/^'/, "").replace(/'$/, "")
+  // }
+
+
+  let project_ids = []
+  let candidate_project_ids = []
+  let suspect_project_ids = []
+  projectMarkdownFiles.forEach(item => {
+
+    if (item.project_id == "4102265" && data.yaml.organization_id == "2018128") {
+      console.log("Checking 4102265")
+    }
+
+    data.yaml.project_ids.forEach(project_id => {
+      if (item.project_id == project_id) {
+        if (item.project_id == "4102265" && data.yaml.organization_id == "2018128") {
+          console.log("match 1")
+        }
+        project_ids.push(item.project_id)
+      }
+    })
+
+    data.yaml.aggregated.project_ids.forEach(project_id => {
+      if (item.project_id == project_id && item.organization_id == data.yaml.organization_id) {
+        if (item.project_id == "4102265" && data.yaml.organization_id == "2018128") {
+          console.log("match 2")
+        }
+        project_ids.push(item.project_id)
+      }
+    })
+
+    data.yaml.aggregated.project_ids.forEach(project_id => {
+      if (item.organization_id == data.yaml.organization_id) {
+        if (item.project_id == "4102265" && data.yaml.organization_id == "2018128") {
+          console.log("match 3")
+        }
+        candidate_project_ids.push(item.project_id)
+      }
+    })
+
+    data.yaml.aggregated.project_ids.forEach(project_id => {
+      if (item.project_id == project_id) {
+        if (item.project_id == "4102265" && data.yaml.organization_id == "2018128") {
+          console.log("match 4")
+        }
+        suspect_project_ids.push(item.project_id)
+      }
+    })
+
+  })
+
+  if (project_ids.length <= 0) {
+    project_ids = candidate_project_ids
   }
+  if (project_ids.length <= 0) {
+    project_ids = suspect_project_ids
+  }
+  if (project_ids.length > 0) {
+
+    project_ids = Array.from(new Set(project_ids)).sort((a, b) => {
+      // a is less than b by some ordering criterion
+      if (a > b) {
+        return -1
+      }
+      // a is greater than b by the ordering criterion
+      if (a < b) {
+        return 1
+      }
+      // a must be equal to b
+      return 0
+    })
+
+    // console.dir(project_ids)
+
+    data.yaml.calculated_project_ids = project_ids
+  }
+
+
+  // delete data.yaml.calculated_project_ids
+
+
+  // data.yaml.project_ids = data.yaml.project_ids.sort((a, b) => {
+  //   // a is less than b by some ordering criterion
+  //   if (a > b) {
+  //     return -1
+  //   }
+  //   // a is greater than b by the ordering criterion
+  //   if (a < b) {
+  //     return 1
+  //   }
+  //   // a must be equal to b
+  //   return 0
+  // })
+
+  /*
+  {% comment %}
+  {% for project_id in page.project_ids %}
+    {% assign data_list = data_collection.docs | where: "project_id", project_id %}
+    {% if data_list.size > 0 %}
+      {% assign project_list = project_list | push: data_list[0] %}
+    {% endif %}
+  {% endfor %}
+
+  {% comment %} SHIM {% endcomment %}
+  {% for project_id in page.aggregated.project_ids %}
+    {% assign data_list = data_collection.docs | where: "project_id", project_id | where: "organization_id", page.organization_id %}
+    {% if data_list.size > 0 %}
+      {% assign project_list = project_list | push: data_list[0] %}
+    {% endif %}
+  {% endfor %}
+
+  {% comment %} SHIM {% endcomment %}
+  {% if project_list.size <= 0 %}
+    {% assign data_list = data_collection.docs | where: "organization_id", page.organization_id %}
+    {% if data_list.size > 0 %}
+      {% assign project_list = project_list | push: data_list[0] %}
+    {% endif %}
+  {% endif %}
+
+  {% comment %} SHIM {% endcomment %}
+  {% if project_list.size <= 0 %}
+    {% for project_id in page.aggregated.project_ids %}
+      {% assign data_list = data_collection.docs | where: "project_id", project_id %}
+      {% if data_list.size > 0 %}
+        {% assign project_list = project_list | push: data_list[0] %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% endcomment %}
+  */
+
+
 
   saveMarkdown(filename, data)
 }
@@ -331,6 +466,50 @@ function updateFolder(folder) {
     processFile(folder + '/' + files[index])
   }
 }
+
+
+
+function getRecords(folder) {
+  let files = getAllFilesFromFolder(folder)
+
+  let records = []
+  for (let index = 0; index < files.length; index++) {
+    if (files[index].indexOf('.DS_Store') >= 0) continue
+
+    // Load the contents of the file
+    let data = loadMarkdown(files[index])
+    if (!data) continue
+
+    // Add the data to the list of records
+    records.push(data.yaml)
+  }
+  return records
+}
+
+// Create an object for quick lookup
+// let markdownProjectsLookup = {}
+// let markdownProjectsAggregatedLookup = {}
+let projectMarkdownFiles
+
+function createProjectsLookup() {
+
+  // Load the markdown files
+  let records = getRecords(`../_projects`)
+
+  // records.forEach(record => {
+  //   record.project_ids.forEach(project_id => {
+  //     markdownOrganizationsLookup[project_id] = record
+  //   })
+  //   record.aggregated.project_ids.forEach(project_id => {
+  //     markdownOrganizationsAggregatedLookup[project_id] = record
+  //   })
+  // })
+
+  projectMarkdownFiles = records
+}
+
+createProjectsLookup()
+
 
 
 updateFolder('../_organizations')

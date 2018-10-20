@@ -179,7 +179,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    General Assembly: General Assembly is an ed tech company that has been great supporters of our Hack for LA hackathons, and we'd love to team up with them to provide high-tech skills training such as web and app development to Boyle Heights residents. i.am.angel plans to subsidize the cost of these workshops in order to make classes more affordable for the Boyle Heights community.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/i-am-makerspace-empowering-creators-in-disadvantaged-communities/img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/i-am-makerspace-empowering-creators-in-disadvantaged-communities/img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg
 youtube_video_identifier: uVV1_WmFT9o
 
 ---

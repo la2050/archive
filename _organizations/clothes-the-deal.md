@@ -33,8 +33,11 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102069'
+  - '4102142'
 youtube_video_identifier: myUKgR-PO4c
 cached_project_image: >-
-  /assets/images/organizations/clothes-the-deal/img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg
+  https://archive-assets.la2050.org/images/clothes-the-deal/img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg
 
 ---

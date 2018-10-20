@@ -31,8 +31,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102307'
 youtube_video_identifier: X9EpK48pYtY
 cached_project_image: >-
-  /assets/images/organizations/the-moving-museum/img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg
+  https://archive-assets.la2050.org/images/the-moving-museum/img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg
 
 ---

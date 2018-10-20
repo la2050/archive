@@ -57,8 +57,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102241'
 youtube_video_identifier: h1GATPgLPxQ
 cached_project_image: >-
-  /assets/images/organizations/swipes-for-the-homeless/img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/swipes-for-the-homeless/img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg
 
 ---

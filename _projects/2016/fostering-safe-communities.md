@@ -90,7 +90,7 @@ project_proposal_best_place: >-
   care system and meet with this population and the agencies to identify and
   create solutions for these women and the communities in which they reside
 cached_project_image: >-
-  /assets/images/projects/2016/fostering-safe-communities/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9273888445741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/fostering-safe-communities/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9273888445741-team90.jpg
 organization_name: 50/50 Leadership
 organization_website: 5050leadership.org
 

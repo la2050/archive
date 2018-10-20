@@ -254,7 +254,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   current topics that if cultivated could result in creating a higher, local
   consciousness. Technology is a tool to further us along this path. 
 cached_project_image: >-
-  /assets/images/projects/2013/connecting-angelenos-through-smart-engaging-neighborhood-maps/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/connecting-angelenos-through-smart-engaging-neighborhood-maps/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385.jpg
 maker_image_id: '16991'
 maker_image_file_name: lasmartmap3.jpg
 

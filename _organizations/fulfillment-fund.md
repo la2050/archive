@@ -65,9 +65,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102136'
 maker_image_file_name: Destination_College_Photo.jpg
 maker_image_id: '16910'
 cached_project_image: >-
-  /assets/images/organizations/fulfillment-fund/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16910%252Fdisplay%252FDestination_College_Photo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/fulfillment-fund/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16910%252Fdisplay%252FDestination_College_Photo.jpg=c570x385.jpg
 
 ---

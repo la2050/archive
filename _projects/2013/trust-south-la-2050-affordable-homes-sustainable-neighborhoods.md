@@ -420,7 +420,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   transportation, bicycle and pedestrian infrastructure that encourages people
   to out of their cars and into their neighborhoods. 
 cached_project_image: >-
-  /assets/images/projects/2013/trust-south-la-2050-affordable-homes-sustainable-neighborhoods/img.youtube.com/vi/zwlibJLtPOE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/trust-south-la-2050-affordable-homes-sustainable-neighborhoods/img.youtube.com/vi/zwlibJLtPOE/maxresdefault.jpg
 youtube_video_identifier: zwlibJLtPOE
 
 ---

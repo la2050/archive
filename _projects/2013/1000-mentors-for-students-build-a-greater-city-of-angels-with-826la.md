@@ -285,7 +285,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   to the education of our children in 2050. Our students—and all of Los
   Angeles—will benefit from this culturally rich, engaged, and united city. </p>
 cached_project_image: >-
-  /assets/images/projects/2013/1000-mentors-for-students-build-a-greater-city-of-angels-with-826la/img.youtube.com/vi/rZH2uJv5RLI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/1000-mentors-for-students-build-a-greater-city-of-angels-with-826la/img.youtube.com/vi/rZH2uJv5RLI/maxresdefault.jpg
 youtube_video_identifier: rZH2uJv5RLI
 
 ---

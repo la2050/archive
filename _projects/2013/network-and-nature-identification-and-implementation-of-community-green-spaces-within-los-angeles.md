@@ -208,7 +208,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/network-and-nature-identification-and-implementation-of-community-green-spaces-within-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16908%252Fdisplay%252FFLTS_SWA_image.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/network-and-nature-identification-and-implementation-of-community-green-spaces-within-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16908%252Fdisplay%252FFLTS_SWA_image.jpg=c570x385.jpg
 maker_image_id: '16908'
 maker_image_file_name: FLTS_SWA_image.jpg
 

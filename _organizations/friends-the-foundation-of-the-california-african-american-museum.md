@@ -60,9 +60,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102133'
 maker_image_file_name: Wishing_Upon_A_Star.jpg
 maker_image_id: '17083'
 cached_project_image: >-
-  /assets/images/organizations/friends-the-foundation-of-the-california-african-american-museum/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17083%252Fdisplay%252FWishing_Upon_A_Star.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/friends-the-foundation-of-the-california-african-american-museum/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17083%252Fdisplay%252FWishing_Upon_A_Star.jpg=c570x385.jpg
 
 ---

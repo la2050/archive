@@ -141,7 +141,7 @@ Where do you hope this activation or your organization will be in five years?: >
   demonstrated by youth and adults in their communities. Promoting a culture of
   healthy practices in even the most under-resourced communities.
 cached_project_image: >-
-  /assets/images/projects/2018/a-youth-led-public-health-program-involving-health-professionals-students-our-communities/activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
+  https://archive-assets.la2050.org/images/2018/a-youth-led-public-health-program-involving-health-professionals-students-our-communities/activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
 organization_name: A Healthier Community Starts with YOUth
 
 ---

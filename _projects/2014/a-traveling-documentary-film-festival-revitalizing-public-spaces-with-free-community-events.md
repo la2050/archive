@@ -192,7 +192,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Beyond the projected audience of the 10,000 people we expect to reach, the most consequential impact is the diversity and multi-tier of class, gender, age and race the attendance figure represents. In addition to the audiences, the approximately 100 volunteers recruited, sourced from each community Ambulante California visits, will undergo production training and orientation of the themes and subjects of each documentary. An essential aspect is building morale, motivation and empowering the volunteers as ambassadors of the festival. In that respect we will offer volunteer screenings of the films in advance of the festival so they may adequately and passionately speak about the merits of the program.
 cached_project_image: >-
-  /assets/images/projects/2014/a-traveling-documentary-film-festival-revitalizing-public-spaces-with-free-community-events/img.youtube.com/vi/6jwNTQKIwsI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/a-traveling-documentary-film-festival-revitalizing-public-spaces-with-free-community-events/img.youtube.com/vi/6jwNTQKIwsI/maxresdefault.jpg
 youtube_video_identifier: 6jwNTQKIwsI
 
 ---

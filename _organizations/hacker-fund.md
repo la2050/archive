@@ -33,7 +33,9 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102050'
 cached_project_image: >-
-  /assets/images/organizations/hacker-fund/activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg
+  https://archive-assets.la2050.org/images/hacker-fund/activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg
 
 ---

@@ -47,8 +47,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102129'
 youtube_video_identifier: EpR6dHeaGIQ
 cached_project_image: >-
-  /assets/images/organizations/food-forward/img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg
+  https://archive-assets.la2050.org/images/food-forward/img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg
 
 ---

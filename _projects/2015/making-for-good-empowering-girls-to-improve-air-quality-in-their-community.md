@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2015048'
+organization_id: '2015049'
 year_submitted: 2015
 category: live
 body_class: lime
@@ -147,7 +147,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
-  /assets/images/projects/2015/making-for-good-empowering-girls-to-improve-air-quality-in-their-community/img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/making-for-good-empowering-girls-to-improve-air-quality-in-their-community/img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg
 youtube_video_identifier: g5AgtC0G5ec
 organization_name: DIY Girls
 

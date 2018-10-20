@@ -84,8 +84,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102221'
 youtube_video_identifier: ZBTmjmoABZE
 cached_project_image: >-
-  /assets/images/organizations/project-food-la/img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/project-food-la/img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg
 
 ---

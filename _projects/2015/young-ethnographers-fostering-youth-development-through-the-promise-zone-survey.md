@@ -275,7 +275,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Our proposal envisions the survey component to be a key deliverable in the form of a multi-lingual playbook that outlines strategies and best practices for community development that can be scaled and deployed to other regions of LA County. Identifying the Promise Zone’s next generation of leaders and change agents and delivering the promise of a Los Angeles as a functioning, well-run city that works with and for all Angelenos.
 cached_project_image: >-
-  /assets/images/projects/2015/young-ethnographers-fostering-youth-development-through-the-promise-zone-survey/img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/young-ethnographers-fostering-youth-development-through-the-promise-zone-survey/img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg
 youtube_video_identifier: MbjQABq5iTI
 organization_name: >-
   Los Angeles Promise Zone Initiative | LA Mayor's Office of Economic

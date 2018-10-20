@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014159'
+organization_id: '2014226'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -170,7 +170,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    10. Brothers, Sons, Selves Collaborative for Boys & Young Men of Color
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/the-talk-project/img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/the-talk-project/img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg
 youtube_video_identifier: ez1sypeq2hI
 
 ---

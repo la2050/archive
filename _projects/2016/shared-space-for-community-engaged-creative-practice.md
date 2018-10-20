@@ -136,7 +136,7 @@ project_proposal_best_place: >-
   dialogue connects local leaders; bringing them to the table creates a common
   agenda, while striving towards systemic change.
 cached_project_image: >-
-  /assets/images/projects/2016/shared-space-for-community-engaged-creative-practice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
+  https://archive-assets.la2050.org/images/2016/shared-space-for-community-engaged-creative-practice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
 organization_name: Cornerstone Theater Company
 organization_website: cornerstonetheater.org
 

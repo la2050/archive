@@ -132,7 +132,7 @@ project_proposal_best_place: >-
   pantry offerings. Community residents can volunteer in the garden, participate
   in community events, and attend Groceryships’ and Netiya’s respective classes.
 cached_project_image: >-
-  /assets/images/projects/2016/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
+  https://archive-assets.la2050.org/images/2016/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
 organization_name: Groceryships and Netiya
 organization_website: groceryships.org
 

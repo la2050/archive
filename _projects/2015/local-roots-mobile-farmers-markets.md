@@ -309,7 +309,7 @@ How do you plan to scale the success of your proposal?: >-
   to help other entrepreneurs and/or foundations leverage our farming
   technologies to replicate the model more quickly than we ourselves can scale.
 cached_project_image: >-
-  /assets/images/projects/2015/local-roots-mobile-farmers-markets/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23707%252Fdisplay%252FMobile_Market_Mock-Up.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/local-roots-mobile-farmers-markets/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23707%252Fdisplay%252FMobile_Market_Mock-Up.png=c570x385.png
 maker_image_id: '23707'
 maker_image_file_name: Mobile_Market_Mock-Up.png
 organization_name: Local Roots

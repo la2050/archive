@@ -34,8 +34,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102082'
 youtube_video_identifier: g5AgtC0G5ec
 cached_project_image: >-
-  /assets/images/organizations/diy-girls/img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/diy-girls/img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg
 
 ---

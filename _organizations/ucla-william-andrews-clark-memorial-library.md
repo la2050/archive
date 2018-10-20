@@ -40,9 +40,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102263'
 maker_image_file_name: CLARK_The_Country_Wife__1.jpg
 maker_image_id: '16669'
 cached_project_image: >-
-  /assets/images/organizations/ucla-william-andrews-clark-memorial-library/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/ucla-william-andrews-clark-memorial-library/maker.good.is/images/placeholder/idea.png
 
 ---

@@ -208,7 +208,7 @@ How do you plan to scale the success of your proposal?: >-
    
    We plan on sustaining our non-profit educational programs through the registrations and online memberships, crowdfunding, grants and private and public donations.
 cached_project_image: >-
-  /assets/images/projects/2015/the-love-story/img.youtube.com/vi/2U1i7uKpy8Y/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/the-love-story/img.youtube.com/vi/2U1i7uKpy8Y/hqdefault.jpg
 youtube_video_identifier: 2U1i7uKpy8Y
 organization_name: 'The Love Story and The Love Story Media, Inc. '
 

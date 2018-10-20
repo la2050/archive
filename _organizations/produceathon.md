@@ -44,7 +44,10 @@ aggregated:
     - '2018'
     - '2016'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102097'
+  - '6102190'
 cached_project_image: >-
-  /assets/images/organizations/produceathon/activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg
+  https://archive-assets.la2050.org/images/produceathon/activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg
 
 ---

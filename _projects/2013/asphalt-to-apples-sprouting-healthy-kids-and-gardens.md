@@ -362,7 +362,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   and has in turn created a population more healthy, more active, and more in
   control of its health than any other in the country.
 cached_project_image: >-
-  /assets/images/projects/2013/asphalt-to-apples-sprouting-healthy-kids-and-gardens/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16977%252Fdisplay%252Fbeans_on_clothes_H_small.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/asphalt-to-apples-sprouting-healthy-kids-and-gardens/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16977%252Fdisplay%252Fbeans_on_clothes_H_small.jpg=c570x385.jpg
 maker_image_id: '16977'
 maker_image_file_name: beans_on_clothes_H_small.jpg
 

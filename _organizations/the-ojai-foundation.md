@@ -46,7 +46,10 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102252'
+  - '5102308'
 cached_project_image: >-
-  /assets/images/organizations/the-ojai-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
+  https://archive-assets.la2050.org/images/the-ojai-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 
 ---

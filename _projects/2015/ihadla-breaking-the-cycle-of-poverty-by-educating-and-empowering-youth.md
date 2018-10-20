@@ -275,7 +275,7 @@ How do you plan to scale the success of your proposal?: >-
    
    We aim to achieve this growth by focusing on growing our fundraising & income as well as by increasing the community partners with whom we are able to work. By growing our marketing & brand awareness, ramping up our online presence, and making ourselves known throughout LA county, we hope to increase the number of people & organizations desiring to work with us in helping to make dreams come true as we aim to raise the disadvantaged youth we serve out of poverty.
 cached_project_image: >-
-  /assets/images/projects/2015/ihadla-breaking-the-cycle-of-poverty-by-educating-and-empowering-youth/img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/ihadla-breaking-the-cycle-of-poverty-by-educating-and-empowering-youth/img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg
 youtube_video_identifier: QV1lB2SqWos
 organization_name: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
 

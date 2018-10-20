@@ -209,7 +209,7 @@ How do you plan to scale the success of your proposal?: >-
   photography, videos, written documentation and feedback from residents,
   building owners, community members and civic leaders.
 cached_project_image: >-
-  /assets/images/projects/2015/the-edible-apartment/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23185%252Fdisplay%252Fthumb_IMG_2442_1024_2.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/the-edible-apartment/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23185%252Fdisplay%252Fthumb_IMG_2442_1024_2.jpg=c570x385.jpg
 maker_image_id: '23185'
 maker_image_file_name: thumb_IMG_2442_1024_2.jpg
 organization_name: The Edible Apartment

@@ -240,7 +240,7 @@ How do you plan to scale the success of your proposal?: >-
    Last year, we helped 62 men, women, and children in 30 families by caring for their pets. A total of 32 dogs, 5 cats, 1 rabbit and 1 hamster were housed in safe, loving homes while their human families received much needed emotional support from domestic violence shelters across Los Angeles County. This year, we want to help more. 
    If expanding the ASN program helps save the lives of more people and pets and catches like wildfire – spreading to other humane organizations and communities - our project will be deemed successful.
 cached_project_image: >-
-  /assets/images/projects/2015/spcalas-asn-helping-domestic-violence-survivors-their-pets-live-safer-healthier-lives/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23662%252Fdisplay%252FCarrie_15-00963.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/spcalas-asn-helping-domestic-violence-survivors-their-pets-live-safer-healthier-lives/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23662%252Fdisplay%252FCarrie_15-00963.jpg=c570x385.jpg
 maker_image_id: '23662'
 maker_image_file_name: Carrie_15-00963.jpg
 organization_name: spcaLA

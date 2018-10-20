@@ -245,7 +245,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   them. If we give them the tools to see, think and act, we — our city — will
   reap the benefits of their ideas.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/high-school-students-shape-the-future-of-los-angeles/img.youtube.com/vi/EZJvYnujihw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/high-school-students-shape-the-future-of-los-angeles/img.youtube.com/vi/EZJvYnujihw/maxresdefault.jpg
 youtube_video_identifier: EZJvYnujihw
 
 ---

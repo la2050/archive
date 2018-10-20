@@ -242,7 +242,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Meanwhile, we expect that the external evaluation of our program that is currently underway will help us to validate our relationship-based service model, and identify opportunities to improve our program delivery, so that not only can we scale the program locally, but encourage its replication in communities nationwide.
 cached_project_image: >-
-  /assets/images/projects/2015/college-is-for-foster-youth/img.youtube.com/vi/adLZ6eeMc2w/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/college-is-for-foster-youth/img.youtube.com/vi/adLZ6eeMc2w/maxresdefault.jpg
 youtube_video_identifier: adLZ6eeMc2w
 organization_name: United Friends of the Children
 

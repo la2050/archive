@@ -35,9 +35,12 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102108'
+  - '3102132'
 maker_image_file_name: 12_Stills_from_videos.jpg
 maker_image_id: '21306'
 cached_project_image: >-
-  /assets/images/organizations/l-a-freewaves/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21306%252Fdisplay%252F12_Stills_from_videos.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/l-a-freewaves/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21306%252Fdisplay%252F12_Stills_from_videos.jpg=c570x385.jpg
 
 ---

@@ -292,7 +292,7 @@ How do you plan to scale the success of your proposal?: >-
    
    So, while we "incentivize" and get our students excited about going to school everyday, we also give them to the tools needed for success in both school and life! We establish within each student a solid foundation of values that are taken home to families and are carried with them forever. We believe that learning NEVER ends and getting people excited about valuing their education isn't just about improving attendance rates or graduation rates, it's about improving their future!
 cached_project_image: >-
-  /assets/images/projects/2015/school-is-cool-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24144%252Fdisplay%252FShannonTaTLA2050.jpeg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/school-is-cool-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24144%252Fdisplay%252FShannonTaTLA2050.jpeg=c570x385.jpg
 maker_image_id: '24144'
 maker_image_file_name: ShannonTaTLA2050.jpeg
 organization_name: Thinking about Tomorrow

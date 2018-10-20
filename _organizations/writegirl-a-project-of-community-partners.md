@@ -29,8 +29,11 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102263'
+  - '3102275'
 youtube_video_identifier: FmHmFIlfA4A
 cached_project_image: >-
-  /assets/images/organizations/writegirl-a-project-of-community-partners/img.youtube.com/vi/FmHmFIlfA4A/hqdefault.jpg
+  https://archive-assets.la2050.org/images/writegirl-a-project-of-community-partners/img.youtube.com/vi/FmHmFIlfA4A/hqdefault.jpg
 
 ---

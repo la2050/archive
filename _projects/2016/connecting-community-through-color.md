@@ -140,7 +140,7 @@ project_proposal_best_place: >-
   Creating these murals will connect people in a classic Big Sunday way:
   impactful and fun.
 cached_project_image: >-
-  /assets/images/projects/2016/connecting-community-through-color/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
+  https://archive-assets.la2050.org/images/2016/connecting-community-through-color/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
 organization_name: Big Sunday
 organization_website: www.bigsunday.org
 

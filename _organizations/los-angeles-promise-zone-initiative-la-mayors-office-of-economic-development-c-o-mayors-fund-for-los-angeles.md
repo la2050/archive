@@ -35,8 +35,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102193'
 youtube_video_identifier: MbjQABq5iTI
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-promise-zone-initiative-la-mayors-office-of-economic-development-c-o-mayors-fund-for-los-angeles/img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/los-angeles-promise-zone-initiative-la-mayors-office-of-economic-development-c-o-mayors-fund-for-los-angeles/img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg
 
 ---

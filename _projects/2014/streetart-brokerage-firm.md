@@ -238,7 +238,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The three factors critical to the success of our proposed collaboration are our core values and mission, our shared knowledge and free flow of ideas and our impeccable reputations and integrity as human beings and art and community advocates.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/streetart-brokerage-firm/img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/streetart-brokerage-firm/img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg
 youtube_video_identifier: G4cMVQVTBkM
 
 ---

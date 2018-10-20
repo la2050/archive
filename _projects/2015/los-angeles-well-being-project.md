@@ -237,7 +237,7 @@ How do you plan to scale the success of your proposal?: >-
   March 2016, all which would adopt the methodology that will be developed
   through this project.
 cached_project_image: >-
-  /assets/images/projects/2015/los-angeles-well-being-project/img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/los-angeles-well-being-project/img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg
 youtube_video_identifier: EJWQ6cYZBCk
 organization_name: HappyCity Los Angeles
 

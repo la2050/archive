@@ -326,7 +326,7 @@ How do you plan to scale the success of your proposal?: >-
   committed to the program. The issue for WestCal Academy is how to secure
   additional funds to assure successful scalability.
 cached_project_image: >-
-  /assets/images/projects/2015/westcal-career-pathways/img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/westcal-career-pathways/img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg
 youtube_video_identifier: f_x1AGOuR7A
 organization_name: WestCal Academy
 

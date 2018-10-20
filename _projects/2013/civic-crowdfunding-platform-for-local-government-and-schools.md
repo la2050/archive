@@ -128,7 +128,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   improved overall sense of community between the Los Angelenos and the
   students, teachers and administration of the LAUSD.
 cached_project_image: >-
-  /assets/images/projects/2013/civic-crowdfunding-platform-for-local-government-and-schools/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/2013/civic-crowdfunding-platform-for-local-government-and-schools/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16290'
 maker_image_file_name: zenfunder-la2050.png
 

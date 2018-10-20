@@ -106,8 +106,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102021'
 youtube_video_identifier: tnpBsy1mGwQ
 cached_project_image: >-
-  /assets/images/organizations/angelenos-against-gridlock/img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg
+  https://archive-assets.la2050.org/images/angelenos-against-gridlock/img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg
 
 ---

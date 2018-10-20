@@ -170,7 +170,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   connectedness have all improved, and more people understand the impact and
   efficacy of peer education in supporting community and individual health. 
 cached_project_image: >-
-  /assets/images/projects/2013/empowering-teens-with-the-knowledge-and-skills-to-make-healthy-decisions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16795%252Fdisplay%252FElaine_-_Asian_Female_PHE_Volunteer_Teaching.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/empowering-teens-with-the-knowledge-and-skills-to-make-healthy-decisions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16795%252Fdisplay%252FElaine_-_Asian_Female_PHE_Volunteer_Teaching.jpg=c570x385.jpg
 maker_image_id: '16795'
 maker_image_file_name: Elaine_-_Asian_Female_PHE_Volunteer_Teaching.jpg
 

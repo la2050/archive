@@ -142,7 +142,7 @@ Where do you hope this activation or your organization will be in five years?: >
   educators. We hope to have continued our partnership with ProCon.org so that
   together we are a resource for educators across the country.
 cached_project_image: >-
-  /assets/images/projects/2018/youth-voice-2020/activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
+  https://archive-assets.la2050.org/images/2018/youth-voice-2020/activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
 organization_name: 'Action Civics LA, an initiative of Mikva Challenge'
 
 ---

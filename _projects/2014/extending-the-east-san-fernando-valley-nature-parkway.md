@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2016093'
+organization_id: '2016161'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -152,7 +152,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    USC (analysis; unconfirmed)
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/extending-the-east-san-fernando-valley-nature-parkway/img.youtube.com/vi/O0GqacCipYM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/extending-the-east-san-fernando-valley-nature-parkway/img.youtube.com/vi/O0GqacCipYM/maxresdefault.jpg
 youtube_video_identifier: O0GqacCipYM
 
 ---

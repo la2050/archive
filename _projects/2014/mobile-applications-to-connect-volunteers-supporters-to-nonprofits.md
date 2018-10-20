@@ -167,7 +167,7 @@ Whom will your project benefit? Please be specific.: >-
   We'd also love to collaborate with all other local organizations on the build
   of the platform to suit their operational needs.
 cached_project_image: >-
-  /assets/images/projects/2014/mobile-applications-to-connect-volunteers-supporters-to-nonprofits/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20899%252Fdisplay%252Fgood.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/mobile-applications-to-connect-volunteers-supporters-to-nonprofits/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20899%252Fdisplay%252Fgood.jpg=c570x385.jpg
 maker_image_id: '20899'
 maker_image_file_name: good.jpg
 

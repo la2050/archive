@@ -43,7 +43,10 @@ aggregated:
     - '2018'
     - '2016'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102044'
+  - '6102080'
 cached_project_image: >-
-  /assets/images/organizations/get-lit-words-ignite/activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
+  https://archive-assets.la2050.org/images/get-lit-words-ignite/activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
 
 ---

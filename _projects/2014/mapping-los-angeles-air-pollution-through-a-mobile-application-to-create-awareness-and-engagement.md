@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014216'
+organization_id: '2015216'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -185,7 +185,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    UCLA Business School undergraduate students and graduate students will seek to further establish connections with local and corporate businesses to provide incentives for users and rewards for those that reach their target goal/metric such as weight loss, miles walked than driven, etc.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/mapping-los-angeles-air-pollution-through-a-mobile-application-to-create-awareness-and-engagement/img.youtube.com/vi/hhGzboSQL6A/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/mapping-los-angeles-air-pollution-through-a-mobile-application-to-create-awareness-and-engagement/img.youtube.com/vi/hhGzboSQL6A/maxresdefault.jpg
 youtube_video_identifier: hhGzboSQL6A
 
 ---

@@ -44,7 +44,10 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102231'
+  - '5102273'
 cached_project_image: >-
-  /assets/images/organizations/sola-food-co-op/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
+  https://archive-assets.la2050.org/images/sola-food-co-op/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
 
 ---

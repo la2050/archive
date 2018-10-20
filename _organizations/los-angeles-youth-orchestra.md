@@ -47,8 +47,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102191'
 youtube_video_identifier: OSdBClactgc
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-youth-orchestra/img.youtube.com/vi/OSdBClactgc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/los-angeles-youth-orchestra/img.youtube.com/vi/OSdBClactgc/maxresdefault.jpg
 
 ---

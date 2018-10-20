@@ -144,7 +144,7 @@ project_proposal_best_place: >-
   Data for Los Angeles county here:
   http://digitalequality.net/wp-content/uploads/2013/06/LA-from-CA-Connects-Demographic-and-Connectedness-Profiles.pdf
 cached_project_image: >-
-  /assets/images/projects/2016/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
+  https://archive-assets.la2050.org/images/2016/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 organization_name: Drizzle Connect
 organization_website: blog.getdrizzle.com/la2050-challenge
 

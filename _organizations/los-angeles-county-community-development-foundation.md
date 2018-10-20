@@ -34,9 +34,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102128'
 maker_image_file_name: Photo_Collage_v6.jpg
 maker_image_id: '22531'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-county-community-development-foundation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22531%252Fdisplay%252FPhoto_Collage_v6.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/los-angeles-county-community-development-foundation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22531%252Fdisplay%252FPhoto_Collage_v6.jpg=c570x385.jpg
 
 ---

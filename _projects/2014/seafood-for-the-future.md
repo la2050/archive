@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014205'
+organization_id: '2014114'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -199,7 +199,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The three factors critical to a successful “Mobile Forum” collaboration-partnership are: (1) a distributed and representative audience, (2) connection to decision-makers, and (3) promotion.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/seafood-for-the-future/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22849%252Fdisplay%252FAquariumPacific.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/seafood-for-the-future/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22849%252Fdisplay%252FAquariumPacific.jpg=c570x385.jpg
 maker_image_id: '22849'
 maker_image_file_name: AquariumPacific.jpg
 

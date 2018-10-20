@@ -36,9 +36,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102258'
 maker_image_file_name: LA2050-pic-1_copy.jpg
 maker_image_id: '22795'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-county-active-transportation-collaborative-safe-routes-to-school-national-partnership-and-lacbc-work-to-support-improved-policies-and-increased-levels-of-funding-for-active-transportation-and-complete-streets-in-los-angeles-county/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22795%252Fdisplay%252FLA2050-pic-1_copy.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/los-angeles-county-active-transportation-collaborative-safe-routes-to-school-national-partnership-and-lacbc-work-to-support-improved-policies-and-increased-levels-of-funding-for-active-transportation-and-complete-streets-in-los-angeles-county/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22795%252Fdisplay%252FLA2050-pic-1_copy.jpg=c570x385.jpg
 
 ---

@@ -157,7 +157,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Our ability to establish sustainable partnerships is illustrated in our 19-year partnership with One Heartland for our summer arts camp. HH is dedicated to strengthening relationships with all our existing partners and continually seeks to collaborate with other like-minded organizations in for future programs.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/la-has-heart/img.youtube.com/vi/Xau4GFWaEhY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/la-has-heart/img.youtube.com/vi/Xau4GFWaEhY/maxresdefault.jpg
 youtube_video_identifier: Xau4GFWaEhY
 
 ---

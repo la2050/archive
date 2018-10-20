@@ -43,7 +43,11 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102270'
+  - '5102332'
+  - '4102244'
 cached_project_image: >-
-  /assets/images/organizations/united-friends-of-the-children/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
+  https://archive-assets.la2050.org/images/united-friends-of-the-children/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
 
 ---

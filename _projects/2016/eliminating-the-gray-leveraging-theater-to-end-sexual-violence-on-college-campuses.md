@@ -119,7 +119,7 @@ project_proposal_best_place: >-
   proactive way of healing and helping others. We all feel the urgency in fixing
   this problem and want to use our combined skills to make a positive impact.
 cached_project_image: >-
-  /assets/images/projects/2016/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
+  https://archive-assets.la2050.org/images/2016/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
 organization_name: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
 organization_website: www.ladypartscollective.com
 

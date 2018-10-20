@@ -90,7 +90,7 @@ project_proposal_best_place: >-
   West Hollywood would convene quarterly regional meetings to build the Smart
   City network across LA County.
 cached_project_image: >-
-  /assets/images/projects/2016/open-sourced-smart-city-collaborative/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5488182355741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/open-sourced-smart-city-collaborative/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5488182355741-team91.jpg
 organization_name: City of West Hollywood
 organization_website: www.weho.org
 

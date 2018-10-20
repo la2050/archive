@@ -192,7 +192,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   common bonds, become involved in their community and invested in making Los
   Angeles a better place to live for everyone. 
 cached_project_image: >-
-  /assets/images/projects/2013/neighbor-to-neighbor-connecting-los-angeles-through-storytelling/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/neighbor-to-neighbor-connecting-los-angeles-through-storytelling/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385.jpg
 maker_image_id: '16858'
 maker_image_file_name: Access_LA_Rt_copy.jpg
 

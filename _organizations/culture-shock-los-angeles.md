@@ -32,8 +32,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102079'
 youtube_video_identifier: wmExJ7xdKYc
 cached_project_image: >-
-  /assets/images/organizations/culture-shock-los-angeles/img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/culture-shock-los-angeles/img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg
 
 ---

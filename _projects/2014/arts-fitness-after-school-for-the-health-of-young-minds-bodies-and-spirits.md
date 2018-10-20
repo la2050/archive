@@ -159,7 +159,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    -Weekly check-ins of key leaders for each group
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/arts-fitness-after-school-for-the-health-of-young-minds-bodies-and-spirits/img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/arts-fitness-after-school-for-the-health-of-young-minds-bodies-and-spirits/img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg
 youtube_video_identifier: GzEz6Q-9lWQ
 
 ---

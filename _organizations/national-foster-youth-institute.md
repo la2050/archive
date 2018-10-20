@@ -34,7 +34,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102163'
 cached_project_image: >-
-  /assets/images/organizations/national-foster-youth-institute/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
+  https://archive-assets.la2050.org/images/national-foster-youth-institute/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
 
 ---

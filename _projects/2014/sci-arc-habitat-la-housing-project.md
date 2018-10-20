@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014187'
+organization_id: '2014191'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -215,7 +215,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. Relationships between the teachers and the Peer Coach is critical to success. COPA teachers report high satisfaction with their relationships with their Peer Coach. A focus group of COPA teachers across 3 school districts agreed that the most significant factor in changing their instructional practice related to PE was their peer coach relationship. This is a direct result of the PE Specialist setting a tone of trust and openness. We know that most classroom teachers have little to no training in PE; we know that most teachers are apprehensive about taking a group of 30 kids outside with the expectation of teaching age-appropriate motor skills; and we know from our 11 years of experience that there are teachers who have their own personal memories of PE that are not so positive and that definitely don’t motivate them to teach PE themselves. The peer coach takes all of these factors into consideration, is able to work individually with the teacher and their students and build a relationship of trust and mutual respect that overcomes these barriers to teaching PE.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/sci-arc-habitat-la-housing-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21961%252Fdisplay%252FSCI-Arc-HFH_FINAL.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/sci-arc-habitat-la-housing-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21961%252Fdisplay%252FSCI-Arc-HFH_FINAL.jpg=c570x385.jpg
 maker_image_id: '21961'
 maker_image_file_name: SCI-Arc-HFH_FINAL.jpg
 

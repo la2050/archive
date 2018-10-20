@@ -164,7 +164,7 @@ Whom will your project benefit? Please be specific.: |-
    USC & UCLA will host the athlete villages and sports venues. 
    ESPN has partnered with LA2015 to serve as the Global Media sponsor for the World Games. This historic agreement will broadcast a 3 hour Opening Ceremony special live on ESPN 1 or ESPN 2 (98 million subscribers in the USA), provide a minimum of an additional 5.5 hours of coverage during the Games, production of a daily highlight video package for the GOC to be provided to media around the world, as well as a promotional campaign leading up to the 2015 World Games.
 cached_project_image: >-
-  /assets/images/projects/2014/special-olympics-world-games-2015/img.youtube.com/vi/DMG32xJ5p-Q/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/special-olympics-world-games-2015/img.youtube.com/vi/DMG32xJ5p-Q/hqdefault.jpg
 youtube_video_identifier: DMG32xJ5p-Q
 
 ---

@@ -420,7 +420,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/college-track-creating-a-pathway-to-college-in-boyle-heights/img.youtube.com/vi/VRnL2Zo28YM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/college-track-creating-a-pathway-to-college-in-boyle-heights/img.youtube.com/vi/VRnL2Zo28YM/maxresdefault.jpg
 youtube_video_identifier: VRnL2Zo28YM
 
 ---

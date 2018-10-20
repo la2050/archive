@@ -137,7 +137,7 @@ project_proposal_best_place: >-
   can make LA the best place to connect by lowering some of the barriers that
   inhibit civic engagement.
 cached_project_image: >-
-  /assets/images/projects/2016/local-civic-engagement-is-hard-lets-make-it-easier/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
+  https://archive-assets.la2050.org/images/2016/local-civic-engagement-is-hard-lets-make-it-easier/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
 organization_name: The Burg
 organization_website: burg.io
 

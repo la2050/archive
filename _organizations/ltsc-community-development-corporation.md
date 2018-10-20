@@ -80,9 +80,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102192'
 maker_image_file_name: LTSC_LA2050.jpg
 maker_image_id: '16930'
 cached_project_image: >-
-  /assets/images/organizations/ltsc-community-development-corporation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16930%252Fdisplay%252FLTSC_LA2050.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/ltsc-community-development-corporation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16930%252Fdisplay%252FLTSC_LA2050.jpg=c570x385.jpg
 
 ---

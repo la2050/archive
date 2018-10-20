@@ -79,9 +79,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102238'
 maker_image_file_name: 130126-0191.jpg
 maker_image_id: '17003'
 cached_project_image: >-
-  /assets/images/organizations/step-up-womens-network/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17003%252Fdisplay%252F130126-0191.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/step-up-womens-network/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17003%252Fdisplay%252F130126-0191.jpg=c570x385.jpg
 
 ---

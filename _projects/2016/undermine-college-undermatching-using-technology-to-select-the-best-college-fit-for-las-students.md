@@ -137,7 +137,7 @@ project_proposal_best_place: >-
   LA not only the best place to LEARN, but the best place to PLAY, CREATE,
   CONNECT, and LIVE – all feasible thanks to the foundation of LEARNING.
 cached_project_image: >-
-  /assets/images/projects/2016/undermine-college-undermatching-using-technology-to-select-the-best-college-fit-for-las-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/undermine-college-undermatching-using-technology-to-select-the-best-college-fit-for-las-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
 organization_name: Youth Policy Institute
 organization_website: www.ypiusa.org
 

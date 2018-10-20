@@ -132,7 +132,7 @@ project_proposal_best_place: >-
   magnificent place when women are continuously engaged in the joy of exercising
   their genius.
 cached_project_image: >-
-  /assets/images/projects/2016/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
 organization_name: boxcar+muse
 organization_website: boxcarmuse.com
 

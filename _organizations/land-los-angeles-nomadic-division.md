@@ -40,7 +40,10 @@ aggregated:
     - '2016'
     - '2014'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102126'
+  - '4102112'
 cached_project_image: >-
-  /assets/images/organizations/land-los-angeles-nomadic-division/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
+  https://archive-assets.la2050.org/images/land-los-angeles-nomadic-division/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
 
 ---

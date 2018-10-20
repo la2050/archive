@@ -128,7 +128,7 @@ project_proposal_best_place: >-
   community will still be able to walk the Endless Orchard and the trees will
   still be bearing fruit.
 cached_project_image: >-
-  /assets/images/projects/2016/the-endless-orchard-phase-two/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/the-endless-orchard-phase-two/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg
 organization_name: Fallen Fruit
 organization_website: www.fallenfruit.org
 

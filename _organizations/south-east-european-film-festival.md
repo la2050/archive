@@ -31,8 +31,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102194'
 youtube_video_identifier: qtJ5XumU1Gw
 cached_project_image: >-
-  /assets/images/organizations/south-east-european-film-festival/img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/south-east-european-film-festival/img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg
 
 ---

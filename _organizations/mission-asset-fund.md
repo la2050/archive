@@ -46,8 +46,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102198'
 youtube_video_identifier: AXqYX0rfbys
 cached_project_image: >-
-  /assets/images/organizations/mission-asset-fund/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/13669238_1181409091911320_4114766164205155164_n.png
+  https://archive-assets.la2050.org/images/mission-asset-fund/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/13669238_1181409091911320_4114766164205155164_n.png
 
 ---

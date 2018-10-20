@@ -32,8 +32,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102210'
 youtube_video_identifier: g0KxazcQnVA
 cached_project_image: >-
-  /assets/images/organizations/motor-avenue-improvement-association/img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/motor-avenue-improvement-association/img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg
 
 ---

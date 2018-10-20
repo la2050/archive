@@ -150,7 +150,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We have partnered with Ashoka and Peace First. They have been content providers for some of our larger events- including the Social Entrepreneurship Camp for Young Changemakers- and continue to provide strong support for MNMS.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/my-name-my-story/img.youtube.com/vi/A9yf6DpgLSM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/my-name-my-story/img.youtube.com/vi/A9yf6DpgLSM/hqdefault.jpg
 youtube_video_identifier: A9yf6DpgLSM
 
 ---

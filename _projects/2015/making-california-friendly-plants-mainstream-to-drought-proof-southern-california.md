@@ -267,7 +267,7 @@ How do you plan to scale the success of your proposal?: >-
    
    In the twentieth century, California's invested in pioneering physical infrastructure to safeguard our water future and create an unprecedented era of water supply. This new virtual infrastructure will ensure California's water future into the next century by powering an unprecedented era of water efficiency.
 cached_project_image: >-
-  /assets/images/projects/2015/making-california-friendly-plants-mainstream-to-drought-proof-southern-california/img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/making-california-friendly-plants-mainstream-to-drought-proof-southern-california/img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg
 youtube_video_identifier: mvOTPkbwJJU
 organization_name: Southern California Water Committee
 

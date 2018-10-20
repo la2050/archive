@@ -35,7 +35,9 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102136'
 cached_project_image: >-
-  /assets/images/organizations/we-are-enough-c-o-social-environmental-entrepreneurs/activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
+  https://archive-assets.la2050.org/images/we-are-enough-c-o-social-environmental-entrepreneurs/activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 
 ---

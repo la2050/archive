@@ -301,7 +301,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   individual person, each small act of kindness or helping hand can make a
   difference in the lives of others. 
 cached_project_image: >-
-  /assets/images/projects/2013/students-working-together-to-combat-homelessness-and-reduce-food-waste-on-campus/img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/students-working-together-to-combat-homelessness-and-reduce-food-waste-on-campus/img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg
 youtube_video_identifier: h1GATPgLPxQ
 
 ---

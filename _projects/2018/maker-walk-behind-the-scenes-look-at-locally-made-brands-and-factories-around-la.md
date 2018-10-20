@@ -137,7 +137,7 @@ Where do you hope this activation or your organization will be in five years?: >
   becomes successful enough that we can replicate this in other cities to help
   them celebrate their ecosystems
 cached_project_image: >-
-  /assets/images/projects/2018/maker-walk-behind-the-scenes-look-at-locally-made-brands-and-factories-around-la/activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg
+  https://archive-assets.la2050.org/images/2018/maker-walk-behind-the-scenes-look-at-locally-made-brands-and-factories-around-la/activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg
 organization_name: MAKE IT IN LA
 
 ---

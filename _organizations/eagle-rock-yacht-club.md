@@ -40,8 +40,11 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102062'
+  - '3102116'
 youtube_video_identifier: aKgBQ7XR-pg
 cached_project_image: >-
-  /assets/images/organizations/eagle-rock-yacht-club/img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/eagle-rock-yacht-club/img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg
 
 ---

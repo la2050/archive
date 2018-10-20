@@ -73,7 +73,7 @@ project_proposal_best_place: >-
   doors and career pathways that students may not have known existed prior to
   the internship.
 cached_project_image: >-
-  /assets/images/projects/2016/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0987534165741-team90.png
+  https://archive-assets.la2050.org/images/2016/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0987534165741-team90.png
 organization_name: Los Angeles World Airports
 organization_website: www.lawa.org
 

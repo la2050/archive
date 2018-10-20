@@ -69,7 +69,7 @@ project_proposal_best_place: >-
   healing house for transplant patients that serves their transplant centers.
   Los Angeles should be number one in providing this facility.
 cached_project_image: >-
-  /assets/images/projects/2016/the-transplant-journey/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4988765384741-team91.JPG
+  https://archive-assets.la2050.org/images/2016/the-transplant-journey/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4988765384741-team91.JPG
 organization_name: Ava's Heart
 organization_website: avasheart.org
 

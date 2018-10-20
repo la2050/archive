@@ -154,7 +154,7 @@ Where do you hope this activation or your organization will be in five years?: >
   We hope that are platform will be a go to platform when global organizations
   are looking for creators. 
 cached_project_image: >-
-  /assets/images/projects/2018/revolutionize-hollywood-presents-the-artrepreneur-software-a-digital-market-place-for-creatives/activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
+  https://archive-assets.la2050.org/images/2018/revolutionize-hollywood-presents-the-artrepreneur-software-a-digital-market-place-for-creatives/activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
 organization_name: Revolutionize Hollywood
 
 ---

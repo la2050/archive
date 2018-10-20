@@ -353,7 +353,7 @@ How do you plan to scale the success of your proposal?: >-
   place to create helps the world become a better place, and that is why,
   finally, we do what we do.
 cached_project_image: >-
-  /assets/images/projects/2015/los-angeles-review-of-books-enabling-la-creativity/img.youtube.com/vi/dZQ4_RgpSno/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/los-angeles-review-of-books-enabling-la-creativity/img.youtube.com/vi/dZQ4_RgpSno/maxresdefault.jpg
 youtube_video_identifier: dZQ4_RgpSno
 organization_name: Los Angeles Review of Books
 

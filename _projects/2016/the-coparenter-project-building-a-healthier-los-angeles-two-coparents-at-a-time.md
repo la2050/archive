@@ -107,7 +107,7 @@ project_proposal_best_place: >-
   address the LA2050 live metric of disrupting adverse childhood events and have
   wide impact on child and family well-being across LA County.
 cached_project_image: >-
-  /assets/images/projects/2016/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
+  https://archive-assets.la2050.org/images/2016/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
 organization_name: 'HyphenUs, Inc.'
 organization_website: www.coparenter.com
 

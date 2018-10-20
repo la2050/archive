@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2016232'
+organization_id: '2014176'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -250,7 +250,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Securing a commitment from LADWP to end the use of coal no later than 2025.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/undevelopment-one/img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/undevelopment-one/img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg
 youtube_video_identifier: g8ndzuZ3kKM
 
 ---

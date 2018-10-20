@@ -32,8 +32,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102313'
 youtube_video_identifier: 5tvdNOJ7fCw
 cached_project_image: >-
-  /assets/images/organizations/the-university-corporation/img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg
+  https://archive-assets.la2050.org/images/the-university-corporation/img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg
 
 ---

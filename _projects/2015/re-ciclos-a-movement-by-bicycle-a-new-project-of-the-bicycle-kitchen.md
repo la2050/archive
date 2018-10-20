@@ -259,7 +259,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Los Angeles is an amplifier of content. What succeeds in L.A. has the potential to influence what succeeds in other parts of the world. Re:Ciclos delivering alternative, affordable, functional, clean and accessible new modes of transport in this great city has the potential to foment this on a global scale, such as was seen with private, motorized automobiles a century ago. Increasing cargo bicycle presence in Los Angeles establishes a new scale: one that looks at the problem of mobility today and begins the healing process for a future that can no longer support its current transportation paradigm.
 cached_project_image: >-
-  /assets/images/projects/2015/re-ciclos-a-movement-by-bicycle-a-new-project-of-the-bicycle-kitchen/img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/re-ciclos-a-movement-by-bicycle-a-new-project-of-the-bicycle-kitchen/img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg
 youtube_video_identifier: a-kQryxgF4M
 organization_name: 'Re:Ciclos and Bicycle Kitchen'
 

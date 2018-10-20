@@ -453,7 +453,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/at-thrdplace-our-idea-for-la2050-is-to-provide-the-digital-infrastructure-for-community-development/img.youtube.com/vi/jUd4odIOyuc/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/at-thrdplace-our-idea-for-la2050-is-to-provide-the-digital-infrastructure-for-community-development/img.youtube.com/vi/jUd4odIOyuc/hqdefault.jpg
 youtube_video_identifier: jUd4odIOyuc
 
 ---

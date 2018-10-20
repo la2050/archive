@@ -36,7 +36,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102086'
 cached_project_image: >-
-  /assets/images/organizations/braid-theory-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
+  https://archive-assets.la2050.org/images/braid-theory-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
 
 ---

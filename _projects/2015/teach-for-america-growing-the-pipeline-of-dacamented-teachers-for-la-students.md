@@ -252,7 +252,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Lastly, we see an opportunity to engage with other community service (such as other Americorps initiatives) and/or teaching pipeline programs to discuss how to collectively work to recruit from an expanded pool of DACAmented students and professionals to join the teaching profession.
 cached_project_image: >-
-  /assets/images/projects/2015/teach-for-america-growing-the-pipeline-of-dacamented-teachers-for-la-students/img.youtube.com/vi/Iih_C_KRHL0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/teach-for-america-growing-the-pipeline-of-dacamented-teachers-for-la-students/img.youtube.com/vi/Iih_C_KRHL0/maxresdefault.jpg
 youtube_video_identifier: Iih_C_KRHL0
 organization_name: Teach For America
 

@@ -31,9 +31,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102082'
 maker_image_file_name: GYSTInksoftware_artworktracking.png
 maker_image_id: '21305'
 cached_project_image: >-
-  /assets/images/organizations/getting-your-sh*t-together-gyst-ink/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21305%252Fdisplay%252FGYSTInksoftware_artworktracking.png=c570x385.png
+  https://archive-assets.la2050.org/images/getting-your-sh*t-together-gyst-ink/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21305%252Fdisplay%252FGYSTInksoftware_artworktracking.png=c570x385.png
 
 ---

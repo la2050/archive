@@ -39,7 +39,10 @@ aggregated:
     - '2018'
     - '2015'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102015'
+  - '5102047'
 cached_project_image: >-
-  /assets/images/organizations/center-for-council-a-project-of-community-partners/activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
+  https://archive-assets.la2050.org/images/center-for-council-a-project-of-community-partners/activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
 
 ---

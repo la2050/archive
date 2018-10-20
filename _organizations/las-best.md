@@ -47,7 +47,11 @@ aggregated:
     - '2016'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102065'
+  - '6102128'
+  - '4102113'
 cached_project_image: >-
-  /assets/images/organizations/las-best/activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg
+  https://archive-assets.la2050.org/images/las-best/activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg
 
 ---

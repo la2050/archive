@@ -35,9 +35,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102039'
 maker_image_file_name: Sequester_student_working1.jpg
 maker_image_id: '16942'
 cached_project_image: >-
-  /assets/images/organizations/esp-empowering-services-through-partnerships/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16942%252Fdisplay%252FSequester_student_working1.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/esp-empowering-services-through-partnerships/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16942%252Fdisplay%252FSequester_student_working1.jpg=c570x385.jpg
 
 ---

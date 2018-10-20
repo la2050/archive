@@ -33,9 +33,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102330'
 maker_image_file_name: UCLA_Connect.jpg
 maker_image_id: '23745'
 cached_project_image: >-
-  /assets/images/organizations/ucla-luskin-school-of-public-affairs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23745%252Fdisplay%252FUCLA_Connect.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/ucla-luskin-school-of-public-affairs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23745%252Fdisplay%252FUCLA_Connect.jpg=c570x385.jpg
 
 ---

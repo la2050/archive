@@ -233,7 +233,7 @@ How do you plan to scale the success of your proposal?: >-
    
    We will also have additional target goals like number of students to apply to higher learning and success measures such as indivicusl improved GPA.
 cached_project_image: >-
-  /assets/images/projects/2015/access-to-education-for-all/img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/access-to-education-for-all/img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg
 youtube_video_identifier: 20ErlmkuIfQ
 organization_name: Casa Libre
 

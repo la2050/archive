@@ -36,9 +36,12 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102167'
+  - '3102218'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 maker_image_id: '20546'
 cached_project_image: >-
-  /assets/images/organizations/pershing-square-park-advisory-board/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/12347862_872341026221470_7403512315305716290_n.jpg
+  https://archive-assets.la2050.org/images/pershing-square-park-advisory-board/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/12347862_872341026221470_7403512315305716290_n.jpg
 
 ---

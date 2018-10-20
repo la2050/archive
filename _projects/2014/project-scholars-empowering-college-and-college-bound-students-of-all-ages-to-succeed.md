@@ -191,7 +191,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   programming.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/project-scholars-empowering-college-and-college-bound-students-of-all-ages-to-succeed/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22531%252Fdisplay%252FPhoto_Collage_v6.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/project-scholars-empowering-college-and-college-bound-students-of-all-ages-to-succeed/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22531%252Fdisplay%252FPhoto_Collage_v6.jpg=c570x385.jpg
 maker_image_id: '22531'
 maker_image_file_name: Photo_Collage_v6.jpg
 

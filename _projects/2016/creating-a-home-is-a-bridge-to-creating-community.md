@@ -136,7 +136,7 @@ project_proposal_best_place: >-
   stories and educate the gathered through powerful spoken word poetry, original
   music and songs.
 cached_project_image: >-
-  /assets/images/projects/2016/creating-a-home-is-a-bridge-to-creating-community/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
+  https://archive-assets.la2050.org/images/2016/creating-a-home-is-a-bridge-to-creating-community/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
 organization_name: A Sense of Home
 organization_website: asenseofhome.org
 

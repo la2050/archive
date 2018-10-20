@@ -258,7 +258,7 @@ How do you plan to scale the success of your proposal?: >-
   well beyond high schools in the city of Los Angeles. At this point, we're
   excited to take it one step at a time.
 cached_project_image: >-
-  /assets/images/projects/2015/graduate-thousands-of-l-a-high-school-students-with-an-awesome-teacher-an-innovative-app/img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/graduate-thousands-of-l-a-high-school-students-with-an-awesome-teacher-an-innovative-app/img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg
 youtube_video_identifier: UYdxlEZVaNA
 organization_name: ClassNube (Nube means Cloud in Spanish)
 

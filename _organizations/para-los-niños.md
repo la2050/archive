@@ -32,8 +32,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102228'
 youtube_video_identifier: 0MYV-P-oK80
 cached_project_image: >-
-  /assets/images/organizations/para-los-niños/img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/para-los-niños/img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg
 
 ---

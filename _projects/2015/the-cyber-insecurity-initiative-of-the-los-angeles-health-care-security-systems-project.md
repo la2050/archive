@@ -282,7 +282,7 @@ How do you plan to scale the success of your proposal?: >-
   out-patients. The pilot survey we will work with is at
   https://www.surveymonkey.com/r/healthcybersecurity.
 cached_project_image: >-
-  /assets/images/projects/2015/the-cyber-insecurity-initiative-of-the-los-angeles-health-care-security-systems-project/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/the-cyber-insecurity-initiative-of-the-los-angeles-health-care-security-systems-project/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg
 youtube_video_identifier: NNetdspYB4M
 organization_name: The Center of Medical Multimedia Education and Technology (COMMET)
 

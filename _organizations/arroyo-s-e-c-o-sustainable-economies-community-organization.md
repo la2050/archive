@@ -31,8 +31,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102014'
 youtube_video_identifier: ytlmnttRP70
 cached_project_image: >-
-  /assets/images/organizations/arroyo-s-e-c-o-sustainable-economies-community-organization/img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/arroyo-s-e-c-o-sustainable-economies-community-organization/img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg
 
 ---

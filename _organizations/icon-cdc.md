@@ -36,7 +36,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102100'
 cached_project_image: >-
-  /assets/images/organizations/icon-cdc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
+  https://archive-assets.la2050.org/images/icon-cdc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
 
 ---

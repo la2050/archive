@@ -46,7 +46,11 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102077'
+  - '6102145'
+  - '5102195'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-service-academy-lasa/activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
+  https://archive-assets.la2050.org/images/los-angeles-service-academy-lasa/activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
 
 ---

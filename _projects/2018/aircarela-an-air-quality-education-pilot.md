@@ -112,7 +112,7 @@ Where do you hope this activation or your organization will be in five years?: >
   officials, enabling policy direction and the enhancements to improve the
   livability for all residents in the City of Los Angeles.
 cached_project_image: >-
-  /assets/images/projects/2018/aircarela-an-air-quality-education-pilot/activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
+  https://archive-assets.la2050.org/images/2018/aircarela-an-air-quality-education-pilot/activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
 organization_name: 'City of Los Angeles, Bureau of Street Lighting'
 
 ---

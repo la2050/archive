@@ -247,7 +247,7 @@ How do you plan to scale the success of your proposal?: >-
   integrated into their core model. Last summer, they served 2,000 kids and have
   plans to double this number next summer.
 cached_project_image: >-
-  /assets/images/projects/2015/teach-kids-coding-with-minecraft/img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/teach-kids-coding-with-minecraft/img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg
 youtube_video_identifier: V0_Km6YYSbo
 organization_name: LA Makerspace
 

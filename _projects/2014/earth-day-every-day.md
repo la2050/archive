@@ -161,7 +161,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Factors critical to the success of these partnerships: taking time to learn about each organizations history, goals and culture in order to build partnerships that can effectively accomplish project goals; having a shared interest in bringing services and healthy food access to South LA and a shared perspective that building vibrant local and regional food systems is a viable strategy for addressing the environmental, health, and social injustices; and having a shared commitment to work together to leverage each others resources and expertise to bring the best possible result to South LA Families.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/earth-day-every-day/img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/earth-day-every-day/img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg
 youtube_video_identifier: CQsypZUTmbo
 
 ---

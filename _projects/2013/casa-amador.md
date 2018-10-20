@@ -202,7 +202,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/casa-amador/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/2013/casa-amador/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16395'
 maker_image_file_name: POSTCARD-1.jpg
 

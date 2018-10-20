@@ -232,7 +232,7 @@ How do you plan to scale the success of your proposal?: >-
   Open Studio Initiative a central part of dublab’s operations for many years to
   come.
 cached_project_image: >-
-  /assets/images/projects/2015/dublabs-open-studio-initiative/img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/dublabs-open-studio-initiative/img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg
 youtube_video_identifier: xXMkk_S-UnU
 organization_name: DUBLAB
 

@@ -36,7 +36,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102120'
 cached_project_image: >-
-  /assets/images/organizations/la-derby-dolls/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
+  https://archive-assets.la2050.org/images/la-derby-dolls/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
 
 ---

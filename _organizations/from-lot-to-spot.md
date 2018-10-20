@@ -45,9 +45,13 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102107'
+  - '4102079'
+  - '3102134'
 maker_image_file_name: IMG_4644.JPG
 maker_image_id: '24100'
 cached_project_image: >-
-  /assets/images/organizations/from-lot-to-spot/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/from-lot-to-spot/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385.jpg
 
 ---

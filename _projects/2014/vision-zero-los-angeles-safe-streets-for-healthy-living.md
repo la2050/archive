@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014230'
+organization_id: '2014193'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -176,7 +176,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Fold Gallery, and Pasadena Architectural Salvage are made up of artists and specialists who will help to create the reused and reclaimed look and feel of the former auto mechanic turned sustainable demonstration venue.
 cached_project_image: >-
-  /assets/images/projects/2014/vision-zero-los-angeles-safe-streets-for-healthy-living/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21490%252Fdisplay%252FScreen_Shot_2014-07-31_at_9.15.53_AM.png=c570x385.png
+  https://archive-assets.la2050.org/images/2014/vision-zero-los-angeles-safe-streets-for-healthy-living/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21490%252Fdisplay%252FScreen_Shot_2014-07-31_at_9.15.53_AM.png=c570x385.png
 maker_image_id: '21490'
 maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
 

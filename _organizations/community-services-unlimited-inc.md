@@ -33,8 +33,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102045'
 youtube_video_identifier: CQsypZUTmbo
 cached_project_image: >-
-  /assets/images/organizations/community-services-unlimited-inc/img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/community-services-unlimited-inc/img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg
 
 ---

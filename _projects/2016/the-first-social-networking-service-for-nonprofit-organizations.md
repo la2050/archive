@@ -128,7 +128,7 @@ project_proposal_best_place: >-
   donors, Coligo will make Los Angeles the best place to make connections
   worthwhile.
 cached_project_image: >-
-  /assets/images/projects/2016/the-first-social-networking-service-for-nonprofit-organizations/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156024363741-team89.jpg
+  https://archive-assets.la2050.org/images/2016/the-first-social-networking-service-for-nonprofit-organizations/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156024363741-team89.jpg
 organization_name: 'Coligo, Inc.'
 organization_website: www.coligo.co
 

@@ -121,7 +121,7 @@ project_proposal_best_place: >-
   co-productions with the BBC, Voice of America, Radio Beijing, NHK (Japan), CBC
   (Canada), ABC (Australia), Radio New Zealand & others.
 cached_project_image: >-
-  /assets/images/projects/2016/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
 organization_name: L.A. Theatre Works
 organization_website: www.latw.org
 

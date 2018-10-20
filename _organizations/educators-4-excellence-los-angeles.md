@@ -40,7 +40,10 @@ aggregated:
     - '2016'
     - '2013'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102063'
+  - '3102121'
 cached_project_image: >-
-  /assets/images/organizations/educators-4-excellence-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
+  https://archive-assets.la2050.org/images/educators-4-excellence-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
 
 ---

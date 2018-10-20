@@ -97,7 +97,7 @@ project_proposal_best_place: >-
   stakeholders who do not typically participate in events like this in order to
   a create sense of unity, cooperation, and friendliness among neighbors.
 cached_project_image: >-
-  /assets/images/projects/2016/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
+  https://archive-assets.la2050.org/images/2016/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
 organization_name: Westside Urban Forum
 organization_website: www.westsideurbanforum.com
 

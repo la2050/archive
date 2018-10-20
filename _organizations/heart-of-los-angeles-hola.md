@@ -98,8 +98,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102147'
 youtube_video_identifier: 0CZIOxlCozk
 cached_project_image: >-
-  /assets/images/organizations/heart-of-los-angeles-hola/img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/heart-of-los-angeles-hola/img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg
 
 ---

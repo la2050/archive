@@ -107,7 +107,7 @@ project_proposal_best_place: >-
   best place to learn by serving middle school students in Los Angeles who build
   companies within WeThrive while gaining mentors and a support system.
 cached_project_image: >-
-  /assets/images/projects/2016/youth-mentoring-and-entrepreneurship-program-for-middle-school-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
+  https://archive-assets.la2050.org/images/2016/youth-mentoring-and-entrepreneurship-program-for-middle-school-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
 organization_name: WeThrive
 organization_website: teamwethrive.org
 

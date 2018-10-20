@@ -162,7 +162,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Data Roads Foundation is already partnering with several open source and mesh hardware projects like Internet-In-A-Box.org, Commotion Wireless, Freedom Stack, Freedom Box, Open Telco, Guardian Project, Calyx Institute, and several open source mesh routing software projects. We are currently negotiating collaborations with several California based network hardware and maintenance service vendors. Anything that proprietary vendors refuse to provide can be created by and for ourselves, by using open technologies in our own communities.
 cached_project_image: >-
-  /assets/images/projects/2014/100-of-la-online-faster/img.youtube.com/vi/f1NWhlN60zE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/100-of-la-online-faster/img.youtube.com/vi/f1NWhlN60zE/maxresdefault.jpg
 youtube_video_identifier: f1NWhlN60zE
 
 ---

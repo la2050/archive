@@ -220,7 +220,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   If we let 37 years worth of compounding interest apply to our investments
   today, it won't take long until we've kicked the carbon habit!
 cached_project_image: >-
-  /assets/images/projects/2013/renewable-financing-for-renewable-energy/img.youtube.com/vi/R-T1Ud6JTNo/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/renewable-financing-for-renewable-energy/img.youtube.com/vi/R-T1Ud6JTNo/hqdefault.jpg
 youtube_video_identifier: R-T1Ud6JTNo
 
 ---

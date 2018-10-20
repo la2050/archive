@@ -301,7 +301,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Much of TreePeople’s community-based work is focused on environmental justice areas, where pollution is high, eco-assets are low, and socioeconomic challenges are immense. When people think of human rights, they often think of civil liberties, workplace protections, and the right to happiness. Trees and water aren’t what usually come to mind. But it is trees and water – and their many benefits – that have a tremendous impact on wellness and health. Bringing people together for community projects that raise the environmental assets makes neighborhoods cleaner, healthier, and more livable.
 cached_project_image: >-
-  /assets/images/projects/2015/models-of-mobilization/img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/models-of-mobilization/img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg
 youtube_video_identifier: r9LtyQwYAks
 organization_name: TreePeople
 

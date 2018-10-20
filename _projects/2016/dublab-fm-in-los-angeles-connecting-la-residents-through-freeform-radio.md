@@ -125,7 +125,7 @@ project_proposal_best_place: >-
   Los Angeles to develop their sonic experimentations in both live performance
   settings and studio­ based radio broadcasts.
 cached_project_image: >-
-  /assets/images/projects/2016/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
 organization_name: Future Roots Inc.
 organization_website: dublab.com
 

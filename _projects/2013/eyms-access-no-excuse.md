@@ -326,7 +326,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   type of access, and it is our vision that we can make a meaningful impact
   right now and in the future.
 cached_project_image: >-
-  /assets/images/projects/2013/eyms-access-no-excuse/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16514%252Fdisplay%252Feym_apple.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/eyms-access-no-excuse/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16514%252Fdisplay%252Feym_apple.JPG=c570x385.jpg
 maker_image_id: '16514'
 maker_image_file_name: eym_apple.JPG
 

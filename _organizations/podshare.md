@@ -38,7 +38,10 @@ aggregated:
     - '2018'
     - '2016'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102096'
+  - '6102219'
 cached_project_image: >-
-  /assets/images/organizations/podshare/activation.la2050.org/assets/images/live/2048-wide/podshare.jpg
+  https://archive-assets.la2050.org/images/podshare/activation.la2050.org/assets/images/live/2048-wide/podshare.jpg
 
 ---

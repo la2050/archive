@@ -24,7 +24,7 @@ For example, if you [edit the about page](https://github.com/la2050/archive/edit
 
 1. Find the organization you wish to edit in the [organizations](https://github.com/la2050/archive/tree/master/_organizations) folder.
 
-The files in these folders correspond to a web address on the archive website. For example the organization located at https://archive.la2050.org/organizations/homeboy-industries/ gets its content from a file named [homeboy-industries.md](https://github.com/la2050/archive/blob/master/_organizations/homeboy-industries.md)
+The files in these folders correspond to a web address on the archive website. For example the organization located at https://archive.la2050.org/homeboy-industries/ gets its content from a file named [homeboy-industries.md](https://github.com/la2050/archive/blob/master/_organizations/homeboy-industries.md)
 
 2. Select the organization and then press the edit button–for example, [826LA](https://github.com/la2050/archive/edit/master/_organizations/826la.md).
 

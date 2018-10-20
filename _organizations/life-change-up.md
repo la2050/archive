@@ -33,8 +33,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102176'
 youtube_video_identifier: _AEWWNe6eQw
 cached_project_image: >-
-  /assets/images/organizations/life-change-up/img.youtube.com/vi/_AEWWNe6eQw/hqdefault.jpg
+  https://archive-assets.la2050.org/images/life-change-up/img.youtube.com/vi/_AEWWNe6eQw/hqdefault.jpg
 
 ---

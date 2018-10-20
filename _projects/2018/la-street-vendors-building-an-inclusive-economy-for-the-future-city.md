@@ -151,7 +151,7 @@ Where do you hope this activation or your organization will be in five years?: >
   vendors, and sees them as contributors to the economic and cultural tapestry
   of Los Angeles.
 cached_project_image: >-
-  /assets/images/projects/2018/la-street-vendors-building-an-inclusive-economy-for-the-future-city/activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg
+  https://archive-assets.la2050.org/images/2018/la-street-vendors-building-an-inclusive-economy-for-the-future-city/activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg
 organization_name: East LA Community Corporation (ELACC)
 
 ---

@@ -395,7 +395,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   They will have developed the tools to go out there and make art no matter how
   little resources they think they have. 
 cached_project_image: >-
-  /assets/images/projects/2013/cartel-collaborative-arts-las-todo-list/img.youtube.com/vi/4zAG6xu-HQM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/cartel-collaborative-arts-las-todo-list/img.youtube.com/vi/4zAG6xu-HQM/hqdefault.jpg
 youtube_video_identifier: 4zAG6xu-HQM
 
 ---

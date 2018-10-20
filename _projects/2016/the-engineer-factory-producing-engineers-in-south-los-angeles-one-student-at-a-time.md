@@ -137,7 +137,7 @@ project_proposal_best_place: >-
   goal of increasing the number of teachers of color.  EF’s goal is to enroll at
   least 30 students in its MESA program.
 cached_project_image: >-
-  /assets/images/projects/2016/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
 organization_name: 'The Engineer Factory, a project of Community Partners'
 organization_website: www.communitypartners.org/project/engineer-factory
 

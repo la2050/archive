@@ -442,7 +442,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   <p>All of LA’s recycling and remanufacturing will be done by businesses
   located in the City that will employ residents.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/green-jobs-in-a-zero-waste-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F19685%252Fdisplay%252FUntitled.png=c570x385.png
+  https://archive-assets.la2050.org/images/2013/green-jobs-in-a-zero-waste-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F19685%252Fdisplay%252FUntitled.png=c570x385.png
 maker_image_id: '19685'
 maker_image_file_name: Untitled.png
 
