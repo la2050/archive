@@ -22,10 +22,8 @@ zip: '90048'
 project_image: 'https://img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg'
 project_video: ''
 project_ids:
-  - '5102157'
   - '5102156'
 project_titles:
-  - 'JVS Works:  Creating Hope and Opportunity'
   - 'JVS Works: Creating Hope and Opportunity'
 aggregated:
   challenge_url:
