@@ -21,7 +21,7 @@
       <small {% if include.is_winner or include.is_finalist %} style="color: var(--primary-color); font-weight: 600;" {% else %} style="color: rgba(0, 0, 0, 0.5)" {% endif %}>
         {% if include.is_winner %}{{ include.winner_year }}{% elsif include.is_finalist %}2018{% else %}{{ data.aggregated['year_submitted'][0] }}{% endif %}{% if data.zip and data.zip != "" and data.zip != "0" and false %}, 
           {{ data.zip }}
-        {% endif %}{% if include.is_winner %} Winner{% elsif include.include.is_finalist %} Finalist{% endif %}
+        {% endif %}{% if include.is_winner %} Winner{% elsif include.is_finalist %} Finalist{% endif %}
       </small>
     </p>
   </a>
