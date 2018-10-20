@@ -253,7 +253,7 @@ How do you plan to scale the success of your proposal?: >-
   a larger scale and then be ready to implement it in other areas of LA County
   and other cities across the nation
 cached_project_image: >-
-  /assets/images/projects/2015/the-microenterprise-program/img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/the-microenterprise-program/img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg
 youtube_video_identifier: 0qhd1kRJ698
 organization_name: Microenterprise.org
 

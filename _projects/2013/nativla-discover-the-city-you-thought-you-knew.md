@@ -436,7 +436,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/nativla-discover-the-city-you-thought-you-knew/img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/nativla-discover-the-city-you-thought-you-knew/img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg
 youtube_video_identifier: Dq2cY1SKlFQ
 
 ---

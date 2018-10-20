@@ -37,6 +37,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102119'
 cached_project_image: >-
-  /assets/images/organizations/the-glue/activation.la2050.org/assets/images/live/2048-wide/the-glue.jpg
+  https://archive-assets.la2050.org/images/the-glue/activation.la2050.org/assets/images/live/2048-wide/the-glue.jpg
 
 ---

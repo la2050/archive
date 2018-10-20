@@ -250,7 +250,7 @@ How do you plan to scale the success of your proposal?: >-
    
    (And yes, to be more concrete, it will be necessary to scale this model via earned and paid media across traditional, social, and online channels.)
 cached_project_image: >-
-  /assets/images/projects/2015/tech-la-cares-tlc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23167%252Fdisplay%252Ftlc.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/tech-la-cares-tlc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23167%252Fdisplay%252Ftlc.jpg=c570x385.jpg
 maker_image_id: '23167'
 maker_image_file_name: tlc.jpg
 organization_name: Tech LA Cares

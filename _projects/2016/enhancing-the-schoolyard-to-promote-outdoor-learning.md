@@ -139,7 +139,7 @@ project_proposal_best_place: >-
   - formulation of guidelines for other LAUSD schools and PTA’s to implement
   similar projects.
 cached_project_image: >-
-  /assets/images/projects/2016/enhancing-the-schoolyard-to-promote-outdoor-learning/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/enhancing-the-schoolyard-to-promote-outdoor-learning/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
 organization_name: 'Wyota Workshop, Inc.'
 organization_website: www.wyotaworkshop.com
 

@@ -47,6 +47,6 @@ calculated_project_ids:
   - '6102043'
   - '5102070'
 cached_project_image: >-
-  /assets/images/organizations/coachart/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
+  https://archive-assets.la2050.org/images/coachart/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
 
 ---

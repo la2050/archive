@@ -126,7 +126,7 @@ project_proposal_best_place: >-
   create more content. An investment in our young people is an investment in the
   future health of our entire city.
 cached_project_image: >-
-  /assets/images/projects/2016/amp-virtual-sexual-health-education-for-a-digital-generation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/amp-virtual-sexual-health-education-for-a-digital-generation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
 organization_name: Regents of the University of California
 organization_website: artglobalhealth.org
 

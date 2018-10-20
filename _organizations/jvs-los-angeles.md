@@ -37,6 +37,6 @@ calculated_project_ids:
   - '5102156'
 youtube_video_identifier: iQpQqqot8AQ
 cached_project_image: >-
-  /assets/images/organizations/jvs-los-angeles/img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg
+  https://archive-assets.la2050.org/images/jvs-los-angeles/img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg
 
 ---

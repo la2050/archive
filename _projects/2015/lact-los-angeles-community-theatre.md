@@ -161,7 +161,7 @@ How do you plan to scale the success of your proposal?: >-
   Over the 4 years that we make use of the $100k, we will grow our audience and
   donors to a place where LACT will be self sustainable.
 cached_project_image: >-
-  /assets/images/projects/2015/lact-los-angeles-community-theatre/img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/lact-los-angeles-community-theatre/img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg
 youtube_video_identifier: fRmzSDzuoRA
 organization_name: LACT - Los Angeles Community Theatre
 

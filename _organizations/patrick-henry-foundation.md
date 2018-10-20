@@ -46,6 +46,6 @@ calculated_project_ids:
   - '6102176'
   - '5102231'
 cached_project_image: >-
-  /assets/images/organizations/patrick-henry-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
+  https://archive-assets.la2050.org/images/patrick-henry-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 
 ---

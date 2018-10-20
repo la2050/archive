@@ -41,6 +41,6 @@ calculated_project_ids:
   - '3102160'
 youtube_video_identifier: 6BWp4B7O03I
 cached_project_image: >-
-  /assets/images/organizations/jovenes-inc/img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/jovenes-inc/img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg
 
 ---

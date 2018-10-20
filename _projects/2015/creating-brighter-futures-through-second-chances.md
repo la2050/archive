@@ -298,7 +298,7 @@ How do you plan to scale the success of your proposal?: >-
    
    In the end, these plans will benefit more of our students and community members.
 cached_project_image: >-
-  /assets/images/projects/2015/creating-brighter-futures-through-second-chances/img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/creating-brighter-futures-through-second-chances/img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg
 youtube_video_identifier: c9y0Bp8kgT4
 organization_name: Foundation for Second Chances
 

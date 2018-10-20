@@ -217,7 +217,7 @@ How do you plan to scale the success of your proposal?: >-
    
    HFF will share findings and best practices with interested parties who wish to establish a pop up venue. Using these tools, producers and artists will be able to help lift up the dwindling theatrical spaces in the Hollywood area and revitalize the area.
 cached_project_image: >-
-  /assets/images/projects/2015/popup-venue-for-2016-hollywood-fringe/img.youtube.com/vi/jqxMSN_U1Pk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/popup-venue-for-2016-hollywood-fringe/img.youtube.com/vi/jqxMSN_U1Pk/maxresdefault.jpg
 youtube_video_identifier: jqxMSN_U1Pk
 organization_name: Hatchery Arts dba Hollywood Fringe Festival
 

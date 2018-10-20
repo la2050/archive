@@ -78,7 +78,7 @@ project_proposal_best_place: >-
   programs pinpoint the future of LA's creators and collaborators and help them
   flourish in their craft.
 cached_project_image: >-
-  /assets/images/projects/2016/save-the-art-programs-in-the-art-capitals-schools/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
+  https://archive-assets.la2050.org/images/2016/save-the-art-programs-in-the-art-capitals-schools/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
 organization_name: Hollywood Arts Council
 organization_website: hollywoodartscouncil.org
 

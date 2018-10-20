@@ -180,7 +180,7 @@ How will your project benefit Los Angeles? Please be specific.: >+
 
 What would success look like in the year 2050 regarding your indicator?: "Success in 2050 will be measurable in several incremental improvements in the quality of life in Los Angeles.   By laying the groundwork in Social Connectedness now, some examples of success might be evidenced by:\n\n\n\n\n\n*\tAdvancing EDUCATION reform that will reward success and not punish youth\n\n\n*\tExpansion of green spaces and clean air quality, two fundamental ENVIRONMENTAL QUALITY improvements which will reduce environmentallyrelated cases of asthma and cancer\n\n\n*\tImproving access to HEALTH care services and wellbeing opportunities\n\n\n*\tAmplifying the voices of marginal communities in the ARTS and strengthening CULTURAL VITALITY by making LA the venue of choice for creative thinkers and innovators\n\n\n*\tLifting the most vulnerable lowwage workers our of poverty through increased INCOME & EMPLOYMENT opportunities\n\n\n*\tSafeguarding affordable HOUSING stock\n\n\n*\tIncreasing PUBLIC SAFETY through community centered policing and common sense neighborhood restoration\n\n\n"
 cached_project_image: >-
-  /assets/images/projects/2013/boot-camp-2050-for-change/img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/boot-camp-2050-for-change/img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg
 youtube_video_identifier: kfEpQxhOtUk
 
 ---

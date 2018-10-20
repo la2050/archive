@@ -39,6 +39,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102031'
 cached_project_image: >-
-  /assets/images/organizations/coro-southern-california/activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
+  https://archive-assets.la2050.org/images/coro-southern-california/activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
 
 ---

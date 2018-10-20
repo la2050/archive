@@ -37,6 +37,6 @@ calculated_project_ids:
   - '5102181'
 youtube_video_identifier: TNz5Q0G-KAs
 cached_project_image: >-
-  /assets/images/organizations/localism-inc/img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/localism-inc/img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg
 
 ---

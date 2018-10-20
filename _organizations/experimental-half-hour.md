@@ -35,6 +35,6 @@ calculated_project_ids:
   - '4102068'
 youtube_video_identifier: DiU_9RR7ZvY
 cached_project_image: >-
-  /assets/images/organizations/experimental-half-hour/img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/experimental-half-hour/img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg
 
 ---

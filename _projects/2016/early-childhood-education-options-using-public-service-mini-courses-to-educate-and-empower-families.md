@@ -116,7 +116,7 @@ project_proposal_best_place: >-
   families WHEN children begin their education in the BEST fitting school
   environments.
 cached_project_image: >-
-  /assets/images/projects/2016/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
 organization_name: Parents Education League
 organization_website: www.parentseducationleague.org
 

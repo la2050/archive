@@ -67,6 +67,6 @@ calculated_project_ids:
 maker_image_file_name: LASA_2012.jpg
 maker_image_id: '16261'
 cached_project_image: >-
-  /assets/images/organizations/the-huntington-usc-institute-on-california-and-the-west/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/the-huntington-usc-institute-on-california-and-the-west/maker.good.is/images/placeholder/idea.png
 
 ---

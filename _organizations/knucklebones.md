@@ -37,6 +37,6 @@ calculated_project_ids:
   - '5102162'
 youtube_video_identifier: FAirDH4ROp0
 cached_project_image: >-
-  /assets/images/organizations/knucklebones/img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/knucklebones/img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg
 
 ---

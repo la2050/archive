@@ -43,6 +43,6 @@ calculated_project_ids:
   - '4102088'
 youtube_video_identifier: r9LtyQwYAks
 cached_project_image: >-
-  /assets/images/organizations/treepeople/img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/treepeople/img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg
 
 ---

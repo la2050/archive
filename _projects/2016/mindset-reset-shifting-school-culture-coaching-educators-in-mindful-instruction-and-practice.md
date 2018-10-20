@@ -129,7 +129,7 @@ project_proposal_best_place: >-
   In 2050, LA is known as the tipping point of dynamic mindful learning and
   instruction across the global education community!
 cached_project_image: >-
-  /assets/images/projects/2016/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
+  https://archive-assets.la2050.org/images/2016/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
 organization_name: Pedagogics Coaching Group
 organization_website: pedagogicscg.com
 

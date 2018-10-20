@@ -44,6 +44,6 @@ calculated_project_ids:
   - '6102198'
   - '5102253'
 cached_project_image: >-
-  /assets/images/organizations/richstone-family-center/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
+  https://archive-assets.la2050.org/images/richstone-family-center/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
 
 ---

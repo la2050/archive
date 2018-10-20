@@ -272,7 +272,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   of legal backyard units, and an abundance of new types of Backyard Homes in
   addition to this prototype developed by cityLAB.
 cached_project_image: >-
-  /assets/images/projects/2013/backyard-homes-sustainable-flexible-affordable-housing-for-la/img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/backyard-homes-sustainable-flexible-affordable-housing-for-la/img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg
 youtube_video_identifier: T-_qt-Ah9-0
 
 ---

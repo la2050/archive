@@ -261,7 +261,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/partnership-for-black-workers-rising/img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/partnership-for-black-workers-rising/img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg
 youtube_video_identifier: gTKhNc98GIc
 
 ---

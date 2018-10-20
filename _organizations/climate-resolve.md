@@ -45,6 +45,6 @@ calculated_project_ids:
   - '3102076'
 youtube_video_identifier: jRPfyjiCjwg
 cached_project_image: >-
-  /assets/images/organizations/climate-resolve/img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/climate-resolve/img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg
 
 ---

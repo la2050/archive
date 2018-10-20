@@ -38,6 +38,6 @@ calculated_project_ids:
   - '4102141'
 youtube_video_identifier: ql6hxsjKMCQ
 cached_project_image: >-
-  /assets/images/organizations/massknowtify/img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg
+  https://archive-assets.la2050.org/images/massknowtify/img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg
 
 ---

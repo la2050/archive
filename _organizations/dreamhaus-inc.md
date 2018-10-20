@@ -37,6 +37,6 @@ calculated_project_ids:
   - '5102085'
 youtube_video_identifier: yy9nnTHABlE
 cached_project_image: >-
-  /assets/images/organizations/dreamhaus-inc/img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/dreamhaus-inc/img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg
 
 ---

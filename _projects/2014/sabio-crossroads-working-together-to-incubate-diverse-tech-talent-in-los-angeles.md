@@ -144,7 +144,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    TechWorkers – San Ramon, CA- front-end web development opportunities
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/sabio-crossroads-working-together-to-incubate-diverse-tech-talent-in-los-angeles/img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/sabio-crossroads-working-together-to-incubate-diverse-tech-talent-in-los-angeles/img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg
 youtube_video_identifier: QaoTDnw-Xtw
 
 ---

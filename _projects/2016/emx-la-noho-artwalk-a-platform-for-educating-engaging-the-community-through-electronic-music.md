@@ -149,7 +149,7 @@ project_proposal_best_place: >-
 
   http://ema-global.org/programs/play-it-fwd
 cached_project_image: >-
-  /assets/images/projects/2016/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
 organization_name: EMX Los Angeles
 organization_website: www.facebook.com/emx.la
 

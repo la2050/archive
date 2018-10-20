@@ -229,7 +229,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    SFF Restaurant and Business Partners (confirmed): SFF has established a network of restaurant, distribution, and retail partners working together to promote responsible seafood sourcing. Our partner chefs will star in the video demonstration series, provide seafood for cooking demonstration and educational purposes, and host cooking demonstrations at outreach events.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/los-angeles-trade-tech-a-21st-century-urban-agriculture-curriculum/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22163%252Fdisplay%252FTrade_Tech_Urban_Ag.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/los-angeles-trade-tech-a-21st-century-urban-agriculture-curriculum/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22163%252Fdisplay%252FTrade_Tech_Urban_Ag.jpg=c570x385.jpg
 maker_image_id: '22163'
 maker_image_file_name: Trade_Tech_Urban_Ag.jpg
 

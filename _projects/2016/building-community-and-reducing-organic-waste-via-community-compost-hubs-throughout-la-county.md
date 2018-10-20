@@ -126,7 +126,7 @@ project_proposal_best_place: >-
   beautiful, regenerative process that is collaborative, self-giving, and
   exemplifies the type of city we want to embody.
 cached_project_image: >-
-  /assets/images/projects/2016/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4893873855741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4893873855741-team90.jpg
 organization_name: LA Compost
 organization_website: lacompost.org
 

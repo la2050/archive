@@ -46,6 +46,6 @@ calculated_project_ids:
   - '6102261'
   - '5102316'
 cached_project_image: >-
-  /assets/images/organizations/theodore-payne-foundation-for-wild-flower-and-native-plants/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
+  https://archive-assets.la2050.org/images/theodore-payne-foundation-for-wild-flower-and-native-plants/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 
 ---

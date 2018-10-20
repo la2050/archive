@@ -36,6 +36,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102006'
 cached_project_image: >-
-  /assets/images/organizations/all-in-urban-summer-academy/activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
+  https://archive-assets.la2050.org/images/all-in-urban-summer-academy/activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
 
 ---

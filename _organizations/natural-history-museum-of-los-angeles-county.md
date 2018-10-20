@@ -70,6 +70,6 @@ calculated_project_ids:
   - '3102202'
 youtube_video_identifier: MNDn6OWCjco
 cached_project_image: >-
-  /assets/images/organizations/natural-history-museum-of-los-angeles-county/img.youtube.com/vi/MNDn6OWCjco/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/natural-history-museum-of-los-angeles-county/img.youtube.com/vi/MNDn6OWCjco/maxresdefault.jpg
 
 ---

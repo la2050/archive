@@ -201,7 +201,7 @@ What would success look like in the year 2050 regarding your indicator?: >2-
   reduced and the whole population will be able to take part in the city’s
   progress and growth. 
 cached_project_image: >-
-  /assets/images/projects/2013/farm-on-wheels/img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/farm-on-wheels/img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg
 youtube_video_identifier: iGjxg6yI_og
 
 ---

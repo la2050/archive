@@ -47,6 +47,6 @@ calculated_project_ids:
   - '3102188'
 youtube_video_identifier: KQnPSzqeZRk
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-neighborhood-land-trust-lanlt-leadership-for-urban-renewal-lurn-trust-south-la-konkuey-design-initiative-kdi-esperanza-community-housing-corporation-community-health-councils-chc/img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/los-angeles-neighborhood-land-trust-lanlt-leadership-for-urban-renewal-lurn-trust-south-la-konkuey-design-initiative-kdi-esperanza-community-housing-corporation-community-health-councils-chc/img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg
 
 ---

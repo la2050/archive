@@ -228,7 +228,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Three factors that are critical to the success of our proposed collaboration with new collaborators are experience with site-specific work, availability of artists and coordination of scheduling. When it comes to non-confirmed collaborators who have not experienced the power of transit-oriented site-specific work these three factors often come up.
 cached_project_image: >-
-  /assets/images/projects/2014/meet-me-@the-metro-theater-in-transit-m3tnt/img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/meet-me-@the-metro-theater-in-transit-m3tnt/img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg
 youtube_video_identifier: '-MVQfBjaOS0'
 
 ---

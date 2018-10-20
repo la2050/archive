@@ -52,6 +52,6 @@ calculated_project_ids:
   - '6102273'
   - '4102125'
 cached_project_image: >-
-  /assets/images/organizations/university-of-southern-california/activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
+  https://archive-assets.la2050.org/images/university-of-southern-california/activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 
 ---

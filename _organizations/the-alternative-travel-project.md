@@ -46,6 +46,6 @@ calculated_project_ids:
   - '4102206'
 youtube_video_identifier: u0DYRf98w-o
 cached_project_image: >-
-  /assets/images/organizations/the-alternative-travel-project/img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/the-alternative-travel-project/img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg
 
 ---

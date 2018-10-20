@@ -193,7 +193,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Required for the success of this endeavor are: funding for the project, continued collaboration between the existing partners and the acquisition of new partners, and a strong coalition of volunteer leaders.
 cached_project_image: >-
-  /assets/images/projects/2014/safe-networks-active-communities/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20761%252Fdisplay%252Flogo.png=c570x385.png
+  https://archive-assets.la2050.org/images/2014/safe-networks-active-communities/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20761%252Fdisplay%252Flogo.png=c570x385.png
 maker_image_id: '20761'
 maker_image_file_name: logo.png
 

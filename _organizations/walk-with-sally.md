@@ -39,6 +39,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102135'
 cached_project_image: >-
-  /assets/images/organizations/walk-with-sally/activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
+  https://archive-assets.la2050.org/images/walk-with-sally/activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
 
 ---

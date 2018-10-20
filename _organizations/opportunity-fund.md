@@ -100,6 +100,6 @@ calculated_project_ids:
   - '4102160'
   - '3102210'
 cached_project_image: >-
-  /assets/images/organizations/opportunity-fund/activation.la2050.org/assets/images/create/2048-wide/opportunity-fund.jpg
+  https://archive-assets.la2050.org/images/opportunity-fund/activation.la2050.org/assets/images/create/2048-wide/opportunity-fund.jpg
 
 ---

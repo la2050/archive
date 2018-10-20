@@ -240,7 +240,7 @@ How do you plan to scale the success of your proposal?: >-
    
    We feel that the idea of long term employees buying the company they work for will be seen as a solution to the issue of income inequality and preserving manufacturing jobs. These issues have already been highlighted in our nation's upcoming presidential election.
 cached_project_image: >-
-  /assets/images/projects/2015/diversifying-las-manufacturing-ownership-by-empowering-workers-to-buy-their-company/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23949%252Fdisplay%252FRecycle_Piece_labj11102014.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/diversifying-las-manufacturing-ownership-by-empowering-workers-to-buy-their-company/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23949%252Fdisplay%252FRecycle_Piece_labj11102014.jpg=c570x385.jpg
 maker_image_id: '23949'
 maker_image_file_name: Recycle_Piece_labj11102014.jpg
 organization_name: Concerned Capital

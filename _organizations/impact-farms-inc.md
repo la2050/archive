@@ -51,6 +51,6 @@ calculated_project_ids:
 maker_image_file_name: Logo_Color_Large2.png
 maker_image_id: '16812'
 cached_project_image: >-
-  /assets/images/organizations/impact-farms-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16812%252Fdisplay%252FLogo_Color_Large2.png=c570x385.png
+  https://archive-assets.la2050.org/images/impact-farms-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16812%252Fdisplay%252FLogo_Color_Large2.png=c570x385.png
 
 ---

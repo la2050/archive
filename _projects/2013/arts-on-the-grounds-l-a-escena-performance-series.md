@@ -187,7 +187,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   bringing people together to celebrate their heritage and traditions through
   performances of all kinds.
 cached_project_image: >-
-  /assets/images/projects/2013/arts-on-the-grounds-l-a-escena-performance-series/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/2013/arts-on-the-grounds-l-a-escena-performance-series/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16669'
 maker_image_file_name: CLARK_The_Country_Wife__1.jpg
 

@@ -274,7 +274,7 @@ How do you plan to scale the success of your proposal?: >-
   best practices for seamlessly blending cultural economic development
   strategies, small business and regional cultural tourism plans.
 cached_project_image: >-
-  /assets/images/projects/2015/creating-culturally-vibrant-commercial-corridors-in-las-diverse-neighborhoods/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23259%252Fdisplay%252Fpicture_1.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/creating-culturally-vibrant-commercial-corridors-in-las-diverse-neighborhoods/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23259%252Fdisplay%252Fpicture_1.jpg=c570x385.jpg
 maker_image_id: '23259'
 maker_image_file_name: picture_1.jpg
 organization_name: Local Initiatives Support Corporation (LISC) Los Angeles

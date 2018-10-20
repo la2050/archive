@@ -169,7 +169,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    books, and will organize musicians, sound, and projection equipment for the book launch events. www.avenue50studio.org
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/poesia-para-la-gente-writ-large-press-present-the-neighborhood-literary-scape-project/img.youtube.com/vi/BtUB4Ycebms/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/poesia-para-la-gente-writ-large-press-present-the-neighborhood-literary-scape-project/img.youtube.com/vi/BtUB4Ycebms/hqdefault.jpg
 youtube_video_identifier: BtUB4Ycebms
 
 ---

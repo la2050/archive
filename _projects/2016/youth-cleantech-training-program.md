@@ -119,7 +119,7 @@ project_proposal_best_place: >-
   By creating a 'sticky' cleantech pipeline of local innovators and problem
   solvers, LACI will activate Angelenos and make LA the best place to create.
 cached_project_image: >-
-  /assets/images/projects/2016/youth-cleantech-training-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6504718986741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/youth-cleantech-training-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6504718986741-team91.jpg
 organization_name: Los Angeles Cleantech Incubator
 organization_website: laincubator.org
 

@@ -172,7 +172,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Critical to the success of these collaborations is open communication between dance program and school staff, mutual commitment to the project and a shared belief in the importance of arts education to academic success.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/everybody-dance-transforming-lives-through-high-quality-dance-education/img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/everybody-dance-transforming-lives-through-high-quality-dance-education/img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg
 youtube_video_identifier: TlilAMszJEs
 
 ---

@@ -183,7 +183,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    MHS is a member of both the Crenshaw Chamber of Commerce and Los Angeles Chamber of Commerce. Both chambers support our efforts and recognize the value that healthy youth become healthy workers. Our relationship with Foshay Learning Center was fostered though the Pillar "Principal for a Day" program. We expect continued support in workforce and youth development from our Chamber partners who we will involved in this project.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/original-green-community-food-hub/img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/original-green-community-food-hub/img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg
 youtube_video_identifier: zs2Oe9X1llQ
 
 ---

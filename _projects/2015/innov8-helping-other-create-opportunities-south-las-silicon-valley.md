@@ -252,7 +252,7 @@ How do you plan to scale the success of your proposal?: >-
   we hope to package and license the curriculum, making it available to
   community colleges throughout the state and nation as a social enterprise.
 cached_project_image: >-
-  /assets/images/projects/2015/innov8-helping-other-create-opportunities-south-las-silicon-valley/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24010%252Fdisplay%252Fcodetechiq.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/innov8-helping-other-create-opportunities-south-las-silicon-valley/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24010%252Fdisplay%252Fcodetechiq.jpg=c570x385.jpg
 maker_image_id: '24010'
 maker_image_file_name: codetechiq.jpg
 organization_name: >-

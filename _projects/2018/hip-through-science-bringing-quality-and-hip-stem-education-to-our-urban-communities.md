@@ -180,7 +180,7 @@ Where do you hope this activation or your organization will be in five years?: >
   program from city-wide to county-wide, to serve and inspire more youth to
   chase their dreams in STEM fields.
 cached_project_image: >-
-  /assets/images/projects/2018/hip-through-science-bringing-quality-and-hip-stem-education-to-our-urban-communities/activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
+  https://archive-assets.la2050.org/images/2018/hip-through-science-bringing-quality-and-hip-stem-education-to-our-urban-communities/activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
 organization_name: The People of Change
 
 ---

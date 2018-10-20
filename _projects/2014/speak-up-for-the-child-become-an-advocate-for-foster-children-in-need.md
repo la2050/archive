@@ -201,7 +201,7 @@ Whom will your project benefit? Please be specific.: >-
    
    The three factors that are critical to our success with the proposed partnerships are legitimate outreach to the partner’s community, instructive and authentic collaboration between CASA and the partner organization, and informed engagement with our training programs.
 cached_project_image: >-
-  /assets/images/projects/2014/speak-up-for-the-child-become-an-advocate-for-foster-children-in-need/img.youtube.com/vi/WxrdQYucwHo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/speak-up-for-the-child-become-an-advocate-for-foster-children-in-need/img.youtube.com/vi/WxrdQYucwHo/maxresdefault.jpg
 youtube_video_identifier: WxrdQYucwHo
 
 ---

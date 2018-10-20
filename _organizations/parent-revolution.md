@@ -132,6 +132,6 @@ calculated_project_ids:
   - '3102213'
 youtube_video_identifier: ajJ28FU4Wws
 cached_project_image: >-
-  /assets/images/organizations/parent-revolution/img.youtube.com/vi/ajJ28FU4Wws/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/parent-revolution/img.youtube.com/vi/ajJ28FU4Wws/maxresdefault.jpg
 
 ---

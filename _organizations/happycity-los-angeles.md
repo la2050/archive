@@ -38,6 +38,6 @@ calculated_project_ids:
   - '5102125'
 youtube_video_identifier: EJWQ6cYZBCk
 cached_project_image: >-
-  /assets/images/organizations/happycity-los-angeles/img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg
+  https://archive-assets.la2050.org/images/happycity-los-angeles/img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg
 
 ---

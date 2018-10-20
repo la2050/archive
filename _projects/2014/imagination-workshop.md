@@ -221,7 +221,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    While we have not worked directly with any of these groups in the past, we are confident that we can reach mutually beneficial partnerships with all three to combat the effects of food scarcity in Elysian Valley. Three factors critical to the success of these proposed collaborations are 1) ensuring collaboration, not competition, 2) identifying and pooling our mutual assets to develop the best implementation approach and 3) developing strategies to continue the Ribbon Gardens network beyond the LA2050 grant.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/imagination-workshop/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20927%252Fdisplay%252Findex__element43.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/imagination-workshop/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20927%252Fdisplay%252Findex__element43.jpg=c570x385.jpg
 maker_image_id: '20927'
 maker_image_file_name: index__element43.jpg
 

@@ -40,6 +40,6 @@ calculated_project_ids:
 maker_image_file_name: Screen_Shot_2015-10-03_at_3.51.42_PM.png
 maker_image_id: '23338'
 cached_project_image: >-
-  /assets/images/organizations/reframe-labs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23338%252Fdisplay%252FScreen_Shot_2015-10-03_at_3.51.42_PM.png=c570x385.png
+  https://archive-assets.la2050.org/images/reframe-labs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23338%252Fdisplay%252FScreen_Shot_2015-10-03_at_3.51.42_PM.png=c570x385.png
 
 ---

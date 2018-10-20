@@ -113,7 +113,7 @@ Where do you hope this activation or your organization will be in five years?: >
   higher-socioeconomic areas by facilitating programs for all people in the
   space.
 cached_project_image: >-
-  /assets/images/projects/2018/back-to-basics-transforming-how-angelenos-connect/activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg
+  https://archive-assets.la2050.org/images/2018/back-to-basics-transforming-how-angelenos-connect/activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg
 organization_name: Eayikes
 
 ---

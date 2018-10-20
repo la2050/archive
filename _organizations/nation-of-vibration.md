@@ -36,6 +36,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102209'
 cached_project_image: >-
-  /assets/images/organizations/nation-of-vibration/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
+  https://archive-assets.la2050.org/images/nation-of-vibration/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
 
 ---

@@ -36,6 +36,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102108'
 cached_project_image: >-
-  /assets/images/organizations/shoes-that-fit/activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg
+  https://archive-assets.la2050.org/images/shoes-that-fit/activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg
 
 ---

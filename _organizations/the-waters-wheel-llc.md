@@ -55,6 +55,6 @@ calculated_project_ids:
 maker_image_file_name: 100_Trees_3.jpg
 maker_image_id: '16690'
 cached_project_image: >-
-  /assets/images/organizations/the-waters-wheel-llc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16690%252Fdisplay%252F100_Trees_3.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/the-waters-wheel-llc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16690%252Fdisplay%252F100_Trees_3.jpg=c570x385.jpg
 
 ---

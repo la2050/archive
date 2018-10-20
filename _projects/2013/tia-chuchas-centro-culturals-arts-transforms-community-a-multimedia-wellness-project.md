@@ -293,7 +293,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   the building blocks of such a future, such possibilities, such an integral
   time and place.  
 cached_project_image: >-
-  /assets/images/projects/2013/tia-chuchas-centro-culturals-arts-transforms-community-a-multimedia-wellness-project/img.youtube.com/vi/B5uKTbH5IV0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/tia-chuchas-centro-culturals-arts-transforms-community-a-multimedia-wellness-project/img.youtube.com/vi/B5uKTbH5IV0/maxresdefault.jpg
 youtube_video_identifier: B5uKTbH5IV0
 
 ---

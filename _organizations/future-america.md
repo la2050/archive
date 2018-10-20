@@ -39,6 +39,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102042'
 cached_project_image: >-
-  /assets/images/organizations/future-america/activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg
+  https://archive-assets.la2050.org/images/future-america/activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg
 
 ---

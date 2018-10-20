@@ -44,6 +44,6 @@ calculated_project_ids:
   - '8102116'
   - '6102232'
 cached_project_image: >-
-  /assets/images/organizations/team-rubicon/activation.la2050.org/assets/images/live/2048-wide/team-rubicon.jpg
+  https://archive-assets.la2050.org/images/team-rubicon/activation.la2050.org/assets/images/live/2048-wide/team-rubicon.jpg
 
 ---

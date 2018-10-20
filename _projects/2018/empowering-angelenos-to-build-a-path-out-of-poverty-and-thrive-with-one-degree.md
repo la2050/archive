@@ -175,7 +175,7 @@ Where do you hope this activation or your organization will be in five years?: >
   County can serve as a model for expanding One Degree across the country and
   impact millions of low-income people. 
 cached_project_image: >-
-  /assets/images/projects/2018/empowering-angelenos-to-build-a-path-out-of-poverty-and-thrive-with-one-degree/activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg
+  https://archive-assets.la2050.org/images/2018/empowering-angelenos-to-build-a-path-out-of-poverty-and-thrive-with-one-degree/activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg
 organization_name: One Degree
 
 ---

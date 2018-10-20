@@ -35,6 +35,6 @@ calculated_project_ids:
   - '4102177'
 youtube_video_identifier: NtMAZqR4Tf4
 cached_project_image: >-
-  /assets/images/organizations/psychic-bunny/img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/psychic-bunny/img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg
 
 ---

@@ -51,6 +51,6 @@ calculated_project_ids:
   - '8102132'
   - '3102265'
 cached_project_image: >-
-  /assets/images/organizations/united-way-of-greater-los-angeles/activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
+  https://archive-assets.la2050.org/images/united-way-of-greater-los-angeles/activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
 
 ---

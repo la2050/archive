@@ -72,7 +72,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Angeles will more youth being educated by graduating from high school and
   going to college.
 cached_project_image: >-
-  /assets/images/projects/2013/school-based-mentoring/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17043%252Fdisplay%252FSchool_Based_Mentoring.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/school-based-mentoring/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17043%252Fdisplay%252FSchool_Based_Mentoring.jpg=c570x385.jpg
 maker_image_id: '17043'
 maker_image_file_name: School_Based_Mentoring.jpg
 

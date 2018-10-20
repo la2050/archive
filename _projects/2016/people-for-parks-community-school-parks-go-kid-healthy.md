@@ -156,7 +156,7 @@ project_proposal_best_place: >-
   community empowerment to the next level through a strategic partnership with
   Kid Healthy, helping make LA the best place to PLAY for generations to come.
 cached_project_image: >-
-  /assets/images/projects/2016/people-for-parks-community-school-parks-go-kid-healthy/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/people-for-parks-community-school-parks-go-kid-healthy/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
 organization_name: People for Parks
 organization_website: peopleforparks.org
 

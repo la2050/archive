@@ -45,6 +45,6 @@ calculated_project_ids:
 maker_image_file_name: slider_gocarts2.jpg
 maker_image_id: '16390'
 cached_project_image: >-
-  /assets/images/organizations/young-warriors/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/young-warriors/maker.good.is/images/placeholder/idea.png
 
 ---

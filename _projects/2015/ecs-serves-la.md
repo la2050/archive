@@ -238,7 +238,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Should ECS receive the LA2050 LEARN competition, ECS will also leverage the prestige of a Goldhirsch Foundation grant to engage other new, potential funders in the LA region.
 cached_project_image: >-
-  /assets/images/projects/2015/ecs-serves-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23859%252Fdisplay%252FGood_Image_Change_the_World.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/ecs-serves-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23859%252Fdisplay%252FGood_Image_Change_the_World.jpg=c570x385.jpg
 maker_image_id: '23859'
 maker_image_file_name: Good_Image_Change_the_World.jpg
 organization_name: Environmental Charter Schools

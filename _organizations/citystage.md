@@ -61,6 +61,6 @@ calculated_project_ids:
 maker_image_file_name: 2050_image.jpg
 maker_image_id: '16321'
 cached_project_image: >-
-  /assets/images/organizations/citystage/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/citystage/maker.good.is/images/placeholder/idea.png
 
 ---

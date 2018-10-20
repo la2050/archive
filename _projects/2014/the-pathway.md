@@ -204,7 +204,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Factor #3: - Communication: Because we are not working directly with the individuals we serve, it is imperative that we have an open and reciprocal line of communication with partner CBOs. We must respond to their needs in a timely fashion, and they must strongly communicate the impact of our donations so we can continue to obtain items from generous corporations, retailers, and individuals.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/the-pathway/img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/the-pathway/img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg
 youtube_video_identifier: A3zOCbnCHLg
 
 ---

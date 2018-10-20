@@ -258,7 +258,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   challenges of size and metropolitan complexity?  Can LASA help pull our region
   together in common pursuit of the public good?</p>
 cached_project_image: >-
-  /assets/images/projects/2013/the-los-angeles-service-academy/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/the-los-angeles-service-academy/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385.jpg
 maker_image_id: '23401'
 maker_image_file_name: LASA_LARiver2015.jpg
 

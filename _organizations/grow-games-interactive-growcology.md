@@ -38,6 +38,6 @@ calculated_project_ids:
 maker_image_file_name: volunteer-photo.jpg
 maker_image_id: '22335'
 cached_project_image: >-
-  /assets/images/organizations/grow-games-interactive-growcology/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22335%252Fdisplay%252Fvolunteer-photo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/grow-games-interactive-growcology/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22335%252Fdisplay%252Fvolunteer-photo.jpg=c570x385.jpg
 
 ---

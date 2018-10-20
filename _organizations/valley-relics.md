@@ -40,6 +40,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102278'
 cached_project_image: >-
-  /assets/images/organizations/valley-relics/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
+  https://archive-assets.la2050.org/images/valley-relics/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
 
 ---

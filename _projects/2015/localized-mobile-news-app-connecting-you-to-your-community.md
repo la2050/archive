@@ -228,7 +228,7 @@ How do you plan to scale the success of your proposal?: >-
   addition to social media staff will engage and promote the app at Farmers
   Markets, Cultural Centers and Co-working spaces.
 cached_project_image: >-
-  /assets/images/projects/2015/localized-mobile-news-app-connecting-you-to-your-community/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23547%252Fdisplay%252FLeif_Community_Engagement_App.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/localized-mobile-news-app-connecting-you-to-your-community/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23547%252Fdisplay%252FLeif_Community_Engagement_App.jpg=c570x385.jpg
 maker_image_id: '23547'
 maker_image_file_name: Leif_Community_Engagement_App.jpg
 organization_name: Ruckus Projects

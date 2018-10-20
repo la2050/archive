@@ -139,7 +139,7 @@ project_proposal_best_place: >-
   consumption landscape, proactively work at expanding diverse digital creator
   talent and build opportunities for multicultural communities.
 cached_project_image: >-
-  /assets/images/projects/2016/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
 organization_name: mitu
 organization_website: mitunetwork.com
 

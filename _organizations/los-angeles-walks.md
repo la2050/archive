@@ -103,6 +103,6 @@ calculated_project_ids:
   - '3102190'
 youtube_video_identifier: hHXkL2SbXI8
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-walks/img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg
+  https://archive-assets.la2050.org/images/los-angeles-walks/img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg
 
 ---

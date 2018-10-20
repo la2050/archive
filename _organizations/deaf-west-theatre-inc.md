@@ -40,6 +40,6 @@ calculated_project_ids:
   - '4102053'
 youtube_video_identifier: n__7obsdA8E
 cached_project_image: >-
-  /assets/images/organizations/deaf-west-theatre-inc/img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/deaf-west-theatre-inc/img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg
 
 ---

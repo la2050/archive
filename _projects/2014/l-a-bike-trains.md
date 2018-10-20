@@ -183,7 +183,7 @@ Whom will your project benefit? Please be specific.: |-
     
    The primary collaborations that we want to develop are with university bicycle coalitions. A successful test run and development of 2 new routes going to UCLA was launched during bike week May 2014. We now want to deepen that relationship so that more staff and students will utilize L.A. Bike Trains as their transportation resource. L.A. Bike Trains would like UCLA to support those routes via funding, promotion and technical assistance – such as data collection and research. With a UCLA collaboration in process, it can serve as a template for additional collaborations with other schools, such as USC, but also large employers from the city of LA to Sony Entertainment.
 cached_project_image: >-
-  /assets/images/projects/2014/l-a-bike-trains/img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/l-a-bike-trains/img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg
 youtube_video_identifier: l2oE7AX8gtw
 
 ---

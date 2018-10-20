@@ -35,6 +35,6 @@ calculated_project_ids:
 maker_image_file_name: IMG_2944.JPG
 maker_image_id: '22179'
 cached_project_image: >-
-  /assets/images/organizations/light-bringer-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/light-bringer-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385.jpg
 
 ---

@@ -255,7 +255,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    West Valley Boys & Girls Club
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/seeding-stem-at-la-county-alliance-for-boys-and-girls-clubs/img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/seeding-stem-at-la-county-alliance-for-boys-and-girls-clubs/img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg
 youtube_video_identifier: JAZZ3YBKHzY
 
 ---

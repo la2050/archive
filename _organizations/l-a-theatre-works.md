@@ -39,6 +39,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102117'
 cached_project_image: >-
-  /assets/images/organizations/l-a-theatre-works/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
+  https://archive-assets.la2050.org/images/l-a-theatre-works/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
 
 ---

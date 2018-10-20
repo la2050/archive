@@ -36,6 +36,6 @@ calculated_project_ids:
   - '6102077'
   - '3102115'
 cached_project_image: >-
-  /assets/images/organizations/future-roots-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
+  https://archive-assets.la2050.org/images/future-roots-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
 
 ---

@@ -262,7 +262,7 @@ How do you plan to scale the success of your proposal?: >-
    
    The LitRemix vision is a fantastic mash-up of music, videos, and visual art from all over the world –celebrating some of the greatest works of both classic and modern literature.
 cached_project_image: >-
-  /assets/images/projects/2015/litremix/img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/litremix/img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg
 youtube_video_identifier: 0EQnXawnCQk
 organization_name: Artists for Literacy / LitRemix
 

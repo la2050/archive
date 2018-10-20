@@ -129,7 +129,7 @@ project_proposal_best_place: >-
   Angelenos feel more connected to one another and to the complicated but
   inspiring place we all call home.
 cached_project_image: >-
-  /assets/images/projects/2016/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
+  https://archive-assets.la2050.org/images/2016/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
 organization_name: Southern California Public Radio (KPCC)
 organization_website: www.kpcc.org
 

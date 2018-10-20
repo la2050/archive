@@ -393,7 +393,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   choose healthier lifestyles.  That's why we must engage more kids and teens in
   the total Club experience.
 cached_project_image: >-
-  /assets/images/projects/2013/boys-girls-club-of-venice-learning-center-renovation/img.youtube.com/vi/kovLXgjjpp0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/boys-girls-club-of-venice-learning-center-renovation/img.youtube.com/vi/kovLXgjjpp0/maxresdefault.jpg
 youtube_video_identifier: kovLXgjjpp0
 
 ---

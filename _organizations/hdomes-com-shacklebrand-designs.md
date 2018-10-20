@@ -39,6 +39,6 @@ calculated_project_ids:
 maker_image_file_name: large_domes-134_crop.jpg
 maker_image_id: '23466'
 cached_project_image: >-
-  /assets/images/organizations/hdomes-com-shacklebrand-designs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23466%252Fdisplay%252Flarge_domes-134_crop.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/hdomes-com-shacklebrand-designs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23466%252Fdisplay%252Flarge_domes-134_crop.jpg=c570x385.jpg
 
 ---

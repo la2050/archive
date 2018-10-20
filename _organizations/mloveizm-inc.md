@@ -42,6 +42,6 @@ calculated_project_ids:
   - '3102077'
 youtube_video_identifier: Q4dC-OX4vTw
 cached_project_image: >-
-  /assets/images/organizations/mloveizm-inc/img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg
+  https://archive-assets.la2050.org/images/mloveizm-inc/img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg
 
 ---

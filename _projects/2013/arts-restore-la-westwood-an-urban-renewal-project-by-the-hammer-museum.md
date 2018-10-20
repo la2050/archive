@@ -261,7 +261,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/arts-restore-la-westwood-an-urban-renewal-project-by-the-hammer-museum/img.youtube.com/vi/30f36j_o_wU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/arts-restore-la-westwood-an-urban-renewal-project-by-the-hammer-museum/img.youtube.com/vi/30f36j_o_wU/maxresdefault.jpg
 youtube_video_identifier: 30f36j_o_wU
 
 ---

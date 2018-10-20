@@ -125,7 +125,7 @@ Where do you hope this activation or your organization will be in five years?: >
   are already doing work with low-income populations. By empowering the
   organizations to take up this work, we will no longer be needed.
 cached_project_image: >-
-  /assets/images/projects/2018/everyoneon-digital-equity-champions-initiative-bringing-angelenos-online/activation.la2050.org/assets/images/connect/2048-wide/connect-to-compete-inc-everyoneon.jpg
+  https://archive-assets.la2050.org/images/2018/everyoneon-digital-equity-champions-initiative-bringing-angelenos-online/activation.la2050.org/assets/images/connect/2048-wide/connect-to-compete-inc-everyoneon.jpg
 organization_name: 'Connect to Compete, Inc (EveryoneOn)'
 
 ---

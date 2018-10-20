@@ -316,7 +316,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   systems to prevent any future homelessness. No one should have to live without
   adequate housing. No one!
 cached_project_image: >-
-  /assets/images/projects/2013/los-angeles-invisible-people-chapter-and-film-festival/img.youtube.com/vi/yUwt2n0jfsc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/los-angeles-invisible-people-chapter-and-film-festival/img.youtube.com/vi/yUwt2n0jfsc/maxresdefault.jpg
 youtube_video_identifier: yUwt2n0jfsc
 
 ---

@@ -127,7 +127,7 @@ Please explain how you will define and measure success for your activation.: >-
   narratives.
 Where do you hope this activation or your organization will be in five years?: "We hope this activation inspires communities worldwide to take a critical look at their own cities’ gender experiences and create similar tools for empathy.\r\n\r\nWe’d love to revisit this project in 5 years to explore what shifts have occurred that would change our city’s gender narratives. \r\n"
 cached_project_image: >-
-  /assets/images/projects/2018/51-our-reality/activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg
+  https://archive-assets.la2050.org/images/2018/51-our-reality/activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg
 organization_name: TWIGG How-To
 
 ---

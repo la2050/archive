@@ -88,7 +88,7 @@ project_proposal_best_place: >-
   will get the tickets, but with awesome food, music and entertainment -
   everyone will enjoy a great day.
 cached_project_image: >-
-  /assets/images/projects/2016/la-bike-fest/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5735922065741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/la-bike-fest/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5735922065741-team91.jpg
 organization_name: Bicycle Culture Institute
 organization_website: bicycleculture.org
 

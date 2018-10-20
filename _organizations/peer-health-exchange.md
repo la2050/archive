@@ -48,6 +48,6 @@ calculated_project_ids:
   - '4102086'
   - '3102216'
 cached_project_image: >-
-  /assets/images/organizations/peer-health-exchange/activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
+  https://archive-assets.la2050.org/images/peer-health-exchange/activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 
 ---

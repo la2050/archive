@@ -61,6 +61,6 @@ calculated_project_ids:
   - '5102059'
   - '3102014'
 cached_project_image: >-
-  /assets/images/organizations/city-of-los-angeles-department-of-recreation-and-parks/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
+  https://archive-assets.la2050.org/images/city-of-los-angeles-department-of-recreation-and-parks/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 
 ---

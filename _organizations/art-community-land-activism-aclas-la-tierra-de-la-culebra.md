@@ -35,6 +35,6 @@ calculated_project_ids:
   - '4102094'
 youtube_video_identifier: jAOkF8UAOLI
 cached_project_image: >-
-  /assets/images/organizations/art-community-land-activism-aclas-la-tierra-de-la-culebra/img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/art-community-land-activism-aclas-la-tierra-de-la-culebra/img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg
 
 ---

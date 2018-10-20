@@ -34,6 +34,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102033'
 cached_project_image: >-
-  /assets/images/organizations/data-360/activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg
+  https://archive-assets.la2050.org/images/data-360/activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg
 
 ---

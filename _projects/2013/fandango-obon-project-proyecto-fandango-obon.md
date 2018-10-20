@@ -416,7 +416,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/fandango-obon-project-proyecto-fandango-obon/img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/fandango-obon-project-proyecto-fandango-obon/img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg
 youtube_video_identifier: gyQdQTAWs0U
 
 ---

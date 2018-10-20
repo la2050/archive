@@ -73,6 +73,6 @@ calculated_project_ids:
   - '5102288'
   - '5102287'
 cached_project_image: >-
-  /assets/images/organizations/t4t-org/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
+  https://archive-assets.la2050.org/images/t4t-org/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
 
 ---

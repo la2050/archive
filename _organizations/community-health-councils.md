@@ -44,6 +44,6 @@ calculated_project_ids:
   - '6102052'
   - '3102088'
 cached_project_image: >-
-  /assets/images/organizations/community-health-councils/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
+  https://archive-assets.la2050.org/images/community-health-councils/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
 
 ---

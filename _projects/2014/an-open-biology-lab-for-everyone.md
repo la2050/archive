@@ -140,7 +140,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Factors that are critical to our success are 1) having a paid employee to work and communicate closely with LabLaunch 2) negotiating a deal that is doable with LA Biohackers’ budget but also compensates LabLaunch appropriately, and 3) working with local universities to get projects from the university into the pre-incubator program.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/an-open-biology-lab-for-everyone/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22859%252Fdisplay%252Fla_biohackers__LA2050_570_345_copy2.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/an-open-biology-lab-for-everyone/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22859%252Fdisplay%252Fla_biohackers__LA2050_570_345_copy2.jpg=c570x385.jpg
 maker_image_id: '22859'
 maker_image_file_name: la_biohackers__LA2050_570_345_copy2.jpg
 

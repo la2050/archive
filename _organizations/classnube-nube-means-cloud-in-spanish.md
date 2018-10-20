@@ -43,6 +43,6 @@ calculated_project_ids:
   - '5102065'
 youtube_video_identifier: UYdxlEZVaNA
 cached_project_image: >-
-  /assets/images/organizations/classnube-nube-means-cloud-in-spanish/img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg
+  https://archive-assets.la2050.org/images/classnube-nube-means-cloud-in-spanish/img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg
 
 ---

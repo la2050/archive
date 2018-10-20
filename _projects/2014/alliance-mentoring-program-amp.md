@@ -232,7 +232,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Alliance through its college counselors, AMP coordinators and, most importantly, AMP mentors provide the necessary social and cultural capital to leverage the resources provided by the colleges and universities. Alliance mentors serve as extended outreach for college and university first-year completion programs.
 cached_project_image: >-
-  /assets/images/projects/2014/alliance-mentoring-program-amp/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20500%252Fdisplay%252F2013_Graduation_Luskin_Academy_(54).jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/alliance-mentoring-program-amp/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20500%252Fdisplay%252F2013_Graduation_Luskin_Academy_(54).jpg=c570x385.jpg
 maker_image_id: '20500'
 maker_image_file_name: 2013_Graduation_Luskin_Academy_(54).jpg
 

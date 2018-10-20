@@ -74,6 +74,6 @@ calculated_project_ids:
   - '3102236'
 youtube_video_identifier: DXcrNhhe5V0
 cached_project_image: >-
-  /assets/images/organizations/special-service-for-groups-asian-and-pacific-islander-obesity-prevention-alliance-apiopa/img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/special-service-for-groups-asian-and-pacific-islander-obesity-prevention-alliance-apiopa/img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg
 
 ---

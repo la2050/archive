@@ -234,7 +234,7 @@ How do you plan to scale the success of your proposal?: >-
   businesses through photographs and text, and limit the number of on-camera
   interviews.
 cached_project_image: >-
-  /assets/images/projects/2015/is-was-will-be/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/is-was-will-be/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385.jpg
 maker_image_id: '23815'
 maker_image_file_name: IsWasWillBe_SmartGals.jpg
 organization_name: Smart Gals Productions

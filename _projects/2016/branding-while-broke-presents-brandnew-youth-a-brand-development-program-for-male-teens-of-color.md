@@ -143,7 +143,7 @@ project_proposal_best_place: >-
   brand, the impact of the course and the application of the course  to their
   future endeavors.
 cached_project_image: >-
-  /assets/images/projects/2016/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
 organization_name: Continuous Good
 organization_website: brandingwhilebroke.com
 

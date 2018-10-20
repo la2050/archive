@@ -147,7 +147,7 @@ project_proposal_best_place: >-
   event included involvement with Pomona College and number of recent UCLA
   graduates, among others.
 cached_project_image: >-
-  /assets/images/projects/2016/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
 organization_name: Maiden LA
 organization_website: maiden.la
 

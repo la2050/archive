@@ -177,7 +177,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Clear expectations and communication.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/strivers-la-digital-tools-for-student-success/img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/strivers-la-digital-tools-for-student-success/img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg
 youtube_video_identifier: lz8FDz2KN0s
 
 ---

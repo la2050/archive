@@ -75,6 +75,6 @@ calculated_project_ids:
 maker_image_file_name: BoyleTalk.jpg
 maker_image_id: '16663'
 cached_project_image: >-
-  /assets/images/organizations/st-john-the-baptist-social-services/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16663%252Fdisplay%252FBoyleTalk.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/st-john-the-baptist-social-services/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16663%252Fdisplay%252FBoyleTalk.jpg=c570x385.jpg
 
 ---

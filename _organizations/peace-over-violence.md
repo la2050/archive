@@ -38,6 +38,6 @@ calculated_project_ids:
   - '3102215'
 youtube_video_identifier: nF2CnqS_6oQ
 cached_project_image: >-
-  /assets/images/organizations/peace-over-violence/img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/peace-over-violence/img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg
 
 ---

@@ -44,6 +44,6 @@ calculated_project_ids:
   - '3102027'
 youtube_video_identifier: nPa4Lu7CMPA
 cached_project_image: >-
-  /assets/images/organizations/arts-council-for-long-beach/img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg
+  https://archive-assets.la2050.org/images/arts-council-for-long-beach/img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg
 
 ---

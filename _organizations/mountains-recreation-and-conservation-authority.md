@@ -46,6 +46,6 @@ calculated_project_ids:
 maker_image_file_name: LA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png
 maker_image_id: '23990'
 cached_project_image: >-
-  /assets/images/organizations/mountains-recreation-and-conservation-authority/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23990%252Fdisplay%252FLA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png=c570x385.png
+  https://archive-assets.la2050.org/images/mountains-recreation-and-conservation-authority/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23990%252Fdisplay%252FLA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png=c570x385.png
 
 ---

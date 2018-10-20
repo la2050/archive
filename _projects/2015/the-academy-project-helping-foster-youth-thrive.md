@@ -234,7 +234,7 @@ How do you plan to scale the success of your proposal?: >-
    
    It is our belief that our greatest assets are the youth we serve & it is because of them that we will be successful & able to scale to reach more & more youth. By caring, nurturing & supporting these youth, they will no doubt thrive & continue to reach for the limitless potential that they all possess.
 cached_project_image: >-
-  /assets/images/projects/2015/the-academy-project-helping-foster-youth-thrive/img.youtube.com/vi/xbatmQQi_e4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/the-academy-project-helping-foster-youth-thrive/img.youtube.com/vi/xbatmQQi_e4/maxresdefault.jpg
 youtube_video_identifier: xbatmQQi_e4
 organization_name: The Academy Project (TAP)
 

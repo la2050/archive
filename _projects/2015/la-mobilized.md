@@ -143,7 +143,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
-  /assets/images/projects/2015/la-mobilized/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/la-mobilized/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385.png
 maker_image_id: '23743'
 maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
 organization_name: >-

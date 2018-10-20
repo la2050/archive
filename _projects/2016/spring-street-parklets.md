@@ -111,7 +111,7 @@ project_proposal_best_place: >-
   flow, relocate public transit stops, create protected bike lanes, and make
   DTLA overall more pedestrian, bike, and transit friendly.
 cached_project_image: >-
-  /assets/images/projects/2016/spring-street-parklets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/spring-street-parklets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
 organization_name: Historic Core BID
 organization_website: historiccore.bid
 

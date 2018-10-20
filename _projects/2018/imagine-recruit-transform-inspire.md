@@ -149,7 +149,7 @@ Where do you hope this activation or your organization will be in five years?: >
   us serve in more of Los Angeles’ schools, and we hope to continue engaging
   even more partners and volunteers in our Civic Engagement work.
 cached_project_image: >-
-  /assets/images/projects/2018/imagine-recruit-transform-inspire/activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
+  https://archive-assets.la2050.org/images/2018/imagine-recruit-transform-inspire/activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
 organization_name: City Year Los Angeles
 
 ---

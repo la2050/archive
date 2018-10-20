@@ -325,7 +325,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/collaborative-360-creating-successful-pathways-to-2050/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17017%252Fdisplay%252F360.png=c570x385.png
+  https://archive-assets.la2050.org/images/2013/collaborative-360-creating-successful-pathways-to-2050/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17017%252Fdisplay%252F360.png=c570x385.png
 maker_image_id: '17017'
 maker_image_file_name: 360.png
 

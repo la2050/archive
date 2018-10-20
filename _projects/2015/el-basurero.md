@@ -248,7 +248,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Basurero is already talking to potential funders, anticipating interest in scaling the program. Good models may be largely volunteer efforts including Big Sunday and CicLAvia, which grew from more modest initiatives to what they are today. Basurero plans to engage with Big Sunday, CicLAvia and others about the lessons they learned in scaling their vision and programs. We are realistic about our scalability.
 cached_project_image: >-
-  /assets/images/projects/2015/el-basurero/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23242%252Fdisplay%252F20150904_101442.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/el-basurero/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23242%252Fdisplay%252F20150904_101442.jpg=c570x385.jpg
 maker_image_id: '23242'
 maker_image_file_name: 20150904_101442.jpg
 organization_name: El Basurero

@@ -234,7 +234,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   proud to be building solutions to the worlds most pressing environmental,
   energy, water, and sustainability related challenges. 
 cached_project_image: >-
-  /assets/images/projects/2013/establishing-a-hub-for-cleantech-innovation-and-job-creation/img.youtube.com/vi/f2SXn1p3d4I/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/establishing-a-hub-for-cleantech-innovation-and-job-creation/img.youtube.com/vi/f2SXn1p3d4I/hqdefault.jpg
 youtube_video_identifier: f2SXn1p3d4I
 
 ---

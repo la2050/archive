@@ -202,7 +202,7 @@ Whom will your project benefit? Please be specific.: |-
    
    3. Building a movement - it's crucial that this event does not exist in isolation, but is an integrated into the larger movement to showcase LA as a global hub of creativity
 cached_project_image: >-
-  /assets/images/projects/2014/creative-capital-fest/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22856%252Fdisplay%252Fcreative_capital_img.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/creative-capital-fest/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22856%252Fdisplay%252Fcreative_capital_img.jpg=c570x385.jpg
 maker_image_id: '22856'
 maker_image_file_name: creative_capital_img.jpg
 

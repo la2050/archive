@@ -101,6 +101,6 @@ calculated_project_ids:
   - '3102035'
 youtube_video_identifier: IYZkhNMTKrg
 cached_project_image: >-
-  /assets/images/organizations/eddefy/img.youtube.com/vi/IYZkhNMTKrg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/eddefy/img.youtube.com/vi/IYZkhNMTKrg/hqdefault.jpg
 
 ---

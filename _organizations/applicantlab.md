@@ -35,6 +35,6 @@ calculated_project_ids:
   - '5102018'
 youtube_video_identifier: IRXVbzVLXls
 cached_project_image: >-
-  /assets/images/organizations/applicantlab/img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg
+  https://archive-assets.la2050.org/images/applicantlab/img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg
 
 ---

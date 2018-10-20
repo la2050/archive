@@ -213,7 +213,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   success. If all these are true in 2050, the project has been executed in the
   way we envision it. 
 cached_project_image: >-
-  /assets/images/projects/2013/reclaimed-park-strand-project/img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/reclaimed-park-strand-project/img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg
 youtube_video_identifier: rDZ9hY7J0xQ
 
 ---

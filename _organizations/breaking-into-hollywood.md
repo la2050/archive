@@ -42,6 +42,6 @@ calculated_project_ids:
   - '5102035'
 youtube_video_identifier: GLojtCpWaz4
 cached_project_image: >-
-  /assets/images/organizations/breaking-into-hollywood/img.youtube.com/vi/GLojtCpWaz4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/breaking-into-hollywood/img.youtube.com/vi/GLojtCpWaz4/maxresdefault.jpg
 
 ---

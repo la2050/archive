@@ -317,7 +317,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   recognizes the abundance already present in our everyday lives — and innately
   values it as a resource and a solution.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/food-forward-connecting-angelenos-through-local-food-abundance/img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/food-forward-connecting-angelenos-through-local-food-abundance/img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg
 youtube_video_identifier: EpR6dHeaGIQ
 
 ---

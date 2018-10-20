@@ -38,6 +38,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102052'
 cached_project_image: >-
-  /assets/images/organizations/health-core-possibilities/activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
+  https://archive-assets.la2050.org/images/health-core-possibilities/activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
 
 ---

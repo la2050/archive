@@ -82,7 +82,7 @@ project_proposal_best_place: >-
   endeavor to tell the untold stories of change-makers, thereby seeding the next
   generation of social progress innovators.
 cached_project_image: >-
-  /assets/images/projects/2016/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6262793265741-team89.jpg
+  https://archive-assets.la2050.org/images/2016/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6262793265741-team89.jpg
 organization_name: Capital & Main
 organization_website: capitalandmain.com
 

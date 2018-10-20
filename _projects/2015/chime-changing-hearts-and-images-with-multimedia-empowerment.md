@@ -232,7 +232,7 @@ How do you plan to scale the success of your proposal?: >-
   students, parents, school representatives and the public. We have seen the
   success of this Program and are confident it will grow on its own merit.
 cached_project_image: >-
-  /assets/images/projects/2015/chime-changing-hearts-and-images-with-multimedia-empowerment/img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/chime-changing-hearts-and-images-with-multimedia-empowerment/img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg
 youtube_video_identifier: MIn1VBaIlrQ
 organization_name: Heart and Soul Design Communications Center
 

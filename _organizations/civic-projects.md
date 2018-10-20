@@ -56,6 +56,6 @@ year_submitted: '2013'
 calculated_project_ids:
   - '3102074'
 cached_project_image: >-
-  /assets/images/organizations/civic-projects/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/civic-projects/maker.good.is/images/placeholder/idea.png
 
 ---

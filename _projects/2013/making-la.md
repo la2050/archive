@@ -278,7 +278,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   artisans/designers recognized not just in their home city but elsewhere in the
   world. 
 cached_project_image: >-
-  /assets/images/projects/2013/making-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16457%252Fdisplay%252Fbikes.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/making-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16457%252Fdisplay%252Fbikes.jpg=c570x385.jpg
 maker_image_id: '16457'
 maker_image_file_name: bikes.jpg
 

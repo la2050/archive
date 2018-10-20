@@ -188,7 +188,7 @@ Whom will your project benefit? Please be specific.: >-
    • Strong internal communication: Ensuring all members are informed and connected to the work is critical to successful collaboration.
    • Holding the whole: Each partner brings strengths and different areas of focus. As a coalition we hold everyone’s priorities and work to move issues together because of their interconnectedness.
 cached_project_image: >-
-  /assets/images/projects/2014/connecting-voices-building-power-resident-led-community-planning/img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/connecting-voices-building-power-resident-led-community-planning/img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg
 youtube_video_identifier: xcozMknxurc
 
 ---

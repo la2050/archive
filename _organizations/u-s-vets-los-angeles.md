@@ -50,6 +50,6 @@ calculated_project_ids:
 maker_image_file_name: WestsideONE.jpg
 maker_image_id: '17006'
 cached_project_image: >-
-  /assets/images/organizations/u-s-vets-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17006%252Fdisplay%252FWestsideONE.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/u-s-vets-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17006%252Fdisplay%252FWestsideONE.jpg=c570x385.jpg
 
 ---

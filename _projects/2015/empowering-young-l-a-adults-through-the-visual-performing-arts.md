@@ -220,7 +220,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Furthermore, the results from surveys will tell how effective our attempts of reaching and serving our community have been.
 cached_project_image: >-
-  /assets/images/projects/2015/empowering-young-l-a-adults-through-the-visual-performing-arts/img.youtube.com/vi/-_7F7nxyZ1Y/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/empowering-young-l-a-adults-through-the-visual-performing-arts/img.youtube.com/vi/-_7F7nxyZ1Y/maxresdefault.jpg
 youtube_video_identifier: '-_7F7nxyZ1Y'
 organization_name: PIECES Teens Arts
 

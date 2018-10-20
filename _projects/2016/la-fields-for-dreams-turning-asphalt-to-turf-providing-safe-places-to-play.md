@@ -122,7 +122,7 @@ project_proposal_best_place: >-
   walkable neighborhoods. American Journal of Public Health. 2003; 93 (9),
   1546-1551.
 cached_project_image: >-
-  /assets/images/projects/2016/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
+  https://archive-assets.la2050.org/images/2016/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
 organization_name: America Scores LA
 organization_website: www.americascoresla.org
 

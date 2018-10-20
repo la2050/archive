@@ -197,7 +197,7 @@ Whom will your project benefit? Please be specific.: >-
    - The City Year Inc. Western Region is supporting our work to recruit qualified Youth Workers. Our program is dependent upon bringing in committed near peer mentors to lead teams of Big Citizens. Our partnership with City Year allows us access to a large pool of 19-24 year olds who have interest in youth development and service, who have been vetted by a team of people with the expertise of recruiting people with the skill set we need.
    - The Red Shield Youth and Community Center is providing us with the facilities with which to run our office. In return, we provide the Red Shield’s staff with youth development training and coaching. In addition, all Big Citizens will become members of the center.
 cached_project_image: >-
-  /assets/images/projects/2014/big-citizen-hub-a-new-organization-for-new-leaders/img.youtube.com/vi/DZtldImzMPo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/big-citizen-hub-a-new-organization-for-new-leaders/img.youtube.com/vi/DZtldImzMPo/maxresdefault.jpg
 youtube_video_identifier: DZtldImzMPo
 
 ---

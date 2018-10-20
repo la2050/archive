@@ -108,7 +108,7 @@ project_proposal_best_place: >-
   its graduates. With additional resources, the Career Center will be able to
   provide services to all those students who deserve them.
 cached_project_image: >-
-  /assets/images/projects/2016/csuns-recruiting-boot-camp-helps-students-gain-the-skills-they-need-to-get-their-careers-started/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/csuns-recruiting-boot-camp-helps-students-gain-the-skills-they-need-to-get-their-careers-started/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
 organization_name: 'California State University, Northridge (CSUN)'
 organization_website: www.csun.edu
 

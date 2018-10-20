@@ -39,6 +39,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102215'
 cached_project_image: >-
-  /assets/images/organizations/perceptoscope/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
+  https://archive-assets.la2050.org/images/perceptoscope/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
 
 ---

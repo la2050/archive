@@ -174,7 +174,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Confirmed event partners include EngAGE (www.engagedaging.org) and Experience Talks (http://www.experiencetalks.org/), and we are currently in conversation with several other potential organizations with a passion for story. Finally, regarding a digital campaign, the Harry Potter Alliance (thehpalliance.org) is already on board, and it’s something we’d like to explore with several existing friends in this space as well, including ModernLoss (www.modernloss.org).
 cached_project_image: >-
-  /assets/images/projects/2014/moving-forward-together-by-taking-lifeafterloss-out-of-the-closet-one-dinner-story-at-a-time/img.youtube.com/vi/Tyka7IrZhXU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/moving-forward-together-by-taking-lifeafterloss-out-of-the-closet-one-dinner-story-at-a-time/img.youtube.com/vi/Tyka7IrZhXU/maxresdefault.jpg
 youtube_video_identifier: Tyka7IrZhXU
 
 ---

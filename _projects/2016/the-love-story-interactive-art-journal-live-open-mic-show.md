@@ -112,7 +112,7 @@ project_proposal_best_place: >-
   us. We also have a network of people America Innovates Foundation can bring in
   to curate talks on the link between social and emotional health and art.
 cached_project_image: >-
-  /assets/images/projects/2016/the-love-story-interactive-art-journal-live-open-mic-show/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
+  https://archive-assets.la2050.org/images/2016/the-love-story-interactive-art-journal-live-open-mic-show/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
 organization_name: 'The Love Story Media, Inc.'
 organization_website: www.thelovestory.org
 

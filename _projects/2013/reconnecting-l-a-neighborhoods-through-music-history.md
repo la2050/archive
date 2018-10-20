@@ -281,7 +281,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   social connections across neighborhood lines, racial and ethnic lines, class
   lines, into a living, breathing mosaic.
 cached_project_image: >-
-  /assets/images/projects/2013/reconnecting-l-a-neighborhoods-through-music-history/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16930%252Fdisplay%252FLTSC_LA2050.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/reconnecting-l-a-neighborhoods-through-music-history/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16930%252Fdisplay%252FLTSC_LA2050.jpg=c570x385.jpg
 maker_image_id: '16930'
 maker_image_file_name: LTSC_LA2050.jpg
 

@@ -189,7 +189,7 @@ Where do you hope this activation or your organization will be in five years?: >
   disseminated to trusted partners (schools and nonprofits) through ongoing
   in-person trainings and consultations.
 cached_project_image: >-
-  /assets/images/projects/2018/closing-the-digital-equity-gap-for-underserved-latino-families-with-common-sense/activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
+  https://archive-assets.la2050.org/images/2018/closing-the-digital-equity-gap-for-underserved-latino-families-with-common-sense/activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
 organization_name: Common Sense
 
 ---

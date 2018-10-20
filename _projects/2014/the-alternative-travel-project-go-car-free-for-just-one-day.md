@@ -172,7 +172,7 @@ Whom will your project benefit? Please be specific.: >-
    Within our ‘ATP lifestyle’ neighborhood pilot area in the Arts District, we hope to work with local retailers, theHUB community of impact professionals, LA Clean Tech Incubator, GenesisLA & the Little Tokyo Services Center as well as the property developers creating new living spaces in the area. These collaborations are not confirmed, but we are in the process of introducing our project to these organizations. Success in the Arts District relies upon listening to what is important to the local people and understanding how ATP can benefit their neighborhood.
    To carry out these surveys we would like to collaborate with the Luskin School of Public Affairs at UCLA – their Institute for Transportation Studies would be a huge asset in assisting us with survey work & data analysis. This collaboration is not yet confirmed, though our collaborator CicLAvia is already working with the Luskin School & other UCLA researchers on several related projects, making this a natural partnership with the school.
 cached_project_image: >-
-  /assets/images/projects/2014/the-alternative-travel-project-go-car-free-for-just-one-day/img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/the-alternative-travel-project-go-car-free-for-just-one-day/img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg
 youtube_video_identifier: u0DYRf98w-o
 
 ---

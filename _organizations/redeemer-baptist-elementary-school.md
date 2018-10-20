@@ -37,6 +37,6 @@ calculated_project_ids:
 maker_image_file_name: dsc00212.jpg
 maker_image_id: '23262'
 cached_project_image: >-
-  /assets/images/organizations/redeemer-baptist-elementary-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23262%252Fdisplay%252Fdsc00212.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/redeemer-baptist-elementary-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23262%252Fdisplay%252Fdsc00212.jpg=c570x385.jpg
 
 ---

@@ -42,6 +42,6 @@ calculated_project_ids:
   - '4102139'
 youtube_video_identifier: '-cj1vPWlAdo'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-worlds-fair-fpc/img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/los-angeles-worlds-fair-fpc/img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg
 
 ---

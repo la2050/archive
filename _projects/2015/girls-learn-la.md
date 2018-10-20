@@ -237,7 +237,7 @@ How do you plan to scale the success of your proposal?: >-
   educators and professionals to conduct workshops and demonstrations to enhance
   the curriculum.
 cached_project_image: >-
-  /assets/images/projects/2015/girls-learn-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23370%252Fdisplay%252FGALA_pic_1.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/girls-learn-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23370%252Fdisplay%252FGALA_pic_1.jpg=c570x385.jpg
 maker_image_id: '23370'
 maker_image_file_name: GALA_pic_1.jpg
 organization_name: Girls Academic Leadership Academy

@@ -234,7 +234,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   to their community. In 2050 we hope to see a community that actively
   encourages students in their pursuit of a higher education.
 cached_project_image: >-
-  /assets/images/projects/2013/carecens-college-head-start/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16608%252Fdisplay%252Fcollegeheadstart1.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/carecens-college-head-start/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16608%252Fdisplay%252Fcollegeheadstart1.jpg=c570x385.jpg
 maker_image_id: '16608'
 maker_image_file_name: collegeheadstart1.jpg
 

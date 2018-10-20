@@ -37,6 +37,6 @@ calculated_project_ids:
   - '5102198'
 youtube_video_identifier: laadW_CUhSY
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-underwater-explorers-ghost-fishing/img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/los-angeles-underwater-explorers-ghost-fishing/img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg
 
 ---

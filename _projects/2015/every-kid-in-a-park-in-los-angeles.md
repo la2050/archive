@@ -195,7 +195,7 @@ How do you plan to scale the success of your proposal?: >-
   We will scale up the initiative as we raise funds to provide additional
   transportation grants.
 cached_project_image: >-
-  /assets/images/projects/2015/every-kid-in-a-park-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23519%252Fdisplay%252FEKIPkidswithwalkingsticks.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/every-kid-in-a-park-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23519%252Fdisplay%252FEKIPkidswithwalkingsticks.png=c570x385.png
 maker_image_id: '23519'
 maker_image_file_name: EKIPkidswithwalkingsticks.png
 organization_name: National Park Foundation

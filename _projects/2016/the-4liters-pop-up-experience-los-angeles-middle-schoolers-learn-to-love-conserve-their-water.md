@@ -88,7 +88,7 @@ project_proposal_best_place: >-
   strengths and weaknesses make Los Angeles an ideal place for innovation in
   water education.
 cached_project_image: >-
-  /assets/images/projects/2016/the-4liters-pop-up-experience-los-angeles-middle-schoolers-learn-to-love-conserve-their-water/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
+  https://archive-assets.la2050.org/images/2016/the-4liters-pop-up-experience-los-angeles-middle-schoolers-learn-to-love-conserve-their-water/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
 organization_name: DIGDEEP Water
 organization_website: www.digdeep.org
 

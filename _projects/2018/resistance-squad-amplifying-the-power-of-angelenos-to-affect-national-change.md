@@ -164,7 +164,7 @@ Where do you hope this activation or your organization will be in five years?: >
   our current ones, and develop a new generation of leaders that will keep the
   entire system activated.  
 cached_project_image: >-
-  /assets/images/projects/2018/resistance-squad-amplifying-the-power-of-angelenos-to-affect-national-change/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
+  https://archive-assets.la2050.org/images/2018/resistance-squad-amplifying-the-power-of-angelenos-to-affect-national-change/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
 organization_name: Los Angeles LGBT Center
 
 ---

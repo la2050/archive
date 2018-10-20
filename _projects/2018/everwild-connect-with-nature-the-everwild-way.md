@@ -131,7 +131,7 @@ Where do you hope this activation or your organization will be in five years?: >
   throughout the city of Los Angeles to offer all residents an opportunity to
   engage with nature in a meaningful and hands-on way: the EverWild Way.
 cached_project_image: >-
-  /assets/images/projects/2018/everwild-connect-with-nature-the-everwild-way/activation.la2050.org/assets/images/play/2048-wide/everwild.jpg
+  https://archive-assets.la2050.org/images/2018/everwild-connect-with-nature-the-everwild-way/activation.la2050.org/assets/images/play/2048-wide/everwild.jpg
 organization_name: EverWild
 
 ---

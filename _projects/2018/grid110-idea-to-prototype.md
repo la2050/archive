@@ -103,7 +103,7 @@ Where do you hope this activation or your organization will be in five years?: >
   We hope to be monetizing this nationally and hopefully engaging entrepreneurs
   everywhere.
 cached_project_image: >-
-  /assets/images/projects/2018/grid110-idea-to-prototype/activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg
+  https://archive-assets.la2050.org/images/2018/grid110-idea-to-prototype/activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg
 organization_name: 'Grid110, Inc.'
 
 ---

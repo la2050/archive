@@ -292,7 +292,7 @@ How do you plan to scale the success of your proposal?: >-
    
    We envision a generation of children and families growing up in Los Angeles who will think of the River as a memorable place that shaped their experiences and provided great places to play.
 cached_project_image: >-
-  /assets/images/projects/2015/ten-feet-art-meets-the-river-2016/img.youtube.com/vi/NlnlvjCu_AE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/ten-feet-art-meets-the-river-2016/img.youtube.com/vi/NlnlvjCu_AE/maxresdefault.jpg
 youtube_video_identifier: NlnlvjCu_AE
 organization_name: The LA River Public Art Project
 

@@ -112,7 +112,7 @@ project_proposal_best_place: >-
   Finally, our project will potentially address all LIVE metrics, depending on
   the community improvement projects our students propose.
 cached_project_image: >-
-  /assets/images/projects/2016/action-ambassadors-for-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6459268355741-team89.png
+  https://archive-assets.la2050.org/images/2016/action-ambassadors-for-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6459268355741-team89.png
 organization_name: United Nations Association-USA Pasadena Chapter Inc.
 organization_website: actionambassadors.org
 

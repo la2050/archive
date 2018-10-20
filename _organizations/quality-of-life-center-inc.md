@@ -45,6 +45,6 @@ calculated_project_ids:
 maker_image_file_name: 2010-2011_Graduation_Picture.171103650_std.jpg
 maker_image_id: '16300'
 cached_project_image: >-
-  /assets/images/organizations/quality-of-life-center-inc/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/quality-of-life-center-inc/maker.good.is/images/placeholder/idea.png
 
 ---

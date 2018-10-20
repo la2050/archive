@@ -41,6 +41,6 @@ calculated_project_ids:
   - '5102075'
 youtube_video_identifier: KHtt2okRChU
 cached_project_image: >-
-  /assets/images/organizations/compiler-la-utopiad-org/img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg
+  https://archive-assets.la2050.org/images/compiler-la-utopiad-org/img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg
 
 ---

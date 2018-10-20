@@ -42,6 +42,6 @@ calculated_project_ids:
   - '3102231'
 youtube_video_identifier: QaoTDnw-Xtw
 cached_project_image: >-
-  /assets/images/organizations/sabio-enterprises-inc/img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/sabio-enterprises-inc/img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg
 
 ---

@@ -243,7 +243,7 @@ How do you plan to scale the success of your proposal?: |-
    
    - Seek additional funding sources to support the internship match and course component.
 cached_project_image: >-
-  /assets/images/projects/2015/biotech-leaders-academy-growing-diverse-entrepreneurs-in-biotech-via-hands-on-work-and-mentorship/img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/biotech-leaders-academy-growing-diverse-entrepreneurs-in-biotech-via-hands-on-work-and-mentorship/img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg
 youtube_video_identifier: UNbHPa1n2g4
 organization_name: Los Angeles Bioscience Hub
 

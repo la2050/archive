@@ -47,6 +47,6 @@ calculated_project_ids:
   - '3102154'
 youtube_video_identifier: VtA2ubRDvAs
 cached_project_image: >-
-  /assets/images/organizations/imagination-foundation/img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/imagination-foundation/img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg
 
 ---

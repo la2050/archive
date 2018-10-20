@@ -121,7 +121,7 @@ Where do you hope this activation or your organization will be in five years?: >
   needs to take the next leap forward and make Los Angeles a better place to
   create, connect, and learn.
 cached_project_image: >-
-  /assets/images/projects/2018/red-hen-press-community-center-for-the-arts/activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg
+  https://archive-assets.la2050.org/images/2018/red-hen-press-community-center-for-the-arts/activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg
 organization_name: Red Hen Press
 
 ---

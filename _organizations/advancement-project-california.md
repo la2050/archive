@@ -41,6 +41,6 @@ calculated_project_ids:
   - '3102007'
 youtube_video_identifier: nt_fnRYCyhI
 cached_project_image: >-
-  /assets/images/organizations/advancement-project-california/img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/advancement-project-california/img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg
 
 ---

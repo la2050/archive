@@ -37,6 +37,6 @@ calculated_project_ids:
 maker_image_file_name: studio1.jpg
 maker_image_id: '21917'
 cached_project_image: >-
-  /assets/images/organizations/nomadlosangeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21917%252Fdisplay%252Fstudio1.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/nomadlosangeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21917%252Fdisplay%252Fstudio1.jpg=c570x385.jpg
 
 ---

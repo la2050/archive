@@ -90,7 +90,7 @@ project_proposal_best_place: >-
   local businesses in high growth industries such as digital media,
   entertainment, technology, health care, and design.
 cached_project_image: >-
-  /assets/images/projects/2016/the-intern-project-slate-z-expansion/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4454572955741-team91.png
+  https://archive-assets.la2050.org/images/2016/the-intern-project-slate-z-expansion/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4454572955741-team91.png
 organization_name: LA Promise Fund
 organization_website: lapromisefund.org
 

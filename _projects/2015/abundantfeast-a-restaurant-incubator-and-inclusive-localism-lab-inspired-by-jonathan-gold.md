@@ -237,7 +237,7 @@ How do you plan to scale the success of your proposal?: >-
    We will collect ideas from our workshops along with example of places around the world where change has successfully been implemented; and links to books, articles, blogs and opinions related to changing transportation and related urban change. The website will be searchable – and readable in different layers by our different audiences.
    We hope that the C7 case study, ideas from Place It! workshops, examples of transportation and mobility approaches, , will point to ideas for for planning and policy reform will add up to a wider and stronger constituency of residents seeking to affect transportation and mobility. in Los Angeles.
 cached_project_image: >-
-  /assets/images/projects/2015/abundantfeast-a-restaurant-incubator-and-inclusive-localism-lab-inspired-by-jonathan-gold/img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/abundantfeast-a-restaurant-incubator-and-inclusive-localism-lab-inspired-by-jonathan-gold/img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg
 youtube_video_identifier: qyZQR5_KCEM
 organization_name: civ.LA
 

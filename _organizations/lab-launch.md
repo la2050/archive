@@ -45,6 +45,6 @@ calculated_project_ids:
   - '4102110'
 youtube_video_identifier: wZGBfT2_pi4
 cached_project_image: >-
-  /assets/images/organizations/lab-launch/img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/lab-launch/img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg
 
 ---

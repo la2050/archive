@@ -544,7 +544,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/heal-the-bays-healthy-neighborhoods-healthy-environment-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16808%252Fdisplay%252FYouth_Summit-Action_IV.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/heal-the-bays-healthy-neighborhoods-healthy-environment-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16808%252Fdisplay%252FYouth_Summit-Action_IV.jpg=c570x385.jpg
 maker_image_id: '16808'
 maker_image_file_name: Youth_Summit-Action_IV.jpg
 

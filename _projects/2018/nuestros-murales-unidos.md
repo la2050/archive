@@ -134,7 +134,7 @@ Where do you hope this activation or your organization will be in five years?: >
   vibrant as the communities that live there. Residents will take pride in where
   they live and work together towards a shared vision of the future. 
 cached_project_image: >-
-  /assets/images/projects/2018/nuestros-murales-unidos/activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
+  https://archive-assets.la2050.org/images/2018/nuestros-murales-unidos/activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 organization_name: Youth Policy Institute
 
 ---

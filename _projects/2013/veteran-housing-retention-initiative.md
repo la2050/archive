@@ -221,7 +221,7 @@ How will your project benefit Los Angeles? Please be specific.: >-
   families.
 What would success look like in the year 2050 regarding your indicator?: No More Homeless Vets  period!
 cached_project_image: >-
-  /assets/images/projects/2013/veteran-housing-retention-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17006%252Fdisplay%252FWestsideONE.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/veteran-housing-retention-initiative/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17006%252Fdisplay%252FWestsideONE.jpg=c570x385.jpg
 maker_image_id: '17006'
 maker_image_file_name: WestsideONE.jpg
 

@@ -213,7 +213,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Three factors critical to the success of our project include: maintaining credible and responsive relationships with SLA nonprofits; maximizing the use of social network tools to engage and make more readily available capacity building knowledge; and cultural competence and responsiveness to the unique needs of diverse organizations.
 cached_project_image: >-
-  /assets/images/projects/2014/stronger-together-south-la-nonprofits-get-capacity-fit/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/stronger-together-south-la-nonprofits-get-capacity-fit/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg
 youtube_video_identifier: iHlwRhoV_78
 
 ---

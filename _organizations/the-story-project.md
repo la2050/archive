@@ -36,6 +36,6 @@ calculated_project_ids:
   - '5102312'
 youtube_video_identifier: BnbLK2sxsXI
 cached_project_image: >-
-  /assets/images/organizations/the-story-project/img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg
+  https://archive-assets.la2050.org/images/the-story-project/img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg
 
 ---

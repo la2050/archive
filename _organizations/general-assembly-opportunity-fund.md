@@ -35,6 +35,6 @@ calculated_project_ids:
   - '4102081'
 youtube_video_identifier: CMmY955jD5A
 cached_project_image: >-
-  /assets/images/organizations/general-assembly-opportunity-fund/img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/general-assembly-opportunity-fund/img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg
 
 ---

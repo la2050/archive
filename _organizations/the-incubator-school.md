@@ -41,6 +41,6 @@ calculated_project_ids:
   - '5102302'
 youtube_video_identifier: SHjS92F_BK8
 cached_project_image: >-
-  /assets/images/organizations/the-incubator-school/img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/the-incubator-school/img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg
 
 ---

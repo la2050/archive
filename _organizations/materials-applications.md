@@ -80,6 +80,6 @@ calculated_project_ids:
   - '3102195'
 youtube_video_identifier: Uj3t-8frJ4Q
 cached_project_image: >-
-  /assets/images/organizations/materials-applications/img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/materials-applications/img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg
 
 ---

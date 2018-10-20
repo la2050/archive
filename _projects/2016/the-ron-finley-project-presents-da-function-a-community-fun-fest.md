@@ -113,7 +113,7 @@ project_proposal_best_place: >-
   environmental benefits to make cities more attractive and healthier places to
   be.
 cached_project_image: >-
-  /assets/images/projects/2016/the-ron-finley-project-presents-da-function-a-community-fun-fest/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/the-ron-finley-project-presents-da-function-a-community-fun-fest/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
 organization_name: The Ron Finley Project
 organization_website: ronfinley.com
 

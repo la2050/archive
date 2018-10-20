@@ -36,6 +36,6 @@ calculated_project_ids:
   - '4102251'
 youtube_video_identifier: dN0L0YMa39s
 cached_project_image: >-
-  /assets/images/organizations/usc-game-innovation-lab/img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg
+  https://archive-assets.la2050.org/images/usc-game-innovation-lab/img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg
 
 ---

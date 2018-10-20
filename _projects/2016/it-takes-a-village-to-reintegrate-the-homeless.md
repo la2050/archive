@@ -68,7 +68,7 @@ project_proposal_best_place: >-
   businesses and districts affected by homeless encampments.  We will see
   improvement in commerce and neighborhood safety as this issue is addressed.
 cached_project_image: >-
-  /assets/images/projects/2016/it-takes-a-village-to-reintegrate-the-homeless/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9660024355741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/it-takes-a-village-to-reintegrate-the-homeless/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9660024355741-team90.jpg
 organization_name: Alliance Building & Construction Services
 organization_website: www.thealliancechoice.com
 

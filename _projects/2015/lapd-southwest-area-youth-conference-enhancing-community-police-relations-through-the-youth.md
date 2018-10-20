@@ -204,7 +204,7 @@ How do you plan to scale the success of your proposal?: >-
   Increased community engagement and support and participation in youth
   programs.
 cached_project_image: >-
-  /assets/images/projects/2015/lapd-southwest-area-youth-conference-enhancing-community-police-relations-through-the-youth/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24149%252Fdisplay%252FScreen_Shot_2015-10-15_at_12.10.38_PM.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/lapd-southwest-area-youth-conference-enhancing-community-police-relations-through-the-youth/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24149%252Fdisplay%252FScreen_Shot_2015-10-15_at_12.10.38_PM.png=c570x385.png
 maker_image_id: '24149'
 maker_image_file_name: Screen_Shot_2015-10-15_at_12.10.38_PM.png
 organization_name: LAPD Southwest Business Booster Association Inc.

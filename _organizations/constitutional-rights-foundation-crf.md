@@ -37,6 +37,6 @@ calculated_project_ids:
   - '4102048'
 youtube_video_identifier: I85PHrZjakM
 cached_project_image: >-
-  /assets/images/organizations/constitutional-rights-foundation-crf/img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/constitutional-rights-foundation-crf/img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg
 
 ---

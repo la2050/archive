@@ -102,6 +102,6 @@ calculated_project_ids:
   - '3102139'
 youtube_video_identifier: gHdNsESWQgM
 cached_project_image: >-
-  /assets/images/organizations/globalgirl-media/img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/globalgirl-media/img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg
 
 ---

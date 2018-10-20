@@ -39,6 +39,6 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102280'
 cached_project_image: >-
-  /assets/images/organizations/westside-urban-forum/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
+  https://archive-assets.la2050.org/images/westside-urban-forum/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
 
 ---

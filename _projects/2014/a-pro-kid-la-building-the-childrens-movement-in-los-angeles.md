@@ -168,7 +168,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Each of these members brings added benefit to the project. This project is all about connecting the diverse support that already exists for kids in LA. Every new member that joins helps further the goal of making LA the most connected place for kids in the country.
 cached_project_image: >-
-  /assets/images/projects/2014/a-pro-kid-la-building-the-childrens-movement-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22826%252Fdisplay%252FProKid.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/a-pro-kid-la-building-the-childrens-movement-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22826%252Fdisplay%252FProKid.jpg=c570x385.jpg
 maker_image_id: '22826'
 maker_image_file_name: ProKid.jpg
 

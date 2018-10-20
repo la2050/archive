@@ -156,7 +156,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   available to youth in lowincome communities who wish to pursue an
   entrepreneurial path.
 cached_project_image: >-
-  /assets/images/projects/2013/innovation-saturday-for-los-angeles-youth/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16520%252Fdisplay%252FWorld_Series_pic.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/innovation-saturday-for-los-angeles-youth/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16520%252Fdisplay%252FWorld_Series_pic.jpg=c570x385.jpg
 maker_image_id: '16520'
 maker_image_file_name: World_Series_pic.jpg
 

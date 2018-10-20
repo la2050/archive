@@ -37,6 +37,6 @@ calculated_project_ids:
   - '3102055'
 youtube_video_identifier: fmzJcYDzdUw
 cached_project_image: >-
-  /assets/images/organizations/hive-lighting/img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/hive-lighting/img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg
 
 ---

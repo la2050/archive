@@ -127,7 +127,7 @@ Where do you hope this activation or your organization will be in five years?: >
   In five years, I hope that All-In will be able to partner with the other SOW
   and SHIELDS sites to provide access to more Angelenos!
 cached_project_image: >-
-  /assets/images/projects/2018/supporting-homeless-youth-beyond-the-school-year-are-you-all-in/activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
+  https://archive-assets.la2050.org/images/2018/supporting-homeless-youth-beyond-the-school-year-are-you-all-in/activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
 organization_name: All-In Urban Summer Academy
 
 ---

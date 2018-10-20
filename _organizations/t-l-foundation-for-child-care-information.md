@@ -53,6 +53,6 @@ calculated_project_ids:
   - '5102286'
   - '4102243'
 cached_project_image: >-
-  /assets/images/organizations/t-l-foundation-for-child-care-information/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
+  https://archive-assets.la2050.org/images/t-l-foundation-for-child-care-information/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 
 ---

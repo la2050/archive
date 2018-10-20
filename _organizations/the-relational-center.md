@@ -47,6 +47,6 @@ calculated_project_ids:
   - '3102256'
 youtube_video_identifier: 3J2TSZ1AMHM
 cached_project_image: >-
-  /assets/images/organizations/the-relational-center/img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/the-relational-center/img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg
 
 ---

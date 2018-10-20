@@ -163,7 +163,7 @@ Where do you hope this activation or your organization will be in five years?: >
   others on how to revitalize neighborhoods and build community resilience in
   partnership with the community.
 cached_project_image: >-
-  /assets/images/projects/2018/root-down-rise-up/activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
+  https://archive-assets.la2050.org/images/2018/root-down-rise-up/activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 organization_name: 'Multicultural Communities for Mobility, a project of Community Partners'
 
 ---

@@ -262,7 +262,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Thank you and good luck to all LA2050 Create submitters!
 cached_project_image: >-
-  /assets/images/projects/2015/city-with-a-heart-of-art-1000-new-artworks-made-in-by-la-in-2016/img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/city-with-a-heart-of-art-1000-new-artworks-made-in-by-la-in-2016/img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg
 youtube_video_identifier: jpQSRVlR_XM
 organization_name: Heart of Art Gallery
 

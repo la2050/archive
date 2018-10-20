@@ -52,6 +52,6 @@ calculated_project_ids:
 maker_image_file_name: vnfl_final.jpg
 maker_image_id: '16352'
 cached_project_image: >-
-  /assets/images/organizations/foryourart/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/foryourart/maker.good.is/images/placeholder/idea.png
 
 ---

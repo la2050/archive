@@ -48,6 +48,6 @@ calculated_project_ids:
   - '5102310'
   - '3102257'
 cached_project_image: >-
-  /assets/images/organizations/the-river-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
+  https://archive-assets.la2050.org/images/the-river-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
 
 ---

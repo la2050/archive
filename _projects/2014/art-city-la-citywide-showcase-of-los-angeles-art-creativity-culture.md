@@ -186,7 +186,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    These encouraging comments attest to a strong interest in the value of a global program such as ART CITY LA, which if chosen as an LA2050 Grant Challenge winner will offer these institutions and others full opportunity to participate in empowering LA County residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/art-city-la-citywide-showcase-of-los-angeles-art-creativity-culture/img.youtube.com/vi/JVyDVToMVoo/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/art-city-la-citywide-showcase-of-los-angeles-art-creativity-culture/img.youtube.com/vi/JVyDVToMVoo/hqdefault.jpg
 youtube_video_identifier: JVyDVToMVoo
 
 ---

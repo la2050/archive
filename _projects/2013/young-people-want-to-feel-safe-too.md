@@ -248,7 +248,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   the eyes and ears of law enforcement to reduce crime, promote safety, and
   reduce fear.
 cached_project_image: >-
-  /assets/images/projects/2013/young-people-want-to-feel-safe-too/img.youtube.com/vi/JPbaYb88x0U/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/young-people-want-to-feel-safe-too/img.youtube.com/vi/JPbaYb88x0U/hqdefault.jpg
 youtube_video_identifier: JPbaYb88x0U
 
 ---

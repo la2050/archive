@@ -145,7 +145,7 @@ Where do you hope this activation or your organization will be in five years?: >
   After going global, I hope to turn my organization into a B corporation or
   social enterprise. 
 cached_project_image: >-
-  /assets/images/projects/2018/normalize-periods-by-giving-back/activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg
+  https://archive-assets.la2050.org/images/2018/normalize-periods-by-giving-back/activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg
 organization_name: '#HappyPeriod'
 
 ---

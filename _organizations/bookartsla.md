@@ -38,6 +38,6 @@ calculated_project_ids:
 maker_image_file_name: IMG_8796_(2).JPG
 maker_image_id: '23476'
 cached_project_image: >-
-  /assets/images/organizations/bookartsla/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23476%252Fdisplay%252FIMG_8796_(2).JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/bookartsla/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23476%252Fdisplay%252FIMG_8796_(2).JPG=c570x385.jpg
 
 ---

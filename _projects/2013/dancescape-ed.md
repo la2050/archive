@@ -328,7 +328,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   programs, Los Angeles will boast not only a greatly increased access to arts,
   but will also foster greater public support for them.
 cached_project_image: >-
-  /assets/images/projects/2013/dancescape-ed/img.youtube.com/vi/mf0l7ocARFM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/dancescape-ed/img.youtube.com/vi/mf0l7ocARFM/maxresdefault.jpg
 youtube_video_identifier: mf0l7ocARFM
 
 ---

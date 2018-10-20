@@ -36,6 +36,6 @@ calculated_project_ids:
   - '5102239'
 youtube_video_identifier: qooMUYecd1s
 cached_project_image: >-
-  /assets/images/organizations/plug-in-south-la/img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/plug-in-south-la/img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg
 
 ---

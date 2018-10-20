@@ -56,6 +56,6 @@ calculated_project_ids:
   - '3102080'
 youtube_video_identifier: Dq2cY1SKlFQ
 cached_project_image: >-
-  /assets/images/organizations/nativ/img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/nativ/img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg
 
 ---

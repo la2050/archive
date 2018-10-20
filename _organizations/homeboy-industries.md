@@ -51,6 +51,6 @@ calculated_project_ids:
   - '6102095'
   - '3102149'
 cached_project_image: >-
-  /assets/images/organizations/homeboy-industries/activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg
+  https://archive-assets.la2050.org/images/homeboy-industries/activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg
 
 ---

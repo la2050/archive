@@ -238,7 +238,7 @@ How do you plan to scale the success of your proposal?: >-
   service delivery that is well documented, and it is done with the support and
   interest of our funders.
 cached_project_image: >-
-  /assets/images/projects/2015/jvs-works-creating-hope-and-opportunity/img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/jvs-works-creating-hope-and-opportunity/img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg
 youtube_video_identifier: iQpQqqot8AQ
 organization_name: JVS Los Angeles
 

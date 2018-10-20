@@ -35,6 +35,6 @@ calculated_project_ids:
 maker_image_file_name: March_31_2014_at_5pm.jpeg
 maker_image_id: '21436'
 cached_project_image: >-
-  /assets/images/organizations/chapcare/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21436%252Fdisplay%252FMarch_31_2014_at_5pm.jpeg=c570x385.jpg
+  https://archive-assets.la2050.org/images/chapcare/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21436%252Fdisplay%252FMarch_31_2014_at_5pm.jpeg=c570x385.jpg
 
 ---

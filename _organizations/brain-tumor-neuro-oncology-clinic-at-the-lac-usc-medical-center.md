@@ -69,6 +69,6 @@ calculated_project_ids:
 maker_image_file_name: BRAINCANCERLA2050.jpg
 maker_image_id: '16042'
 cached_project_image: >-
-  /assets/images/organizations/brain-tumor-neuro-oncology-clinic-at-the-lac-usc-medical-center/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/brain-tumor-neuro-oncology-clinic-at-the-lac-usc-medical-center/maker.good.is/images/placeholder/idea.png
 
 ---

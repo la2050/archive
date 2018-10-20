@@ -143,7 +143,7 @@ How will your activation engage Angelenos to make LA the best place: "Engaging A
 Please explain how you will define and measure success for your activation.: "Success will be measured by the number of collaborative efforts in workforce training, the numbers trained and retained in their job.\r\n\r\nIn San Diego County, the National Veterans Transition Services, Inc. has seen 95-97% success in job training and at least a 9-month retention of employment.\r\n\r\nThe number of additional individuals being housed in the currently available locations will lead to even more individuals to be housed.\r\n\r\n"
 Where do you hope this activation or your organization will be in five years?: "In five years an additional 5,000 veterans will have received workforce training and will be employed or developed a profitable business.\r\n\r\nOnce implemented, this program has the potential to house 100s in LA.  Moving able-bodied homeless Angelenos to locations where work and housing are available will decrease the density of the city's homeless population."
 cached_project_image: >-
-  /assets/images/projects/2018/carry-forward/activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
+  https://archive-assets.la2050.org/images/2018/carry-forward/activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
 organization_name: 'National Veterans Transition Services, Inc. AKA REBOOT'
 
 ---

@@ -232,7 +232,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   business into the area, increased graduation rates, and creating pride of
   ownership in the community.
 cached_project_image: >-
-  /assets/images/projects/2013/art-revitalization-movement/img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/art-revitalization-movement/img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg
 youtube_video_identifier: rksqpbf13eo
 
 ---

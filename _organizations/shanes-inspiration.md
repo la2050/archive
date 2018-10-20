@@ -43,6 +43,6 @@ calculated_project_ids:
   - '4102191'
 youtube_video_identifier: yUDKtK6Gfls
 cached_project_image: >-
-  /assets/images/organizations/shanes-inspiration/img.youtube.com/vi/yUDKtK6Gfls/hqdefault.jpg
+  https://archive-assets.la2050.org/images/shanes-inspiration/img.youtube.com/vi/yUDKtK6Gfls/hqdefault.jpg
 
 ---

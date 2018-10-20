@@ -248,7 +248,7 @@ How do you plan to scale the success of your proposal?: >-
   growth so we can continue to scale the impact of our program to help make this
   unique, proven effective linked learning program to more of LA's youth.
 cached_project_image: >-
-  /assets/images/projects/2015/linked-learning-college-work-life-ready-through-bbbslas-workplace-mentoring-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23399%252Fdisplay%252FBBBSLA_Workplace_Mentoring_-_Linked_Learning.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/linked-learning-college-work-life-ready-through-bbbslas-workplace-mentoring-program/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23399%252Fdisplay%252FBBBSLA_Workplace_Mentoring_-_Linked_Learning.jpg=c570x385.jpg
 maker_image_id: '23399'
 maker_image_file_name: BBBSLA_Workplace_Mentoring_-_Linked_Learning.jpg
 organization_name: Big Brothers Big Sisters of Greater Los Angeles

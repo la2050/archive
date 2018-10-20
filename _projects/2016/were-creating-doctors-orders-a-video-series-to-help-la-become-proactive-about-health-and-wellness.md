@@ -102,7 +102,7 @@ project_proposal_best_place: >-
   proactive about their health and less afraid.  Once the series is completed,
   we hope to get a spot on PBS to expand its reach and impact.
 cached_project_image: >-
-  /assets/images/projects/2016/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
+  https://archive-assets.la2050.org/images/2016/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
 organization_name: Healthy Living Productions
 organization_website: www.healthylivingprod.org
 

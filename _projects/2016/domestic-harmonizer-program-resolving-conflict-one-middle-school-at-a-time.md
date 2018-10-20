@@ -89,7 +89,7 @@ project_proposal_best_place: >-
   program will impact the entire school (900+ students, 50+ educators) each year
   for the next three years.
 cached_project_image: >-
-  /assets/images/projects/2016/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
+  https://archive-assets.la2050.org/images/2016/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
 organization_name: Whitaker Peace & Development Initiative (WPDI)
 organization_website: www.wpdi.org
 

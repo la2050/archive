@@ -104,7 +104,7 @@ Where do you hope this activation or your organization will be in five years?: >
   wherever there is vacant land, to eradicate the homeless problem and alleviate
   the cost of housing for struggling families.
 cached_project_image: >-
-  /assets/images/projects/2018/tiny-cities-for-l-a-s-homeless/activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
+  https://archive-assets.la2050.org/images/2018/tiny-cities-for-l-a-s-homeless/activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
 organization_name: Family Promise of the South Bay
 
 ---

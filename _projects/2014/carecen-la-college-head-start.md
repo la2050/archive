@@ -154,7 +154,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. Working together (CARECEN and Civitas) influencing a lasting change in the Westlake/Pico-Union community by raising awareness for higher academic standards and college readiness.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/carecen-la-college-head-start/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22249%252Fdisplay%252FCARECEN_College_Head_Start_Program.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/carecen-la-college-head-start/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22249%252Fdisplay%252FCARECEN_College_Head_Start_Program.jpg=c570x385.jpg
 maker_image_id: '22249'
 maker_image_file_name: CARECEN_College_Head_Start_Program.jpg
 

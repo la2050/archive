@@ -57,6 +57,6 @@ calculated_project_ids:
   - '4102043'
   - '3102082'
 cached_project_image: >-
-  /assets/images/organizations/college-track/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
+  https://archive-assets.la2050.org/images/college-track/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 
 ---

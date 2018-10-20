@@ -40,6 +40,6 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102051'
 cached_project_image: >-
-  /assets/images/organizations/harlem-lacrosse-los-angeles/activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
+  https://archive-assets.la2050.org/images/harlem-lacrosse-los-angeles/activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
 
 ---

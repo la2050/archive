@@ -127,7 +127,7 @@ How will your activation engage Angelenos to make LA the best place: "Children a
 Please explain how you will define and measure success for your activation.: "We will define success as reducing adverse childhood experiences and measure it with research-validated assessments. \r\n\r\nFirst, we will look at the mental wellness of the parents with the Patient Health Questionnaire (PHQ-2 and PHQ-9) to assess of a parent's level of mental well-being, consisting of two and nine questions, respectively. This will be a pre-test and post-test at the end of the year. We will also measure parent's improvement in parenting style with pre-post testing (including measuring parent's discipline style). \r\n\r\nTo assess improvement in the school, we will measure school-wide reports of bullying and teasing in the beginning and end of the year, and look for changes in suspensions and truancy over the year.\r\n\r\nFinally, we will measure the students' social emotional skills learned with the validated Multifactor Emotional Intelligence Scale (MEIS) with these subtests:\r\n- Identifying Emotions: Faces & Stories\r\n- Understanding Emotions: Blends & Progressions & Relativity\r\n- Managing Emotions: Others & Self"
 Where do you hope this activation or your organization will be in five years?: 'In several Los Angeles school districts & communities nationwide. '
 cached_project_image: >-
-  /assets/images/projects/2018/the-whole-school-approach-to-a-safer-happier-community/activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg
+  https://archive-assets.la2050.org/images/2018/the-whole-school-approach-to-a-safer-happier-community/activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg
 organization_name: Roots & Wings
 
 ---

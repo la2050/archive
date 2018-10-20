@@ -159,7 +159,7 @@ Where do you hope this activation or your organization will be in five years?: >
   We hope to serve at least 200 community college students per college in the
   next five years.  We expect to start with 30 students this year.
 cached_project_image: >-
-  /assets/images/projects/2018/activating-tech-talent-in-la/activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg
+  https://archive-assets.la2050.org/images/2018/activating-tech-talent-in-la/activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg
 organization_name: Data 360
 
 ---

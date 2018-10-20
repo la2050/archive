@@ -35,6 +35,6 @@ calculated_project_ids:
   - '4102157'
 youtube_video_identifier: grALjLXwxgM
 cached_project_image: >-
-  /assets/images/organizations/newfilmmakers-los-angeles/img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/newfilmmakers-los-angeles/img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg
 
 ---

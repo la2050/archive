@@ -273,7 +273,7 @@ How do you plan to scale the success of your proposal?: >-
   podcasts and Skype modes of communication to allow for mentorship of many
   students.
 cached_project_image: >-
-  /assets/images/projects/2015/generation-next-ready-on-the-set-and-action-science-technology-engineering-arts-and-math/img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/generation-next-ready-on-the-set-and-action-science-technology-engineering-arts-and-math/img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg
 youtube_video_identifier: 5paOc34oG84
 organization_name: 'Entertainment Industries Council, Inc.'
 

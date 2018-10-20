@@ -44,6 +44,6 @@ calculated_project_ids:
   - '8102054'
   - '6102102'
 cached_project_image: >-
-  /assets/images/organizations/imagine-la/activation.la2050.org/assets/images/connect/2048-wide/imagine-la.jpg
+  https://archive-assets.la2050.org/images/imagine-la/activation.la2050.org/assets/images/connect/2048-wide/imagine-la.jpg
 
 ---

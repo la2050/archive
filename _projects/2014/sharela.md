@@ -176,7 +176,7 @@ Whom will your project benefit? Please be specific.: >-
    
    The factors critical to our collaborative success are: shared vision, respect and reciprocity. Shared vision ensures we are pulling in the same direction - towards an interconnected, livable city where people from all walks of life can thrive. Respect allows for us to share our diverse perspectives, ideas and solutions. Reciprocity allows us to focus on community, not individual betterment, and meaningful exchange rather than service or charity.
 cached_project_image: >-
-  /assets/images/projects/2014/sharela/img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/sharela/img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg
 youtube_video_identifier: ytlmnttRP70
 
 ---

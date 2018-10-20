@@ -78,6 +78,6 @@ calculated_project_ids:
   - '3102053'
 youtube_video_identifier: ZErt5IiuEPA
 cached_project_image: >-
-  /assets/images/organizations/geoff-gallegos-dakah-hip-hop-orchestra/img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg
+  https://archive-assets.la2050.org/images/geoff-gallegos-dakah-hip-hop-orchestra/img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg
 
 ---

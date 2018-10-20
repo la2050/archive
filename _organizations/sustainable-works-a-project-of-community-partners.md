@@ -38,6 +38,6 @@ calculated_project_ids:
   - '3102240'
 youtube_video_identifier: q0_2OnUiDiU
 cached_project_image: >-
-  /assets/images/organizations/sustainable-works-a-project-of-community-partners/img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/sustainable-works-a-project-of-community-partners/img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg
 
 ---

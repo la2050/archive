@@ -340,7 +340,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   leaders.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/architecture-and-environmental-design-serving-community-with-open-educational-resource/img.youtube.com/vi/Rbh4r1scbVc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/architecture-and-environmental-design-serving-community-with-open-educational-resource/img.youtube.com/vi/Rbh4r1scbVc/maxresdefault.jpg
 youtube_video_identifier: Rbh4r1scbVc
 
 ---

@@ -43,6 +43,6 @@ calculated_project_ids:
   - '5102271'
 youtube_video_identifier: iHlwRhoV_78
 cached_project_image: >-
-  /assets/images/organizations/social-action-partners-soact/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/social-action-partners-soact/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg
 
 ---

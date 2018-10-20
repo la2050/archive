@@ -38,6 +38,6 @@ calculated_project_ids:
 maker_image_file_name: ironboxeducationLA2050.jpg
 maker_image_id: '23622'
 cached_project_image: >-
-  /assets/images/organizations/ironbox-education-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/ironbox-education-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385.jpg
 
 ---

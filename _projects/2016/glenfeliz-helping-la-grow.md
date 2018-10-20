@@ -125,7 +125,7 @@ project_proposal_best_place: >-
   as well as providing us opportunities to share our gardening and culinary
   expertise through more nutrition-oriented community programs.
 cached_project_image: >-
-  /assets/images/projects/2016/glenfeliz-helping-la-grow/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/glenfeliz-helping-la-grow/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
 organization_name: Friends of Glenfeliz
 organization_website: www.friendsofglenfeliz.org
 

@@ -111,6 +111,6 @@ calculated_project_ids:
   - '3102042'
 youtube_video_identifier: '-t89MRZW7G0'
 cached_project_image: >-
-  /assets/images/organizations/bright-star-schools/img.youtube.com/vi/-t89MRZW7G0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/bright-star-schools/img.youtube.com/vi/-t89MRZW7G0/maxresdefault.jpg
 
 ---

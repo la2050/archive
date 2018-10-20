@@ -128,7 +128,7 @@ project_proposal_best_place: >-
   CYLA prepare the students of Los Angeles for the demands and opportunities of
   their future.
 cached_project_image: >-
-  /assets/images/projects/2016/bringing-stem-to-city-year-after-school-programs-in-boyle-heights-and-pico-union/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7806062065741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/bringing-stem-to-city-year-after-school-programs-in-boyle-heights-and-pico-union/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7806062065741-team91.jpg
 organization_name: City Year Los Angeles
 organization_website: www.cityyear.org/losangeles
 

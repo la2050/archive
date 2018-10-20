@@ -55,6 +55,6 @@ calculated_project_ids:
   - '3102194'
 youtube_video_identifier: c2e6ERN-dS8
 cached_project_image: >-
-  /assets/images/organizations/machine-project/img.youtube.com/vi/c2e6ERN-dS8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/machine-project/img.youtube.com/vi/c2e6ERN-dS8/maxresdefault.jpg
 
 ---

@@ -99,6 +99,6 @@ calculated_project_ids:
   - '3102109'
 youtube_video_identifier: 8GZELMERrSk
 cached_project_image: >-
-  /assets/images/organizations/downtown-womens-center/img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg
+  https://archive-assets.la2050.org/images/downtown-womens-center/img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg
 
 ---

@@ -47,6 +47,6 @@ calculated_project_ids:
   - '3102047'
 youtube_video_identifier: kQnTJYkpO4A
 cached_project_image: >-
-  /assets/images/organizations/council-for-watershed-health/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/council-for-watershed-health/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg
 
 ---

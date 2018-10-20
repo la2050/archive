@@ -85,7 +85,7 @@ project_proposal_best_place: >-
   populations, work together on public policy, and invest in making changes to
   the criminal justice system.
 cached_project_image: >-
-  /assets/images/projects/2016/global-homeboy-network-connecting-through-kinship/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6687480265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/global-homeboy-network-connecting-through-kinship/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6687480265741-team91.jpg
 organization_name: Homeboy Industries
 organization_website: homeboyindustries.org
 

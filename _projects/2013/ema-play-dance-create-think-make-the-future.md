@@ -329,7 +329,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   like a SXSW, slowly building it out and showcasing the art and culture of our
   beloved Angelenos.
 cached_project_image: >-
-  /assets/images/projects/2013/ema-play-dance-create-think-make-the-future/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16296%252Fdisplay%252FEMAHeader.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/ema-play-dance-create-think-make-the-future/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16296%252Fdisplay%252FEMAHeader.jpg=c570x385.jpg
 maker_image_id: '16296'
 maker_image_file_name: EMAHeader.jpg
 

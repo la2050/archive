@@ -123,7 +123,7 @@ project_proposal_best_place: >-
   chaperone will know that the child is not actually lost. Information is shared
   among every chaperone of a trip, and if escalated, every local Gaggle user.
 cached_project_image: >-
-  /assets/images/projects/2016/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9587467355741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9587467355741-team91.jpg
 organization_name: EPage
 organization_website: getgaggle.com
 
