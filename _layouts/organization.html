@@ -6,120 +6,54 @@ stylesheets:
   - "/assets/css/project.css"
 ---
 
-
 {% assign data_collection = site.collections | where: "label", "projects" | first %}
 {% assign project_list = "" | split: "," %}
 
-{% comment %}
-{% for item in data_collection.docs %}
-  {% if item.organization_id == page.organization_id %}
-    {% assign project_list = project_list | push: item %}
-  {% endif %}
-{% endfor %}
-
-{% assign project_id_list = page.project_ids | split: "," %}
-{% for project_id in project_id_list %}
-  {% for item in data_collection.docs %}
-    {% if item.project_id == project_id %}
-      {% assign project_list = project_list | push: item %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-{% endcomment %}
-
 
 {% for project_id in page.project_ids %}
-  {% for item in data_collection.docs %}
-    {% if item.project_id == project_id %}
-      {% assign project_list = project_list | push: item %}
-    {% endif %}
-  {% endfor %}
+  {% assign data_list = data_collection.docs | where: "project_id", project_id %}
+  {% if data_list.size > 0 %}
+    {% assign project_list = project_list | push: data_list[0] %}
+  {% endif %}
 {% endfor %}
 
-
-
-
 {% comment %} SHIM {% endcomment %}
-{% if project_list.size <= 0 or true %}
-  {% assign project_id_list = page.aggregated.project_ids %}
-  {% for project_id in project_id_list %}
-    {% for item in data_collection.docs %}
-      {% if item.project_id == project_id and item.organization_id == page.organization_id %}
-        {% assign project_list = project_list | push: item %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-{% endif %}
-
-{% for item in data_collection.docs %}
-  {% assign has_no_organization_match_by_project_id = item.has_no_organization_match_by_project_id %}
-  {% if item.title == "Dream Big With @movelatransit" %}
-    {% assign has_no_organization_match_by_project_id = true %}
-  {% endif %}
-  {% if item.organization_id == page.organization_id and has_no_organization_match_by_project_id %}
-    {% assign project_list = project_list | push: item %}
+{% for project_id in page.aggregated.project_ids %}
+  {% assign data_list = data_collection.docs | where: "project_id", project_id | where: "organization_id", page.organization_id %}
+  {% if data_list.size > 0 %}
+    {% assign project_list = project_list | push: data_list[0] %}
   {% endif %}
 {% endfor %}
 
 {% comment %} SHIM {% endcomment %}
 {% if project_list.size <= 0 %}
-  {% for item in data_collection.docs %}
-    {% if item.organization_id == page.organization_id %}
-      {% assign project_list = project_list | push: item %}
-    {% endif %}
-  {% endfor %}
+  {% assign data_list = data_collection.docs | where: "organization_id", page.organization_id %}
+  {% if data_list.size > 0 %}
+    {% assign project_list = project_list | push: data_list[0] %}
+  {% endif %}
 {% endif %}
 
 {% comment %} SHIM {% endcomment %}
 {% if project_list.size <= 0 %}
-  {% assign project_id_list = page.aggregated.project_ids %}
-  {% for project_id in project_id_list %}
-    {% for item in data_collection.docs %}
-      {% if item.project_id == project_id %}
-        {% assign project_list = project_list | push: item %}
-      {% endif %}
-    {% endfor %}
+  {% for project_id in page.aggregated.project_ids %}
+    {% assign data_list = data_collection.docs | where: "project_id", project_id %}
+    {% if data_list.size > 0 %}
+      {% assign project_list = project_list | push: data_list[0] %}
+    {% endif %}
   {% endfor %}
 {% endif %}
+
+
+
 
 
 {% assign project_list = project_list | uniq %}
-
 
 {% if project_list.size > 0 %}
 {% assign project_list = project_list | sort: "year_submitted" | reverse %}
 {% assign first_project_url = project_list[0].url %}
 {% endif %}
 
-
-{% comment %}
-{% assign categories = "learn, create, play, connect, live" | split: ", " %}
-{% assign data_category = "" %}
-{% for tag in page.tags_indicators %}
-  {% for category in categories %}
-    {% for parentTag in site.data.tags_categories[category] %}
-      {% if tag == parentTag %}
-        {% assign data_category = category %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-{% endfor %}
-
-{% case data_category %}
-  {% when 'learn' %}
-     {% assign primary_color = "blueberry" %}
-  {% when 'create' %}
-     {% assign primary_color = "banana" %}
-  {% when 'play' %}
-     {% assign primary_color = "strawberry" %}
-  {% when 'connect' %}
-     {% assign primary_color = "tangerine" %}
-  {% when 'live' %}
-     {% assign primary_color = "lime" %}
-  {% else %}
-     {% assign primary_color = "strawberry" %}
-{% endcase %}
-{% endcomment %}
 
 <div style="margin-top: 3em"></div>
 
