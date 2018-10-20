@@ -43,7 +43,10 @@ aggregated:
     - '2018'
     - '2016'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102125'
+  - '6102263'
 cached_project_image: >-
-  /assets/images/organizations/think-tank-productions-inc-dba-think-tank-gallery/activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
+  https://archive-assets.la2050.org/images/think-tank-productions-inc-dba-think-tank-gallery/activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 
 ---

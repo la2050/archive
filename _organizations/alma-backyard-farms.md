@@ -33,8 +33,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102006'
 youtube_video_identifier: Eg3e5xfocOk
 cached_project_image: >-
-  /assets/images/organizations/alma-backyard-farms/img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg
+  https://archive-assets.la2050.org/images/alma-backyard-farms/img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg
 
 ---

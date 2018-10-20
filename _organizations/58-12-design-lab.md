@@ -52,9 +52,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102002'
 maker_image_file_name: la2050_title.jpg
 maker_image_id: '16859'
 cached_project_image: >-
-  /assets/images/organizations/58-12-design-lab/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16859%252Fdisplay%252Fla2050_title.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/58-12-design-lab/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16859%252Fdisplay%252Fla2050_title.jpg=c570x385.jpg
 
 ---

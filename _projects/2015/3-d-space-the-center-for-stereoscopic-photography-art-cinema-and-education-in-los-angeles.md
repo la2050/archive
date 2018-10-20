@@ -247,7 +247,7 @@ How do you plan to scale the success of your proposal?: >-
   partnership with other arts and science organizations and local school
   districts and colleges.
 cached_project_image: >-
-  /assets/images/projects/2015/3-d-space-the-center-for-stereoscopic-photography-art-cinema-and-education-in-los-angeles/img.youtube.com/vi/sMiWY0aFpkk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/3-d-space-the-center-for-stereoscopic-photography-art-cinema-and-education-in-los-angeles/img.youtube.com/vi/sMiWY0aFpkk/maxresdefault.jpg
 youtube_video_identifier: sMiWY0aFpkk
 organization_name: 3-D SPACE
 

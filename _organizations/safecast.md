@@ -26,8 +26,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102092'
 youtube_video_identifier: Cb6MAN2lVkg
 cached_project_image: >-
-  /assets/images/organizations/safecast/img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/safecast/img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg
 
 ---

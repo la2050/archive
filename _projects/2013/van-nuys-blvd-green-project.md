@@ -188,7 +188,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   all communities, green industries in place of toxic industries, and complete
   streets for everyone to enjoy.
 cached_project_image: >-
-  /assets/images/projects/2013/van-nuys-blvd-green-project/img.youtube.com/vi/KGG2xJAropg/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/van-nuys-blvd-green-project/img.youtube.com/vi/KGG2xJAropg/maxresdefault.jpg
 youtube_video_identifier: KGG2xJAropg
 
 ---

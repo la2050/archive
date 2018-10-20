@@ -35,9 +35,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102259'
 maker_image_file_name: logo.png
 maker_image_id: '20761'
 cached_project_image: >-
-  /assets/images/organizations/womenshelter-of-long-beach/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20761%252Fdisplay%252Flogo.png=c570x385.png
+  https://archive-assets.la2050.org/images/womenshelter-of-long-beach/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20761%252Fdisplay%252Flogo.png=c570x385.png
 
 ---

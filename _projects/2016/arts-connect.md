@@ -125,7 +125,7 @@ project_proposal_best_place: >-
   can be seen as “relevant” for young scholars, and energize student interest
   and a desire to continue and succeed in school.
 cached_project_image: >-
-  /assets/images/projects/2016/arts-connect/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
+  https://archive-assets.la2050.org/images/2016/arts-connect/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
 organization_name: Arts and Living Charitable Foundation
 organization_website: www.aalcf.com/index.php/what-the/80-article-eight14
 

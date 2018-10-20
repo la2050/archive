@@ -31,6 +31,6 @@ year_submitted: '2014'
 maker_image_file_name: obee-landscape.jpg
 maker_image_id: '22740'
 cached_project_image: >-
-  /assets/images/organizations/home-front-build/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22740%252Fdisplay%252Fobee-landscape.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/home-front-build/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22740%252Fdisplay%252Fobee-landscape.jpg=c570x385.jpg
 
 ---

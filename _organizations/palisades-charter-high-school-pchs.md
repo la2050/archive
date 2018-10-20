@@ -33,8 +33,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102226'
 youtube_video_identifier: XUlv1Zd4JZU
 cached_project_image: >-
-  /assets/images/organizations/palisades-charter-high-school-pchs/img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg
+  https://archive-assets.la2050.org/images/palisades-charter-high-school-pchs/img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg
 
 ---

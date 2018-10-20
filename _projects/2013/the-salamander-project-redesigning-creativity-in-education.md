@@ -393,7 +393,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/the-salamander-project-redesigning-creativity-in-education/img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/the-salamander-project-redesigning-creativity-in-education/img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg
 youtube_video_identifier: y3Gts_Aoxd8
 
 ---

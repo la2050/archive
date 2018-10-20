@@ -161,7 +161,7 @@ Where do you hope this activation or your organization will be in five years?: >
   the original vip records store was opened and hope to have launched at least
   100 successful small businesses.    
 cached_project_image: >-
-  /assets/images/projects/2018/world-famous-vip-records-business-incubator-and-multi-media-center/activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
+  https://archive-assets.la2050.org/images/2018/world-famous-vip-records-business-incubator-and-multi-media-center/activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
 organization_name: World Famous VIP Records LLC
 
 ---

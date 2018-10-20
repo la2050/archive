@@ -26,8 +26,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102236'
 youtube_video_identifier: 7nJBFWm-mb0
 cached_project_image: >-
-  /assets/images/organizations/toberman-neighborhood-center/img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/toberman-neighborhood-center/img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg
 
 ---

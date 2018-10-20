@@ -41,7 +41,10 @@ aggregated:
     - '2016'
     - '2014'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102065'
+  - '4102067'
 cached_project_image: >-
-  /assets/images/organizations/everyoneon/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
+  https://archive-assets.la2050.org/images/everyoneon/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 
 ---

@@ -137,7 +137,7 @@ Where do you hope this activation or your organization will be in five years?: >
   race/ethnicity and family income, and more students enrolling and persisting
   in postsecondary STEM programs.
 cached_project_image: >-
-  /assets/images/projects/2018/next-generation-science-standards-empowering-teachers-to-empower-students-for-the-future-of-stem/activation.la2050.org/assets/images/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
+  https://archive-assets.la2050.org/images/2018/next-generation-science-standards-empowering-teachers-to-empower-students-for-the-future-of-stem/activation.la2050.org/assets/images/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
 organization_name: Center for Innovation in STEM Education (CISE)
 
 ---

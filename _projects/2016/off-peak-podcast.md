@@ -116,7 +116,7 @@ project_proposal_best_place: >-
   expand our communal story, reminding our community how Los Angeles is truly
   the best place in the world to connect with our fellow citizens.
 cached_project_image: >-
-  /assets/images/projects/2016/off-peak-podcast/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
+  https://archive-assets.la2050.org/images/2016/off-peak-podcast/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
 organization_name: LA Metro
 organization_website: www.metro.net
 

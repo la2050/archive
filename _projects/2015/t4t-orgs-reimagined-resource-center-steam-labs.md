@@ -239,7 +239,7 @@ How do you plan to scale the success of your proposal?: >-
   guidebook for any other community that is interested in starting a T4T.org
   style traveling Makers Space using ReImagined Resources from their community.
 cached_project_image: >-
-  /assets/images/projects/2015/t4t-orgs-reimagined-resource-center-steam-labs/img.youtube.com/vi/1GUzOIci_7Q/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/t4t-orgs-reimagined-resource-center-steam-labs/img.youtube.com/vi/1GUzOIci_7Q/maxresdefault.jpg
 youtube_video_identifier: 1GUzOIci_7Q
 organization_name: T4T.org
 

@@ -114,7 +114,7 @@ project_proposal_best_place: >-
   public concerts, live talks, and cultural events in its new facility for all
   Angelenos to attend!
 cached_project_image: >-
-  /assets/images/projects/2016/help-build-the-kcrw-media-center-designed-for-you-to-connect-with-public-radio-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/help-build-the-kcrw-media-center-designed-for-you-to-connect-with-public-radio-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
 organization_name: KCRW
 organization_website: KCRW.com
 

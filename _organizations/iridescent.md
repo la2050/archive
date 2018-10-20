@@ -36,8 +36,11 @@ aggregated:
     - '2015'
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102146'
+  - '5102145'
 youtube_video_identifier: NTnzCDQ335U
 cached_project_image: >-
-  /assets/images/organizations/iridescent/img.youtube.com/vi/NTnzCDQ335U/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/iridescent/img.youtube.com/vi/NTnzCDQ335U/maxresdefault.jpg
 
 ---

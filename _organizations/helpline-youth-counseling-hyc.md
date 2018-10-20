@@ -38,7 +38,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102090'
 cached_project_image: >-
-  /assets/images/organizations/helpline-youth-counseling-hyc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
+  https://archive-assets.la2050.org/images/helpline-youth-counseling-hyc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
 
 ---

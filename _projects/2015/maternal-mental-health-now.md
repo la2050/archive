@@ -264,7 +264,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Once published, the guidebook will be distributed in print and via online channels to The California Improvement Network and other partners and stakeholders. As a result of the best practice guide, medical settings throughout the state and beyond will be able to utilize Maternal Mental Health NOW’s recommendations so that the model of integrated perinatal mental health care can spread.
 cached_project_image: >-
-  /assets/images/projects/2015/maternal-mental-health-now/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/maternal-mental-health-now/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385.jpg
 maker_image_id: '23910'
 maker_image_file_name: MMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg
 organization_name: Maternal Mental Health NOW

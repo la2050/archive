@@ -243,7 +243,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   expression to educate others about the different lives and people that make
   Los Angeles the best city in the world. 
 cached_project_image: >-
-  /assets/images/projects/2013/camp-hollywood-heart/img.youtube.com/vi/hp9UIaV8qIc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/camp-hollywood-heart/img.youtube.com/vi/hp9UIaV8qIc/maxresdefault.jpg
 youtube_video_identifier: hp9UIaV8qIc
 
 ---

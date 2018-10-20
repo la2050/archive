@@ -296,7 +296,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3) Evaluation and improvement
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/l-a-futures/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/l-a-futures/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385.jpg
 maker_image_id: '22179'
 maker_image_file_name: IMG_2944.JPG
 

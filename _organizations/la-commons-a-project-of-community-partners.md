@@ -37,7 +37,10 @@ aggregated:
     - '2018'
     - '2013'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102060'
+  - '3102171'
 cached_project_image: >-
-  /assets/images/organizations/la-commons-a-project-of-community-partners/activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
+  https://archive-assets.la2050.org/images/la-commons-a-project-of-community-partners/activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
 
 ---

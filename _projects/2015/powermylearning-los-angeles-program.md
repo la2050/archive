@@ -135,7 +135,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
-  /assets/images/projects/2015/powermylearning-los-angeles-program/img.youtube.com/vi/IG53vhayb9k/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/powermylearning-los-angeles-program/img.youtube.com/vi/IG53vhayb9k/maxresdefault.jpg
 youtube_video_identifier: IG53vhayb9k
 organization_name: PowerMyLearning
 

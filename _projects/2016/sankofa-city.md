@@ -128,7 +128,7 @@ project_proposal_best_place: >-
   conversations about future alternatives for local innovation and everyday
   technologies.
 cached_project_image: >-
-  /assets/images/projects/2016/sankofa-city/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/sankofa-city/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
 organization_name: Annenberg Innovation Lab
 organization_website: www.annenberglab.com
 

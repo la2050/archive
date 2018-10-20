@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2016055'
+organization_id: '2015045'
 year_submitted: 2015
 category: live
 body_class: lime
@@ -273,7 +273,7 @@ How do you plan to scale the success of your proposal?: >-
   (2017-2018) will build on CtD relationships and visioning; community design
   teams will compete for selection to realize demonstration projects.
 cached_project_image: >-
-  /assets/images/projects/2015/connect-the-dots-la-public-design-workshops-for-realizing-a-resilient-future/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/connect-the-dots-la-public-design-workshops-for-realizing-a-resilient-future/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385.jpg
 maker_image_id: '24151'
 maker_image_file_name: CtD_2050_Image_2.jpg
 organization_name: Connect the Dots LA

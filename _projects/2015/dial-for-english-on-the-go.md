@@ -261,7 +261,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Our tweet to them: Ring Ring LA! Aprenda con @Cell-Ed- Inglés+Habilidades de vida. Sobre la marcha y desde cualquier teléfono, Gratis! @LA2050 #familyliteracy
 cached_project_image: >-
-  /assets/images/projects/2015/dial-for-english-on-the-go/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24155%252Fdisplay%252FScreen_Shot_2015-10-15_at_5.32.07_PM.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/dial-for-english-on-the-go/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24155%252Fdisplay%252FScreen_Shot_2015-10-15_at_5.32.07_PM.png=c570x385.png
 maker_image_id: '24155'
 maker_image_file_name: Screen_Shot_2015-10-15_at_5.32.07_PM.png
 organization_name: Cell-Ed

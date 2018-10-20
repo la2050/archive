@@ -327,6 +327,6 @@ What would success look like in the year 2050 regarding your indicator?: >-
   woman who came to the AxS Festival as a fourthgrader is heading up the
   Governor’s task force on arts, culture, science and technology.
 cached_project_image: >-
-  /assets/images/projects/2013/axs-aksis-festival/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/2013/axs-aksis-festival/maker.good.is/images/placeholder/idea.png
 
 ---

@@ -33,8 +33,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102148'
 youtube_video_identifier: sO2seHdnH3c
 cached_project_image: >-
-  /assets/images/organizations/mobile-film-classroom/img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg
+  https://archive-assets.la2050.org/images/mobile-film-classroom/img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg
 
 ---

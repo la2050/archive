@@ -34,9 +34,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102012'
 maker_image_file_name: Page_6_Behind_the_scenes.JPG
 maker_image_id: '24082'
 cached_project_image: >-
-  /assets/images/organizations/alliance-for-childrens-rights/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24082%252Fdisplay%252FPage_6_Behind_the_scenes.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/alliance-for-childrens-rights/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24082%252Fdisplay%252FPage_6_Behind_the_scenes.JPG=c570x385.jpg
 
 ---

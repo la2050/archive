@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2015053'
+organization_id: '2016086'
 year_submitted: 2013
 indicator: Arts & Cultural Vitality
 body_class: strawberry
@@ -531,7 +531,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   as a beacon to the world.  Sound Share LA will help materialize this
   optimistic vision of a creative Los Angeles in the year 2050 and beyond.
 cached_project_image: >-
-  /assets/images/projects/2013/sound-share-la/img.youtube.com/vi/lA2MuY9eXe8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/sound-share-la/img.youtube.com/vi/lA2MuY9eXe8/maxresdefault.jpg
 youtube_video_identifier: lA2MuY9eXe8
 
 ---

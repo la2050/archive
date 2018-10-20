@@ -86,8 +86,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102006'
 youtube_video_identifier: KAJrrW9SOdA
 cached_project_image: >-
-  /assets/images/organizations/arc/img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/arc/img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg
 
 ---

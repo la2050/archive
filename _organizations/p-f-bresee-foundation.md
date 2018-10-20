@@ -42,8 +42,11 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102225'
+  - '3102219'
 youtube_video_identifier: yeyzmCpYfFk
 cached_project_image: >-
-  /assets/images/organizations/p-f-bresee-foundation/img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/p-f-bresee-foundation/img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
 
 ---

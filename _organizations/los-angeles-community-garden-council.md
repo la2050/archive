@@ -33,9 +33,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102126'
 maker_image_file_name: LACGC_Community_Photo.jpg
 maker_image_id: '20229'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-community-garden-council/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20229%252Fdisplay%252FLACGC_Community_Photo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/los-angeles-community-garden-council/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20229%252Fdisplay%252FLACGC_Community_Photo.jpg=c570x385.jpg
 
 ---

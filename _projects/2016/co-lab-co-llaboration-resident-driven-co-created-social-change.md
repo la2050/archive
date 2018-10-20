@@ -166,7 +166,7 @@ project_proposal_best_place: >-
   the solution design process, Co/Lab’s  approach will make LA a premier place
   to connect & live.
 cached_project_image: >-
-  /assets/images/projects/2016/co-lab-co-llaboration-resident-driven-co-created-social-change/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
+  https://archive-assets.la2050.org/images/2016/co-lab-co-llaboration-resident-driven-co-created-social-change/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
 organization_name: South Bay Center for Counseling (SBCC)
 organization_website: www.sbccthrivela.org
 

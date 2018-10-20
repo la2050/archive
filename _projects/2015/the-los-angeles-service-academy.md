@@ -227,7 +227,7 @@ How do you plan to scale the success of your proposal?: >-
   central, student-participant model, but we have made no firm decisions in this
   regard as yet.
 cached_project_image: >-
-  /assets/images/projects/2015/the-los-angeles-service-academy/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/the-los-angeles-service-academy/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385.jpg
 maker_image_id: '23401'
 maker_image_file_name: LASA_LARiver2015.jpg
 organization_name: Los Angeles Service Academy

@@ -51,7 +51,12 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102089'
+  - '6102165'
+  - '5102219'
+  - '4102155'
 cached_project_image: >-
-  /assets/images/organizations/neighborhood-housing-services-of-los-angeles-county/activation.la2050.org/assets/images/live/2048-wide/neighborhood-housing-services-of-los-angeles-county.jpg
+  https://archive-assets.la2050.org/images/neighborhood-housing-services-of-los-angeles-county/activation.la2050.org/assets/images/live/2048-wide/neighborhood-housing-services-of-los-angeles-county.jpg
 
 ---

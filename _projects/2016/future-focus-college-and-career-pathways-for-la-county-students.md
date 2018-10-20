@@ -130,7 +130,7 @@ project_proposal_best_place: >-
   experiences are organized in their portfolio assisting them in their
   transition into college or career.
 cached_project_image: >-
-  /assets/images/projects/2016/future-focus-college-and-career-pathways-for-la-county-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
+  https://archive-assets.la2050.org/images/2016/future-focus-college-and-career-pathways-for-la-county-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
 organization_name: College Bridge
 organization_website: www.college-bridge.org
 

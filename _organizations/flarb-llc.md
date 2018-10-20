@@ -55,9 +55,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102046'
 maker_image_file_name: evolvela2.png
 maker_image_id: '16195'
 cached_project_image: >-
-  /assets/images/organizations/flarb-llc/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/flarb-llc/maker.good.is/images/placeholder/idea.png
 
 ---

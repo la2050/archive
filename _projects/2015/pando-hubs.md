@@ -296,7 +296,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Eventually, Pando Hubs will scale on a franchise model of growth, by which we would provide the branding, a planbook(s) for implementation, and a specialist network.
 cached_project_image: >-
-  /assets/images/projects/2015/pando-hubs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23521%252Fdisplay%252FEco_Civ.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/pando-hubs/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23521%252Fdisplay%252FEco_Civ.png=c570x385.png
 maker_image_id: '23521'
 maker_image_file_name: Eco_Civ.png
 organization_name: 'Pando Populus, Inc.; World Studio Foundation, Inc.'

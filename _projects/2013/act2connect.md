@@ -451,7 +451,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   them, leveraging their local knowledgebase and trust relationships, and
   responding quickly to the resident concerns that they raise.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/act2connect/img.youtube.com/vi/iHvoKckqh4o/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/act2connect/img.youtube.com/vi/iHvoKckqh4o/hqdefault.jpg
 youtube_video_identifier: iHvoKckqh4o
 
 ---

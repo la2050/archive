@@ -202,7 +202,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   partnership with the VA, the Los Angeles performing arts community will help
   veterans successfully transition from combat into society.
 cached_project_image: >-
-  /assets/images/projects/2013/transforming-lives-one-show-at-a-time/img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/transforming-lives-one-show-at-a-time/img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg
 youtube_video_identifier: pp9oh64x-9Y
 
 ---

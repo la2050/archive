@@ -37,9 +37,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102256'
 maker_image_file_name: RD_APCH_Training_Install_Mar_15_4web.jpg
 maker_image_id: '23812'
 cached_project_image: >-
-  /assets/images/organizations/rootdown-la-a-project-of-community-partners/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23812%252Fdisplay%252FRD_APCH_Training_Install_Mar_15_4web.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/rootdown-la-a-project-of-community-partners/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23812%252Fdisplay%252FRD_APCH_Training_Install_Mar_15_4web.jpg=c570x385.jpg
 
 ---

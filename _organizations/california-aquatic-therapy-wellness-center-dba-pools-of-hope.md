@@ -38,7 +38,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102025'
 cached_project_image: >-
-  /assets/images/organizations/california-aquatic-therapy-wellness-center-dba-pools-of-hope/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
+  https://archive-assets.la2050.org/images/california-aquatic-therapy-wellness-center-dba-pools-of-hope/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
 
 ---

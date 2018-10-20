@@ -35,9 +35,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102269'
 maker_image_file_name: IsWasWillBe_SmartGals.jpg
 maker_image_id: '23815'
 cached_project_image: >-
-  /assets/images/organizations/smart-gals-productions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/smart-gals-productions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385.jpg
 
 ---

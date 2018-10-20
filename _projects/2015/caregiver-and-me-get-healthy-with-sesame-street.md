@@ -284,7 +284,7 @@ How do you plan to scale the success of your proposal?: >-
    
    The website with all of the information and how to replicate these efforts will be maintained so the general public will always have access to the white paper, lessons learned and ways to replicate what we accomplished.
 cached_project_image: >-
-  /assets/images/projects/2015/caregiver-and-me-get-healthy-with-sesame-street/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23553%252Fdisplay%252F97_000_Children.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/caregiver-and-me-get-healthy-with-sesame-street/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23553%252Fdisplay%252F97_000_Children.jpg=c570x385.jpg
 maker_image_id: '23553'
 maker_image_file_name: 97_000_Children.jpg
 organization_name: >-

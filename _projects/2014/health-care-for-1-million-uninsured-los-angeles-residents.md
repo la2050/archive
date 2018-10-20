@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014162'
+organization_id: '2014223'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -198,7 +198,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    CITY OF LA: Aligns with many of the public health, transportations, and economic development strategies pursued by various city agencies. By pooling the resources of the city and health centers, the LHHI can promote the area as an ideal location for health targeted industry clusters and health infrastructure.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/health-care-for-1-million-uninsured-los-angeles-residents/img.youtube.com/vi/-8HpYaBGc4I/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/health-care-for-1-million-uninsured-los-angeles-residents/img.youtube.com/vi/-8HpYaBGc4I/hqdefault.jpg
 youtube_video_identifier: '-8HpYaBGc4I'
 
 ---

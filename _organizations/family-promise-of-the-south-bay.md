@@ -33,7 +33,9 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102039'
 cached_project_image: >-
-  /assets/images/organizations/family-promise-of-the-south-bay/activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
+  https://archive-assets.la2050.org/images/family-promise-of-the-south-bay/activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
 
 ---

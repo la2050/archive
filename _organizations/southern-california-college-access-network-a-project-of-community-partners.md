@@ -38,9 +38,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102276'
 maker_image_file_name: _MG_9694.JPG
 maker_image_id: '23240'
 cached_project_image: >-
-  /assets/images/organizations/southern-california-college-access-network-a-project-of-community-partners/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23240%252Fdisplay%252F_MG_9694.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/southern-california-college-access-network-a-project-of-community-partners/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23240%252Fdisplay%252F_MG_9694.JPG=c570x385.jpg
 
 ---

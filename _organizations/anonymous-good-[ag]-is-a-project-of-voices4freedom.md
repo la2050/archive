@@ -32,8 +32,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102009'
 youtube_video_identifier: xzNGKe7E2iE
 cached_project_image: >-
-  /assets/images/organizations/anonymous-good-[ag]-is-a-project-of-voices4freedom/img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/anonymous-good-[ag]-is-a-project-of-voices4freedom/img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg
 
 ---

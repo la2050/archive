@@ -246,7 +246,7 @@ How do you plan to scale the success of your proposal?: >-
   guidebook for any other community that is interested in starting a T4T.org
   style traveling Makers Space using ReImagined Resources from their community.
 cached_project_image: >-
-  /assets/images/projects/2015/la-landfill-harmonic-orchestra/img.youtube.com/vi/MkTQQ0m8Ys8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/la-landfill-harmonic-orchestra/img.youtube.com/vi/MkTQQ0m8Ys8/maxresdefault.jpg
 youtube_video_identifier: MkTQQ0m8Ys8
 organization_name: T4T.org
 

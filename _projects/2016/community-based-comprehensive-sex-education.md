@@ -114,7 +114,7 @@ project_proposal_best_place: >-
   for their own health, receive the medical services they need, and make
   positive decisions.
 cached_project_image: >-
-  /assets/images/projects/2016/community-based-comprehensive-sex-education/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8267604165741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/community-based-comprehensive-sex-education/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8267604165741-team90.jpg
 organization_name: Planned Parenthood Los Angeles (PPLA)
 organization_website: www.plannedparenthood.org/planned-parenthood-los-angeles
 

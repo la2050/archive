@@ -35,9 +35,12 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102246'
+  - '3102098'
 maker_image_file_name: urban_air.jpg
 maker_image_id: '21229'
 cached_project_image: >-
-  /assets/images/organizations/urban-air/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/urban-air/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385.jpg
 
 ---

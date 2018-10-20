@@ -113,7 +113,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   urban sprawl like LA) Combining that with the artistic and community angle
   we're approaching it with, we think that success in 2050 is easily envisioned.
 cached_project_image: >-
-  /assets/images/projects/2013/beautiful-rain-barrels-in-public-places/img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/beautiful-rain-barrels-in-public-places/img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg
 youtube_video_identifier: U3BkXd4ano4
 
 ---

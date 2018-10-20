@@ -33,8 +33,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102023'
 youtube_video_identifier: 0EQnXawnCQk
 cached_project_image: >-
-  /assets/images/organizations/artists-for-literacy-litremix/img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg
+  https://archive-assets.la2050.org/images/artists-for-literacy-litremix/img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg
 
 ---

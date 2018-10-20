@@ -40,8 +40,11 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102170'
+  - '4102110'
 youtube_video_identifier: wZGBfT2_pi4
 cached_project_image: >-
-  /assets/images/organizations/lab-launch/img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/lab-launch/img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg
 
 ---

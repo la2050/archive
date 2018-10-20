@@ -127,7 +127,7 @@ project_proposal_best_place: >-
   districts, and other LA policymakers to take action on the agenda and make
   real change to make LA the Best Place to Live for kids.
 cached_project_image: >-
-  /assets/images/projects/2016/lifting-up-las-voice-for-kids-to-live-trauma-free-by-2050/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9146110265741-team88.jpg
+  https://archive-assets.la2050.org/images/2016/lifting-up-las-voice-for-kids-to-live-trauma-free-by-2050/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9146110265741-team88.jpg
 organization_name: Children Now
 organization_website: www.childrennow.org
 

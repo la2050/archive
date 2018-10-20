@@ -113,7 +113,7 @@ project_proposal_best_place: >-
 
    -District-wide graduation rates: Coding is Cool will exponentially amp up our students’ creativity, specific CS curiosity and STEM-based, academic skills.
 cached_project_image: >-
-  /assets/images/projects/2016/help-us-create-and-inspire-the-future-tech-leaders-of-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
+  https://archive-assets.la2050.org/images/2016/help-us-create-and-inspire-the-future-tech-leaders-of-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 organization_name: The Children's Lifesaving Foundation
 organization_website: www.childrenslifesaving.org
 

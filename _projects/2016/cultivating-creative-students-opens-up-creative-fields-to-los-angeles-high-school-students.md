@@ -108,7 +108,7 @@ project_proposal_best_place: >-
   In this way CCS opens up creative fields and practices to a more inclusive Los
   Angeles.
 cached_project_image: >-
-  /assets/images/projects/2016/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
 organization_name: Wisdom Arts Laboratory
 organization_website: www.wisdomartslaboratory.com
 

@@ -46,9 +46,14 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102327'
+  - '4102241'
+  - '4102240'
+  - '4102039'
 maker_image_file_name: TIER.jpg
 maker_image_id: '23820'
 cached_project_image: >-
-  /assets/images/organizations/ucla/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/ucla/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385.jpg
 
 ---

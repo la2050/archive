@@ -38,7 +38,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102166'
 cached_project_image: >-
-  /assets/images/organizations/new-directions-for-youth-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2516729815741-team90.png
+  https://archive-assets.la2050.org/images/new-directions-for-youth-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2516729815741-team90.png
 
 ---

@@ -254,7 +254,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Once more schools see the value of building math fluency and start to adopt the system, additional staff will be hired to assist with marketing, fulfillment, training, on-campus support, and administrative tasks.
 cached_project_image: >-
-  /assets/images/projects/2015/giving-students-power-over-numbers-and-power-over-learning/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/giving-students-power-over-numbers-and-power-over-learning/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385.jpg
 maker_image_id: '23622'
 maker_image_file_name: ironboxeducationLA2050.jpg
 organization_name: 'Ironbox Education, Inc.'

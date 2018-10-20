@@ -291,7 +291,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   capacity building and deconstructing racism as a factor that perpetuates
   poverty and injustices.  
 cached_project_image: >-
-  /assets/images/projects/2013/the-south-la-hub-strengthening-nonprofits-in-south-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16877%252Fdisplay%252FLA2050_JRG.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/the-south-la-hub-strengthening-nonprofits-in-south-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16877%252Fdisplay%252FLA2050_JRG.jpg=c570x385.jpg
 maker_image_id: '16877'
 maker_image_file_name: LA2050_JRG.jpg
 

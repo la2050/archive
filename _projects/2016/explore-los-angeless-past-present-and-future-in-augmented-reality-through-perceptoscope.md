@@ -131,7 +131,7 @@ project_proposal_best_place: >-
   experiences will be dynamic and novel to encourage the revisitation of a space
   for years to come.
 cached_project_image: >-
-  /assets/images/projects/2016/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
+  https://archive-assets.la2050.org/images/2016/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
 organization_name: Perceptoscope
 organization_website: www.perceptoscope.com
 

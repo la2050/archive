@@ -238,7 +238,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    What has made these collaborations work is our flexibility in programming (we customize the projects to fit the interests of that organization), our mobility to provide access to technology and a shared belief in the need to help all LA kids express their creativity as a way of strengthening communities.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/mobilize-las-youth-eco-friendly-digital-media-bus-equips-kids-to-be-the-creative-workforce-in-la/img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/mobilize-las-youth-eco-friendly-digital-media-bus-equips-kids-to-be-the-creative-workforce-in-la/img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg
 youtube_video_identifier: sO2seHdnH3c
 
 ---

@@ -175,7 +175,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Three major factors critical to success include involvement and buy-in of residents. Without this, this project cannot and will not happen. They will participate through neighborhood visioning, incubator training, and volunteering to ensure that parks are great locations for fun and play. Secondly, involvement of partners is vital. Without effective buy-in of the City of LA and the Recreation and Parks Department, and the support of LAUSD and schools, the project will not succeed. Finally, best practices offered by YPI and partners in opening schools as public parks and in providing collaborative services for residents are critical- this includes experience YPI has in building community involvement, experience People for Parks has in opening schools and parks, and components already in place to make this happen- Fast Track permitting, approval procedures, and services provided by the City in the Recreation and Parks Department.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/la-schools-to-parks/img.youtube.com/vi/AmMHBgCHQsY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/la-schools-to-parks/img.youtube.com/vi/AmMHBgCHQsY/maxresdefault.jpg
 youtube_video_identifier: AmMHBgCHQsY
 
 ---

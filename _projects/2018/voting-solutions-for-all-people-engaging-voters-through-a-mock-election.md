@@ -156,7 +156,7 @@ Please explain how you will define and measure success for your activation.: >-
   election sparked greater interest in civic engagement. 
 Where do you hope this activation or your organization will be in five years?: "In 5 years, LA County will have a modernized voting system utilized for all elections that will cater to all county demographics by being accessible to all. We will strive to ensure that the number of voters turning out for elections keeps growing, and that we can demonstrate increased voter awareness and participation in all elections. Lastly, in 5 years we hope that other counties will utilize this new voting model and provide their respective constituents with a modernized voting experience, and that they would be able to tailor it to the specific needs of their communities.  \r\nProgress on this project can be tracked at vsap.lavote.net "
 cached_project_image: >-
-  /assets/images/projects/2018/voting-solutions-for-all-people-engaging-voters-through-a-mock-election/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
+  https://archive-assets.la2050.org/images/2018/voting-solutions-for-all-people-engaging-voters-through-a-mock-election/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
 organization_name: Los Angeles County Registrar-Recorder/County Clerk
 
 ---

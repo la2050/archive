@@ -214,7 +214,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   We have a hope to see every victim of domestic violence housed with
   sustainable reasources.
 cached_project_image: >-
-  /assets/images/projects/2013/enhanced-permanent-supportive-housing-for-victims-of-domestic-violence/img.youtube.com/vi/mTmEdd_Tw94/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/enhanced-permanent-supportive-housing-for-victims-of-domestic-violence/img.youtube.com/vi/mTmEdd_Tw94/maxresdefault.jpg
 youtube_video_identifier: mTmEdd_Tw94
 
 ---

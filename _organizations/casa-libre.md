@@ -32,8 +32,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102042'
 youtube_video_identifier: 20ErlmkuIfQ
 cached_project_image: >-
-  /assets/images/organizations/casa-libre/img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/casa-libre/img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg
 
 ---

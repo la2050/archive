@@ -94,7 +94,7 @@ project_proposal_best_place: >-
   for indie creators, and creating a market where Angelinos can support and
   enjoy locally crafted products.
 cached_project_image: >-
-  /assets/images/projects/2016/bringing-the-farmers-market-to-peoples-door/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6286523854741-team91.png
+  https://archive-assets.la2050.org/images/2016/bringing-the-farmers-market-to-peoples-door/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6286523854741-team91.png
 organization_name: Natch
 organization_website: thenatch.co
 

@@ -54,7 +54,10 @@ aggregated:
     - '2018'
     - '2013'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102035'
+  - '3102117'
 cached_project_image: >-
-  /assets/images/organizations/east-la-community-corporation-elacc/activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg
+  https://archive-assets.la2050.org/images/east-la-community-corporation-elacc/activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg
 
 ---

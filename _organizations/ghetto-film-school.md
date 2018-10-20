@@ -34,9 +34,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102083'
 maker_image_file_name: GFS_PHOTO_1.png
 maker_image_id: '21361'
 cached_project_image: >-
-  /assets/images/organizations/ghetto-film-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21361%252Fdisplay%252FGFS_PHOTO_1.png=c570x385.png
+  https://archive-assets.la2050.org/images/ghetto-film-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21361%252Fdisplay%252FGFS_PHOTO_1.png=c570x385.png
 
 ---

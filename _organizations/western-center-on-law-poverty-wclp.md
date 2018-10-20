@@ -26,8 +26,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102121'
 youtube_video_identifier: '-8HpYaBGc4I'
 cached_project_image: >-
-  /assets/images/organizations/western-center-on-law-poverty-wclp/img.youtube.com/vi/-8HpYaBGc4I/hqdefault.jpg
+  https://archive-assets.la2050.org/images/western-center-on-law-poverty-wclp/img.youtube.com/vi/-8HpYaBGc4I/hqdefault.jpg
 
 ---

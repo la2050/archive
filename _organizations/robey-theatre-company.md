@@ -32,9 +32,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102255'
 maker_image_file_name: Robey_Brochure_Front1_(1).jpg
 maker_image_id: '23966'
 cached_project_image: >-
-  /assets/images/organizations/robey-theatre-company/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23966%252Fdisplay%252FRobey_Brochure_Front1_(1).jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/robey-theatre-company/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23966%252Fdisplay%252FRobey_Brochure_Front1_(1).jpg=c570x385.jpg
 
 ---

@@ -159,7 +159,7 @@ Whom will your project benefit? Please be specific.: >-
    
    3) We have initial conversations underway with LAUSD's Director of Secondary Education, Gerardo Loera, as well as local superintendent Bravo (ESC South), to pilot the use of CCGI tools in their high schools.
 cached_project_image: >-
-  /assets/images/projects/2014/planyour-future-helping-6th-12th-grade-students-plan-prepare-and-figure-out-how-to-pay-for-college/img.youtube.com/vi/q2OELc_KuI4/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/planyour-future-helping-6th-12th-grade-students-plan-prepare-and-figure-out-how-to-pay-for-college/img.youtube.com/vi/q2OELc_KuI4/hqdefault.jpg
 youtube_video_identifier: q2OELc_KuI4
 
 ---

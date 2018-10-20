@@ -109,7 +109,7 @@ project_proposal_best_place: >-
   police officers who reflect the value of their communities and can become an
   advocate for all Angelenos.
 cached_project_image: >-
-  /assets/images/projects/2016/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
 organization_name: Impact Hub Los Angeles
 organization_website: impacthubla.com
 

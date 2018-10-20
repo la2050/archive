@@ -160,7 +160,7 @@ Whom will your project benefit? Please be specific.: |-
    2. Quality control of the short films
    3. Support from industry players in the form of mentorship, donated resources, exposure, and collaborations.
 cached_project_image: >-
-  /assets/images/projects/2014/women-of-color-short-film-fund/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20953%252Fdisplay%252FScreen_Shot_2014-07-30_at_5.51.26_PM.png=c570x385.png
+  https://archive-assets.la2050.org/images/2014/women-of-color-short-film-fund/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20953%252Fdisplay%252FScreen_Shot_2014-07-30_at_5.51.26_PM.png=c570x385.png
 maker_image_id: '20953'
 maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png
 

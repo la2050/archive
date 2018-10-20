@@ -54,9 +54,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102005'
 maker_image_file_name: samsung_device_801.jpg
 maker_image_id: '16313'
 cached_project_image: >-
-  /assets/images/organizations/antigua-coffee-house/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/antigua-coffee-house/maker.good.is/images/placeholder/idea.png
 
 ---

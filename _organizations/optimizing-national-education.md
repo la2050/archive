@@ -31,8 +31,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102161'
 youtube_video_identifier: z7QaUClznXM
 cached_project_image: >-
-  /assets/images/organizations/optimizing-national-education/img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg
+  https://archive-assets.la2050.org/images/optimizing-national-education/img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg
 
 ---

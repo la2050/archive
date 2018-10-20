@@ -137,7 +137,7 @@ project_proposal_best_place: >-
   (Tsehai Publ.), Steve Wasserman (Heyday, Yale UP), publicists, agents, & and
   many others.
 cached_project_image: >-
-  /assets/images/projects/2016/larb-usc-publishing-institute-and-workshop/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/larb-usc-publishing-institute-and-workshop/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 organization_name: Los Angeles Review of Books
 organization_website: lareviewofbooks.org
 

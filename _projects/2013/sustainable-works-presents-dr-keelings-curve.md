@@ -115,7 +115,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   In our vision for the year 2050 Los Angeles would be the greenest city in the
   country and one of the greenest cities on the planet
 cached_project_image: >-
-  /assets/images/projects/2013/sustainable-works-presents-dr-keelings-curve/img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/sustainable-works-presents-dr-keelings-curve/img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg
 youtube_video_identifier: q0_2OnUiDiU
 
 ---

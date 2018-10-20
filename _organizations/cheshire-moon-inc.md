@@ -78,8 +78,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102058'
 youtube_video_identifier: mf0l7ocARFM
 cached_project_image: >-
-  /assets/images/organizations/cheshire-moon-inc/img.youtube.com/vi/mf0l7ocARFM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/cheshire-moon-inc/img.youtube.com/vi/mf0l7ocARFM/maxresdefault.jpg
 
 ---

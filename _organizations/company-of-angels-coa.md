@@ -32,8 +32,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102046'
 youtube_video_identifier: '-MVQfBjaOS0'
 cached_project_image: >-
-  /assets/images/organizations/company-of-angels-coa/img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg
+  https://archive-assets.la2050.org/images/company-of-angels-coa/img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg
 
 ---

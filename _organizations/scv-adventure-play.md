@@ -44,9 +44,12 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102263'
+  - '4102188'
 maker_image_file_name: SCV_ADvplay_table_logo.png
 maker_image_id: '24111'
 cached_project_image: >-
-  /assets/images/organizations/scv-adventure-play/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24111%252Fdisplay%252FSCV_ADvplay_table_logo.png=c570x385.png
+  https://archive-assets.la2050.org/images/scv-adventure-play/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24111%252Fdisplay%252FSCV_ADvplay_table_logo.png=c570x385.png
 
 ---

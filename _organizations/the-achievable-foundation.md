@@ -28,8 +28,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102183'
 youtube_video_identifier: zTPVN1p3Lg8
 cached_project_image: >-
-  /assets/images/organizations/the-achievable-foundation/img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/the-achievable-foundation/img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg
 
 ---

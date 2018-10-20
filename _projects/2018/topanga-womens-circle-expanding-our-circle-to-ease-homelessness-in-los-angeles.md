@@ -144,7 +144,7 @@ Where do you hope this activation or your organization will be in five years?: >
   play a vital role in helping the homeless as they transition into permanent
   housing.
 cached_project_image: >-
-  /assets/images/projects/2018/topanga-womens-circle-expanding-our-circle-to-ease-homelessness-in-los-angeles/activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
+  https://archive-assets.la2050.org/images/2018/topanga-womens-circle-expanding-our-circle-to-ease-homelessness-in-los-angeles/activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
 organization_name: Topanga Women's Circle
 
 ---

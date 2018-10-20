@@ -29,8 +29,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102171'
 youtube_video_identifier: fRmzSDzuoRA
 cached_project_image: >-
-  /assets/images/organizations/lact-los-angeles-community-theatre/img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg
+  https://archive-assets.la2050.org/images/lact-los-angeles-community-theatre/img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg
 
 ---

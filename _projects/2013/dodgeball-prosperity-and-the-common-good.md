@@ -359,7 +359,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   selfworth and accomplishment that comes from giving back to your community
   through volunteerism is paramount to your overall health.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/dodgeball-prosperity-and-the-common-good/img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/dodgeball-prosperity-and-the-common-good/img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg
 youtube_video_identifier: aKgBQ7XR-pg
 
 ---

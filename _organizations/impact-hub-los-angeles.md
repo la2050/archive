@@ -43,7 +43,10 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102179'
+  - '5102139'
 cached_project_image: >-
-  /assets/images/organizations/impact-hub-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
+  https://archive-assets.la2050.org/images/impact-hub-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
 
 ---

@@ -52,8 +52,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102069'
 youtube_video_identifier: T-_qt-Ah9-0
 cached_project_image: >-
-  /assets/images/organizations/citylab-ucla/img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/citylab-ucla/img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg
 
 ---

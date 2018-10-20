@@ -97,7 +97,7 @@ project_proposal_best_place: >-
   community issues in an innovative way, integrating the arts, culture, and
   technology into programming that fosters community and promotes healing.
 cached_project_image: >-
-  /assets/images/projects/2016/caló-youthbuilds-mobile-community-solar-arts-and-stem-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/caló-youthbuilds-mobile-community-solar-arts-and-stem-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
 organization_name: CALO YouthBuild
 organization_website: www.caloinc.org
 

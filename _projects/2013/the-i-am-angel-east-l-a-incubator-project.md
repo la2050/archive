@@ -4,7 +4,7 @@ organization_id: '2014043'
 year_submitted: 2013
 indicator: ' Income & Employment'
 body_class: strawberry
-project_id: '3102152'
+project_id: '3102153'
 title: 'THE i.am.angel EAST L.A. INCUBATOR PROJECT '
 project_summary: "The i.am.angel Foundation seeks to transform lives through education, opportunity and inspiration.  We have spearheaded several programs that are transforming lives in East LA, particularly the Boyle Heights community. Here are our biggest and most successful programs: ****** i.am College Track ****** College Track is a national educational organization that empowers students from underserved communities to reach their dreams of a college degree. College Track actively engages students over the course of eight years, from the summer before high school through college graduation. 100% of College Track seniors graduate from high school, more than 90% are admitted to a four-year university, and 75% of College Track students are currently enrolled, or have graduated from, college. Over 85% of College Track students will be the first person in their family to earn a college degree.  The i.am College Track program serves 50 ambitious new students from Roosevelt High School every year, and continues to work with them over an 8 year cycle. ****** i.am Home ****** In 2010, during the height of the foreclosure crisis, the i.am Home program was launched. The program works with effective partner organizations to promote financial literacy education and provide home owner assistance grants to support qualifying families in need.  To date i.am Home has provided more than $400,000 in home owner assistance grants. ****** i.am Scholarship ****** The i.am Scholarship program was launched in 2009. The program works with effective partner organizations like Oprah Winfrey’s Angel Network, Scholastic America and College Track to identify qualifying students in need of financial support. i.am angel selects students with a proven record of accomplishment and gives them the opportunity to chase their dreams through scholarship.  To date the i.am Scholarship program has directly invested more than $500,000 in America’s future.\r\n"
 project_image: >-
@@ -211,7 +211,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/the-i-am-angel-east-l-a-incubator-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16606%252Fdisplay%252Fincubate.png=c570x385.png
+  https://archive-assets.la2050.org/images/2013/the-i-am-angel-east-l-a-incubator-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16606%252Fdisplay%252Fincubate.png=c570x385.png
 maker_image_id: '16606'
 maker_image_file_name: incubate.png
 

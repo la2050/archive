@@ -52,9 +52,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102020'
 maker_image_file_name: Screen_shot_2013-03-28_at_2.40.43_PM.png
 maker_image_id: '17103'
 cached_project_image: >-
-  /assets/images/organizations/collaborative-tutoring/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/collaborative-tutoring/maker.good.is/images/placeholder/idea.png
 
 ---

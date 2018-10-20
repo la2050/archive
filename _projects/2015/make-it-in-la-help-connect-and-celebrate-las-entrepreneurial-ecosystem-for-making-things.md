@@ -195,7 +195,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
-  /assets/images/projects/2015/make-it-in-la-help-connect-and-celebrate-las-entrepreneurial-ecosystem-for-making-things/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24018%252Fdisplay%252Fmakeitinla_logo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/make-it-in-la-help-connect-and-celebrate-las-entrepreneurial-ecosystem-for-making-things/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24018%252Fdisplay%252Fmakeitinla_logo.jpg=c570x385.jpg
 maker_image_id: '24018'
 maker_image_file_name: makeitinla_logo.jpg
 organization_name: Make it in LA

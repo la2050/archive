@@ -224,7 +224,7 @@ Are there other organizations doing similar work (whether complementary or compe
    Small river
 How do you plan to scale the success of your proposal?: By replicating this project in similar communities!
 cached_project_image: >-
-  /assets/images/projects/2015/watts-rain-gardens/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/watts-rain-gardens/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385.jpg
 maker_image_id: '24100'
 maker_image_file_name: IMG_4644.JPG
 organization_name: From Lot to Spot

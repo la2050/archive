@@ -331,7 +331,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
 
   Success.
 cached_project_image: >-
-  /assets/images/projects/2013/do-good-bus-free-rides/img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/do-good-bus-free-rides/img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg
 youtube_video_identifier: T17vBV41x0g
 
 ---

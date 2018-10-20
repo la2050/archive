@@ -38,8 +38,11 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102264'
+  - '4102189'
 youtube_video_identifier: atB8yIPXKCk
 cached_project_image: >-
-  /assets/images/organizations/seepolitical/img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/seepolitical/img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg
 
 ---

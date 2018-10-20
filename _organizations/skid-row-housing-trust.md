@@ -37,9 +37,12 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102192'
+  - '3102232'
 maker_image_file_name: Photos_2013.JPG
 maker_image_id: '21430'
 cached_project_image: >-
-  /assets/images/organizations/skid-row-housing-trust/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21430%252Fdisplay%252FPhotos_2013.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/skid-row-housing-trust/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21430%252Fdisplay%252FPhotos_2013.JPG=c570x385.jpg
 
 ---

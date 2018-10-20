@@ -247,7 +247,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   significantly hindering human development to significantly improving human
   development by 2050.
 cached_project_image: >-
-  /assets/images/projects/2013/empowering-lausd-with-a-transmedia-education-platform-for-change/img.youtube.com/vi/--BnysezHK0/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/empowering-lausd-with-a-transmedia-education-platform-for-change/img.youtube.com/vi/--BnysezHK0/hqdefault.jpg
 youtube_video_identifier: '--BnysezHK0'
 
 ---

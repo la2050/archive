@@ -41,9 +41,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102211'
 maker_image_file_name: Access_LA_Rt_copy.jpg
 maker_image_id: '16858'
 cached_project_image: >-
-  /assets/images/organizations/outfest/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/outfest/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385.jpg
 
 ---

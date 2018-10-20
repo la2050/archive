@@ -285,7 +285,7 @@ How do you plan to scale the success of your proposal?: >-
    - Event audience increases to 268,000 (baseline: 212,970)
    - Internship opportunities increase to 50 (baseline: 25)
 cached_project_image: >-
-  /assets/images/projects/2015/kcrw-capital-campaign/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24006%252Fdisplay%252FCWA_SMC_KCRW_121010.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/kcrw-capital-campaign/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24006%252Fdisplay%252FCWA_SMC_KCRW_121010.jpg=c570x385.jpg
 maker_image_id: '24006'
 maker_image_file_name: CWA_SMC_KCRW_121010.jpg
 organization_name: 'KCRW Foundation, Inc.'

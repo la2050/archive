@@ -35,9 +35,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102022'
 maker_image_file_name: 12113284_1058676700830263_4818412174925935968_o.jpg
 maker_image_id: '23700'
 cached_project_image: >-
-  /assets/images/organizations/art-of-acting-studio/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/art-of-acting-studio/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385.jpg
 
 ---

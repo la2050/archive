@@ -128,7 +128,7 @@ project_proposal_best_place: >-
   radically different permanent and mobile play spaces we will make LA the best
   place to Play!
 cached_project_image: >-
-  /assets/images/projects/2016/scv-adventure-play-eureka-villa-self-directed-play-spaces-and-playwork-initiative-for-all/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9802286065741-team89.png
+  https://archive-assets.la2050.org/images/2016/scv-adventure-play-eureka-villa-self-directed-play-spaces-and-playwork-initiative-for-all/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9802286065741-team89.png
 organization_name: Santa Clarita Valley Adventure Play
 organization_website: scvadventureplay.com
 

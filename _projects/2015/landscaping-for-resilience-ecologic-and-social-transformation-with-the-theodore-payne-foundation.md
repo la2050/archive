@@ -241,7 +241,7 @@ How do you plan to scale the success of your proposal?: >-
    
    The goals of the program are to raise awareness among Angelinos of the control they have over their environment, what options they have for exerting that control, how to organize for change, and how to develop sustainable and retainable skills
 cached_project_image: >-
-  /assets/images/projects/2015/landscaping-for-resilience-ecologic-and-social-transformation-with-the-theodore-payne-foundation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24128%252Fdisplay%252F_MG_8193.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/landscaping-for-resilience-ecologic-and-social-transformation-with-the-theodore-payne-foundation/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24128%252Fdisplay%252F_MG_8193.JPG=c570x385.jpg
 maker_image_id: '24128'
 maker_image_file_name: _MG_8193.JPG
 organization_name: 'Theodore Payne Foundation for Wild Flowers and Native Plants, Inc.'

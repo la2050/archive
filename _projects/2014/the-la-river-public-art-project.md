@@ -164,7 +164,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Three critical factors for successful collaboration: shared vision statement for the Cultural Master Plan; experienced in working collaboratively with clearly defined roles and responsibilities, and ability and experience working with multiple stakeholders and agencies
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/the-la-river-public-art-project/img.youtube.com/vi/fpGXBYHFZuE/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/the-la-river-public-art-project/img.youtube.com/vi/fpGXBYHFZuE/hqdefault.jpg
 youtube_video_identifier: fpGXBYHFZuE
 
 ---

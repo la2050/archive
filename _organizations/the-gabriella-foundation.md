@@ -36,8 +36,11 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102213'
+  - '3102247'
 youtube_video_identifier: TlilAMszJEs
 cached_project_image: >-
-  /assets/images/organizations/the-gabriella-foundation/img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg
+  https://archive-assets.la2050.org/images/the-gabriella-foundation/img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg
 
 ---

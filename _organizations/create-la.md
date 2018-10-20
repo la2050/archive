@@ -45,8 +45,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102096'
 youtube_video_identifier: y5Q3OTnTYC4
 cached_project_image: >-
-  /assets/images/organizations/create-la/img.youtube.com/vi/y5Q3OTnTYC4/hqdefault.jpg
+  https://archive-assets.la2050.org/images/create-la/img.youtube.com/vi/y5Q3OTnTYC4/hqdefault.jpg
 
 ---

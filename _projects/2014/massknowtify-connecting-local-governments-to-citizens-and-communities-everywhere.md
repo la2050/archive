@@ -195,7 +195,7 @@ Whom will your project benefit? Please be specific.: >-
    
    To better connect with citizens and communities throughout Los Angeles, we will rely on networking with a broad spectrum of groups, including community based organizations, neighborhood councils and associations, local elected officials, and other civic technology providers.
 cached_project_image: >-
-  /assets/images/projects/2014/massknowtify-connecting-local-governments-to-citizens-and-communities-everywhere/img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/massknowtify-connecting-local-governments-to-citizens-and-communities-everywhere/img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg
 youtube_video_identifier: ql6hxsjKMCQ
 
 ---

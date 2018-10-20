@@ -348,7 +348,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/building-strong-small-businesses-through-microlending/img.youtube.com/vi/iVa9lAGP3rc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/building-strong-small-businesses-through-microlending/img.youtube.com/vi/iVa9lAGP3rc/maxresdefault.jpg
 youtube_video_identifier: iVa9lAGP3rc
 
 ---

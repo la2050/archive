@@ -204,7 +204,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/dear-los-angeles/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/2013/dear-los-angeles/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16214'
 maker_image_file_name: IMG_1031.JPG
 

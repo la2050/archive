@@ -157,7 +157,7 @@ Where do you hope this activation or your organization will be in five years?: >
   shelter in order to engage local homeless individuals who have an attachment
   to place.
 cached_project_image: >-
-  /assets/images/projects/2018/pop-up-sites-for-overnight-temporary-shelter-serving-our-homeless-neighbors-with-dignity-first/activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
+  https://archive-assets.la2050.org/images/2018/pop-up-sites-for-overnight-temporary-shelter-serving-our-homeless-neighbors-with-dignity-first/activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
 organization_name: Cardborigami Inc
 
 ---

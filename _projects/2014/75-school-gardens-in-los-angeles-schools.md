@@ -146,7 +146,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   education and green spaces to local students.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/75-school-gardens-in-los-angeles-schools/img.youtube.com/vi/3CNwJdOyIDQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/75-school-gardens-in-los-angeles-schools/img.youtube.com/vi/3CNwJdOyIDQ/maxresdefault.jpg
 youtube_video_identifier: 3CNwJdOyIDQ
 
 ---

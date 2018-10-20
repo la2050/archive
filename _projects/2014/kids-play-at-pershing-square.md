@@ -161,7 +161,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. Community support and engagement
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/kids-play-at-pershing-square/scontent-sjc3-1.xx.fbcdn.net/v/t31.0-8/468907_153995704722676_1873642870_o.jpg
+  https://archive-assets.la2050.org/images/2014/kids-play-at-pershing-square/scontent-sjc3-1.xx.fbcdn.net/v/t31.0-8/468907_153995704722676_1873642870_o.jpg
 maker_image_id: '20546'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 

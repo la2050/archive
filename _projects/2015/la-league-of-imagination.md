@@ -210,7 +210,7 @@ How do you plan to scale the success of your proposal?: >-
    
    The LA League of Imagination will be a highly visible entity, both locally and worldwide. Its activities will be well publicized, which will in turn create new interest and continued growth beyond the LA2050 grant.
 cached_project_image: >-
-  /assets/images/projects/2015/la-league-of-imagination/img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/la-league-of-imagination/img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg
 youtube_video_identifier: VtA2ubRDvAs
 organization_name: Imagination Foundation
 

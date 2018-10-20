@@ -157,7 +157,7 @@ project_proposal_best_place: >-
   financing. Crowdfunding success also “increases the probability of business
   partnerships and stronger customer base.
 cached_project_image: >-
-  /assets/images/projects/2016/re-make-it-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
+  https://archive-assets.la2050.org/images/2016/re-make-it-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
 organization_name: Concerned Capital/Crowdfund Better
 organization_website: www.concernedcapital.org
 

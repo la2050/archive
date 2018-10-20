@@ -29,9 +29,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102039'
 maker_image_file_name: myla2.png
 maker_image_id: '20504'
 cached_project_image: >-
-  /assets/images/organizations/ucla-advance-heart-failure-heal-my-heart-ucla-department-of-medicine/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20504%252Fdisplay%252Fmyla2.png=c570x385.png
+  https://archive-assets.la2050.org/images/ucla-advance-heart-failure-heal-my-heart-ucla-department-of-medicine/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20504%252Fdisplay%252Fmyla2.png=c570x385.png
 
 ---

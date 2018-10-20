@@ -37,8 +37,11 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102001'
+  - '3102243'
 youtube_video_identifier: QV1lB2SqWos
 cached_project_image: >-
-  /assets/images/organizations/i-have-a-dream-foundation-los-angeles-ihadla/img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg
+  https://archive-assets.la2050.org/images/i-have-a-dream-foundation-los-angeles-ihadla/img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg
 
 ---

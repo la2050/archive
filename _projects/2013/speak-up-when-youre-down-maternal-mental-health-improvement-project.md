@@ -345,7 +345,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   care and other community providers, and that 100% of high risk patients are
   provided with a warm referral to an organization or agency that can help them.
 cached_project_image: >-
-  /assets/images/projects/2013/speak-up-when-youre-down-maternal-mental-health-improvement-project/img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/speak-up-when-youre-down-maternal-mental-health-improvement-project/img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg
 youtube_video_identifier: Xoof6-2YZ_U
 
 ---

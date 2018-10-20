@@ -35,8 +35,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102333'
 youtube_video_identifier: q4McatdcN78
 cached_project_image: >-
-  /assets/images/organizations/unite-la/img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/unite-la/img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg
 
 ---

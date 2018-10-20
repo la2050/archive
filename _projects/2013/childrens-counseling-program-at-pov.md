@@ -241,7 +241,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   who practice violence prevention and consider violence as an intolerable
   condition for the residents of Los Angeles. 
 cached_project_image: >-
-  /assets/images/projects/2013/childrens-counseling-program-at-pov/img.youtube.com/vi/zPGZHRuHf9Y/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/childrens-counseling-program-at-pov/img.youtube.com/vi/zPGZHRuHf9Y/maxresdefault.jpg
 youtube_video_identifier: zPGZHRuHf9Y
 
 ---

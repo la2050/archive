@@ -150,7 +150,7 @@ project_proposal_best_place: >-
   will assist CHCs with establishing written procedures that ensure a
   breastfeeding-friendly clinic environment.
 cached_project_image: >-
-  /assets/images/projects/2016/creating-a-first-food-friendly-south-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
+  https://archive-assets.la2050.org/images/2016/creating-a-first-food-friendly-south-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
 organization_name: BreastfeedLA
 organization_website: breastfeedla.org
 

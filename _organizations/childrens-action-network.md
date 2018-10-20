@@ -40,7 +40,10 @@ aggregated:
     - '2016'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102020'
+  - '6102035'
 cached_project_image: >-
-  /assets/images/organizations/childrens-action-network/activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
+  https://archive-assets.la2050.org/images/childrens-action-network/activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
 
 ---

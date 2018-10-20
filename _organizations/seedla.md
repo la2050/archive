@@ -39,7 +39,10 @@ aggregated:
     - '2018'
     - '2016'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102107'
+  - '6102206'
 cached_project_image: >-
-  /assets/images/organizations/seedla/activation.la2050.org/assets/images/live/2048-wide/seedla.jpg
+  https://archive-assets.la2050.org/images/seedla/activation.la2050.org/assets/images/live/2048-wide/seedla.jpg
 
 ---

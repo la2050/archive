@@ -75,9 +75,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102223'
 maker_image_file_name: Holiday_Venice_Apartments.jpg
 maker_image_id: '16677'
 cached_project_image: >-
-  /assets/images/organizations/public-counsel/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16677%252Fdisplay%252FHoliday_Venice_Apartments.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/public-counsel/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16677%252Fdisplay%252FHoliday_Venice_Apartments.jpg=c570x385.jpg
 
 ---

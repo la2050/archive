@@ -120,7 +120,7 @@ project_proposal_best_place: >-
   wildlife, and Angelenos--ultimately transforming our region into a metropolis
   that works in harmony with Mother Nature.
 cached_project_image: >-
-  /assets/images/projects/2016/creating-mother-natures-metropolis/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/creating-mother-natures-metropolis/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
 organization_name: Grown in LA
 organization_website: www.growninla.org
 

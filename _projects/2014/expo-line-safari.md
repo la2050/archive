@@ -179,7 +179,7 @@ Whom will your project benefit? Please be specific.: >-
    Critical factors
    In our past collaboration, success has depended on: 1) strong public outreach – on the ground level at the schools as well as at agencies; 2) clear understanding of timeline and abilities of students; 3) the ability to share our strengths and leverage partnerships and resources for students and our work.
 cached_project_image: >-
-  /assets/images/projects/2014/expo-line-safari/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21750%252Fdisplay%252Fsafari.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/expo-line-safari/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21750%252Fdisplay%252Fsafari.jpg=c570x385.jpg
 maker_image_id: '21750'
 maker_image_file_name: safari.jpg
 

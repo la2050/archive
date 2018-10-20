@@ -316,7 +316,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   high school and college, we are helping to break the cycle of poverty and
   shaping the future of Los Angeles.   
 cached_project_image: >-
-  /assets/images/projects/2013/harmony-project/img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/harmony-project/img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg
 youtube_video_identifier: zVwm_GRMSHw
 
 ---

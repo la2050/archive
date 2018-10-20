@@ -179,7 +179,7 @@ project_proposal_best_place: >-
   providing knowledge, experiences and tools that help them become authors of
   their own futures.
 cached_project_image: >-
-  /assets/images/projects/2016/future-scouts-21st-century-survival-skills-for-21st-century-humans/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
+  https://archive-assets.la2050.org/images/2016/future-scouts-21st-century-survival-skills-for-21st-century-humans/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
 organization_name: Future Fields
 organization_website: futurescouts.co
 

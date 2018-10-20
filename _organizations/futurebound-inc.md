@@ -29,9 +29,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102080'
 maker_image_file_name: FutureBoundKids_w_Logo.jpg
 maker_image_id: '21609'
 cached_project_image: >-
-  /assets/images/organizations/futurebound-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21609%252Fdisplay%252FFutureBoundKids_w_Logo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/futurebound-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21609%252Fdisplay%252FFutureBoundKids_w_Logo.jpg=c570x385.jpg
 
 ---

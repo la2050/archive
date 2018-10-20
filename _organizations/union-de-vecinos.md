@@ -110,8 +110,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102264'
 youtube_video_identifier: Ih-cjiooJ3M
 cached_project_image: >-
-  /assets/images/organizations/union-de-vecinos/img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/union-de-vecinos/img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg
 
 ---

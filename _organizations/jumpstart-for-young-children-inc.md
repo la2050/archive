@@ -38,8 +38,11 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102153'
+  - '3102161'
 youtube_video_identifier: a-3Yo_Yz5Vc
 cached_project_image: >-
-  /assets/images/organizations/jumpstart-for-young-children-inc/img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/jumpstart-for-young-children-inc/img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg
 
 ---

@@ -115,7 +115,7 @@ project_proposal_best_place: >-
   participating in the CRP joined the latest cohort in the CSP.  In total, more
   than 200 students will participate in the CSP.
 cached_project_image: >-
-  /assets/images/projects/2016/college-is-for-foster-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/college-is-for-foster-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
 organization_name: United Friends of the Children
 organization_website: www.unitedfriends.org
 

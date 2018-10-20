@@ -172,7 +172,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    As part of this preparedness, we want to start programming before we have a final space. Our partner in this will be The Science & Entertainment Exchange, part of the National Academy of Sciences. While they typically work with movies and television to increase the amount of science on screen, they want to work with us to reach a broader audience through public programming. Potential issues are building compelling programming, attracting audiences, and finding spaces. The NAS has shown they can do the first of these; we have tentative agreements with members of our working group in the entertainment business – including film institutes – to help us with the second and third of these issues.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/the-imagined-futures/img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/the-imagined-futures/img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg
 youtube_video_identifier: KofWk5qh3jE
 
 ---

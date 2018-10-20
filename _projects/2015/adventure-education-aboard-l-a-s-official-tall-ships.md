@@ -239,7 +239,7 @@ How do you plan to scale the success of your proposal?: >-
   placed back in the water, we will be able to expand our program by more than
   30%.
 cached_project_image: >-
-  /assets/images/projects/2015/adventure-education-aboard-l-a-s-official-tall-ships/img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/adventure-education-aboard-l-a-s-official-tall-ships/img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg
 youtube_video_identifier: m_0WUOFanyM
 organization_name: Los Angeles Maritime Institute
 

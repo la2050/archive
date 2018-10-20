@@ -306,7 +306,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   their messages and experiences even more poignant because they truly did come
   from where the current year 2050 students are coming from.
 cached_project_image: >-
-  /assets/images/projects/2013/improve-the-quality-of-life-through-education-and-community-support/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/2013/improve-the-quality-of-life-through-education-and-community-support/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16300'
 maker_image_file_name: 2010-2011_Graduation_Picture.171103650_std.jpg
 

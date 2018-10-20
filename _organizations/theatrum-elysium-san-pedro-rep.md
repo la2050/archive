@@ -31,8 +31,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102233'
 youtube_video_identifier: nJPC81QoGyk
 cached_project_image: >-
-  /assets/images/organizations/theatrum-elysium-san-pedro-rep/img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/theatrum-elysium-san-pedro-rep/img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg
 
 ---

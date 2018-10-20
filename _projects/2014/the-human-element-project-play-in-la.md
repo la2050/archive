@@ -175,7 +175,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Ability of Installation locations
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/the-human-element-project-play-in-la/img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/the-human-element-project-play-in-la/img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg
 youtube_video_identifier: dCvzeDvQtLY
 
 ---

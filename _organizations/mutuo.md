@@ -34,7 +34,9 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102086'
 cached_project_image: >-
-  /assets/images/organizations/mutuo/activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg
+  https://archive-assets.la2050.org/images/mutuo/activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg
 
 ---

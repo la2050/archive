@@ -360,7 +360,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   first Young Latino Democrats group in Los Angeles! HOLA looks forward to
   seeing incredible change affected by and in this community by 2050.
 cached_project_image: >-
-  /assets/images/projects/2013/visual-arts-education-at-heart-of-los-angeles/img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/visual-arts-education-at-heart-of-los-angeles/img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg
 youtube_video_identifier: 0CZIOxlCozk
 
 ---

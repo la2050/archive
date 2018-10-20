@@ -187,7 +187,7 @@ Where do you hope this activation or your organization will be in five years?: >
   people on the streets by the year 2050 is achievable. PodShare and SPY are
   here to help get it done. 
 cached_project_image: >-
-  /assets/images/projects/2018/safe-place-for-youth-by-podshare/activation.la2050.org/assets/images/live/2048-wide/podshare.jpg
+  https://archive-assets.la2050.org/images/2018/safe-place-for-youth-by-podshare/activation.la2050.org/assets/images/live/2048-wide/podshare.jpg
 organization_name: Podshare
 
 ---

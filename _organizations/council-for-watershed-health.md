@@ -41,8 +41,12 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102078'
+  - '3102093'
+  - '3102047'
 youtube_video_identifier: kQnTJYkpO4A
 cached_project_image: >-
-  /assets/images/organizations/council-for-watershed-health/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/council-for-watershed-health/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg
 
 ---

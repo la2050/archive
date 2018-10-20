@@ -190,7 +190,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   neighborhood change and a strong contributor to building a greener, healthier
   city for all communities.
 cached_project_image: >-
-  /assets/images/projects/2013/parkinabox/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17284%252Fdisplay%252FPoster2_smaller.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/parkinabox/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17284%252Fdisplay%252FPoster2_smaller.jpg=c570x385.jpg
 maker_image_id: '17284'
 maker_image_file_name: Poster2_smaller.jpg
 

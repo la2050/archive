@@ -38,7 +38,10 @@ aggregated:
     - '2018'
     - '2015'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102045'
+  - '5102110'
 cached_project_image: >-
-  /assets/images/organizations/girls-academic-leadership-academy-gala/activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
+  https://archive-assets.la2050.org/images/girls-academic-leadership-academy-gala/activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
 
 ---

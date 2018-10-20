@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014217'
+organization_id: '2016204'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -163,7 +163,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    With our partners, we will create a shared vision of the future, communicate openly and directly about opportunities and challenges, increase access to all types of resources (monetary, intellectual, data, etc.), and make progress on our collective commitment to the 2050 goals.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/caregivers-kids-license-exempt-child-inclusive-nutrition-and-physical-activity-education/img.youtube.com/vi/JB5MXGkG79E/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/caregivers-kids-license-exempt-child-inclusive-nutrition-and-physical-activity-education/img.youtube.com/vi/JB5MXGkG79E/maxresdefault.jpg
 youtube_video_identifier: JB5MXGkG79E
 
 ---

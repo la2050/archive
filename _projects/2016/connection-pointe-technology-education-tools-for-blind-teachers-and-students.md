@@ -57,7 +57,7 @@ project_proposal_best_place: >-
   through the curriculum more effectively – providing more students with this
   free, one-on-one service.
 cached_project_image: >-
-  /assets/images/projects/2016/connection-pointe-technology-education-tools-for-blind-teachers-and-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/connection-pointe-technology-education-tools-for-blind-teachers-and-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
 organization_name: Braille Institute of America
 organization_website: www.brailleinstitute.org
 

@@ -157,7 +157,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   introducing a holistic mentoring approach that supports their social and
   emotional development in order to foster academic and future success.
 cached_project_image: >-
-  /assets/images/projects/2013/be-great-mentoring-program/img.youtube.com/vi/xtg0o0s_GEU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/be-great-mentoring-program/img.youtube.com/vi/xtg0o0s_GEU/maxresdefault.jpg
 youtube_video_identifier: xtg0o0s_GEU
 
 ---

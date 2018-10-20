@@ -255,7 +255,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Our goal is to fertilize a broader movement aimed at shifting the dialogue from “getting back to normal” to how we, both individually and collectively, can use loss as a springboard to living better, more resilient, more open-hearted lives.
 cached_project_image: >-
-  /assets/images/projects/2015/the-good-grief-garden/img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/the-good-grief-garden/img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg
 youtube_video_identifier: YijVi1ZG5EM
 organization_name: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating '
 

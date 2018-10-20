@@ -185,7 +185,7 @@ project_proposal_best_place: >-
   an uncertain economic outlook, converting turf to resilient native plant
   landscapes will allow public housing resources to be used on other priorities.
 cached_project_image: >-
-  /assets/images/projects/2016/grow-local-plant-native-youth-advocacy-for-sustainable-landscapes-at-la-public-housing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
+  https://archive-assets.la2050.org/images/2016/grow-local-plant-native-youth-advocacy-for-sustainable-landscapes-at-la-public-housing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 organization_name: Theodore Payne Foundation for Wild Flower and Native Plants
 organization_website: theodorepayne.org
 

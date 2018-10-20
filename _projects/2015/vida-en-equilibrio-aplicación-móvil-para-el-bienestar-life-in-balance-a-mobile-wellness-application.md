@@ -241,7 +241,7 @@ How do you plan to scale the success of your proposal?: >-
    
    We can offer the program to insurance companies that are looking to add diabetes prevention efforts to their wellness program as well.
 cached_project_image: >-
-  /assets/images/projects/2015/vida-en-equilibrio-aplicación-móvil-para-el-bienestar-life-in-balance-a-mobile-wellness-application/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/vida-en-equilibrio-aplicación-móvil-para-el-bienestar-life-in-balance-a-mobile-wellness-application/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385.png
 maker_image_id: '23673'
 maker_image_file_name: vidaenequilibrio.png
 organization_name: Polar Tech Ed and Consulting LLC/Patrick Leon

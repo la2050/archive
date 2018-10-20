@@ -256,7 +256,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   And rather than being cast as killers and pests, honey bees will be returned
   to their rightful role at the very center of our existence.
 cached_project_image: >-
-  /assets/images/projects/2013/pesticidefree-los-angeles-2050/img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/pesticidefree-los-angeles-2050/img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg
 youtube_video_identifier: TkvIb74D38g
 
 ---

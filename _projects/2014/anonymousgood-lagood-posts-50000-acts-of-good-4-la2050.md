@@ -209,7 +209,7 @@ Whom will your project benefit? Please be specific.: >-
    • LA Gov’t- target elected official’s constituent relations first so Acts of Good being done in government are surfaced. Post 250 
    • LA-based brand sponsorship is central to paying it forward with our Allies4Good
 cached_project_image: >-
-  /assets/images/projects/2014/anonymousgood-lagood-posts-50000-acts-of-good-4-la2050/img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/anonymousgood-lagood-posts-50000-acts-of-good-4-la2050/img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg
 youtube_video_identifier: xzNGKe7E2iE
 
 ---

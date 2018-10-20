@@ -220,7 +220,7 @@ How do you plan to scale the success of your proposal?: >-
    
    We believe that the path to a prosperous and thriving economy for the 21st Century is through supporting innovative new businesses that will create the technologies of tomorrow. By enabling these groundbreaking companies to start up, grow and thrive here, they will in turn create thousands of quality jobs across the region, supporting a thriving middle class for the Los Angeles area of 2050.
 cached_project_image: >-
-  /assets/images/projects/2015/lets-create-innovation-space-for-la-biotech/img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/lets-create-innovation-space-for-la-biotech/img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg
 youtube_video_identifier: wZGBfT2_pi4
 organization_name: Lab Launch
 

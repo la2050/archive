@@ -119,9 +119,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102254'
 maker_image_file_name: LAMCII_graphic.png
 maker_image_id: '16540'
 cached_project_image: >-
-  /assets/images/organizations/the-los-angeles-mayors-council-on-innovation-and-industry/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16540%252Fdisplay%252FLAMCII_graphic.png=c570x385.png
+  https://archive-assets.la2050.org/images/the-los-angeles-mayors-council-on-innovation-and-industry/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16540%252Fdisplay%252FLAMCII_graphic.png=c570x385.png
 
 ---

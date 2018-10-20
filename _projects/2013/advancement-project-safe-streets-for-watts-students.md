@@ -278,7 +278,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Angeles, we hope to ensure that all communities have the health, safety, and
   opportunity they need to thrive.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/advancement-project-safe-streets-for-watts-students/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16929%252Fdisplay%252FSafe_Routes.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/advancement-project-safe-streets-for-watts-students/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16929%252Fdisplay%252FSafe_Routes.jpg=c570x385.jpg
 maker_image_id: '16929'
 maker_image_file_name: Safe_Routes.jpg
 

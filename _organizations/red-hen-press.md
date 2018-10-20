@@ -39,7 +39,10 @@ aggregated:
     - '2018'
     - '2016'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102101'
+  - '6102194'
 cached_project_image: >-
-  /assets/images/organizations/red-hen-press/activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg
+  https://archive-assets.la2050.org/images/red-hen-press/activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg
 
 ---

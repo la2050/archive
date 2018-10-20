@@ -268,7 +268,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   the public dialogue about educational issues that matter to everyone and can
   be relatable by anyone. 
 cached_project_image: >-
-  /assets/images/projects/2013/padres-creando-exito-effective-educators-in-every-classroom-every-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16427%252Fdisplay%252FIMG_5905.JPG=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/padres-creando-exito-effective-educators-in-every-classroom-every-school/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16427%252Fdisplay%252FIMG_5905.JPG=c570x385.jpg
 maker_image_id: '16427'
 maker_image_file_name: IMG_5905.JPG
 

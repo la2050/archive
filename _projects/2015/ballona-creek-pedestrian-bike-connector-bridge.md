@@ -273,7 +273,7 @@ How do you plan to scale the success of your proposal?: >-
   Ecological Reserve and other Playa Vista parks will also be a measure of
   success.
 cached_project_image: >-
-  /assets/images/projects/2015/ballona-creek-pedestrian-bike-connector-bridge/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23805%252Fdisplay%252FLA2050_Cover_image_flattened2.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/ballona-creek-pedestrian-bike-connector-bridge/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23805%252Fdisplay%252FLA2050_Cover_image_flattened2.jpg=c570x385.jpg
 maker_image_id: '23805'
 maker_image_file_name: LA2050_Cover_image_flattened2.jpg
 organization_name: Tagliaferri Howard Architecture

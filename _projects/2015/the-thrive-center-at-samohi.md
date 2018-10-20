@@ -266,7 +266,7 @@ How do you plan to scale the success of your proposal?: >-
    
    The third level will focus reach beyond Santa Monica through our established relationships with the LA Trust for Children’s Health and Alliance for School Based Health Centers. By creating an open knowledge sharing network through these partnerships, we will help disseminate The Thrive Center wellbeing services model for replication in at least 14 existing student wellness centers located in high priority areas throughout Los Angeles.
 cached_project_image: >-
-  /assets/images/projects/2015/the-thrive-center-at-samohi/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/the-thrive-center-at-samohi/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385.png
 maker_image_id: '23931'
 maker_image_file_name: wordcloud-thrivecenter.png
 organization_name: >-

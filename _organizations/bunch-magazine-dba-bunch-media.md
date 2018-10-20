@@ -29,8 +29,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102037'
 youtube_video_identifier: ByhCcHjp3FQ
 cached_project_image: >-
-  /assets/images/organizations/bunch-magazine-dba-bunch-media/img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/bunch-magazine-dba-bunch-media/img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg
 
 ---

@@ -237,7 +237,7 @@ How do you plan to scale the success of your proposal?: >-
   supportive environment to create and eventually take their ideas around the
   world like we have.
 cached_project_image: >-
-  /assets/images/projects/2015/free-music-studio-access-for-students-of-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23180%252Fdisplay%252FESRLogo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/free-music-studio-access-for-students-of-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23180%252Fdisplay%252FESRLogo.jpg=c570x385.jpg
 maker_image_id: '23180'
 maker_image_file_name: ESRLogo.jpg
 organization_name: Eastside Rehearsal

@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2018034'
+organization_id: '2015048'
 year_submitted: 2015
 category: live
 body_class: lime
@@ -232,7 +232,7 @@ How do you plan to scale the success of your proposal?: >-
    
    For us as an organization, we will assess success by having the opportunity to provide integrative health services to a wider population and offer the community at large an opportunity to learn strategies and techniques to live a healthier, a more productive life and be empowered to make health decisions based on the knowledge they receive.
 cached_project_image: >-
-  /assets/images/projects/2015/own-your-health-at-dharma-health-institute-empowering-communities-to-make-healthy-choices/img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/own-your-health-at-dharma-health-institute-empowering-communities-to-make-healthy-choices/img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg
 youtube_video_identifier: yP9QgOVBaYA
 organization_name: Dharma Health Institute
 

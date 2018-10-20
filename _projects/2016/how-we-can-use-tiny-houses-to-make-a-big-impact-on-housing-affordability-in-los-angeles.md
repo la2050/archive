@@ -119,7 +119,7 @@ project_proposal_best_place: >-
   of living and participate meaningfully in the development and management of
   each housing community.
 cached_project_image: >-
-  /assets/images/projects/2016/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
 organization_name: Patrick McCaffrey Foundation
 organization_website: www.veteransvillage.org
 

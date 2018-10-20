@@ -145,7 +145,7 @@ project_proposal_best_place: >-
 
   All accompanied by communications & advocacy campaign.
 cached_project_image: >-
-  /assets/images/projects/2016/you-cant-get-ahead-if-you-cant-get-around-stories-research-on-howweroll/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/33962704_1968321119845978_1971477352793767936_n.png
+  https://archive-assets.la2050.org/images/2016/you-cant-get-ahead-if-you-cant-get-around-stories-research-on-howweroll/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/33962704_1968321119845978_1971477352793767936_n.png
 organization_name: Investing in Place
 organization_website: www.investinginplace.org
 

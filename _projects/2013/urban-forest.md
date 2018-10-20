@@ -430,7 +430,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/urban-forest/img.youtube.com/vi/9xQP6vGylgE/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/urban-forest/img.youtube.com/vi/9xQP6vGylgE/hqdefault.jpg
 youtube_video_identifier: 9xQP6vGylgE
 
 ---

@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014189'
+organization_id: '2014197'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -204,7 +204,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. Locality. All partnerships and collaborations must be local and accessible and in proximity of patients.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/the-achievable-clinic-quality-healthcare-for-families-and-people-with-developmental-disabilities/img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/the-achievable-clinic-quality-healthcare-for-families-and-people-with-developmental-disabilities/img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg
 youtube_video_identifier: zTPVN1p3Lg8
 
 ---

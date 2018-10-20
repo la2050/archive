@@ -145,7 +145,7 @@ project_proposal_best_place: >-
   platform to do that when you have a young child or parent in medical crisis
   and you do not qualify for government assistance!
 cached_project_image: >-
-  /assets/images/projects/2016/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
 organization_name: 'Here to Serve, Inc'
 organization_website: www.heretoserve.org
 

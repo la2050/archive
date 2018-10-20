@@ -35,7 +35,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102187'
 cached_project_image: >-
-  /assets/images/organizations/port-of-los-angeles-high-school/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
+  https://archive-assets.la2050.org/images/port-of-los-angeles-high-school/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
 
 ---

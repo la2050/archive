@@ -297,7 +297,7 @@ How do you plan to scale the success of your proposal?: >-
   positive impact that shading pilot has had. The project can be scaled up by
   creating other artistic shade installations in other parts of the park.
 cached_project_image: >-
-  /assets/images/projects/2015/a-shady-oasis-for-everyone-in-grand-park/img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/a-shady-oasis-for-everyone-in-grand-park/img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg
 youtube_video_identifier: BhO5jmXKosA
 organization_name: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 

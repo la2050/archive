@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2013025'
+organization_id: '2015046'
 year_submitted: 2013
 indicator: ' Environmental Quality'
 body_class: strawberry
@@ -271,7 +271,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   Success would be a sustained effort to nurture our most disparaged residents
   and to revitalize the natural corridors.
 cached_project_image: >-
-  /assets/images/projects/2013/why-is-the-grass-always-greener-over-the-leach-fields/img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/why-is-the-grass-always-greener-over-the-leach-fields/img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg
 youtube_video_identifier: 0fH09h-Rx9o
 
 ---

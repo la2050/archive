@@ -123,7 +123,7 @@ project_proposal_best_place: >-
   establish networks of support and services around educational opportunities
   for these youth, increasing their likelihood of educational success.
 cached_project_image: >-
-  /assets/images/projects/2016/college-collaborative-for-foster-care-youth/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/999729_10150336341389943_1643926386_n.jpg
+  https://archive-assets.la2050.org/images/2016/college-collaborative-for-foster-care-youth/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/999729_10150336341389943_1643926386_n.jpg
 organization_name: CASA of Los Angeles
 organization_website: casala.org
 

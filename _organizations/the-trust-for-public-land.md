@@ -45,7 +45,11 @@ aggregated:
     - '2016'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102123'
+  - '6102259'
+  - '4102245'
 cached_project_image: >-
-  /assets/images/organizations/the-trust-for-public-land/www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg
+  https://archive-assets.la2050.org/images/the-trust-for-public-land/www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg
 
 ---

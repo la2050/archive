@@ -271,7 +271,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Finally, back to the “Artist Run Space,” we hope that in five years time, Dreamhaus will be a point of reference for corporations to connect with artists. Funding from this grant challenge will allow us to work towards a better Los Angeles as a place to create, connect and live.
 cached_project_image: >-
-  /assets/images/projects/2015/pioneer-the-dreams-and-aspirations-of-youth-artists-in-south-los-angeles/img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/pioneer-the-dreams-and-aspirations-of-youth-artists-in-south-los-angeles/img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg
 youtube_video_identifier: yy9nnTHABlE
 organization_name: Dreamhaus Inc.
 

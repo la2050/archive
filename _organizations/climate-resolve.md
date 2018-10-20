@@ -40,8 +40,11 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102067'
+  - '3102076'
 youtube_video_identifier: jRPfyjiCjwg
 cached_project_image: >-
-  /assets/images/organizations/climate-resolve/img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/climate-resolve/img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg
 
 ---

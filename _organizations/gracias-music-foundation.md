@@ -37,7 +37,9 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102048'
 cached_project_image: >-
-  /assets/images/organizations/gracias-music-foundation/activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg
+  https://archive-assets.la2050.org/images/gracias-music-foundation/activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg
 
 ---

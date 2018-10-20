@@ -125,7 +125,7 @@ project_proposal_best_place: >-
   motion changes that have positive ripple effects on families, communities, and
   society.
 cached_project_image: >-
-  /assets/images/projects/2016/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
+  https://archive-assets.la2050.org/images/2016/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
 organization_name: Chrysalis
 organization_website: changelives.org
 

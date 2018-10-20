@@ -52,9 +52,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102252'
 maker_image_file_name: Garden_Sign.png
 maker_image_id: '16360'
 cached_project_image: >-
-  /assets/images/organizations/the-learning-garden/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/the-learning-garden/maker.good.is/images/placeholder/idea.png
 
 ---

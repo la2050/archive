@@ -36,8 +36,10 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102267'
 youtube_video_identifier: rDZ9hY7J0xQ
 cached_project_image: >-
-  /assets/images/organizations/urban-reclaim/img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/urban-reclaim/img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg
 
 ---

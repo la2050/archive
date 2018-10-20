@@ -47,9 +47,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102092'
 maker_image_file_name: smartestk12.homepage.student.v1.000.svg.png
 maker_image_id: '16780'
 cached_project_image: >-
-  /assets/images/organizations/smartestk12-com/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16780%252Fdisplay%252Fsmartestk12.homepage.student.v1.000.svg.png=c570x385.png
+  https://archive-assets.la2050.org/images/smartestk12-com/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16780%252Fdisplay%252Fsmartestk12.homepage.student.v1.000.svg.png=c570x385.png
 
 ---

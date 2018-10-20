@@ -158,7 +158,7 @@ Where do you hope this activation or your organization will be in five years?: >
   movement by adding realtime objective metrics that will be the agent of change
   of vehicle accidents because of distracted drivers while texting. 
 cached_project_image: >-
-  /assets/images/projects/2018/stop-wrex-drive-without-text-alto-wrex-maneja-sin-el-text/activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
+  https://archive-assets.la2050.org/images/2018/stop-wrex-drive-without-text-alto-wrex-maneja-sin-el-text/activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
 organization_name: Health Core Possibilities
 
 ---

@@ -107,7 +107,7 @@ project_proposal_best_place: >-
   hundreds of high school students in the region and will become an agent of
   change and community building throughout Los Angeles.
 cached_project_image: >-
-  /assets/images/projects/2016/los-angeles-is-a-puzzle-together-we-make-sense-of-it/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4340166065741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/los-angeles-is-a-puzzle-together-we-make-sense-of-it/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4340166065741-team90.jpg
 organization_name: Los Angeles Service Academy (LASA)
 organization_website: www.laserviceacademy.org
 

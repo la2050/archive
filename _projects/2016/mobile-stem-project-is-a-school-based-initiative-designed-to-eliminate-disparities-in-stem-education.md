@@ -123,7 +123,7 @@ project_proposal_best_place: >-
   -Providing professional development workshops that focuses on STEM academic
   vocabulary and effective literacy teaching across various disciplines
 cached_project_image: >-
-  /assets/images/projects/2016/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
+  https://archive-assets.la2050.org/images/2016/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
 organization_name: Avalon Carver Community Center
 organization_website: avalon-carver.org
 

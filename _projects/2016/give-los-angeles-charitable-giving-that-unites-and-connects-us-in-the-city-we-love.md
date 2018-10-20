@@ -116,7 +116,7 @@ project_proposal_best_place: >-
   extraordinary nonprofits serving the Los Angeles community, GIVE Los Angeles
   will attempt to reverse the downward trend in civic giving in Los Angeles.
 cached_project_image: >-
-  /assets/images/projects/2016/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4972927725741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4972927725741-team91.jpg
 organization_name: Los Angeles Magazine
 organization_website: www.lamag.com
 

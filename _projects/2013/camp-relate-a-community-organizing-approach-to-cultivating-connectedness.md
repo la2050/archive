@@ -218,7 +218,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   connectedness the dealbreaker indicator. Failure here has the potential to
   undermine the success of all the other indicators. </p>
 cached_project_image: >-
-  /assets/images/projects/2013/camp-relate-a-community-organizing-approach-to-cultivating-connectedness/img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/camp-relate-a-community-organizing-approach-to-cultivating-connectedness/img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg
 youtube_video_identifier: 3J2TSZ1AMHM
 
 ---

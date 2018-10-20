@@ -31,7 +31,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102053'
 cached_project_image: >-
-  /assets/images/organizations/compassionate-santa-monica/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
+  https://archive-assets.la2050.org/images/compassionate-santa-monica/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 
 ---

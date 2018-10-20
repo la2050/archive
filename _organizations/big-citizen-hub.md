@@ -54,7 +54,12 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102008'
+  - '6102017'
+  - '5102027'
+  - '4102025'
 cached_project_image: >-
-  /assets/images/organizations/big-citizen-hub/activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg
+  https://archive-assets.la2050.org/images/big-citizen-hub/activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg
 
 ---

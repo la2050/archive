@@ -72,7 +72,7 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 cached_project_image: >-
-  /assets/images/projects/2013/turn-up-the-turn-out-engaging-las-voters-through-advanced-technology-in-lowincome-neighborhoods/img.youtube.com/vi/XyASgYDVS_Q/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/turn-up-the-turn-out-engaging-las-voters-through-advanced-technology-in-lowincome-neighborhoods/img.youtube.com/vi/XyASgYDVS_Q/hqdefault.jpg
 youtube_video_identifier: XyASgYDVS_Q
 
 ---

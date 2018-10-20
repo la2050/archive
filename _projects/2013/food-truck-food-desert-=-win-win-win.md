@@ -335,7 +335,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   prosperity — pursuing educational and employment opportunities, giving back in
   their own neighborhoods, and shaping the next 50 years of Los Angeles.</p>
 cached_project_image: >-
-  /assets/images/projects/2013/food-truck-food-desert-=-win-win-win/img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/food-truck-food-desert-=-win-win-win/img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg
 youtube_video_identifier: gatKpPjdUvo
 
 ---

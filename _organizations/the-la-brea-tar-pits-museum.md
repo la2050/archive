@@ -31,8 +31,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102219'
 youtube_video_identifier: gzqE0ygfM8Y
 cached_project_image: >-
-  /assets/images/organizations/the-la-brea-tar-pits-museum/img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg
+  https://archive-assets.la2050.org/images/the-la-brea-tar-pits-museum/img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg
 
 ---

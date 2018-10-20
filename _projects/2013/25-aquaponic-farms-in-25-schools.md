@@ -217,7 +217,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   celebrate easy access to the healthiest best tasting foods possible.  All of
   this is not only possible, but also inevitable.  
 cached_project_image: >-
-  /assets/images/projects/2013/25-aquaponic-farms-in-25-schools/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16782%252Fdisplay%252Fvertical_AP_kit_3b.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/25-aquaponic-farms-in-25-schools/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16782%252Fdisplay%252Fvertical_AP_kit_3b.jpg=c570x385.jpg
 maker_image_id: '16782'
 maker_image_file_name: vertical_AP_kit_3b.jpg
 

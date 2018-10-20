@@ -155,7 +155,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. LA's BEST's assistance in measuring our goals through surveys, student and staff testimonials, and on site observations throughout the school year.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/fly-yoga-arts-enhancing-lausd-arts-education-with-integrated-mindfulness-movement-creative-play/img.youtube.com/vi/0cwVt7tDN_c/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/fly-yoga-arts-enhancing-lausd-arts-education-with-integrated-mindfulness-movement-creative-play/img.youtube.com/vi/0cwVt7tDN_c/maxresdefault.jpg
 youtube_video_identifier: 0cwVt7tDN_c
 
 ---

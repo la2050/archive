@@ -34,9 +34,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102163'
 maker_image_file_name: PA-angel.jpg
 maker_image_id: '22289'
 cached_project_image: >-
-  /assets/images/organizations/peace-allies/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22289%252Fdisplay%252FPA-angel.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/peace-allies/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22289%252Fdisplay%252FPA-angel.jpg=c570x385.jpg
 
 ---

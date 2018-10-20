@@ -365,7 +365,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   will be prepared and able to respond rapidly when severe weather occurs. No
   one will be left isolated and alone in the face of these challenges.
 cached_project_image: >-
-  /assets/images/projects/2013/climate-resolve-inspiring-la-to-prosper-in-a-changing-climate/img.youtube.com/vi/GaOOAHUtWRs/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/climate-resolve-inspiring-la-to-prosper-in-a-changing-climate/img.youtube.com/vi/GaOOAHUtWRs/maxresdefault.jpg
 youtube_video_identifier: GaOOAHUtWRs
 
 ---

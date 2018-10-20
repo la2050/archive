@@ -258,7 +258,7 @@ How do you plan to scale the success of your proposal?: >-
    
    We will focus on Los Angeles County and it’s 88 municipalities before scaling to other areas in Southern California. With proven success in Los Angeles, we plan to duplicate our program in neighboring areas, including Orange County and Ventura County.
 cached_project_image: >-
-  /assets/images/projects/2015/politics-in-8-seconds/img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/politics-in-8-seconds/img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg
 youtube_video_identifier: cljP5pJVVbE
 organization_name: 'Voter, LLC'
 

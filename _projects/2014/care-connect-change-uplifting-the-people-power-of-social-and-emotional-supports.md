@@ -185,7 +185,7 @@ Whom will your project benefit? Please be specific.: >-
    
    • Keystone Accountability works with LIFT to develop and test a system to collect continuous client and volunteer feedback. Keystone is an expert in gathering, analyzing, and amplifying client voices in order to foster a culture of accountability. Keystone’s founder and CEO, David Bonbright, worked with LIFT over the last year to design CV, and will continue working closely with LIFT’s Executive and Program Team to effectively implement CV in LA. We are excited about this partnership and its potential to ensure our responsiveness to the needs of our members in LA.
 cached_project_image: >-
-  /assets/images/projects/2014/care-connect-change-uplifting-the-people-power-of-social-and-emotional-supports/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21175%252Fdisplay%252FLIFT-LA_Care__Connect__Change__Photo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2014/care-connect-change-uplifting-the-people-power-of-social-and-emotional-supports/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21175%252Fdisplay%252FLIFT-LA_Care__Connect__Change__Photo.jpg=c570x385.jpg
 maker_image_id: '21175'
 maker_image_file_name: LIFT-LA_Care__Connect__Change__Photo.jpg
 

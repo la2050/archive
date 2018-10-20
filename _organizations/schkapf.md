@@ -31,8 +31,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102187'
 youtube_video_identifier: mei1C43QDXw
 cached_project_image: >-
-  /assets/images/organizations/schkapf/img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/schkapf/img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg
 
 ---

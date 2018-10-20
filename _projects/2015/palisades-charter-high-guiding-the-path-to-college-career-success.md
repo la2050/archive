@@ -241,7 +241,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Our goal is to have the students, parents and counselors work as a team to guide our students towards becoming college and career ready by utilizing the tools provided to them with the goal of embracing their own future with knowledge and confidence.
 cached_project_image: >-
-  /assets/images/projects/2015/palisades-charter-high-guiding-the-path-to-college-career-success/img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2015/palisades-charter-high-guiding-the-path-to-college-career-success/img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg
 youtube_video_identifier: XUlv1Zd4JZU
 organization_name: Palisades Charter High School (PCHS)
 

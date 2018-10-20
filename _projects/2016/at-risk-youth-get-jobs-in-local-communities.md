@@ -81,7 +81,7 @@ project_proposal_best_place: >-
   high school students how to succeed at work, helps them to end
   intergenerational poverty in their families and in their communities.
 cached_project_image: >-
-  /assets/images/projects/2016/at-risk-youth-get-jobs-in-local-communities/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729983255741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/at-risk-youth-get-jobs-in-local-communities/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729983255741-team91.jpg
 organization_name: I Have a Dream Foundation
 organization_website: http//www.ihadla.org
 

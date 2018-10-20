@@ -212,7 +212,7 @@ How do you plan to scale the success of your proposal?: >-
    
    The coordinated, diverse Pro-Kid advocacy base strengthened as a result of this grant will enable communities to keep working on future critical issues affecting the County’s kids. By unifying hundreds of Pro-Kid groups and serving as hub to mobilize their actions, the Movement gives children’s issues an advocacy base strong enough to compete with powerful special interests. Moving forward, kids’ issues will truly be the top priority of state and local policymakers (not just lip service), and there will be an army of engaged, coordinated organizations ready when critical policy issues arise. After the funding period, Children Now will continue to expand the Movement model throughout LA County and California.
 cached_project_image: >-
-  /assets/images/projects/2015/leveraging-the-childrens-movement-to-make-la-the-best-place-to-learn/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23900%252Fdisplay%252FTCM_ProKid.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/leveraging-the-childrens-movement-to-make-la-the-best-place-to-learn/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23900%252Fdisplay%252FTCM_ProKid.jpg=c570x385.jpg
 maker_image_id: '23900'
 maker_image_file_name: TCM_ProKid.jpg
 organization_name: Children Now

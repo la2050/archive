@@ -299,7 +299,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   schools.  As a result, Los Angeles would be a national and international hub
   of economic growth and trade, entrepreneurship, and innovation.   
 cached_project_image: >-
-  /assets/images/projects/2013/alliance-collegeready-public-schools-blast/img.youtube.com/vi/E209GFKtqMo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2013/alliance-collegeready-public-schools-blast/img.youtube.com/vi/E209GFKtqMo/maxresdefault.jpg
 youtube_video_identifier: E209GFKtqMo
 
 ---

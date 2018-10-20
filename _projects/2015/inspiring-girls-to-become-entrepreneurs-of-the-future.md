@@ -220,7 +220,7 @@ How do you plan to scale the success of your proposal?: >-
   volunteers to support the work will further expand the reach and impact of the
   program allowing for more girls to participate.
 cached_project_image: >-
-  /assets/images/projects/2015/inspiring-girls-to-become-entrepreneurs-of-the-future/img.youtube.com/vi/Dcwg2GZofvo/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/inspiring-girls-to-become-entrepreneurs-of-the-future/img.youtube.com/vi/Dcwg2GZofvo/maxresdefault.jpg
 youtube_video_identifier: Dcwg2GZofvo
 organization_name: 'Girls Inc. of Greater Los Angeles, WhizGirls'
 

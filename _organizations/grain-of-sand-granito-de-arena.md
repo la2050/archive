@@ -47,9 +47,11 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102141'
 maker_image_file_name: Debris_3.JPG
 maker_image_id: '16238'
 cached_project_image: >-
-  /assets/images/organizations/grain-of-sand-granito-de-arena/maker.good.is/images/placeholder/idea.png
+  https://archive-assets.la2050.org/images/grain-of-sand-granito-de-arena/maker.good.is/images/placeholder/idea.png
 
 ---

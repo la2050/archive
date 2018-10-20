@@ -38,8 +38,11 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102066'
+  - '4102013'
 youtube_video_identifier: WjnYc_5sRG8
 cached_project_image: >-
-  /assets/images/organizations/climate-cents/img.youtube.com/vi/WjnYc_5sRG8/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/climate-cents/img.youtube.com/vi/WjnYc_5sRG8/maxresdefault.jpg
 
 ---

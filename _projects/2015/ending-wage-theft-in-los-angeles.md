@@ -209,7 +209,7 @@ How do you plan to scale the success of your proposal?: >-
   Finally, we may seek additional grant funding to support further development
   and deployment of the wage theft prediction tool.
 cached_project_image: >-
-  /assets/images/projects/2015/ending-wage-theft-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23889%252Fdisplay%252F12000148473_482ef012b5_k.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/ending-wage-theft-in-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23889%252Fdisplay%252F12000148473_482ef012b5_k.jpg=c570x385.jpg
 maker_image_id: '23889'
 maker_image_file_name: 12000148473_482ef012b5_k.jpg
 organization_name: Koreatown Immigrant Worker Alliance

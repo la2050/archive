@@ -36,7 +36,9 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102026'
 cached_project_image: >-
-  /assets/images/organizations/city-of-los-angeles-bureau-of-street-lighting/activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
+  https://archive-assets.la2050.org/images/city-of-los-angeles-bureau-of-street-lighting/activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
 
 ---

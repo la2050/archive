@@ -253,7 +253,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   engaged and empowered, likeminded citizens rather than by isolated, silo'd
   neighborhoods.  
 cached_project_image: >-
-  /assets/images/projects/2013/ballot-brief-ground-game/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2013/ballot-brief-ground-game/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385.jpg
 maker_image_id: '17051'
 maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
 

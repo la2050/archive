@@ -356,7 +356,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   overcrowding and case overload issues.  And lawyers will return to the role
   they were meant to serve -- stewards of justice.
 cached_project_image: >-
-  /assets/images/projects/2013/advancing-justice-through-legal-social-enterprises/img.youtube.com/vi/d8oxCVYqxhU/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/advancing-justice-through-legal-social-enterprises/img.youtube.com/vi/d8oxCVYqxhU/hqdefault.jpg
 youtube_video_identifier: d8oxCVYqxhU
 
 ---

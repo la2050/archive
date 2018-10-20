@@ -122,7 +122,7 @@ Where do you hope this activation or your organization will be in five years?: >
   kids in our Color Kindness project to increase a sense of empathy and exercise
   social responsibility.
 cached_project_image: >-
-  /assets/images/projects/2018/crayon-collection-prevent-waste-in-landfills-increase-arts-education-in-low-income-schools/activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
+  https://archive-assets.la2050.org/images/2018/crayon-collection-prevent-waste-in-landfills-increase-arts-education-in-low-income-schools/activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
 organization_name: Crayon Collection
 
 ---

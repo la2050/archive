@@ -217,7 +217,7 @@ How do you plan to scale the success of your proposal?: >-
   programs within the greater overall frame with Pavilions for each of the
   tracts.
 cached_project_image: >-
-  /assets/images/projects/2015/lets-build-bridges-between-communities-and-our-dream-la-by-celebrating-la-county-innovation-broadly/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24136%252Fdisplay%252FScreen_Shot_2015-10-08_at_4.09.45_PM.png=c570x385.png
+  https://archive-assets.la2050.org/images/2015/lets-build-bridges-between-communities-and-our-dream-la-by-celebrating-la-county-innovation-broadly/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24136%252Fdisplay%252FScreen_Shot_2015-10-08_at_4.09.45_PM.png=c570x385.png
 maker_image_id: '24136'
 maker_image_file_name: Screen_Shot_2015-10-08_at_4.09.45_PM.png
 organization_name: Center for Innovation at the LAEDC

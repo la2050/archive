@@ -114,7 +114,7 @@ project_proposal_best_place: >-
   also be provided in Spanish, promoting multi-generational cross cultural
   connections & access to a creative dialogue.
 cached_project_image: >-
-  /assets/images/projects/2016/celebrate-pacoima/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
+  https://archive-assets.la2050.org/images/2016/celebrate-pacoima/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
 organization_name: Pacoima Beautiful
 organization_website: www.pacoimabeautiful.org
 

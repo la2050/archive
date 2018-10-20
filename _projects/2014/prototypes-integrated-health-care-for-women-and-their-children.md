@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014124'
+organization_id: '2015161'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -127,7 +127,7 @@ What will you do to implement this idea/project?: >-
 How will your idea/project help make LA the best place to connect today? In LA2050?: Not applicable.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/prototypes-integrated-health-care-for-women-and-their-children/img.youtube.com/vi/6AUZY8VvXXQ/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2014/prototypes-integrated-health-care-for-women-and-their-children/img.youtube.com/vi/6AUZY8VvXXQ/maxresdefault.jpg
 youtube_video_identifier: 6AUZY8VvXXQ
 
 ---

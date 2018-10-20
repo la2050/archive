@@ -203,7 +203,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Because Attorney General Kamala D. Harris has made truancy a priority issue since her time as San Francisco’s District Attorney, and the mandate to address pupil engagement is a key state priority that must be included in all Local Control Accountability Plans (LCAPs), we can share our best practices of this approach with schools outside of our Para Los Ninos education sites. The parent engagement and leadership networks that will be developed throughout the neighborhoods where our families live will facilitate broad communication of success stories that can be accessed at other schools in those communities.
 cached_project_image: >-
-  /assets/images/projects/2015/engaging-parents-to-reduce-truancy-rates/img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/engaging-parents-to-reduce-truancy-rates/img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg
 youtube_video_identifier: 0MYV-P-oK80
 organization_name: Para Los Niños
 

@@ -34,8 +34,10 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102117'
 youtube_video_identifier: TjRq-S_gY9U
 cached_project_image: >-
-  /assets/images/organizations/green-commuter/img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/green-commuter/img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg
 
 ---

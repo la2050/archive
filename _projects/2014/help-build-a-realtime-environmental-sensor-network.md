@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014150'
+organization_id: '2014190'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -206,7 +206,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Veracity Productions will operate as a subcontractor to Home Front Build in the making of a documentary for educational and advocacy purposes: www.veracityproductions.com.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/help-build-a-realtime-environmental-sensor-network/img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/help-build-a-realtime-environmental-sensor-network/img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg
 youtube_video_identifier: Cb6MAN2lVkg
 
 ---

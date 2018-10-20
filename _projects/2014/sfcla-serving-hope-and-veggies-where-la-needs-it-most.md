@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2014155'
+organization_id: '2014192'
 year_submitted: 2014
 category: live
 body_class: lime
@@ -133,7 +133,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   organizations.
 Whom will your project benefit? Please be specific.: ''
 cached_project_image: >-
-  /assets/images/projects/2014/sfcla-serving-hope-and-veggies-where-la-needs-it-most/img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2014/sfcla-serving-hope-and-veggies-where-la-needs-it-most/img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg
 youtube_video_identifier: uz4evo3B7qw
 
 ---

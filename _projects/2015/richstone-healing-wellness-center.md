@@ -241,7 +241,7 @@ How do you plan to scale the success of your proposal?: >-
   possibility of expanding services and/or replicating the project's programs at
   other venues in neighboring high need communities.
 cached_project_image: >-
-  /assets/images/projects/2015/richstone-healing-wellness-center/img.youtube.com/vi/gRaTc3pZvug/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/richstone-healing-wellness-center/img.youtube.com/vi/gRaTc3pZvug/maxresdefault.jpg
 youtube_video_identifier: gRaTc3pZvug
 organization_name: Richstone Family Center
 

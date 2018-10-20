@@ -31,8 +31,10 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102021'
 youtube_video_identifier: I-2fvjBviRI
 cached_project_image: >-
-  /assets/images/organizations/beautify-earth/img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/beautify-earth/img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg
 
 ---

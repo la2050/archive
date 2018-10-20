@@ -196,7 +196,7 @@ How do you plan to scale the success of your proposal?: >-
   gut in leading this ship for 4 years have done well for us so far....so I'll
   be keeping that up as well!
 cached_project_image: >-
-  /assets/images/projects/2015/interactive-live-theatre-where-the-audience-moves-through-the-story-and-plays-their-part-in-the-tale/img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/interactive-live-theatre-where-the-audience-moves-through-the-story-and-plays-their-part-in-the-tale/img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg
 youtube_video_identifier: wGHuWyQEQIU
 organization_name: Haunted Play LLC
 

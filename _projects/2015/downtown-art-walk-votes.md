@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2015049'
+organization_id: '2015050'
 year_submitted: 2015
 category: connect
 body_class: tangerine
@@ -243,7 +243,7 @@ How do you plan to scale the success of your proposal?: >-
   election, will give us some idea of how well we have succeeded. We will
   evaluate this feedback in framing how to proceed in future election cycles.
 cached_project_image: >-
-  /assets/images/projects/2015/downtown-art-walk-votes/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/2015/downtown-art-walk-votes/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385.jpg
 maker_image_id: '23344'
 maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
 organization_name: Downtown Los Angeles Art Walk

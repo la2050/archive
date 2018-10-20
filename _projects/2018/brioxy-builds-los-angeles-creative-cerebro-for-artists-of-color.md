@@ -128,7 +128,7 @@ Where do you hope this activation or your organization will be in five years?: >
   and finance, building inclusive sectors where young people of color thrive as
   the demographics of this country shift over the next two decades.
 cached_project_image: >-
-  /assets/images/projects/2018/brioxy-builds-los-angeles-creative-cerebro-for-artists-of-color/activation.la2050.org/assets/images/create/2048-wide/brioxy.jpg
+  https://archive-assets.la2050.org/images/2018/brioxy-builds-los-angeles-creative-cerebro-for-artists-of-color/activation.la2050.org/assets/images/create/2048-wide/brioxy.jpg
 organization_name: Brioxy
 
 ---

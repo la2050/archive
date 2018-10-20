@@ -43,9 +43,13 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102335'
+  - '5102063'
+  - '3102266'
 maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
 maker_image_id: '23743'
 cached_project_image: >-
-  /assets/images/organizations/urban-environmental-institute-occidental-college-and-east-yards-communities-for-environmental-justice/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385.png
+  https://archive-assets.la2050.org/images/urban-environmental-institute-occidental-college-and-east-yards-communities-for-environmental-justice/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385.png
 
 ---

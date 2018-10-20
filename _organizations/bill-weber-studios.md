@@ -33,9 +33,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102028'
 maker_image_file_name: TWOAB.jpg
 maker_image_id: '23146'
 cached_project_image: >-
-  /assets/images/organizations/bill-weber-studios/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23146%252Fdisplay%252FTWOAB.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/bill-weber-studios/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23146%252Fdisplay%252FTWOAB.jpg=c570x385.jpg
 
 ---

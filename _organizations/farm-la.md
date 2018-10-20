@@ -33,9 +33,11 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102100'
 maker_image_file_name: 2050_Lg.jpg
 maker_image_id: '23612'
 cached_project_image: >-
-  /assets/images/organizations/farm-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23612%252Fdisplay%252F2050_Lg.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/farm-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23612%252Fdisplay%252F2050_Lg.jpg=c570x385.jpg
 
 ---

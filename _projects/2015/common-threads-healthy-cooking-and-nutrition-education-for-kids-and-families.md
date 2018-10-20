@@ -249,7 +249,7 @@ How do you plan to scale the success of your proposal?: >-
    
    This fall, we are piloting CommonBytes in the Miami-Dade County Public Schools, with a national pilot –including in Los Angeles – planned for 2016. Overall, during the 2015-16 school year, we expect up to 5,000 kids to receive cooking and nutrition education through CommonBytes.
 cached_project_image: >-
-  /assets/images/projects/2015/common-threads-healthy-cooking-and-nutrition-education-for-kids-and-families/img.youtube.com/vi/teuTGnS3vkM/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/common-threads-healthy-cooking-and-nutrition-education-for-kids-and-families/img.youtube.com/vi/teuTGnS3vkM/maxresdefault.jpg
 youtube_video_identifier: teuTGnS3vkM
 organization_name: Common Threads
 

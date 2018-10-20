@@ -36,7 +36,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102214'
 cached_project_image: >-
-  /assets/images/organizations/southern-california-public-radio-kpcc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
+  https://archive-assets.la2050.org/images/southern-california-public-radio-kpcc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
 
 ---

@@ -134,7 +134,7 @@ project_proposal_best_place: >-
   and interactive games. We will provide Common Bytes demo lessons in these
   teachers’ classrooms as well as ongoing technical assistance.
 cached_project_image: >-
-  /assets/images/projects/2016/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
+  https://archive-assets.la2050.org/images/2016/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
 organization_name: Common Threads
 organization_website: www.commonthreads.org
 

@@ -141,7 +141,7 @@ project_proposal_best_place: >-
   stress more effectively, increase communication skills, be creative and act in
   pro-social ways
 cached_project_image: >-
-  /assets/images/projects/2016/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
+  https://archive-assets.la2050.org/images/2016/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
 organization_name: Anna Bing Arnold Children's Center
 organization_website: calstatela.edu/univ/abacc
 

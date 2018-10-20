@@ -132,7 +132,7 @@ project_proposal_best_place: >-
   help many people to connect to one another in ways that go far beyond the
   existing norms.
 cached_project_image: >-
-  /assets/images/projects/2016/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
 organization_name: Nation of Vibration
 organization_website: nationofvibration.com
 

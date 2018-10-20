@@ -152,7 +152,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   production for producing and publishing for broad consumption its
   intellectual, artistic and academic capital. 
 cached_project_image: >-
-  /assets/images/projects/2013/slake-los-angeles/img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg
+  https://archive-assets.la2050.org/images/2013/slake-los-angeles/img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg
 youtube_video_identifier: CDJnJMrwko8
 
 ---

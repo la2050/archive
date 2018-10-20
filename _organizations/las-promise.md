@@ -38,8 +38,11 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102174'
+  - '3102175'
 youtube_video_identifier: SXGVU13JPLU
 cached_project_image: >-
-  /assets/images/organizations/las-promise/img.youtube.com/vi/SXGVU13JPLU/hqdefault.jpg
+  https://archive-assets.la2050.org/images/las-promise/img.youtube.com/vi/SXGVU13JPLU/hqdefault.jpg
 
 ---

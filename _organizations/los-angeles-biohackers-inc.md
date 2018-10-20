@@ -32,9 +32,11 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102124'
 maker_image_file_name: la_biohackers__LA2050_570_345_copy2.jpg
 maker_image_id: '22859'
 cached_project_image: >-
-  /assets/images/organizations/los-angeles-biohackers-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22859%252Fdisplay%252Fla_biohackers__LA2050_570_345_copy2.jpg=c570x385.jpg
+  https://archive-assets.la2050.org/images/los-angeles-biohackers-inc/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22859%252Fdisplay%252Fla_biohackers__LA2050_570_345_copy2.jpg=c570x385.jpg
 
 ---

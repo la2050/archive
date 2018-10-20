@@ -38,7 +38,9 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102204'
 cached_project_image: >-
-  /assets/images/organizations/say-word-and-4c-lab/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5170666805741-team89.jpg
+  https://archive-assets.la2050.org/images/say-word-and-4c-lab/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5170666805741-team89.jpg
 
 ---

@@ -140,7 +140,7 @@ project_proposal_best_place: >-
   For All Agenda, which will offer concrete action steps to create a healthy and
   fair food system that makes LA the best place to LIVE.
 cached_project_image: >-
-  /assets/images/projects/2016/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
+  https://archive-assets.la2050.org/images/2016/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
 organization_name: Los Angeles Food Policy Council
 organization_website: www.goodfoodla.org
 

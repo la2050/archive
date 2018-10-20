@@ -319,7 +319,7 @@ How do you plan to scale the success of your proposal?: >-
   by working withour 40 plus filmmakers and providing each of them access to our
   projection and program
 cached_project_image: >-
-  /assets/images/projects/2015/let-ambulante-connect-new-audiences-to-your-nonprofit-thru-public-documentary-screenings-all-year/img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg
+  https://archive-assets.la2050.org/images/2015/let-ambulante-connect-new-audiences-to-your-nonprofit-thru-public-documentary-screenings-all-year/img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg
 youtube_video_identifier: W6D_g6EB-QY
 organization_name: Ambulante
 
