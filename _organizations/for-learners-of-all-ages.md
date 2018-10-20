@@ -57,6 +57,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102130'
 maker_image_file_name: FLAA1.jpg
 maker_image_id: '17044'
 cached_project_image: >-

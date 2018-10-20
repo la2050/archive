@@ -38,6 +38,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102273'
 maker_image_file_name: Wayfinder.png
 maker_image_id: '16815'
 cached_project_image: >-

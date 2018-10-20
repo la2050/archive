@@ -51,6 +51,11 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102047'
+  - '5102071'
+  - '4102043'
+  - '3102082'
 cached_project_image: >-
   /assets/images/organizations/college-track/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 

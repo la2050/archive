@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102005'
 cached_project_image: >-
   /assets/images/organizations/altasea-at-the-port-of-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
 

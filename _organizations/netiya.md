@@ -41,6 +41,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102220'
+  - '3102204'
 youtube_video_identifier: z7nrpaONjUI
 cached_project_image: >-
   /assets/images/organizations/netiya/img.youtube.com/vi/z7nrpaONjUI/hqdefault.jpg

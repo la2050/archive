@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102230'
 youtube_video_identifier: IscZOss0am8
 cached_project_image: >-
   /assets/images/organizations/pass-tha-ball/img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg

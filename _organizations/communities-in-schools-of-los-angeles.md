@@ -41,6 +41,9 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102074'
+  - '3102085'
 youtube_video_identifier: 8RfGcPRl--8
 cached_project_image: >-
   /assets/images/organizations/communities-in-schools-of-los-angeles/img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg

@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102271'
 cached_project_image: >-
   /assets/images/organizations/united-nations-association-usa-pasadena-chapter-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6459268355741-team89.png
 

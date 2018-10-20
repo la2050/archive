@@ -39,6 +39,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102065'
+  - '3102124'
 youtube_video_identifier: 3CNwJdOyIDQ
 cached_project_image: >-
   /assets/images/organizations/enrichla/enrichla.org/wp-content/uploads/2018/05/IMG_0804-1050x788.jpg

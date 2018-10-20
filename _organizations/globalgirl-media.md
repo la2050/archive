@@ -98,6 +98,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102139'
 youtube_video_identifier: gHdNsESWQgM
 cached_project_image: >-
   /assets/images/organizations/globalgirl-media/img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg

@@ -46,6 +46,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102150'
+  - '3102200'
 maker_image_file_name: dahlia3queque.jpg
 maker_image_id: '20571'
 cached_project_image: >-

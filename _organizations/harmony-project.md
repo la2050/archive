@@ -50,6 +50,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102145'
 youtube_video_identifier: zVwm_GRMSHw
 cached_project_image: >-
   /assets/images/organizations/harmony-project/img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg

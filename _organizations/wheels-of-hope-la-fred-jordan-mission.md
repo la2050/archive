@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102341'
 maker_image_file_name: Wheels_graduation_ceremony.jpg
 maker_image_id: '23250'
 cached_project_image: >-

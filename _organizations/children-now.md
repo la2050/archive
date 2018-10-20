@@ -53,6 +53,11 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102019'
+  - '6102034'
+  - '5102052'
+  - '4102035'
 cached_project_image: >-
   /assets/images/organizations/children-now/activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg
 

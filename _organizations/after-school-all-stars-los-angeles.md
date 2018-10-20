@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102010'
 youtube_video_identifier: t3QQPi2pnEU
 cached_project_image: >-
   /assets/images/organizations/after-school-all-stars-los-angeles/img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg

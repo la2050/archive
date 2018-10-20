@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102105'
 cached_project_image: >-
   /assets/images/organizations/coligo-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156024363741-team89.jpg
 

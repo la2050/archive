@@ -62,6 +62,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102250'
 maker_image_file_name: LASA_2012.jpg
 maker_image_id: '16261'
 cached_project_image: >-

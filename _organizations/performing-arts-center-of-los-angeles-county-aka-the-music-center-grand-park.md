@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102234'
 youtube_video_identifier: BhO5jmXKosA
 cached_project_image: >-
   /assets/images/organizations/performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park/img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg

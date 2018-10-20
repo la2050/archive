@@ -60,6 +60,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102114'
 maker_image_file_name: verynice.jpeg
 maker_image_id: '17230'
 cached_project_image: >-

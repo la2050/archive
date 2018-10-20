@@ -37,6 +37,8 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102056'
 cached_project_image: >-
   /assets/images/organizations/justice-la-dignity-and-power-now/activation.la2050.org/assets/images/connect/2048-wide/justice-la-dignity-and-power-now.jpg
 

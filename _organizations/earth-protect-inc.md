@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102063'
 youtube_video_identifier: usGtj9dvrhA
 cached_project_image: >-
   /assets/images/organizations/earth-protect-inc/img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg

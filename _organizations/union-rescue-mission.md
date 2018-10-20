@@ -40,6 +40,9 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102268'
+  - '5102331'
 cached_project_image: >-
   /assets/images/organizations/union-rescue-mission/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
 

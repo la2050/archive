@@ -38,6 +38,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102276'
 maker_image_file_name: _MG_9694.JPG
 maker_image_id: '23240'
 cached_project_image: >-

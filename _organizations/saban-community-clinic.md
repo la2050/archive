@@ -30,6 +30,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102028'
 maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
 maker_image_id: '22174'
 cached_project_image: >-

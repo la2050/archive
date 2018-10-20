@@ -64,6 +64,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102097'
 youtube_video_identifier: 8N5kv8ddErc
 cached_project_image: >-
   /assets/images/organizations/creative-visions-foundation/img.youtube.com/vi/8N5kv8ddErc/maxresdefault.jpg

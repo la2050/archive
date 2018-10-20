@@ -52,6 +52,11 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102014'
+  - '6102032'
+  - '5102043'
+  - '4102031'
 cached_project_image: >-
   /assets/images/organizations/casa-of-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/casa-of-los-angeles.jpg
 

@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102181'
 youtube_video_identifier: TNz5Q0G-KAs
 cached_project_image: >-
   /assets/images/organizations/localism-inc/img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg

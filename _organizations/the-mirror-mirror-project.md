@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102224'
 youtube_video_identifier: awJQoJqGL-o
 cached_project_image: >-
   /assets/images/organizations/the-mirror-mirror-project/img.youtube.com/vi/awJQoJqGL-o/hqdefault.jpg

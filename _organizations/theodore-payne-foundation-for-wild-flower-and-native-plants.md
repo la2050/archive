@@ -42,6 +42,9 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102261'
+  - '5102316'
 cached_project_image: >-
   /assets/images/organizations/theodore-payne-foundation-for-wild-flower-and-native-plants/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 

@@ -41,6 +41,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102087'
+  - '5102123'
 cached_project_image: >-
   /assets/images/organizations/groceryships-and-netiya/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
 

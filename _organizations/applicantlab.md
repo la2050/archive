@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102018'
 youtube_video_identifier: IRXVbzVLXls
 cached_project_image: >-
   /assets/images/organizations/applicantlab/img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg

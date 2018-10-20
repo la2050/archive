@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102172'
 cached_project_image: >-
   /assets/images/organizations/hyphenus-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
 

@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102132'
 youtube_video_identifier: jpQSRVlR_XM
 cached_project_image: >-
   /assets/images/organizations/heart-of-art-gallery/img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg

@@ -70,6 +70,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102237'
 maker_image_file_name: BoyleTalk.jpg
 maker_image_id: '16663'
 cached_project_image: >-

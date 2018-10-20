@@ -37,6 +37,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102199'
+  - '4102139'
 youtube_video_identifier: '-cj1vPWlAdo'
 cached_project_image: >-
   /assets/images/organizations/los-angeles-worlds-fair-fpc/img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg

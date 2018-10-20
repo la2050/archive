@@ -37,6 +37,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102109'
+  - '3102173'
 maker_image_file_name: Faces_Installation.jpg
 maker_image_id: '16935'
 cached_project_image: >-

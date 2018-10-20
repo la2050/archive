@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102205'
 maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg
 maker_image_id: '22512'
 cached_project_image: >-

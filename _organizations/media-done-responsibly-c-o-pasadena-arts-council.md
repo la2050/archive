@@ -37,6 +37,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102204'
 youtube_video_identifier: H107Gy4bTFs
 cached_project_image: >-
   /assets/images/organizations/media-done-responsibly-c-o-pasadena-arts-council/img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg

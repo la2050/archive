@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102312'
 youtube_video_identifier: BnbLK2sxsXI
 cached_project_image: >-
   /assets/images/organizations/the-story-project/img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg

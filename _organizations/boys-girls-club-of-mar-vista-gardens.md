@@ -43,6 +43,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102037'
 youtube_video_identifier: xtg0o0s_GEU
 cached_project_image: >-
   /assets/images/organizations/boys-girls-club-of-mar-vista-gardens/img.youtube.com/vi/xtg0o0s_GEU/maxresdefault.jpg

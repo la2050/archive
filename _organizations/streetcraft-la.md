@@ -54,6 +54,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102239'
 youtube_video_identifier: LDkB_pxZu2k
 cached_project_image: >-
   /assets/images/organizations/streetcraft-la/img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg

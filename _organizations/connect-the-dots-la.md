@@ -37,6 +37,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102077'
 maker_image_file_name: CtD_2050_Image_2.jpg
 maker_image_id: '24151'
 cached_project_image: >-

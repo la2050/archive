@@ -36,6 +36,9 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102303'
+  - '3102157'
 youtube_video_identifier: 69OXVYZ15kU
 cached_project_image: >-
   /assets/images/organizations/the-institute-for-nonviolence-in-los-angeles/img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg

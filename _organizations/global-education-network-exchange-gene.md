@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102084'
 maker_image_file_name: GENE_pic.jpg
 maker_image_id: '21319'
 cached_project_image: >-

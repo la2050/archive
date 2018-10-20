@@ -88,6 +88,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102235'
 maker_image_file_name: John_-_LA_Daily_News.jpg
 maker_image_id: '17239'
 cached_project_image: >-

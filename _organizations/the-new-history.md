@@ -27,6 +27,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102226'
 youtube_video_identifier: o1W8HEqylCg
 cached_project_image: >-
   /assets/images/organizations/the-new-history/img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg

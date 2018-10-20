@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102156'
 youtube_video_identifier: iQpQqqot8AQ
 cached_project_image: >-
   /assets/images/organizations/jvs-los-angeles/img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg

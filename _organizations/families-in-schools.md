@@ -29,6 +29,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102070'
 youtube_video_identifier: C1uVBoRtQ74
 cached_project_image: >-
   /assets/images/organizations/families-in-schools/img.youtube.com/vi/C1uVBoRtQ74/hqdefault.jpg

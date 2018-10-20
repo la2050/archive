@@ -39,6 +39,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102065'
 youtube_video_identifier: UYdxlEZVaNA
 cached_project_image: >-
   /assets/images/organizations/classnube-nube-means-cloud-in-spanish/img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg

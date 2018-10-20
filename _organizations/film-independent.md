@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102040'
 cached_project_image: >-
   /assets/images/organizations/film-independent/activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
 

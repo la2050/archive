@@ -40,6 +40,9 @@ aggregated:
     - '2015'
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102212'
+  - '5102211'
 maker_image_file_name: LA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png
 maker_image_id: '23990'
 cached_project_image: >-

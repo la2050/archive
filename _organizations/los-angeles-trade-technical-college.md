@@ -46,6 +46,9 @@ aggregated:
     - '2014'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102197'
+  - '4102138'
 maker_image_file_name: connect_SLATEZsigners.jpg
 maker_image_id: '24040'
 cached_project_image: >-

@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102126'
 maker_image_file_name: LACGC_Community_Photo.jpg
 maker_image_id: '20229'
 cached_project_image: >-

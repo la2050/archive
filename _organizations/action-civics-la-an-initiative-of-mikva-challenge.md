@@ -41,6 +41,8 @@ aggregated:
   year_submitted:
     - '2018'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102005'
 cached_project_image: >-
   /assets/images/organizations/action-civics-la-an-initiative-of-mikva-challenge/activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
 

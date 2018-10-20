@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102227'
 maker_image_file_name: Eco_Civ.png
 maker_image_id: '23521'
 cached_project_image: >-

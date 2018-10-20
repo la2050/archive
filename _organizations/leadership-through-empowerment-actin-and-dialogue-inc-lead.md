@@ -32,6 +32,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102115'
 maker_image_file_name: Ely_Flores.jpg
 maker_image_id: '20586'
 cached_project_image: >-

@@ -66,6 +66,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102255'
 youtube_video_identifier: sN5SCezYZTM
 cached_project_image: >-
   /assets/images/organizations/the-los-angeles-trust-for-childrens-health/img.youtube.com/vi/sN5SCezYZTM/hqdefault.jpg

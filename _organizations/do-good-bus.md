@@ -35,6 +35,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102055'
+  - '3102025'
 youtube_video_identifier: T17vBV41x0g
 cached_project_image: >-
   /assets/images/organizations/do-good-bus/img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg

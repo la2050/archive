@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102254'
 youtube_video_identifier: CTFt7gFp6BY
 cached_project_image: >-
   /assets/images/organizations/river-wild-llc/img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg

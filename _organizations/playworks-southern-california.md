@@ -49,6 +49,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102220'
 youtube_video_identifier: mJP7rkVcRfo
 cached_project_image: >-
   /assets/images/organizations/playworks-southern-california/img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg

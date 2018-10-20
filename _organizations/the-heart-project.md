@@ -85,6 +85,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102249'
 maker_image_file_name: DSCF5143_eventbrite.jpg
 maker_image_id: '16966'
 cached_project_image: >-

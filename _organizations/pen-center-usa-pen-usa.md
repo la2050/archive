@@ -41,6 +41,8 @@ aggregated:
     - '2016'
     - '2014'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102180'
 cached_project_image: >-
   /assets/images/organizations/pen-center-usa-pen-usa/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4957308744741-team88.jpg
 

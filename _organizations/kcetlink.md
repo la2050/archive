@@ -64,6 +64,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102163'
 maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
 maker_image_id: '17051'
 cached_project_image: >-

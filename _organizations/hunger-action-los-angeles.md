@@ -30,6 +30,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102208'
 maker_image_file_name: Market_Match_Booth_Adams.Vermont_1.jpg
 maker_image_id: '22352'
 cached_project_image: >-

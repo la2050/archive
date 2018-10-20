@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102064'
 maker_image_file_name: civictechusc_neighborhood_LA2050.png
 maker_image_id: '23887'
 cached_project_image: >-

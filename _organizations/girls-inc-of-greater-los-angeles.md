@@ -39,6 +39,9 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102082'
+  - '5102111'
 cached_project_image: >-
   /assets/images/organizations/girls-inc-of-greater-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4330354165741-team91.jpg
 

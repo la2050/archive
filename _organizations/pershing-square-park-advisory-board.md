@@ -36,6 +36,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102167'
+  - '3102218'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 maker_image_id: '20546'
 cached_project_image: >-

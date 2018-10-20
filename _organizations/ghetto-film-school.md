@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102083'
 maker_image_file_name: GFS_PHOTO_1.png
 maker_image_id: '21361'
 cached_project_image: >-

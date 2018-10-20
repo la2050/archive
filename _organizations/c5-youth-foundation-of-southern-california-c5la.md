@@ -40,6 +40,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102039'
+  - '4102029'
 maker_image_file_name: class_of_2016_selfie.jpg
 maker_image_id: '24065'
 cached_project_image: >-

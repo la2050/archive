@@ -38,6 +38,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102132'
 cached_project_image: >-
   /assets/images/organizations/light-and-life-christian-fellowship-community-center/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7260306494741-team91.JPG
 

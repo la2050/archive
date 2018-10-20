@@ -41,6 +41,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102211'
 maker_image_file_name: Access_LA_Rt_copy.jpg
 maker_image_id: '16858'
 cached_project_image: >-

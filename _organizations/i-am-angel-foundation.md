@@ -37,6 +37,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102095'
+  - '3102153'
 youtube_video_identifier: uVV1_WmFT9o
 cached_project_image: >-
   /assets/images/organizations/i-am-angel-foundation/img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg

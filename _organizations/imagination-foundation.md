@@ -41,6 +41,10 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102138'
+  - '4102226'
+  - '3102154'
 youtube_video_identifier: VtA2ubRDvAs
 cached_project_image: >-
   /assets/images/organizations/imagination-foundation/img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg

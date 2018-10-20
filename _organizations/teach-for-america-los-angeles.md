@@ -50,6 +50,11 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102230'
+  - '5102291'
+  - '4102204'
+  - '3102242'
 cached_project_image: >-
   /assets/images/organizations/teach-for-america-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
 

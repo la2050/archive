@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102283'
 youtube_video_identifier: 5-OvAiMBAFc
 cached_project_image: >-
   /assets/images/organizations/sustainablesurf-org/img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg

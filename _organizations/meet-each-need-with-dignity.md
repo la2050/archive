@@ -26,6 +26,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102020'
 youtube_video_identifier: A3zOCbnCHLg
 cached_project_image: >-
   /assets/images/organizations/meet-each-need-with-dignity/img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg

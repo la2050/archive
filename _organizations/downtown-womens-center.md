@@ -93,6 +93,10 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102084'
+  - '4102056'
+  - '3102109'
 youtube_video_identifier: 8GZELMERrSk
 cached_project_image: >-
   /assets/images/organizations/downtown-womens-center/img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg

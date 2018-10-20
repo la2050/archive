@@ -48,6 +48,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102151'
 youtube_video_identifier: BSvlFmSuKyw
 cached_project_image: >-
   /assets/images/organizations/human-resources-l-a/img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg

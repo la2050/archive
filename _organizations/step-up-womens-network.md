@@ -79,6 +79,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102238'
 maker_image_file_name: 130126-0191.jpg
 maker_image_id: '17003'
 cached_project_image: >-

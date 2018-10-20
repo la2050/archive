@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102157'
 youtube_video_identifier: grALjLXwxgM
 cached_project_image: >-
   /assets/images/organizations/newfilmmakers-los-angeles/img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg

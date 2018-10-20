@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102067'
 cached_project_image: >-
   /assets/images/organizations/filmlit-mission/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
 

@@ -116,6 +116,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102158'
 youtube_video_identifier: yUwt2n0jfsc
 cached_project_image: >-
   /assets/images/organizations/invisible-people/img.youtube.com/vi/yUwt2n0jfsc/maxresdefault.jpg

@@ -38,6 +38,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102077'
 youtube_video_identifier: Q4dC-OX4vTw
 cached_project_image: >-
   /assets/images/organizations/mloveizm-inc/img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg

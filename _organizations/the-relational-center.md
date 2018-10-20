@@ -43,6 +43,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102256'
 youtube_video_identifier: 3J2TSZ1AMHM
 cached_project_image: >-
   /assets/images/organizations/the-relational-center/img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg

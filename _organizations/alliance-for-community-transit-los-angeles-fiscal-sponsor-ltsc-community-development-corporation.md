@@ -39,6 +39,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102005'
+  - '3102013'
 youtube_video_identifier: xcozMknxurc
 cached_project_image: >-
   /assets/images/organizations/alliance-for-community-transit-los-angeles-fiscal-sponsor-ltsc-community-development-corporation/img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg

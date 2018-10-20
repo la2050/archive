@@ -32,6 +32,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102264'
+  - '3102276'
 maker_image_file_name: jobstour.png
 maker_image_id: '21770'
 cached_project_image: >-

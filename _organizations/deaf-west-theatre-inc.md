@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102053'
 youtube_video_identifier: n__7obsdA8E
 cached_project_image: >-
   /assets/images/organizations/deaf-west-theatre-inc/img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg

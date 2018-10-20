@@ -29,6 +29,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102039'
 maker_image_file_name: myla2.png
 maker_image_id: '20504'
 cached_project_image: >-

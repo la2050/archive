@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102017'
 youtube_video_identifier: KRKqNflY-PU
 cached_project_image: >-
   /assets/images/organizations/audubon-california/img.youtube.com/vi/KRKqNflY-PU/hqdefault.jpg

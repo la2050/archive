@@ -37,6 +37,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102083'
 maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
 maker_image_id: '23344'
 cached_project_image: >-

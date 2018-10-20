@@ -35,6 +35,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102282'
 cached_project_image: >-
   /assets/images/organizations/whitaker-peace-development-initiative-wpdi/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
 

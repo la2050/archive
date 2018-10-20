@@ -47,6 +47,10 @@ aggregated:
     - '2016'
     - '2014'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102133'
+  - '6102273'
+  - '4102125'
 cached_project_image: >-
   /assets/images/organizations/university-of-southern-california/activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 

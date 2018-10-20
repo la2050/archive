@@ -37,6 +37,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102075'
 youtube_video_identifier: KHtt2okRChU
 cached_project_image: >-
   /assets/images/organizations/compiler-la-utopiad-org/img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg

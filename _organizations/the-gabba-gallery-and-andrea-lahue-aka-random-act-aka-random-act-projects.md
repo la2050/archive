@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102212'
 youtube_video_identifier: G4cMVQVTBkM
 cached_project_image: >-
   /assets/images/organizations/the-gabba-gallery-and-andrea-lahue-aka-random-act-aka-random-act-projects/img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg

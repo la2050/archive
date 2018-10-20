@@ -41,6 +41,10 @@ aggregated:
     - '2016'
     - '2014'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102016'
+  - '6102015'
+  - '4102024'
 cached_project_image: >-
   /assets/images/organizations/bicycle-culture-institute/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
 

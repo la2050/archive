@@ -38,6 +38,9 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102221'
+  - '3102205'
 maker_image_file_name: Crystal_Cropped_Big_Check.jpg
 maker_image_id: '24049'
 cached_project_image: >-

@@ -44,6 +44,10 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102155'
+  - '5102208'
+  - '4102146'
 cached_project_image: >-
   /assets/images/organizations/milk-bookies/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 

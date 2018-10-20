@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102257'
 youtube_video_identifier: HVOvMO9t6Gk
 cached_project_image: >-
   /assets/images/organizations/with-love-market-and-cafe-with-love-community-market-and-cafe/img.youtube.com/vi/HVOvMO9t6Gk/maxresdefault.jpg

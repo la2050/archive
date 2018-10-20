@@ -40,6 +40,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102269'
 cached_project_image: >-
   /assets/images/organizations/unite-a-nation-inc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
 

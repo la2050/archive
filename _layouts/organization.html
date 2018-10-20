@@ -7,8 +7,31 @@ stylesheets:
 ---
 
 {% assign data_collection = site.collections | where: "label", "projects" | first %}
+
+
 {% assign project_list = "" | split: "," %}
 
+
+
+{% for project_id in page.calculated_project_ids %}
+  {% assign data_list = data_collection.docs | where: "project_id", project_id %}
+  {% if data_list.size > 0 %}
+    {% assign project_list = project_list | push: data_list[0] %}
+  {% endif %}
+{% endfor %}
+
+
+
+
+
+
+
+{% comment %}
+{% assign project_list = data_collection.docs | where: "organization_id", page.organization_id %}
+{% endcomment %}
+
+{% comment %}
+{% assign project_list = "" | split: "," %}
 
 {% for project_id in page.project_ids %}
   {% assign data_list = data_collection.docs | where: "project_id", project_id %}
@@ -28,9 +51,9 @@ stylesheets:
 {% comment %} SHIM {% endcomment %}
 {% if project_list.size <= 0 %}
   {% assign data_list = data_collection.docs | where: "organization_id", page.organization_id %}
-  {% if data_list.size > 0 %}
-    {% assign project_list = project_list | push: data_list[0] %}
-  {% endif %}
+  {% for item in data_list %}
+    {% assign project_list = project_list | push: item %}
+  {% endfor %}
 {% endif %}
 
 {% comment %} SHIM {% endcomment %}
@@ -42,8 +65,7 @@ stylesheets:
     {% endif %}
   {% endfor %}
 {% endif %}
-
-
+{% endcomment %}
 
 
 
@@ -53,8 +75,6 @@ stylesheets:
 {% assign project_list = project_list | sort: "year_submitted" | reverse %}
 {% assign first_project_url = project_list[0].url %}
 {% endif %}
-
-
 
 
 

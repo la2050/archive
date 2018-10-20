@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102093'
 youtube_video_identifier: 5paOc34oG84
 cached_project_image: >-
   /assets/images/organizations/entertainment-industries-council-inc/img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg

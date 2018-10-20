@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102248'
 youtube_video_identifier: a-kQryxgF4M
 cached_project_image: >-
   /assets/images/organizations/re-ciclos-and-bicycle-kitchen/img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg

@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102198'
 youtube_video_identifier: laadW_CUhSY
 cached_project_image: >-
   /assets/images/organizations/los-angeles-underwater-explorers-ghost-fishing/img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg

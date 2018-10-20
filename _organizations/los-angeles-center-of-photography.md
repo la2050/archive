@@ -36,6 +36,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102185'
 maker_image_file_name: Julia_Dean_at_Boyle_Heights_B_B_Club.jpg
 maker_image_id: '23374'
 cached_project_image: >-

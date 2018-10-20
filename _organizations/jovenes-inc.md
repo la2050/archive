@@ -36,6 +36,9 @@ aggregated:
     - '2014'
     - '2013'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102122'
+  - '3102160'
 youtube_video_identifier: 6BWp4B7O03I
 cached_project_image: >-
   /assets/images/organizations/jovenes-inc/img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg

@@ -35,6 +35,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102170'
 cached_project_image: >-
   /assets/images/organizations/operation-gratitude/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
 

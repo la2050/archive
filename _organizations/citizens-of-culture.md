@@ -45,6 +45,10 @@ aggregated:
     - '2016'
     - '2015'
 year_submitted: '2018'
+calculated_project_ids:
+  - '8102022'
+  - '6102097'
+  - '5102056'
 cached_project_image: >-
   /assets/images/organizations/citizens-of-culture/activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 

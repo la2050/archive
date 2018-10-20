@@ -76,6 +76,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102094'
 maker_image_file_name: DFO_retreat_rowdy_pic.jpg
 maker_image_id: '16571'
 cached_project_image: >-

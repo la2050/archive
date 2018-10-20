@@ -34,6 +34,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102128'
 maker_image_file_name: large_domes-134_crop.jpg
 maker_image_id: '23466'
 cached_project_image: >-

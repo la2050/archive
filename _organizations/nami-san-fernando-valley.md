@@ -38,6 +38,8 @@ aggregated:
   year_submitted:
     - '2016'
 year_submitted: '2016'
+calculated_project_ids:
+  - '6102160'
 cached_project_image: >-
   /assets/images/organizations/nami-san-fernando-valley/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6737289065741-team89.jpeg
 

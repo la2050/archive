@@ -40,6 +40,9 @@ aggregated:
     - '2015'
     - '2013'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102088'
+  - '3102115'
 youtube_video_identifier: xXMkk_S-UnU
 cached_project_image: >-
   /assets/images/organizations/dublab/img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg

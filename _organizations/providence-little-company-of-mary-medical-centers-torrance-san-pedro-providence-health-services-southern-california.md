@@ -28,6 +28,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102174'
 youtube_video_identifier: S_0nE1f2B1w
 cached_project_image: >-
   /assets/images/organizations/providence-little-company-of-mary-medical-centers-torrance-san-pedro-providence-health-services-southern-california/img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg

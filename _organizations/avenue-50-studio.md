@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102018'
 youtube_video_identifier: BtUB4Ycebms
 cached_project_image: >-
   /assets/images/organizations/avenue-50-studio/img.youtube.com/vi/BtUB4Ycebms/hqdefault.jpg

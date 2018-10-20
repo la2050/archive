@@ -42,6 +42,9 @@ aggregated:
     - '2015'
     - '2014'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102102'
+  - '4102071'
 maker_image_file_name: StillVideoImage_(2).jpg
 maker_image_id: '23727'
 cached_project_image: >-

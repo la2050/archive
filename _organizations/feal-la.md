@@ -33,6 +33,8 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
+calculated_project_ids:
+  - '5102101'
 maker_image_file_name: LOGO.png
 maker_image_id: '23967'
 cached_project_image: >-

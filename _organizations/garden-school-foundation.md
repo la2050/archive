@@ -61,6 +61,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102137'
 maker_image_file_name: beans_on_clothes_H_small.jpg
 maker_image_id: '16977'
 cached_project_image: >-

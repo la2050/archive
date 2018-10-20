@@ -37,6 +37,8 @@ aggregated:
   year_submitted:
     - '2013'
 year_submitted: '2013'
+calculated_project_ids:
+  - '3102030'
 maker_image_file_name: School_Based_Mentoring.jpg
 maker_image_id: '17043'
 cached_project_image: >-

@@ -31,6 +31,8 @@ aggregated:
   year_submitted:
     - '2014'
 year_submitted: '2014'
+calculated_project_ids:
+  - '4102182'
 youtube_video_identifier: ApjqumUUgTI
 cached_project_image: >-
   /assets/images/organizations/row-gallery-foundation/img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg
