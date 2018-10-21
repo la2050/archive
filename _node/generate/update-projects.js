@@ -816,14 +816,24 @@ function processFile(filename) {
   //   }
   // })
   let matches = []
-  let suspect = []
+  let suspectByWebAddress = []
+  let suspectByTitle = []
   let text = getStringForComparison(fs.readFileSync(filename, 'utf8'))
   organizationMarkdownFiles.forEach(item => {
     if (item.calculated_project_ids) {
       item.calculated_project_ids.forEach(project_id => {
         if (data.yaml.project_id == project_id) {
           if (text.indexOf(getStringForComparison(item.title)) < 0) {
-            suspect.push(item)
+            suspectByTitle.push(item)
+          }
+          if (item.organization_website && item.organization_website.length && item.organization_website.length > 0) {
+            let found = false
+            item.organization_website.forEach(website => {
+              if (text.indexOf(getStringForComparison(website)) >= 0) {
+                found = true
+              }
+            })
+            if (!found) suspectByWebAddress.push(item)
           }
           matches.push(item)
         }
@@ -834,11 +844,23 @@ function processFile(filename) {
   })
 
 
-  if (suspect.length > 0) {
+  if (suspectByWebAddress.length > 0 || suspectByTitle.length > 0) {
     console.log("")
     console.log("*******")
-    suspect.forEach(item => {
-      console.log("Found an organization link that might not be correct: " + item.organization_id + " :: " + item.title)
+    suspectByWebAddress.forEach(item => {
+      console.log("Found an organization link that might not be correct, based on web address: " + item.organization_id + " :: " + item.title)
+      console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      if (item.aggregated.challenge_url) {
+        console.dir(item.aggregated.challenge_url)
+      }
+      console.log("…does not match content in: " + data.yaml.project_id + " :: " + data.yaml.title)
+      console.log(`https://archive.la2050.org/${data.yaml.year_submitted}/${stringToURI(data.yaml.title)}/`)
+      if (data.yaml.challenge_url) {
+        console.dir(item.aggregated.challenge_url)
+      }
+    })
+    suspectByTitle.forEach(item => {
+      console.log("Found an organization link that might not be correct, based on title: " + item.organization_id + " :: " + item.title)
       console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
       if (item.aggregated.challenge_url) {
         console.dir(item.aggregated.challenge_url)
@@ -884,8 +906,33 @@ function processFile(filename) {
       }
     })
     console.log("")
-    console.log("Looking for candidate matches…")
+    console.log("Looking for candidate matches by web address…")
     let candidates = []
+    organizationMarkdownFiles.forEach(item => {
+      if (item.organization_website && item.organization_website.length && item.organization_website.length > 0) {
+        item.organization_website.forEach(website => {
+          if (text.indexOf(getStringForComparison(website)) >= 0) {
+            candidates.push(item)
+          }
+        })
+      }
+    })
+
+    if (candidates.length > 0) {
+      console.log("")
+      candidates.forEach(item => {
+        console.log("Candidate by website found: " + item.organization_id + " :: " + item.title)
+        console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      })
+    } else {
+      console.log("< No candidates found >")
+    }
+
+
+
+    console.log("")
+    console.log("Looking for candidate matches by title…")
+    candidates = []
     organizationMarkdownFiles.forEach(item => {
       if (text.indexOf(getStringForComparison(item.title)) >= 0) {
         candidates.push(item)
@@ -895,7 +942,7 @@ function processFile(filename) {
     if (candidates.length > 0) {
       console.log("")
       candidates.forEach(item => {
-        console.log("Candidate found: " + item.organization_id + " :: " + item.title)
+        console.log("Candidate by title found: " + item.organization_id + " :: " + item.title)
         console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
       })
     } else {
