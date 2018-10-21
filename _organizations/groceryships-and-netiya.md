@@ -27,8 +27,7 @@ project_titles:
   - >-
     The Trellis Project: Growing health through gardening, nutritional support,
     and food access
-  - Groceryships (Scholarships for Groceries)--Changing the Food System One Family
-  at a Time
+  - Groceryships (Scholarships for Groceries)--Changing the Food System One Family at a Time
 aggregated:
   challenge_url:
     - >-
