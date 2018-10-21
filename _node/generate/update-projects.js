@@ -874,14 +874,39 @@ function processFile(filename) {
   if (matches.length == 0) {
     console.log("")
     console.log("________")
-    console.log("Couldn’t find a matching organization for " + data.yaml.project_id + " :: " + data.yaml.title)
+    console.log("Couldn’t find an organization that links to " + data.yaml.project_id + " :: " + data.yaml.title)
     console.log(`https://archive.la2050.org/${data.yaml.year_submitted}/${stringToURI(data.yaml.title)}/`)
+    console.log("")
+    organizationMarkdownFiles.forEach(item => {
+      if (item.organization_id == data.yaml.organization_id) {
+        console.log("Found the organization this project links to: " + item.organization_id + " :: " + item.title)
+        console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      }
+    })
+    console.log("")
+    console.log("Looking for candidate matches…")
+    let candidates = []
+    organizationMarkdownFiles.forEach(item => {
+      if (text.indexOf(getStringForComparison(item.title)) >= 0) {
+        candidates.push(item)
+      }
+    })
+
+    if (candidates.length > 0) {
+      console.log("")
+      candidates.forEach(item => {
+        console.log("Candidate found: " + item.organization_id + " :: " + item.title)
+        console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      })
+    } else {
+      console.log("< No candidates found >")
+    }
   }
 
   if (matches.length > 1) {
     console.log("")
     console.log("$$$$$$$$$")
-    console.log("Found multiple matches for " + data.yaml.project_id + " :: " + data.yaml.title)
+    console.log("Found multiple organization that link to " + data.yaml.project_id + " :: " + data.yaml.title)
     console.log(`https://archive.la2050.org/${data.yaml.year_submitted}/${stringToURI(data.yaml.title)}/`)
     matches.forEach(match => {
       console.log(match.organization_id + " :: " + match.title)
