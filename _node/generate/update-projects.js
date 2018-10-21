@@ -829,7 +829,7 @@ function processFile(filename) {
           if (item.organization_website && item.organization_website.length && item.organization_website.length > 0) {
             let found = false
             item.organization_website.forEach(website => {
-              if (text.indexOf(getStringForComparison(website)) >= 0) {
+              if (website.length > 5 && text.indexOf(getStringForComparison(website)) >= 0) {
                 found = true
               }
             })
@@ -911,7 +911,7 @@ function processFile(filename) {
     organizationMarkdownFiles.forEach(item => {
       if (item.organization_website && item.organization_website.length && item.organization_website.length > 0) {
         item.organization_website.forEach(website => {
-          if (text.indexOf(getStringForComparison(website)) >= 0) {
+          if (website.length > 5 && text.indexOf(getStringForComparison(website)) >= 0) {
             candidates.push(item)
           }
         })
