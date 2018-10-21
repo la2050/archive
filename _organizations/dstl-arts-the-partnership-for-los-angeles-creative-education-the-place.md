@@ -29,6 +29,7 @@ project_titles:
   - >-
     The PLACE: building an infrastructure of support for emerging artists and
     their mentors.
+  - Empowering the Future of Los Angeles Creative Economy through Arts Mentorships
 aggregated:
   challenge_url:
     - >-
@@ -46,6 +47,7 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102062'
   - '5102087'
+  - '4102059'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/dstl-arts-the-partnership-for-los-angeles-creative-education-the-place/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4185192065741-team91.jpg
 
