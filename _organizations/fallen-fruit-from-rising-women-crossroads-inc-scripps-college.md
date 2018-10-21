@@ -27,8 +27,8 @@ project_ids:
   - '5102099'
   - '4102051'
 project_titles:
-  - Fallen Fruit from Rising Women: Empowering women through social enterprise and food justice
-  - Fallen Fruit from Rising Women: Empowering Women through Food Justice and Social Entrepreneurship
+  - "Fallen Fruit from Rising Women: Empowering women through social enterprise and food justice"
+  - "Fallen Fruit from Rising Women: Empowering Women through Food Justice and Social Entrepreneurship"
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
