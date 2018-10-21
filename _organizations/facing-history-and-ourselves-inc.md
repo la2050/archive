@@ -22,6 +22,7 @@ project_image: 'https://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102097'
+  - '4102069'
 project_titles:
   - Facing History and Ourselves Partnership School Network
   - Facing History's Partnership Schools Network
@@ -30,13 +31,14 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/facinghistoryla.html'
   project_ids:
     - '5102097'
-    - '4102197'
+    - '4102069'
   year_submitted:
     - '2015'
     - '2014'
 year_submitted: '2015'
 calculated_project_ids:
   - '5102097'
+  - '4102069'
 youtube_video_identifier: 2EbK6sblpo0
 cached_project_image: >-
   https://archive-assets.la2050.org/images/facing-history-and-ourselves-inc/img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg

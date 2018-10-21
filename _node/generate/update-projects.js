@@ -5,6 +5,86 @@ let fs = require('fs')
 let yaml = require('js-yaml')
 
 
+function stringToURI(str) {
+  return String(str).toLowerCase()
+    .replace(/\s/g, '-')
+    .replace(/\//g, '-')
+    .replace(/\&/g, '-')
+    .replace(/\./g, '-')
+    .replace(/\:/g, '-')
+    .replace(/\!/g, '-')
+    .replace(/…/g, '-')
+    .replace(/\?/g, '-')
+    .replace(/\$/g, '-')
+    .replace(/\%/g, '-')
+    .replace(/\≠/g, '-')
+    .replace(/\–/g, '-')
+    .replace(/\—/g, '-')
+    .replace(/\|/g, '-')
+    .replace(/\_/g, '-')
+    .replace(/\,/g, "-")
+    .replace(/\+/g, "-")
+    .replace(/\>/g, "-")
+    .replace(/\r\n?/, '-')
+    .replace(/\'/g, '')
+    .replace(/\‘/g, '')
+    .replace(/\’/g, '')
+    .replace(/\“/g, '')
+    .replace(/\”/g, '')
+    .replace(/\(/g, '')
+    .replace(/\)/g, '')
+    .replace(/\{/g, '')
+    .replace(/\}/g, '')
+    .replace(/\"/g, '')
+    .replace(/\#/g, '')
+    .replace(/\;/g, '')
+    .replace(/\-\-\-\-/g, '-')
+    .replace(/\-\-\-/g, '-')
+    .replace(/\-\-/g, '-')
+    .replace(/^\-/g, '') // Remove starting dash
+    .replace(/\-$/g, '') // Remove trailing dash
+    .replace(/ /g, '')
+}
+
+function fixDataCharactersInString(string) {
+  string = string
+    .replace(/â€“/g, '—')
+    .replace(/â€˜/g, '‘')
+    .replace(/â€™/g, '’')
+    .replace(/â€¯/g, '') // ?
+    .replace(/â€”/g, '—')
+    .replace(/â€‹/g, '') // ?
+    .replace(/â€œ/g, '“') // ?
+    .replace(/â€/g, '”') // ?
+    .replace(/â€¢/g, "*")
+    .replace(/â€¦/g, "…")
+    .replace(/âˆš/g, '√')
+    .replace(/â–ª/g, '*')
+    .replace(/â—\x8F/g, '*')
+    .replace(/â„¢/g, '™')
+    .replace(/Â·/g, '* ')
+    .replace(/Â½/g, '½')
+    .replace(/Ãœ/g, 'Ü')
+    .replace(/Ã±/g, 'ñ')
+  return string
+}
+
+function getStringForComparison(string) {
+  string = fixDataCharactersInString(string)
+  string = string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
+  string = (stringToURI(string).replace(/\-/g, ""))
+  // if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
+  //   console.log("BEFORE")
+  //   console.log(string)
+  //   console.log("AFTER")
+  //   console.log(string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim())
+  //   return "A house for Tommy in my backyard! If only LA knew the opportunity that lies in our backyards…"
+  // }
+
+  return string
+}
+
+
 function getYaml(text, filename) {
   const DELIMITER = `---
 `
@@ -721,21 +801,165 @@ function processFile(filename) {
   //   }
   // })
 
+  // organizationMarkdownFiles.forEach(item => {
+  //   let organization_id = null
+
+  //   item.calculated_project_ids.forEach(project_id => {
+  //     if (data.yaml.project_id == project_id) {
+  //       organization_id = item.organization_id
+  //     }
+  //   })
+
+  //   if (organization_id && organization_id != data.yaml.organization_id) {
+  //     console.log("changing organization_id from " + data.yaml.organization_id + " to " + organization_id)
+  //     // data.yaml.organization_id = organization_id
+  //   }
+  // })
+  let matches = []
+  let suspectByWebAddress = []
+  let suspectByTitle = []
+  let text = getStringForComparison(fs.readFileSync(filename, 'utf8'))
   organizationMarkdownFiles.forEach(item => {
-    let organization_id = null
-
-    item.calculated_project_ids.forEach(project_id => {
-      if (data.yaml.project_id == project_id) {
-        organization_id = item.organization_id
-      }
-    })
-
-    if (organization_id && organization_id != data.yaml.organization_id) {
-      console.log("changing organization_id from " + data.yaml.organization_id + " to " + organization_id)
-      // data.yaml.organization_id = organization_id
+    if (item.calculated_project_ids) {
+      item.calculated_project_ids.forEach(project_id => {
+        if (data.yaml.project_id == project_id) {
+          if (text.indexOf(getStringForComparison(item.title)) < 0) {
+            suspectByTitle.push(item)
+          }
+          if (item.organization_website && item.organization_website.length && item.organization_website.length > 0) {
+            let found = false
+            item.organization_website.forEach(website => {
+              if (website.length > 5 && text.indexOf(getStringForComparison(website)) >= 0) {
+                found = true
+              }
+            })
+            if (!found) suspectByWebAddress.push(item)
+          }
+          matches.push(item)
+        }
+      })
+    } else {
+      // console.log("Coulnd’t find calculated_project_ids for organization:" + item.organization_id + " :: " + item.title)
     }
   })
 
+
+  if (suspectByWebAddress.length > 0 || suspectByTitle.length > 0) {
+    console.log("")
+    console.log("*******")
+    suspectByWebAddress.forEach(item => {
+      console.log("Found an organization link that might not be correct, based on web address: " + item.organization_id + " :: " + item.title)
+      console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      if (item.aggregated.challenge_url) {
+        console.dir(item.aggregated.challenge_url)
+      }
+      console.log("…does not match content in: " + data.yaml.project_id + " :: " + data.yaml.title)
+      console.log(`https://archive.la2050.org/${data.yaml.year_submitted}/${stringToURI(data.yaml.title)}/`)
+      if (data.yaml.challenge_url) {
+        console.dir(item.aggregated.challenge_url)
+      }
+    })
+    suspectByTitle.forEach(item => {
+      console.log("Found an organization link that might not be correct, based on title: " + item.organization_id + " :: " + item.title)
+      console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      if (item.aggregated.challenge_url) {
+        console.dir(item.aggregated.challenge_url)
+      }
+      console.log("…does not match content in: " + data.yaml.project_id + " :: " + data.yaml.title)
+      console.log(`https://archive.la2050.org/${data.yaml.year_submitted}/${stringToURI(data.yaml.title)}/`)
+      if (data.yaml.challenge_url) {
+        console.dir(item.aggregated.challenge_url)
+      }
+    })
+
+    console.log("")
+    console.log("Looking for candidate matches…")
+    let candidates = []
+    organizationMarkdownFiles.forEach(item => {
+      if (text.indexOf(getStringForComparison(item.title)) >= 0) {
+        candidates.push(item)
+      }
+    })
+
+    if (candidates.length > 0) {
+      console.log("")
+      candidates.forEach(item => {
+        console.log("Candidate found: " + item.organization_id + " :: " + item.title)
+        console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      })
+    } else {
+      console.log("< No candidates found >")
+    }
+  }
+
+
+  if (matches.length == 0) {
+    console.log("")
+    console.log("________")
+    console.log("Couldn’t find an organization that links to " + data.yaml.project_id + " :: " + data.yaml.title)
+    console.log(`https://archive.la2050.org/${data.yaml.year_submitted}/${stringToURI(data.yaml.title)}/`)
+    console.log("")
+    organizationMarkdownFiles.forEach(item => {
+      if (item.organization_id == data.yaml.organization_id) {
+        console.log("Found the organization this project links to: " + item.organization_id + " :: " + item.title)
+        console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      }
+    })
+    console.log("")
+    console.log("Looking for candidate matches by web address…")
+    let candidates = []
+    organizationMarkdownFiles.forEach(item => {
+      if (item.organization_website && item.organization_website.length && item.organization_website.length > 0) {
+        item.organization_website.forEach(website => {
+          if (website.length > 5 && text.indexOf(getStringForComparison(website)) >= 0) {
+            candidates.push(item)
+          }
+        })
+      }
+    })
+
+    if (candidates.length > 0) {
+      console.log("")
+      candidates.forEach(item => {
+        console.log("Candidate by website found: " + item.organization_id + " :: " + item.title)
+        console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      })
+    } else {
+      console.log("< No candidates found >")
+    }
+
+
+
+    console.log("")
+    console.log("Looking for candidate matches by title…")
+    candidates = []
+    organizationMarkdownFiles.forEach(item => {
+      if (text.indexOf(getStringForComparison(item.title)) >= 0) {
+        candidates.push(item)
+      }
+    })
+
+    if (candidates.length > 0) {
+      console.log("")
+      candidates.forEach(item => {
+        console.log("Candidate by title found: " + item.organization_id + " :: " + item.title)
+        console.log(`https://archive.la2050.org/${stringToURI(item.title)}/`)
+      })
+    } else {
+      console.log("< No candidates found >")
+    }
+  }
+
+  if (matches.length > 1) {
+    console.log("")
+    console.log("$$$$$$$$$")
+    console.log("Found multiple organization that link to " + data.yaml.project_id + " :: " + data.yaml.title)
+    console.log(`https://archive.la2050.org/${data.yaml.year_submitted}/${stringToURI(data.yaml.title)}/`)
+    matches.forEach(match => {
+      console.log(match.organization_id + " :: " + match.title)
+      console.log(`https://archive.la2050.org/${stringToURI(match.title)}/`)
+    })
+  }
 
   /*
   {% assign data_collection = site.collections | where: "label", "organizations" | first %}
@@ -765,7 +989,7 @@ function processFile(filename) {
   */
 
 
-  saveMarkdown(filename, data)
+  // saveMarkdown(filename, data)
 }
 
 
@@ -823,8 +1047,8 @@ function getRecords(folder) {
 }
 
 // Create an object for quick lookup
-let markdownOrganizationsLookup = {}
-let markdownOrganizationsAggregatedLookup = {}
+// let markdownOrganizationsLookup = {}
+// let markdownOrganizationsAggregatedLookup = {}
 let organizationMarkdownFiles
 
 function createOrganizationsLookup() {
@@ -832,14 +1056,14 @@ function createOrganizationsLookup() {
   // Load the markdown files
   let records = getRecords(`../_organizations`)
 
-  records.forEach(record => {
-    record.project_ids.forEach(project_id => {
-      markdownOrganizationsLookup[project_id] = record
-    })
-    record.aggregated.project_ids.forEach(project_id => {
-      markdownOrganizationsAggregatedLookup[project_id] = record
-    })
-  })
+  // records.forEach(record => {
+  //   record.project_ids.forEach(project_id => {
+  //     markdownOrganizationsLookup[project_id] = record
+  //   })
+  //   record.aggregated.project_ids.forEach(project_id => {
+  //     markdownOrganizationsAggregatedLookup[project_id] = record
+  //   })
+  // })
 
   organizationMarkdownFiles = records
 }

@@ -16,6 +16,7 @@ tags_indicators:
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952587353'
 organization_website:
   - 'http://slatez.org/'
+  - 'http://college.lattc.edu'
 twitter: www.twitter.com/slate_z
 instagram: we do not have an instagram account
 facebook: www.facebook.com/slate_z
@@ -37,6 +38,7 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
+    - 'http://maker.good.is/myLA2050learn/projects/LearnandServeOER.html'
   project_ids:
     - '5102197'
     - '4102203'
@@ -49,6 +51,7 @@ year_submitted: '2015'
 calculated_project_ids:
   - '5102197'
   - '4102138'
+  - '4102012'
 maker_image_file_name: connect_SLATEZsigners.jpg
 maker_image_id: '24040'
 cached_project_image: >-

@@ -28,6 +28,7 @@ project_titles:
     A Peaceful Los Angeles: Developing the Hearts and Minds of Our Future
     Leaders
   - 'CWC LA: building communities that embrace equity and address injustice'
+  - HEAR LA amps up music education and outreach to create opportunity for LA kids
 aggregated:
   challenge_url:
     - >-
@@ -45,6 +46,7 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102037'
   - '5102057'
+  - '4102036'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/citizens-of-the-world-charter-schools-los-angeles/www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg
 

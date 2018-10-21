@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 organization_id: '2015188'
 title: Southern California Streets Initiative
 org_type: '#N/A'
@@ -20,10 +20,8 @@ zip: '#N/A'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21490%252Fdisplay%252FScreen_Shot_2014-07-31_at_9.15.53_AM.png=c570x385
 project_video: ''
-project_ids:
-  - '4102267'
-project_titles:
-  - 'Vision Zero Los Angeles: safe streets for healthy living'
+project_ids: []
+project_titles: []
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/abundanthousingLA.html'
@@ -31,8 +29,7 @@ aggregated:
   year_submitted:
     - '2015'
 year_submitted: '2015'
-calculated_project_ids:
-  - '4102267'
+calculated_project_ids: []
 maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
 maker_image_id: '21490'
 cached_project_image: >-

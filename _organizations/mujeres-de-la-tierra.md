@@ -23,14 +23,12 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/0NEAOsciAWM?rel=0&amp;showinfo=0'
 project_ids:
   - '6102157'
-  - '5102268'
   - '5102214'
   - '4102151'
 project_titles:
   - >-
     La Paletera de los Angeles - Fruit Bars, Cold Drinks, Healthy Delicious
     Snacks.
-  - 'Paint to Succeed '
   - 'Telenovelas in the Park, a new way of learning!'
   - >-
     La Paletera de los Angeles - Fruit Bars Cold Drinks Healthy Delicious
@@ -53,7 +51,6 @@ aggregated:
 year_submitted: '2016'
 calculated_project_ids:
   - '6102157'
-  - '5102268'
   - '5102214'
   - '4102151'
 cached_project_image: >-
