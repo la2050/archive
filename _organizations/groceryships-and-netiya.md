@@ -27,6 +27,7 @@ project_titles:
   - >-
     The Trellis Project: Growing health through gardening, nutritional support,
     and food access
+  - Groceryships (Scholarships for Groceries)--Changing the Food System One Family at a Time
 aggregated:
   challenge_url:
     - >-
@@ -44,6 +45,7 @@ year_submitted: '2016'
 calculated_project_ids:
   - '6102087'
   - '5102123'
+  - '4102238'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/groceryships-and-netiya/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
 

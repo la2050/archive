@@ -22,7 +22,8 @@ project_titles:
     Happy kids, Healthy Families for a Better LA: bringing mental health into
     families homes.
 aggregated:
-  challenge_url: []
+  challenge_url:
+    - http://maker.good.is/myLA2050live/projects/WIN.html
   project_ids:
     - '4102185'
   year_submitted:

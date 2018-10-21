@@ -28,6 +28,7 @@ project_titles:
   - >-
     EcoMapLA is todays roadmap for a tomorrow that is social, economic and
     environmental sustainable
+  - Los Angeles Resilience Rating System
 aggregated:
   challenge_url:
     - >-
@@ -41,6 +42,7 @@ aggregated:
 year_submitted: '2016'
 calculated_project_ids:
   - '6102276'
+  - '4102162'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/us-green-building-council-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
 

@@ -23,21 +23,11 @@ project_image: >-
 project_video: 'https://www.youtube.com/embed/Xt3t96JpHBc?rel=0&amp;showinfo=0'
 project_ids:
   - '6102113'
-  - '5102269'
   - '5102158'
-  - '5102053'
-  - '4102203'
 project_titles:
-  - 'Building Healthy Futures for Children Who’ve Experienced Trauma '
-  - 'DynamiCity: Embracing Imbalance to Improve Cities'
-  - >-
-    Happy kids, Healthy Families for a Better LA: bringing mental health into
-    families homes.
   - >-
     Help build the KCRW Media Center — designed for YOU to CONNECT with public
     radio in Los Angeles.
-  - 'Is.Was.Will Be. '
-  - Toward a Carbon Neutral House
   - KCRW Capital Campaign
 aggregated:
   challenge_url:
@@ -53,10 +43,7 @@ aggregated:
 year_submitted: '2016'
 calculated_project_ids:
   - '6102113'
-  - '5102269'
   - '5102158'
-  - '5102053'
-  - '4102203'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/kcrw/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
 

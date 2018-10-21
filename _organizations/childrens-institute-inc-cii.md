@@ -26,7 +26,6 @@ project_video: ''
 project_ids:
   - '5102053'
 project_titles:
-  - 'Building Healthy Futures for Children Who’ve Experienced Trauma '
   - Building Healthy Futures for Children Who’ve Experienced Trauma
 aggregated:
   challenge_url:

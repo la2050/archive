@@ -23,11 +23,9 @@ project_image: 'https://img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg'
 project_video: ''
 project_ids:
   - '5102138'
-  - '4102226'
   - '3102154'
 project_titles:
   - LA League of Imagination
-  - Play With Music Platform (PWMP)
   - The Caine's Arcade Challenge
   - The Caines Arcade Challenge
 aggregated:
@@ -43,7 +41,6 @@ aggregated:
 year_submitted: '2015'
 calculated_project_ids:
   - '5102138'
-  - '4102226'
   - '3102154'
 youtube_video_identifier: VtA2ubRDvAs
 cached_project_image: >-
