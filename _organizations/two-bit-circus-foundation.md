@@ -38,6 +38,7 @@ aggregated:
 year_submitted: '2018'
 calculated_project_ids:
   - '8102128'
+  - '4102239'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/two-bit-circus-foundation/activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
 
