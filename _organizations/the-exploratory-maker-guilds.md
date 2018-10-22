@@ -1,20 +1,19 @@
 ---
+published: true
 organization_id: 'temporary__2014151__2'
 year_submitted: '2014'
 organization_name: 'The Exploratory: Maker Guilds'
-organization_website: ''
+organization_website: 'http://www.theexploratory.com/'
 ein: '522237551'
 zip: '90230'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522237551'
 ntee_type: ''
 tags_indicators:
-  - Access to healthy food
-  - Affordable housing
-  - Health
-  - Housing & homelessness
-twitter: ''
-instagram: ''
-facebook: ''
+  - STEM & Digital literacy
+  - Education & youth
+twitter: '@theexploratory'
+instagram: '@makerguilds'
+facebook: 'https://www.facebook.com/TheExploratory'
 org_type: Nonprofit
 project_image: 'https://img.youtube.com/vi/7nv6O3U7szc/maxresdefault.jpg'
 project_video: ''
