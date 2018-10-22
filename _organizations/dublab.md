@@ -30,6 +30,7 @@ project_titles:
   - DUBLABs Open Studio Initiative
 aggregated:
   challenge_url:
+    - https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
     - >-
       http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html
     - 'http://maker.good.is/myla2050/projects/SOUNDSHARELA.html'
@@ -41,6 +42,7 @@ aggregated:
     - '2013'
 year_submitted: '2015'
 calculated_project_ids:
+  - '6102077'
   - '5102088'
   - '3102115'
 youtube_video_identifier: xXMkk_S-UnU

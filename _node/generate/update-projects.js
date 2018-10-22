@@ -826,7 +826,7 @@ function processFile(filename) {
           if (text.indexOf(getStringForComparison(item.title)) < 0) {
             suspectByTitle.push(item)
           }
-          if (item.organization_website && item.organization_website.length && item.organization_website.length > 0) {
+          if (item.organization_website && item.organization_website.length && item.organization_website.length > 0 && item.organization_website.forEach) {
             let found = false
             item.organization_website.forEach(website => {
               if (website.length > 5 && text.indexOf(getStringForComparison(website)) >= 0) {
@@ -844,7 +844,8 @@ function processFile(filename) {
   })
 
 
-  if (suspectByWebAddress.length > 0 || suspectByTitle.length > 0) {
+  if (false) {
+  // if (suspectByWebAddress.length > 0 || suspectByTitle.length > 0) {
     console.log("")
     console.log("*******")
     suspectByWebAddress.forEach(item => {
