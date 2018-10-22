@@ -44,6 +44,7 @@ aggregated:
 year_submitted: '2015'
 calculated_project_ids:
   - '5102192'
+  - '4102132'
   - '3102188'
 youtube_video_identifier: KQnPSzqeZRk
 cached_project_image: >-

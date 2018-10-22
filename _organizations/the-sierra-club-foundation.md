@@ -29,6 +29,7 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-future-is-bright!-a-clean-energy-future-for-la
+    - http://maker.good.is/myLA2050live/projects/solarforsunnyla.html
   project_ids:
     - '6102257'
     - '4102243'
@@ -38,6 +39,7 @@ aggregated:
 year_submitted: '2016'
 calculated_project_ids:
   - '6102257'
+  - '4102040'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-sierra-club-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
 
