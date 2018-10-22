@@ -41,6 +41,7 @@ aggregated:
 year_submitted: '2015'
 calculated_project_ids:
   - '5102271'
+  - '4102193'
 youtube_video_identifier: iHlwRhoV_78
 cached_project_image: >-
   https://archive-assets.la2050.org/images/social-action-partners-soact/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg
