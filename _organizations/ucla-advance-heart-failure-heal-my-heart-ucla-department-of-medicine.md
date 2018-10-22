@@ -7,6 +7,10 @@ org_summary: >-
   UCLA Medicine and Undergraduate School collaborate to bring a comprehensive
   method of promoting healthy habits and better health to LA
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
+tags_indicators:
+  - Community health
+  - Fitness & sports
+  - Health
 organization_website: ''
 twitter: ''
 instagram: ''
@@ -23,7 +27,8 @@ project_titles:
     Making Los Angeles the most technologically progressive and healthy city in
     the country
 aggregated:
-  challenge_url: []
+  challenge_url:
+    - http://maker.good.is/myLA2050live/projects/start.html
   project_ids:
     - '4102179'
   year_submitted:
