@@ -824,7 +824,7 @@ function processFile(filename) {
       item.calculated_project_ids.forEach(project_id => {
         if (data.yaml.project_id == project_id) {
           if (text.indexOf(getStringForComparison(item.title)) < 0) {
-            suspectByTitle.push(item)
+            if (item.published) suspectByTitle.push(item)
           }
           if (item.organization_website && item.organization_website.length && item.organization_website.length > 0 && item.organization_website.forEach) {
             let found = false
@@ -833,9 +833,9 @@ function processFile(filename) {
                 found = true
               }
             })
-            if (!found) suspectByWebAddress.push(item)
+            if (!found && item.published) suspectByWebAddress.push(item)
           }
-          matches.push(item)
+          if (item.published) matches.push(item)
         }
       })
     } else {
@@ -844,8 +844,7 @@ function processFile(filename) {
   })
 
 
-  if (false) {
-  // if (suspectByWebAddress.length > 0 || suspectByTitle.length > 0) {
+  if (suspectByWebAddress.length > 0 || suspectByTitle.length > 0) {
     console.log("")
     console.log("*******")
     suspectByWebAddress.forEach(item => {
@@ -894,7 +893,7 @@ function processFile(filename) {
   }
 
 
-  if (matches.length == 0) {
+  if (data.yaml.published && matches.length == 0) {
     console.log("")
     console.log("________")
     console.log("Couldn’t find an organization that links to " + data.yaml.project_id + " :: " + data.yaml.title)
@@ -910,6 +909,7 @@ function processFile(filename) {
     console.log("Looking for candidate matches by web address…")
     let candidates = []
     organizationMarkdownFiles.forEach(item => {
+      if (!item.published) return
       if (item.organization_website && item.organization_website.length && item.organization_website.length > 0) {
         item.organization_website.forEach(website => {
           if (website.length > 5 && text.indexOf(getStringForComparison(website)) >= 0) {
@@ -951,7 +951,7 @@ function processFile(filename) {
     }
   }
 
-  if (matches.length > 1) {
+  if (data.yaml.published && matches.length > 1) {
     console.log("")
     console.log("$$$$$$$$$")
     console.log("Found multiple organization that link to " + data.yaml.project_id + " :: " + data.yaml.title)
