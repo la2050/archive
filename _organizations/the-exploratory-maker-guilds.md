@@ -1,6 +1,6 @@
 ---
-organization_id: '2014151__2'
-year_submitted: 2014
+organization_id: 'temporary__2014151__2'
+year_submitted: '2014'
 organization_name: 'The Exploratory: Maker Guilds'
 organization_website: ''
 ein: '522237551'
@@ -22,7 +22,8 @@ org_summary: >-
   The Exploratory: Maker Guilds prepares children to become innovative agents of
   their future through programming and curriculum development.
 areas_impacted: ''
-project_ids: '4102168'
+project_ids:
+  - '4102168'
 organization_id_2: '2014200'
 challenge_url: ''
 aggregated:
@@ -53,7 +54,7 @@ original_project_titles:
   - 'Tinker.Make.Innovate. Challenge '
 original_project_ids:
   - '4102211'
-calculate_project_ids:
+calculated_project_ids:
   - '4102211'
 project_titles_flagged: 1
 youtube_video_identifier: 7nv6O3U7szc

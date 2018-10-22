@@ -140,6 +140,10 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
+  // console.log("data.yaml.year_submitted: " + data.yaml.year_submitted)
+
+  if (data.yaml.published == false) return
+
   /*
   try {
   (function() {
@@ -310,6 +314,10 @@ function processFile(filename) {
       console.log("Checking 4102265")
     }
 
+    if (!data.yaml.project_ids || !data.yaml.project_ids.length) {
+      console.log("Found missing project_ids: " + data.yaml.organization_id + " :: " + data.yaml.title)
+    }
+
     data.yaml.project_ids.forEach(project_id => {
       if (item.project_id == project_id) {
         if (item.project_id == "4102265" && data.yaml.organization_id == "2018128") {
@@ -371,7 +379,7 @@ function processFile(filename) {
 
     // console.dir(project_ids)
 
-    data.yaml.calculated_project_ids = project_ids
+    // data.yaml.calculated_project_ids = project_ids
   }
 
 
@@ -428,9 +436,14 @@ function processFile(filename) {
   {% endcomment %}
   */
 
+  if (!data.yaml.year_submitted || data.yaml.year_submitted == null || data.yaml.year_submitted == "" || typeof(data.yaml.year_submitted) != "string") {
+    console.log("found missing year_submitted: " + data.yaml.organization_id + " :: " + data.yaml.title)
+  }
+  if (!data.yaml.title) {
+    console.log("found missing title: " + data.yaml.organization_id)
+  }
 
-
-  saveMarkdown(filename, data)
+  // saveMarkdown(filename, data)
 }
 
 
