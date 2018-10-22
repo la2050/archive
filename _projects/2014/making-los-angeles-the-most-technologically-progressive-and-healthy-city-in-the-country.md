@@ -1,10 +1,11 @@
 ---
 published: true
-organization_id: '2015216'
+organization_id: '2014216'
 year_submitted: 2014
 category: live
 body_class: lime
 project_id: '4102039'
+challenge_url: http://maker.good.is/myLA2050live/projects/start.html
 title: >-
   Making Los Angeles the most technologically progressive and healthy city in
   the country
