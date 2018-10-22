@@ -31,6 +31,7 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
+    - http://maker.good.is/myLA2050learn/projects/projectspin.html
   project_ids:
     - '8102075'
     - '4102174'
@@ -40,6 +41,7 @@ aggregated:
 year_submitted: '2018'
 calculated_project_ids:
   - '8102075'
+  - '4102223'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-lgbt-center/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
 
