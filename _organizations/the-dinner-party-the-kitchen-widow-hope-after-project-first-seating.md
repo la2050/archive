@@ -46,6 +46,7 @@ aggregated:
 year_submitted: '2015'
 calculated_project_ids:
   - '5102300'
+  - '4102210'
 youtube_video_identifier: YijVi1ZG5EM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-dinner-party-the-kitchen-widow-hope-after-project-first-seating/img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg

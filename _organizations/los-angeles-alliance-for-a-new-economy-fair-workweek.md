@@ -27,6 +27,7 @@ project_ids:
   - '8102072'
 project_titles:
   - Retail Workers “R” LA
+  - Turning food scraps into a resource for local farms good jobs renewable energy and zero waste.
 aggregated:
   challenge_url:
     - >-
@@ -47,6 +48,7 @@ year_submitted: '2018'
 calculated_project_ids:
   - '8102072'
   - '5102182'
+  - '4102249'
   - '3102182'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-alliance-for-a-new-economy-fair-workweek/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg

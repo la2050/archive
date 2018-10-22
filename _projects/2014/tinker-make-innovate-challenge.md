@@ -1,12 +1,13 @@
 ---
 published: true
-organization_id: '2014151'
+organization_id: 'temporary__2014151__2'
 year_submitted: 2014
 category: learn
 body_class: blueberry
 project_id: '4102211'
 title: Tinker.Make.Innovate. Challenge
 project_summary: "Our Challenge provides resources & training to educators to help their students showcase at the LA Convention Center.   \r\n"
+challenge_url: http://maker.good.is/myLA2050learn/projects/tinkermakeinnovate.html
 project_image: 'https://img.youtube.com/vi/7nv6O3U7szc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/7nv6O3U7szc'
 project_areas:
