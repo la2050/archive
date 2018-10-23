@@ -122,6 +122,13 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: "Social engagement has been proven to contribute to community health and sense of personal value and purpose. Public spaces with value added benefits such as social engagement will promote participation, volunteerism, public transportation usage to access venues as well as civic engagement and volunteerism.\r\n\r\nSuccessful social engagement will create a more integrated community.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Angelenos have long standing reputation of being disconnected from each other,

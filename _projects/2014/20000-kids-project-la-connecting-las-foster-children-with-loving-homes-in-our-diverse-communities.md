@@ -113,6 +113,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: >-
     This project meets two critically important metrics in the Connect
     application.  First, RAC’s Parent Advocate Program directly addresses

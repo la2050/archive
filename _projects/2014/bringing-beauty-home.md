@@ -129,6 +129,14 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: >-
     By streamlining the volunteer application and training process and creating
     an online scheduling system that meets the needs of those providing services

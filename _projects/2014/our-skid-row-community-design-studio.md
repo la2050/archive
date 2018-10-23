@@ -114,6 +114,9 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: >-
     Our Skid Row will create 3 new employment opportunities in the community
     design field, with at least one position for local residents.  This will be

@@ -116,6 +116,18 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - >-
+      The game BLOCK could be adapted to any environment, it would constitute a
+      framework for the study of urban health.
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "Some of the additional metrics to consider are the following:\r\n-Reduction of waste [OWN]\r\n-Ecological Awareness [OWN]\r\n-Local energy Collection [OWN]\r\n-Local Food production [OWN]\r\n-Interdependence coefficients. [OWN]\r\n-Walk/transit/bike score [CONNECT]\r\n-Median travel time to work [CONNECT]\r\n-Residential segregation [CONNECT]\r\n-Number of public transit riders [CONNECT]\r\n-Access to open space and park facilities [PLAY]\r\n-Percentage of residents that feel safe in their neighborhood [PLAY]\r\n-Employment in the creative industries [CREATE]\r\n-Concentration of manufacturing activity in LA [CREATE]\r\n-Number of high growth startups [CREATE]\r\n\r\nBy modelling the scenario in which these conditions emerge, we can design alternative patterns or implement local solutions. Often, many of the metrics can be improved by broadening the scope of the problem. BLOCK is based on an idea of ‘Systems Thinking’ that would encourage different actors to take action and get involved. An informed community is the best way to promote local innovation."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In the next year, LA Community Garden Council will help an additional 150

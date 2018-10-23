@@ -128,6 +128,14 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: >-
     We believe the content knowledge imparted by LASA is step one; step two is
     confidence-building about each student's place within the metropolis.  We

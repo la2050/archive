@@ -364,6 +364,30 @@ ${yaml.safeDump(data.yaml, options)}
 }
 
 
+const projectAreas2014 = [
+  "area_centralLA", 
+  "area_eastLA", 
+  "area_southLA", 
+  "area_sangabrielvalley", 
+  "area_sanfernandovalley", 
+  "area_southbay", 
+  "area_westside", 
+  "area_other", 
+  "area_other_blank"
+]
+
+
+const projectAreas2014Labels = {
+  "area_centralLA"        : "Central LA", 
+  "area_eastLA"           : "East LA", 
+  "area_southLA"          : "South LA", 
+  "area_sangabrielvalley" : "San Gabriel Valley", 
+  "area_sanfernandovalley": "San Fernando Valley", 
+  "area_southbay"         : "South Bay", 
+  "area_westside"         : "Westside"
+}
+
+
 const projectAreas2015 = [
   "Where will you be working? Central LA",
   "Where will you be working? East LA",
@@ -667,7 +691,7 @@ function processFile(filename) {
 
 
 
-
+  /*
   if (data.yaml.year_submitted == 2015) {
     let project_areas = []
     projectAreas2015.forEach(area => {
@@ -746,11 +770,106 @@ function processFile(filename) {
         data.yaml.category = category
       }
     })
-
-
-
   }
+  */
 
+
+
+  if (data.yaml.year_submitted == 2014) {
+
+    if (data.yaml.maker_answers["impact_LA_County"] == 1) {
+      data.yaml.maker_answers["Does your project impact Los Angeles County?"] = "Yes (benefits all of LA County)"
+    } else if (data.yaml.maker_answers["region_county"] == 1) {
+      data.yaml.maker_answers["Does your project impact Los Angeles County?"] = "Yes (benefits a region of LA County)"
+    } else if (data.yaml.maker_answers["population_county"] == 1) {
+      data.yaml.maker_answers["Does your project impact Los Angeles County?"] = "Yes (benefits a population of LA County)"
+    } else {
+      data.yaml.maker_answers["Does your project impact Los Angeles County?"] = "No"
+    }
+
+    let project_areas = []
+    projectAreas2014.forEach(area => {
+      // console.log(area)
+      if (data.yaml.maker_answers[area] == "1" && area != "area_other") {
+        project_areas.push(projectAreas2014Labels[area])
+        // console.log(area.replace("Where will you be working? ", ""))
+      } else if (area == "area_other_blank" && data.yaml.maker_answers[area] != "") {
+        project_areas.push(data.yaml.maker_answers[area])
+        // console.log(data.yaml.maker_answers[area])
+      }
+      // delete data[area]
+    })
+    // console.log("project_areas")
+    // console.dir(project_areas)
+    data.yaml.maker_answers["Which area(s) of LA does your project benefit?"] = project_areas
+
+
+
+    /*
+    let how_use_resources = []
+    useResources2015.forEach(area => {
+      // console.log(area)
+      if (data.yaml.maker_answers[area] == "1" && area != "How do you plan to use these resources to make change? Other") {
+        how_use_resources.push(area.replace("How do you plan to use these resources to make change? ", ""))
+        // console.log(area.replace("Where will you be working? ", ""))
+      } else if (area == "How do you plan to use these resources to make change? Specifics" && data.yaml.maker_answers[area] != "") {
+        how_use_resources.push(data.yaml.maker_answers[area])
+        // console.log(data.yaml.maker_answers[area])
+      }
+      // delete data[area]
+    })
+    // console.log("project_areas")
+    // console.dir(project_areas)
+    data.yaml.maker_answers["How do you plan to use these resources to make change?"] = how_use_resources
+    */
+
+
+    /*
+    let help_from_community = []
+    helpFromCommunity2015.forEach(area => {
+      // console.log(area)
+      if (data.yaml.maker_answers[area] == "1" && area != "How can the LA2050 community and other stakeholders help your proposal succeed? Other") {
+        help_from_community.push(area.replace("How can the LA2050 community and other stakeholders help your proposal succeed? ", ""))
+        // console.log(area.replace("Where will you be working? ", ""))
+      } else if (area == "How can the LA2050 community and other stakeholders help your proposal succeed? Specifics" && data.yaml.maker_answers[area] != "") {
+        help_from_community.push(data.yaml.maker_answers[area])
+        // console.log(data.yaml.maker_answers[area])
+      }
+      // delete data[area]
+    })
+    // console.log("project_areas")
+    // console.dir(project_areas)
+    data.yaml.maker_answers["How can the LA2050 community and other stakeholders help your proposal succeed?"] = help_from_community
+    */
+
+
+    /*
+    // delete data.yaml.maker_answers["How will your proposal improve the following “Create” metrics? "]
+    let improve_metrics = {}
+    categories.forEach(category => {
+      improve_metrics[category] = []
+
+      // https://stackoverflow.com/questions/1026069/how-do-i-make-the-first-letter-of-a-string-uppercase-in-javascript#1026087
+      let categoryCapitalized = category.charAt(0).toUpperCase() + category.slice(1);
+      let question = `How will your proposal improve the following “${categoryCapitalized}” metrics?`
+
+      improveMetrics2015.forEach(metric => {
+        if ((metric.split("? ")[0].trim() + "?").toLowerCase() == question.toLowerCase() && data.yaml.maker_answers[metric] == "1") {
+          let value = metric.split("? ")[1].trim()
+          if (value != "District-wide graduation rates") {
+            value = value.replace("District-wide graduation rates", "")
+          }
+          improve_metrics[category].push(value)
+        }
+      })
+      if (improve_metrics[category].length > 0) {
+        //console.dir(improve_metrics[category])
+        data.yaml.maker_answers[question] = improve_metrics[category]
+        data.yaml.category = category
+      }
+    })
+    */
+  }
 
 
 

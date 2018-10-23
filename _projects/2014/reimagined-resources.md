@@ -20,7 +20,7 @@ project_areas:
   - SOUTH BAY
 maker_answers:
   impact_play: "We already offer this experience to those we are able to find or who find us. We don't advertise. We are busy with events and educating teachers through word of mouth. Our programs work for the students, the teachers and they have a lasting impact according to the research collected over the last year with participants.\r\nWe have an open house on Sunday afternoons from Sept. to June where we invite the local community in Gardena to come to the warehouse and create what they are inspired to create and then take it home. There is a donation box out but there is no pressure to put anything in that box. Those who can do and those who can't take home their creation with our blessings. We would like to offer that experience to more communities."
-  name: Reimagined Resources
+  who_benefit: "We currently benefit the students who are on the free or reduced lunch program in schools all over this county and others. We travel to school we are invited to. Our demographic research from last year tells us:\r\nAfrican-American 10%\r\nAmerican Indian/Alaskan Native 1%\r\nAsian/Pacific Islander 6% \t\r\nCaucasian 9%\t  \t\r\nLatino/Hispanic 74%\r\nOne of our goals is the inspire more young girls to study science and engineering. The effect to date has been impressive and inspires us to continue to look for more schools to work with in more communities. We encourage family time in the warehouse. This isn't a drop off facility. Parents work with their children and families begin to work cooperatively. Friendships form around discovery and accomplishment. Failure is welcome and everyone is encouraged to fail and fail and learn from each failure the way scientists and researchers learn from their failures to inform their success. We encourage second chances for material and for people."
   City_State: 'Gardena, CA'
   org_name: Trash for Teaching
   org_website: TrashforTeaching.org
@@ -69,8 +69,8 @@ maker_answers:
     material to the public in areas where there are few family centered
     opportunities to explore the magic of STEAM!
   implement: "We will work with School districts and public parks to establish the first sites. We have already begun the process by engaging Kevin James in the Sanitation Department of LA City to explore locations in that region. We are reaching out to each school district, we currently work in many Title one schools to offer recycling education to students and faculty as well as offer professional development to a variety of regions for Common Core, project based learning and Next Generation Science Standards. \r\nWe have built three STEAM Labs to date, one in an expensive private school and two in public schools with room and very little budget. We engage the students in the design of the labs, labeling, shelving decisions and overall management of the lab is developed with the input of the students and teaching staff. Doing this in public areas would offer a broader reach to build community partners and engage the manufacturers and educators in a joint project to offer cost effective options to the creative and scientific minds in under-served populations.\r\n"
+  name: Reimagined Resources
   handle: reimaginedresources
-  who_benefit: "We currently benefit the students who are on the free or reduced lunch program in schools all over this county and others. We travel to school we are invited to. Our demographic research from last year tells us:\r\nAfrican-American 10%\r\nAmerican Indian/Alaskan Native 1%\r\nAsian/Pacific Islander 6% \t\r\nCaucasian 9%\t  \t\r\nLatino/Hispanic 74%\r\nOne of our goals is the inspire more young girls to study science and engineering. The effect to date has been impressive and inspires us to continue to look for more schools to work with in more communities. We encourage family time in the warehouse. This isn't a drop off facility. Parents work with their children and families begin to work cooperatively. Friendships form around discovery and accomplishment. Failure is welcome and everyone is encouraged to fail and fail and learn from each failure the way scientists and researchers learn from their failures to inform their success. We encourage second chances for material and for people."
   partners_collaboration: "The three factors that are key to our success are information, letting the public know it is there for them, access, having facilities and partners who can help fill them and volunteers who will help guide the explorations without directing them.\r\nWe currently work with Republic Services in the LAUSD Schools to offer recycling training in a fun relay program for students. We are planning to engage them further in this project to support the facilities and to advertise the program on their trucks driving all over LA County. \r\nWe are in talks with Kevin James at the LA Sanitation office to find locations and support in the effort to let manufacturers know about option for their waste materials and to inform the public of the opportunities. We will invite LAUSD to be part of the program also to inform the students of the opportunity to explore in the space and to volunteer in the space.\r\nThe only group we have not yet worked with is the Sanitation Dept. and our first meeting was scheduled for the day the water pipe broke in west LA. We are rescheduled for Aug. 6th in Kevin James office."
   metrics_play_openspace: '1'
   metrics_play_afterschool: '0'
@@ -120,6 +120,14 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: >-
     We will be a free, clean and imaginative space in open areas where there are
     not a lot of options for STEAM projects.

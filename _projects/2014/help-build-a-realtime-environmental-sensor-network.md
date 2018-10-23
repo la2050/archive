@@ -14,7 +14,7 @@ project_video: 'https://www.youtube.com/embed/Cb6MAN2lVkg'
 project_areas: []
 maker_answers:
   metrics_live_healthcare: '0'
-  city_state: los angeles
+  metrics_live_airtoxins: '1'
   org_website: 'http://safecast.org'
   org_twitter: '@safecast'
   org_facebook: 'http://www.facebook.com/safecast'
@@ -76,8 +76,8 @@ maker_answers:
     limited data with which to make decisions.
   partners_collaboration: For Los Angeles we won't need any partners to deploy this.
   metrics_live_healthyfood: '0'
+  city_state: los angeles
   org_name: Safecast
-  metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '0'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
@@ -141,6 +141,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: >-
     By giving people the best data about their environment making changes for
     the better of the entire region becomes easy.

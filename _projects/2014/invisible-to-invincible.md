@@ -112,6 +112,12 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: >-
     This campaign will impact various “LIVE” metrics, especially rates of
     homelessness. By continuing to create permanent housing opportunities for

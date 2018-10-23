@@ -131,6 +131,9 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - San Fernando Valley
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: >-
     MEND has become a recognized leader in providing basic services to only
     households below the self-sufficiency standard.  A holistic Health Clinic

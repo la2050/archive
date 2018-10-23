@@ -58,7 +58,7 @@ maker_answers:
     Black Caucus California Community College will continue helping us outreach
     to people of color to be active participants in the built environment as
     designers, architects, engineers, scientists and leaders.
-  about_you: CA
+  metrics_learn_earlyeducation: '0'
   org_website: www.LEARNandSERVEOER.com
   org_twitter: www.twitter.comLearnandServeOER
   org_facebook: www.facebook.comLearnandServeOER
@@ -160,10 +160,10 @@ maker_answers:
     ENCOUNTER projects connect multiple existing organizations that will bring
     the project to the next level financially, technologically and
     academically. 
+  about_you: CA
   org_name: >-
     Los Angeles Trade Technical College Architecture and Environmental Design
     Program
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
@@ -227,6 +227,16 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '0'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - Global
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: "By enabling ownership, community pride, mindful stewardship, collaboration strategies, and personal and professional empowerment, Architecture and Environmental Design will attract residents to work together, using existing resources to enhance:                                        \r\n•\tAccess to open space and park facilities through our virtual solution templates to be used by any business or organization in the neighborhood\r\n•\tNumber of children enrolled in afterschool programs attracted by the virtual tools that use the same language as video games. Synergetic Learning will share all information and results with afterschool program. \r\n•\tWorking close with all our partners we will be enhancing and beautifying the neighborhoods with parks, lights, benches, murals, drinking fountains and the percentage of residents who feel safe in their neighborhoods will escalate.\r\n•\tWorking close with our partners pedestrian paths will become nature walks which will enhance transportation experience for attendance at major league sporting events \r\n•\tWorking close with our partners we will design and build urban farming art constructs where residents within 1⁄4 mile of a park will walk and entertain in a healthy environment\r\n•\tNumber of residents with easy access to a “vibrant” park using our geospatial tools and virtualization capabilities to implement in a faster and agile way.\r\n•\tNumber of parks with intergenerational play opportunities \r\n•\tNumber (and quality) of informal spaces for play \r\n• \tDecrease per capita crime rates by having people engage through a path of discovery and innovation.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1.- Implement and establish a clear platform and branding for social media and

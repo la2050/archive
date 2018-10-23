@@ -109,6 +109,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "1. Employment in creative industries.  Direct impact.  Designs for QR codes.  Indirect impact.  Attention to the fine arts.\r\n\r\n2. Concentration of manufacturing activity in LA.  Direct impact.  Using sources in Los Angeles County, the manufacture of designs with QR codes from recycled material.\r\n\r\n3. Patents per capita.  Some design patents and a utility patent for WON.\r\n\r\n4. Jobs per capita.  Estimated 57 short-term jobs, as many as 3,000 long-term jobs.\r\n\r\n5. Minority- and women-owned firms.  Direct impact.  1. Contracting to such firms will be a priority.  2. Advertising for such firms through the QR codes.\r\n\r\n6. Measures of cultural and global economic influence (“soft power”) (Dream Metric).  Direct impact.  1. Delegations come to Los Angeles County to see how WON works.  2. Invitations to speak across America and around the world about WON.\r\n\r\n7. Recruiting and retention rates at local higher education institutions (Dream Metric).  Direct impact.  Through WON jobs.\r\n\r\n8. Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric).  Direct impact.  Through WON jobs.\r\n\r\n9. Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric) .  Direct impact through the Reintegration Academy, http://www.reintegrationacademy.org/ReintegrationAcademy.html ."
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   1. Meet with collaborators. 

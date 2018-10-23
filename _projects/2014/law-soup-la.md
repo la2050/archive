@@ -126,6 +126,16 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - L.A. County
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: "Because Law Soup LA will facilitate online and offline engagement in the community as well as democratic participation, the project will likely have the most direct impact on the above indicated metrics, though it may also have an indirect impact on those metrics not checked.\r\n\r\nFirst, as Angelenos begin accessing the website and learn about their rights and the legal and political system as a whole, those who have felt apathetic about voting due to a lack of knowledge will be more motivated to vote. Because minority groups generally have less access to such knowledge, these groups will be most significantly impacted by Law Soup LA, and thus voting rates by race will become less disparate.\r\n\r\nThe increased knowledge of the process and of the neighborhood council system in particular, as well as increased engagement in the democratic process through enabling community members to post proposed laws on the website will clearly increase participation in neighborhood councils.\r\n\r\nThe combination of increased voting and increased participation in neighborhood councils will very likely make government officials more responsive to residents’ needs. Indeed, robust participation in the proposed law section of the website in itself may put government officials on notice of the needs of users as identified on the website.\r\n\r\nAs Law Soup LA helps people become more knowledgeable, participate more in neighborhood councils, and become more aware of their ability to influence the creation of laws, this will naturally lead to more Angelenos becoming interested in volunteering on political and advocacy campaigns. The exposure to volunteering on campaigns will likely have a spillover effect to other types of volunteerism in the L.A. area, such as environmental cleanup projects and soup kitchens.\r\n\r\nLaw Soup LA will almost certainly have an impact on the amount of local social media friends Angelenos have as they meet and interact with members of the community on the site and through Law Soup LA’s facebook and twitter accounts. Because these interactions will be built around a positive and affirming environment that Law Soup LA will work to create, the online and offline friendships and connections created through the site will likely be beneficial and productive. This, in turn, will impact the metrics of adults getting sufficient emotional and social support, attendance at cultural events, and attendance at public/open street gatherings."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Law Soup LA is a web-based resource that provides news and information for

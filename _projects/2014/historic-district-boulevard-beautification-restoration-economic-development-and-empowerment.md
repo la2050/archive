@@ -187,6 +187,10 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - Connector for the West Side to Downtown LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: >-
     By empowering current residents and businesses, expanding  the range and 
     types of business, attracting new incubator activities and artistic

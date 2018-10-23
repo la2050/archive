@@ -114,6 +114,16 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - 'Northwest Pasadena, Altadena'
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "We will affect multiple metrics across the five categories: play, live, create, connect, and learn. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Original Green Community Food Hub helps low-income farm entrepreneurs

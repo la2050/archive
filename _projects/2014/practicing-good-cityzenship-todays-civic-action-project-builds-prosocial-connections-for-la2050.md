@@ -111,6 +111,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: "Civic Action Project provides quality instruction in government and social studies with an emphasis on participatory learning. Numerous studies, including the 2005 study we refer to in response to the prompt above (regarding how our proposal will make LA the best place to connect today and in 2050), have shown that this kind of curricular content has a demonstrable positive effect on students’ future behaviors and outlooks on civic engagement. Based on this research, we can confidently state that implementing CAP in 50 additional classrooms in the LA area will lead to increased volunteering, increased participation at public meetings and on neighborhood councils, as well as increased voter turnout despite statistical predictions based on race.\r\n\r\nCRF has served youth in the LA area and across the nation for more than 50 years. Civic Action Project, with its strong online learning component, is obviously a newer addition to our program offerings. Since its founding, all of CRF’s mission-driven programs have emphasized nonpartisan civic education and the importance of participation in democracy. Collectively, these programs have changed the lives of more than one million Los Angeles students over the last half-century. CRF alumni have gone on to become judges, public servants, and business and community leaders. Because CAP is a younger sibling to existing CRF programs, we have yet to fully experience impact of this uniquely potent program\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We imagine a vibrant LA2050 where strong social connectedness joins citizens

@@ -113,6 +113,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: >-
     In a recent article, "How to Save our Schools" regarding the importance of
     funding arts and music in public schools, a statistic that reinforces the

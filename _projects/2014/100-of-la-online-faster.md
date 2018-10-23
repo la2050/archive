@@ -20,7 +20,7 @@ project_areas:
   - SOUTH BAY
 maker_answers:
   metrics_connect_voting: '1'
-  city_state: 'Los Angeles, California'
+  metrics_connect_adultsupport: '1'
   org_website: DataRoads.org
   org_twitter: '@jared4dataroads'
   org_facebook: 'https://www.facebook.com/pages/Data-Roads-Foundation/538651086157796'
@@ -69,8 +69,8 @@ maker_answers:
   who_benefit: "LA area residents will benefit from faster Internet services at lower costs. Some families who couldn't afford any Internet access at all under cable and telco duopoly pricing will gain cost effective network access at home for the first time. \r\n\r\nThe poorest neighborhood families will receive network hardware and cooperative membership donations and subsidies, so that their home communications infrastructure can be built for them by local experts at little to no cost. \r\n\r\nLocal telecommunications experts will have a wider range of employment opportunities, in community-run networks closer to home.\r\n\r\nCivic and nonprofit institutions will benefit from more direct local constituent  access online. \r\n\r\nLocal businesses will benefit from more direct access to their customer base, with less costly and annoying dependencies on remote third party service providers.\r\n\r\nNew innovative startups will thrive in any area of LA where open Internet access is fast, cheap, and ubiquitous. Civic and social startups may see the most benefits from direct connections to potential customers nearby.\r\n\r\nLA tourism, especially by the well funded global digerati, will benefit from fast ubiquitous access in all the local vacation spots. Our great weather and global branding status will bring them in for vacation, but free WiFi and gigabit broadband will help keep them here while they work remotely."
   collaboration: "Any local nonprofit or government institution can transform their own offices, buildings, and campuses into institutional hubs for local community network mesh peer connections and online services. Modern low cost and power-sipping hardware designed for laptops and tablets can easily be transformed into core router and data services infrastructure, all at lower gross long-term costs than any remote Internet cloud services. These online services can be situated directly within the places where they are most used. This both lowers online request latency and increases service reliability. During disasters of any form, in situ renewable power generation and backup batteries can keep this community infrastructure operational while the metropolitan infrastructure is being restored. These institutions and services should always reside at the core of our community networks, not at remote data centers far north or east of Los Angeles County.\r\n\r\nOpen standards hardware and open source software vendors can each contribute to designs for low cost reliable community network infrastructure. Data Roads Foundation constituents in each community can serve as a \"standards group\", to determine the open standards most appropriate for implementation in their local area.\r\n\r\nData Roads Foundation is already partnering with several open source and mesh hardware projects like Internet-In-A-Box.org, Commotion Wireless, Freedom Stack, Freedom Box, Open Telco, Guardian Project,  Calyx Institute, and several open source mesh routing software projects. We are currently negotiating collaborations with several California based network hardware and maintenance service vendors. Anything that proprietary vendors refuse to provide can be created by and for ourselves, by using open technologies in our own communities."
   metrics_connect_volunteerism: '1'
+  city_state: 'Los Angeles, California'
   org_name: Data Roads Foundation
-  metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '1'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '1'
@@ -104,6 +104,16 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - NELA
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: "Pervasive Internet connectivity and local online community services affect every single metric in every LA 2050 goal. \r\n\r\nEven when workers do not telecommute from home, higher speed connections allow businesses to utilize coworking offices in multiple regions near transit hubs, which allow groups of workers to come together in places more convenient and transit friendly than any one office next to a full parking lot. \r\n\r\nThe net offsets to transportation system loads created by telecommuting and co-working hubs provide huge benefits to the local environment and infrastructure maintenance loads. \r\n\r\nStudies show that anyone who commutes more than 45 minutes in each direction is less satisfied with their life overall, so reduced congestion and less stressful commutes have positive effects on both home life and general productivity. Reducing commutes just 5 minutes each way gives a worker back up to 20 hours of their private life each year. Public transit commutes enabled by coworking hubs gives them much more time to read and have fun than sit behind a wheel. They are also much more likely to stay fit by walking or biking to their closest transit stops.\r\n\r\nCommunications networks are the backbone of every civic and business organizing effort in the city. This application process itself requires a computer with Internet access! \r\n\r\nCivic engagement, education, volunteerism, informed voters, government response time, employment, and socialization are all much easier to plan and coordinate online. None of this can happen for every LA citizen equally unless Internet access is ubiquitous to every home, family, and institution in the region."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Get 100% of LA online faster! Allow citizens, institutions, and small biz to

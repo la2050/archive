@@ -17,7 +17,21 @@ project_areas:
   - LA COUNTY
 maker_answers:
   impact_play: "Is the best place to play a place that fosters violence and cruelty, or one wherein compassion and empathy are commonplace?  \r\n\r\nFor years, both spcaLA and Salesian Boys & Girls Club have been empowering youth in at-risk communities to be compassionate leaders.  Now, two of Los Angeles’ finest nonprofit organizations have joined together to offer programming aimed at prevention and early intervention – of violence. \r\n\r\nOur two groups recently collaborated to offer spcaLA’s award-winning violence-prevention program, “Teaching Love & Compassion” (TLC) ™ at the Salesian Boys & Girls Club.  Kids in spcaLA TLC programs work to gain empathy, coping skills, and self-esteem through a pro-hero, anti-bullying curriculum involving work with shelter dogs.  Students take pre and post surveys to measure empathy, and invariably, empathy increases.  In fact, TLC has been so successful spcaLA worked with the Juvenile Division of the Los Angeles Superior Court and the Los Angeles District Attorney’s Office to offer a similar program as part of probation for some juvenile offenders (often convicted of bullying, assault, and animal cruelty offenses).  \r\n\r\nBut, despite the success of TLC at Salesian Boys & Girls Club, we want more. \r\n\r\nspcaLA and Salesian Boys & Girls Club want to rekindle empathy and break the cycle of violence on a larger scale. We envision a program that would take the successes of spcaLA’s violence-prevention programs to a wider audience – giving educators the tools to teach a humane education and violence prevention course, without the involvement of an animal shelter, its staff or animals.  \r\n\r\nWith your help, we will work to break the cycle of violence, and empower a generation of kids to be thought leaders in their communities.  We will help them to rekindle their empathy and speak up for those who have no voice.  We will prevent crime through compassion, and intervene before youthful transgressions become adult patterns of criminal behavior.\r\n\r\nIf we increase the level of empathy in a generation of children, they will be less likely to perpetrate or be convicted of violent crimes as juveniles and adults, making their communities safe places to play. They will stand up for the weak and victimized - reporting crime.  Further, through a childhood of involvement in community groups, like the Salesian Boys & Girls Club, Generation Empathy® kids will be civic leaders, committed to the improvement and revitalization of their neighborhoods. "
-  name: 'End Violence, Create Generation Empathy®'
+  who_benefit: >-
+    Partner organizations primarily serve the Boyle Heights community of Los
+    Angeles.  Demographically, Boyle Heights is a primarily Latino
+    (approximately 94%), young (median age 30 years) neighborhood.  Residents
+    have an increased likelihood not to have completed high school, and more of
+    the community lives below the poverty level, as compared to rest of Los
+    Angeles.  Further, the area reports a higher-than-average rate of violent
+    crime.   The initial target population for Generation Empathy® will be a few
+    groups of students at Salesian Boys & Girls Club.  Then, after pilot
+    testing, the target population will potentially grow to the 1,350 students
+    in Volunteers of America Head Start programs (ages 3-5), 200 students in St.
+    Mary’s and Resurrection schools (K-8), and 3,000 students in “After the
+    Bell” at Roosevelt High School.  Generation Empathy® can be further offered
+    to school districts, early education centers, clubs and other institutions
+    locally and nationally. 
   City_State: Los Angeles
   org_name: spcaLA
   org_website: www.spcaLA.com
@@ -64,22 +78,8 @@ maker_answers:
     classroom, based on spcaLA’s award-winning Teaching Love and Compassion
     (TLC) ™ program.
   implement: "1.\tDevelop and finalize Generation Empathy® curriculum, for several age groups. (by spcaLA)\r\n2.\tHire and train 2-4 spcaLA Generation Empathy® educators, operate pilots at programs run by the Salesian Boys & Girls Club for several age groups. (by spcaLA & Salesian Boys & Girls Club)\r\n3.\tAnalyze pilot programs and plan for implementation of the program on wider scale. (by spcaLA & Salesian Boys & Girls Club)\r\n4.\tspcaLA teaches educators at partner organizations (Roosevelt High School, Volunteers of America Head Start programs, St. Mary’s school, and Salesian Boys & Girls Club) how to operate a Generation Empathy® program and/or operates programs at those locations.\r\n5.\tAnalyze programs in Boyle Heights and secure new educator relationships. (by spcaLA, Salesian Boys & Girls Club, & partner organizations)\r\n6.\tCreate and execute a plan for implementation of the program in more areas of California, and then nationally and internationally. (by spcaLA and Salesian Boys & Girls Club)\r\n"
+  name: 'End Violence, Create Generation Empathy®'
   handle: generationempathy
-  who_benefit: >-
-    Partner organizations primarily serve the Boyle Heights community of Los
-    Angeles.  Demographically, Boyle Heights is a primarily Latino
-    (approximately 94%), young (median age 30 years) neighborhood.  Residents
-    have an increased likelihood not to have completed high school, and more of
-    the community lives below the poverty level, as compared to rest of Los
-    Angeles.  Further, the area reports a higher-than-average rate of violent
-    crime.   The initial target population for Generation Empathy® will be a few
-    groups of students at Salesian Boys & Girls Club.  Then, after pilot
-    testing, the target population will potentially grow to the 1,350 students
-    in Volunteers of America Head Start programs (ages 3-5), 200 students in St.
-    Mary’s and Resurrection schools (K-8), and 3,000 students in “After the
-    Bell” at Roosevelt High School.  Generation Empathy® can be further offered
-    to school districts, early education centers, clubs and other institutions
-    locally and nationally. 
   partners_collaboration: "Partner:\r\nSalesian Boys & Girls Club of Los Angeles has been inspiring and enabling the young people of East Los Angeles and the surrounding communities to realize their full potential as productive, responsible and caring citizens, and supporting their families in this effort since 1966 (Tax ID 95-2430743).  spcaLA has been working with Salesian Boys & Girls Club for some time, to weave violence-prevention lessons into ongoing programs.\r\n\r\nThree factors critical to the success of our proposed collaboration.\r\n1.  Common goals - to help rekindle empathy in a generation of youth.\r\n2.  Proven track record - spcaLA and Salesian Boys & Girls Club work well together to offer violence-prevention programs.\r\n3.  Community involvement - the partnership and potential program is supported by the Boyle Heights Neighborhood Coalition, affording Generation Empathy® the support of the Boyle Heights community at large.\r\n\r\nCollaborators - Salesian Boys & Girls Club has ongoing relationship with collaborator organizations, who serve the greater Boyle Heights area.\r\n\r\nVolunteers of America\r\nSaint Mary’s Church\r\nResurrection Church\r\nBoyle Heights Neighborhood Coalition\r\nRoosevelt High School \r\n"
   metrics_play_openspace: '0'
   metrics_play_afterschool: '1'
@@ -122,6 +122,12 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - South LA
+    - >-
+      Our pilot program will be in the Boyle Heights area, then expand to
+      greater Los Angeles, and beyond.
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
   impact_metrics: "After School Programs: The pilot Generation Empathy® program will be held at the Salesian Boys & Girls Club (most offerings are over the summer or after-school), and the success of the program will help to enroll more kids in similar programs.  \r\n\r\nPer capita crimes: If the program is successful in reigniting empathy in a generation of young people, they will break the cycle of violence, and be less likely to commit violent crime.  Further, they will be more likely to want to stand up for those who are victimized or hurt, and may be more likely to intervene and/or report crime happening in their neighborhoods.  \r\n\r\nPercentage of residents that feel safe in their neighborhoods: communities in which a generation of youth is comprised of compassionate individuals will lead to more people feeling safe in their neighborhoods.  Not only will these youths be less likely to commit crime, and more likely to intervene when they see it happening, they will also have the added benefit of understanding the importance of proper pet care and animal handling.  They will know how to correctly handle the issues of stray or dangerous animals.  As adults, they will be more likely to have their pets spayed/neutered, and will be more likely to treat pets as members of the family. \r\nBryant Empathy Index: students who participate in Generation Empathy® will express a higher degree of capacity after having completed it (pre-/post- surveys)"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1. Develop and finalize Generation Empathy® curriculum, for several age

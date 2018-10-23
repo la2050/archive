@@ -16,7 +16,7 @@ project_areas:
   - SOUTH BAY
 maker_answers:
   metrics_connect_voting: '0'
-  city_state: 'Los Angeles, California'
+  metrics_connect_adultsupport: '1'
   org_website: www.sbssla.org
   org_twitter: 'https://twitter.com/SBSSla'
   org_facebook: 'https://www.facebook.com/SBSSla'
@@ -72,8 +72,8 @@ maker_answers:
     bringing together over 50 organizations and individuals working together on
     policy issues impacting the lives of older adult residents of Los Angeles.
   metrics_connect_volunteerism: '1'
+  city_state: 'Los Angeles, California'
   org_name: St. Barnabas Senior Services aka St. Barnabas Senior Center
-  metrics_connect_adultsupport: '1'
   metrics_connect_traveltime: '0'
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
@@ -118,6 +118,10 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - 'Mid-City MacArthur Park Area, Hollywood and Echo Park'
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
   impact_metrics: >-
     The AGEnts for Change Initiative is a volunteer intensive program and
     through its efforts will increase the number of seniors involved as

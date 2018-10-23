@@ -115,6 +115,16 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - LA County
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: >-
     Surveys will be issued to members of the Civic LA community to identify
     their initial civic participation patterns, attitudes, perceptions,

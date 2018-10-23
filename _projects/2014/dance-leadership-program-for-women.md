@@ -119,6 +119,9 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: >-
     We are creating new avenues for aspiring dancers - of affordable
     professional development and income opportunities. We are providing a venue

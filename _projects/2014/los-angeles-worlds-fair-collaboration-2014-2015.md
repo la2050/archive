@@ -103,6 +103,19 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - >-
+      The project will reach out to communities around the County.  The LAWF
+      will develop hub and satellite fairgrounds distributed around the region
+      in close proximity to over 130 communities and 88 cities in the County.
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: "During the first year volunteers and collaborators in the enterprise will contribute toward making LA the best place to Contact people in the local, national and international communities throughout the Greater Los Angeles region.  The enterprise will contact chambers, councils, associations, volunteer organizations, schools and colleges, public officials, and social media friends to attend public gatherings, presentations, and cultural events which promote the LAWF. These activities will have impacts on the metrics, as follows:\r\n\r\n1.\t LA Metro officials will be contacted to obtain support and collaboration in acquiring property and development of fairgrounds at and around Metro Rail and Metro Link stations in the region and increase public transit access. \r\n2.\t Government leaders and officials will be contacted to obtain support and collaboration in promoting community events and improvements associated with fairgrounds.  \r\n3.\tCivic meetings will be scheduled to attract greater public participation in the enterprise. \r\n4.\tEthnic and minority communities will be enlisted to collaborate in the scheduling events, and in the planning and development process.  \r\n5.\tLocal ballot measures will be suggested to engage communities to support the acquisition of land and fund development of community facilities associated with the enterprise.  \r\n6.\tAffordable housing development close to fairgrounds and accessible to public transit and employment will be incorporated into the enterprise plan.\r\n\r\nIn subsequent years the enterprise will make significant contributions toward making LA the best place to Create, Learn, Connect, Live and Play.  The LAWF will have impacts on the metrics, as follows:  \r\n1.\tA source of inspiration for students to pursue creative careers; \r\n2.\tAffordable and safe homes, neighborhoods and playgrounds;\r\n3.\tGreater cultural exchange with other parts of the World;\r\n4.\tAttract many start-up and existing creative industries. \r\n5.\tSupport growth of arts oriented businesses and manufacturers; \r\n6.\tEncourage and exhibit innovation and associated patents;  \r\n7.\tNumerous venture capital investment opportunities; \r\n8.\tHave a profound impact on global culture and economy through worldwide collaborations; \r\n9.\tServe as a spring board for health education and awareness by featuring advances in healthcare, mental wellness, spiritual healing, and healthy foods; \r\n10.\tVibrant park and play space accessible to every child for afterschool and vacation enrichment programs."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A. Connect the dots between communities and cities in this region using the

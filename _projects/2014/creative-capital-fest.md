@@ -99,6 +99,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "Creative Capital Fest will help to achieve almost all of the LA2050 \"Create\" Metrics by attracting creative leaders to Los Angeles, showcasing LA's creative industries, connecting entrepreneurs and startups with investors and resources, and  inspiring and connecting LA-based students with opportunities in LA's creative industries.\r\n\r\nSocial impact will be at the core of this festival, and we will work hand in hand with organizations and social innovators working to create opportunities for the formerly incarcerated and other underprivileged constituencies in Los Angeles. As the most diverse city on the planet, it's crucial that this is also an event that showcases and supports minorities and women that are looking to achieve their dreams in LA. We will look to partner with creative impact-oriented organizations that are looking to create engaging experiences for festival attendees, and deliver funds to innovative organizations and social entrepreneurs via Creative Capital Grants. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Creative Capital Fest will be a world class music, technology, and arts

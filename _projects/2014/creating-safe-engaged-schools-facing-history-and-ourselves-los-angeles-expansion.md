@@ -20,7 +20,7 @@ project_areas:
   - SFV
 maker_answers:
   collaboration: "We launched the LA Partnership Schools Network in response to a need from teachers to collaborate and build bridges among the diverse communities that make up Los Angeles. Our primary partnership is with each individual school, including a contractual agreement signed by an administrator and designated teacher liaison on campus. Facing History staff work with faculty at each school to integrate our program across grades and disciplines. Clear contracting, high-fidelity implementation and sustainability planning are all critical elements of a successful collaboration.\r\n\r\nLast year we added seven middle schools to the Partnership Schools Network through a pilot project focused on school-wide anti-bullying practices. The project was conducted with support from the Los Angeles Fund for Public Education and Youth Policy Institute (YPI). YPI contracted with Facing History to provide in-depth professional development for schools in Hollywood and Pacoima, high-poverty areas of federal revitalization focus, as part of its $30 million grant from the U.S. Department of Education for the Los Angeles Promise Neighborhood initiative.\r\n\r\nIn addition to the work with individual schools, we convene teachers, administrators, students and parents from partner schools across Los Angeles, both in person and online. Teachers, who too often work in isolation, can now regularly connect with educators from other schools who face similar challenges. Collaboration and idea-sharing within the network has been greatly enhanced through the Los Angeles Network blog (lanetwork.facinghistory.org). The blog provides a flexible forum for educators and Facing History staff to share ideas, challenges, and solutions for addressing issues they confront in the classroom. This online community serves as a networking tool for teachers within and beyond the Los Angeles Partnership Schools Network. \r\n\r\nFacing History is investing significantly in a core group of exemplary Facing History educators to serve as mentors for other teachers in Los Angeles. Teacher leaders are early adopters in piloting Facing History’s new resources, and are instrumental in supporting liaisons from the Los Angeles Partnership Network. Collaboration with our teacher leaders is a critical factor in helping Facing History respond to the needs of teachers, build stronger school-wide programs, and continue expanding to more urban schools. \r\n"
-  about_you: 'Los Angeles, CA'
+  metrics_learn_earlyeducation: '0'
   org_website: www.facinghistory.org
   org_twitter: www.twitter.com/FacingHistory
   org_facebook: www.facebook.com/FacingHistory
@@ -82,8 +82,8 @@ maker_answers:
     Angeles Unified School District (LAUSD). Seven middle schools joined the
     network this past year through a pilot project focused on school-wide
     anti-bullying practices. 
+  about_you: 'Los Angeles, CA'
   org_name: Facing History and Ourselves
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
@@ -121,6 +121,12 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Fernando Valley
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: "Facing History’s impact has been documented through more than 140 evaluation studies, including quasi-experimental studies and peer reviewed randomized controlled trials. Results prove that our program improves students’ academic engagement, critical-thinking skills and historical understanding, encourages civic participation, and creates safe and engaging classroom and whole-school environments. Definitive evidence shows that Facing History helps to create effective teachers who improve their students’ academic performance and civic learning.  Educational leaders, funders, and the federal government are looking for ways to transform education by promoting teacher effectiveness, which a growing body of research confirms is a strong factor in student achievement.\r\n\r\nStudies show that our impact is sustained throughout a teacher's career, despite transitions across grade levels and schools. Each teacher reaches an average of 100 students annually. A greater sense of self-efficacy and commitment to teaching translates to higher rates of teacher retention and better outcomes for students, benefits from which will be realized over many years.\r\n\r\nThe Progress of Education Reform lists Facing History as an exemplar of one of six proven educational practices that promote student civic knowledge, skills, and dispositions. The Social Impact 100, a giving platform that spotlights evidence-based U.S. nonprofits with the potential to grow, named Facing History one of 100 nonprofits that address the country’s most pressing issues in education, health, youth, and poverty. Charity Navigator has, for the third consecutive year, given Facing History a four-star rating, which it awards to organizations that exceed industry standards and outperform most other charities in their field.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Facing History reaches students through their teachers, providing professional

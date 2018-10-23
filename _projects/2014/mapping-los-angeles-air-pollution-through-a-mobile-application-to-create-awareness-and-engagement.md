@@ -119,6 +119,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "Exposure to air toxins will be reduced as people are given tips on how to reduce their exposure to poor quality based on the AQ information provided by monitoring stations in Los Angeles. Sensitive populations will be identified based on real-time AQ and targeted heath advice and tips to mitigate exposure will be provided through MyAir LA. \r\n\r\nOver time, toxic releases are also expected to go down as facilities in the Los Angeles are forced to adopt cleaner and more environmentally friendly practices, as information about toxic releases is more widely available. This would result in further improving the air in Los Angeles. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   With a population of close to 4 million individuals, it is a stretch to make

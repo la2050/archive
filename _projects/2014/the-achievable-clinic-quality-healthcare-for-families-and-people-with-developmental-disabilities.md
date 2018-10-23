@@ -148,6 +148,9 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - 'Although based in Culver City, we serve families across LA County.'
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
   impact_metrics: "We will improve access to healthcare by being able to serve thousands of clients via our FQHC clinic with enhanced Special Population status allowing for possibly more funding and technical assistance as we implement our clinical care model.\r\n\r\nWe can address the obesity crisis by working with more clients and families in our patient centered medical home model.  Individuals with developmental disabilities have numerous complex health care needs and experience poorer health than the general population, including disproportionately high incidence of chronic conditions and preventable mortality.    \r\n\r\nAlthough state and federally-supported Community Health Center programs provide significant support for meeting the needs of many vulnerable populations, there is no specific framework for addressing the unique challenges posed in serving a patient base made up primarily of individuals with developmental disabilities.\r\n\r\nWe also address the mental health issues via our specialists in mental health through our UCLA and Cedars partnerships with their specialty care clinicians working at our clinic.  Collaborating with the Regional Centers also allows for better coordination of services, including various social needs such as housing assistance and job support and independent living skills offered by our partners at Westside Regional Center."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The NEP has been part of SCC’s primary services since September 2013.

@@ -3,16 +3,17 @@
 <h3>In one sentence, please describe your idea or project.</h3>
 {{ page.maker_answers.describe_idea | markdownify }}
 
-{% comment %}
-<h3>Does your project impact Los Angeles County? Check only one.</h3>
+{% if page.maker_answers['Does your project impact Los Angeles County?'] != "No" %}
+<h3>Does your project impact Los Angeles County?</h3>
+{{ page.maker_answers['Does your project impact Los Angeles County?'] }}
+{% endif %}
 
-
-<h3>Which area(s) of LA does your project benefit? Check all that apply.</h3>
-
-
-<h3>If other, please specify.:</h3>
-
-{% endcomment %}
+<h3>Which area(s) of LA does your project benefit?</h3>
+<ul>
+  {% for area in page.maker_answers["Which area(s) of LA does your project benefit?"] %}
+  <li>{{ area }}</li>
+  {% endfor %}
+</ul>
 
 <h3>What is your idea/project in more detail?</h3>
 {{ page.maker_answers.more_detail | markdownify }}

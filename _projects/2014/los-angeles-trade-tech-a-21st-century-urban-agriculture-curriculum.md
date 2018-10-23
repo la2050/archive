@@ -157,6 +157,11 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: >-
     Our chosen goal is ushering life into a healthier LA, by promoting “food
     economy that promotes wellness and health” by converting existing sites into

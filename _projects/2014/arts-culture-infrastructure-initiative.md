@@ -137,6 +137,9 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - All of LA County
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: >-
     Our Arts Census tracks the arts participation behavior of over 4 million
     unique households. We can track, over time, an increase in participation and

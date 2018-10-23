@@ -143,6 +143,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "# of artists enrolled in creation for sustainability hub \r\nmetrics of outreach to artists\r\nmetrics of outreach to public \r\nmetrics of engagement of artists \r\n# of art creations on sustainability produced\r\nglobal hits on artists for sustainability hub \r\nFederal grants obtained to support artists and projects \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   earthprotect.com already has a hub web site focused on sustainability with

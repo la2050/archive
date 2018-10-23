@@ -131,6 +131,14 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: "Jenesse’s project will engage youth on every level through education, volunteerism, and social media. By providing youth with the tools they need to break the cycle of abuse, we are putting them on a pathway to healthy relationships, educational success and productive goals. Also, we are training the next generation of  leaders who will use all the methods available to  them --- both online and off --- to engage their peers to become involved with this project. The culture of the target group of youth is shifting and will continue to shift from a veil of silence to a bullhorn of communication. It is “cool” for this group to: talk about, hold each other accountable, know early on the signs, understand options of what to do and where to go at an early age for help, readily discuss and engage themselves in scenarios when they see their peers in trouble instead of “turning a blind eye”.\r\n\r\nIn addition, by engaging young boys and men we are redefining ideas of masculinity in ways that empower them to be their best selves.  \r\n\r\n \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Jenesse’s focus on youth is a critical aspect of our prevention strategy to

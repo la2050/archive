@@ -108,6 +108,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "Our “School is Cool” initiative is a prime example of how to positively influence and encourage at-risk students to value education! Along with our programs targeted to motivate all students to achieve academic success, we reach out to the entire community promoting the importance of building a positive school environment. This, in turn, promotes academic achievement with the end result of high school graduation, college and career readiness. \r\n\r\nSo far, our program has demonstrated significant improvements in Proficient/Advanced attendance rates at the school wide, K-12, level including both gender and ethnicity. Involving families and members of the community helps to create an overall excitement and buzz among the students and their schools! In the past, we've been able to donate laptops to students graduating from high school who pursue a college education and we have currently added a reward for perfect attendance with wireless tablets that are PERFECT for continued learning while away from school. Creating the desire to learn by providing opportunities for at-risk students to win cool prizes motivates our students to work hard and earn their reward with respect and dignity!\r\n\r\nThinking about Tomorrow is an organization committed to excellence and holding true to a clear vision and passion for delivering outstanding results with every effort we undertake. Over the years, we have proven the effectiveness of youth leadership development. Our community led programs, developed and managed by a community for a community, make a striking impact on our students. We believe in alternative education and youth leadership development, especially for those from underrepresented minority communities!"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   @Thinkingabout2morrow reaches out to ALL students to promote & #encourage

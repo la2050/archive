@@ -106,6 +106,9 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - East LA
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
   impact_metrics: >-
     Please refer to the following question regarding evaluation, which addresses
     the above metrics comprehensively.

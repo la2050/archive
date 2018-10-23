@@ -99,6 +99,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
   impact_metrics: >-
     The Women's Center for Creative Work would be another exciting arts and
     cultural organization in Los Angeles. It would directly create jobs within

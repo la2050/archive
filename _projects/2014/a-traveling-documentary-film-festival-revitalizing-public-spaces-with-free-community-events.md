@@ -136,6 +136,16 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - Santa Clara and Boyle Heights
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: "Ambulante USA in the California context seeks to integrate its participatory platform with the diverse ecosystem of sub-cultures found within the sprawling and decentralized population to foster artistic expression and connect communities.  Today, there is strong desire to link the fragmented in Greater Area of Los Angeles. There is no other traveling film festival in Los Angeles that reaches out directly to low income communities and the general public to bring a relevant curation of non-fiction film programming for free. Since the nature of the festival is to be constantly in motion, the vast potential to reach diverse, multicultural and fragmented audiences is particularly potent.  Another unique aspect of Ambulante California is that it is by nature inclusive. Ambulante’s amorphous virtue and open sourced development consistently forges mutually beneficial collaborations with local, private and public organizations. \r\n\r\nAlthough a number of film festivals in Los Angeles offer outdoor free community screenings as part of the overall program, this is the main component of Ambulante USA and Ambulante California.\r\n\r\nAmbulante California offers an entertaining, stimulating, thought provoking and educational movie-going alternative to the limited choices found in commercial outlets, especially for working class families and low to moderate income communities in Los Angeles.  \r\n\r\nThe festival tour may take place once a year but the nonprofit’s plans include a year round program of monthly screenings, on a smaller scale, with local community and institutes. The intention is to create a movement in Los Angeles of Ambulate residents that can share by the power of documentary cinema, that can discover new public spaces by attending screenings in safe and makeshift public spaces, and that are transform by the dialogue generated in their own communities.\r\n\r\nThe participation of each site we visit includes not just audience engagement but volunteers from each area.  Our volunteers are trained and given a level of independence, confidence and boosts of morale.  We attract young go-getters and older film lovers as volunteers.  Our films are family driven but are also emotional which can really affect adults. \r\n\r\nAmbulante California does not impose any ideas or restrictions on the communities it enters, creating a safe space for people of all races, genders, sexual orientations, and socioeconomic backgrounds to participate in important dialogues.\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): Santa Clara and Boyle Heights
 What is your idea/project in more detail?: >-
