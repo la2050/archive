@@ -5,8 +5,10 @@
 {{ page.maker_answers["In one sentence, please describe what your organization does"] | markdownify }}
 {% endcomment %}
 
+{% comment %}
 <h3>In one to three sentences, please describe your proposal.</h3>
 {{ page.maker_answers["In one to three sentences, please describe your proposal."] | markdownify }}
+{% endcomment %}
 
 <h3>In what areas of Los Angeles will you be directly working?</h3>
 <ul>
@@ -23,7 +25,7 @@
 </ul>
 
 {% if page.maker_answers["How will your proposal improve the following “Learn” metrics?"] and page.maker_answers["How will your proposal improve the following “Learn” metrics?"].size > 0 %}
-<h3>How will your proposal improve the following “Create” metrics?</h3>
+<h3>How will your proposal improve the following “Learn” metrics?</h3>
 <ul>
   {% for metric in page.maker_answers["How will your proposal improve the following “Learn” metrics?"] %}
   <li>{{ metric }}</li>
@@ -37,21 +39,21 @@
   {% endfor %}
 </ul>
 {% elsif page.maker_answers["How will your proposal improve the following “Play” metrics?"] and page.maker_answers["How will your proposal improve the following “Play” metrics?"].size > 0 %}
-<h3>How will your proposal improve the following “Create” metrics?</h3>
+<h3>How will your proposal improve the following “Play” metrics?</h3>
 <ul>
   {% for metric in page.maker_answers["How will your proposal improve the following “Play” metrics?"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
 {% elsif page.maker_answers["How will your proposal improve the following “Connect” metrics?"] and page.maker_answers["How will your proposal improve the following “Connect” metrics?"].size > 0 %}
-<h3>How will your proposal improve the following “Create” metrics?</h3>
+<h3>How will your proposal improve the following “Connect” metrics?</h3>
 <ul>
   {% for metric in page.maker_answers["How will your proposal improve the following “Connect” metrics?"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
 {% elsif page.maker_answers["How will your proposal improve the following “Live” metrics?"] and page.maker_answers["How will your proposal improve the following “Live” metrics?"].size > 0 %}
-<h3>How will your proposal improve the following “Create” metrics?</h3>
+<h3>How will your proposal improve the following “Live” metrics?</h3>
 <ul>
   {% for metric in page.maker_answers["How will your proposal improve the following “Live” metrics?"] %}
   <li>{{ metric }}</li>
