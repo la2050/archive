@@ -19,7 +19,7 @@ project_areas:
   - Central LA
   - San Gabriel Valley
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: California Grantmakers
   Organization(s) name(s): Levitt Pavilion Greater Los Angeles & Pasadena
   Organization(s) mailing address(es): '1499 Huntington Dr, #305, South Pasadena, CA 91030'

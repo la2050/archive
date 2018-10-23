@@ -24,7 +24,7 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Chronicle of Philanthropy; other community partners
   Organization(s) name(s): People for Parks
   Organization(s) mailing address(es): "7119 W. Sunset Blvd., #512 \r\nLos Angeles, CA 90046"

@@ -18,7 +18,7 @@ project_video: 'https://www.youtube.com/embed/YufCYg-BYaY'
 project_areas:
   - County of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Colleague
   Organization(s) name(s): 'Bruce Lee Foundation '
   Organization(s) mailing address(es): "11693 San Vicente Blvd\r\nSuite 918\r\nLos Angeles, CA 90049"

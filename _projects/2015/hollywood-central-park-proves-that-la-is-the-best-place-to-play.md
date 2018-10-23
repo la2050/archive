@@ -19,7 +19,7 @@ project_video: 'https://www.youtube.com/embed/t_fQo1Z6VSg'
 project_areas:
   - Central LA
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How did you hear about this challenge?: LA n Sync email
   Organization(s) name(s): Friends of the Hollywood Central Park (FHCP)
   Organization(s) mailing address(es): '1680 N. Vine Street, Suite 1000, Los Angeles, CA 90028'

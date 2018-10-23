@@ -18,7 +18,7 @@ project_video: 'https://www.youtube.com/embed/JrkPrBnN4UI'
 project_areas:
   - San Fernando Valley
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Google
   Organization(s) name(s): Adventure Playhouse Indoor Activity Center
   Organization(s) mailing address(es): "1116 San Fernando Rd.\r\nSan Fernando, Ca 91340"

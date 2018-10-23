@@ -29,7 +29,7 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: From a fellow Rotarian
   Organization(s) name(s): Knucklebones
   Organization(s) mailing address(es): "460 South Spring Street\r\nSuite 618\r\nLos Angeles CA 90013"

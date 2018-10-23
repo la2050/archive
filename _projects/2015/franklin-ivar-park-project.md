@@ -18,7 +18,7 @@ project_image: >-
 project_areas:
   - Central LA
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How did you hear about this challenge?: colleague
   Organization(s) name(s): Mountains Recreation and Conservation Authority
   Organization(s) mailing address(es): "570 West Avenue 26, Suite 100\r\nLos Angeles, CA 90065"

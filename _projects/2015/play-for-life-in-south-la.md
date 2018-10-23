@@ -20,7 +20,7 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How did you hear about this challenge?: Radio - NPR
   Organization(s) name(s): A Place Called Home
   Organization(s) mailing address(es): '2830 S Central Ave. Los Angeles, CA 90011'

@@ -22,7 +22,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Email from a friend
   Organization(s) name(s): SCV Adventure Play
   Organization(s) mailing address(es): "30651 Arlington Street\r\nVal Verde, CA 91384"

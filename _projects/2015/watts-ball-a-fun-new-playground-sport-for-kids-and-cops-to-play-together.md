@@ -15,7 +15,7 @@ project_video: 'https://www.youtube.com/embed/XYkDHo1jJ1c'
 project_areas:
   - South LA
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How did you hear about this challenge?: Friend
   Organization(s) name(s): Wise Guys Events
   Organization(s) mailing address(es): "3430 Centinela\r\nLos Angeles CA 90066"
