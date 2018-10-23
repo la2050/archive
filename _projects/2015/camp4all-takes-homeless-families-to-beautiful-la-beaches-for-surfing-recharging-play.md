@@ -117,6 +117,7 @@ maker_answers:
     - Community outreach
     - Network/relationship support
   How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
     - Take an additional 500 homeless "campers" through our Camp4All Program
   Where will you be working?:
     - Central LA

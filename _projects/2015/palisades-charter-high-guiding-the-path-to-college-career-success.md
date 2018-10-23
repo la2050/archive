@@ -100,6 +100,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
     - Mobilize for systems change
   Where will you be working?:
     - Palisades Charter High School; Pacific Palisades; LA County
@@ -117,7 +118,7 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics?:
     - Youth unemployment and underemployment
     - District-wide graduation rates
-    - District-wide graduation ratesCollege matriculation rates
+    - College matriculation rates
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

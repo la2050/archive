@@ -102,6 +102,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - Central LA
     - East LA

@@ -93,6 +93,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
   Where will you be working?:
     - East LA
     - South LA

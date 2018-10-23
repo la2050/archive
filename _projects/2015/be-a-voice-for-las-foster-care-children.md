@@ -104,6 +104,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - >-
       Recruit and train Angelenos to advocate for our city's most vulnerable
       children.

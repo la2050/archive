@@ -117,7 +117,7 @@ maker_answers:
       Percent of community college students completing a certificate, degree, or
       transfer-related program in six years
     - Youth unemployment and underemployment
-    - District-wide graduation ratesCollege matriculation rates
+    - College matriculation rates
     - >-
       Students perceived sense of safety at and on the way to school (Dream
       Metric)

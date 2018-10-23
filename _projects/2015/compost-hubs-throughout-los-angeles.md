@@ -109,6 +109,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
     - Advocate with policymakers and leaders
     - Implement and track policy

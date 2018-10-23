@@ -95,6 +95,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
   Where will you be working?:
     - County of Los Angeles
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: 'Host meaningful, career-directed internships for our CSP youth'
@@ -113,10 +114,8 @@ maker_answers:
       Percent of community college students completing a certificate, degree, or
       transfer-related program in six years
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesCollege matriculation rates
+    - HS student proficiency in English & Language Arts and Math
+    - College matriculation rates
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     The most significant challenge that we face long-term is one that, in fact,
     attests to the growth and success of our program.  Each year, more and more

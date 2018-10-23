@@ -97,6 +97,7 @@ maker_answers:
     - Publicity/awareness (social capital)
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Advocate with policymakers and leaders
     - >-
       In an effort to combat this serious issue that affects many marginalized

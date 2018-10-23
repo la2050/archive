@@ -108,6 +108,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
     - Mobilize for systems change
   Where will you be working?:
     - San Gabriel Valley
@@ -134,7 +135,7 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Learn” metrics?:
     - Percentage of children enrolled in early education programs
-    - District-wide graduation ratesAcademic Performance Index* scores
+    - Academic Performance Index* scores
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

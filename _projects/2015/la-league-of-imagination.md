@@ -89,6 +89,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Engage residents and stakeholders
+    - Expand a pilot or a program
   Where will you be working?:
     - County of Los Angeles
     - City of Los Angeles

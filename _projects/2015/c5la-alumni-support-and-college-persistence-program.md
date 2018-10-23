@@ -95,7 +95,8 @@ maker_answers:
     - 'Technical infrastructure (computers, etc.)'
     - Community outreach
     - Network/relationship support
-  How do you plan to use these resources to make change?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
   Where will you be working?:
     - County of Los Angeles
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
@@ -112,11 +113,9 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics?:
     - Youth unemployment and underemployment
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
-    - District-wide graduation ratesCollege matriculation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
+    - College matriculation rates
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

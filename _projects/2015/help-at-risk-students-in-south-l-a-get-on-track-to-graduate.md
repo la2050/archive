@@ -88,7 +88,8 @@ maker_answers:
     - Money (financial capital)
     - Publicity/awareness (social capital)
     - Community outreach
-  How do you plan to use these resources to make change?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
   Where will you be working?:
     - Carver Middle School (South Los Angeles)
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
@@ -104,10 +105,8 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
   How will your proposal improve the following “Learn” metrics?:
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
     - Truancy rates in elementary and middle schools (Dream Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     In order for City Year LA to be successful at Carver, it requires certain

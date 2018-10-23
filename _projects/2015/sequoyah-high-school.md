@@ -92,6 +92,7 @@ maker_answers:
     - Publicity/awareness (social capital)
     - Network/relationship support
   How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
     - Advocate with policymakers and leaders
     - 'Expanding an existing  K-8 school to new high school. '
   Where will you be working?:
@@ -112,10 +113,8 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Learn” metrics?:
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesCollege matriculation rates
+    - HS student proficiency in English & Language Arts and Math
+    - College matriculation rates
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

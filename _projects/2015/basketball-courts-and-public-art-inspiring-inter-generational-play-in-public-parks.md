@@ -98,6 +98,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - City of Los Angeles
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''

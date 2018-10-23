@@ -98,6 +98,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Advocate for social inclusion via play with school staff and parents.
   Where will you be working?:
     - South LA

@@ -117,10 +117,8 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Learn” metrics?:
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     One key challenge for the implementation of this project is recruiting
     enough teachers to make a difference. Our strategy is to work closely with

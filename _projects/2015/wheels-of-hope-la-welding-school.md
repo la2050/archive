@@ -86,7 +86,8 @@ maker_answers:
     - Publicity/awareness (social capital)
     - 'Infrastructure (building/space/vehicles, etc.)'
     - Community outreach
-  How do you plan to use these resources to make change?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
   Where will you be working?:
     - '412 Boyd St, Los Angeles CA 90013'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''

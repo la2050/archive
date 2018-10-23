@@ -103,6 +103,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - >-
       Collaborate to expand the impact of two writing-based organizations on
       improving high school proficiency in English & Language Arts
@@ -125,9 +126,7 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Learn” metrics?:
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
+    - HS student proficiency in English & Language Arts and Math
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     826LA and Young Storytellers rely on specially trained volunteers, many of
     who are writers, artists, and creative professionals, to support students.

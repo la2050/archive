@@ -102,6 +102,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Implement and track policy
   Where will you be working?:
     - San Fernando Valley

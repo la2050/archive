@@ -497,6 +497,8 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
+  if (!data.yaml.published) return
+
   /*
   try {
   (function() {
@@ -662,7 +664,10 @@ function processFile(filename) {
   //   'Other:'
   // ]
 
-  /*
+
+
+
+
   if (data.yaml.year_submitted == 2015) {
     let project_areas = []
     projectAreas2015.forEach(area => {
@@ -728,7 +733,11 @@ function processFile(filename) {
 
       improveMetrics2015.forEach(metric => {
         if ((metric.split("? ")[0].trim() + "?").toLowerCase() == question.toLowerCase() && data.yaml.maker_answers[metric] == "1") {
-          improve_metrics[category].push(metric.split("? ")[1].trim())
+          let value = metric.split("? ")[1].trim()
+          if (value != "District-wide graduation rates") {
+            value = value.replace("District-wide graduation rates", "")
+          }
+          improve_metrics[category].push(value)
         }
       })
       if (improve_metrics[category].length > 0) {
@@ -741,7 +750,9 @@ function processFile(filename) {
 
 
   }
-  */
+
+
+
 
   // data.yaml.published = true
   // data.yaml.body_class = category_colors[data.yaml.category] || "strawberry"
@@ -815,6 +826,9 @@ function processFile(filename) {
   //     // data.yaml.organization_id = organization_id
   //   }
   // })
+
+
+  /*
   let matches = []
   let suspectByWebAddress = []
   let suspectByTitle = []
@@ -930,7 +944,6 @@ function processFile(filename) {
     }
 
 
-
     console.log("")
     console.log("Looking for candidate matches by title…")
     candidates = []
@@ -961,6 +974,8 @@ function processFile(filename) {
       console.log(`https://archive.la2050.org/${stringToURI(match.title)}/`)
     })
   }
+  */
+
 
   /*
   {% assign data_collection = site.collections | where: "label", "organizations" | first %}
@@ -990,7 +1005,7 @@ function processFile(filename) {
   */
 
 
-  // saveMarkdown(filename, data)
+  saveMarkdown(filename, data)
 }
 
 

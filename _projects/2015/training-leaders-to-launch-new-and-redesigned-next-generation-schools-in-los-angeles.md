@@ -113,11 +113,9 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Learn” metrics?:
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
-    - District-wide graduation ratesCollege matriculation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
+    - College matriculation rates
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
     Reframe Labs will focus on talent development, with the ultimate goal to
     prepare those leaders to launch new and redesigned schools. When it comes to

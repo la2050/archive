@@ -101,6 +101,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - Central LA
     - East LA
@@ -127,8 +128,8 @@ maker_answers:
       transfer-related program in six years
     - Youth unemployment and underemployment
     - District-wide graduation rates
-    - District-wide graduation ratesAcademic Performance Index* scores
-    - District-wide graduation ratesCollege matriculation rates
+    - Academic Performance Index* scores
+    - College matriculation rates
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

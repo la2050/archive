@@ -100,6 +100,7 @@ maker_answers:
     - Community outreach
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Education
   Where will you be working?:
     - Westside

@@ -104,6 +104,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Conduct research
+    - Expand a pilot or a program
     - Mobilize for systems change
     - 'Change environmental practices for businesses '
   Where will you be working?:
