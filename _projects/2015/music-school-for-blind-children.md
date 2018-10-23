@@ -18,7 +18,7 @@ project_areas:
   - San Fernando Valley
   - County of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Email
   Organization(s) name(s): Academy of Music for the Blind
   Organization(s) mailing address(es): "156 N. Primrose Ave.\r\nMonrovia CA 91016 "
@@ -95,6 +95,7 @@ maker_answers:
     - Network/relationship support
     - Quality improvement research
   How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
     - 'Cover costs of musical instruments, student tuition and Braille machines'
   Where will you be working?:
     - San Fernando Valley

@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Monterey Park, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -104,6 +104,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - >-
       Recruit and train Angelenos to advocate for our city's most vulnerable
       children.

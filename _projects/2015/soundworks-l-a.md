@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   Organization(s) name(s): Project MuszEd
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -122,7 +122,7 @@ maker_answers:
       transfer-related program in six years
     - Youth unemployment and underemployment
     - District-wide graduation rates
-    - District-wide graduation ratesCollege matriculation rates
+    - College matriculation rates
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "One major barrier is the emotional preparedness of our students.  Youth coming from disenfranchised communities and backgrounds have often received the message that they are ‘not good enough.’  This message may be compounded if there has been a debilitating experience. A key component of our programming will be to address ‘Internal  & External Equity.’  It is critical that we provide our students with the tools to enhance their emotional intelligence and preparedness in order to navigate through a variety of diverse professional  and social settings. We will provide resources through which they will be able to aim towards confidence and success.\r\n\r\nWe are anticipating another barrier in employing graduates.  We are tackling this obstacle by creating relationships with venues, industry and union leaders. We have initiated conversations with stakeholders to  create a policy that will support the employment of youth, especially in communities demonstrating the most need."
   Please explain how you will evaluate your work.: "In order to evaluate our work, we will first conduct an intake survey of our students.  We will create SMART goals to support this effort (specific, measurable, attainable, realistic, timely).   While we are in process, we will create indicator markers for our students in being able to take on assigned tasks, create checklists and be able to articulate their knowledge. \r\n\r\nWe will evaluate our work on a community level by providing services for local festivals and events and conducting debriefs to identify what worked, what didn’t work and any room for improvement. We will also engage community leaders, stakeholders and clients to help us identify our success and any gaps. \r\n\r\nWe will look at agencies conducting similar work as well as businesses that offer similar services.  We will also look for methods in which we could increase efficiency both in our programming and business model. We will conduct many of these evaluations every 6-12 months. \r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-

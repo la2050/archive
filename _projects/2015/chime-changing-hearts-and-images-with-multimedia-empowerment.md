@@ -19,7 +19,7 @@ project_video: 'https://www.youtube.com/embed/MIn1VBaIlrQ'
 project_areas:
   - County of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Friend
   Organization(s) name(s): Heart and Soul Design Communications Center
   Organization(s) mailing address(es): "1410 North La Brea Avenue\r\nInglewood, CA 90302"
@@ -98,6 +98,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
   Where will you be working?:
     - County of Los Angeles
     - >-

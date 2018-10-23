@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   Organization(s) name(s): 'Southern California College Access Network, a Project of Community Partners'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -100,6 +100,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
     - Advocate with policymakers and leaders
   Where will you be working?:
@@ -127,7 +128,7 @@ maker_answers:
     - >-
       Percent of community college students completing a certificate, degree, or
       transfer-related program in six years
-    - District-wide graduation ratesCollege matriculation rates
+    - College matriculation rates
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "In order to effectively engage a college in a collaboration, partnerships must be formed at various levels of the institution. The partnership must be led by high-level university leadership and their involvement will be leveraged to engage the other offices that have an effect on a students’ success. Engaging all of these institutional departments is a daunting task. However, we have two strategies for overcoming this challenge.\r\n\r\nThe first stems from our idea itself: by collaborating with other organizations, we expand our collective networks. The second strategy will require SoCal CAN to build our staff capacity to have firsthand knowledge of institutional politics. While SoCal CAN has had success in institutional and statewide advocacy, our knowledge is more rooted in low-income students and families. We seek to add a staff member who was previously employed by a college who can support SoCal CAN in effectively navigating on campus partnerships. "
   Please explain how you will evaluate your work.: "The success of these collaborations must be measured by their effect on the students we serve. In order to ensure that our outcomes are being met, we will track students’ persistence through college by matching our students against the National Student Clearing House. Beyond this basic metric of student success, we will track a series of intermediate data points that we believe will signal whether students are going to successfully persist. We will not solely test how students are rating on these indicators; we will also analyze whether these indicators are effected by our collaborations with community-based organizations and colleges.  \r\n\r\nSuccess in this project will also be measured by the number of new partnerships SoCal CAN forms. As a network that thrives when collaboration is deep and purposeful, we will also track a series of data points that ensure that we are not only creating partnerships in name but instead purposeful, productive partnerships.  "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "As more low-income students are accessing college, more of our field is turning their attention to college success. Both community-based organizations and institutions are crafting programming designed to support students’ persistence through college. We are thrilled about all the great work happening in our field and—as our unique value proposition—seek to harness that energy to craft effective, collaborative responses to the challenge. \r\n\r\nThis collaborative, networked approach to ensuring the college success of low-income, first generation students has multiple advantages that render it unique compared to other approaches. First, by engaging partners in the crafting of programming, we are able to source the most effective practices from the field and integrate them into one program. Also, through a collaboration, organizations and institutions that do not have the bandwidth to take on programming alone can offer supports, as each singular organization contributes only a portion of the work.\r\n\r\nFinally and most importantly, our collaborative approach allows for more students to be served more effectively. Not all students can be served by community-based organizations, especially when those organizations are being asked to take on new bodies of work with limited resources. Institutions also have limited resources and would benefit from the support of community-based organizations and their insights. "

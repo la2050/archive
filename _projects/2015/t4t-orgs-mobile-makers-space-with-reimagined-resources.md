@@ -19,7 +19,7 @@ project_video: 'https://www.youtube.com/embed/XPYx9Zb6q6c'
 project_areas:
   - County of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: We participated last year.
   Organization(s) name(s): T4T.org
   Organization(s) mailing address(es): "12815 S. Western Avenue\r\nGardena, CA 90249\r\n"
@@ -109,6 +109,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
   Where will you be working?:
     - County of Los Angeles

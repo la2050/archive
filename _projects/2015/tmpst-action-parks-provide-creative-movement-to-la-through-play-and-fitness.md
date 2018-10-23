@@ -20,7 +20,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Friend
   Organization(s) name(s): Tempest Action Parks
   Organization(s) mailing address(es): "3337 Jack Northrop Ave, Hawthorne, CA 90250\r\n"
@@ -102,6 +102,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - San Fernando Valley
     - South LA

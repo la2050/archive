@@ -78,7 +78,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -114,6 +114,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
     - Mobilize for systems change
     - >-
       Host events that instigate entrepreneurial proactivity among students and

@@ -53,7 +53,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   Organization(s) name(s): Redeemer Baptist Elementary School
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -112,10 +112,8 @@ maker_answers:
       transfer-related program in six years
     - Youth unemployment and underemployment
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
     - Truancy rates in elementary and middle schools (Dream Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "As a staff we will work together to ensure we are all educated and able to use SMART Boards in every lesson.  \r\n\r\nI don't think we will encounter any obstacles but will be over joyed if we receive this learning tool for our students."
   Please explain how you will evaluate your work.: >-

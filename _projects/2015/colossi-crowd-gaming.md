@@ -16,7 +16,7 @@ project_image: 'https://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CAz_mkuDRno'
 project_areas: []
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Friend
   Organization(s) name(s): Colossi
   Organization(s) mailing address(es): "928 S Burlington Ave\r\n#204"
@@ -88,6 +88,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - 'Large Sports Venues, LA County'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''

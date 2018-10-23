@@ -22,7 +22,7 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Newsletter
   Organization(s) name(s): Shane's Inspiration
   Organization(s) mailing address(es): "15213 Burbank Blvd.\r\nSherman Oaks, CA  91411"
@@ -98,6 +98,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Advocate for social inclusion via play with school staff and parents.
   Where will you be working?:
     - South LA

@@ -20,7 +20,7 @@ project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/v-5UnN1CD0E'
 project_areas: []
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Word of mouth
   Organization(s) name(s): Kensington Presents
   Organization(s) mailing address(es): "Impact Hub Los Angeles\r\nArts District Downtown LA\r\n830 Traction Ave, #3A\r\nLos Angeles, CA 90013\r\n"
@@ -100,6 +100,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Engage residents and stakeholders
+    - Expand a pilot or a program
   Where will you be working?:
     - Downtown LA/Chinatown
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''

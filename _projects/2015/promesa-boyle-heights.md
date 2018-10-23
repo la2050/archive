@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   Organization(s) name(s): Promesa Boyle Heights at Proyecto Pastoral
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -104,6 +104,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
     - Advocate with policymakers and leaders
     - Implement and track policy
@@ -130,10 +131,8 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics?:
     - Percentage of children enrolled in early education programs
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

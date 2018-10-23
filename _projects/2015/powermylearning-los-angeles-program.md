@@ -57,7 +57,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   Organization(s) name(s): PowerMyLearning
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -82,6 +82,7 @@ maker_answers:
     - 'Technical infrastructure (computers, etc.)'
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
   Where will you be working?:
     - Central LA
     - San Fernando Valley
@@ -99,11 +100,9 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
   How will your proposal improve the following “Learn” metrics?:
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
-    - District-wide graduation ratesCollege matriculation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
+    - College matriculation rates
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "One barrier to implementation of digital learning in classrooms is access to reliable technology and Internet bandwidth at schools. While major strides have been made in improving the tech infrastructure in many Los Angeles schools, on-site technical support to fix problems promptly is sometimes lacking.\r\n\r\nIn order to address this challenge, PowerMyLearning seeks out partnerships with schools that have adequate technology and a history of overcoming tech challenges. We are equipped to help schools setup the procedures to overcome minor tech challenges, but we use our partner selection process to ensure that our partners are as technologically ready to do digital learning as possible."
   Please explain how you will evaluate your work.: >-
     PowerMyLearning proactively measures the results of our Los Angeles program

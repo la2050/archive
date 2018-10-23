@@ -19,7 +19,7 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: 'Friend, Newsletter'
   Organization(s) name(s): Los Angeles Mayor Eric Garcetti Great Streets Initiative
   Organization(s) mailing address(es): '200 N Spring St, Suite 303, Los Angeles, CA'
@@ -99,6 +99,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
     - Advocate with policymakers and leaders
     - >-

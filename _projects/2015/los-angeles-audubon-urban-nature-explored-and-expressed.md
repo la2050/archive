@@ -14,7 +14,7 @@ project_areas:
   - South LA
   - Westside
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: LA2050 email
   Organization(s) name(s): Los Angeles Audubon Society
   Organization(s) mailing address(es): 'P.O. Box 411301, Los Angeles, CA 90041-8301'
@@ -88,6 +88,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - Central LA
     - South LA

@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   'City, State': 'Los Angeles, CA'
@@ -95,7 +95,8 @@ maker_answers:
     - Education/training
     - 'Technical infrastructure (computers, etc.)'
     - Quality improvement research
-  How do you plan to use these resources to make change?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
   Where will you be working?:
     - 'Barry J. Nidorf Juvenile Hall, Camps Scott and Scudder'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''

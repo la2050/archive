@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   'City, State': 'Los Angeles, CA 90071 '
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -96,6 +96,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
   Where will you be working?: []
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''

@@ -21,7 +21,7 @@ project_areas:
   - San Fernando Valley
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Word of mouth
   Organization(s) name(s): >-
     Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
@@ -99,6 +99,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
     - Mobilize for systems change
     - Advocate with policymakers and leaders
     - Implement and track policy

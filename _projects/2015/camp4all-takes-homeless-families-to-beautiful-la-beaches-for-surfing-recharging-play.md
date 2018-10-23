@@ -23,7 +23,7 @@ project_areas:
   - Westside
   - County of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: We applied last year!
   Organization(s) name(s): The Children's Lifesaving Foundation
   Organization(s) mailing address(es): "1112 Montana Avenue-#534\r\nSanta Monica, CA-90403"
@@ -117,6 +117,7 @@ maker_answers:
     - Community outreach
     - Network/relationship support
   How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
     - Take an additional 500 homeless "campers" through our Camp4All Program
   Where will you be working?:
     - Central LA

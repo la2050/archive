@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -102,7 +102,8 @@ maker_answers:
     - Publicity/awareness (social capital)
     - Community outreach
     - Network/relationship support
-  How do you plan to use these resources to make change?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
   Where will you be working?:
     - Central LA
     - East LA

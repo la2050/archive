@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   Organization(s) name(s): Artists for Literacy / LitRemix
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -103,6 +103,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - Westside
     - City of Los Angeles
@@ -123,11 +124,9 @@ maker_answers:
       Percent of community college students completing a certificate, degree, or
       transfer-related program in six years
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
-    - District-wide graduation ratesCollege matriculation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
+    - College matriculation rates
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "LitRemix – the app - will initially only be coded for IOS phones and tablets. The DESKTOP version will be the most widely accessible portal.  Therefore, we are going to ensure that students, parents, teachers and professors first engage with LitRemix.com before they decide engage with their mobile devices. We are going to create a strategy to ensure a seamless experience that works for different contexts – regardless of the device.\r\n\r\nFor the pilot program, we will feature existing art inspired by Homer’s Odyssey. We chose this book because it taught in both HS and College. Our challenge will be not in the EXPLORATION of existing art we have curated – but in the SHARING of the students-created music, visual art and videos. Teachers must first vet the initial works of art, before they are uploaded to our galleries. We realize the importance of this step, to ensure good quality artifacts that later are matched with lesson plans. Again, we are going to work on a clear strategy for this."
   Please explain how you will evaluate your work.: "In the last 10 years, teachers have reported back to Artists for Literacy informally, when they have used our Songs Inspired by Literature CDs in their classrooms. From this experience, we have watched how teachers (and parents) have seen an increase in interest, engagement and comprehension of the specific books our songs connect with. This history has formed the foundation of how we can begin to measure our impact in ELA, ESL, and other learning environments.\r\n\r\nFor the Los Angeles Pilot, would like to use 4 High Schools and 2 Local colleges.  We will evaluate the impact of the LitRemix Platform by studying: \r\n•\tstudent engagement numbers (metric from app itself) \r\n•\tstudent testimonials\r\n•\tteacher testimonials\r\n•\tquality of art created\r\n•\tfrequency of sharing\r\n•\tonline conversations\r\n•\tlesson plan downloads\r\n•\tattendance at LitRemix events\r\n•\tinterest in seeing other books added to the network\r\n•\tcommunity reaction – including media interest, literary community, parents \r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are no direct competitors to LitRemix. There are several organizations who have embraced art and literature together. They do not specifically make the connection between books and the art they inspire, nor do they facilitate the creation and sharing of art about specific books taught in school For example:\r\n\r\n•\tThe BIG READ, funded by the NEA is a strong example of how cities like LA are committed to taking the excitement and power of great books into a larger community forum. This program celebrates one book a year and hosts events to engage a diversity of supporters and participants.  \r\n\r\n•\tOrganizations like 826 Valencia, Beyond Baroque Literary Arts, GetLit, PEN USA, and WriteGirl all celebrate the fusion of reading and writing here in LA and even across the country.\r\n\r\n•\tThere are apps available that connect people together through the act of reading (LightSail, Subtext, LiquidTex). These do not leverage the strengths of students who express and learn differently – through sound, art and movement – instead of verbal or written book reports.\r\n\r\nWhat’s so striking about the power of art inspired by literature is how rich the resources truly are – but how DISPARATE they are.  No one entity has yet to AGGREGATE the best movies, visual art and music inspired by specific books. Ironically, services like Amazon sell all these types of media but never offer a bundle to help inspire and educate people. That is not their core business – to cross reference – as logical as it might seem.\r\n\r\nLitRemix is extremely unique. What if all the art that one book inspires was aggregated for immediate access through a single source? It would be one of the richest resources on earth, where anyone could mine for stories, told through all modes of artistic expression - written, aural, visual, mixed-media.\r\n\r\nWe're building LitRemix to ensure that a platform exists to introduce and celebrate literature through the art it inspires. It will sit at the nexus of rich media, mobile, and social growth, and will drive instant engagement and collaboration.   While being a cultural phenomena in its own right, LitRemix will also help both striving and struggling readers engage meaningfully with literature - by meeting them on their 21st century map of the world. LitRemix will expand the traditionally isolating experience of reading into a realm of discovery, sharing, and creating.\r\n"

@@ -21,7 +21,7 @@ project_areas:
   - Central LA
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: How could I not?!
   Organization(s) name(s): 'Compiler LA, Utopiad.org'
   Organization(s) mailing address(es): "Compiler LLC\r\n120 S Vignes St #403\r\nLos Angeles, CA 90012\r\n\r\nUtopiad.org\r\n828 SOLANO AVE\r\nLos Angeles, CA 90012"
@@ -94,6 +94,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
     - Advocate with policymakers and leaders
     - Implement and track policy
     - Provide open data

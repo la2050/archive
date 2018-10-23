@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   Organization(s) name(s): 'Move LA, a project of Community Partners'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -117,7 +117,7 @@ maker_answers:
       Percent of community college students completing a certificate, degree, or
       transfer-related program in six years
     - Youth unemployment and underemployment
-    - District-wide graduation ratesCollege matriculation rates
+    - College matriculation rates
     - >-
       Students perceived sense of safety at and on the way to school (Dream
       Metric)

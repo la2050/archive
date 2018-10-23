@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   Organization(s) name(s): BookArtsLA
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -114,9 +114,7 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '0'
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
   How will your proposal improve the following “Learn” metrics?:
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
+    - HS student proficiency in English & Language Arts and Math
     - Suspension and expulsion rates (Dream Metric)
     - Truancy rates in elementary and middle schools (Dream Metric)
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "Difficulty in connecting with educators to put program in place.  \r\n\r\nWe are currently providing a prototype of the program in a private school as an after school activity.  With this experience and knowledge we will be able to approach our target schools to implement this new program in their school curriculum.  Teachers will take part in the learning methods with their class."

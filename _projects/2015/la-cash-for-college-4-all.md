@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   Organization(s) name(s): UNITE-LA
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -96,6 +96,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
   Where will you be working?:
     - County of Los Angeles
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
@@ -110,7 +111,7 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Learn” metrics?:
-    - District-wide graduation ratesCollege matriculation rates
+    - College matriculation rates
   Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "Starting with the 2017-2018 Free Application for Federal Student Aid (FAFSA) form, students will be able to apply beginning October 1 instead of January 1. In addition, the FAFSA form will allow applicants to automatically import their income tax data from two years prior. Although both policy changes will make it easier for low-income students to access college financial aid, LA Cash for College will have to restructure its programming timeline.\r\n\r\nBased on the new timeline, LA Cash for College would continue to host the Convention in October, but would begin giving the financial aid completion workshops in October instead of January. The workshops would go from a 2-month period to a 5-month period, extending staff time and program resources dedicated to coordinating them.\r\n\r\nAnother challenge is adapting to the modes of communication used by students to consume information. Last year, CSAC launched a smart phone app offering financial aide resources that we would like to build on."
   Please explain how you will evaluate your work.: "LA Cash for College evaluates both the Convention and the Financial Aid Completion Workshops each year in order to maintain the quality programming that has made us the region's largest college and financial aid information program. Students who attend the Convention fill out a form with demographic and economic data in order to enter a lottery for a $1,000 scholarship. This information tells us who we are serving. In  addition, we send attendees an electronic survey asking them for feedback on the convention.\r\n\r\nStudents who participate in the Financial Aid Completion Workshops must complete an Exit Survey, which is sent to the CSAC to be eligible for the $1,000 scholarship lottery. The surveys inform our program on the quality of the workshops and areas of the workshops that can be improved. The survey also allows students to request follow-up help if they were unable to complete either their FAFSA or California Dream Act application at the workshop."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "In 2011, a student aid policy analysis by Mark Kantrowitz found that of the students that didn't fill out a FAFSA, 60.7% thought they were ineligible, 22.9% had no information on how to apply, and 18.9% thought it was too much work to apply.\r\n\r\nLA Cash for College's approach is unique because it provides resources and builds capacity locally, greatly enhancing other organizations' capacity to inform and assist Los Angeles students, exponentially increasing the amount of students who are impacted by the LA Cash for College program.\r\n\r\nIn addition to reaching more students through LA Cash for College's extensive network of partners, the program incentivizes student participation by offering students an opportunity to win a $1,000 for attending the Convention or completing a FAFSA application at a free Financial Aid Completion Workshop."
