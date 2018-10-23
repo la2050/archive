@@ -28,7 +28,7 @@ project_titles:
 aggregated:
   challenge_url:
     - >-
-      https://challenge.la2050.org/entry/the-future-is-bright!-a-clean-energy-future-for-la
+      https://challenge.la2050.org/entry/the-future-is-bright-a-clean-energy-future-for-la
     - http://maker.good.is/myLA2050live/projects/solarforsunnyla.html
   project_ids:
     - '6102257'

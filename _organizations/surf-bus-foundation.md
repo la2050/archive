@@ -41,7 +41,7 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/play/surf-bus-foundation/'
     - >-
-      https://challenge.la2050.org/entry/theraputic-ocean-engagement-surfing-t-o-e-s-as-in-on-the-nose!
+      https://challenge.la2050.org/entry/theraputic-ocean-engagement-surfing-toes-as-in-on-the-nose
   project_ids:
     - '8102114'
     - '6102221'

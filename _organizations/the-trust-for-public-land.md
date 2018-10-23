@@ -36,6 +36,7 @@ aggregated:
     - 'https://activation.la2050.org/play/the-trust-for-public-land/'
     - >-
       https://challenge.la2050.org/entry/green-alleys-initiative-–-transforming-polluted-alleys-into-vibrant-water-smart-green-space
+    - http://maker.good.is/myLA2050live/projects/GreenOurAlleys.html
   project_ids:
     - '8102123'
     - '6102259'
