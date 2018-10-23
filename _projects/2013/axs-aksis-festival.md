@@ -5,9 +5,9 @@ year_submitted: 2013
 indicator: Arts & Cultural Vitality
 body_class: strawberry
 project_id: '3102214'
-title: AxS [ak-sis] Festival
+challenge_url: 'http://maker.good.is/myla2050/projects/axsfestival.html'
+title: 'AxS [ak-sis] Festival'
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
-challenge_url: http://maker.good.is/myla2050/projects/axsfestival.html
 maker_answers: {}
 What is your idea and how will it impact your indicator?: >+
   PROPOSED PROJECT:  Planning and development phase of AxS Festival.
