@@ -103,6 +103,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Advocate with policymakers and leaders
     - >-
       IAVA will also continue to advocate for veterans in LA; we supported

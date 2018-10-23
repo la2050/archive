@@ -111,6 +111,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
     - Mobilize for systems change
     - Implement and track policy
   Where will you be working?:

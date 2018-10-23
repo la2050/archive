@@ -86,6 +86,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Conduct research
+    - Expand a pilot or a program
     - Implement and track policy
   Where will you be working?:
     - City of Los Angeles

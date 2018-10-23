@@ -105,6 +105,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
     - Advocate with policymakers and leaders
     - Implement and track policy
@@ -132,7 +133,7 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics?:
     - Youth unemployment and underemployment
     - District-wide graduation rates
-    - District-wide graduation ratesCollege matriculation rates
+    - College matriculation rates
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

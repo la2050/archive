@@ -102,6 +102,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - San Fernando Valley
     - South LA

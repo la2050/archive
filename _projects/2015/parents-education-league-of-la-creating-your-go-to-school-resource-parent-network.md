@@ -89,6 +89,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
     - Advocate with policymakers and leaders
   Where will you be working?:
     - Central LA
@@ -111,7 +112,7 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics?:
     - Percentage of children enrolled in early education programs
     - District-wide graduation rates
-    - District-wide graduation ratesCollege matriculation rates
+    - College matriculation rates
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

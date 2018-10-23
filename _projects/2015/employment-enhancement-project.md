@@ -106,7 +106,8 @@ maker_answers:
     - Publicity/awareness (social capital)
     - 'Infrastructure (building/space/vehicles, etc.)'
     - Network/relationship support
-  How do you plan to use these resources to make change?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
   Where will you be working?:
     - Central LA
     - East LA

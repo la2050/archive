@@ -95,7 +95,8 @@ maker_answers:
     - Education/training
     - 'Technical infrastructure (computers, etc.)'
     - Quality improvement research
-  How do you plan to use these resources to make change?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
   Where will you be working?:
     - 'Barry J. Nidorf Juvenile Hall, Camps Scott and Scudder'
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''

@@ -100,6 +100,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
     - Dual generation programmatic refocus with new Member2Member pilot.
   Where will you be working?:
     - County of Los Angeles

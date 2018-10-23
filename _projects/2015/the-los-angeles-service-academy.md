@@ -110,6 +110,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - 'Make connections across regions, neighborhoods, schools, backgrounds.'
   Where will you be working?:
     - Central LA

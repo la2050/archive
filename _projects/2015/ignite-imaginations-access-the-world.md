@@ -101,6 +101,7 @@ maker_answers:
     - Conduct research
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
     - Engage community; expand cultural awareness
   Where will you be working?:
     - Central LA

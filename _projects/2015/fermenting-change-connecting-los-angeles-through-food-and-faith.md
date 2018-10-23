@@ -102,6 +102,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - Central LA
     - San Gabriel Valley

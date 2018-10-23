@@ -91,6 +91,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - South LA
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
@@ -107,9 +108,7 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics?:
     - Youth unemployment and underemployment
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
+    - HS student proficiency in English & Language Arts and Math
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

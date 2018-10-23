@@ -98,6 +98,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - 'Town Hall Meetings, Volunteerism, Voter Drives, and Performances'
   Where will you be working?:
     - City of Los Angeles

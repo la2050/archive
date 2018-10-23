@@ -88,7 +88,8 @@ maker_answers:
     - Education/training
     - Community outreach
     - Network/relationship support
-  How do you plan to use these resources to make change?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
   Where will you be working?:
     - County of Los Angeles
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''

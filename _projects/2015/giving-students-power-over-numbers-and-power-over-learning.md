@@ -117,11 +117,9 @@ maker_answers:
       Percent of community college students completing a certificate, degree, or
       transfer-related program in six years
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
-    - District-wide graduation ratesCollege matriculation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
+    - College matriculation rates
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

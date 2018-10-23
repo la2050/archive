@@ -107,6 +107,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
   Where will you be working?:
     - County of Los Angeles

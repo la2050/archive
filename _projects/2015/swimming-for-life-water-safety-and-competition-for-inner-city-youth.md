@@ -90,6 +90,7 @@ maker_answers:
     - Money (financial capital)
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
     - Advocate with policymakers and leaders
   Where will you be working?:

@@ -95,6 +95,7 @@ maker_answers:
     - Network/relationship support
     - Quality improvement research
   How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
     - 'Cover costs of musical instruments, student tuition and Braille machines'
   Where will you be working?:
     - San Fernando Valley

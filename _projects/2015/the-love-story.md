@@ -90,6 +90,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Produce and distribute the documentary journals to college campuses
   Where will you be working?:
     - East LA

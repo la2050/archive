@@ -96,6 +96,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Conduct research
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Mobilize for systems change
   Where will you be working?:
     - City of Los Angeles
@@ -113,7 +114,7 @@ maker_answers:
   How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
   How will your proposal improve the following “Learn” metrics?:
     - District-wide graduation rates
-    - District-wide graduation ratesAcademic Performance Index* scores
+    - Academic Performance Index* scores
     - Suspension and expulsion rates (Dream Metric)
     - Truancy rates in elementary and middle schools (Dream Metric)
     - >-

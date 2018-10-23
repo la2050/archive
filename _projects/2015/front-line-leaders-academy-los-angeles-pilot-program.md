@@ -100,6 +100,7 @@ maker_answers:
     - Network/relationship support
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
   Where will you be working?: []
   How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
   How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'

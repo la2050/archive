@@ -103,7 +103,8 @@ maker_answers:
     - Community outreach
     - Network/relationship support
     - Quality improvement research
-  How do you plan to use these resources to make change?: []
+  How do you plan to use these resources to make change?:
+    - Expand a pilot or a program
   Where will you be working?:
     - Central LA
     - East LA

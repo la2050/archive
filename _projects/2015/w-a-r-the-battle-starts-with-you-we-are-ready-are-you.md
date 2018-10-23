@@ -100,6 +100,7 @@ maker_answers:
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
     - Implement a pilot or new project
+    - Expand a pilot or a program
   Where will you be working?:
     - Central LA
     - East LA
@@ -121,10 +122,8 @@ maker_answers:
   How will your proposal improve the following “Learn” metrics?:
     - Youth unemployment and underemployment
     - District-wide graduation rates
-    - >-
-      District-wide graduation ratesHS student proficiency in English & Language
-      Arts and Math
-    - District-wide graduation ratesAcademic Performance Index* scores
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index* scores
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for

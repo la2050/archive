@@ -112,6 +112,7 @@ maker_answers:
     - Quality improvement research
   How do you plan to use these resources to make change?:
     - Engage residents and stakeholders
+    - Expand a pilot or a program
     - Implement and track policy
   Where will you be working?:
     - Central LA
