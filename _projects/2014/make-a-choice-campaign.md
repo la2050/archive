@@ -19,7 +19,7 @@ project_areas:
   - WESTSIDE
 maker_answers:
   collaboration: "Los Angeles Unified School District-confirmed\r\nPeace Over Violence has worked in collaboration with LAUSD since 1991, implementing its In Touch With Teens relationship violence prevention curriculum and youth leadership development activities throughout middle and high school campuses. POV & LAUSD are currently partners on a Department of Justice federal grant (STEP), piloting a violence prevention policy, campus wide staff training and response protocols in three schools in Highland Park, LA. This is the second largest school district in the U.S. and a key partner in engaging youth, parents, educators and stakeholders.  \r\n\r\nKPFK 90.7 Beautiful Struggle-confirmed. \r\nYouth leaders continue to participate in The Beautiful Struggle’s weekly segments. TBS commits to running the Campaign PSAs with heavy rotation in February for Teen Dating Violence Prevention and Awareness Month. \r\n\r\nDawn Faelner & John Park-confirmed\r\nDawn and John have come on the project as design consultants, working with youth to develop their ideas into design elements for print, social media, and digital distribution. They are formally trained by Rebeca Mendez, who developed Peace Over Violence's signature brand and brand guidelines. They have been involved with the agency throughout Summer 2014 and will ensure campaign brand consistency. \r\n\r\nThe three critical factors in these partnerships are: 1. school buy-in and support for campaign implementation and dissemination, 2. continuous radio distribution/coverage of campaign, and 3. on going campaign design mentorship and brand development with youth. \r\n"
-  about_you: 'Los Angeles, CA'
+  metrics_learn_earlyeducation: '0'
   org_website: peaceoverviolence.org
   org_twitter: '@PeaceOvrViolnce'
   org_facebook: 'https://www.facebook.com/PeaceOverViolence'
@@ -86,8 +86,8 @@ maker_answers:
     behavior, pregnancy, and suicidal ideation. This project will support the
     development of healthy relationships and healthy lives for this target
     population at LAUSD schools campuses and surrounding communities. 
+  about_you: 'Los Angeles, CA'
   org_name: Peace Over Violence
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
@@ -141,6 +141,13 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: "The Make a Choice campaign’s visibility in communities, school campuses and online presence work in concert to inspire climate changes on campus and in the community at large, directly impacting students’ sense of safety at and on the way to school.  \r\n\r\nCreating a sense of safety on and off campuses is embedded in every component of the campaign and its activities, whose very name promotes action: Make a Choice. The campaign’s logo is a hashtag, directing individuals to a conversation, where they can participate in this change as: \r\n1. A reader receiving information on dating abuse and dynamics of a healthy relationship, as well as information on upcoming violence prevention community events and actions.\r\n2. A contributor to the dialogue by responding directly to the conversation feed, creating their own content and images, tagging it with Make a Choice. \r\n3. An ambassador, sharing campaign content on their own social media platforms. \r\n4. A leader on their own campus by creating, participating in and/or leading to educate fellow students and organize violence prevention activities and dialogues on campus. \r\n5. An adult ally, learning about relationship issues their teens and youth in their lives are facing, how they can support them in building lives free from violence and how they can lend their voice to creating positive climate changes on LAUSD campuses through support of prevention policy.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Ongoing: Youth leaders have developed a Tumblr for the campaign and meet twice

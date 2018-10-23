@@ -99,6 +99,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: "SeePolitical is designed to make the political process less political and more transparent and accessible for everyone regardless of socio-economic status or education level. It shouldn’t be necessary to be a lawyer or a politico in order to understand the complex language on each ballot.  \r\n\r\nMany people in our city are often too intimidated to vote or don’t feel like their vote actually counts, and who can blame them? Ballot measures are sometimes purposefully written to confuse and deter voter participation. SeePolitical will eliminate the phrase from our electoral lexicon, “Does No, mean Yes or Yes, mean No?” \r\n\r\nGovernment programs will respond to the needs of its constituents and empower Angelenos during the decision making process. Finally, everyone will have an opportunity to participate in our democratic process and make informed decisions in the voting booth.  "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   SeePolitical.com is an interactive website, widget and mobile app providing

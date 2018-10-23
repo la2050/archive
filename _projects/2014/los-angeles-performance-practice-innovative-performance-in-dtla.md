@@ -94,6 +94,10 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - Downtown LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: "Los Angeles Performance Practice was founded in 2010 by Miranda Wright.  We are a woman-owned firm, and support the work of female and minority artists. \r\n\r\nWe specialize in international collaboration, and are always looking for ways to \"export\" LA culture, in addition to bringing international artists to our city.  \r\n\r\nWe pay artists above union standards for performances, and strive to form partnerships with local businesses whenever possible to have positive cultural and economic impacts in the community. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We plan to work with city developers, property managers, and downtown

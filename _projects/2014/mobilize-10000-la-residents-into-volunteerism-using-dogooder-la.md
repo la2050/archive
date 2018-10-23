@@ -106,6 +106,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: "According to U.S. Bureau of Labor Statistics survey in February 2014, volunteerism rates are at their lowest since 2002. When you segment data into age groups we also discover that volunteerism rates for age Groups 16-24 and 24-25 are at their lowest rates since 2009.\r\n\r\nOur goal is to have 10,000 users complete at least 1 \"track\" over the next 2 years. We also plan to impact the number of people below age 35 volunteering by commencing deep research into trends using data our app will accrue. \r\n\r\nWith each track consisting of 3-5 volunteering opportunities, that’s over 30,000 - 50,000 volunteering engagements alone in Los Angeles from people who may not normally volunteer on their own in the first 1-2 years of launch.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Nothing connects Los Angelenos more than our mobile phones. They are

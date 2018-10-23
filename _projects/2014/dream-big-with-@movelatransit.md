@@ -110,6 +110,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
   impact_metrics: "Move LA’s use of social media will impact:\r\nTotal number of Move LA’s social media friends\r\n• \tWe are a small shop with a big mission that has not had the resources to dedicate to social media. But we will find a way!\r\nGovernment responsiveness to residents’ needs\r\n•\tCreating a robust public dialogue with government is the goal of our project. We are consensus-builders who can help communicate a clear message to decision-makers.\r\nParticipation on neighborhood councils\r\n•\tNeighborhood councils as well as neighbors are keenly interested in all the issues we are talking about — since they affect daily life as well as property values. We would definitely expect to see participation increase in neighborhoods where new lines and stations are being constructed, and even more so in neighborhoods with hot real estate markets.\r\nPercentage of Angelenos that volunteer informally\r\n•\tWe want to create more volunteer opportunities at Move LA, but the needle really moves when people aren’t spending so much time driving and have more time to volunteer for a whole host of good works. \r\n\r\nBuilding a truly robust transit system will impact:\r\nMedian travel time to work\r\n•\tIt’s difficult to calculate the degree to which sustainable transportation will reduce travel times, because even as traffic is reduced, the population will continues to grow, adding more congestion. While bus may not necessarily reduce median travel times, most rail transit does, and both bus and rail make it possible for transit riders to read, work, answer emails and talk on the phone! Moreover, transit-oriented neighborhoods allow jobs and housing to be co-located in more compact mixed-use settings where people can also walk and bike —and we are building support for these neighborhoods.\r\nAttendance at cultural events\r\n•\tLACMA and organizations such as Arts LA are strong transit supporters who believe transit expansion is essential to improving access to the arts.\r\nNumber of public transit riders\r\n• \tThe LA Times recently reported that a new USC study found people who lived within a half mile of the Expo Line tripled their transit ridership and reduced their driving by 40% after Expo opened. \r\nTransit-accessible housing and employment: \r\n•\t According to the Southern California Association of Governments (SCAG) by 2035 we can expect 87% of all jobs and 82% of all housing in the 6-county region to be near transit. SCAG acknowledges that this is largely because of LA County's transit expansion."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Game-changing transportation investment is transforming Los Angeles County and

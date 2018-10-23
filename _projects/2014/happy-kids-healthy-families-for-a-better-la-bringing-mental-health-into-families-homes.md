@@ -173,6 +173,10 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - South LA
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: >-
     Because WIN integrates its mental heath services with the health, social
     services, food and housing support, and early care and early intervention

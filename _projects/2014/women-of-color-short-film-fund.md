@@ -102,6 +102,15 @@ maker_answers:
   one_sentence_project: >-
     We will fund Women of Color creatives to involve the LA community in making
     a series of short films through their points of view.
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "Our project will encourage more Women of Color to apply to film schools and strengthen their career goals. \r\n\r\nThis project will encourage real and \"reel\" change and find sponsors, not just mentors for Women of Color.\r\n\r\nA film festival dedicated to the creative works of Women of Color would bring revenues to the city as well as corporate partnerships, publicity, workshops, panel events, educational events, and a sense of pride and community. (We hope this project will kickstart a festival in 2016). \r\n\r\nThese short films can encourage tourism, by showing facets of LA only these Women of Color will be able to capture and express! (Much like Sideways created a boom in the Los Olivos area). "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA takes leap to change Hollywood statistics and the future of cinema with a

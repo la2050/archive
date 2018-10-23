@@ -136,6 +136,12 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - Watts
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: >-
     Our project is hitting many areas for today and LA2050. As mentioned before
     there are very few Latinos and Blacks in the creative industry. We hope to

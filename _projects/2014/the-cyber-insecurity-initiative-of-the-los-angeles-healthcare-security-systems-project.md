@@ -160,6 +160,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "Our healthcare is undergoing a rapid transition. New laws are changing the way we provide care, healthcare costs are still out of control, providers are changing how they interact with patients, public health is underfunded, hospital profit margins are reduced, and all medical records are being digitized. This “perfect storm” helps put the importance of proper cyber safeguards in a broader context. \r\n\r\nHealthcare is a critical “public good” that benefits all residents and visitors to LA directly or indirectly. The reality is that a safe and reliable healthcare system is assumed and expected. We take it as a “given”, without specificity or insight regarding how complex it really is.  On occasion, the news media highlights various concerns for the public, such as when the Los Angeles Fire Department was faulted for its slower-than-reported EMS response times in 2013. \r\n\r\nFirst and foremost, public knowledge of the benefits from the Cyber Insecurity Initiative should increase the percentage of residents who receive coordinated healthcare access in LA. They will be assured that the healthcare system is proactively and responsibly addressing cybersecurity as the use of digitized healthcare expands and evolves. \r\n\r\nThe reality, though, is that many residents and visitors will be less aware of how the metrics of the Cyber Insecurity Initiative are actually achieved. First, we seek to better align cyber threat perceptions of administrators, providers, etc. with the actual cyber risks. Second, we will make recommendations to close gaps and improve upon security. Because the data has not yet been collected or analyzed, these recommendations and the metrics derived from them cannot yet be concretely defined. This is why a grant from LA2050 is so essential.\r\n\r\nIn a general sense, the recommendations and metrics center on anticipated cybersecurity and reliability domains since breaches have already occurred, hospitals have been fined, and records have been corrupted. These domains include the frequency and extent of security breaches and/or data loss, the speed and reliability of data retrieval and transfer, the usage rates and reliability of EHRs, and so on. In many cases, the general public will not be aware of these metrics even though they are critical to the health and wellbeing of the population. They can be aggregated under the categories of “public trust in the safety and reliability of the healthcare system” and “public trust in the safety and reliability of EHRs.\""
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Funding Program

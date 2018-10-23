@@ -118,6 +118,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "The project is precisely designed to address the LA2050 metrics that “Every family will be able to afford quality healthcare…”and that “our region’s residents will have the economic means and cultural capital to lead active, healthy lives.\"\r\n\r\nSimply put, the project’s aim is ensure that every child, women and man in Los Angeles has quality health care.  Western Center will accomplish this by vastly expanding health care access, health insurance enrollment, services for people with mental illness and the overall system-wide capacity to deliver health care services in Los Angeles.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project will create a framework to implement programs that address public

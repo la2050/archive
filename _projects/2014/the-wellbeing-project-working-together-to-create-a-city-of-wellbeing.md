@@ -145,6 +145,9 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Santa Monica
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
   impact_metrics: >-
     Local government is uniquely poised to facilitate partnerships and directly
     impact LA2050’s Connect metrics, but we need a starting point. The first

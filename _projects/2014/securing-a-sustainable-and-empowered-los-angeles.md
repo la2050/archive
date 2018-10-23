@@ -116,6 +116,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "LASC's mission is to create a sustainable Los Angeles. To do so, LASC works with local partners and funds graduate student research fellowships to answer questions and identify policy recommendations to emerging sustainability challenges including: securing a sustainable LA food shed, identifying sources of air toxins and controls to reduce exposure, securing a reliable local water supply and methods for water conservation, creating complete streets, and analyzing water quality and how to ensure safe drinking water and waterways. The research topics listed only covers those that LASC has worked on thus far, and does not include future research areas LASC will address. \r\n\r\nOur Fellow’s projects on air pollution, water quality and conservation, and biking all satisfy several of the  LA2050’s “Live” metrics. Additionally, LASC just partnered with the Los Angeles Food Council to hire a Fellow to address access to healthy, affordable food. Specifically, the student will develop a tool for increasing the effectiveness and coordination of food policy advocacy efforts across issue areas by better understanding systemic causes impacting food system outcomes and their policy/regulatory drivers. This project will be used as a component of a facilitated discussion at an upcoming interdisciplinary food system symposium at UCLA. \r\n\r\nWe support students to complete relevant, quality, and most importantly, applicable sustainability related research projects.  LASC creates new entry-level green jobs and operates a system that allows seamless transitions between higher education institutions and the workforce by providing professional guidance and experience to students.  LASC prepares LA residents to develop and contribute their skills, talents, and abilities to society. LASC capitalizes on its relationships with higher education facilities to foster new businesses, advance research, and spur innovation.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will use publicly available information available from the US EPA about

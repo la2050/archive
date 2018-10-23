@@ -115,6 +115,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "1. Employment in the creative industries (arts & cultural vitality, income & employment) \r\nDigitize LA will provide professional digital training and mentorship for minorities, women and low income communities and increase their ability to obtain jobs in the entertainment industry.\r\n\r\n4. Federal research grant funding (income & employment) & 7. Minority- and women-owned firms (income & employment) 9. Number of high growth startups (income & employment) \r\n\r\nDigitize LA will empower minority and women in Los Angeles to develop their own content and production companies.\r\n\r\nDigitize LA will connect content creators and potential buyers in LA, California, the US and emerging markets in Latin America, Europe and Asia.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ALIP will target women and minorities with an emphasis on emerging Latino

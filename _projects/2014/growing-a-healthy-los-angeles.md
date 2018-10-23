@@ -22,7 +22,7 @@ project_areas:
   - WESTSIDE
 maker_answers:
   metrics_live_healthcare: '1'
-  city_state: Los Angeles
+  metrics_live_airtoxins: '1'
   org_website: www.lagardencouncil.org
   org_twitter: '@LAgardens'
   org_facebook: www.facebook.com/LACGC
@@ -61,8 +61,8 @@ maker_answers:
   who_benefit: "Within six weeks of the completion of the new community gardens, at least 150 low-income families in LA County will directly benefit from eating the fresh produce that they are growing, based on each garden having 50 gardeners. As most avid gardeners know, a single harvest is often too much for your immediate family to consume and so you soon find yourself spreading the wealth and giving away tomatoes, zucchini, mint, and other edibles to your extended family, neighbors, school friends, and co-workers! \r\n\r\nWe are focusing on the Watts area of South LA for the new garden sites because of the immense need in this area where, according to the LA Times profile, the median household income is low at $25,161, the median age is young at 21 years (partly due to gang violence), household size is high at 4.0 people, only 2.9% of residents have a four-year college degree, and 38.9% of the households are headed by a single parent.  61.6% of the residents are Latino and 37.1% are black.\r\n\r\nThere are currently 125 community gardens open to anyone in the community in LA County (this does not include gardens with restricted access, for example at schools, hospitals, or detention centers).  Our goal is to build three new community gardens in 2015, four new gardens in 2016, five new gardens in 2017, and continue to build one additional new garden every year for the next 36 years. By 2050, there will be 863 community gardens in LA County.  If each of these serves 50 families and the average family size continues to be 4.0, more than 172,000 people will benefit from growing their own healthy food in their neighborhood!"
   partners_collaboration: "To acquire the land, we will partner with organizations including the LA Neighborhood Land Trust and the Trust for Public Land.  We have worked with these organizations in the past and they bring expertise to the process of land acquisition.\r\n\r\nFor the past 16 years, LA Community Garden Council has partnered with the LA Conservation Corps to employ youth from low-income neighborhoods to help with community organizing and construction of the community gardens.  They bring skilled labor and efficiency in numbers. \r\n\r\nWe will continue to partner with the UCCE Master Gardener program to find knowledgeable and experienced teachers to lead our gardening classes.  We plan to form new partnerships with healthcare professionals, especially nutritionists, to offer health programs in the community gardens.\r\n\r\nWhen there is surplus produce in the community gardens, we will continue to partner with Community Services Unlimited, a local organization that distributes fresh food through markets in South LA, selling produce at low prices in neighborhoods that are considered food deserts because of the lack of availability of fresh produce.\r\n\r\nThree factors that are critical to the success of these partnerships are (1) setting clear agreements and expectations in writing at the beginning of the partnership, (2) keeping channels of communication open and transparent throughout the project so that everyone is on the same page, and (3) debriefing at the end of the project so that we can determine ways to work together even better in future. "
   metrics_live_healthyfood: '1'
+  city_state: Los Angeles
   org_name: Los Angeles Community Garden Council
-  metrics_live_airtoxins: '1'
   metrics_live_selfsufficiency: '1'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '1'
@@ -106,6 +106,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "The most immediate impact of the new community gardens will be to increase access to healthy food.  This indirectly offers access to healthcare because a healthy diet is essential as a primary preventative measure in any health plan.  The gardens will help to reduce obesity and related diseases.  We encourage gardeners to walk, bike or take public transport to the gardens, for their health as well as for environmental reasons.  Gardening is therapeutic and helps to reduce mental illness and it gets children outside and in community with people of all generations, increasing the prospect of positive childhood experiences. \r\n\r\nBy creating more green space and a sustainable, organic garden, we will reduce residents' exposure to air toxins.  The gardens will contain trees to increase the level of tree canopy cover.\r\n\r\nBy focusing on lower-income neighborhoods, we will reduce grocery bills, and consequently the number of households below the self-sufficiency standard and reduce homelessness rates.\r\n\r\nBy building rainwater collection systems, we will conserve water and reduce the percentage of  imported water.\r\n\r\nCommunity gardens help to improve health and to reduce crime in neighborhoods, leading to more resilient communities."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The National Partnership and LACBC will begin by hiring a media expert to

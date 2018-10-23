@@ -96,6 +96,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "\"Mobile Forum\" will impact a number of the Live metrics immediately: \r\n\r\nLivability\r\nA rich urban housing ecology is Sustainable, Healthy, Dense, and Safe. By addressing these issue through the design of residential units in LA we can directly discuss the following issues that impact domestic and urban life: access to healthy food, walkable neighborhoods, mixed used services that offer healthcare and community support. Good housing design increases quality of life at all levels, providing maximum light, air, and green open space.\r\n\r\nLA is a residential city. Decisions about housing − how we build it, how we organize it − inevitably impact how we use our city, how we connect to one another in Los Angeles. The outcome of the discussions and workshops of \"Mobile Forum\", which we plan to publish and distribute to community groups, developers, and government officials, have the potential to influence and positively change housing and therefore the urban patterns of LA. \r\n\r\nMobility\r\nBy focusing on transit corridors along the Metro Line, we can address the relationship between home and work. The creation of more affordable and desirable housing near transit, impacts the median travel time to work, number of public transit riders, and transit-accessible housing and employment. \r\n\r\nThe ability to bring the LA Forum’s activities to locations throughout LA in collaboration with community groups will increase attendance at cultural events. The pop-up nature of the events will similarly increase attendance at public/open street gatherings; locating these pop-ups near transit will likely increase the number of public transit riders. The promotion of the events and the connections made between participants will increase the total number of social media friends of all involved.\r\n\r\nAffordability\r\nWe are seeing housing experiments in other cities that are working to reduce inequity and support diversity. These include elements such as microunits, co-housing, and shared services and outdoor spaces. Housing that supports a multi-income community increases the quality of life for all residents by redefining affordability. By facilitating human relationships, by bringing resources to residents, and by integrating the functions of living, well-designed housing provides more for less."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement this project, we will install 75 more gardens in LA in the next

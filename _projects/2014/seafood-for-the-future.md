@@ -122,6 +122,16 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - Long Beach
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: >-
     Many people do not recognize the health benefits associated with eating
     seafood, especially the nutrient-rich local seafood that is largely exported

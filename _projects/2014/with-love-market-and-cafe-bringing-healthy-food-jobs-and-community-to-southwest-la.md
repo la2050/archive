@@ -136,6 +136,9 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Southwest LA i.e. the northern section of South LA near USC
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: "1.) The local rate of diabetes: - Diabetes is 3.8 times the average rate of diabetes in the greater LA area, and so concentrating on providing healthier options for this community is an area we are seeking to monitor alongside our non-profit partners.\r\n\r\n 2.) Decreasing government assistance:  During our surveying of the community, 1/5 of residents were on government assistance for food, with an average of $225 per month. Our current initial goal is to have 50% of our hired staff be from the surrounding neighborhood and community, with that percentage increasing to 75% by the end of the market's first year in business. \r\n\r\n3.) Community Needs: Our free weekly community classes and events will serve to provide residents with a sense of pride, community, and betterment for their families in the way of health and personal/relational skill-building. We are looking to keep track of all members, volunteer, staff and otherwise, who engage in our programs and seek to be further involved. We plan on keeping track of our volunteer, outreach and participant base to see how networking and sense of community increases in the surrounding area. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already secured a leased space for the market, cafe, and our offices

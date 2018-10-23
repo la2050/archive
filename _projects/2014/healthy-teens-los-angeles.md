@@ -117,6 +117,9 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - South LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: "MHS is an innovative approach to healthcare where physicians, nurse practitioners, dentists, dental hygienists, physical and occupational therapists, social workers and other mental health professionals are eager to work with our neighborhoods in improving the health & wellness of our community.\r\n\r\nAccess to healthcare - we provide access to medical, dental, physical , and mental health care in a welcoming, positive, friendly environment located within walking distance of Metro's Expo line. We expect our participating youth to experience:\r\n1. lower BMI scores (reduced obesity)\r\n2. higher walking rates (improved walk/bike/transit score) \r\n3. strong coping skills (reduced rates of behavioral/mental health problems)\r\n4. higher quality of life scores (decreased adverse childhood experiences reflected in improved QOL score)\r\n5. increase access to health care needed if health issues arise (coordinated care by MHS staff)"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will begin to implement this project by establishing a solid community

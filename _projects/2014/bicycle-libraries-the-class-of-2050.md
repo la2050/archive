@@ -105,6 +105,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - San Gabriel Valley
+    - Westside
+    - >-
+      Our project will benefit Boyle Heights in particular and, through its
+      emphasis on connection, Greater Los Angeles just as much.
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: "1 & 8) Volunteerism, 2) voting, and 5) attendance at events/gatherings: Former NEA Chairman Dana Gioia may have put it best in the NEA study Reading at Risk:\r\n     “More than reading is at stake...readers play a more active and involved role in their communities. The decline in reading, therefore, parallels a larger retreat from participation in civic and cultural life. The long-term implications of this study not only affect literature but all the arts – as well as social activities such as volunteerism, philanthropy, and even political engagement.\"\r\n3) One look inside Libros on any given day should suffice to demonstrate our ability to provide adults with social and emotional support. Our regulars include the homeless, the destitute and the just plain lonely. They form a small part of our principal mission, but if we can be a kind of literary drop-in center for at-risk adults, we’ll take that too.\r\n6) Encouraging people not just to enjoy our Bicycle Libraries but to take public transit back to Libros in the ensuing weeks will drive foot traffic to the thousands of books in our brick-and-mortar shopfront, where what we offer won’t be limited to what we can pedal. It will also to encourage Angelenos to explore their big, beautiful, sometimes daunting city via public transportation, and challenge transit riders to get off someplace they’ve maybe never explored before. \r\n\tBeyond the several Dream Metrics already cited, we also expect to address these:\r\n        11) Our social media friends, followers and connections, who continue to proliferate (even more thanks to this application) \r\n\t12) Attendance at public/open streets gatherings, which has risen markedly since Libros’ arrival on Mariachi Plaza. The advent of the Bicycle Libraries initiative will bring regular visits from our 20 student volunteers, and a significant uptick from the 25 contacts they are required to make on their 10 rides apiece.  That's 5,000 people touched by this Bicycle Libraries initiative alone. \r\n\t13) As for residential segregation, Boyle Heights used to rank among the most diverse census tracts in the nation. Now it numbers among the least. A little more integration probably couldn’t hurt, provided that the essential character of the neighborhood remains and longtime residents aren’t priced out. \r\n\t14) Free wifi has been part of Libros’ permanent amenities from day one."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   "...final adoption of Newspeak had been fixed for so late a date as 2050.” --

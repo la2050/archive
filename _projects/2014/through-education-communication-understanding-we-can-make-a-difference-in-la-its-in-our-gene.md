@@ -24,7 +24,7 @@ project_areas:
   - WESTSIDE
 maker_answers:
   collaboration: "We will partner with the State Department of Education, the local administrators, the teachers and higher education institutions in your area.\r\n\r\nIn an effort to enable the diverse student population to have the maximum opportunity for learning, we have also been in touch with the LAUSA Department for Gifted and Talented Students and the LAUSD Multilingual and Multicultural Education Department, as we believe both of these departments serve students who have great potential, and need to have resources and opportunities to enable the maximal learning potential of every child.\r\n\r\nWe are committed to help these diverse learners thrive and hope to have your support in helping to meet their instructional needs.\r\n"
-  about_you: 'Marietta, GA'
+  metrics_learn_earlyeducation: '1'
   org_website: www.geneedu.com
   org_twitter: ''
   org_facebook: ''
@@ -64,8 +64,8 @@ maker_answers:
   implement: "We will meet with local and state administrators to educate them on the financial and educational benefits of GENE. There are many costs associated with technology in the classroom that are eliminated through GENE, so most will purchase their two year license with a portion of their savings. \r\n\r\nWe will institute a program of training the trainer. We will train educators in each of the districts on the features of GENE and work with them to create projects, programs and resources to benefit all the educators in their area. \r\n\r\nThe GENE Technology Team will assist the technology departments on the connection process and walk them through the connection process. All students, teachers and administrators will be provided unique usernames and passwords to gain access from anywhere at any time."
   impact_learn: "GENE provides a secure, exclusive network for the exchange of ideas, resources and communications among schools globally at all levels.\r\n\r\nIt enables the mentoring and coaching to improve professional development in the classroom. GENE expands curriculum choices by enabling students to take advantage of distance learning courses offered by other schools. \r\n\r\nInstitutions can share technologies and resources reducing costs well into the billions of dollars each year. \r\n\r\nAs schools save money in traditional areas such as textbooks, they can expand the technological devices in the classroom.\r\n\r\nThe security of the GENE network provides a safe environment for administrators, teachers and students to grow, share and develop a better classroom for today and tomorrow."
   who_benefit: "Students, teachers and administrators will benefit from the educational resources, features and communications. \r\nParents will be able to 'connect' & access progress reports & key communications from the schools.\r\n\r\nTaxpayers will benefit from the amount of money schools will save and utilize towards future educational resources such as teachers, programs or benefits, instead of tax increases.\r\n\r\nSchool districts have the potential to recoup thousands of dollars from reducing the dropout rate as well as material savings on additional software products. "
+  about_you: 'Marietta, GA'
   org_name: Global Education Network Exchange (GENE)
-  metrics_learn_earlyeducation: '1'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
@@ -98,6 +98,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: "Early Education Programs - If programs are implemented  by the local school districts, there will be resources available to instructors to use and share in early learning programs. As schools take on more of these programs, more resources will become available. Previous barriers such as expense & availability can be removed making programs more easily accessible.\r\n\r\nGENE provides students the flexibility needed in a Community College setting. Students can take courses from home or the office if they are unable to attend class. Many professors like the options of reducing the need for books and the digital recall of courses or classwork available through GENE.\r\n\r\nGENE is totally customizable to meet the needs and demands of regional employment. GENE provides the opportunity for collaboration beyond the immediate region. This makes it possible for students to study in whatever area or discipline that interests them or serves their career needs.\r\n\r\nGraduation/Suspension/Truancy/Expulsion Rates - By utilizing GENE in the classroom, the flexibility for schools to break away from the traditional structured classroom is expanded. This provides a venue, or extension for students that face special challenges in their lives without having to sacrifice getting an education. This can be carried through to students facing health issues as well as domestic challenges. If a student is suspended from school, they may still be able to participate in class (via GENE’s cyber-capability). The attendance and participation on GENE is managed and recordable. The ability for students to occasionally attend class from home, while maintaining a record and manageability for the administration is a key feature of GENE. In fact, students that are incarcerated may also attend public schools in this manner, if school administrators choose to include them.\r\n\r\nBuilding a student education pipeline is the very nature of GENE. Unique to the GENE enterprise is the ability for students to save their class work, lessons and projects in a database to refer back to for ‘recall’ and review.\r\n\r\nSafety - In the case of an emergency, everyone in the school could immediately receive a red flashing message with instructions of what the emergency is and what action to take. The message would automatically go out to all devices. This can be generated in the case of weather or school closings or other emergency situations."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will meet with local and state administrators to educate them on the

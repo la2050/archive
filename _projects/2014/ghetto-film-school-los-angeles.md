@@ -93,6 +93,9 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   impact_metrics: "GFS LA GOALS\r\nGFS LA is a creative education initiative with the purpose of engaging  young people in Los Angeles with an immersive and demanding curriculum. The Ghetto Film School Fellows Program brings rigorous arts training to young people and areas not typically targeted with such training, fostering a relationship between a diverse group of young filmmakers and the film and creative industries. \r\n\r\nCREATIVE EDUCATION\r\nAs the historic emphasis on industrial and purely analytical skill-sets fades, the United States’ public education system is in serious need of an infusion of innovation to remain globally competitive in the 21st Century. \r\n\r\nFilmmaking serves as a powerful vehicle for delivering this outcome. It is a collaborative, industrial art form that requires the ability to conceive, design, communicate, plan, execute and evaluate. Such an education broadens perspectives and provides a strong foundation for the successful pursuit of aspirations in any field. The ability to think creatively – to use versatile, innovative, and expressive skill-sets – is crucial in creating the kind of products and projects that will flourish in the 21st Century. \r\n\r\nGFS is a pioneer in the field of creative education, building an award-winning, replicable model for all participants in the American education system. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Year 1 of GFS LA began in June 2014. GFS LA delivers 1000+ hours of direct

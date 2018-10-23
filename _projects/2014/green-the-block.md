@@ -95,6 +95,9 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Long Beach
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
   impact_metrics: "Victory Farms will be established at each homeowner's back/front yard, as well as a Community Garden established within a 1-mile radius of homes. Families will be trained in growing and maintaining fresh, healthy food for their households and for their community.\r\n\r\nEnergy Efficiency audits at each home will determine indoor air quality issues and the measures required to remediate these issues, as well as ensuring a healthy, tight and energy-saving indoor environment.\r\n\r\nThe Green The Block initiative will work specifically with low-income families in West Long Beach, an area that is seriously impacted by  local pollution and GHG emission sources.  According to 2014 Census reports, median household income for West Long Beach is $43,464, which is 48% lower than that of Los Angeles. \r\n\r\nThis initiative will not only create healthier homes for families with individuals suffering from asthma and upper respiratory diseases, but it will also provide homeowners with increased value to their homes and create a \"Pride of Ownership\" mentality for entire neighborhoods.\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   SFCLA will open access to nutritious groceries and fresh produce at three

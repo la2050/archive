@@ -137,6 +137,12 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
   impact_metrics: >-
     Focusing on small manufacturing, Would-Works is committed to increasing job
     opportunities for individuals who are homeless or chronically unemployed in

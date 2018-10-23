@@ -15,7 +15,7 @@ project_areas:
   - LA COUNTY
 maker_answers:
   collaboration: "Project SPIN's main collaboration partner is the Los Angeles Unified School District –a partner since the beginning of its existence. Working with LAUSD allows us to take our mission for Project SPIN and implement it in the more than 1,200 schools that are a part of the District. With their support, we are able to create systemic changes on a larger platform, leaving a lasting impact for future generations in the public school system. The factors critical to the success of our collaboration include funding for resources and implementation, prior success in the work that we do, and a unified belief in Project SPIN's mission.\r\n\r\nIn addition to LAUSD and The Los Angeles LGBT Center, the SPIN effort includes the collaboration of the GSA Network, the Trevor Project, Children’s Hospital of Los Angeles, Trans Youth Family Allies, the ACLU of Southern California, the Latino Equality Alliance, PFLAG, the L.A. County Dept. of Mental Health (DMH), the Los Angeles Police Dept. and a dozen other organizations. Representatives of these groups meet regularly and developing an action plans to reduce homophobia and transphobia in district schools and get young people the support they need.  Project SPIN brings together agencies that are primarily focused on mental health (DidiHirsch and DMH) as well as LGBTQ-specific agencies to bridge the gaps in supporting schools and build stronger collaborations. \r\n\r\nWe have also partnered bargaining units (SEIU, UTLA, and ALAA), GSA Network, and others to produce our OUT for Safe Schools badges – part of the OUT for Safe Schools Campaign. All of the partners listed are confirmed and were part of last year’s Project SPIN campaign. \r\n\r\nLastly, Project SPIN has recently partnered with ONE National Gay & Lesbian Archives at the University of Southern California to develop educational materials for implementation of the California FAIR Education Act (2011). In June of 2014, Project SPIN created a resource guide of inclusive curriculum that teachers can use as supplement to textbooks. \r\n\r\n\r\n"
-  about_you: 'Los Angeles, CA'
+  metrics_learn_earlyeducation: '0'
   org_website: www.lalgbtcenter.org
   org_twitter: www.twitter.com/lalgbtcenter
   org_facebook: www.facebook.com/lalgbtcenter
@@ -94,8 +94,8 @@ maker_answers:
     community – teachers, principals, families, police officers, bus drivers,
     and the other individuals that will be given the tools necessary to create a
     safe and inclusive environment for LGBTQ youth.   
+  about_you: 'Los Angeles, CA'
   org_name: The Los Angeles LGBT Center
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
@@ -137,6 +137,9 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - 'All of the Los Angeles Unified School District '
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
   impact_metrics: "Project SPIN focuses in four areas to achieve the above metrics: \r\n•\tInclusive and affirming school policies\r\n•\tInformed mental health services\r\n•\tBuild capacity with all stakeholders\r\n•\tIntegrated curriculum and instruction\r\n\r\nLGBTQ students are at a far greater risk of dropping out of school as a result of depression, violence, harassment, substance abuse, addiction, homelessness, and HIV infection. By working to provide a supportive and friendly environment for all LGBTQ and marginalized youth, students will be more inclined to attend school and stay focused on their education. As a result, this will lead to increases in youth employment and graduation rates, as well as a perceived sense of safety at and on the way to school. There are a variety of ways Project SPIN will enable students to be more successful in their career and academics and feel safer day to day: by working on policy and consulting on ways to make schools safer with leaders throughout the system, garnering visible support through the Coming OUT for Safe Schools Campaign, creating kits and resources for administrators, and training all members of the community on issues ranging from LGBT sensitivity to awareness to suicide prevention. In addition, SPIN works with decision makers to draw awareness to systemic issues and are able to provide critical support in a district already low on resources. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Project SPIN’s main focus areas include Policy and Advocacy (developing

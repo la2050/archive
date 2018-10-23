@@ -134,6 +134,16 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - 'LA Area Probation Camps '
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: >-
     As the second largest city and school system in the US, LA serves as a
     microcosm of the challenges faced across the country, its demographic

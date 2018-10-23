@@ -156,6 +156,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '0'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
   impact_metrics: >-
     Eat:1) Access to eateries in accordance with their fitness regimen. Users
     will see incentives/promotions associated with respective eateries as well
