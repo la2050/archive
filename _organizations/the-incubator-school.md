@@ -30,6 +30,7 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
+    - https://maker.good.is/myLA2050learn/projects/incubator.html
   project_ids:
     - '5102302'
     - '4102140'

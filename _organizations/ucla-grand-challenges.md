@@ -20,7 +20,8 @@ project_ids:
 project_titles:
   - Thriving in a Hotter Los Angeles—100% Sustainability by 2050
 aggregated:
-  challenge_url: []
+  challenge_url:
+    - https://maker.good.is/myLA2050live/projects/UCLAHotterLA.html
   project_ids:
     - '4102180'
   year_submitted:
