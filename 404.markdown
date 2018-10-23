@@ -1,5 +1,5 @@
 ---
-title: Page not found, 2018 My LA2050 Activation Challenge
+title: Page not found, My LA2050 Ideas Archive
 body_class: blueberry
 
 permalink: /404.html
