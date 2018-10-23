@@ -20,7 +20,7 @@ project_areas:
   - County of Los Angeles
   - LAUSD
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How did you hear about this challenge?: Board member in Los Angeles
   Organization(s) name(s): National Park Foundation
   Organization(s) mailing address(es): '1110 Vermont Avenue, NW, Washington, DC 20005, Suite 200'

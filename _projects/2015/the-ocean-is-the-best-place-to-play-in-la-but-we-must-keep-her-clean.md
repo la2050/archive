@@ -19,7 +19,7 @@ project_video: 'https://www.youtube.com/embed/laadW_CUhSY'
 project_areas:
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: From friends
   Organization(s) name(s): 'Los Angeles Underwater Explorers; Ghost Fishing '
   Organization(s) mailing address(es): '6111 Mulholland Hwy, Los Angeles, CA 90068'

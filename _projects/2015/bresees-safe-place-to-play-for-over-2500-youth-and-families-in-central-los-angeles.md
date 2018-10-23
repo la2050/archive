@@ -20,7 +20,7 @@ project_video: 'https://www.youtube.com/embed/yeyzmCpYfFk'
 project_areas:
   - Central LA
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Newsletter
   Organization(s) name(s): P.F. Bresee Foundation
   Organization(s) mailing address(es): "184 S. Bimini Place\r\nLos Angeles, CA 90004"

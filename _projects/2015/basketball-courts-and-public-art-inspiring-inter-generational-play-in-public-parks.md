@@ -21,7 +21,7 @@ project_video: 'https://www.youtube.com/embed/phXK2cX3WEk'
 project_areas:
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: NPR
   Organization(s) name(s): Project Backboard
   Organization(s) mailing address(es): '922 Arroyo Drive, South Pasadena, 91030'

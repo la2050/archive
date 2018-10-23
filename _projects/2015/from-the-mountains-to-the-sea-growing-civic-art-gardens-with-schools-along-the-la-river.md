@@ -27,7 +27,7 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Good.is
   Organization(s) name(s): Unycyn Civic Arts
   Organization(s) mailing address(es): "po box 276 \r\nPacific Palisades, CA 90272"

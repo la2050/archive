@@ -16,7 +16,7 @@ project_video: 'https://www.youtube.com/embed/fRmzSDzuoRA'
 project_areas:
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: contacted by the city
   Organization(s) name(s): LACT - Los Angeles Community Theatre
   Organization(s) mailing address(es): '3930 Paige Street, Los Angeles, CA 90031'

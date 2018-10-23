@@ -20,7 +20,7 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Web search
   Organization(s) name(s): Motor Avenue Improvement Association
   Organization(s) mailing address(es): "3751 Motor Avenue Suite 341248\r\nLoos Angeles CA 90034"

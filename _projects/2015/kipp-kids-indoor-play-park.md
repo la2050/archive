@@ -19,7 +19,7 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How did you hear about this challenge?: Coworker
   Organization(s) name(s): City of Los Angeles Department of Recreation and Parks
   Organization(s) mailing address(es): "7341 Willoughby Ave\r\nLos Angeles, CA 90046"

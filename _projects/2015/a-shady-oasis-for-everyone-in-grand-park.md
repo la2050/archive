@@ -19,7 +19,7 @@ project_video: 'https://www.youtube.com/embed/BhO5jmXKosA'
 project_areas:
   - Central LA
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '0'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How did you hear about this challenge?: Goldhirsh Foundation e-blast
   Organization(s) name(s): Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
   Organization(s) mailing address(es): '135 North Grand Avenue, Los Angeles, CA 90012'

@@ -21,7 +21,7 @@ project_areas:
   - South LA
   - LAUSD
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or program: '1'
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How did you hear about this challenge?: Other nonprofit organizations
   Organization(s) name(s): Trojan Swim Club
   Organization(s) mailing address(es): "3501 Watt Way\r\nLos Angeles, CA 90089"
