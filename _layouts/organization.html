@@ -517,6 +517,13 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;" id="ideas">Submitted Id
   {% endif %}
 {% endfor %}
 
+{% assign is_honorable = false %}
+{% for honorable in site.data.honorable_mentions %}
+  {% if honorable.url contains page.url and project.year_submitted == 2018 %}
+    {% assign is_honorable = true %}
+  {% endif %}
+{% endfor %}
+
 {% assign is_winner = false %}
 {% for winner in site.data.winners %}
 
@@ -580,6 +587,8 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;" id="ideas">Submitted Id
 
       {% if is_winner %}
         and selected as a <strong style="text-decoration: none;">winner</strong>
+      {% elsif is_honorable %}
+        and selected as an <strong style="text-decoration: none;">honorable mention</strong>
       {% elsif is_finalist %}
         and selected as a <strong style="text-decoration: none;">finalist</strong>
       {% endif %}
