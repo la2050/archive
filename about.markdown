@@ -32,6 +32,7 @@ It is our hope that you’ll use the Ideas Archive to discover local organizatio
 
 If you have any questions about the information on this page, please send us an email at [connect@la2050.org](mailto:connect@la2050.org).
 
+
 <div class="introduction">
 <p class="action"><a href="/">Get started</a></p>
 </div>
