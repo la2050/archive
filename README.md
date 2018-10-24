@@ -8,6 +8,7 @@ https://archive.la2050.org
 * [How to make changes](#how-to-make-changes)
 * [How to edit an organization](#how-to-edit-an-organization)
 * [How to hide an organization](#how-to-hide-an-organization)
+* [How to add an image](#how-to-add-an-image)
 * [How to see a preview of your changes](#how-to-see-a-preview-of-your-changes)
 * [How to develop locally](#how-to-develop-locally)
 * [Handy guides](#handy-guides)
@@ -55,6 +56,34 @@ published: false
 To show the organization again, set the value of published back to `true`.
 
 _You can follow these same steps to hide or show one of the [projects](https://github.com/la2050/archive/tree/master/_projects)._
+
+## How to add an image
+
+If you want to add an image (or any file) to the website, you can upload it to one of the folders on GitHub.
+
+The [uploads folder](https://github.com/la2050/archive/tree/master/uploads) might be a good choice, if you’re unsure where to put a file.
+
+Once you’ve chosen a folder, follow these steps:
+
+1. Press the `Upload files` button
+
+2. Use the uploader to upload your files
+
+3. Press the `Commit changes` button
+
+It’s best to use lowercase letters and dashes instead of spaces for your filename. For example: `womens-march-la.jpg`.
+
+Once your file has been uploaded it be available at a web address that corresponds to the folder and filename that you chose. For example:
+
+```
+/uploads/womens-march-la.jpg
+```
+
+To use this on the website, you can create an image with [markdown](https://guides.github.com/features/mastering-markdown/):
+
+```
+![Women’s March LA](/uploads/womens-march-la.jpg)
+```
 
 ## How to see a preview of your changes
 
