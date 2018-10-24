@@ -99,6 +99,10 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Obesity rates
+    - Walk/bike/transit score
+    - Rates of mental illnesses
   impact_metrics: >-
     Through exercise the obesity rate will drop, healthy eating will occur,
     mental illness will lower (exercise has proven to improve mental health),

@@ -100,6 +100,15 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: "-Number of parks with social and artful play environments\r\n-Access to parks with an emphasis on creative play and recreation\r\n-Proximity to outdoor cultural events and performances\r\n-Increase the vibrancy of all the PLAY metrics through the inclusion of art and culture. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Keyed to Recommendation 5.16 of the 2007 LA River Revitalization Master Plan,

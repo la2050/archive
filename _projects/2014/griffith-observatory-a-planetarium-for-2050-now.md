@@ -157,6 +157,11 @@ maker_answers:
       Griffith Observatory serves not only our local community, but also
       visitors from around the world and from across the nation.
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Informal learning experiences such as planetarium shows inspire the
+      future, one imagination at a time by motivating students and lifelong
+      learners to go out and read a book, ask a question, or stay in school. 
   impact_metrics: >-
     Griffith Observatory is unique among Los Angeles institutions as a place
     where a broad range of demographic audiences, including students and adult

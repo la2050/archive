@@ -140,6 +140,10 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Minority- and women-owned firms
   impact_metrics: >-
     Each Opportunity Fund loan creates and sustains an average of 2.7 jobs.  Our
     goal of providing 600 loans in Los Angeles in the next year means that we

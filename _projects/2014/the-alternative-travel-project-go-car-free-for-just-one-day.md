@@ -101,6 +101,18 @@ maker_answers:
     - San Gabriel Valley
     - San Fernando Valley
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Median travel time to work
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located within a half-mile of transit) (Dream
+      Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
   impact_metrics: "Los Angeles is currently experiencing the beginnings of a travel renaissance. Its citizens are beginning to look toward an alternative to their cars. Through collaborations with advocates across the city we aim to catalyze a tipping point in this culture shift. In sharing local and international success stories we aim to increase awareness of the benefits of car-free travel, and encourage a greater demand for the infrastructure to support such options.\r\n\r\nThe ‘CONNECT’ metrics that will be most greatly influenced by our project are the number of public transit riders, and transit-accessible housing & employment. Both goals are direct aims of our organization, which is to inform & inspire people to travel car-free.\r\n\r\nWe hope to encourage development of an ATP community within LA who will create a greater demand for access to public transit; and we will work with LA County and its transit agencies to implement this infrastructure for their citizens. This ties in with the metric to improve government responsiveness to residents' needs.\r\n\r\nIn addition, our message to ‘Get Involved’ in the decision making processes regarding access to transit, walking and cycling; coupled with our collaboration with CicLAvia, directly correlates with the metrics to encourage attendance at cultural events, participation in neighborhood councils, and attendance at public/open street gatherings.\r\n\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Alternative Travel Project encourages people to volunteer days outside the

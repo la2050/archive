@@ -105,6 +105,22 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle school (Dream Metric)
   impact_metrics: "FutureBound’s games are an effort to reach out to underserved young people and help them understand the complex processes that govern their future education. These games give teachers, counselors, and parents tools that provide invaluable information to high school and middle school students using a medium that they're comfortable with and ready to engage with. Playing these games builds students' college-going aspirations and self-confidence, helping them picture themselves as successful college students and understand the steps they need to take to make that future a reality. This, in turn, affects the ambition that they demonstrate in school and in after-school activities. \r\n\r\nThe first game, FutureBound, encourages middle school students to become more engaged with their own education, both inside and outside the classroom, by expressing enthusiasm for their passions and, eventually, taking on leadership roles in after-school clubs and activities. Encouraging this sort of investment in academic and social organizations leads to students taking a greater level of responsibility for their own education, which will help to reduce truancy and increase graduation rates.\r\n\r\nThe second game, Mission: Admission, is explicitly designed to directly impact college matriculation rates by teaching high school sophomores and juniors about the application process, and allowing them to practice the skills they will need to employ (such as time management, self-presentation, and prioritization) when applying to college. There is a real and specific need for this education for students who would be the first in their family to apply to college and who don't have adequate access to a college counselor or other college advisor. \r\n\r\nThe third game, Graduate Strike Force, targets another important educational metric: the amount of college debt that is taken on by unprepared college-goers, and the pervasive problem of low-income students under-matching their own potential when applying to colleges. By teaching students about the dangers of taking on too many loans, while at the same time showing that a reasonable amount of debt can be a good investment for an education that improves their earning power, Graduate Strike Force addresses the inadequate financial aid literacy among many LA students and families."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FutureBound’s mission is to create a suite of fun, inspiring, and educational

@@ -112,6 +112,12 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: "EnrichLA has a particular interest in building edible school gardens in some of Los Angeles' most park-poor communities.  Many of our schools are built in areas with little to no green space.  Our school gardens change that.\r\n\r\nThese gardens act as outdoor classrooms, cheer-up school campuses, and connect children with the source of their food.  Children have commented that they feel \"safe\" in the garden.  The school garden offers them not only the opportunity to grow foods, but also to play and learn in an active, outdoor green space.  \r\n\r\nCommunity workshops and work days will offer community members (from all walks of life) the opportunity to enjoy the gardens as well."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   EnrichLA has a significant track record for designing, building, and providing

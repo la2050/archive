@@ -133,6 +133,15 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Median travel time to work
+    - Number of public transit riders
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located within a half-mile of transit) (Dream
+      Metric)
+    - Total number of social media friends (Dream Metric)
   impact_metrics: "Our project will have a positive impact on the following metrics: 1) Median travel time to work, 2)Number of public transit riders, 3)Government responsiveness to residents’ needs (Dream Metric), 4) Transit-accessible housing and employment, and 5)Total number of social media friends.\r\n\r\nACT-LA’s project ultimate goal is to have an equitable transit oriented policy enacted by the city. This policy would support having affordable housing near transit, keeping core transit riders near transit and improving the overall environment for residents. The project engages residents directly with government officials and demonstrates a democratic process of developing policy.  By engaging people in virtual spaces we would increase friends through social media.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ACT-LA will make LA the best place to Connect because we will develop a cadre

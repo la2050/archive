@@ -122,6 +122,9 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Government responsiveness to residents’ needs (Dream Metric)
   impact_metrics: >-
     This project meets two critically important metrics in the Connect
     application.  First, RAC’s Parent Advocate Program directly addresses

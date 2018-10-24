@@ -98,6 +98,13 @@ maker_answers:
     - Central LA
     - Downtown LA
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Minority- and women-owned firms
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
   impact_metrics: "Los Angeles Performance Practice was founded in 2010 by Miranda Wright.  We are a woman-owned firm, and support the work of female and minority artists. \r\n\r\nWe specialize in international collaboration, and are always looking for ways to \"export\" LA culture, in addition to bringing international artists to our city.  \r\n\r\nWe pay artists above union standards for performances, and strive to form partnerships with local businesses whenever possible to have positive cultural and economic impacts in the community. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We plan to work with city developers, property managers, and downtown

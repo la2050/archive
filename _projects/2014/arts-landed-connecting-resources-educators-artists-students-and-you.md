@@ -124,6 +124,21 @@ maker_answers:
     - Westside
     - Northeast LA
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Median travel time to work
+    - Attendance at cultural events
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located within a half-mile of transit) (Dream
+      Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
+    - Connecting diverse populations within neighborhoods; Walkability
   impact_metrics: "Rates of volunteerism: The program will encourage other local artists to volunteer to assist the artist in residency, and community volunteers and parents will likely volunteer to assist with art projects/lessons.\r\n\r\nAdults getting sufficient social and emotional support: Teachers in public schools will receive support from the artist in residence and parent volunteers interested in the arts. The artists will receive support from the students who we foresee being enthusiastic and excited about creating work with them. \r\n\r\nMedian Travel Time to Work: As the programs are locally based, the artist and collaborating arts organization will be close to the participating school, eliminating long commutes and encouraging walking/biking. \r\n\r\nAttendance at cultural events: Artists will take students on field trips to the partnering arts organization and other arts institutions, increasing attendance at cultural events and furthering students’ exposure to the arts.\r\n\r\nPercentage of Angelenos that volunteer informally: The public and educators will self-submit locations to participate in the project on the website. The participants and public will provide website feedback, volunteering their opinions to assist us in making the most user-friendly/accessible website and app.\r\n\r\nGovernment responsiveness to residents’ needs: The program will show how critical arts education is, and we foresee change in policy to accommodate this in the future. \r\n\r\nTransit-accessible housing and employment: Local artists are connected with local organizations and schools, keeping everything accessible.\r\n\r\nTotal number of social media friends: Live social media feeds will be integrated in the website and app, featuring posts from artists, teachers, volunteers, students, etc., thus expanding their social media reach and obtaining new friends.\r\n\r\nAttendance at public/open street gatherings: Art projects will be presented to the school community and/or public, through outlets such as an open street gathering or fair. \r\n\r\nResidential segregation: The website and residency program is about connecting neighborhoods together to find nearby arts activities and opportunities, thus helping to eliminate residential segregation.\r\n\r\nConnecting diverse populations in neighborhoods: Artists will connect with diverse populations at public schools and expand their understanding of their neighborhood. \r\n\r\nWalkability: Local artists will be encouraged to explore their neighborhood and walk to their partnering school."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Arts LANDed is a neighborhood-based artist-in-residence program at local

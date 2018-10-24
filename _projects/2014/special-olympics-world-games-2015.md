@@ -118,6 +118,14 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+    - Residential segregation (Dream Metric)
   impact_metrics: "Rates of volunteerism: Volunteers are the heartbeat of LA2015 requiring 30,000 Angelenos from across the County.  Los Angeles has a unique opportunity to come together all at once, something that hasn’t happened since the 1984 Olympic Games.  Our volunteers are all ages and their commitments can range from an afternoon to a lifetime.  What better way to jumpstart a volunteer movement towards a better Los Angeles in 2050. \r\nAdults getting sufficient social & emotional support: All of the 30,000 volunteers will receive training ranging from their immediate job function to interacting with people who have intellectual disabilities.  \r\nAttendance at cultural events: LA2015 enjoys working with the LA Tourism and Convention Board, several cultural institutions, community partners and LAWA to coordinate cultural events for the anticipated 500,000 spectators coming to the World Games.   \r\nNumber of public transit riders: Angelenos and tourists alike will be urged to use public transit throughout the games.  This will be a true test for measuring operating efficiency at peak capacity.  \r\nPercentage of Angelenos that volunteer informally: Special Olympics captures all of our volunteers in a CRM database.  Follow up can be conducted on rates of volunteerism following LA2015.  LA2050 could possibly connect LA2015 with other community centers to benefit from the ripple effect.  \r\nTotal number of social media friends: LA2015 utilizes all social media outlets.  \r\nResidential segregation: Volunteers and spectators will come together from all of LA’s neighborhoods.  Through the Host Town program, communities throughout all of Los Angeles County will host international delegations for three days leading up to Opening Ceremony.  Not only will LA’s neighborhoods be coming together but also they will host foreign guests in their schools, community centers and on their fields for play. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Patterned after the Olympic Games, the Special Olympics World Games occur

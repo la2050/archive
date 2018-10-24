@@ -162,6 +162,13 @@ maker_answers:
     - East LA
     - South LA
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Number of households below the self-sufficiency standard
+    - Percent of imported water
+    - Obesity rates
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
   impact_metrics: >-
     Our chosen goal is ushering life into a healthier LA, by promoting “food
     economy that promotes wellness and health” by converting existing sites into

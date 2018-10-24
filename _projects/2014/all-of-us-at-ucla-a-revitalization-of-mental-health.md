@@ -105,6 +105,26 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle school (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
   impact_metrics: "The availability of mental health resources and student health services on high school and college campuses are indispensable in ensuring access and matriculation, retention and growth, and graduation and employment. Mental health services are incredibly necessary to fortify a graduation pipeline that facilitates success both on and off-campus, and the All of Us campaign is a core component in our commitment towards ending the school-to-prison pipeline that too often deprives youth of their own agency and success.\r\n \r\nAs we dismantle the unwarranted stigmas of mental health perceptions, increase the availability and quality of mental health resources, and educate friends, family, and community leaders on the realities and pervasiveness of mental health, the success of Los Angeles students will surely skyrocket. Simply, students that feel better do better. As we create a culture of acceptance and education on matters of mental health, and as students have increased access to mental health services, the quality and caliber of their work and self-perception will consequentially rise. As students become increasingly confident and comfortable in their work, their success will lead to better chances for college matriculation, post-graduate employment, and a less tumultuous journey along the way. Surely increased mental health services and resources will prevent students from temporarily or indefinitely suspending their time at an educational institution, and will accordingly also reduce their risk of interacting with the juvenile justice system that captures at-risk youth who, often due to mental health issues, are unable to engage in the classroom to their fullest potential.\r\n \r\nAs the All of Us campaign expands and gains support of all aspects of civil society, including K-12 education, private businesses, government organization, community-based nonprofits, and faith-based institutions, the “Learn” metrics will be addresses and become a priority across the region. Identifying and addressing mental health issues early in a student’s life will have an unprecedented impact in bettering their education environment and ensuring that their fullest attention and abilities are maximized in class. Reducing truancies, ensuring a sense of safety, and maximizing student potential on achievement exams are but the beginnings of what this mental health revolution will be successful in. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   All of Us campaign includes a core team of student leaders who organize around

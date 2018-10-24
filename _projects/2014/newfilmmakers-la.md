@@ -128,6 +128,14 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
   impact_metrics: See above.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   NewFilmmakers Los Angeles is requesting funds to aid us in expanding our core

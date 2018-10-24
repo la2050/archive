@@ -108,6 +108,22 @@ maker_answers:
       Harbor area communities surrounding the Ports of Los Angeles and Long
       Beach
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Patents per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Number of high-growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - Employment in advanced manufacturing/clean technology
   impact_metrics: "According to the 2014 My LA2050 Report: “Incubators as a source of job creation” and “expanding employment opportunities around technology and increasing diversity in technology entrepreneurship” were top trends that emerged from the 2013 Challenge Grant submissions. “Technology and entrepreneurship education also emerged as a method to solve one of Los Angeles’ gravest issues… education.” PortTech’s entrepreneur outreach, education and mentoring program directly speaks to these top trends. \r\n\r\nFederal research grant funding & Venture capital investment:\r\nWe conduct workshops that educate entrepreneurs seeking funding. Last year, more than 200 entrepreneurs participated in SBIR grant funding workshops and investor networking events. And our portfolio clients were awarded more than $8 million in funding.\r\n\r\nPatents per capita & Number of high-growth startups:\r\nThese metrics are indicators of technology innovation. PortTech reaches out to a global community of clean tech entrepreneurs. As they develop products – from R&D phase through commercialization – we support their efforts to protect intellectual property and continue product development. Through our PortTech Pitch program, we attract startup teams with high growth potential.\r\n\r\nMinority- and women-owned firms & Gini Coefficient:\r\nThese metrics address diversity, inclusivity and equality across cultural, gender and socioeconomic spectrums. We reach out to entrepreneurs from our own backyard and across the globe. Thus participants in our programs reflect that inherent diversity. By focusing on the clean economy, jobs created through our efforts offer more opportunities and better pay for low- and middle-skilled workers than the national economy as a whole. \r\n\r\nConcentration of and employment in advanced manufacturing/clean technology & Percentage of graduates that remain in LA County 5 years after graduating:\r\nJob creation is critical to the economy of the Harbor area and Los Angeles. PortTech portfolio companies solve global environmental challenges while creating technology- and manufacturing-based jobs. As these high-quality jobs become available, graduates will stay to work in our communities.\r\n\r\nGlobal economic influence (“soft power”):\r\nPortTech is the ONLY clean tech incubator worldwide that focuses on the port and maritime industry sectors.  As our portfolio companies implement environment-changing solutions worldwide, we help define LA as a global leader in advanced manufacturing, technology and innovation."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   PortTech’s concentrated effort to identify, attract and retain qualified

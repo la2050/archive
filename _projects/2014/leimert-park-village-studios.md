@@ -111,6 +111,19 @@ maker_answers:
     - South Bay
     - Leimert Park
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
   impact_metrics: "Employment in the local neighborhood-based creative industry, and enhanced internal capacity, are key to improving most of the above metrics. The establishment of an infrastructure nurturing collaboration and the creation of additional ventures and micro-enterprises will attract investment, creative talent, and new audiences. This effort will be further enhanced by the creation of a comprehensive Creative Director and Database.\r\n\r\nOur already established joint marketing program, website, and LiveStream TV Station will allow us to position ourselves as a local, national, and even international portal for cultural production and distribution--especially the arts and culture of the African and African-American Diaspora. This cultural focus will generate jobs and income for minority-run businesses and initiatives.\r\n\r\nOur Community Investment of Individual Development Accounts will act as seed money to leverage further venture capital investment in the neighborhood. In concert with the greatly expanded access and visibility afforded by the coming Metro station, this will increase the economic vitality of Leimert Park exponentially.\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Within the existing framework of the LPV 20/20 Vision Initiative, a grassroots

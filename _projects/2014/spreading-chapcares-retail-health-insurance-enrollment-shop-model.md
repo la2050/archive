@@ -102,6 +102,8 @@ maker_answers:
   Which area(s) of LA does your project benefit?:
     - San Gabriel Valley
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Healthcare access
   impact_metrics: "ChapCare’s proposed project will significantly expand access to health care services by first expanding access to health insurance. Many low-income individuals want to visit the doctor, but those without health insurance oftentimes do not because they are afraid of being saddled with a large bill.\r\n\tBased on our previous experience during the first Covered California open enrollment period, we are confident that we can enroll thousands of individuals per year into health insurance in this area and facilitate access for those enrolled into primary health care services (please see specific metrics sections for details), and as a result, significantly alter the health care landscape in this underserved community.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   RUN4YOURLIFE - 10K Walk/Run where you get paid to participate. Mobile app

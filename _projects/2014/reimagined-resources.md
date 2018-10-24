@@ -128,6 +128,12 @@ maker_answers:
     - San Fernando Valley
     - South Bay
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: >-
     We will be a free, clean and imaginative space in open areas where there are
     not a lot of options for STEAM projects.

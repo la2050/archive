@@ -123,6 +123,11 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Minority- and women-owned firms
+    - Venture capital investment
   impact_metrics: "The local businesses that we plan on collaborating with are either owned by women, people of color, or small businesses that are at risk of displacement due to gentrification, or have been threatened by some form of economic hardship.  \r\n\r\nOur project seeks to employ artists, writers, musicians, and educators as facilitators of the 7 workshops. We would also supply honorariums to musicians and poets who would be performing at the book launch events. \r\n\r\nThis project could serve as an influence to the literary community at large, by demonstrating an alternative way to approach the business of publishing. \r\n\r\nWe plan to seek funding opportunities via venture capital investment, to sustain the project past the Fall 2015 commencement date, should this projected be funded by LA2050. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   The project will facilitate a series of 7 three-part programs. 

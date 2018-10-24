@@ -109,6 +109,20 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - >-
+      Helping youth define and achieve their career goals and eventually become
+      mentors for their own community
   impact_metrics: "Through partnerships we're already beginning to establish with the California Community College system, we will be able to provide the resources necessary to help complete their degree programs, prepare their application to increase transfer rates, or help them find a job after the end of their program.\r\n\r\nYouth unemployment will decrease because we have mentors who are helping youth with the skills they currently have limited or no access to, preparation from industry professionals.  Young people will be able to better position their resumes, cover letters, and be prepared better for interviews by receiving guidance from people who have already been in their shoes.  Through our observation it seems quite a prevalent problem that youth simply do not know how to represent their accomplishments to translate that to a job.  By having hiring managers and successful people in their desired field show them how to highlight and best present their skills and abilities youth will have a higher likelihood of receiving the job offer.\r\n\r\nWe will help alleviate underemployment by helping youth identify the career that best translates their passions, interests, and hobbies.  Also we have experienced many situations where recent college graduates are not even aware of potential career paths their degree holds for them, unconventional or even traditional jobs because they do not understand the work environment just yet.  Our algorithm and crowdsourced system should help students better understand what careers are out there and how to find the best fit for their future happiness.\r\n\r\nBy having mentors who have come from similar backgrounds as the students, we can help guide them from every stage of their journey, from high school to college and beyond.  We will be there every step of the way from mentors to the social platform to algorithms to suggest recommended career pathways."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already started implementing the project on a small scale by

@@ -144,6 +144,12 @@ maker_answers:
     - South LA
     - Westmont; LA County
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency standard
+    - Rates of homelessness
+    - Percentage of tree canopy cover (Dream Metric)
+    - Environment design’s impact on well-being
   impact_metrics: "Through SCI-Arc’s partnership with Habitat for Humanity this project will impact the number of households below the self-sufficiency standard and rates of homelessness. Being able to partner with such a well-respected affordable housing organization allows the initiative to have an immediate impact on families and individuals in LA. Because, however, the partnership will ensure that creative design, innovation, and sustainability are at the forefront of the affordable housing model, this project will also impact the LA2050 ‘LIVE’ metrics through an added metric of how an environment’s design can impact how we live. \r\n\r\nIn addition, from SCI-Arc’s seminar on mitigation strategies that reduce air pollutants and foster healthy home environments, as well as planned continued research at SCI-Arc on these mitigation strategies, this project can impact exposure to air toxins and increase the percentage of tree canopy cover. The seminar concluded with the premise that aggregated active and passive mitigation solutions can improve air quality of project sites and their neighboring properties. Through strategies such as filtration and barriers from traffic (walls, building materials, trees, and landscape), different approaches can greatly benefit how healthy a built environment can be. While initial project sites will not be freeway adjacent, pollution is still a very real issue in the car-commuter culture of Los Angeles and it is important that these strategies still inform design decisions, all contributing to a healthier home environment. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Step 1: Identify Schools. We are currently identifying 6 urban public

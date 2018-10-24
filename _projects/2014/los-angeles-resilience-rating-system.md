@@ -116,6 +116,26 @@ maker_answers:
     - Westside
     - Southern California Region
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency standard
+    - Percent of imported water
+    - Obesity rates
+    - Rates of homelessness
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Rates of mental illnesses
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    - Percentage of tree canopy cover (Dream Metric)
+    - >-
+      Ability of communities to survive, recover and rebound fully after
+      emergencies. 
   impact_metrics: "While our proposal specifically focuses on the “Percentage of LA communities that are resilient (Dream Metric),” the project has the potential to impact every one of the metrics on the list. \r\n\r\nConnected communities are the backbones of resilience. Building projects must look beyond their site boundaries and work with their neighbors in new ways. While community engagement is often required on large development projects, it will be a new endeavor for either single building new construction or existing building operations projects. Therefore, our rating system will include a clear step-by-step process to help projects identify and engage stakeholders—the people who will live or work within their boundaries and the people who live nearby, including disadvantaged and vulnerable populations that may be harder to reach. This will facilitate increased social connectedness while enabling communities to identify current threats, shared vision, and opportunities for resilience through collaboration. \r\n\r\nMany of the strategies that support resilience result in other benefits at the same time. For example, the answers to minimizing the impact of downed power lines, destroyed water pipes, or crumbled roads that result from earthquakes or major storms might involve everything from connecting communities with bike lanes, installing rainwater capture systems, creating training programs for building operators to serve as first responders, installing solar panels, renovating buildings, creating community gardens, developing programs to support the elderly or at-risk youth, or throwing parties so neighbors can connect. Each of these efforts can contribute to other LA2050 goals, not only in the LIVE category but also in the CONNECT, LEARN, CREATE and PLAY categories as well. In fact, the LA2050 goals and associated metrics map seamlessly with resilience. The LA Resilience Rating System will help building projects and their communities work together to prepare for emergencies in ways that create better, healthier, more connected places for all. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project will be building off of the success of the existing Nature

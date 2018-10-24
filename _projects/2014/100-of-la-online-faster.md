@@ -114,6 +114,25 @@ maker_answers:
     - Westside
     - NELA
   Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Median travel time to work
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located within a half-mile of transit) (Dream
+      Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
+    - Access to free wifi (Dream Metric)
+    - Telecommuting offset to all other travel infrastructure loads.
   impact_metrics: "Pervasive Internet connectivity and local online community services affect every single metric in every LA 2050 goal. \r\n\r\nEven when workers do not telecommute from home, higher speed connections allow businesses to utilize coworking offices in multiple regions near transit hubs, which allow groups of workers to come together in places more convenient and transit friendly than any one office next to a full parking lot. \r\n\r\nThe net offsets to transportation system loads created by telecommuting and co-working hubs provide huge benefits to the local environment and infrastructure maintenance loads. \r\n\r\nStudies show that anyone who commutes more than 45 minutes in each direction is less satisfied with their life overall, so reduced congestion and less stressful commutes have positive effects on both home life and general productivity. Reducing commutes just 5 minutes each way gives a worker back up to 20 hours of their private life each year. Public transit commutes enabled by coworking hubs gives them much more time to read and have fun than sit behind a wheel. They are also much more likely to stay fit by walking or biking to their closest transit stops.\r\n\r\nCommunications networks are the backbone of every civic and business organizing effort in the city. This application process itself requires a computer with Internet access! \r\n\r\nCivic engagement, education, volunteerism, informed voters, government response time, employment, and socialization are all much easier to plan and coordinate online. None of this can happen for every LA citizen equally unless Internet access is ubiquitous to every home, family, and institution in the region."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Get 100% of LA online faster! Allow citizens, institutions, and small biz to

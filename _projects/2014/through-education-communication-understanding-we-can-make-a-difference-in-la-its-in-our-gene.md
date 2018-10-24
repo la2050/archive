@@ -107,6 +107,25 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - Suspension and expulsion rates (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
   impact_metrics: "Early Education Programs - If programs are implemented  by the local school districts, there will be resources available to instructors to use and share in early learning programs. As schools take on more of these programs, more resources will become available. Previous barriers such as expense & availability can be removed making programs more easily accessible.\r\n\r\nGENE provides students the flexibility needed in a Community College setting. Students can take courses from home or the office if they are unable to attend class. Many professors like the options of reducing the need for books and the digital recall of courses or classwork available through GENE.\r\n\r\nGENE is totally customizable to meet the needs and demands of regional employment. GENE provides the opportunity for collaboration beyond the immediate region. This makes it possible for students to study in whatever area or discipline that interests them or serves their career needs.\r\n\r\nGraduation/Suspension/Truancy/Expulsion Rates - By utilizing GENE in the classroom, the flexibility for schools to break away from the traditional structured classroom is expanded. This provides a venue, or extension for students that face special challenges in their lives without having to sacrifice getting an education. This can be carried through to students facing health issues as well as domestic challenges. If a student is suspended from school, they may still be able to participate in class (via GENE’s cyber-capability). The attendance and participation on GENE is managed and recordable. The ability for students to occasionally attend class from home, while maintaining a record and manageability for the administration is a key feature of GENE. In fact, students that are incarcerated may also attend public schools in this manner, if school administrators choose to include them.\r\n\r\nBuilding a student education pipeline is the very nature of GENE. Unique to the GENE enterprise is the ability for students to save their class work, lessons and projects in a database to refer back to for ‘recall’ and review.\r\n\r\nSafety - In the case of an emergency, everyone in the school could immediately receive a red flashing message with instructions of what the emergency is and what action to take. The message would automatically go out to all devices. This can be generated in the case of weather or school closings or other emergency situations."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will meet with local and state administrators to educate them on the

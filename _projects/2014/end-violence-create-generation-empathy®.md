@@ -128,6 +128,11 @@ maker_answers:
       Our pilot program will be in the Boyle Heights area, then expand to
       greater Los Angeles, and beyond.
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Play” metrics?:
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Bryant Empathy Index
   impact_metrics: "After School Programs: The pilot Generation Empathy® program will be held at the Salesian Boys & Girls Club (most offerings are over the summer or after-school), and the success of the program will help to enroll more kids in similar programs.  \r\n\r\nPer capita crimes: If the program is successful in reigniting empathy in a generation of young people, they will break the cycle of violence, and be less likely to commit violent crime.  Further, they will be more likely to want to stand up for those who are victimized or hurt, and may be more likely to intervene and/or report crime happening in their neighborhoods.  \r\n\r\nPercentage of residents that feel safe in their neighborhoods: communities in which a generation of youth is comprised of compassionate individuals will lead to more people feeling safe in their neighborhoods.  Not only will these youths be less likely to commit crime, and more likely to intervene when they see it happening, they will also have the added benefit of understanding the importance of proper pet care and animal handling.  They will know how to correctly handle the issues of stray or dangerous animals.  As adults, they will be more likely to have their pets spayed/neutered, and will be more likely to treat pets as members of the family. \r\nBryant Empathy Index: students who participate in Generation Empathy® will express a higher degree of capacity after having completed it (pre-/post- surveys)"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1. Develop and finalize Generation Empathy® curriculum, for several age

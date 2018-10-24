@@ -136,6 +136,15 @@ maker_answers:
     - San Fernando Valley
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Greater content knowledge about the region, its infrastructural networks,
+      its history, and LASA participant's places within that.
   impact_metrics: >-
     We believe the content knowledge imparted by LASA is step one; step two is
     confidence-building about each student's place within the metropolis.  We

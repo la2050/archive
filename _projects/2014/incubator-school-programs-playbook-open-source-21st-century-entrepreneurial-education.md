@@ -147,6 +147,20 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - Academic Performance Index scores
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle school (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
+    - Entrepreneurship Access for All
   impact_metrics: "In 2013 the Gallup Organization released the results of a poll on student motivation in school. They titled it, \"The School Cliff: Student Engagement Drops With Each School Year.\" The drop in middle and high school was precipitous. Students are disengaged from school. The poll analysis went on to say, \"among the many types of students whose engagement wanes during their time in the educational system are those who have high entrepreneurial talent. These are literally our economic saviors -- the future job creators for America.\"\r\n\r\nWe founded the Incubator School to address the disengagement/ dropout crisis facing our city's schools. Students often act up, act out, are chronically absent, and academically unmotivated because they're disengaged with the 19th century school topics and techniques that they encounter for six hours each day. \r\n\r\nHowever, from a decade plus of teaching diverse students in LAUSD, we understand that students might be disengaged from school but they are not disengaged from learning. They learn to play games, use apps, use new technologies like Snapchat, Vine, Instagram, etc. in ways and at speeds that put adults to shame. \r\n\r\nOur goal is to bring the types and methods of learning that are outside of school inside. Technology has to be the driver for this re-engagement of middle and high schoolers with school. We also know that many of the entrepreneurial students who drop out of or retreat from school learning take their energies and talents into underground economies, be they selling things at school (every public high school in LA has an entire world of alternate food suppliers) or selling illegal substances outside of school. We believed that students who do this do so in part because they don't have access to legal entrepreneurial networks. \r\n\r\nAt the Incubator School we offer all our students the intellectual and social capital, contacts, connectivity, and skills to help their fledgling entrepreneurial ideas fly. We meet them where they are so that they can go where they would like to go. We aim to make a different future possible. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Start up education is a new frontier, and the Incubator School is one of its

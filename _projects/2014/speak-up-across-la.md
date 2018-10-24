@@ -109,6 +109,13 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
   impact_metrics: "Our project has both an immediate and long-term impact in Los Angeles. The 50 individuals initially involved in the program will feel an immediate social connectedness to each other and their community. \r\n\r\nThe 50 films that are developed through the power of social media and community film screenings can have an impact that we estimate to hit 100,000 people. This inter-generational relationship building will make a powerful impact across generations. The young people sharing their stories will empower professionals to connect themselves to local nonprofits, become civically active and volunteer with community groups. The students through the filming and screening process will find adult allies that actually listen and care about what they have to say and contribute. To give voice is to give a stake in the public discourse, and that is what our project with Youth Speak Media Solutions intends to do. \r\n\r\nThe participants in the film screenings and discussion will be inspired to volunteer more or become more involved in local government. As young stakeholders, students will become more civic-minded, attend more volunteer events and be motivated to simply vote in order to get their voice heard. With involvement of many community partners throughout the process, we are breathing new life into a city where citizen’s care and neighbors talk to each other.\r\n\r\nThe students we interview are the individuals that others follow. If they set a good example and affect change in their social spheres, a domino effect of social awareness, civic engagement, and increased volunteerism among Los Angelenos city-wide is possible. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We want to present the voices of our future leaders. By 2050, the youth of

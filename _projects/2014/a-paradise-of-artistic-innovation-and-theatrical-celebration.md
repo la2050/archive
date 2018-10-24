@@ -103,6 +103,17 @@ maker_answers:
     - South Bay
     - San Pedro and the Port of Los Angeles
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
   impact_metrics: "Certainly we will be able to employ more artists in our theatre than would otherwise be possible, and at closer to a living wage than is usual for theatre in LA.  This extends to technicians, designers, and other positions as well.\r\n\r\nIf we firmly establish ourselves as a major player in America's regional theatre circuit we give LA added credit and reputation as a cultural player in what is generally seen as more \"serious\" art.  \r\n\r\nOur eventual accredited MFA conservatory will employ and retain graduates of higher learning institutions be necessity.  We will attract those who both wish to teach and grow with us, but also wish to teach at other local colleges and universities. \r\n\r\nThrough the accreditation process we may find that we will partner with an extant college or university in the local area, thus funneling the graduates and faculty into our programs and projects.  This will likely increase retention in the area after graduation.  "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our first step will be to focus our efforts on maintaining the highest class

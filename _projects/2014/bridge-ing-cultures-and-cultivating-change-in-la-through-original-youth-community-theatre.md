@@ -108,6 +108,17 @@ maker_answers:
     - South LA
     - Lynwood (with potential to expand throughout LA County)
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
   impact_metrics: "Rates of volunteerism & Percentage volunteering informally:\r\nBRIDGE encourages youth and their communities to become more aware of one another’s struggles and sets forth actions to make change possible. A crucial lesson we will impart is the importance of volunteering for a cause you believe in. Monetary compensation isn’t always possible, but if it makes the community a better place, it’s worth it.\r\n\r\nVoting rates by race:\r\nProgress depends on active participants in the community. One of the simplest and most accessible ways to do this is voting, which we emphasize greatly in our program.\r\n\r\nAdults getting sufficient support:\r\nBRIDGE’s culminating presentation connects parents, teachers and other community members with local leaders in government and social services. They will help facilitate discussions on how to resolve personal and communal problems, and provide resources for sustainable support.\r\n\r\nAttendance at cultural events:\r\nParticipating in BRIDGE directly engages students and their families in a cultural arts program. The workshops also spark interest and deepen understanding of the array of cultures in LA. Our hope is that BRIDGE will inspire them to get involved in even more cultural events for many years to come.\r\n\r\nParticipation in neighborhood councils & Attendance at public gatherings:\r\nCreating community-wide change requires being actively involved in the local community. BRIDGE will emphasize the importance of participating in neighborhood councils, including possible field trips to Chambers of Commerce and other civic agencies, as well as attendance at public gatherings.\r\n\r\nGovernment responsiveness:\r\nInviting civic leaders to the students’ culminating presentation and utilizing their expertise to generate discussions will provide direct interaction with community members. Listening to local concerns and proposed steps to solve them will establish a platform for improved responsiveness.\r\n\r\nTotal # of social media friends:\r\nIt is inevitable that students will make friends through this process. BRIDGE is all about connection, and this applies to the adult community who supports them as well. Facebook friends will surely multiply!\r\n\r\nResidential segregation:\r\nCreating awareness and understanding of other cultures in LA, while identifying commonalities and demystifying stereotypes, will plant seeds for a more tolerant, harmonious society. By 2050, we hope this aids in the cultural integration of residences throughout LA."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   BRIDGE Theatre Project began in 2009 as an international theatre program

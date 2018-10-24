@@ -143,6 +143,21 @@ maker_answers:
     - South LA
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Gini coefficient
+    - Number of high-growth startups
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
+    - >-
+      Employment opportunities for individuals who are homeless or chronically
+      unemployed in Skid Row
   impact_metrics: >-
     Focusing on small manufacturing, Would-Works is committed to increasing job
     opportunities for individuals who are homeless or chronically unemployed in

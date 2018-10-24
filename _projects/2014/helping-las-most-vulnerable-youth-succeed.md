@@ -110,6 +110,14 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
   impact_metrics: "Foster youth, living at the mercy of an overburdened system, have been robbed of their promise in Los Angeles County.  From lower preschool enrollment to lower high school graduation rates, you would be hard-pressed to find a group of kids more challenged in our schools.  It is our intent that two successful programs will benefit from FosterMore’s efforts to increase awareness of foster youth and provide opportunities to get involved with them.\r\n\r\nThe College Readiness Program at United Friends of the Children (UFC) is a tried and proven model that delivers outcomes where others have failed. Our campaign aims to drive additional resources to this successful effort.  The referral of potential foster parents to Raise A Child will ensure additional foster families to address the profound need in Los Angeles.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   When budgets are cut, those without a voice in government are the hardest hit.

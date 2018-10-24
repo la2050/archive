@@ -177,6 +177,15 @@ maker_answers:
     - South LA
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Rates of homelessness
+    - Rates of mental illnesses
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
   impact_metrics: >-
     Because WIN integrates its mental heath services with the health, social
     services, food and housing support, and early care and early intervention

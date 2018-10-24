@@ -137,6 +137,14 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: "Los Angeles is a stream of parking lots, apartment complexes, mini-malls and freeways. And it's all on some of the best growing ground on the planet. A shame.\r\n\r\nA 1 acre children's garden and school would show that a different city is possible: more play space, more garden teaching space and more space to have first-hand conversations with butterflies. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We've partnered with Environmental Charter High School in Lawndale and Mia

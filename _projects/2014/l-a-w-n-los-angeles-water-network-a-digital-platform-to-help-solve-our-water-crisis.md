@@ -127,6 +127,13 @@ maker_answers:
       We will be testing our project in the San Fernando Valley, but it will
       have an impact on the whole city.
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Exposure to air toxins
+    - Percent of imported water
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
   impact_metrics: "This app will help LA increase our local water supply and conserve water by assisting landscape improvement projects and other conservation efforts. This will help increase the amount of open space, improving water AND air quality, providing increased wildlife habitat throughout the city. Through a more networked community, this app will promote awareness, education, volunteerism and support. Ultimately, this will help create a more resilient  and healthy Los Angeles.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Undevelopment One will be the pilot project for a hoped for network of

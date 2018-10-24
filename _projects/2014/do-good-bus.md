@@ -117,6 +117,10 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of social media friends (Dream Metric)
   impact_metrics: "Rate of volunteerism - The Do Good Bus will make the largest impact in this category and our returning clients are evidence of that. Our primary goal of these bus rides is directly in line with increasing the rate of volunteerism as well as making strong connections with one another. \r\n \r\nPercentage of Angelenos that volunteer informally (Dream Metric) - This percentage will also increase as we encourage everyone who does a Do Good Bus ride to continue getting involved and doing good in their daily lives. We hope to provide an exciting experience that will get people thinking of other, informal ways to volunteer as well. \r\n \r\nTotal number of social media friends (Dream Metric) - We utilize our social media platforms every day as well as providing live updates during the rides. We stress the importance of staying connected through social media and encourage our do-gooders to follow us and the cause by tweeting, instagraming, & tagging or posting pictures showing their experience on Facebook. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Hop on the bus and we’ll do the rest! Here at the Do Good Bus, we deliver an

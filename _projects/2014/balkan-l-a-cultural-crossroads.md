@@ -99,6 +99,8 @@ maker_answers:
     - San Gabriel Valley
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Play” metrics?:
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: >-
     Because the arts often move past language barriers given their visual and
     aural natures (dance, music, film, visual art) and because the arts

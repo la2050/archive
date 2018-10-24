@@ -108,6 +108,11 @@ maker_answers:
     - South LA
     - Jordan High School in Watts and Roosevelt High School in Boyle Heights
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - Suspension and expulsion rates (Dream Metric)
   impact_metrics: "City Year LA and the Partnership both have set organizational goals that align directly to many of the LA2050 \"LEARN\" metrics.  As mentioned above, we are both working tirelessly towards improving educational outcomes for students in our city.  While targeting two schools in LAUSD that have lower-than-average graduation rates, we know that if we can improve the performance of the students and increase the number of students graduating from Roosevelt and Jordan, we can move the needle on the graduation rates in our district.  \r\n\r\nPrevious CYLA-PLAS partnerships have seen great results towards the above metrics, including at Mendez High School in Boyle Heights. During the first year City Year LA served at the Partnership’s Mendez High School, the school had the highest one-year gain on the Academic Performance Index in the entire state of California among traditional large schools.  \r\n\r\nWhile our partnership together aims to improve the whole school, we focus much of our time on improving the performance of students in English/Language Arts and Math--two subjects research says are critical to a student graduating high school.  Working towards this, City Year corps member provides structured academic support throughout the day to a targeted group of students who are off track in math or English.  In meeting with Partnership for LA Schools teachers biweekly, corps members are able to align the content of their tutoring with the current lessons being implemented in the classroom.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   As stated above, City Year and Partnership for LA Schools have worked closely

@@ -97,6 +97,16 @@ maker_answers:
     - South LA
     - San Gabriel Valley
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
   impact_metrics: "Our most effective service delivery model, program and community tool is time banking. Matching untapped resources with unmet needs, Time Banking is a pay-it-forward system that encourages volunteerism through the exchange of time. Our members, who number over 1300, volunteer 24,740 hours each year through individual exchange and our own sponsored events, as well as broader cultural events and community activities, such as tutoring and library programs, community gardens, food swapping, community revitalization efforts and prison re-entry projects. This powerful community-building tool combats poverty and isolation by teaching people to leverage existing resources through relationship building, advocacy work and creative problem-solving within their own neighborhoods. \r\n\r\nWhen people connect to share, they experience a better quality of life largely because of the sense of inclusion they experience and the community building that inevitably follows. Our network is constantly growing as the demand for time banking in LA grows. In part, this project seeks to help LA become empowered to support time banking in every neighborhood and community where it is wanted and needed. This project will provide more concrete ways for our members to volunteer, in planning and carrying out the ShareFest, and in contributing to the development and implementation of the civic goals outlined in our blueprint.  \r\n \r\nOur Metro Pass program, which encourages use of public transportation by giving substantial cost discounts, has doubled each year, to more than 200 participants. We expect this project will give more visibility to our already existing sharing economy strategies, such as time-banking and our community revolving loan fund, and assist us in growing these programs.\r\n\r\nWe also consistently see our members transform over time from isolated individuals into connected, motivated community leaders. Recently several of them secured seats on the Silver Lake Neighborhood Council. Though they did this independently of the time bank, they undoubtedly are greatly influenced by the skills, knowledge and ideas that have come from membership. Connected people care more about their communities and we hope to push them forward into civic leadership. \r\n \r\nShareFest will connect the wider Angelenos community to the sharing economy in the creation of a new public commons for free. This increase in involvement will allow us to develop ideas identified in the blueprint and take them to scale.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through our work we know that sharing leads to more connected, resilient and

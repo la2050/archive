@@ -114,6 +114,15 @@ maker_answers:
     - Central LA
     - Families from all over Los Angeles County visit Pershing Square.
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: "With the addition of a playground at Pershing Square the community can continue to meet the growing needs of its youngest residents. Playgrounds provide crucial and vital opportunities for children to play. The mobile youth program that is run out of Pershing Square provides children a safe place to come after school.  A playground at Pershing Square would allow us to grow our current children's park programs, including our mobile youth after school programs.\r\n \r\nPlaygrounds provide a safe environment designed specifically to foster and enhance the opportunities for a child to play alone, with a caregiver, or with other children. Playgrounds provide crucial and vital opportunities for children to play. There is substantial research showing the clear link between play and brain development, motor-skills, and social capabilities. All learning—emotional, social, motor and cognitive—is accelerated, facilitated, and fueled by play. Playgrounds that promote different types of play are vital for a child’s cognitive, emotional, physical, and social development.The Kids Play at Pershing Square playground will provide a secure environment to grow community involvement and learning with the new families and visitors to Downtown. \r\n \r\nThere are currently 50,000 residents Downtown and another 5500 coming in the next 3 years.  Kids Play at Pershing Square playgrounds (2-5 year and 5-12 year old playground) would be the second playground in Downtown.  Given the importance of play in the development of a child, any space which gives a child free reign to do just that should be seen a crucial component in a child’s life and in the continued growth and development of one’s community.\r\n \r\nQuite simply, the addition of a playground to Pershing Square will improve the quality of life for the downtown community.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project is shovel-ready and we have secured matching funds. All planning,

@@ -124,6 +124,10 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
   impact_metrics: >-
     As noted previously, 3rd grade reading proficiency is strongly correlated
     with high school graduation.  By offering programs that prepare more 3rd

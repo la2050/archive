@@ -141,6 +141,11 @@ maker_answers:
     - Westside
     - Long Beach
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - College matriculation rates
   impact_metrics: By ensuring students graduate.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In order to increase college graduation rates of low-income students living in

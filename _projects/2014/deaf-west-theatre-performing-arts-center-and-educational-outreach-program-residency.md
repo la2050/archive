@@ -121,6 +121,20 @@ maker_answers:
       also work with numerous schools in the area including Marlton School for
       the Deaf.
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
   impact_metrics: "Employment in creative industries - Training and employment during DWT's residency at CSUN will lead to gainful employment of deaf individuals in the entertainment industry.\r\n\r\nArts establishments per capita - CSUN's new Performing Art Center fills a void for hearing audiences that previously existed in the area.  DWT's residency will likewise fill the void for deaf and hard of hearing artists and audiences.   \r\n\r\nFederal Research Grant Funding  - DWT's residency at CSUN itself could be a worthy federally funded research project, delving into specific areas of national and global interest such as the process of translating written text and music into sign language equivalent and making theater accessible and equal for all.  \r\n\r\nJobs Per Capita -- Toward the goal of accessibility,  DWT and CSUN may invent new technology for artists and audiences, thereby creating more patents, more entrepreneurs, more jobs. \r\n\r\nMinority- and women-owned firms - DWT has always been deaf-run, employing equal numbers of men and women, deaf and hearing.   Our productions are most often a rainbow of color and mixture of deaf, and hearing men and women.  \r\n\r\nGini Coefficient - The work opportunities for deaf and hard of hearing individuals will improve via this residency; training, employment and being part of a larger world-community.  \r\n\r\nMeasures of cultural and global economic influence (“soft power”) (Dream Metric)  - As combined PR efforts spread the news, momentum can reach critical mass of awareness world-wide via the internet. A DWT residency at CSUN would increase all sources of contributed funding and earned revenue streams and maximize community involvement.  If our model proves successful, non-profit arts organizations with residencies at universities could become commonplace.\r\n\r\nUnemployment rates (and opportunities) for the formerly incarcerated (Dream Metric) - Sadly, there are deaf individuals who grow up with minimal language which puts them on an unwitting path to wrong-doing or simple misunderstanding, resulting in incarceration.  On a case by case basis, there may be an opportunity at DWT at CSUN to create employment for formerly incarcerated deaf individuals."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Deaf West Theatre will establish a 3-5 production per year subscription
