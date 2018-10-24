@@ -220,24 +220,24 @@ Please explain how you will evaluate your project. How will you measure success?
 
 
 
-  # of homeless persons housed
+  Number of homeless persons housed
 
 
 
-  # of days between a person being identified on the streets and given his/her
+  Number of days between a person being identified on the streets and given his/her
   keys
 
 
 
-  # of chronically homeless persons filling out housing applications 
+  Number of chronically homeless persons filling out housing applications 
 
 
 
-  # of units/vouchers dedicated to this housing system
+  Number of units/vouchers dedicated to this housing system
 
 
 
-  # of persons matched through this system
+  Number of persons matched through this system
 
 
 
