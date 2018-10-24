@@ -6,15 +6,7 @@ indicator: Arts & Cultural Vitality
 body_class: strawberry
 project_id: '3102233'
 title: 'Slake: Los Angeles'
-project_summary: >-
-  Most importantly, Slake proved Los Angeles can produce a beautiful, exciting,
-  smart journal of arts and letters that bridges the gap between stagnant
-  old-world iterations of such and the future of long-form publishing. Slake is
-  as intelligent as it as it is lovely and its success belies the myth that
-  people don't have time or don't want to engage with more in-depth narrative.
-  We've raised expectations for both Los Angeles and for the world as to what we
-  should expect from a Los Angeles journal. Meanwhile, we've provided much
-  needed gravity around which this often diffused community. 
+project_summary: "Slake: Los Angeles is the first journal of narrative nonfiction, fiction, essay, memoir, photography and poetry in Los Angeles to gain worldwide recognition for its quality and design. Slake is devoted to the art of narrative storytelling in a media landscape where that mission is increasingly difficult and rare, but ever more essential. Storytelling breeds empathy and understanding, which improve community engagement and increase our civic stake.\r\n\r\nSlake will continue to give voice to the intellectual and creative resources of Los Angeles and shows them to the world at a time when Los Angeles is becoming the most important city in America as we move further into the 21st Century. Slake's highly attended readings, events, and Slake After Dark author and musician series will continue rally the literary and arts community to Los Angeles' civic mission. \r\n\r\nMost importantly, Slake will expand it's mission to include a publishing imprint that will bring the projects of underserved LA writers and artists to the world. There is no reason Los Angeles should rely on the permission of New York to get its creative capital disseminated. "
 project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CDJnJMrwko8'
 maker_answers:
@@ -154,5 +146,14 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/slake-los-angeles/img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg
 youtube_video_identifier: CDJnJMrwko8
+project_summary_backup: >-
+  Most importantly, Slake proved Los Angeles can produce a beautiful, exciting,
+  smart journal of arts and letters that bridges the gap between stagnant
+  old-world iterations of such and the future of long-form publishing. Slake is
+  as intelligent as it as it is lovely and its success belies the myth that
+  people don't have time or don't want to engage with more in-depth narrative.
+  We've raised expectations for both Los Angeles and for the world as to what we
+  should expect from a Los Angeles journal. Meanwhile, we've provided much
+  needed gravity around which this often diffused community. 
 
 ---

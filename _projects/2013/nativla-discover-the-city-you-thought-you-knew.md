@@ -7,29 +7,72 @@ body_class: strawberry
 project_id: '3102080'
 title: 'NativLA: Discover the city you thought you knew '
 project_summary: >-
-  Though NativLA does not yet exist, it will coalesce my years of experience
-  with nature and the environment.  While earning a BA in Journalism at the
-  University of North Carolina at Chapel Hill, I created the show Habitat for
-  UNC-CH Cable TV on the abundance of nature found on campus.  I spent summers
-  interning at 60 Minutes, The New York Times and studying with the Wildlands
-  Studies Program through San Francisco State University.  My first job out of
-  college was shadowing an environmental reporter at CBS affiliate WRAL-TV in
-  Durham, NC where I put together a reel which landed me my first job reporting,
-  at NBC affiliate KIEM-TV in Eureka, CA.  As morning and then evening anchor, I
-  wrote, produced and filmed dozens of stories on the local environment,
-  including a three-part special on Coho salmon and their plight, and stories on
-  the headwaters of the old growth coastal redwoods in Humboldt County. After
-  moving to Los Angeles, I wrote and produced nature documentaries for
-  television, including Earth’s Fury, Storm Warning and The Top 10 Environmental
-  Disasters.  When I chose to leave the workforce and start a family, I created
-  my own company called Dutch Touch Art designing and commissioning a series of
-  hand-painted oils for the design industry, based on the Netherland’s Golden
-  Age and their iconic depictions of nature in the wild.  Currently, I am Chair
-  of a non-profit organization called Friends of Wonderland, which raises over
-  $450K annually for Wonderland Elementary School in Laurel Canyon.  We provide
-  the enrichment programs that Los Angeles United School District (LAUSD) no
-  longer funds, including PE, library, music and art.  We also ask, where field
-  trips are concerned, that the parents carpool and pay for all admission fees. 
+  NativLA is a geo-location mobile app that will provide a YELP-like experience
+  for users eager to explore our city’s wild side. Utilizing photography and
+  video to unveil and document experiences with urban nature, users can share as
+  well as search for experience by region, using categories such as “wildlife”,
+  “seasonal” and “kid-friendly” as filters.  As a social network, a place-based
+  educational tool and an urban nature guide, NativLA will inspire environmental
+  stewardship and foster a city-wide understanding of how nature sustains life.
+  Los Angeles is the place without a sense of place, famous for sprawl and
+  overdevelopment, and defined by its car-clogged freeways.  It might seem
+  inhospitable to efforts to connect with nature and community.  But this city
+  is rich in nature's amenities — the ocean, mountains, diverse habitats and
+  eco-systems, with a Mediterranean climate.  The City of Los Angeles has 15,710
+  acres of parkland, including 4,217 acres in Griffith Park, the largest
+  municipal park in the United States.  L.A. has nine lakes and an urban forest
+  of one million trees. Approximately 70 community gardens are growing in Los
+  Angeles County, serving 3,900 families and dozens of commercial urban farms
+  are taking root within city limits. There are three core modes to the NativLA
+  app: Spottings, Nativ Ambassadors and Location Based Field Guilds. Spottings
+  are experiences with nature that can be shared and accessed by everyone.  Snap
+  a photograph or shoot video of a nature activity or wildlife sighting, select
+  the appropriate category, confirm your location, add some descriptive tags or
+  comments and submit it.   In Upper Fryman Canyon, off Mulholland Drive in the
+  Hollywood Hills, a mother and her two sons record a chorus of frogs in the
+  rain-swelled stream beneath a Eucalyptus grove.  A torrent of comments
+  follows, which identify the creatures as Southern Mountain Yellow-Legged
+  Frogs, and claiming that February and March are the best viewing months. 
+  Further east in Hollywood’s Bronson Park, a guide from Urban Outdoor Skills
+  photographs lush swaths of California sagebrush, mugwort and bay leaves,
+  includes tips on how to gather and preserve them and provides a link to the
+  organization.  In Culver City, a father uploads video of his daughter
+  “foraging” for guavas in the trees lining the Ralphs parking lot and, like a
+  true Nativ, cautions her to pick only as much as she can carry.  Nativ
+  Ambassadors are urban farmers, homesteaders and environmental groups such as
+  Los Feliz Eco Village and The Institute for Urban Ecology, who are willing to
+  open their operations to Angelenos-at-large for the purpose of exploration and
+  education.  For example, an urban commercial farm in West LA, called Wybrandt
+  Farm, uploads pictures of their 3,000 square foot vegetable garden, posts
+  information about tours and provides a link to local farmer’s markets where
+  they sell their produce.  In Koreatown, The Los Angeles Eco-Village, designed
+  to demonstrate lower environmental impact and higher quality of living in an
+  urban environment, uploads video of their greywater and solar panel systems
+  with a link to tours (lunch optional) and garden hours.  The Location-based
+  Field Guide is an opportunity to see what kind of eco adventures are occurring
+  near you and learn more about them. Search through a map view, list view or
+  grid view of recent Spottings and Ambassador posts all based on your
+  location.  You may also search through personalized Field Guides, rated by
+  popularity, in which individuals or organizations have mapped out tours
+  through specific neighborhoods or highlighted “best of” destinations.  To aid
+  in your search, you can filter by categories to find what you are most
+  interested in.  Categories include: Wildlife, Urban Farming, Foraging, Eco
+  Adventures (adventures in sustainable alternative living i.e. art and design),
+  Farmers’ Markets, Hikes & Walks, Kid-friendly and Seasonal. NativLA Field
+  Trips: Los Angeles has experienced severe cuts in supplemental learning
+  excursions from elementary through high school. Schools used to be able to
+  take children on three district approved field trips per class, per year. Now
+  budget cuts have forced the school to cut out field trips completely. Even the
+  lure of free admission to a venue or experience isn’t enough – teachers have
+  no way of providing transportation since the schools have to pay for the
+  buses. NativLA Field Trips, a component of the Location-Based Field Guild, are
+  built right into the application and web presence, and will allow teachers
+  throughout Los Angeles to access information about free and accessible
+  outings. Teachers will find many activities they can walk to right from school
+  and there will be public transportation routes to NativLA Field Trips taking
+  place across the city. According to the Center for Eco Literacy, place-based
+  learning encourages students to experience the natural world and better
+  understand the places where we live, work and learn. 
 project_image: 'https://img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Dq2cY1SKlFQ'
 maker_answers:
@@ -438,5 +481,29 @@ What would success look like in the year 2050 regarding your indicator?: >+
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/nativla-discover-the-city-you-thought-you-knew/img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg
 youtube_video_identifier: Dq2cY1SKlFQ
+project_summary_backup: >-
+  Though NativLA does not yet exist, it will coalesce my years of experience
+  with nature and the environment.  While earning a BA in Journalism at the
+  University of North Carolina at Chapel Hill, I created the show Habitat for
+  UNC-CH Cable TV on the abundance of nature found on campus.  I spent summers
+  interning at 60 Minutes, The New York Times and studying with the Wildlands
+  Studies Program through San Francisco State University.  My first job out of
+  college was shadowing an environmental reporter at CBS affiliate WRAL-TV in
+  Durham, NC where I put together a reel which landed me my first job reporting,
+  at NBC affiliate KIEM-TV in Eureka, CA.  As morning and then evening anchor, I
+  wrote, produced and filmed dozens of stories on the local environment,
+  including a three-part special on Coho salmon and their plight, and stories on
+  the headwaters of the old growth coastal redwoods in Humboldt County. After
+  moving to Los Angeles, I wrote and produced nature documentaries for
+  television, including Earth’s Fury, Storm Warning and The Top 10 Environmental
+  Disasters.  When I chose to leave the workforce and start a family, I created
+  my own company called Dutch Touch Art designing and commissioning a series of
+  hand-painted oils for the design industry, based on the Netherland’s Golden
+  Age and their iconic depictions of nature in the wild.  Currently, I am Chair
+  of a non-profit organization called Friends of Wonderland, which raises over
+  $450K annually for Wonderland Elementary School in Laurel Canyon.  We provide
+  the enrichment programs that Los Angeles United School District (LAUSD) no
+  longer funds, including PE, library, music and art.  We also ask, where field
+  trips are concerned, that the parents carpool and pay for all admission fees. 
 
 ---

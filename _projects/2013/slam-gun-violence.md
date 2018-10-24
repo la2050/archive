@@ -7,15 +7,11 @@ body_class: strawberry
 project_id: '3102274'
 title: SLAM GUN VIOLENCE
 project_summary: >-
-  Women Against Gun Violence has been around since 1993 working to prevent gun
-  violence in Los Angeles City and County.  We have done this work through
-  storytelling.  Our Speakers Bureau members, gun violence survivors themselves,
-  share their stories with students throughout Los Angeles Unified School
-  District  so that youth can see the actual tragedy of gun violence.  Our
-  Speakers Bureau members also share their stories  with policymakers to
-  encourage change in our gun regulations.  We were included in Vice President
-  Biden's meetings in January 2013 where our Speakers Bureau format was
-  considered part of a national solution. 
+  Statistics show that youth who witness or are directly affected by gun
+  violence have an increased risk of perpetrating violence.  Our project, SLAM
+  GUN VIOLENCE, gives youth an opportunity to express their grief, fear, and
+  isolation through the creative process of slam poetry instead of through more
+  violence.  
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16861%252Fdisplay%252FMarlys__Eileen__Dexter_and_kids_after_youth_presentation.JPG=c570x385
 maker_answers:
@@ -139,5 +135,15 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/slam-gun-violence/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16861%252Fdisplay%252FMarlys__Eileen__Dexter_and_kids_after_youth_presentation.JPG=c570x385.jpg
 maker_image_id: '16861'
 maker_image_file_name: Marlys__Eileen__Dexter_and_kids_after_youth_presentation.JPG
+project_summary_backup: >-
+  Women Against Gun Violence has been around since 1993 working to prevent gun
+  violence in Los Angeles City and County.  We have done this work through
+  storytelling.  Our Speakers Bureau members, gun violence survivors themselves,
+  share their stories with students throughout Los Angeles Unified School
+  District  so that youth can see the actual tragedy of gun violence.  Our
+  Speakers Bureau members also share their stories  with policymakers to
+  encourage change in our gun regulations.  We were included in Vice President
+  Biden's meetings in January 2013 where our Speakers Bureau format was
+  considered part of a national solution. 
 
 ---

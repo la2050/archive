@@ -7,39 +7,43 @@ body_class: strawberry
 project_id: '3102224'
 title: Increasing Capacity for College Going
 project_summary: >-
-  The Pullias Center for Higher Education is dedicated to improving access to
-  college for low-income and historically under-represented students. The
-  academic arm of our Center has focused on: (1) researching how students,
-  families and schools define and address challenges related to college going
-  and (2) identifying effective strategies for improving college going outcomes.
-  Our publications are widely used as guides by practitioners across the
-  country.  Yet just as significant, our Center has developed a three-pronged
-  outreach approach where we work with schools and students to provide high
-  quality college guidance and support; the three programs we run rank among the
-  Center’s most important achievements to date. The first program we developed –
-  I AM (Increasing Access through Mentoring) provides targeted college guidance
-  support to juniors and seniors in high school as they prepare to apply for
-  college. Many of the students we work with will be the first in their families
-  to attend college. Many also attend high schools with exorbitant counselor to
-  student ratios. I AM mentors work with school based counselors to identify
-  students who might slip through the cracks and then meet with students
-  regularly to make sure the (very complicated) college application process goes
-  smoothly. Once students are accepted to colleges, mentors help students figure
-  out financial aid awards and provide students with support as they decide
-  where to go.  We’ve helped over 1,000 students get into college since starting
-  the program in 2005.  The SummerTIME (Tool Information Motivation Education)
-  program focuses on college completion. We bring students who have graduated
-  from LAUSD schools and who will be heading to four-year colleges/universities
-  to USC for a month-long intensive writing program. The curriculum is infused
-  with lessons on college knowledge such has how to balance finances, how to
-  interact with professors and how to cultivate effective study skills.   The
-  third program provides a twist to traditional college outreach approaches. We
-  decided to meet students where they choose to spend after-school hours – in
-  cyberspace! We partnered with USC’s Game Innovation Lab and students from
-  Foshay Learning Center to create a series of role-playing games about college
-  and careers. Our games were developed and pilot tested in Los Angeles and are
-  now utilized nationally. My LA2050 funding would enable us to expand these
-  programs and train practitioners on how to make use of the game-based tools.
+  Our primary goal is to increase college attendance throughout the under-served
+  communities of Los Angeles which will have a major impact on improving
+  education in Los Angeles and the state of California.  There are thousands of
+  students that attend schools in Los Angeles that are not getting the
+  information they need to help them with the college going process.  They have
+  the grades and have taken the required courses but are overwhelmed and
+  confused about the college application process so choose not to attend college
+  or go directly to a community college instead of a four-year institution.
+  Attending a community college is not a bad option but may take students at
+  least 3-4 years to transfer to a four-year college if they ultimately want to
+  receive a Bachelor’s degree. The programs that we offer target first
+  generation, low-income, college-bound seniors from low-performing high schools
+  and assist them with the college-going process. The I AM( Increasing Access
+  via Mentoring) program is a mentoring program that provides assistance with
+  the college choice, college admissions and financial aid processes. The
+  SummerTIME (Tools, Information, Motivation, and Education) program teaches
+  advanced writing and “College Knowledge” (e.g. time management, note-taking,
+  financial literacy) to support participating students' transition to the
+  freshman year.  Finally, Collegeology includes games (Application Crunch and
+  Mission: Admission) that teach strategies for navigating the college
+  application process in fun and interactive ways. The first game is a card
+  game, the second is a Facebook Application. In April, we’ll be launching
+  FutureBound, a game targeting middle school students that illustrates the
+  connection between making good decisions in middle school and college/career.
+  We are currently working on a game that fosters financial literacy and
+  knowledge about financial aid options for college.  Here’s the challenge: with
+  I AM and SummerTIME, we are limited by resources as to how many students we
+  can serve. With the online games, we need to train teachers and practitioners
+  on how to use the games. The 2050 grant would help us expand the capacity of
+  these programs.  We currently work with 11 high schools and serve
+  approximately 300 students but we would like to expand our college-going model
+  so that we can serve a wider student population in Los Angeles.  Our programs
+  contain tools that can be replicated on a larger scale so that more students
+  will have the opportunity to be accepted to college and receive a college
+  education.  A My LA2050 grant would enable us to train more mentors, implement
+  guidance activities at more schools, expand services offered and ensure
+  college opportunity for a larger number of students.
 project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jGa5KEowRPM'
 maker_answers:
@@ -381,5 +385,39 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/increasing-capacity-for-college-going/img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg
 youtube_video_identifier: jGa5KEowRPM
+project_summary_backup: >-
+  The Pullias Center for Higher Education is dedicated to improving access to
+  college for low-income and historically under-represented students. The
+  academic arm of our Center has focused on: (1) researching how students,
+  families and schools define and address challenges related to college going
+  and (2) identifying effective strategies for improving college going outcomes.
+  Our publications are widely used as guides by practitioners across the
+  country.  Yet just as significant, our Center has developed a three-pronged
+  outreach approach where we work with schools and students to provide high
+  quality college guidance and support; the three programs we run rank among the
+  Center’s most important achievements to date. The first program we developed –
+  I AM (Increasing Access through Mentoring) provides targeted college guidance
+  support to juniors and seniors in high school as they prepare to apply for
+  college. Many of the students we work with will be the first in their families
+  to attend college. Many also attend high schools with exorbitant counselor to
+  student ratios. I AM mentors work with school based counselors to identify
+  students who might slip through the cracks and then meet with students
+  regularly to make sure the (very complicated) college application process goes
+  smoothly. Once students are accepted to colleges, mentors help students figure
+  out financial aid awards and provide students with support as they decide
+  where to go.  We’ve helped over 1,000 students get into college since starting
+  the program in 2005.  The SummerTIME (Tool Information Motivation Education)
+  program focuses on college completion. We bring students who have graduated
+  from LAUSD schools and who will be heading to four-year colleges/universities
+  to USC for a month-long intensive writing program. The curriculum is infused
+  with lessons on college knowledge such has how to balance finances, how to
+  interact with professors and how to cultivate effective study skills.   The
+  third program provides a twist to traditional college outreach approaches. We
+  decided to meet students where they choose to spend after-school hours – in
+  cyberspace! We partnered with USC’s Game Innovation Lab and students from
+  Foshay Learning Center to create a series of role-playing games about college
+  and careers. Our games were developed and pilot tested in Los Angeles and are
+  now utilized nationally. My LA2050 funding would enable us to expand these
+  programs and train practitioners on how to make use of the game-based tools.
 
 ---
