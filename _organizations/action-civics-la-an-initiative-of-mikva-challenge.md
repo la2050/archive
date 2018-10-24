@@ -1,7 +1,7 @@
 ---
 published: true
 organization_id: '2018005'
-title: 'Action Civics LA, an initiative of Mikva Challenge'
+title: 'Action Civics CA, an initiative of Mikva Challenge'
 org_type: Nonprofit
 org_summary: >-
   Action Civics CA works with schools to empower young people with the skills,
