@@ -312,7 +312,8 @@ align-self: stretch;
 {% assign winners_list_2015 = "" | split: "," %}
 {% assign winners_list_2014 = "" | split: "," %}
 {% assign winners_list_2013 = "" | split: "," %}
-{% assign finalists_list = "" | split: "," %}
+{% assign finalists_list_2018 = "" | split: "," %}
+{% assign honorable_list_2018 = "" | split: "," %}
 {% assign organizations_list = "" | split: "," %}
 
 
@@ -337,6 +338,16 @@ align-self: stretch;
     {% endfor %}
   {% endfor %}
 
+  {% assign is_honorable = false %}
+  {% for honorable in site.data.honorable_mentions %}
+    {% for challenge_url in data.aggregated.challenge_url %}
+      {% if honorable.url contains data.url %}
+        {% assign is_honorable = true %}
+        {% assign honorable_year = honorable.year %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
   {% if page.tag %}
     {% for tag_indicator in data.tags_indicators %}
       {% if page.tag == tag_indicator %}
@@ -355,8 +366,10 @@ align-self: stretch;
             {% when 2013 %}
               {% assign winners_list_2013 = winners_list_2013 | push: data %}
           {% endcase %}
+        {% elsif is_honorable %}
+          {% assign honorable_list_2018 = honorable_list_2018 | push: data %}
         {% elsif is_finalist %}
-          {% assign finalists_list = finalists_list | push: data %}
+          {% assign finalists_list_2018 = finalists_list_2018 | push: data %}
         {% else %}
           {% assign organizations_list = organizations_list | push: data %}
         {% endif %}
@@ -379,8 +392,10 @@ align-self: stretch;
         {% when 2013 %}
           {% assign winners_list_2013 = winners_list_2013 | push: data %}
       {% endcase %}
+    {% elsif is_honorable %}
+      {% assign honorable_list_2018 = honorable_list_2018 | push: data %}
     {% elsif is_finalist %}
-      {% assign finalists_list = finalists_list | push: data %}
+      {% assign finalists_list_2018 = finalists_list_2018 | push: data %}
     {% else %}
       {% assign organizations_list = organizations_list | push: data %}
     {% endif %}
@@ -402,27 +417,31 @@ align-self: stretch;
 <ul class="proposals" id="project-list">
 
   {% for data in winners_list_2018 %}
-    {% include project-list-item.html is_winner="true" winner_year="2018" %}
+    {% include project-list-item.html winner_year="2018" %}
   {% endfor %}
 
   {% for data in winners_list_2016 %}
-    {% include project-list-item.html is_winner="true" winner_year="2016" %}
+    {% include project-list-item.html winner_year="2016" %}
   {% endfor %}
 
   {% for data in winners_list_2015 %}
-    {% include project-list-item.html is_winner="true" winner_year="2015" %}
+    {% include project-list-item.html winner_year="2015" %}
   {% endfor %}
 
   {% for data in winners_list_2014 %}
-    {% include project-list-item.html is_winner="true" winner_year="2014" %}
+    {% include project-list-item.html winner_year="2014" %}
   {% endfor %}
 
   {% for data in winners_list_2013 %}
-    {% include project-list-item.html is_winner="true" winner_year="2013" %}
+    {% include project-list-item.html winner_year="2013" %}
   {% endfor %}
 
-  {% for data in finalists_list %}
-    {% include project-list-item.html is_finalist="true" %}
+  {% for data in honorable_list_2018 %}
+    {% include project-list-item.html honorable_year="2018" %}
+  {% endfor %}
+
+  {% for data in finalists_list_2018 %}
+    {% include project-list-item.html finalist_year="2018" %}
   {% endfor %}
 
   {% for data in organizations_list %}
