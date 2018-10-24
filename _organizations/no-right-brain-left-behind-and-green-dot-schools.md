@@ -36,13 +36,13 @@ org_summary: >-
    <p>NRBLB has been awarded accolades by Core77Design and The Swedish-American Chamber of Commerce; presented at events such as TEDx, Art Directors Club, and LiveWire; and been featured in FastCompany, GOOD Magazine, Core77, BrainPickings, Design Mind, and Art Rebels. To date, NRBLB has built a strong coalition of companies, design schools, education networks, and creative professionals able to develop scalable, low-cost, and adoptable innovation tools that enhance creativity inside and outside of classrooms. </p>
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954679811'
 organization_website:
-  - www.rightbrainsare.us
+  - http://greendot.org
 twitter: ''
 instagram: ''
 facebook: ''
 ein: '954679811'
 zip: ''
-project_image: http://greendot.org/wp-content/uploads/2015/02/Green-Dot-Kids-Group1-1024x512.jpg
+project_image: https://pbs.twimg.com/media/Dp0_YyTU0AACEA9.jpg:large
 original_project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
 project_video: ''
 project_ids:
