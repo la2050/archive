@@ -109,6 +109,7 @@ maker_answers:
     - Number of residents with easy access to a “vibrant” park (Dream Metric)
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "-Number of parks with social and artful play environments\r\n-Access to parks with an emphasis on creative play and recreation\r\n-Proximity to outdoor cultural events and performances\r\n-Increase the vibrancy of all the PLAY metrics through the inclusion of art and culture. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Keyed to Recommendation 5.16 of the 2007 LA River Revitalization Master Plan,

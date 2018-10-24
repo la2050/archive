@@ -125,6 +125,7 @@ maker_answers:
   How will your project impact the LA2050 “Connect” metrics?:
     - Adults getting sufficient social & emotional support
     - Government responsiveness to residents’ needs (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     This project meets two critically important metrics in the Connect
     application.  First, RAC’s Parent Advocate Program directly addresses

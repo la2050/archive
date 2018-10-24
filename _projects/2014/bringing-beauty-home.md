@@ -143,6 +143,7 @@ maker_answers:
     - Percentage of Angelenos that volunteer informally (Dream Metric)
     - Government responsiveness to residents’ needs (Dream Metric)
     - Residential segregation (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     By streamlining the volunteer application and training process and creating
     an online scheduling system that meets the needs of those providing services

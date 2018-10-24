@@ -169,6 +169,7 @@ maker_answers:
     - Obesity rates
     - Percentage of LA communities that are resilient (Dream Metric)
     - Percentage of tree canopy cover (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Our chosen goal is ushering life into a healthier LA, by promoting “food
     economy that promotes wellness and health” by converting existing sites into

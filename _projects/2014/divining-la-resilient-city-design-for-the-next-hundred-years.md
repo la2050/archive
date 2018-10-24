@@ -124,6 +124,7 @@ maker_answers:
     - Percent of imported water
     - Acres and miles of polluted waterways
     - Percentage of tree canopy cover (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: Water is essential to each and every one of these
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FQHCs that focus on special populations such as residents of public housing,

@@ -107,6 +107,7 @@ maker_answers:
     - Percentage of residents that feel safe in their neighborhoods
     - Number of residents with easy access to a “vibrant” park (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "QueerFest, by educating festival goers on the queer experience, will breed tolerance for the LGBTQA community both local and at large.  LGBTQA residents will feel safer in their neighborhood knowing that they’re not only understood by their neighbors, but that there’s a place for them in Silver Lake.  \r\n\r\nQueerFest will create several informal spaces for play.  We will transform local establishments into the LGBT-oriented spaces of their past.  For example, the Black Cat, a popular Silver Lake restaurant, will be respun into its 1960s incarnation, the gay bar that played host to the Black Cat riots (which pre-date Stonewall).  Tours will be led throughout the neighborhood.  A dilapidated parking lot, once a gay-owned bookstore (A Different Light), will be reanimated with the Fest’s adjacent main stage.  A urban park will be constructed in the middle of our festival throughway.  Attendees will relax under real trees, drink free water, and enjoy impromptu performances and invigorating activities such as yoga led by a nearby studio.   \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Because this will be our inaugural year, it has been paramount to QueerFest to

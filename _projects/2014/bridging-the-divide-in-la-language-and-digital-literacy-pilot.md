@@ -129,6 +129,7 @@ maker_answers:
       institutions, and higher education systems that prepares students for
       seamless transitions between high school, higher education institutions,
       and the workforce) (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "By equipping parents and volunteers with reading comprehension and digital literacy skills, as well as home Internet access, we plan to improve education and employment outcomes for graduates and volunteers, as well as their families. \r\n\r\nMore than 80% of teachers agree that today’s digital technologies are leading to greater disparities between affluent and disadvantaged schools and school districts. According to the FCC, already 80% of all job listings are exclusively listed online.Through this collaborative pilot project, we aim to eliminate the disparities around home access for all. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   EveryoneOn will leverage our existing platform of low-cost offers to provide

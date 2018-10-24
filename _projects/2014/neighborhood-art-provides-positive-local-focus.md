@@ -156,6 +156,7 @@ maker_answers:
     - >-
       Measures of cultural and global economic influence (“soft power”) (Dream
       Metric)
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: >-
     The installation of sculptures will plant the seed for others to initiate
     artistic endeavors thy otherwise would not attempt.  the installation of ANY

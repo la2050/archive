@@ -115,6 +115,7 @@ maker_answers:
     - Residents within 1⁄4 mile of a park (Dream Metric)
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "Be the top quality informal spaces for play in South and Central Los Angeles being accessible for open play to the public during the week and on weekends\r\n\r\nBe considered a safe and healthy place for kids and families to play by having staff available and managing the facility at all times. As a indoor place, it is easier to watch over children.\r\n\r\nProvide local residents after school programs, workshops, and actives, for learning about environment, science, art, and healthy eating. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will fundraise the funds and become certified as B Corporation. Once we

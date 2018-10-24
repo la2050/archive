@@ -115,6 +115,7 @@ maker_answers:
     - Access to open space and park facilities
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Currently we are only able to handle a small amount of kids in our lab due to space and equipment constraints.  After the completion of this project we will be able to accommodate more kids and get them enrolled in our classes which, although nontraditional, we consider to be a new form of an “after school program.”\r\n\r\nLA Biohackers is diverse in terms of the age of people who use our space.   Jr High students work alongside older more experienced scientists.  As we grow we will be able to increase the quantity of people, both younger and older, that make use of our space.  In this respect we will provide more “intergeneration play opportunities.”\r\n\r\nMost people would consider our space “informal” and “nontraditional”.  There are no swing sets or soccer fields.  Kids are free to explore and play in the world of science.  In this regard we will be providing one more place people can use as an “informal space for play.”"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Los Angeles Biohackers is an organization that has built an open community

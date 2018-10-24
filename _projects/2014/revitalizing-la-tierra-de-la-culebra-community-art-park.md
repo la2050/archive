@@ -142,6 +142,7 @@ maker_answers:
       Percentage of residents receiving coordinated healthcare services (Dream
       Metric)
     - Percentage of tree canopy cover (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     The park will create a safe space in which Angelenos can explore ways to
     address all of these issues and know how to implement them in a real-life

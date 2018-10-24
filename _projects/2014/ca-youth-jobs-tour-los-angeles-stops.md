@@ -142,6 +142,7 @@ maker_answers:
       institutions, and higher education systems that prepares students for
       seamless transitions between high school, higher education institutions,
       and the workforce) (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     Our Los Angeles Youth Jobs Tour will build solutions and buy-in to address
     high youth unemployment in partnership with young Angelenos. We’ll

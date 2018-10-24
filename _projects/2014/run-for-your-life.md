@@ -103,6 +103,7 @@ maker_answers:
     - Obesity rates
     - Walk/bike/transit score
     - Rates of mental illnesses
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     Through exercise the obesity rate will drop, healthy eating will occur,
     mental illness will lower (exercise has proven to improve mental health),

@@ -132,6 +132,7 @@ maker_answers:
     - Number of residents with easy access to a “vibrant” park (Dream Metric)
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Cypress Park Pocket Park will be providing access to recreation opportunities to a community that does not have currently have access. According the California Department of Parks and Recreation, there is 1.32 acres of parkspace per 1000 residents within ½ mile radius of the vacant lot.  This is well below the acceptable standard of 10 acres per 1000 residents a thriving community should have. \r\n\r\nIn our work converting vacant, blighted spaces into community, active places, we have witnessed local crime activity decrease.  Whereas a vacant lot provides a space for illicit criminal activity such as drug use, illegal dumping and prostitution, an active, empowered space no longer provides that “room”.  Instead of drug use, community members witness children playing. Instead of parked cars by the vacant lot, they see mothers walking with strollers.  There is a dramatic change in the use of the space, and thus in the potential for crime. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   1. Late 2015 – Early 2015: Comprehensive Community Engagement. 

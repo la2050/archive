@@ -115,6 +115,7 @@ maker_answers:
     - >-
       Rate of gun violence and accidental death as a result of unsecured
       firearms.
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Our project will keep kids safe, so they can have positive childhood
     experiences, free of firearms accidents; the project will strengthen

@@ -945,6 +945,14 @@ function processFile(filename) {
       data.yaml.maker_answers["Does your project impact Los Angeles County?"] = "No"
     }
 
+    if (data.yaml.maker_answers["describe_soloactor"] == 1) {
+      data.yaml.maker_answers["Please describe yourself"] = "Solo actor (just us on this project!)"
+    } else if (data.yaml.maker_answers["describe_proposedcollaboration"] == 1) {
+      data.yaml.maker_answers["Please describe yourself"] = "Proposed collaboration (we want to work with partners!)"
+    } else if (data.yaml.maker_answers["describe_collaboration"] == 1) {
+      data.yaml.maker_answers["Please describe yourself"] = "Collaboration (partners are signed up and ready to hit the ground running!)"
+    }
+
     let project_areas = []
     projectAreas2014.forEach(area => {
       // console.log(area)

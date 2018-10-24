@@ -126,6 +126,7 @@ maker_answers:
     - Employment in creative industries
     - Arts establishments per capita
     - Minority- and women-owned firms
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     We are creating new avenues for aspiring dancers - of affordable
     professional development and income opportunities. We are providing a venue

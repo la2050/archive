@@ -114,6 +114,7 @@ maker_answers:
     - Number of residents with easy access to a “vibrant” park (Dream Metric)
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "•\tSafe parks = safe neighborhoods – our experience has shown that increased programming in parks leads to re-invigorated community spaces. These outcomes have ripple effects in the communities and lead to overall well-being. \r\n•\tCreating future advocates for parks – We want to make sure that people who live in our communities care about parks and will make their voices heard about the need for parks in many of LA’s densest neighborhoods.\r\n•\tHelping to re-vitalize parks with new uses – There are many ways to play, from organized sports to organized bird watching events.  We hope to share these diverse activities so that parks provide people with a nature experience in LA.\r\n•\tFocus on inter-generational experiences will help provide all participants with a wealth of information and diverse points of view.\r\n•\tBird watching is play and can be done anywhere.  For real…we’ve seen falcons hunting in the midst of Downtown LA!  \r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our project will take a three part approach to making LA the best place for

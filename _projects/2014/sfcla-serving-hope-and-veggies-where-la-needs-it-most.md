@@ -103,6 +103,7 @@ maker_answers:
     - Obesity rates
     - Prevalence of adverse childhood experience (Dream Metric)
     - Percentage of LA communities that are resilient (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "SFCLA will deliver free groceries rich in fresh produce to communities where fresh food is scarce, improving the health of 3 LA neighborhoods in addition to our current site in downtown Los Angeles.\r\n\r\nFor a region of such abundance and notoriety across the globe, Los Angeles is riddled with areas where fresh produce and nutritious groceries are inaccessible for vulnerable populations. Whether that is because there are no large grocery store chains nearby or the food available is of poor quality or overpriced, for many Angelenos, healthy meals are not a reality. SFCLA’s goal is to eliminate Los Angeles’ food deserts so that children have the opportunity to grow up healthy, and low-income individuals are not prone to high rates of disease and disability. \r\n\r\nIn addition, community resilience is improved when members of the community eat healthy food.  Healthy eating leads to better physical, mental and emotional health, all of which are critical to maintain high levels of resilience.\r\n\r\nLast but not least, Los Angeles benefits economically from a decrease in health-related costs to taxpayers."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We train and supply the professional theater artists, and continue our 20 year

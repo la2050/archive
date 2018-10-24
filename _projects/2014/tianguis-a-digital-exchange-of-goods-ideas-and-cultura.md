@@ -137,6 +137,7 @@ maker_answers:
     - Employment in creative industries
     - Jobs per capita
     - Minority- and women-owned firms
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     By providing the support for entrepreneurially inclined Latin@s in the
     informal economy our project will assist in the transition to and creation

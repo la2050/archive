@@ -144,6 +144,7 @@ maker_answers:
   How will your project impact the LA2050 “Live” metrics?:
     - Access to healthy food
     - Obesity rates
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Through education and hands on training, Interfaith Food Center's Four
     Seasons of Food will help break the cycle of hunger and obesity in low

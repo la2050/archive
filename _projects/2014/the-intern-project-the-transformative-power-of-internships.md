@@ -121,6 +121,7 @@ maker_answers:
       seamless transitions between high school, higher education institutions,
       and the workforce) (Dream Metric)
     - Suspension and expulsion rates (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "In the short term, TIP immediately addresses the “Youth unemployment and underemployment” metric by providing LAUSD high school students with an integrated coaching program and paid internships with high-profile businesses. \r\n\r\nIn the mid to long-term, TIP, in partnership with LAUSD will impact the other metrics checked above. The LA Fund believes in the transformative power that internships have on LAUSD students’ academic lives and future careers, thus affecting metrics related to academic performance, graduation rates, matriculation rates, school attendance, and the student education pipeline.    "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The LA Fund launched the summer 2014 TIP pilot with 17 LAUSD students matched

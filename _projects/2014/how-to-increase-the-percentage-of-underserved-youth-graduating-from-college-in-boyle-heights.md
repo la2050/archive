@@ -105,6 +105,7 @@ maker_answers:
     - HS student proficiency in English & Language Arts and Math
     - College matriculation rates
     - Suspension and expulsion rates (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: 'College graduation rates for low-income students.  '
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CT’s successful model is currently being implemented in Boyle Heights. The

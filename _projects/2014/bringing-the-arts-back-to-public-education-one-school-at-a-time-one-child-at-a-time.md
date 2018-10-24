@@ -124,6 +124,7 @@ maker_answers:
     - >-
       Students perceived sense of safety at and on the way to school (Dream
       Metric)
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: "Starting with early childhood education, by introducing the arts and understanding of universal values, Dream A World Education, Inc. brings arts to low-income students in Los Angeles with very unique programs that address the whole child.  This organization is one-of-a kind in the field of arts education  in that it uses the arts to directly address the soclal-emotional needs of children and teach them cultural understanding in their early formative years.  They do this by using multidisciplinary arts disciplines to teach  values and life-skills, nurturing children’s creativity and individuality and giving them specific tools which they can use over a lifetime to help them lead whole, healthy and successful lives.  \r\n\r\nWe want children to know they have dreams and ambitions to keep them in school, to give them direction through their imagination and exploration of the arts.  They will year after year obtain, reach academic goals, stay in school, and achieve their dreams.  That is the dream of Dream A World Education, Inc. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Dream A World Education founder, Grammy Award-Winner Bunny Hull brings a team

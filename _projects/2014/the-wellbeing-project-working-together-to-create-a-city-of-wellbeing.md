@@ -157,6 +157,7 @@ maker_answers:
     - Percentage of Angelenos that volunteer informally (Dream Metric)
     - Government responsiveness to residents’ needs (Dream Metric)
     - Attendance at public/open street gatherings (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Local government is uniquely poised to facilitate partnerships and directly
     impact LA2050’s Connect metrics, but we need a starting point. The first

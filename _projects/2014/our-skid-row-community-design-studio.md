@@ -130,6 +130,7 @@ maker_answers:
     - >-
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     Our Skid Row will create 3 new employment opportunities in the community
     design field, with at least one position for local residents.  This will be
