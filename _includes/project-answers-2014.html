@@ -60,12 +60,51 @@
 {% endif %}
 
 {% comment %}
-<h3>How will your project impact the LA2050 "LIVE" metrics?</h3>
-
+<h3>How will your project impact the LA2050 “Live” metrics?</h3>
 
 <h3>If other, please specify.:</h3>
 
 {% endcomment %}
+
+
+
+{% if page.maker_answers["How will your project impact the LA2050 “Learn” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Learn” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Learn” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Learn” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% elsif page.maker_answers["How will your project impact the LA2050 “Create” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Create” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Create” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Create” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% elsif page.maker_answers["How will your project impact the LA2050 “Play” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Play” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Play” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Play” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% elsif page.maker_answers["How will your project impact the LA2050 “Connect” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Connect” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Connect” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Connect” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% elsif page.maker_answers["How will your project impact the LA2050 “Live” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Live” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Live” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Live” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
 
 <h3>Please elaborate on how your project will impact the above metrics.</h3>
 {{ page.maker_answers.impact_metrics | markdownify }}
