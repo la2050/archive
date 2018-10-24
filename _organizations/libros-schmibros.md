@@ -18,7 +18,7 @@ instagram: www.instagram.com/librosschmibros
 facebook: 'https://www.facebook.com/librosschmibros'
 ein: '952540759'
 zip: '90033'
-project_image: 'https://img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg'
+project_image: 'https://scontent-sjc3-1.cdninstagram.com/vp/1d2c7d675b4aea2433bc2c923e206a8d/5C643A91/t51.2885-15/sh0.08/e35/p640x640/41812836_2153684764898933_4840971122943201181_n.jpg'
 project_video: ''
 project_ids:
   - '4102118'
