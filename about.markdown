@@ -20,7 +20,7 @@ It is our hope that you’ll use the Ideas Archive to discover local organizatio
 
 ## How to use the archive
 
-**Search by [keyword](/search/?keywords=schools) or by [issue area](/education-&-youth/).** You can search by keyword or by the categories used at My LA2050 to categorize organization impact (read more [about our indicators](http://la2050.org/metrics)). Searching by keyword will give you a list of organizations that contain that word. So if you search “building” you will get search results of organizations that build buildings, but also organizations that are “building capacity.” Searching by issue area returns a list of organizations that our staff has determined to be working in that issue area. We’ve based these issue areas on our indicators <LINK>.
+**Search by [keyword](/search/?keywords=schools) or by [issue area](/education-&-youth/).** You can search by keyword or by the categories used at My LA2050 to categorize organization impact (read more [about our indicators](http://la2050.org/metrics)). Searching by keyword will give you a list of organizations that contain that word. So if you search “building” you will get search results of organizations that build buildings, but also organizations that are “building capacity.” Searching by issue area returns a list of organizations that our staff has determined to be working in that issue area. We’ve based these issue areas on our indicators.
 
 **View search results.** In search results, organizations that were finalist or winners of My LA2050 Challenges are listed first. 
 
