@@ -22,6 +22,13 @@ stylesheets:
   {% endif %}
 {% endfor %}
 
+{% assign is_honorable = false %}
+{% for honorable in site.data.honorable_mentions %}
+  {% if honorable.url contains organization.url and page.year_submitted == 2018 %}
+    {% assign is_honorable = true %}
+  {% endif %}
+{% endfor %}
+
 {% assign is_winner = false %}
 {% for winner in site.data.winners %}
 
@@ -118,7 +125,7 @@ http://maker.good.is/myla2050{{ page.category }}2015.html
 
 <div class="proposal-header">
 <p class="category" style="color: rgba(0, 0, 0, 0.5);">
-  <strong style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--primary-color)">{% if page.indicator %}{{ page.indicator }}{% else %}{{ page.category }}{% endif %} {% if is_winner %}Winner{% elsif is_finalist %}Finalist{% endif %}</strong> / <strong style="color: inherit;">{{ page.year_submitted }}</strong>
+  <strong style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--primary-color)">{% if page.indicator %}{{ page.indicator }}{% else %}{{ page.category }}{% endif %} {% if is_winner %}Winner{% elsif is_honorable %}Honorable Mention{% elsif is_finalist %}Finalist{% endif %}</strong> / <strong style="color: inherit;">{{ page.year_submitted }}</strong>
 </p>
 <h1 style="margin-bottom: 0">{{ page.title }}</h1>
 </div>
