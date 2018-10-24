@@ -4,7 +4,7 @@
 {{ page.maker_answers["Please describe yourself"] | markdownify }}
 
 <h3>In one sentence, please describe your idea or project.</h3>
-{{ page.maker_answers.describe_idea | markdownify }}
+{{ page.maker_answers.one_sentence_project | markdownify }}
 
 {% if page.maker_answers['Does your project impact Los Angeles County?'] != "No" %}
 <h3>Does your project impact Los Angeles County?</h3>
@@ -49,7 +49,7 @@
 {% endif %}
 
 
-<h3>Whom will your project benefit? Please be specific. </h3>
+<h3>Whom will your project benefit?</h3>
 {{ page.maker_answers.who_benefit | markdownify }}
 
 <h3>Please identify any partners or collaborators who will work with you on this project.</h3>
@@ -58,13 +58,6 @@
 {% else %}
   {{ page.maker_answers.partners_collaboration | markdownify }}
 {% endif %}
-
-{% comment %}
-<h3>How will your project impact the LA2050 “Live” metrics?</h3>
-
-<h3>If other, please specify.:</h3>
-
-{% endcomment %}
 
 
 
@@ -110,7 +103,7 @@
 {{ page.maker_answers.impact_metrics | markdownify }}
 
 {% comment %}
-<h3>Please select which other LA2050 Goals are relevant to your project or organization (check all that apply):</h3>
+<h3>Please select which other LA2050 Goals are relevant to your project or organization:</h3>
 
 {% endcomment %}
 
@@ -127,7 +120,7 @@
 {{ page.maker_answers.major_challenges | markdownify }}
 
 {% comment %}
-<h3>What resources does your project need? (check all that apply)</h3>
+<h3>What resources does your project need?</h3>
 
 {% endcomment %}
 
