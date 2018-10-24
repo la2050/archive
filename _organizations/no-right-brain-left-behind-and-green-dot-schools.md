@@ -42,7 +42,8 @@ instagram: ''
 facebook: ''
 ein: '954679811'
 zip: ''
-project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
+project_image: http://greendot.org/wp-content/uploads/2015/02/Green-Dot-Kids-Group1-1024x512.jpg
+original_project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
 project_video: ''
 project_ids:
   - '3102207'
