@@ -153,6 +153,7 @@ maker_answers:
     - >-
       Recruiting and retention rates at local higher education institutions
       (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     Our project is hitting many areas for today and LA2050. As mentioned before
     there are very few Latinos and Blacks in the creative industry. We hope to

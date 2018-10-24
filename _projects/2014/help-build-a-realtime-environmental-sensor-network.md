@@ -153,6 +153,7 @@ maker_answers:
   How will your project impact the LA2050 “Live” metrics?:
     - Exposure to air toxins
     - Acres and miles of polluted waterways
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: >-
     By giving people the best data about their environment making changes for
     the better of the entire region becomes easy.

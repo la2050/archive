@@ -119,6 +119,7 @@ maker_answers:
     - >-
       Recruiting and retention rates at local higher education institutions
       (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "As a young and emerging arts center, we have already directly and indirectly created jobs between members, other organizations and directly through The L.A. Fort itself. We always encourage and support the growth of other spaces as well.\r\nThe L.A. Fort is a space to learn from each other as well as teach each other. Through our time bank, we are able to value members skills and time as assets. This allows us to involve people of different education levels with validity."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We currently work out of a 5,000 sq ft space that is permitted for offices. To

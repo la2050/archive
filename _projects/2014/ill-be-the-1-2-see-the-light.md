@@ -116,6 +116,7 @@ maker_answers:
       and higher education systems that prepares students for seamless
       transitions between high school, higher education institutions, and the
       workforce) (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "1.\teach school project done will have specific metric developed for it (x number of plants planted in a school garden, school lunches being supplied for  certain # of kids, etc.)\r\n2.\tstudents for their projects along with their grades can recieve from IBT1 - scholarships, internships, or job placements after the year is done \r\n3.\tFunds raised by students through their kickstarter campaigns\r\n4.\tpre and post tests of kid’s confidence level in their belief in their ability to make a difference ( a survey we create for them to take before and after)\r\n5.\tnumber of kids we have in online community, number of partner organizations we have in the online community (the beginning of our learning web, what are our goals for year one)\r\n6.\tnumber of additional schools signed on for year two\r\n7.\tnumber of graduating kids who agree to be mentors for year two\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through service learning educational programs, student made documentary films,

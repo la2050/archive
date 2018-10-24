@@ -131,6 +131,7 @@ maker_answers:
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
   How will your project impact the LA2050 “Learn” metrics?:
     - College matriculation rates
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     The three explicit metrics that anchor our work are: (1) to increase college
     matriculation rates to 75% (compared to high poverty schools’ average of 54%

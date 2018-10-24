@@ -139,6 +139,7 @@ maker_answers:
     - >-
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Boyle Heights and its surrounding communities are struggling and falling
     further behind in most of the above metrics including unemployment, crime,

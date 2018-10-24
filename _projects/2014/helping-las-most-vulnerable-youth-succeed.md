@@ -118,6 +118,7 @@ maker_answers:
       institutions, and higher education systems that prepares students for
       seamless transitions between high school, higher education institutions,
       and the workforce) (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Foster youth, living at the mercy of an overburdened system, have been robbed of their promise in Los Angeles County.  From lower preschool enrollment to lower high school graduation rates, you would be hard-pressed to find a group of kids more challenged in our schools.  It is our intent that two successful programs will benefit from FosterMore’s efforts to increase awareness of foster youth and provide opportunities to get involved with them.\r\n\r\nThe College Readiness Program at United Friends of the Children (UFC) is a tried and proven model that delivers outcomes where others have failed. Our campaign aims to drive additional resources to this successful effort.  The referral of potential foster parents to Raise A Child will ensure additional foster families to address the profound need in Los Angeles.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   When budgets are cut, those without a voice in government are the hardest hit.

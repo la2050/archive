@@ -121,6 +121,7 @@ maker_answers:
     - Percentage of residents that feel safe in their neighborhoods
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     By increasing youth awareness of parks and open spaces through youth-driven
     community asset mapping, we will increase their usage.  Additionally, by

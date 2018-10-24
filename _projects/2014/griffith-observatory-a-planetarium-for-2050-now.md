@@ -162,6 +162,7 @@ maker_answers:
       Informal learning experiences such as planetarium shows inspire the
       future, one imagination at a time by motivating students and lifelong
       learners to go out and read a book, ask a question, or stay in school. 
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: >-
     Griffith Observatory is unique among Los Angeles institutions as a place
     where a broad range of demographic audiences, including students and adult

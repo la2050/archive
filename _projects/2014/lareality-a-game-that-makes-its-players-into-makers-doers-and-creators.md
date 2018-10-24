@@ -128,6 +128,7 @@ maker_answers:
     - >-
       Percentage of graduates from local higher education institutions that
       remain in LA County 5 years after graduating (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: " In the short term, Reality produces interesting creative work. It also forges friendships and lasting creative alliances between people who never would have met or collaborated without being put together by the mechanics of the game. (Add entrepreneurship and inclusivity – so it can add to minority firms, start ups, as well as creative jobs, arts establishments, etc)\r\n\r\nIt's also going to produce some pretty great new ideas once it takes off. We feel very confident that the metrics we checked off are going to see some measurable movement as a byproduct of the experience. In our campus game we've seen lasting creative partnerships form and a few of the ideas take on lives of their own once the game ended. On the broader scale, this creates an incredible amount of potential new enterprises and has the potential to involve underserved groups and bring them exposure in ways that could really move the needle.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Simply: we are expanding the scope of a proven project to benefit the entire

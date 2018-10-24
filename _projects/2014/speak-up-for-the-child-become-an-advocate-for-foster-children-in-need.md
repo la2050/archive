@@ -129,6 +129,7 @@ maker_answers:
     - >-
       Connecting diverse populations through one common goal: helping children
       in need.
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "Through LA2050, CASA/LA will conduct an aggressive one-year marketing, outreach, and training campaign to increase its current volunteers by 40%, and to create more volunteer engagement within diverse communities of Los Angeles.\r\n\r\nBy 2050, CASA/LA hopes to become one of the largest and most varied volunteer networks in Los Angeles, providing each abused and neglected child with a CASA from a background that is representative of their experience. In addition, we hope that through the CASA program, we will engage more community members in the needs and opportunities of the foster care system, offering a new generation of Angeleno parents the opportunity to be a part of the foster care system, to provide these children and youth with stable and loving homes.\r\n\r\nCASA will not only work to connect CASAs to children within the foster care system, but will be connecting CASAs with CASAs, creating a force of advocacy for our city’s most vulnerable, and often, most neglected children, deepening civic conversations around the child welfare system, education, social justice, and how we can all better serve our children and future."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The County of Los Angeles has more foster children than any other county in

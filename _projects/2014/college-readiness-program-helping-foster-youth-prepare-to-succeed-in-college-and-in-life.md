@@ -128,6 +128,7 @@ maker_answers:
     - HS student proficiency in English & Language Arts and Math
     - Academic Performance Index scores
     - College matriculation rates
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: >-
     The principal goals of the program are to improve high school graduation
     rates among foster youth (from an average of less than 50% within their peer

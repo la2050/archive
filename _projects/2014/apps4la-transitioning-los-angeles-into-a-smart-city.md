@@ -114,6 +114,7 @@ maker_answers:
     - Jobs per capita
     - Number of high-growth startups
     - Venture capital investment
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Apps4LA will CREATE many employment opportunities. We will be hiring an operations teams, contracting developers, hiring local interns, and potentially creating sustainable businesses with each app.\r\n\r\nThe Silicon Beach community will gain valuable publicity to bring tech interest to our city by becoming a leader in digital \"smart cities\". High tech startups will see Los Angeles as the place to flourish.\r\n\r\nVenture capital will flood our town creating economic prosperity from these opportunities. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Beginning with a one-day Ideafest on a local university campus, industry

@@ -135,6 +135,7 @@ maker_answers:
     - Percentage of Angelenos that volunteer informally (Dream Metric)
     - Government responsiveness to residents’ needs (Dream Metric)
     - Attendance at public/open street gatherings (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     Surveys will be issued to members of the Civic LA community to identify
     their initial civic participation patterns, attitudes, perceptions,

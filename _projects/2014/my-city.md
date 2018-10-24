@@ -146,6 +146,7 @@ maker_answers:
       Metric)
     - Total number of social media friends (Dream Metric)
     - Attendance at public/open street gatherings (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     Rates of volunteerism will rise since locals will be driven to clean up
     their communities and neighborhoods to attract tourists.  Adults will get

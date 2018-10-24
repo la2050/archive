@@ -119,6 +119,7 @@ maker_answers:
     - >-
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     The Women's Center for Creative Work would be another exciting arts and
     cultural organization in Los Angeles. It would directly create jobs within

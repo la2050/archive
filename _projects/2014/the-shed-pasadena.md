@@ -132,6 +132,7 @@ maker_answers:
     - Acres and miles of polluted waterways
     - Percentage of LA communities that are resilient (Dream Metric)
     - Percentage of tree canopy cover (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "We will affect multiple metrics across the five categories: play, live, create, connect, and learn. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Original Green Community Food Hub helps low-income farm entrepreneurs

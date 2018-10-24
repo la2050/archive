@@ -119,6 +119,7 @@ maker_answers:
     - Number of households below the self-sufficiency standard
     - Rates of homelessness
     - Rates of unemployment
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     By providing business clothing and employment services, we arm low-income
     jobseekers with the tools necessary to obtain employment. We currently have

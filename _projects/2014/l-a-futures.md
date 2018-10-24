@@ -234,6 +234,7 @@ maker_answers:
       Industry diversity of employment goals, preparedness for new and future
       job roles, diverse generations impact on the products and services of the
       creative industry
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     L.A. Futures emboldens classroom learning by learning and life skill
     experiences with industry professionals in the classroom and at their places

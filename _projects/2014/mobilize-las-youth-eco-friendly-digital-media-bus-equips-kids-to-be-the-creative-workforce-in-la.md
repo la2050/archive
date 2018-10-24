@@ -160,6 +160,7 @@ maker_answers:
     - >-
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     As the second largest city and school system in the US, LA serves as a
     microcosm of the challenges faced across the country, its demographic

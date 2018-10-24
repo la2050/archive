@@ -145,6 +145,7 @@ maker_answers:
     - >-
       Greater content knowledge about the region, its infrastructural networks,
       its history, and LASA participant's places within that.
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: >-
     We believe the content knowledge imparted by LASA is step one; step two is
     confidence-building about each student's place within the metropolis.  We

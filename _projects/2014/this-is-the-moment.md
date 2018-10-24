@@ -136,6 +136,7 @@ maker_answers:
     - >-
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: 'The project will create jobs and involve minority and women leaders. '
 Which area(s) of LA does your project benefit? Other (elaborate): 'Intercultural stories, dance, music, and visual arts!'
 What is your idea/project in more detail?: >-

@@ -129,6 +129,7 @@ maker_answers:
     - Number of residents with easy access to a “vibrant” park (Dream Metric)
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: >-
     By improving the La Brea Tar Pits Museum and the surrounding park space, the
     project positively impacts many parts of the LA2050 “Play” metric. Drawing

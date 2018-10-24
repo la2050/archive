@@ -136,6 +136,7 @@ maker_answers:
     - >-
       Measures of cultural and global economic influence (“soft power”) (Dream
       Metric)
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: See above.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   NewFilmmakers Los Angeles is requesting funds to aid us in expanding our core

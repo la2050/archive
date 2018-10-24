@@ -106,6 +106,7 @@ maker_answers:
     - Number of residents with easy access to a “vibrant” park (Dream Metric)
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     As we mentioned before, we think the game has the potential to move the
     metrics by motivating discovery. Our experience in our neighborhood has been

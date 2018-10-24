@@ -119,6 +119,7 @@ maker_answers:
     - >-
       Percentage of residents receiving coordinated healthcare services (Dream
       Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Please refer to the following question regarding evaluation, which addresses
     the above metrics comprehensively.

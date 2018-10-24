@@ -134,6 +134,7 @@ maker_answers:
     - Number of residents with easy access to a “vibrant” park (Dream Metric)
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: >-
     We will be a free, clean and imaginative space in open areas where there are
     not a lot of options for STEAM projects.

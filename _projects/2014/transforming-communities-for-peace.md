@@ -143,6 +143,7 @@ maker_answers:
     - >-
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "The project will create the ability for citizens in L.A. to see themselves as innovators, creators, and entrepreneurs and give them specific, tangible tools to do so.  Through the combination of education and physical projects we will see the transformation occur throughout the city, and more importantly other residents will see that, too.\r\n\r\nBy bringing people into education without requiring prerequisite, credentialed education and by doing so down the block from their home, we recruit the very people who are likely to stay in L.A.  We don't need to import people to our universities and recruit them to stay, when we have an already committed pool of people who just need a hand in getting to education.  \r\n\r\nFor those who do come to L.A., showing them the power they have to transform the space and to be invested in those projects as students is likely to keep them in the place they help to build."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The first step is empowering people through education. World Peace One helps

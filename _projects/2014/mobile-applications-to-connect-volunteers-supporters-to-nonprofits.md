@@ -154,6 +154,7 @@ maker_answers:
     - Total number of social media friends (Dream Metric)
     - Attendance at public/open street gatherings (Dream Metric)
     - Raise more money
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "The features of the revamped platform would allow for nonprofits to:\r\n\r\n- Recruit and manage/track volunteers\r\n- collect donations\r\n- run peer-to-peer fundraisers\r\n- promote and sell tickets to events\r\n- connect the community to nonprofit programing \r\n- connect the community to nonprofits social media accounts via mobile"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We want to rebuild our platform so that we can cut the time it takes to

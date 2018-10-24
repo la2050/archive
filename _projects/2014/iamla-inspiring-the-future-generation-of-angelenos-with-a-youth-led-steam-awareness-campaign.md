@@ -139,6 +139,7 @@ maker_answers:
       The number of youth who acquire an understanding of the importance of
       STEAM fields: fields that are largely successful, fast growing, and that
       will play a large role in the future development of Los Angeles.
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     By exposing youth to fun, engaging, and relatable STEAM activities, it is
     anticipated that youth will be more likely to further explore STEAM topics.

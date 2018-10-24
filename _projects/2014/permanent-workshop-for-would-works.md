@@ -158,6 +158,7 @@ maker_answers:
     - >-
       Employment opportunities for individuals who are homeless or chronically
       unemployed in Skid Row
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Focusing on small manufacturing, Would-Works is committed to increasing job
     opportunities for individuals who are homeless or chronically unemployed in
