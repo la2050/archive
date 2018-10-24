@@ -6,28 +6,7 @@ indicator: ' Education'
 body_class: strawberry
 project_id: '3102011'
 title: Alliance CollegeReady Public Schools  BLAST
-project_summary: >-
-  Alliance College-Ready Public Schools has grown to become the largest charter
-  management organization operating in LAUSD, educating 9,500 low-income
-  students at 21 high-performing public middle and high schools.  If Alliance
-  were a stand-alone district, we would be larger than 75% of the school
-  districts in California.  Alliance has a consistent and exemplary track record
-  of educating students at high levels.  More than 92% of incoming Alliance 9th
-  graders graduate in four years (vs. 65% for LAUSD and 78% for the state).  One
-  hundred percent of Alliance graduates pass the A-G college prep courses
-  required by California four-year public universities and more than 95% of our
-  graduates have gone to college.  Average daily attendance at Alliance schools
-  is 95%.  Alliance schools consistently outperform neighboring schools on
-  California achievement tests and four schools have been named California
-  Distinguished Schools.  In the past six years, Alliance-wide California
-  Academic Performance Index (API) scores surpass those of neighborhood schools
-  by nearly 100 points, LASUD by 62 points and the state by 18 points.  In 2012,
-  six Alliance high schools were ranked in the top 3% of all high schools
-  nationwide by U.S. News & World Report, and Alliance Gertz-Ressler High School
-  was the only school in LAUSD to be named a National Blue Ribbon School by the
-  U.S. Department of Education.  By consistently achieving academic success
-  across a network of 21 schools, Alliance proves that quality education does
-  not have to be the exception; it can be the rule.  
+project_summary: "When Alliance College-Ready Public Schools (Alliance) was founded, we set out to prove that it is possible to run a system of high-performing public schools that consistently prepares all students for success in college.  Our intention is to serve as a model for other public schools and districts and to significantly increase access to a high-quality education that prepares all students for success in college and life regardless of their background or where they live.  Today Alliance operates 21 high-performing public charter middle and high schools, educating 9,500 low-income from Los Angeles’ most underserved neighborhoods.   Since our founding, 95% of Alliance graduates have gone to college.   \r\n\r\nDespite our success, Alliance recognizes that we are making the best of an antiquated model.  While technology has changed our world profoundly, K-12 public schools remain largely untouched by the technological revolution outside the classroom.  Classes are still structured largely on the late 19th century industrial model where students learn to read, write, calculate, and memorize in preparation for a factory-like environment.  Learning is largely passive, with one curriculum directed at all students regardless of individual student comprehension and achievement levels.  When students reach college, most of their education is facilitated by technology. They are expected to work with technology in a self-directed manner and solve complex problems using a variety of sources and strategies.  When they reach the workforce, those expectations only increase.   \r\n\r\nBy integrating technology into the Alliance's already successful curriculum, Alliance developed the Blended Learning for Alliance School Transformation (BLAST) model to increase student academic achievement, increase personalization and relevancy in student learning, and provide students with 21st century learning tools.  In BLAST classrooms, students receive a laptop and rotate through learning stations in small groups during two-hour blocks for core academic subjects.  Learning stations include 1) teacher lead instruction with no more than 16 students at one time 2) individualized, interactive online instruction with content that adapts to and accelerates based on each student’s level of proficiency, and 3) structured, collaborative projects in which students use technology to solve real-world problems.  This unique rotational model provides a highly personalized environment that maximizes student time with teachers; empowers students to master content at their own pace; provides real-time data that gives teachers and students immediate feedback and allows students to monitor their own progress; and enables students to delve into projects that stimulate critical thinking.  In addition, through distance learning classes, students are able to benefit from lessons with the best teachers within and outside of Alliance’s network, and take online, interactive electives not offered at their home school.  BLAST schools use supplemental digital content aligned to state and common core standards, which allows students to fill gaps in past learning, or accelerate ahead of their peers if they are ready.  The highly individualized nature of the model assures that no student is left behind and no student is held back.\r\n\r\nOriginally piloted in fall 2010 at two Alliance high schools in South LA and Watts, the BLAST model has grown to serve 3,750 students at four Alliance high schools and three middle schools.  Alliance plans to grow and strengthen this program over the next five years, opening all new Alliance schools with the BLAST model. \r\n\r\nAlliance has created a professional development program to provide teachers and principals the support they need to become highly effective educators in BLAST schools.  A Summer Institute provides in-depth training for new BLAST principals and teachers and includes subjects such as the use of instructional technology, lesson planning in the rotational model, and how to use real-time data to strengthen instruction and classroom management.  In addition, teachers attend quarterly day-long BLAST teacher trainings and weekly planning meetings where they share best practices and solve problems. \r\n\r\nBuilt on the solid foundation of Alliance’s rigorous college-preparatory curriculum, BLAST schools significantly increase student ownership of their education and make learning far more personal, motivating, and relevant to the world in which they live, which will ultimately improve student academic performance, high school graduation rates, and college attendance and completion for thousands of students in Los Angeles.   \r\n"
 project_image: 'https://img.youtube.com/vi/E209GFKtqMo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/E209GFKtqMo'
 maker_answers:
@@ -301,5 +280,27 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/alliance-collegeready-public-schools-blast/img.youtube.com/vi/E209GFKtqMo/maxresdefault.jpg
 youtube_video_identifier: E209GFKtqMo
+project_summary_backup: >-
+  Alliance College-Ready Public Schools has grown to become the largest charter
+  management organization operating in LAUSD, educating 9,500 low-income
+  students at 21 high-performing public middle and high schools.  If Alliance
+  were a stand-alone district, we would be larger than 75% of the school
+  districts in California.  Alliance has a consistent and exemplary track record
+  of educating students at high levels.  More than 92% of incoming Alliance 9th
+  graders graduate in four years (vs. 65% for LAUSD and 78% for the state).  One
+  hundred percent of Alliance graduates pass the A-G college prep courses
+  required by California four-year public universities and more than 95% of our
+  graduates have gone to college.  Average daily attendance at Alliance schools
+  is 95%.  Alliance schools consistently outperform neighboring schools on
+  California achievement tests and four schools have been named California
+  Distinguished Schools.  In the past six years, Alliance-wide California
+  Academic Performance Index (API) scores surpass those of neighborhood schools
+  by nearly 100 points, LASUD by 62 points and the state by 18 points.  In 2012,
+  six Alliance high schools were ranked in the top 3% of all high schools
+  nationwide by U.S. News & World Report, and Alliance Gertz-Ressler High School
+  was the only school in LAUSD to be named a National Blue Ribbon School by the
+  U.S. Department of Education.  By consistently achieving academic success
+  across a network of 21 schools, Alliance proves that quality education does
+  not have to be the exception; it can be the rule.  
 
 ---

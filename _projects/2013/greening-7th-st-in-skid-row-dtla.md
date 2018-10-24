@@ -6,7 +6,17 @@ indicator: ' Environmental Quality'
 body_class: strawberry
 project_id: '3102155'
 title: Greening 7th St. in Skid Row/DTLA
-project_summary: "Well before founding Industrial District Green, Katherine McNenny had begun laying the groundwork for future non-profit greening activities. In December of 2011 after 12 months of preparation, she conducted her first planting of 7 trees along San Pedro St. in Skid Row between 4th and 5th Streets with the support of the Central City East Association (CCEA) and it's Executive Director, Estela Lopez. This successful first effort involved lobbying and coordinating with all relevant property owners, Jan Perry’s office, the Bureau of Street Services, and TreePeople, who managed the plantings.\r\n\r\nShe is currently overseeing another tree planting also in Skid Row, with the LA Conservation Corps along Boyd & Omar Streets between 3rd and 4th. She has been working with property owners and sponsors on this project for several months now. The planting date will be March 23rd, 2013. Volunteers from Union Church (in Little Tokyo) and several local residents from the neighborhood will help plant the trees."
+project_summary: >-
+  My idea is to plant 30 mature shade trees along 7th St. in the industrial
+  district/Skid Row section of downtown. These trees would be protected by
+  colorful and decorative metal tree guards. This neighborhood shelters the
+  largest stable homeless population in America, so in an effort to put people
+  to work, we would hire people from Chrysalis Enterprises, a local company that
+  specializes in placing people transitioning out of homelessness to water and
+  care for the trees. This portion of 7th St. is set to receive a bike lane
+  within the next couple of years, so the addition of trees would further
+  multiply the overall quality of  life along and near 7th St., which for
+  decades has been a crime-ridden and blighted stretch.
 project_image: 'https://img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CqF0Cn4dZJs'
 maker_answers:
@@ -170,5 +180,6 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/greening-7th-st-in-skid-row-dtla/img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg
 youtube_video_identifier: CqF0Cn4dZJs
+project_summary_backup: "Well before founding Industrial District Green, Katherine McNenny had begun laying the groundwork for future non-profit greening activities. In December of 2011 after 12 months of preparation, she conducted her first planting of 7 trees along San Pedro St. in Skid Row between 4th and 5th Streets with the support of the Central City East Association (CCEA) and it's Executive Director, Estela Lopez. This successful first effort involved lobbying and coordinating with all relevant property owners, Jan Perry’s office, the Bureau of Street Services, and TreePeople, who managed the plantings.\r\n\r\nShe is currently overseeing another tree planting also in Skid Row, with the LA Conservation Corps along Boyd & Omar Streets between 3rd and 4th. She has been working with property owners and sponsors on this project for several months now. The planting date will be March 23rd, 2013. Volunteers from Union Church (in Little Tokyo) and several local residents from the neighborhood will help plant the trees."
 
 ---

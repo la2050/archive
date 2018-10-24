@@ -6,12 +6,7 @@ indicator: ' Environmental Quality'
 body_class: strawberry
 project_id: '3102240'
 title: 'Sustainable Works Presents Dr. Keeling’s Curve '
-project_summary: >-
-  Since 1998, Sustainable Works has educated over 4,000 residents and instructed
-  over 5,500 community college students on issues of sustainability.  We have
-  also advised over 400 businesses so they now operate more sustainably. 
-  Specifically, they conserve water and energy, produce less waste, use less
-  toxic chemicals and purchase greener products.
+project_summary: "Our idea is to mount the production of Dr. Keeling’s Curve, starring Mike Farrell, in 10 different venues in the greater Los Angeles area, with a focus on reaching underserved communities. Dr. Keeling’s Curve is a play that both entertains and enlightens. It is the story of how one man came to discover the impact of carbon dioxide on our planet’s health and well-being. What he learned of course, is that the rising levels of CO2 are the primary cause of global warming. As a side note, when Al Gore was an undergraduate at Harvard, it was Dr. Keeling’s Curve that inspired his interest in the environment, which of course culminated in the academy award winning film An Inconvenient Truth.\r\nDr. Allen Hershkowitz, the senior scientist as NRDC, said the following in an interview with the New York Times in October 2012: “We are dealing with a gigantic problem and there is no one large undertaking that any individual or business or country can do to solve our ecological problems. It will take billions of people making highly intelligent choices.”\r\nSo how do you get billions of people to make highly intelligent choices? By educating them; first hundreds, then thousands, than hundreds of thousands, then millions, and eventually those millions add up to billions. \r\nThe power of live theater, done well, can be transformative. When I attended a performance of Dr. Keeling’s Curve at The Blank Theater, I knew Sustainable Works needed to bring this play to as wide an audience in Los Angeles as possible. By doing so, we would be educating thousands of people on the issue of global warming in a way that would motivate them to do something about the problem.  \r\n\r\n\r\n"
 project_image: 'https://img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/q0_2OnUiDiU'
 maker_answers:
@@ -117,5 +112,11 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/sustainable-works-presents-dr-keelings-curve/img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg
 youtube_video_identifier: q0_2OnUiDiU
+project_summary_backup: >-
+  Since 1998, Sustainable Works has educated over 4,000 residents and instructed
+  over 5,500 community college students on issues of sustainability.  We have
+  also advised over 400 businesses so they now operate more sustainably. 
+  Specifically, they conserve water and energy, produce less waste, use less
+  toxic chemicals and purchase greener products.
 
 ---

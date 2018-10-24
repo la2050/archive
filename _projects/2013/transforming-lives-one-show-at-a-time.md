@@ -6,25 +6,7 @@ indicator: Arts & Cultural Vitality
 body_class: strawberry
 project_id: '3102095'
 title: Transforming Lives One Show at a Time
-project_summary: >-
-  In the past two years, CRE Outreach has become a fixture within the Inglewood
-  Unified School District serving over 100 at-risk youth with after-school
-  programs, doubled our audiences for local productions, expanded our donor
-  database by over 15%, and been able offer stipends to our Theatre by the Blind
-  actors for the first time. Our seventh Theatre by the Blind production,
-  Private Eyes, completed a successful six-week run in April 2012. An audience
-  favorite, the show was prominently featured in the Los Angeles Times and other
-  local publications (see attached press).  In addition, we have forged a strong
-  relationship with the Braille Institute and the Junior Blind of America to
-  develop and execute arts-based programming in the Los Angeles area serving
-  approximately 200 visually impaired participants. CRE Outreach has also become
-  the parent company for Outreach Through the Arts, at the Santa Monica Music
-  Center, which provides over 80 under-served youth with scholarships for
-  instrument lessons and music instruction. Most recently, we have developed a
-  partnership with the Veterans Affair’s New Directions program to implement
-  “Heroes’ Stories” – a performing arts residency that gives a voice to our
-  nations brave service members helping to honor and empower them through
-  theatre.
+project_summary: "CRE Outreach is a non-profit performing arts organization that helps at-risk youth, the visually impaired, and military veterans in greater Los Angeles overcome their challenges through the creation of original works. Our programs actively engage the most under-served individuals, empowering them to live better lives and successfully navigate through today’s society. \r\n\r\nProgramming\r\nOur Changing Perceptions program provides visually impaired youth, teens and adults with essential life-skills through the performing arts.  Through this program non-verbal students become vocal, participants confidently navigate a stage and move through space, and casts learn to work as a team towards a common goal. Theatre by the Blind, the country’s only theater troupe composed entirely of blind adult actors, provides participants with a constructive and creative forum to confront their challenges while informing the public and changing misconceptions about the capabilities of the blind.  Creative Youth Theatre provides at-risk youth with performing arts programs at under-funded schools and community centers. Students’ explore their own hopes and struggles to create original stories focused on themes such as bullying, racism, peer pressure, and self-esteem. Heroes’ Stories is a performing arts program with New Directions at the V.A. that gives military veterans a safe environment to voice their own heroic stories and experiences through theatre. Through these innovative performing arts programs, CRE Outreach is “Transforming Lives, One Show at a Time.”\r\n"
 project_image: 'https://img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/pp9oh64x-9Y'
 maker_answers:
@@ -204,5 +186,24 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/transforming-lives-one-show-at-a-time/img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg
 youtube_video_identifier: pp9oh64x-9Y
+project_summary_backup: >-
+  In the past two years, CRE Outreach has become a fixture within the Inglewood
+  Unified School District serving over 100 at-risk youth with after-school
+  programs, doubled our audiences for local productions, expanded our donor
+  database by over 15%, and been able offer stipends to our Theatre by the Blind
+  actors for the first time. Our seventh Theatre by the Blind production,
+  Private Eyes, completed a successful six-week run in April 2012. An audience
+  favorite, the show was prominently featured in the Los Angeles Times and other
+  local publications (see attached press).  In addition, we have forged a strong
+  relationship with the Braille Institute and the Junior Blind of America to
+  develop and execute arts-based programming in the Los Angeles area serving
+  approximately 200 visually impaired participants. CRE Outreach has also become
+  the parent company for Outreach Through the Arts, at the Santa Monica Music
+  Center, which provides over 80 under-served youth with scholarships for
+  instrument lessons and music instruction. Most recently, we have developed a
+  partnership with the Veterans Affair’s New Directions program to implement
+  “Heroes’ Stories” – a performing arts residency that gives a voice to our
+  nations brave service members helping to honor and empower them through
+  theatre.
 
 ---

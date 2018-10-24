@@ -6,7 +6,7 @@ indicator: ' Housing'
 body_class: strawberry
 project_id: '3102226'
 title: Casa Amador
-project_summary: "Currently R4TT has one lot with three households. On average we work with 30 individuals per month. This our biggest achievement. Every time one of our residents moves into stable permanent housing we have accomplished our goal.  Successful reintegration into society is our top priority. \r\n\r\n"
+project_summary: "Reach For The Top, Inc., (R4TT) is a humanitarian non-profit organization, our goal is to “Provide Hope through Housing”. R4TT, has been serving the community since 2005 providing the basic human needs of food, shelter, and clothing. In our day to day operations we have encountered many homeless single mothers with their children. Casa Amador will assist mothers and their children by creating a space where they can thrive and gain the skill set necessary to become successful, independent, and permanently housed. \r\n\r\nCasa Amador is a 27 bed apartment building for formerly homeless women and their children. The architectural style combines elements of early twentieth century mixed use design with current technology. The building is three stories tall on a corner facing Adams Boulevard, and two stories with a privacy screen facing the single family dwellings on Palm Grove Avenue in the rear. It is designed to provide an open, light filled environment for families preparing for the future. The units feature an open living room plan with kitchen and either two or three bedrooms and bath. There is a secluded interior courtyard. There is a laundry room, private meeting room and outdoor children’s play area. At the street level are offices, parking and a commercial space. The building and systems are designed to the latest CalGreen and stormwater mitigation and pollution prevention standards. Solar panels and green roof are designed for the roof top.\r\n\r\nRelationships are built and developed with individuals by creating familiarity through repeated interactions using our food distribution program that is done every Friday thus creating a climate where information can be provided about our program and other social services. \r\n\r\nBy successfully rehabilitating, training, and assisting homeless women and children in the Los Angeles, R4TT would be providing our impoverished community with the tools to become self-sufficient and permanently housed.\r\n"
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 maker_answers:
   website: 'http://www.reach4thetop.org/'
@@ -205,5 +205,6 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/casa-amador/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16395'
 maker_image_file_name: POSTCARD-1.jpg
+project_summary_backup: "Currently R4TT has one lot with three households. On average we work with 30 individuals per month. This our biggest achievement. Every time one of our residents moves into stable permanent housing we have accomplished our goal.  Successful reintegration into society is our top priority. \r\n\r\n"
 
 ---

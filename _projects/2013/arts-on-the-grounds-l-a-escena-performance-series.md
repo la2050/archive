@@ -6,18 +6,7 @@ indicator: Arts & Cultural Vitality
 body_class: strawberry
 project_id: '3102263'
 title: 'Arts on the Grounds: L.A. Escena Performance Series'
-project_summary: >-
-  The Library has offered a range of public programs and theater productions,
-  taking advantage of the collection’s focus on the 17th- and 18th-century, one
-  of the great ages of classical drama. Most recently, the Clark Library
-  partnered with L.A. Theater Works (LATW) to present “Pride and Prejudice” in
-  the Library’s drawing room for a live audience and radio broadcast. Other
-  indoor performances have included the operatic scena “Il Combattimento di
-  Tancredi e Clorinda” (with Opera UCLA), and William Wycherley’s “The Country
-  Wife” in collaboration with UCLA’s School of Theater, Film and Television.
-  Theater performances build on the tremendous success of the Clark’s Chamber
-  Music Series, now entering its 20th year, which draws over 700 people each
-  year. 
+project_summary: "<p>The UCLA William Andrews Clark Memorial Library plans to transform community engagement with the arts, and in particular with the Hispanic tradition of classical theater through a series called L.A. Escena,  part of the Clark Library’s Arts on the Grounds project.  Arts on the Grounds is the first stage of a larger strategy for engaging lower-income and diverse communities from the West Adams neighborhood of Los Angeles. Our initial strategy for increasing engagement will begin with a performance program set in the Clark Library’s five acres of gardens, public spaces, outdoor “rooms,” and lawns. Performances will target local audiences through modern interpretations of classical texts, bilingual productions and adaptations of Spanish plays, and family-friendly productions. </p>\r\n\r\n<p>This initiative will open in June 2013 with L.A. Escena. Focusing on classical theater in Spanish and adaptations for Los Angeles audiences, this series will extend the Clark Library’s reach, inspiring artists and audiences to explore plays from the Hispanic tradition, and particularly Spain’s Golden Age, in bilingual formats and outdoor performances. As a first step in introducing broader audiences to this body of work, Playwrights’ Arena, spearheaded by Jon Lawrence Rivera, will commission notable local playwrights active in the Latino community to adapt classics of the Spanish Golden Age for contemporary Los Angeles audiences. The series will launch with a festival of staged readings designed to introduce audiences to the treasures of Lope de Vega, Cervantes, Sor Juana Inés de la Cruz and more. Playwrights include Oliver Mayer, Velina Hasu Houston, and Luis Alfaro. Renowned actors will present scenes of their adaptations this summer, to be followed by one or more full productions in Summer 2014. </p>\r\n\r\n<p>The UCLA Clark Library is located in the ethnically and economically diverse community of West Adams, one of the oldest neighborhoods in Los Angeles, with multiple Historic Preservation Overlay Zones.  The community includes Latino, white, African-American, Asian, Pacific Islander, and Native American residents, ranging from wealthy to low-income, and is a center of African-American gay life. West Adams thus embodies the racial, economic and social diversity of L.A. </p>\r\n\r\n<p>Despite its central location and partial gentrification, however, the neighborhood is still far removed from much of the cultural activity in Los Angeles. We plan to remedy this through the Arts on the Grounds initiative which will welcome residents to outdoor performances, particularly encouraging the exploration of the city’s Hispanic heritage.</p>\r\n"
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 maker_answers:
   website: 'http://www.clarklibrary.ucla.edu/'
@@ -190,5 +179,17 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/arts-on-the-grounds-l-a-escena-performance-series/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16669'
 maker_image_file_name: CLARK_The_Country_Wife__1.jpg
+project_summary_backup: >-
+  The Library has offered a range of public programs and theater productions,
+  taking advantage of the collection’s focus on the 17th- and 18th-century, one
+  of the great ages of classical drama. Most recently, the Clark Library
+  partnered with L.A. Theater Works (LATW) to present “Pride and Prejudice” in
+  the Library’s drawing room for a live audience and radio broadcast. Other
+  indoor performances have included the operatic scena “Il Combattimento di
+  Tancredi e Clorinda” (with Opera UCLA), and William Wycherley’s “The Country
+  Wife” in collaboration with UCLA’s School of Theater, Film and Television.
+  Theater performances build on the tremendous success of the Clark’s Chamber
+  Music Series, now entering its 20th year, which draws over 700 people each
+  year. 
 
 ---

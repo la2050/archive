@@ -7,11 +7,16 @@ body_class: strawberry
 project_id: '3102157'
 title: Listening Communication and Conflict Resolution Skills for Los Angeles
 project_summary: >-
-  More than 2,000 members of the public were trained by Avis Ridley-Thomas in
-  the years that I oversaw the Los Angeles City Attorney's Dispute Resolution
-  Program of the Office of the Los Angeles City Attorney.  Emeritus UCLA
-  Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
-  undergraduates have been trained as a result of that class.
+  This idea will provide those who wish to learn listening, communication and
+  conflict resolution skills the opportunity to do so at multiple locations
+  throughout Los Angeles.  Social connections are impacted by how we interact
+  with one another.  When conflict occurs, there are opportunities to listen and
+  communicate in a way that increases the possibility of resolving disputes, and
+  building social connections.  Too few opportunities are available to members
+  of the public to learn and apply listening, communication and conflict
+  resolution skills.  This will help move Los Angeles toward more effectively
+  addressing the inevitable conflict that we encounter in the most constructive
+  ways possible.  
 project_image: 'https://img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-wRfwMCYTHY'
 maker_answers:
@@ -105,5 +110,11 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/listening-communication-and-conflict-resolution-skills-for-los-angeles/img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg
 youtube_video_identifier: '-wRfwMCYTHY'
+project_summary_backup: >-
+  More than 2,000 members of the public were trained by Avis Ridley-Thomas in
+  the years that I oversaw the Los Angeles City Attorney's Dispute Resolution
+  Program of the Office of the Los Angeles City Attorney.  Emeritus UCLA
+  Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
+  undergraduates have been trained as a result of that class.
 
 ---

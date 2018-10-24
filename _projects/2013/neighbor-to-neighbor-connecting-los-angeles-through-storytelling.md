@@ -7,17 +7,24 @@ body_class: strawberry
 project_id: '3102211'
 title: 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
 project_summary: >-
-  Founded by UCLA students in 1982, Outfest is the leading organization that
-  promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
-  Bisexual and Transgender) stories on the screen. Outfest builds community by
-  connecting diverse populations to discover, discuss, and celebrate stories of
-  LGBT lives. Over the past three decades, Outfest has showcased thousands of
-  films from around the world to audiences of nearly a million, educated and
-  mentored hundreds of emerging filmmakers, and protected more than 20,000 LGBT
-  films and videos. In addition, Outfest produces one of the largest film
-  festivals in Southern California, the only LGBT people of color film festival,
-  three filmmaking programs using mentors, and we have over 400 volunteers who
-  participate in our programs. 
+  One of the best ways to connect people is through storytelling. In September
+  of 2013, we will launch a 24-hour collaborative filmmaking project that
+  connects diverse populations and neighborhoods of Los Angeles. The theme of
+  the project is “local heroes” and each team will discover, document, and share
+  inspiring stories of the community. 15 filmmaking teams will be assembled that
+  consist of three novice filmmakers from underserved communities, three
+  professional filmmakers (mentors), and six to ten volunteers. Each team will
+  be diverse in age, race/ethnicity, and sexual orientation. Moreover, each
+  project will take place in a different neighborhood, with the goal of
+  occupying as many unique areas of Los Angeles as possible. Prior to shooting
+  the film, the team will work with community-based organizations to discover
+  stories of local heroes and to build support for the project. The teams will
+  have a month to develop relationships, but only one day to actually shoot and
+  edit the film. At the end of the 24-hour period, the films will be screened
+  first to the community, then as a complete program at a special event, and
+  finally they’ll live online and will be pushed out via a social networking
+  campaign. Prizes will be given to the most impactful film, greatest number of
+  volunteers engaged, and best team cooperation. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385
 maker_answers:
@@ -195,5 +202,17 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/neighbor-to-neighbor-connecting-los-angeles-through-storytelling/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385.jpg
 maker_image_id: '16858'
 maker_image_file_name: Access_LA_Rt_copy.jpg
+project_summary_backup: >-
+  Founded by UCLA students in 1982, Outfest is the leading organization that
+  promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
+  Bisexual and Transgender) stories on the screen. Outfest builds community by
+  connecting diverse populations to discover, discuss, and celebrate stories of
+  LGBT lives. Over the past three decades, Outfest has showcased thousands of
+  films from around the world to audiences of nearly a million, educated and
+  mentored hundreds of emerging filmmakers, and protected more than 20,000 LGBT
+  films and videos. In addition, Outfest produces one of the largest film
+  festivals in Southern California, the only LGBT people of color film festival,
+  three filmmaking programs using mentors, and we have over 400 volunteers who
+  participate in our programs. 
 
 ---

@@ -6,18 +6,7 @@ indicator: ' Social Connectedness'
 body_class: strawberry
 project_id: '3102023'
 title: Eye to Eye LGBTQ Organizing Center
-project_summary: >-
-  In 8 years, our organization has grown into one of the most well-established
-  organizations dedicated to organizing and political engagement of LGBT people
-  of color.  We are one of the largest non-service-based groups, based on staff
-  size and member involvement, representing Asian and Pacific Islander LGBT
-  people.  We have a robust volunteer base of hundreds of activists and 5
-  standing committee, which plan and execute a year-round calendar of
-  activities.  The creation of this space and organization in itself is perhaps
-  our greatest achievement, since prior to our existence there was not an
-  organization dedicated to political empowerment of API LGBT people.  Along
-  with our allies, we provide an important foundation for further organizing in
-  LGBT communities of color.
+project_summary: "Our goal is to create a center for community-building, political education, action and organizing in Los Angeles, particularly for women and Lesbian, Gay, Bisexual, Transgender, Queer (LGBTQ) communities of color.   This project will recruit and develop new community leaders who can participate in organizing efforts and who will be engaged in community change work.\r\n\r\nIn the short term, we will increase community activism, including voter engagement through basic outreach and education on critical issues affecting our community.  In the longer term, our goal is to develop individual and collective leadership among communities that are currently underrepresented in decisionmaking circles. These include LGBTQ people of color, LGBTQ immigrants, women and transgender people of color.  We are creating a gathering space and space for organizing and political education for these communities."
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385
 maker_answers:
@@ -164,5 +153,17 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/eye-to-eye-lgbtq-organizing-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385.jpg
 maker_image_id: '16625'
 maker_image_file_name: CIMG0246.jpg
+project_summary_backup: >-
+  In 8 years, our organization has grown into one of the most well-established
+  organizations dedicated to organizing and political engagement of LGBT people
+  of color.  We are one of the largest non-service-based groups, based on staff
+  size and member involvement, representing Asian and Pacific Islander LGBT
+  people.  We have a robust volunteer base of hundreds of activists and 5
+  standing committee, which plan and execute a year-round calendar of
+  activities.  The creation of this space and organization in itself is perhaps
+  our greatest achievement, since prior to our existence there was not an
+  organization dedicated to political empowerment of API LGBT people.  Along
+  with our allies, we provide an important foundation for further organizing in
+  LGBT communities of color.
 
 ---

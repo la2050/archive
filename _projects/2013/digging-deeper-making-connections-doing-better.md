@@ -6,35 +6,7 @@ indicator: ' Social Connectedness'
 body_class: strawberry
 project_id: '3102133'
 title: Digging Deeper/ Making Connections/ Doing Better
-project_summary: >-
-  Despite the economic downturn and budget reductions we have grown attendance
-  at CAAM over the last 10 years from35K to over 100,000 visitors representing
-  an average 20% increase each year.  We are now presenting 80+ public programs
-  each year and 9 – 13 exhibitions while continuing to maintain an active and
-  growing research library and collection.  We are proud of these numbers and
-  equally as proud that they represent a connection to content that has ranged
-  from presenting the more than 20 exhibitions that have been directly related
-  to telling the story of the African Diaspora around the world…and all still
-  for Free Admission!  We have proudly collaborated with numerous organizations
-  from the Skirball Cultural Center to the Japanese American National Museum,
-  the Chinese American Museum and others like Self Help Graphics to the obvious
-  connections with the Watts Towers, St. Elmo’s Village, and commercial
-  galleries owned by African Americans.  We encourage artmaking and training by
-  children and showcase the work of other organizations serving this purpose
-  like Ryman Arts. But perhaps we are just as proud of our outreach efforts with
-  Target that were designed to allow us to showcase the achievements and
-  contributions of the African American and collaborative communities through
-  our Target Sundays at CAAM programs.  Through this effort, we have not only
-  created places for the community to showcase what they do but this showcasing
-  of talent also included bringing to the public important discussions and
-  representatives that could assist with everything from healthy living to
-  safety in the water.  Target Sundays even helped us create our Artpreneur
-  program making it possible for solo art entrepreneurs to have a place to sell
-  and expose audiences to their work and earn income accordingly. Our most
-  heartfelt achievement is the growth of our Young Docents program having grown
-  it from a 2 person 4 week program that is an integral part of our program
-  today employing, training and educating 30 high school youth year round for
-  their personal and professional career development.
+project_summary: "We propose to integrate 4 tracks of existing and new activity initiatives for greater depth, synergistic connections and “doing more better” for our youth and community as follows:\r\n\r\nYoung Docents and Young Docents After Hours - continuing and deepening the experience for LA County high school students to receive paid employment and training through hands-on cross use customer service business, public speaking and problem solving skills plus direct experience of museum operations, and program development and delivery.\r\n\r\nArtpreneurs program enhancement with 10 increased opportunities for participation and promotion fostering creative and economic vitality for visual artists through monthly on-site vending and marketing opportunities to the public.\r\n\r\nKids Gloves project to be tested with our YDs to empower learning and pride in uncovering school and neighborhood history through professional experiences in cataloging & preserving historical artifacts, gathering oral histories and determining if we can replicate the program for at schools throughout Los Angeles. \r\n\r\nArt on CAAM’s Footprint program which is a 2 year program designed to develop deeper community based relationships and engagement in the placement, curation and creation of CAAM’s exterior footprint as a “gallery” for public exhibition \r\n\r\nFor 6 months we would blend and cross purpose these initiatives for a more integrated and richer public, experience for both our youth, audiences, general public that will not only meet the arts and cultural vitality indicators, but also serve as boosters for education, social connections, and provide direct impact on income and employment for area youth as well as the overall enhancement of the physical Exposition Park neighborhood and environment. \r\n\r\n"
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17083%252Fdisplay%252FWishing_Upon_A_Star.jpg=c570x385
 maker_answers:
@@ -355,5 +327,34 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/digging-deeper-making-connections-doing-better/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17083%252Fdisplay%252FWishing_Upon_A_Star.jpg=c570x385.jpg
 maker_image_id: '17083'
 maker_image_file_name: Wishing_Upon_A_Star.jpg
+project_summary_backup: >-
+  Despite the economic downturn and budget reductions we have grown attendance
+  at CAAM over the last 10 years from35K to over 100,000 visitors representing
+  an average 20% increase each year.  We are now presenting 80+ public programs
+  each year and 9 – 13 exhibitions while continuing to maintain an active and
+  growing research library and collection.  We are proud of these numbers and
+  equally as proud that they represent a connection to content that has ranged
+  from presenting the more than 20 exhibitions that have been directly related
+  to telling the story of the African Diaspora around the world…and all still
+  for Free Admission!  We have proudly collaborated with numerous organizations
+  from the Skirball Cultural Center to the Japanese American National Museum,
+  the Chinese American Museum and others like Self Help Graphics to the obvious
+  connections with the Watts Towers, St. Elmo’s Village, and commercial
+  galleries owned by African Americans.  We encourage artmaking and training by
+  children and showcase the work of other organizations serving this purpose
+  like Ryman Arts. But perhaps we are just as proud of our outreach efforts with
+  Target that were designed to allow us to showcase the achievements and
+  contributions of the African American and collaborative communities through
+  our Target Sundays at CAAM programs.  Through this effort, we have not only
+  created places for the community to showcase what they do but this showcasing
+  of talent also included bringing to the public important discussions and
+  representatives that could assist with everything from healthy living to
+  safety in the water.  Target Sundays even helped us create our Artpreneur
+  program making it possible for solo art entrepreneurs to have a place to sell
+  and expose audiences to their work and earn income accordingly. Our most
+  heartfelt achievement is the growth of our Young Docents program having grown
+  it from a 2 person 4 week program that is an integral part of our program
+  today employing, training and educating 30 high school youth year round for
+  their personal and professional career development.
 
 ---

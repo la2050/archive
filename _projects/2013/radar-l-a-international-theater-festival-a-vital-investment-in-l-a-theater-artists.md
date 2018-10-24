@@ -8,20 +8,7 @@ project_id: '3102227'
 title: >-
   RADAR L.A. International Theater Festival; A vital investment in L.A.Theater
   Artists
-project_summary: >-
-  REDCAT is currently celebrating ten years of bringing experimental and
-  interdisciplinary performing and visual art to Los Angeles audiences. Each
-  year REDCAT collaborates with local, national and international artists and
-  organizations on the presentation of more than 200 events, ranging from
-  concerts to lectures, to dance festivals and film series. Collaborating
-  directly with a wide range of artists and ensembles in the creation and
-  presentation of their work and in the design of REDCAT programming means
-  REDCAT is a part of the ongoing conversation about the changing dynamic of the
-  local and global arts fields, and is uniquely positioned to influence and also
-  respond to changing needs and opportunities. REDCAT engages a young,
-  multi-ethnic, multi-lingual, and economically diverse audience, welcoming more
-  than 60,000 audience members annually to concerts, dance performances,
-  theatrical productions and exhibitions.
+project_summary: "The RADAR L.A. Festival of Contemporary Theater brings some of the worlds most influential theater companies to downtown L.A., and invests in the future vitality of L.A.’s performing arts community with a unique residency program that creates infrastructure for L.A. ensembles to create their best work and put it in the global spotlight.\r\n\r\nREDCAT and CalArts, with a consortium of public and private partners, will contribute to the cultural vitality of L.A.’s evolving downtown, and create crucial infrastructure for local performing artists to create new work, with a two-part proposal:\r\n\r\n- To produce RADAR L.A. 2013, a major international festival of contemporary theater that activates varied downtown L.A. locations with adventurous performances by influential artists from L.A., Latin America, and the Pacific Rim, September 23 to October 6, 2013, and\r\n\r\n- To organize a series of extended artist residencies and related public events that expands the neighborhood impact of the festival’s artistic initiatives and allows diverse artists to create new contemporary performances, while also increasing their vital role in the planning process for revitalization of downtown L.A..\r\n\r\nThe festival and residency programs build on momentum from the inaugural 2011 RADAR L.A., which featured 90 performances of 15 productions, engaging over 200 artists. Over 11,000 diverse patrons wandered between ten locations, experiencing affordable theatrical presentations, site-specific events, social gatherings and symposia. The L.A. Times said the “revitalizing” festival fulfilled a “vision of downtown as a vibrant cultural nexus…a resounding success.”\r\n\r\nBy expanding RADAR L.A. with increased artist commissions and residencies, artists receive a strategic investment that addresses the L.A. 2050 report’s call for policies that nurture the L.A. arts community so it can thrive.\r\n\r\nThe experienced curatorial team’s provocative program includes:\r\n\r\n-Innovative artists who stretch the boundaries of traditional theater;\r\n\r\n-Community-based projects exploring urgent social justice issues that engage the voices of often overlooked residents;\r\n\r\n-Cultural influences that reflect L.A.’s demographics, presenting artists from Mexico, Chile, Argentina, Japan, and Indonesia;\r\n\r\n-Interdisciplinary collaborations merging dance, theater, music and new media.\r\n\r\nThe L.A. Times captured the essence of the first festival’s vibrancy, calling it “an invaluable addition to the city’s cultural ecology,” and stressing its impact on the neighborhood: “Because L.A.’s geography is so sprawling, that sense of urban density is hard to achieve. This is why a festival such as RADAR L.A.…situated within an easily commutable area, can be so revitalizing…I scurried from one theater to the next, bumping into acquaintances old and new along the way…”.\r\n\r\nThe strategy behind the RADAR L.A. Festival is both local and global, recognizing that helping to create work is only one part of the solution—the plan must also include engaging the larger national/international field so that the impact is greatly enhanced, leading to vastly increased opportunities for artists and a significant shift in the perception of Los Angeles as a vital center for contemporary theater and dance.  This strategy is proven and effective: as a result of the 2011 RADAR L.A. Festival, six of the eight L.A. productions toured as a result of the exposure."
 project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/VpqSppE8ppo'
 maker_answers:
@@ -331,5 +318,19 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/radar-l-a-international-theater-festival-a-vital-investment-in-l-a-theater-artists/img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg
 youtube_video_identifier: VpqSppE8ppo
+project_summary_backup: >-
+  REDCAT is currently celebrating ten years of bringing experimental and
+  interdisciplinary performing and visual art to Los Angeles audiences. Each
+  year REDCAT collaborates with local, national and international artists and
+  organizations on the presentation of more than 200 events, ranging from
+  concerts to lectures, to dance festivals and film series. Collaborating
+  directly with a wide range of artists and ensembles in the creation and
+  presentation of their work and in the design of REDCAT programming means
+  REDCAT is a part of the ongoing conversation about the changing dynamic of the
+  local and global arts fields, and is uniquely positioned to influence and also
+  respond to changing needs and opportunities. REDCAT engages a young,
+  multi-ethnic, multi-lingual, and economically diverse audience, welcoming more
+  than 60,000 audience members annually to concerts, dance performances,
+  theatrical productions and exhibitions.
 
 ---

@@ -6,7 +6,32 @@ indicator: ' Education'
 body_class: strawberry
 project_id: '3102040'
 title: 25 Aquaponic Farms in 25 Schools
-project_summary: "•\tFirst commercial aquaponics farm in LA County\r\n•\tFirst aquaponic system at LAUSD ( http://vimeo.com/41029703)\r\n•\tFirst hyper-local, living produce, better-than-organic sold at SoCal Farmers market (LA Times- http://goo.gl/s3twp)\r\n•\tCreated the Art & Science of Aquaponics course- the first backyard/ DIY aquaponics class in SoCal (LA Times- http://goo.gl/mGmPQ)\r\n•\tConsultant on some of the largest aquaponics projects in CA (http://goo.gl/LE1Bu)\r\n•\tDesigner of the smallest, yet highest yielding per square foot, Aquaponics system… just about anywhere. (Dream Garden http://goo.gl/JG1Sv)\r\n•\tFree farm tours to 1000’s of visitors\r\n•\tCo-orchestrated the debut of aquaponics at the CA State Fair, reaching 500,000 visitors (Sacramento Bee http://goo.gl/0HuYp )\r\n•\tPresented AP @ the Seedstock Sustainable Agriculture Innovation Conference at UCLA Anderson School of Management (Seedstock)\r\n•\tCompletely open-source, share all our secrets and spread the gospel of AP to all\r\n•\tRe-introducing taste to living food (Edible Westside http://goo.gl/KydmV)\r\n"
+project_summary: >-
+  Food IS the common thread that can help solve the world’s major problems
+  simultaneously. Urban farming points us in the right direction and aquaponics
+  is the vehicle to get us there. Aquaponics is the most sustainable
+  (economically and environmentally) way to grow food on the planet – most water
+  efficient, highest yields, zero waste, better-than-organic, with incredible
+  taste. It is a closed-loop system that combines aquaculture (fish farming) and
+  hydroponics (growing food in water). We developed a highly efficient model
+  that grows more food per square foot than just about anything, using vertical
+  grow- towers. The rendering posted above can produce up to 1000 plants per
+  year in just 20 square feet in optimal conditions. Aquaponics grows leafy
+  greens, herbs and fruiting crops along with edible or ornamental fish. After
+  several years of operating different types of aquaponic systems we have found
+  this approach to be the easiest and most efficient way to learn, teach and
+  jump right into the excitement of growing your own food.  OUR PLAN: We are
+  prepared to install 25 of our unique aquaponic systems in 25 schools in 2013.
+  Each school will receive training based on our existing course and manual (Art
+  & Science of Aquaponics) coupled with maintenance and support. We will also
+  encourage installation of the vertical grow-tower system to become a class
+  project. Additionally, we have also budgeted to pay a stipend to 4 teachers to
+  help us convert our course into a curriculum that meets CA State Standards.
+  Integrated Environmental Education (including urban farming) has been proven
+  by our partner Environmental Charter High School to lead to the highest
+  graduation rates (and acceptance to 4-year colleges) in the US. Aquaponics is
+  the future of farming on planet Earth. By combining the two, aquaponics +
+  education, what better way to cultivate a resilient community? 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16782%252Fdisplay%252Fvertical_AP_kit_3b.jpg=c570x385
 maker_answers:
@@ -220,5 +245,6 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/25-aquaponic-farms-in-25-schools/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16782%252Fdisplay%252Fvertical_AP_kit_3b.jpg=c570x385.jpg
 maker_image_id: '16782'
 maker_image_file_name: vertical_AP_kit_3b.jpg
+project_summary_backup: "•\tFirst commercial aquaponics farm in LA County\r\n•\tFirst aquaponic system at LAUSD ( http://vimeo.com/41029703)\r\n•\tFirst hyper-local, living produce, better-than-organic sold at SoCal Farmers market (LA Times- http://goo.gl/s3twp)\r\n•\tCreated the Art & Science of Aquaponics course- the first backyard/ DIY aquaponics class in SoCal (LA Times- http://goo.gl/mGmPQ)\r\n•\tConsultant on some of the largest aquaponics projects in CA (http://goo.gl/LE1Bu)\r\n•\tDesigner of the smallest, yet highest yielding per square foot, Aquaponics system… just about anywhere. (Dream Garden http://goo.gl/JG1Sv)\r\n•\tFree farm tours to 1000’s of visitors\r\n•\tCo-orchestrated the debut of aquaponics at the CA State Fair, reaching 500,000 visitors (Sacramento Bee http://goo.gl/0HuYp )\r\n•\tPresented AP @ the Seedstock Sustainable Agriculture Innovation Conference at UCLA Anderson School of Management (Seedstock)\r\n•\tCompletely open-source, share all our secrets and spread the gospel of AP to all\r\n•\tRe-introducing taste to living food (Edible Westside http://goo.gl/KydmV)\r\n"
 
 ---
