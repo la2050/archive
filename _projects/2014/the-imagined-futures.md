@@ -118,6 +118,24 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Federal research grant funding
+    - Patents per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Number of high-growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
   impact_metrics: "The Imagined Futures should have a strong impact on almost all of the LA2050 Create metrics.\r\n\r\nPrimary impact will be on:\r\n* Employment in creative industries: by encouraging crossover between science, tech & the creative world, as well as by highlighting science & tech-related aspects of the entertainment industry that wouldn't otherwise be noticed.\r\n* Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric): The Imagined Futures will spotlight how much work in science & tech there is in LA, helping to keep talent in the city.\r\n* Measures of cultural and global economic influence (“soft power”) (Dream Metric): A primary focus of The Imagined Futures is highlighting LA's history of cultural & industrial influence, as well as making that a selling point for tourism. When people think innovation, they should think LA. \r\n* Recruiting and retention rates at local higher education institutions (Dream Metric). If L.A. is seen as a center for creativity and technology, it will recruit & retain more students. Promoting work done at research universities in the Los Angeles area (like CalTech's work with JPL) is good for them. We also envision working with college interns from smaller educational institutions.\r\n\r\nSecondary impact will be made on:\r\n* Number of high-growth startups, patents per capita, venture capital investment, jobs per capita: The Imagined Futures is encouraging young people to take an interest in STEM careers, as well as focusing attention on the tech needs of the entertainment business. Over time this will lead to a greater number of high-growth startups, patents per capita, and venture capital investment, and more jobs per capita. \r\n* Gini coefficient, Minority- and women-owned firms: The Imagined Futures is directly aimed at inspiring underrepresented groups to go into higher income fields than they otherwise would have. STEM fields or creative work might seem out of reach to many of them; we can inspire them to dream bigger. \r\n* Federal research grant funding: a goal of The Imagined Futures is building visiblity for scientists and their work that might otherwise go unnoticed, especially if that work will benefit the community. \r\n\r\nTertiary impact will be made on arts establishments per capita, concentration of manufacturing activity in LA, and unemployment rates (and opportunities) for the formerly incarcerated. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Imagined Futures consists of three components: live programming; a

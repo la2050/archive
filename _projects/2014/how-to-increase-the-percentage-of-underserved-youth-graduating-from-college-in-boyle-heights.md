@@ -101,6 +101,10 @@ maker_answers:
     - East LA
     - Boyle Heights
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - HS student proficiency in English & Language Arts and Math
+    - College matriculation rates
+    - Suspension and expulsion rates (Dream Metric)
   impact_metrics: 'College graduation rates for low-income students.  '
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CT’s successful model is currently being implemented in Boyle Heights. The

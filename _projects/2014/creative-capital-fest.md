@@ -108,6 +108,28 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Patents per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Number of high-growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
   impact_metrics: "Creative Capital Fest will help to achieve almost all of the LA2050 \"Create\" Metrics by attracting creative leaders to Los Angeles, showcasing LA's creative industries, connecting entrepreneurs and startups with investors and resources, and  inspiring and connecting LA-based students with opportunities in LA's creative industries.\r\n\r\nSocial impact will be at the core of this festival, and we will work hand in hand with organizations and social innovators working to create opportunities for the formerly incarcerated and other underprivileged constituencies in Los Angeles. As the most diverse city on the planet, it's crucial that this is also an event that showcases and supports minorities and women that are looking to achieve their dreams in LA. We will look to partner with creative impact-oriented organizations that are looking to create engaging experiences for festival attendees, and deliver funds to innovative organizations and social entrepreneurs via Creative Capital Grants. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Creative Capital Fest will be a world class music, technology, and arts

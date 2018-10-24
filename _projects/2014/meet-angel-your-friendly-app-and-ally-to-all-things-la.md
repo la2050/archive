@@ -109,6 +109,15 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
   impact_metrics: "Our web/mobile application will increase social and civic engagement of tourists and local residents. When local officials are involved and have access to our database of users, they will be able to reach a wider audience, faster and more efficiently. We will also encourage friendships within \"x\" location thereby increasing their social media engagement. \r\n\r\nUltimately, we want LA to be a city that is more interconnected and intercultural than it has been ."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA has unfortunately been known as one of the "UNFRIENDLIEST" cities in the

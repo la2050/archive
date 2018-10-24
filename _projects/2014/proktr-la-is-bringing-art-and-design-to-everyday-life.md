@@ -101,6 +101,17 @@ maker_answers:
     - South LA
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - 'Attendance at cultural events. '
   impact_metrics: "Employment in creative industries\r\n\r\n- Proktr supports the many artists and designers living and working here. This is largely a self-employed and freelance population. We seek to support the economic and social sustainability of this population. \r\n- By bringing broad visibility to our art community we will attract and retain creative human capital.\r\n\r\nArts establishments per capita\r\n\r\n- We will help current arts establishments achieve their goals by providing coverage and encouraging attendance. \r\n- We are re-defining what it means to be an ‘arts establishment’. By facilitating arts partnerships with non-traditional arts venues, we are actually multiplying the number of arts establishments impacting the community. \r\n\r\nJobs per capita\r\n\r\n- Proktr itself will create a network of freelance contributors and will directly provide opportunities.\r\n- A thriving art community is a documented driver of economic growth (see Otis Creative Economy report) and by encouraging and supporting this community we will contribute to the health of our regional economy.\r\n\r\nMeasures of cultural and global economic influence\r\n\r\n- Los Angeles is not known as one of the best cities in the world for art. While we are known for our creativity, the perception of our city does not match the current reality. We must work on a grassroots level to shift public perception and increase our local and global cultural influence. \r\n\r\nPercentage of graduates from local higher education institutions that remain in LA County 5 years after graduating\r\n\r\n- Our top quality and robust higher education programs in art and design attract talent to the region. By shifting public perception, providing support to artists and increasing employment in creative industries we will help make LA the best place city in the world to be an artist or designer and retain more talent. \r\n\r\nOther: Attendance at cultural events\r\n\r\n- Proktr seeks to cover art and design happenings that are actionable and correlate with something to go see, do, or attend. By making more people aware of the options available and targeting a wider audience we will increase physical attendance at cultural events."
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   The project will be unrolled in 3 phases:

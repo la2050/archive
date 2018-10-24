@@ -137,6 +137,12 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Residential segregation (Dream Metric)
   impact_metrics: >-
     By streamlining the volunteer application and training process and creating
     an online scheduling system that meets the needs of those providing services

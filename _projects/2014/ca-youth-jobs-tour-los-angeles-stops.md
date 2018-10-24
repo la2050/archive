@@ -132,6 +132,16 @@ maker_answers:
     - East LA
     - South LA
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
   impact_metrics: >-
     Our Los Angeles Youth Jobs Tour will build solutions and buy-in to address
     high youth unemployment in partnership with young Angelenos. We’ll

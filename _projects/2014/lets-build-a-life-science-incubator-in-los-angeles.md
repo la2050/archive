@@ -108,6 +108,22 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Patents per capita
+    - Jobs per capita
+    - Number of high-growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
   impact_metrics: "“Number of High-Growth Startups” – Our main focus is to create high-growth startups. The life science industry is one of the fastest-growing and most innovative industries of the 21st Century. We aim to make Los Angeles the center of this growth.\r\n\r\n“Jobs per Capita” – In addition to jobs created directly by our incubator facility, our startup tenants, and businesses graduating from the incubator will need to hire staff from the Los Angeles area as they expand and grow.\r\n\r\n“Patents per Capita” – By providing a venue for life science startups to incubate and grow locally, more discoveries, patents and other intellectual property assets will be created, and remain in the LA area.\r\n\r\n“Venture Capital Investment” – A key long-term goal for our facility is to host an investment group, or an acceleration fund, to support and develop our tenant companies. The attractiveness of a biotech industry-focused facility and its resident community of innovative life scientists will create new opportunities for Venture Capital to invest in LA-based biotech startups and people.\r\n\r\n“Federal Research Grant Funding” – Our facility will provide the support and shared equipment necessary to allow startups to apply for Federal R&D Awards, such as SBIR/STTR small business grants from the National Institutes of Health. \r\n\r\n“Concentration of Manufacturing Activity in LA” – As life science startups become established in our incubator, they will need to hire staff and build manufacturing facilities to actually make their products. By keeping these young companies in the LA region during their incubation phase, they are far more likely to stay in the area as they grow and expand.\r\n\r\n“Recruiting and Retention Rates at Local Higher Ed.” – Students increasingly look at institutions of higher education with an eye on opportunities to start their own company post-graduation. The presence of a supportive incubator facility and community of scientist-innovators will be a powerful new draw to students for our local Universities.\r\n\r\n“Percentage of Grads from Local Higher Ed. Remaining in LA 5Yrs Post-Grad.” – By building a life science incubator in LA, we will allow entrepreneurial life scientists to found their startups here in LA, rather than move to San Francisco/San Diego, where there are already such facilities to support their businesses. This incubator will allow LA to retain more of its best students in the life science after graduation at local institutions.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will gradually build out our support for LA area biotech startups as we

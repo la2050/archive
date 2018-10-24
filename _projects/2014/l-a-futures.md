@@ -216,6 +216,24 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - >-
+      Industry diversity of employment goals, preparedness for new and future
+      job roles, diverse generations impact on the products and services of the
+      creative industry
   impact_metrics: >-
     L.A. Futures emboldens classroom learning by learning and life skill
     experiences with industry professionals in the classroom and at their places

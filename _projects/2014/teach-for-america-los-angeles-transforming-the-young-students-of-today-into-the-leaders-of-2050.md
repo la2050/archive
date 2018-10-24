@@ -148,6 +148,19 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle school (Dream Metric)
   impact_metrics: "We are directly impacting students by recruiting and supporting high-quality preschool teachers and thus far, our program has demonstrated significant improvements in early vocabulary and math skills for our youngest students. Ample research has shown that access to high-quality preschool teachers has many longer-term benefits. Students who attended preschool are significantly more likely to score proficient or advanced in English and mathematics; less likely to be suspended or expelled from primary and secondary school; more than 20% more likely to graduate high school; and more likely to attend and graduate from college. Adults who attended preschool are also much more likely to maintain full-time employment and earn higher salaries; more likely to live healthier lives; and less likely to receive welfare assistance or commit any crimes. \r\n\r\nResearch consistently shows that providing high-quality and caring teachers to the students and communities that need them most can fundamentally address the educational opportunity gap. In order to achieve the long-term benefits discussed above, we need exceptional teachers at every level. We support corps members, alumni teachers, and school and district leaders, and thus their students, at every level of our education system, from preschool through high school. As such, we are uniquely positioned to provide a solid, life-changing education to our students. Our corps members go above and beyond to make up for the challenges that their students face, and prove what is possible when excellent teachers set high expectations for their students. Our corps members are charged with the difficult task of bringing to life the idea that an excellent education is achievable every day in their classrooms, and we provide them the support they need to maximize their impact."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We are working to cultivate leaders at all levels of the education system by

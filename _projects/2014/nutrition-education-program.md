@@ -110,6 +110,12 @@ maker_answers:
   Which area(s) of LA does your project benefit?:
     - Metropolitan Service Planning Area 4
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Healthcare access
+    - Obesity rates
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
   impact_metrics: "Health care access: SCC is committed to serving anyone in need of health care regardless of their insurance or income status. SCC offers services at three sites, namely the Beverly Health Center, S. Mark Taper Foundation Health Center, and Wallis Annenberg Children and Family Health Center at Hollywood Wilshire Health Center. Multiple entry points across Los Angeles allows patients to access health care easier and more conveniently.\r\n\r\nSCC will engage in outreach and enrollment activities to ensure its patients and the surrounding communities are knowledgeable of its services. Overseen by the Managed Care Manager and Chief Operations Officer, SCC will engage in multiple in-reach and outreach efforts including signage throughout all three sites, health fairs, schools, and more information about SCC’s services, including the NEP.\r\n\r\nObesity rates: As mentioned earlier, the NEP will encourage patients to have a change in lifestyle through education sessions and Pre-Diabetic and Fitness classes. Key changes include healthier eating and regular exercise. The knowledge gained from participating in the NEP will benefit participants as well as their families and friends. \r\n\r\nPercentage of residents receiving coordinated health care services: SCC utilizes a Care Team Coordination Model, allowing cross-department referrals during a patients visit. SCC offers medical, dental, behavioral health, and non-primary care, including the NEP. Patients are able to be treated appropriately for any health ailments and referred to appropriate services to best fit their health needs. The Care Team Coordination Model enables all-inclusive, integrative care that allows for problems to be addressed quickly and efficiently. This also brings SCC closer to a Patient Centered Medical Home, giving residents more coordinated health care services."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   First, we would retrofit a food truck in consultation with cooking

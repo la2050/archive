@@ -133,6 +133,10 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Jobs per capita
+    - Minority- and women-owned firms
   impact_metrics: >-
     By providing the support for entrepreneurially inclined Latin@s in the
     informal economy our project will assist in the transition to and creation

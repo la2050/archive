@@ -122,6 +122,23 @@ maker_answers:
     - East LA
     - 'Boyle Heights, Downtown LA'
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Number of high-growth startups
+    - Venture capital investment
+    - >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
   impact_metrics: >-
     Boyle Heights and its surrounding communities are struggling and falling
     further behind in most of the above metrics including unemployment, crime,

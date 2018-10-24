@@ -132,6 +132,9 @@ maker_answers:
     - Westside
     - Long Beach
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Abundant ocean ecosystems and a thriving local seafood community.
   impact_metrics: >-
     Many people do not recognize the health benefits associated with eating
     seafood, especially the nutrient-rich local seafood that is largely exported

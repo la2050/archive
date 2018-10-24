@@ -151,6 +151,12 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Academic Performance Index scores
+    - >-
+      Seeding STEM includes a pre and post program perception and interest
+      survey to determine program impact towards inspiring kids for STEM studies
+      and careers.
   impact_metrics: "The pre and post program survey measures changes in participant confidence in STEM subjects after successful completion of the 12 week program. Seeding STEM is designed as an intervention for 11-14 year olds to curb STEM apathy in high school and increase kids'  interest in STEM career paths. During the pilot program which ran in Spring 2014, participants showed a 35-50% improvement in their perceptions and performance self-evaluations of STEM subjects as well as a collective improvement in their plans to use STEM in their future careers from 49-67%.\r\n\r\nIndirectly, we hypothesize that increased academic confidence will lead to greater academic performance in API measures as program curriculum is designed in alignment with common core standards."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The curriculum was created by East Los Angeles College instructors in

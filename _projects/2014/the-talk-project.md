@@ -109,6 +109,12 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Rate of gun violence and accidental death as a result of unsecured
+      firearms.
   impact_metrics: >-
     Our project will keep kids safe, so they can have positive childhood
     experiences, free of firearms accidents; the project will strengthen

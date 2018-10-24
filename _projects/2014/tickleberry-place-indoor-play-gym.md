@@ -108,6 +108,13 @@ maker_answers:
     - Central LA
     - South LA
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: "Be the top quality informal spaces for play in South and Central Los Angeles being accessible for open play to the public during the week and on weekends\r\n\r\nBe considered a safe and healthy place for kids and families to play by having staff available and managing the facility at all times. As a indoor place, it is easier to watch over children.\r\n\r\nProvide local residents after school programs, workshops, and actives, for learning about environment, science, art, and healthy eating. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will fundraise the funds and become certified as B Corporation. Once we

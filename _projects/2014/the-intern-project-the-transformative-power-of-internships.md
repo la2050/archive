@@ -109,6 +109,18 @@ maker_answers:
     - San Fernando Valley
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - Suspension and expulsion rates (Dream Metric)
   impact_metrics: "In the short term, TIP immediately addresses the “Youth unemployment and underemployment” metric by providing LAUSD high school students with an integrated coaching program and paid internships with high-profile businesses. \r\n\r\nIn the mid to long-term, TIP, in partnership with LAUSD will impact the other metrics checked above. The LA Fund believes in the transformative power that internships have on LAUSD students’ academic lives and future careers, thus affecting metrics related to academic performance, graduation rates, matriculation rates, school attendance, and the student education pipeline.    "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The LA Fund launched the summer 2014 TIP pilot with 17 LAUSD students matched

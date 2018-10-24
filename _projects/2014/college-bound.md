@@ -124,6 +124,15 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
   impact_metrics: >-
     Just 12 years ago, half of our teen Club members were not graduating – in
     June 2013, 98% graduated on time and 97% of those are going onto 4-year

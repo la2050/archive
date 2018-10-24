@@ -101,6 +101,13 @@ maker_answers:
     - South LA
     - San Gabriel Valley
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
   impact_metrics: "Youth unemployment and underemployment \r\n 60 at-risk youth will obtain hands-on, skill building career training program.  They will be paid $9/hour for 500 hours of service. 30 of the youth who work directly with MAPS will receive customizable job training program that will align them with their future goals and visions.\r\n\r\nStudent education pipeline (an integrated network of pre-schools, K-12 institutions, and higher education systems that prepares students for seamless transitions between high school, higher education institutions, and the workforce) (Dream Metric)\r\nLos Angeles has been been the economic driving force in CA. However, depending on where people live in LA, there is a divide between the college resources and job opportunities.  When LA County establishes itself as certified work ready community, businesses, schools, and colleges will develop an education to workforce pipeline and integrated partnership that will prepare students to complete their degrees and prepare for the workforce. Agencies will work together. \r\n\r\nCollege matriculation rates\r\nAfter participating in the job training program and taking the national career readiness certificate exam, youth and adults may want to go back to college."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MAPS and WIB will determine the effectiveness of each other’s professional

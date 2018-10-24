@@ -114,6 +114,13 @@ maker_answers:
       The effort is County-wide, but with an emphasis on communities in most
       need (South LA and East LA)
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: >-
     By increasing youth awareness of parks and open spaces through youth-driven
     community asset mapping, we will increase their usage.  Additionally, by

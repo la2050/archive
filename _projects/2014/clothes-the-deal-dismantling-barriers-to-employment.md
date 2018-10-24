@@ -115,6 +115,10 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Number of households below the self-sufficiency standard
+    - Rates of homelessness
+    - Rates of unemployment
   impact_metrics: >-
     By providing business clothing and employment services, we arm low-income
     jobseekers with the tools necessary to obtain employment. We currently have

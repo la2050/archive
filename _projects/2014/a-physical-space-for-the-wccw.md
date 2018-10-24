@@ -108,6 +108,17 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
   impact_metrics: >-
     The Women's Center for Creative Work would be another exciting arts and
     cultural organization in Los Angeles. It would directly create jobs within

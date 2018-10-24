@@ -134,6 +134,15 @@ maker_answers:
   Which area(s) of LA does your project benefit?:
     - San Fernando Valley
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Healthcare access
+    - Number of households below the self-sufficiency standard
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    - >-
+      Allows patients to live healthier and through our holistic approche become
+      self-sustaining members of the community
   impact_metrics: >-
     MEND has become a recognized leader in providing basic services to only
     households below the self-sufficiency standard.  A holistic Health Clinic

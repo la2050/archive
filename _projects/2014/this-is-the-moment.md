@@ -123,6 +123,19 @@ maker_answers:
     - Westside
     - Orange County and Ventura County
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Minority- and women-owned firms
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
   impact_metrics: 'The project will create jobs and involve minority and women leaders. '
 Which area(s) of LA does your project benefit? Other (elaborate): 'Intercultural stories, dance, music, and visual arts!'
 What is your idea/project in more detail?: >-

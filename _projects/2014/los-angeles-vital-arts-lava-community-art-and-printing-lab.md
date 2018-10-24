@@ -136,6 +136,16 @@ maker_answers:
     - Westside
     - 'North East Los Angeles, Frogtown and Elysian Valley'
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Minority- and women-owned firms
+    - >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
   impact_metrics: "We are all creators. We all have the ability to make and create...art, stories, music. As kids we were all artists and imagination was vital. As technology advances and we get more and more digital we lose the ability to create...its no longer required we can access anything from our phones, we can drive fast and kill people in virtual game environments, new apps keep us staring down at the screen.\r\nWe want to look up...away from the screen and towards our communities, friends and especially toward the artist within us all.\r\nHelping communities to support the arts, in turn helps the arts to support the community. We strive to support the local economy of the community as well as the artistic culture. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have built an incredible art space in North East LA out of a love for the

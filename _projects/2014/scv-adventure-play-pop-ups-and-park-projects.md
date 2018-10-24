@@ -107,6 +107,15 @@ maker_answers:
     - Westside
     - Santa Clarita Valley
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: "-Access to open space and park facilities - We will be offering our 2 acres of park space to the community, try to bus individuals out to the site, as well as advocating for more in the future.\r\n\r\n-Number of children enrolled in afterschool programs - We plan to start an after school program that allows children space to play and relax and garner a working relationship with local schools to implement this space as part of academic curriculum.\r\n \r\n-Per capita crime rates - It’s a simple formula that when children aren’t bored they are less likely to engage in delinquent activity.  We want children to take ownership over this park as their own creation, not just a place to kill time.\r\n \r\n-Percentage of residents that feel safe in their neighborhoods - We want our neighborhood to see and interact with each other more often, and events at the playground and in the community can engender a feeling of safety.\r\n\r\n-Residents within 1⁄4 mile of a park (Dream Metric) - This park will add more residents in range of a park, both immediately and as more housing is built in future developments.\r\n\r\n-Number of residents with easy access to a “vibrant” park (Dream Metric) - All of the above and an open gate policy with staff members adding to an inviting environment.\r\n\r\n-Number of parks with intergenerational play opportunities (Dream Metric) - We encourage all ages to play in this park to encourage empathy and shared skills among older and younger participants.\r\n\r\n-Number (and quality) of informal spaces for play (Dream Metric) - Adventure Playgrounds are a definition of informal spaces to play.  Our pop-ups and parks are devoted to adapting to those who enter and engage the space.  Our pop-ups will allow us to increase the number of such spaces in a temporary fashion with the encouragement for others to start-up. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We are working within three start-up phases. Phase 1 consists of holding

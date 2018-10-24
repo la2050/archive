@@ -141,6 +141,14 @@ maker_answers:
       Many visitors to our center come from Ventura, San Bernardino, Riverside,
       and Orange Counties
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
+    - Increases opportunities for residents to view and participate in the arts.
   impact_metrics: >-
     The Venice Arts Commons creates a safe public space for the Venice
     community.  This improves access to open space and park facilities, and

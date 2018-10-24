@@ -145,6 +145,12 @@ maker_answers:
     - San Fernando Valley
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: >-
     Youth who know how to connect to others, and have strategies for minimizing
     their social isolation and maximizing their sense of connection to others

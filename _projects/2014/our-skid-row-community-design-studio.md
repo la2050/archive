@@ -117,6 +117,19 @@ maker_answers:
   Which area(s) of LA does your project benefit?:
     - Central LA
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Federal research grant funding
+    - Jobs per capita
+    - Number of high-growth startups
+    - Venture capital investment
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
   impact_metrics: >-
     Our Skid Row will create 3 new employment opportunities in the community
     design field, with at least one position for local residents.  This will be

@@ -140,6 +140,13 @@ maker_answers:
   Which area(s) of LA does your project benefit?:
     - 'All of the Los Angeles Unified School District '
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
+    - 'Suicide Awareness and Prevention among LGBTQ and marginalized youth '
   impact_metrics: "Project SPIN focuses in four areas to achieve the above metrics: \r\n•\tInclusive and affirming school policies\r\n•\tInformed mental health services\r\n•\tBuild capacity with all stakeholders\r\n•\tIntegrated curriculum and instruction\r\n\r\nLGBTQ students are at a far greater risk of dropping out of school as a result of depression, violence, harassment, substance abuse, addiction, homelessness, and HIV infection. By working to provide a supportive and friendly environment for all LGBTQ and marginalized youth, students will be more inclined to attend school and stay focused on their education. As a result, this will lead to increases in youth employment and graduation rates, as well as a perceived sense of safety at and on the way to school. There are a variety of ways Project SPIN will enable students to be more successful in their career and academics and feel safer day to day: by working on policy and consulting on ways to make schools safer with leaders throughout the system, garnering visible support through the Coming OUT for Safe Schools Campaign, creating kits and resources for administrators, and training all members of the community on issues ranging from LGBT sensitivity to awareness to suicide prevention. In addition, SPIN works with decision makers to draw awareness to systemic issues and are able to provide critical support in a district already low on resources. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Project SPIN’s main focus areas include Policy and Advocacy (developing

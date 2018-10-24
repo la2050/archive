@@ -118,6 +118,15 @@ maker_answers:
     - South LA
     - San Gabriel Valley
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Healthcare access
+    - Rates of homelessness
+    - Rates of mental illnesses
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
   impact_metrics: >-
     This campaign will impact various “LIVE” metrics, especially rates of
     homelessness. By continuing to create permanent housing opportunities for

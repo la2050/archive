@@ -185,6 +185,11 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
   impact_metrics: "Through both the launch of Map Your Neighborhood and the Team Red Cross App, many more Los Angeles residents will learn a great deal more about the Red Cross’s five lines of service, Disaster Relief, Service to the Armed Forces, Blood Services, Preparedness Health & Safety, and International Services, and will often want to get more involved in a program that inspires them. More Community Ambassadors, Red Cross volunteers, will be recruited through this work as well. As neighbors work on Map Your Neighborhood together, more residents will volunteer their time to achieve the key components of the initiative will likely to engage with their local CERT team, neighborhood block associations and councils. \r\n\r\nNeighbors and community members working together to prepare and protect themselves, their families and neighborhoods will lead to increased social and emotional support for more adult Angelenos. \r\n\r\nThe Team Red Cross App recruits and trains “informal,” spontaneous volunteers inspired to act in the moment after a disaster, no matter what the scale. A Team Red Cross volunteer’s only action, an incredibly important action, might also be to send preparedness and relief information onto those in need in their neighborhoods and beyond. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We also believe in the power of Angelenos to shape the future of our region.

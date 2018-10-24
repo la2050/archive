@@ -125,6 +125,16 @@ maker_answers:
     - Westside
     - LA County
   Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
   impact_metrics: >-
     Surveys will be issued to members of the Civic LA community to identify
     their initial civic participation patterns, attitudes, perceptions,

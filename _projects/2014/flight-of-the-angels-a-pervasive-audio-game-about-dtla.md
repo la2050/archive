@@ -100,6 +100,12 @@ maker_answers:
   Which area(s) of LA does your project benefit?:
     - Central LA
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Play” metrics?:
+    - Percentage of residents that feel safe in their neighborhoods
+    - Attendance at major league sporting events
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: >-
     As we mentioned before, we think the game has the potential to move the
     metrics by motivating discovery. Our experience in our neighborhood has been

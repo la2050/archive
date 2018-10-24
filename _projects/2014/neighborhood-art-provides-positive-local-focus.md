@@ -150,6 +150,12 @@ maker_answers:
     - Central LA
     - South LA
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
   impact_metrics: >-
     The installation of sculptures will plant the seed for others to initiate
     artistic endeavors thy otherwise would not attempt.  the installation of ANY

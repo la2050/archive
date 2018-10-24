@@ -102,6 +102,17 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
   impact_metrics: "1. Percentage of children enrolled in early education programs:\r\n \r\nThe volunteer work Opportunity Fund Fellows will do with partnering tech education Non Profits is focused on youth in their communities. These programs are specifically designed to encourage youth to apply and engage in learning technology. A fellow will be able to demonstrate actual projects they have made in WDI and inspire and teach youth how technology can empower their futures.\r\n \r\n2. Percentage of community college students completing a certificate, degree, or transfer-related program in six years:\r\n \r\nThe Opportunity Fund offers 3 month immersive opportunity to learn how to code and graduate with the skills needed to be employed as a software engineer. Community college students unable to find opportunities in expensive or selective programs will be targeted by this initiative, purposely giving them a chance where one is currently lacking.\r\n\r\n3. Youth unemployment and underemployment:\r\n \r\nJob seeking graduates from General Assembly's WDI program have consistently found employment anywhere this course is taught (In the United States: LA, San Francisco, Seattle, Chicago, Atlanta, Boston, New York and Washington, DC.)\r\n \r\nSpecifically in LA we already have a measured success rate - having placed 95% of the graduates from this course. \r\n \r\nThere is no pre-requisite skill set that is needed - just an ambition to learn how to code and desire to work in technology. This program has the ability to take complete novices and turn them into junior software engineers in just 3 months.\r\n \r\n4. Student education pipeline (an integrated network of pre-schools, K-12 institutions, and higher education systems that prepares students for seamless transitions between high school, higher education institutions, and the workforce) (Dream Metric)\r\n \r\nBy working with tech education Non Profits, we are deliberately focusing on sharing the outcomes our Fellows will gain with their community and its youth. There are many Non Profits driving the mission of education and technology for our youth and The Opportunity Fund supports this network and encourages their involvement, ensuring kids can start learning and following their interest in this field from a very young age."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The pilot Opportunity Fund program kicked off this June in New York, with 6

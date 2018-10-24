@@ -148,6 +148,17 @@ maker_answers:
     - San Gabriel Valley
     - All visitors of Mosaic Mecca public art installation
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Gini coefficient
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
+    - Arts-Based activity that generates jobs & wealth for a diverse workforce
   impact_metrics: "The Project enhances the level of employment in creative industry by tapping the professional involvements of creative artists in the fields of design, visual art, public art, and art installations.  Further, the Project establishes a new creative industry by expanding the Piece by Piece social enterprise infrastructure to include many more workshops and training sites.  Exposure to Piece by Piece brought through the project is anticipated to expand its networks and sustainable resources  such that expansion brought through the project will institutionalize within the organization for the years that follow.  Piece by Piece currently engages 22 artists for programming; we anticipate the need to double this roster in 2015 in the context of the LA Mosaic Mecca Project and continue that trajectory of growth in service to workshop/training sites implemented in 2015 that remain in place for years to follow.\r\n\r\nThe core Artisan team trained by Piece by Piece over the years it served South Los Angeles is comprised largely of Latino members, many with limited English skill.  The accomplishment of Piece by Piece in providing training and opportunity to this disenfranchised and ethnically diverse group is a testament to the leverage of art for building impactful community that fosters readiness for career advancement.  The LA Mosaic Mecca project holds the potential of impacting, among Los Angelenos, the gini coefficient suggesting inequality of income and wealth evidenced among multi-cultural populations that face barriers to education and employment opportunity effecting their capacity to generate wealth, stability and self-sufficiency in their lives.\r\n\r\nThe project additionally holds the promise of contributing to the cultural mecca that is Los Angeles.  It builds upon the many world-class art and performance spaces that reside in the north sections of the city center and extends this reach South.  Coupled with the vibrant art activity currently taking place along the Art-Walk corridor and in the Arts District east of Alameda, the LA Mosaic Mecca Project, when implemented in Skid Row, improves the inclusivity of the Skid Row area in the ongoing Creative Renaissance that has been nourished in Los Angeles for more than a decade.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement the Project, Piece by Piece will direct its resources and

@@ -119,6 +119,14 @@ maker_answers:
     - South LA
     - Westside
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Total number of social media friends (Dream Metric)
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
   impact_metrics: "Public transportation becomes more than a \"ride\" by becoming an \"adventure\". The EXPO Safari is a cultural event, and will celebrate migration of birds, seasons of the year, and create a Facebook page that connects Angelenos to nature and each other.\r\n\r\nStudents in UCLA Extension Program receive a certificate that meets the education requirement to sit for licensure in the state of California."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Expo line originates in downtown Los Angeles, and then ends in Santa

@@ -122,6 +122,11 @@ maker_answers:
     - Central LA
     - 'Mid-City MacArthur Park Area, Hollywood and Echo Park'
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
   impact_metrics: >-
     The AGEnts for Change Initiative is a volunteer intensive program and
     through its efforts will increase the number of seniors involved as

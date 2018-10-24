@@ -142,6 +142,17 @@ maker_answers:
     - South LA
     - Watts
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Number of high-growth startups
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
   impact_metrics: >-
     Our project is hitting many areas for today and LA2050. As mentioned before
     there are very few Latinos and Blacks in the creative industry. We hope to

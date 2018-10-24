@@ -122,6 +122,15 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency standard
+    - Percent of imported water
+    - Obesity rates
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
   impact_metrics: "Food waste is nearly 33% of what is sent to landfills and decomposing food waste creates over 15% of US methane emissions. By eliminating food waste from landfills, composting and anaerobic digestion reduce climate change impacts. By keeping food waste local, the project will also reduce air pollution from transporting food waste and yard trimmings to composting operations and landfills in Kern County and San Bernardino, where our organic waste is processed.\r\n\r\nAdding compost to soil helps it retain water so less is required and also helps prevent water runoff. It contributes to cleaner rivers and streams by preventing water runoff and replacing chemical fertilizers which drain into those precious resources. Increase in organic farming using compost also reduces the need for pesticides.  \r\nAnaerobic technology can run with recycled water. The process results in treated water which can be used for irrigation or cycled back into the digestion system. \r\n\r\nBy increasing composting through anaerobic digestion and other methods, the project will support urban agriculture and locally grown healthy food. Compost restores degraded soil and ensures higher nutrient food. Local food production promotes healthy eating.  LAFPC works with community gardens and in areas where there are small farms that can use the natural fertilizer.  Savings on water, fertilizer and pesticides helps sustain agriculture.  \r\n\r\nBy generating renewable energy, anaerobic digestion will help move LA off coal and natural gas. Anaerobic digestion of organic waste produces clean biogas as the organic waste is broken down inside the vessels. Ralph’s markets’ distribution center, dairy and administrative offices get a quarter of their power from gases produced on-site by anaerobic digestion.  These gases can also be converted into fuels to power vehicles such as waste hauling vehicles.\r\n\r\nBecause the jobs created by the new infrastructure will offer high quality, well-paying careers, the project will reduce the number of households below the self-sufficiency threshold and will increase access to healthcare by including full family comprehensive benefits for workers.  Smaller scale composting ventures will provide entrepreneurship opportunities and potentially support co-operative models, increasing household self-sufficiency.  Keeping these resources nearby and supporting local farms helps increase our communities’ resiliency.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Imagine Los Angeles after a major earthquake. Experts predict that the biggest

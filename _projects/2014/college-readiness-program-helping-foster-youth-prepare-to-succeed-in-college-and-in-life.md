@@ -122,6 +122,12 @@ maker_answers:
     - East LA
     - South LA
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
   impact_metrics: >-
     The principal goals of the program are to improve high school graduation
     rates among foster youth (from an average of less than 50% within their peer

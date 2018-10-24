@@ -117,6 +117,15 @@ maker_answers:
     - Westside
     - 'Hollywood '
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Per capita crime rates
+    - Percentage of residents that feel safe in their neighborhoods
+    - Residents within 1⁄4 mile of a park (Dream Metric)
+    - Number of residents with easy access to a “vibrant” park (Dream Metric)
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
   impact_metrics: "The interfaith block parties will almost exclusively take place in public parks and open spaces in Los Angeles. Each event will be family friendly and will connect with students, teachers, and faculty of local schools. Since Holy Ghost Global is involved in prison chaplaincy and ministry, it has found that the majority of convicted offenders are people of faith. Some have been ostracized or disconnected from their faith communities which has made them more at risk for incarceration. These events would help connect attendees to places of faith in their community, strengthening these days and effectively reducing crime and incarceration rates. Some of the speakers and musicians at the events would be former convicts and could speak to issues of social justice and progress. \r\n\r\nThese events would also demonstrate how local citizens could creatively hold church services, worship experiences, and other faith-events in their local parks as expressions of our first amendment rights. \r\n\r\nBy getting citizens to think more about open spaces as existing places of worship, these events will increase outdoor activity as well as intergenerational play opportunities. Furthermore, it inspires them to think outside of the walls of their own denomination, congregation, or church building and utilize the beauty around them. This certainly would increase the number and quality of informal spaces for play, prayer, and worship. \r\n\r\nTo play and to pray, in a deeply spiritual sense, are the same things. Prayer to a God of love is free, safe, loving expression. Placing play within this context is necessary to providing an equilibrium that fosters holistic development in our children and our children's children.  "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Partnering with the Interfaith Religious Council of Los Angeles, the Office of

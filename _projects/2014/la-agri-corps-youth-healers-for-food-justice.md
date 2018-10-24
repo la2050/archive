@@ -120,6 +120,15 @@ maker_answers:
     - South LA
     - 'Northeast Los Angeles: Lincoln Heights, Cypress Park, Highland Park.'
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency standard
+    - Obesity rates
+    - Rates of mental illnesses
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
   impact_metrics: "Access to healthy food: AgriCorps interns work with community organizations, schools, and local residents to increase capacity to maintain productive food growing gardens year round. Interns engage with Proyecto Jardin to reactivate and expand the organization's Community Supported Agriculture program, a food distribution strategy that also operates as a social enterprise venture to support the gardens sustainability goals while increasing access to fresh produce. \r\n\r\nTree Canopy & Air Quality: We will add 22 new fruit trees to at The Wellness Center.\r\n\r\nHealth outcomes are improved when people engage in gardening to grow food because they increase consumption of fresh fruits and vegetables, thereby deducting obesity and related chronic disease such as heart disease, cancer, diabetes, and asthma. Additionally, gardening improves well being by reducing stress, anxiety, and depression. \r\n\r\nThe number of households living below the self-sufficiency standard will be reduced because youth will receive financial compensation for their work as interns. Stipends they receive contribute to the family's household income.\r\n\r\nCommunities are ultimately more resilient when economic development opportunities are linked to health and social benefit programs, such as urban agriculture."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Project partners will engage residents and advocates in a campaign to adopt

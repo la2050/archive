@@ -124,6 +124,14 @@ maker_answers:
     - Westside
     - 'Northwest Pasadena, Altadena'
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency standard
+    - Percent of imported water
+    - Acres and miles of polluted waterways
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
   impact_metrics: "We will affect multiple metrics across the five categories: play, live, create, connect, and learn. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Original Green Community Food Hub helps low-income farm entrepreneurs

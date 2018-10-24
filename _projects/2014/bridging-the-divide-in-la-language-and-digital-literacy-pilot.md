@@ -114,6 +114,21 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Percentage of children enrolled in early education programs
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
   impact_metrics: "By equipping parents and volunteers with reading comprehension and digital literacy skills, as well as home Internet access, we plan to improve education and employment outcomes for graduates and volunteers, as well as their families. \r\n\r\nMore than 80% of teachers agree that today’s digital technologies are leading to greater disparities between affluent and disadvantaged schools and school districts. According to the FCC, already 80% of all job listings are exclusively listed online.Through this collaborative pilot project, we aim to eliminate the disparities around home access for all. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   EveryoneOn will leverage our existing platform of low-cost offers to provide

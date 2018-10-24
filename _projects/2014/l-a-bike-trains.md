@@ -107,6 +107,17 @@ maker_answers:
       We are working to develop the foundation needed to expand into all areas
       of LA County, from building capacity to key relationships.
   Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Median travel time to work
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
   impact_metrics: "One of the strongest reasons that people choose to commute by bike is the mental and physical well-being that it creates. LA Bike Trains makes that even better by providing a positive social network to reinforce and support individuals.\r\n\r\nIt's inspiring enough that people want to help. And ride. And get active in their communities when they realize all the silly barriers keeping Angelinos from having the kind of healthy accessible transportation network we deserve. \r\n\r\nNew and sometimes scared participants are comforted by the fact that most of our routes run in parallel to bus or train transport options. LA Bike Trains is at an exciting place to bridge the \"first mile - last mile\" question of how to transition a population used to auto transport to a multi-modal approach.  "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The idea: Individuals can create social solutions to hard problems that

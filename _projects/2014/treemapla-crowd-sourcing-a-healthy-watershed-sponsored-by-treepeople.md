@@ -110,6 +110,16 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Exposure to air toxins
+    - Percent of imported water
+    - Obesity rates
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Rates of mental illnesses
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
   impact_metrics: "TreePeople’s 10-year vision focuses on two important goals for LA’s future viability:\r\n\r\n1. A minimum 25% of tree canopy cover across the region to protect people against extreme heat, severe weather, and negative health impacts;\r\n2.  A minimum 50% of affordable, locally-sourced water supply to provide security against droughts, pollution and flooding, and other threats.\r\n\r\nAchieving these goals impacts the LA2050 LIVE metrics in numerous ways.\r\n\r\nTreeMapLA empowers Angelenos to advocate for trees and their multiple benefits, identify where trees are lacking, and care for existing trees so they can grow to healthy maturity. \r\n\r\nGrowing an ample, equitable tree canopy cover:\r\n\r\n●\tIncreases walking and biking, thereby reducing obesity. Trees reduce the urban heat island effect, reducing air temperatures by as much as 10 degrees. The areas of our city with the lowest tree canopy are the least conducive to outdoor activity and correlate with the the greatest incidences of diabetes, obesity, asthma and cancer.\r\n\r\n●\tProtects people against air toxins. Trees absorb air pollutants linked to respiratory ailments.  One mature shade tree can produce enough oxygen for a family of 4 for a year. Neighborhoods with less tree canopy are disproportionately affected by air pollution and related ailments.\r\n\r\n●\tIncreases access to healthy food. A mature fruit tree can yield up to 40 pounds of fruit each year.  Knowing where LA’s public and communal fruit trees are will increase access to fresh fruit and hopefully increase the efficiency of fruit gleaning organizations.\r\n\r\n●\tImproves mental health. Studies show that green space decreases ADHD in children and increases a sense of calm and well-being in all age groups. \r\n\r\nTreeMapLA enables Angelenos to realize the benefits of harvesting rainwater to create an ample, clean, sustainable local water supply:\r\n\r\n●\tIncreasing community resilience, reducing our unsustainable reliance on LA’s vulnerable imported water sources and creating a decentralized supply that is safer in the event of earthquakes, fires and other disasters.\r\n\r\n●\tReducing polluted waterways by capturing the rain instead of allowing it to run off paved surfaces, collecting trash and pollutants as it rushes to our bays and ocean.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We build relationships with established organizations in low-income

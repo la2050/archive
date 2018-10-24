@@ -165,6 +165,20 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Exposure to air toxins
+    - Percent of imported water
+    - Obesity rates
+    - Rates of homelessness
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Rates of mental illnesses
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    - Learn coding
   impact_metrics: >-
     Eat:1) Access to eateries in accordance with their fitness regimen. Users
     will see incentives/promotions associated with respective eateries as well

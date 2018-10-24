@@ -118,6 +118,9 @@ maker_answers:
     - San Fernando Valley
     - South Bay
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Number of households below the self-sufficiency standard
+    - Prevalence of adverse childhood experience (Dream Metric)
   impact_metrics: "Our initiative helps to lower the number of households living below the self-sufficiency standard, today and in the future, by giving families resources to break the poverty cycle. It costs almost two hours of minimum wage in LA to afford a pack of diapers. When we provide critical needs like diapers, we help families put their income toward groceries, electric bills, and other necessary household expenditures. We also give parents the security to better provide for their families. In the long-term, we offer them the tools and skills training to succeed through engagement in anti-poverty programs. \r\n\r\nBaby Buggy will also help to lower the prevalence of children whose lives are impacted by adverse childhood experiences through opportunity creation. As previously outlined, when a single mother has basic needs met, she is more likely to leave an abusive relationship or avoid incarceration, which ultimately impact her children and their futures. Our program also makes it possible for fathers to play a greater role in their child’s life by helping them to be better providers. In addition, we go beyond basic infant needs to support healthy child development. Baby Buggy provides books, school supplies and educational toys to improve a child’s educational experience, from the minute they are born through adolescence. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The implementation strategy involves a year-round semester-based curriculum

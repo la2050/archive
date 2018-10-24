@@ -101,6 +101,21 @@ maker_answers:
     - South LA
     - Metropolitan Los Angeles
   Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located within a half-mile of transit) (Dream
+      Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
   impact_metrics: "Through outreach, painting murals and providing food and fun, we will engage community members who traditionally do not volunteer. As we create projects throughout the region, we will greatly increase rates of volunteerism. Community members will experience the benefits of volunteering, which will encourage them to volunteer for other efforts. Involving the community, engaging the neighborhood councils as collaborators and involving other local community organizations will show people how they can make a difference in their community. \r\n\r\nIt has been shown that when neighborhood residents from disenfranchised communities experience that they can make a difference in their neighborhood and are introduced to their Councilmember and other elected officials, they become engaged in the civic process. They have a greater propensity to vote, get involved with their local neighborhood council, express their needs and hold their elected representatives accountable. \r\n\r\nThrough community outreach, we will also grow our social media presence and social media friends for LA2050. As part of the mural painting process, we host inspiring and educational events, increasing attendance at cultural events and street gatherings. Since one of the targeted project areas will welcome the new Crenshaw Metro line, by beautifying the area, we will increase ridership, improve residential segregation and create an attractive environment for transit-accessible housing and employment. By beautifying and revitalizing the area, people of all backgrounds will feel safe walking, living and working in the neighborhood, rendering it more desirable for economic development efforts. \r\n\r\nOur projects have raised revenues for the establishments painted, inspired other businesses and building owners to beautify their buildings on their own, attracted new businesses and increased tax revenue. Our projects have also allowed artists to showcase their work and improved neighborhood pride, leading to increased spending at local businesses from neighborhood residents, people driving through, and visitors coming to see the murals. Ultimately, the influx of new businesses attracted to the area, as well as the upsurge in demand to lease properties, will increase local property values. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Beautify Earth’s vision is to create 50 murals in one year throughout South

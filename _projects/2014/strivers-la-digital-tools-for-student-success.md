@@ -109,6 +109,10 @@ maker_answers:
     - South Bay
     - Westside
   Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
   impact_metrics: "Strivers.LA is designed to increase college completion and graduation rates by improving study habits, time management and student performance on exams.  We're seeking to create a culture of academic success by involving students' friends, family, and employers in their education. Getting many students at an institution using Strivers is designed to change the social norms for study, test prep, and achievement for an entire institution.\r\n\r\nStrivers.LA seeks to solve the problem of students’ poor time management and the difficulty of balancing work and school. Students need time off from work and a plan for studying.  Strivers.LA sends messages to students in advance of their exams with reminders and study tips, and gives students tools to negotiate time off.\r\n\r\nFuture versions of the application will allow employers, family members, and friends to sign on to support students, and a student report-back and incentive process, and will expand to provide support in Spanish and other languages.\r\n\r\nStrivers.LA has just launched its first working beta application, and is in the process of recruiting test users (students taking classes during the 2014 summer session at Los Angeles City College and Santa Monica College).\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   With Strivers.LA, students are prompted to share their exam calendars with
