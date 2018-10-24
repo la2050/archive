@@ -116,6 +116,33 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency standard
+    - Percent of imported water
+    - Obesity rates
+    - Rates of homelessness
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Rates of mental illnesses
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    - Percentage of tree canopy cover (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     The park will create a safe space in which Angelenos can explore ways to
     address all of these issues and know how to implement them in a real-life

@@ -100,6 +100,21 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Government responsiveness to resident’s needs: \r\n\r\nWhile the Movement will impact other metrics (see below) the greatest impact will be on this one. Residents continually prioritize children – their health, their education, their safety. If there is one priority issue that unites LA, it’s the wellbeing of children. Yet government is only marginally responsive to this demand, not because the government officials also don’t care about kids, but because other interests that also demand government’s attention are far more connected and organized. The Movement will connect the myriad groups and individuals that perform the valuable day-to-day work with children, and those who simply want to see conditions improved for children. By connecting the power of these thousands of diverse LA groups – ranging from direct service, business, parent, civil rights, and faith- and community-based organizations, among others – to collectively pressure policymakers on behalf of kids, state government and governmental entities throughout LA will prioritize children at a level commensurate with their residents’ needs. \r\n\r\nParticipation in neighborhood councils; percentage of Angelenos that volunteer informally; total number of social media friends: \r\n\r\nWith the easy-to-understand resources and guidance provided through the Movement, members will take a range of actions, from requests for signatures on letters sent to state legislators to talking points for meetings with local school board members about where to target budget dollars to spreading the word to former foster youth about available health coverage. But overall, the increased engagement inspired by the Movement will spur members to participate civically in a variety of ways, such as volunteering at their child’s school, attending a local school board meeting, or voting for a ballot measure that will benefit children. This engagement will be furthered through the large, diverse network within the Movement that connects members to other members who share common interests and concerns, leading to greater collaboration in civic processes overall. In addition to increased volunteerism and participation in neighborhood councils, Movement members will be connected to each other through social media. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Too many of LA’s 2.3 million children lack access to the necessary

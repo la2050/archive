@@ -126,6 +126,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - South LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Voting rates by race
+    - Adults getting sufficient social & emotional support
+    - Government responsiveness to residents’ needs (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Success in this project will result in positive organizational changes to include: improved effectiveness of local boards to stem revenue lost from poor organizational performance; mergers and strategic partnerships to cover areas where nonprofits do not exist or have gone out of business; building a base of individual donors focused on South LA; and crafting viable strategic plans and better evaluation of programs.   \r\n\r\nRATES OF VOLUNTEERISM – Collaboration across nonprofits in South LA is fundamental to our project. We anticipate that our project will help increase volunteer rates in South LA. Some organizations will expand their volunteer programs as they strengthen their organizational functioning. Others will partner with their peers for volunteer events, particularly as organizations become more deeply connected to each other in peer learning sessions and individualized consulting.\r\n\r\nVOTING RATES BY RACE – One of the project’s core principles is strengthening social change and movement building in South LA. Our founding partners Community Coalition and SCOPE have done great voter engagement work in South LA, from local school board elections to national elections. We are excited to see how their leadership will help organizations that want to deepen their voter and civic engagement work.\r\n\r\nADULTS GETTING SUFFICIENT SOCIAL & EMOTIONAL SUPPORT – Many of the organizations that we have reached out to about participating in the project work with adults in social service provision and others engage adults in leadership development. Improving the effectiveness of these organizations will mean better social and emotional support for adults. Our founding partner Jenesse Center does exceptional work in this area with adults and families experiencing domestic violence, and we know that their leadership will have an impact on this metric.\r\n\r\nGOVERNMENT RESPONSIVENESS TO RESIDENTS’ NEEDS (DREAM METRIC) – We recognize that government seeks sturdy and well organized nonprofits to channel federal, state and county dollars to areas of need. South LA has to increase our visibility and capacity with government (and foundations) and demonstrate capacity to increase federal, state and local resources that flow to our communities. The proposed work will result in us becoming more competitive and innovative.  "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Resilient South LA nonprofits will become local capacity builders and earn

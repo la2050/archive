@@ -93,6 +93,30 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - Tourists that visit from outside the County as well.
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency standard
+    - Percent of imported water
+    - Obesity rates
+    - Walk/bike/transit score
+    - Acres and miles of polluted waterways
+    - Rates of mental illnesses
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - Percentage of tree canopy cover (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "•\tAccess to healthy food \r\nOur project creates a culture of self-sufficiency and connection to the natural world. Aside from fruit for humans, trees provide food for birds and wildlife.\r\n•\tHealthcare access\r\nChildren with ADHD show fewer symptoms when they have access to nature. Exposure to trees and nature aids concentration by reducing mental fatigue?\r\n•\tExposure to air toxins \r\nTrees will absorbs carbon dioxide and particulate matter.\r\n•\tNumber of households below the self-sufficiency standard\r\nReducing exposure to toxins improves performance on the job and at school. \r\n•\tPercent of imported water\r\nRain barrels will be installed which will consequently be diverted from the storm drain system and will NOT be imported from the Delta or Sacramento. Lawns will be replaced which will save many 100,000s of gallons of water.  \r\n•\tObesity rates will drop due to increased playing on the streets and alleys, thanks to cooler streets, less crime and trees to climb.  \r\n•\tWalk/bike/transit score\r\n\t     There will be more walkable street, traffic calming, shaded access to bus stops thanks to tree coverage. \r\n•\tAcres and miles of polluted waterways\r\nRain barrels will diverted storm water from the storm drain system and consequently the Brooks storm drain will receive a wet-weather grade of  “A” from Heal the Bay in their Annual Report Card.\r\n•\tRates of mental illnesses\r\nStudies have shown that patients with views of trees out their windows heal faster and with less complications.\r\n•\tPrevalence of adverse childhood experiences\r\n Neighborhoods and homes that are barren have shown to have a greater incidence of violence in and out of the home than their greener counterparts. Trees and landscaping help to reduce the level of fear.  Venice crime will be down. \r\n•\tPercentage of LA communities that are resilient (Dream Metric)\r\nBeaches and Harbor will consider the creation of naturalized sand dunes at Brooks Avenue and lagoons at the storm drains.\r\nThe Venice neighborhood Council will adopt our Vision Plan.\r\n•\tPercentage of tree canopy cover (Dream Metric)\r\nHundreds of trees will be planted creating 75% tree coverage along streets in a one mile area (in 7 years when trees are at full size) AND absorb pounds of carbon dioxide and particulate matter.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In order to implement this project, starting in September 2014, SCI-Arc and

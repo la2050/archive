@@ -24,7 +24,7 @@ maker_answers:
     Our primarily partnership is with other Boys & Girls Clubs, although we also
     partner with the Los Angeles Unified School District and currently serve
     youth on eleven LAUSD school sites.
-  about_you: 'San Pedro, CA'
+  metrics_learn_earlyeducation: '0'
   org_website: 'http://www.bgclaharbor.org'
   org_twitter: '@bgclaharbor'
   org_facebook: 'https://www.facebook.com/bgclah'
@@ -73,8 +73,8 @@ maker_answers:
     students individually to identify educational and career goals.  Each
     student receives assistance throughout the search and application processes
     related to college admission and scholarships.  
+  about_you: 'San Pedro, CA'
   org_name: Boys & Girls Clubs of the Los Angeles Harbor
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
@@ -115,6 +115,25 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     Just 12 years ago, half of our teen Club members were not graduating – in
     June 2013, 98% graduated on time and 97% of those are going onto 4-year

@@ -125,6 +125,28 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located within a half-mile of transit) (Dream
+      Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     Rates of volunteerism will rise since locals will be driven to clean up
     their communities and neighborhoods to attract tourists.  Adults will get

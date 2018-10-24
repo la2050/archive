@@ -1,18 +1,22 @@
 <div class="proposal-answers">
 
+<h3>Please describe yourself.</h3>
+{{ page.maker_answers["Please describe yourself"] | markdownify }}
+
 <h3>In one sentence, please describe your idea or project.</h3>
 {{ page.maker_answers.describe_idea | markdownify }}
 
-{% comment %}
-<h3>Does your project impact Los Angeles County? Check only one.</h3>
+{% if page.maker_answers['Does your project impact Los Angeles County?'] != "No" %}
+<h3>Does your project impact Los Angeles County?</h3>
+{{ page.maker_answers['Does your project impact Los Angeles County?'] }}
+{% endif %}
 
-
-<h3>Which area(s) of LA does your project benefit? Check all that apply.</h3>
-
-
-<h3>If other, please specify.:</h3>
-
-{% endcomment %}
+<h3>Which area(s) of LA does your project benefit?</h3>
+<ul>
+  {% for area in page.maker_answers["Which area(s) of LA does your project benefit?"] %}
+  <li>{{ area }}</li>
+  {% endfor %}
+</ul>
 
 <h3>What is your idea/project in more detail?</h3>
 {{ page.maker_answers.more_detail | markdownify }}
@@ -56,12 +60,51 @@
 {% endif %}
 
 {% comment %}
-<h3>How will your project impact the LA2050 "LIVE" metrics?</h3>
-
+<h3>How will your project impact the LA2050 “Live” metrics?</h3>
 
 <h3>If other, please specify.:</h3>
 
 {% endcomment %}
+
+
+
+{% if page.maker_answers["How will your project impact the LA2050 “Learn” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Learn” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Learn” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Learn” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% elsif page.maker_answers["How will your project impact the LA2050 “Create” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Create” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Create” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Create” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% elsif page.maker_answers["How will your project impact the LA2050 “Play” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Play” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Play” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Play” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% elsif page.maker_answers["How will your project impact the LA2050 “Connect” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Connect” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Connect” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Connect” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% elsif page.maker_answers["How will your project impact the LA2050 “Live” metrics?"] and page.maker_answers["How will your project impact the LA2050 “Live” metrics?"].size > 0 %}
+<h3>How will your project impact the LA2050 “Live” metrics?</h3>
+<ul>
+  {% for metric in page.maker_answers["How will your project impact the LA2050 “Live” metrics?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
 
 <h3>Please elaborate on how your project will impact the above metrics.</h3>
 {{ page.maker_answers.impact_metrics | markdownify }}

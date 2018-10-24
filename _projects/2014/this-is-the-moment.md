@@ -18,7 +18,7 @@ project_areas:
   - SOUTH BAY
 maker_answers:
   metrics_create_arts: '1'
-  city_state: 'Sherman oaks, CA'
+  metrics_create_manufacturing: '0'
   org_website: rangoli.org
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/pages/Rangoli-Dance-Company/331420330066'
@@ -67,8 +67,8 @@ maker_answers:
     awareness and foster tourism, and tolerance among us.
   partners_collaboration: "I have worked with the following artists in the past. None of them is confirmed, although I am sure we will all come together to participate and contribute.\r\n\r\nSome Collaborators are listed here:\r\nLinda Yudin\r\nChristopher Taylor\r\nJohn Krovoza\r\nRonald Burton\r\nDulce Capadocia\r\nEileen Cooley\r\n\r\nThe three critical factors:\r\nOpen mindedness\r\nDesire to learn from the other and contribute\r\nBe inclusive and share\r\n\r\n"
   metrics_create_employment: '1'
+  city_state: 'Sherman oaks, CA'
   org_name: Rangoli Foundation for Art & Culture
-  metrics_create_manufacturing: '0'
   metrics_create_researchgrant: '0'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
@@ -113,6 +113,30 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - Orange County and Ventura County
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Minority- and women-owned firms
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
+  Please describe yourself: Solo actor (just us on this project!)
   impact_metrics: 'The project will create jobs and involve minority and women leaders. '
 Which area(s) of LA does your project benefit? Other (elaborate): 'Intercultural stories, dance, music, and visual arts!'
 What is your idea/project in more detail?: >-

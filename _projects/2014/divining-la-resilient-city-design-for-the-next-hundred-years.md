@@ -109,6 +109,22 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Number of households below the self-sufficiency standard
+    - Percent of imported water
+    - Acres and miles of polluted waterways
+    - Percentage of tree canopy cover (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: Water is essential to each and every one of these
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FQHCs that focus on special populations such as residents of public housing,

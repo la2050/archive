@@ -92,6 +92,19 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "Low-income and working families face a number of food insecurity issues, including obesity due to poor nutrition and lack of access to healthy foods in food deserts. Brown Paper wants to encourage these families to make healthier choices and show that cooking healthy meals does not have to be an expensive nor time-consuming process.\r\n\r\nThere is a popular misconception that cooking healthy meals is expensive and time-consuming. Our food truck would show audiences that this is not the case and encourage participants to follow these recipes in their own homes.\r\nGood nutrition is at the heart of a healthy community.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1) Agri-Corps Internships: Agri-Corps interns complete Proyecto Jardin's urban

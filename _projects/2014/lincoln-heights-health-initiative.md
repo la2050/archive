@@ -106,6 +106,20 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - East LA
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Number of households below the self-sufficiency standard
+    - Obesity rates
+    - Walk/bike/transit score
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Please refer to the following question regarding evaluation, which addresses
     the above metrics comprehensively.

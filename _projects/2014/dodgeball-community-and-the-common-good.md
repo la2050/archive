@@ -100,6 +100,25 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Fernando Valley
+    - Westside
+    - >-
+      Currently we benefit Venice, North Hollywood, Glassell Park and Highland
+      Park.  Our proposal would extend our impact beyond the communities we
+      currently serve. 
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "Rates of volunteerism:\r\nOver the past 5 years The Yacht Club has positively impacted rates of volunteerism in Los Angeles. By creating events around the LA River Cleanup, Highland Park Community Cleanup and partnerships with the SPCA, No Kill Los Angeles, and Heal the Bay, hundreds of our players have volunteered to improve the quality of life in our city.  Our youth programming at the four rec centers we serve has involved over 120 Yacht Club members to provide Kids Dodgeball, Yacht Pix, Yacht Plot,  and Yacht Grub.\r\n\r\nAdults getting sufficient social and emotional support:\r\nThe Yacht Club has become a proven place for adults to forge new relationships, strengthen existing ones and improve the well-being of other Angelenos through civic engagement. Our league ambassadors and captains actively encourage players to show up to team meetups and socialize.  The Yacht Club even links game advantages to this metric.  For example, teams gain points for having their players attend social, volunteer and community events that they later trade in for game advantages.\r\n\r\nAttendance at cultural events:\r\nOver the past 3 years we’ve encouraged our members to participate in events like CicLAvia by hosting dodgeball games along the route and organizing group rides. The support and enthusiasm our members displayed with our CicLAvia events led us to form ERYCYCLE, a bike riding and advocacy group. ERYCYCLE hosts bike rides like “Tour de Taco,” dedicated to exploring LA through our best tacos, and the ride to the Museum of Jurassic Technology, where leaders from the east, west and north organized individual bike rides converging in Culver City.\r\n\r\nParticipation in neighborhood council:\r\nIn April 2014 The Yacht Club designed a “get out the vote” campaign to increase the awareness and participation in Glassell Park and Highland Park’s neighborhood council elections. In Glassell Park the 2014 voter turnout doubled that of 2012 (the prior election year).  Four Yacht Club members ran for office in these elections, with 2 members winning a seat in Glassell Park and 1 member winning a seat in Highland Park.\r\n\r\nWith the addition of six new  leagues across Los Angeles, our impact will continue to grow toward making Los Angeles the best place to connect by 2050. Angelenos will inevitably join rec leagues; expanding The Yacht Club will mean that more Angelenos will be involved in leagues actively working to make Los Angeles a better place for all.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Yacht Club wants to recruit, select and develop six league ambassadors to

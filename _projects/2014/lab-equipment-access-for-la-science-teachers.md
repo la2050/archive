@@ -20,7 +20,7 @@ project_areas:
   - WESTSIDE
 maker_answers:
   collaboration: "Without a budget, we have managed to work with five teachers at five different schools on a very limited basis over the past three years.  Four of these five are confirmed collaborators (one of the five will move to a more well-equipped school where she may no longer require our services).  This grant would empower us to increase our impact with our confirmed collaborators into greater significance for their students.  The grant would also allow us increase the number of our collaborators by triple or more.\r\n\r\nEach collaborator brings two things to our project:  first, each brings their own influence and responsibility over the science education of over one hundred students annually; second, each brings their own expertise and energy in hands-on science education, which we can share with other collaborators.\r\n\r\nThis is an annotated list of three critical factors to our collaboration.\r\n1.  The collaborator's personal professional interest and commitment to working with us:  hands-on science activities are not necessarily part of a teacher's job obligations, and there is often extra time and effort involved up front; we can therefore only work with teachers who have a strong interest in engaging their students in this way.\r\n2.  The collaborator's particular needs:  we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.\r\n3.  The collaborator's accessibility:  we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.   \r\n"
-  about_you: 'Los Angeles, CA'
+  metrics_learn_earlyeducation: '0'
   org_website: learnmorewithless.org
   org_twitter: '@learnmorewithus'
   org_facebook: www.facebook.com/learningequipment
@@ -63,8 +63,8 @@ maker_answers:
     Our project will benefit students at fifteen or more Title I LA public
     schools; thus, the specific LA population that will benefit from our work is
     the LA population of lowest economic means.
+  about_you: 'Los Angeles, CA'
   org_name: Learning Equipment Supply Service
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
@@ -97,6 +97,21 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Fernando Valley
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - HS student proficiency in English & Language Arts and Math
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "Regarding the student education pipeline, the relationship between the hands-on science lab activities and student achievement in STEM subjects has been established in the research literature.   We work to increase the frequency and quality of our collaborators' hands-on science lab activities; the resultant gains in science achievement as well as in English and math proficiency are simply natural results of those hands-on experiences.\r\n\r\nBerkham, Lee, and Smerdon, in \"Gender and Science Learning Early in High School: Subject Matter and Laboratory Experiences\" (Am Educ Res J, June 20, 1997 vol. 34, no. 2, pp. 297-331), used longitudinal study data and found that the frequency of hands-on lab opportunities in eighth grade and in high school tended to generate higher science achievement in students, especially in girls.\r\n\r\nAmaral, Garrison, and Klentchy, in \"Helping English Learners Increase Achievement Through Inquiry-Based Science Instruction\" (BRJ: J. Nat'l Assoc. for Bilingual Educ., vol.26, no.2, 2002, pp.213-239), found via a four-year study that elementary school English language learners' gains in both math and English increased with number of years of participation in the district's hands-on science kit activities program (0 to 4 years).  This was in southern California, so the factors such as demography are likely to have been similar to those factors at play in Los Angeles.\r\n\r\nBecause of studies such as these, and also by some common sense, it's obvious that giving teachers access to science lab equipment for their students to use is very likely to improve achievement in science, English and math for many or most of those teachers' students.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We want to visit science teachers at fifteen or more different Title I schools

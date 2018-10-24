@@ -100,6 +100,14 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - LA County
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+    - Health Culture in Child Care and Early Education
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "Access to Healthy Food, Obesity Rates, Other: improving the culture of health overall for children in license-exempt child care.\r\nAccess to healthy food:  providing education and materials to license-exempt caregivers can improve the access to healthy food by the children in their care.  The project will also impact access to healthy food by providing information to the license-exempt community about the Child and Adult Care Food Program (“Food Program”) which partially reimburses child care providers for feeding the children healthy foods.  All children are eligible for this program which also addresses the food insecure child population.\r\n\r\nObesity rates: by educating license-exempt child care providers we have the potential to impact a portion of the 23% of children that are obese in LA County which would also positively impact the LA of 2050 as these children become the adults with healthy habits, effectively decreasing the 19% of adults that are obese as well as addressing the health concerns that correlate with obesity – heart disease and diabetes.\r\n\r\nHealth culture and early education: while the goal of the curriculum is to decrease obesity in child care settings, the training and the topics addressed also create a healthy learning environment overall, establishing a better setting for the children to be ready to learn as the opportunities present themselves.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Three key resources underpin the economic, social, and environmental

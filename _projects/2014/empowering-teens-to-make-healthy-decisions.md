@@ -108,6 +108,22 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Fernando Valley
+    - South Bay
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Healthcare access
+    - Rates of mental illnesses
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "We directly provide instruction on where and how teens can access healthcare resources in their communities, and on understanding the signs of mental illness, addressing the stigma against naming mental illness, and understanding the seriousness of mental health and the impact it can have on a young person, a family and a community. We expect to see more teens accessing mental health services thanks to our program. \r\n\r\nOur skills-based instruction also builds the confidence and strengthens the agency of young people, factors directly connected to increasing their resilience. As young people become more resilient, so do LA's communities, now and in the future. \r\n\r\nWe also have a secondary impact on teens' progress to high school graduation, and on college students' level of civic engagement in low-income communities throughout LA County."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   I have contacted community organizations & subject matter experts that have

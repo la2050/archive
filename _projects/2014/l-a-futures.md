@@ -21,7 +21,7 @@ project_areas:
   - WESTSIDE
 maker_answers:
   collaboration: "Our confirmed business partner t confirmed collaborators are:\r\nTBWA\\Chiat\\Day\r\nDDB California\r\nIgnitedUSA\r\nSaatchi & Saatchi\r\nThinkLA, consortium of creative companies\r\nOur confirmed school confirmed collaborators are:\r\nDorsey High School\r\nJames Foshay Learning Center\r\nPasadena High School\r\nVenice High School\r\nWe have worked for several years with these collaborators.\r\nThree factors that are critical to the success of these partnerships are:\r\n1) Shared decision-making\r\n2) Understanding of roles and expectations\r\n3) Evaluation and improvement"
-  about_you: 'Pasadena, CA 91105'
+  metrics_learn_earlyeducation: '0'
   org_website: www.lightbringerproject.com
   org_twitter: lbp@lightbringerp
   org_facebook: lightbringerproject
@@ -129,8 +129,8 @@ maker_answers:
     future talent pool of our own community the creative industry is greatly
     benefitted if we bear in mind that 726,300 direct and indirect jobs, or 1 in
     7 jobs, represent the human capital that vitalizes this industry. 
+  about_you: 'Pasadena, CA 91105'
   org_name: Light Bringer Project
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
@@ -208,6 +208,33 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '0'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - >-
+      Industry diversity of employment goals, preparedness for new and future
+      job roles, diverse generations impact on the products and services of the
+      creative industry
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     L.A. Futures emboldens classroom learning by learning and life skill
     experiences with industry professionals in the classroom and at their places

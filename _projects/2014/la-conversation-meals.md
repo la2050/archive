@@ -106,6 +106,24 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "We hope that once a large number of Los Angelenos have a fun and safe way to come together and engage meaningfully face-to-face, over a meal, we will begin to recognize talking to strangers as a social currency. Feelings of general goodwill and community participation are likely to follow. \r\n\r\nAs a result, conversation meals will support and deepen community behavior like volunteering and attendance at public/open cultural events. \r\n\r\nOur greatest measure of success will be to relieve some of the alienation resulting from residential segregation and foster feelings of trust across the diverse communities in Los Angeles.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Building authentic community, neighbourhood to citywide, begins with good

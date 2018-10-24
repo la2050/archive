@@ -137,6 +137,17 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - East LA
+    - South LA
+    - San Gabriel Valley
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Exposure to air toxins
+    - Walk/bike/transit score
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Reducing truck traffic along the 710 corridor reduces the most dangerous kinds of airborne pollution. This is  the primary contributor to childhood asthma rates, which are high in the region. Pollution and traffic also serve to keep kids indoors and inactive more, leading to obesity and reduced opportunities for socialization.\r\n\r\nThese pollutants also affect adults, causing heart and lung problems and increasing rates of some cancers.\r\n\r\nTraffic congestion hems in communities, keeps kids form exploring outside their neighborhoods, and causes twice-daily stress to commuters.\r\n\r\nCommunities isolated by barrier freeways have less access to jobs, food diversity, and healthcare, and are thus less resilient."
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Collect Water /Plant Trees/Community Invention

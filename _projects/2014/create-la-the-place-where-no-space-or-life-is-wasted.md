@@ -94,6 +94,18 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Concentration of manufacturing activity in LA
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "1) Employment in creative industries\r\nABF understands that this project is a unique and novel idea for LA as this region faces two major growing challenges of reintegrating the rapidly increasing number of persons released from prison and secondly, transforming food deserts in its urban areas into food oases.  In light of this, ABF’s project of urban farming with the formerly incarcerated is, by its very nature, a creative industry.  The impact of urban farming to create opportunities for the reintegration of the formerly incarcerated is a creative industry requiring multiple skill-sets.  \r\n\r\nBeneath this project’s obvious benefits of healthy food, there is a complex web of interdependent relationships strengthened by a shared belief that reintegrating the formerly incarcerated through urban farming is good for all persons and spaces.  This re-affirms the core belief that animates this project: no life or space in LA goes to waste.  Sharing the story of this impact to an LA region that is vastly diverse is no easy task and requires creativity and multiple skill-sets.  This requisite of creative skill-sets makes this project implementation a creative industry.  \r\n\r\n2) Concentration of manufacturing activity in LA\r\nABF understands that this project will increase the concentration of manufacturing, particularly agricultural, activity in LA.  The impact of ABF’s urban farms in LA will generate a large concentration of agricultural manufacturing that includes local composting and soil amendments, irrigation supplies, greenhouses and other infrastructural elements that ensure a successful urban farming enterprise.  ABF’s urban farms will also create harvest and delivery systems that will increase the manufacturing of small local storage structures. \r\n\r\n3) Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric)\r\nABF creates many opportunities for the formerly incarcerated and the communities where they reintegrate and farm.  The employment opportunities within an urban farm enterprise accommodates the diverse backgrounds of formerly incarcerated women and men and their multiple skill levels.  Urban Farming provides unique and dynamic opportunities for the formerly incarcerated to interface with diverse constituencies that range from low-income neighborhoods to high-end restaurants.  This valuable connectivity opens more possibilities for the formerly incarcerated to experience and participate in social and employment mobility.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Recognizing that LA is a place where no life or space is wasted, ABF creates

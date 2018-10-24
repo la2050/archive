@@ -112,6 +112,27 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - >-
+      People can use App of Life to share their participation in anything
+      positive. :)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "People get points in App of Life by posting and sharing in the following areas:\r\n\r\nRates of volunteerism:\r\n volunteering, anima adoption, mentoring, helping a stranger, lending a hand, etc.\r\n\r\nAdults getting sufficient social & emotional support:\r\nhugs, stress relief, making friends, sharing, time with friends, time with family, therapy, etc. \r\n\r\n Attendance at cultural events:\r\nfestival attendance, attending a performance, attending a service, museum visit, historical site visit, taking a class, teaching, library visits, going to gatherings, etc. \r\n\r\nNumber of public transit riders:\r\nusing public transportation, using alternative transportation\r\n\r\nPercentage of Angelenos that volunteer informally\r\n volunteering, anima adoption, mentoring, helping a stranger, lending a hand, etc.\r\n\r\nTotal number of social media friends:\r\nThis is a social media app, the number of friends someone can make and clubs someone can join has no boundaries.\r\n\r\nAttendance at public/open street gatherings:\r\nfestival attendance, attending a performance, park visit, attending a service, beach day, historical site visit, going to gatherings, etc. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In our initial launch, App of Life players are earning points for eating well,

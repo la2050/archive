@@ -118,6 +118,30 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - >-
+      The project resources and events are accessible for all LA County
+      residents, though outreach to storeowners is focused in South LA and East
+      LA, neighborhoods with limited healthy food access. 
+  Does your project impact Los Angeles County?: Yes (benefits all of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - >-
+      Percentage of neighborhood markets & food entrepreneurs offering healthy
+      food options in under-served neighborhoods. Civic leadership among
+      neighborhood markets for healthy food access. Increased capacity of
+      storeowners to manage & market healthy food.
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Our surveys and collaborations with neighborhood market owners reveal high levels of social and economic isolation. Often, market owners are shocked to learn that there are educational and networking spaces specifically for them. Participation at a Healthy Neighborhood Market Network event is sometimes their first time attending a conference or seminar.\r\n\r\nBy organizing a previously isolated yet critical stakeholder group for healthy food access and community development- neighborhood market owners— the Healthy Neighborhood Market Network creates a forum for new and needed voices in discussion on economic development, public health and land use policies that impact the health and well-being of Angelenos.\r\n\r\nTwo great examples of this are Nelson Garcia (owner of Alba Snacks & Services Market) and Brad Min (Manager of Supermercado Latino), both South LA entrepreneurs. Mr. Garcia teamed up with local high school students and the neighborhood council to bring healthy food to his store. To help pay for new changes, he raised $5,000 through a crowd-sourced Kiva Zip loan, with lenders locally and from all over the world cheering him on! He then shared his inspiring story at City Hall with a room full of government leaders and investors at an event hosted by Mayor Garcetti’s Economic Development Team and Kiva Zip. Mr. Min recently expressed his leadership as an environmentalist by partnering with LA’s Bureau of Sanitation at a plastic bag ban kick-off event. Mr. Min told reporters that moving away from plastic bags in his store made sense to him from a financial, community and environmental standpoint. These new alliances and voices are critical to achieving true social connectedness in LA.\r\n\r\nThe project has also engaged government to be more aware and responsive to the unique needs of small food retailers in low-income neighborhoods, improving communication and coordination of permitting and the deployment of business resources. For example, LAFPC staff recently collaborated with LA County Department of Public Health/Environmental Health Division to develop resources that address common questions store owners have about selling fresh produce.\r\n\r\nWe also expect to see an increase in the knowledge, skills and aptitudes related to nutrition, community health, fresh inventory and business management among neighborhood markets in low-income neighborhoods. By 2050, we expect to see the majority of the small food retailer sector in LA offering fresh and healthy food."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Los Angeles Food Policy Council builds the capacity of small "mom n’ pop"

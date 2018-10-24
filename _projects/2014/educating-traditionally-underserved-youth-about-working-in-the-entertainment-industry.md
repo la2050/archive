@@ -93,6 +93,26 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Minority- and women-owned firms
+    - >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "By introducing avenues of entry to the entertainment industry to traditionally underserved youth, we hope to see an increase in their numbers in radio, television, and film, both in front of the camera and behind the scene. Some of this will come sooner, but the ultimate aim is to make this project into a long term process, and for some of our graduates to make lifelong careers in the industry.\r\n\r\nBy introducing culture and the fine arts to traditionally underserved youth, we hope to stimulate a long term interest on their part in the fine arts. We would like to see them visit the local museums, attend plays, and partake of their own creativity through film, drama, the visual arts, or music, as detailed in our plan and budget.\r\n\r\nWe should point out that participants in our previous workshops have included a substantial fraction of female and minority members, and we have no reason to expect that this will change in the future. Thus we expect to stimulate the participation of women and minorities in the creative arts and the entertainment industry.\r\n\r\nBy stimulating interest in the arts, we can also hope to stimulate future creation of arts establishments in the L.A. area, whether they be art galleries, theater companies, or television production companies. The more of these that L.A. generates, and the higher the demand for their products, the more global economic influence Los Angeles will have.\r\n\r\nFinally, getting our youth to participate in cultural activities of any kind will have a beneficial effect on motivating them to stay in school, to enter college, and to persevere. To the extent that the Los Angeles area retains its preeminence as a world artistic capital, the more of our creative people will remain in the area after 5 years and, indeed, throughout their lives.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will teach youth from all over the Los Angeles area about the business of

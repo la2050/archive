@@ -112,6 +112,22 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Exposure to air toxins
+    - Number of households below the self-sufficiency standard
+    - Obesity rates
+    - Walk/bike/transit score
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Vision Zero Los Angeles will reduce deaths and injuries from vehicle crashes. Since vehicle crashes are among the leading cause of violent death, reducing these collisions will also reduce the prevalence of childhoods harmed by adverse experience. Safer streets will also encourage more active transportation, leading to increased mode share for walking and biking and increased support for non-car based infrastructure and development. \r\n\r\nLA's walk, bike and transit scores should rise along with safer streets. More and safer walking and biking will also reduce obesity rates. By replacing vehicle trips with walking and cycling trips, Vision Zero Los Angeles will also reduce air pollution from vehicles and exposure to air toxins and make communities more resilient to rise in fuel prices or natural disasters that shut down vehicle transportation. \r\n\r\nMany lower income households do not own cars, but many do- and a more walkable, bikeable Los Angeles will allow these lower income households to go car-lite or car-free, reducing transportation costs that tend to be second only to housing costs, resulting in a reduction in households below self-sufficiency. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Zanja Madre is a non-profit organization based in Los Angeles County that aims

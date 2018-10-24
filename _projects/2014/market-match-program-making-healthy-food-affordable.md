@@ -138,6 +138,21 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+    - Huntington Park
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Number of households below the self-sufficiency standard
+    - Obesity rates
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Our project increases access to healthier foods through expanding the amount of money people can spend on local fresh produce within their neighborhoods.\r\n\r\nThrough Market Match, households saves money by realizing savings in their food budgets and enable those saving to be place elsewhere.\r\n\r\nObesity rates fall due to a larger percentage of government benefits received being shifted from the purchase of unhealthy foods to the purchase of healthier produce.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Cyber Insecurity Initiative has four main phases: planning, assessment,

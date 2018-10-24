@@ -136,6 +136,15 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - >-
+      City and unincorporated area of Whittier and the cities of La Mirada and
+      Santa Fe Springs.
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Obesity rates
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Through education and hands on training, Interfaith Food Center's Four
     Seasons of Food will help break the cycle of hunger and obesity in low

@@ -21,7 +21,7 @@ project_areas:
   - WESTSIDE
 maker_answers:
   collaboration: "At the national level, ADL has existing partnerships with the following organizations and initiatives to address bias and bullying: the Ad Council, the American Bar Association’s Anti-Bullying Initiative, Cartoon Network’s Stop Bullying, Speak Up initiative, Common Sense Media, Center for Safe and Responsible Internet Use, Cyberbullying Prevention Center, the Gay, Lesbian and Straight Education Network (GLSEN), the Great American NO BULL Challenge, the International Bullying Prevention Association, MTV’s A Thin Line and Look Different campaigns, Not In Our School, the Olweus Bullying Prevention Program, PACER’s National Bullying Prevention Center, Share My Lesson, Stand4Change, StopBullying.gov, and the Human Rights Campaign’s Welcoming Schools Program.  Each of these organizations and initiatives have partnered with ADL to make the anti-bullying programs successful and bring a wide variety of perspectives and resources to augment ADL’s anti-bullying work.   ADL’s office in Los Angeles is ready to engage these partnerships to ensure the success of our anti-bullying work in the region.\r\n\r\nEducation staff from ADL’s Pacific Southwest Regional Office also hold local positions on the Los Angeles Unified School District’s Commission on Human Relations, Diversity and Equity and the City Human Relations Commission’s Anti-Bullying Coalition.  ADL also works closely with the Los Angeles County Human Relations Commission and other regional partners to plan local conferences including the Cyber Crime Prevention Symposium.  Through its work on coalitions, commissions and similar partnerships, ADL can draw expertise and resources from law enforcement, elected officials, school officials and other human relations experts.  ADL’s local partners assist in identifying schools in need of anti-bullying training and disseminating crucial information across diverse networks. \r\n"
-  about_you: 'Los Angeles, CA'
+  metrics_learn_earlyeducation: '0'
   org_website: www.adl.org/la
   org_twitter: 'https://twitter.com/ADL_National'
   org_facebook: 'https://www.facebook.com/a.world.of.difference.institute?ref=br_tf'
@@ -83,8 +83,8 @@ maker_answers:
     shift social norms and create safer places for many thousands of future
     students, the tertiary beneficiaries.  Further, all of the County’s
     residents will benefit from safer schools and communities.
+  about_you: 'Los Angeles, CA'
   org_name: Anti-Defamation League - Pacific Southwest Region
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
@@ -128,6 +128,22 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle school (Dream Metric)
+    - >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "Ample research has shown that when students do not feel safe at school, they are more likely to be truant.  Skipping school dramatically increases students’ chances of suspensions and expulsions, and reduces their academic achievement.  Bullying and bias-related aggressive behaviors make students feel unsafe at and on their way to school.  The rise of cyberbullying has made students feel unsafe and vulnerable in their own homes.  Bullying no longer stops at the schoolyard gates.  Bullying behaviors peak in and around middle school.  Anti-bullying programs reduce truancy rates at the elementary and middle school levels and increase students’ perceived sense of safety at school, on the way to school and at home.  Students leave ADL’s anti-bullying programs better equipped to respond to bullying, to create positive school cultures and to feel safer.  \r\n\r\nADL’s A WORLD OF DIFFERENCE® Institute programs are also informed by ADL’s Educational Equity Task Force which seeks to disrupt the school-to-prison pipeline and ensure students have equitable access to educational opportunities.  As a comprehensive civil rights and human relations organization, ADL does not believe in zero tolerance policies or overly harsh disciplinary responses to bullying behaviors.  These disciplinary actions disproportionately and negatively impact students of color, those with disabilities, and lesbian, gay, bisexual, transgender and queer (LGBTQ) students.  ADL has already partnered with the Los Angeles Unified School District (LAUSD) for programs addressing these important issues and would bring that expertise to bear to further reduce unnecessary suspensions and expulsions and help students get back to the business of learning.  ADL believes in the value of non-exclusionary disciplinary frameworks including Positive Behavioral Interventions and Supports (PBIS) and similar, evidence-based approaches.  The organization also knows the value of family and community education to augment what students learn in schools.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ADL contracts with over two dozen facilitators to provide training to

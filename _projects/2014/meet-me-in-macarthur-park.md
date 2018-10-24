@@ -126,6 +126,20 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - Access to free wifi (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "We have a proven track record of success turning out residents to volunteer in MacArthur Park on various projects and beautification efforts over the past year, culminating in over 550 people attending our Keep It Clean event in June 2014, and these numbers are on their way up. Residents are eager for change and willing to take on the challenge. By bringing educational and health programs to the park, as well as opportunities for connecting with neighbors, our project will provide emotional and social support for adults. We host cultural events and have high attendance due to the extensive outreach we conduct. Our leadership development work will encourage residents to participate in the civic process and attend neighborhood council meetings to be involved in local decision-making. Meanwhile, our community research from 2014 will result in a report with community recommendations that legitimize resident requests and improve our ability to advocate for resources, improving government responsiveness to residents’ needs. \r\n\r\nOur social media plan to rebrand the park and connect residents to park events and programming through Facebook event invites will increase the number of social media friends in Westlake. Our efforts to revitalize the park culture and draw more people to MacArthur Park, will increase the number of Angelenos who will benefit from the free Wifi available there (later in 2014). We will actively promote all events and programs via Facebook and Twitter.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The LA Neighborhood Land Trust is working to revitalize MacArthur Park as a

@@ -174,6 +174,33 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Concentration of manufacturing activity in LA
+    - Federal research grant funding
+    - Patents per capita
+    - Jobs per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Number of high-growth startups
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    - >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "By seeking out opportunities and being a portal for those seeking to license, buy or partner with Art at its’ foundation, artist will be able to make a living via three types of income, earned, portfolio and passive.  Our planned events, #EarthdayStreet and #PeaceStreet as well as our continued promotion of Los Angeles as the Street Art and Art Culture capital of the world, will also positively address Employment in creative industries.\r\n\r\nAs we have seen throughout Los Angeles in the last 4 years, Art brings more art and creates community.  Where there is public art, coffee houses, restaurants and stores benefit and often create their own little art galleries within their walls, often beyond.\r\nSeeking opportunities for artists, manufacturers will benefit by making prints, t-shirts, skateboard decks and a myriad of other products for the artists to display and sell, or license their work. Vendors and their manufacturers will continually benefit via licensing and sales, with special income opportunities during projects like #earthdaystreet and #peacestreet events.\r\n\r\nEngaged in and support those of our artists in further funding and partnerships to hold Los Angeles as the epicenter for StreetArt and Art Culture nationwide.\r\n\r\nJobs per capita will be addressed via opportunity outreach, the scheduled #EarthdayStreet and #PeaceStreet events and the aforementioned manufacturing.\r\n\r\nIncome Equality: We create income for artists and negotiate on their behalf with corporations.  We elevate the artists and art form across the board, and have seen how low income neighborhoods will benefit from the art in their community. \r\n \r\nIndividuals will experience public art in places generally neglected, where the rents are low and be inspired to start their business in these neighborhoods, as the community revitalizes.\r\n\r\nWe continue to elevate Los Angeles as the epicenter of Street Art and Art Culture.  International tourism via Street Art is on the rise worldwide.  This will be enhanced by the #EarthdayStreet, #PeaceStreet and #StreetArtTriangle projects as well as the partnerships we will seek to maintain Los Angeles as the place to experience this public art form.\r\n\r\nAs Youth in Los Angeles experience StreetArt as Art of their generation, they look to spend their college years in the epicenter of this Art Form.\r\n\r\nThe uplifting, inspiration and beautification of low income neighborhoods will allow entrepreneurship and good will to flourish, creating opportunity.\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement the Street Art Brokerage Firms’ projects, we will create a

@@ -23,7 +23,7 @@ project_areas:
   - WESTSIDE
 maker_answers:
   collaboration: "The Los Angeles Bridge Project began as a strategic partnership between LAUSD, CSULA, and College Bridge in the 2013-2014 school year.  The initial pilot focused only on mathematics.  Due to the significant early success of this program, CSULA scaled the project to an additional high school and added English for the 2014-2015 school year.  MOUs are in place with CSULA and LAUSD.  Additionally, we plan to scale-up through the north and south LAUSD service areas with CSUN and CSUDH.  CSUN are confirmed partners with the MOU pending.  CSUDH is in the early stages of partnership development.\r\n\r\nAll three of these CSUs in the Los Angeles metropolitan area bring key benefits to this project.  They offer in-kind donations of the professors’ salaries, use of university equipment and space, educational outreach (tutoring, college counseling, and school orientation), and financial aid resources (FAFSA workshops). LAUSD offers in-kind donations by providing the teacher and facilities to offer the courses in the regular school day. The three factors that are critical to the success of these collaborations are buy-in from (1) LAUSD high school teachers, (2) CSU professors, and (3) administrators in both LAUSD and CSUs.\r\n\r\nThe LA Bridge Project ensures buy-in from all stakeholders by linking the work of the school district and higher education institutions.  We bring together high school teachers and college professors to co-teach college-level math and English courses in order to offer students the opportunity to bypass academic remediation.  By working shoulder to shoulder, this project eschews the traditional blame game and serves as bidirectional professional development for both instructors and administrators."
-  about_you: 'Los Angeles, CA'
+  metrics_learn_earlyeducation: '0'
   org_website: www.college-bridge.org
   org_twitter: 'https://twitter.com/College_Bridge'
   org_facebook: 'https://www.facebook.com/The.College.Bridge'
@@ -84,8 +84,8 @@ maker_answers:
     62% and the national average of 63%. We strategically target students who
     have college aspirations but not necessarily the strongest academic or
     attendance records.
+  about_you: 'Los Angeles, CA'
   org_name: College Bridge
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
@@ -121,6 +121,17 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - College matriculation rates
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     The three explicit metrics that anchor our work are: (1) to increase college
     matriculation rates to 75% (compared to high poverty schools’ average of 54%

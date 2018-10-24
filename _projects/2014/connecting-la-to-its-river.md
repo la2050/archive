@@ -116,6 +116,25 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Fernando Valley
+    - Diverse communities along the LA River corridor
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Rates of volunteerism
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Government responsiveness to residents’ needs (Dream Metric)
+    - Total number of social media friends (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - >-
+      Participation in planning and political processes Social media posts,
+      tweets, photos shared by the general public Scientific data collected to
+      influence decisions related to the River's future Number of visitors
+      engaged and educated Number of students who
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "With an increased presence in the community and on the River, more Angelenos will volunteer at the Great LA River CleanUp, at the River Rover and at the Frog Spot. Questionnaires to track how people heard about he programs, whether this is a first or one of many visits, what motivated people to visit and what types of experiences they are interested will help us understand more about the ways people want to connect.\r\n\r\nThe number of docents we recruit and the number of people who participate in citizen science activities will inform us about the desire to connect and working with these volunteers will hep us understand what motivates them to give their time.\r\n\r\nBy informing the public via programs and presentations and then providing calls to action when there is a meeting or decision that is crucial to the River's future we can track how many people respond and what issues are most relevant to constituents based upon their responses.\r\n\r\nTracking the number of individuals who visit the Rover at community events and what affect the Rover had in their decision to attend, we can find out how our programming increases public attendance at gatherings throughout the region.\r\n\r\nWIFI at the Frog Spot is a perk and we'll understand the demand for public use of WIFI at River Rover events.\r\n\r\nBy encouraging people to post to FoLAR's Facebook Page, follow our twitter accounts - @folartweets, @thefrogspot, @LARiverRover and by using hashtags such as #LARiver and others we can see what visitors are saying about their experiences and whether they share or retweet FoLAR's posts.\r\n\r\nBy seeing how many students bring their family and friends to the River after the Rover has visited their schools we can learn first-hand what inspired their visits and how connecting with the River connects them to one another.\r\n\r\nBy collecting and sharing scientific data about the River we can track what has been shared and how that information is being shared and we can provide that data to decision-makers to influence their actions relevant to the River's future.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Inspired by the hymn,“Shall We Gather at the River?” FoLAR's founders united

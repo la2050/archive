@@ -143,6 +143,28 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Federal research grant funding
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      identifies artists that create for sustainability and creates access to
+      them and stimulates their creative projects, connects them to each other
+      for collaborations, production of more art to interpret and carry the
+      message of sustainability
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "# of artists enrolled in creation for sustainability hub \r\nmetrics of outreach to artists\r\nmetrics of outreach to public \r\nmetrics of engagement of artists \r\n# of art creations on sustainability produced\r\nglobal hits on artists for sustainability hub \r\nFederal grants obtained to support artists and projects \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   earthprotect.com already has a hub web site focused on sustainability with

@@ -27,7 +27,7 @@ maker_answers:
     the community and their desire to work. We also intend to incorporate
     employers in the conversation and stakeholder engagement, as we know that it
     is important to include them in the conversation.  
-  about_you: 'Washington, DC'
+  metrics_learn_earlyeducation: '0'
   org_website: www.YoungInvincibles.org
   org_twitter: '@YoungInvincible'
   org_facebook: www.facebook.com/together.invincible
@@ -87,8 +87,8 @@ maker_answers:
     specific youth unemployment fact sheets, providing participants at tour
     stops the ability to localize the serious challenges facing our generation. 
   who_benefit: "Our project will benefit:\r\n\r\n- The trained young leaders who can advocate for our agenda going forward.\r\n- Policymakers and stakeholders as they gain an understanding of key issues and challenges facing young people seeking employment pathways.\r\n- Young unemployed and underemployed adults from the communities we focus on.  "
+  about_you: 'Washington, DC'
   org_name: Young Invincibles
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '0'
@@ -128,6 +128,21 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - East LA
+    - South LA
+  Does your project impact Los Angeles County?: Yes (benefits a population of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: >-
     Our Los Angeles Youth Jobs Tour will build solutions and buy-in to address
     high youth unemployment in partnership with young Angelenos. We’ll

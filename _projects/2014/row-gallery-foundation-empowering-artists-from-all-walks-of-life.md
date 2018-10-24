@@ -92,6 +92,21 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - Wherever art-based non-profits exist!
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    - >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "1) We directly empower artist by giving them a space to sell, share, and connect with anyone who uses our website. Through the internet, these underprivileged artists can share their work online in a way they were never able to do before. The non-profits we partner with can help them upload and create a profile on our website, which they can easily pass along to others. Moreover, we will actively create opportunities for our artists!\r\n\r\n2) We hope to be the ones creating art establishments! As stated earlier, we want all types of artists engaging with different groups of people through our platform to bring their talents out into the LA community. Like Row Gallery's first pop-up show, we will fully support and encourage our artists to open up shows all over Los Angeles.\r\n\r\n3) We are hoping our site crosses social bounds so artists of all levels and societal classes can connect with each other. This will help bring different viewpoints from different people - and that's what collaboration is all about!\r\n\r\n4) As our non-profit develops, we can provide art related jobs to the formerly incarcerated. Much like Homeboy Industries, Row Gallery will eventually be able to manufacture our own products, such as art prints and canvases, in-house. Our organization's growth and employment rates will go hand-in-hand."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We plan on implementing this idea by first developing a fully functional

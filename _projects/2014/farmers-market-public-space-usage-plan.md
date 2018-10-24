@@ -122,6 +122,22 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Connect” metrics?:
+    - Adults getting sufficient social & emotional support
+    - Attendance at cultural events
+    - Number of public transit riders
+    - Participation in neighborhood councils
+    - Percentage of Angelenos that volunteer informally (Dream Metric)
+    - Attendance at public/open street gatherings (Dream Metric)
+    - Residential segregation (Dream Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "Social engagement has been proven to contribute to community health and sense of personal value and purpose. Public spaces with value added benefits such as social engagement will promote participation, volunteerism, public transportation usage to access venues as well as civic engagement and volunteerism.\r\n\r\nSuccessful social engagement will create a more integrated community.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Angelenos have long standing reputation of being disconnected from each other,

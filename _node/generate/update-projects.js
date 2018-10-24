@@ -364,6 +364,188 @@ ${yaml.safeDump(data.yaml, options)}
 }
 
 
+const projectAreas2014 = [
+  "area_centralLA", 
+  "area_eastLA", 
+  "area_southLA", 
+  "area_sangabrielvalley", 
+  "area_sanfernandovalley", 
+  "area_southbay", 
+  "area_westside", 
+  "area_other", 
+  "area_other_blank"
+]
+
+
+const projectAreas2014Labels = {
+  "area_centralLA"        : "Central LA", 
+  "area_eastLA"           : "East LA", 
+  "area_southLA"          : "South LA", 
+  "area_sangabrielvalley" : "San Gabriel Valley", 
+  "area_sanfernandovalley": "San Fernando Valley", 
+  "area_southbay"         : "South Bay", 
+  "area_westside"         : "Westside"
+}
+
+
+const improveMetrics2014 = {
+  "learn": {
+    list: [
+      "Percentage of children enrolled in early education programs",
+      "Percentage of community college students completing a certificate, degree, or transfer-related program in six years",
+      "Youth unemployment and underemployment",
+      "District-wide graduation rates",
+      "HS student proficiency in English & Language Arts and Math",
+      "Academic Performance Index scores",
+      "College matriculation rates",
+      "Student education pipeline (an integrated network of pre-schools, K-12 institutions, and higher education systems that prepares students for seamless transitions between high school, higher education institutions, and the workforce) (Dream Metric)",
+      "Suspension and expulsion rates (Dream Metric)",
+      "Truancy rates in elementary and middle school (Dream Metric)",
+      "Students perceived sense of safety at and on the way to school (Dream Metric)"
+    ],
+    map: {
+      "Percentage of children enrolled in early education programs": "metrics_learn_earlyeducation",
+      "Percentage of community college students completing a certificate, degree, or transfer-related program in six years": "metrics_learn_communitycollege",
+      "Youth unemployment and underemployment": "metrics_learn_unemployment",
+      "District-wide graduation rates": "metrics_learn_graduationrates",
+      "HS student proficiency in English & Language Arts and Math": "metrics_learn_proficiency",
+      "Academic Performance Index scores": "metrics_learn_api",
+      "College matriculation rates": "metrics_learn_college",
+      "Student education pipeline (an integrated network of pre-schools, K-12 institutions, and higher education systems that prepares students for seamless transitions between high school, higher education institutions, and the workforce) (Dream Metric)": "metrics_learn_pipeline",
+      "Suspension and expulsion rates (Dream Metric)": "metrics_learn_suspension",
+      "Truancy rates in elementary and middle school (Dream Metric)": "metrics_learn_truancy",
+      "Students perceived sense of safety at and on the way to school (Dream Metric)": "metrics_learn_safety"
+    }
+  },
+  "create": {
+    list: [
+      "Employment in creative industries",
+      "Arts establishments per capita",
+      "Concentration of manufacturing activity in LA",
+      "Federal research grant funding",
+      "Patents per capita",
+      "Jobs per capita",
+      "Minority- and women-owned firms",
+      "Gini coefficient",
+      "Number of high-growth startups",
+      "Venture capital investment",
+      "Measures of cultural and global economic influence (“soft power”) (Dream Metric)",
+      "Recruiting and retention rates at local higher education institutions (Dream Metric)",
+      "Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric)",
+      "Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric)"
+    ],
+    map: {
+      "Employment in creative industries": "metrics_create_employment",
+      "Arts establishments per capita": "metrics_create_arts",
+      "Concentration of manufacturing activity in LA": "metrics_create_manufacturing",
+      "Federal research grant funding": "metrics_create_researchgrant",
+      "Patents per capita": "metrics_create_patents",
+      "Jobs per capita": "metrics_create_jbs",
+      "Minority- and women-owned firms": "metrics_create_minoritywomenowned",
+      "Gini coefficient": "metrics_create_gini",
+      "Number of high-growth startups": "metrics_create_startups",
+      "Venture capital investment": "metrics_create_venturecapital",
+      "Measures of cultural and global economic influence (“soft power”) (Dream Metric)": "metrics_create_influencers",
+      "Recruiting and retention rates at local higher education institutions (Dream Metric)": "metrics_create_recruitingrates",
+      "Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric)": "metrics_create_graduates",
+      "Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric)": "metrics_create_unemployment"
+    }
+  },
+  "play": {
+    list: [
+      "Access to open space and park facilities",
+      "Number of children enrolled in afterschool programs",
+      "Per capita crime rates",
+      "Percentage of residents that feel safe in their neighborhoods",
+      "Attendance at major league sporting events",
+      "Residents within 1⁄4 mile of a park (Dream Metric)",
+      "Number of residents with easy access to a “vibrant” park (Dream Metric)",
+      "Number of parks with intergenerational play opportunities (Dream Metric)",
+      "Number (and quality) of informal spaces for play (Dream Metric)"
+    ],
+    map: {
+      "Access to open space and park facilities": "metrics_play_openspace",
+      "Number of children enrolled in afterschool programs": "metrics_play_afterschool",
+      "Per capita crime rates": "metrics_play_crime",
+      "Percentage of residents that feel safe in their neighborhoods": "metrics_play_safe",
+      "Attendance at major league sporting events": "metrics_play_sportingevents",
+      "Residents within 1⁄4 mile of a park (Dream Metric)": "metrics_play_park",
+      "Number of residents with easy access to a “vibrant” park (Dream Metric)": "metrics_play_vibrantpark",
+      "Number of parks with intergenerational play opportunities (Dream Metric)": "metrics_play_intergenerational",
+      "Number (and quality) of informal spaces for play (Dream Metric)": "metrics_play_informal"
+    }
+  },
+  "connect": {
+    list: [
+      "Rates of volunteerism",
+      "Voting rates by race",
+      "Adults getting sufficient social & emotional support",
+      "Median travel time to work",
+      "Attendance at cultural events",
+      "Number of public transit riders",
+      "Participation in neighborhood councils",
+      "Percentage of Angelenos that volunteer informally (Dream Metric)",
+      "Government responsiveness to residents’ needs (Dream Metric)",
+      "Transit-accessible housing and employment (the share of housing units and percentage of jobs that are located within a half-mile of transit) (Dream Metric)",
+      "Total number of social media friends (Dream Metric)",
+      "Attendance at public/open street gatherings (Dream Metric)",
+      "Residential segregation (Dream Metric)",
+      "Access to free wifi (Dream Metric)"
+    ],
+    map: {
+      "Rates of volunteerism": "metrics_connect_volunteerism",
+      "Voting rates by race": "metrics_connect_voting",
+      "Adults getting sufficient social & emotional support": "metrics_connect_adultsupport",
+      "Median travel time to work": "metrics_connect_traveltime",
+      "Attendance at cultural events": "metrics_connect_culturalevents",
+      "Number of public transit riders": "metrics_connect_publictransit",
+      "Participation in neighborhood councils": "metrics_connect_neighborhoodcouncils",
+      "Percentage of Angelenos that volunteer informally (Dream Metric)": "metrics_connect_volunteer",
+      "Government responsiveness to residents’ needs (Dream Metric)": "metrics_connect_govresponsiveness",
+      "Transit-accessible housing and employment (the share of housing units and percentage of jobs that are located within a half-mile of transit) (Dream Metric)": "metrics_connect_transitaccessible",
+      "Total number of social media friends (Dream Metric)": "metrics_connect_socialmedia",
+      "Attendance at public/open street gatherings (Dream Metric)": "metrics_connect_attendance",
+      "Residential segregation (Dream Metric)": "metrics_connect_residential segregation",
+      "Access to free wifi (Dream Metric)": "metrics_connect_wifi"
+    }
+  },
+  "live": {
+    list: [
+      "Access to healthy food",
+      "Healthcare access",
+      "Exposure to air toxins",
+      "Number of households below the self-sufficiency standard",
+      "Percent of imported water",
+      "Obesity rates",
+      "Rates of homelessness",
+      "Walk/bike/transit score",
+      "Acres and miles of polluted waterways",
+      "Rates of mental illnesses",
+      "Prevalence of adverse childhood experience (Dream Metric)",
+      "Percentage of LA communities that are resilient (Dream Metric)",
+      "Percentage of residents receiving coordinated healthcare services (Dream Metric)",
+      "Percentage of tree canopy cover (Dream Metric)"
+    ],
+    map: {
+      "Access to healthy food": "metrics_live_healthyfood",
+      "Healthcare access": "metrics_live_healthcare",
+      "Exposure to air toxins": "metrics_live_airtoxins",
+      "Number of households below the self-sufficiency standard": "metrics_live_selfsufficiency",
+      "Percent of imported water": "metrics_live_importedwater",
+      "Obesity rates": "metrics_live_obesity",
+      "Rates of homelessness": "metrics_live_homelessness",
+      "Walk/bike/transit score": "metrics_live_walkscore",
+      "Acres and miles of polluted waterways": "metrics_live_pollutedwaterways",
+      "Rates of mental illnesses": "metrics_live_mentalillness",
+      "Prevalence of adverse childhood experience (Dream Metric)": "metrics_live_childhood",
+      "Percentage of LA communities that are resilient (Dream Metric)": "metrics_live_communities",
+      "Percentage of residents receiving coordinated healthcare services (Dream Metric)": "metrics_live_healthcareservice",
+      "Percentage of tree canopy cover (Dream Metric)": "metrics_live_treecanopy"
+    }
+  }
+}
+
+
 const projectAreas2015 = [
   "Where will you be working? Central LA",
   "Where will you be working? East LA",
@@ -667,7 +849,7 @@ function processFile(filename) {
 
 
 
-
+  /*
   if (data.yaml.year_submitted == 2015) {
     let project_areas = []
     projectAreas2015.forEach(area => {
@@ -746,11 +928,111 @@ function processFile(filename) {
         data.yaml.category = category
       }
     })
-
-
-
   }
+  */
 
+
+
+  if (data.yaml.year_submitted == 2014) {
+
+    if (data.yaml.maker_answers["impact_LA_County"] == 1) {
+      data.yaml.maker_answers["Does your project impact Los Angeles County?"] = "Yes (benefits all of LA County)"
+    } else if (data.yaml.maker_answers["region_county"] == 1) {
+      data.yaml.maker_answers["Does your project impact Los Angeles County?"] = "Yes (benefits a region of LA County)"
+    } else if (data.yaml.maker_answers["population_county"] == 1) {
+      data.yaml.maker_answers["Does your project impact Los Angeles County?"] = "Yes (benefits a population of LA County)"
+    } else {
+      data.yaml.maker_answers["Does your project impact Los Angeles County?"] = "No"
+    }
+
+    if (data.yaml.maker_answers["describe_soloactor"] == 1) {
+      data.yaml.maker_answers["Please describe yourself"] = "Solo actor (just us on this project!)"
+    } else if (data.yaml.maker_answers["describe_proposedcollaboration"] == 1) {
+      data.yaml.maker_answers["Please describe yourself"] = "Proposed collaboration (we want to work with partners!)"
+    } else if (data.yaml.maker_answers["describe_collaboration"] == 1) {
+      data.yaml.maker_answers["Please describe yourself"] = "Collaboration (partners are signed up and ready to hit the ground running!)"
+    }
+
+    let project_areas = []
+    projectAreas2014.forEach(area => {
+      // console.log(area)
+      if (data.yaml.maker_answers[area] == "1" && area != "area_other") {
+        project_areas.push(projectAreas2014Labels[area])
+        // console.log(area.replace("Where will you be working? ", ""))
+      } else if (area == "area_other_blank" && data.yaml.maker_answers[area] != "") {
+        project_areas.push(data.yaml.maker_answers[area])
+        // console.log(data.yaml.maker_answers[area])
+      }
+      // delete data[area]
+    })
+    // console.log("project_areas")
+    // console.dir(project_areas)
+    data.yaml.maker_answers["Which area(s) of LA does your project benefit?"] = project_areas
+
+
+
+    /*
+    let how_use_resources = []
+    useResources2015.forEach(area => {
+      // console.log(area)
+      if (data.yaml.maker_answers[area] == "1" && area != "How do you plan to use these resources to make change? Other") {
+        how_use_resources.push(area.replace("How do you plan to use these resources to make change? ", ""))
+        // console.log(area.replace("Where will you be working? ", ""))
+      } else if (area == "How do you plan to use these resources to make change? Specifics" && data.yaml.maker_answers[area] != "") {
+        how_use_resources.push(data.yaml.maker_answers[area])
+        // console.log(data.yaml.maker_answers[area])
+      }
+      // delete data[area]
+    })
+    // console.log("project_areas")
+    // console.dir(project_areas)
+    data.yaml.maker_answers["How do you plan to use these resources to make change?"] = how_use_resources
+    */
+
+
+    /*
+    let help_from_community = []
+    helpFromCommunity2015.forEach(area => {
+      // console.log(area)
+      if (data.yaml.maker_answers[area] == "1" && area != "How can the LA2050 community and other stakeholders help your proposal succeed? Other") {
+        help_from_community.push(area.replace("How can the LA2050 community and other stakeholders help your proposal succeed? ", ""))
+        // console.log(area.replace("Where will you be working? ", ""))
+      } else if (area == "How can the LA2050 community and other stakeholders help your proposal succeed? Specifics" && data.yaml.maker_answers[area] != "") {
+        help_from_community.push(data.yaml.maker_answers[area])
+        // console.log(data.yaml.maker_answers[area])
+      }
+      // delete data[area]
+    })
+    // console.log("project_areas")
+    // console.dir(project_areas)
+    data.yaml.maker_answers["How can the LA2050 community and other stakeholders help your proposal succeed?"] = help_from_community
+    */
+
+
+    // delete data.yaml.maker_answers["How will your proposal improve the following “Create” metrics? "]
+    let improve_metrics = {}
+    categories.forEach(category => {
+      improve_metrics[category] = []
+
+      // https://stackoverflow.com/questions/1026069/how-do-i-make-the-first-letter-of-a-string-uppercase-in-javascript#1026087
+      let categoryCapitalized = category.charAt(0).toUpperCase() + category.slice(1);
+      let question = `How will your project impact the LA2050 “${categoryCapitalized}” metrics?`
+
+      improveMetrics2014[category].list.forEach(metric => {
+        if (data.yaml.maker_answers[improveMetrics2014[category].map[metric]] == "1") {
+          improve_metrics[category].push(metric)
+        }
+      })
+      if (data.yaml.maker_answers[`metrics_${category}_blank`]) {
+        improve_metrics[category].push(data.yaml.maker_answers[`metrics_${category}_blank`])
+      }
+      if (improve_metrics[category].length > 0) {
+        //console.dir(improve_metrics[category])
+        data.yaml.maker_answers[question] = improve_metrics[category]
+        data.yaml.category = category
+      }
+    })
+  }
 
 
 

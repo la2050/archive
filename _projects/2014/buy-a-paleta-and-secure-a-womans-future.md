@@ -96,6 +96,15 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - South LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Concentration of manufacturing activity in LA
+    - Minority- and women-owned firms
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "La Paletera will focus on the following three metrics: Minority and Women Owned Firms, Employment in Creative Industries, Concentration of Manufacturing activity in LA.  \r\n\r\nLA Paletera business is a century old Mexican tradition that has been held by “el paletero” (men) and duplicated in Los Angeles in its original structure. This proposal is redefining this concept to expand and include minority women in the development of small business ventures such as in La Paletera de Los Angeles. Not only will women learn to run small businesses, this project will encourage them to become part of the ever-growing LA 2050 community. \r\n\r\nThe concept of the Paletera and paleta will get a makeover to meet the needs of our changing community, which focuses on healthier eating practices, creating environmentally healthier environments, and promoting individuals belonging to a positive healthy community of involved individuals that feel connected.    \r\n\r\nAs women become knowledgeable and successful in this small business venture they will feel confident to transfer the newly acquired skills into creating their own business in their own neighborhoods in Los Angeles. Thus more businesses will grow and the vision is to have a new cycle of paleteras step into these positions. La Paletera de Los Angeles will create a wheel of motion that picks up momentum such as on a bicycle wheel.  The project becomes self-sustaining and replicating. La Paletera venture is an inviting well known concept that brings people back to their youth. The idea does not need selling!  La Paleta will get a new facelift that will bring more people on board and become fans of a delectable fruit on a popsicle!     \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   For the past 3 years, Mujeres has conducted research on the current Paleta

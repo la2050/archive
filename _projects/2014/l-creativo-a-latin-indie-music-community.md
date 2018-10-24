@@ -98,6 +98,25 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - Minority- and women-owned firms
+    - Gini coefficient
+    - Venture capital investment
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "L Creativo’s ultimate goal is to give a boost to the creative industry in LA.  By serving as a connecting community and enabling projects, both through direct involvement as well as by laying the groundwork for a positive collaboration amongst community members, L Creativo will inspire and promote many other artistic endeavors and startups.\r\n\r\nIn stimulating the spur of Latin art, L Creativo is in essence helping minority groups find a way to own their businesses. The plight for the women’s cause is a great part of our motivation.  The L Creativo Fest 2013, was in dubbed the Festival of Latin Women, as 6 of the 9 bands that performed were lead by women, and all 9 bands included at least one female band member.  \r\n\r\nIt seems as though income inequality was a big culprit for the collapse of the old way of the music business.  A few artists were getting it all, while many others were completely unfunded.  L Creativo believes that in a new world, where the mainstream is no longer so clear cut, and a much more diverse an open spectrum of creativity is available for the consumer, it is important to seek a better distribution of wealth.  L Creativo’s solution to this is again community as the foundation for the economic model.  Through L Creativo’s Music Catalog, for instance, artists will find a way to make money from their creations and not have to give up their profit, for the ‘exposure’, as it has been dealt in the traditional Los Angeles industry.  \r\n\r\nThe infrastructure that L Creativo proposes for artists to utilize and lean against to create and connect, will surely result in many of these artists garnering venture capital funds, as the conglomeration of artists feeding into the L Creativo community facilitates the generation of content, and therefore gives more return per dollar spent.  The L Creativo model is stripped of any ‘bureaucracy’, meaning that things get done in an efficient way.   \r\n\r\nL Creativo believes greatly in the creative prowess of the new Latino (L Creativo) community, and believes that LA’s true angle over other global culture epicenters, is the new Latino’s contribution.  The more that this community is supported, the more influence LA as a whole will have.  \r\n\r\nIt is very probable that Latinos will essentially run the country in years to come.  An important question we may ask right now is how can we uplift the Latino consciousness and cultivate great leaders within the Latino community? How can LA contribute to this discussion?"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   L Creativo is already working towards the goals of the project outlined in

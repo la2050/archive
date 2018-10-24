@@ -108,6 +108,29 @@ maker_answers:
   resources_technical: '1'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Live” metrics?:
+    - Access to healthy food
+    - Healthcare access
+    - Exposure to air toxins
+    - Obesity rates
+    - Walk/bike/transit score
+    - Rates of mental illnesses
+    - Prevalence of adverse childhood experience (Dream Metric)
+    - Percentage of LA communities that are resilient (Dream Metric)
+    - >-
+      support improved transportation policy priorities for Los Angeles County
+      specifically regarding transportation funding, equity, data collection and
+      evaluation.
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: " Access to healthy food\r\nHalf of all trips in Los Angeles County are less than three miles. These are trips around the neighborhood to meet daily needs, including access to supermarkets, farmers markets and other food sources. For those without a car, biking can provide critical access to supermarkets that may be too far to walk, but are a reasonable bike ride.\r\n Healthcare access\r\nSafe and comfortable first and last-mile access to transit via walking and biking increases access to regional health centers, while safe walking and biking facilities provide direct access to community clinics.\r\n Exposure to air toxins\r\nReplacing the half of all trips that are less than three miles with walking and biking have disproportionate benefits for air quality.\r\n Obesity rates\r\nRecent studies have shown that declining rates of physical activity are a primary cause of the current obesity epidemic. This is strongly correlated with declining rates of walking and biking, particularly among students. Creating safe neighborhoods for walking and biking is one of the most important public health interventions to reduce obesity.\r\n Walk/bike/transit score\r\nAccess scores measure proximity to goods and services via walking, biking and transit. Essential to providing this access is actually providing safe pedestrian and bike routes so that people are able to take advantage of local businesses. As communities embrace active transportation, land use and transportation begin to reinforce each other to create more livable communities.\r\n Rates of mental illness\r\nWalking and biking are important outlets to relieve stress, particularly in neighborhoods that may lack facilities like parks and open space. Safe and comfortable pedestrian and bike routes are essential for making neighborhood mobility low-stress.\r\n Prevalence of adverse childhood experience (Dream Metric)\r\nChildren today have a well-documented reduction in their freedom to explore their neighborhood. Safe routes and safe passages together increase parent comfort to restore childhood mobility.\r\n Percentage of LA communities that are resilient (Dream Metric)\r\nAfter major disasters, the transportation system is often the first to fail (NY subways in Hurricane Sandy, LA freeways after Northridge earthquake). People increase reliance on walking and biking as other transportation options become unavailable, and in New York rates of biking sustained an increase once people discovered just how practical it is."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already implemented this project in some school districts in Los

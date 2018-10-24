@@ -20,7 +20,7 @@ project_areas:
   - WESTSIDE
 maker_answers:
   collaboration: "The City Charter School:\r\n- Confirmed\r\n- Direct access to students for implementation. A location for summer and fall programs. An association with a tech charter school. \r\n- Yes, we have held summer programs in the past and will be holding a fall course in the upcoming term. \r\n- Quality of instruction, student engagement, and administrative/parental support. \r\n\r\nDevPoint Labs\r\n- Confirmed\r\n- DevPoint Labs is an adult coding bootcamp. They have extensive experience in teaching code, creating industry relevant code curriculum, and a network of developers and large tech companies.\r\n- Yes, they have provided insight and guidance for the current iteration of our curriculum\r\n- Consistent feedback loop on the curriculum, quality of instructor training, maintaining connections in the tech world.\r\n"
-  about_you: 'Los Angeles, CA'
+  metrics_learn_earlyeducation: '0'
   org_website: www.mushroomlearning.com
   org_twitter: 'https://twitter.com/mushroomK12'
   org_facebook: www.facebook.com/mushroomK12
@@ -67,8 +67,8 @@ maker_answers:
     County. 
   impact_learn: "Coding is the single most in-demand and marketable skill in the world today. We are teaching kids to code using the same tools and best practices used by industry professionals. Our program will not only teach students this very useful skill, but helps teach students to think logically and critically about any aspect of their life. \r\n\r\nOur goal is to continue to encourage a whole new group of students that may not have had the resources to pursue this endeavor in the past. \r\n\r\nProgramming will soon be a required literacy of students all over the country and students that start now will put LA among the earliest adopters of this trend."
   who_benefit: "Our project will benefit any student middle school age and up that has a desire to learn more about computer science and the field of computer programming. \r\n\r\nComputer science is America's untapped opportunity. According to code.org, there will be 1,000,000 more jobs than students by 2020, amounting to a $500 billion need. Educating LA's future workforce would ensure LA's place as a global tech hub."
+  about_you: 'Los Angeles, CA'
   org_name: Mushroom Learning
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
@@ -105,6 +105,32 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - Youth unemployment and underemployment
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - Academic Performance Index scores
+    - College matriculation rates
+    - >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    - Suspension and expulsion rates (Dream Metric)
+    - Truancy rates in elementary and middle school (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "We are teaching a skill that encourages students to take an active role in their own education. \r\n\r\nCoding helps students foster their creativity and creates a sense of educational purpose. It also teaches a skill that students can immediately use to gain economic viability at an early age.\r\n\r\nStudents that are actively involved in their education and have a concrete goal are much less likely to be suspended or expelled. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Currently we partner with schools and organizations offering bootcamps,

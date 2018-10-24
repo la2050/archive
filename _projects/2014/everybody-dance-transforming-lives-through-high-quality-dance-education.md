@@ -15,7 +15,7 @@ project_areas:
   - CENTRAL LA
 maker_answers:
   collaboration: "everybody dance! will work with three long-term key collaborators to implement the proposed project. \r\n\r\n1) Gabriella Charter School: We provide daily dance instruction during the school year to 436 K-8 students at Gabriella Charter School, a dance-themed Title 1 elementary and middle public school. As the School was formerly a program of The Gabriella Foundation,, this is an especially close partnership. The School provides us with studio space and shares administrative resources.\r\n\r\n2) Camino Nuevo Charter Academy: Since 2000, we have provided weekly school-day classes  to Camino Nuevo Charter Academy. This year, we expect to provide 45 weekly classes to over 1000 students in the summer/fall and 25 weekly classes to nearly 400 students in the winter/spring at the three K-8 campuses of Camino Nuevo Charter Academy, a Title 1 public inner-city charter management organization. In return, Camino Nuevo Charter Academy provides us with studio space, for our after-school program, shares resources and allows us to reach even more underserved areas of Los Angeles’ inner-city.\r\n\r\n3) LAUSD’s Ramón C. Cortines School of Visual and Performing Arts (the School District’s downtown arts high school): Last year, we began providing dance classes after-school at LAUSD’s downtown arts high school. We plan to increase enrollment in FY 14-15. The School provides us studio space and shares resources. This collaboration allows us to reach more students and to expand our reach in the City’s downtown core.\r\n\r\nCritical to the success of these collaborations is open communication between dance program and school staff, mutual commitment to the project and a shared belief in the importance of arts education to academic success.\r\n"
-  about_you: 'Los Angeles, CA'
+  metrics_learn_earlyeducation: '0'
   org_website: everybodydance.org
   org_twitter: ''
   org_facebook: www.facebook.com/everybodydancela
@@ -66,8 +66,8 @@ maker_answers:
     between 30 to 52% of adults aged 25 and over lack a high school diploma. The
     population per square mile ranges from 13,545-50,125, a vast difference from
     the population per square mile for the County (2,480) or State (247).
+  about_you: 'Los Angeles, CA'
   org_name: The Gabriella Foundation
-  metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '1'
@@ -109,6 +109,17 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '0'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Learn” metrics?:
+    - >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    - District-wide graduation rates
+    - HS student proficiency in English & Language Arts and Math
+    - College matriculation rates
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: "The positive impact of dance on learning and psychological development has been widely documented in academic research. Dance activities support the development of fluency, originality and critical thinking skills (Deasey, 2002), improve test scores, school attendance, responsibility, self-discipline, and -- just as importantly -- an understanding of delayed gratification and work ethic (Brooks Schmitz, 1990b).\r\n\r\nOver the past two years, 94% of everybody dance! graduates ages 17-19 went to college. In comparison, only 66% of Los Angeles Unified School District high school graduates go on to college.[1] Our students’ scholastic achievements are all the more notable when considering that a third to half of adults in the communities we serve lack a high school degree.[2] \r\n\r\nExamples of this success include Sandy Vasquez, 18, a UCLA student double majoring in English and Chicano Studies, Eunice Castro, a sophomore majoring in aerospace engineering at UC Irvine and Amaris Jacobs, 18, a Pasadena City College student who says, “everybody dance! has definitely helped define my character in such a positive light. I really don’t know where I’d be or what I’d be doing if I had not found out that my talent and passion is dancing.”\r\n\r\nGabriella Charter School (GCS) – established by The Gabriella Foundation and now a separate but linked nonprofit – partners with everybody dance! to provide students with daily dance instruction. Despite the fact that 91% of GCS students qualify for the federally subsidized meals program, test scores at GCS each year have substantially exceeded the State’s 800 API target (894 API in 2012), making GCS one of Los Angeles’ top-performing schools. \r\n\r\nIn 2013, it its annual survey, USC ranked Gabriella Charter School the second best charter school in California. \r\n\r\nGiven these results, we believe that everybody dance! has the power to dramatically improve academic performance, high school graduation rates and college matriculation and transfer rates in Los Angeles County.\r\n\r\n[1] Rokhy, Ron. “LAUSD below state average of high school graduates attending college.” The Daily Sundial. 1 Nov. 2011. Web. Feb. 4, 2014. <http://sundial.csun.edu>.\r\n[2] 2014 demographic estimate by Scan/US, Inc.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We use dance as a means of transforming the future for at-risk children and

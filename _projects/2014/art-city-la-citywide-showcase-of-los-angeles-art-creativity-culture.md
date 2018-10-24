@@ -99,6 +99,17 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '0'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - Westside
+  Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
+  How will your project impact the LA2050 “Create” metrics?:
+    - Employment in creative industries
+    - Arts establishments per capita
+    - >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+  Please describe yourself: Proposed collaboration (we want to work with partners!)
   impact_metrics: "Strategically targeting the key metrics listed above, ART CITY LA is a program designed to not only make an impact on the creative bottom line in 2015 but one that continues to do so through 2050. This impact is measured by both qualitative and quantitative evaluations in the lives of LA citizens, a Quality of Life (QOL) made up of a wide range of factors that speak to a new definition of urban development that embraces the full range of social, economic, environmental and civic dimensions of cities and confirms research demonstrating that it is not successful economies that are a prerequisite for QOL but that QOL is prerequisite for successful economies.\r\n\r\nHere, ART CITY LA’s high-quality programming promises a long-term solution for creating the social currency that is so important to the fabric and health of the communities in which people want to live, work and lead meaningful lives. This new economy equation elevates the primacy of social capital to LA’s status as a creative capital to reveal a natural symbiosis between greater creative industry employment, more thriving arts establishments, increased cultural tourism and higher degrees of global influence and prestige and the flourishing of those high-touch, human-centered, experiential lifestyle essentials which contribute to social progress in more holistic and psychological terms than only the economic indicator of gross domestic product (GDP). \r\n\r\nSuch a creative blending of hard and soft attributes is not only central to defining, honoring and preserving LA’s local identity, it also sets the stage for what the good life is really all about. But this can’t be achieved through slogans and advertising alone. While branding and marketing play an important role, they will ring hollow and fall short unless indigenously cultivated from the grassroots up. By simultaneously promoting LA’s creative brand while strengthening its creative community, ART CITY LA’s year-round festival of showcase events offers LA a balanced solution for increasing exposure, employment, revenue, tourism, publicity, social engagement, civic pride, and good times for all. As a result, LA can expect that more creative people will vacation and relocate here, more creative companies will base themselves here, and more of its creative talent pool will stay here. The total effect is guaranteed to ignite the socio-economic growth so necessary to the metrics of every LA2050 category and the quality of life of all Angeleno’s."
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   ART CITY LA will be implemented in the following ways:

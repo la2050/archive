@@ -22,7 +22,16 @@ project_areas:
   - WESTSIDE
 maker_answers:
   impact_play: "This project will be an historic one, as it will be one of the first places nationally to recognize and honor a Youth Poet Laureate, and cultivate LA Youth Poet Ambassadors across the city. \r\n\r\nAlong with the free creative writing resources that this program will provide for teens across the county, as well as the numerous live performances, this program will help to develop and cultivate a  culture that prioritizes youth voice, literary arts and poetry, and an aesthetic of 21st century artist that are socially and civically engaged. The mission of this program is to not only value art/poetry for art's sake, but also to engage social justice, diversity, and the powerful stories of our incredible city.\r\n\r\nEach year, the winners (LA Youth Poet Ambassadors) and the LA Youth Poet Laureate, will promote the values of this program, and perform across the city. These performances will be free opportunities for LA Country residents to hear what is on the minds and hearts of our city's youth. The performances and workshops will take place in libraries, theaters, parks, and community spaces and theaters. "
-  name: Los Angeles Youth Poet Laureate Program
+  who_benefit: >-
+    Most specifically, this program will benefit teen writers in Los Angeles
+    counties. Additionally, this program will benefit the numerous communities
+    across Los Angeles that will provide audience to celebrate these teen
+    voices, as well as teachers, educators, parents and supporters of youth and
+    literary arts. Furthermore, because this program seeks to galvanize the many
+    powerful youth-serving orgs across LA, we will serve the diverse programs
+    and constituents of LA literary arts orgs across the county, including Get
+    Lit, Say Word, 826LA, WriteGirl, Street Poets, and LA Arts and Athletics
+    Alliance.
   City_State: 'Los Angeles, CA'
   org_name: PEN Center USA/Urban Word Los Angeles
   org_website: www.penusa.org
@@ -62,17 +71,8 @@ maker_answers:
   area_other_blank: ''
   more_detail: "The Los Angeles Youth Poet Laureate will be a joint program of PEN Center USA and Urban Word LA, supported by LA Public Library, the LA County Commission on Human Relations, Penmanship Books and the Academy of American Poets. The Los Angeles Youth Poet Laureate program aims to identify young writers and leaders who are committed to civic and community engagement, poetry and performance, and Human Relations, Diversity & Social Justice across Los Angeles.\r\n"
   implement: "In the months preceding the program launch, PEN USA and Urban Word LA will provide free writing workshops at 12 LA Public Library branches across LA County for young poets and writers to put together their poetry portfolios, create resumes, CVs and all other contest materials. Furthermore, we will host showcase performances of top youth poets to spread the word about this powerful opportunity.\r\n\r\nDuring the month of April (National Poetry Month), we will accept submissions from young poets, writers, leaders and activists ages 13-19 from across Los Angeles County who are interested in representing Los Angeles as the inaugural LA Youth Poet Laureate. A group of esteemed judges (including California Poet Laureate Juan Felipe Herrera) will chose 12 Finalists, all given the distinction of LA Poet Ambassador, and we will select one youth to be honored with the title of LA Youth Poet Laureate at the Poet Laureate Commencement Performance at LA Public Library’s Mark Taper Auditorium.\r\n\r\nAlong with winning the prestigious title of LA Youth Poet Laureate, the winning poet will also win a book deal from Penmanship Books to publish their first collection of poems, as well as a library tour. The LA Youth Poet Laureate and the LA Poet Ambassadors will have numerous opportunities and platforms to share their powerful voices, their leadership, and love of Los Angeles at numerous events across the county. Urban Word Los Angeles and our many partners recognize that youth voice and community engagement are vital for empowering young people to effect positive changes in their communities and beyond. Local partners also include Get Lit, Say Word, 826LA, Write Girl and Street Poets."
+  name: Los Angeles Youth Poet Laureate Program
   handle: LAYouthLaureate
-  who_benefit: >-
-    Most specifically, this program will benefit teen writers in Los Angeles
-    counties. Additionally, this program will benefit the numerous communities
-    across Los Angeles that will provide audience to celebrate these teen
-    voices, as well as teachers, educators, parents and supporters of youth and
-    literary arts. Furthermore, because this program seeks to galvanize the many
-    powerful youth-serving orgs across LA, we will serve the diverse programs
-    and constituents of LA literary arts orgs across the county, including Get
-    Lit, Say Word, 826LA, WriteGirl, Street Poets, and LA Arts and Athletics
-    Alliance.
   partners_collaboration: "We have confirmed and worked successfully with all of our project partners including: Los Angeles Public Library, Central branch's Mark Taper Auditorium, LA County Commission on Human Relations, Academy of American Poets, Penmanship Books, Get Lit Words Ignite, Say Word (Pomona), 826LA, WriteGirl, Street Poets, and LA Arts and Athletics Alliance.\r\n\r\nEach partner brings an incredible community and history of powerful programming, reach, and powerful youth development work with teens. We are able to utilize the LA Public Library system, and the LA County Commission on Human Relations, to provide the institutional support to promote the program and provide platforms for writing and performance.\r\n\r\nWe are critically committed to:\r\n1: Providing safe spaces for LA youth to share their important and powerful voices.\r\n2: Honoring the young poet-leaders in meaningful and important ways through the creation of LA Youth Poet Laureate program and LA Youth Poet Ambassadors.\r\n3: Galvanizing various organizations across Los Angeles country that do this life-changing work."
   metrics_play_openspace: '1'
   metrics_play_afterschool: '1'
@@ -116,6 +116,21 @@ maker_answers:
   resources_technical: '0'
   resources_communityoutreach: '1'
   resources_research: '1'
+  Which area(s) of LA does your project benefit?:
+    - Central LA
+    - East LA
+    - South LA
+    - San Gabriel Valley
+    - San Fernando Valley
+    - South Bay
+    - Westside
+  Does your project impact Los Angeles County?: 'No'
+  How will your project impact the LA2050 “Play” metrics?:
+    - Access to open space and park facilities
+    - Number of children enrolled in afterschool programs
+    - Number of parks with intergenerational play opportunities (Dream Metric)
+    - Number (and quality) of informal spaces for play (Dream Metric)
+  Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
   impact_metrics: >-
     Our program situates young people in poetry and performance in spaces that
     attract diverse audiences and services. We provide free after school
