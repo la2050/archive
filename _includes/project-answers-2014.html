@@ -4,7 +4,11 @@
 {{ page.maker_answers["Please describe yourself"] | markdownify }}
 
 <h3>In one sentence, please describe your idea or project.</h3>
+{% if page.maker_answers.one_sentence_project and page.maker_answers.one_sentence_project != "" %}
 {{ page.maker_answers.one_sentence_project | markdownify }}
+{% else %}
+{{ page.maker_answers.one_sentence_org | markdownify }}
+{% endif %}
 
 {% if page.maker_answers['Does your project impact Los Angeles County?'] != "No" %}
 <h3>Does your project impact Los Angeles County?</h3>
