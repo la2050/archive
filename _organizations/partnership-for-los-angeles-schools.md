@@ -3,19 +3,19 @@ published: false
 organization_id: '2015152'
 title: Partnership for Los Angeles Schools
 org_type: Nonprofit
-org_summary: '#N/A'
+org_summary: ''
 tags_indicators:
   - College prep
   - Teaching & mentorship
   - Education & youth
-charity_navigator_url: '#N/A'
+charity_navigator_url: ''
 organization_website:
   - www.cityyear.org/losangeles www.partnershipla.org
 twitter: www.twitter.com/LA2050 or www.twitter.com/PartnershipLA
 instagram: www.instagram.com/cityyearla www.instagram.com/partnershipla
 facebook: www.facebook.com/PartnershipLA
-ein: '#N/A'
-zip: '#N/A'
+ein: ''
+zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids: []

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014033'
 title: ERW Design
-org_type: '#N/A'
+org_type: ''
 org_summary: >-
   A team of LA-based architects, landscape architects, planners, and art
   organization, has joined together to create a Cultural Master Plan.
