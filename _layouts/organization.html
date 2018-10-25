@@ -509,7 +509,7 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;" id="ideas">Submitted Id
 
 
 {% assign is_finalist = false %}
-{% for finalist in site.finalists %}
+{% for finalist in site.data.finalists %}
   {% if finalist == page.url %}
     {% if project.year_submitted == 2018 %}
       {% assign is_finalist = true %}
