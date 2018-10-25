@@ -51,7 +51,10 @@ instagram: ''
 facebook: ''
 ein: '953337990'
 zip: ''
-project_image: 'https://img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg'
+project_image: /uploads/great-leap-inc.jpg
+original_project_image:
+  - 'https://img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg'
+  - http://greatleap.org/wp-content/uploads/2017/04/cropped-IMG_2312-copy-1.jpg
 project_video: ''
 project_ids:
   - '3102142'
