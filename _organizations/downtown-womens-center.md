@@ -56,14 +56,14 @@ tags_indicators:
   - Homelessness
   - Income & employment
   - Housing & homelessness
-charity_navigator_url: '#N/A'
+charity_navigator_url: ''
 organization_website:
   - www.DowntownWomensCenter.org
 twitter: 'https://twitter.com/DWCweb'
 instagram: 'https://instagram.com/dwcweb/'
 facebook: 'https://www.facebook.com/DWCweb'
-ein: '#N/A'
-zip: '#N/A'
+ein: ''
+zip: ''
 project_image: 'https://img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg'
 project_video: ''
 project_ids:
