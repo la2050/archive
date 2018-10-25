@@ -3,20 +3,20 @@ published: false
 organization_id: '2015162'
 title: Public Health Advocates
 org_type: Nonprofit
-org_summary: '#N/A'
+org_summary: ''
 tags_indicators:
   - Community health
   - Voting & civic engagement
   - Health
   - Social connectedness
-charity_navigator_url: '#N/A'
+charity_navigator_url: ''
 organization_website:
   - www.publichealthadvocacy.org
 twitter: www.twitter.com/CCPHA
 instagram: ''
 facebook: www.facebook.com/CCPHA
-ein: '#N/A'
-zip: '#N/A'
+ein: ''
+zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 project_ids: []

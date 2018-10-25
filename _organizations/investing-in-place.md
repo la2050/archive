@@ -19,7 +19,7 @@ twitter: '@investinplace'
 instagram: 'https://www.instagram.com/investinplace/'
 facebook: 'https://www.facebook.com/investinginplace/'
 ein: Community Partners
-zip: '#N/A'
+zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
