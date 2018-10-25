@@ -6,19 +6,7 @@ indicator: ' Education'
 body_class: strawberry
 project_id: '3102082'
 title: 'College Track: Creating a Pathway to College in Boyle Heights'
-project_summary: >-
-  College Track's program and services are linked to a proven model of college
-  preparation and completion. Today, our national strategy stems from sixteen
-  years of outstanding program results: 100% percent of our seniors graduate
-  high school, compared to an average of 50% in the districts we serve, 90% are
-  admitted to a four-year college, compared to roughly 15% of students of the
-  same demographic, 80% of students who complete our high school program have
-  graduated from, or are still attending college. Over time, College Track
-  increases the number of college-bound students of color in each community we
-  serve. College Track students are often the first in their families to attend
-  college, and with this example, their families, neighborhoods, schools, and
-  peers adopt a mindset that a college degree is the expectation, not the
-  exception. 
+project_summary: "In this country, there exists a persistent gap between the academic achievements of low income, predominantly African American and Latino students and their high income, white peers. In California, less than 16% of students of color graduate from high school with the required classes to attend a University of California or California State University campus. On a nation wide scale, only 22% of low-income students earn a bachelors degree within 6 years of high school. Students are not getting the support necessary to navigate the college landscape to college completion. We aim to provide this support.\r\n\r\n\r\nCollege Track is a national educational non-profit organization working to increase high school graduation, college enrollment, and college graduation rates among low-income students. Our ultimate goal is to transform communities—like Boyle Heights, where our Los Angeles center is located—into places where all students have the opportunity to graduate from a 4-year university. We do this by opening College Track centers—centrally located in communities demonstrating significant need—where our students receive academic and college readiness support in a learning ‘hub’ environment. Through this work we narrow the achievement gap and build college-going cultures in the neighborhoods where our centers are located. Currently, the organization supports more than 1,400 students at centers in East Palo Alto, Oakland, San Francisco, New Orleans, Aurora, Colorado, and now Los Angeles.\r\n\r\n\r\nCollege Track strongly believes that if you give motivated students the resources and tools to succeed, they will. College Track was founded by volunteer counselors who discovered that many students were motivated enough, but lacked resources to access college. College Track helps students with their academics, coaches them through the required tests, prepares them for the culture of higher education, supports them through the application process, and mentors them throughout college. These are kids who have the will to succeed, but lack the support to be successful. We provide them with that support, so that they in turn can reach their goals.\r\n\r\n\r\nThe student who is accepted into the College Track program receives academic and mentoring support for up to ten years, starting in their freshman year of high school through their college graduation. There is no other program like this in the country. College Track students currently attend more than 75 four-year institutions including Harvard, Stanford, MIT, University of California (Berkeley, Los Angeles, Riverside, Santa Cruz), Howard University, Spelman College, and Columbia. \r\n\r\n\r\nProgramming consists of:\r\n\r\nOur Academic Summer Advancement Program prepares rising 9th graders for the challenges of high school. \r\n\r\n\r\nAcademic Affairs provides comprehensive academic planning, tutoring, \r\nmonitoring and support. \r\n\r\n\r\nStudent Life provides students with opportunities to explore their passions and engage in their communities. \r\n\r\n\r\nCollege Affairs guides students in all aspects of college admissions and support with scholarships. \r\n\r\n\r\nCollege Success supports students once they are in college, through advising, financial assistance, and social engagement.\r\n\r\n\r\nOver the course of four years, students receive support equivalent to one extra year of high school.\r\n\r\n\r\nAt the suggestion of Mayor Villaraigosa and Los Angeles Unified School District Superintendent Deasy, and given the scarcity of educational support in the neighborhood, College Track began an expansion of its services to Boyle Heights in East Los Angeles this school year. The students here deeply need and deserve a safe space with caring and nurturing adults who help them with their high school academics, prepare them for the culture of higher education, support them through the college and scholarship applications, and mentor them all through their college years. \r\n\r\n\r\nCollege Track is partnering with two of the small schools affiliated with Roosevelt Senior High School in Boyle Heights – The Academy of Medical and Health Sciences, and the Math Science & Technology Magnet Academy. College Track is co-located on the Roosevelt campus for our inaugural year and has plans to expand off site as our program grows.   Our first class is comprised of 30 freshmen from each of these Academies, for a total of 60 students. We will continue to grow the center by adding an additional cohort of 60 freshmen a year. By 2015-16, our Boyle Heights center will be fully enrolled with four cohorts of students, totaling roughly 240.\r\n\r\n\r\nCollege Track strongly believes that neighborhoods and schools must work more effectively together to support the healthy development of youth. College Track and its partners have the opportunity to radically improve the academic and life outcomes for students in Boyle Heights.\r\n"
 project_image: 'https://img.youtube.com/vi/VRnL2Zo28YM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/VRnL2Zo28YM'
 maker_answers:
@@ -422,5 +410,18 @@ What would success look like in the year 2050 regarding your indicator?: >+
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/college-track-creating-a-pathway-to-college-in-boyle-heights/img.youtube.com/vi/VRnL2Zo28YM/maxresdefault.jpg
 youtube_video_identifier: VRnL2Zo28YM
+project_summary_backup: >-
+  College Track's program and services are linked to a proven model of college
+  preparation and completion. Today, our national strategy stems from sixteen
+  years of outstanding program results: 100% percent of our seniors graduate
+  high school, compared to an average of 50% in the districts we serve, 90% are
+  admitted to a four-year college, compared to roughly 15% of students of the
+  same demographic, 80% of students who complete our high school program have
+  graduated from, or are still attending college. Over time, College Track
+  increases the number of college-bound students of color in each community we
+  serve. College Track students are often the first in their families to attend
+  college, and with this example, their families, neighborhoods, schools, and
+  peers adopt a mindset that a college degree is the expectation, not the
+  exception. 
 
 ---

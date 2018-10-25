@@ -8,7 +8,7 @@ project_id: '3102102'
 title: >-
   The LA2050 200  Creating Enlightened Leadership for a Healthy Thriving Los
   Angeles
-project_summary: "The David Lynch Foundation has instructed over 250,000 at-risk populations worldwide in the Transcendental Meditation program. \r\n\r\nPrograms focus on at-risk students, veterans with PTSD, homeless and retraining programs, women and girls initiatives\r\n\r\nPlease view some of the program successes at:\r\n\r\nwww.davidlynchfoundation.org\r\n"
+project_summary: "<p>The success of the LA2050 initiative depends on the intelligence, creativity, clarity and effectiveness of its most influential proponents.</p>\r\n\r\n<p>If those who are responsible for leading this important initiative have a tool to be more effective in their chosen area, their influence will be more profound. The leaders of this effort should themselves embody the highest ideals of health, comprehensive vision, compassion and creativity. </p>\r\n\r\n<p>The LA2050 \"200\" program, under the direction of the David Lynch Foundation, will train 200 top leaders in the various target areas (Education, Health, Housing, etc.) in the Transcendental Meditation program. Transcendental Meditation (TM) is the most thoroughly researched self-development tool for relieving stress, improving health and well-being, and actualizing inner potential to enhance organizational leadership.</p>\r\n\r\n<p>http://www.doctoroz.com/videos/oz-transcendental-meditation</p>\r\n\r\n<p>The David Lynch Foundation has provided training programs for some of the most successful organizations in the country, including Oprah Winfrey's Harpo/OWN network, Dr. Oz and Ellen Degeneres' production companies, employees at Bridgewater Associates, the world's most successful hedge fund company. </p>\r\n\r\n<p>With this grant from GOOD, the David Lynch Foundation will provide a custom training program for 200 of the most inspired and inspiring leaders of the LA2050 initiative. </p>\r\n\r\n\r\n"
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16855%252Fdisplay%252FDLFlogo.jpg=c570x385
 maker_answers:
@@ -183,5 +183,6 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/the-la2050-200-creating-enlightened-leadership-for-a-healthy-thriving-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16855%252Fdisplay%252FDLFlogo.jpg=c570x385.jpg
 maker_image_id: '16855'
 maker_image_file_name: DLFlogo.jpg
+project_summary_backup: "The David Lynch Foundation has instructed over 250,000 at-risk populations worldwide in the Transcendental Meditation program. \r\n\r\nPrograms focus on at-risk students, veterans with PTSD, homeless and retraining programs, women and girls initiatives\r\n\r\nPlease view some of the program successes at:\r\n\r\nwww.davidlynchfoundation.org\r\n"
 
 ---

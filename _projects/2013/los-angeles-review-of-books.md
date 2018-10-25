@@ -7,46 +7,62 @@ body_class: strawberry
 project_id: '3102189'
 title: Los Angeles Review of Books
 project_summary: >-
-  We have already partially succeeded in bringing a sense of community to the
-  cultural life of L.A. in a new way. We are training a new generation in the
-  lost art of editing. We have built something the literary, artistic, &
-  intellectual community is proud to be associated with, & proud to have
-  represent them. We have received extravagant praise from the larger literary
-  community. The New Yorker called us “an instant jewel of the internet,” Pico
-  Iyer said we are “like 1000 angels descending,” Salman Rushdie claims ours was
-  the best piece of criticism written about his work, & writers Jon Robin Baitz
-  & Michael Tolkin call LARB “the best literary magazine in the country.” But
-  more importantly the best writers in the country want to write for us, &
-  continue to come to us not only from all over L.A. County, but also from New
-  York, Boston, the Midwest, the West, & overseas. We have achieved the status
-  of a major voice in the cultural conversation in a remarkably short time. We
-  have been recognized by the publishing industry in Publisher’s Weekly, the
-  business community in Forbes, & the academic community in Chronicle of Higher
-  Education, & many other venues. The accolades are based on our daily
-  achievements in bringing forth smart, dynamic, beautifully written, carefully
-  curated, edited, & fact-checked essays, reviews and interviews and the
-  conversations that develop about them on the website. Primarily, in other
-  words, our site is our achievement, an ever-growing, intelligently interlinked
-  conversation on literature, art, music, film, TV, politics, new media, & the
-  rest of our shared culture. We have succeeded in bringing together writers
-  from around the world, bringing together new writers with top professionals,
-  writers from a wide variety of different cultural worlds: literary fiction,
-  SF, fantasy, mystery, thriller & other genres; the commercial publishing world
-  & the nonprofit & academic worlds; the big presses and the small and the
-  self-published; artists, architects, sociologists, medical researchers,
-  musicians, filmmakers, scientists, & TV writers; & all of these from across a
-  broad array of the immigrant communities that define L.A. We cover a much
-  wider range of texts, genres, media, & topics than the traditional periodicals
-  in this field, reflective of the less hierarchical, less tradition-bound
-  culture of Los Angeles. While the other arts have enjoyed national prominence,
-  literature & criticism have lagged. We feel we have succeeded in making people
-  (including the New York publishing world) understand the importance,
-  diversity, and vibrancy of the literary culture of this, the largest book
-  market in the world, & in making the perspective of L.A. writers we provide
-  part of the necessary reading for publishing professionals around the world.
-  Our pieces are reprinted by Salon, Daily Beast, & publications in Brazil,
-  Germany & elsewhere. And we have managed to begin working toward
-  sustainability, increasing our income significantly. 
+  We are trying to establish a major institution for cultural exchange and
+  conversation, centered on an online review of arts and culture. Los
+  Angeles-based and Los Angeles-focused, the Los Angeles Review of Books (LARB)
+  is the communal product of many minds, including some of the best know and
+  most established figures on the L.A. cultural scene, along with emerging L.A.
+  writers in the fields of literature, art, music, politics, and cultural
+  studies, enhanced and enlarged by the active conversation of readers all over
+  the city, the county, the state, and beyond. We work hard to bring the worlds
+  of publishing, academia, film and television, new media, art, and music
+  together with the common reader in a fruitful, productive, and engaging
+  conversation. --- In a feudal world, there is no criticism; only the king's
+  taste matters. Given the cosmopolitan collection of diverse cultures here in
+  Los Angeles, literature, the arts, and culture need a critical conversation,
+  need to have spokespeople and champions and translators and critics to help
+  cultural work find its audience, to build bridges among communities, and to
+  disseminate the best that is being thought, written, and produced here in Los
+  Angeles to the full range of local audiences and out into the larger world.
+  --- Cultural criticism has a long and important history, and for the last 150
+  years it has taken place largely in a print world supported by advertising and
+  subscription. That world is dying, as seen as the shuttering of book review
+  supplements in almost every city in the country, and the shrinking of book and
+  arts coverage elsewhere. LARB aims not just to replace these lost venues,
+  which have been central to the vibrancy of American culture over the last
+  century and more, but to rethink them, reinvent them using all of the new
+  media tools at our disposal, making the cultural conversation more diverse,
+  more interactive, and more wide-ranging, less hemmed in by traditional models.
+  By merging the worlds of traditional literary publishing, academia, small
+  presses, online writing, film and television, and the explosion of desktop
+  production of all kinds, LARB hopes to build a big cultural tent, creating a
+  space for very fragmented communities to interact and learn from each other.
+  --- LARB is a daily online publication that has already, in a small way, begun
+  this transformation. We are a largely volunteer organization that has managed
+  to post over 1300 in-depth reviews, essays, and interviews, produced by a wide
+  variety of contributors, from first-time writers to some of the most esteemed
+  figures in literature, art, music, film, television, politics, and culture. We
+  have already seen the impact on the morale of writers and readers in L.A., and
+  we hope to increase our presence and impact, bringing our work to a larger
+  audience, and a wider array of audiences, as described below. We also will
+  impact the arts and culture scene through innovative public programming around
+  the city, and through developing innovative curricula for our schools. --- In
+  sharing culture and cultures, communities thrive. We are not interested in art
+  for art's sake, or criticism for criticism's sake. We think that literature,
+  art, and culture are central ways that a society understands itself, incubates
+  its own progress, and forges its bonds across what might otherwise be divides.
+  We hope to be a major partner in helping Los Angeles arts and culture continue
+  to significantly enhance human development. --- We believe that all art and
+  culture is both local and (at least potentially) global at the same time, and
+  that a central way to ensure the continuing vitality of the L.A. arts and
+  culture scene is to disseminate its work nationally and globally. We also
+  believe that while the world has taken notice of L.A.'s excellence in
+  classical music and art, as well as, of course film and television, it has
+  been slower to recognize L.A.'s literary and critical strengths. We have
+  started to have a real impact in that area and hope to do much more. Criticism
+  and conversation are necessary to incubation, to nurturing, and to bringing
+  literature, the arts, and culture to their largest possible audience, and thus
+  to have their greatest impact, to realize their greatest potential.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385
 maker_answers:
@@ -489,5 +505,46 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/los-angeles-review-of-books/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385.jpg
 maker_image_id: '22625'
 maker_image_file_name: larb_logo.jpg
+project_summary_backup: >-
+  We have already partially succeeded in bringing a sense of community to the
+  cultural life of L.A. in a new way. We are training a new generation in the
+  lost art of editing. We have built something the literary, artistic, &
+  intellectual community is proud to be associated with, & proud to have
+  represent them. We have received extravagant praise from the larger literary
+  community. The New Yorker called us “an instant jewel of the internet,” Pico
+  Iyer said we are “like 1000 angels descending,” Salman Rushdie claims ours was
+  the best piece of criticism written about his work, & writers Jon Robin Baitz
+  & Michael Tolkin call LARB “the best literary magazine in the country.” But
+  more importantly the best writers in the country want to write for us, &
+  continue to come to us not only from all over L.A. County, but also from New
+  York, Boston, the Midwest, the West, & overseas. We have achieved the status
+  of a major voice in the cultural conversation in a remarkably short time. We
+  have been recognized by the publishing industry in Publisher’s Weekly, the
+  business community in Forbes, & the academic community in Chronicle of Higher
+  Education, & many other venues. The accolades are based on our daily
+  achievements in bringing forth smart, dynamic, beautifully written, carefully
+  curated, edited, & fact-checked essays, reviews and interviews and the
+  conversations that develop about them on the website. Primarily, in other
+  words, our site is our achievement, an ever-growing, intelligently interlinked
+  conversation on literature, art, music, film, TV, politics, new media, & the
+  rest of our shared culture. We have succeeded in bringing together writers
+  from around the world, bringing together new writers with top professionals,
+  writers from a wide variety of different cultural worlds: literary fiction,
+  SF, fantasy, mystery, thriller & other genres; the commercial publishing world
+  & the nonprofit & academic worlds; the big presses and the small and the
+  self-published; artists, architects, sociologists, medical researchers,
+  musicians, filmmakers, scientists, & TV writers; & all of these from across a
+  broad array of the immigrant communities that define L.A. We cover a much
+  wider range of texts, genres, media, & topics than the traditional periodicals
+  in this field, reflective of the less hierarchical, less tradition-bound
+  culture of Los Angeles. While the other arts have enjoyed national prominence,
+  literature & criticism have lagged. We feel we have succeeded in making people
+  (including the New York publishing world) understand the importance,
+  diversity, and vibrancy of the literary culture of this, the largest book
+  market in the world, & in making the perspective of L.A. writers we provide
+  part of the necessary reading for publishing professionals around the world.
+  Our pieces are reprinted by Salon, Daily Beast, & publications in Brazil,
+  Germany & elsewhere. And we have managed to begin working toward
+  sustainability, increasing our income significantly. 
 
 ---

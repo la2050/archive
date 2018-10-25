@@ -8,28 +8,7 @@ project_id: '3102258'
 title: >-
   Tia Chuchas Centro Culturals Arts Transforms Community  A Multimedia Wellness
   Project
-project_summary: >-
-  The Northeast San Fernando Valley is a community of 500,000 – the size of the
-  City of Oakland -- yet it had no bookstores, movie houses, art galleries, or
-  full fledged cultural spaces until Tia Chucha's opened its doors twelve years
-  ago. We now provide a bookstore, a deli/ artisan shop, arts workshops, an art
-  gallery, film nights, weekly Open Mics, community dialogues, and author
-  readings. In addition we host Young Warriors, a youth empowerment group, often
-  working with troubled youth through mentors, rites of passage, and the arts as
-  well as own poetry press, Tia Chucha Press, and the only outdoor annual
-  literacy festival for the greater San Fernando Valley: “Celebrating Words:
-  Written, Performed & Sung.” We have a Mexica (so-called Aztec) danza resident
-  group, Temachtia Quetzalcoatl, officially sanctioned to teach and perform this
-  art form from pre-conquest Mexico and Central America. Also since Tia Chucha's
-  creation we've seen the birth of independent groups like El Hormiguero (the
-  Anthill), Bikesanos Bike Club, the San Fernando Arts Collective, Youth Speak
-  Collective's Sports, Mural, Gardening and Digital Arts projects, and the
-  establishment of a new high school with academies in Social Justice and
-  Humanities, the Arts as well as Engineering and Technology called the Cesar
-  Chavez Learning Academies. Our presence in a mostly run-down strip mall with
-  many uninhabited spaces has brought new small businesses and even a major
-  market chain. Tia Chucha's has proven that the arts stimulates economic
-  activity while helping reduce violence, apathy, and low school participation. 
+project_summary: "<p>Poor communities are usually portrayed as fonts of violence, stagnant thinking and deficit outcomes. But we at Tia Chucha's Centro Cultural see the poor as rich with talents, skills and imaginations. Every person, even without outside resources, is by nature regenerative. The concept behind arts-based healing workshops is to tap into and draw out this abundant capacity to establish healthy lives, families, and culture – even in a faltering economy. A new currency of restoring and transforming from one's own gifts opens up a new imagination of how to relate by giving and getting, with healing practices and disciplines. This is about renewing community rooted in caring and sharing.</p>\r\n<p>The objective is to get everyone to live out their passions, their innate story, the \"dream\" they were born with. These yearlong weekly workshops in 2013 will pull from this largely indigenous concept and set up the nexus where people are expressive in modern times. There is enough evidence and anecdotal illustrations of how the arts transform lives and communities.</p> \r\n<p>Presently we are held in the paralysis of a market driven scarcity society. Mortgages, the wage system, and money are man-made illusions that have blinded us to the true source of our liberation – the abundance in nature, in our imaginations, and in the proper relationships between our natures and the nature around us. The goal is to reclaim the personal authority and autonomy for every person so they can properly intertwine with and grow from community on a basis of cooperation.</p> \r\n<p>The Northeast San Fernando Valley is made up of indigenous rooted people, primarily from Mexico and Central America, with significant numbers of African Americans, Asians, and European Americans. The majority are Christians/Catholics; Arts Transforms Community workshops are not meant to challenge or change anyone's belief systems. Through the arts and imaginative practices, everything gets renewed and reaffirmed. Still we go back to indigenous sources of knowledge because of their perennial quality across time, places and circumstances.</p> \r\n<p>Our complex industrial world has disconnected us from these and many people are lost as a result. Our basic premise is that the healthy well-being of each is dependent on the healthy well-being of all – and the inverse: the healthy well-being of all is predicated on the healthy well-being of each. The goal of Tia Chucha's arts workshops – including music, dance, theater, writing, puppetry, photography, painting, and more – is to create a new basis for wellness with indicators and outcomes not clinical or bureaucratic.</p> \r\n<p>We aim to be the example that a whole community approach to addressing trauma and economic instability utilizes the arts to heal and revitalize. Tia Chucha's Centro Cultural & Bookstore has seen such possibilities whenever people are given spaces to learn, to create, and to deliver. We use a process of turning original ideas to execution with research/study, mentorship and organization. The arts are not just a “nice thing to do,” but vital to the new economy and digital world we are all entering. We need a new imagination – with new content and new forms – to align to the possibilities in this world.</p>"
 project_image: 'https://img.youtube.com/vi/B5uKTbH5IV0/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/B5uKTbH5IV0'
 maker_answers:
@@ -295,5 +274,27 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/tia-chuchas-centro-culturals-arts-transforms-community-a-multimedia-wellness-project/img.youtube.com/vi/B5uKTbH5IV0/maxresdefault.jpg
 youtube_video_identifier: B5uKTbH5IV0
+project_summary_backup: >-
+  The Northeast San Fernando Valley is a community of 500,000 – the size of the
+  City of Oakland -- yet it had no bookstores, movie houses, art galleries, or
+  full fledged cultural spaces until Tia Chucha's opened its doors twelve years
+  ago. We now provide a bookstore, a deli/ artisan shop, arts workshops, an art
+  gallery, film nights, weekly Open Mics, community dialogues, and author
+  readings. In addition we host Young Warriors, a youth empowerment group, often
+  working with troubled youth through mentors, rites of passage, and the arts as
+  well as own poetry press, Tia Chucha Press, and the only outdoor annual
+  literacy festival for the greater San Fernando Valley: “Celebrating Words:
+  Written, Performed & Sung.” We have a Mexica (so-called Aztec) danza resident
+  group, Temachtia Quetzalcoatl, officially sanctioned to teach and perform this
+  art form from pre-conquest Mexico and Central America. Also since Tia Chucha's
+  creation we've seen the birth of independent groups like El Hormiguero (the
+  Anthill), Bikesanos Bike Club, the San Fernando Arts Collective, Youth Speak
+  Collective's Sports, Mural, Gardening and Digital Arts projects, and the
+  establishment of a new high school with academies in Social Justice and
+  Humanities, the Arts as well as Engineering and Technology called the Cesar
+  Chavez Learning Academies. Our presence in a mostly run-down strip mall with
+  many uninhabited spaces has brought new small businesses and even a major
+  market chain. Tia Chucha's has proven that the arts stimulates economic
+  activity while helping reduce violence, apathy, and low school participation. 
 
 ---

@@ -6,27 +6,7 @@ indicator: Arts & Cultural Vitality
 body_class: strawberry
 project_id: '3102144'
 title: 'Arts ReSTORE LA: Westwood. An urban renewal project by the Hammer Museum'
-project_summary: >-
-  Over the past decade plus, the Hammer Museum has transformed itself into one
-  of the most innovative and well-respected arts and cultural institutions in
-  Los Angeles. One important focus of our exhibitions and artist programs is
-  highlighting emerging and under-recognized artists. Last summer we organized
-  L.A.’s first ever biennial exhibition, Made in L.A. 2012, which showcased 60
-  emerging local artists in four venues across the city.  The Hammer is also
-  proud of its 14 year old Hammer Projects exhibition series which features
-  emerging local and international artists in what is often their first solo
-  museum exhibition in the United States. Through our public engagement program,
-  launched in 2010, the Hammer has established itself as a leader in innovation
-  through unique and unexpected artist projects that challenge visitors’ notions
-  of traditional museum experiences. As a cultural center, the Hammer also
-  attracts tens of thousands of visitors each year to our multidisciplinary
-  public programs which take place in our state-of-the-art Billy Wilder Theater
-  and adjacent Courtyard, and which include literary readings, artist
-  performances, film screenings, musical acts, meditation sessions, and
-  scholarly and popular culture presentations. All of the Hammer’s public
-  programs are free to the public and we feel strongly that we could be helpful
-  to both artists and our neighbors if the vitality and sense of community that
-  the Hammer enjoys could spill out into our commercial neighborhood as well.  
+project_summary: "The Hammer Museum proposes to tap into the thriving Los Angeles creative community as a strategy to revitalize communities and villages throughout the city. Los Angeles faces some significant challenges posed by urban sprawl, lack of a comprehensive public transportation system, and traffic congestion, and as a result, it often feels like a collection of smaller disparate areas. Given the incredible artistic and entrepreneurial output that is now happening in Los Angeles (the most concentrated in the world), there is a real opportunity to infuse the artists, artisans, craftspeople and creative makers of all kinds into neighborhoods as a unique and effective way to help define and energize them. Specifically, the Hammer would use its incredible network of local talent and expertise in arts and culture to curate an artisanal pop-up village in Westwood and offer a long term strategy to turn the neighborhood around permanently.  \r\n \r\nWe propose to work with the building owners in the village to provide work and retail space for artists and artisans in greater Los Angeles to sell their wares and artistic output.  Westwood has struggled significantly in recent years due to a confusing identity, and lagging commercial real estate market. Even though Westwood Village is highly walkable and convenient, with parking all around, there is a consistently high rate of retail vacancies and turnover of existing businesses. On Westwood Blvd, the main thoroughfare in the Village, and adjacent to the Hammer, 30 of the 78 storefronts are vacant – earning Westwood Village the highest retail vacancy rate in west Los Angeles. We believe this once thriving neighborhood can recover if it approaches its troubles with a strategy that has proved effective over and over again throughout the country—work with the creative community. \r\n \r\nThe Hammer has already had extensive conversations with the key property owners who share our stake in the neighborhood about ways to reinvigorate what should be an energetic and economically healthy community. Our vision is that the Hammer would curate a pop-up village (like a group exhibition) of artists, artisans and makers of all kinds to activate these empty unused spaces with designers of furniture, clothing, ceramics, jewelry and other locally produced goods and crafts.  In advance of the holiday season we would offer a place for an eclectic array of object makers to display their work.  Artists could also use the spaces as open studios where they could engage with the public and exhibit and sell artwork. \r\n \r\nAdditionally, the Hammer has proposed to the owners of several vacant restaurants that a curated series of emerging chefs be in residence at the various locations during the length of the pop-up village. The Hammer would be the gateway to the village and accordingly would market and promote the pop-up village and would hold anchor events, such as performances, music sets by local DJs, art installations, etc. in our public Courtyard. For the period of the pop-up village, we would make affordable parking available (it is currently only $3.00) and create maps and informational brochures on the participating artists and create tie-in experiences between the Hammer and artist storefronts and events. \r\n \r\nWhile this initial pilot idea would be akin to a curated live version of etsy.com, the goal would be to sustain and replicate the idea to revitalize the neighborhood permanently.  The Hammer would help facilitate a longer presence of artists as merchants in Westwood Village, working as a facilitator between all stakeholders. We would also seek to serve as a catalyst and replicate this model beyond the grant period in other neighborhoods throughout Los Angeles, contributing to a future for Los Angeles where strong community development is fueled by the arts. \r\n"
 project_image: 'https://img.youtube.com/vi/30f36j_o_wU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/30f36j_o_wU'
 maker_answers:
@@ -263,5 +243,26 @@ What would success look like in the year 2050 regarding your indicator?: >+
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/arts-restore-la-westwood-an-urban-renewal-project-by-the-hammer-museum/img.youtube.com/vi/30f36j_o_wU/maxresdefault.jpg
 youtube_video_identifier: 30f36j_o_wU
+project_summary_backup: >-
+  Over the past decade plus, the Hammer Museum has transformed itself into one
+  of the most innovative and well-respected arts and cultural institutions in
+  Los Angeles. One important focus of our exhibitions and artist programs is
+  highlighting emerging and under-recognized artists. Last summer we organized
+  L.A.’s first ever biennial exhibition, Made in L.A. 2012, which showcased 60
+  emerging local artists in four venues across the city.  The Hammer is also
+  proud of its 14 year old Hammer Projects exhibition series which features
+  emerging local and international artists in what is often their first solo
+  museum exhibition in the United States. Through our public engagement program,
+  launched in 2010, the Hammer has established itself as a leader in innovation
+  through unique and unexpected artist projects that challenge visitors’ notions
+  of traditional museum experiences. As a cultural center, the Hammer also
+  attracts tens of thousands of visitors each year to our multidisciplinary
+  public programs which take place in our state-of-the-art Billy Wilder Theater
+  and adjacent Courtyard, and which include literary readings, artist
+  performances, film screenings, musical acts, meditation sessions, and
+  scholarly and popular culture presentations. All of the Hammer’s public
+  programs are free to the public and we feel strongly that we could be helpful
+  to both artists and our neighbors if the vitality and sense of community that
+  the Hammer enjoys could spill out into our commercial neighborhood as well.  
 
 ---

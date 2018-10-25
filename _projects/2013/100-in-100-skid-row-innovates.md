@@ -6,12 +6,12 @@ indicator: ' Housing'
 body_class: strawberry
 project_id: '3102265'
 title: '100 in 100: Skid Row Innovates!'
-project_summary: "Two years ago, United Way worked with the Business Leaders Task Force to launch Home For Good, an action plan to end chronic and veteran homelessness by 2016. Given our strong homeless partners, instead of administering homeless services, we focused on improving the homeless systems that hamper the work of our partners. We have seen tremendous results in our work together over these past two years:\r\n\r\n• Leadership: Over 125 leaders from a broad cross-section of nonprofit, public, and philanthropic organizations, including the Mayor of LA and all 5 of our County Supervisors, signed onto the Home For Good plan.\r\n\r\n• Funding: $5 million from 16 private funders was leveraged to secure $100 million from 7 public funders, creating the first ever Funders Collaborative for permanent supportive housing in LA County.\r\n\r\n• Awareness: Over 20,000 volunteers have participated in HomeWalk, an annual 5k to end homelessness.\r\n\r\n• Systems Change: The time it takes for a homeless veteran to move  from the street into a home was reduced by 2 months.\r\n\r\n• Housing: Well over 5,000 chronically homeless persons as well as an additional 2,000 homeless veterans were permanently housed.\r\n\r\nWe are also proud to work with the Rapid Results Institute (RRI) and their 100-day model. RRI uses a model that challenges communities to quickly and collaboratively design complex systems and create lasting systems change within 100 days.\r\n\r\nRRI has worked globally to use the catalysts of network support, a time-limited process, clear goals and the expertise of line staff to engineer remarkable results. Those successes (all in 100 days) include:\r\n\r\n• Reducing the days required for placing housing homeless vets in Detroit from 143 days to 34 days (76% decrease) in collaboration with the 100k Homes Campaign\r\n\r\n• Reducing operating costs for CALPERS (CA public pension) by $99.6 million (annualized) \r\n\r\n• Getting 15,400 people in Sierra Leone tested for HIV in 100 days, compared to 1,000 in the previous 3 years\r\n\r\nHere in the US and in LA, they also work closely with Community Solutions' 100K Homes Campaign to transform homeless service systems."
+project_summary: "PROBLEM :: First-come, first-served. That is how many homeless services are given out. Who can blame them? The lines are unending, and homeless providers are busy. As a result, those with the greatest need for supports often get passed over or aren't even able to make it to the line. In a recent survey, 62% of the 532 individuals found and surveyed sleeping in Skid Row were found to have been on the streets for years and struggling with severe disability.\r\n\r\nIDEA :: Create real-time lists of those experiencing homelessness and real-time lists of housing resources so that the two lists can be matched quickly and effectively. This will:\r\nHelp homeless providers do what they do best. Help our homeless neighbors access housing that fits. Turn the housing swap meet into a housing Match.com.\r\n\r\nTIMELINE :: Work with existing providers to develop a beta system in Skid Row within 100 days. Test it by housing 100 of the hardest-to-house in those 100 days. Work at refining it for eventual County-wide use in the following 100 days.\r\n\r\nIMPACT :: This will dramatically reduce homelessness for the most vulnerable, reduce unit vacancies, and reduce unit costs by more efficiently matching the supply and demand of housing.\r\n\r\nIn short, this is the system we need to end homelessness in Los Angeles.\r\n\r\n(*More benefits listed in project benefit section)"
 project_image: 'https://img.youtube.com/vi/Sq1MDbnR1wg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Sq1MDbnR1wg'
 maker_answers:
   website: 'HTTP://WWW.HOMEFORGOODLA.ORG'
-  success: "Success will mean we quickly and easily move people from streets to housing.\r\n\r\nIn order to get there, we will track these primary indicators during our first 100-day beta test: \r\n\r\n# of homeless persons housed\r\n# of days between a person being identified on the streets and given his/her keys\r\n# of chronically homeless persons filling out housing applications \r\n# of units/vouchers dedicated to this housing system\r\n# of persons matched through this system\r\n\r\nTo test this beta system, we are aiming for 100 chronically homeless adults from the Skid Row community to be matched and housed during our beta phase.\r\n"
+  success: "Success will mean we quickly and easily move people from streets to housing.\r\n\r\nIn order to get there, we will track these primary indicators during our first 100-day beta test: \r\n\r\n* Number of homeless persons housed\r\n\r\n* Number of days between a person being identified on the streets and given his/her keys\r\n\r\n* Number of chronically homeless persons filling out housing applications \r\n\r\n* Number of units/vouchers dedicated to this housing system\r\n\r\n* Number of persons matched through this system\r\n\r\nTo test this beta system, we are aiming for 100 chronically homeless adults from the Skid Row community to be matched and housed during our beta phase.\r\n"
   Indicator: ' Housing'
   brief: "PROBLEM :: First-come, first-served. That is how many homeless services are given out. Who can blame them? The lines are unending, and homeless providers are busy. As a result, those with the greatest need for supports often get passed over or aren't even able to make it to the line. In a recent survey, 62% of the 532 individuals found and surveyed sleeping in Skid Row were found to have been on the streets for years and struggling with severe disability.\r\n\r\nIDEA :: Create real-time lists of those experiencing homelessness and real-time lists of housing resources so that the two lists can be matched quickly and effectively. This will:\r\nHelp homeless providers do what they do best. Help our homeless neighbors access housing that fits. Turn the housing swap meet into a housing Match.com.\r\n\r\nTIMELINE :: Work with existing providers to develop a beta system in Skid Row within 100 days. Test it by housing 100 of the hardest-to-house in those 100 days. Work at refining it for eventual County-wide use in the following 100 days.\r\n\r\nIMPACT :: This will dramatically reduce homelessness for the most vulnerable, reduce unit vacancies, and reduce unit costs by more efficiently matching the supply and demand of housing.\r\n\r\nIn short, this is the system we need to end homelessness in Los Angeles.\r\n\r\n(*More benefits listed in project benefit section)"
   budget explanation: "I. Funds for Systems Creation\r\n================================\r\nA. Rapid Results Project Design, Coaching, Consulting, Facilitation: $50,000\r\nB. United Way Staff Time: $10,000\r\n\r\nII. Funds for Housing Individuals During 100-Day Beta Test\r\n================================\r\nA. Move-In (ID documents, security deposits, utility turnons): $35,000\r\nB. Furniture: $5,000\r\n"
@@ -220,24 +220,24 @@ Please explain how you will evaluate your project. How will you measure success?
 
 
 
-  # of homeless persons housed
+  Number of homeless persons housed
 
 
 
-  # of days between a person being identified on the streets and given his/her
+  Number of days between a person being identified on the streets and given his/her
   keys
 
 
 
-  # of chronically homeless persons filling out housing applications 
+  Number of chronically homeless persons filling out housing applications 
 
 
 
-  # of units/vouchers dedicated to this housing system
+  Number of units/vouchers dedicated to this housing system
 
 
 
-  # of persons matched through this system
+  Number of persons matched through this system
 
 
 
@@ -331,5 +331,6 @@ What would success look like in the year 2050 regarding your indicator?: >+
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/100-in-100-skid-row-innovates/img.youtube.com/vi/Sq1MDbnR1wg/hqdefault.jpg
 youtube_video_identifier: Sq1MDbnR1wg
+project_summary_backup: "Two years ago, United Way worked with the Business Leaders Task Force to launch Home For Good, an action plan to end chronic and veteran homelessness by 2016. Given our strong homeless partners, instead of administering homeless services, we focused on improving the homeless systems that hamper the work of our partners. We have seen tremendous results in our work together over these past two years:\r\n\r\n• Leadership: Over 125 leaders from a broad cross-section of nonprofit, public, and philanthropic organizations, including the Mayor of LA and all 5 of our County Supervisors, signed onto the Home For Good plan.\r\n\r\n• Funding: $5 million from 16 private funders was leveraged to secure $100 million from 7 public funders, creating the first ever Funders Collaborative for permanent supportive housing in LA County.\r\n\r\n• Awareness: Over 20,000 volunteers have participated in HomeWalk, an annual 5k to end homelessness.\r\n\r\n• Systems Change: The time it takes for a homeless veteran to move  from the street into a home was reduced by 2 months.\r\n\r\n• Housing: Well over 5,000 chronically homeless persons as well as an additional 2,000 homeless veterans were permanently housed.\r\n\r\nWe are also proud to work with the Rapid Results Institute (RRI) and their 100-day model. RRI uses a model that challenges communities to quickly and collaboratively design complex systems and create lasting systems change within 100 days.\r\n\r\nRRI has worked globally to use the catalysts of network support, a time-limited process, clear goals and the expertise of line staff to engineer remarkable results. Those successes (all in 100 days) include:\r\n\r\n• Reducing the days required for placing housing homeless vets in Detroit from 143 days to 34 days (76% decrease) in collaboration with the 100k Homes Campaign\r\n\r\n• Reducing operating costs for CALPERS (CA public pension) by $99.6 million (annualized) \r\n\r\n• Getting 15,400 people in Sierra Leone tested for HIV in 100 days, compared to 1,000 in the previous 3 years\r\n\r\nHere in the US and in LA, they also work closely with Community Solutions' 100K Homes Campaign to transform homeless service systems."
 
 ---

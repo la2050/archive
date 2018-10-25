@@ -7,21 +7,73 @@ body_class: strawberry
 project_id: '3102166'
 title: KIPP Through College
 project_summary: >-
-  If it were a district, KIPP LA would be the highest performing in Los Angeles
-  County serving a majority of students from low-income communities.  For nearly
-  a decade, KIPP LA’s schools have been proving what is possible in raising
-  student achievement in traditionally underserved low-income communities. In
-  2011-12, KIPP LA’s weighted average Academic Performance Index (API) score was
-  892 (800 is the statewide goal), compared to 700 in the neighboring schools of
-  South and East Los Angeles. KIPP LA Prep, in Boyle Heights, is the
-  highest-performing middle school in Los Angeles Unified School District for
-  the second year in a row with an API of 924. Similarly, KIPP Raíces Academy,
-  in East LA, outperforms 98 percent of elementary schools in California with an
-  API of 961. According to the national norm-referenced SAT-10 test, 96 percent
-  of KIPP LA’s kindergarteners and 94 percent of our first graders scored at or
-  above the national average in English language arts. Finally, 96 percent of
-  KIPP LA alumni are attending high-performing, college-prep high schools, and
-  nearly 85 percent are currently enrolled in college.
+  At KIPP LA Schools (KIPP LA), we believe that the real achievement gap is not
+  the differences in test scores or high school graduation rates between our
+  richest and poorest communities. Rather, we see the true achievement gap as
+  the difference in college graduation rates among these populations.
+  High-income students graduate college at ten times the rate of low-income
+  students - 80% versus 8% on average. At KIPP LA, we are committed to
+  supporting both our current students and our alumni on their journey <b>to and
+  through</b> college. We seek to create and build partnerships that will
+  support our students as they transition from our schools at the end of 8th
+  grade to high-performing high schools and on to selective
+  colleges.</br></br>KIPP LA's KIPP Through College (KTC) program does just that
+  by providing one-on-one support to our alumni as they enter high school, apply
+  to college, and make their way through higher education and the workforce. KTC
+  team members ensure that KIPP LA's 8th graders matriculate to a
+  high-performing college preparatory high school that will prepare them for
+  success in college. KTC's high school placement coordinators travel among our
+  middle school sites to support our existing 360 7th and 8th grade students.
+  Our students receive personalized assistance with high school selection and
+  applications, financial aid and scholarships, and the high school transition
+  process. In 2012, KIPP LA placed 96% of our 8th grade students in
+  college-preparatory charter, magnet, independent day, parochial, and boarding
+  schools.</br></br>From there, KTC stays with our students throughout high
+  school, providing help with coursework selection, college planning services,
+  and individual and family counseling. As our alumni approach high school
+  graduation, KTC staff support them as they identify and apply to colleges,
+  seek financial aid, and prepare to enter the college environment. Once our
+  alumni are in college, KTC college retention advisors provide the necessary
+  support services to see our alumni through college graduation. This includes
+  making site visits whenever possible, sending care packages, providing
+  academic support, helping students secure study abroad opportunities, and
+  assisting with the community college and university transfer process if
+  necessary.</br></br>KTC also strives to prepare our students for their future
+  careers and instill an understanding of and excitement for these goals. This
+  preparation may include a range of mentoring-based activities, such as summer
+  internships, work study programs, resume writing, and interview workshops with
+  career mentors, organizations and community allies.</br></br>In addition to
+  personalized services, KTC hosts an annual high school fair for our students,
+  gathering representatives from Los Angeles' highest performing high schools to
+  answer enrollment questions. KTC also hosts a "Mocktail Party" for our alumni,
+  providing an opportunity to practice networking and share their future
+  ambitions with career professionals. Further, the KTC team leads college
+  visits for our alumni to competitive schools across the country, and operates
+  a 12th Grade Application Bootcamp that provides intensive support with college
+  applications. Finally, KTC provides college scholarships to students with high
+  academic potential, a strong record of community service, and demonstrated
+  financial need. KIPP LA believes that this unique program serves as a model
+  for others working to help students from underserved communities earn college
+  degrees and lead fulfilling lives.</br></br>The KTC team is comprised of a
+  director, three college access advisors, one college retention advisor, and
+  two high school placement coordinators. Each KTC team member has a deep
+  commitment to helping underserved students succeed in high school, college,
+  and the competitive world beyond. Now in its third year, KTC has established a
+  proven track record of success in preparing KIPP LA alumni for their journey
+  to and through college.</br></br>Currently, KTC serves approximately 740 KIPP
+  LA alumni, of which 520 are in high school and 220 are persisting in college.
+  Our alumni are spread across 140 high schools that KTC staff have deemed to
+  provide a rigorous and college-preparatory education. Additionally, nearly 85%
+  of our oldest alumni cohorts, the Classes of 2011 and 2012, are enrolled in 81
+  colleges and universities across the country. Next year, KTC will serve 910
+  alumni, including 540 high school students and 370 college
+  students.</br></br>With the unwavering support of KIPP LA’s KTC program, 84%
+  of our alumni are persisting in college, whereas in South and East Los
+  Angeles, only 4% of students graduate college. As KTC continues to serve more
+  KIPP LA alumni, we anticipate that we will increase the number of college
+  graduates in these neighborhoods by 50%.  In the long term, this will mean
+  dramatic increases in academic attainment in some of Los Angeles’ most
+  underserved communities.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385
 maker_answers:
@@ -421,5 +473,21 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/kipp-through-college/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385.jpg
 maker_image_id: '17303'
 maker_image_file_name: KIPPThroughCollege3.jpg
+project_summary_backup: >-
+  If it were a district, KIPP LA would be the highest performing in Los Angeles
+  County serving a majority of students from low-income communities.  For nearly
+  a decade, KIPP LA’s schools have been proving what is possible in raising
+  student achievement in traditionally underserved low-income communities. In
+  2011-12, KIPP LA’s weighted average Academic Performance Index (API) score was
+  892 (800 is the statewide goal), compared to 700 in the neighboring schools of
+  South and East Los Angeles. KIPP LA Prep, in Boyle Heights, is the
+  highest-performing middle school in Los Angeles Unified School District for
+  the second year in a row with an API of 924. Similarly, KIPP Raíces Academy,
+  in East LA, outperforms 98 percent of elementary schools in California with an
+  API of 961. According to the national norm-referenced SAT-10 test, 96 percent
+  of KIPP LA’s kindergarteners and 94 percent of our first graders scored at or
+  above the national average in English language arts. Finally, 96 percent of
+  KIPP LA alumni are attending high-performing, college-prep high schools, and
+  nearly 85 percent are currently enrolled in college.
 
 ---

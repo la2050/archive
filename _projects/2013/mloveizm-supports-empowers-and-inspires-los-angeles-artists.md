@@ -6,15 +6,7 @@ indicator: Arts & Cultural Vitality
 body_class: strawberry
 project_id: '3102077'
 title: MLoveizm Supports Empowers and Inspires Los Angeles Artists
-project_summary: >-
-  From working, guiding, promoting, encouraging and teaching artists, we have
-  seen them go on to attain more jobs as entrepreneurs, build their own brands,
-  manage their creative and business time, and develop confidence in heart and
-  mind.  We have impacted Artists in knowledge, perspective, understanding and
-  wisdom in their personal life as well as provoked them to dig deeper and see
-  meaning in art as well as create depth in their own work.  We are pleased to
-  see our imprint on individuals as they go on to transform the world in
-  positive sustainable ways.
+project_summary: "South Central Los Angeles, known for it’s notorious mentions in rap songs, seedy motels and abandoned houses, gang wars and riots, has a population of sickness and disease, violence, drug and human trafficking and it all starts with a corrupted mindset.  MLoveizm stands as a beacon of light to reach those who feel suppressed, stifled and limited in their community through the medium of art.  Art transcends demographics through a deep seeded sense of relatability in life experiences, thought processes that strikes a nerve to take action.   Our first big goal is to facilitate a creative environment where Artists can learn through internships, business development/entrepreneurship, workshops, artist showcases, and jobs through future publications like MLoveizm magazine, upcoming book projects, film documentaries, art inspiration field trips and more for local Artists as well as those who travel to South Central to grow and learn.  The jobs would be mainly artistic such as filming, photographing, editing, lighting, writing, painting, fabricating, designing, styling, researching and more.  We would also like to facilitate business minded individuals that understand and appreciate the arts as the oil to our engine and further teach in our workshops as well. We take a deep interest in character building emotionally, mentally, physically and spiritually.  Our hopes is to meet the Artist where they are at in their life and cultivate the greatness within through collaboration, education, practical skill and business building.  We want the Artist to exude confidence just as much as their work does. From starting off as Artists, growing as entrepreneurs and innovators we know what it is like to gain ground on making dreams become reality and bringing up as many Artists and art supporters as possible in the process. \r\n"
 project_image: 'https://img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Q4dC-OX4vTw'
 maker_answers:
@@ -172,5 +164,14 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/mloveizm-supports-empowers-and-inspires-los-angeles-artists/img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg
 youtube_video_identifier: Q4dC-OX4vTw
+project_summary_backup: >-
+  From working, guiding, promoting, encouraging and teaching artists, we have
+  seen them go on to attain more jobs as entrepreneurs, build their own brands,
+  manage their creative and business time, and develop confidence in heart and
+  mind.  We have impacted Artists in knowledge, perspective, understanding and
+  wisdom in their personal life as well as provoked them to dig deeper and see
+  meaning in art as well as create depth in their own work.  We are pleased to
+  see our imprint on individuals as they go on to transform the world in
+  positive sustainable ways.
 
 ---

@@ -6,7 +6,7 @@ indicator: ' Education'
 body_class: strawberry
 project_id: '3102219'
 title: 'College Bus: Driving LA’s LowIncome Youth Towards a College Education'
-project_summary: "Some of Bresee's most important achievements to date include:\r\n\r\n-  Awarding over 100 students\r\n-  Providing\r\n\r\nBresee is proud"
+project_summary: "          “A Bresee college trip changed my life by making me decide to go to college,” describes Fonda Whitehead, a Bresee alumna who went on a college trip in 1988. “No one in my family had attended college, but that trip made it a reality for me.” Fonda, who has now worked at Bresee for 16 years, describes what has become a common story at Bresee; the story of how a simple college trip can change lives.\r\n\r\n          Bresee proposes a full-service college prep program that systematically targets the entire 450-member student body of Central City Value High School (CCVHS), a local charter school.  Every student will board Bresee’s newly renovated, 25-passenger College Bus, and spend a full day touring a local college.  That’s just the beginning.  Throughout the school year, every student will have the opportunity to take their college dreams a step further by enrolling in:\r\n•\tA-G requirement workshops for 9th grade\r\n•\tPSAT classes for 10th grade\r\n•\tPSAT and SAT prep, remedial CAHSEE prep and personal statement workshops for 11th grade\r\n•\tSAT prep, scholarship boot camps, FAFSA completion, and the opportunity to apply for a needs-based College Bus scholarship for the 12th grade\r\nPrograms will be available on the school’s campus, for free, to all students. This is a pilot program that is scalable and can be replicated at other schools in our community.  What if by 2050, every student in Los Angeles (LA) was afforded the same opportunity, the opportunity to overcome educational barriers and go to college?  Join us on the campaign.  Get aboard the College Bus.\r\n"
 project_image: 'https://img.youtube.com/vi/_3B75bmN3Lo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/_3B75bmN3Lo'
 maker_answers:
@@ -599,5 +599,6 @@ What would success look like in the year 2050 regarding your indicator?: >-
   barriers to higher education and graduate from high school collegeready and
   collegebound.</b></p>
 youtube_video_identifier: _3B75bmN3Lo
+project_summary_backup: "Some of Bresee's most important achievements to date include:\r\n\r\n-  Awarding over 100 students\r\n-  Providing\r\n\r\nBresee is proud"
 
 ---

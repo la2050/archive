@@ -8,31 +8,7 @@ project_id: '3102241'
 title: >-
   Students Working Together to Combat Homelessness and Reduce Food Waste on
   Campus
-project_summary: >-
-  Since its humble beginnings, Swipes for the Homeless has donated over 35,000
-  pounds of food just in Los Angeles and thousands of additional meals around
-  the nation. In fact, we have recorded a whopping number of 57,268 pounds of
-  food donated as of January 2013! All of this couldn’t have been done without
-  our dedicated university chapters. We are continuing to spread our mission to
-  university campuses, and additional students from over 30 universities have
-  recently reached out to us to establish a chapter on their perspective
-  campuses. Swipes for the Homeless has been featured in many publications and
-  media outlets such as the Los Angeles Times, MTV, GOOD Magazine, Forbes, UCLA
-  Magazine, and many others. Our biggest (and most exciting) achievement to date
-  was when our organization was recognized by President Barack Obama as a Campus
-  Champion of Change in 2011. The Champions of Change challenge was launched by
-  the White House to honor five young leaders for outstanding leadership on
-  their college campuses. After reviewing a record number of entries, fifteen
-  Challenge finalists were announced and the public chose the top five projects
-  they think best embody the President’s goal to win the future. Swipes for the
-  Homeless was voted as one of the top five! Our members were honored with the
-  opportunity to travel to the White House and personally meet Obama for a press
-  conference with the other winners. In 2012, Swipes for the Homeless was also
-  recognized as Most Influential College Organization at the 2012 Stay Classy
-  Awards, the largest philanthropic recognition ceremony in America. From these
-  various recognitions, we have been blessed with the opportunity to bring this
-  important cause to further light on the national media scale, and would like
-  to thank all of our supporters who have been with us every step of the way. 
+project_summary: "In September 2009, “Swipes for the Homeless” was established as an official university student organization at UCLA in order to help alleviate the destitution of the neighboring homeless community, specifically the growing homeless student population. \r\n\r\nHaving seen on-campus students collect hot meals for the needy in past years, UCLA students Thach Nguyen and Bryan Pezeshki came up with a brilliant idea. They set out to create a partnership between the multiple campus departments to fully institutionalize a program that would allow the impact and influence of their idea to grow to its full potential. \r\n\r\nWhat exactly was this idea? On-campus residents with meal plans that allow them to roll over unused meals from week to week, tend to accrue many unused meals, or “swipes”, by the end of each academic quarter. At the end of the quarter, these students can donate their unused meal swipes, which would otherwise go to waste, to Swipes for the Homeless. These swipes are then transferred into non-perishable goods and then taken to homeless shelters, homeless living on the streets, and homeless and hungry students on campus. In addition, many other sub-projects target wasted food in the residential dining halls, fast-food eateries on campus, and community businesses in order to salvage that food for those less fortunate on a daily basis. The organization has collected over 30,000 meals to date, with a record of 7,421 meals this past university quarter \r\n\r\nThe simplicity and effectiveness of this idea quickly led to its expansion onto numerous college campuses worldwide, amongst those being USC, UC Berkeley and University of Paris in France. In April of 2012, after a nationwide search and vetting of thousands of applicants, President Obama recognized our organization as one of five “Champions of Change,” personally inviting our group to the White House to honor us for our impact on the community. “Swipes” has since become a state-certified 501(c)3 non- profit organization with the aim of spreading its impact on to every campus in the world.\r\n\r\nAlthough our main indicator would be “housing,” Swipes for the Homeless affects several other indicators on many different levels. For example, our dual mission is to tangibly and tactically partner with college campuses to alleviate hunger while raising young people’s awareness of homelessness and hunger through education and outreach. Through this we hope to facilitate the spirit of giving and volunteerism, a crucial component of social connectedness. Swipes for the Homeless is also environmentally-focused because it helps University campuses reduce their food waste. We understand that all indicators and social issues are inter-connected, and that improving one area would correlate with an improvement in another indicator. \r\n"
 project_image: 'https://img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/h1GATPgLPxQ'
 maker_answers:
@@ -303,5 +279,30 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/students-working-together-to-combat-homelessness-and-reduce-food-waste-on-campus/img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg
 youtube_video_identifier: h1GATPgLPxQ
+project_summary_backup: >-
+  Since its humble beginnings, Swipes for the Homeless has donated over 35,000
+  pounds of food just in Los Angeles and thousands of additional meals around
+  the nation. In fact, we have recorded a whopping number of 57,268 pounds of
+  food donated as of January 2013! All of this couldn’t have been done without
+  our dedicated university chapters. We are continuing to spread our mission to
+  university campuses, and additional students from over 30 universities have
+  recently reached out to us to establish a chapter on their perspective
+  campuses. Swipes for the Homeless has been featured in many publications and
+  media outlets such as the Los Angeles Times, MTV, GOOD Magazine, Forbes, UCLA
+  Magazine, and many others. Our biggest (and most exciting) achievement to date
+  was when our organization was recognized by President Barack Obama as a Campus
+  Champion of Change in 2011. The Champions of Change challenge was launched by
+  the White House to honor five young leaders for outstanding leadership on
+  their college campuses. After reviewing a record number of entries, fifteen
+  Challenge finalists were announced and the public chose the top five projects
+  they think best embody the President’s goal to win the future. Swipes for the
+  Homeless was voted as one of the top five! Our members were honored with the
+  opportunity to travel to the White House and personally meet Obama for a press
+  conference with the other winners. In 2012, Swipes for the Homeless was also
+  recognized as Most Influential College Organization at the 2012 Stay Classy
+  Awards, the largest philanthropic recognition ceremony in America. From these
+  various recognitions, we have been blessed with the opportunity to bring this
+  important cause to further light on the national media scale, and would like
+  to thank all of our supporters who have been with us every step of the way. 
 
 ---

@@ -296,6 +296,7 @@ const attributes = [
  'organization_website',
  'organization_name_2',
  'organization_activity',
+ 'project_summary_backup',
  'ein'
 ]
 
@@ -1285,6 +1286,11 @@ function processFile(filename) {
 
   {% endfor %}
   */
+
+  // if (data.yaml.year_submitted == 2013 && data.yaml.maker_answers && data.yaml.maker_answers.brief && data.yaml.maker_answers.brief != "") {
+  //   data.yaml.project_summary_backup = data.yaml.project_summary
+  //   data.yaml.project_summary = data.yaml.maker_answers.brief
+  // }
 
 
   saveMarkdown(filename, data)

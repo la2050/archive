@@ -6,7 +6,7 @@ indicator: ' Environmental Quality'
 body_class: strawberry
 project_id: '3102141'
 title: Think Before You Trash
-project_summary: "Teach surfing camps – surfing competitions\r\nOrganize Beach Clean ups\r\nBe recognized by the community and other non profits as a local pro environmental organization\r\nSpearhead educational programs outside the classroom. \r\nBring awareness to nature and environmental issues.\r\nhttp://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q"
+project_summary: "Grain of Sand - Granito de Arena (in Spanish) is a non-profit organization run by Ernesto Renella, (local business leader, surfer and community volunteer) to teach environmental awareness and stewardship to underprivileged children in local communities. The mission is to build a healthier environment and educate children to create a better world. The program teaches children that their daily decisions affect the beaches and marine environment around the world and shows them how to connect to nature through environmental awareness and surfing.\r\n\r\n“Being in the ocean is a much more personal experience than just looking at it from the beach or highway. Surfing is about being physically and mentally moved by the power of the ocean. By experiencing its energy   directly affecting its own element and environment. Once these kids stand up the first time and ride a wave in, they never look at the water the same way again. The ocean transforms into something that they need to respect, maintain and protect so that future generations can enjoy it as much as they do. The way I see it, each person represents a grain of sand, standing alone one might seem small and insignificant, but working together with our neighbors we are powerful and can create a better future for everyone.”"
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 maker_answers:
   success: >-
@@ -157,5 +157,6 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/think-before-you-trash/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16238'
 maker_image_file_name: Debris_3.JPG
+project_summary_backup: "Teach surfing camps – surfing competitions\r\nOrganize Beach Clean ups\r\nBe recognized by the community and other non profits as a local pro environmental organization\r\nSpearhead educational programs outside the classroom. \r\nBring awareness to nature and environmental issues.\r\nhttp://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q"
 
 ---

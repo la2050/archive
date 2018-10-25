@@ -6,7 +6,37 @@ indicator: Arts & Cultural Vitality
 body_class: strawberry
 project_id: '3102098'
 title: URBAN AIR
-project_summary: "Stephen Glassman Studio first raised widespread critical acclaim in the early 1990’s creating free-form bamboo installations for devastated urban sites in the aftermath of the Rodney King Riots, Malibu Fires, and Northridge Quake. Since then, Stephen Glassman Studio has gone on to do significant large-scale projects including a 4,000 square foot sculpture plaza at the LNR Warner Center, the Fairmont Skate Park in Salt Lake City, Utah, Arkansas’ Southeast Shear (an NEA & White House Millennium Project), the Sylvia Campuan Bridge in Bali, and more. Stephen Glassman Studio has collaborated with architects such as Sasaki, Steinberg, Miller / Hull, and Arup Engineering as a creative consultant to urban master planning, as well as in the creation of commissioned art works for large-scale projects. Glassman is the recipient of numerous grants and awards including the NEA, Nathan Cummings Foundation, LA Cultural Endowment, and was a 2000 Chrysler Design Award nominee. Stephen Glassman Studio’s work has been collected and exhibited throughout Southern California, New York City, and internationally. The design and concept for Urban Air first received notice when it won the 2011 London International Creativity Award. As a successful Kickstarter project Urban Air went on to generate international dialogue about the nature of advertising and the role of art in communities, garnering support from over 1500 people internationally, with the film about it receiving over 150,000 downloads in 125 countries.  Urban Air has been written about in countries around the Globe including Japan, Greece, Egypt, India, China, Russia, Italy, Peru, Brazil, France, England, Taiwan, Italy, Poland, and by publications and/or programs including The Huffington Post, Wired (Italy), LA Times, National Geographic, Forbes, Dwell, Landscape Architecture, DAD (Peru), Good Magazine, NPR, KCET, The Discovery Channel and more. Urban Air is currently slated as a main stage presenting project for The NYC Green Festival this upcoming April. Since its publication internationally Stephen Glassman Studio has received interest and inquiries from all over the world about the possibility of Urban Air projects in other cities... and the work of the studio, including Urban Air, has been the subject of collegiate studies at Vassar College, Syracuse University, Hampshire College, and other institutions.\r\n\r\n"
+project_summary: >-
+  Urban Air is a project that transforms existing billboards into living,
+  suspended bamboo gardens.  Embedded with intelligent technology, Urban Air is
+  at once a provocative artwork and a crack in the urban skyline meant to
+  surprise, inform, suggest, and create a visual respite for a road weary city. 
+  With a donated billboard over one of LA’s busiest freeways, the façade of the
+  billboard will be removed and replaced with architecturally integrated
+  planters. Imagine being stuck in traffic, channel surfing on the radio,
+  nothing but billboards with advertising on the skyline, and up pops a cluster
+  of suspended living bamboo with water misters creating a visual cloud forest. 
+  As per artist Stephen Glassman, Urban Air is an opportunity for people to
+  “look up, feel themselves as human, and conceive of what might be.”  Beginning
+  with one billboard, Urban Air intends to take an infrastructure that is only
+  meant for modern advertising and commerce and create something accessible,
+  inspiring, and altogether different - art for art’s sake in a social, urban,
+  and ecological context. Billboards right now exist mostly as visually opaque
+  structures, like boarded up windows on the horizon. Urban Air transforms them
+  into portals… Open windows that connect the viewers not only to the sky but
+  also to their own sense of humanity, and ultimately and potentially, to other
+  Urban Air billboards around the globe. Urban Air is about transforming
+  structures often seen as urban blight into living metaphors. While Urban Air
+  is primarily an artwork, each “green” board will also be a “hotspot” that
+  measures and wirelessly communicates the comparative air quality of its
+  internal microclimate relative to its surrounding area via the internet. We
+  are reportedly exposed to up to 5,000 advertisements alone per day. And it has
+  been said that the average city dweller is exposed to as much information in
+  one day as the average Victorian was in a lifetime. When advertising is
+  replaced with art, something that is purely visual and intended only to be
+  looked at and experienced, we all win. Urban Air becomes a global node, an
+  open space in the urban skyline intended to inspire and revitalize, at once an
+  artwork, a symbol of, and an instrument for a green future.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385
 maker_answers:
@@ -350,5 +380,6 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/urban-air/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385.jpg
 maker_image_id: '21229'
 maker_image_file_name: urban_air.jpg
+project_summary_backup: "Stephen Glassman Studio first raised widespread critical acclaim in the early 1990’s creating free-form bamboo installations for devastated urban sites in the aftermath of the Rodney King Riots, Malibu Fires, and Northridge Quake. Since then, Stephen Glassman Studio has gone on to do significant large-scale projects including a 4,000 square foot sculpture plaza at the LNR Warner Center, the Fairmont Skate Park in Salt Lake City, Utah, Arkansas’ Southeast Shear (an NEA & White House Millennium Project), the Sylvia Campuan Bridge in Bali, and more. Stephen Glassman Studio has collaborated with architects such as Sasaki, Steinberg, Miller / Hull, and Arup Engineering as a creative consultant to urban master planning, as well as in the creation of commissioned art works for large-scale projects. Glassman is the recipient of numerous grants and awards including the NEA, Nathan Cummings Foundation, LA Cultural Endowment, and was a 2000 Chrysler Design Award nominee. Stephen Glassman Studio’s work has been collected and exhibited throughout Southern California, New York City, and internationally. The design and concept for Urban Air first received notice when it won the 2011 London International Creativity Award. As a successful Kickstarter project Urban Air went on to generate international dialogue about the nature of advertising and the role of art in communities, garnering support from over 1500 people internationally, with the film about it receiving over 150,000 downloads in 125 countries.  Urban Air has been written about in countries around the Globe including Japan, Greece, Egypt, India, China, Russia, Italy, Peru, Brazil, France, England, Taiwan, Italy, Poland, and by publications and/or programs including The Huffington Post, Wired (Italy), LA Times, National Geographic, Forbes, Dwell, Landscape Architecture, DAD (Peru), Good Magazine, NPR, KCET, The Discovery Channel and more. Urban Air is currently slated as a main stage presenting project for The NYC Green Festival this upcoming April. Since its publication internationally Stephen Glassman Studio has received interest and inquiries from all over the world about the possibility of Urban Air projects in other cities... and the work of the studio, including Urban Air, has been the subject of collegiate studies at Vassar College, Syracuse University, Hampshire College, and other institutions.\r\n\r\n"
 
 ---

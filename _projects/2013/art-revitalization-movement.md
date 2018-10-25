@@ -6,13 +6,7 @@ indicator: Arts & Cultural Vitality
 body_class: strawberry
 project_id: '3102270'
 title: Art Revitalization Movement
-project_summary: >-
-  Mural Mile has become a necessary project for artists, community members, and
-  art enthusiasts. There have been a dozen new murals added to Van Nuys Blvd. in
-  Pacoima, all in the past 2 years. This has been a grassroots effort, propelled
-  forward by a core group of public artists who collaborate with local
-  non-profits, but who can also lead a self-funded project with the community.
-  The Pacoima Art Movement has restored pride in the community. 
+project_summary: "The Northeast San Fernando Valley has been going through a transformative process of Arts and Culture in the past couple of years, there have been a dozen new murals added to Pacoima’s’ walls. This has been possible due to the hard work and dedication of community muralists from the Northeast San Fernando Valley.  A Summer Arts Festival at Project Youth Green would expose youth and organizations to the importance of arts and culture for community revitalization. Art centered youth programs in the area do not have the capacity to serve the large Latino youth demographic. \r\n\r\nProject Youth Green, a four acre community garden has been expanding since it first opened and has been home to a practice ground for local artists and youth groups in the community. Artists of all backgrounds and experience levels have participated in painting a canvased gate, adding a wide range of styles, techniques and visuals to the landscape. Currently, this wall is falling apart, the material it is painted on is not meant for painting, and after more than 20 layers of murals in the past 4 years this piece of tarp is deteriorating. \r\n\r\nOne idea is to re-canvas this wall with a more sustainable material, as well as add more canvas to existing walls. Then with an art competition, invite youth to participate in covering the empty space with new art. Each youth group would be mentored by a practicing artist from the Northeast San Fernando Valley. In order to assure that the next generation has the skills required to continue and expand on this art revitalization, we must expose and train young people to master the brush.\r\n\r\nAnother aspect to art and design would be to challenge local youth art groups to design four sculptures. These sculptures would be strategically placed considering the land’s terrain in order to create a water harvesting system that would help the garden become self-sustaining. \r\n\r\nWith the added blank canvas at the community garden youth are given the opportunity to learn and practice mural skills by providing a space where they can work on large-scale projects. A group of artists who are part of this movement will hold workshops, sharing their skills with youth at centers, schools, and organizations. The skills of design, collaboration, and sustainability can be taught simultaneously through art and gardening.\r\n\r\nA contest would then be held, opening it up to the youth in the community, where a select number will be chosen to compete at a summer arts festival. Each artist will have a mentor to guide them through the contest. There will be criteria to follow that will challenge their creative thinking and design skills. A winner will be chosen by a panel of judges and the winner will be given the opportunity to add their own mural to Pacoima’s Mural Mile. All other contestants will be given prizes and the opportunity to help the winner design and execute their mural. \r\n"
 project_image: 'https://img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/rksqpbf13eo'
 maker_answers:
@@ -234,5 +228,12 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/art-revitalization-movement/img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg
 youtube_video_identifier: rksqpbf13eo
+project_summary_backup: >-
+  Mural Mile has become a necessary project for artists, community members, and
+  art enthusiasts. There have been a dozen new murals added to Van Nuys Blvd. in
+  Pacoima, all in the past 2 years. This has been a grassroots effort, propelled
+  forward by a core group of public artists who collaborate with local
+  non-profits, but who can also lead a self-funded project with the community.
+  The Pacoima Art Movement has restored pride in the community. 
 
 ---

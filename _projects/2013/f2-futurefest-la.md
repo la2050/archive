@@ -6,31 +6,7 @@ indicator: Arts & Cultural Vitality
 body_class: strawberry
 project_id: '3102045'
 title: f2 FutureFest LA
-project_summary: >-
-  In 2009 the c3 created a partnership with The Millennium Project
-  www.millennium-project.org, a global futurists think tank, and the founder of
-  c3 serves as the Chair of their Global Arts and Media Node.  Together with the
-  Millennium Project, we have present an annual STATE OF THE ARTS event since
-  2010.  In 2011 we co-presented the STATE OF THE ARTS with the PGA:  Producers
-  Guild of America and also hosted a think tank to address how arts and media
-  professionals could help to address 15 global challenges through their work. 
-  The event was held in The Vortex Dome, a 50 foot immersive dome theater and
-  was streamed globally.  During the think tank several ideas were generated
-  including an idea to create an educational program called MYTHIC CHALLENGES
-  that would help to inspire youth to create modern day myths addressing the 15
-  Global Challenges and create films about their stories.  In 2012 the first
-  class was launched and students from Grove Cleaveland High School Media Lab in
-  Reseda collaborated with High School students in Afghanistan through the
-  internet to create Mythic Challenges projects.  Fantastic!  Seven films were
-  created by these students.  To view these films visit the c3 site page and
-  scroll down to the bottom of the page: 
-  http://consciouscreativity.com/millennium-project/mythic-challenges  Not only
-  did the students learn about mythic challenges storytelling and filmmaking
-  they also learned about what a professional futurist is and does.  In 2012 we
-  were also awarded a $50,000 grant to produce an immersive ballet in the dome
-  with a renowned 83 year old ballet dancer/choreographer.  The piece, BLUE
-  APPLE, was successfully premiered in September 2012 in the Vortex Dome to a
-  very appreciative audience.  
+project_summary: "The f2: FutureFest LA \r\n\r\nThe c3: Center for Conscious Creativity www.consciouscreativity.org proposes producing the launch of an annual \"worlds fair\" type LA cultural event featuring emerging entertainment technologies and the latest creations in the arts, entertainment and media industries with emphasis on how the arts, entertainment and creativity can create a better world. \r\n\r\nInitially, the f2 will take place downtown LA at LA Center Studios www.lacenterstudios.com and will feature a futures film festival, an arts and emerging technologies showcase and a music concert for a challenge/cause.  The buildings at the LA Center Studios will become canvases for unique digital projection mapping creations and the Vortex Dome www.vorteximmersion.com located at the studio will house a fulldome festival showcase as well.  The first of its kind in Los Angeles.  \r\n\r\nThe festival will also include the STATE OF THE ARTS symposium featuring thought leaders and experts addressing the latest trends in the arts and entertainment industries and will provide ideas and case studies around how the arts, creativity, entertainment and storytelling can be used to create a better world/future.  \r\n\r\nThe c3 has presented the STATE OF THE ARTS since 2010 when it first launched as a collaborative partner with the LA Opera's RING FEST LA www.c3so.com and www.c3visionlab.org and would now propose adding the f2 to its offerings in honor of the City of LA.  \r\n\r\nThe f2 will serve as an annual magnet attracting the world's greatest artists and creators and technology innovators to participate along the city's own talent pool.   It will be modeled after the tremendously successful Venice Biennale, SXSW in Austin, Texas, and the Fringe Festival in Endinburgh, Scotland (Statistics for 2011 Edinburgh Festival Fringe concluded that it was the largest on record: there were over 40,000 performances of over 2,500 different shows in 258 venues.  Ticket sales amounted to around 1.8 million.  There are now 12 full-time members of staff.  For more details visit:  http://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe).  \r\n\r\nThe f2 has the potential to become a global event that could rival the Edinburgh Fringe Festival potentially attracting millions of visitors to the city for this annual event as it seeds in the Fall of 2013 and then gradually involves the entire City of Greater Los Angeles, the Creative Capital of the World, to participate.  \r\n\r\nThe arts and creativity of children and students will also be included and arts and media colleges will also participate by encouraging their students to participate in the annual event.  \r\n\r\n  "
 project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/n_itMCVl124'
 maker_answers:
@@ -266,5 +242,30 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/f2-futurefest-la/img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg
 youtube_video_identifier: n_itMCVl124
+project_summary_backup: >-
+  In 2009 the c3 created a partnership with The Millennium Project
+  www.millennium-project.org, a global futurists think tank, and the founder of
+  c3 serves as the Chair of their Global Arts and Media Node.  Together with the
+  Millennium Project, we have present an annual STATE OF THE ARTS event since
+  2010.  In 2011 we co-presented the STATE OF THE ARTS with the PGA:  Producers
+  Guild of America and also hosted a think tank to address how arts and media
+  professionals could help to address 15 global challenges through their work. 
+  The event was held in The Vortex Dome, a 50 foot immersive dome theater and
+  was streamed globally.  During the think tank several ideas were generated
+  including an idea to create an educational program called MYTHIC CHALLENGES
+  that would help to inspire youth to create modern day myths addressing the 15
+  Global Challenges and create films about their stories.  In 2012 the first
+  class was launched and students from Grove Cleaveland High School Media Lab in
+  Reseda collaborated with High School students in Afghanistan through the
+  internet to create Mythic Challenges projects.  Fantastic!  Seven films were
+  created by these students.  To view these films visit the c3 site page and
+  scroll down to the bottom of the page: 
+  http://consciouscreativity.com/millennium-project/mythic-challenges  Not only
+  did the students learn about mythic challenges storytelling and filmmaking
+  they also learned about what a professional futurist is and does.  In 2012 we
+  were also awarded a $50,000 grant to produce an immersive ballet in the dome
+  with a renowned 83 year old ballet dancer/choreographer.  The piece, BLUE
+  APPLE, was successfully premiered in September 2012 in the Vortex Dome to a
+  very appreciative audience.  
 
 ---
