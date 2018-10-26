@@ -22,8 +22,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _node
-  - assets/images/projects
-  - assets/images/organizations
 
 defaults:
   - scope:
